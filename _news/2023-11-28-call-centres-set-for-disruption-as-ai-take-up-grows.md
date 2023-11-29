@@ -18,19 +18,33 @@ topics:
   - AI
 
 related:
-  - title: "£500m for AI 'innovation centres' announced by chancellor"
-    excerpt: "Jeremy Hunt says the government will invest £500m over the next two years to fund more \"innovation centres\" to help make the UK an \"AI powerhouse\"."
-    publishedDateTime: 2023-11-24T00:46:00Z
-    webUrl: "https://www.bbc.com/news/av/uk-politics-67499587"
+  - title: "Artificial intelligence, sustainability lead data centre trends in 2024"
+    excerpt: "Demand for artificial intelligence (AI) and the pressure to reduce energy consumption, costs, and greenhouse gas emissions loom large over the data centre industry in 2024, predicts digital infrastructure provider Vertiv."
+    publishedDateTime: 2023-11-26T08:05:00Z
+    webUrl: "https://itwire.com/guest-articles/guest-research/artificial-intelligence,-sustainability-lead-data-centre-trends-in-2024.html"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 67
+      name: ITWire
+      domain: itwire.com
+    quality: 52
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/031E/production/_131789700_p0gv6zyr.jpg"
-        width: 1024
-        height: 576
+      - url: "https://itwire.com/media/k2/items/cache/ce32e098a9a3517925dc27eff7ba8a6f_M.jpg"
+        width: 375
+        height: 562
+        isCached: true
+  - title: "MPU-Bell Centre of English Organizes AI Creative English Language Teaching Forum"
+    excerpt: "Entering its 21st year, the MPU-Bell Centre of English will continue to provide high-quality English training for local and mainland universities and schools, and offer a more diverse range of international English examination certifications, aiming to contribute to positioning Macao as a base for English training and international examinations."
+    publishedDateTime: 2023-11-28T11:53:00Z
+    webUrl: "https://www.gcs.gov.mo/detail/en/N23KbFkM7b"
+    type: article
+    provider:
+      name: 澳门特别行政区政府
+      domain: gcs.gov.mo
+    quality: 34
+    images:
+      - url: "https://www.gcs.gov.mo/fp/N23KbFkM7b_f20231128153713qAjI/m/"
+        width: 500
+        height: 281
         isCached: true
 
 secured: "fMXd5XjRAu7+2b1XZReKny9LolNGxOHLh2c1i/6jur1mU43VnixkxtCnnRktPVM7wWjYKaliHxxyfkxfJk5J3rmu0syOfduiT2Eg3f+1sTlVDgU75GgQijfcKPU22tPwcA5vCtCC+a+nAJH6011iXlcLSFRORURPopTLUg4wSNz0ydnaKuWXsISVvm+SrLg7RKFZWt4pL0lKZHJBRlqYt4LtElX/rYAs0SRu/0xonB/FA2ZloS+8iBPIDHnQXQPbs7z86mV9KYBxdn0i+3CZOTPFmLc9fyAPb8hZIOJ0B01Z2XOUt5sM2fNCmkDBbvZEtanvAcckTAy+V+71To5dpkZ+FOZFED/PPCLfYOes90MKMlGnt12zUeq92FFGDe3jbkHB7LTxvm71MR7b5xlGr3DbwgcvIHAbg4DqCXbR7F9LVTTKxKKTfgwxNdLwoQybLG7GqFi96JSGkxj5jJ4iMfxL7vfu3jI/0rfHrRTo1/ltncqbmVPbP330N5BMSxt+ZTCimUYlVCsQVNTB5Fg9ug==;IByrxFCDNxgLmt1TrAUVug=="

@@ -69,6 +69,22 @@ related:
         width: 1007
         height: 630
         isCached: true
+  - title: "Integrating Artificial Intelligence into healthcare: The future is here already"
+    excerpt: "By Dayo Ojerinde With the experience I gathered covering the health beat as a journalist in Nigeria over the last five to six years, I know that we have challenges in the healthcare industry and the challenges are surmountable."
+    publishedDateTime: 2023-11-28T21:52:00Z
+    webUrl: "https://www.vanguardngr.com/2023/11/integrating-artificial-intelligence-into-healthcare-the-future-is-here-already/"
+    ampWebUrl: "https://www.vanguardngr.com/2023/11/integrating-artificial-intelligence-into-healthcare-the-future-is-here-already/amp/"
+    cdnAmpWebUrl: "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2023/11/integrating-artificial-intelligence-into-healthcare-the-future-is-here-already/amp/"
+    type: article
+    provider:
+      name: Vanguard
+      domain: vanguardngr.com
+    quality: 70
+    images:
+      - url: "https://cdn.vanguardngr.com/wp-content/uploads/2023/11/image-492-e1701211890193.png"
+        width: 784
+        height: 667
+        isCached: true
   - title: "Procurement in the age of AI"
     excerpt: "But recent advances in natural language processing (NLP), pattern recognition, cognitive analytics, and large language models (LLMs) are “opening up opportunities to make procurement more efficient and effective,” says Julie Scully, director of ..."
     publishedDateTime: 2023-11-28T00:00:00Z

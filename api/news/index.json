@@ -2,6 +2,109 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-11-29-aws-widens-data-pipelines-creates-gen-ai-assistant.md",
+      "title": "AWS Widens Data Pipelines + Creates Gen-AI Assistant",
+      "excerpt": "Because data exists in so varied a set of structures and forms that we can do much with it - but, that means we need ways to connect all our data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/11/28/aws-widens-data-pipelines--creates-gen-ai-assistant/",
+      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/11/28/aws-widens-data-pipelines--creates-gen-ai-assistant/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65667326d20fbb7c71172c59/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 640,
+          "height": 358,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/11/28/aws-widens-data-pipelines--creates-gen-ai-assistant/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/11/28/aws-widens-data-pipelines--creates-gen-ai-assistant/amp/",
+      "publishedDateTime": "2023-11-28T23:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-29-mother-plucker-steel-fingers-guided-by-ai-pluck-weeds-rapidly-and-autonomously.md",
+      "title": "Mother plucker: Steel fingers guided by AI pluck weeds rapidly and autonomously",
+      "excerpt": "To pinpoint plants it needs to pluck, the Ekobot uses an AI-powered machine vision system trained to identify weeds as it rolls above the farm field. Once the weeds are within its sights, the robot uses a series of metal fingers to quickly dig up and push weeds out of the dirt.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/11/mother-plucker-steel-fingers-guided-by-ai-pluck-weeds-rapidly-and-autonomously/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/11/mother-plucker-steel-fingers-guided-by-ai-pluck-weeds-rapidly-and-autonomously/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/ekobot_hero_1-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/11/mother-plucker-steel-fingers-guided-by-ai-pluck-weeds-rapidly-and-autonomously/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/11/mother-plucker-steel-fingers-guided-by-ai-pluck-weeds-rapidly-and-autonomously/amp/",
+      "publishedDateTime": "2023-11-28T23:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-29-aws-launches-new-chips-for-ai-training-and-its-own-ai-chatbot.md",
       "title": "AWS Launches New Chips for AI Training and Its Own AI Chatbot",
       "excerpt": "Invent, NVIDIA contributed GPUs to Amazon's cloud efforts and added a retriever system to its AI Enterprise Software platform on AWS Marketplace.",
@@ -10,7 +113,7 @@
       "originalUrl": "https://www.techrepublic.com/article/aws-re-invent-2023-keynote/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 171,
+      "heat": 191,
       "tags": null,
       "images": [
         {
@@ -633,7 +736,7 @@
       "originalUrl": "https://venturebeat.com/ai/why-physical-operations-are-uniquely-positioned-for-ai-transformation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -684,7 +787,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/intapp-solutions-now-available-in-the-microsoft-azure-marketplace-1032854956",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 159,
       "tags": null,
       "images": null,
       "content": "",
@@ -917,7 +1020,7 @@
       "originalUrl": "https://www.zdnet.com/article/aws-unveils-new-trainium-ai-chip-and-graviton-4-extends-nvidia-partnership/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 269,
+      "heat": 279,
       "tags": null,
       "images": [
         {
@@ -959,6 +1062,59 @@
         "AI Hardware",
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-28-6-alternatives-to-chatgpt.md",
+      "title": "6 Alternatives To ChatGPT",
+      "excerpt": "In the short 12 months since its launch, generative AI platform ChatGPT has become the most widely recognised AI language model. According to a recent Forb",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/uk/advisor/business/software/alternatives-to-chatgpt/",
+      "originalUrl": "https://www.forbes.com/uk/advisor/business/software/alternatives-to-chatgpt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/uk/advisor/wp-content/uploads/2023/11/image1-4.jpg",
+          "width": 1999,
+          "height": 1232,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-28T10:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -1043,153 +1199,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-28-dataiku-awarded-2023-aws-global-isv-aiml-partner-of-the-year-award.md",
-      "title": "Dataiku Awarded 2023 AWS Global ISV AI/ML Partner of the Year Award",
-      "excerpt": "Dataiku, the platform for Everyday AI, today announced that it received the 2023 AWS Global ISV AI/ML Partner of the Year Award at AWS re:Invent 2023. This recognition, alongside the 2023 AWS Geo ISV Partner of the Year Award in France,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/dataiku-awarded-2023-aws-global-isv-ai-ml-partner-of-the-year-award-1032853808",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/dataiku-awarded-2023-aws-global-isv-ai-ml-partner-of-the-year-award-1032853808",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-28T09:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-11-28-how-ai-will-fool-voters-in-2024-if-we-dont-do-something-now.md",
-      "title": "How AI will fool voters in 2024 if we don't do something now",
-      "excerpt": "As generative AI redefines political propaganda, it threatens to amplify misinformation and voter manipulation. Prof. Robert Crossler and ZDNET's resident presidential scholar discuss the digital challenges facing our upcoming election cycles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/elections-2024-how-ai-will-fool-voters-if-we-dont-do-something-now/",
-      "originalUrl": "https://www.zdnet.com/article/elections-2024-how-ai-will-fool-voters-if-we-dont-do-something-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/a6980116398dabefb87e97a547abbce8ef72a671/2023/11/28/656a29c8-b3a3-4a00-b8fa-c43bf9123d76/capitolgettyimages-1773573761.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/elections-2024-how-ai-will-fool-voters-if-we-dont-do-something-now/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/elections-2024-how-ai-will-fool-voters-if-we-dont-do-something-now/",
-      "publishedDateTime": "2023-11-28T08:12:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-28-top-10-healthcare-industry-predictions-for-2024.md",
-      "title": "Top 10 Healthcare Industry Predictions For 2024",
-      "excerpt": "In this game of healthcare industry Darwinism, unicorns are giving way to ponies. An interesting aspect of the new startups is that many are looking to use artificial intelligence to solve some of the industry’s vexing and most intractable problems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sachinjain/2023/11/28/top-10-healthcare-industry-predictions-for-2024/",
-      "originalUrl": "https://www.forbes.com/sites/sachinjain/2023/11/28/top-10-healthcare-industry-predictions-for-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65654cd25bb9ebb81f474324/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sachinjain/2023/11/28/top-10-healthcare-industry-predictions-for-2024/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sachinjain/2023/11/28/top-10-healthcare-industry-predictions-for-2024/amp/",
-      "publishedDateTime": "2023-11-28T06:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

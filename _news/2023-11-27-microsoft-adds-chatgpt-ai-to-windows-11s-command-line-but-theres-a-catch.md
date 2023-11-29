@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft brings ChatGPT AI to Windows 11’s command line, and here’s a closer look"
-    excerpt: "ChatGPT-powered “AI chat” on Windows 11. ChatGPT integration is now available in Terminal (Canary), a new development channel to test experimental features ahead of a wider rollout. With ChatGPT AI Chat in Terminal,"
-    publishedDateTime: 2023-11-24T00:20:00Z
-    webUrl: "https://www.windowslatest.com/2023/11/24/microsoft-brings-chatgpt-ai-to-windows-11s-command-line-terminal-closer-look/"
-    ampWebUrl: "https://www.windowslatest.com/2023/11/24/microsoft-brings-chatgpt-ai-to-windows-11s-command-line-terminal-closer-look/amp/"
-    cdnAmpWebUrl: "https://www-windowslatest-com.cdn.ampproject.org/c/s/www.windowslatest.com/2023/11/24/microsoft-brings-chatgpt-ai-to-windows-11s-command-line-terminal-closer-look/amp/"
-    type: article
-    provider:
-      name: Windows Latest
-      domain: windowslatest.com
-    quality: 83
-    images:
-      - url: "https://www.windowslatest.com/wp-content/uploads/2023/09/Windows-Terminal-with-AI-on-Windows-11.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Microsoft Debuts Custom Chips for Cloud and AI: Azure Maia AI Accelerator and Azure Cobalt CPU"
     excerpt: "During the recent Ignite conference, Microsoft introduced two custom-designed chips for their cloud infrastructure: Microsoft Azure Maia AI Accelerator (Athena), optimized for artificial intelligence (AI) tasks and generative AI,"
     publishedDateTime: 2023-11-25T11:06:00Z
@@ -54,36 +38,6 @@ related:
       - url: "https://res.infoq.com/news/2023/11/azure-custom-chips-cobalt-maia/en/headerimage/generatedHeaderImage-1700598494312.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Microsoft gives up on internet search to build a better AI brand"
-    excerpt: "The company is going all in on generative artificial intelligence, even if that means walking away from its fight over internet search with Google."
-    publishedDateTime: 2023-11-28T01:59:00Z
-    webUrl: "https://www.computerworld.com/article/3711460/microsoft-gives-up-on-internet-search-to-build-a-better-ai-brand.html"
-    ampWebUrl: "https://www.computerworld.com/article/3711460/microsoft-gives-up-on-internet-search-to-build-a-better-ai-brand.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3711460/microsoft-gives-up-on-internet-search-to-build-a-better-ai-brand.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 74
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/10/0-microsoft-copilot-100946694-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "6 Alternatives To ChatGPT"
-    excerpt: "In the short 12 months since its launch, generative AI platform ChatGPT has become the most widely recognised AI language model. According to a recent Forb"
-    publishedDateTime: 2023-11-28T10:28:00Z
-    webUrl: "https://www.forbes.com/uk/advisor/business/software/alternatives-to-chatgpt/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 71
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/uk/advisor/wp-content/uploads/2023/11/image1-4.jpg"
-        width: 1999
-        height: 1232
         isCached: true
   - title: "Microsoft Announces 100 New Services, Updates to Help Accelerate AI Transformation"
     excerpt: "Microsoft has said it introduced around 100 new services and updates as part of its AI-forward strategy, including key developments within its productivity and security offerings. The announcements were made at Microsoft Ignite 2023 – the company’s annual conference for developers and IT professionals, according to a statement by the company."
@@ -101,48 +55,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Microsoft Releases ML.NET 3.0"
-    excerpt: "Microsoft has announced the release of ML.NET 3.0, its open-source, cross-platform, and .NET-based machine learning (ML) framework."
-    publishedDateTime: 2023-11-28T15:02:00Z
-    webUrl: "https://www.thurrott.com/dev/293679/microsoft-releases-ml-net-3-0"
-    type: article
-    provider:
-      name: Thurrott
-      domain: thurrott.com
-    quality: 56
-    images:
-      - url: "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2023/11/ml.net-model-builder-thumb.jpg"
-        width: 1066
-        height: 600
-        isCached: true
-  - title: "Microsoft reveals the hardware needed to run ChatGPT"
-    excerpt: "Discover the Microsoft hardware and supercomputers built to run OpenAI's ChatGPT AI model. Making the chatbot accessible to users worldwide"
-    publishedDateTime: 2023-11-28T14:44:00Z
-    webUrl: "https://www.geeky-gadgets.com/microsoft-reveals-the-hardware-needed-to-run-chatgpt/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 56
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/11/what-hardware-is-required-to-run-ChatGPT.jpg"
-        width: 1280
-        height: 717
-        isCached: true
-  - title: "Try the ChatGPT ‘Make It More’ Trend and Generate Absurd AI Images"
-    excerpt: "AI art generators are in a weird place. They can attempt to make just about anything you can think of, from a dog skateboarding in outer space, to a cup of coffee floating in the ocean. Putting the ethics of AI art aside, some of these creations do not hit ..."
-    publishedDateTime: 2023-11-28T00:00:00Z
-    webUrl: "https://lifehacker.com/tech/chat-gpt-make-it-more-ai-images-trend"
-    type: article
-    provider:
-      name: Lifehacker
-      domain: lifehacker.com
-    quality: 56
-    images:
-      - url: "https://lifehacker.com/imagery/articles/01HGBQS23N1QDMYX4N8FJAYHDF/hero-image.fill.size_1200x675.png"
-        width: 1200
-        height: 674
-        isCached: true
   - title: "Microsoft’s AI-powered Bing is coming for Google’s Bard-infused … – Vox.com"
     excerpt: "Google bookended Microsoft’s big AI search announcement with underwhelming AI news of its own.Microsoft has officially taken the lead in the race"
     publishedDateTime: 2023-11-27T15:22:00Z
@@ -157,24 +69,15 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "OneNeck Earns Four Microsoft AI Cloud Partner Designations"
-    excerpt: "OneNeck has earned four Microsoft Solutions Partner Designations in the new AI Cloud Partner Program, superseding our previous Gold and Silver statuses. The designations are: Digital & App Innovation: Evolving applications to leverage advanced services in Azure. Modern Work: Helping customers enhance productivity and security using Microsoft 365."
-    publishedDateTime: 2023-11-28T18:38:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-oneneck-earns-four-microsoft-ai-cloud-partner-designations-/2023/11/28/9924506.htm"
+  - title: "Good AI, bad AI: Decoding responsible artificial intelligence"
+    excerpt: "Artificial intelligence (AI) is so hot right now. ChatGPT, DALL-E, and other AI-driven platforms are providing us with completely new ways of working. Generative AI is writing everything from cover letters to campaign strategies and creating impressive images from scratch."
+    publishedDateTime: 2023-11-24T19:17:00Z
+    webUrl: "https://techxplore.com/news/2023-11-good-ai-bad-decoding-responsible.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: techxplore
+      domain: techxplore.com
     quality: 34
-  - title: "Elon Musk Unveils New Artificial Intelligence Bot to Rival ChatGPT – TIME"
-    excerpt: "Elon Musk revealed his own artificial intelligence bot to challenge ChatGPT, claiming the prototype is already superior to ChatGPT 3.5 across several"
-    publishedDateTime: 2023-11-24T20:22:00Z
-    webUrl: "https://www.inferse.com/804736/elon-musk-unveils-new-artificial-intelligence-bot-to-rival-chatgpt-time/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 16
 
 secured: "aYtG9MFVDC6417U/wqevCG/J+2xU+cwr06SuyaWGmPmLg3uSu7kb9gsdrRsHXeqhN36JO43m3kkM6J2Zi6yl7oW+RqloQ0avuYB2/LQCoQ2Bz/uA5o1JPB72SrCWfymjUcSWL0u3zo/DHX/7IQPdNIEtWbzdUQ/6U8CH2IrM90QxiFmiet+mzjcpKyMKzLLruV23vr8QIqHnNwW+Bya4TxP4qNDit2rLTaDv5yykrWoitCR5PI/1OkFd8g3x89YsZ8RtJ1YhTwffiII92EtGe//IQMI7rmxDlK3BF88RnkHi/nrUBztnE0q0LaCoLcWIEcncB8+hfOMNicvsVG7XWyxQqRfIdJVjB3LfwCmSEHI=;kjy2U2E56UY+V7ZMQDVziA=="
 ---

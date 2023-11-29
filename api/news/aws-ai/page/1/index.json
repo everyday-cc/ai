@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-11-29-aws-widens-data-pipelines-creates-gen-ai-assistant.md",
+      "title": "AWS Widens Data Pipelines + Creates Gen-AI Assistant",
+      "excerpt": "Because data exists in so varied a set of structures and forms that we can do much with it - but, that means we need ways to connect all our data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/11/28/aws-widens-data-pipelines--creates-gen-ai-assistant/",
+      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/11/28/aws-widens-data-pipelines--creates-gen-ai-assistant/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65667326d20fbb7c71172c59/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 640,
+          "height": 358,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/11/28/aws-widens-data-pipelines--creates-gen-ai-assistant/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/11/28/aws-widens-data-pipelines--creates-gen-ai-assistant/amp/",
+      "publishedDateTime": "2023-11-28T23:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-29-aws-launches-new-chips-for-ai-training-and-its-own-ai-chatbot.md",
       "title": "AWS Launches New Chips for AI Training and Its Own AI Chatbot",
       "excerpt": "Invent, NVIDIA contributed GPUs to Amazon's cloud efforts and added a retriever system to its AI Enterprise Software platform on AWS Marketplace.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.techrepublic.com/article/aws-re-invent-2023-keynote/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 171,
+      "heat": 191,
       "tags": null,
       "images": [
         {
@@ -245,7 +297,7 @@
       "originalUrl": "https://www.zdnet.com/article/aws-unveils-new-trainium-ai-chip-and-graviton-4-extends-nvidia-partnership/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 269,
+      "heat": 279,
       "tags": null,
       "images": [
         {
@@ -342,7 +394,7 @@
       "originalUrl": "https://www.devdiscourse.com/article/technology/2726659-aussie-startup-leonardoai-leverages-aws-to-manage-explosive-growth",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -585,7 +637,7 @@
       "originalUrl": "https://enterprisetalk.com/quick-bytes/clarity-ai-and-aws-advance-their-sustainable-investing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -628,7 +680,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-ai-services-enhanced-with-fm-powered-capabilities/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -767,7 +819,7 @@
       "originalUrl": "https://www.ibm.com/blog/security-solutions-and-consulting-services-for-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 320,
+      "heat": 350,
       "tags": null,
       "images": null,
       "content": "",
@@ -898,7 +950,7 @@
       "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/11/25/aws-reinvent-preview-with-matt-wood-whos-been-at-aws-from-the-start/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -1370,59 +1422,6 @@
         "Microsoft AI",
         "Natural Language Processing",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-11-21-amazon-textracts-new-layout-feature-introduces-efficiencies-in-general-purpose-and-generative-ai-document-processing-tasks.md",
-      "title": "Amazon Textract’s new Layout feature introduces efficiencies in general purpose and generative AI document processing tasks",
-      "excerpt": "Amazon Textract is a machine learning (ML) service that automatically extracts text, handwriting, and data from any document or image. AnalyzeDocument Layout is a new feature that allows customers to automatically extract layout elements such as paragraphs, titles, subtitles, headers, footers, and more",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-textracts-new-layout-feature-introduces-efficiencies-in-general-purpose-and-generative-ai-document-processing-tasks/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-textracts-new-layout-feature-introduces-efficiencies-in-general-purpose-and-generative-ai-document-processing-tasks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/17/layout-textractor-975x630.jpg",
-          "width": 975,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-21T17:24:48Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

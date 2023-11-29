@@ -19,36 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft brings ChatGPT AI to Windows 11’s command line, and here’s a closer look"
-    excerpt: "ChatGPT-powered “AI chat” on Windows 11. ChatGPT integration is now available in Terminal (Canary), a new development channel to test experimental features ahead of a wider rollout. With ChatGPT AI Chat in Terminal,"
-    publishedDateTime: 2023-11-24T00:20:00Z
-    webUrl: "https://www.windowslatest.com/2023/11/24/microsoft-brings-chatgpt-ai-to-windows-11s-command-line-terminal-closer-look/"
-    ampWebUrl: "https://www.windowslatest.com/2023/11/24/microsoft-brings-chatgpt-ai-to-windows-11s-command-line-terminal-closer-look/amp/"
-    cdnAmpWebUrl: "https://www-windowslatest-com.cdn.ampproject.org/c/s/www.windowslatest.com/2023/11/24/microsoft-brings-chatgpt-ai-to-windows-11s-command-line-terminal-closer-look/amp/"
+  - title: "Intapp solutions now available in the Microsoft Azure Marketplace"
+    excerpt: "PALO ALTO, Calif., Nov. 28, 2023 (GLOBE NEWSWIRE) -- Intapp (NASDAQ: INTA), a leading provider of cloud software for the global professional and financial services industry, today announced the availability of its solutions in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2023-11-28T14:59:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/intapp-solutions-now-available-in-the-microsoft-azure-marketplace-1032854956"
     type: article
     provider:
-      name: Windows Latest
-      domain: windowslatest.com
-    quality: 83
-    images:
-      - url: "https://www.windowslatest.com/wp-content/uploads/2023/09/Windows-Terminal-with-AI-on-Windows-11.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Microsoft Debuts Custom Chips for Cloud and AI: Azure Maia AI Accelerator and Azure Cobalt CPU"
-    excerpt: "During the recent Ignite conference, Microsoft introduced two custom-designed chips for their cloud infrastructure: Microsoft Azure Maia AI Accelerator (Athena), optimized for artificial intelligence (AI) tasks and generative AI,"
-    publishedDateTime: 2023-11-25T11:06:00Z
-    webUrl: "https://www.infoq.com/news/2023/11/azure-custom-chips-cobalt-maia/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 74
-    images:
-      - url: "https://res.infoq.com/news/2023/11/azure-custom-chips-cobalt-maia/en/headerimage/generatedHeaderImage-1700598494312.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 79
   - title: "Microsoft gives up on internet search to build a better AI brand"
     excerpt: "The company is going all in on generative artificial intelligence, even if that means walking away from its fight over internet search with Google."
     publishedDateTime: 2023-11-28T01:59:00Z
@@ -64,50 +43,6 @@ related:
       - url: "https://images.idgesg.net/images/article/2023/10/0-microsoft-copilot-100946694-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 675
-        isCached: true
-  - title: "6 Alternatives To ChatGPT"
-    excerpt: "In the short 12 months since its launch, generative AI platform ChatGPT has become the most widely recognised AI language model. According to a recent Forb"
-    publishedDateTime: 2023-11-28T10:28:00Z
-    webUrl: "https://www.forbes.com/uk/advisor/business/software/alternatives-to-chatgpt/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 71
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/uk/advisor/wp-content/uploads/2023/11/image1-4.jpg"
-        width: 1999
-        height: 1232
-        isCached: true
-  - title: "Microsoft Announces 100 New Services, Updates to Help Accelerate AI Transformation"
-    excerpt: "Microsoft has said it introduced around 100 new services and updates as part of its AI-forward strategy, including key developments within its productivity and security offerings. The announcements were made at Microsoft Ignite 2023 – the company’s annual conference for developers and IT professionals, according to a statement by the company."
-    publishedDateTime: 2023-11-25T10:38:00Z
-    webUrl: "https://www.thisdaylive.com/index.php/2023/11/25/microsoft-announces-100-new-services-updates-to-help-accelerate-ai-transformation"
-    ampWebUrl: "https://www.thisdaylive.com/index.php/2023/11/25/microsoft-announces-100-new-services-updates-to-help-accelerate-ai-transformation"
-    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2023/11/25/microsoft-announces-100-new-services-updates-to-help-accelerate-ai-transformation"
-    type: article
-    provider:
-      name: This Day
-      domain: thisdaylive.com
-    quality: 68
-    images:
-      - url: "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/microsoft.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Microsoft Adds ChatGPT AI To Windows 11's Command Line, But There's A Catch"
-    excerpt: "ChatGPT's AI capabilities in the Windows Terminal can come in handy for explaining errors, generating commands and providing recommendations."
-    publishedDateTime: 2023-11-27T07:43:00Z
-    webUrl: "https://www.ibtimes.co.uk/microsoft-adds-chatgpt-ai-windows-11s-command-line-theres-catch-1721824"
-    type: article
-    provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 67
-    images:
-      - url: "https://d.ibtimes.co.uk/en/full/1717654/chatgpt.jpg"
-        width: 2500
-        height: 1667
         isCached: true
   - title: "Microsoft Releases ML.NET 3.0"
     excerpt: "Microsoft has announced the release of ML.NET 3.0, its open-source, cross-platform, and .NET-based machine learning (ML) framework."
@@ -137,43 +72,52 @@ related:
         width: 1280
         height: 717
         isCached: true
-  - title: "Try the ChatGPT ‘Make It More’ Trend and Generate Absurd AI Images"
-    excerpt: "AI art generators are in a weird place. They can attempt to make just about anything you can think of, from a dog skateboarding in outer space, to a cup of coffee floating in the ocean. Putting the ethics of AI art aside, some of these creations do not hit ..."
-    publishedDateTime: 2023-11-28T00:00:00Z
-    webUrl: "https://lifehacker.com/tech/chat-gpt-make-it-more-ai-images-trend"
+  - title: "Informatica deploys Microsoft Azure pod in Canada"
+    excerpt: "Informatica says IDMC improves analytics and AI workloads on Azure by ensuring data is high quality and trustworthy. Customers can now access IDMC as an Azure Native Service purchased through the Azure Marketplace. Informatica has customers in more than ..."
+    publishedDateTime: 2023-11-24T09:53:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/informatica-deploys-microsoft-azure-pod-in-canada/"
     type: article
     provider:
-      name: Lifehacker
-      domain: lifehacker.com
-    quality: 56
-    images:
-      - url: "https://lifehacker.com/imagery/articles/01HGBQS23N1QDMYX4N8FJAYHDF/hero-image.fill.size_1200x675.png"
-        width: 1200
-        height: 674
-        isCached: true
-  - title: "Microsoft’s AI-powered Bing is coming for Google’s Bard-infused … – Vox.com"
-    excerpt: "Google bookended Microsoft’s big AI search announcement with underwhelming AI news of its own.Microsoft has officially taken the lead in the race"
-    publishedDateTime: 2023-11-27T15:22:00Z
-    webUrl: "https://www.inferse.com/806674/microsofts-ai-powered-bing-is-coming-for-googles-bard-infused-vox-com/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
     quality: 54
     images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-14258.png"
-        width: 1200
-        height: 628
+      - url: "https://media.datacenterdynamics.com/media/images/1637699511013.2e16d0ba.fill-1200x630.jpg"
+        width: 450
+        height: 237
         isCached: true
-  - title: "Elon Musk Unveils New Artificial Intelligence Bot to Rival ChatGPT – TIME"
-    excerpt: "Elon Musk revealed his own artificial intelligence bot to challenge ChatGPT, claiming the prototype is already superior to ChatGPT 3.5 across several"
-    publishedDateTime: 2023-11-24T20:22:00Z
-    webUrl: "https://www.inferse.com/804736/elon-musk-unveils-new-artificial-intelligence-bot-to-rival-chatgpt-time/"
+  - title: "Schneider Electric Integrates Microsoft Azure OpenAI for Sustainable Solutions"
+    excerpt: "Generative AI automates content generation for marketing, personalizes customer interactions and streamlines decision-making processes, making it a game-changer for the business world. Businesses can"
+    publishedDateTime: 2023-11-27T16:05:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/11/ab35963749/schneider-electric-integrates-microsoft-azure-openai-for-sustainable-solutions"
     type: article
     provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 16
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 45
+  - title: "How Microsoft goes around seeking unfettered ownership of artificial general intelligence"
+    excerpt: "It is becoming increasingly clear that OpenAI's convoluted corporate structure led to conflicting motivations and incentives within the company."
+    publishedDateTime: 2023-11-27T03:59:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/how-microsoft-goes-around-seeking-unfettered-ownership-of-artificial-general-intelligence/105524388"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 30
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-105524388,imgsize-62402,width-1200,height=765,overlay-etcio/artificial-intelligence/how-microsoft-goes-around-seeking-unfettered-ownership-of-artificial-general-intelligence.jpg"
+        width: 1200
+        height: 765
+        isCached: true
+  - title: "Synopsys Partners with AMD, Intel, and Microsoft to Advance Generative AI in Semiconductor Industry"
+    excerpt: "This expands upon Synopsys’ recent announcement to deliver Synopsys.ai Copilot, the first in a series of GenAI capabilities for chip design. The integration of GenAI across the Synopsys.ai suite will provide chip designers with collaborative capabilities ..."
+    publishedDateTime: 2023-11-27T00:01:00Z
+    webUrl: "https://www.datanami.com/this-just-in/synopsys-partners-with-amd-intel-and-microsoft-to-advance-generative-ai-in-semiconductor-industry/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 22
 
 secured: "X/zuzRLWmcx+PsWWqSux8BlgYu0oJJYtfes5syqkh5AtecS/+hgtq17CUGw7SAxJXCTiH32cdQj1a6W4ju2PaMnIPh4jCjRSDPRhL182x5EsC73GlLrD8cKFyEJs6ncse8mGz7rXKT5rdITKQN7SZgpTmR2hC87zVPkIqtFLJ5mCCoIYSiAhC8sRfij7tVOvFTgLj/fg7NLfouf+QFTqigdkJMuHVC+8MP3jwsgRROpjpDw0heaKbyA5W9XQXdBl9GLWdz6RnVqL31qnCqgTweY/nGLgLafFHBPltTaCMQCvZa4CPHop8IVmYuB5cYNE5Rqv42dAPcSV+qlR+dC4KZ/665SjZ+yboQvQIDkm0pm64l42imjq1QrI8a6IKXV/yMV71+EEq+7bcxhuLloq48g+eHm/70bM/dxqc1Ymhaw3qvx1gLO1OwBhDliOVfpNJkex6ycttFKKtrDsAPVGLAk1sIpqWyiWd0HuihyHueVkUiZujn1smwiEJX0M+5rj/FsRDzG8sUxfgqkFL/4mJQ==;tD2JaCAa6wJhMd0Ll5+Q7g=="
 ---

@@ -76,6 +76,20 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "AWS says its new AI chip will train foundation models faster."
+    excerpt: "AWS CEO Adam Selipsky said the second generation of the company’s Trainium chip can train models four times faster than its predecessor. Trainium 2 has three times the memory as the first chip."
+    publishedDateTime: 2023-11-29T00:36:00Z
+    webUrl: "https://www.theverge.com/2023/11/28/23980237/aws-says-its-new-ai-chip-will-train-foundation-models-faster"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 101
+    images:
+      - url: "https://cdn.vox-cdn.com/uploads/chorus_asset/file/23966628/the_verge_social_share.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Nvidia shares fall after China AI chip is delayed"
     excerpt: "Citing two sources familiar with the matter, Reuters writes that the delayed chip is the H20, the most powerful of three AI-focused products Nvidia has developed"
     publishedDateTime: 2023-11-24T17:17:00Z

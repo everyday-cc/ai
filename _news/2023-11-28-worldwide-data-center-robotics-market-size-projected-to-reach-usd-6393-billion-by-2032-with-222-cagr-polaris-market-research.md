@@ -42,19 +42,14 @@ related:
         height: 400
         isCached: true
   - title: "Emotion Detection And Recognition Market size worth $ 99,086.41 Million, Globally, by 2030 at 12.10% CAGR: Verified Market Research®"
-    excerpt: "The Global Emotion Detection And Recognition Market is projected to grow at a CAGR of 12.10 % from 2024 to 2030, according to a new"
-    publishedDateTime: 2023-11-28T15:45:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/emotion-detection-and-recognition-market-size-worth--99-086-41-million-globally-by-2030-at-12-10-cagr-verified-market-research-301999420.html"
+    excerpt: "The \" Global Emotion Detection And Recognition Market Size By Tool Type, By End-user, By Geographic Scope And Forecast \" report has been published by Verified Market Research®. The report provides an in-depth analysis of the global Emotion Detection And Recognition Market, including its growth prospects, market trends, and market challenges."
+    publishedDateTime: 2023-11-28T15:53:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/11/28/9924451.htm"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
-    images:
-      - url: "https://mma.prnewswire.com/media/2015407/VMR_Logo.jpg?p=facebook"
-        width: 2635
-        height: 1380
-        isCached: true
 
 secured: "M4aSN1DpdE1OrW4uVGIJnmnECwwOpuH0BHQMouIXim8uzMMoINC80c5/VVwr8N20Msjn077zZwiXszfg8HnmpBWiGL9KRiHSyrXd9EqWpQyW0OCTRdVD2KYCtNHL9TjUwMv0woUl3NB+ghd0PHndUmnNaNY9eo0Ctb0hha5OoxjtQroBUXTV3YI+eKuCaqU4S1YBXC7iGrRUkmb2ogW6bfCda2z6PGLcqwmR8+CdDSauFhYlcaW3zuxEzPiBaOZQFpmKyLzhZzpAxYgOTXTKJeocfdXKaK0w/I06KcXLycSGp+O3eKKJlkiMO7+z/arXydyukjho12oM5Fu1V+07pjHum95p8a9cGGLnTf7qj58=;kPlg1yw3bMZgMRCnQRx3NQ=="
 ---

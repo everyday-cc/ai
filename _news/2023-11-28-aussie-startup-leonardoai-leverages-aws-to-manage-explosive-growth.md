@@ -9,7 +9,7 @@ ampWebUrl: "https://www.devdiscourse.com/article/technology/2726659-aussie-start
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2726659-aussie-startup-leonardoai-leverages-aws-to-manage-explosive-growth?amp"
 type: article
 quality: 74
-heat: 94
+heat: 85
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/peter_runham.jpg"
         width: 501
         height: 315
-        isCached: true
-  - title: "Leonardo.Ai Accelerates Global Growth, Generates 700 Million AI Images in Less Than a Year on AWS"
-    excerpt: "Amazon Web Services (AWS), an Amazon.com company, today announced that Leonardo.Ai, an Australian generative artificial intelligence (generative AI) content"
-    publishedDateTime: 2023-11-28T10:17:00Z
-    webUrl: "https://www.impulsegamer.com/leonardo-ai-accelerates-global-growth-generates-700-million-ai-images-in-less-than-a-year-on-aws/"
-    type: article
-    provider:
-      name: Impulse Gamer
-      domain: impulsegamer.com
-    quality: 41
-    images:
-      - url: "https://www.impulsegamer.com/articles/wp-content/uploads/2023/11/leo.jpg"
-        width: 1037
-        height: 399
         isCached: true
 
 secured: "SbSxvxeqrovJAwWzAXy2kYk60ONpC9nY74OqUeoPXsICGkTlS7RgjprpsL4eU4xF18fdkVgKnnyrlLI2WitUF9atRYUd/8uLApLxAsVyUxKXUytoZa4lsSs8PzCgnEZWQEFQmIchQZ2tvBdtLRBTezEcISz4ZWpbjN/fhq/wOjxXnwzb9AOn/m0iAAgfRFZjUBo5peg7VryGIUQ2QzzdKP5SIi9jVwCJ4L5L0AZ0gdL0BNuNL3fgbUz/M/1unsh0DBd9xwySTAxuH1VHfWTuopH6i/DsDnEzr1ik7mlcPd+aESiEvvqT84XPC0UkY0j9PeqNlJfmiBMhcm3IgxAXsLsHKb8/xotUtgCjiqJ25sHfbNBHx1GDT8+69nlfUnkqOOH/JKW/jCyDKb59DJjn/+nFseJWT8qAqSbJ0tiomW8DgUcyPuphkeHjkNvseQO9r1736kFp3CRjwUWlVFobj+y/ajzANNe6I67RvJzq6CMTEVuJgeAXXFUrHw5VtChSAzqOdpaOBE910Z0k5FmECA==;JpnSPI2hKw6DAShuMbAc9g=="

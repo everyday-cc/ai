@@ -34,6 +34,50 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 79
+  - title: "Microsoft gives up on internet search to build a better AI brand"
+    excerpt: "The company is going all in on generative artificial intelligence, even if that means walking away from its fight over internet search with Google."
+    publishedDateTime: 2023-11-28T01:59:00Z
+    webUrl: "https://www.computerworld.com/article/3711460/microsoft-gives-up-on-internet-search-to-build-a-better-ai-brand.html"
+    ampWebUrl: "https://www.computerworld.com/article/3711460/microsoft-gives-up-on-internet-search-to-build-a-better-ai-brand.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3711460/microsoft-gives-up-on-internet-search-to-build-a-better-ai-brand.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 74
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/10/0-microsoft-copilot-100946694-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Microsoft Releases ML.NET 3.0"
+    excerpt: "Microsoft has announced the release of ML.NET 3.0, its open-source, cross-platform, and .NET-based machine learning (ML) framework."
+    publishedDateTime: 2023-11-28T15:02:00Z
+    webUrl: "https://www.thurrott.com/dev/293679/microsoft-releases-ml-net-3-0"
+    type: article
+    provider:
+      name: Thurrott
+      domain: thurrott.com
+    quality: 56
+    images:
+      - url: "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2023/11/ml.net-model-builder-thumb.jpg"
+        width: 1066
+        height: 600
+        isCached: true
+  - title: "Microsoft reveals the hardware needed to run ChatGPT"
+    excerpt: "Discover the Microsoft hardware and supercomputers built to run OpenAI's ChatGPT AI model. Making the chatbot accessible to users worldwide"
+    publishedDateTime: 2023-11-28T14:44:00Z
+    webUrl: "https://www.geeky-gadgets.com/microsoft-reveals-the-hardware-needed-to-run-chatgpt/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 56
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/11/what-hardware-is-required-to-run-ChatGPT.jpg"
+        width: 1280
+        height: 717
+        isCached: true
   - title: "Schneider Electric Integrates Microsoft Azure OpenAI for Sustainable Solutions"
     excerpt: "Generative AI automates content generation for marketing, personalizes customer interactions and streamlines decision-making processes, making it a game-changer for the business world. Businesses can"
     publishedDateTime: 2023-11-27T16:05:00Z
@@ -43,6 +87,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 45
+  - title: "OneNeck Earns Four Microsoft AI Cloud Partner Designations"
+    excerpt: "OneNeck has earned four Microsoft Solutions Partner Designations in the new AI Cloud Partner Program, superseding our previous Gold and Silver statuses. The designations are: Digital & App Innovation: Evolving applications to leverage advanced services in Azure. Modern Work: Helping customers enhance productivity and security using Microsoft 365."
+    publishedDateTime: 2023-11-28T18:38:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-oneneck-earns-four-microsoft-ai-cloud-partner-designations-/2023/11/28/9924506.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
   - title: "How Microsoft goes around seeking unfettered ownership of artificial general intelligence"
     excerpt: "It is becoming increasingly clear that OpenAI's convoluted corporate structure led to conflicting motivations and incentives within the company."
     publishedDateTime: 2023-11-27T03:59:00Z

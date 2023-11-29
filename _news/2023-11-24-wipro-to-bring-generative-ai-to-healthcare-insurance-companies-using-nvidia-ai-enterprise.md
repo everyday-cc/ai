@@ -39,6 +39,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "NVIDIA Releases Major Omniverse Upgrade With Generative AI and … – NVIDIA Blog"
+    excerpt: "SIGGRAPH—NVIDIA today announced a major release of its NVIDIA Omniverse™ platform, offering new foundation applications and services for"
+    publishedDateTime: 2023-11-28T23:18:00Z
+    webUrl: "https://www.inferse.com/807530/nvidia-releases-major-omniverse-upgrade-with-generative-ai-and-nvidia-blog/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 35
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-14675.png"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "aQLLPcLE6z/1yupJQitvyTrnuDM7VWTvVoge/rFqKQYTkwB++DqjSC76RGrccaEpCs2mCC8q8SGYGSvC+5jc5kazV8851W0+gG65p2K67SC01y5gaB9YrtzHxytAio/b2GdujiLGPkRbHJLMkBa7c70396szTn+TTaDkimdAGI/DnMRwXJoJTVO64rad5XvylY/SCLT7J34zyVcPTGIeR0wy6LynWe/soys8zzCgC4gkKVTZM/DiiuNjrGgp5ltKarM5qr557+F0yClau51hNsX8bOX/zS5f8ztufzqpJwdDjdke0IauCqpFG3JbDA2i6VGXdLcgL5O2U23FyzF2Jy5x16Wwv1rLrgdVv/cwz4g=;B1C9aUiOB0w4F8BTULZo3w=="
 ---

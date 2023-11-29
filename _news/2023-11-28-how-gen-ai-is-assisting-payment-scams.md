@@ -24,15 +24,45 @@ images:
     isCached: true
 
 related:
-  - title: "How Gen AI Proof is Your job?"
-    excerpt: "New Pearson research shows Generative AI will have greater impact on white collar jobs than blue collar jobs in next 10 yearsHOBOKEN, N.J., Nov."
-    publishedDateTime: 2023-11-27T12:28:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/how-gen-ai-proof-is-your-job-1032850870"
+  - title: "AWS Widens Data Pipelines + Creates Gen-AI Assistant"
+    excerpt: "Because data exists in so varied a set of structures and forms that we can do much with it - but, that means we need ways to connect all our data."
+    publishedDateTime: 2023-11-28T23:30:00Z
+    webUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/11/28/aws-widens-data-pipelines--creates-gen-ai-assistant/"
+    ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/11/28/aws-widens-data-pipelines--creates-gen-ai-assistant/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/11/28/aws-widens-data-pipelines--creates-gen-ai-assistant/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65667326d20fbb7c71172c59/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 640
+        height: 358
+        isCached: true
+  - title: "Leonardo.Ai Accelerates Global Growth, Generates 700 Million AI Images in Less Than a Year on AWS"
+    excerpt: "Amazon Web Services (AWS), an Amazon.com company, today announced that Leonardo.Ai, an Australian generative artificial intelligence (generative AI) content"
+    publishedDateTime: 2023-11-28T10:17:00Z
+    webUrl: "https://www.impulsegamer.com/leonardo-ai-accelerates-global-growth-generates-700-million-ai-images-in-less-than-a-year-on-aws/"
+    type: article
+    provider:
+      name: Impulse Gamer
+      domain: impulsegamer.com
+    quality: 41
+    images:
+      - url: "https://www.impulsegamer.com/articles/wp-content/uploads/2023/11/leo.jpg"
+        width: 1037
+        height: 399
+        isCached: true
+  - title: "Teradata AI Unlimited Now Available on AWS"
+    excerpt: "Teradata today announced that Teradata AI Unlimited is now available in private preview on Amazon Web Service (AWS) through"
+    publishedDateTime: 2023-11-28T20:08:00Z
+    webUrl: "https://www.datanami.com/this-just-in/teradata-ai-unlimited-now-available-on-aws/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 34
 
 secured: "j1jvQVyYb7f2TxbPlh0CwQ5HA4K0lEUyh0Ek3b4pzuVSYRjK0guFHYv1K2omHaV4nqhPO76r7/G2aCLf2IcFmssFQ3XT3S0SzpWNmrsoGXvXIvsVomDliKhTbwlWPm3gp6couU4vHFgVf9RirG/Uphjc6EeZ7swYlqyMV89jAUZ74EEKRfOQ0pLP6Ib+JDwLUNqZKu3xu+x5xTDQFPvTcjMkvCygzKcluOsNs7J35Fy7CkQ6cEqIqDrv6bN8NyzrB6Gc1JRYbRhLOpjhyqHpRB9OSvnH+NUncCIY2fNBPXcBYI5SBXhjYZzmfYVKV5F/1TZZmGUhwbkvKa4xuXZKoxmnMesfRGBpROgpfmaYqoM=;nOfsm0phb/r5OwQS8BQ1nw=="
 ---

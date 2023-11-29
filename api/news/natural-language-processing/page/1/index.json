@@ -91,6 +91,59 @@
       ]
     },
     {
+      "path": "_news/2023-11-28-6-alternatives-to-chatgpt.md",
+      "title": "6 Alternatives To ChatGPT",
+      "excerpt": "In the short 12 months since its launch, generative AI platform ChatGPT has become the most widely recognised AI language model. According to a recent Forb",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/uk/advisor/business/software/alternatives-to-chatgpt/",
+      "originalUrl": "https://www.forbes.com/uk/advisor/business/software/alternatives-to-chatgpt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/uk/advisor/wp-content/uploads/2023/11/image1-4.jpg",
+          "width": 1999,
+          "height": 1232,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-28T10:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-28-antifake-ai-tech-could-keep-your-voice-from-being-deepfaked.md",
       "title": "AntiFake AI tech could keep your voice from being deepfaked",
       "excerpt": "Additionally, replicated voices could be used to bypass voice-recognition security systems. While there are already technologies designed to determine if supposedly legitimate voices are deepfakes, AntiFake is reportedly one of the very first systems to ...",
@@ -1208,40 +1261,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-11-13T13:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-13-messagepoint-announces-generative-ai-capabilities-for-translation-and-plain-language-rewrites.md",
-      "title": "Messagepoint Announces Generative AI Capabilities for Translation and Plain Language Rewrites",
-      "excerpt": "As part of its Intelligent Content Hub for customer communications management, Messagepoint's AI-powered Assisted Authoring will now support translation into over 80 languages and suggest content ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/11/b35757362/messagepoint-announces-generative-ai-capabilities-for-translation-and-plain-language-rewrites",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/11/b35757362/messagepoint-announces-generative-ai-capabilities-for-translation-and-plain-language-rewrites",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T12:39:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Benzinga.com",

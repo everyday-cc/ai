@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/aws-ai-services-enha
 webUrl: "https://aws.amazon.com/blogs/machine-learning/aws-ai-services-enhanced-with-fm-powered-capabilities/"
 type: article
 quality: 104
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2023/05/Today-in-AI-cover-image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "One NZ boosts customer service with AI from AWS"
+    excerpt: "One New Zealand is using generative artificial intelligence to help contact centre agents understand why customers call and how to support them."
+    publishedDateTime: 2023-11-29T00:55:00Z
+    webUrl: "https://www.reseller.co.nz/article/709609/one-nz-boosts-customer-service-ai-from-aws/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 54
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/onenewzealand_1.jpg"
+        width: 505
+        height: 315
         isCached: true
   - title: "AWS enhances AI services with foundation model capabilities for improved performance"
     excerpt: "Announced at the annual re:Invent 2023 conference, the enhanced capabilities include Amazon Transcribe now offering FM-powered language support and AI-enhanced call analytics, Amazon Personalize now using FM to generate more compiling content, and Amazon Lex now using large language models to provide accurate and conversation responses."

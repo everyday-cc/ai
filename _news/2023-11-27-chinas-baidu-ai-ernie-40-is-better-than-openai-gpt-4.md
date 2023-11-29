@@ -135,20 +135,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 45
-  - title: "What the OpenAI drama means for AI progress — and safety"
-    excerpt: "Stability AI and Cohere are other often-cited rivals. West notes that these start-ups rely heavily on the vast and expensive computing resources provided by just three companies — Google, Microsoft and Amazon — potentially creating a race for dominance ..."
-    publishedDateTime: 2023-11-23T23:43:00Z
-    webUrl: "https://www.nature.com/articles/d41586-023-03700-4"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 37
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-03700-4/d41586-023-03700-4_26348126.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "4xKZfWTUTShMkBOe3vZrWpGNV+l5+UEy/gxLbK7NkSEpAlmIWUej9IFDLOWY+wTUDhjbnb+Act3SPU1tCTD/hsGvx9TNjJJo3H5+IqIiG4d77tZrI4WbR/OidrV6gUVZ9rzsbn+g9vRlwD4jjROrc57oxruCaKN51beTriL0ogCoRbB9s7vs3sb3qA0KiDEWwKm+N90fWIesXMmMw6AXewFiZaBtr5tLw2y4gpBz+XkEdwIQBfXdit4Phj8IDP1cD9OmAkB3jOJ3yQr1oAfYhScGWIU+sqZZZ8SjZ45gPW9p2q0ZYSyrUXll+47CeUsCfDqnp2qBPcQFp1WlsJxiIRwDa97ULWbWprEKeDwpDHA=;qxruKTHetWjrzy/wd/btFw=="
 ---

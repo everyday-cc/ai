@@ -19,72 +19,50 @@ topics:
   - AI
 
 related:
-  - title: "Clarity AI and AWS Advance their Sustainable Investing"
-    excerpt: "AWS announced that Clarity AI is now available on AWS. The Clarity AI platform will analyze massive data points for investors."
-    publishedDateTime: 2023-11-27T16:28:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/clarity-ai-and-aws-advance-their-sustainable-investing/"
-    ampWebUrl: "https://enterprisetalk.com/quick-bytes/clarity-ai-and-aws-advance-their-sustainable-investing/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/clarity-ai-and-aws-advance-their-sustainable-investing/amp/"
+  - title: "AWS Widens Data Pipelines + Creates Gen-AI Assistant"
+    excerpt: "Because data exists in so varied a set of structures and forms that we can do much with it - but, that means we need ways to connect all our data."
+    publishedDateTime: 2023-11-28T23:30:00Z
+    webUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/11/28/aws-widens-data-pipelines--creates-gen-ai-assistant/"
+    ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/11/28/aws-widens-data-pipelines--creates-gen-ai-assistant/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/11/28/aws-widens-data-pipelines--creates-gen-ai-assistant/amp/"
     type: article
     provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2023/11/Clarity-AI-and-AWS-Advance-their-Sustainable-Investing.jpg"
-        width: 1500
-        height: 844
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65667326d20fbb7c71172c59/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 640
+        height: 358
         isCached: true
-  - title: "Investing in AI Stocks"
-    excerpt: "The launch of ChatGPT has set off a boom in artificial intelligence ... including automated clinical documentation in healthcare to reduce paperwork and administrative needs."
-    publishedDateTime: 2023-11-25T16:52:00Z
-    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/"
+  - title: "Leonardo.Ai Accelerates Global Growth, Generates 700 Million AI Images in Less Than a Year on AWS"
+    excerpt: "Amazon Web Services (AWS), an Amazon.com company, today announced that Leonardo.Ai, an Australian generative artificial intelligence (generative AI) content"
+    publishedDateTime: 2023-11-28T10:17:00Z
+    webUrl: "https://www.impulsegamer.com/leonardo-ai-accelerates-global-growth-generates-700-million-ai-images-in-less-than-a-year-on-aws/"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 71
+      name: Impulse Gamer
+      domain: impulsegamer.com
+    quality: 41
     images:
-      - url: "https://m.foolcdn.com/media/dubs/images/investing-in-ai-stocks.width-600.jpg"
-        width: 600
-        height: 337
+      - url: "https://www.impulsegamer.com/articles/wp-content/uploads/2023/11/leo.jpg"
+        width: 1037
+        height: 399
         isCached: true
-  - title: "Clarity AI and AWS Advance Sustainable Investing at Scale"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Clarity AI, a leading technology c"
-    publishedDateTime: 2023-11-27T05:01:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231126075357/en/Clarity-AI-and-AWS-Advance-Sustainable-Investing-at-Scale"
+  - title: "How gen AI is assisting payment scams"
+    excerpt: "Cybercrime-as-a-service tools are using generative artificial intelligence in new ways to crack payment card security, according to a new report from Arkose Labs."
+    publishedDateTime: 2023-11-28T00:40:00Z
+    webUrl: "https://www.americanbanker.com/payments/news/how-gen-ai-is-assisting-payment-scams"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 34
-  - title: "Clarity AI and AWS advance sustainable investing at scale"
-    excerpt: "Clarity AI is collaborating with AWS to change how companies and consumers make informed decisions aligned with their sustainability goals."
-    publishedDateTime: 2023-11-28T13:32:00Z
-    webUrl: "https://ventureburn.com/2023/11/clarity-ai-and-aws-advance-sustainable-investing-at-scale/"
-    type: article
-    provider:
-      name: Ventureburn
-      domain: ventureburn.com
-    quality: 34
-  - title: "UK retailer The Very Group embarks on gen-AI push with AWS"
-    excerpt: "The Very Group's collaboration with AWS is geared towards improving the customer experience through personalisation"
-    publishedDateTime: 2023-11-28T09:01:00Z
-    webUrl: "https://www.computerweekly.com/news/366561332/UK-retailer-The-Very-Group-embarks-on-gen-AI-push-with-AWS"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 34
-  - title: "The Very Group selects AWS to transform the shopping experience with generative AI"
-    excerpt: "The Very Group (‘Very’), a leading UK online retailer, today announced an expanded collaboration with Amazon Web Services (AWS) to accelerate"
-    publishedDateTime: 2023-11-27T09:16:00Z
-    webUrl: "https://fashionunited.uk/press/retail/the-very-group-selects-aws-to-transform-the-shopping-experience-with-generative-ai/2023112772775"
-    type: article
-    provider:
-      name: FashionUnited
-      domain: fashionunited.uk
-    quality: 28
+      name: American Banker
+      domain: americanbanker.com
+    quality: 37
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/9cc6ceb/2147483647/strip/true/crop/6720x3528+0+476/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F3d%2Ff8%2Fa71eb1b54738bca2c783058f2677%2Fadobestock-651061619.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "ytafcH7MeRKKwENSkn+Bi4ta5kYc/UBrhD/fSbfpJ5WVfrUV6ot1ROJ27v0LnmBcqxFvBZtpEwILy8EbVmRuor8c2wDVuFF6WwmxuLNLvzXB+CZa6L2QFHGV17gyDZjNqEob47xydw627PWrvV5iFF3RnYs501/xpfxp4TJD5mxMogxWnA4w1wUO78KUJwzX0NKZiBpmVRPjnq88llpTIr31AOzsoPB3EUdYkUc2erOpMQGp0ob6m0BlKi+GcrVN7FAZta6ReyfaS6z4TN13FxdyMAo3aSKJu5Lzqou5vZQDnJRK7bg1CTIeNrK7dlvYRUv+6yULQeXo/hC1OsC+lPSwvilcTwAq8x8WJlKsNE6Z1KdTkFw0pTJpCHCel9s27Asqhb4U6NQAkAt4ZRwKEP+GLBt6cj9R3W84YaMjtZ3QV/yytmdjhjw+NeAIqhi6ItUVr6jzfrMudI+druJ9peYiopZ3FOKCsjqZMNEiqW5pn9C43PjCvK/pGA3o0wYJMpOBpPphMhZbIx2X5L7VfA==;LwTgs61plHqd5mdfRMU8Lw=="
 ---

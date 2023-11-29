@@ -74,6 +74,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 44
+  - title: "Informatica Broadens Relationship with AWS, Announces Deeper Integrations Across Generative AI, AWS HealthLake and Amazon S3"
+    excerpt: "Informatica unveiled a trio of new integrations with Amazon Web Services (AWS) at AWS re:Invent 2023, the annual"
+    publishedDateTime: 2023-11-28T22:57:00Z
+    webUrl: "https://www.datanami.com/this-just-in/informatica-broadens-relationship-with-aws-announces-deeper-integrations-across-generative-ai-aws-healthlake-and-amazon-s3/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 7
 
 secured: "arS/a2iXdaOBPwiQfgszqiCzeIxfRUpXQrLqXr9lf3+Z+CH4VLkpSr+f3nlNqkv9Ofquv6REG511TVX21KFz71A7xUxCY0pmmlKqLKYPKH3BFUw3DpUXBFX42Uu63ljYhYCpmKY56PC+eVjBuBu1RAUKvz42Qgj2IrhQafjrzXOZYlTPmAEnws7LP+4RYhhYdlW6BWYc9Hr3G5ahGndis9F9/UX3VjtNszuVR9Vxu9s6KyeTcMcf9Y+TstkHUQXKkmTO0a5owtX+CqaoxeypSXs+i6gt1TG6+b1C4o5NQWKr1bdC/KPKNnn+OeIIAXWmMCQSOKjF0NTzJ3c9CfVZQxRyFxP5Ke+ZRSX4NPLEQ+c=;OflJ0q3Wf0okO0xpEM/mzA=="
 ---

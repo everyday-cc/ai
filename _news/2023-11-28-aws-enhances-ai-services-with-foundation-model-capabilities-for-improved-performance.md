@@ -69,6 +69,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "One NZ boosts customer service with AI from AWS"
+    excerpt: "One New Zealand is using generative artificial intelligence to help contact centre agents understand why customers call and how to support them."
+    publishedDateTime: 2023-11-29T00:55:00Z
+    webUrl: "https://www.reseller.co.nz/article/709609/one-nz-boosts-customer-service-ai-from-aws/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 54
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/onenewzealand_1.jpg"
+        width: 505
+        height: 315
+        isCached: true
   - title: "AWS Announces Three Serverless Innovations to Help Customers Analyze and Manage Data at Any Scale"
     excerpt: "AWS is also releasing a new Amazon Redshift Serverless capability that uses artificial intelligence (AI) to predict workloads and automatically scale and optimize resources to help customers meet their price-performance targets. These announcements build ..."
     publishedDateTime: 2023-11-27T23:51:00Z

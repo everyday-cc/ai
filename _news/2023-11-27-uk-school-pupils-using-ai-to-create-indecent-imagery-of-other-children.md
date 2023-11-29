@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/global-development/2023/nov/27/uk-school
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/global-development/2023/nov/27/uk-school-pupils-using-ai-create-indecent-sexual-abuse-images-of-other-children"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 620
     height: 372
     isCached: true
+
+related:
+  - title: "Concerns Rise as UK School Pupils Exploit AI to Create Indecent Imagery of Fellow Students"
+    excerpt: "In addition to government initiatives, schools are being urged to strengthen their educational programs on digital ethics, emphasising the responsible use of technology and the potential consequences of misusing AI tools. Parents, too, are encouraged to ..."
+    publishedDateTime: 2023-11-29T00:56:00Z
+    webUrl: "https://www.ibtimes.co.uk/concerns-rise-uk-school-pupils-exploit-ai-create-indecent-imagery-fellow-students-1721840"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 29
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1720521/uk-entertainment-industry-fails-tackle-rampant-sexual-abuse.jpg"
+        width: 768
+        height: 563
+        isCached: true
 
 secured: "c+Iri1iec/3tTZMeppiSyzgVwpCwB+RbNG88Dr/IbYb2iNQUoAE+/SW+HoYMUwwkUbaaxDCihhhppM7CJvRPS1T5rGJGsDiWSqVvUq+a2Dts5q7K2OXcwFmTLxTCN6+JS3MTRVMEUFjouJoGlGFHWEOMv8x9LHyzBtAew2ztIp/GhxYr07N00fq333NTinRTEAKDm3BMmn9Cnu+Gc6tLCx+hniOXm5SjVUi0+g9KXIhEWgRJj9CmhB5bqEDTQer6h5xp1u6ZLM5yeAKy/h4fzD4JBfO6LZn8BONVmDdIXrZBXzRwPkmba6Ng+OQnmV3FrgN3z/bMZiMflB06fCNA13CRTbtvxc5YxGpAFMYHk+VSm2mBUpqQdIO21TxetaaA6s/sZqjtmv3VS7DOnAk4/CNzjWORvuYPIIVAxCN1ioFT9fRNMfPEFVpBzRQUJE9rtz5isrvkVTgKtdrfPGbm2TTCP/zQ8vJBoE/4QX7BohWiKbNe3D5lF5JiWBI7sbdMzdaJ3bx0dISb3G1FhahckQ==;GLp5C0MHEz7PEz2spGrf5A=="
 ---

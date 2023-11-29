@@ -53,7 +53,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/intapp-solutions-now-available-in-the-microsoft-azure-marketplace-1032854956",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 159,
       "tags": null,
       "images": null,
       "content": "",
@@ -88,6 +88,59 @@
       ]
     },
     {
+      "path": "_news/2023-11-28-6-alternatives-to-chatgpt.md",
+      "title": "6 Alternatives To ChatGPT",
+      "excerpt": "In the short 12 months since its launch, generative AI platform ChatGPT has become the most widely recognised AI language model. According to a recent Forb",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/uk/advisor/business/software/alternatives-to-chatgpt/",
+      "originalUrl": "https://www.forbes.com/uk/advisor/business/software/alternatives-to-chatgpt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/uk/advisor/wp-content/uploads/2023/11/image1-4.jpg",
+          "width": 1999,
+          "height": 1232,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-28T10:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-26-aws-reinvent-preview-with-matt-wood-whos-been-at-aws-from-the-start.md",
       "title": "AWS Reinvent Preview With Matt Wood, Who’s Been At AWS From The Start",
       "excerpt": "Patrick Moorhead previews the annual Reinvent conference with Matt Wood, who oversees AWS products and has helped organize the conference for more than a decade.",
@@ -96,7 +149,7 @@
       "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/11/25/aws-reinvent-preview-with-matt-wood-whos-been-at-aws-from-the-start/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -138,6 +191,50 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-25-microsoft-debuts-custom-chips-for-cloud-and-ai-azure-maia-ai-accelerator-and-azure-cobalt-cpu.md",
+      "title": "Microsoft Debuts Custom Chips for Cloud and AI: Azure Maia AI Accelerator and Azure Cobalt CPU",
+      "excerpt": "During the recent Ignite conference, Microsoft introduced two custom-designed chips for their cloud infrastructure: Microsoft Azure Maia AI Accelerator (Athena), optimized for artificial intelligence (AI) tasks and generative AI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2023/11/azure-custom-chips-cobalt-maia/",
+      "originalUrl": "https://www.infoq.com/news/2023/11/azure-custom-chips-cobalt-maia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2023/11/azure-custom-chips-cobalt-maia/en/headerimage/generatedHeaderImage-1700598494312.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-25T11:06:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -1279,85 +1376,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-13-top-10-best-machine-learning-software-in-2023.md",
-      "title": "Top 10 Best Machine Learning Software in 2023",
-      "excerpt": "It offers a wide range of tools and services to help users build and deploy machine learning models quickly and easily. Azure Machine Learning is a cloud-based machine learning software that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.straight.com/guides/software/best-machine-learning-software/",
-      "originalUrl": "https://www.straight.com/guides/software/best-machine-learning-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T06:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Georgia Straight",
-        "domain": "straight.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-11-13-chatgpt-ai-robots-writing-church-sermons-causing-hell-for-pastors-new-york-post.md",
-      "title": "ChatGPT AI robots writing church sermons causing hell for pastors – New York Post",
-      "excerpt": "Thanks for contacting us. We've received your submission. Among sermon writers, there is fascination – and unease – over the fast-expanding abilities",
-      "sourceUrl": null,
-      "webUrl": "https://www.inferse.com/793806/chatgpt-ai-robots-writing-church-sermons-causing-hell-for-pastors-new-york-post/",
-      "originalUrl": "https://www.inferse.com/793806/chatgpt-ai-robots-writing-church-sermons-causing-hell-for-pastors-new-york-post/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-8059.png",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T16:12:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inferse",
-        "domain": "inferse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI",
         "Microsoft AI"
       ]

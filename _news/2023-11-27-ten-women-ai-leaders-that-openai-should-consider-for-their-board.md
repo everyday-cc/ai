@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rebekahbastian/2023/11/26/ten-women-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rebekahbastian/2023/11/26/ten-women-ai-leaders-that-openai-should-consider-for-their-board/amp/"
 type: article
 quality: 87
-heat: 177
+heat: 167
 published: true
 
 provider:
@@ -137,20 +137,6 @@ related:
       - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2023/11/Screen-Shot-2023-11-27-at-11.42.46-AM-1024x666.jpg"
         width: 1024
         height: 666
-        isCached: true
-  - title: "What the OpenAI drama means for AI progress — and safety"
-    excerpt: "Stability AI and Cohere are other often-cited rivals. West notes that these start-ups rely heavily on the vast and expensive computing resources provided by just three companies — Google, Microsoft and Amazon — potentially creating a race for dominance ..."
-    publishedDateTime: 2023-11-23T23:43:00Z
-    webUrl: "https://www.nature.com/articles/d41586-023-03700-4"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 37
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-03700-4/d41586-023-03700-4_26348126.jpg"
-        width: 1024
-        height: 576
         isCached: true
 
 secured: "0ImDRxxdnD8iXKGizKflWdD0PVaWcT4X/ULD+P+CdHvwRIjXhrgkrhTRhrvI0/jTMOcpnrUjgmojwIO/51PtZSQ6qjT1OAATk70YC98Du49NXP1seOneyGCWJ3tp/Hlp5e2TQRPy7GQAAJ7CmwrACnkFs8Dmf0c0cuTatgmrfh8g60ermDHxAM+ii05GKO6wApE84f7E+Gk1wGX0/xMr3VRveCOz22qE+yNxJ9YSeSwMrBYtoVCVA8nX7/CWnYHDQVmxTm8jtUBFFrx0I+3NDJpjWweYQCqSiyXGphNLgaQ2B1CDuwKOnDo5syt8XXz5rhNnzNFg2pttSAUNXbQ5wbsLVYwy+K1pYSjItUrq/J3EBVtTy0kAgMb+xA9mZjh1kdIl1WPO76lbSZqV/WboISQn4cTw6bcIik74feXxFmD6ZY1++8Mc+eVMXAPCgbycTGO/Cb3RDhh1Prb6c5j/fDXoLHfDv0v/mKnXOIZMNNqUIBKj8KtnVaP9PaXmo0uhq4697ULbmBscrgWIIFs0hw==;gAPaCsf6ZKoKCTGOBZExYA=="

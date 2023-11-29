@@ -69,6 +69,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "One NZ boosts customer service with AI from AWS"
+    excerpt: "One New Zealand is using generative artificial intelligence to help contact centre agents understand why customers call and how to support them."
+    publishedDateTime: 2023-11-29T00:55:00Z
+    webUrl: "https://www.reseller.co.nz/article/709609/one-nz-boosts-customer-service-ai-from-aws/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 54
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/onenewzealand_1.jpg"
+        width: 505
+        height: 315
+        isCached: true
   - title: "AWS enhances AI services with foundation model capabilities for improved performance"
     excerpt: "Announced at the annual re:Invent 2023 conference, the enhanced capabilities include Amazon Transcribe now offering FM-powered language support and AI-enhanced call analytics, Amazon Personalize now using FM to generate more compiling content, and Amazon Lex now using large language models to provide accurate and conversation responses."
     publishedDateTime: 2023-11-28T01:18:00Z
@@ -137,6 +151,6 @@ related:
       domain: financialit.net
     quality: 31
 
-secured: "4OnK/SXmHlTnXNWiI9LZjslu0wuyJvTJOcCzMap6inJjYTXySQV2L8SE8y4cl8+QsqYEyuAGtTH3ISUP9ux49+eTo5/lqUVm1X13GFd5XTQet3PfNcgkaEKweSz/tJ/q/Y613JcpXuQLdFW9FI28wWrdV01skDgcgwfpQu0XGmWWAQavhaHDajMq0EawrNpgUoolBlxptWBI30BLTcG8cdpoku8yXEEHtjbvNNvHGlTgXr8b6ClDKV8ms420hRl4ld/iMd39tqHMd0q64tNJ42vT+rWW8otKjV2+eqG7V6huO3YFjn5Tf3/DGOZ1xRL74j6cvB2M/yPdz7fwHrFRkaz/CILOefLOCiTl6A4Gauw=;jbeLlin5E4t20Q3ehmSfTg=="
+secured: "YoIQk4DPNDMeVeW8Ox5ecw1UxT66E6D4QcxfJQ2UGYfrS+c7uhpbU55dP95Rou+dT2v2xMmfslM/nFoYJxRUSsnM0+eTAHuTABFrbd002SqDt9DRhYJluUD17vfrt8zc1vagimeCCcaqV8L8BWbCIsM/mzzOoCAP1CVuh9aSudFii8iHOQFJwRGjugQMcDKhjbGeB7C+VWubpWEoL3ry/2YsHDfp/ntGHj3dCPFwYG3Qmos6duIMtfVP9J7j9Y25jhf68DWSwB/5yAXNa0+i2E2Us0hzQGzEvZX2XOnSsJ97xpW+SSkdAkZJIcHb3sZGe2NA8eJ6lUKMb2uHGxrEfPJxTH46En5dSeGqNGRtZyKb4m2YWvugcKIaS2KSOO2zaPkS1dsyZ3cGChP/fVYfvv/kxzDZoRkSmVM+HZsfn8EXXWw3q7VrLKHrihIDIYScWsOVqm9u+WP4YQ8cYEpU++Sk3gFTpzF827vlxFTCn/Ybz2E9SZB9ftQkgeFY7xK9YRcpRO2lVpwgLL66MH58rA==;xiYRptT8D39k/jte6b1INA=="
 ---
 

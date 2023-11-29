@@ -19,19 +19,63 @@ topics:
   - AI
 
 related:
-  - title: "Here’s who’s responsible for AI in federal agencies"
-    excerpt: "Amid growing attention on artificial intelligence, more than a third of major agencies have appointed chief AI officers."
-    publishedDateTime: 2023-11-28T17:59:00Z
-    webUrl: "https://fedscoop.com/heres-whos-responsible-for-ai-in-federal-agencies/"
+  - title: "Microsoft Debuts Custom Chips for Cloud and AI: Azure Maia AI Accelerator and Azure Cobalt CPU"
+    excerpt: "During the recent Ignite conference, Microsoft introduced two custom-designed chips for their cloud infrastructure: Microsoft Azure Maia AI Accelerator (Athena), optimized for artificial intelligence (AI) tasks and generative AI,"
+    publishedDateTime: 2023-11-25T11:06:00Z
+    webUrl: "https://www.infoq.com/news/2023/11/azure-custom-chips-cobalt-maia/"
     type: article
     provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 39
+      name: InfoQ
+      domain: infoq.com
+    quality: 74
     images:
-      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2023/11/i-2vxP7fv-X5.jpg?w=505"
-        width: 505
-        height: 336
+      - url: "https://res.infoq.com/news/2023/11/azure-custom-chips-cobalt-maia/en/headerimage/generatedHeaderImage-1700598494312.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Microsoft Announces 100 New Services, Updates to Help Accelerate AI Transformation"
+    excerpt: "Microsoft has said it introduced around 100 new services and updates as part of its AI-forward strategy, including key developments within its productivity and security offerings. The announcements were made at Microsoft Ignite 2023 – the company’s annual conference for developers and IT professionals, according to a statement by the company."
+    publishedDateTime: 2023-11-25T10:38:00Z
+    webUrl: "https://www.thisdaylive.com/index.php/2023/11/25/microsoft-announces-100-new-services-updates-to-help-accelerate-ai-transformation"
+    ampWebUrl: "https://www.thisdaylive.com/index.php/2023/11/25/microsoft-announces-100-new-services-updates-to-help-accelerate-ai-transformation"
+    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2023/11/25/microsoft-announces-100-new-services-updates-to-help-accelerate-ai-transformation"
+    type: article
+    provider:
+      name: This Day
+      domain: thisdaylive.com
+    quality: 68
+    images:
+      - url: "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/microsoft.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Microsoft Adds ChatGPT AI To Windows 11's Command Line, But There's A Catch"
+    excerpt: "ChatGPT's AI capabilities in the Windows Terminal can come in handy for explaining errors, generating commands and providing recommendations."
+    publishedDateTime: 2023-11-27T07:43:00Z
+    webUrl: "https://www.ibtimes.co.uk/microsoft-adds-chatgpt-ai-windows-11s-command-line-theres-catch-1721824"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 67
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1717654/chatgpt.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Microsoft’s AI-powered Bing is coming for Google’s Bard-infused … – Vox.com"
+    excerpt: "Google bookended Microsoft’s big AI search announcement with underwhelming AI news of its own.Microsoft has officially taken the lead in the race"
+    publishedDateTime: 2023-11-27T15:22:00Z
+    webUrl: "https://www.inferse.com/806674/microsofts-ai-powered-bing-is-coming-for-googles-bard-infused-vox-com/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 54
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-14258.png"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "03tBt+oFZckdIDvI0X9GySvfW6+ucM+FNv4OCpalMmMRB3Vz3fFfmbkJVSDZRFS4RvXDNGWPyM9ze8e3BJoxNCqLFRYAQDdDnNKC4JTcbQIvoGKMMCIfvnLzRtxuoykS7oJ8VEEb9LKqfqbYlJ76iUeBo8MaJ9n/QctsE6wrHCGiHaz44HKXdmv8aVBRCfWAujGeSOkPiDALiZUOQCwFMLX5slq4FnJun5g8SpDUQ8nUqDjBWdR4qWnc11ZmVX7yE/6N2yVOxDjOwQM9mnaxJimC3KL2J3y6WY2lA1gv1OrvHq7dSee4DCm5L5ooHlpHePdc9IrUmvjGCywi8d5TRhZ099LMs2TvJPLY/BtXShg=;xiyfdvH7CKsre71Qe4ctWA=="

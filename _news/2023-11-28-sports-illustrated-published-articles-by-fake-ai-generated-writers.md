@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Sports Illustrated latest media company damaged by AI experiment"
+    excerpt: "While there’s nothing wrong in media companies experimenting with artificial intelligence, “the mistake is in trying to hide it, and in doing it poorly,” said Tom Rosenstiel, a University of Maryland professor who teaches journalism ethics."
+    publishedDateTime: 2023-11-29T00:00:00Z
+    webUrl: "https://www.staradvertiser.com/2023/11/28/breaking-news/sports-illustrated-latest-media-company-damaged-by-ai-experiment/"
+    ampWebUrl: "https://www.staradvertiser.com/2023/11/28/breaking-news/sports-illustrated-latest-media-company-damaged-by-ai-experiment/amp/"
+    cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2023/11/28/breaking-news/sports-illustrated-latest-media-company-damaged-by-ai-experiment/amp/"
+    type: article
+    provider:
+      name: Honolulu Star-Advertiser
+      domain: staradvertiser.com
+    quality: 59
+    images:
+      - url: "https://www.staradvertiser.com/wp-content/uploads/2023/11/web1_14444732-a8c67751fda54211b4465d2a08ecdb0d.jpg"
+        width: 760
+        height: 597
+        isCached: true
   - title: "Children making AI-generated child abuse images, says charity"
     excerpt: "Children are making indecent images of other children using artificial intelligence (AI) image generators, according to a UK charity. The UK Safer Internet Centre (UKSIC) said it had received \"a small number of reports\" from schools but called for action now before the problem grew."
     publishedDateTime: 2023-11-27T16:07:00Z
@@ -113,6 +129,20 @@ related:
       - url: "https://variety.com/wp-content/uploads/2023/11/Sports-Illustrated.png?w=1000&h=563&crop=1"
         width: 1000
         height: 563
+        isCached: true
+  - title: "Sports Illustrated is latest media company damaged by an AI experiment gone wrong"
+    excerpt: "While there’s nothing wrong in media companies experimenting with artificial intelligence, “the mistake is in trying to hide it, and in doing it poorly,” said Tom Rosenstiel, a University of Maryland professor who teaches journalism ethics."
+    publishedDateTime: 2023-11-28T00:00:00Z
+    webUrl: "https://www.washingtontimes.com/news/2023/nov/28/sports-illustrated-is-latest-media-company-damaged/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 34
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2023/11/28/Media_Counterfeit_Writers_07767_c0-393-4075-2770_s1200x700.jpg?7d335347f157cf186a831de44fe9a5dba9decdf7"
+        width: 1200
+        height: 700
         isCached: true
   - title: "Students display AI-generated art works through December"
     excerpt: "“I see AI-generated art differently though: one uses one’s creativity to imagine possible scenes, then one types words to start the AI making your picture.” Ward said that each picture began with a student’s idea, and the AI did the painting ..."

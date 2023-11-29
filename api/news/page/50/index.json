@@ -2,6 +2,300 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2023-10-18-meet-two-open-source-challengers-to-openais-multimodal-gpt-4v.md",
+      "title": "Meet two open source challengers to OpenAI’s ‘multimodal’ GPT-4V",
+      "excerpt": "First, they tested the model’s “zero-shot” object detection, or its ability to identify ... Were Llava-1.5 to perform at the level of GPT4-V at text recognition, it’d potentially pose a greater security threat considering it’s available to ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/10/18/meet-the-open-source-multimodal-models-rivaling-gpt-4v/",
+      "originalUrl": "https://techcrunch.com/2023/10/18/meet-the-open-source-multimodal-models-rivaling-gpt-4v/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/08/ai-gen-unfiltered.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/10/18/meet-the-open-source-multimodal-models-rivaling-gpt-4v/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/18/meet-the-open-source-multimodal-models-rivaling-gpt-4v/amp/",
+      "publishedDateTime": "2023-10-18T15:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-18-the-chatbot-revolution-transforming-healthcare-with-ai-language-models.md",
+      "title": "The Chatbot Revolution: Transforming Healthcare With AI Language Models",
+      "excerpt": "ChatGPT and similar chatbot-style artificial intelligence software may soon serve a critical frontline role in the healthcare industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/williamhaseltine/2023/10/18/the-chatbot-revolution-transforming-healthcare-with-ai-language-models/",
+      "originalUrl": "https://www.forbes.com/sites/williamhaseltine/2023/10/18/the-chatbot-revolution-transforming-healthcare-with-ai-language-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6526d2865dfb956a3deee505/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/williamhaseltine/2023/10/18/the-chatbot-revolution-transforming-healthcare-with-ai-language-models/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/williamhaseltine/2023/10/18/the-chatbot-revolution-transforming-healthcare-with-ai-language-models/amp/",
+      "publishedDateTime": "2023-10-18T14:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-18-aitx-provides-update-on-deployed-rad-security-robots.md",
+      "title": "AITX Provides Update on Deployed RAD Security Robots",
+      "excerpt": "This announcement serves as an affirmation of the Company's commitment to enhancing shareholder value by tracking deployment statistics and revenue milestones. It underscores a strategic pivot towards operational efficiency, cost management, and revenue optimization through accelerated device deployment.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/aitx-provides-update-on-deployed-rad-security-robots-1032717018",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/aitx-provides-update-on-deployed-rad-security-robots-1032717018",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-18T14:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-10-18-meta-recreates-mental-imagery-from-brain-scans-using-ai.md",
+      "title": "Meta recreates mental imagery from brain scans using AI",
+      "excerpt": "Being able to look inside a person's mind is a new level of invasiveness that technology has not yet attained on a large scale.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/meta-recreates-mental-imagery-from-brain-scans-using-ai/",
+      "originalUrl": "https://venturebeat.com/ai/meta-recreates-mental-imagery-from-brain-scans-using-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_holographic_wireframe_surrounding_a_womans_head_93b4b12a-b535-48f1-a011-94a15f28f8f7.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-18T14:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-18-generative-ai-in-naval-engineering-small-proprietary-data-sets-limit-adoption.md",
+      "title": "Generative AI in naval engineering: Small, proprietary data sets limit adoption",
+      "excerpt": "Modern computing has significantly improved the design and build processes of naval architecture and marine engineering, but limited data is holding it back from advancing even further.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/generative-ai-in-naval-architecture-and-marine-engineering-small-proprietary-data-sets-limit-adoption/",
+      "originalUrl": "https://www.zdnet.com/article/generative-ai-in-naval-architecture-and-marine-engineering-small-proprietary-data-sets-limit-adoption/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/836d7c3b68a1e5ab9a579ee59bd8a820db905ebc/2023/10/09/bbe5dce9-0f96-4506-ab83-f95ba2f5df01/gettyimages-1287093517.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/generative-ai-in-naval-architecture-and-marine-engineering-small-proprietary-data-sets-limit-adoption/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-in-naval-architecture-and-marine-engineering-small-proprietary-data-sets-limit-adoption/",
+      "publishedDateTime": "2023-10-18T14:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-18-us-expands-chip-export-curbs-to-china-to-throttle-ai-supercomputer-development.md",
+      "title": "US expands chip export curbs to China to throttle AI, supercomputer development",
+      "excerpt": "Chinese officials said that the new US chip restrictions contradict fair trade principles, while immediate response from vendors is muted.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3708812/us-expands-chip-export-curbs-to-china-to-throttle-ai-supercomputer-development.html",
+      "originalUrl": "https://www.computerworld.com/article/3708812/us-expands-chip-export-curbs-to-china-to-throttle-ai-supercomputer-development.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/08/chip_trade-war_us_china-100944812-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3708812/us-expands-chip-export-curbs-to-china-to-throttle-ai-supercomputer-development.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3708812/us-expands-chip-export-curbs-to-china-to-throttle-ai-supercomputer-development.amp.html",
+      "publishedDateTime": "2023-10-18T14:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-18-gwangju-institute-of-science-and-technology-scientists-develop-deep-learning-based-biosensing-platform-to-count-viral-particles-better.md",
       "title": "Gwangju Institute of Science and Technology Scientists Develop Deep Learning-Based Biosensing Platform to Count Viral Particles Better",
       "excerpt": "The team proposed a synergistic biosensing tool called \"DeepGT,\" which can harness the advantages of GTsensing platforms and merge them with deep learning-based algorithms to accurately quantify nanoscale bioparticles, including viruses, without the need for complex sample preparation methods.",
@@ -873,285 +1167,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-mozn-and-uae-based-astra-tech-partner-to-fortify-fintech-security-via-ai-capabilities.md",
-      "title": "Mozn And UAE-Based Astra Tech Partner To Fortify Fintech Security Via AI-Capabilities",
-      "excerpt": "AI powerhouse Mozn, a leader in enterprise AI technologies, has inked a partnership with Astra Tech, a UAE-based tech company. This alliance aims to",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1107268950/Mozn-And-UAE-Based-Astra-Tech-Partner-To-Fortify-Fintech-Security-Via-AI-Capabilities",
-      "originalUrl": "https://menafn.com/1107268950/Mozn-And-UAE-Based-Astra-Tech-Partner-To-Fortify-Fintech-Security-Via-AI-Capabilities",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T07:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-ethical-framework-crucial-to-cope-with-fast-growth-of-ai-finance-minister.md",
-      "title": "Ethical framework crucial to cope with fast growth of AI: finance minister",
-      "excerpt": "An ethical framework on the use of technologies must be newly defined side by side with fast-growing artificial intelligence (AI) that is reshaping the era of digital transformation, Deputy Prime Minister and Minister of Economy and Finance Choo Kyung-ho said,",
-      "sourceUrl": null,
-      "webUrl": "https://koreatimes.co.kr/www/biz/2023/10/126_361323.html",
-      "originalUrl": "https://koreatimes.co.kr/www/biz/2023/10/126_361323.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/thumbnailV2/7185c9495cfc4f99866cde390b0aa1b5.jpg",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=361323",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=361323",
-      "publishedDateTime": "2023-10-18T07:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Times",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion.md",
-      "title": "How lenders use AI and machine learning to boost financial inclusion",
-      "excerpt": "Two billion people around the world remain unbanked or underbanked, but a technological revolution is changing the lives of such individuals, who previously had no hope of ascending the economic ladde",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/opinion/first-person/how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion-11697610512531.html",
-      "originalUrl": "https://www.livemint.com/opinion/first-person/how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion-11697610512531.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.livemint.com/lm-img/img/2023/10/18/1600x900/repayment_1680025454634_1697610800944.jpg",
-          "width": 1598,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/opinion/first-person/how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion/amp-11697610512531.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/first-person/how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion/amp-11697610512531.html",
-      "publishedDateTime": "2023-10-18T06:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-us-further-restricts-china-from-ai-chips-to-hinder-military-development.md",
-      "title": "US further restricts China from AI chips to hinder military development",
-      "excerpt": "The measures aim to hamper China’s military development by closing loopholes in regulations released last October and will probably be updated “at least annually,” according to Commerce Department Secretary Gina Raimondo.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/news/world/united-states-canada/article/3238289/us-restricts-china-nvidias-ai-chips-hinder-beijings-military-development-expands-curbs-russia-iran",
-      "originalUrl": "https://www.scmp.com/news/world/united-states-canada/article/3238289/us-restricts-china-nvidias-ai-chips-hinder-beijings-military-development-expands-curbs-russia-iran",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/10/17/81863397-08d8-4eae-a222-2691db10781d_56af46d8.jpg?itok=GiKh8r5w&v=1697552319",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/news/world/united-states-canada/article/3238289/us-restricts-china-nvidias-ai-chips-hinder-beijings-military-development-expands-curbs-russia-iran",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/united-states-canada/article/3238289/us-restricts-china-nvidias-ai-chips-hinder-beijings-military-development-expands-curbs-russia-iran",
-      "publishedDateTime": "2023-10-18T05:48:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-us-tightens-curbs-on-ai-chip-exports-to-china-widening-rift-with-nvidia-and-intel.md",
-      "title": "U.S. Tightens Curbs on AI Chip Exports to China, Widening Rift With Nvidia and Intel",
-      "excerpt": "The new rules, which significantly constrict sales of advanced semiconductors to the Chinese market, came despite intense lobbying by chip companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/tech/u-s-tightens-curbs-on-ai-chip-exports-to-china-widening-rift-with-u-s-businesses-3b9983df",
-      "originalUrl": "https://www.wsj.com/tech/u-s-tightens-curbs-on-ai-chip-exports-to-china-widening-rift-with-u-s-businesses-3b9983df",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-869788/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T05:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-baidus-newest-ai-model-ernie-40-fails-to-wow-investors-but-analysts-maintain-buy-ratings.md",
-      "title": "Baidu's newest AI model Ernie 4.0 fails to wow investors, but analysts maintain 'buy' ratings",
-      "excerpt": "Analysts are bullish on Chinese tech giant Baidu's latest version of generative artificial intelligence model, Ernie 4.0. Still, Baidu's stocks did not react positively to the news. Baidu's Hong ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/10/18/baidus-ernie-4point0-fails-to-wow-investors-citi-jefferies-keep-buy-ratings.html",
-      "originalUrl": "https://www.cnbc.com/2023/10/18/baidus-ernie-4point0-fails-to-wow-investors-citi-jefferies-keep-buy-ratings.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107318410-1697547767753-gettyimages-1248446799-fc_1063858.jpeg?v=1697606577",
-          "width": 6000,
-          "height": 4000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/10/18/baidus-ernie-4point0-fails-to-wow-investors-citi-jefferies-keep-buy-ratings.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/10/18/baidus-ernie-4point0-fails-to-wow-investors-citi-jefferies-keep-buy-ratings.html",
-      "publishedDateTime": "2023-10-18T05:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

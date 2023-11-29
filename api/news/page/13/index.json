@@ -2,6 +2,230 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2023-11-15-profet-ai-launches-ailm-the-worlds-first-enterprise-ai-lifecycle-management-platform-for-ai-governance.md",
+      "title": "Profet AI Launches AILM, the World's First Enterprise AI Lifecycle Management Platform for AI Governance",
+      "excerpt": "AILM empowers manufacturers to control, manage, and propagate their core domain know-how, facilitating successful global expansionTAIPEI, Nov.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/profet-ai-launches-ailm-the-world-s-first-enterprise-ai-lifecycle-management-platform-for-ai-governance-1032819847",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/profet-ai-launches-ailm-the-world-s-first-enterprise-ai-lifecycle-management-platform-for-ai-governance-1032819847",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-15T01:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-15-ai-accurately-predicts-therapy-outcomes-in-most-patients-with-ovarian-cancer.md",
+      "title": "AI Accurately Predicts Therapy Outcomes in Most Patients With Ovarian Cancer",
+      "excerpt": "An artificial intelligence (AI)–based prediction model was able to correctly predict therapy outcomes in 78% of patients with high-grade serous ovarian carcinoma (HGSOC) in a study published in Nature Communications. The model was found to be 80% ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ajmc.com/view/ai-accurately-predicts-therapy-outcomes-in-most-patients-with-ovarian-cancer",
+      "originalUrl": "https://www.ajmc.com/view/ai-accurately-predicts-therapy-outcomes-in-most-patients-with-ovarian-cancer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-15T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The American Journal of Managed Care",
+        "domain": "ajmc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-15-data-scientist-marketing-natural-language-processing-gauteng-pretoria-cbd.md",
+      "title": "Data Scientist (Marketing & Natural Language Processing) – Gauteng Pretoria CBD",
+      "excerpt": "and Natural Language Processing – as per company Digital Strategic Framework. Responsible for the end-to-end data Lifecycle – from strategic planning, data collection, through monitoring, evaluation, and incremental improvement.",
+      "sourceUrl": null,
+      "webUrl": "https://it-online.co.za/2023/11/15/data-scientist-marketing-natural-language-processing-gauteng-pretoria-cbd/",
+      "originalUrl": "https://it-online.co.za/2023/11/15/data-scientist-marketing-natural-language-processing-gauteng-pretoria-cbd/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-15T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT-Online",
+        "domain": "it-online.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2023-11-15-data-scientist-marketing-natural-language-processing.md",
+      "title": "Data Scientist (Marketing & Natural Language Processing)",
+      "excerpt": "and Natural Language Processing – as per company Digital Strategic Framework. Responsible for the end-to-end data Lifecycle – from strategic planning, data collection, through monitoring, evaluation, and incremental improvement.",
+      "sourceUrl": null,
+      "webUrl": "https://it-online.co.za/2023/11/15/data-scientist-marketing-natural-language-processing/",
+      "originalUrl": "https://it-online.co.za/2023/11/15/data-scientist-marketing-natural-language-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-15T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT-Online",
+        "domain": "it-online.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2023-11-15-expert-explores-how-our-sleeping-patterns-can-be-linked-to-cognitive-decline.md",
+      "title": "Expert explores how our sleeping patterns can be linked to cognitive decline",
+      "excerpt": "It’s also been shown that not getting enough sleep is linked to cognitive decline and conditions such as Alzheimer’s disease. But more isn’t always better, as one recent study found.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20211115/Expert-explores-how-our-sleeping-patterns-can-be-linked-to-cognitive-decline.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20211115/Expert-explores-how-our-sleeping-patterns-can-be-linked-to-cognitive-decline.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-15T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-15-ibm-bids-farewell-to-watson-health-assets.md",
+      "title": "IBM Bids Farewell to Watson Health Assets",
+      "excerpt": "IBM shook up the digital health space Friday with the news that it is selling its healthcare data and analytics assets, currently part of the Watson Health business, to an investment firm. The sale price is reportedly more than $1 billion, although the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/artificial-intelligence/ibm-bids-farewell-watson-health-assets",
+      "originalUrl": "https://www.mddionline.com/artificial-intelligence/ibm-bids-farewell-watson-health-assets",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/IBM%20corporate%20headquarters%20sign.png",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-15T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-15-ibm-has-announced-the-upcoming-general-availability-of-watsonxgovernance-in-early.md",
       "title": "IBM has announced the upcoming general availability of watsonx.governance in early",
       "excerpt": "Its ability to translate regulations into enforceable policies will only become more essential for enterprises as new AI regulation takes hold worldwide.” IBM Consulting has broadened its ...",
@@ -744,209 +968,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-15-google-graphcast-uses-ai-and-machine-learning-to-predict-weather.md",
-      "title": "Google GraphCast uses AI and machine learning to predict weather",
-      "excerpt": "Google DeepMind has created a new model called GraphCast that could help improve how we predict weather forecasts.",
-      "sourceUrl": null,
-      "webUrl": "https://bgr.com/tech/google-graphcast-uses-ai-and-machine-learning-to-predict-weather/",
-      "originalUrl": "https://bgr.com/tech/google-graphcast-uses-ai-and-machine-learning-to-predict-weather/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T17:28:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "bgr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-15-airbnb-acquires-stealth-ai-startup-founded-by-a-creator-of-siri.md",
-      "title": "Airbnb acquires stealth AI startup founded by a creator of Siri",
-      "excerpt": "Airbnb (Nasdaq: ABNB) has acquired a 12-person AI startup, GamePlanner.AI, in order to use its team to flesh out and expand its AI-related services, the company announced Tuesday. According to CNBC, the deal was worth $200 million.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2023/11/14/airbnb-acquires-stealth-ai-startup-gameplanner-ai.html",
-      "originalUrl": "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2023/11/14/airbnb-acquires-stealth-ai-startup-gameplanner-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T17:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-15-ai-based-model-can-predict-therapy-outcome-in-ovarian-cancer-patients.md",
-      "title": "AI-based model can predict therapy outcome in ovarian cancer patients",
-      "excerpt": "A model based on artificial intelligence is able to predict the therapy outcome (measured by volumetric reduction of tumor lesions) in 80% of ovarian cancer patients.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20231113/AI-based-model-can-predict-therapy-outcome-in-ovarian-cancer-patients.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20231113/AI-based-model-can-predict-therapy-outcome-in-ovarian-cancer-patients.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T17:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-15-alabama-man-beaten-beyond-recognition-in-same-prison-where-inmate-was-rented-out-and-murdered.md",
-      "title": "Alabama man beaten beyond recognition in same prison where inmate was ‘rented out’ and murdered",
-      "excerpt": "Louis Latham Jr. was struck with the heavy object at Staton Correctional Facility in August, leaving him with gruesome swelling to the side of his head and two shut eyes.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2023/11/14/news/alabama-man-beaten-beyond-recognition-in-same-prison-gang-rented-out-and-murdered-inmate/",
-      "originalUrl": "https://nypost.com/2023/11/14/news/alabama-man-beaten-beyond-recognition-in-same-prison-gang-rented-out-and-murdered-inmate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T17:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-15-apple-vision-pro-2-what-wed-like-to-see-from-a-second-generation-spatial-computer.md",
-      "title": "Apple Vision Pro 2: what we’d like to see from a second-generation spatial computer",
-      "excerpt": "We're still waiting for the first version to arrive, but you can bet Vision Pro 2 will bring more goodies to the table when it launches",
-      "sourceUrl": null,
-      "webUrl": "https://www.stuff.tv/features/apple-vision-pro-2-what-we-would-like-to-see/",
-      "originalUrl": "https://www.stuff.tv/features/apple-vision-pro-2-what-we-would-like-to-see/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T16:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stuff",
-        "domain": "stuff.tv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-15-global-internal-radiation-therapy-industry-predicts-staggering-83-cagr-growth-from-2022-to-2032.md",
-      "title": "Global Internal Radiation Therapy Industry Predicts Staggering 8.3% CAGR Growth from 2022 to 2032",
-      "excerpt": "According to the report, the Global Internal Radiation Therapy Industry achieved global sales of US$ 892.9 million in 2021, setting the stage for a dynamic trajectory in the years to come. FMI’s expert analysts anticipate a robust 8.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fmiblog.com/2023/11/14/global-internal-radiation-therapy-industry-predicts-staggering-8-3-cagr-growth-from-2022-to-2032/",
-      "originalUrl": "https://www.fmiblog.com/2023/11/14/global-internal-radiation-therapy-industry-predicts-staggering-8-3-cagr-growth-from-2022-to-2032/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T16:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Future Market Insights",
-        "domain": "fmiblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/aws-re-invent-2023-keynote/"
 webUrl: "https://www.techrepublic.com/article/aws-re-invent-2023-keynote/"
 type: article
 quality: 101
-heat: 171
+heat: 191
 published: true
 
 provider:
@@ -97,6 +97,17 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 34
+  - title: "Amazon launches Q, a business chatbot powered by generative artificial intelligence"
+    excerpt: "The technology is currently available for preview. While Amazon is ahead of rivals Microsoft and Google as the dominant cloud computing provider, it’s not perceived as the leader in the AI research that’s led to advancements in generative AI."
+    publishedDateTime: 2023-11-28T22:04:00Z
+    webUrl: "https://thehill.com/homenews/ap/ap-technology/ap-amazon-launches-q-a-business-chatbot-powered-by-generative-artificial-intelligence/"
+    ampWebUrl: "https://thehill.com/homenews/ap/ap-technology/ap-amazon-launches-q-a-business-chatbot-powered-by-generative-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/ap/ap-technology/ap-amazon-launches-q-a-business-chatbot-powered-by-generative-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 33
   - title: "Google Bard vs OpenAI ChatGPT: Which chatbot is better and why? – Lifestyle Asia Singapore"
     excerpt: "Looks like there soon might be a battle of the AI chatbots. Recently, Google announced its AI Chatbot Bard, which will be direct competition for Open"
     publishedDateTime: 2023-11-27T14:00:00Z
@@ -106,6 +117,15 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 26
+  - title: "Amazon introduces Q, an AI chatbot for companies"
+    excerpt: "In September, it announced that it would invest up to $4 billion in Anthropic, an AI startup that competes with OpenAI, and develop advanced computing chips together. Amazon also introduced a platform this year that allows customers to have access to ..."
+    publishedDateTime: 2023-11-28T14:59:00Z
+    webUrl: "https://www.seattletimes.com/business/amazon-introduces-q-an-ai-chatbot-for-companies/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
   - title: "ChatGPT gained 1 million users in under a week. Here’s why the AI chatbot is primed to disrupt search as we know it – Fortune"
     excerpt: "We are all used to entering search queries online and getting relevant links in response. But what if you could get an instant answer from a robot? And what"
     publishedDateTime: 2023-11-24T08:11:00Z
@@ -121,6 +141,6 @@ related:
         height: 600
         isCached: true
 
-secured: "0GXpgm1IXU2K/cg1qoUmbUvNS3+6WvDR77SXWfXAIVrqk0O1hhx+r7+/Ny8cLJJ4cyTrjBthGIawSv4TYrOGdazpJh2KV7aYWvrNr7Js5mI1VSf4LwJQm4q+wmh7NZpMvKBpYyEaZQEBIvJrNxhuTF//FnEG6mobhT5GdYUyCVsCX9KT/GqnJmW0hFqkmraVtiP4PoGSOxp8BjLmk9Uh7nxeo8+VvbbwOLRYm7An4z/VJa/7vwdFv/2dYkLZaHgERa63wMCRQQ3JfMKP9ZeOboWwvlenjhN/yO82PF/0HcwtHpRAD0o+yaeF19yWGFCq8jSabbsW2NETbAD/9H+Cno9+26/+zL4CBPRoQKwN5iA=;33DEiwyf3RB4Hh4R4hxwew=="
+secured: "x8XHX57HE0gEtw7NRNghHg9YyD63mR/9OTDxA0/DFb2ZcFcHiRoczBXTVpJCLqNl3FL61VaJ34fPGMpydYc1u0jeS+Uv2dVtwrw33NhAm/GU3E0TrTBvuFXS1eTzA4u2lJeyjATGF6qOemGUoHtdICyGAP7xTft9kBlzipkU790GMNoUcAl3z4coHPB8RXSrVwfR2aFu5DiwH+qQ7e3DY9TVuoc1R09tVjAEjFPAnB+2sMnTvVEp7wkYYkM5XLFM/aDtunYKqHZO99tGWYngVHspe5E529DI9N+EfoJl1b1b7Fiy8kkJbvgcC2u3QJDmhvprC6rPIFjeOKS2eEs+6uRCJ7ztlbNwxpjYaD+/7RU=;FcdnP8lCDHkIzbSpctGX2w=="
 ---
 

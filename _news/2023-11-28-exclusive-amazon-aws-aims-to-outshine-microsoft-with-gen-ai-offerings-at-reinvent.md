@@ -148,6 +148,22 @@ related:
         width: 1500
         height: 2000
         isCached: true
+  - title: "AWS Joins Forces With Amgen on Generative AI Solutions to Accelerate Advanced Therapies"
+    excerpt: "Leading biotechnology company is using AWS artificial intelligence to increase manufacturing throughput to deliver medicines faster for patients globally At AWS re:Invent, Amazon Web Services, Inc. (AWS),"
+    publishedDateTime: 2023-11-28T17:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/11/b35986299/aws-joins-forces-with-amgen-on-generative-ai-solutions-to-accelerate-advanced-therapies"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35986299"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35986299"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 66
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "IBM and AWS strengthen alliance to propel generative AI solutions across critical use cases"
     excerpt: "Explore the transformative collaboration between IBM and AWS, as they elevate generative AI solutions for critical use cases."
     publishedDateTime: 2023-11-27T21:04:00Z
@@ -163,6 +179,20 @@ related:
       - url: "https://s5.cdn.ventureburn.com/wp-content/uploads/sites/2/2023/11/AWS-x-IBM.jpg"
         width: 1920
         height: 720
+        isCached: true
+  - title: "Rethinking IT at re:Invent: AWS bets the stack on generative AI"
+    excerpt: "Amazon Web Services Inc. unveiled what it called the “Generative AI Stack,” an approach designed to provide customers with applications for leveraging AI, new tools for building with large language models, and advances in infrastructure to accelerate model training and inference."
+    publishedDateTime: 2023-11-28T23:25:00Z
+    webUrl: "https://siliconangle.com/2023/11/28/rethinking-reinvent-aws-bets-stack-generative-ai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/selipsky-keynote-reinvent2023.jpg"
+        width: 4882
+        height: 3042
         isCached: true
   - title: "IBM and AWS expand partnership to accelerate generative AI adoption in Africa"
     excerpt: "IBM announced an expansion of its partnership with Amazon Web Services (AWS) to help more clients operationalise and derive value from generative artificial intelligence (AI). As part of this expansion,"
@@ -191,6 +221,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/aws-adam-selipsky-copy.png"
         width: 1245
         height: 700
+        isCached: true
+  - title: "AWS Joins Forces With Amgen on Generative AI Solutions to Accelerate Advanced Therapies"
+    excerpt: "The new facility will feature the latest digital and robotic technology, including the implementation of a connected digital platform on AWS using Amazon SageMaker, a fully managed service to build, train, and deploy machine learning (ML) models ..."
+    publishedDateTime: 2023-11-28T01:30:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/aws-joins-forces-with-amgen-on-generative-ai-solutions-to-accelerate-advanced-therapies/article_31e93823-40ca-5c50-9e48-ad1be69cd26a.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 46
+    images:
+      - url: "http://static.cnhionline.com/joplinglobe/jmag/DEC-2023-Jmag-350px.jpeg"
+        width: 350
+        height: 456
         isCached: true
   - title: "AWS, NVIDIA Partner on New Supercomputing Infrastructure, Software, and Services for Generative AI"
     excerpt: "LAS VEGAS —Amazon Web Services, Inc. (AWS) and NVIDIA have announced an expansion of their ongoing strategic collaboration to deliver the most advanced infrastructure, software, and services to customers working in the area of generative artificial intelligence."
@@ -234,6 +278,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "The big reveals from Adam Selipsky at AWS re:Invent 2023"
+    excerpt: "Amazon Web Services has teased the preview launch of its new generative artificial intelligence chatbot product during this year's re:Invent."
+    publishedDateTime: 2023-11-29T00:54:00Z
+    webUrl: "https://www.arnnet.com.au/article/709614/the-big-reveals-from-adam-selipsky-at-aws-reinvent-2023/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 39
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/adamreinvent2023.jpg"
+        width: 504
+        height: 315
+        isCached: true
   - title: "Tech firm uses a brace of generative AI tools to slash content production times"
     excerpt: "The company, which makes a secure platform for file sharing, file transfers and email, uses a suite of generative AI platforms for everything from email marketing to sales training. Executives estimate they’ve realized 10-fold efficiency improvements while doubling inbound search traffic and generating a record volume of sales leads."
     publishedDateTime: 2023-11-26T01:22:00Z
@@ -257,15 +315,6 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 28
-  - title: "AWS Joins Forces With Amgen on Generative AI Solutions to Accelerate Advanced Therapies"
-    excerpt: "The new facility will feature the latest digital and robotic technology, including the implementation of a connected digital platform on AWS using Amazon SageMaker, a fully managed service to build, train, and deploy machine learning (ML) models ..."
-    publishedDateTime: 2023-11-28T13:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/11/b35986299/aws-joins-forces-with-amgen-on-generative-ai-solutions-to-accelerate-advanced-therapies"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 26
   - title: "AWS re:Invent grabs the spotlight, with cloud, cybersecurity and AI in a business focus"
     excerpt: "Invent conference opens in Las Vegas this week, AWS will make the case that it, too, has a leading role in the transformation that lies at the nexus of artificial intelligence, cloud computing and cybersecurity."
     publishedDateTime: 2023-11-27T19:07:00Z

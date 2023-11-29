@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/why-physical-operations-are-uniquely-po
 webUrl: "https://venturebeat.com/ai/why-physical-operations-are-uniquely-positioned-for-ai-transformation/"
 type: article
 quality: 67
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -77,6 +77,15 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
+    quality: 7
+  - title: "Informatica Broadens Relationship with AWS, Announces Deeper Integrations Across Generative AI, AWS HealthLake and Amazon S3"
+    excerpt: "Informatica unveiled a trio of new integrations with Amazon Web Services (AWS) at AWS re:Invent 2023, the annual"
+    publishedDateTime: 2023-11-28T22:57:00Z
+    webUrl: "https://www.datanami.com/this-just-in/informatica-broadens-relationship-with-aws-announces-deeper-integrations-across-generative-ai-aws-healthlake-and-amazon-s3/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
     quality: 7
 
 secured: "p090WrCFeLM7jme9Lu1XPVgfre2x6gXg4/oHHXbhlrwPM4BThig+NZy5QWeMLQjqJPZluong/OpkTszVb4bg5vSp/o5CKRc/GZtR8wcUVRKHrr+voOtZjhXZgazEolnd2PlnIgYXAAgDXS3nKzi9dVtTd3O/glJGzj6f1Z4Hx8Koi7Uu0sSK0Y75Tn+oXaVoKIHJ4/9DfUuEXjKuiHAznhOcQVF10FSeN/dluEtqu+5swNWXv1472Vi1HTDQ7br6zWIDdq5DHF+CCBiDxymjuvTzfI7twbx9KiFg4dv/1VsOJA5uyc94hw9rI0uRvTqs9Gbhf6r5W+VxA9mM1uAdx7/oFWNKnoB3ANfoYw5SGIIMXecBR0bQFns8MwX/S+taRFp8svv7SAh1N9a5d/n88+STM11jq0ryU8U0CyxBIpAvTcIbWguIgmvyjuIN4mTVTcCZphAnC9I/BkOjH6WyYw1kFe9hsSdcYdTXpBxd7JFRIxed8/lEK+KOVRsuU7kKU1pwiP8BwugqPxeM+dgdSA==;/5B4I/0fMfIsUFfnFWP4eA=="

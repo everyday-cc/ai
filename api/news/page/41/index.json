@@ -2,6 +2,298 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2023-10-25-lenovo-wants-to-create-your-own-personal-ai-twin.md",
+      "title": "Lenovo wants to create your own personal ‘AI twin’",
+      "excerpt": "In many ways, Lenovo’s personal AI twin works identically to any AI assistant. With the data it gathers from from a user’s personal device, it will anticipate your needs and offer solutions, proactively and independently, Lenovo CEO Yang Yuanqing said at the Tech World keynote.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/lenovos-personal-ai-twin-gives-users-control-of-their-data/",
+      "originalUrl": "https://www.digitaltrends.com/computing/lenovos-personal-ai-twin-gives-users-control-of-their-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/10/lenovo-AI-twin.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/lenovos-personal-ai-twin-gives-users-control-of-their-data/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/lenovos-personal-ai-twin-gives-users-control-of-their-data/?amp",
+      "publishedDateTime": "2023-10-24T22:04:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-25-physicians-are-dramatically-underdiagnosing-early-cognitive-decline-a-precursor-to-alzheimers.md",
+      "title": "Physicians Are Dramatically Underdiagnosing Early Cognitive Decline, a Precursor to Alzheimer’s",
+      "excerpt": "Changes to the brain are natural as we age, which often makes it difficult to spot more aberrant signs of cognitive decline in older adults. Neurodegenerative diseases like Alzheimer’s and ...",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6328148/mci-cognitive-decline-under-diagnosed/",
+      "originalUrl": "https://time.com/6328148/mci-cognitive-decline-under-diagnosed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-24T22:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-25-the-same-tech-used-in-driverless-cars-is-helping-public-works.md",
+      "title": "The Same Tech Used in Driverless Cars Is Helping Public Works",
+      "excerpt": "Cities are turning to the same type of technology that allows robotaxis to navigate roadways to identify potholes and errant drivers. The technology is helping to remove humans from potentially dangerous tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/fs/the-same-tech-used-in-driverless-cars-is-helping-public-works",
+      "originalUrl": "https://www.govtech.com/fs/the-same-tech-used-in-driverless-cars-is-helping-public-works",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/63a88b7/2147483647/strip/true/crop/8095x4221+0+1178/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F97%2Fba%2Fd8068ed24c1dbd77ae58f1fbb0db%2Fshutterstock-2274798647.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/fs/the-same-tech-used-in-driverless-cars-is-helping-public-works?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/the-same-tech-used-in-driverless-cars-is-helping-public-works?_amp=true",
+      "publishedDateTime": "2023-10-24T22:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-25-health-care-up-amid-uneven-earnings-health-care-roundup.md",
+      "title": "Health Care Up Amid Uneven Earnings -- Health Care Roundup",
+      "excerpt": "Health-care companies rose, but not by as much as the broad market, amid uneven earnings. HCA Healthcare shares slid after the hospital chain",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/health-care-up-amid-uneven-earnings-health-care-roundup-501ca19e",
+      "originalUrl": "https://www.marketwatch.com/story/health-care-up-amid-uneven-earnings-health-care-roundup-501ca19e",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/health-care-up-amid-uneven-earnings-health-care-roundup-501ca19e",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/health-care-up-amid-uneven-earnings-health-care-roundup-501ca19e",
+      "publishedDateTime": "2023-10-24T21:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-25-ai-chip-wars-us-curbs-nvidia-gpu-chip-exports-sooner-than-expected.md",
+      "title": "AI chip wars: US curbs Nvidia GPU chip exports sooner than expected",
+      "excerpt": "On Tuesday, chip designer Nvidia announced in an SEC filing that new US export restrictions on its high-end AI GPU chips to China are now in effect sooner than expected, according to a report from Reuters.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/10/ai-chip-wars-us-curbs-nvidia-gpu-chip-exports-sooner-than-expected/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/10/ai-chip-wars-us-curbs-nvidia-gpu-chip-exports-sooner-than-expected/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 289,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/nvidia_h100_hero_3-800x448.jpg",
+          "width": 800,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/10/ai-chip-wars-us-curbs-nvidia-gpu-chip-exports-sooner-than-expected/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/ai-chip-wars-us-curbs-nvidia-gpu-chip-exports-sooner-than-expected/amp/",
+      "publishedDateTime": "2023-10-24T21:06:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-10-25-google-cloud-revenue-misses-expectations-despite-ai-boom.md",
+      "title": "Google Cloud revenue misses expectations despite AI boom",
+      "excerpt": "Alphabet, Google’s parent company, reports stronger than expected overall revenue but stock falls in after-hours trading",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2023/oct/24/alphabet-q3-earnings-google-ai?ref=biztoc.com",
+      "originalUrl": "https://www.theguardian.com/technology/2023/oct/24/alphabet-q3-earnings-google-ai?ref=biztoc.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/3e2889687f977cb0a22d79523e871b6d5e717030/0_0_2788_1673/master/2788.jpg?width=620&quality=85&auto=format&fit=max&s=666e3bbe284d312ff95f65500ac217e1",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2023/oct/24/alphabet-q3-earnings-google-ai",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/24/alphabet-q3-earnings-google-ai",
+      "publishedDateTime": "2023-10-24T21:06:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-25-insurance-companies-are-betting-on-ai-and-mass-data-analytics-in-a-battle-against-fraud-that-costs-billions.md",
       "title": "Insurance companies are betting on AI and mass data analytics in a battle against fraud that costs billions",
       "excerpt": "Insurance companies are using AI to flag suspicious claims. One company said their machine-learning system finds three times more fraud than manual or rules-based tools.",
@@ -905,292 +1197,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-24-how-new-voice-technologies-will-change-the-way-we-live-and-do-business.md",
-      "title": "How New Voice Technologies Will Change The Way We Live And Do Business",
-      "excerpt": "How will new voice technologies change the way we live and do business? Answer by Tobias Dengel, President at WillowTree, a TELUS International Company",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/quora/2023/10/24/how-new-voice-technologies-will-change-the-way-we-live-and-do-business/",
-      "originalUrl": "https://www.forbes.com/sites/quora/2023/10/24/how-new-voice-technologies-will-change-the-way-we-live-and-do-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/652f104b6183acff76d6c757/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/quora/2023/10/24/how-new-voice-technologies-will-change-the-way-we-live-and-do-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quora/2023/10/24/how-new-voice-technologies-will-change-the-way-we-live-and-do-business/amp/",
-      "publishedDateTime": "2023-10-24T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-24-this-brain-like-ibm-chip-could-drastically-cut-the-cost-of-ai.md",
-      "title": "This Brain-Like IBM Chip Could Drastically Cut the Cost of AI",
-      "excerpt": "The brain-like chip triumphed over state-of-the-art GPUs in several head-to-head tests while using up to 96 percent less energy.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2023/10/24/this-brain-like-ibm-chip-could-drastically-cut-the-cost-of-ai/",
-      "originalUrl": "https://singularityhub.com/2023/10/24/this-brain-like-ibm-chip-could-drastically-cut-the-cost-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2023/10/IBM-north-pole-brain-chip-for-ai.jpeg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2023/10/24/this-brain-like-ibm-chip-could-drastically-cut-the-cost-of-ai/?amp=1",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/10/24/this-brain-like-ibm-chip-could-drastically-cut-the-cost-of-ai/?amp=1",
-      "publishedDateTime": "2023-10-24T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-24-mayo-clinic-performs-minnesotas-first-robot-assisted-kidney-transplant.md",
-      "title": "Mayo Clinic performs Minnesota's first robot-assisted kidney transplant",
-      "excerpt": "Pam Panning was \"certainly not nervous that anything was going to go wrong\" during her kidney transplant earlier this month. Her robot-assisted operation was a first for Mayo Clinic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.postbulletin.com/health/mayo-clinic-performs-minnesotas-first-robot-assisted-kidney-transplant",
-      "originalUrl": "https://www.postbulletin.com/health/mayo-clinic-performs-minnesotas-first-robot-assisted-kidney-transplant",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.forumcomm.com/dims4/default/1a4d9d8/2147483647/strip/true/crop/6930x4620+0+0/resize/1599x1066!/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2F6d%2F72%2Ff526c95e4f579342912c4b937be6%2F102323-pam-panning-08435.jpg",
-          "width": 1599,
-          "height": 1066,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T13:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Post-Bulletin",
-        "domain": "postbulletin.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-24-how-this-berlin-startup-deploys-ai-to-make-preventative-healthcare-accessible.md",
-      "title": "How this Berlin startup deploys AI to make preventative healthcare accessible",
-      "excerpt": "There are plenty of conversations around how AI can progress healthcare. And indeed, it has numerous applications in the form of diagnostics and accelerated drug discovery. However, wouldn’t it be eve",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/how-berlin-startup-deploys-ai-preventative-healthcare-accessible",
-      "originalUrl": "https://thenextweb.com/news/how-berlin-startup-deploys-ai-preventative-healthcare-accessible",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F10%2FHealthCaters-Team-e1698154782374.jpg&signature=b7e6d2b3a3308b6a055c9e66bae6b0fb",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T13:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-24-edge-compute-maker-simaai-hires-former-aws-exec-as-new-cbo-read-our-exclusive-interview.md",
-      "title": "Edge compute maker SIMA.ai hires former AWS exec as new CBO. Read our exclusive interview.",
-      "excerpt": "AI Unleashed - An exclusive executive event for enterprise data leaders. Network and learn with industry peers. Learn More San Jose-based edge computing startup SiMa.ai has made waves recently with the release of Palette Edgematic,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/edge-compute-maker-sima-ai-hires-former-aws-exec-as-new-cbo-read-our-exclusive-interview/",
-      "originalUrl": "https://venturebeat.com/ai/edge-compute-maker-sima-ai-hires-former-aws-exec-as-new-cbo-read-our-exclusive-interview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/10/Untitled-design-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T13:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-10-24-amazon-will-pay-you-25-to-stock-up-on-paper-towels-and-more-home-essentials-for-the-holidays.md",
-      "title": "Amazon will pay you $25 to stock up on paper towels and more home essentials for the holidays",
-      "excerpt": "You don't need a special coupon code or an Amazon Prime membership to get this deal. Just buy $100 worth of qualifying home goods, and you'll automatically get the $25 credit to spend on a later ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/amazon-proctor-and-gamble-bulk-essentials-sale/",
-      "originalUrl": "https://www.cbsnews.com/essentials/amazon-proctor-and-gamble-bulk-essentials-sale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/10/13/ccaf512f-3ea4-448b-916f-d1fe53919bc3/thumbnail/1200x630/d3d53d1687d8db0bad8221b4730fda2e/amazon-proctor-and-gamble-sale.jpg?v=5799c2de91a486f8a37c0b0f0daf468a",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T13:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

@@ -39,6 +39,15 @@ related:
         width: 375
         height: 562
         isCached: true
+  - title: "Call centres set for disruption as AI take-up grows"
+    excerpt: "Call centres are set for a shake-up as AI and chat bots replace lower-level staff ... says we’ll be better off as companies start changing the skill sets of those handling your complaints. “The original business model was, if you like, a fairly ..."
+    publishedDateTime: 2023-11-28T04:56:00Z
+    webUrl: "https://www.theaustralian.com.au/business/careers/call-centres-set-for-disruption-as-ai-takeup-grows/news-story/66211c2aeb9d1b6baa2e54e0c0664576"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 17
 
 secured: "Xb4AAoIRBmR6sT5SQOAVKeRI0oumMnGm8BE9HNmn8Y9mtn6LO4nsuOAKHHgeT8veZISYG/QD/aYNBuxN4rvgfnRO0hzpNm7LJrWfzoNnCPS0oU8c5YP80a4X/dD7WPCA8N1tUT0oAz8PSgPdyAucXsc9gesMLUdSMj5P2zC5xsc1avTJ3DiQwiEYGvcFn2HiR2xVHjbiTEBqVp/8bial/FmhrMk7I8QbPffZoLT4zd+b36fz/qM+gnZEGQfplaO8DvOY9XEoHYfdEWhT6tBb4SSwgcDZHvnGoyQnqhxzfVsuQFGcx6+Uwg94JEPzHK0e+mziTJI10Eil9v290Ew6zahxeL6Hy9Kj9Lnv5GAtsSo=;Hd3IpsD9s1sorWoIUW2Z4g=="
 ---

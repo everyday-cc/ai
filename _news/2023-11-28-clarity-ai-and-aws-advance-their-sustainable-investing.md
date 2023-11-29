@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/quick-bytes/clarity-ai-and-aws-advance-th
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/clarity-ai-and-aws-advance-their-sustainable-investing/amp/"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -67,15 +67,6 @@ related:
     provider:
       name: Computer Weekly
       domain: computerweekly.com
-    quality: 34
-  - title: "Teradata AI Unlimited Now Available on AWS"
-    excerpt: "Teradata today announced that Teradata AI Unlimited is now available in private preview on Amazon Web Service (AWS) through"
-    publishedDateTime: 2023-11-28T20:08:00Z
-    webUrl: "https://www.datanami.com/this-just-in/teradata-ai-unlimited-now-available-on-aws/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
     quality: 34
   - title: "The Very Group selects AWS to transform the shopping experience with generative AI"
     excerpt: "The Very Group (‘Very’), a leading UK online retailer, today announced an expanded collaboration with Amazon Web Services (AWS) to accelerate"

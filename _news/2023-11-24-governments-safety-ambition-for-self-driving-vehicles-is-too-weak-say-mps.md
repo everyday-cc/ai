@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Self-driving cars: Government rejects claim its safety ambitions are ‘weak’"
-    excerpt: "The Government has rejected claims by MPs that its proposed safety aspirations for self-driving cars are “too weak”. In its response to a Transport Select Committee report, the Department for ..."
-    publishedDateTime: 2023-11-24T00:01:00Z
-    webUrl: "https://www.independent.co.uk/news/uk/government-department-for-transport-transport-select-committee-mps-rac-foundation-b2452851.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 37
-    images:
-      - url: "https://static.independent.co.uk/2023/11/24/10/c48b7e1275c7234bf0fd714fee4c5904Y29udGVudHNlYXJjaGFwaSwxNzAwOTA4MTQy-2.71021602.jpg?quality=75&width=1200&auto=webp"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Government safety ambition for self-driving vehicles is “too weak”"
     excerpt: "The Government’s safety ambition for self-driving vehicles to replicate the performance of a competent human driver is too weak, says the Transport Committee."
     publishedDateTime: 2023-11-24T11:13:00Z

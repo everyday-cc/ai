@@ -91,6 +91,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Amazon launches Q, a business chatbot powered by generative artificial intelligence"
+    excerpt: "The technology is currently available for preview. While Amazon is ahead of rivals Microsoft and Google as the dominant cloud computing provider, it’s not perceived as the leader in the AI research that’s led to advancements in generative AI."
+    publishedDateTime: 2023-11-28T22:04:00Z
+    webUrl: "https://thehill.com/homenews/ap/ap-technology/ap-amazon-launches-q-a-business-chatbot-powered-by-generative-artificial-intelligence/"
+    ampWebUrl: "https://thehill.com/homenews/ap/ap-technology/ap-amazon-launches-q-a-business-chatbot-powered-by-generative-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/ap/ap-technology/ap-amazon-launches-q-a-business-chatbot-powered-by-generative-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 33
   - title: "Google Bard vs OpenAI ChatGPT: Which chatbot is better and why? – Lifestyle Asia Singapore"
     excerpt: "Looks like there soon might be a battle of the AI chatbots. Recently, Google announced its AI Chatbot Bard, which will be direct competition for Open"
     publishedDateTime: 2023-11-27T14:00:00Z
@@ -100,6 +111,15 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 26
+  - title: "Amazon introduces Q, an AI chatbot for companies"
+    excerpt: "In September, it announced that it would invest up to $4 billion in Anthropic, an AI startup that competes with OpenAI, and develop advanced computing chips together. Amazon also introduced a platform this year that allows customers to have access to ..."
+    publishedDateTime: 2023-11-28T14:59:00Z
+    webUrl: "https://www.seattletimes.com/business/amazon-introduces-q-an-ai-chatbot-for-companies/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
   - title: "ChatGPT gained 1 million users in under a week. Here’s why the AI chatbot is primed to disrupt search as we know it – Fortune"
     excerpt: "We are all used to entering search queries online and getting relevant links in response. But what if you could get an instant answer from a robot? And what"
     publishedDateTime: 2023-11-24T08:11:00Z

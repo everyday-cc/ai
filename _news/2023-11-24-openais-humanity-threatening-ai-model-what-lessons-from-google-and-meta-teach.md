@@ -135,20 +135,6 @@ related:
         width: 1024
         height: 666
         isCached: true
-  - title: "What the OpenAI drama means for AI progress — and safety"
-    excerpt: "Stability AI and Cohere are other often-cited rivals. West notes that these start-ups rely heavily on the vast and expensive computing resources provided by just three companies — Google, Microsoft and Amazon — potentially creating a race for dominance ..."
-    publishedDateTime: 2023-11-23T23:43:00Z
-    webUrl: "https://www.nature.com/articles/d41586-023-03700-4"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 37
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-03700-4/d41586-023-03700-4_26348126.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "+DxllUjvwzZ9BV5QQUJN2O67zzTLWBJuSHy0QvGj1L08NoLHgqM26EyVao2lGwCxrJU6RP8e8QAGCrTSwaVzdKGk4nhgIG34vIFvbNP25CTxQH/YYp7+YL/FK/O3tCYfZL3JVRNblKgFsoe380Z4w1fcd9jBG1053r2TfOZe0pE0+gY0meQ/RY70QKe2JSi5e31DU+AKFVXEqcFnmBLAq9pRj9bC139hBCJFfds3cQ23sbM4Z3Mw1kDwx/eScF4N7MEeTX1POmR19xsBNMapx8ZoI6gr0/ANwZe7mJMhke2B6GXgPZtz94io2LPCLkdHrld1BdLHhYGBRz4hEDOWq6XZfqCpDyBI2x3DTeqmdQE=;ULJUSwrqiWw+jvut+EQ9vw=="
 ---

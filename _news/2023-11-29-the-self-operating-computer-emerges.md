@@ -6,8 +6,8 @@ publishedDateTime: 2023-11-28T20:02:00Z
 originalUrl: "https://venturebeat.com/ai/the-self-operating-computer-emerges/"
 webUrl: "https://venturebeat.com/ai/the-self-operating-computer-emerges/"
 type: article
-quality: 34
-heat: 34
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -21,7 +21,14 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AI in Autos
 
-secured: "n71o2sa8PBDfbShKtam88U60N/Sdm0vyOD/aqQW8KWflYeHkNWsRpIpnn14DwR7rwdBZRgBRfSloFb/PHc7Gqqgog+Sx41r3TkWO6BLo9Cyi8lSd9FuOBqNsk3XRQYvqoVy8Zos1+dsifrvPutMXVjLUu2bSKQb/BHxj5bF7DPOUR1DCF/coP4Lp59cEop5nZJ3zpUlA8ua95FcKOqV/fYZgxqpAsn6CeiAQ0zklFdMNcv8U8wf1mJr4cLXaiwr8TOulWtTo4zEhNNm0PZydD3V8oRxsFxy/3admUKgGMMbTUWeQxygkp5Kqztrv8EygcaOMC67pdUZdx3AQAR5d8Av9CwSmJDW9zQnynr3ABlHGl2hMZiSGfE/8TM/0bGycQsU6mr+ldKSX6eDgnMnZk7azSqNLhC78FCga0ixqpmqeaCQW/QOLWR54EpxGjloFJYUcEzHwJtQAqaop7Orrs7eU0MyD8UDEj3r4JgPBFMywgyAbPtM8u9uMnUTXTYO6ch6DNqXdB/S3lWL8QYrAcg==;OqJyiqn4ko8s+Utchkwp3w=="
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2023/11/DALL·E-2023-11-28-14.17.57-A-16_9-image-in-a-1990s-retro-style-with-a-more-proportionally-sized-PC-projecting-light-to-form-a-3D-wireframe-person-seated-in-front-of-it.-The-PC.png?w=1200&strip=all"
+    width: 1199
+    height: 685
+    isCached: true
+
+secured: "H5l8DClS+nO1ZTbAafA6g0H+xm8sco6xRDO8yA4QJdIRr22NG/VqGMLJyl1i+05vCGsUWvxeOA3XLZLUP7yXB2bkwU9+ldhiaD5RdvqJl5Asmo52mKIP9fNq8CZIoa4fn4/v3zV2zOQc0LwkyVPy37+5cZ7v92okEibU8hoeYJMd2dL43ysFm44qTr8Z+bMjfo+CDRjjl3+ix4ocdoEqYRhVShwaZ5ZIAROe0Q+Au5yylS7hdE2TbarqB0hsRcRJ2M6CfEDLJkcz9Uc5cz92ykDWk8d+ia/tFYlzbNGvhczqSO2KpUBjVc/m7q/ds4bVO3OYKEc6RztRAkyMrui4/5siH44KtmUQIL5Sh+vqvVQ=;Slwz/UrQV7s2MrNpzpGHIg=="
 ---
 
