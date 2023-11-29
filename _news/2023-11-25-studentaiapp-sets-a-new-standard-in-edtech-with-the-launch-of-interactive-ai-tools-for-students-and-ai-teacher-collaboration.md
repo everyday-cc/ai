@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/studentai-app-sets
 webUrl: "https://markets.businessinsider.com/news/stocks/studentai-app-sets-a-new-standard-in-edtech-with-the-launch-of-interactive-ai-tools-for-students-and-ai-teacher-collaboration-1032848965"
 type: article
 quality: 40
-heat: 40
+heat: -1
 published: false
 
 provider:
@@ -28,29 +28,36 @@ images:
     isCached: true
 
 related:
-  - title: "Addressing Gender and Intersectional Bias in Artificial Intelligence"
-    excerpt: "The vast potential of artificial intelligence (AI) technologies is transforming our understanding of and relationship with traditional technical, creative, and professional workflows. The promise of AI is tempered and distorted, however, both by the ..."
-    publishedDateTime: 2023-11-27T00:01:00Z
-    webUrl: "https://www.mccormick.northwestern.edu/news/articles/2023/11/addressing-gender-and-intersectional-bias-in-artificial-intelligence/"
+  - title: "How are local colleges handling students' use of artificial intelligence?"
+    excerpt: "BOSTON - There are a lot of myths, predictions, and half-truths about artificial intelligence: it's coming for your job. It's too risky. Generative AI, harnessed through programs like ChatGPT, is a popular technology that can be used to create new content ..."
+    publishedDateTime: 2023-11-28T23:35:00Z
+    webUrl: "https://www.cbsnews.com/boston/news/colleges-ai-artificial-intelligence-student-policy-question-everything/"
+    ampWebUrl: "https://www.cbsnews.com/amp/boston/news/colleges-ai-artificial-intelligence-student-policy-question-everything/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/boston/news/colleges-ai-artificial-intelligence-student-policy-question-everything/"
     type: article
     provider:
-      name: mccormick.northwestern.edu
-      domain: northwestern.edu
-    quality: 37
+      name: CBS News
+      domain: cbsnews.com
+    quality: 56
     images:
-      - url: "https://www.mccormick.northwestern.edu/images/news/2023/11/addressing-gender-and-intersectional-bias-in-artificial-intelligence-social.jpg"
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/08/15/7b544a11-e02c-452c-8747-125a1d777d82/thumbnail/1200x630/c263c2762996494805c384964e845ad1/gettyimages-658984267.jpg?v=d785468072c93affb6a366f2958aca39"
         width: 1200
         height: 630
         isCached: true
-  - title: "Exactech Publishes New Machine Learning Research That Evaluates Fairness and Accuracy of AI Predictions"
-    excerpt: "Exactech, a developer and producer of innovative implants, instrumentation, and smart technologies for joint replacement surgery, reports a new study1"
-    publishedDateTime: 2023-11-27T15:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231127072917/en/Exactech-Publishes-New-Machine-Learning-Research-That-Evaluates-Fairness-and-Accuracy-of-AI-Predictions/"
+  - title: "Question Everything: How are colleges handling the use of artificial intelligence?"
+    excerpt: "A recent survey revealed that 56% of college students admit completing assignments using AI technology. WBZ-TV's Kristina Rex reports."
+    publishedDateTime: 2023-11-28T23:26:00Z
+    webUrl: "https://www.cbsnews.com/boston/video/question-everything-how-are-colleges-handling-the-use-of-artificial-intelligence/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 18
+      name: CBS News
+      domain: cbsnews.com
+    quality: 31
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/11/28/e06a8958-3ce5-4f81-97b4-93a982af8aee/thumbnail/1200x630/bfbe5b36e614a4c12817629d117b8863/fa074a1a5fe05154bad5e2717de9538d.jpg?v=d785468072c93affb6a366f2958aca39"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "z+zqNC/7/i1rMGV0jSiZ4y/uONtNHNBDtn9bbBZ51Kh74dbxQy3BjP3YAVbJHqgGAt5r2qfOs/hVS9jcygu6qvIRHevjbcKHigoOkZWRITULUVKwntp1uhs6B0wvLuPE/T+qCmF9OoL+IBm1x4ooXiXcPauB2Mwkcq2M6fII9HxdBmrlxZByRqKVp55NcJog7TFDjdbBErVmCVCrwgiORsL/hyf75NMPb519ffp6Qha4J2SZIJTPzJn99YEaXresocOgQLvRQosEcx+M8JU9xtr2COPM4f/2Gq0x6CRBfACqP8MJWcvvZshXiqeKF1qLSmIl8TEOPiTfum7Mxzy1dFy28mZgGgWzl5zJIiM6JFH6PuxyExKa+WRfTkl6umUF3zr/tf0Dl2xqK8sfuJS3CRuaUazotMjkaFhgTZDt+LepjJRV4O4MhcX18PjBsKIwo8416p3WTtFZcl1Q9KF3U+wE1UR1pKS5O5KXdCH6G3w3w7tKofB2LlJsztwSkQjXDvs30tlsN424ePpKcrVamw==;bYrEfaqfXfKYENdliTPtBA=="
 ---

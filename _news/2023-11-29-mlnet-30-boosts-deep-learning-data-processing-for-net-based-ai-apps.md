@@ -7,7 +7,7 @@ originalUrl: "https://visualstudiomagazine.com/articles/2023/11/28/ml-net-3-0.as
 webUrl: "https://visualstudiomagazine.com/articles/2023/11/28/ml-net-3-0.aspx"
 type: article
 quality: 73
-heat: 74
+heat: 73
 published: true
 
 provider:

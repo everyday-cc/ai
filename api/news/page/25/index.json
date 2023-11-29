@@ -2,6 +2,202 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2023-11-07-andreessen-horowitz-is-not-at-all-techno-optimistic-about-this-particular-ai-scenario.md",
+      "title": "Andreessen Horowitz is not at all 'techno-optimistic' about this particular AI scenario",
+      "excerpt": "The famed venture capital firm a16z is fighting alongside major tech companies against potential copyright rules that would address generative AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/marc-andreessen-horowitz-ai-copyright-2023-11",
+      "originalUrl": "https://www.businessinsider.com/marc-andreessen-horowitz-ai-copyright-2023-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6549910136d588dc55cbe0dc?width=1200&format=jpeg",
+          "width": 620,
+          "height": 310,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/marc-andreessen-horowitz-ai-copyright-2023-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/marc-andreessen-horowitz-ai-copyright-2023-11?amp",
+      "publishedDateTime": "2023-11-07T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-07-crypto-entrepreneurs-are-pivoting-to-ai-heres-one-founders-experience.md",
+      "title": "Crypto Entrepreneurs Are Pivoting to AI. Here’s One Founder’s Experience.",
+      "excerpt": "Chris Horne’s startup, Filta, shifted to an AI-powered product after his initial NFT idea faltered.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/crypto-entrepreneurs-are-pivoting-to-ai-heres-one-founders-experience-34be4c51",
+      "originalUrl": "https://www.wsj.com/articles/crypto-entrepreneurs-are-pivoting-to-ai-heres-one-founders-experience-34be4c51",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-881261/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-07T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-07-ibm-and-microsoft-work-together-to-bring-maximo-application-suite-onto-azure.md",
+      "title": "IBM and Microsoft work together to bring Maximo Application Suite onto Azure",
+      "excerpt": "Embracing an opportunity to tailor your asset management journey precisely to your unique needs and aspirations.\nThe post IBM and Microsoft work together to bring Maximo Application Suite onto Azure appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ibm-and-microsoft-work-together-to-bring-maximo-application-suite-onto-azure/",
+      "originalUrl": "https://www.ibm.com/blog/ibm-and-microsoft-work-together-to-bring-maximo-application-suite-onto-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 261,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/11/Option3.jpg",
+          "width": 2400,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-07T09:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-07-how-artificial-intelligence-can-predict-prevent-sudden-cardiac-death.md",
+      "title": "How Artificial Intelligence can predict, prevent sudden cardiac death?",
+      "excerpt": "Cardiac arrest is a medical emergency condition in which the heart suddenly stops beating effectively, leading to a cessation of blood flow to the body and brain. This can result in the rapid loss of consciousness and,",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiatvnews.com/health/how-artificial-intelligence-can-predict-cardiac-arrest-2023-11-07-901637",
+      "originalUrl": "https://www.indiatvnews.com/health/how-artificial-intelligence-can-predict-cardiac-arrest-2023-11-07-901637",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/11/cardiac-arrest-1699346963.jpg",
+          "width": 360,
+          "height": 202,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.indiatvnews.com/amp/health/how-artificial-intelligence-can-predict-cardiac-arrest-2023-11-07-901637",
+      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/health/how-artificial-intelligence-can-predict-cardiac-arrest-2023-11-07-901637",
+      "publishedDateTime": "2023-11-07T08:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India TV",
+        "domain": "indiatvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-07-korea-showcases-ai-chips-6g-tech-to-maintain-competitiveness.md",
       "title": "Korea showcases AI chips, 6G tech to maintain competitiveness",
       "excerpt": "Korea unveiled the latest information and communications technologies, including AI semiconductors, quantum computing and the 6G network, being worked on by domestic researchers, according to the Electronics and Telecommunications Research Institute (ETRI),",
@@ -959,204 +1155,6 @@
         "AI Hardware",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-11-07-openai-introduces-custom-ai-assistants-called-gpts-that-play-different-roles.md",
-      "title": "OpenAI introduces custom AI assistants called “GPTs” that play different roles",
-      "excerpt": "On Monday, OpenAI announced \"GPTs,\" a new feature that allows ChatGPT users to create custom versions of its AI assistant that serve different roles or purposes. OpenAI will let users share GPT roles with others, and it plans to introduce a \"GPT Store\" later this month that will eventually share revenue with creators.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/11/openai-introduces-custom-ai-assistants-called-gpts-that-play-different-roles/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/11/openai-introduces-custom-ai-assistants-called-gpts-that-play-different-roles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/chatgpt-roles_2-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/11/openai-introduces-custom-ai-assistants-called-gpts-that-play-different-roles/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/11/openai-introduces-custom-ai-assistants-called-gpts-that-play-different-roles/amp/",
-      "publishedDateTime": "2023-11-06T18:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-07-openai-launches-dall-e-3-api-new-text-to-speech-models.md",
-      "title": "OpenAI launches DALL-E 3 API, new text-to-speech models",
-      "excerpt": "In a related announcement, OpenAI launched the next version of its open source automatic speech recognition model, Whisper large-v3, which the company claims boasts improved performance across ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/11/06/openai-launches-dall-e-3-api-new-text-to-speech-models/",
-      "originalUrl": "https://techcrunch.com/2023/11/06/openai-launches-dall-e-3-api-new-text-to-speech-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-06T18:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-07-microsoft-ceo-nadella-uses-surprise-appearance-at-openai-event-to-lure-developers-to-azure-cloud.md",
-      "title": "Microsoft CEO Nadella uses surprise appearance at OpenAI event to lure developers to Azure cloud",
-      "excerpt": "At OpenAI's developer event in San Francisco, Microsoft CEO Satya Nadella told the audience that his company's cloud is the best place for them to build",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/11/06/microsoft-ceo-nadella-makes-surprise-appearance-at-openai-event.html",
-      "originalUrl": "https://www.cnbc.com/2023/11/06/microsoft-ceo-nadella-makes-surprise-appearance-at-openai-event.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107329641-1699296366156-IMG_3589.jpg?v=1699296705",
-          "width": 3209,
-          "height": 2050,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/11/06/microsoft-ceo-nadella-makes-surprise-appearance-at-openai-event.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/11/06/microsoft-ceo-nadella-makes-surprise-appearance-at-openai-event.html",
-      "publishedDateTime": "2023-11-06T18:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-06-building-for-the-future-the-enterprise-generative-ai-application-lifecycle-with-azure-ai.md",
-      "title": "Building for the future: The enterprise generative AI application lifecycle with Azure AI",
-      "excerpt": "The enterprise development process requires collaboration, diligent evaluation, risk management, and scaled deployment. By providing a robust suite of capabilities supporting these challenges, Azure AI affords a clear and efficient path to generating value in your products for your customers.\nThe post",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/blog/building-for-the-future-the-enterprise-generative-ai-application-lifecycle-with-azure-ai/",
-      "originalUrl": "https://azure.microsoft.com/en-us/blog/building-for-the-future-the-enterprise-generative-ai-application-lifecycle-with-azure-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/11/Enterprise-Lifecycle.png",
-          "width": 800,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-06T17:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

@@ -2,6 +2,179 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2023-11-01-baidu-launches-paid-version-of-chatgpt-like-ernie-bot.md",
+      "title": "Baidu launches paid version of ChatGPT-like Ernie Bot",
+      "excerpt": "BEIJING, Nov 1 (Reuters) - Chinese search engine giant Baidu launched on Wednesday a paid version of its ChatGPT-like product Ernie bot, charging 59.9 yuan ($8.18) per month. Ernie bot ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/baidu-launches-paid-version-chatgpt-like-ernie-bot-2023-11-01/",
+      "originalUrl": "https://www.reuters.com/technology/baidu-launches-paid-version-chatgpt-like-ernie-bot-2023-11-01/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/VVujUpuZJ5sZbzejiK7qIgd0vvM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7KYMFDIHQ5OGLCNPW4OK6FNDEQ.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-01T13:16:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-01-self-driving-car-service-suspends-rides-nationwide-but-will-resume-mapping-in-nc.md",
+      "title": "Self-driving car service suspends rides nationwide but will resume mapping in NC",
+      "excerpt": "The pause by General Motors’ Cruise division comes after several safety incidents. But mapping will resume in Charlotte, and Raleigh awaits next steps.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsobserver.com/news/business/article281194698.html",
+      "originalUrl": "https://www.newsobserver.com/news/business/article281194698.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-01T12:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Raleigh News & Observer",
+        "domain": "newsobserver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-01-a-gut-check-for-artificial-intelligence.md",
+      "title": "A Gut Check for Artificial Intelligence",
+      "excerpt": "Startups are applying artificial intelligence to just about everything, including the bugs in your gut.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/a-gut-check-for-artificial-intelligence-d02aa422",
+      "originalUrl": "https://www.wsj.com/articles/a-gut-check-for-artificial-intelligence-d02aa422",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-878977/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-01T11:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-11-01-artificial-brain-learns-on-the-fly-with-nanowire-networks.md",
+      "title": "Artificial brain learns on the fly with nanowire networks",
+      "excerpt": "The artificial brain is made of nanowire networks, tiny wires a billion times smaller than a meter. The cables form random patterns that look like the game ‘Pick Up Sticks,’ but they also act like the neural networks in our brains. These networks can process information in different ways.",
+      "sourceUrl": null,
+      "webUrl": "https://interestingengineering.com/innovation/artificial-brain-learns-on-the-fly-with-nanowire-networks",
+      "originalUrl": "https://interestingengineering.com/innovation/artificial-brain-learns-on-the-fly-with-nanowire-networks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-01T11:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-01-ai-safety-use-cases-how-generative-ai-is-distorting-human-sentiment.md",
       "title": "AI safety use cases - how generative AI is distorting human sentiment",
       "excerpt": "It used to be said that the big problem with AI is its ‘hallucinations’ when supporting data is absent. But it turns out that there is a bigger one: generative AI is removing human sentiment and context without us even knowing.",
@@ -826,151 +999,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-deepmind-touts-alphafolds-new-skills-as-protein-folding-ai-models-face-off.md",
-      "title": "DeepMind touts AlphaFold’s new skills as protein-folding AI models face off",
-      "excerpt": "AlphaFold can now predict what proteins look like in combination with several classes of molecules — capabilities that are key for drug development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.statnews.com/2023/10/31/protein-folding-structure-ai-deepmind-alphafold-rosettafold/",
-      "originalUrl": "https://www.statnews.com/2023/10/31/protein-folding-structure-ai-deepmind-alphafold-rosettafold/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T21:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "STAT",
-        "domain": "statnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-ali-sermet-tasdogen-unveils-innovative-ai-powered-hedge-fund-startup-arbitai.md",
-      "title": "Ali Sermet Tasdogen unveils innovative AI-Powered hedge fund startup, ArbitAI",
-      "excerpt": "Ali Sermet Tasdogen, a distinguished authority in the realm of AI and financial technology, is gearing up to revolutionize the financial markets with ArbitAI, a London-based global AI startup.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/10/ab35527212/ali-sermet-tasdogen-unveils-innovative-ai-powered-hedge-fund-startup-arbitai",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/10/ab35527212/ali-sermet-tasdogen-unveils-innovative-ai-powered-hedge-fund-startup-arbitai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T21:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-ai-needs-a-strong-code-of-ethics-to-keep-its-dark-side-from-overtaking-us.md",
-      "title": "AI Needs a Strong Code of Ethics to Keep its Dark Side From Overtaking us",
-      "excerpt": "We have done our best to build on the work already being done in industry and add to it what we know about ethics. We believe we can build a more just and caring world. A more ethically responsible tech industry and AI products and services are possible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scu.edu/ethics/leadership-ethics-blog/ai-needs-a-strong-code-of-ethics-to-keep-its-dark-side-from-overtaking-us/",
-      "originalUrl": "https://www.scu.edu/ethics/leadership-ethics-blog/ai-needs-a-strong-code-of-ethics-to-keep-its-dark-side-from-overtaking-us/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.scu.edu/media/ethics-center/all-about-ethics/artificial-intelligence-pixabay_Gerd-Altmann-360x225.jpg",
-          "width": 360,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T21:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Santa Clara University",
-        "domain": "scu.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-the-growth-of-ai-in-social-media.md",
-      "title": "The growth of AI in social media",
-      "excerpt": "The internet and social media have changed the world since the advent of websites like Facebook, Instagram and the long-gone Myspace. The era of social media has allowed for people to communicate across vast distances and maintain friendships in a way that was not possible just 20 years ago.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thenorthernlight.org/stories/the-growth-of-ai-in-social-media",
-      "originalUrl": "https://www.thenorthernlight.org/stories/the-growth-of-ai-in-social-media",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T21:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Northern Light",
-        "domain": "thenorthernlight.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

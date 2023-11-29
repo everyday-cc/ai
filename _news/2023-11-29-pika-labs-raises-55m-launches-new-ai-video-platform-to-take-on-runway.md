@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/pika-labs-raises-55m-launches-new-ai-vi
 webUrl: "https://venturebeat.com/ai/pika-labs-raises-55m-launches-new-ai-video-platform-to-take-on-runway/"
 type: article
 quality: 67
-heat: 77
+heat: 78
 published: true
 
 provider:
@@ -38,6 +38,6 @@ related:
       domain: techcrunch.com
     quality: 43
 
-secured: "QeffJNjNRw6zC69ZCKZ/nOllI1pTVEmKqVCLrqzCRQBFf6A3+jAD5pneJW2S+ZkB3ILiIWlUfoV/KiCXhpMKaL3oRjoMAc+6g8g+9d4OXPleCh4O9BFHhaRZsn+xgGLAGoADZsO2j39D9J8rBChlM9kRcQwG+/h5OXBqMzDurKAGs/SRJizE++MqTuhhA8dMd41xcY9puhjhBdDBZyg/1O53o/eyxhkO20C03BM10sLY0CRMhI3x6IUtaD626lvAHOEivfs2D2p0WlrTnlmp9bzMW4MgnU4/ykVFirkphPkOv9jCJnEv5YH7oU8ndITO8pFFOdn62D5W0tjr5vNZ2jjy4toMwLJ83CDENNS8/Ss=;yKQpQVhZVZUWR+KJPwuHiQ=="
+secured: "d8llcjsQw5D7T6lWnGZtcZHsDKET2Nk4RvPul0LltuJzQ4/m/WcEe1Ta1vVTCNyr3c6JeIcdW00t0ksOn+9VBBtXfEk7nQNds4C8EY5KtaUyeXMxYnDg2Nybt4ZomSYt8QAaEBwe4aLXpVs+HtdYo5oJ2IAOKteq/uy16d/VbcGc40bAl9RsmU6Kx/8wgA2Pw4p3JLuyZlOdOYn462cq++lBiFasPK2DXDdQOSdf/vyZk8vE9DCw/rXtfAh+uLCJJZsopyfx6FTcSaADKnOehTRW3G9EbXcjDJIT74j3uyF2axkDBlqt8XPMuU7SghOUm274mdM/eWe+YtM/Cbox0MpwbqovHXvm2etrMcwXhhthKmoI0rost6SIUILbb1nv29phmGw5iLV0KHMsZWFzdPGI07s5h4dZ4mr1eBty2A00pBmC4RJCaRqCpLqJAofN19lm++tFAisqSntVoUee/xeqh7PrfqjtEkvML3WFkyAJ4sEso32n449gkqIpp0AMHMxO3bXtVFPkUuoyYiQnzw==;uqCx60kzgAGYD+7h4Ki0Nw=="
 ---
 

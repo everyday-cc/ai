@@ -1,22 +1,28 @@
 ---
 category: news
 title: "AWS Announces Amazon Q to Reimagine the Future of Work"
-excerpt: "Amazon Q builds on AWS's history of taking complex, expensive technologies and making them accessible to customers of all sizes and technical abilities, with a data-first approach and enterprise-grade security and privacy built-in from the start."
-publishedDateTime: 2023-11-28T18:38:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/11/28/9924564.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/11/28/9924564.htm"
+excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced Amazon Q, a new type of generative artificial intelligence-(AI) powered assistant that is specifically for work and can be tailored to a customer’s business."
+publishedDateTime: 2023-11-28T17:20:00Z
+originalUrl: "https://www.valdostadailytimes.com/ap/business/aws-announces-amazon-q-to-reimagine-the-future-of-work/article_9994ed9a-9101-564f-b8ef-aacc9016bc3b.html"
+webUrl: "https://www.valdostadailytimes.com/ap/business/aws-announces-amazon-q-to-reimagine-the-future-of-work/article_9994ed9a-9101-564f-b8ef-aacc9016bc3b.html"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: The Valdosta Daily Times
+  domain: valdostadailytimes.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "AWS Announces the General Availability of Amazon S3 Express One Zone"
@@ -89,6 +95,6 @@ related:
       domain: businesswire.com
     quality: 19
 
-secured: "L/qwILTbQQHLhj+vafKIAq4bdCSAN12mmYao6qbrEuCy+SgGQRliHwAUUDGb0hIPkOCU81Fb09Br5zPWSeDizVjqtgNr5R2U5sUVV18UsZmBXHrgaZnXPaRSf/yAPDgdHsHpr/0jg1ZiTHfXEpAZIC7SK4rFTmnsyLkkrmaoXrtK5pGyjUMGiH4lcIDEWgKCGkEtbijvQh6vmL/+/exzpzrcgGhpgHyJ+CQZTnYuxkrvRmTWhBi+svGeQQHnSZOcFfoJG33SeetYH6LELEb4Hh5vS5WjdKoO3HjK25pC6UAucZNrHTQ5FBE9uK9cA2to90Z7EmACWPGyfKo24J/bDKAx30zNx4UgJW2odbVHSKI=;IaLcVV6z98uDDeqvjMnPeg=="
+secured: "X+2xnv6bZLS4fjDln7wekq9vEYpyYAYN2PZUOEEk2bY6Gtv0qDCtTBbihv4yBI9TrNHCQRosaWQ+tfSXdJdEsvcjjjnkPUVF6JW8ibYFEN7AfNLYgK7lcGSPMWNZ5cyXGisrgAdYxS/XIzO7tNaUpcWQ7z58m4fOAtlNvep1Jg67L/l2kCerfBsNoThEpv70i4E4/86I7bdU4hjVpaawqLCb5PfD7lQyA4Wo0h5KOxerxI0jqlLSPo5Dh2figwzUN/cLUM+MbtDtyw5dD5ygVGhPCQbdVqd+v6CYHKiaCdkcAxuDEUfSrflWEjYUUZD+tIdVQKKaVsfwY7OuV+mxExmhl6iQsLLm7dovfzmewE4=;WUfK3597CgT9klv58qFTpQ=="
 ---
 

@@ -67,20 +67,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "ChatGPT’s Voice Feature Now Available To All Users For Free"
-    excerpt: "Capping off a whole week of Succession-level corporate drama, OpenAi is rolling out a new ChatGPT feature to its free"
-    publishedDateTime: 2023-11-24T04:00:00Z
-    webUrl: "https://www.lowyat.net/2023/311539/chatgpt-voice-free/"
-    type: article
-    provider:
-      name: Lowyat.net
-      domain: lowyat.net
-    quality: 39
-    images:
-      - url: "https://www.lowyat.net/wp-content/uploads/2023/11/chatgpt-voice-1.jpg"
-        width: 1400
-        height: 1050
-        isCached: true
   - title: "Writing instructors are less afraid of students cheating with ChatGPT than you might think"
     excerpt: "While some educators do worry about students cheating, they also have another fear in common: AI’s potential to take over human jobs. And as far as teaching, many educators also see the bright side. They say they actually enjoy using the revolutionary technology to enhance what they do."
     publishedDateTime: 2023-11-28T19:04:00Z

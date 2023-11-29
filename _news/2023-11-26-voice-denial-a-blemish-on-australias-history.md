@@ -7,7 +7,7 @@ originalUrl: "https://www.bignewsnetwork.com/news/274043854/voice-denial-a-blemi
 webUrl: "https://www.bignewsnetwork.com/news/274043854/voice-denial-a-blemish-on-australias-history"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Voice denial a blemish on Australia's history"
-    excerpt: "Denying Indigenous Australians a Voice to Parliament has exposed an absence of compassion that has set our nation backwards in time."
-    publishedDateTime: 2023-11-24T05:00:00Z
-    webUrl: "https://independentaustralia.net/politics/politics-display/voice-denial-a-blemish-on-australias-history,18109"
-    type: article
-    provider:
-      name: independentaustralia.net
-      domain: independentaustralia.net
-    quality: 24
-    images:
-      - url: "https://independentaustralia.net/_lib/slir/w800/i/article/img/article-18109-hero.jpg"
-        width: 650
-        height: 433
-        isCached: true
   - title: "ANU study of 4200 Australians finds voters rejected voice model, not constitutional recognition"
     excerpt: "The “largest and most comprehensive survey” on the Indigenous voice to parliament has found the model put by the Albanese government was a key reason the referendum failed amid widespread support for a broader definition of constitutional recognition."
     publishedDateTime: 2023-11-27T11:05:00Z

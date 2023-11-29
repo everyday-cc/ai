@@ -49,6 +49,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Kyndryl Collaborates with AWS for Advanced Generative AI and Machine Learning Initiatives"
+    excerpt: "Kyndryl has announced a multi-year Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS), focused on"
+    publishedDateTime: 2023-11-29T02:51:00Z
+    webUrl: "https://www.datanami.com/this-just-in/kyndryl-collaborates-with-aws-for-advanced-generative-ai-and-machine-learning-initiatives/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 62
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/03/kyndryl-logo-300x300.png"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Clarity AI and AWS Advance Sustainable Investing at Scale"
     excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Clarity AI, a leading technology c"
     publishedDateTime: 2023-11-27T05:01:00Z

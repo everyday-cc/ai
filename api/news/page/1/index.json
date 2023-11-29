@@ -2,6 +2,93 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-11-29-aws-ceo-bats-for-responsible-ai-says-need-to-unlock-genais-full-potential-while-mitigating-risks.md",
+      "title": "AWS CEO bats for responsible AI; says need to unlock GenAI's full potential while mitigating risks",
+      "excerpt": "Now this is a new capability that helps you customers easily safeguard your Generative AI applications with your responsible AI policies, to create a guardrail..., he said.With this, customers can create multiple guardrails tailored to different use cases and apply them across multiple FMs,",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/technology/2728029-aws-ceo-bats-for-responsible-ai-says-need-to-unlock-genais-full-potential-while-mitigating-risks",
+      "originalUrl": "https://www.devdiscourse.com/article/technology/2728029-aws-ceo-bats-for-responsible-ai-says-need-to-unlock-genais-full-potential-while-mitigating-risks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/29_11_2023_10_07_19_2982597.jpg?width=1280",
+          "width": 1280,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.devdiscourse.com/article/technology/2728029-aws-ceo-bats-for-responsible-ai-says-need-to-unlock-genais-full-potential-while-mitigating-risks?amp",
+      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2728029-aws-ceo-bats-for-responsible-ai-says-need-to-unlock-genais-full-potential-while-mitigating-risks?amp",
+      "publishedDateTime": "2023-11-29T04:37:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-29-aws-powers-krungsris-transformation-into-an-ai-driven-bank.md",
+      "title": "AWS Powers Krungsri’s Transformation Into an AI-Driven Bank",
+      "excerpt": "Bank of Ayudhya Public Company Limited, commonly known as Krungsri Bank, has selected AWS to power its digital transformation efforts.",
+      "sourceUrl": null,
+      "webUrl": "https://fintechnews.sg/81291/thailand/aws-powers-krungsris-transformation-into-an-ai-driven-bank/",
+      "originalUrl": "https://fintechnews.sg/81291/thailand/aws-powers-krungsris-transformation-into-an-ai-driven-bank/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fintechnews.sg/wp-content/uploads/2023/11/AWS-to-Power-Krungsris-Digital-Transformation-Into-an-AI-Driven-Bank.jpg",
+          "width": 1024,
+          "height": 567,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-29T02:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fintech Singapore",
+        "domain": "fintechnews.sg",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-29-could-ai-chatbots-be-our-future-therapists-a-psychologist-weighs-in.md",
       "title": "Could AI Chatbots Be Our Future Therapists? A Psychologist Weighs In",
       "excerpt": "Discover the power of AI in therapy, and how digital approaches could break accessibility constraints in mental healthcare.",
@@ -61,7 +148,7 @@
       "originalUrl": "https://venturebeat.com/ai/pika-labs-raises-55m-launches-new-ai-video-platform-to-take-on-runway/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -104,6 +191,48 @@
       ]
     },
     {
+      "path": "_news/2023-11-29-how-are-local-colleges-handling-students-use-of-artificial-intelligence.md",
+      "title": "How are local colleges handling students' use of artificial intelligence?",
+      "excerpt": "BOSTON - There are a lot of myths, predictions, and half-truths about artificial intelligence: it's coming for your job. It's too risky. Generative AI, harnessed through programs like ChatGPT, is a popular technology that can be used to create new content ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/boston/news/colleges-ai-artificial-intelligence-student-policy-question-everything/",
+      "originalUrl": "https://www.cbsnews.com/boston/news/colleges-ai-artificial-intelligence-student-policy-question-everything/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/08/15/7b544a11-e02c-452c-8747-125a1d777d82/thumbnail/1200x630/c263c2762996494805c384964e845ad1/gettyimages-658984267.jpg?v=d785468072c93affb6a366f2958aca39",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/boston/news/colleges-ai-artificial-intelligence-student-policy-question-everything/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/boston/news/colleges-ai-artificial-intelligence-student-policy-question-everything/",
+      "publishedDateTime": "2023-11-28T23:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-29-aws-widens-data-pipelines-creates-gen-ai-assistant.md",
       "title": "AWS Widens Data Pipelines + Creates Gen-AI Assistant",
       "excerpt": "Because data exists in so varied a set of structures and forms that we can do much with it - but, that means we need ways to connect all our data.",
@@ -112,7 +241,7 @@
       "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/11/28/aws-widens-data-pipelines--creates-gen-ai-assistant/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -266,7 +395,7 @@
       "originalUrl": "https://www.techrepublic.com/article/aws-re-invent-2023-keynote/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 201,
+      "heat": 191,
       "tags": null,
       "images": [
         {
@@ -319,7 +448,7 @@
       "originalUrl": "https://visualstudiomagazine.com/articles/2023/11/28/ml-net-3-0.aspx",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -407,7 +536,7 @@
       "originalUrl": "https://www.forbes.com/sites/delltechnologies/2023/11/28/ai-and-environmental-sustainability--a-symbiotic-relationship/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1075,146 +1204,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-28-ai-powered-amazon-transcribe-service-now-offers-better-accuracy-to-indian-languages.md",
-      "title": "AI-powered Amazon Transcribe service now offers better accuracy to Indian languages",
-      "excerpt": "Amazon's AI-powered Transcribe service now supports over 100 languages, including Indian languages. The service utilises a next-generation multi-billi",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/ai-powered-amazon-transcribe-service-now-offers-better-accuracy-to-indian-languages/articleshow/105565532.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/ai-powered-amazon-transcribe-service-now-offers-better-accuracy-to-indian-languages/articleshow/105565532.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-105565470,width-1280,height-720,resizemode-4/105565470.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/ai-powered-amazon-transcribe-service-now-offers-better-accuracy-to-indian-languages/amp_articleshow/105565532.cms",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/ai-powered-amazon-transcribe-service-now-offers-better-accuracy-to-indian-languages/amp_articleshow/105565532.cms",
-      "publishedDateTime": "2023-11-28T12:13:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-28-aws-announces-the-general-availability-of-amazon-s3-express-one-zone.md",
-      "title": "AWS Announces the General Availability of Amazon S3 Express One Zone",
-      "excerpt": "Amazon S3 Express One Zone supports Amazon S3 features, including Mountpoint for Amazon S3, Amazon S3 Server-Side Encryption, and Amazon S3 Block Public Access, as well as AWS services, such as Amazon EMR, Amazon Redshift, Amazon SageMaker, and Amazon Bedrock.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/11/b35983293/aws-announces-the-general-availability-of-amazon-s3-express-one-zone",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/11/b35983293/aws-announces-the-general-availability-of-amazon-s3-express-one-zone",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/35983293",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35983293",
-      "publishedDateTime": "2023-11-28T11:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-28-aws-unveils-new-trainium-ai-chip-and-graviton-4-extends-nvidia-partnership.md",
-      "title": "AWS unveils new Trainium AI chip and Graviton 4, extends Nvidia partnership",
-      "excerpt": "In addition to the two new chips, Amazon said it extended its strategic partnership with AI chip giant Nvidia. AWS will be the first cloud service to run the forthcoming GH200 Grace Hopper multi-chip product from Nvidia, which combines the Grace ARM-based CPU and the Hopper H100 GPU chip.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/aws-unveils-new-trainium-ai-chip-and-graviton-4-extends-nvidia-partnership/",
-      "originalUrl": "https://www.zdnet.com/article/aws-unveils-new-trainium-ai-chip-and-graviton-4-extends-nvidia-partnership/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 289,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/fly/bundles/zdnetcore/images/logos/zdnet-logo-yellow.png",
-          "width": 480,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aws-unveils-new-trainium-ai-chip-and-graviton-4-extends-nvidia-partnership/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-unveils-new-trainium-ai-chip-and-graviton-4-extends-nvidia-partnership/",
-      "publishedDateTime": "2023-11-28T10:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

@@ -54,20 +54,6 @@ related:
         width: 1200
         height: 550
         isCached: true
-  - title: "ChatGPT’s Voice Feature Now Available To All Users For Free"
-    excerpt: "Capping off a whole week of Succession-level corporate drama, OpenAi is rolling out a new ChatGPT feature to its free"
-    publishedDateTime: 2023-11-24T04:00:00Z
-    webUrl: "https://www.lowyat.net/2023/311539/chatgpt-voice-free/"
-    type: article
-    provider:
-      name: Lowyat.net
-      domain: lowyat.net
-    quality: 39
-    images:
-      - url: "https://www.lowyat.net/wp-content/uploads/2023/11/chatgpt-voice-1.jpg"
-        width: 1400
-        height: 1050
-        isCached: true
   - title: "ChatGPTFails a Moral Choice Problem"
     excerpt: "His blog Nextbigfuture.com is ranked #1 Science News Blog. It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge ..."
     publishedDateTime: 2023-11-25T23:16:00Z

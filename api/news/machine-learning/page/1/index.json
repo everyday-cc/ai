@@ -10,7 +10,7 @@
       "originalUrl": "https://visualstudiomagazine.com/articles/2023/11/28/ml-net-3-0.aspx",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -1081,6 +1081,40 @@
       ]
     },
     {
+      "path": "_news/2023-11-15-wimi-integrated-deep-learning-algorithm-into-multi-depth-hologram-generation.md",
+      "title": "WiMi Integrated Deep Learning Algorithm into Multi-Depth Hologram Generation",
+      "excerpt": "The multi-depth hologram is a kind of 3D image generated using deep learning technology, which can provide a more realistic and three-dimensional display effect. Traditional holograms can only ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/wimi-integrated-deep-learning-algorithm-into-multi-depth-hologram-generation-2023-11",
+      "originalUrl": "https://www.nasdaq.com/press-release/wimi-integrated-deep-learning-algorithm-into-multi-depth-hologram-generation-2023-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-15T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-15-use-of-a-neural-network-to-measure-the-impact-of-social-distribution-and-access-to-infrastructure-on-the-hdi-of-the-municipalities-of-mexico.md",
       "title": "Use of a Neural Network to Measure the Impact of Social Distribution and Access to Infrastructure on the HDI of the Municipalities of Mexico ()",
       "excerpt": "López, F. and Ramírez, R. (2023) Use of a Neural Network to Measure the Impact of Social Distribution and Access to Infrastructure on the HDI of the Municipalities of Mexico. Journal of Data Analysis and Information Processing, 11, 454-462. doi: 10.4236/jdaip.2023.114023 .",
@@ -1270,40 +1304,6 @@
         "AI",
         "Machine Learning",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-11-15-machine-learning-helps-air-pollution-researchers-trace-sources-contributing-to-ozone.md",
-      "title": "Machine learning helps air pollution researchers trace sources contributing to ozone",
-      "excerpt": "Vehicles exit the Lynchburg Ferry along Independence Parkway on Thursday, April 14, 2022, in Baytown. Researchers used a nearby air monitor to collect data for a recently-published study that used machine learning to pinpoint air polluters contributing to ozone formation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.houstonchronicle.com/business/energy/article/houston-ozone-pollution-machine-learning-study-18488021.php",
-      "originalUrl": "https://www.houstonchronicle.com/business/energy/article/houston-ozone-pollution-machine-learning-study-18488021.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T20:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "houstonchronicle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

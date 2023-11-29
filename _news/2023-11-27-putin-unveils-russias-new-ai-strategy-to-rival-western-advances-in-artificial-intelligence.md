@@ -2,11 +2,11 @@
 category: news
 title: "Putin unveils Russia’s new AI strategy to rival Western advances in artificial intelligence"
 excerpt: "Vladimir Putin has unveiled what he calls Russia ’s new strategy to counter Western dominance of the field of artifical intelligence, claiming that new AI models “cancel Russian culture”. The president addressed an AI conference in Moscow on Friday where he said Russian investment in AI development was being increased across all sectors."
-publishedDateTime: 2023-11-27T09:33:00Z
-originalUrl: "https://www.aol.com/news/putin-unveils-russia-ai-strategy-073334840.html"
-webUrl: "https://www.aol.com/news/putin-unveils-russia-ai-strategy-073334840.html"
+publishedDateTime: 2023-11-27T10:15:00Z
+originalUrl: "https://www.aol.com/putin-unveils-russia-ai-strategy-081421759.html"
+webUrl: "https://www.aol.com/putin-unveils-russia-ai-strategy-081421759.html"
 type: article
-quality: 42
+quality: 44
 heat: -1
 published: false
 
@@ -15,10 +15,11 @@ provider:
   domain: aol.com
 
 topics:
+  - Meta AI
   - AI
 
 images:
-  - url: "https://media.zenfs.com/en/aol_the_independent_uk_548/f9504bc9c278574e2c51fcc40380bf32"
+  - url: "https://media.zenfs.com/en/aol_the_independent_us_877/f9504bc9c278574e2c51fcc40380bf32"
     width: 1200
     height: 741
     isCached: true
@@ -90,6 +91,6 @@ related:
       domain: businesswire.com
     quality: 5
 
-secured: "+Y/1hz+NvysV0r5YAXRO6gtwYk+LXa+NjbjgYmHxVAtmoyLL1WX/f6RsCam/XtkKTslE2slPaaTmq43Pq8D4+/Yh8sGLRxGloIoe9FQIlJuGaO5Tgr/IVGX/VEzijZN99lfAQp+6kc0k9aAjctEQEhf4iPyPCqTnMHhX4oF37J9ew+qmkl3BIBV/MiaaByX0Wel+l6eCYajMQqQx2gtT4w3FPEykZx2/+6uokU+U4xiz/j7Y/2W8W759ih0i9N11Dik8Am9xaMNI6uQw+kf/JwiK6sNgqn2hGx2lfZSWx5TKB4U6EIv3SRai9Nw/UUwmtEssunqBGJMQk62IHCdRm6j8oet88angD83gV8/BQpM=;kPjvjUbPR9Al02B0o9/7Ng=="
+secured: "gvCN7I9AQ3DuOmkdHAQ458XqUOE58TJpo403NZJdVeSPWKstEmrGczn5aK6YV5dob6pmuXCIm/aNpiNjo60n3Rn662jwSPoJnG7OmRnU3shXxEH9mTBVdq+cUM7xRUJSA0CMM4gmv0B6JDaw+hS2LG26/lxUjkpYjLE+8cAuEeuNZzO5wm52QiorfqDMcaEuRMQf4jZYvAL/nvmy44HahkDpFe5BIYp57ih94ywqrOAFjbvl7QCdpe31M4v3qYQiCkyx+PqKlWa9mDV1m6YREQ2QtAK7TPWs8xwH2FxB6GRGAKed3LYlHvBU0FTVxzyfX2nAmA2GRJk+Fl0JD4x1Mh0OjFLapyXbgarvCpWA23o=;N7Et+sKQd2iV4w7a8Xz0BA=="
 ---
 

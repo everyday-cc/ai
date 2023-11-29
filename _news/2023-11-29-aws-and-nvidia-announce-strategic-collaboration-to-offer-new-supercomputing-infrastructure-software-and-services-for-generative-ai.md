@@ -36,15 +36,15 @@ related:
         isCached: true
   - title: "Putin unveils Russia’s new AI strategy to rival Western advances in artificial intelligence"
     excerpt: "Vladimir Putin has unveiled what he calls Russia ’s new strategy to counter Western dominance of the field of artifical intelligence, claiming that new AI models “cancel Russian culture”. The president addressed an AI conference in Moscow on Friday where he said Russian investment in AI development was being increased across all sectors."
-    publishedDateTime: 2023-11-27T09:33:00Z
-    webUrl: "https://www.aol.com/news/putin-unveils-russia-ai-strategy-073334840.html"
+    publishedDateTime: 2023-11-27T10:15:00Z
+    webUrl: "https://www.aol.com/putin-unveils-russia-ai-strategy-081421759.html"
     type: article
     provider:
       name: AOL
       domain: aol.com
-    quality: 42
+    quality: 44
     images:
-      - url: "https://media.zenfs.com/en/aol_the_independent_uk_548/f9504bc9c278574e2c51fcc40380bf32"
+      - url: "https://media.zenfs.com/en/aol_the_independent_us_877/f9504bc9c278574e2c51fcc40380bf32"
         width: 1200
         height: 741
         isCached: true

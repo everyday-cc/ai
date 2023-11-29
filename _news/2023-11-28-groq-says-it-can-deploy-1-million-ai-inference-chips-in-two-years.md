@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextplatform.com/2023/11/27/groq-says-it-can-deploy-1-mi
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/11/27/groq-says-it-can-deploy-1-million-ai-inference-chips-in-two-years/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

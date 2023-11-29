@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/delltechnologies/2023/11/28/ai-and-envi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/delltechnologies/2023/11/28/ai-and-environmental-sustainability--a-symbiotic-relationship/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

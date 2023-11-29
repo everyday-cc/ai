@@ -71,6 +71,20 @@ related:
         width: 753
         height: 408
         isCached: true
+  - title: "AWS Announces Amazon Q to Reimagine the Future of Work"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced Amazon Q, a new type of generative artificial intelligence-(AI) powered assistant that is specifically for work and can be tailored to a customer’s business."
+    publishedDateTime: 2023-11-28T17:20:00Z
+    webUrl: "https://www.valdostadailytimes.com/ap/business/aws-announces-amazon-q-to-reimagine-the-future-of-work/article_9994ed9a-9101-564f-b8ef-aacc9016bc3b.html"
+    type: article
+    provider:
+      name: The Valdosta Daily Times
+      domain: valdostadailytimes.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
   - title: "AWS Introduces Amazon One Enterprise"
     excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced Amazon One Enterprise, a palm-based ide"
     publishedDateTime: 2023-11-28T04:52:00Z
@@ -79,15 +93,6 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 19
-  - title: "AWS Announces Amazon Q to Reimagine the Future of Work"
-    excerpt: "Amazon Q builds on AWS's history of taking complex, expensive technologies and making them accessible to customers of all sizes and technical abilities, with a data-first approach and enterprise-grade security and privacy built-in from the start."
-    publishedDateTime: 2023-11-28T18:38:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/11/28/9924564.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
     quality: 19
 
 secured: "wT8KJGH7sxNGnIGoRYz7vnAUvsp07WE9wDiKE8cbyl120I0vY19HUnVfZX8Y0WkrKAvjZSxdkoiTD6Voc7mF17oD1tI1Kr0lX4QUZ1phvvwA63OAjc4UKdDqSjIahS+KsGTiwYDYFXoBCAcIQ0NH1WOjPH5CxtdftQmarTu0wyfa6e4J8vgMv1KyTr0z+X3SgA23JCmVkZxBiDP3gos063DZXb1M0DrH7uHMAYVbZHojEnTAfrVK0Cei0g3Zex5jQd5aRX80S5kGgiyDPdn7CoUFpUSX9wtHklf6mv7yusnGxKBacQvy3YlC+y+qAAB0BkxiYXmuEXWdW+e7s23mJyzVaUA4Z1KOjPsyg+8PZoE=;fuhcodO+79PrL1LzboEUrA=="

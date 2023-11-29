@@ -80,14 +80,19 @@ related:
         height: 408
         isCached: true
   - title: "AWS Announces Amazon Q to Reimagine the Future of Work"
-    excerpt: "Amazon Q builds on AWS's history of taking complex, expensive technologies and making them accessible to customers of all sizes and technical abilities, with a data-first approach and enterprise-grade security and privacy built-in from the start."
-    publishedDateTime: 2023-11-28T18:38:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/11/28/9924564.htm"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced Amazon Q, a new type of generative artificial intelligence-(AI) powered assistant that is specifically for work and can be tailored to a customer’s business."
+    publishedDateTime: 2023-11-28T17:20:00Z
+    webUrl: "https://www.valdostadailytimes.com/ap/business/aws-announces-amazon-q-to-reimagine-the-future-of-work/article_9994ed9a-9101-564f-b8ef-aacc9016bc3b.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
+      name: The Valdosta Daily Times
+      domain: valdostadailytimes.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "XoRjuaLcFjEqTX856u/JrW93XnLO5cb6WHaTn3tZWwTonmeSZYo8onbP1Z4gH8UjxHbggvFX/jm2b6vKRvx670fw4a6Radek4p46BwTX2ApENf8Q58DBqnxGMvnmroUw4cT/ZJMe74S3PQg9pX6n9oBH7xGvW7WgbBcQ6EfaeWaMlFRM17b6PE9NmuMLQsh9LgKRWtOLbvdKiJjXaDiVkuK1YdvwtPLCsOaQymRxwJGEW200Oo4Cb0N5bZCjkCYiUqWZWG/w4OYajUBjz4Qj7ITY0JmI0zUPfmdP6/1A5UNCIiWE4IPx9KjS8BEstb60SMmtjoiJ8wGevReh0w+XyxmMvtyCTW2mG1N7KJiz5C0HRGI29TKzp4OOtbSEq3o5lkZnEfTut/Ucq60hU+HN1XIpr7bfes3Z7twDDTukmfQtd5qkpREfUjsTjrmib27jGaeSKH7Bn5cF36so1riJyaC16vR2+y0R0d2GS+keiZhwVfz6O/e4UzR+tVpWjZKnkQU5Nj5ntDj+Lzac6Och9Q==;zYV4DuyX/8nWSefc0RQ9dQ=="
 ---

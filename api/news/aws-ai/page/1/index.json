@@ -2,6 +2,93 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-11-29-aws-ceo-bats-for-responsible-ai-says-need-to-unlock-genais-full-potential-while-mitigating-risks.md",
+      "title": "AWS CEO bats for responsible AI; says need to unlock GenAI's full potential while mitigating risks",
+      "excerpt": "Now this is a new capability that helps you customers easily safeguard your Generative AI applications with your responsible AI policies, to create a guardrail..., he said.With this, customers can create multiple guardrails tailored to different use cases and apply them across multiple FMs,",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/technology/2728029-aws-ceo-bats-for-responsible-ai-says-need-to-unlock-genais-full-potential-while-mitigating-risks",
+      "originalUrl": "https://www.devdiscourse.com/article/technology/2728029-aws-ceo-bats-for-responsible-ai-says-need-to-unlock-genais-full-potential-while-mitigating-risks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/29_11_2023_10_07_19_2982597.jpg?width=1280",
+          "width": 1280,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.devdiscourse.com/article/technology/2728029-aws-ceo-bats-for-responsible-ai-says-need-to-unlock-genais-full-potential-while-mitigating-risks?amp",
+      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2728029-aws-ceo-bats-for-responsible-ai-says-need-to-unlock-genais-full-potential-while-mitigating-risks?amp",
+      "publishedDateTime": "2023-11-29T04:37:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-29-aws-powers-krungsris-transformation-into-an-ai-driven-bank.md",
+      "title": "AWS Powers Krungsri’s Transformation Into an AI-Driven Bank",
+      "excerpt": "Bank of Ayudhya Public Company Limited, commonly known as Krungsri Bank, has selected AWS to power its digital transformation efforts.",
+      "sourceUrl": null,
+      "webUrl": "https://fintechnews.sg/81291/thailand/aws-powers-krungsris-transformation-into-an-ai-driven-bank/",
+      "originalUrl": "https://fintechnews.sg/81291/thailand/aws-powers-krungsris-transformation-into-an-ai-driven-bank/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fintechnews.sg/wp-content/uploads/2023/11/AWS-to-Power-Krungsris-Digital-Transformation-Into-an-AI-Driven-Bank.jpg",
+          "width": 1024,
+          "height": 567,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-29T02:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fintech Singapore",
+        "domain": "fintechnews.sg",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-29-aws-widens-data-pipelines-creates-gen-ai-assistant.md",
       "title": "AWS Widens Data Pipelines + Creates Gen-AI Assistant",
       "excerpt": "Because data exists in so varied a set of structures and forms that we can do much with it - but, that means we need ways to connect all our data.",
@@ -10,7 +97,7 @@
       "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/11/28/aws-widens-data-pipelines--creates-gen-ai-assistant/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -62,7 +149,7 @@
       "originalUrl": "https://www.techrepublic.com/article/aws-re-invent-2023-keynote/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 201,
+      "heat": 191,
       "tags": null,
       "images": [
         {
@@ -297,7 +384,7 @@
       "originalUrl": "https://www.zdnet.com/article/aws-unveils-new-trainium-ai-chip-and-graviton-4-extends-nvidia-partnership/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 289,
+      "heat": 309,
       "tags": null,
       "images": [
         {
@@ -637,7 +724,7 @@
       "originalUrl": "https://enterprisetalk.com/quick-bytes/clarity-ai-and-aws-advance-their-sustainable-investing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -1333,95 +1420,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-22-aws-to-offer-free-ai-training-courses-to-two-million-people-by-2025.md",
-      "title": "AWS to offer free AI training courses to two million people by 2025",
-      "excerpt": "Amazon Web Services (AWS) has outlined its commitment to providing two million people around the world with access to free artificial intelligence (AI) skills training by 2025, as part of its ongoing work to make it easier for businesses to access the tech expertise they need.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/news/366560676/AWS-to-offer-free-AI-training-to-two-million-people-by-2025",
-      "originalUrl": "https://www.computerweekly.com/news/366560676/AWS-to-offer-free-AI-training-to-two-million-people-by-2025",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-211123-cover-500px.jpg",
-          "width": 500,
-          "height": 354,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-22T09:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-22-cloud-artificial-intelligence-ai-solutions-market-size-trend-and-forecast-to-2031.md",
-      "title": "Cloud Artificial Intelligence (AI) Solutions Market Size, Trend And Forecast To 2031",
-      "excerpt": "Cloud Artificial Intelligence (AI) Solutions Market By Technology (Deep ... The availability of cloud infrastructure and platforms from key providers such as Amazon Web Services (AWS), Microsoft Azure, and Google Cloud has contributed significantly to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/11/ab35908820/cloud-artificial-intelligence-ai-solutions-market-size-trend-and-forecast-to-2031",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/11/ab35908820/cloud-artificial-intelligence-ai-solutions-market-size-trend-and-forecast-to-2031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/35908820",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35908820",
-      "publishedDateTime": "2023-11-21T18:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI",
-        "Natural Language Processing",
-        "AI in Healthcare"
       ]
     }
   ],

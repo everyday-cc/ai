@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "ChatGPT’s Voice Feature Now Available To All Users For Free"
-    excerpt: "Capping off a whole week of Succession-level corporate drama, OpenAi is rolling out a new ChatGPT feature to its free"
-    publishedDateTime: 2023-11-24T04:00:00Z
-    webUrl: "https://www.lowyat.net/2023/311539/chatgpt-voice-free/"
-    type: article
-    provider:
-      name: Lowyat.net
-      domain: lowyat.net
-    quality: 39
-    images:
-      - url: "https://www.lowyat.net/wp-content/uploads/2023/11/chatgpt-voice-1.jpg"
-        width: 1400
-        height: 1050
-        isCached: true
   - title: "ChatGPTFails a Moral Choice Problem"
     excerpt: "His blog Nextbigfuture.com is ranked #1 Science News Blog. It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge ..."
     publishedDateTime: 2023-11-25T23:16:00Z
@@ -113,6 +99,6 @@ related:
       domain: inferse.com
     quality: 16
 
-secured: "S1QKP7AcbAzjktoVuHGJcZvBdOAGxzD/VkXxO7C3G7mPT3r57fkhNkdWpi/5/EOF1m2mPNIS03fyUJ2gBtYi0mcgqj2zrcUfL7MVOF7R77OV4G4jODpqyHPVfdCjhpDFD01paHBICaKQMwOA09lBuqwOxiezqEZWa1qsyPgxRgoWpnk0STmSGwRO/hr6DSLfxsohM+GL9Q6lqK3QOEuJ+/rieCH+dNdnM7vofUV3t0PLJObhAMwcLVSx/RpR26wrrNuq2MqnbHRb42obN61PPSNrM7ybgcRBuBt9bu8qH2LQcr1eNPYYAY+wpLQJH0Sm5H0v/sBz01mLIJtJa1lFGVwfNUC5C0O2eQU0SpMJQ/k=;HnDkF2q/YGXUMnRZ01MxBg=="
+secured: "gAWTW0Q8430QOYH6DfLec5nGvPKEmI+WKqCuzEfc0yHC+sdJf/UzLPtj5c90aeusqyCp0xrqP7s/1AA1BdZau0dQE2l4fU3Db4R1NCGdG29yTtR4yMnN/8C7VIWhQabVwRFtHONS6Es7q9Eaytn3KgEZgfATpEu0xZjBYz0XuM7A1T3KnLTpFUNaFtNf56TltK7iIueN1ImwVtWTHG8zGp4zpwsxvbbSb/g9nufM9Qbjx6gwAhGE2ELJ0LxYAdMIT3/+yrRIQ932GiKLQFj43r/FqDW1/xXYMJKC9LdGfVWN13I4UN4M68vQ/TIkois272ywW+/6f/01Po9gCI5DYr0FKFwU6QzB9RVUs4UNvH8ugYr5WcRI3Rk1OTlvAmXeLwbnbF5QCcWHHS6qQ0iZoWrvkU9Xt5UrnE65R10YHF1k4l2SKDppaDE03+wN8TkqAmhx3WJ+qUC+l3zXzzrXxNycuj5Qvx0bWyyuo8iTye7CRaW3u2f4brsl27aJTS/aFQ1g8mUJW4TTZ9KMUhKAlw==;+0V5h9i6uM/HqfNnT5BN9w=="
 ---
 

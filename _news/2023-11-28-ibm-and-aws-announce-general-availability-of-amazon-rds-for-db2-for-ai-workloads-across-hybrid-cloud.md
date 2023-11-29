@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AWS Announces Amazon Q to Reimagine the Future of Work"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced Amazon Q, a new type of generative artificial intelligence-(AI) powered assistant that is specifically for work and can be tailored to a customer’s business."
+    publishedDateTime: 2023-11-28T17:20:00Z
+    webUrl: "https://www.valdostadailytimes.com/ap/business/aws-announces-amazon-q-to-reimagine-the-future-of-work/article_9994ed9a-9101-564f-b8ef-aacc9016bc3b.html"
+    type: article
+    provider:
+      name: The Valdosta Daily Times
+      domain: valdostadailytimes.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
   - title: "AWS Introduces Amazon One Enterprise"
     excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced Amazon One Enterprise, a palm-based ide"
     publishedDateTime: 2023-11-28T04:52:00Z
@@ -79,15 +93,6 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 19
-  - title: "AWS Announces Amazon Q to Reimagine the Future of Work"
-    excerpt: "Amazon Q builds on AWS's history of taking complex, expensive technologies and making them accessible to customers of all sizes and technical abilities, with a data-first approach and enterprise-grade security and privacy built-in from the start."
-    publishedDateTime: 2023-11-28T18:38:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/11/28/9924564.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
     quality: 19
 
 secured: "ZuI0Ag5rQEdIbIbs/vthPrdm0tR1BU+PwdtMgWiDX4Zps/qJ7iTuAhU6yPu9MnjUgtTXMGGQ2piuMgwxK7sXw57TcelSN+F8+KO9skgR2j2/sR1ygRACnZv+LFFeYwgkg0pr36JlRzyRDH800r3kgt52d7F+P887gmzhY4JLfnXlGvAnmoqHFeGNYawAL+PPQJ5MrWVeDIGJQ8KndYHQ6qq/ibQbNLAxWIGEDmssFdJhfzCpyYGClaS8QjULxItktnt6TK0ykCkec2iEZiUyg/+Gw0kypBUUCqn0XR1P2nqOaz2CvuH3OzfgrJ79yxfBckiNOJgPJEd6DnQ7WLV4T3kawJf5VthpFwzDXj6vdLl6w8J+S/oh7B098IhnfqbmaZ/hdQLxs7opzdDhizvOr67t5kZz4UckHsrZ7kior9HemIA1NwnZHMZazImj6PYMFlgLq3PPI3B/obO9gTYXSqHX9nstxiQufG/XeNo7FKSMg6UFyo2yCuk0IOWaqMXCvtiqZO9VTgS3NoUPZZBsTg==;EQqGXOolCsggmcu7TgqlSg=="

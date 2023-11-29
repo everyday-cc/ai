@@ -86,20 +86,6 @@ related:
         width: 770
         height: 435
         isCached: true
-  - title: "Google is launching its Bard AI chatbot to the public – Business Insider"
-    excerpt: "Google says that you can use Bard to “boost your productivity, accelerate your ideas and fuel your curiosity.” It functions similarly to OpenAI’s ChatGPT: you prompt it with a question or a task – say,"
-    publishedDateTime: 2023-11-24T03:17:00Z
-    webUrl: "https://www.inferse.com/804061/google-is-launching-its-bard-ai-chatbot-to-the-public-business-insider/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 38
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-12996.png"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Clarity AI taps AWS for sustainable investing at scale"
     excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Clarity AI, a leading technology company that delivers environmental and social insights to ensure that companies and consumers invest and purchase sustainably,"
     publishedDateTime: 2023-11-27T18:47:00Z
@@ -153,6 +139,6 @@ related:
         height: 600
         isCached: true
 
-secured: "IfOQPweB0XY1LbFG2/Te/ECB8Yl3f4+Ygw8NUVMAuv5aOF+oddX4ARvHQ7TLSxYzQhg1ghbNzhPbHva0GbuUgQqjeX4FIqqcXrm5rg85GTGA2aeWhlQWw681FN1qy+Rb2GC+uYpICtR4kwF9AFH7QMCBDbF9WhFh/K1k+vyDM2jODVGHOKc35cT/4kwpg47WQUWVf8w6+zSjMrhp2QgND0cf1xT8f9pB0nSIBqdAbX++WC0ioWugcSaazSPKxiKdFO3YLXShkwg4p6BlL6nY91NaISeIWgoPY+HSIrOFb3wbPiP4kUUvbNwY+8eSllaAlh3Y7PcD9V7VrFOxW5tWjtP/8MAHQVwuX0JdALBgBY0=;Q9QvldkxIkhz3EJY7MZ9ZA=="
+secured: "2DtuyzeUPJxU6XvnAbYdaGbhnUP1TjMlvJLG343PnxLAhItsx0YwDdtxeYiGXKHMLsVZW3reQS3T0NKtWA3AU7ZUmHW0/0Xs6CWmwlvaHho7oIfylgau/Ri+YKUbTOktRRHChruAt93To/nyiaqzd+SvhI9uXZGQY1wdShG2/CLFoSNPrgr2vv+ovGYswhNmjwhF1JweaShJaO2r/dnQorXYq20PpLZd2F8CG3DnBw/V93Ylvqt+OBtula9tMDQdqqKf58uTT+M5tECznoW7QwFd24xprhITdINaSS+D29d3GUPaovyMGLnJi7+u1njuOvojOIys4lzHOjBrOScaJDrHIFPqKo3caW9j18Du6ahgn9l3W1FAc3AUvUbx6k4BvtC6P1OeKIASYAYmzi0XncuVZl4mCT9cHriealn2mBnSzuOjHFWqI++EKKZGY4+6n/Eozx65xKMj41cXVyOMnVBHanMjYr5G8yGLureeidanq6WXqNyKoXGgegKMgLFnF1wm0vqCAY4WYkYQeSD17w==;+8eMdwAzAb/PV4POUg6f/w=="
 ---
 

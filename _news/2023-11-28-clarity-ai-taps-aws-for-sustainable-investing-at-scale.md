@@ -91,20 +91,6 @@ related:
         width: 770
         height: 435
         isCached: true
-  - title: "Google is launching its Bard AI chatbot to the public – Business Insider"
-    excerpt: "Google says that you can use Bard to “boost your productivity, accelerate your ideas and fuel your curiosity.” It functions similarly to OpenAI’s ChatGPT: you prompt it with a question or a task – say,"
-    publishedDateTime: 2023-11-24T03:17:00Z
-    webUrl: "https://www.inferse.com/804061/google-is-launching-its-bard-ai-chatbot-to-the-public-business-insider/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 38
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-12996.png"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Amazon launches Q, a business chatbot powered by generative artificial intelligence"
     excerpt: "The technology is currently available for preview. While Amazon is ahead of rivals Microsoft and Google as the dominant cloud computing provider, it’s not perceived as the leader in the AI research that’s led to advancements in generative AI."
     publishedDateTime: 2023-11-28T22:04:00Z

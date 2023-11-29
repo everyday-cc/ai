@@ -22,20 +22,6 @@ topics:
 
 related:
   - title: "Voice denial a blemish on Australia's history"
-    excerpt: "Denying Indigenous Australians a Voice to Parliament has exposed an absence of compassion that has set our nation backwards in time."
-    publishedDateTime: 2023-11-24T05:00:00Z
-    webUrl: "https://independentaustralia.net/politics/politics-display/voice-denial-a-blemish-on-australias-history,18109"
-    type: article
-    provider:
-      name: independentaustralia.net
-      domain: independentaustralia.net
-    quality: 24
-    images:
-      - url: "https://independentaustralia.net/_lib/slir/w800/i/article/img/article-18109-hero.jpg"
-        width: 650
-        height: 433
-        isCached: true
-  - title: "Voice denial a blemish on Australia's history"
     excerpt: "Denying Indigenous Australians a Voice to Parliament has exposed an absence of compassion that has set our nation backwards in time writes Dermot Daley"
     publishedDateTime: 2023-11-25T21:28:00Z
     webUrl: "https://www.bignewsnetwork.com/news/274043854/voice-denial-a-blemish-on-australias-history"

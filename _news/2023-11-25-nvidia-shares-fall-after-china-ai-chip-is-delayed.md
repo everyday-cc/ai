@@ -123,6 +123,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AWS Taps Nvidia NVSwitch For Beefy AI GPU Nodes"
+    excerpt: "Since the advent of distributed computing, there has been a tension between the tight coherency of memory and its compute within a node – the base level of a unit of compute – and the looser coherency over the network across those nodes."
+    publishedDateTime: 2023-11-29T04:31:00Z
+    webUrl: "https://www.nextplatform.com/2023/11/28/aws-adopts-nvidia-nvswitch-for-beefy-ai-gpu-nodes/"
+    ampWebUrl: "https://www.nextplatform.com/2023/11/28/aws-adopts-nvidia-nvswitch-for-beefy-ai-gpu-nodes/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/11/28/aws-adopts-nvidia-nvswitch-for-beefy-ai-gpu-nodes/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 91
+    images:
+      - url: "http://www.nextplatform.com/wp-content/uploads/2023/11/aws-ceiba-tree-logo.jpg"
+        width: 779
+        height: 528
+        isCached: true
   - title: "Nvidia delays launch of new China-focused AI chip: Sources"
     excerpt: "Nvidia has told customers in China it is delaying the launch of a new artificial intelligence chip it designed to comply with US export rules until th"
     publishedDateTime: 2023-11-24T06:06:00Z
@@ -269,6 +285,20 @@ related:
       name: IT News For Australia Business
       domain: itnews.com.au
     quality: 34
+  - title: "AWS Unveils Updated AWS Graviton4 and AWS Trainium2 Processor Families to Offer Enhanced Price Performance and Energy Efficiency"
+    excerpt: "Invent, Amazon Web Services, an Amazon.com company, yesterday announced the next generation of two AWS-designed chip families—AWS Graviton4 and AWS Trainium2"
+    publishedDateTime: 2023-11-29T03:01:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/34053-aws-unveils-updated-aws-graviton4-and-aws-trainium2-processor-families-to-offer-enhanced-price-performance-and-energy-efficiency"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 25
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/5cc2cdf2ae077fa7427e89ab7fb16239.jpg?t=20231129_025535"
+        width: 753
+        height: 408
+        isCached: true
 
 secured: "QcfMYSDpMvA+4lY3wSjf8CFluNTUx03LrD99ZNgRd4EChcdzDgtRAMCWiIWZaMwrJB6m9z62Hpz40XJmew5sbEPsWN+xgNFVQPqwVeC73V//JDxCwoUBjJonjBQAAxqeT0SFhelw+C7I1HAMvea/X6jMsKa6uFDGGTO50XKQ4ITHFcYN0V9OJZ7Q5++DMK4w6Cm9V0kvW95b9MQYY+OE2FvaujdnpxbqacnLODVcUuAEAt4NGG6Z9OpYA46enuhmf/ageCm1km2O9HG5MnQ229J7kHPTaUtK97GON+OmGgCNFVEYeMnnk5p2+wSHhiDorvUMdlvM+kW1oiDXKti07pOsfURpkB48NMhKCE9mxJ8n0DLFB83ygsru0lUhaYf4mh0v3lPo3tum6yvgr0b5upBqpc+7hMD6twOsc26SepmPTkEg6U3+sWcjYiU75/7WOFWR5HRundo0Qktl7eFG9GI2yIhko4XbGOoUSK1ahrmN321jw39dc0XRPCxWD0MuQcgflIBUdZ+hiZ3+ss6i5w==;MbvuWcNgxiCyDX7jU9O8uw=="
 ---

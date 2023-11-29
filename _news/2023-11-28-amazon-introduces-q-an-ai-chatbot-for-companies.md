@@ -90,20 +90,6 @@ related:
         width: 770
         height: 435
         isCached: true
-  - title: "Google is launching its Bard AI chatbot to the public – Business Insider"
-    excerpt: "Google says that you can use Bard to “boost your productivity, accelerate your ideas and fuel your curiosity.” It functions similarly to OpenAI’s ChatGPT: you prompt it with a question or a task – say,"
-    publishedDateTime: 2023-11-24T03:17:00Z
-    webUrl: "https://www.inferse.com/804061/google-is-launching-its-bard-ai-chatbot-to-the-public-business-insider/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 38
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-12996.png"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Clarity AI taps AWS for sustainable investing at scale"
     excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Clarity AI, a leading technology company that delivers environmental and social insights to ensure that companies and consumers invest and purchase sustainably,"
     publishedDateTime: 2023-11-27T18:47:00Z
