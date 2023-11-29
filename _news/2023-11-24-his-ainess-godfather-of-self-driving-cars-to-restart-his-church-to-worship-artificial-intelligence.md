@@ -9,8 +9,8 @@ ampWebUrl: "https://www.firstpost.com/tech/his-ainess-godfather-of-self-driving-
 cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/his-ainess-godfather-of-self-driving-cars-to-restart-his-church-to-worship-artificial-intelligence-13427512.html/amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Firstpost
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "From Sci-Fi to Reality: Exploring AI’s Role in Driving Future Growth"
-    excerpt: "Welcome to the future! Imagine a world where robots roam the streets, self-driving cars transport us effortlessly, and our every need is catered to by intelligent machines. While this may sound like something straight out of a science fiction novel,"
-    publishedDateTime: 2023-11-24T07:19:00Z
-    webUrl: "https://techbullion.com/from-sci-fi-to-reality-exploring-ais-role-in-driving-future-growth/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 39
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/11/Robots.jpg"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "Project aims to turn AI research into start-up businesses"
     excerpt: "A new accelerator project has been launched to help researchers at the forefront of artificial intelligence discovery turn their work into start-up companies."
     publishedDateTime: 2023-11-24T12:21:00Z

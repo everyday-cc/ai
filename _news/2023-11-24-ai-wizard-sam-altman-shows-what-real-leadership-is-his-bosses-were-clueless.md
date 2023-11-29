@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/simonconstable/2023/11/24/ai-wizard-sam
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonconstable/2023/11/24/ai-wizard-sam-altman-shows-what-real-leadership-is-his-bosses-were-clueless/amp/"
 type: article
 quality: 84
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -91,20 +91,6 @@ related:
       - url: "https://iblnews.org/wp-content/uploads/2023/12/samaltmantwarnings-696x392.jpg"
         width: 696
         height: 392
-        isCached: true
-  - title: "OpenAI CEO Sam Altman Funds Longevity Startup With Goal To Increase Human Lifespan By 10 Years – Yahoo Finance"
-    excerpt: "A startup firm backed by an artificial intelligence (AI) industry leader aims to expand human lifespan by 10 years.Sam Altman is the CEO of OpenAI, the"
-    publishedDateTime: 2023-11-24T07:40:00Z
-    webUrl: "https://www.inferse.com/804220/openai-ceo-sam-altman-funds-longevity-startup-with-goal-to-increase-human-lifespan-by-10-years-yahoo-finance/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 34
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-13074.png"
-        width: 600
-        height: 400
         isCached: true
   - title: "‘What If Sam Altman Was A Black Woman’ Debate About Bias In AI Engulfs Twitter"
     excerpt: "Following Sam Altman’s ouster from OpenAI many compared Altman's exit and return to the unceremonious firing of Dr. Timnit Gebru."

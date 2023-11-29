@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/pressreleases/23/11/g35980258/artificial-intel
 ampWebUrl: "https://www.benzinga.com/amp/content/35980258"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35980258"
 type: article
-quality: 53
-heat: 73
+quality: 55
+heat: 75
 published: true
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"

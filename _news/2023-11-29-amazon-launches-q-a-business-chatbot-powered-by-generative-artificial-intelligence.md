@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Amazon launches Q, a business chatbot powered by generative artificial intelligence"
-excerpt: "The technology is currently available for preview. While Amazon is ahead of rivals Microsoft and Google as the dominant cloud computing provider, it’s not perceived as the leader in the AI research that’s led to advancements in generative AI."
-publishedDateTime: 2023-11-28T22:04:00Z
-originalUrl: "https://thehill.com/homenews/ap/ap-technology/ap-amazon-launches-q-a-business-chatbot-powered-by-generative-artificial-intelligence/"
-webUrl: "https://thehill.com/homenews/ap/ap-technology/ap-amazon-launches-q-a-business-chatbot-powered-by-generative-artificial-intelligence/"
-ampWebUrl: "https://thehill.com/homenews/ap/ap-technology/ap-amazon-launches-q-a-business-chatbot-powered-by-generative-artificial-intelligence/amp/"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/ap/ap-technology/ap-amazon-launches-q-a-business-chatbot-powered-by-generative-artificial-intelligence/amp/"
+excerpt: "Amazon finally has its answer to ChatGPT. The tech giant said Tuesday it will launch Q — a business chatbot powered by generative artificial intelligence."
+publishedDateTime: 2023-11-29T08:15:00Z
+originalUrl: "https://www.mcall.com/2023/11/28/amazon-launches-q-a-business-chatbot-powered-by-generative-artificial-intelligence/"
+webUrl: "https://www.mcall.com/2023/11/28/amazon-launches-q-a-business-chatbot-powered-by-generative-artificial-intelligence/"
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: Morning Call PA
+  domain: mcall.com
 
 topics:
-  - Meta AI
+  - AWS AI
   - AI
+
+images:
+  - url: "https://www.mcall.com/wp-content/uploads/2023/11/Amazon_Business_Chatbot_34692.jpg?w=1024&#038;h=683"
+    width: 1024
+    height: 682
+    isCached: true
 
 related:
   - title: "AWS Launches New Chips for AI Training and Its Own AI Chatbot"
@@ -120,21 +124,7 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 17
-  - title: "ChatGPT gained 1 million users in under a week. Here’s why the AI chatbot is primed to disrupt search as we know it – Fortune"
-    excerpt: "We are all used to entering search queries online and getting relevant links in response. But what if you could get an instant answer from a robot? And what"
-    publishedDateTime: 2023-11-24T08:11:00Z
-    webUrl: "https://www.inferse.com/804258/chatgpt-gained-1-million-users-in-under-a-week-heres-why-the-ai-chatbot-is-primed-to-disrupt-search-as-we-know-it-fortune/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 12
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-13093.png"
-        width: 1200
-        height: 600
-        isCached: true
 
-secured: "Kgts2FchFtLh2ZnhAfHXV4fZ4ZAhl8xwsVVJb3bi/1FOHegRLVDMhomKE/LarS/PxLmAzPCBYI712/SZ4wC9ihhcmf2GFN3/TQ7iwpOOGURwh5zyratQIfC7+S4DUCcIagFkqPBhBxyAue9bVTI+w0aMsHmCzJQ4f4xbF0dd3b7VMLmbqRYi/7T+nlqjLK2JrxkwcWnnTIwY7nE0Wo9OVe4UOvNCczTGcp8SmZRvgqV0AS13Kp2OXT++W85dDrcO58kdGtABM4ipXAay53CPqqZVkdmCgpy51NdFxOuI3sIyv4271ikCUYyEKxxqOJXOILfLAzhrfgytRlvFAE/6lgcMm6YrP8pneP4kD+riD6Kd8q8jV5jVQShpzxuwnRI/4uCH3PcR2UZhLKD36SRSzt1z1U94ILb7aEMZ3W9CqXdG+f7S+zpRl/LF8KIaJNSH1u9J55YKCwWXIXGoIL5+tLJBGRPiMgSbt5szxtED4sHU8HYD0Dcu/H4+hCb0ZCujxy1E4w2SwnjtfNxZ2BRpdg==;td9f1hANZWsT6LJxY0mB4Q=="
+secured: "6BpKiR+xc7mx84dJBfDrjtPR00+USoAS3Z+zP+kjY/wh982jTRZec8vmak2XT6ly0pGIt3CKAkMPqOCdWXOUphIw0CbrvEVD9kiz3PBNNsQA2qWglYHCGSQ9g93xFPjLjCT76w1Ns981Yc0NGAQ46tdwuoSx2o1jJEb9z0P/m0YHpnGGrWcSz1Gh8IIwZmOObrjz3UFlkIMeR8XGzqOGQH6CNEIvCOoVMSKcaecNWxPBFDI8o+L8ZC1cwdCtPbSbIkvf3Nar61ms4I8FnI1mOeYgEyLhWdKj3xiB5hOIQeDt//Utlw173rqRsM+yJfMAQbTgGMdb4zZkPMO+ouaVo0Bx8rlugQ0v8byRgIEwYgY=;889tHOhHzIFTw5vDWW98dg=="
 ---
 

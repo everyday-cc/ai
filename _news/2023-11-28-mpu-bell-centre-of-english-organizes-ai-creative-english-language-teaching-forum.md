@@ -35,7 +35,7 @@ related:
     provider:
       name: The Korea Herald
       domain: koreaherald.com
-    quality: 91
+    quality: 93
     images:
       - url: "https://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2023%2F11%2F29%2F20231129000642_0.jpg"
         width: 630

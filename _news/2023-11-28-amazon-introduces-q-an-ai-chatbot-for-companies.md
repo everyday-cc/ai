@@ -100,16 +100,19 @@ related:
       domain: finextra.com
     quality: 34
   - title: "Amazon launches Q, a business chatbot powered by generative artificial intelligence"
-    excerpt: "The technology is currently available for preview. While Amazon is ahead of rivals Microsoft and Google as the dominant cloud computing provider, it’s not perceived as the leader in the AI research that’s led to advancements in generative AI."
-    publishedDateTime: 2023-11-28T22:04:00Z
-    webUrl: "https://thehill.com/homenews/ap/ap-technology/ap-amazon-launches-q-a-business-chatbot-powered-by-generative-artificial-intelligence/"
-    ampWebUrl: "https://thehill.com/homenews/ap/ap-technology/ap-amazon-launches-q-a-business-chatbot-powered-by-generative-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/ap/ap-technology/ap-amazon-launches-q-a-business-chatbot-powered-by-generative-artificial-intelligence/amp/"
+    excerpt: "Amazon finally has its answer to ChatGPT. The tech giant said Tuesday it will launch Q — a business chatbot powered by generative artificial intelligence."
+    publishedDateTime: 2023-11-29T08:15:00Z
+    webUrl: "https://www.mcall.com/2023/11/28/amazon-launches-q-a-business-chatbot-powered-by-generative-artificial-intelligence/"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
+      name: Morning Call PA
+      domain: mcall.com
     quality: 33
+    images:
+      - url: "https://www.mcall.com/wp-content/uploads/2023/11/Amazon_Business_Chatbot_34692.jpg?w=1024&#038;h=683"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Google Bard vs OpenAI ChatGPT: Which chatbot is better and why? – Lifestyle Asia Singapore"
     excerpt: "Looks like there soon might be a battle of the AI chatbots. Recently, Google announced its AI Chatbot Bard, which will be direct competition for Open"
     publishedDateTime: 2023-11-27T14:00:00Z
@@ -119,20 +122,6 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 26
-  - title: "ChatGPT gained 1 million users in under a week. Here’s why the AI chatbot is primed to disrupt search as we know it – Fortune"
-    excerpt: "We are all used to entering search queries online and getting relevant links in response. But what if you could get an instant answer from a robot? And what"
-    publishedDateTime: 2023-11-24T08:11:00Z
-    webUrl: "https://www.inferse.com/804258/chatgpt-gained-1-million-users-in-under-a-week-heres-why-the-ai-chatbot-is-primed-to-disrupt-search-as-we-know-it-fortune/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 12
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-13093.png"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "dM5qBvs6Poizmh9UNY1mi+noUmtv7jh8/ZOPFqxZv30Uv2rrsdvjt9gjCJu+i4x0E/4b7BbFVwqezerM013autbtffVvSljVZhwKSse6K4wBeE8TpnDfXv6i9e+M+jN4+vjN5swmp2lTTIlWebLhe4wE9rLK3Ctg7BVbgVdnq9+7iDMG9Z+QHSKqSf1TYiuQzFUAa18IscqaPdopdaeFSpRkvKwnPlV1y4iHz8OboulGXW+ER3q1aktKF72YTI+si9swB/Dyg1FyzjnGUmtlmdm4+fXFuFzieueJvhVsrgAS8Zd8I6j87t9MvUL/LjP7tJvsBf81SGmgonKa7du4Kc8qTV+CZM9uP/hXF8j35ydoZbInO+iGatYGrqdyfSPL5Y/22qXQAS2+hTOMrzAHJIm2rYRkxhEkS4hD8yNabgcrahgqXS9bCYZLQRShTX44GaC1aMHu0KwfBCYodHYi1M8ot2mE2FWsAgxa/ykKoYwiZNvKKn0LTY7MLkIyRm0HvZCWkZtwDBTLMj0UxcjQ2A==;rJ9yiqK1GH7O++ZGUYrnrg=="
 ---

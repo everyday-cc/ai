@@ -102,20 +102,6 @@ related:
         width: 696
         height: 392
         isCached: true
-  - title: "OpenAI CEO Sam Altman Funds Longevity Startup With Goal To Increase Human Lifespan By 10 Years – Yahoo Finance"
-    excerpt: "A startup firm backed by an artificial intelligence (AI) industry leader aims to expand human lifespan by 10 years.Sam Altman is the CEO of OpenAI, the"
-    publishedDateTime: 2023-11-24T07:40:00Z
-    webUrl: "https://www.inferse.com/804220/openai-ceo-sam-altman-funds-longevity-startup-with-goal-to-increase-human-lifespan-by-10-years-yahoo-finance/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 34
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-13074.png"
-        width: 600
-        height: 400
-        isCached: true
   - title: "He’s back: Sam Altman and the chaos at the heart of the AI industry – Full Story podcast"
     excerpt: "The CEO of OpenAI was sacked and then rehired days later, after staff threatened to follow him. But what does this corporate drama tell us about the future of artificial intelligence? Blake Montgomery"
     publishedDateTime: 2023-11-26T13:00:00Z

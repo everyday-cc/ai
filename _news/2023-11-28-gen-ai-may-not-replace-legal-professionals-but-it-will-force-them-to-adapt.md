@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "AImReply's New AI Assistant Set to Revolutionize Email for Busy Professionals"
-    excerpt: "AImReply announces the launch of an AI-powered email assistant to help professionals save time crafting email responses. The new product"
-    publishedDateTime: 2023-11-24T08:34:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/aimreply-s-new-ai-assistant-set-to-revolutionize-email-for-busy-professionals-1032847068"
+  - title: "Artificial Intelligence will not replace attorneys anytime soon"
+    excerpt: "In the realm of litigation, opposing counsel (who will have the same technology) actively try to thwart even the best-laid plans. Good attorneys are adept at triaging problems and managing relationships. Persuasive writing is an exercise in empathy with the audience, anticipating the thought process and emotions of the reader."
+    publishedDateTime: 2023-11-27T05:00:00Z
+    webUrl: "https://www.stltoday.com/brandavestudios/sponsored/artificial-intelligence-will-not-replace-attorneys-anytime-soon/article_eb388f60-29e9-5a11-b917-e72524b72747.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 68
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 39
     images:
-      - url: "https://storage.googleapis.com/mmstudio-images/gallery/r6ZmsB0rZ2N74pbNR5Ge0wK5nL53/1700811548060-0.png"
-        width: 468
-        height: 234
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/e/b3/eb388f60-29e9-5a11-b917-e72524b72747/655bcf541d5a2.preview.jpg?crop=1637%2C859%2C0%2C202&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "ByTRGdIQbJ3eTw90qh+8NAZ+Z2JrjG0zua4tP9WK0xPkmLqbBEE/OvyEVQwGB0h322JLjDR/Br67WF7p4H7dh1Spk6/FmygVSsE4v2X+MEjmwaf4R6Z8MeUYOIQaTdyhr/np8klhSYfNbX2svjidRa8F/gxAQU9MnvSrIc5GbB0kYLeOeoq0k3rm4visX2Rtz6PNqxF8UKAqb0FMuFPv/WoYBgHz7/1zc6Zds68qfKk166YorzmHfoBAgK8BjSj5kHlHy2XmeEm0XiIet1lCQiz8aYDbveiwRFkVHAX/d6i1W3RtLP5ucm53Ss60vsERIuLXmgLDaJZczR95nE8uZoR8EHeHAWt15K7WS2y5S3Vh3tE7KanBVAZam9V2R5HYUFMhzY/YhX1QdMfjhu3DFP89LN00/UlZt6jgknPpAEUf8ttFDae4xste2zooeEReJT49/714CR3XRCpdG1vUAkWsYw9AmAqyZ/Aaq7FmOc08UJRkNseUmgq4w3DHW5nlONpCPkBuRN0DPqzwZmVV+g==;CzLxhs8bXj7/t+YM0b/+eQ=="

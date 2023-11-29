@@ -35,22 +35,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "AWS Announces Amazon Q to Reimagine the Future of Work"
-    excerpt: "Inc. (AWS), an Amazon.com, Inc. company AMZN, today announced Amazon Q, a new type of generative artificial intelligence-(AI) powered assistant that is specifically for work and can be tailored to a customer's business. Customers can get fast, relevant ..."
-    publishedDateTime: 2023-11-28T13:21:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/11/b35986133/aws-announces-amazon-q-to-reimagine-the-future-of-work"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35986133"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35986133"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Veritone Joins the Generative AI Center of Excellence for AWS Partners"
     excerpt: "(NASDAQ: VERI), a leader in designing human-centered artificial intelligence (AI) solutions, today announced that it is a contributing company to the newly launched Generative AI Center of Excellence (CoE) for Amazon Web Services (AWS) Partners in the AWS Partner Network (APN)."
     publishedDateTime: 2023-11-28T11:01:00Z
@@ -93,6 +77,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "AWS Announces Amazon Q to Reimagine the Future of Work"
+    excerpt: "Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced Amazon Q, a new type of generative artificial intelligence-(AI) powered assistant that is specifically for work and can be tailored to a customer’s business. Customers can get fast ..."
+    publishedDateTime: 2023-11-28T13:21:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231128307286/en/AWS-Announces-Amazon-Q-to-Reimagine-the-Future-of-Work/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 19
 
 secured: "XoRjuaLcFjEqTX856u/JrW93XnLO5cb6WHaTn3tZWwTonmeSZYo8onbP1Z4gH8UjxHbggvFX/jm2b6vKRvx670fw4a6Radek4p46BwTX2ApENf8Q58DBqnxGMvnmroUw4cT/ZJMe74S3PQg9pX6n9oBH7xGvW7WgbBcQ6EfaeWaMlFRM17b6PE9NmuMLQsh9LgKRWtOLbvdKiJjXaDiVkuK1YdvwtPLCsOaQymRxwJGEW200Oo4Cb0N5bZCjkCYiUqWZWG/w4OYajUBjz4Qj7ITY0JmI0zUPfmdP6/1A5UNCIiWE4IPx9KjS8BEstb60SMmtjoiJ8wGevReh0w+XyxmMvtyCTW2mG1N7KJiz5C0HRGI29TKzp4OOtbSEq3o5lkZnEfTut/Ucq60hU+HN1XIpr7bfes3Z7twDDTukmfQtd5qkpREfUjsTjrmib27jGaeSKH7Bn5cF36so1riJyaC16vR2+y0R0d2GS+keiZhwVfz6O/e4UzR+tVpWjZKnkQU5Nj5ntDj+Lzac6Och9Q==;zYV4DuyX/8nWSefc0RQ9dQ=="
 ---

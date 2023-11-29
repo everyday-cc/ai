@@ -229,6 +229,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Amazon unveils new AI chip for training AI"
+    excerpt: "Amazon has recently unveiled its brand new AI chip that will be used for the company's cloud computing service. Named Trainium2, the second-generation chip is designed for training AI systems and is said to be four times faster and twice as energy ..."
+    publishedDateTime: 2023-11-29T08:16:00Z
+    webUrl: "https://www.thedailystar.net/tech-startup/news/amazon-unveils-new-ai-chip-training-ai-3481791"
+    ampWebUrl: "https://www.thedailystar.net/tech-startup/news/amazon-unveils-new-ai-chip-training-ai-3481791?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/amazon-unveils-new-ai-chip-training-ai-3481791?amp"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 74
+    images:
+      - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/11/29/amazon.jpg?itok=JBxmYswF"
+        width: 750
+        height: 393
+        isCached: true
   - title: "AWS and Nvidia expand partnership in generative AI."
     excerpt: "AWS will be the first cloud provider to deploy Nvidia’s GH200 chips, originally announced for release in 2024. Nvidia said GH200 has triple the memory of the popular H100 chips. Nvidia CEO Jensen Huang,"
     publishedDateTime: 2023-11-28T20:53:00Z
@@ -270,6 +286,15 @@ related:
       name: IT News For Australia Business
       domain: itnews.com.au
     quality: 34
+  - title: "Amazon Unveils Graviton4 SoC with 96 Arm Neoverse V2 Cores and Trainium2 AI Chips"
+    excerpt: "Amazon Web Services (AWS) is introducing two new data center chips, the Graviton4 processor and the Trainium2 AI chip. Graviton4 boasts 96 Arm Neoverse V2 cores, a significant increase from its predecessor,"
+    publishedDateTime: 2023-11-29T07:37:00Z
+    webUrl: "https://www.guru3d.com/story/amazon-unveils-graviton4-soc-with-96-arm-neoverse-v2-cores-and-trainium2-ai-chips/"
+    type: article
+    provider:
+      name: Guru3D.com
+      domain: guru3d.com
+    quality: 29
 
 secured: "lJWMGjHqajM8zyCPJy1tyee+u3XOx62xEDtDzbmf12HC0p8P3hWIL3ocUL92ZG+OKDM/uqmRqUFZpPw17AcGkdmnKSsO8w5XOI3yVKgDnOwAnDN/OjTw96rpq/Pl57LsAlznPKlkOSQ89x566F34Z8Dgho+e4XOE4YRjBBqULZkJr/FfwLhwx52TL3bEJHujanyThF0g8RUkTtNB5Vh/33r1ZFRhd9dXvURRGyMaR3hzSRZH0lhcUYUKNAXPCvXZ3gujv5pFv0M9+QX0Up7Ic450177BfhraAQ4ZAc/2ItzOJAxhCJt4862FmhsPqPA0SxehfYDkoOZDf4tx67uofJ54nphTcNawNJbssUY+CmXAbO92pmIeb5Kkz1b/D9bMSuG8qpKMZLop9YYw2PFTvI0KbUPWdauUVYPIguSefHKeXBjZPR1MSu3fiu9QfR3vg/jzde6YfS08BH1n6SSLx1U1TpvrVGVnkm6bNtdJPSKF9blFB3+PUxlTo5rUH+QRKc/oJE2NmJ7RceYfNLV63g==;BwiJOLjWjERz6jwwPmxi3A=="
 ---

@@ -1,30 +1,22 @@
 ---
 category: news
 title: "AWS Announces Amazon Q to Reimagine the Future of Work"
-excerpt: "Inc. (AWS), an Amazon.com, Inc. company AMZN, today announced Amazon Q, a new type of generative artificial intelligence-(AI) powered assistant that is specifically for work and can be tailored to a customer's business. Customers can get fast, relevant ..."
+excerpt: "Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced Amazon Q, a new type of generative artificial intelligence-(AI) powered assistant that is specifically for work and can be tailored to a customer’s business. Customers can get fast ..."
 publishedDateTime: 2023-11-28T13:21:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/11/b35986133/aws-announces-amazon-q-to-reimagine-the-future-of-work"
-webUrl: "https://www.benzinga.com/pressreleases/23/11/b35986133/aws-announces-amazon-q-to-reimagine-the-future-of-work"
-ampWebUrl: "https://www.benzinga.com/amp/content/35986133"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35986133"
+originalUrl: "https://www.businesswire.com/news/home/20231128307286/en/AWS-Announces-Amazon-Q-to-Reimagine-the-Future-of-Work/"
+webUrl: "https://www.businesswire.com/news/home/20231128307286/en/AWS-Announces-Amazon-Q-to-Reimagine-the-Future-of-Work/"
 type: article
-quality: 59
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
 
 related:
   - title: "AWS Announces the General Availability of Amazon S3 Express One Zone"
@@ -95,6 +87,6 @@ related:
       domain: businesswire.com
     quality: 19
 
-secured: "wT8KJGH7sxNGnIGoRYz7vnAUvsp07WE9wDiKE8cbyl120I0vY19HUnVfZX8Y0WkrKAvjZSxdkoiTD6Voc7mF17oD1tI1Kr0lX4QUZ1phvvwA63OAjc4UKdDqSjIahS+KsGTiwYDYFXoBCAcIQ0NH1WOjPH5CxtdftQmarTu0wyfa6e4J8vgMv1KyTr0z+X3SgA23JCmVkZxBiDP3gos063DZXb1M0DrH7uHMAYVbZHojEnTAfrVK0Cei0g3Zex5jQd5aRX80S5kGgiyDPdn7CoUFpUSX9wtHklf6mv7yusnGxKBacQvy3YlC+y+qAAB0BkxiYXmuEXWdW+e7s23mJyzVaUA4Z1KOjPsyg+8PZoE=;fuhcodO+79PrL1LzboEUrA=="
+secured: "7DnF+Mv01gVhk66rdWkGVLo8hXxH4UbdgYNNcTjJr1RAiH3zJ28D832XdQDh39jnCLj25qz3D77JPTSneJCEDzxO75kJlDDuFq2534H5MlOLj7Xp7WkmBllF0hAqGpK5JKVxNUs0PeZheNTTglvrhJbNGOwNaBFhSD/5hFAzcNWC1/nvcJ/RY2iBg575aAkLVZfb/thgSjg01e0rfHxwRUyJMbRPGz/hez6rnH/hSsaWE/FWKsmsLXcVVsW2HBcuKFEdP9Sp04V7JecT3AYOtZ6Wt67U3fMBBvz6IVxEmMt9hastjmVOrX66PXew8AckuSkkMiofmj3fKr02eCXsRv5IUDIPVJsaofaMoLXORfo=;i0pycUzyKiLiQYD1wc4uhw=="
 ---
 

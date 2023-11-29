@@ -66,6 +66,22 @@ related:
         width: 1013
         height: 481
         isCached: true
+  - title: "AWS re:Invent 2023: Amazon Q, new AI chip, and more announced"
+    excerpt: "Invent 2023 Day 2 keynote has just ended, and the company has announced some important updates. Find the most important announcements like Amazon Q, a new AI chip and more."
+    publishedDateTime: 2023-11-29T06:56:00Z
+    webUrl: "https://www.thehansindia.com/technology/tech-news/aws-reinvent-2023-amazon-q-new-ai-chip-and-more-announced-841223"
+    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/aws-reinvent-2023-amazon-q-new-ai-chip-and-more-announced-841223"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/aws-reinvent-2023-amazon-q-new-ai-chip-and-more-announced-841223"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 91
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2023/11/29/1403266-aws.jpg"
+        width: 1200
+        height: 720
+        isCached: true
   - title: "Amazon AWS Transcription Platform Enters a New Era with Generative AI"
     excerpt: "Amazon Web Services (AWS) recently announced that its transcription platform, Amazon Transcribe, is now powered by generative AI."
     publishedDateTime: 2023-11-28T14:01:00Z
@@ -97,6 +113,20 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2023/Business-People-And-Humanoid-Ai-Robot-Si.jpeg?width=1200&height=800&fit=crop"
         width: 834
         height: 556
+        isCached: true
+  - title: "Highlights from the AWS re:Invent keynote: Q AI, strong bedrock foundation, and a smarter cloud"
+    excerpt: "In a wide ranging keynote session that was nearly 2.5 hours long, Adam Selipsky, CEO of Amazon Web Services, detailed the continued progress"
+    publishedDateTime: 2023-11-29T03:30:00Z
+    webUrl: "https://venturebeat.com/ai/highlights-from-the-aws-reinvent-keynote-q-ai-strong-bedrock-foundation-and-a-smarter-cloud/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 72
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/11/cfr0z3n_photorealistic_circuitry_arranged_in_amazons_smile_arro_8eae54c6-b579-452d-b3e7-919635baad91.webp?w=1200&strip=all"
+        width: 1200
+        height: 672
         isCached: true
   - title: "Securing generative AI across the technology stack"
     excerpt: "As organizations increasingly rely on generative AI capabilities, they will need AI security platforms to be successful."

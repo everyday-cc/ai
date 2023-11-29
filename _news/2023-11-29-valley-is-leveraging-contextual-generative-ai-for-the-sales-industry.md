@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "71% Of Employers May Be Left Behind In The Generative AI Race"
-    excerpt: "Skills Index report from BTG (Business Talent Group) unearthed some striking data about generative AI and its integration in today's workplace."
-    publishedDateTime: 2023-11-24T08:00:00Z
-    webUrl: "https://www.forbes.com/sites/rachelwells/2023/11/24/71-of-employers-may-be-left-behind-in-the-generative-ai-race/"
-    ampWebUrl: "https://www.forbes.com/sites/rachelwells/2023/11/24/71-of-employers-may-be-left-behind-in-the-generative-ai-race/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/11/24/71-of-employers-may-be-left-behind-in-the-generative-ai-race/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/655e33d6e2d96a58f8c668eb/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "How generative AI will deliver significant benefits to the service industry"
     excerpt: "The promise of automation, customization of products and services, accelerated innovation, and commitment to employee skills development points to a future where generative AI orchestrates a sustainable and innovative path forward for service trades."
     publishedDateTime: 2023-11-27T13:23:00Z
@@ -72,6 +56,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 66
+  - title: "The Most Thought-Provoking Generative Artificial Intelligence Quotes Of 2023"
+    excerpt: "Explore generative AI's societal impact in quotes, from existential risks to vast economic prospects, spanning optimistic to dystopian views."
+    publishedDateTime: 2023-11-29T06:28:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/11/29/the-most-thought-provoking-generative-artificial-intelligence-quotes-of-2023/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6566e7f79e47721a215766ba/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Kyndryl Collaborates with AWS for Advanced Generative AI and Machine Learning Initiatives"
     excerpt: "Kyndryl has announced a multi-year Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS), focused on"
     publishedDateTime: 2023-11-29T02:51:00Z
@@ -218,6 +216,6 @@ related:
       domain: just-auto.com
     quality: 5
 
-secured: "QdkfQBwmciBmvVLiffVNfpGBWNl55UHjLlXxEw16iM2hqSgX+1FbPlKcEqmlqoQAKkYzF/hDTupep+n4rk7ZiwSu8Zbeh/dlnpnjpx1VdN1nbqmQ8JWAcBY9ihGQOGY07Kd8PUuH9Q4SbGApCBwu5JpH1txDsNRcM0XGPpKnul/fQ5iHtQxBqInRi6z1FIyLQTgxx7WtGpDARfT9EhFcJkEGQzhpoQHvvWT/HxLJ+b5HbAaJWcvyNIKhFN5F0zi1/uOJDoMvUbtQTEaqZefdrJzRFkafzu6N+RztaNJBDpib/nmkPj6RXAz985TUyh73fxJaK1AkO4Yqw81ad4ErVDbVpc/iBNNDA2DBAhSegwI=;XnvI5awZC8W84/9xK61HFw=="
+secured: "fxK+h263ONaW2fNrT+k3zyEyOsgx2B4rguiXLTa092xS8KusBaRa20wTdqPbU2tLVD5R607ERzx+A8iGWUt+ePJeswGA17HxDDxevJNGQcD81wMUCgcBh1xhkm5trNu7S8P9H+0FpMFX3Dbtsr6dl+PlXi6TwgNgJ11hyyuBHigQMvRS6P/xlO8g2tjcKEYrF1dJAgmZMJ4DsCRU7tT+RIuORnxX7+oTRNPigmppS1zy9V9pgrI8x0uUwOx8AImEl+Sms6JZ9hNGUj+fWznJA68UJ/hbGPsH/mDtBleJG5xOP2v3RfrzAhvGkconMURmU6dhl0/UdxeMo/peGrOxQ1OI44xjvzh9+uMNpoojKS35XJLw4zPwbWbYtGdugyeSC9HDsPLnXETwuJ1Nyh5FXBwK5cm9USLSiu8EJvBmrFTN3mSXdzmbyOLm7fy3DXoSqgzRm659P6zRr4smTHYWfRFQ2spxMgjGXjdFq/+eqD2Yn1P9QLwgqvUMGXG9ADu/oRuK23ezjlAQlJDl+RfiiA==;Ps6xTCNqZojpLlB/9FyLxw=="
 ---
 

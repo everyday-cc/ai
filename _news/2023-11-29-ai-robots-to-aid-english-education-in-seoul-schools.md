@@ -8,8 +8,8 @@ webUrl: "https://www.koreaherald.com/view.php?ud=20231129000649"
 ampWebUrl: "https://m.koreaherald.com/amp/view.php?ud=20231129000649"
 cdnAmpWebUrl: "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20231129000649"
 type: article
-quality: 91
-heat: 101
+quality: 93
+heat: 103
 published: true
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - AI in Robotics
   - AI
   - AI in Education
+  - Natural Language Processing
 
 images:
   - url: "https://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2023%2F11%2F29%2F20231129000642_0.jpg"
@@ -43,6 +44,6 @@ related:
         height: 281
         isCached: true
 
-secured: "OFHthUrz8S/XwYrs8mO2srxIpi8HSRov0nJJ7Rvb/hP61kWjzT8oBK5txzN14l3gfGXlWoLqx9XcCaHnHcnQNRnnGCXPtCmLvrM9uYpB405NhfFhYD50txuiEb5PsD6TEcnb5Z9XCQw1Weuzv/HV8yWFD1f/6XxqGwk0Dm9uTZUbi70zlHHhX1Ubut4a77AwS04hKKYYxAZ3m39yQKkT36snITRJBGxtOGGPi3W4sMGP8od3rpKqRLbE7nTyP6DpfQXu48a3MBpH6f0ndqsSKHwHcQMVdZrT6dzSHXM0wmDaHBaFrryYizWnrC5q4ZWKCqIh/ItnOR5URb238ho2f9iSY9Gwol5UYs5/rXGNlf4=;ntKUSrF1XP9m15IRtGBL5Q=="
+secured: "IIkbfLklSJn08VVG46dj9PGa6yvyrKhOJoIj9dJUvW7g/TmmkGLA8+iOLw0GPyhXxAMckLm5OQH/T/+EDqS2JI+YRUyRma8EFKZlPXIUAwmJpDogd9BzZLYkix2LsRV3WyGBqgH1fMDLcH1H30ag5853o2fYlRVRQt8DMzem3jtjGTmU5ORnd866He07oQ6ERY6Z2AikYZeYQaSpJ6N4zj9yAQBSuDCrb3LbKLCK8fuAqP1GIfkGCBcpzVFC6FTSFvNQYDdOi1OplZBVyaIF9DFuj5No508iRy+q/biTg27sryDuzwzKzIcIx1rj2eVNbIOofKi/Fb3HThCkbdGkq2kIFRgu6A4cm3ArC1stz+e23Me6iKQZ/rBvjUH38Y4u6pM5+VfLrZKBJ711+CkFisRPByxwbE9hxYk1QoNtL9vFaqIwH8v5Tk5N9VFgbx4YoCimaPyoRmgRfAprs7O7iVY5Qf/VQlbW6HFjxZE7oRTTs5E4WrS6OfH4d80KJS3LGo7Y2f3WQSFXPKUpLVnXTQ==;zrsk1LChieFueisiPZ1amw=="
 ---
 

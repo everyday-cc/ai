@@ -2,9 +2,9 @@
 category: news
 title: "Sports magazine under fire for publishing AI-written articles crediting non-existent authors"
 excerpt: "The Sports Illustrated magazine is under fire for carrying articles written using artificial intelligence, crediting authors who do not seem to exist."
-publishedDateTime: 2023-11-29T05:14:00Z
-originalUrl: "https://www.aol.com/news/sports-magazine-under-fire-publishing-051451491.html"
-webUrl: "https://www.aol.com/news/sports-magazine-under-fire-publishing-051451491.html"
+publishedDateTime: 2023-11-29T07:14:00Z
+originalUrl: "https://www.aol.com/news/sports-magazine-under-fire-publishing-051451217.html"
+webUrl: "https://www.aol.com/news/sports-magazine-under-fire-publishing-051451217.html"
 type: article
 quality: 28
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "https://media.zenfs.com/en/aol_the_independent_uk_548/daeaf4c8d18af62db59a3c17863eecbf"
+  - url: "https://media.zenfs.com/en/aol_the_independent_us_877/daeaf4c8d18af62db59a3c17863eecbf"
     width: 1200
     height: 800
     isCached: true
@@ -225,6 +225,6 @@ related:
       domain: news.com.au
     quality: 0
 
-secured: "tsEVOFk+MMweeViebHpHfATHh3QtbqjngKIo7IHIoEM4cYWBP1ZN5jmLk1W1DWEAs6kqY9/+beOEyJQRO1/EIF8xcX+Lmg4Mzcjt6QR8YOleTeWlVkbFGGIfq4bzzEacjVGJ3Kpcbw8PrNLuahriIkXtvYR7eRYjYzKBVlNszYBepP3xEe119oz/CqC+pCnf7A6yt665owhppV/ATd8xSVUtj+IyI6RUyvceeJZJGwO0AJJ/BwOByMySXEVemESKvWHVad2UyyZpiiKThrxsvk0jGrUk9SuJRTNPTyWE5d3hnaNf4Ov0MISL7aswnWUzW6OlaF4d0wNypRERRR3L2KktV5iwvuMAio/EoNOHtzk=;msr5ub2DTtG2sGUX/M/2Ow=="
+secured: "BcXLzkBT20QkIrQf5KTEJdeQZ3lXWMvB2wrKhS0U7b3lbdCcTCnXJJgUgNpamkboY8jJnAwTJgSieHl4/svdi5EPgYqPsSrTvYYpbgLyJZsTFzZYEJ8+dX9sNbUqiB5SbY3x82YMzt6pfzTE5FmVKPb2kHjtCpf1FGURYIApz4604sWL8i2FJKWE0sizwOZuwND52bQKcIxrviuii3LJu+GkNj4k1YgCP9d/PTU6dMFzE9n9GZ4AEk/tOgwfKZbx0b5J8dtaq1nhFcMQMaFB8FMb4jnGhK46kBLTqE3jsIEzJAZkbfE3QH2MrDSA3kn8w7ECmV5C+yNDgTJGtn7s1M3FMBTaLnJXh0ICjGZoZaM=;XUht8DTbj7Pqk7UZuK33UQ=="
 ---
 

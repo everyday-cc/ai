@@ -41,22 +41,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "AWS Announces Amazon Q to Reimagine the Future of Work"
-    excerpt: "Inc. (AWS), an Amazon.com, Inc. company AMZN, today announced Amazon Q, a new type of generative artificial intelligence-(AI) powered assistant that is specifically for work and can be tailored to a customer's business. Customers can get fast, relevant ..."
-    publishedDateTime: 2023-11-28T13:21:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/11/b35986133/aws-announces-amazon-q-to-reimagine-the-future-of-work"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35986133"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35986133"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "IBM and AWS Announce General Availability of Amazon RDS for Db2, for AI Workloads Across Hybrid Cloud"
     excerpt: "IBM and AWS announce general availability of Amazon RDS for Db2, designed to make it easier for AI workloads across hybrid cloud environments"
     publishedDateTime: 2023-11-28T07:30:00Z
@@ -85,6 +69,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "AWS Announces Amazon Q to Reimagine the Future of Work"
+    excerpt: "Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced Amazon Q, a new type of generative artificial intelligence-(AI) powered assistant that is specifically for work and can be tailored to a customer’s business. Customers can get fast ..."
+    publishedDateTime: 2023-11-28T13:21:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231128307286/en/AWS-Announces-Amazon-Q-to-Reimagine-the-Future-of-Work/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 19
   - title: "AWS Introduces Amazon One Enterprise"
     excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced Amazon One Enterprise, a palm-based ide"
     publishedDateTime: 2023-11-28T04:52:00Z

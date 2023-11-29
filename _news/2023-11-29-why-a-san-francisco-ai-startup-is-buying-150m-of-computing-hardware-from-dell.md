@@ -59,6 +59,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 44
+  - title: "Dell inks US$150 mil hardware deal with AI startup Imbue"
+    excerpt: "Imbue is one of a handful of artificial intelligence startups building their own AI foundation models from scratch."
+    publishedDateTime: 2023-11-29T08:01:00Z
+    webUrl: "https://www.theedgesingapore.com/news/artificial-intelligence/dell-inks-us150-mil-hardware-deal-ai-startup-imbue"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 17
 
 secured: "0XGOwTd0d/8uKnl7JwPeAqFOKDm3JPyxO4WEsF4rIFJ9LG3rdMPzBqY8CBtqsHOi22I7wxeRyAjV/NtU7twltV9ntlh7LFQKrYV3kM+J4VYdq5MZhNuvKUEgfbhKuzHJawN8cl0IU5HQPraEjxxe9flXt3bklGoPuerRbWZCwN+59mWaOIa0UT85clP08HCfkshvPdzA+YKacJEizhKR70l9E6rpVmN/dpBAdEBFT2GpvzM8AHkBNk8mngScR7slNx9Z/4+lSj+mAa0NfQ96ylAQBINYI2s692fOtfVa4L3JEF12JwaVdOFjNSu9ksBpPwlLg2WrVjmQ9nGaaCkESg2hItme64ppX+JwOWspgb3GjaZWpeLKe2cnqMvrLBykt5AEs/wDSHwInW/13TyHBCqGcxA4OWALf7w53qClJQuMM/8PCYQTQ7A+REYDj/rfO+qOsaMMu0tY7mU+fGRMqnVaL+vmthTHk1OgIeZ9K3VPSyqM9WUPL4u3KGm1gXs+F5EAIs4CHhmGKxHPg0hpOg==;zEEDt2E88feB6aDRjYiv0Q=="
 ---

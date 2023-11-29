@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "UK Government Funding to Boost Self-Driving Transport Technologies"
+    excerpt: "Up to £150 million of funding to 2030 to support the UK’s position among world leaders in self-driving technologies. Last week, the Government announced"
+    publishedDateTime: 2023-11-29T05:40:00Z
+    webUrl: "https://businessnewswales.com/uk-government-funding-to-boost-self-driving-transport-technologies/"
+    type: article
+    provider:
+      name: https//businessnewswales.com
+      domain: businessnewswales.com
+    quality: 24
+    images:
+      - url: "https://businessnewswales.com/wp-content/uploads/road-lorry.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Government’s safety ambition for self-driving vehicles is ‘too weak’, say MPs"
     excerpt: "MPs on the Transport Committee have warned the Government that its “safety ambition” for self-driving vehicles is too weak and called for stronger action."
     publishedDateTime: 2023-11-24T13:57:00Z
