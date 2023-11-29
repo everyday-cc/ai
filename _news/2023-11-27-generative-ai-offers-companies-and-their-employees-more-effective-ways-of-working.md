@@ -25,37 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "71% Of Employers May Be Left Behind In The Generative AI Race"
-    excerpt: "Skills Index report from BTG (Business Talent Group) unearthed some striking data about generative AI and its integration in today's workplace."
-    publishedDateTime: 2023-11-24T08:00:00Z
-    webUrl: "https://www.forbes.com/sites/rachelwells/2023/11/24/71-of-employers-may-be-left-behind-in-the-generative-ai-race/"
-    ampWebUrl: "https://www.forbes.com/sites/rachelwells/2023/11/24/71-of-employers-may-be-left-behind-in-the-generative-ai-race/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/11/24/71-of-employers-may-be-left-behind-in-the-generative-ai-race/amp/"
+  - title: "LLMs and generative AI – give us more money, regulators tell UK legislators"
+    excerpt: "In the weeks since the much-hyped AI Safety Summit, the UK Parliament's House of Lords’ Digital and Communications (Select) Committee has been on a fact-finding mission about Large Language Models (LLMs), generative AI, and the impacts of these epochal technologies."
+    publishedDateTime: 2023-11-27T11:01:00Z
+    webUrl: "https://diginomica.com/llms-and-generative-ai-give-us-more-money-regulators-tell-uk-legislators"
+    ampWebUrl: "https://diginomica.com/llms-and-generative-ai-give-us-more-money-regulators-tell-uk-legislators?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/llms-and-generative-ai-give-us-more-money-regulators-tell-uk-legislators?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Diginomica
+      domain: diginomica.com
+    quality: 57
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/655e33d6e2d96a58f8c668eb/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "How generative AI will deliver significant benefits to the service industry"
-    excerpt: "The promise of automation, customization of products and services, accelerated innovation, and commitment to employee skills development points to a future where generative AI orchestrates a sustainable and innovative path forward for service trades."
-    publishedDateTime: 2023-11-27T13:23:00Z
-    webUrl: "https://www.zdnet.com/article/how-generative-ai-will-deliver-significant-benefits-to-the-service-industry/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-generative-ai-will-deliver-significant-benefits-to-the-service-industry/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-generative-ai-will-deliver-significant-benefits-to-the-service-industry/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 85
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/eb431826fdf0117fb9bcc919203b6d9f5170089c/2023/11/27/6ddf91c3-3a57-4901-a4e4-2f1b30bcfc8a/foodservicegettyimages-1634747795.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://diginomica.com/sites/default/files/images/2023-11/pound-685059_640.jpg"
+        width: 640
+        height: 426
         isCached: true
 
 secured: "owSh4I3zEFSyrHcA3ggFWZCleeEI5CI7wwZe26eqwzpVqyLiP6Qbb+XdPlhyjmImTc+ywrBnwXdAqdnAo0inguk2ELUYIFPZ5tQ/iNSvNI59a4XjUG5AZK2nRpUFqLR7PWfFDVF/oOZWjCAsz/ZBeUmxAq5Usf1Cde7R4iJqRWgxX0MpfUdc5Y+gCm7VmfnQ8vmGqHXWOkLLVwY5zfEDjYARcThIvhX0EwOU2tr4BisNh2Wg9ezyxc64TKfRETgZtJAwf1JlkkxeSd9dupl098qwL8Lv6NqPXXpKtOh4rIkC+jMCf/b2F+O+J75WU0dH3qzF/WwNlb6/9eQHn74aKfJulhpJd8eXfJXL+SVjyG0=;o7y/SNIzOaSXmcrG9wu0gQ=="

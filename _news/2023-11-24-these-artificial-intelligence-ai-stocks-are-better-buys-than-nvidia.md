@@ -48,20 +48,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Investors flock back to AI fund on rate cut hopes, Nvidia results"
-    excerpt: "The Global X Robotics & Artificial Intelligence ETF received $35.5 million in net inflows in the week ending on Wednesday, its strongest since June earlier this year, according to Lipper data."
-    publishedDateTime: 2023-11-24T05:11:00Z
-    webUrl: "https://www.aol.com/investors-flock-back-ai-fund-131141195.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/15956a8a29bc3c93c3b3f2c772ea148e"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "xWpeeoiI16qINeHnXo7OEar0G1X+1y7QXZOCBPHveDTx9po8+SYxbIs8JXHcNpRZmClQLgFtvRAXHyYPxCLqX0nyuGChTeLF5RF/JaayPWVN+/w3xM1CVYZq15JuGo27agHIg/V9yrAWZoOMP84+Rcwsh3Jo/AhUmqGID2gzRvHx9t7qTjOrLtxEOWr8dH9aqq2GXHf/DBsBOKmR6KULo0n19OHK4odRlmA2+A75IX/em0SRH32MTsPDHIzBdM9uVWwRLk985cPhef9oZ7EAfF4xG/ja0QK8Io8LDbWVFKYnnJGKCePyfiT6WfjS8fGZnURBQ2/YxD/vVrnVBRIrBSiIjL1UiGNz1QiexCJV0HSG3KIhX1xjnKgePTgMFfRKW5i5rsy/M6k1YRNuKYdn54tium03GbVtO2LF0nqOclgEOMQvzCKJh6KEcOi2wU+2acOiM1ZO+9Zn2/deCcgfZuPf8wvkifmcdFq3HiZSpHkxswa0AqCT1JNYcPy0M8Mj3f39xGdwKK59NmIKE9B1SQ==;O5PTONweGQGeZvlsomkjUA=="
 ---

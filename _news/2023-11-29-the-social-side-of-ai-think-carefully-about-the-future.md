@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnwerner/2023/11/28/the-social-side-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/11/28/the-social-side-of-ai-think-carefully-about-the-future/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://globalnews.ca/wp-content/uploads/2023/11/2023110611118-43659328556a814cd3105187740525997c12d62084d767e205ca6ed15c6b9102-1.jpg?quality=85&#038;strip=all"
         width: 958
         height: 768
+        isCached: true
+  - title: "The Rise of AI: Jury still out on new tech's use in mental health care, experts say"
+    excerpt: "This is an ongoing series by CNHI and The Cullman Times looking at AI and its potential benefits and concerns in various parts of everyday life."
+    publishedDateTime: 2023-11-29T05:01:00Z
+    webUrl: "https://www.cullmantimes.com/news/the-rise-of-ai-jury-still-out-on-new-techs-use-in-mental-health-care/article_80591464-90b7-51c6-b579-f7674c416def.html"
+    ampWebUrl: "https://www.cullmantimes.com/news/the-rise-of-ai-jury-still-out-on-new-techs-use-in-mental-health-care/article_80591464-90b7-51c6-b579-f7674c416def.amp.html"
+    cdnAmpWebUrl: "https://www-cullmantimes-com.cdn.ampproject.org/c/s/www.cullmantimes.com/news/the-rise-of-ai-jury-still-out-on-new-techs-use-in-mental-health-care/article_80591464-90b7-51c6-b579-f7674c416def.amp.html"
+    type: article
+    provider:
+      name: The Cullman Times
+      domain: cullmantimes.com
+    quality: 53
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/cullmantimes.com/content/tncms/assets/v3/editorial/7/29/729d4832-958c-51ea-bb20-b0d7ac404332/65664abd68a07.image.jpg"
+        width: 509
+        height: 497
         isCached: true
 
 secured: "N9q2311U/2Bsfxndbkg2wfDSqxp+c3IcNNzNO2XzeW+PtpbyruEwNrNVi+Df+vf/5inNYvRg2Rn7WT5jIwOqK32azB1KpdFrl67lqkDoibLSi8l43U2dXtzVeODwpWLIbx3/TjHVFecniniHSt4k+v1vcJMSLW1+QYJe0tQSUY08S29GLTP/7BlLv5nm7pS20eovvVRRsMEuEihzr/rRfVoTdaqEKLh71wzE15rbxBEZkAKPyol48nGl1LebjT1pewr4Q6BtU1AGfMhet3QtwCIRhrykS1pxsyvopu7TZaCPbERFqysCLhXAp4+qfXljy72wlg7UeAOoCNDXzCbR5HqJnsBFnok4vgBzYmfA4pVEWtqzPJD1Nc6bYwjId1ZOf7u4ZW5vEow9UgdSX5GL+hgFswu8RXWqP2OFvV4EREFK0X9pjO/vSXltGfVN7ZneE64HlhetJFTPZuB3M/+squSuPXQmPdJAlAsQvemFzeqtb7yw+m7x/eRZ68C5otN5aWL26SLXhEH2K0PCztgKLA==;IA/ncpf3hFusjOhGTJnJgA=="

@@ -40,29 +40,6 @@ related:
         width: 1351
         height: 900
         isCached: true
-  - title: "Artificial intelligence: who are the leaders in fault monitoring AI for the automotive industry?"
-    excerpt: "The automotive industry continues to be a hotbed of patent innovation. The automotive industry is leveraging artificial intelligence (AI) for fault monitoring due to the increasing complexity of vehicles,"
-    publishedDateTime: 2023-11-24T12:41:00Z
-    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-fault-monitoring-ai-automotive/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 39
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/11/Auto_AI_fault-monitoring-AI.jpg"
-        width: 1440
-        height: 810
-        isCached: true
-  - title: "Artificial intelligence: who are the leaders in moving obstacle prediction AI for the automotive industry?"
-    excerpt: "The automotive industry continues to be a hotbed of patent innovation. The automotive industry is advancing moving obstacle prediction AI due to growing demand for autonomous vehicles, advancements in LiDAR and camera sensor technology,"
-    publishedDateTime: 2023-11-24T12:54:00Z
-    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-moving-obstacle-prediction-ai-automotive/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 14
 
 secured: "JAabRliiEzyxwO0V3hP1g8eMbtLwvKemuauNk7JU7bKeTe9rxBes1pL9jzlY7W+ahZK1TLnyuTWRx0MgiRxKap4XCYNKjeVQSOaWMNLL/AAIEmoYs67R2PQG20ZnmyvWpr6fRSLvRLV4k+EFZ52AieeOD6SPtvQKnYQ9NyEIai6h2UTlKMJIuDZqP1VfdtdyS1pjaXKCBboNyM5HcMkPyU6Dih7yZZ8YVLcjbeaKXOPjy6cLPtOIhW1cAJhYxLiSKfMI5DHc3owKaGLKObKUDEqCUgNar61xL/K5B2L1wr+q5eKG8zO8M7HZQ6zHnCcFTKGWsTUe56SkLXPv4lAP90plTLM3PAV+cTj/k0swM13QcCoIACe+dPqz3wSG1s/lwJdtbNrA+H1BXeBlpSYmR52PYjKs3QmmHGoeeuZJlPAiFPIqRB52tnExEzmZHSPrSh3SxZ99fwxWXBSxyWUcI2P5MrrLBCPsL/K/yuFkI0B4OIbnIpvbapsz37fswaRYwsFslpQk2F2PTavr895+Eg==;C399rJeCKm4scgjPQKd4Og=="
 ---

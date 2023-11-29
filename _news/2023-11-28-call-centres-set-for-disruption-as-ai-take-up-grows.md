@@ -32,20 +32,6 @@ related:
         width: 375
         height: 562
         isCached: true
-  - title: "MPU-Bell Centre of English Organizes AI Creative English Language Teaching Forum"
-    excerpt: "Entering its 21st year, the MPU-Bell Centre of English will continue to provide high-quality English training for local and mainland universities and schools, and offer a more diverse range of international English examination certifications, aiming to contribute to positioning Macao as a base for English training and international examinations."
-    publishedDateTime: 2023-11-28T11:53:00Z
-    webUrl: "https://www.gcs.gov.mo/detail/en/N23KbFkM7b"
-    type: article
-    provider:
-      name: 澳门特别行政区政府
-      domain: gcs.gov.mo
-    quality: 34
-    images:
-      - url: "https://www.gcs.gov.mo/fp/N23KbFkM7b_f20231128153713qAjI/m/"
-        width: 500
-        height: 281
-        isCached: true
 
 secured: "fMXd5XjRAu7+2b1XZReKny9LolNGxOHLh2c1i/6jur1mU43VnixkxtCnnRktPVM7wWjYKaliHxxyfkxfJk5J3rmu0syOfduiT2Eg3f+1sTlVDgU75GgQijfcKPU22tPwcA5vCtCC+a+nAJH6011iXlcLSFRORURPopTLUg4wSNz0ydnaKuWXsISVvm+SrLg7RKFZWt4pL0lKZHJBRlqYt4LtElX/rYAs0SRu/0xonB/FA2ZloS+8iBPIDHnQXQPbs7z86mV9KYBxdn0i+3CZOTPFmLc9fyAPb8hZIOJ0B01Z2XOUt5sM2fNCmkDBbvZEtanvAcckTAy+V+71To5dpkZ+FOZFED/PPCLfYOes90MKMlGnt12zUeq92FFGDe3jbkHB7LTxvm71MR7b5xlGr3DbwgcvIHAbg4DqCXbR7F9LVTTKxKKTfgwxNdLwoQybLG7GqFi96JSGkxj5jJ4iMfxL7vfu3jI/0rfHrRTo1/ltncqbmVPbP330N5BMSxt+ZTCimUYlVCsQVNTB5Fg9ug==;IByrxFCDNxgLmt1TrAUVug=="
 ---

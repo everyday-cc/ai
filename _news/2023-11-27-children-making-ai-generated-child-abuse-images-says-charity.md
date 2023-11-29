@@ -176,6 +176,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Sports magazine under fire for publishing AI-written articles crediting non-existent authors"
+    excerpt: "The Sports Illustrated magazine is under fire for carrying articles written using artificial intelligence, crediting authors who do not seem to exist."
+    publishedDateTime: 2023-11-29T05:14:00Z
+    webUrl: "https://www.aol.com/news/sports-magazine-under-fire-publishing-051451491.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 28
+    images:
+      - url: "https://media.zenfs.com/en/aol_the_independent_uk_548/daeaf4c8d18af62db59a3c17863eecbf"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Students display AI-generated art works through December"
     excerpt: "“I see AI-generated art differently though: one uses one’s creativity to imagine possible scenes, then one types words to start the AI making your picture.” Ward said that each picture began with a student’s idea, and the AI did the painting ..."
     publishedDateTime: 2023-11-27T13:26:00Z

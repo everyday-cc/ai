@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/pika-labs-raises-55m-launches-new-ai-vi
 webUrl: "https://venturebeat.com/ai/pika-labs-raises-55m-launches-new-ai-video-platform-to-take-on-runway/"
 type: article
 quality: 67
-heat: 78
+heat: 77
 published: true
 
 provider:

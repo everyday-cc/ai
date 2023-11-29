@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/carolynrosenblatt/2023/11/25/risks-of-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolynrosenblatt/2023/11/25/risks-of-ai-in-healthcare-come-to-light/amp/"
 type: article
 quality: 104
-heat: 244
+heat: 254
 published: true
 
 provider:
@@ -198,6 +198,15 @@ related:
     provider:
       name: Politico
       domain: politico.com
+    quality: 19
+  - title: "Health Care Policy Stakeholders Testify on the Use of AI in Health Care"
+    excerpt: "Health care industry stakeholders testify on the use of artificial intelligence (AI) in health care before the House Energy and Commerce Subcommittee on Health. Officials with the White House, Defense, and Homeland Security departments testified on how ..."
+    publishedDateTime: 2023-11-29T06:06:00Z
+    webUrl: "https://www.c-span.org/video/?532100-1/health-care-policy-stakeholders-testify-ai-health-care"
+    type: article
+    provider:
+      name: c-span
+      domain: c-span.org
     quality: 19
   - title: "The fight for the soul of AI"
     excerpt: "Can one organization, or one person, maintain the brain of a scientist, the drive of a capitalist and the cautious heart of a regulatory agency?"

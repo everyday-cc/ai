@@ -7,8 +7,8 @@ originalUrl: "https://itwire.com/guest-articles/guest-research/artificial-intell
 webUrl: "https://itwire.com/guest-articles/guest-research/artificial-intelligence,-sustainability-lead-data-centre-trends-in-2024.html"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: ITWire
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "MPU-Bell Centre of English Organizes AI Creative English Language Teaching Forum"
-    excerpt: "Entering its 21st year, the MPU-Bell Centre of English will continue to provide high-quality English training for local and mainland universities and schools, and offer a more diverse range of international English examination certifications, aiming to contribute to positioning Macao as a base for English training and international examinations."
-    publishedDateTime: 2023-11-28T11:53:00Z
-    webUrl: "https://www.gcs.gov.mo/detail/en/N23KbFkM7b"
-    type: article
-    provider:
-      name: 澳门特别行政区政府
-      domain: gcs.gov.mo
-    quality: 34
-    images:
-      - url: "https://www.gcs.gov.mo/fp/N23KbFkM7b_f20231128153713qAjI/m/"
-        width: 500
-        height: 281
-        isCached: true
   - title: "Call centres set for disruption as AI take-up grows"
     excerpt: "Call centres are set for a shake-up as AI and chat bots replace lower-level staff ... says we’ll be better off as companies start changing the skill sets of those handling your complaints. “The original business model was, if you like, a fairly ..."
     publishedDateTime: 2023-11-28T04:56:00Z

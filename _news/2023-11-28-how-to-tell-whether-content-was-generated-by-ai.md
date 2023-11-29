@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/11/28/how-to
 webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/11/28/how-to-tell-whether-content-was-generated-by-ai/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,15 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "The 3 biggest risks from generative AI - and how to deal with them"
-    excerpt: "Also: The ethics of generative AI: How we can harness this powerful technology Add in ethical issues and fears that models can be biased, and business leaders face a confluence of input and output risks. Litan says executives managing the rollout of ..."
-    publishedDateTime: 2023-11-27T20:12:00Z
-    webUrl: "https://www.zdnet.com/article/the-3-biggest-risks-from-generative-ai-and-how-to-deal-with-them/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 49
   - title: "Here are the best AI content detectors to use"
     excerpt: "Here are the top AI content detectors available, their use cases, and their respective advantages and limitations."
     publishedDateTime: 2023-11-28T12:57:00Z

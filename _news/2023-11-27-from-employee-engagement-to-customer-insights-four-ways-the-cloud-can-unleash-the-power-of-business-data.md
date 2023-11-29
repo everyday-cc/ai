@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "US – AI Insights: Court Grants Motion To Dismiss In Kadrey AI Training Data Case."
-    excerpt: "Court Grants Motion To Dismiss In Kadrey AI Training Data Case. Legal News and Analysis - USA - Telecommunications, Media & Technology -"
-    publishedDateTime: 2023-11-24T05:22:00Z
-    webUrl: "https://conventuslaw.com/report/us-ai-insights-court-grants-motion-to-dismiss-in-kadrey-ai-training-data-case/"
-    type: article
-    provider:
-      name: Conventus Law
-      domain: conventuslaw.com
-    quality: 34
-    images:
-      - url: "https://conventuslaw.com/wp-content/uploads/2023/02/3-1.jpg"
-        width: 1748
-        height: 1240
-        isCached: true
 
 secured: "261l1atJpdpqbLH9mkEyqLAiZjvdgV0MNkgnGSFnSwlN0q4GkwAnnw7/2WDC75IO3QsviTrnka95XkbRJ1JmWuI0TWzh6hXkxI4Kk4hSF+NqcIBDIw+bapL0V21Wc9nvlMNfBZh9ffCtphqVdpMD4Mj6yENo/Zl+/HUJ4yOpQi8SO7nzy8nO+zuFkQqWZPIAnmJs+RDXQMgR11uhLouNgiLK5jkZtejuHscp8MLzFwvOxJLSNCSPwhdBaLzFJr7xwHCJIxoSraUT1rBqmWOKx/jgI1eTxoOXv4Pgb/trZTBEYqaqCl1mLch0o2at2ZeacDMhjx4Jf42NezwT2EiNCESQlgtx38R7gWmNhycnznXmapwDashZ0wgoI7/dNBWeu0hXO4fkyTcDgnbQb63bTwVokbNgw2qSnRTLKNhjUBhDRlJPERIWpzDcjnq7zbwYV0D175RRAs8jgBr+7X3LDXA5+ssPQ2KKZcasfAiYg7YQBWiud4kRtwlk88gD5cLn44Dcq6H/MNVvn5rYC6Uq9A==;mFCACcuch4UEQsfCHmWG0Q=="
 ---

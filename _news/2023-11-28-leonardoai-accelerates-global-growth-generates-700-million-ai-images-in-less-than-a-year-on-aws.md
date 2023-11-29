@@ -41,6 +41,20 @@ related:
         width: 640
         height: 358
         isCached: true
+  - title: "Amazon Q AI AWS chatbot for businesses launches"
+    excerpt: "Amazon has today launched a new AI powered assistant specifically designed for IT professionals ... you through every stage of AWS application development. From the initial research to the intricacies of coding and optimization, Amazon Q has been designed ..."
+    publishedDateTime: 2023-11-29T00:00:00Z
+    webUrl: "https://www.geeky-gadgets.com/amazon-q-ai-aws/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 56
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/11/Amazon-Q-AI.jpg"
+        width: 1280
+        height: 719
+        isCached: true
   - title: "How gen AI is assisting payment scams"
     excerpt: "Cybercrime-as-a-service tools are using generative artificial intelligence in new ways to crack payment card security, according to a new report from Arkose Labs."
     publishedDateTime: 2023-11-28T00:40:00Z

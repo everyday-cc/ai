@@ -27,15 +27,6 @@ related:
       name: Voxy
       domain: voxy.co.nz
     quality: 21
-  - title: "Samsung Announces Galaxy AI"
-    excerpt: "Introducing new AI-powered features and their own Generative AI model called Samsung Gauss, Samsung ushers in a new era of Galaxy AI."
-    publishedDateTime: 2023-11-28T01:58:00Z
-    webUrl: "https://www.geekzone.co.nz/content.asp?contentid=26972"
-    type: article
-    provider:
-      name: Geekzone
-      domain: geekzone.co.nz
-    quality: 19
 
 secured: "n9XQbfh83ELbe4XYS+YRHMybmaxgvf4R4efQrtPaGWHwXrdZeWB8XHUE6/xquMDWaRWUhiy6BrIDVlGxr0bz7YoHNnpew5HNeHqe3NalX6YwIkjVRYyicjyn9KBDJsZh9iGjj7QWGm1QnpqGoCClX2hNru3W0A9HQkF0ySTX/Bo3FYFk8Dt8B+R6LLrPkZdXCvc3qsysJ5FympuLfC6ilVvemtW5EUlAwHvhAkP++9hOeI22XJ5dhXQZyHifZcEMwsmqHxRRQugextEDVM+8xAVBsEdXXiwy/LDYiq5NieH6vGaffhfeuB6FbiLlkRwDayCvGQOVXXa+/PXu9uor+/BUPPRd0Bh+F/HsveC2/x8jSFx6FxcVSL3v9inaOySO/Rdbr8nEYN7E9mK5i+0PgRHYagDfvdxhZzGOJC7fcz3wM//GXgaLzLs2r3nglcX/XIEzNiS6honbg9BrM0yEPxEUe0N3G8a5/cBcoaLaOzoxG7d2W2aJNKHlQA0fEUwBH9yV59K4SOH5f/GufMljGA==;L/ak85NXKwi0lKdpUuRGQA=="
 ---

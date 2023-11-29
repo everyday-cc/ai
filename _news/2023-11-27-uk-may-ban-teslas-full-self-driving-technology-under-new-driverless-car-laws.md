@@ -41,6 +41,20 @@ related:
         width: 2250
         height: 1265
         isCached: true
+  - title: "Tesla ‘faces ban’ on selling self-driving cars in Britain"
+    excerpt: "Tesla faces a ban on selling its full self-driving technology in Britain under new driverless car laws, in a setback to Elon Musk’s plans for millions of robot-driven vehicles. The Department ..."
+    publishedDateTime: 2023-11-26T12:11:00Z
+    webUrl: "https://www.telegraph.co.uk/business/2023/11/25/tesla-faces-ban-selling-driverless-cars-uk/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 54
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/business/2023/11/25/TELEMMGLPICT000355128958_17009160421870_trans_NvBQzQNjv4Bq7LnrSh0eiaznpeiDCnhZy3c7rQm4hivEUySrZrMt8RA.jpeg?impolicy=logo-overlay"
+        width: 1024
+        height: 536
+        isCached: true
   - title: "3 Self-Driving Stocks That Can Take the Wheel From Tesla"
     excerpt: "The gap Tesla left is now a handful of self-driving stocks racing to the finish line in an attempt to become the go-to consumer name in autonomous driving. Though many are competing, only a handful will come out on top—and these three self-driving stocks have what it takes to reach the winner’s circle."
     publishedDateTime: 2023-11-26T08:41:00Z

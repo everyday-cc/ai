@@ -20,15 +20,6 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Samsung Announces Galaxy AI"
-    excerpt: "Introducing new AI-powered features and their own Generative AI model called Samsung Gauss, Samsung ushers in a new era of Galaxy AI."
-    publishedDateTime: 2023-11-28T01:58:00Z
-    webUrl: "https://www.geekzone.co.nz/content.asp?contentid=26972"
-    type: article
-    provider:
-      name: Geekzone
-      domain: geekzone.co.nz
-    quality: 19
   - title: "Samsung basically just confirmed the Galaxy S24 will be its first AI phone"
     excerpt: "Samsung trying to trademark \"AI Phone\" is a clear indication that the Galaxy S24 series will be the first Galaxy AI phone."
     publishedDateTime: 2023-11-27T11:50:00Z

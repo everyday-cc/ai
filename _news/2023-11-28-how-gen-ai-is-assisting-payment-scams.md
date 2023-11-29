@@ -40,6 +40,20 @@ related:
         width: 640
         height: 358
         isCached: true
+  - title: "Amazon Q AI AWS chatbot for businesses launches"
+    excerpt: "Amazon has today launched a new AI powered assistant specifically designed for IT professionals ... you through every stage of AWS application development. From the initial research to the intricacies of coding and optimization, Amazon Q has been designed ..."
+    publishedDateTime: 2023-11-29T00:00:00Z
+    webUrl: "https://www.geeky-gadgets.com/amazon-q-ai-aws/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 56
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/11/Amazon-Q-AI.jpg"
+        width: 1280
+        height: 719
+        isCached: true
   - title: "Leonardo.Ai Accelerates Global Growth, Generates 700 Million AI Images in Less Than a Year on AWS"
     excerpt: "Amazon Web Services (AWS), an Amazon.com company, today announced that Leonardo.Ai, an Australian generative artificial intelligence (generative AI) content"
     publishedDateTime: 2023-11-28T10:17:00Z

@@ -39,20 +39,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Deloitte’s Bolt-on 2.0 migrates to AWS"
-    excerpt: "Deloitte’s Bolt-on 2.0 migrates to AWS to optimise tax reporting and supply chain processes for businesses in India"
-    publishedDateTime: 2023-11-24T05:29:00Z
-    webUrl: "https://technuter.com/channel-news/deloittes-bolt-on-2-0-migrates-to-aws.html"
-    type: article
-    provider:
-      name: technuter.com
-      domain: technuter.com
-    quality: 39
-    images:
-      - url: "https://technuter.com/wp-content/uploads/2019/03/aws-logo.jpg"
-        width: 277
-        height: 239
-        isCached: true
 
 secured: "mtZJD8hQ1GOoa2Ccm2DfWY2hq8iJRI654lViFm/2WQPg3wDE86FvLw/yLI8iSQ0bFGr1t6OXu28UYLu4BunCyBUNFApWr+WjhzbqOzD+keknXTnJ5WMk13XDhpkSaS4ptPzMLVqTX1zlwHHaqh5iqO9egFVjBt92BKV0OO0muho68uX6h7z+06nnXx49yHOuLXGWODRpBRE7GpaxG6IfbH3cYSMDKNr0f0XYltwIMMrPi9IJ4B1rGYuLAuGwd0Ej+zxGIpBrTXlGYLeQX2XmzhpKsIDpWc0yInWMuvOZOM/VG8SRnMfltpbKR+/DNQF1yqnNt6Qdl3zaewMqcWhuqIL/UUMTK6j9S0GgLaeoLn0=;slOVCsOrD9pxl4M4wM52Xg=="
 ---

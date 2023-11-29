@@ -7,7 +7,7 @@ originalUrl: "https://www.houstonchronicle.com/news/article/writing-instructors-
 webUrl: "https://www.houstonchronicle.com/news/article/writing-instructors-are-less-afraid-of-students-18519174.php"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -19,62 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "6 Alternatives To ChatGPT"
-    excerpt: "In the short 12 months since its launch, generative AI platform ChatGPT has become the most widely recognised AI language model. According to a recent Forb"
-    publishedDateTime: 2023-11-28T10:28:00Z
-    webUrl: "https://www.forbes.com/uk/advisor/business/software/alternatives-to-chatgpt/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 71
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/uk/advisor/wp-content/uploads/2023/11/image1-4.jpg"
-        width: 1999
-        height: 1232
-        isCached: true
-  - title: "ChatGPT's First Year: Udemy Data Highlights Unprecedented Global Demand for Generative AI Skills"
-    excerpt: "We believe Udemy was the first global learning platform to provide content on learning generative AI skills, with a ChatGPT course on Udemy just 11 days after its launch,” said Scott Rogers, Senior Vice President of Supply Strategy at Udemy."
-    publishedDateTime: 2023-11-28T17:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/chatgpt-s-first-year-udemy-data-highlights-unprecedented-global-demand-for-generative-ai-skills-1032855703"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 71
-    images:
-      - url: "https://ml.globenewswire.com/Resource/Download/6707632d-778b-440c-9fe9-7b633bf2a020"
-        width: 1200
-        height: 550
-        isCached: true
-  - title: "Try the ChatGPT ‘Make It More’ Trend and Generate Absurd AI Images"
-    excerpt: "AI art generators are in a weird place. They can attempt to make just about anything you can think of, from a dog skateboarding in outer space, to a cup of coffee floating in the ocean. Putting the ethics of AI art aside, some of these creations do not hit ..."
-    publishedDateTime: 2023-11-28T00:00:00Z
-    webUrl: "https://lifehacker.com/tech/chat-gpt-make-it-more-ai-images-trend"
-    type: article
-    provider:
-      name: Lifehacker
-      domain: lifehacker.com
-    quality: 56
-    images:
-      - url: "https://lifehacker.com/imagery/articles/01HGBQS23N1QDMYX4N8FJAYHDF/hero-image.fill.size_1200x675.png"
-        width: 1200
-        height: 674
-        isCached: true
-  - title: "ChatGPTFails a Moral Choice Problem"
-    excerpt: "His blog Nextbigfuture.com is ranked #1 Science News Blog. It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge ..."
-    publishedDateTime: 2023-11-25T23:16:00Z
-    webUrl: "https://www.nextbigfuture.com/2023/11/chatgptfails-a-moral-choice-problem.html"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 39
-    images:
-      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2023/11/Screen-Shot-2023-11-25-at-5.07.17-PM.jpg"
-        width: 594
-        height: 330
-        isCached: true
   - title: "Study shows ChatGPT writes better school essays than students"
     excerpt: "In a study published in Scientific Reports, a research team from the University of Passau compared the quality of machine-generated content with essays written by secondary school students. The upshot: The AI-based chatbot performed better across all criteria,"
     publishedDateTime: 2023-11-27T17:43:00Z
@@ -84,15 +28,6 @@ related:
       name: techxplore
       domain: techxplore.com
     quality: 21
-  - title: "Elon Musk Unveils New Artificial Intelligence Bot to Rival ChatGPT – TIME"
-    excerpt: "Elon Musk revealed his own artificial intelligence bot to challenge ChatGPT, claiming the prototype is already superior to ChatGPT 3.5 across several"
-    publishedDateTime: 2023-11-24T20:22:00Z
-    webUrl: "https://www.inferse.com/804736/elon-musk-unveils-new-artificial-intelligence-bot-to-rival-chatgpt-time/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 16
 
 secured: "29x27lqF4lIuyIvxJbJu7bylAyFL0ay8xxueVA95A4JG0eqGd5/8cmr+y7UXkbIkNolUY1bpjbn+aC/mkv0OySkU0DQaaukvKTS6WZ53SercCAxktdwbhB9zLtML4HPeHKeb2LghtROQLZkeolpu8fPjBe20eVBovYuejTJV7e9ima/2A/OO+yLYraiLqikG9b6jPDHGWayN0QgTudJ/52NEB2vyaO3SVmsAph7mP5t1J+JnjeT2wSfsL+xZquJ/U6JCOjOmI1WyaDkr0GrNnhdxDnNmDOmFguyIy5A2byPdOAP6BO4o9MyqeF6apQxPg/Z9ptoUNMTE2AP9XnWjcMbMJ4LZt5cELRhbsaKWa9Q=;b/dTWdo1bHI1Ua3OUEmFPg=="
 ---

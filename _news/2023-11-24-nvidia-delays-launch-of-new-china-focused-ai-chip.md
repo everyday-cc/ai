@@ -151,22 +151,6 @@ related:
         width: 4686
         height: 2661
         isCached: true
-  - title: "Nvidia delays launch of new China-focused AI chip: Sources"
-    excerpt: "Nvidia has told customers in China it is delaying the launch of a new artificial intelligence chip it designed to comply with US export rules until th"
-    publishedDateTime: 2023-11-24T06:06:00Z
-    webUrl: "https://timesofindia.indiatimes.com/business/international-business/nvidia-delays-launch-of-new-china-focused-ai-chip-sources/articleshow/105464770.cms"
-    ampWebUrl: "https://m.timesofindia.com/business/international-business/nvidia-delays-launch-of-new-china-focused-ai-chip-sources/amp_articleshow/105464770.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/international-business/nvidia-delays-launch-of-new-china-focused-ai-chip-sources/amp_articleshow/105464770.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-105464858,width-1070,height-580,imgsize-32714,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1069
-        height: 580
-        isCached: true
   - title: "NVIDIA delays the launch of new AI chips focused on China"
     excerpt: "The delayed chip is the H20, the most powerful of three China-focused chips Nvidia has developed to comply with fresh US export restrictions, the sources said, and could complicate its efforts to preserve market share in China against local rivals like Huawei,"
     publishedDateTime: 2023-11-24T09:49:00Z
@@ -240,15 +224,6 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 66
-  - title: "Exclusive-Nvidia Delays Launch of New China-Focused AI Chip -Sources"
-    excerpt: "The H20, L20 and L2 include most of Nvidia's newest features for AI work, but have had some of their computing power measures cut back to comply with new U.S. rules, according to SemiAnalysis' analysis of the chips' specifications."
-    publishedDateTime: 2023-11-24T05:53:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2023-11-24/exclusive-nvidia-delays-launch-of-new-china-focused-ai-chip-sources"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 64
   - title: "Nvidia Delays AI Chip Launch in China Amid Export Rule Compliance"
     excerpt: "Nvidia has informed its Chinese customers of a delay in the launch of its anticipated artificial intelligence (AI) chip, the H20."
     publishedDateTime: 2023-11-25T05:59:00Z

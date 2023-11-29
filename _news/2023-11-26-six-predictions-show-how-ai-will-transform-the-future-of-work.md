@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zawya.com/en/business/technology-and-telecom/six-predict
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/technology-and-telecom/six-predictions-show-how-ai-will-transform-the-future-of-work-cwdvz88j?amp=1"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Zawya
@@ -39,20 +39,6 @@ related:
       - url: "https://assets.medpagetoday.net/media/images/107xxx/107557.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "How will AI technologies shape the future of video content creation?"
-    excerpt: "AI is changing virtually every industry imaginable.New AI-driven technologies and platforms are shifting the speed at which we operate, what we can accomplish, and even what and how we perceive content."
-    publishedDateTime: 2023-11-24T06:27:00Z
-    webUrl: "https://techbullion.com/how-will-ai-technologies-shape-the-future-of-video-content-creation/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 39
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/11/How-will-AI-technologies-shape-the-future-of-video-content-creation.png"
-        width: 512
-        height: 338
         isCached: true
 
 secured: "tPHLJWPwgtXa1jTDig17uQW5eDmEocQuu+ge0r3UGIs+lqIZA+MMz7OxCp7aJxjDuTvgk/1iDUYzchXYoKCEHb3wTNHsw90esy2KumDlvu3JIKx4UCDCtfGKZ4pDcoOPaV2gpafZUYBeXm2oMcukd9IcNhgwWw+c9qT7uUOTND6aq++yJgnFGlCS17pITI8S7YMojtgBiddbTJv0MhVA4Dt6IRNm/qUXfaRS+l9OZO69sNKPgtSKXK2wkJfhyDP6qkjbcwjC2FVHCX8+OHxyrCKXQOdGKcp9cUKsemdWCFH3CUVSCw91x4Sl/KlexwuzEAiRQflh1mxmR9KSMahtkhO5m1i8hVddnmaLHv9+QmI=;f6FXQ5uDGmQU42DgICG7Ig=="

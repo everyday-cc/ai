@@ -25,59 +25,57 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Debuts Custom Chips for Cloud and AI: Azure Maia AI Accelerator and Azure Cobalt CPU"
-    excerpt: "During the recent Ignite conference, Microsoft introduced two custom-designed chips for their cloud infrastructure: Microsoft Azure Maia AI Accelerator (Athena), optimized for artificial intelligence (AI) tasks and generative AI,"
-    publishedDateTime: 2023-11-25T11:06:00Z
-    webUrl: "https://www.infoq.com/news/2023/11/azure-custom-chips-cobalt-maia/"
+  - title: "The best online courses for AI, ChatGPT, Midjourney, and more"
+    excerpt: "TL;DR: Find the best online courses on AI, ChatGPT, Midjourney, and more on Udemy. Are you absolutely terrified of the seemingly inevitable rise of AI? You're not alone. This technology is causing a lot of controversy and genuine concern, but what's clear is that it isn't going anywhere."
+    publishedDateTime: 2023-11-29T05:01:00Z
+    webUrl: "https://mashable.com/article/best-ai-courses"
     type: article
     provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 74
+      name: Mashable
+      domain: mashable.com
+    quality: 84
     images:
-      - url: "https://res.infoq.com/news/2023/11/azure-custom-chips-cobalt-maia/en/headerimage/generatedHeaderImage-1700598494312.jpg"
+      - url: "https://helios-i.mashable.com/imagery/articles/02nIhjWsO4c7nWMwnLfrXdE/hero-image.fill.size_1200x675.v1701190561.jpg"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "Microsoft Announces 100 New Services, Updates to Help Accelerate AI Transformation"
-    excerpt: "Microsoft has said it introduced around 100 new services and updates as part of its AI-forward strategy, including key developments within its productivity and security offerings. The announcements were made at Microsoft Ignite 2023 – the company’s annual conference for developers and IT professionals, according to a statement by the company."
-    publishedDateTime: 2023-11-25T10:38:00Z
-    webUrl: "https://www.thisdaylive.com/index.php/2023/11/25/microsoft-announces-100-new-services-updates-to-help-accelerate-ai-transformation"
-    ampWebUrl: "https://www.thisdaylive.com/index.php/2023/11/25/microsoft-announces-100-new-services-updates-to-help-accelerate-ai-transformation"
-    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2023/11/25/microsoft-announces-100-new-services-updates-to-help-accelerate-ai-transformation"
+  - title: "6 Alternatives To ChatGPT"
+    excerpt: "In the short 12 months since its launch, generative AI platform ChatGPT has become the most widely recognised AI language model. According to a recent Forb"
+    publishedDateTime: 2023-11-28T10:28:00Z
+    webUrl: "https://www.forbes.com/uk/advisor/business/software/alternatives-to-chatgpt/"
     type: article
     provider:
-      name: This Day
-      domain: thisdaylive.com
-    quality: 68
+      name: Forbes
+      domain: forbes.com
+    quality: 71
     images:
-      - url: "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/microsoft.jpg"
-        width: 800
-        height: 450
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/uk/advisor/wp-content/uploads/2023/11/image1-4.jpg"
+        width: 1999
+        height: 1232
         isCached: true
-  - title: "Microsoft’s AI-powered Bing is coming for Google’s Bard-infused … – Vox.com"
-    excerpt: "Google bookended Microsoft’s big AI search announcement with underwhelming AI news of its own.Microsoft has officially taken the lead in the race"
-    publishedDateTime: 2023-11-27T15:22:00Z
-    webUrl: "https://www.inferse.com/806674/microsofts-ai-powered-bing-is-coming-for-googles-bard-infused-vox-com/"
+  - title: "Try the ChatGPT ‘Make It More’ Trend and Generate Absurd AI Images"
+    excerpt: "AI art generators are in a weird place. They can attempt to make just about anything you can think of, from a dog skateboarding in outer space, to a cup of coffee floating in the ocean. Putting the ethics of AI art aside, some of these creations do not hit ..."
+    publishedDateTime: 2023-11-28T00:00:00Z
+    webUrl: "https://lifehacker.com/tech/chat-gpt-make-it-more-ai-images-trend"
+    type: article
+    provider:
+      name: Lifehacker
+      domain: lifehacker.com
+    quality: 56
+    images:
+      - url: "https://lifehacker.com/imagery/articles/01HGBQS23N1QDMYX4N8FJAYHDF/hero-image.fill.size_1200x675.png"
+        width: 1200
+        height: 674
+        isCached: true
+  - title: "Elon Musk Unveils New Artificial Intelligence Bot to Rival ChatGPT – TIME"
+    excerpt: "Elon Musk revealed his own artificial intelligence bot to challenge ChatGPT, claiming the prototype is already superior to ChatGPT 3.5 across several"
+    publishedDateTime: 2023-11-24T20:22:00Z
+    webUrl: "https://www.inferse.com/804736/elon-musk-unveils-new-artificial-intelligence-bot-to-rival-chatgpt-time/"
     type: article
     provider:
       name: Inferse
       domain: inferse.com
-    quality: 54
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-14258.png"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Good AI, bad AI: Decoding responsible artificial intelligence"
-    excerpt: "Artificial intelligence (AI) is so hot right now. ChatGPT, DALL-E, and other AI-driven platforms are providing us with completely new ways of working. Generative AI is writing everything from cover letters to campaign strategies and creating impressive images from scratch."
-    publishedDateTime: 2023-11-24T19:17:00Z
-    webUrl: "https://techxplore.com/news/2023-11-good-ai-bad-decoding-responsible.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 34
+    quality: 16
 
 secured: "aYtG9MFVDC6417U/wqevCG/J+2xU+cwr06SuyaWGmPmLg3uSu7kb9gsdrRsHXeqhN36JO43m3kkM6J2Zi6yl7oW+RqloQ0avuYB2/LQCoQ2Bz/uA5o1JPB72SrCWfymjUcSWL0u3zo/DHX/7IQPdNIEtWbzdUQ/6U8CH2IrM90QxiFmiet+mzjcpKyMKzLLruV23vr8QIqHnNwW+Bya4TxP4qNDit2rLTaDv5yykrWoitCR5PI/1OkFd8g3x89YsZ8RtJ1YhTwffiII92EtGe//IQMI7rmxDlK3BF88RnkHi/nrUBztnE0q0LaCoLcWIEcncB8+hfOMNicvsVG7XWyxQqRfIdJVjB3LfwCmSEHI=;kjy2U2E56UY+V7ZMQDVziA=="
 ---

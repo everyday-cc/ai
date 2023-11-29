@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/security-solutions-and-consulting-service
 webUrl: "https://www.ibm.com/blog/security-solutions-and-consulting-services-for-generative-ai/"
 type: article
 quality: 120
-heat: 350
+heat: 360
 published: true
 
 provider:
@@ -206,6 +206,20 @@ related:
       - url: "https://biz-file.com/c/2311/720377-1200x624.jpg?3"
         width: 1200
         height: 624
+        isCached: true
+  - title: "Inside AWS re:Invent: Adam Selipsky’s keynote and the battle for AI supremacy"
+    excerpt: "In the eleventh edition of on-site coverage of AWS re:Invent, our analysts break down the conference’s kickoff keynotes as the battle for AI supremacy heats up amongst the hyperscalers."
+    publishedDateTime: 2023-11-28T23:36:00Z
+    webUrl: "https://siliconangle.com/2023/11/28/inside-aws-reinvent-adam-selipskys-keynote-battle-ai-supremacy-supercloud5/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 51
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/Day-1-Keynote-Analysis-Supercloud-5-November-2023.jpg"
+        width: 5472
+        height: 3648
         isCached: true
   - title: "A re:Invent exclusive: AWS CEO Adam Selipsky to reveal a new generative AI stack"
     excerpt: "As the rush to generative artificial intelligence only gains more momentum every day, Amazon Web Services Inc. Chief Executive Adam Selipsky think there’s one core capability to ensure it fulfills its promise: adaptability."

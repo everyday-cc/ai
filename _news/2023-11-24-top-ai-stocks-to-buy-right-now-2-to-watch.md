@@ -22,7 +22,7 @@ related:
   - title: "Artificial Intelligence: The Top AI Stocks to Buy and Hold for New Year 2024"
     excerpt: "By now, you’re well aware of the artificial intelligence boom. You know Big Tech has been investing billions of dollars into it. Microsoft, for example, invested about $13 billion in Open AI. Even the industry’s 800 lb."
     publishedDateTime: 2023-11-28T16:00:00Z
-    webUrl: "https://www.baystreet.ca/stockstowatch/16518/Artificial-Intelligence-The-Top-AI-Stocks-to-Buy-and-Hold-for-New-Year-2024"
+    webUrl: "https://www.baystreet.ca/articles/stockstowatch/92814/Artificial-Intelligence-The-Top-AI-Stocks-to-Buy-and-Hold-for-New-Year-2024"
     type: article
     provider:
       name: BayStreet

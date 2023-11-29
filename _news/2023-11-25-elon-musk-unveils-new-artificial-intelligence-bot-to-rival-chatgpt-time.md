@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "The best online courses for AI, ChatGPT, Midjourney, and more"
+    excerpt: "TL;DR: Find the best online courses on AI, ChatGPT, Midjourney, and more on Udemy. Are you absolutely terrified of the seemingly inevitable rise of AI? You're not alone. This technology is causing a lot of controversy and genuine concern, but what's clear is that it isn't going anywhere."
+    publishedDateTime: 2023-11-29T05:01:00Z
+    webUrl: "https://mashable.com/article/best-ai-courses"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 84
+    images:
+      - url: "https://helios-i.mashable.com/imagery/articles/02nIhjWsO4c7nWMwnLfrXdE/hero-image.fill.size_1200x675.v1701190561.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "6 Alternatives To ChatGPT"
     excerpt: "In the short 12 months since its launch, generative AI platform ChatGPT has become the most widely recognised AI language model. According to a recent Forb"
     publishedDateTime: 2023-11-28T10:28:00Z
@@ -32,19 +46,19 @@ related:
         width: 1999
         height: 1232
         isCached: true
-  - title: "ChatGPT's First Year: Udemy Data Highlights Unprecedented Global Demand for Generative AI Skills"
-    excerpt: "We believe Udemy was the first global learning platform to provide content on learning generative AI skills, with a ChatGPT course on Udemy just 11 days after its launch,” said Scott Rogers, Senior Vice President of Supply Strategy at Udemy."
-    publishedDateTime: 2023-11-28T17:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/chatgpt-s-first-year-udemy-data-highlights-unprecedented-global-demand-for-generative-ai-skills-1032855703"
+  - title: "Microsoft Adds ChatGPT AI To Windows 11's Command Line, But There's A Catch"
+    excerpt: "ChatGPT's AI capabilities in the Windows Terminal can come in handy for explaining errors, generating commands and providing recommendations."
+    publishedDateTime: 2023-11-27T07:43:00Z
+    webUrl: "https://www.ibtimes.co.uk/microsoft-adds-chatgpt-ai-windows-11s-command-line-theres-catch-1721824"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 71
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 67
     images:
-      - url: "https://ml.globenewswire.com/Resource/Download/6707632d-778b-440c-9fe9-7b633bf2a020"
-        width: 1200
-        height: 550
+      - url: "https://d.ibtimes.co.uk/en/full/1717654/chatgpt.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Try the ChatGPT ‘Make It More’ Trend and Generate Absurd AI Images"
     excerpt: "AI art generators are in a weird place. They can attempt to make just about anything you can think of, from a dog skateboarding in outer space, to a cup of coffee floating in the ocean. Putting the ethics of AI art aside, some of these creations do not hit ..."
@@ -60,38 +74,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "ChatGPTFails a Moral Choice Problem"
-    excerpt: "His blog Nextbigfuture.com is ranked #1 Science News Blog. It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge ..."
-    publishedDateTime: 2023-11-25T23:16:00Z
-    webUrl: "https://www.nextbigfuture.com/2023/11/chatgptfails-a-moral-choice-problem.html"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 39
-    images:
-      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2023/11/Screen-Shot-2023-11-25-at-5.07.17-PM.jpg"
-        width: 594
-        height: 330
-        isCached: true
-  - title: "Writing instructors are less afraid of students cheating with ChatGPT than you might think"
-    excerpt: "While some educators do worry about students cheating, they also have another fear in common: AI’s potential to take over human jobs. And as far as teaching, many educators also see the bright side. They say they actually enjoy using the revolutionary technology to enhance what they do."
-    publishedDateTime: 2023-11-28T19:04:00Z
-    webUrl: "https://www.houstonchronicle.com/news/article/writing-instructors-are-less-afraid-of-students-18519174.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 24
-  - title: "Study shows ChatGPT writes better school essays than students"
-    excerpt: "In a study published in Scientific Reports, a research team from the University of Passau compared the quality of machine-generated content with essays written by secondary school students. The upshot: The AI-based chatbot performed better across all criteria,"
-    publishedDateTime: 2023-11-27T17:43:00Z
-    webUrl: "https://techxplore.com/news/2023-11-chatgpt-school-essays-students.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 21
 
 secured: "8zIZxJITxHjQW5ONtz0CViJzUXnEeRo/xx4nxwsDjdIpai/7qkhCxvq0lMNxhclMO/4EASvtx3X+DeVvDw70Co4ddsIZTj5mi5x9unlKbvYX6YMWh3Ll7CrSoaf6Cg3L2hvM/j2CjmqcOH2sduXIhUjkwPpkrmhEVwVmh/BgU0ZcwBm5zkIUOOYYK46jqRa65ydzoVVfQYiCgYzdd3guMXAKrM3aUnJj+iXwHmsrduap6mC+mYIcTK7SEny0frTIo5+LHA/+YGrhq/EQdQfADJCgMingF/5D+ig0VUiMtqystUvcOwNDUQKMUhS0f1PLSHy2SyUVqnS9dfpmc4BkZ3S2u/3BFEnsmKstCgreN+y6fwlYKDhpGVeXinW0TBIH8xlpKqCD8QHf/P6XyavD1cWbvURablwGSuOVlkCI6xbdrEnpw5iq35b6ingmfeyQorE0zvHV/XzDwqEhxKl79M9HxQeppNoqKfCnaZTf2M6bGxw3iy8umry/vmxivRgMYwDjpJhMWA9Fo98OioBGsA==;7er6AKzwumn6Wi9SZuDXmg=="
 ---

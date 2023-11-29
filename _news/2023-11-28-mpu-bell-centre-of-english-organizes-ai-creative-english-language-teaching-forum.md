@@ -25,29 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence, sustainability lead data centre trends in 2024"
-    excerpt: "Demand for artificial intelligence (AI) and the pressure to reduce energy consumption, costs, and greenhouse gas emissions loom large over the data centre industry in 2024, predicts digital infrastructure provider Vertiv."
-    publishedDateTime: 2023-11-26T08:05:00Z
-    webUrl: "https://itwire.com/guest-articles/guest-research/artificial-intelligence,-sustainability-lead-data-centre-trends-in-2024.html"
+  - title: "AI robots to aid English education in Seoul schools"
+    excerpt: "Robots powered by artificial intelligence will aid English education in five elementary and middle schools in Seoul starting in March 2024, the Seoul Metropolitan Office of Education said Wednesday. The English tutoring robots will aid students in brushing up their English language knowledge,"
+    publishedDateTime: 2023-11-29T06:15:00Z
+    webUrl: "https://www.koreaherald.com/view.php?ud=20231129000649"
+    ampWebUrl: "https://m.koreaherald.com/amp/view.php?ud=20231129000649"
+    cdnAmpWebUrl: "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20231129000649"
     type: article
     provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 52
+      name: The Korea Herald
+      domain: koreaherald.com
+    quality: 91
     images:
-      - url: "https://itwire.com/media/k2/items/cache/ce32e098a9a3517925dc27eff7ba8a6f_M.jpg"
-        width: 375
-        height: 562
+      - url: "https://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2023%2F11%2F29%2F20231129000642_0.jpg"
+        width: 630
+        height: 408
         isCached: true
-  - title: "Call centres set for disruption as AI take-up grows"
-    excerpt: "Call centres are set for a shake-up as AI and chat bots replace lower-level staff ... says we’ll be better off as companies start changing the skill sets of those handling your complaints. “The original business model was, if you like, a fairly ..."
-    publishedDateTime: 2023-11-28T04:56:00Z
-    webUrl: "https://www.theaustralian.com.au/business/careers/call-centres-set-for-disruption-as-ai-takeup-grows/news-story/66211c2aeb9d1b6baa2e54e0c0664576"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 17
 
 secured: "Xb4AAoIRBmR6sT5SQOAVKeRI0oumMnGm8BE9HNmn8Y9mtn6LO4nsuOAKHHgeT8veZISYG/QD/aYNBuxN4rvgfnRO0hzpNm7LJrWfzoNnCPS0oU8c5YP80a4X/dD7WPCA8N1tUT0oAz8PSgPdyAucXsc9gesMLUdSMj5P2zC5xsc1avTJ3DiQwiEYGvcFn2HiR2xVHjbiTEBqVp/8bial/FmhrMk7I8QbPffZoLT4zd+b36fz/qM+gnZEGQfplaO8DvOY9XEoHYfdEWhT6tBb4SSwgcDZHvnGoyQnqhxzfVsuQFGcx6+Uwg94JEPzHK0e+mziTJI10Eil9v290Ew6zahxeL6Hy9Kj9Lnv5GAtsSo=;Hd3IpsD9s1sorWoIUW2Z4g=="
 ---

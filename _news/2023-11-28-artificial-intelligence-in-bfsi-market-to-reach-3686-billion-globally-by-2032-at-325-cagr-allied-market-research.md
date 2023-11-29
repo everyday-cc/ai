@@ -40,6 +40,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Artificial Neural Network Market to Reach $1.4 Billion by 2032 at 19.9% CAGR: Allied Market Research"
+    excerpt: "Allied Market Research published a report, titled, \" Artificial Neural Network Market by Component (Solution and Service), Deployment Mode (On-premise and Cloud), Enterprise Size (Large Enterprises and Small & Medium-sized Enterprises),"
+    publishedDateTime: 2023-11-28T15:43:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/11/28/9924445.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 24
+    images:
+      - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Emotion Detection And Recognition Market size worth $ 99,086.41 Million, Globally, by 2030 at 12.10% CAGR: Verified Market Research®"
     excerpt: "The \" Global Emotion Detection And Recognition Market Size By Tool Type, By End-user, By Geographic Scope And Forecast \" report has been published by Verified Market Research®. The report provides an in-depth analysis of the global Emotion Detection And Recognition Market, including its growth prospects, market trends, and market challenges."
     publishedDateTime: 2023-11-28T15:53:00Z

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "US – AI Insights: Court Grants Motion To Dismiss In Kadrey AI Training Data Case."
-    excerpt: "Court Grants Motion To Dismiss In Kadrey AI Training Data Case. Legal News and Analysis - USA - Telecommunications, Media & Technology -"
-    publishedDateTime: 2023-11-24T05:22:00Z
-    webUrl: "https://conventuslaw.com/report/us-ai-insights-court-grants-motion-to-dismiss-in-kadrey-ai-training-data-case/"
-    type: article
-    provider:
-      name: Conventus Law
-      domain: conventuslaw.com
-    quality: 34
-    images:
-      - url: "https://conventuslaw.com/wp-content/uploads/2023/02/3-1.jpg"
-        width: 1748
-        height: 1240
-        isCached: true
   - title: "From employee engagement to customer insights: four ways the cloud can unleash the power of business data"
     excerpt: "With the rise of cloud-based tools, analysing data is no longer the sole preserve of developers and scientists. So how can an organisation embed a data-led culture across its workforce?"
     publishedDateTime: 2023-11-27T15:41:00Z

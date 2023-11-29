@@ -202,6 +202,15 @@ related:
       name: Politico
       domain: politico.com
     quality: 19
+  - title: "Health Care Policy Stakeholders Testify on the Use of AI in Health Care"
+    excerpt: "Health care industry stakeholders testify on the use of artificial intelligence (AI) in health care before the House Energy and Commerce Subcommittee on Health. Officials with the White House, Defense, and Homeland Security departments testified on how ..."
+    publishedDateTime: 2023-11-29T06:06:00Z
+    webUrl: "https://www.c-span.org/video/?532100-1/health-care-policy-stakeholders-testify-ai-health-care"
+    type: article
+    provider:
+      name: c-span
+      domain: c-span.org
+    quality: 19
 
 secured: "g7lVS5OkZc9KiiNX/ln8Y0403hoVCmv0vkDDwZp6r2AIiY99aXiKiMn2Ugh14q6PyeypT/eEf/EBhaeCa8xEldkdXPBepjr3//JfMMUmWBymOxxUnewEzx8RqMxXAN6aFLwaQbJdf+guY70JlqKfS/ClVSglgYGC7Q5v9AX2dxy7zaQBQa2Lw4OolegOPb78w9ZoFAjOfnmDhJTHuamJFFFX6KrRrdq28LhUlgciwWw8aDX3W/5SLc8PkIXXTs8UI/iWujAA8ZlYWrd3X1DxHB7TJEu4z6dmlr4FSKltGry4I1A1WTaymrOyIw/LVM0pk+HnuplRWLxOQE1Sh5MDlRLC+P+kThBCzUxWbxERg0666iKIESWldwcBgZ5klEcRwC7J3vs+wl/Nx0dY/w3yuMIl0IRLOwscOEXuoe39UZL+4atHgMMkS5RJRxj/aTz5vRm8hOBlWxbkna79dmfKIPWGjGXrPNHOhahSBg8ejGxRVkytgphNECm7UohQmObesVANG6B/HwjV0H8kHwYwhw==;OPmrVDYA9yMmGroeI+lDOw=="
 ---

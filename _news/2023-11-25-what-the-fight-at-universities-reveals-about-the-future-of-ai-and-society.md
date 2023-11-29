@@ -62,6 +62,22 @@ related:
         width: 958
         height: 768
         isCached: true
+  - title: "The Rise of AI: Jury still out on new tech's use in mental health care, experts say"
+    excerpt: "This is an ongoing series by CNHI and The Cullman Times looking at AI and its potential benefits and concerns in various parts of everyday life."
+    publishedDateTime: 2023-11-29T05:01:00Z
+    webUrl: "https://www.cullmantimes.com/news/the-rise-of-ai-jury-still-out-on-new-techs-use-in-mental-health-care/article_80591464-90b7-51c6-b579-f7674c416def.html"
+    ampWebUrl: "https://www.cullmantimes.com/news/the-rise-of-ai-jury-still-out-on-new-techs-use-in-mental-health-care/article_80591464-90b7-51c6-b579-f7674c416def.amp.html"
+    cdnAmpWebUrl: "https://www-cullmantimes-com.cdn.ampproject.org/c/s/www.cullmantimes.com/news/the-rise-of-ai-jury-still-out-on-new-techs-use-in-mental-health-care/article_80591464-90b7-51c6-b579-f7674c416def.amp.html"
+    type: article
+    provider:
+      name: The Cullman Times
+      domain: cullmantimes.com
+    quality: 53
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/cullmantimes.com/content/tncms/assets/v3/editorial/7/29/729d4832-958c-51ea-bb20-b0d7ac404332/65664abd68a07.image.jpg"
+        width: 509
+        height: 497
+        isCached: true
 
 secured: "zBOVsfB6bKwp/Oi6fcZGuUtkbaL6tErIYxc94Q5a3kgrrJoIpnCeNswyRy2S+Tlwn98h1eCILbwfGHgNpo/0u80ugsyR6D+7m8kOPU7I7sU5fcaBbAs2l8wN/avoCMdSdOF//caab9TSDeKiGNBN3E01DevIJb2JhHnkph7gc2mRkTY5fVgKQSArviF51/3jYwl5bVyvS9dgcuxg2TonN9FAzwTp9262gtim7oNmbL56MCjaCERnHkWQ84WsfOMe2x++z/+PBxxQSQqO0z/VqgyV2ka9pxRzYWDrw7d367LxA0DW54qgItl82vaMq2JhD/xX4AqYPNyyVIEnqOz5lHzVWNQq8WepeBUI8oKHWkNPiUIMgp4+IXP5I3Vzfe1dzyzMy6aAkFYc8c6lLf0nvIqB9aNoAiEKOyc/vh5loWfCwhBUFv2BMyKlHD5ocJgR+TffgQai7H3pX9EGR460pGG2FCvA00FHTUx3b2q+/fijsbB0CNvmm75uuBhcpqm1QpOHTYHfLGkMCb+f0z5ygQ==;feVDNvRtz97/yEwbwG1nQA=="
 ---

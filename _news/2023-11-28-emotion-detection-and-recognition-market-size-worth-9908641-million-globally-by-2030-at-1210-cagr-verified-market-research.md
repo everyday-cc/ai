@@ -35,6 +35,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Artificial Neural Network Market to Reach $1.4 Billion by 2032 at 19.9% CAGR: Allied Market Research"
+    excerpt: "Allied Market Research published a report, titled, \" Artificial Neural Network Market by Component (Solution and Service), Deployment Mode (On-premise and Cloud), Enterprise Size (Large Enterprises and Small & Medium-sized Enterprises),"
+    publishedDateTime: 2023-11-28T15:43:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/11/28/9924445.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 24
+    images:
+      - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Artificial Intelligence in BFSI Market to Reach $ 368.6 Billion, Globally, by 2032 at 32.5%% CAGR: Allied Market Research"
     excerpt: "The increase in need to optimize operational costs and the availability of large data sets to leverage AI-based solutions propel the growth of the artificial intelligence in BFSI market. However, lack of proper connectivity and unavailability of network infrastructure in developing countries for integrating artificial intelligence in BFSI usage,"
     publishedDateTime: 2023-11-28T15:21:00Z

@@ -3,8 +3,8 @@ category: news
 title: "Artificial Intelligence: The Top AI Stocks to Buy and Hold for New Year 2024"
 excerpt: "By now, you’re well aware of the artificial intelligence boom. You know Big Tech has been investing billions of dollars into it. Microsoft, for example, invested about $13 billion in Open AI. Even the industry’s 800 lb."
 publishedDateTime: 2023-11-28T16:00:00Z
-originalUrl: "https://www.baystreet.ca/stockstowatch/16518/Artificial-Intelligence-The-Top-AI-Stocks-to-Buy-and-Hold-for-New-Year-2024"
-webUrl: "https://www.baystreet.ca/stockstowatch/16518/Artificial-Intelligence-The-Top-AI-Stocks-to-Buy-and-Hold-for-New-Year-2024"
+originalUrl: "https://www.baystreet.ca/articles/stockstowatch/92814/Artificial-Intelligence-The-Top-AI-Stocks-to-Buy-and-Hold-for-New-Year-2024"
+webUrl: "https://www.baystreet.ca/articles/stockstowatch/92814/Artificial-Intelligence-The-Top-AI-Stocks-to-Buy-and-Hold-for-New-Year-2024"
 type: article
 quality: 51
 heat: 71
@@ -44,6 +44,6 @@ related:
       domain: businessinsider.com
     quality: 49
 
-secured: "1usF+n2jZBW+pstxu+XfTFST99Ifi8ButwVj6a2TT0S764nrK9ngVDbaSeDI5FH2hJ95ucDLx7S7pwMZsM7MS3mSsYaTO9relhpUzoNiXll6whQvc5qWCMgsZ09X/TnOlUK4p9KqUz+3kbeb6Mj51Yl8BNvPHvddFqxHaRZ4+S1sGdZ/CDx9oQaLldHj0q+rGWEz/53C+2ZhP0F5GsfSqLjWBXHBiPG2QeIQM1v1gAYEP2Pz1wo8qR5pZAxT6YRsTukiK8xqtQGUPWoLRGI5TmVLxMDAafx5C4+I4fqIedV2bCw6obIBrlzrB2oOn5Xw8hpYAQH/Dr10kkeevy6G6+t2OgnthY6VIq3QBMEpvWc2ZxjDc6DosuqASN9kbiScqveZd+ajS8FFVWTwVC8ocAY/yNwaYpssj3v6+y9SMBmWIJCQhIdTQIjDRmKqj0/NDPbzOH02c1GW7CbIDHGI6Vk40qf6SvYMGQTC1DM3gIj6+xTBBuovds+QDz0w3mKkFvAf2gnL1rz6r0VhrV+qfQ==;dYxBIGsWitNeWUICgAkXIA=="
+secured: "ZVKKFT9ysrXEHemBhwKWrCpffNNuK42ah3Vz4/1vweL1wKqCp+pRMGXVZ9lKUYjyiEMIN/0oeGzsMdRanFYy/R+k9FbghBGsIBmrfa4C0W9Uz79XER1hPHpVA920b3CgQ025hk5OWOA8kA+kPL+/oMI7m5wBkmVScPJd4wCSXhSqKO5b2mrQvMZhyMpsAw6qLE0ZSgeN56C9vBs8ReKtli4T2Hb7Sim3sMQDy1PURGFN1ki1b6DkNvuWqz33gtO3mjtFMhjZ1HLEWLpWEjXUaVgaN9vvvYHF23SSrxOC8cWmDxa+1Vs1OCRGq3hmVS6A031nv/vGCXTfa5mmszdyqDDWxVaqhxAbj5x1kkReJMM=;lr3tEokJ1mmOfTn/Gq7zBg=="
 ---
 

@@ -19,24 +19,22 @@ topics:
   - AI
 
 related:
-  - title: "Introducing Samsung Gauss: New era of Galaxy AI"
-    excerpt: "Samsung Electronics ushering in a ‘new era of Galaxy AI,’ assuming a comfortable position as a progressive champion within AI consumer technology. Developed in-house, the company recently introduced a Generative AI model called Samsung Gauss,"
-    publishedDateTime: 2023-11-28T00:47:00Z
-    webUrl: "https://www.voxy.co.nz/business/introducing-samsung-gauss-new-era-of-galaxy-ai/4842/"
+  - title: "Samsung R&D Institute sets up lab at VIT, Vellore for AI, machine learning, data engineering projects"
+    excerpt: "VIT and SRI-B join forces to set up 'Samsung SEED Lab' for students and faculty to work on AI, ML and data engineering projects. Students and faculty will collaborate with SRI-B engineers to develop cutting-edge tech and publish papers."
+    publishedDateTime: 2023-11-29T06:53:00Z
+    webUrl: "https://www.thehindu.com/news/national/tamil-nadu/samsung-rd-institute-sets-up-lab-at-vit-vellore-for-ai-machine-learning-data-engineering-projects/article67585982.ece"
+    ampWebUrl: "https://www.thehindu.com/news/national/tamil-nadu/samsung-rd-institute-sets-up-lab-at-vit-vellore-for-ai-machine-learning-data-engineering-projects/article67585982.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/tamil-nadu/samsung-rd-institute-sets-up-lab-at-vit-vellore-for-ai-machine-learning-data-engineering-projects/article67585982.ece/amp/"
     type: article
     provider:
-      name: Voxy
-      domain: voxy.co.nz
-    quality: 21
-  - title: "Samsung basically just confirmed the Galaxy S24 will be its first AI phone"
-    excerpt: "Samsung trying to trademark \"AI Phone\" is a clear indication that the Galaxy S24 series will be the first Galaxy AI phone."
-    publishedDateTime: 2023-11-27T11:50:00Z
-    webUrl: "https://bgr.com/tech/samsung-practically-confirmed-the-galaxy-s24-will-be-its-first-ai-phone/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 15
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/j846lt/article67586138.ece/alternates/FREE_1200/vit-3.jpg"
+        width: 1200
+        height: 799
+        isCached: true
 
 secured: "B4VLydpOW64EOxFymIW+X8NTeNJQCRsYSKXvFNVdMaM9nldpNKcIWB7pzMvxPGdPOrLNJaQn36tCnGfkimRj/Szgar2p2Ciggg+W8OFN9/V+tSEopWfn4WTzz/gu3c/SK9KVykiVLLSAwf83Lz0dQxOjg9bC+c6J9LRgLXM3B3fsL7LUThAio7gYQ6I7xUHEC1QuP1X74sNhpw/NB93WOT4t/t0SZ2MdX/oUrlwWqpUKom6bFjg3dcDRhbheiNnSJ5ygF3m6MzsrLucsNo9frNTe1d4CgXZtfmGh7KogIrbEJJ1PmHyqysoKvYtfKS1U7J9+yRh0Wpt3QzafFZI+OrVSDk/Q4q6RLNTtIgJnxGz0G0mUWYA8CCiY/PNGdja/qxpcDd9nTP1gD/icywv3OFKewIYc4zY2rnhbPTQLDEQzokEEJUoTiQMryiEcRunb5yVdpMI3/etl0Ejc8tVG95LgkOAdmCsfBvl7XMhKiQhFOtmhivICh36om6hh0npO1Spwxz4qj9+RpWOz/hs1qw==;6zgJDTKUcqXoRJvvPevnNA=="
 ---

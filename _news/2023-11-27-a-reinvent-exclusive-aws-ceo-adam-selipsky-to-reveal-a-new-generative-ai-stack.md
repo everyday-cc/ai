@@ -216,6 +216,20 @@ related:
         width: 1200
         height: 624
         isCached: true
+  - title: "Inside AWS re:Invent: Adam Selipsky’s keynote and the battle for AI supremacy"
+    excerpt: "In the eleventh edition of on-site coverage of AWS re:Invent, our analysts break down the conference’s kickoff keynotes as the battle for AI supremacy heats up amongst the hyperscalers."
+    publishedDateTime: 2023-11-28T23:36:00Z
+    webUrl: "https://siliconangle.com/2023/11/28/inside-aws-reinvent-adam-selipskys-keynote-battle-ai-supremacy-supercloud5/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 51
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/Day-1-Keynote-Analysis-Supercloud-5-November-2023.jpg"
+        width: 5472
+        height: 3648
+        isCached: true
   - title: "AWS Joins Forces With Amgen on Generative AI Solutions to Accelerate Advanced Therapies"
     excerpt: "The new facility will feature the latest digital and robotic technology, including the implementation of a connected digital platform on AWS using Amazon SageMaker, a fully managed service to build, train, and deploy machine learning (ML) models ..."
     publishedDateTime: 2023-11-28T01:30:00Z

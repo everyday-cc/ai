@@ -35,6 +35,20 @@ related:
         width: 1920
         height: 1920
         isCached: true
+  - title: "How to build knowledge graphs with large language models (LLMs)"
+    excerpt: "The foundation of a knowledge graph is the accurate identification of entities and their connections. Use natural language processing (NLP) techniques to analyze your data. This goes beyond just spotting names and terms; it’s about understanding the ..."
+    publishedDateTime: 2023-11-28T00:00:00Z
+    webUrl: "https://www.geeky-gadgets.com/building-knowledge-graphs-using-llms/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 24
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/11/building-knowledge-graphs-using-LLMs.jpg"
+        width: 1280
+        height: 716
+        isCached: true
   - title: "EPFL's launches new Large Language Model for medical knowledge"
     excerpt: "Large language models (LLMs) are deep learning algorithms trained on vast amounts of text to learn billions of mathematical relationships between words (also called ‘parameters’). They are familiar to most of us as the algorithmic basis for chatbots like OpenAI’s ChatGPT and PaLM,"
     publishedDateTime: 2023-11-28T14:44:00Z

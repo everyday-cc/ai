@@ -41,20 +41,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Investors flock back to AI fund on rate cut hopes, Nvidia results"
-    excerpt: "The Global X Robotics & Artificial Intelligence ETF received $35.5 million in net inflows in the week ending on Wednesday, its strongest since June earlier this year, according to Lipper data."
-    publishedDateTime: 2023-11-24T05:11:00Z
-    webUrl: "https://www.aol.com/investors-flock-back-ai-fund-131141195.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/15956a8a29bc3c93c3b3f2c772ea148e"
-        width: 800
-        height: 533
-        isCached: true
   - title: "These artificial intelligence (AI) stocks are better buys than Nvidia"
     excerpt: "While Nvidia has been one of the best investments in 2023, there are better options going into the new year. Investors interested in AI might be better off now buying stocks in companies that are at earlier stages in their AI expansions and have more room for growth over the long term."
     publishedDateTime: 2023-11-24T10:27:00Z
