@@ -7,8 +7,8 @@ originalUrl: "https://www.gizmochina.com/2023/12/07/ai-translation-china-web-nov
 webUrl: "https://www.gizmochina.com/2023/12/07/ai-translation-china-web-novel-industry/"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Gizmochina
@@ -27,6 +27,17 @@ images:
     width: 1024
     height: 575
     isCached: true
+
+related:
+  - title: "Artificial Intelligence Makes Major Inroads With The Travel Industry"
+    excerpt: "Flight Centre Travel Group has announced the establishment of an ‘AI Center of Excellence for promoting, adopting and integrating artificial intelligence."
+    publishedDateTime: 2023-12-11T13:36:00Z
+    webUrl: "https://www.forbes.com/sites/rogersands/2023/12/11/artificial-intelligence-makes-major-inroads-with-the-travel-industry/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "1QHP5YwSkg/y8n/Pw/GcRpzBDbM0oowsaqm+k/A5bavtTknzANB2mmsFjrIXnLQzjmYn7J7vqKWVaJLuYUi+juIoMr27EXyfhlIFfYmH3zbA05apjEPVwIFGwROy8K2HcwEHdTvW72BaEcWDbFebGqM2SFeBqwUQJp5NFHqKVvbysE+IRcyFmWjTHHgQP0BSQ8aUH5fKtSLIZPhxEPOIEZPoG07KP4bnxXeXmRbZVd+YNkCyUyHuBLWtB2iAVsrKXpAdSPQjIgfuEHMb6jaQK/+zdtwlJry7/K+1zwOolHNZzuc8tXsGqA9yrrqy9yyWuf7GNY6Q15YFKl6wND4ZrPLrWgpIO60LAKxtQq36tKc=;oLNTQcu/hbULIYMet5IzRQ=="
 ---

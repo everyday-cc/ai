@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Apple drops new MLX machine learning framework for Apple silicon Macs"
-excerpt: "Just in time for the holidays, we are releasing some new software today from Apple machine learning research. MLX is an efficient machine learning framework specifically designed for Apple silicon (i.e. your laptop!) Code: https://t.co/Kbis7IrP80 Docs: https://t.co/CUQb80HGut"
+excerpt: "Apple has released MLX, “an array framework for machine learning on Apple silicon, brought to you by Apple machine learning research.” MLX is designed by machine learning researchers for machine learning researchers."
 publishedDateTime: 2023-12-06T20:21:00Z
-originalUrl: "https://9to5mac.com/2023/12/06/mlx-machine-learning-apple-silicon-mac/"
-webUrl: "https://9to5mac.com/2023/12/06/mlx-machine-learning-apple-silicon-mac/"
+originalUrl: "https://9to5mac.com/2023/12/06/mlx-machine-learning-apple-silicon-mac/?extended-comments=1"
+webUrl: "https://9to5mac.com/2023/12/06/mlx-machine-learning-apple-silicon-mac/?extended-comments=1"
 type: article
 quality: 54
 heat: -1
@@ -54,6 +54,6 @@ related:
         height: 360
         isCached: true
 
-secured: "J0yOAQvAFgWG/ZRSNanG35DGiE3Yita8PKFBlQWnvGrYUfCMbU0vyc7bjU0dm6X4+9UMHQQ6x59JcMPwBqQLkfwQG8yT+WuuIyq7Acak1xtwq/MD/vgxPSy0clB7dYzyIVRvYZgvpX4sGSBFaONBinqVGytYGpXJAmH0+wmWnvo5Fe8TTE1UO+notT+l6br6vZuQN75Kuya4xQJisc/VLNmwFazXlU+Nv+53+2/+FA9Nhl6ePwuK24p/BL1ZID7tdbVfKBOyow/7yvZJzLVEq//YZkxoTHdRmBotpyyc2zpJmvUk3V8MrWGjGelX88yJ0/5e7edFUTfeZiQTSGY3nsG+xe4Nx6SOSy7vxn6gj374hLSnUgPP1X9izWHxAxKDW+BgBmzy82wgKMcMt1ih2qU2K/350p3PohrwZlL/fHUfNTN8Tf27KBvmIF4+acK6BE2uce5dJc8ki7O8HcxohRoGptd8FYdSRIcftY+JxdGsKhhTQY0sZ6uwmOfOVNb3wK7LS/pztPBdTRSgzweShw==;mYYy0dFr3M9zpu9KsURETA=="
+secured: "Y+7jJhZD+IJhHbEsO+eHNGBnAsJTjoYZgcmzIY1jBgcvw+rvhyUBteIKFk+5yRZ6/yBKP3M9Y1TedJNeKCo7rw0NU5YGsXb/c0bkw+T6qHIB3jcm/OyDhetfMMMIWnUp0uzvsOfE95Z/XMvSvlKVx0YZwZ4SFX4Bp9PtEXjN8y34QZoAo837lfsRjNS+q8ay0ALnVM65zbsz7hGV920P+OkR6q63FRHGRRqdA3W1ch+7Iv4Paf9Vb4Y0uUbJOnPUBCzm7Dpf2K2pj9Ifkfq7/reh2DBjB7yCOo9pjtvYz8Oa+Bpe++SEj8tPabfB2jCDEhJZEosRt8LHb/H/1HKQvpz0XzkxY4TmNFBysEnBXGI=;Q5MRqHuB9a6bjkWlQQMkYw=="
 ---
 

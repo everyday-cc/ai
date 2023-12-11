@@ -1,0 +1,48 @@
+---
+category: news
+title: "AI made from living human brain cells performs speech recognition"
+excerpt: "A biocomputing system consisting of living brain cells learned to recognise the voice of one individual from hundreds of sound clips"
+publishedDateTime: 2023-12-11T16:12:00Z
+originalUrl: "https://www.newscientist.com/article/2407768-ai-made-from-living-human-brain-cells-performs-speech-recognition/"
+webUrl: "https://www.newscientist.com/article/2407768-ai-made-from-living-human-brain-cells-performs-speech-recognition/"
+type: article
+quality: 56
+heat: -1
+published: false
+
+provider:
+  name: New Scientist
+  domain: newscientist.com
+
+topics:
+  - AI Hardware
+  - AI
+  - Natural Language Processing
+
+images:
+  - url: "https://images.newscientist.com/wp-content/uploads/2023/12/11134744/SEI_183665108.jpg"
+    width: 1350
+    height: 900
+    isCached: true
+
+related:
+  - title: "Human brain cells hooked up to a chip can do speech recognition"
+    excerpt: "Brain organoids, clumps of human brain cells grown in a dish, can be hooked up to an electronic chip and carry out simple computational tasks, a new study shows. Feng Guo and his"
+    publishedDateTime: 2023-12-11T16:00:00Z
+    webUrl: "https://www.technologyreview.com/2023/12/11/1084926/human-brain-cells-chip-organoid-speech-recognition/"
+    ampWebUrl: "https://www.technologyreview.com/2023/12/11/1084926/human-brain-cells-chip-organoid-speech-recognition/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/11/1084926/human-brain-cells-chip-organoid-speech-recognition/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 91
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/12/organoid-compute2.jpg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
+
+secured: "NsAqsfnSBc3jsKdylPGDBZRWkF4On5XEXZIHujELgNQaAN7X5Wk8bgeFlJ4XRcy+Rj0XRmzc4kP95FUOTRw80mYN4yvQ8SviMCS4TGQgPS6nxOzDTAdWM7zZATx8gK2/tMm2M/G3ymOmjeGW7ntPa0LGFkxkAMOvLp/CoXnsKKjp0wmFtfvaPlE25uWEil1ds0fBQ8gY05e11gKahhoCfWZ0eZ3ztN8U0DeQ1Y4JAIONMiB4c1POVGqg0YJEGnBGRDuX/MPG766Dwak3Vj99ITh1LSC8tSZraSksJIRchzckm0hIdXv0DK4YOcOOez5playuYf2UCIcqur943x8AWfdG3HF8L6uPD6swncgmH28=;Js1n9Sxb1Xwjf6ZZBYwbYQ=="
+---
+

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2023/12/08/amd-takes-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2023/12/08/amd-takes-the-fight-to-nvidia-with-latest-ai-chip-launch-is-the-stock-a-buy-at-116/amp/"
 type: article
 quality: 97
-heat: 147
+heat: 207
 published: true
 
 provider:
@@ -73,6 +73,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Chip Stocks Are Surging, but Nvidia Is Missing It"
+    excerpt: "It’s a big day for chip stocks, but the year’s top-performer is suddenly lagging. The PHLX Semiconductor index advanced more than 2% on Monday morning. Broadcom was up more than 6%, the S&P 500’s second-best performer."
+    publishedDateTime: 2023-12-11T16:15:00Z
+    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-12-11-2023/card/chip-stocks-are-surging-but-nvidia-is-missing-it-s1Qwg9eaQQEoG9W9QwM0"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 69
+    images:
+      - url: "https://images.wsj.net/im-898705?width=600"
+        width: 600
+        height: 800
+        isCached: true
   - title: "AMD launches Instinct AI accelerator to compete with Nvidia"
     excerpt: "AMD enters the AI acceleration game with broad industry support. First shipping product is the Dell PowerEdge XE9680 with AMD Instinct MI300X."
     publishedDateTime: 2023-12-07T14:36:00Z
@@ -89,6 +103,51 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "AMD Takes The Fight To Nvidia With Latest AI Chip Launch. Is The Stock A Buy At $116?"
+    excerpt: "Advanced Micro Devices stock (NASDAQ: AMD) hosted an event to unveil its latest chips tailor-made for the booming artificial intelligence (AI) market. The newly launched chips inc"
+    publishedDateTime: 2023-12-11T03:38:00Z
+    webUrl: "https://www.nasdaq.com/articles/amd-takes-the-fight-to-nvidia-with-latest-ai-chip-launch.-is-the-stock-a-buy-at-$116"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 57
+  - title: "AMD AI Chip Challenges Nvidia’s H100 as Rivalry Enters New Era"
+    excerpt: "AMD's new MI300X AI chipset, coupled with the ROCm6 software, is set to compete with the Nvidia H100 as their GPU rivalry enters a new era."
+    publishedDateTime: 2023-12-07T14:30:00Z
+    webUrl: "https://beincrypto.com/new-ai-chip-amd-challenge-nvidia/"
+    type: article
+    provider:
+      name: https//beincrypto.com
+      domain: beincrypto.com
+    quality: 34
+  - title: "AMD's New AI Chip MI300X Eyes Market Lead, Challenges Nvidia's Dominance"
+    excerpt: "AMD has begun selling a product that it thinks could challenge Nvidias domination of the artificial intelligence processor industry, which it estimates will be worth $400 billion by 2027. AMD Introduces A New"
+    publishedDateTime: 2023-12-07T13:20:00Z
+    webUrl: "https://www.econotimes.com/AMDs-New-AI-Chip-MI300X-Eyes-Market-Lead-Challenges-Nvidias-Dominance-1667544"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 33
+  - title: "AMD CEO to Nvidia fans: There will be multiple winners in the AI chip battle"
+    excerpt: "AMD CEO Dr. Lisa Su refuses to play second fiddle in the AI chip race to rival Nvidia, led by the black leather jacket-wearing Jensen Huang. \"There are going to be multiple winners in this market,\" Su said on Yahoo Finance Live (video above). \"I think there's a great growth opportunity for us, we expect to gain market share.\""
+    publishedDateTime: 2023-12-07T18:56:00Z
+    webUrl: "https://www.aol.com/amd-ceo-nvidia-fans-multiple-165749586.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 31
+  - title: "Beyond The Likes of Nvidia Corp and AMD, Chip Market Troubles Pose Threats After AI Euphoria"
+    excerpt: "Philadelphia Stock Exchange Semiconductor Index laggard Texas Instruments Inc., down 5.6% this year, has one of the broadest ranges of customers and products across the chip business. It said the key industrial market got weaker in the third quarter, contracting about 5%. Revenue related to communications components dropped more than 10%."
+    publishedDateTime: 2023-12-11T13:13:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/beyond-the-likes-of-nvidia-corp-and-amd-chip-market-troubles-pose-threats-after-ai-euphoria-71701965487763.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 23
   - title: "AMD Officially Launches MI300X AI Accelerator to Dethrone Nvidia's H100"
     excerpt: "AMD launched the MI300X GPU at its Advancing AI event this week, where it officially tossed its hat into the AI accelerator ring to battle Nvidia's H100. AMD claims that its MI300X GPU has Nvidia's GPU covered and is the fastest AI accelerator in the world."
     publishedDateTime: 2023-12-07T17:30:00Z

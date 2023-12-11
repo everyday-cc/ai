@@ -68,6 +68,29 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 47
+  - title: "E.U. Reaches Deal on World’s First Comprehensive AI Rules"
+    excerpt: "European Union negotiators have clinched a deal on the world's first comprehensive artificial intelligence rules"
+    publishedDateTime: 2023-12-11T11:14:00Z
+    webUrl: "https://time.com/6344628/eu-ai-rules-deal/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 47
+  - title: "EU agrees landmark AI regulation deal"
+    excerpt: "The European Union has introduced the world’s first comprehensive laws to regulate the use of AI, reaching a provisional deal between its member states. The laws were agreed after 36 hours of talks, with the European Parliament to vote on the AI Act proposals early next year."
+    publishedDateTime: 2023-12-11T15:54:00Z
+    webUrl: "https://www.inavateonthenet.net/news/article/eu-agrees-landmark-ai-regulation-deal"
+    type: article
+    provider:
+      name: InAVate
+      domain: inavateonthenet.net
+    quality: 39
+    images:
+      - url: "https://res.cloudinary.com/iml/image/upload/w_1024,c_scale/c_crop,g_custom/w_1024,c_scale/v1702310161/widgetdocs/EU_Shutterstock_yxfiqk.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "EU agrees landmark rules on artificial intelligence"
     excerpt: "EU lawmakers have agreed the terms for landmark legislation to regulate artificial intelligence, pushing ahead with enacting the world’s most restrictive regime on the development of the technology."
     publishedDateTime: 2023-12-09T07:54:00Z

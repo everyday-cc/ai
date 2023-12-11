@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-11-29-aws-announces-amazon-q-to-reimagine-the-future-of-work.md",
+      "title": "AWS Announces Amazon Q to Reimagine the Future of Work",
+      "excerpt": "vice president of Data and Artificial Intelligence. “AWS is helping customers harness generative AI with solutions at all three layers of the stack, including purpose-built infrastructure ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/aws-announces-amazon-q-to-reimagine-the-future-of-work-2023-11-28",
+      "originalUrl": "https://www.nasdaq.com/press-release/aws-announces-amazon-q-to-reimagine-the-future-of-work-2023-11-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-28T18:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-28-amazon-braket-direct-program-to-help-reserve-quantum-computers.md",
       "title": "Amazon Braket Direct program to help reserve quantum computers",
       "excerpt": "The new program allows researchers to cut through waiting queues or wait times while providing the option to connect with experts to seek guidance on quantum workloads.",
@@ -1389,49 +1423,6 @@
         "AWS AI",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-11-21-aws-wants-to-train-2-million-people-as-ai-specialists.md",
-      "title": "AWS wants to train 2 million people as AI specialists",
-      "excerpt": "AWS wants to train 2 million people as AI specialists by 2025. To this end, Amazon has presented the free AI Ready training program. The program targets",
-      "sourceUrl": null,
-      "webUrl": "https://www.techzine.eu/news/analytics/113485/aws-wants-to-train-2-million-people-as-ai-specialists/",
-      "originalUrl": "https://www.techzine.eu/news/analytics/113485/aws-wants-to-train-2-million-people-as-ai-specialists/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techzine.eu/wp-content/uploads/2023/11/shutterstock_2263545623.jpg",
-          "width": 1000,
-          "height": 543,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-21T08:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techzine",
-        "domain": "techzine.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

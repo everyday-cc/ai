@@ -2,6 +2,155 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-11-22-chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot.md",
+      "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
+      "excerpt": "The app is also integrated with Whisper, OpenAI’s open source speech recognition system ... said that individuals in “certain jurisdictions” (such as the EU) can object to the processing of their personal information by its AI models by filling ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/11/21/chatgpt-everything-to-know-about-the-ai-chatbot/",
+      "originalUrl": "https://techcrunch.com/2023/11/21/chatgpt-everything-to-know-about-the-ai-chatbot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 306,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/11/21/chatgpt-everything-to-know-about-the-ai-chatbot/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/21/chatgpt-everything-to-know-about-the-ai-chatbot/amp/",
+      "publishedDateTime": "2023-11-21T17:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-18-basler-and-siemens-join-forces-to-enhance-machine-vision-and-factory-automation-capabilities.md",
+      "title": "Basler and Siemens Join Forces to Enhance Machine Vision and Factory Automation Capabilities",
+      "excerpt": "Basler AG, a leading provider of advanced computer vision products, is excited to announce its new partnership with the technology company Siemens, an innovation leader in automation and digitalization.",
+      "sourceUrl": null,
+      "webUrl": "https://www.automation.com/en-us/articles/november-2023/basler-siemens-machine-vision-factory-automation? Control News & Articles",
+      "originalUrl": "https://www.automation.com/en-us/articles/november-2023/basler-siemens-machine-vision-factory-automation? Control News & Articles",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.automation.com/getmedia/57420807-7481-4515-a59b-cc445dd39f4d/Basler-news-Nov-17-2023-web.png?width=500&height=313&ext=.png",
+          "width": 500,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-17T20:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automation",
+        "domain": "automation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-17-moderate-your-amazon-ivs-live-stream-using-amazon-rekognition.md",
+      "title": "Moderate your Amazon IVS live stream using Amazon Rekognition",
+      "excerpt": "Amazon Interactive Video Service (Amazon IVS) is a managed live streaming solution that is designed to provide a quick and straightforward setup to let you build interactive video experiences and handles interactive video content from ingestion to delivery. With the increased usage of live streaming,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/moderate-your-amazon-ivs-live-stream-using-amazon-rekognition/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/moderate-your-amazon-ivs-live-stream-using-amazon-rekognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/11/ml-15283-overall-diagram-1175x630.jpg",
+          "width": 1175,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-17T16:27:58Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2023-11-17-baltimore-could-see-transparency-guardrails-for-facial-recognition-under-city-proposals-discussed-by-committees.md",
       "title": "Baltimore could see transparency, guardrails for facial recognition under city proposals discussed by committees",
       "excerpt": "Soon, businesses in Baltimore that employ facial recognition software could be required to register with the city and post a sign on the premises notifying patrons. “Facial recognition ...",
@@ -1124,126 +1273,6 @@
       "provider": {
         "name": "Impacts",
         "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-wholly-ineffective-and-pretty-obviously-racist-inside-new-orleans-struggle-with-facial-recognition-policing.md",
-      "title": "‘Wholly ineffective and pretty obviously racist’: Inside New Orleans’ struggle with facial-recognition policing",
-      "excerpt": "In the summer of 2022, with a spike in violent crime hitting New Orleans, the city council voted to allow police to use facial-recognition software to track down suspects — a technology that the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2023/10/31/new-orleans-police-facial-recognition-00121427",
-      "originalUrl": "https://www.politico.com/news/2023/10/31/new-orleans-police-facial-recognition-00121427",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/9e/cf/ff64c42b4e81bb0ae47b73c4229a/facial-recognition-illo-v2.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T10:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-lenskart-acquires-ai-computer-vision-startup-tangoeye.md",
-      "title": "Lenskart acquires AI computer vision startup TangoEye",
-      "excerpt": "Eyewear retailer Lenskart has acquired Chennai-based TangoEye, an AI-based computer vision startup, which analyses CCTV recordings of stores to provide analytics, optimise customer flow and ensure proper adherence to all processes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/digital-transformation-lenskart-acquires-ai-computer-vision-startup-tangoeye-3291975/",
-      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-lenskart-acquires-ai-computer-vision-startup-tangoeye-3291975/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/10/Untitled-design-2023-10-06T160116.656.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-lenskart-acquires-ai-computer-vision-startup-tangoeye-3291975/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-lenskart-acquires-ai-computer-vision-startup-tangoeye-3291975/lite/",
-      "publishedDateTime": "2023-10-31T02:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-photos-san-franciscos-algorave-where-people-dance-to-code.md",
-      "title": "Photos: San Francisco’s ‘algorave,’ where people dance to code",
-      "excerpt": "Half of the participants were obsessed with a text editor window of a TV set-up, where codes were popping up line by line.",
-      "sourceUrl": null,
-      "webUrl": "https://missionlocal.org/2023/10/algorave/",
-      "originalUrl": "https://missionlocal.org/2023/10/algorave/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T23:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mission Local",
-        "domain": "missionlocal.org",
         "images": null,
         "publishers": null,
         "authors": null

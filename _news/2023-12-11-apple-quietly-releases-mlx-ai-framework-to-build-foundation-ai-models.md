@@ -41,9 +41,9 @@ related:
         height: 788
         isCached: true
   - title: "Apple drops new MLX machine learning framework for Apple silicon Macs"
-    excerpt: "Just in time for the holidays, we are releasing some new software today from Apple machine learning research. MLX is an efficient machine learning framework specifically designed for Apple silicon (i.e. your laptop!) Code: https://t.co/Kbis7IrP80 Docs: https://t.co/CUQb80HGut"
+    excerpt: "Apple has released MLX, “an array framework for machine learning on Apple silicon, brought to you by Apple machine learning research.” MLX is designed by machine learning researchers for machine learning researchers."
     publishedDateTime: 2023-12-06T20:21:00Z
-    webUrl: "https://9to5mac.com/2023/12/06/mlx-machine-learning-apple-silicon-mac/"
+    webUrl: "https://9to5mac.com/2023/12/06/mlx-machine-learning-apple-silicon-mac/?extended-comments=1"
     type: article
     provider:
       name: 9to5Mac

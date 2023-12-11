@@ -2,6 +2,576 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-12-07-amd-is-taking-the-gloves-off-in-the-ai-arms-race.md",
+      "title": "AMD is taking the gloves off in the AI arms race",
+      "excerpt": "AMD looks ready to fight. At its Advancing AI event, the company finally launched its Instinct MI300X AI GPU, which we first heard about first a few months ago. The exciting development is the performance AMD is claiming compared to the green AI elephant in the room: Nvidia.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/amd-mi300x-gpu-launch/",
+      "originalUrl": "https://www.digitaltrends.com/computing/amd-mi300x-gpu-launch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/12/amd-mi300x-platform.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/amd-mi300x-gpu-launch/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/amd-mi300x-gpu-launch/?amp",
+      "publishedDateTime": "2023-12-06T19:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-how-seeing-ai-focuses-on-large-vision-models.md",
+      "title": "How ‘Seeing’ AI Focuses On Large Vision Models",
+      "excerpt": "Driving AI into the image space is Landing AI, a computer vision cloud company that specializes in building what it calls domain-specific Large Vision Models (LVMs).",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/12/06/how-seeing-ai-focuses-on-large-vision-models/",
+      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/12/06/how-seeing-ai-focuses-on-large-vision-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65708d09e3f65bfb1710cfce/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/12/06/how-seeing-ai-focuses-on-large-vision-models/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/12/06/how-seeing-ai-focuses-on-large-vision-models/amp/",
+      "publishedDateTime": "2023-12-06T15:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-liquid-ai-a-new-mit-spinoff-wants-to-build-an-entirely-new-type-of-ai.md",
+      "title": "Liquid AI, a new MIT spinoff, wants to build an entirely new type of AI",
+      "excerpt": "An MIT spinoff co-founded by robotics luminary Daniela Rus aims to build general ... So what exactly does Liquid AI the startup hope to achieve with this powerful new(ish) architecture? Plain and simple, commercialization. One presumes work will continue ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/12/06/liquid-ai-a-new-mit-spinoff-wants-to-build-an-entirely-new-type-of-ai/",
+      "originalUrl": "https://techcrunch.com/2023/12/06/liquid-ai-a-new-mit-spinoff-wants-to-build-an-entirely-new-type-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-8-best-artificial-intelligence-etfs-to-invest-in.md",
+      "title": "8 Best Artificial Intelligence ETFs To Invest In",
+      "excerpt": "Global X Artificial Intelligence and Technology ETF (AIQ) Global X Robotics and Artificial Intelligence ETF (BOTZ) Global X Artificial Intelligence and Technology ETF (Nasdaq: AIQ) has returned 47 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/8-best-artificial-intelligence-etfs-205332104.html",
+      "originalUrl": "https://www.aol.com/8-best-artificial-intelligence-etfs-205332104.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/dGRN4QGQPzon723VUNgqLA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/8b9eb79f9593d38fcbba2c62865b289d",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T14:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-augmenting-human-capabilities-with-ai-and-computer-vision-for-healthcare.md",
+      "title": "Augmenting Human Capabilities With AI And Computer Vision For Healthcare",
+      "excerpt": "AI and CV are transforming modern healthcare, making it more accessible and accurate. The healthcare industry has been applying CV since the 20th century through the use of medical imaging. However, current solutions allowed it to evolve and improve.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/06/augmenting-human-capabilities-with-ai-and-computer-vision-for-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/06/augmenting-human-capabilities-with-ai-and-computer-vision-for-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c3fc8f3f39b3203eade19f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/06/augmenting-human-capabilities-with-ai-and-computer-vision-for-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/06/augmenting-human-capabilities-with-ai-and-computer-vision-for-healthcare/amp/",
+      "publishedDateTime": "2023-12-06T11:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-4-ai-therapy-options-reviewed-do-they-work.md",
+      "title": "4 AI Therapy Options Reviewed: Do They Work?",
+      "excerpt": "An increasingly hot topic, artificial intelligence, or AI, is being added to various processes across industries, from creative ventures to manufacturing. Health care is no exception, as AI therapy apps enter the space. Below, we cover what AI therapy is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/health/mind/ai-therapy/",
+      "originalUrl": "https://www.forbes.com/health/mind/ai-therapy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/health/wp-content/uploads/2023/12/AI-therapy.jpeg",
+          "width": 958,
+          "height": 539,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T11:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-foretellix-raises-an-extra-42m-to-build-and-test-self-driving-scenarios.md",
+      "title": "Foretellix raises an extra $42M to build and test self-driving scenarios",
+      "excerpt": "On their way to building fully autonomous vehicles, self-driving car makers are facing a tall task: training their AIs to be able to respond reliably to",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/12/05/foretellix-raises-85m-to-build-and-test-scenarios-for-self-driving-systems/",
+      "originalUrl": "https://techcrunch.com/2023/12/05/foretellix-raises-85m-to-build-and-test-scenarios-for-self-driving-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/12/Screenshot-2023-12-05-at-12.33.38.png?w=1072",
+          "width": 1072,
+          "height": 612,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/12/05/foretellix-raises-85m-to-build-and-test-scenarios-for-self-driving-systems/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/05/foretellix-raises-85m-to-build-and-test-scenarios-for-self-driving-systems/amp/",
+      "publishedDateTime": "2023-12-06T10:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-half-of-university-students-are-scared-their-jobs-will-be-under-threat-from-ai.md",
+      "title": "Half of university students are scared their jobs will be under threat from AI",
+      "excerpt": "Half of current students at university think their current and future jobs could be under threat from artificial intelligence (AI). New research from Kingston University looked at whether students are equipped for their futures in a rapidly changing workplace, particularly where technology is concerned.",
+      "sourceUrl": null,
+      "webUrl": "https://metro.co.uk/2023/12/06/half-uni-students-scared-jobs-threat-ai-19904586/?ico=mosaic_uk",
+      "originalUrl": "https://metro.co.uk/2023/12/06/half-uni-students-scared-jobs-threat-ai-19904586/?ico=mosaic_uk",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://metro.co.uk/wp-content/uploads/2023/12/SEI_182335945-3919.jpg?quality=90&strip=all&zoom=1&resize=600%2C400",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://metro.co.uk/2023/12/06/half-uni-students-scared-jobs-threat-ai-19904586/amp/",
+      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/12/06/half-uni-students-scared-jobs-threat-ai-19904586/amp/",
+      "publishedDateTime": "2023-12-06T06:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro",
+        "domain": "metro.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-is-there-a-basic-problem-with-autonomous-driving.md",
+      "title": "Is There A Basic Problem With Autonomous Driving?",
+      "excerpt": "The feasibility of autonomous vehicles for general use in public traffic has long been questioned (see“Artificial intelligence faces serious roadbl",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1107543870/Is-There-A-Basic-Problem-With-Autonomous-Driving",
+      "originalUrl": "https://menafn.com/1107543870/Is-There-A-Basic-Problem-With-Autonomous-Driving",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2023-12/06/AT_2565cimage_story.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T05:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-elon-musks-ai-startup-xai-files-to-raise-1-billion-in-fresh-capital.md",
+      "title": "Elon Musk's AI startup — X.AI — files to raise $1 billion in fresh capital",
+      "excerpt": "X.AI, an artificial intelligence startup founded by Elon Musk, has filed with the SEC to raise up to $1 billion in an equity offering",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/12/05/elon-musks-ai-startup-xai-files-to-raise-1-billion-.html",
+      "originalUrl": "https://www.cnbc.com/2023/12/05/elon-musks-ai-startup-xai-files-to-raise-1-billion-.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107341579-1701376973392-gettyimages-1821107484-dsc_5130_j4s4ocdu.jpeg?v=1701377239",
+          "width": 5164,
+          "height": 3613,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/12/05/elon-musks-ai-startup-xai-files-to-raise-1-billion-.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/12/05/elon-musks-ai-startup-xai-files-to-raise-1-billion-.html",
+      "publishedDateTime": "2023-12-06T05:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-transforming-industries-with-generative-ai-aws-swami-sivasubramanian-on-intelligence-augmentation.md",
+      "title": "Transforming industries with generative AI: AWS’ Swami Sivasubramanian on intelligence augmentation",
+      "excerpt": "We are entrenched firmly in the generative artificial intelligence era — it is the differentiating factor for today’s enterprise and business landscapes.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/12/05/transforming-industries-generative-ai-next-era-intelligence-augmentation-supercloud5/",
+      "originalUrl": "https://siliconangle.com/2023/12/05/transforming-industries-generative-ai-next-era-intelligence-augmentation-supercloud5/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/IMG_4502.jpg",
+          "width": 4898,
+          "height": 3265,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T04:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-aira-features-cpu-powered-face-recognition-to-address-market-challenges.md",
+      "title": "AIRA features CPU-powered face recognition to address market challenges",
+      "excerpt": "The AI revolution is reshaping the world, impacting every industry. AI being rapidly put to use has spurred surging demand for critical components. In particular, GPU being in constant shortage has many supply chain ramifications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitimes.com/news/a20231206PR200.html&chid=9",
+      "originalUrl": "https://www.digitimes.com/news/a20231206PR200.html&chid=9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.digitimes.com/newsshow/20231206pr200_files/1_b.jpg",
+          "width": 640,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T03:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-06-6-robotics-trends-from-irex-2023.md",
       "title": "6 robotics trends from iREX 2023",
       "excerpt": "REX featured 654 exhibitors, making it the largest version of the show since its inception. Here are six robotics trends from the event.",
@@ -128,6 +698,50 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-google-gemini-upgrade-means-bard-ai-outperforms-free-version-of-chatgpt.md",
+      "title": "Google: Gemini Upgrade Means Bard AI Outperforms Free Version of ChatGPT",
+      "excerpt": "Google is going after OpenAI's chatbot with a new 'Gemini Pro' model. A more powerful 'Gemini Ultra' model will arrive early next year through a new 'Bard Advanced' tier. I've been with PCMag ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/google-gemini-upgrade-means-bard-ai-outperforms-free-version-of-chatgpt",
+      "originalUrl": "https://www.pcmag.com/news/google-gemini-upgrade-means-bard-ai-outperforms-free-version-of-chatgpt",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -306,10 +920,10 @@
     {
       "path": "_news/2023-12-06-undersea-robot-startup-founded-by-nasa-engineer-ejects-clo.md",
       "title": "Undersea-Robot Startup Founded by NASA Engineer Ejects CLO",
-      "excerpt": "Nauticus was founded in 2014 by Nic Radford, who left NASA that year as principal investigator for the Dexterous Robotics Lab at Johnson Space Center. He’d joined the agency in 2006, becoming deputy project manager and chief engineer of NASA’s humanoid space robot “Robonaut2.”",
+      "excerpt": "The chief legal and administrative officer for an undersea robotics company founded by a NASA robotics engineer is one of two executives the company recently dismissed, according to a regulatory filing.",
       "sourceUrl": null,
-      "webUrl": "https://www.law.com/corpcounsel/2023/12/04/undersea-robot-startup-founded-by-nasa-engineer-terminates-clo/",
-      "originalUrl": "https://www.law.com/corpcounsel/2023/12/04/undersea-robot-startup-founded-by-nasa-engineer-terminates-clo/",
+      "webUrl": "https://www.law.com/texaslawyer/2023/12/04/undersea-robot-startup-founded-by-nasa-engineer-terminates-clo/",
+      "originalUrl": "https://www.law.com/texaslawyer/2023/12/04/undersea-robot-startup-founded-by-nasa-engineer-terminates-clo/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -424,6 +1038,50 @@
       ]
     },
     {
+      "path": "_news/2023-12-06-what-chatgpt-got-wrong-about-top-5-fintech-trends-of-2024.md",
+      "title": "What ChatGPT got wrong about top 5 fintech trends of 2024",
+      "excerpt": "I’ve received dozens of 2024 fintech trends prediction pitches in my email inbox over the past month. And while many of them are insightful, I wanted to",
+      "sourceUrl": null,
+      "webUrl": "https://www.cuinsight.com/what-chatgpt-got-wrong-about-top-5-fintech-trends-of-2024/",
+      "originalUrl": "https://www.cuinsight.com/what-chatgpt-got-wrong-about-top-5-fintech-trends-of-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cuinsight.com/wp-content/uploads/2023/05/bigstock-System-Artificial-Intelligence-468970227.jpg",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-05T19:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CUInsight",
+        "domain": "cuinsight.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-06-gecko-robotics-latest-defense-tech-to-raise-big.md",
       "title": "Gecko Robotics Latest Defense Tech To Raise Big",
       "excerpt": "Gecko Robotics, which creates robots to assess the safety and condition of critical infrastructure, has raised an additional $100 million in a Series C extension.",
@@ -464,619 +1122,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-advancements-in-machine-learning.md",
-      "title": "Advancements in Machine Learning",
-      "excerpt": "Machine learning is not just a technological advancement; it is a catalyst for positive change, pushing the boundaries of what is possible and",
-      "sourceUrl": null,
-      "webUrl": "https://www.cioapplications.com/news/advancements-in-machine-learning-nid-10991.html",
-      "originalUrl": "https://www.cioapplications.com/news/advancements-in-machine-learning-nid-10991.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cioapplications.com/newstransfer/upload/gny2sb450.jpg",
-          "width": 450,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T18:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO Applications",
-        "domain": "cioapplications.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-todays-ai-funding-rush-reminds-me-of-the-fintech-investing-hype-of-2021.md",
-      "title": "Today’s AI funding rush reminds me of the fintech investing hype of 2021",
-      "excerpt": "We're seeing a lot of folks push their capital into just a few squares on the betting table. One way or another, the result is going to be notable.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/12/05/ai-funding-rush-fintech-hype/",
-      "originalUrl": "https://techcrunch.com/2023/12/05/ai-funding-rush-fintech-hype/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/04/robot-arm-money-1.jpg?resize=1200,645",
-          "width": 1200,
-          "height": 645,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T18:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-encharge-raises-226m-to-commercialize-its-ai-accelerating-chips.md",
-      "title": "EnCharge raises $22.6M to commercialize its AI-accelerating chips",
-      "excerpt": "EnCharge was launched to commercialize Verma’s research. Using in-memory computing, EnCharge’s hardware can accelerate AI applications in servers and “network edge” machines, Verma claims, while reducing power consumption relative to standard computer processors.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/12/05/encharge-raises-22-6m-to-commercialize-its-ai-accerating-chips/",
-      "originalUrl": "https://techcrunch.com/2023/12/05/encharge-raises-22-6m-to-commercialize-its-ai-accerating-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1411834236.jpg?resize=1200,831",
-          "width": 1200,
-          "height": 831,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/12/05/encharge-raises-22-6m-to-commercialize-its-ai-accerating-chips/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/05/encharge-raises-22-6m-to-commercialize-its-ai-accerating-chips/amp/",
-      "publishedDateTime": "2023-12-05T18:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-threadgold-consulting-unveils-groundbreaking-ai-integration-transforming-fintech-and-erp-landscapes.md",
-      "title": "Threadgold Consulting Unveils Groundbreaking AI Integration, Transforming FinTech and ERP Landscapes",
-      "excerpt": "Introduction In the rapidly evolving world of finance, the integration of Artificial Intelligence (AI) into fintech solutions, especially Enterprise Resource Planning (ERP) systems, marks a significant leap forward.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/threadgold-consulting-unveils-groundbreaking-ai-integration-transforming-fintech-and-erp-landscapes/",
-      "originalUrl": "https://techbullion.com/threadgold-consulting-unveils-groundbreaking-ai-integration-transforming-fintech-and-erp-landscapes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2023/12/AI-SMEs-1000x537.jpg",
-          "width": 1000,
-          "height": 537,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T17:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-how-will-artificial-intelligence-change-medicine-and-healthcare.md",
-      "title": "How will Artificial intelligence change medicine and healthcare?",
-      "excerpt": "Artificial intelligence is all over the news with scary stories about how computers will be thinking on their own and eventually taking jobs from people. But there are great",
-      "sourceUrl": null,
-      "webUrl": "https://www.wwlp.com/massappeal/how-will-artificial-intelligence-change-medicine-and-healthcare/",
-      "originalUrl": "https://www.wwlp.com/massappeal/how-will-artificial-intelligence-change-medicine-and-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wwlp.com/wp-content/uploads/sites/26/2023/12/dr-k.jpg?w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.wwlp.com/massappeal/how-will-artificial-intelligence-change-medicine-and-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-wwlp-com.cdn.ampproject.org/c/s/www.wwlp.com/massappeal/how-will-artificial-intelligence-change-medicine-and-healthcare/amp/",
-      "publishedDateTime": "2023-12-05T17:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WWLP-22News",
-        "domain": "wwlp.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-ny-lawmakers-looking-to-address-promise-threat-of-artificial-intelligence.md",
-      "title": "NY lawmakers looking to address promise, threat of artificial intelligence",
-      "excerpt": "AI can greatly advance health care and create better jobs, experts say, but it also can create a deeper gulf in income inequality and help erode human rights and freedoms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsday.com/news/region-state/artificial-intelligence-state-legislature-kathy-hochul-privacy-jobs-aece6jqs",
-      "originalUrl": "https://www.newsday.com/news/region-state/artificial-intelligence-state-legislature-kathy-hochul-privacy-jobs-aece6jqs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.newsday.com/amp/news/region-state/artificial-intelligence-state-legislature-kathy-hochul-privacy-jobs-aece6jqs",
-      "cdnAmpWebUrl": "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/news/region-state/artificial-intelligence-state-legislature-kathy-hochul-privacy-jobs-aece6jqs",
-      "publishedDateTime": "2023-12-05T17:13:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsday",
-        "domain": "newsday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-rejoy-health-is-revolutionizing-back-and-joint-pain-care-with-artificial-intelligence.md",
-      "title": "Rejoy Health is revolutionizing back and joint pain care with Artificial Intelligence",
-      "excerpt": "In an era where technological advancements continue to reshape the landscape of healthcare, Rejoy Health has emerged as a pioneer with its",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/rejoy-health-is-revolutionizing-back-and-joint-pain-care-with-artificial-intelligence-1032875208",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/rejoy-health-is-revolutionizing-back-and-joint-pain-care-with-artificial-intelligence-1032875208",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh7-us.googleusercontent.com/H3tVBQ8eYTfncfBbpMqhAKirLIh1Z62xUkB8z80Mmlp_EqXLAYIp3ez5l5jN0-4bXl7Y2oi-tDX8CKfALBLf910zlhkIeHkBl_DAn65odV-afwM3UZTdcyennZq_uGb2uzzjpR-MTNxJJdEMW2nYCVQ",
-          "width": 1600,
-          "height": 914,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T16:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-self-driving-truck-development-to-slow-down-as-tusimple-confirms-us-exit.md",
-      "title": "Self-Driving Truck Development To Slow Down As TuSimple Confirms US Exit",
-      "excerpt": "Companies want to create value for their stakeholders. Sometimes, they do it with no regard for their employees' well-being. The world's",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoevolution.com/news/self-driving-truck-development-to-slow-down-as-tusimple-confirms-us-exit-225617.html",
-      "originalUrl": "https://www.autoevolution.com/news/self-driving-truck-development-to-slow-down-as-tusimple-confirms-us-exit-225617.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.cdn.autoevolution.com/images/news/self-driving-truck-development-to-slow-down-as-tusimple-confirms-us-exit-225617_1.jpg",
-          "width": 1920,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T15:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "autoevolution",
-        "domain": "autoevolution.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-best-amazon-deals-in-december-2023-todays-best-sales.md",
-      "title": "Best Amazon deals in December 2023: Today's best sales",
-      "excerpt": "Amazon deals can be found any day of the week. Whether you're shopping for a new MacBook or our favorite pair of headphones, Amazon is renown for offering sitewide sales every day. With Black ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tomsguide.com/news/best-amazon-deals",
-      "originalUrl": "https://www.tomsguide.com/news/best-amazon-deals",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/HHXzc9LDV6bEXvHVEVqbFY-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T15:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tom's Guide",
-        "domain": "tomsguide.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-elon-musks-ai-startup-xai-files-to-raise-1-billion-in-fresh-capital.md",
-      "title": "Elon Musk's AI startup — X.AI — files to raise $1 billion in fresh capital",
-      "excerpt": "X.AI, an artificial intelligence startup founded by Elon Musk, has filed with the SEC to raise up to $1 billion in an equity offering",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcwashington.com/news/national-international/elon-musks-ai-startup-x-ai-files-to-raise-1-billion-in-fresh-capital/3487103/",
-      "originalUrl": "https://www.nbcwashington.com/news/national-international/elon-musks-ai-startup-x-ai-files-to-raise-1-billion-in-fresh-capital/3487103/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nbcwashington.com/2023/12/107341579-1701376973392-gettyimages-1821107484-dsc_5130_j4s4ocdu.jpeg?quality=85&strip=all&resize=1200%2C675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcwashington.com/news/business/money-report/elon-musks-ai-startup-x-ai-files-to-raise-1-billion-in-fresh-capital/3487103/?amp=1",
-      "cdnAmpWebUrl": "https://www-nbcwashington-com.cdn.ampproject.org/c/s/www.nbcwashington.com/news/business/money-report/elon-musks-ai-startup-x-ai-files-to-raise-1-billion-in-fresh-capital/3487103/?amp=1",
-      "publishedDateTime": "2023-12-05T15:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC Washington",
-        "domain": "nbcwashington.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-gecko-robotics-picks-up-100-million-investment-with-backing-from-thomas-tulls-5-billion-tech-fund.md",
-      "title": "Gecko Robotics picks up $100 million investment with backing from Thomas Tull's $5 billion tech fund",
-      "excerpt": "A local robotics startup has added a $100 million investment to its coffers thanks in part to the financial support from a $5 billion technology fund run by a Pittsburgh billionaire.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/pittsburgh/inno/stories/fundings/2023/12/05/thomas-tull-gecko-robotics-100-million-funding.html",
-      "originalUrl": "https://www.bizjournals.com/pittsburgh/inno/stories/fundings/2023/12/05/thomas-tull-gecko-robotics-100-million-funding.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T14:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-microsoft-and-liverpool-hospital-use-generative-ai-to-break-down-large-volumes-of-cardiology-related-literature.md",
-      "title": "Microsoft and Liverpool Hospital use generative AI to break down large volumes of cardiology-related literature",
-      "excerpt": "Microsoft and Liverpool Hospital, one of the largest tertiary referral and teaching hospitals in Sydney, Australia, have partnered to develop a generative artificial intelligence solution to assist cardiologists working with large volumes of cardiology-related literature.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyrecord.com/article/microsoft-and-liverpool-hospital-use-generative-ai-to-break-down-large-volumes-of-cardiology-related-literature",
-      "originalUrl": "https://www.technologyrecord.com/article/microsoft-and-liverpool-hospital-use-generative-ai-to-break-down-large-volumes-of-cardiology-related-literature",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4747/Liverpool-hospital-web.jpg",
-          "width": 975,
-          "height": 548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T14:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologyrecord.com",
-        "domain": "technologyrecord.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-ai-teaches-robots-the-best-way-to-pack-a-car-a-suitcaseor-a-rocket-to-mars.md",
-      "title": "AI Teaches Robots the Best Way to Pack a Car, a Suitcase—Or a Rocket to Mars",
-      "excerpt": "Robots that can fit multiple items into a limited space could help pack a suitcase or a rocket to Mars",
-      "sourceUrl": null,
-      "webUrl": "https://www.scientificamerican.com/article/ai-teaches-robots-the-best-way-to-pack-a-car-a-suitcase-or-a-rocket-to-mars/",
-      "originalUrl": "https://www.scientificamerican.com/article/ai-teaches-robots-the-best-way-to-pack-a-car-a-suitcase-or-a-rocket-to-mars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.scientificamerican.com/sciam/cache/file/9AD7F16C-DC19-47F7-A36DBB24474F14B7_source.jpg?w=1200",
-          "width": 1200,
-          "height": 789,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T14:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Scientific American",
-        "domain": "scientificamerican.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-revolutionising-industries-with-ai-sumedh-datars-journey-in-deep-learning-and-computer-vision.md",
-      "title": "Revolutionising industries with AI: Sumedh Datar's journey in deep learning and computer vision",
-      "excerpt": "Artificial Intelligence techniques, such as deep learning, have garnered significant attention in 2023, especially with the emergence of platforms like Cha..",
-      "sourceUrl": null,
-      "webUrl": "https://www.khaleejtimes.com/kt-network/revolutionising-industries-with-ai-sumedh-datars-journey-in-deep-learning-and-computer-vision",
-      "originalUrl": "https://www.khaleejtimes.com/kt-network/revolutionising-industries-with-ai-sumedh-datars-journey-in-deep-learning-and-computer-vision",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.khaleejtimes.com?uuid=c9b4f094-01fe-5308-856e-fb8aeec53a51&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.75125&width=1200&height=675&x=1.0E-5&y=0.17362.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.khaleejtimes.com/kt-network/revolutionising-industries-with-ai-sumedh-datars-journey-in-deep-learning-and-computer-vision?amp=1",
-      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/kt-network/revolutionising-industries-with-ai-sumedh-datars-journey-in-deep-learning-and-computer-vision?amp=1",
-      "publishedDateTime": "2023-12-05T13:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Khaleej Times",
-        "domain": "khaleejtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

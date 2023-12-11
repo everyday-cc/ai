@@ -65,7 +65,25 @@ related:
         width: 1500
         height: 1060
         isCached: true
+  - title: "French startup Mistral AI closes $415M funding round"
+    excerpt: "The company’s CEO said the goal is to create a “European champion” of generative AI on a global scale, “based on an open, responsible and decentralized approach to technology.”"
+    publishedDateTime: 2023-12-11T13:08:00Z
+    webUrl: "https://cointelegraph.com/news/french-startup-mistral-ai-closes-415m-funding-round"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 17
+  - title: "Open-source generative AI startup Mistral AI raises $415M in funding"
+    excerpt: "French generative artificial intelligence startup Mistral AI announced today it has closed on its second bumper funding round of the year, raising 385 million euros, or around $415 million, in a deal led by prominent venture capital firms Andreessen Horowitz and Lightspeed Venture Partners."
+    publishedDateTime: 2023-12-11T01:47:00Z
+    webUrl: "https://siliconangle.com/2023/12/10/open-source-generative-ai-startup-mistral-ai-raises-415m-funding/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 17
 
-secured: "O8TA1DgR4a4lKfgV+X3qVeUkrCP7PD1ydB3ToTW45QBIv/CbJaZ1KxJbJ7dG9bgxaCHFqGyRScKhvcph+g6qnzAQVTqEzBcTGG+DDZgJyak4G8i3BBQYeNhr0wi0WlTbZ3wbWicD5HcB+00NkmSersdsOuj6AI7+pAvoj/Uvm4VImAMYxvdc7C5e9hreIfFTAQQidM7SZD6lPezYB62SWNXCT5+jR3NCV3mHhnrkANqcYGxNLXVzkGDA/S5mi9yOoyHSX0UbhwD7BnI4oyjyVlGI8ySAUzZDMFlPv1KiJexRHxpNEEyw68eylqQossGZO82JsIUMg8BFYGXR2I/zjVGFSlW4vAFvGM7wWYvqSRU=;nih+C8iQdpYJ7e1wNscl9Q=="
+secured: "On0zvUAgyMJjWPiEWpoV6KehLrQrOU6S23IGZguhgGBEocTNyw+9QgeLzbKlARR1cpDGJUt21M69e0wCtgz6jbxyjMnBZbUF5enS9asmBoIj7GTFlIfHFaBoFG0+V9dA/05PsRiQtUtfKSBapHds+6bu1myXbZNSNmtBXvRFVnoPf7oyTWeVXN0hvrPDU0nw6Sn/soqJ18TOxOz5kybEdfqlqRXs0l9aFkKvt9l3nh1eR6xiv7sMN2tN7XUTzqLo5RkrFr9Eequ8i7Jbk02TnxiWgZARIi2L77UZFo1eXJ6ZLKpeKMHulxfYC92j5EJ95Bc6RTciEHMaUvBNyxA2M2P8DCBeqkY/wOsFNtT9q0daOWhLn51KahdzU5lbWCoOjIYIB3r5H7wx/slqkooTK3bbltFx5Z9WotO519q2lWG1yajZNghspYktBLqDwBeM04y6r0Egu+LUefo/3C5FuGID0ey3R9vkf/XRYoVBcSMgrkJfRNfsh9E5w0bnv8fSz0PBHmMMn9DrQW+qJ4mALA==;eCiPXhF82aSOVfDousucfQ=="
 ---
 

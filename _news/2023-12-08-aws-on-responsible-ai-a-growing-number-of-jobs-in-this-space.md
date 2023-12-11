@@ -35,6 +35,20 @@ related:
         width: 1353
         height: 900
         isCached: true
+  - title: "BigBear.ai Expands its Relationship with AWS to Deliver AI-Driven Solutions"
+    excerpt: "BigBear.ai continues to expand its capabilities to serve the commercial enterprise sector and is proud to advance this new effort with AWS."
+    publishedDateTime: 2023-12-11T13:18:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/12/11/9931286.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 52
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "m8pBAz3WM2/8e+uU3sAhP5zwdF6/BVbyzoXLLuG+2xPvFp0RHaWubBFXbj03TVakNUuRNp8vs9lWE8BtXwMlg6hm6M+sAJEdDeH4iLDDUhunxQ9/SdTgdRQ6as+x4bbim+h3kpRzBF+CI7s4GfpQrBo9EynpYGULKBl05VD//HWGVo4OxhaM0uRiPOUKzLiXhhFI57oWeL7sHL5x0pkULGsX3z6OKFIaVdZUbATiKpuD/CTBX3OwtUmeYQ3eA01ukejj/poRN6CwqiBaeKT7c2wgwgZB1itOqGj480Rs9Z+wA8YfGuMbAVeq5PuFcAvFtW4di94xGRRhA1z8/d9v9IgHbWdWCfJeq+YdG8xYO5zLUqtOzXppDaR4WkqAMV8OaVqS/x6tfLqjCzt9peKJoTxFbpM9FXe1sJfSbUVq2ep6LhJ6tmpvhJ0uoficSf1vdBTCe6eoVmL40yC0po/njgJLbj+S3wSjdyypIaqkIXkao3vbBI3q4lqZwhqAoVqj0vT/o5qZgq7T0eOsWVhNCQ==;hEBtDZwksEVPoFl3f50ZLQ=="
 ---

@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-11-14-whats-the-smart-way-of-moving-forward-with-artificial-intelligence.md",
+      "title": "What’s the smart way of moving forward with artificial intelligence?",
+      "excerpt": "AI and in particular generative AI has the potential to be transformative. Following on from the mass cloud adoption of the last fifteen years it’s the next evolution of how we use technology. How can organisations operationalise it to deliver business benefits?",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/opinion/Whats-the-smart-way-of-moving-forward-with-artificial-intelligence",
+      "originalUrl": "https://www.computerweekly.com/opinion/Whats-the-smart-way-of-moving-forward-with-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T05:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-14-the-future-is-here-autonomous-trucking-company-aurora-expects-its-texas-freights-to-be-fully-self-driving-by-end-of-2024.md",
       "title": "The future is here: Autonomous trucking company Aurora expects its Texas freights to be fully self-driving by end of 2024",
       "excerpt": "Aurora's trucks are equipped with long range lidar, radar and cameras. The company says its trucks use that technology to see four football fields ahead on highways.",
@@ -1194,58 +1228,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-ai-safety-how-close-is-global-regulation-of-artificial-intelligence-really.md",
-      "title": "AI safety: How close is global regulation of artificial intelligence really?",
-      "excerpt": "The UK AI Safety Summit, combined with a G7 declaration and US executive order, shows action is happening on AI. Chris Stokel-Walker looks what happens next.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/future/article/20231107-why-global-regulation-of-artificial-intelligence-is-still-a-long-way-off",
-      "originalUrl": "https://www.bbc.com/future/article/20231107-why-global-regulation-of-artificial-intelligence-is-still-a-long-way-off",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ychef.files.bbci.co.uk/live/624x351/p0gr8j0h.jpg",
-          "width": 624,
-          "height": 351,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-07T17:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

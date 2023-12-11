@@ -7,7 +7,7 @@ originalUrl: "https://time.com/charter/6344366/how-to-make-ai-more-diverse/"
 webUrl: "https://time.com/charter/6344366/how-to-make-ai-more-diverse/"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -22,28 +22,85 @@ topics:
   - AI
 
 related:
-  - title: "Verseon Pioneers Real-time Explainable AI"
-    excerpt: "Revolutionary approach gives robust insights in real time into how AI models reach decisions. FREMONT, Calif., Dec. 7, 2023 /PRNewswire/ -- Verseon is pleased to announce the publ"
-    publishedDateTime: 2023-12-07T13:46:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/12/07/9930057.htm"
+  - title: "Why Generative AI Makes Sense For Edge Computing"
+    excerpt: "Many industry analysts and pundits now predict that generative AI will be the next significant AI application to make an impact at the edge."
+    publishedDateTime: 2023-12-11T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/11/why-generative-ai-makes-sense-for-edge-computing/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/11/why-generative-ai-makes-sense-for-edge-computing/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/11/why-generative-ai-makes-sense-for-edge-computing/amp/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 91
     images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
+      - url: "https://imageio.forbes.com/specials-images/imageserve/648334bbb7a645bee5fbe46d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1351
+        height: 900
         isCached: true
-  - title: "Skills of Tomorrow: How to Prepare for Lucrative Artificial Intelligence Careers"
-    excerpt: "Introduction: In the fast-paced realm of technology, where innovation is constant, the demand for skilled professionals in artificial intelligence (AI) is skyrocketing. Moreover, as industries increasingly integrate AI into their operations,"
-    publishedDateTime: 2023-12-10T18:24:00Z
-    webUrl: "https://techbullion.com/skills-of-tomorrow-how-to-prepare-for-lucrative-artificial-intelligence-careers/"
+  - title: "Generative AI is off to a rough start"
+    excerpt: "As the big vendors overstate the capabilities of their generative AI projects, maybe it’s time to use open source to keep them honest."
+    publishedDateTime: 2023-12-11T10:00:00Z
+    webUrl: "https://www.infoworld.com/article/3711414/generative-ai-is-off-to-a-rough-start.html"
+    ampWebUrl: "https://www.infoworld.com/article/3711414/generative-ai-is-off-to-a-rough-start.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711414/generative-ai-is-off-to-a-rough-start.amp.html"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2021/12/28/10/10_untruthful_lies_liar_untrustworthy-100781303-large-100915050-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "8 Best Generative AI App Builders 2024"
+    excerpt: "Indeed, this AI app platform is very strong when it comes to interoperability: AppSheet apps can connect to hosted Excel files, Google Sheets, Google Drive, Cloud SQL, Apigee, Azure SQL, AWS, Salesforce objects, Smartsheet, and OData. AppSheet naturally ..."
+    publishedDateTime: 2023-12-09T00:00:00Z
+    webUrl: "https://www.eweek.com/artificial-intelligence/best-generative-ai-app-builders/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 69
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2023/12/ew_20231205-best-generative-ai-app-builders.png"
+        width: 1400
+        height: 900
+        isCached: true
+  - title: "LEARNING FROM AI: Genpact turns to GenAI to train staff"
+    excerpt: "Genpact believes that generative AI (GenAI) represents a significant leap in technology. The company wants to make AI Guru a coach for specific roles and guide people on skills they should be learning. For example, a first-time manager who needs constant coaching can talk to an AI Guru for guidance. Time for learning to reboot"
+    publishedDateTime: 2023-12-11T05:55:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-learning-from-ai-genpact-turns-to-genai-to-train-staff-3335079/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-learning-from-ai-genpact-turns-to-genai-to-train-staff-3335079/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-learning-from-ai-genpact-turns-to-genai-to-train-staff-3335079/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 59
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/12/Untitled-design-2023-12-11T112020.544.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "How generative artificial intelligence will change Ohio’s workforce"
+    excerpt: "McKinsey has estimated that, accelerated by gen AI, up to 30% of current hours worked in the United States could be automated by 2030, requiring 12 million job shifts."
+    publishedDateTime: 2023-12-11T05:00:00Z
+    webUrl: "https://www.bizjournals.com/columbus/news/2023/12/11/generative-artificial-intelligence-ohio.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
+  - title: "Dell Technologies storage advancements accelerate AI and generative AI strategies"
+    excerpt: "Dell Technologies is helping customers achieve faster AI and generative AI (genAI) performance with new enterprise data storage advancements and validation with the Nvidia DGX SuperPod AI infrastructure."
+    publishedDateTime: 2023-12-11T01:11:00Z
+    webUrl: "https://itwire.com/guest-articles/company-news/dell-technologies-storage-advancements-accelerate-ai-and-generative-ai-strategies.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
     quality: 14
 
 secured: "QuxX2Ic6Irryedf0aus/E8WUqaMrvAonvVXs8o33qBOIhtHYtC0nCGYON4mMyXKPMdEFTlJigVaoS4b+hGiCTM2bS4sPd48y7v96d6Nx/+ETiYUbEQfeJQ29QJryZIe8nWatl9yL9x8Ln+DmEi52T9ES7m2KcKrsVHW4oCuEoQIRX0/b8wANxv+e7Dztraw+CcxST77ZNt19868Uy7exhWVmRl8wQLKPuXSxPX9u3PMT/M+B7SeZYS/770ZN/ODXz1UMNSbmo+iADONaJzNxgEC3PLjNI+voUBUqc43koR8XL0QBYmgTYQB4scZ+xGcoMuhPrsA0jD1uxPgdzoRuENxaWeiu++s6nuMA5Q96aYRrHzfxcLvejxT7gCQNekiLy7MjP9IQfFLk59RUJR9ipnRFa5BsH4eqXjfpoLfQueQE5NAKYC223ENE0E/1tw5SCjfdUEZkSTniOJKia4t2heCiFaIf+1GXZyRtPOJ6//j/du4Cw7hwbUw7H81Y7iU51eWF/9aH8EasX6l5Vh29Dw==;oJj5hVJLFbERye7ZvGwScg=="

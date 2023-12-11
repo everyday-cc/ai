@@ -28,77 +28,68 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI is off to a rough start"
-    excerpt: "As the big vendors overstate the capabilities of their generative AI projects, maybe it’s time to use open source to keep them honest."
-    publishedDateTime: 2023-12-11T10:00:00Z
-    webUrl: "https://www.infoworld.com/article/3711414/generative-ai-is-off-to-a-rough-start.html"
-    ampWebUrl: "https://www.infoworld.com/article/3711414/generative-ai-is-off-to-a-rough-start.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711414/generative-ai-is-off-to-a-rough-start.amp.html"
+  - title: "Google announces Bard Advanced, it's most advanced Gemini-powered AI helper"
+    excerpt: "Bard Advanced is powered by Google's Gemini Ultra AI model and will be available soon to select testers. It will go public early next year."
+    publishedDateTime: 2023-12-07T02:37:00Z
+    webUrl: "https://www.androidauthority.com/google-bard-advanced-3392203/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 87
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 67
     images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2021/12/28/10/10_untruthful_lies_liar_untrustworthy-100781303-large-100915050-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "8 Best Generative AI App Builders 2024"
-    excerpt: "Indeed, this AI app platform is very strong when it comes to interoperability: AppSheet apps can connect to hosted Excel files, Google Sheets, Google Drive, Cloud SQL, Apigee, Azure SQL, AWS, Salesforce objects, Smartsheet, and OData. AppSheet naturally ..."
-    publishedDateTime: 2023-12-09T00:00:00Z
-    webUrl: "https://www.eweek.com/artificial-intelligence/best-generative-ai-app-builders/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 69
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2023/12/ew_20231205-best-generative-ai-app-builders.png"
-        width: 1400
-        height: 900
-        isCached: true
-  - title: "Meta announces Purple Llama initiative to promote responsible and safe generative AI development"
-    excerpt: "Meta announces Purple Llama initiative to promote responsible and safe generative AI development - SiliconANGLE"
-    publishedDateTime: 2023-12-07T15:52:00Z
-    webUrl: "https://siliconangle.com/2023/12/07/meta-announces-purple-llama-initiative-promote-responsible-safe-generative-ai-development/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 26
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/Image-1.png"
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Google-Bard-website-on-phone-7.jpg"
         width: 1920
         height: 1080
         isCached: true
-  - title: "How generative artificial intelligence will change Ohio’s workforce"
-    excerpt: "McKinsey has estimated that, accelerated by gen AI, up to 30% of current hours worked in the United States could be automated by 2030, requiring 12 million job shifts."
-    publishedDateTime: 2023-12-11T05:00:00Z
-    webUrl: "https://www.bizjournals.com/columbus/news/2023/12/11/generative-artificial-intelligence-ohio.html"
+  - title: "Google Gemini: Everything we know about the advanced AI model"
+    excerpt: "There are three versions of Gemini. The biggest is the Ultra model capable of \"seeing the world the way humans do\" through video, audio, text and images. The second is the Pro model, which is powering Google Bard and is similar in ability to the free ChatGPT."
+    publishedDateTime: 2023-12-11T15:37:00Z
+    webUrl: "https://www.tomsguide.com/features/google-gemini-everything-we-know-about-the-advanced-ai-model"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
-  - title: "Open-source generative AI startup Mistral AI raises $415M in funding"
-    excerpt: "French generative artificial intelligence startup Mistral AI announced today it has closed on its second bumper funding round of the year, raising 385 million euros, or around $415 million, in a deal led by prominent venture capital firms Andreessen Horowitz and Lightspeed Venture Partners."
-    publishedDateTime: 2023-12-11T01:47:00Z
-    webUrl: "https://siliconangle.com/2023/12/10/open-source-generative-ai-startup-mistral-ai-raises-415m-funding/"
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 41
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/TwMjTG2hMW5Z5McwPXyfsJ-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Google Gemini, Next Level AI, Comes To Bard & Coming To SGE"
+    excerpt: "Google announced its latest AI advancements named Gemini yesterday, calling it the most capable AI models yet. It is already baked into Bard and it is being tested in SGE, the Search Generative Exper"
+    publishedDateTime: 2023-12-07T12:51:00Z
+    webUrl: "https://www.seroundtable.com/google-gemini-bard-search-36518.html"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 17
-  - title: "Dell Technologies storage advancements accelerate AI and generative AI strategies"
-    excerpt: "Dell Technologies is helping customers achieve faster AI and generative AI (genAI) performance with new enterprise data storage advancements and validation with the Nvidia DGX SuperPod AI infrastructure."
-    publishedDateTime: 2023-12-11T01:11:00Z
-    webUrl: "https://itwire.com/guest-articles/company-news/dell-technologies-storage-advancements-accelerate-ai-and-generative-ai-strategies.html"
+      name: Search Engine Roundtable
+      domain: seroundtable.com
+    quality: 39
+    images:
+      - url: "https://s3.amazonaws.com/images.seroundtable.com/google-robot-gemini-1701889044.jpg"
+        width: 1456
+        height: 832
+        isCached: true
+  - title: "Google Bard’s Gemini Upgrade: We Tested it for Travel"
+    excerpt: "We tested the updated version of Google Bard on how well it performs for planning and booking travel, and more."
+    publishedDateTime: 2023-12-09T12:00:00Z
+    webUrl: "https://skift.com/2023/12/09/google-bards-gemini-upgrade-we-tested-it-for-travel/"
+    ampWebUrl: "https://skift.com/2023/12/09/google-bards-gemini-upgrade-we-tested-it-for-travel/amp/"
+    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2023/12/09/google-bards-gemini-upgrade-we-tested-it-for-travel/amp/"
     type: article
     provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 14
+      name: Skift
+      domain: skift.com
+    quality: 24
+  - title: "How to use Google Gemini in Bard to get the best results"
+    excerpt: "Google has recently updated its AI chatbot, Google Bard, with its new Gemini AI model, which brings a host of enhanced features to improve the user"
+    publishedDateTime: 2023-12-10T11:03:00Z
+    webUrl: "https://www.geeky-gadgets.com/using-google-gemini-in-bard/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 4
 
 secured: "aLhzS85fNoDJReCTfvSc49ZwyJHsMtKomNaRqpQcg82ACAyDyEaHIZJd2T6iMV+/4yOvOhvlNsT3o8NFoLKKa7eqmgm8VATST1kGjh3p/zQQzFNTj22CMzq3hw0kWbFdgvJqlCsptlPMLhDrL4sA/cWq+CMQUivj08gSzfGrUTjoyq6rFH5u7MGfNEaHEebYwfiM5L+iD1Q/6za84I3ot2I83DjtZ/AdUItUmM7yKRPWyK9zcPVhAPWTBS7x0UKjbTtnWEMPyAMS1oWW4I3KIlg5MdBBdhDwhnCwmafuyRJY+r29GR4ok9A4HFegsnPk5JZ/Na+hyRdx5DVDUJwA1GacF3KoVbGkE0rkMw8jhHcsjIyfy4qEY0PK6jF+zsaC13ARj/pphqVslUwOo+vWj7gSHc6CsaIflqXa3IPc9KYrOPiun5cchfwBEH2QM+8NRzHaGVYqRvUrM1twaKIVEL2jD9bvCMPyScFq26rjIrq3FZbdtM3V0GtPutzwCQPlRjNGl8qBoFXqcEYXRND+UA==;J+7H8qOD+1LOt5cvvHEMdA=="
 ---

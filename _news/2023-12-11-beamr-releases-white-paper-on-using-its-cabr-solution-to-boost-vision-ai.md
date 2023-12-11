@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/beamr-releases-whi
 webUrl: "https://markets.businessinsider.com/news/stocks/beamr-releases-white-paper-on-using-its-cabr-solution-to-boost-vision-ai-1032889190"
 type: article
 quality: 68
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -38,6 +38,15 @@ related:
       name: Houston Chronicle
       domain: chron.com
     quality: 17
+  - title: "OneVision Releases Its Latest Software Version 23.2"
+    excerpt: "OneVision's newest version expands the functionalities of its modular automation software, providing more features for automated production."
+    publishedDateTime: 2023-12-07T17:51:00Z
+    webUrl: "https://www.piworld.com/article/onevision-releases-its-latest-software-version-23-2/"
+    type: article
+    provider:
+      name: Printing Impressions
+      domain: piworld.com
+    quality: 4
 
 secured: "L7IOShOy7HsHYTh5oQdeOW6FZae9I1IGUgqxw5t5MeMlcQGcnUlXMV4hkgVylRcdDA6PENJ8tlkyv8wd6Q9R9SllnJEDv5W5e1ekUVDPnW7HxgxF/7Y0hx4BjVbPZPLgHuFfd5rreiggI5StcrQvHgZSlr8/haL+p5Ce/270rGC/i0LApKnqSxqUms3++v9v5J/jvh0XRv0Ca6m45ya0rM9yqljMw9VgAmHfy+RCpazFE//KcXpYn7FMEJn8XY/LjbHFw4z+BTEgBtGLV2t1t+YbjfdqqUFc60o3atTWF6LDXBQAmXO9AWi0P5528OmqvL1ACTNqR/E9GfqYXkA+tAtgTpsJNlsLpvKAGb8JymU=;6547XEZV6qCt7i++rD2H4Q=="
 ---

@@ -39,16 +39,7 @@ related:
         width: 1007
         height: 522
         isCached: true
-  - title: "Cleveland Clinic joins Meta, IBM in launch of AI Alliance"
-    excerpt: "\"Open source democratizes access to these tools, and that helps level the playing field and foster innovation for people and businesses,\" Meta CEO Mark Zuckerberg has said."
-    publishedDateTime: 2023-12-06T13:25:00Z
-    webUrl: "https://www.bizjournals.com/cleveland/news/2023/12/06/cleveland-clinic-meta-ibm-ai-alliance.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
-secured: "l9XdyDDxiDQcYvLGskWudnZzjypfQ3vzksP+4HC8DNzYp9EYmYZ93cmhRH12zlhNSwidA9fqsnQuxBCzFVa3yhUdFi7FD+jNJ+PVPx+orlL1Vjra1SHY14MMCMEIuRSQERWjB2qM69vkHjH9I9zfgf6JoT/m/7+muRKpvsU6Kv7Dxz/YRKTAkj3r8uSSFD1dGh3XvxQWYWzcyccD3HyhUJNQ0MXcwlRkjOyQW8lPSDdQkH+VKk/2/6sjik3zxNwswhjJkh4UBZyswDsF/xr9jiGvQHc+jwxFGOuAH75cpSuSwiHrR19rMg5eqwHlIrtqAh8G2YQMpPhMmEBNWTSwh1FdtAJGYiCfu75iwNaAa98=;vld27VfVNHpq7inzJDobZw=="
+secured: "lg0kl7H3Irvr01Jg/ZijuWPa8rjD7Jie0jzUVaTkFz8bEpRJJPCyGHw49xFCLQ1jUzeHQFrrhMpA75Pz3tdBnoFrhe5sCCjvU/5GFcaTn3w+Kw9oK4DaML92gjRt0R4QCilsukY9GeLC1q70MLx2gieey086ZsXIjK1eJXbquMXinEIFRff91HhHxSdMhaq4DH37Rv7kAuff2T4hZjfkhinoCypfqL8zsJIe/Yp9CBDFfF3jKXx68pPyIzmMHAX3rynqxmRJ5YGNcSwDZXmWi7OrHu+1fIrcJo2eDtiRoeMjgsLLqfKsXu7/5L06miYRG1UV45xvoYuV9l23m31/glGJ8OifjdDFUqWGmoA5wXcSHhmqM4OYY9f4fTPZZmN3I1Ewk86gQ4m4c92fzro27qFwLwSA3DmHgUpRZ0ZLXyqUgR0s/Gxt+D6rK+y/NjXVNssNGSLM6na6AYmyacXOqz7Pm/G1grxFklFVeMVjCqjDLudFI5KxADfXuz+bxrcStT5sivx6Nx/9qQPpWVpOqA==;EIE+8+q2DsZeCNnC9yoe2g=="
 ---
 

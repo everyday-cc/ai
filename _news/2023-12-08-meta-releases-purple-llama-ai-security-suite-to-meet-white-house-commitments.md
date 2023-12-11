@@ -36,22 +36,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Apple silently releases its Deep Learning framework as open-source code"
-    excerpt: "Apple is silently releasing its Deep Learning framework as an open-source code, according to X user Delip Rao. The new MLX framework runs natively on Apple Silicon with a single pip install. According to BGR,"
-    publishedDateTime: 2023-12-06T15:19:00Z
-    webUrl: "https://www.mactech.com/2023/12/06/apple-silently-releases-its-deep-learning-framework-as-open-source-code/"
-    ampWebUrl: "https://www.mactech.com/2023/12/06/apple-silently-releases-its-deep-learning-framework-as-open-source-code/amp/"
-    cdnAmpWebUrl: "https://www-mactech-com.cdn.ampproject.org/c/s/www.mactech.com/2023/12/06/apple-silently-releases-its-deep-learning-framework-as-open-source-code/amp/"
-    type: article
-    provider:
-      name: MacTech
-      domain: mactech.com
-    quality: 59
-    images:
-      - url: "https://www.mactech.com/wp-content/uploads/2023/10/Apple-and-AI-1024x551.jpg"
-        width: 1024
-        height: 551
-        isCached: true
   - title: "Introducing Purple Llama for Safe and Responsible AI Development"
     excerpt: "Purple Llama will bring together tools and evaluations to help developers build responsibly with open generative AI models."
     publishedDateTime: 2023-12-07T14:30:00Z
@@ -91,6 +75,15 @@ related:
       name: Business Times
       domain: businesstimes.com.sg
     quality: 19
+  - title: "OpenAI’s Soap Opera Collapse Bodes Ill for AI Benefiting Humanity"
+    excerpt: "Whatever fantasies we may have had about the nonprofit structure of OpenAI have been eviscerated. While it remains a nonprofit, it’s proven entirely beholden to ruthless capitalism"
+    publishedDateTime: 2023-12-11T13:04:00Z
+    webUrl: "https://www.scientificamerican.com/article/openais-soap-opera-collapse-bodes-ill-for-ai-benefiting-humanity/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 17
 
 secured: "40F7nrJv4jU6y/WdGrkoI3KU8eCwFOPJBWyUWHsCXjN//kQvw8yMDJaxshFmigrelcuij3vvxO27K3dX/BFrIa/YSWWqe9xm2h704sdDl4l7AaCY+6IJ+qITCs8MziFJSKMS2xtsD3i1xHcGPjOL+EW/yGNiQjavu39vNdziQpgLjhMA1yBaM3bCFTr9u6B1LoYaYLCJX/FrnYsV3n1xsUVWv8mphM87Sc5Q/nDetoAoVMwv/idYeZDGsL/hNIx7vCnLjJQwg9jvLBqbx9UxySUiodBxRtqXMvwfd38ftRjf1xgU5PKmd8IofrHy5K6Wh698B68e0YKofsR4Zb7VO+pS/UaDXBQSs/9g9vmf69A=;DJfbWQED0/Dn+urbEGhzRw=="
 ---

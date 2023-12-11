@@ -24,6 +24,17 @@ images:
     height: 360
     isCached: true
 
+related:
+  - title: "Tiny llama nanobodies neutralize different noroviruses: Can they improve human anti-viral therapies?"
+    excerpt: "Researchers investigated a novel strategy to neutralize human noroviruses. They tested the ability of tiny antibodies produced by llamas, called nanobodies, to effectively neutralize human norovirus infection in the lab."
+    publishedDateTime: 2023-12-10T02:05:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/12/231207160851.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 19
+
 secured: "92tOT/roLw7818h6uAv0dj9W/NJDQeccFuTpWe0/ZEoRU4sqKsjTUldGU0rmxue3tBaQZnzKeFQ+DEfLcaAOWgjgaq1JjuEL5VNifXQrhQ0ARsIB6oUkv3r5lbqYWefqus1bUG1/tMiI5WIrzI7AVnNWDzFE70I9dT3UGlD+j0jJr6hQ0BsehFaeV+3YxTD7ysfOnipb+On0g2boG3CTINg4RxZxgbAzN/FZEwMW0D92//K6eSIOL30mY2UJZrLhu01BCrQUPM7MvIfuHXDchvU5YigI28O+dirY6qCRcE9bxJeoUYTLkdQ2ZypVi0dtZ5NCpuN9N2eMUyBVVI+VoOyvQpjL6ZgkJpDTDFGr4hjvG0p0PTe/+7mIk2HlybBjNKwiIp3Dn/jT7QnldRBXMgcDV0B/vqtTU9Wv/ud2KEaRaA0zJOT4XgVQ7eDTM7cymVgwAfEnfPFe4LBfqUJx+vtov4co+f2bYwIuQIy9/wyqxrLNmeUNiEoQlBl1TqmRHbgo/obqpV0ovp00LfudWQ==;N+ALDL1XETCuT/D6Qp7bAA=="
 ---
 

@@ -61,6 +61,15 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 47
+  - title: "E.U. Reaches Deal on World’s First Comprehensive AI Rules"
+    excerpt: "European Union negotiators have clinched a deal on the world's first comprehensive artificial intelligence rules"
+    publishedDateTime: 2023-12-11T11:14:00Z
+    webUrl: "https://time.com/6344628/eu-ai-rules-deal/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 47
   - title: "EU agrees draft laws on artificial intelligence"
     excerpt: "The 27 member-nations of the European Union have agreed draft laws to oversee artificial intelligence, or AI, within the bloc. The countries will vote on the provisional legislation — known as the European AI Act — early next year and the rules could be in place in 2025."
     publishedDateTime: 2023-12-11T01:39:00Z
@@ -74,6 +83,20 @@ related:
       - url: "https://img2.chinadaily.com.cn/images/202312/11/6576632fa31040acaf82600a.jpeg"
         width: 955
         height: 636
+        isCached: true
+  - title: "EU agrees landmark AI regulation deal"
+    excerpt: "The European Union has introduced the world’s first comprehensive laws to regulate the use of AI, reaching a provisional deal between its member states. The laws were agreed after 36 hours of talks, with the European Parliament to vote on the AI Act proposals early next year."
+    publishedDateTime: 2023-12-11T15:54:00Z
+    webUrl: "https://www.inavateonthenet.net/news/article/eu-agrees-landmark-ai-regulation-deal"
+    type: article
+    provider:
+      name: InAVate
+      domain: inavateonthenet.net
+    quality: 39
+    images:
+      - url: "https://res.cloudinary.com/iml/image/upload/w_1024,c_scale/c_crop,g_custom/w_1024,c_scale/v1702310161/widgetdocs/EU_Shutterstock_yxfiqk.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "29J11CwkG74OKx5bS5Kmivh3NBmvqMNMsivpJIA/OoZhwPSlfwTPj7tjQVQsCP98L0QsTQQGbHqwEGjDvz/aDsvShoKDDv6DtqwSHqyBTYzO8DhoBpw0G+rK2Z2GenaqZiqz0A2Bcu6I4zjpI3dpbLqH5lxQPHffhM27gP7YdM8qpIRMR8xnB243d2Yhbxikyu0gdIMRVyyv3hIMriiKW0kzPzBn1QRYe4opfAMifgn2Anf6DtVKnpdrA4VjVNKX9pDwQzpPYmhrCfYlDIyDSKCto5CkjfrK7hyewhaX1lFTFi1q8hM70HM5K2gqCuw40IoPvpybwSFxBkKh4Y1rIpr+68sY8GNhaxWz3/7N/VhB/z78d2eeSvvlWfDcIAxe/TdUoqh8UR+F7m8NFOB93/OsR+iUD+1osledt+Ml+v+/lQOZR4RP1s14rRw01iMWXB0P2N2sj5IIMZbofd3OxRiEXYC4p/o+V42dmvA2bGmvfNwPKBk/T0N55mT7lwKbWl5Wv8djrCSJE4FtDfIbxA==;Q3fVThFJnWHJPCLiPyTtCA=="

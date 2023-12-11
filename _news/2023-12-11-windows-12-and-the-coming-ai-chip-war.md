@@ -41,19 +41,28 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Technologies like artificial intelligence are changing our understanding of war"
-    excerpt: "Artificial intelligence (AI) is widely regarded as a disruptive technology because it has the potential to fundamentally alter social relationships. AI has affected how people understand the world, the jobs available"
-    publishedDateTime: 2023-12-11T06:52:00Z
-    webUrl: "https://www.econotimes.com/Technologies-like-artificial-intelligence-are-changing-our-understanding-of-war-1667684"
+  - title: "Artificial intelligence and trade secrets"
+    excerpt: "December 11, 2023 - Generative artificial intelligence (AI) is an emerging class of machine learning technology that can synthesize content including text and images. This article outlines the history of generative artificial intelligence and the serious ..."
+    publishedDateTime: 2023-12-11T16:17:00Z
+    webUrl: "https://www.reuters.com/legal/legalindustry/artificial-intelligence-trade-secrets-2023-12-11/"
     type: article
     provider:
-      name: EconoTimes
-      domain: econotimes.com
+      name: Reuters
+      domain: reuters.com
+    quality: 47
+  - title: "Technologies like artificial intelligence are changing our understanding of war"
+    excerpt: "Technologies such as autonomous weapon systems (AWS) and cyberweapons have the potential to change conflicts and combat forever."
+    publishedDateTime: 2023-12-11T14:27:00Z
+    webUrl: "https://www.canadianmanufacturing.com/features/technologies-like-artificial-intelligence-are-changing-our-understanding-of-war/"
+    type: article
+    provider:
+      name: Canadian Manufacturing
+      domain: canadianmanufacturing.com
     quality: 35
     images:
-      - url: "https://f1.econotimes.com/2023/12/eg4ua4q96q_th_1024x0.jpg"
-        width: 496
-        height: 234
+      - url: "https://www.canadianmanufacturing.com/wp-content/uploads/2021/06/file-20210614-73420-1p549ga.png"
+        width: 1000
+        height: 667
         isCached: true
 
 secured: "fgCnALSlRHAJw2aAImbXZSdF/z+ju7kZj7gX/l1j8oBdIjFMYqTbzlaGYGKhBzbFNqq+CVY48Wrkr92QQ3VNkosDPauI5GXP1dDxmzmilajI+xftKqtDCHhuPx2nfF55kda+dUoXPZ2qyRLvelrOh82+c89AvRWIyuFXmYehv3DHVP2Dih17VJ4OR97kekXsPn9GhcXsquJh4fxOVTOHAcu8TBKlUNtQ93NLgIVvAITJ1Y+RKFZfqOv4ILmJMNIamdi0runXm7AyQDT4og4DPDzEE55asrvPdJI3akPIxyhx0wtWb+4/urRH4o+Du937gcDUBaWVM7Cs+eXXDmUr4xPWocq6e4dJkwOvnc5ekGk=;itenKxANaZg43Vyn+Vvy1Q=="

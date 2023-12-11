@@ -7,7 +7,7 @@ originalUrl: "https://emerging-europe.com/partner-content/the-eus-ai-act-a-beaco
 webUrl: "https://emerging-europe.com/partner-content/the-eus-ai-act-a-beacon-of-innovation-and-ethics-for-emerging-europe/"
 type: article
 quality: 54
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -48,6 +48,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "In Landmark Vote, Europe Approves AI Regulations--Paving the Way for U.S. Adoption"
+    excerpt: "Writing laws that keep pace with the fast-growing world of A.I. seems fraught with challenges. One thing everyone agrees on: the goal is to protect people's data -- and small businesses."
+    publishedDateTime: 2023-12-11T15:25:00Z
+    webUrl: "https://www.inc.com/kit-eaton/in-landmark-vote-europe-approves-ai-regulations-paving-way-for-us-adoption.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 31
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/getty_1258475609_ztqcoo.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Europe reaches a deal on the world’s first comprehensive AI rules"
     excerpt: "Click to email a link to a friend (Opens in new window) Click to print (Opens in new window)  LONDON | European Union negotiators clinched a deal Friday on the world’s first comprehensive artificial intelligence rules,"
     publishedDateTime: 2023-12-11T01:34:00Z
@@ -67,6 +81,6 @@ related:
       domain: eureporter.co
     quality: 15
 
-secured: "EtcYx5uFkm2cO9nv+p0YUQEUa+EHDAiiaF8BAObvXoQaXW94S9ko/+fZ6w1bz7qEmI/SThYOD/TMD1Cew7u6RxcBBDbeos4MmPabM2IheKPzJrV+KlPKuarfki6jtXhVApAetZQ7OjLD4UJMDNTH9TsKI8J4+pjB9WDLWzh+928/vP9s3gKlDHQC40EHvCEEVlVbNlzDiHwwJovazRB1QQz6ZIuqEKIAZOh3bRsF3BxaQuMQRO8jam7z6DKay//rYd+cpYHE7r+d8DY0MWG+0hG3XpL4qcelE/cTyrmYol+wN8VOJ6uSffTYYayPpWgNqxw5b4+FKP4e1vDpDTcX5I1jgN3u+nCTNDD0aKeEnHk=;u6EEC33ZPXDcT5e2kis3wg=="
+secured: "4oSkf2S6EshxzZdNVBTwIEgH3TQC00Y8Ladr3nYLJhNL+e79NiunIreKGplptTywXiAhZzuLuBcKO1SJ1Ds4iRAJWqzpghfr7aXK3amHwhRw49S+ao5sZFuJ2oy3WMBrDI05Do4YwjRNKG4iyiIGBer9GEulyILky6cOvv9DuF6UysvU1F2wGm1CIUb/6DXSoQ0HlAG0a1/bMsXlsBPguimRBIPNNZvxHW7CVUSPdP7S/u1hfjdZiGnekh13AskBYNXCCzOTDPEEKxkD/t4PtyWR1Jhg7cx9jMlPIXD+VnLFO4YYi0eT40JUd0ivZKWPpr3HRlkhMJ229RWGUDLKIBPjz9+YCglKxZwmdmF2+f0yXsnyWvEQy8j9cm2Xjb/PxCniGs1oUdfOwvCSKhA/LZEHfOERP3V3Pa5g5r+ZrblzVw9E36l2w16nmJex6wAXczvkK+im+yfLCY1xWRZFMaIUeTHNq9V/sKfoasm7r4bXrFmq1BJF8FPOGswmcNI9Q5YZx4v8rBZS2wuiM+HdTw==;iicPd2mpacMc53NyOJRwXg=="
 ---
 

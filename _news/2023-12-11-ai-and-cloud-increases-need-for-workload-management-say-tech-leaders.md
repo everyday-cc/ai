@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/ai-and-cloud-increases-need-workload-manageme
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-and-cloud-increases-need-workload-management-say-tech-leaders?amp"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -26,6 +26,17 @@ images:
     height: 422
     isCached: true
 
-secured: "t+DJXSajL69emKo9p/bU1rorxt4aQQvIFXPdIccxDOk7zRaIFE2EqJIhFLVGtZOJLqLMwOchFRnNDYpNS6CkajZ5crmstesvshTwgESxOGgCmYO+KOsww/C3RrtKo+UG+TAe2aBmSA5Kd3Kf0fTu1Ne4Uns7d2FR3QWbqit2+HCFt5pVz3OeqOTU2xpzFQ03+I2JeXXI0bqjqJcmtnBHsQvYV3DDG/fcAtK1/Z6MCEaWgU/jWz0Whe/q8kwyvJdCeeqMD2Z/FtwloVV1L6R9gfn0fQQbJg1KNkVF6WMOtsTRZIeQcXkLPYq5IIZkeTDbrc34CnX6GRZL1AnnHX+MuN8+z5RqGYetHZ3hNoubuP0=;lfpd1FLAaMbaSdavyFVt0w=="
+related:
+  - title: "Demand for artificial intelligence development drives increase in tech hiring"
+    excerpt: "With the gains in employer hiring intent for AI talent, the job posting data is finally catching up to the hype,” said Tim Herbert, chief research officer, CompTIA. “As an enabling technology, companies hiring for AI skills inevitably need to boost adjacencies in areas such as data infrastructure,"
+    publishedDateTime: 2023-12-11T14:21:00Z
+    webUrl: "https://wraltechwire.com/2023/12/11/demand-for-artificial-intelligence-development-drives-increase-in-tech-hiring/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 14
+
+secured: "gp50dskW9CFH+6Gm4R24d1xjq4PPRB0797tjQCfJH0jBLjBD5yWHetTq+utkHIG3uH2pc9ZXkSe6PqrwiqmUC8pqbCAF5STZQPQUTZu6KJyUchz5PgKIBJ9RLquVK5BZWxl9XvsinD9NR8rI6DSuZwa14PNKF5ucxSz0IG8ntFSb/N5ZOnWz0JNtuSI24oTDa8H9ssmAsGKLmPE9am30Es5dPJdXChCWwfgbmylinRn2ouQdhxcyTroyK0+eM4tmL+v6YIC7wClfGnNB5TP5QseF9hNOAyyIaVes/yZTyax3KeYHvmJboNbKUcT/5mKBm2dz3Pf1gNq0VAPrAU89oQLzxU71eTwXKkVedd/oNeudlyRoZ4obI24Trjai3LPstgjVkFjVar2a5Hl1F3UtoSx7Wwmk1s4S1SBgnGDcRxIOUvwosN68fZMgrIbXQFiRR+S5qZLx1UrHg8ZHPOXzt5NYpkzIHalpE31h4LOl8+l2mDw3z3kpp6G9EBl36R/IfSmWCRDj93SxFUD5BhMc5A==;7KEbwvXtwwRuWGaNq9wcCg=="
 ---
 

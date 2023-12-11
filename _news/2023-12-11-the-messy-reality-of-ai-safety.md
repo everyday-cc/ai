@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Apple silently releases its Deep Learning framework as open-source code"
-    excerpt: "Apple is silently releasing its Deep Learning framework as an open-source code, according to X user Delip Rao. The new MLX framework runs natively on Apple Silicon with a single pip install. According to BGR,"
-    publishedDateTime: 2023-12-06T15:19:00Z
-    webUrl: "https://www.mactech.com/2023/12/06/apple-silently-releases-its-deep-learning-framework-as-open-source-code/"
-    ampWebUrl: "https://www.mactech.com/2023/12/06/apple-silently-releases-its-deep-learning-framework-as-open-source-code/amp/"
-    cdnAmpWebUrl: "https://www-mactech-com.cdn.ampproject.org/c/s/www.mactech.com/2023/12/06/apple-silently-releases-its-deep-learning-framework-as-open-source-code/amp/"
-    type: article
-    provider:
-      name: MacTech
-      domain: mactech.com
-    quality: 59
-    images:
-      - url: "https://www.mactech.com/wp-content/uploads/2023/10/Apple-and-AI-1024x551.jpg"
-        width: 1024
-        height: 551
-        isCached: true
   - title: "Introducing Purple Llama for Safe and Responsible AI Development"
     excerpt: "Purple Llama will bring together tools and evaluations to help developers build responsibly with open generative AI models."
     publishedDateTime: 2023-12-07T14:30:00Z
@@ -90,6 +74,15 @@ related:
       name: CoinTelegraph
       domain: cointelegraph.com
     quality: 32
+  - title: "OpenAI’s Soap Opera Collapse Bodes Ill for AI Benefiting Humanity"
+    excerpt: "Whatever fantasies we may have had about the nonprofit structure of OpenAI have been eviscerated. While it remains a nonprofit, it’s proven entirely beholden to ruthless capitalism"
+    publishedDateTime: 2023-12-11T13:04:00Z
+    webUrl: "https://www.scientificamerican.com/article/openais-soap-opera-collapse-bodes-ill-for-ai-benefiting-humanity/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 17
 
 secured: "E6pI0ZTWSPrBbihZ40FlV5MOJSB5M8HDR2asUoe4HINDM98lxlS1X9hTdYzoWZImfhjcwulpni89lp9DxnKx6IFJLpdEphhnIyBurQgDPSWzumzte/hitJr+kLyU+rG7ssPFMMRQBJA7huq7KE0zi5jmI5Mecbwh4uZzQUu+nk3ngJ8oYODxZBwqrqjmdzreJ24qNL5phFi0VQdChoBLZK3gr/fZ3WIcfMRYXi6bOaKbENGG+RyDjJkpCmeX19/RoziHrIpb2zhTrTPrw7W3CDEIDzanAtYikWv7JeKIOUN7jiT+0Y7yJq/hp3KtOV/dwblaScZBS5fAPTOvNeGao7oRnxuA61R7FLIXpA6u3LpI9n4Lttnq+2VRooKj4xNhEfzA1eLVU5HoAfpaD1rbo5GqqGdTojoW940VL51OWEFTkCgTHiKL+QfuLW4CgrY6+LD4dhkaBQlVKEsfDtEHYsmAEondyfttJ94/bgmA05BDWAh1/Ts0TaD2roYwSj7WqIaC49/Yf7WwpnpBk0f3KA==;YUZcdhdlbSgDZxdfv18URQ=="
 ---

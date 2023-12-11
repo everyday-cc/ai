@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/2023/12/06/technology/google-ai-bard-chatb
 webUrl: "https://www.nytimes.com/2023/12/06/technology/google-ai-bard-chatbot-gemini.html"
 type: article
 quality: 71
-heat: 101
+heat: 121
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "ChatGPT vs. Google Bard, round 2: How does the new Gemini model fare?"
+    excerpt: "Now, the AI days are a bit less “early,\" and this week's launch of a new version of Bard powered by Google's new Gemini language model seemed like a good excuse to revisit that chatbot battle with the same set of carefully designed prompts."
+    publishedDateTime: 2023-12-08T19:01:00Z
+    webUrl: "https://arstechnica.com/ai/2023/12/chatgpt-vs-google-bard-round-2-how-does-the-new-gemini-model-fare/?view=archive"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 71
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/12/chatgpt-vs-bard-round2-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "Google Gemini: Everything you need to know about Google's Answer to ChatGPT – Updated December 2023"
     excerpt: "Google has an extremely powerful AI chatbot called Bard. It’s already proven to be a helpful and very capable chatbot, and Google has integrated it into several of its products. While the ..."
     publishedDateTime: 2023-12-08T00:00:00Z
@@ -59,6 +73,20 @@ related:
       - url: "https://lifehacker.com/imagery/articles/01HH2K614JGSDMCZ043XDQPM9V/hero-image.fill.size_1200x675.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Elon Musk was mocked by his new AI-powered chatbot"
+    excerpt: "Aravind Srinivas, boss of Perplexity AI, asked Elon Musk's chatbot to \"roast\" its creator — and Grok didn't hold back. The chatbot called the Tesla and X"
+    publishedDateTime: 2023-12-11T16:27:00Z
+    webUrl: "https://rollingout.com/2023/12/11/elon-musk-new-ai-powered-chatbot/"
+    type: article
+    provider:
+      name: Rolling Out
+      domain: rollingout.com
+    quality: 37
+    images:
+      - url: "https://rollingout.com/wp-content/uploads/2023/12/1650967619cropped3474x2605.jpg"
+        width: 1000
+        height: 650
         isCached: true
   - title: "These Are the Biggest Differences Between Google Bard and ChatGPT"
     excerpt: "AI chatbots are more popular than ever, and there are plenty of solid options out there to choose from beyond OpenAI’s ChatGPT. One particularly strong competitor is Google’s Bard AI, which pulls information from the internet and runs off the latest Gemini language model created by Google."

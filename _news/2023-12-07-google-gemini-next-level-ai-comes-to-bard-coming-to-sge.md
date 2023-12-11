@@ -39,6 +39,34 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Google’s Gemini Is the Real Start of the Generative AI Boom"
+    excerpt: "A new AI model from Google—called Gemini—is fresh competition for OpenAI’s ChatGPT. The AI rivals are now working on even more radical ideas."
+    publishedDateTime: 2023-12-07T16:08:00Z
+    webUrl: "https://www.wired.com/story/google-gemini-generative-ai-boom/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 67
+    images:
+      - url: "https://media.wired.com/photos/6570fa9c24772bae860336a9/191:100/w_1280,c_limit/bard-biz-gemini_mm_03.jpg"
+        width: 1280
+        height: 670
+        isCached: true
+  - title: "Google Gemini: Everything we know about the advanced AI model"
+    excerpt: "There are three versions of Gemini. The biggest is the Ultra model capable of \"seeing the world the way humans do\" through video, audio, text and images. The second is the Pro model, which is powering Google Bard and is similar in ability to the free ChatGPT."
+    publishedDateTime: 2023-12-11T15:37:00Z
+    webUrl: "https://www.tomsguide.com/features/google-gemini-everything-we-know-about-the-advanced-ai-model"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 41
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/TwMjTG2hMW5Z5McwPXyfsJ-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google Bard’s Gemini Upgrade: We Tested it for Travel"
     excerpt: "We tested the updated version of Google Bard on how well it performs for planning and booking travel, and more."
     publishedDateTime: 2023-12-09T12:00:00Z

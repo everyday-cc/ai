@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/carolinamilanesi/2023/12/08/ethics-in-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinamilanesi/2023/12/08/ethics-in-ai-a-conversation-with-diya-wynn-aws-responsible-ai-lead/amp/"
 type: article
 quality: 121
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "BigBear.ai Expands its Relationship with AWS to Deliver AI-Driven Solutions"
+    excerpt: "BigBear.ai continues to expand its capabilities to serve the commercial enterprise sector and is proud to advance this new effort with AWS."
+    publishedDateTime: 2023-12-11T13:18:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/12/11/9931286.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 52
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "AWS on responsible AI: ‘A growing number of jobs in this space’"
     excerpt: "Diya Wynn, the Responsible AI lead at AWS, works with her organization’s customers to secure a future where AI is powerful and accountable."
     publishedDateTime: 2023-12-08T14:23:00Z

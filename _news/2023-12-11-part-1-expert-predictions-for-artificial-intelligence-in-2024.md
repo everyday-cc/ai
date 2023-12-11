@@ -44,7 +44,18 @@ related:
         width: 1374
         height: 900
         isCached: true
+  - title: "Part 2: Expert Predictions For Artificial Intelligence in 2024"
+    excerpt: "In Part 1, experts and startup founders offered many different insights and predictions. More experts have weighed in and made their predictions on the future of artificial intelligence, a tool that h"
+    publishedDateTime: 2023-12-11T16:45:00Z
+    webUrl: "https://techround.co.uk/tech/part-2-expert-predictions-artificial-intelligence-2024/"
+    ampWebUrl: "https://techround.co.uk/tech/part-2-expert-predictions-artificial-intelligence-2024/amp/"
+    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/tech/part-2-expert-predictions-artificial-intelligence-2024/amp/"
+    type: article
+    provider:
+      name: TechRound
+      domain: techround.co.uk
+    quality: 39
 
-secured: "2o9AM2ZfY6/XT7rDMt9BijpkGjWm/xbZbnaeffbxcpwXZpZ7U2/PHdCNwCo37mz8ygPOktyccLq6E6ZM3JgVCWbOvlwqcUJE2j7z3P7Ib5dW+sp2dYk30+U5485qXxvfJCDvp3ihIsx70BOdG/bafoR5GtAQyWEE3sjwKUmLgCcS8nHFKKJt+WiqAkUYeh3MsDF3WhtUfAlFbj9IZofCA8FLDeVFr0qkwMYFa5zycjsJhIa9pnh1FlgfmTwcm3VdyOx6cygMPbd4duuUyL/Kh4+Px3C31TYRSAQxT0GFhThsYKw02zja2W0Tr8RHQM9GfdbLHIrtci8LYbKbebdapxiucG3JCU4jbDQ3eQIK/vo=;mwFj0Xu905/r+ZYZZ9K12w=="
+secured: "viAVMtFngQtO5PmCaDAnPeFUFeyT8qIwosz2wToGlJxG1exJ0wmiNRo6/xBVZjOYwO0HABwqLmyYSBsODc+919TqAKv36z2FGHitEru2beU15yhTCGPmFoc4lT9heIDyCkVaXIF6lEPwkE+p95ZluKZAviAbXW/gmxzINszbSRHggjuzYxbKuGySxtzvTtmxM569mWIcxIzxe6WGZBMCnLqnEzvV6JkNINGJ/au1rcKFkPGM7WnhZANLLfinoObto7lU2Em4NIil32ZGJWHccX+bJzQgEHH0NWMlkuqgF0KGo+U1wFjv9QXtJCxQNVqlNFTJTVwLZgjWXrU7Dy6vkA7Bwbq+4FRcG2H/FfOGZ4gSULVbkbEfIBCKP2MkRPZPDoaaNdchjFQrVGdxt0djZ1gc19Ymvalo5GuveqGwalWTWTr0mg36RUuMD63Rh87BKch1ROYqfTRfBfWkjk2ixeLxXbZzA6GAC1rmyPkM8GeMfnUKtgn1C+wNrkjbtpNn1t9CnXvapHDd8fr98/nWiQ==;0tJks19jBSLXyrapRBcGXQ=="
 ---
 

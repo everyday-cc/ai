@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3711407/accelerating-cloud-native-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711407/accelerating-cloud-native-development-in-microsoft-azure.amp.html"
 type: article
 quality: 104
-heat: 134
+heat: 154
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft, AFL-CIO Reach Deal on AI, Labor Neutrality"
+    excerpt: "Microsoft has a major partnership with ChatGPT maker OpenAI and committed to pumping more than $10 billion into the startup. Surging popularity of so-called generative AI, which uses data to create new content like ChatGPT's human-sounding prose, could remake human society and make obsolete many jobs."
+    publishedDateTime: 2023-12-11T14:03:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-12-11/microsoft-afl-cio-reach-deal-on-ai-labor-neutrality"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 64
   - title: "Microsoft Agrees to Union Contract Terms Governing Its Use of AI"
     excerpt: "Microsoft Corp. has agreed to union contract language governing its use of artificial intelligence, creating an avenue for workers to challenge how it deploys the evolving technology."
     publishedDateTime: 2023-12-11T11:59:00Z
@@ -67,6 +76,20 @@ related:
       - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/532150054/image_532150054.jpg?io=getty-c-w1536"
         width: 1536
         height: 1050
+        isCached: true
+  - title: "Microsoft Announces Git Partial Clone Support in Azure DevOps"
+    excerpt: "Azure DevOps has recently extended support for Git Partial Clone to all its users. Partial clones represent a streamlined version of git clones initiated through specific command line arguments. Repositories that employ partial clones have demonstrated an average reduction of 88."
+    publishedDateTime: 2023-12-10T15:33:00Z
+    webUrl: "https://www.infoq.com/news/2023/12/git-partial-clone-azure-devops/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 54
+    images:
+      - url: "https://res.infoq.com/news/2023/12/git-partial-clone-azure-devops/en/headerimage/generatedHeaderImage-1702179442226.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "YpwJN+G6BeACg9vH30Y9wU0rQ3g6p3B+L6V1kS64FQSnGeaFwMAOaHmzVPqP/zARqvjve1Jvc2oiZg+GssxU6qqeixUKaUMLAGjsUmZokRKL8ddqQZLqlZCxhTik0YRbdIbd2iV5gKIcvhWDy9CKsvvDdEK8jOWJs19dUrvxwRrEQICm1RUDMnHiKRttMFbntY+3lCN8XnnDF8+250b5Pk6EzV8he7L97klr6MyKJvjsMnzXNNn3fj9teBhbfIFcIXMQUN6BdtghQwEuuK3ZDrVzoanXVU6bE6Pni1aOLjyJSxnW8kwK/vfxIxQtlxp6KybeqVh0A5xYusz5cNqdtj+aYzGsNeAVVahWCFOfyBg=;bvqud78u2IjFT394o3mbFg=="

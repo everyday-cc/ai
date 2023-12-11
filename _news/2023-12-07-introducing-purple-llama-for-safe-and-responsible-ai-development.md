@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Apple silently releases its Deep Learning framework as open-source code"
-    excerpt: "Apple is silently releasing its Deep Learning framework as an open-source code, according to X user Delip Rao. The new MLX framework runs natively on Apple Silicon with a single pip install. According to BGR,"
-    publishedDateTime: 2023-12-06T15:19:00Z
-    webUrl: "https://www.mactech.com/2023/12/06/apple-silently-releases-its-deep-learning-framework-as-open-source-code/"
-    ampWebUrl: "https://www.mactech.com/2023/12/06/apple-silently-releases-its-deep-learning-framework-as-open-source-code/amp/"
-    cdnAmpWebUrl: "https://www-mactech-com.cdn.ampproject.org/c/s/www.mactech.com/2023/12/06/apple-silently-releases-its-deep-learning-framework-as-open-source-code/amp/"
-    type: article
-    provider:
-      name: MacTech
-      domain: mactech.com
-    quality: 59
-    images:
-      - url: "https://www.mactech.com/wp-content/uploads/2023/10/Apple-and-AI-1024x551.jpg"
-        width: 1024
-        height: 551
-        isCached: true
   - title: "Meta Releases Purple Llama to Bolster Responsible AI Development"
     excerpt: "Explore Meta's groundbreaking initiative, Purple Llama, designed to cultivate responsible development in open generative AI models."
     publishedDateTime: 2023-12-08T09:22:00Z
@@ -91,6 +75,15 @@ related:
       name: Business Times
       domain: businesstimes.com.sg
     quality: 19
+  - title: "OpenAI’s Soap Opera Collapse Bodes Ill for AI Benefiting Humanity"
+    excerpt: "Whatever fantasies we may have had about the nonprofit structure of OpenAI have been eviscerated. While it remains a nonprofit, it’s proven entirely beholden to ruthless capitalism"
+    publishedDateTime: 2023-12-11T13:04:00Z
+    webUrl: "https://www.scientificamerican.com/article/openais-soap-opera-collapse-bodes-ill-for-ai-benefiting-humanity/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 17
 
 secured: "ju0hSn0QJpQg2ViXlDbMFJ++q/FjNtSvpGW+c52UCVos/NAxhK6dVJL1kfRUX22m7vDDOUwalzaj7vIeFI+ReiECU5BpMtjB8vcLsZMmgK0Z5sJgWrOURyLcEVcXCFuQPxnsoAQpqGp5MnTtBNk17kyMwq1trq/6pqUsowjbrwNjg2p17Z6yEuM+GkWiq9wVSvGsMiTsXvj7W26YrBcZ6yHTXRZ29HcM4U7jPJg+aO2sc6mInTxcEYSLAZWddMdZLfilyR0nBRgAn5ZrpVzRXRoLUsNnK1Qtb6lGFkzhCnjQU9njYnvsrvz8PH9ZpZtdKjOEbMwwx3XtIJJlMwKxsNTwcd5m7cK7VppOd7Xxo+4=;g7eXIjYnW4I3fjPFDedJDA=="
 ---

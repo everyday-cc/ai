@@ -1,0 +1,22 @@
+---
+category: news
+title: "The Download: the EU AI Act is here, and preventing deadly cancer"
+excerpt: "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology."
+publishedDateTime: 2023-12-11T13:10:00Z
+originalUrl: "https://www.technologyreview.com/2023/12/11/1084889/the-download-the-eu-ai-act-is-here-and-preventing-deadly-cancer/"
+webUrl: "https://www.technologyreview.com/2023/12/11/1084889/the-download-the-eu-ai-act-is-here-and-preventing-deadly-cancer/"
+type: article
+quality: 17
+heat: 17
+published: false
+
+provider:
+  name: MIT Technology Review
+  domain: technologyreview.com
+
+topics:
+  - AI
+
+secured: "TbaGuT272m/UzJofKmPZcj0m0/5waQvPhUBQ8DdJpFJXX0aXXHAtkYsp5Y7g+mX5TaiKYWQ7E+qgm4QpHiZ7/pqjf+2H8HK7Kg9I6XNsoiQnzB1B8uLE/oj6Ajn6ZI8XTD9+Y9e1zV5CToK0uVtJ2VnLT4U6MFEh5/trUFwb4LmJ2m51ixSVEkcD///cYmvwR6UFfX6Q1Xa9d/hSif5CnqaPMjBEewH3vrsGdLYKKNc9XXAqhwdhwbrjsavHjmf6Miyj0QPnGXekkGehmQDbqiVi6r5bzpM7+Fc0eSWAMqEEj23uqXse/9zV4uTSkO4IvmCbYtsz6t++QGalMKoVQaJqbT40AGVdeaVd29T2CTcSJi7y70uDl5khe8Tp0TJ0s2y0LHAL7AkI5znRCm5H889Y6Ja/dMElLpmsZho1qB+ORMp/3QKoHrI3mfjODDvjrVZcMH0v3Ey0eRP3jX9LCFxMwP5yoyHDfhJEKkFHAoEUUX4O4hMWAnVooRG5DEhBqZAoHzyWkptXfAM2QgcSfw==;iNAnj+MZEXyY8Qq/7yf/AQ=="
+---
+

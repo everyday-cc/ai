@@ -2,6 +2,920 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-12-02-computer-vision-eastern-africa.md",
+      "title": "Computer Vision - Eastern Africa",
+      "excerpt": "The market size in the Computer Vision market is projected to reach US$48.55m in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 14.98%, resulting in a market ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/eastern-africa",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/eastern-africa",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-02T13:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-02-speech-recognition-eastern-africa.md",
+      "title": "Speech Recognition - Eastern Africa",
+      "excerpt": "The market size in the Speech Recognition market is projected to reach US$14.94m in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 18.68%, resulting in a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/speech-recognition/eastern-africa",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/speech-recognition/eastern-africa",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-02T13:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-02-10-best-predictive-analytics-tools-and-software-of-2023.md",
+      "title": "10 Best Predictive Analytics Tools and Software of 2023",
+      "excerpt": "Tableau, TIBCO Data Science and Sisense are among the best software for predictive analytics. Compare their features, pricing, pros and cons.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/best-predictive-analytics-tools/",
+      "originalUrl": "https://www.techrepublic.com/article/best-predictive-analytics-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2022/05/AdobeStock_616977240.jpeg",
+          "width": 1400,
+          "height": 784,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-02T08:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-02-montreal-research-hub-spearheads-global-ai-ethics-debate.md",
+      "title": "Montreal Research Hub Spearheads Global AI Ethics Debate",
+      "excerpt": "Rapid developments in artificial intelligence -- and recent turmoil at industry powerhouse OpenAI -- have brought fresh attention to a key hub of ethics research related to the technology in Montreal,",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/news/montreal-research-hub-spearheads-global-ai-ethics-debate-85a5577c",
+      "originalUrl": "https://www.barrons.com/news/montreal-research-hub-spearheads-global-ai-ethics-debate-85a5577c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.barrons.com/asset/external-media/afp/AFP5124571594622971684184341015126633855344---1.jpg",
+          "width": 768,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/news/montreal-research-hub-spearheads-global-ai-ethics-debate-85a5577c",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/montreal-research-hub-spearheads-global-ai-ethics-debate-85a5577c",
+      "publishedDateTime": "2023-12-02T05:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-02-surprise-warren-buffett-has-bet-over-176-billion-in-3-artificial-intelligence-ai-growth-stocks.md",
+      "title": "Surprise! Warren Buffett Has Bet Over $176 Billion in 3 Artificial Intelligence (AI) Growth Stocks",
+      "excerpt": "He went on to say, \"We've been doing research across a wide range of AI technologies ... director of market development and spokeswoman for Facebook and sister to Meta Platforms CEO Mark ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/12/02/surprise-warren-buffett-has-bet-over-176-billion-i/",
+      "originalUrl": "https://www.fool.com/investing/2023/12/02/surprise-warren-buffett-has-bet-over-176-billion-i/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/756245/buffett1-tmf.jpg",
+          "width": 2048,
+          "height": 1365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-02T05:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-02-meta-ai-unveils-seamless-translator-for-real-time-communication-across-languages.md",
+      "title": "Meta AI unveils ‘Seamless’ translator for real-time communication across languages",
+      "excerpt": "Meta AI researchers have developed a new artificial intelligence model called 'Seamless' that enables more natural, real-time translation across languages while preserving vocal style and emotion.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/meta-ai-unveils-seamless-translator-for-real-time-communication-across-languages/",
+      "originalUrl": "https://venturebeat.com/ai/meta-ai-unveils-seamless-translator-for-real-time-communication-across-languages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/12/nuneybits_Abstract_painting_of_two_people_with_speech_bubbles_c_b2457dfd-af1e-4d7f-b81d-70bef4a9307f.webp?w=1200&strip=all",
+          "width": 1200,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-02T04:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-02-bipartisan-senate-bill-to-ban-tsa-use-of-facial-recognition-technology-gains-support-of-civil-rights-groups.md",
+      "title": "Bipartisan Senate bill to ban TSA use of facial recognition technology gains support of civil rights groups",
+      "excerpt": "The bill aims to tackle TSA’s proposed plan to implement facial recognition scans at over 430 U.S. airports within the next several years.",
+      "sourceUrl": null,
+      "webUrl": "https://fedscoop.com/bipartisan-senate-bill-to-ban-tsa-use-of-facial-recognition-technology-gains-support-of-civil-rights-groups/",
+      "originalUrl": "https://fedscoop.com/bipartisan-senate-bill-to-ban-tsa-use-of-facial-recognition-technology-gains-support-of-civil-rights-groups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fedscoop.com/wp-content/uploads/sites/5/2019/01/GettyImages-183628592.jpg",
+          "width": 1920,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-02T00:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FedScoop",
+        "domain": "fedscoop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-02-vaishnavi-visweswaraiah-pioneering-the-future-of-machine-learning.md",
+      "title": "Vaishnavi Visweswaraiah: Pioneering the Future of Machine Learning",
+      "excerpt": "Vaishnavi's breakthrough moment came when she collaborated with a team of researchers to develop a machine-learning model, aiming to gain a closer understanding of nomophobia.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/special/contributor-content/2023/12/01/vaishnavi-visweswaraiah-pioneering-the-future-of-machine-learning/71771436007/",
+      "originalUrl": "https://www.usatoday.com/story/special/contributor-content/2023/12/01/vaishnavi-visweswaraiah-pioneering-the-future-of-machine-learning/71771436007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T20:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-02-push-to-ban-facial-recognition-at-kci-other-airports.md",
+      "title": "Push to ban facial recognition at KCI, other airports",
+      "excerpt": "KANSAS CITY, Mo. (KCTV) - A group of U.S. Senators sounds the alarm over the use of facial recognition technology at KCI Airport and other airports across the country. U.S. Senator Roger Marshall, R-Kan. is one of six senators to introduce the Traveler ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kctv5.com/2023/12/01/push-ban-facial-recognition-kci-other-airports/",
+      "originalUrl": "https://www.kctv5.com/2023/12/01/push-ban-facial-recognition-kci-other-airports/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-kctv-prod.cdn.arcpublishing.com/resizer/v2/GEP3E3XD2BD73IHY6EYMFTHBU4.png?auth=df39686e7650b2c8e529de572d983e698b66628bca4d560e10c94653113db700&width=800&height=450&smart=true",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.kctv5.com/2023/12/01/push-ban-facial-recognition-kci-other-airports/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-kctv5-com.cdn.ampproject.org/c/s/www.kctv5.com/2023/12/01/push-ban-facial-recognition-kci-other-airports/?outputType=amp",
+      "publishedDateTime": "2023-12-01T19:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KCTV News",
+        "domain": "kctv5.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-02-when-deep-learning-meets-active-learning-in-the-era-of-foundation-models.md",
+      "title": "When deep learning meets active learning in the era of foundation models",
+      "excerpt": "A Chinese research team wrote a review article on deep active learning, an increasingly popular method of combining active learning with deep learning for sample selection in the training of neural networks for artificial intelligence tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-12-deep-era-foundation.html",
+      "originalUrl": "https://techxplore.com/news/2023-12-deep-era-foundation.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/when-deep-learning-mee.jpg",
+          "width": 1280,
+          "height": 863,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-12-deep-era-foundation.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-12-deep-era-foundation.amp",
+      "publishedDateTime": "2023-12-01T16:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-02-roomba-robot-vacuum-deals-start-at-159-in-this-big-cyber-week-sale.md",
+      "title": "Roomba robot vacuum deals start at $159 in this big Cyber Week sale",
+      "excerpt": "Prices start at just $159 for the Roomba 694 robot vacuum cleaner. This model isn’t the most ... First, the Roomba Combo j7+ with AI and integrated mopping is $300 off right now. Or, you can get the $550 Roomba Combo i5+ for $349, matching the lowest ...",
+      "sourceUrl": null,
+      "webUrl": "https://bgr.com/deals/roomba-robot-vacuum-deals-start-at-159-in-this-big-cyber-week-sale/",
+      "originalUrl": "https://bgr.com/deals/roomba-robot-vacuum-deals-start-at-159-in-this-big-cyber-week-sale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bgr.com/wp-content/uploads/2023/08/Roomba-Robot-Vacuums.jpg?quality=82&strip=all",
+          "width": 3560,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T16:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-02-how-microsoft-and-nuance-empower-radiologists-with-ai-powered-solutions.md",
+      "title": "How Microsoft and Nuance empower radiologists with AI-powered solutions",
+      "excerpt": "Microsoft and Nuance are committed to creating outcomes-focused AI solutions that streamline radiology workflows. Learn more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.microsoft.com/en-us/industry/blog/healthcare/2023/12/01/how-microsoft-and-nuance-empower-radiologists-with-ai-powered-solutions/",
+      "originalUrl": "https://www.microsoft.com/en-us/industry/blog/healthcare/2023/12/01/how-microsoft-and-nuance-empower-radiologists-with-ai-powered-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.microsoft.com/en-us/industry/blog/wp-content/uploads/2023/12/GettyImages-1320844652-1.jpg",
+          "width": 942,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T16:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-02-svvsd-to-host-day-of-ai-event.md",
+      "title": "SVVSD to host ‘Day of AI’ event",
+      "excerpt": "As part of Computer Science Education Week, the Innovation Center of St. Vrain Valley Schools will host a ‘Day of AI’ on Dec. 2 from 2-5 p.m. Computer Science Education Week is “an annual call to action to inspire K-12 students to learn computer science,",
+      "sourceUrl": null,
+      "webUrl": "https://www.longmontleader.com/schools/svvsd-to-host-day-of-ai-event-7907623",
+      "originalUrl": "https://www.longmontleader.com/schools/svvsd-to-host-day-of-ai-event-7907623",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.vmcdn.ca/f/files/longmontleader/images/stock-photos/pexels-tara-winstead-8386440.jpg;w=1200;h=800;mode=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T16:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Longmont Leader",
+        "domain": "longmontleader.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-01-lenovos-ai-powered-sign-language-translation-solution-empowers-signers-in-brazil.md",
+      "title": "Lenovo’s AI-Powered Sign Language Translation Solution Empowers Signers in Brazil",
+      "excerpt": "A camera captured the precise movements of Gabriel’s hands while an original AI engine created a real-time text and voice translation. The language barrier between Gabriel and YY dissolved almost instantly, creating seamless and personal connection.",
+      "sourceUrl": null,
+      "webUrl": "https://www.csrwire.com/press_releases/789831-lenovos-ai-powered-sign-language-translation-solution-empowers-signers-brazil",
+      "originalUrl": "https://www.csrwire.com/press_releases/789831-lenovos-ai-powered-sign-language-translation-solution-empowers-signers-brazil",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://back.3blmedia.com/sites/default/files/inline-images/gabriel-libras_lenovo_103023.png",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T15:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CSR Wire",
+        "domain": "csrwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-01-aftas-2023-most-innovative-third-party-technology-vendor-ai-machine-learninggeoquant.md",
+      "title": "AFTAs 2023: Most innovative third-party technology vendor (AI & machine learning)—GeoQuant",
+      "excerpt": "Innovation at GeoQuant At GeoQuant, part of BMI Research, a Fitch Solutions company, innovation is woven into every aspect of the business. The firm uses",
+      "sourceUrl": null,
+      "webUrl": "https://www.waterstechnology.com/awards-rankings/7951513/aftas-2023-most-innovative-third-party-technology-vendor-ai-machine-learning-geoquant",
+      "originalUrl": "https://www.waterstechnology.com/awards-rankings/7951513/aftas-2023-most-innovative-third-party-technology-vendor-ai-machine-learning-geoquant",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T14:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WatersTechnology",
+        "domain": "waterstechnology.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-12-01-natural-language-processing-mena.md",
+      "title": "Natural Language Processing - MENA",
+      "excerpt": "The market size in the Natural Language Processing market is projected to reach 0.00 in 2023. The market size is expected to show an annual growth rate (CAGR 2023-0) of 0, resulting in a market ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/mena",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/mena",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T14:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-01-researchers-develop-novel-deep-learning-based-detection-system-for-autonomous-vehicles.md",
+      "title": "Researchers develop novel deep learning-based detection system for autonomous vehicles",
+      "excerpt": "Autonomous vehicles require object detection systems to navigate traffic and avoid obstacles on the road. However, current detection methods often suffer from diminished detection capabilities due to bad weather,",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/11/231130113233.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/11/231130113233.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T14:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-01-qa-how-artificial-intelligence-could-transform-health-care.md",
+      "title": "Q&A: How artificial intelligence could transform health care",
+      "excerpt": "Health care has historically been slow to adopt new technologies that involve wholesale changes to the nature of the work. Witness the slow and checkered roll-out of electronic health records and the utter failure of prior efforts to implement artificial intelligence tools,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-12-qa-artificial-intelligence-health.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-12-qa-artificial-intelligence-health.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/how-artificial-intelli-2.jpg",
+          "width": 1280,
+          "height": 693,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-12-qa-artificial-intelligence-health.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-12-qa-artificial-intelligence-health.amp",
+      "publishedDateTime": "2023-12-01T13:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-01-seattle-is-an-artificial-intelligence-hub-in-a-rapidly-changing-field.md",
+      "title": "Seattle is an artificial intelligence hub in a rapidly changing field",
+      "excerpt": "AI continues to grow in power and use across the economy. You're probably using it now, whether you know it or not. Jon Talton considers if we're letting AI unleash a Terminator future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/business/seattle-is-an-artificial-intelligence-hub-in-a-rapidly-changing-field/",
+      "originalUrl": "https://www.seattletimes.com/business/seattle-is-an-artificial-intelligence-hub-in-a-rapidly-changing-field/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-01-redefining-communication-in-the-age-of-ai.md",
+      "title": "Redefining Communication In The Age Of AI",
+      "excerpt": "Artificial Intelligence (AI) has revolutionized the translation industry, moving it from human-centric to technology-driven solutions. The integration of AI, particularly in Natural Language Processing (NLP), has enhanced the accuracy and efficiency of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/general/23/12/36047676/redefining-communication-in-the-age-of-ai",
+      "originalUrl": "https://www.benzinga.com/general/23/12/36047676/redefining-communication-in-the-age-of-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/12/01/screenshot_2023-12-01_at_10.32.59_pm.png?width=1200&height=800&fit=crop",
+          "width": 1188,
+          "height": 792,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/36047676",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36047676",
+      "publishedDateTime": "2023-12-01T12:04:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-01-xiao-i-presents-at-fortune-global-forum-2023-commercializing-hua-zang-universal-large-language-model-in-diverse-scenarios.md",
+      "title": "Xiao-I Presents at Fortune Global Forum 2023, Commercializing Hua Zang Universal Large Language Model in Diverse Scenarios",
+      "excerpt": "Mr. Hui Yuan, the Chairman of the Board and CEO of Xiao-I Corporation (NASDAQ: AIXI) (\"Xiao-I\" or the \"Company\"), a leading cognitive artificial intelligence (\"AI\") enterprise in China, took the stage alongside distinguished speakers to share a practical application of Hua Zang Universal Large Language Model (\"LLM\") and provide an in-depth exploration of the cutting-edge advancements in generative AI at the Fortune Global Forum 2023,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/xiao-i-presents-at-fortune-global-forum-2023-commercializing-hua-zang-universal-large-language-model-in-diverse-scenarios-1032865840",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/xiao-i-presents-at-fortune-global-forum-2023-commercializing-hua-zang-universal-large-language-model-in-diverse-scenarios-1032865840",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T11:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-01-how-voice-assistant-will-impact-our-lives-in-the-years-to-come.md",
       "title": "How Voice Assistant Will Impact Our Lives in the Years to Come",
       "excerpt": "The advancement in technology continuously brings ease and enjoyment to our lives. Machines have already changed how we work all day and tired us out, but voice assistants have emerged as",
@@ -41,6 +955,40 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-01-seaweed-robot-startup-nets-gbp-150000-in-pre-seed-funding-us-doe-funds-seaweed-study-searching-for-rare-earth-metals.md",
+      "title": "Seaweed-robot startup nets GBP 150,000 in pre-seed funding; US DOE funds seaweed study searching for rare earth metals",
+      "excerpt": "-London, England-based seaweed startup Samudra Oceans has secured a GBP 150,000 (USD 190,000, EUR 174,000) investment from the British Design Fund as a part of its GBP 800,000 (USD 1 million, EUR 927,000) pre-seed funding round.",
+      "sourceUrl": null,
+      "webUrl": "https://www.seafoodsource.com/news/aquaculture/seaweed-startup-samudra-oceans-receives-gbp-150-000-in-pre-seed-funding-round-university-of-hawaii-at-manoa-receives-usd-892-290-from-national-science-foundation",
+      "originalUrl": "https://www.seafoodsource.com/news/aquaculture/seaweed-startup-samudra-oceans-receives-gbp-150-000-in-pre-seed-funding-round-university-of-hawaii-at-manoa-receives-usd-892-290-from-national-science-foundation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T11:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SeafoodSource",
+        "domain": "seafoodsource.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -128,910 +1076,6 @@
       ],
       "topics": [
         "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-the-macroeconomics-of-artificial-intelligence.md",
-      "title": "The Macroeconomics of Artificial Intelligence",
-      "excerpt": "The collective decisions we make today will determine how AI affects productivity growth, income inequality, and industrial concentration",
-      "sourceUrl": null,
-      "webUrl": "https://www.imf.org/en/Publications/fandd/issues/2023/12/Macroeconomics-of-artificial-intelligence-Brynjolfsson-Unger",
-      "originalUrl": "https://www.imf.org/en/Publications/fandd/issues/2023/12/Macroeconomics-of-artificial-intelligence-Brynjolfsson-Unger",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-01T02:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Monetary Fund",
-        "domain": "imf.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-how-artificial-intelligence-could-transform-health-care.md",
-      "title": "How Artificial Intelligence Could Transform Health Care",
-      "excerpt": "Bob Wachter comments on the potential of new generative artificial intelligence tools to transform the health care environment in a way previous technologies could not.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ucsf.edu/news/2023/11/426716/how-artificial-intelligence-could-transform-health-care",
-      "originalUrl": "https://www.ucsf.edu/news/2023/11/426716/how-artificial-intelligence-could-transform-health-care",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ucsf.edu/sites/default/files/fields/field_insert_file/news/wachter_digital.jpg",
-          "width": 1500,
-          "height": 844,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-01T00:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UC San Francisco",
-        "domain": "ucsf.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-irish-police-plan-novel-application-of-facial-recognition-to-limit-risks.md",
-      "title": "Irish police plan novel application of facial recognition to limit risks",
-      "excerpt": "One of the main concerns around police use of facial recognition technology to identify suspects is the potential for false arrests.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202311/irish-police-plan-novel-application-of-facial-recognition-to-limit-risks",
-      "originalUrl": "https://www.biometricupdate.com/202311/irish-police-plan-novel-application-of-facial-recognition-to-limit-risks",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/19132752/garda-surveillance-scaled.jpg",
-          "width": 2048,
-          "height": 1360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-01T00:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-ai-machine-learning-changing-how-first-responders-handle-911-emergencies.md",
-      "title": "AI, machine learning changing how first responders handle 911 emergencies",
-      "excerpt": "An upcoming part will look at journalism. Nothing kills more people in the U.S. than heart disease, and researchers within the UPMC health enterprise are using machine learning to advance the breadth and efficiency of electrocardiogram (ECG) readings to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedailystar.com/news/ai-machine-learning-changing-how-first-responders-handle-911-emergencies/article_dd623132-8fc8-11ee-bf1e-333baeee219c.html",
-      "originalUrl": "https://www.thedailystar.com/news/ai-machine-learning-changing-how-first-responders-handle-911-emergencies/article_dd623132-8fc8-11ee-bf1e-333baeee219c.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/thedailystar.com/content/tncms/assets/v3/editorial/9/72/972b22d8-8fcc-11ee-a5e0-7fc3cf154d0a/65690730b401f.image.jpg?resize=400%2C391",
-          "width": 400,
-          "height": 391,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-01T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Star",
-        "domain": "thedailystar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-the-world-depends-on-60-year-old-code-no-one-knows-anymore.md",
-      "title": "The World Depends on 60-Year-Old Code No One Knows Anymore",
-      "excerpt": "Many who remember IBM’s previous AI experiment, Watson Health, are hesitant to trust another big AI project from the company because the previous one failed so miserably and didn't deliver on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/articles/ibms-plan-to-update-cobol-with-watson",
-      "originalUrl": "https://www.pcmag.com/articles/ibms-plan-to-update-cobol-with-watson",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/00LwULYZRCHrVGohpkwCxhV-1.fit_lim.size_1200x630.v1701443014.png",
-          "width": 1121,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-01T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-ai-in-fintech-market-revenues-to-reach-usd-4943-billion-by-2028-market-size-share-forecasts-trends-analysis-report-by-mordor-intelligence.md",
-      "title": "AI in Fintech Market Revenues to Reach USD 49.43 Billion by 2028 – Market Size, Share, Forecasts, & Trends Analysis Report by Mordor Intelligence",
-      "excerpt": "According to the latest research report titled, \"AI in Fintech Market Report (2023 - 2028)\" by Mordor Intelligence, the market is estimated at USD 42.83 billion in 2023 and growing at a CAGR of 2.91%",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/11/ab36035681/ai-in-fintech-market-revenues-to-reach-usd-49-43-billion-by-2028-market-size-share-forecasts-tren",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/11/ab36035681/ai-in-fintech-market-revenues-to-reach-usd-49-43-billion-by-2028-market-size-share-forecasts-tren",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/36035681",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36035681",
-      "publishedDateTime": "2023-11-30T22:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-senators-move-to-ban-tsas-facial-recognition-screenings.md",
-      "title": "Senators move to ban TSA’s facial recognition screenings",
-      "excerpt": "Merkley and several of his Democratic colleagues in the Senate previously pressed TSA to halt facial recognition screenings, writing in a February letter to the agency’s administrator that “increasing biometric surveillance of Americans by the government represents a risk to civil liberties and privacy rights.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextgov.com/emerging-tech/2023/11/senators-move-ban-tsas-facial-recognition-screenings/392394/",
-      "originalUrl": "https://www.nextgov.com/emerging-tech/2023/11/senators-move-ban-tsas-facial-recognition-screenings/392394/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.nextgov.com/media/img/cd/2023/11/30/113023_getty_ng_tsa_line/open-graph.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-30T21:37:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nextgov",
-        "domain": "nextgov.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-cyberlink-faceme-security-integrates-with-genetec-security-center-to-enhance-investigations-and-secure-access-control-with-ai-facial-recognition.md",
-      "title": "CyberLink FaceMe® Security Integrates with Genetec Security Center to Enhance Investigations and Secure Access Control with AI Facial Recognition",
-      "excerpt": "FaceMe® Security’s AI facial recognition allows Genetec Security Center users to painlessly upgrade smart security and access control infrastructure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20231130455398/en/CyberLink-FaceMe®-Security-Integrates-with-Genetec-Security-Center-to-Enhance-Investigations-and-Secure-Access-Control-with-AI-Facial-Recognition",
-      "originalUrl": "https://www.businesswire.com/news/home/20231130455398/en/CyberLink-FaceMe®-Security-Integrates-with-Genetec-Security-Center-to-Enhance-Investigations-and-Secure-Access-Control-with-AI-Facial-Recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-30T21:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-aws-improves-sagemaker-studio-ai-development-tool-with-new-web-based-interface-code-editor.md",
-      "title": "AWS improves SageMaker Studio AI-development tool with new web-based interface, code editor",
-      "excerpt": "Amazon Web Services Inc. has released an improved version of its SageMaker Studio, a development interface that provides access to purpose-built artificial intelligence and machine learning development tools from preparing data, building training ...",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/11/30/aws-improves-sagemaker-studio-ai-development-tool-new-web-based-interface-code-editor/",
-      "originalUrl": "https://siliconangle.com/2023/11/30/aws-improves-sagemaker-studio-ai-development-tool-new-web-based-interface-code-editor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/2023-sm-studio-01.png",
-          "width": 1789,
-          "height": 1283,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-30T20:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-how-artificial-intelligence-is-changing-the-way-we-work-and-what-the-future-may-hold.md",
-      "title": "How artificial intelligence is changing the way we work — and what the future may hold",
-      "excerpt": "When it comes to AI and more specifically generative AI, Madison and Briem both suggested that workers across career paths find ways to become educated about these tools and, if relevant, learn how they can be implemented into their own jobs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/pittsburgh/inno/stories/Inno-insights/2023/11/30/ai-robotics-influences-workforce.html",
-      "originalUrl": "https://www.bizjournals.com/pittsburgh/inno/stories/Inno-insights/2023/11/30/ai-robotics-influences-workforce.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-30T19:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-bipartisan-bill-to-bar-tsa-from-using-facial-recognition-in-airports-introduced.md",
-      "title": "Bipartisan bill to bar TSA from using facial recognition in airports introduced",
-      "excerpt": "A federal bipartisan bill to bar the TSA from using biometric data collected through facial recognition technology at U.S. airports has been introduced.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wibw.com/2023/11/30/bipartisan-bill-bar-tsa-using-facial-recognition-airports-introduced/",
-      "originalUrl": "https://www.wibw.com/2023/11/30/bipartisan-bill-bar-tsa-using-facial-recognition-airports-introduced/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-wibw-prod.cdn.arcpublishing.com/resizer/v2/GQU4RWK3CVCUBPHOLOUGJE7GRY.jpg?auth=e137510118becdb28d05d639268b6458893c6d81340504eadd3b617de5a5d28a&width=800&height=450&smart=true",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.wibw.com/2023/11/30/bipartisan-bill-bar-tsa-using-facial-recognition-airports-introduced/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-wibw-com.cdn.ampproject.org/c/s/www.wibw.com/2023/11/30/bipartisan-bill-bar-tsa-using-facial-recognition-airports-introduced/?outputType=amp",
-      "publishedDateTime": "2023-11-30T19:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WIBW",
-        "domain": "wibw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-altair-launches-altair-rapidminer-2023-platform-to-deliver-next-gen-gen-ai-capabilities.md",
-      "title": "Altair® Launches Altair RapidMiner® 2023 Platform To Deliver Next-Gen Gen AI Capabilities",
-      "excerpt": "Altair (Nasdaq: ALTR), a global leader in computational science and artificial intelligence (AI) announced that Altair® RapidMiner®, its data analytics and AI platform, is becoming more integrated, more powerful,",
-      "sourceUrl": null,
-      "webUrl": "https://insidebigdata.com/2023/11/29/altairr-launches-altair-rapidminerr-2023-platform-to-deliver-next-gen-gen-ai-capabilities/",
-      "originalUrl": "https://insidebigdata.com/2023/11/29/altairr-launches-altair-rapidminerr-2023-platform-to-deliver-next-gen-gen-ai-capabilities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insidebigdata.com/wp-content/uploads/2023/08/Generative_AI_shutterstock_2273007347_special.jpg",
-          "width": 1100,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-30T18:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insidebigdata.com",
-        "domain": "insidebigdata.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-teleperformance-helps-clients-create-and-modernize-applications-with-microsoft-azure-solutions-partner-status-for-data-ai.md",
-      "title": "Teleperformance helps clients create and modernize applications with Microsoft Azure Solutions Partner status for Data & AI",
-      "excerpt": "NEW YORK, Nov. 30, 2023 /PRNewswire/ -- Teleperformance, a global leader in digital business services, today announced it has received Microsoft Azure Solutions Partner status for Data & AI.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/teleperformance-helps-clients-create-and-modernize-applications-with-microsoft-azure-solutions-partner-status-for-data-ai-1032863788",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/teleperformance-helps-clients-create-and-modernize-applications-with-microsoft-azure-solutions-partner-status-for-data-ai-1032863788",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2286428/MS_Solutions_Partner_Data_and_AI_logo.jpg",
-          "width": 400,
-          "height": 245,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-30T18:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-when-artificial-intelligence-mimics-the-human-brain.md",
-      "title": "When Artificial Intelligence Mimics the Human Brain",
-      "excerpt": "A recent publication in Nature Machine Intelligence really got me thinking. In this study, researchers created an artificial system that not only simulates but also behaves like our brain. This evolving reality of neural networks, a realm where artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/the-digital-self/202311/when-artificial-intelligence-mimics-the-human-brain",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/the-digital-self/202311/when-artificial-intelligence-mimics-the-human-brain",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2023-11/techbrain.png.jpg?itok=8MpEj2Ou",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-digital-self/202311/when-artificial-intelligence-mimics-the-human-brain?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-digital-self/202311/when-artificial-intelligence-mimics-the-human-brain?amp",
-      "publishedDateTime": "2023-11-30T16:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-30-when-artificial-intelligence-mimics-the-human-brain.md",
-      "title": "When Artificial Intelligence Mimics the Human Brain",
-      "excerpt": "Stepping aside from the complexity of the science, one thing is clear: The line between artificial and natural intelligence is blurring. This research opens doors to new possibilities, from developing more advanced AI systems to unlocking mysteries of the human brain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/intl/blog/the-digital-self/202311/when-artificial-intelligence-mimics-the-human-brain",
-      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-digital-self/202311/when-artificial-intelligence-mimics-the-human-brain",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2023-11/techbrain.png.jpg?itok=8MpEj2Ou",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-digital-self/202311/when-artificial-intelligence-mimics-the-human-brain?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-digital-self/202311/when-artificial-intelligence-mimics-the-human-brain?amp",
-      "publishedDateTime": "2023-11-30T15:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-30-mu-receives-grants-to-boost-robotics-programs.md",
-      "title": "MU receives grants to boost robotics programs",
-      "excerpt": "Central Penn Parent covers family news and events in Cumberland, Dauphin, Lancaster, Lebanon and York counties.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cpbj.com/mu-receives-grants-to-boost-robotics-programs/",
-      "originalUrl": "https://www.cpbj.com/mu-receives-grants-to-boost-robotics-programs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-30T15:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Central Penn Business Journal",
-        "domain": "cpbj.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-30-locomotor-control-and-rehabilitation-robotics-laboratory.md",
-      "title": "Locomotor Control and Rehabilitation Robotics Laboratory",
-      "excerpt": "With that in mind, we have developed clinical protocols for treating ... The participant is in complete control of the speed and direction of the belt; users can determine if they want to walk forward or backwards. The KineAssist allows participants ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.uab.edu/shp/pt/locolab?trk=public_profile_project-title",
-      "originalUrl": "https://www.uab.edu/shp/pt/locolab?trk=public_profile_project-title",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-30T15:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kaleido Scope",
-        "domain": "uab.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-30-aws-and-nvidia-partner-on-project-ceiba-a-gpu-powered-ai-supercomputer.md",
-      "title": "AWS and Nvidia partner on Project Ceiba, a GPU-powered AI supercomputer",
-      "excerpt": "The companies are extending their AI partnership, and one key initiative is a supercomputer that will be integrated with AWS services and used by Nvidia’s own R&D teams.",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/1250028/aws-and-nvidia-partner-on-project-ceiba-a-gpu-powered-ai-supercomputer.html",
-      "originalUrl": "https://www.networkworld.com/article/1250028/aws-and-nvidia-partner-on-project-ceiba-a-gpu-powered-ai-supercomputer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.networkworld.com/wp-content/uploads/2023/11/shutterstock_324149159-100937108-orig-100947859-orig.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/1250028/aws-and-nvidia-partner-on-project-ceiba-a-gpu-powered-ai-supercomputer.html/amp/",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1250028/aws-and-nvidia-partner-on-project-ceiba-a-gpu-powered-ai-supercomputer.html/amp/",
-      "publishedDateTime": "2023-11-30T15:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-30-the-3-best-voice-recognition-stocks-to-speak-new-profits-into-your-portfolio.md",
-      "title": "The 3 Best Voice Recognition Stocks to Speak New Profits Into Your Portfolio",
-      "excerpt": "Voice recognition tech has existed for decades, but it’s finally getting its moment in the sun. As we increasingly move towards mobile optimization, users want tools that help on the go without having to stare down at a screen.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/the-3-best-voice-recognition-stocks-to-speak-new-profits-into-your-portfolio",
-      "originalUrl": "https://www.nasdaq.com/articles/the-3-best-voice-recognition-stocks-to-speak-new-profits-into-your-portfolio",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-30T15:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-30-ibb-law-selects-intapp-documents-for-matter-centric-document-management.md",
-      "title": "IBB Law selects Intapp Documents for matter-centric document management",
-      "excerpt": "PALO ALTO, Calif., Nov. 30, 2023 (GLOBE NEWSWIRE) -- Intapp (NASDAQ: INTA), a leading provider of cloud software for the global professional and financial services industry, today announced that IBB Law LLP has selected Intapp Documents to transform Microsoft SharePoint into a purpose-built document management system.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ibb-law-selects-intapp-documents-for-matter-centric-document-management-1032862642",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ibb-law-selects-intapp-documents-for-matter-centric-document-management-1032862642",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-30T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-30-aws-announces-5-new-amazon-sagemaker-capabilities-for-scaling-with-models.md",
-      "title": "AWS Announces 5 New Amazon SageMaker Capabilities for Scaling with Models",
-      "excerpt": "Invent, Amazon Web Services, Inc. (AWS) announced five new capabilities within Amazon SageMaker to help accelerate",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/this-just-in/aws-announces-5-new-amazon-sagemaker-capabilities-for-scaling-with-models/",
-      "originalUrl": "https://www.datanami.com/this-just-in/aws-announces-5-new-amazon-sagemaker-capabilities-for-scaling-with-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-30T14:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-30-lenovos-ai-powered-sign-language-translation-solution-empowers-signers-in-brazil.md",
-      "title": "Lenovo's AI-Powered Sign Language Translation Solution Empowers Signers In Brazil",
-      "excerpt": "A camera captured the precise movements of Gabriel's hands while an original AI engine created a real-time text and voice translation. The language barrier between Gabriel and YY dissolved almost ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1107517274/Lenovos-AI-Powered-Sign-Language-Translation-Solution-Empowers-Signers-In-Brazil",
-      "originalUrl": "https://menafn.com/1107517274/Lenovos-AI-Powered-Sign-Language-Translation-Solution-Empowers-Signers-In-Brazil",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?645368",
-          "width": 266,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-30T14:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

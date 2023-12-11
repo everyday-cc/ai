@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Why Generative AI Makes Sense For Edge Computing"
+    excerpt: "Many industry analysts and pundits now predict that generative AI will be the next significant AI application to make an impact at the edge."
+    publishedDateTime: 2023-12-11T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/11/why-generative-ai-makes-sense-for-edge-computing/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/11/why-generative-ai-makes-sense-for-edge-computing/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/11/why-generative-ai-makes-sense-for-edge-computing/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 91
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/648334bbb7a645bee5fbe46d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1351
+        height: 900
+        isCached: true
   - title: "Generative AI is off to a rough start"
     excerpt: "As the big vendors overstate the capabilities of their generative AI projects, maybe it’s time to use open source to keep them honest."
     publishedDateTime: 2023-12-11T10:00:00Z
@@ -49,34 +65,31 @@ related:
         width: 1400
         height: 900
         isCached: true
-  - title: "Google’s Gemini Is the Real Start of the Generative AI Boom"
-    excerpt: "A new AI model from Google—called Gemini—is fresh competition for OpenAI’s ChatGPT. The AI rivals are now working on even more radical ideas."
-    publishedDateTime: 2023-12-07T16:08:00Z
-    webUrl: "https://www.wired.com/story/google-gemini-generative-ai-boom/"
+  - title: "LEARNING FROM AI: Genpact turns to GenAI to train staff"
+    excerpt: "Genpact believes that generative AI (GenAI) represents a significant leap in technology. The company wants to make AI Guru a coach for specific roles and guide people on skills they should be learning. For example, a first-time manager who needs constant coaching can talk to an AI Guru for guidance. Time for learning to reboot"
+    publishedDateTime: 2023-12-11T05:55:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-learning-from-ai-genpact-turns-to-genai-to-train-staff-3335079/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-learning-from-ai-genpact-turns-to-genai-to-train-staff-3335079/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-learning-from-ai-genpact-turns-to-genai-to-train-staff-3335079/lite/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 67
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 59
     images:
-      - url: "https://media.wired.com/photos/6570fa9c24772bae860336a9/191:100/w_1280,c_limit/bard-biz-gemini_mm_03.jpg"
-        width: 1280
-        height: 670
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/12/Untitled-design-2023-12-11T112020.544.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Meta announces Purple Llama initiative to promote responsible and safe generative AI development"
-    excerpt: "Meta announces Purple Llama initiative to promote responsible and safe generative AI development - SiliconANGLE"
-    publishedDateTime: 2023-12-07T15:52:00Z
-    webUrl: "https://siliconangle.com/2023/12/07/meta-announces-purple-llama-initiative-promote-responsible-safe-generative-ai-development/"
+  - title: "How to Make AI More Diverse"
+    excerpt: "The New York Times published an article titled “Who’s Who Behind the Dawn of the Modern Artificial Intelligence Movement,” highlighting 12 different"
+    publishedDateTime: 2023-12-10T12:30:00Z
+    webUrl: "https://time.com/charter/6344366/how-to-make-ai-more-diverse/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 26
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/Image-1.png"
-        width: 1920
-        height: 1080
-        isCached: true
+      name: Time
+      domain: time.com
+    quality: 47
   - title: "How generative artificial intelligence will change Ohio’s workforce"
     excerpt: "McKinsey has estimated that, accelerated by gen AI, up to 30% of current hours worked in the United States could be automated by 2030, requiring 12 million job shifts."
     publishedDateTime: 2023-12-11T05:00:00Z
@@ -85,15 +98,6 @@ related:
     provider:
       name: The Business Journals
       domain: bizjournals.com
-    quality: 17
-  - title: "Open-source generative AI startup Mistral AI raises $415M in funding"
-    excerpt: "French generative artificial intelligence startup Mistral AI announced today it has closed on its second bumper funding round of the year, raising 385 million euros, or around $415 million, in a deal led by prominent venture capital firms Andreessen Horowitz and Lightspeed Venture Partners."
-    publishedDateTime: 2023-12-11T01:47:00Z
-    webUrl: "https://siliconangle.com/2023/12/10/open-source-generative-ai-startup-mistral-ai-raises-415m-funding/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
     quality: 17
 
 secured: "evSPi8fY87u3UexUQobBg7cFVK374F2hEzXYEeMafYzipa9q/OI1xbTqL9bBPyujBn8Aj4DUAINsQ8y2S/lSqHwwRjoZZuxDnoXZPzkKlNypleqvM5UfrTEwbhJYeBR7tHRiqYHaXpiy4eiPwnpm67CAeKXwcLB7+iV0F0zZjBgl8Zo0WvjjhwazEUjUv6rTnJgmwr+C6ZAJ+sXY1i5UCALFhr5okKtfkz1zGYk5ttVO/hkPxiYc8q+9Xxl0j1V/P0+15YJrcq9lIaO8a11ogAfeSHSnF7QXqjPUURTx9tzXT5bwlTzpRR5LIPqiIqq9GS8IyxbL8FGnXyrTuCV0Mq4POBkvv7MSQu+z3HKysqxk907rhZ52lsXcnQlW44PO4xaGo8X6opd9aLG35O9OG/M1/jFH1ue3jOrhwb3jh1OFjqWMxopxFjGBvZtWVe9FbUmXL1IWLRkrdD9FmKDsi1dx3g5N4rHij+mMGTc4Q+5jLUsoO/7camldOp0Juk7Ucq/jSwX3/M17Bvnu4AxDEw==;bZPqVv2PNaIttdc5URF4DQ=="

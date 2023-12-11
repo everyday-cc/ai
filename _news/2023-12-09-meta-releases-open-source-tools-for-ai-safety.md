@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apple silently releases its Deep Learning framework as open-source code"
-    excerpt: "Apple is silently releasing its Deep Learning framework as an open-source code, according to X user Delip Rao. The new MLX framework runs natively on Apple Silicon with a single pip install. According to BGR,"
-    publishedDateTime: 2023-12-06T15:19:00Z
-    webUrl: "https://www.mactech.com/2023/12/06/apple-silently-releases-its-deep-learning-framework-as-open-source-code/"
-    ampWebUrl: "https://www.mactech.com/2023/12/06/apple-silently-releases-its-deep-learning-framework-as-open-source-code/amp/"
-    cdnAmpWebUrl: "https://www-mactech-com.cdn.ampproject.org/c/s/www.mactech.com/2023/12/06/apple-silently-releases-its-deep-learning-framework-as-open-source-code/amp/"
-    type: article
-    provider:
-      name: MacTech
-      domain: mactech.com
-    quality: 59
-    images:
-      - url: "https://www.mactech.com/wp-content/uploads/2023/10/Apple-and-AI-1024x551.jpg"
-        width: 1024
-        height: 551
-        isCached: true
   - title: "Introducing Purple Llama for Safe and Responsible AI Development"
     excerpt: "Purple Llama will bring together tools and evaluations to help developers build responsibly with open generative AI models."
     publishedDateTime: 2023-12-07T14:30:00Z
@@ -95,7 +79,16 @@ related:
       name: Business Times
       domain: businesstimes.com.sg
     quality: 19
+  - title: "OpenAI’s Soap Opera Collapse Bodes Ill for AI Benefiting Humanity"
+    excerpt: "Whatever fantasies we may have had about the nonprofit structure of OpenAI have been eviscerated. While it remains a nonprofit, it’s proven entirely beholden to ruthless capitalism"
+    publishedDateTime: 2023-12-11T13:04:00Z
+    webUrl: "https://www.scientificamerican.com/article/openais-soap-opera-collapse-bodes-ill-for-ai-benefiting-humanity/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 17
 
-secured: "kLfud+ZwCt71nmm1hR6W165C34nTdjizaGzo5M5uYYGcTl5MksVqE/b3D+Hd9/IU1VsAy0BNJRzHYBeg7bYkyHPROpVDo4gNl8UrmG0RIZDWVDaIQJ3NMe8sawgNyljcf7AmKKQeLEabcicm8I4lEBUo5EmzSn3oOB4s0342uYFfzu85Hwi4946G2Jll6xhQ5ik1Y+mNGUWbZSiB5VU5fGMoXGbdWd4H7+o0CMQAkWX0OlAcenU6NCkvwFvxqbut0t8XLH1e4yz6szeSFvtrpPZEnaotYpgJT+4nZvOGbHZoVpw7YBHG3N9aVu75ZoFawDYEvqn2KVWmoSNRKiW4ucjS3aQzED5M3G7EzzuTRKo=;nUgaMTxmE0B6nOK5tEnceg=="
+secured: "C0oS6+0PkfYrN7X/Tdpspsd/S/uU6UOErj/QGhKhJpbSC+WV4LfUHEAJxKZWS+NnGbMvhEntA6cEktf3kTzZkDc/Dbv6OjmFDg4jcCCZU7J/ru9AXsMGjqHHjF7Sb13LjAUFOFZqltChJv7GR4HQl8L2c2Fo8O5dhOrHDr/PWOadmrWY4PCuMj0pzc52cBGYZWl/ByqlgEpFI9puCN92EvtI18fN5BJZgwD8rEWzPOsdqjcpuxtBAILuT2o+ZSsZUylN/tRbWJz/dxmzR4hDqDBMNEzGhbQY5BxLVSO3lnlHaJ9cGsNQbfL53CicwKh7lvGxJEoGHWEUnmkDadHdgwxTI6X5Ta10GvgepOhfyF3vkuJhXLL7ol7i5tP/at+iaJLn46zrifWEcLeUI34/3VLNW+TGz9pBFuzolDDbvBQ7FHuvRZCUJ7uNV0wv7W78V4DmQNuHPetHYqGmOlLEO4zkpVPwKge7qaCiYcUa5ULs0P7+UIzXBYEjSFAarGRPoSbtWDkT2NtYUWw0BiPXCA==;XlaGTQdR1EyVn/g5fZ1I/w=="
 ---
 

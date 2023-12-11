@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Financial vulnerability support fintech Hope Macy in seed funding boost"
+    excerpt: "Fintech Hope Macy has secured £1.5m in seed investment to support the roll-out of its regulated open banking and AI platform to counter the growing problem of financial vulnerability. The funding has come from the Development Bank of Wales and angel investors."
+    publishedDateTime: 2023-12-11T15:34:00Z
+    webUrl: "https://www.business-live.co.uk/technology/financial-vulnerability-support-fintech-hope-28270288"
+    ampWebUrl: "https://www.business-live.co.uk/technology/financial-vulnerability-support-fintech-hope-28270288.amp"
+    cdnAmpWebUrl: "https://www-business--live-co-uk.cdn.ampproject.org/c/s/www.business-live.co.uk/technology/financial-vulnerability-support-fintech-hope-28270288.amp"
+    type: article
+    provider:
+      name: business-live
+      domain: business-live.co.uk
+    quality: 44
+    images:
+      - url: "https://i2-prod.walesonline.co.uk/incoming/article28270320.ece/ALTERNATES/s1200/2_Hope-Macy.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Unfolding the future of fintech: Top 5 tech trends in 2024 and beyond"
     excerpt: "With differentiated, innovative, customer-centric value propositions, and collaborative business models—it’s safe to say that FinTechs have profoundly transformed the face of financial services."
     publishedDateTime: 2023-12-11T05:36:00Z
@@ -40,34 +56,6 @@ related:
       - url: "https://www.financialexpress.com/wp-content/uploads/2023/10/slice-1.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Fintech Venture Fund Canapi Raises $750m"
-    excerpt: "Canapi Ventures, the fintech venture capital fund backed by nearly 70 financial institutions and strategic investors across the United States, today announced the raise of a $750 million Fund II"
-    publishedDateTime: 2023-12-11T10:39:00Z
-    webUrl: "https://fintechnews.ch/fintechusa/fintech-venture-fund-canapi-raises-750m/65492/"
-    type: article
-    provider:
-      name: fintechnews
-      domain: fintechnews.ch
-    quality: 39
-    images:
-      - url: "https://fintechnews.ch/wp-content/uploads/2023/12/Fintech-Venture-Fund-Canapi-Raises-750m.jpg"
-        width: 1024
-        height: 567
-        isCached: true
-  - title: "The 10 Top Technical and Business Trends of 2024"
-    excerpt: "Another key trend in 2024 will be the next evolution of sustainable technology. This includes clean technology, green technology, and climate technology. As one of Gartner's top strategic technology trends for 2024, sustainable technology is a framework of digital solutions that drive Environmental, Social, and Governance (ESG) outcomes."
-    publishedDateTime: 2023-12-11T10:45:00Z
-    webUrl: "https://www.inc.com/anis-uzzaman/the-10-top-technical-business-trends-of-2024.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 24
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/tech-business-trends-2024_535488_abvgmy.jpg"
-        width: 1024
-        height: 576
         isCached: true
 
 secured: "2KIugYv9wezoaFfHQeuwE5LRbQ2NNxzV0AGuKGL9swVkGypWkyWv402MNPFf0UGCSepY9hKK0aiwxRLSLv2InemTlaHCdB5h71ZLEsRKUU29NgyMr8xvlf23vbMC0Gsj8RxxCGvCN1dZ+hkztx3mbeGZJeU99ujYLG/2KfdV7/kkPjf4I1Vc32Xbgx6EHmz5QccRZ3Uc8nC0UQ0wjzGAEWnLPmCYGjnQ8d/ulZWcXY7s3xtCres9O5DhqNevkzWhyauAHSOCupBlsVFYQWa4sHblKsZdvacYYh2w5w4j6Xx0awp/BteR9P3BA7gc0rtHy4fbJEIttjusytSZSJzJNSMxK/eMxBEUJBrs2LaJ/vHuwlLraVRCoGO4AxHfU8B3XahDNVtnNRxCbmn7qs2FDlLnhOP5EWJwQXR+KLvJsd6VY+XJ4wVERUDT6RrigFsJTrxoGt/euKEs/UyPJvAywOPCF3gRi6yoIplsLLiAMzSPxiKYQ7oAq5BLRWpv8qIgNrxwNJFb3s5ClWtTTAHpng==;++GenYVilD5e12+BJdJ2Jw=="

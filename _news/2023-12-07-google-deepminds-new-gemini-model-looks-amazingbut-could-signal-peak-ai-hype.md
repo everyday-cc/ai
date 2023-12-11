@@ -41,34 +41,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Google DeepMind's Demis Hassabis Says Gemini Is a New Breed of AI"
-    excerpt: "Google’s new AI model Gemini launched today inside the Bard chatbot. It could go on to advance robotics and other projects, says Demis Hassabis, the AI executive leading the project."
-    publishedDateTime: 2023-12-06T15:00:00Z
-    webUrl: "https://www.wired.com/story/google-deepmind-demis-hassabis-gemini-ai/"
+  - title: "Tesla's head of AI infrastructure Tim Zaman joins Google DeepMind"
+    excerpt: "Tim Zaman has left Tesla to work at Google DeepMind. Zaman was the head of 'AI Infra' at the automotive company from 2019, and was deeply involved in deploying the company's Dojo supercomputers and GPU supercomputers."
+    publishedDateTime: 2023-12-11T13:33:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/teslas-head-of-ai-infrastructure-tim-zaman-joins-google-deepmind/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 86
-    images:
-      - url: "https://media.wired.com/photos/656ff1407599da22da60d6c4/191:100/w_1280,c_limit/Demis-Hassabis-Interview-Business-1760047727.jpg"
-        width: 1280
-        height: 670
-        isCached: true
-  - title: "AI can copy human social learning skills in real time, DeepMind finds"
-    excerpt: "Researchers at DeepMind have developed an AI system that can copy social learning skills by imitating humans in real time."
-    publishedDateTime: 2023-12-06T14:38:00Z
-    webUrl: "https://thenextweb.com/news/ai-can-copy-human-social-learning-skills-real-time-deepmind"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 84
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F12%2FUntitled-design-22-3.jpg&signature=a12f06c1ab2bba9232a99de0d98d2b76"
-        width: 1280
-        height: 640
-        isCached: true
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 51
   - title: "5 questions for Google DeepMind’s Tom Lue"
     excerpt: "Indeed, this week Google introduced Gemini to the world — the most capable and general model we’ve ever built. Gemini was built from the ground up to be multimodal, which means it can seamlessly understand,"
     publishedDateTime: 2023-12-08T20:02:00Z

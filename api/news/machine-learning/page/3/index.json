@@ -2,6 +2,93 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-11-16-north-america-machine-learning-market-size-growth-status-emerging-technology-key-players-and-forecast-till-2032.md",
+      "title": "North America Machine Learning Market Size, Growth Status, Emerging Technology, Key Players And Forecast Till 2032",
+      "excerpt": "Report Ocean published a recovery-based report for  North America Machine LearningMarket  that provides crucial details on company opportuniti",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1107437203/North-America-Machine-Learning-Market-Size-Growth-Status-Emerging-Technology-Key-Players-And-Forecast-Till-2032",
+      "originalUrl": "https://menafn.com/1107437203/North-America-Machine-Learning-Market-Size-Growth-Status-Emerging-Technology-Key-Players-And-Forecast-Till-2032",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?403370",
+          "width": 320,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-16T10:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-11-16-reactor-physics-research-advanced-neural-networks-reveal-new-potential-in-solving-k-eigenvalue-problems.md",
+      "title": "Reactor physics research: Advanced neural networks reveal new potential in solving K-eigenvalue problems",
+      "excerpt": "This study introduced two pioneering neural networks, the Generalized Inverse Power Method Neural Network (GIPMNN) and its advanced version, the Physics-Constrained GIPMNN (PC-GIPMNN), to address ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-11-reactor-physics-advanced-neural-networks.html",
+      "originalUrl": "https://phys.org/news/2023-11-reactor-physics-advanced-neural-networks.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/breakthrough-in-reacto.jpg",
+          "width": 1769,
+          "height": 1745,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-11-reactor-physics-advanced-neural-networks.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-11-reactor-physics-advanced-neural-networks.amp",
+      "publishedDateTime": "2023-11-16T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-16-the-minds-eye-of-a-neural-network-system.md",
       "title": "The mind's eye of a neural network system",
       "excerpt": "Aug. 31, 2023 — An artificial intelligence with the ability to look inward and fine tune its own neural network performs better when it chooses diversity over lack of diversity, a new study ...",
@@ -1080,74 +1167,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-artificial-neural-networks-market-size-growth-to-fuel-lucrative-revenues-in-the-future.md",
-      "title": "Artificial Neural Networks Market Size Growth to Fuel Lucrative Revenues in the Future",
-      "excerpt": "Report Ocean has recently published “The Artificial Neural Networks Market” Research Report 2023-2031, offering a comprehensive analysis of the market. This report delves deep into the market dynamics, including key trends, upcoming technologies ...",
-      "sourceUrl": null,
-      "webUrl": "https://ipsnews.net/business/2023/11/08/artificial-neural-networks-market-size-growth-to-fuel-lucrative-revenues-in-the-future/",
-      "originalUrl": "https://ipsnews.net/business/2023/11/08/artificial-neural-networks-market-size-growth-to-fuel-lucrative-revenues-in-the-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T05:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inter Press Service",
-        "domain": "ipsnews.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-akkio-adds-genai-to-help-users-modify-their-data-make-predictions-through-natural-language.md",
-      "title": "Akkio adds genAI to help users modify their data, make predictions through natural language",
-      "excerpt": "But when we get to the task of doing that predictive outcome, we're going to use the AutoML engine that we built. So there we click on this predict tab, we do three types of ML models, classification regression and time series forecasting. In this case ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/video/1246000/akkio-adds-genai-to-help-users-modify-their-data-make-predictions-through-natural-language.html",
-      "originalUrl": "https://www.cio.com/video/1246000/akkio-adds-genai-to-help-users-modify-their-data-make-predictions-through-natural-language.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

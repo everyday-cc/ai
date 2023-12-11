@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-11-a-venture-capitalists-perspective-on-robotics.md",
+      "title": "A venture capitalist’s perspective on robotics",
+      "excerpt": "Founders should be aware the era of exiting a business based on little more than “promising technology” is over — you must eventually build a real business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/venture-capitalist-perspective-on-robotics/",
+      "originalUrl": "https://www.therobotreport.com/venture-capitalist-perspective-on-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/12/robot-trends-AdobeStock.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-11T15:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-11-how-accurate-were-our-2023-ai-predictions.md",
       "title": "How Accurate Were Our 2023 AI Predictions?",
       "excerpt": "Midjourney, which generates images from text prompts, is one of the hottest generative AI startups in the world. It has tens of millions of users and is reportedly on track to do $200 million in revenue in 2023. It has accomplished all of this without raising a cent of outside capital.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.forbes.com/sites/robtoews/2023/12/10/how-accurate-were-our-2023-ai-predictions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -94,6 +137,92 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-liquid-ai-a-new-mit-spinoff-wants-to-build-an-entirely-new-type-of-ai.md",
+      "title": "Liquid AI, a new MIT spinoff, wants to build an entirely new type of AI",
+      "excerpt": "An MIT spinoff co-founded by robotics luminary Daniela Rus aims to build general ... So what exactly does Liquid AI the startup hope to achieve with this powerful new(ish) architecture? Plain and simple, commercialization. One presumes work will continue ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/12/06/liquid-ai-a-new-mit-spinoff-wants-to-build-an-entirely-new-type-of-ai/",
+      "originalUrl": "https://techcrunch.com/2023/12/06/liquid-ai-a-new-mit-spinoff-wants-to-build-an-entirely-new-type-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-8-best-artificial-intelligence-etfs-to-invest-in.md",
+      "title": "8 Best Artificial Intelligence ETFs To Invest In",
+      "excerpt": "Global X Artificial Intelligence and Technology ETF (AIQ) Global X Robotics and Artificial Intelligence ETF (BOTZ) Global X Artificial Intelligence and Technology ETF (Nasdaq: AIQ) has returned 47 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/8-best-artificial-intelligence-etfs-205332104.html",
+      "originalUrl": "https://www.aol.com/8-best-artificial-intelligence-etfs-205332104.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/dGRN4QGQPzon723VUNgqLA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/8b9eb79f9593d38fcbba2c62865b289d",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T14:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -195,10 +324,10 @@
     {
       "path": "_news/2023-12-06-undersea-robot-startup-founded-by-nasa-engineer-ejects-clo.md",
       "title": "Undersea-Robot Startup Founded by NASA Engineer Ejects CLO",
-      "excerpt": "Nauticus was founded in 2014 by Nic Radford, who left NASA that year as principal investigator for the Dexterous Robotics Lab at Johnson Space Center. He’d joined the agency in 2006, becoming deputy project manager and chief engineer of NASA’s humanoid space robot “Robonaut2.”",
+      "excerpt": "The chief legal and administrative officer for an undersea robotics company founded by a NASA robotics engineer is one of two executives the company recently dismissed, according to a regulatory filing.",
       "sourceUrl": null,
-      "webUrl": "https://www.law.com/corpcounsel/2023/12/04/undersea-robot-startup-founded-by-nasa-engineer-terminates-clo/",
-      "originalUrl": "https://www.law.com/corpcounsel/2023/12/04/undersea-robot-startup-founded-by-nasa-engineer-terminates-clo/",
+      "webUrl": "https://www.law.com/texaslawyer/2023/12/04/undersea-robot-startup-founded-by-nasa-engineer-terminates-clo/",
+      "originalUrl": "https://www.law.com/texaslawyer/2023/12/04/undersea-robot-startup-founded-by-nasa-engineer-terminates-clo/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -342,6 +471,74 @@
       "provider": {
         "name": "Scientific American",
         "domain": "scientificamerican.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-05-3-innovative-artificial-intelligence-and-robotics-stocks-that-have-multidecade-growth-potential.md",
+      "title": "3 Innovative Artificial Intelligence and Robotics Stocks That Have Multidecade Growth Potential",
+      "excerpt": "Tesla is unique because it has a couple of long-tail growth opportunities -- including its self-driving software, a robotaxi business, AI, and robotics. Tesla's AI and robotics umbrella includes ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-innovative-artificial-intelligence-and-robotics-stocks-that-have-multidecade-growth",
+      "originalUrl": "https://www.nasdaq.com/articles/3-innovative-artificial-intelligence-and-robotics-stocks-that-have-multidecade-growth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-05T11:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-05-artificial-intelligence-makes-gripping-more-intuitive.md",
+      "title": "Artificial intelligence makes gripping more intuitive",
+      "excerpt": "a professor of rehabilitation and assistive robotics at TUM. Now, Prof. Piazza’s research team has shown that artificial intelligence can enable patients to control advanced hand prostheses more ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/1010158",
+      "originalUrl": "https://www.eurekalert.org/news-releases/1010158",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-05T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -505,6 +702,40 @@
       "provider": {
         "name": "BGR",
         "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-01-seaweed-robot-startup-nets-gbp-150000-in-pre-seed-funding-us-doe-funds-seaweed-study-searching-for-rare-earth-metals.md",
+      "title": "Seaweed-robot startup nets GBP 150,000 in pre-seed funding; US DOE funds seaweed study searching for rare earth metals",
+      "excerpt": "-London, England-based seaweed startup Samudra Oceans has secured a GBP 150,000 (USD 190,000, EUR 174,000) investment from the British Design Fund as a part of its GBP 800,000 (USD 1 million, EUR 927,000) pre-seed funding round.",
+      "sourceUrl": null,
+      "webUrl": "https://www.seafoodsource.com/news/aquaculture/seaweed-startup-samudra-oceans-receives-gbp-150-000-in-pre-seed-funding-round-university-of-hawaii-at-manoa-receives-usd-892-290-from-national-science-foundation",
+      "originalUrl": "https://www.seafoodsource.com/news/aquaculture/seaweed-startup-samudra-oceans-receives-gbp-150-000-in-pre-seed-funding-round-university-of-hawaii-at-manoa-receives-usd-892-290-from-national-science-foundation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T11:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SeafoodSource",
+        "domain": "seafoodsource.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1034,274 +1265,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-11-28-3-robotics-stocks-that-could-be-multibaggers-in-the-making.md",
-      "title": "3 Robotics Stocks That Could Be Multibaggers in the Making",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The robotics sector is rapidly expanding, promising transformative potential",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-that-could-be-multibaggers-in-the-making-1032853990",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-that-could-be-multibaggers-in-the-making-1032853990",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-28T10:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-28-ai-industrial-robotics-latam.md",
-      "title": "AI Industrial Robotics - LATAM",
-      "excerpt": "The market size in the AI Industrial Robotics market is projected to reach 0.00 in 2023. The market size is expected to show an annual growth rate (CAGR 2023-0) of 0, resulting in a market volume ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/latam",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/latam",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-28T07:56:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-28-ai-service-robotics-latam.md",
-      "title": "AI Service Robotics - LATAM",
-      "excerpt": "The market size in the AI Service Robotics market is projected to reach 0.00 in 2023. The market size is expected to show an annual growth rate (CAGR 2023-0) of 0, resulting in a market volume of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/latam",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/latam",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-28T07:56:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-28-new-method-uses-crowdsourced-feedback-to-help-train-robots.md",
-      "title": "New method uses crowdsourced feedback to help train robots",
-      "excerpt": "A new technique enables an AI agent to be guided by data crowdsourced asynchronously from nonexpert human users as it learns to complete a task through reinforcement learning. The method trains the robot faster and better than other approaches.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/11/231127132237.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/11/231127132237.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-27T23:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-27-ai-powered-robotics-exploring-the-latest-innovations-and-applications-in-2024.md",
-      "title": "AI-Powered Robotics: Exploring the Latest Innovations and Applications in 2024",
-      "excerpt": "Introduction: In the fast-paced landscape of technology, artificial intelligence (AI) continues to revolutionize industries, and the field of robotics is no exception. Furthermore, as we delve into the year 2024,",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/ai-powered-robotics-exploring-the-latest-innovations-and-applications-in-2024/",
-      "originalUrl": "https://techbullion.com/ai-powered-robotics-exploring-the-latest-innovations-and-applications-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2023/11/AI-Powered-Robotics-Exploring-the-Latest-Innovations-and-Applications-in-2024.jpg",
-          "width": 650,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-27T11:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-11-27-best-robot-vacuum-cyber-monday-deals-roomba-shark-and-more.md",
-      "title": "Best robot vacuum Cyber Monday deals: Roomba, Shark, and more",
-      "excerpt": "With so many robot vacuum deals going on this Cyber Monday, we've picked out some of our favorite deals for every budget.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/home/robot-vacuum-cyber-monday-deals-2023/",
-      "originalUrl": "https://www.digitaltrends.com/home/robot-vacuum-cyber-monday-deals-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/09/Digital-Trends-Best-Cyber-Monday-Robot-Vacuum-Deals.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/home/robot-vacuum-cyber-monday-deals-2023/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/robot-vacuum-cyber-monday-deals-2023/?amp",
-      "publishedDateTime": "2023-11-27T07:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

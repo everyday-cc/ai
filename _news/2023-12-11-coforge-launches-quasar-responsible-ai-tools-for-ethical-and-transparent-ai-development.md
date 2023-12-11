@@ -25,6 +25,22 @@ images:
     height: 834
     isCached: true
 
+related:
+  - title: "Meta announces Purple Llama initiative to promote responsible and safe generative AI development"
+    excerpt: "Meta announces Purple Llama initiative to promote responsible and safe generative AI development - SiliconANGLE"
+    publishedDateTime: 2023-12-07T15:52:00Z
+    webUrl: "https://siliconangle.com/2023/12/07/meta-announces-purple-llama-initiative-promote-responsible-safe-generative-ai-development/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 26
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/Image-1.png"
+        width: 1920
+        height: 1080
+        isCached: true
+
 secured: "qdiGETzzkZbYfnZ7E444Nf1lKMfPmzlkUKhS6WtPULzlZwFLkyS/qJe9i7pQd5OiHT6BedCqM9Sv/IpCAAIyhC1oTiY/6wfQXJHCaZ9lCgfYjoeyADM6ZSrFpMFsbl/Xb5ApDnXNbFuXkSt75/BpgN9nEyc9uL/wnYkUVhGZqJ57PnDZFjJiU5CT0GHxF+Rp0mDngfFbLVdqam/YAecrVJQalDmIF8F3W/L77AIyMAvkGiS0LnWM2w04j2mrSgcnmgt3ZTSZc+1bij0n6eQer8beIMQBiPO+XLuFcZ+rpEHKhS2r37Jyo1JIcpW+S4h788Nd4qd4P0Nwivb74icreoXuIy46ml/GaIoM77XQpF8BS5zzNWVSOiBQ6PQQ0ZSxo2EZI9OXN6xp2pqaRHf20lzHnG454fIV4nQK0GThM8uVYj78OSQDc+Rs6bVBhAHlBVzeRCoSJSh8Wddt2UmoIUtDT0OngzrgC9wM1Ug4dAZ6EaIMiv4s8w17XOhajXVG+DDl8hlLWtCFF8wsaUZ/AA==;ZWMti817pqhgys0iLOHnAA=="
 ---
 

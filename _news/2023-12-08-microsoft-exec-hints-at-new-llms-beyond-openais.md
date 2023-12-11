@@ -45,6 +45,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Microsoft, AFL-CIO Reach Deal on AI, Labor Neutrality"
+    excerpt: "Microsoft has a major partnership with ChatGPT maker OpenAI and committed to pumping more than $10 billion into the startup. Surging popularity of so-called generative AI, which uses data to create new content like ChatGPT's human-sounding prose, could remake human society and make obsolete many jobs."
+    publishedDateTime: 2023-12-11T14:03:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-12-11/microsoft-afl-cio-reach-deal-on-ai-labor-neutrality"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 64
   - title: "Microsoft Agrees to Union Contract Terms Governing Its Use of AI"
     excerpt: "Microsoft Corp. has agreed to union contract language governing its use of artificial intelligence, creating an avenue for workers to challenge how it deploys the evolving technology."
     publishedDateTime: 2023-12-11T11:59:00Z
@@ -67,6 +76,20 @@ related:
       - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/532150054/image_532150054.jpg?io=getty-c-w1536"
         width: 1536
         height: 1050
+        isCached: true
+  - title: "Microsoft Announces Git Partial Clone Support in Azure DevOps"
+    excerpt: "Azure DevOps has recently extended support for Git Partial Clone to all its users. Partial clones represent a streamlined version of git clones initiated through specific command line arguments. Repositories that employ partial clones have demonstrated an average reduction of 88."
+    publishedDateTime: 2023-12-10T15:33:00Z
+    webUrl: "https://www.infoq.com/news/2023/12/git-partial-clone-azure-devops/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 54
+    images:
+      - url: "https://res.infoq.com/news/2023/12/git-partial-clone-azure-devops/en/headerimage/generatedHeaderImage-1702179442226.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "EEfOKa2H+s1stGFWNXbbhp5U1DPaYGZ1oUT4Ad9XUAg0e6csaVRnru2X83SKm+gKcOBGIL03Ed0w7DQVmVrMW9EpC/StAXnH+G3glZVhTx1jG3++oo1QpMYSPLsVaPvowWgxFBQjoNv/gx1la+Qa9WzprBU/L56phNEpGLTlApCnP1d1/8nwEWtAROCd6G7R7feNI84MYcmHP6nA6DOMb5zc4eSASGWvxbFDhmdmV2r8ea/t4YrybEhwYLs515hfvscUPxheVBtaS/nuJV2IW9dp3g0w0NBVljRzgcoY4Cq6mq8PBt6XmMMWSwxULl30CHAWNOxf4sXhaeqAT+m68Wy+V4+hJ3YnEKo4iAba8Sz7iPRJKWTp8i81umLv98QKiCqjKRpq/CGBDo1WQx3xRa2JaFmCZGokEzKKxS4DF/tjdVeNIwSwGO4tWK/Pz4Rz345fPEjngefqOmP7GEP4oGxXVxtU0v3kF1D+5E4eMuoJX6kS9Jazfu50Jh8l/WTmpwih8tAoSw3KcUf8HCOniA==;OXaO9Jh1URbsbe4eG+d8Qg=="

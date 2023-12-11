@@ -1,20 +1,20 @@
 ---
 category: news
 title: "AWS Announces Amazon Q to Reimagine the Future of Work"
-excerpt: "Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced Amazon Q, a new type of generative artificial intelligence-(AI) powered assistant that is specifically for work and can be t ..."
+excerpt: "vice president of Data and Artificial Intelligence. “AWS is helping customers harness generative AI with solutions at all three layers of the stack, including purpose-built infrastructure ..."
 publishedDateTime: 2023-11-28T18:21:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20231128307286/aws-announces-amazon-q-to-reimagine-the-future-of-work"
-webUrl: "https://www.morningstar.com/news/business-wire/20231128307286/aws-announces-amazon-q-to-reimagine-the-future-of-work"
+originalUrl: "https://www.nasdaq.com/press-release/aws-announces-amazon-q-to-reimagine-the-future-of-work-2023-11-28"
+webUrl: "https://www.nasdaq.com/press-release/aws-announces-amazon-q-to-reimagine-the-future-of-work-2023-11-28"
 type: article
 
 provider:
-  name: Morningstar
-  domain: morningstar.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "5QwNtcIIrdWwDKk6O7R+rMTZkwx7Noplp6s/xCWlZ7Dz2BlmW18oYU34nkvNRQYbv+ZzIie/7w6zRROOGEa1JuU2uF5XEsvm+ttlA9ApqAYR6DVERWLL6mQUuGznNHy/6XomeLNeaUOkqrQFNAxZUgxyLT7pdqxvvFfeQ+85nQGTvxdatsFby59A3Q3xsoEW9sWitn9ahFhNfRLb079vC8O+XgUVV1zuxKzH8oP5ixBIctMLb/8mj5Ead9hhtxfxdAJYUOvBqCH6pEHZycxwTEu+am/CwQmRwNtDdkGviSELuUudnVI7gp0/THrCGhHly1Er/30ft4UNnrvJVpGXVtw7VjfQtnDTlbbgCDHK5Fw=;R/CKoGbp3/xzZsGhMfQaMA=="
+secured: "MYplwytBj2fWr9Da3oyxFDs97htS6yJFfROXFa1tE2ksK1IMlefyEJMbMpuSGbVWgfDlqFczezRgg6EGKNhrvWwpxFfQHJ35pD4RvlFq6U3Wqgt2kDaXLeLrGbcsx20Ksc22BpSXMv95Ucrom2qPbHo68YP9cxQ8mjYvNULbyW+xh9SJKnTH7IYk3A6V+QEF/w3aT0GX7hPwS4thgwPpIkVmLCc6zghtwc59uhQVAVoBe+pAw73RZUK81OV80/raaqsmPsSeUl52pKBJ1+/sGMBjbB0Xx/GDUPAzaavr+7cSQv4D8ujo3hMj2oWDvBGWGyl9LW7wd22K0UVzzlxj0nMtIC3/wZq5BBfeobjVdPQ=;ZOk855OAP+ZJYLab4mtFJw=="
 ---
 

@@ -1,0 +1,29 @@
+---
+category: news
+title: "Art Theft Research: There’s an App for That"
+excerpt: "Art buyers’ due diligence should always involve checking databases of stolen art and antiquities, and there are apps that make doing so easier."
+publishedDateTime: 2023-12-11T16:48:00Z
+originalUrl: "https://observer.com/2023/12/interpol-app-fbi-app-art-crime-recovery/"
+webUrl: "https://observer.com/2023/12/interpol-app-fbi-app-art-crime-recovery/"
+type: article
+quality: 24
+heat: 24
+published: false
+
+provider:
+  name: observer
+  domain: observer.com
+
+topics:
+  - Computer Vision
+  - AI
+
+images:
+  - url: "https://observer.com/wp-content/uploads/sites/2/2023/12/interpol-stolen-art-app.jpg?quality=80"
+    width: 600
+    height: 396
+    isCached: true
+
+secured: "aGNHf/63E0nqLJHm5Ys6FA6kr+WCp1Ri7nRCBl5NAjzVovRXh4i4zcyT4OhlU5urdZywvjbeaTjJ0G+sEhcKTXBRs/3xGH1yjAHfNyP4EW1FOPHf7hDKdu1zrxOKMHaX1n8jfTLhiP1Jgs4UrbnI5AaUjl7MCAnTEwLwEvoEuG9VK8t3svPAeVE7BM+oKwDChtjqGK4vRr1paf3d82YsIC6EIjqYcKh/voIW2c3SQ31G/EjkvBwX8kwf+LjvmaBV4N6FovfWclyR0dtV9+UHjECfJBjVkKCZuVAx03EtLSc29X/dzFHQwk+V524f4f6hMntOL9oey+hHj3DRuLbDlcxlSbxDhcRS3A5kHMJkh5M=;oGC4IIIVq6Ddd3HPWSapbw=="
+---
+
