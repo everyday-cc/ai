@@ -8,8 +8,8 @@ webUrl: "https://www.philstar.com/business/telecoms/2023/12/11/2311679/philippin
 ampWebUrl: "https://www.philstar.com/business/telecoms/2023/12/11/2311679/philippines-gcash-banners-success-story-singapore-fintech-festival-2023/amp/"
 cdnAmpWebUrl: "https://www-philstar-com.cdn.ampproject.org/c/s/www.philstar.com/business/telecoms/2023/12/11/2311679/philippines-gcash-banners-success-story-singapore-fintech-festival-2023/amp/"
 type: article
-quality: 22
-heat: 22
+quality: 42
+heat: 42
 published: false
 
 provider:
@@ -20,6 +20,12 @@ topics:
   - AI in Finance
   - AI
 
-secured: "FjKFie1sWtk+35VWCwEtR1AtRU2oZZwKRGpjg10NUyfvfFPMgMUy2FuErnp9DtQup3JeDgQq+o6W4sOeeY1aAj3Z5FekFZCkFqaKNL6SzLkzgEvetwoybB66jYcVtFV5yp+gsyhDd0ixcaP0JpXBLIpDT22263a0mtaUBedErGaqeRKijOFJLIKSh8sxVIZJnllwjJlvsk/hQctnPVoapRNsU7CZG+uZODACitxKN/k1EGlSf9DK4Ds5Fn8lVfo8TG/Ho2pSbezgLKVm7M82FVSPi4wfI/ywp5B4sTIrbZbBflYUcXM+J2N4Pwa1tl8DXN7WtG4wmgTWIkeX3xZphy48YrBaHIQAFnSrIK2pId8=;c4MxY9KkqtrZouEnX2+1uQ=="
+images:
+  - url: "https://media.philstar.com/photos/2023/11/15/gcash-fintech_2023-11-15_14-09-54900_thumbnail.jpg"
+    width: 685
+    height: 391
+    isCached: true
+
+secured: "C4wAxGac2dMy176zSQmy2bX4Xi5ojThpbhEBY89HElyPM8gUow9lms1VRVGYEC4HBdXwxDLqVJfOOvz88iTs+3vub2rkP3B4rHTP65I/7iY83bcwxcLbLGHRMAj1XC7zeYK4/ARz5oxxigkuYZrViMchK3okJT2373Wh9uPcDtga15bUAriCB8p4C3fjxYxdvGKlyyFd+6oQ+vrhd1H4jl+32+atiG2yCujNSDLEaOVkUuw+BjrB51XJ2r0ylvMho88Ta/iycGXrJqdZu8+EHoCuFJsbUyX9PT+1DbuLAldpDx7nXP8l9XFcyuSAZwKbPzUwED65qm448syrb9DrVv5DeZoURrUGDoMAII84YjU=;snrcWp05XKg71lahnoOOUQ=="
 ---
 

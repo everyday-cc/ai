@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Coforge launches Quasar Responsible AI tools for ethical and transparent AI development"
+    excerpt: "Formerly known as NIIT Technologies, Coforge offers a range of digital services and solutions, from cloud and data management to AI-powered platforms."
+    publishedDateTime: 2023-12-11T07:26:00Z
+    webUrl: "https://yourstory.com/enterprise-story/2023/12/coforge-launches-quasar-ethical-transparent-responsible-ai-tools"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 48
+    images:
+      - url: "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/Cover-02-1700033811860.png?fm=png&auto=format"
+        width: 1668
+        height: 834
+        isCached: true
   - title: "Meta releases ‘Purple Llama’ AI security suite to meet White House commitments"
     excerpt: "Meta released a suite of tools called “Purple Llama,” designed to help developers build safely and securely with generative AI tools, such as Meta’s open-source model, Llama-2."
     publishedDateTime: 2023-12-07T18:30:00Z

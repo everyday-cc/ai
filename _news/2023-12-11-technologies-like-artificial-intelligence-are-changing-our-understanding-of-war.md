@@ -6,7 +6,7 @@ publishedDateTime: 2023-12-11T06:52:00Z
 originalUrl: "https://www.econotimes.com/Technologies-like-artificial-intelligence-are-changing-our-understanding-of-war-1667684"
 webUrl: "https://www.econotimes.com/Technologies-like-artificial-intelligence-are-changing-our-understanding-of-war-1667684"
 type: article
-quality: 33
+quality: 35
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AWS AI
 
 images:
   - url: "https://f1.econotimes.com/2023/12/eg4ua4q96q_th_1024x0.jpg"
@@ -55,6 +56,6 @@ related:
         height: 315
         isCached: true
 
-secured: "D63FaUFfrxF2BLO6iFhHxg4nEGcAxgZcMxdqR3pHRWMOM0BFMrd8FN4GFlUNF63mBoqX7iTT6nUfPPkwv4+RFA+PwZ4S5tYFa9mOD9N/uzqg9iKPhHRPm4pHwtFE72KPA0Ln7sdcjraSaqgVlBZVHUGe1gVt/rMAQeok8YytZPwnUk6SMsJHC+Jirt2cJQXTiZV7D9x8uTh1Hq9/bqoHQvxrllNkwzX1GI6YCbkWyfRuz2mBHun7Gz2D8Eu1J57Ocl3ubtfyUtJQJE2atKh5ugzzwYz5zttOMHt+LHOCmPO92pfoPyH6xmmgePZpqElxqbntDkoCV99aTOobSgalX307GbW3iwO2P9n1frbuH4I=;GlUItr/PJWZS5Uf+IsP/rA=="
+secured: "GB7zPwW8tPrUIMeYJ3kNX3OiSk7kOpOoPf6YL5S8JiPHumahVNflkhmYyBUSEA3EPYpqhVd4IaQc5sivhuH2S6wHoARXbVGgo98Yk2jOLykHxLoVxX8IasF5lfDzcEMwJRjAp0stwlEdde8lBMiSV6mNtZE6BC1Y5GtYI2ZkgB+IxYf22cm3Fqli7oyhdDypqKBe4+8hEJpfh2MQtXkLHxFeIruOAQVTpYWlCNqFBB1qpmIwbQrYMioySXtO2KwiEGdMcDaZiSzZId7AlIQukhu8dAi8phOxxaQYD9NmngVOp23KUJAYp4UJMKQakotgyemHfADIF8ByapXCSUQmLj2sX8kH361nMjY9ueC8xat9wsEH+jyqBXtUVOhtUKcPvG6b/zBPldqFZXe+5cZqZVtByNgN9EhUCP4QbgdsZzDcgfnQAz2+Y4HE/u9l8v74olIhldk10n76YN6Qc/1ZEXJkL3iYN8/dFN3vh1zNnW+TM/TVs0lY4mY2HqpQtly4EMkBXpLAG/p+0gqlCR2lJQ==;afht7R9N9KDmbMVb56zb9g=="
 ---
 

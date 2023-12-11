@@ -41,22 +41,6 @@ related:
         width: 1400
         height: 788
         isCached: true
-  - title: "Apple launches MLX machine-learning framework for Apple Silicon"
-    excerpt: "Apple’s machine learning (ML) teams quietly flexed their muscle with the release of a new ML framework developed for Apple Silicon."
-    publishedDateTime: 2023-12-06T08:52:00Z
-    webUrl: "https://www.computerworld.com/article/3711408/apple-launches-mlx-machine-learning-framework-for-apple-silicon.html"
-    ampWebUrl: "https://www.computerworld.com/article/3711408/apple-launches-mlx-machine-learning-framework-for-apple-silicon.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3711408/apple-launches-mlx-machine-learning-framework-for-apple-silicon.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/11/14/12/m3-family-processor-platter-100948502-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Apple drops new MLX machine learning framework for Apple silicon Macs"
     excerpt: "Just in time for the holidays, we are releasing some new software today from Apple machine learning research. MLX is an efficient machine learning framework specifically designed for Apple silicon (i.e. your laptop!) Code: https://t.co/Kbis7IrP80 Docs: https://t.co/CUQb80HGut"
     publishedDateTime: 2023-12-06T20:21:00Z

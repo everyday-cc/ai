@@ -51,7 +51,7 @@ related:
   - title: "Combining artificial intelligence and spectral imaging accurately identifies skin cancer"
     excerpt: "In a groundbreaking doctoral study, artificial intelligence (AI) has proven its ability to accurately distinguish malignant skin lesions from benign ones using hyperspectral imaging (HSI). Prior to AI analysis,"
     publishedDateTime: 2023-12-09T10:27:00Z
-    webUrl: "https://www.helsinkitimes.fi/themes/themes/science-and-technology/24569-combining-artificial-intelligence-and-spectral-imaging-accurately-identifies-skin-cancer.html?tmpl=component&layout=default&page="
+    webUrl: "https://www.helsinkitimes.fi/themes/themes/science-and-technology/24569-combining-artificial-intelligence-and-spectral-imaging-accurately-identifies-skin-cancer.html"
     type: article
     provider:
       name: Helsinki Times

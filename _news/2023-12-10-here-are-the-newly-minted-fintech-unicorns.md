@@ -39,6 +39,20 @@ related:
         width: 660
         height: 330
         isCached: true
+  - title: "6 Fintech Resources in Asia to Read in Preparation for 2024"
+    excerpt: "Look ahead to the future of financial innovation in Asia, with this guide to some of the must-read fintech resources to gear up for 2024."
+    publishedDateTime: 2023-12-11T07:39:00Z
+    webUrl: "https://fintechnews.sg/81825/sponsoredpost/6-fintech-resources-in-asia-to-read-in-preparation-for-2024/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 24
+    images:
+      - url: "https://fintechnews.sg/wp-content/uploads/2023/12/6-Fintech-Resources-in-Asia-to-Read-in-Preparation-for-2024.jpg"
+        width: 1024
+        height: 567
+        isCached: true
   - title: "Top Technology Trends in Banking and Fintech for 2024"
     excerpt: "While still in their early stages, blockchain and DLT have the potential to revolutionize various aspects of financial services, from cross-border payments and trade finance to digital identity and anti-money laundering compliance. 2024 will see further  experimentation and adoption of these technologies in various use cases"
     publishedDateTime: 2023-12-10T19:10:00Z

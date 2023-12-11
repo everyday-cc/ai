@@ -49,7 +49,7 @@ related:
     provider:
       name: EconoTimes
       domain: econotimes.com
-    quality: 33
+    quality: 35
     images:
       - url: "https://f1.econotimes.com/2023/12/eg4ua4q96q_th_1024x0.jpg"
         width: 496

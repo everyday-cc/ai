@@ -9,7 +9,7 @@ ampWebUrl: "https://about.fb.com/news/2023/12/purple-llama-safe-responsible-ai-d
 cdnAmpWebUrl: "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2023/12/purple-llama-safe-responsible-ai-development/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Coforge launches Quasar Responsible AI tools for ethical and transparent AI development"
+    excerpt: "Formerly known as NIIT Technologies, Coforge offers a range of digital services and solutions, from cloud and data management to AI-powered platforms."
+    publishedDateTime: 2023-12-11T07:26:00Z
+    webUrl: "https://yourstory.com/enterprise-story/2023/12/coforge-launches-quasar-ethical-transparent-responsible-ai-tools"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 48
+    images:
+      - url: "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/Cover-02-1700033811860.png?fm=png&auto=format"
+        width: 1668
+        height: 834
+        isCached: true
   - title: "Meta Releases Purple Llama to Bolster Responsible AI Development"
     excerpt: "Explore Meta's groundbreaking initiative, Purple Llama, designed to cultivate responsible development in open generative AI models."
     publishedDateTime: 2023-12-08T09:22:00Z

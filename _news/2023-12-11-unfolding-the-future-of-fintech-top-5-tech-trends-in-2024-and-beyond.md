@@ -26,6 +26,22 @@ images:
     height: 675
     isCached: true
 
-secured: "W1B0Kco+YN+QFiDAHbWOCE3XcVlJcgR3+TQI/Dgn9d5Z4hnkj6h0St2d6vl42nlGvKksR0KPDeOS4J5dqxadzjBM7NRwRX7z8qZLDOjp5CmrACNsznqc9o0dO9JY9WTI2IUdzGMh1fexrF7OJtNY1D4sgRl6aQSe7LD5rvIypTOnC4iVINbr6gwVu3qErikApGyAUq4m5Uzo0A4/Zp0HkzfVJvuMTTCrBX1zc4d1ksjcUv/1DEG5TnNu9Kd46vtlmYJz1+JT6hB/gLg+DQJ1mxjyWT2dr9yVY46sdyri7Zkr302EUoQFr5MET6wvIAo6wStR16kstuHwr7AcNIN2B4BAxHb9FNO02dcsWsUoZmE=;GplZVCa9EPguPD46sgUGGw=="
+related:
+  - title: "Portuguese Fintech Map and Report 2023"
+    excerpt: "Despite a trying macroeconomic environment, Portugal’s fintech ecosystem is showing resilience and development this year. This growth has been driven by significant developments in industries such as artificial intelligence (AI),"
+    publishedDateTime: 2023-12-11T07:00:00Z
+    webUrl: "https://fintechnews.ch/fintechportugal/portuguese-fintech-map-and-report-2023/65442/"
+    type: article
+    provider:
+      name: fintechnews
+      domain: fintechnews.ch
+    quality: 24
+    images:
+      - url: "https://fintechnews.ch/wp-content/uploads/2023/12/Portuguese-Fintech-Industry-Sees-Further-Growth-Despite-Challenging-Macro-Environment-.jpeg"
+        width: 1024
+        height: 567
+        isCached: true
+
+secured: "DBOZdXSy6F2xBM13brwOzVOdYhAWQGbix5GGRjS07xwB5FfTh+HTd810DecuyMy68MpVCrIsvcITwgo4E8zka2Zl4WZsxRNnLIMmqAvnjiBynkJvQJxIabs2qnm3uZIbEwp82xVdzOn8xE6n92/t9M6s/q9Yv4ZhXIFZmbHQEewnof1BRhR6Ag0UDnz/OXKLRDtCF1f+5Y5AYRfwn51+RJ3VB7vNCEbrVBucGESAobqMgnp+TE6Pkkpoa1mRRh8DqUAAE/fVuO8Js11pSUHbKmLfFcrcVltBuEdjt9MFI3YrGSJ5Qmls5yWokpHiSj8Q5dB4kUEnd15xbonVwFaM9vxiyv//Uljjhfa8qePSqxsLDQhaeo1d2CtDRSxvfQAMdpuUlNs8eLNVnPM4Hh0mcOeyBqVir/ALUWOfMxZMhB+kZ71m+dZJjk1Bv6qRB3pjUpqD26xLdRJHt+EAEbShUfTPODknnWhpFs50ehXlLUxTQZwbQ8AIIKli077RoSgVCVEshGDgvslXa8Ql++3tYg==;cJk0HVQD99iobTxelPj++g=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/2023/12/06/technology/google-ai-bard-chatb
 webUrl: "https://www.nytimes.com/2023/12/06/technology/google-ai-bard-chatbot-gemini.html"
 type: article
 quality: 71
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://www.androidheadlines.com/wp-content/uploads/2023/12/Google-Gemini-AH-jpg.webp"
         width: 2048
         height: 1538
+        isCached: true
+  - title: "These Are the Biggest Differences Between Google Bard and ChatGPT"
+    excerpt: "Following OpenAI's success with ChatGPT, Google released Bard, its own AI chatbot. It's come a long way since then: Here's everything you need to know about it."
+    publishedDateTime: 2023-12-07T21:30:00Z
+    webUrl: "https://lifehacker.com/tech/what-is-google-bard-ai-chatbot"
+    type: article
+    provider:
+      name: Lifehacker
+      domain: lifehacker.com
+    quality: 41
+    images:
+      - url: "https://lifehacker.com/imagery/articles/01HH2K614JGSDMCZ043XDQPM9V/hero-image.fill.size_1200x675.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "These Are the Biggest Differences Between Google Bard and ChatGPT"
     excerpt: "AI chatbots are more popular than ever, and there are plenty of solid options out there to choose from beyond OpenAI’s ChatGPT. One particularly strong competitor is Google’s Bard AI, which pulls information from the internet and runs off the latest Gemini language model created by Google."

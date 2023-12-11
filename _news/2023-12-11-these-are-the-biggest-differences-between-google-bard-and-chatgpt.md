@@ -50,6 +50,20 @@ related:
         width: 2048
         height: 1538
         isCached: true
+  - title: "These Are the Biggest Differences Between Google Bard and ChatGPT"
+    excerpt: "Following OpenAI's success with ChatGPT, Google released Bard, its own AI chatbot. It's come a long way since then: Here's everything you need to know about it."
+    publishedDateTime: 2023-12-07T21:30:00Z
+    webUrl: "https://lifehacker.com/tech/what-is-google-bard-ai-chatbot"
+    type: article
+    provider:
+      name: Lifehacker
+      domain: lifehacker.com
+    quality: 41
+    images:
+      - url: "https://lifehacker.com/imagery/articles/01HH2K614JGSDMCZ043XDQPM9V/hero-image.fill.size_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "bAdTgiA4nv5ZzUd0DAISey2RRT4rxCo071kf5Cs3EYwhYkCi+EQQNRhfIsLjPb+BqETEln/S98zHHXmFQslVNf5VvlxI4sZztoBX5J6zlS0JqNe9xXwTbW8Ev/jvq3n/h1TnBP+SUIXBsmI7oJANHsWkgvC8Q05vGxmGtXTuVUMCRelhzjtONsWbrvBoKOWFk7wyBZCRG7ywXddZP+TGt+LYsBQUNBMIzDIjZaBABKcxsFKaclqZAIhZAspC9kZfd9T1bBjE9/UPvSdJnfUzl8526wtB8Sh8QjqE27X7F778qZ2JwSR14SXXdz8p8y9/zmSFJL3qC+galvooSy8fZRs0Os6y7JfsDmhXtHUmKRg1PZ+agHGrZ/JS3B5Lk54AtUluP9gwR1JQDqwwBMfHsJV3HiuEnTz4Ttymk9s/dLZMiU5TmirT2XEw0f3o0fSY7ShFRg6mqWzp6Bk2x5cJwKhJlDQWcVw6PCSujAghI3NPeDbsAE9emC9T7FwVcFOFiZsxAl/dFF5lFTCBZGLyEQ==;MUMVChFJYrK8YGknC3eKxw=="
 ---

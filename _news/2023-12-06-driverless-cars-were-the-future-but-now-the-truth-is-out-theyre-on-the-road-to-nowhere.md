@@ -3,8 +3,8 @@ category: news
 title: "Driverless cars were the future but now the truth is out: they’re on the road to nowhere"
 excerpt: "The dream of these vehicles ruling the roads remains just that. Focusing on public transport would be much smarter, says transport writer Christian Wolmar"
 publishedDateTime: 2023-12-06T12:35:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2023/dec/06/driverless-cars-future-vehicles-public-transport"
-webUrl: "https://www.theguardian.com/commentisfree/2023/dec/06/driverless-cars-future-vehicles-public-transport"
+originalUrl: "https://www.theguardian.com/commentisfree/2023/dec/06/driverless-cars-future-vehicles-public-transport?ref=biztoc.com"
+webUrl: "https://www.theguardian.com/commentisfree/2023/dec/06/driverless-cars-future-vehicles-public-transport?ref=biztoc.com"
 ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/dec/06/driverless-cars-future-vehicles-public-transport"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/dec/06/driverless-cars-future-vehicles-public-transport"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 372
     isCached: true
 
-secured: "4fZHFlncTx/7KFpZpbpdZtZvf7+z4fBtcxHEdsodEqApgSXLG7vNDmt0fCl3wMYC1e/fdxrbY6qCoM4UCNLN7t7Y/Jeujma8wP+aXFL2j4JOm3dWtCM11SPkJUTGwVxzGNs/GAzpbYc9vWo3ashDF9A8eNflyqLARzsmOl+vOTEL2KQ27QKBz0qgyawhqs4TGe6OANUMFRG44SC4+0XUp1xH9CH+/cq7ehrdrpY+hBqlDFr6QBF0kxQ5F+bfOlh7rHuBavpXVJzngJPjZPCJy5++scTM1RIUVS0ZmSHnn0mZwdVJLkyW16cvG38q1YZFwJoCAqIRtsgzpgJrtHpXGFUv/SufOmb9P2b/lLd42pU=;5cDE35FJpj9JIssDEsk2eg=="
+secured: "GvOBXXwnefx+MJuQBloUcYJG//XwoUqNSEBomSNlG9XaCBzIdZ5bGn8nTbKLnTeJWMvmiGIKcNXFibGX2WgYHue6WWxQgbt5KwEADATByVBK11T5yAQVBR0N/plZqR88Z8RCyX52yGT5ygEq5fNiYLn6YU/tqhnul4Kn3hV1xTUlQkNhJJPHwvhT2E//Y0nL2t5S8mF8wxAsBwUO1Df4oii/WSaa0fAAMHLfPUQqPsKpZLQy1LmUpnHPFgrYzu1tLXUEUoCxVhQ75JhUyQB0vCaYp0xDlPNpfLdPfF/jgniL4c4BF482b+puBX/GjsK5vNkrVCWxKwZihQRRyc2G95B1/1VleMnVMXFksmXlgbI=;Pz6qlB7bVxQwGcOUdTCesg=="
 ---
 
