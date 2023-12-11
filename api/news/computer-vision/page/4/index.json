@@ -2,115 +2,38 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-09-26-the-download-europe-vs-chinese-evs-and-making-ai-vision-less-biased.md",
-      "title": "The Download: Europe vs Chinese EVs, and making AI vision less biased",
-      "excerpt": "Two new papers by researchers at Sony and Meta propose new ways to measure biases in computer vision systems so as to more fully capture the rich diversity of humanity. Developers could use these tools to check the diversity of their data sets, helping lead to better, more diverse training data for AI. Read the full story.",
+      "path": "_news/2023-10-18-optimize-pet-profiles-for-purinas-petfinder-application-using-amazon-rekognition-custom-labels-and-aws-step-functions.md",
+      "title": "Optimize pet profiles for Purina’s Petfinder application using Amazon Rekognition Custom Labels and AWS Step Functions",
+      "excerpt": "Purina US, a subsidiary of Nestle, has a long history of enabling people to more easily adopt pets through Petfinder, a digital marketplace of over 11,000 animal shelters and rescue groups across the US, Canada, and Mexico. As the leading pet adoption platform, Petfinder has helped millions of pets find",
       "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/09/26/1080306/the-download-europe-vs-chinese-evs-and-making-ai-vision-less-biased/",
-      "originalUrl": "https://www.technologyreview.com/2023/09/26/1080306/the-download-europe-vs-chinese-evs-and-making-ai-vision-less-biased/",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/optimize-pet-profiles-for-purinas-petfinder-application-using-amazon-rekognition-custom-labels-and-aws-step-functions/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/optimize-pet-profiles-for-purinas-petfinder-application-using-amazon-rekognition-custom-labels-and-aws-step-functions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 117,
       "tags": null,
       "images": [
         {
-          "url": "https://lh5.googleusercontent.com/VEDE0Q5PNefmgBvZ1rolKzsC2tATAsJRne3m8fJSGfCvztlFQPNYRPBaEypIv2Uz3iL12csg1QcthQTZL3tjPgwlUlZ3REOGuc3VOe9QDv5g_Xpk_-BSr1_Hfq1hBMlwd6Cm_I6e6tPkIODHwK1wiws",
-          "width": 1200,
-          "height": 600,
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/18/petfinder-dogs.jpg",
+          "width": 1000,
+          "height": 445,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/09/26/1080306/the-download-europe-vs-chinese-evs-and-making-ai-vision-less-biased/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/09/26/1080306/the-download-europe-vs-chinese-evs-and-making-ai-vision-less-biased/amp/",
-      "publishedDateTime": "2023-09-26T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-image-recognition-market-size-to-hit-usd-11756-bn-by-2029-at-a-cagr-175-percent-says-maximize-market-research.md",
-      "title": "Image Recognition Market Size To Hit USD 117.56 Bn By 2029 At A CAGR 17.5 Percent Says Maximize Market Research",
-      "excerpt": "It encompasses a wide range of applications, which includes facial recognition, object detection, autonomous vehicles, medical imaging analysis and others. The top companies in healthcare, automotive, e-commerce, retail and advertising are increasingly ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1107141650/Image-Recognition-Market-Size-To-Hit-USD-11756-Bn-By-2029-At-A-CAGR-175-Percent-Says-Maximize-Market-Research",
-      "originalUrl": "https://menafn.com/1107141650/Image-Recognition-Market-Size-To-Hit-USD-11756-Bn-By-2029-At-A-CAGR-175-Percent-Says-Maximize-Market-Research",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T01:30:00-07:00",
+      "publishedDateTime": "2023-10-18T16:00:44Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-from-healthcare-to-space-top-10-transformative-computer-vision-trends-in-2024.md",
-      "title": "From Healthcare To Space: Top 10 Transformative Computer Vision Trends In 2024",
-      "excerpt": "Delving into the transformative world of Computer Vision for 2024, this article highlights pivotal trends, including generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/09/26/from-healthcare-to-space-top-10-transformative-computer-vision-trends-in-2024/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/09/26/from-healthcare-to-space-top-10-transformative-computer-vision-trends-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65127e7fdc3814c07ca67293/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/09/26/from-healthcare-to-space-top-10-transformative-computer-vision-trends-in-2024/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/09/26/from-healthcare-to-space-top-10-transformative-computer-vision-trends-in-2024/amp/",
-      "publishedDateTime": "2023-09-25T23:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "AWS",
+        "domain": "aws.amazon.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -126,532 +49,25 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
         "AI",
-        "AI in Healthcare"
+        "AWS AI",
+        "Computer Vision"
       ]
     },
     {
-      "path": "_news/2023-09-26-a-glimpse-into-data-scarce-environments-an-interview-with-computer-vision-expert-sumedh-datar.md",
-      "title": "A Glimpse into Data Scarce Environments: An Interview with Computer Vision Expert, Sumedh Datar",
-      "excerpt": "In the realm of Artificial Intelligence, particularly Deep Learning, data is the lifeblood that powers predictive solutions. But what happen..|News Track",
+      "path": "_news/2023-10-18-meet-two-open-source-challengers-to-openais-multimodal-gpt-4v.md",
+      "title": "Meet two open source challengers to OpenAI’s ‘multimodal’ GPT-4V",
+      "excerpt": "First, they tested the model’s “zero-shot” object detection, or its ability to identify ... Were Llava-1.5 to perform at the level of GPT4-V at text recognition, it’d potentially pose a greater security threat considering it’s available to ...",
       "sourceUrl": null,
-      "webUrl": "https://english.newstracklive.com/news/a-glimpse-into-data-scarce-environments-an-interview-with-computer-vision-expert-sumedh-datar-sc71-nu318-ta318-1298730-1.html",
-      "originalUrl": "https://english.newstracklive.com/news/a-glimpse-into-data-scarce-environments-an-interview-with-computer-vision-expert-sumedh-datar-sc71-nu318-ta318-1298730-1.html",
+      "webUrl": "https://techcrunch.com/2023/10/18/meet-the-open-source-multimodal-models-rivaling-gpt-4v/",
+      "originalUrl": "https://techcrunch.com/2023/10/18/meet-the-open-source-multimodal-models-rivaling-gpt-4v/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://media.newstrack.in/uploads/technology-news/technology-news/Sep/26/big_thumb/1_6512460ee8565.jpg",
-          "width": 743,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://english.newstracklive.com/ampnews/a-glimpse-into-data-scarce-environments-an-interview-with-computer-vision-expert-sumedh-datar-sc71-nu318-ta318-1298730-1.html",
-      "cdnAmpWebUrl": "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/a-glimpse-into-data-scarce-environments-an-interview-with-computer-vision-expert-sumedh-datar-sc71-nu318-ta318-1298730-1.html",
-      "publishedDateTime": "2023-09-25T19:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Track",
-        "domain": "newstracklive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-toshiba-develops-worlds-first-lidar-with-999-tracking-accuracy.md",
-      "title": "Toshiba Develops World's First LiDAR with 99.9% Tracking Accuracy",
-      "excerpt": "Toshiba Corporation (TOKYO: 6502), has announced world-first *1  advances in LiDAR: technologies that secure an unmatched accuracy of 99.9% *2  in object tracking and object recognition of 98.9% with data acquired by the LiDAR alone.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2023/09/26/9888093.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2023/09/26/9888093.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2222547/Figure_2_Results_verifying_rain_fog_removal_algorithm_developed_study.jpg",
-          "width": 400,
-          "height": 342,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-computer-visions-next-breakthrough.md",
-      "title": "Computer vision's next breakthrough",
-      "excerpt": "The first computer vision use cases in the 1950s analysed typed versus handwritten text. Early commercial applications focused on single images, including optical character recognition, image segmentation, and object detection. Pioneering work on facial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/article/708899/computer-vision-next-breakthrough/",
-      "originalUrl": "https://www.reseller.co.nz/article/708899/computer-vision-next-breakthrough/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/computer_1.jpg",
-          "width": 504,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T16:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-fbi-agents-are-using-face-recognition-without-proper-training.md",
-      "title": "FBI Agents Are Using Face Recognition Without Proper Training",
-      "excerpt": "The US Federal Bureau of Investigation (FBI) has done tens of thousands of face recognition searches using software from outside providers in recent years. Yet only 5 percent of the 200 agents ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/fbi-agents-face-recognition-without-proper-training/?mc_cid=ec579b13de&mc_eid=d63e057ad6",
-      "originalUrl": "https://www.wired.com/story/fbi-agents-face-recognition-without-proper-training/?mc_cid=ec579b13de&mc_eid=d63e057ad6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/650e24e46433c8cfce97f20c/191:100/w_1280,c_limit/FBI-Facial-Recognition-No-Safety-Net-Business-1279559129.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T14:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-can-a-simple-eye-exam-help-diagnose-autism.md",
-      "title": "Can a simple eye exam help diagnose autism?",
-      "excerpt": "Females are often underdiagnosed with being on the autism spectrum because they often mask their symptoms more successfully than males. The key to understanding why may be in a simple eye exam.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-09-simple-eye-exam-autism.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-09-simple-eye-exam-autism.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/can-a-simple-eye-exam.jpg",
-          "width": 1524,
-          "height": 1966,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-09-simple-eye-exam-autism.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-09-simple-eye-exam-autism.amp",
-      "publishedDateTime": "2023-09-25T11:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-ai-in-computer-vision-market-size-new-report-forecast-report-2023-2031.md",
-      "title": "AI in Computer Vision Market Size (New Report) Forecast Report 2023-2031",
-      "excerpt": "Short Summery About AI in Computer Vision Market: The AI in Computer Vision market has witnessed a growth from USD million to USD million from 2017 to 2023. With a CAGR of Persent, this market is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34873480/ai-in-computer-vision-market-size-new-report-forecast-report-2023-2031",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34873480/ai-in-computer-vision-market-size-new-report-forecast-report-2023-2031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34873480",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34873480",
-      "publishedDateTime": "2023-09-25T11:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-facial-recognition-tech-jailed-man-for-days-his-suit-joins-others-black-plaintiffs.md",
-      "title": "Facial recognition tech jailed man for days. His suit joins others Black plaintiffs",
-      "excerpt": "A Georgia man says authorities wrongly arrested him based on a match generated by facial recognition technology ATLANTA -- Randal Quran Reid was driving to his mother's home the day after ...",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Technology/wireStory/facial-recognition-technology-jailed-man-days-lawsuit-joins-103456045",
-      "originalUrl": "https://abcnews.go.com/Technology/wireStory/facial-recognition-technology-jailed-man-days-lawsuit-joins-103456045",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/wirestory_b613161c56472459df683f54320d08a7_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/facial-recognition-technology-jailed-man-days-lawsuit-joins-103456045",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/facial-recognition-technology-jailed-man-days-lawsuit-joins-103456045",
-      "publishedDateTime": "2023-09-25T11:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC News",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-facial-recognition-technology-jailed-a-man-for-days-his-lawsuit-joins-others-from-black-plaintiffs.md",
-      "title": "Facial recognition technology jailed a man for days. His lawsuit joins others from Black plaintiffs",
-      "excerpt": "A Georgia man says authorities wrongly arrested him based on a match generated by facial recognition technology ATLANTA -- Randal Quran Reid was driving to his mother's home the day after ...",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/US/wireStory/facial-recognition-technology-jailed-man-days-lawsuit-joins-103456041",
-      "originalUrl": "https://abcnews.go.com/US/wireStory/facial-recognition-technology-jailed-man-days-lawsuit-joins-103456041",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/wirestory_b613161c56472459df683f54320d08a7_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/US/wireStory/facial-recognition-technology-jailed-man-days-lawsuit-joins-103456041",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/facial-recognition-technology-jailed-man-days-lawsuit-joins-103456041",
-      "publishedDateTime": "2023-09-25T10:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC News",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-these-new-tools-could-make-ai-vision-systems-less-biased.md",
-      "title": "These new tools could make AI vision systems less biased",
-      "excerpt": "Thong and Xiang’s team developed a tool— shared exclusively with MIT Technology Review—that expands the skin-tone scale into two dimensions, measuring both skin color (from light to dark) and skin hue (from red to yellow). Sony is making the tool freely available online .",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/09/25/1080191/these-new-tools-could-make-ai-vision-systems-less-biased/",
-      "originalUrl": "https://www.technologyreview.com/2023/09/25/1080191/these-new-tools-could-make-ai-vision-systems-less-biased/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/09/color-eyes2.jpg?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/09/25/1080191/these-new-tools-could-make-ai-vision-systems-less-biased/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/09/25/1080191/these-new-tools-could-make-ai-vision-systems-less-biased/amp/",
-      "publishedDateTime": "2023-09-25T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-ai-in-computer-vision-market-overview-2023-and-forecast-till-2030-report-pages-108.md",
-      "title": "AI In Computer Vision Market Overview 2023 and Forecast till 2030 | Report Pages 108",
-      "excerpt": "Recently Updated comprehensive108-Page Reporton the AI In Computer Vision Market, this analysis deep dives into market size, share, and industry trends. According to our latest research ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34872507/ai-in-computer-vision-market-overview-2023-and-forecast-till-2030-report-pages-108",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34872507/ai-in-computer-vision-market-overview-2023-and-forecast-till-2030-report-pages-108",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34872507",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34872507",
-      "publishedDateTime": "2023-09-25T09:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-lawsuits-by-black-plaintiffs-over-misidentification-by-facial-recognition-grow.md",
-      "title": "Lawsuits by Black plaintiffs over misidentification by facial recognition grow",
-      "excerpt": "A lawsuit filed this month blames the misuse of facial recognition technology by a sheriff’s detective in Jefferson Parish, La., for his ordeal. “I was confused and I was angry because I didn ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/world-nation/story/2023-09-25/facial-recognition-lawsuits-wrongful-arrest-black-plaintiffs",
-      "originalUrl": "https://www.latimes.com/world-nation/story/2023-09-25/facial-recognition-lawsuits-wrongful-arrest-black-plaintiffs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/b7f637b/2147483647/strip/true/crop/8640x4536+0+612/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F17%2F5c%2F3e3aa6de4b948117b18f31902b06%2F65110882005975-19167542.jpeg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T07:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-facial-recognition-technology-jailed-a-man-for-days-his-lawsuit-joins-others-from-black-plaintiffs.md",
-      "title": "Facial recognition technology jailed a man for days. His lawsuit joins others from Black plaintiffs",
-      "excerpt": "A lawsuit filed this month blames the misuse of facial recognition technology by a sheriff’s detective in Jefferson Parish, Louisiana, for his ordeal. “I was confused and I was angry because I ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wctv.tv/2023/09/25/facial-recognition-technology-jailed-man-days-his-lawsuit-joins-others-black-plaintiffs/",
-      "originalUrl": "https://www.wctv.tv/2023/09/25/facial-recognition-technology-jailed-man-days-his-lawsuit-joins-others-black-plaintiffs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-wctv-prod.cdn.arcpublishing.com/resizer/k9QDHmYRGEBKaY0CoAOdzG3XG2k=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/DCT6ZBVURNFKNBKYVNPKMIFCPA.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wctv.tv/2023/09/25/facial-recognition-technology-jailed-man-days-his-lawsuit-joins-others-black-plaintiffs/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-wctv-tv.cdn.ampproject.org/c/s/www.wctv.tv/2023/09/25/facial-recognition-technology-jailed-man-days-his-lawsuit-joins-others-black-plaintiffs/?outputType=amp",
-      "publishedDateTime": "2023-09-25T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WCTV",
-        "domain": "wctv.tv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-24-ai-powered-security-the-future-of-surveillance-in-india.md",
-      "title": "AI-powered security: The future of surveillance in India",
-      "excerpt": "Key aspects of AI-powered security that are shaping the industry’s future include: Advanced Surveillance: AI-driven smart cameras enable real-time object recognition, behaviour analysis, and anomaly detection. Security systems can proactively identify ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/digital-transformation-ai-powered-security-the-future-of-surveillance-in-india-3253290/",
-      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-ai-powered-security-the-future-of-surveillance-in-india-3253290/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design244.jpg",
+          "url": "https://techcrunch.com/wp-content/uploads/2022/08/ai-gen-unfiltered.jpg?resize=1200,675",
           "width": 1200,
           "height": 675,
           "title": null,
@@ -659,15 +75,67 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-ai-powered-security-the-future-of-surveillance-in-india-3253290/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-powered-security-the-future-of-surveillance-in-india-3253290/lite/",
-      "publishedDateTime": "2023-09-24T04:30:00-07:00",
+      "ampWebUrl": "https://techcrunch.com/2023/10/18/meet-the-open-source-multimodal-models-rivaling-gpt-4v/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/18/meet-the-open-source-multimodal-models-rivaling-gpt-4v/amp/",
+      "publishedDateTime": "2023-10-18T15:05:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-18-how-to-add-ai-vision-to-your-apps-saas-sites-and-projects.md",
+      "title": "How to add AI vision to your apps, SaaS, sites and projects",
+      "excerpt": "AI vision, or computer vision, refers to the field of artificial intelligence that enables machines to interpret and make decisions based on visual data. The technology often uses machine learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeky-gadgets.com/ai-vision/",
+      "originalUrl": "https://www.geeky-gadgets.com/ai-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/add-AI-vision-to-your-apps-programs-projects-and-sites.jpg",
+          "width": 700,
+          "height": 466,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-18T12:26:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geeky Gadgets",
+        "domain": "geeky-gadgets.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -678,31 +146,297 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI",
-        "AI in Security"
+        "AI"
       ]
     },
     {
-      "path": "_news/2023-09-23-ai-in-computer-vision-market-analysis-2023-size-with-share-in-report-by-top-key-players-future-developments-112-pages.md",
-      "title": "AI in Computer Vision Market Analysis 2023 | Size with Share in Report by Top Key Players, Future Developments | 112 Pages",
-      "excerpt": "2023 AI in Computer Vision Market Overview: Insights on [ Automotive, Sports and Entertainment, Consumer, Robotics and Machine Vision, Healthcare, Security and Surveillance, Agriculture ...",
+      "path": "_news/2023-10-18-computer-vision-is-an-exciting-field-in-ai-now.md",
+      "title": "Computer vision is an exciting field in AI now",
+      "excerpt": "As much as the combination of language and AI has captured the world’s imagination with the rise of generative AI, computer vision – which is the ability of a machine to comprehend what it is ...",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34835521/ai-in-computer-vision-market-analysis-2023-size-with-share-in-report-by-top-key-players-future-deve",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34835521/ai-in-computer-vision-market-analysis-2023-size-with-share-in-report-by-top-key-players-future-deve",
+      "webUrl": "https://timesofindia.indiatimes.com/business/india-business/computer-vision-is-an-exciting-field-in-ai-now/articleshow/104513432.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/business/india-business/computer-vision-is-an-exciting-field-in-ai-now/articleshow/104513432.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-104513447,width-1070,height-580,imgsize-161410,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+          "width": 1070,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/business/india-business/computer-vision-is-an-exciting-field-in-ai-now/amp_articleshow/104513432.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/india-business/computer-vision-is-an-exciting-field-in-ai-now/amp_articleshow/104513432.cms",
+      "publishedDateTime": "2023-10-18T09:24:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-17-masters-in-professional-computer-science.md",
+      "title": "Master's in Professional Computer Science",
+      "excerpt": "computer vision, computer graphics, deep learning, computer security, software security and more. This cohort-based program trains computational specialists who can construct models, develop algorithms, and write software using state-of-the-art graduate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sfu.ca/computing/current-students/graduate-students/academic-programs/professional-master-of-science-in-computer-science.html",
+      "originalUrl": "https://www.sfu.ca/computing/current-students/graduate-students/academic-programs/professional-master-of-science-in-computer-science.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sfu.ca/content/sfu/computing/current-students/graduate-students/academic-programs/professional-master-of-science-in-computer-science/news/2023/defying-the-odds--new-mpcs-alumnus-finds-the-perfect-career-path.img.png/1686070792060.jpg",
+          "width": 2000,
+          "height": 1500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-17T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Simon Fraser University",
+        "domain": "www.sfu.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-15-computer-vision-dominican-republic.md",
+      "title": "Computer Vision - Dominican Republic",
+      "excerpt": "The market size in the Computer Vision market is projected to reach US$20.86m in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 17.08%, resulting in a market ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/dominican-republic",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/dominican-republic",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-15T16:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-14-as-airports-and-cruises-embrace-facial-recognition-experts-worry-about-privacy-risks.md",
+      "title": "As Airports and Cruises Embrace Facial Recognition, Experts Worry About Privacy Risks",
+      "excerpt": "The technology is being used at airports, theme parks, hotels, and more. And while that may add some convenience to the often-stressful travel experience, it’s also bringing up concerns about security and privacy, The New York Times reported on Friday.",
+      "sourceUrl": null,
+      "webUrl": "https://robbreport.com/travel/destinations/facial-recognition-travel-concerns-1235338772/",
+      "originalUrl": "https://robbreport.com/travel/destinations/facial-recognition-travel-concerns-1235338772/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://robbreport.com/wp-content/uploads/2023/10/Facial-Recognition.jpg?w=681&h=383&crop=1",
+          "width": 681,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://robbreport.com/travel/destinations/facial-recognition-travel-concerns-1235338772/amp/",
+      "cdnAmpWebUrl": "https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/travel/destinations/facial-recognition-travel-concerns-1235338772/amp/",
+      "publishedDateTime": "2023-10-13T21:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Robb Report",
+        "domain": "robbreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-13-computer-visions-next-breakthrough.md",
+      "title": "Computer vision's next breakthrough",
+      "excerpt": "The first computer vision use cases in the 1950s analyzed typed versus handwritten text. Early commercial applications focused on single images, including optical character recognition ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3706989/computer-visions-next-breakthrough.html",
+      "originalUrl": "https://www.infoworld.com/article/3706989/computer-visions-next-breakthrough.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/02/industry_4-0_industrial_iot_engineer_virtual_interface_smart_factory_automation_robotics_by_metamorworks_gettyimages-858527414_2400x1600-100788453-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3706989/computer-visions-next-breakthrough.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706989/computer-visions-next-breakthrough.amp.html",
+      "publishedDateTime": "2023-10-13T15:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-13-mass-bill-targets-police-misuse-of-facial-recognition.md",
+      "title": "Mass. bill targets police misuse of facial recognition",
+      "excerpt": "Police departments in Massachusetts would be significantly curtailed in their ability to rely on facial recognition technology under revived legislation touted by civil rights activists that’s meant to crack down on racial disparities among people of color wrongfully suspected of crimes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.necn.com/news/local/mass-bill-targets-police-misuse-of-facial-recognition/3066273/",
+      "originalUrl": "https://www.necn.com/news/local/mass-bill-targets-police-misuse-of-facial-recognition/3066273/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.necn.com/2019/09/GettyImages-826000302.jpg?quality=85&strip=all&resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.necn.com/news/local/mass-bill-targets-police-misuse-of-facial-recognition/3066273/?amp=1",
+      "cdnAmpWebUrl": "https://www-necn-com.cdn.ampproject.org/c/s/www.necn.com/news/local/mass-bill-targets-police-misuse-of-facial-recognition/3066273/?amp=1",
+      "publishedDateTime": "2023-10-12T18:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NECN",
+        "domain": "necn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-12-hundreds-of-stores-from-walgreens-to-macys-are-silently-deploying-facial-recognition-technology-to-spy-on-shoppers-and-its-legal-in-most-states.md",
+      "title": "Hundreds of stores from Walgreens to Macy's are silently deploying facial recognition technology to spy on shoppers (and it's legal in most states)",
+      "excerpt": "Major retailers in the US are already using facial recognition cameras to spy on shoppers, a campaigning group has warned. The tech - usually associated with authoritative regimes like China - is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-12592563/walgreens-macys-facial-recognition-technology-spy-shoppers.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-12592563/walgreens-macys-facial-recognition-technology-spy-shoppers.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-22T22:47:00-07:00",
+      "publishedDateTime": "2023-10-12T15:34:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -717,117 +451,31 @@
       ]
     },
     {
-      "path": "_news/2023-09-22-face-recognition-systems-industry-2023-market-research-with-size-growth-key-players-segments-and-forecast-till-2030.md",
-      "title": "Face Recognition Systems Industry - 2023 Market Research with Size, Growth, Key-Players, Segments and Forecast Till 2030",
-      "excerpt": "Global Face Recognition Systems Market (2023-2030) research report helps to recognize the market challenges and opportunities. Global Face Recognition Systems Market report contains the recent ...",
+      "path": "_news/2023-10-12-delivering-5-key-outcomes-with-computer-vision-at-the-edge.md",
+      "title": "Delivering 5 Key Outcomes With Computer Vision At The Edge",
+      "excerpt": "Learn how Computer Vision unlocks actionable insights at the edge to produce the organizational outcomes you want.",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34814975/face-recognition-systems-industry-2023-market-research-with-size-growth-key-players-segments-and-fo",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34814975/face-recognition-systems-industry-2023-market-research-with-size-growth-key-players-segments-and-fo",
+      "webUrl": "https://www.forbes.com/sites/delltechnologies/2023/10/11/delivering-5-key-outcomes-with-computer-vision-at-the-edge/",
+      "originalUrl": "https://www.forbes.com/sites/delltechnologies/2023/10/11/delivering-5-key-outcomes-with-computer-vision-at-the-edge/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6526cba46958edf4ded58296/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34814975",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34814975",
-      "publishedDateTime": "2023-09-22T03:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-22-computer-vision-market-forecast-2023key-factors-considered-2031.md",
-      "title": "Computer Vision Market Forecast 2023|Key Factors Considered 2031",
-      "excerpt": "Global |107 Pages| Report on \"Computer Vision Market\" offers a detailed Research In-Depth Analysis (2023-2031)which is expected to witness remarkable growth in the coming years. The implementation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34813029/computer-vision-market-forecast-2023-key-factors-considered-2031",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34813029/computer-vision-market-forecast-2023-key-factors-considered-2031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34813029",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34813029",
-      "publishedDateTime": "2023-09-21T23:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-22-lenovos-vision-for-the-future-of-edge-computing.md",
-      "title": "Lenovo’s Vision For The Future Of Edge Computing",
-      "excerpt": "Lenovo is advancing edge computing with its TruScale IaaS specialized servers. Focusing on real-time analytics, data privacy, and bandwidth efficiency to democratize AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevendickens/2023/09/21/lenovos-vision-for-the-future-of-edge-computing/",
-      "originalUrl": "https://www.forbes.com/sites/stevendickens/2023/09/21/lenovos-vision-for-the-future-of-edge-computing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/650cab4aca9f84eb9bb094e8/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 795,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevendickens/2023/09/21/lenovos-vision-for-the-future-of-edge-computing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevendickens/2023/09/21/lenovos-vision-for-the-future-of-edge-computing/amp/",
-      "publishedDateTime": "2023-09-21T13:50:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/delltechnologies/2023/10/11/delivering-5-key-outcomes-with-computer-vision-at-the-edge/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/delltechnologies/2023/10/11/delivering-5-key-outcomes-with-computer-vision-at-the-edge/amp/",
+      "publishedDateTime": "2023-10-11T17:35:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -855,74 +503,31 @@
       ]
     },
     {
-      "path": "_news/2023-09-21-computer-vision-reveals-the-working-of-lithium-ion-batteries-in-detail.md",
-      "title": "Computer vision reveals the working of lithium-ion batteries in detail",
-      "excerpt": "A rechargeable lithium-ion battery consists of electrodes- responsible for storing charge and making it available when needed to do work. As shown in X-ray movies, these electrodes pack billions of tiny particles inside,",
+      "path": "_news/2023-10-11-israel-hospital-uses-facial-recognition-to-identify-dead-and-wounded-from-hamas-war.md",
+      "title": "Israel Hospital Uses Facial Recognition To Identify Dead And Wounded From Hamas War",
+      "excerpt": "Soroka Medical Center, located just east of Gaza in Beersheva, is now using facial recognition to help family members locate their missing loved ones. The software is able to take an image of a ...",
       "sourceUrl": null,
-      "webUrl": "https://www.bahrainthisweek.com/computer-vision-reveals-working-lithium-ion-batteries-detail/",
-      "originalUrl": "https://www.bahrainthisweek.com/computer-vision-reveals-working-lithium-ion-batteries-detail/",
+      "webUrl": "https://www.forbes.com/sites/thomasbrewster/2023/10/11/hospital-uses-facial-recognition-to-identify-israel-hamas-war-dead/",
+      "originalUrl": "https://www.forbes.com/sites/thomasbrewster/2023/10/11/hospital-uses-facial-recognition-to-identify-israel-hamas-war-dead/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.bahrainthisweek.com/wp-content/uploads/2023/09/computer-vision-1.jpg",
-          "width": 1280,
-          "height": 493,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6526bf423a0591b5444f04db/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-21T02:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bahrainthisweek",
-        "domain": "bahrainthisweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-20-cbres-ai-based-facilities-management-solutions-reaches-1-billion-square-feet-of-deployment.md",
-      "title": "CBRE’s AI-Based Facilities Management Solutions Reaches 1 Billion Square Feet Of Deployment",
-      "excerpt": "CBRE's Smart FM Solutions includes a Self-service AI Playground, which is already yielding great innovation and value creation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/peterhigh/2023/09/20/cbres-ai-based-facilities-management-solutions-reaches-1-billion-square-feet-of-deployment/",
-      "originalUrl": "https://www.forbes.com/sites/peterhigh/2023/09/20/cbres-ai-based-facilities-management-solutions-reaches-1-billion-square-feet-of-deployment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6509bbaad13aac53da935f67/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 635,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/peterhigh/2023/09/20/cbres-ai-based-facilities-management-solutions-reaches-1-billion-square-feet-of-deployment/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peterhigh/2023/09/20/cbres-ai-based-facilities-management-solutions-reaches-1-billion-square-feet-of-deployment/amp/",
-      "publishedDateTime": "2023-09-20T04:34:00-07:00",
+      "publishedDateTime": "2023-10-11T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -937,333 +542,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-20-ai-in-computer-vision-market-analysis-trends-and-top-key-players-2023-to-2030.md",
-      "title": "AI In Computer Vision Market Analysis Trends and Top Key Players 2023 to 2030",
-      "excerpt": "The Global AI In Computer Vision Market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2031. In 2021, the market is growing at a steady rate and with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34753345/ai-in-computer-vision-market-analysis-trends-and-top-key-players-2023-to-2030",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34753345/ai-in-computer-vision-market-analysis-trends-and-top-key-players-2023-to-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34753345",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34753345",
-      "publishedDateTime": "2023-09-20T01:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-20-facial-recognition-market-size-report-2023-2031-124-pages-report.md",
-      "title": "Facial Recognition Market Size Report 2023-2031 | 124 Pages Report",
-      "excerpt": "Global \"Facial Recognition Market\" offers a detailed Report of |124 Pages| which is expected to witness remarkable growth in the coming years. The implementation of new technologies and innovative ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34732462/facial-recognition-market-size-report-2023-2031-124-pages-report",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34732462/facial-recognition-market-size-report-2023-2031-124-pages-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-19T14:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-five-experimentations-in-computer-vision-seeing-through-images-from-large-scale-vision-datasets.md",
-      "title": "Five experimentations in computer vision: seeing (through) images from Large Scale Vision Datasets",
-      "excerpt": "Using images from large-scale vision datasets (LSVDs), five practice-based studies – experimentations – were carried out to shed light on the visual content, replications of historical continuities, and precarious human labour behind computer vision.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/journals/bjhs-themes/article/five-experimentations-in-computer-vision-seeing-through-images-from-large-scale-vision-datasets/76777C2707BCA07CF346BE7102719370",
-      "originalUrl": "https://www.cambridge.org/core/journals/bjhs-themes/article/five-experimentations-in-computer-vision-seeing-through-images-from-large-scale-vision-datasets/76777C2707BCA07CF346BE7102719370",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-18-facial-recognition-scanners-in-supermarkets-security-measure-or-privacy-invasion.md",
-      "title": "Facial Recognition Scanners in Supermarkets: Security Measure or Privacy Invasion?",
-      "excerpt": "Major supermarkets such as John Lewis, Co-op, Waitrose, Next, Tesco, and Sainsbury's are joining forces with the police in a new data-sharing initiative called Project Pegasus. These retailers are collectively contributing £600,",
-      "sourceUrl": null,
-      "webUrl": "https://techround.co.uk/news/facial-recognition-supermarkets-security-measure-privacy-invasion/",
-      "originalUrl": "https://techround.co.uk/news/facial-recognition-supermarkets-security-measure-privacy-invasion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techround.co.uk/wp-content/uploads/2023/09/thom-bradley-Vi7qXASPu4g-unsplash-scaled.jpg",
-          "width": 2560,
-          "height": 1978,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techround.co.uk/news/facial-recognition-supermarkets-security-measure-privacy-invasion/amp/",
-      "cdnAmpWebUrl": "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/facial-recognition-supermarkets-security-measure-privacy-invasion/amp/",
-      "publishedDateTime": "2023-09-18T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRound",
-        "domain": "techround.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-09-18-ministers-to-approve-bill-legalizing-police-use-of-facial-recognition-cameras.md",
-      "title": "Ministers to approve bill legalizing police use of facial recognition cameras",
-      "excerpt": "According to the bill, police will be allowed to deploy the facial recognition technology to “prevent, thwart or uncover serious crime and those involved in planning or carrying it out.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesofisrael.com/knesset-committee-to-approve-bill-legalizing-police-use-of-facial-recognition-cameras/",
-      "originalUrl": "https://www.timesofisrael.com/knesset-committee-to-approve-bill-legalizing-police-use-of-facial-recognition-cameras/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.timesofisrael.com/www/uploads/2023/05/1CL5WX-highres-e1683012502269-640x400.jpg",
-          "width": 640,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesofisrael.com/knesset-committee-to-approve-bill-legalizing-police-use-of-facial-recognition-cameras/amp/",
-      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/knesset-committee-to-approve-bill-legalizing-police-use-of-facial-recognition-cameras/amp/",
-      "publishedDateTime": "2023-09-17T19:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times of Israel",
-        "domain": "timesofisrael.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-18-coimbatore-city-police-ai-based-facial-recognition-cctv-cams-in-kovai.md",
-      "title": "Coimbatore city police AI-based facial recognition CCTV cams in Kovai",
-      "excerpt": "COIMBATORE: The Coimbatore city police have introduced AI-based CCTV facial recognition systems (FRS) and Metadata cameras for detecting suspects. The cameras are being fixed within a 5-km radius of the City Police Commissioner's office, where the modern control room is located.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newindianexpress.com/states/tamil-nadu/2023/sep/18/coimbatore-city-policeai-based-facial-recognition-cctv-cams-in-kovai-2615839.html",
-      "originalUrl": "https://www.newindianexpress.com/states/tamil-nadu/2023/sep/18/coimbatore-city-policeai-based-facial-recognition-cctv-cams-in-kovai-2615839.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/9/18/w600X390/ai_cam.jpg",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/states/tamil-nadu/2023/sep/18/coimbatore-city-policeai-based-facial-recognition-cctv-cams-in-kovai-2615839.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/tamil-nadu/2023/sep/18/coimbatore-city-policeai-based-facial-recognition-cctv-cams-in-kovai-2615839.amp",
-      "publishedDateTime": "2023-09-17T17:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-18-wrongly-arrested-because-of-facial-recognition-why-new-police-tech-risks-serious-miscarriages-of-justice.md",
-      "title": "Wrongly arrested because of facial recognition: Why new police tech risks serious miscarriages of justice",
-      "excerpt": "The latest generation of police surveillance tools are overused, underregulated and often completely wrong, opponents tell Josh Marcus and Alex Woodward",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/wrongly-arrested-because-facial-recognition-191508983.html",
-      "originalUrl": "https://www.aol.com/wrongly-arrested-because-facial-recognition-191508983.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.zenfs.com/en/aol_the_independent_us_877/a9a13a30e578ba01fc9dfffc05413da5",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-17T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-17-wrongly-arrested-because-of-facial-recognition-why-new-police-tech-risks-serious-miscarriages-of-justice.md",
-      "title": "Wrongly arrested because of facial recognition: Why new police tech risks serious miscarriages of justice",
-      "excerpt": "She later learned police identified her as a suspect after running security footage through the department’s facial recognition software, relying on a 2015 mugshot from a past traffic arrest ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/news/wrongly-arrested-because-facial-recognition-140834575.html",
-      "originalUrl": "https://www.aol.com/news/wrongly-arrested-because-facial-recognition-140834575.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.zenfs.com/en/aol_the_independent_us_877/a9a13a30e578ba01fc9dfffc05413da5",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-17T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1277,5 +555,5 @@
       ]
     }
   ],
-  "nextPage": 5
+  "nextPage": null
 }

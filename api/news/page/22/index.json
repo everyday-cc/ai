@@ -2,21 +2,73 @@
   "page": 22,
   "value": [
     {
-      "path": "_news/2023-11-09-honda-planning-self-driving-electric-vehicle-fitted-with-ai.md",
-      "title": "Honda planning self-driving electric vehicle fitted with AI",
-      "excerpt": "Honda Motor Co. said it is developing a self-driving compact electric car equipped with artificial intelligence (AI) that automatically picks up passengers at any location of their choosing. Honda ...",
+      "path": "_news/2023-11-15-windows-11-will-soon-harness-your-gpu-for-generative-ai.md",
+      "title": "Windows 11 will soon harness your GPU for generative AI",
+      "excerpt": "Microsoft has partnered with Nvidia to launch a new release of TensorRT-LLM to make demanding AI workloads more accessible.",
       "sourceUrl": null,
-      "webUrl": "https://www.asahi.com/ajw/articles/14760121",
-      "originalUrl": "https://www.asahi.com/ajw/articles/14760121",
+      "webUrl": "https://www.digitaltrends.com/computing/microsoft-nvidia-tensorrt-llm-update-ignite-2023/",
+      "originalUrl": "https://www.digitaltrends.com/computing/microsoft-nvidia-tensorrt-llm-update-ignite-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/10/rtx-4090-suprim-x-5.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/microsoft-nvidia-tensorrt-llm-update-ignite-2023/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/microsoft-nvidia-tensorrt-llm-update-ignite-2023/?amp",
+      "publishedDateTime": "2023-11-15T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-15-baidu-upgrading-to-buy.md",
+      "title": "Baidu: Upgrading To Buy",
+      "excerpt": "Although I never invested in Baidu, Inc. (NASDAQ:BIDU), I found the company attractively valued back in 2021 when BIDU stock was still in a free fall. Last June, I rated Baidu stock a hold despite ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4652024-baidu-upgrading-to-buy",
+      "originalUrl": "https://seekingalpha.com/article/4652024-baidu-upgrading-to-buy",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://p.potaufeu.asahi.com/c996-p/picture/27207743/e21cf678151f1180730d954a38af462c.jpg",
-          "width": 660,
-          "height": 453,
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1392925359/image_1392925359.jpg?io=getty-c-w1536",
+          "width": 1536,
+          "height": 1017,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,11 +78,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-09T00:00:00Z",
+      "publishedDateTime": "2023-11-15T14:29:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "朝日新聞社",
-        "domain": "asahi.com",
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -45,21 +97,21 @@
       ]
     },
     {
-      "path": "_news/2023-11-09-neural-network-model-quantization-on-mobile.md",
-      "title": "Neural Network Model Quantization On Mobile",
-      "excerpt": "In this blog, we will talk about quantization in the context of neural network (NN) models, as the process of reducing the precision of the weights, biases, and activations. Moving from floating-point representations to low-precision fixed integer values ...",
+      "path": "_news/2023-11-15-fujitsu-claims-new-tech-can-optimize-cpu-gpu-allocation-for-ai-and-hpc-workloads.md",
+      "title": "Fujitsu claims new tech can optimize CPU & GPU allocation for AI and HPC workloads",
+      "excerpt": "Fujitsu developed two new technologies designed to optimize CPU and GPU workloads on powerful HPC systems. The company is working to allocate resources in real-time to",
       "sourceUrl": null,
-      "webUrl": "https://semiengineering.com/neural-network-model-quantization-on-mobile/",
-      "originalUrl": "https://semiengineering.com/neural-network-model-quantization-on-mobile/",
+      "webUrl": "https://www.techspot.com/news/100849-fujitsu-claims-new-tech-can-optimize-cpu-gpu.html",
+      "originalUrl": "https://www.techspot.com/news/100849-fujitsu-claims-new-tech-can-optimize-cpu-gpu.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://i0.wp.com/semiengineering.com/wp-content/uploads/Arm_Neural-network-model-quantization-on-mobile-table2.png?resize=344%2C256&#038;ssl=1",
-          "width": 344,
-          "height": 256,
+          "url": "https://www.techspot.com/images2/news/bigimage/2023/11/2023-11-15-image-5.jpg",
+          "width": 2000,
+          "height": 931,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -69,11 +121,184 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-09T00:00:00Z",
+      "publishedDateTime": "2023-11-15T14:28:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Semiconductor Engineering",
-        "domain": "semiengineering.com",
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-15-tangram-vision-packs-ai-skills-onto-hifi-3d-sensor.md",
+      "title": "Tangram Vision packs AI skills onto HiFi 3D sensor",
+      "excerpt": "Tangram Vision's new HiFi 3D sensor targets robotics applications with its wide field of view, resolution and onboard AI capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/tangram-vision-packs-ai-skills-onto-hifi-3d-sensor/",
+      "originalUrl": "https://www.therobotreport.com/tangram-vision-packs-ai-skills-onto-hifi-3d-sensor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/11/tangram-vision-hifi-sensor.jpg",
+          "width": 745,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-15T14:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-11-15-weka-partners-with-applied-digital-to-supercharge-its-gpu-cloud-for-generative-ai-customers.md",
+      "title": "WEKA Partners with Applied Digital to Supercharge Its GPU Cloud for Generative AI Customers",
+      "excerpt": "Applied Digital is developing a turnkey offering that allows enterprise customers to purchase and use GPU resources on-demand, at scale, across its data centers for AI model training and inference ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20231115sf65626/weka-partners-with-applied-digital-to-supercharge-its-gpu-cloud-for-generative-ai-customers",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20231115sf65626/weka-partners-with-applied-digital-to-supercharge-its-gpu-cloud-for-generative-ai-customers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2273775/WEKA_Applied_Digital_announcement.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-15T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-15-tencent-to-seek-domestic-ai-training-chip-supplies-after-latest-us-curbs.md",
+      "title": "Tencent to seek domestic AI training chip supplies after latest US curbs",
+      "excerpt": "By Josh Ye HONG KONG (Reuters) -Chinese tech group Tencent Holdings said on Wednesday it will look for domestic sources for AI training chips",
+      "sourceUrl": null,
+      "webUrl": "https://wsau.com/2023/11/15/tencent-to-seek-domestic-ai-training-chip-supplies-after-latest-us-curbs/",
+      "originalUrl": "https://wsau.com/2023/11/15/tencent-to-seek-domestic-ai-training-chip-supplies-after-latest-us-curbs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2023-11/15/2023-11-15T142500Z_1_LYNXMPEJAE0NA_RTROPTP_3_CHINA-TECH-AI.JPG",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-15T13:24:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WSAY",
+        "domain": "wsau.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-15-wimi-integrated-deep-learning-algorithm-into-multi-depth-hologram-generation.md",
+      "title": "WiMi Integrated Deep Learning Algorithm into Multi-Depth Hologram Generation",
+      "excerpt": "The multi-depth hologram is a kind of 3D image generated using deep learning technology, which can provide a more realistic and three-dimensional display effect. Traditional holograms can only ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/wimi-integrated-deep-learning-algorithm-into-multi-depth-hologram-generation-2023-11",
+      "originalUrl": "https://www.nasdaq.com/press-release/wimi-integrated-deep-learning-algorithm-into-multi-depth-hologram-generation-2023-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-15T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -88,89 +313,21 @@
       ]
     },
     {
-      "path": "_news/2023-11-09-speech-and-voice-recognition-market-is-booming-across-the-global-players-alphabet-voicevault-acapela-group.md",
-      "title": "Speech and Voice Recognition Market is Booming Across the Global Players Alphabet, VoiceVault, Acapela Group",
-      "excerpt": "Speech and Voice Recognition Market Insights 2023 With “The global Speech and Voice Recognition market size was valued at USD 9026.92 million in 2021 and is expected to expand at a CAGR of 22.23 ...",
+      "path": "_news/2023-11-15-mit-ibm-watson-ai-lab-researchers-train-computers-to-understand-dynamic-events.md",
+      "title": "MIT-IBM Watson AI Lab researchers train computers to understand dynamic events",
+      "excerpt": "Researchers from the MIT-IBM Watson AI Lab want to make computers more “human.” The researchers are currently working on a project that will help computers understand and recognize dynamic events.",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/news/prwirecenter/speech-and-voice-recognition-market-is-booming-across-the-global-players-alphabet-voicevault-acapela-group",
-      "originalUrl": "https://www.digitaljournal.com/pr/news/prwirecenter/speech-and-voice-recognition-market-is-booming-across-the-global-players-alphabet-voicevault-acapela-group",
+      "webUrl": "https://sdtimes.com/ai/mit-ibm-watson-ai-lab-researches-train-computers-understand-dynamic-events/",
+      "originalUrl": "https://sdtimes.com/ai/mit-ibm-watson-ai-lab-researches-train-computers-understand-dynamic-events/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-09T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-09-the-secret-genius-of-modern-life-review-clever-dog-is-this-disco-dancing-robot-the-future-of-border-control-writes-christopher-stevens.md",
-      "title": "The Secret Genius Of Modern Life review: Clever dog! Is this disco dancing robot the future of border control? writes CHRISTOPHER STEVENS",
-      "excerpt": "This is the Artificial Intelligence we need in our lives — a bright yellow, dancing robot dog with a rotating ... the dog has been developed by a border control firm for use at airports.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/tvshowbiz/article-12726983/The-Secret-Genius-Modern-Life-review-CHRISTOPHER-STEVENS.html",
-      "originalUrl": "https://www.dailymail.co.uk/tvshowbiz/article-12726983/The-Secret-Genius-Modern-Life-review-CHRISTOPHER-STEVENS.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-09T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-09-vmware-enlists-intel-ibm-watsonx-for-private-ai-initiative.md",
-      "title": "VMware enlists Intel, IBM watsonx for private AI initiative",
-      "excerpt": "Credit: VMware VMware has two new corporate partners, in the form of Intel and IBM, for its private AI initiative. The partnerships will provide new architectures for users looking to keep their ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/1246095/vmware-enlists-intel-ibm-watsonx-for-private-ai-initiative.html",
-      "originalUrl": "https://www.networkworld.com/article/1246095/vmware-enlists-intel-ibm-watsonx-for-private-ai-initiative.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
+      "heat": 80,
       "tags": null,
       "images": [
         {
-          "url": "https://www.networkworld.com/wp-content/uploads/2023/11/1-1-100940136-orig.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 683,
+          "url": "https://sdtimes.com/wp-content/uploads/2018/04/MIT-Moments-Time-01_0.jpg",
+          "width": 639,
+          "height": 426,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -178,14 +335,23 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/1246095/vmware-enlists-intel-ibm-watsonx-for-private-ai-initiative.html/amp/",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1246095/vmware-enlists-intel-ibm-watsonx-for-private-ai-initiative.html/amp/",
-      "publishedDateTime": "2023-11-09T00:00:00Z",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-15T12:31:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -199,122 +365,36 @@
       ]
     },
     {
-      "path": "_news/2023-11-09-voice-recognition-market-2023-to-hit-statistical-significance-value-by-2030.md",
-      "title": "Voice Recognition Market 2023 to Hit Statistical Significance Value by 2030",
-      "excerpt": "6.3.2 United States Voice Recognition Market Size and Forecast (2017-2030) 6.3.3 Canada Voice Recognition Market Size and Forecast (2017-2030) 6.3.4 Mexico Voice Recognition Market Size and ...",
+      "path": "_news/2023-11-15-ai-gone-wrong-an-updated-list-of-ai-errors-mistakes-and-failures-2023.md",
+      "title": "AI Gone Wrong: An Updated List of AI Errors, Mistakes and Failures 2023",
+      "excerpt": "We track the latest AI errors and mistakes from 2023 and previous years, and catalog AI's worst failures to date.",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/news/prwirecenter/voice-recognition-market-2023-to-hit-statistical-significance-value-by-2030",
-      "originalUrl": "https://www.digitaljournal.com/pr/news/prwirecenter/voice-recognition-market-2023-to-hit-statistical-significance-value-by-2030",
+      "webUrl": "https://tech.co/news/list-ai-failures-mistakes-errors",
+      "originalUrl": "https://tech.co/news/list-ai-failures-mistakes-errors",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://images.tech.co/wp-content/uploads/2023/11/14063606/ai-fails-1.jpg",
+          "width": 1920,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-09T00:00:00Z",
+      "publishedDateTime": "2023-11-15T10:39:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
+        "name": "Tech.co",
+        "domain": "tech.co",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-09-embracing-artificial-intelligence-how-ai-could-be-a-powerful-tool-in-northern-michigan.md",
-      "title": "Embracing artificial intelligence: How AI could be a powerful tool in northern Michigan",
-      "excerpt": "In today's world, artificial intelligence is no longer science fiction; it's a powerful tool and it's transforming everything.",
-      "sourceUrl": null,
-      "webUrl": "https://wwmt.com/news/state/embracing-artificial-intelligence-how-ai-could-be-a-powerful-tool-in-northern-michigan",
-      "originalUrl": "https://wwmt.com/news/state/embracing-artificial-intelligence-how-ai-could-be-a-powerful-tool-in-northern-michigan",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wwmt.com/resources/media/09f9de02-c702-415a-bdd2-62d7441594cb-medium16x9_thumb_6280.png",
-          "width": 648,
-          "height": 365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://wwmt.com/amp/news/state/embracing-artificial-intelligence-how-ai-could-be-a-powerful-tool-in-northern-michigan",
-      "cdnAmpWebUrl": "https://wwmt-com.cdn.ampproject.org/c/s/wwmt.com/amp/news/state/embracing-artificial-intelligence-how-ai-could-be-a-powerful-tool-in-northern-michigan",
-      "publishedDateTime": "2023-11-08T23:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "wwmt",
-        "domain": "wwmt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-09-cruise-recalls-all-of-its-self-driving-cars-to-fix-their-programming.md",
-      "title": "Cruise recalls all of its self driving cars to fix their programming",
-      "excerpt": "Cruise, General Motors’ self-driving vehicle subsidiary, has recalled all 950 of its autonomous vehicles for a software update. Late last month, Cruise paused all its public testing operations ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/11/08/business/cruise-recalls-self-driving-cars/index.html",
-      "originalUrl": "https://www.cnn.com/2023/11/08/business/cruise-recalls-self-driving-cars/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230927104107-gm-cruise-robotaxi-2017-file.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/11/08/business/cruise-recalls-self-driving-cars/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/11/08/business/cruise-recalls-self-driving-cars/index.html",
-      "publishedDateTime": "2023-11-08T23:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -328,64 +408,12 @@
       ]
     },
     {
-      "path": "_news/2023-11-09-robotics-funding-saw-another-dip-in-2023.md",
-      "title": "Robotics funding saw another dip in 2023",
-      "excerpt": "The spike in interest around generative AI — and all things artificial intelligence — has been a piece of maintaining its place. The last few years have also afforded robotics firms a chance to prove their efficacy in the real world, demonstrating the ...",
+      "path": "_news/2023-11-15-global-artificial-intelligence-ai-in-healthcare-collaboration-and-licensing-deals-analysis-report-2023-with-a-directory-of-869-deals-researchandmarketscom.md",
+      "title": "Global Artificial Intelligence (AI) in Healthcare Collaboration and Licensing Deals Analysis Report 2023 with a Directory of 869 Deals - ResearchAndMarkets.com",
+      "excerpt": "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence (AI) Collaboration and Licensing Deals 2016-2023\" report has been added to ResearchAndMarkets.com's offering. This report contains a ...",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/11/08/robotics-funding-saw-another-dip-in-2023/",
-      "originalUrl": "https://techcrunch.com/2023/11/08/robotics-funding-saw-another-dip-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/04/robot-arm-money-1.jpg?resize=1200,645",
-          "width": 1200,
-          "height": 645,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/11/08/robotics-funding-saw-another-dip-in-2023/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/08/robotics-funding-saw-another-dip-in-2023/amp/",
-      "publishedDateTime": "2023-11-08T22:57:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-09-natural-language-processing-nordics.md",
-      "title": "Natural Language Processing - Nordics",
-      "excerpt": "The market size in the Natural Language Processing market is projected to reach US$0.93bn in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 16.14%, resulting ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/nordics",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/nordics",
+      "webUrl": "https://www.businesswire.com/news/home/20231115377072/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20231115377072/en/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -395,11 +423,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T22:27:00Z",
+      "publishedDateTime": "2023-11-15T10:16:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -409,36 +437,61 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "AI in Healthcare",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-11-09-how-ai-and-automated-scheduling-will-transform-the-meeting-lifecycle.md",
-      "title": "How AI and automated scheduling will transform the meeting lifecycle",
-      "excerpt": "With access to the right information at the right time, AI will optimize every meeting, delivering on its true value.",
+      "path": "_news/2023-11-15-use-of-a-neural-network-to-measure-the-impact-of-social-distribution-and-access-to-infrastructure-on-the-hdi-of-the-municipalities-of-mexico.md",
+      "title": "Use of a Neural Network to Measure the Impact of Social Distribution and Access to Infrastructure on the HDI of the Municipalities of Mexico ()",
+      "excerpt": "López, F. and Ramírez, R. (2023) Use of a Neural Network to Measure the Impact of Social Distribution and Access to Infrastructure on the HDI of the Municipalities of Mexico. Journal of Data Analysis and Information Processing, 11, 454-462. doi: 10.4236/jdaip.2023.114023 .",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/automation/how-ai-and-automated-scheduling-will-transform-the-meeting-lifecycle/?trk=public_post_comment-text",
-      "originalUrl": "https://venturebeat.com/automation/how-ai-and-automated-scheduling-will-transform-the-meeting-lifecycle/?trk=public_post_comment-text",
+      "webUrl": "https://www.scirp.org/journal/paperinformation.aspx?paperid=129036",
+      "originalUrl": "https://www.scirp.org/journal/paperinformation.aspx?paperid=129036",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/11/AdobeStock_205902735.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 693,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T21:40:00Z",
+      "publishedDateTime": "2023-11-15T07:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Scientific Research Publishing",
+        "domain": "scirp.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-15-offerfit-gets-25m-to-kill-ab-testing-for-marketing-with-machine-learning-personalization.md",
+      "title": "OfferFit gets $25M to kill A/B testing for marketing with machine learning personalization",
+      "excerpt": "Reinforcement learning forms the backbone of OfferFit's automated marketing solution, which ingests data about its clients' customers.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/automation/offerfit-gets-25m-to-kill-a-b-testing-for-marketing-with-machine-learning-personalization/",
+      "originalUrl": "https://venturebeat.com/automation/offerfit-gets-25m-to-kill-a-b-testing-for-marketing-with-machine-learning-personalization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-15T06:57:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -461,49 +514,68 @@
         "news"
       ],
       "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2023-11-15-in-moments-of-crisis-like-the-israel-hamas-war-we-need-more-speech-not-less-richard-m-perloff-and-anup-kumar.md",
+      "title": "In moments of crisis like the Israel-Hamas war, we need more speech - not less: Richard M. Perloff and Anup Kumar",
+      "excerpt": "CLEVELAND -- How should society balance the right to free speech with recognition that the embers of speech ignite psychic wounds? When should offensive speech be tolerated because it opens society’s political pores, and when should it be limited because ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cleveland.com/opinion/2023/11/in-moments-of-crisis-like-the-israel-hamas-war-we-need-more-speech-not-less-richard-m-perloff-and-anup-kumar.html",
+      "originalUrl": "https://www.cleveland.com/opinion/2023/11/in-moments-of-crisis-like-the-israel-hamas-war-we-need-more-speech-not-less-richard-m-perloff-and-anup-kumar.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-15T05:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cleveland.com",
+        "domain": "cleveland.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-11-09-amazon-black-friday-deals-2023-the-35-best-sales-to-shop-right-now.md",
-      "title": "Amazon Black Friday deals 2023 - the 35+ best sales to shop right now",
-      "excerpt": "While the official Amazon Black Friday deals event is set for November 17, there are plenty of early offers to shop right now. You can find record-low prices on TVs, appliances, Apple gadgets ...",
+      "path": "_news/2023-11-15-cognitive-computing-market-surges-expected-to-hit-us-1882-billion-with-a-263-cagr-by-2033.md",
+      "title": "Cognitive Computing Market Surges, Expected to Hit US$ 188.2 Billion with a 26.3% CAGR by 2033",
+      "excerpt": "The cognitive computing market is poised for remarkable growth, projected to establish a robust foothold with a compelling Compound Annual Growth Rate (CAGR) of 26.3% throughout the forecast period. As technology continues to advance and organizations seek smarter solutions,",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/black-friday/amazon-black-friday-deals",
-      "originalUrl": "https://www.techradar.com/black-friday/amazon-black-friday-deals",
+      "webUrl": "https://www.fmiblog.com/2023/11/15/cognitive-computing-market-surges-expected-to-hit-us-188-2-billion-with-a-26-3-cagr-by-2033/",
+      "originalUrl": "https://www.fmiblog.com/2023/11/15/cognitive-computing-market-surges-expected-to-hit-us-188-2-billion-with-a-26-3-cagr-by-2033/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/NiTNVFTYd9WoQxMzQdCPnM-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T19:54:00Z",
+      "publishedDateTime": "2023-11-15T05:05:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Future Market Insights",
+        "domain": "fmiblog.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -512,131 +584,146 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-build-a-medical-imaging-ai-inference-pipeline-with-monai-deploy-on-aws.md",
-      "title": "Build a medical imaging AI inference pipeline with MONAI Deploy on AWS",
-      "excerpt": "In this post, we show you how to create a MAP connector to AWS HealthImaging, which is reusable in applications built with the MONAI Deploy App SDK, to integrate with and accelerate image data retrieval from a cloud-native DICOM store to medical imaging AI workloads. The MONAI Deploy SDK can be used",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-medical-imaging-ai-inference-pipeline-with-monai-deploy-on-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-medical-imaging-ai-inference-pipeline-with-monai-deploy-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/02/monaideploy_arch-1260x571.png",
-          "width": 1260,
-          "height": 571,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T18:47:42Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-09-the-us-and-30-other-nations-agree-to-set-guardrails-for-military-ai.md",
-      "title": "The US and 30 Other Nations Agree to Set Guardrails for Military AI",
-      "excerpt": "When politicians, tech executives, and researchers gathered in the UK last week to discuss the risks of artificial intelligence ... Lauren Kahn, a senior research analyst at the Center for Security and Emerging Technology (CSET) at Georgetown University ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/the-us-and-30-other-nations-agree-to-set-guardrails-for-military-ai/",
-      "originalUrl": "https://www.wired.com/story/the-us-and-30-other-nations-agree-to-set-guardrails-for-military-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/654ae8c1428f34179e6b33c2/191:100/w_1280,c_limit/Military-AI-Guardrails-Business-1757360709.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T18:37:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
+        "Microsoft AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-11-09-who-offers-recommendations-for-ai-guidelines-in-healthcare.md",
-      "title": "WHO Offers Recommendations for AI Guidelines in Healthcare",
-      "excerpt": "Experts emphasize the importance of training AI systems on reliable data and of checking the systems’ safety and efficacy.",
+      "path": "_news/2023-11-15-new-deep-learning-ai-tool-helps-ecologists-monitor-rare-birds-through-their-songs.md",
+      "title": "New deep learning AI tool helps ecologists monitor rare birds through their songs",
+      "excerpt": "Researchers have developed a new deep learning AI tool that generates lifelike bird songs to train bird identification tools, helping ecologists to monitor rare species in the wild. The findings are presented in Methods in Ecology and Evolution.",
       "sourceUrl": null,
-      "webUrl": "https://www.medscape.com/viewarticle/998216",
-      "originalUrl": "https://www.medscape.com/viewarticle/998216",
+      "webUrl": "https://phys.org/news/2023-11-deep-ai-tool-ecologists-rare.html",
+      "originalUrl": "https://phys.org/news/2023-11-deep-ai-tool-ecologists-rare.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-15T05:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-15-ibm-extends-its-goals-for-ai-and-quantum-computing.md",
+      "title": "IBM Extends Its Goals For AI And Quantum Computing",
+      "excerpt": "Watson Research Center, IBM made a convincing argument that they are up to the task, especially in the fields of AI - generative AI, in particular - as well as quantum computing. What was ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4651508-ibm-extends-goals-ai-quantum-computing",
+      "originalUrl": "https://seekingalpha.com/article/4651508-ibm-extends-goals-ai-quantum-computing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-15T04:22:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-15-ibm-enables-responsible-enterprise-ai-with-watsonxgovernance.md",
+      "title": "IBM Enables Responsible Enterprise AI with watsonx.governance",
+      "excerpt": "Delivering AI to the enterprise requires overcoming many governance, compliance, and safety concerns. This involves navigating a complex landscape of challenges that span technical, ethical, social, and regulatory dimensions. IBM’s new watsonx.governance ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/11/14/ibm-enables-responsible-enterprise-ai-with-watsonxgovernance/",
+      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/11/14/ibm-enables-responsible-enterprise-ai-with-watsonxgovernance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://img.medscape.com/thumbnail_library/gty_231108_ai_guidelines_medical_800x450.jpg",
-          "width": 800,
-          "height": 450,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/651cb4a382d94a88ea799277/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1353,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/11/14/ibm-enables-responsible-enterprise-ai-with-watsonxgovernance/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/11/14/ibm-enables-responsible-enterprise-ai-with-watsonxgovernance/amp/",
+      "publishedDateTime": "2023-11-15T04:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-15-artificial-intelligence-in-retail-market-soars-anticipated-surge-beyond-us-12709-billion-by-2033-fueled-by-a-remarkable-28-cagr-growth.md",
+      "title": "Artificial Intelligence in Retail Market Soars: Anticipated Surge Beyond US$ 127.09 Billion by 2033, Fueled by a Remarkable 28% CAGR Growth",
+      "excerpt": "The global artificial intelligence in retail market is expected to reach US$ 10.76 billion by 2023, with demand for AI in retail predicted to grow at a CAGR of 28% and surpass US$ 127.09 billion by 2033.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fmiblog.com/2023/11/15/artificial-intelligence-in-retail-market-soars-anticipated-surge-beyond-us-127-09-billion-by-2033-fueled-by-a-remarkable-28-cagr-growth/",
+      "originalUrl": "https://www.fmiblog.com/2023/11/15/artificial-intelligence-in-retail-market-soars-anticipated-surge-beyond-us-127-09-billion-by-2033-fueled-by-a-remarkable-28-cagr-growth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fmiblog.com/wp-content/uploads/2023/11/Artificial-Intelligence-in-Retail-Market.jpg",
+          "width": 999,
+          "height": 594,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -646,11 +733,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T18:24:00Z",
+      "publishedDateTime": "2023-11-15T02:44:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Medscape",
-        "domain": "medscape.com",
+        "name": "Future Market Insights",
+        "domain": "fmiblog.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -665,393 +752,22 @@
       ]
     },
     {
-      "path": "_news/2023-11-09-humane-may-be-launching-a-699-ai-powered-projector-to-replace-your-phone-thats-not-the-craziest-part.md",
-      "title": "Humane may be launching a $699 AI-powered projector to replace your phone. That's not the craziest part",
-      "excerpt": "The secretive startup, founded by former Apple employees and backed by OpenAI's CEO and Microsoft, is launching its AI Pin wearable tomorrow.",
+      "path": "_news/2023-11-15-profet-ai-launches-ailm-the-worlds-first-enterprise-ai-lifecycle-management-platform-for-ai-governance.md",
+      "title": "Profet AI Launches AILM, the World's First Enterprise AI Lifecycle Management Platform for AI Governance",
+      "excerpt": "AILM empowers manufacturers to control, manage, and propagate their core domain know-how, facilitating successful global expansionTAIPEI, Nov.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/humane-may-be-launching-a-699-ai-powered-projector-to-replace-your-phone-thats-not-the-craziest-part/",
-      "originalUrl": "https://www.zdnet.com/article/humane-may-be-launching-a-699-ai-powered-projector-to-replace-your-phone-thats-not-the-craziest-part/",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/profet-ai-launches-ailm-the-world-s-first-enterprise-ai-lifecycle-management-platform-for-ai-governance-1032819847",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/profet-ai-launches-ailm-the-world-s-first-enterprise-ai-lifecycle-management-platform-for-ai-governance-1032819847",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/87cbc24ba40159165e2246bfb590a298b9f944f1/2023/07/03/1cc88643-728b-4a3e-8d11-206baab84df0/fz6bjtfaqaaivgz.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/humane-may-be-launching-a-699-ai-powered-projector-to-replace-your-phone-thats-not-the-craziest-part/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/humane-may-be-launching-a-699-ai-powered-projector-to-replace-your-phone-thats-not-the-craziest-part/",
-      "publishedDateTime": "2023-11-08T18:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-generative-ai-in-search-expands-to-more-than-120-new-countries-and-territories.md",
-      "title": "Generative AI in Search expands to more than 120 new countries and territories",
-      "excerpt": "Generative AI in Search, or Search Generative Experience (SGE), is expanding around the world, and adding four new languages.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/search/google-search-generative-ai-international-expansion/",
-      "originalUrl": "https://blog.google/products/search/google-search-generative-ai-international-expansion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_hero_hVttB6n.width-1300.png",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T18:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-optimize-for-sustainability-with-amazon-codewhisperer.md",
-      "title": "Optimize for sustainability with Amazon CodeWhisperer",
-      "excerpt": "This post explores how Amazon CodeWhisperer can help with code optimization for sustainability through increased resource efficiency. Computationally resource-efficient coding is one technique that aims to reduce the amount of energy required to process a line of code and, as a result, aid companies",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/optimize-for-sustainability-with-amazon-codewhisperer/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/optimize-for-sustainability-with-amazon-codewhisperer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/02/Picture1.gif",
-          "width": 936,
-          "height": 582,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T17:41:32Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-09-code-generating-ai-platform-tabnine-nabs-25m-investment.md",
-      "title": "Code-generating AI platform Tabnine nabs $25M investment",
-      "excerpt": "Tabnine, a startup creating code-generating AI tools, has raised $25 million in a Series B venture capital equity round.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/11/08/code-generating-ai-platform-tabnine-nabs-25m-investment/",
-      "originalUrl": "https://techcrunch.com/2023/11/08/code-generating-ai-platform-tabnine-nabs-25m-investment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1356364303.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/11/08/code-generating-ai-platform-tabnine-nabs-25m-investment/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/08/code-generating-ai-platform-tabnine-nabs-25m-investment/amp/",
-      "publishedDateTime": "2023-11-08T17:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-azure-sets-a-scale-record-in-large-language-model-training.md",
-      "title": "Azure sets a scale record in large language model training",
-      "excerpt": "Customers need reliable and performant infrastructure to bring the most sophisticated AI use cases to market in record time. Our objective is to build state-of-the-art infrastructure and meet these demands. The latest MLPerf™ 3.1 Training results1 are a testament to our unwavering commitment to building",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/blog/azure-sets-a-scale-record-in-large-language-model-training/",
-      "originalUrl": "https://azure.microsoft.com/en-us/blog/azure-sets-a-scale-record-in-large-language-model-training/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/11/MSC17_dataCenter_020.jpg",
-          "width": 1260,
-          "height": 708,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T17:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-09-tech-moves-seattle-marketing-vet-lands-at-ionq-microsoft-principal-researcher-joins-startup.md",
-      "title": "Tech Moves: Seattle marketing vet lands at IonQ; Microsoft principal researcher joins startup",
-      "excerpt": "Margaret Arakawa, a longtime Seattle-area marketing leader, joined IonQ as chief marketing officer. Arakawa was",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/tech-moves-seattle-marketing-vet-lands-at-ionq-microsoft-principal-researcher-joins-startup/",
-      "originalUrl": "https://www.geekwire.com/2023/tech-moves-seattle-marketing-vet-lands-at-ionq-microsoft-principal-researcher-joins-startup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/11/IONQ-SQUARE-HEADSHOTS_0000s_0012_Margaret-Arakawa-DSC_8061.jpeg",
-          "width": 288,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T16:57:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-09-ai-speculation-dominates-cloud-native-conference.md",
-      "title": "AI Speculation Dominates Cloud Native Conference",
-      "excerpt": "While talk of AI overshadowed other topics during the first day of KubeCon NA, customers and vendors alike are focused on more practical matters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/justinwarren/2023/11/08/ai-speculation-dominates-cloud-native-conference/",
-      "originalUrl": "https://www.forbes.com/sites/justinwarren/2023/11/08/ai-speculation-dominates-cloud-native-conference/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/654baf04eb3ddcc2d1029c73/0x0.jpg?format=jpg&crop=1454,818,x0,y75,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/justinwarren/2023/11/08/ai-speculation-dominates-cloud-native-conference/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/justinwarren/2023/11/08/ai-speculation-dominates-cloud-native-conference/amp/",
-      "publishedDateTime": "2023-11-08T16:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-gm-to-update-cruise-software-so-self-driving-cars-stop-if-a-pedestrian-is-pinned-underneath.md",
-      "title": "GM to update Cruise software so self-driving cars stop if a pedestrian is pinned underneath",
-      "excerpt": "A Cruise self-driving car dragged a pedestrian in October. Cruise says an update should keep the cars stationary if a similar incident occurs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/gm-update-cruise-self-driving-software-after-pedestrian-accident-2023-11",
-      "originalUrl": "https://www.businessinsider.com/gm-update-cruise-self-driving-software-after-pedestrian-accident-2023-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/654bacad3cc84b4dfafe88e3?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/gm-update-cruise-self-driving-software-after-pedestrian-accident-2023-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gm-update-cruise-self-driving-software-after-pedestrian-accident-2023-11?amp",
-      "publishedDateTime": "2023-11-08T15:52:00Z",
+      "publishedDateTime": "2023-11-15T01:10:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -1074,26 +790,164 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "Machine Learning",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-11-08-point-predictive-wins-lendtech-of-the-year-at-the-2023-us-fintech-awards.md",
-      "title": "Point Predictive Wins LendTech of the Year at the 2023 US Fintech Awards",
-      "excerpt": "Point Predictive's first- and third-party fraud solution API, which secured the coveted LendTech of the Year award, is exclusively designed for fintech and lenders. This groundbreaking API seamlessly combines the robust capabilities of Point Predictive's proprietary derived data repository,",
+      "path": "_news/2023-11-15-ai-accurately-predicts-therapy-outcomes-in-most-patients-with-ovarian-cancer.md",
+      "title": "AI Accurately Predicts Therapy Outcomes in Most Patients With Ovarian Cancer",
+      "excerpt": "An artificial intelligence (AI)–based prediction model was able to correctly predict therapy outcomes in 78% of patients with high-grade serous ovarian carcinoma (HGSOC) in a study published in Nature Communications. The model was found to be 80% ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/point-predictive-wins-lendtech-of-the-year-at-the-2023-us-fintech-awards-1032795400",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/point-predictive-wins-lendtech-of-the-year-at-the-2023-us-fintech-awards-1032795400",
+      "webUrl": "https://www.ajmc.com/view/ai-accurately-predicts-therapy-outcomes-in-most-patients-with-ovarian-cancer",
+      "originalUrl": "https://www.ajmc.com/view/ai-accurately-predicts-therapy-outcomes-in-most-patients-with-ovarian-cancer",
       "featuredContent": null,
       "highlight": null,
-      "heat": 203,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-15T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The American Journal of Managed Care",
+        "domain": "ajmc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-15-data-scientist-marketing-natural-language-processing-gauteng-pretoria-cbd.md",
+      "title": "Data Scientist (Marketing & Natural Language Processing) – Gauteng Pretoria CBD",
+      "excerpt": "and Natural Language Processing – as per company Digital Strategic Framework. Responsible for the end-to-end data Lifecycle – from strategic planning, data collection, through monitoring, evaluation, and incremental improvement.",
+      "sourceUrl": null,
+      "webUrl": "https://it-online.co.za/2023/11/15/data-scientist-marketing-natural-language-processing-gauteng-pretoria-cbd/",
+      "originalUrl": "https://it-online.co.za/2023/11/15/data-scientist-marketing-natural-language-processing-gauteng-pretoria-cbd/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-15T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT-Online",
+        "domain": "it-online.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2023-11-15-data-scientist-marketing-natural-language-processing.md",
+      "title": "Data Scientist (Marketing & Natural Language Processing)",
+      "excerpt": "and Natural Language Processing – as per company Digital Strategic Framework. Responsible for the end-to-end data Lifecycle – from strategic planning, data collection, through monitoring, evaluation, and incremental improvement.",
+      "sourceUrl": null,
+      "webUrl": "https://it-online.co.za/2023/11/15/data-scientist-marketing-natural-language-processing/",
+      "originalUrl": "https://it-online.co.za/2023/11/15/data-scientist-marketing-natural-language-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-15T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT-Online",
+        "domain": "it-online.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2023-11-15-expert-explores-how-our-sleeping-patterns-can-be-linked-to-cognitive-decline.md",
+      "title": "Expert explores how our sleeping patterns can be linked to cognitive decline",
+      "excerpt": "It’s also been shown that not getting enough sleep is linked to cognitive decline and conditions such as Alzheimer’s disease. But more isn’t always better, as one recent study found.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20211115/Expert-explores-how-our-sleeping-patterns-can-be-linked-to-cognitive-decline.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20211115/Expert-explores-how-our-sleeping-patterns-can-be-linked-to-cognitive-decline.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-15T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-15-ibm-bids-farewell-to-watson-health-assets.md",
+      "title": "IBM Bids Farewell to Watson Health Assets",
+      "excerpt": "IBM shook up the digital health space Friday with the news that it is selling its healthcare data and analytics assets, currently part of the Watson Health business, to an investment firm. The sale price is reportedly more than $1 billion, although the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/artificial-intelligence/ibm-bids-farewell-watson-health-assets",
+      "originalUrl": "https://www.mddionline.com/artificial-intelligence/ibm-bids-farewell-watson-health-assets",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://ml.globenewswire.com/Resource/Download/12358bcd-643b-47ab-8591-aa7e971cfadc",
-          "width": 1748,
-          "height": 1240,
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/IBM%20corporate%20headquarters%20sign.png",
+          "width": 770,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1103,21 +957,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T15:26:00Z",
+      "publishedDateTime": "2023-11-15T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1126,43 +971,34 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
+        "IBM AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-11-08-the-strong-case-for-board-oversight-of-artificial-intelligence.md",
-      "title": "The Strong Case For Board Oversight Of Artificial Intelligence",
-      "excerpt": "The massive scope of the Biden Administration’s new Executive Order on AI makes clear the vital role to be played by the board of directors in the application of this extraordinary new technology.",
+      "path": "_news/2023-11-15-ibm-has-announced-the-upcoming-general-availability-of-watsonxgovernance-in-early.md",
+      "title": "IBM has announced the upcoming general availability of watsonx.governance in early",
+      "excerpt": "Its ability to translate regulations into enforceable policies will only become more essential for enterprises as new AI regulation takes hold worldwide.” IBM Consulting has broadened its ...",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/michaelperegrine/2023/11/08/the-strong-case-for-board-oversight-of-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/michaelperegrine/2023/11/08/the-strong-case-for-board-oversight-of-artificial-intelligence/",
+      "webUrl": "https://sdtimes.com/ai/ibm-has-announced-the-upcoming-general-availability-of-watsonx-governance-in-early/",
+      "originalUrl": "https://sdtimes.com/ai/ibm-has-announced-the-upcoming-general-availability-of-watsonx-governance-in-early/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/654ba61fde642bcaaf7854bd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 679,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/michaelperegrine/2023/11/08/the-strong-case-for-board-oversight-of-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelperegrine/2023/11/08/the-strong-case-for-board-oversight-of-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-11-08T15:19:00Z",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-15T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "SD Times",
+        "domain": "sdtimes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1178,6 +1014,7 @@
         "news"
       ],
       "topics": [
+        "IBM AI",
         "AI"
       ]
     }

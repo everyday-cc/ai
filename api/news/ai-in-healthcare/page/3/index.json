@@ -2,6 +2,836 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-10-31-scientists-identify-artificial-intelligence-tools-that-can-improve-mental-health.md",
+      "title": "Scientists identify Artificial Intelligence tools that can improve mental health",
+      "excerpt": "Scientists have identified an Artificial intelligence (AI) tool that could help improve mental health conditions of individuals.",
+      "sourceUrl": null,
+      "webUrl": "https://nairametrics.com/2023/10/31/scientists-identify-artificial-intelligence-tools-that-can-improve-mental-health/",
+      "originalUrl": "https://nairametrics.com/2023/10/31/scientists-identify-artificial-intelligence-tools-that-can-improve-mental-health/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T15:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nairametrics",
+        "domain": "nairametrics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-speech-therapy-market-investment-opportunities-potential-growth-and-future-demand-2021-2031.md",
+      "title": "Speech Therapy Market : Investment Opportunities, Potential Growth, And Future Demand 2021-2031",
+      "excerpt": "Technological Innovations: The integration of advanced technologies, such as virtual reality (VR) and artificial intelligence (AI), has revolutionized speech therapy practices. Investors can capitalize on companies developing innovative software and ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1107339327/Speech-Therapy-Market-Investment-Opportunities-Potential-Growth-And-Future-Demand-2021-2031",
+      "originalUrl": "https://menafn.com/1107339327/Speech-Therapy-Market-Investment-Opportunities-Potential-Growth-And-Future-Demand-2021-2031",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T02:48:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-the-future-of-artificial-intelligence.md",
+      "title": "The Future of Artificial Intelligence",
+      "excerpt": "In this AI-driven age, staying informed is crucial as the future unfolds as a rich mosaic, interwoven with both challenges and opportunities Artificial Intelligence (AI) is no longer a buzzword confined to the realms of science fiction;",
+      "sourceUrl": null,
+      "webUrl": "https://kashmirreader.com/2023/10/31/the-future-of-artificial-intelligence/",
+      "originalUrl": "https://kashmirreader.com/2023/10/31/the-future-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-30T22:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kashmir Reader",
+        "domain": "kashmirreader.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-10-30-white-house-aims-to-monitor-regulate-artificial-intelligence-with-new-executive-order.md",
+      "title": "White House aims to monitor, regulate artificial intelligence with new executive order",
+      "excerpt": "The White House rolled out a sweeping executive order Monday that aims to monitor and regulate the risks of artificial intelligence while also harnessing its potential.",
+      "sourceUrl": null,
+      "webUrl": "https://abc7news.com/white-house-artificial-intelligence-executive-order-biden-ai/13990936/",
+      "originalUrl": "https://abc7news.com/white-house-artificial-intelligence-executive-order-biden-ai/13990936/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://abc7news.com/amp/white-house-artificial-intelligence-executive-order-biden-ai/13990936/",
+      "cdnAmpWebUrl": "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/white-house-artificial-intelligence-executive-order-biden-ai/13990936/",
+      "publishedDateTime": "2023-10-30T10:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC7 San Francisco",
+        "domain": "abc7news.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-29-3-ways-artificial-intelligence-can-predict-disease-and-improve-treatment.md",
+      "title": "3 Ways Artificial Intelligence Can Predict Disease And Improve Treatment",
+      "excerpt": "Would you like to know if you are going to develop diabetes or die early from heart disease? Artificial intelligence may soon give you the answer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/paulhsieh/2023/10/29/3-ways-artificial-intelligence-can-predict-disease-and-improve-treatment/",
+      "originalUrl": "https://www.forbes.com/sites/paulhsieh/2023/10/29/3-ways-artificial-intelligence-can-predict-disease-and-improve-treatment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/653e88f644d859cb4c9063ea/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/paulhsieh/2023/10/29/3-ways-artificial-intelligence-can-predict-disease-and-improve-treatment/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulhsieh/2023/10/29/3-ways-artificial-intelligence-can-predict-disease-and-improve-treatment/amp/",
+      "publishedDateTime": "2023-10-29T16:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-29-using-artificial-intelligence-to-predict-individual-health-outcomes.md",
+      "title": "Using Artificial Intelligence To Predict Individual Health Outcomes",
+      "excerpt": "Would you like to know if you are going to develop diabetes or die early from heart disease? Artificial intelligence may soon give you the answer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/paulhsieh/2023/10/29/using-artificial-intelligence-to-predict-individual-health-outcomes/",
+      "originalUrl": "https://www.forbes.com/sites/paulhsieh/2023/10/29/using-artificial-intelligence-to-predict-individual-health-outcomes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/653e88f644d859cb4c9063ea/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/paulhsieh/2023/10/29/using-artificial-intelligence-to-predict-individual-health-outcomes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulhsieh/2023/10/29/using-artificial-intelligence-to-predict-individual-health-outcomes/amp/",
+      "publishedDateTime": "2023-10-29T16:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-29-ai-in-healthcare-whos-call-for-regulation-underscores-risk-concerns.md",
+      "title": "AI in Healthcare: WHO's Call for Regulation Underscores Risk Concerns",
+      "excerpt": "The WHO has introduced six domains for overseeing AI in the healthcare sector, emphasizing the need to address the risks linked to AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/ai-in-healthcare-whos-call-for-regulation-underscores-risk-concerns-213993-1.htm",
+      "originalUrl": "https://www.medindia.net/news/ai-in-healthcare-whos-call-for-regulation-underscores-risk-concerns-213993-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.medindia.net/health-images/infertile-men-faster-accurately-than-doctors.jpg",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/ai-in-healthcare-whos-call-for-regulation-underscores-risk-concerns-213993-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/ai-in-healthcare-whos-call-for-regulation-underscores-risk-concerns-213993-1.htm",
+      "publishedDateTime": "2023-10-29T09:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-29-ai-expert-its-the-age-of-ai-right-now-in-health-care.md",
+      "title": "AI expert: 'It’s the age of AI right now in health care'",
+      "excerpt": "During a routine visit with the medical oncologist, a cancer patient brings up a new symptom that could be a side effect of cancer treatment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailyitem.com/pennsylvania/news/ai-expert-it-s-the-age-of-ai-right-now-in-health-care/article_126e8a3e-6786-5234-aa2a-02203cee4c57.html",
+      "originalUrl": "https://www.dailyitem.com/pennsylvania/news/ai-expert-it-s-the-age-of-ai-right-now-in-health-care/article_126e8a3e-6786-5234-aa2a-02203cee4c57.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/assets/v3/editorial/e/68/e684f212-2e70-5f21-bd22-41815d79f83d/653a8d9fc27ea.image.jpg?resize=1024%2C622",
+          "width": 1024,
+          "height": 622,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.dailyitem.com/pennsylvania/news/ai-expert-it-s-the-age-of-ai-right-now-in-health-care/article_126e8a3e-6786-5234-aa2a-02203cee4c57.amp.html",
+      "cdnAmpWebUrl": "https://www-dailyitem-com.cdn.ampproject.org/c/s/www.dailyitem.com/pennsylvania/news/ai-expert-it-s-the-age-of-ai-right-now-in-health-care/article_126e8a3e-6786-5234-aa2a-02203cee4c57.amp.html",
+      "publishedDateTime": "2023-10-29T09:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Item",
+        "domain": "dailyitem.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-28-top-10-questions-about-artificial-intelligence.md",
+      "title": "Top 10 Questions About Artificial Intelligence",
+      "excerpt": "As an independent career and executive coach, this is becoming increasingly important to me, because it is to my clients – and now to readers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/eliamdur/2023/10/27/top-10-questions-about-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/eliamdur/2023/10/27/top-10-questions-about-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/653c0eab8f630a1e0234e2f5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/eliamdur/2023/10/27/top-10-questions-about-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eliamdur/2023/10/27/top-10-questions-about-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-10-27T19:26:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-27-the-blind-use-of-ai-in-health-care-can-lead-to-invisible-discrimination.md",
+      "title": "The blind use of AI in health care can lead to invisible discrimination",
+      "excerpt": "Artificial intelligence can help health care systems under pressure allocate limited resources, but also lead to more unequal access. This is demonstrated by a research collaboration between the University of Copenhagen,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-10-ai-health-invisible-discrimination.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-10-ai-health-invisible-discrimination.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/ai.jpg",
+          "width": 1920,
+          "height": 1636,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-10-ai-health-invisible-discrimination.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-10-ai-health-invisible-discrimination.amp",
+      "publishedDateTime": "2023-10-26T20:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-26-south-korea-artificial-intelligence-ai-in-healthcare-market-worth-236-billion-by-2032-themarketpublicist.md",
+      "title": "South Korea Artificial Intelligence (AI) In Healthcare Market Worth $2.36 Billion By 2032 Themarketpublicist",
+      "excerpt": "( MENAFN - Ameliorate Digital Consultancy) South Korea Artificial Intelligence (AI) in Healthcare Market size was crossed over USD 100 Million in 2022 and is projected to record more than 37.2% growth rate from 2023 – 2032, reaching a valuation of approximately USD 2.36 Billion by the end of the forecast period.",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1107307150/South-Korea-Artificial-Intelligence-AI-In-Healthcare-Market-Worth-236-Billion-By-2032-Themarketpublicist",
+      "originalUrl": "https://menafn.com/1107307150/South-Korea-Artificial-Intelligence-AI-In-Healthcare-Market-Worth-236-Billion-By-2032-Themarketpublicist",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?393847",
+          "width": 328,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-26T05:12:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-25-health-care-up-amid-uneven-earnings-health-care-roundup.md",
+      "title": "Health Care Up Amid Uneven Earnings -- Health Care Roundup",
+      "excerpt": "Health-care companies rose, but not by as much as the broad market, amid uneven earnings. HCA Healthcare shares slid after the hospital chain",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/health-care-up-amid-uneven-earnings-health-care-roundup-501ca19e",
+      "originalUrl": "https://www.marketwatch.com/story/health-care-up-amid-uneven-earnings-health-care-roundup-501ca19e",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/health-care-up-amid-uneven-earnings-health-care-roundup-501ca19e",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/health-care-up-amid-uneven-earnings-health-care-roundup-501ca19e",
+      "publishedDateTime": "2023-10-24T21:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-24-can-a-family-office-backed-acquisition-save-the-healthcare-system.md",
+      "title": "Can A Family Office-Backed Acquisition Save The Healthcare System?",
+      "excerpt": "The economy poses various difficulties for dermatologists and their patients. Many medical practices seek to provide top-notch care while maintaining their independence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/garydrenik/2023/10/24/can-a-family-office-backed-acquisition-save-the-healthcare-system/",
+      "originalUrl": "https://www.forbes.com/sites/garydrenik/2023/10/24/can-a-family-office-backed-acquisition-save-the-healthcare-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/652fd94056997d1ea347967a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 640,
+          "height": 522,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2023/10/24/can-a-family-office-backed-acquisition-save-the-healthcare-system/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/10/24/can-a-family-office-backed-acquisition-save-the-healthcare-system/amp/",
+      "publishedDateTime": "2023-10-24T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-24-how-this-berlin-startup-deploys-ai-to-make-preventative-healthcare-accessible.md",
+      "title": "How this Berlin startup deploys AI to make preventative healthcare accessible",
+      "excerpt": "There are plenty of conversations around how AI can progress healthcare. And indeed, it has numerous applications in the form of diagnostics and accelerated drug discovery. However, wouldn’t it be eve",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/how-berlin-startup-deploys-ai-preventative-healthcare-accessible",
+      "originalUrl": "https://thenextweb.com/news/how-berlin-startup-deploys-ai-preventative-healthcare-accessible",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F10%2FHealthCaters-Team-e1698154782374.jpg&signature=b7e6d2b3a3308b6a055c9e66bae6b0fb",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-24T13:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-24-20-jobs-artificial-intelligence-cant-replace.md",
+      "title": "20 Jobs Artificial Intelligence Can’t Replace",
+      "excerpt": "To list jobs that artificial intelligence can’t replace ... jobs that involve complex and nuanced human interactions, like therapy and counseling, are far from being replaced by AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidermonkey.com/blog/20-jobs-artificial-intelligence-cant-replace-1209686/",
+      "originalUrl": "https://www.insidermonkey.com/blog/20-jobs-artificial-intelligence-cant-replace-1209686/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-24T07:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insider Monkey",
+        "domain": "insidermonkey.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-24-pioneers-in-ethical-artificial-intelligence.md",
+      "title": "Pioneers in Ethical Artificial Intelligence",
+      "excerpt": "BIDMC's Yuri Quintana, PhD collaborated with AMIA to host a two-day symposium to explore the issues surrounding AI in the healthcare setting. Read more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bidmc.org/about-bidmc/news/2023/10/pioneers-in-ethical-artificial-intelligence",
+      "originalUrl": "https://www.bidmc.org/about-bidmc/news/2023/10/pioneers-in-ethical-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bidmc.org/-/media/images/beth-israel-org/about-bidmc/news/kidney-donation-fenway-1000x565px/bidmc-quincy-ambulatory-center-1000x565px/blood-pressure-article-1456835439-1000x565px/ai-conf-group-1000x565px.jpg",
+          "width": 1000,
+          "height": 565,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-23T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Beth Israel Deaconess Medical Center",
+        "domain": "bidmc.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-10-23-dance-therapy-class-aims-to-help-children-with-disabilities-express-themselves.md",
+      "title": "Dance therapy class aims to help children with disabilities express themselves",
+      "excerpt": "Dance can help children with disabilities express themselves when words fail, according to Timmins autism specialist and dance teacher Jessica Croussette.",
+      "sourceUrl": null,
+      "webUrl": "https://northernontario.ctvnews.ca/dance-therapy-class-aims-to-help-children-with-disabilities-express-themselves-1.6612292",
+      "originalUrl": "https://northernontario.ctvnews.ca/dance-therapy-class-aims-to-help-children-with-disabilities-express-themselves-1.6612292",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/images/2023/10/22/1_6612378.jpg",
+          "width": 1020,
+          "height": 596,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://beta.ctvnews.ca/local/northern-ontario/2023/10/22/1_6612292.amp.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/northern-ontario/2023/10/22/1_6612292.amp.html",
+      "publishedDateTime": "2023-10-22T22:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-23-ensuring-fairness-of-ai-in-healthcare-requires-cross-disciplinary-collaboration.md",
+      "title": "Ensuring fairness of AI in healthcare requires cross-disciplinary collaboration",
+      "excerpt": "New perspective argues pursuing fair AI for healthcare requires cross-disciplinary collaboration to translate methods into real-world benefits.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/10/231020105613.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/10/231020105613.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-22T21:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-10-22-the-convergence-of-finance-and-healthcare-how-fintech-is-bridging-the-gap.md",
+      "title": "The convergence of finance and healthcare: How fintech is bridging the gap",
+      "excerpt": "By harnessing the power of AI and ML algorithms, and using relevant healthcare and financial data, healthcare-focused fintech can help streamline financial services in the healthcare industry. Technological advancements have successfully paved their way ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/industry-the-convergence-of-finance-and-healthcare-how-fintech-is-bridging-the-gap-3283633/",
+      "originalUrl": "https://www.financialexpress.com/business/industry-the-convergence-of-finance-and-healthcare-how-fintech-is-bridging-the-gap-3283633/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/10/Untitled-design-2023-10-06T160116.656.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/industry-the-convergence-of-finance-and-healthcare-how-fintech-is-bridging-the-gap-3283633/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/industry-the-convergence-of-finance-and-healthcare-how-fintech-is-bridging-the-gap-3283633/lite/",
+      "publishedDateTime": "2023-10-22T09:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-10-22-ai-to-be-used-by-businesses-to-tackle-mental-health-issues-in-albury.md",
       "title": "AI to be used by businesses to tackle mental health issues in Albury",
       "excerpt": "Strong demand from Albury employees seeking help with mental health issues has spurred a move to launch an artificial intelligence therapy program.",
@@ -511,633 +1341,7 @@
         "AI in Healthcare",
         "AI"
       ]
-    },
-    {
-      "path": "_news/2023-10-16-microsoft-unveils-extensions-to-fabric-azure-for-healthcare-ai.md",
-      "title": "Microsoft unveils extensions to Fabric, Azure for healthcare AI",
-      "excerpt": "These new offerings seek to bring together multiple modalities of medical data for greater analysis, and also bring large language models to clinicians' side as medical copilots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-unveils-extensions-to-fabric-azure-for-healthcare-ai/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-unveils-extensions-to-fabric-azure-for-healthcare-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 486,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/7b1085eb32224a532e4765a7998aee76e2402275/2023/10/16/e136bcb6-5b44-493b-bcf2-05ee2ec78ae0/gettyimages-1456133907.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-16T14:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-10-16-candor-on-gene-therapy-abiomed-is-warned-btk-success-in-ms.md",
-      "title": "Candor on gene therapy, Abiomed is warned, & BTK success in MS",
-      "excerpt": "Want to stay on top of the science and politics driving biotech today? Sign up to get our biotech newsletter in your inbox. Good morning! Today, cell and",
-      "sourceUrl": null,
-      "webUrl": "https://www.statnews.com/2023/10/16/candor-on-gene-therapy-abiomed-is-warned-btk-success-in-ms/",
-      "originalUrl": "https://www.statnews.com/2023/10/16/candor-on-gene-therapy-abiomed-is-warned-btk-success-in-ms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.statnews.com/wp-content/uploads/2023/10/IMG_3071-1024x576.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-16T13:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "STAT",
-        "domain": "statnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-16-techno-plasticity-in-the-age-of-artificial-intelligence.md",
-      "title": "Techno-plasticity in the Age of Artificial Intelligence",
-      "excerpt": "But as artificial intelligence (AI ... represent a fascinating and potentially transformative step in machine learning. Unlike traditional neural networks that are trained and deployed in a relatively static state, liquid networks are designed to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-10/matrix-2975868_1280.jpg?itok=18KUtr3C",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence?amp",
-      "publishedDateTime": "2023-10-16T06:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-10-15-ai-will-be-critical-for-the-future-of-rural-health-care-in-canada-experts-say.md",
-      "title": "AI will be critical for the future of rural health care in Canada, experts say",
-      "excerpt": "There won't be androids rushing through hospitals or drones hovering to triage patients just yet, but artificial intelligence is starting to make the rounds when it comes in health care in Canada.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbc.ca/news/canada/prince-edward-island/pei-artificial-intelligence-1.6994961",
-      "originalUrl": "https://www.cbc.ca/news/canada/prince-edward-island/pei-artificial-intelligence-1.6994961",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-15T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBC.ca",
-        "domain": "www.cbc.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-13-ai-renaissance-in-healthcare-top-five-opportunities-in-precision-medicine.md",
-      "title": "AI Renaissance In Healthcare: Top Five Opportunities In Precision Medicine",
-      "excerpt": "As data democratization and technological convergence continue, we're set to experience a healthcare renaissance where patient-centricity and proactive intervention will be the norm. Here are some of the most promising use cases where generative AI could help deliver the promise of precision medicine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/ai-renaissance-in-healthcare-top-five-opportunities-in-precision-medicine/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/ai-renaissance-in-healthcare-top-five-opportunities-in-precision-medicine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6515e926f782f3662889eec0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/ai-renaissance-in-healthcare-top-five-opportunities-in-precision-medicine/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/13/ai-renaissance-in-healthcare-top-five-opportunities-in-precision-medicine/amp/",
-      "publishedDateTime": "2023-10-13T13:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-13-1-artificial-intelligence-stock-to-buy-hand-over-fist-in-october-and-1-to-avoid.md",
-      "title": "1 Artificial Intelligence Stock to Buy Hand Over Fist in October and 1 to Avoid",
-      "excerpt": "One of these players could win in AI -- and in the healthcare market, in general. Artificial intelligence (AI) could revolutionize the world by automating tedious tasks, reducing errors ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/10/13/1-artificial-intelligence-stock-to-buy-1-to-avoid/",
-      "originalUrl": "https://www.fool.com/investing/2023/10/13/1-artificial-intelligence-stock-to-buy-1-to-avoid/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/750715/an-ai-powered-robotic-finger-and-a-human-finger-touch.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-13T10:16:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-13-the-impact-of-artificial-intelligence-on-software-development-still-unclear.md",
-      "title": "The impact of artificial intelligence on software development? Still unclear",
-      "excerpt": "It's too early to detect if AI boosts the productivity of software rollouts, a Google study finds. But other factors are making a huge difference to the success of IT professionals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/the-impact-of-artificial-intelligence-on-software-development-still-unclear/",
-      "originalUrl": "https://www.zdnet.com/article/the-impact-of-artificial-intelligence-on-software-development-still-unclear/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/d406d2108a1bcfe61b5c481844b297336a9be37d/2023/10/12/c9399b7b-61bf-42ba-adb3-7cc98d3feeca/gettyimages-1226866390.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-impact-of-artificial-intelligence-on-software-development-still-unclear/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-impact-of-artificial-intelligence-on-software-development-still-unclear/",
-      "publishedDateTime": "2023-10-13T07:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-10-13-ambulatory-infusion-therapy-services-market-insights-2023-innovations-and-technological-advancements-till-2031.md",
-      "title": "Ambulatory Infusion Therapy Services Market Insights 2023: Innovations And Technological Advancements Till 2031",
-      "excerpt": "Recent trends underscore the importance of digital transformation, with an emphasis on artificial intelligence and data analytics to decipher complex consumer patterns. Ambulatory Infusion Therapy Services Market Driving Factors: The driving factors behind ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1107234564/Ambulatory-Infusion-Therapy-Services-Market-Insights-2023-Innovations-And-Technological-Advancements-Till-2031",
-      "originalUrl": "https://menafn.com/1107234564/Ambulatory-Infusion-Therapy-Services-Market-Insights-2023-Innovations-And-Technological-Advancements-Till-2031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?288618",
-          "width": 375,
-          "height": 249,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-12T20:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-12-everbridge-opens-2023-common-alerting-protocol-cap-workshop-in-switzerland-with-presentation-on-artificial-intelligence-for-emergency-warning.md",
-      "title": "Everbridge Opens 2023 Common Alerting Protocol (CAP) Workshop in Switzerland with Presentation on Artificial Intelligence for Emergency Warning",
-      "excerpt": "\"Artificial intelligence and machine learning have accelerated to ... at 02:05 ENHERTU® Approved in the EU as the First HER2 Directed Therapy for Patients with HER2 Mutant Advanced Non-Small Cell Lung Cancer ENHERTU® (trastuzumab deruxtecan) has been ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-21100568.html",
-      "originalUrl": "https://www.lelezard.com/en/news-21100568.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-12T11:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-12-artificial-intelligence-ai-in-ultrasound-imaging-market-analysis-research-growth-and-forecast-to-2030.md",
-      "title": "Artificial Intelligence (AI) in Ultrasound Imaging Market Analysis, Research, Growth and Forecast to 2030",
-      "excerpt": "With A CAGR Of Approximately 9.67%, The Global Artificial Intelligence (AI) in Ultrasound Imaging Market, Valued At USD 917.11 Million In 2023, Is Forecasted To Expand To USD 1750 Million By 2030.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/10/35197746/artificial-intelligence-ai-in-ultrasound-imaging-market-analysis-research-growth-and-forecast-to-20",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/10/35197746/artificial-intelligence-ai-in-ultrasound-imaging-market-analysis-research-growth-and-forecast-to-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/35197746",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35197746",
-      "publishedDateTime": "2023-10-12T02:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-10-12-google-clouds-vertex-ai-search-a-game-changer-for-healthcare-life-sciences.md",
-      "title": "Google Cloud’s Vertex AI Search: A Game-Changer for Healthcare & Life Sciences",
-      "excerpt": "At the HLTH 2023 conference this week, Google Cloud introduced enhancements to its Vertex AI Search tailored for healthcare and life sciences organizations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/11/google-clouds-vertex-ai-search-a-game-changer-for-healthcare--life-sciences/",
-      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/11/google-clouds-vertex-ai-search-a-game-changer-for-healthcare--life-sciences/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6527571d20201eb53c5d4260/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/11/google-clouds-vertex-ai-search-a-game-changer-for-healthcare--life-sciences/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/10/11/google-clouds-vertex-ai-search-a-game-changer-for-healthcare--life-sciences/amp/",
-      "publishedDateTime": "2023-10-12T02:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-10-12-automated-production-for-cell-and-gene-therapy-developers.md",
-      "title": "Automated Production for Cell and Gene Therapy Developers",
-      "excerpt": "Cell and gene therapy developers need to collaborate and be willing to share manufacturing information for the good of the sector.",
-      "sourceUrl": null,
-      "webUrl": "https://www.genengnews.com/topics/bioprocessing/automated-production-for-cell-and-gene-therapy-developers/",
-      "originalUrl": "https://www.genengnews.com/topics/bioprocessing/automated-production-for-cell-and-gene-therapy-developers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T20:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GEN",
-        "domain": "genengnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-opportunities-for-ai-to-assist-cell-gene-therapy-companies.md",
-      "title": "Opportunities for AI to assist Cell & Gene therapy companies",
-      "excerpt": "PA Consulting life sciences expert Yoshio Hagiwara, PA cell & gene expert Paolo Siciliano, and Willem van Asperen, PA's chief data scientist, explain how AI can transform the cell & gene sector.",
-      "sourceUrl": null,
-      "webUrl": "https://www.paconsulting.com/newsroom/cell-and-gene-opportunities-for-ai-to-assist-cell-and-gene-therapy-companies-10-october-2023",
-      "originalUrl": "https://www.paconsulting.com/newsroom/cell-and-gene-opportunities-for-ai-to-assist-cell-and-gene-therapy-companies-10-october-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T15:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PA Consulting Group",
-        "domain": "paconsulting.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-new-jersey-establishes-artificial-intelligence-task-force.md",
-      "title": "New Jersey Establishes Artificial Intelligence Task Force",
-      "excerpt": "Gov. Phil Murphy signed an executive order Tuesday charging the task force with studying artificial intelligence and recommending government actions to support ethical use of the rapidly evolving technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/artificial-intelligence/new-jersey-establishes-artificial-intelligence-task-force",
-      "originalUrl": "https://www.govtech.com/artificial-intelligence/new-jersey-establishes-artificial-intelligence-task-force",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/fc67728/2147483647/strip/true/crop/380x258+0+0/resize/380x258!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F6b%2Fbb%2F563a07814eeb91f2117dfaa725ec%2F1-main-logo-for-digital-use-only.png%20%281%292.png",
-          "width": 380,
-          "height": 258,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/artificial-intelligence/new-jersey-establishes-artificial-intelligence-task-force?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/new-jersey-establishes-artificial-intelligence-task-force?_amp=true",
-      "publishedDateTime": "2023-10-10T22:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Healthcare",
-        "AI in Autos"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 4
 }

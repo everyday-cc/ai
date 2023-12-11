@@ -3,14 +3,11 @@ category: news
 title: "GM’s Cruise CEO resigns amid concerns over driverless car safety"
 excerpt: "Kyle Vogt exits as Twitch co-founder Emmett Shear appointed as interim boss of OpenAI"
 publishedDateTime: 2023-11-20T18:09:00Z
-originalUrl: "https://www.theguardian.com/business/2023/nov/20/gm-cruise-ceo-resigns-driverless-car-kyle-vogt?ref=upstract.com"
-webUrl: "https://www.theguardian.com/business/2023/nov/20/gm-cruise-ceo-resigns-driverless-car-kyle-vogt?ref=upstract.com"
+originalUrl: "https://www.theguardian.com/business/2023/nov/20/gm-cruise-ceo-resigns-driverless-car-kyle-vogt?ref=mc.news"
+webUrl: "https://www.theguardian.com/business/2023/nov/20/gm-cruise-ceo-resigns-driverless-car-kyle-vogt?ref=mc.news"
 ampWebUrl: "https://amp.theguardian.com/business/2023/nov/20/gm-cruise-ceo-resigns-driverless-car-kyle-vogt"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2023/nov/20/gm-cruise-ceo-resigns-driverless-car-kyle-vogt"
 type: article
-quality: 59
-heat: -1
-published: false
 
 provider:
   name: The Guardian
@@ -30,89 +27,6 @@ images:
     height: 372
     isCached: true
 
-related:
-  - title: "Cruise’s C.E.O. Quits as the Driverless Carmaker Aims to Rebuild Trust"
-    excerpt: "Kyle Vogt, a founder of Cruise, resigned from the company on Sunday, weeks after it suspended all of its self-driving operations. By Yiwen Lu and Tripp Mickle Reporting from San Francisco Kyle ..."
-    publishedDateTime: 2023-11-20T17:19:00Z
-    webUrl: "https://www.nytimes.com/2023/11/19/technology/cruise-ceo-kyle-vogt-quits.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 84
-    images:
-      - url: "https://static01.nyt.com/images/2023/11/21/us/19ALTcruise-ceo-print/19cruise-ceo-1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "GM’s driverless ride heads into a ditch"
-    excerpt: "For a while, General Motors' bet on robo-taxi startup Cruise held the promise of creating a serious challenge to electric-car leader Tesla . If there were any question about whether that’s still true,"
-    publishedDateTime: 2023-11-21T20:59:00Z
-    webUrl: "https://www.reuters.com/breakingviews/gms-driverless-ride-heads-into-ditch-2023-11-21/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://www.reuters.com/resizer/lmofop6tmoYtLuPf_X1YuLYYLyk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2RGXNCKQXNNU7JPZZO4UYCKKOM.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Driverless cars immune from traffic tickets in California under current laws"
-    excerpt: "An NBC Bay Area investigation reveals autonomous vehicles in California cannot be cited for moving traffic violations since transportation laws require tickets to be issued to actual “drivers.”"
-    publishedDateTime: 2023-11-23T23:03:00Z
-    webUrl: "https://www.nbclosangeles.com/news/national-international/driverless-cars-traffic-tickets-california-transportation-laws/3276194/"
-    ampWebUrl: "https://www.nbclosangeles.com/news/national-international/driverless-cars-traffic-tickets-california-transportation-laws/3276194/?amp=1"
-    cdnAmpWebUrl: "https://www-nbclosangeles-com.cdn.ampproject.org/c/s/www.nbclosangeles.com/news/national-international/driverless-cars-traffic-tickets-california-transportation-laws/3276194/?amp=1"
-    type: article
-    provider:
-      name: NBC Los Angeles
-      domain: nbclosangeles.com
-    quality: 56
-    images:
-      - url: "https://media.nbclosangeles.com/2023/11/Title-Image_color-corrected.png?resize=1200%2C675&quality=85&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "World's biggest driverless car race: 'a new type of motor sport with different heroes'"
-    excerpt: "The Abu Dhabi-backed A2RL Autonomous Racing League plans to pit ten driverless cars in wheel-to-wheel battle from next year; the most ambitious AI motor sport plan yet. Its backer reveals more about t"
-    publishedDateTime: 2023-11-21T18:02:00Z
-    webUrl: "https://www.motorsportmagazine.com/articles/single-seaters/the-worlds-biggest-driverless-car-race-a-new-type-of-motor-sport-with-different-heroes/"
-    type: article
-    provider:
-      name: Motor Sport
-      domain: motorsportmagazine.com
-    quality: 31
-    images:
-      - url: "https://motorsportmagazine.b-cdn.net/wp-content/uploads/2023/11/A2RL-1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Cruise CEO resigns following troubles with self-driving cars"
-    excerpt: "The founder and CEO of autonomous vehicle company Cruise, which is owned by General Motors, announced on X that he is resigning. Kyle Vogt founded the company in 2013 and also served as its president and chief technology officer."
-    publishedDateTime: 2023-11-20T17:40:00Z
-    webUrl: "https://www.aol.com/cruise-ceo-resigns-following-troubles-174053325.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 24
-    images:
-      - url: "https://media.zenfs.com/en/aol_newsy_441/9cd329f27749726f0e5dd13c0e2ae045"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "Isn't it about time we had driverless cars?"
-    excerpt: "Driverless cars feel like they've been \"two or three years away\"… for the last 10 years. So why don't we have them yet? What technical and ethical hurdles do we still need to overcome to finally make robots our designated drivers?"
-    publishedDateTime: 2023-11-22T14:00:00Z
-    webUrl: "https://www.abc.net.au/listen/programs/quick-smart/isn-t-it-about-time-we-had-driverless-cars-/103134864"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 19
-
-secured: "Rt4/wP1lvf1RvCv2KZiYyWzVfvxeuv57/+rSZoqAGEjL2sfQ7HxcE1Y2M8YuD+k9i0cR4vY7RsGR2REYC8ktbVfd5WGBFDmWfQh6r94x0y+pOWnPQOZVuBsmzRFJEI4VJxzdetwBV7lSqwYgRfeSOnX0dCUA2IRCqEzaUf2WEEbmiqbSW7p0tzU+8+V7sMbK7sfyjUf+N+EstqpeBT37n0vLrJugQI4rVGD2kr5LGL7o4M0kPuraeO0HUf1bSTIy/jeRYMiWHOhh7UxspiVIJPr2nGyJ5pnlUOAxoBwFR9HaSnwwg9UiIy7W3BObhhJeh8MwDUZRwAIWQKcLVC0A4BJOYCH43ZUAnwoTvs+KZc7rCYxbO1FdTL/2E1LgcvJV8IEBU5Irl6BaI36qa/ltbSRmDiytfexF4gXdrPQRauG4OymueKvAfcBsCL/bKSGNC/AeuMzccZlkqHWueakcb7CwPt6CIBW6eWV1uoPZ8hfRt8ncCHZQr/k9Cp3HGIM4/pLLOQl2zAmh5FpCiwMgoA==;0//co3cWd+50ASU18gt3+A=="
+secured: "lZ0QSLeQhoUop4QRyuXGFZqQoBB8nu99xQQ+h6O04K0p4Us1eZ1Beatr5ncQgrRy+Gpu5/1Q9UpYmnEtqM/vk3GkMUqmS0DzVBKW6Gzkihv/4snSuo+XG/dK43x0CkXYo/L2GHLeMsWe1u0kTL7308zGXe3nE4mFCH8zIO4822tVGkBJqoHt3MVWCdFDTD0d8J4NJg5Qu3bcBNmYntW3BbTluWUSHLY6KHc35ObuTr6PWNpzmcAPrA5tcMXxOGIGhqEeWW7NbcApvl91z8aHfp1iOcAi+Ue4uk7QPOYWDq3KL+XjlcuxfmNrgJ+VwSDll7WCvuKtbK41LcnioAx0uVXiwG+V3NIUEHETEabNy/O/Ua0s0j5pj5jdjSYQMZNcF6fTJ4rr93juFGPLQ7hkzW+bEtwgNsYC5n0vEh23P2/6b2r82toLl+X0cYx2qmuYwivavccS1WB3UULaJPMx607bvYsQTwROzvnQq3kISdbn8aqYe9S/nKxl+A7Y8ltdbim6JQqidfSFKB0mO0AoCA==;iqPwemm/ib0v4+4ZJ5jG2Q=="
 ---
 

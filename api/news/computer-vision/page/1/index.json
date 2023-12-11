@@ -2,6 +2,793 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-06-how-seeing-ai-focuses-on-large-vision-models.md",
+      "title": "How ‘Seeing’ AI Focuses On Large Vision Models",
+      "excerpt": "Driving AI into the image space is Landing AI, a computer vision cloud company that specializes in building what it calls domain-specific Large Vision Models (LVMs).",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/12/06/how-seeing-ai-focuses-on-large-vision-models/",
+      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/12/06/how-seeing-ai-focuses-on-large-vision-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65708d09e3f65bfb1710cfce/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/12/06/how-seeing-ai-focuses-on-large-vision-models/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/12/06/how-seeing-ai-focuses-on-large-vision-models/amp/",
+      "publishedDateTime": "2023-12-06T15:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-augmenting-human-capabilities-with-ai-and-computer-vision-for-healthcare.md",
+      "title": "Augmenting Human Capabilities With AI And Computer Vision For Healthcare",
+      "excerpt": "AI and CV are transforming modern healthcare, making it more accessible and accurate. The healthcare industry has been applying CV since the 20th century through the use of medical imaging. However, current solutions allowed it to evolve and improve.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/06/augmenting-human-capabilities-with-ai-and-computer-vision-for-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/06/augmenting-human-capabilities-with-ai-and-computer-vision-for-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c3fc8f3f39b3203eade19f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/06/augmenting-human-capabilities-with-ai-and-computer-vision-for-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/06/augmenting-human-capabilities-with-ai-and-computer-vision-for-healthcare/amp/",
+      "publishedDateTime": "2023-12-06T11:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-aira-features-cpu-powered-face-recognition-to-address-market-challenges.md",
+      "title": "AIRA features CPU-powered face recognition to address market challenges",
+      "excerpt": "The AI revolution is reshaping the world, impacting every industry. AI being rapidly put to use has spurred surging demand for critical components. In particular, GPU being in constant shortage has many supply chain ramifications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitimes.com/news/a20231206PR200.html&chid=9",
+      "originalUrl": "https://www.digitimes.com/news/a20231206PR200.html&chid=9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.digitimes.com/newsshow/20231206pr200_files/1_b.jpg",
+          "width": 640,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T03:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-05-revolutionising-industries-with-ai-sumedh-datars-journey-in-deep-learning-and-computer-vision.md",
+      "title": "Revolutionising industries with AI: Sumedh Datar's journey in deep learning and computer vision",
+      "excerpt": "Artificial Intelligence techniques, such as deep learning, have garnered significant attention in 2023, especially with the emergence of platforms like Cha..",
+      "sourceUrl": null,
+      "webUrl": "https://www.khaleejtimes.com/kt-network/revolutionising-industries-with-ai-sumedh-datars-journey-in-deep-learning-and-computer-vision",
+      "originalUrl": "https://www.khaleejtimes.com/kt-network/revolutionising-industries-with-ai-sumedh-datars-journey-in-deep-learning-and-computer-vision",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.khaleejtimes.com?uuid=c9b4f094-01fe-5308-856e-fb8aeec53a51&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.75125&width=1200&height=675&x=1.0E-5&y=0.17362.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.khaleejtimes.com/kt-network/revolutionising-industries-with-ai-sumedh-datars-journey-in-deep-learning-and-computer-vision?amp=1",
+      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/kt-network/revolutionising-industries-with-ai-sumedh-datars-journey-in-deep-learning-and-computer-vision?amp=1",
+      "publishedDateTime": "2023-12-05T13:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Khaleej Times",
+        "domain": "khaleejtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-12-04-landing-ai-announces-new-capability-to-build-domain-specific-large-vision-models.md",
+      "title": "Landing AI Announces New Capability to Build Domain-Specific Large Vision Models",
+      "excerpt": "LVMs enable enterprises to solve computer vision problems more quickly; Landing AI to help enterprises build and run LVMs at the edge, on-prem, and in the cloud PALO ALTO, Calif. , Dec. 4, 2023 /PRNewswire/ -- Landing AI, the leading computer vision cloud ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/landing-ai-announces-new-capability-to-build-domain-specific-large-vision-models-1032870378",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/landing-ai-announces-new-capability-to-build-domain-specific-large-vision-models-1032870378",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2291237/LVMs.jpg",
+          "width": 400,
+          "height": 255,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T08:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-02-computer-vision-eastern-africa.md",
+      "title": "Computer Vision - Eastern Africa",
+      "excerpt": "The market size in the Computer Vision market is projected to reach US$48.55m in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 14.98%, resulting in a market ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/eastern-africa",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/eastern-africa",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-02T13:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-02-bipartisan-senate-bill-to-ban-tsa-use-of-facial-recognition-technology-gains-support-of-civil-rights-groups.md",
+      "title": "Bipartisan Senate bill to ban TSA use of facial recognition technology gains support of civil rights groups",
+      "excerpt": "The bill aims to tackle TSA’s proposed plan to implement facial recognition scans at over 430 U.S. airports within the next several years.",
+      "sourceUrl": null,
+      "webUrl": "https://fedscoop.com/bipartisan-senate-bill-to-ban-tsa-use-of-facial-recognition-technology-gains-support-of-civil-rights-groups/",
+      "originalUrl": "https://fedscoop.com/bipartisan-senate-bill-to-ban-tsa-use-of-facial-recognition-technology-gains-support-of-civil-rights-groups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fedscoop.com/wp-content/uploads/sites/5/2019/01/GettyImages-183628592.jpg",
+          "width": 1920,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-02T00:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FedScoop",
+        "domain": "fedscoop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-02-push-to-ban-facial-recognition-at-kci-other-airports.md",
+      "title": "Push to ban facial recognition at KCI, other airports",
+      "excerpt": "KANSAS CITY, Mo. (KCTV) - A group of U.S. Senators sounds the alarm over the use of facial recognition technology at KCI Airport and other airports across the country. U.S. Senator Roger Marshall, R-Kan. is one of six senators to introduce the Traveler ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kctv5.com/2023/12/01/push-ban-facial-recognition-kci-other-airports/",
+      "originalUrl": "https://www.kctv5.com/2023/12/01/push-ban-facial-recognition-kci-other-airports/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-kctv-prod.cdn.arcpublishing.com/resizer/v2/GEP3E3XD2BD73IHY6EYMFTHBU4.png?auth=df39686e7650b2c8e529de572d983e698b66628bca4d560e10c94653113db700&width=800&height=450&smart=true",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.kctv5.com/2023/12/01/push-ban-facial-recognition-kci-other-airports/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-kctv5-com.cdn.ampproject.org/c/s/www.kctv5.com/2023/12/01/push-ban-facial-recognition-kci-other-airports/?outputType=amp",
+      "publishedDateTime": "2023-12-01T19:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KCTV News",
+        "domain": "kctv5.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-01-irish-police-plan-novel-application-of-facial-recognition-to-limit-risks.md",
+      "title": "Irish police plan novel application of facial recognition to limit risks",
+      "excerpt": "One of the main concerns around police use of facial recognition technology to identify suspects is the potential for false arrests.",
+      "sourceUrl": null,
+      "webUrl": "https://www.biometricupdate.com/202311/irish-police-plan-novel-application-of-facial-recognition-to-limit-risks",
+      "originalUrl": "https://www.biometricupdate.com/202311/irish-police-plan-novel-application-of-facial-recognition-to-limit-risks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/19132752/garda-surveillance-scaled.jpg",
+          "width": 2048,
+          "height": 1360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T00:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-01-senators-move-to-ban-tsas-facial-recognition-screenings.md",
+      "title": "Senators move to ban TSA’s facial recognition screenings",
+      "excerpt": "Merkley and several of his Democratic colleagues in the Senate previously pressed TSA to halt facial recognition screenings, writing in a February letter to the agency’s administrator that “increasing biometric surveillance of Americans by the government represents a risk to civil liberties and privacy rights.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextgov.com/emerging-tech/2023/11/senators-move-ban-tsas-facial-recognition-screenings/392394/",
+      "originalUrl": "https://www.nextgov.com/emerging-tech/2023/11/senators-move-ban-tsas-facial-recognition-screenings/392394/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.nextgov.com/media/img/cd/2023/11/30/113023_getty_ng_tsa_line/open-graph.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-30T21:37:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nextgov",
+        "domain": "nextgov.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-01-cyberlink-faceme-security-integrates-with-genetec-security-center-to-enhance-investigations-and-secure-access-control-with-ai-facial-recognition.md",
+      "title": "CyberLink FaceMe® Security Integrates with Genetec Security Center to Enhance Investigations and Secure Access Control with AI Facial Recognition",
+      "excerpt": "FaceMe® Security’s AI facial recognition allows Genetec Security Center users to painlessly upgrade smart security and access control infrastructure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20231130455398/en/CyberLink-FaceMe®-Security-Integrates-with-Genetec-Security-Center-to-Enhance-Investigations-and-Secure-Access-Control-with-AI-Facial-Recognition",
+      "originalUrl": "https://www.businesswire.com/news/home/20231130455398/en/CyberLink-FaceMe®-Security-Integrates-with-Genetec-Security-Center-to-Enhance-Investigations-and-Secure-Access-Control-with-AI-Facial-Recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-30T21:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-12-01-bipartisan-bill-to-bar-tsa-from-using-facial-recognition-in-airports-introduced.md",
+      "title": "Bipartisan bill to bar TSA from using facial recognition in airports introduced",
+      "excerpt": "A federal bipartisan bill to bar the TSA from using biometric data collected through facial recognition technology at U.S. airports has been introduced.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wibw.com/2023/11/30/bipartisan-bill-bar-tsa-using-facial-recognition-airports-introduced/",
+      "originalUrl": "https://www.wibw.com/2023/11/30/bipartisan-bill-bar-tsa-using-facial-recognition-airports-introduced/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-wibw-prod.cdn.arcpublishing.com/resizer/v2/GQU4RWK3CVCUBPHOLOUGJE7GRY.jpg?auth=e137510118becdb28d05d639268b6458893c6d81340504eadd3b617de5a5d28a&width=800&height=450&smart=true",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.wibw.com/2023/11/30/bipartisan-bill-bar-tsa-using-facial-recognition-airports-introduced/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-wibw-com.cdn.ampproject.org/c/s/www.wibw.com/2023/11/30/bipartisan-bill-bar-tsa-using-facial-recognition-airports-introduced/?outputType=amp",
+      "publishedDateTime": "2023-11-30T19:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WIBW",
+        "domain": "wibw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-30-merkley-introduces-bill-to-ban-tsas-new-facial-recognition-system-at-us-airports.md",
+      "title": "Merkley introduces bill to ban TSA’s new facial recognition system at US airports",
+      "excerpt": "The holidays are here, with more people traveling. Last summer, the TSA announced a new facial recognition screening system. But Senator Jeff Merkley, D-Ore., said Wednesday it has privacy implications,",
+      "sourceUrl": null,
+      "webUrl": "https://ktvz.com/news/local-news/2023/11/29/sen-merkley-introduces-a-bill-to-combat-tsa-new-facial-recognition-system/",
+      "originalUrl": "https://ktvz.com/news/local-news/2023/11/29/sen-merkley-introduces-a-bill-to-combat-tsa-new-facial-recognition-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ktvz.b-cdn.net/2023/11/Redmond-Airport-.png",
+          "width": 614,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-30T02:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTVZ",
+        "domain": "ktvz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-30-next-google-glass-could-be-the-ultimate-smart-home-controller.md",
+      "title": "Next Google Glass could be the ultimate smart home controller",
+      "excerpt": "and then identifies it using an object recognition model. Google writes: “The method includes obtaining a position of the first controllable device in a physical space based on visual ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wareable.com/ar/next-google-glass-could-be-the-ultimate-smart-home-controller",
+      "originalUrl": "https://www.wareable.com/ar/next-google-glass-could-be-the-ultimate-smart-home-controller",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.wareable.com/assets/images/7756-wearable-tech-news-next-google-glass-could-be-the-ultimate-smart-home-controller-image3-i2wsyrjawh.jpg",
+          "width": 1269,
+          "height": 714,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-29T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wareable",
+        "domain": "wareable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-30-senators-raise-alarm-over-facial-recognition-screening.md",
+      "title": "Senators raise alarm over facial recognition screening",
+      "excerpt": "Plus: Musk says ‘go f— yourself’ to advertisers boycotting X{beacon} Technology Technology   The Big Story Senators push to end involuntary TSA facial recognition",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/newsletters/technology/4334347-senators-raise-alarm-over-facial-recognition-screening/",
+      "originalUrl": "https://thehill.com/newsletters/technology/4334347-senators-raise-alarm-over-facial-recognition-screening/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/newsletters/technology/4334347-senators-raise-alarm-over-facial-recognition-screening/amp/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/newsletters/technology/4334347-senators-raise-alarm-over-facial-recognition-screening/amp/",
+      "publishedDateTime": "2023-11-29T22:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-30-researchers-look-to-the-human-eye-to-boost-computer-vision-efficiency.md",
+      "title": "Researchers look to the human eye to boost computer vision efficiency",
+      "excerpt": "Conventional silicon architecture has taken computer vision a long way, but Purdue University researchers are developing an alternative path—taking a cue from nature—that they say is the foundation of an artificial retina.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-11-human-eye-boost-vision-efficiency.html",
+      "originalUrl": "https://techxplore.com/news/2023-11-human-eye-boost-vision-efficiency.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/researchers-look-to-th.jpg",
+          "width": 1815,
+          "height": 1581,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-11-human-eye-boost-vision-efficiency.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-11-human-eye-boost-vision-efficiency.amp",
+      "publishedDateTime": "2023-11-29T17:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-29-vision-transformers-market-worth-12-billion-by-2028-growing-at-a-cagr-of-342-report-by-marketsandmarkets.md",
+      "title": "Vision Transformers Market Worth $1.2 billion by 2028, Growing At a CAGR of 34.2% Report by MarketsandMarkets™",
+      "excerpt": "The global Vision Transformers Market size is projected to grow from USD 0.2 billion in 2023 to USD 1.2 billion by 2028 at a growth rate of 34.2% during the forecast period,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/11/g36000465/vision-transformers-market-worth-1-2-billion-by-2028-growing-at-a-cagr-of-34-2-report-by-marketsan",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/11/g36000465/vision-transformers-market-worth-1-2-billion-by-2028-growing-at-a-cagr-of-34-2-report-by-marketsan",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/36000465",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36000465",
+      "publishedDateTime": "2023-11-29T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-29-navigating-the-landscape-of-best-image-recognition-software-for-2023.md",
+      "title": "Navigating the Landscape of best Image Recognition Software for 2023",
+      "excerpt": "In today’s data-driven world, where images play an increasingly important role in communication and information sharing, the demand for image recognition software has skyrocketed. This technology, powered by artificial intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/navigating-the-landscape-of-best-image-recognition-software-for-2023/",
+      "originalUrl": "https://techbullion.com/navigating-the-landscape-of-best-image-recognition-software-for-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2023/12/Matt-Arkin-CEO-of-Wheelhouse-450x270.png",
+          "width": 450,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-29T12:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2023-11-29-microsoft-mlnet-30-expands-deep-learning-capabilities.md",
       "title": "Microsoft ML.NET 3.0 expands deep learning capabilities",
       "excerpt": "Update to the machine learning framework for .NET developers brings new capabilities in object detection, named entity recognition, and question answering.",
@@ -584,771 +1371,6 @@
       "topics": [
         "AI",
         "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-11-17-baltimore-could-see-transparency-guardrails-for-facial-recognition-under-city-proposals-discussed-by-committees.md",
-      "title": "Baltimore could see transparency, guardrails for facial recognition under city proposals discussed by committees",
-      "excerpt": "Soon, businesses in Baltimore that employ facial recognition software could be required to register with the city and post a sign on the premises notifying patrons. “Facial recognition ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.baltimoresun.com/maryland/baltimore-city/bs-md-ci-facial-recognition-transparency-standards-baltimore-20231116-nl2alwfx3fhz7dvpfui26xn6dm-story.html",
-      "originalUrl": "https://www.baltimoresun.com/maryland/baltimore-city/bs-md-ci-facial-recognition-transparency-standards-baltimore-20231116-nl2alwfx3fhz7dvpfui26xn6dm-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.baltimoresun.com/resizer/dIX3Ecw4EiABdjH0mehGxvLX8AI=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/L3ES3D5BVJFAVP352DCKH4EVKA",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-16T21:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Baltimore Sun",
-        "domain": "baltimoresun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-15-tangram-vision-packs-ai-skills-onto-hifi-3d-sensor.md",
-      "title": "Tangram Vision packs AI skills onto HiFi 3D sensor",
-      "excerpt": "Tangram Vision's new HiFi 3D sensor targets robotics applications with its wide field of view, resolution and onboard AI capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/tangram-vision-packs-ai-skills-onto-hifi-3d-sensor/",
-      "originalUrl": "https://www.therobotreport.com/tangram-vision-packs-ai-skills-onto-hifi-3d-sensor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/11/tangram-vision-hifi-sensor.jpg",
-          "width": 745,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T14:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-11-15-tangram-visions-ai-powered-3d-sensor-could-transform-computer-vision-in-robotics.md",
-      "title": "Tangram Vision’s AI-powered 3D sensor could transform computer vision in robotics",
-      "excerpt": "Tangram Vision introduces HiFi, an innovative AI-powered 3D sensor revolutionizing robotics by simplifying computer vision tasks and accelerating the integration of AI in autonomous systems.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/tangram-visions-ai-powered-3d-sensor-could-transform-computer-vision-in-robotics/",
-      "originalUrl": "https://venturebeat.com/ai/tangram-visions-ai-powered-3d-sensor-could-transform-computer-vision-in-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/11/Sensor-Front-Left-Angle.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-11-15-is-edge-to-cloud-the-future-of-facial-recognition-systems.md",
-      "title": "Is edge-to-cloud the future of facial recognition systems?",
-      "excerpt": "Businesses have a need for applications that must operate in remote far-edge locations, where the installation of lengthy fiber connections is impractical.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202311/is-edge-to-cloud-the-future-of-facial-recognition-systems",
-      "originalUrl": "https://www.biometricupdate.com/202311/is-edge-to-cloud-the-future-of-facial-recognition-systems",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T20:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-15-alabama-man-beaten-beyond-recognition-in-same-prison-where-inmate-was-rented-out-and-murdered.md",
-      "title": "Alabama man beaten beyond recognition in same prison where inmate was ‘rented out’ and murdered",
-      "excerpt": "Louis Latham Jr. was struck with the heavy object at Staton Correctional Facility in August, leaving him with gruesome swelling to the side of his head and two shut eyes.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2023/11/14/news/alabama-man-beaten-beyond-recognition-in-same-prison-gang-rented-out-and-murdered-inmate/",
-      "originalUrl": "https://nypost.com/2023/11/14/news/alabama-man-beaten-beyond-recognition-in-same-prison-gang-rented-out-and-murdered-inmate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T17:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-15-apple-vision-pro-2-what-wed-like-to-see-from-a-second-generation-spatial-computer.md",
-      "title": "Apple Vision Pro 2: what we’d like to see from a second-generation spatial computer",
-      "excerpt": "We're still waiting for the first version to arrive, but you can bet Vision Pro 2 will bring more goodies to the table when it launches",
-      "sourceUrl": null,
-      "webUrl": "https://www.stuff.tv/features/apple-vision-pro-2-what-we-would-like-to-see/",
-      "originalUrl": "https://www.stuff.tv/features/apple-vision-pro-2-what-we-would-like-to-see/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T16:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stuff",
-        "domain": "stuff.tv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-ai-based-image-recognition-face-blur-function.md",
-      "title": "AI-Based Image Recognition Face Blur Function",
-      "excerpt": "we have developed an automatic blurring function using image recognition-based AI for object detection as a plug-in for editing machines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nhk.or.jp/strl/english/interbee2023/8.html",
-      "originalUrl": "https://www.nhk.or.jp/strl/english/interbee2023/8.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T04:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NHK",
-        "domain": "nhk.or.jp",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-willamette-students-and-faculty-shine-at-regional-computer-science-conference.md",
-      "title": "Willamette students and faculty shine at regional computer science conference",
-      "excerpt": "With several faculty members leading the conference and a first-place student win, the School of Computing & Information Sciences dazzled peers.",
-      "sourceUrl": null,
-      "webUrl": "https://willamette.edu/news/library/2023/11/ccsc-nw.html",
-      "originalUrl": "https://willamette.edu/news/library/2023/11/ccsc-nw.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Willamette University",
-        "domain": "willamette.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-13-leaked-details-reveal-apples-second-gen-vision-pro-headset-codenamed-project-alaska.md",
-      "title": "Leaked details reveal Apple’s second-gen Vision Pro headset, codenamed Project Alaska",
-      "excerpt": "Apple is reportedly working on a successor to its Vision Pro AR/VR headset, codenamed Project Alaska. Learn more about it here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2023/11/13/leaked-details-reveal-apples-second-gen-vision-pro-headset-codenamed-project-alaska/",
-      "originalUrl": "https://www.gizmochina.com/2023/11/13/leaked-details-reveal-apples-second-gen-vision-pro-headset-codenamed-project-alaska/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T07:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-13-innovapptive-launches-a-computer-vision-and-aiml-inspection-solution-with-deloitte-australia.md",
-      "title": "Innovapptive Launches a Computer Vision and AI/ML Inspection Solution with Deloitte Australia",
-      "excerpt": "Improving Frontline Operations Productivity and Asset Reliability BRISBANE, Australia, Nov. 13, 2023 /PRNewswire/ -- Innovapptive, a leading provider of mobile-first SaaS Connected Worker solutions, and Deloitte Australia,",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/innovapptive-launches-computer-vision-and-aiml-inspection-solution-deloitte-australia",
-      "originalUrl": "https://www.asiaone.com/business/innovapptive-launches-computer-vision-and-aiml-inspection-solution-deloitte-australia",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T20:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-11-12-structural-health-monitoring-optimised-using-ar-ai-and-computer-vision.md",
-      "title": "Structural health monitoring optimised using AR, AI and computer vision",
-      "excerpt": "Researchers from the University of Central Florida have introduced new technologies that aim to enhance the monitoring of structural health, bolstering public safety and safeguarding against disasters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.imveurope.com/article/new-structural-health-monitoring-technologies-introduced",
-      "originalUrl": "https://www.imveurope.com/article/new-structural-health-monitoring-technologies-introduced",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T01:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "imveurope.com",
-        "domain": "imveurope.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-11-facial-recognition-could-transform-policing-in-same-way-as-dna-says-met-chief.md",
-      "title": "Facial recognition could transform policing in same way as DNA, says Met chief",
-      "excerpt": "Sir Mark Rowley says technology could help catch wanted criminals, but rights campaigners warn of privacy violations Britain’s most senior police officer has predicted that facial recognition ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/uk-news/2023/sep/11/facial-recognition-could-transform-policing-in-way-dna-testing-did-says-met-chief",
-      "originalUrl": "https://www.theguardian.com/uk-news/2023/sep/11/facial-recognition-could-transform-policing-in-way-dna-testing-did-says-met-chief",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-11T10:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-11-embrace-this-messiness-computer-vision-pioneer-fei-fei-li-explains-her-hope-for-ai-and-humanity.md",
-      "title": "‘Embrace this messiness’: Computer vision pioneer Fei-Fei Li explains her hope for AI and humanity",
-      "excerpt": "Known for her foundational contributions to AI and computer vision, Dr. Li is the inventor of ImageNet, a large-scale dataset of images that enabled rapid advances in deep learning for visual ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/embrace-this-messiness-computer-vision-pioneer-fei-fei-li-explains-her-hope-for-ai-and-humanity/",
-      "originalUrl": "https://www.geekwire.com/2023/embrace-this-messiness-computer-vision-pioneer-fei-fei-li-explains-her-hope-for-ai-and-humanity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/11/worlds-i-see-fei-fei-li.png",
-          "width": 975,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-11T08:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-10-ai-robotics-gpt-moment-is-near.md",
-      "title": "AI robotics’ ‘GPT moment’ is near",
-      "excerpt": "Building AI-powered robots that can learn how to interact with the physical world will enhance all forms of repetitive work.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/11/10/ai-robotics-gpt-moment-is-near/",
-      "originalUrl": "https://techcrunch.com/2023/11/10/ai-robotics-gpt-moment-is-near/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/07/robustai.jpg?resize=1200,957",
-          "width": 1200,
-          "height": 957,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/11/10/ai-robotics-gpt-moment-is-near/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/10/ai-robotics-gpt-moment-is-near/amp/",
-      "publishedDateTime": "2023-11-10T14:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "Natural Language Processing",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-11-10-ai-ethics-board-in-us-doj-would-advise-on-facial-recognition-deployment.md",
-      "title": "AI ethics board in US DOJ would advise on facial recognition deployment",
-      "excerpt": "Members would review legal and ethics compliance when using facial recognition and related algorithms for law enforcement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202311/ai-ethics-board-in-us-doj-would-advise-on-facial-recognition-deployment",
-      "originalUrl": "https://www.biometricupdate.com/202311/ai-ethics-board-in-us-doj-would-advise-on-facial-recognition-deployment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/10/11164502/police-scaled.jpg",
-          "width": 2048,
-          "height": 792,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-09T17:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-11-09-police-use-of-face-recognition-is-sweeping-the-uk.md",
-      "title": "Police Use of Face Recognition Is Sweeping the UK",
-      "excerpt": "Face recognition technology has been controversial for years. Cops in the UK are drastically increasing the amount they use it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/uk-police-face-recognition-expansion/",
-      "originalUrl": "https://www.wired.com/story/uk-police-face-recognition-expansion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/654c2c7f0202a11bfdc62856/191:100/w_1280,c_limit/The-UK-Is-Turning-Into-a-Facial-Recognition-Police-State-Security-GettyImages-1224837570.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-09T07:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-thai-bankers-association-assures-bank-app-security-after-facial-recognition-scam.md",
-      "title": "Thai Bankers’ Association assures bank app security after facial recognition scam",
-      "excerpt": "Fraudsters exploited loopholes in the system to facilitate transfers without the need for facial recognition for transactions over 50,000 baht",
-      "sourceUrl": null,
-      "webUrl": "https://thethaiger.com/news/national/thai-bankers-association-assures-bank-app-security-after-facial-recognition-scam",
-      "originalUrl": "https://thethaiger.com/news/national/thai-bankers-association-assures-bank-app-security-after-facial-recognition-scam",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thethaiger.com/wp-content/uploads/2023/11/banking-apps.jpg",
-          "width": 472,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T07:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Thaiger",
-        "domain": "thethaiger.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Finance",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-11-07-chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot.md",
-      "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
-      "excerpt": "Here's a ChatGPT guide to help understand Open AI's viral text-generating system. We outline the most recent updates and answer your FAQs.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/11/6/chatgpt-everything-to-know-about-the-ai-chatbot/",
-      "originalUrl": "https://techcrunch.com/2023/11/6/chatgpt-everything-to-know-about-the-ai-chatbot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 271,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/11/06/chatgpt-everything-to-know-about-the-ai-chatbot/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/06/chatgpt-everything-to-know-about-the-ai-chatbot/amp/",
-      "publishedDateTime": "2023-11-07T00:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
         "Computer Vision"
       ]
     }

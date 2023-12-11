@@ -2,108 +2,12 @@
   "page": 37,
   "value": [
     {
-      "path": "_news/2023-10-27-elevate-your-marketing-solutions-with-amazon-personalize-and-generative-ai.md",
-      "title": "Elevate your marketing solutions with Amazon Personalize and generative AI",
-      "excerpt": "Generative artificial intelligence is transforming how enterprises do business. Organizations are using AI to improve data-driven decisions, enhance omnichannel experiences, and drive next-generation product development. Enterprises are using generative AI specifically to power their marketing efforts",
+      "path": "_news/2023-11-05-cloudflare-google-and-aws-disclose-http2-zero-day-vulnerability.md",
+      "title": "Cloudflare, Google and AWS Disclose HTTP/2 Zero-Day Vulnerability",
+      "excerpt": "In this episode, Thomas Betts talks with Pamela Fox, a cloud advocate in Python at Microsoft. They discuss several ChatGPT sample apps that Pamela helps maintain. These include a very popular integration of ChatGPT with Azure OpenAI and Cognitive Search ...",
       "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/elevate-your-marketing-solutions-with-amazon-personalize-and-generative-ai/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/elevate-your-marketing-solutions-with-amazon-personalize-and-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 309,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/27/elevate-your-marketing-1260x630.jpg",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T16:30:52Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-cruise-gms-robotaxi-service-suspends-all-driverless-operations-nationwide.md",
-      "title": "Cruise, GM’s robotaxi service, suspends all driverless operations nationwide",
-      "excerpt": "The California Department of Motor Vehicles revoked the license for Cruise, which recently began transporting passengers throughout San Francisco, this week.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbc29.com/2023/10/27/cruise-gms-robotaxi-service-suspends-all-driverless-operations-nationwide/",
-      "originalUrl": "https://www.nbc29.com/2023/10/27/cruise-gms-robotaxi-service-suspends-all-driverless-operations-nationwide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-wvir-prod.cdn.arcpublishing.com/resizer/4oAIyjh_qTZ6jYSNDVYNzSiiShc=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/A76YDPE6SNE2BHVQMV5X3VKYRE.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.nbc29.com/2023/10/27/cruise-gms-robotaxi-service-suspends-all-driverless-operations-nationwide/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-nbc29-com.cdn.ampproject.org/c/s/www.nbc29.com/2023/10/27/cruise-gms-robotaxi-service-suspends-all-driverless-operations-nationwide/?outputType=amp",
-      "publishedDateTime": "2023-10-27T15:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC29",
-        "domain": "nbc29.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-geely-and-baidu-in-challenge-to-tesla-launch-autonomous-ev.md",
-      "title": "Geely and Baidu, in challenge to Tesla, launch autonomous EV",
-      "excerpt": "The Jiyue 01, the first EV from a Geely-Baidu joint venture, is equipped with Baidu’s Apollo platform, which has been in development for 10 years and used on driverless vehicles since 2016.",
-      "sourceUrl": null,
-      "webUrl": "https://europe.autonews.com/cars-concepts/geely-and-baidu-challenge-tesla-launch-autonomous-ev",
-      "originalUrl": "https://europe.autonews.com/cars-concepts/geely-and-baidu-challenge-tesla-launch-autonomous-ev",
+      "webUrl": "https://www.infoq.com/news/2023/11/http2-rapid-reset-vulnerability/",
+      "originalUrl": "https://www.infoq.com/news/2023/11/http2-rapid-reset-vulnerability/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -113,339 +17,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T15:09:00Z",
+      "publishedDateTime": "2023-11-05T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
+        "name": "InfoQ",
+        "domain": "infoq.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-artificial-intelligence-robots-market-to-cross-usd-11969-billion-by-2030-owing-to-rising-demand-for-personalized-customer-experiences.md",
-      "title": "Artificial Intelligence Robots Market to Cross USD 119.69 Billion by 2030 owing to Rising Demand for Personalized Customer Experiences",
-      "excerpt": "The Artificial Intelligence Robots Market, as stated in the SNS Insider report, was valued at USD 9.96 billion in 2022. It is projected to attain a value of USD 119.69 billion by 2030, indicating a substantial compound annual growth rate (CAGR) of 36.45% ...",
-      "sourceUrl": null,
-      "webUrl": "https://ipsnews.net/business/2023/10/27/artificial-intelligence-robots-market-to-cross-usd-119-69-billion-by-2030-owing-to-rising-demand-for-personalized-customer-experiences/",
-      "originalUrl": "https://ipsnews.net/business/2023/10/27/artificial-intelligence-robots-market-to-cross-usd-119-69-billion-by-2030-owing-to-rising-demand-for-personalized-customer-experiences/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T14:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inter Press Service",
-        "domain": "ipsnews.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-openai-assembles-team-of-experts-to-fight-catastrophic-ai-risks-including-nuclear-war.md",
-      "title": "OpenAI assembles team of experts to fight 'catastrophic' AI risks - including nuclear war",
-      "excerpt": "Also: Google expands bug bounty program to include rewards for AI attack scenarios",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/openai-assembles-team-of-experts-to-fight-catastrophic-ai-risks-including-nuclear-war/",
-      "originalUrl": "https://www.zdnet.com/article/openai-assembles-team-of-experts-to-fight-catastrophic-ai-risks-including-nuclear-war/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/10f4f32351c78c3f40531c8e5c121d03662d90fd/2023/10/27/592eb986-c6fa-47fe-a735-d509e751ebdd/gettyimages-1288727526.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T14:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-cruise-halts-all-self-driving-taxi-operations-to-rebuild-public-trust.md",
-      "title": "Cruise Halts All Self-Driving Taxi Operations to 'Rebuild Public Trust'",
-      "excerpt": "We think it’s the right thing to do during a period when we need to be extra vigilant when it comes to risk,' Cruise says after California's DMV suspended the company's self-driving permit.",
-      "sourceUrl": null,
-      "webUrl": "https://au.pcmag.com/cars-auto/102335/cruise-halts-all-self-driving-taxi-operations-to-rebuild-public-trust",
-      "originalUrl": "https://au.pcmag.com/cars-auto/102335/cruise-halts-all-self-driving-taxi-operations-to-rebuild-public-trust",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_au/news/c/cruise-hal/cruise-halts-all-self-driving-taxi-operations-to-rebuild-pub_fkz4.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T13:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-from-astro-boy-to-pluto-the-history-of-the-greatest-robot-on-earth.md",
-      "title": "From Astro Boy to Pluto: The History of “The Greatest Robot on Earth”",
-      "excerpt": "While Astro Boy was a worldwide hit and contains many well-loved stories, one stands above the others: “The Greatest Robot on Earth.” After being published in the manga, it has been adapted into every anime adaptation of the original story.",
-      "sourceUrl": null,
-      "webUrl": "https://www.animenewsnetwork.com/feature/2023-10-27/from-astro-boy-to-pluto-the-history-of-the-greatest-robot-on-earth/.203470",
-      "originalUrl": "https://www.animenewsnetwork.com/feature/2023-10-27/from-astro-boy-to-pluto-the-history-of-the-greatest-robot-on-earth/.203470",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.animenewsnetwork.com/thumbnails/crop600x315gQ9/cms/feature/203470/pluto-anime.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Anime News Network",
-        "domain": "animenewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-generative-ai-in-real-estate-emphasizing-whats-human-in-housing.md",
-      "title": "Generative AI In Real Estate: Emphasizing What’s Human In Housing",
-      "excerpt": "Here are a few ways generative AI can enhance the housing industry from a resources and processes perspective.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/27/generative-ai-in-real-estate-emphasizing-whats-human-in-housing/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/27/generative-ai-in-real-estate-emphasizing-whats-human-in-housing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/653add73b8a4fb3de24d55c1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1247,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/27/generative-ai-in-real-estate-emphasizing-whats-human-in-housing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/27/generative-ai-in-real-estate-emphasizing-whats-human-in-housing/amp/",
-      "publishedDateTime": "2023-10-27T12:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-tesla-faces-automated-driving-rival-in-geely-and-baidu-ev.md",
-      "title": "Tesla Faces Automated Driving Rival in Geely and Baidu EV",
-      "excerpt": "Competition is intensifying in China’s automated-driving scene with the arrival of Jiyue 01, the first electric vehicle from a joint venture between Zhejiang Geely Holding Group Co. and Chinese search and tech giant Baidu Inc.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-10-27/tesla-faces-self-driving-challenger-as-geely-and-baidu-launch-ev",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-10-27/tesla-faces-self-driving-challenger-as-geely-and-baidu-launch-ev",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T11:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-ai-and-the-future-of-work-adapting-to-a-changing-landscape.md",
-      "title": "AI And The Future Of Work: Adapting To A Changing Landscape",
-      "excerpt": "Nvidia, a leading technology company, recently announced a significant increase in earnings, with their revenue doubling due to the high demand for its AI chips that power new machine learning applications;",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/27/ai-and-the-future-of-work-adapting-to-a-changing-landscape/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/27/ai-and-the-future-of-work-adapting-to-a-changing-landscape/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6307744cdf865cb5591b5fd3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/27/ai-and-the-future-of-work-adapting-to-a-changing-landscape/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/27/ai-and-the-future-of-work-adapting-to-a-changing-landscape/amp/",
-      "publishedDateTime": "2023-10-27T10:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -455,16 +32,70 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
+        "AI",
+        "AWS AI"
       ]
     },
     {
-      "path": "_news/2023-10-27-mediago-empowers-advertisers-with-enhanced-smartbid-capabilities-to-maximize-roi.md",
-      "title": "MediaGo Empowers Advertisers with Enhanced Smartbid Capabilities to Maximize ROI",
-      "excerpt": "Leveraging deep learning technology, MediaGo's new Smartbid feature creates tangible value for performance advertisers by effectively managing the bidding process. The Smartbid model, built on a deep neural network with over 1 billion parameters, enables significant improvements in ad performance for advertisers at all scales.",
+      "path": "_news/2023-11-05-google-deepminds-robotics-head-on-general-purpose-robots-generative-ai-and-office-wi-fi.md",
+      "title": "Google DeepMind’s robotics head on general-purpose robots, generative AI and office Wi-Fi",
+      "excerpt": "Subscribe here.] Earlier this month, Google’s DeepMind team debuted Open X-Embodiment, a database of robotics functionality created in collaboration with 33 research institutes. The researchers ...",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-mediago-empowers-advertisers-with-enhanced-smartbid-capabilities-maximize-/2023/10/27/9906693.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-mediago-empowers-advertisers-with-enhanced-smartbid-capabilities-maximize-/2023/10/27/9906693.htm",
+      "webUrl": "https://techcrunch.com/2023/11/04/google-deepminds-robotics-head-on-general-purpose-robots-generative-ai-and-office-ai/",
+      "originalUrl": "https://techcrunch.com/2023/11/04/google-deepminds-robotics-head-on-general-purpose-robots-generative-ai-and-office-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/06/deepmind-illo.jpg?resize=1200,680",
+          "width": 1200,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/11/04/google-deepminds-robotics-head-on-general-purpose-robots-generative-ai-and-office-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/04/google-deepminds-robotics-head-on-general-purpose-robots-generative-ai-and-office-ai/amp/",
+      "publishedDateTime": "2023-11-04T23:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-11-05-opinion-lets-talk-driverless-cars-the-good-the-bad-and-the-ai.md",
+      "title": "OPINION | LET'S TALK: Driverless cars: The good, the bad and the AI",
+      "excerpt": "\"GM halting driverless car service nationwide after California ban\" is the headline of an end-of-October CNN story by Chris Isidore and Peter Valdes-Dapena. Seems the carmaker has decided it was \"putting the brakes\" on the driverless cars it had developed and which were already providing rides in some locales.",
+      "sourceUrl": null,
+      "webUrl": "https://www.arkansasonline.com/news/2023/nov/04/driverless-cars-the-good-the-bad-and-the-ai/?latest",
+      "originalUrl": "https://www.arkansasonline.com/news/2023/nov/04/driverless-cars-the-good-the-bad-and-the-ai/?latest",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -474,11 +105,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T09:33:00Z",
+      "publishedDateTime": "2023-11-04T21:30:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Arkansas Democrat-Gazette",
+        "domain": "arkansasonline.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -493,21 +124,21 @@
       ]
     },
     {
-      "path": "_news/2023-10-27-using-facial-recognition-sita-and-fraport-enable-a-contactless-travel-experience-for-all-airline-passengers.md",
-      "title": "Using facial recognition, SITA and Fraport enable a contactless travel experience for all airline passengers",
-      "excerpt": "Frankfurt becomes the first European airport to offer full-coverage biometric systems, another milestone in the expansion of Fraport’s digital passenger processes",
+      "path": "_news/2023-11-04-opinion-lets-talk-driverless-cars-the-good-the-bad-and-the-ai.md",
+      "title": "OPINION | LET'S TALK: Driverless cars: The good, the bad and the AI",
+      "excerpt": "\"GM halting driverless car service nationwide after ... These cars, as explained in the Bing blurb, rely on sensors and artificial intelligence to figure their way around and avoid getting in ...",
       "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/companies-news/using-facial-recognition-sita-and-fraport-enable-a-contactless-travel-experience-for-all-airline-passengers-u0iwgdbx",
-      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/using-facial-recognition-sita-and-fraport-enable-a-contactless-travel-experience-for-all-airline-passengers-u0iwgdbx",
+      "webUrl": "https://www.arkansasonline.com/news/2023/nov/04/driverless-cars-the-good-the-bad-and-the-ai/",
+      "originalUrl": "https://www.arkansasonline.com/news/2023/nov/04/driverless-cars-the-good-the-bad-and-the-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://static.zawya.com/view/acePublic/alias/contentid/MDc1ZTUxM2EtMzE2ZC00/0/1-jpg.jpeg?f=3%3A2",
-          "width": 528,
-          "height": 352,
+          "url": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/205695740_HelaineLogoWEB_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676",
+          "width": 600,
+          "height": 300,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -515,13 +146,56 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/using-facial-recognition-sita-and-fraport-enable-a-contactless-travel-experience-for-all-airline-passengers-u0iwgdbx?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/using-facial-recognition-sita-and-fraport-enable-a-contactless-travel-experience-for-all-airline-passengers-u0iwgdbx?amp=1",
-      "publishedDateTime": "2023-10-27T09:22:00Z",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-04T16:30:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
+        "name": "Arkansas Democrat-Gazette",
+        "domain": "arkansasonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-04-a-camera-with-computer-vision.md",
+      "title": "A Camera With Computer Vision",
+      "excerpt": "Computer vision is a tricky thing to stuff into a small package, but last year’s Hackaday Prize had an especially interesting project make it into the 50 top finalists. The OpenMV is a tiny ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2015/01/28/a-camera-with-computer-vision/",
+      "originalUrl": "https://hackaday.com/2015/01/28/a-camera-with-computer-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2015/01/openmv.jpg",
+          "width": 800,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-04T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -536,26 +210,35 @@
       ]
     },
     {
-      "path": "_news/2023-10-27-lilt-supports-ai-powered-translated-forecasts-offered-by-noaas-national-weather-service.md",
-      "title": "Lilt Supports AI-Powered Translated Forecasts Offered By NOAA's National Weather Service",
-      "excerpt": "the leading AI solution for enterprise translation, is proud to provide the AI-powered technology behind a new experimental language translation website by NOAA and the National Weather Service.",
+      "path": "_news/2023-11-04-unmasking-artificial-intelligence-the-battle-for-ethical-innovation-and-accountability.md",
+      "title": "Unmasking Artificial Intelligence: The Battle for Ethical Innovation and Accountability",
+      "excerpt": "Bias and Fairness: AI algorithms can inadvertently perpetuate bias, discrimination, and unfairness. They learn from historical data, which may contain biases, and replicate those biases in their decision-making processes. This bias can manifest in areas like hiring practices, lending decisions, and criminal justice.",
       "sourceUrl": null,
-      "webUrl": "https://www.victoriaadvocate.com/lilt-supports-ai-powered-translated-forecasts-offered-by-noaas-national-weather-service/article_04614bc6-8b57-56d7-bae3-57ab9cc7529a.html",
-      "originalUrl": "https://www.victoriaadvocate.com/lilt-supports-ai-powered-translated-forecasts-offered-by-noaas-national-weather-service/article_04614bc6-8b57-56d7-bae3-57ab9cc7529a.html",
+      "webUrl": "https://michiganchronicle.com/2023/11/03/unmasking-artificial-intelligence-the-battle-for-ethical-innovation-and-accountability/",
+      "originalUrl": "https://michiganchronicle.com/2023/11/03/unmasking-artificial-intelligence-the-battle-for-ethical-innovation-and-accountability/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 78,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://michiganchronicle.com/wp-content/uploads/sites/2/2023/11/Unmasking-AI.jpg",
+          "width": 2426,
+          "height": 1235,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T09:00:00Z",
+      "ampWebUrl": "https://michiganchronicle.com/2023/11/03/unmasking-artificial-intelligence-the-battle-for-ethical-innovation-and-accountability/?amp=1",
+      "cdnAmpWebUrl": "https://michiganchronicle-com.cdn.ampproject.org/c/s/michiganchronicle.com/2023/11/03/unmasking-artificial-intelligence-the-battle-for-ethical-innovation-and-accountability/?amp=1",
+      "publishedDateTime": "2023-11-03T19:29:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Victoria Advocate",
-        "domain": "victoriaadvocate.com",
+        "name": "Michigan Chronicle",
+        "domain": "michiganchronicle.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -565,27 +248,28 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI"
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
       ]
     },
     {
-      "path": "_news/2023-10-27-unified-endpoint-management-vs-device-lifecycle-management-what-do-they-have-in-common.md",
-      "title": "Unified Endpoint Management vs. device lifecycle management: what do they have in common?",
-      "excerpt": "Both protect corporate data, ensure a great user experience, enhance cybersecurity overall and create a great digital workspace.\nThe post Unified Endpoint Management vs. device lifecycle management: what do they have in common? appeared first on IBM Blog.\n",
+      "path": "_news/2023-11-03-apache-kafka-and-apache-flink-an-open-source-match-made-in-heaven.md",
+      "title": "Apache Kafka and Apache Flink: An open-source match made in heaven",
+      "excerpt": "With the combination of Apache Flink and Apache Kafka, the open-source event streaming possibilities become exponential.\nThe post Apache Kafka and Apache Flink: An open-source match made in heaven appeared first on IBM Blog.\n",
       "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/unified-endpoint-management-vs-device-lifecycle-management-what-do-they-have-in-common/",
-      "originalUrl": "https://www.ibm.com/blog/unified-endpoint-management-vs-device-lifecycle-management-what-do-they-have-in-common/",
+      "webUrl": "https://www.ibm.com/blog/apache-kafka-and-apache-flink-an-open-source-match-made-in-heaven/",
+      "originalUrl": "https://www.ibm.com/blog/apache-kafka-and-apache-flink-an-open-source-match-made-in-heaven/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 82,
       "tags": null,
       "images": null,
       "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T09:00:00Z",
+      "publishedDateTime": "2023-11-03T16:40:40Z",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -612,21 +296,21 @@
       ]
     },
     {
-      "path": "_news/2023-10-27-entering-ai-era-taiwan-chip-industry-urges-renewables-push.md",
-      "title": "Entering AI era, Taiwan chip industry urges renewables push",
-      "excerpt": "Taiwan's chip industry is ready to work with the government to achieve its 2050 net-zero goal but development of renewable energy sources needs to be hastened as demand for artificial intelligence booms,",
+      "path": "_news/2023-11-03-wallace-rose-hill-coaching-staff-and-field-maintenance-crew-use-artificial-intelligence-robot.md",
+      "title": "Wallace Rose-Hill coaching staff and field maintenance crew use artificial intelligence robot",
+      "excerpt": "The time invested into keeping Thell B. Overman Field looking incredible for the Wallace Rose-Hill Bulldogs under the Friday Night Lights at Legion Stadium, is unmatched.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/taiwan-chips/update-1-taiwan-chip-industry-pushes-government-to-speed-up-renewables-idUSL1N3BX0EN",
-      "originalUrl": "https://www.reuters.com/article/taiwan-chips/update-1-taiwan-chip-industry-pushes-government-to-speed-up-renewables-idUSL1N3BX0EN",
+      "webUrl": "https://www.witn.com/video/2023/11/03/wallace-rose-hill-coaching-staff-field-maintenance-crew-use-artificial-intelligence-robot/",
+      "originalUrl": "https://www.witn.com/video/2023/11/03/wallace-rose-hill-coaching-staff-field-maintenance-crew-use-artificial-intelligence-robot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 78,
       "tags": null,
       "images": [
         {
-          "url": "https://www.reuters.com/resizer/BqMZjFvBErtuAEPgUfNCBJiZytk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/P5YGAWUJGJIQFBBFJS4HMWBVSA.jpg",
-          "width": 1200,
-          "height": 628,
+          "url": "https://gray-witn-prod.cdn.arcpublishing.com/resizer/bkclBK2aHn8lTun9Y88UYlfWlPE=/800x450/smart/filters:quality(70)/do0bihdskp9dy.cloudfront.net/11-05-2023/t_c5695f8e97384557a4f1992f95b64dd7_name_Dustin_Forecast_Graphic.png",
+          "width": 800,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -634,65 +318,13 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T08:35:00Z",
+      "ampWebUrl": "https://www.witn.com/video/2023/11/03/wallace-rose-hill-coaching-staff-field-maintenance-crew-use-artificial-intelligence-robot/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-witn-com.cdn.ampproject.org/c/s/www.witn.com/video/2023/11/03/wallace-rose-hill-coaching-staff-field-maintenance-crew-use-artificial-intelligence-robot/?outputType=amp",
+      "publishedDateTime": "2023-11-03T16:17:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-fii7-in-riyadh-sees-detailed-debate-on-ai-and-179bln-worth-of-investments.md",
-      "title": "FII7 in Riyadh sees detailed debate on AI and $17.9bln worth of investments",
-      "excerpt": "The final day of FII7 highlighted the new frontiers of investment and technology, focusing on space & aviation, biotech, cybersecurity, robotics, venture capital, start-up nations and more. A special AI summit was undertaken, as a part of the FII7 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/wealth/wealth-management/fii7-in-riyadh-sees-detailed-debate-on-ai-and-179bln-worth-of-investments-ujsy5de9",
-      "originalUrl": "https://www.zawya.com/en/wealth/wealth-management/fii7-in-riyadh-sees-detailed-debate-on-ai-and-179bln-worth-of-investments-ujsy5de9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/view/acePublic/alias/contentid/NzVkZTI5Y2YtZjljNy00/0/saudi-investment.jpeg?f=3%3A2",
-          "width": 739,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/wealth/wealth-management/fii7-in-riyadh-sees-detailed-debate-on-ai-and-179bln-worth-of-investments-ujsy5de9?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/wealth/wealth-management/fii7-in-riyadh-sees-detailed-debate-on-ai-and-179bln-worth-of-investments-ujsy5de9?amp=1",
-      "publishedDateTime": "2023-10-27T05:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
+        "name": "WITN",
+        "domain": "witn.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -707,161 +339,29 @@
       ]
     },
     {
-      "path": "_news/2023-10-27-microsoft-gaining-ground-in-cloud-race-with-aws-google.md",
-      "title": "Microsoft gaining ground in cloud race with AWS, Google",
-      "excerpt": "Microsoft is pulling ahead of its chief rivals, Amazon.com and Google, in the burgeoning cloud services market.",
+      "path": "_news/2023-11-03-nvme-vs-sata-whats-the-difference.md",
+      "title": "NVMe vs. SATA: What’s the difference?",
+      "excerpt": "Exploring two of the most popular data storage technologies available: NVMe and SATA.\nThe post NVMe vs. SATA: What’s the difference? appeared first on IBM Blog.\n",
       "sourceUrl": null,
-      "webUrl": "https://techcentral.co.za/microsoft-gaining-cloud-race-aws-google/234097/",
-      "originalUrl": "https://techcentral.co.za/microsoft-gaining-cloud-race-aws-google/234097/",
+      "webUrl": "https://www.ibm.com/blog/nvme-vs-sata/",
+      "originalUrl": "https://www.ibm.com/blog/nvme-vs-sata/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcentral.co.za/wp-content/uploads/2021/09/cloud-2156-1120-6-1024x532.jpg",
-          "width": 1024,
-          "height": 532,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T05:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCentral",
-        "domain": "techcentral.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-artificial-intelligence-ai-in-education-market-trends-2023-2031-aleks-microsoft-aws-top-key-players.md",
-      "title": "Artificial Intelligence (AI) in Education Market Trends 2023-2031 | ALEKS, Microsoft, AWS | Top Key Players",
-      "excerpt": "The Global Artificial Intelligence (AI) in Education market is anticipated to rise at a considerable rate during the forecast period, between 2023 and 2031. In 2022, the market is growing at a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/news/prwirecenter/artificial-intelligence-ai-in-education-market-trends-2023-2031-aleks-microsoft-aws-top-key-players",
-      "originalUrl": "https://www.digitaljournal.com/pr/news/prwirecenter/artificial-intelligence-ai-in-education-market-trends-2023-2031-aleks-microsoft-aws-top-key-players",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
+      "heat": 82,
       "tags": null,
       "images": null,
       "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T03:32:00Z",
+      "publishedDateTime": "2023-11-03T15:32:53Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Education",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-deepmind-verifies-convnets-can-match-vision-transformers-at-scale.md",
-      "title": "DeepMind Verifies ConvNets Can Match Vision Transformers at Scale",
-      "excerpt": "In the realm of computer vision, Convolutional Neural Networks (ConvNets) have long been the standard for achieving top-notch performance in various benchmarks. However, recent years have witnessed the emergence of Vision Transformers (ViTs) as a formidable contender,",
-      "sourceUrl": null,
-      "webUrl": "https://syncedreview.com/2023/10/26/deepmind-verifies-convnets-can-match-vision-transformers-at-scale/",
-      "originalUrl": "https://syncedreview.com/2023/10/26/deepmind-verifies-convnets-can-match-vision-transformers-at-scale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1",
-          "width": 790,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://syncedreview.com/2023/10/26/deepmind-verifies-convnets-can-match-vision-transformers-at-scale/amp/",
-      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2023/10/26/deepmind-verifies-convnets-can-match-vision-transformers-at-scale/amp/",
-      "publishedDateTime": "2023-10-27T02:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "syncedreview",
-        "domain": "syncedreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-boston-dynamics-uses-chatgpt-to-create-a-robot-tour-guide.md",
-      "title": "Boston Dynamics uses ChatGPT to create a robot tour guide",
-      "excerpt": "Check out the British butler guide at the start of the video, for example ... him over to an early version of Spot among Boston Dynamics’ display of robots. Klingensmith says AI might make it possible for robots “not just to follow our commands ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/news/boston-dynamics-uses-chatgpt-to-create-a-robot-tour-guide/",
-      "originalUrl": "https://www.digitaltrends.com/news/boston-dynamics-uses-chatgpt-to-create-a-robot-tour-guide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/10/boston-dynamics-spot-AI.jpeg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/news/boston-dynamics-uses-chatgpt-to-create-a-robot-tour-guide/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/boston-dynamics-uses-chatgpt-to-create-a-robot-tour-guide/?amp",
-      "publishedDateTime": "2023-10-27T02:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
+        "name": "IBM",
+        "domain": "ibm.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -877,26 +377,25 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI"
+        "IBM AI"
       ]
     },
     {
-      "path": "_news/2023-10-27-friss-to-use-microsoft-azure-openai-service-for-enhanced-ai-fraud-model-explanations.md",
-      "title": "FRISS to use Microsoft Azure OpenAI Service for Enhanced AI Fraud Model Explanations",
-      "excerpt": "aligning with its responsible AI approach. Azure OpenAI Service enables FRISS to present potential fraud cases into more engaging and understandable stories, using the art of storytelling as the ...",
+      "path": "_news/2023-11-03-ai-ethics-early-but-formative-days.md",
+      "title": "AI ethics: Early but formative days",
+      "excerpt": "However, to affect AI ethics, it must be implementable as code. “People in technology positions don’t have formal ethics training,” said Briana Brownell, a data scientist and CEO of ...",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/10/b35438797/friss-to-use-microsoft-azure-openai-service-for-enhanced-ai-fraud-model-explanations",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/10/b35438797/friss-to-use-microsoft-azure-openai-service-for-enhanced-ai-fraud-model-explanations",
+      "webUrl": "https://sdtimes.com/ai/ai-ethics-early-but-formative-days/",
+      "originalUrl": "https://sdtimes.com/ai/ai-ethics-early-but-formative-days/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
+          "url": "https://sdtimes.com/wp-content/uploads/2019/08/ethics-2.jpg",
+          "width": 490,
+          "height": 276,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -904,13 +403,117 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/35438797",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35438797",
-      "publishedDateTime": "2023-10-27T02:19:00Z",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-03T14:51:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-03-aws-reinvent-quantum-computing-end-of-support-migration-program-for-windows-server-and-amazon-sagemaker-operators-for-kubernetes.md",
+      "title": "AWS re:Invent: Quantum computing, end-of-support migration program for Windows Server, and Amazon SageMaker Operators for Kubernetes",
+      "excerpt": "AWS releases Amazon SageMaker Operators for Kubernetes AWS has announced the release of Amazon SageMaker Operators for Kubernetes. This new service will make it easy for data scientists to train ...",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/cloud/aws-reinvent-quantum-computing-end-of-support-migration-program-for-windows-server-and-amazon-sagemaker-operators-for-kubernetes/",
+      "originalUrl": "https://sdtimes.com/cloud/aws-reinvent-quantum-computing-end-of-support-migration-program-for-windows-server-and-amazon-sagemaker-operators-for-kubernetes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2019/12/Sessions@2x.png",
+          "width": 648,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-03T14:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-03-dall-e-2-on-microsoft-azure-the-market-for-generative-models-matures-techtalks.md",
+      "title": "DALL-E 2 on Microsoft Azure: the market for generative models matures – TechTalks",
+      "excerpt": "This article is part of our series that explores the business of artificial intelligenceIn last week’s Ignite 2022 conference, Microsoft announced another",
+      "sourceUrl": null,
+      "webUrl": "https://www.inferse.com/781160/dall-e-2-on-microsoft-azure-the-market-for-generative-models-matures-techtalks/",
+      "originalUrl": "https://www.inferse.com/781160/dall-e-2-on-microsoft-azure-the-market-for-generative-models-matures-techtalks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-1972.png",
+          "width": 1920,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-03T14:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inferse",
+        "domain": "inferse.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -925,12 +528,140 @@
       ]
     },
     {
-      "path": "_news/2023-10-27-live-news-gms-cruise-pauses-driverless-car-operations-after-california-ban.md",
-      "title": "Live news: GM’s Cruise pauses driverless car operations after California ban",
-      "excerpt": "Driverless car company Cruise on Thursday said it would immediately pause operations “across all our fleets” in order to work out how to rebuild public trust, days after Calif",
+      "path": "_news/2023-11-03-mastering-ingress-in-the-ui-elevating-your-app-visibility.md",
+      "title": "Mastering Ingress in the UI: Elevating your app visibility",
+      "excerpt": "This is a primer that showcases the benefits and functionality of using Ingress and these integrations in UI.\nThe post Mastering Ingress in the UI: Elevating your app visibility appeared first on IBM Blog.\n",
       "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/7915341b-fa8a-4c30-8582-5d6372c43dc4",
-      "originalUrl": "https://www.ft.com/content/7915341b-fa8a-4c30-8582-5d6372c43dc4",
+      "webUrl": "https://www.ibm.com/blog/mastering-ingress-in-the-ui-elevating-your-app-visibility/",
+      "originalUrl": "https://www.ibm.com/blog/mastering-ingress-in-the-ui-elevating-your-app-visibility/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-03T09:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-03-sony-interactive-entertainment-acquires-deep-learning-company-isize.md",
+      "title": "Sony Interactive Entertainment acquires deep learning company iSIZE",
+      "excerpt": "Sony Interactive Entertainment has acquired iSIZE, a tech company that specializes in deep learning technology. Sony announced its acquisition of iSIZE in a post on the corporation’s website.",
+      "sourceUrl": null,
+      "webUrl": "https://www.shacknews.com/article/137650/sony-interactive-entertainment-acquires-deep-learning-company-isize",
+      "originalUrl": "https://www.shacknews.com/article/137650/sony-interactive-entertainment-acquires-deep-learning-company-isize",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/11/02/sony-interactive-isize_feature.png",
+          "width": 1919,
+          "height": 1054,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.shacknews.com/article/137650/sony-interactive-entertainment-acquires-deep-learning-company-isize?amphtml=1",
+      "cdnAmpWebUrl": "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/137650/sony-interactive-entertainment-acquires-deep-learning-company-isize?amphtml=1",
+      "publishedDateTime": "2023-11-02T19:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Shacknews",
+        "domain": "shacknews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-02-ge-healthcare-announces-new-data-validating-artificial-intelligence-models-for-predicting-patient-response-to-immunotherapies.md",
+      "title": "GE HealthCare Announces New Data Validating Artificial Intelligence Models for Predicting Patient Response to Immunotherapies",
+      "excerpt": "GE HealthCare’s Artificial Intelligence (AI) models predict patient response to immunotherapies with 70 to 80 percent accuracy 1, based on a pan-cancer cohort, according to findings to be presented at the Society for Immunotherapy of Cancer (SITC) in San Diego,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/ge-healthcare-announces-new-data-validating-artificial-intelligence-models-for-predicting-patient-response-to-immunotherapies/article_38326a44-6f45-5214-8f08-a186f20e297b.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/ge-healthcare-announces-new-data-validating-artificial-intelligence-models-for-predicting-patient-response-to-immunotherapies/article_38326a44-6f45-5214-8f08-a186f20e297b.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/c/fc/cfce3a77-83d3-54dd-b0a0-8b1a19a41dff/654390615e3c5.image.jpg?crop=1919%2C1007%2C0%2C36&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-02T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-02-study-reveals-alarming-cognitive-decline-in-over-50s-during-pandemic.md",
+      "title": "Study reveals alarming cognitive decline in over-50s during pandemic",
+      "excerpt": "The brain health of over 50s deteriorated more rapidly during the pandemic - even if they didn’t catch Covid, according to a new study. Increases in loneliness and depression, less exercise and higher alcohol consumption were all contributing factors,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fbherald.com/lifestyles/health/study-reveals-alarming-cognitive-decline-in-over-50s-during-pandemic/article_2ee01e01-2e21-5e4f-a76b-27ef0d85799b.html",
+      "originalUrl": "https://www.fbherald.com/lifestyles/health/study-reveals-alarming-cognitive-decline-in-over-50s-during-pandemic/article_2ee01e01-2e21-5e4f-a76b-27ef0d85799b.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -940,11 +671,54 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T01:37:00Z",
+      "publishedDateTime": "2023-11-02T11:56:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
+        "name": "Fort Bend Herald",
+        "domain": "fbherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-02-as-gaza-conflict-rages-online-maps-from-chinese-companies-are-missing-israels-name.md",
+      "title": "As Gaza conflict rages, online maps from Chinese companies are missing Israel’s name",
+      "excerpt": "Beijing has clarified that Israel remains marked on official maps issued by Chinese authorities after questions emerged over why the country’s name was not visible on online maps provided by two major Chinese companies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/gaza-conflict-rages-online-maps-045613363.html?ref=biztoc.com",
+      "originalUrl": "https://www.aol.com/gaza-conflict-rages-online-maps-045613363.html?ref=biztoc.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_cnn_business_articles_764/7bc99f4354e15e90a476164c321ba960",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-02T07:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -959,21 +733,55 @@
       ]
     },
     {
-      "path": "_news/2023-10-27-opinion-amazons-ai-talk-is-making-wall-street-drool-but-there-seems-to-be-a-catch.md",
-      "title": "Opinion: Amazon’s AI talk is making Wall Street drool, but there seems to be a catch",
-      "excerpt": "Its Azure cloud business reported a better-than-expected quarter earlier this week, and the company has an investment in and partnership with OpenAI, the creator of ChatGPT. Microsoft also has promising early AI offerings, including Copilot for its GitHub ...",
+      "path": "_news/2023-11-02-elsa-introduces-nvidia-a800-40gb-active-gpu-with-hbm2-memory.md",
+      "title": "Elsa Introduces NVIDIA A800 40GB Active GPU with HBM2 Memory",
+      "excerpt": "Elsa has initiated the distribution of the \"NVIDIA A800 40GB Active\" AI GPU card, model EQRA800-40GER, boasting 40GB of HBM2 memory. The NVIDIA A800 40GB Active is powered by the NVIDIA Ampere ...",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/amazons-ai-talk-is-making-wall-street-drool-but-there-seems-to-be-a-catch-9fbbf082",
-      "originalUrl": "https://www.marketwatch.com/story/amazons-ai-talk-is-making-wall-street-drool-but-there-seems-to-be-a-catch-9fbbf082",
+      "webUrl": "https://www.guru3d.com/story/elsa-introduces-nvidia-a800-40gb-active-gpu-with-hbm2-memory/",
+      "originalUrl": "https://www.guru3d.com/story/elsa-introduces-nvidia-a800-40gb-active-gpu-with-hbm2-memory/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-02T07:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Guru3D.com",
+        "domain": "guru3d.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-02-studying-the-arts-and-deep-learning-academic-minute.md",
+      "title": "Studying the Arts and Deep Learning: Academic Minute",
+      "excerpt": "Today on the Academic Minute: Lisa Donovan, professor of arts management at the Massachusetts College of Liberal Arts, explores how studying the arts can lead to deep, rigorous learning. Learn more about the Academic Minute here.",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidehighered.com/news/quick-takes/2023/11/02/studying-arts-and-deep-learning-academic-minute",
+      "originalUrl": "https://www.insidehighered.com/news/quick-takes/2023/11/02/studying-arts-and-deep-learning-academic-minute",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://images.mktw.net/im-867942/social",
-          "width": 1280,
-          "height": 640,
+          "url": "https://www.insidehighered.com/modules/custom/ihe_custom/img/ihe-logo-no-wordmark.png",
+          "width": 300,
+          "height": 300,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -981,16 +789,50 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/amazons-ai-talk-is-making-wall-street-drool-but-there-seems-to-be-a-catch-9fbbf082",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/amazons-ai-talk-is-making-wall-street-drool-but-there-seems-to-be-a-catch-9fbbf082",
-      "publishedDateTime": "2023-10-27T01:25:00Z",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-02T07:11:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "Inside Higher Ed",
+        "domain": "insidehighered.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-02-azure-communications-services-is-microsofts-new-managed-communication-platform.md",
+      "title": "Azure Communications Services is Microsoft's new managed communication platform",
+      "excerpt": "At its annual Ignite conference, Microsoft announced Azure Communications ... Developers can easily tap into other Azure services, such as Azure Cognitive Services for translation, sentiment ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/azure-communications-services-is-microsofts-new-managed-communication-platform/",
+      "originalUrl": "https://www.neowin.net/news/azure-communications-services-is-microsofts-new-managed-communication-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-02T06:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1011,21 +853,21 @@
       ]
     },
     {
-      "path": "_news/2023-10-27-fears-about-computers-taking-over-the-world-goes-way-back-to-the-beginning.md",
-      "title": "Fears About Computers Taking Over the World Goes Way Back to the Beginning",
-      "excerpt": "But from the earliest years of the computer’s history, Watson and IBM encountered resistance to these “thinking machines,” just like spreading fears of generative AI today. Then as now ...",
+      "path": "_news/2023-11-02-artificial-intelligence-is-changing-the-way-cars-are-made.md",
+      "title": "Artificial Intelligence Is Changing the Way Cars Are Made",
+      "excerpt": "Artificial intelligence (AI) is worming its way through global industries in everything from fast food production to farming to energy grids and water treatment plants. It also now touches almost ...",
       "sourceUrl": null,
-      "webUrl": "https://www.rollingstone.com/culture/culture-features/tom-watson-jr-great-capitalist-who-ever-lived-excerpt-1234855231/",
-      "originalUrl": "https://www.rollingstone.com/culture/culture-features/tom-watson-jr-great-capitalist-who-ever-lived-excerpt-1234855231/",
+      "webUrl": "https://www.newsweek.com/artificial-intelligence-changing-way-cars-are-made-1835913",
+      "originalUrl": "https://www.newsweek.com/artificial-intelligence-changing-way-cars-are-made-1835913",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.rollingstone.com/wp-content/uploads/2023/10/Watson-and-Olive-650-display.jpg?w=1600&h=900&crop=1",
-          "width": 1600,
-          "height": 900,
+          "url": "https://d.newsweek.com/en/full/2296490/siemens-digital-twin.jpg",
+          "width": 3000,
+          "height": 2000,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1033,13 +875,65 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.rollingstone.com/culture/culture-features/tom-watson-jr-great-capitalist-who-ever-lived-excerpt-1234855231/amp/",
-      "cdnAmpWebUrl": "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/culture/culture-features/tom-watson-jr-great-capitalist-who-ever-lived-excerpt-1234855231/amp/",
-      "publishedDateTime": "2023-10-27T01:18:00Z",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-02T06:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Rolling Stone",
-        "domain": "rollingstone.com",
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-02-what-are-job-and-salary-prospects-for-robotics-engineers.md",
+      "title": "What Are Job and Salary Prospects for Robotics Engineers?",
+      "excerpt": "As National Robotics Week 2015 comes to a close, we wanted to look at salary and employment trends for robotics engineers. Although we did find some information about career growth, there's very little specific salary information available. Design News ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/what-are-job-and-salary-prospects-robotics-engineers",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/what-are-job-and-salary-prospects-robotics-engineers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://eu-images.contentstack.com/v3/assets/blt0bbd1b20253587c0/blt7b064349d2481e45/6513fde3a9a5e737328f805b/EPFL-Robot-Arm_new.jpg?disable=upscale&width=1200&height=630&fit=crop",
+          "width": 500,
+          "height": 263,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-02T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1049,17 +943,17 @@
         "news"
       ],
       "topics": [
-        "IBM AI",
+        "AI in Robotics",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-10-27-un-chief-appoints-39-member-panel-to-advise-on-international-governance-of-artificial-intelligence.md",
-      "title": "UN chief appoints 39-member panel to advise on international governance of artificial intelligence",
-      "excerpt": "U.N. Secretary-General António Guterres on Thursday announced the appointment of a 39-member global advisory panel to report on international governance of artificial",
+      "path": "_news/2023-11-02-ais-challenge-and-opportunity-for-news.md",
+      "title": "AI’s challenge and opportunity for news",
+      "excerpt": "New developments this week suggest that AI is not only a threat but potentially also an opportunity for the local news industry.",
       "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/ap/ap-u-s-news/ap-un-chief-appoints-39-member-panel-to-advise-on-international-governance-of-artificial-intelligence/",
-      "originalUrl": "https://thehill.com/homenews/ap/ap-u-s-news/ap-un-chief-appoints-39-member-panel-to-advise-on-international-governance-of-artificial-intelligence/",
+      "webUrl": "https://www.seattletimes.com/opinion/ais-challenge-and-opportunity-for-news/",
+      "originalUrl": "https://www.seattletimes.com/opinion/ais-challenge-and-opportunity-for-news/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1067,13 +961,13 @@
       "images": null,
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/ap/ap-u-s-news/ap-un-chief-appoints-39-member-panel-to-advise-on-international-governance-of-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/ap/ap-u-s-news/ap-un-chief-appoints-39-member-panel-to-advise-on-international-governance-of-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-10-27T00:21:00Z",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-01T23:07:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1084,6 +978,92 @@
       ],
       "topics": [
         "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-02-thailand-taking-steps-to-regulate-ai-artificial-intelligence.md",
+      "title": "Thailand Taking Steps to Regulate (AI) Artificial Intelligence",
+      "excerpt": "Artificial Intelligence (AI) has rapidly transformed the way we live, work, and interact with technology. In Thailand, just like in many other parts of the world, AI is becoming increasingly integrated into daily life.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chiangraitimes.com/tech/thailand-taking-steps-to-regulate-ai-artificial-intelligence/",
+      "originalUrl": "https://www.chiangraitimes.com/tech/thailand-taking-steps-to-regulate-ai-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chiangraitimes.com/wp-content/uploads/2020/06/Artificial-Intelligence-and-Using-Robots-in-Educational-Institutions.jpg",
+          "width": 850,
+          "height": 567,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-01T21:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chiangrai Times",
+        "domain": "chiangraitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-02-processor-made-for-ai-speeds-up-genome-assembly.md",
+      "title": "Processor made for AI speeds up genome assembly",
+      "excerpt": "A hardware accelerator initially developed for artificial intelligence operations successfully speeds up the alignment of protein and DNA molecules, making the process up to 10 times faster than state-of-the-art methods.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-11-processor-ai-genome.html",
+      "originalUrl": "https://phys.org/news/2023-11-processor-ai-genome.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/processor-made-for-ai.jpg",
+          "width": 1700,
+          "height": 916,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-11-processor-ai-genome.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-11-processor-ai-genome.amp",
+      "publishedDateTime": "2023-11-01T20:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     }

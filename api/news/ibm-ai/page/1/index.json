@@ -2,6 +2,230 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-08-how-to-build-a-successful-risk-mitigation-strategy.md",
+      "title": "How to build a successful risk mitigation strategy",
+      "excerpt": "Here are five key steps to building a strong risk mitigation strategy that can successfully work for your unique business needs.\nThe post How to build a successful risk mitigation strategy appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/risk-mitigation-strategy/",
+      "originalUrl": "https://www.ibm.com/blog/risk-mitigation-strategy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-08T16:29:23Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-08-get-ready-for-change-with-ibm-cloud-training.md",
+      "title": "Get ready for change with IBM Cloud Training",
+      "excerpt": "The IBM Center for Cloud Training's goal is to accelerate your career growth and validate your skills with industry-recognized credentials.\nThe post Get ready for change with IBM Cloud Training appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/get-ready-for-change-with-ibm-cloud-training/",
+      "originalUrl": "https://www.ibm.com/blog/get-ready-for-change-with-ibm-cloud-training/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-08T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-01-qa-how-artificial-intelligence-could-transform-health-care.md",
+      "title": "Q&A: How artificial intelligence could transform health care",
+      "excerpt": "Health care has historically been slow to adopt new technologies that involve wholesale changes to the nature of the work. Witness the slow and checkered roll-out of electronic health records and the utter failure of prior efforts to implement artificial intelligence tools,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-12-qa-artificial-intelligence-health.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-12-qa-artificial-intelligence-health.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/how-artificial-intelli-2.jpg",
+          "width": 1280,
+          "height": 693,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-12-qa-artificial-intelligence-health.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-12-qa-artificial-intelligence-health.amp",
+      "publishedDateTime": "2023-12-01T13:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-01-how-artificial-intelligence-could-transform-health-care.md",
+      "title": "How Artificial Intelligence Could Transform Health Care",
+      "excerpt": "Bob Wachter comments on the potential of new generative artificial intelligence tools to transform the health care environment in a way previous technologies could not.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ucsf.edu/news/2023/11/426716/how-artificial-intelligence-could-transform-health-care",
+      "originalUrl": "https://www.ucsf.edu/news/2023/11/426716/how-artificial-intelligence-could-transform-health-care",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ucsf.edu/sites/default/files/fields/field_insert_file/news/wachter_digital.jpg",
+          "width": 1500,
+          "height": 844,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T00:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UC San Francisco",
+        "domain": "ucsf.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-01-the-world-depends-on-60-year-old-code-no-one-knows-anymore.md",
+      "title": "The World Depends on 60-Year-Old Code No One Knows Anymore",
+      "excerpt": "Many who remember IBM’s previous AI experiment, Watson Health, are hesitant to trust another big AI project from the company because the previous one failed so miserably and didn't deliver on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/articles/ibms-plan-to-update-cobol-with-watson",
+      "originalUrl": "https://www.pcmag.com/articles/ibms-plan-to-update-cobol-with-watson",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/00LwULYZRCHrVGohpkwCxhV-1.fit_lim.size_1200x630.v1701443014.png",
+          "width": 1121,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-29-real-time-artificial-intelligence-and-event-processing.md",
       "title": "Real-time artificial intelligence and event processing  ",
       "excerpt": "Event-driven architecture helps business and IT teams interpret and act on real-time information about situations across the organization.\nThe post Real-time artificial intelligence and event processing   appeared first on IBM Blog.\n",
@@ -135,6 +359,83 @@
       ],
       "topics": [
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-29-whats-next-phil-anderson-of-datacentrix-explains-how-businesses-can-use-ai-to-its-full-potential.md",
+      "title": "What’s Next – Phil Anderson of Datacentrix explains how businesses can use AI to its full potential",
+      "excerpt": "Anderson then discusses the most important things executives should consider when developing an AI adoption strategy. He also talks about IBM Watson, which has been a leader in AI for many years. Anderson unpacks the new innovations IBM have brought to ...",
+      "sourceUrl": null,
+      "webUrl": "https://mybroadband.co.za/news/it-services/517839-whats-next-phil-anderson-of-datacentrix-explains-how-businesses-can-use-ai-to-its-full-potential.html",
+      "originalUrl": "https://mybroadband.co.za/news/it-services/517839-whats-next-phil-anderson-of-datacentrix-explains-how-businesses-can-use-ai-to-its-full-potential.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://mybroadband.co.za/news/it-services/517839-whats-next-phil-anderson-of-datacentrix-explains-how-businesses-can-use-ai-to-its-full-potential.html/amp",
+      "cdnAmpWebUrl": "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/it-services/517839-whats-next-phil-anderson-of-datacentrix-explains-how-businesses-can-use-ai-to-its-full-potential.html/amp",
+      "publishedDateTime": "2023-11-29T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MyBroadband",
+        "domain": "mybroadband.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-28-jinjun-xiong-talks-to-host-cory-nealon-about-ai-for-social-good.md",
+      "title": "Jinjun Xiong talks to host Cory Nealon about AI for social good",
+      "excerpt": "Speaker 2: This is Jeopardy. The IBM challenge. Cory Nealon: Yes, Big Blue's groundbreaking Watson program achieved a historic milestone in artificial intelligence by besting the game show's greatest champions. Watson's victory signaled a new era of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.buffalo.edu/news/faculty-experts.host.html/content/shared/university/news/ub-reporter-articles/podcast/Xiong-AI-social-good.detail.html",
+      "originalUrl": "https://www.buffalo.edu/news/faculty-experts.host.html/content/shared/university/news/ub-reporter-articles/podcast/Xiong-AI-social-good.detail.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.buffalo.edu/etc/designs/ubcms/clientlibs-main/images/ub-social.png.img.512.auto.png/1615975623771.png",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-28T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medicine Buffalo",
+        "domain": "buffalo.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
       ]
     },
     {
@@ -1033,271 +1334,6 @@
       "provider": {
         "name": "MD&M East",
         "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-15-ibm-has-announced-the-upcoming-general-availability-of-watsonxgovernance-in-early.md",
-      "title": "IBM has announced the upcoming general availability of watsonx.governance in early",
-      "excerpt": "Its ability to translate regulations into enforceable policies will only become more essential for enterprises as new AI regulation takes hold worldwide.” IBM Consulting has broadened its ...",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ai/ibm-has-announced-the-upcoming-general-availability-of-watsonx-governance-in-early/",
-      "originalUrl": "https://sdtimes.com/ai/ibm-has-announced-the-upcoming-general-availability-of-watsonx-governance-in-early/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-15-ibm-unveils-watsonxgovernance-to-help-govern-and-build-trust-in-generative-ai.md",
-      "title": "IBM Unveils watsonx.governance to Help Govern and Build Trust in Generative AI",
-      "excerpt": "IBM today announced that watsonx.governance will be generally available in early December to help businesses shine a light",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/this-just-in/ibm-unveils-watsonx-governance-to-help-govern-and-build-trust-in-generative-ai/",
-      "originalUrl": "https://www.datanami.com/this-just-in/ibm-unveils-watsonx-governance-to-help-govern-and-build-trust-in-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T19:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-15-ibm-watsonx-tool-for-ai-governance-will-soon-be-available.md",
-      "title": "IBM WatsonX tool for AI governance will soon be available",
-      "excerpt": "As businesses continue to adopt AI to remain competitive, there is a chance its advancement may outpace the understanding of the tech. Now, IBM hopes to eliminate some of this mystery around how ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.siliconrepublic.com/machines/ibm-watsonx-governance-tool-ai-deployment",
-      "originalUrl": "https://www.siliconrepublic.com/machines/ibm-watsonx-governance-tool-ai-deployment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.siliconrepublic.com/wp-content/uploads/2023/11/a-12.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T16:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconRepublic",
-        "domain": "siliconrepublic.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-ibm-extends-its-goals-for-ai-and-quantum-computing-shows-off-roadmap.md",
-      "title": "IBM extends its goals for AI and quantum computing, shows off roadmap",
-      "excerpt": "What stood out was IBM's demonstration of a much tighter connection between its research work on advanced technologies and the rapid \"productization\" of this work into",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/100828-ibm-extends-goals-ai-quantum-computing-shows-off.html",
-      "originalUrl": "https://www.techspot.com/news/100828-ibm-extends-goals-ai-quantum-computing-shows-off.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T22:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-on-thecube-pod-sizing-up-the-ai-pin-and-has-ibm-finally-gotten-it-right-with-watson.md",
-      "title": "On theCUBE Pod: Sizing up the AI Pin and has IBM finally gotten it right with Watson?",
-      "excerpt": "Generative artificial intelligence continues to be the subject captivating the technology world, and more seminal moments concerning the technology may have taken place this past week. On Thursday, Human Inc. unveiled its long-awaited AI-powered wearable, the $699 AI Pin.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/11/13/on-thecube-pod-sizing-up-the-ai-pin-and-has-ibm-finally-gotten-it-right-with-watson-thecubepod/",
-      "originalUrl": "https://siliconangle.com/2023/11/13/on-thecube-pod-sizing-up-the-ai-pin-and-has-ibm-finally-gotten-it-right-with-watson-thecubepod/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T16:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-13-exploring-the-power-of-ai-in-gaming-unveiling-the-tools-that-drive-the-experience.md",
-      "title": "Exploring the Power of AI in Gaming: Unveiling the Tools That Drive the Experience",
-      "excerpt": "Introduction In the dynamic realm of gaming, the integration of artificial intelligence (AI) has become a game-changer, revolutionizing the way players interact with virtual worlds. AI tools play a pivotal role in enhancing gameplay,",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/exploring-the-power-of-ai-in-gaming-unveiling-the-tools-that-drive-the-experience/",
-      "originalUrl": "https://techbullion.com/exploring-the-power-of-ai-in-gaming-unveiling-the-tools-that-drive-the-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T09:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-12-ibm-turns-the-corner-with-watson-why-20-is-a-breakthrough-opportunity.md",
-      "title": "IBM turns the corner with Watson: Why 2.0 is a breakthrough opportunity",
-      "excerpt": "With Watson 1.0, IBM Corp. deviated from the Silicon Valley mantra — fail fast — as it took nearly a decade for the company to pivot off of its original vision. In our view, a different dynamic is in play today with Watson 2.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/11/11/ibm-turns-corner-watson-2-0-breakthrough-opportunity/",
-      "originalUrl": "https://siliconangle.com/2023/11/11/ibm-turns-corner-watson-2-0-breakthrough-opportunity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-11T16:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,1107 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-10-20-3-robotics-stocks-ready-to-rock-and-roll-in-2024.md",
+      "title": "3 Robotics Stocks Ready to Rock and Roll in 2024",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Robotic devices enable automation that help people perform tasks more",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-ready-to-rock-and-roll-in-2024-1032722476",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-ready-to-rock-and-roll-in-2024-1032722476",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-19T23:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-19-nvidia-gives-robotics-a-major-upgrade.md",
+      "title": "Nvidia Gives Robotics A Major Upgrade",
+      "excerpt": "According to Nvidia, these releases include more value than all the other releases over the past 10 years combined.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2023/10/19/nvidia-gives-robotics-a-major-upgrade/",
+      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2023/10/19/nvidia-gives-robotics-a-major-upgrade/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65314c2819c4e506a67ca4d8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1280,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2023/10/19/nvidia-gives-robotics-a-major-upgrade/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/10/19/nvidia-gives-robotics-a-major-upgrade/amp/",
+      "publishedDateTime": "2023-10-19T15:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-19-robotics-systems-and-control-msc.md",
+      "title": "Robotics, Systems and Control MSc",
+      "excerpt": "Required for students who have not obtained their Bachelor's degree in one of the external pageEU/EFTA Member Statecall_made countries. Minimum expected GRE scores: GRE Analytical = 3.5 or 50% GRE Quantitative = 165 or 90% GRE Verbal = 155 or 70%.",
+      "sourceUrl": null,
+      "webUrl": "https://ethz.ch/en/studies/master/application/master-robotics.html",
+      "originalUrl": "https://ethz.ch/en/studies/master/application/master-robotics.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ethz.ch/etc/designs/ethz/img/header/eth_default_og.jpg",
+          "width": 1564,
+          "height": 780,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-19T15:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ETH Zurich",
+        "domain": "ethz.ch",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-19-75-faster-than-humans-new-amazon-sequoia-robotics-system-promises-to-improve-warehouses-and-replace-workers.md",
+      "title": "75% Faster Than Humans: New Amazon Sequoia Robotics System Promises to Improve Warehouses and Replace Workers",
+      "excerpt": "Amazon has announced a new robotics system called Sequoia, which is designed to improve worker efficiency and health, as well as lead to higher customer satisfaction. Sequoia is a set of integrated robotics systems that includes mobile robots, gantry systems, robotic arms, and a new ergonomic employee workstation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2023/10/19/amazon-warehouse-sequoia-robotics-system/",
+      "originalUrl": "https://www.gizmochina.com/2023/10/19/amazon-warehouse-sequoia-robotics-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/10/amazon-warehouse-sequoia-robotics-system.jpg",
+          "width": 1600,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-19T13:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-19-amazon-introducing-warehouse-overhaul-with-robotics-to-speed-deliveries.md",
+      "title": "Amazon Introducing Warehouse Overhaul With Robotics to Speed Deliveries",
+      "excerpt": "Amazon.com is introducing an array of new artificial intelligence and robotics capabilities into its warehouse operations that will reduce delivery times and help identify inventory more quickly. The revamp will change the way Amazon moves products through its fulfillment centers with new AI-equipped sortation machines and robotic arms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/special-report/amazon-introducing-warehouse-overhaul-with-robotics-to-speed-deliveries-11697632017638.html",
+      "originalUrl": "https://www.livemint.com/special-report/amazon-introducing-warehouse-overhaul-with-robotics-to-speed-deliveries-11697632017638.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.livemint.com/lm-img/img/2023/10/18/1600x900/im-870484_1697632022016_1697632035154.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/special-report/amazon-introducing-warehouse-overhaul-with-robotics-to-speed-deliveries/amp-11697632017638.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/special-report/amazon-introducing-warehouse-overhaul-with-robotics-to-speed-deliveries/amp-11697632017638.html",
+      "publishedDateTime": "2023-10-18T23:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-19-nvidia-brings-generative-ai-compatibility-to-robotics-platforms.md",
+      "title": "Nvidia brings generative AI compatibility to robotics platforms",
+      "excerpt": "It likely won’t surprise you to learn that generative AI has been a white-hot topic in the world of ... It’s not exactly right, but I don’t have to start from zero. It’s giving me 70%. There are obvious things you can already see that are ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/10/18/nvidia-brings-generative-ai-compatibility-to-robotics-platforms/",
+      "originalUrl": "https://techcrunch.com/2023/10/18/nvidia-brings-generative-ai-compatibility-to-robotics-platforms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 259,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/10/Image-NVIDIA-Jetson-Platform-Expansion.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/10/18/nvidia-brings-generative-ai-compatibility-to-robotics-platforms/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/18/nvidia-brings-generative-ai-compatibility-to-robotics-platforms/amp/",
+      "publishedDateTime": "2023-10-18T23:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-18-amazon-introducing-warehouse-overhaul-with-robotics-to-speed-deliveries.md",
+      "title": "Amazon Introducing Warehouse Overhaul With Robotics to Speed Deliveries",
+      "excerpt": "Amazon.com is introducing an array of new artificial intelligence and robotics capabilities into its warehouse operations that will reduce delivery times and help identify inventory more quickly.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/tech/amazon-introducing-warehouse-overhaul-with-robotics-to-speed-deliveries-40e3e65",
+      "originalUrl": "https://www.wsj.com/tech/amazon-introducing-warehouse-overhaul-with-robotics-to-speed-deliveries-40e3e65",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-870484/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-18T16:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-18-amazon-revamps-warehouses-with-robots-ai-to-reduce-delivery-times.md",
+      "title": "Amazon revamps warehouses with robots, AI to reduce delivery times",
+      "excerpt": "Amazon will add a slew of new robotics and artificial intelligence-technologies into its warehouses in an effort to reduce delivery times and speed up inventory operations, the e-commerce behemoth said Wednesday. The high-tech upgrade — which debuted at ...",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2023/10/18/amazon-revamps-warehouses-with-robots-to-reduce-delivery-times/",
+      "originalUrl": "https://nypost.com/2023/10/18/amazon-revamps-warehouses-with-robots-to-reduce-delivery-times/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2023/10/NYPICHPDPICT000061798828.jpg?quality=75&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2023/10/18/amazon-revamps-warehouses-with-robots-to-reduce-delivery-times/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/10/18/amazon-revamps-warehouses-with-robots-to-reduce-delivery-times/amp/",
+      "publishedDateTime": "2023-10-18T15:47:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-18-aitx-provides-update-on-deployed-rad-security-robots.md",
+      "title": "AITX Provides Update on Deployed RAD Security Robots",
+      "excerpt": "This announcement serves as an affirmation of the Company's commitment to enhancing shareholder value by tracking deployment statistics and revenue milestones. It underscores a strategic pivot towards operational efficiency, cost management, and revenue optimization through accelerated device deployment.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/aitx-provides-update-on-deployed-rad-security-robots-1032717018",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/aitx-provides-update-on-deployed-rad-security-robots-1032717018",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-18T14:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-10-18-fostering-stem-diversity-and-inclusion-through-robotics-and-turkey.md",
+      "title": "Fostering STEM Diversity And Inclusion Through Robotics And Turkey",
+      "excerpt": "A new international educational program engages children in robotics activities to encourage broader youth participation in STEM.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/paologaudiano/2023/10/18/fostering-stem-diversity-and-inclusion-through-robotics-and-turkey/",
+      "originalUrl": "https://www.forbes.com/sites/paologaudiano/2023/10/18/fostering-stem-diversity-and-inclusion-through-robotics-and-turkey/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/652f3d11f7dff00d616267f5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/paologaudiano/2023/10/18/fostering-stem-diversity-and-inclusion-through-robotics-and-turkey/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paologaudiano/2023/10/18/fostering-stem-diversity-and-inclusion-through-robotics-and-turkey/amp/",
+      "publishedDateTime": "2023-10-18T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-18-look-farm-robots-plant-tree-saplings-at-gitex-global-dubai.md",
+      "title": "Look: Farm robots plant tree saplings at Gitex Global Dubai",
+      "excerpt": "The Farm Bot displayed by TDRA at Gitex has two robotic arms: one selects the tree sapling and the other holds the pot where it is planted. There are cameras that monitor precision planting of the sapling. The potted tree sapling is then distributed to visitors at the TDRA stand.",
+      "sourceUrl": null,
+      "webUrl": "https://www.khaleejtimes.com/business/tech/look-farm-robots-plant-tree-saplings-at-gitex-global-dubai",
+      "originalUrl": "https://www.khaleejtimes.com/business/tech/look-farm-robots-plant-tree-saplings-at-gitex-global-dubai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.khaleejtimes.com?uuid=48a07cc6-5d6b-5747-bc4c-435fdb598c42&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.71656&width=1200&height=675&x=1.0E-5&y=0.08439.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.khaleejtimes.com/business/tech/look-farm-robots-plant-tree-saplings-at-gitex-global-dubai?amp=1",
+      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/business/tech/look-farm-robots-plant-tree-saplings-at-gitex-global-dubai?amp=1",
+      "publishedDateTime": "2023-10-18T11:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Khaleej Times",
+        "domain": "khaleejtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-18-amazons-ai-and-robotics-progress-accelerates-warehouse-efficiency-and-safety.md",
+      "title": "Amazon's AI And Robotics Progress Accelerates Warehouse Efficiency and Safety",
+      "excerpt": "The overhaul involves the introduction of AI-powered sortation machines and robotic arms, transforming the dynamics of product movement within Amazon’s fulfillment centers. This innovation will help to augment the productivity and safety of human workers, the Wall Street Journal reports.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/23/10/35304469/amazons-ai-and-robotics-progress-accelerates-warehouse-efficiency-and-safety",
+      "originalUrl": "https://www.benzinga.com/news/23/10/35304469/amazons-ai-and-robotics-progress-accelerates-warehouse-efficiency-and-safety",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/10/18/amazon_warehouse_in_maryland_36906693900.jpg?width=1200&height=800&fit=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/35304469",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35304469",
+      "publishedDateTime": "2023-10-18T11:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-18-northwestern-researchers-create-robot-designing-ai.md",
+      "title": "Northwestern researchers create robot-designing AI",
+      "excerpt": "The Northwestern team gave the AI a prompt to design a robot that can walk across a flat surface, and used the AI's design as blueprints.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/northwestern-researchers-create-robot-designing-ai/",
+      "originalUrl": "https://www.therobotreport.com/northwestern-researchers-create-robot-designing-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/10/northwestern-AI-designed-robot-featured.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-18T05:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-18-ai-industrial-robotics-apac.md",
+      "title": "AI Industrial Robotics - APAC",
+      "excerpt": "The market size in the AI Industrial Robotics market is projected to reach 0.00 in 2023. The market size is expected to show an annual growth rate (CAGR 2023-0) of 0, resulting in a market volume ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/apac",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/apac",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-18T00:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-18-ai-service-robotics-apac.md",
+      "title": "AI Service Robotics - APAC",
+      "excerpt": "The market size in the AI Service Robotics market is projected to reach 0.00 in 2023. The market size is expected to show an annual growth rate (CAGR 2023-0) of 0, resulting in a market volume of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/apac",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/apac",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-18T00:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-18-collaborating-with-ai-and-robots-busting-common-myths.md",
+      "title": "Collaborating with AI and Robots: Busting Common Myths",
+      "excerpt": "The number of AI companies in the UK has increased by 688% over the past decade, and while the advancements in this technology are exciting for many, several myths have popped up that have generated job-related worry among many workers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.automation.com/en-us/articles/october-2023/collaborating-ai-robots-busting-common-myths",
+      "originalUrl": "https://www.automation.com/en-us/articles/october-2023/collaborating-ai-robots-busting-common-myths",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-17T18:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automation",
+        "domain": "automation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-17-a-godfather-of-ai-calls-for-an-organization-to-defend-humanity.md",
+      "title": "A ‘Godfather of AI’ Calls for an Organization to Defend Humanity",
+      "excerpt": "Yoshua Bengio’s pioneering research helped bring about ChatGPT and the current AI boom. Now he’s worried AI could harm civilization and says the future needs a humanity defense organization.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ai-godfather-yoshua-bengio-humanity-defense/",
+      "originalUrl": "https://www.wired.com/story/ai-godfather-yoshua-bengio-humanity-defense/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/652dd6796e42fd8f18e64109/191:100/w_1280,c_limit/GettyImages-1692966368.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-17T09:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-17-ai-takes-over-education-ai-robot-appointed-as-principal-headteacher-at-british-school.md",
+      "title": "AI Takes Over Education! AI Robot Appointed as 'Principal Headteacher' at British School",
+      "excerpt": "The headmaster of Cottesmore School, Tom Rogerson, will now take help from “Abigail” for support and advice on a wide range of issues, including staff support, assisting children with ADHD, and developing school policies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesnownews.com/education/ai-takes-over-education-ai-robot-appointed-as-principal-headteacher-at-british-school-article-104493703",
+      "originalUrl": "https://www.timesnownews.com/education/ai-takes-over-education-ai-robot-appointed-as-principal-headteacher-at-british-school-article-104493703",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tnn.in/thumb/msid-104493996,thumbsize-659590,width-1280,height-720,resizemode-75/104493996.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.timesnownews.com/education/ai-takes-over-education-ai-robot-appointed-as-principal-headteacher-at-british-school-article-104493703/amp",
+      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/education/ai-takes-over-education-ai-robot-appointed-as-principal-headteacher-at-british-school-article-104493703/amp",
+      "publishedDateTime": "2023-10-17T09:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "timesnownews",
+        "domain": "timesnownews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-10-17-china-us-race-to-unleash-killer-ai-robot-soldiers-as-military-power-hangs-in-balance-experts.md",
+      "title": "China, US race to unleash killer AI robot soldiers as military power hangs in balance: experts",
+      "excerpt": "The report warns of \"killer robots\" — AI weapons such as subs ... \"Military technology powered by artificial intelligence is going to forever change warfare.\" Havens argued that the stakes couldn't be higher, saying that allowing China to be the leader ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/china-us-race-unleash-killer-ai-robot-soldiers-military-power-hangs-balance-experts",
+      "originalUrl": "https://www.foxnews.com/us/china-us-race-unleash-killer-ai-robot-soldiers-military-power-hangs-balance-experts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/59977be1-4cd7-45e6-adf4-8286a1ce3fac/33663f25-daab-45fb-8af3-a768c2398dd1/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/china-us-race-unleash-killer-ai-robot-soldiers-military-power-hangs-balance-experts.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/china-us-race-unleash-killer-ai-robot-soldiers-military-power-hangs-balance-experts.amp",
+      "publishedDateTime": "2023-10-17T06:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-17-a-glimpse-into-the-robotics-industry-and-its-future-in-education.md",
+      "title": "A Glimpse Into The Robotics Industry and Its Future in Education",
+      "excerpt": "Welcome to the world of collaborative robotics, where cutting-edge technology meets hands-on learning, igniting the flames of curiosity and innovation in classrooms across the globe.",
+      "sourceUrl": null,
+      "webUrl": "https://themontclarion.org/feature/a-glimpse-into-the-robotics-industry-and-its-future-in-education/",
+      "originalUrl": "https://themontclarion.org/feature/a-glimpse-into-the-robotics-industry-and-its-future-in-education/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://themontclarion.org/wp-content/uploads/2023/10/d07c4b40-5ef1-11ee-9992-afab94927870.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-17T02:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Montclair",
+        "domain": "themontclarion.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-10-17-foxconn-and-nvidia-are-building-ai-factories-to-accelerate-self-driving-cars.md",
+      "title": "Foxconn and Nvidia are building ‘AI factories’ to accelerate self-driving cars",
+      "excerpt": "Nvidia and Foxconn are working together to build so-called “AI factories,” a new class of data centers that promise to provide supercomputing powers to accelerate the development of self-driving cars, autonomous machines and industrial robots.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/10/17/foxconn-and-nvidia-are-building-ai-factories-to-accelerate-self-driving-cars/",
+      "originalUrl": "https://techcrunch.com/2023/10/17/foxconn-and-nvidia-are-building-ai-factories-to-accelerate-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 249,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/10/Screen-Shot-2023-10-18-at-3.18.03-pm.png?resize=1200,604",
+          "width": 1200,
+          "height": 604,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/10/17/foxconn-and-nvidia-are-building-ai-factories-to-accelerate-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/17/foxconn-and-nvidia-are-building-ai-factories-to-accelerate-self-driving-cars/amp/",
+      "publishedDateTime": "2023-10-17T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-10-15-a-blockchain-robotics-and-ai-event-in-vietnam.md",
+      "title": "A Blockchain, Robotics And AI Event In Vietnam",
+      "excerpt": "Blockchain Education Network Vietnam recently held an event titled “Building a Robotics & Artificial Intelligence Ecosystem with Blockchain”. The title alone has three of my favorite things in ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2018/04/27/a-blockchain-robotics-and-ai-event-in-vietnam/",
+      "originalUrl": "https://hackaday.com/2018/04/27/a-blockchain-robotics-and-ai-event-in-vietnam/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-15T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-15-i-do-menial-jobs-to-raise-money-for-building-robots-chima.md",
+      "title": "I do menial jobs to raise money for building robots — Chima",
+      "excerpt": "At times, it could take a month, or some weeks to create a robot with carton boxes, packaging foams, plywood, and other electronic components",
+      "sourceUrl": null,
+      "webUrl": "https://punchng.com/i-do-menial-jobs-to-raise-money-for-building-robots-chima/",
+      "originalUrl": "https://punchng.com/i-do-menial-jobs-to-raise-money-for-building-robots-chima/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.punchng.com/wp-content/uploads/2023/10/14210723/CHIMA-EMMANUEL.jpg",
+          "width": 700,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://punchng.com/i-do-menial-jobs-to-raise-money-for-building-robots-chima/?amp",
+      "cdnAmpWebUrl": "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/i-do-menial-jobs-to-raise-money-for-building-robots-chima/?amp",
+      "publishedDateTime": "2023-10-14T22:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Punch Newspapers",
+        "domain": "punchng.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-15-how-roboticists-are-thinking-about-generative-ai.md",
+      "title": "How roboticists are thinking about generative AI",
+      "excerpt": "It’s not exactly right, but I don’t have to start from zero. It’s giving me 70% ... the MIT CSAIL head explained how researchers are using generative AI to actually design the robots: It turns out that generative AI can be quite powerful for solving ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/10/14/how-roboticists-are-thinking-about-generative-ai/",
+      "originalUrl": "https://techcrunch.com/2023/10/14/how-roboticists-are-thinking-about-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/09/Screenshot-2023-09-16-at-2.58.20 PM.png?resize=1200,714",
+          "width": 1200,
+          "height": 714,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/10/14/how-roboticists-are-thinking-about-generative-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/14/how-roboticists-are-thinking-about-generative-ai/amp/",
+      "publishedDateTime": "2023-10-14T20:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-15-how-are-ai-and-robotics-combining-to-revolutionize-recycling.md",
       "title": "How are AI and robotics combining to revolutionize recycling?",
       "excerpt": "A survey conducted by the Carton Council of North America in 2018 showed that 94 percent of Americans support recycling.",
@@ -267,752 +1368,7 @@
         "AI in Robotics",
         "AI"
       ]
-    },
-    {
-      "path": "_news/2023-10-13-new-ai-algorithm-promises-defense-against-cyberattacks-on-robots.md",
-      "title": "New AI algorithm promises defense against cyberattacks on robots",
-      "excerpt": "The researchers tested their algorithm on a replica of a US Army combat ground vehicle and found it was 99% effective in preventing a malicious attack.",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/innovation/new-ai-algorithm-promises-defense-against-cyberattacks-on-robots",
-      "originalUrl": "https://interestingengineering.com/innovation/new-ai-algorithm-promises-defense-against-cyberattacks-on-robots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dnd2oi6izkvoi.cloudfront.net/2023/10/13/image/jpeg/yslUdwFgtDUykIuSkP5rtdvzU9nhwQYLu9KYcoUc.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-13T12:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-10-13-indias-ai-programme-to-achieve-1-trillion-digital-economy-chandrasekhar.md",
-      "title": "India's AI programme to achieve $1 trillion digital economy: Chandrasekhar",
-      "excerpt": "\"This is a deep, multi-year roadmap to make Indian AI work for being a kinetic enabler of the trillion dollar digital economy,\" Chandrasekhar said. The minister had earlier said the government plans to make India a USD 1-trillion digital economy by 2026.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theweek.in/news/sci-tech/2023/10/13/india-s-ai-programme-to-achieve--1-trillion-digital-economy--cha.html",
-      "originalUrl": "https://www.theweek.in/news/sci-tech/2023/10/13/india-s-ai-programme-to-achieve--1-trillion-digital-economy--cha.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.theweek.in/content/dam/week/magazine/theweek/specials/images/2022/12/3/31-Rajeev-Chandrasekhar.jpg",
-          "width": 760,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.theweek.in/news/sci-tech/2023/10/13/india-s-ai-programme-to-achieve--1-trillion-digital-economy--cha.amp.html",
-      "cdnAmpWebUrl": "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2023/10/13/india-s-ai-programme-to-achieve--1-trillion-digital-economy--cha.amp.html",
-      "publishedDateTime": "2023-10-13T11:13:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Week",
-        "domain": "theweek.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-10-13-artificial-intelligence-will-transform-indian-economy.md",
-      "title": "Artificial Intelligence will transform Indian Economy",
-      "excerpt": "New Delhi: The government is hopeful that India's artificial intelligence (AI) programme is likely to be a kinetic enabler for India to achieve the goal of a $1-trillion digital economy by 2026. Besides, the country’s AI programme will also focus on comprehensive skills in the country and building computer infrastructure among others.",
-      "sourceUrl": null,
-      "webUrl": "https://www.deccanchronicle.com/nation/in-other-news/131023/indias-ai-programme-to-be-kinetic-enabler-to-achieve-1-trillion-di.html",
-      "originalUrl": "https://www.deccanchronicle.com/nation/in-other-news/131023/indias-ai-programme-to-be-kinetic-enabler-to-achieve-1-trillion-di.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-s40itrnobcarmt6el9q9g6sne2-20231007080411.Medi.jpeg",
-          "width": 800,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.deccanchronicle.com/amp/nation/in-other-news/131023/indias-ai-programme-to-be-kinetic-enabler-to-achieve-1-trillion-di.html",
-      "cdnAmpWebUrl": "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/nation/in-other-news/131023/indias-ai-programme-to-be-kinetic-enabler-to-achieve-1-trillion-di.html",
-      "publishedDateTime": "2023-10-13T10:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deccan Chronicle",
-        "domain": "deccanchronicle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-13-the-53-most-promising-climate-tech-startups-of-2023-from-ai-robotics-to-soil-carbon-sampling-according-to-top-vcs.md",
-      "title": "The 53 most promising climate tech startups of 2023, from AI robotics to soil carbon sampling, according to top VCs",
-      "excerpt": "Agriculture, AI, green energy, carbon credits and more, top VCs named the climate startups worldwide that have all the early signs of success.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/most-promising-climate-tech-startups-vcs-2023-10",
-      "originalUrl": "https://www.businessinsider.com/most-promising-climate-tech-startups-vcs-2023-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/651ede686561dd877e719e21?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-13T09:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-13-meity-discloses-the-draft-national-strategy-on-robotics.md",
-      "title": "MeitY discloses the Draft National Strategy on Robotics",
-      "excerpt": "According to the draft, the Indian government’s ‘India AI’ is an umbrella program that takes into account current AI initiatives",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/digital-transformation-meity-discloses-the-draft-national-strategy-on-robotics-3271674/",
-      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-meity-discloses-the-draft-national-strategy-on-robotics-3271674/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/10/Untitled-design-2023-10-13T130618.987.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-meity-discloses-the-draft-national-strategy-on-robotics-3271674/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-meity-discloses-the-draft-national-strategy-on-robotics-3271674/lite/",
-      "publishedDateTime": "2023-10-13T07:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-13-ceva-to-use-robots-from-boston-dynamics-in-los-angeles-facility.md",
-      "title": "CEVA to use robots from Boston Dynamics in Los Angeles facility",
-      "excerpt": "Robots from Boston Dynamics - Stretch and Spot — to support efficiency & security at CEVA's 135,000-sq.-ft. warehouse",
-      "sourceUrl": null,
-      "webUrl": "https://www.stattimes.com/logistics/ceva-to-use-robots-from-boston-dynamics-in-los-angeles-facility-1350070",
-      "originalUrl": "https://www.stattimes.com/logistics/ceva-to-use-robots-from-boston-dynamics-in-los-angeles-facility-1350070",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.stattimes.com/h-upload/2023/10/13/56839-ceva-to-use-robots-from-boston-dynamics-in-los-angeles-facility.jpg",
-          "width": 2500,
-          "height": 1498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.stattimes.com/amp/logistics/ceva-to-use-robots-from-boston-dynamics-in-los-angeles-facility-1350070",
-      "cdnAmpWebUrl": "https://www-stattimes-com.cdn.ampproject.org/c/s/www.stattimes.com/amp/logistics/ceva-to-use-robots-from-boston-dynamics-in-los-angeles-facility-1350070",
-      "publishedDateTime": "2023-10-13T07:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "air cargo",
-        "domain": "stattimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-13-artificial-intelligence-is-disrupting-higher-education.md",
-      "title": "Artificial intelligence is disrupting higher education",
-      "excerpt": "Traditional contact universities need to adapt faster and find creative ways of exploring and exploiting AI, or lose their dominant position.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/Pero37Z3eoOMQb6m",
-      "originalUrl": "https://www.itweb.co.za/content/Pero37Z3eoOMQb6m",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itweb.co.za/static/pictures/2023/09/Rennie-Naidoo-2023.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/Pero37Z3eoOMQb6m",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/Pero37Z3eoOMQb6m",
-      "publishedDateTime": "2023-10-13T07:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-10-13-instant-evolution-new-ai-tool-can-design-robots-from-scratch-in-seconds.md",
-      "title": "\"Instant Evolution\": New AI Tool Can Design Robots From Scratch In Seconds",
-      "excerpt": "\"We discovered a very fast AI-driven design algorithm that bypasses the traffic jams of evolution, without falling back on the bias of human designers,\" Northwestern University's Sam Kriegman, who led the work, was quoted as saying by university's website.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/science/instant-evolution-new-ai-tool-can-design-robots-from-scratch-in-seconds-4477014",
-      "originalUrl": "https://www.ndtv.com/science/instant-evolution-new-ai-tool-can-design-robots-from-scratch-in-seconds-4477014",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2023-10/ac1j7bo8_ai-developed-robot-1200_625x300_13_October_23.jpg",
-          "width": 1200,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/science/instant-evolution-new-ai-tool-can-design-robots-from-scratch-in-seconds-4477014/amp/1",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/science/instant-evolution-new-ai-tool-can-design-robots-from-scratch-in-seconds-4477014/amp/1",
-      "publishedDateTime": "2023-10-13T05:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-13-artificial-general-intelligence-agi-is-one-prompt-away.md",
-      "title": "Artificial General Intelligence (AGI) Is One Prompt Away",
-      "excerpt": "AI technology, artificial intelligence. digital transformation ... The confusion between AI and ML came about because of deep learning, an extension of neural networks to allow for hierarchical connections between layers of neurons, and trained on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/philipmaymin/2023/10/13/artificial-general-intelligence-agi-is-one-prompt-away/",
-      "originalUrl": "https://www.forbes.com/sites/philipmaymin/2023/10/13/artificial-general-intelligence-agi-is-one-prompt-away/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/652a02e4e2a0b80637644ae7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/philipmaymin/2023/10/13/artificial-general-intelligence-agi-is-one-prompt-away/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/philipmaymin/2023/10/13/artificial-general-intelligence-agi-is-one-prompt-away/amp/",
-      "publishedDateTime": "2023-10-13T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-10-12-ai-designs-little-robots-in-30-seconds-and-they-keep-sprouting-legs.md",
-      "title": "AI Designs Little Robots in 30 Seconds and They Keep Sprouting Legs",
-      "excerpt": "“When only large companies, governments and large academic institutions have enough computational power [to design with artificial intelligence], it really limits the diversity of the questions being asked,” Kriegman says. “Increasing the accessibility of these tools is something that’s really exciting.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.scientificamerican.com/article/ai-can-design-an-autonomous-robot-in-30-seconds/",
-      "originalUrl": "https://www.scientificamerican.com/article/ai-can-design-an-autonomous-robot-in-30-seconds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.scientificamerican.com/sciam/cache/file/FC675300-E120-4F74-991B2B0DFC5A9F8D.jpg",
-          "width": 790,
-          "height": 496,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.scientificamerican.com/article/ai-can-design-an-autonomous-robot-in-30-seconds/?amp=true",
-      "cdnAmpWebUrl": "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/ai-can-design-an-autonomous-robot-in-30-seconds/?amp=true",
-      "publishedDateTime": "2023-10-12T12:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Scientific American",
-        "domain": "scientificamerican.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-10-12-government-asks-schools-to-include-skilling-courses-on-drone-3d-printing-robotics-ai.md",
-      "title": "Government Asks Schools To Include Skilling Courses on Drone, 3D Printing, Robotics, AI",
-      "excerpt": "The initiative is in line with the Pradhan Mantri Kaushal Vikas Yojana 4.0, that emphasises on the need for promoting skill development in schools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/education/government-asks-schools-to-include-skilling-courses-on-drone-3d-printing-robotics-ai-4474538",
-      "originalUrl": "https://www.ndtv.com/education/government-asks-schools-to-include-skilling-courses-on-drone-3d-printing-robotics-ai-4474538",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2022-07/atiapkug_cbse-students-generic_625x300_22_July_22.jpg",
-          "width": 650,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/education/government-asks-schools-to-include-skilling-courses-on-drone-3d-printing-robotics-ai-4474538/amp/1",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/education/government-asks-schools-to-include-skilling-courses-on-drone-3d-printing-robotics-ai-4474538/amp/1",
-      "publishedDateTime": "2023-10-12T10:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-12-godfather-of-ai-geoffrey-hinton-named-advisory-board-member-for-startup-vayu-robotics.md",
-      "title": "Godfather of AI Geoffrey Hinton named advisory board member for startup Vayu Robotics",
-      "excerpt": "British-Canadian computer scientist, Geoffrey Hinton, who is known as the ‘Godfather of AI’ has joined the advisory board of robotics startup, Vayu Robotics. Hinton, who worked part-time with Google Brain as a VP and Engineering Fellow for over a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/sci-tech/technology/godfather-of-ai-geoffrey-hinton-named-advisory-board-member-for-startup-vayu-robotics/article67411253.ece",
-      "originalUrl": "https://www.thehindu.com/sci-tech/technology/godfather-of-ai-geoffrey-hinton-named-advisory-board-member-for-startup-vayu-robotics/article67411253.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://th-i.thgim.com/public/incoming/y8vraf/article67022092.ece/alternates/FREE_320/2023-06-28T005416Z_2054233180_RC21P1AHDHHZ_RTRMADP_3_DATABRICKS-AI.JPG",
-          "width": 320,
-          "height": 213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/godfather-of-ai-geoffrey-hinton-named-advisory-board-member-for-startup-vayu-robotics/article67411253.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/godfather-of-ai-geoffrey-hinton-named-advisory-board-member-for-startup-vayu-robotics/article67411253.ece/amp/",
-      "publishedDateTime": "2023-10-12T09:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-12-motion-control-software-in-robotics-market-share-2023-including-top-companies-and-forecast-to-2031.md",
-      "title": "Motion Control Software in Robotics Market Share 2023 Including Top Companies and Forecast to 2031",
-      "excerpt": "The latest report on the 'Global Motion Control Software in Robotics Market' is 200 pages long and includes a number of tables and figures. This report covers the period from 2023 to 2031 and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/10/35186408/motion-control-software-in-robotics-market-share-2023-including-top-companies-and-forecast-to-2031",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/10/35186408/motion-control-software-in-robotics-market-share-2023-including-top-companies-and-forecast-to-2031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/35186408",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35186408",
-      "publishedDateTime": "2023-10-12T02:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-12-generative-ai-is-top-of-mind-for-all-types-of-leaders-from-treasury-secretary-janet-yellen-to-jj-ceo-joaquin-duato.md",
-      "title": "Generative AI is top of mind for all types of leaders, from Treasury Secretary Janet Yellen to J&J CEO Joaquin Duato",
-      "excerpt": "This week’s episode of Fortune‘s Leadership Next podcast features conversations from the Fortune CEO Initiative conference.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/generative-ai-top-mind-types-161500257.html?ref=biztoc.com",
-      "originalUrl": "https://www.aol.com/generative-ai-top-mind-types-161500257.html?ref=biztoc.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/eP4Xik6pZytPhOV0QqgjcA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/5703ec16a09a02c946b4b519c6968b09",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T19:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-new-cyber-algorithm-shuts-down-malicious-robotic-attack.md",
-      "title": "New cyber algorithm shuts down malicious robotic attack",
-      "excerpt": "cyberattack on an unmanned military robot and shut it down in seconds. In an experiment using deep learning neural networks to simulate the behaviour of the human brain, artificial intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/10/231011202416.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/10/231011202416.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-the-best-walmart-anti-prime-day-deals-include-laptops-robot-vacuums-and-luggage.md",
-      "title": "The best Walmart anti-Prime Day deals include laptops, robot vacuums and luggage",
-      "excerpt": "The best anti-Prime-Day deals we're following at Walmart is the 15.6-inch HP laptop shown above. The Windows 11 device features an Intel Pentium N200 processor, 4GB of RAM and 128 GB of storage. Regularly $249,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/best-deals-at-the-walmart-holiday-kick-off-sale/?ftag=",
-      "originalUrl": "https://www.cbsnews.com/essentials/best-deals-at-the-walmart-holiday-kick-off-sale/?ftag=",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/10/10/e1d48de4-9b42-4649-b3a6-506e2b91cc83/thumbnail/1200x630/3b6a272312cd4baf581cf3f30cb5fe19/walmart-holiday-kickoff-sale.jpg?v=4fae59acf57b6bb1efa9da07582ebc40",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-10T20:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-georgia-state-receives-10-million-artificial-intelligence-research-grant.md",
-      "title": "Georgia State receives $10 million artificial intelligence research grant",
-      "excerpt": "Jonathan Shihao Ji, a computer science professor at Georgia State University, has received a $10 million grant from the Department of Defense to address critical problems in artificial",
-      "sourceUrl": null,
-      "webUrl": "https://www.albanyherald.com/news/georgia-state-receives-10-million-artificial-intelligence-research-grant/article_da39c0c6-67a8-11ee-a6be-031c478965b6.html",
-      "originalUrl": "https://www.albanyherald.com/news/georgia-state-receives-10-million-artificial-intelligence-research-grant/article_da39c0c6-67a8-11ee-a6be-031c478965b6.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-10T20:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Albany Herald",
-        "domain": "albanyherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 7
 }

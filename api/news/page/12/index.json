@@ -2,27 +2,45 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2023-11-16-the-trends-of-2023-artificial-intelligence.md",
-      "title": "The trends of 2023: artificial intelligence",
-      "excerpt": "Grigory Mindlin, general manager for broadcast at disguise, says that the dawn of AI is bringing new sorts of discussions into the broadcast industry… and that doesn’t have to be a bad thing! What industry trends have particularly stood out for you in ...",
+      "path": "_news/2023-11-28-new-amazon-lex-ai-features-aim-to-let-developers-quickly-build-enhance-bots.md",
+      "title": "New Amazon Lex AI features aim to let developers quickly build, enhance bots",
+      "excerpt": "Lex is part of Amazon’s AI strategy, including building its LLM. The model, codenamed “Olympus,” is customized to Amazon’s needs and has 2 trillion parameters, making it twice the size of OpenAI’s GPT-4, which has over 1 trillion parameters.",
       "sourceUrl": null,
-      "webUrl": "https://www.tvbeurope.com/artificial-intelligence/the-trends-of-2023-artificial-intelligence",
-      "originalUrl": "https://www.tvbeurope.com/artificial-intelligence/the-trends-of-2023-artificial-intelligence",
+      "webUrl": "https://www.infoworld.com/article/3711441/new-amazon-lex-ai-features-aim-to-let-developers-quickly-build-enhance-bots.html",
+      "originalUrl": "https://www.infoworld.com/article/3711441/new-amazon-lex-ai-features-aim-to-let-developers-quickly-build-enhance-bots.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 101,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2021/12/it_professionals_programmers_engineers_developers_in_a_modern_workspace_by_gorodenkoff_shutterstock_1798108843_creative_digital-only_2400x1600-100913014-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-16T06:29:00Z",
+      "ampWebUrl": "https://www.infoworld.com/article/3711441/new-amazon-lex-ai-features-aim-to-let-developers-quickly-build-enhance-bots.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711441/new-amazon-lex-ai-features-aim-to-let-developers-quickly-build-enhance-bots.amp.html",
+      "publishedDateTime": "2023-11-27T22:22:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "tvbeurope.com",
-        "domain": "tvbeurope.com",
-        "images": null,
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -31,26 +49,26 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI"
+        "AI",
+        "AWS AI"
       ]
     },
     {
-      "path": "_news/2023-11-16-nvidia-stock-nasdaqnvda-striving-for-ai-dominance-with-new-chip-launch.md",
-      "title": "Nvidia Stock (NASDAQ:NVDA): Striving for AI Dominance with New Chip Launch",
-      "excerpt": "Nvidia (NASDAQ:NVDA), a leading global chipmaker, has emerged as a big winner in AI technology, and the company is striving for dominance in",
+      "path": "_news/2023-11-28-to-get-the-most-from-generative-ai-data-is-your-differentiator.md",
+      "title": "To Get the Most from Generative AI, Data is Your Differentiator",
+      "excerpt": "One approach is to start with data that fits the needs of specific business-focused use cases. Building on this success, generative AI can then be released rapidly and securely to help achieve key objectives, such as enhancing customer experiences ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/nvidia-stock-nasdaq-nvda-striving-for-ai-dominance-with-new-chip-launch-1032828581",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/nvidia-stock-nasdaq-nvda-striving-for-ai-dominance-with-new-chip-launch-1032828581",
+      "webUrl": "https://www.wired.com/sponsored/story/to-get-the-most-from-generative-ai-data-is-your-differentiator/",
+      "originalUrl": "https://www.wired.com/sponsored/story/to-get-the-most-from-generative-ai-data-is-your-differentiator/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 77,
       "tags": null,
       "images": [
         {
-          "url": "https://blog.tipranks.com/wp-content/uploads/2023/11/image-434.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-          "width": 781,
-          "height": 440,
+          "url": "https://media.wired.com/photos/655cb6c1b6c146c11f46ef4a/191:100/w_1280,c_limit/AdobeStock_447199446.jpeg",
+          "width": 1280,
+          "height": 670,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -60,14 +78,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-16T04:16:00Z",
+      "publishedDateTime": "2023-11-27T21:30:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "Wired",
+        "domain": "wired.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -75,6 +93,48 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-28-groq-says-it-can-deploy-1-million-ai-inference-chips-in-two-years.md",
+      "title": "Groq Says It Can Deploy 1 Million AI Inference Chips In Two Years",
+      "excerpt": "If you are looking for an alternative to Nvidia GPUs for AI inference – and who isn’t these days with generative AI being the hottest thing since a volcanic eruption – then you might want to give Groq a call.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2023/11/27/groq-says-it-can-deploy-1-million-ai-inference-chips-in-two-years/",
+      "originalUrl": "https://www.nextplatform.com/2023/11/27/groq-says-it-can-deploy-1-million-ai-inference-chips-in-two-years/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.nextplatform.com/wp-content/uploads/2020/09/GroqMain.jpg",
+          "width": 1065,
+          "height": 507,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2023/11/27/groq-says-it-can-deploy-1-million-ai-inference-chips-in-two-years/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/11/27/groq-says-it-can-deploy-1-million-ai-inference-chips-in-two-years/amp/",
+      "publishedDateTime": "2023-11-27T21:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -88,529 +148,19 @@
       ]
     },
     {
-      "path": "_news/2023-11-16-azure-gets-new-nvidia-service-for-developing-custom-genai-apps.md",
-      "title": "Azure gets new Nvidia service for developing custom GenAI apps",
-      "excerpt": "Announced at Microsoft Ignite 2023 this week, the new service is called Nvidia AI Foundry, and it gives businesses a collection of “commercially viable” GenAI foundation models, developed by Nvidia and third parties, they can customise using Nvidia’s NeMo framework and tools.",
+      "path": "_news/2023-11-28-new-stable-video-diffusion-ai-model-can-animate-any-still-image.md",
+      "title": "New “Stable Video Diffusion” AI model can animate any still image",
+      "excerpt": "On Tuesday, Stability AI released Stable Video Diffusion, a new free AI research tool that can turn any still image into a short video—with mixed results. It's an open-weights preview of two AI models that use a technique called image-to-video, and it can run locally on a machine with an Nvidia GPU.",
       "sourceUrl": null,
-      "webUrl": "https://www.crn.com.au/news/azure-gets-new-nvidia-service-for-developing-custom-genai-apps-602431",
-      "originalUrl": "https://www.crn.com.au/news/azure-gets-new-nvidia-service-for-developing-custom-genai-apps-602431",
+      "webUrl": "https://arstechnica.com/information-technology/2023/11/stability-ai-releases-stable-video-diffusion-which-turns-pictures-into-short-videos/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/11/stability-ai-releases-stable-video-diffusion-which-turns-pictures-into-short-videos/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 99,
       "tags": null,
       "images": [
         {
-          "url": "https://i.nextmedia.com.au/News/crn-690_artificial_intelligence_ai_chatbot.jpg",
-          "width": 690,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-16T03:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN Australia",
-        "domain": "crn.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-16-talking-points-how-concerned-should-we-be-over-artificial-intelligence.md",
-      "title": "Talking Points: How concerned should we be over artificial intelligence?",
-      "excerpt": "MINNEAPOLIS— In a world of artificial intelligence, many are asking \"What's real?\" Or \"What's fake?\" Or \"What our information is being used for?\" Now more than ever, it's worth taking a look at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/minnesota/news/artificial-intelligence-ai-concerns-political-ads-deepfakes-medical-breakthroughs/",
-      "originalUrl": "https://www.cbsnews.com/minnesota/news/artificial-intelligence-ai-concerns-political-ads-deepfakes-medical-breakthroughs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/05/30/b0af8181-af32-490a-ab05-fbbf97de4c12/thumbnail/1200x630/1a6cd3d5d08f273ce42312cb6cdb5d1b/ai.jpg?v=5659e73acd91751548aa89950cf015b0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/minnesota/news/artificial-intelligence-ai-concerns-political-ads-deepfakes-medical-breakthroughs/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/minnesota/news/artificial-intelligence-ai-concerns-political-ads-deepfakes-medical-breakthroughs/",
-      "publishedDateTime": "2023-11-16T02:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-11-16-amazon-from-aws-to-retail-stores-and-more-the-company-that-jeff-bezos-built.md",
-      "title": "Amazon: From AWS to retail stores and more, the company that Jeff Bezos built",
-      "excerpt": "An envelope. It indicates the ability to send an email. An curved arrow pointing right. Amazon is a massive tech company that provides e-commerce, cloud, streaming, and digital advertising services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/amazon",
-      "originalUrl": "https://www.businessinsider.com/amazon",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6555d7b54ca513d8242a5c43?width=1200&format=jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/amazon?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon?amp",
-      "publishedDateTime": "2023-11-16T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-16-aws-introduces-amazon-linux-2023-runtime-for-lambda.md",
-      "title": "AWS Introduces Amazon Linux 2023 Runtime for Lambda",
-      "excerpt": "In this episode, Thomas Betts talks with Pamela Fox, a cloud advocate in Python at Microsoft. They discuss several ChatGPT sample apps that Pamela helps maintain. These include a very popular integration of ChatGPT with Azure OpenAI and Cognitive Search ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2023/11/al2023-aws-lambda-functions/",
-      "originalUrl": "https://www.infoq.com/news/2023/11/al2023-aws-lambda-functions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2023/11/al2023-aws-lambda-functions/en/headerimage/generatedHeaderImage-1699990491608.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-16T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-16-cu-mansfield-voice-students-win-recognition-at-nats-student-auditions.md",
-      "title": "CU-Mansfield Voice students win recognition at NATS Student Auditions",
-      "excerpt": "Voice students from Commonwealth University-Mansfield recently won recognition at the Allegheny Mountain Chapter National Association of Teachers of Singing Student Auditions, held Nov. 4 at CU-Mansfield.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tiogapublishing.com/the_wellsboro_mansfield_gazette/community/cu-mansfield-voice-students-win-recognition-at-nats-student-auditions/article_f27a9de2-8245-11ee-bbc0-838ea6ce05be.html",
-      "originalUrl": "https://www.tiogapublishing.com/the_wellsboro_mansfield_gazette/community/cu-mansfield-voice-students-win-recognition-at-nats-student-auditions/article_f27a9de2-8245-11ee-bbc0-838ea6ce05be.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/tiogapublishing.com/content/tncms/assets/v3/editorial/4/de/4de07c8c-8247-11ee-8efd-03aac0fe568b/6552585aecbf5.image.jpg?crop=870%2C456%2C288%2C504&resize=870%2C456&order=crop%2Cresize",
-          "width": 870,
-          "height": 456,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-16T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TiogaPublishing.com",
-        "domain": "tiogapublishing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-16-hearing-on-artificial-intelligence-scams.md",
-      "title": "Hearing on Artificial Intelligence & Scams",
-      "excerpt": "The Senate Aging Committee held a hearing to examine how scammers are using artificial intelligence to create voice clones and deepfakes to… read more The Senate Aging Committee held a hearing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.c-span.org/video/?531903-1/hearing-artificial-intelligence-scams",
-      "originalUrl": "https://www.c-span.org/video/?531903-1/hearing-artificial-intelligence-scams",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-16T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "c-span",
-        "domain": "c-span.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-16-reactor-physics-research-advanced-neural-networks-reveal-new-potential-in-solving-k-eigenvalue-problems.md",
-      "title": "Reactor physics research: Advanced neural networks reveal new potential in solving K-eigenvalue problems",
-      "excerpt": "This study introduced two pioneering neural networks, the Generalized Inverse Power Method Neural Network (GIPMNN) and its advanced version, the Physics-Constrained GIPMNN (PC-GIPMNN), to address ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-11-reactor-physics-advanced-neural-networks.html",
-      "originalUrl": "https://phys.org/news/2023-11-reactor-physics-advanced-neural-networks.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/breakthrough-in-reacto.jpg",
-          "width": 1769,
-          "height": 1745,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-11-reactor-physics-advanced-neural-networks.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-11-reactor-physics-advanced-neural-networks.amp",
-      "publishedDateTime": "2023-11-16T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-16-scale-ai-to-enable-enterprises-to-customize-large-language-models-and-build-robust-generative-ai-applications-on-microsoft-azure.md",
-      "title": "Scale AI to Enable Enterprises to Customize Large Language Models and Build Robust Generative AI Applications on Microsoft Azure",
-      "excerpt": "Scale AI, the data engine that powers the most advanced AI applications, today announced a collaboration with Microsoft at Microsoft Ignite to deliver",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20231115149949/en/Scale-AI-to-Enable-Enterprises-to-Customize-Large-Language-Models-and-Build-Robust-Generative-AI-Applications-on-Microsoft-Azure",
-      "originalUrl": "https://www.businesswire.com/news/home/20231115149949/en/Scale-AI-to-Enable-Enterprises-to-Customize-Large-Language-Models-and-Build-Robust-Generative-AI-Applications-on-Microsoft-Azure",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-16T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-16-the-minds-eye-of-a-neural-network-system.md",
-      "title": "The mind's eye of a neural network system",
-      "excerpt": "Aug. 31, 2023 — An artificial intelligence with the ability to look inward and fine tune its own neural network performs better when it chooses diversity over lack of diversity, a new study ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/11/231116141058.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/11/231116141058.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-16T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-16-what-does-the-python-if-name-equals-main-construct-do.md",
-      "title": "What does the Python 'if name equals main' construct do?",
-      "excerpt": "Use it to evaluate features... Deploy ML on edge devices with SageMaker, IoT Greengrass Amazon SageMaker, ONNX and AWS IoT Greengrass help deploy machine learning models to edge devices. Steps include component",
-      "sourceUrl": null,
-      "webUrl": "https://www.theserverside.com/tip/What-does-the-Python-if-name-equals-main-construct-do",
-      "originalUrl": "https://www.theserverside.com/tip/What-does-the-Python-if-name-equals-main-construct-do",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ttgtmedia.com/rms/onlineimages/code_g1289411982.jpg",
-          "width": 1200,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-16T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheServerSide",
-        "domain": "theserverside.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-16-how-machine-learning-is-powering-a-financial-services-revolution.md",
-      "title": "How machine learning is powering a financial services revolution",
-      "excerpt": "The promise of machine learning brings new opportunities and new questions ... These technologies are now gaining momentum in the financial services sector, most prominently in areas of application that include analysing credit risk and detecting illegal ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-reporter.co.uk/finance/how-machine-learning-is-powering-a-financial-services-revolution",
-      "originalUrl": "https://www.business-reporter.co.uk/finance/how-machine-learning-is-powering-a-financial-services-revolution",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/004/iStock-1168105746.jpg",
-          "width": 1199,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T23:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "business-reporter.co.uk",
-        "domain": "business-reporter.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-11-16-new-deep-learning-ai-tool-helps-ecologists-monitor-rare-birds-through-their-songs.md",
-      "title": "New deep learning AI tool helps ecologists monitor rare birds through their songs",
-      "excerpt": "Researchers have developed a new deep learning AI tool that generates life-like birdsongs to train bird identification tools, helping ecologists to monitor rare species in the wild.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/11/231115113302.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/11/231115113302.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T22:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-16-its-back-targeted-amex-card-holders-can-get-up-to-50-off-at-amazon.md",
-      "title": "It’s back: Targeted Amex card holders can get up to 50% off at Amazon",
-      "excerpt": "While that’s true, there’s another lesser-known use for them — redeeming them for purchases at Amazon. Right now, you may be eligible for an Amazon promotion where you can save big on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/cnn-underscored/deals/amazon-amex-discount-promotion",
-      "originalUrl": "https://www.cnn.com/cnn-underscored/deals/amazon-amex-discount-promotion",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/210619011335-underscored-amazon-boxes-with-prime-tape.jpg?q=x_0,y_0,h_1800,w_3198,c_fill/w_800",
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/svd_hero_2-800x450.jpg",
           "width": 800,
           "height": 450,
           "title": null,
@@ -620,61 +170,9 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/cnn-underscored/deals/amazon-amex-discount-promotion",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/cnn-underscored/deals/amazon-amex-discount-promotion",
-      "publishedDateTime": "2023-11-15T22:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-16-holy-chips-microsofts-new-ai-silicon-will-power-its-chatty-assistants.md",
-      "title": "Holy chips! Microsoft’s new AI silicon will power its chatty assistants",
-      "excerpt": "Amid chip shortages that have driven up the prices of highly sought-after Nvidia AI GPUs, several companies have been designing or considering designing their own AI accelerator chips, including Amazon, OpenAI, IBM, and AMD. Microsoft also felt the need to make a custom silicon to push its own services to the fore.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/11/microsoft-launches-custom-chips-to-accelerate-its-plans-for-ai-domination/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/11/microsoft-launches-custom-chips-to-accelerate-its-plans-for-ai-domination/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/azure_maia_100_chip_1-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/11/microsoft-launches-custom-chips-to-accelerate-its-plans-for-ai-domination/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/11/microsoft-launches-custom-chips-to-accelerate-its-plans-for-ai-domination/amp/",
-      "publishedDateTime": "2023-11-15T21:53:00Z",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/11/stability-ai-releases-stable-video-diffusion-which-turns-pictures-into-short-videos/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/11/stability-ai-releases-stable-video-diffusion-which-turns-pictures-into-short-videos/amp/",
+      "publishedDateTime": "2023-11-27T20:27:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Ars Technica",
@@ -698,60 +196,25 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-16-techbrew-robotics-rebrands-as-4ag-robotics-raises-175m-to-solve-the-mushroom-harvesting-challenge-with-robotics.md",
-      "title": "TechBrew Robotics rebrands as 4AG Robotics, raises $17.5m to solve the mushroom harvesting challenge with robotics",
-      "excerpt": "AG has developed an autonomous harvesting robot it says can greatly alleviate labor challenges in the mushroom industry.",
-      "sourceUrl": null,
-      "webUrl": "https://agfundernews.com/techbrew-robotics-rebrands-as-4ag-robotics-raises-17-5m-to-solve-the-mushroom-harvesting-challenge-with-robotics",
-      "originalUrl": "https://agfundernews.com/techbrew-robotics-rebrands-as-4ag-robotics-raises-17-5m-to-solve-the-mushroom-harvesting-challenge-with-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T20:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ag Funder News",
-        "domain": "agfundernews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-11-16-dan-odowd-wants-tesla-to-fix-its-self-driving-program-before-it-kills-more-people.md",
-      "title": "Dan O’Dowd Wants Tesla to Fix Its Self-Driving Program Before It Kills More People",
-      "excerpt": "He believes the self-driving software that Tesla uses will kill people. To get the word out, O’Dowd ran for the U.S. Senate on the single issue in 2022, bought a full-page ad in the New York Times last November, and placed a 30-second Super Bowl commerci ...",
+      "path": "_news/2023-11-28-opinion-nvidia-looks-poised-to-lead-ai-but-theres-one-big-question-about-its-growth.md",
+      "title": "Opinion: Nvidia looks poised to lead AI — but there’s one big question about its growth",
+      "excerpt": "The driver of this growth is its data center segment, responsible for the GPU (graphics processing units) and chips that have been powering high-performance computing...",
       "sourceUrl": null,
-      "webUrl": "https://www.independent.com/2023/06/23/dan-odowd-wants-tesla-to-fix-its-self-driving-program-before-it-kills-more-people/",
-      "originalUrl": "https://www.independent.com/2023/06/23/dan-odowd-wants-tesla-to-fix-its-self-driving-program-before-it-kills-more-people/",
+      "webUrl": "https://www.marketwatch.com/story/nvidia-looks-poised-to-lead-ai-but-theres-one-big-question-about-its-growth-80a41f77",
+      "originalUrl": "https://www.marketwatch.com/story/nvidia-looks-poised-to-lead-ai-but-theres-one-big-question-about-its-growth-80a41f77",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 91,
       "tags": null,
       "images": [
         {
-          "url": "https://www.independent.com/wp-content/uploads/2023/06/Tesla-fails-bus-stop-test-e1687556803267.jpg",
-          "width": 1200,
-          "height": 801,
+          "url": "https://images.mktw.net/im-747436/social",
+          "width": 1280,
+          "height": 640,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -759,59 +222,16 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.independent.com/2023/06/23/dan-odowd-wants-tesla-to-fix-its-self-driving-program-before-it-kills-more-people/?amp=1",
-      "cdnAmpWebUrl": "https://www-independent-com.cdn.ampproject.org/c/s/www.independent.com/2023/06/23/dan-odowd-wants-tesla-to-fix-its-self-driving-program-before-it-kills-more-people/?amp=1",
-      "publishedDateTime": "2023-11-15T19:29:00Z",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/nvidia-looks-poised-to-lead-ai-but-theres-one-big-question-about-its-growth-80a41f77",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-looks-poised-to-lead-ai-but-theres-one-big-question-about-its-growth-80a41f77",
+      "publishedDateTime": "2023-11-27T20:19:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Santa Barbara Independent",
-        "domain": "independent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-16-microsoft-ignite-2023-all-the-ai-news-from-microsofts-it-pro-event.md",
-      "title": "Microsoft Ignite 2023: all the AI news from Microsoft’s IT pro event",
-      "excerpt": "Windows AI Studio allows developers to access development tools and models from the existing Azure AI Studio and other services like Hugging Face. It also offers an end-to-end “guided workspace ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/23961007/microsoft-ignite-2023-news-ai-announcements-copilot-windows-azure-office",
-      "originalUrl": "https://www.theverge.com/23961007/microsoft-ignite-2023-news-ai-announcements-copilot-windows-azure-office",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/5X0IGMLrTUsRnyo97W-GRqDZBiA=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24347781/STK095_Microsoft_03.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T18:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -827,26 +247,26 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "AI Hardware",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-11-16-ai-is-already-being-melded-with-robotics-one-outcome-could-be-powerful-new-weapons.md",
-      "title": "AI is already being melded with robotics – one outcome could be powerful new weapons",
-      "excerpt": "Robot dogs aren’t aiming weapons at opposing forces just yet. But all the elements are there for this scenario to become a reality, if left unchecked. The fast pace of development in both AI and robotics is creating a perfect storm that could lead to powerful new weapons.",
+      "path": "_news/2023-11-27-aws-ai-services-enhanced-with-fm-powered-capabilities.md",
+      "title": "AWS AI services enhanced with FM-powered capabilities",
+      "excerpt": "Artificial intelligence (AI) continues to transform how we do business and serve our customers. AWS offers a range of pre-trained AI services that provide ready-to-use intelligence for your applications. In this post, we explore the new AI service capabilities and how they are enhanced using foundation",
       "sourceUrl": null,
-      "webUrl": "https://theconversation.com/ai-is-already-being-melded-with-robotics-one-outcome-could-be-powerful-new-weapons-216576",
-      "originalUrl": "https://theconversation.com/ai-is-already-being-melded-with-robotics-one-outcome-could-be-powerful-new-weapons-216576",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-ai-services-enhanced-with-fm-powered-capabilities/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-ai-services-enhanced-with-fm-powered-capabilities/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 184,
       "tags": null,
       "images": [
         {
-          "url": "https://images.theconversation.com/files/558680/original/file-20231109-17-g4bq03.jpeg?ixlib=rb-1.1.0&rect=0%2C763%2C5602%2C2801&q=45&auto=format&w=1356&h=668&fit=crop",
-          "width": 1356,
-          "height": 668,
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/22/ML-15745-image003.jpg",
+          "width": 594,
+          "height": 506,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -856,11 +276,63 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T17:44:00Z",
+      "publishedDateTime": "2023-11-27T16:03:39Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-27-privacera-ai-governance-integrates-with-aws-on-foundational-model-security.md",
+      "title": "Privacera AI Governance Integrates with AWS on Foundational Model Security",
+      "excerpt": "Last month, Privacera announced the General Availability of Privacera AI Governance (PAIG), one of the industry's first comprehensive AI data governance solutions. Visit Privacera's website to request a demo on PAIG or to learn about generative AI Governance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-privacera-ai-governance-integrates-with-aws-foundational-model-/2023/11/27/9923370.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-privacera-ai-governance-integrates-with-aws-foundational-model-/2023/11/27/9923370.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1192069/Privacera_Logo.jpg",
+          "width": 266,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-27T15:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -870,36 +342,28 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI"
+        "AWS AI",
+        "AI",
+        "AI in Security"
       ]
     },
     {
-      "path": "_news/2023-11-16-deepminds-new-ai-could-help-forecast-extreme-weather-faster.md",
-      "title": "Deepmind's new AI could help forecast extreme weather faster",
-      "excerpt": "An curved arrow pointing right. New research has shown that an AI model developed by Google-owned Deepmind has outperformed traditional weather forecasters for the first time. The peer-reviewed ...",
+      "path": "_news/2023-11-27-qlik-expands-customers-ability-to-scale-ai-for-impact-with-aws.md",
+      "title": "Qlik Expands Customers’ Ability to Scale AI for Impact with AWS",
+      "excerpt": "LAS VEGAS, Nov. 27, 2023 (GLOBE NEWSWIRE) -- Qlik ® is helping its customers embrace and scale the power of large language models (LLMs) and generative artificial intelligence (AI) with Amazon Web Services (AWS) through new integrations and AI-powered solutions.",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/google-deepmind-ai-weather-forecast-accuracy-2023-11",
-      "originalUrl": "https://www.businessinsider.com/google-deepmind-ai-weather-forecast-accuracy-2023-11",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/qlik-expands-customers-ability-to-scale-ai-for-impact-with-aws-1032851221",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/qlik-expands-customers-ability-to-scale-ai-for-impact-with-aws-1032851221",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 84,
       "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6554b3f522cf74a573978da2?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/google-deepmind-ai-weather-forecast-accuracy-2023-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-deepmind-ai-weather-forecast-accuracy-2023-11?amp",
-      "publishedDateTime": "2023-11-15T17:24:00Z",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-27T14:18:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -922,120 +386,34 @@
         "news"
       ],
       "topics": [
-        "Google AI",
+        "AWS AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-11-16-deepl-rides-high-amid-ai-translation-boom.md",
-      "title": "DeepL rides high amid AI translation boom",
-      "excerpt": "Data provider Statista forecasts that the global market for AI-based translation (specifically “natural language processing”, or NLP) will grow from about $5bn in 2023 to about $12bn by 2030.",
+      "path": "_news/2023-11-27-ibm-watsonx-ai-and-data-platform-security-solutions-and-consulting-services-for-generative-ai-to-be-showcased-at-aws-reinvent.md",
+      "title": "IBM watsonx AI and data platform, security solutions and consulting services for generative AI to be showcased at AWS re:Invent",
+      "excerpt": "During AWS re:Invent, IBM will be unveiling several exciting pieces of news about our fast-growing partnerships.\nThe post IBM watsonx AI and data platform, security solutions and consulting services for generative AI to be showcased at AWS re:Invent appeared first on IBM Blog.\n",
       "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/a4f7f5b6-6c42-4df0-8529-a82b526869ac",
-      "originalUrl": "https://www.ft.com/content/a4f7f5b6-6c42-4df0-8529-a82b526869ac",
+      "webUrl": "https://www.ibm.com/blog/security-solutions-and-consulting-services-for-generative-ai/",
+      "originalUrl": "https://www.ibm.com/blog/security-solutions-and-consulting-services-for-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F127f3bc8-487b-4b0b-8f33-3f0ae9ea9e89.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T16:56:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-16-ibm-launches-watsonxgovernance-to-optimize-ai-management.md",
-      "title": "IBM Launches Watsonx.governance to Optimize AI Management",
-      "excerpt": "International Business Machines Corporation IBM recently unveiled watsonx.governance, a new addition to its WatsonX AI solution suite, aimed at enhancing the management and monitoring of AI models ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/ibm-launches-watsonx.governance-to-optimize-ai-management",
-      "originalUrl": "https://www.nasdaq.com/articles/ibm-launches-watsonx.governance-to-optimize-ai-management",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
+      "heat": 370,
       "tags": null,
       "images": null,
       "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T16:07:00Z",
+      "publishedDateTime": "2023-11-27T14:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-16-microsoft-looks-to-free-itself-from-gpu-shackles-by-designing-custom-ai-chips.md",
-      "title": "Microsoft looks to free itself from GPU shackles by designing custom AI chips",
-      "excerpt": "Most companies developing AI models, particularly generative AI models ... We also know that Maia 100’s physical package is larger than a typical GPU’s. Microsoft says that it had to build ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/11/15/microsoft-looks-to-free-itself-from-gpu-shackles-by-designing-custom-ai-chips/",
-      "originalUrl": "https://techcrunch.com/2023/11/15/microsoft-looks-to-free-itself-from-gpu-shackles-by-designing-custom-ai-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/07/microsoft-getty-hacks-government.jpg?resize=1200,816",
-          "width": 1200,
-          "height": 816,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/11/15/microsoft-looks-to-free-itself-from-gpu-shackles-by-designing-custom-ai-chips/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/15/microsoft-looks-to-free-itself-from-gpu-shackles-by-designing-custom-ai-chips/amp/",
-      "publishedDateTime": "2023-11-15T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
+        "name": "IBM",
+        "domain": "ibm.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1051,27 +429,71 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
+        "IBM AI",
         "AI",
-        "Microsoft AI"
+        "AI in Security",
+        "AWS AI"
       ]
     },
     {
-      "path": "_news/2023-11-16-microsoft-turbocharges-ai-development-with-fabric-azure-ai-studio-and-database-updates.md",
-      "title": "Microsoft turbocharges AI development with Fabric, Azure AI Studio and database updates",
-      "excerpt": "Check out our full coverage of Microsoft Ignite in these stories: The company also announced the launch of Azure AI Studio, which brings innovations such as enhanced AI search capabilities and ...",
+      "path": "_news/2023-11-27-new-multi-national-ai-security-guidelines-are-toothless-and-weak.md",
+      "title": "New multi-national AI security guidelines are toothless and weak",
+      "excerpt": "The United States, United Kingdom, and 16 other countries want to keep the development of AI systems secure, but a framework issued by the group offers common sense recommendations, and lacks firm action points.",
       "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/11/15/microsoft-turbocharges-ai-development-fabric-azure-ai-studio-database-updates/",
-      "originalUrl": "https://siliconangle.com/2023/11/15/microsoft-turbocharges-ai-development-fabric-azure-ai-studio-database-updates/",
+      "webUrl": "https://appleinsider.com/articles/23/11/27/new-multi-national-ai-security-guidelines-are-toothless-and-weak",
+      "originalUrl": "https://appleinsider.com/articles/23/11/27/new-multi-national-ai-security-guidelines-are-toothless-and-weak",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://photos5.appleinsider.com/gallery/57461-117058-56228-114301-lede-xl-xl.jpg",
+          "width": 1200,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://appleinsider.com/articles/23/11/27/new-multi-national-ai-security-guidelines-are-toothless-and-weak/amp/",
+      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/11/27/new-multi-national-ai-security-guidelines-are-toothless-and-weak/amp/",
+      "publishedDateTime": "2023-11-27T13:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-11-27-awak-technologies-announces-fda-breakthrough-device-designation-for-their-artificial-intelligence-enabled-kidney-disease-prediction-tool.md",
+      "title": "AWAK Technologies Announces FDA Breakthrough Device Designation for their Artificial Intelligence Enabled Kidney Disease Prediction Tool",
+      "excerpt": "AWAK Technologies (AWAK), a pioneering medical technology company developing a wearable dialysis product and other complementary solutions for chronic kidney disease (CKD) management, today announced that its kidney disease progression prediction (KDPP) Artificial Intelligence (AI) model for CKD patient care has been granted Breakthrough Device designation by the U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/awak-technologies-announces-fda-breakthrough-device-designation-their-artificial",
+      "originalUrl": "https://www.asiaone.com/business/awak-technologies-announces-fda-breakthrough-device-designation-their-artificial",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/image_2023-11-13_103212449.png",
-          "width": 908,
-          "height": 476,
+          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Nov2023/pr-newswire_500_4_1677.jpg?h=7de12b8a&itok=4ZLq5tFE",
+          "width": 600,
+          "height": 316,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1081,11 +503,356 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T16:00:00Z",
+      "publishedDateTime": "2023-11-27T12:59:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-27-ai-appetite-the-progress-needed-for-brands-to-gain-more-confidence.md",
+      "title": "AI Appetite: The Progress Needed For Brands To Gain More Confidence",
+      "excerpt": "There are also unanswered questions, like how to ensure data privacy, combat AI bias, and protect human creativity. As a result, the comfort level organizations have for adoption varies widely. We hear it loud and clear from our clients: AI is worth exploring—with caution and a healthy dose of skepticism.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/11/27/ai-appetite-the-progress-needed-for-brands-to-gain-more-confidence/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/11/27/ai-appetite-the-progress-needed-for-brands-to-gain-more-confidence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/655e06382f4b332fdb03a5f2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1308,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/11/27/ai-appetite-the-progress-needed-for-brands-to-gain-more-confidence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/11/27/ai-appetite-the-progress-needed-for-brands-to-gain-more-confidence/amp/",
+      "publishedDateTime": "2023-11-27T12:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-27-ai-and-the-rise-of-mediocrity.md",
+      "title": "AI and the Rise of Mediocrity",
+      "excerpt": "Read More: Pausing AI Developments Isn't Enough. We Need to Shut it All Down",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6337835/ai-mediocrity-essay/",
+      "originalUrl": "https://time.com/6337835/ai-mediocrity-essay/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://api.time.com/wp-content/uploads/2023/11/ai-mediocrity-sameness-illustration.jpg?quality=85",
+          "width": 1847,
+          "height": 1623,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-27T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-27-what-to-know-about-ai-enabled-digital-twins-in-manufacturing.md",
+      "title": "What To Know About AI-Enabled Digital Twins In Manufacturing",
+      "excerpt": "Within smart manufacturing, AI-powered digital twins have emerged as a critical technology. As a digital counterpart of a real-world system, digital twins provide a digital representation using data from sensors and Internet of Things (IoT) devices to mimic a physical object or system in real time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/27/what-to-know-about-ai-enabled-digital-twins-in-manufacturing/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/27/what-to-know-about-ai-enabled-digital-twins-in-manufacturing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63860f8728a0637179459796/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/27/what-to-know-about-ai-enabled-digital-twins-in-manufacturing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/27/what-to-know-about-ai-enabled-digital-twins-in-manufacturing/amp/",
+      "publishedDateTime": "2023-11-27T11:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-27-ai-powered-robotics-exploring-the-latest-innovations-and-applications-in-2024.md",
+      "title": "AI-Powered Robotics: Exploring the Latest Innovations and Applications in 2024",
+      "excerpt": "Introduction: In the fast-paced landscape of technology, artificial intelligence (AI) continues to revolutionize industries, and the field of robotics is no exception. Furthermore, as we delve into the year 2024,",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/ai-powered-robotics-exploring-the-latest-innovations-and-applications-in-2024/",
+      "originalUrl": "https://techbullion.com/ai-powered-robotics-exploring-the-latest-innovations-and-applications-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2023/11/AI-Powered-Robotics-Exploring-the-Latest-Innovations-and-Applications-in-2024.jpg",
+          "width": 650,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-27T11:36:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-11-27-where-will-baidu-stock-be-in-1-year.md",
+      "title": "Where Will Baidu Stock Be in 1 Year?",
+      "excerpt": "Baidu's Q3 earnings exceeded analysts' expectations. But its revenue growth decelerated from the previous quarter. Its margins are stable and its stock looks cheap, but it could trade at a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/11/27/where-will-baidu-stock-be-in-1-year/",
+      "originalUrl": "https://www.fool.com/investing/2023/11/27/where-will-baidu-stock-be-in-1-year/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/755915/stock-market-investor-person-looking-at-smartphone-and-laptop.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-27T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-27-beyond-efficiency-unleashing-business-transformation-through-generative-ais-hidden-potential.md",
+      "title": "Beyond Efficiency: Unleashing Business Transformation Through Generative AI's Hidden Potential",
+      "excerpt": "Generative AI's revolution extends beyond the obvious and into the realm of cultural transformation, ethics, societal impact and inclusivity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/27/beyond-efficiency-unleashing-business-transformation-through-generative-ais-hidden-potential/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/27/beyond-efficiency-unleashing-business-transformation-through-generative-ais-hidden-potential/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/655e3705f6bec1d370244d65/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/27/beyond-efficiency-unleashing-business-transformation-through-generative-ais-hidden-potential/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/27/beyond-efficiency-unleashing-business-transformation-through-generative-ais-hidden-potential/amp/",
+      "publishedDateTime": "2023-11-27T10:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-27-the-best-ai-tools-of-2023-a-review-with-bruno-centano-from-global-triangles.md",
+      "title": "The Best AI Tools of 2023: A Review with Bruno Centano from Global Triangles",
+      "excerpt": "AI is everywhere these days, and it’s getting smarter and more powerful every year. But how do you choose the best AI tools for your needs? Whether you’re a developer, a marketer, a designer, or just a curious enthusiast,",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/the-best-ai-tools-of-2023-a-review-with-bruno-centano-from-global-triangles/",
+      "originalUrl": "https://techbullion.com/the-best-ai-tools-of-2023-a-review-with-bruno-centano-from-global-triangles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2023/11/Screen-Shot-2023-11-27-at-4.46.28-pm-1000x600.png",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-27T09:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1096,6 +863,341 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-27-ai-chip-boom-fuels-taiwan-firms-40-rally-beating-qualcomm-and-peers.md",
+      "title": "AI Chip Boom Fuels Taiwan Firm’s 40% Rally, Beating Qualcomm and Peers",
+      "excerpt": "A five-month rally in MediaTek Inc. looks set to extend as booming demand for smartphones and a promising new AI chip brighten the outlook.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bnnbloomberg.ca/ai-chip-boom-fuels-taiwan-firm-s-40-rally-beating-qualcomm-and-peers-1.2003756",
+      "originalUrl": "https://www.bnnbloomberg.ca/ai-chip-boom-fuels-taiwan-firm-s-40-rally-beating-qualcomm-and-peers-1.2003756",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.bnnbloomberg.ca/polopoly_fs/1.2003757!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/image.png",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.bnnbloomberg.ca/ai-chip-boom-fuels-taiwan-firm-s-40-rally-beating-qualcomm-and-peers-1.2003756.amp.html",
+      "cdnAmpWebUrl": "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/ai-chip-boom-fuels-taiwan-firm-s-40-rally-beating-qualcomm-and-peers-1.2003756.amp.html",
+      "publishedDateTime": "2023-11-27T07:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bnnbloomberg",
+        "domain": "bnnbloomberg.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-27-best-robot-vacuum-cyber-monday-deals-roomba-shark-and-more.md",
+      "title": "Best robot vacuum Cyber Monday deals: Roomba, Shark, and more",
+      "excerpt": "With so many robot vacuum deals going on this Cyber Monday, we've picked out some of our favorite deals for every budget.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/home/robot-vacuum-cyber-monday-deals-2023/",
+      "originalUrl": "https://www.digitaltrends.com/home/robot-vacuum-cyber-monday-deals-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/09/Digital-Trends-Best-Cyber-Monday-Robot-Vacuum-Deals.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/home/robot-vacuum-cyber-monday-deals-2023/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/robot-vacuum-cyber-monday-deals-2023/?amp",
+      "publishedDateTime": "2023-11-27T07:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-27-the-10-most-in-demand-skills-in-2024.md",
+      "title": "The 10 Most In-Demand Skills In 2024",
+      "excerpt": "Discover the top 10 skills that will dominate the job market in 2024, and learn why these skills are not just essential for future success.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/11/27/the-10-most-in-demand-skills-in-2024/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/11/27/the-10-most-in-demand-skills-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6564411aae52b0d21bf9dacd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/11/27/the-10-most-in-demand-skills-in-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/11/27/the-10-most-in-demand-skills-in-2024/amp/",
+      "publishedDateTime": "2023-11-27T06:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-27-ai-powered-robot-figures-out-how-to-make-oxygen-on-mars.md",
+      "title": "AI-Powered Robot Figures Out How to Make Oxygen on Mars",
+      "excerpt": "A new study recently published in Nature Synthesis details the steps taken for the aforementioned robot to come up with a process to make oxygen out of materials readily available on Mars. Using meteorites scientists think come from the Red Planet, the \"robotic chemist\" has able to create the primary element necessary for human life.",
+      "sourceUrl": null,
+      "webUrl": "https://comicbook.com/irl/news/mars-oxygen-created-ai-robot-study/",
+      "originalUrl": "https://comicbook.com/irl/news/mars-oxygen-created-ai-robot-study/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sportshub.cbsistatic.com/i/2023/02/28/4b1b5e2a-4ba6-49e2-a0b8-b0b56dca730e/wendys-sign.jpg?width=568&height=320",
+          "width": 568,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://comicbook.com/irl/amp/news/mars-oxygen-created-ai-robot-study/",
+      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/irl/amp/news/mars-oxygen-created-ai-robot-study/",
+      "publishedDateTime": "2023-11-27T04:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-27-ai-hype-isnt-helping-anyone.md",
+      "title": "AI hype isn’t helping anyone",
+      "excerpt": "We've got real issues with AI, and security is top of the list. Prompt injecting allows hackers to trick your private LLM, and that's a serious problem.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3711382/ai-hype-isnt-helping-anyone.html",
+      "originalUrl": "https://www.infoworld.com/article/3711382/ai-hype-isnt-helping-anyone.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/11/14/22/istock-1344939844-2-100948536-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3711382/ai-hype-isnt-helping-anyone.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711382/ai-hype-isnt-helping-anyone.amp.html",
+      "publishedDateTime": "2023-11-27T02:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-27-ten-women-ai-leaders-that-openai-should-consider-for-their-board.md",
+      "title": "Ten Women AI Leaders That OpenAI Should Consider For Their Board",
+      "excerpt": "After the recent whirlwind of changes at OpenAI, their board is suddenly composed solely of men. These are ten board director recommendations for OpenAI to consider.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rebekahbastian/2023/11/26/ten-women-ai-leaders-that-openai-should-consider-for-their-board/",
+      "originalUrl": "https://www.forbes.com/sites/rebekahbastian/2023/11/26/ten-women-ai-leaders-that-openai-should-consider-for-their-board/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6563e518a61147fd4ec019ed/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rebekahbastian/2023/11/26/ten-women-ai-leaders-that-openai-should-consider-for-their-board/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rebekahbastian/2023/11/26/ten-women-ai-leaders-that-openai-should-consider-for-their-board/amp/",
+      "publishedDateTime": "2023-11-27T00:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-27-aws-hoppr-launch-model-to-accelerate-generative-ai-tools-in-medical-imaging.md",
+      "title": "AWS, Hoppr Launch Model to Accelerate Generative AI Tools in Medical Imaging",
+      "excerpt": "AI startup Hoppr announced that it teamed up with AWS to launch a new foundation model. The product, named Grace, is a B2B model designed to help application developers build better AI solutions for the medical imaging field — and to build them more quickly.",
+      "sourceUrl": null,
+      "webUrl": "https://medcitynews.com/2023/11/amazon-ai-technology-healthcare/",
+      "originalUrl": "https://medcitynews.com/2023/11/amazon-ai-technology-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://medcitynews.com/uploads/2021/10/GettyImages-1140691167-scaled.jpg",
+          "width": 2560,
+          "height": 1441,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-26T20:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedCity News",
+        "domain": "medcitynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     }

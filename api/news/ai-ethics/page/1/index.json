@@ -2,6 +2,284 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-09-ai-ethics-team-clears-adobes-products-india-unit-md.md",
+      "title": "AI ethics team clears Adobe’s products: India unit MD",
+      "excerpt": "Adobe India managing director Prativa Mohapatra on Friday said the company prioritises review of its AI ethics committee before going ahead with product development. This is done to ensure that whatever innovative technology Adobe is developing must be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/digital-transformation-ai-ethics-team-clears-adobes-products-india-unit-md-3333843/",
+      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-ai-ethics-team-clears-adobes-products-india-unit-md-3333843/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/12/Untitled-design-2023-12-08T214235.605.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-ai-ethics-team-clears-adobes-products-india-unit-md-3333843/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-ethics-team-clears-adobes-products-india-unit-md-3333843/lite/",
+      "publishedDateTime": "2023-12-09T15:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-09-ethics-in-ai-a-conversation-with-diya-wynn-aws-responsible-ai-lead.md",
+      "title": "Ethics In AI: A Conversation With Diya Wynn, AWS Responsible AI Lead",
+      "excerpt": "Invent conference, I had the distinct opportunity to delve into these pressing issues with Diya Wynn, AWS’s Responsible AI Lead.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/carolinamilanesi/2023/12/08/ethics-in-ai-a-conversation-with-diya-wynn-aws-responsible-ai-lead/",
+      "originalUrl": "https://www.forbes.com/sites/carolinamilanesi/2023/12/08/ethics-in-ai-a-conversation-with-diya-wynn-aws-responsible-ai-lead/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/657398ac14070a55cc835737/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1353,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/carolinamilanesi/2023/12/08/ethics-in-ai-a-conversation-with-diya-wynn-aws-responsible-ai-lead/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinamilanesi/2023/12/08/ethics-in-ai-a-conversation-with-diya-wynn-aws-responsible-ai-lead/amp/",
+      "publishedDateTime": "2023-12-08T22:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-08-ai-horizons-ethics-risks-and-the-road-ahead.md",
+      "title": "AI Horizons: Ethics, Risks, and the Road Ahead",
+      "excerpt": "We’re at a historic inflection point in AI regulation, but from algorithmic bias to privacy issues, the ethical concerns grow. In this panel, moderated by WIRED’s Khari Johnson, we explore how tech companies and lawmakers are examining future existential risks and building safety measures in a rapidly evolving technological landscape.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/video/watch/ai-horizons-ethics-risks-and-the-road-ahead",
+      "originalUrl": "https://www.wired.com/video/watch/ai-horizons-ethics-risks-and-the-road-ahead",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_wired.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1701968651/wired_ai-horizons-ethics-risks-and-the-road-ahead.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-07T17:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-04-ai-ethics-is-there-a-necessity-for-the-us-to-field-lethal-autonomous-weapon-systems-laws.md",
+      "title": "AI ethics - is there a necessity for the US to field Lethal Autonomous Weapon Systems (LAWS)?",
+      "excerpt": "The primary ethical argument in favor of Lethal Autonomous Weapon Systems (LAWS) been results-oriented: their potential precision and reliability might enable better respect for international law and human ethical values, resulting in fewer adverse humanitarian consequences.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/ai-ethics-there-necessity-us-field-lethal-autonomous-weapon-systems-laws",
+      "originalUrl": "https://diginomica.com/ai-ethics-there-necessity-us-field-lethal-autonomous-weapon-systems-laws",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2023-03/ethics-gb40633784_640.jpg",
+          "width": 640,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/ai-ethics-there-necessity-us-field-lethal-autonomous-weapon-systems-laws?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-ethics-there-necessity-us-field-lethal-autonomous-weapon-systems-laws?amp",
+      "publishedDateTime": "2023-12-04T15:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-04-adopting-and-expanding-ethical-principles-for-generative-artificial-intelligence-from-military-to-healthcare.md",
+      "title": "Adopting and expanding ethical principles for generative artificial intelligence from military to healthcare.",
+      "excerpt": "In 2020, the U.S. Department of Defense officially disclosed a set of ethical principles to guide the use of Artificial Intelligence (AI) technologies on future battlefields. Despite stark differences,",
+      "sourceUrl": null,
+      "webUrl": "https://www.physiciansweekly.com/adopting-and-expanding-ethical-principles-for-generative-artificial-intelligence-from-military-to-healthcare/",
+      "originalUrl": "https://www.physiciansweekly.com/adopting-and-expanding-ethical-principles-for-generative-artificial-intelligence-from-military-to-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.physiciansweekly.com/wp-content/uploads/2023/08/allergy-allergist-skin-text-allergen-patient-doctor-office.jpg",
+          "width": 2384,
+          "height": 1257,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T05:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Too Old to Operate",
+        "domain": "physiciansweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-12-02-montreal-research-hub-spearheads-global-ai-ethics-debate.md",
+      "title": "Montreal Research Hub Spearheads Global AI Ethics Debate",
+      "excerpt": "Rapid developments in artificial intelligence -- and recent turmoil at industry powerhouse OpenAI -- have brought fresh attention to a key hub of ethics research related to the technology in Montreal,",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/news/montreal-research-hub-spearheads-global-ai-ethics-debate-85a5577c",
+      "originalUrl": "https://www.barrons.com/news/montreal-research-hub-spearheads-global-ai-ethics-debate-85a5577c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.barrons.com/asset/external-media/afp/AFP5124571594622971684184341015126633855344---1.jpg",
+          "width": 768,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/news/montreal-research-hub-spearheads-global-ai-ethics-debate-85a5577c",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/montreal-research-hub-spearheads-global-ai-ethics-debate-85a5577c",
+      "publishedDateTime": "2023-12-02T05:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-29-ethics-in-an-age-of-privacy-and-regulation.md",
       "title": "Ethics In An Age Of Privacy And Regulation",
       "excerpt": "Ultimately, it is up to manufacturers, integrators, resellers and their partners to take the steps necessary to avoid both intentional and accidental misuse.",
@@ -1112,295 +1390,6 @@
         "name": "AOL",
         "domain": "aol.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-new-ibm-study-explores-the-changing-role-of-leadership-as-businesses-in-europe-embrace-generative-ai.md",
-      "title": "New IBM Study Explores the Changing Role of Leadership as Businesses in Europe Embrace Generative AI",
-      "excerpt": "IBM launches new European study of 1600+ senior leaders and C-level executives to explore how leadership is changing in the age of AI82% of",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/new-ibm-study-explores-the-changing-role-of-leadership-as-businesses-in-europe-embrace-generative-ai-1032792831",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/new-ibm-study-explores-the-changing-role-of-leadership-as-businesses-in-europe-embrace-generative-ai-1032792831",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
-          "width": 400,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T07:48:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-ai-robots-marketing-and-the-power-of-persuasion.md",
-      "title": "AI robots, marketing, and the power of persuasion",
-      "excerpt": "Associate Professor Mark Yi-Cheon Yim engages with a companion unlike any other. On his desk sits a charming AI robot dog, a Sony aibo.",
-      "sourceUrl": null,
-      "webUrl": "https://www.earth.com/news/ai-robots-marketing-and-the-power-of-persuasion/",
-      "originalUrl": "https://www.earth.com/news/ai-robots-marketing-and-the-power-of-persuasion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cff2.earth.com/uploads/2023/11/07165122/AI-robot_cashier_store_1medium.jpg",
-          "width": 2500,
-          "height": 1881,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T00:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "earth",
-        "domain": "earth.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Marketing",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-11-07-ai-ethics-in-fintech-building-trust-in-tomorrows-financial-ecosystem.md",
-      "title": "AI Ethics In Fintech: Building Trust In Tomorrow's Financial Ecosystem",
-      "excerpt": "The nexus between AI and finance paints a horizon replete with opportunities. From crafting unparalleled user experiences to broadening financial access—the prospects are limitless. But, as we navigate this uncharted terrain, let our compass be ethics ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/07/ai-ethics-in-fintech-building-trust-in-tomorrows-financial-ecosystem/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/07/ai-ethics-in-fintech-building-trust-in-tomorrows-financial-ecosystem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 216,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/630f5e5918c93764f06047ca/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/07/ai-ethics-in-fintech-building-trust-in-tomorrows-financial-ecosystem/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/07/ai-ethics-in-fintech-building-trust-in-tomorrows-financial-ecosystem/amp/",
-      "publishedDateTime": "2023-11-07T13:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-11-07-ai-in-oncology-care-ethical-considerations-to-respect-patient-dignity.md",
-      "title": "AI in Oncology Care: Ethical Considerations to Respect Patient Dignity",
-      "excerpt": "If you have paid attention to medical news lately, you have almost certainly heard about some emerging uses of artificial intelligence (AI) in medicine, in | Cancer",
-      "sourceUrl": null,
-      "webUrl": "https://www.labroots.com/trending/cancer/26178/ai-oncology-care-ethical-considerations-respect-patient-dignity",
-      "originalUrl": "https://www.labroots.com/trending/cancer/26178/ai-oncology-care-ethical-considerations-respect-patient-dignity",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.labroots.com/_public/_files/system/ck/trending/ai-ethics-8296760_1280_3050d008c63b025e3152a03c1bab751d.jpg",
-          "width": 1280,
-          "height": 854,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.labroots.com/trending/cancer/26178/ai-oncology-care-ethical-considerations-respect-patient-dignity/amp",
-      "cdnAmpWebUrl": "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/cancer/26178/ai-oncology-care-ethical-considerations-respect-patient-dignity/amp",
-      "publishedDateTime": "2023-11-07T11:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Labroots",
-        "domain": "labroots.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-07-generative-ai-to-boost-productivity-in-financial-services.md",
-      "title": "Generative AI to boost productivity in financial services",
-      "excerpt": "Hype around generative AI and machine learning is continuing to buoy economic sentiment across Europe, with fewer than two-in-five financial services CEOs now expecting a severe downturn in the comin",
-      "sourceUrl": null,
-      "webUrl": "https://www.consultancy.uk/news/35790/generative-ai-to-boost-productivity-in-financial-services",
-      "originalUrl": "https://www.consultancy.uk/news/35790/generative-ai-to-boost-productivity-in-financial-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.consultancy.uk/illustrations/news/spotlight/2023-11-06-043615285-Generative_AI.jpg",
-          "width": 546,
-          "height": 312,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.consultancy.uk/news/amp/35790/generative-ai-to-boost-productivity-in-financial-services",
-      "cdnAmpWebUrl": "https://www-consultancy-uk.cdn.ampproject.org/c/s/www.consultancy.uk/news/amp/35790/generative-ai-to-boost-productivity-in-financial-services",
-      "publishedDateTime": "2023-11-07T04:16:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Consultancy",
-        "domain": "consultancy.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-11-07-finding-the-path-toward-success-as-organizations-bring-ai-into-the-workplace.md",
-      "title": "Finding the path toward success as organizations bring AI into the workplace",
-      "excerpt": "Bringing AI into the workplace involves a big change and companies that have an open feedback loop can better understand, and resolve, potential employee concerns. This loop helps to create transparency, which will lead to employee trust, Janzer said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/finding-the-path-toward-success-as-organizations-bring-ai-into-the-workplace/",
-      "originalUrl": "https://www.zdnet.com/article/finding-the-path-toward-success-as-organizations-bring-ai-into-the-workplace/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/fly/bundles/zdnetcore/images/logos/zdnet-logo-yellow.png",
-          "width": 480,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/finding-the-path-toward-success-as-organizations-bring-ai-into-the-workplace/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/finding-the-path-toward-success-as-organizations-bring-ai-into-the-workplace/",
-      "publishedDateTime": "2023-11-07T02:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,677 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-10-27-microsoft-rockwell-automation-to-bring-gen-ai-to-robotics-development.md",
+      "title": "Microsoft, Rockwell Automation to bring Gen AI to robotics development",
+      "excerpt": "The companies will add Microsoft's Azure OpenAI Service into FactoryTalk Design Studio to accelerate time-to-market for their customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/microsoft-rockwell-automation-to-bring-gen-ai-to-robotics-development/",
+      "originalUrl": "https://www.therobotreport.com/microsoft-rockwell-automation-to-bring-gen-ai-to-robotics-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 346,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/10/microsoft-rockwell-collaboration.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-26T23:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-27-cranium-raises-25m-to-fund-enterprise-ai-monitoring-security-and-compliance-platform.md",
+      "title": "Cranium raises $25M to fund enterprise AI monitoring, security, and compliance platform",
+      "excerpt": "The round was led by Telstra Ventures with participation from KPMG LLP and SYN Ventures, taking Cranium's total to $32 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/cranium-raises-25m-to-fund-enterprise-ai-monitoring-security-and-compliance-platform/",
+      "originalUrl": "https://venturebeat.com/security/cranium-raises-25m-to-fund-enterprise-ai-monitoring-security-and-compliance-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_a_robot_peers_inside_an_open_PC_tower_at_the_circuitboa_194dd42e-576b-49a2-8341-b77eabcee85d.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-26T20:26:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Security",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-27-microsoft-octo-tempest-is-one-of-the-most-dangerous-financial-hacking-groups.md",
+      "title": "Microsoft: Octo Tempest is one of the most dangerous financial hacking groups",
+      "excerpt": "and financial services. Microsoft assesses that Octo Tempest is a well-organized group that includes members with extensive technical knowledge and multiple hand-on-keyboard operators. The hackers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bleepingcomputer.com/news/security/microsoft-octo-tempest-is-one-of-the-most-dangerous-financial-hacking-groups/",
+      "originalUrl": "https://www.bleepingcomputer.com/news/security/microsoft-octo-tempest-is-one-of-the-most-dangerous-financial-hacking-groups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bleepstatic.com/content/hl-images/2023/10/27/oktospider.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.bleepingcomputer.com/news/security/microsoft-octo-tempest-is-one-of-the-most-dangerous-financial-hacking-groups/amp/",
+      "cdnAmpWebUrl": "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/microsoft-octo-tempest-is-one-of-the-most-dangerous-financial-hacking-groups/amp/",
+      "publishedDateTime": "2023-10-26T18:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bleeping Computer",
+        "domain": "bleepingcomputer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-26-revolutionizing-accounts-payable-automation-gravity-software-unveils-cutting-edge-ai-technology-powered-by-microsofts-cognitive-services-ai.md",
+      "title": "Revolutionizing Accounts Payable Automation: Gravity Software Unveils Cutting-Edge AI Technology Powered by Microsoft's Cognitive Services AI Engine",
+      "excerpt": "This transformative solution uses the Microsoft Cognitive Services AI engine to convert PDFs of vendor bills into Gravity Vouchers, significantly reducing the need for manual data entry or ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.victoriaadvocate.com/revolutionizing-accounts-payable-automation-gravity-software-unveils-cutting-edge-ai-technology-powered-by-microsofts-cognitive/article_9df20d0f-02f2-5459-899f-3095e383f201.html",
+      "originalUrl": "https://www.victoriaadvocate.com/revolutionizing-accounts-payable-automation-gravity-software-unveils-cutting-edge-ai-technology-powered-by-microsofts-cognitive/article_9df20d0f-02f2-5459-899f-3095e383f201.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-26T07:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Victoria Advocate",
+        "domain": "victoriaadvocate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-26-ai-is-finally-resulting-in-real-growth-for-big-tech.md",
+      "title": "AI is finally resulting in real growth for big tech",
+      "excerpt": "including going up 29% at Azure, three percentage points better than analysts expected. Investors liked that a lot. The market’s reaction to the two sets of data provides their grading, but we care about the AI-related components that went into the top ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/10/25/microsoft-alphabet-earnings-ai-analysis/",
+      "originalUrl": "https://techcrunch.com/2023/10/25/microsoft-alphabet-earnings-ai-analysis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/07/microsoft-getty-hacks-government.jpg?resize=1200,816",
+          "width": 1200,
+          "height": 816,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-25T17:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-25-centml-lands-27m-from-nvidia-others-to-make-ai-models-run-more-efficiently.md",
+      "title": "CentML lands $27M from Nvidia, others to make AI models run more efficiently",
+      "excerpt": "CentML, a startup building tools to enable AI models to run more efficiently on existing hardware, has raised $27 million in a venture funding round.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/10/25/centml-lands-27m-from-nvidia-others-to-make-ai-models-run-more-efficiently/",
+      "originalUrl": "https://techcrunch.com/2023/10/25/centml-lands-27m-from-nvidia-others-to-make-ai-models-run-more-efficiently/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-914452330.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/10/25/centml-lands-27m-from-nvidia-others-to-make-ai-models-run-more-efficiently/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/25/centml-lands-27m-from-nvidia-others-to-make-ai-models-run-more-efficiently/amp/",
+      "publishedDateTime": "2023-10-25T15:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-10-25-ai-dominates-qualcomm-snapdragon-summit-with-new-snapdragon-products.md",
+      "title": "AI Dominates Qualcomm Snapdragon Summit With New Snapdragon Products",
+      "excerpt": "Principal Analyst, Mobility & VR, Anshel Sag analyzes the Snapdragon 8 Gen 3 and Snapdragon X Elite SoCs and predicts their impact on AI-driven mobile devices and PCs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/10/25/ai-dominates-qualcomm-snapdragon-summit-with-new-snapdragon-products/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/10/25/ai-dominates-qualcomm-snapdragon-summit-with-new-snapdragon-products/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65391570e04d1bf71ad7c828/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 936,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/10/25/ai-dominates-qualcomm-snapdragon-summit-with-new-snapdragon-products/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/10/25/ai-dominates-qualcomm-snapdragon-summit-with-new-snapdragon-products/amp/",
+      "publishedDateTime": "2023-10-25T14:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-25-snowflake-and-microsoft-expand-their-partnership-to-ai-low-code-data-governance.md",
+      "title": "Snowflake and Microsoft expand their partnership to AI, low-code, data governance",
+      "excerpt": "Value stream management involves people in the organization to examine workflows and other processes to ensure they are deriving the maximum value from their efforts while eliminating waste — of ...",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/msft/snowflake-and-microsoft-expand-their-partnership-to-ai-low-code-data-governance/",
+      "originalUrl": "https://sdtimes.com/msft/snowflake-and-microsoft-expand-their-partnership-to-ai-low-code-data-governance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-25T10:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-25-revolutionizing-accounts-payable-automation-gravity-software-unveils-cutting-edge-ai-technology-powered-by-microsofts-cognitive-services-ai.md",
+      "title": "Revolutionizing Accounts Payable Automation: Gravity Software Unveils Cutting-Edge AI Technology Powered by Microsoft's Cognitive Services AI Engine",
+      "excerpt": "This transformative solution uses the Microsoft Cognitive Services AI engine to convert PDFs of vendor bills into Gravity Vouchers, significantly reducing the need for manual data entry or ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-journal.com/revolutionizing-accounts-payable-automation-gravity-software-unveils-cutting-edge-ai-technology-powered-by-microsofts-cognitive/article_5ec636c4-d178-51e0-9495-eb8630bfac99.html",
+      "originalUrl": "https://www.news-journal.com/revolutionizing-accounts-payable-automation-gravity-software-unveils-cutting-edge-ai-technology-powered-by-microsofts-cognitive/article_5ec636c4-d178-51e0-9495-eb8630bfac99.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/e/5a/e5a643ee-b4ce-5612-9ca2-27308761bc35/65391c3ed057e.image.jpg?crop=693%2C364%2C121%2C0&resize=693%2C364&order=crop%2Cresize",
+          "width": 693,
+          "height": 364,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-25T07:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Longview News-Journal",
+        "domain": "news-journal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-25-what-to-know-about-cognitive-tests-for-dementia.md",
+      "title": "What to know about cognitive tests for dementia",
+      "excerpt": "There is no single cognitive test for diagnosing disorders causing dementia. Doctors use several tests and assessments, many of which use varying questions, to determine the cause of symptoms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medicalnewstoday.com/articles/cognitive-test-for-dementia",
+      "originalUrl": "https://www.medicalnewstoday.com/articles/cognitive-test-for-dementia",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2022/08/medical-records-dementia-tests-thumb.jpg",
+          "width": 732,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-25T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical News Today",
+        "domain": "medicalnewstoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-25-physicians-are-dramatically-underdiagnosing-early-cognitive-decline-a-precursor-to-alzheimers.md",
+      "title": "Physicians Are Dramatically Underdiagnosing Early Cognitive Decline, a Precursor to Alzheimer’s",
+      "excerpt": "Changes to the brain are natural as we age, which often makes it difficult to spot more aberrant signs of cognitive decline in older adults. Neurodegenerative diseases like Alzheimer’s and ...",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6328148/mci-cognitive-decline-under-diagnosed/",
+      "originalUrl": "https://time.com/6328148/mci-cognitive-decline-under-diagnosed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-24T22:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-24-microsoft-earnings-preview-azure-cloud-segment-in-focus.md",
+      "title": "Microsoft earnings preview: Azure cloud segment in focus",
+      "excerpt": "Investing.com - Microsoft Corporation (NASDAQ:MSFT) is set to announce its quarterly earnings after the market closes on Tuesday, with Wall Street keenly watching for indications that the company's substantial investments in artificial intelligence (AI) have been beneficial to its pivotal Azure cloud computing division.",
+      "sourceUrl": null,
+      "webUrl": "https://au.investing.com/news/stock-market-news/microsoft-earnings-preview-azure-cloud-segment-in-focus-3009816",
+      "originalUrl": "https://au.investing.com/news/stock-market-news/microsoft-earnings-preview-azure-cloud-segment-in-focus-3009816",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i-invdn-com.investing.com/news/LYNXNPEB6J0AM_L.jpg",
+          "width": 800,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://m.au.investing.com/news/stock-market-news/microsoft-earnings-preview-azure-cloud-segment-in-focus-3009816?ampMode=1",
+      "cdnAmpWebUrl": "https://m-au-investing-com.cdn.ampproject.org/c/s/m.au.investing.com/news/stock-market-news/microsoft-earnings-preview-azure-cloud-segment-in-focus-3009816?ampMode=1",
+      "publishedDateTime": "2023-10-24T05:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investing",
+        "domain": "investing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-23-microsoft-ceo-china-must-have-say-in-governance-of-artificial-intelligence.md",
+      "title": "Microsoft CEO: China must have say in governance of artificial intelligence",
+      "excerpt": "Microsoft’s chief executive is pushing for China to have a seat at the table of leaders deciding global rules for artificial intelligence, as business titans and government bosses jockey to shape the technology’s development. Microsoft CEO Satya ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtontimes.com/news/2023/oct/23/satya-nadella-microsoft-ceo-china-must-have-say-go/",
+      "originalUrl": "https://www.washingtontimes.com/news/2023/oct/23/satya-nadella-microsoft-ceo-china-must-have-say-go/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://twt-thumbs.washtimes.com/media/image/2020/10/09/diversity_initiatives-scrutiny_33992_c0-0-5400-3150_s1200x700.jpg?21d13cb2bc6acb968d08b145891571c1670c0358",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-23T16:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Times",
+        "domain": "washingtontimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-23-rapid-finance-announces-from-money2020-usa-that-its-ai-and-ml-ready-lynx-platform-is-now-available-on-microsofts-azure-marketplace.md",
+      "title": "Rapid Finance announces from Money20/20 USA That its AI- and ML-Ready Lynx platform is now available on Microsoft’s Azure marketplace",
+      "excerpt": "Rapid Enterprise, a division of Rapid Finance, an industry leader in delivering automated and scalable Lending-as-a-Service (LaaS) solutions to support",
+      "sourceUrl": null,
+      "webUrl": "https://www.cuinsight.com/press-release/rapid-finance-announces-from-money20-20-usa-that-its-ai-and-ml-ready-lynx-platform-is-now-available-on-microsofts-azure-marketplace/",
+      "originalUrl": "https://www.cuinsight.com/press-release/rapid-finance-announces-from-money20-20-usa-that-its-ai-and-ml-ready-lynx-platform-is-now-available-on-microsofts-azure-marketplace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-23T13:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CUInsight",
+        "domain": "cuinsight.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-10-22-prediction-2-magnificent-artificial-intelligence-ai-growth-stocks-that-will-join-apple-and-microsoft-in-the-2-trillion-club-by-2033.md",
+      "title": "Prediction: 2 Magnificent Artificial Intelligence (AI) Growth Stocks That Will Join Apple and Microsoft in the $2 Trillion Club by 2033",
+      "excerpt": "There's been a paradigm shift in AI this year, and these two stalwarts ... according to market research firm Research and Markets. Alphabet controls an estimated 30% share of the worldwide ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/10/22/prediction-2-magnificent-artificial-intelligence-a/",
+      "originalUrl": "https://www.fool.com/investing/2023/10/22/prediction-2-magnificent-artificial-intelligence-a/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-22T12:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-21-amazoncom-recent-earnings-what-investors-should-know.md",
       "title": "Amazon.com Recent Earnings: What Investors Should Know",
       "excerpt": "Get the latest news on Amazon's earnings. Compare the price of Amazon.com's common stock (AMZN) to previous quarters and read analysts' predictions.",
@@ -676,155 +1347,7 @@
         "AI",
         "AI in Healthcare"
       ]
-    },
-    {
-      "path": "_news/2023-10-13-ai-panel-recommends-govt-to-create-24500-gpu-computing-infra-at-17-centres.md",
-      "title": "AI panel recommends govt to create 24,500-GPU computing infra at 17 centres",
-      "excerpt": "Union Minister Rajeev Chandrasekhar said that based on the suggestion made by the panel, the government was considering making AI chips and GPU infrastructure in the country through a public-private p",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/business/ai-panel-recommends-govt-to-create-24500-gpu-computing-infra-at-17-centres-11529801.html",
-      "originalUrl": "https://www.moneycontrol.com/news/business/ai-panel-recommends-govt-to-create-24500-gpu-computing-infra-at-17-centres-11529801.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2022/03/RTX-3090Ti.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/business/ai-panel-recommends-govt-to-create-24500-gpu-computing-infra-at-17-centres-11529801.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/ai-panel-recommends-govt-to-create-24500-gpu-computing-infra-at-17-centres-11529801.html/amp",
-      "publishedDateTime": "2023-10-13T14:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-microsoft-should-acquire-openai-hcl-bcg-other-technology-service-strategic-partners.md",
-      "title": "Microsoft Should Acquire OpenAI, HCL, BCG & Other Technology, Service & Strategic Partners",
-      "excerpt": "Those who argue there are huge differences among applications and platforms are fully committed to their ongoing investments and the difficulty of \"switching\" from",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/steveandriole/2023/10/10/microsoft-should-acquire-openai-hcl-bcg--other-technology-service--strategic-partners/",
-      "originalUrl": "https://www.forbes.com/sites/steveandriole/2023/10/10/microsoft-should-acquire-openai-hcl-bcg--other-technology-service--strategic-partners/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6525d31e5fc01b0602309957/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1306,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/steveandriole/2023/10/10/microsoft-should-acquire-openai-hcl-bcg--other-technology-service--strategic-partners/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveandriole/2023/10/10/microsoft-should-acquire-openai-hcl-bcg--other-technology-service--strategic-partners/amp/",
-      "publishedDateTime": "2023-10-10T23:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-informatica-embraces-ai-to-help-companies-manage-their-data.md",
-      "title": "Informatica Embraces AI To Help Companies Manage Their Data",
-      "excerpt": "Vice President & Principal Analyst, Enterprise Data Technologies, Robert Kramer explains how Informatica is boosting its capabilities in enterprise data management.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/10/10/informatica-embraces-ai-to-help-companies-manage-their-data/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/10/10/informatica-embraces-ai-to-help-companies-manage-their-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6525ad99e4d5af599c004829/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 920,
-          "height": 614,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/10/10/informatica-embraces-ai-to-help-companies-manage-their-data/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/10/10/informatica-embraces-ai-to-help-companies-manage-their-data/amp/",
-      "publishedDateTime": "2023-10-10T20:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 5
 }

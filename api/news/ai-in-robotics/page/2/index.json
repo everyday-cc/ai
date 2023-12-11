@@ -2,6 +2,1069 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-11-27-ai-powered-robot-figures-out-how-to-make-oxygen-on-mars.md",
+      "title": "AI-Powered Robot Figures Out How to Make Oxygen on Mars",
+      "excerpt": "A new study recently published in Nature Synthesis details the steps taken for the aforementioned robot to come up with a process to make oxygen out of materials readily available on Mars. Using meteorites scientists think come from the Red Planet, the \"robotic chemist\" has able to create the primary element necessary for human life.",
+      "sourceUrl": null,
+      "webUrl": "https://comicbook.com/irl/news/mars-oxygen-created-ai-robot-study/",
+      "originalUrl": "https://comicbook.com/irl/news/mars-oxygen-created-ai-robot-study/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sportshub.cbsistatic.com/i/2023/02/28/4b1b5e2a-4ba6-49e2-a0b8-b0b56dca730e/wendys-sign.jpg?width=568&height=320",
+          "width": 568,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://comicbook.com/irl/amp/news/mars-oxygen-created-ai-robot-study/",
+      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/irl/amp/news/mars-oxygen-created-ai-robot-study/",
+      "publishedDateTime": "2023-11-27T04:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-25-paralysed-man-moves-in-mind-reading-exoskeleton.md",
+      "title": "Paralysed man moves in mind-reading exoskeleton",
+      "excerpt": "Mind-controlled exoskeleton allows paralysed ... Paralysed woman's thoughts control robotic arm Thibault does need to be attached to a ceiling-harness in order to minimise the risk of him falling ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/health-49907356",
+      "originalUrl": "https://www.bbc.com/news/health-49907356",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/3867/production/_109093441_clinatec_juliettetreillet.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/health-49907356.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/health-49907356.amp",
+      "publishedDateTime": "2023-11-25T15:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-24-black-friday-roomba-deals-2023-best-robot-vacuums-on-sale.md",
+      "title": "Black Friday Roomba deals 2023: Best robot vacuums on sale",
+      "excerpt": "Available on Amazon Next up, we have the Roomba 694 robot vacuum that’s down to $159 for Black Friday 2023. This powerful vacuum cleaner covers all the basics. And it adds in voice control thanks ... With that in mind, you can rest assured that this ...",
+      "sourceUrl": null,
+      "webUrl": "https://bgr.com/deals/black-friday-roomba-robot-vacuum-deals/",
+      "originalUrl": "https://bgr.com/deals/black-friday-roomba-robot-vacuum-deals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bgr.com/wp-content/uploads/2023/08/Roomba-Robot-Vacuums.jpg?quality=82&strip=all",
+          "width": 3560,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-23T16:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-23-his-team-created-a-robotic-arm-that-helps-kill-cancer-using-artificial-intelligence.md",
+      "title": "His team created a robotic arm that helps kill cancer using artificial intelligence",
+      "excerpt": "The robotic arm will allow doctors to more accurately monitor the progress of high-intensity focused ultrasound treatment as it is happening.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbc.ca/news/canada/kitchener-waterloo/hifu-non-invasive-cancer-treatment-artificial-intelligence-robot-university-of-waterlo-1.7036627",
+      "originalUrl": "https://www.cbc.ca/news/canada/kitchener-waterloo/hifu-non-invasive-cancer-treatment-artificial-intelligence-robot-university-of-waterlo-1.7036627",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.cbc.ca/1.7036750.1700688000!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/moslem-sadeghi-goughari.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cbc.ca/amp/1.7036627",
+      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.7036627",
+      "publishedDateTime": "2023-11-23T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBC.ca",
+        "domain": "www.cbc.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-11-23-will-robots-take-your-job-how-artificial-intelligence-will-change-the-future-of-work.md",
+      "title": "Will Robots Take Your Job? How Artificial Intelligence Will Change the Future of Work",
+      "excerpt": "Artificial intelligence is already affecting nearly ... it’s with one big question in mind: Will robots take my job? Most experts agree that humans will still be a necessary part of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.rd.com/article/future-of-ai/",
+      "originalUrl": "https://www.rd.com/article/future-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rd.com/wp-content/uploads/2022/08/RD-robots-taking-jobs-GettyImages-1356768388-578183815-JVedit.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-23T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reader's Digest",
+        "domain": "rd.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-23-best-robot-vacuum-black-friday-deals-2023-bestreviews.md",
+      "title": "Best robot vacuum Black Friday deals 2023 | BestReviews",
+      "excerpt": "Vacuuming is one of those chores that no one really enjoys, so handing off the work to a robot vacuum can make life easier. And Black Friday is the perfect time to invest in one — or upgrade your current model — because you can find deals on many top robot vacuums that won’t break the bank.",
+      "sourceUrl": null,
+      "webUrl": "https://ktla.com/reviews/br/apparel-br/holiday-br/best-black-friday-robot-vacuum-deals-2023/",
+      "originalUrl": "https://ktla.com/reviews/br/apparel-br/holiday-br/best-black-friday-robot-vacuum-deals-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ktla.com/wp-content/uploads/sites/4/2023/11/turkey5_2023_landingpageheroes_robotvacuum_cybermonday_white-2.jpg?w=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://ktla.com/reviews/br/apparel-br/holiday-br/best-black-friday-robot-vacuum-deals-2023/amp/",
+      "cdnAmpWebUrl": "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/reviews/br/apparel-br/holiday-br/best-black-friday-robot-vacuum-deals-2023/amp/",
+      "publishedDateTime": "2023-11-22T16:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTLA",
+        "domain": "ktla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-23-hyundai-unveils-robot-operated-ev-plant-in-singapore.md",
+      "title": "Hyundai Unveils Robot-Operated EV Plant in Singapore",
+      "excerpt": "After beating General Motors and Ford in US electric vehicle (EV) sales in Q3, Hyundai Motor Group plans to keep its momentum going in the market.Hyundai officially launched its new",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/content/35921762/hyundai-unveils-robot-operated-ev-plant-in-singapore",
+      "originalUrl": "https://www.benzinga.com/content/35921762/hyundai-unveils-robot-operated-ev-plant-in-singapore",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/35921762",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35921762",
+      "publishedDateTime": "2023-11-22T16:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-23-leadingage23-how-will-generative-ai-and-robotics-impact-senior-care.md",
+      "title": "LeadingAge23: How Will Generative AI and Robotics Impact Senior Care?",
+      "excerpt": "Leaders in the aging-services sector discussed the role of generative artificial intelligence and robotics today and for the future.",
+      "sourceUrl": null,
+      "webUrl": "https://healthtechmagazine.net/article/2023/11/leadingage23-how-will-generative-ai-and-robotics-impact-senior-care",
+      "originalUrl": "https://healthtechmagazine.net/article/2023/11/leadingage23-how-will-generative-ai-and-robotics-impact-senior-care",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202311/AI-hero.jpg?itok=TMKoXvUz",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://healthtechmagazine.net/article/2023/11/leadingage23-how-will-generative-ai-and-robotics-impact-senior-care?amp",
+      "cdnAmpWebUrl": "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2023/11/leadingage23-how-will-generative-ai-and-robotics-impact-senior-care?amp",
+      "publishedDateTime": "2023-11-22T16:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HealthTech",
+        "domain": "healthtechmagazine.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-23-how-ai-robotics-and-machine-learning-can-improve-food-traceability.md",
+      "title": "How AI, Robotics and Machine Learning Can Improve Food Traceability",
+      "excerpt": "Advanced artificial intelligence (AI), robotics and machine learning technologies can help manufacturers improve food traceability, ensure the safety of their products and build trust with customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.automation.com/en-us/articles/november-2023/ai-robotics-machine-learning-food-traceability",
+      "originalUrl": "https://www.automation.com/en-us/articles/november-2023/ai-robotics-machine-learning-food-traceability",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.automation.com/getmedia/682bf491-966a-43d0-af15-f52f9bba87fc/TM-robotics-feature-Nov-22-2023-web.png?width=500&height=313&ext=.png",
+          "width": 500,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-22T16:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automation",
+        "domain": "automation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-11-22-osium-ai-uses-artificial-intelligence-to-speed-up-materials-innovation.md",
+      "title": "Osium AI uses artificial intelligence to speed up materials innovation",
+      "excerpt": "While everybody is trying to figure out how artificial intelligence can be leveraged across various industries, French startup Osium AI has found an interesting use cases for AI — research and development in materials science. Founded by Sarah Najmark ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/11/22/osium-ai-uses-artificial-intelligence-to-speed-up-materials-innovation/",
+      "originalUrl": "https://techcrunch.com/2023/11/22/osium-ai-uses-artificial-intelligence-to-speed-up-materials-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/11/3f7e0350-9331-4b3b-8bfe-e932c5b1325c.jpeg?resize=1200,819",
+          "width": 1200,
+          "height": 819,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/11/22/osium-ai-uses-artificial-intelligence-to-speed-up-materials-innovation/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/22/osium-ai-uses-artificial-intelligence-to-speed-up-materials-innovation/amp/",
+      "publishedDateTime": "2023-11-22T12:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-11-22-cyber-security-in-robotics-market-surges-ahead-with-a-striking-projected-value-of-us-116-billion-by-2033.md",
+      "title": "Cyber Security in Robotics Market Surges Ahead with a Striking Projected Value of US$ 11.6 Billion by 2033",
+      "excerpt": "The Cyber security in robotics market is poised for substantial growth, with a consistent Compound Annual Growth Rate (CAGR) of 11.7% expected during the forecasted period. In 2023, the market is projected to generate revenues of approximately US$ 3.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fmiblog.com/2023/11/22/cyber-security-in-robotics-market-surges-ahead-with-a-striking-projected-value-of-us-11-6-billion-by-2033/",
+      "originalUrl": "https://www.fmiblog.com/2023/11/22/cyber-security-in-robotics-market-surges-ahead-with-a-striking-projected-value-of-us-11-6-billion-by-2033/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fmiblog.com/wp-content/uploads/2023/11/Cyber-Security-in-Robotics-Market.jpg",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-22T02:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Future Market Insights",
+        "domain": "fmiblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-11-22-new-yorks-drones-robotics-ai-summit-ushers-in-a-growing-automation-industry.md",
+      "title": "New York’s Drones & Robotics AI Summit Ushers In A Growing Automation Industry",
+      "excerpt": "Join the millions and keep up with the stories shaping entrepreneurship. Sign up today.",
+      "sourceUrl": null,
+      "webUrl": "https://www.alleywatch.com/2023/11/new-yorks-drones-robotics-ai-summit-ushers-in-a-growing-automation-industry/",
+      "originalUrl": "https://www.alleywatch.com/2023/11/new-yorks-drones-robotics-ai-summit-ushers-in-a-growing-automation-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://alleywatch.com/wp-content/uploads/2023/11/incogni-data-privacy-removal.png",
+          "width": 300,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-21T22:37:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "alleywatch.com",
+        "domain": "alleywatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-22-hyundais-robot-heavy-ev-factory-in-singapore-is-fully-operational.md",
+      "title": "Hyundai’s robot-heavy EV factory in Singapore is fully operational",
+      "excerpt": "While a car factory vegetable garden may sound somewhat odd, it actually compliments the Singapore government’s ongoing “ 30 by 30 ” initiative. Due to the region’s rocky geology, Singapore can only utilize about one percent of its land for agriculture—an estimated 90 percent of all food in the area must be imported.",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsci.com/technology/hyundai-singapore-factory/",
+      "originalUrl": "https://www.popsci.com/technology/hyundai-singapore-factory/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.popsci.com/uploads/2023/11/21/Large-57885-NewHyundaiMotorGroupInnovationCenterSingaporeSettoTransformProductionRDandCustomerExperience-scaled.jpg?auto=webp",
+          "width": 2560,
+          "height": 1710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.popsci.com/technology/hyundai-singapore-factory/?amp",
+      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/hyundai-singapore-factory/?amp",
+      "publishedDateTime": "2023-11-21T18:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Science",
+        "domain": "popsci.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-21-small-batch-evs-and-plenty-of-robotshyundais-new-innovation-center.md",
+      "title": "Small-batch EVs and plenty of robots—Hyundai’s new innovation center",
+      "excerpt": "Hyundai's Innovation Center has put robots in charge of that entire task. One robot places the dash while another swings in and secures it to the vehicle. An impressive feat, because this task is full of constantly changing variables.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/cars/2023/11/small-batch-evs-and-plenty-of-robots-hyundais-new-innovation-center/",
+      "originalUrl": "https://arstechnica.com/cars/2023/11/small-batch-evs-and-plenty-of-robots-hyundais-new-innovation-center/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/CSC05707-800x534.jpg",
+          "width": 800,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/cars/2023/11/small-batch-evs-and-plenty-of-robots-hyundais-new-innovation-center/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/11/small-batch-evs-and-plenty-of-robots-hyundais-new-innovation-center/amp/",
+      "publishedDateTime": "2023-11-21T15:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-21-new-york-drones-robotics-ai-summit-heralds-growing-automation-industry.md",
+      "title": "New York Drones & Robotics AI Summit Heralds Growing Automation Industry",
+      "excerpt": "Speakers at the Drones & Robotics AI Summit in New York discussed state and federal support of tech startups, as well as opportunities",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/drones-robotics-ai-summit-new-york-heralds-growing-automation-industry/",
+      "originalUrl": "https://www.therobotreport.com/drones-robotics-ai-summit-new-york-heralds-growing-automation-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-21T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-21-polish-company-employs-worlds-first-ever-ai-humanoid-robot-ceo.md",
+      "title": "Polish company employs world's first ever AI humanoid robot CEO",
+      "excerpt": "During an interview with Fox Business over a video call, it was noted that there was a “significant delay” in Mika’s response time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tbsnews.net/offbeat/polish-company-employs-worlds-first-ever-ai-humanoid-robot-ceo-743622",
+      "originalUrl": "https://www.tbsnews.net/offbeat/polish-company-employs-worlds-first-ever-ai-humanoid-robot-ceo-743622",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/11/21/dictador_mika_.jpg",
+          "width": 600,
+          "height": 314,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.tbsnews.net/offbeat/polish-company-employs-worlds-first-ever-ai-humanoid-robot-ceo-743622?amp",
+      "cdnAmpWebUrl": "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/offbeat/polish-company-employs-worlds-first-ever-ai-humanoid-robot-ceo-743622?amp",
+      "publishedDateTime": "2023-11-21T07:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tbsnews",
+        "domain": "tbsnews.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-20-chinese-robot-combines-wheels-and-legs-to-conquer-any-terrain.md",
+      "title": "Chinese robot combines wheels and legs to conquer any terrain",
+      "excerpt": "It is part of a growing trend and demand for legged robots, especially in China, where the government and the industry are investing heavily in robotics and artificial intelligence ... Pre-orders will start later this year, along with performance, specs ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/chinese-robot-combines-wheels-and-legs-to-conquer-any-terrain",
+      "originalUrl": "https://www.foxnews.com/tech/chinese-robot-combines-wheels-and-legs-to-conquer-any-terrain",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/99f695b8-7440-42e4-80d8-68e21dc124be/e3631157-0d31-40ee-901a-b7602a60acf4/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/chinese-robot-combines-wheels-and-legs-to-conquer-any-terrain.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/chinese-robot-combines-wheels-and-legs-to-conquer-any-terrain.amp",
+      "publishedDateTime": "2023-11-20T15:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-20-save-up-to-45-with-roborock-black-friday-robot-vacuum-and-mop-discounts.md",
+      "title": "Save up to 45% with Roborock Black Friday robot vacuum and mop discounts",
+      "excerpt": "Invest in a Roborock vacuum and mop to help with holiday cleaning by taking advantage of huge discounts for Black Friday.",
+      "sourceUrl": null,
+      "webUrl": "https://appleinsider.com/articles/23/11/20/save-up-to-45-with-roborock-black-friday-robot-vacuum-and-mop-discounts",
+      "originalUrl": "https://appleinsider.com/articles/23/11/20/save-up-to-45-with-roborock-black-friday-robot-vacuum-and-mop-discounts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://photos5.appleinsider.com/gallery/57157-116216-1-xl.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://appleinsider.com/articles/23/11/20/save-up-to-45-with-roborock-black-friday-robot-vacuum-and-mop-discounts/amp/",
+      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/11/20/save-up-to-45-with-roborock-black-friday-robot-vacuum-and-mop-discounts/amp/",
+      "publishedDateTime": "2023-11-20T10:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-20-thanks-to-ai-robots-are-aware-of-their-surroundings.md",
+      "title": "Thanks to AI, Robots Are Aware of Their Surroundings",
+      "excerpt": "Now we’re looking at machine learning and AI algorithms that teach the robot new tasks ... Not a lot the companies are doing that yet, but a lot of start-ups are developing it.” Robots have taken over manufacturing and warehouses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/robotics/thanks-ai-robots-are-aware-their-surroundings",
+      "originalUrl": "https://www.mddionline.com/robotics/thanks-ai-robots-are-aware-their-surroundings",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/Feature_106.jpg",
+          "width": 1540,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-20T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-19-new-photothermal-material-enables-remote-controlled-soft-robots-to-crawl-like-earthworms.md",
+      "title": "New photothermal material enables remote-controlled soft robots to crawl like earthworms",
+      "excerpt": "Optical control enables fast, precise activation without bulky onboard components. Several light-driven soft robots have been demonstrated, but thus far most rely on intricate 3D-printed geometries to produce net forward propulsion from the isotropic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nanowerk.com/news2/robotics/newsid=64071.php",
+      "originalUrl": "https://www.nanowerk.com/news2/robotics/newsid=64071.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nanowerk.com/smart/images/smartworlder.jpg",
+          "width": 400,
+          "height": 217,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-19T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nanowerk",
+        "domain": "nanowerk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-17-experts-warn-against-using-artificial-intelligence-for-mental-health-support.md",
+      "title": "Experts warn against using artificial intelligence for mental health support",
+      "excerpt": "While AI can be a useful tool for so many things, there’s a growing concern about the danger associated with using robots in place of the human touch.",
+      "sourceUrl": null,
+      "webUrl": "https://katv.com/news/local/experts-warn-against-using-artificial-intelligence-for-mental-health-support",
+      "originalUrl": "https://katv.com/news/local/experts-warn-against-using-artificial-intelligence-for-mental-health-support",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://katv.com/resources/media/1dbab09f-56d2-40a5-bd3c-2e4bd94d6c11-large16x9_thumb_37984.png",
+          "width": 986,
+          "height": 555,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://katv.com/amp/news/local/experts-warn-against-using-artificial-intelligence-for-mental-health-support",
+      "cdnAmpWebUrl": "https://katv-com.cdn.ampproject.org/c/s/katv.com/amp/news/local/experts-warn-against-using-artificial-intelligence-for-mental-health-support",
+      "publishedDateTime": "2023-11-17T14:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "katv",
+        "domain": "katv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-11-17-robotics-startup-steals-the-spotlight-at-huddle-global.md",
+      "title": "Robotics startup steals the spotlight at Huddle Global",
+      "excerpt": "THIRUVANANTHAPURAM: The third edition of Huddle Global 2023, a startup conclave organised by the Kerala Startup Mission (KSUM), showcased numerous innovators and technology enthusiasts ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newindianexpress.com/cities/thiruvananthapuram/2023/nov/17/robotics-startupsteals-the-spotlight-at-huddle-global-2633621.html",
+      "originalUrl": "https://www.newindianexpress.com/cities/thiruvananthapuram/2023/nov/17/robotics-startupsteals-the-spotlight-at-huddle-global-2633621.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/11/17/w600X390/Huddle_global.jpg",
+          "width": 600,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.newindianexpress.com/cities/thiruvananthapuram/2023/nov/17/robotics-startupsteals-the-spotlight-at-huddle-global-2633621.amp",
+      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/thiruvananthapuram/2023/nov/17/robotics-startupsteals-the-spotlight-at-huddle-global-2633621.amp",
+      "publishedDateTime": "2023-11-17T11:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Indian Express",
+        "domain": "newindianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-17-are-humanoid-robots-the-processing-and-packaging-labor-force-of-the-future.md",
+      "title": "Are Humanoid Robots the Processing and Packaging Labor Force of The Future?",
+      "excerpt": "With advanced AI software, dexterous “hands,” and full body mobility, will humanoid robots be the answer to the shortage of labor on the packaging line?",
+      "sourceUrl": null,
+      "webUrl": "https://www.packworld.com/robotics/article/22879233/are-humanoid-robots-the-processing-and-packaging-labor-force-of-the-future",
+      "originalUrl": "https://www.packworld.com/robotics/article/22879233/are-humanoid-robots-the-processing-and-packaging-labor-force-of-the-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.packworld.com/files/base/pmmi/all/image/2023/11/Apollo_Box_Conveyor.65567a4486dbd.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-16T21:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Packaging World",
+        "domain": "packworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-17-ai-is-already-being-melded-with-roboticsone-outcome-could-be-powerful-new-weapons.md",
+      "title": "AI is already being melded with robotics—one outcome could be powerful new weapons",
+      "excerpt": "Interest in the incorporation of robots into security, policing and military operations has been steadily increasing over the last few years. It's an avenue already being explored in both North America and Europe.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-11-ai-melded-roboticsone-outcome-powerful.html",
+      "originalUrl": "https://techxplore.com/news/2023-11-ai-melded-roboticsone-outcome-powerful.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-is-already-being-me.jpg",
+          "width": 1356,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-11-ai-melded-roboticsone-outcome-powerful.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-11-ai-melded-roboticsone-outcome-powerful.amp",
+      "publishedDateTime": "2023-11-16T17:12:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-16-techbrew-robotics-rebrands-as-4ag-robotics-raises-175m-to-solve-the-mushroom-harvesting-challenge-with-robotics.md",
       "title": "TechBrew Robotics rebrands as 4AG Robotics, raises $17.5m to solve the mushroom harvesting challenge with robotics",
       "excerpt": "AG has developed an autonomous harvesting robot it says can greatly alleviate labor challenges in the mushroom industry.",
@@ -241,1046 +1304,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-the-squishy-robot-that-walks-the-pros-and-cons-of-ai-seeing-things-that-we-dont.md",
-      "title": "The Squishy Robot That Walks: The Pros and Cons of AI Seeing Things That We Don’t",
-      "excerpt": "An AI built a robot that can walk in a way we can't comprehend. This is a genie in a box that poses incredible opportunities — and risks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techopedia.com/the-squishy-robot-that-walks-the-pros-and-cons-of-ai-seeing-things-that-we-dont",
-      "originalUrl": "https://www.techopedia.com/the-squishy-robot-that-walks-the-pros-and-cons-of-ai-seeing-things-that-we-dont",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T10:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Techopedia",
-        "domain": "techopedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-pittsburgh-robotics-discovery-day-promises-human-centered-exhibits-of-ai-robotics.md",
-      "title": "‘Pittsburgh Robotics Discovery Day’ promises ‘human-centered’ exhibits of AI, robotics",
-      "excerpt": "Pittsburgh Robotics Discovery Day is scheduled for this Thursday at the David L. Lawrence Convention Center. Organizers of this year's event promise nearly 130-thousand square feet of \"human-centered\" robotics,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wesa.fm/economy-business/2023-11-14/second-pittsburgh-robotics-discovery-day",
-      "originalUrl": "https://www.wesa.fm/economy-business/2023-11-14/second-pittsburgh-robotics-discovery-day",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://npr.brightspotcdn.com/dims4/default/742fb88/2147483647/strip/true/crop/5760x3024+0+372/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa6%2F7f%2F897b385144978dcbae2a9237703e%2Fdd9.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T10:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WESA",
-        "domain": "wesa.fm",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-sharechat-co-founders-raise-3-million-from-india-quotient-elevation-capital-for-robotics-startup.md",
-      "title": "Sharechat co-founders raise $3 million from India Quotient, Elevation Capital for robotics startup",
-      "excerpt": "P.S. If you're as passionate about robotics as we are, reach out, connect, and let's build something extraordinary together.” The round comes at a time when internet startups are struggling to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/business/startup/sharechat-co-founders-raise-3-million-from-india-quotient-elevation-capital-for-robotics-startup-11735851.html",
-      "originalUrl": "https://www.moneycontrol.com/news/business/startup/sharechat-co-founders-raise-3-million-from-india-quotient-elevation-capital-for-robotics-startup-11735851.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2023/09/Artificial-Intelligence.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/business/startup/sharechat-co-founders-raise-3-million-from-india-quotient-elevation-capital-for-robotics-startup-11735851.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/startup/sharechat-co-founders-raise-3-million-from-india-quotient-elevation-capital-for-robotics-startup-11735851.html/amp",
-      "publishedDateTime": "2023-11-13T22:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-13-sharechat-cofounders-raise-3-mn-for-their-robotics-startup-general-autonomy.md",
-      "title": "Sharechat Cofounders Raise $3 Mn For Their Robotics Startup General Autonomy",
-      "excerpt": "Sharechat cofounders Farid Ahsan and Bhanu Pratap Singh have raised $3 Mn in seed funding for their robotics startup General Autonomy.",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/sharechat-cofounders-raise-3-mn-for-their-robotics-startup-general-autonomy/",
-      "originalUrl": "https://inc42.com/buzz/sharechat-cofounders-raise-3-mn-for-their-robotics-startup-general-autonomy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/sharechat-cofounders-raise-3-mn-for-their-robotics-startup-general-autonomy/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/sharechat-cofounders-raise-3-mn-for-their-robotics-startup-general-autonomy/amp/",
-      "publishedDateTime": "2023-11-13T14:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-13-humanoid-robots-are-here-but-theyre-a-little-awkward-do-we-really-need-them.md",
-      "title": "Humanoid robots are here, but they're a little awkward. Do we really need them?",
-      "excerpt": "(AP Photo/Matt Freed) Building a robot that’s both human-like and useful is a decades-old engineering dream inspired by popular science fiction. While the latest artificial intelligence craze ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/ap/ap-business/humanoid-robots-are-here-but-theyre-a-little-awkward-do-we-really-need-them/article_2eb7c7f8-1938-5aa7-bf59-8c969534bc20.html",
-      "originalUrl": "https://www.wfmz.com/news/ap/ap-business/humanoid-robots-are-here-but-theyre-a-little-awkward-do-we-really-need-them/article_2eb7c7f8-1938-5aa7-bf59-8c969534bc20.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T09:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-13-worlds-first-ai-robot-ceo-becomes-an-honorary-professor.md",
-      "title": "World's first AI robot CEO becomes an honorary professor",
-      "excerpt": "The world's first AI robot CEO has become an honorary professor. Mika, who heads up Polish rum firm Dictador, was presented the award during the recent 2023/24 Collegium Humanum University",
-      "sourceUrl": null,
-      "webUrl": "https://www.victoriaadvocate.com/worlds-first-ai-robot-ceo-becomes-an-honorary-professor/video_782cb487-0b5f-59aa-9ff6-697608d9a854.html",
-      "originalUrl": "https://www.victoriaadvocate.com/worlds-first-ai-robot-ceo-becomes-an-honorary-professor/video_782cb487-0b5f-59aa-9ff6-697608d9a854.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T07:37:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Victoria Advocate",
-        "domain": "victoriaadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-13-is-artificial-intelligence-all-that-intelligent-ai-influencers-worry-about-wishful-thinking.md",
-      "title": "Is artificial intelligence all that intelligent? AI influencers worry about wishful thinking",
-      "excerpt": "Two of Time's top 100 influencers on artificial intelligence, Ted Chiang and Emily Bender, explore the potential dark side of generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/ai-chiang-bender-wishful-thinking/?n=@",
-      "originalUrl": "https://www.geekwire.com/2023/ai-chiang-bender-wishful-thinking/?n=@",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T17:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-13-chatgpt-ai-robots-writing-church-sermons-causing-hell-for-pastors-new-york-post.md",
-      "title": "ChatGPT AI robots writing church sermons causing hell for pastors – New York Post",
-      "excerpt": "Thanks for contacting us. We've received your submission. Among sermon writers, there is fascination – and unease – over the fast-expanding abilities",
-      "sourceUrl": null,
-      "webUrl": "https://www.inferse.com/793806/chatgpt-ai-robots-writing-church-sermons-causing-hell-for-pastors-new-york-post/",
-      "originalUrl": "https://www.inferse.com/793806/chatgpt-ai-robots-writing-church-sermons-causing-hell-for-pastors-new-york-post/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-8059.png",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T16:12:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inferse",
-        "domain": "inferse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-12-is-artificial-intelligence-all-that-intelligent-ai-influencers-worry-about-wishful-thinking.md",
-      "title": "Is artificial intelligence all that intelligent? AI influencers worry about wishful thinking",
-      "excerpt": "BOT or NOT? This special series explores the evolving relationship between humans and machines, examining the ways that robots, artificial intelligence and automation are impacting our work and lives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/ai-chiang-bender-wishful-thinking/",
-      "originalUrl": "https://www.geekwire.com/2023/ai-chiang-bender-wishful-thinking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/11/231111-ai.jpg",
-          "width": 3427,
-          "height": 2770,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T09:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-12-figure-ai-ceo-talks-billions-of-humanoid-robots.md",
-      "title": "Figure AI CEO Talks Billions of Humanoid Robots",
-      "excerpt": "It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge technologies, he is currently a Co-Founder of a startup and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextbigfuture.com/2023/11/figure-ai-ceo-talks-billions-of-humanoid-robots.html",
-      "originalUrl": "https://www.nextbigfuture.com/2023/11/figure-ai-ceo-talks-billions-of-humanoid-robots.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T06:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NextBigFuture",
-        "domain": "nextbigfuture.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-10-ai-robotics-gpt-moment-is-near.md",
-      "title": "AI robotics’ ‘GPT moment’ is near",
-      "excerpt": "Building AI-powered robots that can learn how to interact with the physical world will enhance all forms of repetitive work.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/11/10/ai-robotics-gpt-moment-is-near/",
-      "originalUrl": "https://techcrunch.com/2023/11/10/ai-robotics-gpt-moment-is-near/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/07/robustai.jpg?resize=1200,957",
-          "width": 1200,
-          "height": 957,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/11/10/ai-robotics-gpt-moment-is-near/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/10/ai-robotics-gpt-moment-is-near/amp/",
-      "publishedDateTime": "2023-11-10T14:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "Natural Language Processing",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-11-10-3-millionaire-maker-robotics-stocks-to-buy-in-november-2023.md",
-      "title": "3 Millionaire-Maker Robotics Stocks to Buy in November 2023",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Robotics and automation are a necessity for the future. Be it for operational",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/3-millionaire-maker-robotics-stocks-to-buy-in-november-2023-1032806448",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-millionaire-maker-robotics-stocks-to-buy-in-november-2023-1032806448",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-10T11:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-09-an-industrial-robot-crushes-worker-to-death-at-a-plant-in-south-korea.md",
-      "title": "An industrial robot crushes worker to death at a plant in South Korea",
-      "excerpt": "SEOUL, South Korea -- An industrial robot crushed a worker to death at a vegetable packaging plant in South Korea, police said Thursday, as they investigate whether the machine was unsafe or had potential defects.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Technology/wireStory/industrial-robot-crushed-worker-death-vegetable-packing-plant-104749839",
-      "originalUrl": "https://abcnews.go.com/Technology/wireStory/industrial-robot-crushed-worker-death-vegetable-packing-plant-104749839",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/International/wirestory_976dc34487051c762362f17166c17fd7_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/industrial-robot-crushed-worker-death-vegetable-packing-plant-104749839",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/industrial-robot-crushed-worker-death-vegetable-packing-plant-104749839",
-      "publishedDateTime": "2023-11-09T15:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-09-deadly-robot-mistook-human-for-box-killed-man-and-raised-safety-concerns.md",
-      "title": "Deadly Robot Mistook Human for Box, Killed Man, and Raised Safety Concerns!",
-      "excerpt": "The tragedy occurred at a factory in Seoul, South Korea. The factory had been using robotic workers to reduce costs, as have many of their competitors. The industrial robot was tasked with lifting and stacking boxes of vegetables onto pallets. This helped the factory save time and money.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2023/11/09/robot-crushes-man-to-death/",
-      "originalUrl": "https://www.gizmochina.com/2023/11/09/robot-crushes-man-to-death/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/11/robot-crushes-man-to-death.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-09T15:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-09-a-cautionary-tale-of-the-friendly-robot-co-worker.md",
-      "title": "A Cautionary Tale Of The Friendly Robot Co-Worker",
-      "excerpt": "I believe it is prudent to think about several of the possibilities that uninhibited AI could have broadly, but in this article, I am going to focus on the workplace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/11/09/a-cautionary-tale-of-the-friendly-robot-co-worker/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/11/09/a-cautionary-tale-of-the-friendly-robot-co-worker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64e38c9a3173937eb80c8def/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/11/09/a-cautionary-tale-of-the-friendly-robot-co-worker/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/11/09/a-cautionary-tale-of-the-friendly-robot-co-worker/amp/",
-      "publishedDateTime": "2023-11-09T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-09-smart-disruption-china-will-mass-produce-ai-powered-humanoid-robots-by-2025-to-unsettle-industry.md",
-      "title": "Smart disruption? China will mass-produce AI-powered humanoid robots by 2025 to unsettle industry",
-      "excerpt": "China hopes to disrupt industries and how factories function just like how smartphones disrupted human interaction. For that, they are planning to start manufacturing AI powered humanoid robots en mas",
-      "sourceUrl": null,
-      "webUrl": "https://www.firstpost.com/tech/china-to-mass-produce-ai-powered-humanoid-robots-by-2025-to-unsettle-industry-13368592.html",
-      "originalUrl": "https://www.firstpost.com/tech/china-to-mass-produce-ai-powered-humanoid-robots-by-2025-to-unsettle-industry-13368592.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.firstpost.com/wp-content/uploads/2023/11/Mindless-disruption-China-to-mass-produce-AI-powered-humanoid-robots-by-2025-.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.firstpost.com/tech/china-to-mass-produce-ai-powered-humanoid-robots-by-2025-to-unsettle-industry-13368592.html/amp",
-      "cdnAmpWebUrl": "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/china-to-mass-produce-ai-powered-humanoid-robots-by-2025-to-unsettle-industry-13368592.html/amp",
-      "publishedDateTime": "2023-11-09T08:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Firstpost",
-        "domain": "firstpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-09-the-secret-genius-of-modern-life-review-clever-dog-is-this-disco-dancing-robot-the-future-of-border-control-writes-christopher-stevens.md",
-      "title": "The Secret Genius Of Modern Life review: Clever dog! Is this disco dancing robot the future of border control? writes CHRISTOPHER STEVENS",
-      "excerpt": "This is the Artificial Intelligence we need in our lives — a bright yellow, dancing robot dog with a rotating ... the dog has been developed by a border control firm for use at airports.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/tvshowbiz/article-12726983/The-Secret-Genius-Modern-Life-review-CHRISTOPHER-STEVENS.html",
-      "originalUrl": "https://www.dailymail.co.uk/tvshowbiz/article-12726983/The-Secret-Genius-Modern-Life-review-CHRISTOPHER-STEVENS.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-09T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-09-robotics-funding-saw-another-dip-in-2023.md",
-      "title": "Robotics funding saw another dip in 2023",
-      "excerpt": "The spike in interest around generative AI — and all things artificial intelligence — has been a piece of maintaining its place. The last few years have also afforded robotics firms a chance to prove their efficacy in the real world, demonstrating the ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/11/08/robotics-funding-saw-another-dip-in-2023/",
-      "originalUrl": "https://techcrunch.com/2023/11/08/robotics-funding-saw-another-dip-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/04/robot-arm-money-1.jpg?resize=1200,645",
-          "width": 1200,
-          "height": 645,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/11/08/robotics-funding-saw-another-dip-in-2023/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/08/robotics-funding-saw-another-dip-in-2023/amp/",
-      "publishedDateTime": "2023-11-08T22:57:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-worlds-first-ai-robot-ceo-becomes-an-honorary-professor.md",
-      "title": "World’s first AI robot CEO becomes an honorary professor",
-      "excerpt": "The world's first AI robot CEO has become an honorary professor. Mika, who heads up Polish rum firm Dictador, was presented the award during the recent 2023/24 Collegium Humanum University inauguration in Warsaw.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tiogapublishing.com/news/nation/world-s-first-ai-robot-ceo-becomes-an-honorary-professor/article_a2a8c5f2-fe04-540c-8618-b3a8f695126e.html",
-      "originalUrl": "https://www.tiogapublishing.com/news/nation/world-s-first-ai-robot-ceo-becomes-an-honorary-professor/article_a2a8c5f2-fe04-540c-8618-b3a8f695126e.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/tiogapublishing.com/content/tncms/assets/v3/editorial/1/00/1000df76-be8a-5120-9dfc-46fdbc76f7cc/654bb4901de33.image.jpg?crop=1280%2C672%2C0%2C90&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T14:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TiogaPublishing.com",
-        "domain": "tiogapublishing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-ai-robots-marketing-and-the-power-of-persuasion.md",
-      "title": "AI robots, marketing, and the power of persuasion",
-      "excerpt": "Associate Professor Mark Yi-Cheon Yim engages with a companion unlike any other. On his desk sits a charming AI robot dog, a Sony aibo.",
-      "sourceUrl": null,
-      "webUrl": "https://www.earth.com/news/ai-robots-marketing-and-the-power-of-persuasion/",
-      "originalUrl": "https://www.earth.com/news/ai-robots-marketing-and-the-power-of-persuasion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cff2.earth.com/uploads/2023/11/07165122/AI-robot_cashier_store_1medium.jpg",
-          "width": 2500,
-          "height": 1881,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T00:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "earth",
-        "domain": "earth.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Marketing",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-artificial-intelligence-robotics-market-research-2023-2030.md",
-      "title": "Artificial Intelligence Robotics Market Research | 2023-2030",
-      "excerpt": "It enables stakeholders to assess the amount of competition in the Artificial Intelligence Robotics business as well as its attractiveness. The competitive landscape helps stakeholders understand ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1107390342/Artificial-Intelligence-Robotics-Market-Research-2023-2030",
-      "originalUrl": "https://menafn.com/1107390342/Artificial-Intelligence-Robotics-Market-Research-2023-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T00:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-humanoid-robots-are-here-but-theyre-a-little-awkward-do-we-really-need-them.md",
-      "title": "Humanoid robots are here, but they're a little awkward. Do we really need them?",
-      "excerpt": "Rival robot-makers, like Figure AI, are taking a more purist approach on the idea that only true humanoids can effectively navigate workplaces, homes and a society built for humans. Figure also plans to start with a relatively simple use case, such as in a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wral.com/story/humanoid-robots-are-here-but-theyre-a-little-awkward-do-we-really-need-them/21134051/",
-      "originalUrl": "https://www.wral.com/story/humanoid-robots-are-here-but-theyre-a-little-awkward-do-we-really-need-them/21134051/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wwwcache.wral.com/asset/news/technology/2023/11/05/21134054/6547a20718d8c-media_e85d3581bf024703a51bb2dad6ab43c0-DMID1-60tzigarv-640x480.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.wral.com/amp/21134051/",
-      "cdnAmpWebUrl": "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/amp/21134051/",
-      "publishedDateTime": "2023-11-07T23:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL",
-        "domain": "wral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-ai-helps-make-supply-chains-less-brittle-to-an-extent.md",
-      "title": "AI Helps Make Supply Chains Less Brittle, To An Extent",
-      "excerpt": "Skills shortfalls in supply chains is the top concern for 2,000 supply chain executives, cited 57% participating in a survey by MHI, a supply-chain industry trade association, con",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/11/07/ai-helps-make-supply-chains-less-brittle-to-an-extent/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/11/07/ai-helps-make-supply-chains-less-brittle-to-an-extent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/654a6f73918f7643d7c28f87/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 847,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/11/07/ai-helps-make-supply-chains-less-brittle-to-an-extent/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/11/07/ai-helps-make-supply-chains-less-brittle-to-an-extent/amp/",
-      "publishedDateTime": "2023-11-07T16:12:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-07-the-evolution-of-ai-from-ibm-and-aws-to-openai-and-anthropic.md",
-      "title": "The Evolution Of AI: From IBM And AWS To OpenAI and Anthropic",
-      "excerpt": "The history of AI is attributed to technologists from IBM, Amazon, Apple, Google, OpenAI and more. In this journey, key players have emerged, each contributing to the evolution of AI in unique and transformative ways.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/digital-assets/2023/11/07/the-evolution-of-ai-from-ibm-and-aws-to-openai-and-anthropic/",
-      "originalUrl": "https://www.forbes.com/sites/digital-assets/2023/11/07/the-evolution-of-ai-from-ibm-and-aws-to-openai-and-anthropic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65497d0a3b2070434c5a76a2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1353,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-07T13:16:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AWS AI",
-        "IBM AI",
-        "AI in Robotics"
       ]
     }
   ],

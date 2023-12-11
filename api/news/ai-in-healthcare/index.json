@@ -2,6 +2,786 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-06-augmenting-human-capabilities-with-ai-and-computer-vision-for-healthcare.md",
+      "title": "Augmenting Human Capabilities With AI And Computer Vision For Healthcare",
+      "excerpt": "AI and CV are transforming modern healthcare, making it more accessible and accurate. The healthcare industry has been applying CV since the 20th century through the use of medical imaging. However, current solutions allowed it to evolve and improve.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/06/augmenting-human-capabilities-with-ai-and-computer-vision-for-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/06/augmenting-human-capabilities-with-ai-and-computer-vision-for-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c3fc8f3f39b3203eade19f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/06/augmenting-human-capabilities-with-ai-and-computer-vision-for-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/06/augmenting-human-capabilities-with-ai-and-computer-vision-for-healthcare/amp/",
+      "publishedDateTime": "2023-12-06T11:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-4-ai-therapy-options-reviewed-do-they-work.md",
+      "title": "4 AI Therapy Options Reviewed: Do They Work?",
+      "excerpt": "An increasingly hot topic, artificial intelligence, or AI, is being added to various processes across industries, from creative ventures to manufacturing. Health care is no exception, as AI therapy apps enter the space. Below, we cover what AI therapy is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/health/mind/ai-therapy/",
+      "originalUrl": "https://www.forbes.com/health/mind/ai-therapy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/health/wp-content/uploads/2023/12/AI-therapy.jpeg",
+          "width": 958,
+          "height": 539,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T11:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-how-will-artificial-intelligence-change-medicine-and-healthcare.md",
+      "title": "How will Artificial intelligence change medicine and healthcare?",
+      "excerpt": "Artificial intelligence is all over the news with scary stories about how computers will be thinking on their own and eventually taking jobs from people. But there are great",
+      "sourceUrl": null,
+      "webUrl": "https://www.wwlp.com/massappeal/how-will-artificial-intelligence-change-medicine-and-healthcare/",
+      "originalUrl": "https://www.wwlp.com/massappeal/how-will-artificial-intelligence-change-medicine-and-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wwlp.com/wp-content/uploads/sites/26/2023/12/dr-k.jpg?w=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.wwlp.com/massappeal/how-will-artificial-intelligence-change-medicine-and-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-wwlp-com.cdn.ampproject.org/c/s/www.wwlp.com/massappeal/how-will-artificial-intelligence-change-medicine-and-healthcare/amp/",
+      "publishedDateTime": "2023-12-05T17:24:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WWLP-22News",
+        "domain": "wwlp.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-ny-lawmakers-looking-to-address-promise-threat-of-artificial-intelligence.md",
+      "title": "NY lawmakers looking to address promise, threat of artificial intelligence",
+      "excerpt": "AI can greatly advance health care and create better jobs, experts say, but it also can create a deeper gulf in income inequality and help erode human rights and freedoms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsday.com/news/region-state/artificial-intelligence-state-legislature-kathy-hochul-privacy-jobs-aece6jqs",
+      "originalUrl": "https://www.newsday.com/news/region-state/artificial-intelligence-state-legislature-kathy-hochul-privacy-jobs-aece6jqs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.newsday.com/amp/news/region-state/artificial-intelligence-state-legislature-kathy-hochul-privacy-jobs-aece6jqs",
+      "cdnAmpWebUrl": "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/news/region-state/artificial-intelligence-state-legislature-kathy-hochul-privacy-jobs-aece6jqs",
+      "publishedDateTime": "2023-12-05T17:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsday",
+        "domain": "newsday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-rejoy-health-is-revolutionizing-back-and-joint-pain-care-with-artificial-intelligence.md",
+      "title": "Rejoy Health is revolutionizing back and joint pain care with Artificial Intelligence",
+      "excerpt": "In an era where technological advancements continue to reshape the landscape of healthcare, Rejoy Health has emerged as a pioneer with its",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/rejoy-health-is-revolutionizing-back-and-joint-pain-care-with-artificial-intelligence-1032875208",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/rejoy-health-is-revolutionizing-back-and-joint-pain-care-with-artificial-intelligence-1032875208",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh7-us.googleusercontent.com/H3tVBQ8eYTfncfBbpMqhAKirLIh1Z62xUkB8z80Mmlp_EqXLAYIp3ez5l5jN0-4bXl7Y2oi-tDX8CKfALBLf910zlhkIeHkBl_DAn65odV-afwM3UZTdcyennZq_uGb2uzzjpR-MTNxJJdEMW2nYCVQ",
+          "width": 1600,
+          "height": 914,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-05T16:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-05-marylands-new-artificial-intelligence-advisor-starts-as-legislator-calls-for-privacy-law.md",
+      "title": "Maryland’s new Artificial Intelligence advisor starts as legislator calls for privacy law",
+      "excerpt": "A veteran in the field of artificial intelligence over parts of four decades pointed to several everyday uses of the technology already — from use in Apple’s Siri voice recognition system to GPS navigation systems, even to robotic vacuum cleaners like ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/state/2023/12/05/maryland-is-at-starting-line-artificial-intelligence-advisor-says/71765907007/",
+      "originalUrl": "https://www.usatoday.com/story/news/state/2023/12/05/maryland-is-at-starting-line-artificial-intelligence-advisor-says/71765907007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-05T09:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-04-artificial-intelligence-in-teaching-and-learning.md",
+      "title": "Artificial intelligence in teaching and learning",
+      "excerpt": "UD leads the conversation about AI in the context of teaching and learning with an interdisciplinary UD working group and other initiatives",
+      "sourceUrl": null,
+      "webUrl": "https://www.udel.edu/udaily/2023/december/artificial-intelligence-ai-teaching-learning/",
+      "originalUrl": "https://www.udel.edu/udaily/2023/december/artificial-intelligence-ai-teaching-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.udel.edu/content/dam/udelImages/udaily/2023/december/fb-ai-teaching-learning-working-group-800x420.jpg",
+          "width": 800,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T15:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "University of Delaware",
+        "domain": "udel.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-04-how-can-medical-schools-educate-students-on-artificial-intelligence.md",
+      "title": "How Can Medical Schools Educate Students on Artificial Intelligence?",
+      "excerpt": "The University of Texas has developed the first dual degree program in the United States to prepare medical students to work with artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitanalytics.com/features/how-can-medical-schools-educate-students-on-artificial-intelligence",
+      "originalUrl": "https://healthitanalytics.com/features/how-can-medical-schools-educate-students-on-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthitanalytics.com/images/site/features/_normal/ThinkstockPhotos-801680832.jpg",
+          "width": 690,
+          "height": 398,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T14:06:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics",
+        "domain": "healthitanalytics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-04-mira-pharmaceuticals-releases-breakthrough-data-from-artificial-intelligence-simulations.md",
+      "title": "MIRA Pharmaceuticals Releases Breakthrough Data from Artificial Intelligence Simulations",
+      "excerpt": "AI Simulation on MIRA1a Showcases Significant Potential Advantages Over Plant-Based Medical Marijuana Related to Anxiety, Appetite and Cognition",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/mira-pharmaceuticals-releases-breakthrough-data-from-artificial-intelligence-simulations-1032870212",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/mira-pharmaceuticals-releases-breakthrough-data-from-artificial-intelligence-simulations-1032870212",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-04-adopting-and-expanding-ethical-principles-for-generative-artificial-intelligence-from-military-to-healthcare.md",
+      "title": "Adopting and expanding ethical principles for generative artificial intelligence from military to healthcare.",
+      "excerpt": "In 2020, the U.S. Department of Defense officially disclosed a set of ethical principles to guide the use of Artificial Intelligence (AI) technologies on future battlefields. Despite stark differences,",
+      "sourceUrl": null,
+      "webUrl": "https://www.physiciansweekly.com/adopting-and-expanding-ethical-principles-for-generative-artificial-intelligence-from-military-to-healthcare/",
+      "originalUrl": "https://www.physiciansweekly.com/adopting-and-expanding-ethical-principles-for-generative-artificial-intelligence-from-military-to-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.physiciansweekly.com/wp-content/uploads/2023/08/allergy-allergist-skin-text-allergen-patient-doctor-office.jpg",
+          "width": 2384,
+          "height": 1257,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T05:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Too Old to Operate",
+        "domain": "physiciansweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-12-04-artificial-intelligence-ai-what-it-is-and-how-it-is-used.md",
+      "title": "Artificial Intelligence (AI): What It Is and How It Is Used",
+      "excerpt": "Other examples of machines with artificial intelligence include computers that play chess and self-driving cars. Each of these machines must weigh the consequences of any action they take ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.investopedia.com/terms/a/artificial-intelligence-ai.asp",
+      "originalUrl": "https://www.investopedia.com/terms/a/artificial-intelligence-ai.asp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.investopedia.com/thmb/4K3hIci9bUF3521OUjC-cCG3NpE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/terms_a_artificial-intelligence-ai_asp-FINAL-ddba8ac599f3438d8064350d2ee1ae5a.jpg",
+          "width": 1500,
+          "height": 1013,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investopedia",
+        "domain": "investopedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-12-03-how-artificial-intelligence-is-redefining-health-care-in-india.md",
+      "title": "How artificial intelligence is redefining health care in India",
+      "excerpt": "But now, it has come down to just four of them as everything is done by artificial intelligence (AI).” Now all they have to do is simply tell the machine orally that they need to do an MRI, say, of the knee for trauma.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theweek.in/theweek/cover/2023/12/02/artificial-intelligence-is-redefining-healthcare-in-india.html",
+      "originalUrl": "https://www.theweek.in/theweek/cover/2023/12/02/artificial-intelligence-is-redefining-healthcare-in-india.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theweek.in/content/dam/week/magazine/theweek/cover/images/2023/12/2/48-eye.jpg",
+          "width": 760,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.theweek.in/theweek/cover/2023/12/02/artificial-intelligence-is-redefining-healthcare-in-india.amp.html",
+      "cdnAmpWebUrl": "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/theweek/cover/2023/12/02/artificial-intelligence-is-redefining-healthcare-in-india.amp.html",
+      "publishedDateTime": "2023-12-03T01:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Week",
+        "domain": "theweek.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-03-brfs-center-for-molecular-imaging-and-therapy-to-acquire-states-most-advanced-petct-scanner-by-january.md",
+      "title": "BRF’s Center for Molecular Imaging and Therapy to acquire state’s most advanced PET/CT scanner by January",
+      "excerpt": "SHREVEPORT, La. - Northwest Louisiana is closer to offering the state’s most technologically advanced PET/CT scanner to patients of BRF’s Center for Molecular Imaging and Therapy (CMIT). BRF has relea",
+      "sourceUrl": null,
+      "webUrl": "https://www.ktbs.com/news/brf-s-center-for-molecular-imaging-and-therapy-to-acquire-state-s-most-advanced-pet/article_4c7c084e-9137-11ee-8c5d-233fa7517f2b.html",
+      "originalUrl": "https://www.ktbs.com/news/brf-s-center-for-molecular-imaging-and-therapy-to-acquire-state-s-most-advanced-pet/article_4c7c084e-9137-11ee-8c5d-233fa7517f2b.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/ktbs.com/content/tncms/assets/v3/editorial/7/b3/7b34c022-9137-11ee-b60c-037a81950478/656b682f59fe6.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-02T16:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTBS",
+        "domain": "ktbs.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-01-qa-how-artificial-intelligence-could-transform-health-care.md",
+      "title": "Q&A: How artificial intelligence could transform health care",
+      "excerpt": "Health care has historically been slow to adopt new technologies that involve wholesale changes to the nature of the work. Witness the slow and checkered roll-out of electronic health records and the utter failure of prior efforts to implement artificial intelligence tools,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-12-qa-artificial-intelligence-health.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-12-qa-artificial-intelligence-health.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/how-artificial-intelli-2.jpg",
+          "width": 1280,
+          "height": 693,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-12-qa-artificial-intelligence-health.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-12-qa-artificial-intelligence-health.amp",
+      "publishedDateTime": "2023-12-01T13:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-01-how-artificial-intelligence-could-transform-health-care.md",
+      "title": "How Artificial Intelligence Could Transform Health Care",
+      "excerpt": "Bob Wachter comments on the potential of new generative artificial intelligence tools to transform the health care environment in a way previous technologies could not.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ucsf.edu/news/2023/11/426716/how-artificial-intelligence-could-transform-health-care",
+      "originalUrl": "https://www.ucsf.edu/news/2023/11/426716/how-artificial-intelligence-could-transform-health-care",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ucsf.edu/sites/default/files/fields/field_insert_file/news/wachter_digital.jpg",
+          "width": 1500,
+          "height": 844,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T00:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UC San Francisco",
+        "domain": "ucsf.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-30-how-artificial-intelligence-is-changing-health-care-in-treating-stroke-victims.md",
+      "title": "How artificial intelligence is changing health care in treating stroke victims",
+      "excerpt": "This is what you need to know about strokes and how artificial intelligence is helping ... a formidable challenge in the realm of health care. Not only does stroke rob us of our loved ones and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/opinion/how-artificial-intelligence-changing-health-care-treating-stroke-victims",
+      "originalUrl": "https://www.foxnews.com/opinion/how-artificial-intelligence-changing-health-care-treating-stroke-victims",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2019/10/29/1200/675/694940094001_6098686475001_6098688960001-vs.jpg?pubId=694940094001?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/opinion/how-artificial-intelligence-changing-health-care-treating-stroke-victims.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/how-artificial-intelligence-changing-health-care-treating-stroke-victims.amp",
+      "publishedDateTime": "2023-11-30T07:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-30-accelerating-gene-therapy-production.md",
+      "title": "Accelerating Gene Therapy Production",
+      "excerpt": "A key challenge for gene therapy is to minimize the dosage while concurrently devising more targeted delivery vectors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.genengnews.com/topics/bioprocessing/accelerating-the-production-of-gene-therapies-with-ai-and-teamwork/",
+      "originalUrl": "https://www.genengnews.com/topics/bioprocessing/accelerating-the-production-of-gene-therapies-with-ai-and-teamwork/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-29T21:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GEN",
+        "domain": "genengnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-29-health-care-policy-stakeholders-testify-on-the-use-of-artificial-intelligence-in-health-care.md",
+      "title": "Health Care Policy Stakeholders Testify on the Use of Artificial Intelligence in Health Care",
+      "excerpt": "Health care executives testified on artificial intelligence (AI) before the House Energy and Commerce Subcommittee on Health. They examined… read more Health care executives testified on artificial intelligence (AI) before the House Energy and Commerce ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.c-span.org/video/?532100-1/health-care-policy-stakeholders-testify-artificial-intelligence-health-care",
+      "originalUrl": "https://www.c-span.org/video/?532100-1/health-care-policy-stakeholders-testify-artificial-intelligence-health-care",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-29T15:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "c-span",
+        "domain": "c-span.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-29-top-artificial-intelligence-development-companies-in-dubai.md",
       "title": "Top Artificial Intelligence Development Companies in Dubai",
       "excerpt": "Artificial intelligence stands as a dynamic catalyst for transforming our daily lives and professional landscape.",
@@ -84,6 +864,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-27-awak-technologies-announces-fda-breakthrough-device-designation-for-their-artificial-intelligence-enabled-kidney-disease-prediction-tool.md",
+      "title": "AWAK Technologies Announces FDA Breakthrough Device Designation for their Artificial Intelligence Enabled Kidney Disease Prediction Tool",
+      "excerpt": "AWAK Technologies (AWAK), a pioneering medical technology company developing a wearable dialysis product and other complementary solutions for chronic kidney disease (CKD) management, today announced that its kidney disease progression prediction (KDPP) Artificial Intelligence (AI) model for CKD patient care has been granted Breakthrough Device designation by the U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/awak-technologies-announces-fda-breakthrough-device-designation-their-artificial",
+      "originalUrl": "https://www.asiaone.com/business/awak-technologies-announces-fda-breakthrough-device-designation-their-artificial",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Nov2023/pr-newswire_500_4_1677.jpg?h=7de12b8a&itok=4ZLq5tFE",
+          "width": 600,
+          "height": 316,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-27T12:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -512,729 +1335,6 @@
         "name": "MD&M East",
         "domain": "mddionline.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-17-ai-ethics-essentials-lawsuit-over-ai-denial-of-healthcare.md",
-      "title": "AI Ethics Essentials: Lawsuit Over AI Denial of Healthcare",
-      "excerpt": "UnitedHealthcare has been sued for the alleged wrongful denial of extended care claims for elderly patients through the use of an artificial intelligence (AI) algorithm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/douglaslaney/2023/11/16/ai-ethics-essentials-lawsuit-over-ai-denial-of-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/douglaslaney/2023/11/16/ai-ethics-essentials-lawsuit-over-ai-denial-of-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-16T20:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-11-16-talking-points-how-concerned-should-we-be-over-artificial-intelligence.md",
-      "title": "Talking Points: How concerned should we be over artificial intelligence?",
-      "excerpt": "MINNEAPOLIS— In a world of artificial intelligence, many are asking \"What's real?\" Or \"What's fake?\" Or \"What our information is being used for?\" Now more than ever, it's worth taking a look at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/minnesota/news/artificial-intelligence-ai-concerns-political-ads-deepfakes-medical-breakthroughs/",
-      "originalUrl": "https://www.cbsnews.com/minnesota/news/artificial-intelligence-ai-concerns-political-ads-deepfakes-medical-breakthroughs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/05/30/b0af8181-af32-490a-ab05-fbbf97de4c12/thumbnail/1200x630/1a6cd3d5d08f273ce42312cb6cdb5d1b/ai.jpg?v=5659e73acd91751548aa89950cf015b0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/minnesota/news/artificial-intelligence-ai-concerns-political-ads-deepfakes-medical-breakthroughs/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/minnesota/news/artificial-intelligence-ai-concerns-political-ads-deepfakes-medical-breakthroughs/",
-      "publishedDateTime": "2023-11-16T02:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-11-15-global-artificial-intelligence-ai-in-healthcare-collaboration-and-licensing-deals-analysis-report-2023-with-a-directory-of-869-deals-researchandmarketscom.md",
-      "title": "Global Artificial Intelligence (AI) in Healthcare Collaboration and Licensing Deals Analysis Report 2023 with a Directory of 869 Deals - ResearchAndMarkets.com",
-      "excerpt": "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence (AI) Collaboration and Licensing Deals 2016-2023\" report has been added to ResearchAndMarkets.com's offering. This report contains a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20231115377072/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20231115377072/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T10:16:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-15-artificial-intelligence-in-retail-market-soars-anticipated-surge-beyond-us-12709-billion-by-2033-fueled-by-a-remarkable-28-cagr-growth.md",
-      "title": "Artificial Intelligence in Retail Market Soars: Anticipated Surge Beyond US$ 127.09 Billion by 2033, Fueled by a Remarkable 28% CAGR Growth",
-      "excerpt": "The global artificial intelligence in retail market is expected to reach US$ 10.76 billion by 2023, with demand for AI in retail predicted to grow at a CAGR of 28% and surpass US$ 127.09 billion by 2033.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fmiblog.com/2023/11/15/artificial-intelligence-in-retail-market-soars-anticipated-surge-beyond-us-127-09-billion-by-2033-fueled-by-a-remarkable-28-cagr-growth/",
-      "originalUrl": "https://www.fmiblog.com/2023/11/15/artificial-intelligence-in-retail-market-soars-anticipated-surge-beyond-us-127-09-billion-by-2033-fueled-by-a-remarkable-28-cagr-growth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fmiblog.com/wp-content/uploads/2023/11/Artificial-Intelligence-in-Retail-Market.jpg",
-          "width": 999,
-          "height": 594,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T02:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Future Market Insights",
-        "domain": "fmiblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-15-ai-accurately-predicts-therapy-outcomes-in-most-patients-with-ovarian-cancer.md",
-      "title": "AI Accurately Predicts Therapy Outcomes in Most Patients With Ovarian Cancer",
-      "excerpt": "An artificial intelligence (AI)–based prediction model was able to correctly predict therapy outcomes in 78% of patients with high-grade serous ovarian carcinoma (HGSOC) in a study published in Nature Communications. The model was found to be 80% ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ajmc.com/view/ai-accurately-predicts-therapy-outcomes-in-most-patients-with-ovarian-cancer",
-      "originalUrl": "https://www.ajmc.com/view/ai-accurately-predicts-therapy-outcomes-in-most-patients-with-ovarian-cancer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The American Journal of Managed Care",
-        "domain": "ajmc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-15-ai-based-model-can-predict-therapy-outcome-in-ovarian-cancer-patients.md",
-      "title": "AI-based model can predict therapy outcome in ovarian cancer patients",
-      "excerpt": "A model based on artificial intelligence is able to predict the therapy outcome (measured by volumetric reduction of tumor lesions) in 80% of ovarian cancer patients.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20231113/AI-based-model-can-predict-therapy-outcome-in-ovarian-cancer-patients.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20231113/AI-based-model-can-predict-therapy-outcome-in-ovarian-cancer-patients.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T17:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-15-global-internal-radiation-therapy-industry-predicts-staggering-83-cagr-growth-from-2022-to-2032.md",
-      "title": "Global Internal Radiation Therapy Industry Predicts Staggering 8.3% CAGR Growth from 2022 to 2032",
-      "excerpt": "According to the report, the Global Internal Radiation Therapy Industry achieved global sales of US$ 892.9 million in 2021, setting the stage for a dynamic trajectory in the years to come. FMI’s expert analysts anticipate a robust 8.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fmiblog.com/2023/11/14/global-internal-radiation-therapy-industry-predicts-staggering-8-3-cagr-growth-from-2022-to-2032/",
-      "originalUrl": "https://www.fmiblog.com/2023/11/14/global-internal-radiation-therapy-industry-predicts-staggering-8-3-cagr-growth-from-2022-to-2032/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T16:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Future Market Insights",
-        "domain": "fmiblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-leveraging-artificial-intelligence-and-health-care-data.md",
-      "title": "Leveraging artificial intelligence and health care data",
-      "excerpt": "It was a question that has long held sway in public consciousness, and there’s no doubt that attention on artificial intelligence has reached a fever pitch in 2023. But what’s hype?",
-      "sourceUrl": null,
-      "webUrl": "https://www.statnews.com/levaraging-ai-health-care/",
-      "originalUrl": "https://www.statnews.com/levaraging-ai-health-care/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T14:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "STAT",
-        "domain": "statnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-why-artificial-intelligence-hasnt-mastered-meditation-yet.md",
-      "title": "Why Artificial Intelligence Hasn’t Mastered Meditation… Yet",
-      "excerpt": "I got a solid A, thank you very much! I wrote about the dangers of unchecked development of artificial intelligence long before it was a “thing.” Nowadays, it seems not only possible, but likely, that AI will become as intelligent,",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/momentology/202311/why-artificial-intelligence-hasnt-mastered-meditation-yet",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/momentology/202311/why-artificial-intelligence-hasnt-mastered-meditation-yet",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T13:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-artificial-intelligence-and-social-emotional-learning-are-on-a-collision-course.md",
-      "title": "Artificial Intelligence and Social-Emotional Learning Are on a Collision Course",
-      "excerpt": "Artificial intelligence is poised to dramatically change how kids develop their sense of self and interact with other people.",
-      "sourceUrl": null,
-      "webUrl": "https://www.edweek.org/leadership/artificial-intelligence-and-social-emotional-learning-are-on-a-collision-course/2023/11",
-      "originalUrl": "https://www.edweek.org/leadership/artificial-intelligence-and-social-emotional-learning-are-on-a-collision-course/2023/11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://epe.brightspotcdn.com/dims4/default/32c09bb/2147483647/strip/true/crop/3000x2006+0+0/resize/942x630!/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.us-east-1.amazonaws.com%2Fdd%2F2d%2Fe84d750c411b8d86b81e946c33df%2Fai-sel-1634086519.jpg",
-          "width": 942,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T12:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Education Week",
-        "domain": "edweek.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-israeli-startup-gets-new-fda-okay-for-ai-led-diabetes-therapy.md",
-      "title": "Israeli Startup Gets New FDA Okay For AI-Led Diabetes Therapy",
-      "excerpt": "An Israeli startup that uses AI to help manage diabetic treatments has received a fifth clearance from the FDA",
-      "sourceUrl": null,
-      "webUrl": "https://nocamels.com/2023/11/israeli-startup-gets-new-fda-okay-for-ai-led-diabetes-therapy/",
-      "originalUrl": "https://nocamels.com/2023/11/israeli-startup-gets-new-fda-okay-for-ai-led-diabetes-therapy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T08:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NoCamels - Israeli Innovation News",
-        "domain": "nocamels.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-child-psychiatrist-sexually-exploited-patients-used-artificial-intelligence-to-create-pornography.md",
-      "title": "Child Psychiatrist Sexually Exploited Patients, Used Artificial Intelligence to Create Pornography",
-      "excerpt": "David Tatum of Charlotte, North Carolina recorded under a minor's skirt during a therapy session with him, made secret videos of patients in the shower and \"used AI to digitally alter clothed images of minors making them sexually explicit.",
-      "sourceUrl": null,
-      "webUrl": "https://toofab.com/2023/11/13/child-psychiatrist-sexually-exploited-patients-used-artificial-intelligence-create-pornography/",
-      "originalUrl": "https://toofab.com/2023/11/13/child-psychiatrist-sexually-exploited-patients-used-artificial-intelligence-create-pornography/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T18:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TooFab",
-        "domain": "toofab.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-ovarian-cancer-artificial-intelligence-predicts-therapy-responses.md",
-      "title": "Ovarian cancer: Artificial intelligence predicts therapy responses",
-      "excerpt": "A model based on artificial intelligence is able to predict the therapy outcome (measured by volumetric reduction of tumor lesions) in 80% of ovarian cancer patients. The AI-based model has an accuracy of 80%,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-11-ovarian-cancer-artificial-intelligence-therapy.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-11-ovarian-cancer-artificial-intelligence-therapy.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T16:47:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-13-artificial-intelligence-predicts-treatment-outcome-in-ovarian-cancer-patients.md",
-      "title": "Artificial Intelligence Predicts Treatment Outcome in Ovarian Cancer Patients",
-      "excerpt": "A model based on artificial intelligence is able to predict the therapy outcome in 80% of ovarian cancer patients. The tool, named IRON (Integrated Radiogenomics for Ovarian Neoadjuvant therapy), analyzes various patient clinical features.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/cancer-research/news/artificial-intelligence-predicts-treatment-outcome-in-ovarian-cancer-patients-380967",
-      "originalUrl": "https://www.technologynetworks.com/cancer-research/news/artificial-intelligence-predicts-treatment-outcome-in-ovarian-cancer-patients-380967",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T15:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-13-ais-leap-in-ovarian-cancer-predicting-therapy-success-with-iron.md",
-      "title": "AI’s Leap in Ovarian Cancer: Predicting Therapy Success With IRON",
-      "excerpt": "Results from a study published in the journal Nature Communications, co-designed and co-supervised by Prof. Evis Sala from the Catholic University at Rome, and Policlinico A. Gemelli IRCCS. A model ba",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/ais-leap-in-ovarian-cancer-predicting-therapy-success-with-iron/",
-      "originalUrl": "https://scitechdaily.com/ais-leap-in-ovarian-cancer-predicting-therapy-success-with-iron/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T14:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-13-ovarian-cancer-artificial-intelligence-predicts-therapy-responses.md",
-      "title": "Ovarian cancer: Artificial intelligence predicts therapy responses",
-      "excerpt": "A model based on artificial intelligence is able to predict the therapy outcome (measured by volumetric reduction of tumor lesions) in 80% of ovarian cancer patients. The AI-based model has an ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/1007772",
-      "originalUrl": "https://www.eurekalert.org/news-releases/1007772",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T14:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-13-artificial-intelligence-continues-to-transform-healthcare.md",
-      "title": "Artificial Intelligence Continues to Transform Healthcare",
-      "excerpt": "Artificial intelligence is finding its way into healthcare at an astonishing rate. A new collaboration between Novartis Pharmaceuticals and Anumana is the latest example of how both pharma and medtech are embracing AI. The multi-year strategic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/artificial-intelligence/artificial-intelligence-continues-transform-healthcare",
-      "originalUrl": "https://www.mddionline.com/artificial-intelligence/artificial-intelligence-continues-transform-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/Untitled%20design-311.png",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-11-10-reducing-administrative-burden-in-the-healthcare-industry-with-ai-and-interoperability.md",
-      "title": "Reducing administrative burden in the healthcare industry with AI and interoperability",
-      "excerpt": "IBM has developed a comprehensive strategy to guide our healthcare clients in driving value through real end-to-end digital transformation.\nThe post Reducing administrative burden in the healthcare industry with AI and interoperability appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/reducing-administrative-burden-in-the-healthcare-industry-with-ai-and-interoperability/",
-      "originalUrl": "https://www.ibm.com/blog/reducing-administrative-burden-in-the-healthcare-industry-with-ai-and-interoperability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 298,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-10T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-11-10-unlocking-health-and-wealth-bliv-pioneers-preventive-healthcare-revolution-in-the-crypto-hub-of-the-world.md",
-      "title": "Unlocking Health and Wealth: BLiV Pioneers Preventive Healthcare Revolution in the Crypto Hub of the World",
-      "excerpt": "BLiV.io, the Web3 Live2Earn AI-Powered Preventive Healthcare platform crafted by the visionary minds at GoObat Pharma.Dubai, United Arab",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/unlocking-health-and-wealth-bliv-pioneers-preventive-healthcare-revolution-in-the-crypto-hub-of-the-world-1032806360",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/unlocking-health-and-wealth-bliv-pioneers-preventive-healthcare-revolution-in-the-crypto-hub-of-the-world-1032806360",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh7-us.googleusercontent.com/_LmxTYG5r_0jlN5miO4rA8fwozhJj3p5qRCmdVCS9hFuA0CXhOYhq0MxKqYcUASQt2juaUyCe5iDLY78ZpLnh1E9S8NMbdBkrWjDWam00WSA5bjRJY4KZfYyk9h9oyXAT2F2YeZrAis0TYCBPnNouio",
-          "width": 1600,
-          "height": 1066,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-10T11:16:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

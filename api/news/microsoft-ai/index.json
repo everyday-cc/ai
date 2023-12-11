@@ -2,6 +2,656 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-09-8-best-generative-ai-app-builders-2024.md",
+      "title": "8 Best Generative AI App Builders 2024",
+      "excerpt": "Indeed, this AI app platform is very strong when it comes to interoperability: AppSheet apps can connect to hosted Excel files, Google Sheets, Google Drive, Cloud SQL, Apigee, Azure SQL, AWS, Salesforce objects, Smartsheet, and OData. AppSheet naturally ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/artificial-intelligence/best-generative-ai-app-builders/",
+      "originalUrl": "https://www.eweek.com/artificial-intelligence/best-generative-ai-app-builders/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2023/12/ew_20231205-best-generative-ai-app-builders.png",
+          "width": 1400,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-09T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-07-accelerating-cloud-native-development-in-microsoft-azure.md",
+      "title": "Accelerating cloud native development in Microsoft Azure",
+      "excerpt": "From GPU support to reference implementations, the latest updates to Azure Container Apps combine Microsoft’s commitment to developer productivity with its latest AI development tools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3711407/accelerating-cloud-native-development-in-microsoft-azure.html",
+      "originalUrl": "https://www.infoworld.com/article/3711407/accelerating-cloud-native-development-in-microsoft-azure.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2014/03/147256163-100250158-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3711407/accelerating-cloud-native-development-in-microsoft-azure.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711407/accelerating-cloud-native-development-in-microsoft-azure.amp.html",
+      "publishedDateTime": "2023-12-07T10:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-07-google-updates-bard-chatbot-with-gemini-ai-as-it-chases-chatgpt.md",
+      "title": "Google Updates Bard Chatbot With ‘Gemini’ A.I. as It Chases ChatGPT",
+      "excerpt": "After more than eight months of research and development, Google has unveiled its most powerful A.I. so far. But only parts of it are widely available.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/12/06/technology/google-ai-bard-chatbot-gemini.html",
+      "originalUrl": "https://www.nytimes.com/2023/12/06/technology/google-ai-bard-chatbot-gemini.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/12/07/multimedia/06JPgoogle-ai-print-fmgp/06google-ai-fmgp-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T19:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-meta-and-microsoft-say-they-will-buy-amds-new-ai-chip-as-an-alternative-to-nvidia.md",
+      "title": "Meta and Microsoft say they will buy AMD's new AI chip as an alternative to Nvidia",
+      "excerpt": "If AMD's latest high-end chip, MI300X, is good enough and inexpensive enough for the technology companies and cloud service providers building and serving AI models when it starts shipping early next year, it could lower costs for developing AI models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcmiami.com/news/national-international/meta-and-microsoft-say-they-will-buy-amds-new-ai-chip-as-an-alternative-to-nvidia/3177752/",
+      "originalUrl": "https://www.nbcmiami.com/news/national-international/meta-and-microsoft-say-they-will-buy-amds-new-ai-chip-as-an-alternative-to-nvidia/3177752/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nbcmiami.com/2023/12/107255926-1686678111756-gettyimages-1454302971-_8db0157_d7a2aa99-cd40-4c93-8ff3-89725b36c318-3.jpeg?quality=85&strip=all&resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcmiami.com/news/business/money-report/meta-and-microsoft-say-they-will-buy-amds-new-ai-chip-as-an-alternative-to-nvidia/3177752/?amp=1",
+      "cdnAmpWebUrl": "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/news/business/money-report/meta-and-microsoft-say-they-will-buy-amds-new-ai-chip-as-an-alternative-to-nvidia/3177752/?amp=1",
+      "publishedDateTime": "2023-12-06T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC 6 South Florida",
+        "domain": "nbcmiami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-05-microsoft-and-liverpool-hospital-use-generative-ai-to-break-down-large-volumes-of-cardiology-related-literature.md",
+      "title": "Microsoft and Liverpool Hospital use generative AI to break down large volumes of cardiology-related literature",
+      "excerpt": "Microsoft and Liverpool Hospital, one of the largest tertiary referral and teaching hospitals in Sydney, Australia, have partnered to develop a generative artificial intelligence solution to assist cardiologists working with large volumes of cardiology-related literature.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyrecord.com/article/microsoft-and-liverpool-hospital-use-generative-ai-to-break-down-large-volumes-of-cardiology-related-literature",
+      "originalUrl": "https://www.technologyrecord.com/article/microsoft-and-liverpool-hospital-use-generative-ai-to-break-down-large-volumes-of-cardiology-related-literature",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4747/Liverpool-hospital-web.jpg",
+          "width": 975,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-05T14:36:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologyrecord.com",
+        "domain": "technologyrecord.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-04-introducing-ai-in-a-minute-a-video-series-on-the-tech-behind-generative-ai.md",
+      "title": "Introducing AI in a Minute: A video series on the tech behind generative AI",
+      "excerpt": "See how AI capabilities work and the tech behind generative AI in simple videos on topics like large language models, prompt engineering, and vector search.",
+      "sourceUrl": null,
+      "webUrl": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2023/12/04/introducing-ai-in-a-minute-a-video-series-on-the-tech-behind-generative-ai/",
+      "originalUrl": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2023/12/04/introducing-ai-in-a-minute-a-video-series-on-the-tech-behind-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/wp-content/uploads/2023/12/AI-in-a-minute-hero_FINAL.jpg",
+          "width": 1260,
+          "height": 709,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T15:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-04-natural-language-processing-and-recognition-market-is-booming-worldwide-with-microsoft-ibm-baidu.md",
+      "title": "Natural Language Processing and Recognition Market Is Booming Worldwide With Microsoft, IBM, Baidu",
+      "excerpt": "The Global Natural Language Processing and Recognition Market Size is estimated to register 30.8% growth over the forecast period from 2023 to 2030. The Global Natural Language Processing and Recognition Market Size is estimated to register 30.8% growth ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/the-wire/natural-language-processing-and-recognition-market-is-booming-worldwide-with-microsoft-ibm-baidu/",
+      "originalUrl": "https://www.cmswire.com/the-wire/natural-language-processing-and-recognition-market-is-booming-worldwide-with-microsoft-ibm-baidu/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-04-how-azure-ai-content-safety-helps-protect-users-from-the-classroom-microsoft.md",
+      "title": "How Azure AI Content Safety helps protect users from the classroom … – Microsoft",
+      "excerpt": "South Australia’s Department for Education decided to bring generative AI into its classrooms. But before they opened the doors, one",
+      "sourceUrl": null,
+      "webUrl": "https://www.inferse.com/811196/how-azure-ai-content-safety-helps-protect-users-from-the-classroom-microsoft/",
+      "originalUrl": "https://www.inferse.com/811196/how-azure-ai-content-safety-helps-protect-users-from-the-classroom-microsoft/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-03T23:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inferse",
+        "domain": "inferse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-02-10-best-predictive-analytics-tools-and-software-of-2023.md",
+      "title": "10 Best Predictive Analytics Tools and Software of 2023",
+      "excerpt": "Tableau, TIBCO Data Science and Sisense are among the best software for predictive analytics. Compare their features, pricing, pros and cons.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/best-predictive-analytics-tools/",
+      "originalUrl": "https://www.techrepublic.com/article/best-predictive-analytics-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2022/05/AdobeStock_616977240.jpeg",
+          "width": 1400,
+          "height": 784,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-02T08:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-02-how-microsoft-and-nuance-empower-radiologists-with-ai-powered-solutions.md",
+      "title": "How Microsoft and Nuance empower radiologists with AI-powered solutions",
+      "excerpt": "Microsoft and Nuance are committed to creating outcomes-focused AI solutions that streamline radiology workflows. Learn more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.microsoft.com/en-us/industry/blog/healthcare/2023/12/01/how-microsoft-and-nuance-empower-radiologists-with-ai-powered-solutions/",
+      "originalUrl": "https://www.microsoft.com/en-us/industry/blog/healthcare/2023/12/01/how-microsoft-and-nuance-empower-radiologists-with-ai-powered-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.microsoft.com/en-us/industry/blog/wp-content/uploads/2023/12/GettyImages-1320844652-1.jpg",
+          "width": 942,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T16:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-01-teleperformance-helps-clients-create-and-modernize-applications-with-microsoft-azure-solutions-partner-status-for-data-ai.md",
+      "title": "Teleperformance helps clients create and modernize applications with Microsoft Azure Solutions Partner status for Data & AI",
+      "excerpt": "NEW YORK, Nov. 30, 2023 /PRNewswire/ -- Teleperformance, a global leader in digital business services, today announced it has received Microsoft Azure Solutions Partner status for Data & AI.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/teleperformance-helps-clients-create-and-modernize-applications-with-microsoft-azure-solutions-partner-status-for-data-ai-1032863788",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/teleperformance-helps-clients-create-and-modernize-applications-with-microsoft-azure-solutions-partner-status-for-data-ai-1032863788",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2286428/MS_Solutions_Partner_Data_and_AI_logo.jpg",
+          "width": 400,
+          "height": 245,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-30T18:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-30-ibb-law-selects-intapp-documents-for-matter-centric-document-management.md",
+      "title": "IBB Law selects Intapp Documents for matter-centric document management",
+      "excerpt": "PALO ALTO, Calif., Nov. 30, 2023 (GLOBE NEWSWIRE) -- Intapp (NASDAQ: INTA), a leading provider of cloud software for the global professional and financial services industry, today announced that IBB Law LLP has selected Intapp Documents to transform Microsoft SharePoint into a purpose-built document management system.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ibb-law-selects-intapp-documents-for-matter-centric-document-management-1032862642",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ibb-law-selects-intapp-documents-for-matter-centric-document-management-1032862642",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-30T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-30-microsoft-aims-to-deliver-confidential-ai-in-partnership-with-nvidia.md",
+      "title": "Microsoft Aims To Deliver 'Confidential AI' in Partnership with Nvidia",
+      "excerpt": "Microsoft extolled ongoing efforts to deliver \"confidential AI\" to Azure customers in a Wednesday announcement. Microsoft's confidential artificial intelligence (AI) efforts stem from ...",
+      "sourceUrl": null,
+      "webUrl": "https://redmondmag.com/articles/2023/11/30/azure-confidential-ai.aspx",
+      "originalUrl": "https://redmondmag.com/articles/2023/11/30/azure-confidential-ai.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://redmondmag.com/-/media/ECG/redmondmag/Images/Introimages2023/231130CloudFolderIntro.jpg",
+          "width": 647,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-29T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Redmond Magazine",
+        "domain": "redmondmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-29-ibb-law-selects-intapp-documents-as-part-of-wider-microsoft-strategy.md",
+      "title": "IBB Law selects Intapp Documents as part of wider Microsoft strategy",
+      "excerpt": "Full-service UK law firm IBB Law has selected Intapp Documents' Microsoft 365-based document and email management solution.",
+      "sourceUrl": null,
+      "webUrl": "https://legaltechnology.com/2023/11/29/ibb-law-selects-intapp-documents-as-part-of-wider-microsoft-strategy/",
+      "originalUrl": "https://legaltechnology.com/2023/11/29/ibb-law-selects-intapp-documents-as-part-of-wider-microsoft-strategy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://legaltechnology.com/wp-content/uploads/2023/09/Oct-Nov_2023_Web_300x250.jpg",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-29T12:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Legal Technology",
+        "domain": "legaltechnology.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-29-ai-fatigue-sales-challenges-and-the-problem-of-getting-big-inside-growing-tension-at-aws.md",
       "title": "AI fatigue, sales challenges, and the problem of getting big: Inside growing tension at AWS",
       "excerpt": "AWS is the dominant cloud provider. That success brings new challenges. The emergence of generative AI is adding to internal tensions.",
@@ -235,6 +885,49 @@
       "provider": {
         "name": "BayStreet",
         "domain": "baystreet.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-27-the-best-ai-tools-of-2023-a-review-with-bruno-centano-from-global-triangles.md",
+      "title": "The Best AI Tools of 2023: A Review with Bruno Centano from Global Triangles",
+      "excerpt": "AI is everywhere these days, and it’s getting smarter and more powerful every year. But how do you choose the best AI tools for your needs? Whether you’re a developer, a marketer, a designer, or just a curious enthusiast,",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/the-best-ai-tools-of-2023-a-review-with-bruno-centano-from-global-triangles/",
+      "originalUrl": "https://techbullion.com/the-best-ai-tools-of-2023-a-review-with-bruno-centano-from-global-triangles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2023/11/Screen-Shot-2023-11-27-at-4.46.28-pm-1000x600.png",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-27T09:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -737,658 +1430,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-20-microsofts-ai-transformation-from-software-giant-to-ai-powerhouse.md",
-      "title": "Microsoft's AI Transformation: From Software Giant To AI Powerhouse",
-      "excerpt": "Microsoft wants to be a major force in the AI ecosystem, and Microsoft CEO and Chairman Satya Nadella made this clear in his keynote address. From developing its own AI accelerator chips to launching a marketplace for copilots, Microsoft has a long-term strategy in place.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2023/11/19/microsofts-ai-transformation-from-software-giant-to-ai-powerhouse/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2023/11/19/microsofts-ai-transformation-from-software-giant-to-ai-powerhouse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-19T18:28:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-11-19-how-microsofts-new-chip-for-ai-could-disrupt-big-tech-especially-nvidia-amd-and-intel.md",
-      "title": "How Microsoft’s new chip for AI could disrupt big tech — especially Nvidia, AMD and Intel",
-      "excerpt": "Microsoft can now fully control its future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/WP-MKTW-0002737772?mod=article_recs_pos1_sb_hp&next_redirect=true",
-      "originalUrl": "https://www.wsj.com/articles/WP-MKTW-0002737772?mod=article_recs_pos1_sb_hp&next_redirect=true",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-18T18:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-18-corpus-christi-health-update-poor-cognitive-function-tied-to-poor-sleep-doctor-explains.md",
-      "title": "Corpus Christi Health Update: Poor Cognitive Function Tied to Poor Sleep. Doctor Explains",
-      "excerpt": "Dr. Puja Uppal says, \"Sharp brains need good rest!\"Doctor's Expert Insights About Poor Cognitive Function & Your Sleep Health in TexasKnow this: \"Here's the thing, we know",
-      "sourceUrl": null,
-      "webUrl": "https://kdhnews.com/news/texas/corpus-christi-health-update-poor-cognitive-function-tied-to-poor-sleep-doctor-explains/article_b0c71ec5-a0ce-5a87-8442-3dfce6e226ec.html",
-      "originalUrl": "https://kdhnews.com/news/texas/corpus-christi-health-update-poor-cognitive-function-tied-to-poor-sleep-doctor-explains/article_b0c71ec5-a0ce-5a87-8442-3dfce6e226ec.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/custom/image/d24d118c-8888-11e9-94c1-a36b64682479.jpg?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-17T22:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Killeen Daily Herald",
-        "domain": "kdhnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-18-philadelphia-health-update-poor-cognitive-function-tied-to-poor-sleep-doctor-explains.md",
-      "title": "Philadelphia Health Update: Poor Cognitive Function Tied to Poor Sleep. Doctor Explains",
-      "excerpt": "Dr. Puja Uppal says, \"Sharp brains need good rest!\"Doctor's Expert Insights About Poor Cognitive Function & Your Sleep Health in PennsylvaniaKnow this: \"Here's the thing, we know",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/state/philadelphia-health-update-poor-cognitive-function-tied-to-poor-sleep-doctor-explains/article_10b0857d-5468-5ec1-8274-17e6b2f772c9.html",
-      "originalUrl": "https://www.wfmz.com/news/state/philadelphia-health-update-poor-cognitive-function-tied-to-poor-sleep-doctor-explains/article_10b0857d-5468-5ec1-8274-17e6b2f772c9.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/37/83770920-47dd-54d6-a684-35b4efdc4c2a/6557fecaa3f16.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-17T22:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-18-microsoft-releases-ai-tool-for-photorealistic-copying-of-faces-and-voices.md",
-      "title": "Microsoft releases AI tool for photorealistic copying of faces and voices",
-      "excerpt": "In response to criticism that Azure AI Speech was simply a ‘deepfakes creator’, Microsoft said it had implemented safeguards Microsoft announced its latest contribution to the artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2023/nov/17/microsoft-azure-ai-video-deepfakes",
-      "originalUrl": "https://www.theguardian.com/technology/2023/nov/17/microsoft-azure-ai-video-deepfakes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/35e3c2e6b39e49fa0c11a93b26a71fa212ff81e2/0_0_6048_4024/master/6048.jpg?width=620&quality=85&auto=format&fit=max&s=d4351671ec0b0eef06f61f9f099bb237",
-          "width": 620,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2023/nov/17/microsoft-azure-ai-video-deepfakes",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/nov/17/microsoft-azure-ai-video-deepfakes",
-      "publishedDateTime": "2023-11-17T16:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-16-azure-gets-new-nvidia-service-for-developing-custom-genai-apps.md",
-      "title": "Azure gets new Nvidia service for developing custom GenAI apps",
-      "excerpt": "Announced at Microsoft Ignite 2023 this week, the new service is called Nvidia AI Foundry, and it gives businesses a collection of “commercially viable” GenAI foundation models, developed by Nvidia and third parties, they can customise using Nvidia’s NeMo framework and tools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com.au/news/azure-gets-new-nvidia-service-for-developing-custom-genai-apps-602431",
-      "originalUrl": "https://www.crn.com.au/news/azure-gets-new-nvidia-service-for-developing-custom-genai-apps-602431",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.nextmedia.com.au/News/crn-690_artificial_intelligence_ai_chatbot.jpg",
-          "width": 690,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-16T03:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN Australia",
-        "domain": "crn.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-16-aws-introduces-amazon-linux-2023-runtime-for-lambda.md",
-      "title": "AWS Introduces Amazon Linux 2023 Runtime for Lambda",
-      "excerpt": "In this episode, Thomas Betts talks with Pamela Fox, a cloud advocate in Python at Microsoft. They discuss several ChatGPT sample apps that Pamela helps maintain. These include a very popular integration of ChatGPT with Azure OpenAI and Cognitive Search ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2023/11/al2023-aws-lambda-functions/",
-      "originalUrl": "https://www.infoq.com/news/2023/11/al2023-aws-lambda-functions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2023/11/al2023-aws-lambda-functions/en/headerimage/generatedHeaderImage-1699990491608.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-16T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-16-scale-ai-to-enable-enterprises-to-customize-large-language-models-and-build-robust-generative-ai-applications-on-microsoft-azure.md",
-      "title": "Scale AI to Enable Enterprises to Customize Large Language Models and Build Robust Generative AI Applications on Microsoft Azure",
-      "excerpt": "Scale AI, the data engine that powers the most advanced AI applications, today announced a collaboration with Microsoft at Microsoft Ignite to deliver",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20231115149949/en/Scale-AI-to-Enable-Enterprises-to-Customize-Large-Language-Models-and-Build-Robust-Generative-AI-Applications-on-Microsoft-Azure",
-      "originalUrl": "https://www.businesswire.com/news/home/20231115149949/en/Scale-AI-to-Enable-Enterprises-to-Customize-Large-Language-Models-and-Build-Robust-Generative-AI-Applications-on-Microsoft-Azure",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-16T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-16-holy-chips-microsofts-new-ai-silicon-will-power-its-chatty-assistants.md",
-      "title": "Holy chips! Microsoft’s new AI silicon will power its chatty assistants",
-      "excerpt": "Amid chip shortages that have driven up the prices of highly sought-after Nvidia AI GPUs, several companies have been designing or considering designing their own AI accelerator chips, including Amazon, OpenAI, IBM, and AMD. Microsoft also felt the need to make a custom silicon to push its own services to the fore.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/11/microsoft-launches-custom-chips-to-accelerate-its-plans-for-ai-domination/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/11/microsoft-launches-custom-chips-to-accelerate-its-plans-for-ai-domination/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/azure_maia_100_chip_1-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/11/microsoft-launches-custom-chips-to-accelerate-its-plans-for-ai-domination/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/11/microsoft-launches-custom-chips-to-accelerate-its-plans-for-ai-domination/amp/",
-      "publishedDateTime": "2023-11-15T21:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-16-microsoft-ignite-2023-all-the-ai-news-from-microsofts-it-pro-event.md",
-      "title": "Microsoft Ignite 2023: all the AI news from Microsoft’s IT pro event",
-      "excerpt": "Windows AI Studio allows developers to access development tools and models from the existing Azure AI Studio and other services like Hugging Face. It also offers an end-to-end “guided workspace ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/23961007/microsoft-ignite-2023-news-ai-announcements-copilot-windows-azure-office",
-      "originalUrl": "https://www.theverge.com/23961007/microsoft-ignite-2023-news-ai-announcements-copilot-windows-azure-office",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/5X0IGMLrTUsRnyo97W-GRqDZBiA=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24347781/STK095_Microsoft_03.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T18:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-16-microsoft-looks-to-free-itself-from-gpu-shackles-by-designing-custom-ai-chips.md",
-      "title": "Microsoft looks to free itself from GPU shackles by designing custom AI chips",
-      "excerpt": "Most companies developing AI models, particularly generative AI models ... We also know that Maia 100’s physical package is larger than a typical GPU’s. Microsoft says that it had to build ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/11/15/microsoft-looks-to-free-itself-from-gpu-shackles-by-designing-custom-ai-chips/",
-      "originalUrl": "https://techcrunch.com/2023/11/15/microsoft-looks-to-free-itself-from-gpu-shackles-by-designing-custom-ai-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/07/microsoft-getty-hacks-government.jpg?resize=1200,816",
-          "width": 1200,
-          "height": 816,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/11/15/microsoft-looks-to-free-itself-from-gpu-shackles-by-designing-custom-ai-chips/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/15/microsoft-looks-to-free-itself-from-gpu-shackles-by-designing-custom-ai-chips/amp/",
-      "publishedDateTime": "2023-11-15T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-16-microsoft-turbocharges-ai-development-with-fabric-azure-ai-studio-and-database-updates.md",
-      "title": "Microsoft turbocharges AI development with Fabric, Azure AI Studio and database updates",
-      "excerpt": "Check out our full coverage of Microsoft Ignite in these stories: The company also announced the launch of Azure AI Studio, which brings innovations such as enhanced AI search capabilities and ...",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/11/15/microsoft-turbocharges-ai-development-fabric-azure-ai-studio-database-updates/",
-      "originalUrl": "https://siliconangle.com/2023/11/15/microsoft-turbocharges-ai-development-fabric-azure-ai-studio-database-updates/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/image_2023-11-13_103212449.png",
-          "width": 908,
-          "height": 476,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-15-cognitive-computing-market-surges-expected-to-hit-us-1882-billion-with-a-263-cagr-by-2033.md",
-      "title": "Cognitive Computing Market Surges, Expected to Hit US$ 188.2 Billion with a 26.3% CAGR by 2033",
-      "excerpt": "The cognitive computing market is poised for remarkable growth, projected to establish a robust foothold with a compelling Compound Annual Growth Rate (CAGR) of 26.3% throughout the forecast period. As technology continues to advance and organizations seek smarter solutions,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fmiblog.com/2023/11/15/cognitive-computing-market-surges-expected-to-hit-us-188-2-billion-with-a-26-3-cagr-by-2033/",
-      "originalUrl": "https://www.fmiblog.com/2023/11/15/cognitive-computing-market-surges-expected-to-hit-us-188-2-billion-with-a-26-3-cagr-by-2033/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T05:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Future Market Insights",
-        "domain": "fmiblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-15-expert-explores-how-our-sleeping-patterns-can-be-linked-to-cognitive-decline.md",
-      "title": "Expert explores how our sleeping patterns can be linked to cognitive decline",
-      "excerpt": "It’s also been shown that not getting enough sleep is linked to cognitive decline and conditions such as Alzheimer’s disease. But more isn’t always better, as one recent study found.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20211115/Expert-explores-how-our-sleeping-patterns-can-be-linked-to-cognitive-decline.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20211115/Expert-explores-how-our-sleeping-patterns-can-be-linked-to-cognitive-decline.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-15-ethical-machine-learning-with-explainable-ai-and-impact-analysis.md",
-      "title": "Ethical Machine Learning with Explainable AI and Impact Analysis",
-      "excerpt": "These include a very popular integration of ChatGPT with Azure OpenAI and Cognitive Search ... Kesha Williams spoke about ethical machine learning at NDC Oslo 2023. In the pre-machine learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2023/11/ethical-machine-learning/",
-      "originalUrl": "https://www.infoq.com/news/2023/11/ethical-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T23:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "AI Ethics"
       ]
     }
   ],

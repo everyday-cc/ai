@@ -2,6 +2,579 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-10-26-amd-and-korean-telco-kt-back-ai-software-developer-moreh-in-22m-series-b.md",
+      "title": "AMD and Korean telco KT back AI software developer Moreh in $22M Series B",
+      "excerpt": "Advanced Micro Devices (AMD) and Korean telco KT are among the investors of Moreh, which builds an AI software tool that optimizes and creates AI models.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/10/25/amd-korean-telco-kt-among-backers-in-ai-software-developer-moreh-in-22m-series-b/",
+      "originalUrl": "https://techcrunch.com/2023/10/25/amd-korean-telco-kt-among-backers-in-ai-software-developer-moreh-in-22m-series-b/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1370479417.jpg?resize=1200,806",
+          "width": 1200,
+          "height": 806,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/10/25/amd-korean-telco-kt-among-backers-in-ai-software-developer-moreh-in-22m-series-b/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/25/amd-korean-telco-kt-among-backers-in-ai-software-developer-moreh-in-22m-series-b/amp/",
+      "publishedDateTime": "2023-10-25T23:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-26-how-ai-and-blockchain-are-fighting-counterfeiting-in-the-luxury-market.md",
+      "title": "How AI And Blockchain Are Fighting Counterfeiting In The Luxury Market",
+      "excerpt": "AI is only ever as good as the information fed to its algorithm ... they are linked to the physical item in question by an attached near field communication chip (NFC) in the case of Margiela accessories like the brand’s Tabi shoes or quick response ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2023/10/25/how-ai-and-blockchain-are-fighting-counterfeiting-in-the-luxury-market/",
+      "originalUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2023/10/25/how-ai-and-blockchain-are-fighting-counterfeiting-in-the-luxury-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65397ff6f9ac734e121b7ea1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1265,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2023/10/25/how-ai-and-blockchain-are-fighting-counterfeiting-in-the-luxury-market/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephaniehirschmiller/2023/10/25/how-ai-and-blockchain-are-fighting-counterfeiting-in-the-luxury-market/amp/",
+      "publishedDateTime": "2023-10-25T21:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-26-stackpath-launches-gpu-accelerated-edge-compute-instances.md",
+      "title": "StackPath Launches GPU-Accelerated Edge Compute Instances",
+      "excerpt": "DALLAS, Oct. 25, 2023 /PRNewswire/ -- StackPath, the industry-leading edge computing platform, today announced the addition of NVIDIA GPU-Accelerated Instances to its Virtual Machine (VM) and Container product options.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2023/10/25/9905503.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2023/10/25/9905503.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-25T19:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-26-us-government-orders-immediate-stop-to-chinese-ai-chip-exports.md",
+      "title": "US Government Orders Immediate Stop to Chinese AI Chip Exports",
+      "excerpt": "Tech giant Nvidia has announced that President Biden’s administration has ordered it to stop shipping advanced AI chips to China immediately. These restrictions were always in the works and due to start next month. However, for an as-of-yet unknown reason, this date has been brought forward to today.",
+      "sourceUrl": null,
+      "webUrl": "https://tech.co/news/us-stop-ai-chip-exports",
+      "originalUrl": "https://tech.co/news/us-stop-ai-chip-exports",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.tech.co/wp-content/uploads/2023/10/25125830/nvidia-chip.jpg",
+          "width": 1920,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-25T17:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tech.co",
+        "domain": "tech.co",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-25-centml-lands-27m-from-nvidia-others-to-make-ai-models-run-more-efficiently.md",
+      "title": "CentML lands $27M from Nvidia, others to make AI models run more efficiently",
+      "excerpt": "CentML, a startup building tools to enable AI models to run more efficiently on existing hardware, has raised $27 million in a venture funding round.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/10/25/centml-lands-27m-from-nvidia-others-to-make-ai-models-run-more-efficiently/",
+      "originalUrl": "https://techcrunch.com/2023/10/25/centml-lands-27m-from-nvidia-others-to-make-ai-models-run-more-efficiently/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-914452330.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/10/25/centml-lands-27m-from-nvidia-others-to-make-ai-models-run-more-efficiently/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/25/centml-lands-27m-from-nvidia-others-to-make-ai-models-run-more-efficiently/amp/",
+      "publishedDateTime": "2023-10-25T15:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-10-25-us-orders-immediate-halt-to-some-ai-chip-exports-to-china-nvidia-says.md",
+      "title": "US orders immediate halt to some AI chip exports to China, Nvidia says",
+      "excerpt": "Tech giant Nvidia says the US has told it to stop shipping some of its advanced artificial intelligence chips to China immediately. The restrictions were supposed to be introduced 30 days from 17 October.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/us-orders-immediate-halt-ai-035851187.html",
+      "originalUrl": "https://www.aol.com/us-orders-immediate-halt-ai-035851187.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.aol.com/amphtml/us-orders-immediate-halt-ai-035851187.html",
+      "cdnAmpWebUrl": "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/us-orders-immediate-halt-ai-035851187.html",
+      "publishedDateTime": "2023-10-25T14:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-25-ai-dominates-qualcomm-snapdragon-summit-with-new-snapdragon-products.md",
+      "title": "AI Dominates Qualcomm Snapdragon Summit With New Snapdragon Products",
+      "excerpt": "Principal Analyst, Mobility & VR, Anshel Sag analyzes the Snapdragon 8 Gen 3 and Snapdragon X Elite SoCs and predicts their impact on AI-driven mobile devices and PCs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/10/25/ai-dominates-qualcomm-snapdragon-summit-with-new-snapdragon-products/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/10/25/ai-dominates-qualcomm-snapdragon-summit-with-new-snapdragon-products/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65391570e04d1bf71ad7c828/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 936,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/10/25/ai-dominates-qualcomm-snapdragon-summit-with-new-snapdragon-products/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/10/25/ai-dominates-qualcomm-snapdragon-summit-with-new-snapdragon-products/amp/",
+      "publishedDateTime": "2023-10-25T14:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-25-coreweave-chooses-ddn-storage-to-power-accelerated-computing-and-ai-in-the-cloud.md",
+      "title": "CoreWeave Chooses DDN Storage to Power Accelerated Computing and AI in the Cloud",
+      "excerpt": "DDN Storage Accelerates Generative AI and Large Language Models with CoreWeave's GPU Cloud and NVIDIA AICHATSWORTH, Calif., Oct. 25, 2023",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/coreweave-chooses-ddn-storage-to-power-accelerated-computing-and-ai-in-the-cloud-1032737969",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/coreweave-chooses-ddn-storage-to-power-accelerated-computing-and-ai-in-the-cloud-1032737969",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2256851/DDN_Logo.jpg",
+          "width": 283,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-25T10:37:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-25-us-orders-immediate-halt-to-shipping-of-some-ai-chips-to-china-nvidia-says.md",
+      "title": "US orders immediate halt to shipping of some AI chips to China, Nvidia says",
+      "excerpt": "Tech giant Nvidia says the US has told it to stop shipping some of its advanced artificial intelligence chips to China immediately. The restrictions were supposed to be introduced 30 days from 17 October.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/business-67213134",
+      "originalUrl": "https://www.bbc.com/news/business-67213134",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 282,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/10F92/production/_131522596_gettyimages-1258278958-1.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/business-67213134.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-67213134.amp",
+      "publishedDateTime": "2023-10-25T03:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-25-geforce-rtx-4090-might-not-be-banned-in-china-as-the-us-immediately-halts-ai-gpu-sales.md",
+      "title": "GeForce RTX 4090 might not be banned in China as the U.S. immediately halts AI GPU sales",
+      "excerpt": "Updated U.S. restrictions on GPU hardware for AI are now in effect, but the good news for PC gamers in China is that the GeForce RTX 4090 looks to be okay.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/93982/geforce-rtx-4090-might-not-be-banned-in-china-as-the-immediately-halts-ai-gpu-sales/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/93982/geforce-rtx-4090-might-not-be-banned-in-china-as-the-immediately-halts-ai-gpu-sales/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tweaktown.com/news/9/3/93982_01_geforce-rtx-4090-might-not-be-banned-in-china-as-the-immediately-halts-ai-gpu-sales_full.jpg",
+          "width": 1500,
+          "height": 843,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-25T00:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-10-25-ai-chip-wars-us-curbs-nvidia-gpu-chip-exports-sooner-than-expected.md",
+      "title": "AI chip wars: US curbs Nvidia GPU chip exports sooner than expected",
+      "excerpt": "On Tuesday, chip designer Nvidia announced in an SEC filing that new US export restrictions on its high-end AI GPU chips to China are now in effect sooner than expected, according to a report from Reuters.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/10/ai-chip-wars-us-curbs-nvidia-gpu-chip-exports-sooner-than-expected/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/10/ai-chip-wars-us-curbs-nvidia-gpu-chip-exports-sooner-than-expected/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 289,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/nvidia_h100_hero_3-800x448.jpg",
+          "width": 800,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/10/ai-chip-wars-us-curbs-nvidia-gpu-chip-exports-sooner-than-expected/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/ai-chip-wars-us-curbs-nvidia-gpu-chip-exports-sooner-than-expected/amp/",
+      "publishedDateTime": "2023-10-24T21:06:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-10-25-fedml-nexus-ai-the-next-gen-cloud-services-for-llms-and-generative-ai.md",
+      "title": "FEDML Nexus AI: The Next-Gen Cloud Services for LLMs and Generative AI",
+      "excerpt": "FEDML, a rapidly growing startup in artificial intelligence (AI), officially announced the release of FEDML Nexus AI, offering the next generation of cloud services and platform for generative AI.This press release features multimedia.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/business/fedml-nexus-ai-the-next-gen-cloud-services-for-llms-and-generative-ai/",
+      "originalUrl": "https://venturebeat.com/business/fedml-nexus-ai-the-next-gen-cloud-services-for-llms-and-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/mms.businesswire.com/media/20231024932463/en/1922758/4/wideimage.jpg?strip=all&#038;ssl=1",
+          "width": 480,
+          "height": 269,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-24T19:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-24-this-brain-like-ibm-chip-could-drastically-cut-the-cost-of-ai.md",
       "title": "This Brain-Like IBM Chip Could Drastically Cut the Cost of AI",
       "excerpt": "The brain-like chip triumphed over state-of-the-art GPUs in several head-to-head tests while using up to 96 percent less energy.",
@@ -795,605 +1368,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-us-tightens-curbs-on-ai-chip-exports-to-china-widening-rift-with-nvidia-and-intel.md",
-      "title": "U.S. Tightens Curbs on AI Chip Exports to China, Widening Rift With Nvidia and Intel",
-      "excerpt": "The new rules, which significantly constrict sales of advanced semiconductors to the Chinese market, came despite intense lobbying by chip companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/tech/u-s-tightens-curbs-on-ai-chip-exports-to-china-widening-rift-with-u-s-businesses-3b9983df",
-      "originalUrl": "https://www.wsj.com/tech/u-s-tightens-curbs-on-ai-chip-exports-to-china-widening-rift-with-u-s-businesses-3b9983df",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-869788/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T05:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-hive-digital-is-now-a-nvidia-csp-partner-and-announces-gpu-grants-for-open-source-ai-developers.md",
-      "title": "HIVE Digital is Now a NVIDIA CSP Partner and Announces GPU Grants for Open-Source AI Developers",
-      "excerpt": "HIVE Executive Chairman Frank Holmes commented, \"This contest is our way of supporting the AI community. We want to better understand what AI developers need from their cloud providers. At the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/hive-digital-is-now-a-nvidia-csp-partner-and-announces-gpu-grants-for-open-source-ai",
-      "originalUrl": "https://www.nasdaq.com/press-release/hive-digital-is-now-a-nvidia-csp-partner-and-announces-gpu-grants-for-open-source-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T01:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-retransmission-hive-digital-is-now-a-nvidia-csp-partner-and-announces-gpu-grants-for-open-source-ai-developers.md",
-      "title": "RETRANSMISSION: HIVE Digital is Now a NVIDIA CSP Partner and Announces GPU Grants for Open-Source AI Developers",
-      "excerpt": "Vancouver, British Columbia--(Newsfile Corp. - October 18, 2023) - HIVE Digital Technologies Ltd. (TSXV: HIVE) (NASDAQ: HIVE) (FSE: YO0) (the \"Company\" or \"HIVE\") is pleased to announce a new GPU grant program for AI developers. HIVE is giving away 10,000 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/HIVE-X/pressreleases/21206975/retransmission-hive-digital-is-now-a-nvidia-csp-partner-and-announces-gpu-grants-for-open-source-ai-developers/",
-      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/HIVE-X/pressreleases/21206975/retransmission-hive-digital-is-now-a-nvidia-csp-partner-and-announces-gpu-grants-for-open-source-ai-developers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newsfilecorp.com/files/5335/184372_hivedigital_410.jpg",
-          "width": 410,
-          "height": 593,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-updated-chip-restrictions-help-unify-ai-hype-and-china-hawkishness.md",
-      "title": "Updated Chip Restrictions Help Unify AI Hype And China Hawkishness",
-      "excerpt": "Earlier today, the Commerce Department’s Bureau of Industry and Security (BIS) released rules updating last year’s chip controls targeting China.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johannacostigan/2023/10/17/new-chip-restrictions-help-unify-ai-hype-and-china-hawkishness/",
-      "originalUrl": "https://www.forbes.com/sites/johannacostigan/2023/10/17/new-chip-restrictions-help-unify-ai-hype-and-china-hawkishness/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/652f1401acdb374749a42d38/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johannacostigan/2023/10/17/new-chip-restrictions-help-unify-ai-hype-and-china-hawkishness/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johannacostigan/2023/10/17/new-chip-restrictions-help-unify-ai-hype-and-china-hawkishness/amp/",
-      "publishedDateTime": "2023-10-17T23:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-dont-panic-but-gpu-prices-are-starting-to-rise-again.md",
-      "title": "Don’t panic, but GPU prices are starting to rise again",
-      "excerpt": "Is the rising price of Nvidia’s RTX 4090 an indication of trouble for the GPU market? Most likely not. The RTX 4090 is the only card of its kind and the best choice for those who want to ride the wave of the current AI boom. Other GPUs like the RTX 4080 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/gpu-prices-are-going-up-but-dont-panic-yet/",
-      "originalUrl": "https://www.digitaltrends.com/computing/gpu-prices-are-going-up-but-dont-panic-yet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/10/12-pin.00_00_35_15.Still005.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/gpu-prices-are-going-up-but-dont-panic-yet/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/gpu-prices-are-going-up-but-dont-panic-yet/?amp",
-      "publishedDateTime": "2023-10-17T19:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-17-us-moves-to-close-loopholes-china-is-exploiting-to-secure-ai-chips.md",
-      "title": "US Moves to Close Loopholes China Is Exploiting to Secure AI Chips",
-      "excerpt": "The stricter rules are intended to prevent Chinese companies from obtaining large numbers of smaller chips and combining them to form a powerful data center.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/us-moves-to-close-loopholes-china-is-exploiting-to-secure-ai-chips",
-      "originalUrl": "https://www.pcmag.com/news/us-moves-to-close-loopholes-china-is-exploiting-to-secure-ai-chips",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 264,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/05wqDEjdDEkzyQnBECxr9tG-1.fit_lim.size_1200x630.v1697554685.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-17T15:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-17-foxconn-and-nvidia-are-building-ai-factories-to-accelerate-self-driving-cars.md",
-      "title": "Foxconn and Nvidia are building ‘AI factories’ to accelerate self-driving cars",
-      "excerpt": "Nvidia and Foxconn are working together to build so-called “AI factories,” a new class of data centers that promise to provide supercomputing powers to accelerate the development of self-driving cars, autonomous machines and industrial robots.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/10/17/foxconn-and-nvidia-are-building-ai-factories-to-accelerate-self-driving-cars/",
-      "originalUrl": "https://techcrunch.com/2023/10/17/foxconn-and-nvidia-are-building-ai-factories-to-accelerate-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 249,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/10/Screen-Shot-2023-10-18-at-3.18.03-pm.png?resize=1200,604",
-          "width": 1200,
-          "height": 604,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/10/17/foxconn-and-nvidia-are-building-ai-factories-to-accelerate-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/17/foxconn-and-nvidia-are-building-ai-factories-to-accelerate-self-driving-cars/amp/",
-      "publishedDateTime": "2023-10-17T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-10-17-exclusive-us-tackles-loopholes-in-curbs-on-ai-chip-exports-to-china.md",
-      "title": "Exclusive: US tackles loopholes in curbs on AI chip exports to China",
-      "excerpt": "The steps are intended to prevent American chipmakers from selling products to China that circumvent government restrictions as part of the administration's actions to block more AI chip exports.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/upcoming-us-rules-ai-chip-exports-aim-stop-workarounds-us-official-2023-10-15/?mc_cid=8067f7dad4&mc_eid=6811b078ef",
-      "originalUrl": "https://www.reuters.com/technology/upcoming-us-rules-ai-chip-exports-aim-stop-workarounds-us-official-2023-10-15/?mc_cid=8067f7dad4&mc_eid=6811b078ef",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 274,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/6FUgILCZNiq5orM-s1tsFGVgAmA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XWKEI6PGCVKOZD3MCVIJ7DBHHY.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-16T17:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-16-mac-users-are-embracing-ai-apps-study-finds-with-42-using-ai-apps-daily.md",
-      "title": "Mac users are embracing AI apps, study finds, with 42% using AI apps daily",
-      "excerpt": "AI adoption among Mac app users is booming, according to a new report from app subscription service Setapp that found that 42% of Mac users today report",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/10/16/mac-users-are-embracing-ai-apps-study-finds-with-42-using-ai-apps-daily/",
-      "originalUrl": "https://techcrunch.com/2023/10/16/mac-users-are-embracing-ai-apps-study-finds-with-42-using-ai-apps-daily/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/07/CMC_1580.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/10/16/mac-users-are-embracing-ai-apps-study-finds-with-42-using-ai-apps-daily/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/16/mac-users-are-embracing-ai-apps-study-finds-with-42-using-ai-apps-daily/amp/",
-      "publishedDateTime": "2023-10-16T14:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-16-the-12-worst-examples-of-metas-dystopian-ai-influencers.md",
-      "title": "The 12 Worst Examples of Meta's Dystopian AI Influencers",
-      "excerpt": "Tom Brady, Kendall Jenner, Roy Choi, and Charli D'Amelio all throw their hats in the ring to put faces to Meta's chatbots on Instagram, Messenger, and WhatApp.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/12-worst-examples-of-metas-dystopian-ai-influencers-1850917709",
-      "originalUrl": "https://gizmodo.com/12-worst-examples-of-metas-dystopian-ai-influencers-1850917709",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/e374caedbec70276644c92b6534ca98e.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-16T13:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-16-exclusive-us-tackles-loopholes-in-curbs-on-ai-chip-exports-to-china.md",
-      "title": "Exclusive: US tackles loopholes in curbs on AI chip exports to China",
-      "excerpt": "The steps are intended to prevent American chipmakers from selling products to China that circumvent government restrictions as part of the administration's actions to block more AI chip exports.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/upcoming-us-rules-ai-chip-exports-aim-stop-workarounds-us-official-2023-10-15/?mc_cid=8067f7dad4",
-      "originalUrl": "https://www.reuters.com/technology/upcoming-us-rules-ai-chip-exports-aim-stop-workarounds-us-official-2023-10-15/?mc_cid=8067f7dad4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 304,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/6FUgILCZNiq5orM-s1tsFGVgAmA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XWKEI6PGCVKOZD3MCVIJ7DBHHY.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-16T09:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-16-us-tackles-loopholes-in-curbs-on-ai-chip-exports-to-china.md",
-      "title": "U.S. tackles loopholes in curbs on AI chip exports to China",
-      "excerpt": "The new rules will be added to sweeping U.S. restrictions on shipments of advanced chips and chipmaking equipment to China unveiled last October.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/10/16/us-tackles-loopholes-in-curbs-on-ai-chip-exports-to-china.html",
-      "originalUrl": "https://www.cnbc.com/2023/10/16/us-tackles-loopholes-in-curbs-on-ai-chip-exports-to-china.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 574,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107317555-1697418146775-gettyimages-1507545065-CHINA_WORLD_AI.jpeg?v=1697421613",
-          "width": 4000,
-          "height": 2667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/10/16/us-tackles-loopholes-in-curbs-on-ai-chip-exports-to-china.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/10/16/us-tackles-loopholes-in-curbs-on-ai-chip-exports-to-china.html",
-      "publishedDateTime": "2023-10-16T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

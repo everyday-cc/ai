@@ -2,6 +2,1184 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-11-07-artificial-intelligence-accelerating-clean-energy-transformation.md",
+      "title": "Artificial Intelligence: Accelerating Clean Energy Transformation",
+      "excerpt": "The union of artificial intelligence and renewable energy promises a brighter, cleaner future for power generation and for our planet as a whole. As we stand on the cusp of a clean energy revolution, leveraging the potential of AI can catalyze this transition, making our path to decarbonized power generation smoother, faster and more efficient.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/07/artificial-intelligence-accelerating-clean-energy-transformation/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/07/artificial-intelligence-accelerating-clean-energy-transformation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65494949d96d8cc3814c7e77/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/07/artificial-intelligence-accelerating-clean-energy-transformation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/11/07/artificial-intelligence-accelerating-clean-energy-transformation/amp/",
+      "publishedDateTime": "2023-11-07T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-11-07-elon-musk-wants-to-start-selling-humanoid-robots-by-2027-and-a-hiring-spree-seems-designed-to-make-that-a-reality.md",
+      "title": "Elon Musk wants to start selling humanoid robots by 2027 — and a hiring spree seems designed to make that a reality",
+      "excerpt": "It indicates the ability to send an email. An curved arrow pointing right. Elon Musk has high aspirations for Tesla's humanoid robot, Optimus. The Tesla CEO said at its annual AI Day last year that it could be ready to take orders in three to five years ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/elon-musk-humanoid-robots-tesla-hiring-workers-2023-11",
+      "originalUrl": "https://www.businessinsider.com/elon-musk-humanoid-robots-tesla-hiring-workers-2023-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/654a1a4e36d588dc55cbff3e?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/elon-musk-humanoid-robots-tesla-hiring-workers-2023-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-humanoid-robots-tesla-hiring-workers-2023-11?amp",
+      "publishedDateTime": "2023-11-07T12:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-11-07-self-driving-cars-and-buses-your-guide-to-the-future-of-autonomous-vehicles.md",
+      "title": "Self-driving cars and buses: Your guide to the future of autonomous vehicles",
+      "excerpt": "Vehicles that take care of themselves and the driver are the future, according to the government, which in the King’s Speech on 7 November that “self-driving vehicles will make transport safer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/self-driving-cars-buses-guide-171731890.html",
+      "originalUrl": "https://www.aol.com/self-driving-cars-buses-guide-171731890.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_the_independent_us_877/ce4e0a6502373d7781bcf6ec373959d3",
+          "width": 1200,
+          "height": 901,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.aol.com/amphtml/self-driving-cars-buses-guide-171731890.html",
+      "cdnAmpWebUrl": "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/self-driving-cars-buses-guide-171731890.html",
+      "publishedDateTime": "2023-11-07T12:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-07-artificial-intelligence-and-us-nuclear-weapons-decisions-how-big-a-role.md",
+      "title": "Artificial intelligence and US nuclear weapons decisions: How big a role?",
+      "excerpt": "But the seeds of change are already present. \"Artificial intelligence is extremely powerful,\" Gen. Mark Milley, retired chairman of the Joint Chiefs of Staff, told \"60 Minutes\" on Oct. 8.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/opinion/artificial-intelligence-us-nuclear-weapons-decisions-how-big-role",
+      "originalUrl": "https://www.foxnews.com/opinion/artificial-intelligence-us-nuclear-weapons-decisions-how-big-role",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-07T07:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-07-britain-says-makers-not-car-owners-liable-for-self-driving-crashes.md",
+      "title": "Britain Says Makers, Not Car Owners Liable for Self-Driving Crashes",
+      "excerpt": "Britain Says Makers, Not Car Owners Liable for Self-Driving Crashes By Alistair Smout and Nick Carey LONDON (Reuters) -Britain will make the makers rather than the owners of self-driving cars ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2023-11-07/britain-says-self-driving-car-makers-liable-for-incidents-in-new-framework",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2023-11-07/britain-says-self-driving-car-makers-liable-for-incidents-in-new-framework",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-07T06:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-07-the-uks-automated-vehicles-bill-what-you-need-to-know.md",
+      "title": "The UK's Automated Vehicles Bill: what you need to know",
+      "excerpt": "It will set out the legal framework for self-driving cars and it is becoming clear that car makers, not owners, will shoulder the legal responsibility for any crashes in the UK involving ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.carmagazine.co.uk/autonomous/are-self-driving-cars-legal-in-the-uk/",
+      "originalUrl": "https://www.carmagazine.co.uk/autonomous/are-self-driving-cars-legal-in-the-uk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://car-images.bauersecure.com/wp-images/151842/self-driving_car_uk.jpg",
+          "width": 1600,
+          "height": 1067,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-07T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CAR Magazine",
+        "domain": "carmagazine.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-06-code-companions-the-rise-of-the-automated-developer.md",
+      "title": "Code Companions - The Rise Of The Automated Developer",
+      "excerpt": "Okay, not everything is automated yet, but we are applying automation controls to every fabric of our society from auto-sensing driver alerts in newer smart vehicles",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/11/06/code-companionsthe-rise-of-the-automated-developer/",
+      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/11/06/code-companionsthe-rise-of-the-automated-developer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6544cc6989351ce0a0618d00/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/11/06/code-companionsthe-rise-of-the-automated-developer/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/11/06/code-companionsthe-rise-of-the-automated-developer/amp/",
+      "publishedDateTime": "2023-11-06T11:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-06-artificial-intelligence-war-machines-take-flight.md",
+      "title": "Artificial Intelligence War Machines Take Flight",
+      "excerpt": "Far out in the prairies of North Dakota, we saw firsthand how artificial intelligence tools are being merged with military surveillance and weapons.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/interactive/2023/11/06/us/politics/pentagon-weapons-artificial-intelligence.html",
+      "originalUrl": "https://www.nytimes.com/interactive/2023/11/06/us/politics/pentagon-weapons-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/11/03/us/politics/00dc-shieldai-burst/00dc-shieldai-burst-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-06T10:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-11-05-a-bull-market-is-coming-1-magnificent-artificial-intelligence-ai-growth-stock-to-buy-hand-over-fist-and-hold-forever.md",
+      "title": "A Bull Market Is Coming -- 1 Magnificent Artificial Intelligence (AI) Growth Stock to Buy Hand Over Fist and Hold Forever",
+      "excerpt": "One of the biggest catalysts for this year's stock market recovery has been the buzz surrounding artificial intelligence (AI ... There's also Waymo, its autonomous vehicle platform, and YouTube ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/11/05/bull-market-magnificent-artificial-intelligence-ai/",
+      "originalUrl": "https://www.fool.com/investing/2023/11/05/bull-market-magnificent-artificial-intelligence-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/753357/a-person-leaning-on-the-hand-inspecting-various-lines-of-ai-code.jpg",
+          "width": 5657,
+          "height": 3240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-05T06:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-05-opinion-lets-talk-driverless-cars-the-good-the-bad-and-the-ai.md",
+      "title": "OPINION | LET'S TALK: Driverless cars: The good, the bad and the AI",
+      "excerpt": "\"GM halting driverless car service nationwide after California ban\" is the headline of an end-of-October CNN story by Chris Isidore and Peter Valdes-Dapena. Seems the carmaker has decided it was \"putting the brakes\" on the driverless cars it had developed and which were already providing rides in some locales.",
+      "sourceUrl": null,
+      "webUrl": "https://www.arkansasonline.com/news/2023/nov/04/driverless-cars-the-good-the-bad-and-the-ai/?latest",
+      "originalUrl": "https://www.arkansasonline.com/news/2023/nov/04/driverless-cars-the-good-the-bad-and-the-ai/?latest",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-04T21:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Arkansas Democrat-Gazette",
+        "domain": "arkansasonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-04-opinion-lets-talk-driverless-cars-the-good-the-bad-and-the-ai.md",
+      "title": "OPINION | LET'S TALK: Driverless cars: The good, the bad and the AI",
+      "excerpt": "\"GM halting driverless car service nationwide after ... These cars, as explained in the Bing blurb, rely on sensors and artificial intelligence to figure their way around and avoid getting in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.arkansasonline.com/news/2023/nov/04/driverless-cars-the-good-the-bad-and-the-ai/",
+      "originalUrl": "https://www.arkansasonline.com/news/2023/nov/04/driverless-cars-the-good-the-bad-and-the-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/205695740_HelaineLogoWEB_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676",
+          "width": 600,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-04T16:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Arkansas Democrat-Gazette",
+        "domain": "arkansasonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-04-unmasking-artificial-intelligence-the-battle-for-ethical-innovation-and-accountability.md",
+      "title": "Unmasking Artificial Intelligence: The Battle for Ethical Innovation and Accountability",
+      "excerpt": "Bias and Fairness: AI algorithms can inadvertently perpetuate bias, discrimination, and unfairness. They learn from historical data, which may contain biases, and replicate those biases in their decision-making processes. This bias can manifest in areas like hiring practices, lending decisions, and criminal justice.",
+      "sourceUrl": null,
+      "webUrl": "https://michiganchronicle.com/2023/11/03/unmasking-artificial-intelligence-the-battle-for-ethical-innovation-and-accountability/",
+      "originalUrl": "https://michiganchronicle.com/2023/11/03/unmasking-artificial-intelligence-the-battle-for-ethical-innovation-and-accountability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://michiganchronicle.com/wp-content/uploads/sites/2/2023/11/Unmasking-AI.jpg",
+          "width": 2426,
+          "height": 1235,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://michiganchronicle.com/2023/11/03/unmasking-artificial-intelligence-the-battle-for-ethical-innovation-and-accountability/?amp=1",
+      "cdnAmpWebUrl": "https://michiganchronicle-com.cdn.ampproject.org/c/s/michiganchronicle.com/2023/11/03/unmasking-artificial-intelligence-the-battle-for-ethical-innovation-and-accountability/?amp=1",
+      "publishedDateTime": "2023-11-03T19:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Michigan Chronicle",
+        "domain": "michiganchronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-11-02-as-gaza-conflict-rages-online-maps-from-chinese-companies-are-missing-israels-name.md",
+      "title": "As Gaza conflict rages, online maps from Chinese companies are missing Israel’s name",
+      "excerpt": "Beijing has clarified that Israel remains marked on official maps issued by Chinese authorities after questions emerged over why the country’s name was not visible on online maps provided by two major Chinese companies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/gaza-conflict-rages-online-maps-045613363.html?ref=biztoc.com",
+      "originalUrl": "https://www.aol.com/gaza-conflict-rages-online-maps-045613363.html?ref=biztoc.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_cnn_business_articles_764/7bc99f4354e15e90a476164c321ba960",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-02T07:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-02-artificial-intelligence-is-changing-the-way-cars-are-made.md",
+      "title": "Artificial Intelligence Is Changing the Way Cars Are Made",
+      "excerpt": "Artificial intelligence (AI) is worming its way through global industries in everything from fast food production to farming to energy grids and water treatment plants. It also now touches almost ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/artificial-intelligence-changing-way-cars-are-made-1835913",
+      "originalUrl": "https://www.newsweek.com/artificial-intelligence-changing-way-cars-are-made-1835913",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2296490/siemens-digital-twin.jpg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-02T06:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-02-thailand-taking-steps-to-regulate-ai-artificial-intelligence.md",
+      "title": "Thailand Taking Steps to Regulate (AI) Artificial Intelligence",
+      "excerpt": "Artificial Intelligence (AI) has rapidly transformed the way we live, work, and interact with technology. In Thailand, just like in many other parts of the world, AI is becoming increasingly integrated into daily life.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chiangraitimes.com/tech/thailand-taking-steps-to-regulate-ai-artificial-intelligence/",
+      "originalUrl": "https://www.chiangraitimes.com/tech/thailand-taking-steps-to-regulate-ai-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chiangraitimes.com/wp-content/uploads/2020/06/Artificial-Intelligence-and-Using-Robots-in-Educational-Institutions.jpg",
+          "width": 850,
+          "height": 567,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-01T21:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chiangrai Times",
+        "domain": "chiangraitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-01-baidu-launches-paid-version-of-chatgpt-like-ernie-bot.md",
+      "title": "Baidu launches paid version of ChatGPT-like Ernie Bot",
+      "excerpt": "BEIJING, Nov 1 (Reuters) - Chinese search engine giant Baidu launched on Wednesday a paid version of its ChatGPT-like product Ernie bot, charging 59.9 yuan ($8.18) per month. Ernie bot ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/baidu-launches-paid-version-chatgpt-like-ernie-bot-2023-11-01/",
+      "originalUrl": "https://www.reuters.com/technology/baidu-launches-paid-version-chatgpt-like-ernie-bot-2023-11-01/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/VVujUpuZJ5sZbzejiK7qIgd0vvM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7KYMFDIHQ5OGLCNPW4OK6FNDEQ.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-01T13:16:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-01-self-driving-car-service-suspends-rides-nationwide-but-will-resume-mapping-in-nc.md",
+      "title": "Self-driving car service suspends rides nationwide but will resume mapping in NC",
+      "excerpt": "The pause by General Motors’ Cruise division comes after several safety incidents. But mapping will resume in Charlotte, and Raleigh awaits next steps.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsobserver.com/news/business/article281194698.html",
+      "originalUrl": "https://www.newsobserver.com/news/business/article281194698.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-01T12:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Raleigh News & Observer",
+        "domain": "newsobserver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-01-a-gut-check-for-artificial-intelligence.md",
+      "title": "A Gut Check for Artificial Intelligence",
+      "excerpt": "Startups are applying artificial intelligence to just about everything, including the bugs in your gut.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/a-gut-check-for-artificial-intelligence-d02aa422",
+      "originalUrl": "https://www.wsj.com/articles/a-gut-check-for-artificial-intelligence-d02aa422",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-878977/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-01T11:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-11-01-exploring-the-best-artificial-intelligence-books-a-comprehensive-guide.md",
+      "title": "Exploring the Best Artificial Intelligence Books: A Comprehensive Guide",
+      "excerpt": "Artificial intelligence, the buzzword of the 21st century, has permeated every aspect of our lives. From virtual assistants to self-driving cars, AI is revolutionizing industries and reshaping our future.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/exploring-the-best-artificial-intelligence-books-a-comprehensive-guide/",
+      "originalUrl": "https://techbullion.com/exploring-the-best-artificial-intelligence-books-a-comprehensive-guide/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2023/11/AI-Book-Shelf.jpg",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-01T10:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos",
+        "Machine Learning",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-01-5-best-ai-stocks-to-invest-in-for-2023.md",
+      "title": "5 Best AI Stocks to Invest In for 2023",
+      "excerpt": "Artificial intelligence (AI), including its offshoots ... including its autonomous vehicle start-up Waymo. It also owns DeepMind, a deep learning platform that can diagnose eye diseases, predict ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/",
+      "originalUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.foolcdn.com/media/dubs/images/investing-in-ai-stocks.width-600.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-01T10:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-01-what-are-autonomous-car-levels-levels-1-to-5-of-driverless-vehicle-tech-explained.md",
+      "title": "What are autonomous car levels? Levels 1 to 5 of driverless vehicle tech explained",
+      "excerpt": "To make things easier, we’ve explained every level of driverless tech ... the rapid development of artificial intelligence (AI) and the sophistication of the computers crunching it, will ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.carmagazine.co.uk/car-news/tech/autonomous-car-levels-different-driverless-technology-levels-explained/",
+      "originalUrl": "https://www.carmagazine.co.uk/car-news/tech/autonomous-car-levels-different-driverless-technology-levels-explained/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-01T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CAR Magazine",
+        "domain": "carmagazine.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-01-two-wisconsin-task-forces-look-at-the-potential-impact-of-artificial-intelligence-on-jobs.md",
+      "title": "Two Wisconsin task forces look at the potential impact of artificial intelligence on jobs",
+      "excerpt": "Two state task forces are now underway in Wisconsin looking at how the use of technology known as AI, or artificial intelligence, may affect the workforce. AI, as defined by the Oxford Dictionary, is the theory and development of computer systems able to perform tasks that normally require human intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wuwm.com/2023-10-31/two-wisconsin-task-forces-look-at-the-potential-impact-of-artificial-intelligence-on-jobs",
+      "originalUrl": "https://www.wuwm.com/2023-10-31/two-wisconsin-task-forces-look-at-the-potential-impact-of-artificial-intelligence-on-jobs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://npr.brightspotcdn.com/dims4/default/fcde6a7/2147483647/strip/true/crop/1576x827+0+12/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F59%2F94%2Fcc0542394dc9a8e3cb2f9210a5aa%2Fscreenshot-2023-10-31-at-9-46-34-am.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T20:04:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WUWM",
+        "domain": "wuwm.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-01-were-not-cruising-into-a-driverless-future-just-yet.md",
+      "title": "We’re Not Cruising Into a Driverless Future Just Yet",
+      "excerpt": "Autonomous vehicles roamed Austin this summer. Self-driving trucks shuttle freight across Texas. The autonomous future is here—but its arrival is fraught.",
+      "sourceUrl": null,
+      "webUrl": "https://www.texasmonthly.com/news-politics/driverless-cars-hit-brakes/",
+      "originalUrl": "https://www.texasmonthly.com/news-politics/driverless-cars-hit-brakes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T17:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Texas Monthly",
+        "domain": "texasmonthly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-comma-ai-self-driving-close-behind-tesla-fsd.md",
+      "title": "Comma AI Self Driving Close Behind Tesla FSD",
+      "excerpt": "Comma 3X gives a comfortable highway self driving experience based upon early reviews ... It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextbigfuture.com/2023/10/comma-ai-self-driving-close-behind-tesla-fsd.html",
+      "originalUrl": "https://www.nextbigfuture.com/2023/10/comma-ai-self-driving-close-behind-tesla-fsd.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T14:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NextBigFuture",
+        "domain": "nextbigfuture.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-exploring-unfulfilled-frontiers-in-artificial-intelligence-what-awaits-us.md",
+      "title": "Exploring Unfulfilled Frontiers in Artificial Intelligence: What Awaits Us",
+      "excerpt": "The realm of Artificial Intelligence (AI) machine has been continuously evolving and advancing, reshaping our world in unprecedented ways. However, there are still some uncharted territories, some frontiers in AI that are yet to be fully realized.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/exploring-unfulfilled-frontiers-in-artificial-intelligence-what-awaits-us/",
+      "originalUrl": "https://techbullion.com/exploring-unfulfilled-frontiers-in-artificial-intelligence-what-awaits-us/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T14:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-the-worst-thing-that-could-possibly-happen.md",
+      "title": "The worst thing that could possibly happen",
+      "excerpt": "Investors found out cybersecurity firm Okta (OKTA) was hacked last week, and its stock fell by $2 billion. Anyone can invest in a fast-growing trend like cybersecurity. But you must pick the best businesses within this trend.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mauldineconomics.com/editorial/the-worst-thing-that-could-possibly-happen",
+      "originalUrl": "https://www.mauldineconomics.com/editorial/the-worst-thing-that-could-possibly-happen",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T09:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MauldinEconomics.com",
+        "domain": "mauldineconomics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-marketbeat-stock-of-the-week-uber-goes-driverless.md",
+      "title": "MarketBeat ‘Stock of the Week’: Uber goes driverless",
+      "excerpt": "The article \" MarketBeat ‘Stock of the Week’: Uber goes driverless \" first appeared on MarketBeat.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/WEN/pressreleases/21610102/",
+      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/WEN/pressreleases/21610102/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T06:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-31-will-there-be-accidents-absolutely-lawyers-preparing-for-self-driving-semi-trucks.md",
       "title": "'Will There Be Accidents? Absolutely': Lawyers Preparing for Self-Driving Semi-Trucks",
       "excerpt": "Lawyers are going to have to start thinking about different defendants, said plaintiff attorney Amy Witherite of the Witherite Firm based in Dallas, Fort Worth, Atlanta and Chicago.",
@@ -99,1097 +1277,6 @@
       "provider": {
         "name": "KUT",
         "domain": "kut.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-artificial-intelligence-presents-unique-challenges-opportunities-for-education-in-nepa.md",
-      "title": "Artificial intelligence presents unique challenges, opportunities for education in NEPA",
-      "excerpt": "David Dzurec, Ph.D., gave his University of Scranton students a writing prompt. Their computers completed the assignment. The exercise about the history of the Jesuits was more about examining the answers artificial intelligence could provide — and how students can do better.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/artificial-intelligence-presents-unique-challenges-190400724.html",
-      "originalUrl": "https://www.aol.com/artificial-intelligence-presents-unique-challenges-190400724.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T22:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-10-30-americans-need-not-fear-artificial-intelligence.md",
-      "title": "Americans Need Not Fear Artificial Intelligence",
-      "excerpt": "We should not irrationally fear AI, or refuse to use AI-enabled capabilities. But we should be extremely cautious about granting extensive power to AI. Not because AI might wake up and decide we are the enemy (which is possible, but irrelevant), but because such a system is the poster child for a normal accident or system accident.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nationalreview.com/2023/10/americans-need-not-fear-artificial-intelligence/",
-      "originalUrl": "https://www.nationalreview.com/2023/10/americans-need-not-fear-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/10/robot-hand-keyboard.jpg?fit=1200%2C700&ssl=1",
-          "width": 1200,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.nationalreview.com/2023/10/americans-need-not-fear-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/2023/10/americans-need-not-fear-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-10-30T16:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "National Review",
-        "domain": "nationalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-30-the-10-most-valuable-companies-in-the-world-by-market-cap.md",
-      "title": "The 10 Most Valuable Companies in the World by Market Cap",
-      "excerpt": "Nvidia is also becoming a powerhouse in artificial intelligence hardware and software systems ... Alphabet is also diving deeper into autonomous driving cars through its Waymo division, with the world's first autonomous ride-hailing service, Waymo One.",
-      "sourceUrl": null,
-      "webUrl": "https://money.usnews.com/investing/articles/most-valuable-companies-in-the-world-by-market-cap",
-      "originalUrl": "https://money.usnews.com/investing/articles/most-valuable-companies-in-the-world-by-market-cap",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T04:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-30-dgist-develops-an-artificial-intelligence-model-for-effectively-removing-biases-in-a-dataset.md",
-      "title": "DGIST develops an artificial intelligence model for effectively removing biases in a dataset",
-      "excerpt": "The developed image translation model can yield accurate classification results despite the use of biased data for the training of a deep learning model. - This solution is expected to be applied in various fields,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/1006416",
-      "originalUrl": "https://www.eurekalert.org/news-releases/1006416",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-28-robocabs-waymo-is-winning-the-fight-its-flight-for-cruise.md",
-      "title": "Robocabs: Waymo is winning the fight; it’s flight for Cruise",
-      "excerpt": "First, a short update on Cruise. After the GM brand reportedly lost its self-driving license in California this week, it suspended all autonomous car activities in the",
-      "sourceUrl": null,
-      "webUrl": "https://www.electrive.com/2023/10/27/robocabs-waymo-is-winning-the-fight-while-its-flight-for-cruise/",
-      "originalUrl": "https://www.electrive.com/2023/10/27/robocabs-waymo-is-winning-the-fight-while-its-flight-for-cruise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.electrive.com/2018/03/jaguar-i-pace-waymo-autonomous-car-autonomes-fahren.png",
-          "width": 1500,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-28T01:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "electrive",
-        "domain": "electrive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-28-wheres-ai-steering-driverless-cars.md",
-      "title": "Where's AI steering driverless cars?",
-      "excerpt": "GM's Cruise taxis were banned from California roads after the state said the driverless car company misrepresented safety data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketplace.org/2023/10/27/progress-toward-driverless-car-future-hits-brakes/",
-      "originalUrl": "https://www.marketplace.org/2023/10/27/progress-toward-driverless-car-future-hits-brakes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T23:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Marketplace",
-        "domain": "marketplace.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-28-search-engine-baidu-and-carmaker-geelys-venture-starts-delivery-of-self-driving-ev-to-compete-with-teslas-model-y.md",
-      "title": "Search engine Baidu and carmaker Geely’s venture starts delivery of self-driving EV, to compete with Tesla’s Model Y",
-      "excerpt": "Apollo, Baidu’s autonomous driving unit, has provided the self-driving software. Joe Xia, CEO of JIyue Automotive Technology, speaks during the launch ceremony of JiYue 01 SUV in Shanghai on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/business/china-business/article/3239497/search-engine-baidu-and-carmaker-geelys-venture-starts-delivery-self-driving-ev-compete-teslas-model",
-      "originalUrl": "https://www.scmp.com/business/china-business/article/3239497/search-engine-baidu-and-carmaker-geelys-venture-starts-delivery-self-driving-ev-compete-teslas-model",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T22:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-28-geely-and-baidu-in-challenge-to-tesla-launch-autonomous-ev.md",
-      "title": "Geely and Baidu, in challenge to Tesla, launch autonomous EV",
-      "excerpt": "Competition is intensifying in China’s self-driving vehicle market with the arrival ... Group Co. and Chinese search and tech giant Baidu Inc. Launching Friday, the utility vehicle is equipped ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.autonews.com/china/geely-and-baidu-challenge-tesla-launch-autonomous-ev",
-      "originalUrl": "https://www.autonews.com/china/geely-and-baidu-challenge-tesla-launch-autonomous-ev",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T17:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-cruise-gms-robotaxi-service-suspends-all-driverless-operations-nationwide.md",
-      "title": "Cruise, GM’s robotaxi service, suspends all driverless operations nationwide",
-      "excerpt": "The California Department of Motor Vehicles revoked the license for Cruise, which recently began transporting passengers throughout San Francisco, this week.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbc29.com/2023/10/27/cruise-gms-robotaxi-service-suspends-all-driverless-operations-nationwide/",
-      "originalUrl": "https://www.nbc29.com/2023/10/27/cruise-gms-robotaxi-service-suspends-all-driverless-operations-nationwide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-wvir-prod.cdn.arcpublishing.com/resizer/4oAIyjh_qTZ6jYSNDVYNzSiiShc=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/A76YDPE6SNE2BHVQMV5X3VKYRE.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.nbc29.com/2023/10/27/cruise-gms-robotaxi-service-suspends-all-driverless-operations-nationwide/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-nbc29-com.cdn.ampproject.org/c/s/www.nbc29.com/2023/10/27/cruise-gms-robotaxi-service-suspends-all-driverless-operations-nationwide/?outputType=amp",
-      "publishedDateTime": "2023-10-27T15:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC29",
-        "domain": "nbc29.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-geely-and-baidu-in-challenge-to-tesla-launch-autonomous-ev.md",
-      "title": "Geely and Baidu, in challenge to Tesla, launch autonomous EV",
-      "excerpt": "The Jiyue 01, the first EV from a Geely-Baidu joint venture, is equipped with Baidu’s Apollo platform, which has been in development for 10 years and used on driverless vehicles since 2016.",
-      "sourceUrl": null,
-      "webUrl": "https://europe.autonews.com/cars-concepts/geely-and-baidu-challenge-tesla-launch-autonomous-ev",
-      "originalUrl": "https://europe.autonews.com/cars-concepts/geely-and-baidu-challenge-tesla-launch-autonomous-ev",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T15:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-cruise-halts-all-self-driving-taxi-operations-to-rebuild-public-trust.md",
-      "title": "Cruise Halts All Self-Driving Taxi Operations to 'Rebuild Public Trust'",
-      "excerpt": "We think it’s the right thing to do during a period when we need to be extra vigilant when it comes to risk,' Cruise says after California's DMV suspended the company's self-driving permit.",
-      "sourceUrl": null,
-      "webUrl": "https://au.pcmag.com/cars-auto/102335/cruise-halts-all-self-driving-taxi-operations-to-rebuild-public-trust",
-      "originalUrl": "https://au.pcmag.com/cars-auto/102335/cruise-halts-all-self-driving-taxi-operations-to-rebuild-public-trust",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_au/news/c/cruise-hal/cruise-halts-all-self-driving-taxi-operations-to-rebuild-pub_fkz4.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T13:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-tesla-faces-automated-driving-rival-in-geely-and-baidu-ev.md",
-      "title": "Tesla Faces Automated Driving Rival in Geely and Baidu EV",
-      "excerpt": "Competition is intensifying in China’s automated-driving scene with the arrival of Jiyue 01, the first electric vehicle from a joint venture between Zhejiang Geely Holding Group Co. and Chinese search and tech giant Baidu Inc.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-10-27/tesla-faces-self-driving-challenger-as-geely-and-baidu-launch-ev",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-10-27/tesla-faces-self-driving-challenger-as-geely-and-baidu-launch-ev",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T11:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-mediago-empowers-advertisers-with-enhanced-smartbid-capabilities-to-maximize-roi.md",
-      "title": "MediaGo Empowers Advertisers with Enhanced Smartbid Capabilities to Maximize ROI",
-      "excerpt": "Leveraging deep learning technology, MediaGo's new Smartbid feature creates tangible value for performance advertisers by effectively managing the bidding process. The Smartbid model, built on a deep neural network with over 1 billion parameters, enables significant improvements in ad performance for advertisers at all scales.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-mediago-empowers-advertisers-with-enhanced-smartbid-capabilities-maximize-/2023/10/27/9906693.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-mediago-empowers-advertisers-with-enhanced-smartbid-capabilities-maximize-/2023/10/27/9906693.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T09:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-live-news-gms-cruise-pauses-driverless-car-operations-after-california-ban.md",
-      "title": "Live news: GM’s Cruise pauses driverless car operations after California ban",
-      "excerpt": "Driverless car company Cruise on Thursday said it would immediately pause operations “across all our fleets” in order to work out how to rebuild public trust, days after Calif",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/7915341b-fa8a-4c30-8582-5d6372c43dc4",
-      "originalUrl": "https://www.ft.com/content/7915341b-fa8a-4c30-8582-5d6372c43dc4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T01:37:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-uber-launches-rides-in-self-driving-waymo-vehicles-in-phoenix.md",
-      "title": "Uber launches rides in self-driving Waymo vehicles in Phoenix",
-      "excerpt": "Oct. 26 (UPI) --Uber announced Thursday it will begin using driverless cars to transport customers in the metro Phoenix area through a partnership with Waymo. Uber said in a statement that riders ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Top_News/US/2023/10/26/Uber-driverless-rides-Phoenix-Waymo/4841698335576/",
-      "originalUrl": "https://www.upi.com/Top_News/US/2023/10/26/Uber-driverless-rides-Phoenix-Waymo/4841698335576/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi/4841698335576/2023/1/31753a31b0b03f843dfe5a3f70028f4a/v1.5/Uber-launches-rides-in-self-driving-Waymo-vehicles-in-Phoenix.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2023/10/26/Uber-driverless-rides-Phoenix-Waymo/4841698335576/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2023/10/26/Uber-driverless-rides-Phoenix-Waymo/4841698335576/",
-      "publishedDateTime": "2023-10-26T17:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-26-pilot-programs-put-more-driverless-vehicles-on-the-road.md",
-      "title": "Pilot programs put more driverless vehicles on the road",
-      "excerpt": "Pilot programs promoting the use of artificial intelligence in the transport sector have made significant progress, Ministry of Transport officials said on Thursday, with the commercial operation of driverless vehicles being tested in Beijing, Shanghai and Guangzhou, and more smart roads being planned and built.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202310/26/WS653a745fa31090682a5eaf61.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202310/26/WS653a745fa31090682a5eaf61.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img2.chinadaily.com.cn/images/202310/26/653a745fa3109068cafee7bc.jpeg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-26T14:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "中国日报网",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-25-the-same-tech-used-in-driverless-cars-is-helping-public-works.md",
-      "title": "The Same Tech Used in Driverless Cars Is Helping Public Works",
-      "excerpt": "Cities are turning to the same type of technology that allows robotaxis to navigate roadways to identify potholes and errant drivers. The technology is helping to remove humans from potentially dangerous tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/fs/the-same-tech-used-in-driverless-cars-is-helping-public-works",
-      "originalUrl": "https://www.govtech.com/fs/the-same-tech-used-in-driverless-cars-is-helping-public-works",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/63a88b7/2147483647/strip/true/crop/8095x4221+0+1178/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F97%2Fba%2Fd8068ed24c1dbd77ae58f1fbb0db%2Fshutterstock-2274798647.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/fs/the-same-tech-used-in-driverless-cars-is-helping-public-works?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/the-same-tech-used-in-driverless-cars-is-helping-public-works?_amp=true",
-      "publishedDateTime": "2023-10-24T22:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-24-artificial-intelligence-a-new-frontier-in-war-harder-to-prove-what-is-real.md",
-      "title": "Artificial intelligence a new frontier in war: 'harder to prove what is real'",
-      "excerpt": "JERUSALEM – Over the past two weeks, since Palestinian terrorist group Hamas carried out its deadly attack in southern Israel killing some 1,400 Israelis, there is a fear that a new front in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/world/artificial-intelligence-new-frontier-war-harder-prove-what-real",
-      "originalUrl": "https://www.foxnews.com/world/artificial-intelligence-new-frontier-war-harder-prove-what-real",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2c35c4ff-9db4-48e1-852e-7f4f9767c914/15fead3d-3d46-4a6b-b35a-c954e114976c/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/world/artificial-intelligence-new-frontier-war-harder-prove-what-real.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/artificial-intelligence-new-frontier-war-harder-prove-what-real.amp",
-      "publishedDateTime": "2023-10-24T12:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-24-baidu-dont-sleep-on-chinas-ai-leader.md",
-      "title": "Baidu: Don't Sleep On China's AI Leader",
-      "excerpt": "What Baidu World lacked this year in broader strategic details, it made up for with its impressive new GPT 4.0 challenger, Ernie 4.0. The event was marred by tighter chip export restrictions ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4642749-baidu-dont-sleep-china-ai-leader",
-      "originalUrl": "https://seekingalpha.com/article/4642749-baidu-dont-sleep-china-ai-leader",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T04:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-24-doj-subpoenas-tesla-in-probes-of-autopilot-and-driving-range-estimates.md",
-      "title": "DOJ subpoenas Tesla in probes of AutoPilot and driving range estimates",
-      "excerpt": "According to Reuters, demand for Tesla vehicles could drop if interest rates keep rising, and Tesla could incur further losses if pressure remains to decrease prices to remain competitive. That's partly why Tesla shareholders have pushed Musk to consider investing more in advertising efforts that could spike demand.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/tech-policy/2023/10/doj-subpoenas-tesla-in-probes-of-autopilot-and-driving-range-estimates/",
-      "originalUrl": "https://arstechnica.com/tech-policy/2023/10/doj-subpoenas-tesla-in-probes-of-autopilot-and-driving-range-estimates/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1250863346-800x534.jpg",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/tech-policy/2023/10/doj-subpoenas-tesla-in-probes-of-autopilot-and-driving-range-estimates/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/10/doj-subpoenas-tesla-in-probes-of-autopilot-and-driving-range-estimates/amp/",
-      "publishedDateTime": "2023-10-23T20:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-23-how-artificial-intelligence-will-transform-businesses.md",
-      "title": "How Artificial Intelligence Will Transform Businesses",
-      "excerpt": "You probably interact with artificial intelligence (AI ... For instance, for self-driving cars to work, several factors must be identified, analyzed and responded to simultaneously.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessnewsdaily.com/9402-artificial-intelligence-business-trends.html",
-      "originalUrl": "https://www.businessnewsdaily.com/9402-artificial-intelligence-business-trends.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-23T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business News Daily",
-        "domain": "businessnewsdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-10-21-cathie-wood-says-autonomous-driving-is-the-biggest-artificial-intelligence-ai-project-in-the-world-3-stocks-to-buy-right-now.md",
-      "title": "Cathie Wood Says Autonomous Driving Is the Biggest Artificial Intelligence (AI) Project In the World -- 3 Stocks to Buy Right Now",
-      "excerpt": "Ark Investment Management is one of the most bullish firms on Wall Street when it comes to the potential of artificial intelligence ... autonomous self-driving vehicles. In an interview on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/TSLA-Q/pressreleases/21285952/cathie-wood-says-autonomous-driving-is-the-biggest-artificial-intelligence-ai-project-in-the-world-3-stocks-to-buy-right-now/",
-      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/TSLA-Q/pressreleases/21285952/cathie-wood-says-autonomous-driving-is-the-biggest-artificial-intelligence-ai-project-in-the-world-3-stocks-to-buy-right-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://barchart-news-media-prod.aws.barchart.com/FC/3086e48a56947b875f91ca91cf7ae2ea/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f751371%252fa-digital-render-of-a-self-driving-car-stopped-at-a-cross-walk-surrounded-by-people.jpg%26amp%3Bw%3D700",
-          "width": 4200,
-          "height": 2800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-20T23:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-20-cathie-wood-says-autonomous-driving-is-the-biggest-artificial-intelligence-ai-project-in-the-world-3-stocks-to-buy-right-now.md",
-      "title": "Cathie Wood Says Autonomous Driving Is the Biggest Artificial Intelligence (AI) Project In the World -- 3 Stocks to Buy Right Now",
-      "excerpt": "Ark Investment Management is one of the most bullish firms on Wall Street when it comes to the potential of artificial intelligence ... autonomous self-driving vehicles. In an interview on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/cathie-wood-says-autonomous-driving-is-the-biggest-artificial-intelligence-ai-project-in",
-      "originalUrl": "https://www.nasdaq.com/articles/cathie-wood-says-autonomous-driving-is-the-biggest-artificial-intelligence-ai-project-in",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-20T11:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-20-artificial-intelligence-hiring-activity-dropped-in-the-apparel-industry-in-q3-2023.md",
-      "title": "Artificial Intelligence hiring activity dropped in the apparel industry in Q3 2023",
-      "excerpt": "The global apparel industry experienced a 29% drop in new job postings related to artificial intelligence in Q3 2023 compared with the previous quarter, according to GlobalData’s Job Analytics. This compares to a 61% decrease versus Q3 2022. GlobalData ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.just-style.com/uncategorized/artificialintelligence-hiring-apparel-industry/",
-      "originalUrl": "https://www.just-style.com/uncategorized/artificialintelligence-hiring-apparel-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.just-style.com/wp-content/themes/goodlife-wp-B2B/assets/img/report.png",
-          "width": 388,
-          "height": 544,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-20T04:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Companies",
-        "domain": "just-style.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-20-chinas-baidu-races-waymo-gm-to-develop-self-driving-cars.md",
-      "title": "China’s Baidu Races Waymo, GM to Develop Self-driving Cars",
-      "excerpt": "With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into its lane.",
-      "sourceUrl": null,
-      "webUrl": "https://thediplomat.com/2022/06/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/",
-      "originalUrl": "https://thediplomat.com/2022/06/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thediplomat.com/wp-content/uploads/2022/06/sizes/td-story-s-2/thediplomat_2022-06-29-165744.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-20T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Diplomat",
-        "domain": "thediplomat.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-20-why-baidu-stock-tanked-by-6-on-thursday.md",
-      "title": "Why Baidu Stock Tanked by 6% on Thursday",
-      "excerpt": "Baidu (NASDAQ: BIDU) stock was battered on Thursday, due in no small part to a pair of price-target cuts from analysts. That left the Chinese tech giant's shares nearly 6% weaker on the day, a far ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/why-baidu-stock-tanked-by-6-on-thursday",
-      "originalUrl": "https://www.nasdaq.com/articles/why-baidu-stock-tanked-by-6-on-thursday",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-19T22:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-20-is-artificial-intelligence-the-new-weapon-in-global-threats.md",
-      "title": "Is artificial intelligence the new weapon in global threats?",
-      "excerpt": "Violence in the Middle East is prompting new threats in the U.S. On full display, at protests worldwide there is a deep anger, some experts say soon may be used to harness new ways to try to launch attacks or exploit intelligence in parts of the world bad actors could never set foot in,",
-      "sourceUrl": null,
-      "webUrl": "https://newschannel20.com/news/nation-world/is-artificial-intelligence-the-new-weapon-in-global-threats-ai-terrorism-emerging-threats-innovation-security-stanford-university",
-      "originalUrl": "https://newschannel20.com/news/nation-world/is-artificial-intelligence-the-new-weapon-in-global-threats-ai-terrorism-emerging-threats-innovation-security-stanford-university",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://newschannel20.com/resources/media/32d12674-0eb4-43b9-8838-1dcea66a20c0-medium16x9_AP23291793462047.jpg",
-          "width": 648,
-          "height": 364,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://newschannel20.com/amp/news/nation-world/is-artificial-intelligence-the-new-weapon-in-global-threats-ai-terrorism-emerging-threats-innovation-security-stanford-university",
-      "cdnAmpWebUrl": "https://newschannel20-com.cdn.ampproject.org/c/s/newschannel20.com/amp/news/nation-world/is-artificial-intelligence-the-new-weapon-in-global-threats-ai-terrorism-emerging-threats-innovation-security-stanford-university",
-      "publishedDateTime": "2023-10-19T17:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NewsChannel20",
-        "domain": "newschannel20.com",
         "images": null,
         "publishers": null,
         "authors": null

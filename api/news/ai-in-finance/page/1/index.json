@@ -2,6 +2,492 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-09-black-banx-path-to-fintech-eminence-innovation-and-success.md",
+      "title": "Black Banx Path to Fintech Eminence: Innovation and Success",
+      "excerpt": "How Black Banx CEO Michael Gastauer Climbed the Fintech LadderNew York, United States - December 8, 2023 — Estimated to be valued over US$1.5",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/black-banx-path-to-fintech-eminence-innovation-and-success-1032886175",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/black-banx-path-to-fintech-eminence-innovation-and-success-1032886175",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/mmstudio-images/gallery/ifVQDvKEZZMuxhtiOyhcAAz1TmH2/1701365493345-0.jpeg",
+          "width": 660,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-08T16:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-todays-ai-funding-rush-reminds-me-of-the-fintech-investing-hype-of-2021.md",
+      "title": "Today’s AI funding rush reminds me of the fintech investing hype of 2021",
+      "excerpt": "We're seeing a lot of folks push their capital into just a few squares on the betting table. One way or another, the result is going to be notable.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/12/05/ai-funding-rush-fintech-hype/",
+      "originalUrl": "https://techcrunch.com/2023/12/05/ai-funding-rush-fintech-hype/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/04/robot-arm-money-1.jpg?resize=1200,645",
+          "width": 1200,
+          "height": 645,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-05T18:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-threadgold-consulting-unveils-groundbreaking-ai-integration-transforming-fintech-and-erp-landscapes.md",
+      "title": "Threadgold Consulting Unveils Groundbreaking AI Integration, Transforming FinTech and ERP Landscapes",
+      "excerpt": "Introduction In the rapidly evolving world of finance, the integration of Artificial Intelligence (AI) into fintech solutions, especially Enterprise Resource Planning (ERP) systems, marks a significant leap forward.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/threadgold-consulting-unveils-groundbreaking-ai-integration-transforming-fintech-and-erp-landscapes/",
+      "originalUrl": "https://techbullion.com/threadgold-consulting-unveils-groundbreaking-ai-integration-transforming-fintech-and-erp-landscapes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2023/12/AI-SMEs-1000x537.jpg",
+          "width": 1000,
+          "height": 537,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-05T17:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-04-three-fintech-shifts-to-prepare-for-in-2024.md",
+      "title": "Three Fintech Shifts To Prepare For In 2024",
+      "excerpt": "As an industry, we are now better positioned to capitalize on emerging trends, harness new technologies and forge stronger connections within the global market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/04/three-fintech-shifts-to-prepare-for-in-2024/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/04/three-fintech-shifts-to-prepare-for-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63e11fa3309e803d18166590/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1033,
+          "height": 688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/04/three-fintech-shifts-to-prepare-for-in-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/04/three-fintech-shifts-to-prepare-for-in-2024/amp/",
+      "publishedDateTime": "2023-12-04T13:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-04-fintech-in-2024-the-big-questions-answered.md",
+      "title": "Fintech in 2024: The big questions answered",
+      "excerpt": "In this roundtable, we ask how the industry could be affected by changes in cybersecurity, crypto, AI, open banking, mobile and welltech going into 2024",
+      "sourceUrl": null,
+      "webUrl": "https://fintechmagazine.com/articles/fintech-in-2024-the-big-questions-answered",
+      "originalUrl": "https://fintechmagazine.com/articles/fintech-in-2024-the-big-questions-answered",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bizclikmedia.net/1200/73170323e972627b65ae532c17c7d8ec:a4684e747c11e71a1a8b0bbb3fdceef7/gettyimages-1321209107.jpg.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T09:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fintechmagazine",
+        "domain": "fintechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-04-xiao-i-showcases-hua-zang-universal-large-language-model-and-its-cutting-edge-applications-at-abu-dhabi-finance-week.md",
+      "title": "Xiao-I Showcases Hua Zang Universal Large Language Model and Its Cutting-Edge Applications at Abu Dhabi Finance Week",
+      "excerpt": "Mr. Hui Yuan, Chairman of the Board and CEO of Xiao-I Corporation (NASDAQ: AIXI) (\"Xiao-I\" or the \"Company\"), a leading cognitive artificial intelligence (\"AI\") enterprise in China, recently took the stage at the Abu Dhabi Finance Week (\"ADFW\") alongside distinguished speakers to share a practical application of Hua Zang Universal Large Language Model (\"LLM\").",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/xiao-i-showcases-hua-zang-universal-large-language-model-and-its-cutting-edge-applications-at-abu-dhabi-finance-week-1032868782",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/xiao-i-showcases-hua-zang-universal-large-language-model-and-its-cutting-edge-applications-at-abu-dhabi-finance-week-1032868782",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T02:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-12-04-how-bloomberg-uses-machine-learning-to-bring-intraday-pricing-transparency-to-fixed-income-trading.md",
+      "title": "How Bloomberg uses machine learning to bring intraday pricing transparency to fixed income trading",
+      "excerpt": "Bloomberg recently introduced Intraday BVAL (IBVAL) Front Office, a pricing service featuring a machine learning-based system capable of ... It was first launched in 2008, as the financial crisis resulted in a need for more robust independent pricing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/company/stories/how-bloomberg-uses-machine-learning-intraday-pricing-transparency/",
+      "originalUrl": "https://www.bloomberg.com/company/stories/how-bloomberg-uses-machine-learning-intraday-pricing-transparency/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-12-01-aftas-2023-most-innovative-third-party-technology-vendor-ai-machine-learninggeoquant.md",
+      "title": "AFTAs 2023: Most innovative third-party technology vendor (AI & machine learning)—GeoQuant",
+      "excerpt": "Innovation at GeoQuant At GeoQuant, part of BMI Research, a Fitch Solutions company, innovation is woven into every aspect of the business. The firm uses",
+      "sourceUrl": null,
+      "webUrl": "https://www.waterstechnology.com/awards-rankings/7951513/aftas-2023-most-innovative-third-party-technology-vendor-ai-machine-learning-geoquant",
+      "originalUrl": "https://www.waterstechnology.com/awards-rankings/7951513/aftas-2023-most-innovative-third-party-technology-vendor-ai-machine-learning-geoquant",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T14:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WatersTechnology",
+        "domain": "waterstechnology.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-12-01-ai-in-fintech-market-revenues-to-reach-usd-4943-billion-by-2028-market-size-share-forecasts-trends-analysis-report-by-mordor-intelligence.md",
+      "title": "AI in Fintech Market Revenues to Reach USD 49.43 Billion by 2028 – Market Size, Share, Forecasts, & Trends Analysis Report by Mordor Intelligence",
+      "excerpt": "According to the latest research report titled, \"AI in Fintech Market Report (2023 - 2028)\" by Mordor Intelligence, the market is estimated at USD 42.83 billion in 2023 and growing at a CAGR of 2.91%",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/11/ab36035681/ai-in-fintech-market-revenues-to-reach-usd-49-43-billion-by-2028-market-size-share-forecasts-tren",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/11/ab36035681/ai-in-fintech-market-revenues-to-reach-usd-49-43-billion-by-2028-market-size-share-forecasts-tren",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/36035681",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36035681",
+      "publishedDateTime": "2023-11-30T22:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-29-fintech-leading-in-ai-adoption-need-new-ai-legislation-moodys-analytics.md",
+      "title": "Fintech leading in AI adoption, need new AI legislation: Moody’s Analytics",
+      "excerpt": "As per the study, 18 per cent of fintech respondents are currently actively using AI, double than the 9 per cent respondents across all surveyed sectors",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/money-and-banking/fintech-leading-in-ai-adoption-need-new-ai-legislation-moodys-analytics/article67587744.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/money-and-banking/fintech-leading-in-ai-adoption-need-new-ai-legislation-moodys-analytics/article67587744.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/money-and-banking/fintech-leading-in-ai-adoption-need-new-ai-legislation-moodys-analytics/article67587744.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/money-and-banking/fintech-leading-in-ai-adoption-need-new-ai-legislation-moodys-analytics/article67587744.ece/amp/",
+      "publishedDateTime": "2023-11-29T14:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-29-helios-enhances-its-suite-of-customized-investment-models-with-machine-learning.md",
+      "title": "Helios Enhances its Suite of Customized Investment Models with Machine Learning",
+      "excerpt": "New feature aggregates and analyzes data in real-time to bolster the firm's quantitative investment methodologies while optimizing client outcomes Helios, pioneer of the Insourced Chief Investment Off",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/11/b36001022/helios-enhances-its-suite-of-customized-investment-models-with-machine-learning",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/11/b36001022/helios-enhances-its-suite-of-customized-investment-models-with-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/36001022",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36001022",
+      "publishedDateTime": "2023-11-29T13:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-11-29-fintech-30-a-new-era-of-financial-inclusion.md",
       "title": "Fintech 3.0: A New Era Of Financial Inclusion",
       "excerpt": "I see fintech 3.0's emphasis on inclusion as marking a new era in the further integration of digital technology.",
@@ -882,481 +1368,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-thai-bankers-association-assures-bank-app-security-after-facial-recognition-scam.md",
-      "title": "Thai Bankers’ Association assures bank app security after facial recognition scam",
-      "excerpt": "Fraudsters exploited loopholes in the system to facilitate transfers without the need for facial recognition for transactions over 50,000 baht",
-      "sourceUrl": null,
-      "webUrl": "https://thethaiger.com/news/national/thai-bankers-association-assures-bank-app-security-after-facial-recognition-scam",
-      "originalUrl": "https://thethaiger.com/news/national/thai-bankers-association-assures-bank-app-security-after-facial-recognition-scam",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thethaiger.com/wp-content/uploads/2023/11/banking-apps.jpg",
-          "width": 472,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T07:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Thaiger",
-        "domain": "thethaiger.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Finance",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-11-07-ai-ethics-in-fintech-building-trust-in-tomorrows-financial-ecosystem.md",
-      "title": "AI Ethics In Fintech: Building Trust In Tomorrow's Financial Ecosystem",
-      "excerpt": "The nexus between AI and finance paints a horizon replete with opportunities. From crafting unparalleled user experiences to broadening financial access—the prospects are limitless. But, as we navigate this uncharted terrain, let our compass be ethics ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/07/ai-ethics-in-fintech-building-trust-in-tomorrows-financial-ecosystem/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/07/ai-ethics-in-fintech-building-trust-in-tomorrows-financial-ecosystem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 216,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/630f5e5918c93764f06047ca/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/07/ai-ethics-in-fintech-building-trust-in-tomorrows-financial-ecosystem/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/07/ai-ethics-in-fintech-building-trust-in-tomorrows-financial-ecosystem/amp/",
-      "publishedDateTime": "2023-11-07T13:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-11-07-generative-ai-to-boost-productivity-in-financial-services.md",
-      "title": "Generative AI to boost productivity in financial services",
-      "excerpt": "Hype around generative AI and machine learning is continuing to buoy economic sentiment across Europe, with fewer than two-in-five financial services CEOs now expecting a severe downturn in the comin",
-      "sourceUrl": null,
-      "webUrl": "https://www.consultancy.uk/news/35790/generative-ai-to-boost-productivity-in-financial-services",
-      "originalUrl": "https://www.consultancy.uk/news/35790/generative-ai-to-boost-productivity-in-financial-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.consultancy.uk/illustrations/news/spotlight/2023-11-06-043615285-Generative_AI.jpg",
-          "width": 546,
-          "height": 312,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.consultancy.uk/news/amp/35790/generative-ai-to-boost-productivity-in-financial-services",
-      "cdnAmpWebUrl": "https://www-consultancy-uk.cdn.ampproject.org/c/s/www.consultancy.uk/news/amp/35790/generative-ai-to-boost-productivity-in-financial-services",
-      "publishedDateTime": "2023-11-07T04:16:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Consultancy",
-        "domain": "consultancy.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-11-07-endpoint-security-getting-a-boost-from-ai-and-machine-learning.md",
-      "title": "Endpoint security getting a boost from AI and machine learning",
-      "excerpt": "Endpoints overloaded with too many agents are just as unsecure as those that don’t have any. AI and machine learning (ML) are urgently needed in endpoint protection to identify the weakest endpoints, update their patches and harden detection and response beyond what’s available today.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/endpoint-security-getting-a-boost-from-ai-and-machine-learning/",
-      "originalUrl": "https://venturebeat.com/security/endpoint-security-getting-a-boost-from-ai-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/04/annevb_algorithms_and_coding_solving_IT_security_problems._real_ba97e63d-f73a-4233-aa8f-87408e12299f.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-07T00:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-11-07-ant-receives-chinese-government-nod-to-roll-out-ai-services.md",
-      "title": "Ant Receives Chinese Government Nod to Roll Out AI Services",
-      "excerpt": "Ant Group received approval from the Chinese government to roll out products powered by its large language model Bailing to the public.",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/6332071/ant-ai-services-bailing/",
-      "originalUrl": "https://time.com/6332071/ant-ai-services-bailing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://api.time.com/wp-content/uploads/2020/11/AP20301184742771.jpg?quality=85",
-          "width": 6000,
-          "height": 4001,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-06T20:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-02-snowflake-accelerates-how-users-build-next-generation-apps-and-machine-learning-models-in-the-data-cloud.md",
-      "title": "Snowflake Accelerates How Users Build Next Generation Apps and Machine Learning Models in the Data Cloud",
-      "excerpt": "Snowflake Notebooks unlock data exploration and machine learning development for SQL and Python users ... With Snowpark Container Services (public preview soon in select AWS regions), developers can run any component of their app — from ML training ...",
-      "sourceUrl": null,
-      "webUrl": "https://financialpost.com/pmn/business-wire-news-releases-pmn/snowflake-accelerates-how-users-build-next-generation-apps-and-machine-learning-models-in-the-data-cloud",
-      "originalUrl": "https://financialpost.com/pmn/business-wire-news-releases-pmn/snowflake-accelerates-how-users-build-next-generation-apps-and-machine-learning-models-in-the-data-cloud",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2023/11/bw20231101058683_snowflake_snowday23_pr_images_notebooks.jpeg",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T17:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Post",
-        "domain": "financialpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-snowflake-accelerates-how-users-build-next-generation-apps-and-machine-learning-models-in-the-data-cloud.md",
-      "title": "Snowflake Accelerates How Users Build Next Generation Apps and Machine Learning Models in the Data Cloud",
-      "excerpt": "Snowflake (NYSE: SNOW), the Data Cloud company, today announced at its Snowday 2023 event new advancements that make it easier for developers to build",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20231101058683/en/Snowflake-Accelerates-How-Users-Build-Next-Generation-Apps-and-Machine-Learning-Models-in-the-Data-Cloud",
-      "originalUrl": "https://www.businesswire.com/news/home/20231101058683/en/Snowflake-Accelerates-How-Users-Build-Next-Generation-Apps-and-Machine-Learning-Models-in-the-Data-Cloud",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T16:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-netnut-enters-the-fintech-market-with-multiple-new-customers.md",
-      "title": "NetNut Enters the Fintech Market with Multiple New Customers",
-      "excerpt": "The fintech market leveragestechnologies such as AI (artificial intelligence), RPA (robotic process automation), and big data to enhance financial services and activities TEL AVIV, Israel, Oct. 31, 2023 (GLOBE NEWSWIRE) -- Alarum Technologies Ltd. (Nasdaq ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/netnut-enters-the-fintech-market-with-multiple-new-customers-1032758906",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/netnut-enters-the-fintech-market-with-multiple-new-customers-1032758906",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T05:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-ai-safety-use-cases-signing-off-on-financial-services-black-box.md",
-      "title": "AI safety use cases - signing off on Financial Services’ ‘black box’",
-      "excerpt": "Yes, there are stringent regulations that the banks are worried about. So, the use cases where they've adopted AI have, until now, been in places that auditors have scored as low risk. Areas like customer service, where they've used things like text analytics and simplistic AI. But now generative AI is coming into the picture.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/ai-safety-use-cases-signing-financial-services-black-box",
-      "originalUrl": "https://diginomica.com/ai-safety-use-cases-signing-financial-services-black-box",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T15:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-8-major-ai-trends-in-the-fintech-industry-in-2023.md",
-      "title": "8 Major AI Trends In The Fintech Industry In 2023",
-      "excerpt": "Fintech is one of the most innovative industries, with new technologies and approaches being adopted much faster than anywhere else.",
-      "sourceUrl": null,
-      "webUrl": "https://bmmagazine.co.uk/business/8-major-ai-trends-in-the-fintech-industry-in-2023/",
-      "originalUrl": "https://bmmagazine.co.uk/business/8-major-ai-trends-in-the-fintech-industry-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T14:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Matters",
-        "domain": "bmmagazine.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-zeroone-achieves-aws-machine-learning-competency-leading-the-mena-region.md",
-      "title": "Zero&One achieves AWS machine learning competency, leading the MENA region",
-      "excerpt": "This remarkable achievement underscores Zero&One's leadership in harnessing the transformative potential of cloud technology, empowering businesses to unlock new opportunities, enhance operational efficiency,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/companies-news/zero-and-one-achieves-aws-machine-learning-competency-leading-the-mena-region-quwh74gh",
-      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/zero-and-one-achieves-aws-machine-learning-competency-leading-the-mena-region-quwh74gh",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T12:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AWS AI"
       ]
     }
   ],

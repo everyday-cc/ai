@@ -2,6 +2,905 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-11-09-galaxy-ai-likely-to-debut-on-galaxy-s24-series-ai-live-translate-call-feature-revealed.md",
+      "title": "Galaxy AI likely to debut on Galaxy S24 series, AI Live Translate Call feature revealed",
+      "excerpt": "Samsung has announced the Galaxy AI, an AI-powered initiative designed to enhance the user experience on its upcoming devices. According to the company, this comprehensive AI solution leverages both on-device AI developed by Samsung and cloud-based AI enabled through collaborations with industry partners,",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2023/11/09/galaxy-ai-likely-to-debut-on-galaxy-s24-series-ai-live-translate-call-feature-revealed/",
+      "originalUrl": "https://www.gizmochina.com/2023/11/09/galaxy-ai-likely-to-debut-on-galaxy-s24-series-ai-live-translate-call-feature-revealed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/11/AI-Live-Translate-Call-1024x576.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-09T04:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-09-speech-and-voice-recognition-market-is-booming-across-the-global-players-alphabet-voicevault-acapela-group.md",
+      "title": "Speech and Voice Recognition Market is Booming Across the Global Players Alphabet, VoiceVault, Acapela Group",
+      "excerpt": "Speech and Voice Recognition Market Insights 2023 With “The global Speech and Voice Recognition market size was valued at USD 9026.92 million in 2021 and is expected to expand at a CAGR of 22.23 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/news/prwirecenter/speech-and-voice-recognition-market-is-booming-across-the-global-players-alphabet-voicevault-acapela-group",
+      "originalUrl": "https://www.digitaljournal.com/pr/news/prwirecenter/speech-and-voice-recognition-market-is-booming-across-the-global-players-alphabet-voicevault-acapela-group",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-09T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-09-voice-recognition-market-2023-to-hit-statistical-significance-value-by-2030.md",
+      "title": "Voice Recognition Market 2023 to Hit Statistical Significance Value by 2030",
+      "excerpt": "6.3.2 United States Voice Recognition Market Size and Forecast (2017-2030) 6.3.3 Canada Voice Recognition Market Size and Forecast (2017-2030) 6.3.4 Mexico Voice Recognition Market Size and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/news/prwirecenter/voice-recognition-market-2023-to-hit-statistical-significance-value-by-2030",
+      "originalUrl": "https://www.digitaljournal.com/pr/news/prwirecenter/voice-recognition-market-2023-to-hit-statistical-significance-value-by-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-09T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-09-natural-language-processing-nordics.md",
+      "title": "Natural Language Processing - Nordics",
+      "excerpt": "The market size in the Natural Language Processing market is projected to reach US$0.93bn in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 16.14%, resulting ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/nordics",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/nordics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-08T22:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-08-automotive-voice-recognition-system-market-to-reach-147-billion-globally-by-2032-at-161-cagr-allied-market-research.md",
+      "title": "Automotive Voice Recognition System Market to Reach $14.7 Billion, Globally, by 2032 at 16.1% CAGR: Allied Market Research",
+      "excerpt": "WILMINGTON, Del., Nov. 8, 2023 /PRNewswire/ -- Allied Market Research published a report, titled, \"Automotive Voice Recognition System Market by Technology (Embedded, Cloud based, and Hybrid ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2023-11/60594080-automotive-voice-recognition-system-market-to-reach-dollar-14-7-billion-globally-by-2032-at-16-1-cagr-allied-market-research-008.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2023-11/60594080-automotive-voice-recognition-system-market-to-reach-dollar-14-7-billion-globally-by-2032-at-16-1-cagr-allied-market-research-008.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-08T05:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-07-the-evolution-of-ai-from-ibm-and-aws-to-openai-and-anthropic.md",
+      "title": "The Evolution Of AI: From IBM And AWS To OpenAI and Anthropic",
+      "excerpt": "The history of AI is attributed to technologists from IBM, Amazon, Apple, Google, OpenAI and more. In this journey, key players have emerged, each contributing to the evolution of AI in unique and transformative ways.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/digital-assets/2023/11/07/the-evolution-of-ai-from-ibm-and-aws-to-openai-and-anthropic/",
+      "originalUrl": "https://www.forbes.com/sites/digital-assets/2023/11/07/the-evolution-of-ai-from-ibm-and-aws-to-openai-and-anthropic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65497d0a3b2070434c5a76a2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1353,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-07T13:16:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AWS AI",
+        "IBM AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-11-07-thematic-leading-provider-of-ai-powered-feedback-analytics-reports-growth-milestones.md",
+      "title": "Thematic, Leading Provider of AI-Powered Feedback Analytics, Reports Growth Milestones",
+      "excerpt": "Founder and CEO Dr. Alyona Medelyan Details Her Cross-Global Path to Becoming AI Expert, Entrepreneur and Founder of Pioneering CompanyCOVINA, CA",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/thematic-leading-provider-of-ai-powered-feedback-analytics-reports-growth-milestones-1032787094",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/thematic-leading-provider-of-ai-powered-feedback-analytics-reports-growth-milestones-1032787094",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.accesswire.com/users/newswire/images/800103/60374decba81adda5d8d25786fd3.jpg",
+          "width": 697,
+          "height": 1045,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-07T12:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-07-ai-lip-dubbing-puts-words-in-your-mouth.md",
+      "title": "AI Lip Dubbing Puts Words In Your Mouth",
+      "excerpt": "\"Captions entered the translation space in the fall of 2022 with ... ElevenLabs, also based in New York City, has recently released its own AI Dubbing feature with support for 20 languages. It's a similarly well-funded startup, having raised a $20 million ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charliefink/2023/11/07/ai-lip-dubbing-puts-words-in-your-mouth/",
+      "originalUrl": "https://www.forbes.com/sites/charliefink/2023/11/07/ai-lip-dubbing-puts-words-in-your-mouth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6549c89edcf34a674732b85f/0x0.jpg?format=jpg&crop=4972,2795,x173,y118,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2023/11/07/ai-lip-dubbing-puts-words-in-your-mouth/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/11/07/ai-lip-dubbing-puts-words-in-your-mouth/amp/",
+      "publishedDateTime": "2023-11-07T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-07-assembly-neos-nuance-dragon-legal-anywhere-empowering-legal-professionals-with-seamless-speech-recognition-integration.md",
+      "title": "Assembly Neos + Nuance Dragon Legal Anywhere: Empowering Legal Professionals with Seamless Speech Recognition Integration",
+      "excerpt": "\"With Nuance Dragon Legal Anywhere and Neos, legal professionals can create, edit, and review legal documents faster and more accurately than ever before,\" said Daniel Farrar, CEO, of Assembly Software.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2023/11/07/9912639.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2023/11/07/9912639.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-07T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-07-openai-launches-dall-e-3-api-new-text-to-speech-models.md",
+      "title": "OpenAI launches DALL-E 3 API, new text-to-speech models",
+      "excerpt": "In a related announcement, OpenAI launched the next version of its open source automatic speech recognition model, Whisper large-v3, which the company claims boasts improved performance across ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/11/06/openai-launches-dall-e-3-api-new-text-to-speech-models/",
+      "originalUrl": "https://techcrunch.com/2023/11/06/openai-launches-dall-e-3-api-new-text-to-speech-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-06T18:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-06-customize-amazon-textract-with-business-specific-documents-using-custom-queries.md",
+      "title": "Customize Amazon Textract with business-specific documents using Custom Queries",
+      "excerpt": "Amazon Textract is a machine learning (ML) service that automatically extracts text, handwriting, and data from scanned documents. Queries is a feature that enables you to extract specific pieces of information from varying, complex documents using natural language. Custom Queries provides a way for",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/customize-amazon-textract-with-business-specific-documents-using-custom-queries/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/customize-amazon-textract-with-business-specific-documents-using-custom-queries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/06/customize-amazon-textract-custom-queries.jpg",
+          "width": 962,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-06T16:29:12Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-11-06-the-value-of-generative-ai-is-clear-but-the-pricing-model-is-murky.md",
+      "title": "The Value Of Generative AI Is Clear, But The Pricing Model Is Murky",
+      "excerpt": "While there is no doubt that generative AI is a game-changing technology, I find that the pricing model for these products is less than stellar.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/06/the-value-of-generative-ai-is-clear-but-the-pricing-model-is-murky/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/06/the-value-of-generative-ai-is-clear-but-the-pricing-model-is-murky/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/654538a63980f3c3e4306a69/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/06/the-value-of-generative-ai-is-clear-but-the-pricing-model-is-murky/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/11/06/the-value-of-generative-ai-is-clear-but-the-pricing-model-is-murky/amp/",
+      "publishedDateTime": "2023-11-06T13:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-06-how-can-ai-revolutionize-vietnams-music-industry.md",
+      "title": "How Can AI Revolutionize Vietnam’s Music Industry?",
+      "excerpt": "Vietnamese artists can potentially utilize AI as a powerful tool for building and maintaining connections with their global fanbase. AI-powered chatbots and virtual assistants can serve as round-the-clock ambassadors, engaging with fans across different time zones, answering inquiries, and fostering a sense of continuous interaction.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/11/06/how-can-ai-revolutionize-vietnams-music-industry/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/11/06/how-can-ai-revolutionize-vietnams-music-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65454a5cda9f71e798164f1d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 924,
+          "height": 615,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/11/06/how-can-ai-revolutionize-vietnams-music-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/11/06/how-can-ai-revolutionize-vietnams-music-industry/amp/",
+      "publishedDateTime": "2023-11-06T11:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-06-whatsapps-ai-sticker-generator-called-out-for-racism-against-palestine-meta-responds.md",
+      "title": "WhatsApp's AI sticker generator called out for racism against Palestine, Meta responds",
+      "excerpt": "WhatsApp's newly launched AI sticker generator feature has recently been accused of generating racist and Islamophobic images related to Palestine.",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiatoday.in/technology/news/story/whatsapps-ai-sticker-generator-called-out-for-racism-against-palestine-meta-responds-2458599-2023-11-06",
+      "originalUrl": "https://www.indiatoday.in/technology/news/story/whatsapps-ai-sticker-generator-called-out-for-racism-against-palestine-meta-responds-2458599-2023-11-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202310/whatsapp-banned-over-71-lakh-accounts-in-india-031607942-16x9_0.jpg?VersionId=q0_uEJFrOkvtRkTRU3tzzfRmrUMEHvl5",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.indiatoday.in/amp/technology/news/story/whatsapps-ai-sticker-generator-called-out-for-racism-against-palestine-meta-responds-2458599-2023-11-06",
+      "cdnAmpWebUrl": "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/technology/news/story/whatsapps-ai-sticker-generator-called-out-for-racism-against-palestine-meta-responds-2458599-2023-11-06",
+      "publishedDateTime": "2023-11-06T04:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Today",
+        "domain": "indiatoday.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-romeo-miller-says-eminem-doesnt-get-the-recognition-he-deserves.md",
+      "title": "Romeo Miller Says Eminem “Doesn’t Get The Recognition He Deserves”",
+      "excerpt": "Romeo Miller recently received the Community Impact Award at the Future Stars Charity Gala, delivering a heartfelt speech connecting his success in entertainment to his success in sports. Real name Percy Miller first received a scholarship to hoop at USC,",
+      "sourceUrl": null,
+      "webUrl": "https://thesource.com/2023/10/31/romeo-miller-says-eminem-doesnt-get-the-recognition-he-deserves/",
+      "originalUrl": "https://thesource.com/2023/10/31/romeo-miller-says-eminem-doesnt-get-the-recognition-he-deserves/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T15:06:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Source Magazine",
+        "domain": "thesource.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-verses-ai-inc-verses-ai-announces-first-genius-beta-partner-nalantis-a-next-gen-language-technology-partner.md",
+      "title": "VERSES AI Inc.: VERSES AI Announces First Genius Beta Partner: NALANTIS, a Next-Gen Language Technology Partner",
+      "excerpt": "VERSES AI Inc. (NEO: VERS) (OTCQB:VRSSF) (\"VERSES' or the \"Company\"), a cognitive computing company specializing in biologically inspired",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2023-10/60518122-verses-ai-inc-verses-ai-announces-first-genius-beta-partner-nalantis-a-next-gen-language-technology-partner-399.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2023-10/60518122-verses-ai-inc-verses-ai-announces-first-genius-beta-partner-nalantis-a-next-gen-language-technology-partner-399.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T13:11:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-alibabas-cloud-unit-now-serves-80-per-cent-of-chinese-tech-companies-and-half-of-countrys-ai-language-model-firms-group-chairman-joe-tsai.md",
+      "title": "Alibaba’s cloud unit now serves 80 per cent of Chinese tech companies and half of country’s AI language model firms, group chairman Joe Tsai says",
+      "excerpt": "It features ready-to-use AI models contributed by leading AI institutions, covering areas from computer vision to natural language processing. Alibaba Cloud’s start-up catalyst programme was also launched at the conference. It offers cloud computing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3239856/alibabas-cloud-unit-now-serves-80-cent-chinese-tech-companies-and-half-countrys-ai-language-firms?ref=biztoc.com",
+      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3239856/alibabas-cloud-unit-now-serves-80-cent-chinese-tech-companies-and-half-countrys-ai-language-firms?ref=biztoc.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_scmp_120/public/d8/images/canvas/2023/10/31/c3296103-8a12-465b-9d11-d7aaf0bc5384_fbc6ebb8.jpg?itok=wdDKiw7z&v=1698754515",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T12:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-tarjama-launches-cleverso-30-the-first-tms-with-an-arabic-ui-and-powered-by-arabic-ai.md",
+      "title": "Tarjama Launches CleverSo 3.0 – The First TMS with an Arabic UI and Powered by Arabic AI",
+      "excerpt": "Tarjama unveils CleverSo 3.0, its proprietary TMS packaged with new capabilities to power translation teams for AI-enabled translations.",
+      "sourceUrl": null,
+      "webUrl": "https://slator.com/tarjama-launches-cleverso-3-first-tms-with-arabic-ui-powered-by-arabic-ai/",
+      "originalUrl": "https://slator.com/tarjama-launches-cleverso-3-first-tms-with-arabic-ui-powered-by-arabic-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T11:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Slator",
+        "domain": "slator.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-the-safety-of-openais-gpt-4-gets-lost-in-translation.md",
+      "title": "The safety of OpenAI's GPT-4 gets lost in translation",
+      "excerpt": "By translating \"unsafe\" commands first into Zulu and other under-represented languages, Brown scholars coerced GPT-4 into breaking its guardrails.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/the-safety-of-openais-gpt-4-is-lost-in-translation/",
+      "originalUrl": "https://www.zdnet.com/article/the-safety-of-openais-gpt-4-is-lost-in-translation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T09:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-voice-actors-slam-the-finals-for-using-ai-instead-of-real-people.md",
+      "title": "Voice Actors Slam 'The Finals' for Using AI Instead of Real People",
+      "excerpt": "Voice actors raise concerns over the use of AI to generate character voices in The Finals game instead of real people.",
+      "sourceUrl": null,
+      "webUrl": "https://decrypt.co/203768/ai-voices-used-in-the-finals-game-voice-actors-protest",
+      "originalUrl": "https://decrypt.co/203768/ai-voices-used-in-the-finals-game-voice-actors-protest",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-30T23:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "decrypt",
+        "domain": "decrypt.co",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-lessons-from-the-voice-time-to-reboot-journalism-with-a-conscious-empathy.md",
+      "title": "Lessons from the Voice: Time to reboot journalism with a conscious empathy",
+      "excerpt": "The now common aggressively interrupting interviewing style is a fightback against accusations of being 'too soft'.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crikey.com.au/2023/10/31/voice-lessons-reboot-journalism-conscious-empathy/",
+      "originalUrl": "https://www.crikey.com.au/2023/10/31/voice-lessons-reboot-journalism-conscious-empathy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-30T23:37:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crikey",
+        "domain": "crikey.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-31-alberta-throne-speech-focuses-on-fight-against-ottawa-new-tax-curbs-but-no-mention-of-provincial-pension-plan.md",
       "title": "Alberta throne speech focuses on fight against Ottawa, new tax curbs, but no mention of provincial pension plan",
       "excerpt": "The Alberta government will spend the coming weeks focusing on its new tax legislation as well as its fight against Ottawa’s energy policies, according to Monday’s speech from the throne, which made no mention of the government’s plans for a provincial pension plan.",
@@ -403,1044 +1302,6 @@
         "AI",
         "AI in Robotics",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-10-25-alation-launches-data-query-system-based-on-natural-language-processing.md",
-      "title": "Alation launches data query system based on natural language processing",
-      "excerpt": "Alation, launched officially this morning, is a startup with software that ties into a company’s data stores, and then gives users a natural language search interface for querying that information.",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/alation/alation-launches-data-query-system-based-on-natural-language-processing/",
-      "originalUrl": "https://sdtimes.com/alation/alation-launches-data-query-system-based-on-natural-language-processing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T10:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-24-intelligent-document-processing-with-amazon-textract-amazon-bedrock-and-langchain.md",
-      "title": "Intelligent document processing with Amazon Textract, Amazon Bedrock, and LangChain",
-      "excerpt": "In today’s information age, the vast volumes of data housed in countless documents present both a challenge and an opportunity for businesses. Traditional document processing methods often fall short in efficiency and accuracy, leaving room for innovation, cost-efficiency, and optimizations. Document",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/intelligent-document-processing-with-amazon-textract-amazon-bedrock-and-langchain/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/intelligent-document-processing-with-amazon-textract-amazon-bedrock-and-langchain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/13/map-reduce-workflow-1260x604.png",
-          "width": 1260,
-          "height": 604,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T20:52:03Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-10-25-sanctuary-ai-named-on-times-best-inventions-of-2023-list.md",
-      "title": "Sanctuary AI Named on TIME's Best Inventions of 2023 List",
-      "excerpt": "The recognition is for Phoenix™, the only humanoid general-purpose robot on the list, and comes just weeks after being recognized as a LinkedIn",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/sanctuary-ai-named-on-time-s-best-inventions-of-2023-list-1032734498",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/sanctuary-ai-named-on-time-s-best-inventions-of-2023-list-1032734498",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2256181/Sanctuary_Cognitive_Systems_Corporation_AI_Phoenix.jpg",
-          "width": 266,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T18:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-10-24-t-mobile-us-inc-uses-artificial-intelligence-through-amazon-transcribe-and-amazon-translate-to-deliver-voicemail-in-the-language-of-their-customers.md",
-      "title": "T-Mobile US, Inc. uses artificial intelligence through Amazon Transcribe and Amazon Translate to deliver voicemail in the language of their customers’ choice",
-      "excerpt": "This post is co-authored by Dhurjati Brahma, Senior Systems Architect at T-Mobile US, Inc and Jim Chao, Principal Engineer/Architect at T-Mobile US, Inc and Nicholas Zellerhoff Associate Systems Architect at T-Mobile US, Inc. T-Mobile US, Inc. provides a Voicemail to Text service to its customers, which",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/t-mobile-us-inc-uses-artificial-intelligence-through-amazon-transcribe-and-amazon-translate-to-deliver-voicemail-in-the-language-of-their-customers-choice/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/t-mobile-us-inc-uses-artificial-intelligence-through-amazon-transcribe-and-amazon-translate-to-deliver-voicemail-in-the-language-of-their-customers-choice/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/24/t-mobile-voicemail.jpg",
-          "width": 809,
-          "height": 481,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T16:23:59Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-10-24-how-new-voice-technologies-will-change-the-way-we-live-and-do-business.md",
-      "title": "How New Voice Technologies Will Change The Way We Live And Do Business",
-      "excerpt": "How will new voice technologies change the way we live and do business? Answer by Tobias Dengel, President at WillowTree, a TELUS International Company",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/quora/2023/10/24/how-new-voice-technologies-will-change-the-way-we-live-and-do-business/",
-      "originalUrl": "https://www.forbes.com/sites/quora/2023/10/24/how-new-voice-technologies-will-change-the-way-we-live-and-do-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/652f104b6183acff76d6c757/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/quora/2023/10/24/how-new-voice-technologies-will-change-the-way-we-live-and-do-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quora/2023/10/24/how-new-voice-technologies-will-change-the-way-we-live-and-do-business/amp/",
-      "publishedDateTime": "2023-10-24T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-24-edge-compute-maker-simaai-hires-former-aws-exec-as-new-cbo-read-our-exclusive-interview.md",
-      "title": "Edge compute maker SIMA.ai hires former AWS exec as new CBO. Read our exclusive interview.",
-      "excerpt": "AI Unleashed - An exclusive executive event for enterprise data leaders. Network and learn with industry peers. Learn More San Jose-based edge computing startup SiMa.ai has made waves recently with the release of Palette Edgematic,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/edge-compute-maker-sima-ai-hires-former-aws-exec-as-new-cbo-read-our-exclusive-interview/",
-      "originalUrl": "https://venturebeat.com/ai/edge-compute-maker-sima-ai-hires-former-aws-exec-as-new-cbo-read-our-exclusive-interview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/10/Untitled-design-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T13:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-10-24-brilliant-labs-raises-3m-for-generative-ai-based-ar-glasses.md",
-      "title": "Brilliant Labs raises $3M for generative AI-based AR glasses",
-      "excerpt": "Brilliant Labs said the seed round was oversubscribed with funding from Wayfarer Foundation, former Paylocity founder Steve Sorowitz and Coho VC. The device has competition from M",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/metaverse/brilliant-labs-raises-3m-for-generative-ai-based-ar-glasses/",
-      "originalUrl": "https://venturebeat.com/metaverse/brilliant-labs-raises-3m-for-generative-ai-based-ar-glasses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/10/brilliant-labs.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T12:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-10-23-from-text-to-dream-job-building-an-nlp-based-job-recommender-at-talentcom-with-amazon-sagemaker.md",
-      "title": "From text to dream job: Building an NLP-based job recommender at Talent.com with Amazon SageMaker",
-      "excerpt": "This post is co-authored by Anatoly Khomenko, Machine Learning Engineer, and Abdenour Bezzouh, Chief Technology Officer at Talent.com. Founded in 2011, Talent.com is one of the world’s largest sources of employment. The company combines paid job listings from their clients with public job listings into",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/from-text-to-dream-job-building-an-nlp-based-job-recommender-at-talent-com-with-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/from-text-to-dream-job-building-an-nlp-based-job-recommender-at-talent-com-with-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/16/ml-14927-image001-1260x422.png",
-          "width": 1260,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-23T21:33:28Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-10-22-apple-insiders-expose-iphone-16-pros-chaotic-ai-plans.md",
-      "title": "Apple Insiders Expose iPhone 16 Pro’s Chaotic AI Plans",
-      "excerpt": "The details come from noted supply chain analyst Jeff Pu, who reports that Apple is looking to build a significant number of AI servers in 2023 before scaling up to “significantly more” during 2024. These will offer two broad forms of AI support: cloud-based AI and “edge AI” which supports on-device AI data processing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ewanspence/2023/10/22/apple-iphone-16-iphone-16-pro-ios-18-chatgpt-generative-ai-llm-ai/",
-      "originalUrl": "https://www.forbes.com/sites/ewanspence/2023/10/22/apple-iphone-16-iphone-16-pro-ios-18-chatgpt-generative-ai-llm-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6533d758c1840d79ef74453f/0x0.jpg?format=jpg&crop=2147,1209,x239,y41,safe&height=900&width=1600&fit=bounds",
-          "width": 1598,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ewanspence/2023/10/22/apple-iphone-16-iphone-16-pro-ios-18-chatgpt-generative-ai-llm-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ewanspence/2023/10/22/apple-iphone-16-iphone-16-pro-ios-18-chatgpt-generative-ai-llm-ai/amp/",
-      "publishedDateTime": "2023-10-22T13:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-10-21-apple-insiders-expose-more-iphone-ai-details.md",
-      "title": "Apple Insiders Expose More iPhone AI Details",
-      "excerpt": "The details come from noted supply chain analyst Jeff Pu, who reports that Apple is looking to build a significant number of AI servers in 2023 before scaling up to “significantly more” during 2024. These will offer two broad forms of AI support: cloud-based AI and “edge AI” which supports on-device AI data processing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ewanspence/2023/10/21/apple-iphone-16-iphone-16-pro-ios-18-chatgpt-generative-ai-llm-ai/",
-      "originalUrl": "https://www.forbes.com/sites/ewanspence/2023/10/21/apple-iphone-16-iphone-16-pro-ios-18-chatgpt-generative-ai-llm-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6533d758c1840d79ef74453f/0x0.jpg?format=jpg&crop=2147,1209,x239,y41,safe&height=900&width=1600&fit=bounds",
-          "width": 1598,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ewanspence/2023/10/21/apple-iphone-16-iphone-16-pro-ios-18-chatgpt-generative-ai-llm-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ewanspence/2023/10/21/apple-iphone-16-iphone-16-pro-ios-18-chatgpt-generative-ai-llm-ai/amp/",
-      "publishedDateTime": "2023-10-21T13:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-20-googles-new-ai-powered-tool-helps-users-learn-english-right-in-search.md",
-      "title": "Google's new AI-powered tool helps users learn English right in Search",
-      "excerpt": "Google announced a new English learning tool that goes deeper than the capabilities of Google Translate. Here's how it works.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/googles-new-ai-powered-tool-helps-users-learn-english-right-in-search/",
-      "originalUrl": "https://www.zdnet.com/article/googles-new-ai-powered-tool-helps-users-learn-english-right-in-search/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/9726b7f186525b3165b5469c672e7f1008c6a3d0/2023/10/20/3ae65077-9684-4397-a382-6d831bc30e1a/glangher.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/googles-new-ai-powered-tool-helps-users-learn-english-right-in-search/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-new-ai-powered-tool-helps-users-learn-english-right-in-search/",
-      "publishedDateTime": "2023-10-20T16:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-19-responsible-ai-the-art-of-balancing-power-with-responsibility.md",
-      "title": "Responsible AI: The Art Of Balancing Power With Responsibility",
-      "excerpt": "AI’s unprecedented reach and speed have also sparked debates about potential misuse. What's the way forward?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/10/19/responsible-ai-the-art-of-balancing-power-with-responsibility/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/10/19/responsible-ai-the-art-of-balancing-power-with-responsibility/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63bc1cf8f98796ecf1f26064/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/10/19/responsible-ai-the-art-of-balancing-power-with-responsibility/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/10/19/responsible-ai-the-art-of-balancing-power-with-responsibility/amp/",
-      "publishedDateTime": "2023-10-19T11:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-19-language-weaver-scales-development-of-generative-ai-technologies.md",
-      "title": "Language Weaver scales development of generative AI technologies",
-      "excerpt": "AI-powered machine translation platform. Language Weaver is using Amazon Web Services' (AWS) machine learning and AI services, including Amazon SageMaker, to build new features and scale its Large ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2023-10/60409821-language-weaver-scales-development-of-generative-ai-technologies-004.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2023-10/60409821-language-weaver-scales-development-of-generative-ai-technologies-004.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-19T08:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-transforming-the-b2b-customer-experience-ais-role-in-streamlining-document-processing.md",
-      "title": "Transforming The B2B Customer Experience: AI's Role In Streamlining Document Processing",
-      "excerpt": "In today's data-driven world, AI-driven intelligent document processing (IDP) is improving B2B customer experiences across sectors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/18/transforming-the-b2b-customer-experience-ais-role-in-streamlining-document-processing/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/18/transforming-the-b2b-customer-experience-ais-role-in-streamlining-document-processing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6048e165345b4ab79c3f331a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1140,
-          "height": 760,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/18/transforming-the-b2b-customer-experience-ais-role-in-streamlining-document-processing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/18/transforming-the-b2b-customer-experience-ais-role-in-streamlining-document-processing/amp/",
-      "publishedDateTime": "2023-10-18T10:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-natural-language-processing-apac.md",
-      "title": "Natural Language Processing - APAC",
-      "excerpt": "The market size in the Natural Language Processing market is projected to reach 0.00 in 2023. The market size is expected to show an annual growth rate (CAGR 2023-0) of 0, resulting in a market ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/apac",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/apac",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T00:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-pytorch-executorch-extends-open-source-ai-for-new-quests-at-the-edge.md",
-      "title": "PyTorch ExecuTorch extends open source AI for new quests at the edge",
-      "excerpt": "ExecuTorch was validated and vetted by actual real-world engineering problems and Meta has already proven the technology with deployment.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/pytorch-executorch-extends-open-source-ai-for-new-quests-at-the-edge/",
-      "originalUrl": "https://venturebeat.com/ai/pytorch-executorch-extends-open-source-ai-for-new-quests-at-the-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_a_virtual_reality_headset_displaying_neon_fire_ab1a2c58-33f2-4f0d-ae81-e17de062897d.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-17T22:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-can-new-yorks-mayor-speak-mandarin-no-but-with-ai-hes-making-robocalls-in-multiple-languages.md",
-      "title": "Can New York’s mayor speak Mandarin? No, but with AI he’s making robocalls in multiple languages",
-      "excerpt": "In September, the music streaming service Spotify introduced an AI feature to translate a podcast into multiple languages in the podcaster’s voice. Just this month, the startup ElevenLabs introduced a voice translation tool that it said “can convert ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/world-nation/story/2023-10-17/can-new-yorks-mayor-speak-mandarin-no-but-with-ai-hes-making-robocalls-in-multiple-languages",
-      "originalUrl": "https://www.latimes.com/world-nation/story/2023-10-17/can-new-yorks-mayor-speak-mandarin-no-but-with-ai-hes-making-robocalls-in-multiple-languages",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/c9828e4/2147483647/strip/true/crop/3960x2079+0+281/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F41%2F87%2F89dc6d36f1d94672d76d32f33c87%2F4460e7d7393545d991b95513838fc872",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-17T21:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-can-mayor-adams-speak-mandarin-no-but-ai-can-help-him-robocall-in-different-languages.md",
-      "title": "Can Mayor Adams speak Mandarin? No, but AI can help him robocall in different languages",
-      "excerpt": "New York City Mayor Eric Adams has been using artificial intelligence to make robocalls that contort his own voice into several languages he doesn’t actually speak, posing new ethical questions about the government’s use of the rapidly evolving technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnewyork.com/news/local/can-new-yorks-mayor-speak-mandarin-no-but-with-ai-hes-making-robocalls-in-different-languages/4776682/",
-      "originalUrl": "https://www.nbcnewyork.com/news/local/can-new-yorks-mayor-speak-mandarin-no-but-with-ai-hes-making-robocalls-in-different-languages/4776682/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nbcnewyork.com/2023/10/AP23290607885508.jpg?quality=85&strip=all&resize=1200%2C675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnewyork.com/news/local/can-new-yorks-mayor-speak-mandarin-no-but-with-ai-hes-making-robocalls-in-different-languages/4776682/?amp=1",
-      "cdnAmpWebUrl": "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/local/can-new-yorks-mayor-speak-mandarin-no-but-with-ai-hes-making-robocalls-in-different-languages/4776682/?amp=1",
-      "publishedDateTime": "2023-10-17T18:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC New York",
-        "domain": "nbcnewyork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-17-new-york-city-unveiled-a-new-plan-to-use-ai-to-make-its-government-work-better.md",
-      "title": "New York City unveiled a new plan to use AI to make its government work better",
-      "excerpt": "New York City released its Artificial Intelligence Action Plan on Monday setting policies to avoid bias and improve government services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/artificial-intelligence-new-york-city-ai-plan-schools-housing-crime-2023-10",
-      "originalUrl": "https://www.businessinsider.com/artificial-intelligence-new-york-city-ai-plan-schools-housing-crime-2023-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/652d84ea6561dd877e7baace?width=1200&format=jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/artificial-intelligence-new-york-city-ai-plan-schools-housing-crime-2023-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/artificial-intelligence-new-york-city-ai-plan-schools-housing-crime-2023-10?amp",
-      "publishedDateTime": "2023-10-16T20:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-16-metas-unique-approach-to-developing-ai-puzzles-wall-street-but-techies-love-it.md",
-      "title": "Meta's unique approach to developing AI puzzles Wall Street, but techies love it",
-      "excerpt": "To help with the computationally intensive process of training gigantic AI models like Llama, Meta has been using its own Research SuperCluster supercomputer, built to incorporate a whopping 16,000 Nvidia A100 GPUs, the AI industry’s “workhorse” computer chips.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/10/16/metas-open-source-approach-to-ai-puzzles-wall-street-techies-love-it.html",
-      "originalUrl": "https://www.cnbc.com/2023/10/16/metas-open-source-approach-to-ai-puzzles-wall-street-techies-love-it.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107307714-1695846630469-gettyimages-1693640169-AFP_33WW2FR.jpeg?v=1697461201",
-          "width": 2237,
-          "height": 1376,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/10/16/metas-open-source-approach-to-ai-puzzles-wall-street-techies-love-it.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/10/16/metas-open-source-approach-to-ai-puzzles-wall-street-techies-love-it.html",
-      "publishedDateTime": "2023-10-16T15:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-10-16-streamtext-releases-update-with-enhanced-artificial-intelligence-language-translation-captions.md",
-      "title": "StreamText Releases Update With Enhanced Artificial Intelligence Language Translation Captions",
-      "excerpt": "MADISON, Wis., Oct. 16, 2023 /PRNewswire/ -- StreamText's latest Automatic Speech Recognition update includes enhanced artificial intelligence (AI) language translation. Over ten years ago ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.victoriaadvocate.com/streamtext-releases-update-with-enhanced-artificial-intelligence-language-translation-captions/article_bd093bbb-c7fe-51cd-a773-f63ddaac34b8.html",
-      "originalUrl": "https://www.victoriaadvocate.com/streamtext-releases-update-with-enhanced-artificial-intelligence-language-translation-captions/article_bd093bbb-c7fe-51cd-a773-f63ddaac34b8.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/7/2c/72cfcb11-21e6-5156-a54b-85315bdfd695/650842ec1e74e.image.jpg?crop=905%2C475%2C372%2C0&resize=905%2C475&order=crop%2Cresize",
-          "width": 905,
-          "height": 475,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-16T13:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Victoria Advocate",
-        "domain": "victoriaadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

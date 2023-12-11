@@ -2,21 +2,21 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2023-10-11-rogue-ai-will-learn-to-manipulate-people-to-stop-it-from-being-switched-off-predicts-british-godfather-of-ai.md",
-      "title": "Rogue AI will learn to ‘manipulate people’ to stop it from being switched off, predicts British ‘Godfather of AI’",
-      "excerpt": "Geoffrey Hinton, a former AI engineer at Google, told 60 Minutes he expected artificial intelligence to become self ... He also set the foundations for the growth of AI through his pioneering neural network, which helped him win a prestigious Turing ...",
+      "path": "_news/2023-10-23-how-fincover-fintech-company-is-using-ai-and-machine-learning-to-boost-financial-inclusion.md",
+      "title": "How Fincover (Fintech Company) is using AI and Machine Learning to boost financial Inclusion",
+      "excerpt": "Fincover, a fintech startup based in Chennai, has quickly emerged as one of the DSAs in the Personal Loan space with their extensive use of technologies like Artificial Intelligence (AI) and Machine Learning (ML),",
       "sourceUrl": null,
-      "webUrl": "https://fortune.com/2023/10/10/rogue-artificial-intelligence-manipulate-people-british-godfather-ai-geoffrey-hinton/",
-      "originalUrl": "https://fortune.com/2023/10/10/rogue-artificial-intelligence-manipulate-people-british-godfather-ai-geoffrey-hinton/",
+      "webUrl": "https://www.telegraphindia.com/brand-studio/how-fincover-fintech-company-is-using-ai-and-machine-learning-to-boost-financial-inclusion/cid/1975036",
+      "originalUrl": "https://www.telegraphindia.com/brand-studio/how-fincover-fintech-company-is-using-ai-and-machine-learning-to-boost-financial-inclusion/cid/1975036",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 105,
       "tags": null,
       "images": [
         {
-          "url": "https://content.fortune.com/wp-content/uploads/2023/10/GettyImages-1260013883-e1696933068802.jpg?w=840",
-          "width": 840,
-          "height": 560,
+          "url": "https://assets.telegraphindia.com/telegraph/2023/Oct/1698076869_untitled-design.jpg",
+          "width": 900,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,892 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://fortune.com/2023/10/10/rogue-artificial-intelligence-manipulate-people-british-godfather-ai-geoffrey-hinton/amp/",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/10/10/rogue-artificial-intelligence-manipulate-people-british-godfather-ai-geoffrey-hinton/amp/",
-      "publishedDateTime": "2023-10-11T03:03:00Z",
+      "ampWebUrl": "https://www.telegraphindia.com/amp/brand-studio/how-fincover-fintech-company-is-using-ai-and-machine-learning-to-boost-financial-inclusion/cid/1975036",
+      "cdnAmpWebUrl": "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/brand-studio/how-fincover-fintech-company-is-using-ai-and-machine-learning-to-boost-financial-inclusion/cid/1975036",
+      "publishedDateTime": "2023-10-23T16:02:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
+        "name": "The Telegraph",
+        "domain": "telegraphindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-10-23-rapid-finance-announces-from-money2020-usa-that-its-ai-and-ml-ready-lynx-platform-is-now-available-on-microsofts-azure-marketplace.md",
+      "title": "Rapid Finance announces from Money20/20 USA That its AI- and ML-Ready Lynx platform is now available on Microsoft’s Azure marketplace",
+      "excerpt": "Rapid Enterprise, a division of Rapid Finance, an industry leader in delivering automated and scalable Lending-as-a-Service (LaaS) solutions to support",
+      "sourceUrl": null,
+      "webUrl": "https://www.cuinsight.com/press-release/rapid-finance-announces-from-money20-20-usa-that-its-ai-and-ml-ready-lynx-platform-is-now-available-on-microsofts-azure-marketplace/",
+      "originalUrl": "https://www.cuinsight.com/press-release/rapid-finance-announces-from-money20-20-usa-that-its-ai-and-ml-ready-lynx-platform-is-now-available-on-microsofts-azure-marketplace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-23T13:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CUInsight",
+        "domain": "cuinsight.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-10-23-adaptive-optical-neural-network-connects-thousands-of-artificial-neurons.md",
+      "title": "Adaptive optical neural network connects thousands of artificial neurons",
+      "excerpt": "What is needed for a neural network in machine learning are artificial neurons which are activated by external excitatory signals, and which have connections to other neurons. The connections between these artificial neurons are called synapses – just ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nanowerk.com/nanotechnology-news2/newsid=63910.php",
+      "originalUrl": "https://www.nanowerk.com/nanotechnology-news2/newsid=63910.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nanowerk.com/nanotechnology-news2/id63910_1.jpg",
+          "width": 800,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-23T10:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nanowerk",
+        "domain": "nanowerk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-23-new-type-of-neural-network-reveals-how-language-influences-thought.md",
+      "title": "New Type of Neural Network Reveals How Language Influences Thought",
+      "excerpt": "However, classic artificial neural networks are not sufficient because the structure and function of these networks are often dissimilar to the anatomy and physiology of real brains. Therefore, Pulvermüller and his research team are developing a new type ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/tn/news/new-type-of-neural-network-reveals-how-language-influences-thought-380166",
+      "originalUrl": "https://www.technologynetworks.com/tn/news/new-type-of-neural-network-reveals-how-language-influences-thought-380166",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-23T09:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-21-gartner-it-symposiumxpo-impact-of-generative-ai-on-the-human-machine-relationship.md",
+      "title": "Gartner IT Symposium/Xpo: Impact of Generative AI on the Human-Machine Relationship",
+      "excerpt": "Gartner AI experts and Distinguished VP Analysts address the human-machine relationship and best practices for business leaders in the new AI era.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/gartner-it-symposium-generative-ai-impact/",
+      "originalUrl": "https://www.techrepublic.com/article/gartner-it-symposium-generative-ai-impact/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/08/tr8123-future-ai.jpeg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-20T17:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-20-governing-the-ml-lifecycle-at-scale-part-1-a-framework-for-architecting-ml-workloads-using-amazon-sagemaker.md",
+      "title": "Governing the ML lifecycle at scale, Part 1: A framework for architecting ML workloads using Amazon SageMaker",
+      "excerpt": "Customers of every size and industry are innovating on AWS by infusing machine learning (ML) into their products and services. Recent developments in generative AI models have further sped up the need of ML adoption across industries. However, implementing security, data privacy, and governance controls",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/governing-the-ml-lifecycle-at-scale-part-1-a-framework-for-architecting-ml-workloads-using-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/governing-the-ml-lifecycle-at-scale-part-1-a-framework-for-architecting-ml-workloads-using-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/05/image001-1146x630.png",
+          "width": 1146,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-20T17:30:59Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-10-20-exploring-the-brain-basis-of-concepts-by-using-a-new-type-of-neural-network.md",
+      "title": "Exploring the brain basis of concepts by using a new type of neural network",
+      "excerpt": "The influence of language on human thinking could be stronger than previously assumed. This is the result of a new study by Professor Friedemann Pulvermüller and his team from the Brain Language Laboratory at Freie Universität Berlin.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-10-exploring-brain-basis-concepts-neural.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-10-exploring-brain-basis-concepts-neural.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/exploring-the-brain-ba-1.jpg",
+          "width": 2880,
+          "height": 2017,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-10-exploring-brain-basis-concepts-neural.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-10-exploring-brain-basis-concepts-neural.amp",
+      "publishedDateTime": "2023-10-20T15:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-20-new-relic-named-an-apm-leader-by-gigaom.md",
+      "title": "New Relic Named an APM Leader by GigaOm",
+      "excerpt": "New Relic is closest to the center of the 2023 GigaOm Radar for APM, representing the highest overall value to customers and its leadership in innovation New Relic NEWR, the all-in-one observability platform for every engineer, announced it has been named ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/10/b35351970/new-relic-named-an-apm-leader-by-gigaom",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/10/b35351970/new-relic-named-an-apm-leader-by-gigaom",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/35351970",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35351970",
+      "publishedDateTime": "2023-10-20T15:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-20-artificial-insurance-how-machine-learning-is-transforming-underwriting.md",
+      "title": "Artificial Insurance? How Machine Learning Is Transforming Underwriting",
+      "excerpt": "“French AI startup firm Shift Technology incorporates this technology in their fraud prevention services, which have already processed over 77 million claims. The cognitive machine learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessnewsdaily.com/10203-artificial-intelligence-insurance-industry.html",
+      "originalUrl": "https://www.businessnewsdaily.com/10203-artificial-intelligence-insurance-industry.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-20T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business News Daily",
+        "domain": "businessnewsdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-10-20-machine-learning-or-automation-whats-the-difference.md",
+      "title": "Machine Learning or Automation: What’s the Difference?",
+      "excerpt": "Major players in the tech industry are pushing the boundaries of self-determining computers, especially as cutting-edge technologies like artificial intelligence (AI) and machine learning become ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessnewsdaily.com/10352-machine-learning-vs-automation.html",
+      "originalUrl": "https://www.businessnewsdaily.com/10352-machine-learning-vs-automation.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.business.com/w/700/aHR0cHM6Ly93d3cuYnVzaW5lc3NuZXdzZGFpbHkuY29tL3Jlc291cmNlcy9pbWcvZXAtYm5kLWxvZ28tMTIwLnBuZw==",
+          "width": 700,
+          "height": 297,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-20T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business News Daily",
+        "domain": "businessnewsdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-19-automatically-redact-pii-for-machine-learning-using-amazon-sagemaker-data-wrangler.md",
+      "title": "Automatically redact PII for machine learning using Amazon SageMaker Data Wrangler",
+      "excerpt": "Customers increasingly want to use deep learning approaches such as large language models (LLMs) to automate the extraction of data and insights. For many industries, data that is useful for machine learning (ML) may contain personally identifiable information (PII). To ensure customer privacy and maintain",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automatically-redact-pii-for-machine-learning-using-amazon-sagemaker-data-wrangler/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automatically-redact-pii-for-machine-learning-using-amazon-sagemaker-data-wrangler/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/11/sagemaker-pipelines.png",
+          "width": 811,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-19T16:57:49Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-10-19-deep-learning-reveals-valuable-clues-about-kidney-cancer-in-pathology-slides.md",
+      "title": "Deep Learning Reveals Valuable Clues About Kidney Cancer in Pathology Slides",
+      "excerpt": "An AI–based tool can evaluate photos of kidney tumor samples and may help predict treatment responses, report Dana-Farber researchers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cancerhealth.com/article/deep-learning-reveals-valuable-clues-kidney-cancer-pathology-slides",
+      "originalUrl": "https://www.cancerhealth.com/article/deep-learning-reveals-valuable-clues-kidney-cancer-pathology-slides",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.poz.com/141512_kidneys-is-000014271484.jpg_b02ca366-be2e-4e6f-81d8-2dd4cec6d719_x2.jpeg",
+          "width": 1416,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-19T12:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cancerhealth",
+        "domain": "cancerhealth.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-19-tackling-a-new-era-of-problems-for-ai-and-ml-models.md",
+      "title": "Tackling A New Era Of Problems For AI And ML Models",
+      "excerpt": "Technological advancements like AI have aided growth, but they’ve also given birth to a new set of security challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/19/tackling-a-new-era-of-problems-for-ai-and-ml-models/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/19/tackling-a-new-era-of-problems-for-ai-and-ml-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/624ee73bfc67b2e5f6ca5af8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/19/tackling-a-new-era-of-problems-for-ai-and-ml-models/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/19/tackling-a-new-era-of-problems-for-ai-and-ml-models/amp/",
+      "publishedDateTime": "2023-10-19T11:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-10-19-qlik-generative-ai-benchmark-report-details-how-enterprises-are-investing-in-and-deploying-technologies-to-succeed-with-generative-ai.md",
+      "title": "Qlik’ Generative AI Benchmark Report Details How Enterprises Are Investing in and Deploying Technologies to Succeed with Generative AI",
+      "excerpt": "Recent research by Qlik® shows that enterprises are planning significant investments in technologies that enhance data fabrics to enable generative AI success.",
+      "sourceUrl": null,
+      "webUrl": "https://itsecuritywire.com/news/qlik-generative-ai-benchmark-report-details-how-enterprises-are-investing-in-and-deploying-technologies-to-succeed-with-generative-ai/",
+      "originalUrl": "https://itsecuritywire.com/news/qlik-generative-ai-benchmark-report-details-how-enterprises-are-investing-in-and-deploying-technologies-to-succeed-with-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-19T10:12:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "itsecuritywire",
+        "domain": "itsecuritywire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-19-jp-morgan-pulls-plug-on-deep-learning-model-for-fx-algos.md",
+      "title": "JP Morgan pulls plug on deep learning model for FX algos",
+      "excerpt": "JP Morgan has phased out a model that leverages machine learning technology for foreign exchange algorithmic execution, citing issues with data interpretation and the complexity involved.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fx-markets.com/tech-and-data/7949034/jp-morgan-pulls-plug-on-deep-learning-model-for-fx-algos",
+      "originalUrl": "https://www.fx-markets.com/tech-and-data/7949034/jp-morgan-pulls-plug-on-deep-learning-model-for-fx-algos",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-18T17:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fx-markets",
+        "domain": "fx-markets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-18-gwangju-institute-of-science-and-technology-scientists-develop-deep-learning-based-biosensing-platform-to-count-viral-particles-better.md",
+      "title": "Gwangju Institute of Science and Technology Scientists Develop Deep Learning-Based Biosensing Platform to Count Viral Particles Better",
+      "excerpt": "The team proposed a synergistic biosensing tool called \"DeepGT,\" which can harness the advantages of GTsensing platforms and merge them with deep learning-based algorithms to accurately quantify nanoscale bioparticles, including viruses, without the need for complex sample preparation methods.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2023/10/18/9901013.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2023/10/18/9901013.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-18T14:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-18-how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion.md",
+      "title": "How lenders use AI and machine learning to boost financial inclusion",
+      "excerpt": "Two billion people around the world remain unbanked or underbanked, but a technological revolution is changing the lives of such individuals, who previously had no hope of ascending the economic ladde",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/opinion/first-person/how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion-11697610512531.html",
+      "originalUrl": "https://www.livemint.com/opinion/first-person/how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion-11697610512531.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.livemint.com/lm-img/img/2023/10/18/1600x900/repayment_1680025454634_1697610800944.jpg",
+          "width": 1598,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/opinion/first-person/how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion/amp-11697610512531.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/first-person/how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion/amp-11697610512531.html",
+      "publishedDateTime": "2023-10-18T06:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-10-18-data-sciences-student-showcases-machine-learning-to-us-legislators.md",
+      "title": "Data sciences student showcases machine learning to U.S. legislators",
+      "excerpt": "“By the end of the month, I found out I finished the race in the top 10% of people in the country.” Every month, AWS conducts a DeepRacer on different courses. Racers develop their machine learning models to finish the courses and deploy them on a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.buffalo.edu/ai-data-science/news-events/news/articles.host.html/content/shared/engineering/home/articles/news-articles/2023/data-science-student-showcases-machine-learning-to-us-legislators.detail.html?rightcol_list_copy_copy_start=32",
+      "originalUrl": "https://www.buffalo.edu/ai-data-science/news-events/news/articles.host.html/content/shared/engineering/home/articles/news-articles/2023/data-science-student-showcases-machine-learning-to-us-legislators.detail.html?rightcol_list_copy_copy_start=32",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-18T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medicine Buffalo",
+        "domain": "buffalo.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-10-17-artificial-neural-networks-market-2023-to-hit-statistical-significance-value-by-2030.md",
+      "title": "Artificial Neural Networks Market 2023 to Hit Statistical Significance Value by 2030",
+      "excerpt": "Brief Picture About Artificial Neural Networks Market: The Artificial Neural Networks market has witnessed a growth from USD million to USD million from 2017 to 2022. With a CAGR of percent ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/news/prwirecenter/artificial-neural-networks-market-2023-to-hit-statistical-significance-value-by-2030",
+      "originalUrl": "https://www.digitaljournal.com/pr/news/prwirecenter/artificial-neural-networks-market-2023-to-hit-statistical-significance-value-by-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-17T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-16-10-everyday-machine-learning-use-cases.md",
+      "title": "10 everyday machine learning use cases",
+      "excerpt": "At IBM, we are combining the power of ML and AI in IBM watsonx, our new studio for foundation models, generative AI and ML.\nThe post 10 everyday machine learning use cases appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/10-everyday-machine-learning-use-cases/",
+      "originalUrl": "https://www.ibm.com/blog/10-everyday-machine-learning-use-cases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-16T16:00:09Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-10-16-10-examples-of-machine-learning-in-the-world-today.md",
+      "title": "10 examples of Machine Learning in the world today",
+      "excerpt": "At IBM, we are combining the power of ML and AI in IBM watsonx, our new studio for foundation models, generative AI and ML.\nThe post 10 examples of Machine Learning in the world today appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/10-examples-of-machine-learning-in-the-world-today/",
+      "originalUrl": "https://www.ibm.com/blog/10-examples-of-machine-learning-in-the-world-today/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-16T16:00:09Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-10-16-leidos-reinforcement-learning-exercise-illuminates-how-ai-can-automate-military-ops.md",
+      "title": "Leidos Reinforcement Learning Exercise Illuminates How AI Can Automate Military Ops",
+      "excerpt": "The approach is called Reinforcement Learning, or RL, and the basic idea is to generate software that can enable a machine to learn from its environment through trial and error—in much the same way that young children do.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lorenthompson/2023/10/16/leidos-reinforcement-learning-exercise-illuminates-how-ai-can-automate-military-ops/",
+      "originalUrl": "https://www.forbes.com/sites/lorenthompson/2023/10/16/leidos-reinforcement-learning-exercise-illuminates-how-ai-can-automate-military-ops/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/652d4c5d91d951fc698e5171/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 640,
+          "height": 435,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lorenthompson/2023/10/16/leidos-reinforcement-learning-exercise-illuminates-how-ai-can-automate-military-ops/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lorenthompson/2023/10/16/leidos-reinforcement-learning-exercise-illuminates-how-ai-can-automate-military-ops/amp/",
+      "publishedDateTime": "2023-10-16T14:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -54,35 +930,26 @@
       ]
     },
     {
-      "path": "_news/2023-10-11-automated-chronic-pain-cohort-mined-from-twitter-using-machine-learning.md",
-      "title": "Automated chronic pain cohort mined from Twitter using machine learning",
-      "excerpt": "Social media platforms like Twitter (now X) offer valuable insights into self-reported chronic pain, according to a recent study by multiple institutions. The researchers have automated the process of establishing a chronic pain cohort,",
+      "path": "_news/2023-10-16-new-tutorial-explores-artificial-neural-networks-in-photonics.md",
+      "title": "New Tutorial Explores Artificial Neural Networks in Photonics",
+      "excerpt": "The integration of artificial neural networks (NNs) with photonics has sparked profound implications across scientific domains and industries. A new tutorial review published in the journal Advances in Optics and Photonics provides a comprehensive exploration of this convergence.",
       "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-10-automated-chronic-pain-cohort-twitter.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-10-automated-chronic-pain-cohort-twitter.html",
+      "webUrl": "https://www.azooptics.com/News.aspx?newsID=28459",
+      "originalUrl": "https://www.azooptics.com/News.aspx?newsID=28459",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/automated-chronic-pain.jpg",
-          "width": 1280,
-          "height": 521,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-10-automated-chronic-pain-cohort-twitter.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-10-automated-chronic-pain-cohort-twitter.amp",
-      "publishedDateTime": "2023-10-10T21:03:00Z",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-16T13:56:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
+        "name": "AZoOptics",
+        "domain": "azooptics.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -95,7 +962,312 @@
         "Machine Learning",
         "AI"
       ]
+    },
+    {
+      "path": "_news/2023-10-16-master-machine-learning-in-your-workplace-without-draining-your-human-batteries.md",
+      "title": "Master Machine Learning In Your Workplace (without Draining Your Human Batteries)",
+      "excerpt": "Despite the fear-driven media headlines, business leaders and workers can indeed win from a harmonious collaboration between humans and machines.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/esmtberlin/2023/10/16/master-machine-learning-in-your-workplace-without-draining-your-human-batteries/",
+      "originalUrl": "https://www.forbes.com/sites/esmtberlin/2023/10/16/master-machine-learning-in-your-workplace-without-draining-your-human-batteries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/652ce36684b2025b759668cc/0x0.jpg?format=jpg&crop=5000,2812,x0,y148,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/esmtberlin/2023/10/16/master-machine-learning-in-your-workplace-without-draining-your-human-batteries/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/esmtberlin/2023/10/16/master-machine-learning-in-your-workplace-without-draining-your-human-batteries/amp/",
+      "publishedDateTime": "2023-10-16T07:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-16-techno-plasticity-in-the-age-of-artificial-intelligence.md",
+      "title": "Techno-plasticity in the Age of Artificial Intelligence",
+      "excerpt": "But as artificial intelligence (AI ... represent a fascinating and potentially transformative step in machine learning. Unlike traditional neural networks that are trained and deployed in a relatively static state, liquid networks are designed to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/us/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence",
+      "originalUrl": "https://www.psychologytoday.com/us/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-10/matrix-2975868_1280.jpg?itok=18KUtr3C",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence?amp",
+      "publishedDateTime": "2023-10-16T06:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-10-16-want-to-know-the-ai-lingo-learn-the-basics-from-nlp-to-neural-networks.md",
+      "title": "Want to Know the AI Lingo? Learn the Basics, From NLP to Neural Networks",
+      "excerpt": "A bewildering array of new terms has accompanied the rise of artificial intelligence, a technology that aims to mimic human thinking. From generative AI to machine learning, neural nets and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/tech/ai/ai-lingo-technology-terms-definitions-69b41e31",
+      "originalUrl": "https://www.wsj.com/tech/ai/ai-lingo-technology-terms-definitions-69b41e31",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-15T20:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-10-15-want-to-know-the-ai-lingo-learn-the-basics-from-nlp-to-neural-networks.md",
+      "title": "Want to Know the AI Lingo? Learn the Basics, From NLP to Neural Networks",
+      "excerpt": "Deep Learning: a form of AI that employs neural networks and learns continuously. The “deep\" in deep learning refers to the multiple layers of artificial neurons in a network. Compared with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/ai/artificial-intelligence/want-to-know-the-ai-lingo-learn-the-basics-from-nlp-to-neural-networks-11697379445817.html",
+      "originalUrl": "https://www.livemint.com/ai/artificial-intelligence/want-to-know-the-ai-lingo-learn-the-basics-from-nlp-to-neural-networks-11697379445817.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.livemint.com/lm-img/img/2023/10/15/1600x900/im-862870_1697379450327_1697379513039.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/ai/artificial-intelligence/want-to-know-the-ai-lingo-learn-the-basics-from-nlp-to-neural-networks/amp-11697379445817.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/artificial-intelligence/want-to-know-the-ai-lingo-learn-the-basics-from-nlp-to-neural-networks/amp-11697379445817.html",
+      "publishedDateTime": "2023-10-15T14:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-10-14-weather-prediction-with-ai-deep-learning-could-be-game-changer-in-north-east.md",
+      "title": "Weather prediction with AI, deep learning could be game-changer in North East",
+      "excerpt": "Be it the flood in Assam in 2022 or the flash flood in Sikkim this year, extreme events are causing immense devastation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newindianexpress.com/xplore/2023/oct/14/weather-prediction-with-ai-deep-learning-could-be-game-changer-in-north-east-2623716.html",
+      "originalUrl": "https://www.newindianexpress.com/xplore/2023/oct/14/weather-prediction-with-ai-deep-learning-could-be-game-changer-in-north-east-2623716.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/7/24/w600X390/Climatic_Disaster_Photos_2020_AP.jpg",
+          "width": 600,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.newindianexpress.com/xplore/2023/oct/14/weather-prediction-with-ai-deep-learning-could-be-game-changer-in-north-east-2623716.amp",
+      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/xplore/2023/oct/14/weather-prediction-with-ai-deep-learning-could-be-game-changer-in-north-east-2623716.amp",
+      "publishedDateTime": "2023-10-14T04:16:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Indian Express",
+        "domain": "newindianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-13-wimi-developed-a-deep-learning-based-approach-to-personalized-video-recommendations.md",
+      "title": "WiMi Developed a Deep Learning-Based Approach to Personalized Video Recommendations",
+      "excerpt": "The underlying technical logic of WiMi's deep learning-based personalized video recommendation system mainly includes the construction of neural network models, feature representation learning, model training and optimization,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2023/10/13/9898262.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2023/10/13/9898262.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-13T12:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-13-new-ai-algorithm-promises-defense-against-cyberattacks-on-robots.md",
+      "title": "New AI algorithm promises defense against cyberattacks on robots",
+      "excerpt": "The researchers tested their algorithm on a replica of a US Army combat ground vehicle and found it was 99% effective in preventing a malicious attack.",
+      "sourceUrl": null,
+      "webUrl": "https://interestingengineering.com/innovation/new-ai-algorithm-promises-defense-against-cyberattacks-on-robots",
+      "originalUrl": "https://interestingengineering.com/innovation/new-ai-algorithm-promises-defense-against-cyberattacks-on-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dnd2oi6izkvoi.cloudfront.net/2023/10/13/image/jpeg/yslUdwFgtDUykIuSkP5rtdvzU9nhwQYLu9KYcoUc.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-13T12:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 6
 }

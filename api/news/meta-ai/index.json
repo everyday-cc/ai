@@ -2,6 +2,242 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-09-inside-openais-crisis-over-the-future-of-artificial-intelligence.md",
+      "title": "Inside OpenAI’s Crisis Over the Future of Artificial Intelligence",
+      "excerpt": "Split over the leadership of Sam Altman, board members and executives turned on one another. Their brawl exposed the cracks at the heart of the A.I. movement.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/12/09/technology/openai-altman-inside-crisis.html",
+      "originalUrl": "https://www.nytimes.com/2023/12/09/technology/openai-altman-inside-crisis.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/12/08/business/08ai-openai-02/08ai-openai-02-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-09T12:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-07-introducing-purple-llama-for-safe-and-responsible-ai-development.md",
+      "title": "Introducing Purple Llama for Safe and Responsible AI Development",
+      "excerpt": "Purple Llama will bring together tools and evaluations to help developers build responsibly with open generative AI models.",
+      "sourceUrl": null,
+      "webUrl": "https://about.fb.com/news/2023/12/purple-llama-safe-responsible-ai-development/",
+      "originalUrl": "https://about.fb.com/news/2023/12/purple-llama-safe-responsible-ai-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://about.fb.com/wp-content/uploads/2023/12/Llama-Trust-Safety_Header.jpg?w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://about.fb.com/news/2023/12/purple-llama-safe-responsible-ai-development/amp/",
+      "cdnAmpWebUrl": "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2023/12/purple-llama-safe-responsible-ai-development/amp/",
+      "publishedDateTime": "2023-12-07T14:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "about.fb",
+        "domain": "fb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-05-join-llama-legion-earths-elite-soldiers-in-training.md",
+      "title": "Join Llama legion – Earth's elite soldiers in training",
+      "excerpt": "Llama Land, a blockchain-based game on the BSC chain, offers a relaxing universe where players are rewarded for their engagement, featuring contests, summoning, trading, and llama army-building to def",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/press-releases/join-llama-legion-earths-elite-soldiers-in-training",
+      "originalUrl": "https://cointelegraph.com/press-releases/join-llama-legion-earths-elite-soldiers-in-training",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-05T10:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-02-surprise-warren-buffett-has-bet-over-176-billion-in-3-artificial-intelligence-ai-growth-stocks.md",
+      "title": "Surprise! Warren Buffett Has Bet Over $176 Billion in 3 Artificial Intelligence (AI) Growth Stocks",
+      "excerpt": "He went on to say, \"We've been doing research across a wide range of AI technologies ... director of market development and spokeswoman for Facebook and sister to Meta Platforms CEO Mark ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/12/02/surprise-warren-buffett-has-bet-over-176-billion-i/",
+      "originalUrl": "https://www.fool.com/investing/2023/12/02/surprise-warren-buffett-has-bet-over-176-billion-i/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/756245/buffett1-tmf.jpg",
+          "width": 2048,
+          "height": 1365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-02T05:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-30-keras-30-deep-learning-api-backs-tensorflow-pytorch-jax.md",
+      "title": "Keras 3.0 deep learning API backs TensorFlow, PyTorch, Jax",
+      "excerpt": "Full rewrite of the deep neural network API supports Keras workflows on top of the three leading machine learning frameworks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3711374/keras-3-0-deep-learning-api-backs-tensorflow-pytorch-jax.html",
+      "originalUrl": "https://www.infoworld.com/article/3711374/keras-3-0-deep-learning-api-backs-tensorflow-pytorch-jax.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/09/12/05/shutterstock_1178406460-100945794-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3711374/keras-3-0-deep-learning-api-backs-tensorflow-pytorch-jax.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711374/keras-3-0-deep-learning-api-backs-tensorflow-pytorch-jax.amp.html",
+      "publishedDateTime": "2023-11-29T21:37:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI",
+        "Meta AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2023-11-29-ai-model-predicts-breast-cancer-risk-without-racial-bias.md",
       "title": "AI Model Predicts Breast Cancer Risk Without Racial Bias",
       "excerpt": "The predictive rate of both DCIS and invasive cancer was 0.71 across all races. The AUC in predicting DCIS was 0.77 in non-white patients and 0.71 in white patients. The AUC in predicting invasive cancer was 0.72 in non-white patients and 0.71 in white patients.",
@@ -41,6 +277,92 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-29-facebook-researchers-test-ais-intelligence-and-find-it-is-unfortunately-quite-stupid.md",
+      "title": "Facebook Researchers Test AI's Intelligence and Find It Is Unfortunately Quite Stupid",
+      "excerpt": "A team of researchers at ... the research demonstrates that we're likely still a long way away from reaching artificial general intelligence (AGI), the state at which AI algorithms can outperform ...",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/the-byte/facebook-researchers-test-ai-intelligence-stupid",
+      "originalUrl": "https://futurism.com/the-byte/facebook-researchers-test-ai-intelligence-stupid",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2023/11/facebook-researchers-test-ai-intelligence-stupid.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-29T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-28-generative-ai-used-by-three-quarters-of-young-brits-ofcom-says.md",
+      "title": "Generative AI Used By Three-Quarters Of Young Brits, Ofcom Says",
+      "excerpt": "AI has been a major topic of discussion ... according to Ofcom’s ranking. Ofcom’s research also found that YouTube was visited more than Facebook by UK adults last year, knocking Mark ...",
+      "sourceUrl": null,
+      "webUrl": "https://deadline.com/2023/11/ofcom-generative-ai-young-brits-research-1235638092/#!",
+      "originalUrl": "https://deadline.com/2023/11/ofcom-generative-ai-young-brits-research-1235638092/#!",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://deadline.com/wp-content/uploads/2023/11/GettyImages-1794514589-e1701096953854.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://deadline.com/2023/11/ofcom-generative-ai-young-brits-research-1235638092/amp/",
+      "cdnAmpWebUrl": "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2023/11/ofcom-generative-ai-young-brits-research-1235638092/amp/",
+      "publishedDateTime": "2023-11-28T00:36:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deadline.com",
+        "domain": "deadline.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

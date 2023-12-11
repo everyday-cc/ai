@@ -2,6 +2,481 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-11-08-thai-bankers-association-assures-bank-app-security-after-facial-recognition-scam.md",
+      "title": "Thai Bankers’ Association assures bank app security after facial recognition scam",
+      "excerpt": "Fraudsters exploited loopholes in the system to facilitate transfers without the need for facial recognition for transactions over 50,000 baht",
+      "sourceUrl": null,
+      "webUrl": "https://thethaiger.com/news/national/thai-bankers-association-assures-bank-app-security-after-facial-recognition-scam",
+      "originalUrl": "https://thethaiger.com/news/national/thai-bankers-association-assures-bank-app-security-after-facial-recognition-scam",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thethaiger.com/wp-content/uploads/2023/11/banking-apps.jpg",
+          "width": 472,
+          "height": 462,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-08T07:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Thaiger",
+        "domain": "thethaiger.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Finance",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-11-07-ai-ethics-in-fintech-building-trust-in-tomorrows-financial-ecosystem.md",
+      "title": "AI Ethics In Fintech: Building Trust In Tomorrow's Financial Ecosystem",
+      "excerpt": "The nexus between AI and finance paints a horizon replete with opportunities. From crafting unparalleled user experiences to broadening financial access—the prospects are limitless. But, as we navigate this uncharted terrain, let our compass be ethics ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/07/ai-ethics-in-fintech-building-trust-in-tomorrows-financial-ecosystem/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/07/ai-ethics-in-fintech-building-trust-in-tomorrows-financial-ecosystem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 216,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/630f5e5918c93764f06047ca/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/07/ai-ethics-in-fintech-building-trust-in-tomorrows-financial-ecosystem/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/07/ai-ethics-in-fintech-building-trust-in-tomorrows-financial-ecosystem/amp/",
+      "publishedDateTime": "2023-11-07T13:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-11-07-generative-ai-to-boost-productivity-in-financial-services.md",
+      "title": "Generative AI to boost productivity in financial services",
+      "excerpt": "Hype around generative AI and machine learning is continuing to buoy economic sentiment across Europe, with fewer than two-in-five financial services CEOs now expecting a severe downturn in the comin",
+      "sourceUrl": null,
+      "webUrl": "https://www.consultancy.uk/news/35790/generative-ai-to-boost-productivity-in-financial-services",
+      "originalUrl": "https://www.consultancy.uk/news/35790/generative-ai-to-boost-productivity-in-financial-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.consultancy.uk/illustrations/news/spotlight/2023-11-06-043615285-Generative_AI.jpg",
+          "width": 546,
+          "height": 312,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.consultancy.uk/news/amp/35790/generative-ai-to-boost-productivity-in-financial-services",
+      "cdnAmpWebUrl": "https://www-consultancy-uk.cdn.ampproject.org/c/s/www.consultancy.uk/news/amp/35790/generative-ai-to-boost-productivity-in-financial-services",
+      "publishedDateTime": "2023-11-07T04:16:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Consultancy",
+        "domain": "consultancy.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-11-07-endpoint-security-getting-a-boost-from-ai-and-machine-learning.md",
+      "title": "Endpoint security getting a boost from AI and machine learning",
+      "excerpt": "Endpoints overloaded with too many agents are just as unsecure as those that don’t have any. AI and machine learning (ML) are urgently needed in endpoint protection to identify the weakest endpoints, update their patches and harden detection and response beyond what’s available today.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/endpoint-security-getting-a-boost-from-ai-and-machine-learning/",
+      "originalUrl": "https://venturebeat.com/security/endpoint-security-getting-a-boost-from-ai-and-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/04/annevb_algorithms_and_coding_solving_IT_security_problems._real_ba97e63d-f73a-4233-aa8f-87408e12299f.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-07T00:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-11-07-ant-receives-chinese-government-nod-to-roll-out-ai-services.md",
+      "title": "Ant Receives Chinese Government Nod to Roll Out AI Services",
+      "excerpt": "Ant Group received approval from the Chinese government to roll out products powered by its large language model Bailing to the public.",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6332071/ant-ai-services-bailing/",
+      "originalUrl": "https://time.com/6332071/ant-ai-services-bailing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://api.time.com/wp-content/uploads/2020/11/AP20301184742771.jpg?quality=85",
+          "width": 6000,
+          "height": 4001,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-06T20:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-02-snowflake-accelerates-how-users-build-next-generation-apps-and-machine-learning-models-in-the-data-cloud.md",
+      "title": "Snowflake Accelerates How Users Build Next Generation Apps and Machine Learning Models in the Data Cloud",
+      "excerpt": "Snowflake Notebooks unlock data exploration and machine learning development for SQL and Python users ... With Snowpark Container Services (public preview soon in select AWS regions), developers can run any component of their app — from ML training ...",
+      "sourceUrl": null,
+      "webUrl": "https://financialpost.com/pmn/business-wire-news-releases-pmn/snowflake-accelerates-how-users-build-next-generation-apps-and-machine-learning-models-in-the-data-cloud",
+      "originalUrl": "https://financialpost.com/pmn/business-wire-news-releases-pmn/snowflake-accelerates-how-users-build-next-generation-apps-and-machine-learning-models-in-the-data-cloud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2023/11/bw20231101058683_snowflake_snowday23_pr_images_notebooks.jpeg",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-01T17:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Post",
+        "domain": "financialpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-11-01-snowflake-accelerates-how-users-build-next-generation-apps-and-machine-learning-models-in-the-data-cloud.md",
+      "title": "Snowflake Accelerates How Users Build Next Generation Apps and Machine Learning Models in the Data Cloud",
+      "excerpt": "Snowflake (NYSE: SNOW), the Data Cloud company, today announced at its Snowday 2023 event new advancements that make it easier for developers to build",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20231101058683/en/Snowflake-Accelerates-How-Users-Build-Next-Generation-Apps-and-Machine-Learning-Models-in-the-Data-Cloud",
+      "originalUrl": "https://www.businesswire.com/news/home/20231101058683/en/Snowflake-Accelerates-How-Users-Build-Next-Generation-Apps-and-Machine-Learning-Models-in-the-Data-Cloud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-01T16:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-11-01-netnut-enters-the-fintech-market-with-multiple-new-customers.md",
+      "title": "NetNut Enters the Fintech Market with Multiple New Customers",
+      "excerpt": "The fintech market leveragestechnologies such as AI (artificial intelligence), RPA (robotic process automation), and big data to enhance financial services and activities TEL AVIV, Israel, Oct. 31, 2023 (GLOBE NEWSWIRE) -- Alarum Technologies Ltd. (Nasdaq ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/netnut-enters-the-fintech-market-with-multiple-new-customers-1032758906",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/netnut-enters-the-fintech-market-with-multiple-new-customers-1032758906",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-01T05:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-ai-safety-use-cases-signing-off-on-financial-services-black-box.md",
+      "title": "AI safety use cases - signing off on Financial Services’ ‘black box’",
+      "excerpt": "Yes, there are stringent regulations that the banks are worried about. So, the use cases where they've adopted AI have, until now, been in places that auditors have scored as low risk. Areas like customer service, where they've used things like text analytics and simplistic AI. But now generative AI is coming into the picture.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/ai-safety-use-cases-signing-financial-services-black-box",
+      "originalUrl": "https://diginomica.com/ai-safety-use-cases-signing-financial-services-black-box",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T15:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-8-major-ai-trends-in-the-fintech-industry-in-2023.md",
+      "title": "8 Major AI Trends In The Fintech Industry In 2023",
+      "excerpt": "Fintech is one of the most innovative industries, with new technologies and approaches being adopted much faster than anywhere else.",
+      "sourceUrl": null,
+      "webUrl": "https://bmmagazine.co.uk/business/8-major-ai-trends-in-the-fintech-industry-in-2023/",
+      "originalUrl": "https://bmmagazine.co.uk/business/8-major-ai-trends-in-the-fintech-industry-in-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T14:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Matters",
+        "domain": "bmmagazine.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-zeroone-achieves-aws-machine-learning-competency-leading-the-mena-region.md",
+      "title": "Zero&One achieves AWS machine learning competency, leading the MENA region",
+      "excerpt": "This remarkable achievement underscores Zero&One's leadership in harnessing the transformative potential of cloud technology, empowering businesses to unlock new opportunities, enhance operational efficiency,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/press-release/companies-news/zero-and-one-achieves-aws-machine-learning-competency-leading-the-mena-region-quwh74gh",
+      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/zero-and-one-achieves-aws-machine-learning-competency-leading-the-mena-region-quwh74gh",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T12:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-31-real-time-ai-is-a-game-changer-for-fintech-startups-heres-how.md",
       "title": "Real-time AI is a game changer for fintech startups: Here’s how",
       "excerpt": "The artificial intelligence (AI) sector in India has seen incredible growth over the last few years and is projected to",
@@ -777,513 +1252,6 @@
         "AI in Finance",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-ethical-framework-crucial-to-cope-with-fast-growth-of-ai-finance-minister.md",
-      "title": "Ethical framework crucial to cope with fast growth of AI: finance minister",
-      "excerpt": "An ethical framework on the use of technologies must be newly defined side by side with fast-growing artificial intelligence (AI) that is reshaping the era of digital transformation, Deputy Prime Minister and Minister of Economy and Finance Choo Kyung-ho said,",
-      "sourceUrl": null,
-      "webUrl": "https://koreatimes.co.kr/www/biz/2023/10/126_361323.html",
-      "originalUrl": "https://koreatimes.co.kr/www/biz/2023/10/126_361323.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/thumbnailV2/7185c9495cfc4f99866cde390b0aa1b5.jpg",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=361323",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=361323",
-      "publishedDateTime": "2023-10-18T07:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Times",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion.md",
-      "title": "How lenders use AI and machine learning to boost financial inclusion",
-      "excerpt": "Two billion people around the world remain unbanked or underbanked, but a technological revolution is changing the lives of such individuals, who previously had no hope of ascending the economic ladde",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/opinion/first-person/how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion-11697610512531.html",
-      "originalUrl": "https://www.livemint.com/opinion/first-person/how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion-11697610512531.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.livemint.com/lm-img/img/2023/10/18/1600x900/repayment_1680025454634_1697610800944.jpg",
-          "width": 1598,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/opinion/first-person/how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion/amp-11697610512531.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/first-person/how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion/amp-11697610512531.html",
-      "publishedDateTime": "2023-10-18T06:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-10-17-in-pm-and-sundar-pichais-chat-ai-for-good-governance-to-reach-of-gpay.md",
-      "title": "In PM And Sundar Pichai's Chat, AI For Good Governance To Reach Of GPay",
-      "excerpt": "Prime Minister Narendra Modi virtually interacted with Google CEO Sundar Pichai today. They discussed Google's plan to participate in expanding the electronics manufacturing ecosystem in India.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/india-news/in-prime-minister-narendra-modi-and-sundar-pichais-chat-ai-for-good-governance-to-reach-of-gpay-4487135",
-      "originalUrl": "https://www.ndtv.com/india-news/in-prime-minister-narendra-modi-and-sundar-pichais-chat-ai-for-good-governance-to-reach-of-gpay-4487135",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2023-10/hc79nnp8_pm-modisundar-pichai_625x300_16_October_23.jpg",
-          "width": 1200,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/india-news/in-prime-minister-narendra-modi-and-sundar-pichais-chat-ai-for-good-governance-to-reach-of-gpay-4487135/amp/1",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/in-prime-minister-narendra-modi-and-sundar-pichais-chat-ai-for-good-governance-to-reach-of-gpay-4487135/amp/1",
-      "publishedDateTime": "2023-10-16T17:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-16-generative-ai-revolutionising-banking-sector-fintech-surge-2023.md",
-      "title": "Generative AI revolutionising banking sector: Fintech Surge 2023",
-      "excerpt": "Gen AI will be a huge added value for the banking sector as it will detect many kinds of issues and improve accuracy of advanced services to the clients",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/business/fintech/generative-ai-revolutionising-banking-sector-fintech-surge-2023-tzjzkak0",
-      "originalUrl": "https://www.zawya.com/en/business/fintech/generative-ai-revolutionising-banking-sector-fintech-surge-2023-tzjzkak0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/view/acePublic/alias/contentid/NjgwY2Q3NjMtZTY2NC00/24/1463605211.jpeg?f=3%3A2",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/business/fintech/generative-ai-revolutionising-banking-sector-fintech-surge-2023-tzjzkak0?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/fintech/generative-ai-revolutionising-banking-sector-fintech-surge-2023-tzjzkak0?amp=1",
-      "publishedDateTime": "2023-10-16T02:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-15-braid-shuts-down-stash-marches-toward-an-ipo-and-what-happens-when-a-fintech-relationship-fizzles-out.md",
-      "title": "Braid shuts down, Stash marches toward an IPO and what happens when a fintech relationship fizzles out",
-      "excerpt": "As reported by Aisha Malik: Last week, Klarna introduced a suite of new features, including an AI-powered image-search tool called Shopping lens. The Swedish fintech giant is also launching shoppable videos in Europe, in-store product scanning, a new ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/10/15/braid-closes-down-stash-marches-towards-an-ipo-and-what-happens-when-a-fintech-relationship-fizzles-out/",
-      "originalUrl": "https://techcrunch.com/2023/10/15/braid-closes-down-stash-marches-towards-an-ipo-and-what-happens-when-a-fintech-relationship-fizzles-out/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-522212886.jpg?resize=1200,873",
-          "width": 1200,
-          "height": 873,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/10/15/braid-closes-down-stash-marches-towards-an-ipo-and-what-happens-when-a-fintech-relationship-fizzles-out/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/15/braid-closes-down-stash-marches-towards-an-ipo-and-what-happens-when-a-fintech-relationship-fizzles-out/amp/",
-      "publishedDateTime": "2023-10-15T14:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-13-government-to-support-development-of-ai-chips-in-ppp-model-rajeev-chandrasekhar.md",
-      "title": "Government to support development of AI chips in PPP model: Rajeev Chandrasekhar",
-      "excerpt": "A government panel has also called for using the public-private partnership model to create computing infrastructure of graphics processing units for startups and researchers",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/business/government-to-support-development-of-ai-chips-in-ppp-model-rajeev-chandrasekhar-11526051.html",
-      "originalUrl": "https://www.moneycontrol.com/news/business/government-to-support-development-of-ai-chips-in-ppp-model-rajeev-chandrasekhar-11526051.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2023/06/Rajeev-Chandrasekhar-1-770x433-1.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/business/government-to-support-development-of-ai-chips-in-ppp-model-rajeev-chandrasekhar-11526051.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/government-to-support-development-of-ai-chips-in-ppp-model-rajeev-chandrasekhar-11526051.html/amp",
-      "publishedDateTime": "2023-10-13T06:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-10-12-indian-fintech-razorpay-launches-ai-powered-solution-to-streamline-digital-payments.md",
-      "title": "Indian Fintech Razorpay Launches AI-Powered Solution to Streamline Digital Payments",
-      "excerpt": "Indian Fintech firm Razorpay introduces what it claims is India’s \"first\" AI-powered payments Infinity Router – Razorpay Optimizer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2023/10/214176-indian-fintech-razorpay-launches-ai-powered-solution-to-streamline-digital-payments/",
-      "originalUrl": "https://www.crowdfundinsider.com/2023/10/214176-indian-fintech-razorpay-launches-ai-powered-solution-to-streamline-digital-payments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/06/India-Money-Rupees-Coins-1.jpeg",
-          "width": 1600,
-          "height": 1291,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2023/10/214176-indian-fintech-razorpay-launches-ai-powered-solution-to-streamline-digital-payments/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/10/214176-indian-fintech-razorpay-launches-ai-powered-solution-to-streamline-digital-payments/amp/",
-      "publishedDateTime": "2023-10-11T22:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-12-generative-ai-is-as-transformative-as-the-telephone-bank-of-america-says-10-stock-etf-trading-ideas.md",
-      "title": "Generative AI Is As Transformative As The Telephone, Bank Of America Says: 10 Stock, ETF Trading Ideas",
-      "excerpt": "Artificial intelligence has been on the minds of companies and investors throughout 2023 as one of the top trending items. Bank of America noted the impact artificial intelligence can have on several sectors going forward and made the claim it could be highly disruptive.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/generative-ai-is-as-transformative-as-the-telephone-bank-of-america-says-10-stock-etf-trading-ideas-1032697711",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/generative-ai-is-as-transformative-as-the-telephone-bank-of-america-says-10-stock-etf-trading-ideas-1032697711",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/10/11/shutterstock_2350706053.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T17:47:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-10-12-ai-bias-poses-danger-to-the-financial-sector-bank-of-england-warns.md",
-      "title": "AI bias poses danger to the financial sector, Bank of England warns",
-      "excerpt": "A new report from a financial technology expert at the Bank of England says that inherent biases in AI systems makes it dangerous to entrust them with too much decision-making at present.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3708748/ai-bias-poses-danger-to-the-financial-sector-bank-of-england-warns.html",
-      "originalUrl": "https://www.computerworld.com/article/3708748/ai-bias-poses-danger-to-the-financial-sector-bank-of-england-warns.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/10/ai-artificial-intelligence-bank-financial-sector-100947057-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3708748/ai-bias-poses-danger-to-the-financial-sector-bank-of-england-warns.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3708748/ai-bias-poses-danger-to-the-financial-sector-bank-of-england-warns.amp.html",
-      "publishedDateTime": "2023-10-11T17:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-arangographml-simplifying-the-power-of-graph-machine-learning.md",
-      "title": "ArangoGraphML: Simplifying the Power of Graph Machine Learning",
-      "excerpt": "Next-generation graph data and analytics platform now with machine learning and data science features to accelerate innovationSAN FRANCISCO, Oct.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/arangographml-simplifying-the-power-of-graph-machine-learning-1032696541",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/arangographml-simplifying-the-power-of-graph-machine-learning-1032696541",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T13:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-bank-of-america-identifies-6-global-ai-stocks-as-hidden-gems-with-great-potential.md",
-      "title": "Bank Of America Identifies 6 Global AI Stocks As 'Hidden Gems' With Great Potential",
-      "excerpt": "Bank of America has highlighted five global stocks poised to profit as the application of artificial intelligence (AI) continues to burgeon. The bank projects significant growth potential for “end-device AI,” a deviation from the current server-based systems.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/bank-of-america-identifies-6-global-ai-stocks-as-hidden-gems-with-great-potential-1032695221",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/bank-of-america-identifies-6-global-ai-stocks-as-hidden-gems-with-great-potential-1032695221",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/ai_shutter_0.jpeg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T07:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance",
-        "AI Hardware"
       ]
     }
   ],

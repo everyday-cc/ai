@@ -2,6 +2,1201 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-11-28-amazon-braket-direct-program-to-help-reserve-quantum-computers.md",
+      "title": "Amazon Braket Direct program to help reserve quantum computers",
+      "excerpt": "The new program allows researchers to cut through waiting queues or wait times while providing the option to connect with experts to seek guidance on quantum workloads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3711364/amazon-braket-direct-program-to-help-reserve-quantum-computers.html",
+      "originalUrl": "https://www.infoworld.com/article/3711364/amazon-braket-direct-program-to-help-reserve-quantum-computers.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/07/13/10/glowing_quantum_processor_by_sakkmesterke_gettyimages-1085981928_2400x1600-100839549-large-100930115-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3711364/amazon-braket-direct-program-to-help-reserve-quantum-computers.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711364/amazon-braket-direct-program-to-help-reserve-quantum-computers.amp.html",
+      "publishedDateTime": "2023-11-28T12:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-28-ai-powered-amazon-transcribe-service-now-offers-better-accuracy-to-indian-languages.md",
+      "title": "AI-powered Amazon Transcribe service now offers better accuracy to Indian languages",
+      "excerpt": "Amazon's AI-powered Transcribe service now supports over 100 languages, including Indian languages. The service utilises a next-generation multi-billi",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/ai-powered-amazon-transcribe-service-now-offers-better-accuracy-to-indian-languages/articleshow/105565532.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/ai-powered-amazon-transcribe-service-now-offers-better-accuracy-to-indian-languages/articleshow/105565532.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-105565470,width-1280,height-720,resizemode-4/105565470.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/ai-powered-amazon-transcribe-service-now-offers-better-accuracy-to-indian-languages/amp_articleshow/105565532.cms",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/ai-powered-amazon-transcribe-service-now-offers-better-accuracy-to-indian-languages/amp_articleshow/105565532.cms",
+      "publishedDateTime": "2023-11-28T12:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-28-aws-announces-the-general-availability-of-amazon-s3-express-one-zone.md",
+      "title": "AWS Announces the General Availability of Amazon S3 Express One Zone",
+      "excerpt": "Amazon S3 Express One Zone supports Amazon S3 features, including Mountpoint for Amazon S3, Amazon S3 Server-Side Encryption, and Amazon S3 Block Public Access, as well as AWS services, such as Amazon EMR, Amazon Redshift, Amazon SageMaker, and Amazon Bedrock.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/11/b35983293/aws-announces-the-general-availability-of-amazon-s3-express-one-zone",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/11/b35983293/aws-announces-the-general-availability-of-amazon-s3-express-one-zone",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/35983293",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35983293",
+      "publishedDateTime": "2023-11-28T11:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-28-aws-unveils-new-trainium-ai-chip-and-graviton-4-extends-nvidia-partnership.md",
+      "title": "AWS unveils new Trainium AI chip and Graviton 4, extends Nvidia partnership",
+      "excerpt": "In addition to the two new chips, Amazon said it extended its strategic partnership with AI chip giant Nvidia. AWS will be the first cloud service to run the forthcoming GH200 Grace Hopper multi-chip product from Nvidia, which combines the Grace ARM-based CPU and the Hopper H100 GPU chip.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/aws-unveils-new-trainium-ai-chip-and-graviton-4-extends-nvidia-partnership/",
+      "originalUrl": "https://www.zdnet.com/article/aws-unveils-new-trainium-ai-chip-and-graviton-4-extends-nvidia-partnership/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 279,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/fly/bundles/zdnetcore/images/logos/zdnet-logo-yellow.png",
+          "width": 480,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aws-unveils-new-trainium-ai-chip-and-graviton-4-extends-nvidia-partnership/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-unveils-new-trainium-ai-chip-and-graviton-4-extends-nvidia-partnership/",
+      "publishedDateTime": "2023-11-28T10:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-28-dataiku-awarded-2023-aws-global-isv-aiml-partner-of-the-year-award.md",
+      "title": "Dataiku Awarded 2023 AWS Global ISV AI/ML Partner of the Year Award",
+      "excerpt": "Dataiku, the platform for Everyday AI, today announced that it received the 2023 AWS Global ISV AI/ML Partner of the Year Award at AWS re:Invent 2023. This recognition, alongside the 2023 AWS Geo ISV Partner of the Year Award in France,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/dataiku-awarded-2023-aws-global-isv-ai-ml-partner-of-the-year-award-1032853808",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/dataiku-awarded-2023-aws-global-isv-ai-ml-partner-of-the-year-award-1032853808",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-28T09:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-11-28-aussie-startup-leonardoai-leverages-aws-to-manage-explosive-growth.md",
+      "title": "Aussie startup Leonardo.Ai leverages AWS to manage explosive growth",
+      "excerpt": "Leonardo.Ai tapped AWS to manage a rapid influx of users on its platform, which its previous cloud provider could not accommodate. The startup migrated its workloads to AWS in less than two weeks, and the resiliency, security, and scalability of AWS's global infrastructure allowed it to efficiently manage the continuous surge in user growth.",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/technology/2726659-aussie-startup-leonardoai-leverages-aws-to-manage-explosive-growth",
+      "originalUrl": "https://www.devdiscourse.com/article/technology/2726659-aussie-startup-leonardoai-leverages-aws-to-manage-explosive-growth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/02_08_2019_17_54_20_6413942.jpg?width=1280",
+          "width": 1280,
+          "height": 854,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.devdiscourse.com/article/technology/2726659-aussie-startup-leonardoai-leverages-aws-to-manage-explosive-growth?amp",
+      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2726659-aussie-startup-leonardoai-leverages-aws-to-manage-explosive-growth?amp",
+      "publishedDateTime": "2023-11-28T04:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-28-amazon-introduces-q-an-ai-chatbot-for-companies.md",
+      "title": "Amazon Introduces Q, an A.I. Chatbot for Companies",
+      "excerpt": "Amazon has been racing to shake off the perception that it is lagging in the push to take advantage of artificial intelligence. By Karen Weise Reporting from Seattle OpenAI has ChatGPT. Google has ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/11/28/technology/amazon-ai-chatbot-q.html",
+      "originalUrl": "https://www.nytimes.com/2023/11/28/technology/amazon-ai-chatbot-q.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/11/28/business/28AMAZON-Q-VIDEOCOVER/28AMAZON-Q-VIDEOCOVER-facebookJumbo.png",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-28T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-28-tech-mahindra-and-aws-partner-to-amplify-fan-sporting-experience-globally.md",
+      "title": "Tech Mahindra and AWS Partner to Amplify Fan Sporting Experience Globally",
+      "excerpt": "The platform will also use AWS native services, AWS Elemental MediaLive, AWS Elemental MediaConvert, Amazon Kinesis Data Streams, Amazon Managed Blockchain, and Amazon SageMaker. You want to cultivate an amiable atmosphere at work with your team.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/en-in/news-and-trends/tech-mahindra-and-aws-partner-to-amplify-fan-experience/466002",
+      "originalUrl": "https://www.entrepreneur.com/en-in/news-and-trends/tech-mahindra-and-aws-partner-to-amplify-fan-experience/466002",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1701167284-Hithere1.png?format=pjeg&auto=webp",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-28T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-27-introducing-three-new-nvidia-gpu-based-amazon-ec2-instances.md",
+      "title": "Introducing three new NVIDIA GPU-based Amazon EC2 instances",
+      "excerpt": "Amazon Elastic Compute Cloud (Amazon EC2) accelerated computing portfolio offers the broadest choice of accelerators to power your artificial intelligence (AI), machine learning (ML), graphics, and high performance computing (HPC) workloads. We are excited to announce the expansion of this portfolio",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-three-new-nvidia-gpu-based-amazon-ec2-instances/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-three-new-nvidia-gpu-based-amazon-ec2-instances/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/27/introducing-three-nvidia-gpu-based-instances.jpg",
+          "width": 958,
+          "height": 476,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-27T23:14:48Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-11-28-new-amazon-lex-ai-features-aim-to-let-developers-quickly-build-enhance-bots.md",
+      "title": "New Amazon Lex AI features aim to let developers quickly build, enhance bots",
+      "excerpt": "Lex is part of Amazon’s AI strategy, including building its LLM. The model, codenamed “Olympus,” is customized to Amazon’s needs and has 2 trillion parameters, making it twice the size of OpenAI’s GPT-4, which has over 1 trillion parameters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3711441/new-amazon-lex-ai-features-aim-to-let-developers-quickly-build-enhance-bots.html",
+      "originalUrl": "https://www.infoworld.com/article/3711441/new-amazon-lex-ai-features-aim-to-let-developers-quickly-build-enhance-bots.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2021/12/it_professionals_programmers_engineers_developers_in_a_modern_workspace_by_gorodenkoff_shutterstock_1798108843_creative_digital-only_2400x1600-100913014-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3711441/new-amazon-lex-ai-features-aim-to-let-developers-quickly-build-enhance-bots.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711441/new-amazon-lex-ai-features-aim-to-let-developers-quickly-build-enhance-bots.amp.html",
+      "publishedDateTime": "2023-11-27T22:22:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-27-aws-ai-services-enhanced-with-fm-powered-capabilities.md",
+      "title": "AWS AI services enhanced with FM-powered capabilities",
+      "excerpt": "Artificial intelligence (AI) continues to transform how we do business and serve our customers. AWS offers a range of pre-trained AI services that provide ready-to-use intelligence for your applications. In this post, we explore the new AI service capabilities and how they are enhanced using foundation",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-ai-services-enhanced-with-fm-powered-capabilities/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-ai-services-enhanced-with-fm-powered-capabilities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/22/ML-15745-image003.jpg",
+          "width": 594,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-27T16:03:39Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-27-privacera-ai-governance-integrates-with-aws-on-foundational-model-security.md",
+      "title": "Privacera AI Governance Integrates with AWS on Foundational Model Security",
+      "excerpt": "Last month, Privacera announced the General Availability of Privacera AI Governance (PAIG), one of the industry's first comprehensive AI data governance solutions. Visit Privacera's website to request a demo on PAIG or to learn about generative AI Governance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-privacera-ai-governance-integrates-with-aws-foundational-model-/2023/11/27/9923370.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-privacera-ai-governance-integrates-with-aws-foundational-model-/2023/11/27/9923370.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1192069/Privacera_Logo.jpg",
+          "width": 266,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-27T15:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-11-27-qlik-expands-customers-ability-to-scale-ai-for-impact-with-aws.md",
+      "title": "Qlik Expands Customers’ Ability to Scale AI for Impact with AWS",
+      "excerpt": "LAS VEGAS, Nov. 27, 2023 (GLOBE NEWSWIRE) -- Qlik ® is helping its customers embrace and scale the power of large language models (LLMs) and generative artificial intelligence (AI) with Amazon Web Services (AWS) through new integrations and AI-powered solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/qlik-expands-customers-ability-to-scale-ai-for-impact-with-aws-1032851221",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/qlik-expands-customers-ability-to-scale-ai-for-impact-with-aws-1032851221",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-27T14:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-27-ibm-watsonx-ai-and-data-platform-security-solutions-and-consulting-services-for-generative-ai-to-be-showcased-at-aws-reinvent.md",
+      "title": "IBM watsonx AI and data platform, security solutions and consulting services for generative AI to be showcased at AWS re:Invent",
+      "excerpt": "During AWS re:Invent, IBM will be unveiling several exciting pieces of news about our fast-growing partnerships.\nThe post IBM watsonx AI and data platform, security solutions and consulting services for generative AI to be showcased at AWS re:Invent appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/security-solutions-and-consulting-services-for-generative-ai/",
+      "originalUrl": "https://www.ibm.com/blog/security-solutions-and-consulting-services-for-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 370,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-27T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Security",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-27-aws-hoppr-launch-model-to-accelerate-generative-ai-tools-in-medical-imaging.md",
+      "title": "AWS, Hoppr Launch Model to Accelerate Generative AI Tools in Medical Imaging",
+      "excerpt": "AI startup Hoppr announced that it teamed up with AWS to launch a new foundation model. The product, named Grace, is a B2B model designed to help application developers build better AI solutions for the medical imaging field — and to build them more quickly.",
+      "sourceUrl": null,
+      "webUrl": "https://medcitynews.com/2023/11/amazon-ai-technology-healthcare/",
+      "originalUrl": "https://medcitynews.com/2023/11/amazon-ai-technology-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://medcitynews.com/uploads/2021/10/GettyImages-1140691167-scaled.jpg",
+          "width": 2560,
+          "height": 1441,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-26T20:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedCity News",
+        "domain": "medcitynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-26-drive-hyper-personalized-customer-experiences-with-amazon-personalize-and-generative-ai.md",
+      "title": "Drive hyper-personalized customer experiences with Amazon Personalize and generative AI",
+      "excerpt": "Today, we are excited to announce three launches that will help you enhance personalized customer experiences using Amazon Personalize and generative AI. Whether you’re looking for a managed solution or build your own, you can use these new capabilities to power your journey. Amazon Personalize is a",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/drive-hyper-personalized-customer-experiences-with-amazon-personalize-and-generative-ai/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/drive-hyper-personalized-customer-experiences-with-amazon-personalize-and-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-26T19:41:05Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-26-aws-reinvent-preview-with-matt-wood-whos-been-at-aws-from-the-start.md",
+      "title": "AWS Reinvent Preview With Matt Wood, Who’s Been At AWS From The Start",
+      "excerpt": "Patrick Moorhead previews the annual Reinvent conference with Matt Wood, who oversees AWS products and has helped organize the conference for more than a decade.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/11/25/aws-reinvent-preview-with-matt-wood-whos-been-at-aws-from-the-start/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/11/25/aws-reinvent-preview-with-matt-wood-whos-been-at-aws-from-the-start/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6562325b4ef5e34bc98848da/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1522,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/11/25/aws-reinvent-preview-with-matt-wood-whos-been-at-aws-from-the-start/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/11/25/aws-reinvent-preview-with-matt-wood-whos-been-at-aws-from-the-start/amp/",
+      "publishedDateTime": "2023-11-25T18:11:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-24-accelerating-aiml-development-at-bmw-group-with-amazon-sagemaker-studio.md",
+      "title": "Accelerating AI/ML development at BMW Group with Amazon SageMaker Studio",
+      "excerpt": "This post is co-written with Marc Neumann, Amor Steinberg and Marinus Krommenhoek from BMW Group. The BMW Group – headquartered in Munich, Germany – is driven by 149,000 employees worldwide and manufactures in over 30 production and assembly facilities across 15 countries. Today, the BMW Group is the",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/accelerating-ai-ml-development-at-bmw-group-with-amazon-sagemaker-studio/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/accelerating-ai-ml-development-at-bmw-group-with-amazon-sagemaker-studio/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/09/blog_v1.png",
+          "width": 971,
+          "height": 492,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-24T17:49:46Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-11-24-automating-product-description-generation-with-amazon-bedrock.md",
+      "title": "Automating product description generation with Amazon Bedrock",
+      "excerpt": "In today’s ever-evolving world of ecommerce, the influence of a compelling product description cannot be overstated. It can be the decisive factor that turns a potential visitor into a paying customer or sends them clicking off to a competitor’s site. The manual creation of these descriptions across",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automating-product-description-generation-with-amazon-bedrock/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automating-product-description-generation-with-amazon-bedrock/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/24/Picture1-5-2-1101x630.jpg",
+          "width": 1101,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-24T17:36:10Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-25-amazon-has-millions-of-black-friday-deals-here-are-the-101-best.md",
+      "title": "Amazon Has Millions of Black Friday Deals — Here Are the 101 Best",
+      "excerpt": "Learn more. People / Tyler Roeland The discounts you’ve been waiting for are finally here. Amazon is celebrating Black Friday with millions of doorbuster deals, plus stackable coupons and Prime ...",
+      "sourceUrl": null,
+      "webUrl": "https://people.com/amazon-best-101-black-friday-deals-2023-8391181",
+      "originalUrl": "https://people.com/amazon-best-101-black-friday-deals-2023-8391181",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://people.com/thmb/S7_mdHiV3MtQIJCGtOoz2PZ4XUk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(2999x0:3001x2)/peo-black-friday-101-best-amazon-deals-tout-94bef79afa624b60aabf41cd20ebb14b.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-24T16:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "People",
+        "domain": "people.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-23-fluency-and-amazon-to-work-on-ai-and-machine-learning.md",
+      "title": "Fluency and Amazon to work on AI and machine learning",
+      "excerpt": "Fluency, the data and technology division of M&C Saatchi Group, has partnered with Amazon Web Services on scaling artificial intelligence, machine learning and generative AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.research-live.com/article/news/fluency-and-amazon-to-work-on-ai-and-machine-learning/id/5119763",
+      "originalUrl": "https://www.research-live.com/article/news/fluency-and-amazon-to-work-on-ai-and-machine-learning/id/5119763",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.research-live.com/img/MRS_EM_RGB.jpg",
+          "width": 1000,
+          "height": 581,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.research-live.com/amp-page.html?id=5119763&name=fluency-and-amazon-to-work-on-ai-and-machine-learning",
+      "cdnAmpWebUrl": "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5119763&name=fluency-and-amazon-to-work-on-ai-and-machine-learning",
+      "publishedDateTime": "2023-11-23T11:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "research",
+        "domain": "research-live.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-11-22-amazon-ec2-dl2q-instance-for-cost-efficient-high-performance-ai-inference-is-now-generally-available.md",
+      "title": "Amazon EC2 DL2q instance for cost-efficient, high-performance AI inference is now generally available",
+      "excerpt": "This is a guest post by A.K Roy from Qualcomm AI. Amazon Elastic Compute Cloud (Amazon EC2) DL2q instances, powered by Qualcomm AI 100 Standard accelerators, can be used to cost-efficiently deploy deep learning (DL) workloads in the cloud. They can also be used to develop and validate performance and",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-ec2-dl2q-instance-for-cost-efficient-high-performance-ai-inference-is-now-generally-available/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-ec2-dl2q-instance-for-cost-efficient-high-performance-ai-inference-is-now-generally-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/22/dl2q-instances-now-ga-1260x627.jpg",
+          "width": 1260,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-22T23:54:35Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-22-your-guide-to-generative-ai-and-ml-at-aws-reinvent-2023.md",
+      "title": "Your guide to generative AI and ML at AWS re:Invent 2023",
+      "excerpt": "Yes, the AWS re:Invent season is upon us and as always, the place to be is Las Vegas! You marked your calendars, you booked your hotel, and you even purchased the airfare. Now all you need is some guidance on generative AI and machine learning (ML) sessions to attend at this twelfth edition of re:Invent.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/your-guide-to-generative-ai-and-ml-at-aws-reinvent-2023/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/your-guide-to-generative-ai-and-ml-at-aws-reinvent-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 231,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/22/featured-images-ML-16024-1120x630.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-22T22:47:25Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-11-22-build-well-architected-idp-solutions-with-a-custom-lens-part-2-security.md",
+      "title": "Build well-architected IDP solutions with a custom lens – Part 2: Security",
+      "excerpt": "Building a production-ready solution in AWS involves a series of trade-offs between resources, time, customer expectation, and business outcome. The AWS Well-Architected Framework helps you understand the benefits and risks of decisions you make while building workloads on AWS. By using the Framework,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-well-architected-idp-solutions-with-a-custom-lens-part-2-security/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-well-architected-idp-solutions-with-a-custom-lens-part-2-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-22T14:41:07Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-11-22-how-amazon-search-m5-saved-30-for-llm-training-cost-by-using-aws-trainium.md",
+      "title": "How Amazon Search M5 saved 30% for LLM training cost by using AWS Trainium",
+      "excerpt": "For decades, Amazon has pioneered and innovated machine learning (ML), bringing delightful experiences to its customers. From the earliest days, Amazon has used ML for various use cases such as book recommendations, search, and fraud detection. Similar to the rest of the industry, the advancements of",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-amazon-search-m5-saved-30-for-llm-training-cost-by-using-aws-trainium/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-amazon-search-m5-saved-30-for-llm-training-cost-by-using-aws-trainium/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-22T14:23:46Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-22-aws-to-offer-free-ai-training-courses-to-two-million-people-by-2025.md",
       "title": "AWS to offer free AI training courses to two million people by 2025",
       "excerpt": "Amazon Web Services (AWS) has outlined its commitment to providing two million people around the world with access to free artificial intelligence (AI) skills training by 2025, as part of its ongoing work to make it easier for businesses to access the tech expertise they need.",
@@ -237,1058 +1432,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-21-aws-launches-ai-ready-initiative-to-equip-2m-people-with-ai-skills.md",
-      "title": "AWS launches AI Ready initiative to equip 2M people with AI skills",
-      "excerpt": "Amazon Web Services Inc. today debuted AI Ready, a new initiative through which it hopes to equip 2 million people with artificial intelligence skills by 2025.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/11/20/aws-launches-ai-ready-initiative-equip-2m-people-ai-skills/",
-      "originalUrl": "https://siliconangle.com/2023/11/20/aws-launches-ai-ready-initiative-equip-2m-people-ai-skills/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/amazon-3.png",
-          "width": 933,
-          "height": 519,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-20T22:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-20-aws-technology-vp-what-cloud-does-next.md",
-      "title": "AWS Technology VP: What Cloud Does Next",
-      "excerpt": "Mai-Lan Tomsen Bukovec, vice president of technology at Amazon Web Services, Inc. (AWS) explains where cloud is now... and what comes next.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/11/20/aws-technology-vp-what-cloud-does-next/",
-      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/11/20/aws-technology-vp-what-cloud-does-next/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/655abde6a11a58717db567ca/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 640,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/11/20/aws-technology-vp-what-cloud-does-next/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/11/20/aws-technology-vp-what-cloud-does-next/amp/",
-      "publishedDateTime": "2023-11-20T10:13:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-17-moderate-your-amazon-ivs-live-stream-using-amazon-rekognition.md",
-      "title": "Moderate your Amazon IVS live stream using Amazon Rekognition",
-      "excerpt": "Amazon Interactive Video Service (Amazon IVS) is a managed live streaming solution that is designed to provide a quick and straightforward setup to let you build interactive video experiences and handles interactive video content from ingestion to delivery. With the increased usage of live streaming,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/moderate-your-amazon-ivs-live-stream-using-amazon-rekognition/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/moderate-your-amazon-ivs-live-stream-using-amazon-rekognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/11/ml-15283-overall-diagram-1175x630.jpg",
-          "width": 1175,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-17T16:27:58Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-11-17-aws-augmented-artificial-intelligence-adds-human-review-to-machine-learning-predictions.md",
-      "title": "AWS Augmented Artificial Intelligence adds human review to machine learning predictions",
-      "excerpt": "Amazon’s Augmented Artificial Intelligence (A21 ... vice president of Amazon Machine Learning at AWS. Jakub Lewkowicz is a multimedia journalist who loves all things tech.",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ai/aws-augmented-artificial-intelligence-adds-human-review-to-machine-learning-predictions/",
-      "originalUrl": "https://sdtimes.com/ai/aws-augmented-artificial-intelligence-adds-human-review-to-machine-learning-predictions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2020/04/Product-Page-Diagram_A2I@2x.2fe2e8e5eed05fa5045835c3f3f04e23a9245e9c.png",
-          "width": 2208,
-          "height": 812,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-17T12:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-11-16-amazon-from-aws-to-retail-stores-and-more-the-company-that-jeff-bezos-built.md",
-      "title": "Amazon: From AWS to retail stores and more, the company that Jeff Bezos built",
-      "excerpt": "An envelope. It indicates the ability to send an email. An curved arrow pointing right. Amazon is a massive tech company that provides e-commerce, cloud, streaming, and digital advertising services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/amazon",
-      "originalUrl": "https://www.businessinsider.com/amazon",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6555d7b54ca513d8242a5c43?width=1200&format=jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/amazon?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon?amp",
-      "publishedDateTime": "2023-11-16T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-16-aws-introduces-amazon-linux-2023-runtime-for-lambda.md",
-      "title": "AWS Introduces Amazon Linux 2023 Runtime for Lambda",
-      "excerpt": "In this episode, Thomas Betts talks with Pamela Fox, a cloud advocate in Python at Microsoft. They discuss several ChatGPT sample apps that Pamela helps maintain. These include a very popular integration of ChatGPT with Azure OpenAI and Cognitive Search ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2023/11/al2023-aws-lambda-functions/",
-      "originalUrl": "https://www.infoq.com/news/2023/11/al2023-aws-lambda-functions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2023/11/al2023-aws-lambda-functions/en/headerimage/generatedHeaderImage-1699990491608.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-16T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-16-what-does-the-python-if-name-equals-main-construct-do.md",
-      "title": "What does the Python 'if name equals main' construct do?",
-      "excerpt": "Use it to evaluate features... Deploy ML on edge devices with SageMaker, IoT Greengrass Amazon SageMaker, ONNX and AWS IoT Greengrass help deploy machine learning models to edge devices. Steps include component",
-      "sourceUrl": null,
-      "webUrl": "https://www.theserverside.com/tip/What-does-the-Python-if-name-equals-main-construct-do",
-      "originalUrl": "https://www.theserverside.com/tip/What-does-the-Python-if-name-equals-main-construct-do",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ttgtmedia.com/rms/onlineimages/code_g1289411982.jpg",
-          "width": 1200,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-16T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheServerSide",
-        "domain": "theserverside.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-16-its-back-targeted-amex-card-holders-can-get-up-to-50-off-at-amazon.md",
-      "title": "It’s back: Targeted Amex card holders can get up to 50% off at Amazon",
-      "excerpt": "While that’s true, there’s another lesser-known use for them — redeeming them for purchases at Amazon. Right now, you may be eligible for an Amazon promotion where you can save big on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/cnn-underscored/deals/amazon-amex-discount-promotion",
-      "originalUrl": "https://www.cnn.com/cnn-underscored/deals/amazon-amex-discount-promotion",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/210619011335-underscored-amazon-boxes-with-prime-tape.jpg?q=x_0,y_0,h_1800,w_3198,c_fill/w_800",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/cnn-underscored/deals/amazon-amex-discount-promotion",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/cnn-underscored/deals/amazon-amex-discount-promotion",
-      "publishedDateTime": "2023-11-15T22:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-15-mufg-inks-multi-year-deal-with-aws.md",
-      "title": "MUFG inks multi-year deal with AWS",
-      "excerpt": "Amazon Web Services (AWS), an Amazon.com company (NASDAQ:AMZN), today announced that Mitsubishi UFJ Financial Group (MUFG), Japan’s largest financial services provider, is accelerating its cloud-first strategy with AWS as its preferred cloud provider.",
-      "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/pressarticle/98782/mufg-inks-multi-year-deal-with-aws",
-      "originalUrl": "https://www.finextra.com/pressarticle/98782/mufg-inks-multi-year-deal-with-aws",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T20:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-15-caton-media-xstream-successfully-completes-the-aws-foundational-technical-review-and-becomes-aws-managed-service-provider-partner.md",
-      "title": "Caton Media XStream successfully completes the AWS Foundational Technical Review and becomes AWS Managed Service Provider Partner",
-      "excerpt": "Organization offers IP transmission globally with extreme reliability over the public internet, technology transformation and an elevated user experience",
-      "sourceUrl": null,
-      "webUrl": "https://www.streamingmedia.com/PressRelease/Caton-Media-XStream-successfully-completes-the-AWS-Foundational-Technical-Review-and-becomes-AWS-Managed-Service-Provider-Partner_55132.aspx",
-      "originalUrl": "https://www.streamingmedia.com/PressRelease/Caton-Media-XStream-successfully-completes-the-AWS-Foundational-Technical-Review-and-becomes-AWS-Managed-Service-Provider-Partner_55132.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T20:22:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Streaming Media Magazine",
-        "domain": "streamingmedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-15-whylabs-announces-strategic-collaboration-agreement-with-aws-to-accelerate-responsible-generative-ai-adoption.md",
-      "title": "WhyLabs Announces Strategic Collaboration Agreement with AWS to Accelerate Responsible Generative AI Adoption",
-      "excerpt": "WhyLabs, Inc., the AI Observability company, today announced a Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS) to help enterpri",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20231114399174/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20231114399174/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T19:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-15-mufg-signs-multiyear-global-agreement-with-aws-to-accelerate-digital-transformation.md",
-      "title": "MUFG Signs Multiyear Global Agreement With AWS to Accelerate Digital Transformation",
-      "excerpt": "Amazon Web Services (AWS), an Amazon.com company (NASDAQ:AMZN), today announced that Mitsubishi UFJ Financial Group (MUFG), Japan’s largest financial",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20231114720773/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20231114720773/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T18:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-quantiphi-signs-strategic-collaboration-agreement-with-aws-to-leverage-generative-ai-capabilities.md",
-      "title": "Quantiphi Signs Strategic Collaboration Agreement With AWS to Leverage Generative AI Capabilities",
-      "excerpt": "Premier Tier Services Partner, announced today that it has signed a Strategic Collaboration Agreement (SCA) with",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/11/n35782058/quantiphi-signs-strategic-collaboration-agreement-with-aws-to-leverage-generative-ai-capabilities",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/11/n35782058/quantiphi-signs-strategic-collaboration-agreement-with-aws-to-leverage-generative-ai-capabilities",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T15:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-mufg-inks-multiyear-global-agreement-with-aws-to-accelerate-digital-transformation.md",
-      "title": "MUFG Inks Multiyear Global Agreement With AWS To Accelerate Digital Transformation",
-      "excerpt": "Amazon Web Services or AWS, an Amazon.com company (AMZN), announced Tuesday that Japanese financial services provider Mitsubishi UFJ",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/mufg-inks-multiyear-global-agreement-with-aws-to-accelerate-digital-transformation-1032818091",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/mufg-inks-multiyear-global-agreement-with-aws-to-accelerate-digital-transformation-1032818091",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T14:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-whylabs-announces-strategic-collaboration-agreement-with-aws-to-accelerate-responsible-generative-ai-adoption.md",
-      "title": "WhyLabs Announces Strategic Collaboration Agreement with AWS to Accelerate Responsible Generative AI Adoption",
-      "excerpt": "WhyLabs, Inc., the AI Observability company, today announced a Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS) to help enterprises accelerate the development of AI-powered applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/whylabs-announces-strategic-collaboration-agreement-with-aws-to-accelerate-responsible-generative-ai-adoption/article_f4bb4cb7-7ebd-5c43-b4fc-811fdaa40563.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/whylabs-announces-strategic-collaboration-agreement-with-aws-to-accelerate-responsible-generative-ai-adoption/article_f4bb4cb7-7ebd-5c43-b4fc-811fdaa40563.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T14:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-starting-holiday-shopping-early-use-amazons-buy-with-prime-to-score-benefits.md",
-      "title": "Starting holiday shopping early? Use Amazon's Buy with Prime to score benefits.",
-      "excerpt": "Amazon is extending its Prime benefits to users interested in shopping on a retailer's website but getting Prime benefits through an expanded program. Amazon’s Buy with Prime launched earlier ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/money/retail/2023/11/14/amazon-buy-with-prime-expands/71487256007/",
-      "originalUrl": "https://www.usatoday.com/story/money/retail/2023/11/14/amazon-buy-with-prime-expands/71487256007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-the-21-weirdest-most-hilarious-things-you-can-buy-on-amazon.md",
-      "title": "The 21 Weirdest, Most Hilarious Things You Can Buy on Amazon",
-      "excerpt": "Amazon is your go-to site for almost everything. Between the Amazon products you use every day and the perfect Amazon Prime gifts for everyone on your list, how could it not be? It’s smart ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.rd.com/list/strange-things-amazon/",
-      "originalUrl": "https://www.rd.com/list/strange-things-amazon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rd.com/wp-content/uploads/2021/06/The-21-Weirdest-Most-Hilarious-Things-You-Can-Buy-on-Amazon_FT_via-amazon.com_.jpg",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reader's Digest",
-        "domain": "rd.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-amazon-black-friday-2023-best-early-deals-and-upcoming-sale-dates.md",
-      "title": "Amazon Black Friday 2023: Best Early Deals and Upcoming Sale Dates",
-      "excerpt": "If you're looking to stock up on movies, you can save a heap of cash right now at Amazon. Amazon has officially announced its Black Friday sale will begin on Friday, November 17 and run through ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ign.com/articles/amazon-black-friday-2023",
-      "originalUrl": "https://www.ign.com/articles/amazon-black-friday-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T23:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IGN",
-        "domain": "ign.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-13-solarwinds-showcases-latest-observability-enhancements-at-aws-reinvent-2023.md",
-      "title": "SolarWinds Showcases Latest Observability Enhancements At AWS re:Invent 2023",
-      "excerpt": "SolarWinds Highlights How SaaS Observability Solution Helps Customers Accelerate Their Cloud Journeys SolarWinds (NYSE:SWI), a leading provider of simple, powerful, secure observability and IT management software,",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/11/b35745693/solarwinds-showcases-latest-observability-enhancements-at-aws-re-invent-2023",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/11/b35745693/solarwinds-showcases-latest-observability-enhancements-at-aws-re-invent-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/35745693",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35745693",
-      "publishedDateTime": "2023-11-13T11:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-13-generative-ai-updates-from-aws-summit-2023-nyc-about-amazon.md",
-      "title": "Generative AI updates from AWS Summit 2023 NYC – About Amazon",
-      "excerpt": "In his keynote speech, Swami Sivasubramanian, vice president of Database, Analytics, and Machine Learning at Amazon Web Services (AWS), said he expects that",
-      "sourceUrl": null,
-      "webUrl": "https://www.inferse.com/794266/generative-ai-updates-from-aws-summit-2023-nyc-about-amazon/",
-      "originalUrl": "https://www.inferse.com/794266/generative-ai-updates-from-aws-summit-2023-nyc-about-amazon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T02:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inferse",
-        "domain": "inferse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-13-buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag.md",
-      "title": "Buy Or Build An Autonomous Race Car To Take The Checkered Flag",
-      "excerpt": "For those of us whose interest and expertise lie in software, Amazon Web Services just launched AWS DeepRacer: a complete package for exploring machine learning on autonomous vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2018/11/30/buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag/",
-      "originalUrl": "https://hackaday.com/2018/11/30/buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2018/11/aws-deepracer-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-13-how-acting-small-can-deliver-big-thinking-for-service-transformation.md",
-      "title": "How acting small can deliver big thinking for service transformation",
-      "excerpt": "Today’s citizens live in a world of effortless digital experiences. They expect information to be easy to find, and for services to meet their specific needs.  And when they do need help – they want it to be available instantly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.themandarin.com.au/234513-how-acting-small-can-deliver-big-thinking-for-service-transformation/",
-      "originalUrl": "https://www.themandarin.com.au/234513-how-acting-small-can-deliver-big-thinking-for-service-transformation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.themandarin.com.au/wp-content/uploads/2023/11/AdobeStock_610243322-e1699484318752.jpeg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T21:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Mandarin",
-        "domain": "themandarin.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-11-brickner-ai-seeing-can-be-deceiving.md",
-      "title": "Brickner: AI: Seeing can be deceiving",
-      "excerpt": "In response to Biden's executive order regulating AI, Brickner writes, \"Without limits, we have a wild west landscape of cheating, discrimination, and inaccuracy endangering individuals, and institutions of education,",
-      "sourceUrl": null,
-      "webUrl": "https://www.inforum.com/opinion/columns/brickner-ai-seeing-can-be-deceiving",
-      "originalUrl": "https://www.inforum.com/opinion/columns/brickner-ai-seeing-can-be-deceiving",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-11T15:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inforum",
-        "domain": "inforum.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-11-aws-explained-what-amazon-web-services-is-for-and-where-the-cloud-computing-industry-leader-is-headed.md",
-      "title": "AWS explained: What Amazon Web Services is for and where the cloud computing industry leader is headed",
-      "excerpt": "AWS is a division of Amazon that offers a wide range of cloud computing services. Amazon Web Services' pay-as-you-go model makes it a popular choice.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/aws",
-      "originalUrl": "https://www.businessinsider.com/aws",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6543cd7f3cc84b4dfafb01a9?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/aws?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/aws?amp",
-      "publishedDateTime": "2023-11-10T21:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-10-build-trust-and-safety-for-generative-ai-applications-with-amazon-comprehend-and-langchain.md",
-      "title": "Build trust and safety for generative AI applications with Amazon Comprehend and LangChain",
-      "excerpt": "We are witnessing a rapid increase in the adoption of large language models (LLM) that power generative AI applications across industries. LLMs are capable of a variety of tasks, such as generating creative content, answering inquiries via chatbots, generating code, and more. Organizations looking to",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-trust-and-safety-for-generative-ai-applications-with-amazon-comprehend-and-langchain/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-trust-and-safety-for-generative-ai-applications-with-amazon-comprehend-and-langchain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 251,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-10T20:39:56Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

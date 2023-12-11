@@ -2,6 +2,572 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-11-08-boosting-sustainable-solutions-from-sweden.md",
+      "title": "Boosting sustainable solutions from Sweden",
+      "excerpt": "Today, we’re announcing the Swedish recipients of Google.org Impact Challenge: Tech for Social Good - receiving technical support and 3 million Euros in funding for char…",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/outreach-initiatives/sustainability/boosting-sustainable-solutions-from-sweden/",
+      "originalUrl": "https://blog.google/outreach-initiatives/sustainability/boosting-sustainable-solutions-from-sweden/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google.org_Impact_Challenge-1.width-1300.jpg",
+          "width": 1080,
+          "height": 566,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/outreach-initiatives/sustainability/boosting-sustainable-solutions-from-sweden/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/sustainability/boosting-sustainable-solutions-from-sweden/amp/",
+      "publishedDateTime": "2023-11-08T06:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-07-text-to-video-retrieval-with-s3d-mil-nce.md",
+      "title": "Text-to-Video retrieval with S3D MIL-NCE",
+      "excerpt": "This tutorial demonstrates how to use the S3D MIL-NCE model from TensorFlow Hub to do text-to-video retrieval to find the most similar videos for a given text query. The model has 2 signatures, one for generating video embeddings and one for generating ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/hub/tutorials/text_to_video_retrieval_with_s3d_milnce",
+      "originalUrl": "https://www.tensorflow.org/hub/tutorials/text_to_video_retrieval_with_s3d_milnce",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/static/site-assets/images/project-logos/tensorflow-hub-logo-social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-07T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-06-uncertainty-aware-deep-learning-with-sngp.md",
+      "title": "Uncertainty-aware Deep Learning with SNGP",
+      "excerpt": "In AI applications that are safety-critical, such as medical decision making and autonomous driving, or where the data is inherently noisy (for example, natural language understanding), it is important for a deep classifier to reliably quantify its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/tutorials/understanding/sngp",
+      "originalUrl": "https://www.tensorflow.org/tutorials/understanding/sngp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-06T15:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-11-06-pytorch-vs-tensorflow-machine-learning-frameworks-compared.md",
+      "title": "PyTorch vs TensorFlow machine learning frameworks compared",
+      "excerpt": "JAX is a newer entrant into the numerical computing space, backed by Google, and is quickly gaining traction in the deep learning community. It offers an efficient environment for numerical computations, automatic differentiation, and GPU/TPU support.",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeky-gadgets.com/pytorch-vs-tensorflow/",
+      "originalUrl": "https://www.geeky-gadgets.com/pytorch-vs-tensorflow/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2023/11/PyTorch-vs-TensorFlow.jpg",
+          "width": 1280,
+          "height": 724,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-06T08:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geeky Gadgets",
+        "domain": "geeky-gadgets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI",
+        "Facebook AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2023-11-05-google-deepminds-robotics-head-on-general-purpose-robots-generative-ai-and-office-wi-fi.md",
+      "title": "Google DeepMind’s robotics head on general-purpose robots, generative AI and office Wi-Fi",
+      "excerpt": "Subscribe here.] Earlier this month, Google’s DeepMind team debuted Open X-Embodiment, a database of robotics functionality created in collaboration with 33 research institutes. The researchers ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/11/04/google-deepminds-robotics-head-on-general-purpose-robots-generative-ai-and-office-ai/",
+      "originalUrl": "https://techcrunch.com/2023/11/04/google-deepminds-robotics-head-on-general-purpose-robots-generative-ai-and-office-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/06/deepmind-illo.jpg?resize=1200,680",
+          "width": 1200,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/11/04/google-deepminds-robotics-head-on-general-purpose-robots-generative-ai-and-office-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/04/google-deepminds-robotics-head-on-general-purpose-robots-generative-ai-and-office-ai/amp/",
+      "publishedDateTime": "2023-11-04T23:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-11-01-deepmind-claims-its-ai-predicts-proteins-with-atomic-accuracy.md",
+      "title": "DeepMind claims its AI predicts proteins with ‘atomic accuracy’",
+      "excerpt": "DeepMind claims its latest version of AlphaFold can predict various molecules with extreme accuracy, which could advance drug discoveries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.siliconrepublic.com/machines/deepmind-alphafold-ai-protein-prediction-drug-discovery",
+      "originalUrl": "https://www.siliconrepublic.com/machines/deepmind-alphafold-ai-protein-prediction-drug-discovery",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-01T10:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconRepublic",
+        "domain": "siliconrepublic.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-01-deepmind-touts-alphafolds-new-skills-as-protein-folding-ai-models-face-off.md",
+      "title": "DeepMind touts AlphaFold’s new skills as protein-folding AI models face off",
+      "excerpt": "AlphaFold can now predict what proteins look like in combination with several classes of molecules — capabilities that are key for drug development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.statnews.com/2023/10/31/protein-folding-structure-ai-deepmind-alphafold-rosettafold/",
+      "originalUrl": "https://www.statnews.com/2023/10/31/protein-folding-structure-ai-deepmind-alphafold-rosettafold/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T21:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "STAT",
+        "domain": "statnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-01-google-deepmind-debuts-new-version-of-its-alphafold-model-for-researchers.md",
+      "title": "Google DeepMind debuts new version of its AlphaFold model for researchers",
+      "excerpt": "Google DeepMind today detailed a new version of AlphaFold, an artificial intelligence model it has built to help researchers study biological molecules such as proteins.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/10/31/google-deepmind-debuts-new-version-alphafold-model-researchers/",
+      "originalUrl": "https://siliconangle.com/2023/10/31/google-deepmind-debuts-new-version-alphafold-model-researchers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T20:26:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-google-deepmind-isomorphic-labs-unveil-next-generation-of-alphafold.md",
+      "title": "Google DeepMind, Isomorphic Labs Unveil Next Generation of AlphaFold",
+      "excerpt": "AlphaFold model shows significantly improved accuracy and expands coverage beyond proteins to other biological molecules, including ligands‍",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/google-deepmind-isomorphic-labs-unveil-next-generation-of-alphafold/",
+      "originalUrl": "https://analyticsindiamag.com/google-deepmind-isomorphic-labs-unveil-next-generation-of-alphafold/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T16:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-a-blueprint-for-unbiased-ai-that-benefits-all-leadership-tips-from-google-deepminds-obum-ekeke.md",
+      "title": "A blueprint for unbiased AI that benefits all - leadership tips from Google DeepMind's Obum Ekeke",
+      "excerpt": "The aim of Google’s DeepMind unit is to ensure that AI is built responsibly, and delivers scientific breakthroughs and products that improve lives across the world. This means developing AI systems that benefit society without reinforcing bias and unfairness, and can invent new ideas but also reliably behave in expected ways.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/blueprint-unbiased-ai-benefits-all-leadership-tips-google-deepminds-obum-ekeke",
+      "originalUrl": "https://diginomica.com/blueprint-unbiased-ai-benefits-all-leadership-tips-google-deepminds-obum-ekeke",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T10:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-deepminds-latest-alphafold-model-is-more-useful-for-drug-discovery.md",
+      "title": "DeepMind’s latest AlphaFold model is more useful for drug discovery",
+      "excerpt": "Nearly five years ago, DeepMind, one of Google’s more prolific AI-centered research labs, debuted AlphaFold, an AI system that can accurately predict the structures of many proteins inside the ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/10/31/deepminds-latest-alphafold-model-is-more-useful-for-drug-discovery/",
+      "originalUrl": "https://techcrunch.com/2023/10/31/deepminds-latest-alphafold-model-is-more-useful-for-drug-discovery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/10/deepmind.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/10/31/deepminds-latest-alphafold-model-is-more-useful-for-drug-discovery/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/31/deepminds-latest-alphafold-model-is-more-useful-for-drug-discovery/amp/",
+      "publishedDateTime": "2023-10-31T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-30-uk-ai-safety-summit-the-diginomica-preview.md",
+      "title": "UK AI Safety Summit – the diginomica preview",
+      "excerpt": "The UK’s AI Safety Summit takes place on November 1-2 at historic home of trusted computation, Bletchley Park. There, Alan Turing’s Bombe machine once helped codebreakers uncover Germany’s secret communications, nudging the Allies towards victory in the Second World War.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/uk-ai-safety-summit-diginomica-preview",
+      "originalUrl": "https://diginomica.com/uk-ai-safety-summit-diginomica-preview",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2023-09/Screenshot%202023-09-21%20at%2011.05.09.png",
+          "width": 1816,
+          "height": 1298,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/uk-ai-safety-summit-diginomica-preview?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/uk-ai-safety-summit-diginomica-preview?amp",
+      "publishedDateTime": "2023-10-30T10:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-28-tensorflow-newsletter-september-2023.md",
+      "title": "TensorFlow Newsletter September 2023",
+      "excerpt": "Check out examples from the community, explore the TF 2.14 release, and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/subscribe/2023/09",
+      "originalUrl": "https://www.tensorflow.org/subscribe/2023/09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://services.google.com/fh/files/emails/tfhub-film-example.jpeg",
+          "width": 693,
+          "height": 231,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-27T18:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-27-deepmind-verifies-convnets-can-match-vision-transformers-at-scale.md",
       "title": "DeepMind Verifies ConvNets Can Match Vision Transformers at Scale",
       "excerpt": "In the realm of computer vision, Convolutional Neural Networks (ConvNets) have long been the standard for achieving top-notch performance in various benchmarks. However, recent years have witnessed the emergence of Vision Transformers (ViTs) as a formidable contender,",
@@ -818,154 +1384,7 @@
         "Google AI",
         "AI"
       ]
-    },
-    {
-      "path": "_news/2023-10-12-new-ways-to-get-inspired-with-generative-ai-in-search.md",
-      "title": "New ways to get inspired with generative AI in Search",
-      "excerpt": "We’re testing new ways to get started on something you need to do — like creating an image that can bring an idea to life, or a written draft when you need a starting po…",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/search/google-search-generative-ai-october-update/",
-      "originalUrl": "https://blog.google/products/search/google-search-generative-ai-october-update/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 289,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Keyword_Hero_Image_Nb4hNLE.width-1300.jpg",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/search/google-search-generative-ai-october-update/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/google-search-generative-ai-october-update/amp/",
-      "publishedDateTime": "2023-10-12T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-12-alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit.md",
-      "title": "Alphabet's AI lab, DeepMind, cut employee costs by nearly 40% in 2022, alongside a drop in profit",
-      "excerpt": "Alphabet's AI lab, DeepMind, cut employee costs by 39% last year, alongside a drop in profit of more than 40% for the same period, according to a recent filing with a U.K. government agency.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/10/11/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40percent-in-2022.html",
-      "originalUrl": "https://www.cnbc.com/2023/10/11/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40percent-in-2022.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105099255-DeepMind_Hassabis_WechatIMG253.jpg?v=1697043587",
-          "width": 4189,
-          "height": 2792,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/10/11/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40percent-in-2022.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/10/11/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40percent-in-2022.html",
-      "publishedDateTime": "2023-10-11T22:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit.md",
-      "title": "Alphabet's AI lab, DeepMind, cut employee costs by nearly 40% in 2022, alongside a drop in profit",
-      "excerpt": "Alphabet's AI lab, DeepMind, cut employee costs by 39% last year, alongside a drop in profit of more than 40% for the same period, according to a recent filing with a UK government agency.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcmiami.com/news/national-international/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3130673/",
-      "originalUrl": "https://www.nbcmiami.com/news/national-international/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3130673/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nbcmiami.com/2023/10/105099255-DeepMind_Hassabis_WechatIMG253.jpg?quality=85&strip=all&resize=1200%2C675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcmiami.com/news/business/money-report/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3130673/?amp=1",
-      "cdnAmpWebUrl": "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/news/business/money-report/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3130673/?amp=1",
-      "publishedDateTime": "2023-10-11T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC 6 South Florida",
-        "domain": "nbcmiami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 3
 }

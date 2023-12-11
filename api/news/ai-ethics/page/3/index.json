@@ -2,6 +2,302 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-10-23-ensuring-fairness-of-ai-in-healthcare-requires-cross-disciplinary-collaboration.md",
+      "title": "Ensuring fairness of AI in healthcare requires cross-disciplinary collaboration",
+      "excerpt": "New perspective argues pursuing fair AI for healthcare requires cross-disciplinary collaboration to translate methods into real-world benefits.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/10/231020105613.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/10/231020105613.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-22T21:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-10-22-ai-needs-a-strong-code-of-ethics-to-keep-its-dark-side-from-overtaking-us.md",
+      "title": "AI needs a strong code of ethics to keep its dark side from overtaking us",
+      "excerpt": "Some AI creators, having launched their new AI-powered products, are calling for regulation and legislation to curb its use. Suggestions include a six-month moratorium on the training of AI systems more powerful than OpenAI’s GPT-4, a call that includes several alarming questions:",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/WP-MKTW-0002580128?mod=article_recs_pos1_sb_hp&next_redirect=true",
+      "originalUrl": "https://www.wsj.com/articles/WP-MKTW-0002580128?mod=article_recs_pos1_sb_hp&next_redirect=true",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-843717/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-21T18:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-21-this-week-in-ai-can-we-trust-deepmind-to-be-ethical.md",
+      "title": "This week in AI: Can we trust DeepMind to be ethical?",
+      "excerpt": "This week in AI, DeepMind, the Google-owned AI R&D lab, released a paper proposing a framework for evaluating the societal and ethical risks of AI systems. The timing of the paper — which calls for varying levels of involvement from AI developers ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/10/21/this-week-in-ai-can-we-trust-deepmind-to-be-ethical/",
+      "originalUrl": "https://techcrunch.com/2023/10/21/this-week-in-ai-can-we-trust-deepmind-to-be-ethical/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/10/deepmind.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/10/21/this-week-in-ai-can-we-trust-deepmind-to-be-ethical/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/21/this-week-in-ai-can-we-trust-deepmind-to-be-ethical/amp/",
+      "publishedDateTime": "2023-10-21T15:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-10-20-keeping-a-human-in-the-loop-managing-the-ethics-of-ai-in-medicine.md",
+      "title": "Keeping a human in the loop: Managing the ethics of AI in medicine",
+      "excerpt": "Artificial intelligence (AI)—of ChatGPT fame—is increasingly used in medicine to improve diagnosis and treatment of diseases, and to avoid unnecessary screening for patients. But AI medical devices could also harm patients and worsen health inequities if they are not designed,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-10-human-loop-ethics-ai-medicine.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-10-human-loop-ethics-ai-medicine.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/chatgpt-5.jpg",
+          "width": 1920,
+          "height": 1358,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-10-human-loop-ethics-ai-medicine.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-10-human-loop-ethics-ai-medicine.amp",
+      "publishedDateTime": "2023-10-20T16:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-20-here-come-the-custobots-ai-pervades-gartners-top-10-strategic-technology-trends.md",
+      "title": "Here come the 'custobots': AI pervades Gartner's top 10 strategic technology trends",
+      "excerpt": "Gartner delivers its top IT predictions for the next decade, while exploring how generative AI has changed executive leaders' way of thinking on every subject.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-dominates-gartners-top-10-strategic-technology-trends/",
+      "originalUrl": "https://www.zdnet.com/article/ai-dominates-gartners-top-10-strategic-technology-trends/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/7914167cdad6ee607ca901e68fd8d97bcf912efa/2023/10/19/e2211636-9fcc-43d6-9fac-8fb086f179ab/colorlight-gettyimages-1020063054.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-dominates-gartners-top-10-strategic-technology-trends/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-dominates-gartners-top-10-strategic-technology-trends/",
+      "publishedDateTime": "2023-10-19T17:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-10-19-why-your-strategy-for-ai-might-be-to-not-do-ai.md",
+      "title": "Why Your Strategy For AI Might Be To Not Do AI",
+      "excerpt": "Choose a problem that actually needs AI. Avoid having a solution (AI) and trying to find a problem to solve. Identify problems or opportunities that your organization has and assess whether AI is the right tool for the job. This way you focus investment and prevent over-engineering costly solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/19/why-your-strategy-for-ai-might-be-to-not-do-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/19/why-your-strategy-for-ai-might-be-to-not-do-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64f8a268fc523a513586eae0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1201,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/19/why-your-strategy-for-ai-might-be-to-not-do-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/19/why-your-strategy-for-ai-might-be-to-not-do-ai/amp/",
+      "publishedDateTime": "2023-10-19T14:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-10-19-harnessing-ai-to-take-competitor-analysis-to-the-next-level.md",
       "title": "Harnessing AI To Take Competitor Analysis To The Next Level",
       "excerpt": "Recent advances in AI present transformative new capabilities for streamlining and enhancing competitor analysis.",

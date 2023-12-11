@@ -2,6 +2,579 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-11-09-india-japan-can-team-up-in-chips-rare-earth-ai-says-rbi-chief.md",
+      "title": "India, Japan can team up in chips, rare-earth & AI, says RBI chief",
+      "excerpt": "There are many collaboration opportunities between India and Japan in semiconductors and resilient supply chains, rare-earths extraction, space technology, artificial intelligence, quantum computing,",
+      "sourceUrl": null,
+      "webUrl": "https://www.orissapost.com/india-japan-can-team-up-in-chips-rare-earth-ai-says-rbi-chief/",
+      "originalUrl": "https://www.orissapost.com/india-japan-can-team-up-in-chips-rare-earth-ai-says-rbi-chief/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.orissapost.com/wp-content/uploads/2022/06/Shaktikanta-Das-scaled.jpg",
+          "width": 2560,
+          "height": 1523,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.orissapost.com/india-japan-can-team-up-in-chips-rare-earth-ai-says-rbi-chief/",
+      "cdnAmpWebUrl": "https://www-orissapost-com.cdn.ampproject.org/c/s/www.orissapost.com/india-japan-can-team-up-in-chips-rare-earth-ai-says-rbi-chief/",
+      "publishedDateTime": "2023-11-09T07:48:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "orissapost",
+        "domain": "orissapost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-09-nvidia-flexes-h100-ai-gpu-muscle-setting-new-records-in-ai-benchmarks.md",
+      "title": "NVIDIA flexes H100 AI GPU muscle, setting new records in AI benchmarks",
+      "excerpt": "NVIDIA shows off new records and milestones with its H100 Tensor Core GPUs and various AI benchmarks, including MLPerf benchmarks that NVIDIA dominates in.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/94274/nvidia-flexes-h100-ai-gpu-muscle-setting-new-records-in-benchmarks/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/94274/nvidia-flexes-h100-ai-gpu-muscle-setting-new-records-in-benchmarks/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tweaktown.com/news/9/4/94274_710_nvidia-flexes-h100-ai-gpu-muscle-setting-new-records-in-benchmarks_full.png",
+          "width": 1500,
+          "height": 844,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-09T04:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-08-in-2024-ai-will-boost-big-cloud-players-but-threaten-them-too.md",
+      "title": "In 2024, AI Will Boost Big Cloud Players — But Threaten Them, Too",
+      "excerpt": "The impact of AI on the cloud market is obvious enough: The hyperscalers have the scope to host GPUs that otherwise strain data center capacity and pocketbooks. Customers want the GPU processors that are critical to AI, and the three biggest cloud ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forrester/2023/11/08/in-2024-ai-will-boost-big-cloud-players---but-threaten-them-too/",
+      "originalUrl": "https://www.forbes.com/sites/forrester/2023/11/08/in-2024-ai-will-boost-big-cloud-players---but-threaten-them-too/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/654ba354f21f417307edb692/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1050,
+          "height": 788,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forrester/2023/11/08/in-2024-ai-will-boost-big-cloud-players---but-threaten-them-too/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/11/08/in-2024-ai-will-boost-big-cloud-players---but-threaten-them-too/amp/",
+      "publishedDateTime": "2023-11-08T15:06:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-08-im-anxious-and-excited-about-this-bonkers-industry-changing-phone-chip.md",
+      "title": "I’m anxious and excited about this bonkers, industry changing phone chip",
+      "excerpt": "from everyday speed to games and the latest AI features. The thing is, it’s all rather untested out in the wild, and it could go either way. The Dimensity 9300 could be the first of a new generation of chips that transform mobile devices and a design ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/mobile/im-anxious-and-excited-about-mediatek-dimensity-9300-processor/",
+      "originalUrl": "https://www.digitaltrends.com/mobile/im-anxious-and-excited-about-mediatek-dimensity-9300-processor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/11/dimensity-9300-in-hand.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/mobile/im-anxious-and-excited-about-mediatek-dimensity-9300-processor/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/im-anxious-and-excited-about-mediatek-dimensity-9300-processor/?amp",
+      "publishedDateTime": "2023-11-07T16:24:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-08-microsoft-partners-with-vcs-to-give-startups-free-ai-chip-access.md",
+      "title": "Microsoft partners with VCs to give startups free AI chip access",
+      "excerpt": "Microsoft is launching a program that'll allow startups at partnered VCs, including Y Combinator and M12, to use Azure infrastructure to train AI.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/11/07/microsoft-partners-with-vcs-to-give-startups-free-ai-chip-access/",
+      "originalUrl": "https://techcrunch.com/2023/11/07/microsoft-partners-with-vcs-to-give-startups-free-ai-chip-access/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 291,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-472556610.jpg?resize=1200,797",
+          "width": 1200,
+          "height": 797,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/11/07/microsoft-partners-with-vcs-to-give-startups-free-ai-chip-access/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/07/microsoft-partners-with-vcs-to-give-startups-free-ai-chip-access/amp/",
+      "publishedDateTime": "2023-11-07T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-11-07-risc-v-gains-momentum-as-eda-ai-chip-design-leader-announces-new-ip.md",
+      "title": "RISC-V Gains Momentum As EDA & AI Chip Design Leader Announces New IP",
+      "excerpt": "Another key value add for the ARC-V Processor IP is that the company’s Synopsys.ai full-stack AI-driven EDA software and ... time to market and ultimately fully optimized ARC-V-based chips and SoCs. In addition, the Synopsys MetaWare software development ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/marcochiappetta/2023/11/07/risc-v-gains-momentum-as-eda--ai-chip-design-leader-announces-new-ip/",
+      "originalUrl": "https://www.forbes.com/sites/marcochiappetta/2023/11/07/risc-v-gains-momentum-as-eda--ai-chip-design-leader-announces-new-ip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/654a496df2c4e40a9aa31575/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 960,
+          "height": 502,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/marcochiappetta/2023/11/07/risc-v-gains-momentum-as-eda--ai-chip-design-leader-announces-new-ip/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcochiappetta/2023/11/07/risc-v-gains-momentum-as-eda--ai-chip-design-leader-announces-new-ip/amp/",
+      "publishedDateTime": "2023-11-07T14:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-07-chinas-baidu-strikes-a-deal-with-huawei-to-buy-ai-chips.md",
+      "title": "China’s Baidu Strikes a Deal with Huawei to Buy AI Chips",
+      "excerpt": "Although Huawei's chips aren't yet on par with Nvidia's in performance, they represent the most advanced AI chips China has to offer",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2023/11/07/china-baidu-huawei-ai-chips/",
+      "originalUrl": "https://www.gizmochina.com/2023/11/07/china-baidu-huawei-ai-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 234,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/09/baidu.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-07T13:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-07-korea-showcases-ai-chips-6g-tech-to-maintain-competitiveness.md",
+      "title": "Korea showcases AI chips, 6G tech to maintain competitiveness",
+      "excerpt": "Korea unveiled the latest information and communications technologies, including AI semiconductors, quantum computing and the 6G network, being worked on by domestic researchers, according to the Electronics and Telecommunications Research Institute (ETRI),",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreatimes.co.kr/www/tech/2023/11/133_362725.html",
+      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2023/11/133_362725.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.koreatimes.co.kr/upload/thumbnailV2/1ba56ba328df4a76a03a737e1fa3dbbe.jpg",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=362725",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=362725",
+      "publishedDateTime": "2023-11-07T07:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Korea Times",
+        "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-07-intel-races-to-catch-rivals-as-ai-boom-supercharges-chip-competition.md",
+      "title": "Intel races to catch rivals as AI boom supercharges chip competition",
+      "excerpt": "TAIPEI -- U.S. chip giant Intel is on track to deliver five upgrades to its advanced manufacturing process in four years, CEO Pat Gelsinger said on Tuesday as the company faces pressure to reassure PC and server-making clients that its technology will remain competitive.",
+      "sourceUrl": null,
+      "webUrl": "https://asia.nikkei.com/Business/Tech/Semiconductors/Intel-races-to-catch-rivals-as-AI-boom-supercharges-chip-competition",
+      "originalUrl": "https://asia.nikkei.com/Business/Tech/Semiconductors/Intel-races-to-catch-rivals-as-AI-boom-supercharges-chip-competition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%252Fimages%252F2%252F7%252F3%252F0%252F46800372-1-eng-GB%252FIMG_9316%2520%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%2594%25E3%2583%25BC.jpg?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-07T06:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nikkei Asia",
+        "domain": "nikkei.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-07-mediatek-dimensity-9300-flagship-mobile-chipset-debuts-with-four-cortex-x4-cpus-boosted-gpu-more.md",
+      "title": "MediaTek Dimensity 9300 Flagship Mobile Chipset Debuts With Four Cortex-X4 CPUs, Boosted GPU, More",
+      "excerpt": "Just weeks after Qualcomm launched the Snapdragon 8 Gen 3, MediaTek has announced Dimensity 9300 with some significant improvements over last year's Dimensity 9200. The new mobile platform packs a prime CPU core Cortex-X4 with a clock speed of 3.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gadgets360.com/mobiles/news/mediatek-dimensity-9300-soc-unveiled-cortex-x4-cpu-apu-790-ai-specifications-features-4552467",
+      "originalUrl": "https://www.gadgets360.com/mobiles/news/mediatek-dimensity-9300-soc-unveiled-cortex-x4-cpu-apu-790-ai-specifications-features-4552467",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.gadgets360cdn.com/large/dimensity_9300_mediatek_1699330250748.jpg",
+          "width": 1440,
+          "height": 740,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.gadgets360.com/mobiles/news/mediatek-dimensity-9300-soc-unveiled-cortex-x4-cpu-apu-790-ai-specifications-features-4552467/amp",
+      "cdnAmpWebUrl": "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/mobiles/news/mediatek-dimensity-9300-soc-unveiled-cortex-x4-cpu-apu-790-ai-specifications-features-4552467/amp",
+      "publishedDateTime": "2023-11-07T04:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gadgets360",
+        "domain": "gadgets360.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-07-big-blue-can-still-catch-the-ai-wave-if-it-hurries.md",
+      "title": "Big Blue Can Still Catch The AI Wave If It Hurries",
+      "excerpt": "It has been two and a half decades since we have seen a rapidly expanding universe of a new kind of compute that rivals the current generative AI boom. Back then, with the Dot Com Boom, companies wrap",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2023/11/06/big-blue-can-still-catch-the-ai-wave-if-it-hurries/",
+      "originalUrl": "https://www.nextplatform.com/2023/11/06/big-blue-can-still-catch-the-ai-wave-if-it-hurries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.nextplatform.com/wp-content/uploads/2023/11/ibm-northpole-logo.jpg",
+          "width": 852,
+          "height": 567,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2023/11/06/big-blue-can-still-catch-the-ai-wave-if-it-hurries/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/11/06/big-blue-can-still-catch-the-ai-wave-if-it-hurries/amp/",
+      "publishedDateTime": "2023-11-06T19:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-11-06-mediatek-challenges-qualcomm-with-ai-assisted-dimensity-9300-chip-for-phones.md",
+      "title": "MediaTek Challenges Qualcomm With AI-Assisted Dimensity 9300 Chip for Phones",
+      "excerpt": "MediaTek claims its new flagship mobile processor, the Dimensity 9300, will provide the performance, AI power, and multimedia capabilities needed to take on the best chips from Apple, Google, and Qualcomm.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/mediatek-challenges-qualcomm-with-ai-assisted-dimensity-9300-chip-for-phones",
+      "originalUrl": "https://www.pcmag.com/news/mediatek-challenges-qualcomm-with-ai-assisted-dimensity-9300-chip-for-phones",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/02S0iYuzbLrZPegs2SeDnYu-1.fit_lim.size_1200x630.v1699029835.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-06T11:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-05-do-we-have-enough-gpus-to-manifest-ais-potential.md",
       "title": "Do we have enough GPUs to manifest AI’s potential?",
       "excerpt": "The GPU shortage presents both challenge and opportunity as enterprises adapt and become more innovative, agile and responsive in the process.",
@@ -763,579 +1336,6 @@
         "AI Hardware",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-10-26-amd-and-korean-telco-kt-back-ai-software-developer-moreh-in-22m-series-b.md",
-      "title": "AMD and Korean telco KT back AI software developer Moreh in $22M Series B",
-      "excerpt": "Advanced Micro Devices (AMD) and Korean telco KT are among the investors of Moreh, which builds an AI software tool that optimizes and creates AI models.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/10/25/amd-korean-telco-kt-among-backers-in-ai-software-developer-moreh-in-22m-series-b/",
-      "originalUrl": "https://techcrunch.com/2023/10/25/amd-korean-telco-kt-among-backers-in-ai-software-developer-moreh-in-22m-series-b/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1370479417.jpg?resize=1200,806",
-          "width": 1200,
-          "height": 806,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/10/25/amd-korean-telco-kt-among-backers-in-ai-software-developer-moreh-in-22m-series-b/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/25/amd-korean-telco-kt-among-backers-in-ai-software-developer-moreh-in-22m-series-b/amp/",
-      "publishedDateTime": "2023-10-25T23:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-26-how-ai-and-blockchain-are-fighting-counterfeiting-in-the-luxury-market.md",
-      "title": "How AI And Blockchain Are Fighting Counterfeiting In The Luxury Market",
-      "excerpt": "AI is only ever as good as the information fed to its algorithm ... they are linked to the physical item in question by an attached near field communication chip (NFC) in the case of Margiela accessories like the brand’s Tabi shoes or quick response ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2023/10/25/how-ai-and-blockchain-are-fighting-counterfeiting-in-the-luxury-market/",
-      "originalUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2023/10/25/how-ai-and-blockchain-are-fighting-counterfeiting-in-the-luxury-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65397ff6f9ac734e121b7ea1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1265,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2023/10/25/how-ai-and-blockchain-are-fighting-counterfeiting-in-the-luxury-market/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephaniehirschmiller/2023/10/25/how-ai-and-blockchain-are-fighting-counterfeiting-in-the-luxury-market/amp/",
-      "publishedDateTime": "2023-10-25T21:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-26-stackpath-launches-gpu-accelerated-edge-compute-instances.md",
-      "title": "StackPath Launches GPU-Accelerated Edge Compute Instances",
-      "excerpt": "DALLAS, Oct. 25, 2023 /PRNewswire/ -- StackPath, the industry-leading edge computing platform, today announced the addition of NVIDIA GPU-Accelerated Instances to its Virtual Machine (VM) and Container product options.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2023/10/25/9905503.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2023/10/25/9905503.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T19:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-26-us-government-orders-immediate-stop-to-chinese-ai-chip-exports.md",
-      "title": "US Government Orders Immediate Stop to Chinese AI Chip Exports",
-      "excerpt": "Tech giant Nvidia has announced that President Biden’s administration has ordered it to stop shipping advanced AI chips to China immediately. These restrictions were always in the works and due to start next month. However, for an as-of-yet unknown reason, this date has been brought forward to today.",
-      "sourceUrl": null,
-      "webUrl": "https://tech.co/news/us-stop-ai-chip-exports",
-      "originalUrl": "https://tech.co/news/us-stop-ai-chip-exports",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.tech.co/wp-content/uploads/2023/10/25125830/nvidia-chip.jpg",
-          "width": 1920,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T17:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tech.co",
-        "domain": "tech.co",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-25-centml-lands-27m-from-nvidia-others-to-make-ai-models-run-more-efficiently.md",
-      "title": "CentML lands $27M from Nvidia, others to make AI models run more efficiently",
-      "excerpt": "CentML, a startup building tools to enable AI models to run more efficiently on existing hardware, has raised $27 million in a venture funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/10/25/centml-lands-27m-from-nvidia-others-to-make-ai-models-run-more-efficiently/",
-      "originalUrl": "https://techcrunch.com/2023/10/25/centml-lands-27m-from-nvidia-others-to-make-ai-models-run-more-efficiently/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-914452330.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/10/25/centml-lands-27m-from-nvidia-others-to-make-ai-models-run-more-efficiently/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/25/centml-lands-27m-from-nvidia-others-to-make-ai-models-run-more-efficiently/amp/",
-      "publishedDateTime": "2023-10-25T15:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-10-25-us-orders-immediate-halt-to-some-ai-chip-exports-to-china-nvidia-says.md",
-      "title": "US orders immediate halt to some AI chip exports to China, Nvidia says",
-      "excerpt": "Tech giant Nvidia says the US has told it to stop shipping some of its advanced artificial intelligence chips to China immediately. The restrictions were supposed to be introduced 30 days from 17 October.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/us-orders-immediate-halt-ai-035851187.html",
-      "originalUrl": "https://www.aol.com/us-orders-immediate-halt-ai-035851187.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.aol.com/amphtml/us-orders-immediate-halt-ai-035851187.html",
-      "cdnAmpWebUrl": "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/us-orders-immediate-halt-ai-035851187.html",
-      "publishedDateTime": "2023-10-25T14:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-25-ai-dominates-qualcomm-snapdragon-summit-with-new-snapdragon-products.md",
-      "title": "AI Dominates Qualcomm Snapdragon Summit With New Snapdragon Products",
-      "excerpt": "Principal Analyst, Mobility & VR, Anshel Sag analyzes the Snapdragon 8 Gen 3 and Snapdragon X Elite SoCs and predicts their impact on AI-driven mobile devices and PCs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/10/25/ai-dominates-qualcomm-snapdragon-summit-with-new-snapdragon-products/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/10/25/ai-dominates-qualcomm-snapdragon-summit-with-new-snapdragon-products/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65391570e04d1bf71ad7c828/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 936,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/10/25/ai-dominates-qualcomm-snapdragon-summit-with-new-snapdragon-products/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/10/25/ai-dominates-qualcomm-snapdragon-summit-with-new-snapdragon-products/amp/",
-      "publishedDateTime": "2023-10-25T14:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-25-coreweave-chooses-ddn-storage-to-power-accelerated-computing-and-ai-in-the-cloud.md",
-      "title": "CoreWeave Chooses DDN Storage to Power Accelerated Computing and AI in the Cloud",
-      "excerpt": "DDN Storage Accelerates Generative AI and Large Language Models with CoreWeave's GPU Cloud and NVIDIA AICHATSWORTH, Calif., Oct. 25, 2023",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/coreweave-chooses-ddn-storage-to-power-accelerated-computing-and-ai-in-the-cloud-1032737969",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/coreweave-chooses-ddn-storage-to-power-accelerated-computing-and-ai-in-the-cloud-1032737969",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2256851/DDN_Logo.jpg",
-          "width": 283,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T10:37:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-25-us-orders-immediate-halt-to-shipping-of-some-ai-chips-to-china-nvidia-says.md",
-      "title": "US orders immediate halt to shipping of some AI chips to China, Nvidia says",
-      "excerpt": "Tech giant Nvidia says the US has told it to stop shipping some of its advanced artificial intelligence chips to China immediately. The restrictions were supposed to be introduced 30 days from 17 October.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/business-67213134",
-      "originalUrl": "https://www.bbc.com/news/business-67213134",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 282,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/10F92/production/_131522596_gettyimages-1258278958-1.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/business-67213134.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-67213134.amp",
-      "publishedDateTime": "2023-10-25T03:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-25-geforce-rtx-4090-might-not-be-banned-in-china-as-the-us-immediately-halts-ai-gpu-sales.md",
-      "title": "GeForce RTX 4090 might not be banned in China as the U.S. immediately halts AI GPU sales",
-      "excerpt": "Updated U.S. restrictions on GPU hardware for AI are now in effect, but the good news for PC gamers in China is that the GeForce RTX 4090 looks to be okay.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/93982/geforce-rtx-4090-might-not-be-banned-in-china-as-the-immediately-halts-ai-gpu-sales/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/93982/geforce-rtx-4090-might-not-be-banned-in-china-as-the-immediately-halts-ai-gpu-sales/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tweaktown.com/news/9/3/93982_01_geforce-rtx-4090-might-not-be-banned-in-china-as-the-immediately-halts-ai-gpu-sales_full.jpg",
-          "width": 1500,
-          "height": 843,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T00:28:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-10-25-ai-chip-wars-us-curbs-nvidia-gpu-chip-exports-sooner-than-expected.md",
-      "title": "AI chip wars: US curbs Nvidia GPU chip exports sooner than expected",
-      "excerpt": "On Tuesday, chip designer Nvidia announced in an SEC filing that new US export restrictions on its high-end AI GPU chips to China are now in effect sooner than expected, according to a report from Reuters.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/10/ai-chip-wars-us-curbs-nvidia-gpu-chip-exports-sooner-than-expected/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/10/ai-chip-wars-us-curbs-nvidia-gpu-chip-exports-sooner-than-expected/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 289,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/nvidia_h100_hero_3-800x448.jpg",
-          "width": 800,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/10/ai-chip-wars-us-curbs-nvidia-gpu-chip-exports-sooner-than-expected/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/ai-chip-wars-us-curbs-nvidia-gpu-chip-exports-sooner-than-expected/amp/",
-      "publishedDateTime": "2023-10-24T21:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-10-25-fedml-nexus-ai-the-next-gen-cloud-services-for-llms-and-generative-ai.md",
-      "title": "FEDML Nexus AI: The Next-Gen Cloud Services for LLMs and Generative AI",
-      "excerpt": "FEDML, a rapidly growing startup in artificial intelligence (AI), officially announced the release of FEDML Nexus AI, offering the next generation of cloud services and platform for generative AI.This press release features multimedia.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/business/fedml-nexus-ai-the-next-gen-cloud-services-for-llms-and-generative-ai/",
-      "originalUrl": "https://venturebeat.com/business/fedml-nexus-ai-the-next-gen-cloud-services-for-llms-and-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/mms.businesswire.com/media/20231024932463/en/1922758/4/wideimage.jpg?strip=all&#038;ssl=1",
-          "width": 480,
-          "height": 269,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T19:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

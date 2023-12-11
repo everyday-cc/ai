@@ -2,6 +2,287 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-11-01-red-hat-launches-red-hat-ansible-lightspeed-with-ibm-watsonx-code-assistant-for-ai-driven-enterprise-it-automation.md",
+      "title": "Red Hat Launches Red Hat Ansible Lightspeed with IBM watsonx Code Assistant for AI-Driven Enterprise IT Automation",
+      "excerpt": "Now generally available, purpose-built AI service delivers a trusted Ansible advisor to help extend and scale automation content across teams with greater efficiency, accuracy and trust According ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/red-hat-launches-red-hat-ansible-lightspeed-with-ibm-watsonx-code-assistant-for-ai",
+      "originalUrl": "https://www.nasdaq.com/press-release/red-hat-launches-red-hat-ansible-lightspeed-with-ibm-watsonx-code-assistant-for-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-01T09:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-30-7-public-health-data-modernization-lessons-from-canadas-superior-covid-19-response.md",
+      "title": "7 public health data modernization lessons from Canada’s superior COVID-19 response",
+      "excerpt": "Data modernization efforts helped Canada track and contain the sudden rise in infections and meet the demand for public health services.\nThe post 7 public health data modernization lessons from Canada’s superior COVID-19 response appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/7-public-health-data-modernization-lessons-from-canadas-superior-covid-19-response/",
+      "originalUrl": "https://www.ibm.com/blog/7-public-health-data-modernization-lessons-from-canadas-superior-covid-19-response/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-30T09:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-30-dont-get-another-surprise-bill-from-your-observability-vendor.md",
+      "title": "Don’t get another surprise bill from your observability vendor",
+      "excerpt": "it’s time to move to Instana, especially if you have a legacy APM tool that produces surprise bills based on usage.\nThe post Don’t get another surprise bill from your observability vendor appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/dont-get-another-surprise-bill-from-your-observability-vendor/",
+      "originalUrl": "https://www.ibm.com/blog/dont-get-another-surprise-bill-from-your-observability-vendor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-30T09:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-30-how-ibm-and-aws-are-partnering-to-deliver-the-promise-of-ai-for-business.md",
+      "title": "How IBM and AWS are partnering to deliver the promise of AI for business",
+      "excerpt": "Combining IBM's strength in data analytics with AWS's robust cloud infrastructure, the alliance is breaking down barriers to AI adoption.\nThe post How IBM and AWS are partnering to deliver the promise of AI for business appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-ibm-and-aws-are-partnering-to-deliver-the-promise-of-ai-for-business/",
+      "originalUrl": "https://www.ibm.com/blog/how-ibm-and-aws-are-partnering-to-deliver-the-promise-of-ai-for-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-30T09:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-27-unified-endpoint-management-vs-device-lifecycle-management-what-do-they-have-in-common.md",
+      "title": "Unified Endpoint Management vs. device lifecycle management: what do they have in common?",
+      "excerpt": "Both protect corporate data, ensure a great user experience, enhance cybersecurity overall and create a great digital workspace.\nThe post Unified Endpoint Management vs. device lifecycle management: what do they have in common? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/unified-endpoint-management-vs-device-lifecycle-management-what-do-they-have-in-common/",
+      "originalUrl": "https://www.ibm.com/blog/unified-endpoint-management-vs-device-lifecycle-management-what-do-they-have-in-common/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-27T09:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-27-fears-about-computers-taking-over-the-world-goes-way-back-to-the-beginning.md",
+      "title": "Fears About Computers Taking Over the World Goes Way Back to the Beginning",
+      "excerpt": "But from the earliest years of the computer’s history, Watson and IBM encountered resistance to these “thinking machines,” just like spreading fears of generative AI today. Then as now ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.rollingstone.com/culture/culture-features/tom-watson-jr-great-capitalist-who-ever-lived-excerpt-1234855231/",
+      "originalUrl": "https://www.rollingstone.com/culture/culture-features/tom-watson-jr-great-capitalist-who-ever-lived-excerpt-1234855231/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rollingstone.com/wp-content/uploads/2023/10/Watson-and-Olive-650-display.jpg?w=1600&h=900&crop=1",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.rollingstone.com/culture/culture-features/tom-watson-jr-great-capitalist-who-ever-lived-excerpt-1234855231/amp/",
+      "cdnAmpWebUrl": "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/culture/culture-features/tom-watson-jr-great-capitalist-who-ever-lived-excerpt-1234855231/amp/",
+      "publishedDateTime": "2023-10-27T01:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Rolling Stone",
+        "domain": "rollingstone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-27-ibm-launches-watsonx-code-assistant-delivers-generative-ai-powered-code-generation-capabilities-built-for-enterprise-application-modernization.md",
+      "title": "IBM Launches watsonx Code Assistant, Delivers Generative AI-powered Code Generation Capabilities Built for Enterprise Application Modernization",
+      "excerpt": "Designed to accelerate development while maintaining the principles of trust, security, and compliance, the product leverages generative AI based on IBM's Granite foundation models for code ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.victoriaadvocate.com/ibm-launches-watsonx-code-assistant-delivers-generative-ai-powered-code-generation-capabilities-built-for-enterprise/article_3bd5a147-d22c-5897-b291-8d7efa848b07.html",
+      "originalUrl": "https://www.victoriaadvocate.com/ibm-launches-watsonx-code-assistant-delivers-generative-ai-powered-code-generation-capabilities-built-for-enterprise/article_3bd5a147-d22c-5897-b291-8d7efa848b07.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-26T21:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Victoria Advocate",
+        "domain": "victoriaadvocate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-26-operationalize-and-automate-finops-with-apptio-cloudability-and-ibm-turbonomic.md",
       "title": "Operationalize and automate FinOps with Apptio Cloudability and IBM Turbonomic",
       "excerpt": "From traditional enterprises to the most innovative startups, organizations are using the public cloud. In fact, ESG Research found that 91% of all applications will eventually be hosted in the public cloud. That much investment has necessitated the FinOps movement, a cloud financial management discipline",
@@ -1024,303 +1305,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-16-10-everyday-machine-learning-use-cases.md",
-      "title": "10 everyday machine learning use cases",
-      "excerpt": "At IBM, we are combining the power of ML and AI in IBM watsonx, our new studio for foundation models, generative AI and ML.\nThe post 10 everyday machine learning use cases appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/10-everyday-machine-learning-use-cases/",
-      "originalUrl": "https://www.ibm.com/blog/10-everyday-machine-learning-use-cases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-16T16:00:09Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-10-16-10-examples-of-machine-learning-in-the-world-today.md",
-      "title": "10 examples of Machine Learning in the world today",
-      "excerpt": "At IBM, we are combining the power of ML and AI in IBM watsonx, our new studio for foundation models, generative AI and ML.\nThe post 10 examples of Machine Learning in the world today appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/10-examples-of-machine-learning-in-the-world-today/",
-      "originalUrl": "https://www.ibm.com/blog/10-examples-of-machine-learning-in-the-world-today/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-16T16:00:09Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-10-16-ibm-named-a-leader-in-the-2023-gartner-magic-quadrant-for-api-management.md",
-      "title": "IBM Named a Leader in the 2023 Gartner Magic Quadrant for API Management",
-      "excerpt": "IBM is helping Businesses create APIs to get the data they need to power their applications and experiences, and scale their operations.\nThe post IBM Named a Leader in the 2023 Gartner Magic Quadrant for API Management appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ibm-named-a-leader-in-the-2023-gartner-magic-quadrant-for-api-management/",
-      "originalUrl": "https://www.ibm.com/blog/ibm-named-a-leader-in-the-2023-gartner-magic-quadrant-for-api-management/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-16T15:24:47Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-16-near-instant-replication-with-highly-available-redundant-systemsacross-several-miles.md",
-      "title": "Near instant replication with highly available, redundant systems—across several miles",
-      "excerpt": "With IBM Cloud’s new Madrid multi-zone region (MZR), latency between highly available (HA) workloads is no longer a concern. \nThe post Near instant replication with highly available, redundant systems—across several miles appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/near-instant-replication-with-highly-available-redundant-systems-across-several-miles/",
-      "originalUrl": "https://www.ibm.com/blog/near-instant-replication-with-highly-available-redundant-systems-across-several-miles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-16T13:10:13Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-16-challenges-and-risks-associated-with-lack-of-real-time-monitoring-in-sap.md",
-      "title": "Challenges and risks associated with lack of real-time monitoring in SAP",
-      "excerpt": "Real-time monitoring harnesses the power of proactive detection to transform operations, eliminate problems related to performance.\nThe post Challenges and risks associated with lack of real-time monitoring in SAP appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/challenges-and-risks-associated-with-lack-of-real-time-monitoring-in-sap/",
-      "originalUrl": "https://www.ibm.com/blog/challenges-and-risks-associated-with-lack-of-real-time-monitoring-in-sap/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-16T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-16-six-keys-to-achieving-advanced-container-monitoring.md",
-      "title": "Six keys to achieving advanced container monitoring",
-      "excerpt": "90% of global enterprises will use containerized applications and one in five apps will run in containers by 2026.\nThe post Six keys to achieving advanced container monitoring appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/six-keys-to-achieving-advanced-container-monitoring/",
-      "originalUrl": "https://www.ibm.com/blog/six-keys-to-achieving-advanced-container-monitoring/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-16T09:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-15-mits-new-generative-ai-outperforms-diffusion-models-in-image-generation.md",
-      "title": "MIT’s New Generative AI Outperforms Diffusion Models in Image Generation",
-      "excerpt": "Inspired by physics, a new generative model PFGM++ outperforms diffusion models in image generation. Generative AI, which is currently riding a crest of popular discourse, promises a world where the s",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/mits-new-generative-ai-outperforms-diffusion-models-in-image-generation/",
-      "originalUrl": "https://scitechdaily.com/mits-new-generative-ai-outperforms-diffusion-models-in-image-generation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/AI-Robot-Drawing-Art.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-15T01:12:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
