@@ -7,7 +7,7 @@ originalUrl: "https://deepmind.google/discover/blog/google-deepmind-at-neurips-2
 webUrl: "https://deepmind.google/discover/blog/google-deepmind-at-neurips-2023/"
 type: article
 quality: 89
-heat: 120
+heat: 110
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google DeepMind’s new Gemini model looks amazing—but could signal peak AI hype"
-    excerpt: "Gemini is Google’s biggest AI launch yet—its push to take on competitors OpenAI and Microsoft in the race for AI supremacy. There is no doubt that the model is pitched as best-in-class across a wide range of capabilities—an “everything machine,” as one observer puts it."
-    publishedDateTime: 2023-12-06T18:07:00Z
-    webUrl: "https://www.technologyreview.com/2023/12/06/1084471/google-deepminds-new-gemini-model-looks-amazing-but-could-signal-peak-ai-hype/"
-    ampWebUrl: "https://www.technologyreview.com/2023/12/06/1084471/google-deepminds-new-gemini-model-looks-amazing-but-could-signal-peak-ai-hype/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/06/1084471/google-deepminds-new-gemini-model-looks-amazing-but-could-signal-peak-ai-hype/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 70
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/12/gemini_mm_03.png?w=1920"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Tesla's head of AI infrastructure Tim Zaman joins Google DeepMind"
     excerpt: "Tim Zaman has left Tesla to work at Google DeepMind. Zaman was the head of 'AI Infra' at the automotive company from 2019, and was deeply involved in deploying the company's Dojo supercomputers and GPU supercomputers."
     publishedDateTime: 2023-12-11T13:33:00Z

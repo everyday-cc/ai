@@ -1,23 +1,29 @@
 ---
 category: news
 title: "China Continues to Enhance AI Chip Self-Sufficiency, but High-End AI Chip Development Remains Constrained, Says TrendForce"
-excerpt: "TrendForce reports that US sanctions and technological constraints are limiting China’s advancement in high-end AI chip development."
-publishedDateTime: 2023-12-11T15:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20231211814524/en/"
-webUrl: "https://www.businesswire.com/news/home/20231211814524/en/"
+excerpt: "TrendForce conjectures that the next-generation Ascend 910B chip is likely manufactured using SMIC's N+2 process. However, the production faces two potential risks. Firstly, as Huawei recently focused on expanding its smartphone business,"
+publishedDateTime: 2023-12-11T11:12:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2023/12/11/9931159.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2023/12/11/9931159.htm"
 type: article
-quality: 8
-heat: 8
+quality: 28
+heat: 28
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "8i2CZjhfCtpC6m8/yXHpuouaboyv2nZHwALhBO7GGRMsoErJCxvHh7tDGgYK5ef6xBkSTUXTJibtlBS6OwZHo+flsZwT8QPfqzbmGvitJJ8hGT75CNw0U881/OfekY+x0x7UFEtJwM5foyunNWHfEHrSu6G0JvUykpXCEhjnQlhqs13Es4Tp3cFC2iDE4WxLNqcgx6dkj74JDEU/dgnkMrmFx6syCQwcJbbyZVA4nurMWXmNCOOuqUjfDpu1NG8lyRooygR2IhNsmx6flqDf4mv7MdACz0K3+sF9y/R/7r98H/uApjcoh4vxvq9TjmjFJJq1C9rXWuaOQU3ykyBu+/2RtQpVHuifzt15NKm8ykQ=;0fGDXekljH1nRQScgOxMDg=="
+images:
+  - url: "https://images.tmcnet.com/tmc/world.jpg"
+    width: 1200
+    height: 627
+    isCached: true
+
+secured: "KbvkSR5A6ywjMNZ3qAeD883V7H9rOhyX9jGF5Z7kfPqURoe4Eprb8mhYybUnWWBC/ejx9lnUrrm/DC20/b/rjiT6uOJm6GXxh4ovmBK68TKFIekDeVB6y3CtBpeCyUm5CIjgWTa9phnvm0WACB1p04oIPNzg18VhUqco8zPpfc+wqe0r/yfmAmjHEWJyMlqIN1eYyBsC5gBcuuhUWEoJ6Fj8xw1kZ/9hpVp5zWixACg+H1FsvuGQ6HouS+ZBHUMQ1/o4Stb1Zd8pHjF3l/9M8RXfjWAL26wnhrqNVsyB4M5Q+Lj+2iJJ0+wBXTrwXJJJnJ5cFN5Qan06Pq6iYBOtWdg73Yx7GUVYiZReEBM1QHA=;Whg/ajMCUnmmoYGW1U8Q0Q=="
 ---
 

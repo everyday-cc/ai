@@ -53,6 +53,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tech Trends: Microsoft to Introduce AI to Many Government Workers"
+    excerpt: "With Azure OpenAI Service, we are enabling our customers to gain access to all of the latest models from our partner OpenAI, like GPT-4 Turbo, and do more to engage and leverage their own data. Our enterprise AI tools provides the same role-based security ..."
+    publishedDateTime: 2023-12-11T17:36:00Z
+    webUrl: "https://statetechmagazine.com/article/2023/12/tech-trends-microsoft-introduce-ai-many-government-workers"
+    ampWebUrl: "https://statetechmagazine.com/article/2023/12/tech-trends-microsoft-introduce-ai-many-government-workers?amp"
+    cdnAmpWebUrl: "https://statetechmagazine-com.cdn.ampproject.org/c/s/statetechmagazine.com/article/2023/12/tech-trends-microsoft-introduce-ai-many-government-workers?amp"
+    type: article
+    provider:
+      name: Statetechmagazine
+      domain: statetechmagazine.com
+    quality: 74
+    images:
+      - url: "https://statetechmagazine.com/sites/statetechmagazine.com/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202312/GettyImages-1485546309.jpg?itok=fyQGX9CX"
+        width: 1440
+        height: 500
+        isCached: true
   - title: "Microsoft Agrees to Union Contract Terms Governing Its Use of AI"
     excerpt: "Microsoft Corp. has agreed to union contract language governing its use of artificial intelligence, creating an avenue for workers to challenge how it deploys the evolving technology."
     publishedDateTime: 2023-12-11T11:59:00Z
@@ -87,6 +103,20 @@ related:
     quality: 54
     images:
       - url: "https://res.infoq.com/news/2023/12/git-partial-clone-azure-devops/en/headerimage/generatedHeaderImage-1702179442226.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Microsoft and labor unions form ‘historic’ alliance on AI"
+    excerpt: "Microsoft is teaming up with labor unions to create 'an open dialogue' on how artificial intelligence will affect workers."
+    publishedDateTime: 2023-12-11T17:51:00Z
+    webUrl: "https://www.latimes.com/business/story/2023-12-11/microsoft-and-labor-unions-form-historic-alliance-on-ai"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 54
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/c303384/2147483647/strip/true/crop/2000x1050+0+218/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd9%2Fc8%2F51d3b04f402cbe775fac74266e80%2Fmicrosoft-openai-75424.jpg"
         width: 1200
         height: 630
         isCached: true

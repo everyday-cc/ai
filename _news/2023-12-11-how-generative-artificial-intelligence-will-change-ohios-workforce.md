@@ -89,6 +89,20 @@ related:
       name: Time
       domain: time.com
     quality: 47
+  - title: "Turn Generative AI from an Existential Threat into a Competitive Advantage"
+    excerpt: "By making it vastly easier and cheaper to improve or create products and services that previously required significant human labor and creativity, generative AI has the potential to disrupt or even commoditize many businesses."
+    publishedDateTime: 2023-12-11T17:00:00Z
+    webUrl: "https://hbr.org/2024/01/turn-generative-ai-from-an-existential-threat-into-a-competitive-advantage"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 35
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2023/11/R2401J_TEMPERLEY.jpg"
+        width: 2000
+        height: 1125
+        isCached: true
   - title: "Dell Technologies storage advancements accelerate AI and generative AI strategies"
     excerpt: "Dell Technologies is helping customers achieve faster AI and generative AI (genAI) performance with new enterprise data storage advancements and validation with the Nvidia DGX SuperPod AI infrastructure."
     publishedDateTime: 2023-12-11T01:11:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.11alive.com/amp/article/news/crime/artificial-intelligen
 cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/crime/artificial-intelligence-helping-criminals-with-holiday-fraud/85-f641430c-cf9d-4f7c-b902-59df03cab8d2"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1140
     height: 641
     isCached: true
+
+related:
+  - title: "Leading in a World Where AI Wields Power of Its Own"
+    excerpt: "AI has been subtly influencing us for years, but a new generation of vastly more capable technology is now emerging. These systems, the authors write, aren’t just tools. They’re actors that increasingly will be behaving autonomously,"
+    publishedDateTime: 2023-12-11T17:00:00Z
+    webUrl: "https://hbr.org/2024/01/leading-in-a-world-where-ai-wields-power-of-its-own"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 37
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2023/11/R2401D_SNOOK.jpg"
+        width: 2000
+        height: 1125
+        isCached: true
 
 secured: "wVZNQOC04PvRFTtADxz229MR2nD0nf7glfqc2CAPb4/EALdZeaP6TXScDPCu5lh2DUnH2xK7UTGQ5Q1FcHMxZ20xNsd5iTlXqQOKKQld8tsgbA37L3+PajfZwmCREbntJIhjT1L4pPfyzILfNUmCENwhZp/UvggdcqKvNb30hMcLp2h3UeBi1vnPxym4X5QnWCLHZp82gZ5wWAFFBe4ivjSJ77Z0cUuYbRWOfOwO1KP1FVN8ymkFA+59Wa98MP8PwOz5i1zDnbpJGDwZuNxo0LYntW30uJcOK7p/kUtA0rkb+AIkzoEX3q29hz+Htiur9+GR2CWAflZAmd0EG94afr/0vcY8b6Wu8zeSam7GNhFQQnVyv38ph2e4JQ4g13k/p5JGbCPhFNm1MUzeYeSqAJ2TKhrTJI39m4OLd31/28KSdrJKmrlo80XXH0TS69ZsyWH2BTAkAieF6g5D04RHdRH6Rr+tuW6F4diFWd63DusOCaLPZst48QY709prcSwD5ZtlJ5UOLipkIQQQZhlRbw==;p7WtfyFQbmOn2C4p8R74mQ=="
 ---

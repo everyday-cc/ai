@@ -87,6 +87,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Nvidia Recovers From 10% Drop Amidst Intense Rivalry With AMD's Groundbreaking AI Chip"
+    excerpt: "AMD has launched the Instinct MI300X, a groundbreaking AI chip supported by Microsoft and Meta. Analysts estimate that AMD could capture about 10% of the AI chip market. Following the announcement of the Instinct MI300X,"
+    publishedDateTime: 2023-12-11T16:41:00Z
+    webUrl: "https://www.benzinga.com/trading-ideas/23/12/36181312/nvidia-recovers-from-10-drop-amidst-intense-rivalry-with-amds-groundbreaking-ai-chip"
+    ampWebUrl: "https://www.benzinga.com/amp/content/36181312"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36181312"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 66
+    images:
+      - url: "https://cdn.benzinga.com/files/boliviainteligente-1goydlm_jcg-unsplash_4.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AMD launches Instinct AI accelerator to compete with Nvidia"
     excerpt: "AMD enters the AI acceleration game with broad industry support. First shipping product is the Dell PowerEdge XE9680 with AMD Instinct MI300X."
     publishedDateTime: 2023-12-07T14:36:00Z
@@ -158,6 +174,6 @@ related:
       domain: extremetech.com
     quality: 19
 
-secured: "nbBdKvnhFrknUvp/RELV4qtmhIjQycyC1K2cLH3hdgDFrvCHn/oI8o9+K2ygWdzr8OAuzWVuDRHSAewvE/9MT0VyaCMmNSKjbEf0Qsbn4nMAi2O1fJxw8pBH6lrCCabmlgBfo6C3a0nGRycBumVOw62k99yCmzyeoiQIhlZjDXw2orlSBLLmYnYzSMp4m7+99V+KcX4MlNq9Hjn2P0yF+8dTDsW+GarOe0F8LYobaBOTyGiPi7YdSG4rGj7yfTCuRYbLzSsMlwh77pwD/O/gWAjyPTVFPnbTkts/Q8CEgKrC9vit5G/JL69Im8hlUZcYDT417r5zduJ5FwiNY34B0GOqxyd+gNnV68rxccLIZCA=;UAXV4if28yZwppC9zh7z9w=="
+secured: "XtzK3teitF0dRng7tRFjVi10pmwiA4FRQUlLWXVUzyhIp9CMfhY3guHXlF0kFrIhSkgCqINtwIernGgwXjTq4uLboMiwOuwqUDsyEC3D0lE44BbuIOWmyjsHzHKjeVlooBvhiND4GmWt6O/DefsQ7O2PcFW194nUm/oziaUbkd+eNK93WmPt3iQ15MT1UyFEYaRjW4TzrpDL6bVCiG1Y/0+64C/C2kp0zCqrSEj1bkOPgEb9/miG1TkNhxNK+C7brlAELJLiKGn1Vy84FO36D2JZu1L/JRkA35ppNo3K77uMKPBw350Ur2NQLYIOSLIHLxpHTCx4Rwxh6eatxQQ6d5n2KCqPcDNVgYGmroamzHrALShR7qfqhwIuFfZdGAWd+ynTb+Xx3VrTkGWGIpLR7phbvmzHUd+R8fvG0YtythuLnUv9lEqYOTLmrkfiUUIYY6WX4MnDXvrysgsl/b8indRs0uZIJMimwqYb7F1EKwd+A31EuBbnLWUDo1YXdhc3KaCVKZ9kWEN6MawhqYE2fQ==;f+32NrsWdFVCEnBwaFscHQ=="
 ---
 

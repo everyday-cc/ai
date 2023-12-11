@@ -87,6 +87,22 @@ related:
         width: 600
         height: 800
         isCached: true
+  - title: "Nvidia Recovers From 10% Drop Amidst Intense Rivalry With AMD's Groundbreaking AI Chip"
+    excerpt: "AMD has launched the Instinct MI300X, a groundbreaking AI chip supported by Microsoft and Meta. Analysts estimate that AMD could capture about 10% of the AI chip market. Following the announcement of the Instinct MI300X,"
+    publishedDateTime: 2023-12-11T16:41:00Z
+    webUrl: "https://www.benzinga.com/trading-ideas/23/12/36181312/nvidia-recovers-from-10-drop-amidst-intense-rivalry-with-amds-groundbreaking-ai-chip"
+    ampWebUrl: "https://www.benzinga.com/amp/content/36181312"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36181312"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 66
+    images:
+      - url: "https://cdn.benzinga.com/files/boliviainteligente-1goydlm_jcg-unsplash_4.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AMD launches Instinct AI accelerator to compete with Nvidia"
     excerpt: "AMD enters the AI acceleration game with broad industry support. First shipping product is the Dell PowerEdge XE9680 with AMD Instinct MI300X."
     publishedDateTime: 2023-12-07T14:36:00Z

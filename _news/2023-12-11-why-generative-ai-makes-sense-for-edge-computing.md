@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/11/why-genera
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/11/why-generative-ai-makes-sense-for-edge-computing/amp/"
 type: article
 quality: 91
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -87,6 +87,20 @@ related:
       name: Time
       domain: time.com
     quality: 47
+  - title: "Turn Generative AI from an Existential Threat into a Competitive Advantage"
+    excerpt: "By making it vastly easier and cheaper to improve or create products and services that previously required significant human labor and creativity, generative AI has the potential to disrupt or even commoditize many businesses."
+    publishedDateTime: 2023-12-11T17:00:00Z
+    webUrl: "https://hbr.org/2024/01/turn-generative-ai-from-an-existential-threat-into-a-competitive-advantage"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 35
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2023/11/R2401J_TEMPERLEY.jpg"
+        width: 2000
+        height: 1125
+        isCached: true
   - title: "How generative artificial intelligence will change Ohio’s workforce"
     excerpt: "McKinsey has estimated that, accelerated by gen AI, up to 30% of current hours worked in the United States could be automated by 2030, requiring 12 million job shifts."
     publishedDateTime: 2023-12-11T05:00:00Z
@@ -106,6 +120,6 @@ related:
       domain: itwire.com
     quality: 14
 
-secured: "xKvP7KPI0fQhjJ7GaDTCP0WFKTGHPbYs8RLZOfGDdi63O1pnoYbiECArj8r7eDlDojFQqhAxtic7UHgvnOOdsZHtmH2j4XD7kToLKnd35n2/Z8x87QjQs5xKpNvTXlhFz+31Sb4Vlmxb2HWpl7Wm0AtsLAjTfvPA2uZJdNaqOY8jDsN7Zt6/uW/uJn3l+w4snThhVfQ9+QLb3lOSuqtMaUGhO0jRRvmaxjYiVHMMJP7/nbQhBTJ3JoPOw3IrrScy6XTDWpVlANrhhbm143wJA2YCU+ilhNOlwMqH1GTkfPjE7NZQjPcwJj9SX1qAuCl6dVwoFHBFwSKUIs0HcX4zQVzrnp8waOLez0ma+5rJx0o=;BKsVLsbfXlHD++KI39iDIg=="
+secured: "JqXK/gsDjka9BXWK38PXhlHk7PMNh1Lz8bDndRbq1fGHZJGlTlBIfOGgNn2qBWM0pXbWCEb6vc9s/FQlm/ZBKh4CYcpBKiUPcT1ac8W3nAwGQ3AmwmuSFDDssAwin6deXFiTcSObudBDrc4uaBoRQquK7tWrL+yC9uO2m5COL0KUXc++7U4WPZ5gjgzgaUvYtlL9Kv0yhBhSdmXjFKIH4OYSuUUmLRunT0AmdOCEn1wDUImDaloSjKdO2vakiON47/OhWimJp9YUjyGD4QlQ98Pxc1KSEwRwRds6+dIFdPDJS9ca5qflye3lF7IXEttKACWgSqrHR3LZTaP8VtblPaQboKYhtmO1vFbXniQuK4W+tbcWZ6IwL9lbkzMTNrXBLcyO4Q6t5ryQ491g0aPmyWgtP1nese3jrxjiMMDrLjdQdPFET7P72/IxxKUfEn0ZklTgoMFJVaiRTy3ZEKOHvMyBJhg2NdauBKBe3ImZkOWdQr8xBOxfd9QwpNI5p8BrOoZZOihSd1knUMjV/XgLkw==;sz15tLXbz2c5vmbCqNumQg=="
 ---
 

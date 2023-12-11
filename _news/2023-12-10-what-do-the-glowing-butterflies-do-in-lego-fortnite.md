@@ -24,6 +24,22 @@ images:
     height: 360
     isCached: true
 
+related:
+  - title: "Epic Games reveal instructions for first LEGO Fortnite set"
+    excerpt: "We’ve seen a great team-up with LEGO and Fortnite, so will we see any LEGO Fortnite sets from the battle royale giant soon? We may have just gotten the first."
+    publishedDateTime: 2023-12-11T17:14:00Z
+    webUrl: "https://www.dexerto.com/gaming/epic-games-reveal-instructions-for-first-lego-fortnite-set-2425485/"
+    type: article
+    provider:
+      name: Dexerto
+      domain: dexerto.com
+    quality: 24
+    images:
+      - url: "https://editors.dexerto.com/wp-content/uploads/2023/12/02/sae-13.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+
 secured: "uO+Z8kAnDOflgvJSvWUrtNtMEemGJi50za4LlFIqec+s9ssY8Ugxw70libJq0EYSkfm1LWx7q5bwVva8RXzNuuktCiuA1bavj3/3NV/0HC2efgO8jzN9vrCOtSNgQQlZtQdAP+nkd3DFP0xYxxUe8Dij0GWzzTyIrKcWvMb3eUFuqEtNp22RiXIQnj2s1RCY5lHRgWKwcTjXPc3bUQqG5z6UqRRDdJindevcOneRucgwnV9EfhM7K+m19IjGkgD40L5gsRDxoTmY69WlHctzKdliXp/AW0CGPJTy30KOdls24hZNwWodOkPIPC3GiKHUOjof60J3DHK5cX73MkIugElI0ABJkdQ/Z/VE/QPQljwwzTpiieJ/7rwJnXHXl2IxGp3IHqbgCJEVcFHmxscIiY8FMEXo+fFsqFi/R1rl9ut+fCV1Gpk6BjlC/gpu6HhrUtpsV8dh975EEphb+n3G3VYTmJxErMgQdfWPm/gZiOImaS3KZ/5FaTjBomLyVjTvB0IGaieE8S7Q27UhflXJ7A==;KVedVvF8hdaImhGDZ0yoSQ=="
 ---
 

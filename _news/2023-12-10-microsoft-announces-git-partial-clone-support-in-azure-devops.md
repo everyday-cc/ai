@@ -55,6 +55,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tech Trends: Microsoft to Introduce AI to Many Government Workers"
+    excerpt: "With Azure OpenAI Service, we are enabling our customers to gain access to all of the latest models from our partner OpenAI, like GPT-4 Turbo, and do more to engage and leverage their own data. Our enterprise AI tools provides the same role-based security ..."
+    publishedDateTime: 2023-12-11T17:36:00Z
+    webUrl: "https://statetechmagazine.com/article/2023/12/tech-trends-microsoft-introduce-ai-many-government-workers"
+    ampWebUrl: "https://statetechmagazine.com/article/2023/12/tech-trends-microsoft-introduce-ai-many-government-workers?amp"
+    cdnAmpWebUrl: "https://statetechmagazine-com.cdn.ampproject.org/c/s/statetechmagazine.com/article/2023/12/tech-trends-microsoft-introduce-ai-many-government-workers?amp"
+    type: article
+    provider:
+      name: Statetechmagazine
+      domain: statetechmagazine.com
+    quality: 74
+    images:
+      - url: "https://statetechmagazine.com/sites/statetechmagazine.com/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202312/GettyImages-1485546309.jpg?itok=fyQGX9CX"
+        width: 1440
+        height: 500
+        isCached: true
   - title: "Microsoft, AFL-CIO Reach Deal on AI, Labor Neutrality"
     excerpt: "Microsoft has a major partnership with ChatGPT maker OpenAI and committed to pumping more than $10 billion into the startup. Surging popularity of so-called generative AI, which uses data to create new content like ChatGPT's human-sounding prose, could remake human society and make obsolete many jobs."
     publishedDateTime: 2023-12-11T14:03:00Z
@@ -87,7 +103,21 @@ related:
         width: 1536
         height: 1050
         isCached: true
+  - title: "Microsoft and labor unions form ‘historic’ alliance on AI"
+    excerpt: "Microsoft is teaming up with labor unions to create 'an open dialogue' on how artificial intelligence will affect workers."
+    publishedDateTime: 2023-12-11T17:51:00Z
+    webUrl: "https://www.latimes.com/business/story/2023-12-11/microsoft-and-labor-unions-form-historic-alliance-on-ai"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 54
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/c303384/2147483647/strip/true/crop/2000x1050+0+218/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd9%2Fc8%2F51d3b04f402cbe775fac74266e80%2Fmicrosoft-openai-75424.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "DwREPcskv0JNrmBPrSQ9EMBkKM82y/xbUnRwTBoKXRsjmkANrM0j/fvXlPnhdfFFGP6kD4Pj+27OUpnSpW9kWF2Mkbgtt9Z7bmLo99favXKVhAcYYF5kcxDWtphyG3rVQI24q9okwcA+ThOjYghvtDt7DJgHDP9wCW34BlW1YazpZ4vcFWjAO9Mwm2ZNdjWefCAowK/hbN0KttnsWglA6vwJ0DbBSD95M/JobUp9DeKyGhSvjC86S93D0U8lLcyev1CtBMIYs45fHcUr2vc1AeSsDyFangvQuB0nh6Rxx1PRnz1wtwwFNdtfI4mqO0HQnEKs3855P8pLgOGeysLUmuUWPHLG6i3cPFJ2p/LlFxI=;ScE9jm0egaiV/lPgyzzxZA=="
+secured: "V6YxKAoxOxd9GVFdKg4aPPXKMTgalrN0AsM5RK4yYU1PTpDOXvSVlkh2GxyfLaGVetUO+kUw1QgK2Ojr7SBFfna7hm3iZto8VAXeZkiHwOqM8ShmZQDS/b1htBRr83nYuHvBl/M9Z2r/Lf221tUQD24opKB/wdUxbf6wEKLvHOuiLlUnUv9d5+RUukz0hyjD0JeZMhEk7mkKkpxuV1M1CwYvE5AQbvJNamf9SG9DQsVwXmLM63Zv9TnYonzAJicizy5bqdxd9lU9+B07HlZ2KMptEA6Z0sNfZfy6np52MdmxPphPHebKrbRaJ1GTcp7nxmrXNTRevOwNamoDEW7diNqx7A0eDJ0Rk1p1/dnxiNt5kJEmm+e7HqyDvkK9GreQrHUD2acw7i/ljvlIK9miHlQK/3eweLykJ1lIJ5vNABFPvu+kQ8WU8O9W2d8lbvWT7ikRL8C6JWnanJWBZWldGvHMxgpJy6NlN4AjG+Ep5qMaLhqs3GQcGc+Of6/piTAgz/gCz/Db76BzmwHQmZDMiQ==;26PMQd8+uNCvs+JTBQlSOg=="
 ---
 

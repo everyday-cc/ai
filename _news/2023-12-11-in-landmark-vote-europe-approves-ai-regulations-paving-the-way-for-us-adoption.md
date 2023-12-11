@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "The EU’s AI Act: A beacon of innovation and ethics for emerging Europe"
-    excerpt: "In an exceptional move reverberating through the corridors of technology and governance, the European Union has provisionally adopted the Artificial Intelligence Act, heralding a new era of digital ethics and innovation."
-    publishedDateTime: 2023-12-11T12:24:00Z
-    webUrl: "https://emerging-europe.com/partner-content/the-eus-ai-act-a-beacon-of-innovation-and-ethics-for-emerging-europe/"
-    type: article
-    provider:
-      name: emerging-europe.com
-      domain: emerging-europe.com
-    quality: 54
-    images:
-      - url: "https://emerging-europe.com/wp-content/uploads/2023/12/bigstock-ai-artificial-intelligence-310093555.jpg"
-        width: 1600
-        height: 1000
-        isCached: true
   - title: "EU’s AI rules look best for those in the middle"
     excerpt: "France and Germany may have found a sweet spot amid the European Union’s artificial intelligence rules. As expected, the bloc will require general-purpose AI players to report how they use data, train their models and respect copyright laws,"
     publishedDateTime: 2023-12-11T11:33:00Z
@@ -47,6 +33,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
+  - title: "Can the EU's plan to regulate AI keep up with rapidly evolving tech?"
+    excerpt: "The European Union is finalising its AI Act, which attempts to regulate the use of artificial intelligence, but it isn't clear that the legislation can keep pace with the cutting edge of technology"
+    publishedDateTime: 2023-12-11T14:59:00Z
+    webUrl: "https://www.newscientist.com/article/2407787-can-the-eus-plan-to-regulate-ai-keep-up-with-rapidly-evolving-tech/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/12/11145455/SEI_183673499.jpg"
+        width: 1349
+        height: 900
+        isCached: true
   - title: "Europe, a laggard in AI, seizes the lead in its regulation"
     excerpt: "Yet whether the AI Act will be as successful as the General Data Protection Regulation ( GDPR ), the EU ’s landmark privacy law, is another question. Important details still need to be worked out. And the European Parliament still needs to approve the final version."
     publishedDateTime: 2023-12-10T18:25:00Z
@@ -80,6 +80,6 @@ related:
       domain: eureporter.co
     quality: 15
 
-secured: "h8fWJcScBXcN7hQQwy2sJba3qjn2NXlrYMNOy6MNgW6JHRrMr7B9ixCGO1mblprozh6IPcrHF2OFRh8RxufsORbxsIRVvngWQOJOobpe5DIY5kP3e1dTBy/OmnFIHwovxqi5eB0I5p8GP+tPjDoVZFY8bXbtH3WHzH4WC+1o3gosognOWoW3jCrPdTWCMdZvSRgrS0A0ODEZ4ZCDVy+JxLY3OjA6zoWz9EDnoPKhwfWfi0jNG5bgNSCH5dRJRfVOmzZUOKjQfQwFxyjUXPY86UK8iiD+CREh2cGTEekxjF9hGk6jVJfHhSgG4GacCOKEKTjhvLSa+1+S+78nEUgXlvIryqamghVfb4ctjCnGWKs=;gEYHyoo97PH2vX4Bi6rAGQ=="
+secured: "n52XOrp6grqnUVt1LCOVkNd0mD4ZPVfs1BSVVBOlfFZ963vNgYDwouHa5LnhCiTpBol1Nqhz0ziHLiCcTVsJJlmIBFSghHvBR/19dyFIwrriUI6lTL7szH+LWkCD0E4zgoul9Xh37NkX/o8aU3W5MSSHuNMdBr2/LFym76Z5kYSc98fwPPvoLHkKPYHwMtA7jcgKIOc7gIcEwSXCC8+RIAK9qF72D1B4Ai6jqeDVMmxva5Ifg5rq+1g4gwlJDvLKUq1dxWPh+plYn47G1kxkZiOQZRl5OVI9Ppr6D4/G+rVN1m0R5fELJQYDIqPVr2nLrAV10kdVmFabPL6SXBjZVf6ezoxdgTnszidkz6CRqkkNILYKx3gKQssxMv5fuXGweZbRCBpFDBqgpT0MDeVsVzLALYsyoH8E8kWRGM/3rLcFvk1KFhyDvyUYd1dZl+6g1893MXWG9NGnSwXfL4hEWrWZhiBaTqY8aO/4jUg2zWoZgJUHupsS8mQPQq0Jxb90XFAqOW+mVK0jhCKKwLatFA==;Lp1nqcNNUb8LTh7b+qWw/w=="
 ---
 

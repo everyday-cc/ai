@@ -7,8 +7,8 @@ originalUrl: "https://www.techradar.com/phones/samsung-galaxy-phones/the-samsung
 webUrl: "https://www.techradar.com/phones/samsung-galaxy-phones/the-samsung-galaxy-s24-could-borrow-the-pixel-8s-best-ai-features"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: TechRadar
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Galaxy S24 AI features leaked, and it sounds like a Pixel 8 and iPhone 15 had a baby"
+    excerpt: "Some of Samsung's big AI phone features for the Galaxy S24 are already available on Pixel 8 and iPhone 15 devices - what you need to know."
+    publishedDateTime: 2023-12-11T18:14:00Z
+    webUrl: "https://bgr.com/tech/galaxy-s24-ai-features-leaked-and-it-sounds-like-a-pixel-8-and-iphone-15-had-a-baby/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 30
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/03/samsung-galaxy-s23-ultra-6-1.jpg?quality=82&strip=all"
+        width: 2000
+        height: 1125
+        isCached: true
 
 secured: "PM84fK4EZE3uuf8Mbm85SLfRW6Pn7zT+M9kRlmkFGBvODyM1ppgq1AFb1jVjA7Bz5/IODh5SP/d2u5bRiEHcFzfOfhr9dei8AULZzbfF8AsZRYzbdbztVNmn+1X8jdX9AFX9t2J2jrcCHH10K/qpZVeOZdet5vP1Uj5J8qEKp2bt5I/uYI2GV1HJuB9qKTZwLwY5wB3mk0QqNH1TZHDMcXopf6oL3hvDurt/XEGgq+s7WYUMdU8krSeswWW9ZNgso4GPK8olGI77TNkrX0BzF44Li64FsuSBM6eA805QVdALBFwpTifRofP2S3OIseUcjvPXCyTbFMTxUaEw7GQ7agZFA4sHPEshZfUv9ejitBQ=;WwBSPuVB2ZvSSt91J5ewrQ=="
 ---

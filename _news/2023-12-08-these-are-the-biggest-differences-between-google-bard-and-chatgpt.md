@@ -93,6 +93,15 @@ related:
       name: Lifehacker Australia
       domain: lifehacker.com.au
     quality: 21
+  - title: "Google's Bard A.I. chatbot expanding into Gmail, Maps, YouTube, other digital properties – CBS News"
+    excerpt: "AM PDT / AP Google is introducing Bard, its artificially intelligent chatbot, to other members of its digital family"
+    publishedDateTime: 2023-12-11T17:18:00Z
+    webUrl: "https://www.inferse.com/835581/googles-bard-a-i-chatbot-expanding-into-gmail-maps-youtube-other-digital-properties-cbs-news/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 5
 
 secured: "u9X1vXyxJ1y4C1Oltkw4iR9qQPf0AXZBGQZG3jsGvl+t58YAXazfcHN5X8Y+XUuINc2EAq4vs1MqpDRSy4nqhVoRHbmSJwqlPTGV2snXh4nI6C9fuMFnAG8+Rjfka482CQEOYGrKOG/FcQZJNO6yd6O7JOjsB+Keg3exwBH3QYuaqv+cOfkbfKwg5aWMRWs1qnldS1kLZyRj/H1SS7UptFsjkgVONYsnrkswoU+ELptrSyIJ+vNUnwNWH65rB3AogX2yiq+xwCQyvRQkXHCvEi5TNunM+7lY16ZrAO3IN2MND1G7eOoWuu980XmXvpRt/kwhnfqrnAOBhDFZ8SQC7HnE7blUOZpnZYGas7NGUDsWUnQNCbvilgUkN3S5MWtTBFn4zy17DgM5MCAHfgkaK4wB8mE6s6LSN8GO+cvH9ZsOCdfziktuhTuA/anINC8QfCOGEkAghJtuCc0ZwjVLIzngLjfHrQAAH4LseExLZ4GYIiJqA0RQVBM1donxoGK9r5vruMBnyG0hDy59fNIPKQ==;n9rj6nByvRc3mqBJOL21Mw=="
 ---

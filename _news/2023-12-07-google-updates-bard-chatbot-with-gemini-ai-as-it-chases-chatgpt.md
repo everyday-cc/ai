@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/2023/12/06/technology/google-ai-bard-chatb
 webUrl: "https://www.nytimes.com/2023/12/06/technology/google-ai-bard-chatbot-gemini.html"
 type: article
 quality: 71
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -97,6 +97,15 @@ related:
       name: Lifehacker Australia
       domain: lifehacker.com.au
     quality: 21
+  - title: "Google's Bard A.I. chatbot expanding into Gmail, Maps, YouTube, other digital properties – CBS News"
+    excerpt: "AM PDT / AP Google is introducing Bard, its artificially intelligent chatbot, to other members of its digital family"
+    publishedDateTime: 2023-12-11T17:18:00Z
+    webUrl: "https://www.inferse.com/835581/googles-bard-a-i-chatbot-expanding-into-gmail-maps-youtube-other-digital-properties-cbs-news/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 5
 
 secured: "19TEZ+DZ0BVnwtY9zeAq27P76dwnjRqXOx7OX/q3dHfvahBrZ8QrYaZgHKPli8WdnRey6P1n/CwIC+P02CBzTLj/Yot8uVKitdVcmyRT99+D9x7GUvljy5zEZ4QfMGieJar8fKBFttYR3TJKWgfEzfhhh5xNQlWeUxMLFXsU9xJQFZOf1ft9AodWNrohiLXqKZrWyCQgI+NVpEMEzSL8IYD6PsvwlB0SDeYL1pwKKYUjmZJf+9Y3AqdSkPlLZcqXfzIp88fu3X1lUFRPhspGkVfbN3nfLNchC+ZjNn+CJpL9Ronv95PzZfi55zouQUMyWKeyitD5kKAZYx9lzYmj/tCFYWmhLNqVu7x8azpiMVKOVmuO6SP1d+YQ+rKM7LxjOGVUXiHKW1ebfNyTn4evRi3mi7JFc71ZiPzAX9TxU9ZXLBMgaDhnZQ0Ud3lA4butBxDZ6GZ3zExLAxjbclXOo05rCJp0XkL6bLN65ev9Y/yx+7kSbIZBMzl7Mn90354Z1d9dQM1Tf5bny9dj/jdpXA==;7tq/XX9sociXG9Jwahr4kw=="
 ---

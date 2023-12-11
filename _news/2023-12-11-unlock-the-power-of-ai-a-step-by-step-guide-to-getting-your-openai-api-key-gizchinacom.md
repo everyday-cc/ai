@@ -53,6 +53,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "OpenAI’s Rival Mistral AI Valued at $2B after Latest Funding Round"
+    excerpt: "OpenAI's rival Mistral AI is now valued at $2 billion after its latest funding round where it pulled $415 million from investors."
+    publishedDateTime: 2023-12-11T17:39:00Z
+    webUrl: "https://www.coinspeaker.com/mistral-ai-2b-latest-funding/"
+    ampWebUrl: "https://www.coinspeaker.com/mistral-ai-2b-latest-funding/amp/"
+    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/mistral-ai-2b-latest-funding/amp/"
+    type: article
+    provider:
+      name: coinspeaker
+      domain: coinspeaker.com
+    quality: 57
+    images:
+      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/12/mistral-ai-2b-latest-funding.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "AI start-up Mistral secures €385m to challenge OpenAI"
     excerpt: "French start-up Mistral is focused on creating open-source AI models and has reportedly hit unicorn status after raising €385m."
     publishedDateTime: 2023-12-11T12:24:00Z
@@ -66,6 +82,20 @@ related:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/12/AdobeStock_259976477.jpeg"
         width: 800
         height: 600
+        isCached: true
+  - title: "OpenAI Competitor Mistral AI Nabs $487M Round, Hitting $2B Valuation"
+    excerpt: "Paris-based Mistral AI, an OpenAI and Anthropic competitor, is putting the final touches on a massive round of approximately $487 million that would value the company at $2 billion, per a report."
+    publishedDateTime: 2023-12-11T18:13:00Z
+    webUrl: "https://news.crunchbase.com/ai/mistral-openai-anthropic-andreessen/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 37
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/Generative_AI_3.jpg"
+        width: 900
+        height: 506
         isCached: true
   - title: "Paris-based Startup and OpenAI Competitor Mistral AI Valued at $2 Billion"
     excerpt: "In a significant development for the European artificial intelligence sector, Paris-based startup Mistral AI has achieved a noteworthy milestone. The company has successfully secured a substantial investment of €450 million,"

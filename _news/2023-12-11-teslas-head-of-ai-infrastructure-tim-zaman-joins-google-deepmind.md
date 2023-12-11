@@ -34,22 +34,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Google DeepMind’s new Gemini model looks amazing—but could signal peak AI hype"
-    excerpt: "Gemini is Google’s biggest AI launch yet—its push to take on competitors OpenAI and Microsoft in the race for AI supremacy. There is no doubt that the model is pitched as best-in-class across a wide range of capabilities—an “everything machine,” as one observer puts it."
-    publishedDateTime: 2023-12-06T18:07:00Z
-    webUrl: "https://www.technologyreview.com/2023/12/06/1084471/google-deepminds-new-gemini-model-looks-amazing-but-could-signal-peak-ai-hype/"
-    ampWebUrl: "https://www.technologyreview.com/2023/12/06/1084471/google-deepminds-new-gemini-model-looks-amazing-but-could-signal-peak-ai-hype/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/06/1084471/google-deepminds-new-gemini-model-looks-amazing-but-could-signal-peak-ai-hype/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 70
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/12/gemini_mm_03.png?w=1920"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "5 questions for Google DeepMind’s Tom Lue"
     excerpt: "Indeed, this week Google introduced Gemini to the world — the most capable and general model we’ve ever built. Gemini was built from the ground up to be multimodal, which means it can seamlessly understand,"
     publishedDateTime: 2023-12-08T20:02:00Z

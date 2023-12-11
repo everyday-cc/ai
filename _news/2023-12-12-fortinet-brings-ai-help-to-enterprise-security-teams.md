@@ -9,7 +9,7 @@ ampWebUrl: "https://www.networkworld.com/article/1255899/fortinet-brings-ai-help
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1255899/fortinet-brings-ai-help-to-enterprise-security-teams.html/amp/"
 type: article
 quality: 76
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -27,6 +27,17 @@ images:
     height: 551
     isCached: true
 
-secured: "pweywWRWyr39FDU6fuajiAqiiYMw5+G4oOkM5bkAP1VkdJbPNduuSdLLKdrkz+e6EmhEPa+mXpbQvFdKPBDFeKla8Pf6Gr0iX02GTeHHrrXS6dydC7Z5QWKDa2WEOq5NPNGMXmCdmsvVaBAFK7+xlHzxFUObd3t6dhM+g9+i6ASJjwdkd+JvXEmr7q1dYgkcNC0BE3QXNNaDFD75whu5PMej/gnzcQs5PRlPkKbQG5DVL4jyusqKPgwayAVErbGLfY+JztvyB7aw0aTsmER+pxTFyyEXIX2BqCBfP9gWaN9wBDT/6OXAIVz5SKw/9dUa/DOBgI8IfjNwEIkusevQejvmks10IT0H1Aj7V3RGq/I=;SmUL6+OIXCNLnkOVSCWcng=="
+related:
+  - title: "Equinix to Accelerate and Simplify Liquid Cooling Deployments to Power Enterprise AI Workloads"
+    excerpt: "Equinix supports major liquid cooling technologies, including direct-to-chip and rear-door heat exchangers so that customers can take advantage of the most efficient solutions. Additionally, Equinix is offering a vendor-neutral approach to enable customers to use their preferred hardware provider in their deployments."
+    publishedDateTime: 2023-12-11T18:01:00Z
+    webUrl: "https://www.datanami.com/this-just-in/equinix-to-accelerate-and-simplify-liquid-cooling-deployments-to-power-enterprise-ai-workloads/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 7
+
+secured: "uzE/C/Hr7NQLv4BmVx1G6qU8a7+KTzdUwECuO3S99NlEDQR+cqyVX0IgGxxbbd8nyz7Utwj7rHENl/QQLJMJsrVUuhtlj2LDkaYNhpn9elivDqi1nkxTNTbjK/3pQxUjLoIYATMlwzZuJFcezNgcr3z8tX8iI+oalFFyU/S73Pq/2l+z8ZIM9PrApua8kl/QY/NZ9JtwmZsXRDcd0drwIwYnymvHctMylZp8Dl68W7YfTGwiOTlX9ILP2ViQHvezxNMX+Ys5VNMbP2A21cblSumL5351X7MxgA4WiWs3L5IIK4Ub/O56/JlDr+e1TMx9WhpgYkepWrDa0JyrjIIG202BUNkOG/RDbWeNHZKvQ4WaeoynQLG/FURZGKxpwxX3W09hRa2VYski35SPygjIomQar2Rwp9o13wEoF3GkyDcjl9XWST0z6MBaw+dEZ6Cv5KmdBy85j8qQCCNR5iMNDjVyjHXbasnV86cEww3YU5hv3FRLHSZlvR8AtkQewA16SOwRZceToPK7U3HqOHQ8cg==;xQp7S2HLNcpm4jsJL9bRpg=="
 ---
 
