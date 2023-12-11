@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-startup-pitch-decks-used-to-raise
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-startup-pitch-decks-used-to-raise-millions-from-vcs-2023-2?amp"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Elon Musk’s new AI Grok accused of stealing answers from ChatGPT"
+    excerpt: "Grok, the recently released chatbot from billionaire Elon Musk's startup xAI, has been accused of ripping off ChatGPT's codebase."
+    publishedDateTime: 2023-12-11T20:26:00Z
+    webUrl: "https://www.dailydot.com/debug/elon-musk-xai-grok-ripping-off-openai-chatgpt/"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 34
 
 secured: "EaQUaB0yV0PFGXDHR7xAVSHxgQ4bT+5r/YpQf5JpLngkDttFYQDd7Fm5G1XkI3B6PlWjHai40mz50xoR5I8jM4qHimw0LcS5+KGTFjh6r0hHm6133BsLydfU/u8fPXgJy+/Bkk0V8FC8wuPYEaJG/hKJfAZFrHqhXWIWitOneeS7Q5sonbDE1Yt296ak+1AFOP3C7sEGEjXMGSwsS07h8JwEbQhEB0cEk5XRCAeAug0g7gLoiMV/gjtwmvJtMo7BW1F7hdjCDF/Qym+weKVm0IVJHEuYoIKK7VbqdEBY4B6JgY5nimDxx4PFzm1oOIavyXQpyyxWweYE+Ny+5M5JDnDWI67mgtKY5kgeTBkYgUw=;0+Tfo3bB43HkT5+KltOeSg=="
 ---

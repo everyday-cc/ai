@@ -7,8 +7,8 @@ originalUrl: "https://www.techspot.com/news/101157-ai-based-cobol-translator-wat
 webUrl: "https://www.techspot.com/news/101157-ai-based-cobol-translator-watsonx-not-replace-developers.html"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechSpot
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "IBM assures AI-powered Cobol translator in Watsonx will not replace developers"
+    excerpt: "According to IBM's Z Software VP, Skyla Loomis, Watsonx is a \"developer assistant tool\" that uses AI but can't perform every task independently. The generative AI"
+    publishedDateTime: 2023-12-11T18:18:00Z
+    webUrl: "https://www.techspot.com/news/101157-ai-based-cobol-translator-watsonx-not-replace-developers.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 82
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/12/2023-12-11-image-17.jpg"
+        width: 2000
+        height: 1125
+        isCached: true
   - title: "IBM wants to use AI to upgrade COBOL"
     excerpt: "Before the COBOL cowboys die out Biggish blue has a cunning plan to use AI to convert COBOL code into something a little more modern. More than three trillion dollars’ worth of transactions are handled by COBOL code which has never been changed because it worked well."
     publishedDateTime: 2023-12-11T11:09:00Z

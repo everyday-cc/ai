@@ -86,6 +86,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Why Artificial Intelligence Requires High-Performance Computing"
+    excerpt: "Traditional data center technology isn’t powerful enough for ambitious AI projects, so businesses are adding clusters of graphic processing units."
+    publishedDateTime: 2023-12-11T21:26:00Z
+    webUrl: "https://biztechmagazine.com/article/2023/12/why-artificial-intelligence-requires-high-performance-computing"
+    ampWebUrl: "https://biztechmagazine.com/article/2023/12/why-artificial-intelligence-requires-high-performance-computing?amp"
+    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2023/12/why-artificial-intelligence-requires-high-performance-computing?amp"
+    type: article
+    provider:
+      name: BizTech
+      domain: biztechmagazine.com
+    quality: 57
+    images:
+      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202312/GettyImages-1407937651_0.jpg?itok=zX9KqBxL"
+        width: 1440
+        height: 500
+        isCached: true
   - title: "How to Make AI More Diverse"
     excerpt: "The New York Times published an article titled “Who’s Who Behind the Dawn of the Modern Artificial Intelligence Movement,” highlighting 12 different"
     publishedDateTime: 2023-12-10T12:30:00Z
@@ -114,6 +130,6 @@ related:
       domain: itwire.com
     quality: 14
 
-secured: "uLdBuD8gNWvd3wTSgzns+oRyAyEegLe9b2PTahAn0mqKkyWMqqguvOKCxj48DM7NQRcwFyb0q0/MITljgHlMOq5A9McbfR9QnyMUM+7u+9PoznbfSEfnMmIEpc3Vr4rV8MrTMjKKeg6HPKnvn6jVCdAzWxj/Rah6DjCy8S0HoHHzInFj/nJAA5JA15NOeapf1Vo0KqLfVjVy+sucOx0rHtLmOeNVaUv8UkM5GdNcgjQ8E3SJLowiNjx1+h/C1T+4oTdX4gl5kpPASKifrLAt0Xhqiu7vQ3mHkG/8DlfDf3PxjMU9+ZnkChYJvpequ9kATKG0un9l4dwozeyjdFRS488sOiiJgtnBjiFCGf2kiDI=;asfxLxXiT6kGmsmoL81AqQ=="
+secured: "O56N85csEEMSQficNLyFrAa8p5OEo/9iVGTPINdFQRWaXlOxpMmWD7PRWkAgf5Hg1S6/gQQWAkDpeTuSKmMqMccp0SUN92Oe7EIpMe65ld+A+N+8fhbMeKAMGNQN6BD/nGyYt7tYddQaLlP/kiwvOnbwUFhO0pL6FuGjzrNrCg6iRYnG4cUABtCKkCeccZGMTuWOzB3yOhIoufJL/7USqwFKOKL3QZud2mpeQ1Yv163cyT2Yq9JQeSVQy9aJIMxzRKHU1eGcRQP1xMZeewdU+hgfPK+mY/jkvmqqMzi0MJAJLZE+iOo1q76l52bK9MR+vl1H+Ndn43hGDFyCOPONO3rIxEyIeG/lYNZEKDGVDIt6ARqoS+aB9/J1VJz811kuKay7EtjEA609IP5Y1LuiFTNOOGu/hCGFEtJrUhtIzDITsvuPPZfgYia3j3IImjdbh/EKw+m0EIJRq2kbGe4sgYUDBz2ru68pcZXxsG0JeiMTbPAFjwpLT97EM7e9jMkw1qPn9NcyyHLs/n8MKDWDyw==;yav1bw24EDClDMeu2+JqwQ=="
 ---
 

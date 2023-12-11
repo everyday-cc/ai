@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/apple-mlx-framework-machine-l
 webUrl: "https://www.techrepublic.com/article/apple-mlx-framework-machine-learning/"
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apple drops new MLX machine learning framework for Apple silicon Macs"
-    excerpt: "Apple has released MLX, “an array framework for machine learning on Apple silicon, brought to you by Apple machine learning research.” MLX is designed by machine learning researchers for machine learning researchers."
-    publishedDateTime: 2023-12-06T20:21:00Z
-    webUrl: "https://9to5mac.com/2023/12/06/mlx-machine-learning-apple-silicon-mac/?extended-comments=1"
-    type: article
-    provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 54
-    images:
-      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/11/macbook-pro-space-black0011-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Apple quietly releases MLX AI framework to build foundation AI models"
     excerpt: "Apple's machine learning research team has quietly introduced and released a new machine learning framework called MLX, designed to optimize the"
     publishedDateTime: 2023-12-11T11:41:00Z

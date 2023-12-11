@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-11-the-advantages-and-disadvantages-of-hybrid-cloud.md",
+      "title": "The advantages and disadvantages of hybrid cloud",
+      "excerpt": "Business and IT leaders need to review the advantages and disadvantages of hybrid cloud adoption to reap its benefits.\nThe post The advantages and disadvantages of hybrid cloud appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/hybrid-cloud-advantages-disadvantages/",
+      "originalUrl": "https://www.ibm.com/blog/hybrid-cloud-advantages-disadvantages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-11T19:57:58Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-12-ibm-assures-ai-powered-cobol-translator-in-watsonx-will-not-replace-developers.md",
+      "title": "IBM assures AI-powered Cobol translator in Watsonx will not replace developers",
+      "excerpt": "According to IBM's Z Software VP, Skyla Loomis, Watsonx is a \"developer assistant tool\" that uses AI but can't perform every task independently. The generative AI",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/101157-ai-based-cobol-translator-watsonx-not-replace-developers.html",
+      "originalUrl": "https://www.techspot.com/news/101157-ai-based-cobol-translator-watsonx-not-replace-developers.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2023/12/2023-12-11-image-17.jpg",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-11T18:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-12-11-get-your-it-team-battle-ready-for-the-next-holiday-rush.md",
       "title": "Get your IT team battle-ready for the next holiday rush ",
       "excerpt": "Consider an AI-powered approach to incident management to diagnose, handle and react to online outages during peak shopping periods.\nThe post Get your IT team battle-ready for the next holiday rush  appeared first on IBM Blog.\n",
@@ -167,6 +262,40 @@
       ],
       "topics": [
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-05-ai-to-be-a-key-driver-in-chinas-industrial-upgradingibm-greater-china-chairman.md",
+      "title": "AI to be a Key Driver in China's Industrial Upgrading：IBM Greater China Chairman",
+      "excerpt": "BEIJING, December 5 (TMTPOST) -- Chen Xudong, the Chairman and the General Manager of IBM Greater China, said on Saturday that generative artificial intelligence (AI) has resulted in technological transformation and a big impact on various industries during a keynote speech delivered at the T-EDGE Conference.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sohu.com/a/741601722_116132",
+      "originalUrl": "https://www.sohu.com/a/741601722_116132",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-05T09:26:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "搜狐",
+        "domain": "sohu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
       ]
     },
     {
@@ -1204,126 +1333,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-16-ibm-launches-watsonxgovernance-to-optimize-ai-management.md",
-      "title": "IBM Launches Watsonx.governance to Optimize AI Management",
-      "excerpt": "International Business Machines Corporation IBM recently unveiled watsonx.governance, a new addition to its WatsonX AI solution suite, aimed at enhancing the management and monitoring of AI models ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/ibm-launches-watsonx.governance-to-optimize-ai-management",
-      "originalUrl": "https://www.nasdaq.com/articles/ibm-launches-watsonx.governance-to-optimize-ai-management",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T16:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-15-mit-ibm-watson-ai-lab-researchers-train-computers-to-understand-dynamic-events.md",
-      "title": "MIT-IBM Watson AI Lab researchers train computers to understand dynamic events",
-      "excerpt": "Researchers from the MIT-IBM Watson AI Lab want to make computers more “human.” The researchers are currently working on a project that will help computers understand and recognize dynamic events.",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ai/mit-ibm-watson-ai-lab-researches-train-computers-understand-dynamic-events/",
-      "originalUrl": "https://sdtimes.com/ai/mit-ibm-watson-ai-lab-researches-train-computers-understand-dynamic-events/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2018/04/MIT-Moments-Time-01_0.jpg",
-          "width": 639,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T12:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-15-ibm-extends-its-goals-for-ai-and-quantum-computing.md",
-      "title": "IBM Extends Its Goals For AI And Quantum Computing",
-      "excerpt": "Watson Research Center, IBM made a convincing argument that they are up to the task, especially in the fields of AI - generative AI, in particular - as well as quantum computing. What was ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4651508-ibm-extends-goals-ai-quantum-computing",
-      "originalUrl": "https://seekingalpha.com/article/4651508-ibm-extends-goals-ai-quantum-computing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T04:22:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

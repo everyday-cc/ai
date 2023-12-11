@@ -50,6 +50,20 @@ related:
       name: Wired
       domain: wired.com
     quality: 49
+  - title: "Google Gemini: Everything we know about the advanced AI model"
+    excerpt: "There are three versions of Gemini. The biggest is the Ultra model capable of \"seeing the world the way humans do\" through video, audio, text and images. The second is the Pro model, which is powering Google Bard and is similar in ability to the free ChatGPT."
+    publishedDateTime: 2023-12-11T15:37:00Z
+    webUrl: "https://www.tomsguide.com/features/google-gemini-everything-we-know-about-the-advanced-ai-model"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 41
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/TwMjTG2hMW5Z5McwPXyfsJ-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "4oSkf2S6EshxzZdNVBTwIEgH3TQC00Y8Ladr3nYLJhNL+e79NiunIreKGplptTywXiAhZzuLuBcKO1SJ1Ds4iRAJWqzpghfr7aXK3amHwhRw49S+ao5sZFuJ2oy3WMBrDI05Do4YwjRNKG4iyiIGBer9GEulyILky6cOvv9DuF6UysvU1F2wGm1CIUb/6DXSoQ0HlAG0a1/bMsXlsBPguimRBIPNNZvxHW7CVUSPdP7S/u1hfjdZiGnekh13AskBYNXCCzOTDPEEKxkD/t4PtyWR1Jhg7cx9jMlPIXD+VnLFO4YYi0eT40JUd0ivZKWPpr3HRlkhMJ229RWGUDLKIBPjz9+YCglKxZwmdmF2+f0yXsnyWvEQy8j9cm2Xjb/PxCniGs1oUdfOwvCSKhA/LZEHfOERP3V3Pa5g5r+ZrblzVw9E36l2w16nmJex6wAXczvkK+im+yfLCY1xWRZFMaIUeTHNq9V/sKfoasm7r4bXrFmq1BJF8FPOGswmcNI9Q5YZx4v8rBZS2wuiM+HdTw==;iicPd2mpacMc53NyOJRwXg=="
 ---

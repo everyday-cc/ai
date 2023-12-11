@@ -2,6 +2,144 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-12-11-how-accurate-were-our-2023-ai-predictions.md",
+      "title": "How Accurate Were Our 2023 AI Predictions?",
+      "excerpt": "Midjourney, which generates images from text prompts, is one of the hottest generative AI startups in the world. It has tens of millions of users and is reportedly on track to do $200 million in revenue in 2023. It has accomplished all of this without raising a cent of outside capital.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robtoews/2023/12/10/how-accurate-were-our-2023-ai-predictions/",
+      "originalUrl": "https://www.forbes.com/sites/robtoews/2023/12/10/how-accurate-were-our-2023-ai-predictions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65651b815b8054baa375034b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1374,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2023/12/10/how-accurate-were-our-2023-ai-predictions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2023/12/10/how-accurate-were-our-2023-ai-predictions/amp/",
+      "publishedDateTime": "2023-12-11T01:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-12-10-french-ai-start-up-mistral-ai-raises-385-mn-euros.md",
+      "title": "French AI Start-up Mistral AI Raises 385 Mn Euros",
+      "excerpt": "French artificial intelligence start-up Mistral AI announced Sunday it had raised 385 million euros ($414 million), becoming one of Europe's two AI leaders. Founded in May by industry heavyweights, Mistral had already raised 105 million euros in June.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/news/french-ai-start-up-mistral-ai-raises-385-mn-euros-7cc2d989",
+      "originalUrl": "https://www.barrons.com/news/french-ai-start-up-mistral-ai-raises-385-mn-euros-7cc2d989",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg",
+          "width": 1320,
+          "height": 742,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/news/french-ai-start-up-mistral-ai-raises-385-mn-euros-7cc2d989",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/french-ai-start-up-mistral-ai-raises-385-mn-euros-7cc2d989",
+      "publishedDateTime": "2023-12-10T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-09-ai-ethics-team-clears-adobes-products-india-unit-md.md",
+      "title": "AI ethics team clears Adobe’s products: India unit MD",
+      "excerpt": "Adobe India managing director Prativa Mohapatra on Friday said the company prioritises review of its AI ethics committee before going ahead with product development. This is done to ensure that whatever innovative technology Adobe is developing must be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/digital-transformation-ai-ethics-team-clears-adobes-products-india-unit-md-3333843/",
+      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-ai-ethics-team-clears-adobes-products-india-unit-md-3333843/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/12/Untitled-design-2023-12-08T214235.605.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-ai-ethics-team-clears-adobes-products-india-unit-md-3333843/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-ethics-team-clears-adobes-products-india-unit-md-3333843/lite/",
+      "publishedDateTime": "2023-12-09T15:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-09-amd-stock-all-eyes-on-the-new-ai-chip-heres-what-morgan-stanley-expects.md",
       "title": "AMD Stock: All Eyes on the New AI Chip — Here’s What Morgan Stanley Expects",
       "excerpt": "On Thursday, December 7, 2023, semiconductor chip powerhouse Advanced Micro Devices (NASDAQ:AMD) unveiled its newest line of chips designed",
@@ -62,7 +200,7 @@
       "originalUrl": "https://www.nytimes.com/2023/12/09/technology/openai-altman-inside-crisis.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -218,7 +356,7 @@
       "originalUrl": "https://www.forbes.com/sites/davealtavilla/2023/12/08/amd-unveils-ai-accelerators-from-cloud-to-client-with-mi300-leading-the-charge/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -270,7 +408,7 @@
       "originalUrl": "https://www.infoworld.com/article/3711284/meta-releases-open-source-tools-for-ai-safety.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -311,6 +449,59 @@
       "topics": [
         "Meta AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-09-chatgpt-vs-google-bard-round-2-how-does-the-new-gemini-model-fare.md",
+      "title": "ChatGPT vs. Google Bard, round 2: How does the new Gemini model fare?",
+      "excerpt": "Now, the AI days are a bit less “early,\" and this week's launch of a new version of Bard powered by Google's new Gemini language model seemed like a good excuse to revisit that chatbot battle with the same set of carefully designed prompts.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/ai/2023/12/chatgpt-vs-google-bard-round-2-how-does-the-new-gemini-model-fare/?view=archive",
+      "originalUrl": "https://arstechnica.com/ai/2023/12/chatgpt-vs-google-bard-round-2-how-does-the-new-gemini-model-fare/?view=archive",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/chatgpt-vs-bard-round2-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-08T19:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -364,7 +555,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/black-banx-path-to-fintech-eminence-innovation-and-success-1032886175",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -416,7 +607,7 @@
       "originalUrl": "https://deepmind.google/discover/blog/google-deepmind-at-neurips-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -519,7 +710,7 @@
       "originalUrl": "https://www.techrepublic.com/article/apple-mlx-framework-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -665,7 +856,7 @@
       "originalUrl": "https://www.forbes.com/sites/greatspeculations/2023/12/08/amd-takes-the-fight-to-nvidia-with-latest-ai-chip-launch-is-the-stock-a-buy-at-116/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 217,
+      "heat": 257,
       "tags": null,
       "images": [
         {
@@ -898,7 +1089,7 @@
       "originalUrl": "https://www.businessinsider.com/ai-startup-pitch-decks-used-to-raise-millions-from-vcs-2023-2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1041,213 +1232,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-08-not-sure-where-to-start-with-your-ai-strategy-here-are-3-steps.md",
-      "title": "Not Sure Where To Start With Your AI Strategy? Here Are 3 Steps",
-      "excerpt": "As the parenthetical mantra in the section title suggests, you need to feed the beast that is AI, and data is the food of choice. That requires a critical first step of knowing the data your company produces or can access, and what will be most helpful for AI applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brianuzzi/2023/12/07/not-sure-where-to-start-with-your-ai-strategy-here-are-3-steps/",
-      "originalUrl": "https://www.forbes.com/sites/brianuzzi/2023/12/07/not-sure-where-to-start-with-your-ai-strategy-here-are-3-steps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62b4c60b1c32ef4eb55bfc24/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1372,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brianuzzi/2023/12/07/not-sure-where-to-start-with-your-ai-strategy-here-are-3-steps/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brianuzzi/2023/12/07/not-sure-where-to-start-with-your-ai-strategy-here-are-3-steps/amp/",
-      "publishedDateTime": "2023-12-07T16:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-07-accelerating-cloud-native-development-in-microsoft-azure.md",
-      "title": "Accelerating cloud native development in Microsoft Azure",
-      "excerpt": "From GPU support to reference implementations, the latest updates to Azure Container Apps combine Microsoft’s commitment to developer productivity with its latest AI development tools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3711407/accelerating-cloud-native-development-in-microsoft-azure.html",
-      "originalUrl": "https://www.infoworld.com/article/3711407/accelerating-cloud-native-development-in-microsoft-azure.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2014/03/147256163-100250158-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3711407/accelerating-cloud-native-development-in-microsoft-azure.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711407/accelerating-cloud-native-development-in-microsoft-azure.amp.html",
-      "publishedDateTime": "2023-12-07T10:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-07-ai-translation-is-causing-a-boom-in-chinas-web-novel-industry.md",
-      "title": "AI Translation is Causing a Boom in China’s Web Novel Industry",
-      "excerpt": "As technology continues to evolve, it's expected that AI will play an even more pivotal role in bridging the gap between different cultures",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2023/12/07/ai-translation-china-web-novel-industry/",
-      "originalUrl": "https://www.gizmochina.com/2023/12/07/ai-translation-china-web-novel-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/07/hitesh-choudhary-t1PaIbMTJIM-unsplash-1024x575-1.jpg",
-          "width": 1024,
-          "height": 575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-07T03:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-07-google-announces-bard-advanced-its-most-advanced-gemini-powered-ai-helper.md",
-      "title": "Google announces Bard Advanced, it's most advanced Gemini-powered AI helper",
-      "excerpt": "Bard Advanced is powered by Google's Gemini Ultra AI model and will be available soon to select testers. It will go public early next year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/google-bard-advanced-3392203/",
-      "originalUrl": "https://www.androidauthority.com/google-bard-advanced-3392203/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Google-Bard-website-on-phone-7.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-07T02:37:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

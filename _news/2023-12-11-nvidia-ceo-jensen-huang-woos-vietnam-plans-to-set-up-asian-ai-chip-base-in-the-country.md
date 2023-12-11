@@ -9,8 +9,8 @@ ampWebUrl: "https://www.firstpost.com/tech/nvidia-ceo-jensen-huang-woos-vietnam-
 cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/nvidia-ceo-jensen-huang-woos-vietnam-plans-to-set-up-asian-ai-chip-base-in-the-country-13489822.html/amp"
 type: article
 quality: 66
-heat: 76
-published: true
+heat: -1
+published: false
 
 provider:
   name: Firstpost
@@ -27,14 +27,23 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia plans Vietnam expansion for AI development"
-    excerpt: "Nvidia, one of the market’s leading developers of artificial intelligence (AI) chips, announced its intentions to expand partnerships in Vietnam and set up a base in the country after a visit from the company’s CEO. Jensen Huang, Nvidia CEO ..."
-    publishedDateTime: 2023-12-11T00:00:00Z
-    webUrl: "https://cointelegraph.com/news/nvidia-vietnam-ai-development"
+  - title: "Nvidia contemplates Intel as potential manufacturing partner for GPU and AI chips"
+    excerpt: "Nvidia GPUs held more than 70 percent of the data center processor market share in the latest quarter, with the majority of chips being manufactured by"
+    publishedDateTime: 2023-12-11T20:00:00Z
+    webUrl: "https://www.techspot.com/news/101160-nvidia-contemplates-intel-potential-manufacturing-partner-gpu-ai.html"
     type: article
     provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
+      name: TechSpot
+      domain: techspot.com
+    quality: 74
+  - title: "YTL and Nvidia to build AI data centre in Johor"
+    excerpt: "YTL Power International revealed on Friday that it will collaborate with GPU chip maker Nvidia to build an AI data centre in Malaysia by the middle of next year."
+    publishedDateTime: 2023-12-11T02:44:00Z
+    webUrl: "https://developingtelecoms.com/telecom-technology/data-centres-networks/15929-ytl-and-nvidia-to-build-ai-data-centre-in-johor.html"
+    type: article
+    provider:
+      name: developingtelecoms.com
+      domain: developingtelecoms.com
     quality: 19
 
 secured: "qmpb3WGYBOOJpMZz3ZT8sDr+cy+KAUyzSmNQooqSI5LzR06s1NKTIxX2dVhvk6oM3uzJI/9ngEWe1Rz9PD+ALBtdzORMipRgnRavyjQuPWzhAF9J0UPUY/zZJRngNLYVkzu87qtNOmqkY3O8ylq8BrARw7xzSYvSk1hfTt6NRwg6qhNeFk6EpbRr0mimRJT7eUeMAXyfOo6WNBUCTdUMV34+WzP1OgGn9km0YdE2ZLoQSJ1e7WxcFyiQX1Nan+JQ/kGcxjRL1LOFPqc9C4lwj4Ly3uAwyDbS5y6BYdfoQevsY4lW97BhnRe5GH/xkJK1IYrvhGsGDiQktWWJBy3eatftZWi8e1LoPMq6iS29d1EY4vsmcmADvcnmuPdY10yBZ7tUNnXW5Lr2S5ZOLxSd7i/jSbAl+lXYOsn9wZojmz3UmEhpd0ZvV41pkPDr7l781xZGyVcioPggEEhNqiBcC474Ug+qiVXiKNfg0vc5eHYssD2pEQz+XxGomiUKRWqCIRL6xEuRINfmiThuglXtkg==;TfejM6nZabclJk5Y2nkFZg=="

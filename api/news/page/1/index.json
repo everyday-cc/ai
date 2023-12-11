@@ -2,6 +2,194 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-12-sports-illustrated-publisher-fires-ceo-after-ai-debacle.md",
+      "title": "Sports Illustrated publisher fires CEO after AI debacle",
+      "excerpt": "Digital publisher The Arena Group, which operates household brands such as Sports Illustrated and The Street, fired its chief executive on Monday amid a larger C-suite bloodbath, a spokesperson for the company told CNN.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/12/11/media/sports-illustrated-ai-articles-ceo/index.html",
+      "originalUrl": "https://www.cnn.com/2023/12/11/media/sports-illustrated-ai-articles-ceo/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/231211172440-ross-levinsohn-ceo-12062023.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/12/11/media/sports-illustrated-ai-articles-ceo/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/12/11/media/sports-illustrated-ai-articles-ceo/index.html",
+      "publishedDateTime": "2023-12-11T22:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-12-midjourney-vs-dall-e-2-ai-image-generators-comparison.md",
+      "title": "Midjourney vs. Dall-E 2: AI Image Generators Comparison",
+      "excerpt": "Explore our in-depth comparison of Midjourney and Dall-E 2. Learn about their unique features and find out which one is best suited for your creative projects.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/midjourney-vs-dall-e/",
+      "originalUrl": "https://www.techrepublic.com/article/midjourney-vs-dall-e/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/12/AdobeStock_638686268.jpeg",
+          "width": 1400,
+          "height": 784,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-11T20:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-12-nvidia-contemplates-intel-as-potential-manufacturing-partner-for-gpu-and-ai-chips.md",
+      "title": "Nvidia contemplates Intel as potential manufacturing partner for GPU and AI chips",
+      "excerpt": "Nvidia GPUs held more than 70 percent of the data center processor market share in the latest quarter, with the majority of chips being manufactured by",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/101160-nvidia-contemplates-intel-potential-manufacturing-partner-gpu-ai.html",
+      "originalUrl": "https://www.techspot.com/news/101160-nvidia-contemplates-intel-potential-manufacturing-partner-gpu-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-11T20:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-11-the-advantages-and-disadvantages-of-hybrid-cloud.md",
+      "title": "The advantages and disadvantages of hybrid cloud",
+      "excerpt": "Business and IT leaders need to review the advantages and disadvantages of hybrid cloud adoption to reap its benefits.\nThe post The advantages and disadvantages of hybrid cloud appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/hybrid-cloud-advantages-disadvantages/",
+      "originalUrl": "https://www.ibm.com/blog/hybrid-cloud-advantages-disadvantages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-11T19:57:58Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-12-top-10-quantum-computing-companies-making-change.md",
       "title": "Top 10 Quantum Computing Companies Making Change",
       "excerpt": "Quantum computers change the way we process information and solve problems. Here are the top quantum computing companies revolutionizing industries.",
@@ -54,15 +242,15 @@
       ]
     },
     {
-      "path": "_news/2023-12-12-ai-based-cobol-translator-watsonx-will-not-replace-developers-ibm-assures.md",
-      "title": "AI-based COBOL translator Watsonx will not replace developers, IBM assures",
-      "excerpt": "According to IBM's Vice President of IBM Z Software, Skyla Loomis, Watsonx is a \"developer assistant tool\" that uses AI but can't perform every task independently.",
+      "path": "_news/2023-12-12-ibm-assures-ai-powered-cobol-translator-in-watsonx-will-not-replace-developers.md",
+      "title": "IBM assures AI-powered Cobol translator in Watsonx will not replace developers",
+      "excerpt": "According to IBM's Z Software VP, Skyla Loomis, Watsonx is a \"developer assistant tool\" that uses AI but can't perform every task independently. The generative AI",
       "sourceUrl": null,
       "webUrl": "https://www.techspot.com/news/101157-ai-based-cobol-translator-watsonx-not-replace-developers.html",
       "originalUrl": "https://www.techspot.com/news/101157-ai-based-cobol-translator-watsonx-not-replace-developers.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -101,8 +289,9 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI"
+        "IBM AI",
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -114,7 +303,7 @@
       "originalUrl": "https://www.technologyreview.com/2023/12/11/1084942/five-things-you-need-to-know-about-the-eus-new-ai-act/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -201,7 +390,7 @@
       "originalUrl": "https://www.technologyreview.com/2023/12/11/1084926/human-brain-cells-chip-organoid-speech-recognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -288,7 +477,7 @@
       "originalUrl": "https://www.forbes.com/sites/zendesk/2023/12/11/5-ways-companies-can-promote-more-sustainable-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -339,7 +528,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/11/why-generative-ai-makes-sense-for-edge-computing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 171,
       "tags": null,
       "images": [
         {
@@ -665,7 +854,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/12/11/heres-how-the-famous-dodo-verdict-or-tie-score-effect-in-mental-health-therapy-can-astutely-leverage-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -856,49 +1045,6 @@
       ]
     },
     {
-      "path": "_news/2023-12-11-nvidia-ceo-jensen-huang-woos-vietnam-plans-to-set-up-asian-ai-chip-base-in-the-country.md",
-      "title": "NVIDIA CEO Jensen Huang woos Vietnam, plans to set up Asian AI Chip base in the country",
-      "excerpt": "NVIDIA has some major plans for Vietnam and is seeing the country as its main base in Asia for designing and manufacturing AI chips for the Asian market as well as the rest of the world. For that, NVI",
-      "sourceUrl": null,
-      "webUrl": "https://www.firstpost.com/tech/nvidia-ceo-jensen-huang-woos-vietnam-plans-to-set-up-asian-ai-chip-base-in-the-country-13489822.html",
-      "originalUrl": "https://www.firstpost.com/tech/nvidia-ceo-jensen-huang-woos-vietnam-plans-to-set-up-asian-ai-chip-base-in-the-country-13489822.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.firstpost.com/wp-content/uploads/2023/12/NVIDIA-CEO-Jensen-Huang-woos-Vietnam-plans-to-set-up-Asian-AI-Chip-base-in-the-country-.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.firstpost.com/tech/nvidia-ceo-jensen-huang-woos-vietnam-plans-to-set-up-asian-ai-chip-base-in-the-country-13489822.html/amp",
-      "cdnAmpWebUrl": "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/nvidia-ceo-jensen-huang-woos-vietnam-plans-to-set-up-asian-ai-chip-base-in-the-country-13489822.html/amp",
-      "publishedDateTime": "2023-12-11T08:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Firstpost",
-        "domain": "firstpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-12-11-artificial-intelligence-detects-brain-tumors-in-90-seconds.md",
       "title": "Artificial intelligence detects brain tumors in 90 seconds",
       "excerpt": "ALBAWABA - Researchers at the University of Michigan have developed an artificial intelligence (AI) system that can detect genetic mutations in cancerou",
@@ -1033,144 +1179,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-how-accurate-were-our-2023-ai-predictions.md",
-      "title": "How Accurate Were Our 2023 AI Predictions?",
-      "excerpt": "Midjourney, which generates images from text prompts, is one of the hottest generative AI startups in the world. It has tens of millions of users and is reportedly on track to do $200 million in revenue in 2023. It has accomplished all of this without raising a cent of outside capital.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robtoews/2023/12/10/how-accurate-were-our-2023-ai-predictions/",
-      "originalUrl": "https://www.forbes.com/sites/robtoews/2023/12/10/how-accurate-were-our-2023-ai-predictions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65651b815b8054baa375034b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1374,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2023/12/10/how-accurate-were-our-2023-ai-predictions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2023/12/10/how-accurate-were-our-2023-ai-predictions/amp/",
-      "publishedDateTime": "2023-12-11T01:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-12-10-french-ai-start-up-mistral-ai-raises-385-mn-euros.md",
-      "title": "French AI Start-up Mistral AI Raises 385 Mn Euros",
-      "excerpt": "French artificial intelligence start-up Mistral AI announced Sunday it had raised 385 million euros ($414 million), becoming one of Europe's two AI leaders. Founded in May by industry heavyweights, Mistral had already raised 105 million euros in June.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/french-ai-start-up-mistral-ai-raises-385-mn-euros-7cc2d989",
-      "originalUrl": "https://www.barrons.com/news/french-ai-start-up-mistral-ai-raises-385-mn-euros-7cc2d989",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg",
-          "width": 1320,
-          "height": 742,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/french-ai-start-up-mistral-ai-raises-385-mn-euros-7cc2d989",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/french-ai-start-up-mistral-ai-raises-385-mn-euros-7cc2d989",
-      "publishedDateTime": "2023-12-10T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-09-ai-ethics-team-clears-adobes-products-india-unit-md.md",
-      "title": "AI ethics team clears Adobe’s products: India unit MD",
-      "excerpt": "Adobe India managing director Prativa Mohapatra on Friday said the company prioritises review of its AI ethics committee before going ahead with product development. This is done to ensure that whatever innovative technology Adobe is developing must be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/digital-transformation-ai-ethics-team-clears-adobes-products-india-unit-md-3333843/",
-      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-ai-ethics-team-clears-adobes-products-india-unit-md-3333843/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/12/Untitled-design-2023-12-08T214235.605.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-ai-ethics-team-clears-adobes-products-india-unit-md-3333843/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-ethics-team-clears-adobes-products-india-unit-md-3333843/lite/",
-      "publishedDateTime": "2023-12-09T15:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

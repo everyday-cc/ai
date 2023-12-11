@@ -2,27 +2,25 @@
 category: news
 title: "BigBear.ai Expands its Relationship with AWS to Deliver AI-Driven Solutions"
 excerpt: "BigBear.ai continues to expand its capabilities to serve the commercial enterprise sector and is proud to advance this new effort with AWS."
-publishedDateTime: 2023-12-11T13:18:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/12/11/9931286.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/12/11/9931286.htm"
+publishedDateTime: 2023-12-11T14:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/bigbear-ai-expands-its-relationship-with-aws-to-deliver-ai-driven-solutions-1032889378"
+webUrl: "https://markets.businessinsider.com/news/stocks/bigbear-ai-expands-its-relationship-with-aws-to-deliver-ai-driven-solutions-1032889378"
 type: article
-quality: 52
+quality: 62
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://images.tmcnet.com/tmc/world.jpg"
-    width: 1200
-    height: 627
-    isCached: true
 
 related:
   - title: "Ethics In AI: A Conversation With Diya Wynn, AWS Responsible AI Lead"
@@ -51,6 +49,6 @@ related:
       domain: hrexecutive.com
     quality: 34
 
-secured: "ZesU/0ic39dlrG17/24fgRere2Usda9kPxWEPKNpXAEPF4Po2qcFdWmvwdHSsybB3QPEWNHc3hhJ1BqJ/hlLovWZtwFHPPN/rZ9VDeCXIgMHCYaKh7ReQxBKGPdFGenS75l/0+CPzrpQaUwrATOMUEwP3/FAjrO7XVX18DvQSS3opO4gibOImtaKMVsVh5OPqpaTefPnV4oI/eSwz9bHktlYq8fXjdy0yf72kjYrSWdXrO3ipUKEDrLQHPkraL1zIu8NXb0FE8c4PWkjx+iQzcGYEJCvzgODCxt44GNNPiB2ULn7Uaq4k22UtKIY2J6XUPmyomZ194RtK812cnRN0PSE9Y1N6bVuAh2NwOKAgpE=;srDgauXQ/g5r3myQAI3FmA=="
+secured: "DQ/EsJxFBNIBPAMMwkPJ56iC5KRcIGRRXUefJ27uedbozVL6IY7gMYkE88ANCtT4WNqEJR1RJwdGMt3sgXnShCwfJP4wnI2XYC6RvTh2oyyVQzAD7xcJRdj/U4nclG8SefUI3dWCAAyBcmSZzNMu16C68/ov1JkWuy2yuj3GYWIQ6lDmZFlSPTVVx8fNbQAs5f+Pr58A1lZl7GVVGzRP5iN+J9RNq85PNJa9s1/MWkRUum2iJdIUkYYDpj85FB1i5mkwwp7gESrAAHjGSWPVXEIzMwsVM5YhoacZOcCfOVurrtdLEEGBomjViGkpztSH4ydzKyhw2Wb4QiDYVLs+D6SX9ovRP71rpxk6QByvZd8=;kWS4oBPrxvWKCe1iyyBBGg=="
 ---
 

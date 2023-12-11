@@ -1,28 +1,20 @@
 ---
 category: news
 title: "UP Assembly to introduce speech recognition software"
-excerpt: "A tender has been issued for the development and procurement of the software and the entire process is being conducted through the e-tender portal. The new software is expected to bring a host of features aimed at facilitating a seamless and structured conduct of sessions within the assembly,"
-publishedDateTime: 2023-11-28T03:35:00Z
-originalUrl: "https://economictimes.indiatimes.com/news/india/up-assembly-to-introduce-speech-recognition-software/articleshow/105548107.cms"
-webUrl: "https://economictimes.indiatimes.com/news/india/up-assembly-to-introduce-speech-recognition-software/articleshow/105548107.cms"
-ampWebUrl: "https://m.economictimes.com/news/india/up-assembly-to-introduce-speech-recognition-software/amp_articleshow/105548107.cms"
-cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/india/up-assembly-to-introduce-speech-recognition-software/amp_articleshow/105548107.cms"
+excerpt: "The Uttar Pradesh Assembly will now introduce speech recognition software. A tender has been issued for the development and procurement of the software and the entire process is being conducted through the e-tender portal."
+publishedDateTime: 2023-11-28T03:59:00Z
+originalUrl: "https://www.ibtimes.co.in/assembly-introduce-speech-recognition-software-864259"
+webUrl: "https://www.ibtimes.co.in/assembly-introduce-speech-recognition-software-864259"
 type: article
 
 provider:
-  name: Indiatimes
-  domain: indiatimes.com
+  name: IBTimes India
+  domain: ibtimes.co.in
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-150000,msid-105548197/up-assembly-to-introduce-speech-recognition-software.jpg"
-    width: 600
-    height: 450
-    isCached: true
-
-secured: "Sggp0sTovrB1Tv7Y0Wrg2MdL/DQUUVo9ZfRkb12j3iqdR/F1oolbACOG2QjodpgSqOGDuk1wCVDggn9aQ3i1LcgkUiiGWhmK2HC9bXTTkN4d02F7yqoCiBVajoWDlWmszDPhjON3bvY+wNOOy24alWmcuqJUxhMc+d7q5PYZe6IVASRqDRi0nWHBZwYB+4seehhUeliMzN4Yu8f3oimKHYf4EZxIPSg3Lxaf2Uy0r5KFf1biAYTIOTwcdSKmSRT37aGDGEtRnQjYDG4XV6mJzPbBTojoGN8BqxBrpb52QBIjircST6wE/FvyQV0MvWPSngbbufZI2Fc3Gvz/RkMm8riIJsLowrQ+4LHFU51e4Jzjym2h/5neONQT9eSuHpUWVYZ2OoG69AMkMYsL70Riuy8KuMNWPwpBZUdZsMWJ6MOZNG/178cExW/m5MXOgLeP3MvCA53MHBkLA40XZUC7hnEGfziM7qW0ZWGrsI0emUWNGGxdqnfshBqum11lnRWQmrn+kysbpmBYfoNZxBgI+Q==;PBBLV6LbbC4mBPghGztE2Q=="
+secured: "Jx9hksjOMWN/GU6t9fSQbHjq4tIA6mCAx9mbPe9n28jw/yXDk5th5TLVaIDdl7XVwmuY3FOUV9ZqQ9k/raGY40LDj7Hebi41SahY0ZVqNQijWjvWYVI3hHefmGDHPA/o8KKH+DAuIelD4kUkaF0F2i6fVr+XEaQpRUHn/Owwg0FbagigamGs3IozbsnwhuF3rYnhJqlu5ntKjTksEGzO4eTbJf3fZCA59i1fiiMmSBca2a6IIeZls6/R/Mt1Vs8WCs7NFmDvpqyacnE6X8nMG5U0aKBZalCbgMlmRarVM5mUcZCnHCggTNLvI8SdoW6m6eM5tYc4UfQg5fjXbq7dEqjbFTSMzbBjOCqOwiEfH+rvsAXxu4I6+UnRKmxXZL9wNoFCoqr9c14oEuvJkVDQgWSXubYMLpqsigSUTY8my/U767CArPVgbcmVEWv0zLnzgr00odoHr3di8scl41M4z1vl9V1NueSBIbFg6//LJUsam6VtRFpHw7rbY2HyC/Ff1nEK1WYs2GQNxGobQmzpNA==;8MLI9pkTs7wo74RvGz+jcA=="
 ---
 

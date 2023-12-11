@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-09-chatgpt-vs-google-bard-round-2-how-does-the-new-gemini-model-fare.md",
+      "title": "ChatGPT vs. Google Bard, round 2: How does the new Gemini model fare?",
+      "excerpt": "Now, the AI days are a bit less “early,\" and this week's launch of a new version of Bard powered by Google's new Gemini language model seemed like a good excuse to revisit that chatbot battle with the same set of carefully designed prompts.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/ai/2023/12/chatgpt-vs-google-bard-round-2-how-does-the-new-gemini-model-fare/?view=archive",
+      "originalUrl": "https://arstechnica.com/ai/2023/12/chatgpt-vs-google-bard-round-2-how-does-the-new-gemini-model-fare/?view=archive",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/chatgpt-vs-bard-round2-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-08T19:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-08-google-deepmind-at-neurips-2023.md",
       "title": "Google DeepMind at NeurIPS 2023",
       "excerpt": "The Neural Information Processing Systems (NeurIPS) is the largest artificial intelligence (AI) conference in the world. NeurIPS 2023 will be taking place December 10-16 in New Orleans, USA.Teams from across Google DeepMind are presenting more than 150 papers at the main conference and workshops.",
@@ -10,7 +63,7 @@
       "originalUrl": "https://deepmind.google/discover/blog/google-deepmind-at-neurips-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -106,58 +159,6 @@
       ]
     },
     {
-      "path": "_news/2023-12-07-google-announces-bard-advanced-its-most-advanced-gemini-powered-ai-helper.md",
-      "title": "Google announces Bard Advanced, it's most advanced Gemini-powered AI helper",
-      "excerpt": "Bard Advanced is powered by Google's Gemini Ultra AI model and will be available soon to select testers. It will go public early next year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/google-bard-advanced-3392203/",
-      "originalUrl": "https://www.androidauthority.com/google-bard-advanced-3392203/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Google-Bard-website-on-phone-7.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-07T02:37:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-12-07-google-updates-bard-chatbot-with-gemini-ai-as-it-chases-chatgpt.md",
       "title": "Google Updates Bard Chatbot With ‘Gemini’ A.I. as It Chases ChatGPT",
       "excerpt": "After more than eight months of research and development, Google has unveiled its most powerful A.I. so far. But only parts of it are widely available.",
@@ -241,6 +242,50 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-04-google-bard-vs-chatgpt-updated-december-2023.md",
+      "title": "Google Bard vs ChatGPT – Updated December 2023",
+      "excerpt": "There’s a war going on between ChatGPT and Google Bard. Both chatbots are insanely powerful, and they’re good enough to really help people out (or help them out of a job). Since Google is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidheadlines.com/google-bard-vs-chatgpt.html",
+      "originalUrl": "https://www.androidheadlines.com/google-bard-vs-chatgpt.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidheadlines.com/wp-content/uploads/2023/05/Bard-and-OpenAI-Logo.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.androidheadlines.com/google-bard-vs-chatgpt.html?amp",
+      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/google-bard-vs-chatgpt.html?amp",
+      "publishedDateTime": "2023-12-04T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android",
+        "domain": "androidheadlines.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -565,22 +610,13 @@
       "title": "Google’s DeepMind finds 2.2M crystal structures in materials science win",
       "excerpt": "Google DeepMind researchers have discovered 2.2 million crystal structures that open potential progress in fields from renewable energy to advanced computation, and show the power of artificial intelligence to discover novel materials.",
       "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/ai/2023/11/googles-deepmind-finds-2-2m-crystal-structures-in-materials-science-win/?view=mobile",
-      "originalUrl": "https://arstechnica.com/ai/2023/11/googles-deepmind-finds-2-2m-crystal-structures-in-materials-science-win/?view=mobile",
+      "webUrl": "https://arstechnica.com/ai/2023/11/googles-deepmind-finds-2-2m-crystal-structures-in-materials-science-win/",
+      "originalUrl": "https://arstechnica.com/ai/2023/11/googles-deepmind-finds-2-2m-crystal-structures-in-materials-science-win/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/deepmindlist-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "",
       "type": "article",
       "ampWebUrl": null,
@@ -1379,58 +1415,6 @@
         "AI",
         "Google AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-11-10-this-new-breed-of-ai-assistant-wants-to-do-your-boring-office-chores.md",
-      "title": "This New Breed of AI Assistant Wants to Do Your Boring Office Chores",
-      "excerpt": "An experimental AI helper attempts to operate a web browser in the same way a human does to take on office admin like processing invoices or screening job applicants.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/this-new-breed-of-ai-assistant-wants-to-do-your-boring-office-chores/",
-      "originalUrl": "https://www.wired.com/story/this-new-breed-of-ai-assistant-wants-to-do-your-boring-office-chores/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/654c219798d337ba5af8c646/191:100/w_1280,c_limit/110823-business-ai-office-chores.png",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-09T16:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

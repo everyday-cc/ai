@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/news/french-ai-start-up-mistral-ai-raise
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/french-ai-start-up-mistral-ai-raises-385-mn-euros-7cc2d989"
 type: article
 quality: 57
-heat: 108
+heat: 107
 published: true
 
 provider:

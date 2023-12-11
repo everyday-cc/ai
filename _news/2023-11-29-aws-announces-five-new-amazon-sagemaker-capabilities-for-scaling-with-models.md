@@ -1,28 +1,26 @@
 ---
 category: news
 title: "AWS Announces Five New Amazon SageMaker Capabilities for Scaling with Models"
-excerpt: "Amazon SageMaker Canvas helps customers build ML models and generate predictions without writing a single line of code. Today's announcement expands on SageMaker Canvas' existing, ready-to-use ..."
-publishedDateTime: 2023-11-29T12:27:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/11/b36007220/aws-announces-five-new-amazon-sagemaker-capabilities-for-scaling-with-models"
-webUrl: "https://www.benzinga.com/pressreleases/23/11/b36007220/aws-announces-five-new-amazon-sagemaker-capabilities-for-scaling-with-models"
-ampWebUrl: "https://www.benzinga.com/amp/content/36007220"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36007220"
+excerpt: "At AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced five new capabilities within Amazon SageMaker to help accelerate building ..."
+publishedDateTime: 2023-11-29T00:00:00Z
+originalUrl: "https://www.enidnews.com/region/aws-announces-five-new-amazon-sagemaker-capabilities-for-scaling-with-models/article_c3c24995-5c67-5028-85a8-ef320c7846e6.html"
+webUrl: "https://www.enidnews.com/region/aws-announces-five-new-amazon-sagemaker-capabilities-for-scaling-with-models/article_c3c24995-5c67-5028-85a8-ef320c7846e6.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Enid News & Eagle
+  domain: enidnews.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://bloximages.chicago2.vip.townnews.com/enidnews.com/content/tncms/custom/image/274f102e-c5aa-11e8-8594-87a63e6d4522.jpg?resize=600%2C315"
+    width: 600
+    height: 315
     isCached: true
 
-secured: "PPCu+VW3Rmx0yDDvdeN3WC1Ix30wbjhlBqauutt1hfXKAX0StXAZbdMvVGnwGUNEmmrI4Mi7fdnjn4uoP/H2yZ7BIiMkScC5yhl6evf1X8QDFShkihiRql/VYJdUngjwunNMUki544f7YaOUfAtzZFNtyKALctU6MFYTAlSiUc1V2eQBsPBto5lFjFFcHA8jlg1W/FVBcPd6FoxN0mnNrry98aY/gYRxNiyr4lw7i0z8zXCDn6fDGr60hkmIOR/C3VCSDUSsdH3OMZ7OsXs1SCs/qjp2mHzgbze08eWHM+KT7TAdpspZD30CP5nPOmL5tKqMbL4Zcj/fN8HMh2VAvE2EWX0OsNObm2R2gRhTpJ0=;1Vt4VJt+A3oXV365o3rO0w=="
+secured: "oEkwpHMIIZYib98l9Njq0PfiyNOU9yOdkBdpXopPjZgsW7ZLZ8tNHAGWN1qL4c9GaGHFiWzUobesVelNueibVtk0+jYL6h3rRlqfK4r0J2qGUYJ2Nuj8IHgPuLBajWwvIXq2c86heUpntyxC/EAe+E2mpQuQ7H5ZT/E4B4DMq/99Qqy1GfFNr1JApx41dhC+ql+mt0hmrmgZHuBZx4Ge4pgG3cqNo8NWpR+wNVkKO712rSOF2MBz3RqWL4buJDuq7wP4epTo4fjvs0Gq7jIWJH2Zpj/NNYL2slsc8YKE1t9YhIDSnGM38KK81FALrrpcLZ8r+mn5NkLPWH+JNX6QVxY9y/p4AVEgznTFeg1M4PA=;vWmZBbgg+YHofb09F730UQ=="
 ---
 

@@ -45,6 +45,22 @@ related:
         width: 1161
         height: 774
         isCached: true
+  - title: "U.S. discusses AI Chip sales to China with Nvidia, says Raimondo"
+    excerpt: "The U.S. government is currently in talks with NVIDIA (NVDA) regarding the conditions under which it can sell AI chips to China. The administration has made it clear that Nvidia (NASDAQ: NVDA) is not allowed to export its most sophisticated semiconductors to Chinese companies."
+    publishedDateTime: 2023-12-11T20:36:00Z
+    webUrl: "https://au.investing.com/news/stock-market-news/us-discusses-ai-chip-sales-to-china-with-nvidia-says-raimondo-432SI-3060981"
+    ampWebUrl: "https://m.au.investing.com/news/stock-market-news/us-discusses-ai-chip-sales-to-china-with-nvidia-says-raimondo-432SI-3060981?ampMode=1"
+    cdnAmpWebUrl: "https://m-au-investing-com.cdn.ampproject.org/c/s/m.au.investing.com/news/stock-market-news/us-discusses-ai-chip-sales-to-china-with-nvidia-says-raimondo-432SI-3060981?ampMode=1"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 91
+    images:
+      - url: "https://i-invdn-com.investing.com/news/moved_LYNXMPEHAH0WT_L.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "AMD now sees a $400 billion market for AI chips. Why that's good news for Nvidia"
     excerpt: "Advanced Micro Devices has jacked up its market forecast for artificial intelligence chips to an eye-popping $400 billion by 2027. The chipmaker is sure to see its slice of that pie grow in the coming years, but the industry’s dominant player, Nvidia, is well-positioned to handle the emergent competition."
     publishedDateTime: 2023-12-08T09:01:00Z
@@ -128,6 +144,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 57
+  - title: "US in talks with Nvidia about AI chip sales to China"
+    excerpt: "Nvidia said it is working closely with the US government to ensure chips sold to China were compliant with export curbs. (Reuters pic) NASHUA: The Biden administration is in discussions with Nvidia Corp about permissible sales of artificial intelligence chips to China but emphasised that it cannot sell its most advanced semiconductors to Chinese firms."
+    publishedDateTime: 2023-12-11T22:37:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/business/2023/12/12/us-in-talks-with-nvidia-about-ai-chip-sales-to-china/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 51
   - title: "AMD AI Chip Challenges Nvidia’s H100 as Rivalry Enters New Era"
     excerpt: "AMD's new MI300X AI chipset, coupled with the ROCm6 software, is set to compete with the Nvidia H100 as their GPU rivalry enters a new era."
     publishedDateTime: 2023-12-07T14:30:00Z
@@ -136,6 +161,15 @@ related:
     provider:
       name: https//beincrypto.com
       domain: beincrypto.com
+    quality: 34
+  - title: "China Firms Rush to Poach Nvidia Clients With AI Chip Offerings"
+    excerpt: "Chinese chip designers are rushing to chip away Nvidia’s market share at home with their own artificial intelligence (AI)-focused offerings."
+    publishedDateTime: 2023-12-11T20:04:00Z
+    webUrl: "https://cbonds.com/news/2625007/"
+    type: article
+    provider:
+      name: Cbonds
+      domain: cbonds.com
     quality: 34
   - title: "AMD's New AI Chip MI300X Eyes Market Lead, Challenges Nvidia's Dominance"
     excerpt: "AMD has begun selling a product that it thinks could challenge Nvidias domination of the artificial intelligence processor industry, which it estimates will be worth $400 billion by 2027. AMD Introduces A New"
@@ -173,6 +207,15 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 19
+  - title: "AMD Is Set To Challenge Nvidia's Dominance And Amazon Is Going After Microsoft's Early-Start AI Advantage"
+    excerpt: "According to analysts, Nvidia Corporation (NASDAQ: NVDA) controls roughly 80% of the AI chip market, when including the custom processors built by companies such as Alphabet (NASDAQ: GOOG)-owned Googl"
+    publishedDateTime: 2023-12-11T18:23:00Z
+    webUrl: "https://www.benzinga.com/markets/23/12/36183243/amd-is-set-to-challenge-nvidias-dominance-and-amazon-is-going-after-microsofts-early-start-ai-advant"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 17
 
 secured: "p+tKPmJzJAGGAIUHoiUWF2A+TthJ0D0ic2oEn8Ig790pj8Rlnu2RwUlqaaJNoXo+UFzb7Gls2UvCOfkvFW3jC0bZX9AWFWcUMVURGH8WQbVD4YQXbdwb1py4ovtlniMMPgvTpZPdzCae4Bxxnqf4Gh2gaZAX5oxkcgmXHydVgTAd2qsiane6L5hxeBOllcTf+RPpS9Fv9W02mSt3hMV/0TQoi0s/F30GsmmIZydwYt1m122//SG/VpkZrPiQxrbTfCIPqQszbqcvfskfRAwclaBUfb3fp/WqIL8iiIFClZyxtIWYX8PjbfyZzBookRZLc/o5dY7lprm7B5MTBnlAPAZgmaZZDCe6ZfJgoKdB0dg=;8nsS9IacLWI2qv5iAytSYg=="
 ---

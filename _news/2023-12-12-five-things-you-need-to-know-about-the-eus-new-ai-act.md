@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2023/12/11/1084942/five-things-you-
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/11/1084942/five-things-you-need-to-know-about-the-eus-new-ai-act/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 90
 published: true
 
 provider:
@@ -50,7 +50,21 @@ related:
       name: Wired
       domain: wired.com
     quality: 49
+  - title: "Google Gemini: Everything we know about the advanced AI model"
+    excerpt: "There are three versions of Gemini. The biggest is the Ultra model capable of \"seeing the world the way humans do\" through video, audio, text and images. The second is the Pro model, which is powering Google Bard and is similar in ability to the free ChatGPT."
+    publishedDateTime: 2023-12-11T15:37:00Z
+    webUrl: "https://www.tomsguide.com/features/google-gemini-everything-we-know-about-the-advanced-ai-model"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 41
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/TwMjTG2hMW5Z5McwPXyfsJ-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
-secured: "f4uyz65QfBb59grDf5OqYZ3OCv5Wvs5YxJEQ5ofVAIEiXyNejcEkg0jM62TsuDS7SAD7RwkzHboPBqovTLatsTR32wXsChUEwesMt8/k8gTw6qS/ACgxgscvJkLURNxrgzCPimG3xyrK/NPCIp2Veh9RncLqJUmaPwtX+kxhtobdLt6IsZghpJQJvq8ozLSGwYDOB9hu7mCNLetoZQ1wa2CF+Wy8PdOn91QSEu+hZbl76SxCK8LCtehRNzBBzjd+pX2WIem8UUVKpfPNpEmpa+M23YTxWfzBDBjDZFQDG6XnmRA/CCyUBrgHrtbY8GZvR3mLlBRjnK71YuLcXVGSFLarVEyzNWuN7zq009nXmEE=;OWeyaQxs8MqANRVZ7Au6rA=="
+secured: "vLCmRgK4K2EnmPXy2BBgsn1GomVwGCfce+fRCjGUjceZ3KIs7hiabKOCILcuQD1x2aVtw2lPN1cbFdmybSU6ajBGbMXD2t8MRUSoknX/gPh6u+RM0uS9Ad7dGSWUu8ORUEyobjKhUJ5YOhPhtN9o7d/56eN/XMpacKRITgYn9ZlScXiMuO/octQvcr0h7Xb6fAD0ENgForgTqF0Qc3ONhdmg1Nrnt34omd24hvefE9DNE9S7uq6V9LN1dNcWfaI1F1U+pBAYSucgzTACIloi/Qe+Kuhp3n3ScZjkfeV5hO4lPWgViUlVOfRKdvtEGNcK+WIfVAwHZXLaQ+1FoU9Gqlc0YkSLr+ojE6fnrFSp+fOOsovMq5y9nu9t7NaJU7G9W+HQfqEWH+ZnykEzlxh4VzhLFWIHsuvaIHVOVBLyh7mHQY+UDUvtlILY4Rw0x4pp3TSOjYd9C2Ige10h6qYWFrVSVRKoUqRtlsYUKfTC4vgiEk5EGycp6oKbWeHvwfvAprqU7kKlkhj5jpxqR7KH0g==;3MYawbcR4ahGP5/8TzeDLQ=="
 ---
 

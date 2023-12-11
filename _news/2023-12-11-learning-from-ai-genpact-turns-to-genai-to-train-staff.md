@@ -73,6 +73,22 @@ related:
         width: 1400
         height: 900
         isCached: true
+  - title: "Why Artificial Intelligence Requires High-Performance Computing"
+    excerpt: "Traditional data center technology isn’t powerful enough for ambitious AI projects, so businesses are adding clusters of graphic processing units."
+    publishedDateTime: 2023-12-11T21:26:00Z
+    webUrl: "https://biztechmagazine.com/article/2023/12/why-artificial-intelligence-requires-high-performance-computing"
+    ampWebUrl: "https://biztechmagazine.com/article/2023/12/why-artificial-intelligence-requires-high-performance-computing?amp"
+    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2023/12/why-artificial-intelligence-requires-high-performance-computing?amp"
+    type: article
+    provider:
+      name: BizTech
+      domain: biztechmagazine.com
+    quality: 57
+    images:
+      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202312/GettyImages-1407937651_0.jpg?itok=zX9KqBxL"
+        width: 1440
+        height: 500
+        isCached: true
   - title: "How to Make AI More Diverse"
     excerpt: "The New York Times published an article titled “Who’s Who Behind the Dawn of the Modern Artificial Intelligence Movement,” highlighting 12 different"
     publishedDateTime: 2023-12-10T12:30:00Z

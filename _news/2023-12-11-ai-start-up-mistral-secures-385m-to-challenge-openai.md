@@ -68,6 +68,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Elon Musk’s AI bot, Grok, speaks as if made by OpenAI in some tests, causing a stir"
+    excerpt: "Grok, the AI language model created by Elon Musk's xAI, went into wide release last week, and people have begun spotting glitches. On Friday, security tester Jax Winterbourne tweeted a screenshot of Grok denying a query with the statement,"
+    publishedDateTime: 2023-12-11T20:13:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/12/elon-musks-ai-bot-grok-speaks-as-if-made-by-openai-in-some-tests-causing-a-stir/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 41
   - title: "OpenAI Competitor Mistral AI Nabs $487M Round, Hitting $2B Valuation"
     excerpt: "Paris-based Mistral AI, an OpenAI and Anthropic competitor, is putting the final touches on a massive round of approximately $487 million that would value the company at $2 billion, per a report."
     publishedDateTime: 2023-12-11T18:13:00Z

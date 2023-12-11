@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-12-nvidia-contemplates-intel-as-potential-manufacturing-partner-for-gpu-and-ai-chips.md",
+      "title": "Nvidia contemplates Intel as potential manufacturing partner for GPU and AI chips",
+      "excerpt": "Nvidia GPUs held more than 70 percent of the data center processor market share in the latest quarter, with the majority of chips being manufactured by",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/101160-nvidia-contemplates-intel-potential-manufacturing-partner-gpu-ai.html",
+      "originalUrl": "https://www.techspot.com/news/101160-nvidia-contemplates-intel-potential-manufacturing-partner-gpu-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-11T20:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-12-human-brain-cells-hooked-up-to-a-chip-can-do-speech-recognition.md",
       "title": "Human brain cells hooked up to a chip can do speech recognition",
       "excerpt": "Brain organoids, clumps of human brain cells grown in a dish, can be hooked up to an electronic chip and carry out simple computational tasks, a new study shows. Feng Guo and his",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.technologyreview.com/2023/12/11/1084926/human-brain-cells-chip-organoid-speech-recognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -43,49 +86,6 @@
         "Natural Language Processing",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-nvidia-ceo-jensen-huang-woos-vietnam-plans-to-set-up-asian-ai-chip-base-in-the-country.md",
-      "title": "NVIDIA CEO Jensen Huang woos Vietnam, plans to set up Asian AI Chip base in the country",
-      "excerpt": "NVIDIA has some major plans for Vietnam and is seeing the country as its main base in Asia for designing and manufacturing AI chips for the Asian market as well as the rest of the world. For that, NVI",
-      "sourceUrl": null,
-      "webUrl": "https://www.firstpost.com/tech/nvidia-ceo-jensen-huang-woos-vietnam-plans-to-set-up-asian-ai-chip-base-in-the-country-13489822.html",
-      "originalUrl": "https://www.firstpost.com/tech/nvidia-ceo-jensen-huang-woos-vietnam-plans-to-set-up-asian-ai-chip-base-in-the-country-13489822.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.firstpost.com/wp-content/uploads/2023/12/NVIDIA-CEO-Jensen-Huang-woos-Vietnam-plans-to-set-up-Asian-AI-Chip-base-in-the-country-.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.firstpost.com/tech/nvidia-ceo-jensen-huang-woos-vietnam-plans-to-set-up-asian-ai-chip-base-in-the-country-13489822.html/amp",
-      "cdnAmpWebUrl": "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/nvidia-ceo-jensen-huang-woos-vietnam-plans-to-set-up-asian-ai-chip-base-in-the-country-13489822.html/amp",
-      "publishedDateTime": "2023-12-11T08:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Firstpost",
-        "domain": "firstpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     },
     {
@@ -149,7 +149,7 @@
       "originalUrl": "https://www.forbes.com/sites/davealtavilla/2023/12/08/amd-unveils-ai-accelerators-from-cloud-to-client-with-mi300-leading-the-charge/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -201,7 +201,7 @@
       "originalUrl": "https://www.forbes.com/sites/greatspeculations/2023/12/08/amd-takes-the-fight-to-nvidia-with-latest-ai-chip-launch-is-the-stock-a-buy-at-116/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 217,
+      "heat": 257,
       "tags": null,
       "images": [
         {
@@ -415,6 +415,49 @@
         "AI Hardware",
         "AI",
         "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-12-07-supermicro-extends-ai-and-gpu-rack-scale-solutions-with-support-for-amd-instinct-mi300-series-accelerators.md",
+      "title": "Supermicro Extends AI and GPU Rack Scale Solutions with Support for AMD Instinct MI300 Series Accelerators",
+      "excerpt": "New 8-GPU Systems Powered by AMD Instinct™ MI300X Accelerators Are Now Available with Breakthrough AI and HPC Performance for Large Scale AI Training and LLM Deployments SAN JOSE, Calif.,",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20231206sf86950/supermicro-extends-ai-and-gpu-rack-scale-solutions-with-support-for-amd-instinct-mi300-series-accelerators",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20231206sf86950/supermicro-extends-ai-and-gpu-rack-scale-solutions-with-support-for-amd-instinct-mi300-series-accelerators",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2294523/SuperMicro_Servers_with_AMD_MI300_Series_Accelerators.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T20:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -1367,49 +1410,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-11-25-nvidia-delays-launch-of-ai-chip-for-china-amid-export-compliance-challenges-nvda-stock-1-down.md",
-      "title": "Nvidia Delays Launch of AI Chip for China amid Export Compliance Challenges, NVDA Stock 1% Down",
-      "excerpt": "Nvidia Corp (NASDAQ: NVDA), the California-based AI chip giant, has notified its Chinese customers of a delay in the launch of its new artificial intelligence chip, H20, designed to comply with the latest United States export regulations, Reuters reported Friday, citing two sources familiar with the matter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.coinspeaker.com/nvidia-delay-launch-ai-chip/",
-      "originalUrl": "https://www.coinspeaker.com/nvidia-delay-launch-ai-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.coinspeaker.com/wp-content/uploads/2023/11/nvidia-delay-launch-ai-chip.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.coinspeaker.com/nvidia-delay-launch-ai-chip/amp/",
-      "cdnAmpWebUrl": "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/nvidia-delay-launch-ai-chip/amp/",
-      "publishedDateTime": "2023-11-24T16:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "coinspeaker",
-        "domain": "coinspeaker.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

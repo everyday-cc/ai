@@ -42,6 +42,22 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "Artificial intelligence made from ‘clumps of human brain cells’ taught to recognize speech in world-first experiment"
+    excerpt: "CLUMPS of human brain cells connected to an electronic chip have successfully completed simple tasks including speech recognition. That’s according to researchers at Indiana University"
+    publishedDateTime: 2023-12-11T20:32:00Z
+    webUrl: "https://www.thesun.co.uk/tech/25020217/artificial-intelligence-human-brain-cells-biocomputer/"
+    ampWebUrl: "https://www.thesun.co.uk/tech/25020217/artificial-intelligence-human-brain-cells-biocomputer/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/25020217/artificial-intelligence-human-brain-cells-biocomputer/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 51
+    images:
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2023/12/AK_BRAIN_OP.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "NsAqsfnSBc3jsKdylPGDBZRWkF4On5XEXZIHujELgNQaAN7X5Wk8bgeFlJ4XRcy+Rj0XRmzc4kP95FUOTRw80mYN4yvQ8SviMCS4TGQgPS6nxOzDTAdWM7zZATx8gK2/tMm2M/G3ymOmjeGW7ntPa0LGFkxkAMOvLp/CoXnsKKjp0wmFtfvaPlE25uWEil1ds0fBQ8gY05e11gKahhoCfWZ0eZ3ztN8U0DeQ1Y4JAIONMiB4c1POVGqg0YJEGnBGRDuX/MPG766Dwak3Vj99ITh1LSC8tSZraSksJIRchzckm0hIdXv0DK4YOcOOez5playuYf2UCIcqur943x8AWfdG3HF8L6uPD6swncgmH28=;Js1n9Sxb1Xwjf6ZZBYwbYQ=="
 ---

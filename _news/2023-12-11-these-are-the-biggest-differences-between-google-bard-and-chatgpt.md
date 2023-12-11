@@ -20,20 +20,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Google Updates Bard Chatbot With ‘Gemini’ A.I. as It Chases ChatGPT"
-    excerpt: "After more than eight months of research and development, Google has unveiled its most powerful A.I. so far. But only parts of it are widely available."
-    publishedDateTime: 2023-12-06T19:19:00Z
-    webUrl: "https://www.nytimes.com/2023/12/06/technology/google-ai-bard-chatbot-gemini.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 71
-    images:
-      - url: "https://static01.nyt.com/images/2023/12/07/multimedia/06JPgoogle-ai-print-fmgp/06google-ai-fmgp-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "ChatGPT vs. Google Bard, round 2: How does the new Gemini model fare?"
     excerpt: "Now, the AI days are a bit less “early,\" and this week's launch of a new version of Bard powered by Google's new Gemini language model seemed like a good excuse to revisit that chatbot battle with the same set of carefully designed prompts."
     publishedDateTime: 2023-12-08T19:01:00Z
@@ -47,6 +33,34 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/12/chatgpt-vs-bard-round2-760x380.jpg"
         width: 760
         height: 380
+        isCached: true
+  - title: "Google announces Bard Advanced, it's most advanced Gemini-powered AI helper"
+    excerpt: "Bard Advanced is powered by Google's Gemini Ultra AI model and will be available soon to select testers. It will go public early next year."
+    publishedDateTime: 2023-12-07T02:37:00Z
+    webUrl: "https://www.androidauthority.com/google-bard-advanced-3392203/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 67
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Google-Bard-website-on-phone-7.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Google’s Gemini Is the Real Start of the Generative AI Boom"
+    excerpt: "A new AI model from Google—called Gemini—is fresh competition for OpenAI’s ChatGPT. The AI rivals are now working on even more radical ideas."
+    publishedDateTime: 2023-12-07T16:08:00Z
+    webUrl: "https://www.wired.com/story/google-gemini-generative-ai-boom/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 67
+    images:
+      - url: "https://media.wired.com/photos/6570fa9c24772bae860336a9/191:100/w_1280,c_limit/bard-biz-gemini_mm_03.jpg"
+        width: 1280
+        height: 670
         isCached: true
   - title: "Google Gemini: Everything you need to know about Google's Answer to ChatGPT – Updated December 2023"
     excerpt: "Google has an extremely powerful AI chatbot called Bard. It’s already proven to be a helpful and very capable chatbot, and Google has integrated it into several of its products. While the ..."
@@ -78,29 +92,29 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Elon Musk was mocked by his new AI-powered chatbot"
-    excerpt: "Aravind Srinivas, boss of Perplexity AI, asked Elon Musk's chatbot to \"roast\" its creator — and Grok didn't hold back. The chatbot called the Tesla and X"
-    publishedDateTime: 2023-12-11T16:27:00Z
-    webUrl: "https://rollingout.com/2023/12/11/elon-musk-new-ai-powered-chatbot/"
+  - title: "Google Gemini, Next Level AI, Comes To Bard & Coming To SGE"
+    excerpt: "Google announced its latest AI advancements named Gemini yesterday, calling it the most capable AI models yet. It is already baked into Bard and it is being tested in SGE, the Search Generative Exper"
+    publishedDateTime: 2023-12-07T12:51:00Z
+    webUrl: "https://www.seroundtable.com/google-gemini-bard-search-36518.html"
     type: article
     provider:
-      name: Rolling Out
-      domain: rollingout.com
-    quality: 37
+      name: Search Engine Roundtable
+      domain: seroundtable.com
+    quality: 39
     images:
-      - url: "https://rollingout.com/wp-content/uploads/2023/12/1650967619cropped3474x2605.jpg"
-        width: 1000
-        height: 650
+      - url: "https://s3.amazonaws.com/images.seroundtable.com/google-robot-gemini-1701889044.jpg"
+        width: 1456
+        height: 832
         isCached: true
-  - title: "Google's Bard A.I. chatbot expanding into Gmail, Maps, YouTube, other digital properties – CBS News"
-    excerpt: "AM PDT / AP Google is introducing Bard, its artificially intelligent chatbot, to other members of its digital family"
-    publishedDateTime: 2023-12-11T17:18:00Z
-    webUrl: "https://www.inferse.com/835581/googles-bard-a-i-chatbot-expanding-into-gmail-maps-youtube-other-digital-properties-cbs-news/"
+  - title: "How to use Google Gemini in Bard to get the best results"
+    excerpt: "Google has recently updated its AI chatbot, Google Bard, with its new Gemini AI model, which brings a host of enhanced features to improve the user"
+    publishedDateTime: 2023-12-10T11:03:00Z
+    webUrl: "https://www.geeky-gadgets.com/using-google-gemini-in-bard/"
     type: article
     provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 5
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 4
 
 secured: "bAdTgiA4nv5ZzUd0DAISey2RRT4rxCo071kf5Cs3EYwhYkCi+EQQNRhfIsLjPb+BqETEln/S98zHHXmFQslVNf5VvlxI4sZztoBX5J6zlS0JqNe9xXwTbW8Ev/jvq3n/h1TnBP+SUIXBsmI7oJANHsWkgvC8Q05vGxmGtXTuVUMCRelhzjtONsWbrvBoKOWFk7wyBZCRG7ywXddZP+TGt+LYsBQUNBMIzDIjZaBABKcxsFKaclqZAIhZAspC9kZfd9T1bBjE9/UPvSdJnfUzl8526wtB8Sh8QjqE27X7F778qZ2JwSR14SXXdz8p8y9/zmSFJL3qC+galvooSy8fZRs0Os6y7JfsDmhXtHUmKRg1PZ+agHGrZ/JS3B5Lk54AtUluP9gwR1JQDqwwBMfHsJV3HiuEnTz4Ttymk9s/dLZMiU5TmirT2XEw0f3o0fSY7ShFRg6mqWzp6Bk2x5cJwKhJlDQWcVw6PCSujAghI3NPeDbsAE9emC9T7FwVcFOFiZsxAl/dFF5lFTCBZGLyEQ==;MUMVChFJYrK8YGknC3eKxw=="
 ---

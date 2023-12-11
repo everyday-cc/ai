@@ -35,6 +35,36 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Relevance AI’s low-code platform enables businesses to build AI teams"
+    excerpt: "However, only businesses with large engineering teams can build their own AI workforces. An Australia-based startup, Relevance AI, wants to help companies of all sizes build custom AI agents for any use case or function to maximize productivity with its ..."
+    publishedDateTime: 2023-12-11T22:31:00Z
+    webUrl: "https://techcrunch.com/2023/12/11/relevance-ais-low-code-platform-enables-businesses-to-build-ai-teams/"
+    ampWebUrl: "https://techcrunch.com/2023/12/11/relevance-ais-low-code-platform-enables-businesses-to-build-ai-teams/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/11/relevance-ais-low-code-platform-enables-businesses-to-build-ai-teams/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1188605237.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Mistral shocks AI community as latest open source model eclipses GPT-3.5 performance"
+    excerpt: "Mistral, the most well-seeded startup in European history and a French company dedicated to pursuing open source AI models and large language models (LLMs), has struck gold with its latest release — at least among the early adopter/AI influencer crowd on X and LinkedIn."
+    publishedDateTime: 2023-12-11T21:44:00Z
+    webUrl: "https://venturebeat.com/ai/mistral-shocks-ai-community-as-latest-open-source-model-eclipses-gpt-3-5-performance/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 60
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/12/cfr0z3n_crowds_of_tourists_react_in_shock_and_amazement_as_the__cd64e435-492c-4397-94c0-1d5119160375.png?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
   - title: "Introducing Purple Llama for Safe and Responsible AI Development"
     excerpt: "Purple Llama will bring together tools and evaluations to help developers build responsibly with open generative AI models."
     publishedDateTime: 2023-12-07T14:30:00Z

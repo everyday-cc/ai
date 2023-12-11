@@ -35,6 +35,22 @@ related:
         width: 1161
         height: 774
         isCached: true
+  - title: "U.S. discusses AI Chip sales to China with Nvidia, says Raimondo"
+    excerpt: "The U.S. government is currently in talks with NVIDIA (NVDA) regarding the conditions under which it can sell AI chips to China. The administration has made it clear that Nvidia (NASDAQ: NVDA) is not allowed to export its most sophisticated semiconductors to Chinese companies."
+    publishedDateTime: 2023-12-11T20:36:00Z
+    webUrl: "https://au.investing.com/news/stock-market-news/us-discusses-ai-chip-sales-to-china-with-nvidia-says-raimondo-432SI-3060981"
+    ampWebUrl: "https://m.au.investing.com/news/stock-market-news/us-discusses-ai-chip-sales-to-china-with-nvidia-says-raimondo-432SI-3060981?ampMode=1"
+    cdnAmpWebUrl: "https://m-au-investing-com.cdn.ampproject.org/c/s/m.au.investing.com/news/stock-market-news/us-discusses-ai-chip-sales-to-china-with-nvidia-says-raimondo-432SI-3060981?ampMode=1"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 91
+    images:
+      - url: "https://i-invdn-com.investing.com/news/moved_LYNXMPEHAH0WT_L.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "AMD Stock Rises After Its AI Chip Rollout Challenges Nvidia"
     excerpt: "Shares of Advanced Micro Devices rose by nearly 7% as investors reacted to Wednesday’s launch of new chips that aim to challenge Nvidia’s dominance in artificial intelligence computing. AMD had previo"
     publishedDateTime: 2023-12-07T17:18:00Z
@@ -132,6 +148,24 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 57
+  - title: "US in talks with Nvidia about AI chip sales to China"
+    excerpt: "Nvidia said it is working closely with the US government to ensure chips sold to China were compliant with export curbs. (Reuters pic) NASHUA: The Biden administration is in discussions with Nvidia Corp about permissible sales of artificial intelligence chips to China but emphasised that it cannot sell its most advanced semiconductors to Chinese firms."
+    publishedDateTime: 2023-12-11T22:37:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/business/2023/12/12/us-in-talks-with-nvidia-about-ai-chip-sales-to-china/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 51
+  - title: "China Firms Rush to Poach Nvidia Clients With AI Chip Offerings"
+    excerpt: "Chinese chip designers are rushing to chip away Nvidia’s market share at home with their own artificial intelligence (AI)-focused offerings."
+    publishedDateTime: 2023-12-11T20:04:00Z
+    webUrl: "https://cbonds.com/news/2625007/"
+    type: article
+    provider:
+      name: Cbonds
+      domain: cbonds.com
+    quality: 34
   - title: "AMD's New AI Chip MI300X Eyes Market Lead, Challenges Nvidia's Dominance"
     excerpt: "AMD has begun selling a product that it thinks could challenge Nvidias domination of the artificial intelligence processor industry, which it estimates will be worth $400 billion by 2027. AMD Introduces A New"
     publishedDateTime: 2023-12-07T13:20:00Z
@@ -168,6 +202,15 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 19
+  - title: "AMD Is Set To Challenge Nvidia's Dominance And Amazon Is Going After Microsoft's Early-Start AI Advantage"
+    excerpt: "According to analysts, Nvidia Corporation (NASDAQ: NVDA) controls roughly 80% of the AI chip market, when including the custom processors built by companies such as Alphabet (NASDAQ: GOOG)-owned Googl"
+    publishedDateTime: 2023-12-11T18:23:00Z
+    webUrl: "https://www.benzinga.com/markets/23/12/36183243/amd-is-set-to-challenge-nvidias-dominance-and-amazon-is-going-after-microsofts-early-start-ai-advant"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 17
 
 secured: "hOHGk874tLwBcVVU3jd4n9mspAol6n31+o1Q6EpBUgzbLfiwyoz82/7qQHPreAKKn9eBnzPPvqThlqNylIRhtvdgVV2QzzKLEywsgKV7jyl8msKNjwjC8urbcbEhy35QUxMh7H36F5xoeTzGxXOk2ct/9IUzafh1bbzzvEdrzR4pEfi1rYqNS2qJfb+LKjD4Zi9GIoxHylTzh8qspAEZhY8b2zienApo10w7X6hXkGYf6OjSGEf/QZxFsKWJz/DGsJV2zuzduxXt0XKlOWBlXbqo76VIT3JegTitzfKnDioJMtkO0yBZ648w356hn7MZiA30ki8hiZj8DtdKTqiHRV5g4cK27VO+OvVLUlzx0z8=;wSaRmf5lL0vZgmERv+wHDg=="
 ---

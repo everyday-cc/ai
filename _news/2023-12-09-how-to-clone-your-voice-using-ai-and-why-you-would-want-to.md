@@ -24,6 +24,17 @@ images:
     height: 845
     isCached: true
 
+related:
+  - title: "5 Things to Consider When Bringing Speech AI Into Your Business"
+    excerpt: "Imagine a world where mundane tasks, consuming 60-70% of our work hours, vanish into thin air. According to a McKinsey report, thanks to its evolving grasp of natural language, Generative AI has the potential to make this dream a reality quite soon."
+    publishedDateTime: 2023-12-11T19:03:00Z
+    webUrl: "https://www.unite.ai/5-things-to-consider-when-bringing-speech-ai-into-your-business/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 19
+
 secured: "zDfupDOY59Z8ma8HYF0/DoWGgY9bSC7d2u5Zj9ltiBrGEmbDfHnYV4xJdYsX/y2rWy0xb/ja0b/g0pZnS775cEb0PTzqBD7dnSAG0O0DaVIIcw2J+aNylGAV9ixpvbCrky2e2jU1xQW5CRwEmdc4kdJKXijNQuj5dR0kj+3hat/SzPGubXeDixQ21nVkTSHvj27hF4tJLyqKAj5QxncosaFHpLDMC3QtVtaWnpKeuP7z266sqCOrs/NI8/t8QUmGUWprgq6FlNedEmtM0ZSpofLXRcFmMZ9dmfdp1BdmiRFP6FAndKeRdrc01GRzefcB1NBuhlKDEjzaEsdQe4kjeupDe3fJrRRRKnjAc5S7exg=;sScmPga+O6nntgt6FonhlQ=="
 ---
 

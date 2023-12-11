@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-veradigm-enhance-independent-pract
 webUrl: "https://www.tmcnet.com/usubmit/-veradigm-enhance-independent-practice-financial-management-with-ai-/2023/12/11/9931338.htm"
 type: article
 quality: 1
-heat: 1
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+related:
+  - title: "Airship AI Starts Delivery of $10.9 Million US Government Contracts for Advanced Video and Sensor Management"
+    excerpt: "Airship AI Holdings, Inc. (\"Airship AI\"), a leader in video, sensor, and data management surveillance solutions, today announced it has begun delivery of multiple firm fixed price contracts worth $10."
+    publishedDateTime: 2023-12-11T13:59:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/12/11/9931374.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 20
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "87OnyPhM4Q3vjP7oFkU9z+qEvKpwDpo7BL/Try2Mx8znKz5Nrtjhg1Vcn6EGuDxVJ3BC6yQfDNz4HlS6wCo9V2GJc9Do7Y6EdEK2bC7HAyL087Yi5+K3lQplHjDnT74UktbgZ/6DCb41VV1YtvnpEFne8N/vAhECB7PHkminaByfX+omw95uQNCQftLKZk2QYASeODI1wAQYZfM4bSUTyglzvhTSNTVQU7C9bvIMbZcHtINr/eVFuGnmfYwDYaBvXSSXaam+ppUp1hRN0TmjeSbOi37mvswholhzONg/IZN1dKKSQSm+QDGO3rOYh+I/HPKSC1h7a4HVnKjHHYvhy4cpLErFz/yNLAef0XnS2CA=;dwDDpp2kSK9C3IKrvUQXjw=="
 ---

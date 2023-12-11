@@ -7,8 +7,8 @@ originalUrl: "https://arstechnica.com/ai/2023/12/chatgpt-vs-google-bard-round-2-
 webUrl: "https://arstechnica.com/ai/2023/12/chatgpt-vs-google-bard-round-2-how-does-the-new-gemini-model-fare/?view=archive"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 141
+published: true
 
 provider:
   name: Ars Technica
@@ -30,19 +30,33 @@ images:
     isCached: true
 
 related:
-  - title: "Google Updates Bard Chatbot With ‘Gemini’ A.I. as It Chases ChatGPT"
-    excerpt: "After more than eight months of research and development, Google has unveiled its most powerful A.I. so far. But only parts of it are widely available."
-    publishedDateTime: 2023-12-06T19:19:00Z
-    webUrl: "https://www.nytimes.com/2023/12/06/technology/google-ai-bard-chatbot-gemini.html"
+  - title: "Google announces Bard Advanced, it's most advanced Gemini-powered AI helper"
+    excerpt: "Bard Advanced is powered by Google's Gemini Ultra AI model and will be available soon to select testers. It will go public early next year."
+    publishedDateTime: 2023-12-07T02:37:00Z
+    webUrl: "https://www.androidauthority.com/google-bard-advanced-3392203/"
     type: article
     provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 71
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 67
     images:
-      - url: "https://static01.nyt.com/images/2023/12/07/multimedia/06JPgoogle-ai-print-fmgp/06google-ai-fmgp-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Google-Bard-website-on-phone-7.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Google’s Gemini Is the Real Start of the Generative AI Boom"
+    excerpt: "A new AI model from Google—called Gemini—is fresh competition for OpenAI’s ChatGPT. The AI rivals are now working on even more radical ideas."
+    publishedDateTime: 2023-12-07T16:08:00Z
+    webUrl: "https://www.wired.com/story/google-gemini-generative-ai-boom/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 67
+    images:
+      - url: "https://media.wired.com/photos/6570fa9c24772bae860336a9/191:100/w_1280,c_limit/bard-biz-gemini_mm_03.jpg"
+        width: 1280
+        height: 670
         isCached: true
   - title: "Google Gemini: Everything you need to know about Google's Answer to ChatGPT – Updated December 2023"
     excerpt: "Google has an extremely powerful AI chatbot called Bard. It’s already proven to be a helpful and very capable chatbot, and Google has integrated it into several of its products. While the ..."
@@ -74,19 +88,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Elon Musk was mocked by his new AI-powered chatbot"
-    excerpt: "Aravind Srinivas, boss of Perplexity AI, asked Elon Musk's chatbot to \"roast\" its creator — and Grok didn't hold back. The chatbot called the Tesla and X"
-    publishedDateTime: 2023-12-11T16:27:00Z
-    webUrl: "https://rollingout.com/2023/12/11/elon-musk-new-ai-powered-chatbot/"
+  - title: "Google Gemini, Next Level AI, Comes To Bard & Coming To SGE"
+    excerpt: "Google announced its latest AI advancements named Gemini yesterday, calling it the most capable AI models yet. It is already baked into Bard and it is being tested in SGE, the Search Generative Exper"
+    publishedDateTime: 2023-12-07T12:51:00Z
+    webUrl: "https://www.seroundtable.com/google-gemini-bard-search-36518.html"
     type: article
     provider:
-      name: Rolling Out
-      domain: rollingout.com
-    quality: 37
+      name: Search Engine Roundtable
+      domain: seroundtable.com
+    quality: 39
     images:
-      - url: "https://rollingout.com/wp-content/uploads/2023/12/1650967619cropped3474x2605.jpg"
-        width: 1000
-        height: 650
+      - url: "https://s3.amazonaws.com/images.seroundtable.com/google-robot-gemini-1701889044.jpg"
+        width: 1456
+        height: 832
         isCached: true
   - title: "These Are the Biggest Differences Between Google Bard and ChatGPT"
     excerpt: "AI chatbots are more popular than ever, and there are plenty of solid options out there to choose from beyond OpenAI’s ChatGPT. One particularly strong competitor is Google’s Bard AI, which pulls information from the internet and runs off the latest Gemini language model created by Google."
@@ -97,15 +111,15 @@ related:
       name: Lifehacker Australia
       domain: lifehacker.com.au
     quality: 21
-  - title: "Google's Bard A.I. chatbot expanding into Gmail, Maps, YouTube, other digital properties – CBS News"
-    excerpt: "AM PDT / AP Google is introducing Bard, its artificially intelligent chatbot, to other members of its digital family"
-    publishedDateTime: 2023-12-11T17:18:00Z
-    webUrl: "https://www.inferse.com/835581/googles-bard-a-i-chatbot-expanding-into-gmail-maps-youtube-other-digital-properties-cbs-news/"
+  - title: "How to use Google Gemini in Bard to get the best results"
+    excerpt: "Google has recently updated its AI chatbot, Google Bard, with its new Gemini AI model, which brings a host of enhanced features to improve the user"
+    publishedDateTime: 2023-12-10T11:03:00Z
+    webUrl: "https://www.geeky-gadgets.com/using-google-gemini-in-bard/"
     type: article
     provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 5
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 4
 
 secured: "YsnTBi7ynmTLBZ3dUYvfOmPFTpRnieyn2/t9maMeUDjNPp4MW5HWQEZiPwBPOlFmWyhqQyX9JIvJ93/M2yJS4mu3OGv/DNS2L3pFIzJwTKHgtMhEg5Z4aStnLu9dabxHvMiofnJ0UPOGG30/5vqZFtKSl7TOurqHjjHIWv397dAANPK1RU/e/giLSJ6DViyaHOtyV6E0Cc0fQupSZp9LytrrOhCR+CxecVYmznMcOnMAIMMDy8XA7bh440jXM0fIRumd97VYIWIZcFN/gNYtx92qWdqJH6kUAqJrM2lJs+QrjZCEF22QlzruriyOkn0AVZCnMs2C7F7QZY4uV75phXRIzNTcHMcexzpxMKYfrZtSkNu5XtRSL1ULqKdLuJfZj8lr9KcP85n8Pk/OzCI86yfNvdN+J4pIl6PyK8dZXa8rq1DP824Y2iULF/Y2PnuzdlpmK1TqgG35Gnf/Z3L+OvOZEz7BuMQo+xSmYPvUg4Dt0LhzhTHp7FiYPOXHNpgZ7Czr4mArGLsQdKNBOVRNgA==;BbW/fnd9klsEgMfFZ+oPuQ=="
 ---

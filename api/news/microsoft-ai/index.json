@@ -106,6 +106,59 @@
       ]
     },
     {
+      "path": "_news/2023-12-09-chatgpt-vs-google-bard-round-2-how-does-the-new-gemini-model-fare.md",
+      "title": "ChatGPT vs. Google Bard, round 2: How does the new Gemini model fare?",
+      "excerpt": "Now, the AI days are a bit less “early,\" and this week's launch of a new version of Bard powered by Google's new Gemini language model seemed like a good excuse to revisit that chatbot battle with the same set of carefully designed prompts.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/ai/2023/12/chatgpt-vs-google-bard-round-2-how-does-the-new-gemini-model-fare/?view=archive",
+      "originalUrl": "https://arstechnica.com/ai/2023/12/chatgpt-vs-google-bard-round-2-how-does-the-new-gemini-model-fare/?view=archive",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/chatgpt-vs-bard-round2-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-08T19:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-08-investors-have-piled-into-ai-startups-following-the-launch-of-chatgpt-here-are-32-pitch-decks-used-by-ai-founders-to-win-over-vcs.md",
       "title": "Investors have piled into AI startups following the launch of ChatGPT. Here are 32 pitch decks used by AI founders to win over VCs.",
       "excerpt": "Generative AI, media, and design This startup uses generative AI to speed up the property-buying process. Check out the 14-slide pitch deck Orbital Witness used to raise $9 million. Kinnu helps ...",
@@ -114,7 +167,7 @@
       "originalUrl": "https://www.businessinsider.com/ai-startup-pitch-decks-used-to-raise-millions-from-vcs-2023-2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -530,6 +583,50 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-04-google-bard-vs-chatgpt-updated-december-2023.md",
+      "title": "Google Bard vs ChatGPT – Updated December 2023",
+      "excerpt": "There’s a war going on between ChatGPT and Google Bard. Both chatbots are insanely powerful, and they’re good enough to really help people out (or help them out of a job). Since Google is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidheadlines.com/google-bard-vs-chatgpt.html",
+      "originalUrl": "https://www.androidheadlines.com/google-bard-vs-chatgpt.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidheadlines.com/wp-content/uploads/2023/05/Bard-and-OpenAI-Logo.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.androidheadlines.com/google-bard-vs-chatgpt.html?amp",
+      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/google-bard-vs-chatgpt.html?amp",
+      "publishedDateTime": "2023-12-04T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android",
+        "domain": "androidheadlines.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -1304,92 +1401,6 @@
         "name": "Windows Latest",
         "domain": "windowslatest.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-22-cognitive-neuroscience-articles-from-across-nature-portfolio.md",
-      "title": "Cognitive neuroscience articles from across Nature Portfolio",
-      "excerpt": "Cognitive neuroscience is the field of study focusing on the neural substrates of mental processes. It is at the intersection of psychology and neuroscience, but also overlaps with physiological ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/subjects/cognitive-neuroscience",
-      "originalUrl": "https://www.nature.com/subjects/cognitive-neuroscience",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-22T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-22-microsoft-azure-confidential-vms-will-roll-out-this-december.md",
-      "title": "Microsoft Azure Confidential VMs Will Roll Out This December",
-      "excerpt": "The partnership with Intel allows for hardware-enforced security and confidentiality on 4th Gen Xeon processors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/azure-confidential-vms-public-preview/",
-      "originalUrl": "https://www.techrepublic.com/article/azure-confidential-vms-public-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/11/tr_20231121-azure-confidential-vms-public-preview.jpg",
-          "width": 1400,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-21T18:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

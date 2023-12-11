@@ -2,6 +2,93 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-11-10-cognitive-technology-education-services-inc-unveils-revolutionary-gamified-it-learning-app-cognitive.md",
+      "title": "Cognitive Technology Education Services, Inc. Unveils Revolutionary Gamified IT Learning App, \"CognITive\"",
+      "excerpt": "DAYTON, Ohio, Nov. 10, 2023 /PRNewswire/ -- Cognitive Technology Education Services, Inc., a pioneering company in the field of technology education, is thrilled to announce the upcoming launch of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.victoriaadvocate.com/cognitive-technology-education-services-inc-unveils-revolutionary-gamified-it-learning-app-cognitive/article_d181727c-f794-5e79-b3ad-2b0fced7fe8b.html",
+      "originalUrl": "https://www.victoriaadvocate.com/cognitive-technology-education-services-inc-unveils-revolutionary-gamified-it-learning-app-cognitive/article_d181727c-f794-5e79-b3ad-2b0fced7fe8b.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/c/a6/ca65185a-7066-54be-b14e-6908093fa5c6/654e42240ca7b.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-10T15:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Victoria Advocate",
+        "domain": "victoriaadvocate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-11-10-air-india-becomes-worlds-first-airline-to-adopt-ai-virtual-agent-maharaja.md",
+      "title": "Air India becomes world's first airline to adopt AI virtual agent 'Maharaja'",
+      "excerpt": "Air India has become the first airline to deploy a generative AI virtual agent named 'Maharaja', which can answer 6,000 queries in four languages per",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/air-india-becomes-worlds-first-airline-to-adopt-ai-virtual-agent-maharaja/articleshow/105124807.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/air-india-becomes-worlds-first-airline-to-adopt-ai-virtual-agent-maharaja/articleshow/105124807.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-105124767,width-1280,height-720,resizemode-4/105124767.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/air-india-becomes-worlds-first-airline-to-adopt-ai-virtual-agent-maharaja/amp_articleshow/105124807.cms",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/air-india-becomes-worlds-first-airline-to-adopt-ai-virtual-agent-maharaja/amp_articleshow/105124807.cms",
+      "publishedDateTime": "2023-11-10T11:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-10-this-week-in-xr-open-ai-dev-day-bombshells-aleph-alpha-ai-raises-500-million-xais-grok.md",
       "title": "This Week In XR: Open AI Dev Day Bombshells, Aleph Alpha AI Raises $500 Million, xAI’s Grok",
       "excerpt": "To grok is to deeply understand and empathize. In a post announcing Grok last Saturday, November 4th, the company explains Grok will grok the world in real time with a Large Language Model that includes a real time feed of X as it appears on the X,",
@@ -1287,93 +1374,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-10-30-the-clouds-cant-afford-to-forget-developers.md",
-      "title": "The clouds can’t afford to forget developers",
-      "excerpt": "In the rush to AI, vendors should remember that developers have a lot of clout with IT spending. Helping developers will translate to growth at the bottom line.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3709552/the-clouds-cant-afford-to-forget-developers.html",
-      "originalUrl": "https://www.infoworld.com/article/3709552/the-clouds-cant-afford-to-forget-developers.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/10/19/09/it_professionals_programmers_engineers_developers_in_a_modern_workspace_by_gorodenkoff_shutterstock_1798108843_creative_digital-only_2400x1600-100913014-large-100947393-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3709552/the-clouds-cant-afford-to-forget-developers.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3709552/the-clouds-cant-afford-to-forget-developers.amp.html",
-      "publishedDateTime": "2023-10-30T09:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-30-microsoft-azure-vs-amazon-web-services-cloud-comparison.md",
-      "title": "Microsoft Azure vs. Amazon Web Services: Cloud Comparison",
-      "excerpt": "Amazon Web Services and Microsoft Azure are two of the leading cloud-based infrastructure as a service (IaaS) providers. In the past decade, both companies have created a broad range of flexible, stable and profitable services. But which one is right for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.business.com/articles/azure-vs-aws-cloud-comparison/",
-      "originalUrl": "https://www.business.com/articles/azure-vs-aws-cloud-comparison/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business.com",
-        "domain": "business.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

@@ -553,6 +553,40 @@
       ]
     },
     {
+      "path": "_news/2023-12-05-light-controlled-liquid-metal-strips-bring-new-flexibility-to-soft-robotics.md",
+      "title": "Light-controlled liquid metal strips bring new flexibility to soft robotics",
+      "excerpt": "(Nanowerk News) Soft robotics has tantalized researchers with its promise of machines that can squeeze into tight spaces, handle fragile objects, and intuitively interact with humans. Yet realizing this potential has remained an elusive goal due to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nanowerk.com/news2/robotics/newsid=64186.php",
+      "originalUrl": "https://www.nanowerk.com/news2/robotics/newsid=64186.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-05T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nanowerk",
+        "domain": "nanowerk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-05-stevens-institute-for-artificial-intelligence-looks-at-prospects-for-ai-and-robotics.md",
       "title": "Stevens Institute for Artificial Intelligence looks at prospects for AI and robotics",
       "excerpt": "The Stevens Institute for Artificial Intelligence's director shares his perspectives on AI policy, generative AI, and machine learning and legged robots.",
@@ -1213,58 +1247,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-the-social-side-of-ai-think-carefully-about-the-future.md",
-      "title": "The Social Side Of AI: Think Carefully About The Future",
-      "excerpt": "But AI is going to be social, too – it's going to have a social context. One way to explain that is that with ‘humans in the loop’ and assistive AI, the AI has to be able to interact with humans in particular ways. So what about the social end of AI research?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/11/28/the-social-side-of-ai-think-carefully-about-the-future/",
-      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/11/28/the-social-side-of-ai-think-carefully-about-the-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/655a427d46c7abb4b9c20364/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/11/28/the-social-side-of-ai-think-carefully-about-the-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/11/28/the-social-side-of-ai-think-carefully-about-the-future/amp/",
-      "publishedDateTime": "2023-11-28T17:13:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -34,18 +34,13 @@ images:
 related:
   - title: "BigBear.ai Expands its Relationship with AWS to Deliver AI-Driven Solutions"
     excerpt: "BigBear.ai continues to expand its capabilities to serve the commercial enterprise sector and is proud to advance this new effort with AWS."
-    publishedDateTime: 2023-12-11T13:18:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/12/11/9931286.htm"
+    publishedDateTime: 2023-12-11T14:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/bigbear-ai-expands-its-relationship-with-aws-to-deliver-ai-driven-solutions-1032889378"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 52
-    images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
   - title: "AWS on responsible AI: ‘A growing number of jobs in this space’"
     excerpt: "Diya Wynn, the Responsible AI lead at AWS, works with her organization’s customers to secure a future where AI is powerful and accountable."
     publishedDateTime: 2023-12-08T14:23:00Z

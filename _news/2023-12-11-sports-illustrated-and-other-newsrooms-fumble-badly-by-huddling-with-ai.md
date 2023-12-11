@@ -7,7 +7,7 @@ originalUrl: "https://chicago.suntimes.com/2023/12/11/23990714/sports-illustrate
 webUrl: "https://chicago.suntimes.com/2023/12/11/23990714/sports-illustrated-artificial-intelligence-ai-newsrooms-journalism-fake-news-futurism-editorial"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1461
     height: 834
     isCached: true
+
+related:
+  - title: "Sports Illustrated publisher fires CEO after AI debacle"
+    excerpt: "Digital publisher The Arena Group, which operates household brands such as Sports Illustrated and The Street, fired its chief executive on Monday amid a larger C-suite bloodbath, a spokesperson for the company told CNN."
+    publishedDateTime: 2023-12-11T22:50:00Z
+    webUrl: "https://www.cnn.com/2023/12/11/media/sports-illustrated-ai-articles-ceo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2023/12/11/media/sports-illustrated-ai-articles-ceo/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/12/11/media/sports-illustrated-ai-articles-ceo/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 87
+    images:
+      - url: "https://media.cnn.com/api/v1/images/stellar/prod/231211172440-ross-levinsohn-ceo-12062023.jpg?c=16x9&q=w_800,c_fill"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "6mL4uV1/DJTAzu3k1iIjaj2brM9CB17pBvuMuzyBWHcDdGBk44/pFRbz9ZoRpazVxOMI+UIZ8bJ68/PDccqt2slitwqigth88GTRmk4s5X2oTN7F5Zj54wXznLcwmQoxubKnsqP5/Q9gB8jRH8xviJQAF4RcQf29z/rZDwIZMRmZyz9VFuC3Csl/PuqN/1bc7DLAevGGqmD9wiirYqU/2X8satBiCGaozEmCWzgL2cXrdj2kAxRncu8WD8zi3/ggCCKMvymOnZhDw0d6iAbfVsoXLwpuJ9qPXT7Xv62JfiqimS+qEmgjB/QhS4aojm+TRvxtFEcoDyUE0uiZq9TCSDrVUwZImBVbtiCGeRlQIuFRrppSBXS/8kQSTY0FWUfE5Sidmxy8x3ZYHjCNue4HCBxYcYeRDrNyXyU/u29+0LurLJrqkjQ7EGZo4xzI0S3aj5zW5/ObUe0r1Hj2TWopkQYWhcG0ZcKd/y4Aap18lq8eliWc/q1An50XIBvLvncTv3cTRAZAJOnUMMvd4/wJmw==;oTCrQqI9C3RIKPsjuWm12Q=="
 ---
