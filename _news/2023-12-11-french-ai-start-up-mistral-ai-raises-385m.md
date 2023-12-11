@@ -1,21 +1,29 @@
 ---
 category: news
 title: "French AI start-up Mistral AI raises €385m"
-excerpt: "French artificial intelligence start-up Mistral AI announced yesterday it had raised €385 million (RM1.9 billion), becoming one of Europe’s two"
-publishedDateTime: 2023-12-11T00:55:00Z
-originalUrl: "https://www.malaymail.com/news/money/2023/12/11/french-ai-start-up-mistral-ai-raises-385m/106910"
-webUrl: "https://www.malaymail.com/news/money/2023/12/11/french-ai-start-up-mistral-ai-raises-385m/106910"
+excerpt: "French artificial intelligence start-up Mistral AI announced Sunday it had raised €385 million ($414 million), becoming one of Europe's two AI leaders. Founded in May by industry heavyweights, Mistral had already raised €105 million in June. Among ..."
+publishedDateTime: 2023-12-11T12:35:00Z
+originalUrl: "https://www.dhakatribune.com/business/333592/french-ai-start-up-mistral-ai-raises-€385m"
+webUrl: "https://www.dhakatribune.com/business/333592/french-ai-start-up-mistral-ai-raises-€385m"
+ampWebUrl: "https://www.dhakatribune.com/amp/business/333592/french-ai-start-up-mistral-ai-raises-%E2%82%AC385m"
+cdnAmpWebUrl: "https://www-dhakatribune-com.cdn.ampproject.org/c/s/www.dhakatribune.com/amp/business/333592/french-ai-start-up-mistral-ai-raises-%E2%82%AC385m"
 type: article
-quality: 17
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: malaymail
-  domain: malaymail.com
+  name: Dhaka Tribune
+  domain: dhakatribune.com
 
 topics:
   - AI
+
+images:
+  - url: "https://ecdn.dhakatribune.net/contents/cache/images/600x315x1/uploads/media/2023/12/11/000_33ZM9P9-b2692f2c39865b65deaec2e3e2362ef2.jpg?jadewits_media_id=10902"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "French AI Start-up Mistral AI Raises 385 Mn Euros"
@@ -58,6 +66,6 @@ related:
         height: 1060
         isCached: true
 
-secured: "2i+o3moxC3yiRSrUG47R8jhyMiS6inrf2dMott5tjjZ8BO40C6veAM9nvXZ5Afd9ZAk6WjgFt5pgEDgoE1s6vLJ+8nMg3bo+0X1AaHZjWOSRgvBplsbq0jVZ7fpZV/u8X6+DINQmH9WUuJmpFxqQiMZK0nxV0fqqqAGPI/j8wyt9ckcBLLY4motIUQxk6IkBjwgv8fbSWOhVlm4bLxbt6xqTNTcMff/Flixq7xTQoeeFfpG1mWvogabqB0S3iOzZuzwppwVhT4D/MtyvPcq7Fs6BPEBQn6QIogWqV1pPgvkmXQaWLUBkUHRkoUEIfKpSYOP4If98B8mEO8a9FuD6X/kd1ATDnh412+04rVQm2J9ZSFwq/cR2dvWU2lla8SsMZFx60JkA/FF4zVYOchkXAl7LzCrTpcrwO/wZ9lHvvQy+LhJH1Zdq46UIXiyxbn96ukP2G5ae1t3YLDgLZdxUWwFbBGgpdCAoufKuxPFdL2T04EVCkJ2w5/Cv5+cMs0cGFB5zLBXJSnCXODwQPZe2gg==;49c8q98OXBhQZuHX7e0mtA=="
+secured: "O8TA1DgR4a4lKfgV+X3qVeUkrCP7PD1ydB3ToTW45QBIv/CbJaZ1KxJbJ7dG9bgxaCHFqGyRScKhvcph+g6qnzAQVTqEzBcTGG+DDZgJyak4G8i3BBQYeNhr0wi0WlTbZ3wbWicD5HcB+00NkmSersdsOuj6AI7+pAvoj/Uvm4VImAMYxvdc7C5e9hreIfFTAQQidM7SZD6lPezYB62SWNXCT5+jR3NCV3mHhnrkANqcYGxNLXVzkGDA/S5mi9yOoyHSX0UbhwD7BnI4oyjyVlGI8ySAUzZDMFlPv1KiJexRHxpNEEyw68eylqQossGZO82JsIUMg8BFYGXR2I/zjVGFSlW4vAFvGM7wWYvqSRU=;nih+C8iQdpYJ7e1wNscl9Q=="
 ---
 

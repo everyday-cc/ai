@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/news/french-ai-start-up-mistral-ai-raise
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/french-ai-start-up-mistral-ai-raises-385-mn-euros-7cc2d989"
 type: article
 quality: 57
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "French AI start-up Mistral AI raises €385m"
+    excerpt: "French artificial intelligence start-up Mistral AI announced Sunday it had raised €385 million ($414 million), becoming one of Europe's two AI leaders. Founded in May by industry heavyweights, Mistral had already raised €105 million in June. Among ..."
+    publishedDateTime: 2023-12-11T12:35:00Z
+    webUrl: "https://www.dhakatribune.com/business/333592/french-ai-start-up-mistral-ai-raises-€385m"
+    ampWebUrl: "https://www.dhakatribune.com/amp/business/333592/french-ai-start-up-mistral-ai-raises-%E2%82%AC385m"
+    cdnAmpWebUrl: "https://www-dhakatribune-com.cdn.ampproject.org/c/s/www.dhakatribune.com/amp/business/333592/french-ai-start-up-mistral-ai-raises-%E2%82%AC385m"
+    type: article
+    provider:
+      name: Dhaka Tribune
+      domain: dhakatribune.com
+    quality: 57
+    images:
+      - url: "https://ecdn.dhakatribune.net/contents/cache/images/600x315x1/uploads/media/2023/12/11/000_33ZM9P9-b2692f2c39865b65deaec2e3e2362ef2.jpg?jadewits_media_id=10902"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Mistral AI raises 385 mln euros in second round in seven months"
     excerpt: "French artificial intelligence company Mistral AI said on Monday it had raised 385 million euros ($414.41 million) in its second funding round in seven months, led by investors such as Andreessen-Horowitz and LightSpeed Ventures."
     publishedDateTime: 2023-12-11T07:27:00Z
@@ -49,15 +65,6 @@ related:
         width: 1500
         height: 1060
         isCached: true
-  - title: "French AI start-up Mistral AI raises €385m"
-    excerpt: "French artificial intelligence start-up Mistral AI announced yesterday it had raised €385 million (RM1.9 billion), becoming one of Europe’s two"
-    publishedDateTime: 2023-12-11T00:55:00Z
-    webUrl: "https://www.malaymail.com/news/money/2023/12/11/french-ai-start-up-mistral-ai-raises-385m/106910"
-    type: article
-    provider:
-      name: malaymail
-      domain: malaymail.com
-    quality: 17
 
 secured: "61q4oVg6FZOXh8RAMCnvt80xVkU1q5IhjpKssoh3kuQLZBLe6yhV5euem29t7GGLAHnKL2Anih2s1ec4HCrUNkmWPbrS92jRmM0IR5B2MVUwu7q6x0YsUt4TDWiYalczBgpm/rl5kOebxvye7GD/l8TEvo3CYIPB8Lhm/NgS2j74W7IJTBfEBNAgRtgwRVN10fwv371+MuQWeZxIUDEx4t3JxRDdRhUSLw2XjaoQnH10t7G6NxNsqqcyc1FF91rm9PtrThBNWxcC8R54aI9dDyMAs+V4LoNqapm4u3NhrGLoSR9YRBAxEi3xOE1LexUryX9HaBoF21t6mvYr6RPc4Ul1rkv84fTUGA3rwRaDREo=;2/7TYtvF0FgcSlaNaXGffA=="
 ---

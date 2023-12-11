@@ -55,6 +55,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft Agrees to Union Contract Terms Governing Its Use of AI"
+    excerpt: "Microsoft Corp. has agreed to union contract language governing its use of artificial intelligence, creating an avenue for workers to challenge how it deploys the evolving technology."
+    publishedDateTime: 2023-12-11T11:59:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-12-11/microsoft-agrees-to-union-contract-terms-governing-its-use-of-ai"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 64
 
 secured: "bgV9Tp/AfDHYnzonf2eORsnrWghGt7UJvbayBK6qDNf26GEhUZX8bOsNxHrlM7yZqGC28uu96OdaZispkR0RStIbThihZ+1XMGmUQ8MuDneKJaBbb999AHODKDdSoinWaVwoW3wDLVxWh0dsbtQfdmcMPmtIRJ7fVw7C4s6br/LSioDOmIr1XWX2eWaRN/pbqr9dn1vAr+V/RXQslxcw1Cu1uydqAOT9DePUEGaX55nuxDirxmgyNxYXlQs7gT96s7Rku33gCjvTlalG9/CUspgew4ppM3Vuy+MTEA3sXXVLs12JxTw+LXcZvQZyXxvgYdsRQnKotCe1LKvyyujYojigZpjgEsnme53Axt7xxCzGqL8mQ2YtrGP6txJD8SNncHkt1l5A/5McuxBmoPmKH55TLrLrZGuK+EKQ0zpXRIVZI58yxlElzOM3JCTekLzbTIF0v8pEo8UoX4HlqdYn2uas0q2SE0tJ81UYnERjna7rAAThDtptIoBMObmvR+2M2Cz1kbim0IRFDHVupqyQYg==;IGb8b0CQySC8yp3/wJeM6g=="
 ---

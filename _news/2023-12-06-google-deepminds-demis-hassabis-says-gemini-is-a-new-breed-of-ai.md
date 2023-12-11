@@ -74,20 +74,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Figuring Out What Artificial General Intelligence Consists Of Is Enormously Vital And Mindfully On The Minds Of AI Researchers At Google DeepMind"
-    excerpt: "I walk you thru the likes of AI and AGI and what they mean, including a recently posted proposal by Google DeepMind about encompassing levels of autonomy. Good stuff."
-    publishedDateTime: 2023-12-06T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/12/06/figuring-out-what-artificial-general-intelligence-agi-consists-of-is-enormously-vital-and-mindfully-on-the-minds-of-ai-researchers-at-google-deepmind/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64e7c9d3dec13bc949d8ae23/0x0.jpg?format=jpg&crop=3524,2348,x6,y87,safe&height=900&width=1600&fit=bounds"
-        width: 1351
-        height: 900
-        isCached: true
   - title: "5 questions for Google DeepMind’s Tom Lue"
     excerpt: "Indeed, this week Google introduced Gemini to the world — the most capable and general model we’ve ever built. Gemini was built from the ground up to be multimodal, which means it can seamlessly understand,"
     publishedDateTime: 2023-12-08T20:02:00Z

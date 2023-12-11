@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "AI start-up Mistral secures €385m to challenge OpenAI"
+    excerpt: "French start-up Mistral is focused on creating open-source AI models and has reportedly hit unicorn status after raising €385m."
+    publishedDateTime: 2023-12-11T12:24:00Z
+    webUrl: "https://www.siliconrepublic.com/start-ups/mistral-ai-unicorn-funding-open-source"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 37
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/12/AdobeStock_259976477.jpeg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Paris-based Startup and OpenAI Competitor Mistral AI Valued at $2 Billion"
     excerpt: "In a significant development for the European artificial intelligence sector, Paris-based startup Mistral AI has achieved a noteworthy milestone. The company has successfully secured a substantial investment of €450 million,"
     publishedDateTime: 2023-12-09T14:18:00Z

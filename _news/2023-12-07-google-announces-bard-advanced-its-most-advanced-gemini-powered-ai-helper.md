@@ -7,7 +7,7 @@ originalUrl: "https://www.androidauthority.com/google-bard-advanced-3392203/"
 webUrl: "https://www.androidauthority.com/google-bard-advanced-3392203/"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google Gemini, Next Level AI, Comes To Bard & Coming To SGE"
+    excerpt: "Google announced its latest AI advancements named Gemini yesterday, calling it the most capable AI models yet. It is already baked into Bard and it is being tested in SGE, the Search Generative Exper"
+    publishedDateTime: 2023-12-07T12:51:00Z
+    webUrl: "https://www.seroundtable.com/google-gemini-bard-search-36518.html"
+    type: article
+    provider:
+      name: Search Engine Roundtable
+      domain: seroundtable.com
+    quality: 39
+    images:
+      - url: "https://s3.amazonaws.com/images.seroundtable.com/google-robot-gemini-1701889044.jpg"
+        width: 1456
+        height: 832
+        isCached: true
   - title: "Google Bard’s Gemini Upgrade: We Tested it for Travel"
     excerpt: "We tested the updated version of Google Bard on how well it performs for planning and booking travel, and more."
     publishedDateTime: 2023-12-09T12:00:00Z

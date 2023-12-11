@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/2023/12/09/technology/openai-altman-inside
 webUrl: "https://www.nytimes.com/2023/12/09/technology/openai-altman-inside-crisis.html"
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
     images:
       - url: "https://i.insider.com/65723e0e58e7c0c29a2ad896?width=1200&format=jpeg"
         width: 1200
+        height: 600
+        isCached: true
+  - title: "AI start-up Mistral secures €385m to challenge OpenAI"
+    excerpt: "French start-up Mistral is focused on creating open-source AI models and has reportedly hit unicorn status after raising €385m."
+    publishedDateTime: 2023-12-11T12:24:00Z
+    webUrl: "https://www.siliconrepublic.com/start-ups/mistral-ai-unicorn-funding-open-source"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 37
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/12/AdobeStock_259976477.jpeg"
+        width: 800
         height: 600
         isCached: true
   - title: "Unlock the Power of AI: A Step-by-Step Guide to Getting Your OpenAI API Key – Gizchina.com"

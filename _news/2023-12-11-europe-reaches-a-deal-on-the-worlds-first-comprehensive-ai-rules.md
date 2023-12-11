@@ -19,6 +19,29 @@ topics:
   - AI
 
 related:
+  - title: "The EU’s AI Act: A beacon of innovation and ethics for emerging Europe"
+    excerpt: "In an exceptional move reverberating through the corridors of technology and governance, the European Union has provisionally adopted the Artificial Intelligence Act, heralding a new era of digital ethics and innovation."
+    publishedDateTime: 2023-12-11T12:24:00Z
+    webUrl: "https://emerging-europe.com/partner-content/the-eus-ai-act-a-beacon-of-innovation-and-ethics-for-emerging-europe/"
+    type: article
+    provider:
+      name: emerging-europe.com
+      domain: emerging-europe.com
+    quality: 54
+    images:
+      - url: "https://emerging-europe.com/wp-content/uploads/2023/12/bigstock-ai-artificial-intelligence-310093555.jpg"
+        width: 1600
+        height: 1000
+        isCached: true
+  - title: "EU’s AI rules look best for those in the middle"
+    excerpt: "France and Germany may have found a sweet spot amid the European Union’s artificial intelligence rules. As expected, the bloc will require general-purpose AI players to report how they use data, train their models and respect copyright laws,"
+    publishedDateTime: 2023-12-11T11:33:00Z
+    webUrl: "https://www.reuters.com/breakingviews/eus-ai-rules-look-best-those-middle-2023-12-11/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 47
   - title: "Europe, a laggard in AI, seizes the lead in its regulation"
     excerpt: "Yet whether the AI Act will be as successful as the General Data Protection Regulation ( GDPR ), the EU ’s landmark privacy law, is another question. Important details still need to be worked out. And the European Parliament still needs to approve the final version."
     publishedDateTime: 2023-12-10T18:25:00Z
@@ -33,6 +56,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Artificial intelligence act: Council and Parliament strike a deal on the first rules for AI in the world"
+    excerpt: "Following three-day ‘marathon’ talks, the Council presidency and the European Parliament’s negotiators have reached a provisional agreement on the proposal on harmonised rules on artificial intelligence (AI),"
+    publishedDateTime: 2023-12-11T08:00:00Z
+    webUrl: "https://www.eureporter.co/internet-2/artificial-intelligence/2023/12/11/artificial-intelligence-act-council-and-parliament-strike-a-deal-on-the-first-rules-for-ai-in-the-world/"
+    type: article
+    provider:
+      name: eureporter.co
+      domain: eureporter.co
+    quality: 15
 
 secured: "LPQt0f+w+T7hWZIelxdTF65P3DYrITlSFO+oL/KY9zIOdkxtmtS2KW0T35dn7jh4+aVB02gwRqe6GbgS6aS3mmz861c4FIN8UMNcjrnBoX/pgdbWagi5EGYR9CQqhgxuAUuGtNmYlhwRWYBHZ9b1FybaMSlLNWchUOTsTzB2kUcXZJ/ZtSD7DDanhMtMVxHB5U3jYJHL8R34MHAEHps6Rjv5s6irECgJC9ETdaf24Kb48XL0byp8lTNR+t9HmI1BRhOHlCADcFRRcEZ/U5fuJZ2SKA+mkHoyajFsaI5PKyuXhalkjKfcazTt3rr4lfWMZM8nf+DfcTL38crb+YaZYmcfmNPFUlXDzE44jcr9D8s=;41dWGacBs1CmuPNo3MlH6g=="
 ---

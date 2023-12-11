@@ -45,6 +45,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Microsoft Agrees to Union Contract Terms Governing Its Use of AI"
+    excerpt: "Microsoft Corp. has agreed to union contract language governing its use of artificial intelligence, creating an avenue for workers to challenge how it deploys the evolving technology."
+    publishedDateTime: 2023-12-11T11:59:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-12-11/microsoft-agrees-to-union-contract-terms-governing-its-use-of-ai"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 64
   - title: "Google Crushes Microsoft's AI Monopoly"
     excerpt: "Gemini's release challenges Microsoft's monopoly on AI and could drive Google's projected EPS figures higher. Learn why I rate GOOG stock a hold."
     publishedDateTime: 2023-12-07T09:34:00Z

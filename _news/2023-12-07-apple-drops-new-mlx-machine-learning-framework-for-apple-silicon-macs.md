@@ -39,6 +39,20 @@ related:
         width: 1400
         height: 788
         isCached: true
+  - title: "Apple quietly releases MLX AI framework to build foundation AI models"
+    excerpt: "Apple's machine learning research team has quietly introduced and released a new machine learning framework called MLX, designed to optimize the"
+    publishedDateTime: 2023-12-11T11:41:00Z
+    webUrl: "https://www.geeky-gadgets.com/apple-mlx-ai-framework/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 41
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FFplJsVd2dTk%2F0.jpg"
+        width: 480
+        height: 360
+        isCached: true
 
 secured: "J0yOAQvAFgWG/ZRSNanG35DGiE3Yita8PKFBlQWnvGrYUfCMbU0vyc7bjU0dm6X4+9UMHQQ6x59JcMPwBqQLkfwQG8yT+WuuIyq7Acak1xtwq/MD/vgxPSy0clB7dYzyIVRvYZgvpX4sGSBFaONBinqVGytYGpXJAmH0+wmWnvo5Fe8TTE1UO+notT+l6br6vZuQN75Kuya4xQJisc/VLNmwFazXlU+Nv+53+2/+FA9Nhl6ePwuK24p/BL1ZID7tdbVfKBOyow/7yvZJzLVEq//YZkxoTHdRmBotpyyc2zpJmvUk3V8MrWGjGelX88yJ0/5e7edFUTfeZiQTSGY3nsG+xe4Nx6SOSy7vxn6gj374hLSnUgPP1X9izWHxAxKDW+BgBmzy82wgKMcMt1ih2qU2K/350p3PohrwZlL/fHUfNTN8Tf27KBvmIF4+acK6BE2uce5dJc8ki7O8HcxohRoGptd8FYdSRIcftY+JxdGsKhhTQY0sZ6uwmOfOVNb3wK7LS/pztPBdTRSgzweShw==;mYYy0dFr3M9zpu9KsURETA=="
 ---

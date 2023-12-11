@@ -9,7 +9,7 @@ ampWebUrl: "https://www.networkworld.com/article/1252992/tsmc-bets-on-ai-chips-f
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1252992/tsmc-bets-on-ai-chips-for-revival-of-growth-in-semiconductor-demand.html/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1024
     height: 682
     isCached: true
+
+related:
+  - title: "Nvidia races to fulfill AI demand with its first Vietnam semiconductor hub"
+    excerpt: "Vietnam has been a growing tech manufacturing destination for the past few years, and Nvidia said it is open to a new manufacturing partner in Vietnam."
+    publishedDateTime: 2023-12-11T11:29:00Z
+    webUrl: "https://www.networkworld.com/article/1255805/nvidia-races-to-fulfill-ai-demand-with-its-first-vietnam-semiconductor-hub.html"
+    ampWebUrl: "https://www.networkworld.com/article/1255805/nvidia-races-to-fulfill-ai-demand-with-its-first-vietnam-semiconductor-hub.html/amp/"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1255805/nvidia-races-to-fulfill-ai-demand-with-its-first-vietnam-semiconductor-hub.html/amp/"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 57
+    images:
+      - url: "https://www.networkworld.com/wp-content/uploads/2023/12/2023-keynote-nvidia-100941637-orig-1.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "KBzDzA4YuhH4T4+fmK3AeyipaguY43DB9MLcnXr/WiXUH0hp1w6y96pNGzt7AF8KaTiclRVJ+vky+5vpVyCLcJClAnqhqDzecZbGmSPtsioPSyKKzx+LahRtdUxBb+rZSJ2Eb3BICiUwbckSpzGnkqe0/8vLQU7e3353fd7RBOnDBFctYNxJcXvLgbQ8jJw0RZXrxlC2KDRQHd8BONeM+44Hr7b4o+oyb78/6BJ2jOn0c/Z5q/LgYAKu5ppIdLzmBUZC50radjU6gdshYDyOVNIV1JNFjB4Gfpd9IYC4b+Yk2s70dH0jCy2ETt3dU0x/PQyHeXksluEXQxX/NeJHyA2n9CeRsyFbjttPsTX5tgXPf8Tq5Yp0kHwwuG4uTOljV2aiU/VIdkGJDTYTbahGU+M8PRtKYgqCZEnHOphW5HNyuZHepBExAD7GvM0JDsjIshaYz2LWO3djMQmhV51gTuzCTPlB4xMTwOFrGomfvjzTJ5KohPjWFKJCm3AHLv/VQngO/MeP/aw2BN41MkbxVg==;9J9mPVS3J3rAUkZ+73iPXw=="
 ---

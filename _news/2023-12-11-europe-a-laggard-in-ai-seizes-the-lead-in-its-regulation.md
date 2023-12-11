@@ -7,7 +7,7 @@ originalUrl: "https://www.economist.com/europe/2023/12/10/europe-a-laggard-in-ai
 webUrl: "https://www.economist.com/europe/2023/12/10/europe-a-laggard-in-ai-seizes-the-lead-in-its-regulation"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,29 @@ images:
     isCached: true
 
 related:
+  - title: "The EU’s AI Act: A beacon of innovation and ethics for emerging Europe"
+    excerpt: "In an exceptional move reverberating through the corridors of technology and governance, the European Union has provisionally adopted the Artificial Intelligence Act, heralding a new era of digital ethics and innovation."
+    publishedDateTime: 2023-12-11T12:24:00Z
+    webUrl: "https://emerging-europe.com/partner-content/the-eus-ai-act-a-beacon-of-innovation-and-ethics-for-emerging-europe/"
+    type: article
+    provider:
+      name: emerging-europe.com
+      domain: emerging-europe.com
+    quality: 54
+    images:
+      - url: "https://emerging-europe.com/wp-content/uploads/2023/12/bigstock-ai-artificial-intelligence-310093555.jpg"
+        width: 1600
+        height: 1000
+        isCached: true
+  - title: "EU’s AI rules look best for those in the middle"
+    excerpt: "France and Germany may have found a sweet spot amid the European Union’s artificial intelligence rules. As expected, the bloc will require general-purpose AI players to report how they use data, train their models and respect copyright laws,"
+    publishedDateTime: 2023-12-11T11:33:00Z
+    webUrl: "https://www.reuters.com/breakingviews/eus-ai-rules-look-best-those-middle-2023-12-11/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 47
   - title: "Europe reaches a deal on the world’s first comprehensive AI rules"
     excerpt: "Click to email a link to a friend (Opens in new window) Click to print (Opens in new window)  LONDON | European Union negotiators clinched a deal Friday on the world’s first comprehensive artificial intelligence rules,"
     publishedDateTime: 2023-12-11T01:34:00Z
@@ -33,7 +56,16 @@ related:
       name: Sentinel Colorado
       domain: sentinelcolorado.com
     quality: 19
+  - title: "Artificial intelligence act: Council and Parliament strike a deal on the first rules for AI in the world"
+    excerpt: "Following three-day ‘marathon’ talks, the Council presidency and the European Parliament’s negotiators have reached a provisional agreement on the proposal on harmonised rules on artificial intelligence (AI),"
+    publishedDateTime: 2023-12-11T08:00:00Z
+    webUrl: "https://www.eureporter.co/internet-2/artificial-intelligence/2023/12/11/artificial-intelligence-act-council-and-parliament-strike-a-deal-on-the-first-rules-for-ai-in-the-world/"
+    type: article
+    provider:
+      name: eureporter.co
+      domain: eureporter.co
+    quality: 15
 
-secured: "wguPySIWMVZsnn5gK9Bp+eLZp+ONwrQRlhVs69A2TsCTOeHlsjAdWIWko5X67ZxltNGsUf8FPQUA+UAOAOTuFt5BxE2eEPvCQKaqq6D9BG27UREuERgoQ9myt1MaEduI4mQ3zCbOR1cG8hkHxjQeMKqTQ+MhLgdVP/8dWjHNBuHHOVUPjQNjRNR0uWFeqZ3oksfmfUu2h9Oc9eEkEVI3MSZjjQAMnMliXn1fj9C6pXj+iNJjAAeEbjZN/5rFrok+vH352J9IsfOQjs1cTL/yGZaNgD/9D1lGT+klXUjC/F5kEGNEu/E3xX0dSTNCVaR1NytjrmREREl53vEvXX9ieOUfAmznlK2LA2gLbBx4H54=;V8kXKMJv+QevzC0hZQZZXA=="
+secured: "u1bthsXX/Ld6+M57od4zA++XPy+0zZQZv5urSBd9rNLNelrd+9ZJ7N2Vb2zDIYyX3e+HJULSoRyobEpNSdsZ5JIaf0cPYjkqRnKjn6vLxblCRbcUMnfhlY0hVDzr1xJrIm2dNoA4HtUKG7ssRpaeYE66VlbHdspgKu3X4zejMXAX3b2YJ4TIWRbsnNGjGI7D92mk1arI/y7qL5v3EI9RnlswL/kFwaj8MjoCsU6+ijoxpnmLOYhWzBQl24EdtguEhbOL4RscvxS2s05WZyE/QoJOdRXO9OOzCydkzMaYmu5ttHafGIx9vHKRD/JUO7O8c9p/KOjQ64tsMDT/jkmYc+JmqV6BYwC2LrJZMeZUCNaamr5MZH85lkQHq8/ZxP6VuSRdCbcOzK9g5w9MjPyfJuvB8dQ24TnGloCMki8FLhcaB0GYtEpupDP8PlB1RY1HEOAnCiO08VaV2hk7H2YlkfZG5cuhIM6GAsiN8U6g0wco2kaUUw0Qsci7VVwU6I+KlBqhzEXTxA0bhqn1tHIl6A==;iPRn1Qjln0ms8dfuH5yLww=="
 ---
 

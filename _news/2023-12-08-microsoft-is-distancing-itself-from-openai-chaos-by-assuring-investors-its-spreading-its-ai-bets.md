@@ -43,6 +43,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "AI start-up Mistral secures €385m to challenge OpenAI"
+    excerpt: "French start-up Mistral is focused on creating open-source AI models and has reportedly hit unicorn status after raising €385m."
+    publishedDateTime: 2023-12-11T12:24:00Z
+    webUrl: "https://www.siliconrepublic.com/start-ups/mistral-ai-unicorn-funding-open-source"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 37
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/12/AdobeStock_259976477.jpeg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Unlock the Power of AI: A Step-by-Step Guide to Getting Your OpenAI API Key – Gizchina.com"
     excerpt: "Welcome to the future of artificial intelligence! OpenAI has revolutionized the AI landscape with its remarkable language models like ChatGPT and GPT-4. To"
     publishedDateTime: 2023-12-10T22:42:00Z

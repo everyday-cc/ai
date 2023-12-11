@@ -18,19 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "How the AI boom could boost energy use and carbon emissions"
-    excerpt: "Artificial intelligence has a complicated relationship with climate change — it’s both helping to combat emissions and adding to them as it grows in popularity."
-    publishedDateTime: 2023-12-11T09:55:00Z
-    webUrl: "https://www.washingtonexaminer.com/policy/energy-environment/how-the-ai-boom-could-boost-energy-use-and-carbon-emissions"
+  - title: "Beamr Releases White Paper on using its CABR Solution to Boost Vision AI"
+    excerpt: "In the new White Paper, Beamr shows that video files that were slimmed down by 40% on average - without losing their perceptual quality due to Beamr’s CABR technology - keep ML results unaffected."
+    publishedDateTime: 2023-12-11T12:35:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/beamr-releases-white-paper-on-using-its-cabr-solution-to-boost-vision-ai-1032889190"
     type: article
     provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 39
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 68
     images:
-      - url: "https://mediadc.brightspotcdn.com/dims4/default/f6e5f6d/2147483647/strip/true/crop/1691x888+0+124/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F9e%2Fc6%2Fb8195dfbe9bcce5d4943087ed550%2F0ffda467f779904565811524ff883dfb.jpg"
-        width: 1200
-        height: 630
+      - url: "https://ml.globenewswire.com/Resource/Download/ebfa3326-9f90-4fac-a6d3-e234d3cdbc0f"
+        width: 533
+        height: 320
         isCached: true
 
 secured: "bCExt4hNtGaGFFQWrcEZOckmQB4f66eGsoEzm25wqnwVQLhMEs7/E8Ec9kDo11vKZ6R2g6nBZ3wITYx4EBu645MnF4CoHBFHfh/kBSz2CM7ZQlBHOe6vXZu/0XzqsgDkhwBkXRLFq5q0LWq22yrNjr4dIEbR6ypz7zChli2ZxvqNTqMi/XCJbQHosQWuJES/OjeibbbiPB+2HciLsrv3q6OuGsEsygBwMi25TVv22t88ojyVT3HLj0B6tHwGkwNVFfOXuUBgo/jyPC0i5XoDpMv5KSSfhBd89FKnFrT5JKlQww+8Mwprw59256Ur36rZqCbycHwsvTMV1qqIh05sw+SzDOYtKax8wlp4hLCLE1ABv8iHMY/P7thA494DHYrywGjXJxWgWH01MWdXnvKP5fjzRrTiRr1Sx0RIV5nlGJjfwSYP+aYafU6kABfpRM4/zxd4WHKJuMrjULUCzAQ9iZQmpr5Hl0awpNVIEZFlBOcDxfqzPsTF4cm0gXiX5kD71ZMCMr41SKzJLYcXDAZ74A==;R5kbbWvOnfcSzmJ9qgsXFg=="

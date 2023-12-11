@@ -24,17 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Service firms use AI, automation to boost precision, safety"
-    excerpt: "Artificial intelligence and automation are increasingly being adopted as oil producers and service companies seek to improve efficiency and safety"
-    publishedDateTime: 2023-12-10T05:02:00Z
-    webUrl: "https://www.chron.com/business/oil/article/service-firms-use-ai-automation-boost-precision-18540024.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 17
-
 secured: "8W11/dUCWeorPwvRO7xdurASYvYQXxyvoRd44Vr5zCFlN05tg5nk2tKwUgzJ9avTX5ShIxBFhVAeybmiLILaBGZsIF3mXtcJkfpctxaTtCvRQ1Elyr2o0FKYIyktlJ3Zwb+FkO5w5N0ZVyHVcdZn5ZFh4Cz0B2+FQ828DQ7FaweplVr3kpeEUTRyg33fG26tOnXJwWRjzVLarvt5JWZC+Ehf8aT47EdQaBLR4z52ZfydYbWc/k1dOiY4nRCPuq4pa/Kde5/gMDaig32XK5s/tsmcnFmEET4+onqizIrHQpTQcfzEuNtoGfJcyc+9RlRwbG8S+qE3T6+ED9RFg4xLffwGPGXxEESWOZ/wQoNN+KY=;XEY34mqWxlAqVkKQgFbxMw=="
 ---
 

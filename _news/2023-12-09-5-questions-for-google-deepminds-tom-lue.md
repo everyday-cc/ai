@@ -83,20 +83,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Figuring Out What Artificial General Intelligence Consists Of Is Enormously Vital And Mindfully On The Minds Of AI Researchers At Google DeepMind"
-    excerpt: "I walk you thru the likes of AI and AGI and what they mean, including a recently posted proposal by Google DeepMind about encompassing levels of autonomy. Good stuff."
-    publishedDateTime: 2023-12-06T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/12/06/figuring-out-what-artificial-general-intelligence-agi-consists-of-is-enormously-vital-and-mindfully-on-the-minds-of-ai-researchers-at-google-deepmind/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64e7c9d3dec13bc949d8ae23/0x0.jpg?format=jpg&crop=3524,2348,x6,y87,safe&height=900&width=1600&fit=bounds"
-        width: 1351
-        height: 900
-        isCached: true
 
 secured: "v7oN/78evJU1QH4LeVGc7lhCEAInmfLRIQTTEqG1Phln308rfUsx7mZ5yoRRzYIKNk8GIMwaxci5WPS50XIe77eDwHkqcDenmxc8Y+bgv0Lp1FtfAoK+SUo49+7j7R54kDUl7+otuTRvr4Y/KGGY+80scfaP3GAIfvUENVVVo/HE7wDYmQSanNmD84f7vv1CBp5AVokMvwA4TbKermrgBZ4cIf90wTm8G3avr0jxvFJuBndS/IVb8VieXOJDtB7+0It6181TvJCqUrWwgbopWVyVTD1ERZNuOT0THqmg/0+noZ09Y6J1w3FU0Nv1tdGvwR7mkBQqe+BHsruVTTTxvcPTC/KXe1rs7u0JlP9e5Pg=;c5QF7g0RM9pCC9UDIQsscg=="
 ---

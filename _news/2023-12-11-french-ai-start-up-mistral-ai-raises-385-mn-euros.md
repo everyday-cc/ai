@@ -40,6 +40,22 @@ related:
         width: 1320
         height: 742
         isCached: true
+  - title: "French AI start-up Mistral AI raises €385m"
+    excerpt: "French artificial intelligence start-up Mistral AI announced Sunday it had raised €385 million ($414 million), becoming one of Europe's two AI leaders. Founded in May by industry heavyweights, Mistral had already raised €105 million in June. Among ..."
+    publishedDateTime: 2023-12-11T12:35:00Z
+    webUrl: "https://www.dhakatribune.com/business/333592/french-ai-start-up-mistral-ai-raises-€385m"
+    ampWebUrl: "https://www.dhakatribune.com/amp/business/333592/french-ai-start-up-mistral-ai-raises-%E2%82%AC385m"
+    cdnAmpWebUrl: "https://www-dhakatribune-com.cdn.ampproject.org/c/s/www.dhakatribune.com/amp/business/333592/french-ai-start-up-mistral-ai-raises-%E2%82%AC385m"
+    type: article
+    provider:
+      name: Dhaka Tribune
+      domain: dhakatribune.com
+    quality: 57
+    images:
+      - url: "https://ecdn.dhakatribune.net/contents/cache/images/600x315x1/uploads/media/2023/12/11/000_33ZM9P9-b2692f2c39865b65deaec2e3e2362ef2.jpg?jadewits_media_id=10902"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Mistral AI raises 385 mln euros in second round in seven months"
     excerpt: "French artificial intelligence company Mistral AI said on Monday it had raised 385 million euros ($414.41 million) in its second funding round in seven months, led by investors such as Andreessen-Horowitz and LightSpeed Ventures."
     publishedDateTime: 2023-12-11T07:27:00Z
@@ -49,16 +65,7 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
-  - title: "French AI start-up Mistral AI raises €385m"
-    excerpt: "French artificial intelligence start-up Mistral AI announced yesterday it had raised €385 million (RM1.9 billion), becoming one of Europe’s two"
-    publishedDateTime: 2023-12-11T00:55:00Z
-    webUrl: "https://www.malaymail.com/news/money/2023/12/11/french-ai-start-up-mistral-ai-raises-385m/106910"
-    type: article
-    provider:
-      name: malaymail
-      domain: malaymail.com
-    quality: 17
 
-secured: "OMkQNIiAnparZO7ejgVFJ0bzJkRMtvhoAIoL7mlMkEgkvBi4tADZKhZ9JqWA8L98qNn8EGG0tpF7mIs3GULiyuw82pU6K0ai77GH8pTZWbW9E5KTXSyI8Z7GGtdOdLDiIN3jgFVX6gNSUw2sElkS77lPTrLFZRWeoU3IIF2lmwNTKhP6su/4I9H0wZ3a/rigmtbwgdV0VxH66FpzZ5wQ04xUyfjMUiZ0SKN+L1uS9oWxYbK1Nj8PhijKzlqRr78o5qe8ZKiDJqk5lUzkZLi/FFlWUbinoW+DQKbrw4V8zExWgX1b5GlraYUyuxfOaKuWowdARQ/IigCJSP3GRG3domdQ9pX5vkVxDPJLwKZiSYQ=;QhMJhz7B4iQjEXpBqbORUg=="
+secured: "WXr7RiYbWu3eciEcYOXtcsl8q63ujhccod6oNcSObCMef/Sf9xsO2h5NhKSyVFIZeUfPMV6ajlMYyYdzyfHywTW/ueFT9fApjfeEQAI3GcEgHfNMYEpkJ85O1XpuWWQovXoxqyApEj8+7nFRKzaOXfkjlQ7HGVM1+lCPeJBn/Gw9ZdXc3KfG9tfImcwW5PfoF9VYj2MYHtBswBU2J7ynnUmRXtn08fcCjZnAf+ufmn+GqMyGUPSX2DTb/KPq1aE2YI4bru1lMxD52EEv4QZpi1FUSs2lQKvUL7UPYe9xuaKqLi0pWDb4hk/Cgn4rRqJa2ivb/aB1kCZnn9/0zJI71OEPSqiyxRuHsg2KCUObm7uaPq7xRpGAlSIRqrr6GX3dJIhYq8JKe7CCwGtYnCzjRPX4zqvJbvRlIwr30IYIfDPthBxAVBf3BjjBMcxIU4V6kg6kcxnVMFgiv/R3Mqq1ksdk6jCF/vw845AEHcKdSfEqlfwB4IRhmlNRelZcRCR9igU2/4TiZHVKrAqfmANk1g==;arwxmLg8IzTGtOxqJ8K+3A=="
 ---
 
