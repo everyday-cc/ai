@@ -7,7 +7,7 @@ originalUrl: "https://deepmind.google/discover/blog/google-deepmind-at-neurips-2
 webUrl: "https://deepmind.google/discover/blog/google-deepmind-at-neurips-2023/"
 type: article
 quality: 89
-heat: 139
+heat: 140
 published: true
 
 provider:

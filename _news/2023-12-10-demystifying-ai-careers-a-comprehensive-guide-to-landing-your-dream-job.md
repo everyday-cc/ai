@@ -27,7 +27,7 @@ related:
     provider:
       name: Impacts
       domain: techbullion.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://techbullion.com/wp-content/uploads/2023/12/Unlocking-the-Power-of-Artificial-Intelligence-Software-A-Comprehensive-Guide.jpg"
         width: 650

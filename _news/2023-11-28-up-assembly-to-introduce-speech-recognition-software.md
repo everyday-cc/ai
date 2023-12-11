@@ -1,26 +1,28 @@
 ---
 category: news
 title: "UP Assembly to introduce speech recognition software"
-excerpt: "The Uttar Pradesh Assembly will now introduce speech recognition software. A tender has been issued for the development and procurement of the software and the entire process is being conducted through the e-tender portal."
-publishedDateTime: 2023-11-28T03:59:00Z
-originalUrl: "https://www.ibtimes.co.in/assembly-introduce-speech-recognition-software-864259"
-webUrl: "https://www.ibtimes.co.in/assembly-introduce-speech-recognition-software-864259"
+excerpt: "A tender has been issued for the development and procurement of the software and the entire process is being conducted through the e-tender portal. The new software is expected to bring a host of features aimed at facilitating a seamless and structured conduct of sessions within the assembly,"
+publishedDateTime: 2023-11-28T03:35:00Z
+originalUrl: "https://economictimes.indiatimes.com/news/india/up-assembly-to-introduce-speech-recognition-software/articleshow/105548107.cms"
+webUrl: "https://economictimes.indiatimes.com/news/india/up-assembly-to-introduce-speech-recognition-software/articleshow/105548107.cms"
+ampWebUrl: "https://m.economictimes.com/news/india/up-assembly-to-introduce-speech-recognition-software/amp_articleshow/105548107.cms"
+cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/india/up-assembly-to-introduce-speech-recognition-software/amp_articleshow/105548107.cms"
 type: article
 
 provider:
-  name: IBTimes India
-  domain: ibtimes.co.in
+  name: Indiatimes
+  domain: indiatimes.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://data1.ibtimes.co.in/en/full/792460/lucknow-monsoon-session-uttar-pradesh-assembly.jpg"
-    width: 1024
-    height: 683
+  - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-150000,msid-105548197/up-assembly-to-introduce-speech-recognition-software.jpg"
+    width: 600
+    height: 450
     isCached: true
 
-secured: "FspXhuvVMIU15tQwW3ZrEWhEFKCS9+YajU+Y2F+9HUmI5ZOtGr69+/AEws5wRNrNA7SIJI5f+H/iez2nguYSbf6AWjpUI4CQrte6lzEXCKqt3PjqGniwF4wROZ9gUyqcdSmnjmfbaIrOmK8h7jai8eZYvs49fIQOmSYeI/Hv7BVNaDJ2wW3LTXio6zmk1e3j4CrV/wewQqOBWbPrRCBPjw74klFyacDqsD/I14LLQNJSN0macSCT18yEXkYQcTIYiwlnRBMfUH8wryqLMl8uAHVMHcF5lYMYZ7a6sJCmnp3Jcd1VW8v0DZ/f2uG7PZAFxy46HSGkn0+4IEEKSpNhpcFx2OyUT5JIDDc6zrY3N65VU7FscpYB8NkpOi06Yycu2EV8dek7IWrziG/dxcxTXgaxcmh41qrGtaVtVEREyZ8XJeNmXelNAJctfCIVXJeKkFt6trczt5uZeznsyimZz7CH2dSFX/mmLxNFL40Bu6tlZNkOxVzFSEGFzLCVqEzlaIInzDIMyFIshP42Aekd5w==;NLncuLTiic9E/VzX92KlTQ=="
+secured: "n/tgqDwkuUMR3FaxW1CFMmmBWIswG7IlT9v5y5IvLeN3IKxpFmxu0ejhXrZ6D7sExend88nX2X0+QWOzYH/53KdNrqpaXNrLOx4gPFAFZRpd12uqlWlwkzD+71BBPHm+CC9ua+4Bi1Y+xeJWIAwqD+5zfYdbgpJw+JlFEz0/2TT2TAkKf5qnOXNUwTh9bU5BDd2bUui2oQlWc/aJ2oVCii4+IdrpBn9mq9J0nIksd723lujvoTyKeMsD7hO+cAxXi1OgPP5B/0ep13YmdRy2MXAczOIkNw8UwL3ChC8Zah5TaIsp/BiVQLGnTJep4wFg4G0tW3ofM+GcqiRd4fH6DO3gS1jc3x5CbCvYJGw4IkY=;pBQtUdn/9LJCYiHVuJK5fQ=="
 ---
 

@@ -59,15 +59,6 @@ related:
         width: 1536
         height: 1050
         isCached: true
-  - title: "Gretel Debuts on Microsoft Azure Marketplace & Selected for Microsoft for Startups Pegasus Program"
-    excerpt: "today announces its software is now available on the Microsoft Azure Marketplace. This integration provides a robust cloud data infrastructure for enterprises seeking secure, precise, and timely data to innovate in machine learning and AI, while navigating ..."
-    publishedDateTime: 2023-12-06T10:45:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231206786976/en/Gretel-Debuts-on-Microsoft-Azure-Marketplace-Selected-for-Microsoft-for-Startups-Pegasus-Program"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 20
 
 secured: "EEfOKa2H+s1stGFWNXbbhp5U1DPaYGZ1oUT4Ad9XUAg0e6csaVRnru2X83SKm+gKcOBGIL03Ed0w7DQVmVrMW9EpC/StAXnH+G3glZVhTx1jG3++oo1QpMYSPLsVaPvowWgxFBQjoNv/gx1la+Qa9WzprBU/L56phNEpGLTlApCnP1d1/8nwEWtAROCd6G7R7feNI84MYcmHP6nA6DOMb5zc4eSASGWvxbFDhmdmV2r8ea/t4YrybEhwYLs515hfvscUPxheVBtaS/nuJV2IW9dp3g0w0NBVljRzgcoY4Cq6mq8PBt6XmMMWSwxULl30CHAWNOxf4sXhaeqAT+m68Wy+V4+hJ3YnEKo4iAba8Sz7iPRJKWTp8i81umLv98QKiCqjKRpq/CGBDo1WQx3xRa2JaFmCZGokEzKKxS4DF/tjdVeNIwSwGO4tWK/Pz4Rz345fPEjngefqOmP7GEP4oGxXVxtU0v3kF1D+5E4eMuoJX6kS9Jazfu50Jh8l/WTmpwih8tAoSw3KcUf8HCOniA==;OXaO9Jh1URbsbe4eG+d8Qg=="
 ---

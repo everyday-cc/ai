@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3711407/accelerating-cloud-native-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711407/accelerating-cloud-native-development-in-microsoft-azure.amp.html"
 type: article
 quality: 104
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -59,15 +59,6 @@ related:
         width: 1536
         height: 1050
         isCached: true
-  - title: "Gretel Debuts on Microsoft Azure Marketplace & Selected for Microsoft for Startups Pegasus Program"
-    excerpt: "today announces its software is now available on the Microsoft Azure Marketplace. This integration provides a robust cloud data infrastructure for enterprises seeking secure, precise, and timely data to innovate in machine learning and AI, while navigating ..."
-    publishedDateTime: 2023-12-06T10:45:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231206786976/en/Gretel-Debuts-on-Microsoft-Azure-Marketplace-Selected-for-Microsoft-for-Startups-Pegasus-Program"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 20
 
 secured: "YpwJN+G6BeACg9vH30Y9wU0rQ3g6p3B+L6V1kS64FQSnGeaFwMAOaHmzVPqP/zARqvjve1Jvc2oiZg+GssxU6qqeixUKaUMLAGjsUmZokRKL8ddqQZLqlZCxhTik0YRbdIbd2iV5gKIcvhWDy9CKsvvDdEK8jOWJs19dUrvxwRrEQICm1RUDMnHiKRttMFbntY+3lCN8XnnDF8+250b5Pk6EzV8he7L97klr6MyKJvjsMnzXNNn3fj9teBhbfIFcIXMQUN6BdtghQwEuuK3ZDrVzoanXVU6bE6Pni1aOLjyJSxnW8kwK/vfxIxQtlxp6KybeqVh0A5xYusz5cNqdtj+aYzGsNeAVVahWCFOfyBg=;bvqud78u2IjFT394o3mbFg=="
 ---

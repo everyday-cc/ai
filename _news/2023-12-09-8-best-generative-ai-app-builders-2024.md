@@ -7,8 +7,8 @@ originalUrl: "https://www.eweek.com/artificial-intelligence/best-generative-ai-a
 webUrl: "https://www.eweek.com/artificial-intelligence/best-generative-ai-app-builders/"
 type: article
 quality: 69
-heat: 109
-published: true
+heat: -1
+published: false
 
 provider:
   name: eWeek
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Generative AI is off to a rough start"
+    excerpt: "As the big vendors overstate the capabilities of their generative AI projects, maybe it’s time to use open source to keep them honest."
+    publishedDateTime: 2023-12-11T10:00:00Z
+    webUrl: "https://www.infoworld.com/article/3711414/generative-ai-is-off-to-a-rough-start.html"
+    ampWebUrl: "https://www.infoworld.com/article/3711414/generative-ai-is-off-to-a-rough-start.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711414/generative-ai-is-off-to-a-rough-start.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2021/12/28/10/10_untruthful_lies_liar_untrustworthy-100781303-large-100915050-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Google’s Gemini Is the Real Start of the Generative AI Boom"
     excerpt: "A new AI model from Google—called Gemini—is fresh competition for OpenAI’s ChatGPT. The AI rivals are now working on even more radical ideas."
     publishedDateTime: 2023-12-07T16:08:00Z
@@ -65,6 +81,15 @@ related:
     provider:
       name: The Business Journals
       domain: bizjournals.com
+    quality: 17
+  - title: "Open-source generative AI startup Mistral AI raises $415M in funding"
+    excerpt: "French generative artificial intelligence startup Mistral AI announced today it has closed on its second bumper funding round of the year, raising 385 million euros, or around $415 million, in a deal led by prominent venture capital firms Andreessen Horowitz and Lightspeed Venture Partners."
+    publishedDateTime: 2023-12-11T01:47:00Z
+    webUrl: "https://siliconangle.com/2023/12/10/open-source-generative-ai-startup-mistral-ai-raises-415m-funding/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
     quality: 17
   - title: "Dell Technologies storage advancements accelerate AI and generative AI strategies"
     excerpt: "Dell Technologies is helping customers achieve faster AI and generative AI (genAI) performance with new enterprise data storage advancements and validation with the Nvidia DGX SuperPod AI infrastructure."

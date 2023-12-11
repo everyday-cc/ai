@@ -7,7 +7,7 @@ originalUrl: "https://www.pluralsight.com/resources/blog/cloud/aws-reinvent-2023
 webUrl: "https://www.pluralsight.com/resources/blog/cloud/aws-reinvent-2023-recored-sessions"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,22 @@ provider:
 topics:
   - AWS AI
   - AI
+
+related:
+  - title: "AWS re:Invent 2023 showcased future of AI"
+    excerpt: "Invent 2023 made a big impression with some groundbreaking announcements and thought-provoking keynote speeches."
+    publishedDateTime: 2023-12-11T09:57:00Z
+    webUrl: "https://vir.com.vn/aws-reinvent-2023-showcased-future-of-ai-107537.html"
+    type: article
+    provider:
+      name: Vietnam Investment Reviev
+      domain: vir.com.vn
+    quality: 54
+    images:
+      - url: "https://vir.com.vn/stores/news_dataimages/2023/122023/11/14/in_social/adam-selipsky-ceo-of-aws-20231211144724.png?randTime=1702292879"
+        width: 600
+        height: 385
+        isCached: true
 
 secured: "WfMTjzjxrWO9Rf3Y5EBhsqLhznymDo8bxoAPDdNIs9wzYtevwOkbfqWvUKGchTqQ7k2bP1IpOQ0tf0u972rhMzPrEeUwVPocCfeeJQ5p0WJrhqeNB1kFr6tlUFZk0RF+gZ+JUA/muzCyfnH9bklaPVdiBGxXgZMlzG5HzneBivhZ3I+PuEubDmouthpVq7jmvvFQLnl0aIM90/mUFlbwbEMQT3IDLVS6AbWe7baLzVvmNl2Fs5mTWyFGOqs9UlVXoI+DlJvhknepUCYUZAqlqjK6ZAAX1FaoaNcF5zliAG0TPoRe3iTs7etn3GeGdkbNkXhPjCFNUPrCo33zZ+EHWqZ2z9Pc1RibVYqBxdFEJkc=;WYB309GAxP0Mk0qtFaYrGw=="
 ---

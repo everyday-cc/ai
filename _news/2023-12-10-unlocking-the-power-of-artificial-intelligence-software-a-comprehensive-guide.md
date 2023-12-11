@@ -6,8 +6,8 @@ publishedDateTime: 2023-12-09T16:16:00Z
 originalUrl: "https://techbullion.com/unlocking-the-power-of-artificial-intelligence-software-a-comprehensive-guide/"
 webUrl: "https://techbullion.com/unlocking-the-power-of-artificial-intelligence-software-a-comprehensive-guide/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI in Healthcare
   - AI
   - AI in Autos
+  - Computer Vision
 
 images:
   - url: "https://techbullion.com/wp-content/uploads/2023/12/Unlocking-the-Power-of-Artificial-Intelligence-Software-A-Comprehensive-Guide.jpg"

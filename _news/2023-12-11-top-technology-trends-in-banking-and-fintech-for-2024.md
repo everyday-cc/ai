@@ -46,8 +46,8 @@ related:
     quality: 54
   - title: "6 Fintech Resources in Asia to Read in Preparation for 2024"
     excerpt: "Look ahead to the future of financial innovation in Asia, with this guide to some of the must-read fintech resources to gear up for 2024."
-    publishedDateTime: 2023-12-11T07:39:00Z
-    webUrl: "https://fintechnews.sg/81825/sponsoredpost/6-fintech-resources-in-asia-to-read-in-preparation-for-2024/"
+    publishedDateTime: 2023-12-11T07:41:00Z
+    webUrl: "https://fintechnews.sg/81825/fintech/6-fintech-resources-in-asia-to-read-in-preparation-for-2024/"
     type: article
     provider:
       name: Fintech Singapore

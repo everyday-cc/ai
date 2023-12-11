@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Generative AI is off to a rough start"
+    excerpt: "As the big vendors overstate the capabilities of their generative AI projects, maybe it’s time to use open source to keep them honest."
+    publishedDateTime: 2023-12-11T10:00:00Z
+    webUrl: "https://www.infoworld.com/article/3711414/generative-ai-is-off-to-a-rough-start.html"
+    ampWebUrl: "https://www.infoworld.com/article/3711414/generative-ai-is-off-to-a-rough-start.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711414/generative-ai-is-off-to-a-rough-start.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2021/12/28/10/10_untruthful_lies_liar_untrustworthy-100781303-large-100915050-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "8 Best Generative AI App Builders 2024"
     excerpt: "Indeed, this AI app platform is very strong when it comes to interoperability: AppSheet apps can connect to hosted Excel files, Google Sheets, Google Drive, Cloud SQL, Apigee, Azure SQL, AWS, Salesforce objects, Smartsheet, and OData. AppSheet naturally ..."
     publishedDateTime: 2023-12-09T00:00:00Z
@@ -69,6 +85,15 @@ related:
     provider:
       name: The Business Journals
       domain: bizjournals.com
+    quality: 17
+  - title: "Open-source generative AI startup Mistral AI raises $415M in funding"
+    excerpt: "French generative artificial intelligence startup Mistral AI announced today it has closed on its second bumper funding round of the year, raising 385 million euros, or around $415 million, in a deal led by prominent venture capital firms Andreessen Horowitz and Lightspeed Venture Partners."
+    publishedDateTime: 2023-12-11T01:47:00Z
+    webUrl: "https://siliconangle.com/2023/12/10/open-source-generative-ai-startup-mistral-ai-raises-415m-funding/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
     quality: 17
 
 secured: "evSPi8fY87u3UexUQobBg7cFVK374F2hEzXYEeMafYzipa9q/OI1xbTqL9bBPyujBn8Aj4DUAINsQ8y2S/lSqHwwRjoZZuxDnoXZPzkKlNypleqvM5UfrTEwbhJYeBR7tHRiqYHaXpiy4eiPwnpm67CAeKXwcLB7+iV0F0zZjBgl8Zo0WvjjhwazEUjUv6rTnJgmwr+C6ZAJ+sXY1i5UCALFhr5okKtfkz1zGYk5ttVO/hkPxiYc8q+9Xxl0j1V/P0+15YJrcq9lIaO8a11ogAfeSHSnF7QXqjPUURTx9tzXT5bwlTzpRR5LIPqiIqq9GS8IyxbL8FGnXyrTuCV0Mq4POBkvv7MSQu+z3HKysqxk907rhZ52lsXcnQlW44PO4xaGo8X6opd9aLG35O9OG/M1/jFH1ue3jOrhwb3jh1OFjqWMxopxFjGBvZtWVe9FbUmXL1IWLRkrdD9FmKDsi1dx3g5N4rHij+mMGTc4Q+5jLUsoO/7camldOp0Juk7Ucq/jSwX3/M17Bvnu4AxDEw==;bZPqVv2PNaIttdc5URF4DQ=="

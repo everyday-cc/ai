@@ -39,22 +39,6 @@ related:
         width: 1400
         height: 788
         isCached: true
-  - title: "Apple silently releases its Deep Learning framework as open-source code"
-    excerpt: "Apple is silently releasing its Deep Learning framework as an open-source code, according to X user Delip Rao. The new MLX framework runs natively on Apple Silicon with a single pip install. According to BGR,"
-    publishedDateTime: 2023-12-06T15:19:00Z
-    webUrl: "https://www.mactech.com/2023/12/06/apple-silently-releases-its-deep-learning-framework-as-open-source-code/"
-    ampWebUrl: "https://www.mactech.com/2023/12/06/apple-silently-releases-its-deep-learning-framework-as-open-source-code/amp/"
-    cdnAmpWebUrl: "https://www-mactech-com.cdn.ampproject.org/c/s/www.mactech.com/2023/12/06/apple-silently-releases-its-deep-learning-framework-as-open-source-code/amp/"
-    type: article
-    provider:
-      name: MacTech
-      domain: mactech.com
-    quality: 59
-    images:
-      - url: "https://www.mactech.com/wp-content/uploads/2023/10/Apple-and-AI-1024x551.jpg"
-        width: 1024
-        height: 551
-        isCached: true
 
 secured: "J0yOAQvAFgWG/ZRSNanG35DGiE3Yita8PKFBlQWnvGrYUfCMbU0vyc7bjU0dm6X4+9UMHQQ6x59JcMPwBqQLkfwQG8yT+WuuIyq7Acak1xtwq/MD/vgxPSy0clB7dYzyIVRvYZgvpX4sGSBFaONBinqVGytYGpXJAmH0+wmWnvo5Fe8TTE1UO+notT+l6br6vZuQN75Kuya4xQJisc/VLNmwFazXlU+Nv+53+2/+FA9Nhl6ePwuK24p/BL1ZID7tdbVfKBOyow/7yvZJzLVEq//YZkxoTHdRmBotpyyc2zpJmvUk3V8MrWGjGelX88yJ0/5e7edFUTfeZiQTSGY3nsG+xe4Nx6SOSy7vxn6gj374hLSnUgPP1X9izWHxAxKDW+BgBmzy82wgKMcMt1ih2qU2K/350p3PohrwZlL/fHUfNTN8Tf27KBvmIF4+acK6BE2uce5dJc8ki7O8HcxohRoGptd8FYdSRIcftY+JxdGsKhhTQY0sZ6uwmOfOVNb3wK7LS/pztPBdTRSgzweShw==;mYYy0dFr3M9zpu9KsURETA=="
 ---

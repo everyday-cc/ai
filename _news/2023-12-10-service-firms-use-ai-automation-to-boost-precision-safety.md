@@ -18,17 +18,17 @@ topics:
   - AI
 
 related:
-  - title: "Edge Learning Boosts Operational Efficiency for Warehouse Automation"
-    excerpt: "Edge-based machine learning improves sortation precision by leveraging simple examples and advanced AI algorithms."
-    publishedDateTime: 2023-12-07T05:26:00Z
-    webUrl: "https://www.mhlnews.com/technology-automation/article/21278576/edge-learning-boosts-operational-efficiency-for-warehouse-automation"
+  - title: "How the AI boom could boost energy use and carbon emissions"
+    excerpt: "Artificial intelligence has a complicated relationship with climate change — it’s both helping to combat emissions and adding to them as it grows in popularity."
+    publishedDateTime: 2023-12-11T09:55:00Z
+    webUrl: "https://www.washingtonexaminer.com/policy/energy-environment/how-the-ai-boom-could-boost-energy-use-and-carbon-emissions"
     type: article
     provider:
-      name: Material Handling & Logistics
-      domain: mhlnews.com
-    quality: 24
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 39
     images:
-      - url: "https://img.mhlnews.com/files/base/ebm/mhlnews/image/2023/12/6570a59b2063f6001efead21-warehouse_automation_machine_learning.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+      - url: "https://mediadc.brightspotcdn.com/dims4/default/f6e5f6d/2147483647/strip/true/crop/1691x888+0+124/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F9e%2Fc6%2Fb8195dfbe9bcce5d4943087ed550%2F0ffda467f779904565811524ff883dfb.jpg"
         width: 1200
         height: 630
         isCached: true

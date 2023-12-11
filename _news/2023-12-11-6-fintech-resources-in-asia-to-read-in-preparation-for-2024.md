@@ -2,9 +2,9 @@
 category: news
 title: "6 Fintech Resources in Asia to Read in Preparation for 2024"
 excerpt: "Look ahead to the future of financial innovation in Asia, with this guide to some of the must-read fintech resources to gear up for 2024."
-publishedDateTime: 2023-12-11T07:39:00Z
-originalUrl: "https://fintechnews.sg/81825/sponsoredpost/6-fintech-resources-in-asia-to-read-in-preparation-for-2024/"
-webUrl: "https://fintechnews.sg/81825/sponsoredpost/6-fintech-resources-in-asia-to-read-in-preparation-for-2024/"
+publishedDateTime: 2023-12-11T07:41:00Z
+originalUrl: "https://fintechnews.sg/81825/fintech/6-fintech-resources-in-asia-to-read-in-preparation-for-2024/"
+webUrl: "https://fintechnews.sg/81825/fintech/6-fintech-resources-in-asia-to-read-in-preparation-for-2024/"
 type: article
 quality: 24
 heat: -1
@@ -60,6 +60,6 @@ related:
       domain: finextra.com
     quality: 19
 
-secured: "8w+ZMPKQ7HitSe5kxEQo6VgQIRltNPeAc2Rk4XObbxKqh4RTYodDqA+6Pr4qntjfDUgXZ03cOtCX3Kf3qPKj/7/sue1AZ+5Br8SxwIkecRCMX0HW2E18HRTCXczIDxdC4C5EJ2KG08H/veouQnLLhJR8iJoQE2IjataKiT7fWQyOGHNZ47SMwFR8g76CKexudOpYt+xlu2eeLPrc8fSanBj0HX6jjztqSxdqPqerZXJby9CgsWjdVnAGxdlBBaO1L1/RoU1MsgIlSncO0sMhQPwpt50q/XUOcDTleKTMLA7AXrFLAA6KqTBxdFch+leJKx5nu+YSx2MOmJi+hbivmTgPGIMrg1h5bEAntlZoC+4=;iLjUzlGgONh4MEqD4hmlbQ=="
+secured: "ADkiKStEvFaWfZU5Ed6hhe4JFGkA5x9cainGWZpNQf9jC4nBYhVIcQLmhn19Zo0pK/03Ww0uKSMHmFC8T/HzpwRhRK1ZVBYlc6tijgj44FFbYZ2DcRn5yzjH1hCiGPurYyZqrmh4t63dVLd8GA+4u+qV20GKCLtYryTioNnVmxxMd8tmzKjtmPTttxsna7HHR+At4jTplGT9tpdguAK84PzXGvsX2OQgcwiGLVqmHegNp4mcoPTi2fazRaG/iyyCMqajJ4H/UzAzjNwSobEvwJ65dqAScWQKXG7JeSuFiSYRlQfEM6Do1HuR3hEWsD4gNDN/IEbM382P0N/jEHgL6ljdqzqOeKnbjCx1l2Xbt9Q=;7vrE8xPQrJHxJXB+qHs88w=="
 ---
 

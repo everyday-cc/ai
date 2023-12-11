@@ -23,6 +23,17 @@ images:
     height: 576
     isCached: true
 
-secured: "I4XHoiH9/KfL0HM9FgeTwzS9YLZrMJ+BXaORtlVKvnlhVbcTdBb9y62nIl97AosEI8diMEybzrTbG7tIFLR+/t69UxS5nFmu5RI1fBw5NIbYveHClmDEYF+iNVgtJ7ByTtzr8/0mJQ+trtm8Pw3DaA5BtOZyZxkQ+hg/gr/CP6/nb+38xubI2SstPKWwnVLYjfNhCtA4pSsgT64ii+pUwRxlLSdTlvLJzDmFtXn5b01wHkM3Gtl9o26gxcA0cIr/FBNBu2IRBP5WhP/24xGwEJOoF6GcjWAjclrX8rTnkS9izxH4iaVTPOekSOvDiTRIDk/yAwNSJy7MAriYtSzk6LN3llDS5A2ZQp4d1pMY4LA=;mF/u9cPLqTBxXY3K7E4h7A=="
+related:
+  - title: "OPEN Health and Nested Knowledge announce strategic research collaboration to leverage AI technologies for evidence synthesis"
+    excerpt: "This collaboration underscores OPEN Health's unwavering commitment to leveraging innovative solutions and AI technologies for superior client delivery,” said Richard Jones, President of OPEN Health Evidence & Access."
+    publishedDateTime: 2023-12-11T10:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/open-health-and-nested-knowledge-announce-strategic-research-collaboration-to-leverage-ai-technologies-for-evidence-synthesis-1032888769"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 22
+
+secured: "OEPXQ/5DBpcHHFPBHKqZovUVgws72TX35pywSVYokj2aB3S7Ql+dRqy4amBOv9RchfLFksyGUKlvMAyiLeTk3CBBBy/xi73u7YEKZSZCTr4CD1dO2eZ6ciyCgWXerBsH1yqKAXkLvalx8tdPubk84RwpHdqMDbQ/1WlZQ9DHZlUOIy8IOjdKKiimXgVdHuze9h50ouKL6gc1DWjdDc6UKz9/dNobnb84B/RgrA6tssdTmnSmGeCKRDnsfj9YaiqvuKzlUx0LsNBP3WgDtvh10QotdTDuAcAHoxRHZv9Y7kdJpFeVV7Hq/yQyWiO2irdaqDr5cQYyrB7ZM4FHsCOfhJliShyZvvAgu3O2Gs7bXtBYbydNDc5Q6n2M108Uip+B/8tkmUGsgqynvxE8Uw0pR7UkAcbhnLHCz0jbBlPjMS8MVOP42xrF2Ks+l0XWSwdeRDoTl8GGpeo5n1wi4xq8dz4vIbM5pyyGDnGeiFNXkGi4GOkISqj+EjWYWlAvgZ76VUbi4MlpJUALaixG7wR1Dg==;+zmNDuknzR3yI83P3Qb8kw=="
 ---
 
