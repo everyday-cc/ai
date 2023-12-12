@@ -6,8 +6,8 @@ publishedDateTime: 2023-12-12T09:59:00Z
 originalUrl: "https://www.biztechafrica.com/article/rakuten-ceo-announces-plans-ai-model/51768/"
 webUrl: "https://www.biztechafrica.com/article/rakuten-ceo-announces-plans-ai-model/51768/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://i0.wp.com/www.biztechafrica.com/wp-content/uploads/2023/12/Rakuten-CEO-Announces-Plans-To-Launch-Very-Unique-AI-Model-For-Businesses.webp?fit=814%2C475&ssl=1"

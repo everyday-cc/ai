@@ -57,20 +57,6 @@ related:
         width: 1024
         height: 567
         isCached: true
-  - title: "5 Investment Tools That Dominated the FinTech Scene in 2023"
-    excerpt: "For long-term financial needs, such as retirement, upcoming vacations, or a down payment, Betterment’s investment strategy employs low-cost ETFs (exchange-traded funds) and adjusts the risk profile based on the individual's goal type and the planned investment  duration."
-    publishedDateTime: 2023-12-12T06:14:00Z
-    webUrl: "https://www.finextra.com/blogposting/25365/5-investment-tools-that-dominated-the-fintech-scene-in-2023"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://lh7-us.googleusercontent.com/fuiGfpQyPe9FyQNKlg8YUnSi9SDiqK2m0y5o298xlhV2t9Qu6tvGucPndFkWm4II9OI7GmGiEItjM9PH-0p-TOcV2jpuGHkZcyjeNPeh6qHUtzpBxOojIl_4zlIUYI4GJfLVy4LeRO25UHKe-qGDkLc"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "DBOZdXSy6F2xBM13brwOzVOdYhAWQGbix5GGRjS07xwB5FfTh+HTd810DecuyMy68MpVCrIsvcITwgo4E8zka2Zl4WZsxRNnLIMmqAvnjiBynkJvQJxIabs2qnm3uZIbEwp82xVdzOn8xE6n92/t9M6s/q9Yv4ZhXIFZmbHQEewnof1BRhR6Ag0UDnz/OXKLRDtCF1f+5Y5AYRfwn51+RJ3VB7vNCEbrVBucGESAobqMgnp+TE6Pkkpoa1mRRh8DqUAAE/fVuO8Js11pSUHbKmLfFcrcVltBuEdjt9MFI3YrGSJ5Qmls5yWokpHiSj8Q5dB4kUEnd15xbonVwFaM9vxiyv//Uljjhfa8qePSqxsLDQhaeo1d2CtDRSxvfQAMdpuUlNs8eLNVnPM4Hh0mcOeyBqVir/ALUWOfMxZMhB+kZ71m+dZJjk1Bv6qRB3pjUpqD26xLdRJHt+EAEbShUfTPODknnWhpFs50ehXlLUxTQZwbQ8AIIKli077RoSgVCVEshGDgvslXa8Ql++3tYg==;cJk0HVQD99iobTxelPj++g=="
 ---

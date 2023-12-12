@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-12-apex-fintech-solutions-which-called-off-its-spac-merger-in-2021-has-revived-plans-to-go-public.md",
+      "title": "Apex Fintech Solutions, which called off its SPAC merger in 2021, has revived plans to go public",
+      "excerpt": "The fintech had tried to merge with a SPAC in 2021 but ended up ... which was valued at $43 billion in September after raising over $500 million in fresh capital. Anthropic, the AI startup, snagged a roughly $5 billion valuation in May after securing ...",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/2023/12/12/apex-fintech-ipo-chime-databricks-unicorn-sofi/",
+      "originalUrl": "https://fortune.com/2023/12/12/apex-fintech-ipo-chime-databricks-unicorn-sofi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.fortune.com/wp-content/uploads/2023/10/William-Capuzzi-APEX-GettyImages-1052297072.jpg?w=840",
+          "width": 840,
+          "height": 559,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/2023/12/12/apex-fintech-ipo-chime-databricks-unicorn-sofi/amp/",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/12/12/apex-fintech-ipo-chime-databricks-unicorn-sofi/amp/",
+      "publishedDateTime": "2023-12-12T12:48:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-12-accenture-to-work-with-union-bank-of-india-to-build-new-ai-and-machine-learning-models.md",
       "title": "Accenture To Work with Union Bank of India To Build New AI and Machine Learning Models",
       "excerpt": "Accenture will work with Union Bank of India to build new AI and machine learning models that can help generate actionable insights for improved busin",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.indianweb2.com/2023/12/accenture-to-work-with-union-bank-of.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -76,58 +128,6 @@
         "name": "Crowdfund Insider",
         "domain": "crowdfundinsider.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-09-black-banx-path-to-fintech-eminence-innovation-and-success.md",
-      "title": "Black Banx Path to Fintech Eminence: Innovation and Success",
-      "excerpt": "How Black Banx CEO Michael Gastauer Climbed the Fintech LadderNew York, United States - December 8, 2023 — Estimated to be valued over US$1.5",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/black-banx-path-to-fintech-eminence-innovation-and-success-1032886175",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/black-banx-path-to-fintech-eminence-innovation-and-success-1032886175",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/mmstudio-images/gallery/ifVQDvKEZZMuxhtiOyhcAAz1TmH2/1701365493345-0.jpeg",
-          "width": 660,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-08T16:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

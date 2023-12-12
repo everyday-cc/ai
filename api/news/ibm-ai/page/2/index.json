@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-11-17-ibm-enables-responsible-enterprise-ai-with-watsonxgovernance.md",
+      "title": "IBM enables responsible Enterprise AI with watsonx.governance",
+      "excerpt": "Cairo, Egypt - IBM (NYSE:IBM) announced the general availability (GA) of watsonx.governance in early December to help businesses automate AI lifecycle governance and proactively manage risk and compliance. This expands IBM’s industry-leading AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/press-release/companies-news/ibm-enables-responsible-enterprise-ai-with-watsonxgovernance-pmvmosp6",
+      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/ibm-enables-responsible-enterprise-ai-with-watsonxgovernance-pmvmosp6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/view/acePublic/alias/contentid/MWIzMTVjZjMtZjkzNy00/0/1-jpg.jpeg?f=3%3A2",
+          "width": 759,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/ibm-enables-responsible-enterprise-ai-with-watsonxgovernance-pmvmosp6?amp=1",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/ibm-enables-responsible-enterprise-ai-with-watsonxgovernance-pmvmosp6?amp=1",
+      "publishedDateTime": "2023-11-17T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-17-technique-enables-ai-on-edge-devices-to-keep-learning-over-time.md",
       "title": "Technique enables AI on edge devices to keep learning over time",
       "excerpt": "Researchers from MIT, the MIT-IBM Watson AI Lab, and elsewhere developed a technique that enables deep-learning models to efficiently adapt to new sensor data directly on an edge device.",
@@ -1245,58 +1288,6 @@
         "AWS AI",
         "IBM AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-11-07-ibm-and-microsoft-work-together-to-bring-maximo-application-suite-onto-azure.md",
-      "title": "IBM and Microsoft work together to bring Maximo Application Suite onto Azure",
-      "excerpt": "Embracing an opportunity to tailor your asset management journey precisely to your unique needs and aspirations.\nThe post IBM and Microsoft work together to bring Maximo Application Suite onto Azure appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ibm-and-microsoft-work-together-to-bring-maximo-application-suite-onto-azure/",
-      "originalUrl": "https://www.ibm.com/blog/ibm-and-microsoft-work-together-to-bring-maximo-application-suite-onto-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 261,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/11/Option3.jpg",
-          "width": 2400,
-          "height": 1260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-07T09:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "Microsoft AI"
       ]
     }
   ],

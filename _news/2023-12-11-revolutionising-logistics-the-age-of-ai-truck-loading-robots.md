@@ -7,7 +7,7 @@ originalUrl: "https://www.electronicsforu.com/special/revolutionizing-logistics-
 webUrl: "https://www.electronicsforu.com/special/revolutionizing-logistics-age-of-ai-truck-loading-robots"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "Future-ready CHROs: the AI revolution in banking HR"
+    excerpt: "The banking sector is experiencing a paradigm shift, with Chief Human Resources Officers (CHROs) at the centre of the change. Traditional recruitment strategies are giving way to"
+    publishedDateTime: 2023-12-12T11:23:00Z
+    webUrl: "https://www.ft.com/partnercontent/workday/future-ready-chros-the-ai-revolution-in-banking-hr.html"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 54
+    images:
+      - url: "https://ft.com/partnercontent/workday/img/hero2.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "CdKO5dbl8efp+2p3jZk67kC36821mdwnjNwv3mXEwDxMKVoZtn3kyMWLAtJoak61/Mv7HxROO7FtAr9l1jUtZ+HQaLdX8u4rSS9NtJwxm3qCe+tLA55C76q+hhdj4YKsww9Ge7F51BoluWZ6PUbGg3ongmySviRAOpqB1Jzg0HfuiOUE9R7vHd7wmVUMYP2yXBSUUtXZHbteZM7zra4RDZqg+q+mOT9OEudiNWvD/7yvddAHHTv9VNdXkT1UkhYxWUHjk5SZmOa10nrE85VDJQiSinpYEcAPAjaFvnEoYC+P9pbw5EOKubi4QiYrfpE4hLTao/DGsqNF9DSbPn7W43vQIk9P4Fqrg45ZZMnRAPI=;CBAraAPh2GD8v0/yqx7Yfg=="
 ---

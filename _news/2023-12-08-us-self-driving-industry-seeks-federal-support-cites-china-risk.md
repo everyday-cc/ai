@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/autos-transportation/self-driving
 webUrl: "https://www.reuters.com/business/autos-transportation/self-driving-industry-critical-juncture-needs-usdot-support-letter-2023-12-07/"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 1200
     height: 628
     isCached: true
+
+related:
+  - title: "U.S. self-driving industry seeks federal support, cites China risk"
+    excerpt: "The Transportation Department needs to support autonomous vehicle development, a coalition of groups representing the industry said, warning it risks losing out to competitors like China."
+    publishedDateTime: 2023-12-08T18:07:00Z
+    webUrl: "https://www.autonews.com/mobility-report/us-self-driving-industry-seeks-federal-support-cites-china-risk"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 4
 
 secured: "l97+AAKv29suz31rauy1hqowzXCZfYfnSo6liPrAOMZUWcmXJYsvB8jQuBqpCDiYMlsisDrV0dF8+3dVL5nAAB6C2EFnqp1rwD6EZkJ7uuc11MEDFaB6fYJzK9BTiHOjlP5R2PDp5GEbNgLNy9eaCrR4/hEpWQNCa8f9K8zRii16PEnt9AfBCofoujiGEfR461PhSJ1xor0IaxzcdOsfdoJnbmRoSDoGumN2qZUVPfHxSU/zMfMArDOeqMir4qmaBMYpnWliYCoOkO3m0VYPYKASZjDliRXAHp3tloBdqi1QadCjCS4S4rADDh1iPNmcxyDIsQkQfB1eOeG7I+9dP0Wv/tRI9H7ev4xIOQ8FdQs=;aAa0wHLjf3Y9QhtBArYx8g=="
 ---

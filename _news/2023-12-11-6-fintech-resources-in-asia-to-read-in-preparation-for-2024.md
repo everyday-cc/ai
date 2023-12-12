@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Black Banx Path to Fintech Eminence: Innovation and Success"
-    excerpt: "How Black Banx CEO Michael Gastauer Climbed the Fintech LadderNew York, United States - December 8, 2023 — Estimated to be valued over US$1.5"
-    publishedDateTime: 2023-12-08T16:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/black-banx-path-to-fintech-eminence-innovation-and-success-1032886175"
+  - title: "Apex Fintech Solutions, which called off its SPAC merger in 2021, has revived plans to go public"
+    excerpt: "The fintech had tried to merge with a SPAC in 2021 but ended up ... which was valued at $43 billion in September after raising over $500 million in fresh capital. Anthropic, the AI startup, snagged a roughly $5 billion valuation in May after securing ..."
+    publishedDateTime: 2023-12-12T12:48:00Z
+    webUrl: "https://fortune.com/2023/12/12/apex-fintech-ipo-chime-databricks-unicorn-sofi/"
+    ampWebUrl: "https://fortune.com/2023/12/12/apex-fintech-ipo-chime-databricks-unicorn-sofi/amp/"
+    cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/12/12/apex-fintech-ipo-chime-databricks-unicorn-sofi/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
+      name: Fortune
+      domain: fortune.com
+    quality: 61
     images:
-      - url: "https://storage.googleapis.com/mmstudio-images/gallery/ifVQDvKEZZMuxhtiOyhcAAz1TmH2/1701365493345-0.jpeg"
-        width: 660
-        height: 330
+      - url: "https://content.fortune.com/wp-content/uploads/2023/10/William-Capuzzi-APEX-GettyImages-1052297072.jpg?w=840"
+        width: 840
+        height: 559
         isCached: true
   - title: "Here are the newly minted fintech unicorns"
     excerpt: "and that’s when fintech gets me really excited. Doing good while making money? The ideal definition of win-win. Read more. And, listen to the Equity crew discuss in more detail below. Speaking of AI, reporter Aisha Malik reports on Mastercard’s new ..."
@@ -50,6 +52,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 54
+  - title: "5 Investment Tools That Dominated the FinTech Scene in 2023"
+    excerpt: "For long-term financial needs, such as retirement, upcoming vacations, or a down payment, Betterment’s investment strategy employs low-cost ETFs (exchange-traded funds) and adjusts the risk profile based on the individual's goal type and the planned investment  duration."
+    publishedDateTime: 2023-12-12T06:14:00Z
+    webUrl: "https://www.finextra.com/blogposting/25365/5-investment-tools-that-dominated-the-fintech-scene-in-2023"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://lh7-us.googleusercontent.com/fuiGfpQyPe9FyQNKlg8YUnSi9SDiqK2m0y5o298xlhV2t9Qu6tvGucPndFkWm4II9OI7GmGiEItjM9PH-0p-TOcV2jpuGHkZcyjeNPeh6qHUtzpBxOojIl_4zlIUYI4GJfLVy4LeRO25UHKe-qGDkLc"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Top Technology Trends in Banking and Fintech for 2024"
     excerpt: "While still in their early stages, blockchain and DLT have the potential to revolutionize various aspects of financial services, from cross-border payments and trade finance to digital identity and anti-money laundering compliance. 2024 will see further  experimentation and adoption of these technologies in various use cases"
     publishedDateTime: 2023-12-10T19:10:00Z

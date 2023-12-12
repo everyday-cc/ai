@@ -92,20 +92,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google Gemini, Next Level AI, Comes To Bard & Coming To SGE"
-    excerpt: "Google announced its latest AI advancements named Gemini yesterday, calling it the most capable AI models yet. It is already baked into Bard and it is being tested in SGE, the Search Generative Exper"
-    publishedDateTime: 2023-12-07T12:51:00Z
-    webUrl: "https://www.seroundtable.com/google-gemini-bard-search-36518.html"
-    type: article
-    provider:
-      name: Search Engine Roundtable
-      domain: seroundtable.com
-    quality: 39
-    images:
-      - url: "https://s3.amazonaws.com/images.seroundtable.com/google-robot-gemini-1701889044.jpg"
-        width: 1456
-        height: 832
-        isCached: true
   - title: "How to use Google Gemini in Bard to get the best results"
     excerpt: "Google has recently updated its AI chatbot, Google Bard, with its new Gemini AI model, which brings a host of enhanced features to improve the user"
     publishedDateTime: 2023-12-10T11:03:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/ai/2023/12/chatgpt-vs-google-bard-round-2-
 webUrl: "https://arstechnica.com/ai/2023/12/chatgpt-vs-google-bard-round-2-how-does-the-new-gemini-model-fare/?view=archive"
 type: article
 quality: 71
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -87,20 +87,6 @@ related:
       - url: "https://lifehacker.com/imagery/articles/01HH2K614JGSDMCZ043XDQPM9V/hero-image.fill.size_1200x675.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Google Gemini, Next Level AI, Comes To Bard & Coming To SGE"
-    excerpt: "Google announced its latest AI advancements named Gemini yesterday, calling it the most capable AI models yet. It is already baked into Bard and it is being tested in SGE, the Search Generative Exper"
-    publishedDateTime: 2023-12-07T12:51:00Z
-    webUrl: "https://www.seroundtable.com/google-gemini-bard-search-36518.html"
-    type: article
-    provider:
-      name: Search Engine Roundtable
-      domain: seroundtable.com
-    quality: 39
-    images:
-      - url: "https://s3.amazonaws.com/images.seroundtable.com/google-robot-gemini-1701889044.jpg"
-        width: 1456
-        height: 832
         isCached: true
   - title: "These Are the Biggest Differences Between Google Bard and ChatGPT"
     excerpt: "AI chatbots are more popular than ever, and there are plenty of solid options out there to choose from beyond OpenAI’s ChatGPT. One particularly strong competitor is Google’s Bard AI, which pulls information from the internet and runs off the latest Gemini language model created by Google."

@@ -27,7 +27,7 @@ related:
     provider:
       name: BiztechAfrica
       domain: biztechafrica.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://i0.wp.com/www.biztechafrica.com/wp-content/uploads/2023/12/Rakuten-CEO-Announces-Plans-To-Launch-Very-Unique-AI-Model-For-Businesses.webp?fit=814%2C475&ssl=1"
         width: 814

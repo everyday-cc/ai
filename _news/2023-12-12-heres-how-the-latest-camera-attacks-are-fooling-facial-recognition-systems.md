@@ -20,6 +20,17 @@ topics:
   - Computer Vision
   - AI
 
+related:
+  - title: "Here’s Why We’re Worried about J&K police using facial recognition to catch terrorists"
+    excerpt: "The “AI Based Facial Recognition Camera & E-Beat book Mobile App” will be used for digitisation of records, improve record-building etc."
+    publishedDateTime: 2023-12-12T11:01:00Z
+    webUrl: "https://www.medianama.com/2023/12/223-jk-police-facial-recognition-terrorist-activity/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 11
+
 secured: "F8mRJr7mOUg9P584HaZBjZ2r5HHZ/HvWVysdPW6Rvaj6+aYpkV4sGRz5Mt8K8LMrYxGjygPDBaMRoKdgP58FU/WVRGBl35CHlFm5d+xE8nwJZLIJN1t85T3WF40knsquulIkaCIfQBnudLVtjCLm987oGMNyZO2QFGQtVzzjiCBS9AthWeHNBJOcBIaOtPbnWtVrXlGeaezRMbbmoinEt6WEH8pqlpZH9NaMHwiH9Fg1wo6kezF6eK7/HXv6OamDlXkEgxhPdEMjLaAZm5XlVEn6FO3ZvWetVHZu2FlNZBjZgA+0H5zpog3GDni0Mgs5Tfav8nDvvr34Rk1SkZxHwtzHedi3gU+6hAp+joeae2l+m9iiv2j6PjrkWDIDvkpdRRK7SxLUKTxI9vVYFtOJu9kdet2SI3ALF19ZiT1QUDDTIXzkMsiV+UZnSDPegMH5FSajCyBq9vOPnEWBJ9eBKN35vePuGH6V3dTQAhvuWafFR1bUJui9M6SoOQgEoS7PvyW+AGUSMEKmrobZQEutOA==;N5saEoH3rg5cAjtS8UUaFg=="
 ---
 
