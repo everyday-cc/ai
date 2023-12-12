@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/11/why-genera
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/11/why-generative-ai-makes-sense-for-edge-computing/amp/"
 type: article
 quality: 91
-heat: 181
+heat: 191
 published: true
 
 provider:
@@ -116,6 +116,20 @@ related:
       - url: "https://hbr.org/resources/images/article_assets/2023/11/R2401J_TEMPERLEY.jpg"
         width: 2000
         height: 1125
+        isCached: true
+  - title: "Revolutionizing Enterprise Search: Harnessing Generative AI for Enhanced Data Discovery"
+    excerpt: "The realm of enterprise search is undergoing a transformative shift, propelled by the integration of Generative AI. This cutting-edge technology is not"
+    publishedDateTime: 2023-12-12T17:14:00Z
+    webUrl: "https://innotechtoday.com/revolutionizing-enterprise-search-harnessing-generative-ai-for-enhanced-data-discovery/"
+    type: article
+    provider:
+      name: Innovation & Tech Today
+      domain: innotechtoday.com
+    quality: 31
+    images:
+      - url: "https://innotechtoday.com/wp-content/uploads/2023/12/pexels-google-deepmind-17485743-1.jpg"
+        width: 800
+        height: 500
         isCached: true
   - title: "Kinara Edge AI Processor Tackles the Monstrous Compute Demands of Generative AI and Transformer-Based Models"
     excerpt: "Kinara™, Inc., today launched the Kinara Ara-2 Edge AI processor, powering edge servers and laptops with high performance, cost effective, and energy efficient inference to run applications such as video analytics,"

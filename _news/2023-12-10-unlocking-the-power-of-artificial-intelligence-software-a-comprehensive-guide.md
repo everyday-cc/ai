@@ -36,15 +36,6 @@ related:
       name: Impacts
       domain: techbullion.com
     quality: 18
-  - title: "The Evolution of Artificial Intelligence Software: From Basics to Breakthroughs"
-    excerpt: "Introduction: Artificial Intelligence (AI) software has emerged as a transformative force, revolutionizing industries and shaping the future of technology. Starting from its humble beginnings, the evolution of AI software has been marked by constant innovation and remarkable advancements."
-    publishedDateTime: 2023-12-09T16:37:00Z
-    webUrl: "https://techbullion.com/the-evolution-of-artificial-intelligence-software-from-basics-to-breakthroughs/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 15
 
 secured: "Xqfr//eP6QHj2jHcTGIq6Y6K4aKY30C0Pn0IZDEa3h4RyeG5sww5/xhnoaXS/7gdUDHZclr0Rgyr+ckKPXbfSg1icW0jjKTWByxRuh8Y0m7cHfqkxZ8pTri2B7nA9vcxmQOIa9kRNSsRoMe/FBTVLBAuBQbLKJ99q7hldhizHizBQbhpSMGNryJXg6gjrj0JsooVThc/uaf9RJyT4BEMsisWpCs5xG2nNU2dUOK84Mq3UpslfjFvudWmO4CwT+ZieRGZzjxUvWQa1/PPnZVsubD9vKeLFuPNYtWXs3GmtosXrAf0NKLMjTiRr4+/syGptHVlkf8qObegIShCbuPujJohONl+rpjR3tq5Rjn36wFQuRustR2WecW5bcO35cTPyLU8Z+2Z3iuPr/aPVljNK+KIZvtRHvx7LBPLD7q/EOZHou7zhidV08rKCWMtUQi2maWrtHDutCJz+DVKdx46T5E4+NT5ALg5dv27v8c+CwQOoOR2+wBvvfHNmhXVS4IthM/vJwqjzDpEhIomuLPZ3Q==;Mge3K4YN5/1TaK5oObOkdg=="
 ---

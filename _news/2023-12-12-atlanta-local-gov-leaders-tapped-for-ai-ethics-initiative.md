@@ -7,8 +7,8 @@ originalUrl: "https://www.govtech.com/artificial-intelligence/atlanta-local-gov-
 webUrl: "https://www.govtech.com/artificial-intelligence/atlanta-local-gov-leaders-tapped-for-ai-ethics-initiative"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Government Technology
@@ -39,7 +39,21 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How Black Atlanta leaders could help tackle racial disparities in AI"
+    excerpt: "AI is seen as the next frontier of technology. While some marvel and its ability to automate certain tasks, there are many questions about how to govern the technology and risks it poses, particularly for people of color."
+    publishedDateTime: 2023-12-12T16:49:00Z
+    webUrl: "https://www.ajc.com/news/business/how-black-atlanta-leaders-could-help-tackle-racial-disparities-in-ai/Z45RDBJLZBFCNMVZDOXU4OZKYY/"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 39
+    images:
+      - url: "https://www.ajc.com/resizer/mQEFhGcrUdURO0ri0YWwth9GPBU=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/V47AKYMT25NUKQFKZ22PT5VYFQ.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "OyXyaRy/9Bk4InvItzJcKdpig5Xkm5HJYSm6NQ6ChEGWOWxklNyuEaBeA7dbK+fMZaxcKrDCOpSUchxaPiTSyzTS2kgXdeJPHWSogLsUc7sF7m+y24w5eIROANBw6qPLQd6GCjOrEbFg8QVeZePK+XskhAgdK8iPy1O4IyKU3NFKopGDoZe5EkZ7PBHMTLh9P5CsIt+DYVgkVX4HJk8ZDe2yngtxW2RrT7SbchxE3+ESXg/p3G0vJ40gjtz32vWXHVbDD6mQD/JpAqtxujm4nM1t+GjOAQe0gVugY2rffduzavrAu1+2KZFPjl2s1OjqYK8P4y+3XfxYoqtyTkA337ZJsSZlBPTbCQj72Zqoxh8=;WbK5rLD13zrPMxtEiWN0BA=="
+secured: "WaWkg9r4X1SBX1Yup2b7JcCiObGKTIqCdvFCgVA61r5ScMlssWJRSsc3y4WedAfIEBYSR682zRjrbt1XqhevhYApROWA7FmA8BasBWEYBLYBERURQgkSxV22Ig/rEcEtI07N0CtAVBqXzPhxAycgTSTY+Jyfbt1ICEtk6G79X+hlfExSj4nqieRcQO6HbNtXOuQXu4bkl2eDDek5UC/r0TfimfH+/r9uXqe+TEawnvyD/0GHJQdX79vCaYnGJxUBC+RUhHYjogJZWyRU3ev1CTR7AWrsogw71/nz2ud6o57vQccs0fFNULqBFTXyqtqfceiEZwvHUvr4ObkAgGa68RI7eT+wyIvvDTVKcBTNKuSXE4GaFNEx6oOvKR3GV5wxaZoG9Im6jJm50ZtgE131KBUnTTxUFflh/I2h+IiXsIvGmjI3p15ZYeFwmirPMZdzoHwpyy7w2KgMwQWoQdppchYaB1HddSmpu68fZRaz6c87CjFbG9KPAXn3dru56w/Wy+iBygsg/OHCV5JvJekvPQ==;wH4az5vDumZOIItTojjVDw=="
 ---
 

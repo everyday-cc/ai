@@ -93,6 +93,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft is training AI to accelerate regulatory process for nuclear projects"
+    excerpt: "Microsoft is reportedly eyeing nuclear power for its AI operations. Microsoft stock is currently up close to 60% versus year start."
+    publishedDateTime: 2023-12-12T17:39:00Z
+    webUrl: "https://invezz.com/news/2023/12/12/microsoft-training-ai-nuclear-regulatory-process/"
+    type: article
+    provider:
+      name: Invezz
+      domain: invezz.com
+    quality: 52
+    images:
+      - url: "https://invezz.com/wp-content/uploads/2023/12/139137294-m-normal-none-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "pDeJwiz5u2ZkVgr4Q23aqPl6ktmi0tBOTAFakaq0su+OAXwvNGNOS7tjoiHickJIHz8qM5RWLOKEcZIwZR2E0V5dDOhAMhNVbA2FRwZuw9fPPwLnGipTyBr5IniBzsmPju/zFMYPm5bapJc0girVgFDAihqFIYy7ZiK0JDON3jZgkwusrdkSn04okFBsR2D1XiI7iGKPsTTtdnqWEJsMDcIA0rDJmLucsxefNjVSF99q51nFMPz8hEoHXUg/SycLhsRZSjpg+/LMliAYWncvwKurmxbtxNA+Hv248s3yT3XQ1Ldmh/E+812O8E7WTg0AlWm/vvX9gq2zW9vS3O7b7LqRTq8U8MaBLq/iBP1Ozx8=;mlbgzQbOSl02b0O83H2cQw=="
 ---

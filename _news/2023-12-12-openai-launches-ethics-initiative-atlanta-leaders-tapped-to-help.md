@@ -39,6 +39,20 @@ related:
         width: 1440
         height: 700
         isCached: true
+  - title: "How Black Atlanta leaders could help tackle racial disparities in AI"
+    excerpt: "AI is seen as the next frontier of technology. While some marvel and its ability to automate certain tasks, there are many questions about how to govern the technology and risks it poses, particularly for people of color."
+    publishedDateTime: 2023-12-12T16:49:00Z
+    webUrl: "https://www.ajc.com/news/business/how-black-atlanta-leaders-could-help-tackle-racial-disparities-in-ai/Z45RDBJLZBFCNMVZDOXU4OZKYY/"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 39
+    images:
+      - url: "https://www.ajc.com/resizer/mQEFhGcrUdURO0ri0YWwth9GPBU=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/V47AKYMT25NUKQFKZ22PT5VYFQ.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "BQouS70rPsGkcFikhykXFVTbzYzMn77bLBHnQ6WZiHb2FbBXKjOz1SxadVJPZnQ4U87K4E9rhJq2COrB+bxL+yky+6n7VXVBDvrhBc5vss0pqhv3rZTlhrvQEcTIGIbLYYVBsvZ2o6CGWaP65Jyb9DPes8UQM2XPVSHdZ/ba2O88tdgjb/5CvyZObQiyqa1SM9Bgp6AeYAn9hULMo2FDdlNy0giaXUlaK3P1sxpH4egnfHfL2OSBXuOlIfpGJxf4bXOPicU7NDr/2eJKPWnJ2cWFGXGNfloK9DnM7gHxBePZDFkjR9mdRgwVXYOLhjk9Tr7aCTJ/cGfSYYCGF0eDCLErDDyHz9yn3JUoDi66nWI=;ZcU3DCBv4AovcvRnSjmShQ=="
 ---

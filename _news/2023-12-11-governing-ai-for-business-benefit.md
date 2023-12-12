@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "AI firms lead quest for intelligent business model"
-    excerpt: "Tech investors are highly excited about the opportunity of artificial intelligence. Giants Microsoft and Amazon have sunk tens of billions of dollars into startups creating software that can respond to human questions and create humanlike text,"
-    publishedDateTime: 2023-12-12T05:12:00Z
-    webUrl: "https://www.reuters.com/breakingviews/ai-firms-lead-quest-intelligent-business-model-2023-12-12/"
+  - title: "Cohere to help businesses build AI using Slack, Google Drive data"
+    excerpt: "OpenAI-competitor Cohere launched \"connectors,\" which allow companies to connect third-party application data to Cohere’s LLM."
+    publishedDateTime: 2023-12-12T17:00:00Z
+    webUrl: "https://venturebeat.com/ai/cohere-to-help-businesses-build-ai-using-slack-google-drive-data/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/12/Untitled-design-2023-12-12T105755.661.png?w=1200&strip=all"
+        width: 1200
+        height: 750
+        isCached: true
 
 secured: "D8HsDETCHZN20T3bwl8qMgYS/8hnI6dwUgt+EBW1DbZgCGz23zo9ExX49vdNRtWCQKjO19Z0h6TFNiKIGsJ9r7J86KPjxZZFlx2+cOVJu0htvGL8aMhxj/f5DOObqKbP2MlTIoDPYgPbBsI8JcOFdtfa+oYEjbk71bR9KLMbLZLS0+5Vp2vdh8VNC/ulWTHV3ltRizEmEUEuSzXKRfTendHMUF+AH01hBPHKILuC/h2QE7UnoIET9WjwEPNpv2YVOfCdhXq5P7FXT5OnLl4PS67aKdTIQc8lA1fN4MeZUD7uza33tgM87lfG4MwdSbeMYCw23P0Js8BOmfs7JqTac429WEtTDCaSGSRC438mV5C5zS+pnvJ2Wg8yAjaRNoJ8UnJBVrhTHmy19rGrBhEkhADH9coRtxnRGcDJR+1WlaV1FgpJQs5FPvJnVJP3qqLBVEc7Z0XWMMGQmMJrSkIBYoW7dEcOeoUtmsQNoJda1hPfauK/4niJxOl8pC4bpQf7BfTPiPV83JD3Vw6AqX0UWA==;6fplV2ExOjLeSRTADMLZbQ=="
 ---

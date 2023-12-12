@@ -7,7 +7,7 @@ originalUrl: "https://dotesports.com/fortnite/news/what-do-the-glowing-butterfli
 webUrl: "https://dotesports.com/fortnite/news/what-do-the-glowing-butterflies-do-in-lego-fortnite"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "How to Find Loot Llama in LEGO Fortnite"
+    excerpt: "The LEGO Loot Llama appears once a day in your LEGO Fortnite world. You may be able to just come across one on your travels, but this would be exceptionally rare! When a Loot Llama appears it ..."
+    publishedDateTime: 2023-12-08T00:00:00Z
+    webUrl: "https://twinfinite.net/guides/how-to-find-a-loot-llama-in-lego-fortnite/"
+    type: article
+    provider:
+      name: Twinfinite
+      domain: twinfinite.net
+    quality: 24
+    images:
+      - url: "https://twinfinite.net/wp-content/uploads/2023/12/butterfly-fortnite-lego.png?resize=640%2C360"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Epic Games reveal instructions for first LEGO Fortnite set"
     excerpt: "We’ve seen a great team-up with LEGO and Fortnite, so will we see any LEGO Fortnite sets from the battle royale giant soon? We may have just gotten the first."
     publishedDateTime: 2023-12-11T17:14:00Z

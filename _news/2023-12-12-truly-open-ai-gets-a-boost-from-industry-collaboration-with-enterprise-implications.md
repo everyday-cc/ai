@@ -9,8 +9,8 @@ ampWebUrl: "https://diginomica.com/truly-open-ai-gets-boost-industry-collaborati
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/truly-open-ai-gets-boost-industry-collaboration-enterprise-implications?amp"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: Diginomica
@@ -41,6 +41,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Darena Solutions, Leidos and SLI Compliance Announce Strategic Initiative to Launch Healthcare Apps Verification Program with Focus on AI"
+    excerpt: "\"As AI becomes increasingly prevalent in healthcare, there's a dire need for a system that ensures these solutions not only integrate seamlessly but are also trustworthy and clinically beneficial,\" commented Pawan Jindal, MD, Founder and CEO of Darena Solutions. \"This collaboration marks a significant step in that direction.\""
+    publishedDateTime: 2023-12-12T17:43:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-darena-solutions-leidos-sli-compliance-announce-strategic-initiative-/2023/12/12/9932375.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 1
 
 secured: "xvN/rsSfo9f0yX+tF8/1HZX2SRUs9NyyUuzc191OaYzemBJRrsH85xXDK2jrzYnocJse0hFt4IBPoW6RIQeoFnYvAetblwdYY9bg9towFYJosKysT0Tpo008hp/oqL4xEjPLcxqj5nWXIBLJmOBowILEtrH4jTBCdkQLxlkKkDEPf9IVv5zQezB8hwihhCkWc2EQc8yV4TPaJOTKuFjdl/RCSxDiJaiSDKM1A/lxNs4e/ZxZo89+CrsCZjXgJnStAmvhhDT6/QHzyW9eZMWwmo+9Tbh0DZgJ10Q6L5KACb3tTaK+hyTNQUYb9UaYDZli8HI2Wipd1EcfrKPPPW/FmJ2cbaXNCeQt4Sz1KLfkCGc=;1z+J9mBQDvAxvMeolDZbWw=="
 ---

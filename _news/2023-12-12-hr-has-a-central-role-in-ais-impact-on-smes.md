@@ -38,7 +38,7 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://www.techrepublic.com/wp-content/uploads/2023/12/tr_20231211-australian-sme-ai.jpg"
         width: 1400

@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/microsoft-exec-hints-at-new-llms-beyond
 webUrl: "https://venturebeat.com/ai/microsoft-exec-hints-at-new-llms-beyond-openais/"
 type: article
 quality: 84
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -87,6 +87,20 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/c303384/2147483647/strip/true/crop/2000x1050+0+218/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd9%2Fc8%2F51d3b04f402cbe775fac74266e80%2Fmicrosoft-openai-75424.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Microsoft is training AI to accelerate regulatory process for nuclear projects"
+    excerpt: "Microsoft is reportedly eyeing nuclear power for its AI operations. Microsoft stock is currently up close to 60% versus year start."
+    publishedDateTime: 2023-12-12T17:39:00Z
+    webUrl: "https://invezz.com/news/2023/12/12/microsoft-training-ai-nuclear-regulatory-process/"
+    type: article
+    provider:
+      name: Invezz
+      domain: invezz.com
+    quality: 52
+    images:
+      - url: "https://invezz.com/wp-content/uploads/2023/12/139137294-m-normal-none-1024x683.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Microsoft's Orca 2 LLM Outperforms Models That Are 10x Larger"
     excerpt: "Microsoft Research released its Orca 2 LLM, a fine-tuned version of Llama 2 that performs as well as or better than models that contain 10x the number of parameters. Orca 2 uses a synthetic training dataset and a new technique called Prompt Erasure to achieve this performance."

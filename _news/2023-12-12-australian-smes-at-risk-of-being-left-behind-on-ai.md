@@ -6,7 +6,7 @@ publishedDateTime: 2023-12-12T10:48:00Z
 originalUrl: "https://www.techrepublic.com/article/australian-sme-ai/"
 webUrl: "https://www.techrepublic.com/article/australian-sme-ai/"
 type: article
-quality: 67
+quality: 69
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Meta AI
 
 images:
   - url: "https://www.techrepublic.com/wp-content/uploads/2023/12/tr_20231211-australian-sme-ai.jpg"

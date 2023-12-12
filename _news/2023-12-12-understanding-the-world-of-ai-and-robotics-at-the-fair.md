@@ -41,6 +41,20 @@ related:
         width: 1351
         height: 900
         isCached: true
+  - title: "Here are 7 portfolio stocks that can benefit from bigger tech budgets in the age of AI"
+    excerpt: "The gatekeepers of information technology budgets at major North American companies are ready to start spending again."
+    publishedDateTime: 2023-12-12T16:00:00Z
+    webUrl: "https://www.cnbc.com/2023/12/12/here-are-7-portfolio-stocks-that-can-benefit-from-bigger-tech-budgets-in-the-age-of-ai.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 59
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107273423-1689744131692-gettyimages-1328784596-robot-gui-pabel.jpeg?v=1697787710&w=1920&h=1080"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Will AI Spell The End Of The Contact Center Agent?"
     excerpt: "The generative AI boom has every industry dreaming big about how the technology can be applied to increase efficiency."
     publishedDateTime: 2023-12-12T14:30:00Z

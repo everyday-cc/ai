@@ -21,22 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "Governing AI for business benefit"
-    excerpt: "Last month, a group of professionals and industry experts came together to launch an AI Governance website in response to a survey that indicated governance is a key focus although half of businesses are already using some form of AI."
-    publishedDateTime: 2023-12-11T00:30:00Z
-    webUrl: "https://www.reseller.co.nz/brand-post/content/709735/governing-ai-for-business-benefit/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 39
-    images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/ai-byline3.jpg"
-        width: 472
-        height: 315
-        isCached: true
-
 secured: "Q6NOSnZZzISsG8s0MtCWHXhTIC6k0nyiloL/Olgm7+qanw8KxP2dno2DON73xfDnfyjkDPpsFWOzira+sjHaKaDFvrqP7h5uWdkI3PvK7JJK2ao9Q5nHl4EEJ8s/uoA8ctHE+o/MLIXdIdt23pnFoB3b4sZthclpCK5OMAEHX+xhyiF+joAgwMwe6Ze+z6FhPczW/3dPTCPIIglLDSFC+5NkbtuNC+hEA7S6eU16Y/Hcp8TUws17xMH5BIrxsCw5MiZC6HtGKEjZJ7AoVdFHYo7c3zyyq++UfRLzh9LXTuPgAofH8H/MJYr4bfFp05WafWEmg0f6GbPvkM7veUtORF+jBRnDfcT+fWsCIrpCuj4YAJ6lEo+uWqOkps0uEC105I+wLIw1scLHEwL5MuOBghU4tI3Jb5roYKW0Yk5Ae5Rcfsx3WEf2/VqTmmAgkJNAbCH1f90sDlRUSul3s3h7RuTVfulqF6HEu3XXjO93GFXMzyAWq3NMN+wHxYB2bUr7TWCy4DW52dIBLa1jz9e5Bg==;/L7miSqPRBSmEmt9VJFeXg=="
 ---
 

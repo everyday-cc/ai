@@ -84,6 +84,20 @@ related:
       name: Hindustan Times Tech
       domain: hindustantimes.com
     quality: 60
+  - title: "Microsoft is training AI to accelerate regulatory process for nuclear projects"
+    excerpt: "Microsoft is reportedly eyeing nuclear power for its AI operations. Microsoft stock is currently up close to 60% versus year start."
+    publishedDateTime: 2023-12-12T17:39:00Z
+    webUrl: "https://invezz.com/news/2023/12/12/microsoft-training-ai-nuclear-regulatory-process/"
+    type: article
+    provider:
+      name: Invezz
+      domain: invezz.com
+    quality: 52
+    images:
+      - url: "https://invezz.com/wp-content/uploads/2023/12/139137294-m-normal-none-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Microsoft's Orca 2 LLM Outperforms Models That Are 10x Larger"
     excerpt: "Microsoft Research released its Orca 2 LLM, a fine-tuned version of Llama 2 that performs as well as or better than models that contain 10x the number of parameters. Orca 2 uses a synthetic training dataset and a new technique called Prompt Erasure to achieve this performance."
     publishedDateTime: 2023-12-12T14:13:00Z

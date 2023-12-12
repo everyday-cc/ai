@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3711284/meta-releases-open-source-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711284/meta-releases-open-source-tools-for-ai-safety.amp.html"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -75,15 +75,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Meta releases ‘Purple Llama’ AI security suite to meet White House commitments"
-    excerpt: "Meta released a suite of tools called “Purple Llama,” designed to help developers build safely and securely with generative AI tools, such as Meta’s open-source model, Llama-2."
-    publishedDateTime: 2023-12-07T18:30:00Z
-    webUrl: "https://cointelegraph.com/news/meta-releases-purple-llama-ai-artificial-intelligencesecurity-suite-white-house-commitments"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 32
   - title: "The messy reality of AI safety"
     excerpt: "THE near-implosion of OpenAI, a world leader in the burgeoning field of artificial intelligence, surfaced a conflict within the organisation and the broader community about the speed with which the technology should continue,"
     publishedDateTime: 2023-12-11T09:26:00Z

@@ -24,6 +24,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Study: AI Industry Could Soon Be One of the Largest Contributors to Carbon Emissions"
+    excerpt: "The article points out a number of areas where the expanded user of AI technologies could have serious environmental consequences. For example, a single ChatGPT query can generate 100 times more carbon than a regular Google search."
+    publishedDateTime: 2023-12-12T16:28:00Z
+    webUrl: "https://www.tvtechnology.com/news/research-ai-industry-could-soon-be-one-of-the-largest-contributors-to-carbon-emissions"
+    type: article
+    provider:
+      name: TV Technology
+      domain: tvtechnology.com
+    quality: 32
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/C2UxQpR58RJWL5uYWENY53-1200-80.jpeg"
+        width: 1200
+        height: 960
+        isCached: true
+
 secured: "8W11/dUCWeorPwvRO7xdurASYvYQXxyvoRd44Vr5zCFlN05tg5nk2tKwUgzJ9avTX5ShIxBFhVAeybmiLILaBGZsIF3mXtcJkfpctxaTtCvRQ1Elyr2o0FKYIyktlJ3Zwb+FkO5w5N0ZVyHVcdZn5ZFh4Cz0B2+FQ828DQ7FaweplVr3kpeEUTRyg33fG26tOnXJwWRjzVLarvt5JWZC+Ehf8aT47EdQaBLR4z52ZfydYbWc/k1dOiY4nRCPuq4pa/Kde5/gMDaig32XK5s/tsmcnFmEET4+onqizIrHQpTQcfzEuNtoGfJcyc+9RlRwbG8S+qE3T6+ED9RFg4xLffwGPGXxEESWOZ/wQoNN+KY=;XEY34mqWxlAqVkKQgFbxMw=="
 ---
 

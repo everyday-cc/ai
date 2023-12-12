@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Researchers compare AI policies and guidelines at 52 news organizations around the world"
+    excerpt: "Research on AI guidelines and policies from 52 media organizations from around the world offers a snapshot of how newsrooms are handling AI."
+    publishedDateTime: 2023-12-12T18:12:00Z
+    webUrl: "https://journalistsresource.org/home/generative-ai-policies-newsrooms/"
+    type: article
+    provider:
+      name: Journalist's Resource
+      domain: journalistsresource.org
+    quality: 30
+    images:
+      - url: "https://journalistsresource.org/wp-content/uploads/2023/12/mojahid-mottakin-Dj6D287bxiQ-unsplash-1024x675.jpg"
+        width: 1024
+        height: 675
+        isCached: true
   - title: "The Impact of Artificial Intelligence on Job Markets: Opportunities and Challenges"
     excerpt: "Introduction: Artificial Intelligence (AI) has become a pervasive force, revolutionizing industries and fundamentally altering the employment landscape. As AI technologies continue to advance, the impact on job markets is both profound and multifaceted,"
     publishedDateTime: 2023-12-10T04:20:00Z

@@ -39,6 +39,20 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "New Portable, Non-Invasive AI System Turns Thoughts Into Text"
+    excerpt: "Australian researchers have developed a portable, non-invasive system that can decode silent thoughts and turn them into text u"
+    publishedDateTime: 2023-12-12T18:16:00Z
+    webUrl: "https://menafn.com/1107581820/New-Portable-Non-Invasive-AI-System-Turns-Thoughts-Into-Text"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?509002"
+        width: 376
+        height: 250
+        isCached: true
   - title: "Mind-reading technology transforms thoughts into text"
     excerpt: "In an unprecedented scientific achievement, experts have developed a system that is capable of reading human thoughts and converting them into text. The technology was designed by the GrapheneX-UTS Human-centric Artificial Intelligence Centre at the University of Technology Sydney (UTS)."
     publishedDateTime: 2023-12-12T00:25:00Z
@@ -63,6 +77,6 @@ related:
       domain: nanowerk.com
     quality: 17
 
-secured: "sYnpcKBRnpcE4X1KdrnXMw6VQeG9GkDTz0WSNHuzj86DRjWkgu6jIyxQ6A83edlLAtR58GnOTBcmJUyY/CmOo9rVUt6ZhnjF3fXcDCZcMVZ2c54ggZVkA//LKThwf4vCustzZmTiwguqpY8UzRx8AY6cMuKa7grAnTNlwzk3H0PdrT63hs4RatB6G759dal23lPmxKvs4OqJaSL6TjK3CQtCx8KH5RJwTe3WIz5pMU6Rto6ydCK3WiT/yusgBLQaBmCqjAKTzBQsRmbnukEj9oOejUH5m9tE49UrgvlnD48Vzn9nWmA0NBVvesAt0J7sIDePQ2VfQGkdjyhJNMgSFup1MvEkPd2lZHjeW/tw4eM=;SkCTcZMMd3cMkVgK6JwCZA=="
+secured: "G6aNww0m9dSw9JLVNx8oACX9nLU6WvYkuekaTNSjI75Y6N42SFWO/T8J2uIBfNwhMKuDuepVlB1dawtMaL650ex9DXim0zZ/PJapz3ur8f8GOHg0YOwRmlkzS6rWDMUR5RgWA2/jxoU868MlPUZ5WOKw5G6tfOvEicqEGyY0vYZo8yKMzcA55lLq9AJst4hPv0IfWC8C+5SukNm12S2Cw3LqRwcTxolTQwYvOhJ3dfJjdKd+ayH3ozDZ5Obe1K80bnq2jwCGcDhrcKqHFht49eRdtG6ovSqGNXQZLCJy2LoPF8geGITSEGUbHTNRl6eEKyfQMzqIZhucxNwNl9GFZB0xUt0lHTfOaTV/xwQ5Yrs5ejjDxAhGZd5odgVSThmIkn39rKwq4o5QDgXNTSaNq9jv8kH5VOYEdgx88lmha9AlSPdBTuEKs1O+WZaWmvtPOVq+agu3ViHTPOhsuBom46xOPx5n+vVsvFgp5aZu/OhVzvX6GjUKIp3fpkMmLw2oJKGC8VNOWB19bdTrrsbuMA==;vN/y9clhPM9/h0L4ZBzIog=="
 ---
 

@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "How to Find Loot Llama in LEGO Fortnite"
+    excerpt: "The LEGO Loot Llama appears once a day in your LEGO Fortnite world. You may be able to just come across one on your travels, but this would be exceptionally rare! When a Loot Llama appears it ..."
+    publishedDateTime: 2023-12-08T00:00:00Z
+    webUrl: "https://twinfinite.net/guides/how-to-find-a-loot-llama-in-lego-fortnite/"
+    type: article
+    provider:
+      name: Twinfinite
+      domain: twinfinite.net
+    quality: 24
+    images:
+      - url: "https://twinfinite.net/wp-content/uploads/2023/12/butterfly-fortnite-lego.png?resize=640%2C360"
+        width: 640
+        height: 360
+        isCached: true
   - title: "What do the Glowing Butterflies do in LEGO Fortnite?"
     excerpt: "The Glowing Butterflies will lead you to loot sources in LEGO Fortnite. Whenever I followed a Glowing Butterfly, It took me to a Loot Chest or a LEGO Loot Llama. While the loot was nothing spectacular, the additional resources allowed me to unlock a few new recipes, like Slap Juice."
     publishedDateTime: 2023-12-09T22:00:00Z

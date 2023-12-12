@@ -32,15 +32,6 @@ related:
         width: 533
         height: 320
         isCached: true
-  - title: "OneVision Releases Its Latest Software Version 23.2"
-    excerpt: "OneVision's newest version expands the functionalities of its modular automation software, providing more features for automated production."
-    publishedDateTime: 2023-12-07T17:51:00Z
-    webUrl: "https://www.piworld.com/article/onevision-releases-its-latest-software-version-23-2/"
-    type: article
-    provider:
-      name: Printing Impressions
-      domain: piworld.com
-    quality: 4
 
 secured: "bCExt4hNtGaGFFQWrcEZOckmQB4f66eGsoEzm25wqnwVQLhMEs7/E8Ec9kDo11vKZ6R2g6nBZ3wITYx4EBu645MnF4CoHBFHfh/kBSz2CM7ZQlBHOe6vXZu/0XzqsgDkhwBkXRLFq5q0LWq22yrNjr4dIEbR6ypz7zChli2ZxvqNTqMi/XCJbQHosQWuJES/OjeibbbiPB+2HciLsrv3q6OuGsEsygBwMi25TVv22t88ojyVT3HLj0B6tHwGkwNVFfOXuUBgo/jyPC0i5XoDpMv5KSSfhBd89FKnFrT5JKlQww+8Mwprw59256Ur36rZqCbycHwsvTMV1qqIh05sw+SzDOYtKax8wlp4hLCLE1ABv8iHMY/P7thA494DHYrywGjXJxWgWH01MWdXnvKP5fjzRrTiRr1Sx0RIV5nlGJjfwSYP+aYafU6kABfpRM4/zxd4WHKJuMrjULUCzAQ9iZQmpr5Hl0awpNVIEZFlBOcDxfqzPsTF4cm0gXiX5kD71ZMCMr41SKzJLYcXDAZ74A==;R5kbbWvOnfcSzmJ9qgsXFg=="
 ---

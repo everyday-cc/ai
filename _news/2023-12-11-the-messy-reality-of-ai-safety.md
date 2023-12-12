@@ -79,15 +79,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Meta releases ‘Purple Llama’ AI security suite to meet White House commitments"
-    excerpt: "Meta released a suite of tools called “Purple Llama,” designed to help developers build safely and securely with generative AI tools, such as Meta’s open-source model, Llama-2."
-    publishedDateTime: 2023-12-07T18:30:00Z
-    webUrl: "https://cointelegraph.com/news/meta-releases-purple-llama-ai-artificial-intelligencesecurity-suite-white-house-commitments"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 32
   - title: "OpenAI’s Soap Opera Collapse Bodes Ill for AI Benefiting Humanity"
     excerpt: "Whatever fantasies we may have had about the nonprofit structure of OpenAI have been eviscerated. While it remains a nonprofit, it’s proven entirely beholden to ruthless capitalism"
     publishedDateTime: 2023-12-11T13:04:00Z

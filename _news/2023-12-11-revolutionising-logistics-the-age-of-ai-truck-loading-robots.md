@@ -33,6 +33,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Revolutionizing Global Communications: The Role Of AI In Streamlining The Cannabis And Psychedelic Industries"
+    excerpt: "In an era where the cannabis and psychedelic industries are rapidly expanding, mastering the art of global communication is more than a necessity - it’s the key to success."
+    publishedDateTime: 2023-12-12T15:24:00Z
+    webUrl: "https://www.benzinga.com/markets/cannabis/23/12/36201104/revolutionizing-global-communications-the-role-of-ai-in-streamlining-the-cannabis-and-psychedeli"
+    ampWebUrl: "https://www.benzinga.com/amp/content/36201104"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36201104"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 40
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/12/12/cannabis_twitter_28.png?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "CdKO5dbl8efp+2p3jZk67kC36821mdwnjNwv3mXEwDxMKVoZtn3kyMWLAtJoak61/Mv7HxROO7FtAr9l1jUtZ+HQaLdX8u4rSS9NtJwxm3qCe+tLA55C76q+hhdj4YKsww9Ge7F51BoluWZ6PUbGg3ongmySviRAOpqB1Jzg0HfuiOUE9R7vHd7wmVUMYP2yXBSUUtXZHbteZM7zra4RDZqg+q+mOT9OEudiNWvD/7yvddAHHTv9VNdXkT1UkhYxWUHjk5SZmOa10nrE85VDJQiSinpYEcAPAjaFvnEoYC+P9pbw5EOKubi4QiYrfpE4hLTao/DGsqNF9DSbPn7W43vQIk9P4Fqrg45ZZMnRAPI=;CBAraAPh2GD8v0/yqx7Yfg=="
 ---

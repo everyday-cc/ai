@@ -71,20 +71,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "AMD Stock Rises After Its AI Chip Rollout Challenges Nvidia"
-    excerpt: "Shares of Advanced Micro Devices rose by nearly 7% as investors reacted to Wednesday’s launch of new chips that aim to challenge Nvidia’s dominance in artificial intelligence computing. AMD had previo"
-    publishedDateTime: 2023-12-07T17:18:00Z
-    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-12-07-2023/card/amd-stock-rises-after-its-ai-chip-rollout-challenges-nvidia-bV3OhA8X89P4Fj47cXpf"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
-    images:
-      - url: "https://images.wsj.net/im-897244?width=600"
-        width: 600
-        height: 800
-        isCached: true
   - title: "AMD now sees a $400 billion market for AI chips. Why that's good news for Nvidia"
     excerpt: "Advanced Micro Devices has jacked up its market forecast for artificial intelligence chips to an eye-popping $400 billion by 2027. The chipmaker is sure to see its slice of that pie grow in the coming years, but the industry’s dominant player, Nvidia, is well-positioned to handle the emergent competition."
     publishedDateTime: 2023-12-08T09:01:00Z
@@ -171,6 +157,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Essential AI emerges from stealth with backing from Google, Nvidia and AMD"
+    excerpt: "Essential AI says the products would make data analysts 10x faster and give business users the ability to become data-driven decision-makers."
+    publishedDateTime: 2023-12-12T16:46:00Z
+    webUrl: "https://venturebeat.com/ai/essential-ai-emerges-from-stealth-with-backing-from-google-nvidia-and-amd/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 65
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/12/ashish_vaswani_and_niki_parmar__essential_ai___andrew_gessler_-_1.jpg?fit=750%2C500&#038;strip=all"
+        width: 750
+        height: 500
+        isCached: true
   - title: "AMD Takes The Fight To Nvidia With Latest AI Chip Launch. Is The Stock A Buy At $116?"
     excerpt: "Advanced Micro Devices stock (NASDAQ: AMD) hosted an event to unveil its latest chips tailor-made for the booming artificial intelligence (AI) market. The newly launched chips inc"
     publishedDateTime: 2023-12-11T03:38:00Z
@@ -242,15 +242,6 @@ related:
       name: Cbonds
       domain: cbonds.com
     quality: 34
-  - title: "AMD CEO to Nvidia fans: There will be multiple winners in the AI chip battle"
-    excerpt: "AMD CEO Dr. Lisa Su refuses to play second fiddle in the AI chip race to rival Nvidia, led by the black leather jacket-wearing Jensen Huang. \"There are going to be multiple winners in this market,\" Su said on Yahoo Finance Live (video above). \"I think there's a great growth opportunity for us, we expect to gain market share.\""
-    publishedDateTime: 2023-12-07T18:56:00Z
-    webUrl: "https://www.aol.com/amd-ceo-nvidia-fans-multiple-165749586.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 31
   - title: "Beyond The Likes of Nvidia Corp and AMD, Chip Market Troubles Pose Threats After AI Euphoria"
     excerpt: "Philadelphia Stock Exchange Semiconductor Index laggard Texas Instruments Inc., down 5.6% this year, has one of the broadest ranges of customers and products across the chip business. It said the key industrial market got weaker in the third quarter, contracting about 5%. Revenue related to communications components dropped more than 10%."
     publishedDateTime: 2023-12-11T13:13:00Z
@@ -260,15 +251,6 @@ related:
       name: Hindustan Times Tech
       domain: hindustantimes.com
     quality: 23
-  - title: "AMD Officially Launches MI300X AI Accelerator to Dethrone Nvidia's H100"
-    excerpt: "AMD launched the MI300X GPU at its Advancing AI event this week, where it officially tossed its hat into the AI accelerator ring to battle Nvidia's H100. AMD claims that its MI300X GPU has Nvidia's GPU covered and is the fastest AI accelerator in the world."
-    publishedDateTime: 2023-12-07T17:30:00Z
-    webUrl: "https://www.extremetech.com/computing/amd-officially-launches-mi300x-ai-accelerator-to-dethrone-nvidias-h100"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 19
   - title: "How Nvidia approaches accelerating the AI ecosystem"
     excerpt: "\"If you’re working in AI and accelerated computing right now, NVIDIA stands ready to help,\" the company said in its blog post. \"Developers across every industry in every country are building accelerated computing applications."
     publishedDateTime: 2023-12-11T22:31:00Z

@@ -53,6 +53,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "New Portable, Non-Invasive AI System Turns Thoughts Into Text"
+    excerpt: "Australian researchers have developed a portable, non-invasive system that can decode silent thoughts and turn them into text u"
+    publishedDateTime: 2023-12-12T18:16:00Z
+    webUrl: "https://menafn.com/1107581820/New-Portable-Non-Invasive-AI-System-Turns-Thoughts-Into-Text"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?509002"
+        width: 376
+        height: 250
+        isCached: true
   - title: "Portable, non-invasive, mind-reading AI turns thoughts into text (w/video)"
     excerpt: "“It is the first to incorporate discrete encoding techniques in the brain-to-text translation process, introducing an innovative approach to neural decoding. The integration with large language models is also opening new frontiers in neuroscience and AI ..."
     publishedDateTime: 2023-12-12T00:00:00Z

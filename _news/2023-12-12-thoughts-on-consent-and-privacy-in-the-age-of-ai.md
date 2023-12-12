@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/thoughts-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/12/thoughts-on-consent-and-privacy-in-the-age-of-ai/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Here are 7 portfolio stocks that can benefit from bigger tech budgets in the age of AI"
+    excerpt: "The gatekeepers of information technology budgets at major North American companies are ready to start spending again."
+    publishedDateTime: 2023-12-12T16:00:00Z
+    webUrl: "https://www.cnbc.com/2023/12/12/here-are-7-portfolio-stocks-that-can-benefit-from-bigger-tech-budgets-in-the-age-of-ai.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 59
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107273423-1689744131692-gettyimages-1328784596-robot-gui-pabel.jpeg?v=1697787710&w=1920&h=1080"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Will AI Spell The End Of The Contact Center Agent?"
     excerpt: "The generative AI boom has every industry dreaming big about how the technology can be applied to increase efficiency."
     publishedDateTime: 2023-12-12T14:30:00Z
@@ -73,6 +87,6 @@ related:
       domain: themunicheye.com
     quality: 14
 
-secured: "uABjng5tre81rJg0cuT0U1+k/HWSjunPpKXYQBBd3iJwUD1KbhnHOYi/shLZOFk4S/0jdUUQUShIEATsgVFR7HZk4D0uPoQ4z/2IglTFxdPahR7z/YgumMdtHjleAu+oa1Ht8eAF5F4VrprZ77jAgQvUomINK6mYmkCpDYwc9Gij7ZVPz3mF0IIPMri/k4P59STHjrGYKz6uZE60NVg4hNUYlT3MzzK0SIZBdTMpa4RexuCV2dXxGc653G5BOCn5Yu+yI1nxn0cQNvF6DaNu2e0aTRn5Vh6+t3hWyb3UE1faOlQvYqS2HvyTWvKBkjhD30cMgN5OFhTYYJKCeTWLNgvN6jHWYbTVOroY/ELK+Cg=;dntmMa8QmhFY4a3Yc+8aZQ=="
+secured: "OLqW9R0GAMZb7LN0pYtMcsSSBLvXzp5WcWoSDL6Z0uhm3JdefOkYy/6mlRCbFf0j3z57pJCV4pYQHkEARcD28CzK8+yOCTgFRU64qmtwq+6EbnmE9WGh9+chhRydl9DnbUQtNZVBeaYHHwyQ4U/3YeI6OB4Y8TaieGz70sqH5JrRJ7EWEEs2HAowH/2bTEEmfiub5jnbAYPgZE/QQYpzZLUP7HZ3ZwhaGSHWxnRcIZtfU9cxdaIs2ZFFRIo4UWB//jt/Hqe/Ef7Ac5JWPY/R4XT0IFwJbmc57Z7bA9E54C9oRmDHe8UFdC0FOnMwyqne2lIWi6sQDg23BLBfm2cn0e/WiHUSamFh5MtS4ukM1pQ=;RsU3EGf0XJlsAMT1sjduvQ=="
 ---
 

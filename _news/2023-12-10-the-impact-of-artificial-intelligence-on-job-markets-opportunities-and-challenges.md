@@ -33,6 +33,20 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Researchers compare AI policies and guidelines at 52 news organizations around the world"
+    excerpt: "Research on AI guidelines and policies from 52 media organizations from around the world offers a snapshot of how newsrooms are handling AI."
+    publishedDateTime: 2023-12-12T18:12:00Z
+    webUrl: "https://journalistsresource.org/home/generative-ai-policies-newsrooms/"
+    type: article
+    provider:
+      name: Journalist's Resource
+      domain: journalistsresource.org
+    quality: 30
+    images:
+      - url: "https://journalistsresource.org/wp-content/uploads/2023/12/mojahid-mottakin-Dj6D287bxiQ-unsplash-1024x675.jpg"
+        width: 1024
+        height: 675
+        isCached: true
 
 secured: "RYXIfcA1V9PwlX53g1HIP/CcCOBOXoHfMax4qQunMkFyPZZMTMRnRsy4qf6BiraiDybEvafkH+cKcvUaJAUzmqktBxzjALXkwON384/h2lok8lVQFVqRzZF+fdhz2PAPfTVXI7oSJpwYlHs0p4yvLThJi5GLnUUNVVhKAFI/nbNloWygvvDjwGG45ByPxwhklDeXkEID/5KFCZ8b8IzpsGJZV24VX59eaSNJ1sTJRcyYM9KDbu7eVssrrbSpUl+XzgduQHGb5j0Wk/vOzDe3Otdhir0YYUmBwqonNi2tYBurEj4jhKdYg3ghwbDlx7hRyElk7wawJUHf18etw/5h81SB8ZhXf3XwzjcpwMwmv5oMj81dNBHc+5SkFkzFq7Ha1IG27SUEmrq8xTe7FCjv0uL/ax1ZgT/QhF3bOsYF3yPkpPeGEC6JT9cdIJLjRxK4rn0oNMCfTK6KTCViok/nR1aCeZZ0WJEznkp6EqvsF7sa5yQg8LB1OMmrSEJc9NhKncrFBUQy7D4BucifCUaaTw==;GQKl8+zbp5GUwSVJWHnixw=="
 ---

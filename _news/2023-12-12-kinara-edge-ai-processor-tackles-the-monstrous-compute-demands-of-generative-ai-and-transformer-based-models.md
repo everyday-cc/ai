@@ -126,6 +126,20 @@ related:
         width: 2000
         height: 1125
         isCached: true
+  - title: "Revolutionizing Enterprise Search: Harnessing Generative AI for Enhanced Data Discovery"
+    excerpt: "The realm of enterprise search is undergoing a transformative shift, propelled by the integration of Generative AI. This cutting-edge technology is not"
+    publishedDateTime: 2023-12-12T17:14:00Z
+    webUrl: "https://innotechtoday.com/revolutionizing-enterprise-search-harnessing-generative-ai-for-enhanced-data-discovery/"
+    type: article
+    provider:
+      name: Innovation & Tech Today
+      domain: innotechtoday.com
+    quality: 31
+    images:
+      - url: "https://innotechtoday.com/wp-content/uploads/2023/12/pexels-google-deepmind-17485743-1.jpg"
+        width: 800
+        height: 500
+        isCached: true
   - title: "How generative artificial intelligence will change Ohio’s workforce"
     excerpt: "McKinsey has estimated that, accelerated by gen AI, up to 30% of current hours worked in the United States could be automated by 2030, requiring 12 million job shifts."
     publishedDateTime: 2023-12-11T05:00:00Z
@@ -145,6 +159,6 @@ related:
       domain: itwire.com
     quality: 14
 
-secured: "WpiQxeWCmFMvFrYXq/Vi3WAjHfwufTT8obrmCROoemUTxFesny9j4kSyK0xOjNDYAYRwjsQdoT/wOrPcNT1mXhp/W1DkjB5d3YDintEoB+UDBABFAzrpooZsGM1REoaN0B5rQLPU8e+WILf4XkfF1uo4aE78EFPMe7zUs5h+ZIDXliL9oVTsyQwGJIgjMTl1hgs4opKaxUZxSSIsDwXyP9brIMx+FTQWWyTs6DIrqWRs4gwLUqsM9GiKzbdNU1hCs0YwrTV0biKIKPoXAYz0L0UfcG3GXDu0VWmRdfx2pdm8Ro8wUvcJeojQc6EUafHQV7WbPjPGbqX0X+hpGXvkiTQ7Xh3ApAUHwNesA6vtV4g=;SkyytDzPSE6XmUhxytInzw=="
+secured: "ZRID/3IKvNcPTOy++8qXtEDOKpFdhmGggEH6ynuyz40VCTMqTK9+/Do8zMo6FIv8OUVqF1glEM0554ATw5voJhmuNCbYecPWByA+BeIDRgtAIkY93pPZtCOTY3t5A3LXg4kBr7kdUG3i4WrcpEh3H2NfaCAkdvxB7rKCCckJd42Qgj5VzDrKfl778ZFgQehnabMegdtSwk9kPYm0BNmdn5UnIqGqPUShFyK/XAAJk8+7aoZrnarVpAaN7CtLpJUyDd3JT8Cqipp6jWQ1NThhvV0W7SW7A/razj+O5kIO8iMLSBxXulLu9U3QmYB1DvNdl1qrkOWo0xUmfyLIxvVCNlzAkNjbbmL7q/+xpmZFAH2ojFb/hSJ+NPmImgkfsSCJaSNhBAuHOCA5l0Z843XgTbO8bJQ6yB1Vgr4qPrxVCspooQbSXOzgCZKJzcACCqYAdD5186RjQOomonKl26lBFVzGgXApJWLMMPChTeXM4JSnRw+m0LWcUPseC1RugDOI5hIAzhoH23OXCz1snuz7HQ==;AZBU2rRky5iW3zIdzpcpcA=="
 ---
 
