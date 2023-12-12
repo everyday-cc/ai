@@ -6,8 +6,8 @@ publishedDateTime: 2023-12-11T22:12:00Z
 originalUrl: "https://techbullion.com/the-rise-of-artificial-intelligence-transforming-industries-and-reshaping-our-future/"
 webUrl: "https://techbullion.com/the-rise-of-artificial-intelligence-transforming-industries-and-reshaping-our-future/"
 type: article
-quality: 32
-heat: 32
+quality: 34
+heat: 34
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Machine Learning
 
 images:
   - url: "https://techbullion.com/wp-content/uploads/2023/12/Artificial-Intelligence-1-1000x600.jpg"
@@ -24,6 +25,6 @@ images:
     height: 600
     isCached: true
 
-secured: "uXwbG1chx2rUYPtGozz633u769C0Ul8xNdXEU891flEBmaAXdu2ojiisQWV8Fzr3BIVgKDEAtM3nicB5eSjXMYaONIlDYyu1cuuO8M6C+uIICHlklq8LrbEupYm6u/nrkm2HY25p7UvuPixRiYKnLUBnJnkkMchrdScEjg4x7xQDgwyRW3w7hr872zBXK3oZk3h2r8WL13kVozeUsHc5Yd9qBtxeI3EWbywsFqtG/xOXX3ieAVqZlxHKmkx5dHOWqMkThBFqw+ohTm+PmF32yeaLZG4S1iIz010peZqdC2ZV2wg1ORK0xA8VUy8jc6dQUm6pbFgnW/XwjB7ynYAp25Je7DCm9X30zmjsQ9YBu8o=;lsiRgosmomv1YC9g65LJAg=="
+secured: "hobZMZC1hq3tc5FbRuGZ7o2JTFRyklt2USmMZe3yIUbzxaaYqsgwgif26H5RzF0v7MTmZNvahi+QI/6XQa/7QelfZv/nm3YbYFxAlH+S7BfFqQZKJI0FmNDVj1cCReL/ujDDfoTMB/wo9qExtHxihnjM4Zh/CIAPwgwi/RwhrDQe7jEuQDKYAeILMo9p0jNlCsyyrD6+ZArBQPjshc5mvocivJSfTbubklan367FLIOfo3Ou1UHwbrkGYfCPJjQK/mb+V+pgTa95C5dXkSl7y50OpVrRa6GxT5v1kc93IBXhxOEgUUMXpCZdNaA8YUaAgxYthrBOJWqgGQOuADDLB0W3rmikUP34iCaiVOQv8ZDUMoOmop3LLQ6582OmT5Iidigiyo81AI3q7N+RgIGS2Cjv4zX0KLH8Van7edlCVc+1sj5iiI9R5Qr55nnZOFI+cwTUgRIS82Wbk/8/3Xm6IDYRPUYoGzWLCoEzmBJgADZDFR32a6LTS76JXHIGLkIO2XR0W3pTC+Ll9SufjxXdcA==;kpIDEJMSl4cNYKuxDGLfGg=="
 ---
 

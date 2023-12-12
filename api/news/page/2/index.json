@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/robtoews/2023/12/10/how-accurate-were-our-2023-ai-predictions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -63,7 +63,7 @@
       "originalUrl": "https://www.barrons.com/news/french-ai-start-up-mistral-ai-raises-385-mn-euros-7cc2d989",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -136,6 +136,58 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-09-the-ai-boom-will-light-a-fire-under-server-stocks-in-24.md",
+      "title": "The AI Boom Will Light A Fire Under Server Stocks In ’24",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips As with every new technological paradigm shift, the AI Boom will evolve in",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/the-ai-boom-will-light-a-fire-under-server-stocks-in-24-1032887251",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-ai-boom-will-light-a-fire-under-server-stocks-in-24-1032887251",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh7-us.googleusercontent.com/pzTWE6xziCazjeVj7kQkLMWo4ir7CfCKzGJXQaww1dGf1vRu9hkN9Y7JIs-q1TbZu-PcCDt2gnE8Lyx4hEBxNcwfa0W5MftelI-0vSy9R62iGwfqchnnTNLQnHhacW6MU4JhtFETZWOkTggjoBGsaw",
+          "width": 1600,
+          "height": 821,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-09T14:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -555,7 +607,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/black-banx-path-to-fintech-eminence-innovation-and-success-1032886175",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -607,7 +659,7 @@
       "originalUrl": "https://deepmind.google/discover/blog/google-deepmind-at-neurips-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -856,7 +908,7 @@
       "originalUrl": "https://www.forbes.com/sites/greatspeculations/2023/12/08/amd-takes-the-fight-to-nvidia-with-latest-ai-chip-launch-is-the-stock-a-buy-at-116/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 257,
+      "heat": 287,
       "tags": null,
       "images": [
         {
@@ -1180,58 +1232,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-08-ai-horizons-ethics-risks-and-the-road-ahead.md",
-      "title": "AI Horizons: Ethics, Risks, and the Road Ahead",
-      "excerpt": "We’re at a historic inflection point in AI regulation, but from algorithmic bias to privacy issues, the ethical concerns grow. In this panel, moderated by WIRED’s Khari Johnson, we explore how tech companies and lawmakers are examining future existential risks and building safety measures in a rapidly evolving technological landscape.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/video/watch/ai-horizons-ethics-risks-and-the-road-ahead",
-      "originalUrl": "https://www.wired.com/video/watch/ai-horizons-ethics-risks-and-the-road-ahead",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_wired.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1701968651/wired_ai-horizons-ethics-risks-and-the-road-ahead.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-07T17:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

@@ -2,6 +2,238 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2023-10-16-ibm-named-a-leader-in-the-2023-gartner-magic-quadrant-for-api-management.md",
+      "title": "IBM Named a Leader in the 2023 Gartner Magic Quadrant for API Management",
+      "excerpt": "IBM is helping Businesses create APIs to get the data they need to power their applications and experiences, and scale their operations.\nThe post IBM Named a Leader in the 2023 Gartner Magic Quadrant for API Management appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ibm-named-a-leader-in-the-2023-gartner-magic-quadrant-for-api-management/",
+      "originalUrl": "https://www.ibm.com/blog/ibm-named-a-leader-in-the-2023-gartner-magic-quadrant-for-api-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-16T15:24:47Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-16-generative-ai-is-everything-everywhere-all-at-once.md",
+      "title": "Generative AI is everything, everywhere, all at once",
+      "excerpt": "Many notable tech companies are building their own large language models, whether it's Microsoft's Bing, Google's Bard, Snapchat's AI chatbot, or the new Meta AI chatbots. Generative AI is projected to balloon to a $1.32 billion market by 2032, according to a report by Bloomberg Intelligence .",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/generative-ai-is-everything-everywhere-all-at-once/",
+      "originalUrl": "https://www.zdnet.com/article/generative-ai-is-everything-everywhere-all-at-once/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/e9154ae3027cc98693265cceda3c9a0a4d0f64ef/2023/09/28/b327e148-d2b9-491b-8fc0-b81fa0299a12/gettyimages-1343571001.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/generative-ai-is-everything-everywhere-all-at-once/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-is-everything-everywhere-all-at-once/",
+      "publishedDateTime": "2023-10-16T15:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-10-16-coresite-accelerates-aws-direct-connect-hosted-connections-on-the-open-cloud-exchange.md",
+      "title": "CoreSite Accelerates AWS Direct Connect Hosted Connections on the Open Cloud Exchange",
+      "excerpt": "CoreSite, a leading hybrid IT solutions provider and subsidiary of American Tower Corporation (NYSE: AMT) (“American Tower”), announced it will launch",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20231016742177/en/CoreSite-Accelerates-AWS-Direct-Connect-Hosted-Connections-on-the-Open-Cloud-Exchange®",
+      "originalUrl": "https://www.businesswire.com/news/home/20231016742177/en/CoreSite-Accelerates-AWS-Direct-Connect-Hosted-Connections-on-the-Open-Cloud-Exchange®",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-16T15:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-16-leidos-reinforcement-learning-exercise-illuminates-how-ai-can-automate-military-ops.md",
+      "title": "Leidos Reinforcement Learning Exercise Illuminates How AI Can Automate Military Ops",
+      "excerpt": "The approach is called Reinforcement Learning, or RL, and the basic idea is to generate software that can enable a machine to learn from its environment through trial and error—in much the same way that young children do.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lorenthompson/2023/10/16/leidos-reinforcement-learning-exercise-illuminates-how-ai-can-automate-military-ops/",
+      "originalUrl": "https://www.forbes.com/sites/lorenthompson/2023/10/16/leidos-reinforcement-learning-exercise-illuminates-how-ai-can-automate-military-ops/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/652d4c5d91d951fc698e5171/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 640,
+          "height": 435,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lorenthompson/2023/10/16/leidos-reinforcement-learning-exercise-illuminates-how-ai-can-automate-military-ops/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lorenthompson/2023/10/16/leidos-reinforcement-learning-exercise-illuminates-how-ai-can-automate-military-ops/amp/",
+      "publishedDateTime": "2023-10-16T14:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-16-mac-users-are-embracing-ai-apps-study-finds-with-42-using-ai-apps-daily.md",
+      "title": "Mac users are embracing AI apps, study finds, with 42% using AI apps daily",
+      "excerpt": "AI adoption among Mac app users is booming, according to a new report from app subscription service Setapp that found that 42% of Mac users today report",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/10/16/mac-users-are-embracing-ai-apps-study-finds-with-42-using-ai-apps-daily/",
+      "originalUrl": "https://techcrunch.com/2023/10/16/mac-users-are-embracing-ai-apps-study-finds-with-42-using-ai-apps-daily/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/07/CMC_1580.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/10/16/mac-users-are-embracing-ai-apps-study-finds-with-42-using-ai-apps-daily/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/16/mac-users-are-embracing-ai-apps-study-finds-with-42-using-ai-apps-daily/amp/",
+      "publishedDateTime": "2023-10-16T14:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-16-ai-aims-to-predict-and-fix-developer-coding-errors-before-disaster-strikes.md",
       "title": "AI aims to predict and fix developer coding errors before disaster strikes",
       "excerpt": "Generative AI can be combined with more traditional forms of artificial intelligence to predict how computer systems may fail before applications are put into production, according to Dynatrace's CTO.",
@@ -950,239 +1182,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-10-16-master-machine-learning-in-your-workplace-without-draining-your-human-batteries.md",
-      "title": "Master Machine Learning In Your Workplace (without Draining Your Human Batteries)",
-      "excerpt": "Despite the fear-driven media headlines, business leaders and workers can indeed win from a harmonious collaboration between humans and machines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/esmtberlin/2023/10/16/master-machine-learning-in-your-workplace-without-draining-your-human-batteries/",
-      "originalUrl": "https://www.forbes.com/sites/esmtberlin/2023/10/16/master-machine-learning-in-your-workplace-without-draining-your-human-batteries/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/652ce36684b2025b759668cc/0x0.jpg?format=jpg&crop=5000,2812,x0,y148,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/esmtberlin/2023/10/16/master-machine-learning-in-your-workplace-without-draining-your-human-batteries/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/esmtberlin/2023/10/16/master-machine-learning-in-your-workplace-without-draining-your-human-batteries/amp/",
-      "publishedDateTime": "2023-10-16T07:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-16-sunak-paves-the-way-for-driverless-cars-in-four-years.md",
-      "title": "Sunak paves the way for driverless cars in four years",
-      "excerpt": "Driverless cars have proved controversial ... Morris/Bloomberg Mr Sunak is under pressure to appear welcoming to artificial intelligence companies amid surging investment in the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraph.co.uk/business/2023/10/15/driverless-cars-britain-four-years-nissan-ford/?utmsource=email",
-      "originalUrl": "https://www.telegraph.co.uk/business/2023/10/15/driverless-cars-britain-four-years-nissan-ford/?utmsource=email",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.telegraph.co.uk/content/dam/business/2023/10/15/TELEMMGLPICT000146855933_16973913790240_trans_NvBQzQNjv4BqEzw5OF8VsBey80ir11mphkgR7PVUJ79uLnSHs-A1YSI.jpeg?impolicy=logo-overlay",
-          "width": 1024,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-16T07:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "telegraph.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-16-logitech-unveils-zone-wireless-2-ai-powered-headset.md",
-      "title": "Logitech Unveils Zone Wireless 2 AI-Powered Headset",
-      "excerpt": "Swiss computer accessory giant Logitech has announced its next-generation Zone Wireless 2 headset in a move that underscores the company’s commitment to the burgeoning business-to-business market. Whether staff are working from home, office or a combination of the two, those workers need the right tools for Zoom meetings and phone calls.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/marksparrow/2023/10/16/logitech-unveils-zone-wireless-2-ai-powered-headset/",
-      "originalUrl": "https://www.forbes.com/sites/marksparrow/2023/10/16/logitech-unveils-zone-wireless-2-ai-powered-headset/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65295de0a0b6a0930e9b9f0f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/marksparrow/2023/10/16/logitech-unveils-zone-wireless-2-ai-powered-headset/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marksparrow/2023/10/16/logitech-unveils-zone-wireless-2-ai-powered-headset/amp/",
-      "publishedDateTime": "2023-10-16T07:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-16-techno-plasticity-in-the-age-of-artificial-intelligence.md",
-      "title": "Techno-plasticity in the Age of Artificial Intelligence",
-      "excerpt": "But as artificial intelligence (AI ... represent a fascinating and potentially transformative step in machine learning. Unlike traditional neural networks that are trained and deployed in a relatively static state, liquid networks are designed to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-10/matrix-2975868_1280.jpg?itok=18KUtr3C",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence?amp",
-      "publishedDateTime": "2023-10-16T06:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-10-16-rise-of-artificial-intelligence-creates-heavy-workload.md",
-      "title": "Rise of artificial intelligence creates heavy workload",
-      "excerpt": "Internet giants, power networks and communications companies are being urged to consider the massive load that comes with the rise of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.perthnow.com.au/business/rise-of-artificial-intelligence-creates-heavy-workload-c-12218192",
-      "originalUrl": "https://www.perthnow.com.au/business/rise-of-artificial-intelligence-creates-heavy-workload-c-12218192",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.perthnow.com.au/publication/C-12218192/d051b7f903dfb1b2696983c637662c5ffe1d7619-16x9-x0y0w1280h720.jpg?imwidth=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-16T03:22:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Perth Now",
-        "domain": "perthnow.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

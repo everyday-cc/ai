@@ -27,7 +27,7 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://www.techrepublic.com/wp-content/uploads/2023/12/AdobeStock_638686268.jpeg"
         width: 1400

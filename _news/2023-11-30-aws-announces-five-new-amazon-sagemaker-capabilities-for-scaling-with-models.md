@@ -1,20 +1,26 @@
 ---
 category: news
 title: "AWS Announces Five New Amazon SageMaker Capabilities for Scaling with Models"
-excerpt: "Amazon SageMaker HyperPod reduces time to train foundation models by up to 40% by providing purpose-built infrastructure for distributed training at scale Amazon SageMaker Inference reduces foundation model deployment costs by 50% on average and latency by ..."
-publishedDateTime: 2023-11-29T17:31:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2023/11/29/aws-announces-five-new-amazon-sagemaker-capabilities-for-scaling-with-models"
-webUrl: "https://stockhouse.com/news/press-releases/2023/11/29/aws-announces-five-new-amazon-sagemaker-capabilities-for-scaling-with-models"
+excerpt: "Amazon SageMaker Canvas helps customers build ML models and generate predictions without writing a single line of code. Today's announcement expands on SageMaker Canvas' existing, ready-to-use capabilities that help customers use models to power a range of use cases, in a no-code environment."
+publishedDateTime: 2023-11-29T17:35:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-aws-announces-five-new-amazon-sagemaker-capabilities-scaling-/2023/11/29/9925383.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-aws-announces-five-new-amazon-sagemaker-capabilities-scaling-/2023/11/29/9925383.htm"
 type: article
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "4+e8r3I8LtDIWFF7AjO4rO+obnG/U4B5sNVeYM+uGA6rooVlffhMydfMcup1loyA6MZ0U2FHZOR0RahQ+qXRtfqJWRqWJYRzZ49yMiEbw03fwbPAtgo420LdVXLw0uBN7DwL2z2Y4gY86p2b29w6SUdGbka4VHRoe9jMy5RVoTy0K9DdmNmw7SIYyPPkiS31GJgfx6NMt/r9lZXIZhN4WeNndrvFTGthrQro0jg0bI5yp10afzEmOPkR8tNNRdoHKuSIg/H3Bt3l0RDZlcF6Gwg1oADEMkmingSW53hAptw+83LnCHdrFdfpV1ldTKmruG1qeKqtsC9oVdPPQtHfR4/ISA0o89ep+JkqVqqMaOo=;4Qrn6d2zqLwf01q1aO2HHw=="
+images:
+  - url: "https://images.tmcnet.com/tmc/world.jpg"
+    width: 1200
+    height: 627
+    isCached: true
+
+secured: "86D/m8ZjURl4zexJsvF6jq+MGLIebgU/Ea8V1KTAu1qD75vS9sDBKqBXTyV8fysXyV3JB9vt5At5LHL7kTYf7nChwS3BlXdr7Dxvcg7kEGamh0dQFMx07jO6l0gYOqyf7RpRbdkiB9/KRNtYgEfYUqI1x98psMBAJ/0NAsglXE+SeX//0U16XDV93P4MacuHP+aIuPDIsf1qMmgCKZagmgI/7ZwjymRxrcANIP084hyDHX5SlWEP5OOfS6ogoe/HsoH9io62A0e6tt/bXg7qPLjfU6dXneV71CxQbRY8YxDFvZuA7YHJN2pLnhtGjUTEKbK+Q4RjD42OLeQL7TV17hDrCjVvTWju+3hO1BNS7ps=;Iv879Dt5X12tcc0HBUvdBA=="
 ---
 

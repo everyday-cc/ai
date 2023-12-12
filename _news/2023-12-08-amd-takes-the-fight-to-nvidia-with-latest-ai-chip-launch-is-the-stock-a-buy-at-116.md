@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2023/12/08/amd-takes-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2023/12/08/amd-takes-the-fight-to-nvidia-with-latest-ai-chip-launch-is-the-stock-a-buy-at-116/amp/"
 type: article
 quality: 97
-heat: 257
+heat: 287
 published: true
 
 provider:
@@ -89,6 +89,34 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "US in talks with Nvidia about AI chip sales to China"
+    excerpt: "Dec 12 ― The Biden administration is in discussions with Nvidia Corp about permissible sales of artificial intelligence chips to China but"
+    publishedDateTime: 2023-12-12T00:40:00Z
+    webUrl: "https://www.malaymail.com/news/money/2023/12/12/us-in-talks-with-nvidia-about-ai-chip-sales-to-china/107050"
+    type: article
+    provider:
+      name: malaymail
+      domain: malaymail.com
+    quality: 71
+    images:
+      - url: "https://www.malaymail.com/malaymail/uploads/images/2023/12/12/thumbs/400x400/170852.jpg"
+        width: 400
+        height: 266
+        isCached: true
+  - title: "US in talks with Nvidia about AI chip sales to China: Commerce Secretary"
+    excerpt: "NASHUA - The Biden administration is in discussions with Nvidia about permissible sales of artificial intelligence (AI) chips to China but emphasized that it cannot sell its most advanced semiconductors to Chinese firms. US Commerce Secretary Gina Raimondo ..."
+    publishedDateTime: 2023-12-12T00:56:00Z
+    webUrl: "https://www.straitstimes.com/business/us-in-talks-with-nvidia-about-ai-chip-sales-to-china-commerce-secretary"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 70
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/12/12/2023-12-11T061646Z1491786100RC2GOZ9QBK9NRTRMADP3NVIDIA-VIETNAM-CHIPS.JPG"
+        width: 860
+        height: 573
+        isCached: true
   - title: "Chip Stocks Are Surging, but Nvidia Is Missing It"
     excerpt: "It’s a big day for chip stocks, but the year’s top-performer is suddenly lagging. The PHLX Semiconductor index advanced more than 2% on Monday morning. Broadcom was up more than 6%, the S&P 500’s second-best performer."
     publishedDateTime: 2023-12-11T16:15:00Z
@@ -144,15 +172,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 57
-  - title: "US in talks with Nvidia about AI chip sales to China"
-    excerpt: "Nvidia said it is working closely with the US government to ensure chips sold to China were compliant with export curbs. (Reuters pic) NASHUA: The Biden administration is in discussions with Nvidia Corp about permissible sales of artificial intelligence chips to China but emphasised that it cannot sell its most advanced semiconductors to Chinese firms."
-    publishedDateTime: 2023-12-11T22:37:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/business/2023/12/12/us-in-talks-with-nvidia-about-ai-chip-sales-to-china/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 51
   - title: "AMD AI Chip Challenges Nvidia’s H100 as Rivalry Enters New Era"
     excerpt: "AMD's new MI300X AI chipset, coupled with the ROCm6 software, is set to compete with the Nvidia H100 as their GPU rivalry enters a new era."
     publishedDateTime: 2023-12-07T14:30:00Z
@@ -207,6 +226,15 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 19
+  - title: "How Nvidia approaches accelerating the AI ecosystem"
+    excerpt: "\"If you’re working in AI and accelerated computing right now, NVIDIA stands ready to help,\" the company said in its blog post. \"Developers across every industry in every country are building accelerated computing applications."
+    publishedDateTime: 2023-12-11T22:31:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/12/11/nvidia-startup-ecosystem-investment.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
   - title: "AMD Is Set To Challenge Nvidia's Dominance And Amazon Is Going After Microsoft's Early-Start AI Advantage"
     excerpt: "According to analysts, Nvidia Corporation (NASDAQ: NVDA) controls roughly 80% of the AI chip market, when including the custom processors built by companies such as Alphabet (NASDAQ: GOOG)-owned Googl"
     publishedDateTime: 2023-12-11T18:23:00Z
@@ -216,6 +244,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 17
+  - title: "Yotta Data Services Collaborates with NVIDIA to Catalyze India's AI Transformation"
+    excerpt: "India's Largest Supercomputer of 16 Exaflops AI computing power with NVIDIA H100 Tensor Core GPUs to drive mass-scale AI innovation in India Yotta Data Services today announced a collaboration with NVIDIA to deliver cutting-edge GPU computing infrastructure and platforms for its Shakti Cloud platform."
+    publishedDateTime: 2023-12-08T01:30:00Z
+    webUrl: "https://www.newswit.com/en/ifkygiehma1blui2jw2drclqmefj5f27"
+    type: article
+    provider:
+      name: academy
+      domain: newswit.com
+    quality: 13
 
 secured: "wudy+fkg3SXWvOmZh6xrW24W9idS0axM4AgL0h/WkFot5BWSTiM5Go1WexzjDOSPOoFAOEIooxt8YqiL6JVuI+/g7e3Vx54Q8McE6HIr+8HaIgHn5tleA6HuzFzeTkT+E9MjGlfeuKmE+Iu+b5udE5dsoy79tIOb4piqe6hnFYrMfv89MC7LjVwhns35z/x4vrSjHbIikBarWGWJCY5ms+RFcWiZCECb7W4QT28jEcYp+F+Q+baeH+MvYWh1WGIQqaFdZHtGG9iglIjGGH5pYHymcdqQCDiSivVxD0xaR1Ony4a6rwxRxB6m4LYmG7J7+UgMcNHxdQJhkx5oUGx96iatDWOEfANsSfTzRH4PKJVe2erDNcaKwMT5jZpQ6HGbH4uS3+8XDMli6+m+OtC7pZC0mR6bbLzbBtGsl9WmmAyU+8r5URDv7Ob8mFmya0TZcucAwM0uZzYE5iiMo7T7vGUjqAN+PuiTmP8Q6qMJjGiKMFoh9jfk1lqafgvo5OT+INxfL+Em8WvPj+hyCXiU5g==;B4vmHAHAtDN5AKdeGg2W1A=="
 ---

@@ -3,25 +3,25 @@ category: news
 title: "Artificial intelligence made from ‘clumps of human brain cells’ taught to recognize speech in world-first experiment"
 excerpt: "CLUMPS of human brain cells connected to an electronic chip have successfully completed simple tasks including speech recognition. That’s according to researchers at Indiana University"
 publishedDateTime: 2023-12-11T20:32:00Z
-originalUrl: "https://www.thesun.co.uk/tech/25020217/artificial-intelligence-human-brain-cells-biocomputer/"
-webUrl: "https://www.thesun.co.uk/tech/25020217/artificial-intelligence-human-brain-cells-biocomputer/"
-ampWebUrl: "https://www.thesun.co.uk/tech/25020217/artificial-intelligence-human-brain-cells-biocomputer/amp/"
-cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/25020217/artificial-intelligence-human-brain-cells-biocomputer/amp/"
+originalUrl: "https://www.thesun.ie/tech/news-tech/11833746/artificial-intelligence-human-brain-cells-biocomputer/"
+webUrl: "https://www.thesun.ie/tech/news-tech/11833746/artificial-intelligence-human-brain-cells-biocomputer/"
+ampWebUrl: "https://www.thesun.ie/tech/news-tech/11833746/artificial-intelligence-human-brain-cells-biocomputer/amp/"
+cdnAmpWebUrl: "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/tech/news-tech/11833746/artificial-intelligence-human-brain-cells-biocomputer/amp/"
 type: article
 quality: 51
 heat: -1
 published: false
 
 provider:
-  name: The Sun
-  domain: thesun.co.uk
+  name: Irish Sun
+  domain: thesun.ie
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.thesun.co.uk/wp-content/uploads/2023/12/AK_BRAIN_OP.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+  - url: "https://www.thesun.ie/wp-content/uploads/sites/3/2023/12/AK_BRAIN_OP.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
     width: 1920
     height: 1080
     isCached: true
@@ -58,6 +58,6 @@ related:
         height: 900
         isCached: true
 
-secured: "E2WWiQOAHEwa2Uf5KTQABLMHFScVJC3N5XikL7yDQLGShYzinG4FYIAkrTLZnfjuCtwajLvXDOf3HDQO+aV8cfdAMHA+BNgSslpQ3NiW8W8/f8z/q/Sly1D3POelOalJcAkUvISwAL55TBAtMUEA5gv/kDMTs0MkBhtw2DjQaHAY5RFHnGtwQdEF5/qaKbpJejc0Ivn7EwD3edccmR1Rpd63XaQPwz9gm7PxOfgMps5nOLggC44qaiDq49xQkUbrasZqdTIHhSmHNdYJbOdu2XGtSQS8ME4XVmPdVt88F5ldH2KeS5Oj9FFPnMRd+2rZzKp+cj0eNMEf6BzT2jGY8fzF7IGr8/wACCriJa9REX0=;oEqDwAGuAN/EptG0ODQiXw=="
+secured: "iNbLGQFJfVGw7Xyi6E5zW6UnCws+D8UUcKLRybIPMRlMx/myqNsnnVJ0pPkX6AkE/imMMO+jk2CVWBOfV57B+BfSj8QRV1rb1f6M6sW0BBgF5BiEu98e91JWdco9XETsOFZiQe04lHHzYIOv0seCHzNYOuYi1q0jEx9oiaThpcp+4zJkHb7uCvGceJEk3N4AIovqhqDErl4Vb1i+F0OtiA5Mo95amct0hPoHvSDgT+kGIlCgK8SAA9WE9zprncc0noBKwcw3fSs8hhMANozIcA+fvm2TNIPI5x7ZfgCbj29/9U0FfCe8ay6EpZv2IvbqG1qebm1TvASF238fkl/0JAg1+DGHUlR5ewTtcSfwalA=;aZ0dZ4sNINqDRrRQWz0S4A=="
 ---
 

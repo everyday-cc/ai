@@ -14,6 +14,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://arizent.brightspotcdn.com/dims4/default/80a172f/2147483647/strip/true/crop/5760x3024+0+128/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F40%2F43%2F38fa0f144165a54a56163201babb%2Fadobestock-376488024.jpeg"

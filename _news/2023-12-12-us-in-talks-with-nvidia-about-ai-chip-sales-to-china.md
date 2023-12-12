@@ -1,23 +1,29 @@
 ---
 category: news
 title: "US in talks with Nvidia about AI chip sales to China"
-excerpt: "Nvidia said it is working closely with the US government to ensure chips sold to China were compliant with export curbs. (Reuters pic) NASHUA: The Biden administration is in discussions with Nvidia Corp about permissible sales of artificial intelligence chips to China but emphasised that it cannot sell its most advanced semiconductors to Chinese firms."
-publishedDateTime: 2023-12-11T22:37:00Z
-originalUrl: "https://www.freemalaysiatoday.com/category/business/2023/12/12/us-in-talks-with-nvidia-about-ai-chip-sales-to-china/"
-webUrl: "https://www.freemalaysiatoday.com/category/business/2023/12/12/us-in-talks-with-nvidia-about-ai-chip-sales-to-china/"
+excerpt: "Dec 12 ― The Biden administration is in discussions with Nvidia Corp about permissible sales of artificial intelligence chips to China but"
+publishedDateTime: 2023-12-12T00:40:00Z
+originalUrl: "https://www.malaymail.com/news/money/2023/12/12/us-in-talks-with-nvidia-about-ai-chip-sales-to-china/107050"
+webUrl: "https://www.malaymail.com/news/money/2023/12/12/us-in-talks-with-nvidia-about-ai-chip-sales-to-china/107050"
 type: article
-quality: 51
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: Free Malaysia Today
-  domain: freemalaysiatoday.com
+  name: malaymail
+  domain: malaymail.com
 
 topics:
   - AI Hardware
   - AI
   - AI in Sales
+
+images:
+  - url: "https://www.malaymail.com/malaymail/uploads/images/2023/12/12/thumbs/400x400/170852.jpg"
+    width: 400
+    height: 266
+    isCached: true
 
 related:
   - title: "AMD Takes The Fight To Nvidia With Latest AI Chip Launch. Is The Stock A Buy At $116?"
@@ -93,6 +99,20 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106274274-1575319644260gettyimages-1160287351.jpeg?v=1701979891&w=1920&h=1080"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "US in talks with Nvidia about AI chip sales to China: Commerce Secretary"
+    excerpt: "NASHUA - The Biden administration is in discussions with Nvidia about permissible sales of artificial intelligence (AI) chips to China but emphasized that it cannot sell its most advanced semiconductors to Chinese firms. US Commerce Secretary Gina Raimondo ..."
+    publishedDateTime: 2023-12-12T00:56:00Z
+    webUrl: "https://www.straitstimes.com/business/us-in-talks-with-nvidia-about-ai-chip-sales-to-china-commerce-secretary"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 70
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/12/12/2023-12-11T061646Z1491786100RC2GOZ9QBK9NRTRMADP3NVIDIA-VIETNAM-CHIPS.JPG"
+        width: 860
+        height: 573
         isCached: true
   - title: "Chip Stocks Are Surging, but Nvidia Is Missing It"
     excerpt: "It’s a big day for chip stocks, but the year’s top-performer is suddenly lagging. The PHLX Semiconductor index advanced more than 2% on Monday morning. Broadcom was up more than 6%, the S&P 500’s second-best performer."
@@ -203,6 +223,15 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 19
+  - title: "How Nvidia approaches accelerating the AI ecosystem"
+    excerpt: "\"If you’re working in AI and accelerated computing right now, NVIDIA stands ready to help,\" the company said in its blog post. \"Developers across every industry in every country are building accelerated computing applications."
+    publishedDateTime: 2023-12-11T22:31:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/12/11/nvidia-startup-ecosystem-investment.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
   - title: "AMD Is Set To Challenge Nvidia's Dominance And Amazon Is Going After Microsoft's Early-Start AI Advantage"
     excerpt: "According to analysts, Nvidia Corporation (NASDAQ: NVDA) controls roughly 80% of the AI chip market, when including the custom processors built by companies such as Alphabet (NASDAQ: GOOG)-owned Googl"
     publishedDateTime: 2023-12-11T18:23:00Z
@@ -212,7 +241,16 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 17
+  - title: "Yotta Data Services Collaborates with NVIDIA to Catalyze India's AI Transformation"
+    excerpt: "India's Largest Supercomputer of 16 Exaflops AI computing power with NVIDIA H100 Tensor Core GPUs to drive mass-scale AI innovation in India Yotta Data Services today announced a collaboration with NVIDIA to deliver cutting-edge GPU computing infrastructure and platforms for its Shakti Cloud platform."
+    publishedDateTime: 2023-12-08T01:30:00Z
+    webUrl: "https://www.newswit.com/en/ifkygiehma1blui2jw2drclqmefj5f27"
+    type: article
+    provider:
+      name: academy
+      domain: newswit.com
+    quality: 13
 
-secured: "H5RfrEPdAcN7xJPvN2yLDu0pmIvbXw2y3h6/REy+nnZzXI9n8gcZI9IMugB6pL5Xjug041RFOfbmU8QaiFYrG6L3tgBkHr4gOrE9VE+irTddyXurTGuoDumFLP8Yc7fylCB21QA4aSmu1D62aNr+kSkEjOuP3JkwjOXFEOAcjHDjhINQKtLZex3AWdkLgxpPKtLDGCzd41DkLOEZjh8JPw0ezXJ0ROmLi4ycRn4WKk69hJIk7QQZHfPJY9h6QVp2HnZIsrN/qEf6Xd2KxxDLEzBZ6u7t/AGG97/POqkQZeD7lTezKthdy912Ya5APMCfrNRapIDmoaVPOXgYBgpDunJCJeSurAOPsXxttaL8lpRxMc8FI4NWkINy0NxiZdhdYWbYOau9yU2HQgu+bJrkTEhQ+IYL//9AG5NPlauGEpOLWCtTTwA7WpLJ+wSL/0Gg2pyNc3eGHDoYho/P5yXE/NkErLQW89E5z2i1qACPb37Shdja5ckWhGDqd1nNw+zY+kkUCQhCObEYpIQ9mk++Og==;sE6kHoUEp8NvKHYZ8R1MZg=="
+secured: "Z0GxU81m9aW0IWVKe8X/1gPDSxRmbljxnl8N57mY9psgi7wXCjsSxy5kIdJYTl8mmDXEGl8wepdlVqITaAJMW9gn561Kwxaci4U3tuRAp3FIuZzxbm3z7eosMOewwEv1xwpNE3EKgXKInEYYzA62dv6nve8WzSrwW68AfwzoZNnwaSYY7jp2lHoh4TyAFLQhJm/QBRO5ZXWoEnonGZDD7p1vCkQQaPNV2sGeRcgYWma8+wyO75J70TJsoHR3l8mQmEbviROZVkrZsr62PvLjUhWhVGQdunxtb03jj/3vd4/o4ufIFWHLtf1e4c/WOiNJ+8swyMSdoftzn0TYA53eIFCEcGhJUkv67gCu0L3zpq8=;IAhq+bA269/VBYE0ZRcdJQ=="
 ---
 

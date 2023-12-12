@@ -2,6 +2,252 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2023-10-26-the-next-ai-winners-may-be-these-old-economy-companies-embracing-the-revolution.md",
+      "title": "The next AI winners may be these old economy companies embracing the revolution",
+      "excerpt": "Investor Nancy Tengler says a search for more traditional companies embracing digitization could help investors find less ovious beneficiaries of the AI boom.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/10/26/next-ai-winners-may-be-old-companies-embracing-digital-revolution.html",
+      "originalUrl": "https://www.cnbc.com/2023/10/26/next-ai-winners-may-be-old-companies-embracing-digital-revolution.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105780978-1551987674187rtx6q3h2.jpg?v=1698320788&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-26T11:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-26-artificial-intelligence-what-you-need-to-know-about-next-months-ai-safety-summit.md",
+      "title": "Artificial intelligence: What you need to know about next month's AI Safety Summit",
+      "excerpt": "The UK government will host the first major global summit on AI safety at the start of next month as the world attempts to deal with the challenges being created by artificial intelligence. The AI Safety Summit will take place on 1 and 2 November at ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.sky.com/story/artificial-intelligence-what-you-need-to-know-about-next-months-ai-safety-summit-12987104?dcmp=snt-sf-twitter",
+      "originalUrl": "https://news.sky.com/story/artificial-intelligence-what-you-need-to-know-about-next-months-ai-safety-summit-12987104?dcmp=snt-sf-twitter",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://e3.365dm.com/23/08/1600x900/skynews-ai-artificial-intelligence_6245426.jpg?20230809140349",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://news.sky.com/story/amp/artificial-intelligence-what-you-need-to-know-about-next-months-ai-safety-summit-12987104",
+      "cdnAmpWebUrl": "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/artificial-intelligence-what-you-need-to-know-about-next-months-ai-safety-summit-12987104",
+      "publishedDateTime": "2023-10-26T11:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sky",
+        "domain": "sky.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-26-mid-career-professionals-watch-out-youre-the-most-exposed-to-ai.md",
+      "title": "Mid-career professionals, watch out. You're the most exposed to AI",
+      "excerpt": "Also: Worried about AI gobbling up your job? Start doing these 3 things now The report labels exposure to generative AI as \"high\" if generative AI is \"good\" or \"excellent\" at performing 80% or more of skills in the field. The exposure is \"moderate\" when ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/mid-career-professionals-watch-out-youre-the-most-exposed-to-ai/",
+      "originalUrl": "https://www.zdnet.com/article/mid-career-professionals-watch-out-youre-the-most-exposed-to-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/1ba32db55b5ff75a7c7cd38c43982ffeb3bec2e4/2023/10/25/1e51d69e-1d11-4384-902b-9dd7f549eae7/gettyimages-1472983966.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-26T11:37:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-26-everyones-talking-about-generative-ai-now-its-time-to-do-something.md",
+      "title": "Everyone's Talking About Generative AI: Now, It's Time To Do Something",
+      "excerpt": "We’ve seen time and time again that first movers often have an enormous advantage when adopting new technologies, and it's likely that generative AI won't be an exception. Companies that take a “wait and see” approach to tools like Copilot, Ghostwriter, Cody and CodeAssist are soon going to find themselves overtaken by competitors and startups.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/26/everyones-talking-about-generative-ai-now-its-time-to-do-something/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/26/everyones-talking-about-generative-ai-now-its-time-to-do-something/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63ff5b3599f2634f6eaa9372/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/26/everyones-talking-about-generative-ai-now-its-time-to-do-something/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/26/everyones-talking-about-generative-ai-now-its-time-to-do-something/amp/",
+      "publishedDateTime": "2023-10-26T11:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-26-ggv-capital-us-backs-arteria-ais-digital-makeover-for-financial-document-creation.md",
+      "title": "GGV Capital U.S. backs Arteria AI’s digital makeover for financial document creation",
+      "excerpt": "The company’s platform structures data when a contract is drafted, and an intelligent workflow helps speed up the decision-making process.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/10/26/ggv-capital-arteria-ai-digital-financial-documents/",
+      "originalUrl": "https://techcrunch.com/2023/10/26/ggv-capital-arteria-ai-digital-financial-documents/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/10/3X2A0832CaleyTaylor61.jpg?resize=1200,740",
+          "width": 1200,
+          "height": 740,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/10/26/ggv-capital-arteria-ai-digital-financial-documents/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/26/ggv-capital-arteria-ai-digital-financial-documents/amp/",
+      "publishedDateTime": "2023-10-26T10:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-26-artificial-intelligence-company-from-silicon-valley-entres-bihar.md",
       "title": "Artificial Intelligence company from Silicon Valley entres Bihar",
       "excerpt": "A Silicon Valley-based Artificial Intelligence company has opened an office in Bihar, making it the first IT company from the US",
@@ -919,245 +1165,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-26-singapore-based-fintech-youtrip-picks-up-50m-led-by-lightspeed.md",
-      "title": "Singapore-based fintech YouTrip picks up $50M led by Lightspeed",
-      "excerpt": "YouTrip, a Singapore-based fintech that offers multi-currency wallet for consumers ... In terms of product development, YouTrip plans to increase its used of AI and other emerging technologies for personalized features like smart budgeting and customized ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/10/25/youtrip-lightspeed/",
-      "originalUrl": "https://techcrunch.com/2023/10/25/youtrip-lightspeed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/10/YouTrip-SG.png?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/10/25/youtrip-lightspeed/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/25/youtrip-lightspeed/amp/",
-      "publishedDateTime": "2023-10-25T21:22:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-26-university-of-chicago-researchers-seek-to-poison-ai-art-generators-with-nightshade.md",
-      "title": "University of Chicago researchers seek to “poison” AI art generators with Nightshade",
-      "excerpt": "On Friday, a team of researchers at the University of Chicago released a research paper outlining \"Nightshade,\" a data poisoning technique aimed at disrupting the training process for AI models, reports MIT Technology Review and VentureBeat.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/10/university-of-chicago-researchers-seek-to-poison-ai-art-generators-with-nightshade/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/10/university-of-chicago-researchers-seek-to-poison-ai-art-generators-with-nightshade/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/robot_poison_hero-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/10/university-of-chicago-researchers-seek-to-poison-ai-art-generators-with-nightshade/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/university-of-chicago-researchers-seek-to-poison-ai-art-generators-with-nightshade/amp/",
-      "publishedDateTime": "2023-10-25T21:22:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-26-ponyai-gets-100m-establishes-jv-with-saudi-arabias-neom.md",
-      "title": "Pony.ai gets $100M, establishes JV with Saudi Arabia’s Neom",
-      "excerpt": "Chinese autonomous vehicle startup Pony.ai has scored $100 million from Neom, Saudi Arabia’s futuristic city and development project. As part of the deal, the two plan to establish a joint venture to develop, manufacture and deploy autonomous vehicles ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/10/25/pony-ai-gets-100m-autonomous-vehicle-jv-saudi-arabias-neom/",
-      "originalUrl": "https://techcrunch.com/2023/10/25/pony-ai-gets-100m-autonomous-vehicle-jv-saudi-arabias-neom/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/10/pony-prl-backgroung-v2.jpeg?resize=1200,900",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/10/25/pony-ai-gets-100m-autonomous-vehicle-jv-saudi-arabias-neom/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/25/pony-ai-gets-100m-autonomous-vehicle-jv-saudi-arabias-neom/amp/",
-      "publishedDateTime": "2023-10-25T21:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-26-ai-dangers-must-be-faced-head-on-rishi-sunak-to-tell-tech-summit.md",
-      "title": "AI dangers must be faced ‘head on’, Rishi Sunak to tell tech summit",
-      "excerpt": "Government document says impossible to rule out technology poses existential threat",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2023/oct/25/ai-dangers-must-be-faced-head-on-rishi-sunak-to-tell-tech-summit",
-      "originalUrl": "https://www.theguardian.com/technology/2023/oct/25/ai-dangers-must-be-faced-head-on-rishi-sunak-to-tell-tech-summit",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/9d61dc30e09a150b3e4f8ddbbe028d6cb6994151/1788_952_6249_3752/master/6249.jpg?width=620&quality=85&auto=format&fit=max&s=03f79c6b75f40d98198113785dc33ffb",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2023/oct/25/ai-dangers-must-be-faced-head-on-rishi-sunak-to-tell-tech-summit",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/25/ai-dangers-must-be-faced-head-on-rishi-sunak-to-tell-tech-summit",
-      "publishedDateTime": "2023-10-25T20:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-26-stackpath-launches-gpu-accelerated-edge-compute-instances.md",
-      "title": "StackPath Launches GPU-Accelerated Edge Compute Instances",
-      "excerpt": "DALLAS, Oct. 25, 2023 /PRNewswire/ -- StackPath, the industry-leading edge computing platform, today announced the addition of NVIDIA GPU-Accelerated Instances to its Virtual Machine (VM) and Container product options.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2023/10/25/9905503.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2023/10/25/9905503.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T19:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

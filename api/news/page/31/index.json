@@ -2,6 +2,247 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2023-11-11-this-incredibly-cheap-artificial-intelligence-ai-stock-is-soaring-like-nvidia-and-it-is-a-screaming-buy.md",
+      "title": "This Incredibly Cheap Artificial Intelligence (AI) Stock Is Soaring Like Nvidia, and It Is a Screaming Buy",
+      "excerpt": "Investors looking to buy an AI stock that is in fine form and cheap at the same time may want to nab this company before it soars higher.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/11/10/this-incredibly-cheap-artificial-intelligence-ai-s/",
+      "originalUrl": "https://www.fool.com/investing/2023/11/10/this-incredibly-cheap-artificial-intelligence-ai-s/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/754053/artificial-intelligence-ai-on-circuit-board.jpg",
+          "width": 2359,
+          "height": 1270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-10T22:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-11-a-vigorous-debate-5-edtech-ceos-react-to-the-white-house-executive-order-on-ai.md",
+      "title": "‘A vigorous debate’: 5 edtech CEOs react to the White House executive order on AI",
+      "excerpt": "Many students—and even some teachers—have become acquainted with the powers of generative AI tools like ChatGPT and Google Bard, yet questions about privacy, security, and ethics remain top of mind. Biden’s first step in addressing some of these ...",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/education/articles/a-vigorous-debate-5-edtech-ceos-react-to-the-white-houses-executive-order-on-ai-did-it-go-too-far-or-not-far-enough/",
+      "originalUrl": "https://fortune.com/education/articles/a-vigorous-debate-5-edtech-ceos-react-to-the-white-houses-executive-order-on-ai-did-it-go-too-far-or-not-far-enough/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cdn.fortuneeducation.com/wp-content/uploads/2023/11/10165229/GettyImages-1384263287-e1699634685972.jpg",
+          "width": 1500,
+          "height": 1001,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-10T22:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-11-aws-explained-what-amazon-web-services-is-for-and-where-the-cloud-computing-industry-leader-is-headed.md",
+      "title": "AWS explained: What Amazon Web Services is for and where the cloud computing industry leader is headed",
+      "excerpt": "AWS is a division of Amazon that offers a wide range of cloud computing services. Amazon Web Services' pay-as-you-go model makes it a popular choice.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/aws",
+      "originalUrl": "https://www.businessinsider.com/aws",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6543cd7f3cc84b4dfafb01a9?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/aws?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/aws?amp",
+      "publishedDateTime": "2023-11-10T21:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-10-how-to-implement-enterprise-resource-planning-erp.md",
+      "title": "How to implement enterprise resource planning (ERP)",
+      "excerpt": "To benefit from ERP adoption, the system must be deployed properly and efficiently. Here are six steps to successfully implement ERP.\nThe post How to implement enterprise resource planning (ERP) appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/enterprise-resource-planning-implementation/",
+      "originalUrl": "https://www.ibm.com/blog/enterprise-resource-planning-implementation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-10T20:57:24Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-10-build-trust-and-safety-for-generative-ai-applications-with-amazon-comprehend-and-langchain.md",
+      "title": "Build trust and safety for generative AI applications with Amazon Comprehend and LangChain",
+      "excerpt": "We are witnessing a rapid increase in the adoption of large language models (LLM) that power generative AI applications across industries. LLMs are capable of a variety of tasks, such as generating creative content, answering inquiries via chatbots, generating code, and more. Organizations looking to",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-trust-and-safety-for-generative-ai-applications-with-amazon-comprehend-and-langchain/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-trust-and-safety-for-generative-ai-applications-with-amazon-comprehend-and-langchain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 251,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-10T20:39:56Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-11-11-ai-makes-you-worse-at-what-youre-good-at.md",
       "title": "AI makes you worse at what you’re good at",
       "excerpt": "I know, this happens every damn week: I start with the intention of writing this newsletter without going up to my eyelashes into the AI morass, and every week, y’all keep reading our AI news as if your livelihood depends on it. Because, well ...",
@@ -959,265 +1200,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-10-mom-of-14-year-old-victim-of-ai-generated-pornographic-image-demands-change.md",
-      "title": "Mom of 14-year old victim of AI-generated pornographic image demands change",
-      "excerpt": "A New Jersey high school mother said she's fighting to change laws surrounding AI images after a classmate generated a fake nude image of her daughter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/mom-14-year-old-victim-ai-generated-pornographic-image-demands-change",
-      "originalUrl": "https://www.foxnews.com/media/mom-14-year-old-victim-ai-generated-pornographic-image-demands-change",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/764de41f-8964-4fc7-a866-feeb64490c77/2974ea8a-af6f-4cc1-86e8-7b2e39b1e3af/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/mom-14-year-old-victim-ai-generated-pornographic-image-demands-change.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/mom-14-year-old-victim-ai-generated-pornographic-image-demands-change.amp",
-      "publishedDateTime": "2023-11-10T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-10-3-top-artificial-intelligence-ai-stocks-to-buy-right-now.md",
-      "title": "3 Top Artificial Intelligence (AI) Stocks to Buy Right Now",
-      "excerpt": "According to Grand View Research, the AI market hit $137 billion in 2022 ... a former director of market development and spokeswoman for Facebook and sister to Meta Platforms CEO Mark Zuckerberg ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/11/10/3-top-artificial-intelligence-ai-stocks-to-buy/",
-      "originalUrl": "https://www.fool.com/investing/2023/11/10/3-top-artificial-intelligence-ai-stocks-to-buy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/754071/happy-stock-investor-holding-smartphone.jpg",
-          "width": 2120,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-10T09:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-10-scarlett-johansson-tackles-ai-in-legal-showdown-against-app-that-used-her-likeness-voice-in-ad.md",
-      "title": "Scarlett Johansson tackles AI in legal showdown against app that used her likeness, voice in ad",
-      "excerpt": "Scarlett Johansson is seeking legal action against an app that used her likeness and simulated voice without her permission.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/scarlett-johansson-tackles-ai-legal-showdown-against-app-used-likeness-voice-ad",
-      "originalUrl": "https://www.foxnews.com/entertainment/scarlett-johansson-tackles-ai-legal-showdown-against-app-used-likeness-voice-ad",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/11/1200/675/ScarlettJohansson.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/scarlett-johansson-tackles-ai-legal-showdown-against-app-used-likeness-voice-ad.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/scarlett-johansson-tackles-ai-legal-showdown-against-app-used-likeness-voice-ad.amp",
-      "publishedDateTime": "2023-11-10T07:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-10-this-week-in-xr-open-ai-dev-day-bombshells-aleph-alpha-ai-raises-500-million-xais-grok.md",
-      "title": "This Week In XR: Open AI Dev Day Bombshells, Aleph Alpha AI Raises $500 Million, xAI’s Grok",
-      "excerpt": "To grok is to deeply understand and empathize. In a post announcing Grok last Saturday, November 4th, the company explains Grok will grok the world in real time with a Large Language Model that includes a real time feed of X as it appears on the X,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/charliefink/2023/11/09/this-week-in-xr-open-ai-dev-day-bombshells-aleph-alpha-ai-raises-500-million-xais-grok/",
-      "originalUrl": "https://www.forbes.com/sites/charliefink/2023/11/09/this-week-in-xr-open-ai-dev-day-bombshells-aleph-alpha-ai-raises-500-million-xais-grok/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/654d70041a5ab56f12e6aa5c/0x0.jpg?format=jpg&crop=4325,2434,x0,y358,safe&height=900&width=1600&fit=bounds",
-          "width": 1599,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2023/11/09/this-week-in-xr-open-ai-dev-day-bombshells-aleph-alpha-ai-raises-500-million-xais-grok/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/11/09/this-week-in-xr-open-ai-dev-day-bombshells-aleph-alpha-ai-raises-500-million-xais-grok/amp/",
-      "publishedDateTime": "2023-11-10T00:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-10-how-small-business-entrepreneurs-can-level-up-with-ai.md",
-      "title": "How Small Business Entrepreneurs Can Level Up With AI",
-      "excerpt": "As technology advances, those outside of the tech industry, including small business owners (SMB’s), are often left behind and competitively disadvantaged.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/deandebiase/2023/11/09/how-small-business-entrepreneurs-can-level-up-with-ai/",
-      "originalUrl": "https://www.forbes.com/sites/deandebiase/2023/11/09/how-small-business-entrepreneurs-can-level-up-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/654d7074b221d68fc89a6075/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 834,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/deandebiase/2023/11/09/how-small-business-entrepreneurs-can-level-up-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/deandebiase/2023/11/09/how-small-business-entrepreneurs-can-level-up-with-ai/amp/",
-      "publishedDateTime": "2023-11-10T00:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

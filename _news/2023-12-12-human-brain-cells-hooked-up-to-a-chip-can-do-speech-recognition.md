@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2023/12/11/1084926/human-brain-cell
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/11/1084926/human-brain-cells-chip-organoid-speech-recognition/amp/"
 type: article
 quality: 91
-heat: 112
+heat: 111
 published: true
 
 provider:
@@ -45,16 +45,16 @@ related:
   - title: "Artificial intelligence made from ‘clumps of human brain cells’ taught to recognize speech in world-first experiment"
     excerpt: "CLUMPS of human brain cells connected to an electronic chip have successfully completed simple tasks including speech recognition. That’s according to researchers at Indiana University"
     publishedDateTime: 2023-12-11T20:32:00Z
-    webUrl: "https://www.thesun.co.uk/tech/25020217/artificial-intelligence-human-brain-cells-biocomputer/"
-    ampWebUrl: "https://www.thesun.co.uk/tech/25020217/artificial-intelligence-human-brain-cells-biocomputer/amp/"
-    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/25020217/artificial-intelligence-human-brain-cells-biocomputer/amp/"
+    webUrl: "https://www.thesun.ie/tech/news-tech/11833746/artificial-intelligence-human-brain-cells-biocomputer/"
+    ampWebUrl: "https://www.thesun.ie/tech/news-tech/11833746/artificial-intelligence-human-brain-cells-biocomputer/amp/"
+    cdnAmpWebUrl: "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/tech/news-tech/11833746/artificial-intelligence-human-brain-cells-biocomputer/amp/"
     type: article
     provider:
-      name: The Sun
-      domain: thesun.co.uk
+      name: Irish Sun
+      domain: thesun.ie
     quality: 51
     images:
-      - url: "https://www.thesun.co.uk/wp-content/uploads/2023/12/AK_BRAIN_OP.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+      - url: "https://www.thesun.ie/wp-content/uploads/sites/3/2023/12/AK_BRAIN_OP.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
         width: 1920
         height: 1080
         isCached: true

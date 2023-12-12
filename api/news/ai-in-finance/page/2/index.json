@@ -2,6 +2,128 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-11-14-fintech-founders-pair-ai-and-client-prospecting-in-new-platform-for-financial-advisors.md",
+      "title": "Fintech founders pair AI and client prospecting in new platform for financial advisors",
+      "excerpt": "Called Powder and crafted by the minds behind Addepar's Navigator, the wealthtech startup wants to cut the old-school sales process from months to weeks by injecting AI into every step.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financial-planning.com/news/fintech-founders-pair-ai-and-client-prospecting-in-new-platform-for-financial-advisors",
+      "originalUrl": "https://www.financial-planning.com/news/fintech-founders-pair-ai-and-client-prospecting-in-new-platform-for-financial-advisors",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T02:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Planning",
+        "domain": "financial-planning.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-13-grafana-cloud-kubernetes-monitoring-with-machine-learning-predictions.md",
+      "title": "Grafana Cloud Kubernetes Monitoring with Machine Learning Predictions",
+      "excerpt": "Elspeth Minty discusses the background of FINOS, introduces some of its projects and initiatives, and the importance of FINOS to open source in the financial services ... and configure the machine learning model. Subsequently, the system autonomously ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2023/11/grafana-kubernetes-ml-monitoring/",
+      "originalUrl": "https://www.infoq.com/news/2023/11/grafana-kubernetes-ml-monitoring/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-12T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-11-10-cybria-unveils-new-layer-2-blockchain-powered-by-ai-for-enhanced-scalability-and-security.md",
+      "title": "Cybria Unveils New Layer 2 Blockchain Powered by AI for Enhanced Scalability and Security",
+      "excerpt": "Cybria, a leading platform in blockchain technology, has announced a major development in the world of blockchain with the launch of its latest",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/cybria-unveils-new-layer-2-blockchain-powered-by-ai-for-enhanced-scalability-and-security-1032806346",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/cybria-unveils-new-layer-2-blockchain-powered-by-ai-for-enhanced-scalability-and-security-1032806346",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh7-us.googleusercontent.com/4YmKQLqOa-FewlKW5PtC4plTkK9oS8O2klbDpMnLsqUaGpIxN6y9-Q__SYlksTU1xJrJd4coMsa31_d6hHnxNMRitUwHGlS_pc_ad-IW6YAHzINZFIxC9BDCsxe7j9Wq6UdAiKp5Tewab91d8gjPbgk",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-10T11:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-11-08-point-predictive-wins-lendtech-of-the-year-at-the-2023-us-fintech-awards.md",
       "title": "Point Predictive Wins LendTech of the Year at the 2023 US Fintech Awards",
       "excerpt": "Point Predictive's first- and third-party fraud solution API, which secured the coveted LendTech of the Year award, is exclusively designed for fintech and lenders. This groundbreaking API seamlessly combines the robust capabilities of Point Predictive's proprietary derived data repository,",
@@ -1148,127 +1270,6 @@
         "AI in Finance",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-10-20-artificial-insurance-how-machine-learning-is-transforming-underwriting.md",
-      "title": "Artificial Insurance? How Machine Learning Is Transforming Underwriting",
-      "excerpt": "“French AI startup firm Shift Technology incorporates this technology in their fraud prevention services, which have already processed over 77 million claims. The cognitive machine learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessnewsdaily.com/10203-artificial-intelligence-insurance-industry.html",
-      "originalUrl": "https://www.businessnewsdaily.com/10203-artificial-intelligence-insurance-industry.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-20T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business News Daily",
-        "domain": "businessnewsdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-10-19-galileo-payment-risk-platform-now-available-to-the-entire-financial-services-ecosystem.md",
-      "title": "Galileo Payment Risk Platform Now Available to the Entire Financial Services Ecosystem",
-      "excerpt": "Galileo Financial Technologies, LLC ... based on client risk appetite Utilize advanced data elements embedded into enhanced rules and machine learning-based models, taking into account entities such as merchants, channels, geo-locations, etc.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-galileo-payment-risk-platform-now-available-the-entire-/2023/10/19/9901855.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-galileo-payment-risk-platform-now-available-the-entire-/2023/10/19/9901855.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-19T13:22:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-19-levrai-powers-over-1000-small-businesses-with-its-finance-ecosystem.md",
-      "title": "Levr.ai powers over 1,000 small businesses with its finance ecosystem",
-      "excerpt": "Levr.ai, a trailblazing financial technology (fintech) company, is proud to continue its mission-driven commitment to revolutionize small",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/levr-ai-powers-over-1-000-small-businesses-with-its-finance-ecosystem-1032718795",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/levr-ai-powers-over-1-000-small-businesses-with-its-finance-ecosystem-1032718795",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/mmstudio-images/gallery/hRDRdnMaMyatndx4VvIkA5ajDjK2/1697642104195-0.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-19T07:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

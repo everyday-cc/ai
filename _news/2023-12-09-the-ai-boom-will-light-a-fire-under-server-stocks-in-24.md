@@ -1,23 +1,44 @@
 ---
 category: news
 title: "The AI Boom Will Light A Fire Under Server Stocks In ’24"
-excerpt: "As with every new technological paradigm shift, the AI Boom will evolve in distinct “profit waves.” Though each tech boom is different, they all follow a similar pattern. And it usually goes something like this: First,"
-publishedDateTime: 2023-12-09T13:30:00Z
-originalUrl: "https://www.nasdaq.com/articles/the-ai-boom-will-light-a-fire-under-server-stocks-in-24"
-webUrl: "https://www.nasdaq.com/articles/the-ai-boom-will-light-a-fire-under-server-stocks-in-24"
+excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips As with every new technological paradigm shift, the AI Boom will evolve in"
+publishedDateTime: 2023-12-09T14:30:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/the-ai-boom-will-light-a-fire-under-server-stocks-in-24-1032887251"
+webUrl: "https://markets.businessinsider.com/news/stocks/the-ai-boom-will-light-a-fire-under-server-stocks-in-24-1032887251"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 69
+heat: 79
+published: true
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "KQnGmQZh+5ylRBRCSH6KrmxwiU9xEWcFPMKVaq1Ej/9N8yyppb+9L0aLNzVHsAMBhit2Q1NJvilW7uTUi4gqWc7MDsUUkRwbxYlNA2n49D5bG2fqdkDrwTlXUSxT93Z2ym/ZfR18dozS3Vy/oqcws9dsx93O3qv2tXK35+6HdBLXrCfNYW3JgPuyDkNv28tLV3kEmZp1OdporV4TgysDzVuOzG1lYRRAK6vgZeBc0fmSd2D3SOnXJ/kf/QhAjb9iynoU8yfAi2b7Uuu7ktEUkoVBRYYnw2oohF+aWmnDjHPklJbI/UtZGNcTT0kFcOT+VVohOB75Q3YLoW3XM5/FL6IWddsJSdEauaTq8iM6wfAARPPDf9JyI/DIAzB2v2sEzD9XRIgXSY8n+La+MNE0d3Co7Rdo9sOE+WXwDxRVk4lgeLT/29mWSTtbTJXc9PXlfgk0UlyVun0d/LC6Gbf/wC0iFx5ULovPkviK0ThwnUUZMeGB2JGobpzSBBoSrNShHJEDdC0tI6pwUTDR17DtJg==;eHtT/0h9yurk5Xjah0mpxw=="
+images:
+  - url: "https://lh7-us.googleusercontent.com/pzTWE6xziCazjeVj7kQkLMWo4ir7CfCKzGJXQaww1dGf1vRu9hkN9Y7JIs-q1TbZu-PcCDt2gnE8Lyx4hEBxNcwfa0W5MftelI-0vSy9R62iGwfqchnnTNLQnHhacW6MU4JhtFETZWOkTggjoBGsaw"
+    width: 1600
+    height: 821
+    isCached: true
+
+related:
+  - title: "Artificial Intelligence in Healthcare: 3 Stocks Transforming the Industry"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence is being applied across the healthcare sector to"
+    publishedDateTime: 2023-12-11T13:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-3-stocks-transforming-the-industry-1032889408"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
+
+secured: "rGbifC3j1V9HC1MIdHQNhpM7jD9VqQnik4+t23zyENBjdfyPMlRG+BkC+ELHLPBnhN0hOQMILdk/pD8IgMVsXLTud2Gm6hsR8K93Yo0tfEWlKKN7S4MDoWlLMvrlnUnCYd8K/X4qiDBUFATNdcQJaTEDteK0YcLSwDq99ggNeY0F6zndUm9PImEc39YInDkhOo6cfXj8IK8fYmMgoQUO/+cuBZ6/ooBT9fZzOjAl8HdrHEJKlT6WQmL6ntCviaeWoS9cZBwUEsQHredlSUaOsk3JCieullW4NnJffOrZUETC6rL2n7J8AVdNvzkyn7WhjZtdOTJy+JND4AopjUYfQJ+owbLhAjqTcx80AcMuJUQ=;DnDVdDqRj+p4Cwi1/dhfaQ=="
 ---
 

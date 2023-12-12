@@ -6,8 +6,8 @@ publishedDateTime: 2023-12-11T20:58:00Z
 originalUrl: "https://www.techrepublic.com/article/midjourney-vs-dall-e/"
 webUrl: "https://www.techrepublic.com/article/midjourney-vs-dall-e/"
 type: article
-quality: 69
-heat: 79
+quality: 71
+heat: 81
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Meta AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://www.techrepublic.com/wp-content/uploads/2023/12/AdobeStock_638686268.jpeg"
@@ -39,6 +40,6 @@ related:
       domain: tomsguide.com
     quality: 12
 
-secured: "5dgAkNjr6WT+aX7FR4UTJJ+XgPp0xTuoAuJ4HjqO2JuRFJwxai1tsaIeTOJNQW3n6vKKQy0lIws1ZitPXSZ01drKu5vDuu9ly0ecVaziKIjVdGI2jRz9RzP79popOCZBcaj99VE+ZRm3Qd/4a4kp2lInHo6U35nWS03pHZbYkZjicwwPYQra72hOeLBAR5RRlzlEHp9O9U+YL0oHsR/vzKL0SL6epuf2wokZKuvakS8iAzvzsQP6Wu4zB+cm45sc8OVFlP92CpkK2WzZb0OeIrEgeY0aofmJ3XJq1ZUF0GPXzOXcXT596X/6fsenK2KX67pZFaNUYmYAaWONBEhAIWWrofY2R7oiO0tmjbdSFBY=;WPuav+7PcKBKT+0IrmFe7A=="
+secured: "yisnir/pgq1ynsV4fVJjzfg3nubp7stuF5FYenMSAPFf+TJpyrij7eq6AJBKzbwU+jBpTCK7G36wE7/0nH6UxT+ju3BTDAXQcw0046nKscxZKwRFx63vUhZU52ldryquTKdV67d7Na0m+w/j8wf2d+vmjLY18fuOLynME78exXbkVwK70R5ILlrSvYw3VP5IyLch5dXoBDsZ+7/GOG3PS8YeRb3RN/ExfMqj8kaAqsa7iZ7A7CX7ntGnN5jNmFYwg7CYCqmB85Rz9KY0NfGpkRHmwrBKh6oDBm4Npk2S76z0G3ub8KLfDKpBetCXni5BGT13ooBie617fo1vS9drukWGobF1Mato35sTiUs+mojsZRistxIWg3qX9ugObK6uKyYAlV0l7/zhKIZwLzFiR0Xg6lwNmar7C7KfgEkcTTjRersiceJAvu0uw73EVjDq4wuYiyFPS01fqjFmyTkeggfsff0K+I33bPDSHLAi22AjMdBi8ryVith4L6V6Pwaj9k8zFHJ/DZpY4AfIPWd46Q==;hRSMki1kXyG7uG2kF1n6Bw=="
 ---
 

@@ -815,24 +815,33 @@
     {
       "path": "_news/2023-11-30-aws-announces-five-new-amazon-sagemaker-capabilities-for-scaling-with-models.md",
       "title": "AWS Announces Five New Amazon SageMaker Capabilities for Scaling with Models",
-      "excerpt": "Amazon SageMaker HyperPod reduces time to train foundation models by up to 40% by providing purpose-built infrastructure for distributed training at scale Amazon SageMaker Inference reduces foundation model deployment costs by 50% on average and latency by ...",
+      "excerpt": "Amazon SageMaker Canvas helps customers build ML models and generate predictions without writing a single line of code. Today's announcement expands on SageMaker Canvas' existing, ready-to-use capabilities that help customers use models to power a range of use cases, in a no-code environment.",
       "sourceUrl": null,
-      "webUrl": "https://stockhouse.com/news/press-releases/2023/11/29/aws-announces-five-new-amazon-sagemaker-capabilities-for-scaling-with-models",
-      "originalUrl": "https://stockhouse.com/news/press-releases/2023/11/29/aws-announces-five-new-amazon-sagemaker-capabilities-for-scaling-with-models",
+      "webUrl": "https://www.tmcnet.com/usubmit/-aws-announces-five-new-amazon-sagemaker-capabilities-scaling-/2023/11/29/9925383.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-aws-announces-five-new-amazon-sagemaker-capabilities-scaling-/2023/11/29/9925383.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://images.tmcnet.com/tmc/world.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-29T17:31:00Z",
+      "publishedDateTime": "2023-11-29T17:35:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1130,24 +1139,15 @@
     {
       "path": "_news/2023-11-29-aws-announces-five-new-amazon-sagemaker-capabilities-for-scaling-with-models.md",
       "title": "AWS Announces Five New Amazon SageMaker Capabilities for Scaling with Models",
-      "excerpt": "At AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced five new capabilities within Amazon SageMaker to help accelerate building ...",
+      "excerpt": "Amazon SageMaker HyperPod reduces time to train foundation models by up to 40% by providing purpose-built infrastructure for distributed training at scale Amazon SageMaker Inference reduces foundation model deployment costs by 50% on average and latency by ...",
       "sourceUrl": null,
-      "webUrl": "https://www.enidnews.com/region/aws-announces-five-new-amazon-sagemaker-capabilities-for-scaling-with-models/article_c3c24995-5c67-5028-85a8-ef320c7846e6.html",
-      "originalUrl": "https://www.enidnews.com/region/aws-announces-five-new-amazon-sagemaker-capabilities-for-scaling-with-models/article_c3c24995-5c67-5028-85a8-ef320c7846e6.html",
+      "webUrl": "https://www.01net.it/aws-announces-five-new-amazon-sagemaker-capabilities-for-scaling-with-models/",
+      "originalUrl": "https://www.01net.it/aws-announces-five-new-amazon-sagemaker-capabilities-for-scaling-with-models/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/enidnews.com/content/tncms/custom/image/274f102e-c5aa-11e8-8594-87a63e6d4522.jpg?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "",
       "type": "article",
       "ampWebUrl": null,
@@ -1155,8 +1155,8 @@
       "publishedDateTime": "2023-11-29T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Enid News & Eagle",
-        "domain": "enidnews.com",
+        "name": "01Net",
+        "domain": "01net.it",
         "images": null,
         "publishers": null,
         "authors": null
