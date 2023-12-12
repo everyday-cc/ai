@@ -40,19 +40,19 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Microsoft is distancing itself from OpenAI chaos by assuring investors it's spreading its AI bets"
-    excerpt: "Recent chaos at OpenAI created unease among developers and other businesses that have come to rely on the startup's AI platform."
-    publishedDateTime: 2023-12-07T22:44:00Z
-    webUrl: "https://www.businessinsider.com/microsoft-distancing-itself-from-openai-spreading-ai-bets-2023-12"
+  - title: "ChatGPT Is Showing Signs of Laziness. OpenAI Says A.I. Might Need a Fix"
+    excerpt: "One of the most promising aspects of A.I. is its ability to handle dull, repetitive tasks, but some ChatGPT users say the chatbot isn't finishing the job like it used to, prompting questions about whether the technology is mirroring human laziness."
+    publishedDateTime: 2023-12-12T22:32:00Z
+    webUrl: "https://www.inc.com/ben-sherry/chatgpt-is-showing-signs-of-laziness-openai-says-ai-might-need-a-fix.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 71
+      name: Inc
+      domain: inc.com
+    quality: 54
     images:
-      - url: "https://i.insider.com/65723e0e58e7c0c29a2ad896?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1204333176_535732_az3rad.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Google's Bard vs OpenAI's ChatGPT: Which of the rival AI chatbots is better? – Euronews"
     excerpt: "Google’s answer to ChatGPT is here - but is it as good as OpenAI’s global phenomenon? Euronews Next put them through their paces. Google has made its"

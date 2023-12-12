@@ -2,6 +2,102 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2023-10-31-zerorisc-raises-5m-to-deliver-commercial-opentitan-based-cloud-security-for-chips.md",
+      "title": "ZeroRISC raises $5M to deliver commercial OpenTitan-based cloud security for chips",
+      "excerpt": "ZeroRISC has raised $5 million in seed funding to deliver its first commercial OpenTitan-based cloud security service for silicon chips.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/zerorisc-raises-5m-to-deliver-commercial-opentitan-based-cloud-security-for-chips/",
+      "originalUrl": "https://venturebeat.com/ai/zerorisc-raises-5m-to-deliver-commercial-opentitan-based-cloud-security-for-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-30T18:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-10-30-use-aws-privatelink-to-set-up-private-access-to-amazon-bedrock.md",
+      "title": "Use AWS PrivateLink to set up private access to Amazon Bedrock",
+      "excerpt": "Amazon Bedrock is a fully managed service provided by AWS that offers developers access to foundation models (FMs) and the tools to customize them for specific applications. It allows developers to build and scale generative AI applications using FMs through an API, without managing infrastructure. You",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-aws-privatelink-to-set-up-private-access-to-amazon-bedrock/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-aws-privatelink-to-set-up-private-access-to-amazon-bedrock/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/30/set-up-private-access-to-bedrock-1260x630.jpg",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-30T17:50:59Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-30-deploy-and-fine-tune-foundation-models-in-amazon-sagemaker-jumpstart-with-two-lines-of-code.md",
       "title": "Deploy and fine-tune foundation models in Amazon SageMaker JumpStart with two lines of code",
       "excerpt": "We are excited to announce a simplified version of the Amazon SageMaker JumpStart SDK that makes it straightforward to build, train, and deploy foundation models. The code for prediction is also simplified. In this post, we demonstrate how you can use the simplified SageMaker Jumpstart SDK to get started",
@@ -1086,92 +1182,6 @@
         "Facebook AI",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-30-lenskart-acquires-ai-based-computer-vision-startup-tango-eye.md",
-      "title": "Lenskart acquires AI-based computer vision startup Tango Eye",
-      "excerpt": "With this acquisition, Lenskart plans to use visual artificial intelligence technology in improving store experience as well as its product experience. The company has also been an early investor in Tango, and the acquisition strengthens Lenskart's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zeebiz.com/startups/news-lenskart-acquires-ai-based-computer-vision-startup-tango-eye-261937",
-      "originalUrl": "https://www.zeebiz.com/startups/news-lenskart-acquires-ai-based-computer-vision-startup-tango-eye-261937",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2023/11/11/268709-railways-reuters.jpg?itok=Tdzu9Ua_",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zeebiz.com/startups/news-lenskart-acquires-ai-based-computer-vision-startup-tango-eye-261937/amp",
-      "cdnAmpWebUrl": "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/startups/news-lenskart-acquires-ai-based-computer-vision-startup-tango-eye-261937/amp",
-      "publishedDateTime": "2023-10-30T09:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zee Business",
-        "domain": "zeebiz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-30-lenskart-acquires-ai-led-computer-vision-startup-tango-eye.md",
-      "title": "Lenskart acquires AI-led computer vision startup Tango Eye",
-      "excerpt": "With this acquisition, Lenskart, which has been an early investor in the startup, plans to use visual AI technology in improving store experience as well as its product experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/business/lenskart-acquires-ai-led-computer-vision-startup-tango-eye-11625031.html",
-      "originalUrl": "https://www.moneycontrol.com/news/business/lenskart-acquires-ai-led-computer-vision-startup-tango-eye-11625031.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2017/06/LENSKART.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/business/lenskart-acquires-ai-led-computer-vision-startup-tango-eye-11625031.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/lenskart-acquires-ai-led-computer-vision-startup-tango-eye-11625031.html/amp",
-      "publishedDateTime": "2023-10-30T09:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/thoughts-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/12/thoughts-on-consent-and-privacy-in-the-age-of-ai/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -76,6 +76,15 @@ related:
     provider:
       name: GlobalSpec
       domain: globalspec.com
+    quality: 19
+  - title: "New portable, non-invasive AI system turns thoughts into text"
+    excerpt: "Australian researchers have developed a portable, non-invasive system that can decode silent thoughts and turn them into text using artificial intelligence (AI). The technology could aid communication for people who are unable to speak due to illness or injury,"
+    publishedDateTime: 2023-12-12T22:29:00Z
+    webUrl: "https://www.canindia.com/new-portable-non-invasive-ai-system-turns-thoughts-into-text/"
+    type: article
+    provider:
+      name: Canindia.com
+      domain: canindia.com
     quality: 19
   - title: "Enhanced Regulation for Artificial Intelligence Unveiled in Landmark EU Agreement"
     excerpt: "In a significant development, negotiators from the European Parliament and EU member states have reached a consensus on more stringent regulations governing the use of artificial intelligence (AI) within the European Union."

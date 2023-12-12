@@ -2,6 +2,83 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2023-11-13-worlds-first-ai-robot-ceo-becomes-an-honorary-professor.md",
+      "title": "World's first AI robot CEO becomes an honorary professor",
+      "excerpt": "The world's first AI robot CEO has become an honorary professor. Mika, who heads up Polish rum firm Dictador, was presented the award during the recent 2023/24 Collegium Humanum University",
+      "sourceUrl": null,
+      "webUrl": "https://www.victoriaadvocate.com/worlds-first-ai-robot-ceo-becomes-an-honorary-professor/video_782cb487-0b5f-59aa-9ff6-697608d9a854.html",
+      "originalUrl": "https://www.victoriaadvocate.com/worlds-first-ai-robot-ceo-becomes-an-honorary-professor/video_782cb487-0b5f-59aa-9ff6-697608d9a854.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-13T07:37:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Victoria Advocate",
+        "domain": "victoriaadvocate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-13-leaked-details-reveal-apples-second-gen-vision-pro-headset-codenamed-project-alaska.md",
+      "title": "Leaked details reveal Apple’s second-gen Vision Pro headset, codenamed Project Alaska",
+      "excerpt": "Apple is reportedly working on a successor to its Vision Pro AR/VR headset, codenamed Project Alaska. Learn more about it here.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2023/11/13/leaked-details-reveal-apples-second-gen-vision-pro-headset-codenamed-project-alaska/",
+      "originalUrl": "https://www.gizmochina.com/2023/11/13/leaked-details-reveal-apples-second-gen-vision-pro-headset-codenamed-project-alaska/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-13T07:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-13-top-10-best-machine-learning-software-in-2023.md",
       "title": "Top 10 Best Machine Learning Software in 2023",
       "excerpt": "It offers a wide range of tools and services to help users build and deploy machine learning models quickly and easily. Azure Machine Learning is a cloud-based machine learning software that ...",
@@ -875,74 +952,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-12-ibm-turns-the-corner-with-watson-why-20-is-a-breakthrough-opportunity.md",
-      "title": "IBM turns the corner with Watson: Why 2.0 is a breakthrough opportunity",
-      "excerpt": "With Watson 1.0, IBM Corp. deviated from the Silicon Valley mantra — fail fast — as it took nearly a decade for the company to pivot off of its original vision. In our view, a different dynamic is in play today with Watson 2.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/11/11/ibm-turns-corner-watson-2-0-breakthrough-opportunity/",
-      "originalUrl": "https://siliconangle.com/2023/11/11/ibm-turns-corner-watson-2-0-breakthrough-opportunity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-11T16:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-11-brickner-ai-seeing-can-be-deceiving.md",
-      "title": "Brickner: AI: Seeing can be deceiving",
-      "excerpt": "In response to Biden's executive order regulating AI, Brickner writes, \"Without limits, we have a wild west landscape of cheating, discrimination, and inaccuracy endangering individuals, and institutions of education,",
-      "sourceUrl": null,
-      "webUrl": "https://www.inforum.com/opinion/columns/brickner-ai-seeing-can-be-deceiving",
-      "originalUrl": "https://www.inforum.com/opinion/columns/brickner-ai-seeing-can-be-deceiving",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-11T15:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inforum",
-        "domain": "inforum.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

@@ -7,8 +7,8 @@ originalUrl: "https://cloudsecurityalliance.org/press-releases/2023/12/12/artifi
 webUrl: "https://cloudsecurityalliance.org/press-releases/2023/12/12/artificial-intelligence-leaders-partner-with-cloud-security-alliance-to-launch-the-ai-safety-initiative/"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: Cloud Security Alliance
@@ -34,15 +34,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 33
-  - title: "Artificial Intelligence Market in United States Projecting Strong Growth to 2028 with Emerging Trends in AI Integration"
-    excerpt: "The forward-looking sensation around Artificial Intelligence continues with the anticipation of growth at a CAGR of ~26.4% from 2022 to 2027. This progression is fueled by government initiatives and the strategic deployment of AI within the United States."
-    publishedDateTime: 2023-12-12T11:46:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/12/12/9931999.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 8
 
 secured: "v6Ba1c4asI33s6wJc2Ac13S5Ut2AeAYazsY6vPo7SnNtsC7kTJAZnKNxs06vR5ro8PcLeGBgy6E2BU79qWX9E+gdWLbkPbNXZ7DzkPL1Ha4kKY8veSdvxT6RLo+A72034mZH0BJjk/NqkRkitZI24rPmFjZGt9YSlc4n6K077kdhyqkvrf+2zQAvHwMNS28JAG7YtqMqxyPot0A9Wup2cP2o5c/cnBE/ZfbLJ4/d++SguNUayH7TDA06oaYakwUoVSkHqP9FUP5AgEqPMtUqb9nIzFO+7S/808l9VZS3dMIN12Wgd8zXjnJxDVXl7JWecaCrSRZZH3rVMKhOBoIuVdCJSALfPYzve+j+6ywAc3c=;pntioz1t2gHSN0M7Q1f9rQ=="
 ---

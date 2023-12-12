@@ -2,6 +2,83 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-11-30-kurdish-language-needs-more-standardization-for-ai-personal-assistants-expert.md",
+      "title": "Kurdish language needs more standardization for AI personal assistants: expert",
+      "excerpt": "“Suppose we want to have good translation systems, AI personal assistants like Amazon Alexa, Google Voice, or Apple Siri that can understand and communicate in Kurdish; then, we must work more on the Kurdish language in the field of NLP. “",
+      "sourceUrl": null,
+      "webUrl": "https://www.kurdistan24.net/en/story/33306-Kurdish-language-needs-more-standardization-for-AI-personal-assistants:-expert",
+      "originalUrl": "https://www.kurdistan24.net/en/story/33306-Kurdish-language-needs-more-standardization-for-AI-personal-assistants:-expert",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-30T13:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kurdistan 24",
+        "domain": "kurdistan24.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-30-gesture-controlled-robot-arm-is-a-nifty-educational-build.md",
+      "title": "Gesture-Controlled Robot Arm Is A Nifty Educational Build",
+      "excerpt": "Traditionally, robot arms have been controlled either by joysticks, buttons, or very carefully programmed routines. However, for [Narongporn Laosrisin’s] homebrew build, they decided to go with ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2023/11/29/gesture-controlled-robot-arm-is-a-nifty-educational-build/",
+      "originalUrl": "https://hackaday.com/2023/11/29/gesture-controlled-robot-arm-is-a-nifty-educational-build/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2023/11/F1U4GZ0LP8CJKO4-e1701171720301.jpg",
+          "width": 2583,
+          "height": 1451,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-30T11:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-30-online-language-learning-platform-market-to-reach-448-billion-by-2032-at-172-cagr-allied-market-research.md",
       "title": "Online Language Learning Platform Market to Reach $44.8 Billion by 2032 at 17.2% CAGR: Allied Market Research",
       "excerpt": "In addition, advances in natural language processing improve the quality of language learning applications. However, the live learning segment is projected to manifest the highest CAGR of 18.8% from 2023 to 2032, as live learning platforms integrate ...",
@@ -1044,101 +1121,6 @@
         "name": "MIT Technology Review",
         "domain": "technologyreview.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-30-how-does-wnij-use-artificial-intelligence-in-the-newsroom.md",
-      "title": "How does WNIJ use artificial intelligence in the newsroom?",
-      "excerpt": "No, robots do not write our stories at WNIJ. We don't use fake bylines either. But we do use some applications in our newsroom that help our reporters work more efficiently while making sure our stories are discoverable on the web.",
-      "sourceUrl": null,
-      "webUrl": "https://www.northernpublicradio.org/wnij-news/2023-11-29/how-does-wnij-use-artificial-intelligence-in-the-newsroom",
-      "originalUrl": "https://www.northernpublicradio.org/wnij-news/2023-11-29/how-does-wnij-use-artificial-intelligence-in-the-newsroom",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://npr.brightspotcdn.com/dims4/default/b52be6e/2147483647/strip/true/crop/1280x672+0+91/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd0%2F24%2F56c628bc467fab254d29f87a9a7e%2Fnote-3047435-1280.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-29T19:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Northern Public Radio",
-        "domain": "northernpublicradio.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-30-googles-deepmind-finds-22m-crystal-structures-in-materials-science-win.md",
-      "title": "Google’s DeepMind finds 2.2M crystal structures in materials science win",
-      "excerpt": "Google DeepMind researchers have discovered 2.2 million crystal structures that open potential progress in fields from renewable energy to advanced computation, and show the power of artificial intelligence to discover novel materials.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/ai/2023/11/googles-deepmind-finds-2-2m-crystal-structures-in-materials-science-win/",
-      "originalUrl": "https://arstechnica.com/ai/2023/11/googles-deepmind-finds-2-2m-crystal-structures-in-materials-science-win/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/deepmindlist-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-29T18:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

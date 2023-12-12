@@ -76,6 +76,15 @@ related:
       name: GlobalSpec
       domain: globalspec.com
     quality: 19
+  - title: "New portable, non-invasive AI system turns thoughts into text"
+    excerpt: "Australian researchers have developed a portable, non-invasive system that can decode silent thoughts and turn them into text using artificial intelligence (AI). The technology could aid communication for people who are unable to speak due to illness or injury,"
+    publishedDateTime: 2023-12-12T22:29:00Z
+    webUrl: "https://www.canindia.com/new-portable-non-invasive-ai-system-turns-thoughts-into-text/"
+    type: article
+    provider:
+      name: Canindia.com
+      domain: canindia.com
+    quality: 19
   - title: "Enhanced Regulation for Artificial Intelligence Unveiled in Landmark EU Agreement"
     excerpt: "In a significant development, negotiators from the European Parliament and EU member states have reached a consensus on more stringent regulations governing the use of artificial intelligence (AI) within the European Union."
     publishedDateTime: 2023-12-12T13:08:00Z
@@ -86,6 +95,6 @@ related:
       domain: themunicheye.com
     quality: 14
 
-secured: "bVJ651OTK5yEeMJveqp/YilBr8c2zud8AfBI6Jg1p/2Z8rcwSHaweDI9w523uJvH9vDyB82uh2ILYu9gFGCdeR+em4+ggCJy5YOZs+r0/B23s4im5yu8MDC+qKB+asKPi/wT71bmAozJ6twPoR7+RP3GzU8p/OF29Vn3Bq5/w4kGgh5nJTfDMYg5CYLYNmH3m3BBW3CfoT51Yy3ctZBO4WUAOxgoyP9+OHGCuvQVgBjUPXSHTPmYvfvq8f6xQYVZTLGHhE1wPldFyl6vN8+QTeoHBJylfAt0nyVVUrTcBXfSRKVb95bN5HX4TORSBTQmGsgmrNMqvFqyrcT8eaDSTDfZjyrJSgfEZS5ewOBsvTg=;/E6XvsIPAdeORKZf+U9fWw=="
+secured: "xLE6EMT/e3+RkrSQY4RXXxY97zH/s2rKcZDR3lfYX0sbOqu5RT9Z1oIujfyZQh3FJc6L40828nAmkkUPlU3x+U3wGnwPDCPDEZPWcoF9BIC/UWSEKWSDIzMmh6Tbu0Vf7kDPEhLrhUjSKyfHOZnHkArb5nn3bua/L/pXF3GTMHddqjFvf/H1LReCYJSzrAmWlZXMjiiea6BnQgmZhGY2gKrmWZvT3K3zFxfFrywWu1taAiNTETJUBNNX6nH6XudakDoXkSIwA0KBa/wFc9O3Au0a8zlABTAeVciHaevmHxUarzVkLiumR8iKBRuSLJcVoXWBpffA3IwBDaFcd3sFQ7oVvES1ii64eB2g6ZMmpph7Gc25OtSqX/GXrkCwlzUcYvKyyDE9oRz4wdQpsytxQ5jhHMCimerLMmY8P+H1J9spmZiIPzmxfGY2IJSWd1Br/gwxjVwACAbNgm63awh/XymolKFBXYGg8Zj2q8RgQVc1oNajoOv7siTXABcMyWcTaWMvRe1g9lMPVfwzN60nDQ==;9JmcOyYwFH+onQo41nIfoQ=="
 ---
 

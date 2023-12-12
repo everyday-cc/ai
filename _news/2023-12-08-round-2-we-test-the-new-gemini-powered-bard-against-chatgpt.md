@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/ai/2023/12/chatgpt-vs-google-bard-round-2-
 webUrl: "https://arstechnica.com/ai/2023/12/chatgpt-vs-google-bard-round-2-how-does-the-new-gemini-model-fare/"
 type: article
 quality: 86
-heat: 146
+heat: 136
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://www.androidheadlines.com/wp-content/uploads/2023/12/Google-Gemini-AH-jpg.webp"
         width: 2048
         height: 1538
-        isCached: true
-  - title: "These Are the Biggest Differences Between Google Bard and ChatGPT"
-    excerpt: "Following OpenAI's success with ChatGPT, Google released Bard, its own AI chatbot. It's come a long way since then: Here's everything you need to know about it."
-    publishedDateTime: 2023-12-07T21:30:00Z
-    webUrl: "https://lifehacker.com/tech/what-is-google-bard-ai-chatbot"
-    type: article
-    provider:
-      name: Lifehacker
-      domain: lifehacker.com
-    quality: 41
-    images:
-      - url: "https://lifehacker.com/imagery/articles/01HH2K614JGSDMCZ043XDQPM9V/hero-image.fill.size_1200x675.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Google Bard’s Gemini Upgrade: We Tested it for Travel"
     excerpt: "We tested the updated version of Google Bard on how well it performs for planning and booking travel, and more."

@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202312/school-district-adds-facial
 webUrl: "https://www.biometricupdate.com/202312/school-district-adds-facial-recognition-of-sex-offenders-to-roc-ai-surveillance-system"
 type: article
 quality: 46
-heat: 46
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 2048
     height: 1333
     isCached: true
+
+related:
+  - title: "Police starts AI based facial recognition system in Kishtwar"
+    excerpt: "In a significant stride towards bolstering security measures, SSP Kishtwar, Khalil Poswal along with Additional SP Kishtwar, Rajinder Singh here today made functional an advanced Artificial Intelligence (AI) based facial recognition system at Morden Naka in Drabshalla."
+    publishedDateTime: 2023-12-12T21:52:00Z
+    webUrl: "https://www.dailyexcelsior.com/police-starts-ai-based-facial-recognition-system-in-kishtwar/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 54
+    images:
+      - url: "https://cdndailyexcelsior.b-cdn.net/wp-content/uploads/2023/12/kishtwar.jpg"
+        width: 800
+        height: 307
+        isCached: true
 
 secured: "3N9VtwTNUUhEGi6+cGMkA8PC6cCDx8ywx8Qkpjv5EpaV9TikjvTyRIFYKrh5EmuBdB0pbEfUYPh/2sEuxm7SsNRkZRLhN3F9h7UegzwvG9Hl9zqYEj0auSVwCyqtmvtJ+PIl49K6CpUWzMOOfgmKKBE0tsvYDTtURIjsuT1tPAQe9CnUhA3/1Oyl77o8JwgCFEGvacQwee99P98JZQ9PAO28Yui8TkGWJygFnD9CWEhUoSMYW1/+XNd6Nq/asWLAhIvSPMFNSzvGnGy/dMiWgE+PK/x6RfFjVHQq37Em5P42LGc/aIRnY3qw0fqRx/cXZ319nCqhqBZd5wXnMwHMlSG9HTqt1l16YgtogKxhj7M=;aiJaprMnV/Tt4Pl6qn8rAA=="
 ---

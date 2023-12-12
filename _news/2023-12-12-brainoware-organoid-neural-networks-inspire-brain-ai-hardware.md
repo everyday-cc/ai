@@ -33,6 +33,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "A ‘brain organoid’ biochip displayed serious voice recognition and math skills"
+    excerpt: "After connecting the organoid to a silicon chip, the new biocomputer (dubbed “Brainoware”) was quickly trained to accurately recognize speech patterns, as well as perform certain complex math predictions."
+    publishedDateTime: 2023-12-12T19:35:00Z
+    webUrl: "https://www.popsci.com/technology/brainoware-brain-organoid-chip/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 32
 
 secured: "yfk89jgHE8A7YVl+WDbpXXuxDUFJ7YYWIv6gOrHhuG+Bzos1USFpmUCYRKR/C+g7Um+TwYmb8NuXlEtbhDXAPANck1j7A0Ls9Cxg2An2TyRVelp3iX3a28Q/iUmUNXcCMnxdx3fOBXoSUFfUk5S65niiLNtcMNkOIqO5x9Que9sifv0qi2f4TpSmBNXxc7mbLQ0CzKyXeXfkuwDsTunXBHB8hxIo67RjvuHM+ZBDxkTC7qFi5syN9LQF0GK+TOMe0NuJVMqqluQiQUTih/IBYdVUDXuG+LgnrV+qapifpApmSOfqGp2+rHy9uZ3owjMD82exmyMiIe8JxGmZ2d8NdEGLtuNlhz82CgP0HwFrTn9tLxR3DMdLTSOwgJYD1QfmxGynPj76JcnpUarwZ1v3ornmK6oUyxkBn6s+dn3Bbwrfg7UQ3z0Pe1N9Q7eF9lxqbCfwyO2tW9dEAxej3GxGqzNkIpYmwwosfN6o3Ezm3ch/fYBQy6tllIwm9ePozJkScLNDg2DKDZPU8NKZF0loUA==;ReJLWJohRPrB7bpvIu/njA=="
 ---

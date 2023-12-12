@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/revolutionizing-healthcare-exploring-the-a
 webUrl: "https://techbullion.com/revolutionizing-healthcare-exploring-the-ai-advancements-discussed-at-the-medicine-conference-2024/"
 type: article
 quality: 40
-heat: 40
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence in Healthcare: 3 Stocks Transforming the Industry"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence is being applied across the healthcare sector to"
+    publishedDateTime: 2023-12-11T13:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-3-stocks-transforming-the-industry-1032889408"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
   - title: "AI in health care: Leaders urge Congress to set rules for the industry"
     excerpt: "Health care leaders urged Congress at a hearing to pass regulations on the use of artificial intelligence in the industry, addressing the “limitless” capabilities of the new technology as well as the potential biases it can produce."
     publishedDateTime: 2023-12-12T16:26:00Z
@@ -39,15 +48,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "The Evolution of Artificial Intelligence Software: From Basics to Breakthroughs"
-    excerpt: "Introduction: Artificial Intelligence (AI) software has emerged as a transformative force, revolutionizing industries and shaping the future of technology. Starting from its humble beginnings, the evolution of AI software has been marked by constant innovation and remarkable advancements."
-    publishedDateTime: 2023-12-09T16:37:00Z
-    webUrl: "https://techbullion.com/the-evolution-of-artificial-intelligence-software-from-basics-to-breakthroughs/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 15
   - title: "Revolutionizing Healthcare: Exploring the Impact and Future of Large Language Models in Medicine"
     excerpt: "Explore the transformative impact of Large Language Models like Google's Med-PaLM 2 and EPFL's Meditron in healthcare, examining their applications, challenges, and potential in enhancing patient care"
     publishedDateTime: 2023-12-08T16:16:00Z
@@ -58,6 +58,6 @@ related:
       domain: unite.ai
     quality: 8
 
-secured: "1mIJsoBRXqc4m6pSQa2n3VcmQarPJx1f92MCuDZACKFlEJJ0FVwEIY0GNH0/FqZ26A5icgSf26l1i4qixapq59uHsh6/0n/ax4L4ZUAXnmZ++YFt+8eUoFlKqeRJh4cahHBMZcyPvWm+ScWriQSNf+hAe1PbpLZA6Y03Yfwtu+1FHYWX0qRTUUZmiLabpweZQn/8tBLcWlnv9gFWjHCMMys2IiQrF1wmoq7iemMnwQyOZnOE6tdOo3wxtgAJ2tQYDtZMIJW0AGmw0lMWs3GcZxC8Mvd5c+dG3IjzCdj2cKpPdHUceKyDVkSvvnULY74NAwZLj5v6deFSsnegW81/JcJphaUDm1CyyqS3v+2zuQw=;MFG8xVjed5F6fztPlP0AAg=="
+secured: "uOs17+TudgO112SN2Rr4QuPn1x+O7Sc6wqppvWihY3EqacNCGf8/SBK6w1+U1P1TUMBucRrEtyFVPT9u1djaagOK3tzXcyJ73diJXj4SXARhXCbaWB5hADXIisEdmrjLnes6eoWuj1tVk8tbxSjrxmUFS1xTHhybdo9MT3r6ua5co+3rPc1Rgo29QGCgY0c5qQSSL8mzTr4m2FEevN/ZKY6OvmIFIkYeQXAJrovzTp/SGRhn5u0LDGoYpRt8p5NRWyslz1cM8l20kpfkBJhqU/mw3Xyigk5U5dwPaHP7wTWfp95e8PyZK+d6Zf2Sn+gmjlL2Z6YT0IDdVKE50VSPFxy9+oU3fIsSWolx08NMEFplkqsRW/RvOeKG+BTelRgbDFRWEVqXds8qnW8+5YO8HqpB+IQT3n80Ok7r2y/GTZ+6teXSt/RQECHbslki1pKA9qw7M5GTBq9J5oJ2yiaMSxUaxj6rmFv5A37aeQ5vlq6woWceboTKrCpZ1PDDQAhijVsDpFF7nVXATljpQAXjKw==;TKPhM8kOWYYfmiZGUsfLpA=="
 ---
 

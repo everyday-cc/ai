@@ -47,24 +47,6 @@ related:
       name: The New York Times
       domain: nytimes.com
     quality: 49
-  - title: "The EU Just Passed Sweeping New Rules to Regulate AI"
-    excerpt: "The European Union agreed on terms of the AI Act, a major new set of rules that will govern the building and use of AI and have major implications for Google, OpenAI, and others racing to develop AI systems."
-    publishedDateTime: 2023-12-08T23:21:00Z
-    webUrl: "https://www.wired.com/story/eu-ai-act/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 49
-  - title: "EU agrees to landmark rules on artificial intelligence"
-    excerpt: "European Union lawmakers have agreed on the terms for landmark legislation to regulate artificial intelligence, pushing ahead with enacting the world’s most restrictive regime on the development of the technology. Thierry Breton, EU commissioner, confirmed in a post on X that a deal had been reached."
-    publishedDateTime: 2023-12-09T00:09:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/12/ai-regulation-will-begin-in-the-eu/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 47
   - title: "EU agrees draft laws on artificial intelligence"
     excerpt: "The 27 member-nations of the European Union have agreed draft laws to oversee artificial intelligence, or AI, within the bloc. The countries will vote on the provisional legislation — known as the European AI Act — early next year and the rules could be in place in 2025."
     publishedDateTime: 2023-12-11T01:39:00Z
@@ -79,29 +61,6 @@ related:
         width: 955
         height: 636
         isCached: true
-  - title: "EU agrees landmark AI regulation deal"
-    excerpt: "The European Union has introduced the world’s first comprehensive laws to regulate the use of AI, reaching a provisional deal between its member states. The laws were agreed after 36 hours of talks, with the European Parliament to vote on the AI Act proposals early next year."
-    publishedDateTime: 2023-12-11T15:54:00Z
-    webUrl: "https://www.inavateonthenet.net/news/article/eu-agrees-landmark-ai-regulation-deal"
-    type: article
-    provider:
-      name: InAVate
-      domain: inavateonthenet.net
-    quality: 39
-    images:
-      - url: "https://res.cloudinary.com/iml/image/upload/w_1024,c_scale/c_crop,g_custom/w_1024,c_scale/v1702310161/widgetdocs/EU_Shutterstock_yxfiqk.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "EU agrees landmark rules on artificial intelligence"
-    excerpt: "EU lawmakers have agreed the terms for landmark legislation to regulate artificial intelligence, pushing ahead with enacting the world’s most restrictive regime on the development of the technology."
-    publishedDateTime: 2023-12-09T07:54:00Z
-    webUrl: "https://www.ft.com/content/d5bec462-d948-4437-aab1-e6505031a303?shareType=nongift"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
 
 secured: "v3DibyBYGkINM0OhSUPc7f0bppc7qiyBCl3J+IHJdwJIbed8YJ+UIGL5HcUuk/9to+JjAR5BR5eCsMu8vvm2WG973vZ3uOFh57ktM7L5hMcYcUkQU98lOHvNKpICyp8mVjVX+YXUnevB1T6zETflVv4phD64pie0QLJRqavB/2HZaNLPRruBMAiF6h0+eiyIreCUe93TyZ3Pt3MHAsLMjSCbITil/BGi/O1lKL1iJgAWc+ceJvd+o+2HrNLRT/5A53fBFS4pS4k3GiBqt/9U44hw+gTQwnxUIQq+8OSueyy53jin20T4sYYy4JNVC1I38V9hSCq0fY9s/ItOjxbcdnHfGSEeoBDCdEVx3Ag5k99vNTJo2gSAkmqBPWbGAJ61abdQCvGUath5aH2aniehOUoFUtJRkmva3d3gBDuiUHBONwWLP3LNYPLL/qPMFIc3Uij5cEObJf31pL7YhPhvSE6rhRhSyY/VTJ2x6u/mzuPeBRuRqZudxbQYjUYu+PI5ACdSYOLWyWYZ3W41KIUVLA==;DkRlkDKediMvdMEZBtiJbg=="
 ---

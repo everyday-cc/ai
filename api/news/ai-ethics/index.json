@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-13-calling-for-caution-pm-flags-need-for-ethics-democratic-values-in-ai.md",
+      "title": "Calling for caution, PM flags need for ethics, democratic values in AI",
+      "excerpt": "India is negotiating with GPAI member countries for a consensus on a declaration document on the proper use of AI, the guardrails for the technology, and how it can be democratised.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/india/calling-for-caution-pm-flags-need-for-ethics-democratic-values-in-ai-9065718/",
+      "originalUrl": "https://indianexpress.com/article/india/calling-for-caution-pm-flags-need-for-ethics-democratic-values-in-ai-9065718/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2023/12/PM-Narendra-Modi-with-others-at-the-inaugural-ceremony-of-the-Global-Partnership-on-Artificial-Intelligence-Summit.-PTI.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/india/calling-for-caution-pm-flags-need-for-ethics-democratic-values-in-ai-9065718/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/india/calling-for-caution-pm-flags-need-for-ethics-democratic-values-in-ai-9065718/lite/",
+      "publishedDateTime": "2023-12-12T22:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-12-atlanta-local-gov-leaders-tapped-for-ai-ethics-initiative.md",
       "title": "Atlanta Local Gov Leaders Tapped for AI Ethics Initiative",
       "excerpt": "Atlanta nonprofit, activist and educational leaders will be part of a new ethics council on artificial intelligence co-chaired by Sam Altman, CEO of OpenAI, the company behind ChatGPT.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.govtech.com/artificial-intelligence/atlanta-local-gov-leaders-tapped-for-ai-ethics-initiative",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -53,7 +96,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/thoughts-on-consent-and-privacy-in-the-age-of-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -84,49 +127,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-the-eus-ai-act-a-beacon-of-innovation-and-ethics-for-emerging-europe.md",
-      "title": "The EU’s AI Act: A beacon of innovation and ethics for emerging Europe",
-      "excerpt": "In an exceptional move reverberating through the corridors of technology and governance, the European Union has provisionally adopted the Artificial Intelligence Act, heralding a new era of digital ethics and innovation.",
-      "sourceUrl": null,
-      "webUrl": "https://emerging-europe.com/partner-content/the-eus-ai-act-a-beacon-of-innovation-and-ethics-for-emerging-europe/",
-      "originalUrl": "https://emerging-europe.com/partner-content/the-eus-ai-act-a-beacon-of-innovation-and-ethics-for-emerging-europe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://emerging-europe.com/wp-content/uploads/2023/12/bigstock-ai-artificial-intelligence-310093555.jpg",
-          "width": 1600,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-11T12:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "emerging-europe.com",
-        "domain": "emerging-europe.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

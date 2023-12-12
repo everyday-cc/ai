@@ -2,6 +2,109 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-12-11-ai-enhanced-people-development-opens-a-new-path-to-business-growth.md",
+      "title": "AI-Enhanced People Development Opens A New Path To Business Growth",
+      "excerpt": "To navigate HR challenges effectively, a transformative approach to people development, enhanced by AI, is essential.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sap/2023/12/11/ai-enhanced-people-development-opens-a-new-path-to-business-growth/",
+      "originalUrl": "https://www.forbes.com/sites/sap/2023/12/11/ai-enhanced-people-development-opens-a-new-path-to-business-growth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6532e0312d062fcdd9bd90bf/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 780,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sap/2023/12/11/ai-enhanced-people-development-opens-a-new-path-to-business-growth/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2023/12/11/ai-enhanced-people-development-opens-a-new-path-to-business-growth/amp/",
+      "publishedDateTime": "2023-12-11T12:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-11-beamr-releases-white-paper-on-using-its-cabr-solution-to-boost-vision-ai.md",
+      "title": "Beamr Releases White Paper on using its CABR Solution to Boost Vision AI",
+      "excerpt": "In the new White Paper, Beamr shows that video files that were slimmed down by 40% on average - without losing their perceptual quality due to Beamr’s CABR technology - keep ML results unaffected.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/beamr-releases-white-paper-on-using-its-cabr-solution-to-boost-vision-ai-1032889190",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/beamr-releases-white-paper-on-using-its-cabr-solution-to-boost-vision-ai-1032889190",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ml.globenewswire.com/Resource/Download/ebfa3326-9f90-4fac-a6d3-e234d3cdbc0f",
+          "width": 533,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-11T12:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-11-heres-how-the-famous-dodo-verdict-or-tie-score-effect-in-mental-health-therapy-can-astutely-leverage-generative-ai.md",
       "title": "Here’s How The Famous Dodo Verdict Or Tie Score Effect In Mental Health Therapy Can Astutely Leverage Generative AI",
       "excerpt": "There is a famous controversy known as the Dodo bird verdict regarding mental health therapies. I introduce the matter and discuss how generative AI comes into play.",
@@ -477,58 +580,6 @@
       ]
     },
     {
-      "path": "_news/2023-12-09-the-ai-boom-will-light-a-fire-under-server-stocks-in-24.md",
-      "title": "The AI Boom Will Light A Fire Under Server Stocks In ’24",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips As with every new technological paradigm shift, the AI Boom will evolve in",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/the-ai-boom-will-light-a-fire-under-server-stocks-in-24-1032887251",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-ai-boom-will-light-a-fire-under-server-stocks-in-24-1032887251",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh7-us.googleusercontent.com/pzTWE6xziCazjeVj7kQkLMWo4ir7CfCKzGJXQaww1dGf1vRu9hkN9Y7JIs-q1TbZu-PcCDt2gnE8Lyx4hEBxNcwfa0W5MftelI-0vSy9R62iGwfqchnnTNLQnHhacW6MU4JhtFETZWOkTggjoBGsaw",
-          "width": 1600,
-          "height": 821,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-09T14:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-12-09-amd-stock-all-eyes-on-the-new-ai-chip-heres-what-morgan-stanley-expects.md",
       "title": "AMD Stock: All Eyes on the New AI Chip — Here’s What Morgan Stanley Expects",
       "excerpt": "On Thursday, December 7, 2023, semiconductor chip powerhouse Advanced Micro Devices (NASDAQ:AMD) unveiled its newest line of chips designed",
@@ -642,7 +693,7 @@
       "originalUrl": "https://www.theguardian.com/world/2023/dec/08/eu-agrees-historic-deal-with-worlds-first-laws-to-regulate-ai?ref=biztoc.com",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1182,58 +1233,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-08-amd-takes-the-fight-to-nvidia-with-latest-ai-chip-launch-is-the-stock-a-buy-at-116.md",
-      "title": "AMD Takes The Fight To Nvidia With Latest AI Chip Launch. Is The Stock A Buy At $116?",
-      "excerpt": "Tech giants, such as Meta and Microsoft, have expressed their intention to buy AMD’s newest AI chip, as they look for alternatives to Nvidia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greatspeculations/2023/12/08/amd-takes-the-fight-to-nvidia-with-latest-ai-chip-launch-is-the-stock-a-buy-at-116/",
-      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2023/12/08/amd-takes-the-fight-to-nvidia-with-latest-ai-chip-launch-is-the-stock-a-buy-at-116/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 287,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/657299f9c6898fd9524d546c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1161,
-          "height": 774,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2023/12/08/amd-takes-the-fight-to-nvidia-with-latest-ai-chip-launch-is-the-stock-a-buy-at-116/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2023/12/08/amd-takes-the-fight-to-nvidia-with-latest-ai-chip-launch-is-the-stock-a-buy-at-116/amp/",
-      "publishedDateTime": "2023-12-08T11:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

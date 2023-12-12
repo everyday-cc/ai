@@ -7,7 +7,7 @@ originalUrl: "https://www.govtech.com/artificial-intelligence/atlanta-local-gov-
 webUrl: "https://www.govtech.com/artificial-intelligence/atlanta-local-gov-leaders-tapped-for-ai-ethics-initiative"
 type: article
 quality: 54
-heat: 74
+heat: 94
 published: true
 
 provider:
@@ -53,6 +53,24 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Operation HOPE’s John Hope Bryant and Open AI’s Sam Altman Announce Formation of First-of-Its-Kind AI Ethics Council at 2023 Annual Meeting of the Hope Global Forums in Atlanta"
+    excerpt: "On stage yesterday afternoon at the 2023 Annual Meeting of the Hope Global Forums in Atlanta, GA, Operation HOPE’s John Hope Bryant and Open AI’s Sam"
+    publishedDateTime: 2023-12-12T14:22:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231212974597/en/Operation-HOPE’s-John-Hope-Bryant-and-Open-AI’s-Sam-Altman-Announce-Formation-of-First-of-Its-Kind-AI-Ethics-Council-at-2023-Annual-Meeting-of-the-Hope-Global-Forums-in-Atlanta"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
+  - title: "Operation HOPE’s John Hope Bryant and Open AI’s Sam Altman Announce Formation of First-of-Its-Kind AI Ethics Council at 2023 Annual Meeting of the Hope Global Forums in Atlanta"
+    excerpt: "On stage yesterday afternoon at the 2023 Annual Meeting of the Hope Global Forums in Atlanta, GA, Operation HOPE’s John Hope Bryant and Open AI’s Sam"
+    publishedDateTime: 2023-12-12T18:21:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231212974597/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "WaWkg9r4X1SBX1Yup2b7JcCiObGKTIqCdvFCgVA61r5ScMlssWJRSsc3y4WedAfIEBYSR682zRjrbt1XqhevhYApROWA7FmA8BasBWEYBLYBERURQgkSxV22Ig/rEcEtI07N0CtAVBqXzPhxAycgTSTY+Jyfbt1ICEtk6G79X+hlfExSj4nqieRcQO6HbNtXOuQXu4bkl2eDDek5UC/r0TfimfH+/r9uXqe+TEawnvyD/0GHJQdX79vCaYnGJxUBC+RUhHYjogJZWyRU3ev1CTR7AWrsogw71/nz2ud6o57vQccs0fFNULqBFTXyqtqfceiEZwvHUvr4ObkAgGa68RI7eT+wyIvvDTVKcBTNKuSXE4GaFNEx6oOvKR3GV5wxaZoG9Im6jJm50ZtgE131KBUnTTxUFflh/I2h+IiXsIvGmjI3p15ZYeFwmirPMZdzoHwpyy7w2KgMwQWoQdppchYaB1HddSmpu68fZRaz6c87CjFbG9KPAXn3dru56w/Wy+iBygsg/OHCV5JvJekvPQ==;wH4az5vDumZOIItTojjVDw=="
 ---

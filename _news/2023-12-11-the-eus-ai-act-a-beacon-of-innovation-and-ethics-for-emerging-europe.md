@@ -7,8 +7,8 @@ originalUrl: "https://emerging-europe.com/partner-content/the-eus-ai-act-a-beaco
 webUrl: "https://emerging-europe.com/partner-content/the-eus-ai-act-a-beacon-of-innovation-and-ethics-for-emerging-europe/"
 type: article
 quality: 54
-heat: 134
-published: true
+heat: -1
+published: false
 
 provider:
   name: emerging-europe.com
@@ -25,6 +25,33 @@ images:
     isCached: true
 
 related:
+  - title: "EU’s AI Act: Europe’s New Rules for Artificial Intelligence"
+    excerpt: "Europe's provisional AI legislation attempts to strike a tricky balance between promoting innovation and protecting citizens' rights."
+    publishedDateTime: 2023-12-12T19:58:00Z
+    webUrl: "https://www.techrepublic.com/article/eu-ai-act-regulation/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 62
+  - title: "The EU Just Passed Sweeping New Rules to Regulate AI"
+    excerpt: "The European Union agreed on terms of the AI Act, a major new set of rules that will govern the building and use of AI and have major implications for Google, OpenAI, and others racing to develop AI systems."
+    publishedDateTime: 2023-12-08T23:21:00Z
+    webUrl: "https://www.wired.com/story/eu-ai-act/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 49
+  - title: "EU agrees to landmark rules on artificial intelligence"
+    excerpt: "European Union lawmakers have agreed on the terms for landmark legislation to regulate artificial intelligence, pushing ahead with enacting the world’s most restrictive regime on the development of the technology. Thierry Breton, EU commissioner, confirmed in a post on X that a deal had been reached."
+    publishedDateTime: 2023-12-09T00:09:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/12/ai-regulation-will-begin-in-the-eu/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 47
   - title: "EU’s AI rules look best for those in the middle"
     excerpt: "France and Germany may have found a sweet spot amid the European Union’s artificial intelligence rules. As expected, the bloc will require general-purpose AI players to report how they use data, train their models and respect copyright laws,"
     publishedDateTime: 2023-12-11T11:33:00Z
@@ -34,6 +61,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
+  - title: "EU agrees landmark AI regulation deal"
+    excerpt: "The European Union has introduced the world’s first comprehensive laws to regulate the use of AI, reaching a provisional deal between its member states. The laws were agreed after 36 hours of talks, with the European Parliament to vote on the AI Act proposals early next year."
+    publishedDateTime: 2023-12-11T15:54:00Z
+    webUrl: "https://www.inavateonthenet.net/news/article/eu-agrees-landmark-ai-regulation-deal"
+    type: article
+    provider:
+      name: InAVate
+      domain: inavateonthenet.net
+    quality: 39
+    images:
+      - url: "https://res.cloudinary.com/iml/image/upload/w_1024,c_scale/c_crop,g_custom/w_1024,c_scale/v1702310161/widgetdocs/EU_Shutterstock_yxfiqk.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Europe, a laggard in AI, seizes the lead in its regulation"
     excerpt: "Yet whether the AI Act will be as successful as the General Data Protection Regulation ( GDPR ), the EU ’s landmark privacy law, is another question. Important details still need to be worked out. And the European Parliament still needs to approve the final version."
     publishedDateTime: 2023-12-10T18:25:00Z
@@ -62,6 +103,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "EU’s AI Act Falls Short: No Ban on Live Facial Recognition Raises Concerns"
+    excerpt: "EU's AI Act faces criticism for omitting a ban on live facial recognition, raising concerns of dystopian surveillance."
+    publishedDateTime: 2023-12-10T16:59:00Z
+    webUrl: "https://truthout.org/articles/eus-ai-act-falls-short-no-ban-on-live-facial-recognition-raises-concerns/"
+    type: article
+    provider:
+      name: Truthout
+      domain: truthout.org
+    quality: 32
   - title: "In Landmark Vote, Europe Approves AI Regulations--Paving the Way for U.S. Adoption"
     excerpt: "Writing laws that keep pace with the fast-growing world of A.I. seems fraught with challenges. One thing everyone agrees on: the goal is to protect people's data -- and small businesses."
     publishedDateTime: 2023-12-11T15:25:00Z
@@ -85,6 +135,15 @@ related:
       name: Sentinel Colorado
       domain: sentinelcolorado.com
     quality: 19
+  - title: "EU agrees landmark rules on artificial intelligence"
+    excerpt: "EU lawmakers have agreed the terms for landmark legislation to regulate artificial intelligence, pushing ahead with enacting the world’s most restrictive regime on the development of the technology."
+    publishedDateTime: 2023-12-09T07:54:00Z
+    webUrl: "https://www.ft.com/content/d5bec462-d948-4437-aab1-e6505031a303?shareType=nongift"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
   - title: "Artificial intelligence act: Council and Parliament strike a deal on the first rules for AI in the world"
     excerpt: "Following three-day ‘marathon’ talks, the Council presidency and the European Parliament’s negotiators have reached a provisional agreement on the proposal on harmonised rules on artificial intelligence (AI),"
     publishedDateTime: 2023-12-11T08:00:00Z
@@ -94,24 +153,6 @@ related:
       name: eureporter.co
       domain: eureporter.co
     quality: 15
-  - title: "Operation HOPE’s John Hope Bryant and Open AI’s Sam Altman Announce Formation of First-of-Its-Kind AI Ethics Council at 2023 Annual Meeting of the Hope Global Forums in Atlanta"
-    excerpt: "On stage yesterday afternoon at the 2023 Annual Meeting of the Hope Global Forums in Atlanta, GA, Operation HOPE’s John Hope Bryant and Open AI’s Sam"
-    publishedDateTime: 2023-12-12T14:22:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231212974597/en/Operation-HOPE’s-John-Hope-Bryant-and-Open-AI’s-Sam-Altman-Announce-Formation-of-First-of-Its-Kind-AI-Ethics-Council-at-2023-Annual-Meeting-of-the-Hope-Global-Forums-in-Atlanta"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
-  - title: "Operation HOPE’s John Hope Bryant and Open AI’s Sam Altman Announce Formation of First-of-Its-Kind AI Ethics Council at 2023 Annual Meeting of the Hope Global Forums in Atlanta"
-    excerpt: "On stage yesterday afternoon at the 2023 Annual Meeting of the Hope Global Forums in Atlanta, GA, Operation HOPE’s John Hope Bryant and Open AI’s Sam"
-    publishedDateTime: 2023-12-12T18:21:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231212974597/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "kGxy+1n+xU7XNrdazkAcb2s7IEtn99ImkIlyI+mI6JMrxk99wfYr75XywTQxAdCb49LrgsKooJ3CtD5cqJhM9wXrTz/LqXKBLyQO2wrL7DkNU9n71C5XT+HPYlymwEZavCDQyjxr9oJkGpJ6dtYTOSykfg7l/r8fTzR/mEUHF7MJEXLCOMX6PaP0zzH7vCgh9B/Pw332EoGJUdqOjVhZOuRh7YyGuvuyL2FHDScOVGzH/DZqgqXLphoHLokpkvT6co/Cwmj4FivtBMmndEzaOuONigMsG6V/GHW5SBUDmjZz2+eZ/9Cl5Ul+arQblAwB1+u+AA8EdqKPmlTPfZ2d4aKSrUqynAYJSLqMSBf3JdepzzL0B81cSLa/yyck8tzelVpS7KmbvhP0c6QBFYCDU00K9g1pty9dWbsD9OsGVbhrPdm17QlnTe0kCdJrbAP6vMT0yiLb82WlrktdcbvOm7X3Y6GOaREaS4FqJ0ovWcZRCSFletByTDx0GeDpu3OwHZkUva8kTitmwZ98fgJ9Nw==;s0QlLULrWU7xCY+O0Fb6fA=="
 ---

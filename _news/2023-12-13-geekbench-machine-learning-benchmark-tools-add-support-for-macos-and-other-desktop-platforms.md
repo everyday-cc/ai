@@ -24,6 +24,17 @@ images:
     height: 900
     isCached: true
 
-secured: "s8JrbUv5NNWxPKSNLkml/yQk5uWQTfd8+Btj29QPp+HbIrud4riOgGupndK8NiVfRcgm8AdrZO29cafF/p7zdtdkEaugeokR6PeLR1kXiJcqJWr/D4DMc4s0Bk4FwnaMcQrwtf+jewVJbedzPbFy0ZL341W/HpBrlWNVxSbzhSWaEZtKuErh6nXMmLXoYsD9szkHW0sOeocc56e6EsPtYxAEsZos7F4pQ6dj0Z+mkv7Vnm/OzRxfOgeIvRgl9MWktAm3jN3LIwKhYzjKFNwJN/RixWkaJtU0XveUTLRFxZeUQgYdB8xgDSLrmZysH9SuogozojrKUn8l/bGn4PNbi+PzxgYMzxOCsVS/4y9gjXE=;hi1hKHTsO4UO966IemvuVA=="
+related:
+  - title: "Geekbench’s Machine-Learning Benchmark App Now Supports Linux"
+    excerpt: "Wondering how your current Linux system will handle AI and ML-related workloads? Well, now you can find out. Primate Labs, makers of the hugely popular"
+    publishedDateTime: 2023-12-12T19:17:00Z
+    webUrl: "https://www.omgubuntu.co.uk/2023/12/geekbench-ml-ai-benchmark-tool-supports-linux"
+    type: article
+    provider:
+      name: OMG! Ubuntu!
+      domain: omgubuntu.co.uk
+    quality: 4
+
+secured: "uihEz6OAsNVfls8wV1aASI7ZKViwRoriqfIMJZ2EdZzhsgDRMVug4JiQooP4RkHk1mMbfM8/ly1xGyK0NrjHnTLMdM+h0HEaxiCULtumfCV7hFoOdf9qKR5BA6lZXSJ126G4EwauYnKlvDpFz3wlgq7cnTVii1DjpBaX1DEmqd/2YuwhQ9b8iq5XIhA2We9xpE1kizf1uTGsIczZ+3//fZDDB0lnLUjoVy0lnGh7gZIZmTnMjwfbXT7Ax8LfLE9VX+o9hvxJkgzsFSz08v5UOCr3HVPbDgPLkGQBC7itnH75NnHaXy0Mrgj4o1hijWFYgj+DV+Buw/44Rdxnn+TkNmNhgTGqxHeaXXng5PEzwmf7Nj1qfpwRUpvtUKMkwxdiOKm5BBQOcEqtrdkNx9hMRY+X/vKgKS3agNwQfjiYI4UHgdGZjjp7i3TkToAaW/E/BeRW7KDXhfpsFanTKDVYHkjc5aS1ZWkmbToBQFiSogOIPur/1N9vJJSl77dmVnKtYUJhWjxiaRbkPHdpvf3dfQ==;iI7ZvIi15rodOsajQcM09w=="
 ---
 

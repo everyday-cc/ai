@@ -73,6 +73,15 @@ related:
       name: Hindustan Times Tech
       domain: hindustantimes.com
     quality: 60
+  - title: "Microsoft releases Phi-2, a small language model AI that outperforms Llama 2, Mistral 7B"
+    excerpt: "Microsoft researchers also noted in their blog post on the Phi-2 release that it outperforms Google's brand new Gemini Nano 2 model."
+    publishedDateTime: 2023-12-12T18:01:00Z
+    webUrl: "https://venturebeat.com/ai/microsoft-releases-phi-2-a-small-language-model-ai-that-outperforms-llama-2-mistral-7b/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 57
   - title: "Microsoft and labor unions form ‘historic’ alliance on AI"
     excerpt: "Microsoft is teaming up with labor unions to create 'an open dialogue' on how artificial intelligence will affect workers."
     publishedDateTime: 2023-12-11T17:51:00Z

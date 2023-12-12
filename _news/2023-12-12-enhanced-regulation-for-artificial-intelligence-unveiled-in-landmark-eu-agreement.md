@@ -81,6 +81,15 @@ related:
       name: GlobalSpec
       domain: globalspec.com
     quality: 19
+  - title: "New portable, non-invasive AI system turns thoughts into text"
+    excerpt: "Australian researchers have developed a portable, non-invasive system that can decode silent thoughts and turn them into text using artificial intelligence (AI). The technology could aid communication for people who are unable to speak due to illness or injury,"
+    publishedDateTime: 2023-12-12T22:29:00Z
+    webUrl: "https://www.canindia.com/new-portable-non-invasive-ai-system-turns-thoughts-into-text/"
+    type: article
+    provider:
+      name: Canindia.com
+      domain: canindia.com
+    quality: 19
 
 secured: "rM5gBc2m8hBgI+XfzjjotCIzZSe9jc5lTHGX2w0HDFPjnTD5iN3tMFIh6tqPKCeODO4w+as2yI2wLTDintpkTFQAUjFkl6M7CSEhTo/7BdWr7KXYazl9fhVCJlJzCv7J6lcjv3HMk12QYFt3giUpoffcu2Wl8olyb/ubo6OhX1u8QmX78nE169DQhlYaHGIgK6HJ3EByj2NmSVz6myCQhEoulSTT9X1PA9fgTlmK36M570M3Uhpw56S5VmXRlVbTDiKHZbHmJiTPpHo3z/xCJtfExv0aaqQanSwvOUmMEeeRw3wreu88XiMEwtro1sEksWEayuK3pqhcvgfyLmIm2nmeAQFNCnreSBbMTOEufrJPnarFTTBxCL1wLU2T9varsRyQbRKJQTIctVD/sqbbr8MiBmVcB+2X8vzejhYIzEKxPxVXS1lZHhRjxW714wJahzJ8gAAkQDwYrYVUKTgCqJgsuLTPUxEtjYsa3FUsruJU/zvDTqzC4mFBUZFi3k3/Q99odc+2rIRFo76h1mV9Fg==;/R0LLpEd6zM7c+GTtXsPaQ=="
 ---

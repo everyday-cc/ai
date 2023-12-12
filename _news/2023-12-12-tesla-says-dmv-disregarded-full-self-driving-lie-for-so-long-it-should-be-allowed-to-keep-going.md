@@ -7,7 +7,7 @@ originalUrl: "https://electrek.co/2023/12/11/tesla-dmv-full-self-driving-lie-so-
 webUrl: "https://electrek.co/2023/12/11/tesla-dmv-full-self-driving-lie-so-long-allowed-keep-going/"
 type: article
 quality: 55
-heat: 65
+heat: -1
 published: false
 
 provider:
@@ -29,19 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla's Broken Promise Of Fully Autonomous Driving"
-    excerpt: "Tesla's \"Full Self-Driving\" feature is not actually fully autonomous, and yet the company charges customers for it. The problem of fully autonomous driving is challenging due to Moravec's paradox and the limitations of current AI technology. Tesla's pivot ..."
-    publishedDateTime: 2023-12-11T15:21:00Z
-    webUrl: "https://seekingalpha.com/article/4657240-tesla-broken-promise-of-fully-autonomous-driving"
+  - title: "Virginia sheriff says Tesla Autopilot was running before driving under tractor-trailer"
+    excerpt: "Virginia authorities have determined that a Tesla was operating on its Autopilot system and was speeding in the moments leading to a crash with a crossing tractor-trailer last July that killed the Tesla driver."
+    publishedDateTime: 2023-12-12T22:43:00Z
+    webUrl: "https://www.autoblog.com/2023/12/12/virginia-sheriff-says-tesla-autopilot-was-running-before-driving-under-tractor-trailer/"
+    ampWebUrl: "https://www.autoblog.com/amp/2023/12/12/virginia-sheriff-says-tesla-autopilot-was-running-before-driving-under-tractor-trailer/"
+    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2023/12/12/virginia-sheriff-says-tesla-autopilot-was-running-before-driving-under-tractor-trailer/"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 39
+      name: Autoblog
+      domain: autoblog.com
+    quality: 66
     images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1392610598/image_1392610598.jpg?io=getty-c-w1536"
-        width: 1536
-        height: 930
+      - url: "https://s.aolcdn.com/images/dims3/GLOB/crop/2082x1171+414+0/resize/800x450!/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2023/12/12174123/Screenshot-2023-12-12-at-5.38.41-PM.png"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "zGhVXv9BEwZXSzyjpoAzNlY1mdEZmB9MMrly2gM2jJTHq1uCT7nYpHfS9FfqWPRgLy2qLixtz1WmPEmJCkjDkiQcJyncxJXkDL4spRqAvTwIJBP4+To8BtAolT1WjX/rjSiTxjpLfUy7RElRp7UZAERRN3N9tdZgef87EXxIWIWWxsFOZz+gx6wnufLMIYLL8z0/0nyPVNi29AozP7R4EtTHovHGKq5ZGoByeCA3qukCk0WmL/PBURra+PpVhRpUeeQ+2hjjocKUtUn5kJCYBFDgOhvKcxcnyhSWBgozoGJ2CazuISVumxW3Wd+i8Q0/sdiGsg+5j2UnzmxRFuFtwql3K+LYHzbYt/xCfNduXnjQwdOhQyfZEwjCKjwziRtPER2PdV3/9MxT5dJ3Dg/zeUKuYCtTgoTeUojYC4JZuQVB6VDvHw16fNQ4z8rTP2GeET0iAK3U94ijNDzgrxj4y8LTgsAvrO6lk8oCZ6l+rgNgPLUzK6stmRzi35WVhZ0d4pRpwm2gIOQ0DgULOx5ifA==;290KGgsIPH5ypPcZRN+iwQ=="

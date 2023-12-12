@@ -3,8 +3,8 @@ category: news
 title: "Locomotor Control and Rehabilitation Robotics Laboratory"
 excerpt: "With that in mind, we have developed clinical protocols for treating ... The participant is in complete control of the speed and direction of the belt; users can determine if they want to walk forward or backwards. The KineAssist allows participants ..."
 publishedDateTime: 2023-11-30T15:39:00Z
-originalUrl: "https://www.uab.edu/shp/pt/locolab?trk=public_profile_project-title"
-webUrl: "https://www.uab.edu/shp/pt/locolab?trk=public_profile_project-title"
+originalUrl: "https://www.uab.edu/shp/pt/locolab?trk=public_profile_project-button"
+webUrl: "https://www.uab.edu/shp/pt/locolab?trk=public_profile_project-button"
 type: article
 
 provider:
@@ -15,6 +15,6 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "0sYn0gYwGi0DjVyg1afemogJWhyCYDbKNWs7+TwCVFNu31Qpm5TI/8A/qY4N/380iY5FoEtMIiu9lJn1Q33Poa3B8wgaGS4MGshWgZJwuyjswmOnn3Nw2aoPYW4oldNk/ThG/VfRlDR3oiqiJZifZRQZ27ZhmwluWxthY2TutkK9xtyoSGwxr/OR6H7bXh/MjCP2232c9WuOUxoh1HhtStCVBEwKZJDW//PxSVU/onvEpFKxW4AA4cDo9wt6GmD7oaABo3gdg3I8xPw0zUul/GGmvj9wQ+S3nW0DUNvCMJSDJz1Cw4L3f9wgq1umATpysDI83pucVjqCY6bX6mYFnNMBldxZjF3LDn6CYCVYS8g=;wjj3yQtfwBWU96AaXoGBDA=="
+secured: "uEVq/P5ooUttmNXQZ2+dEUxYQrQO94cDsMfH9WYBHLNbJqGQ0Fu2+3Nc+ENenhsyDcCQIBt1GZ3xVMI6dba3Q8p9HUsoRo3yupGjnt2h9yNc3csawRpj0Y9LE5nSM8oMbNl5J2YgeN3t/ZKyKcMUtVjx5d86fos6cO9cR41QofKaxWXOTCrBSF1Db8m/2qRrbVsqg8YWL3x78STa0YMm+qhHcIQMVk1lOJoDjjsFBvV1K3PQRgekMTzsMYSVebHsPg/zkhSN3tFXg9/T9PSdHNArJvPiGrgxYtwA+UHEwB56Un/66JSf0JYeu2jCfWpT8niAdRy66tX3Alp4uWVEJglpZwlVwU6sYjfSj7YckfU=;5+Sfw1tK63Gv0GHiAyGOaQ=="
 ---
 

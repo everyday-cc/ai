@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence in Healthcare: 3 Stocks Transforming the Industry"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence is being applied across the healthcare sector to"
+    publishedDateTime: 2023-12-11T13:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-3-stocks-transforming-the-industry-1032889408"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
   - title: "Revolutionizing Healthcare: Exploring the AI Advancements Discussed at the Medicine Conference 2024"
     excerpt: "Welcome to our blog, where we delve into the mind-blowing realm of healthcare revolution! Today, we transport you to the captivating world of Medicine Conference 2024, where groundbreaking advancements in artificial intelligence (AI) are pushing the limits of what is possible."
     publishedDateTime: 2023-12-12T18:37:00Z
@@ -39,15 +48,6 @@ related:
         width: 1000
         height: 500
         isCached: true
-  - title: "The Evolution of Artificial Intelligence Software: From Basics to Breakthroughs"
-    excerpt: "Introduction: Artificial Intelligence (AI) software has emerged as a transformative force, revolutionizing industries and shaping the future of technology. Starting from its humble beginnings, the evolution of AI software has been marked by constant innovation and remarkable advancements."
-    publishedDateTime: 2023-12-09T16:37:00Z
-    webUrl: "https://techbullion.com/the-evolution-of-artificial-intelligence-software-from-basics-to-breakthroughs/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 15
   - title: "Revolutionizing Healthcare: Exploring the Impact and Future of Large Language Models in Medicine"
     excerpt: "Explore the transformative impact of Large Language Models like Google's Med-PaLM 2 and EPFL's Meditron in healthcare, examining their applications, challenges, and potential in enhancing patient care"
     publishedDateTime: 2023-12-08T16:16:00Z

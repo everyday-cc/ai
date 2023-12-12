@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-13-virginia-sheriff-says-tesla-autopilot-was-running-before-driving-under-tractor-trailer.md",
+      "title": "Virginia sheriff says Tesla Autopilot was running before driving under tractor-trailer",
+      "excerpt": "Virginia authorities have determined that a Tesla was operating on its Autopilot system and was speeding in the moments leading to a crash with a crossing tractor-trailer last July that killed the Tesla driver.",
+      "sourceUrl": null,
+      "webUrl": "https://www.autoblog.com/2023/12/12/virginia-sheriff-says-tesla-autopilot-was-running-before-driving-under-tractor-trailer/",
+      "originalUrl": "https://www.autoblog.com/2023/12/12/virginia-sheriff-says-tesla-autopilot-was-running-before-driving-under-tractor-trailer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.aolcdn.com/images/dims3/GLOB/crop/2082x1171+414+0/resize/800x450!/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2023/12/12174123/Screenshot-2023-12-12-at-5.38.41-PM.png",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.autoblog.com/amp/2023/12/12/virginia-sheriff-says-tesla-autopilot-was-running-before-driving-under-tractor-trailer/",
+      "cdnAmpWebUrl": "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2023/12/12/virginia-sheriff-says-tesla-autopilot-was-running-before-driving-under-tractor-trailer/",
+      "publishedDateTime": "2023-12-12T22:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Autoblog",
+        "domain": "autoblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-12-vodafone-advances-its-machine-learning-skills-with-aws-deepracer-and-accenture.md",
       "title": "Vodafone advances its machine learning skills with AWS DeepRacer and Accenture",
       "excerpt": "Vodafone is transitioning from a telecommunications company (telco) to a technology company (TechCo) by 2025, with objectives of innovating faster, reducing costs, improving security, and simplifying operations. Thousands of engineers are being onboarded to contribute to this transition. By 2025, Vodafone",
@@ -1239,58 +1282,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-30-gm-to-cut-spending-on-cruise-self-driving-unit.md",
-      "title": "G.M. to Cut Spending on Cruise Self-Driving Unit",
-      "excerpt": "General Motors will “substantially lower spending” on autonomous vehicle efforts in 2024 after accidents with its self-driving taxis in San Francisco.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/11/29/technology/cruise-general-motors.html",
-      "originalUrl": "https://www.nytimes.com/2023/11/29/technology/cruise-general-motors.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/11/30/multimedia/29bizsky-gm-cruise-print/29gm-cruise-hcjk-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-29T21:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

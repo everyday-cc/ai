@@ -1,82 +1,96 @@
 ---
 category: news
-title: "New Portable, Non-Invasive AI System Turns Thoughts Into Text"
-excerpt: "Australian researchers have developed a portable, non-invasive system that can decode silent thoughts and turn them into text u"
-publishedDateTime: 2023-12-12T18:16:00Z
-originalUrl: "https://menafn.com/1107581820/New-Portable-Non-Invasive-AI-System-Turns-Thoughts-Into-Text"
-webUrl: "https://menafn.com/1107581820/New-Portable-Non-Invasive-AI-System-Turns-Thoughts-Into-Text"
+title: "New portable, non-invasive AI system turns thoughts into text"
+excerpt: "Australian researchers have developed a portable, non-invasive system that can decode silent thoughts and turn them into text using artificial intelligence (AI). The technology could aid communication for people who are unable to speak due to illness or injury,"
+publishedDateTime: 2023-12-12T22:29:00Z
+originalUrl: "https://www.canindia.com/new-portable-non-invasive-ai-system-turns-thoughts-into-text/"
+webUrl: "https://www.canindia.com/new-portable-non-invasive-ai-system-turns-thoughts-into-text/"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: Canindia.com
+  domain: canindia.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?509002"
-    width: 376
-    height: 250
-    isCached: true
-
 related:
-  - title: "AI-Powered System Turns Thoughts Into Text"
-    excerpt: "In a world-first, researchers have developed a non-invasive, AI-powered system that can decode thought into text, potentially enabling seamless communication between humans and machines."
-    publishedDateTime: 2023-12-12T10:37:00Z
-    webUrl: "https://www.technologynetworks.com/neuroscience/news/ai-powered-system-turns-thoughts-into-text-381934"
+  - title: "Thoughts On Consent And Privacy In The Age Of AI"
+    excerpt: "As a crucial aspect of responsible AI and ethics in AI development and deployment, contestability ensures that individuals, organizations and regulatory bodies can scrutinize AI systems and hold them accountable for their behavior. Balancing innovation ..."
+    publishedDateTime: 2023-12-12T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/thoughts-on-consent-and-privacy-in-the-age-of-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/thoughts-on-consent-and-privacy-in-the-age-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/12/thoughts-on-consent-and-privacy-in-the-age-of-ai/amp/"
     type: article
     provider:
-      name: technologynetworks
-      domain: technologynetworks.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/381934/ai-powered-system-turns-thoughts-into-text-381934-640x360.jpg?cb=20231212"
-        width: 640
-        height: 360
+      - url: "https://imageio.forbes.com/specials-images/imageserve/617ab75c1928bf93235ece8a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1351
+        height: 900
         isCached: true
-  - title: "Mind-reading AI technology turns thoughts into text"
-    excerpt: "Researchers have developed a portable, non-invasive system that can decode silent thoughts and turn them into text."
-    publishedDateTime: 2023-12-12T16:49:00Z
-    webUrl: "https://interestingengineering.com/innovation/mind-reading-ai-thoughts-text"
+  - title: "Understanding the world of AI and robotics at the FAIR"
+    excerpt: "The Festival of AI + Robotics, the FAIR is a two-day event promising to ... be able to connect with people on the floor to give them advice,” she said. Another element will be a startup showcase, which Müller said will be relevant to those visiting ..."
+    publishedDateTime: 2023-12-12T02:09:00Z
+    webUrl: "https://www.itnews.com.au/video/understanding-the-world-of-ai-and-robotics-at-the-fair-603411"
     type: article
     provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 69
     images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/12/12/image/jpeg/xB2oox3Gqk9Je6ZZrhlbIrkxAX6GUVOYBEFigv0t.jpg"
+      - url: "https://i.nextmedia.com.au/Videos/16.2-FAIR-Medium-Rectangle-300x250.png"
+        width: 300
+        height: 250
+        isCached: true
+  - title: "Here are 7 portfolio stocks that can benefit from bigger tech budgets in the age of AI"
+    excerpt: "The gatekeepers of information technology budgets at major North American companies are ready to start spending again."
+    publishedDateTime: 2023-12-12T16:00:00Z
+    webUrl: "https://www.cnbc.com/2023/12/12/here-are-7-portfolio-stocks-that-can-benefit-from-bigger-tech-budgets-in-the-age-of-ai.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 59
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107273423-1689744131692-gettyimages-1328784596-robot-gui-pabel.jpeg?v=1697787710&w=1920&h=1080"
         width: 1920
         height: 1080
         isCached: true
-  - title: "Mind-reading technology transforms thoughts into text"
-    excerpt: "In an unprecedented scientific achievement, experts have developed a system that is capable of reading human thoughts and converting them into text. The technology was designed by the GrapheneX-UTS Human-centric Artificial Intelligence Centre at the University of Technology Sydney (UTS)."
-    publishedDateTime: 2023-12-12T00:25:00Z
-    webUrl: "https://www.earth.com/news/mind-reading-technology-transforms-thoughts-into-text/"
+  - title: "Will AI Spell The End Of The Contact Center Agent?"
+    excerpt: "The generative AI boom has every industry dreaming big about how the technology can be applied to increase efficiency."
+    publishedDateTime: 2023-12-12T14:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/will-ai-spell-the-end-of-the-contact-center-agent/"
     type: article
     provider:
-      name: earth
-      domain: earth.com
-    quality: 24
-    images:
-      - url: "https://cff2.earth.com/uploads/2023/12/11171532/Mind-reading-technology-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
-  - title: "Portable, non-invasive, mind-reading AI turns thoughts into text (w/video)"
-    excerpt: "“It is the first to incorporate discrete encoding techniques in the brain-to-text translation process, introducing an innovative approach to neural decoding. The integration with large language models is also opening new frontiers in neuroscience and AI ..."
-    publishedDateTime: 2023-12-12T00:00:00Z
-    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=64235.php"
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "This mind-reading AI can turn thoughts into text"
+    excerpt: "A team of researchers from the GrapheneX-UTS Human-centric Artificial Intelligence Centre at the University of Technology Sydney (UTS) have reportedly created a portable, non-invasive system capable of decoding a person’s thoughts and turning them into text."
+    publishedDateTime: 2023-12-12T13:41:00Z
+    webUrl: "https://insights.globalspec.com/article/21585/this-mind-reading-ai-can-turn-thoughts-into-text"
     type: article
     provider:
-      name: Nanowerk
-      domain: nanowerk.com
-    quality: 17
+      name: GlobalSpec
+      domain: globalspec.com
+    quality: 19
+  - title: "Enhanced Regulation for Artificial Intelligence Unveiled in Landmark EU Agreement"
+    excerpt: "In a significant development, negotiators from the European Parliament and EU member states have reached a consensus on more stringent regulations governing the use of artificial intelligence (AI) within the European Union."
+    publishedDateTime: 2023-12-12T13:08:00Z
+    webUrl: "https://themunicheye.com/enhanced-regulation-for-artificial-intelligence-unveiled-in-landmark-eu-agreement-5541"
+    type: article
+    provider:
+      name: The Munich Eye
+      domain: themunicheye.com
+    quality: 14
 
-secured: "U+UFBt92ya4/ODoXwt3lMRIrCaifClZruwy8+VsH3YAFdihYAFL+mhyCBikrWXQehBzseuxVtIVpxYRyCttdqZWXUdMzqnnTaWpTgyZ4BxBbvF+w+DGacvwtO9FB57cqN3yGINaNmvhpIFWWA4SowHNda5Pby0+69tHe2mEXss44a/0IZs+HqbM5dKGwAV7pqf1qJn2FmqZKDecCqGlWCQfme5rMhxdF18PkiYmQaTrJKP9NtUH6+Rf6hYeDpo/53BYfEWWIUj7KYITn5lQxVe2PdbEBD7/ZcsgiWTcW0mLq3EcoqP5cmSHDAqhjzyfxcBwkS4EcvejDpeu7PPmmgY2kh0xYg16wu28d8+1RxDI=;QpKD9k6OkLTMCRnUloTu0w=="
+secured: "sqgrdZBa+t0RAtayJld0nv/i2yDlifasmX65z5hJRLJMm2+B4YsGxlxOXM4l6ah77puJbHD021C9B3EmnCILFIm4YmjVcHgyvbUwNQZCh+dequKH8Q8B+EwJYWLqkBYRL9LjqZ/tsgzZFWC49qt8VP+z8GgWBNu5A1BLpynwFYuMK58TS4xYJHd7EwhHJE2oCMQSqoj+RpAojNNtkeZnckS5N6WKgje6AQh5mHvLYbbn5agUXVrft8U8Zs1oFjTXaW0QCWv2mnrtcCEPkvdtVAbzDCMu0gOch16t+8lyISaJKLsPi415kA7Il3C5CQhBdpciuJyvn+82hUEfxKqoEBwEcpLM+3zxj3Nttbq04BI=;te+wdsDDM1PXL8rKS/SSBw=="
 ---
 

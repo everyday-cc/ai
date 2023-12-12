@@ -98,6 +98,49 @@
       ]
     },
     {
+      "path": "_news/2023-12-11-artificial-intelligence-in-healthcare-3-stocks-transforming-the-industry.md",
+      "title": "Artificial Intelligence in Healthcare: 3 Stocks Transforming the Industry",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence is being applied across the healthcare sector to",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-3-stocks-transforming-the-industry-1032889408",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-3-stocks-transforming-the-industry-1032889408",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-11T13:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-11-heres-how-the-famous-dodo-verdict-or-tie-score-effect-in-mental-health-therapy-can-astutely-leverage-generative-ai.md",
       "title": "Here’s How The Famous Dodo Verdict Or Tie Score Effect In Mental Health Therapy Can Astutely Leverage Generative AI",
       "excerpt": "There is a famous controversy known as the Dodo bird verdict regarding mental health therapies. I introduce the matter and discuss how generative AI comes into play.",
@@ -1247,49 +1290,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-27-awak-technologies-announces-fda-breakthrough-device-designation-for-their-artificial-intelligence-enabled-kidney-disease-prediction-tool.md",
-      "title": "AWAK Technologies Announces FDA Breakthrough Device Designation for their Artificial Intelligence Enabled Kidney Disease Prediction Tool",
-      "excerpt": "AWAK Technologies (AWAK), a pioneering medical technology company developing a wearable dialysis product and other complementary solutions for chronic kidney disease (CKD) management, today announced that its kidney disease progression prediction (KDPP) Artificial Intelligence (AI) model for CKD patient care has been granted Breakthrough Device designation by the U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/awak-technologies-announces-fda-breakthrough-device-designation-their-artificial",
-      "originalUrl": "https://www.asiaone.com/business/awak-technologies-announces-fda-breakthrough-device-designation-their-artificial",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Nov2023/pr-newswire_500_4_1677.jpg?h=7de12b8a&itok=4ZLq5tFE",
-          "width": 600,
-          "height": 316,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-27T12:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

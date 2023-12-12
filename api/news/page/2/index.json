@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-12-12-accenture-to-work-with-union-bank-of-india-to-build-new-ai-and-machine-learning-models.md",
+      "title": "Accenture To Work with Union Bank of India To Build New AI and Machine Learning Models",
+      "excerpt": "Accenture will work with Union Bank of India to build new AI and machine learning models that can help generate actionable insights for improved busin",
+      "sourceUrl": null,
+      "webUrl": "https://www.indianweb2.com/2023/12/accenture-to-work-with-union-bank-of.html",
+      "originalUrl": "https://www.indianweb2.com/2023/12/accenture-to-work-with-union-bank-of.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVgXjk2IBSptAxO-BzY3gxzDItOMiYkt9jovv-UC78ztQh-tVo4EkKI-nyXRmd1FDyVq2HCbz3JFA8B5gNICIqE8PMuRdYKJuXUm9Fd5Mm1M7viygOEm8688zZLaUFBkCie2RxSMEoNy_7K-Pw1lQ3aIc7NNRc4nMybDhh8iG1A-OXpy_ksr0YtFR2NW4/s16000/accenture-union-bank.png",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-12T08:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "indianweb2.com",
+        "domain": "indianweb2.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-12-12-cyborg-computer-with-living-brain-organoid-aces-machine-learning-tests.md",
+      "title": "Cyborg computer with living brain organoid aces machine learning tests",
+      "excerpt": "Scientists have grown a tiny brain-like organoid out of human stem cells, hooked it up to a computer, and demonstrated its potential as a kind of organic machine learning chip, showing it can quickly pick up speech recognition and math predictions.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/computers/hybrid-brain-organoid-computing/",
+      "originalUrl": "https://newatlas.com/computers/hybrid-brain-organoid-computing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/ccc7067/2147483647/strip/true/crop/1547x812+0+109/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F45%2F78%2F6d26502246189c62b43acc8416f0%2Fscreenshot-2023-12-12-at-6.00.01%20pm.png&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-12T08:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-12-artificial-intelligence-is-here-to-stay-considerations-for-pr-professionals.md",
       "title": "Artificial Intelligence Is Here To Stay: Considerations For PR Professionals",
       "excerpt": "Machine learning, or artificial intelligence (AI), is a game changer ... But AI’s uses are much broader—think facial recognition in security systems, medical diagnosis in healthcare, self-driving automobiles and fraud detection in financial institutions.",
@@ -157,7 +253,7 @@
       "originalUrl": "https://www.scmp.com/tech/tech-war/article/3244739/nvidia-talks-biden-administration-about-ai-chip-sales-china-us-commerce-chief-gina-raimondo-says",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -868,7 +964,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/11/why-generative-ai-makes-sense-for-edge-computing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 191,
+      "heat": 201,
       "tags": null,
       "images": [
         {
@@ -910,6 +1006,49 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-12-11-artificial-intelligence-in-healthcare-3-stocks-transforming-the-industry.md",
+      "title": "Artificial Intelligence in Healthcare: 3 Stocks Transforming the Industry",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence is being applied across the healthcare sector to",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-3-stocks-transforming-the-industry-1032889408",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-3-stocks-transforming-the-industry-1032889408",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-11T13:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -1037,152 +1176,6 @@
       "topics": [
         "AI",
         "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-ai-enhanced-people-development-opens-a-new-path-to-business-growth.md",
-      "title": "AI-Enhanced People Development Opens A New Path To Business Growth",
-      "excerpt": "To navigate HR challenges effectively, a transformative approach to people development, enhanced by AI, is essential.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sap/2023/12/11/ai-enhanced-people-development-opens-a-new-path-to-business-growth/",
-      "originalUrl": "https://www.forbes.com/sites/sap/2023/12/11/ai-enhanced-people-development-opens-a-new-path-to-business-growth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6532e0312d062fcdd9bd90bf/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 780,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sap/2023/12/11/ai-enhanced-people-development-opens-a-new-path-to-business-growth/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2023/12/11/ai-enhanced-people-development-opens-a-new-path-to-business-growth/amp/",
-      "publishedDateTime": "2023-12-11T12:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-beamr-releases-white-paper-on-using-its-cabr-solution-to-boost-vision-ai.md",
-      "title": "Beamr Releases White Paper on using its CABR Solution to Boost Vision AI",
-      "excerpt": "In the new White Paper, Beamr shows that video files that were slimmed down by 40% on average - without losing their perceptual quality due to Beamr’s CABR technology - keep ML results unaffected.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/beamr-releases-white-paper-on-using-its-cabr-solution-to-boost-vision-ai-1032889190",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/beamr-releases-white-paper-on-using-its-cabr-solution-to-boost-vision-ai-1032889190",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ml.globenewswire.com/Resource/Download/ebfa3326-9f90-4fac-a6d3-e234d3cdbc0f",
-          "width": 533,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-11T12:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-the-eus-ai-act-a-beacon-of-innovation-and-ethics-for-emerging-europe.md",
-      "title": "The EU’s AI Act: A beacon of innovation and ethics for emerging Europe",
-      "excerpt": "In an exceptional move reverberating through the corridors of technology and governance, the European Union has provisionally adopted the Artificial Intelligence Act, heralding a new era of digital ethics and innovation.",
-      "sourceUrl": null,
-      "webUrl": "https://emerging-europe.com/partner-content/the-eus-ai-act-a-beacon-of-innovation-and-ethics-for-emerging-europe/",
-      "originalUrl": "https://emerging-europe.com/partner-content/the-eus-ai-act-a-beacon-of-innovation-and-ethics-for-emerging-europe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://emerging-europe.com/wp-content/uploads/2023/12/bigstock-ai-artificial-intelligence-310093555.jpg",
-          "width": 1600,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-11T12:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "emerging-europe.com",
-        "domain": "emerging-europe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

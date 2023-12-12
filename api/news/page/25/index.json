@@ -2,6 +2,92 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2023-11-18-philadelphia-health-update-poor-cognitive-function-tied-to-poor-sleep-doctor-explains.md",
+      "title": "Philadelphia Health Update: Poor Cognitive Function Tied to Poor Sleep. Doctor Explains",
+      "excerpt": "Dr. Puja Uppal says, \"Sharp brains need good rest!\"Doctor's Expert Insights About Poor Cognitive Function & Your Sleep Health in PennsylvaniaKnow this: \"Here's the thing, we know",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/state/philadelphia-health-update-poor-cognitive-function-tied-to-poor-sleep-doctor-explains/article_10b0857d-5468-5ec1-8274-17e6b2f772c9.html",
+      "originalUrl": "https://www.wfmz.com/news/state/philadelphia-health-update-poor-cognitive-function-tied-to-poor-sleep-doctor-explains/article_10b0857d-5468-5ec1-8274-17e6b2f772c9.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/37/83770920-47dd-54d6-a684-35b4efdc4c2a/6557fecaa3f16.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-17T22:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-18-basler-and-siemens-join-forces-to-enhance-machine-vision-and-factory-automation-capabilities.md",
+      "title": "Basler and Siemens Join Forces to Enhance Machine Vision and Factory Automation Capabilities",
+      "excerpt": "Basler AG, a leading provider of advanced computer vision products, is excited to announce its new partnership with the technology company Siemens, an innovation leader in automation and digitalization.",
+      "sourceUrl": null,
+      "webUrl": "https://www.automation.com/en-us/articles/november-2023/basler-siemens-machine-vision-factory-automation? Control News & Articles",
+      "originalUrl": "https://www.automation.com/en-us/articles/november-2023/basler-siemens-machine-vision-factory-automation? Control News & Articles",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.automation.com/getmedia/57420807-7481-4515-a59b-cc445dd39f4d/Basler-news-Nov-17-2023-web.png?width=500&height=313&ext=.png",
+          "width": 500,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-17T20:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automation",
+        "domain": "automation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-18-accurately-assessing-liquidity-with-explainable-machine-learning-models.md",
       "title": "Accurately assessing liquidity with explainable machine learning models",
       "excerpt": "Bloomberg is set to release further empirical metrics, at the end of this year, to bolster its liquidity models’ explainability.",
@@ -1048,91 +1134,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-16-2-reliable-ai-stocks.md",
-      "title": "2 Reliable AI Stocks",
-      "excerpt": "and you'll find the Watson AI engine looming over every nook and cranny of this giant enterprise. IBM is happy to leave consumer-facing products to other companies, keeping a laser-like focus on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/11/16/2-reliable-ai-stocks/",
-      "originalUrl": "https://www.fool.com/investing/2023/11/16/2-reliable-ai-stocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/755300/robot-hand-puts-coins-in-piggy-bank.jpg",
-          "width": 1958,
-          "height": 1530,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-16T14:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-16-need-help-with-holiday-shopping-google-wants-you-to-use-artificial-intelligence.md",
-      "title": "Need help with holiday shopping? Google wants you to use artificial intelligence",
-      "excerpt": "Google is expanding its artificial intelligence capabilities to help consumers shop for gifts during the holiday season. Beginning Nov. 16, Google will update its Search Generative Experience (SGE), which brings generative AI capabilities into search ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.indystar.com/story/money/shopping/2023/11/16/google-ai-hospital-shopping-help/71582820007/",
-      "originalUrl": "https://www.indystar.com/story/money/shopping/2023/11/16/google-ai-hospital-shopping-help/71582820007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-16T14:16:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indianapolis Star",
-        "domain": "indystar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

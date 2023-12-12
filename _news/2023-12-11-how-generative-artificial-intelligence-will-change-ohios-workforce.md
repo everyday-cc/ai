@@ -147,6 +147,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cross-Campus Approaches to Building a Generative AI Policy"
+    excerpt: "Particularly for new technologies that disrupt long-standing practices and cultural beliefs, the work of carefully and intentionally developing effect"
+    publishedDateTime: 2023-12-12T20:42:00Z
+    webUrl: "https://er.educause.edu/articles/2023/12/cross-campus-approaches-to-building-a-generative-ai-policy"
+    type: article
+    provider:
+      name: er.educause.edu
+      domain: educause.edu
+    quality: 19
   - title: "Dell Technologies storage advancements accelerate AI and generative AI strategies"
     excerpt: "Dell Technologies is helping customers achieve faster AI and generative AI (genAI) performance with new enterprise data storage advancements and validation with the Nvidia DGX SuperPod AI infrastructure."
     publishedDateTime: 2023-12-11T01:11:00Z

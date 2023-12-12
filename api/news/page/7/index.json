@@ -2,6 +2,74 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-12-05-join-llama-legion-earths-elite-soldiers-in-training.md",
+      "title": "Join Llama legion – Earth's elite soldiers in training",
+      "excerpt": "Llama Land, a blockchain-based game on the BSC chain, offers a relaxing universe where players are rewarded for their engagement, featuring contests, summoning, trading, and llama army-building to def",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/press-releases/join-llama-legion-earths-elite-soldiers-in-training",
+      "originalUrl": "https://cointelegraph.com/press-releases/join-llama-legion-earths-elite-soldiers-in-training",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-05T10:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-05-marylands-new-artificial-intelligence-advisor-starts-as-legislator-calls-for-privacy-law.md",
+      "title": "Maryland’s new Artificial Intelligence advisor starts as legislator calls for privacy law",
+      "excerpt": "A veteran in the field of artificial intelligence over parts of four decades pointed to several everyday uses of the technology already — from use in Apple’s Siri voice recognition system to GPS navigation systems, even to robotic vacuum cleaners like ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/state/2023/12/05/maryland-is-at-starting-line-artificial-intelligence-advisor-says/71765907007/",
+      "originalUrl": "https://www.usatoday.com/story/news/state/2023/12/05/maryland-is-at-starting-line-artificial-intelligence-advisor-says/71765907007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-05T09:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-05-alto-hits-a-high-note-with-ai-driven-depression-therapy.md",
       "title": "Alto hits a high note with AI-driven depression therapy",
       "excerpt": "Alto has previously reported encouraging results with its biomarker-based ‘precision psychiatry’ approach with ALTO-100, a drug targeting brain-derived neurotrophic factor (BDNF), in two trials involving patients with post-traumatic stress disorder as well as MDD.",
@@ -943,101 +1011,6 @@
         "name": "CRN",
         "domain": "crn.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-small-but-mighty-small-language-models-breakthroughs-in-the-era-of-dominant-large-language-models.md",
-      "title": "Small But Mighty: Small Language Models Breakthroughs in the Era of Dominant Large Language Models",
-      "excerpt": "Explore the revolution of Small Language Models, efficient, cost-effective AI alternatives challenging dominant Large Language Models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.unite.ai/small-but-mighty-small-language-models-breakthroughs-in-the-era-of-dominant-large-language-models/",
-      "originalUrl": "https://www.unite.ai/small-but-mighty-small-language-models-breakthroughs-in-the-era-of-dominant-large-language-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.unite.ai/wp-content/uploads/2023/12/SLMs-1000x600.png",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T18:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "unite",
-        "domain": "unite.ai",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-aws-reinvent-2023-7-takeaways-from-the-big-annual-event.md",
-      "title": "AWS re:Invent 2023: 7 Takeaways from the big annual event",
-      "excerpt": "At the AWS re:Invent conference last week, the spotlight was focused on artificial intelligence, with the new generative AI assistant, Amazon Q, debuting as the star of the show. But there was ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3711385/aws-re-invent-2023-7-takeaways-from-the-big-annual-event.html",
-      "originalUrl": "https://www.infoworld.com/article/3711385/aws-re-invent-2023-7-takeaways-from-the-big-annual-event.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/10/28/14/aws-logo-100933983-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3711385/aws-re-invent-2023-7-takeaways-from-the-big-annual-event.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711385/aws-re-invent-2023-7-takeaways-from-the-big-annual-event.amp.html",
-      "publishedDateTime": "2023-12-04T17:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

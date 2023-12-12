@@ -7,7 +7,7 @@ originalUrl: "https://newatlas.com/computers/hybrid-brain-organoid-computing/"
 webUrl: "https://newatlas.com/computers/hybrid-brain-organoid-computing/"
 type: article
 quality: 84
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -38,6 +38,15 @@ related:
       name: GEN
       domain: genengnews.com
     quality: 34
+  - title: "A ‘brain organoid’ biochip displayed serious voice recognition and math skills"
+    excerpt: "After connecting the organoid to a silicon chip, the new biocomputer (dubbed “Brainoware”) was quickly trained to accurately recognize speech patterns, as well as perform certain complex math predictions."
+    publishedDateTime: 2023-12-12T19:35:00Z
+    webUrl: "https://www.popsci.com/technology/brainoware-brain-organoid-chip/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 32
 
 secured: "Kvhq9HpeyvQXCn9CunsWM8GWAjsrn+KutTuKLlFgS9wi8qJrW3vVKkllyWRc9MmxpsXn6KwxS1kcZMnwDPk2B26M7KurHciUwDTLwE9762zbqxmKWz3LaaMED8QcSc7zTnEFw6eww7glIGwzTGmCdxYZsjeH5tBU9kRxQsS6oja55IlAK4SUtA7qcnPTpO3oBohD7B69Z7oiRlkoKXKbuWhXNs7Q8uPWg327UNyk6grcFXouRC9ebnf8EUCC9QdRASBDz7rn3jT8i+90NMnpFT2POdy7LfWKz0yQM7/X7/oPJPvk+Ulu5ewQP1LEFyp7QE+8X5Giyz2x+mkg0Y/ybUn/MYgMNEes0Cjfcm0/AoHhG2aU3xosFmYy6OAUooewH8flRZQuHO/KhlV2nto8PamW9iRxJ1YLKx4UbZYl6wPTPGyO0LQp8ZHvA8PbcgTWqzy1blFbZj+DVmNh8i2qzMvYaUbNsI8clyRZPlDpqF6q4G3WzFpk5xObkiZX3SGCzp06KmfAc3CD4NpxkKLnQg==;5RJrZuqwwt4U0zp2AhUuOg=="
 ---

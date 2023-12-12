@@ -20,6 +20,15 @@ topics:
   - AI in Healthcare
 
 related:
+  - title: "Artificial Intelligence in Healthcare: 3 Stocks Transforming the Industry"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence is being applied across the healthcare sector to"
+    publishedDateTime: 2023-12-11T13:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-3-stocks-transforming-the-industry-1032889408"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
   - title: "Revolutionizing Healthcare: Exploring the AI Advancements Discussed at the Medicine Conference 2024"
     excerpt: "Welcome to our blog, where we delve into the mind-blowing realm of healthcare revolution! Today, we transport you to the captivating world of Medicine Conference 2024, where groundbreaking advancements in artificial intelligence (AI) are pushing the limits of what is possible."
     publishedDateTime: 2023-12-12T18:37:00Z
@@ -48,15 +57,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "The Evolution of Artificial Intelligence Software: From Basics to Breakthroughs"
-    excerpt: "Introduction: Artificial Intelligence (AI) software has emerged as a transformative force, revolutionizing industries and shaping the future of technology. Starting from its humble beginnings, the evolution of AI software has been marked by constant innovation and remarkable advancements."
-    publishedDateTime: 2023-12-09T16:37:00Z
-    webUrl: "https://techbullion.com/the-evolution-of-artificial-intelligence-software-from-basics-to-breakthroughs/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 15
 
 secured: "axHWXSiY+sgTOC+p870cHlbsK77JIKPQJS8dLADbAth3woJ4Sz9dHJ/9m2B1YSud40adB/+kq02pv3usAK9DvJBcclJKSdpkvvOzuSg6T+LrY59vzxVqmxTQUvYdFvAm/jJ17OC1Pcnw1NkihaqpPlRANaNGD2b/4ZNQDtrI9FIh+GbQ8T43SkspYR+1X5b8V5mjomDUE5MeP2LqRGiFp5K4/DXqH4fhtnbaufxVl/HkUUNX7G0tptEGAFRSYSKD1OjJNmwKQ36QHQveFheMC6dfdFx7IaXSxLfGZ7orjYvZbfT8c4/du9fv3RHATzRw8jSdJdrazyAu7a60tK/awkXAeNiXEbDn3/tYbsaOPT/GmNoiO3MvGjAYuDpvaQ+3gobZOg+9G8xV8PXPx7eRdoG/h+EVermJWnaERdYg6ZmrtDyQ3GYW7nu+yMh7JR3CvgemCjvv8Wj++KgoxtnvpYhT+dy2inr6QOggm9pa1hVA1pWC2Z6AcRGber7dEQ1D19lcu3OzICzDRfKolNpjWQ==;IE5dWbJr9H/GfJPNi3Or1A=="
 ---

@@ -143,6 +143,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cross-Campus Approaches to Building a Generative AI Policy"
+    excerpt: "Particularly for new technologies that disrupt long-standing practices and cultural beliefs, the work of carefully and intentionally developing effect"
+    publishedDateTime: 2023-12-12T20:42:00Z
+    webUrl: "https://er.educause.edu/articles/2023/12/cross-campus-approaches-to-building-a-generative-ai-policy"
+    type: article
+    provider:
+      name: er.educause.edu
+      domain: educause.edu
+    quality: 19
   - title: "How generative artificial intelligence will change Ohio’s workforce"
     excerpt: "McKinsey has estimated that, accelerated by gen AI, up to 30% of current hours worked in the United States could be automated by 2030, requiring 12 million job shifts."
     publishedDateTime: 2023-12-11T05:00:00Z
