@@ -7,7 +7,7 @@ originalUrl: "https://www.androidauthority.com/chatgpt-lazy-3393196/"
 webUrl: "https://www.androidauthority.com/chatgpt-lazy-3393196/"
 type: article
 quality: 75
-heat: 97
+heat: 95
 published: true
 
 provider:

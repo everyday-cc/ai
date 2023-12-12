@@ -1,10 +1,10 @@
 ---
 category: news
 title: "UI researchers working to make speech-recognition technology more accessible"
-excerpt: "Mark Hasegawa-Johnson is a professor in the Beckman Institute at the University of Illinois. Marie Moore Channel is an Associate Professor in the University of Illinois Department of Speech and ..."
+excerpt: "Marie Moore Channel is an Associate Professor in the University of Illinois Department of Speech and Hearing Science. Laura Mattie is an Associate Professor in the University of Illinois ..."
 publishedDateTime: 2023-11-29T23:59:00Z
-originalUrl: "https://www.news-gazette.com/newsletter/content/daily_headlines/ui-researchers-working-to-make-speech-recognition-technology-more-accessible/article_33895dfe-9dce-5860-9484-85a6a35def32.html"
-webUrl: "https://www.news-gazette.com/newsletter/content/daily_headlines/ui-researchers-working-to-make-speech-recognition-technology-more-accessible/article_33895dfe-9dce-5860-9484-85a6a35def32.html"
+originalUrl: "https://www.news-gazette.com/news/local/university-illinois/ui-researchers-working-to-make-speech-recognition-technology-more-accessible/article_f334c713-0d8b-5ecf-a2fd-4e3d3b077888.html"
+webUrl: "https://www.news-gazette.com/news/local/university-illinois/ui-researchers-working-to-make-speech-recognition-technology-more-accessible/article_f334c713-0d8b-5ecf-a2fd-4e3d3b077888.html"
 type: article
 
 provider:
@@ -16,11 +16,11 @@ topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/news-gazette.com/content/tncms/assets/v3/editorial/f/12/f12a49c0-a3c7-559d-9f19-f2c8c0a81566/6568084b8801a.image.jpg?crop=1178%2C618%2C0%2C570&resize=1178%2C618&order=crop%2Cresize"
-    width: 1178
-    height: 618
+  - url: "https://bloximages.newyork1.vip.townnews.com/news-gazette.com/content/tncms/assets/v3/editorial/2/a5/2a5d3a43-7696-5e31-9da8-77d6a87a4477/6568084b618e3.image.jpg?resize=500%2C500"
+    width: 500
+    height: 500
     isCached: true
 
-secured: "bbwruMgEi+wkHP/h+v7FoDuxhmUtQ7RixPEWDHi6wPCN0bMmCu94CSjA3IULNnmj0+Kh1mv9LvcucKTBAW6rs88tGHqRnpHpj4TjwVJaGo/JEkDPjLcqu9TCRm+5nQSDl60wtKTW4gw1JuKJ9dIvtHoAf6VBBzsaxSKRUozvIlBtQfuN8jOMnnBT1bNL9rLDSOs+9xnz2kw8cYKCCiOjoW+knUTaqgsXnuR4aeN2YuctBToP0hJttCUrCebImdS62WPBn58x6OxlCPJ9kSKA4nvsp7QaYqtIRQDh2l8TiURtS4x+qCvt0+m205TBTmu/5FIbUUVRzwEha6Bh7dkSkf4YSkIRgHrPNfgUDB2s9xI=;edukFPnaVBzt4ssIR6AdEw=="
+secured: "wMs6BkxndsTbAcivGjxWofTBc9Fh1D0A/TldX/RV/lmjdmU/g1ej5TOwd55HsBfCJjPeZWxnWm6IneEWS3kuuLOn9m6V7NiEXHr7uZJAJQ04kgaHlSgcAbODBy3+6S/5kKiQFPeIv/xt8NdWZdVFQB1tRciqq8YMqlr26814LioDXeYudIvMDVoJgGUzst7mVIVZVZdPHVd5mF9Pv3euA20tZZcO9bmhYEDO4sJqdvvqdNyN47FFr5sjhvCZiDCQJltDLCQHNY73BiCGaiWFJ2Ib6IGnzJezqBCLMtek5eHdTn3e1G2OLIXoRY6N62rfUHGMPhNUh5am1DjDHY3HYYprUc7MKMeGExn9LLcwjtE=;sgoOAJdv/5ipAadd0UDYXg=="
 ---
 

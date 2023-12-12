@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-11-15-nvidia-unveils-new-gpu-based-platform-to-fuel-generative-ai-performance.md",
+      "title": "Nvidia unveils new GPU-based platform to fuel generative AI performance",
+      "excerpt": "The new Nvidia HGX H200 has been designed to support the high performance computing workloads required to train generative AI models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.networkworld.com/article/1247056/nvidia-unveils-new-gpu-based-platform-to-fuel-generative-ai-performance.html",
+      "originalUrl": "https://www.networkworld.com/article/1247056/nvidia-unveils-new-gpu-based-platform-to-fuel-generative-ai-performance.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T20:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-14-nvidia-announces-new-h200-gpu-for-high-speed-data-processing-and-ai-model-training.md",
       "title": "Nvidia Announces New H200 GPU for High-Speed Data Processing and AI Model Training",
       "excerpt": "Nvidia has unveiled the H200 chips, which is a significant improvement from H100, and is expected to be available from Q2 2024.",
@@ -1249,40 +1283,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-11-01T00:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-nvidias-next-gen-b100-blackwell-ai-gpus-hit-supply-chain-certification-stage.md",
-      "title": "NVIDIA's next-gen B100 'Blackwell' AI GPUs hit supply chain certification stage",
-      "excerpt": "NVIDIA's next-gen Blackwell B100 AI GPUs have entered the supply chain certification stage, with NVIDIA working with supply chain partners now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/94117/nvidias-next-gen-b100-blackwell-ai-gpus-hit-supply-chain-certification-stage/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/94117/nvidias-next-gen-b100-blackwell-ai-gpus-hit-supply-chain-certification-stage/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T00:14:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "TweakTown",

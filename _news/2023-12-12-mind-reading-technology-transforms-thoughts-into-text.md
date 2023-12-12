@@ -7,7 +7,7 @@ originalUrl: "https://www.earth.com/news/mind-reading-technology-transforms-thou
 webUrl: "https://www.earth.com/news/mind-reading-technology-transforms-thoughts-into-text/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Voice Command Technology: Teaching Dogs New Age Tricks in the Digital Era"
-    excerpt: "Introduction Innovations continue to shape our daily lives in unexpected ways. One such advancement that has captured the attention of pet enthusiasts and tech-savvy individuals alike is voice command technology for dogs."
-    publishedDateTime: 2023-12-08T11:46:00Z
-    webUrl: "https://techbullion.com/voice-command-technology-teaching-dogs-new-age-tricks-in-the-digital-era/"
+  - title: "AI-Powered System Turns Thoughts Into Text"
+    excerpt: "In a world-first, researchers have developed a non-invasive, AI-powered system that can decode thought into text, potentially enabling seamless communication between humans and machines."
+    publishedDateTime: 2023-12-12T10:37:00Z
+    webUrl: "https://www.technologynetworks.com/neuroscience/news/ai-powered-system-turns-thoughts-into-text-381934"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 23
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 39
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/Voice-Command-Technology-Teaching-Dogs-New-Age-Tricks-in-the-Digital-Era-1.jpg"
-        width: 600
-        height: 450
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/381934/ai-powered-system-turns-thoughts-into-text-381934-640x360.jpg?cb=20231212"
+        width: 640
+        height: 360
         isCached: true
   - title: "Portable, non-invasive, mind-reading AI turns thoughts into text (w/video)"
     excerpt: "“It is the first to incorporate discrete encoding techniques in the brain-to-text translation process, introducing an innovative approach to neural decoding. The integration with large language models is also opening new frontiers in neuroscience and AI ..."

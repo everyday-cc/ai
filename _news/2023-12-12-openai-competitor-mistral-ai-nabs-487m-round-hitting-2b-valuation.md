@@ -38,20 +38,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Microsoft is distancing itself from OpenAI chaos by assuring investors it's spreading its AI bets"
-    excerpt: "Recent chaos at OpenAI created unease among developers and other businesses that have come to rely on the startup's AI platform."
-    publishedDateTime: 2023-12-07T22:44:00Z
-    webUrl: "https://www.businessinsider.com/microsoft-distancing-itself-from-openai-spreading-ai-bets-2023-12"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 71
-    images:
-      - url: "https://i.insider.com/65723e0e58e7c0c29a2ad896?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "OpenAI’s Rival Mistral AI Valued at $2B after Latest Funding Round"
     excerpt: "OpenAI's rival Mistral AI is now valued at $2 billion after its latest funding round where it pulled $415 million from investors."
     publishedDateTime: 2023-12-11T17:39:00Z

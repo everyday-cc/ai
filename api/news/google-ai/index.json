@@ -63,7 +63,7 @@
       "originalUrl": "https://deepmind.google/discover/blog/google-deepmind-at-neurips-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -253,6 +253,50 @@
         "Google AI",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-04-google-bard-director-talks-usage-ethics-and-competitive-advantage.md",
+      "title": "Google Bard Director Talks Usage, Ethics, And Competitive Advantage",
+      "excerpt": "In an exclusive interview, the Director of Product Management for Google Bard discusses usage, ethical challenges, and synergy with Search. Google created Bard primarily to assist with creative ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.searchenginejournal.com/google-bard-director-talks-usage-ethics-and-competitive-advantage/502965/",
+      "originalUrl": "https://www.searchenginejournal.com/google-bard-director-talks-usage-ethics-and-competitive-advantage/502965/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.searchenginejournal.com/wp-content/uploads/2023/12/google-bard-director-interview-656e427053e80-sej.jpg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Searchenginejournal.com",
+        "domain": "searchenginejournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -740,6 +784,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-29-google-bard-lead-debunks-natural-fear-of-ais-development-computers-do-things-with-you.md",
+      "title": "Google Bard lead debunks ‘natural fear’ of AI's development: 'Computers do things with you’",
+      "excerpt": "Jack Krawczyk discusses how Google Bard helps users connect and communicate — and what the future holds for the platform. The emergence of artificial intelligence has sparked a fear of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxbusiness.com/lifestyle/google-bard-lead-debunks-natural-fear-ai-development-computers.amp",
+      "originalUrl": "https://www.foxbusiness.com/lifestyle/google-bard-lead-debunks-natural-fear-ai-development-computers.amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b44ce7d5-cfbe-4b86-bdc0-5bd5d6ded0a0/b5cacac1-0706-41cb-bf48-d1d5f0bfb8b5/1280x720/match/image.jpg?pubId=854081161001",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxbusiness.com/lifestyle/google-bard-lead-debunks-natural-fear-ai-development-computers.amp",
+      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/lifestyle/google-bard-lead-debunks-natural-fear-ai-development-computers.amp",
+      "publishedDateTime": "2023-11-29T15:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1345,74 +1432,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-google-deepminds-weather-ai-can-forecast-extreme-weather-faster-and-more-accurately.md",
-      "title": "Google DeepMind’s weather AI can forecast extreme weather faster and more accurately",
-      "excerpt": "It said Hurricane Lee would make landfall in Nova Scotia three days sooner than traditional methods predicted.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/11/14/1083366/google-deepminds-weather-ai-can-forecast-extreme-weather-quicker-and-more-accurately/",
-      "originalUrl": "https://www.technologyreview.com/2023/11/14/1083366/google-deepminds-weather-ai-can-forecast-extreme-weather-quicker-and-more-accurately/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-deepmind-ai-accurately-forecasts-weather-on-a-desktop-computer.md",
-      "title": "DeepMind AI accurately forecasts weather — on a desktop computer",
-      "excerpt": "The machine-learning model takes less than a minute to predict future weather worldwide more precisely than other approaches.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/d41586-023-03552-y",
-      "originalUrl": "https://www.nature.com/articles/d41586-023-03552-y",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

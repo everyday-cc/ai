@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/voice-command-technology-teaching-dogs-new
 webUrl: "https://techbullion.com/voice-command-technology-teaching-dogs-new-age-tricks-in-the-digital-era/"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -25,29 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Mind-reading technology transforms thoughts into text"
-    excerpt: "In an unprecedented scientific achievement, experts have developed a system that is capable of reading human thoughts and converting them into text. The technology was designed by the GrapheneX-UTS Human-centric Artificial Intelligence Centre at the University of Technology Sydney (UTS)."
-    publishedDateTime: 2023-12-12T00:25:00Z
-    webUrl: "https://www.earth.com/news/mind-reading-technology-transforms-thoughts-into-text/"
+  - title: "Beyond the Face Unlock: Exploring the Frontiers of Face ID Checks in the Digital Ecosystem"
+    excerpt: "In the rapidly advancing digital age, where security and convenience converge, Face ID checks have emerged as a beacon of innovation. This groundbreaking technology, driven by facial recognition algorithms,"
+    publishedDateTime: 2023-12-08T19:07:00Z
+    webUrl: "https://techbullion.com/beyond-the-face-unlock-exploring-the-frontiers-of-face-id-checks-in-the-digital-ecosystem/"
     type: article
     provider:
-      name: earth
-      domain: earth.com
-    quality: 24
+      name: Impacts
+      domain: techbullion.com
+    quality: 14
     images:
-      - url: "https://cff2.earth.com/uploads/2023/12/11171532/Mind-reading-technology-scaled.jpg"
-        width: 2560
-        height: 1707
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/Face-ID-Check-1.jpg"
+        width: 612
+        height: 407
         isCached: true
-  - title: "Portable, non-invasive, mind-reading AI turns thoughts into text (w/video)"
-    excerpt: "“It is the first to incorporate discrete encoding techniques in the brain-to-text translation process, introducing an innovative approach to neural decoding. The integration with large language models is also opening new frontiers in neuroscience and AI ..."
-    publishedDateTime: 2023-12-12T00:00:00Z
-    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=64235.php"
-    type: article
-    provider:
-      name: Nanowerk
-      domain: nanowerk.com
-    quality: 17
 
 secured: "hjhTRUFqctQrtfM2Y9+tsc/UjM6Qn3lQjLyPLTolbiwqDQo1Wg7rh1Hm3KzjQ6nSHgd8/D2jA7g28MhNqiEOXO5d78beQDg1TvnQ3Yiu99J4orTIpNeL3cvx9+/qMHEKFRzUi7zccJq5OtuVm11p+XcgbjlINxYSezud1gV+oRrJP3M7sfqHXIwyButdgG7vY5VQ2wK3wKhAiiM1+CQIqN9kZnMne2S3sWcYV59CmvnJ5QGtgrgpldh3C3AR7ujIxWXjy4P0ZRd6nBedPbdduuG2XgWCeBjomAU/5VB0dJdHHEN8slFYFuIpb545n9mURe6Fc2u5OJmGw+jO3ryX57yq2Fprbplq/eJjPxsGW4ScQXHhkHmx7t03Jf+OvmBdsnET5ErGehh/3seyj2LDdfaBAYTce/rpIPGU3jeRZ361QY++DlfvzXzd9OSHmsxM6Vs8n1uDHLGqqKbSrt3Gf2hPuA1D41P8sUI24Fj9CSfKsWx6w0Cw5Ih+lKOrAvJTKe4RbLIQrg18xYaYVbjZug==;6oTsEPtQ9HconhZdzyHGnQ=="
 ---

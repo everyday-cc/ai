@@ -23,22 +23,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Accelerating cloud native development in Microsoft Azure"
-    excerpt: "From GPU support to reference implementations, the latest updates to Azure Container Apps combine Microsoft’s commitment to developer productivity with its latest AI development tools."
-    publishedDateTime: 2023-12-07T10:03:00Z
-    webUrl: "https://www.infoworld.com/article/3711407/accelerating-cloud-native-development-in-microsoft-azure.html"
-    ampWebUrl: "https://www.infoworld.com/article/3711407/accelerating-cloud-native-development-in-microsoft-azure.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711407/accelerating-cloud-native-development-in-microsoft-azure.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 104
-    images:
-      - url: "https://images.techhive.com/images/article/2014/03/147256163-100250158-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Microsoft exec hints at new LLMs beyond OpenAI’s"
     excerpt: "In a wide ranging interview about enterprise readiness for generative AI, Eric Boyd asserts that Microsoft plans to stay competitive on the choice front. He said the company's generative AI applications and the LLMs that power them,"
     publishedDateTime: 2023-12-08T04:05:00Z
@@ -69,6 +53,20 @@ related:
         width: 1440
         height: 500
         isCached: true
+  - title: "Microsoft is distancing itself from OpenAI chaos by assuring investors it's spreading its AI bets"
+    excerpt: "Recent chaos at OpenAI created unease among developers and other businesses that have come to rely on the startup's AI platform."
+    publishedDateTime: 2023-12-07T22:44:00Z
+    webUrl: "https://www.businessinsider.com/microsoft-distancing-itself-from-openai-spreading-ai-bets-2023-12"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 71
+    images:
+      - url: "https://i.insider.com/65723e0e58e7c0c29a2ad896?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Microsoft Agrees to Union Contract Terms Governing Its Use of AI"
     excerpt: "Microsoft Corp. has agreed to union contract language governing its use of artificial intelligence, creating an avenue for workers to challenge how it deploys the evolving technology."
     publishedDateTime: 2023-12-11T11:59:00Z
@@ -78,34 +76,17 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 64
-  - title: "Google Crushes Microsoft's AI Monopoly"
-    excerpt: "Gemini's release challenges Microsoft's monopoly on AI and could drive Google's projected EPS figures higher. Learn why I rate GOOG stock a hold."
-    publishedDateTime: 2023-12-07T09:34:00Z
-    webUrl: "https://seekingalpha.com/article/4656824-google-crushes-microsofts-ai-monopoly"
+  - title: "Microsoft’s Answer to OpenAI Inquiry: Doesn't Own Stake; Link not same as Google and DeepMind"
+    excerpt: "With global regulators examining Microsoft Corp.'s $13 billion investment in OpenAI, the software giant has a simple argument it hopes will resonate with antitrust officials: It doesn't own a traditional stake in the buzzy startup so can't be said to control it."
+    publishedDateTime: 2023-12-09T18:27:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/microsofts-answer-to-openai-inquiry-doesnt-own-stake-link-not-same-as-google-and-deepmind-71702102228046.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/microsofts-answer-to-openai-inquiry-doesnt-own-stake-link-not-same-as-google-and-deepmind-71702102228046.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/microsofts-answer-to-openai-inquiry-doesnt-own-stake-link-not-same-as-google-and-deepmind-71702102228046.html"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 54
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/532150054/image_532150054.jpg?io=getty-c-w1536"
-        width: 1536
-        height: 1050
-        isCached: true
-  - title: "Microsoft Announces Git Partial Clone Support in Azure DevOps"
-    excerpt: "Azure DevOps has recently extended support for Git Partial Clone to all its users. Partial clones represent a streamlined version of git clones initiated through specific command line arguments. Repositories that employ partial clones have demonstrated an average reduction of 88."
-    publishedDateTime: 2023-12-10T15:33:00Z
-    webUrl: "https://www.infoq.com/news/2023/12/git-partial-clone-azure-devops/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 54
-    images:
-      - url: "https://res.infoq.com/news/2023/12/git-partial-clone-azure-devops/en/headerimage/generatedHeaderImage-1702179442226.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 60
   - title: "Microsoft and labor unions form ‘historic’ alliance on AI"
     excerpt: "Microsoft is teaming up with labor unions to create 'an open dialogue' on how artificial intelligence will affect workers."
     publishedDateTime: 2023-12-11T17:51:00Z
@@ -119,20 +100,6 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/c303384/2147483647/strip/true/crop/2000x1050+0+218/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd9%2Fc8%2F51d3b04f402cbe775fac74266e80%2Fmicrosoft-openai-75424.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Microsoft Believes Indian Tech Firms Will Play A Key Role In AI Development, Adoption Globally"
-    excerpt: "The world's largest vendor of computer software, Microsoft is working with India's IT and ITeS companies in multiple markets to facilitate AI implementation."
-    publishedDateTime: 2023-12-12T06:46:00Z
-    webUrl: "https://www.ibtimes.co.uk/microsoft-believes-indian-tech-firms-will-play-key-role-ai-development-adoption-globally-1722131"
-    type: article
-    provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 42
-    images:
-      - url: "https://d.ibtimes.co.uk/en/full/1717954/microsoft.jpg"
-        width: 2048
-        height: 1365
         isCached: true
 
 secured: "8HPTiJutdrgzPAyYQk9/l0yUbIbRONIpdK5k65vnNJfvEL/xaTU+grT+ecuyfQIRMsAZyMZMKs9jpLF2Y9iLwywddo9mqChl+O2C2KQ0lQkmxyiaAfJKDhViVublfS33ZdtJy5UvFe1EjPLyDpBnr8CliQj8CshcWAaB1rZD66y3M/+Wlzy3/jrevnZcFvidJQJqaYCwxCPo+wcB9G5PlHM9lzh1zarl8kZLe1utRAg0HdpmbwgPIBD2k3ziRKQis6rmfeB0mKAKUeuODR1vFtUvvG2OxKT6kzLDOCdRGIPZ/eKIBXUSF2G+BZw+ZVaREIetD+eioz+exA1tLveaAMZz+5wbgTscX+eyXaU9fNJyQ7uUgifSD66awa3Nm74S87e3HJ5QMtx5ZSGmqh32XuGjddNZcu5W6tcLQWaGtCsPR1JEDH1DuBuyP2lltSDVNUG82Al1MbTf8HXNuFbtDRrE3IkE8sH9HyQq6GEPbf1JsxvVQXrRLTkTnfyNgE1orh9dwKPBNq0JBUwKGgM4RA==;zNACx1G0V0MWeoxQOJjFKg=="

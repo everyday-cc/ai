@@ -61,6 +61,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "China chip firms vie to take sales from Nvidia"
+    excerpt: "Chinese chip designers including Tencent Holdings are aggressively pitching their AI chips as alternatives to Nvidia's, hoping U.S. export restrictions will prompt clients to switch, said four people familiar with such discussions. Julian Satterthwaite reports."
+    publishedDateTime: 2023-12-12T10:56:00Z
+    webUrl: "https://www.reuters.com/video/watch/idRW515412122023RP1?ref=upstract.com"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 86
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20231212&i=RW515412122023RP1&r=RW515412122023RP1&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "AMD now sees a $400 billion market for AI chips. Why that's good news for Nvidia"
     excerpt: "Advanced Micro Devices has jacked up its market forecast for artificial intelligence chips to an eye-popping $400 billion by 2027. The chipmaker is sure to see its slice of that pie grow in the coming years, but the industry’s dominant player, Nvidia, is well-positioned to handle the emergent competition."
     publishedDateTime: 2023-12-08T09:01:00Z
@@ -195,6 +209,20 @@ related:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
     quality: 51
+  - title: "Nvidia chucking money at AI"
+    excerpt: "Nvidia has become one of the most prolific investors in AI start-ups this year as it tries to capitalise on its position as the dominant provider of AI processors. The chipmaker announced that it has invested in \"more than two dozen\" companies this year ..."
+    publishedDateTime: 2023-12-12T00:00:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/58094-nvidia-chucking-money-at-ai"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 37
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/e419c901bd7c1e26d7fe2d7de998fa93_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
   - title: "AMD AI Chip Challenges Nvidia’s H100 as Rivalry Enters New Era"
     excerpt: "AMD's new MI300X AI chipset, coupled with the ROCm6 software, is set to compete with the Nvidia H100 as their GPU rivalry enters a new era."
     publishedDateTime: 2023-12-07T14:30:00Z

@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-11-11-ai-makes-you-worse-at-what-youre-good-at.md",
+      "title": "AI makes you worse at what you’re good at",
+      "excerpt": "I know, this happens every damn week: I start with the intention of writing this newsletter without going up to my eyelashes into the AI morass, and every week, y’all keep reading our AI news as if your livelihood depends on it. Because, well ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/11/10/ai-makes-you-worse-at-what-youre-good-at/",
+      "originalUrl": "https://techcrunch.com/2023/11/10/ai-makes-you-worse-at-what-youre-good-at/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-648822953.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/11/10/ai-makes-you-worse-at-what-youre-good-at/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/10/ai-makes-you-worse-at-what-youre-good-at/amp/",
+      "publishedDateTime": "2023-11-10T20:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-11-microsoft-celebrates-cognitive-services-milestones-with-new-ai-capabilities.md",
       "title": "Microsoft celebrates Cognitive Services milestones with new AI capabilities",
       "excerpt": "Value stream management involves people in the organization to examine workflows and other processes to ensure they are deriving the maximum value from their efforts while eliminating waste — of ...",
@@ -1312,49 +1364,6 @@
         "name": "Inferse",
         "domain": "inferse.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-dell-and-meta-partner-to-bring-llama-2-open-source-ai-to-enterprise-users-on-premises.md",
-      "title": "Dell and Meta partner to bring Llama 2 open source AI to enterprise users on-premises",
-      "excerpt": "Dell is adding support for Meta Llama 2 models to its lineup of Dell Validated Design for Generative AI hardware.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/dell-and-meta-partner-to-bring-llama-2-open-source-ai-to-enterprise-users-on-premises/",
-      "originalUrl": "https://venturebeat.com/ai/dell-and-meta-partner-to-bring-llama-2-open-source-ai-to-enterprise-users-on-premises/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T20:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

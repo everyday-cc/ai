@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/brianuzzi/2023/12/07/not-sure-where-to-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brianuzzi/2023/12/07/not-sure-where-to-start-with-your-ai-strategy-here-are-3-steps/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 90
 published: true
 
 provider:

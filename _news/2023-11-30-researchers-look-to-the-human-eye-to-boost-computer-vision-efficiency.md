@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Researchers look to the human eye to boost computer vision efficiency"
-excerpt: "“In a normal computer vision system, you create a signal, then you have to transfer the data from memory to processing and back to memory; it takes a lot of time and energy to do that,” Chen said. “Our device has integrated functions of light perception, light to electric signal transformation, and on-site memory and data processing.”"
-publishedDateTime: 2023-11-29T16:19:00Z
-originalUrl: "https://www.purdue.edu/newsroom/releases/2023/Q4/researchers-look-to-the-human-eye-to-boost-computer-vision-efficiency.html"
-webUrl: "https://www.purdue.edu/newsroom/releases/2023/Q4/researchers-look-to-the-human-eye-to-boost-computer-vision-efficiency.html"
+excerpt: "Conventional silicon architecture has taken computer vision a long way, but Purdue University researchers are developing an alternative path—taking a cue from nature—that they say is the foundation of an artificial retina."
+publishedDateTime: 2023-11-29T17:28:00Z
+originalUrl: "https://techxplore.com/news/2023-11-human-eye-boost-vision-efficiency.html"
+webUrl: "https://techxplore.com/news/2023-11-human-eye-boost-vision-efficiency.html"
+ampWebUrl: "https://techxplore.com/news/2023-11-human-eye-boost-vision-efficiency.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-11-human-eye-boost-vision-efficiency.amp"
 type: article
 
 provider:
-  name: Purdue University
-  domain: purdue.edu
+  name: techxplore
+  domain: techxplore.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.purdue.edu/uns/images/2023/mei-chenlabOG.jpg"
-    width: 800
-    height: 400
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/researchers-look-to-th.jpg"
+    width: 1815
+    height: 1581
     isCached: true
 
-secured: "94lnIcvs6YzGkUiSNCfNz6TGZab/wqCKTvFGYWvho9jF9oYV2/6NavBfEymh77dYT1ZIcevrhXukgU7UfuyXk3wIhg76pAmoYvctljsWs0X+KbeeMhaImvnuABDoI9YPZGuFdw0yvcmrCrLep2RNILznCM9SweWex3QlD1eYPrH1DHYQfxhmgdGMm1K7VlPjKysKPwT3CZXFRV/5DqNGoaeio2ZUQYranFLyc9GP/rIDQC9OebjuU/vBMWom5txeDTyla68pZhAhNYMkInSvdsM03DjjWD8j5d42zRnCKtmhlqW02PEcGXWNLJPTKXwMrvH6smywOFDUM7PdvzjOrKk4iJXYtxmaGC6k/psWBK4=;3hYgFIgxSW0keGI/ORNaKA=="
+secured: "h7P3g6UrQQZtLGbLwEHIA/bi0XIlj/o/U+R14HE/HxvmKkO2+ba1YQ/z2kvB+Sq/UsZeOGcC7Ol+qw7najFyro29UlTy56j8LvO60aiXCEkXgJUVBE9oEXTKVFvUCr0MbJq/FrzJUZSYgYkYh8jKXBezI3UHUGvQDjEMfdppuBE3gJLctaPX3HnkhWEBAZN1xdwKdVtLf8KC87j0ncwvJAzcKGc3mNp0TgtGbK92gMSCthXWP5LNN96XVf5JhL2zw3B2FB095ocxxz98QVzH+2pWPKZJaA/kSaq8Orjob5pEkizr/HYGcKstoW8BxNbGUO7x5ChVcaiLn4qNHPZUPiuILkkqBJhBRbA/cmuLjuc=;NQ0lHPevYOSfXbbaZcTW5Q=="
 ---
 

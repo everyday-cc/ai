@@ -2,6 +2,212 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2023-11-14-mufg-inks-multiyear-global-agreement-with-aws-to-accelerate-digital-transformation.md",
+      "title": "MUFG Inks Multiyear Global Agreement With AWS To Accelerate Digital Transformation",
+      "excerpt": "Amazon Web Services or AWS, an Amazon.com company (AMZN), announced Tuesday that Japanese financial services provider Mitsubishi UFJ",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/mufg-inks-multiyear-global-agreement-with-aws-to-accelerate-digital-transformation-1032818091",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/mufg-inks-multiyear-global-agreement-with-aws-to-accelerate-digital-transformation-1032818091",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T14:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-14-from-data-to-diagnosis-a-deep-learning-approach-to-glaucoma-detection.md",
+      "title": "From Data To Diagnosis: A Deep Learning Approach To Glaucoma Detection",
+      "excerpt": "However, using artificial intelligence (AI) and deep learning (DL) algorithms in healthcare can improve the diagnosis and screening of glaucoma. How is Artificial Intelligence Used For Diagnosis of Eye Problems? In their recent article, a team from Nanjing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/williamhaseltine/2023/11/14/from-data-to-diagnosis-a-deep-learning-approach-to-glaucoma-detection/",
+      "originalUrl": "https://www.forbes.com/sites/williamhaseltine/2023/11/14/from-data-to-diagnosis-a-deep-learning-approach-to-glaucoma-detection/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T14:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-14-whylabs-announces-strategic-collaboration-agreement-with-aws-to-accelerate-responsible-generative-ai-adoption.md",
+      "title": "WhyLabs Announces Strategic Collaboration Agreement with AWS to Accelerate Responsible Generative AI Adoption",
+      "excerpt": "WhyLabs, Inc., the AI Observability company, today announced a Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS) to help enterprises accelerate the development of AI-powered applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/whylabs-announces-strategic-collaboration-agreement-with-aws-to-accelerate-responsible-generative-ai-adoption/article_f4bb4cb7-7ebd-5c43-b4fc-811fdaa40563.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/whylabs-announces-strategic-collaboration-agreement-with-aws-to-accelerate-responsible-generative-ai-adoption/article_f4bb4cb7-7ebd-5c43-b4fc-811fdaa40563.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T14:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-14-ai-enhanced-enhanced-security-operations-solutions-startup-radiant-security-raises-15m.md",
+      "title": "AI-enhanced enhanced security operations solutions startup Radiant Security raises $15M",
+      "excerpt": "Artificial intelligence-enhanced security operations solutions startup Radiant Security Inc. today announced that it has raised $15 million in new funding for additional research and development.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/11/14/ai-enhanced-enhanced-security-operations-solutions-startup-radiant-security-raises-15m/",
+      "originalUrl": "https://siliconangle.com/2023/11/14/ai-enhanced-enhanced-security-operations-solutions-startup-radiant-security-raises-15m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/radiantsecurity.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-11-14-starting-holiday-shopping-early-use-amazons-buy-with-prime-to-score-benefits.md",
+      "title": "Starting holiday shopping early? Use Amazon's Buy with Prime to score benefits.",
+      "excerpt": "Amazon is extending its Prime benefits to users interested in shopping on a retailer's website but getting Prime benefits through an expanded program. Amazon’s Buy with Prime launched earlier ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/money/retail/2023/11/14/amazon-buy-with-prime-expands/71487256007/",
+      "originalUrl": "https://www.usatoday.com/story/money/retail/2023/11/14/amazon-buy-with-prime-expands/71487256007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-14-why-artificial-intelligence-hasnt-mastered-meditation-yet.md",
       "title": "Why Artificial Intelligence Hasn’t Mastered Meditation… Yet",
       "excerpt": "I got a solid A, thank you very much! I wrote about the dangers of unchecked development of artificial intelligence long before it was a “thing.” Nowadays, it seems not only possible, but likely, that AI will become as intelligent,",
@@ -754,203 +960,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-the-ai-revolution-in-college-admissions-balancing-efficiency-and-ethics.md",
-      "title": "The AI Revolution In College Admissions: Balancing Efficiency And Ethics",
-      "excerpt": "It's critical that colleges articulate the role of AI in making admissions decisions, ensuring that it complements rather than replaces human judgment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/avivalegatt/2023/11/13/the-ai-revolution-in-college-admissions-balancing-efficiency-and-ethics/",
-      "originalUrl": "https://www.forbes.com/sites/avivalegatt/2023/11/13/the-ai-revolution-in-college-admissions-balancing-efficiency-and-ethics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T00:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-nvidia-announces-h200-ai-gpu-up-to-141gb-of-hbm3e-memory-with-48tbsec-bandwidth.md",
-      "title": "NVIDIA announces H200 AI GPU: up to 141GB of HBM3e memory with 4.8TB/sec bandwidth",
-      "excerpt": "NVIDIA announces its new H200 Hopper GPU with the world's fastest HBM3e memory from Micron, will power the new Exaflop Jupiter supercomputer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/94339/nvidia-announces-h200-ai-gpu-up-to-141gb-of-hbm3e-memory-with-4-8tb-sec-bandwidth/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/94339/nvidia-announces-h200-ai-gpu-up-to-141gb-of-hbm3e-memory-with-4-8tb-sec-bandwidth/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T00:28:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-500-chatbots-read-the-news-and-discussed-it-on-social-media-guess-how-that-went.md",
-      "title": "500 chatbots read the news and discussed it on social media. Guess how that went.",
-      "excerpt": "In July 2020, Facebook introduced a walled ... The most intriguing potential for using AI bots to replace human subjects in scientific research lies in Smallville, a \"SimCity\"-like village ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-chatbots-less-toxic-social-networks-twitter-simulation-2023-11",
-      "originalUrl": "https://www.businessinsider.com/ai-chatbots-less-toxic-social-networks-twitter-simulation-2023-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-deepmind-ai-accurately-forecasts-weather-on-a-desktop-computer.md",
-      "title": "DeepMind AI accurately forecasts weather — on a desktop computer",
-      "excerpt": "The machine-learning model takes less than a minute to predict future weather worldwide more precisely than other approaches.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/d41586-023-03552-y",
-      "originalUrl": "https://www.nature.com/articles/d41586-023-03552-y",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-the-21-weirdest-most-hilarious-things-you-can-buy-on-amazon.md",
-      "title": "The 21 Weirdest, Most Hilarious Things You Can Buy on Amazon",
-      "excerpt": "Amazon is your go-to site for almost everything. Between the Amazon products you use every day and the perfect Amazon Prime gifts for everyone on your list, how could it not be? It’s smart ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.rd.com/list/strange-things-amazon/",
-      "originalUrl": "https://www.rd.com/list/strange-things-amazon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rd.com/wp-content/uploads/2021/06/The-21-Weirdest-Most-Hilarious-Things-You-Can-Buy-on-Amazon_FT_via-amazon.com_.jpg",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reader's Digest",
-        "domain": "rd.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

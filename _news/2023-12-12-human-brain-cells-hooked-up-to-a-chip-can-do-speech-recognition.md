@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2023/12/11/1084926/human-brain-cell
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/11/1084926/human-brain-cells-chip-organoid-speech-recognition/amp/"
 type: article
 quality: 91
-heat: 114
+heat: 115
 published: true
 
 provider:

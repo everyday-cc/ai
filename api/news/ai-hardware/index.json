@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-12-intel-working-with-vertiv-on-liquid-cooling-for-gaudi3-ai-chip.md",
+      "title": "Intel working with Vertiv on liquid cooling for Gaudi3 AI chip",
+      "excerpt": "The Intel Gaudi3 AI accelerator will enable both liquid-cooled and air-cooled servers, supported by Vertiv pumped two-phase (P2P) cooling infrastructure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/6GxRKMYQNGGMb3Wj",
+      "originalUrl": "https://www.itweb.co.za/content/6GxRKMYQNGGMb3Wj",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itweb.co.za/static/pictures/2023/12/Vertiv-Intel-2023.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/6GxRKMYQNGGMb3Wj",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/6GxRKMYQNGGMb3Wj",
+      "publishedDateTime": "2023-12-12T09:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-12-yoon-begins-dutch-state-visit-vows-enhanced-ties-in-chips-logistics-ai.md",
       "title": "Yoon begins Dutch state visit, vows enhanced ties in chips, logistics, AI",
       "excerpt": "President Yoon Suk Yeol arrived Monday in Amsterdam to forge stronger bilateral ties with the Netherlands, South Korea's emerging European trade partner in terms of logistics, artificial intelligence and semiconductor chip cooperation.",
@@ -106,7 +149,7 @@
       "originalUrl": "https://www.techrepublic.com/article/midjourney-vs-dall-e/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -202,7 +245,7 @@
       "originalUrl": "https://www.technologyreview.com/2023/12/11/1084926/human-brain-cells-chip-organoid-speech-recognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -350,7 +393,7 @@
       "originalUrl": "https://www.forbes.com/sites/greatspeculations/2023/12/08/amd-takes-the-fight-to-nvidia-with-latest-ai-chip-launch-is-the-stock-a-buy-at-116/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 307,
+      "heat": 327,
       "tags": null,
       "images": [
         {
@@ -1349,58 +1392,6 @@
         "name": "The Next Platform",
         "domain": "nextplatform.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-28-new-stable-video-diffusion-ai-model-can-animate-any-still-image.md",
-      "title": "New “Stable Video Diffusion” AI model can animate any still image",
-      "excerpt": "On Tuesday, Stability AI released Stable Video Diffusion, a new free AI research tool that can turn any still image into a short video—with mixed results. It's an open-weights preview of two AI models that use a technique called image-to-video, and it can run locally on a machine with an Nvidia GPU.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/11/stability-ai-releases-stable-video-diffusion-which-turns-pictures-into-short-videos/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/11/stability-ai-releases-stable-video-diffusion-which-turns-pictures-into-short-videos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/svd_hero_2-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/11/stability-ai-releases-stable-video-diffusion-which-turns-pictures-into-short-videos/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/11/stability-ai-releases-stable-video-diffusion-which-turns-pictures-into-short-videos/amp/",
-      "publishedDateTime": "2023-11-27T20:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
