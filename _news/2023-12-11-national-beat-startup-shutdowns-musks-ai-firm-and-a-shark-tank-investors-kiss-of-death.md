@@ -21,7 +21,7 @@ related:
   - title: "National Beat: Startup shutdowns, Musk's AI firm, and a Shark Tank investor's 'kiss of death'"
     excerpt: "Even big-name, well-funded startups have closed up shop in recent months. Convoy, a freight startup valued at almost $4 billion, shut down in October. Olive AI, another unicorn that raised $857 million in total funding, closed its doors in October as well."
     publishedDateTime: 2023-12-11T19:24:00Z
-    webUrl: "https://www.bizjournals.com/southflorida/inno/stories/news/2023/12/11/national-beat.html"
+    webUrl: "https://www.bizjournals.com/portland/inno/stories/news/2023/12/11/national-beat.html"
     type: article
     provider:
       name: The Business Journals

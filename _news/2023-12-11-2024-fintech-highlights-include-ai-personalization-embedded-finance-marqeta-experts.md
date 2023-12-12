@@ -9,8 +9,8 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/12/217808-2024-fintech-highlig
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/12/217808-2024-fintech-highlights-include-ai-personalization-embedded-finance-marqeta-experts/amp/"
 type: article
 quality: 66
-heat: 66
-published: false
+heat: 86
+published: true
 
 provider:
   name: Crowdfund Insider
@@ -25,6 +25,31 @@ images:
     width: 1024
     height: 768
     isCached: true
+
+related:
+  - title: "Swift Invites Fintech Pioneers to Join AI-Based Cross-Border Innovation Challenge"
+    excerpt: "Swift launched \"The Innovation Challenges\" that invites fintechs to create AI-based solutions to improve cross-border transactions."
+    publishedDateTime: 2023-12-12T04:36:00Z
+    webUrl: "https://fintechnews.sg/81994/ai/swift-invites-fintech-pioneers-to-join-ai-based-cross-border-innovation-challenge/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 34
+    images:
+      - url: "https://fintechnews.sg/wp-content/uploads/2023/12/Fintechs-Can-Now-Join-Swifts-Innovation-Challenge-for-AI-Cross-Border-Solutions.jpg"
+        width: 1024
+        height: 567
+        isCached: true
+  - title: "The Fintech C-Suite conversations that will dominate 2024"
+    excerpt: "The Fintech C-Suite conversations that will dominate 2024 By Richard Rosenberg, group chief product and technology officer, Spendesk It’s been a topsy-turvy year for fintech. In 2023 we’ve seen huge growth in the Buy Now,"
+    publishedDateTime: 2023-12-11T21:28:00Z
+    webUrl: "https://www.globalbankingandfinance.com/the-fintech-c-suite-conversations-that-will-dominate-2024/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 4
 
 secured: "CbyFVelebSV+puLXpwnhJTACS6ABrQikEdJT2iy8Es1KhqmdweQTxwWB+F0MNIJEwhH/vAMMXuG/BdExvTV61n8lj9lccN9Gu0eQ+wTusdoOnBOmhOcrO0jjjCT65IrXzh9ffZ1MD1Gti5UtCG0RQm3Gp/GSOlq8vvbIcDWuzNbLeuYIsB9RXzNR4hWeQIYg7ZRbjCulPWvUuEqrHJRDWAHBc4aZO0O+iE/MLIJ/rR/Y7Y4wZqWoG2kj9XKkw4Ysge42v3tuBJoaa82qfngRtRJCqSTykbYybjJPBQ4o2Raic+qSB7x1Gfudn8CJlveLLY5lkgs3hlUs8zdXtkl9Y5PRftEIB6sLeYWgwjaq4k58Y+koDX9Yxo/kaNPZZs/9gzhk3R3hcgad5LLj3cI1czxMprQJ8tPohFiLHx22zaxapNz3Mxe2SAJklPIfc1wXxZt4A33AacKGBmEZHGEBtn9y1qhvQmET+lRBr7xIjcmNiEtvGe67k1jyCLWBJxQAcI53q+sLr+vzLzMsS9O7zg==;1OUO1LTqN+yJQ0ob0ouS3Q=="
 ---

@@ -117,6 +117,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft Believes Indian Tech Firms Will Play A Key Role In AI Development, Adoption Globally"
+    excerpt: "The world's largest vendor of computer software, Microsoft is working with India's IT and ITeS companies in multiple markets to facilitate AI implementation."
+    publishedDateTime: 2023-12-12T06:46:00Z
+    webUrl: "https://www.ibtimes.co.uk/microsoft-believes-indian-tech-firms-will-play-key-role-ai-development-adoption-globally-1722131"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 42
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1717954/microsoft.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
 
 secured: "UFPgX4IKrwRK0GnuvMnyzbPUnFT5tbt01E3UHvviqOA3dOjUd9e7awN7K2nQXNf0ne4K8R5IQi5YjeVgz+k+ht+4nTvTzpSOHPwi+5P6h1qGsu0DomRE5Xw4vEJfTDZbusLyoI5UyQoF10qy5w8hjhGUKvIkubMR+kGfD+L0Xck0iALw67mBuY9Hg/pVnTb5sT1BDiA3HASVCPLsdYOqVKf/H3uAIlgjwouPxH+U+gAnHIV7FiyDVFYcDdSfmc14qr0i01JhK4hB2RghgeW0aa6YpoHzJPjYX0dWjWmBEuTJMBJJYWhJjRxXeHQ449See+D8BYqVWuPOSX6howwgYoPBg/kIuwWYCzQPSGPOosJb07lEyT3XAxldtlKcr/EwYMG5vqh2JDTB9ti5A1VS6AHD2uKbq94snFUWhPWTiJvWx3XWYh+JzcNMveOOLvgYkNxEOgIqsLFpDhRGHLZBTReTayQZcobflTBfkeS5EJ+PlSpupOAUkmj7vQXCVKHknDUgxtx6GRArOOu7aWBmuw==;R94ZP51LY8o3zDSN8cAtJg=="
 ---

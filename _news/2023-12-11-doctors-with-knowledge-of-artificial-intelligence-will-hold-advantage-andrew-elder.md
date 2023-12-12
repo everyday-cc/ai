@@ -36,6 +36,20 @@ related:
       name: IBM
       domain: ibm.com
     quality: 82
+  - title: "Strategic Advantages Through Expansion Of Artificial Intelligence"
+    excerpt: "By Nigar Hasanova, AZERNEWS  We are closer to being on the verge of a new revolution in modern society since artificial"
+    publishedDateTime: 2023-12-12T05:56:00Z
+    webUrl: "https://menafn.com/1107575728/Strategic-Advantages-Through-Expansion-Of-Artificial-Intelligence"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2023-12/12/A_ce282image_story.jpg"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "UHYolJJweot/LA1aH3k7/UdnXMIQVxHsLKoyzkxrYOxbg/q8yL727605k3TRoBJ72xQ7+CRbvNjQ1z8v/ZyBfx6QZ5gfl57XqHBTDdji3ePqL5aVrlbrkR44J5vtv0pUSjvjJhAp2WhLZD9knxmjMzfyjqa+GQ7B2qRxAidyIBVCnsBplBjEVa8VQRcIEaeT7gzH9EfwrqEwqi7Ll+sMJv6ahSxdG/IfM3txhkgyqYDQntbDWQ/t8MVBOBGDf8HQAv+/t2iAygSBWX9E/OSj1qxjM6j1ts6RTZ71ScfEDGLYgFjXu2TQmRXPGODeN3plSpPyooc9UfsXAYPPqHqvYVUsP2A03torZFm5hat93OF8Dc2hibHpKf34uUeRKmCYooy1ZYWvEPNUhoMOuTVSyRQng1xNyxEdEeyPqDSCedmA0n5xwAV/3u+TuqUWOGHrWKmbgbF6KrlTZYSVqeWo08FcQ3BRuX9qYOWmbWi+9Liys2cOkEAuBMehFvP4mde8eCy9kpnsCvCCGqY59YIeqw==;hvTdAwA5IFqSS2EKs7NV+w=="
 ---

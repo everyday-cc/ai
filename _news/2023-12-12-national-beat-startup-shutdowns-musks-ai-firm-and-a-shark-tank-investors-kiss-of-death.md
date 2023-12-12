@@ -3,8 +3,8 @@ category: news
 title: "National Beat: Startup shutdowns, Musk's AI firm, and a Shark Tank investor's 'kiss of death'"
 excerpt: "Even big-name, well-funded startups have closed up shop in recent months. Convoy, a freight startup valued at almost $4 billion, shut down in October. Olive AI, another unicorn that raised $857 million in total funding, closed its doors in October as well."
 publishedDateTime: 2023-12-11T19:24:00Z
-originalUrl: "https://www.bizjournals.com/southflorida/inno/stories/news/2023/12/11/national-beat.html"
-webUrl: "https://www.bizjournals.com/southflorida/inno/stories/news/2023/12/11/national-beat.html"
+originalUrl: "https://www.bizjournals.com/portland/inno/stories/news/2023/12/11/national-beat.html"
+webUrl: "https://www.bizjournals.com/portland/inno/stories/news/2023/12/11/national-beat.html"
 type: article
 quality: 6
 heat: -1
@@ -28,6 +28,6 @@ related:
       domain: bizjournals.com
     quality: 6
 
-secured: "idxAPTejDsKtq+Y4LzxUwtaTXdautE6e3F6Wa+s72Zgb8HVsItVCO5k/7HtZoe0v26odPC3zU5QYbD4egpBpet4mgTgidHb/n/sEvOsGwlA+FhRMtzN0Af6Hdes9w4duz3XYTZKUnbVveGeb4p74uCHSK7q8zE5gHwHZFf9MytzIpbbGD9mhV5uGQ3jf2TWB/9fO/nDbtvA2Kkld0bjxtcsVYUEmhGgQE/fw3d3XwAI0ZBd4CDp87QCu9aIgrgxsg/2jNNBitWs1Z7hdbhOkIIpX0EFz/ez7tTNc6EvRL1QLU2900l+DyR17ovmrASScbNtlKkFnluicht4OtQK2fF+sNeX81MdI5iecD2y+T/hnGVLHogm9alJo0SGEYrFyy/Nv87k4fqYBNNb+8sG4LdMEgS2z9pCTba+bS+80sCuyNu4c7f+hZvGDjIEBQobbG9xKWZf1AxzUaqnWoTxEruZpjrvFS6UO3SBpWl/EH6uXPHBPGnHUSKeGO/CuwKL8qR8T3DWlH9/ZBWrF+PkyMg==;CXU4S8rIqEcdxD8WJVkgdQ=="
+secured: "SlBdEhhZhe5eAdizKxD6mOSJX0LIclfITaLdVfMjpwv2Etj4JqfnLCAvox/muhDYyvoVdaHBRIfQeS0jdNcCblJmvf3CNSw8t3O5aPDwl6vL9TYJ3BZdKf+gWwd2j1f3RqT+qtHo+uwQ/DO7LRpPfuAF0+t4IHqfGe0Sbr57IOO2YAYLYitBmA6lyLFcQg+MZGDv/BqNIPtLU+v4RHPtb6J8oWfYO1edYAMNTom8ym0q/dCvyn+lISBoFlzdGG+QFtNq+GdPHogZOma30MTrup9+pKQDcXabmJ0MUUZsFowARA5Vlw0bU9Jiaz4H41eFntAx/ya70kXG5aXsSQa3Z7kgWsr90cTSg+hu79+tzvsmVjbeSFsKPGUPYq+uf7cPUVgdo3EPpYXlaDUGcQl41U9gNlPUoUMBAXzXMHGNjJpDStpqT7LqEQf8u9GqmaprwpsGwxZFIlTUrAeKo3Rdc2ipgZGFptXFYqtBi2c+ZLPItrvZ+AOw27UotNA8YrCtgdCE3BXIlHEAO/KbVRG0cQ==;LV8nHRnsE0HT0oaWv6s6ag=="
 ---
 

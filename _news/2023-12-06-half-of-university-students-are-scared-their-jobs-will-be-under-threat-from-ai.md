@@ -3,8 +3,8 @@ category: news
 title: "Half of university students are scared their jobs will be under threat from AI"
 excerpt: "Half of current students at university think their current and future jobs could be under threat from artificial intelligence (AI). New research from Kingston University looked at whether students are equipped for their futures in a rapidly changing workplace, particularly where technology is concerned."
 publishedDateTime: 2023-12-06T06:00:00Z
-originalUrl: "https://metro.co.uk/2023/12/06/half-uni-students-scared-jobs-threat-ai-19904586/?ico=mosaic_uk"
-webUrl: "https://metro.co.uk/2023/12/06/half-uni-students-scared-jobs-threat-ai-19904586/?ico=mosaic_uk"
+originalUrl: "https://metro.co.uk/2023/12/06/half-uni-students-scared-jobs-threat-ai-19904586/"
+webUrl: "https://metro.co.uk/2023/12/06/half-uni-students-scared-jobs-threat-ai-19904586/"
 ampWebUrl: "https://metro.co.uk/2023/12/06/half-uni-students-scared-jobs-threat-ai-19904586/amp/"
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/12/06/half-uni-students-scared-jobs-threat-ai-19904586/amp/"
 type: article
@@ -23,6 +23,6 @@ images:
     height: 400
     isCached: true
 
-secured: "o076u4aREE/W6wTt5KWK3lZnlqeUm+bBPw50MIq25MqTEe20IGzwPqdGWI91Q4WBs4ZHxwXN89At5DKiLbvjURr13jsAhuAbpyc7yypo7WJ7nGziq7YpUFFMwshW8kEVYM2zGs8LD0AlkwmMDVv1cf9DWXoC2moBNJSAHewQ/s+FoKQ7HstZF7wknGWw9PJ6GKrvYpOnYDQD/ey86myhulD7OryReY6L8AOjdmlmt01EASAdM2myyk6QkAP5g4NzboPxmJeTlvOEuKNPHP1POFpECjgi7jq2lvDXXBSMkQA3sVXMx0Q9bM4W4oDo+3aq/ZbnEJtvw8w0q395Ax1lOgy7DK0eHQd6/n2tuT5Y/BABkVhpZpXx0OAo7hYJhry11RVdg+93saLmrGM1SPn6eCH1zz+MyUg4JrfE9D5IK1BLrX/1ffL46faNlBuVXJiLuDG7eI3bVxU2+hAvDKroyTxREwT5pXxsnf7wLeb+Rk7FEW/XQIhmrpI5VkaqOZPBqwcy/CJG+k+HToLEWZd/1Q==;4EkSFXeI8lsxx8wNCEk7Kw=="
+secured: "V/NkfX2xEk4wKfe24pIoHmDgRRHweY6rRI9cwkI8/6kmqr5VnOUeE93WfqRJvPwzW08D2Yntxkl42nR9+KtwbnR1vXIqSdtkxIrc4DIRqQuOaEvDRBYttFC6g+tJre7qzJZjJcr8xkAphn+MHQCx0OIKyMUqG0BV7oQlStK23RSvByhZpmv+vHOds+QS/FjKDMUNaH5b6qhSjtJQRHO3XBwfbaV0IlBvHRi+DwG59+EX9sFmYu/WQltoxsI6QgZ931GqvG7Sm9cAhR48pzQhyS5HHIiieoY+A/mS/nbR34MQu6XqhUNNuXk6Yf9SBEjtwA+wGiapKk4d85oCtngSPXJQMQ+Yt/Th9mV1XriWqyA=;N9cFdGBZnpu/tF35fw0xHQ=="
 ---
 

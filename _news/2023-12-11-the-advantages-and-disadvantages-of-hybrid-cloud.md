@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/hybrid-cloud-advantages-disadvantages/"
 webUrl: "https://www.ibm.com/blog/hybrid-cloud-advantages-disadvantages/"
 type: article
 quality: 82
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -37,6 +37,20 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-33546,msid-105894352/ai-healthcare.jpg"
         width: 600
         height: 450
+        isCached: true
+  - title: "Strategic Advantages Through Expansion Of Artificial Intelligence"
+    excerpt: "By Nigar Hasanova, AZERNEWS  We are closer to being on the verge of a new revolution in modern society since artificial"
+    publishedDateTime: 2023-12-12T05:56:00Z
+    webUrl: "https://menafn.com/1107575728/Strategic-Advantages-Through-Expansion-Of-Artificial-Intelligence"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2023-12/12/A_ce282image_story.jpg"
+        width: 1000
+        height: 667
         isCached: true
 
 secured: "nTxT3fqKzvdZoLIAXY6uxOAHC3i01N2QoZKkpESHHMaV4/J0IXKRNIT/SfzqK8N3uWxX1eF4yKLBj3ojcmhyxoYPoNFx4ELUAXes6q1jKl7PkXS+CiM8WXXQ2mmING/na9cqKoDS9lh1SbSeYRUTyj6AjliWKAqmM+mjazoFx8KrTjyxYV8nqSoBd8g6J25haV1QbUU9BHhFJU8IPsXZu0PHaYfMCPgDTY98EJTdVMFZAzsjviUpX1F+uYgx+6wyUGIz+l4AxdH9b5YX0xsRIK5ru6GvMCWFe5agwvWzFekM7DSFbcE7Pf1J2eNM2C43GBgvRj1l/RVanErIlciAauHCY5pQT13oLX1dgFhif6I=;BqK7cxWPAhC/nxa1MRJweg=="

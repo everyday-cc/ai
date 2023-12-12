@@ -7,7 +7,7 @@ originalUrl: "https://www.androidauthority.com/chatgpt-lazy-3393196/"
 webUrl: "https://www.androidauthority.com/chatgpt-lazy-3393196/"
 type: article
 quality: 75
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "ChatGPT, Google's AI will have to start answering to EU"
+    excerpt: "EU’s AI Act is a decent, if slightly half-baked, start when it comes to regulating AI, and in the absence of anything similar this is a step in the right direction. The legislation will still rely on companies to audit themselves."
+    publishedDateTime: 2023-12-12T05:16:00Z
+    webUrl: "https://www.moneycontrol.com/news/opinion/chatgpt-googles-ai-will-have-to-start-answering-to-eu-11890281.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/opinion/chatgpt-googles-ai-will-have-to-start-answering-to-eu-11890281.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/chatgpt-googles-ai-will-have-to-start-answering-to-eu-11890281.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 74
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/12/eu-ai-protest-bbo.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Are you using ChatGPT to complete tasks at work? It might be tired of doing the heavy lifting."
     excerpt: "ChatGPT users say that the bot is becoming more difficult to work with."
     publishedDateTime: 2023-12-10T03:58:00Z

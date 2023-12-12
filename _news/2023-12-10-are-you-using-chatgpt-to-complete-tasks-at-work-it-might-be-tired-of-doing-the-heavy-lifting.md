@@ -39,6 +39,22 @@ related:
         width: 1919
         height: 1080
         isCached: true
+  - title: "ChatGPT, Google's AI will have to start answering to EU"
+    excerpt: "EU’s AI Act is a decent, if slightly half-baked, start when it comes to regulating AI, and in the absence of anything similar this is a step in the right direction. The legislation will still rely on companies to audit themselves."
+    publishedDateTime: 2023-12-12T05:16:00Z
+    webUrl: "https://www.moneycontrol.com/news/opinion/chatgpt-googles-ai-will-have-to-start-answering-to-eu-11890281.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/opinion/chatgpt-googles-ai-will-have-to-start-answering-to-eu-11890281.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/chatgpt-googles-ai-will-have-to-start-answering-to-eu-11890281.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 74
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/12/eu-ai-protest-bbo.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "L6xypc40pCHG2iWNO2MPQpxaImIrWaXGy9sUqA7aT36BWUYYTHArkN0RrNTKL+hbYwyh41ce1XHBrV2/yOqFkGiDOjaS5p+LYTh5/D2sw3PCstE/iriCY2O42YnW4onOk5C0Nmx2JnBElINCEj/MP86jl8v5FHCjlzlUFrvIRxle4qEHu58Fc/kO4g7T7X7D/Chl6t7c/VCgcpWjLCcMQhPpgDHKMlpdyNCBq++h3wkzeMfuVbAyNSQrurPysmlKTddDkgsC5GTkjGUpmJWkHtPN+pllBNrgdTN3+ktsR6DFs+Gtid5OfiwnhcljOOLD9JDa4gxnr1HhQiPGioO4Tz1YFr+e+oGJqYJJHYMPmLIo5RUJiH17B1m338fNhsAmtnwiw09zXIpMFcQfKMmprzRkqQNeG0byhwTGpv+hCVLB/eTHTDxuN//8B/vW/0dlFjmCGe5XTVgBikiTD7icQv52tUO8Fg7xRC9gglQL0IRsTkmpDSrYW1h6A00vHohEP37IUQv7rxFmvHmIbTHDkw==;2Iv3YyPRQlh4rgCvVZtzxA=="
 ---

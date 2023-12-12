@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3711407/accelerating-cloud-native-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711407/accelerating-cloud-native-development-in-microsoft-azure.amp.html"
 type: article
 quality: 104
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -120,6 +120,20 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/c303384/2147483647/strip/true/crop/2000x1050+0+218/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd9%2Fc8%2F51d3b04f402cbe775fac74266e80%2Fmicrosoft-openai-75424.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Microsoft Believes Indian Tech Firms Will Play A Key Role In AI Development, Adoption Globally"
+    excerpt: "The world's largest vendor of computer software, Microsoft is working with India's IT and ITeS companies in multiple markets to facilitate AI implementation."
+    publishedDateTime: 2023-12-12T06:46:00Z
+    webUrl: "https://www.ibtimes.co.uk/microsoft-believes-indian-tech-firms-will-play-key-role-ai-development-adoption-globally-1722131"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 42
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1717954/microsoft.jpg"
+        width: 2048
+        height: 1365
         isCached: true
 
 secured: "YpwJN+G6BeACg9vH30Y9wU0rQ3g6p3B+L6V1kS64FQSnGeaFwMAOaHmzVPqP/zARqvjve1Jvc2oiZg+GssxU6qqeixUKaUMLAGjsUmZokRKL8ddqQZLqlZCxhTik0YRbdIbd2iV5gKIcvhWDy9CKsvvDdEK8jOWJs19dUrvxwRrEQICm1RUDMnHiKRttMFbntY+3lCN8XnnDF8+250b5Pk6EzV8he7L97klr6MyKJvjsMnzXNNn3fj9teBhbfIFcIXMQUN6BdtghQwEuuK3ZDrVzoanXVU6bE6Pni1aOLjyJSxnW8kwK/vfxIxQtlxp6KybeqVh0A5xYusz5cNqdtj+aYzGsNeAVVahWCFOfyBg=;bvqud78u2IjFT394o3mbFg=="
