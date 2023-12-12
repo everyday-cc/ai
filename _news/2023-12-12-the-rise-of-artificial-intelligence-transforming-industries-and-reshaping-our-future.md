@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/the-rise-of-artificial-intelligence-transf
 webUrl: "https://techbullion.com/the-rise-of-artificial-intelligence-transforming-industries-and-reshaping-our-future/"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "How Machine Learning is Reshaping Industries"
+    excerpt: "In the era of digital transformation, machine learning (ML) has emerged as the driving force behind a revolutionary shift in industries worldwide. From healthcare to finance, manufacturing to marketing,"
+    publishedDateTime: 2023-12-12T14:50:00Z
+    webUrl: "https://www.timesnownews.com/education/how-machine-learning-is-reshaping-industries-article-105939900"
+    ampWebUrl: "https://www.timesnownews.com/education/how-machine-learning-is-reshaping-industries-article-105939900/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/education/how-machine-learning-is-reshaping-industries-article-105939900/amp"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 61
+    images:
+      - url: "https://static.tnn.in/thumb/msid-105939904,thumbsize-372248,width-1280,height-720,resizemode-75/105939904.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "How Artificial Intelligence Is Transforming HR Practices"
     excerpt: "Artificial intelligence (AI) has taken various industries by storm, with human resource management (HRM) being no exception. With a variety of AI tools, businesses in several industries are reaping the rewards of innovative technology to optimize their HR operations."
     publishedDateTime: 2023-12-12T02:03:00Z

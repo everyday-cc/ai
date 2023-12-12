@@ -1,0 +1,60 @@
+---
+category: news
+title: "Dell Technologies updates storage products for AI"
+excerpt: "Dell's strategy is to bring AI to wherever data resides, rather than the other way around. It notes that nearly 87% of companies are embracing multicloud strategies. Dell says it is giving customers the freedom to process data wherever it makes the most sense for them--on-premises, at the edge, or in public clouds."
+publishedDateTime: 2023-12-12T15:16:00Z
+originalUrl: "https://www.networkworld.com/article/1257328/dell-technologies-updates-storage-products-for-ai.html"
+webUrl: "https://www.networkworld.com/article/1257328/dell-technologies-updates-storage-products-for-ai.html"
+ampWebUrl: "https://www.networkworld.com/article/1257328/dell-technologies-updates-storage-products-for-ai.html/amp/"
+cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1257328/dell-technologies-updates-storage-products-for-ai.html/amp/"
+type: article
+quality: 59
+heat: 89
+published: true
+
+provider:
+  name: Network World
+  domain: networkworld.com
+
+topics:
+  - Microsoft AI
+  - AI
+
+images:
+  - url: "https://www.networkworld.com/wp-content/uploads/2023/12/server_rack_backend_development_engineering_network_servers_data_center_data_centre_by_seventyfour_shutterstock_1921647347_royalty-free_digital-only_2400x1600-100890802-orig-3.jpg?quality=50&strip=all&w=1024"
+    width: 1024
+    height: 682
+    isCached: true
+
+related:
+  - title: "OPEN Health and Nested Knowledge announce strategic research collaboration to leverage AI technologies for evidence synthesis"
+    excerpt: "This collaboration underscores OPEN Health's unwavering commitment to leveraging innovative solutions and AI technologies for superior client delivery,” said Richard Jones, President of OPEN Health Evidence & Access."
+    publishedDateTime: 2023-12-11T10:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/open-health-and-nested-knowledge-announce-strategic-research-collaboration-to-leverage-ai-technologies-for-evidence-synthesis-1032888769"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 22
+  - title: "Dell Upgrades Storage Offerings As Businesses Shift To AI-First Operating Model"
+    excerpt: "As more businesses see the competitive need to shift data into AI-led processes, Dell’s AI-Ready Data Platform combines its infrastructure and performance upgrades to speed up how quickly customers can train large language models."
+    publishedDateTime: 2023-12-11T21:05:00Z
+    webUrl: "https://www.crn.com/news/software/dell-ai-storage"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 15
+  - title: "Dell Technologies Boosts AI Performance with Advanced Data Storage and NVIDIA DGX SuperPOD Integration"
+    excerpt: "Dell Technologies is helping customers achieve faster AI and generative AI (GenAI) performance with new enterprise data"
+    publishedDateTime: 2023-12-07T20:11:00Z
+    webUrl: "https://www.datanami.com/this-just-in/dell-technologies-boosts-ai-performance-with-advanced-data-storage-and-nvidia-dgx-superpod-integration/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 3
+
+secured: "9s/OFz7Nw0SqENeQ4ZAl2XWhve4kKMi9RveJe99k2mr4iFkU9FHCNPr9/GwmrZvZNMmR5k3NIdKUDjo39x/fuoyZAZsPQNyJiAmZ+HR6kUts3EZtewQkeoLHdAfPfNgVO2ZINE+z1wExvv89xiJpxNTd300WsrmOvykLBJLlKTtqh5tbxM9ReAEeV2Sq8cn4GVsKFRDeWUJjmmAd5irlhO92BAUqknVYIUIhPVnl9QE6gDtyxxPcfi9sVG2znh03qix7feNPGXtW3p670Tpd3wITAisLidtcPHJnoAbUkHA6s30j/LppnmGbxPnN5Z4+g7GOcIeug6lzBaFa/QMC4/N1Ga+jT7X83jHpD+FB/6s=;1qSiCRz5P5VXocgqwVyZMg=="
+---
+

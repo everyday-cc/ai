@@ -7,7 +7,7 @@ originalUrl: "https://emerging-europe.com/partner-content/the-eus-ai-act-a-beaco
 webUrl: "https://emerging-europe.com/partner-content/the-eus-ai-act-a-beacon-of-innovation-and-ethics-for-emerging-europe/"
 type: article
 quality: 54
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -80,6 +80,15 @@ related:
       name: eureporter.co
       domain: eureporter.co
     quality: 15
+  - title: "Operation HOPE’s John Hope Bryant and Open AI’s Sam Altman Announce Formation of First-of-Its-Kind AI Ethics Council at 2023 Annual Meeting of the Hope Global Forums in Atlanta"
+    excerpt: "On stage yesterday afternoon at the 2023 Annual Meeting of the Hope Global Forums in Atlanta, GA, Operation HOPE’s John Hope Bryant and Open AI’s Sam"
+    publishedDateTime: 2023-12-12T14:22:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231212974597/en/Operation-HOPE’s-John-Hope-Bryant-and-Open-AI’s-Sam-Altman-Announce-Formation-of-First-of-Its-Kind-AI-Ethics-Council-at-2023-Annual-Meeting-of-the-Hope-Global-Forums-in-Atlanta"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "kGxy+1n+xU7XNrdazkAcb2s7IEtn99ImkIlyI+mI6JMrxk99wfYr75XywTQxAdCb49LrgsKooJ3CtD5cqJhM9wXrTz/LqXKBLyQO2wrL7DkNU9n71C5XT+HPYlymwEZavCDQyjxr9oJkGpJ6dtYTOSykfg7l/r8fTzR/mEUHF7MJEXLCOMX6PaP0zzH7vCgh9B/Pw332EoGJUdqOjVhZOuRh7YyGuvuyL2FHDScOVGzH/DZqgqXLphoHLokpkvT6co/Cwmj4FivtBMmndEzaOuONigMsG6V/GHW5SBUDmjZz2+eZ/9Cl5Ul+arQblAwB1+u+AA8EdqKPmlTPfZ2d4aKSrUqynAYJSLqMSBf3JdepzzL0B81cSLa/yyck8tzelVpS7KmbvhP0c6QBFYCDU00K9g1pty9dWbsD9OsGVbhrPdm17QlnTe0kCdJrbAP6vMT0yiLb82WlrktdcbvOm7X3Y6GOaREaS4FqJ0ovWcZRCSFletByTDx0GeDpu3OwHZkUva8kTitmwZ98fgJ9Nw==;s0QlLULrWU7xCY+O0Fb6fA=="
 ---

@@ -34,15 +34,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
-  - title: "Dell Upgrades Storage Offerings As Businesses Shift To AI-First Operating Model"
-    excerpt: "As more businesses see the competitive need to shift data into AI-led processes, Dell’s AI-Ready Data Platform combines its infrastructure and performance upgrades to speed up how quickly customers can train large language models."
-    publishedDateTime: 2023-12-11T21:05:00Z
-    webUrl: "https://www.crn.com/news/software/dell-ai-storage"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 15
 
 secured: "D8HsDETCHZN20T3bwl8qMgYS/8hnI6dwUgt+EBW1DbZgCGz23zo9ExX49vdNRtWCQKjO19Z0h6TFNiKIGsJ9r7J86KPjxZZFlx2+cOVJu0htvGL8aMhxj/f5DOObqKbP2MlTIoDPYgPbBsI8JcOFdtfa+oYEjbk71bR9KLMbLZLS0+5Vp2vdh8VNC/ulWTHV3ltRizEmEUEuSzXKRfTendHMUF+AH01hBPHKILuC/h2QE7UnoIET9WjwEPNpv2YVOfCdhXq5P7FXT5OnLl4PS67aKdTIQc8lA1fN4MeZUD7uza33tgM87lfG4MwdSbeMYCw23P0Js8BOmfs7JqTac429WEtTDCaSGSRC438mV5C5zS+pnvJ2Wg8yAjaRNoJ8UnJBVrhTHmy19rGrBhEkhADH9coRtxnRGcDJR+1WlaV1FgpJQs5FPvJnVJP3qqLBVEc7Z0XWMMGQmMJrSkIBYoW7dEcOeoUtmsQNoJda1hPfauK/4niJxOl8pC4bpQf7BfTPiPV83JD3Vw6AqX0UWA==;6fplV2ExOjLeSRTADMLZbQ=="
 ---

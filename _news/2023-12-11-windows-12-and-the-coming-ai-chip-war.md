@@ -41,19 +41,19 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Understanding the world of AI and robotics at the FAIR"
-    excerpt: "The Festival of AI + Robotics, the FAIR is a two-day event promising to ... be able to connect with people on the floor to give them advice,” she said. Another element will be a startup showcase, which Müller said will be relevant to those visiting ..."
-    publishedDateTime: 2023-12-12T02:09:00Z
-    webUrl: "https://www.itnews.com.au/video/understanding-the-world-of-ai-and-robotics-at-the-fair-603411"
+  - title: "5 ways AI changed the internet in 2023"
+    excerpt: "OpenAI DALL-E 3, Google Bard and SGE image generator, Microsoft Copilot (formerly Bing Chat Image Creator), and Meta's Imagine are all examples of models that use generative AI to create images from text prompts. Even media platforms Shutterstock, Adobe, and Getty Images have gotten in the game with their own AI image generator tools."
+    publishedDateTime: 2023-12-12T15:01:00Z
+    webUrl: "https://mashable.com/article/ways-ai-changed-the-internet-2023"
     type: article
     provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 69
+      name: Mashable
+      domain: mashable.com
+    quality: 67
     images:
-      - url: "https://i.nextmedia.com.au/Videos/16.2-FAIR-Medium-Rectangle-300x250.png"
-        width: 300
-        height: 250
+      - url: "https://helios-i.mashable.com/imagery/articles/03vL2Cl6Sc7AAwgoGb6nyEF/hero-image.fill.size_1200x675.v1702332338.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Artificial intelligence and trade secrets"
     excerpt: "December 11, 2023 - Generative artificial intelligence (AI) is an emerging class of machine learning technology that can synthesize content including text and images. This article outlines the history of generative artificial intelligence and the serious ..."
@@ -78,6 +78,15 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Charting the Emerging Geography of AI"
+    excerpt: "As the AI power centers emerge and shift around the world, they will shape which AI applications are prioritized, which societies and sectors of the economy get the most benefits, what data are used to train algorithms,"
+    publishedDateTime: 2023-12-12T13:24:00Z
+    webUrl: "https://hbr.org/2023/12/charting-the-emerging-geography-of-ai"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 17
 
 secured: "fgCnALSlRHAJw2aAImbXZSdF/z+ju7kZj7gX/l1j8oBdIjFMYqTbzlaGYGKhBzbFNqq+CVY48Wrkr92QQ3VNkosDPauI5GXP1dDxmzmilajI+xftKqtDCHhuPx2nfF55kda+dUoXPZ2qyRLvelrOh82+c89AvRWIyuFXmYehv3DHVP2Dih17VJ4OR97kekXsPn9GhcXsquJh4fxOVTOHAcu8TBKlUNtQ93NLgIVvAITJ1Y+RKFZfqOv4ILmJMNIamdi0runXm7AyQDT4og4DPDzEE55asrvPdJI3akPIxyhx0wtWb+4/urRH4o+Du937gcDUBaWVM7Cs+eXXDmUr4xPWocq6e4dJkwOvnc5ekGk=;itenKxANaZg43Vyn+Vvy1Q=="
 ---

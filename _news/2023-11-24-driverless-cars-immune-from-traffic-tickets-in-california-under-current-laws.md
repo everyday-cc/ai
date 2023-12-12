@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Driverless cars immune from traffic tickets in California under current laws"
-excerpt: "Driverless cars have been documented running ... entirely new regulatory agency purely focused on driverless cars and artificial intelligence. “Like when we got the FAA years ago, we’re ..."
+excerpt: "“I think all of us are still struggling to understand whether [driverless cars] really are ... agency purely focused on driverless cars and artificial intelligence. “Like when we got the ..."
 publishedDateTime: 2023-11-24T00:01:00Z
-originalUrl: "https://www.nbcbayarea.com/news/local/driverless-cars-traffic-tickets-california-transportation-laws/3379154/"
-webUrl: "https://www.nbcbayarea.com/news/local/driverless-cars-traffic-tickets-california-transportation-laws/3379154/"
-ampWebUrl: "https://www.nbcbayarea.com/news/local/driverless-cars-traffic-tickets-california-transportation-laws/3379154/?amp=1"
-cdnAmpWebUrl: "https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/local/driverless-cars-traffic-tickets-california-transportation-laws/3379154/?amp=1"
+originalUrl: "https://www.nbclosangeles.com/news/national-international/driverless-cars-traffic-tickets-california-transportation-laws/3276194/"
+webUrl: "https://www.nbclosangeles.com/news/national-international/driverless-cars-traffic-tickets-california-transportation-laws/3276194/"
+ampWebUrl: "https://www.nbclosangeles.com/news/national-international/driverless-cars-traffic-tickets-california-transportation-laws/3276194/?amp=1"
+cdnAmpWebUrl: "https://www-nbclosangeles-com.cdn.ampproject.org/c/s/www.nbclosangeles.com/news/national-international/driverless-cars-traffic-tickets-california-transportation-laws/3276194/?amp=1"
 type: article
 
 provider:
-  name: NBC Bay Area
-  domain: nbcbayarea.com
+  name: NBC Los Angeles
+  domain: nbclosangeles.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://media.nbcbayarea.com/2023/11/Title-Image_color-corrected.png?resize=1200%2C675&quality=85&strip=all"
+  - url: "https://media.nbclosangeles.com/2023/11/Title-Image_color-corrected.png?resize=1200%2C675&quality=85&strip=all"
     width: 1200
     height: 675
     isCached: true
 
-secured: "IfKfAMS/7AfON1L7ibwekWbS5k5BZBrbpZuJsd/3tus1L2ryhfgqp3kSgDz9HV7PzmKLRrisLAfHrWJUzy6N8nL1qgIuga4UJICzR64kPu/b0jyjBWfUPjY+Bf6nCU3XMzxEVbBX8FGGUqyxBvrwcf4Ot72yjrNkbW3WC2VRE3w9M7L/7nw7SlAFQQg2UEytjALUVC2uLIgfsspG6nRv8NWtrEyCJd58wZ/sYFSJpGsXlDSoJbljaQPoR4e4tAxlzWOar7gknmr9mxI9z/2/O8r6bZmaZElLKmXQ3/e5bthOF0Q5fg+x+zOP+H6f44EaxlbHMIN4vNC+2VDcBYXT8HByGiKZV8mNS2u0xnUBcn8=;ON0t89FKPTtwqMjuLloMvw=="
+secured: "n4Z3kl4NXezQLIPHYd4/Qx6vOOOvBm78YBJp6MsP/SglMSJZLNva69rP70wcY8LieiYcDNCB34upu5+zlJ7xDgivIWPfc33CaBd/XzCz1DOXO2B8qwweF32Cb/h2++fPvd4fBMY3QA1bJDwEr6lHuM6dn8CES77yg3CigbZpbI9l98OE3a7pGVRPD7G73iXFty9LBDz75ejxqfWsBPfSd4ROezN0cuKnihUV0Y7b3eHcvZtjiqgQBbM1TO+7PUW9lgUJJ+IBNn97NjLRyEPgT8yOIYibr3eKoO/2JkFIAQUf7O1yZPQ76NDjdXL+hEpYm9QU9XESxJXXWufZ16F8YrfYogmsfy6JtfOsvjRz0V0=;sseCAttUzeAlJXUyXwgALQ=="
 ---
 

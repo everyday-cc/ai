@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/11/how-do-we-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/11/how-do-we-tackle-ais-biggest-hurdles-to-adoption/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1600
     height: 840
     isCached: true
+
+related:
+  - title: "Punchcut Labs Releases Report “AI Adoption: Consumer Attitudes and Expectations” Revealing Key User Adoption Trends"
+    excerpt: "The research is indicative of a full spectrum of potential consumers of AI. The research contains data from consumer responses, qualitative interviews, and surveys from people with higher AI maturity who work in the tech industry and those who have not used AI at all and who work in various non-tech fields."
+    publishedDateTime: 2023-12-12T16:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/punchcut-labs-releases-report-ai-adoption-consumer-attitudes-and-expectations-revealing-key-user-adoption-trends-1032894094"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 27
 
 secured: "QUyDhY1hc1ObeSJ2xsk74P6yjWb16jZJW9FDhxSFwdCG2z9SfL7JZzWzXbqCYwnnVC6eUVYkaV1lPSk/flRK/r9jncbijSCB4mzof3xICYk6k8R4WPNGtwDnMS0nC8rczc0EbObwx8RlCfI4vesoAz2QeSv0H9QtlI/Ues1f2KC8tN4zCD3XzB9ZtMCSVCfgWzlZGoKHCDgHgfs7gYkq4SalpRJD64duB0swk0mqZ6oDwKdjA/qxA/aXSjbxhL43fIxmWpkuuwqlRTCh0NNcIVxrFwzOr+BJ91Pugwr3L4jPtwxej55IQLIyUjHQd6XoExjCCGMzGg2RsTCwMfCKL7LAg2xj1ptBhhG96VcEVAM=;9u2bRrvdTWIf10JiJ3nU6w=="
 ---

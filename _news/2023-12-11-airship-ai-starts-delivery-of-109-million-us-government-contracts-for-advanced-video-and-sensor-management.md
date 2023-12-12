@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "AeroVironment Awarded $16 Million U.S. Navy Contract for the Advancement of Video Analytics and Computer Vision Research to Support Multi-Domain Robotics Initiatives"
+    excerpt: "AeroVironment Awarded $16 Million U.S. Navy Contract for the Advancement of Video Analytics and Computer Vision Research."
+    publishedDateTime: 2023-12-12T14:11:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231212709224/en/AeroVironment-Awarded-16-Million-U.S.-Navy-Contract-for-the-Advancement-of-Video-Analytics-and-Computer-Vision-Research-to-Support-Multi-Domain-Robotics-Initiatives/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 19
   - title: "Veradigm to Enhance Independent Practice Financial Management with AI for Practice Fusion Billing Services"
     excerpt: "Veradigm Inc. (NASDAQ: MDRX), a leading provider of healthcare data and technology solutions, announced today that it will now offer a conversational artificial intelligence (AI) agent for Practice Fusion Billing Services,"
     publishedDateTime: 2023-12-11T14:35:00Z

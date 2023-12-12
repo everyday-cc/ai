@@ -119,6 +119,20 @@ related:
         width: 2000
         height: 1125
         isCached: true
+  - title: "Kinara Edge AI Processor Tackles the Monstrous Compute Demands of Generative AI and Transformer-Based Models"
+    excerpt: "Kinara™, Inc., today launched the Kinara Ara-2 Edge AI processor, powering edge servers and laptops with high performance, cost effective, and energy efficient inference to run applications such as video analytics,"
+    publishedDateTime: 2023-12-12T12:01:00Z
+    webUrl: "https://www.eagletribune.com/region/kinara-edge-ai-processor-tackles-the-monstrous-compute-demands-of-generative-ai-and-transformer-based/article_fe2f45d2-d2e0-5130-9faf-cef83d1e6744.html"
+    type: article
+    provider:
+      name: Eagle-Tribune
+      domain: eagletribune.com
+    quality: 20
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/a/3e/a3e37668-57a1-5520-94c7-df98c63a2319/6578614943dc0.image.jpg?crop=1404%2C737%2C0%2C369&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Dell Technologies storage advancements accelerate AI and generative AI strategies"
     excerpt: "Dell Technologies is helping customers achieve faster AI and generative AI (genAI) performance with new enterprise data storage advancements and validation with the Nvidia DGX SuperPod AI infrastructure."
     publishedDateTime: 2023-12-11T01:11:00Z

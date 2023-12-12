@@ -29,79 +29,110 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft exec hints at new LLMs beyond OpenAI’s"
-    excerpt: "In a wide ranging interview about enterprise readiness for generative AI, Eric Boyd asserts that Microsoft plans to stay competitive on the choice front. He said the company's generative AI applications and the LLMs that power them,"
-    publishedDateTime: 2023-12-08T04:05:00Z
-    webUrl: "https://venturebeat.com/ai/microsoft-exec-hints-at-new-llms-beyond-openais/"
+  - title: "Inside OpenAI’s Crisis Over the Future of Artificial Intelligence"
+    excerpt: "Split over the leadership of Sam Altman, board members and executives turned on one another. Their brawl exposed the cracks at the heart of the A.I. movement."
+    publishedDateTime: 2023-12-09T12:51:00Z
+    webUrl: "https://www.nytimes.com/2023/12/09/technology/openai-altman-inside-crisis.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
+      name: The New York Times
+      domain: nytimes.com
+    quality: 86
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/12/otAR_BG_master02a.png?w=1200&strip=all"
+      - url: "https://static01.nyt.com/images/2023/12/08/business/08ai-openai-02/08ai-openai-02-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "OpenAI’s Rival Mistral AI Valued at $2B after Latest Funding Round"
+    excerpt: "OpenAI's rival Mistral AI is now valued at $2 billion after its latest funding round where it pulled $415 million from investors."
+    publishedDateTime: 2023-12-11T17:39:00Z
+    webUrl: "https://www.coinspeaker.com/mistral-ai-2b-latest-funding/"
+    ampWebUrl: "https://www.coinspeaker.com/mistral-ai-2b-latest-funding/amp/"
+    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/mistral-ai-2b-latest-funding/amp/"
+    type: article
+    provider:
+      name: coinspeaker
+      domain: coinspeaker.com
+    quality: 57
+    images:
+      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/12/mistral-ai-2b-latest-funding.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Google's Bard vs OpenAI's ChatGPT: Which of the rival AI chatbots is better? – Euronews"
+    excerpt: "Google’s answer to ChatGPT is here - but is it as good as OpenAI’s global phenomenon? Euronews Next put them through their paces. Google has made its"
+    publishedDateTime: 2023-12-12T02:41:00Z
+    webUrl: "https://www.inferse.com/836356/googles-bard-vs-openais-chatgpt-which-of-the-rival-ai-chatbots-is-better-euronews/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 48
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/12/wp-header-logo-6663.png"
+        width: 1000
+        height: 563
+        isCached: true
+  - title: "Elon Musk’s AI bot, Grok, speaks as if made by OpenAI in some tests, causing a stir"
+    excerpt: "Grok, the AI language model created by Elon Musk's xAI, went into wide release last week, and people have begun spotting glitches. On Friday, security tester Jax Winterbourne tweeted a screenshot of Grok denying a query with the statement,"
+    publishedDateTime: 2023-12-11T20:13:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/12/elon-musks-ai-bot-grok-speaks-as-if-made-by-openai-in-some-tests-causing-a-stir/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 41
+  - title: "AI start-up Mistral secures €385m to challenge OpenAI"
+    excerpt: "French start-up Mistral is focused on creating open-source AI models and has reportedly hit unicorn status after raising €385m."
+    publishedDateTime: 2023-12-11T12:24:00Z
+    webUrl: "https://www.siliconrepublic.com/start-ups/mistral-ai-unicorn-funding-open-source"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 37
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/12/AdobeStock_259976477.jpeg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "OpenAI Competitor Mistral AI Nabs $487M Round, Hitting $2B Valuation"
+    excerpt: "Paris-based Mistral AI, an OpenAI and Anthropic competitor, is putting the final touches on a massive round of approximately $487 million that would value the company at $2 billion, per a report."
+    publishedDateTime: 2023-12-11T18:13:00Z
+    webUrl: "https://news.crunchbase.com/ai/mistral-openai-anthropic-andreessen/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 37
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/Generative_AI_3.jpg"
+        width: 900
+        height: 506
+        isCached: true
+  - title: "Unlock the Power of AI: A Step-by-Step Guide to Getting Your OpenAI API Key – Gizchina.com"
+    excerpt: "Welcome to the future of artificial intelligence! OpenAI has revolutionized the AI landscape with its remarkable language models like ChatGPT and GPT-4. To"
+    publishedDateTime: 2023-12-10T22:42:00Z
+    webUrl: "https://www.inferse.com/834010/unlock-the-power-of-ai-a-step-by-step-guide-to-getting-your-openai-api-key-gizchina-com/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 29
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/12/wp-header-logo-5862.png"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
-  - title: "Tech Trends: Microsoft to Introduce AI to Many Government Workers"
-    excerpt: "With Azure OpenAI Service, we are enabling our customers to gain access to all of the latest models from our partner OpenAI, like GPT-4 Turbo, and do more to engage and leverage their own data. Our enterprise AI tools provides the same role-based security ..."
-    publishedDateTime: 2023-12-11T17:36:00Z
-    webUrl: "https://statetechmagazine.com/article/2023/12/tech-trends-microsoft-introduce-ai-many-government-workers"
-    ampWebUrl: "https://statetechmagazine.com/article/2023/12/tech-trends-microsoft-introduce-ai-many-government-workers?amp"
-    cdnAmpWebUrl: "https://statetechmagazine-com.cdn.ampproject.org/c/s/statetechmagazine.com/article/2023/12/tech-trends-microsoft-introduce-ai-many-government-workers?amp"
+  - title: "Paris-based Startup and OpenAI Competitor Mistral AI Valued at $2 Billion"
+    excerpt: "In a significant development for the European artificial intelligence sector, Paris-based startup Mistral AI has achieved a noteworthy milestone. The company has successfully secured a substantial investment of €450 million,"
+    publishedDateTime: 2023-12-09T14:18:00Z
+    webUrl: "https://www.unite.ai/paris-based-startup-and-openai-competitor-mistral-ai-valued-at-2-billion/"
     type: article
     provider:
-      name: Statetechmagazine
-      domain: statetechmagazine.com
-    quality: 74
-    images:
-      - url: "https://statetechmagazine.com/sites/statetechmagazine.com/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202312/GettyImages-1485546309.jpg?itok=fyQGX9CX"
-        width: 1440
-        height: 500
-        isCached: true
-  - title: "Microsoft, AFL-CIO Reach Deal on AI, Labor Neutrality"
-    excerpt: "Microsoft has a major partnership with ChatGPT maker OpenAI and committed to pumping more than $10 billion into the startup. Surging popularity of so-called generative AI, which uses data to create new content like ChatGPT's human-sounding prose, could remake human society and make obsolete many jobs."
-    publishedDateTime: 2023-12-11T14:03:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-12-11/microsoft-afl-cio-reach-deal-on-ai-labor-neutrality"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 64
-  - title: "Microsoft Agrees to Union Contract Terms Governing Its Use of AI"
-    excerpt: "Microsoft Corp. has agreed to union contract language governing its use of artificial intelligence, creating an avenue for workers to challenge how it deploys the evolving technology."
-    publishedDateTime: 2023-12-11T11:59:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-12-11/microsoft-agrees-to-union-contract-terms-governing-its-use-of-ai"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 64
-  - title: "Microsoft’s Answer to OpenAI Inquiry: Doesn't Own Stake; Link not same as Google and DeepMind"
-    excerpt: "With global regulators examining Microsoft Corp.'s $13 billion investment in OpenAI, the software giant has a simple argument it hopes will resonate with antitrust officials: It doesn't own a traditional stake in the buzzy startup so can't be said to control it."
-    publishedDateTime: 2023-12-09T18:27:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/microsofts-answer-to-openai-inquiry-doesnt-own-stake-link-not-same-as-google-and-deepmind-71702102228046.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/microsofts-answer-to-openai-inquiry-doesnt-own-stake-link-not-same-as-google-and-deepmind-71702102228046.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/microsofts-answer-to-openai-inquiry-doesnt-own-stake-link-not-same-as-google-and-deepmind-71702102228046.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 60
-  - title: "Microsoft and labor unions form ‘historic’ alliance on AI"
-    excerpt: "Microsoft is teaming up with labor unions to create 'an open dialogue' on how artificial intelligence will affect workers."
-    publishedDateTime: 2023-12-11T17:51:00Z
-    webUrl: "https://www.latimes.com/business/story/2023-12-11/microsoft-and-labor-unions-form-historic-alliance-on-ai"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 54
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/c303384/2147483647/strip/true/crop/2000x1050+0+218/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd9%2Fc8%2F51d3b04f402cbe775fac74266e80%2Fmicrosoft-openai-75424.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: unite
+      domain: unite.ai
+    quality: 16
 
 secured: "4XAjckzSz51wfMqE3UpZt0GI5+WlA0DgYeff2qZR63APoJ6lLLlV/luJqp98QLLFU4poBaiB6MmECOu5XUxm8IKTvEmAskqn95qiKhceT3gw10bapXh3DYgeiJB7CxxxU6Lo9/f49PPjvRyLHPS7KhkyBsKdX4x2A4TSbv+1srnfrfS0T8jiGj2r3KNRI1CmRLixPNA2oYKa0nlOUbqFGPihEMMQlZR5Wi3sNwjUYlsTLB5yyyCP3IkLw1OBHGc1NAv4FeBvlnFtBSErFZ/gTqVNWSIUZwkGfqqptIK5ZXRT+Z3dfZv2dGq0HP9UoPNjoU0OtM0ncg4nWle4+593JAzddaSQqLG8uotTZczuGnWfQCAbrxGfJ6S1zsLDCxGdZXzYjscSLo/GpWrenGAegV2iZOKbQQZIoS/EnY6peIiwPeFamGxKXGDR0hkavvS9TLeHBgcng1lyWDKZMTSjWBCIcw2NOsIjH/Ezppqpcb4XhSnqL+5AAllLUK3PCR8nxOEjYkJ2TPgWN2/q0pQ5LQ==;7kA5k0UyWSC0WcFG1J6skg=="
 ---

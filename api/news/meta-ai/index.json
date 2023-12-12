@@ -115,7 +115,7 @@
       "originalUrl": "https://www.nytimes.com/2023/12/09/technology/openai-altman-inside-crisis.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 166,
       "tags": null,
       "images": [
         {
@@ -155,7 +155,8 @@
       ],
       "topics": [
         "AI",
-        "Meta AI"
+        "Meta AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -167,7 +168,7 @@
       "originalUrl": "https://www.infoworld.com/article/3711284/meta-releases-open-source-tools-for-ai-safety.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 149,
       "tags": null,
       "images": [
         {

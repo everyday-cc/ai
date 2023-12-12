@@ -24,6 +24,17 @@ images:
     height: 309
     isCached: true
 
+related:
+  - title: "Renesas Delivers New RA8 MCU Group Targeting Graphic Display Solutions and Voice/Vision Multimodal AI Applications"
+    excerpt: "Renesas introduced the RA8D1 MCUs optimized for graphics display solutions and Voice/Vision Multimodal AI requirements for multiple applications."
+    publishedDateTime: 2023-12-12T12:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231212466636/en/Renesas-Delivers-New-RA8-MCU-Group-Targeting-Graphic-Display-Solutions-and-VoiceVision-Multimodal-AI-Applications"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
+
 secured: "5XkvWTGTVNcdg856sCrC+PMyPHUOviXaqe/o8+6BZq+HMaMNylFyD/QiE4dmoZX3xluvscO6do3TSKWgx2CzmeJCLs/A3sdV4UIcJzfw54FbumEMFbX2KsI5UKcQq4x636brLOdfjuYV8HAZuQs/m9bj+17Iree5C/uy5XJbF9jl0NMzhVdANxsUCA7bTG4jECyScvqatHfZKjX8IVrrfxVunt23n7NPn9JwPWBFbqTY6QS+d2A0PipAMcMcaXrFojb9lnr2GN1SGIDoXs5PrphN9e7yINH/8f9s9/7vGT93nvxwyCIpsXHlf+ISh1ih+ZsA85jDWB7B+8A71Fu8PasSANHXwSN4RRSLkDPzsME=;whPnUMACmB8IpLovpGuMng=="
 ---
 

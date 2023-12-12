@@ -43,6 +43,15 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Automotive will drive demand for semiconductor chips but AI is coming on fast | KPMG"
+    excerpt: "Semiconductor industry executives said automotive will be the top driver for chip revenue, according to a survey by KPMG."
+    publishedDateTime: 2023-12-12T14:00:00Z
+    webUrl: "https://venturebeat.com/ai/automotive-will-continue-to-drive-demand-for-semiconductor-chips-kpmg/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 57
 
 secured: "JWmNoBlUXBPPxhcCi7nvuLYRN8b+ioIwBWD8Uk2u3ONngxWwM0bAsP3g1KFQuKCKacXX2lYSre0Szayx4/8HrY5nab4n8XAH25JEGhT/vQxyWGfOrjYxuV1TijYqU9TJRiE3ivrppxOF0Nbax38Q7o5P3IQCY1evXSaE5WpiAnOsUiCxkdXCVFLLE3R6zTDTS1DnXCAzSnROEc0lovwztLB6wMNJ5M5XG68VmjProIHEMSUeMth1J1oCSeLsmx2sf+SZkf9RELdyZ1vA/NmEC1WQW6e/q5FX6T3dGOrnGtkmy/uEb5DysSUPeclh/+qpU/B5/fbPCVbShkU2UNn21d3QAZma0/G8WLfKsTWaiNI=;tvcGrIS+7HZFncaRSjF5Zw=="
 ---

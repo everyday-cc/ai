@@ -9,7 +9,7 @@ ampWebUrl: "https://www.networkworld.com/article/1252992/tsmc-bets-on-ai-chips-f
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1252992/tsmc-bets-on-ai-chips-for-revival-of-growth-in-semiconductor-demand.html/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Automotive will drive demand for semiconductor chips but AI is coming on fast | KPMG"
+    excerpt: "Semiconductor industry executives said automotive will be the top driver for chip revenue, according to a survey by KPMG."
+    publishedDateTime: 2023-12-12T14:00:00Z
+    webUrl: "https://venturebeat.com/ai/automotive-will-continue-to-drive-demand-for-semiconductor-chips-kpmg/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 57
 
 secured: "KBzDzA4YuhH4T4+fmK3AeyipaguY43DB9MLcnXr/WiXUH0hp1w6y96pNGzt7AF8KaTiclRVJ+vky+5vpVyCLcJClAnqhqDzecZbGmSPtsioPSyKKzx+LahRtdUxBb+rZSJ2Eb3BICiUwbckSpzGnkqe0/8vLQU7e3353fd7RBOnDBFctYNxJcXvLgbQ8jJw0RZXrxlC2KDRQHd8BONeM+44Hr7b4o+oyb78/6BJ2jOn0c/Z5q/LgYAKu5ppIdLzmBUZC50radjU6gdshYDyOVNIV1JNFjB4Gfpd9IYC4b+Yk2s70dH0jCy2ETt3dU0x/PQyHeXksluEXQxX/NeJHyA2n9CeRsyFbjttPsTX5tgXPf8Tq5Yp0kHwwuG4uTOljV2aiU/VIdkGJDTYTbahGU+M8PRtKYgqCZEnHOphW5HNyuZHepBExAD7GvM0JDsjIshaYz2LWO3djMQmhV51gTuzCTPlB4xMTwOFrGomfvjzTJ5KohPjWFKJCm3AHLv/VQngO/MeP/aw2BN41MkbxVg==;9J9mPVS3J3rAUkZ+73iPXw=="
 ---

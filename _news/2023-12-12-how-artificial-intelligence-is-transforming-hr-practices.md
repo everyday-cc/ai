@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "How Machine Learning is Reshaping Industries"
+    excerpt: "In the era of digital transformation, machine learning (ML) has emerged as the driving force behind a revolutionary shift in industries worldwide. From healthcare to finance, manufacturing to marketing,"
+    publishedDateTime: 2023-12-12T14:50:00Z
+    webUrl: "https://www.timesnownews.com/education/how-machine-learning-is-reshaping-industries-article-105939900"
+    ampWebUrl: "https://www.timesnownews.com/education/how-machine-learning-is-reshaping-industries-article-105939900/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/education/how-machine-learning-is-reshaping-industries-article-105939900/amp"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 61
+    images:
+      - url: "https://static.tnn.in/thumb/msid-105939904,thumbsize-372248,width-1280,height-720,resizemode-75/105939904.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "The Rise of Artificial Intelligence: Transforming Industries and Reshaping Our Future"
     excerpt: "In the annals of technological evolution, few advancements have sparked as much excitement, speculation, and transformative potential as Artificial Intelligence (AI). The rise of AI has become a defining narrative in the contemporary tech landscape,"
     publishedDateTime: 2023-12-11T22:12:00Z

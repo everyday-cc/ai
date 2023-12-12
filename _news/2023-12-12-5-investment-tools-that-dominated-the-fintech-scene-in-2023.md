@@ -25,56 +25,52 @@ images:
     isCached: true
 
 related:
-  - title: "Apex Fintech Solutions, which called off its SPAC merger in 2021, has revived plans to go public"
-    excerpt: "The fintech had tried to merge with a SPAC in 2021 but ended up ... which was valued at $43 billion in September after raising over $500 million in fresh capital. Anthropic, the AI startup, snagged a roughly $5 billion valuation in May after securing ..."
-    publishedDateTime: 2023-12-12T12:48:00Z
-    webUrl: "https://fortune.com/2023/12/12/apex-fintech-ipo-chime-databricks-unicorn-sofi/"
-    ampWebUrl: "https://fortune.com/2023/12/12/apex-fintech-ipo-chime-databricks-unicorn-sofi/amp/"
-    cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/12/12/apex-fintech-ipo-chime-databricks-unicorn-sofi/amp/"
+  - title: "Financial vulnerability support fintech Hope Macy in seed funding boost"
+    excerpt: "Fintech Hope Macy has secured £1.5m in seed investment to support the roll-out of its regulated open banking and AI platform to counter the growing problem of financial vulnerability. The funding has come from the Development Bank of Wales and angel investors."
+    publishedDateTime: 2023-12-11T15:34:00Z
+    webUrl: "https://www.business-live.co.uk/technology/financial-vulnerability-support-fintech-hope-28270288"
+    ampWebUrl: "https://www.business-live.co.uk/technology/financial-vulnerability-support-fintech-hope-28270288.amp"
+    cdnAmpWebUrl: "https://www-business--live-co-uk.cdn.ampproject.org/c/s/www.business-live.co.uk/technology/financial-vulnerability-support-fintech-hope-28270288.amp"
     type: article
     provider:
-      name: Fortune
-      domain: fortune.com
-    quality: 61
+      name: business-live
+      domain: business-live.co.uk
+    quality: 44
     images:
-      - url: "https://content.fortune.com/wp-content/uploads/2023/10/William-Capuzzi-APEX-GettyImages-1052297072.jpg?w=840"
-        width: 840
-        height: 559
+      - url: "https://i2-prod.walesonline.co.uk/incoming/article28270320.ece/ALTERNATES/s1200/2_Hope-Macy.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Here are the newly minted fintech unicorns"
-    excerpt: "and that’s when fintech gets me really excited. Doing good while making money? The ideal definition of win-win. Read more. And, listen to the Equity crew discuss in more detail below. Speaking of AI, reporter Aisha Malik reports on Mastercard’s new ..."
-    publishedDateTime: 2023-12-10T15:16:00Z
-    webUrl: "https://techcrunch.com/2023/12/10/fintech-unicorns/"
-    ampWebUrl: "https://techcrunch.com/2023/12/10/fintech-unicorns/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/10/fintech-unicorns/amp/"
+  - title: "Unfolding the future of fintech: Top 5 tech trends in 2024 and beyond"
+    excerpt: "With differentiated, innovative, customer-centric value propositions, and collaborative business models—it’s safe to say that FinTechs have profoundly transformed the face of financial services."
+    publishedDateTime: 2023-12-11T05:36:00Z
+    webUrl: "https://www.financialexpress.com/business/industry-unfolding-the-future-of-fintech-top-5-tech-trends-in-2024-and-beyond-3335069/"
+    ampWebUrl: "https://www.financialexpress.com/business/industry-unfolding-the-future-of-fintech-top-5-tech-trends-in-2024-and-beyond-3335069/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/industry-unfolding-the-future-of-fintech-top-5-tech-trends-in-2024-and-beyond-3335069/lite/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 54
-  - title: "6 Fintech Resources in Asia to Read in Preparation for 2024"
-    excerpt: "Look ahead to the future of financial innovation in Asia, with this guide to some of the must-read fintech resources to gear up for 2024."
-    publishedDateTime: 2023-12-11T07:41:00Z
-    webUrl: "https://fintechnews.sg/81825/fintech/6-fintech-resources-in-asia-to-read-in-preparation-for-2024/"
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 44
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/10/slice-1.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Portuguese Fintech Map and Report 2023"
+    excerpt: "Despite a trying macroeconomic environment, Portugal’s fintech ecosystem is showing resilience and development this year. This growth has been driven by significant developments in industries such as artificial intelligence (AI),"
+    publishedDateTime: 2023-12-11T07:00:00Z
+    webUrl: "https://fintechnews.ch/fintechportugal/portuguese-fintech-map-and-report-2023/65442/"
     type: article
     provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
+      name: fintechnews
+      domain: fintechnews.ch
     quality: 24
     images:
-      - url: "https://fintechnews.sg/wp-content/uploads/2023/12/6-Fintech-Resources-in-Asia-to-Read-in-Preparation-for-2024.jpg"
+      - url: "https://fintechnews.ch/wp-content/uploads/2023/12/Portuguese-Fintech-Industry-Sees-Further-Growth-Despite-Challenging-Macro-Environment-.jpeg"
         width: 1024
         height: 567
         isCached: true
-  - title: "Top Technology Trends in Banking and Fintech for 2024"
-    excerpt: "While still in their early stages, blockchain and DLT have the potential to revolutionize various aspects of financial services, from cross-border payments and trade finance to digital identity and anti-money laundering compliance. 2024 will see further  experimentation and adoption of these technologies in various use cases"
-    publishedDateTime: 2023-12-10T19:10:00Z
-    webUrl: "https://www.finextra.com/blogposting/25354/top-technology-trends-in-banking-and-fintech-for-2024"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
 
 secured: "avX1LQ3tEPQIGjkIHyhhIzo7um9S9PsAHPE7xuLP3qxBjv5wq1SaUP+mVc+5TBP2FM8x6PpmyZbwu9sdlP0Fb6KlItKwIhQFBAf8FwP1FDw3AL0PJsFACTs+sYDRuh485B+VDgKdWQIukDEadO5qge+gDS2DBGgNkyA52fJvARGZYdzFDU2q2OuYFTWAgINJlkBs3Wlot3NtgCJ7UcaxQokXv5u276Zqfu6Vp1VUcBrTC517n4hy2psZW0yRyGw3oFbgPBbvnxM91Xt9HvzMb4+vRf2Vbz7HWANFimKrl5ezkPYEsJ47cQwgsN+IJVUYV8UkrYDcMfkedlBxpIsi5DkkSFFCHrTA/l24/hECXOp9EZz/x+s/soIzKCqmBJXcxDdybaIfnh9W/ak2WSgBUdNHVbfuZibT5UnEHR3tQsySguESg/H8qvcxb488wrvWSu0FNX3Sa1qDJyKwAMHyZ1XrVVbbULIEkTcDMJhWAteH9/eb4swoEotJZD5doiMH2TLyz+/ar98vFTR+1Ze4MA==;7AQP76rpuyLEWct+GFknsQ=="
 ---

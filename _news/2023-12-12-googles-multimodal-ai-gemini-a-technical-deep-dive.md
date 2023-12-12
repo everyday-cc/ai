@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Everything about Gemini AI: Google's assistant, Nano, Ultra"
+    excerpt: "Google has recently launched its own Artificial Intelligence (AI) called Gemini. It is a new model that is available on the Bard platform and will gradually be extended to other Google services. Learn more about its features and how you can test"
+    publishedDateTime: 2023-12-12T14:20:00Z
+    webUrl: "https://ccm.net/apps-sites/web/11817-everything-about-gemini-google-s-ai-assistant-nano-ultra/"
+    type: article
+    provider:
+      name: CCM
+      domain: ccm.net
+    quality: 39
+    images:
+      - url: "https://img-19.ccm.net/_o5FU_f4-2Gf3L75OV9jbdkJ8G4=/1500x/smart/e81408f07b2b42efa7ab3b981452b19f/ccmcms-enccm/39487748.jpeg"
+        width: 1500
+        height: 981
+        isCached: true
   - title: "Is Google's Gemini the real start of the artificial intelligence boom?"
     excerpt: "Google has released Gemini, its most powerful artificial intelligence model to date, as AI seeps into many facets of life. Will Knight, a senior writer for Wired, joins CBS News with a look at the revolutionary technology."
     publishedDateTime: 2023-12-11T20:21:00Z

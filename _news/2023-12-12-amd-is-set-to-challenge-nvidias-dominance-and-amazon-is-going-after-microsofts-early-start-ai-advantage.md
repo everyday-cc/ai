@@ -3,10 +3,12 @@ category: news
 title: "AMD Is Set To Challenge Nvidia's Dominance And Amazon Is Going After Microsoft's Early-Start AI Advantage"
 excerpt: "According to analysts, Nvidia Corporation (NASDAQ: NVDA) controls roughly 80% of the AI chip market, when including the custom processors built by companies such as Alphabet (NASDAQ: GOOG)-owned Googl"
 publishedDateTime: 2023-12-11T18:23:00Z
-originalUrl: "https://www.benzinga.com/markets/23/12/36183243/amd-is-set-to-challenge-nvidias-dominance-and-amazon-is-going-after-microsofts-early-start-ai-advant"
-webUrl: "https://www.benzinga.com/markets/23/12/36183243/amd-is-set-to-challenge-nvidias-dominance-and-amazon-is-going-after-microsofts-early-start-ai-advant"
+originalUrl: "https://www.benzinga.com/23/12/36183243/amd-is-set-to-challenge-nvidias-dominance-and-amazon-is-going-after-microsofts-early-start-ai-advant"
+webUrl: "https://www.benzinga.com/23/12/36183243/amd-is-set-to-challenge-nvidias-dominance-and-amazon-is-going-after-microsofts-early-start-ai-advant"
+ampWebUrl: "https://www.benzinga.com/amp/content/36183243"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36183243"
 type: article
-quality: 17
+quality: 57
 heat: -1
 published: false
 
@@ -15,8 +17,14 @@ provider:
   domain: benzinga.com
 
 topics:
-  - AI
   - Microsoft AI
+  - AI
+
+images:
+  - url: "https://cdn.benzinga.com/files/10163_0.jpg?width=1200&height=800&fit=crop"
+    width: 1200
+    height: 800
+    isCached: true
 
 related:
   - title: "AMD Takes The Fight To Nvidia With Latest AI Chip Launch. Is The Stock A Buy At $116?"
@@ -165,22 +173,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AMD launches Instinct AI accelerator to compete with Nvidia"
-    excerpt: "AMD enters the AI acceleration game with broad industry support. First shipping product is the Dell PowerEdge XE9680 with AMD Instinct MI300X."
-    publishedDateTime: 2023-12-07T14:36:00Z
-    webUrl: "https://www.networkworld.com/article/1251844/amd-launches-instinct-ai-accelerator-to-compete-with-nvidia.html"
-    ampWebUrl: "https://www.networkworld.com/article/1251844/amd-launches-instinct-ai-accelerator-to-compete-with-nvidia.html/amp/"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1251844/amd-launches-instinct-ai-accelerator-to-compete-with-nvidia.html/amp/"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 59
-    images:
-      - url: "https://www.networkworld.com/wp-content/uploads/2023/12/server_rack_backend_development_engineering_network_servers_data_center_data_centre_by_seventyfour_shutterstock_1921647347_royalty-free_digital-only_2400x1600-100890802-orig-1.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "AMD Takes The Fight To Nvidia With Latest AI Chip Launch. Is The Stock A Buy At $116?"
     excerpt: "Advanced Micro Devices stock (NASDAQ: AMD) hosted an event to unveil its latest chips tailor-made for the booming artificial intelligence (AI) market. The newly launched chips inc"
     publishedDateTime: 2023-12-11T03:38:00Z
@@ -203,6 +195,20 @@ related:
       - url: "https://img2.chinadaily.com.cn/images/202312/12/6577d1f4a31040acaf8272a1.jpeg"
         width: 1078
         height: 718
+        isCached: true
+  - title: "US Walks Back Stern Warning To NVIDIA Over China-Bound AI Chips"
+    excerpt: "Potential buyers of NVIDIA's GeForce RTX 4090 can breathe a slight sigh of relief with news of leniency towards the GPU designer's AI GPUs. Why is that? Whe"
+    publishedDateTime: 2023-12-12T14:15:00Z
+    webUrl: "https://hothardware.com/news/us-walks-back-stern-warning-to-nvidia-over-china"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 54
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/63327/content/rog.jpg"
+        width: 708
+        height: 399
         isCached: true
   - title: "US in talks with Nvidia about AI chip sales to China"
     excerpt: "The California-based artificial intelligence chip designer has commanded more than 90% share of China’s US$7 billion AI chip market, but analysts have said new US curbs on chip exports are likely to create opportunities for Chinese rivals to make inroads."
@@ -227,15 +233,6 @@ related:
         width: 620
         height: 465
         isCached: true
-  - title: "AMD AI Chip Challenges Nvidia’s H100 as Rivalry Enters New Era"
-    excerpt: "AMD's new MI300X AI chipset, coupled with the ROCm6 software, is set to compete with the Nvidia H100 as their GPU rivalry enters a new era."
-    publishedDateTime: 2023-12-07T14:30:00Z
-    webUrl: "https://beincrypto.com/new-ai-chip-amd-challenge-nvidia/"
-    type: article
-    provider:
-      name: https//beincrypto.com
-      domain: beincrypto.com
-    quality: 34
   - title: "China Firms Rush to Poach Nvidia Clients With AI Chip Offerings"
     excerpt: "Chinese chip designers are rushing to chip away Nvidia’s market share at home with their own artificial intelligence (AI)-focused offerings."
     publishedDateTime: 2023-12-11T20:04:00Z
@@ -245,15 +242,6 @@ related:
       name: Cbonds
       domain: cbonds.com
     quality: 34
-  - title: "AMD's New AI Chip MI300X Eyes Market Lead, Challenges Nvidia's Dominance"
-    excerpt: "AMD has begun selling a product that it thinks could challenge Nvidias domination of the artificial intelligence processor industry, which it estimates will be worth $400 billion by 2027. AMD Introduces A New"
-    publishedDateTime: 2023-12-07T13:20:00Z
-    webUrl: "https://www.econotimes.com/AMDs-New-AI-Chip-MI300X-Eyes-Market-Lead-Challenges-Nvidias-Dominance-1667544"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 33
   - title: "AMD CEO to Nvidia fans: There will be multiple winners in the AI chip battle"
     excerpt: "AMD CEO Dr. Lisa Su refuses to play second fiddle in the AI chip race to rival Nvidia, led by the black leather jacket-wearing Jensen Huang. \"There are going to be multiple winners in this market,\" Su said on Yahoo Finance Live (video above). \"I think there's a great growth opportunity for us, we expect to gain market share.\""
     publishedDateTime: 2023-12-07T18:56:00Z
@@ -300,6 +288,6 @@ related:
       domain: newswit.com
     quality: 13
 
-secured: "9x5Tu80+jfiXi96zfYxipKN4F6qP3f2O8BH7LWX8HreBlmzOV+Xy1+ZxfmHm5Q/v7nJKodqzxaTwVWSt3l+vh0T+aDw5IoueSC2GLjbq22XN2wUCvEcl7hItYw9H0YrnvElsqUaW7OKduCMyumhDLgXfRQe3a8S02FLpoiS+xH28LMyNU0s4+dC+Msm0VXk1SYaAy/jqKwRByusM7kRr+62bTFK+3k4d0mt0jMQWAunQA2AEwFwXY7i87xM+TZ/emS+U4gkLRHr3z93cwg/XSkQ5KC+PHgQL47ju6nCjl44KSHVNBGkqfCaipjXdnprho1QNEmQ6bJtV8WwenhDjXj51+/tdvmdG4MVJcxlZ/Qq7b7iKhSRTjKuXyLY091fmBjpWG/qjv30DZ6vJGn07YTWZmc/eE4dtkWaeYycSqhLeb5iIr2Dp/eB/4MlveLIR2C+f5kcM9vqssZpTkZYSioULR2lZhjpzoGafUN1K/r2x7RioksdxT1UsoIExgqDaaGiPLAtqI3/9fHORdMgT7A==;I1vbwmXCrg2PAejaKLEk+w=="
+secured: "Og4rnvUAfvkgIR/cvyMHJbHWrPEoNICj2IIs04jP+OSKSWOgjtH2XSuFay2tVw+qjV7OWtMIg7wMeUp8p3oKml9Uo+B0E8Ro4SaEWpi8Y6n/FA9l79ICbSeBuIjt32xdEV4lXBogQvO6mqcWCVj4v6qIhzq2d9TYe3F8KqxlrjE8QIhtbpC+68BKLLO1WWdCZz2Kfz53KwdkboSQF2U8sjsuVBFqH88gMDuu+25Cku3ZM/YLRjgl2HlRUzoBAtjzMZmMREKHiQ/VKkzOxbsM2NNCjoJPTl8Ky5u5BebHDlGeoUdPrFMXxD5lWkHi/eTi8GfQ5b6H2grPrM8v+xbnIHDM8RzLKylCD3D6PHKdGH0=;B6xLAc6eltljg92U7vDxiA=="
 ---
 

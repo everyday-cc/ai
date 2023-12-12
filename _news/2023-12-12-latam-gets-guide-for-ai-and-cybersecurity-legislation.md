@@ -24,6 +24,17 @@ images:
     height: 450
     isCached: true
 
-secured: "B0NvjM4Cjm/aJfwLkWuZm1VNn8iU3vmqQUrA7scVBVRks/DvhPOlzUpna6TKY6aCPn244HStPuE6Nc1jIWbEWLyYD5BoaR/YGEf7vQSyetnC01uW/VECm1iwvY76OqBJUyEKT6R2WgVU6yEoxIUggr761ZpeMS3zHD1ialm7oaWH63AZUhjsw67Qzn7vpfonkETySEaomdcUifVDo3ZpwgVBWLD6WVEZRZYTsHBC5Fi87GQfVR7vafvhyZq3lB5tk+q49iS1wuTs1/eJqWBJA0xssszlUdAnvxg88Um96JMhEQ7WofXuocTw5GmcnjUDFSXlSgALxrOXNlQWX3zcV6tOWlL621cp5isoVRFH7ds=;bjtzeQUfOojPCD7Pu1AKzg=="
+related:
+  - title: "How Cybersecurity Can Build Consumer Trust In Self-Driving Vehicles"
+    excerpt: "That said, the cybersecurity industry must solve the other major concern: the protection of these vehicles against cyber threats. This will not only benefit self-driving cars but also vehicles in other classifications—such as autonomous aerial vehicles—as a strengthened blueprint is established and updated along the way."
+    publishedDateTime: 2023-12-12T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/how-cybersecurity-can-build-consumer-trust-in-self-driving-vehicles/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 34
+
+secured: "+O3CXhoEgkWgU2iMih/SiOtiCsbenUzAifvkjHQr7seMaNbSphZ9Iz4/9YxzMZpMe6Msj+HCPf6X7dMqI5Zjq9Rrbb3XYtvo/OxQaRmSQ3Oclvv3+UvrOjGs6oNOlVbyExlNn0UbTe+OsxtuYItX4QumxLJa8PyvC4HFQLgYn7PptxpT4uOU62zH/nh/jssUyPNlGaVHVkIqsgBUZFyo1hEHMB2fFRV8LU1+t+y7PlFFYvkYzRZgqAXuhOdCb1Q93ukVWJyj/pbEeb/FOEHag5W9agMRefxQqLVxGlgFe0RmzA0SpJ9AvJC3vuJlu2C6wGeFXqiYoZuZmjCl3YV4zO15ofuOq/eKQ6nXjUBr44EzRcmXtMs723JwHg2SKCBRNhjCbUKpbRXBKSbsaLL/MxjhtzI5y8aYLRgxEtzCKhoyqYPkXj5vpGk0m9npgOTHrVIGWAYmlrXsLTwigkAZOfgZVLskPczFDdb4uXtUT4PkZ/1HGa2yQUxmaC65DxCWuWYkEVEnBjDuu7IsmcQIwQ==;i05Ff+F/8AbFvZ+oy89ovw=="
 ---
 

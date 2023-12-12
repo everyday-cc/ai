@@ -33,6 +33,15 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "AeroVironment Awarded $16 Million U.S. Navy Contract for the Advancement of Video Analytics and Computer Vision Research to Support Multi-Domain Robotics Initiatives"
+    excerpt: "AeroVironment Awarded $16 Million U.S. Navy Contract for the Advancement of Video Analytics and Computer Vision Research."
+    publishedDateTime: 2023-12-12T14:11:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231212709224/en/AeroVironment-Awarded-16-Million-U.S.-Navy-Contract-for-the-Advancement-of-Video-Analytics-and-Computer-Vision-Research-to-Support-Multi-Domain-Robotics-Initiatives/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 19
 
 secured: "87OnyPhM4Q3vjP7oFkU9z+qEvKpwDpo7BL/Try2Mx8znKz5Nrtjhg1Vcn6EGuDxVJ3BC6yQfDNz4HlS6wCo9V2GJc9Do7Y6EdEK2bC7HAyL087Yi5+K3lQplHjDnT74UktbgZ/6DCb41VV1YtvnpEFne8N/vAhECB7PHkminaByfX+omw95uQNCQftLKZk2QYASeODI1wAQYZfM4bSUTyglzvhTSNTVQU7C9bvIMbZcHtINr/eVFuGnmfYwDYaBvXSSXaam+ppUp1hRN0TmjeSbOi37mvswholhzONg/IZN1dKKSQSm+QDGO3rOYh+I/HPKSC1h7a4HVnKjHHYvhy4cpLErFz/yNLAef0XnS2CA=;dwDDpp2kSK9C3IKrvUQXjw=="
 ---

@@ -48,6 +48,15 @@ related:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
     quality: 51
+  - title: "AI in Meteorology: How Google's DeepMind Enhances Forecasting"
+    excerpt: "Explore how Google's AI revolutionizes global weather forecasting with unmatched accuracy, efficiency, reliability, speed, precision, and sophisticated analytics."
+    publishedDateTime: 2023-12-12T13:03:00Z
+    webUrl: "https://www.electropages.com/blog/2023/12/ai-strikes-again-google-ai-can-predict-weather"
+    type: article
+    provider:
+      name: Electropages
+      domain: electropages.com
+    quality: 34
 
 secured: "v7oN/78evJU1QH4LeVGc7lhCEAInmfLRIQTTEqG1Phln308rfUsx7mZ5yoRRzYIKNk8GIMwaxci5WPS50XIe77eDwHkqcDenmxc8Y+bgv0Lp1FtfAoK+SUo49+7j7R54kDUl7+otuTRvr4Y/KGGY+80scfaP3GAIfvUENVVVo/HE7wDYmQSanNmD84f7vv1CBp5AVokMvwA4TbKermrgBZ4cIf90wTm8G3avr0jxvFJuBndS/IVb8VieXOJDtB7+0It6181TvJCqUrWwgbopWVyVTD1ERZNuOT0THqmg/0+noZ09Y6J1w3FU0Nv1tdGvwR7mkBQqe+BHsruVTTTxvcPTC/KXe1rs7u0JlP9e5Pg=;c5QF7g0RM9pCC9UDIQsscg=="
 ---

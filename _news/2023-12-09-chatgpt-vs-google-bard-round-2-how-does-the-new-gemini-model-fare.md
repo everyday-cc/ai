@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/ai/2023/12/chatgpt-vs-google-bard-round-2-
 webUrl: "https://arstechnica.com/ai/2023/12/chatgpt-vs-google-bard-round-2-how-does-the-new-gemini-model-fare/?view=archive"
 type: article
 quality: 71
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google’s Gemini Is the Real Start of the Generative AI Boom"
-    excerpt: "A new AI model from Google—called Gemini—is fresh competition for OpenAI’s ChatGPT. The AI rivals are now working on even more radical ideas."
-    publishedDateTime: 2023-12-07T16:08:00Z
-    webUrl: "https://www.wired.com/story/google-gemini-generative-ai-boom/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 67
-    images:
-      - url: "https://media.wired.com/photos/6570fa9c24772bae860336a9/191:100/w_1280,c_limit/bard-biz-gemini_mm_03.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "ChatGPT to Google Bard: AI giants are reshaping search results"
     excerpt: "Explore the evolving landscape of search engines. From keyword-matching engines to AI-powered platforms, search experiences are being reshaped."
     publishedDateTime: 2023-12-12T01:50:00Z

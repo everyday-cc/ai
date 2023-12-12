@@ -7,7 +7,7 @@ originalUrl: "https://deepmind.google/discover/blog/google-deepmind-at-neurips-2
 webUrl: "https://deepmind.google/discover/blog/google-deepmind-at-neurips-2023/"
 type: article
 quality: 89
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -52,6 +52,15 @@ related:
         width: 5426
         height: 3617
         isCached: true
+  - title: "AI in Meteorology: How Google's DeepMind Enhances Forecasting"
+    excerpt: "Explore how Google's AI revolutionizes global weather forecasting with unmatched accuracy, efficiency, reliability, speed, precision, and sophisticated analytics."
+    publishedDateTime: 2023-12-12T13:03:00Z
+    webUrl: "https://www.electropages.com/blog/2023/12/ai-strikes-again-google-ai-can-predict-weather"
+    type: article
+    provider:
+      name: Electropages
+      domain: electropages.com
+    quality: 34
 
 secured: "3Hr9E3RLu6xpK7e8lB9RbVIe70WmYpxRZLdep8eA7efs8CmSHsoT06oSVGzuLfKbQfNs3LqvZw9RbsyMUgnUyOFsztrIKaYX8jy6etTqFwJ/yCnAR6aCdoTAzps5hhnNNW6LRB6whMT6MNt9/Jfsj1KFsMw/gY0ttTeECdsVIU/OVNsnD008J4es1duDR3Sui8R0GAGYWKXXGqilJkrRZHR51QZRJTE/unhOrw7/MxEdncxBnvfTHNLuGqnezHK0Qu2iNEB1kATPg81QyebxvxGNULVDBO+nmYlyg6D6flKJRLBsG2lissYwaJUxgiOF9XJIFC0P+dmLsdoN7PsG6LNDDOhNPgAKrpaCyrvw+Uo=;jVjGG6+5s4If5VzCpK0dwg=="
 ---

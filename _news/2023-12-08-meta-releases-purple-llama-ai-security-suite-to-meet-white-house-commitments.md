@@ -66,22 +66,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "Introducing Purple Llama for Safe and Responsible AI Development"
-    excerpt: "Purple Llama will bring together tools and evaluations to help developers build responsibly with open generative AI models."
-    publishedDateTime: 2023-12-07T14:30:00Z
-    webUrl: "https://about.fb.com/news/2023/12/purple-llama-safe-responsible-ai-development/"
-    ampWebUrl: "https://about.fb.com/news/2023/12/purple-llama-safe-responsible-ai-development/amp/"
-    cdnAmpWebUrl: "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2023/12/purple-llama-safe-responsible-ai-development/amp/"
-    type: article
-    provider:
-      name: about.fb
-      domain: fb.com
-    quality: 59
-    images:
-      - url: "https://about.fb.com/wp-content/uploads/2023/12/Llama-Trust-Safety_Header.jpg?w=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Meta Releases Purple Llama to Bolster Responsible AI Development"
     excerpt: "Explore Meta's groundbreaking initiative, Purple Llama, designed to cultivate responsible development in open generative AI models."
     publishedDateTime: 2023-12-08T09:22:00Z

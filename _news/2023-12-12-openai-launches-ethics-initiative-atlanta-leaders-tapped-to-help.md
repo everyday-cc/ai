@@ -7,7 +7,7 @@ originalUrl: "https://www.ajc.com/news/business/atlanta-leaders-tapped-for-new-e
 webUrl: "https://www.ajc.com/news/business/atlanta-leaders-tapped-for-new-ethics-initiative-launched-by-openai/7MGJFO5L2ZGYPEY3WDDBGK24FE/"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Atlanta Local Gov Leaders Tapped for AI Ethics Initiative"
+    excerpt: "Atlanta nonprofit, activist and educational leaders will be part of a new ethics council on artificial intelligence co-chaired by Sam Altman, CEO of OpenAI, the company behind ChatGPT."
+    publishedDateTime: 2023-12-12T15:05:00Z
+    webUrl: "https://www.govtech.com/artificial-intelligence/atlanta-local-gov-leaders-tapped-for-ai-ethics-initiative"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 54
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/7145fd7/2147483647/strip/true/crop/940x457+0+91/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F3a%2F22%2F6a1ba91c0cab40a7c7c963fa06a1%2Fshutterstock-584819980.jpg"
+        width: 1440
+        height: 700
+        isCached: true
 
 secured: "BQouS70rPsGkcFikhykXFVTbzYzMn77bLBHnQ6WZiHb2FbBXKjOz1SxadVJPZnQ4U87K4E9rhJq2COrB+bxL+yky+6n7VXVBDvrhBc5vss0pqhv3rZTlhrvQEcTIGIbLYYVBsvZ2o6CGWaP65Jyb9DPes8UQM2XPVSHdZ/ba2O88tdgjb/5CvyZObQiyqa1SM9Bgp6AeYAn9hULMo2FDdlNy0giaXUlaK3P1sxpH4egnfHfL2OSBXuOlIfpGJxf4bXOPicU7NDr/2eJKPWnJ2cWFGXGNfloK9DnM7gHxBePZDFkjR9mdRgwVXYOLhjk9Tr7aCTJ/cGfSYYCGF0eDCLErDDyHz9yn3JUoDi66nWI=;ZcU3DCBv4AovcvRnSjmShQ=="
 ---

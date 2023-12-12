@@ -79,6 +79,15 @@ related:
       name: eureporter.co
       domain: eureporter.co
     quality: 15
+  - title: "Operation HOPE’s John Hope Bryant and Open AI’s Sam Altman Announce Formation of First-of-Its-Kind AI Ethics Council at 2023 Annual Meeting of the Hope Global Forums in Atlanta"
+    excerpt: "On stage yesterday afternoon at the 2023 Annual Meeting of the Hope Global Forums in Atlanta, GA, Operation HOPE’s John Hope Bryant and Open AI’s Sam"
+    publishedDateTime: 2023-12-12T14:22:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231212974597/en/Operation-HOPE’s-John-Hope-Bryant-and-Open-AI’s-Sam-Altman-Announce-Formation-of-First-of-Its-Kind-AI-Ethics-Council-at-2023-Annual-Meeting-of-the-Hope-Global-Forums-in-Atlanta"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "u1bthsXX/Ld6+M57od4zA++XPy+0zZQZv5urSBd9rNLNelrd+9ZJ7N2Vb2zDIYyX3e+HJULSoRyobEpNSdsZ5JIaf0cPYjkqRnKjn6vLxblCRbcUMnfhlY0hVDzr1xJrIm2dNoA4HtUKG7ssRpaeYE66VlbHdspgKu3X4zejMXAX3b2YJ4TIWRbsnNGjGI7D92mk1arI/y7qL5v3EI9RnlswL/kFwaj8MjoCsU6+ijoxpnmLOYhWzBQl24EdtguEhbOL4RscvxS2s05WZyE/QoJOdRXO9OOzCydkzMaYmu5ttHafGIx9vHKRD/JUO7O8c9p/KOjQ64tsMDT/jkmYc+JmqV6BYwC2LrJZMeZUCNaamr5MZH85lkQHq8/ZxP6VuSRdCbcOzK9g5w9MjPyfJuvB8dQ24TnGloCMki8FLhcaB0GYtEpupDP8PlB1RY1HEOAnCiO08VaV2hk7H2YlkfZG5cuhIM6GAsiN8U6g0wco2kaUUw0Qsci7VVwU6I+KlBqhzEXTxA0bhqn1tHIl6A==;iPRn1Qjln0ms8dfuH5yLww=="
 ---

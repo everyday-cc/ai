@@ -48,6 +48,15 @@ related:
         width: 5426
         height: 3617
         isCached: true
+  - title: "AI in Meteorology: How Google's DeepMind Enhances Forecasting"
+    excerpt: "Explore how Google's AI revolutionizes global weather forecasting with unmatched accuracy, efficiency, reliability, speed, precision, and sophisticated analytics."
+    publishedDateTime: 2023-12-12T13:03:00Z
+    webUrl: "https://www.electropages.com/blog/2023/12/ai-strikes-again-google-ai-can-predict-weather"
+    type: article
+    provider:
+      name: Electropages
+      domain: electropages.com
+    quality: 34
 
 secured: "0YtL8zKTigPDgCs76iD4rEtojceDgytXKtO2X8mMryFI7mTArVDYyEh8wjH2YoXSnP0eGr+PyzexgJ8oEEtkbYfImK2QXAZ+o3/xWaP1rKxl27Chop/zTP3j4yJ8bAFZFsrLVxo1LIArfnBlD0dhiQQMPzrQMpMy5RUOIvTRat7lGvC3n09aoL66OxfsVP3apZqaYcJKfBXVzXzDbdX2x+Fb2936MizX5kk1lezB2svWTaPaymr4wkJ7uaEEZmDkhGU2OtHGRgMO2A17l2tzUHmk5rr506qAGfGOICMioxJXE0en2sIqiAEIVqiEQjKrgrvqFaxqpvBAaUm5V2HPFz/V2JYolwV3I98nl87UFcyQEpfxEAkkIY2DyuDXFE6y2XFWxahcl2AifVLkd16qY7jHLNB1B25TPiGQjtQT0touS4/2lSEIm18jr3A9GSxHlZbhSQIul/JYUUb4e87+BOqCikN9n0YZLCfpbHuYlGAiM88oUCaoO5DRn5lEubPDTXDRJfFoRntgFXFUiFgwtA==;D0lw9zYK4bSW42KzMhIbKA=="
 ---

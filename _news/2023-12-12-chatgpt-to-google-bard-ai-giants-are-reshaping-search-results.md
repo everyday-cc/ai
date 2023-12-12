@@ -40,20 +40,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "Google’s Gemini Is the Real Start of the Generative AI Boom"
-    excerpt: "A new AI model from Google—called Gemini—is fresh competition for OpenAI’s ChatGPT. The AI rivals are now working on even more radical ideas."
-    publishedDateTime: 2023-12-07T16:08:00Z
-    webUrl: "https://www.wired.com/story/google-gemini-generative-ai-boom/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 67
-    images:
-      - url: "https://media.wired.com/photos/6570fa9c24772bae860336a9/191:100/w_1280,c_limit/bard-biz-gemini_mm_03.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "Google Gemini: Everything you need to know about Google's Answer to ChatGPT – Updated December 2023"
     excerpt: "Google has an extremely powerful AI chatbot called Bard. It’s already proven to be a helpful and very capable chatbot, and Google has integrated it into several of its products. While the ..."
     publishedDateTime: 2023-12-08T00:00:00Z

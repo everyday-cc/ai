@@ -39,6 +39,20 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Mind-reading AI technology turns thoughts into text"
+    excerpt: "Researchers have developed a portable, non-invasive system that can decode silent thoughts and turn them into text."
+    publishedDateTime: 2023-12-12T16:49:00Z
+    webUrl: "https://interestingengineering.com/innovation/mind-reading-ai-thoughts-text"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/12/12/image/jpeg/xB2oox3Gqk9Je6ZZrhlbIrkxAX6GUVOYBEFigv0t.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Portable, non-invasive, mind-reading AI turns thoughts into text (w/video)"
     excerpt: "“It is the first to incorporate discrete encoding techniques in the brain-to-text translation process, introducing an innovative approach to neural decoding. The integration with large language models is also opening new frontiers in neuroscience and AI ..."
     publishedDateTime: 2023-12-12T00:00:00Z

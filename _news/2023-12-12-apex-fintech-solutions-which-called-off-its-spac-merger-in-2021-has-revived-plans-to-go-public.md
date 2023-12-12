@@ -1,85 +1,29 @@
 ---
 category: news
 title: "Apex Fintech Solutions, which called off its SPAC merger in 2021, has revived plans to go public"
-excerpt: "The fintech had tried to merge with a SPAC in 2021 but ended up ... which was valued at $43 billion in September after raising over $500 million in fresh capital. Anthropic, the AI startup, snagged a roughly $5 billion valuation in May after securing ..."
-publishedDateTime: 2023-12-12T12:48:00Z
-originalUrl: "https://fortune.com/2023/12/12/apex-fintech-ipo-chime-databricks-unicorn-sofi/"
-webUrl: "https://fortune.com/2023/12/12/apex-fintech-ipo-chime-databricks-unicorn-sofi/"
-ampWebUrl: "https://fortune.com/2023/12/12/apex-fintech-ipo-chime-databricks-unicorn-sofi/amp/"
-cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/12/12/apex-fintech-ipo-chime-databricks-unicorn-sofi/amp/"
+excerpt: "The fintech had tried to merge with a SPAC in 2021 but ended up pulling those plans. Apex is majority owned by Peak 6 Investments. It is expected to use a traditional IPO to list its shares, Fortune reported. Fresh data: The number of unicorns, or companies valued at $1 billion or more, across the world might be lower than you’d think."
+publishedDateTime: 2023-12-12T14:48:00Z
+originalUrl: "https://www.aol.com/apex-fintech-solutions-called-off-124859708.html"
+webUrl: "https://www.aol.com/apex-fintech-solutions-called-off-124859708.html"
 type: article
-quality: 61
-heat: 101
-published: true
+quality: 11
+heat: 11
+published: false
 
 provider:
-  name: Fortune
-  domain: fortune.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: AOL
+  domain: aol.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://content.fortune.com/wp-content/uploads/2023/10/William-Capuzzi-APEX-GettyImages-1052297072.jpg?w=840"
-    width: 840
-    height: 559
+  - url: "https://s.yimg.com/ny/api/res/1.2/KQ0zag0FZh.GfzC5TzDdDg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/aol_fortune_385/b9bb8c23fcf17cb9088f27a8187f037d"
+    width: 1200
+    height: 799
     isCached: true
 
-related:
-  - title: "Here are the newly minted fintech unicorns"
-    excerpt: "and that’s when fintech gets me really excited. Doing good while making money? The ideal definition of win-win. Read more. And, listen to the Equity crew discuss in more detail below. Speaking of AI, reporter Aisha Malik reports on Mastercard’s new ..."
-    publishedDateTime: 2023-12-10T15:16:00Z
-    webUrl: "https://techcrunch.com/2023/12/10/fintech-unicorns/"
-    ampWebUrl: "https://techcrunch.com/2023/12/10/fintech-unicorns/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/10/fintech-unicorns/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 54
-  - title: "6 Fintech Resources in Asia to Read in Preparation for 2024"
-    excerpt: "Look ahead to the future of financial innovation in Asia, with this guide to some of the must-read fintech resources to gear up for 2024."
-    publishedDateTime: 2023-12-11T07:41:00Z
-    webUrl: "https://fintechnews.sg/81825/fintech/6-fintech-resources-in-asia-to-read-in-preparation-for-2024/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 24
-    images:
-      - url: "https://fintechnews.sg/wp-content/uploads/2023/12/6-Fintech-Resources-in-Asia-to-Read-in-Preparation-for-2024.jpg"
-        width: 1024
-        height: 567
-        isCached: true
-  - title: "5 Investment Tools That Dominated the FinTech Scene in 2023"
-    excerpt: "For long-term financial needs, such as retirement, upcoming vacations, or a down payment, Betterment’s investment strategy employs low-cost ETFs (exchange-traded funds) and adjusts the risk profile based on the individual's goal type and the planned investment  duration."
-    publishedDateTime: 2023-12-12T06:14:00Z
-    webUrl: "https://www.finextra.com/blogposting/25365/5-investment-tools-that-dominated-the-fintech-scene-in-2023"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://lh7-us.googleusercontent.com/fuiGfpQyPe9FyQNKlg8YUnSi9SDiqK2m0y5o298xlhV2t9Qu6tvGucPndFkWm4II9OI7GmGiEItjM9PH-0p-TOcV2jpuGHkZcyjeNPeh6qHUtzpBxOojIl_4zlIUYI4GJfLVy4LeRO25UHKe-qGDkLc"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Top Technology Trends in Banking and Fintech for 2024"
-    excerpt: "While still in their early stages, blockchain and DLT have the potential to revolutionize various aspects of financial services, from cross-border payments and trade finance to digital identity and anti-money laundering compliance. 2024 will see further  experimentation and adoption of these technologies in various use cases"
-    publishedDateTime: 2023-12-10T19:10:00Z
-    webUrl: "https://www.finextra.com/blogposting/25354/top-technology-trends-in-banking-and-fintech-for-2024"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
-
-secured: "Qy6HzPEvv5hYJvTxD2N4kbtlg9RrgehQsjXiqGjoXdjtDuJjEyzHLrXGdz2iJraoyvvTPIpVSw2eFOivqMCOG91SLq63ceIuaxjjWasyRuzMAIbfciwPkCQK/6Z4leYKlZIkoOvlW4pgo1cnS75OoYoiYcMEQXPSKICDyM9WnvtFpeDr/BlCo8RcV9QE0hG2VqzgMqepFdz3uSJ2I4YDOUkZIffEZVYaLJZ3TYwbE/QAWOODfae7jUHB5G/zVFa0rias46wAl4MP9V5Wo6qfW1gifdvdH6F9dKna0WTNCSn9zPqw+q0AgQ4HsL2kZUfTUYkabxF6paGkugDhnB/LTrP4Lgn4kZiTdNd1LNlFzPM=;kS0cAGqJKz8D4xW7XDtSIw=="
+secured: "3iDvrRpSuMRpyRFij6Ob+Uoiejaw/QLAykpkj0p3wVRVduQfQWJoe+iRBhaD6MAy9cRsbwncpcQUXvRk8bc9UdlxFNFMkoNjsA4Yv23ijJzaDkYzhvGsFIzh4FulU5xgFaQMDhMACIQocHtibHCDaLKkSRJOBOFbDie0bk++Fx/j6qqR+ZcaD5SUnCIxXMrc3S5OaB1eBpmcEXm/LqxE2oQ+4vTtBOHwu+eHCB1dQT+S5tVD2rYBMM3seQgCV6/a8A/fOrvH415odSneyvJsZV1bpJcByNbEFYw++ZEfjBa2uivWCFSmDQBD07TyN12A66dq+fXJjzkkvgaQ/mKWz6i4YNMZZOE2P3VFL/0hUbA=;seiVcRmo9ii62dXGDkeudQ=="
 ---
 

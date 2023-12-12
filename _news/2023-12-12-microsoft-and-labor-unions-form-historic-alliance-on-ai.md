@@ -55,20 +55,6 @@ related:
         width: 1440
         height: 500
         isCached: true
-  - title: "Microsoft is distancing itself from OpenAI chaos by assuring investors it's spreading its AI bets"
-    excerpt: "Recent chaos at OpenAI created unease among developers and other businesses that have come to rely on the startup's AI platform."
-    publishedDateTime: 2023-12-07T22:44:00Z
-    webUrl: "https://www.businessinsider.com/microsoft-distancing-itself-from-openai-spreading-ai-bets-2023-12"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 71
-    images:
-      - url: "https://i.insider.com/65723e0e58e7c0c29a2ad896?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Microsoft, AFL-CIO Reach Deal on AI, Labor Neutrality"
     excerpt: "Microsoft has a major partnership with ChatGPT maker OpenAI and committed to pumping more than $10 billion into the startup. Surging popularity of so-called generative AI, which uses data to create new content like ChatGPT's human-sounding prose, could remake human society and make obsolete many jobs."
     publishedDateTime: 2023-12-11T14:03:00Z
@@ -98,6 +84,15 @@ related:
       name: Hindustan Times Tech
       domain: hindustantimes.com
     quality: 60
+  - title: "Microsoft's Orca 2 LLM Outperforms Models That Are 10x Larger"
+    excerpt: "Microsoft Research released its Orca 2 LLM, a fine-tuned version of Llama 2 that performs as well as or better than models that contain 10x the number of parameters. Orca 2 uses a synthetic training dataset and a new technique called Prompt Erasure to achieve this performance."
+    publishedDateTime: 2023-12-12T14:13:00Z
+    webUrl: "https://www.infoq.com/news/2023/12/microsoft-orca-2-llm/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 21
 
 secured: "laFdZjgTN1xVIRlMeXX/XZcwq1sant0NlXmU9Wh+ri3JWIeY1SgTg+2KVhHYXTPxsISvtAoGazrY8cwVAdDi8dgaNq/vvDX55fsLasLd9X7aGS2AsmIUCtKMz4krlpdMENd9YzjTT3g4tp5ItHxs6Ir35Kt4APbesmCyuAv8wvj80/fAzTRYk4NGOjVniGiirqqvdcxJAUT9iZSRDlp5iiU1mGH4UflkhMf1rytBrjyORliWzhrV+8x7FowREmn0kJPdKHd3ViVFiJaKjN4QAgmhR/HpabVvPmOrKfL1C+ncVqrej+uC5jvMTZY19NINIh0HAlhNpGf9tgmvytY4gxYwIaxL3KWEsotp/pGcX50=;QloKEZv5uTY0+v3HUSuuIQ=="
 ---

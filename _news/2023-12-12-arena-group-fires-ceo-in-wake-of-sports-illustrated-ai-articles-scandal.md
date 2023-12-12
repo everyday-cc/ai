@@ -2,9 +2,9 @@
 category: news
 title: "Arena Group fires CEO in wake of Sports Illustrated AI articles scandal"
 excerpt: "Ross Levinsohn sacking was to ‘improve the operational efficiency and revenue of the company’, says board, two weeks after fake authors exposed"
-publishedDateTime: 2023-12-12T03:09:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/dec/12/arena-group-ceo-ross-levinsohn-fired-sports-illustrated-ai-articles?ref=upstract.com"
-webUrl: "https://www.theguardian.com/technology/2023/dec/12/arena-group-ceo-ross-levinsohn-fired-sports-illustrated-ai-articles?ref=upstract.com"
+publishedDateTime: 2023-12-12T14:28:00Z
+originalUrl: "https://www.theguardian.com/technology/2023/dec/12/arena-group-ceo-ross-levinsohn-fired-sports-illustrated-ai-articles?trk=public_post_comment-text"
+webUrl: "https://www.theguardian.com/technology/2023/dec/12/arena-group-ceo-ross-levinsohn-fired-sports-illustrated-ai-articles?trk=public_post_comment-text"
 ampWebUrl: "https://amp.theguardian.com/technology/2023/dec/12/arena-group-ceo-ross-levinsohn-fired-sports-illustrated-ai-articles"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/dec/12/arena-group-ceo-ross-levinsohn-fired-sports-illustrated-ai-articles"
 type: article
@@ -61,6 +61,6 @@ related:
         height: 834
         isCached: true
 
-secured: "FdrmK50EPtZwHA9o3aNgJ+3mVtgqY/wkZrZqodh2vzJ7fekPP+Z0qioRSABD/GGgsBnWljCoraCtthK4iW/SfZVcTA9ZHvqAUJ2qIxqY86XlKad9yYrGoKlXCfwmk1QyKIkjU7JjmEOePi8Y6ymNoAjv7rQQkaO25Sm0C5SZjdn3n3tSULiw3e9wTuYkq8wRBmkYiYaSIBRO/OxH3HRj3W7lKC59NCQDdSVpRuB1Dcu8uMJwTmmiGyoV5QJfzY6VTHtNpAToKMrJ74EzfKnyG3OwnH1LoCAh0c+mekjsTRJHfHaRnfL3NUdL46+45gzaUzYSuHNxBBcTXMngIe3zjxcZSZTlBjBY+Zj+fQDv0Bt/Hk1vGWNn6wZ4mhtON0kVECmqm75mZMDbGye1U7r7ePLgqB2eqT45OWJoXF/r14sLXrQ6OnREI2kMAMyWW9CtC8W9799p56et8qKdVlZFwV/E1z0R0fiR8dYxLDFkB3cQkJDDcB2oQtmYIQGWW0fO1zlEGASIvVO6rxmyyBOO1g==;liYeMWAiThmoPLrn7oLvbw=="
+secured: "mvFnEmRzYCkvNtNqNIFeerfkQzXEjZXWNvKhDYgjUCEoblkyIffjLkrHUiLyMf3xYJTa/JKqUuJKTNnHtTX2M+3aEp3dovaPu498kXVxco9LvoROc4cLiWzrAwu6wPNcPC8Gza+EYUfy6+AEgLlPIp7uWQQCpDC3arGJqvgy4LcjikMSfYbbuqfCkCxxYcfLJuJg2K/nZrqBwAM9bEDZawDOtF86MIir6VsCLLufNgBJH5QWCRcfhPiO69TGnuyMC/3RehOJEmfddd/b3dRTJWvYch0N/I7CD3ccAoBZm/8kidfXLNpxhcu13lCZoYizKJUv/weG5qP71AZ7nkQqTjGLwWbsizKEPhARaiElT0U=;biJx0PjwDf0AwbKBMttC/Q=="
 ---
 
