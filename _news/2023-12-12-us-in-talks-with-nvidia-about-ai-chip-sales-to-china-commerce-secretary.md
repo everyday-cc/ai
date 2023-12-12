@@ -100,19 +100,19 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "US in talks with Nvidia about AI chip sales to China"
-    excerpt: "Dec 12 ― The Biden administration is in discussions with Nvidia Corp about permissible sales of artificial intelligence chips to China but"
-    publishedDateTime: 2023-12-12T00:40:00Z
-    webUrl: "https://www.malaymail.com/news/money/2023/12/12/us-in-talks-with-nvidia-about-ai-chip-sales-to-china/107050"
+  - title: "US in talks with Nvidia about AI chip sales to China: Gina Raimondo"
+    excerpt: "U.S. Commerce Secretary Gina Raimondo, speaking in an interview with Reuters on Monday, said Nvidia \"can, will and should sell AI chips to China because most AI chips will be for commercial applications."
+    publishedDateTime: 2023-12-12T01:21:00Z
+    webUrl: "https://www.moneycontrol.com/news/world/us-in-talks-with-nvidia-about-ai-chip-sales-to-china-gina-raimondo-11889281.html"
     type: article
     provider:
-      name: malaymail
-      domain: malaymail.com
+      name: moneycontrol.com
+      domain: moneycontrol.com
     quality: 71
     images:
-      - url: "https://www.malaymail.com/malaymail/uploads/images/2023/12/12/thumbs/400x400/170852.jpg"
-        width: 400
-        height: 266
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/09/Nvidia-770x433.jpg"
+        width: 770
+        height: 433
         isCached: true
   - title: "Chip Stocks Are Surging, but Nvidia Is Missing It"
     excerpt: "It’s a big day for chip stocks, but the year’s top-performer is suddenly lagging. The PHLX Semiconductor index advanced more than 2% on Monday morning. Broadcom was up more than 6%, the S&P 500’s second-best performer."
@@ -169,6 +169,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 57
+  - title: "US in talks with Nvidia about AI chip sales to China"
+    excerpt: "The California-based artificial intelligence chip designer has commanded more than 90% share of China’s US$7 billion AI chip market, but analysts have said new US curbs on chip exports are likely to create opportunities for Chinese rivals to make inroads."
+    publishedDateTime: 2023-12-11T22:37:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/business/2023/12/12/us-in-talks-with-nvidia-about-ai-chip-sales-to-china/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 51
   - title: "AMD AI Chip Challenges Nvidia’s H100 as Rivalry Enters New Era"
     excerpt: "AMD's new MI300X AI chipset, coupled with the ROCm6 software, is set to compete with the Nvidia H100 as their GPU rivalry enters a new era."
     publishedDateTime: 2023-12-07T14:30:00Z
@@ -251,6 +260,6 @@ related:
       domain: newswit.com
     quality: 13
 
-secured: "A86MPjvsEv7rft1gR9QWf430Iq2qLdfGCe2wjXVhzFKwWHGn01rtpGt13tpYtb3sdIACj0HHkSQ17ajdaNIRExNnorLm3Vj9IJu18smVhx2Aup78FjPSmap3T13kUrsLW+dEQUjMh5P6FrjT/r0Evzk/ryVMbB461QnRwcFkEHOyvC7uDwgqXpztaSAVZunl+fLzrymOmxWoGrkE5SyxeLvCoF6HrtJ3v7/W0vdQJiD8BwtkFhZ7GlEHL/zMBK9UA+Tbm4ggKYPfMQZIk49KsmLvORxOptsDbmjKGezQ92YB6tOfcdw/Bk1CZhp8v+kbApa6svdXtP5oOofLfJAM6u/qXWjb6tJRi9RgztT91Ls=;TJr+HaoQ2yeCAftp9UPWfA=="
+secured: "kMqrjwLeEEO6lrN/Px7xlFjzSi8sfoklvijLZF0rM5DCFSIDJ4mN4NhLpecUKZwVSxLXv1kf22nZcq5aG570FceX7kIX9piZjdcrp2mSvtr60x1bx9QMcN0MimxMn/lMUhLweBBIN+kSPAw2EpTDdsO9MKTtEfoRB8yjObHNKdOjmt25VzbVKSj0Rg1TePixS6MgkNk94sVUFfs+YfHRvgCSl78m6AQMqU8oYgVxJKh62y77xpOPbLPCDO4I7GmqnCO1DUJJGzxMUbJ171aOvbSS/6JWTg7yyzBEa+EO19UfVY8hFDyj8oN+yOzs6PIf/N5f2IDqHncTtlxuScmJZT1jVkoJhlssibZzZSbgHnu67lWMZrDKIqQLVReMMnTki0lv5xK/5wioy6ZsqbCc8SWB88TXYicYGWpkW6VbF52z/2FVipnun/5NKS2s7TuToju4y3Vg0NjMqg9/qa3c0mBQvDbybENaPkFBEx6aFO1UMpMqhYSWa1N3S+cE7g9do4bzbzIs5+Bsj7amEbjwkg==;UmKRqZB0RZr6jn2FQEMPqw=="
 ---
 

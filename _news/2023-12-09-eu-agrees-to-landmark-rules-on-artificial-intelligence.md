@@ -47,6 +47,15 @@ related:
       name: The New York Times
       domain: nytimes.com
     quality: 49
+  - title: "The EU Just Passed Sweeping New Rules to Regulate AI"
+    excerpt: "The European Union agreed on terms of the AI Act, a major new set of rules that will govern the building and use of AI and have major implications for Google, OpenAI, and others racing to develop AI systems."
+    publishedDateTime: 2023-12-08T23:21:00Z
+    webUrl: "https://www.wired.com/story/eu-ai-act/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 49
   - title: "E.U. Reaches Deal on World’s First Comprehensive AI Rules"
     excerpt: "European Union negotiators have clinched a deal on the world's first comprehensive artificial intelligence rules"
     publishedDateTime: 2023-12-11T11:14:00Z

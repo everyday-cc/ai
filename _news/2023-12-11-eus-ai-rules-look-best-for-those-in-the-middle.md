@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/breakingviews/eus-ai-rules-look-best-those
 webUrl: "https://www.reuters.com/breakingviews/eus-ai-rules-look-best-those-middle-2023-12-11/"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -22,19 +22,19 @@ topics:
   - AI
 
 related:
-  - title: "Can the EU's plan to regulate AI keep up with rapidly evolving tech?"
-    excerpt: "The European Union is finalising its AI Act, which attempts to regulate the use of artificial intelligence, but it isn't clear that the legislation can keep pace with the cutting edge of technology"
-    publishedDateTime: 2023-12-11T14:59:00Z
-    webUrl: "https://www.newscientist.com/article/2407787-can-the-eus-plan-to-regulate-ai-keep-up-with-rapidly-evolving-tech/"
+  - title: "The EU’s AI Act: A beacon of innovation and ethics for emerging Europe"
+    excerpt: "In an exceptional move reverberating through the corridors of technology and governance, the European Union has provisionally adopted the Artificial Intelligence Act, heralding a new era of digital ethics and innovation."
+    publishedDateTime: 2023-12-11T12:24:00Z
+    webUrl: "https://emerging-europe.com/partner-content/the-eus-ai-act-a-beacon-of-innovation-and-ethics-for-emerging-europe/"
     type: article
     provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
+      name: emerging-europe.com
+      domain: emerging-europe.com
+    quality: 54
     images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/12/11145455/SEI_183673499.jpg"
-        width: 1349
-        height: 900
+      - url: "https://emerging-europe.com/wp-content/uploads/2023/12/bigstock-ai-artificial-intelligence-310093555.jpg"
+        width: 1600
+        height: 1000
         isCached: true
   - title: "Europe, a laggard in AI, seizes the lead in its regulation"
     excerpt: "Yet whether the AI Act will be as successful as the General Data Protection Regulation ( GDPR ), the EU ’s landmark privacy law, is another question. Important details still need to be worked out. And the European Parliament still needs to approve the final version."

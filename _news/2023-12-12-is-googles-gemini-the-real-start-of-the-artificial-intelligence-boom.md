@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "Google Gemini: Everything we know about the advanced AI model"
+    excerpt: "There are three versions of Gemini. The biggest is the Ultra model capable of \"seeing the world the way humans do\" through video, audio, text and images. The second is the Pro model, which is powering Google Bard and is similar in ability to the free ChatGPT."
+    publishedDateTime: 2023-12-11T15:37:00Z
+    webUrl: "https://www.tomsguide.com/features/google-gemini-everything-we-know-about-the-advanced-ai-model"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 41
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/TwMjTG2hMW5Z5McwPXyfsJ-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google’s Multimodal AI Gemini – A Technical Deep Dive"
     excerpt: "Explore Gemini, Google's advanced multimodal AI model, revolutionizing the tech landscape with its cross-modal attention and diverse capabilities across text, images, audio, and video. Discover Gemini's integration in Google's ecosystem,"
     publishedDateTime: 2023-12-11T19:12:00Z

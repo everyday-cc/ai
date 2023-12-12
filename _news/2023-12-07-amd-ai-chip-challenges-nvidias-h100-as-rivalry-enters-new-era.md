@@ -93,19 +93,19 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "US in talks with Nvidia about AI chip sales to China"
-    excerpt: "Dec 12 ― The Biden administration is in discussions with Nvidia Corp about permissible sales of artificial intelligence chips to China but"
-    publishedDateTime: 2023-12-12T00:40:00Z
-    webUrl: "https://www.malaymail.com/news/money/2023/12/12/us-in-talks-with-nvidia-about-ai-chip-sales-to-china/107050"
+  - title: "US in talks with Nvidia about AI chip sales to China: Gina Raimondo"
+    excerpt: "U.S. Commerce Secretary Gina Raimondo, speaking in an interview with Reuters on Monday, said Nvidia \"can, will and should sell AI chips to China because most AI chips will be for commercial applications."
+    publishedDateTime: 2023-12-12T01:21:00Z
+    webUrl: "https://www.moneycontrol.com/news/world/us-in-talks-with-nvidia-about-ai-chip-sales-to-china-gina-raimondo-11889281.html"
     type: article
     provider:
-      name: malaymail
-      domain: malaymail.com
+      name: moneycontrol.com
+      domain: moneycontrol.com
     quality: 71
     images:
-      - url: "https://www.malaymail.com/malaymail/uploads/images/2023/12/12/thumbs/400x400/170852.jpg"
-        width: 400
-        height: 266
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/09/Nvidia-770x433.jpg"
+        width: 770
+        height: 433
         isCached: true
   - title: "US in talks with Nvidia about AI chip sales to China: Commerce Secretary"
     excerpt: "NASHUA - The Biden administration is in discussions with Nvidia about permissible sales of artificial intelligence (AI) chips to China but emphasized that it cannot sell its most advanced semiconductors to Chinese firms. US Commerce Secretary Gina Raimondo ..."
@@ -176,6 +176,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 57
+  - title: "US in talks with Nvidia about AI chip sales to China"
+    excerpt: "The California-based artificial intelligence chip designer has commanded more than 90% share of China’s US$7 billion AI chip market, but analysts have said new US curbs on chip exports are likely to create opportunities for Chinese rivals to make inroads."
+    publishedDateTime: 2023-12-11T22:37:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/business/2023/12/12/us-in-talks-with-nvidia-about-ai-chip-sales-to-china/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 51
   - title: "China Firms Rush to Poach Nvidia Clients With AI Chip Offerings"
     excerpt: "Chinese chip designers are rushing to chip away Nvidia’s market share at home with their own artificial intelligence (AI)-focused offerings."
     publishedDateTime: 2023-12-11T20:04:00Z

@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Understanding the world of AI and robotics at the FAIR"
+    excerpt: "The Festival of AI + Robotics, the FAIR is a two-day event promising to ... be able to connect with people on the floor to give them advice,” she said. Another element will be a startup showcase, which Müller said will be relevant to those visiting ..."
+    publishedDateTime: 2023-12-12T02:09:00Z
+    webUrl: "https://www.itnews.com.au/video/understanding-the-world-of-ai-and-robotics-at-the-fair-603411"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 69
+    images:
+      - url: "https://i.nextmedia.com.au/Videos/16.2-FAIR-Medium-Rectangle-300x250.png"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Artificial intelligence and trade secrets"
     excerpt: "December 11, 2023 - Generative artificial intelligence (AI) is an emerging class of machine learning technology that can synthesize content including text and images. This article outlines the history of generative artificial intelligence and the serious ..."
     publishedDateTime: 2023-12-11T16:17:00Z

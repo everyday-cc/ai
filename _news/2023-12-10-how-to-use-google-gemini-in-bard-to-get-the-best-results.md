@@ -33,20 +33,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "Google announces Bard Advanced, it's most advanced Gemini-powered AI helper"
-    excerpt: "Bard Advanced is powered by Google's Gemini Ultra AI model and will be available soon to select testers. It will go public early next year."
-    publishedDateTime: 2023-12-07T02:37:00Z
-    webUrl: "https://www.androidauthority.com/google-bard-advanced-3392203/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 67
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Google-Bard-website-on-phone-7.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Google’s Gemini Is the Real Start of the Generative AI Boom"
     excerpt: "A new AI model from Google—called Gemini—is fresh competition for OpenAI’s ChatGPT. The AI rivals are now working on even more radical ideas."
     publishedDateTime: 2023-12-07T16:08:00Z
@@ -60,6 +46,20 @@ related:
       - url: "https://media.wired.com/photos/6570fa9c24772bae860336a9/191:100/w_1280,c_limit/bard-biz-gemini_mm_03.jpg"
         width: 1280
         height: 670
+        isCached: true
+  - title: "ChatGPT to Google Bard: AI giants are reshaping search results"
+    excerpt: "Explore the evolving landscape of search engines. From keyword-matching engines to AI-powered platforms, search experiences are being reshaped."
+    publishedDateTime: 2023-12-12T01:50:00Z
+    webUrl: "https://yourstory.com/2023/12/ai-revolutionising-search-engine-results"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 56
+    images:
+      - url: "https://images.yourstory.com/cs/2/5cd74df08d8d11e9a445857ac4ecdc72/GoogleAIBengaluru1568955790392png?fm=png&auto=format"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Google Gemini: Everything you need to know about Google's Answer to ChatGPT – Updated December 2023"
     excerpt: "Google has an extremely powerful AI chatbot called Bard. It’s already proven to be a helpful and very capable chatbot, and Google has integrated it into several of its products. While the ..."

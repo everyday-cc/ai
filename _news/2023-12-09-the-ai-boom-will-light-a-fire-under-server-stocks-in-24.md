@@ -1,44 +1,23 @@
 ---
 category: news
 title: "The AI Boom Will Light A Fire Under Server Stocks In ’24"
-excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips As with every new technological paradigm shift, the AI Boom will evolve in"
-publishedDateTime: 2023-12-09T14:30:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/the-ai-boom-will-light-a-fire-under-server-stocks-in-24-1032887251"
-webUrl: "https://markets.businessinsider.com/news/stocks/the-ai-boom-will-light-a-fire-under-server-stocks-in-24-1032887251"
+excerpt: "As with every new technological paradigm shift, the AI Boom will evolve in distinct “profit waves.” Though each tech boom is different, they all follow a similar pattern. And it usually goes something like this: First,"
+publishedDateTime: 2023-12-09T13:30:00Z
+originalUrl: "https://www.nasdaq.com/articles/the-ai-boom-will-light-a-fire-under-server-stocks-in-24"
+webUrl: "https://www.nasdaq.com/articles/the-ai-boom-will-light-a-fire-under-server-stocks-in-24"
 type: article
-quality: 69
-heat: 79
-published: true
+quality: 49
+heat: 49
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://lh7-us.googleusercontent.com/pzTWE6xziCazjeVj7kQkLMWo4ir7CfCKzGJXQaww1dGf1vRu9hkN9Y7JIs-q1TbZu-PcCDt2gnE8Lyx4hEBxNcwfa0W5MftelI-0vSy9R62iGwfqchnnTNLQnHhacW6MU4JhtFETZWOkTggjoBGsaw"
-    width: 1600
-    height: 821
-    isCached: true
-
-related:
-  - title: "Artificial Intelligence in Healthcare: 3 Stocks Transforming the Industry"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence is being applied across the healthcare sector to"
-    publishedDateTime: 2023-12-11T13:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-3-stocks-transforming-the-industry-1032889408"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
-
-secured: "rGbifC3j1V9HC1MIdHQNhpM7jD9VqQnik4+t23zyENBjdfyPMlRG+BkC+ELHLPBnhN0hOQMILdk/pD8IgMVsXLTud2Gm6hsR8K93Yo0tfEWlKKN7S4MDoWlLMvrlnUnCYd8K/X4qiDBUFATNdcQJaTEDteK0YcLSwDq99ggNeY0F6zndUm9PImEc39YInDkhOo6cfXj8IK8fYmMgoQUO/+cuBZ6/ooBT9fZzOjAl8HdrHEJKlT6WQmL6ntCviaeWoS9cZBwUEsQHredlSUaOsk3JCieullW4NnJffOrZUETC6rL2n7J8AVdNvzkyn7WhjZtdOTJy+JND4AopjUYfQJ+owbLhAjqTcx80AcMuJUQ=;DnDVdDqRj+p4Cwi1/dhfaQ=="
+secured: "/gbkNUd4+MLpKlRhSSkDKqf+7ymNnducNV/lUiKgRyK/s3Slefa3nLR+2w69XoqUFOItCKPi5yLTwun4yek5SvgeGu+y+vxKTZouNxY/rMENOxEq7xrUh+4+Wzs14UPkTY3eYHUIawTiZcZfVaflqoNkvhNTj0FDrO0O42eG3SOh+xZhD3wF9QGhrJYau2relogi9toabUXF1nQuRjKJkZGwnFnax7PXmJfxrtsUTshq4aXJBbX/gf1Gy2IPGCwcwXM8ygwhMgLurxe3HQCBXQ0p6KN/mPhk1OJIY/IQnkzMTE7+isY3VqOmcxsrQmxAFozR0U201fKj1KtU5s5t2ix9lsvkhJbPUh7u1tVH0q5h1a0iRz9y2aRW8J/2R4XG8s2JG00+Co3PAsCvBbLU6kO6oqTh4ZB2E+XKyBR9DZGbSopzo1WR6X+BG+YxET/V5z+JlL+HhfVR0I2niZ6CqB6A6bs04ZtJiNFYy0vYYMRVwZ1Nqjh8grXW9ShAWXOY/tMpRO2joTmOTDuG/fVpFg==;NecaEZxooUaWixftkDRo0A=="
 ---
 
