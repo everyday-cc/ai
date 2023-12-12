@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/zendesk/2023/12/11/5-ways-companies-can
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zendesk/2023/12/11/5-ways-companies-can-promote-more-sustainable-ai/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:

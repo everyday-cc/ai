@@ -8,8 +8,8 @@ webUrl: "https://www.barandbench.com/law-firms/view-point/artificial-intelligenc
 ampWebUrl: "https://www.barandbench.com/amp/story/law-firms/view-point/artificial-intelligence-arbitration-analysis-indian-jurisprudence"
 cdnAmpWebUrl: "https://www-barandbench-com.cdn.ampproject.org/c/s/www.barandbench.com/amp/story/law-firms/view-point/artificial-intelligence-arbitration-analysis-indian-jurisprudence"
 type: article
-quality: 38
-heat: 38
+quality: 40
+heat: 40
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://media.assettype.com/barandbench%2F2023-12%2F07145c91-b86b-4e10-bcf1-52a4f87055d9%2F34.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100"
@@ -26,6 +27,6 @@ images:
     height: 675
     isCached: true
 
-secured: "2gd5j6mhAvQCe6je3EIeFgiSf4pJL4/+6D5og29fmpxx+G6TzO3Nr1dLiZRFedDW3/MrWuQZRfo57eRs62Jo7lERtmg0Qdj0n60zbrzbYhyk5XGF+0rI9WMLxiiWutwcTsjrN3PzB/3hyDSs5nI9XYRCJyQtbZ1uHEj7vzrlAwTucGKSVw5DnGkBmufXkidUhzL74HXcCKXE3KcuTfyF6XuyjeIRvNLv6H9VryhGmL17BEdIHzy2PjnW82jXDJtpImiSJTns9Q1/BBtD9RsQpmDPkwijs8HEtbwT5cv3Qv63l499sT+IqobTqKJw/1NBej+2J7ZRNiymI7svZ4Owal5dgkXjpy5CeueoODoirf8=;yV0Vx3gCG6SdTLZI4jLUBg=="
+secured: "MxNAHat7YXBMKybQQfY/JhTdGtfwr5S6vgwKp0GOxpntBexz4msTSmjpJoCYrMvBNuDdFwCEpuLbHZUeFJddQJnDZxUKFONQPkMcHPSohuSfP0fbZo0sF37Z7FmFFxZh+QJwQrqlQoXhlp/Qi0fmvbGHw/UxyhxuMijIO6NtQ+GS2jrIXm9eoLtSxb4P4/YzPIeBKhwX3t99WP5ufk/diSOvYB0aaG23K0g7EYaL2OYvV+D2aPNGdgcnA1oLIa5fpr0FkgplhNFhZoZTfO6x9gbH/m+gn4GyNJkKa4ONP50KSiYT+XRIVs49yVtX1rI7GgrVkG20ff8CKIO8EJsTBpE8GRDchQHYC/+QBjoklITSJFoCB2J94L52Pxw53LfM+S1Vsq8RhPf5fCXQ6nuYIbChpBNVPyZ0SZzQnmMIsmbzeUnkxDMAVOXqgF5OS/qnrhb7vftZ0eoGOR4gl1KKlKOPyr4kINnLDVuaUNN42J2eDrmyUefcRE98cgPalvldj5oedklm3l1UmvYPUhnG8A==;qpXz9dlwov1SznWBZFLuhQ=="
 ---
 

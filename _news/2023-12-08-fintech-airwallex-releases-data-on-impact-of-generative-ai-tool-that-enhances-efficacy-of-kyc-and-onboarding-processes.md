@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/12/217670-fintech-airwallex-re
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/12/217670-fintech-airwallex-releases-data-on-impact-of-generative-ai-tool-that-enhances-efficacy-of-kyc-and-onboarding-processes/amp/"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI-Enhanced Employee Onboarding: A New Era In HR Practices"
+    excerpt: "Onboarding has undergone a radical transformation. Explore how AI and data are reshaping how we welcome new hires and helping us deliver engaging onboarding experiences."
+    publishedDateTime: 2023-12-12T06:21:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/12/12/ai-enhanced-employee-onboarding-a-new-era-in-hr-practices/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/12/12/ai-enhanced-employee-onboarding-a-new-era-in-hr-practices/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/12/12/ai-enhanced-employee-onboarding-a-new-era-in-hr-practices/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6578098c4d69b8a4386492c3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "AI Collaboration In Medical Imaging With Personalized Onboarding Enhances Accuracy And Trust"
     excerpt: "MIT scientists create a tailored onboarding method to educate humans on discerning the reliability of model advice."
     publishedDateTime: 2023-12-08T06:03:00Z

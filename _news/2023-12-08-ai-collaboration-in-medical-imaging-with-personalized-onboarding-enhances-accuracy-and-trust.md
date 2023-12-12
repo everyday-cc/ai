@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI-Enhanced Employee Onboarding: A New Era In HR Practices"
+    excerpt: "Onboarding has undergone a radical transformation. Explore how AI and data are reshaping how we welcome new hires and helping us deliver engaging onboarding experiences."
+    publishedDateTime: 2023-12-12T06:21:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/12/12/ai-enhanced-employee-onboarding-a-new-era-in-hr-practices/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/12/12/ai-enhanced-employee-onboarding-a-new-era-in-hr-practices/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/12/12/ai-enhanced-employee-onboarding-a-new-era-in-hr-practices/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6578098c4d69b8a4386492c3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Fintech Airwallex Releases Data on Impact of Generative AI Tool that Enhances Efficacy of KYC and Onboarding Processes"
     excerpt: "Airwallex shared data on the impact of a new generative AI tool that enhances the speed and efficacy of its KYC and onboarding processes."
     publishedDateTime: 2023-12-08T12:49:00Z

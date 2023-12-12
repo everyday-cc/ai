@@ -9,7 +9,7 @@ ampWebUrl: "https://www.astroawani.com/berita-dunia/india-turns-ai-capture-its-1
 cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-dunia/india-turns-ai-capture-its-121-languages-448685?amp=1"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,17 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "GenAI Propels Drug Discovery, Elevates India's Healthcare Landscape"
-    excerpt: "Global healthcare accelerates with Generative AI. AWS Cloud empowers secure solutions, especially in India's context."
-    publishedDateTime: 2023-12-11T04:49:00Z
-    webUrl: "https://www.medindia.net/news/genai-propels-drug-discovery-elevates-indias-healthcare-landscape-214482-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/genai-propels-drug-discovery-elevates-indias-healthcare-landscape-214482-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/genai-propels-drug-discovery-elevates-indias-healthcare-landscape-214482-1.htm"
+  - title: "Accenture To Work with Union Bank of India To Build New AI and Machine Learning Models"
+    excerpt: "Accenture will work with Union Bank of India to build new AI and machine learning models that can help generate actionable insights for improved busin"
+    publishedDateTime: 2023-12-12T08:13:00Z
+    webUrl: "https://www.indianweb2.com/2023/12/accenture-to-work-with-union-bank-of.html"
     type: article
     provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 54
+      name: indianweb2.com
+      domain: indianweb2.com
+    quality: 63
+    images:
+      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVgXjk2IBSptAxO-BzY3gxzDItOMiYkt9jovv-UC78ztQh-tVo4EkKI-nyXRmd1FDyVq2HCbz3JFA8B5gNICIqE8PMuRdYKJuXUm9Fd5Mm1M7viygOEm8688zZLaUFBkCie2RxSMEoNy_7K-Pw1lQ3aIc7NNRc4nMybDhh8iG1A-OXpy_ksr0YtFR2NW4/s16000/accenture-union-bank.png"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "KrbRPpOjj8Y8cdmhxikfmGHX1GrWvhLY0IUgUwpq6xnwngRqPrIjwT0TOQqrMP+RcHZwi31jG3T/5/TYFawytzm3+7OfUMYItGMsFuFDwKW8Kdel2/YIkBz7+1SABfezWlsiuQMCAd4D+m5vsxqqk7J5i0wRxUuMeDcBYgOGNkClxcZS+EZ0CoR7e1yXo8KvdHsFx2GfYR5jgg4OZEPCRa3eIMTNv/yIbMIotA03zIpOFfRyruu4AjK0EYl8jGavU9seL46bE/FEhlX3UWAkIYzm5788ofYgM1+xbzfB5CvEZgnDQqkT/02plMDxwM0U52lgVF9cgMdyboSvLiBQqOB57OiDbMwbvDl5EvuARRdqCFYTEUAmw1PiLx/sjz8mjG8evFOsOhdJfWXEVTe52tL4SSDe+xCle+Wl22jJx8Fb8bilYmjie5Fpx6c3A90UUW0cAmDGwDGgHUEWYlqXJNqOXcqllKQyvYMJ3xci4LpQe04cKoCODlKsgYeORxOvuKQjfA0KrRJwN5fHyDCIoA==;tsyqVh8mUZ/BWmKML8o1gw=="
 ---
