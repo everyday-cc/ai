@@ -1,19 +1,15 @@
 ---
 category: news
 title: "Supermicro Extends AI and GPU Rack Scale Solutions with Support for AMD Instinct MI300 Series Accelerators"
-excerpt: "New 8-GPU Systems Powered by AMD Instinct™ MI300X Accelerators Are Now Available with Breakthrough AI and HPC Performance for Large Scale AI"
-publishedDateTime: 2023-12-06T20:21:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/supermicro-extends-ai-and-gpu-rack-scale-solutions-with-support-for-amd-instinct-mi300-series-accelerators-1032879618"
-webUrl: "https://markets.businessinsider.com/news/stocks/supermicro-extends-ai-and-gpu-rack-scale-solutions-with-support-for-amd-instinct-mi300-series-accelerators-1032879618"
+excerpt: "New 8-GPU Systems Powered by AMD Instinct™ MI300X Accelerators Are Now Available with Breakthrough AI and HPC Performance for Large Scale AI Training and LLM Deployments SAN JOSE, Calif.,"
+publishedDateTime: 2023-12-06T20:00:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20231206sf86950/supermicro-extends-ai-and-gpu-rack-scale-solutions-with-support-for-amd-instinct-mi300-series-accelerators"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20231206sf86950/supermicro-extends-ai-and-gpu-rack-scale-solutions-with-support-for-amd-instinct-mi300-series-accelerators"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Morningstar
+  domain: morningstar.com
 
 topics:
   - AI Hardware
@@ -25,6 +21,6 @@ images:
     height: 400
     isCached: true
 
-secured: "LzAbyiOAWojnGDWCd/AOg6UBeAEmvtgh+y5MMb/e411nxp/mJ4zhKPirwBIddWmckq6RDPPX+GILBakNtdiycPenOWNCU+78rj2KPMsntZ/HOLYsANaYIc3Sl3TVdCgiDQzJiqaCAoZq+gQ+eSUwh67tKfsvzWqP0dqWatFzYbw6qXpszmZNmVG3WkuNVXUcAPPjCpM/iXr92ItyPe+K6gsiNK5uyr2Szd2PPJ3Ac1rROiZ7JZF+hi1dBE5q+duVOFd4lMeg3Uaa1t56VSIe3mtoqz6Z+GdtCTaGttQx7Nqrjpe2JGeDe05fhGps3JHcsybef4DLx3i77Z+XxQTMQkEZPMyXvz1AvGUQhHAa1eY=;UmvfuaFf8bwRLEBYyLJKjQ=="
+secured: "JjqBm7v7joXgkuUlRoVTMbC8NyQbIwHDdkDIdnvD7QXUzRaUgRZ3c7U0ECJzK4wV7tVvhx9G3r8ce+FjBqBZo9/99ITFbjiPeDEIYyp2iu3CmgmeoIhPW3fcvzGsk9YOXmcwCCp5EsyzvPvV1d1m2UXfe9gvcyU0xAguw+tjmrhd6ZlRSl5iuEdtwvrrat8McXA7sJ3YvMqX85LVEwjRr/r4xMpmMxV1iSEEi2wfT6yM9073ICG+F71Q5mKTtbxsJK7lGxZW2JDJAR+xe6jWZ+FtDgtlzTXs8ECaHlr1jLIi6bbe6q+PQGJhFmY/yP1OClQno3MTsmyqpyJCT3jtKQZa6boOgeeUauVJb27iSz0=;pn8awIUCGCWr3ISrsEENsA=="
 ---
 

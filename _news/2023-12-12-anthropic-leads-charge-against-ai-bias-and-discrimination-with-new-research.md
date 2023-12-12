@@ -6,8 +6,8 @@ publishedDateTime: 2023-12-11T23:43:00Z
 originalUrl: "https://venturebeat.com/ai/anthropic-leads-charge-against-ai-bias-and-discrimination-with-new-research/"
 webUrl: "https://venturebeat.com/ai/anthropic-leads-charge-against-ai-bias-and-discrimination-with-new-research/"
 type: article
-quality: 67
-heat: 67
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Meta AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/12/nuneybits_Abstract_painting_of_law_and_justice_scale_4784c9c8-bf77-474f-9908-2d45e34b264c-transformed.webp?w=1200&strip=all"

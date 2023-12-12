@@ -7,7 +7,7 @@ originalUrl: "https://www.unite.ai/revolutionizing-healthcare-exploring-the-impa
 webUrl: "https://www.unite.ai/revolutionizing-healthcare-exploring-the-impact-and-future-of-large-language-models-in-medicine/"
 type: article
 quality: 8
-heat: -1
+heat: 8
 published: false
 
 provider:
@@ -18,17 +18,6 @@ topics:
   - Natural Language Processing
   - AI
   - AI in Healthcare
-
-related:
-  - title: "Artificial Intelligence in Healthcare: 3 Stocks Transforming the Industry"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence is being applied across the healthcare sector to"
-    publishedDateTime: 2023-12-11T13:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-3-stocks-transforming-the-industry-1032889408"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
 
 secured: "axHWXSiY+sgTOC+p870cHlbsK77JIKPQJS8dLADbAth3woJ4Sz9dHJ/9m2B1YSud40adB/+kq02pv3usAK9DvJBcclJKSdpkvvOzuSg6T+LrY59vzxVqmxTQUvYdFvAm/jJ17OC1Pcnw1NkihaqpPlRANaNGD2b/4ZNQDtrI9FIh+GbQ8T43SkspYR+1X5b8V5mjomDUE5MeP2LqRGiFp5K4/DXqH4fhtnbaufxVl/HkUUNX7G0tptEGAFRSYSKD1OjJNmwKQ36QHQveFheMC6dfdFx7IaXSxLfGZ7orjYvZbfT8c4/du9fv3RHATzRw8jSdJdrazyAu7a60tK/awkXAeNiXEbDn3/tYbsaOPT/GmNoiO3MvGjAYuDpvaQ+3gobZOg+9G8xV8PXPx7eRdoG/h+EVermJWnaERdYg6ZmrtDyQ3GYW7nu+yMh7JR3CvgemCjvv8Wj++KgoxtnvpYhT+dy2inr6QOggm9pa1hVA1pWC2Z6AcRGber7dEQ1D19lcu3OzICzDRfKolNpjWQ==;IE5dWbJr9H/GfJPNi3Or1A=="
 ---

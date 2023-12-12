@@ -107,19 +107,19 @@ related:
         width: 770
         height: 433
         isCached: true
-  - title: "US in talks with Nvidia about AI chip sales to China: Commerce Secretary"
-    excerpt: "NASHUA - The Biden administration is in discussions with Nvidia about permissible sales of artificial intelligence (AI) chips to China but emphasized that it cannot sell its most advanced semiconductors to Chinese firms. US Commerce Secretary Gina Raimondo ..."
-    publishedDateTime: 2023-12-12T00:56:00Z
-    webUrl: "https://www.straitstimes.com/business/us-in-talks-with-nvidia-about-ai-chip-sales-to-china-commerce-secretary"
+  - title: "US in talks with Nvidia about AI chip sales to China: commerce secretary"
+    excerpt: "\"What we cannot allow them (Nvidia) to ship is the most sophisticated, highest-processing power AI chips, which would enable China to train their frontier models,\" US Commerce Secretary Gina Raimondo said."
+    publishedDateTime: 2023-12-12T01:57:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/us-in-talks-with-nvidia-about-ai-chip-sales-to-china-commerce-secretary/articleshow/105916634.cms"
     type: article
     provider:
-      name: The Straits Times
-      domain: straitstimes.com
+      name: Indiatimes
+      domain: indiatimes.com
     quality: 70
     images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/12/12/2023-12-11T061646Z1491786100RC2GOZ9QBK9NRTRMADP3NVIDIA-VIETNAM-CHIPS.JPG"
-        width: 860
-        height: 573
+      - url: "https://img.etimg.com/thumb/msid-105916640,width-1200,height-630,imgsize-101486,overlay-ettech/photo.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Chip Stocks Are Surging, but Nvidia Is Missing It"
     excerpt: "It’s a big day for chip stocks, but the year’s top-performer is suddenly lagging. The PHLX Semiconductor index advanced more than 2% on Monday morning. Broadcom was up more than 6%, the S&P 500’s second-best performer."
@@ -176,6 +176,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 57
+  - title: "US: Nvidia can sell AI chips to China, just not the best ones"
+    excerpt: "A smartphone with a displayed NVIDIA logo is placed on a computer motherboard in this illustration taken March 6, 2023. [Photo/Agencies] Nvidia can sell artificial intelligence chips to China, but just not \"the most sophisticated ones\","
+    publishedDateTime: 2023-12-12T03:43:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202312/12/WS6577d1f4a31040ac301a7559.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 54
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202312/12/6577d1f4a31040acaf8272a1.jpeg"
+        width: 1078
+        height: 718
+        isCached: true
   - title: "US in talks with Nvidia about AI chip sales to China"
     excerpt: "The California-based artificial intelligence chip designer has commanded more than 90% share of China’s US$7 billion AI chip market, but analysts have said new US curbs on chip exports are likely to create opportunities for Chinese rivals to make inroads."
     publishedDateTime: 2023-12-11T22:37:00Z

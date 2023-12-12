@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/phones/samsung-galaxy-phones/the-samsung
 webUrl: "https://www.techradar.com/phones/samsung-galaxy-phones/the-samsung-galaxy-s24-could-borrow-the-pixel-8s-best-ai-features"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Samsung new Galaxy Buds could one-up the Pixel Buds with on-device AI"
+    excerpt: "Samsung will reportedly launch a new pair of Galaxy Buds next year with on-device AI powering live audio and video call translations."
+    publishedDateTime: 2023-12-12T04:21:00Z
+    webUrl: "https://www.androidauthority.com/samsung-galaxy-buds-on-device-ai-translations-3393547/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 67
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/05/Samsung-Galaxy-Buds-2-Pro-vs-Google-Pixel-Buds-Pro-comparison-1-scaled.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Galaxy S24 AI features leaked, and it sounds like a Pixel 8 and iPhone 15 had a baby"
     excerpt: "Some of Samsung's big AI phone features for the Galaxy S24 are already available on Pixel 8 and iPhone 15 devices - what you need to know."
     publishedDateTime: 2023-12-11T18:14:00Z

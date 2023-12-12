@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/black-banx-path-to
 webUrl: "https://markets.businessinsider.com/news/stocks/black-banx-path-to-fintech-eminence-innovation-and-success-1032886175"
 type: article
 quality: 54
-heat: 86
+heat: 84
 published: true
 
 provider:

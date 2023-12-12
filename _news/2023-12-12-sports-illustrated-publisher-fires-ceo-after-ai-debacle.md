@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2023/12/11/media/sports-illustrated-ai-artic
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/12/11/media/sports-illustrated-ai-articles-ceo/index.html"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Arena Group fires CEO in wake of Sports Illustrated AI articles scandal"
+    excerpt: "Ross Levinsohn sacking was to ‘improve the operational efficiency and revenue of the company’, says board, two weeks after fake authors exposed"
+    publishedDateTime: 2023-12-12T03:09:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/dec/12/arena-group-ceo-ross-levinsohn-fired-sports-illustrated-ai-articles?ref=upstract.com"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/dec/12/arena-group-ceo-ross-levinsohn-fired-sports-illustrated-ai-articles"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/dec/12/arena-group-ceo-ross-levinsohn-fired-sports-illustrated-ai-articles"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/b26cbaddc0cb3db41d820bab0a38bf48261f0bcb/0_60_5184_3110/master/5184.jpg?width=620&quality=85&auto=format&fit=max&s=954d66c24857ccb537e975b3ed895423"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Sports Illustrated and other newsrooms fumble badly by huddling with AI"
     excerpt: "Technology should help media workers do their jobs, not impersonate them or actually carry out the tasks of real humans hired to dig for facts."
     publishedDateTime: 2023-12-11T11:00:00Z

@@ -1,18 +1,18 @@
 ---
 category: news
-title: "US in talks with Nvidia about AI chip sales to China: Commerce Secretary"
-excerpt: "NASHUA - The Biden administration is in discussions with Nvidia about permissible sales of artificial intelligence (AI) chips to China but emphasized that it cannot sell its most advanced semiconductors to Chinese firms. US Commerce Secretary Gina Raimondo ..."
-publishedDateTime: 2023-12-12T00:56:00Z
-originalUrl: "https://www.straitstimes.com/business/us-in-talks-with-nvidia-about-ai-chip-sales-to-china-commerce-secretary"
-webUrl: "https://www.straitstimes.com/business/us-in-talks-with-nvidia-about-ai-chip-sales-to-china-commerce-secretary"
+title: "US in talks with Nvidia about AI chip sales to China: commerce secretary"
+excerpt: "\"What we cannot allow them (Nvidia) to ship is the most sophisticated, highest-processing power AI chips, which would enable China to train their frontier models,\" US Commerce Secretary Gina Raimondo said."
+publishedDateTime: 2023-12-12T01:57:00Z
+originalUrl: "https://economictimes.indiatimes.com/tech/technology/us-in-talks-with-nvidia-about-ai-chip-sales-to-china-commerce-secretary/articleshow/105916634.cms"
+webUrl: "https://economictimes.indiatimes.com/tech/technology/us-in-talks-with-nvidia-about-ai-chip-sales-to-china-commerce-secretary/articleshow/105916634.cms"
 type: article
 quality: 70
 heat: -1
 published: false
 
 provider:
-  name: The Straits Times
-  domain: straitstimes.com
+  name: Indiatimes
+  domain: indiatimes.com
 
 topics:
   - AI Hardware
@@ -20,9 +20,9 @@ topics:
   - AI in Sales
 
 images:
-  - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/12/12/2023-12-11T061646Z1491786100RC2GOZ9QBK9NRTRMADP3NVIDIA-VIETNAM-CHIPS.JPG"
-    width: 860
-    height: 573
+  - url: "https://img.etimg.com/thumb/msid-105916640,width-1200,height-630,imgsize-101486,overlay-ettech/photo.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -169,6 +169,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 57
+  - title: "US: Nvidia can sell AI chips to China, just not the best ones"
+    excerpt: "A smartphone with a displayed NVIDIA logo is placed on a computer motherboard in this illustration taken March 6, 2023. [Photo/Agencies] Nvidia can sell artificial intelligence chips to China, but just not \"the most sophisticated ones\","
+    publishedDateTime: 2023-12-12T03:43:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202312/12/WS6577d1f4a31040ac301a7559.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 54
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202312/12/6577d1f4a31040acaf8272a1.jpeg"
+        width: 1078
+        height: 718
+        isCached: true
   - title: "US in talks with Nvidia about AI chip sales to China"
     excerpt: "The California-based artificial intelligence chip designer has commanded more than 90% share of China’s US$7 billion AI chip market, but analysts have said new US curbs on chip exports are likely to create opportunities for Chinese rivals to make inroads."
     publishedDateTime: 2023-12-11T22:37:00Z
@@ -260,6 +274,6 @@ related:
       domain: newswit.com
     quality: 13
 
-secured: "kMqrjwLeEEO6lrN/Px7xlFjzSi8sfoklvijLZF0rM5DCFSIDJ4mN4NhLpecUKZwVSxLXv1kf22nZcq5aG570FceX7kIX9piZjdcrp2mSvtr60x1bx9QMcN0MimxMn/lMUhLweBBIN+kSPAw2EpTDdsO9MKTtEfoRB8yjObHNKdOjmt25VzbVKSj0Rg1TePixS6MgkNk94sVUFfs+YfHRvgCSl78m6AQMqU8oYgVxJKh62y77xpOPbLPCDO4I7GmqnCO1DUJJGzxMUbJ171aOvbSS/6JWTg7yyzBEa+EO19UfVY8hFDyj8oN+yOzs6PIf/N5f2IDqHncTtlxuScmJZT1jVkoJhlssibZzZSbgHnu67lWMZrDKIqQLVReMMnTki0lv5xK/5wioy6ZsqbCc8SWB88TXYicYGWpkW6VbF52z/2FVipnun/5NKS2s7TuToju4y3Vg0NjMqg9/qa3c0mBQvDbybENaPkFBEx6aFO1UMpMqhYSWa1N3S+cE7g9do4bzbzIs5+Bsj7amEbjwkg==;UmKRqZB0RZr6jn2FQEMPqw=="
+secured: "LVKzTwBPxEGeTW8vnpEovfgHXmocVYqeE3dVfdMtv6mxXSJQQs/zOo9WH4WI8qmDjd/GOkV6RAkgAo9YjefbDQJiq+XCEROal2hGKj/thhaUfT6B+mh/NhLeB6k5D3aEBdvL9NQ3eV0nB7a9ftN4W4Xn7SC8gDPgBEoyB31SzOXUo0Bp1hfajIumibG6Tt+bVzZGLmPLhQy9MMpZcj6xZ6buYypJsI9npSeFZrVzuGnGw9ypZ1qyd/Q/VhI9hHzZL7jhod+SO/JBtYALj5YI+l61b81971OO1Pk83+J1RHX6DcNDIgwOmxOjVon52Wc5bjaFrQWr5k87/SbQOVHiHKYJczpcRDHDTy7rx+sJTbU=;umWS5IEeniwzQsAWTuNQwA=="
 ---
 

@@ -66,6 +66,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Google's Bard vs OpenAI's ChatGPT: Which of the rival AI chatbots is better? – Euronews"
+    excerpt: "Google’s answer to ChatGPT is here - but is it as good as OpenAI’s global phenomenon? Euronews Next put them through their paces. Google has made its"
+    publishedDateTime: 2023-12-12T02:41:00Z
+    webUrl: "https://www.inferse.com/836356/googles-bard-vs-openais-chatgpt-which-of-the-rival-ai-chatbots-is-better-euronews/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 48
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/12/wp-header-logo-6663.png"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "AI start-up Mistral secures €385m to challenge OpenAI"
     excerpt: "French start-up Mistral is focused on creating open-source AI models and has reportedly hit unicorn status after raising €385m."
     publishedDateTime: 2023-12-11T12:24:00Z

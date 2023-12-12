@@ -41,6 +41,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Arena Group fires CEO in wake of Sports Illustrated AI articles scandal"
+    excerpt: "Ross Levinsohn sacking was to ‘improve the operational efficiency and revenue of the company’, says board, two weeks after fake authors exposed"
+    publishedDateTime: 2023-12-12T03:09:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/dec/12/arena-group-ceo-ross-levinsohn-fired-sports-illustrated-ai-articles?ref=upstract.com"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/dec/12/arena-group-ceo-ross-levinsohn-fired-sports-illustrated-ai-articles"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/dec/12/arena-group-ceo-ross-levinsohn-fired-sports-illustrated-ai-articles"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/b26cbaddc0cb3db41d820bab0a38bf48261f0bcb/0_60_5184_3110/master/5184.jpg?width=620&quality=85&auto=format&fit=max&s=954d66c24857ccb537e975b3ed895423"
+        width: 620
+        height: 372
+        isCached: true
 
 secured: "6mL4uV1/DJTAzu3k1iIjaj2brM9CB17pBvuMuzyBWHcDdGBk44/pFRbz9ZoRpazVxOMI+UIZ8bJ68/PDccqt2slitwqigth88GTRmk4s5X2oTN7F5Zj54wXznLcwmQoxubKnsqP5/Q9gB8jRH8xviJQAF4RcQf29z/rZDwIZMRmZyz9VFuC3Csl/PuqN/1bc7DLAevGGqmD9wiirYqU/2X8satBiCGaozEmCWzgL2cXrdj2kAxRncu8WD8zi3/ggCCKMvymOnZhDw0d6iAbfVsoXLwpuJ9qPXT7Xv62JfiqimS+qEmgjB/QhS4aojm+TRvxtFEcoDyUE0uiZq9TCSDrVUwZImBVbtiCGeRlQIuFRrppSBXS/8kQSTY0FWUfE5Sidmxy8x3ZYHjCNue4HCBxYcYeRDrNyXyU/u29+0LurLJrqkjQ7EGZo4xzI0S3aj5zW5/ObUe0r1Hj2TWopkQYWhcG0ZcKd/y4Aap18lq8eliWc/q1An50XIBvLvncTv3cTRAZAJOnUMMvd4/wJmw==;oTCrQqI9C3RIKPsjuWm12Q=="
 ---
