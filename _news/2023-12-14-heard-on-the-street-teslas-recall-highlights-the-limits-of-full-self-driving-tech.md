@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/livecoverage/fed-meeting-fomc-interest-rate-de
 webUrl: "https://www.wsj.com/livecoverage/fed-meeting-fomc-interest-rate-december-2023/card/heard-on-the-street-tesla-s-recall-highlights-the-limits-of-full-self-driving-tech-5t1wARKk5hZZYznApkee"
 type: article
 quality: 62
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -43,7 +43,21 @@ related:
         width: 1536
         height: 930
         isCached: true
+  - title: "Tesla pumps the brakes on self-driving, recalls its vehicles"
+    excerpt: "To limit the use of its self-driving technology, Tesla has recalled almost all of its 2 million cars in the U.S."
+    publishedDateTime: 2023-12-13T17:10:00Z
+    webUrl: "https://www.washingtontimes.com/news/2023/dec/13/tesla-pumps-brake-self-driving-recalls-its-vehicle/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 39
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2023/12/13/Tesla_Auto_Pilot_Recall_93271_c0-234-5616-3510_s1200x700.jpg?cb8bdaaafe19aeefebbc81a4d50578aeb1d81bb7"
+        width: 1200
+        height: 700
+        isCached: true
 
-secured: "Tdd17yDDT/ovZPAelKz5sRG6yE/rh/asZcrUba6KfsGR2IddWKU3XvXqcXYVChTx3q6GsaKtq1i3TPMOve7GKN459edakdVOxPH7svuBWwdp9mridbcgWCrWyPtqL74AnnmyTMLRXUZXzd045MeUEIzlWMlZ7+1domqAsuMdzkWiLfF9nsRkCKJv5XrWZWYiys5mrAaMAd1Ed5WAlbNVsIyp9jOhSguhs4cHnANhOH8r2DyEgugoZLNbWfuMc7GwbSdoktow17nakwoV5WLHrLJ2Wk2mRxx5dtAj8/aIC7hygWsN/CqDeEfo+L+CtgESf3x9D0n7irBfdBGPWeonN9Y5O7NpXkdeqhnfHPNbJjg=;KmqRrqgtpnQvl1HNZSTxPQ=="
+secured: "a/es84ge9Tgo9uTZ0LlmncKN1fKcqZCsxzh8Iu6lwDX5B9zvTt/TgOjWvt/l3D3Y3BeftZvs61eVrgx2eTZXMGgZb54vpmS6hp9BLiHveoGusyktCPpIhPtEYkahK90uSbs8iZqKve0QxDKEnQdziw5DGJK5T1b5esDPH2m/PUbGFXQ2dN1HVr36+IjLGyH69d7t0/n8FQ3UiXBxjO6/vX7m4vjLB8IKDmWm/S/D04IUNgiOIJSbJYB+jUYLAJb/QoKXaMfIm2IUQ3c+vZXdYV8tQnGqcYZAjkiC4IUwx+KZsn+Z7n/HL1Q8xmf5j1IgNyJLaz7dyrLGs1swRUqgRU4E7BwXRcGlxF54AB3c9FahIRiRYooqIJxZMmL7Ryw8CG1fPfsxVuloRpsHynCbf5KHUF0vGD/pmV1fQVd2oRLDSh9pCoKZztEAczA/LoPkSu5eQXEgSB83qEmZvR6Iwsa4E7r6MoCIS8YY6u+64xkbCeG49s+8BBkUw3eHtjW2jUn7GfGJbax8jV972YgGVw==;0MbTeJCVDV9Ow2kCEmc6FQ=="
 ---
 

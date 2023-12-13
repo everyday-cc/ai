@@ -62,6 +62,20 @@ related:
         width: 1201
         height: 628
         isCached: true
+  - title: "Google's Gemini Pro AI is open to devs and will be cheaper than GPT-4"
+    excerpt: "Gemini Pro will be cheaper to use than GPT-4 when the free period ends. After announcing its new large language model (LLM) Gemini, Google started rolling the AI out to its various products. In addition to being available in its products, the tech giant is now allowing developers and enterprises to start tinkering with Gemini."
+    publishedDateTime: 2023-12-13T17:28:00Z
+    webUrl: "https://www.androidauthority.com/google-gemini-pro-for-devs-3394219/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 67
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/12/Gemini-Google-Logo.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Google Challenges Chat GPT with Gemini AI Model"
     excerpt: "If Bard is not enough to challenge ChatGPT in its dominance in the AI field, Google introduces Gemini, which claims to be its largest multimodal AI model to date. Made in collaboration with DeepMind and other Google teams, Gemini aims to seamlessly understand and process diverse types of information, including text, code, audio, image, and video."
     publishedDateTime: 2023-12-13T03:07:00Z
@@ -97,6 +111,6 @@ related:
       domain: cbsnews.com
     quality: 17
 
-secured: "XuHFrjD/B8uZV/W1xiSIiVs4WcGNtwgb5s7FF4cTlm+KMYoY1BDGhC5bq8HL9qF6BPWb+22f2d6WEwatqUPEtW6TIh7DB7zWxBGqmrsLWM3iRWvz/dELYLKGHAlDbeGD4iw9RTfBMm3+556SQ1lwROQqPIc7c90EZpC93hxGSqNXXqtgATBYHn8CH+g4VvSqyG4TyeJDIZzwUKFh/ctaB6Xrk4TPuTT23V7RUUbxxUDT4JOzmUM2+98gvKK9kscCgMF2q1tZxe45BH8x3LmPu37YBYHu6JrJsOHr6Z4beuw55yOg5FL/yP1MbtryJufluMJN1JDVUR8oaf8R/GreBYMQtqRV1FCw9AJn1aUMDgQ=;8G2jzxGpZMyBtUEhxZ3BlA=="
+secured: "t7bWB+dtHW4XC8v02sPxT0z+OuuEsFgBZwwVdmpuASEBrBCQRNJmQcJzLwdpPupiR9kihhI+JhnHMaKULoWfd2C/ZKoX0zsJ0El3gnD+kd2OT62kCdYs6cid8MuKNS5DD2c6QWssZ0AbCF1IJ1B34Owar3A2/E2qbAoQtdVnF3ezs5VWvtuh1xKv9HaEzPViRjxJVsq49SlZ9Z5+ySWz4PRr1HjHzhz7a4FI8MvI+StEK7ajS/6Pe7UDvE+Id0EndWlCSb3VnRdfmMkSan8rRR7f4fDUNF12kGdkkvmL3djwKHjinF55CRksy01a5NxXnRzzuNyKAyurDiRw+7uJp8eYg7wPFhXVqEvZri+7qe9Y2ND+eo5wvK7yvx+xeIUg/pCwxgXtoY6zAyzLgQ3lttxvDqbb45OxU7K5D1PAEUTca2AaOP9065Q4x4Ot0MvZxH5PVfP8YKcCL8WN6Rv1Wnb+v8N7gShjfEMyaY+88YhFY+8x1XhGFBkEqQ8l12AEtuQTTyH4DwG9zED+0Ky7AQ==;w1jTgH6PVgM4GFAOgTtqVg=="
 ---
 

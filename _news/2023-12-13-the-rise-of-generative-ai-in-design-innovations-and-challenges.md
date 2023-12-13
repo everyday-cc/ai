@@ -58,6 +58,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Powerful Learning With Artificial Intelligence For Educators"
+    excerpt: "The rapidly evolving space of artificial intelligence (AI) requires school and district leaders to make sense of how emerging technology applications, including those that use generative AI (Gen AI), are being integrated into schools and districts across ..."
+    publishedDateTime: 2023-12-13T00:00:00Z
+    webUrl: "https://www.edsurge.com/news/2023-12-13-powerful-learning-with-artificial-intelligence-for-educators"
+    type: article
+    provider:
+      name: EdSurge
+      domain: edsurge.com
+    quality: 41
+    images:
+      - url: "https://edsurge.imgix.net/uploads/post/image/15638/Shutterstock_2101215478-1701557449.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "UBS Report: Generative AI for Financial Services"
     excerpt: "In the financial services industry, generative artificial intelligence (AI) is being deployed to automate time-consuming, tedious jobs in areas including customer service, fraud prevention, coding and information analysis."
     publishedDateTime: 2023-12-13T06:52:00Z

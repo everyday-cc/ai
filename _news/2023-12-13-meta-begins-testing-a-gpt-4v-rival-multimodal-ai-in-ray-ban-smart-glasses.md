@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/meta-begins-testing-a-gpt-4v-rival-mult
 webUrl: "https://venturebeat.com/ai/meta-begins-testing-a-gpt-4v-rival-multimodal-ai-in-ray-ban-smart-glasses/"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Ray-Ban Meta Smart Glasses Are Getting Two AI Features That Could Change Everything"
+    excerpt: "Meta is upgrading the Ray-Ban smart glasses with multimodal AI-powered capabilities so they can see things and understand them in real-time."
+    publishedDateTime: 2023-12-13T18:05:00Z
+    webUrl: "https://www.inverse.com/tech/ray-ban-meta-smart-glasses-mulitmodal-ai"
+    type: article
+    provider:
+      name: Inverse
+      domain: inverse.com
+    quality: 33
+    images:
+      - url: "https://imgix.bustle.com/uploads/image/2023/12/13/6f1f7fd6-9d8f-47e1-b409-f5ad273a5769-92c1322b-1d72-498c-a842-d6c63886713a-dsc00606.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Google’s Multimodal AI Gemini – A Technical Deep Dive"
     excerpt: "Explore Gemini, Google's advanced multimodal AI model, revolutionizing the tech landscape with its cross-modal attention and diverse capabilities across text, images, audio, and video. Discover Gemini's integration in Google's ecosystem,"
     publishedDateTime: 2023-12-11T19:12:00Z

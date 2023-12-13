@@ -7,8 +7,8 @@ originalUrl: "https://yourstory.com/2023/12/ai-revolutionising-search-engine-res
 webUrl: "https://yourstory.com/2023/12/ai-revolutionising-search-engine-results"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 86
+published: true
 
 provider:
   name: Your Story
@@ -26,33 +26,33 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT vs. Google Bard, round 2: How does the new Gemini model fare?"
-    excerpt: "The new Gemini-powered Bard keeps the same spirit (\"He envisioned a sport that would unite people...\") with more concision and focus. Interestingly, GPT-3.5 is the only model we tested to imagine Lincoln as a youth instead of a restless president sitting in the White House."
-    publishedDateTime: 2023-12-08T19:01:00Z
-    webUrl: "https://arstechnica.com/ai/2023/12/chatgpt-vs-google-bard-round-2-how-does-the-new-gemini-model-fare/3/?view=grid"
+  - title: "Mistral AI is an exciting ChatGPT rival, but it’s not ready for us yet"
+    excerpt: "Mistral AI is a French startup valued at around $2 billion with an exciting ChatGPT rival you can't actually use right now."
+    publishedDateTime: 2023-12-12T01:08:00Z
+    webUrl: "https://bgr.com/tech/mistral-ai-is-an-exciting-chatgpt-rival-but-its-not-ready-for-us-yet/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 71
+      name: BGR
+      domain: bgr.com
+    quality: 54
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/12/chatgpt-vs-bard-round2-760x380.jpg"
-        width: 760
-        height: 380
+      - url: "https://bgr.com/wp-content/uploads/2023/02/rsz_gettyimages-1246675509.jpg?quality=82&strip=all"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "Google Gemini: Everything we know about the advanced AI model"
-    excerpt: "There are three versions of Gemini. The biggest is the Ultra model capable of \"seeing the world the way humans do\" through video, audio, text and images. The second is the Pro model, which is powering Google Bard and is similar in ability to the free ChatGPT."
-    publishedDateTime: 2023-12-11T15:37:00Z
-    webUrl: "https://www.tomsguide.com/features/google-gemini-everything-we-know-about-the-advanced-ai-model"
+  - title: "Google's AI chatbot Bard gives drab answers, but it does one thing better than ChatGPT – Mashable"
+    excerpt: "Compared to the other chatbots on the market, Google's Bard is the boring one. In a more or less positive assessment, Vox called"
+    publishedDateTime: 2023-12-13T14:29:00Z
+    webUrl: "https://www.inferse.com/838409/googles-ai-chatbot-bard-gives-drab-answers-but-it-does-one-thing-better-than-chatgpt-mashable/"
     type: article
     provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 41
+      name: Inferse
+      domain: inferse.com
+    quality: 43
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/TwMjTG2hMW5Z5McwPXyfsJ-1200-80.jpg"
+      - url: "https://www.inferse.com/wp-content/uploads/2023/12/wp-header-logo-7371.png"
         width: 1200
-        height: 675
+        height: 1200
         isCached: true
   - title: "These Are the Biggest Differences Between Google Bard and ChatGPT"
     excerpt: "AI chatbots are more popular than ever, and there are plenty of solid options out there to choose from beyond OpenAI’s ChatGPT. One particularly strong competitor is Google’s Bard AI, which pulls information from the internet and runs off the latest Gemini language model created by Google."
@@ -63,15 +63,6 @@ related:
       name: Lifehacker Australia
       domain: lifehacker.com.au
     quality: 21
-  - title: "How to use Google Gemini in Bard to get the best results"
-    excerpt: "Google has recently updated its AI chatbot, Google Bard, with its new Gemini AI model, which brings a host of enhanced features to improve the user"
-    publishedDateTime: 2023-12-10T11:03:00Z
-    webUrl: "https://www.geeky-gadgets.com/using-google-gemini-in-bard/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 4
 
 secured: "RW0uMBvtZ4M2yM2YeYKzG+x/2gWBKfnXcuuVt8Qe2LqIH6g3OtGIRuEnS9zC+xabRzzcTFZPORdR56YAa+t/z+VRrJfxB3U15iaCwQLhDEXuSOGLF+rM1FApEkbIFwvF9dRvNzynQ9nDBHjpzvkgd/f60QtnwDA8ot/7hWmfDaZoFwShPyN0m22DyRuZ6ActGXfJUfjiVIfvrPntGlu0ezL3TBHVEWMhenwwe8rNhC4rIMWUsO2eOwpYyjLizDrZGL5RpPymgbDdbWThRuLv5FpRfC065gcBrBkH/AQNMnQegpfs7OFFYJC3CXGObFdyRVolwdHJT4N5oT0X9w2F5llzkiYpBNAGzQFAhM0NsJM=;KFgBke7wdoiapuD+fmYJaA=="
 ---

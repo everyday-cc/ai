@@ -19,57 +19,29 @@ topics:
   - AI
 
 related:
-  - title: "ChatGPT vs. Google Bard, round 2: How does the new Gemini model fare?"
-    excerpt: "The new Gemini-powered Bard keeps the same spirit (\"He envisioned a sport that would unite people...\") with more concision and focus. Interestingly, GPT-3.5 is the only model we tested to imagine Lincoln as a youth instead of a restless president sitting in the White House."
-    publishedDateTime: 2023-12-08T19:01:00Z
-    webUrl: "https://arstechnica.com/ai/2023/12/chatgpt-vs-google-bard-round-2-how-does-the-new-gemini-model-fare/3/?view=grid"
+  - title: "Everything about Gemini AI: Google's assistant, Nano, Ultra"
+    excerpt: "Google has recently launched its own Artificial Intelligence (AI) called Gemini. It is a new model that is available on the Bard platform and will gradually be extended to other Google services. Learn more about its features and how you can test"
+    publishedDateTime: 2023-12-12T14:20:00Z
+    webUrl: "https://ccm.net/apps-sites/web/11817-everything-about-gemini-google-s-ai-assistant-nano-ultra/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 71
+      name: CCM
+      domain: ccm.net
+    quality: 39
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/12/chatgpt-vs-bard-round2-760x380.jpg"
-        width: 760
-        height: 380
+      - url: "https://img-19.ccm.net/_o5FU_f4-2Gf3L75OV9jbdkJ8G4=/1500x/smart/e81408f07b2b42efa7ab3b981452b19f/ccmcms-enccm/39487748.jpeg"
+        width: 1500
+        height: 981
         isCached: true
-  - title: "ChatGPT to Google Bard: AI giants are reshaping search results"
-    excerpt: "Explore the evolving landscape of search engines. From keyword-matching engines to AI-powered platforms, search experiences are being reshaped."
-    publishedDateTime: 2023-12-12T01:50:00Z
-    webUrl: "https://yourstory.com/2023/12/ai-revolutionising-search-engine-results"
+  - title: "Google's Gemini video was staged, which is kind of a relief"
+    excerpt: "Google just launched Gemini, and it also just admitted that its hands-on video was staged, which is both good and bad news."
+    publishedDateTime: 2023-12-11T19:49:00Z
+    webUrl: "https://www.androidheadlines.com/2023/12/googles-gemini-video-staged.html"
     type: article
     provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 56
-    images:
-      - url: "https://images.yourstory.com/cs/2/5cd74df08d8d11e9a445857ac4ecdc72/GoogleAIBengaluru1568955790392png?fm=png&auto=format"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Google Gemini: Everything we know about the advanced AI model"
-    excerpt: "There are three versions of Gemini. The biggest is the Ultra model capable of \"seeing the world the way humans do\" through video, audio, text and images. The second is the Pro model, which is powering Google Bard and is similar in ability to the free ChatGPT."
-    publishedDateTime: 2023-12-11T15:37:00Z
-    webUrl: "https://www.tomsguide.com/features/google-gemini-everything-we-know-about-the-advanced-ai-model"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 41
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/TwMjTG2hMW5Z5McwPXyfsJ-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "These Are the Biggest Differences Between Google Bard and ChatGPT"
-    excerpt: "AI chatbots are more popular than ever, and there are plenty of solid options out there to choose from beyond OpenAI’s ChatGPT. One particularly strong competitor is Google’s Bard AI, which pulls information from the internet and runs off the latest Gemini language model created by Google."
-    publishedDateTime: 2023-12-11T03:35:00Z
-    webUrl: "https://www.lifehacker.com.au/2023/12/these-are-the-biggest-differences-between-google-bard-and-chatgpt/"
-    type: article
-    provider:
-      name: Lifehacker Australia
-      domain: lifehacker.com.au
-    quality: 21
+      name: Android
+      domain: androidheadlines.com
+    quality: 4
 
 secured: "EE9fltSuy89NWQ/4Rl4MlRUZVEffHAkkrLLrcjIZKUZ+fnVuqRKQv8GChrPdeQRKTzCL7o+CDPBVd7b07bl5ZbNU1TR207GY7jsMpyqXyhLQ9d8hsTS6BbwnWF5PO9d8XXmGESdO+edZWpGZmUPKabti5+ZgCnsKVmrf+FGynlVoQErk8hSVmnswJ31aDHAf6EixaiFrjRIiVFBIw9h71RF8s1Afe2UR8XRfkbUVU6sg9SZ2GDTL8h9SVh7urIlmBbnMYJXB55kD5vbn1GqGVWIVHkSTAeSe9auO+2IIyi0ICxO+ACFnf1Y/LXKRkj/nNWueK2PpLnBtWeV+ndg0vAxeIP79Tse0WNTnaV9+bQw5vmtBzUh/87RaMTv3JxhyCOQWyYxUAq1G+WIOH6kFIM05SukXvrus98yxTgA/X3x2pfst8XWeGnyJyFAx1UZEf3aTRPoBzAXiiSNETcNvOfzKd7wP20De80LD/oYgPYNSc7pEdfV38ThOyNPPT1RH7W0LxCbOhTweLV9dhJlaQw==;cDJjYE2Y5TdBdVIdr9bPPg=="
 ---

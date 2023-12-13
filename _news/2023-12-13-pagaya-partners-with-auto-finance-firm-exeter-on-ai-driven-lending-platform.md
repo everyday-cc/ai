@@ -1,38 +1,39 @@
 ---
 category: news
-title: "Pagaya Partners With Auto Finance Firm Exeter on AI-Driven Lending Platform"
-excerpt: "(Reuters) - Pagaya Technologies said on Wednesday it has partnered with auto finance firm Exeter Finance, which intends to use the fintech firm's credit-decisioning product across its national network of over 13,000 auto dealers."
-publishedDateTime: 2023-12-13T13:33:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2023-12-13/pagaya-partners-with-auto-finance-firm-exeter-on-ai-driven-lending-platform"
-webUrl: "https://www.usnews.com/news/technology/articles/2023-12-13/pagaya-partners-with-auto-finance-firm-exeter-on-ai-driven-lending-platform"
+title: "Pagaya partners with auto finance firm Exeter on AI-driven lending platform"
+excerpt: "Pagaya Technologies said on Wednesday it has partnered with auto finance firm Exeter Finance, which intends to use the fintech firm's"
+publishedDateTime: 2023-12-13T12:33:00Z
+originalUrl: "https://kelo.com/2023/12/13/pagaya-partners-with-auto-finance-firm-exeter-on-ai-driven-lending-platform/"
+webUrl: "https://kelo.com/2023/12/13/pagaya-partners-with-auto-finance-firm-exeter-on-ai-driven-lending-platform/"
 type: article
-quality: 62
-heat: 72
-published: true
+quality: 32
+heat: 32
+published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: KELO
+  domain: kelo.com
 
 topics:
   - AI in Finance
   - AI
 
 related:
-  - title: "Plentisoft: Quasar Markets Partners with Dragon List Global to Revolutionize FinTech Research"
-    excerpt: "New York, New York--(Newsfile Corp. - December 13, 2023) - Quasar Markets, an AI-powered fintech research platform, announced its partnership with Dragon List Global, a company focused on a variety of emerging market industries worldwide including finance ..."
-    publishedDateTime: 2023-12-13T08:26:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-12/60911703-plentisoft-quasar-markets-partners-with-dragon-list-global-to-revolutionize-fintech-research-296.htm"
+  - title: "Quasar Markets Partners With Dragon List Global To Revolutionize Fintech Research"
+    excerpt: "Quasar Markets Partners with Dragon List Global to Revolutionize FinTech Research This partnership aims to enhance financial research and market ins"
+    publishedDateTime: 2023-12-13T10:39:00Z
+    webUrl: "https://menafn.com/1107586474/Quasar-Markets-Partners-With-Dragon-List-Global-To-Revolutionize-Fintech-Research"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?877739"
+        width: 375
+        height: 250
+        isCached: true
 
-secured: "mHs4pYaBeImcdULSwWFFiB43L66gS1UA/rVbTED0+s7XzZwG2ebmSyGdCya+cUo7tzNHAcT5VA0Ce7bqLXjLGRZNlTyBVxWikcPQSFWwmtACvO/trqkSjXJjmjKWBWxVB04u/0T1xbNVAXSM1RD3xTxwvArJbuKkEBmp77yNQMqs/if7ZZzMKWgPTGKnFdeubYzNcr0SQw78DEBmZ4SioOxHCu6m6YNSf2IgLTv4/zZbdAZPVINOEOMQ/zW7PE8usvkHdb63MXDgcXl5X7P49U9xl+GDoSSk0jmHMz6CV1rR4S13ul43wWmmk/OIowNneS3ED6QyIVbNuUR5kubLgG806Kspu/sNdfzkv99uO4c=;KTdw+7Wy4gY2Fsf72kCddg=="
+secured: "SuE/mUfizQ65HmtBjKPhmdxQeOBk1zG+b376UAWiWCa6C5ZVF2xVyt0kWG6K2uiB5vEJ+KteKkCjk2fO6mpCN20BAmMJZVMM/YvD1tLGfOCbiFC+GTJ311L6B/+z/Bor2MavLfl1akmTa/GaR1Nd2IJq4TvDgLicKTprVjWu84DRyRbqPYsfFnkUMxeH1Jk9tKlzyTlF1DZt3Te8br9HLnnUX6dHHHF/Wj3BR3RU+G1IW45kPu5EAF7Gs5SU3rqaRYTDL3PTYt3IB5BpW8+tV/AymNkRXe1bYXe0Czs6r5Aa7VgvliJxBESGRoJcv8fQtxyD9zlIvL91fqjwRF/e7Scktiu4Pps+Ic9lTmX1b6o=;NpTpEVcMPlpSeKePlY7abw=="
 ---
 

@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "ChatGPT to Google Bard: AI giants are reshaping search results"
+    excerpt: "Explore the evolving landscape of search engines. From keyword-matching engines to AI-powered platforms, search experiences are being reshaped."
+    publishedDateTime: 2023-12-12T01:50:00Z
+    webUrl: "https://yourstory.com/2023/12/ai-revolutionising-search-engine-results"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 56
+    images:
+      - url: "https://images.yourstory.com/cs/2/5cd74df08d8d11e9a445857ac4ecdc72/GoogleAIBengaluru1568955790392png?fm=png&auto=format"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Mistral AI is an exciting ChatGPT rival, but it’s not ready for us yet"
     excerpt: "Mistral AI is a French startup valued at around $2 billion with an exciting ChatGPT rival you can't actually use right now."
     publishedDateTime: 2023-12-12T01:08:00Z
@@ -40,15 +54,15 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Taylor: A year after ChatGPT's viral launch, I'm freaking out about artificial intelligence."
-    excerpt: "We’ve all been sleepwalking our way toward this … revolution? Utopia? Or is it apocalypse? Our columnist assesses the realities of AI."
-    publishedDateTime: 2023-12-13T09:00:00Z
-    webUrl: "https://www.houstonchronicle.com/business/columnists/michael-taylor/article/assessing-reality-artificial-intelligence-year-18550248.php"
+  - title: "These Are the Biggest Differences Between Google Bard and ChatGPT"
+    excerpt: "AI chatbots are more popular than ever, and there are plenty of solid options out there to choose from beyond OpenAI’s ChatGPT. One particularly strong competitor is Google’s Bard AI, which pulls information from the internet and runs off the latest Gemini language model created by Google."
+    publishedDateTime: 2023-12-11T03:35:00Z
+    webUrl: "https://www.lifehacker.com.au/2023/12/these-are-the-biggest-differences-between-google-bard-and-chatgpt/"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 27
+      name: Lifehacker Australia
+      domain: lifehacker.com.au
+    quality: 21
 
 secured: "bBTKRS6e6NpY4KFvy4q1Ijrs3xNKYfoC1lJsJCqKKJwS/FbJhOxHkDizRYSW6pTuaYSYZ/ok/mOlAhIrPoJvbT3YV75unpMDuWhNUqUg4gY+JE/jIkoZn2q1qnusDdNDrf/4d+jK4U4EBixTg6bx82Ln30yZHa690BdB0xz+gDYz2vJ2it58sHT+RycjSgub+9kv8LfYDdxSssMHJRWm32fJRO6K8hJSLXDxGBm/ocZoO+rKsXZYNJkPJ6FJKedfQnzUKj7XqqPi513slJp//XFtf62PPlWuoFGrASMqfnRhVdKq+JIw07pEi/DPaUDQOJDrRjTDz/0CX0eujQCtMuleOW4D5ESufDMdEgOlH8w=;PSkSJ8Isa2hY3BIP8f4DGg=="
 ---

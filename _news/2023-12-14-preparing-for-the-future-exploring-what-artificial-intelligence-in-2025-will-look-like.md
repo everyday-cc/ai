@@ -6,8 +6,8 @@ publishedDateTime: 2023-12-13T16:08:00Z
 originalUrl: "https://techbullion.com/preparing-for-the-future-exploring-what-artificial-intelligence-in-2025-will-look-like/"
 webUrl: "https://techbullion.com/preparing-for-the-future-exploring-what-artificial-intelligence-in-2025-will-look-like/"
 type: article
-quality: 35
-heat: 35
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -19,6 +19,7 @@ topics:
   - AI
   - AI in Healthcare
   - AI Ethics
+  - AI in Autos
 
 images:
   - url: "https://techbullion.com/wp-content/uploads/2023/12/Artificial-Intelligence-3.jpg"
@@ -26,6 +27,6 @@ images:
     height: 500
     isCached: true
 
-secured: "4NuNv82AHYs9LHvYvZ8ri9K0XxMX4lrdhPAEPIixJsDzqiZ9Ilrae5bPmfPjNra6dWTxYECaAFXYbmmVaKYKXz3XosLGaTnxbSYEnNGHmMkhSdunHb3ToJRR9+++5PcLZAIdRh02qCCQsdGVyuqv3Ek01+eJ2tVXOEWFenbwYd1E/aAGBKHlOMOi61GZGX7eOdSuroAk7LpWPjVmNZjx3FQZEu/wTJkYsWrp3awmQsFkILM5b43VyJ+aCYFCpB8gNibG8Yv3FuNnmj1S+O77zR80ts6EAH5/ZEtWy7HI0uSWrZc4XIsuWoqJPESN8SPeCFMeT18rKmXJy/b15a8wXXfx8sqDkg6AekKHMQSGyIk=;MeyC69ilwHMuSVotQiRK+Q=="
+secured: "Sjm7OjHsk+Sfa6esq6dDcoZHbUFNFv50754rLxCk9syzee0UTsGEaQM9W4Wark+MRp05hZ3zNYNFkpQhh7VsEq4B9jeILY0UvKjCOp5AyOGI9Ay5pR8wwb3lkQW4Ia7P6JLOtkHNMgDPyQkalN+FxxTv1CtAADu+60eEHOcNkx9QPBmCjqdGKu9mjMP8/w9kgKkdm40i7GezU0VibdVA4EONeTARzlHfIiktfe3XXeOUoE1WFqRoqUwOoE7OjkAo0o7wyKrLi1AKn2MK97+E+VrUKS1UuOlKoYg+dbwYthxUl2ibGdIZZSgmr2aHJnr27nO01uOnjTvbKATa1jelWTouHsSkLPNB2TgdAD+85hBjRlksAWKbZfL0ZXlmQwtdlj6HwnWL4bdl9q7YNPLbnWOwl2HtnW9oi5e04ripVhzSZgjD1r9qa/W6qY7ysW54t1OSUjn/2v8kLaGhq5VOvhUnBOg9OeOBOpk37Vfkrv0clArqvm3xvIiQRWwNMr8++VynOpMByn3g8KMJyv3Zrg==;CPoEoYjQw5cHGDhBNXL/Zw=="
 ---
 

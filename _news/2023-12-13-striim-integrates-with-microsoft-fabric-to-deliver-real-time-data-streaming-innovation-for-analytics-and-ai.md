@@ -24,19 +24,6 @@ images:
     height: 627
     isCached: true
 
-related:
-  - title: "U of T’s Data Sciences Institute Empowers Workforce with Training in Data Analytics and Applied Machine Learning"
-    excerpt: "A new training initiative launched by the University of Toronto’s Data Sciences Institute (DSI), an institutional strategic initiative, is helping Canada meet its growing need for talent in data science and machine learning."
-    publishedDateTime: 2023-12-10T22:06:00Z
-    webUrl: "https://indiaeducationdiary.in/u-of-ts-data-sciences-institute-empowers-workforce-with-training-in-data-analytics-and-applied-machine-learning/"
-    ampWebUrl: "https://indiaeducationdiary.in/u-of-ts-data-sciences-institute-empowers-workforce-with-training-in-data-analytics-and-applied-machine-learning/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/u-of-ts-data-sciences-institute-empowers-workforce-with-training-in-data-analytics-and-applied-machine-learning/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 35
-
 secured: "tM00f6ImMy0HzzC5Fpf5ikOmBajMeTqBTBYqolBCCzDVzegR2zpV8XlnNySr8M/rJEV/BZuej+DMkf5stsUTbaSKtMOyEZmt8i3LnOaQCvJdKLGNuCzF8vtlZuVwyO5MhDwP1CMTczUXfB9nqHPpKv/nt4sR0Rf180Dbv3AztL8jcyhhd/cKCf3rxZrXjMe6TTahok25LVYA5AOHYbJ2NrS6+W0rWrQQj93F4VpwBj2vZoX3gS5xGwYuu6BSRi+q+A2gt+9VeGAwWDNadOEa7SC2WDKnfxfEt1Fqv+Bz0iHEqV7vcuqK+IwnZr8OWw4386b6BzLogsaNzeOWzqofNY8g4P3eKJyvXaYbCU0zHTw=;Ev/VSQl/6bLgUH0FKG97tA=="
 ---
 

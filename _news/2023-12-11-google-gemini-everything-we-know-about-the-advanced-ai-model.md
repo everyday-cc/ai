@@ -26,52 +26,22 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT vs. Google Bard, round 2: How does the new Gemini model fare?"
-    excerpt: "The new Gemini-powered Bard keeps the same spirit (\"He envisioned a sport that would unite people...\") with more concision and focus. Interestingly, GPT-3.5 is the only model we tested to imagine Lincoln as a youth instead of a restless president sitting in the White House."
-    publishedDateTime: 2023-12-08T19:01:00Z
-    webUrl: "https://arstechnica.com/ai/2023/12/chatgpt-vs-google-bard-round-2-how-does-the-new-gemini-model-fare/3/?view=grid"
+  - title: "Five things you need to know about the EU’s new AI Act"
+    excerpt: "The EU is poised to effectively become the world’s AI police, creating binding rules on transparency, ethics, and more."
+    publishedDateTime: 2023-12-11T17:56:00Z
+    webUrl: "https://www.technologyreview.com/2023/12/11/1084942/five-things-you-need-to-know-about-the-eus-new-ai-act/"
+    ampWebUrl: "https://www.technologyreview.com/2023/12/11/1084942/five-things-you-need-to-know-about-the-eus-new-ai-act/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/11/1084942/five-things-you-need-to-know-about-the-eus-new-ai-act/amp/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 71
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/12/chatgpt-vs-bard-round2-760x380.jpg"
-        width: 760
-        height: 380
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/12/eu-ai-flags2.jpg?w=3000"
+        width: 3000
+        height: 1688
         isCached: true
-  - title: "ChatGPT to Google Bard: AI giants are reshaping search results"
-    excerpt: "Explore the evolving landscape of search engines. From keyword-matching engines to AI-powered platforms, search experiences are being reshaped."
-    publishedDateTime: 2023-12-12T01:50:00Z
-    webUrl: "https://yourstory.com/2023/12/ai-revolutionising-search-engine-results"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 56
-    images:
-      - url: "https://images.yourstory.com/cs/2/5cd74df08d8d11e9a445857ac4ecdc72/GoogleAIBengaluru1568955790392png?fm=png&auto=format"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "These Are the Biggest Differences Between Google Bard and ChatGPT"
-    excerpt: "AI chatbots are more popular than ever, and there are plenty of solid options out there to choose from beyond OpenAI’s ChatGPT. One particularly strong competitor is Google’s Bard AI, which pulls information from the internet and runs off the latest Gemini language model created by Google."
-    publishedDateTime: 2023-12-11T03:35:00Z
-    webUrl: "https://www.lifehacker.com.au/2023/12/these-are-the-biggest-differences-between-google-bard-and-chatgpt/"
-    type: article
-    provider:
-      name: Lifehacker Australia
-      domain: lifehacker.com.au
-    quality: 21
-  - title: "How to use Google Gemini in Bard to get the best results"
-    excerpt: "Google has recently updated its AI chatbot, Google Bard, with its new Gemini AI model, which brings a host of enhanced features to improve the user"
-    publishedDateTime: 2023-12-10T11:03:00Z
-    webUrl: "https://www.geeky-gadgets.com/using-google-gemini-in-bard/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 4
 
 secured: "m6+2B9NE2N3ABBnxaE8fcX5+N4/IwsfaspacAB2M8B3rPLK6RjDF/AIugUToMexTB5msS0JiOJLYltZwK5DS9P+lBNVK4aS46TW/YzbnWgNppb1bvGJxoR8M/JexqxgCCfLnYBIqQTCXtZbDpeuwcVf7jALKLuXI9ILaWlTlo/YDHX1MPw/Hnk2KOxS/l+QTnztjdug1GXpoLBRWRlf/v4Z7d8AfNE+dtg3Jqz1AUqJ4mjI+fqLq9caitlpSrJqIhIgqJIwiRMaxRZhFTtrwrQUWIGq8RENlTEPfLhzE/6HkPsb+Fc19WSi678nAwZsS2QJpUoX95J1h87du3FlXAUCVYvAlltGCTRlPU187mfA=;MfvtccbpJczLDEur1w6baw=="
 ---

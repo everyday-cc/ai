@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "How to use Google Gemini in Bard to get the best results"
+    excerpt: "Google has recently updated its AI chatbot, Google Bard, with its new Gemini AI model, which brings a host of enhanced features to improve the user"
+    publishedDateTime: 2023-12-10T11:03:00Z
+    webUrl: "https://www.geeky-gadgets.com/using-google-gemini-in-bard/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 4
   - title: "Google's Gemini video was staged, which is kind of a relief"
     excerpt: "Google just launched Gemini, and it also just admitted that its hands-on video was staged, which is both good and bad news."
     publishedDateTime: 2023-12-11T19:49:00Z

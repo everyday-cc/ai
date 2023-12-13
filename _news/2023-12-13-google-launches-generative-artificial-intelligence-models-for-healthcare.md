@@ -66,6 +66,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 63
+  - title: "How AI therapy is filling gaps in mental health care"
+    excerpt: "And for some users, they’ve been beneficial. 80 percent of people who used ChatGPT for mental health advice reported it was a good alternative for therapy, according to Business Wire. The majority of Americans don’t believe AI therapy will help more than it hurts, but that’s not stopping innovations in artificial intelligence and therapy."
+    publishedDateTime: 2023-12-11T02:36:00Z
+    webUrl: "https://www.wlrn.org/2023-12-10/how-ai-therapy-is-filling-gaps-in-mental-health-care"
+    type: article
+    provider:
+      name: WLRN
+      domain: wlrn.org
+    quality: 54
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/8a5e564/2147483647/strip/true/crop/1600x840+0+114/resize/1200x630!/quality/90/?url=https%3A%2F%2Fthe1a.org%2Fwp-content%2Fuploads%2Fsites%2F4%2F2023%2F12%2FGettyImages-1233936108-1600x1067.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Mediverse: Making Healthcare Accessible For All Using Artificial Intelligence"
     excerpt: "In line with this aim, dynamic healthtech startup Mediverse is taking advantage of the ever-evolving healthcare landscape and harnessing the power of Artificial Intelligence (AI) to improve patient care and accessibility. Mediverse's primary vision is to ..."
     publishedDateTime: 2023-12-13T09:46:00Z
@@ -108,16 +122,7 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "How AI therapy is filling gaps in mental health care"
-    excerpt: "And for some users, they’ve been beneficial. 80 percent of people who used ChatGPT for mental health advice reported it was a good alternative for therapy, according to Business Wire. The majority of Americans don’t believe AI therapy will help more than it hurts, but that’s not stopping innovations in artificial intelligence and therapy."
-    publishedDateTime: 2023-12-11T03:35:00Z
-    webUrl: "https://www.boisestatepublicradio.org/2023-12-10/how-ai-therapy-is-filling-gaps-in-mental-health-care"
-    type: article
-    provider:
-      name: Boise State Public Radio
-      domain: boisestatepublicradio.org
-    quality: 34
 
-secured: "pLlU2YYo1RoIYgVbI7nu+8kuoq8T5rnx3+I2CqzkSVIOggYK76kuho9yIknJfmukvyQ0DbKfYf1P7iGNysIB8GhH3cHVZZiI87DNImmMjxaQxZeLKeLj43/csvmBiVFsF8qGEicdMH6g5e0QD3gDVKxnvh1uG+lvUukvU/KY/Zz/9GR9s5veps8BJD5xV65cSn3X2sWehViMuZ0A8w2vKT/BYEt8c220WQijtvp2saqN+d9MLpCfTYiYiy+mbZpCaLUB5QVx0DhPHnHo/fw/l5H4yelcGEOxYVEs+zJJyMsiPzySPtDiK3eo97ZgA28RJ9Giu+1GZUqWf/qw0gj/USUrSdKmQXCnn3LoI0FLZMg=;QUnAZbTHaFoGrHJe+Lf6TQ=="
+secured: "6I/03pxypg8f0I6LcULUqXj9/WxVe/jnvntfwclBlyWV1Mj+Nzcr1PEIn+QevzlyHou55na/D/CAUTWPK8NCeoDCUdY0mZNHsm33vcbDCU3O75JcTU0m/gl5UtqzP2tGBc2e7iMmjmXFpX4SppckYXm9k2z0zsKFRJH8Po0V0opq81uQV02DctSDs0RlLNSNJ1PAdXxTXZJsyZ4lhpmsm0goYA3DWyWxspngYf1Q8DaszfH2d3Dhf7Uxkoj0M9b85RoS5jFrso18Xu/1woPZ579Pwd5jiKQvT1Fwi5Uv2S0uMLc2DspXanJbICaqXqiqPP9ukShYPqu0e6smIsvSJnP91JrgEN6R8aBQDBeISrZjpSYZ4ZoTUbDue5XcBvx7EhwieTIl4Ja5r1jGcZWng9xBkOsmlKzt5ZDHbKscM0zYl2JNpBAzKsYVqpsiVB2GSB0PbWUOIehjeZuFq9EOy8BBDi/qMYwUggOFndTtkDr3ZGynEDaxVbllq+3R4NYUCugQ6J72s7W69D9eSLIBqQ==;T9HcVbqTlKnGiHjmQYcHEg=="
 ---
 

@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "2023 was the year that artificial intelligence went mainstream"
+    excerpt: "From ChatGPT to Gemini, this year was dominated by large language models and other AIs becoming everyday tools used by millions of people"
+    publishedDateTime: 2023-12-13T18:00:00Z
+    webUrl: "https://www.newscientist.com/article/mg26034693-900-2023-was-the-year-that-artificial-intelligence-went-mainstream/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 52
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/12/12141558/SEI_182878822.jpg"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "Top 7 Noteworthy AI Innovations in Fashion in 2023"
     excerpt: "Now, let’s explore some of the key developments in the application of AI in the fashion industry this year."
     publishedDateTime: 2023-12-11T06:34:00Z
@@ -52,6 +66,20 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2023/12/Top-7-Noteworthy-AI-Innovations-in-Fashion-in-2023.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Artificial intelligence and climate change were 2023's twin challenges"
+    excerpt: "The decisions we made this year about AI and climate change could determine the fate of billions of people. In 2024, almost half the world’s population could be voting with these issues in mind"
+    publishedDateTime: 2023-12-13T18:00:00Z
+    webUrl: "https://www.newscientist.com/article/mg26034690-100-artificial-intelligence-and-climate-change-were-2023s-twin-challenges/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/12/13141250/SEI_183160249.jpg"
+        width: 1350
+        height: 900
         isCached: true
 
 secured: "fgCnALSlRHAJw2aAImbXZSdF/z+ju7kZj7gX/l1j8oBdIjFMYqTbzlaGYGKhBzbFNqq+CVY48Wrkr92QQ3VNkosDPauI5GXP1dDxmzmilajI+xftKqtDCHhuPx2nfF55kda+dUoXPZ2qyRLvelrOh82+c89AvRWIyuFXmYehv3DHVP2Dih17VJ4OR97kekXsPn9GhcXsquJh4fxOVTOHAcu8TBKlUNtQ93NLgIVvAITJ1Y+RKFZfqOv4ILmJMNIamdi0runXm7AyQDT4og4DPDzEE55asrvPdJI3akPIxyhx0wtWb+4/urRH4o+Du937gcDUBaWVM7Cs+eXXDmUr4xPWocq6e4dJkwOvnc5ekGk=;itenKxANaZg43Vyn+Vvy1Q=="

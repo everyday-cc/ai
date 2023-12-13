@@ -55,6 +55,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Powerful Learning With Artificial Intelligence For Educators"
+    excerpt: "The rapidly evolving space of artificial intelligence (AI) requires school and district leaders to make sense of how emerging technology applications, including those that use generative AI (Gen AI), are being integrated into schools and districts across ..."
+    publishedDateTime: 2023-12-13T00:00:00Z
+    webUrl: "https://www.edsurge.com/news/2023-12-13-powerful-learning-with-artificial-intelligence-for-educators"
+    type: article
+    provider:
+      name: EdSurge
+      domain: edsurge.com
+    quality: 41
+    images:
+      - url: "https://edsurge.imgix.net/uploads/post/image/15638/Shutterstock_2101215478-1701557449.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "UBS Report: Generative AI for Financial Services"
     excerpt: "In the financial services industry, generative artificial intelligence (AI) is being deployed to automate time-consuming, tedious jobs in areas including customer service, fraud prevention, coding and information analysis."
     publishedDateTime: 2023-12-13T06:52:00Z
@@ -88,6 +102,6 @@ related:
       domain: tmcnet.com
     quality: 7
 
-secured: "uNjv+aRAXaSdWxFzOf97IhSeIo/L+FugVBuPQncNbBcRaYwyi/kPQMjnaTEJaRW7kZMgnT3HKJ5F+LWUxoCo/LnBH9PUDa/rpgmx8gEjjGj5y1FKmF3HmusldmaUQ+COtEcrvjuuiIbYOft1QTZVYUsYe2hASggyWZiuLoqajgEVfhV5ZjtkhQ+6woa4w/o+D8Q95JuDdhVLBKwJCKLL/ENy9Uyi7aiTZAKb5Z5pXBirJHVuZjghYiQmotM6zkJPC5h/udNOuR3vx0Vjo+zOAKB4FZNBFzGmR1wJO2ij6v8/xVSu26ySlJX7txO7d2iG9BhP80d/j4OfmFuzdZfPfVzIq8t1mgdzNUeAGCym+LE=;RkrYuD0qQoK5FnHdvLqsjg=="
+secured: "Fgft/mNucerwBc3kqcB630JLcWSQYVXCnrzk56th/MNzbxaXajoBG3c/js+OHyBWYQYHM6r9hyHTD++5N77ZBlEHGgfBHnEKTlnDtn1Cg2wgGo3hEQNe7Lz9UzLUtUA1EvC9a2eU5/cWgvzc58SOR67weejA9a465RMXjnho5S8jMp2TH9kjhpcCjHaU/uZKc5SiavoIx4yMhb9QpKKv/jEhRSUX6rNNURFKn8KIwXVfylvHNp2rKLql5qldaiKOwPUpJHgQG3ewxY53ylf0MgqnCjHZTyNo/NqYEsFpSKQc+C9XiXZwcF9wOIE2MRhMNqWuRoco8SOdK6gjbdmQOiL2Lge07/+hPbWHSvFba3yCqr4DC5bJudxPIQp/8LZ0B6KWHSQsnD947tDtbTa/dG+G2L/g/88LyAm9QkikrDjPLhUMhEiIYU2WDvYgrdL4qcgwo91JI0959ghz6RiNXhBS62Sjf7kqNgPiGPYSx1NNHGxqQczow/hwZDMLZkQSBgXuCn2/fdIpobuGLS1W3g==;Gv8a9xvQsU2RzYgy6c2Uaw=="
 ---
 

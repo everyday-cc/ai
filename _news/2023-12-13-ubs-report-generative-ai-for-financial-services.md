@@ -69,6 +69,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Powerful Learning With Artificial Intelligence For Educators"
+    excerpt: "The rapidly evolving space of artificial intelligence (AI) requires school and district leaders to make sense of how emerging technology applications, including those that use generative AI (Gen AI), are being integrated into schools and districts across ..."
+    publishedDateTime: 2023-12-13T00:00:00Z
+    webUrl: "https://www.edsurge.com/news/2023-12-13-powerful-learning-with-artificial-intelligence-for-educators"
+    type: article
+    provider:
+      name: EdSurge
+      domain: edsurge.com
+    quality: 41
+    images:
+      - url: "https://edsurge.imgix.net/uploads/post/image/15638/Shutterstock_2101215478-1701557449.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "Dell Technologies storage advancements accelerate AI and generative AI strategies"
     excerpt: "Dell Technologies is helping customers achieve faster AI and generative AI (genAI) performance with new enterprise data storage advancements and validation with the Nvidia DGX SuperPod AI infrastructure."
     publishedDateTime: 2023-12-11T01:11:00Z

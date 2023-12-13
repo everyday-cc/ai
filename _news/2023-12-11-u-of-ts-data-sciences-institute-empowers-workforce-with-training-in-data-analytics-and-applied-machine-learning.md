@@ -22,20 +22,79 @@ topics:
   - AI in Finance
 
 related:
-  - title: "Striim Integrates with Microsoft Fabric to Deliver Real-Time Data Streaming Innovation for Analytics and AI"
-    excerpt: "Striim, an industry leader in real-time data integration and streaming, is excited to announce its integration with Microsoft Fabric, a new data analytics platform. Striim will provide its innovative low-latency,"
-    publishedDateTime: 2023-12-13T12:13:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/12/13/9933026.htm"
+  - title: "M2P Fintech acquires data analytics and intelligence platform Goals101"
+    excerpt: "Chennai-based financial infrastructure provider M2P Fintech has acquired big data analytics and intelligence platform Goals101."
+    publishedDateTime: 2023-12-13T18:24:00Z
+    webUrl: "https://www.thehindu.com/news/national/tamil-nadu/m2p-fintech-acquires-data-analytics-and-intelligence-platform-goals101/article67635358.ece"
+    ampWebUrl: "https://www.thehindu.com/news/national/tamil-nadu/m2p-fintech-acquires-data-analytics-and-intelligence-platform-goals101/article67635358.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/tamil-nadu/m2p-fintech-acquires-data-analytics-and-intelligence-platform-goals101/article67635358.ece/amp/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 36
+      name: The Hindu
+      domain: thehindu.com
+    quality: 44
     images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
+      - url: "https://th-i.thgim.com/public/news/national/tamil-nadu/rszzy3/article67635811.ece/alternates/FREE_1200/WhatsApp%20Image%202023-12-13%20at%2011.51.17%20PM.jpeg"
         width: 1200
-        height: 627
+        height: 421
         isCached: true
+  - title: "M2P Fintech acquires Goals101 in a cash-and-equity deal worth Rs 250 crore"
+    excerpt: "Through the Goals101 platform on M2P, fintechs and banks can now have the tools which will help them maximise consumer spends and increase usage of their products,” he said i"
+    publishedDateTime: 2023-12-13T00:31:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/startups/m2p-fintech-acquires-goals101-in-a-cash-and-equity-deal-worth-rs-250-crore/articleshow/105940711.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/startups/m2p-fintech-acquires-goals101-in-a-cash-and-equity-deal-worth-rs-250-crore/amp_articleshow/105940711.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/m2p-fintech-acquires-goals101-in-a-cash-and-equity-deal-worth-rs-250-crore/amp_articleshow/105940711.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 42
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1279000,msid-105940732/from-left-to-right-madhusudanan-r-visham-sikand-and-milan-naik.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "M2P Fintech acquires transaction behavioural intelligence pioneer, Goals101"
+    excerpt: "M2P Fintech, Asia’s largest Digital Banking Infrastructure company that powers the digital ambitions of banks, lenders, fintech and other financial service.."
+    publishedDateTime: 2023-12-13T17:56:00Z
+    webUrl: "https://www.khaleejtimes.com/business/tech/m2p-fintech-acquires-transaction-behavioural-intelligence-pioneer-goals101"
+    ampWebUrl: "https://www.khaleejtimes.com/business/tech/m2p-fintech-acquires-transaction-behavioural-intelligence-pioneer-goals101?amp=1"
+    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/business/tech/m2p-fintech-acquires-transaction-behavioural-intelligence-pioneer-goals101?amp=1"
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 42
+    images:
+      - url: "https://image.khaleejtimes.com?uuid=4b11fdfa-31fa-5435-bf7d-9bb07be34333&function=cropresize&type=preview&source=false&q=75&crop_w=0.62625&crop_h=0.99999&width=1200&height=675&x=0.17125&y=1.0E-5.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "M2P Fintech acquires India's Goals101"
+    excerpt: "M2P Fintech, Asia’s largest Digital Banking Infrastructure company that powers the digital ambitions of banks, lenders, fintech and other financial services players today announced the multi-million-dollar acquisition of Goals101,"
+    publishedDateTime: 2023-12-13T10:03:00Z
+    webUrl: "https://www.finextra.com/pressarticle/99116/m2p-fintech-acquires-indias-goals101"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
+  - title: "M2P Fintech Takes Over Nexus Ventures-Backed Goals101 For $30 Mn"
+    excerpt: "Chennai-based B2B fintech startup M2P has bought big data analytics and intelligence platform Goals101 in a cash-and-equity deal."
+    publishedDateTime: 2023-12-13T07:02:00Z
+    webUrl: "https://inc42.com/buzz/m2p-fintech-takes-over-nexus-ventures-backed-goals101-for-30-mn/"
+    ampWebUrl: "https://inc42.com/buzz/m2p-fintech-takes-over-nexus-ventures-backed-goals101-for-30-mn/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/m2p-fintech-takes-over-nexus-ventures-backed-goals101-for-30-mn/amp/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 24
 
 secured: "SgMFHXLkDFsefCY22V6bhDoevd0SC1atlYuht3pXBAN20qjOS9ltUgclGm/ioqwtXOk28dUvY94Eyoq9fFO1xAB6WilZ14hb0e71dr+71RaZCo9J+Kx/52Ak0c4T+cVaf/nMxGz6tLnDqfMZ9FEvlW0oIb5lxWn6Rid4tEoFksIGVIbDAwblKE8mYRAqsb/IHLSk8a8mXRcM4mz/j8xfx4/TjR1CotjfQy1fJm0SP5byOYzcT745jWIcg4/Z/ZFKpuluQO+xR4lsH09oykvS+tubPLmzDHCuwVQfc4hL25GU3Ew137YCnOVZEoMYtrfE0PY8vu4MovaZwGIvat6TV/ufFVS87vE16C/nkUGNHhU=;/xDmUZiJ4kZ7oLMHvD6qZw=="
 ---

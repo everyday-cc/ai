@@ -40,6 +40,20 @@ related:
       name: Greenhouse Grower
       domain: greenhousegrower.com
     quality: 39
+  - title: "House Resolution to Analyze Artificial Intelligence Heads to House"
+    excerpt: "Merski's team said he has previously advocated for steering AI away from nefarious actors and directing it toward being a beneficial, useful source for good in our society."
+    publishedDateTime: 2023-12-13T18:25:00Z
+    webUrl: "https://www.erienewsnow.com/story/50216333/house-resolution-to-analyze-artificial-intelligence-heads-to-house"
+    type: article
+    provider:
+      name: Erie News Now
+      domain: erienewsnow.com
+    quality: 37
+    images:
+      - url: "https://WICU.images.worldnow.com/images/25234973_G.jpeg?lastEditedDate=1696261550000"
+        width: 1280
+        height: 577
+        isCached: true
 
 secured: "KPps3jSO+0O3YJ34YAU7/wfloDsXMO/tHGueeSVtv7jfiF8tfmx82aYAzh3gKtgUOT5WBR9WtlmjBNdsaqZovSJtf66ilAG5PS0J5jB3cm6RpXYYPyMkvXPDEaKoLCZMVv4f0Ia10T/wBEpeKgPxmv7aJdjb3afWaOns7/R800msiKQT1boj2xM4KOcL+e8X+RvLIMv2sU8CAegHH64WTrSOcVfmk/E4hR9cnf8keFFxG5L6htmvqEdvL4ZFTrmQGp+qXvH/XjjKgg5EbtHjm7/Wz71jgo1EBSUDaciWGwQAfSPhgA+UEhX+f/SjsKGX5QTB5AHKjtB1yWi4IVYvJyi7r3oPGrI+69ofV0M+QvJnEnWDP5lOP1r221AoKH49t3oj4+SivDN7yOyJzSDc6CYY0k3p6f9Anr6I/rdL7oPjw7kO1vs/76a2e1F78bHY67IQV4mWWcoIZF7YRhX5R7HC7RDD4aRJdWh2keI5N5zhfUuSIvtxqJZYfcIEi1BNLbs3T4EyS3OVWfkQFLKsGA==;zta6sUJddMYm2V57p5l3Zg=="
 ---

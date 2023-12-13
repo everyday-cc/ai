@@ -39,6 +39,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Tesla pumps the brakes on self-driving, recalls its vehicles"
+    excerpt: "To limit the use of its self-driving technology, Tesla has recalled almost all of its 2 million cars in the U.S."
+    publishedDateTime: 2023-12-13T17:10:00Z
+    webUrl: "https://www.washingtontimes.com/news/2023/dec/13/tesla-pumps-brake-self-driving-recalls-its-vehicle/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 39
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2023/12/13/Tesla_Auto_Pilot_Recall_93271_c0-234-5616-3510_s1200x700.jpg?cb8bdaaafe19aeefebbc81a4d50578aeb1d81bb7"
+        width: 1200
+        height: 700
+        isCached: true
 
 secured: "TDn6wv4wfaHV929Fim8BU003qr4vrdOH00+JgNEA8lXArRGZNSo01rV2xvPMMRFboGnsGc3VOBiTfh9WFtcFWvao234K3FjLDUW7xTed3nlsoiVShHSoVEB1XmzyLWtmHbHjNF4XRIXRgycxQHEfpMXqZmhz+1wzyPHgCDNXhp5INF5k3FyTZsdinrOky4OfUwjJGqp5OYEqxgWHgnUTEVdMWWADNTuLNklaYirGDpOzlTNSHxnkVn9s426nOLnjk+mD2/MlqmxfNqB520nJ5E+J5kagwZf9gM1N36To1FWuYDL1bKS5skoi1cOr62HOawL/BUzBWdek8IUe6GXC/iQZqMbdumTysLPhjQaFlM8yhQV2XrC4hDNH7ERDqdIrmhAWhIV3x891VFem5cPkA0HHTREYj1GHi3BmVAJNXNYLZDd/kPNhkq+/5sLQpapPf/Gk+vnonzTyZdF55K2lQsK5IGf2JP1J4/3TvJ0OtlBg5dISDE1dJRvt4HapSsV8/08LU7WLfayfpPZfKi508A==;uJSrfeaop2JxDpr0RPeeTg=="
 ---

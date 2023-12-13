@@ -7,7 +7,7 @@ originalUrl: "https://mashable.com/article/ways-ai-changed-the-internet-2023"
 webUrl: "https://mashable.com/article/ways-ai-changed-the-internet-2023"
 type: article
 quality: 67
-heat: 87
+heat: 107
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
         width: 504
         height: 315
         isCached: true
+  - title: "2023 was the year that artificial intelligence went mainstream"
+    excerpt: "From ChatGPT to Gemini, this year was dominated by large language models and other AIs becoming everyday tools used by millions of people"
+    publishedDateTime: 2023-12-13T18:00:00Z
+    webUrl: "https://www.newscientist.com/article/mg26034693-900-2023-was-the-year-that-artificial-intelligence-went-mainstream/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 52
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/12/12141558/SEI_182878822.jpg"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "Top 7 Noteworthy AI Innovations in Fashion in 2023"
     excerpt: "Now, let’s explore some of the key developments in the application of AI in the fashion industry this year."
     publishedDateTime: 2023-12-11T06:34:00Z
@@ -51,6 +65,20 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2023/12/Top-7-Noteworthy-AI-Innovations-in-Fashion-in-2023.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Artificial intelligence and climate change were 2023's twin challenges"
+    excerpt: "The decisions we made this year about AI and climate change could determine the fate of billions of people. In 2024, almost half the world’s population could be voting with these issues in mind"
+    publishedDateTime: 2023-12-13T18:00:00Z
+    webUrl: "https://www.newscientist.com/article/mg26034690-100-artificial-intelligence-and-climate-change-were-2023s-twin-challenges/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/12/13141250/SEI_183160249.jpg"
+        width: 1350
+        height: 900
         isCached: true
 
 secured: "G9vjow+6Y9/qs89YW5XPsND/v64Z15HixpfLiiKeUykFrmVmxjaixxC/j4VNuKcnaa0ezLnKX0jQO8TdyCpWsy/mRVPCkj1ks2lijMUhjlsTcTg3MLEyvcwKALqnRtAOcEkw+vBXh5JN4+1jF7L/fawbY7/T3x9jjzAb4gPk1oTbjCenMf3OfMMSnBv+WmHXYAmc8BF41L4wRtTrv68qtOpUmJtNlbshB0Xq8o1EJe6zKi6fexA3qv92JJEbQ11fzh18uEATMzdzZEEB/aGzrlCdnLzpO5KKltMBfBBBf3gtIZqvSoSwZz9cYTVxyuUpmA2di8LvX+cPUtdqylxmsxkJLOcnHUCXFg8vA8ThIsQlKU70nWRmh8MnnmwwX7if6n8GDuvs8cxHcaSgYMh/iVcli4+ShDlMSNEbWgo7us5jfyXG+LTv+E5aUIwULjszGUOmYn8/KLlOD+Q3sEWkpcONa8D6bl4BQcSon5PAbtp/XEBTVSGzlLRkOBuZloxZPZfE+s3OtPismmtpCNcPMA==;rDL7x2+PdNFaewlMcpQbcw=="

@@ -20,20 +20,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "ChatGPT vs. Google Bard, round 2: How does the new Gemini model fare?"
-    excerpt: "The new Gemini-powered Bard keeps the same spirit (\"He envisioned a sport that would unite people...\") with more concision and focus. Interestingly, GPT-3.5 is the only model we tested to imagine Lincoln as a youth instead of a restless president sitting in the White House."
-    publishedDateTime: 2023-12-08T19:01:00Z
-    webUrl: "https://arstechnica.com/ai/2023/12/chatgpt-vs-google-bard-round-2-how-does-the-new-gemini-model-fare/3/?view=grid"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 71
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/12/chatgpt-vs-bard-round2-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
   - title: "ChatGPT to Google Bard: AI giants are reshaping search results"
     excerpt: "Explore the evolving landscape of search engines. From keyword-matching engines to AI-powered platforms, search experiences are being reshaped."
     publishedDateTime: 2023-12-12T01:50:00Z
@@ -48,29 +34,34 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Google Gemini: Everything we know about the advanced AI model"
-    excerpt: "There are three versions of Gemini. The biggest is the Ultra model capable of \"seeing the world the way humans do\" through video, audio, text and images. The second is the Pro model, which is powering Google Bard and is similar in ability to the free ChatGPT."
-    publishedDateTime: 2023-12-11T15:37:00Z
-    webUrl: "https://www.tomsguide.com/features/google-gemini-everything-we-know-about-the-advanced-ai-model"
+  - title: "Mistral AI is an exciting ChatGPT rival, but it’s not ready for us yet"
+    excerpt: "Mistral AI is a French startup valued at around $2 billion with an exciting ChatGPT rival you can't actually use right now."
+    publishedDateTime: 2023-12-12T01:08:00Z
+    webUrl: "https://bgr.com/tech/mistral-ai-is-an-exciting-chatgpt-rival-but-its-not-ready-for-us-yet/"
     type: article
     provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 41
+      name: BGR
+      domain: bgr.com
+    quality: 54
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/TwMjTG2hMW5Z5McwPXyfsJ-1200-80.jpg"
-        width: 1200
-        height: 675
+      - url: "https://bgr.com/wp-content/uploads/2023/02/rsz_gettyimages-1246675509.jpg?quality=82&strip=all"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "How to use Google Gemini in Bard to get the best results"
-    excerpt: "Google has recently updated its AI chatbot, Google Bard, with its new Gemini AI model, which brings a host of enhanced features to improve the user"
-    publishedDateTime: 2023-12-10T11:03:00Z
-    webUrl: "https://www.geeky-gadgets.com/using-google-gemini-in-bard/"
+  - title: "Google's AI chatbot Bard gives drab answers, but it does one thing better than ChatGPT – Mashable"
+    excerpt: "Compared to the other chatbots on the market, Google's Bard is the boring one. In a more or less positive assessment, Vox called"
+    publishedDateTime: 2023-12-13T14:29:00Z
+    webUrl: "https://www.inferse.com/838409/googles-ai-chatbot-bard-gives-drab-answers-but-it-does-one-thing-better-than-chatgpt-mashable/"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 4
+      name: Inferse
+      domain: inferse.com
+    quality: 43
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/12/wp-header-logo-7371.png"
+        width: 1200
+        height: 1200
+        isCached: true
 
 secured: "bAdTgiA4nv5ZzUd0DAISey2RRT4rxCo071kf5Cs3EYwhYkCi+EQQNRhfIsLjPb+BqETEln/S98zHHXmFQslVNf5VvlxI4sZztoBX5J6zlS0JqNe9xXwTbW8Ev/jvq3n/h1TnBP+SUIXBsmI7oJANHsWkgvC8Q05vGxmGtXTuVUMCRelhzjtONsWbrvBoKOWFk7wyBZCRG7ywXddZP+TGt+LYsBQUNBMIzDIjZaBABKcxsFKaclqZAIhZAspC9kZfd9T1bBjE9/UPvSdJnfUzl8526wtB8Sh8QjqE27X7F778qZ2JwSR14SXXdz8p8y9/zmSFJL3qC+galvooSy8fZRs0Os6y7JfsDmhXtHUmKRg1PZ+agHGrZ/JS3B5Lk54AtUluP9gwR1JQDqwwBMfHsJV3HiuEnTz4Ttymk9s/dLZMiU5TmirT2XEw0f3o0fSY7ShFRg6mqWzp6Bk2x5cJwKhJlDQWcVw6PCSujAghI3NPeDbsAE9emC9T7FwVcFOFiZsxAl/dFF5lFTCBZGLyEQ==;MUMVChFJYrK8YGknC3eKxw=="
 ---
