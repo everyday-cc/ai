@@ -40,15 +40,6 @@ related:
         width: 1500
         height: 981
         isCached: true
-  - title: "Google’s Multimodal AI Gemini – A Technical Deep Dive"
-    excerpt: "Explore Gemini, Google's advanced multimodal AI model, revolutionizing the tech landscape with its cross-modal attention and diverse capabilities across text, images, audio, and video. Discover Gemini's integration in Google's ecosystem,"
-    publishedDateTime: 2023-12-11T19:12:00Z
-    webUrl: "https://www.unite.ai/googles-multimodal-ai-gemini-a-technical-deep-dive/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 19
   - title: "Is Google's Gemini the real start of the artificial intelligence boom?"
     excerpt: "Google has released Gemini, its most powerful artificial intelligence model to date, as AI seeps into many facets of life. Will Knight, a senior writer for Wired, joins CBS News with a look at the revolutionary technology."
     publishedDateTime: 2023-12-11T20:21:00Z

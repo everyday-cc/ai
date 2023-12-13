@@ -7,7 +7,7 @@ originalUrl: "https://www.qsrmagazine.com/operations/technology/hi-auto-launches
 webUrl: "https://www.qsrmagazine.com/operations/technology/hi-auto-launches-ai-voice-cloning-feature/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "IBM and Meta Launch AI Alliance"
-    excerpt: "IBM and Meta's AI Alliance prioritizes open and transparent innovation for AI advancements while focusing on safety, diversity, and economic opportunities."
-    publishedDateTime: 2023-12-08T07:26:00Z
-    webUrl: "https://realtybiznews.com/ibm-and-meta-launch-ai-alliance/98780511/"
+  - title: "Hi Auto Debuts New AI Voice Cloning Feature at Lee's Famous Recipe Chicken"
+    excerpt: "Hi Auto today announced the launch of its AI voice-cloning feature, which delivers the most personalized voice AI-enabled drive-thru experience. Hi Auto's voice cloning solution enables Quick Service Restaurants (QSRs) to incorporate fully customized voice options into their drive-thru voice AI ordering technology."
+    publishedDateTime: 2023-12-12T14:23:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/12/12/9932187.htm"
     type: article
     provider:
-      name: realtybiznews
-      domain: realtybiznews.com
-    quality: 39
-    images:
-      - url: "https://realtybiznews.com/wp-content/uploads/2023/12/AI-Alliance.png"
-        width: 1007
-        height: 522
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
 
 secured: "BDkGcukSVg1ZcQW3dbuHtHvIqImGmhQWSe7WUlAV4+65lGgN/st6IHpwnsgBCQs2Ibav5cHRkjCYCAT2KAxlTJCy+TFtNubJ+6LEDQO5arYjVgTaPq0pilczLhW9MjRwk7yz+VYN6luLJAzyAjF1BIy3bTe/+4Q+cnTyZuRs7pteRzt388oTX/V12StBFx1fgmL8XPf57JGKvM/U1NOnGkW+toCWpIae3NAFFsSh5hdLixITDxpBMu8cAvTZ4FTaLDlPGHvK04kzAlqdgmZZLR8wnRC+aGdmv3vqkZWWjp1Ysa3izw6rqUJREzVtDYRUfmty+HvythjbhQZr/7BbM75vmt7jWNXLhA6Ift2iJsw=;dKiPqugdBFWoPeNSosMZzw=="
 ---

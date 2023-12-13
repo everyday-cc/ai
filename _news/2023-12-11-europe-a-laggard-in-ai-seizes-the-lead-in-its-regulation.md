@@ -33,6 +33,22 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 62
+  - title: "Five things you need to know about the EU’s new AI Act"
+    excerpt: "The EU is poised to effectively become the world’s AI police, creating binding rules on transparency, ethics, and more."
+    publishedDateTime: 2023-12-11T17:56:00Z
+    webUrl: "https://www.technologyreview.com/2023/12/11/1084942/five-things-you-need-to-know-about-the-eus-new-ai-act/"
+    ampWebUrl: "https://www.technologyreview.com/2023/12/11/1084942/five-things-you-need-to-know-about-the-eus-new-ai-act/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/11/1084942/five-things-you-need-to-know-about-the-eus-new-ai-act/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/12/eu-ai-flags2.jpg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
   - title: "The EU’s AI Act: A beacon of innovation and ethics for emerging Europe"
     excerpt: "In an exceptional move reverberating through the corridors of technology and governance, the European Union has provisionally adopted the Artificial Intelligence Act, heralding a new era of digital ethics and innovation."
     publishedDateTime: 2023-12-11T12:24:00Z

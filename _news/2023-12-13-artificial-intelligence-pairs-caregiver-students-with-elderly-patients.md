@@ -8,8 +8,8 @@ webUrl: "https://www.ktvu.com/news/artificial-intelligence-pairs-caregiver-stude
 ampWebUrl: "https://www.ktvu.com/news/artificial-intelligence-pairs-caregiver-students-with-elderly-patients.amp"
 cdnAmpWebUrl: "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/artificial-intelligence-pairs-caregiver-students-with-elderly-patients.amp"
 type: article
-quality: 72
-heat: 72
+quality: 74
+heat: 74
 published: true
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2023/12/932/470/watchfoxlocal.jpg?ve=1&tl=1"
@@ -25,6 +26,6 @@ images:
     height: 470
     isCached: true
 
-secured: "cZyMOXp/VmSmxNsZMYiluPacvPmXYb+J9gDjqJEpEIiKp8rs8igDYBYvV9mdMwewYBEWNt1i9thYVBcYGX7cZ8rvyzPGTH9d20DlEzui7OKpOgxRfuIgJHsbVDV0Je62tCCxOXqidQU/W+GvHjJmeB/OIruZluFU263wsnOC9sEYjDcQCNeSMwA+qNeumLHNL5VARBmVuR8QxidWJa3eDIAk+Ruyz44yVEWqpvUukzde/K0W4BG8/ghebBtlOIVR1N931o1PgX8LLO/4aNcQhsoeo4IlR198Y18DfBVqdgN4rgKSKA8apkKYgEgfDILte0giPYWnuY463Xm+YR3AtQeWLtsRmr73QArNgIHEziI=;XBepoX8uFUplmbgICS7xjA=="
+secured: "OaMYU1tcDuIr6rzVKwce1emUOXhJjOxKJtVvMYHfYHSPvRXbOyvGKXlvC34etK3w6YZiLU0JnbsE1ZQHxortTVSMKqjwHfg2ezneUiuAMFMIbExsxpkrjmfGalATz2fetwFMtKNr2CBVGbhCSy6o+hGga83BhudleHVHsZK5WFIVLUqfaHbyRu93nvbGk6Z31oVtEhkkfrPNc4NTKfq5BsrhNxEvB/cdSTbQyhJYuLK98We1rmRebCGDJ7R4Yjsn4XQmJhtkRO2UyYpUriIay91mNg/CbDRGJajcYkwoLJlQKt+ByTRN9zkE8ic52tP8GssNoYA7qMq/BuwgfsEH2IClUb6jdtuPsVpkbDAh+zVu075ytNEKhjusKzDQTS/317CxWWzE6RwVJEudd2LgTUXuvqU4aC4uktUGiMjj7kEkW22vgk4NFx5c1zDCdVw8cnPPFKB8bsxCDHqLtgyIL5rJqf9g+Dvt3ejCjtsAVEOJyFh9lUnjZp/yRFaJkd4bHmYi0szL0Wkyo/oZu7D3Ag==;O0wczWpUNp6FonavCnBeJw=="
 ---
 

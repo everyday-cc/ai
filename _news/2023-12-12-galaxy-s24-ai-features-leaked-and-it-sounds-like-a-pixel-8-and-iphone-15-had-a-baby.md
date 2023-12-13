@@ -52,6 +52,31 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Samsung Galaxy Buds 3 Pro to get on-device AI for live translation: Report"
+    excerpt: "The Galaxy Buds 3 Pro would likely include real-time translations for in-person conversations among its core AI features"
+    publishedDateTime: 2023-12-13T05:24:00Z
+    webUrl: "https://www.business-standard.com/technology/tech-news/samsung-galaxy-buds-3-pro-to-get-on-device-ai-for-live-translation-report-123121300241_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/technology/tech-news/samsung-galaxy-buds-3-pro-to-get-on-device-ai-for-live-translation-report-123121300241_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/samsung-galaxy-buds-3-pro-to-get-on-device-ai-for-live-translation-report-123121300241_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 37
+  - title: "Samsung Galaxy Buds 3 Pro Will Offer Live Language Translation Powered With AI"
+    excerpt: "Samsung is actively developing the highly anticipated Galaxy Buds 3 Pro, touted to feature built-in on-device artificial intelligence (AI).  Set to hit shelves in late 2024, these next-generation earbuds are expected to elevate user experiences with native AI capabilities,"
+    publishedDateTime: 2023-12-13T00:11:00Z
+    webUrl: "https://trak.in/stories/samsung-galaxy-buds-3-pro-will-offer-live-language-translation-powered-with-ai/"
+    type: article
+    provider:
+      name: Trak.in - India Business Blog
+      domain: trak.in
+    quality: 35
+    images:
+      - url: "https://trak.in/stories/wp-content/uploads/2023/12/ify-1-5.png"
+        width: 1000
+        height: 465
+        isCached: true
 
 secured: "XUvkZFDwIN8lNKViNt39rsvl2DsRRaX2uIFDOCOlseBnp2MkAzQ8QXLEUxYbBNVBcHm3hmEa0qZ2mVTXJlglkdQ/nKlyn93KN20ORzkRy7v+B8+aG53Sil8YesLPyPzaEeUqu75uiNTnkqOZ+u+f55A8zjIRvjNDUYNU8erSNguz9MrU+q/dr8A3pw/DcgnRDFJjYGiQBpaUJe8g/Qy6eZZip0vmIAkOqpNYWIsuoaSXT4TTsTJaCFhAtYgaRpjChNkmZlkVkeWHd7OSoLl4Guz89IqULXbWoKzjPqtmozE3WcwnGZ7Xyi3DdktFYj/5MIGnBjUQqxW8ZVPBSK690bAlhDOVXcCFa2K93KQS2o/tMBIORxjeNthoyr6SB8OtZbRQFuzhzK60Ym7rgPqJEXo2iaFCqEYrL4lxJUFH3AcdVlDc7AiDgmmm6mfgVgYEk2I3y3hFsYnHr4f6haZmm7+EPmKtdb8A+ys5coGD3f99SQhDunezwFoJkhHXspD91yViOJZtEUSN+QzgS8daKg==;Bpvs5WQ18cQlHgXuaF+4ew=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.moneycontrol.com/news/technology/gpai-summit-all-you-nee
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/gpai-summit-all-you-need-to-know-about-global-meet-on-artificial-intelligence-11888961.html/amp"
 type: article
 quality: 70
-heat: 80
-published: true
+heat: -1
+published: false
 
 provider:
   name: moneycontrol.com
@@ -27,22 +27,63 @@ images:
     isCached: true
 
 related:
-  - title: "Five things you need to know about the EU’s new AI Act"
-    excerpt: "The EU is poised to effectively become the world’s AI police, creating binding rules on transparency, ethics, and more."
-    publishedDateTime: 2023-12-11T17:56:00Z
-    webUrl: "https://www.technologyreview.com/2023/12/11/1084942/five-things-you-need-to-know-about-the-eus-new-ai-act/"
-    ampWebUrl: "https://www.technologyreview.com/2023/12/11/1084942/five-things-you-need-to-know-about-the-eus-new-ai-act/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/11/1084942/five-things-you-need-to-know-about-the-eus-new-ai-act/amp/"
+  - title: "Artificial Intelligence Summit: PM Modi Calls For Global Framework On Ethical Use, Warns Against Misuse"
+    excerpt: "Speaking at the Global Partnership on Artificial Intelligence Summit, PM Narendra Modi said India is firmly committed to responsible and ethical use of AI. He also also emphasised on the need for a global framework for ethical use of AI."
+    publishedDateTime: 2023-12-13T05:18:00Z
+    webUrl: "https://www.outlookindia.com/national/artificial-intelligence-summit-pm-modi-calls-for-global-framework-on-ethical-use-warns-against-misuse-news-336130"
+    ampWebUrl: "https://www.outlookindia.com/national/artificial-intelligence-summit-pm-modi-calls-for-global-framework-on-ethical-use-warns-against-misuse-news-336130/amp"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/national/artificial-intelligence-summit-pm-modi-calls-for-global-framework-on-ethical-use-warns-against-misuse-news-336130/amp"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 75
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/12/eu-ai-flags2.jpg?w=3000"
-        width: 3000
-        height: 1688
+      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_1/IMAGE_1646301380.jpg"
+        width: 640
+        height: 360
         isCached: true
+  - title: "‘India to soon launch AI missions for agriculture, healthcare’: PM Modi at GPAI Summit 2023"
+    excerpt: "While inaugurating the GPAI or Global Partnership on Artificial Intelligence Summit, 2023, Prime Minister Narendra Modi announced that the government will soon launch AI missions, focussing on healthcare and agriculture,"
+    publishedDateTime: 2023-12-13T04:26:00Z
+    webUrl: "https://www.firstpost.com/tech/india-to-launch-ai-missions-soon-for-agriculture-healthcare-pm-modi-at-gpai-summit-2023-13497832.html"
+    ampWebUrl: "https://www.firstpost.com/tech/india-to-launch-ai-missions-soon-for-agriculture-healthcare-pm-modi-at-gpai-summit-2023-13497832.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/india-to-launch-ai-missions-soon-for-agriculture-healthcare-pm-modi-at-gpai-summit-2023-13497832.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 66
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2023/12/Untitled-1-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "PM Modi Calls For Global Framework On Ethical Use Of AI; Warns Misuse Can Be Destructive Force"
+    excerpt: "Speaking at the Global Partnership on Artificial Intelligence Summit, Modi said India is firmly committed to responsible and ethical use of AI."
+    publishedDateTime: 2023-12-13T04:45:00Z
+    webUrl: "https://www.outlookindia.com/national/pm-modi-calls-for-global-framework-on-ethical-use-of-ai-warns-misuse-can-be-destructive-force-news-336091"
+    ampWebUrl: "https://www.outlookindia.com/national/pm-modi-calls-for-global-framework-on-ethical-use-of-ai-warns-misuse-can-be-destructive-force-news-336091/amp"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/national/pm-modi-calls-for-global-framework-on-ethical-use-of-ai-warns-misuse-can-be-destructive-force-news-336091/amp"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 62
+    images:
+      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1701749704.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "PM Modi to Inaugurate the Annual Global Partnership on Artificial Intelligence (GPAI) Summit Tomorrow"
+    excerpt: "India's Prime Minister Narendra Modi will inaugurate the Global Partnership on Artificial Intelligence (GPAI) Summit, at Bharat Mandapam, New Delhi on"
+    publishedDateTime: 2023-12-11T14:39:00Z
+    webUrl: "https://www.indianweb2.com/2023/12/pm-modi-to-inaugurate-annual-global.html"
+    type: article
+    provider:
+      name: indianweb2.com
+      domain: indianweb2.com
+    quality: 17
 
 secured: "ZwdPcVKtE8WoFN2rnsVaxJUDTHoIVR2ym3QDV3DTKdaAMaGpo3PB3ysVZ6I1XbvWeV2gJaoO5qlcrAg8l92vqg6i0rslQFOEDadckmQpN3/hxymKbDz+4rgOlp9SQUHVxHC18A6nbasQ/I36V5VFLUuTo6UBnNP61n/PK+dk0KR4q+jgg/KU5EUogO6UJsEvCQZp6naQytlvd9F3akar5cRW1ZIHh9P039gKwSHL+H51Hog02rvCKoxLsXPL4gHUYq+yeTxTEmH26PbqjW+fU1Wpx/xPhGiyeKBmksNgy+AFXecN1rM6dL5ARbiLoxKx/FvHDfF/0m4n0uEP6R1YQvBGjbG53v7REtVptoykskqq4Z4qQr/mGV7KuCKX5aeACsKU+fiDs4Y85/aJKefDkiZZ4VvGD219h3EsYN397+iY2tqFtAcK7Set3FHWGlZ12nr2JmCeqY9hYx45zimvjBHYTje4ryjDBZJTFAf/LCBVi4T1eF3VREUU5c1fP7p5GjDrkb6QIkkZ9PiFAZRy2A==;IFNRy2On81oGAFeHpwIrbA=="
 ---

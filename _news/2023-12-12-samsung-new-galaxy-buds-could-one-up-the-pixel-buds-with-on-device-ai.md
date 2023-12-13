@@ -42,6 +42,31 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Samsung Galaxy Buds 3 Pro to get on-device AI for live translation: Report"
+    excerpt: "The Galaxy Buds 3 Pro would likely include real-time translations for in-person conversations among its core AI features"
+    publishedDateTime: 2023-12-13T05:24:00Z
+    webUrl: "https://www.business-standard.com/technology/tech-news/samsung-galaxy-buds-3-pro-to-get-on-device-ai-for-live-translation-report-123121300241_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/technology/tech-news/samsung-galaxy-buds-3-pro-to-get-on-device-ai-for-live-translation-report-123121300241_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/samsung-galaxy-buds-3-pro-to-get-on-device-ai-for-live-translation-report-123121300241_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 37
+  - title: "Samsung Galaxy Buds 3 Pro Will Offer Live Language Translation Powered With AI"
+    excerpt: "Samsung is actively developing the highly anticipated Galaxy Buds 3 Pro, touted to feature built-in on-device artificial intelligence (AI).  Set to hit shelves in late 2024, these next-generation earbuds are expected to elevate user experiences with native AI capabilities,"
+    publishedDateTime: 2023-12-13T00:11:00Z
+    webUrl: "https://trak.in/stories/samsung-galaxy-buds-3-pro-will-offer-live-language-translation-powered-with-ai/"
+    type: article
+    provider:
+      name: Trak.in - India Business Blog
+      domain: trak.in
+    quality: 35
+    images:
+      - url: "https://trak.in/stories/wp-content/uploads/2023/12/ify-1-5.png"
+        width: 1000
+        height: 465
+        isCached: true
   - title: "Galaxy S24 AI features leaked, and it sounds like a Pixel 8 and iPhone 15 had a baby"
     excerpt: "Some of Samsung's big AI phone features for the Galaxy S24 are already available on Pixel 8 and iPhone 15 devices - what you need to know."
     publishedDateTime: 2023-12-11T18:14:00Z

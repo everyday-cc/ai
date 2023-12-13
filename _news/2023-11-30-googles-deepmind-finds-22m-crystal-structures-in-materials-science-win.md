@@ -3,8 +3,8 @@ category: news
 title: "Google’s DeepMind finds 2.2M crystal structures in materials science win"
 excerpt: "Google DeepMind researchers have discovered 2.2 million crystal structures that open potential progress in fields from renewable energy to advanced computation, and show the power of artificial intelligence to discover novel materials."
 publishedDateTime: 2023-11-29T18:42:00Z
-originalUrl: "https://arstechnica.com/ai/2023/11/googles-deepmind-finds-2-2m-crystal-structures-in-materials-science-win/"
-webUrl: "https://arstechnica.com/ai/2023/11/googles-deepmind-finds-2-2m-crystal-structures-in-materials-science-win/"
+originalUrl: "https://arstechnica.com/ai/2023/11/googles-deepmind-finds-2-2m-crystal-structures-in-materials-science-win/?view=mobile"
+webUrl: "https://arstechnica.com/ai/2023/11/googles-deepmind-finds-2-2m-crystal-structures-in-materials-science-win/?view=mobile"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 380
     isCached: true
 
-secured: "LVSK+iKn4E/Jwx8pD1BuJC/25QrDblFUJI+opY7XFyFYJQa4dL6gjaUngHkBIVY1ynFQ8TajQVhhOin0rDagvqtd8QSWlUgFno2Pfz8QzIiRdATkF64XV1IECNAGtBtH9YwOXnC9Eym6aKAwThLygBPbvVP0Tf1yolHEIG28guC4j/Oz5zySd8zCwc9arPg1FE/UWLc7JR2FKKPHaQcXjAHRU3jKN5rDZLqze2ynIoopM6fwqNUv+lpIpHp8vcZCT/Sv1NT3D2nfdrAVWPuKgtLU7EEwhJnVD5NJCpttIXFKf7qgqn1pqQk0ozd5oWlnR2f+YVplwkvNFBsZxYB7nvtvAtiYNKJL4P4pQ+AJVfw=;UHpwWP/1ABphKx0QwoQXRQ=="
+secured: "cbp3h12mTNlNezmRNyB2zcJYx23ULRfFc4YXYU0E9iH/iJ0GDXnGmjnrCVVt6y4uR3lQmQNp1Usq+YEAX7VdYoMFk3nK9fvJRSpceqp24WEA8ugMKcXeUrCkM7RmI3JBHMdKzk89NJJtymRywSjWipmZPu1ABZgT5wDeDFDedyKG4+kmR995JFgtRbKf0OkzdtG8EJcjdCssWf80O0d4DyAIYD+KI/61cMLHNlNzC/fiG8GqL054RkBmqVFLbA+i5c7nJBtPtx0eTsLfRlWLgRdK/cL46jaIIvtSir2gXM8NdBXlln7OHJb+OssBL+78R/O9h+jPvAbrb805km7jQCawYZoAeW0fNjhFrsq6zic=;KMcIq/xf+kEeev2mPhvdag=="
 ---
 

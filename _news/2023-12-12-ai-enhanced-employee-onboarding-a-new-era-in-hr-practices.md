@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/12/12/ai-enhanced-empl
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/12/12/ai-enhanced-employee-onboarding-a-new-era-in-hr-practices/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/01/AML-KYC.jpg"
         width: 1200
         height: 1067
-        isCached: true
-  - title: "AI Collaboration In Medical Imaging With Personalized Onboarding Enhances Accuracy And Trust"
-    excerpt: "MIT scientists create a tailored onboarding method to educate humans on discerning the reliability of model advice."
-    publishedDateTime: 2023-12-08T06:03:00Z
-    webUrl: "https://www.electronicsforu.com/news/ai-collaboration-in-medical-imaging-with-personalized-onboarding-enhances-accuracy-and-trust"
-    type: article
-    provider:
-      name: electronicsforu
-      domain: electronicsforu.com
-    quality: 28
-    images:
-      - url: "https://www.electronicsforu.com/wp-contents/uploads/2021/05/mag-image.png"
-        width: 370
-        height: 298
         isCached: true
 
 secured: "RmZlc9OUx5RwIegqf8Pn5Od80UDZ2pPmJYEIH6qR8iEacFV8W3wv5qN7SAFwEazqgvevrmRSkJ5cnbiEClWlfk6T+Hqy9krAE7hk/fejWM1mg2qag0hS4XisAX692mdSzrfRXOm8Ujjqk3TMwmDe0ZZeeCSGraqi0VblBADMwc5ypyDkPlACx2vWfgwjherURcrbdv0OvCO9uC5biC+aXlWiG8i9MZTpSzAbCqUkzHshCA83QDCcbv1Kx3Jc5gHe102DqCiK9NPEd6Snuxddk6g0B/+y24K+e968/Vjcpxx2y8jmaaq7Vp61AIMGezOJjmaEUrb0AN1StTbzZEzeD5rpTY0tbqRXYMIka57Hr7yH9Q5DAACyuM0gp+yLZiDwSovwRzYRgSgsAOwPAvYD2fjl6jMnmK2+Q7zm5HGDaa5g/fGNG5kcijCNYRIxewPAsRb+AuILUNRGsS/mreMkzR7xujbEhIRtO2szKG5BwIQwdTHh33chw2PO3zcCj6B85aENnT0xGLNywVtvGmGiVQ==;r465NtpVbeQnM8B88SFLOg=="

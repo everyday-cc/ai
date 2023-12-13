@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "‘India to soon launch AI missions for agriculture, healthcare’: PM Modi at GPAI Summit 2023"
-    excerpt: "While inaugurating the GPAI or Global Partnership on Artificial Intelligence Summit, 2023, Prime Minister Narendra Modi announced that the government will soon launch AI missions, focussing on healthcare and agriculture,"
-    publishedDateTime: 2023-12-13T04:26:00Z
-    webUrl: "https://www.firstpost.com/tech/india-to-launch-ai-missions-soon-for-agriculture-healthcare-pm-modi-at-gpai-summit-2023-13497832.html"
-    ampWebUrl: "https://www.firstpost.com/tech/india-to-launch-ai-missions-soon-for-agriculture-healthcare-pm-modi-at-gpai-summit-2023-13497832.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/india-to-launch-ai-missions-soon-for-agriculture-healthcare-pm-modi-at-gpai-summit-2023-13497832.html/amp"
-    type: article
-    provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 66
-    images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2023/12/Untitled-1-1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Artificial Intelligence in Healthcare: 3 Stocks Transforming the Industry"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence is being applied across the healthcare sector to"
     publishedDateTime: 2023-12-11T13:01:00Z
@@ -50,31 +34,29 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 63
-  - title: "India turns to AI to capture its 121 languages"
-    excerpt: "Malaysia Airlines mengumumkan penerbangan yang dijadualkan berlepas dari Kuala Lumpur ke Chennai, India telah dibatalkan kerana Lapangan Terbang Chennai (MAA) ditutup akibat banjir."
-    publishedDateTime: 2023-12-08T22:00:00Z
-    webUrl: "https://www.astroawani.com/berita-dunia/india-turns-ai-capture-its-121-languages-448685"
-    ampWebUrl: "https://www.astroawani.com/berita-dunia/india-turns-ai-capture-its-121-languages-448685?amp=1"
-    cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-dunia/india-turns-ai-capture-its-121-languages-448685?amp=1"
+  - title: "AI in health care: Leaders urge Congress to set rules for the industry"
+    excerpt: "Health care leaders urged Congress at a hearing to pass regulations on the use of artificial intelligence in the industry, addressing the “limitless” capabilities of the new technology as well as the potential biases it can produce."
+    publishedDateTime: 2023-12-12T16:26:00Z
+    webUrl: "https://www.benefitspro.com/2023/12/12/ai-in-health-care-leaders-urge-congress-to-set-rules-for-the-industry/"
     type: article
     provider:
-      name: Astro Awani
-      domain: astroawani.com
-    quality: 59
+      name: Benefits Pro
+      domain: benefitspro.com
+    quality: 39
     images:
-      - url: "https://img.astroawani.com/2023-10/71697780064_ArtificialIntellige.jpg"
-        width: 590
-        height: 400
+      - url: "https://images.benefitspro.com/contrib/content/uploads/sites/412/2023/12/Congress-Article-202312111511.jpg"
+        width: 620
+        height: 372
         isCached: true
-  - title: "PM Modi to Inaugurate the Annual Global Partnership on Artificial Intelligence (GPAI) Summit Tomorrow"
-    excerpt: "India's Prime Minister Narendra Modi will inaugurate the Global Partnership on Artificial Intelligence (GPAI) Summit, at Bharat Mandapam, New Delhi on"
-    publishedDateTime: 2023-12-11T14:39:00Z
-    webUrl: "https://www.indianweb2.com/2023/12/pm-modi-to-inaugurate-annual-global.html"
+  - title: "Revolutionizing Healthcare: Exploring the Impact and Future of Large Language Models in Medicine"
+    excerpt: "Explore the transformative impact of Large Language Models like Google's Med-PaLM 2 and EPFL's Meditron in healthcare, examining their applications, challenges, and potential in enhancing patient care"
+    publishedDateTime: 2023-12-08T16:16:00Z
+    webUrl: "https://www.unite.ai/revolutionizing-healthcare-exploring-the-impact-and-future-of-large-language-models-in-medicine/"
     type: article
     provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 17
+      name: unite
+      domain: unite.ai
+    quality: 8
 
 secured: "uOs17+TudgO112SN2Rr4QuPn1x+O7Sc6wqppvWihY3EqacNCGf8/SBK6w1+U1P1TUMBucRrEtyFVPT9u1djaagOK3tzXcyJ73diJXj4SXARhXCbaWB5hADXIisEdmrjLnes6eoWuj1tVk8tbxSjrxmUFS1xTHhybdo9MT3r6ua5co+3rPc1Rgo29QGCgY0c5qQSSL8mzTr4m2FEevN/ZKY6OvmIFIkYeQXAJrovzTp/SGRhn5u0LDGoYpRt8p5NRWyslz1cM8l20kpfkBJhqU/mw3Xyigk5U5dwPaHP7wTWfp95e8PyZK+d6Zf2Sn+gmjlL2Z6YT0IDdVKE50VSPFxy9+oU3fIsSWolx08NMEFplkqsRW/RvOeKG+BTelRgbDFRWEVqXds8qnW8+5YO8HqpB+IQT3n80Ok7r2y/GTZ+6teXSt/RQECHbslki1pKA9qw7M5GTBq9J5oJ2yiaMSxUaxj6rmFv5A37aeQ5vlq6woWceboTKrCpZ1PDDQAhijVsDpFF7nVXATljpQAXjKw==;TKPhM8kOWYYfmiZGUsfLpA=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.firstpost.com/tech/india-to-launch-ai-missions-soon-for-
 cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/india-to-launch-ai-missions-soon-for-agriculture-healthcare-pm-modi-at-gpai-summit-2023-13497832.html/amp"
 type: article
 quality: 66
-heat: 106
-published: true
+heat: -1
+published: false
 
 provider:
   name: Firstpost
@@ -28,44 +28,53 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Healthcare: 3 Stocks Transforming the Industry"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence is being applied across the healthcare sector to"
-    publishedDateTime: 2023-12-11T13:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-3-stocks-transforming-the-industry-1032889408"
+  - title: "Artificial Intelligence Summit: PM Modi Calls For Global Framework On Ethical Use, Warns Against Misuse"
+    excerpt: "Speaking at the Global Partnership on Artificial Intelligence Summit, PM Narendra Modi said India is firmly committed to responsible and ethical use of AI. He also also emphasised on the need for a global framework for ethical use of AI."
+    publishedDateTime: 2023-12-13T05:18:00Z
+    webUrl: "https://www.outlookindia.com/national/artificial-intelligence-summit-pm-modi-calls-for-global-framework-on-ethical-use-warns-against-misuse-news-336130"
+    ampWebUrl: "https://www.outlookindia.com/national/artificial-intelligence-summit-pm-modi-calls-for-global-framework-on-ethical-use-warns-against-misuse-news-336130/amp"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/national/artificial-intelligence-summit-pm-modi-calls-for-global-framework-on-ethical-use-warns-against-misuse-news-336130/amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
-  - title: "India turns to AI to capture its 121 languages"
-    excerpt: "Malaysia Airlines mengumumkan penerbangan yang dijadualkan berlepas dari Kuala Lumpur ke Chennai, India telah dibatalkan kerana Lapangan Terbang Chennai (MAA) ditutup akibat banjir."
-    publishedDateTime: 2023-12-08T22:00:00Z
-    webUrl: "https://www.astroawani.com/berita-dunia/india-turns-ai-capture-its-121-languages-448685"
-    ampWebUrl: "https://www.astroawani.com/berita-dunia/india-turns-ai-capture-its-121-languages-448685?amp=1"
-    cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-dunia/india-turns-ai-capture-its-121-languages-448685?amp=1"
-    type: article
-    provider:
-      name: Astro Awani
-      domain: astroawani.com
-    quality: 59
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 75
     images:
-      - url: "https://img.astroawani.com/2023-10/71697780064_ArtificialIntellige.jpg"
-        width: 590
-        height: 400
+      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_1/IMAGE_1646301380.jpg"
+        width: 640
+        height: 360
         isCached: true
-  - title: "Revolutionizing Healthcare: Exploring the AI Advancements Discussed at the Medicine Conference 2024"
-    excerpt: "Welcome to our blog, where we delve into the mind-blowing realm of healthcare revolution! Today, we transport you to the captivating world of Medicine Conference 2024, where groundbreaking advancements in artificial intelligence (AI) are pushing the limits of what is possible."
-    publishedDateTime: 2023-12-12T18:37:00Z
-    webUrl: "https://techbullion.com/revolutionizing-healthcare-exploring-the-ai-advancements-discussed-at-the-medicine-conference-2024/"
+  - title: "GPAI Summit: All you need to know about global meet on Artificial Intelligence"
+    excerpt: "Apart from providing a forum for multiple stakeholders to thrash out issues around AI, the event will also give a chance for lesser-known startups to showcase their achievements"
+    publishedDateTime: 2023-12-12T01:57:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/gpai-summit-all-you-need-to-know-about-global-meet-on-artificial-intelligence-11888961.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/gpai-summit-all-you-need-to-know-about-global-meet-on-artificial-intelligence-11888961.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/gpai-summit-all-you-need-to-know-about-global-meet-on-artificial-intelligence-11888961.html/amp"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 40
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 70
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/Healthcare.jpg"
-        width: 1000
-        height: 500
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/09/Artificial-Intelligence.png"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "PM Modi Calls For Global Framework On Ethical Use Of AI; Warns Misuse Can Be Destructive Force"
+    excerpt: "Speaking at the Global Partnership on Artificial Intelligence Summit, Modi said India is firmly committed to responsible and ethical use of AI."
+    publishedDateTime: 2023-12-13T04:45:00Z
+    webUrl: "https://www.outlookindia.com/national/pm-modi-calls-for-global-framework-on-ethical-use-of-ai-warns-misuse-can-be-destructive-force-news-336091"
+    ampWebUrl: "https://www.outlookindia.com/national/pm-modi-calls-for-global-framework-on-ethical-use-of-ai-warns-misuse-can-be-destructive-force-news-336091/amp"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/national/pm-modi-calls-for-global-framework-on-ethical-use-of-ai-warns-misuse-can-be-destructive-force-news-336091/amp"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 62
+    images:
+      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1701749704.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "PM Modi to Inaugurate the Annual Global Partnership on Artificial Intelligence (GPAI) Summit Tomorrow"
     excerpt: "India's Prime Minister Narendra Modi will inaugurate the Global Partnership on Artificial Intelligence (GPAI) Summit, at Bharat Mandapam, New Delhi on"
@@ -77,6 +86,6 @@ related:
       domain: indianweb2.com
     quality: 17
 
-secured: "ECwvphjjFv53APR7UousIehOaVb5DQ5Nzjxy6241nNi+HESItdbFrUuWexeiJwy1cj9J6X/MuHaXESqFUBltIrWQnI+hf+hKqXH09YYFLkaDc7QeShdTq6kRcN+g62wkHzO3GBSf70TuHHhoZfPJTB/lKWLf6KWjNUljluDSQLCJPp67SnCpK13ockHdHW58oj2/j7ovtjzIHX2NGjHQHvQawrdrvrRdN6zeBtqQfifeblZo7cuyUkwXxN7nXIoUoQUKxfegZB1GtF63T2GmRCGQP0HkazhVNPhPUOZ7FQmS0fiIMn/7wY4aCGLD7PMnaBXdZSv3kFfKpupICQslsJ8n1iTP+12b8Zn7hqNFaG8=;7z+SaxZgMLKkjytblyY9Bw=="
+secured: "bnSBHP9GceQORrN7i/Wjx6wQq3OkC+dBWaZI8Dq7APTWMkbwzP9+8dEv3lOKilE8ApR50V/XYIJlt57sUyylYph0rUcMlYw9onhL7LMEcpHOVcghgIXnOdQO0uXiZTXebi7K1qVwTpXJyGP3kK88M8MxLchrRP78d8G1+b1OFCHQBNy7qHrc5UTXzb7sYIB8Q/hStYgsFsn6pKgONDRj2jIw5Z/rl+il+u5I+1c5Y0ZA7ErRv43esHBb/u/koMxPhRih14Ic6RdzQq00AcbtjZWjHTHd75jD96bS7Eu0h6eHguEy05SlZtBhpr8LU0LkqlDugxUe29G/dKvYDHzu/UKZWF+wS7qJg5ZuYPLy6gM=;UaStDt9CQDbZahT0HHDLCA=="
 ---
 

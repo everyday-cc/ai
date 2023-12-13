@@ -42,14 +42,19 @@ related:
         height: 768
         isCached: true
   - title: "Chalk Secures $10M Seed Funding to Power Machine Learning and AI"
-    excerpt: "Chalk, the data platform for machine learning, announced today that it has raised $10 million in seed funding led by General Catalyst, Unusual Venture"
-    publishedDateTime: 2023-12-12T19:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231212959060/en/Chalk-Secures-10M-Seed-Funding-to-Power-Machine-Learning-and-AI/"
+    excerpt: "Chalk, the data platform for machine learning, announced today that it has raised $10 million in seed funding led by General Catalyst, Unusual Ventures, and Xfund. Chalk’s computation layer and LLM toolchain enable world-class teams to orchestrate data for real-time decisions."
+    publishedDateTime: 2023-12-12T18:00:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/chalk-secures-10m-seed-funding-to-power-machine-learning-and-ai/article_5ebab127-751b-51df-a570-708dcfa32ae0.html"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 36
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 54
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/0/be/0beb99d8-e74e-52b5-978c-5d2bc7b9c880/6578af7a6a592.image.jpg?crop=1641%2C862%2C0%2C201&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Open-source generative AI startup Mistral AI raises $415M in funding"
     excerpt: "French generative artificial intelligence startup Mistral AI announced today it has closed on its second bumper funding round of the year, raising 385 million euros, or around $415 million, in a deal led by prominent venture capital firms Andreessen Horowitz and Lightspeed Venture Partners."
     publishedDateTime: 2023-12-11T01:47:00Z

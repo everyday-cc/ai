@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3711284/meta-releases-open-source-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711284/meta-releases-open-source-tools-for-ai-safety.amp.html"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://beincrypto.com/wp-content/uploads/2023/01/BIC_Meta_neutral_2.png"
         width: 1280
         height: 720
+        isCached: true
+  - title: "IBM, Meta, and 40 Top Organizations Create the ‘AI Alliance’ to Develop Open Source Technology"
+    excerpt: "IBM, Meta, and over 40 companies and organizations are creating the AI Alliance, an industry and academic group dedicated to open-source AI technology. This coalition said in a statement that it will focus on the responsible development of AI technology, including safety and security tools."
+    publishedDateTime: 2023-12-13T06:09:00Z
+    webUrl: "https://iblnews.org/ibm-meta-and-40-top-universities-and-organizations-create-the-ai-alliance-to-develop-open-source-technology/"
+    type: article
+    provider:
+      name: IBL News
+      domain: iblnews.org
+    quality: 27
+    images:
+      - url: "https://iblnews.org/wp-content/uploads/2023/12/aialliance-696x358.jpg"
+        width: 696
+        height: 358
         isCached: true
   - title: "The messy reality of AI safety"
     excerpt: "THE near-implosion of OpenAI, a world leader in the burgeoning field of artificial intelligence, surfaced a conflict within the organisation and the broader community about the speed with which the technology should continue,"

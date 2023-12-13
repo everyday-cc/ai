@@ -7,7 +7,7 @@ originalUrl: "https://www.courant.com/2023/12/12/as-hartford-schools-leaders-lea
 webUrl: "https://www.courant.com/2023/12/12/as-hartford-schools-leaders-learn-about-ai-its-students-are-already-using-it/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,33 @@ images:
     width: 1024
     height: 681
     isCached: true
+
+related:
+  - title: "LG demonstrates AI leadership at top machine learning conference"
+    excerpt: "LG AI Research demonstrated its leadership in generative AI, releasing its research results on AI Agent and others at Neural Information Processing Systems (NeurIPS), the largest conference in the field of machine learning,"
+    publishedDateTime: 2023-12-13T06:32:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/tech/2023/12/133_365045.html"
+    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=365045"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=365045"
+    type: article
+    provider:
+      name: The Korea Times
+      domain: koreatimes.co.kr
+    quality: 74
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/thumbnailV2/1dad86633b8043a2836e87a79f7ad5a3.jpg"
+        width: 750
+        height: 468
+        isCached: true
+  - title: "Next-Level Elearning: AI Chatbot Revolutionizes Academic Communication and Learning Processes"
+    excerpt: "Language technology company Tilde has developed a unique AI chatbot Digne for enhancing the university course 'Civil Protection'."
+    publishedDateTime: 2023-12-12T08:40:00Z
+    webUrl: "https://slator.com/next-level-elearning-ai-chatbot-revolutionizes-academic-communication-learning-processes/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 8
 
 secured: "VeyPdXExtOtVe+G78frooEFSjkDnL25Nm/tSBlG7TTp2juZqn4RBWqntmgM3su+v6a/InMrrWmW0KAy3oQTgDFLfFD88Y6hbGZ4GhQaps6qE7OJFCZEzQ+sR/gA0gFlnv84g+hkcgaZLGeP2ScbSXq1u3x98RgpfCkK2lHaotfQlWpEzgwH/OzEduOmZwnmhCnVR7X0zAroVWC6tnKBfa829Gyc5PxfQGD/P9Qh2lWT9S3V6w+8S/o9KUpJLLrBCJIsL0H3Xwp+w+N18H6scjvye8hOM9coC4++X1j/TBMyaeqO0WwsDhZ+qTFmp/S4mMfSYewPvEW1mqIagMHGGHakYhh6haW/fEhhi5bN28p4=;d8iuh0Yz1Sb8XUML6C+M1g=="
 ---

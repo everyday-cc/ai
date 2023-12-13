@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cio.com/article/1251976/cios-grapple-with-the-ethics-of-
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/1251976/cios-grapple-with-the-ethics-of-implementing-ai.html/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 864
         isCached: true
+  - title: "Charting the Emerging Geography of AI"
+    excerpt: "As the AI power centers emerge and shift around the world, they will shape which AI applications are prioritized, which societies and sectors of the economy get the most benefits, what data are used to train algorithms,"
+    publishedDateTime: 2023-12-12T13:24:00Z
+    webUrl: "https://hbr.org/2023/12/charting-the-emerging-geography-of-ai"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 17
 
 secured: "TxHqunmlK0O/X9wYu0mJxnPYzalM3HKj1I7cX3d3QuI9IYqvAISYXQqCbHDabjehworBt1fUa1j5TiRieeDEVBhVPDbjFGE5Np3S9dej70ty1auiDHNVEF6O3XukhQY9pDikZCDkpUDsHiXwKL6j8VJoLgJf9EfWqFtEr0Fo57TtxIOLcLtHNGJP/+Q+mKvbf7vpI0D7YOuolTabOOUxIysnN18Eg4qmpyLWhANh3jGqp4E/EHLmPWOR2gD1/NF0QuLi5uEzKogmdLGcxcfV66RqfRhRCP8LjvTtAp0aGkXxwSnoyc8o1saEeMUg9vw+eFXDR8tee3VGtw2Yjq1fM+cc+QwCXWMPT+TKJOCxqtSestA9EuoLZzoMyaUjVAPE8HOGBrdVRs20D7JSNPy+3dquhDQfEp0larMkGPZW8XsNOpMV35NDf7p3YQButvoQfpRJtrE8pUyNNInirDipNR+gEoyK411VfaVFfVLTXyypzaJtl6OFDjkxqlUtVzmdLyeB4ZhjQTs6WucgS5sN6g==;Ww84mx42/i8hly8EIRPtHw=="
 ---

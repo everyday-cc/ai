@@ -43,20 +43,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "AI Collaboration In Medical Imaging With Personalized Onboarding Enhances Accuracy And Trust"
-    excerpt: "MIT scientists create a tailored onboarding method to educate humans on discerning the reliability of model advice."
-    publishedDateTime: 2023-12-08T06:03:00Z
-    webUrl: "https://www.electronicsforu.com/news/ai-collaboration-in-medical-imaging-with-personalized-onboarding-enhances-accuracy-and-trust"
-    type: article
-    provider:
-      name: electronicsforu
-      domain: electronicsforu.com
-    quality: 28
-    images:
-      - url: "https://www.electronicsforu.com/wp-contents/uploads/2021/05/mag-image.png"
-        width: 370
-        height: 298
-        isCached: true
 
 secured: "O2wHxvUPKsdH+FEd5ZngvH2SN1LP67R3i2CLvGkg7X33g0CTYdtdUueytoJctDOnTxAqlICVRywWo4ZBVybSnKfKLpXBhtbSBu+QPp7+JD+KgDH5mVsbHEhX+VVGvxg7Y98/sljmKzbWzwDb5yrpmlHRMZ13zGaCuNo97Huqn8AKHTShjuDqAhlByjt+Cvl3I4PNNjQQMs3nLywrpBpJnkByr/LE654f6SPcdAl+LzSNxjIIlHwgYwWkxJ3L5FCQpgmh0OC5PkLgoUAlpSswoS5Db69Qbb8InmcDlXF9AfKQU9XTDmQoYWrOHIK+cubF2IhDZtJowC9zdkfaCdaVZKUp+eP2wzm4LeLIBNMwkgYuEi3pYsM1lkW/3p7mBBN8vh8GiqVEDUM090KIjJo7/Fgu+x6B2sBNORa9Oz8+Be3awobkTvxXLGZrO1Ruf6hSbO4MLmyTeey7mXcyUILNoEIZajzVWXXB4+fsWLcib7u6VFHf3ButZkYPWy2DlrD8pl0YIp3FjTwX8PSZ+DebZQ==;dOTMxNkNzFF6kpL6TJQlhg=="
 ---

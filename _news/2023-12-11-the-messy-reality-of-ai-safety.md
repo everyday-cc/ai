@@ -79,6 +79,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "IBM, Meta, and 40 Top Organizations Create the ‘AI Alliance’ to Develop Open Source Technology"
+    excerpt: "IBM, Meta, and over 40 companies and organizations are creating the AI Alliance, an industry and academic group dedicated to open-source AI technology. This coalition said in a statement that it will focus on the responsible development of AI technology, including safety and security tools."
+    publishedDateTime: 2023-12-13T06:09:00Z
+    webUrl: "https://iblnews.org/ibm-meta-and-40-top-universities-and-organizations-create-the-ai-alliance-to-develop-open-source-technology/"
+    type: article
+    provider:
+      name: IBL News
+      domain: iblnews.org
+    quality: 27
+    images:
+      - url: "https://iblnews.org/wp-content/uploads/2023/12/aialliance-696x358.jpg"
+        width: 696
+        height: 358
+        isCached: true
   - title: "OpenAI’s Soap Opera Collapse Bodes Ill for AI Benefiting Humanity"
     excerpt: "Whatever fantasies we may have had about the nonprofit structure of OpenAI have been eviscerated. While it remains a nonprofit, it’s proven entirely beholden to ruthless capitalism"
     publishedDateTime: 2023-12-11T13:04:00Z
