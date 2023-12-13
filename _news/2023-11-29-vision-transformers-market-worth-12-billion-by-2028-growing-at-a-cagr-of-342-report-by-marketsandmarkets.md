@@ -16,6 +16,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"

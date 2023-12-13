@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Google Gemini: Everything we know about the advanced AI model"
-    excerpt: "There are three versions of Gemini. The biggest is the Ultra model capable of \"seeing the world the way humans do\" through video, audio, text and images. The second is the Pro model, which is powering Google Bard and is similar in ability to the free ChatGPT."
-    publishedDateTime: 2023-12-11T15:37:00Z
-    webUrl: "https://www.tomsguide.com/features/google-gemini-everything-we-know-about-the-advanced-ai-model"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 41
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/TwMjTG2hMW5Z5McwPXyfsJ-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Everything about Gemini AI: Google's assistant, Nano, Ultra"
     excerpt: "Google has recently launched its own Artificial Intelligence (AI) called Gemini. It is a new model that is available on the Bard platform and will gradually be extended to other Google services. Learn more about its features and how you can test"
     publishedDateTime: 2023-12-12T14:20:00Z
@@ -46,6 +32,15 @@ related:
         width: 1500
         height: 981
         isCached: true
+  - title: "Google's Gemini video was staged, which is kind of a relief"
+    excerpt: "Google just launched Gemini, and it also just admitted that its hands-on video was staged, which is both good and bad news."
+    publishedDateTime: 2023-12-11T19:49:00Z
+    webUrl: "https://www.androidheadlines.com/2023/12/googles-gemini-video-staged.html"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 4
 
 secured: "rhAHvuBxUReUbG5UPWibtGz1b4vzpN4UzUJSd07AKjpK/DEdTFVXoUAuPaP0oDqZF3PphX5yGixvVXK46ahQeQV5wAqQrcQbqeqp3wuVklgD/R5ozI2l7TTuiX0aJIpIwf3U8dM9wKdscmPY269Ybmchhl6sMpuRYqLD/EJf/xtTzu3qKMGnkG5PXJj5nx8ySkDRUb9oanRD9ID3XV6uI9giRWqFTQBrnj9OY+MMcQyeBsZMjsWNMKO+fVBPTPWOAERSrFprG1s7C/Ja/bgkfbh3JQBGXN83g3pq2S7Hjvj/qUvDfQz1R65BTBfW1jxBnbMm7aiATJVpCy80c0pRhsjbDs93WQlVAHaDJBGYvyEOuWqxPC+3aDxk5FuiBocu7FTI6xeYyX3Z4shCEWCubPELSDNEtYpr6fM1gEZmVgIz02cO5g3m/U01ZMr3U6v4RtAkBMy6ajF8ca0+neMk9aJLha40EhSTPlF7Rz0th7OoSMJWcwb7ob4yysRdztnZJ7xxGQX9HZ8ysRv+OwO8mg==;xUqJ3m3/7r+ML/3VXkWkXQ=="
 ---

@@ -151,6 +151,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "2 Reasons Why AMD Is a Better Artificial Intelligence (AI) Stock to Buy Than Nvidia -- and 2 Reasons Why It Isn't"
+    excerpt: "I'd argue that the top reason why AMD could be a better AI stock to buy than Nvidia right now is that customers are looking for an alternative to Nvidia's graphics processing units (GPUs). This presents a tremendous opportunity for AMD to step up to the plate."
+    publishedDateTime: 2023-12-13T10:50:00Z
+    webUrl: "https://www.fool.com/investing/2023/12/13/2-reasons-why-amd-better-ai-stock-nvidia/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 63
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/758013/amd-headquarters-with-amd-logo-on-top-of-building_amd_advance.jpg"
+        width: 2000
+        height: 1200
+        isCached: true
   - title: "AMD Is Set To Challenge Nvidia's Dominance And Amazon Is Going After Microsoft's Early-Start AI Advantage"
     excerpt: "According to analysts, Nvidia Corporation (NASDAQ: NVDA) controls roughly 80% of the AI chip market, when including the custom processors built by companies such as Alphabet (NASDAQ: GOOG)-owned Googl"
     publishedDateTime: 2023-12-11T18:23:00Z

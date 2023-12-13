@@ -7,7 +7,7 @@ originalUrl: "https://bgr.com/tech/mistral-ai-is-an-exciting-chatgpt-rival-but-i
 webUrl: "https://bgr.com/tech/mistral-ai-is-an-exciting-chatgpt-rival-but-its-not-ready-for-us-yet/"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT to Google Bard: AI giants are reshaping search results"
-    excerpt: "Explore the evolving landscape of search engines. From keyword-matching engines to AI-powered platforms, search experiences are being reshaped."
-    publishedDateTime: 2023-12-12T01:50:00Z
-    webUrl: "https://yourstory.com/2023/12/ai-revolutionising-search-engine-results"
+  - title: "Taylor: A year after ChatGPT's viral launch, I'm freaking out about artificial intelligence."
+    excerpt: "We’ve all been sleepwalking our way toward this … revolution? Utopia? Or is it apocalypse? Our columnist assesses the realities of AI."
+    publishedDateTime: 2023-12-13T09:00:00Z
+    webUrl: "https://www.houstonchronicle.com/business/columnists/michael-taylor/article/assessing-reality-artificial-intelligence-year-18550248.php"
     type: article
     provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 56
-    images:
-      - url: "https://images.yourstory.com/cs/2/5cd74df08d8d11e9a445857ac4ecdc72/GoogleAIBengaluru1568955790392png?fm=png&auto=format"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 23
 
 secured: "Dp8UhjTAn1iVARH3hERaTDZTzvZTTvA/r3n/HnCRIQQGdadoZBOXFko3BwLOxM3VB7n6KUlzw56PkGV/X6hvD2eGld7nlS+BnQUPG2Owg15rVfduBhIuZfOs/WQYdzWFeYq4+aTHjPTCbAey0LsyQJ1Ib8r3INPWgvRiRdweo1ZAqVoHGU0m14nD2sGHufA06h/twT72BNaXLx2HGZKx7639vEH1Nkht+paqfAd0JO6IBoH0uTAFPInqgAAlUCYtmn0kmljsitI/pZJun2akU48+w5OpfrMp9JJfV9Jhl1JjzgdKVPR0x0JrtqBy5zto4uaH6toGJmnFFwC3c6YrCjwGVe69YdG7AjjYNZ8mVFfj4dpbACd3Vs4ifyfVVz+bTsufhR2ORUEJ6wLMmqj37e6MwoBHnslMiqsa7ncVogK5/4F7S/59cN7URey55CpTmbJhs5VGktF35T+/skxXnYbA3XMKL22lh7twzIrmzOE6R9H7vriT79pKVxOKNSh561+8UXtVzhazWlDFCmQs2g==;H1kXeRKaJ0E5DS/XY9czOg=="
 ---

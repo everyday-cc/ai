@@ -37,6 +37,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "M2P Fintech acquires India's Goals101"
+    excerpt: "M2P Fintech, Asia’s largest Digital Banking Infrastructure company that powers the digital ambitions of banks, lenders, fintech and other financial services players today announced the multi-million-dollar acquisition of Goals101,"
+    publishedDateTime: 2023-12-13T10:03:00Z
+    webUrl: "https://www.finextra.com/pressarticle/99116/m2p-fintech-acquires-indias-goals101"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
 
 secured: "CcJRc/SUG8sqVE32/xacrAwWCy8QfvYcQmcXDYMbw1DIAbL67LC+9ujUNiU9nRE4HWmEoB44eMvoJ39yRBKrEawkb7sbyZRL8jdJyTmzTGLmCWdG4qwFkRIQ1+CBZZnAt9mhnpf5TjEQ9NZ47PbHpXCMTn+BOnQ7VxwmVkJx9k3spnyPipb4bc2QullUGRp6iDzhexOGMiG94FSlROm5IkMT14K1xe5Vl/6qM7ftEhS5pMX9P8ZhmVi6jORwpqMiR22JzIZl7GRxVo52sNBe1+FYRRxWqmLD1EiU/Gsf31u8eszLUD0X0yniapLgl5qMM8qiI9vxhBwwVn/GicGPQ8iHpcN1QfxQyprlgENgDQM=;RwcV6cXSYCb5+HdP8yvX4A=="
 ---

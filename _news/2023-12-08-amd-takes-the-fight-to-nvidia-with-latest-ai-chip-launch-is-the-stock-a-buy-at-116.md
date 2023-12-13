@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2023/12/08/amd-takes-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2023/12/08/amd-takes-the-fight-to-nvidia-with-latest-ai-chip-launch-is-the-stock-a-buy-at-116/amp/"
 type: article
 quality: 97
-heat: 267
+heat: 277
 published: true
 
 provider:
@@ -146,6 +146,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/12/ashish_vaswani_and_niki_parmar__essential_ai___andrew_gessler_-_1.jpg?fit=750%2C500&#038;strip=all"
         width: 750
         height: 500
+        isCached: true
+  - title: "2 Reasons Why AMD Is a Better Artificial Intelligence (AI) Stock to Buy Than Nvidia -- and 2 Reasons Why It Isn't"
+    excerpt: "I'd argue that the top reason why AMD could be a better AI stock to buy than Nvidia right now is that customers are looking for an alternative to Nvidia's graphics processing units (GPUs). This presents a tremendous opportunity for AMD to step up to the plate."
+    publishedDateTime: 2023-12-13T10:50:00Z
+    webUrl: "https://www.fool.com/investing/2023/12/13/2-reasons-why-amd-better-ai-stock-nvidia/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 63
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/758013/amd-headquarters-with-amd-logo-on-top-of-building_amd_advance.jpg"
+        width: 2000
+        height: 1200
         isCached: true
   - title: "AMD Takes The Fight To Nvidia With Latest AI Chip Launch. Is The Stock A Buy At $116?"
     excerpt: "Advanced Micro Devices stock (NASDAQ: AMD) hosted an event to unveil its latest chips tailor-made for the booming artificial intelligence (AI) market. The newly launched chips inc"

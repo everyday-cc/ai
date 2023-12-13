@@ -9,7 +9,7 @@ ampWebUrl: "https://inc42.com/buzz/pm-modi-announces-new-ai-mission-to-boost-agr
 cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/pm-modi-announces-new-ai-mission-to-boost-agriculture-healthcare-education/amp/"
 type: article
 quality: 68
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -22,6 +22,20 @@ topics:
   - AI in Education
 
 related:
+  - title: "Proposed AI Mission To Provide Startups Access To Compute Power: PM Modi"
+    excerpt: "( MENAFN - KNN India) New Delhi, Dec 13 (KNN) Prime Minister Narendra Modi announced on Tuesday that the government will launch an AI Mission to provide compute power in the hands of the startups and innovators so that they can tackle problems in areas like healthcare, agriculture and education."
+    publishedDateTime: 2023-12-13T09:42:00Z
+    webUrl: "https://menafn.com/1107586088/Proposed-AI-Mission-To-Provide-Startups-Access-To-Compute-Power-PM-Modi"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 38
+    images:
+      - url: "https://menafn.com/updates/pr/2023-12/13/KI_d5392image_story.jpg"
+        width: 1366
+        height: 768
+        isCached: true
   - title: "Government announces AI Mission to aid start-ups with 'compute power'"
     excerpt: "Prime Minister Narendra Modi announced a new AI Mission at the Global Partnership for AI Summit in New Delhi. This initiative aims to provide computing power to Indian start-ups and innovators, focusing on sectors such as agriculture,"
     publishedDateTime: 2023-12-12T14:43:00Z

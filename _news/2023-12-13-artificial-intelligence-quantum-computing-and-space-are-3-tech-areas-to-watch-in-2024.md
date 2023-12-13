@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/chuckbrooks/2023/12/12/artificial-intel
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chuckbrooks/2023/12/12/artificial-intelligence-quantum-computing-and-space-are-3-tech-areas-to-watch-in-2024/amp/"
 type: article
 quality: 79
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1447
     height: 900
     isCached: true
+
+related:
+  - title: "7 Things That Made Fintech A Promising Sector In 2023"
+    excerpt: "Regulatory initiatives like UPI credit and card on file tokenization, alongside the adoption of emerging technologies such as Gen AI, Quantum Computing, and Blockchain, continued to reshape fintech landscape this year too. \"These advancements are driving ..."
+    publishedDateTime: 2023-12-13T00:00:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/7-things-that-made-fintech-a-promising-sector-in-2023/466876"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 54
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1702453326-Yourparagraphtext9.jpg?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "BSaSmAuZnzXPTnKRs32FoopdFBgHjMgrbIY69I2iFIS5Hb+FScWFW/KHmyTMdZ3RCTz5WdW4bxaexH2ix+TqHEk4HnOPqex3AHCoWvE7FVMA7+b6efxShnKBh7YZL9G2q86jn7mJFBQcrl5CrdjchrVKor/lhyDS9zufHK5hTcpR4EGQch1TXhXaW0vOEB4WoBEiWcqxSCd31oDh+UOsNnf1UrJajmhnj/+9yWbC+DnRgGZQVVw+gEJnUEz4ymfwTuBes5PPCRGN7tVhDICYIGq/KSLKwVvwmive/CjLu2bRWvnnSEGkMmQnUspNcyT3pXYe8/ON0BsxaoQsTJmo3imSUJA77MBWH4jeFQd3MeQk7UiwhntPbmJTztkpC8SyYqevcn75mvrqfnOeZS1joEHPTeyr1fHNpYpR69C5vDP8gZDnGtLUhTCPRMe3JmaZWSHezyOFeVQQ+KPhQW/8XzV3JwmFzVI2nTwSW0dFT8l1vSV5K99b5UozWYmTMlbPfG1YTN77OZF8ntQOInNsQA==;Plb4BqmdOoBsXFLSPcvu7g=="
 ---

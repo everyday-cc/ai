@@ -20,24 +20,10 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Round 2: We test the new Gemini-powered Bard against ChatGPT"
-    excerpt: "Now, the AI days are a bit less “early,\" and this week's launch of a new version of Bard powered by Google's new Gemini language model seemed like a good excuse to revisit that chatbot battle ..."
-    publishedDateTime: 2023-12-08T11:00:00Z
-    webUrl: "https://arstechnica.com/ai/2023/12/chatgpt-vs-google-bard-round-2-how-does-the-new-gemini-model-fare/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 86
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/12/chatgpt-vs-bard-round2-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
   - title: "ChatGPT vs. Google Bard, round 2: How does the new Gemini model fare?"
-    excerpt: "Now, the AI days are a bit less “early,\" and this week's launch of a new version of Bard powered by Google's new Gemini language model seemed like a good excuse to revisit that chatbot battle with the same set of carefully designed prompts."
+    excerpt: "The new Gemini-powered Bard keeps the same spirit (\"He envisioned a sport that would unite people...\") with more concision and focus. Interestingly, GPT-3.5 is the only model we tested to imagine Lincoln as a youth instead of a restless president sitting in the White House."
     publishedDateTime: 2023-12-08T19:01:00Z
-    webUrl: "https://arstechnica.com/ai/2023/12/chatgpt-vs-google-bard-round-2-how-does-the-new-gemini-model-fare/?view=archive"
+    webUrl: "https://arstechnica.com/ai/2023/12/chatgpt-vs-google-bard-round-2-how-does-the-new-gemini-model-fare/3/?view=grid"
     type: article
     provider:
       name: Ars Technica
@@ -47,6 +33,34 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/12/chatgpt-vs-bard-round2-760x380.jpg"
         width: 760
         height: 380
+        isCached: true
+  - title: "ChatGPT to Google Bard: AI giants are reshaping search results"
+    excerpt: "Explore the evolving landscape of search engines. From keyword-matching engines to AI-powered platforms, search experiences are being reshaped."
+    publishedDateTime: 2023-12-12T01:50:00Z
+    webUrl: "https://yourstory.com/2023/12/ai-revolutionising-search-engine-results"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 56
+    images:
+      - url: "https://images.yourstory.com/cs/2/5cd74df08d8d11e9a445857ac4ecdc72/GoogleAIBengaluru1568955790392png?fm=png&auto=format"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Google Gemini: Everything we know about the advanced AI model"
+    excerpt: "There are three versions of Gemini. The biggest is the Ultra model capable of \"seeing the world the way humans do\" through video, audio, text and images. The second is the Pro model, which is powering Google Bard and is similar in ability to the free ChatGPT."
+    publishedDateTime: 2023-12-11T15:37:00Z
+    webUrl: "https://www.tomsguide.com/features/google-gemini-everything-we-know-about-the-advanced-ai-model"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 41
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/TwMjTG2hMW5Z5McwPXyfsJ-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Google Challenges Chat GPT with Gemini AI Model"
     excerpt: "If Bard is not enough to challenge ChatGPT in its dominance in the AI field, Google introduces Gemini, which claims to be its largest multimodal AI model to date. Made in collaboration with DeepMind and other Google teams, Gemini aims to seamlessly understand and process diverse types of information, including text, code, audio, image, and video."
@@ -59,17 +73,6 @@ related:
       name: Unbox
       domain: unbox.ph
     quality: 39
-  - title: "Google Bard’s Gemini Upgrade: We Tested it for Travel"
-    excerpt: "We tested the updated version of Google Bard on how well it performs for planning and booking travel, and more."
-    publishedDateTime: 2023-12-09T12:00:00Z
-    webUrl: "https://skift.com/2023/12/09/google-bards-gemini-upgrade-we-tested-it-for-travel/"
-    ampWebUrl: "https://skift.com/2023/12/09/google-bards-gemini-upgrade-we-tested-it-for-travel/amp/"
-    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2023/12/09/google-bards-gemini-upgrade-we-tested-it-for-travel/amp/"
-    type: article
-    provider:
-      name: Skift
-      domain: skift.com
-    quality: 24
   - title: "How to use Google Gemini in Bard to get the best results"
     excerpt: "Google has recently updated its AI chatbot, Google Bard, with its new Gemini AI model, which brings a host of enhanced features to improve the user"
     publishedDateTime: 2023-12-10T11:03:00Z

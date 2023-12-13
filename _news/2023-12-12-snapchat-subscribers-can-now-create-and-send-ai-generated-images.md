@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/12/12/snapchat-subscribers-can-now-creat
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/12/snapchat-subscribers-can-now-create-and-send-ai-generated-images/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 718
     isCached: true
+
+related:
+  - title: "How to Use Snapchat’s New AI Image Tool"
+    excerpt: "As well as the image generator, Snapchat has also released an AI-powered extension tool. For photos that are zoomed in too close, users can tap on the ‘crop’ button, then the ‘extend’ option and AI will get to work filling in the external area to provide a broader, fuller picture."
+    publishedDateTime: 2023-12-13T10:34:00Z
+    webUrl: "https://tech.co/news/snapchat-ai-image-tool"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 37
+    images:
+      - url: "https://images.tech.co/wp-content/uploads/2022/07/20083926/Snapchat-for-Web.jpg"
+        width: 780
+        height: 468
+        isCached: true
 
 secured: "32+6owfzRLkGUTsp4Z2ukul1sprEAtPcesivUz450LmbRyFkOyIi8gxcTNOSazOY9Uq9dG/w3Nob387Sg7bD/B2Kzo1SnGVW7b5sbO0cWYGVxNg3pLQ5b3eebq33GgCNH8udQ47fqA/qPQRwFRbRgza23H3ZiccPTNenyrl1Cz5w8dA08l3wM9p0zN8lwLJQMK28+K45ZZ/HqoRZaxJ2I6/sR7pYpLDctHVCn+F+3WDIEem4iBC/NsEotpjXPxsELj5c/hKKJ7h96REFr9g8EYVZCjllFOY1njy93FrNP6bDhfnekySVMPhteGWG/M4IA7OIUQOknjYCsKI5tPY0i83cZfxFItJfxGQg4PVDZ+w=;89WGxUNeeuNplF+9o8YKXA=="
 ---

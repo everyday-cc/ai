@@ -101,6 +101,34 @@ related:
         width: 1024
         height: 567
         isCached: true
+  - title: "Top 18 Fintech Events in Singapore to Attend in 2024"
+    excerpt: "As Singapore’s fintech industry continues to gain international recognition, several major fintech events and conferences are being held each year in the city-state, attracting thousands of participants and investors from around the world."
+    publishedDateTime: 2023-12-13T10:26:00Z
+    webUrl: "https://fintechnews.sg/82031/events/top-18-fintech-events-in-singapore-to-attend-in-2024/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 24
+    images:
+      - url: "https://fintechnews.sg/wp-content/uploads/2023/12/Top-18-Fintech-Events-in-Singapore-to-Attend-in-2024.jpg"
+        width: 1024
+        height: 567
+        isCached: true
+  - title: "Quasar Markets Partners With Dragon List Global To Revolutionize Fintech Research"
+    excerpt: "Quasar Markets Partners with Dragon List Global to Revolutionize FinTech Research This partnership aims to enhance financial research and market ins"
+    publishedDateTime: 2023-12-13T10:39:00Z
+    webUrl: "https://menafn.com/1107586474/Quasar-Markets-Partners-With-Dragon-List-Global-To-Revolutionize-Fintech-Research"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?877739"
+        width: 375
+        height: 250
+        isCached: true
 
 secured: "2KIugYv9wezoaFfHQeuwE5LRbQ2NNxzV0AGuKGL9swVkGypWkyWv402MNPFf0UGCSepY9hKK0aiwxRLSLv2InemTlaHCdB5h71ZLEsRKUU29NgyMr8xvlf23vbMC0Gsj8RxxCGvCN1dZ+hkztx3mbeGZJeU99ujYLG/2KfdV7/kkPjf4I1Vc32Xbgx6EHmz5QccRZ3Uc8nC0UQ0wjzGAEWnLPmCYGjnQ8d/ulZWcXY7s3xtCres9O5DhqNevkzWhyauAHSOCupBlsVFYQWa4sHblKsZdvacYYh2w5w4j6Xx0awp/BteR9P3BA7gc0rtHy4fbJEIttjusytSZSJzJNSMxK/eMxBEUJBrs2LaJ/vHuwlLraVRCoGO4AxHfU8B3XahDNVtnNRxCbmn7qs2FDlLnhOP5EWJwQXR+KLvJsd6VY+XJ4wVERUDT6RrigFsJTrxoGt/euKEs/UyPJvAywOPCF3gRi6yoIplsLLiAMzSPxiKYQ7oAq5BLRWpv8qIgNrxwNJFb3s5ClWtTTAHpng==;++GenYVilD5e12+BJdJ2Jw=="
 ---

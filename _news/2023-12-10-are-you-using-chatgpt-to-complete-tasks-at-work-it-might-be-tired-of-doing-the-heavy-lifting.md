@@ -55,6 +55,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Gemini AI: What do we know about Google's answer to ChatGPT?"
+    excerpt: "Most AI models like ChatGPT can only understand and generate one type of content — like text, audio, images or video — but Google's Gemini can generate them all."
+    publishedDateTime: 2023-12-13T10:10:00Z
+    webUrl: "https://www.livescience.com/technology/artificial-intelligence/google-deepmind-gemini-ai-vs-openai-chatgpt"
+    type: article
+    provider:
+      name: Live Science
+      domain: livescience.com
+    quality: 56
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/YSQjzQFFyPxCecexhdvhff-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "L6xypc40pCHG2iWNO2MPQpxaImIrWaXGy9sUqA7aT36BWUYYTHArkN0RrNTKL+hbYwyh41ce1XHBrV2/yOqFkGiDOjaS5p+LYTh5/D2sw3PCstE/iriCY2O42YnW4onOk5C0Nmx2JnBElINCEj/MP86jl8v5FHCjlzlUFrvIRxle4qEHu58Fc/kO4g7T7X7D/Chl6t7c/VCgcpWjLCcMQhPpgDHKMlpdyNCBq++h3wkzeMfuVbAyNSQrurPysmlKTddDkgsC5GTkjGUpmJWkHtPN+pllBNrgdTN3+ktsR6DFs+Gtid5OfiwnhcljOOLD9JDa4gxnr1HhQiPGioO4Tz1YFr+e+oGJqYJJHYMPmLIo5RUJiH17B1m338fNhsAmtnwiw09zXIpMFcQfKMmprzRkqQNeG0byhwTGpv+hCVLB/eTHTDxuN//8B/vW/0dlFjmCGe5XTVgBikiTD7icQv52tUO8Fg7xRC9gglQL0IRsTkmpDSrYW1h6A00vHohEP37IUQv7rxFmvHmIbTHDkw==;2Iv3YyPRQlh4rgCvVZtzxA=="
 ---

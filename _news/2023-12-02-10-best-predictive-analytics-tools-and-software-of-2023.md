@@ -18,6 +18,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.techrepublic.com/wp-content/uploads/2022/05/AdobeStock_616977240.jpeg"

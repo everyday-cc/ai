@@ -29,6 +29,20 @@ related:
       name: inc42
       domain: inc42.com
     quality: 68
+  - title: "Proposed AI Mission To Provide Startups Access To Compute Power: PM Modi"
+    excerpt: "( MENAFN - KNN India) New Delhi, Dec 13 (KNN) Prime Minister Narendra Modi announced on Tuesday that the government will launch an AI Mission to provide compute power in the hands of the startups and innovators so that they can tackle problems in areas like healthcare, agriculture and education."
+    publishedDateTime: 2023-12-13T09:42:00Z
+    webUrl: "https://menafn.com/1107586088/Proposed-AI-Mission-To-Provide-Startups-Access-To-Compute-Power-PM-Modi"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 38
+    images:
+      - url: "https://menafn.com/updates/pr/2023-12/13/KI_d5392image_story.jpg"
+        width: 1366
+        height: 768
+        isCached: true
 
 secured: "QlHP/wEJBa4NcSIuBHodzfKyxemRTsPfoUvgJqqWPLmEkgMOIqZY1Xa6jEVUmZKheCxaqFOKZuIFqv7fLd2b/3TAvqQsbaYtAFsAv1XgrXVGaIy8tlVuPhfW0d0HFUY4OxHxNkGXCXV+j3WLj6zycS2f2/4F0EOOYwq7Pp3jTx+H76FR8m5xvx9FxRNBGVfWeg8KHVJ4orvYiYWAggyC8xtfsIUeWnDyyVGkUOBbNNzRoJPlbnPWTl0OcyEwTAvr8N1AtVZ76uqAxLih09gUD0hpD2PSa0rGaek6zFJTUJu0K96JDpaZt/Vnh4EEyEkXiTMn5nPMvJ4kX5YMji1eKRTV+lmgps+US9NmRQmYkioG9sQ2oJ6xe9UQHKSTLUP2uFZnNav5EOI2nO1a3UOhGXG95usJIaqTeI416smCYBnrkhvUtdORep7Mysf891MIBeS0KU/Q2DcHum/JJ6e3weNBVNPmXAXhU7CSK01/QlVgAy1m1UQR/3UN7ilckaxS2CrGJLEQabE4bfHc73p6Ig==;QG1c+kv7mI105v96OfaVng=="
 ---

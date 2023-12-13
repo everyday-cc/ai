@@ -19,15 +19,29 @@ topics:
   - AI
 
 related:
-  - title: "Google Says Gemini Beats OpenAI in Automatic Speech Translation"
-    excerpt: "Google launches ‘largest and most capable’ multimodal AI model, Gemini; claims it surpasses OpenAI’s Whisper in speech translation."
-    publishedDateTime: 2023-12-08T09:35:00Z
-    webUrl: "https://slator.com/google-says-gemini-beats-openai-in-automatic-speech-translation/"
+  - title: "Everything about Gemini AI: Google's assistant, Nano, Ultra"
+    excerpt: "Google has recently launched its own Artificial Intelligence (AI) called Gemini. It is a new model that is available on the Bard platform and will gradually be extended to other Google services. Learn more about its features and how you can test"
+    publishedDateTime: 2023-12-12T14:20:00Z
+    webUrl: "https://ccm.net/apps-sites/web/11817-everything-about-gemini-google-s-ai-assistant-nano-ultra/"
     type: article
     provider:
-      name: Slator
-      domain: slator.com
-    quality: 19
+      name: CCM
+      domain: ccm.net
+    quality: 39
+    images:
+      - url: "https://img-19.ccm.net/_o5FU_f4-2Gf3L75OV9jbdkJ8G4=/1500x/smart/e81408f07b2b42efa7ab3b981452b19f/ccmcms-enccm/39487748.jpeg"
+        width: 1500
+        height: 981
+        isCached: true
+  - title: "Is Google's Gemini the real start of the artificial intelligence boom?"
+    excerpt: "Google has released Gemini, its most powerful artificial intelligence model to date, as AI seeps into many facets of life. Will Knight, a senior writer for Wired, joins CBS News with a look at the revolutionary technology."
+    publishedDateTime: 2023-12-11T20:21:00Z
+    webUrl: "https://www.cbsnews.com/video/is-googles-gemini-the-real-start-of-the-artificial-intelligence-boom/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 17
 
 secured: "ClArpdAXyJW8gPtwxaTv30uJ1RkZF6RT+/PzDkHM38qXyOcEw61bfwOV7/0zCGQLh7GyHcnrQV+DH6nqBV6/PBuIex+Tz11ootJqh2g8XK8vAWK93K50E72o/a//eOvO3cKn5g+npsM8ymosE1kze0zNQkZyvG09ydU+MTiiihOd2ueH9Kg9c7vkF+gkoHZFCtWYoX4F9J/iq2m29m+pnujGTrtYLQpAi0py68kJ5gzCgPHT5QanRn94NaqbU5rv8t0Kp7xRQ15Kl8cRuR6dt735RI/4sPImu9/CNFDgrurHkBIPoaowcadG9tNs1yrmFXywCkYIDRj9K1dvbPQ6BGrzrfyq+mld/YBFDuE9iRdozcfSbn9B14XlWFdGn/fg6gsmNbxWtdWFc0IvFscU7OcH/uk6CRN0MgTXysFjniM/EA50Le2s4V1k65bxd102AOgAbCZyw5hHAp+jLDpC4OuwR3Lhz+RNA0dvlLqIcpTZWUfAfrMROL/EI1DBiUBrnip8nQOJNZARr895wVcS5w==;+KDAKbQhODLCdI1+58CxZA=="
 ---

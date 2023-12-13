@@ -7,7 +7,7 @@ originalUrl: "https://ccm.net/apps-sites/web/11817-everything-about-gemini-googl
 webUrl: "https://ccm.net/apps-sites/web/11817-everything-about-gemini-google-s-ai-assistant-nano-ultra/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Gemini: Everything we know about the advanced AI model"
-    excerpt: "There are three versions of Gemini. The biggest is the Ultra model capable of \"seeing the world the way humans do\" through video, audio, text and images. The second is the Pro model, which is powering Google Bard and is similar in ability to the free ChatGPT."
-    publishedDateTime: 2023-12-11T15:37:00Z
-    webUrl: "https://www.tomsguide.com/features/google-gemini-everything-we-know-about-the-advanced-ai-model"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 41
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/TwMjTG2hMW5Z5McwPXyfsJ-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Is Google's Gemini the real start of the artificial intelligence boom?"
     excerpt: "Google has released Gemini, its most powerful artificial intelligence model to date, as AI seeps into many facets of life. Will Knight, a senior writer for Wired, joins CBS News with a look at the revolutionary technology."
     publishedDateTime: 2023-12-11T20:21:00Z
@@ -48,6 +34,15 @@ related:
       name: CBS News
       domain: cbsnews.com
     quality: 17
+  - title: "Google's Gemini video was staged, which is kind of a relief"
+    excerpt: "Google just launched Gemini, and it also just admitted that its hands-on video was staged, which is both good and bad news."
+    publishedDateTime: 2023-12-11T19:49:00Z
+    webUrl: "https://www.androidheadlines.com/2023/12/googles-gemini-video-staged.html"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 4
 
 secured: "h1wMTUMPLduHU/sUqUsslScXscfv8pR/zo02FgFk5XQDJBVKfp7uLQM6GSUkBBPRYWSrXrhYcuK++afADDTnxfK5l2xoD/xPMuH+zXsggt/5Y2SvYAFOzIy/4SksqmC1tL9oZGxZDL/jqf1VXW/s3f0MEdxA9aqXzaSfHnj4cOJCgw59sWs2tRawZz4db7BI8utyPUVOXz1V5dXsWr2ZyOvwAl/ZWS+DRhHPcQ4X7I8Y5dOPaXabqHuYSZExxyLAbGwh5y3XbMr2LQqPNZ94qGUUn96hbc597+NEa29TMA+CFL1B3hlnZG3LI9W7T3YWXt9XwmiQchrbTiPgAem1Kz/l6aW3XNYYAOUoWee3NxU=;hPrgUc/9f+z2peztHulMhQ=="
 ---

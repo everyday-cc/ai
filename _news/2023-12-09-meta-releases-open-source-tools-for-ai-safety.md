@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3711284/meta-releases-open-source-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711284/meta-releases-open-source-tools-for-ai-safety.amp.html"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/12/cfr0z3n_crowds_of_tourists_react_in_shock_and_amazement_as_the__cd64e435-492c-4397-94c0-1d5119160375.png?w=1200&strip=all"
         width: 1200
         height: 672
-        isCached: true
-  - title: "Meta Releases Purple Llama to Bolster Responsible AI Development"
-    excerpt: "Explore Meta's groundbreaking initiative, Purple Llama, designed to cultivate responsible development in open generative AI models."
-    publishedDateTime: 2023-12-08T09:22:00Z
-    webUrl: "https://beincrypto.com/meta-purple-llama-ai-development/"
-    type: article
-    provider:
-      name: https//beincrypto.com
-      domain: beincrypto.com
-    quality: 39
-    images:
-      - url: "https://beincrypto.com/wp-content/uploads/2023/01/BIC_Meta_neutral_2.png"
-        width: 1280
-        height: 720
         isCached: true
   - title: "IBM, Meta, and 40 Top Organizations Create the ‘AI Alliance’ to Develop Open Source Technology"
     excerpt: "IBM, Meta, and over 40 companies and organizations are creating the AI Alliance, an industry and academic group dedicated to open-source AI technology. This coalition said in a statement that it will focus on the responsible development of AI technology, including safety and security tools."

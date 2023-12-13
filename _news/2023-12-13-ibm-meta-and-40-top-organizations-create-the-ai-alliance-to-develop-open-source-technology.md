@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "Meta Releases Purple Llama to Bolster Responsible AI Development"
-    excerpt: "Explore Meta's groundbreaking initiative, Purple Llama, designed to cultivate responsible development in open generative AI models."
-    publishedDateTime: 2023-12-08T09:22:00Z
-    webUrl: "https://beincrypto.com/meta-purple-llama-ai-development/"
-    type: article
-    provider:
-      name: https//beincrypto.com
-      domain: beincrypto.com
-    quality: 39
-    images:
-      - url: "https://beincrypto.com/wp-content/uploads/2023/01/BIC_Meta_neutral_2.png"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "The messy reality of AI safety"
     excerpt: "THE near-implosion of OpenAI, a world leader in the burgeoning field of artificial intelligence, surfaced a conflict within the organisation and the broader community about the speed with which the technology should continue,"
     publishedDateTime: 2023-12-11T09:26:00Z
