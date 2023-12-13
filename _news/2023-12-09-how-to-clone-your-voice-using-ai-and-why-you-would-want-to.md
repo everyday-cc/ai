@@ -25,35 +25,36 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Can Revolutionize Your Business"
-    excerpt: "Throughout history, there have been key inventions that have revolutionized everyday life, such as the automobile and electricity. We are currently living amid another such revolution: the rise of AI."
-    publishedDateTime: 2023-12-11T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/11/how-ai-can-revolutionize-your-business/"
+  - title: "Hyperplane wants to bring AI to banks"
+    excerpt: "Hyperplane, a San Francisco-based startup that is building foundation models to help banks predict customer behavior, is coming out of stealth today by"
+    publishedDateTime: 2023-12-13T08:01:00Z
+    webUrl: "https://techcrunch.com/2023/12/13/hyperplane-wants-to-bring-ai-to-banks/"
+    ampWebUrl: "https://techcrunch.com/2023/12/13/hyperplane-wants-to-bring-ai-to-banks/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/13/hyperplane-wants-to-bring-ai-to-banks/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "How the “New AI” is Poised to Revolutionize Agriculture"
-    excerpt: "Artificial intelligence offers potential solutions to long-standing productivity and sustainability issues and can generate new and innovative solutions."
-    publishedDateTime: 2023-12-09T14:18:00Z
-    webUrl: "https://www.greenhousegrower.com/technology/how-the-new-ai-is-poised-to-revolutionize-agriculture/"
-    ampWebUrl: "https://www.greenhousegrower.com/technology/how-the-new-ai-is-poised-to-revolutionize-agriculture/?amp"
-    cdnAmpWebUrl: "https://www-greenhousegrower-com.cdn.ampproject.org/c/s/www.greenhousegrower.com/technology/how-the-new-ai-is-poised-to-revolutionize-agriculture/?amp"
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/12/GettyImages-1688426751.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "AI in Action: How to bring real-time decision-making to AI/ML"
+    excerpt: "Watch this online event, as Redpanda explores the shift from batch analytics to real-time decision-making for AI/ML use cases. They start by fostering a broad understanding of how to train and score a real-time model on streaming data, in contrast with ..."
+    publishedDateTime: 2023-12-13T00:40:00Z
+    webUrl: "https://techcrunch.com/sponsor/redpanda-organization/ai-in-action-how-to-bring-real-time-decision-making-to-ai-ml/"
     type: article
     provider:
-      name: Greenhouse Grower
-      domain: greenhousegrower.com
-    quality: 39
-  - title: "How Human and Artificial Intelligence Can Streamline Claims Reviews"
-    excerpt: "Discover how blending artificial intelligence with human insight is revolutionizing the medical claims process, reducing costs, and improving accuracy in the healthcare industry."
-    publishedDateTime: 2023-12-11T11:39:00Z
-    webUrl: "https://healthpayerintelligence.com/news/how-human-and-artificial-intelligence-can-streamline-claims-reviews"
-    type: article
-    provider:
-      name: healthpayerintelligence.com
-      domain: healthpayerintelligence.com
-    quality: 36
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 84
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight.png?resize=1200,486"
+        width: 1200
+        height: 486
+        isCached: true
   - title: "5 Things to Consider When Bringing Speech AI Into Your Business"
     excerpt: "Imagine a world where mundane tasks, consuming 60-70% of our work hours, vanish into thin air. According to a McKinsey report, thanks to its evolving grasp of natural language, Generative AI has the potential to make this dream a reality quite soon."
     publishedDateTime: 2023-12-11T19:03:00Z

@@ -35,6 +35,17 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Pepper Advantage opens tech hub in Pune for AI product development"
+    excerpt: "Pepper Advantage opens tech hub in Pune, India to advance credit tech & analytics. Hub employs 50 researchers, programmers & analysts to develop products for India, West Asia, Middle East & Europe."
+    publishedDateTime: 2023-12-13T08:21:00Z
+    webUrl: "https://www.thehindubusinessline.com/news/pepper-advantage-opens-tech-hub-in-pune-for-ai-product-development/article67630818.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/news/pepper-advantage-opens-tech-hub-in-pune-for-ai-product-development/article67630818.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/pepper-advantage-opens-tech-hub-in-pune-for-ai-product-development/article67630818.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 39
   - title: "OPEN Health and Nested Knowledge announce strategic research collaboration to leverage AI technologies for evidence synthesis"
     excerpt: "This collaboration underscores OPEN Health's unwavering commitment to leveraging innovative solutions and AI technologies for superior client delivery,” said Richard Jones, President of OPEN Health Evidence & Access."
     publishedDateTime: 2023-12-11T10:00:00Z

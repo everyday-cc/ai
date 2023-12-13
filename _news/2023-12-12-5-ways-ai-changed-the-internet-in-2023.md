@@ -7,7 +7,7 @@ originalUrl: "https://mashable.com/article/ways-ai-changed-the-internet-2023"
 webUrl: "https://mashable.com/article/ways-ai-changed-the-internet-2023"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -37,20 +37,6 @@ related:
       - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/shutterstock_571888840-100941708-orig.jpg"
         width: 504
         height: 315
-        isCached: true
-  - title: "Top 7 Noteworthy AI Innovations in Fashion in 2023"
-    excerpt: "Now, let’s explore some of the key developments in the application of AI in the fashion industry this year."
-    publishedDateTime: 2023-12-11T06:34:00Z
-    webUrl: "https://analyticsindiamag.com/top-7-noteworthy-ai-innovations-in-fashion-in-2023/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/12/Top-7-Noteworthy-AI-Innovations-in-Fashion-in-2023.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Napa's Internet Marketer: Expect AI-powered everything in 2024"
     excerpt: "Napa's Internet Marketer Janet Peischel talks about trends to expect in Marketing in 2024. Hint: It's all about artificial intelligence (AI)."

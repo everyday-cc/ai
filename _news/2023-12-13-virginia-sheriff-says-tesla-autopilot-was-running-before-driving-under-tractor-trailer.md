@@ -9,7 +9,7 @@ ampWebUrl: "https://www.autoblog.com/amp/2023/12/12/virginia-sheriff-says-tesla-
 cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2023/12/12/virginia-sheriff-says-tesla-autopilot-was-running-before-driving-under-tractor-trailer/"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
+        isCached: true
+  - title: "A Tesla Climbed on a Power Box at a McDonald's Drive-Thru, the Driver Says It Kept Driving"
+    excerpt: "Blame it on Autopilot. Blame it on a cyber attack. Blame it on a less skillful driver. Blame it on texting and driving. Whatever it was, it left an"
+    publishedDateTime: 2023-12-13T07:04:00Z
+    webUrl: "https://www.autoevolution.com/news/a-tesla-climbed-on-a-power-box-at-a-mcdonald-s-drive-thru-the-driver-says-it-kept-driving-226013.html"
+    type: article
+    provider:
+      name: autoevolution
+      domain: autoevolution.com
+    quality: 29
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/a-tesla-climbed-on-a-power-box-at-a-mcdonald-s-drive-thru-the-driver-says-it-kept-driving-226013_1.jpg"
+        width: 2000
+        height: 1113
         isCached: true
 
 secured: "9j2Os5RbUZeXyd0qhFI2uxyg2SV0ta/Or/u1WnHHbHpeiH3mw9EhKthJo/0fIQQ/lBOWsgO1kwFWlZX1OSHQ7XoN/AaJp09xs5IKW42xZ5UkxJzvNUt7BJcP9FbDlX0WrhJchmhGA3YwyQDimIvj1s2AJzc9Us97lyX/h3JQbk1lYOlWm7u+NUIwukYB3ByKIpje9nFOi0+o0FArdlEDfHxPL85Jmy3pMYiBCxTaZr7jRjnU9QwZSIpqqhgSYaBjcpN7+v03WEo9d+kfoFU3R+Eu4G+wlou5plQYQ9IrDpA7RkSdgEbkg7L94fPciVyioQupbds36BGPX1a6Rg5t4jNlYujK5jfrYwpKmXl9tTc=;Vzz7EEO+OsM1gNLWtzLBJw=="

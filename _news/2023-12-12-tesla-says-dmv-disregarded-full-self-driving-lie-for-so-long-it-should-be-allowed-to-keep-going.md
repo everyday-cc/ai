@@ -45,6 +45,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "A Tesla Climbed on a Power Box at a McDonald's Drive-Thru, the Driver Says It Kept Driving"
+    excerpt: "Blame it on Autopilot. Blame it on a cyber attack. Blame it on a less skillful driver. Blame it on texting and driving. Whatever it was, it left an"
+    publishedDateTime: 2023-12-13T07:04:00Z
+    webUrl: "https://www.autoevolution.com/news/a-tesla-climbed-on-a-power-box-at-a-mcdonald-s-drive-thru-the-driver-says-it-kept-driving-226013.html"
+    type: article
+    provider:
+      name: autoevolution
+      domain: autoevolution.com
+    quality: 29
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/a-tesla-climbed-on-a-power-box-at-a-mcdonald-s-drive-thru-the-driver-says-it-kept-driving-226013_1.jpg"
+        width: 2000
+        height: 1113
+        isCached: true
 
 secured: "zGhVXv9BEwZXSzyjpoAzNlY1mdEZmB9MMrly2gM2jJTHq1uCT7nYpHfS9FfqWPRgLy2qLixtz1WmPEmJCkjDkiQcJyncxJXkDL4spRqAvTwIJBP4+To8BtAolT1WjX/rjSiTxjpLfUy7RElRp7UZAERRN3N9tdZgef87EXxIWIWWxsFOZz+gx6wnufLMIYLL8z0/0nyPVNi29AozP7R4EtTHovHGKq5ZGoByeCA3qukCk0WmL/PBURra+PpVhRpUeeQ+2hjjocKUtUn5kJCYBFDgOhvKcxcnyhSWBgozoGJ2CazuISVumxW3Wd+i8Q0/sdiGsg+5j2UnzmxRFuFtwql3K+LYHzbYt/xCfNduXnjQwdOhQyfZEwjCKjwziRtPER2PdV3/9MxT5dJ3Dg/zeUKuYCtTgoTeUojYC4JZuQVB6VDvHw16fNQ4z8rTP2GeET0iAK3U94ijNDzgrxj4y8LTgsAvrO6lk8oCZ6l+rgNgPLUzK6stmRzi35WVhZ0d4pRpwm2gIOQ0DgULOx5ifA==;290KGgsIPH5ypPcZRN+iwQ=="
 ---

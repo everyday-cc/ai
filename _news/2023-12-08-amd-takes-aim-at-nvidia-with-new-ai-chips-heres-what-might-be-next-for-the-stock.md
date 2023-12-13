@@ -75,20 +75,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "AMD now sees a $400 billion market for AI chips. Why that's good news for Nvidia"
-    excerpt: "Advanced Micro Devices has jacked up its market forecast for artificial intelligence chips to an eye-popping $400 billion by 2027. The chipmaker is sure to see its slice of that pie grow in the coming years, but the industry’s dominant player, Nvidia, is well-positioned to handle the emergent competition."
-    publishedDateTime: 2023-12-08T09:01:00Z
-    webUrl: "https://www.cnbc.com/2023/12/08/amd-now-sees-a-400-billion-market-for-ai-chips-why-thats-good-news-for-nvidia.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 79
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107278560-1690555294515-gettyimages-1258356004-TAIWAN-COMPUTEX2023-01062023-152JPG.jpeg?v=1701977216&w=1920&h=1080"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "US in talks with Nvidia about AI chip sales to China: Gina Raimondo"
     excerpt: "U.S. Commerce Secretary Gina Raimondo, speaking in an interview with Reuters on Monday, said Nvidia \"can, will and should sell AI chips to China because most AI chips will be for commercial applications."
     publishedDateTime: 2023-12-12T01:21:00Z

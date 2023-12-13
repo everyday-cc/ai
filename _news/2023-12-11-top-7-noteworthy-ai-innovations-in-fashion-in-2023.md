@@ -25,47 +25,51 @@ images:
     isCached: true
 
 related:
-  - title: "5 ways AI changed the internet in 2023"
-    excerpt: "OpenAI DALL-E 3, Google Bard and SGE image generator, Microsoft Copilot (formerly Bing Chat Image Creator), and Meta's Imagine are all examples of models that use generative AI to create images from text prompts. Even media platforms Shutterstock, Adobe, and Getty Images have gotten in the game with their own AI image generator tools."
-    publishedDateTime: 2023-12-12T15:01:00Z
-    webUrl: "https://mashable.com/article/ways-ai-changed-the-internet-2023"
+  - title: "The Rise Of Generative AI In Design: Innovations And Challenges"
+    excerpt: "Discover how generative AI is revolutionizing design across industries, from creating unique Nutella packaging to transforming architectural planning."
+    publishedDateTime: 2023-12-13T06:23:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/12/13/the-rise-of-generative-ai-in-design-innovations-and-challenges/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/12/13/the-rise-of-generative-ai-in-design-innovations-and-challenges/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/12/13/the-rise-of-generative-ai-in-design-innovations-and-challenges/amp/"
     type: article
     provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://helios-i.mashable.com/imagery/articles/03vL2Cl6Sc7AAwgoGb6nyEF/hero-image.fill.size_1200x675.v1702332338.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65795bde5bf4bf367d596b39/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "DataStax and AWS deepen collaboration to drive dev-centric gen AI solutions"
+    excerpt: "With the generative artificial intelligence dancefloor heating up, several companies are allying to find novel innovation areas and serve an expanding set of customer use cases. A strong example of this is DataStax Inc.’s deepened collaboration with Amazon Web Services Inc., evidenced by its integration with Amazon Bedrock."
+    publishedDateTime: 2023-12-08T17:34:00Z
+    webUrl: "https://siliconangle.com/2023/12/08/datastax-aws-deepen-collaboration-drive-dev-centric-gen-ai-solutions/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 52
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/Harry-Ault-Mona-Chadha-Clean.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Revolutionizing Global Communications: The Role Of AI In Streamlining The Cannabis And Psychedelic Industries"
+    excerpt: "In an era where the cannabis and psychedelic industries are rapidly expanding, mastering the art of global communication is more than a necessity - it’s the key to success."
+    publishedDateTime: 2023-12-12T15:24:00Z
+    webUrl: "https://www.benzinga.com/markets/cannabis/23/12/36201104/revolutionizing-global-communications-the-role-of-ai-in-streamlining-the-cannabis-and-psychedeli"
+    ampWebUrl: "https://www.benzinga.com/amp/content/36201104"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36201104"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 40
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/12/12/cannabis_twitter_28.png?width=1200&height=800&fit=crop"
         width: 1200
-        height: 675
-        isCached: true
-  - title: "Windows 12 and the coming AI chip war"
-    excerpt: "A Windows release planned for next year may be the catalyst for a new wave of desktop chips with AI processing capabilities."
-    publishedDateTime: 2023-12-11T06:19:00Z
-    webUrl: "https://www.arnnet.com.au/article/709727/windows-12-coming-ai-chip-war/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 54
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/shutterstock_571888840-100941708-orig.jpg"
-        width: 504
-        height: 315
-        isCached: true
-  - title: "Napa's Internet Marketer: Expect AI-powered everything in 2024"
-    excerpt: "Napa's Internet Marketer Janet Peischel talks about trends to expect in Marketing in 2024. Hint: It's all about artificial intelligence (AI)."
-    publishedDateTime: 2023-12-12T15:40:00Z
-    webUrl: "https://napavalleyregister.com/news/local/business/napas-internet-marketer-janet-peischel-on-marketing-trends/article_d751b170-948f-11ee-840f-ab16b9fc5a69.html"
-    type: article
-    provider:
-      name: Napa Valley Register
-      domain: napavalleyregister.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/napavalleyregister.com/content/tncms/assets/v3/editorial/8/d4/8d4ace5c-3e60-5a9c-97b5-5e808b8242c2/5f1f621548bc3.image.jpg?crop=1127%2C592%2C13%2C421&resize=1127%2C592&order=crop%2Cresize"
-        width: 1127
-        height: 592
+        height: 800
         isCached: true
 
 secured: "GP1+nAQoy22XC6Qt/2RYlv03bMNGMuj8GJbkieG6Ku8DH7NHztTui7LyjobjPAKBpTXOCLVtwS51vGrbxixcLPTT9NUFAZ4i6wyNpfX8rhcn2+ALHqEH2H6uwKuaV8OvsV9DygTVIP2OtdTiIv5Q+ysZrMXTEBEQcxEhpN8+s/aeohAE/G61yr0Vd4uGqVn56soYmJDI+0KRpcWNiZkPMS2gLSatPeTBtofXwJ110TxhpslSkI7LwoRwYx8Al4bO5wobBMZwVg/mlfLQSJqaxolN0rL5qx85p43wRb7iu750PXg4A64gfsMqM8txDFLjW8tuR+RKS7yhFEZiicQ7uGAYvWbMiXOkvYwXnOtKB2dmcc7OGB9a0pGrFycbfv7DDAz7ewCtRIMKHiN6fkEmESzf26xvVIdRq1iRjKOQr8VvGR7sTamvV1y946BfIHaUokJxJk5YFRlkJGtbkxs/pBUB6fWa8mFeatK/Id69uabP4qww+qq22gJye5mHZwscp3D0AX77TGiwFL0H5alOxw==;aglP1Ci9MhK9SWG1YhLCdg=="

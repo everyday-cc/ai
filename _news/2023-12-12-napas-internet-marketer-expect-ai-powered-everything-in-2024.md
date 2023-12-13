@@ -53,20 +53,6 @@ related:
         width: 504
         height: 315
         isCached: true
-  - title: "Top 7 Noteworthy AI Innovations in Fashion in 2023"
-    excerpt: "Now, let’s explore some of the key developments in the application of AI in the fashion industry this year."
-    publishedDateTime: 2023-12-11T06:34:00Z
-    webUrl: "https://analyticsindiamag.com/top-7-noteworthy-ai-innovations-in-fashion-in-2023/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/12/Top-7-Noteworthy-AI-Innovations-in-Fashion-in-2023.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "FfX7vu0bMLk9vFQOGKrbpp7rtA3NMnYW1i7hoGqaz99H8hatEcnOPjpFGZexgHWGKaKVq2VKdsKkcamFvlVpgPHQ/0hjHX3pghLPllYfjXWXtx/EUo9NOkI/JbeM8cLpdhWGw6b6ArTdyEIYgC8YNBYFpOgdeAiVbv47FKZJF6QQfACcJLyHsVBVesPaoL/a2rMxpUZDlNuSsrUNB472B1wEGclgoDbmUehiW/vtfcKfTkx8McWpQJWePCY2Fr5ABDMpvackFbdDGNRyW7f64Cl+KbuoAUyV0wq224gFWeB1ZTPcGPw1vQGdCm5p4e5Fusb50cyvP+oTGoeF/SmtXUcJiXcEKPayAkCyUn0EcTc=;3B19d4HUgqCweVp1IzXhiQ=="
 ---

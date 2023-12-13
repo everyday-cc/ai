@@ -111,6 +111,20 @@ related:
       name: Time
       domain: time.com
     quality: 47
+  - title: "UBS Report: Generative AI for Financial Services"
+    excerpt: "In the financial services industry, generative artificial intelligence (AI) is being deployed to automate time-consuming, tedious jobs in areas including customer service, fraud prevention, coding and information analysis."
+    publishedDateTime: 2023-12-13T06:52:00Z
+    webUrl: "https://fintechnews.ch/aifintech/ubs-report-generative-ai-for-financial-services/65521/"
+    type: article
+    provider:
+      name: fintechnews
+      domain: fintechnews.ch
+    quality: 39
+    images:
+      - url: "https://fintechnews.ch/wp-content/uploads/2023/12/UBS-Report-Generative-AI-for-Financial-Services.jpg"
+        width: 1024
+        height: 567
+        isCached: true
   - title: "Revolutionizing Enterprise Search: Harnessing Generative AI for Enhanced Data Discovery"
     excerpt: "The realm of enterprise search is undergoing a transformative shift, propelled by the integration of Generative AI. This cutting-edge technology is not"
     publishedDateTime: 2023-12-12T17:14:00Z

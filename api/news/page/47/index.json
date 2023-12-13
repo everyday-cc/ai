@@ -2,6 +2,160 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2023-10-31-wholly-ineffective-and-pretty-obviously-racist-inside-new-orleans-struggle-with-facial-recognition-policing.md",
+      "title": "‘Wholly ineffective and pretty obviously racist’: Inside New Orleans’ struggle with facial-recognition policing",
+      "excerpt": "In the summer of 2022, with a spike in violent crime hitting New Orleans, the city council voted to allow police to use facial-recognition software to track down suspects — a technology that the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2023/10/31/new-orleans-police-facial-recognition-00121427",
+      "originalUrl": "https://www.politico.com/news/2023/10/31/new-orleans-police-facial-recognition-00121427",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/9e/cf/ff64c42b4e81bb0ae47b73c4229a/facial-recognition-illo-v2.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T10:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-the-safety-of-openais-gpt-4-gets-lost-in-translation.md",
+      "title": "The safety of OpenAI's GPT-4 gets lost in translation",
+      "excerpt": "By translating \"unsafe\" commands first into Zulu and other under-represented languages, Brown scholars coerced GPT-4 into breaking its guardrails.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/the-safety-of-openais-gpt-4-is-lost-in-translation/",
+      "originalUrl": "https://www.zdnet.com/article/the-safety-of-openais-gpt-4-is-lost-in-translation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T09:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-the-worst-thing-that-could-possibly-happen.md",
+      "title": "The worst thing that could possibly happen",
+      "excerpt": "Investors found out cybersecurity firm Okta (OKTA) was hacked last week, and its stock fell by $2 billion. Anyone can invest in a fast-growing trend like cybersecurity. But you must pick the best businesses within this trend.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mauldineconomics.com/editorial/the-worst-thing-that-could-possibly-happen",
+      "originalUrl": "https://www.mauldineconomics.com/editorial/the-worst-thing-that-could-possibly-happen",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T09:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MauldinEconomics.com",
+        "domain": "mauldineconomics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-lt-technology-services-accelerates-transition-to-smart-vehicles-with-generative-ai-on-aws.md",
+      "title": "L&T Technology Services Accelerates Transition to Smart Vehicles with Generative AI on AWS",
+      "excerpt": "Leg-spinner Yuzvendra Chahal's maiden six-wicket for India as the hosts beat England by 75 runs in the third and final Twenty20 International",
+      "sourceUrl": null,
+      "webUrl": "https://netindia123.com/articles/showdetails.asp?id=4134762&n_date=20231031&cat=Business",
+      "originalUrl": "https://netindia123.com/articles/showdetails.asp?id=4134762&n_date=20231031&cat=Business",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T07:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Net India 123",
+        "domain": "netindia123.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-31-marketbeat-stock-of-the-week-uber-goes-driverless.md",
       "title": "MarketBeat ‘Stock of the Week’: Uber goes driverless",
       "excerpt": "The article \" MarketBeat ‘Stock of the Week’: Uber goes driverless \" first appeared on MarketBeat.",
@@ -791,140 +945,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-biden-signs-sweeping-executive-order-on-artificial-intelligence.md",
-      "title": "Biden signs sweeping executive order on artificial intelligence",
-      "excerpt": "President Joe Biden said AI is driving change at “warp speed” and carries tremendous potential as well as perils.",
-      "sourceUrl": null,
-      "webUrl": "https://www.oregonlive.com/business/2023/10/biden-signs-sweeping-executive-order-on-artificial-intelligence.html",
-      "originalUrl": "https://www.oregonlive.com/business/2023/10/biden-signs-sweeping-executive-order-on-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.oregonlive.com/business/2023/10/biden-signs-sweeping-executive-order-on-artificial-intelligence.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/business/2023/10/biden-signs-sweeping-executive-order-on-artificial-intelligence.html?outputType=amp",
-      "publishedDateTime": "2023-10-30T23:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Oregonian",
-        "domain": "oregonlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-biden-urges-congress-to-take-action-following-ai-order.md",
-      "title": "Biden Urges Congress to Take Action Following AI Order",
-      "excerpt": "U.S. President Joe Biden called on Congress to pass comprehensive legislation on artificial intelligence after invoking Cold War-era executive powers over private",
-      "sourceUrl": null,
-      "webUrl": "https://www.databreachtoday.com/biden-urges-congress-to-take-action-following-ai-order-a-23438",
-      "originalUrl": "https://www.databreachtoday.com/biden-urges-congress-to-take-action-following-ai-order-a-23438",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T22:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DataBreachToday",
-        "domain": "databreachtoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-advisor-addresses-intl-conference-on-artificial-intelligence-machine-learning.md",
-      "title": "Advisor addresses Intl Conference on Artificial Intelligence, Machine Learning",
-      "excerpt": "Advisor to Lieutenant Governor, Rajeev Rai Bhatnagar today addressed two-day International Conference on Artificial Intelligence, Machine Learning, and Intelligent Systems (ICAIMLIS) at Islamic University of Science and Technology (IUST) here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailyexcelsior.com/advisor-addresses-intl-conference-on-artificial-intelligence-machine-learning/",
-      "originalUrl": "https://www.dailyexcelsior.com/advisor-addresses-intl-conference-on-artificial-intelligence-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T22:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Excelsior",
-        "domain": "dailyexcelsior.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-how-are-state-and-local-governments-navigating-ai-regulation.md",
-      "title": "How Are State and Local Governments Navigating AI Regulation?",
-      "excerpt": "President Joe Biden signed an executive order to regulate artificial intelligence, but how are state and local governments handling it? Many are exploring how AI can enhance services, while others are temporarily banning its use.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/biz/data/how-are-state-and-local-governments-navigating-ai-regulation",
-      "originalUrl": "https://www.govtech.com/biz/data/how-are-state-and-local-governments-navigating-ai-regulation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T22:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

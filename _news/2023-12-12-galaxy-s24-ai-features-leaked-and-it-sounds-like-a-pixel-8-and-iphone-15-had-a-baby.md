@@ -77,6 +77,15 @@ related:
         width: 1000
         height: 465
         isCached: true
+  - title: "Samsung Galaxy S24 Ultra will reportedly offer 2600 nit peak brightness"
+    excerpt: "Reportedly, Samsung is also improving the AI object recognition engine to improve its imaging capabilities in different lighting conditions. Gizmochina brings you the best of Chinese Tech from emerging smartphone companies, innovative startups, to crazy ..."
+    publishedDateTime: 2023-12-13T00:00:00Z
+    webUrl: "https://www.gizmochina.com/2023/12/13/samsung-galaxy-s24-ultra-2600-nit-peak-brightness/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 34
 
 secured: "XUvkZFDwIN8lNKViNt39rsvl2DsRRaX2uIFDOCOlseBnp2MkAzQ8QXLEUxYbBNVBcHm3hmEa0qZ2mVTXJlglkdQ/nKlyn93KN20ORzkRy7v+B8+aG53Sil8YesLPyPzaEeUqu75uiNTnkqOZ+u+f55A8zjIRvjNDUYNU8erSNguz9MrU+q/dr8A3pw/DcgnRDFJjYGiQBpaUJe8g/Qy6eZZip0vmIAkOqpNYWIsuoaSXT4TTsTJaCFhAtYgaRpjChNkmZlkVkeWHd7OSoLl4Guz89IqULXbWoKzjPqtmozE3WcwnGZ7Xyi3DdktFYj/5MIGnBjUQqxW8ZVPBSK690bAlhDOVXcCFa2K93KQS2o/tMBIORxjeNthoyr6SB8OtZbRQFuzhzK60Ym7rgPqJEXo2iaFCqEYrL4lxJUFH3AcdVlDc7AiDgmmm6mfgVgYEk2I3y3hFsYnHr4f6haZmm7+EPmKtdb8A+ys5coGD3f99SQhDunezwFoJkhHXspD91yViOJZtEUSN+QzgS8daKg==;Bpvs5WQ18cQlHgXuaF+4ew=="
 ---

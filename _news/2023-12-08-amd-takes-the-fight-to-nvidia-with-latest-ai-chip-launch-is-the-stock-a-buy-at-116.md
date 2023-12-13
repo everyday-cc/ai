@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2023/12/08/amd-takes-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2023/12/08/amd-takes-the-fight-to-nvidia-with-latest-ai-chip-launch-is-the-stock-a-buy-at-116/amp/"
 type: article
 quality: 97
-heat: 277
+heat: 267
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20231212&i=RW515412122023RP1&r=RW515412122023RP1&t=2"
         width: 960
         height: 540
-        isCached: true
-  - title: "AMD now sees a $400 billion market for AI chips. Why that's good news for Nvidia"
-    excerpt: "Advanced Micro Devices has jacked up its market forecast for artificial intelligence chips to an eye-popping $400 billion by 2027. The chipmaker is sure to see its slice of that pie grow in the coming years, but the industry’s dominant player, Nvidia, is well-positioned to handle the emergent competition."
-    publishedDateTime: 2023-12-08T09:01:00Z
-    webUrl: "https://www.cnbc.com/2023/12/08/amd-now-sees-a-400-billion-market-for-ai-chips-why-thats-good-news-for-nvidia.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 79
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107278560-1690555294515-gettyimages-1258356004-TAIWAN-COMPUTEX2023-01062023-152JPG.jpeg?v=1701977216&w=1920&h=1080"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "AMD takes aim at Nvidia with new AI chips. Here’s what might be next for the stock"
     excerpt: "The latest AI chips from Advanced Micro Devices may showcase the company's capabilities, but the chipmaker faces some obstacles ahead."

@@ -64,6 +64,15 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 37
+  - title: "Samsung Galaxy S24 Ultra will reportedly offer 2600 nit peak brightness"
+    excerpt: "Reportedly, Samsung is also improving the AI object recognition engine to improve its imaging capabilities in different lighting conditions. Gizmochina brings you the best of Chinese Tech from emerging smartphone companies, innovative startups, to crazy ..."
+    publishedDateTime: 2023-12-13T00:00:00Z
+    webUrl: "https://www.gizmochina.com/2023/12/13/samsung-galaxy-s24-ultra-2600-nit-peak-brightness/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 34
   - title: "Galaxy S24 AI features leaked, and it sounds like a Pixel 8 and iPhone 15 had a baby"
     excerpt: "Some of Samsung's big AI phone features for the Galaxy S24 are already available on Pixel 8 and iPhone 15 devices - what you need to know."
     publishedDateTime: 2023-12-11T18:14:00Z
@@ -79,6 +88,6 @@ related:
         height: 1125
         isCached: true
 
-secured: "DdZ443LAq9ZfTWUcUsemZ9Wq2t3lGgujuU9cxnS5aWnWZdz9K4l0iTek5RJlDHRpfL2rvbcanpwittIBjUj/UbopWIATflHmpDRcvEBPc7hKl2qgjIEH3bSpDzQBQorH/x9k4dHsaSefFoI4UE9KC7W3aJh34bybr8E7tPsJwTQ/Q+A/WZOlikjfHdfhQDwxucgVmP/wlI5cibNOXLZjMqxXOaOYftoUnV9d20bfQSSGYFlMSXs/Nr+6POxQ4uyU9pqKJUjHlbO/6VLPNZ5BDxzh2Tmz0W7Qtbl1R1kxv6Mq4GOChIody6kfTYvLJagfBu+hBOl1oV4HoJdTIxxyALdtvwsNwe1PsSnpASLeuoA=;LTBiesyG81Kr0mOqkaX+WA=="
+secured: "+qdM4AdV3+Tw/zS+KT70AimiZOzUc3LUn+19228RNhdlu3EZwxy3M3opCicw7UceY6QkDTYj4f4L1SmrHlC0yTtzD7vTUKmBlJpcZBa4keKwY2bLJjEDspOibUD+KtGgkmGz3J5fqheWPfvZqnC4M2x20SR8QVDwbrjkTFFRoJmLeGDJVKk1zw1EQz6V2aF3h+AzOgkeV2jqk+HlkrLh1OTc1DFOx37OlIF076U/T13wOYp9jnbgzHYyZElchCG1VTjabz2qfQgb++J7h9Fnv6kMeLYZkrfHK3zkjpKvABbmZgS8xYDefanJqAbNh0Q9O2tR/7gM7g0d8O0OftqvZowV68SdZBJyO/x3nhqoDAIiv6wQ8SjEGpN/xMTjDf/JO1IGP2O9HIXRVUSfJDC0dajzVxS89kXuKOS6fD0GTh20IezJvJnmZfYPB2/Mf3bZepvpysZZSDbJlJ0BGU0oUWCEHtSfmscEDYBExiHaKmIhcvvCN1ditvcKOZax5dahsyOkd4PQ8zeYGJfyZaXP5g==;wD+BqDzaFxJCHK2jMgHoGw=="
 ---
 

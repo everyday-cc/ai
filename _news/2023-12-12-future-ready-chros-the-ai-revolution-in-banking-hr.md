@@ -7,8 +7,8 @@ originalUrl: "https://www.ft.com/partnercontent/workday/future-ready-chros-the-a
 webUrl: "https://www.ft.com/partnercontent/workday/future-ready-chros-the-ai-revolution-in-banking-hr.html"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: The Financial Times
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Revolutionizing Global Communications: The Role Of AI In Streamlining The Cannabis And Psychedelic Industries"
-    excerpt: "In an era where the cannabis and psychedelic industries are rapidly expanding, mastering the art of global communication is more than a necessity - it’s the key to success."
-    publishedDateTime: 2023-12-12T15:24:00Z
-    webUrl: "https://www.benzinga.com/markets/cannabis/23/12/36201104/revolutionizing-global-communications-the-role-of-ai-in-streamlining-the-cannabis-and-psychedeli"
-    ampWebUrl: "https://www.benzinga.com/amp/content/36201104"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36201104"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 40
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/12/12/cannabis_twitter_28.png?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Revolutionising Logistics: The Age Of AI Truck Loading Robots"
     excerpt: "Holiday shipping is already in full swing as the end of the year approaches. But, before products are displayed on a supermarket shelf or dispatched from a"
     publishedDateTime: 2023-12-11T11:50:00Z
