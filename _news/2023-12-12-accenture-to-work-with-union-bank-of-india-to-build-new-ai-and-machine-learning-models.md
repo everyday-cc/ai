@@ -7,7 +7,7 @@ originalUrl: "https://www.indianweb2.com/2023/12/accenture-to-work-with-union-ba
 webUrl: "https://www.indianweb2.com/2023/12/accenture-to-work-with-union-bank-of.html"
 type: article
 quality: 63
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "India turns to AI to capture its 121 languages"
-    excerpt: "Malaysia Airlines mengumumkan penerbangan yang dijadualkan berlepas dari Kuala Lumpur ke Chennai, India telah dibatalkan kerana Lapangan Terbang Chennai (MAA) ditutup akibat banjir."
-    publishedDateTime: 2023-12-08T22:00:00Z
-    webUrl: "https://www.astroawani.com/berita-dunia/india-turns-ai-capture-its-121-languages-448685"
-    ampWebUrl: "https://www.astroawani.com/berita-dunia/india-turns-ai-capture-its-121-languages-448685?amp=1"
-    cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-dunia/india-turns-ai-capture-its-121-languages-448685?amp=1"
-    type: article
-    provider:
-      name: Astro Awani
-      domain: astroawani.com
-    quality: 59
-    images:
-      - url: "https://img.astroawani.com/2023-10/71697780064_ArtificialIntellige.jpg"
-        width: 590
-        height: 400
-        isCached: true
   - title: "YTL and Nvidia to build AI data centre in Johor"
     excerpt: "YTL Power International revealed on Friday that it will collaborate with GPU chip maker Nvidia to build an AI data centre in Malaysia by the middle of next year."
     publishedDateTime: 2023-12-11T02:44:00Z

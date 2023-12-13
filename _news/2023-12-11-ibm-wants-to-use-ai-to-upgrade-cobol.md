@@ -53,6 +53,15 @@ related:
         width: 2000
         height: 1125
         isCached: true
+  - title: "Dun & Bradstreet and IBM Collaborate to Bring Trustworthy Business Insights to Fuel Responsible Generative AI Solutions Powered by watsonx"
+    excerpt: "Dun & Bradstreet (NYSE: DNB), a leading global provider of business decisioning data and analytics, and IBM (NYSE: IBM), have announced a strategi"
+    publishedDateTime: 2023-12-13T18:11:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231213889530/en/Dun-Bradstreet-and-IBM-Collaborate-to-Bring-Trustworthy-Business-Insights-to-Fuel-Responsible-Generative-AI-Solutions-Powered-by-watsonx"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "lg0kl7H3Irvr01Jg/ZijuWPa8rjD7Jie0jzUVaTkFz8bEpRJJPCyGHw49xFCLQ1jUzeHQFrrhMpA75Pz3tdBnoFrhe5sCCjvU/5GFcaTn3w+Kw9oK4DaML92gjRt0R4QCilsukY9GeLC1q70MLx2gieey086ZsXIjK1eJXbquMXinEIFRff91HhHxSdMhaq4DH37Rv7kAuff2T4hZjfkhinoCypfqL8zsJIe/Yp9CBDFfF3jKXx68pPyIzmMHAX3rynqxmRJ5YGNcSwDZXmWi7OrHu+1fIrcJo2eDtiRoeMjgsLLqfKsXu7/5L06miYRG1UV45xvoYuV9l23m31/glGJ8OifjdDFUqWGmoA5wXcSHhmqM4OYY9f4fTPZZmN3I1Ewk86gQ4m4c92fzro27qFwLwSA3DmHgUpRZ0ZLXyqUgR0s/Gxt+D6rK+y/NjXVNssNGSLM6na6AYmyacXOqz7Pm/G1grxFklFVeMVjCqjDLudFI5KxADfXuz+bxrcStT5sivx6Nx/9qQPpWVpOqA==;EIE+8+q2DsZeCNnC9yoe2g=="
 ---

@@ -2,17 +2,155 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2023-12-06-undersea-robot-startup-founded-by-nasa-engineer-ejects-clo.md",
-      "title": "Undersea-Robot Startup Founded by NASA Engineer Ejects CLO",
-      "excerpt": "The chief legal and administrative officer for an undersea robotics company founded by a NASA robotics engineer is one of two executives the company recently dismissed, according to a regulatory filing.",
+      "path": "_news/2023-12-06-former-tesla-worker-claims-companys-self-driving-tech-is-not-safe-for-public-roads.md",
+      "title": "Former Tesla worker claims company's self-driving tech is not safe for public roads",
+      "excerpt": "A former Tesla worker claims the electric car giant’s self ... driving technology is not safe enough to be used on public roads. Whistleblower Lukasz Krupski has raised fresh concerns about ...",
       "sourceUrl": null,
-      "webUrl": "https://www.law.com/texaslawyer/2023/12/04/undersea-robot-startup-founded-by-nasa-engineer-terminates-clo/",
-      "originalUrl": "https://www.law.com/texaslawyer/2023/12/04/undersea-robot-startup-founded-by-nasa-engineer-terminates-clo/",
+      "webUrl": "https://www.mirror.co.uk/news/us-news/former-tesla-worker-claims-companys-31605614",
+      "originalUrl": "https://www.mirror.co.uk/news/us-news/former-tesla-worker-claims-companys-31605614",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://i2-prod.mirror.co.uk/incoming/article31605559.ece/ALTERNATES/s1200/0_Tesla-Introduces-Self-Driving-Features-With-Software-Upgrade.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.mirror.co.uk/news/us-news/former-tesla-worker-claims-companys-31605614.amp",
+      "cdnAmpWebUrl": "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/us-news/former-tesla-worker-claims-companys-31605614.amp",
+      "publishedDateTime": "2023-12-05T22:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Mirror",
+        "domain": "mirror.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-driving-expert-uses-artificial-intelligence-to-predict-how-cars-will-appear-in-the-future.md",
+      "title": "Driving expert uses artificial intelligence to predict how cars will appear in the future",
+      "excerpt": "As artificial intelligence becomes more capable ... cars will be like in the future is very lively – there is often news about how close we are to self-driving cars, or even cars that can fly. “However, it’s not easy to imagine how this highly ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.express.co.uk/life-style/cars/1842479/artificial-intelligence-future-vehicle-technology",
+      "originalUrl": "https://www.express.co.uk/life-style/cars/1842479/artificial-intelligence-future-vehicle-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.images.express.co.uk/img/dynamic/24/590x/1842519_1.jpg",
+          "width": 590,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.express.co.uk/life-style/cars/1842479/artificial-intelligence-future-vehicle-technology/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/cars/1842479/artificial-intelligence-future-vehicle-technology/amp",
+      "publishedDateTime": "2023-12-05T22:48:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-dhs-seeks-information-for-cisa-analytics-and-machine-learning-project.md",
+      "title": "DHS seeks information for CISA analytics and machine learning project",
+      "excerpt": "The agency’s Office of Mission and Capability Support aims to better understand the “capabilities of businesses that could supply access to” the three commercial cloud providers that support the CAP-M project.",
+      "sourceUrl": null,
+      "webUrl": "https://fedscoop.com/dhs-cisa-machine-learning-analytics-rfi/",
+      "originalUrl": "https://fedscoop.com/dhs-cisa-machine-learning-analytics-rfi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fedscoop.com/wp-content/uploads/sites/5/2019/03/dhs-rsa-2019.jpg?w=600",
+          "width": 600,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-05T22:04:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FedScoop",
+        "domain": "fedscoop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-undersea-robot-startup-founded-by-nasa-engineer-ejects-clo.md",
+      "title": "Undersea-Robot Startup Founded by NASA Engineer Ejects CLO",
+      "excerpt": "Nauticus was founded in 2014 by Nic Radford, who left NASA that year as principal investigator for the Dexterous Robotics Lab at Johnson Space Center. He’d joined the agency in 2006, becoming deputy project manager and chief engineer of NASA’s humanoid space robot “Robonaut2.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.law.com/corpcounsel/2023/12/04/undersea-robot-startup-founded-by-nasa-engineer-terminates-clo/",
+      "originalUrl": "https://www.law.com/corpcounsel/2023/12/04/undersea-robot-startup-founded-by-nasa-engineer-terminates-clo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.law.com/contrib/content/uploads/sites/390/2023/12/Oil-rigs-767x633.jpg",
+          "width": 767,
+          "height": 633,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "",
       "type": "article",
       "ampWebUrl": null,
@@ -929,127 +1067,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-salus-advances-web3-security-with-deep-learning-in-new-research.md",
-      "title": "Salus Advances Web3 Security with Deep Learning in New Research",
-      "excerpt": "Blockchain firm Salus has advanced its Web3 security potential after conducting deep learning research published by 'Scientific Reports'.",
-      "sourceUrl": null,
-      "webUrl": "https://www.coinspeaker.com/salus-web3-security-deep-learning/",
-      "originalUrl": "https://www.coinspeaker.com/salus-web3-security-deep-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.coinspeaker.com/wp-content/uploads/2023/12/salus-web3-security-deep-learning.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.coinspeaker.com/salus-web3-security-deep-learning/amp/",
-      "cdnAmpWebUrl": "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/salus-web3-security-deep-learning/amp/",
-      "publishedDateTime": "2023-12-05T11:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "coinspeaker",
-        "domain": "coinspeaker.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-deep-learning-models-can-improve-low-field-mri-images-for-better-clinical-diagnoses.md",
-      "title": "Deep learning models can improve low-field MRI images for better clinical diagnoses",
-      "excerpt": "While low-field MRI scans have several logistical advantages, 64mT scans can also present discrepancies affecting the clinical diagnosis. For example, diagnosing certain conditions such as hydrocephalus critically depends on the precise estimation of brain morphometric measurements.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20231205/Deep-learning-models-can-improve-low-field-MRI-images-for-better-clinical-diagnoses.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20231205/Deep-learning-models-can-improve-low-field-MRI-images-for-better-clinical-diagnoses.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_766238_1701775796849117.jpg",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T11:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-3-innovative-artificial-intelligence-and-robotics-stocks-that-have-multidecade-growth-potential.md",
-      "title": "3 Innovative Artificial Intelligence and Robotics Stocks That Have Multidecade Growth Potential",
-      "excerpt": "Tesla is unique because it has a couple of long-tail growth opportunities -- including its self-driving software, a robotaxi business, AI, and robotics. Tesla's AI and robotics umbrella includes ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-innovative-artificial-intelligence-and-robotics-stocks-that-have-multidecade-growth",
-      "originalUrl": "https://www.nasdaq.com/articles/3-innovative-artificial-intelligence-and-robotics-stocks-that-have-multidecade-growth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T11:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

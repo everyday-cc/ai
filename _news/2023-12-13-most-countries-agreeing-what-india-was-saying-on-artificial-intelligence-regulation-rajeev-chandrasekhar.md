@@ -42,22 +42,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "EU reaches deal on how to regulate artificial intelligence"
-    excerpt: "European Union negotiators have agreed a deal on the world's first comprehensive artificial intelligence rules. The agreement paves the way for legal oversight of technology used in popular ..."
-    publishedDateTime: 2023-12-09T04:22:00Z
-    webUrl: "https://news.sky.com/story/eu-reaches-deal-on-how-to-regulate-artificial-intelligence-13026107"
-    ampWebUrl: "https://news.sky.com/story/amp/eu-reaches-deal-on-how-to-regulate-artificial-intelligence-13026107"
-    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/eu-reaches-deal-on-how-to-regulate-artificial-intelligence-13026107"
-    type: article
-    provider:
-      name: Sky
-      domain: sky.com
-    quality: 59
-    images:
-      - url: "https://e3.365dm.com/23/11/1600x900/skynews-chatgpt-openai_6364467.jpg?20231118091822"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "The EU’s AI Act: A beacon of innovation and ethics for emerging Europe"
     excerpt: "In an exceptional move reverberating through the corridors of technology and governance, the European Union has provisionally adopted the Artificial Intelligence Act, heralding a new era of digital ethics and innovation."
     publishedDateTime: 2023-12-11T12:24:00Z

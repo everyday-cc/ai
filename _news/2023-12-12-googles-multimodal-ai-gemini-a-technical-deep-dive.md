@@ -41,7 +41,7 @@ related:
     provider:
       name: Inverse
       domain: inverse.com
-    quality: 33
+    quality: 35
     images:
       - url: "https://imgix.bustle.com/uploads/image/2023/12/13/6f1f7fd6-9d8f-47e1-b409-f5ad273a5769-92c1322b-1d72-498c-a842-d6c63886713a-dsc00606.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg"
         width: 1200

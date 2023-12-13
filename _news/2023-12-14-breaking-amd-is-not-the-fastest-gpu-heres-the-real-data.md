@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2023/12/13/breaking-amd-is-n
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/12/13/breaking-amd-is-not-the-fastest-gpu-heres-the-real-data/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 92
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 900
     isCached: true
 
-secured: "4PMKoCdBnayzS1Ws2a2fJIdvuMMTz6m1hbCOoCly9tA/Eorsgp6z0Zer5ez91HRWYJjALEgaxvTI2+s0o/6xoymAs2Kn1Jtli/wQNQslJyN/WJZYMRKbj5MvGjdHjDWzXumW5jOo9+CyiBHvWAkZpceX5oXKK7TAPc8gBJOIuHRHw9dPnBoggXQzBh8HyOIkrGQnmyhcOq2RmKc86H+L2hzAG4NIdaepWKiW64Pk13qqG2nJrWbdfwz+nEqEHwsPwdwfn86nQI4C5nRwphdq8xRJkiFJkfhRtKrH/a7yNIz3h3LO3+1ecs/AOsi4BpSFucdgUo5JLeGisjthgebvEHeln75Iw6JLAr2edhY8Ez0=;XxcOY9RaNG1V60p0HHJlhg=="
+secured: "bO7iW1M2RnPh6gfCxKk9ogwJb6Q5x7OKEM0l91yyAgWH6QdbpTU89wtH8ev7+08jLnlldlbOmxMdHCv4SrkI7Ubt+9NnJCpHYTRp4RHdDOJOLeGObLoM7d6jzBgxE9F2SqaLAktifrt+HTUX1k/ehwILdQ3hL6Xlz0D7i7TRMFYgBvZIUdXMzEvg/5vqO21mNSlW2QAdxe8mYfamzNqhh2etKh4CA1Inz+GJfXqj71QNj8wYrlbt8kPqpnXdf458LszB5MYFktQTphm1ExAP6AlFvktjnGBOgZTOqciI4MdhBKlDcvtiR0Rvd1CZeik1PfBn/8U7vm70AY7ce1OCVNNThZL5vQMSZthv79VSWDed7sucesa92EWknZ2geobi0KnwdGw9VZH1XWuJ8orIOy1cJkQ5LgkuKdWJpTF/jfFSLxYMnwFad/AsxSoXM1JYRsozpzqgZEeU9a6UM8lWixA1EGYysxjBboufgsSLVpEnj5bb5MiWJxPFytUbHoQB/VqH+11f+wl8/Sqj76VKZA==;PUZdp8vdPUnaj+2BZ4G7Og=="
 ---
 

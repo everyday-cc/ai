@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Are You Using ChatGPT at Work? We Want to Hear About It."
+    excerpt: "Just over a year since ChatGPT’s release, we’re exploring how workers have begun using A.I. chatbots in their jobs."
+    publishedDateTime: 2023-12-13T10:03:00Z
+    webUrl: "https://www.nytimes.com/2023/12/13/business/are-you-using-chatgpt-at-work-we-want-to-hear-about-it.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 49
   - title: "Google's AI chatbot Bard gives drab answers, but it does one thing better than ChatGPT – Mashable"
     excerpt: "Compared to the other chatbots on the market, Google's Bard is the boring one. In a more or less positive assessment, Vox called"
     publishedDateTime: 2023-12-13T14:29:00Z

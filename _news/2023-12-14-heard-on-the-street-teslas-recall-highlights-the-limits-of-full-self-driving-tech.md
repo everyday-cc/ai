@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/livecoverage/fed-meeting-fomc-interest-rate-de
 webUrl: "https://www.wsj.com/livecoverage/fed-meeting-fomc-interest-rate-december-2023/card/heard-on-the-street-tesla-s-recall-highlights-the-limits-of-full-self-driving-tech-5t1wARKk5hZZYznApkee"
 type: article
 quality: 62
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla issues recall for almost two million of its cars due to faulty self-driving tech"
+    excerpt: "Self-driving vehicles will remain in the world of science fiction as Tesla is recalling two million of its cars to prevent drivers from misusing the Autopilot function."
+    publishedDateTime: 2023-12-13T20:20:00Z
+    webUrl: "https://www.techradar.com/vehicle-tech/tesla-issues-recall-for-almost-two-million-of-its-cars-due-to-faulty-self-driving-tech"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 41
   - title: "Tesla's Broken Promise Of Fully Autonomous Driving"
     excerpt: "Tesla's \"Full Self-Driving\" feature is not actually fully autonomous, and yet the company charges customers for it. The problem of fully autonomous driving is challenging due to Moravec's paradox and the limitations of current AI technology. Tesla's pivot ..."
     publishedDateTime: 2023-12-11T15:21:00Z

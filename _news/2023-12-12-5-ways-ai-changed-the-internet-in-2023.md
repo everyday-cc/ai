@@ -7,7 +7,7 @@ originalUrl: "https://mashable.com/article/ways-ai-changed-the-internet-2023"
 webUrl: "https://mashable.com/article/ways-ai-changed-the-internet-2023"
 type: article
 quality: 67
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Internet traffic soars in 2023, with generative AI a standout trend: Report"
+    excerpt: "In its annual overview of online trends, Cloudflare reports Google remains the most popular site, while OpenAI takes the lead in generative AI services."
+    publishedDateTime: 2023-12-13T18:11:00Z
+    webUrl: "https://www.computerworld.com/article/3711722/internet-traffic-soars-in-2023-with-generative-ai-a-standout-trend-report.html"
+    ampWebUrl: "https://www.computerworld.com/article/3711722/internet-traffic-soars-in-2023-with-generative-ai-a-standout-trend-report.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3711722/internet-traffic-soars-in-2023-with-generative-ai-a-standout-trend-report.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 55
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/10/17/12/internet1-100649339-large-100947272-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 966
+        isCached: true
   - title: "Windows 12 and the coming AI chip war"
     excerpt: "A Windows release planned for next year may be the catalyst for a new wave of desktop chips with AI processing capabilities."
     publishedDateTime: 2023-12-11T06:19:00Z

@@ -24,35 +24,34 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Can Revolutionize Your Business"
-    excerpt: "Throughout history, there have been key inventions that have revolutionized everyday life, such as the automobile and electricity. We are currently living amid another such revolution: the rise of AI."
-    publishedDateTime: 2023-12-11T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/11/how-ai-can-revolutionize-your-business/"
+  - title: "BigBear.ai Expands its Relationship with AWS to Deliver AI-Driven Solutions"
+    excerpt: "BigBear.ai continues to expand its capabilities to serve the commercial enterprise sector and is proud to advance this new effort with AWS."
+    publishedDateTime: 2023-12-11T13:18:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/12/11/9931286.htm"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "How the “New AI” is Poised to Revolutionize Agriculture"
-    excerpt: "Artificial intelligence offers potential solutions to long-standing productivity and sustainability issues and can generate new and innovative solutions."
-    publishedDateTime: 2023-12-09T14:18:00Z
-    webUrl: "https://www.greenhousegrower.com/technology/how-the-new-ai-is-poised-to-revolutionize-agriculture/"
-    ampWebUrl: "https://www.greenhousegrower.com/technology/how-the-new-ai-is-poised-to-revolutionize-agriculture/?amp"
-    cdnAmpWebUrl: "https://www-greenhousegrower-com.cdn.ampproject.org/c/s/www.greenhousegrower.com/technology/how-the-new-ai-is-poised-to-revolutionize-agriculture/?amp"
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 52
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "Sony Semiconductor Solutions' Edge AI Sensing Platform AITRIOS to Expand Streamlined Solutions Through Partnerships with Retail and Logistics Players"
+    excerpt: "Under the partnership with Microsoft since 2020, SSS and Microsoft continue to work closely, including SSS's ongoing participation in the Microsoft AI Co-Innovation Labs, which helps partners bring their solutions to life. In 2023 alone, SSS has become a contributor to Microsoft's newly opened San Francisco, U.S. and Kobe, Japan labs."
+    publishedDateTime: 2023-12-11T18:31:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-sony-semiconductor-solutions-edge-ai-sensing-platform-aitrios-/2023/12/11/9931618.htm"
     type: article
     provider:
-      name: Greenhouse Grower
-      domain: greenhousegrower.com
-    quality: 39
-  - title: "How Human and Artificial Intelligence Can Streamline Claims Reviews"
-    excerpt: "Discover how blending artificial intelligence with human insight is revolutionizing the medical claims process, reducing costs, and improving accuracy in the healthcare industry."
-    publishedDateTime: 2023-12-11T11:39:00Z
-    webUrl: "https://healthpayerintelligence.com/news/how-human-and-artificial-intelligence-can-streamline-claims-reviews"
-    type: article
-    provider:
-      name: healthpayerintelligence.com
-      domain: healthpayerintelligence.com
-    quality: 36
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+    images:
+      - url: "https://mma.prnewswire.com/media/2296805/Sony_2024_NRF_Big_Show_Booth.jpg"
+        width: 400
+        height: 225
+        isCached: true
 
 secured: "sDHtGnU4avjMEcUZEtEnz/NoEeqrOORXem3QB0BM959mG2+gglZOfu7as2VFWkjGD2Rcw8DvuDPApEx+Q11iONJuw3cqvcb9XLuqHTyJmCrDifs3Ab3IxB2lpD+MHUv53g8Eja0r3M+l+eYQPlZIZL4XaMGaLHX8ciJML+C2eZjInt08Id4mE1Tzc6HMknHhwTkMzbOQ2KRGjbCQ7VUY4dajgJRdb+1b+7VZp7t3kBRi08r5lllfFs5Au/tXPupuKQ4NcHkVxRfPNpRB0MyhAxlrcpftMw5tt8YpcXKSiHhfR2//X5YHxnFj8p+wSOmbSjGZzS2R54xxEXWdwZmSuegS7EFbtXm1cq+HDCaStNg=;P2cnXVDvTZXs1RC+GwbxVg=="
 ---

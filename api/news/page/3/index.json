@@ -2,102 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-12-12-how-machine-learning-is-reshaping-industries.md",
-      "title": "How Machine Learning is Reshaping Industries",
-      "excerpt": "In the era of digital transformation, machine learning (ML) has emerged as the driving force behind a revolutionary shift in industries worldwide. From healthcare to finance, manufacturing to marketing,",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesnownews.com/education/how-machine-learning-is-reshaping-industries-article-105939900",
-      "originalUrl": "https://www.timesnownews.com/education/how-machine-learning-is-reshaping-industries-article-105939900",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tnn.in/thumb/msid-105939904,thumbsize-372248,width-1280,height-720,resizemode-75/105939904.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.timesnownews.com/education/how-machine-learning-is-reshaping-industries-article-105939900/amp",
-      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/education/how-machine-learning-is-reshaping-industries-article-105939900/amp",
-      "publishedDateTime": "2023-12-12T14:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "timesnownews",
-        "domain": "timesnownews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-thoughts-on-consent-and-privacy-in-the-age-of-ai.md",
-      "title": "Thoughts On Consent And Privacy In The Age Of AI",
-      "excerpt": "As a crucial aspect of responsible AI and ethics in AI development and deployment, contestability ensures that individuals, organizations and regulatory bodies can scrutinize AI systems and hold them accountable for their behavior. Balancing innovation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/thoughts-on-consent-and-privacy-in-the-age-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/thoughts-on-consent-and-privacy-in-the-age-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/617ab75c1928bf93235ece8a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/thoughts-on-consent-and-privacy-in-the-age-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/12/thoughts-on-consent-and-privacy-in-the-age-of-ai/amp/",
-      "publishedDateTime": "2023-12-12T13:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-12-12-more-in-store-with-ibm-storage-virtualize.md",
       "title": "More in store with IBM Storage Virtualize",
       "excerpt": "The value of a centralized and consistent management platform for all storage is all the more relevant today.\nThe post More in store with IBM Storage Virtualize appeared first on IBM Blog.\n",
@@ -481,7 +385,7 @@
       "originalUrl": "https://www.indianweb2.com/2023/12/accenture-to-work-with-union-bank-of.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -724,7 +628,7 @@
       "originalUrl": "https://yourstory.com/2023/12/ai-revolutionising-search-engine-results",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -907,6 +811,108 @@
       ]
     },
     {
+      "path": "_news/2023-12-12-relevance-ais-low-code-platform-enables-businesses-to-build-ai-teams.md",
+      "title": "Relevance AI’s low-code platform enables businesses to build AI teams",
+      "excerpt": "However, only businesses with large engineering teams can build their own AI workforces. An Australia-based startup, Relevance AI, wants to help companies of all sizes build custom AI agents for any use case or function to maximize productivity with its ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/12/11/relevance-ais-low-code-platform-enables-businesses-to-build-ai-teams/",
+      "originalUrl": "https://techcrunch.com/2023/12/11/relevance-ais-low-code-platform-enables-businesses-to-build-ai-teams/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 217,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1188605237.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/12/11/relevance-ais-low-code-platform-enables-businesses-to-build-ai-teams/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/11/relevance-ais-low-code-platform-enables-businesses-to-build-ai-teams/amp/",
+      "publishedDateTime": "2023-12-11T22:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-12-mistral-shocks-ai-community-as-latest-open-source-model-eclipses-gpt-35-performance.md",
+      "title": "Mistral shocks AI community as latest open source model eclipses GPT-3.5 performance",
+      "excerpt": "Mistral, the most well-seeded startup in European history and a French company dedicated to pursuing open source AI models and large language models (LLMs), has struck gold with its latest release — at least among the early adopter/AI influencer crowd on X and LinkedIn.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/mistral-shocks-ai-community-as-latest-open-source-model-eclipses-gpt-3-5-performance/",
+      "originalUrl": "https://venturebeat.com/ai/mistral-shocks-ai-community-as-latest-open-source-model-eclipses-gpt-3-5-performance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/12/cfr0z3n_crowds_of_tourists_react_in_shock_and_amazement_as_the__cd64e435-492c-4397-94c0-1d5119160375.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-11T21:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-12-5-blue-chip-growth-stocks-to-buy-for-2024.md",
       "title": "5 Blue-Chip Growth Stocks to Buy for 2024",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips This article is an excerpt from the InvestorPlace Digest newsletter. To get",
@@ -1020,7 +1026,7 @@
       "originalUrl": "https://au.investing.com/news/stock-market-news/us-discusses-ai-chip-sales-to-china-with-nvidia-says-raimondo-432SI-3060981",
       "featuredContent": null,
       "highlight": null,
-      "heat": 251,
+      "heat": 261,
       "tags": null,
       "images": [
         {
@@ -1158,7 +1164,7 @@
       "originalUrl": "https://www.techspot.com/news/101157-ai-based-cobol-translator-watsonx-not-replace-developers.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 112,
       "tags": null,
       "images": [
         {

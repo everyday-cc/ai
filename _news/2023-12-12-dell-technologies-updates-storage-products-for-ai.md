@@ -9,7 +9,7 @@ ampWebUrl: "https://www.networkworld.com/article/1257328/dell-technologies-updat
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1257328/dell-technologies-updates-storage-products-for-ai.html/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 22
-  - title: "Dell Upgrades Storage Offerings As Businesses Shift To AI-First Operating Model"
-    excerpt: "As more businesses see the competitive need to shift data into AI-led processes, Dell’s AI-Ready Data Platform combines its infrastructure and performance upgrades to speed up how quickly customers can train large language models."
-    publishedDateTime: 2023-12-11T21:05:00Z
-    webUrl: "https://www.crn.com/news/software/dell-ai-storage"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 15
 
 secured: "Yk7oAWf6B6rCtOXLIPsf/LnEe/N8ah9BpsV9cMRs4GLcmTOYWVaUR610Z/Gglaw8wcMXJZZ7EB/ztsfHCnLq+sue+hDBob1oSx6kT2o5gL3VPLVmsKIp3y0eXHbN7YIDQKG3KpBavw8e87Og5rjpz9p/8b/D0afwNqDzwVcMjQwXV5xDV0DzPm6S7ijkMRF+eLwTXa+5RG4KjX6w3+6ZU93fr+SFFNKLHIN2gsfn4JueUWxJNkEgnXKGG6MBZNsIlYo47M26WGaffqLgv4FFjdOXK3aKYCrsCQx+eJIN/MT6WIPNaIxFdKykgt7rBH3sf/Argr0uDmHsX7b1Eye/gpsXq8Mt9np6TQwDOHv96uyJsa0Dlhy6Nykypn03pJXexZuz6ZiizIH54JTvgE92tgMnV/4TduHCAFeV5EpyXnGolLPegqJZvI2XZhm4AhjvzBUK4HM6r0wITWpa3fXZqD1wuVBdAHmZDJCVjhhefWsiBpZMu468s5Jxq862qVFhNh3kGQJAc075Rf2tMSWTaQ==;mBrJPeXJLdmO4pknMogQ7g=="
 ---

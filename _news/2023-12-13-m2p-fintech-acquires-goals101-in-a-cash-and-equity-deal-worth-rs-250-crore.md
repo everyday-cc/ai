@@ -95,6 +95,15 @@ related:
       name: inc42
       domain: inc42.com
     quality: 24
+  - title: "M2P Fintech Acquires Transaction Behavioural Intelligence Pioneer, Goals101"
+    excerpt: "Madhusudanan R, Co-Founder and CEO of M2P Fintech, commented,“The global banking technology space is undergoing a tectonic shift with respect to leveraging data and AI in the most prominent areas like Customer service, Product and Portfolio management ..."
+    publishedDateTime: 2023-12-13T15:24:00Z
+    webUrl: "https://menafn.com/1107590693/M2P-Fintech-Acquires-Transaction-Behavioural-Intelligence-Pioneer-Goals101"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 2
 
 secured: "23xJDnzzkgZIyCJTTjdWDtVsPUXC7WrSZuaalQS7JkHfPVDIkr0867eAwGwslLlaBsS/anab0Fp/+Tg5xM5tN1ANSSbnjMTDcGxxZjGAUUHDg+sLRI0aaLDFTpHErTpc6/SFqRYMNn9SzJuXJrwsOP6TyPA70saQ5+xTB97zQbnym4xrfmo3p4aAOKfMjFs96wYe/kXZQJtnGIqOevrHGRqnZCtTtvDg72EE68WvwvTWRvJcMn0a+vk6YGo7f5zuXCqQRB46+j9pd/VYx8oX7Ep2V/coi9eUj9QM7cQUUgoV30owmrCqoGo4Q0DdmI5kiEdr2ti4rMSjjEKYo1bh+zkMlH/H1tAigP9bZBOJa9vnSr0ozZN/4NxtyKADsCdTr1Rc8NMMI+atNAupAaNwGE6Rn7knp2KKU3784SLMxJ1o1f73QjTLrXrDp0+698NcjdM46+jyCAd+Gg5bAYXFtT+LS/l/ySIO4Q37qLpEoDHaD6GY88Ag4tWUQhY5Oa2uHd1RtMTQVlJs7pTBMICdmQ==;QHpTdOR1840ag62YlI9XeQ=="
 ---

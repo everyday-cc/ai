@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/12/10/amd-disrupts-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/12/10/amd-disrupts-ai-accelerator-market-with-new-mi300-offerings/amp/"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 71
+published: true
 
 provider:
   name: Forbes
@@ -24,24 +24,6 @@ topics:
   - AI Hardware
   - AI
   - Natural Language Processing
-
-related:
-  - title: "AMD Unveils AI Accelerators From Cloud To Client With MI300 Leading The Charge"
-    excerpt: "The market will likely be eager for these new AI silicon engines and tools from AMD, and it's going to be a dogfight."
-    publishedDateTime: 2023-12-08T21:29:00Z
-    webUrl: "https://www.forbes.com/sites/davealtavilla/2023/12/08/amd-unveils-ai-accelerators-from-cloud-to-client-with-mi300-leading-the-charge/"
-    ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2023/12/08/amd-unveils-ai-accelerators-from-cloud-to-client-with-mi300-leading-the-charge/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2023/12/08/amd-unveils-ai-accelerators-from-cloud-to-client-with-mi300-leading-the-charge/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 85
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/657344159dd114776e33d37c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1280
-        height: 685
-        isCached: true
 
 secured: "WBcMyELid0BqdYnSr6Ha31Fgo6HDE8KsiELjtl/dgQZ/ndnKPfABpb7xZiQNzzDmdkWLmOgkQritB8tw49PnmfNFlFtwAQ54TN7poLhfyemhtcch6jlNy1kL2CmKJ6w00r24Yn3tXiTzBbZImUiYJ9n/RN2FViaHATY7d2jynjrRlvLyauIGELxVsJwu/8ILyb1+B8Ddwg5zLCj7DmjQyh8PKipmOahmBYMvArG1u+tubYw6Z+DUSqWp4CPQWNf5xto9zsxMDHtevi3LNgQzPaKQPvBBmDHhInjsnBxwvijUajWwt1ko4ZRlNIJZRJMCwSBhtXjfFsAL3hT1zhxK71GetyEGd3x+pS2CRqI3kr4xnl/zse63SctcnVVnZthAd6kQWR4aICVwUXwarFG5aWVGL0nGnG8Q5DXVdpMf2gGDrGSzJ7aijtAEcBYCqnsh617phsspd3F2HaZQOidE+azzRUjm//G5q3K15dpJyE5DYdMu9493nBGxpV3oEAm0Wwoh5WqyFVUrou4NPKyXCA==;Op45c3K7xsPVF844lgOpZg=="
 ---

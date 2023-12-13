@@ -60,6 +60,15 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 64
+  - title: "Microsoft Copilot: tips and tricks for using AI in Windows"
+    excerpt: "Windows Copilot is a useful tool for augmenting your Windows experience, but with these tips and tricks you can make it even better."
+    publishedDateTime: 2023-12-13T19:19:00Z
+    webUrl: "https://www.digitaltrends.com/computing/tips-tricks-windows-copilot/"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 64
   - title: "AMD Is Set To Challenge Nvidia's Dominance And Amazon Is Going After Microsoft's Early-Start AI Advantage"
     excerpt: "According to analysts, Nvidia Corporation (NASDAQ: NVDA) controls roughly 80% of the AI chip market, when including the custom processors built by companies such as Alphabet (NASDAQ: GOOG)-owned Googl"
     publishedDateTime: 2023-12-11T18:23:00Z
@@ -113,6 +122,15 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Microsoft Research Debuts Phi-2, New Small Language Model"
+    excerpt: "Phi-2 is a generative AI model with 2.7 billion-parameters used for research and development of language models. While large language models can reach hundreds of billions of parameters, Microsoft Research is experimenting with small language models in ..."
+    publishedDateTime: 2023-12-13T20:53:00Z
+    webUrl: "https://www.techrepublic.com/article/microsoft-phi-2-ai/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 51
   - title: "Microsoft Believes Indian Tech Firms Will Play A Key Role In AI Development, Adoption Globally"
     excerpt: "The world's largest vendor of computer software, Microsoft is working with India's IT and ITeS companies in multiple markets to facilitate AI implementation."
     publishedDateTime: 2023-12-12T06:46:00Z

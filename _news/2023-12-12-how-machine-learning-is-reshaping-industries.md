@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesnownews.com/education/how-machine-learning-is-resha
 cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/education/how-machine-learning-is-reshaping-industries-article-105939900/amp"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -42,15 +42,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "How Artificial Intelligence Is Transforming HR Practices"
-    excerpt: "Artificial intelligence (AI) has taken various industries by storm, with human resource management (HRM) being no exception. With a variety of AI tools, businesses in several industries are reaping the rewards of innovative technology to optimize their HR operations."
-    publishedDateTime: 2023-12-12T02:03:00Z
-    webUrl: "https://thebobs.com/how-artificial-intelligence-is-transforming-hr-practices/"
-    type: article
-    provider:
-      name: The BOBs
-      domain: thebobs.com
-    quality: 19
 
 secured: "iZBzd4OA+UDqm4JERlOIC6yVTE724uEmA8qAVMCwI2F8gMw7VzM6wD9/31W/tdARJX7pAkZZK5yNxt+TlJL7xuJQWfsQAC22fGiER1rQhYSWkf/SLpRM1ZFNapTUWBLzH3yEk9boKw7xqV8Jn99EbVobGjGPAUWyjxyHlQu0TqwZKO1PV+Ks9G90pNjxwHeejlifID1pL1ftEVAvlrdbsfIAzXo29pO8P1tpzIHL+Q/u5ooJj0ILFsrhNjIFop6iDLTpgx0HfEvkI070wfxG9M2PcI7WLXnefV1B2O2pFyEKGhX5se24tpjB01q2PpDm+ttGz0UaZoMEY06wiUdENZklOKYqb3lTgjv9MtNB2fmxmQGohOYkkzd0VtPelnBpsb8HRz5guf0DAZP0L9MzfLXhKXgPRoDMNMbCa1OZRFS4YBfXXhSTMiwFxDUJ5g4KB9bLFEyxVLCBWr6Bs/o6IwzT0wmmMTROt6SgQ4kRoMa4Oebz4Hso0ZjKlbRa8Z/uOnROyVFxwG+SbibVcp6mBw==;DamVx7CzJ/awrlgWMMEyfQ=="
 ---

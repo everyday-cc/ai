@@ -70,6 +70,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Dropbox spooks users by sending data to OpenAI for AI search features"
+    excerpt: "On Wednesday, news quickly spread on social media about a new enabled-by-default Dropbox setting that shares your Dropbox data with OpenAI for an experimental AI-powered search feature. Dropbox says that user data shared with third-party AI partners isn't used to train AI models and is deleted within 30 days."
+    publishedDateTime: 2023-12-13T19:41:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/12/dropbox-spooks-users-by-sending-data-to-openai-for-ai-search-features/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 47
   - title: "Elon Musk’s AI bot, Grok, speaks as if made by OpenAI in some tests, causing a stir"
     excerpt: "Grok, the AI language model created by Elon Musk's xAI, went into wide release last week, and people have begun spotting glitches. On Friday, security tester Jax Winterbourne tweeted a screenshot of Grok denying a query with the statement,"
     publishedDateTime: 2023-12-11T20:13:00Z
@@ -121,6 +130,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "OpenAI’s Soap Opera Collapse Bodes Ill for AI Benefiting Humanity"
+    excerpt: "Whatever fantasies we may have had about the nonprofit structure of OpenAI have been eviscerated. While it remains a nonprofit, it’s proven entirely beholden to ruthless capitalism"
+    publishedDateTime: 2023-12-11T13:04:00Z
+    webUrl: "https://www.scientificamerican.com/article/openais-soap-opera-collapse-bodes-ill-for-ai-benefiting-humanity/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 17
   - title: "OpenAI to pay Axel Springer to use content to train AI models"
     excerpt: "OpenAI, the generative artificial intelligence startup backed by Microsoft (NASDAQ:MSFT), has agreed to pay publishing company Axel Springer to use the media company's content to train its AI models. The content will be used to create answers in ChatGPT ..."
     publishedDateTime: 2023-12-13T14:21:00Z

@@ -66,20 +66,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 63
-  - title: "How AI therapy is filling gaps in mental health care"
-    excerpt: "And for some users, they’ve been beneficial. 80 percent of people who used ChatGPT for mental health advice reported it was a good alternative for therapy, according to Business Wire. The majority of Americans don’t believe AI therapy will help more than it hurts, but that’s not stopping innovations in artificial intelligence and therapy."
-    publishedDateTime: 2023-12-11T02:36:00Z
-    webUrl: "https://www.wlrn.org/2023-12-10/how-ai-therapy-is-filling-gaps-in-mental-health-care"
-    type: article
-    provider:
-      name: WLRN
-      domain: wlrn.org
-    quality: 54
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/8a5e564/2147483647/strip/true/crop/1600x840+0+114/resize/1200x630!/quality/90/?url=https%3A%2F%2Fthe1a.org%2Fwp-content%2Fuploads%2Fsites%2F4%2F2023%2F12%2FGettyImages-1233936108-1600x1067.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Google Launches Generative Artificial Intelligence Models for Healthcare"
     excerpt: "Google’s newly introduced MedLM is a suite of foundation models designed for healthcare, with two generative AI tools built on the large language model Med-PaLM 2."
     publishedDateTime: 2023-12-13T14:01:00Z
@@ -122,6 +108,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "How AI therapy is filling gaps in mental health care"
+    excerpt: "And for some users, they’ve been beneficial. 80 percent of people who used ChatGPT for mental health advice reported it was a good alternative for therapy, according to Business Wire. The majority of Americans don’t believe AI therapy will help more than it hurts, but that’s not stopping innovations in artificial intelligence and therapy."
+    publishedDateTime: 2023-12-11T03:35:00Z
+    webUrl: "https://www.boisestatepublicradio.org/2023-12-10/how-ai-therapy-is-filling-gaps-in-mental-health-care"
+    type: article
+    provider:
+      name: Boise State Public Radio
+      domain: boisestatepublicradio.org
+    quality: 34
 
 secured: "uOs17+TudgO112SN2Rr4QuPn1x+O7Sc6wqppvWihY3EqacNCGf8/SBK6w1+U1P1TUMBucRrEtyFVPT9u1djaagOK3tzXcyJ73diJXj4SXARhXCbaWB5hADXIisEdmrjLnes6eoWuj1tVk8tbxSjrxmUFS1xTHhybdo9MT3r6ua5co+3rPc1Rgo29QGCgY0c5qQSSL8mzTr4m2FEevN/ZKY6OvmIFIkYeQXAJrovzTp/SGRhn5u0LDGoYpRt8p5NRWyslz1cM8l20kpfkBJhqU/mw3Xyigk5U5dwPaHP7wTWfp95e8PyZK+d6Zf2Sn+gmjlL2Z6YT0IDdVKE50VSPFxy9+oU3fIsSWolx08NMEFplkqsRW/RvOeKG+BTelRgbDFRWEVqXds8qnW8+5YO8HqpB+IQT3n80Ok7r2y/GTZ+6teXSt/RQECHbslki1pKA9qw7M5GTBq9J5oJ2yiaMSxUaxj6rmFv5A37aeQ5vlq6woWceboTKrCpZ1PDDQAhijVsDpFF7nVXATljpQAXjKw==;TKPhM8kOWYYfmiZGUsfLpA=="
 ---

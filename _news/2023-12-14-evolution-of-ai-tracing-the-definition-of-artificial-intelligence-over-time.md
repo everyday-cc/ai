@@ -24,36 +24,29 @@ images:
     isCached: true
 
 related:
-  - title: "Ethics In AI: A Conversation With Diya Wynn, AWS Responsible AI Lead"
-    excerpt: "Invent conference, I had the distinct opportunity to delve into these pressing issues with Diya Wynn, AWS’s Responsible AI Lead."
-    publishedDateTime: 2023-12-08T22:31:00Z
-    webUrl: "https://www.forbes.com/sites/carolinamilanesi/2023/12/08/ethics-in-ai-a-conversation-with-diya-wynn-aws-responsible-ai-lead/"
-    ampWebUrl: "https://www.forbes.com/sites/carolinamilanesi/2023/12/08/ethics-in-ai-a-conversation-with-diya-wynn-aws-responsible-ai-lead/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinamilanesi/2023/12/08/ethics-in-ai-a-conversation-with-diya-wynn-aws-responsible-ai-lead/amp/"
+  - title: "AI in Action: How to bring real-time decision-making to AI/ML"
+    excerpt: "Watch this online event, as Redpanda explores the shift from batch analytics to real-time decision-making for AI/ML use cases. They start by fostering a broad understanding of how to train and score a real-time model on streaming data, in contrast with ..."
+    publishedDateTime: 2023-12-13T00:40:00Z
+    webUrl: "https://techcrunch.com/sponsor/redpanda-organization/ai-in-action-how-to-bring-real-time-decision-making-to-ai-ml/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 121
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 84
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/657398ac14070a55cc835737/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1353
-        height: 900
-        isCached: true
-  - title: "BigBear.ai Expands its Relationship with AWS to Deliver AI-Driven Solutions"
-    excerpt: "BigBear.ai continues to expand its capabilities to serve the commercial enterprise sector and is proud to advance this new effort with AWS."
-    publishedDateTime: 2023-12-11T13:18:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/12/11/9931286.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 52
-    images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
+      - url: "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight.png?resize=1200,486"
         width: 1200
-        height: 627
+        height: 486
         isCached: true
+  - title: "Gaming's Quantum Leap: AI and Machine Learning Reshape the Virtual Frontier"
+    excerpt: "In the realm of online gaming, a quiet revolution is taking place. The marriage of Artificial Intelligence (AI) and Machine Learning (ML) is transforming the gaming landscape, ushering in an era of unparalleled realism and immersive experiences."
+    publishedDateTime: 2023-12-13T14:38:00Z
+    webUrl: "https://www.timesnownews.com/education/gamings-quantum-leap-ai-and-machine-learning-reshape-the-virtual-frontier-article-105967846"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 32
 
 secured: "j4BDw5ve1Dcn7QVPbq+4DAZWGY/nef5Xikfec42TYZuHki5iEreu0qR3B4BZ3hIv2cjp1qcMVtkUK0F7htxsQslYiVtvYqBy58/fCmjrxGnipCykRitcw/QqZGTctAbF4SP4cNc7n4L/pur3NXQtvc8DNmzOc5ywenTKZRpWWtfX7EVEF5oQD2mfFV6B5rbI9HUMtQ/a7awbj6MYifOekcdxSwrLtFVCz/k4dNsGFg1abXysm9XB/xJFf1iHGiSdHnL25ZDWq/3RBbgEDwnytjoH8XJUbNPuJQovoMEabTYbnqRvsaP/zWJvEduJirRQ01pvsaFgikWTxDkSoOpzCwEW259F6F7IpFCcB2guIUc=;TB10yIukSXRYZ8i4dRjqjw=="
 ---

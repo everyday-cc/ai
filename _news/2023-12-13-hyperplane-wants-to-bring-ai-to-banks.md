@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2023/12/13/hyperplane-wants-to-bring-ai-to-ba
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/13/hyperplane-wants-to-bring-ai-to-banks/amp/"
 type: article
 quality: 87
-heat: 119
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -30,43 +30,164 @@ images:
     isCached: true
 
 related:
-  - title: "AI in Action: How to bring real-time decision-making to AI/ML"
-    excerpt: "Watch this online event, as Redpanda explores the shift from batch analytics to real-time decision-making for AI/ML use cases. They start by fostering a broad understanding of how to train and score a real-time model on streaming data, in contrast with ..."
-    publishedDateTime: 2023-12-13T00:40:00Z
-    webUrl: "https://techcrunch.com/sponsor/redpanda-organization/ai-in-action-how-to-bring-real-time-decision-making-to-ai-ml/"
+  - title: "Relevance AI’s low-code platform enables businesses to build AI teams"
+    excerpt: "However, only businesses with large engineering teams can build their own AI workforces. An Australia-based startup, Relevance AI, wants to help companies of all sizes build custom AI agents for any use case or function to maximize productivity with its ..."
+    publishedDateTime: 2023-12-11T22:31:00Z
+    webUrl: "https://techcrunch.com/2023/12/11/relevance-ais-low-code-platform-enables-businesses-to-build-ai-teams/"
+    ampWebUrl: "https://techcrunch.com/2023/12/11/relevance-ais-low-code-platform-enables-businesses-to-build-ai-teams/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/11/relevance-ais-low-code-platform-enables-businesses-to-build-ai-teams/amp/"
     type: article
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 84
+    quality: 87
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight.png?resize=1200,486"
+      - url: "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1188605237.jpg?resize=1200,800"
         width: 1200
-        height: 486
+        height: 800
         isCached: true
-  - title: "How to clone your voice using AI and why you would want to"
-    excerpt: "Descript’s speech recognition algorithms and video editing tools one such solution, enabling users to make text edits that are then applied to the original audio or video file extremely easily saving you time and money. As well as being able to provide ..."
-    publishedDateTime: 2023-12-09T00:00:00Z
-    webUrl: "https://www.geeky-gadgets.com/cloning-voices-using-ai/"
+  - title: "Advances In AI, Yet Many Unresolved Issues"
+    excerpt: "In a short year, we have seen countless products, platforms, and services—an entire industry—born, reborn, and shaped constantly by advances that seem to keep coming. GPTs have emerged as platforms to build on and build with,"
+    publishedDateTime: 2023-12-11T02:34:00Z
+    webUrl: "https://www.forbes.com/sites/arunshastri/2023/12/10/advances-in-ai-yet-many-unresolved-issues/"
+    ampWebUrl: "https://www.forbes.com/sites/arunshastri/2023/12/10/advances-in-ai-yet-many-unresolved-issues/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arunshastri/2023/12/10/advances-in-ai-yet-many-unresolved-issues/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+  - title: "Cohere to help businesses build AI using Slack, Google Drive data"
+    excerpt: "OpenAI-competitor Cohere launched \"connectors,\" which allow companies to connect third-party application data to Cohere’s LLM."
+    publishedDateTime: 2023-12-12T17:00:00Z
+    webUrl: "https://venturebeat.com/ai/cohere-to-help-businesses-build-ai-using-slack-google-drive-data/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/12/Untitled-design-2023-12-12T105755.661.png?w=1200&strip=all"
+        width: 1200
+        height: 750
+        isCached: true
+  - title: "EU reaches deal on how to regulate artificial intelligence"
+    excerpt: "European Union negotiators have agreed a deal on the world's first comprehensive artificial intelligence rules. The agreement paves the way for legal oversight of technology used in popular ..."
+    publishedDateTime: 2023-12-09T04:22:00Z
+    webUrl: "https://news.sky.com/story/eu-reaches-deal-on-how-to-regulate-artificial-intelligence-13026107"
+    ampWebUrl: "https://news.sky.com/story/amp/eu-reaches-deal-on-how-to-regulate-artificial-intelligence-13026107"
+    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/eu-reaches-deal-on-how-to-regulate-artificial-intelligence-13026107"
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 59
+    images:
+      - url: "https://e3.365dm.com/23/11/1600x900/skynews-chatgpt-openai_6364467.jpg?20231118091822"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "How AI Can Revolutionize Your Business"
+    excerpt: "Throughout history, there have been key inventions that have revolutionized everyday life, such as the automobile and electricity. We are currently living amid another such revolution: the rise of AI."
+    publishedDateTime: 2023-12-11T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/11/how-ai-can-revolutionize-your-business/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Apple quietly releases MLX AI framework to build foundation AI models"
+    excerpt: "Apple's machine learning research team has quietly introduced and released a new machine learning framework called MLX, designed to optimize the"
+    publishedDateTime: 2023-12-11T11:41:00Z
+    webUrl: "https://www.geeky-gadgets.com/apple-mlx-ai-framework/"
     type: article
     provider:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
-    quality: 39
+    quality: 41
     images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/How-to-clone-your-voice-using-AI.jpg"
-        width: 1280
-        height: 845
+      - url: "https://www.geeky-gadgets.com/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FFplJsVd2dTk%2F0.jpg"
+        width: 480
+        height: 360
         isCached: true
-  - title: "5 Things to Consider When Bringing Speech AI Into Your Business"
-    excerpt: "Imagine a world where mundane tasks, consuming 60-70% of our work hours, vanish into thin air. According to a McKinsey report, thanks to its evolving grasp of natural language, Generative AI has the potential to make this dream a reality quite soon."
-    publishedDateTime: 2023-12-11T19:03:00Z
-    webUrl: "https://www.unite.ai/5-things-to-consider-when-bringing-speech-ai-into-your-business/"
+  - title: "Governing AI for business benefit"
+    excerpt: "Last month, a group of professionals and industry experts came together to launch an AI Governance website in response to a survey that indicated governance is a key focus although half of businesses are already using some form of AI."
+    publishedDateTime: 2023-12-11T00:30:00Z
+    webUrl: "https://www.reseller.co.nz/brand-post/content/709735/governing-ai-for-business-benefit/"
     type: article
     provider:
-      name: unite
-      domain: unite.ai
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 39
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/ai-byline3.jpg"
+        width: 472
+        height: 315
+        isCached: true
+  - title: "VERSES AI hires Peter Provost to help launch developer platform"
+    excerpt: "Former Microsoft Product Leader Peter Provost is to help launch the VERSES AI Developer Platform – bringing over 40 years of coding experience to the project. As VP of Product, Developer Platforms, Provost will lead the strategic development and enhancement of Genius - VERSES’ Intelligence-as-a-Service platform,"
+    publishedDateTime: 2023-12-11T08:20:00Z
+    webUrl: "https://www.intelligentcio.com/north-america/2023/12/11/verses-ai-hires-peter-provost-to-help-launch-developer-platform/"
+    type: article
+    provider:
+      name: intelligentcio
+      domain: intelligentcio.com
+    quality: 39
+    images:
+      - url: "https://www.intelligentcio.com/north-america/wp-content/uploads/sites/45/2023/12/AdobeStock_288304009-1.jpg"
+        width: 1000
+        height: 450
+        isCached: true
+  - title: "Durable cements $14M to build AI-powered tools for small businesses in service industries"
+    excerpt: "Builders, bakers and body conditioners might not be the first trades that come to mind when you think about how AI is transforming how we work. But today a startup that’s building AI-powered business tools specifically for them — and the thousands of ..."
+    publishedDateTime: 2023-12-12T13:45:00Z
+    webUrl: "https://techcrunch.com/2023/12/12/durable-cements-14m-to-build-ai-powered-tools-for-small-businesses-in-service-industries/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 38
+  - title: "Leverage These AI Techniques to Stay Ahead in 2024"
+    excerpt: "The benefits of AI, and the ease of its access, are clear. \"You no longer need to be a data scientist, an engineer, or even a programmer. It is 1997 again; but instead of the Internet, the technology that is changing industry is AI,\" said AI entrepreneur Michael Puscar."
+    publishedDateTime: 2023-12-11T07:48:00Z
+    webUrl: "https://www.inc.com/katie-konyn/leverage-these-ai-techniques-to-stay-ahead-in-2024.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1700140485_535546_egjvz1.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Citrusx emerges from stealth to make AI explainable, streamline compliance for enterprises"
+    excerpt: "Citrusx claims its technology ensures 100% transparency and can lead to 82% faster time to production, enabling teams to seize the AI opportunity."
+    publishedDateTime: 2023-12-11T19:27:00Z
+    webUrl: "https://venturebeat.com/ai/citrusx-emerges-from-stealth-to-make-ai-explainable-streamline-compliance-for-enterprises/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 37
+  - title: "How Artificial Intelligence Is Transforming HR Practices"
+    excerpt: "Artificial intelligence (AI) has taken various industries by storm, with human resource management (HRM) being no exception. With a variety of AI tools, businesses in several industries are reaping the rewards of innovative technology to optimize their HR operations."
+    publishedDateTime: 2023-12-12T02:03:00Z
+    webUrl: "https://thebobs.com/how-artificial-intelligence-is-transforming-hr-practices/"
+    type: article
+    provider:
+      name: The BOBs
+      domain: thebobs.com
     quality: 19
+  - title: "Dell Upgrades Storage Offerings As Businesses Shift To AI-First Operating Model"
+    excerpt: "As more businesses see the competitive need to shift data into AI-led processes, Dell’s AI-Ready Data Platform combines its infrastructure and performance upgrades to speed up how quickly customers can train large language models."
+    publishedDateTime: 2023-12-11T21:05:00Z
+    webUrl: "https://www.crn.com/news/software/dell-ai-storage"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 15
 
 secured: "P8fe9R/ZaH2bbfsYk74yOL9pOJCaNC2kjsmlra+G8wcgtDWdUxhLuDymNWxtshgdLljHLDN8up6vU6zXoux89lru4c6Wtg8Lz++TJw5SL4iTiYBn1hXECefidltAq5RXlQHi2P9wYgznMbmqF1Q1LOzxeTCljwQEvQu/DjtbQzj9AvNhSPwqMfdndi+yC0ln9TbuW45le4BNeHsR7d+dTvtVJwtEdDu7jUzcAAT+NDoPdyMaaU12ZehSttrmyGPeB7tneAheBnQ5G06UaAFLvHKZPq41g3VNJtEL9KK+qs8LM3wHSGhxdqSDLnigYC6ZSptZvQ2nMxB6CsIabmXX4riBO2/MtKbUW3f6rNjzvS0=;eYXlGboPDO4/fLyIKLTySw=="
 ---

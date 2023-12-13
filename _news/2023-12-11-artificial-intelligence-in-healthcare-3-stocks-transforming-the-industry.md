@@ -55,20 +55,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "How AI therapy is filling gaps in mental health care"
-    excerpt: "And for some users, they’ve been beneficial. 80 percent of people who used ChatGPT for mental health advice reported it was a good alternative for therapy, according to Business Wire. The majority of Americans don’t believe AI therapy will help more than it hurts, but that’s not stopping innovations in artificial intelligence and therapy."
-    publishedDateTime: 2023-12-11T02:36:00Z
-    webUrl: "https://www.wlrn.org/2023-12-10/how-ai-therapy-is-filling-gaps-in-mental-health-care"
-    type: article
-    provider:
-      name: WLRN
-      domain: wlrn.org
-    quality: 54
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/8a5e564/2147483647/strip/true/crop/1600x840+0+114/resize/1200x630!/quality/90/?url=https%3A%2F%2Fthe1a.org%2Fwp-content%2Fuploads%2Fsites%2F4%2F2023%2F12%2FGettyImages-1233936108-1600x1067.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Google Launches Generative Artificial Intelligence Models for Healthcare"
     excerpt: "Google’s newly introduced MedLM is a suite of foundation models designed for healthcare, with two generative AI tools built on the large language model Med-PaLM 2."
     publishedDateTime: 2023-12-13T14:01:00Z
@@ -125,6 +111,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "How AI therapy is filling gaps in mental health care"
+    excerpt: "And for some users, they’ve been beneficial. 80 percent of people who used ChatGPT for mental health advice reported it was a good alternative for therapy, according to Business Wire. The majority of Americans don’t believe AI therapy will help more than it hurts, but that’s not stopping innovations in artificial intelligence and therapy."
+    publishedDateTime: 2023-12-11T03:35:00Z
+    webUrl: "https://www.boisestatepublicradio.org/2023-12-10/how-ai-therapy-is-filling-gaps-in-mental-health-care"
+    type: article
+    provider:
+      name: Boise State Public Radio
+      domain: boisestatepublicradio.org
+    quality: 34
 
 secured: "yzOxanbmK6NfLqz+a/gvo3qqiCod4rH3LD3XuAeWFHL58Dup8Tp1ZapbmBOGGWNaxSneWEwYAhJrRQtCumbP3XjrIz7oVgcobfQTzFGYMYO34TfoiAcQmFpp38CiOqLru73HB0JJwUByynpa1f2/eMzWfGr1aNIpl4a4UaSX1w3ehfLjhN9SOB6De3KUx8aeKvAcIbX4QbRWElM5azL9y609bVazl1Pzrjz+0TRqCrd9opl2BAIvYoHATn8afdMNW0v8ebiqhrdaSWUxvtWHDU5v2deHN36BB807kxQ4UdY3Obzzd2Q9DY8xu0dwigc9apeWy8dG1bRFWyqvGta/0oHCfGjJChuBeWRZZMZFeLY=;vQHy2fP54wKuDrQ0idW1IA=="
 ---

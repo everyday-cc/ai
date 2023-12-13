@@ -25,15 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "Etihad Airways pioneers cutting-edge AI solutions to boost safety"
-    excerpt: "This initiative is part of a partnership with Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) to establish joint training programmes"
-    publishedDateTime: 2023-12-13T14:24:00Z
-    webUrl: "https://www.zawya.com/en/business/aviation/etihad-airways-pioneers-cutting-edge-ai-solutions-to-boost-safety-jeqc8irk"
+  - title: "BigBear.ai Expands its Relationship with AWS to Deliver AI-Driven Solutions"
+    excerpt: "BigBear.ai continues to expand its capabilities to serve the commercial enterprise sector and is proud to advance this new effort with AWS."
+    publishedDateTime: 2023-12-11T13:18:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/12/11/9931286.htm"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 19
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 52
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "House Resolution to Analyze Artificial Intelligence Heads to House"
+    excerpt: "Merski's team said he has previously advocated for steering AI away from nefarious actors and directing it toward being a beneficial, useful source for good in our society."
+    publishedDateTime: 2023-12-13T18:25:00Z
+    webUrl: "https://www.erienewsnow.com/story/50216333/house-resolution-to-analyze-artificial-intelligence-heads-to-house"
+    type: article
+    provider:
+      name: Erie News Now
+      domain: erienewsnow.com
+    quality: 37
+    images:
+      - url: "https://WICU.images.worldnow.com/images/25234973_G.jpeg?lastEditedDate=1696261550000"
+        width: 1280
+        height: 577
+        isCached: true
 
 secured: "Hype9XFCP8oYufAkp0hElpjp2RNaMhVdE1IQpxe5X0yyOt9o65gA1Tc01OYV3cmBFdCsTErgB/hXbVkyJw/o48+2eJG2WD50OrsAnRTWfBVBeY2pC+S+tiNF/rfaqNtdOBek2oOwN6fCXv4CHUk381HfzRZRxh0jsCu9Ya5vetZwLwgEeZj62NpAF5SWKltKltzNrUbbNb/49CsCh3s5ksdg/VxgLrzBgrdsOeizHLcv2wYpX3gbL6RGPt/B6d1SXcnQWqgFa7cDAwQjDvabQWEDGmChrTyaswfk0ZrhVk+MttjuNSKGh/+DgCMGfSZDpoq/v2VkVQzJzg3XmiU87caCdcOqBDa8d0KwAWZMf/DMa0KF80vMzpATnOjkH++8YxaysF//rV9ZYzoyeW9xMFTQd3RkxYxRwXrmTdhfn6Secaata9uCN5fm53Opb3b5iEjsezxrDFLH5U4XxlGgAzmGAXLwNKOyEHil1aFqGQHYWZAsgN0Q68NSKwhVbaZ2xRNGuHODJdHXCOCv675L8Q==;FqjLO4mY8BE1k1/puPaqRQ=="
 ---

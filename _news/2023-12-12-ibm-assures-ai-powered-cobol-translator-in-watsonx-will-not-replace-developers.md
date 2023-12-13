@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/101157-ai-based-cobol-translator-wat
 webUrl: "https://www.techspot.com/news/101157-ai-based-cobol-translator-watsonx-not-replace-developers.html"
 type: article
 quality: 82
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -58,6 +58,15 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "Dun & Bradstreet and IBM Collaborate to Bring Trustworthy Business Insights to Fuel Responsible Generative AI Solutions Powered by watsonx"
+    excerpt: "Dun & Bradstreet (NYSE: DNB), a leading global provider of business decisioning data and analytics, and IBM (NYSE: IBM), have announced a strategi"
+    publishedDateTime: 2023-12-13T18:11:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231213889530/en/Dun-Bradstreet-and-IBM-Collaborate-to-Bring-Trustworthy-Business-Insights-to-Fuel-Responsible-Generative-AI-Solutions-Powered-by-watsonx"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "7ZyTATpq6u0ownnaSzSlQwRATYloLn1Kbi6WLYpXdOrJqKG7KpHh+s0QDftku3lof4Fqwn51IISQBfzqseYzMach3ZnjP+s6uVXpQQUbethUWzRWJp2ftUGp5WjMHWcrDOLV3QdsKg4aeoVpSX69SpKMJDL142Qa1GxPwW21Q/zIl4Klq/vjuS753ilS+dBxZjITw9g48w++Mrku0cwe6+6Ni/WJ/S7HIv79+cqh5na5B7SQtdaixgmGGDAcexfwwTiIy4WmWfpUc0rq0SENh/wefryum5+hi1xzWisJDFKb5LDFNNZURExYt8F8YJqNEYmrhIyOomvob3xvphAuno4eILmRrMHCDueCMOI8bGyBVcnOCFATf0jpY/Z7B9ZGNlnMIXPxgdQvPDFeFKWxLiAeUp9vThl5vmkb4DWhuaE9WDJFFP3Dj45jYaEPylJ4irmXHxsG2tT5D2GP/GIQMSWDui/asczCJiNAb9/7z4R60IIRZCWl4bMjMJzbGY5RDnXttdk+0iQ/eCdUjmvYsQ==;5X/4I25nOA/UamFuwHitRQ=="
 ---

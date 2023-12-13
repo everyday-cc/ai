@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-11-14-pioneering-ai-innovation-from-rws-offers-near-human-quality-translation.md",
+      "title": "Pioneering AI innovation from RWS Offers Near Human-Quality Translation",
+      "excerpt": "As a linguistic AI platform, Language Weaver provides highly accurate, real-time translation across more than 3,500 language combinations. About RWS RWS Holdings plc is a unique, world-leading ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20231114970714/en/Pioneering-AI-innovation-from-RWS-Offers-Near-Human-Quality-Translation",
+      "originalUrl": "https://www.businesswire.com/news/home/20231114970714/en/Pioneering-AI-innovation-from-RWS-Offers-Near-Human-Quality-Translation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T09:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-14-messagepoint-adds-generative-ai-for-translation-and-plain-language-rewrites.md",
       "title": "Messagepoint Adds Generative AI for Translation and Plain Language Rewrites",
       "excerpt": "Messagepoint's Intelligent Content Hub offers a modular approach to content management that enables business users to manage content across all channels, whether it is used in composed communications or delivered to a digital endpoint via headless APIs. The solution enables the reuse of common content components and templates across communications.",
@@ -1210,40 +1244,6 @@
       "provider": {
         "name": "India Today",
         "domain": "indiatoday.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-romeo-miller-says-eminem-doesnt-get-the-recognition-he-deserves.md",
-      "title": "Romeo Miller Says Eminem “Doesn’t Get The Recognition He Deserves”",
-      "excerpt": "Romeo Miller recently received the Community Impact Award at the Future Stars Charity Gala, delivering a heartfelt speech connecting his success in entertainment to his success in sports. Real name Percy Miller first received a scholarship to hoop at USC,",
-      "sourceUrl": null,
-      "webUrl": "https://thesource.com/2023/10/31/romeo-miller-says-eminem-doesnt-get-the-recognition-he-deserves/",
-      "originalUrl": "https://thesource.com/2023/10/31/romeo-miller-says-eminem-doesnt-get-the-recognition-he-deserves/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T15:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Source Magazine",
-        "domain": "thesource.com",
         "images": null,
         "publishers": null,
         "authors": null

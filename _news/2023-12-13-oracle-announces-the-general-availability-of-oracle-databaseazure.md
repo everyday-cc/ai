@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/oracle-announces-t
 webUrl: "https://markets.businessinsider.com/news/stocks/oracle-announces-the-general-availability-of-oracle-database-azure-1032896879"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -37,6 +37,15 @@ related:
         width: 4898
         height: 3265
         isCached: true
+  - title: "Oracle Announces the General Availability of Oracle Database@Azure"
+    excerpt: "The first Oracle Database@Azure service is now generally available in the Microsoft Azure East US region. Oracle will"
+    publishedDateTime: 2023-12-13T19:06:00Z
+    webUrl: "https://www.datanami.com/this-just-in/oracle-announces-the-general-availability-of-oracle-databaseazure/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 34
 
 secured: "bZ9qFmMa2o4UfMBvqaqlcrTpQI/b0wD0DL40AoBsHMlYzgRJHV8FOftPGqfiuM6elfsa50WuRcdUJdhOIR2LE/Ta25+pRih3+Yh31dROdZ3MS2P75ND4D4xothRqDUKOGxuJe5gV/E8QqFDaAbGBw+QiR/KthmNtr6hZloEi1nO9ybbQl3Ls4qWBIxGnkwj2TL3u9qXXGkc3LyMu336jPQyIYg5SJ9msM6n+LjrOW8wGOOzG8L+Tua1rd5pYQrnmX1ErLNKkBGG8jEOkdfzOQzbiSJy3HuQc3Fv2JxVoRE9qqkYIBGWHuCcC1D4SIpEUGxJ8DwaQsTQvfaD8Z8PZFi3wmRlobKwu1540MUWyGJk=;sjiLu2W8JO6ByKu+E1+4Rw=="
 ---

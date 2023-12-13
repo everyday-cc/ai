@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/12/13/breaking-amd-is-not-the-fastest-gpu-heres-the-real-data/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -22,7 +22,7 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/12/13/breaking-amd-is-not-the-fastest-gpu-heres-the-real-data/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/12/13/breaking-amd-is-not-the-fastest-gpu-heres-the-real-data/amp/",
@@ -348,7 +348,7 @@
       "originalUrl": "https://au.investing.com/news/stock-market-news/us-discusses-ai-chip-sales-to-china-with-nvidia-says-raimondo-432SI-3060981",
       "featuredContent": null,
       "highlight": null,
-      "heat": 251,
+      "heat": 261,
       "tags": null,
       "images": [
         {
@@ -487,7 +487,7 @@
       "originalUrl": "https://www.technologyreview.com/2023/12/11/1084926/human-brain-cells-chip-organoid-speech-recognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -563,6 +563,50 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-11-amd-disrupts-ai-accelerator-market-with-new-mi300-offerings.md",
+      "title": "AMD Disrupts AI Accelerator Market with New MI300 Offerings",
+      "excerpt": "AMD made a substantial leap forward with the release of its new MI300A & MI300A accelerators. The accelerators are the first significant threat to NVIDIA’s dominance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/12/10/amd-disrupts-ai-accelerator-market-with-new-mi300-offerings/",
+      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/12/10/amd-disrupts-ai-accelerator-market-with-new-mi300-offerings/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/12/10/amd-disrupts-ai-accelerator-market-with-new-mi300-offerings/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/12/10/amd-disrupts-ai-accelerator-market-with-new-mi300-offerings/amp/",
+      "publishedDateTime": "2023-12-11T02:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -1326,58 +1370,6 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-is-amd-stock-a-buy-at-120-as-it-doubles-down-on-ai-focused-gpus.md",
-      "title": "Is AMD Stock A Buy At $120 As It Doubles Down On AI-Focused GPUs?",
-      "excerpt": "That being said, much of the surge in the stock appears to be coming from mounting interest in the company’s graphics processing business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greatspeculations/2023/11/29/is-amd-stock-a-buy-at-120-as-it-doubles-down-on-ai-focused-gpus/",
-      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2023/11/29/is-amd-stock-a-buy-at-120-as-it-doubles-down-on-ai-focused-gpus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6566ca7f3aaa52c9b9fb2b39/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1353,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2023/11/29/is-amd-stock-a-buy-at-120-as-it-doubles-down-on-ai-focused-gpus/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2023/11/29/is-amd-stock-a-buy-at-120-as-it-doubles-down-on-ai-focused-gpus/amp/",
-      "publishedDateTime": "2023-11-29T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

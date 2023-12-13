@@ -111,6 +111,15 @@ related:
         width: 512
         height: 342
         isCached: true
+  - title: "Artificial Intelligence in Fintech Market - Global Industry Analysis, Trends, Market Size, and Forecasts up to 2030"
+    excerpt: "The global artificial intelligence in fintech market was valued at USD 10.88 billion in 2022 and is expected to reach USD 40.76 billion in 2030, with a CAGR of 15.78% during the forecast period 2023-2030."
+    publishedDateTime: 2023-12-13T22:42:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/12/13/9933723.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "iPAIxaYNm9jJkypFB7JWXhWx7o4KuPU5L1x2IcX6s+CfdaFx2H49YFFtQ+YJ4kllBCoWVypnzF5aG/0Bg1gt9NfBdhPRBpl8xNDh1NbZGm4m2SjSnn3/I6ZvHv2BxxRHPLlU44OsXmUHThRA3+0+h0VdoTylRwyMuemm164+vbAqunqLXsB7lFzXBYqcAZ8FezZiSokRtk5FICS/fgO/W6X0M8Q0vqanYEulDc/Ws1RwnnOfPqGBPscVGHT8ZTBhcP+ihlZ2Heg+pL7aTSTrkVE9k+922/Txa2ez+GAjbxDBcEs3L/D2/OLFZg94+JU8KeLaKiP4sorpxFSjQrWl8+9R172mLbsyz/ltgOlQlxN2QrUJmxi8Nfw79ai99V5rjoSMSNw1aawQziQgS0QneHV13UW6ihgVwXeW7eH467vzfVgRrKAecC4C+UzHi7oms9NuC69u6M83ha/w8ODemoTrmsFWnkBltaTlJ8f65T/w0GtOd5j4KgvUx4Q/9s6MVlrfKeGbo2OAfvJla+aS3w==;47hUJkVW9C5S6CCiB7RyKA=="
 ---

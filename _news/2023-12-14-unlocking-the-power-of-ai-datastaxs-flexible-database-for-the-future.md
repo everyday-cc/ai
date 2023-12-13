@@ -34,7 +34,16 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
+  - title: "Oracle Announces the General Availability of Oracle Database@Azure"
+    excerpt: "The first Oracle Database@Azure service is now generally available in the Microsoft Azure East US region. Oracle will"
+    publishedDateTime: 2023-12-13T19:06:00Z
+    webUrl: "https://www.datanami.com/this-just-in/oracle-announces-the-general-availability-of-oracle-databaseazure/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 34
 
-secured: "SOYBwql/yDASKhb4uSBRP0dnVDZx4Y+Ytv8CEew2NugaM+/EbYmEG0c+bvA938QlwnqhbEUcWi8qJP9V0vhLEssfcWVETn6duSVzWv9Xk4mcCrus1YjrbVxIxJ87WiaXwtYaD6E2RoS9mkZD+miutxp2j4Eh326pk9VBqAPYXVUK74WShJRCy6RAxl+Toycu6h0rW+BERM1JhZS7RK/YcxoGXwh+2fkhmV4VAgs7eZDvZ7nu1d0m/48IBVdLmaavhKLVWpaSHRwc/2jkA2pa4X0Z/NiSBl0SvKYcg78gxQWUmVF6qX922W/CJBaaBCfAMlWbyozOvrIRs32tKpE9bj5mBt5WTwiqEk0bOjElyS8=;u4kZL9Sj9pHxC9RWh6vsHQ=="
+secured: "ITtUbtEGKzZ1b/XVvIe9b0+T9NCkPI/UL0tP5jVh77R5jeIiiZh1KpjntqJ0e2fGyxWNKkACcbnmPAK3gJtqxgeGxVk8Yz420vAk218aq4AfIFLXhf9w/ICj3iDfenmCLTjnMbgA81akQ8ug+PiKgkEVWhhXRW5KovR5PKupOa5Ew7ptsQpUXzeB7yXy8FINr5bmZe3gkep8pFa+xCb90xdnixhaFwmj2JOUi2WQs5X33bM8KZlFgbXeKK2j4OsKcEwnjuqRL0eAibBUxV2mJ/qCU0ZzCN6NA76hOMW2DuFtnA9ThMc4DwVx/yLf/1YKCQHc8ZEZJrlFLeykuMeBgSlBZdsj2PFHMvnOuGraJPO2bvOlhwFNumRPvd+/ElKFhyPVISOeCIPKMvkAT5+Hesxc0gA/py9kJPKJeWAnZ96lqtkirhsRkWAbJmFA40P+zCkXX1Dv07PonNHjO5Bw3EJF4T+vUXbANpC2Udh0vP3wHNDxYtbA+NtNbvh4HFhVLeatf8CcTKyLZL6tEzjKLQ==;rqIdnyfO/X2pP25plgIAJw=="
 ---
 

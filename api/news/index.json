@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/12/13/breaking-amd-is-not-the-fastest-gpu-heres-the-real-data/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -22,7 +22,7 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/12/13/breaking-amd-is-not-the-fastest-gpu-heres-the-real-data/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/12/13/breaking-amd-is-not-the-fastest-gpu-heres-the-real-data/amp/",
@@ -106,7 +106,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/create-summaries-of-recordings-using-generative-ai-with-amazon-bedrock-and-amazon-transcribe/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 170,
+      "heat": 180,
       "tags": null,
       "images": [
         {
@@ -211,7 +211,7 @@
       "originalUrl": "https://www.wsj.com/livecoverage/fed-meeting-fomc-interest-rate-december-2023/card/heard-on-the-street-tesla-s-recall-highlights-the-limits-of-full-self-driving-tech-5t1wARKk5hZZYznApkee",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -294,6 +294,58 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-14-new-research-insights-on-artificial-intelligence-from-americans-age-55.md",
+      "title": "New Research Insights on Artificial Intelligence from Americans Age 55+",
+      "excerpt": "EVANSTON, Ill., Dec. 13, 2023 /PRNewswire/ -- The majority of today's Americans age 55+ have positive views on artificial intelligence, according to new findings from Mather Institute, the research area of Mather, a not-for-profit organization dedicated to ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/new-research-insights-on-artificial-intelligence-from-americans-age-55-1032898661",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/new-research-insights-on-artificial-intelligence-from-americans-age-55-1032898661",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2300242/Mather_LifeWays.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-13T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
         "AI"
       ]
     },
@@ -546,7 +598,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/oracle-announces-the-general-availability-of-oracle-database-azure-1032896879",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": null,
       "content": "",
@@ -640,7 +692,7 @@
       "originalUrl": "https://en.antaranews.com/news/301002/indonesia-to-regulate-ai-balancing-innovation-and-ethics",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -947,57 +999,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-hyperplane-wants-to-bring-ai-to-banks.md",
-      "title": "Hyperplane wants to bring AI to banks",
-      "excerpt": "Hyperplane, a San Francisco-based startup that is building foundation models to help banks predict customer behavior, is coming out of stealth today by",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/12/13/hyperplane-wants-to-bring-ai-to-banks/",
-      "originalUrl": "https://techcrunch.com/2023/12/13/hyperplane-wants-to-bring-ai-to-banks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/12/GettyImages-1688426751.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/12/13/hyperplane-wants-to-bring-ai-to-banks/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/13/hyperplane-wants-to-bring-ai-to-banks/amp/",
-      "publishedDateTime": "2023-12-13T08:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

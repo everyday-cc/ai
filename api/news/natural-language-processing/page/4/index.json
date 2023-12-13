@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-10-31-romeo-miller-says-eminem-doesnt-get-the-recognition-he-deserves.md",
+      "title": "Romeo Miller Says Eminem “Doesn’t Get The Recognition He Deserves”",
+      "excerpt": "Romeo Miller recently received the Community Impact Award at the Future Stars Charity Gala, delivering a heartfelt speech connecting his success in entertainment to his success in sports. Real name Percy Miller first received a scholarship to hoop at USC,",
+      "sourceUrl": null,
+      "webUrl": "https://thesource.com/2023/10/31/romeo-miller-says-eminem-doesnt-get-the-recognition-he-deserves/",
+      "originalUrl": "https://thesource.com/2023/10/31/romeo-miller-says-eminem-doesnt-get-the-recognition-he-deserves/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T15:06:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Source Magazine",
+        "domain": "thesource.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-31-verses-ai-inc-verses-ai-announces-first-genius-beta-partner-nalantis-a-next-gen-language-technology-partner.md",
       "title": "VERSES AI Inc.: VERSES AI Announces First Genius Beta Partner: NALANTIS, a Next-Gen Language Technology Partner",
       "excerpt": "VERSES AI Inc. (NEO: VERS) (OTCQB:VRSSF) (\"VERSES' or the \"Company\"), a cognitive computing company specializing in biologically inspired",
@@ -1331,49 +1365,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-natural-language-processing-apac.md",
-      "title": "Natural Language Processing - APAC",
-      "excerpt": "The market size in the Natural Language Processing market is projected to reach 0.00 in 2023. The market size is expected to show an annual growth rate (CAGR 2023-0) of 0, resulting in a market ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/apac",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/apac",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T00:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

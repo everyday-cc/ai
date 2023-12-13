@@ -39,6 +39,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Tesla issues recall for almost two million of its cars due to faulty self-driving tech"
+    excerpt: "Self-driving vehicles will remain in the world of science fiction as Tesla is recalling two million of its cars to prevent drivers from misusing the Autopilot function."
+    publishedDateTime: 2023-12-13T20:20:00Z
+    webUrl: "https://www.techradar.com/vehicle-tech/tesla-issues-recall-for-almost-two-million-of-its-cars-due-to-faulty-self-driving-tech"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 41
   - title: "Tesla pumps the brakes on self-driving, recalls its vehicles"
     excerpt: "To limit the use of its self-driving technology, Tesla has recalled almost all of its 2 million cars in the U.S."
     publishedDateTime: 2023-12-13T17:10:00Z

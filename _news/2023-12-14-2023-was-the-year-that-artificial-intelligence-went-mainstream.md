@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Internet traffic soars in 2023, with generative AI a standout trend: Report"
+    excerpt: "In its annual overview of online trends, Cloudflare reports Google remains the most popular site, while OpenAI takes the lead in generative AI services."
+    publishedDateTime: 2023-12-13T18:11:00Z
+    webUrl: "https://www.computerworld.com/article/3711722/internet-traffic-soars-in-2023-with-generative-ai-a-standout-trend-report.html"
+    ampWebUrl: "https://www.computerworld.com/article/3711722/internet-traffic-soars-in-2023-with-generative-ai-a-standout-trend-report.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3711722/internet-traffic-soars-in-2023-with-generative-ai-a-standout-trend-report.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 55
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/10/17/12/internet1-100649339-large-100947272-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 966
+        isCached: true
   - title: "Windows 12 and the coming AI chip war"
     excerpt: "A Windows release planned for next year may be the catalyst for a new wave of desktop chips with AI processing capabilities."
     publishedDateTime: 2023-12-11T06:19:00Z
@@ -81,6 +97,6 @@ related:
         height: 900
         isCached: true
 
-secured: "4iGpvewLq+kAfq/mOJLD7AwGWNyMy3CKYPTB+LydCEdaaed7uq06nUOtNiEyOXSyyHZvCsEOE8a8H2jCQ0IAsZQ6kCQ74uc7BeZUHxEjVmAXdkIoOw0R520vc+qVrUKY/SIcXjEbTSE1mN/KNFFxjNLtygMiY1NqNBDPJAa/2fUSvwv+Ai4d+IptlTEljQ5WypoAN6ten2xoF6dJWG8ctIxjJLzoW+UqrkSwYcN8iT1JTgOo2YtmVorTjHP3vgLuyis9JEQke6itACOulv8kjfgmj/4o963DsyzGKcx64xWTI1uPpuK2fxOtrKkw8Huj3NlJ/3oynmGcT1cn4cqcyawUFGbHW5RfrnC1Y2uJAYs=;WQ1XZSsTRl/zlyEF7PexoA=="
+secured: "JZvWkq1iDiyqQX68mtwo9a5n6/HjXPz3IGAo5bNSduAebqaOJID4lD3xwwJq2Jkrc7/tGv3AGYeTUDBCTLXZ7MSP7SZaD4KkHh19S0X4j5doTu86AMqco8WHo/ALANepNF/GQJcOuWjxO5/g2FQXZ9bszzfESt37OjbnUqurFu/wZAviltDSuUoWdaf2si+NiPDfITInsdYEN0Forjui6Wt7uA5iOhqBGEGo+JOBguLHykcbtW1X9FqQFCIC0rkNGsTjgzlmGXTQlA34jhtrpRQswryDcdkUoD12emXUcEf2EK5J3QlkLuT2T5yWY2fC8a5fUu4jjudxkpZ3yB/jnz9yurOB3N/D4FDDvmBkHi5ygRE+FBB9XOda22Fjvz/nbJvrZ+BD9tli9Cu289/3rbYaostPxafmbIGAVGekjVYxl4P0sO2F5Q6waxtN3huj6QZf4SOm21KtAFGrwVgy1+drFxgcqdpqe2tIWplEXpfUBSNx19n/fudWOSnauZ7OX7b695vmiKuwDYG6lYnVrA==;JPoNHYCUTC8MUDSQpo74eg=="
 ---
 

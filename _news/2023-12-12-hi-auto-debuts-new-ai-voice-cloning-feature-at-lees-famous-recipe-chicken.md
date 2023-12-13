@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/2023/12/12/9932187.htm"
 webUrl: "https://www.tmcnet.com/usubmit/2023/12/12/9932187.htm"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - Natural Language Processing
   - AI
-
-related:
-  - title: "Hi Auto Launches AI Voice-Cloning Feature"
-    excerpt: "“Lee’s has been blessed to partner with Hi Auto since December of 2020, utilizing their AI voice recognition technology to help our employees and restaurants through the pandemic. We look forward to implementing their latest innovation to make our ..."
-    publishedDateTime: 2023-12-12T00:00:00Z
-    webUrl: "https://www.qsrmagazine.com/operations/technology/hi-auto-launches-ai-voice-cloning-feature/"
-    type: article
-    provider:
-      name: QSR magazine
-      domain: qsrmagazine.com
-    quality: 39
-    images:
-      - url: "https://www.qsrmagazine.com/wp-content/uploads/2023/09/QSR_VAIO-300x205.jpg"
-        width: 300
-        height: 205
-        isCached: true
 
 secured: "rpljlS8GKQlGUla6sO16PBv7qDe1ac0ZV2lHkHkWxVpf1TSh1D1DMigXsQ7xNTpYiUQ6hIG6K2vxvcy5T9eSrqlE7f2TtGMrgo+HJakPCRFHmQMHz5eJ2QKpsfQd6Av2L2hG6BRDq9BrhJXJ7VUNyPlpHbSbNmk7bJRpTnr047WoYEZOR2SIYpgp6EtlVB3Qu6GW9JFz/JwjdV1oeNpmGIEnlYWjRJFIPn7lfBOCWjbN89W012HBwaJ8nDvwQXHuuwgk2q4wpsD2aMsGKGJ2PAFM5VLxywheFL1+acyY3kf5eVSIzbbzmfTvQi77AdQISPHTwHD6Lx/IaAVpkIeY89dOhKqQhmK/Ijc6P1//xkiqkBDTaTrAh48cS9tBuk1aoZLI4g9ft7wQ8THxigeVPhGTq1cB5NAebvPljJyur19zwKvC+P5Wm0H8mpu560n+9fVH0kGn5reDVBjl8EahVAcP6SVRkWINVBTQXEgUsdlCdXa6gFIbBKRyzy7Fy1kwLG6bwdKpO1ri1TsuXFme+Q==;xJH62UrPHew6yoolMnrSNg=="
 ---

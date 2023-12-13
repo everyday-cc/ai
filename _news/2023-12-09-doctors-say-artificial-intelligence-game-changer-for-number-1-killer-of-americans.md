@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "New Research Insights on Artificial Intelligence from Americans Age 55+"
+    excerpt: "EVANSTON, Ill., Dec. 13, 2023 /PRNewswire/ -- The majority of today's Americans age 55+ have positive views on artificial intelligence, according to new findings from Mather Institute, the research area of Mather, a not-for-profit organization dedicated to ..."
+    publishedDateTime: 2023-12-13T16:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/new-research-insights-on-artificial-intelligence-from-americans-age-55-1032898661"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://mma.prnewswire.com/media/2300242/Mather_LifeWays.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Tech, AI and America's Role in the World"
     excerpt: "Funding for Ukraine and regulatory response to Big Tech and AI are at the center of the negotiating table to push partisan agendas forward. Sen. Amy Klobuchar weighs how a divided U.S. can still be a world leader on these issues and more."
     publishedDateTime: 2023-12-13T03:14:00Z
@@ -37,34 +51,6 @@ related:
       - url: "http://images.wsj.net/im-899079?width=1280&height=720"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Will Artificial Intelligence rule the world?"
-    excerpt: "Artificial Intelligence, a reality that used to exist only in the realms of science fiction, is today at the center stage of our day-to-day conversations. You most definitely are in"
-    publishedDateTime: 2023-12-12T05:59:00Z
-    webUrl: "https://www.thecable.ng/will-artificial-intelligence-rule-the-world"
-    type: article
-    provider:
-      name: TheCable
-      domain: thecable.ng
-    quality: 41
-    images:
-      - url: "https://f5p3e9e4.stackpathcdn.com/wp-content/uploads/2022/01/Olufemi-Ariyo-2.jpg"
-        width: 1661
-        height: 962
-        isCached: true
-  - title: "North America Artificial Intelligence in Healthcare Market to hit USD 114.2 Billion by 2033, Says We Market Research"
-    excerpt: "As per the most recent analysis conducted by We Market Research, the North America Artificial Intelligence in Healthcare Market is poised to achieve a valuation of $114.2 billion by the conclusion of 2033."
-    publishedDateTime: 2023-12-11T10:49:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/12/11/9931143.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 31
-    images:
-      - url: "https://mma.prnewswire.com/media/2267296/We_Market_Research_Logo.jpg"
-        width: 400
-        height: 298
         isCached: true
 
 secured: "xzPjFqUqIbMIfQCyBGbtjX+iFfuYhgTCmxUcRiNDMfD6QF/MX4ZT6yQwAjDasV0jbDae+HCQl7cKqykBAONAtnThLFUBnRH21FehMw43ih0TGQli0eJXkp2tYc56+bAroPIhJkmF9iH79ZvWWMKyg7dCmZGh3eQ/jsTFqo34D170O9Vnx5lcSvJoE+9vdLyKkPBXE9LLH3RKDRnzHT7f9riV3VCsb2lxlVGJC3s7csuScu5dnjf1l7um1ULESrH6eu9CuSDQ2jTAOv3Fm3e84qLfFgFlvdPzQcSm6hEgUrEXt/F07k1xfkABEjpR0coSVEos35p7hXBapj1YsTzTXKG3WT0/Gswd8PM52Sa2tYD7NNbVosKHBvpCLOUeIY5ZzaD3rc7wT2mRpZ5NvHU0/EILdugU/JumgZDLCvo9yd+D5R2guA43w/3fzSnIb/hdpYqtmrvlIi94gCB87LycVOXzCgI2E9h3QpBQYlENs6uXT7ADVAwvUJNzU7hZ9OqMf0m0l5cSWqX8DxF8Qewm8g==;T9wEYSvKIR6h9clg14Y6pw=="

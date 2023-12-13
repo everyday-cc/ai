@@ -199,6 +199,15 @@ related:
       name: Cbonds
       domain: cbonds.com
     quality: 34
+  - title: "Nvidia talks to U.S. about its new AI chips for China"
+    excerpt: "\"They want to do the right thing,\" the Commerce secretary said of Nvidia. \"Obviously they want to sell as many chips as possible.\""
+    publishedDateTime: 2023-12-12T14:20:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/12/12/nvidia-talks-to-us-about-its-new-ai-chips-for-ch.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 34
   - title: "Exclusive-After US curbs, Tencent and small chip designers chase Nvidia's China crown"
     excerpt: "Chinese chip designers including Tencent Holdings are aggressively pitching their AI chips as alternatives to Nvidia's, hoping U.S. export restrictions will prompt clients to switch, said four people familiar with such discussions."
     publishedDateTime: 2023-12-11T11:40:00Z

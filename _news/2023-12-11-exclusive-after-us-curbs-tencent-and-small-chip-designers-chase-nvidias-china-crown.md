@@ -210,6 +210,15 @@ related:
       name: Cbonds
       domain: cbonds.com
     quality: 34
+  - title: "Nvidia talks to U.S. about its new AI chips for China"
+    excerpt: "\"They want to do the right thing,\" the Commerce secretary said of Nvidia. \"Obviously they want to sell as many chips as possible.\""
+    publishedDateTime: 2023-12-12T14:20:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/12/12/nvidia-talks-to-us-about-its-new-ai-chips-for-ch.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 34
   - title: "Beyond The Likes of Nvidia Corp and AMD, Chip Market Troubles Pose Threats After AI Euphoria"
     excerpt: "Philadelphia Stock Exchange Semiconductor Index laggard Texas Instruments Inc., down 5.6% this year, has one of the broadest ranges of customers and products across the chip business. It said the key industrial market got weaker in the third quarter, contracting about 5%. Revenue related to communications components dropped more than 10%."
     publishedDateTime: 2023-12-11T13:13:00Z

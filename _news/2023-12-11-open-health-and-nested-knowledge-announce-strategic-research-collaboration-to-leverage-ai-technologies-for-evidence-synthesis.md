@@ -50,15 +50,6 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 39
-  - title: "Dell Upgrades Storage Offerings As Businesses Shift To AI-First Operating Model"
-    excerpt: "As more businesses see the competitive need to shift data into AI-led processes, Dell’s AI-Ready Data Platform combines its infrastructure and performance upgrades to speed up how quickly customers can train large language models."
-    publishedDateTime: 2023-12-11T21:05:00Z
-    webUrl: "https://www.crn.com/news/software/dell-ai-storage"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 15
 
 secured: "sosTdYhfedUDu6galYfdrQkSlSy7xkvmroOE92Mc/TZtGmigCwtfuMcktrwKlVWnZOHrnhXk7n2d/d7FXJUU0wFQWMXXW8wYXLkBKpMHU/2/Vt0Tl74SspDoYZXKdU7WyanrxSrAvpoeHl1OtYsfT1UDWNkI74ZzCbVkPPO5k1GFmFzxbUXSanvNr1yiBFMVJqODFb8ExAL5VeYESxgSEW4cFR9qwg3De4vTSQXbprcTcUrkCZsXFXqgrQXaZFgSeIB1Ya2MG5zqhLGEszl4/PBTlrqb4RCGMljL9+Lt4sENG9XIHpvMgAWXgQW9ExirdvdGJmAzOReevhxcmLHiAfP3FpkHKPIx32wFsNMcNlg=;Qq9Xf20g0XojGDPEJcPXLw=="
 ---

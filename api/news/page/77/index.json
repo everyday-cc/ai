@@ -2,6 +2,300 @@
   "page": 77,
   "value": [
     {
+      "path": "_news/2023-10-12-government-asks-schools-to-include-skilling-courses-on-drone-3d-printing-robotics-ai.md",
+      "title": "Government Asks Schools To Include Skilling Courses on Drone, 3D Printing, Robotics, AI",
+      "excerpt": "The initiative is in line with the Pradhan Mantri Kaushal Vikas Yojana 4.0, that emphasises on the need for promoting skill development in schools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/education/government-asks-schools-to-include-skilling-courses-on-drone-3d-printing-robotics-ai-4474538",
+      "originalUrl": "https://www.ndtv.com/education/government-asks-schools-to-include-skilling-courses-on-drone-3d-printing-robotics-ai-4474538",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2022-07/atiapkug_cbse-students-generic_625x300_22_July_22.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/education/government-asks-schools-to-include-skilling-courses-on-drone-3d-printing-robotics-ai-4474538/amp/1",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/education/government-asks-schools-to-include-skilling-courses-on-drone-3d-printing-robotics-ai-4474538/amp/1",
+      "publishedDateTime": "2023-10-12T10:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-12-in-a-new-era-of-deepfakes-ai-makes-real-news-anchors-report-fake-stories.md",
+      "title": "In A New Era Of Deepfakes, AI Makes Real News Anchors Report Fake Stories",
+      "excerpt": "“Videos of news anchors is a compelling vessel for delivering disinformation,” said Hany Farid, a professor at UC Berkeley’s School of Information who has testified before Congress on deepfakes. “In many cases, the anchors are known to viewers and trusted, and even if not, the general news format is familiar and therefore more trusted.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alexandralevine/2023/10/12/in-a-new-era-of-deepfakes-ai-makes-real-news-anchors-report-fake-stories/",
+      "originalUrl": "https://www.forbes.com/sites/alexandralevine/2023/10/12/in-a-new-era-of-deepfakes-ai-makes-real-news-anchors-report-fake-stories/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6527443d30644766927a21cd/0x0.jpg?format=jpg&crop=3690,2073,x0,y0,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-12T10:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-12-australians-look-set-to-vote-against-indigenous-voice-in-parliament.md",
+      "title": "Australians look set to vote against Indigenous voice in parliament",
+      "excerpt": "The yes campaign has also been battered by the Blak sovereignty movement, which has led the progressive no case, arguing the voice would be powerless while pushing for truth and treaty to come ahead of constitutional recognition. The no campaign has leaned ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/australia-news/2023/oct/12/australians-look-set-to-vote-against-indigenous-voice-in-parliament",
+      "originalUrl": "https://www.theguardian.com/australia-news/2023/oct/12/australians-look-set-to-vote-against-indigenous-voice-in-parliament",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 469,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/1528835ad768cc625de3588f2473d6bac9ddfe91/0_66_5472_3283/master/5472.jpg?width=620&quality=85&auto=format&fit=max&s=8016fe9065cb533aa7d9f45f9133e738",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/australia-news/2023/oct/12/australians-look-set-to-vote-against-indigenous-voice-in-parliament",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/oct/12/australians-look-set-to-vote-against-indigenous-voice-in-parliament",
+      "publishedDateTime": "2023-10-12T09:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-12-godfather-of-ai-geoffrey-hinton-named-advisory-board-member-for-startup-vayu-robotics.md",
+      "title": "Godfather of AI Geoffrey Hinton named advisory board member for startup Vayu Robotics",
+      "excerpt": "British-Canadian computer scientist, Geoffrey Hinton, who is known as the ‘Godfather of AI’ has joined the advisory board of robotics startup, Vayu Robotics. Hinton, who worked part-time with Google Brain as a VP and Engineering Fellow for over a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/sci-tech/technology/godfather-of-ai-geoffrey-hinton-named-advisory-board-member-for-startup-vayu-robotics/article67411253.ece",
+      "originalUrl": "https://www.thehindu.com/sci-tech/technology/godfather-of-ai-geoffrey-hinton-named-advisory-board-member-for-startup-vayu-robotics/article67411253.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://th-i.thgim.com/public/incoming/y8vraf/article67022092.ece/alternates/FREE_320/2023-06-28T005416Z_2054233180_RC21P1AHDHHZ_RTRMADP_3_DATABRICKS-AI.JPG",
+          "width": 320,
+          "height": 213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/godfather-of-ai-geoffrey-hinton-named-advisory-board-member-for-startup-vayu-robotics/article67411253.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/godfather-of-ai-geoffrey-hinton-named-advisory-board-member-for-startup-vayu-robotics/article67411253.ece/amp/",
+      "publishedDateTime": "2023-10-12T09:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-12-understanding-the-different-types-and-kinds-of-artificial-intelligence.md",
+      "title": "Understanding the different types and kinds of Artificial Intelligence",
+      "excerpt": "Early iterations of the AI applications we interact with most today were built on traditional machine learning models. These models rely on learning algorithms that are developed and maintained by data scientists. In other words, traditional machine learning models need human intervention to process",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/understanding-the-different-types-and-kinds-of-artificial-intelligence/",
+      "originalUrl": "https://www.ibm.com/blog/understanding-the-different-types-and-kinds-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/10/Understanding-the-different-types-and-kinds-of-Artificial-Intelligence.png",
+          "width": 2400,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-12T09:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-12-chatgpt-esque-ai-sales-marketing-platform-for-websites-customer-lead-generation.md",
+      "title": "ChatGPT-esque AI Sales, Marketing Platform For Websites Customer Lead Generation",
+      "excerpt": "Hundreds of Customers AI introduces a revolutionary sales and marketing service, leveraging advanced artificial intelligence to triple business",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/chatgpt-esque-ai-sales-marketing-platform-for-websites-customer-lead-generation-1032679768",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/chatgpt-esque-ai-sales-marketing-platform-for-websites-customer-lead-generation-1032679768",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/mmstudio-images/gallery/featured/pr-chatgpt-esque-ai-sal-1696430204.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-12T08:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2023-10-12-achronix-announces-fpga-powered-accelerated-automatic-speech-recognition-solution.md",
       "title": "Achronix Announces FPGA-Powered Accelerated Automatic Speech Recognition Solution",
       "excerpt": "The solution is powered by a VectorPath accelerator card featuring a Speedster7t FPGA running Myrtle.ai’s Achronix-FPGA-optimized ASR IP — delivering industry-leading, real-time, ultra-low latency speech-to-text capabilities. A single card in a server ...",
@@ -872,311 +1166,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-12-generative-ai-is-as-transformative-as-the-telephone-bank-of-america-says-10-stock-etf-trading-ideas.md",
-      "title": "Generative AI Is As Transformative As The Telephone, Bank Of America Says: 10 Stock, ETF Trading Ideas",
-      "excerpt": "Artificial intelligence has been on the minds of companies and investors throughout 2023 as one of the top trending items. Bank of America noted the impact artificial intelligence can have on several sectors going forward and made the claim it could be highly disruptive.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/generative-ai-is-as-transformative-as-the-telephone-bank-of-america-says-10-stock-etf-trading-ideas-1032697711",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/generative-ai-is-as-transformative-as-the-telephone-bank-of-america-says-10-stock-etf-trading-ideas-1032697711",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/10/11/shutterstock_2350706053.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T17:47:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-10-12-fearing-ai-fanfiction-writers-lock-their-accounts.md",
-      "title": "Fearing AI, fanfiction writers lock their accounts",
-      "excerpt": "Like many AI models, the program was trained using data scraped from ... If our stats and comments plummet, I guarantee writing is going to start going down as well.” Many writers are also restricting their accounts to avoid the influx of bot comments ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/10/11/ao3-ai-fears-lock-account-kinktober-fanfiction/",
-      "originalUrl": "https://techcrunch.com/2023/10/11/ao3-ai-fears-lock-account-kinktober-fanfiction/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/08/getty-keys-red-background-locks.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/10/11/ao3-ai-fears-lock-account-kinktober-fanfiction/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/11/ao3-ai-fears-lock-account-kinktober-fanfiction/amp/",
-      "publishedDateTime": "2023-10-11T17:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-10-12-delivering-5-key-outcomes-with-computer-vision-at-the-edge.md",
-      "title": "Delivering 5 Key Outcomes With Computer Vision At The Edge",
-      "excerpt": "Learn how Computer Vision unlocks actionable insights at the edge to produce the organizational outcomes you want.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/delltechnologies/2023/10/11/delivering-5-key-outcomes-with-computer-vision-at-the-edge/",
-      "originalUrl": "https://www.forbes.com/sites/delltechnologies/2023/10/11/delivering-5-key-outcomes-with-computer-vision-at-the-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6526cba46958edf4ded58296/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/delltechnologies/2023/10/11/delivering-5-key-outcomes-with-computer-vision-at-the-edge/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/delltechnologies/2023/10/11/delivering-5-key-outcomes-with-computer-vision-at-the-edge/amp/",
-      "publishedDateTime": "2023-10-11T17:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-12-pixel-8-pro-review-when-ai-just-works-everyone-wins.md",
-      "title": "Pixel 8 Pro Review: When AI Just Works, Everyone Wins",
-      "excerpt": "The software value comes from the aforementioned AI apps. Some are picking up significant updates from the 7 Pro to the 8 Pro, others are debuting with the Pixel 8 Pro, and others will be “available later” (in other words, they’re not ready yet so you all have to wait).",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ewanspence/2023/10/11/google-pixel-8-pro-android-14-review-ai-specs-upgrade/",
-      "originalUrl": "https://www.forbes.com/sites/ewanspence/2023/10/11/google-pixel-8-pro-android-14-review-ai-specs-upgrade/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6526db9ba8afc579c64e54c8/0x0.jpg?format=jpg&crop=896,504,x43,y33,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ewanspence/2023/10/11/google-pixel-8-pro-android-14-review-ai-specs-upgrade/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ewanspence/2023/10/11/google-pixel-8-pro-android-14-review-ai-specs-upgrade/amp/",
-      "publishedDateTime": "2023-10-11T17:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-12-ai-bias-poses-danger-to-the-financial-sector-bank-of-england-warns.md",
-      "title": "AI bias poses danger to the financial sector, Bank of England warns",
-      "excerpt": "A new report from a financial technology expert at the Bank of England says that inherent biases in AI systems makes it dangerous to entrust them with too much decision-making at present.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3708748/ai-bias-poses-danger-to-the-financial-sector-bank-of-england-warns.html",
-      "originalUrl": "https://www.computerworld.com/article/3708748/ai-bias-poses-danger-to-the-financial-sector-bank-of-england-warns.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/10/ai-artificial-intelligence-bank-financial-sector-100947057-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3708748/ai-bias-poses-danger-to-the-financial-sector-bank-of-england-warns.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3708748/ai-bias-poses-danger-to-the-financial-sector-bank-of-england-warns.amp.html",
-      "publishedDateTime": "2023-10-11T17:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-nvidias-plans-for-ai-gpus-could-upend-pc-gaming-forever.md",
-      "title": "Nvidia’s plans for AI GPUs could upend PC gaming forever",
-      "excerpt": "not in the overall GPU picture – well, Nvidia will just stop making them. Or that’s how it feels like things could pan out, given the focus on AI, with a yearly release cadence – if it ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/computing/gpu/nvidias-plans-for-ai-gpus-could-upend-pc-gaming-forever",
-      "originalUrl": "https://www.techradar.com/computing/gpu/nvidias-plans-for-ai-gpus-could-upend-pc-gaming-forever",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/ZqEx6xXrMoLaCqGQs2YgJN-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T16:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

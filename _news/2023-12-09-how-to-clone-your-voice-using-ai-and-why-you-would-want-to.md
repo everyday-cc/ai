@@ -7,7 +7,7 @@ originalUrl: "https://www.geeky-gadgets.com/cloning-voices-using-ai/"
 webUrl: "https://www.geeky-gadgets.com/cloning-voices-using-ai/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,35 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Hyperplane wants to bring AI to banks"
-    excerpt: "Hyperplane, a San Francisco-based startup that is building foundation models to help banks predict customer behavior, is coming out of stealth today by"
-    publishedDateTime: 2023-12-13T08:01:00Z
-    webUrl: "https://techcrunch.com/2023/12/13/hyperplane-wants-to-bring-ai-to-banks/"
-    ampWebUrl: "https://techcrunch.com/2023/12/13/hyperplane-wants-to-bring-ai-to-banks/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/13/hyperplane-wants-to-bring-ai-to-banks/amp/"
+  - title: "Hi Auto Launches AI Voice-Cloning Feature"
+    excerpt: "“Lee’s has been blessed to partner with Hi Auto since December of 2020, utilizing their AI voice recognition technology to help our employees and restaurants through the pandemic. We look forward to implementing their latest innovation to make our ..."
+    publishedDateTime: 2023-12-12T00:00:00Z
+    webUrl: "https://www.qsrmagazine.com/operations/technology/hi-auto-launches-ai-voice-cloning-feature/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: QSR magazine
+      domain: qsrmagazine.com
+    quality: 39
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/12/GettyImages-1688426751.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "AI in Action: How to bring real-time decision-making to AI/ML"
-    excerpt: "Watch this online event, as Redpanda explores the shift from batch analytics to real-time decision-making for AI/ML use cases. They start by fostering a broad understanding of how to train and score a real-time model on streaming data, in contrast with ..."
-    publishedDateTime: 2023-12-13T00:40:00Z
-    webUrl: "https://techcrunch.com/sponsor/redpanda-organization/ai-in-action-how-to-bring-real-time-decision-making-to-ai-ml/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 84
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight.png?resize=1200,486"
-        width: 1200
-        height: 486
+      - url: "https://www.qsrmagazine.com/wp-content/uploads/2023/09/QSR_VAIO-300x205.jpg"
+        width: 300
+        height: 205
         isCached: true
   - title: "5 Things to Consider When Bringing Speech AI Into Your Business"
     excerpt: "Imagine a world where mundane tasks, consuming 60-70% of our work hours, vanish into thin air. According to a McKinsey report, thanks to its evolving grasp of natural language, Generative AI has the potential to make this dream a reality quite soon."

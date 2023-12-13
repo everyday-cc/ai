@@ -18,89 +18,142 @@ topics:
   - AI
 
 related:
-  - title: "Meta releases open-source tools for AI safety"
-    excerpt: "Meta has introduced Purple Llama, a project dedicated to creating open-source tools for developers to evaluate and boost the trustworthiness and safety of generative AI models before they are used publicly."
-    publishedDateTime: 2023-12-08T20:35:00Z
-    webUrl: "https://www.infoworld.com/article/3711284/meta-releases-open-source-tools-for-ai-safety.html"
-    ampWebUrl: "https://www.infoworld.com/article/3711284/meta-releases-open-source-tools-for-ai-safety.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711284/meta-releases-open-source-tools-for-ai-safety.amp.html"
+  - title: "Inside OpenAI’s Crisis Over the Future of Artificial Intelligence"
+    excerpt: "Split over the leadership of Sam Altman, board members and executives turned on one another. Their brawl exposed the cracks at the heart of the A.I. movement."
+    publishedDateTime: 2023-12-09T12:51:00Z
+    webUrl: "https://www.nytimes.com/2023/12/09/technology/openai-altman-inside-crisis.html"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 89
+      name: The New York Times
+      domain: nytimes.com
+    quality: 86
     images:
-      - url: "https://images.idgesg.net/images/article/2023/12/purple-llama-responsible-llm-product-development-stages-100948885-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 675
+      - url: "https://static01.nyt.com/images/2023/12/08/business/08ai-openai-02/08ai-openai-02-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
-  - title: "Relevance AI’s low-code platform enables businesses to build AI teams"
-    excerpt: "However, only businesses with large engineering teams can build their own AI workforces. An Australia-based startup, Relevance AI, wants to help companies of all sizes build custom AI agents for any use case or function to maximize productivity with its ..."
-    publishedDateTime: 2023-12-11T22:31:00Z
-    webUrl: "https://techcrunch.com/2023/12/11/relevance-ais-low-code-platform-enables-businesses-to-build-ai-teams/"
-    ampWebUrl: "https://techcrunch.com/2023/12/11/relevance-ais-low-code-platform-enables-businesses-to-build-ai-teams/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/11/relevance-ais-low-code-platform-enables-businesses-to-build-ai-teams/amp/"
+  - title: "OpenAI’s Rival Mistral AI Valued at $2B after Latest Funding Round"
+    excerpt: "OpenAI's rival Mistral AI is now valued at $2 billion after its latest funding round where it pulled $415 million from investors."
+    publishedDateTime: 2023-12-11T17:39:00Z
+    webUrl: "https://www.coinspeaker.com/mistral-ai-2b-latest-funding/"
+    ampWebUrl: "https://www.coinspeaker.com/mistral-ai-2b-latest-funding/amp/"
+    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/mistral-ai-2b-latest-funding/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: coinspeaker
+      domain: coinspeaker.com
+    quality: 57
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1188605237.jpg?resize=1200,800"
+      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/12/mistral-ai-2b-latest-funding.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "ChatGPT Is Showing Signs of Laziness. OpenAI Says A.I. Might Need a Fix"
+    excerpt: "One of the most promising aspects of A.I. is its ability to handle dull, repetitive tasks, but some ChatGPT users say the chatbot isn't finishing the job like it used to, prompting questions about whether the technology is mirroring human laziness."
+    publishedDateTime: 2023-12-12T22:32:00Z
+    webUrl: "https://www.inc.com/ben-sherry/chatgpt-is-showing-signs-of-laziness-openai-says-ai-might-need-a-fix.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 54
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1204333176_535732_az3rad.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Google's Bard vs OpenAI's ChatGPT: Which of the rival AI chatbots is better? – Euronews"
+    excerpt: "Google’s answer to ChatGPT is here - but is it as good as OpenAI’s global phenomenon? Euronews Next put them through their paces. Google has made its"
+    publishedDateTime: 2023-12-12T02:41:00Z
+    webUrl: "https://www.inferse.com/836356/googles-bard-vs-openais-chatgpt-which-of-the-rival-ai-chatbots-is-better-euronews/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 48
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/12/wp-header-logo-6663.png"
+        width: 1000
+        height: 563
+        isCached: true
+  - title: "Dropbox spooks users by sending data to OpenAI for AI search features"
+    excerpt: "On Wednesday, news quickly spread on social media about a new enabled-by-default Dropbox setting that shares your Dropbox data with OpenAI for an experimental AI-powered search feature. Dropbox says that user data shared with third-party AI partners isn't used to train AI models and is deleted within 30 days."
+    publishedDateTime: 2023-12-13T19:41:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/12/dropbox-spooks-users-by-sending-data-to-openai-for-ai-search-features/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 47
+  - title: "Elon Musk’s AI bot, Grok, speaks as if made by OpenAI in some tests, causing a stir"
+    excerpt: "Grok, the AI language model created by Elon Musk's xAI, went into wide release last week, and people have begun spotting glitches. On Friday, security tester Jax Winterbourne tweeted a screenshot of Grok denying a query with the statement,"
+    publishedDateTime: 2023-12-11T20:13:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/12/elon-musks-ai-bot-grok-speaks-as-if-made-by-openai-in-some-tests-causing-a-stir/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 41
+  - title: "AI start-up Mistral secures €385m to challenge OpenAI"
+    excerpt: "French start-up Mistral is focused on creating open-source AI models and has reportedly hit unicorn status after raising €385m."
+    publishedDateTime: 2023-12-11T12:24:00Z
+    webUrl: "https://www.siliconrepublic.com/start-ups/mistral-ai-unicorn-funding-open-source"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 37
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/12/AdobeStock_259976477.jpeg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "OpenAI Competitor Mistral AI Nabs $487M Round, Hitting $2B Valuation"
+    excerpt: "Paris-based Mistral AI, an OpenAI and Anthropic competitor, is putting the final touches on a massive round of approximately $487 million that would value the company at $2 billion, per a report."
+    publishedDateTime: 2023-12-11T18:13:00Z
+    webUrl: "https://news.crunchbase.com/ai/mistral-openai-anthropic-andreessen/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 37
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/Generative_AI_3.jpg"
+        width: 900
+        height: 506
+        isCached: true
+  - title: "Unlock the Power of AI: A Step-by-Step Guide to Getting Your OpenAI API Key – Gizchina.com"
+    excerpt: "Welcome to the future of artificial intelligence! OpenAI has revolutionized the AI landscape with its remarkable language models like ChatGPT and GPT-4. To"
+    publishedDateTime: 2023-12-10T22:42:00Z
+    webUrl: "https://www.inferse.com/834010/unlock-the-power-of-ai-a-step-by-step-guide-to-getting-your-openai-api-key-gizchina-com/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 29
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/12/wp-header-logo-5862.png"
         width: 1200
         height: 800
         isCached: true
-  - title: "Mistral shocks AI community as latest open source model eclipses GPT-3.5 performance"
-    excerpt: "Mistral, the most well-seeded startup in European history and a French company dedicated to pursuing open source AI models and large language models (LLMs), has struck gold with its latest release — at least among the early adopter/AI influencer crowd on X and LinkedIn."
-    publishedDateTime: 2023-12-11T21:44:00Z
-    webUrl: "https://venturebeat.com/ai/mistral-shocks-ai-community-as-latest-open-source-model-eclipses-gpt-3-5-performance/"
+  - title: "OpenAI to pay Axel Springer to use content to train AI models"
+    excerpt: "OpenAI, the generative artificial intelligence startup backed by Microsoft (NASDAQ:MSFT), has agreed to pay publishing company Axel Springer to use the media company's content to train its AI models. The content will be used to create answers in ChatGPT ..."
+    publishedDateTime: 2023-12-13T14:21:00Z
+    webUrl: "https://seekingalpha.com/news/4045950-openai-pay-axel-springer-use-content-train-ai-models"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 60
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/12/cfr0z3n_crowds_of_tourists_react_in_shock_and_amazement_as_the__cd64e435-492c-4397-94c0-1d5119160375.png?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
-  - title: "Google Ventures adds partner to back AI, open source startups"
-    excerpt: "Venture capital firm GV, backed by Google parent Alphabet Inc, has hired Michael McBride from software firm GitLab as its latest investment partner to focus on open-source and AI startups, the firm told Reuters."
-    publishedDateTime: 2023-12-13T15:08:00Z
-    webUrl: "https://www.aol.com/google-ventures-adds-partner-back-130843690.html?ref=biztoc.com"
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 17
+  - title: "Paris-based Startup and OpenAI Competitor Mistral AI Valued at $2 Billion"
+    excerpt: "In a significant development for the European artificial intelligence sector, Paris-based startup Mistral AI has achieved a noteworthy milestone. The company has successfully secured a substantial investment of €450 million,"
+    publishedDateTime: 2023-12-09T14:18:00Z
+    webUrl: "https://www.unite.ai/paris-based-startup-and-openai-competitor-mistral-ai-valued-at-2-billion/"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 37
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/bbb13e44128dae8d8b5b62788584cc3e"
-        width: 800
-        height: 557
-        isCached: true
-  - title: "IBM, Meta, and 40 Top Organizations Create the ‘AI Alliance’ to Develop Open Source Technology"
-    excerpt: "IBM, Meta, and over 40 companies and organizations are creating the AI Alliance, an industry and academic group dedicated to open-source AI technology. This coalition said in a statement that it will focus on the responsible development of AI technology, including safety and security tools."
-    publishedDateTime: 2023-12-13T06:09:00Z
-    webUrl: "https://iblnews.org/ibm-meta-and-40-top-universities-and-organizations-create-the-ai-alliance-to-develop-open-source-technology/"
-    type: article
-    provider:
-      name: IBL News
-      domain: iblnews.org
-    quality: 27
-    images:
-      - url: "https://iblnews.org/wp-content/uploads/2023/12/aialliance-696x358.jpg"
-        width: 696
-        height: 358
-        isCached: true
-  - title: "The messy reality of AI safety"
-    excerpt: "THE near-implosion of OpenAI, a world leader in the burgeoning field of artificial intelligence, surfaced a conflict within the organisation and the broader community about the speed with which the technology should continue,"
-    publishedDateTime: 2023-12-11T09:26:00Z
-    webUrl: "https://www.businesstimes.com.sg/opinion-features/messy-reality-ai-safety"
-    type: article
-    provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 19
+      name: unite
+      domain: unite.ai
+    quality: 16
 
 secured: "mhJwp4yRQhtsBJHFCvJyvy4xiu/wrbJOBsLQe/gPyFpbPq3thNbEiZkx7tGLjJTQrWmXmVaxJQzmJ7zyNoTMZuccOpHxRNi9QSGDopMoBiU0BKPCU01yh9sQ3ZFv7IWZj9pKipUCcqUpOqvjeVzd3GsDulQJtJDkuMQZC6ccRvs2fvoB92hDDxAdbuGbkU6361/gvsPmGLcD2r/lxbxie0hI/sHKt5tOxQXYbgGlhOipWVs30ByKUFFtiUhX9KLVy3yHaAchOoXAVCyFWZq7yW2me0+aREqB1kd5TsZs3UbcfCTvBFd4LcoO3+eWKIQm9bybOw4BEvUM3XY2oYM/Pya46xUE6yEn2n+Vv/ezg1oeeELE6MI6PAALVDClzv2rUZpUd0VkhGKCZAQT00qdDsjvOCEZg8ycgfR+QKul+tTkUdD4iouhuifrl7ajtSeBU8yL4jikkAEf3LwCDaPPN/zSPuGjruFqpw1+eXab1rPVme8QglxePgvZ8/NtNl8nmKhkQ3xBVlR9ZsP2fQ2Biw==;Ss4GP1cJKZUjt7XfcZIo/Q=="
 ---

@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Internet traffic soars in 2023, with generative AI a standout trend: Report"
+    excerpt: "In its annual overview of online trends, Cloudflare reports Google remains the most popular site, while OpenAI takes the lead in generative AI services."
+    publishedDateTime: 2023-12-13T18:11:00Z
+    webUrl: "https://www.computerworld.com/article/3711722/internet-traffic-soars-in-2023-with-generative-ai-a-standout-trend-report.html"
+    ampWebUrl: "https://www.computerworld.com/article/3711722/internet-traffic-soars-in-2023-with-generative-ai-a-standout-trend-report.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3711722/internet-traffic-soars-in-2023-with-generative-ai-a-standout-trend-report.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 55
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/10/17/12/internet1-100649339-large-100947272-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 966
+        isCached: true
   - title: "2023 was the year that artificial intelligence went mainstream"
     excerpt: "From ChatGPT to Gemini, this year was dominated by large language models and other AIs becoming everyday tools used by millions of people"
     publishedDateTime: 2023-12-13T18:00:00Z

@@ -54,6 +54,15 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Are You Using ChatGPT at Work? We Want to Hear About It."
+    excerpt: "Just over a year since ChatGPT’s release, we’re exploring how workers have begun using A.I. chatbots in their jobs."
+    publishedDateTime: 2023-12-13T10:03:00Z
+    webUrl: "https://www.nytimes.com/2023/12/13/business/are-you-using-chatgpt-at-work-we-want-to-hear-about-it.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 49
   - title: "These Are the Biggest Differences Between Google Bard and ChatGPT"
     excerpt: "AI chatbots are more popular than ever, and there are plenty of solid options out there to choose from beyond OpenAI’s ChatGPT. One particularly strong competitor is Google’s Bard AI, which pulls information from the internet and runs off the latest Gemini language model created by Google."
     publishedDateTime: 2023-12-11T03:35:00Z

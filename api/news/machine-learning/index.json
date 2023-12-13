@@ -131,6 +131,58 @@
       ]
     },
     {
+      "path": "_news/2023-12-13-ai-in-action-how-to-bring-real-time-decision-making-to-aiml.md",
+      "title": "AI in Action: How to bring real-time decision-making to AI/ML",
+      "excerpt": "Watch this online event, as Redpanda explores the shift from batch analytics to real-time decision-making for AI/ML use cases. They start by fostering a broad understanding of how to train and score a real-time model on streaming data, in contrast with ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/sponsor/redpanda-organization/ai-in-action-how-to-bring-real-time-decision-making-to-ai-ml/",
+      "originalUrl": "https://techcrunch.com/sponsor/redpanda-organization/ai-in-action-how-to-bring-real-time-decision-making-to-ai-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight.png?resize=1200,486",
+          "width": 1200,
+          "height": 486,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-13T00:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-12-12-vodafone-advances-its-machine-learning-skills-with-aws-deepracer-and-accenture.md",
       "title": "Vodafone advances its machine learning skills with AWS DeepRacer and Accenture",
       "excerpt": "Vodafone is transitioning from a telecommunications company (telco) to a technology company (TechCo) by 2025, with objectives of innovating faster, reducing costs, improving security, and simplifying operations. Thousands of engineers are being onboarded to contribute to this transition. By 2025, Vodafone",
@@ -193,7 +245,7 @@
       "originalUrl": "https://www.timesnownews.com/education/how-machine-learning-is-reshaping-industries-article-105939900",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -237,7 +289,7 @@
       "originalUrl": "https://www.indianweb2.com/2023/12/accenture-to-work-with-union-bank-of.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -1251,49 +1303,6 @@
       "provider": {
         "name": "Business Wire",
         "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-04-ai-machine-learning-change-how-first-responders-handle-emergencies.md",
-      "title": "AI, machine learning change how first responders handle emergencies",
-      "excerpt": "Researchers within the University of Pittsburgh Medical Center health enterprise are using machine learning to advance the breadth and efficiency of electrocardiogram (ECG) readings to better identify",
-      "sourceUrl": null,
-      "webUrl": "https://www.enidnews.com/news/ai-machine-learning-change-how-first-responders-handle-emergencies/article_552e3202-90c2-11ee-a637-0b89461d78dd.html",
-      "originalUrl": "https://www.enidnews.com/news/ai-machine-learning-change-how-first-responders-handle-emergencies/article_552e3202-90c2-11ee-a637-0b89461d78dd.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/enidnews.com/content/tncms/assets/v3/editorial/a/6c/a6cf7a5c-90c3-11ee-b3ee-af83f4856540/656aa60569b8e.image.jpg?crop=1331%2C699%2C65%2C420&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T04:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Enid News & Eagle",
-        "domain": "enidnews.com",
         "images": null,
         "publishers": null,
         "authors": null

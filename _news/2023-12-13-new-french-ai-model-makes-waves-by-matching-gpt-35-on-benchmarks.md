@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/information-technology/2023/12/new-french-
 webUrl: "https://arstechnica.com/information-technology/2023/12/new-french-ai-model-makes-waves-by-matching-gpt-3-5-on-benchmarks/"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -22,19 +22,19 @@ topics:
   - AI
 
 related:
-  - title: "Mistral AI Mixtral 8x7B mixture of experts AI model impressive benchmarks revealed"
-    excerpt: "Mistral AI has recently unveiled an innovative mixture of experts model that is making waves in the field of artificial intelligence. This new model,"
-    publishedDateTime: 2023-12-13T12:03:00Z
-    webUrl: "https://www.geeky-gadgets.com/mistral-ai-mixture-of-experts-model-moe/"
+  - title: "Mistral shocks AI community as latest open source model eclipses GPT-3.5 performance"
+    excerpt: "Mistral, the most well-seeded startup in European history and a French company dedicated to pursuing open source AI models and large language models (LLMs), has struck gold with its latest release — at least among the early adopter/AI influencer crowd on X and LinkedIn."
+    publishedDateTime: 2023-12-11T21:44:00Z
+    webUrl: "https://venturebeat.com/ai/mistral-shocks-ai-community-as-latest-open-source-model-eclipses-gpt-3-5-performance/"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 33
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 60
     images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/Mistral-AI-mixture-of-experts-model-MoE.jpg"
-        width: 1280
-        height: 718
+      - url: "https://venturebeat.com/wp-content/uploads/2023/12/cfr0z3n_crowds_of_tourists_react_in_shock_and_amazement_as_the__cd64e435-492c-4397-94c0-1d5119160375.png?w=1200&strip=all"
+        width: 1200
+        height: 672
         isCached: true
 
 secured: "+FZYF07tSj/JdedQiglxF1vKbrVamyBbqCickMckcLCrr0yYKTxD4vALMvzIvi7giUJAKXz6YKneIoz+QgrCtF4icm+6KR74zCuc+3Y+PMjm5B3I4QDDVP29mf+Rgm3ykG/pHxwO31+pbVaP+MKT1gEudqtAsAeWtjnS15OSscl4yejzBlrgabtl3BA6OK7yvdJzwG98eN1kgJre5zxL1/InlkLFH+Ju84flFRNpKYOkm/puOq0K/WXW63lHWlMx1dLxPKPNH7XYi9Op9//5rtsnunGp9sM1ZzmcacjIVsoZYbQOEzs3RXWD3fFruCDcRxcuiViLQas9jjXuFQA5GnvkenysJqqTKa2hAhHqLmSAjF7/TU1mddNwyW+xlbACQ7yqJDtdUIcx9QbDtk3jvjdNLYtVmiPoKR/1IYhtEs4b0fXI1qNx+0vQyGbt5QwltYho6HXIPIhrHtPtwEgujw6lvMcIgxO4nUxkgPfItQX+2SUgnEktj+eEULF91FIo+EvqsSsFA9v2Ur8Jjg58Mw==;PRc39CuaTbXIJMnJHBQs9g=="

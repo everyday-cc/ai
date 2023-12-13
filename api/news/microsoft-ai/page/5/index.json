@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-10-25-physicians-are-dramatically-underdiagnosing-early-cognitive-decline-a-precursor-to-alzheimers.md",
+      "title": "Physicians Are Dramatically Underdiagnosing Early Cognitive Decline, a Precursor to Alzheimer’s",
+      "excerpt": "Changes to the brain are natural as we age, which often makes it difficult to spot more aberrant signs of cognitive decline in older adults. Neurodegenerative diseases like Alzheimer’s and ...",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6328148/mci-cognitive-decline-under-diagnosed/",
+      "originalUrl": "https://time.com/6328148/mci-cognitive-decline-under-diagnosed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-24T22:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-24-microsoft-earnings-preview-azure-cloud-segment-in-focus.md",
       "title": "Microsoft earnings preview: Azure cloud segment in focus",
       "excerpt": "Investing.com - Microsoft Corporation (NASDAQ:MSFT) is set to announce its quarterly earnings after the market closes on Tuesday, with Wall Street keenly watching for indications that the company's substantial investments in artificial intelligence (AI) have been beneficial to its pivotal Azure cloud computing division.",

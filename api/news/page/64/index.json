@@ -2,6 +2,270 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2023-10-20-cathie-wood-says-autonomous-driving-is-the-biggest-artificial-intelligence-ai-project-in-the-world-3-stocks-to-buy-right-now.md",
+      "title": "Cathie Wood Says Autonomous Driving Is the Biggest Artificial Intelligence (AI) Project In the World -- 3 Stocks to Buy Right Now",
+      "excerpt": "Ark Investment Management is one of the most bullish firms on Wall Street when it comes to the potential of artificial intelligence ... autonomous self-driving vehicles. In an interview on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/cathie-wood-says-autonomous-driving-is-the-biggest-artificial-intelligence-ai-project-in",
+      "originalUrl": "https://www.nasdaq.com/articles/cathie-wood-says-autonomous-driving-is-the-biggest-artificial-intelligence-ai-project-in",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-20T11:04:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-20-why-ai-is-next-flashpoint-in-us-china-tech-rivalry.md",
+      "title": "Why AI Is Next Flashpoint in US-China Tech Rivalry",
+      "excerpt": "The technological rivalry between the US and China is heating up, and nowhere more fiercely than in artificial intelligence. That’s hardly a surprise given its potential to boost both nations’ productivity and competitiveness and to tip the geopolitical and military balance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/business/2023/10/20/what-is-the-state-of-us-china-competition-in-ai/1ffa6780-6f53-11ee-b01a-f593caa04363_story.html",
+      "originalUrl": "https://www.washingtonpost.com/business/2023/10/20/what-is-the-state-of-us-china-competition-in-ai/1ffa6780-6f53-11ee-b01a-f593caa04363_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-20T09:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-20-how-to-bridge-the-ai-anxiety-gap-at-work-and-seize-the-job-opportunities.md",
+      "title": "How To Bridge The AI Anxiety Gap At Work - And Seize The Job Opportunities",
+      "excerpt": "Workers are willing to embrace AI technology and believe it will improve their careers and promotions. AI can increase flexibility and job opportunities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sandervantnoordende/2023/10/20/how-to-bridge-the-ai-anxiety-gap-at-workand-seize-the-job-opportunities/",
+      "originalUrl": "https://www.forbes.com/sites/sandervantnoordende/2023/10/20/how-to-bridge-the-ai-anxiety-gap-at-workand-seize-the-job-opportunities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65323057ccf2f45ed2012db3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sandervantnoordende/2023/10/20/how-to-bridge-the-ai-anxiety-gap-at-workand-seize-the-job-opportunities/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sandervantnoordende/2023/10/20/how-to-bridge-the-ai-anxiety-gap-at-workand-seize-the-job-opportunities/amp/",
+      "publishedDateTime": "2023-10-20T08:16:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-20-music-companies-sue-anthropic-ai-over-song-lyrics.md",
+      "title": "Music companies sue Anthropic AI over song lyrics",
+      "excerpt": "Universal and other music publishers have sued artificial intelligence company Anthropic in a US court for using copyrighted lyrics to train its AI systems and in generating answers to user queries.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-10-music-companies-sue-anthropic-ai.html",
+      "originalUrl": "https://techxplore.com/news/2023-10-music-companies-sue-anthropic-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/3-ai.jpg",
+          "width": 1920,
+          "height": 1633,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-10-music-companies-sue-anthropic-ai.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-music-companies-sue-anthropic-ai.amp",
+      "publishedDateTime": "2023-10-20T08:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-20-a-new-youtube-tool-will-use-ai-to-let-you-sound-like-your-favorite-artist.md",
+      "title": "A new YouTube tool will use AI to let you sound like your favorite artist",
+      "excerpt": "Details are sparse right now, but YouTube looks keen to embrace AI - if it can overcome some tricky challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/a-new-youtube-tool-will-use-ai-to-let-you-sound-like-your-favorite-artist/",
+      "originalUrl": "https://www.zdnet.com/article/a-new-youtube-tool-will-use-ai-to-let-you-sound-like-your-favorite-artist/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/f8ce90ca052b6dde9c26da37c4658041608e0fa6/2023/08/15/f81404b8-a947-47ff-89c9-d117313e533c/yt.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/a-new-youtube-tool-will-use-ai-to-let-you-sound-like-your-favorite-artist/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-new-youtube-tool-will-use-ai-to-let-you-sound-like-your-favorite-artist/",
+      "publishedDateTime": "2023-10-20T07:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-20-ai-models-lack-transparency-research.md",
+      "title": "AI models lack transparency: research",
+      "excerpt": "The best score – 54% – was given to Llama 2, the AI model launched by Facebook and Instagram owner ... a researcher at Stanford's Center for Research on Foundation Models, said companies ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2023/10/20/ai-models-lack-transparency-research",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2023/10/20/ai-models-lack-transparency-research",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2023/10/20/2345472.jpg",
+          "width": 1240,
+          "height": 827,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-20T06:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-20-artificial-intelligence-hiring-activity-dropped-in-the-apparel-industry-in-q3-2023.md",
       "title": "Artificial Intelligence hiring activity dropped in the apparel industry in Q3 2023",
       "excerpt": "The global apparel industry experienced a 29% drop in new job postings related to artificial intelligence in Q3 2023 compared with the previous quarter, according to GlobalData’s Job Analytics. This compares to a 61% decrease versus Q3 2022. GlobalData ...",
@@ -864,298 +1128,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-19-tesla-hits-the-brakes-on-evs-but-not-on-ai.md",
-      "title": "Tesla Hits the Brakes on EVs, but Not on AI",
-      "excerpt": "After years of growing at breakneck speed, the carmaker seems to be slowing down. That puts even more pressure on its big AI bets to deliver results.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/business/autos/tesla-is-hitting-the-brakes-on-everything-but-ai-3ef7ce85?mod=hp_lead_pos3",
-      "originalUrl": "https://www.wsj.com/business/autos/tesla-is-hitting-the-brakes-on-everything-but-ai-3ef7ce85?mod=hp_lead_pos3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-869941/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-19T15:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-10-19-nvidia-gives-robotics-a-major-upgrade.md",
-      "title": "Nvidia Gives Robotics A Major Upgrade",
-      "excerpt": "According to Nvidia, these releases include more value than all the other releases over the past 10 years combined.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2023/10/19/nvidia-gives-robotics-a-major-upgrade/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2023/10/19/nvidia-gives-robotics-a-major-upgrade/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65314c2819c4e506a67ca4d8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1280,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2023/10/19/nvidia-gives-robotics-a-major-upgrade/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/10/19/nvidia-gives-robotics-a-major-upgrade/amp/",
-      "publishedDateTime": "2023-10-19T15:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-19-microsoft-launches-azure-ai-content-safety-service-as-a-game-changer-for-online-safety.md",
-      "title": "Microsoft Launches Azure AI Content Safety Service as a Game-Changer for Online Safety",
-      "excerpt": "Azure AI Content Safety leverages the power of AI to first detect and then filter dangerous content, ensuring a safer digital environment. Microsoft has made its Azure AI Content Safety service ...",
-      "sourceUrl": null,
-      "webUrl": "https://techreport.com/news/microsoft-officially-launches-azure-ai-content-safety-service/",
-      "originalUrl": "https://techreport.com/news/microsoft-officially-launches-azure-ai-content-safety-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techreport.com/wp-content/uploads/2023/10/Microsoft-Launches-Azure-AI-Content-Safety-Service-as-a-Game-Changer-for-Online-Safety.jpg?_t=1697729054",
-          "width": 1335,
-          "height": 832,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-19T15:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Tech Report",
-        "domain": "techreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-19-robotics-systems-and-control-msc.md",
-      "title": "Robotics, Systems and Control MSc",
-      "excerpt": "Required for students who have not obtained their Bachelor's degree in one of the external pageEU/EFTA Member Statecall_made countries. Minimum expected GRE scores: GRE Analytical = 3.5 or 50% GRE Quantitative = 165 or 90% GRE Verbal = 155 or 70%.",
-      "sourceUrl": null,
-      "webUrl": "https://ethz.ch/en/studies/master/application/master-robotics.html",
-      "originalUrl": "https://ethz.ch/en/studies/master/application/master-robotics.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ethz.ch/etc/designs/ethz/img/header/eth_default_og.jpg",
-          "width": 1564,
-          "height": 780,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-19T15:13:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ETH Zurich",
-        "domain": "ethz.ch",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-19-intels-new-ai-pc-acceleration-program-aims-to-rev-up-ai-software-development.md",
-      "title": "Intel's New 'AI PC Acceleration Program' Aims to Rev Up AI Software Development",
-      "excerpt": "Bracing for the next big step in the evolution of AI in computing, Intel plans to hold its software-developer partners’ hands the whole way there.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/intels-new-ai-pc-acceleration-program-aims-to-rev-up-ai-software-development",
-      "originalUrl": "https://www.pcmag.com/news/intels-new-ai-pc-acceleration-program-aims-to-rev-up-ai-software-development",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/065Okl5SsF3hL5tSOFH8Bsb-1.fit_lim.size_1200x630.v1697646882.jpg",
-          "width": 947,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-19T15:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-19-regulators-focus-on-ai-powered-surveillance-in-buy-now-pay-later-industry.md",
-      "title": "Regulators Focus On AI-Powered Surveillance In Buy Now, Pay Later Industry",
-      "excerpt": "As worries about consumer protection continue to grow, it is only natural that regulatory oversight becomes an integral part of the BNPL landscape.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/nandansheth/2023/10/19/regulators-focus-on-ai-powered-surveillance-in-buy-now-pay-later-industry/",
-      "originalUrl": "https://www.forbes.com/sites/nandansheth/2023/10/19/regulators-focus-on-ai-powered-surveillance-in-buy-now-pay-later-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/652eaf23323ee5ea8fbf5764/0x0.jpg?format=jpg&crop=3871,2176,x0,y0,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/nandansheth/2023/10/19/regulators-focus-on-ai-powered-surveillance-in-buy-now-pay-later-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nandansheth/2023/10/19/regulators-focus-on-ai-powered-surveillance-in-buy-now-pay-later-industry/amp/",
-      "publishedDateTime": "2023-10-19T15:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

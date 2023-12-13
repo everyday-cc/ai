@@ -10,7 +10,7 @@
       "originalUrl": "https://www.livemint.com/ai/artificial-intelligence/gpai-should-help-frame-sustainable-ai-rules-pm-11702401229429.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -77,57 +77,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-tech-ai-and-americas-role-in-the-world.md",
-      "title": "Tech, AI and America's Role in the World",
-      "excerpt": "Funding for Ukraine and regulatory response to Big Tech and AI are at the center of the negotiating table to push partisan agendas forward. Sen. Amy Klobuchar weighs how a divided U.S. can still be a world leader on these issues and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/video/tech-ai-and-america-role-in-the-world/3B69EFF1-5441-4970-857A-C0E12DD946CC",
-      "originalUrl": "https://www.wsj.com/video/tech-ai-and-america-role-in-the-world/3B69EFF1-5441-4970-857A-C0E12DD946CC",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://images.wsj.net/im-899079?width=1280&height=720",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-13T03:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -330,6 +279,58 @@
       ]
     },
     {
+      "path": "_news/2023-12-13-ai-in-action-how-to-bring-real-time-decision-making-to-aiml.md",
+      "title": "AI in Action: How to bring real-time decision-making to AI/ML",
+      "excerpt": "Watch this online event, as Redpanda explores the shift from batch analytics to real-time decision-making for AI/ML use cases. They start by fostering a broad understanding of how to train and score a real-time model on streaming data, in contrast with ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/sponsor/redpanda-organization/ai-in-action-how-to-bring-real-time-decision-making-to-ai-ml/",
+      "originalUrl": "https://techcrunch.com/sponsor/redpanda-organization/ai-in-action-how-to-bring-real-time-decision-making-to-ai-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight.png?resize=1200,486",
+          "width": 1200,
+          "height": 486,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-13T00:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-12-13-this-mind-reading-cap-can-translate-thoughts-to-text-thanks-to-ai.md",
       "title": "This Mind-Reading Cap Can Translate Thoughts to Text Thanks to AI",
       "excerpt": "The system could give voice to people who can no longer communicate or be used to direct machines, like walking robots or robotic arms, with thoughts alone.",
@@ -338,7 +339,7 @@
       "originalUrl": "https://singularityhub.com/2023/12/12/this-mind-reading-cap-can-translate-thoughts-to-text-thanks-to-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -798,57 +799,6 @@
       ]
     },
     {
-      "path": "_news/2023-12-13-cohere-to-help-businesses-build-ai-using-slack-google-drive-data.md",
-      "title": "Cohere to help businesses build AI using Slack, Google Drive data",
-      "excerpt": "OpenAI-competitor Cohere launched \"connectors,\" which allow companies to connect third-party application data to Cohere’s LLM.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/cohere-to-help-businesses-build-ai-using-slack-google-drive-data/",
-      "originalUrl": "https://venturebeat.com/ai/cohere-to-help-businesses-build-ai-using-slack-google-drive-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/12/Untitled-design-2023-12-12T105755.661.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-12T17:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-12-13-cerebras-23s-most-succesful-ai-startup-sees-a-bright-future.md",
       "title": "Cerebras, 23’s Most Succesful AI Startup, Sees A Bright Future",
       "excerpt": "With revenue and customer commitments approaching $1B, Cerebras’ Wafer Scale Engine has generated more business than all the startup market players combined.",
@@ -951,57 +901,6 @@
       ]
     },
     {
-      "path": "_news/2023-12-12-strategies-for-building-ai-tools-people-will-actually-use-at-work.md",
-      "title": "Strategies for building AI tools people will actually use at work",
-      "excerpt": "The application of generative AI in the workplace is a long game, and we’re in the very early stages. Most businesses looking for ways to leverage AI are",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/12/12/strategies-for-building-ai-tools-people-will-actually-use-at-work/",
-      "originalUrl": "https://techcrunch.com/2023/12/12/strategies-for-building-ai-tools-people-will-actually-use-at-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/10/tools.jpg?w=960",
-          "width": 960,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-12T15:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-12-12-laredo-wants-to-use-gen-ai-to-automate-dev-work.md",
       "title": "Laredo wants to use gen AI to automate dev work",
       "excerpt": "Laredo Labs has launched out of stealth with a platform that taps gen AI to automate certain software dev work.",
@@ -1061,7 +960,7 @@
       "originalUrl": "https://www.networkworld.com/article/1257328/dell-technologies-updates-storage-products-for-ai.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -1147,7 +1046,7 @@
       "originalUrl": "https://mashable.com/article/ways-ai-changed-the-internet-2023",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -1177,6 +1076,102 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-12-how-machine-learning-is-reshaping-industries.md",
+      "title": "How Machine Learning is Reshaping Industries",
+      "excerpt": "In the era of digital transformation, machine learning (ML) has emerged as the driving force behind a revolutionary shift in industries worldwide. From healthcare to finance, manufacturing to marketing,",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesnownews.com/education/how-machine-learning-is-reshaping-industries-article-105939900",
+      "originalUrl": "https://www.timesnownews.com/education/how-machine-learning-is-reshaping-industries-article-105939900",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tnn.in/thumb/msid-105939904,thumbsize-372248,width-1280,height-720,resizemode-75/105939904.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.timesnownews.com/education/how-machine-learning-is-reshaping-industries-article-105939900/amp",
+      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/education/how-machine-learning-is-reshaping-industries-article-105939900/amp",
+      "publishedDateTime": "2023-12-12T14:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "timesnownews",
+        "domain": "timesnownews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-12-12-thoughts-on-consent-and-privacy-in-the-age-of-ai.md",
+      "title": "Thoughts On Consent And Privacy In The Age Of AI",
+      "excerpt": "As a crucial aspect of responsible AI and ethics in AI development and deployment, contestability ensures that individuals, organizations and regulatory bodies can scrutinize AI systems and hold them accountable for their behavior. Balancing innovation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/thoughts-on-consent-and-privacy-in-the-age-of-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/thoughts-on-consent-and-privacy-in-the-age-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/617ab75c1928bf93235ece8a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/thoughts-on-consent-and-privacy-in-the-age-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/12/thoughts-on-consent-and-privacy-in-the-age-of-ai/amp/",
+      "publishedDateTime": "2023-12-12T13:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     }
