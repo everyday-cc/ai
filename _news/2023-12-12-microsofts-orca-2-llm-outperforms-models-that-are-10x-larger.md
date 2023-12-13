@@ -6,7 +6,7 @@ publishedDateTime: 2023-12-12T14:13:00Z
 originalUrl: "https://www.infoq.com/news/2023/12/microsoft-orca-2-llm/"
 webUrl: "https://www.infoq.com/news/2023/12/microsoft-orca-2-llm/"
 type: article
-quality: 21
+quality: 41
 heat: -1
 published: false
 
@@ -18,6 +18,12 @@ topics:
   - Meta AI
   - AI
   - Microsoft AI
+
+images:
+  - url: "https://res.infoq.com/news/2023/12/microsoft-orca-2-llm/en/headerimage/generatedHeaderImage-1701529873890.jpg"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Microsoft exec hints at new LLMs beyond OpenAI’s"
@@ -117,6 +123,6 @@ related:
         height: 683
         isCached: true
 
-secured: "pDeJwiz5u2ZkVgr4Q23aqPl6ktmi0tBOTAFakaq0su+OAXwvNGNOS7tjoiHickJIHz8qM5RWLOKEcZIwZR2E0V5dDOhAMhNVbA2FRwZuw9fPPwLnGipTyBr5IniBzsmPju/zFMYPm5bapJc0girVgFDAihqFIYy7ZiK0JDON3jZgkwusrdkSn04okFBsR2D1XiI7iGKPsTTtdnqWEJsMDcIA0rDJmLucsxefNjVSF99q51nFMPz8hEoHXUg/SycLhsRZSjpg+/LMliAYWncvwKurmxbtxNA+Hv248s3yT3XQ1Ldmh/E+812O8E7WTg0AlWm/vvX9gq2zW9vS3O7b7LqRTq8U8MaBLq/iBP1Ozx8=;mlbgzQbOSl02b0O83H2cQw=="
+secured: "porImXFd+GHqxo4Twu4/m7yR8b1S985okv1r/cdwgf5xxagkrRgx8Kfc2kLuFnJjpMbvCb+ZZSnLpsPul+aP9/X0cZ/PkvAzO+oBvl4bD25QEJpFeicVEvFbr4hNsptP8tAirSOz/mMTqxBRx9fx0NqSRxFdAaGdSG3W1aYzdxAO4+tyul5kOM2dinmCPu+Bs2X2gAoDgKYiJoBFIzDXZexLOPVvZKo6E18Iz2iz1rCPQb0L7W3NZDi3PUcfVAvmbDT+sZg4YHnF1BC4L10/YHMb/F0eTaB8hbtXsmN363B5XfeHsPWieLzE8hru1JOlKV5tywD2e0zcDmqi4rvd046wicQgujQhIkOF4DpCWKI=;8LCiP6hu7tXJMHv33VooTw=="
 ---
 

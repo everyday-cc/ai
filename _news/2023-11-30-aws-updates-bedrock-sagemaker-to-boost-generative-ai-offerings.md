@@ -1,32 +1,26 @@
 ---
 category: news
 title: "AWS updates Bedrock, SageMaker to boost generative AI offerings"
-excerpt: "The updates include the addition of new foundation models along with vector capabilities for several databases."
-publishedDateTime: 2023-11-29T21:46:00Z
-originalUrl: "https://www.infoworld.com/article/3711463/aws-updates-bedrock-sagemaker-to-boost-generative-ai-offerings.html"
-webUrl: "https://www.infoworld.com/article/3711463/aws-updates-bedrock-sagemaker-to-boost-generative-ai-offerings.html"
-ampWebUrl: "https://www.infoworld.com/article/3711463/aws-updates-bedrock-sagemaker-to-boost-generative-ai-offerings.amp.html"
-cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711463/aws-updates-bedrock-sagemaker-to-boost-generative-ai-offerings.amp.html"
+excerpt: "At its ongoing re:Invent 2023 conference, AWS unveiled several updates to its SageMaker, Bedrock and database services in order to boost its generative AI offerings. Taking to the stage on ..."
+publishedDateTime: 2023-11-30T08:46:00Z
+originalUrl: "https://www.arnnet.com.au/article/709628/aws-updates-bedrock-sagemaker-boost-generative-ai-offerings/"
+webUrl: "https://www.arnnet.com.au/article/709628/aws-updates-bedrock-sagemaker-boost-generative-ai-offerings/"
 type: article
 
 provider:
-  name: InfoWorld
-  domain: infoworld.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: ARN
+  domain: arnnet.com.au
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://images.idgesg.net/images/article/2023/11/aws-swami-sivasubramanian-100948807-large.jpg?auto=webp&quality=85,70"
-    width: 1200
-    height: 800
+  - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/aws-swami-sivasubramanian-100948807-orig.jpgautowebp8570"
+    width: 472
+    height: 315
     isCached: true
 
-secured: "uj9sFW9yiKDVi7txx47a3DDkv0xTZXX87RzxYouvKsZC4enoNmdaV+p3R74jWbvxROTJOSy5tSBHy0eqxzviRixt8jTilwS0BnqEi5RVZTItliLzPS1gcAKA23b5SZCSQl7hV0Pju3MN0aRzc6+oxXtFnqCTqZLEGSeiyEf28vyjbEk3Q0gFgTtaALqMrut1yfdDKTp6W5vbwsXglQXacBKRbhgJjcrbA3k4kIEOtFPVWEBWNJRePVaLlZbAZJyB/J5XZpp1lQhVssKailZ+7yZcM+plbAxsjSHrg3QP0MQmEN3s9dg+Iggj84kjZ3TZ94xIa2aw4YACkuTmO94EESlhWYwep5NH8/FRJ14Wv1k=;T6Yn6+REOKpgOic8zlM9Bg=="
+secured: "BC0e4UA/1lQsBjC1l/mpy5LrtYWOeAM9Sti6fpf0iO8gaUj625S2St9/H5mPfZVqAUhBjkL2N3flyM68Y6qKcHpubtgOUjUqp4e0Q5qdbqBooTr+p84VT5QQ+nXCgdbVLJjgz6T2jxi/sCORZBNyFJsJLeITDVFc7pn6d6w3UlQ2vKv2Xrn0Zz/zbYCMTPmHZLaCXp9QbNwQE0XGdPJ3AHeVU2sXGmW3XNNoiB1jCbGUuptRowvZ7ycUUd5i3TG3fG+Y1wm5M6p0ui41B7wPmMYdXi0NWa+P7oHlAdP0XTs6J3DemxSP0PmYr/G+vrXclwBGnzomNLAgpfZqJkwD9ljBTM+YmZ2CTOceiWhy7sc=;l0HY3o2NokNZg2t5mvnBig=="
 ---
 

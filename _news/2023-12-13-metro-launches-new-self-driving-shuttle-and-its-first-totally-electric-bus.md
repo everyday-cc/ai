@@ -2,11 +2,11 @@
 category: news
 title: "Metro launches new self-driving shuttle and its first totally electric bus"
 excerpt: "The zero-emissions, wheelchair-accessible FutureLink shuttle is intended to connect residents in areas with limited access to public transportation with the city’s existing infrastructure."
-publishedDateTime: 2023-12-12T22:47:00Z
-originalUrl: "https://www.houstonpublicmedia.org/articles/news/transportation/2023/12/12/472150/metro-houston-self-driving-shuttle-electric-bus/"
-webUrl: "https://www.houstonpublicmedia.org/articles/news/transportation/2023/12/12/472150/metro-houston-self-driving-shuttle-electric-bus/"
-ampWebUrl: "https://www.houstonpublicmedia.org/articles/news/transportation/2023/12/12/472150/metro-houston-self-driving-shuttle-electric-bus/?amp=1"
-cdnAmpWebUrl: "https://www-houstonpublicmedia-org.cdn.ampproject.org/c/s/www.houstonpublicmedia.org/articles/news/transportation/2023/12/12/472150/metro-houston-self-driving-shuttle-electric-bus/?amp=1"
+publishedDateTime: 2023-12-12T22:43:00Z
+originalUrl: "https://www.houstonpublicmedia.org/articles/news/transportation/2023/12/12/472150/metro-launches-new-self-driving-shuttle-and-its-first-totally-electric-bus/"
+webUrl: "https://www.houstonpublicmedia.org/articles/news/transportation/2023/12/12/472150/metro-launches-new-self-driving-shuttle-and-its-first-totally-electric-bus/"
+ampWebUrl: "https://www.houstonpublicmedia.org/articles/news/transportation/2023/12/12/472150/metro-launches-new-self-driving-shuttle-and-its-first-totally-electric-bus/?amp=1"
+cdnAmpWebUrl: "https://www-houstonpublicmedia-org.cdn.ampproject.org/c/s/www.houstonpublicmedia.org/articles/news/transportation/2023/12/12/472150/metro-launches-new-self-driving-shuttle-and-its-first-totally-electric-bus/?amp=1"
 type: article
 quality: 42
 heat: 42
@@ -26,6 +26,6 @@ images:
     height: 387
     isCached: true
 
-secured: "ZCtfBQk6YK0I1qjYzpt6zJGtwTpUe50Dn6AtXpJO+elKPfyWc8csg8RzkpuwWzVblWqoX9n9fcwaQzUcDOSkXZFxVpYmbS/nEFl+mO98HUyMQJKs5BN7AulvC8FhA1ZmfuDg2V5fKE7o343WBoRIgXHVDdjZ/cJRgPV7iZTGfnxDv8LPeqHQsoVFjiX8/Miu3IomV5NjVic0bZzL3ImffAdI6LXesvuk5NTzMmqhhTpyhA0xuHyGCKRnXD2Uo5mHN0j/jrtffrmvr3a3EQXL3EvLBf7ReeBRpcjbGdrBmbPFoecsKWG5mi5vPvX5xILUJhZmOsQCpMBP5e+QiRHdZLWWIk79GHFoR10bdVI6gYs=;FXt/qfd2SwMWA7GrZh1LBQ=="
+secured: "2m3AMDZZbexQKrrjkYyL5Krj1NBLKMI8esj9Iw7RH9+WgKrnpJFcdhdK6hMmtEGyFai61VIPFvlrhIoahF2I8QLlcHZ9AfIo8+B9/Ua2+5U6/cj9esJNYVxKlEj6+TA/ya9pkA/cDHMw4E2UqSHU70H9QeMQwCzOEm9MVJ4tp+CiFFfTYZvmRbJdPS5reOYfXW1tfP74hD2jSQoicYXPjsuCNhmWe3T+9N7pCL/tnHLNPUVkknOAj68OX/gfYFH+Qtq2zmluG6WofNG9ERq75jQfjOtOKBws7nzvlqniG/YGCLCIAtn4cSxjDR75NfCcbieOla+pTeoGru/91ifx9IO/DQ2ifpNBL9jYDs3KdBE=;oTukVncTqQ4perVH+3eweg=="
 ---
 

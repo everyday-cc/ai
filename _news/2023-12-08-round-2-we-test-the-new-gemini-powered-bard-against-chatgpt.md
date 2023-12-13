@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/ai/2023/12/chatgpt-vs-google-bard-round-2-
 webUrl: "https://arstechnica.com/ai/2023/12/chatgpt-vs-google-bard-round-2-how-does-the-new-gemini-model-fare/"
 type: article
 quality: 86
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/12/chatgpt-vs-bard-round2-760x380.jpg"
         width: 760
         height: 380
-        isCached: true
-  - title: "Google Gemini: Everything you need to know about Google's Answer to ChatGPT – Updated December 2023"
-    excerpt: "Google has an extremely powerful AI chatbot called Bard. It’s already proven to be a helpful and very capable chatbot, and Google has integrated it into several of its products. While the ..."
-    publishedDateTime: 2023-12-08T00:00:00Z
-    webUrl: "https://www.androidheadlines.com/google-gemini.html"
-    ampWebUrl: "https://www.androidheadlines.com/google-gemini.html?amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/google-gemini.html?amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 47
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2023/12/Google-Gemini-AH-jpg.webp"
-        width: 2048
-        height: 1538
         isCached: true
   - title: "Google Bard’s Gemini Upgrade: We Tested it for Travel"
     excerpt: "We tested the updated version of Google Bard on how well it performs for planning and booking travel, and more."

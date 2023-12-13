@@ -19,21 +19,33 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Investors have piled into AI startups following the launch of ChatGPT. Here are 32 pitch decks used by AI founders to win over VCs."
-    excerpt: "Generative AI, media, and design This startup uses generative AI to speed up the property-buying process. Check out the 14-slide pitch deck Orbital Witness used to raise $9 million. Kinnu helps ..."
-    publishedDateTime: 2023-12-08T00:00:00Z
-    webUrl: "https://www.businessinsider.com/ai-startup-pitch-decks-used-to-raise-millions-from-vcs-2023-2"
-    ampWebUrl: "https://www.businessinsider.com/ai-startup-pitch-decks-used-to-raise-millions-from-vcs-2023-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-startup-pitch-decks-used-to-raise-millions-from-vcs-2023-2?amp"
+  - title: "Elon Musk Slammed By His Own AI Bot"
+    excerpt: "\"Well, it seems like Elon might be trying to rewrite history here,\" the AI bot started its message about Musk."
+    publishedDateTime: 2023-12-12T09:37:00Z
+    webUrl: "https://www.newsweek.com/elon-musk-slammed-own-ai-bot-1851531"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 74
+      name: Newsweek
+      domain: newsweek.com
+    quality: 67
     images:
-      - url: "https://i.insider.com/6572fced0ec98e92f74d67d3?width=1200&format=jpeg"
+      - url: "https://d.newsweek.com/en/full/2321918/elon-musk-x-logo.jpg"
         width: 1200
-        height: 600
+        height: 800
+        isCached: true
+  - title: "Elon Musk was mocked by his new AI-powered chatbot"
+    excerpt: "Aravind Srinivas, boss of Perplexity AI, asked Elon Musk's chatbot to \"roast\" its creator — and Grok didn't hold back. The chatbot called the Tesla and X"
+    publishedDateTime: 2023-12-11T16:27:00Z
+    webUrl: "https://rollingout.com/2023/12/11/elon-musk-new-ai-powered-chatbot/"
+    type: article
+    provider:
+      name: Rolling Out
+      domain: rollingout.com
+    quality: 37
+    images:
+      - url: "https://rollingout.com/wp-content/uploads/2023/12/1650967619cropped3474x2605.jpg"
+        width: 1000
+        height: 650
         isCached: true
 
 secured: "UzZU0zWIuw4z4tOW9ETlNxNAGgl2pHfP6ksnXZv19gfhJgkrfARfNHI0qCkcwOWiBwwcTpkVAZjOArfsPJiBgYBiZHzQ3M9HgbC0jJpzsSXc9Kfk8HFB89qiDt9MfVhAgUO8SucPJDvxCOFq1aWkIK0Bfj7rx3YZF8FMM42skeiNnbZinRZlUckVnCCKBTdRDBBz/vqYLX0u9cH3CPzORxywrFhSFdo1I0cpxfiQWkacVjuIvyXG21eroOi+fxPiAiE+JHcVpbVdjFevsrhFxajlq1EAvvJ8DJPKD81ShBMG4oECMpOZ2qnqRXIGxXtLWxaaleH7DE1ySJjfp56I2mxU4FiG87nnoV0/wSaiQJNHYlEq2/sSRIJ/FRBLyHw78jy9bCRKd7R7r6CWGz8mz6o8Kys2Qh1uY+cqXEmQ2ZVbCbtsBUcsWn0MRv+OBDjz/pkuyJDxc2HDlgzfO7yTsv25w0phgWWXd+3g8AL5Mws94vHY3iRTykfo2wWKayyJyrDaZtFa/p/it611AT9ZkQ==;udYafPMw1OQJ4iKmIvw+5A=="

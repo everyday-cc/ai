@@ -115,7 +115,12 @@ related:
     provider:
       name: InfoQ
       domain: infoq.com
-    quality: 21
+    quality: 41
+    images:
+      - url: "https://res.infoq.com/news/2023/12/microsoft-orca-2-llm/en/headerimage/generatedHeaderImage-1701529873890.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "YWi3UAr0jIrDPV7gi/GNYd8po+AI/ZNZ8oMQMHKYSLJVrA5fiPHF0ESO8qTRxF4UZSq1p5RtQadBeRS4B45b7YhekkmLE+gc64mjotvIVv2whpBU+pk/aOLBfR1wyW7QkvmPxK1A26gTzYJrAWcJ+Zqgcy9SKvMmWgPLh47inJG0mi9e7oie0sgBj/XY2dkuSRKJUhTegFcxGvALm5OPBLcpz3lhKwJHgzDFWUd468m5Zwc4CQVs4xVkVfYUtnCDEgzQzLeByrqLwy23G98WFe0YVu5ufQIUzUvlxLiFgN21O6b4RWgyURyY2ueDG1CveJ4xQGDKBii6an1aEiAPozS5UeH23NI7y/Bas8jmQVg=;7PfY+rLa9/iQuwkSB+u6/g=="
 ---

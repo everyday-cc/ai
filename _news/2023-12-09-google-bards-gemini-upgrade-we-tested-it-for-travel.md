@@ -49,22 +49,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "Google Gemini: Everything you need to know about Google's Answer to ChatGPT – Updated December 2023"
-    excerpt: "Google has an extremely powerful AI chatbot called Bard. It’s already proven to be a helpful and very capable chatbot, and Google has integrated it into several of its products. While the ..."
-    publishedDateTime: 2023-12-08T00:00:00Z
-    webUrl: "https://www.androidheadlines.com/google-gemini.html"
-    ampWebUrl: "https://www.androidheadlines.com/google-gemini.html?amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/google-gemini.html?amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 47
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2023/12/Google-Gemini-AH-jpg.webp"
-        width: 2048
-        height: 1538
-        isCached: true
   - title: "These Are the Biggest Differences Between Google Bard and ChatGPT"
     excerpt: "AI chatbots are more popular than ever, and there are plenty of solid options out there to choose from beyond OpenAI’s ChatGPT. One particularly strong competitor is Google’s Bard AI, which pulls information from the internet and runs off the latest Gemini language model created by Google."
     publishedDateTime: 2023-12-11T03:35:00Z

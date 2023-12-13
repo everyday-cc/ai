@@ -7,7 +7,7 @@ originalUrl: "https://newatlas.com/computers/hybrid-brain-organoid-computing/"
 webUrl: "https://newatlas.com/computers/hybrid-brain-organoid-computing/"
 type: article
 quality: 84
-heat: 106
+heat: 108
 published: true
 
 provider:
@@ -48,6 +48,6 @@ related:
       domain: popsci.com
     quality: 32
 
-secured: "Kvhq9HpeyvQXCn9CunsWM8GWAjsrn+KutTuKLlFgS9wi8qJrW3vVKkllyWRc9MmxpsXn6KwxS1kcZMnwDPk2B26M7KurHciUwDTLwE9762zbqxmKWz3LaaMED8QcSc7zTnEFw6eww7glIGwzTGmCdxYZsjeH5tBU9kRxQsS6oja55IlAK4SUtA7qcnPTpO3oBohD7B69Z7oiRlkoKXKbuWhXNs7Q8uPWg327UNyk6grcFXouRC9ebnf8EUCC9QdRASBDz7rn3jT8i+90NMnpFT2POdy7LfWKz0yQM7/X7/oPJPvk+Ulu5ewQP1LEFyp7QE+8X5Giyz2x+mkg0Y/ybUn/MYgMNEes0Cjfcm0/AoHhG2aU3xosFmYy6OAUooewH8flRZQuHO/KhlV2nto8PamW9iRxJ1YLKx4UbZYl6wPTPGyO0LQp8ZHvA8PbcgTWqzy1blFbZj+DVmNh8i2qzMvYaUbNsI8clyRZPlDpqF6q4G3WzFpk5xObkiZX3SGCzp06KmfAc3CD4NpxkKLnQg==;5RJrZuqwwt4U0zp2AhUuOg=="
+secured: "X2r1CMDUk1nOfUaup+Go0lg50evjgbeXQ0+pefcZESyafty+TfS45BV/VIAN8vAdSuoj4eHw1k71nqxzAu1PDJamQFfO/Ce7NZwm/Yrds1pvW2UaH7mddkRkU2SZ6qpO3hOqS+ZYYOT7NtW6vWkd8KipG+JFaV9WAJF/tLEyhyePj5CXpqEYF1iWEYpVJcRP5MPcPZo5/krhWwTR1YRhA132BXwt3cKrBwWw9RjHieYGCZlLL8Xecb69A/YXRL9VZ2NaiqSm0Sxe/Pmn0oP2qJeKqEItYo478EAY9ijHAzXEv2di0/BEsiVkuT4Xcl/uXCGOCtL2nc9Hwh7U0j2pCDXBEACXQzlqGd/iq13+PxC84YQgagvXMXpsk1rIOKaY8QFdd+ie58Dt1Hz1Oo17x3ZVxFnuYnXr2OcHqr5O+RIFNiw3BuyyV5+l21Rn+fJ1BVFwNVwB9urR/G19A6mf8zQTa0d9YImI7FgIzlH+YZ4gqS58SG6GN1UbGVbRDItgKtUzggrnLPn4w55ZyhYvnQ==;FUNBqTlb7EKPOXqqqbGbPw=="
 ---
 

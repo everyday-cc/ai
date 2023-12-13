@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "This Mind-Reading Cap Can Translate Thoughts to Text Thanks to AI"
+    excerpt: "The system could give voice to people who can no longer communicate or be used to direct machines, like walking robots or robotic arms, with thoughts alone."
+    publishedDateTime: 2023-12-13T00:03:00Z
+    webUrl: "https://singularityhub.com/2023/12/12/this-mind-reading-cap-can-translate-thoughts-to-text-thanks-to-ai/"
+    ampWebUrl: "https://singularityhub.com/2023/12/12/this-mind-reading-cap-can-translate-thoughts-to-text-thanks-to-ai/?amp=1"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/12/12/this-mind-reading-cap-can-translate-thoughts-to-text-thanks-to-ai/?amp=1"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 74
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2023/12/dewave-ai-eeg-thought-reading-device.jpeg"
+        width: 1408
+        height: 792
+        isCached: true
   - title: "AI-Powered System Turns Thoughts Into Text"
     excerpt: "In a world-first, researchers have developed a non-invasive, AI-powered system that can decode thought into text, potentially enabling seamless communication between humans and machines."
     publishedDateTime: 2023-12-12T10:37:00Z

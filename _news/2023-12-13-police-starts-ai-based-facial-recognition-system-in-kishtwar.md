@@ -25,21 +25,16 @@ images:
     isCached: true
 
 related:
-  - title: "School district adds facial recognition of sex offenders to ROC.ai surveillance system"
-    excerpt: "The school district is adding the ability to cross-reference face images captured on campuses with the state's sex-offender database."
-    publishedDateTime: 2023-12-07T23:07:00Z
-    webUrl: "https://www.biometricupdate.com/202312/school-district-adds-facial-recognition-of-sex-offenders-to-roc-ai-surveillance-system"
+  - title: "Milestone in security: J&K Police introduces AI-based facial recognition System in Kishtwar"
+    excerpt: "In a first of its kind initiative, the Jammu and Kashmir Police have introduced an innovative AI-Based Facial Recognition System in Kishtwar, marking a significant milestone in the region's law enforcement capabilities."
+    publishedDateTime: 2023-12-12T22:31:00Z
+    webUrl: "https://www.risingkashmir.com/milestone-in-security-jk-police-introduces-ai-based-facial-recognition-system-in-kishtwar"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 46
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/25124143/facial-recognition-crowd-scaled.jpg"
-        width: 2048
-        height: 1333
-        isCached: true
+      name: Rising Kashmir
+      domain: risingkashmir.com
+    quality: 41
 
-secured: "ItTMjH/T4oFR6WxFDZwgqWabpOA9f4/Wv9xpJIqgimyA83v2UaOsDn0jklv2zMHZt8HYO0LFdoCnNxjLllc71CdCS9+QfbiL9w7V24TotKOTkI9OTndohWeytnNBFK+179qp617hwACtYT//H4P+GsTJiCvNsYXylRyPlrGZfwX929X73MV7sidV488APyOjO/Qp2QKgb2TCJw9yePt+szHWPbD3990xaQvEoaQ8KNXzhQb3qrbKV/tKsud2aQqPpCWdlRXxv/IB16x+qgnRGhl0cIG4OJs5H0siLkoXL7tuUiilNwNTsnzhdbCS4TyAwM6CekngNAciCqId4N0D636Z+zWIKzmRZ8Qp0KGuRmg=;IIyoc+MSVmQwp7vWPtniCw=="
+secured: "iO2o/9p0uI8zFhaMHF20TZS1CTLvgBAA974LUsmQJmU+DwMIpZR6SpEwB4jzBQzFaHb+mRbEusx+8yuCJF3UlZBOoI6LWWbqbtPVc4c0zKh1ByUZ3QsvxPioZVaNUVhrjSy8dZNfKrzkkgU+9EQLADK7is95ytihUayliFvX8++jc8yu8npUGWOYbK5ucT4XifK+rc54AlWyLk+KyLNC5hiFFsx/TPHDW5hwThfkg8gk1DzIAH6SFFelhqJzlTrunfkukWfIm+MtkF1gcqfyzadH9kTKacxIC8eEpJC9SmV40xScEx9lfypk37VjHFqjZuo3E112Sm5wi+yVi7iUmDD8hHQXZex7HgAed8W8au4mhteoMFWsYRVZgOVRvun0JZaTetpshOUWNmDJxwld3HxZ6g2QPX9offjiRMii+qpTfO2pmf+WfhqIsvNRC5o2IzOF8dQ7MTgEVMvB/feA1GSyxuBIDuegtgLLDubg4yDxwc/FVFPryf3R9Z71PWFHHQpjv7Ne4gVBV53gvMyt2Q==;ix8qe74RlfwLX7Siq9SFIg=="
 ---
 

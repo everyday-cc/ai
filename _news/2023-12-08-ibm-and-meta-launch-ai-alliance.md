@@ -24,6 +24,22 @@ images:
     height: 522
     isCached: true
 
+related:
+  - title: "Hi Auto Launches AI Voice-Cloning Feature"
+    excerpt: "“Lee’s has been blessed to partner with Hi Auto since December of 2020, utilizing their AI voice recognition technology to help our employees and restaurants through the pandemic. We look forward to implementing their latest innovation to make our ..."
+    publishedDateTime: 2023-12-12T00:00:00Z
+    webUrl: "https://www.qsrmagazine.com/operations/technology/hi-auto-launches-ai-voice-cloning-feature/"
+    type: article
+    provider:
+      name: QSR magazine
+      domain: qsrmagazine.com
+    quality: 39
+    images:
+      - url: "https://www.qsrmagazine.com/wp-content/uploads/2023/09/QSR_VAIO-300x205.jpg"
+        width: 300
+        height: 205
+        isCached: true
+
 secured: "4Ijhs9AUBaNoBSQdVrXWbSXFTWx/PKQDHxbl5Aw2N/3q/ToK1H/FxgeDAGrBlQyIIpi/csnDJvHc90HC2lcE3Wlzgon2g+Ix5nOBr7RS4VfJ/joRj9DPuo3uUWbNbo/i1Ksq5vvRTZC+XRXt1bzwCOmUSKtnJqUzrrJ1YRdYyT5FY9XzqmeKMf9+1udHE+N4LbqSvLfhQpqJ8pn+bHL+d7eVuHqnyTOZ2J9P37SRQKFODymOp2ooQhOZy/TzvdsfaSSxUFXG+/jh2iGfKpvhIIy2TjoEDMn0xqbxRkW/Ly6q6KdnQayh0IpQqYpDjx9F/pqsDUKS6B6QBCXiyO0DIjwSvOuNWFSfk5PMsA/fhWgT1zWrmJF1HoKjEEl7iRkxWqHvmeDuft6Ww/b9h1l/3RQeLXcy7bFjs3Pf1/8kj4tTKGE5T/qB/jxRLGiu64RHpV7azenetXGtpjtOk4d6uz3edJIxObkAYao2Qi/F+yfD8Tcfs/SVTvIMyiF9pX/8aNAcMnrni39ru/o6ibTBrg==;F1ITR2lOxpe6qLl553jPiQ=="
 ---
 

@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "AI and Machine Learning in Dog Training: A Game-Changer or Gimmick?"
-    excerpt: "Introduction: In recent years, the integration of artificial intelligence (AI) and machine learning (ML) in various industries has sparked a revolutionary wave of innovation. One area that has seen significant advancements is dog training."
-    publishedDateTime: 2023-12-08T00:53:00Z
-    webUrl: "https://techbullion.com/ai-and-machine-learning-in-dog-training-a-game-changer-or-gimmick/"
+  - title: "Amazon releases free Machine Learning program"
+    excerpt: "Up to 100 Australian students will participate in the free program, engaging in virtual classroom sessions held over four weekends during the summer. Each session will cover two modules, followed by interactive Q&A sessions with Australian-based Amazon senior ML scientists."
+    publishedDateTime: 2023-12-12T02:31:00Z
+    webUrl: "https://www.applianceretailer.com.au/amazon-releases-free-machine-learning-program/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 54
+      name: applianceretailer.com.au
+      domain: applianceretailer.com.au
+    quality: 39
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/AI-and-Machine-Learning-in-Dog-Training-A-Game-Changer-or-Gimmick.jpg"
-        width: 600
-        height: 450
+      - url: "https://www.applianceretailer.com.au/wp-content/uploads/2023/12/Amazon-Machine-Learning-School-iStock-1220028784.jpg"
+        width: 1199
+        height: 898
         isCached: true
 
 secured: "b7i3td2A05iiCibMjd/y6bTY4kQBj1K4s+qte7chZ1ZnkiKaHmc8qdcp7zFG/WWa8ggcNkY7A72WkL5BY6hgLBG+MKEXaqjPt7Y+cBQiwnY5nsy6qSgt+UB1PWepXxzPX+dOlEI1YXAC7kFA4eAbDtIwajbchOg9K1hvFcH7Oaf85zP9UqNdsa0DXX1LLL3K7Vuqs9nE0nes0UmmcA8faAwppP+1085FsTaYDWr3JBgir8Gg3O2JGa3X6QH9emTPoxQQgfV88QpQhfBfqyeTkUPyRRFcOYvnO32jWFb5fbrzeulOLsJka3G8J6yewsUpfzIA2iwBF3rlVqiWiobtpMjBHUj0CYgaqeP+Z9GwvZOftO8zW/JeDUjWjxOsNB9uBshDG99RHPcUk78sXctzX1XDLtviBxZpMZG1w2/QqTdEitW/eoMEaFIfg7XYDtcp4mwcOaTK66L2OmD1H+IpIcZya09wYeeuL6T4I2Qd2t5+HXNtoapOhmIcH0/avxC9HIp7oqSX2n0OOlv7Ivf0rg==;9Q/o2ZrHk75Cj+e4d39Irg=="

@@ -2,6 +2,236 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2023-11-15-ibm-unveils-watsonxgovernance-to-help-govern-and-build-trust-in-generative-ai.md",
+      "title": "IBM Unveils watsonx.governance to Help Govern and Build Trust in Generative AI",
+      "excerpt": "IBM today announced that watsonx.governance will be generally available in early December to help businesses shine a light",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/this-just-in/ibm-unveils-watsonx-governance-to-help-govern-and-build-trust-in-generative-ai/",
+      "originalUrl": "https://www.datanami.com/this-just-in/ibm-unveils-watsonx-governance-to-help-govern-and-build-trust-in-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T19:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-15-whylabs-announces-strategic-collaboration-agreement-with-aws-to-accelerate-responsible-generative-ai-adoption.md",
+      "title": "WhyLabs Announces Strategic Collaboration Agreement with AWS to Accelerate Responsible Generative AI Adoption",
+      "excerpt": "WhyLabs, Inc., the AI Observability company, today announced a Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS) to help enterpri",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20231114399174/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20231114399174/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T19:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-15-airbnb-acquires-ai-startup-gameplannerai.md",
+      "title": "Airbnb acquires AI startup GamePlanner.AI",
+      "excerpt": "Nov 14 (Reuters) - Airbnb (ABNB.O) said on Tuesday it has acquired GamePlanner.AI, a 12-person startup, for an undisclosed sum, amid rapid adoption of artificial intelligence that has taken the tech world by storm and pushed many companies to explore its uses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/markets/deals/airbnb-acquires-ai-startup-gameplannerai-2023-11-14/",
+      "originalUrl": "https://www.reuters.com/markets/deals/airbnb-acquires-ai-startup-gameplannerai-2023-11-14/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/ubYqesjaLMR0YeB9rNEHNNHIn0M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KEACCE5OYRM6HIL5VMVIYCVBDA.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T18:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-15-deepmind-says-its-new-ai-system-is-the-worlds-most-accurate-10-day-weather-forecaster.md",
+      "title": "DeepMind says its new AI system is the world’s most accurate 10-day weather forecaster",
+      "excerpt": "A new AI model called GraphCast provides weather forecasts with \"unprecedented accuracy,\" Google DeepMind claims.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/deepmind-ai-graphcast-weather-forecasting",
+      "originalUrl": "https://thenextweb.com/news/deepmind-ai-graphcast-weather-forecasting",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T18:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-15-mufg-signs-multiyear-global-agreement-with-aws-to-accelerate-digital-transformation.md",
+      "title": "MUFG Signs Multiyear Global Agreement With AWS to Accelerate Digital Transformation",
+      "excerpt": "Amazon Web Services (AWS), an Amazon.com company (NASDAQ:AMZN), today announced that Mitsubishi UFJ Financial Group (MUFG), Japan’s largest financial",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20231114720773/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20231114720773/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T18:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-15-google-graphcast-uses-ai-and-machine-learning-to-predict-weather.md",
+      "title": "Google GraphCast uses AI and machine learning to predict weather",
+      "excerpt": "Google DeepMind has created a new model called GraphCast that could help improve how we predict weather forecasts.",
+      "sourceUrl": null,
+      "webUrl": "https://bgr.com/tech/google-graphcast-uses-ai-and-machine-learning-to-predict-weather/",
+      "originalUrl": "https://bgr.com/tech/google-graphcast-uses-ai-and-machine-learning-to-predict-weather/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T17:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-15-airbnb-acquires-stealth-ai-startup-founded-by-a-creator-of-siri.md",
       "title": "Airbnb acquires stealth AI startup founded by a creator of Siri",
       "excerpt": "Airbnb (Nasdaq: ABNB) has acquired a 12-person AI startup, GamePlanner.AI, in order to use its team to flesh out and expand its AI-related services, the company announced Tuesday. According to CNBC, the deal was worth $200 million.",
@@ -706,258 +936,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-the-download-the-origins-of-life-and-building-facebooks-ai-empire.md",
-      "title": "The Download: the origins of life, and building Facebook’s AI empire",
-      "excerpt": "Fei-Fei Li is one of the most prominent computer science researchers of our time. The co-director of Stanford’s Human-Centered AI Institute is best known for creating ImageNet, a popular image data set that was pivotal in allowing researchers to train modern AI systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/11/14/1083358/the-download-the-origins-of-life-and-building-facebooks-ai-empire/",
-      "originalUrl": "https://www.technologyreview.com/2023/11/14/1083358/the-download-the-origins-of-life-and-building-facebooks-ai-empire/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh7-us.googleusercontent.com/-YjumzBcBCmHyw7HxEoUz2WXxvybYmf8I_BP-RYwC14ekNJUJlJ6-5I-2xYFOdT3zrVcWV344pfimus_HQ-uDDUPfrXBJlzowpQSt8cM9J9AncQ_Qf0x3TBpzggxBiTC2mwQ-zuZika7KHg1YskQKao",
-          "width": 681,
-          "height": 454,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/11/14/1083358/the-download-the-origins-of-life-and-building-facebooks-ai-empire/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/11/14/1083358/the-download-the-origins-of-life-and-building-facebooks-ai-empire/amp/",
-      "publishedDateTime": "2023-11-14T13:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-neobanks-democratizing-financial-services-for-the-underbanked.md",
-      "title": "Neobanks: Democratizing Financial Services For The Underbanked",
-      "excerpt": "Neobanks are evolving at a breakneck speed to level the financial field for the underbanked, with the global neobank market expected to surge from approximately $72 billion in 2022 to over $2.15 trillion by 2030.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/14/neobanks-democratizing-financial-services-for-the-underbanked/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/14/neobanks-democratizing-financial-services-for-the-underbanked/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6092a2d54d48008db59d4448/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1079,
-          "height": 719,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/14/neobanks-democratizing-financial-services-for-the-underbanked/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/14/neobanks-democratizing-financial-services-for-the-underbanked/amp/",
-      "publishedDateTime": "2023-11-14T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-apple-iphone-16-to-get-ai-powered-features-like-real-time-language-translation-document-summarisation-with-ios-18.md",
-      "title": "Apple iPhone 16 to get AI-powered features like real-time language translation, document summarisation with iOS 18",
-      "excerpt": "While details are still under wraps, experts believe Apple is stepping up its game against competitors like Google and Samsung.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/magazines/panache/apple-iphone-16-to-get-ai-powered-features-like-real-time-language-translation-document-summarisation-with-ios-18/articleshow/105211581.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/magazines/panache/apple-iphone-16-to-get-ai-powered-features-like-real-time-language-translation-document-summarisation-with-ios-18/articleshow/105211581.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T12:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-artificial-intelligence-and-social-emotional-learning-are-on-a-collision-course.md",
-      "title": "Artificial Intelligence and Social-Emotional Learning Are on a Collision Course",
-      "excerpt": "Artificial intelligence is poised to dramatically change how kids develop their sense of self and interact with other people.",
-      "sourceUrl": null,
-      "webUrl": "https://www.edweek.org/leadership/artificial-intelligence-and-social-emotional-learning-are-on-a-collision-course/2023/11",
-      "originalUrl": "https://www.edweek.org/leadership/artificial-intelligence-and-social-emotional-learning-are-on-a-collision-course/2023/11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://epe.brightspotcdn.com/dims4/default/32c09bb/2147483647/strip/true/crop/3000x2006+0+0/resize/942x630!/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.us-east-1.amazonaws.com%2Fdd%2F2d%2Fe84d750c411b8d86b81e946c33df%2Fai-sel-1634086519.jpg",
-          "width": 942,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T12:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Education Week",
-        "domain": "edweek.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-how-facebook-went-all-in-on-ai.md",
-      "title": "How Facebook went all in on AI",
-      "excerpt": "Inside Facebook and the Fight to Expose its Harmful Secrets, Jeff Horwitz reveals how the company came to rely on artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/11/14/1083336/how-facebook-went-all-in-on-ai/",
-      "originalUrl": "https://www.technologyreview.com/2023/11/14/1083336/how-facebook-went-all-in-on-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/11/horwitz-cover.jpg?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/11/14/1083336/how-facebook-went-all-in-on-ai/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/11/14/1083336/how-facebook-went-all-in-on-ai/amp/",
-      "publishedDateTime": "2023-11-14T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-the-squishy-robot-that-walks-the-pros-and-cons-of-ai-seeing-things-that-we-dont.md",
-      "title": "The Squishy Robot That Walks: The Pros and Cons of AI Seeing Things That We Don’t",
-      "excerpt": "An AI built a robot that can walk in a way we can't comprehend. This is a genie in a box that poses incredible opportunities — and risks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techopedia.com/the-squishy-robot-that-walks-the-pros-and-cons-of-ai-seeing-things-that-we-dont",
-      "originalUrl": "https://www.techopedia.com/the-squishy-robot-that-walks-the-pros-and-cons-of-ai-seeing-things-that-we-dont",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T10:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Techopedia",
-        "domain": "techopedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

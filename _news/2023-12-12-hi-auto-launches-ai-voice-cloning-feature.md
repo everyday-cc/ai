@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Deepdub, startup with ties to HBO Max and Fox, launches royalty program for AI voice clones"
-    excerpt: "The startup did not provide information on precisely how much money vocal artists would receive every time their voice was used."
-    publishedDateTime: 2023-12-08T00:33:00Z
-    webUrl: "https://venturebeat.com/ai/deepdub-startup-with-ties-to-hbo-max-and-fox-launches-royalty-program-for-ai-voice-clones/"
+  - title: "IBM and Meta Launch AI Alliance"
+    excerpt: "IBM and Meta's AI Alliance prioritizes open and transparent innovation for AI advancements while focusing on safety, diversity, and economic opportunities."
+    publishedDateTime: 2023-12-08T07:26:00Z
+    webUrl: "https://realtybiznews.com/ibm-and-meta-launch-ai-alliance/98780511/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 59
+      name: realtybiznews
+      domain: realtybiznews.com
+    quality: 39
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/12/cfr0z3n_vector_art_line_art_flat_illustration_style_surreal_ima_7c73dac2-8f58-4d7d-9453-d9085963aaf4.png?w=1200&strip=all"
-        width: 1200
-        height: 672
+      - url: "https://realtybiznews.com/wp-content/uploads/2023/12/AI-Alliance.png"
+        width: 1007
+        height: 522
         isCached: true
 
 secured: "BDkGcukSVg1ZcQW3dbuHtHvIqImGmhQWSe7WUlAV4+65lGgN/st6IHpwnsgBCQs2Ibav5cHRkjCYCAT2KAxlTJCy+TFtNubJ+6LEDQO5arYjVgTaPq0pilczLhW9MjRwk7yz+VYN6luLJAzyAjF1BIy3bTe/+4Q+cnTyZuRs7pteRzt388oTX/V12StBFx1fgmL8XPf57JGKvM/U1NOnGkW+toCWpIae3NAFFsSh5hdLixITDxpBMu8cAvTZ4FTaLDlPGHvK04kzAlqdgmZZLR8wnRC+aGdmv3vqkZWWjp1Ysa3izw6rqUJREzVtDYRUfmty+HvythjbhQZr/7BbM75vmt7jWNXLhA6Ift2iJsw=;dKiPqugdBFWoPeNSosMZzw=="
