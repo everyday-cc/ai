@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/sponsor/redpanda-organization/ai-in-action-
 webUrl: "https://techcrunch.com/sponsor/redpanda-organization/ai-in-action-how-to-bring-real-time-decision-making-to-ai-ml/"
 type: article
 quality: 84
-heat: 84
+heat: 86
 published: true
 
 provider:

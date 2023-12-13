@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "US government is looking at NVIDIA's new AI GPUs for China, says they're a 'good partner'"
+    excerpt: "Gina Raimondo, the US Secretary of Commerce, said NVIDIA is a 'good partner' and that the US government has a 'close working relationship' with them."
+    publishedDateTime: 2023-12-13T01:19:00Z
+    webUrl: "https://www.tweaktown.com/news/94932/us-government-is-looking-at-nvidias-new-ai-gpus-for-china-says-theyre-good-partner/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 45
+    images:
+      - url: "https://static.tweaktown.com/news/9/4/94932_801_us-commerce-secretary-says-nvidia-is-good-partner-as-they-share-ai-chip-designs-for-china_full.png"
+        width: 1500
+        height: 857
+        isCached: true
 
 secured: "mMOwWSFiEsQlhC1wdwBkSm+eQGFM7h1DJMIafgSwuJ2Uwy/o7trOjVXmiUPYpDj2ahMINQHaNuJJRWuZYYyKOhP7IRwZHEkYo8jJ/vxs3ni7e7TBWVheEJmEKtirYcn4ryqC39sRFTFOre6Ija7AVdFBgactm+D9UcKg/YRH4F5Pdy/fc//qvB1viRP0XNDWaEoOmCPEq9LlCx/Z6ZLMMmnBstntKeC7X/bZX5NdPotVGk5++ltFrUDCcP+3wMXrjyqkrKyhLPHP6IfkseiNX6OARzG8sSBM5tXxAhfATvfz9/cObqDx3DPdfPBd4m22d6pr2E3Yvd9yrnSUHhyP0T+krZptNmmyRNmUl82ldlkpCbj3OfwJkjLCATdszzy/anMSRiK/ExUyVqk3nYhLHUxTAlxNcE1TzhTK6eLtzVTV+PXqc1819TyIK9Je3nJoBfB4VOyXxcl8iO4DpGNAmnpRN829yyuOpM8g3exYoIFmh/JOlETftLhJCJ3xLjg5JWOnkcPkwlBJbb5KJcb1BA==;Nqo9E1yhHQfMeaao71D9dg=="
 ---

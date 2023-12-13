@@ -264,15 +264,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 19
-  - title: "Yotta Data Services Collaborates with NVIDIA to Catalyze India's AI Transformation"
-    excerpt: "India's Largest Supercomputer of 16 Exaflops AI computing power with NVIDIA H100 Tensor Core GPUs to drive mass-scale AI innovation in India Yotta Data Services today announced a collaboration with NVIDIA to deliver cutting-edge GPU computing infrastructure and platforms for its Shakti Cloud platform."
-    publishedDateTime: 2023-12-08T01:30:00Z
-    webUrl: "https://www.newswit.com/en/ifkygiehma1blui2jw2drclqmefj5f27"
-    type: article
-    provider:
-      name: academy
-      domain: newswit.com
-    quality: 13
 
 secured: "2yDI5wQ82ISvy4hH2uzp17j7Oj9fXtBD3uqSnORc/EOSj2Bh2klr9zQBIZVirX4IL8bgfNLSVr5BvtxHZhnDVKqtZcxvMMHVjUvTTtEiEQcDHU3gpa35QeGUnox/Jur4UyvnuwkkIgvM1jQk6bjxWhyHm33xK4khPUccMZfDuz9PMiw+kjKS225SMzbbLihs86Ei/o5617ZAHSMftQp+k0H/5YfsCOwxLmMa+se4BSz/LaOP9TDbLVT1krDvvMPj4NjDSNBP9zyZSC3SvD/3zdeXcUVqJKaBZNypA6YUMuEhJ1AKdNWMSAuRcjXNZ4CAI8hf/Irtsa2Th/OMrtwJiGoP4EKrF8PcJ4u6ejCXLk8Vfh1KnY+gyAszNkCmGxhtKFN6PoWjLwSothRP5DwjJdLu58UhLZMVBR51KutlnAGtvmRS2KyqaNWvENNEf+r9XBJhpT6hrfgr7hZTUTvSZ9ZO8xFE7O/TXbkck8IAxTNUhXc5wVOcZitrkcQgLkMdVELlGt52LA9u7Y7KCYettg==;W4/bRZKk6adazuRTa2/QnQ=="
 ---

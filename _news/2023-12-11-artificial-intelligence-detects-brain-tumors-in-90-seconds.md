@@ -9,7 +9,7 @@ ampWebUrl: "https://www.albawaba.com/amp/editors-choice/artificial-intelligence-
 cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/editors-choice/artificial-intelligence-detects-brain-tumors-90-seconds-1544683"
 type: article
 quality: 74
-heat: 74
+heat: 76
 published: true
 
 provider:

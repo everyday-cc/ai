@@ -7,7 +7,7 @@ originalUrl: "https://www.scmp.com/tech/tech-war/article/3244739/nvidia-talks-bi
 webUrl: "https://www.scmp.com/tech/tech-war/article/3244739/nvidia-talks-biden-administration-about-ai-chip-sales-china-us-commerce-chief-gina-raimondo-says"
 type: article
 quality: 82
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://em-graphics.s3.us-west-2.amazonaws.com/archintel-media/1d50c3e6-2b9f-4f8d-b122-449e8759d95d.png"
         width: 1200
         height: 628
+        isCached: true
+  - title: "US government is looking at NVIDIA's new AI GPUs for China, says they're a 'good partner'"
+    excerpt: "Gina Raimondo, the US Secretary of Commerce, said NVIDIA is a 'good partner' and that the US government has a 'close working relationship' with them."
+    publishedDateTime: 2023-12-13T01:19:00Z
+    webUrl: "https://www.tweaktown.com/news/94932/us-government-is-looking-at-nvidias-new-ai-gpus-for-china-says-theyre-good-partner/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 45
+    images:
+      - url: "https://static.tweaktown.com/news/9/4/94932_801_us-commerce-secretary-says-nvidia-is-good-partner-as-they-share-ai-chip-designs-for-china_full.png"
+        width: 1500
+        height: 857
         isCached: true
 
 secured: "46vi5O9N57JtaC3/4MdQx7VgKzodvOKHkqxqvh7jC7U+E4odQ3+GuikeBnA1mvZmZFFGiIvmWu/Eki6EC7zueay+DwdgPeMkPRVnwkKR5ReZEHeR9xC6vywveJqXaUBHDjaC07RuB+LG8a89EwtfDX/oJnIKrha941okrMZ8EsrXMJMJ00+91T8qRlmFAfmuVBemDmcKXhOB/2zzYi7pDwdxi7TbMlaFrqf1lRje1yH4p5imeiuxT1+gy8BNGIXYUTpFoj+dKrlv3yggmrncW7W4OUG4n9/1dRDDo3NGQdv/XhphZv9fftapy1ENTGNtO2gcnqdAt5IBUgISiFRMNmAbMuYDLhKucloJbo87IQC4SVL8nnyPPooRG8ZEFcc/O9/h5O0sKkiZF109G5zMRwDMoiVfDauHoesTRHskvCPX/SlQ5bN4xX0yvRBDqh7AFkuW93rgkiat7nbynqWaXLbviqJaOtRzINM6of2F0H8OFBe7J7mG9FiVQrnozGxrkO/6DIRXDgmcO3GbMKiSdw==;f6OSpQF6EEdinCUDIeg4Xg=="

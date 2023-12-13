@@ -9,7 +9,7 @@ ampWebUrl: "https://singularityhub.com/2023/12/12/this-mind-reading-cap-can-tran
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/12/12/this-mind-reading-cap-can-translate-thoughts-to-text-thanks-to-ai/?amp=1"
 type: article
 quality: 74
-heat: 114
+heat: 115
 published: true
 
 provider:
@@ -79,6 +79,6 @@ related:
       domain: nanowerk.com
     quality: 17
 
-secured: "NePyUtzYGV4mwgskwjDZAz65kHsYg5HeOXthXNUnKWHQIMNONr2icYF3cT01utuuPffMgBWVPbilASDAlg0sGVxWObOZlZib2UPfS729TyyfhHcvTN4LUT9ZxdAolVGtf1ep5qH4grR64LxMTpDdzXi4dP9vsjHm3fNh+BgzM7XXLYKg8LqKljwiRWY8bLjuGHBX96i1kXYnbPHuU99O8Ek07Y/Hyvub8oFFpFS5QO+geLEwQOR/j8POs0yoriehUh3YZMgnLfm++bDT/F68JV5Ib89AuWQ1bqTYcCNDIAfmdg3sKQARDKBq78e8JZoIz+PQ6PXhHSttD2bEZaigLeUjMGLCc1NQSuqrVCQp2co=;ULhba+wwv01juD/pvrW9/A=="
+secured: "LtXegHMVH4YN1aG+uJkOAyu51SgL9KnJOFzz2Y8w7BqEsZolucPwVPKHz7I1YyWb8VRTzZwSsoZEkTkRQYkvndnnvFCvNxyHDHW24XrJXemVS7ImBECLlGy72e/jzvKmSmS/1u2mkCLGD7ZWskJG/MbikWgbkzRNyx3JShddiEI18b39ctEeyXNc5HjtOJWr8tE483B0m6TKEuHVk6waqwys23+bmq8dhfs1IE8Y1HxA+187eOOsQvaTFJnUBq4ExOI7gip9SN62OFB2/nrt9kzMBFztJ17DMhh9QtA6DuKRZ0+zsAyY4S1XtwcJP6pzCwWioFJQcvYURwts6DUzrG+HwibbdPbyd6OFzw2L/Sho0LRtLG1hsVY+JYMjSoZ/zsz9IHVwyws3MRs8Z+SP+GETrAlBJhL6GMdPagCX50vd9FD33SOrp6Jiw2DcE9WaYY6dEWcT2JCKJlhV/gEWZCdL1oOZiOlVbRyrjO8UDD0K23FAjOawjPZVd/SqnjpAxO2s/5Mgs/326S1i0fwhdw==;wZEE2CDu/W10wjTqdYiJXg=="
 ---
 

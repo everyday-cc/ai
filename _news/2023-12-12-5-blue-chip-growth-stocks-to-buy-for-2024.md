@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/5-blue-chip-growth
 webUrl: "https://markets.businessinsider.com/news/stocks/5-blue-chip-growth-stocks-to-buy-for-2024-1032890940"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "ASE, KYEC look to AI chips for 2024 growth"
+    excerpt: "OSATs may see inventory adjustments last into the first half of 2024, longer than other semiconductor sectors, but demand for AI chips will fuel their growth next year, according to industry sources."
+    publishedDateTime: 2023-12-13T01:27:00Z
+    webUrl: "https://www.digitimes.com/news/a20231212PD216/ase-kyec-osat.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20231212pd216_files/2_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "Pre-Christmas Stock Picks: 3 Growth Stocks Analysts Are Gushing Over"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Retail sales in the United Statesrecently exceeded forecasts, bolstered by"
     publishedDateTime: 2023-12-12T23:27:00Z

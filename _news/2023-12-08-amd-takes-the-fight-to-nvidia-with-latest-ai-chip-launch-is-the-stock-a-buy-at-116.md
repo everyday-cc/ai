@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2023/12/08/amd-takes-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2023/12/08/amd-takes-the-fight-to-nvidia-with-latest-ai-chip-launch-is-the-stock-a-buy-at-116/amp/"
 type: article
 quality: 97
-heat: 287
+heat: 277
 published: true
 
 provider:
@@ -264,15 +264,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 19
-  - title: "Yotta Data Services Collaborates with NVIDIA to Catalyze India's AI Transformation"
-    excerpt: "India's Largest Supercomputer of 16 Exaflops AI computing power with NVIDIA H100 Tensor Core GPUs to drive mass-scale AI innovation in India Yotta Data Services today announced a collaboration with NVIDIA to deliver cutting-edge GPU computing infrastructure and platforms for its Shakti Cloud platform."
-    publishedDateTime: 2023-12-08T01:30:00Z
-    webUrl: "https://www.newswit.com/en/ifkygiehma1blui2jw2drclqmefj5f27"
-    type: article
-    provider:
-      name: academy
-      domain: newswit.com
-    quality: 13
 
 secured: "wudy+fkg3SXWvOmZh6xrW24W9idS0axM4AgL0h/WkFot5BWSTiM5Go1WexzjDOSPOoFAOEIooxt8YqiL6JVuI+/g7e3Vx54Q8McE6HIr+8HaIgHn5tleA6HuzFzeTkT+E9MjGlfeuKmE+Iu+b5udE5dsoy79tIOb4piqe6hnFYrMfv89MC7LjVwhns35z/x4vrSjHbIikBarWGWJCY5ms+RFcWiZCECb7W4QT28jEcYp+F+Q+baeH+MvYWh1WGIQqaFdZHtGG9iglIjGGH5pYHymcdqQCDiSivVxD0xaR1Ony4a6rwxRxB6m4LYmG7J7+UgMcNHxdQJhkx5oUGx96iatDWOEfANsSfTzRH4PKJVe2erDNcaKwMT5jZpQ6HGbH4uS3+8XDMli6+m+OtC7pZC0mR6bbLzbBtGsl9WmmAyU+8r5URDv7Ob8mFmya0TZcucAwM0uZzYE5iiMo7T7vGUjqAN+PuiTmP8Q6qMJjGiKMFoh9jfk1lqafgvo5OT+INxfL+Em8WvPj+hyCXiU5g==;B4vmHAHAtDN5AKdeGg2W1A=="
 ---

@@ -2,6 +2,40 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-12-04-seismic-therapeutic-closes-121-million-series-b-financing-to-advance-immunology-pipeline-optimized-by-its-machine-learning-platform.md",
+      "title": "Seismic Therapeutic Closes $121 Million Series B Financing to Advance Immunology Pipeline Optimized by its Machine Learning Platform",
+      "excerpt": "CAMBRIDGE, Mass.--(BUSINESS WIRE)--Seismic Therapeutic, Inc., the machine learning immunology company, today announced that it has closed a $121 million Series B financing. The Series B was led by new investor Bessemer Venture Partners with participation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20231204060594/en/Seismic-Therapeutic-Closes-121-Million-Series-B-Financing-to-Advance-Immunology-Pipeline-Optimized-by-its-Machine-Learning-Platform/",
+      "originalUrl": "https://www.businesswire.com/news/home/20231204060594/en/Seismic-Therapeutic-Closes-121-Million-Series-B-Financing-to-Advance-Immunology-Pipeline-Optimized-by-its-Machine-Learning-Platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T07:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-04-adopting-and-expanding-ethical-principles-for-generative-artificial-intelligence-from-military-to-healthcare.md",
       "title": "Adopting and expanding ethical principles for generative artificial intelligence from military to healthcare.",
       "excerpt": "In 2020, the U.S. Department of Defense officially disclosed a set of ethical principles to guide the use of Artificial Intelligence (AI) technologies on future battlefields. Despite stark differences,",
@@ -966,49 +1000,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-02-computer-vision-eastern-africa.md",
-      "title": "Computer Vision - Eastern Africa",
-      "excerpt": "The market size in the Computer Vision market is projected to reach US$48.55m in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 14.98%, resulting in a market ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/eastern-africa",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/eastern-africa",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-02T13:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

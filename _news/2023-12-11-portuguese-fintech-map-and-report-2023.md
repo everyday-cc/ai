@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Consumer tech market set for growth surge; Kunal Shah on fintech, regulations"
+    excerpt: "The consumer technology market in India will likely touch $300 billion in the next four years, while online retail could top $160 billion by 2028, reports suggest. This and more in todays ETtech Morning Dispatch."
+    publishedDateTime: 2023-12-13T01:52:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/consumer-tech-market-set-for-growth-surge-kunal-shah-on-fintech-regulations/articleshow/105945927.cms?from=mdr"
+    ampWebUrl: "https://m.economictimes.com/tech/newsletters/morning-dispatch/consumer-tech-market-set-for-growth-surge-kunal-shah-on-fintech-regulations/amp_articleshow/105945927.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/newsletters/morning-dispatch/consumer-tech-market-set-for-growth-surge-kunal-shah-on-fintech-regulations/amp_articleshow/105945927.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 41
+    images:
+      - url: "https://img.etimg.com/thumb/msid-105942483,width-280,height-210,imgsize-182440/auto-companies-log-best-ever-november-sales-on-robust-festive-demand.jpg"
+        width: 280
+        height: 210
+        isCached: true
   - title: "5 Investment Tools That Dominated the FinTech Scene in 2023"
     excerpt: "For long-term financial needs, such as retirement, upcoming vacations, or a down payment, Betterment’s investment strategy employs low-cost ETFs (exchange-traded funds) and adjusts the risk profile based on the individual's goal type and the planned investment  duration."
     publishedDateTime: 2023-12-12T06:14:00Z

@@ -2,6 +2,58 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2023-11-25-application-modernization-overview.md",
+      "title": "Application modernization overview",
+      "excerpt": "Application modernization is the process of updating legacy applications leveraging modern technologies. Learn more in this post.\nThe post Application modernization overview appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/application-modernization-overview/",
+      "originalUrl": "https://www.ibm.com/blog/application-modernization-overview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/11/Screenshot-2023-11-22-at-12.03.16%E2%80%AFPM.png",
+          "width": 1180,
+          "height": 912,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-25T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-25-this-ai-generated-influencer-can-pull-in-10000-euros-a-month.md",
       "title": "This AI-Generated Influencer Can Pull In 10,000 Euros A Month",
       "excerpt": "The thing is, Lopez isn’t real. She’s AI generated. She’s also a successful influencer. She can make up to 10,000 euros a month (more than $10,000), according to the Barcelona design agency that created her and maintains her peppy social media persona.",
@@ -1136,49 +1188,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-11-24-black-friday-roomba-deals-2023-best-robot-vacuums-on-sale.md",
-      "title": "Black Friday Roomba deals 2023: Best robot vacuums on sale",
-      "excerpt": "Available on Amazon Next up, we have the Roomba 694 robot vacuum that’s down to $159 for Black Friday 2023. This powerful vacuum cleaner covers all the basics. And it adds in voice control thanks ... With that in mind, you can rest assured that this ...",
-      "sourceUrl": null,
-      "webUrl": "https://bgr.com/deals/black-friday-roomba-robot-vacuum-deals/",
-      "originalUrl": "https://bgr.com/deals/black-friday-roomba-robot-vacuum-deals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bgr.com/wp-content/uploads/2023/08/Roomba-Robot-Vacuums.jpg?quality=82&strip=all",
-          "width": 3560,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-23T16:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "bgr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/midjourney-vs-dall-e/"
 webUrl: "https://www.techrepublic.com/article/midjourney-vs-dall-e/"
 type: article
 quality: 71
-heat: 83
+heat: 81
 published: true
 
 provider:

@@ -2,6 +2,49 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2023-11-29-facebook-researchers-test-ais-intelligence-and-find-it-is-unfortunately-quite-stupid.md",
+      "title": "Facebook Researchers Test AI's Intelligence and Find It Is Unfortunately Quite Stupid",
+      "excerpt": "A team of researchers at ... the research demonstrates that we're likely still a long way away from reaching artificial general intelligence (AGI), the state at which AI algorithms can outperform ...",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/the-byte/facebook-researchers-test-ai-intelligence-stupid",
+      "originalUrl": "https://futurism.com/the-byte/facebook-researchers-test-ai-intelligence-stupid",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2023/11/facebook-researchers-test-ai-intelligence-stupid.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-29T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-29-gms-self-driving-cruise-origin-indefinitely-delayed-amid-major-setbacks.md",
       "title": "GM's Self-Driving Cruise Origin Indefinitely Delayed Amid Major Setbacks",
       "excerpt": "But a series of mishaps for Cruise's fleet of self-driving Chevrolet Bolt EV prototypes have not only prevented the start of Origin production, but have also set back the company's entire ...",
@@ -1089,49 +1132,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-artificial-intelligence-the-top-ai-stocks-to-buy-and-hold-for-new-year-2024.md",
-      "title": "Artificial Intelligence: The Top AI Stocks to Buy and Hold for New Year 2024",
-      "excerpt": "By now, you’re well aware of the artificial intelligence boom. You know Big Tech has been investing billions of dollars into it. Microsoft, for example, invested about $13 billion in Open AI. Even the industry’s 800 lb.",
-      "sourceUrl": null,
-      "webUrl": "https://www.baystreet.ca/articles/stockstowatch/92814/Artificial-Intelligence-The-Top-AI-Stocks-to-Buy-and-Hold-for-New-Year-2024",
-      "originalUrl": "https://www.baystreet.ca/articles/stockstowatch/92814/Artificial-Intelligence-The-Top-AI-Stocks-to-Buy-and-Hold-for-New-Year-2024",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.baystreet.ca/images/articlegroups/original/yahoonews/private/AI.jpg",
-          "width": 845,
-          "height": 396,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-28T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BayStreet",
-        "domain": "baystreet.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }
