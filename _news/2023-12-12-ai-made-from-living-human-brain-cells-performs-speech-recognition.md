@@ -58,6 +58,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Scientists Made AI Out Of Living Human Brain Cells That Can Recognize Speech"
+    excerpt: "Scientists have once again voluntarily moved us a step closer to meeting our new robot overlords thanks to some new advances in artificial i"
+    publishedDateTime: 2023-12-13T13:47:00Z
+    webUrl: "https://brobible.com/culture/article/ai-living-human-brain-cells-recognize-speech/"
+    type: article
+    provider:
+      name: BroBible
+      domain: brobible.com
+    quality: 36
+    images:
+      - url: "https://brobible.com/wp-content/uploads/2023/12/illustration-of-artificial-intelligence-and-brain.png"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "NsAqsfnSBc3jsKdylPGDBZRWkF4On5XEXZIHujELgNQaAN7X5Wk8bgeFlJ4XRcy+Rj0XRmzc4kP95FUOTRw80mYN4yvQ8SviMCS4TGQgPS6nxOzDTAdWM7zZATx8gK2/tMm2M/G3ymOmjeGW7ntPa0LGFkxkAMOvLp/CoXnsKKjp0wmFtfvaPlE25uWEil1ds0fBQ8gY05e11gKahhoCfWZ0eZ3ztN8U0DeQ1Y4JAIONMiB4c1POVGqg0YJEGnBGRDuX/MPG766Dwak3Vj99ITh1LSC8tSZraSksJIRchzckm0hIdXv0DK4YOcOOez5playuYf2UCIcqur943x8AWfdG3HF8L6uPD6swncgmH28=;Js1n9Sxb1Xwjf6ZZBYwbYQ=="
 ---

@@ -39,19 +39,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Napa's Internet Marketer: Expect AI-powered everything in 2024"
-    excerpt: "Napa's Internet Marketer Janet Peischel talks about trends to expect in Marketing in 2024. Hint: It's all about artificial intelligence (AI)."
-    publishedDateTime: 2023-12-12T15:40:00Z
-    webUrl: "https://napavalleyregister.com/news/local/business/napas-internet-marketer-janet-peischel-on-marketing-trends/article_d751b170-948f-11ee-840f-ab16b9fc5a69.html"
+  - title: "Top 7 Noteworthy AI Innovations in Fashion in 2023"
+    excerpt: "Now, let’s explore some of the key developments in the application of AI in the fashion industry this year."
+    publishedDateTime: 2023-12-11T06:34:00Z
+    webUrl: "https://analyticsindiamag.com/top-7-noteworthy-ai-innovations-in-fashion-in-2023/"
     type: article
     provider:
-      name: Napa Valley Register
-      domain: napavalleyregister.com
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
     quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/napavalleyregister.com/content/tncms/assets/v3/editorial/8/d4/8d4ace5c-3e60-5a9c-97b5-5e808b8242c2/5f1f621548bc3.image.jpg?crop=1127%2C592%2C13%2C421&resize=1127%2C592&order=crop%2Cresize"
-        width: 1127
-        height: 592
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/12/Top-7-Noteworthy-AI-Innovations-in-Fashion-in-2023.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "fgCnALSlRHAJw2aAImbXZSdF/z+ju7kZj7gX/l1j8oBdIjFMYqTbzlaGYGKhBzbFNqq+CVY48Wrkr92QQ3VNkosDPauI5GXP1dDxmzmilajI+xftKqtDCHhuPx2nfF55kda+dUoXPZ2qyRLvelrOh82+c89AvRWIyuFXmYehv3DHVP2Dih17VJ4OR97kekXsPn9GhcXsquJh4fxOVTOHAcu8TBKlUNtQ93NLgIVvAITJ1Y+RKFZfqOv4ILmJMNIamdi0runXm7AyQDT4og4DPDzEE55asrvPdJI3akPIxyhx0wtWb+4/urRH4o+Du937gcDUBaWVM7Cs+eXXDmUr4xPWocq6e4dJkwOvnc5ekGk=;itenKxANaZg43Vyn+Vvy1Q=="

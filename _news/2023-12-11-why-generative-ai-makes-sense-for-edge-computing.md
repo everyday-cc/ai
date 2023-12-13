@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/11/why-genera
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/11/why-generative-ai-makes-sense-for-edge-computing/amp/"
 type: article
 quality: 91
-heat: 211
+heat: 191
 published: true
 
 provider:
@@ -103,20 +103,6 @@ related:
       name: Time
       domain: time.com
     quality: 47
-  - title: "UBS Report: Generative AI for Financial Services"
-    excerpt: "In the financial services industry, generative artificial intelligence (AI) is being deployed to automate time-consuming, tedious jobs in areas including customer service, fraud prevention, coding and information analysis."
-    publishedDateTime: 2023-12-13T06:52:00Z
-    webUrl: "https://fintechnews.ch/aifintech/ubs-report-generative-ai-for-financial-services/65521/"
-    type: article
-    provider:
-      name: fintechnews
-      domain: fintechnews.ch
-    quality: 39
-    images:
-      - url: "https://fintechnews.ch/wp-content/uploads/2023/12/UBS-Report-Generative-AI-for-Financial-Services.jpg"
-        width: 1024
-        height: 567
-        isCached: true
   - title: "Turn Generative AI from an Existential Threat into a Competitive Advantage"
     excerpt: "By making it vastly easier and cheaper to improve or create products and services that previously required significant human labor and creativity, generative AI has the potential to disrupt or even commoditize many businesses."
     publishedDateTime: 2023-12-11T17:00:00Z
@@ -177,15 +163,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 17
-  - title: "Dell Technologies storage advancements accelerate AI and generative AI strategies"
-    excerpt: "Dell Technologies is helping customers achieve faster AI and generative AI (genAI) performance with new enterprise data storage advancements and validation with the Nvidia DGX SuperPod AI infrastructure."
-    publishedDateTime: 2023-12-11T01:11:00Z
-    webUrl: "https://itwire.com/guest-articles/company-news/dell-technologies-storage-advancements-accelerate-ai-and-generative-ai-strategies.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 14
 
 secured: "JqXK/gsDjka9BXWK38PXhlHk7PMNh1Lz8bDndRbq1fGHZJGlTlBIfOGgNn2qBWM0pXbWCEb6vc9s/FQlm/ZBKh4CYcpBKiUPcT1ac8W3nAwGQ3AmwmuSFDDssAwin6deXFiTcSObudBDrc4uaBoRQquK7tWrL+yC9uO2m5COL0KUXc++7U4WPZ5gjgzgaUvYtlL9Kv0yhBhSdmXjFKIH4OYSuUUmLRunT0AmdOCEn1wDUImDaloSjKdO2vakiON47/OhWimJp9YUjyGD4QlQ98Pxc1KSEwRwRds6+dIFdPDJS9ca5qflye3lF7IXEttKACWgSqrHR3LZTaP8VtblPaQboKYhtmO1vFbXniQuK4W+tbcWZ6IwL9lbkzMTNrXBLcyO4Q6t5ryQ491g0aPmyWgtP1nese3jrxjiMMDrLjdQdPFET7P72/IxxKUfEn0ZklTgoMFJVaiRTy3ZEKOHvMyBJhg2NdauBKBe3ImZkOWdQr8xBOxfd9QwpNI5p8BrOoZZOihSd1knUMjV/XgLkw==;sz15tLXbz2c5vmbCqNumQg=="
 ---

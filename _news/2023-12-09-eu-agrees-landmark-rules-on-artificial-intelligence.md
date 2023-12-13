@@ -112,15 +112,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Indonesia prepares ethics guidance for AI developers"
-    excerpt: "Indonesia has drafted ethics guidance for developers using artificial intelligence (AI) to prevent potential misuse of the new technology, a ministerial draft showed. “AI-based programming activities need to be predicated on the ethics governing its use ..."
-    publishedDateTime: 2023-12-08T16:41:00Z
-    webUrl: "https://www.rappler.com/technology/indonesia-prepares-ethics-guidance-ai-developers/"
-    type: article
-    provider:
-      name: Rappler
-      domain: rappler.com
-    quality: 34
 
 secured: "29J11CwkG74OKx5bS5Kmivh3NBmvqMNMsivpJIA/OoZhwPSlfwTPj7tjQVQsCP98L0QsTQQGbHqwEGjDvz/aDsvShoKDDv6DtqwSHqyBTYzO8DhoBpw0G+rK2Z2GenaqZiqz0A2Bcu6I4zjpI3dpbLqH5lxQPHffhM27gP7YdM8qpIRMR8xnB243d2Yhbxikyu0gdIMRVyyv3hIMriiKW0kzPzBn1QRYe4opfAMifgn2Anf6DtVKnpdrA4VjVNKX9pDwQzpPYmhrCfYlDIyDSKCto5CkjfrK7hyewhaX1lFTFi1q8hM70HM5K2gqCuw40IoPvpybwSFxBkKh4Y1rIpr+68sY8GNhaxWz3/7N/VhB/z78d2eeSvvlWfDcIAxe/TdUoqh8UR+F7m8NFOB93/OsR+iUD+1osledt+Ml+v+/lQOZR4RP1s14rRw01iMWXB0P2N2sj5IIMZbofd3OxRiEXYC4p/o+V42dmvA2bGmvfNwPKBk/T0N55mT7lwKbWl5Wv8djrCSJE4FtDfIbxA==;Q3fVThFJnWHJPCLiPyTtCA=="
 ---

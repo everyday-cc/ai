@@ -150,49 +150,6 @@
       ]
     },
     {
-      "path": "_news/2023-12-13-artificial-intelligence-pairs-caregiver-students-with-elderly-patients.md",
-      "title": "Artificial Intelligence pairs caregiver students with elderly patients",
-      "excerpt": "Artificial intelligence is helping older patients with memory care issues get matched with health care students.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ktvu.com/news/artificial-intelligence-pairs-caregiver-students-with-elderly-patients",
-      "originalUrl": "https://www.ktvu.com/news/artificial-intelligence-pairs-caregiver-students-with-elderly-patients",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2023/12/932/470/watchfoxlocal.jpg?ve=1&tl=1",
-          "width": 932,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.ktvu.com/news/artificial-intelligence-pairs-caregiver-students-with-elderly-patients.amp",
-      "cdnAmpWebUrl": "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/artificial-intelligence-pairs-caregiver-students-with-elderly-patients.amp",
-      "publishedDateTime": "2023-12-13T04:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTVU",
-        "domain": "ktvu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2023-12-13-pm-modi-announces-new-ai-mission-to-boost-agriculture-healthcare-education.md",
       "title": "PM Modi Announces New AI Mission To Boost Agriculture, Healthcare & Education",
       "excerpt": "PM Narendra Modi has announced the launch of a new AI mission to promote apps in agriculture, healthcare and education sectors.",
@@ -1292,6 +1249,40 @@
       "provider": {
         "name": "GEN",
         "domain": "genengnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-29-health-care-policy-stakeholders-testify-on-the-use-of-artificial-intelligence-in-health-care.md",
+      "title": "Health Care Policy Stakeholders Testify on the Use of Artificial Intelligence in Health Care",
+      "excerpt": "Health care executives testified on artificial intelligence (AI) before the House Energy and Commerce Subcommittee on Health. They examined… read more Health care executives testified on artificial intelligence (AI) before the House Energy and Commerce ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.c-span.org/video/?532100-1/health-care-policy-stakeholders-testify-artificial-intelligence-health-care",
+      "originalUrl": "https://www.c-span.org/video/?532100-1/health-care-policy-stakeholders-testify-artificial-intelligence-health-care",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-29T15:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "c-span",
+        "domain": "c-span.org",
         "images": null,
         "publishers": null,
         "authors": null

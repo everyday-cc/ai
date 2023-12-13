@@ -2,6 +2,100 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-11-09-5-best-ai-chatbots-in-2023.md",
+      "title": "5 Best AI Chatbots in 2023",
+      "excerpt": "IBM has long been developing artificial intelligence, including Deep Blue, the computer that beat the reigning world chess champion, and Watson, its supercomputer that won the game show Jeopardy ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-chatbots/",
+      "originalUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-chatbots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-09T13:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-09-implementing-fhir-and-hl7-with-ibm-app-connect-and-ibm-cloud-pak-for-integration.md",
+      "title": "Implementing FHIR and HL7 with IBM® App Connect and IBM Cloud Pak® for Integration",
+      "excerpt": "Through tight integration between IBM App Connect and IBM API Connect, health IT providers can extend the reach of FHIR for multiple use cases.\nThe post Implementing FHIR and HL7 with IBM® App Connect and IBM Cloud Pak® for Integration appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/implementing-fhir-and-hl7-with-ibm-app-connect-and-ibm-cloud-pak-for-integration/",
+      "originalUrl": "https://www.ibm.com/blog/implementing-fhir-and-hl7-with-ibm-app-connect-and-ibm-cloud-pak-for-integration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/11/dji_0737sym.blog-lead-space-2x1-1.jpg",
+          "width": 1080,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-09T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-09-ai-could-supercharge-these-2-companies.md",
       "title": "AI Could Supercharge These 2 Companies",
       "excerpt": "IBM is riding the current of both of these powerful megatrends. “IBM Watson” is the company’s core AI offering. It integrates with the Red Hat hybrid cloud to enable companies to pool data ...",
@@ -1224,91 +1318,6 @@
         "IBM AI",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-10-23-3-keys-to-building-a-robust-hybrid-cloud-risk-strategy.md",
-      "title": "3 keys to building a robust hybrid cloud risk strategy",
-      "excerpt": "Done right, a robust hybrid cloud risk management strategy can provide elevated assurances around security, compliance and resilience.\nThe post 3 keys to building a robust hybrid cloud risk strategy appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/3-keys-to-building-a-robust-hybrid-cloud-risk-strategy/",
-      "originalUrl": "https://www.ibm.com/blog/3-keys-to-building-a-robust-hybrid-cloud-risk-strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-23T13:06:38Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-20-how-to-choose-the-best-ai-platform.md",
-      "title": "How to choose the best AI platform",
-      "excerpt": "AI platforms drive a range of benefits for your business, such as increased automation, scale, security and more.\nThe post How to choose the best AI platform appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-to-choose-the-best-ai-platform/",
-      "originalUrl": "https://www.ibm.com/blog/how-to-choose-the-best-ai-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-20T15:27:45Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

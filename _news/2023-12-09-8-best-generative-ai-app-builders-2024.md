@@ -102,20 +102,6 @@ related:
       name: Time
       domain: time.com
     quality: 47
-  - title: "UBS Report: Generative AI for Financial Services"
-    excerpt: "In the financial services industry, generative artificial intelligence (AI) is being deployed to automate time-consuming, tedious jobs in areas including customer service, fraud prevention, coding and information analysis."
-    publishedDateTime: 2023-12-13T06:52:00Z
-    webUrl: "https://fintechnews.ch/aifintech/ubs-report-generative-ai-for-financial-services/65521/"
-    type: article
-    provider:
-      name: fintechnews
-      domain: fintechnews.ch
-    quality: 39
-    images:
-      - url: "https://fintechnews.ch/wp-content/uploads/2023/12/UBS-Report-Generative-AI-for-Financial-Services.jpg"
-        width: 1024
-        height: 567
-        isCached: true
   - title: "Turn Generative AI from an Existential Threat into a Competitive Advantage"
     excerpt: "By making it vastly easier and cheaper to improve or create products and services that previously required significant human labor and creativity, generative AI has the potential to disrupt or even commoditize many businesses."
     publishedDateTime: 2023-12-11T17:00:00Z
@@ -176,15 +162,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 17
-  - title: "Dell Technologies storage advancements accelerate AI and generative AI strategies"
-    excerpt: "Dell Technologies is helping customers achieve faster AI and generative AI (genAI) performance with new enterprise data storage advancements and validation with the Nvidia DGX SuperPod AI infrastructure."
-    publishedDateTime: 2023-12-11T01:11:00Z
-    webUrl: "https://itwire.com/guest-articles/company-news/dell-technologies-storage-advancements-accelerate-ai-and-generative-ai-strategies.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 14
 
 secured: "QwK4meXxAWtgoZxvR+oei/vl4n9I37KsdjYaHHq9ap9Xs7T2OUDHEy453Md6Ow8FR3cNRERPpO/QD4UtEyvlrKo2UlDuhOh7ina/SJ7rwhfQCTAFTrEmmijsFs/zNTTl6TBFr228vdPV6CWYJeRFcvBqyCcHXfg2/Y3G0fHZcek3oDRX2mDYWvOb4Gr++omvzDdvvzRrh2AOoYoxFKVk5Fc+PFC4zGAHeiVlbxYEKx4hB3Ux5AGzdUkNmo6iqK/5kn/rAC5FG/At+7fluRLWyihfs9uREhCiPZEHiU4M+woWDGHfJLSlMWTEume3BSkGhM2kBTl9ouLTB9Vtw3HeGCqL43X5B/nvuuEEFGo5a3A=;vIPhLaKJJYK4rj2l3zS5IQ=="
 ---

@@ -23,6 +23,17 @@ images:
     height: 810
     isCached: true
 
-secured: "5VbhhUWGyl7j1lxNmBIVD+wCrUOVPaS0zSWerP0iWYyXr3DCsyS+R0DyQ5r3w67YfrWxHDiz7VJHqRcT7ivOUylmvnMo0vLNWgQxQYt6B8IFEHxKIcmz5VfHVPjdnITQlEOy7ty2l7MsLDO08RSGzgsD9vgXVTaC9v0c6BsiqQKfRfUfuAL1mwU3E1I6nIrKOZey6R6s8HzRpcxBFmox5wlU/pL3ay7PHI1TPE+IgHyQifn6NE8z7a368hg6jLnD3R4qOdsPhwO6yZwrINxKNuS5P5o1odONguNpNQJQKvucB9dZIkTvctYiOya1GbC4OPaedSNQpOI12Ei5ITj4LpGiYFzwFDRJLuomXexacv0=;hopQieDJrKI33FcrWKm1lg=="
+related:
+  - title: "Artificial intelligence: who are the leaders in autonomous mobile bots for the aerospace and defense industry?"
+    excerpt: "The aerospace and defense industry continues to be a hotbed of patent innovation. Activity is driven by developments in"
+    publishedDateTime: 2023-12-13T14:07:00Z
+    webUrl: "https://www.airforce-technology.com/data-insights/innovators-ai-autonomous-mobile-bots-aerospace-and-defense/"
+    type: article
+    provider:
+      name: Airforce Technology
+      domain: airforce-technology.com
+    quality: 0
+
+secured: "wJx3bkTWg7A5z8gLHNiuNUNlk27EiQjkYg8n/0a6kXE8yW9BZ9nk6AajM0rVLnZ8d0Hc9eBAHiJgPLs5gCvmcJyIxsi2kU1SAGEcOgCHOBZ8XR+7rs/ZcvZKXZ8ZNuZbhUYbOdpUYW408KhOj0jQW3WaP09qKs5u/fIryT/PI1P1R0n6D/zuqpuPokdgKl9PTYX2EG3nOiF13y/0sC0lpxhJvNlAeB+6EPh41+rA64od49NIZKWsgOEJpA5650EXtzBD8ainell+vurio4mnjICQ5KnYulNJRuDgaAUsNjQWTmXDSVdq3khWBMj01a4qtQ3E9RGPQp+NONQhlYb9sjca21KNWCKoK+6dL+DxmvlmywtWNSKIM00vMePllzCqYLsJ2tGWKyaZXzQsuYRZZAUBLwZa08K68u1PL0eK0QHTkuTlBsaWEFyOvEQD5dNRcADYDBWTzS+278wfY7BuhvcbOsa4wL0tZuuEnW5KMorGwEVxXLENrS7bwMWSgeyjhXGbQEH/PEXsUYmyTsORow==;smCxV92dguQQYwbRXlX/jA=="
 ---
 

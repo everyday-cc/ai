@@ -10,7 +10,7 @@
       "originalUrl": "https://electrek.co/2023/12/12/tesla-unveils-optimus-gen-2-next-generation-humanoid-robot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -299,7 +299,7 @@
       "originalUrl": "https://www.nytimes.com/2023/12/09/technology/openai-altman-inside-crisis.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 166,
+      "heat": 176,
       "tags": null,
       "images": [
         {
@@ -665,24 +665,15 @@
     {
       "path": "_news/2023-12-06-undersea-robot-startup-founded-by-nasa-engineer-ejects-clo.md",
       "title": "Undersea-Robot Startup Founded by NASA Engineer Ejects CLO",
-      "excerpt": "Nauticus was founded in 2014 by Nic Radford, who left NASA that year as principal investigator for the Dexterous Robotics Lab at Johnson Space Center. He’d joined the agency in 2006, becoming deputy project manager and chief engineer of NASA’s humanoid space robot “Robonaut2.”",
+      "excerpt": "The chief legal and administrative officer for an undersea robotics company founded by a NASA robotics engineer is one of two executives the company recently dismissed, according to a regulatory filing.",
       "sourceUrl": null,
-      "webUrl": "https://www.law.com/corpcounsel/2023/12/04/undersea-robot-startup-founded-by-nasa-engineer-terminates-clo/",
-      "originalUrl": "https://www.law.com/corpcounsel/2023/12/04/undersea-robot-startup-founded-by-nasa-engineer-terminates-clo/",
+      "webUrl": "https://www.law.com/texaslawyer/2023/12/04/undersea-robot-startup-founded-by-nasa-engineer-terminates-clo/",
+      "originalUrl": "https://www.law.com/texaslawyer/2023/12/04/undersea-robot-startup-founded-by-nasa-engineer-terminates-clo/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://images.law.com/contrib/content/uploads/sites/390/2023/12/Oil-rigs-767x633.jpg",
-          "width": 767,
-          "height": 633,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "",
       "type": "article",
       "ampWebUrl": null,
@@ -1231,8 +1222,8 @@
       "title": "Locomotor Control and Rehabilitation Robotics Laboratory",
       "excerpt": "With that in mind, we have developed clinical protocols for treating ... The participant is in complete control of the speed and direction of the belt; users can determine if they want to walk forward or backwards. The KineAssist allows participants ...",
       "sourceUrl": null,
-      "webUrl": "https://www.uab.edu/shp/pt/locolab?trk=public_profile_project-button",
-      "originalUrl": "https://www.uab.edu/shp/pt/locolab?trk=public_profile_project-button",
+      "webUrl": "https://www.uab.edu/shp/pt/locolab?trk=public_profile_project-title",
+      "originalUrl": "https://www.uab.edu/shp/pt/locolab?trk=public_profile_project-title",
       "featuredContent": null,
       "highlight": null,
       "heat": null,

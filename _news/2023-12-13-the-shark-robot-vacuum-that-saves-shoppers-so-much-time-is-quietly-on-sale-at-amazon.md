@@ -1,10 +1,10 @@
 ---
 category: news
 title: "The Shark Robot Vacuum That Saves Shoppers ‘So Much Time’ Is Quietly on Sale at Amazon"
-excerpt: "And if you’ve been waiting to splurge on a new vacuum to start the new year on a fresh note, now is the time to get your wallet ready. Shark’s AI Ultra Robot Self Vacuum provides a complete hands-free cleaning experience, and it’s currently 49 ..."
-publishedDateTime: 2023-12-13T05:00:00Z
-originalUrl: "https://www.aol.com/lifestyle/shark-robot-vacuum-saves-shoppers-100000180.html"
-webUrl: "https://www.aol.com/lifestyle/shark-robot-vacuum-saves-shoppers-100000180.html"
+excerpt: "Late to the holiday shopping this year? Don’t worry, there’s still time to treat yourself to a present and have it arrive by Christmas. And if you’ve been waiting to splurge on a new vacuum to start the new year on a fresh note, now is the time to get your wallet ready."
+publishedDateTime: 2023-12-13T12:00:00Z
+originalUrl: "https://www.aol.com/shark-robot-vacuum-saves-shoppers-100000180.html"
+webUrl: "https://www.aol.com/shark-robot-vacuum-saves-shoppers-100000180.html"
 type: article
 quality: 31
 heat: 31
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "RXU/IGtE2EE5JvBK3ZzKb6D00HwO0DzpLHkNkrpn21fvy6Cc4elzsqEHmdE6vfGXAjo60KmJOxcOd/p8nrExndp/DPFn+hV55GTtq94AsHbZS5GUHwW+7zQAkqSA2bYevk9IVTZDt9WddPNMbR5shoIw6mkMpKtsS7hY0ogPb/7rproaSKFC6vZP0oq0v2k+S8D/aTqWQYNLAYFxX5er7gZQXxmqMhrjT5HTYpz0HKyhL+G1zS0/HQYzzC2bUOo7JC3/qxCWGgfGBdHpXQPrG7S331Tup3LDmc6kRkIGtJYu9Oi+C1hEE1jmXUgYe5jtHq6ZK+vic6IOV0tIDBzBrbkudIXRCd/yhlaPWEPR1js=;KKoCrd9Tpcevn8Dt3fhPLA=="
+secured: "zTnGSW1LBAIAJyS+Mh8x2jQgQgGbqSBUB5QC9TFTTjbk5+mdJYsk0XXW6tt5/eM80VvuqCDhlH7JlWeSwE/KWeop2CVZU9ixyUSPRtYrurrIEk/if6SXpD5IysL6lGFUwSENR6YQ3IX0HfkpLUCQiXTMiwBiWx315aCEJu21Mxpgi20FT9L6jJHlhCbGJx5Ud/jjqUFEeoK5tBPLffV+2KBM+r5YAP439fwg8Hf+oyPEFMDdBY6Xd8nMSSJQJlmNxNRvJ8j0/Ft5K6lr8dWGiicCZ4J/WyZkm25bW6PUSnPWWOK62d5vMsTgf33766PqEUxBf5CmtDry9vSGkYYTDlB7uu79N1V+JAz0SQa5jqo=;8L9DfFGy0+crxMv0q9VJkA=="
 ---
 

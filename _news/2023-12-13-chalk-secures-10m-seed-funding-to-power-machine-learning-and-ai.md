@@ -41,6 +41,15 @@ related:
         width: 1000
         height: 768
         isCached: true
+  - title: "AI Platform Keeps Mining Machinery Working With Deep Learning"
+    excerpt: "An Israeli company has created an AI platform for maintaining mining machinery, anticipating potential breakdowns before they happen"
+    publishedDateTime: 2023-12-13T14:34:00Z
+    webUrl: "https://nocamels.com/2023/12/ai-platform-keeps-mining-machinery-working-with-deep-learning/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 34
   - title: "Medefy Health Raises $10 million Series A Funding to Deliver Real-Time Healthcare Benefits Navigation through Human-Led Support"
     excerpt: "Medefy Health, a mobile-first healthcare benefits navigation platform dedicated to improving the employee health benefits experience through real-time guidance, today announced that it has raised $10 million in Series A funding led by Mercury Fund with participation from Advantage Capital."
     publishedDateTime: 2023-12-11T16:20:00Z

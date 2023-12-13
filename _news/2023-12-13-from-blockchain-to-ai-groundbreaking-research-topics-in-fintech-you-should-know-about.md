@@ -34,6 +34,15 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 17
+  - title: "Peter George, Fintech Entrepreneurial Leader for Digital Currencies, Blockchain Applications, Named Medici Land Governance Board Chairman"
+    excerpt: "Peter George, an entrepreneur who is among the earliest adopters of Blockchain applications for central bank digital currency and investments in digital assets, has been named chairman of the board of directors of Medici Land Governance (MLG)."
+    publishedDateTime: 2023-12-13T11:52:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/12/13/9932995.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "PlBFbpJucY5PUcvE5e6SUfG7vCm/IC6W4Jm7ttesVNfABkQAz84+eVZHaNLPPUqZ6HlnJwwn3RCk+K11Bt1W5sTXb9U0SPbzC7Dty/FpJm7GsU6BqWiY5ct/rQJ7HD4ev/fo8eIZxheNh2zMS3c8BNzFoisB8VPWaM6wSrE8VC12bqsaOOCApJ8mRT3m2NAg7JqwMb5G+qLB9v9aZ7zgnKI1GMXsDEjkwvJmeJCX0hS3Se7lGuwItIlupXbai3vub2wwb2UpezVAPybsxR92i/UQjY5SXcnlmPkV0MRjGgdyZWZZEO9pdQSxQHasEPqy+WAmNesvEux3ZZackTuOShJwGZ6KnJvuexHwjFK6hCLQhA6vCetRz1tC8xNvpmbI61o7CNnk154sp8+WEatJmfJ6FV6B/pjaKearIDCJKzz5CrTh/wuDjoHL7mZYv6KiEdr7q9MRC75lJ0mnbEDhmJKkDi+R5aQK38ZmeHIxX2YS6p0eIXVGoMyKPBn9mfVb/0aGzB55tTgJGuo9Ley0kQ==;gusuaGcKTsQiYxuby3VDbQ=="
 ---

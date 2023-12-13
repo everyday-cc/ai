@@ -48,15 +48,15 @@ related:
       name: Journal Record
       domain: journalrecord.com
     quality: 17
-  - title: "Plentisoft: Quasar Markets Partners with Dragon List Global to Revolutionize FinTech Research"
-    excerpt: "New York, New York--(Newsfile Corp. - December 13, 2023) - Quasar Markets, an AI-powered fintech research platform, announced its partnership with Dragon List Global, a company focused on a variety of emerging market industries worldwide including finance ..."
-    publishedDateTime: 2023-12-13T08:26:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-12/60911703-plentisoft-quasar-markets-partners-with-dragon-list-global-to-revolutionize-fintech-research-296.htm"
+  - title: "Sanlam Fintech Cluster Assembles Global Talent For Executive Team"
+    excerpt: "Sanlam, the largest non-banking financial services group in Africa, has recently launched its cutting-edge fintech business cluster. Led by a globally competitive exco team, Sanlam Fintech represents a strategic move within the Sanlam Group to expand its existing fintech offerings and ensure that all aspects of the $8-billion (R143-billion) listed corporation's services are digitally-driven."
+    publishedDateTime: 2023-12-13T14:05:00Z
+    webUrl: "https://techfinancials.co.za/2023/12/13/sanlam-fintech-cluster-assembles-global-talent-for-executive-team/"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
+      name: techfinancials
+      domain: techfinancials.co.za
+    quality: 4
 
 secured: "K9iZoimj9lLX3p/KuBrhi5e2sZcZ7++gXXtm3uAaZAGbtvfwHADNFSJH3h3ALnkx/DrR4GZKpdj7IOvHKFFzblFgQC4rKA3semZFTE4OwmtnHqRbtnWDFM5s25GTcEFmk42UNLjx+Qn37xTRHPuSdzkDHBcTbhdD9YdXmcPcMQ/RxbwBZh1ho06Qj2V8LkO7f0PGCuqQgtO2gwL9AnTsRIz5ucS4ULK2D/HdaLEpu1znoDCntjVH93yuG6oomPtqxfmOhLt456SjZfsUyQwqGe8pbw8aPsSaSKOS0tOORkt4x/BoOJikNjyVTcLmceMqCQjoECajsNDaSNEL0jzQyld5uQVqVtEBEF3gjGfYjI30H4ft/REVUKB607vBbfpxGCI+hs4O/PH6kZzdEnQDyXYLOXvceCaAX8opUBsoefjkhXtiFyXzBbOK+BPaMxglFPxEvuQVEfvP84Amh9QjE3qxUwceM92Av/gUP7ikLm7LqJ5AL+OdtaTa12GlTOA90OV9N1FMU/9BqTx4uxG+tQ==;OVJZ9wyKcE8MtGrzwkwGNA=="
 ---

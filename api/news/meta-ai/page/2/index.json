@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-11-14-the-download-the-origins-of-life-and-building-facebooks-ai-empire.md",
+      "title": "The Download: the origins of life, and building Facebook’s AI empire",
+      "excerpt": "Fei-Fei Li is one of the most prominent computer science researchers of our time. The co-director of Stanford’s Human-Centered AI Institute is best known for creating ImageNet, a popular image data set that was pivotal in allowing researchers to train modern AI systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2023/11/14/1083358/the-download-the-origins-of-life-and-building-facebooks-ai-empire/",
+      "originalUrl": "https://www.technologyreview.com/2023/11/14/1083358/the-download-the-origins-of-life-and-building-facebooks-ai-empire/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh7-us.googleusercontent.com/-YjumzBcBCmHyw7HxEoUz2WXxvybYmf8I_BP-RYwC14ekNJUJlJ6-5I-2xYFOdT3zrVcWV344pfimus_HQ-uDDUPfrXBJlzowpQSt8cM9J9AncQ_Qf0x3TBpzggxBiTC2mwQ-zuZika7KHg1YskQKao",
+          "width": 681,
+          "height": 454,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2023/11/14/1083358/the-download-the-origins-of-life-and-building-facebooks-ai-empire/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/11/14/1083358/the-download-the-origins-of-life-and-building-facebooks-ai-empire/amp/",
+      "publishedDateTime": "2023-11-14T13:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Meta AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-14-how-facebook-went-all-in-on-ai.md",
       "title": "How Facebook went all in on AI",
       "excerpt": "Inside Facebook and the Fight to Expose its Harmful Secrets, Jeff Horwitz reveals how the company came to rely on artificial intelligence.",

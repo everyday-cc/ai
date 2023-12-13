@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/12/13/hyperplane-wants-to-bring-ai-to-ba
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/13/hyperplane-wants-to-bring-ai-to-banks/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 119
 published: true
 
 provider:

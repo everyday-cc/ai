@@ -2,6 +2,394 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-12-12-future-ready-chros-the-ai-revolution-in-banking-hr.md",
+      "title": "Future-ready CHROs: the AI revolution in banking HR",
+      "excerpt": "The banking sector is experiencing a paradigm shift, with Chief Human Resources Officers (CHROs) at the centre of the change. Traditional recruitment strategies are giving way to",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/partnercontent/workday/future-ready-chros-the-ai-revolution-in-banking-hr.html",
+      "originalUrl": "https://www.ft.com/partnercontent/workday/future-ready-chros-the-ai-revolution-in-banking-hr.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ft.com/partnercontent/workday/img/hero2.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-12T11:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-12-hr-has-a-central-role-in-ais-impact-on-smes.md",
+      "title": "HR Has A Central Role In AI's Impact On SMEs",
+      "excerpt": "HR teams at small and medium-sized enterprises are well positioned to ensure AI technology is implemented successfully.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/12/12/hr-has-a-central-role-in-ais-impact-on-smes/",
+      "originalUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/12/12/hr-has-a-central-role-in-ais-impact-on-smes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6514465e8d87e14a63636b0e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1233,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/12/12/hr-has-a-central-role-in-ais-impact-on-smes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2023/12/12/hr-has-a-central-role-in-ais-impact-on-smes/amp/",
+      "publishedDateTime": "2023-12-12T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-12-five-considerations-when-adopting-ai-an-executives-solid-compass.md",
+      "title": "Five Considerations When Adopting AI: An Executive's SOLID Compass",
+      "excerpt": "It’s crucial to discern which innovations truly matter and how to effectively navigate them without getting lost in jargon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/five-considerations-when-adopting-ai-an-executives-solid-compass/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/five-considerations-when-adopting-ai-an-executives-solid-compass/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/629a23ed5c778bcfbcf8de3b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1349,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/five-considerations-when-adopting-ai-an-executives-solid-compass/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/12/five-considerations-when-adopting-ai-an-executives-solid-compass/amp/",
+      "publishedDateTime": "2023-12-12T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-12-elon-musk-slammed-by-his-own-ai-bot.md",
+      "title": "Elon Musk Slammed By His Own AI Bot",
+      "excerpt": "\"Well, it seems like Elon might be trying to rewrite history here,\" the AI bot started its message about Musk.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/elon-musk-slammed-own-ai-bot-1851531",
+      "originalUrl": "https://www.newsweek.com/elon-musk-slammed-own-ai-bot-1851531",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2321918/elon-musk-x-logo.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-12T09:37:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-12-intel-working-with-vertiv-on-liquid-cooling-for-gaudi3-ai-chip.md",
+      "title": "Intel working with Vertiv on liquid cooling for Gaudi3 AI chip",
+      "excerpt": "The Intel Gaudi3 AI accelerator will enable both liquid-cooled and air-cooled servers, supported by Vertiv pumped two-phase (P2P) cooling infrastructure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/6GxRKMYQNGGMb3Wj",
+      "originalUrl": "https://www.itweb.co.za/content/6GxRKMYQNGGMb3Wj",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itweb.co.za/static/pictures/2023/12/Vertiv-Intel-2023.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/6GxRKMYQNGGMb3Wj",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/6GxRKMYQNGGMb3Wj",
+      "publishedDateTime": "2023-12-12T09:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-12-accenture-to-work-with-union-bank-of-india-to-build-new-ai-and-machine-learning-models.md",
+      "title": "Accenture To Work with Union Bank of India To Build New AI and Machine Learning Models",
+      "excerpt": "Accenture will work with Union Bank of India to build new AI and machine learning models that can help generate actionable insights for improved busin",
+      "sourceUrl": null,
+      "webUrl": "https://www.indianweb2.com/2023/12/accenture-to-work-with-union-bank-of.html",
+      "originalUrl": "https://www.indianweb2.com/2023/12/accenture-to-work-with-union-bank-of.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVgXjk2IBSptAxO-BzY3gxzDItOMiYkt9jovv-UC78ztQh-tVo4EkKI-nyXRmd1FDyVq2HCbz3JFA8B5gNICIqE8PMuRdYKJuXUm9Fd5Mm1M7viygOEm8688zZLaUFBkCie2RxSMEoNy_7K-Pw1lQ3aIc7NNRc4nMybDhh8iG1A-OXpy_ksr0YtFR2NW4/s16000/accenture-union-bank.png",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-12T08:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "indianweb2.com",
+        "domain": "indianweb2.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-12-12-cyborg-computer-with-living-brain-organoid-aces-machine-learning-tests.md",
+      "title": "Cyborg computer with living brain organoid aces machine learning tests",
+      "excerpt": "Scientists have grown a tiny brain-like organoid out of human stem cells, hooked it up to a computer, and demonstrated its potential as a kind of organic machine learning chip, showing it can quickly pick up speech recognition and math predictions.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/computers/hybrid-brain-organoid-computing/",
+      "originalUrl": "https://newatlas.com/computers/hybrid-brain-organoid-computing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/ccc7067/2147483647/strip/true/crop/1547x812+0+109/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F45%2F78%2F6d26502246189c62b43acc8416f0%2Fscreenshot-2023-12-12-at-6.00.01%20pm.png&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-12T08:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-12-artificial-intelligence-is-here-to-stay-considerations-for-pr-professionals.md",
+      "title": "Artificial Intelligence Is Here To Stay: Considerations For PR Professionals",
+      "excerpt": "Machine learning, or artificial intelligence (AI), is a game changer ... But AI’s uses are much broader—think facial recognition in security systems, medical diagnosis in healthcare, self-driving automobiles and fraud detection in financial institutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/theyec/2023/12/12/artificial-intelligence-is-here-to-stay-considerations-for-pr-professionals/",
+      "originalUrl": "https://www.forbes.com/sites/theyec/2023/12/12/artificial-intelligence-is-here-to-stay-considerations-for-pr-professionals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6577122956c96696afc3528e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1135,
+          "height": 757,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/theyec/2023/12/12/artificial-intelligence-is-here-to-stay-considerations-for-pr-professionals/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/12/12/artificial-intelligence-is-here-to-stay-considerations-for-pr-professionals/amp/",
+      "publishedDateTime": "2023-12-12T07:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-12-12-ai-enhanced-employee-onboarding-a-new-era-in-hr-practices.md",
       "title": "AI-Enhanced Employee Onboarding: A New Era In HR Practices",
       "excerpt": "Onboarding has undergone a radical transformation. Explore how AI and data are reshaping how we welcome new hires and helping us deliver engaging onboarding experiences.",
@@ -93,6 +481,49 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-12-mistral-ai-is-an-exciting-chatgpt-rival-but-its-not-ready-for-us-yet.md",
+      "title": "Mistral AI is an exciting ChatGPT rival, but it’s not ready for us yet",
+      "excerpt": "Mistral AI is a French startup valued at around $2 billion with an exciting ChatGPT rival you can't actually use right now.",
+      "sourceUrl": null,
+      "webUrl": "https://bgr.com/tech/mistral-ai-is-an-exciting-chatgpt-rival-but-its-not-ready-for-us-yet/",
+      "originalUrl": "https://bgr.com/tech/mistral-ai-is-an-exciting-chatgpt-rival-but-its-not-ready-for-us-yet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bgr.com/wp-content/uploads/2023/02/rsz_gettyimages-1246675509.jpg?quality=82&strip=all",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-12T01:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -356,7 +787,7 @@
       "originalUrl": "https://au.investing.com/news/stock-market-news/us-discusses-ai-chip-sales-to-china-with-nvidia-says-raimondo-432SI-3060981",
       "featuredContent": null,
       "highlight": null,
-      "heat": 261,
+      "heat": 251,
       "tags": null,
       "images": [
         {
@@ -547,7 +978,7 @@
       "originalUrl": "https://statetechmagazine.com/article/2023/12/tech-trends-microsoft-introduce-ai-many-government-workers",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -729,7 +1160,7 @@
       "originalUrl": "https://www.technologyreview.com/2023/12/11/1084926/human-brain-cells-chip-organoid-speech-recognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -762,426 +1193,6 @@
         "Natural Language Processing",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-a-venture-capitalists-perspective-on-robotics.md",
-      "title": "A venture capitalist’s perspective on robotics",
-      "excerpt": "Founders should be aware the era of exiting a business based on little more than “promising technology” is over — you must eventually build a real business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/venture-capitalist-perspective-on-robotics/",
-      "originalUrl": "https://www.therobotreport.com/venture-capitalist-perspective-on-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/12/robot-trends-AdobeStock.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-11T15:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-5-ways-companies-can-promote-more-sustainable-ai.md",
-      "title": "5 Ways Companies Can Promote More Sustainable AI",
-      "excerpt": "Artificial intelligence (AI) is powering one of the biggest transformations in history, but powering AI is vast amounts of energy— an estimated 85.4 terawatt-hours of electricity annually by 2027, or more than most small countries use in a single year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/zendesk/2023/12/11/5-ways-companies-can-promote-more-sustainable-ai/",
-      "originalUrl": "https://www.forbes.com/sites/zendesk/2023/12/11/5-ways-companies-can-promote-more-sustainable-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65736bb1f35531799fbd70ae/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/zendesk/2023/12/11/5-ways-companies-can-promote-more-sustainable-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zendesk/2023/12/11/5-ways-companies-can-promote-more-sustainable-ai/amp/",
-      "publishedDateTime": "2023-12-11T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-2024-fintech-highlights-include-ai-personalization-embedded-finance-marqeta-experts.md",
-      "title": "2024 Fintech Highlights Include AI, Personalization, Embedded Finance : Marqeta Experts",
-      "excerpt": "Marqeta executives predict that artificial intelligence (AI), the evolution of credit cards, and the increasing demand for customer choice will be important",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2023/12/217808-2024-fintech-highlights-include-ai-personalization-embedded-finance-marqeta-experts/",
-      "originalUrl": "https://www.crowdfundinsider.com/2023/12/217808-2024-fintech-highlights-include-ai-personalization-embedded-finance-marqeta-experts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2023/12/Spotlight-Highlight-Perform-Skate-1024x768.jpeg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2023/12/217808-2024-fintech-highlights-include-ai-personalization-embedded-finance-marqeta-experts/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/12/217808-2024-fintech-highlights-include-ai-personalization-embedded-finance-marqeta-experts/amp/",
-      "publishedDateTime": "2023-12-11T14:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-why-generative-ai-makes-sense-for-edge-computing.md",
-      "title": "Why Generative AI Makes Sense For Edge Computing",
-      "excerpt": "Many industry analysts and pundits now predict that generative AI will be the next significant AI application to make an impact at the edge.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/11/why-generative-ai-makes-sense-for-edge-computing/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/11/why-generative-ai-makes-sense-for-edge-computing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 211,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/648334bbb7a645bee5fbe46d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/11/why-generative-ai-makes-sense-for-edge-computing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/11/why-generative-ai-makes-sense-for-edge-computing/amp/",
-      "publishedDateTime": "2023-12-11T13:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-get-your-it-team-battle-ready-for-the-next-holiday-rush.md",
-      "title": "Get your IT team battle-ready for the next holiday rush ",
-      "excerpt": "Consider an AI-powered approach to incident management to diagnose, handle and react to online outages during peak shopping periods.\nThe post Get your IT team battle-ready for the next holiday rush  appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/get-your-it-team-battle-ready-for-the-next-holiday-rush/",
-      "originalUrl": "https://www.ibm.com/blog/get-your-it-team-battle-ready-for-the-next-holiday-rush/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-11T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-ibm-app-connect-the-sustainability-tool-you-didnt-know-you-needed.md",
-      "title": "IBM App Connect: The sustainability tool you didn’t know you needed",
-      "excerpt": "IBM App Connect allows organizations to easily connect applications and data, whether on premise, on public or private cloud.\nThe post IBM App Connect: The sustainability tool you didn’t know you needed appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ibm-app-connect-the-sustainability-tool-you-didnt-know-you-needed/",
-      "originalUrl": "https://www.ibm.com/blog/ibm-app-connect-the-sustainability-tool-you-didnt-know-you-needed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-11T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-artificial-intelligence-ai-can-teach-math-teachers-how-to-improve-student-skills.md",
-      "title": "Artificial intelligence (AI) can teach math teachers how to improve student skills",
-      "excerpt": "When teachers completed a programme that uses artificial intelligence (AI) to improve their teaching skills, their students’ math performance improved.",
-      "sourceUrl": null,
-      "webUrl": "https://tech.hindustantimes.com/opinion/artificial-intelligence-ai-can-teach-math-teachers-how-to-improve-student-skills-71702226604984.html",
-      "originalUrl": "https://tech.hindustantimes.com/opinion/artificial-intelligence-ai-can-teach-math-teachers-how-to-improve-student-skills-71702226604984.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/tech/img/2023/12/11/1600x900/g5a0a2d99_1702257168240_1702257168559.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://tech.hindustantimes.com/amp/opinion/artificial-intelligence-ai-can-teach-math-teachers-how-to-improve-student-skills-71702226604984.html",
-      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/opinion/artificial-intelligence-ai-can-teach-math-teachers-how-to-improve-student-skills-71702226604984.html",
-      "publishedDateTime": "2023-12-11T12:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times Tech",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-ai-enhanced-people-development-opens-a-new-path-to-business-growth.md",
-      "title": "AI-Enhanced People Development Opens A New Path To Business Growth",
-      "excerpt": "To navigate HR challenges effectively, a transformative approach to people development, enhanced by AI, is essential.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sap/2023/12/11/ai-enhanced-people-development-opens-a-new-path-to-business-growth/",
-      "originalUrl": "https://www.forbes.com/sites/sap/2023/12/11/ai-enhanced-people-development-opens-a-new-path-to-business-growth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6532e0312d062fcdd9bd90bf/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 780,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sap/2023/12/11/ai-enhanced-people-development-opens-a-new-path-to-business-growth/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2023/12/11/ai-enhanced-people-development-opens-a-new-path-to-business-growth/amp/",
-      "publishedDateTime": "2023-12-11T12:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-beamr-releases-white-paper-on-using-its-cabr-solution-to-boost-vision-ai.md",
-      "title": "Beamr Releases White Paper on using its CABR Solution to Boost Vision AI",
-      "excerpt": "In the new White Paper, Beamr shows that video files that were slimmed down by 40% on average - without losing their perceptual quality due to Beamr’s CABR technology - keep ML results unaffected.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/beamr-releases-white-paper-on-using-its-cabr-solution-to-boost-vision-ai-1032889190",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/beamr-releases-white-paper-on-using-its-cabr-solution-to-boost-vision-ai-1032889190",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ml.globenewswire.com/Resource/Download/ebfa3326-9f90-4fac-a6d3-e234d3cdbc0f",
-          "width": 533,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-11T12:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
       ]
     }
   ],

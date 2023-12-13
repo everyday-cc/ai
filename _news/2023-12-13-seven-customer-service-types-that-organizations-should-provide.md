@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/customer-service-types/"
 webUrl: "https://www.ibm.com/blog/customer-service-types/"
 type: article
 quality: 102
-heat: 102
+heat: 104
 published: true
 
 provider:
@@ -27,6 +27,6 @@ images:
     height: 1260
     isCached: true
 
-secured: "dhPBIPs/xoyVlK47gGRBZmLPcTb6tGerHjcH9qj8ZE/O0RFMeEuosGgr2fWuhGvUKHeOJx8gcUNKT6QwYf76wI+pBawit9qsLmapW+N2hO+LUfzUXoTiKfPIhyfpNdBlz3niXl7/Ozr2+PgeRUK3ZsH99sdpV1XY0JS/UPsxqgyHkk3VQUqEDvIJoUjiwJzqqS7WRVfCZ6wHXPrmG3X9Oc1Fa2LELAr/XdZqP/4qsAEUyo9WZCn0LGKjKWmpcB53stgw34dejWOWZdpHRQidzH15Ioqso0lAmlF29qCkye0wBJlv+MFEl+lvXIcTTIWnKJ6YaKRaSNbC9yxUU0/17oeex5/DytXhCHT/Wj8xM/8=;0GqnyCIPbEd//WfcLlzkWQ=="
+secured: "5uJ/Dgg91cKgwJzhLfFONXA2B3t06qbIKtpldc3fsrpjqkachbefa6BQbwLmPdn4dmc6q+zC0iZmmOuGslIQ4aE+IST1ypyqNnJ04tVFGG69NqOoYJb7NK6VxXH2D2rx9J/mOLWgynd0SLTYdLf9DP1eSI4Mnn+kb4KRwQwQyFRU2G9iguHulCjBimwT0ELzbgyPjnudAZz8kmC7sRvJOUsDTx8t8pEa67YVUSHPuUJXvdFvdWL1Ik0oOnhSBY00BDnMOMNF6VytM5XrEwBMypndLxgWvD4otZacJId52h7fwOcQvR5GuSOdtLBYHIoKSNo2jkUjO4ImNyV3k2AUrEiiUOKPG6HSbnn7ph1uVF4=;H5i/4yXaihQ8vbGpIR0e8A=="
 ---
 

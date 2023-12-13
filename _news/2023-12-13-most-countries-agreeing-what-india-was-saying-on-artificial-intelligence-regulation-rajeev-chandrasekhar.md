@@ -104,15 +104,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Indonesia prepares ethics guidance for AI developers"
-    excerpt: "Indonesia has drafted ethics guidance for developers using artificial intelligence (AI) to prevent potential misuse of the new technology, a ministerial draft showed. “AI-based programming activities need to be predicated on the ethics governing its use ..."
-    publishedDateTime: 2023-12-08T16:41:00Z
-    webUrl: "https://www.rappler.com/technology/indonesia-prepares-ethics-guidance-ai-developers/"
-    type: article
-    provider:
-      name: Rappler
-      domain: rappler.com
-    quality: 34
   - title: "EU agrees landmark rules on artificial intelligence"
     excerpt: "EU lawmakers have agreed the terms for landmark legislation to regulate artificial intelligence, pushing ahead with enacting the world’s most restrictive regime on the development of the technology."
     publishedDateTime: 2023-12-09T07:54:00Z

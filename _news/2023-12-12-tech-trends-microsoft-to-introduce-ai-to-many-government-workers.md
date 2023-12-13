@@ -9,7 +9,7 @@ ampWebUrl: "https://statetechmagazine.com/article/2023/12/tech-trends-microsoft-
 cdnAmpWebUrl: "https://statetechmagazine-com.cdn.ampproject.org/c/s/statetechmagazine.com/article/2023/12/tech-trends-microsoft-introduce-ai-many-government-workers?amp"
 type: article
 quality: 74
-heat: 154
+heat: 174
 published: true
 
 provider:
@@ -126,6 +126,24 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Microsoft homegrown AI model can run on smartphones, laptops"
+    excerpt: "Google brought its AI model Gemini Nano to the Pixel 8 Pro. Microsoft released Phi-2, a small language model that outperforms Meta Llama 2. Phi-2 requ"
+    publishedDateTime: 2023-12-13T14:24:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-homegrown-ai-model-can-run-on-smartphones-laptops/articleshow/105967667.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 36
+  - title: "Microsoft to double Azure cloud capacity in Germany by early 2024"
+    excerpt: "Microsoft is to double the capacity of its Microsoft Azure cloud data centres in Germany by early 2024 to meet customer demand. It will achieve this by significantly expanding the country’s largest data centre hub,"
+    publishedDateTime: 2023-12-13T14:55:00Z
+    webUrl: "https://www.technologyrecord.com/article/microsoft-to-double-azure-cloud-capacity-in-germany-by-early-2024"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 34
 
 secured: "UFPgX4IKrwRK0GnuvMnyzbPUnFT5tbt01E3UHvviqOA3dOjUd9e7awN7K2nQXNf0ne4K8R5IQi5YjeVgz+k+ht+4nTvTzpSOHPwi+5P6h1qGsu0DomRE5Xw4vEJfTDZbusLyoI5UyQoF10qy5w8hjhGUKvIkubMR+kGfD+L0Xck0iALw67mBuY9Hg/pVnTb5sT1BDiA3HASVCPLsdYOqVKf/H3uAIlgjwouPxH+U+gAnHIV7FiyDVFYcDdSfmc14qr0i01JhK4hB2RghgeW0aa6YpoHzJPjYX0dWjWmBEuTJMBJJYWhJjRxXeHQ449See+D8BYqVWuPOSX6howwgYoPBg/kIuwWYCzQPSGPOosJb07lEyT3XAxldtlKcr/EwYMG5vqh2JDTB9ti5A1VS6AHD2uKbq94snFUWhPWTiJvWx3XWYh+JzcNMveOOLvgYkNxEOgIqsLFpDhRGHLZBTReTayQZcobflTBfkeS5EJ+PlSpupOAUkmj7vQXCVKHknDUgxtx6GRArOOu7aWBmuw==;R94ZP51LY8o3zDSN8cAtJg=="
 ---

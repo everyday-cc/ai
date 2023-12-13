@@ -2,6 +2,92 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-10-31-verses-ai-inc-verses-ai-announces-first-genius-beta-partner-nalantis-a-next-gen-language-technology-partner.md",
+      "title": "VERSES AI Inc.: VERSES AI Announces First Genius Beta Partner: NALANTIS, a Next-Gen Language Technology Partner",
+      "excerpt": "VERSES AI Inc. (NEO: VERS) (OTCQB:VRSSF) (\"VERSES' or the \"Company\"), a cognitive computing company specializing in biologically inspired",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2023-10/60518122-verses-ai-inc-verses-ai-announces-first-genius-beta-partner-nalantis-a-next-gen-language-technology-partner-399.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2023-10/60518122-verses-ai-inc-verses-ai-announces-first-genius-beta-partner-nalantis-a-next-gen-language-technology-partner-399.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T13:11:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-alibabas-cloud-unit-now-serves-80-per-cent-of-chinese-tech-companies-and-half-of-countrys-ai-language-model-firms-group-chairman-joe-tsai.md",
+      "title": "Alibaba’s cloud unit now serves 80 per cent of Chinese tech companies and half of country’s AI language model firms, group chairman Joe Tsai says",
+      "excerpt": "It features ready-to-use AI models contributed by leading AI institutions, covering areas from computer vision to natural language processing. Alibaba Cloud’s start-up catalyst programme was also launched at the conference. It offers cloud computing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3239856/alibabas-cloud-unit-now-serves-80-cent-chinese-tech-companies-and-half-countrys-ai-language-firms?ref=biztoc.com",
+      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3239856/alibabas-cloud-unit-now-serves-80-cent-chinese-tech-companies-and-half-countrys-ai-language-firms?ref=biztoc.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_scmp_120/public/d8/images/canvas/2023/10/31/c3296103-8a12-465b-9d11-d7aaf0bc5384_fbc6ebb8.jpg?itok=wdDKiw7z&v=1698754515",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T12:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-31-tarjama-launches-cleverso-30-the-first-tms-with-an-arabic-ui-and-powered-by-arabic-ai.md",
       "title": "Tarjama Launches CleverSo 3.0 – The First TMS with an Arabic UI and Powered by Arabic AI",
       "excerpt": "Tarjama unveils CleverSo 3.0, its proprietary TMS packaged with new capabilities to power translation teams for AI-enabled translations.",
@@ -1287,102 +1373,6 @@
       "provider": {
         "name": "Statista",
         "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-pytorch-executorch-extends-open-source-ai-for-new-quests-at-the-edge.md",
-      "title": "PyTorch ExecuTorch extends open source AI for new quests at the edge",
-      "excerpt": "ExecuTorch was validated and vetted by actual real-world engineering problems and Meta has already proven the technology with deployment.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/pytorch-executorch-extends-open-source-ai-for-new-quests-at-the-edge/",
-      "originalUrl": "https://venturebeat.com/ai/pytorch-executorch-extends-open-source-ai-for-new-quests-at-the-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_a_virtual_reality_headset_displaying_neon_fire_ab1a2c58-33f2-4f0d-ae81-e17de062897d.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-17T22:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-can-new-yorks-mayor-speak-mandarin-no-but-with-ai-hes-making-robocalls-in-multiple-languages.md",
-      "title": "Can New York’s mayor speak Mandarin? No, but with AI he’s making robocalls in multiple languages",
-      "excerpt": "In September, the music streaming service Spotify introduced an AI feature to translate a podcast into multiple languages in the podcaster’s voice. Just this month, the startup ElevenLabs introduced a voice translation tool that it said “can convert ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/world-nation/story/2023-10-17/can-new-yorks-mayor-speak-mandarin-no-but-with-ai-hes-making-robocalls-in-multiple-languages",
-      "originalUrl": "https://www.latimes.com/world-nation/story/2023-10-17/can-new-yorks-mayor-speak-mandarin-no-but-with-ai-hes-making-robocalls-in-multiple-languages",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/c9828e4/2147483647/strip/true/crop/3960x2079+0+281/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F41%2F87%2F89dc6d36f1d94672d76d32f33c87%2F4460e7d7393545d991b95513838fc872",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-17T21:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
         "images": null,
         "publishers": null,
         "authors": null

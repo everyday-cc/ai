@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/meaghanjohnson/2023/12/13/portugals-pro
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/meaghanjohnson/2023/12/13/portugals-progressive-policies-fuel-fintech-growth/amp/"
 type: article
 quality: 74
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -120,7 +120,16 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 19
+  - title: "Trends in fintech that drive growth"
+    excerpt: "Fintech is a fast-changing ecosystem where there are few certainties. As we move into the second half of 2023 it’s worth taking a temperature check and assessing the lay of the land."
+    publishedDateTime: 2023-12-13T16:53:00Z
+    webUrl: "https://www.finextra.com/blogposting/25383/trends-in-fintech-that-drive-growth"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
-secured: "mzIvTmurDe8gbSwd3tQ7ZILq1t6g1UXGsogQdjUNuproNYeJnCqagcA/kpuQCuX8vxneoUxd2IF1lPNyvrHmLNv8JfjMF+RM2qWAJ7k/O0IcRDEgWrHrtxLz1cFvVI3rHzZaErw4E7ZqI6ToN2R1GCJct1r80HYzmJCaWgdX5d/K41OSz/lghO1boHSYHT9P+F1dtepl7oqJ2Q0cHVTW34Z4PbDZzt+f6ELLV2YDTDlVwqpPVqN7YTcJLaae/aCh7sVowl0xqcbhQMOy4HBmi/9NguXBTFlHIzSJAFjYyAl2sjMUjAL5tkgqzkHOAO2n/mjJt5UUuI0HkjQYn3ENGKdC94IT8KstMewhwrLdGe0=;qLrf70cL5NYWt7zggNZqtA=="
+secured: "q/7YyMlRkX9Mppth9614qGi09c2jRNsApXemRrpju/bEv3G82ABVj4fqNpx6qyI1rvbf6PMW8tX5ZJHwBR3Gk6EyVqiLo2U4UATm5G/fuJ62mMfrEGpWpbTvmdakovWpD+4YTIVkuoA3lpG6Dko+ELjyV/k+/KLahEsjIE1VLag/t0Ed28oJCzs1JkaS+qzSuQZ4mrYB75UFcfxqGrja0W8VdCffx6qfU87LK/Aq7BsbfYzjaxULsi/EbH/kmEK3Yb/CIhF9jinO7ZQPK34jWWGbBlylSYxaZyKydoBM/h63bFC6XGwM0svvzaqzJ4kjwF2Qumdk7ZuUAlrR9SCgCuBYUBC/VNqMb6CJsmOsNtDCmQK3nOSNbqx/hXUSSSStTKZ6JzWXlWj/b0qmMJ7PAa1IHLacgFWZ57c8bJ2zJySL/ALQPw/Abrz0T2h6k1eWPzMUsF5/8SgBiv7L7Mp8bNfCA+zlEp9Y0AB612+GtgX7m9aVQT6asVtXKl7pITXesiTPsyytWrjM6jzdArXdYg==;4SQe7N8I/D+XNW7+iTqukw=="
 ---
 

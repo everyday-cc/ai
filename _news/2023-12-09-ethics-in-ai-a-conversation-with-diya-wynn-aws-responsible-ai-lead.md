@@ -34,22 +34,32 @@ images:
 related:
   - title: "BigBear.ai Expands its Relationship with AWS to Deliver AI-Driven Solutions"
     excerpt: "BigBear.ai continues to expand its capabilities to serve the commercial enterprise sector and is proud to advance this new effort with AWS."
-    publishedDateTime: 2023-12-11T14:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/bigbear-ai-expands-its-relationship-with-aws-to-deliver-ai-driven-solutions-1032889378"
+    publishedDateTime: 2023-12-11T13:18:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/12/11/9931286.htm"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
-  - title: "AWS on responsible AI: ‘A growing number of jobs in this space’"
-    excerpt: "Diya Wynn, the Responsible AI lead at AWS, works with her organization’s customers to secure a future where AI is powerful and accountable."
-    publishedDateTime: 2023-12-08T14:23:00Z
-    webUrl: "https://hrexecutive.com/aws-on-responsible-ai-a-growing-number-of-jobs-in-this-space/"
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 52
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "Evolution of AI: Tracing the Definition of Artificial Intelligence Over Time"
+    excerpt: "Introduction: The evolution of Artificial Intelligence (AI) has been a fascinating journey, marked by milestones, breakthroughs, and an ever-evolving definition. From its conceptualization to the present-day applications,"
+    publishedDateTime: 2023-12-13T16:00:00Z
+    webUrl: "https://techbullion.com/evolution-of-ai-tracing-the-definition-of-artificial-intelligence-over-time/"
     type: article
     provider:
-      name: hrexecutive
-      domain: hrexecutive.com
-    quality: 34
+      name: Impacts
+      domain: techbullion.com
+    quality: 49
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/Evolution-of-AI-Tracing-the-Definition-of-Artificial-Intelligence-Over-Time.jpg"
+        width: 650
+        height: 450
+        isCached: true
 
 secured: "avdwnpo6SCri09HxKM6I0JY1hzHvwPFCK8Ix2U0a7Arh16pHsfzUybqEzMmcvl/sauBxNKwQam69c4YaYlAYBfq6i++DQvMfGNXLB8q4Og+XfMjCqNfdxlOXs/SjNdV9SgU0oU5LK66pPazyJBCcQUV9UHNSCwGxdSI6MlgUVWJCZRjgNPgaOIWBavyjhT/ucrecuFE89unYJ9sbG96gU8tRDiyY9XfQmC1roCIpU4c6pJ0Waabwl80kR8AcKEO64glOElBcuSWJNIysEfH3PRCIga8EnR0YtliMIIp+mO3yTDe+M0uZgw3xUg/2Uo2Ak+ed9YHm531FkuPmd+sNCKnvxhtxi9/RJ6ghQClrlkC0yUV5gqH5d41M81ARegLu9e/ScGBZ7rkkQXPw71YICL/XnKtZw8oV+dO2oTnWaUqGYFs3YJowMd4FoZk5wshq/qWPzFQt0zeA9b4iTwpCyd3hed6Wr8Rlb/hDtijpMbBDB8Ih4gK6SePXn4QkO602JBE5G+VuXZ60SrKbV+F8FA==;Z7hz+8j3M8enGvOgYJX6hQ=="
 ---

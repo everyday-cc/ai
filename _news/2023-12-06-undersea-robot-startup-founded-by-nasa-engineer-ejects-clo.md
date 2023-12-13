@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Undersea-Robot Startup Founded by NASA Engineer Ejects CLO"
-excerpt: "Nauticus was founded in 2014 by Nic Radford, who left NASA that year as principal investigator for the Dexterous Robotics Lab at Johnson Space Center. He’d joined the agency in 2006, becoming deputy project manager and chief engineer of NASA’s humanoid space robot “Robonaut2.”"
+excerpt: "The chief legal and administrative officer for an undersea robotics company founded by a NASA robotics engineer is one of two executives the company recently dismissed, according to a regulatory filing."
 publishedDateTime: 2023-12-05T21:37:00Z
-originalUrl: "https://www.law.com/corpcounsel/2023/12/04/undersea-robot-startup-founded-by-nasa-engineer-terminates-clo/"
-webUrl: "https://www.law.com/corpcounsel/2023/12/04/undersea-robot-startup-founded-by-nasa-engineer-terminates-clo/"
+originalUrl: "https://www.law.com/texaslawyer/2023/12/04/undersea-robot-startup-founded-by-nasa-engineer-terminates-clo/"
+webUrl: "https://www.law.com/texaslawyer/2023/12/04/undersea-robot-startup-founded-by-nasa-engineer-terminates-clo/"
 type: article
 
 provider:
@@ -15,12 +15,6 @@ topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://images.law.com/contrib/content/uploads/sites/390/2023/12/Oil-rigs-767x633.jpg"
-    width: 767
-    height: 633
-    isCached: true
-
-secured: "LhlKyGUEJpdqidLsiNE67KWRKen01rSc+Kvk7nOExOomOYwisPGc9y8PjOAPFsL1Dtff80LSvdyIoj02OOpJXB62R1xhPdAx2wW5Be1BwV/V4bwWadTfZfZRDO91zKHL83Dn7X3QCeL7+142Adzyg5w3ES/mTubZ5rdPWoT/oCGPc52XbVFe/Wnsy75C0jUbQZjeUSxqkg+Kmm95eh26YC2xcOicfbeVJV3rztwkYeBRmowYvSAS19rRFzCDnUYfTadS6HqbtyvsuJUkU6WbEYYPsva/Kom94CXtnpexg2bcU81nX4OxeV+KrqX8J0nwbZv0JkKND8oXLRQoroIk2d1FeJk3EjOfrnFuYjbtIQ0=;mlr2McnL3XxVW7fgywyu1g=="
+secured: "qvLdfjyapu+VkPC6wLBXoAcM8N6B2XrWerDSa3XwCrY4xocoRMON3KF8vu97+ll7fsnczCoKc/vped0D94JCmULQkVu0yAKCCeK5rUOJ09KcIoeAAzmnR/2suShZDmPwLnKv5rsUx9Rja+svTsdOBY7NgP5xzsTOU69q+nIpmzbE4YdEvvmGhGM8TW86KWA/Ipj7E8wqHkc8yxSlx/sm4eaJyuBKSbPma5kj8HSYihnEwoSct6qns42DtZ/tbharI5cGuM16QUN7KVU1S3b0OxCWxk4cwIBudYpwVFNXo+paaxcs3naChoFEv3G3jXdVNzD4QE/YFUD1emV9UOgfEgRD/wI27zE4b/zXSWD7z0QrIeDTlwEcAb6RfqpV1BX/yWxAPZLLGsf6RjvdRD3N0K1m1IB9rqY2spKlykCdX3JH/Y+qKzt+SrNNE+kPyQ79ENjvHif8EOkv0nToY10jQhXOyqJixxlrq5Bq8cYht+TaMAtdbxXYoHE4fWw9twWkaiyiD9p8gFsqBvcUuBB3Jw==;tGK+3k/McVbYwiopOxrCow=="
 ---
 

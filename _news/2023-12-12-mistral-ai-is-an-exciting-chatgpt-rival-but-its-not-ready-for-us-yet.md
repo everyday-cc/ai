@@ -7,8 +7,8 @@ originalUrl: "https://bgr.com/tech/mistral-ai-is-an-exciting-chatgpt-rival-but-i
 webUrl: "https://bgr.com/tech/mistral-ai-is-an-exciting-chatgpt-rival-but-its-not-ready-for-us-yet/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: BGR
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google's AI chatbot Bard gives drab answers, but it does one thing better than ChatGPT – Mashable"
+    excerpt: "Compared to the other chatbots on the market, Google's Bard is the boring one. In a more or less positive assessment, Vox called"
+    publishedDateTime: 2023-12-13T14:29:00Z
+    webUrl: "https://www.inferse.com/838409/googles-ai-chatbot-bard-gives-drab-answers-but-it-does-one-thing-better-than-chatgpt-mashable/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 43
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/12/wp-header-logo-7371.png"
+        width: 1200
+        height: 1200
+        isCached: true
   - title: "Taylor: A year after ChatGPT's viral launch, I'm freaking out about artificial intelligence."
     excerpt: "We’ve all been sleepwalking our way toward this … revolution? Utopia? Or is it apocalypse? Our columnist assesses the realities of AI."
     publishedDateTime: 2023-12-13T09:00:00Z

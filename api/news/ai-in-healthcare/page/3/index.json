@@ -2,50 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-11-13-artificial-intelligence-continues-to-transform-healthcare.md",
-      "title": "Artificial Intelligence Continues to Transform Healthcare",
-      "excerpt": "Artificial intelligence is finding its way into healthcare at an astonishing rate. A new collaboration between Novartis Pharmaceuticals and Anumana is the latest example of how both pharma and medtech are embracing AI. The multi-year strategic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/artificial-intelligence/artificial-intelligence-continues-transform-healthcare",
-      "originalUrl": "https://www.mddionline.com/artificial-intelligence/artificial-intelligence-continues-transform-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/Untitled%20design-311.png",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2023-11-10-reducing-administrative-burden-in-the-healthcare-industry-with-ai-and-interoperability.md",
       "title": "Reducing administrative burden in the healthcare industry with AI and interoperability",
       "excerpt": "IBM has developed a comprehensive strategy to guide our healthcare clients in driving value through real end-to-end digital transformation.\nThe post Reducing administrative burden in the healthcare industry with AI and interoperability appeared first on IBM Blog.\n",
@@ -1310,6 +1266,49 @@
         "AI in Healthcare",
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-10-23-dance-therapy-class-aims-to-help-children-with-disabilities-express-themselves.md",
+      "title": "Dance therapy class aims to help children with disabilities express themselves",
+      "excerpt": "Dance can help children with disabilities express themselves when words fail, according to Timmins autism specialist and dance teacher Jessica Croussette.",
+      "sourceUrl": null,
+      "webUrl": "https://northernontario.ctvnews.ca/dance-therapy-class-aims-to-help-children-with-disabilities-express-themselves-1.6612292",
+      "originalUrl": "https://northernontario.ctvnews.ca/dance-therapy-class-aims-to-help-children-with-disabilities-express-themselves-1.6612292",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/images/2023/10/22/1_6612378.jpg",
+          "width": 1020,
+          "height": 596,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://beta.ctvnews.ca/local/northern-ontario/2023/10/22/1_6612292.amp.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/northern-ontario/2023/10/22/1_6612292.amp.html",
+      "publishedDateTime": "2023-10-22T22:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     }
   ],

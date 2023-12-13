@@ -69,20 +69,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AMD takes aim at Nvidia with new AI chips. Here’s what might be next for the stock"
-    excerpt: "The latest AI chips from Advanced Micro Devices may showcase the company's capabilities, but the chipmaker faces some obstacles ahead."
-    publishedDateTime: 2023-12-08T15:33:00Z
-    webUrl: "https://www.cnbc.com/2023/12/08/amd-takes-aim-at-nvidia-with-new-ai-chips-heres-what-might-be-next-for-the-stock.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 78
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106274274-1575319644260gettyimages-1160287351.jpeg?v=1701979891&w=1920&h=1080"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "US in talks with Nvidia about AI chip sales to China: Gina Raimondo"
     excerpt: "U.S. Commerce Secretary Gina Raimondo, speaking in an interview with Reuters on Monday, said Nvidia \"can, will and should sell AI chips to China because most AI chips will be for commercial applications."
     publishedDateTime: 2023-12-12T01:21:00Z

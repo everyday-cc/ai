@@ -97,6 +97,49 @@
       ]
     },
     {
+      "path": "_news/2023-12-12-mistral-ai-is-an-exciting-chatgpt-rival-but-its-not-ready-for-us-yet.md",
+      "title": "Mistral AI is an exciting ChatGPT rival, but it’s not ready for us yet",
+      "excerpt": "Mistral AI is a French startup valued at around $2 billion with an exciting ChatGPT rival you can't actually use right now.",
+      "sourceUrl": null,
+      "webUrl": "https://bgr.com/tech/mistral-ai-is-an-exciting-chatgpt-rival-but-its-not-ready-for-us-yet/",
+      "originalUrl": "https://bgr.com/tech/mistral-ai-is-an-exciting-chatgpt-rival-but-its-not-ready-for-us-yet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bgr.com/wp-content/uploads/2023/02/rsz_gettyimages-1246675509.jpg?quality=82&strip=all",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-12T01:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-12-top-10-quantum-computing-companies-making-change.md",
       "title": "Top 10 Quantum Computing Companies Making Change",
       "excerpt": "Quantum computers change the way we process information and solve problems. Here are the top quantum computing companies revolutionizing industries.",
@@ -157,7 +200,7 @@
       "originalUrl": "https://statetechmagazine.com/article/2023/12/tech-trends-microsoft-introduce-ai-many-government-workers",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -244,6 +287,41 @@
       ]
     },
     {
+      "path": "_news/2023-12-10-microsofts-answer-to-openai-inquiry-doesnt-own-stake-link-not-same-as-google-and-deepmind.md",
+      "title": "Microsoft’s Answer to OpenAI Inquiry: Doesn't Own Stake; Link not same as Google and DeepMind",
+      "excerpt": "With global regulators examining Microsoft Corp.'s $13 billion investment in OpenAI, the software giant has a simple argument it hopes will resonate with antitrust officials: It doesn't own a traditional stake in the buzzy startup so can't be said to control it.",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/tech/news/microsofts-answer-to-openai-inquiry-doesnt-own-stake-link-not-same-as-google-and-deepmind-71702102228046.html",
+      "originalUrl": "https://tech.hindustantimes.com/tech/news/microsofts-answer-to-openai-inquiry-doesnt-own-stake-link-not-same-as-google-and-deepmind-71702102228046.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/microsofts-answer-to-openai-inquiry-doesnt-own-stake-link-not-same-as-google-and-deepmind-71702102228046.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/microsofts-answer-to-openai-inquiry-doesnt-own-stake-link-not-same-as-google-and-deepmind-71702102228046.html",
+      "publishedDateTime": "2023-12-09T18:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times Tech",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-09-chatgpt-vs-google-bard-round-2-how-does-the-new-gemini-model-fare.md",
       "title": "ChatGPT vs. Google Bard, round 2: How does the new Gemini model fare?",
       "excerpt": "The new Gemini-powered Bard keeps the same spirit (\"He envisioned a sport that would unite people...\") with more concision and focus. Interestingly, GPT-3.5 is the only model we tested to imagine Lincoln as a youth instead of a restless president sitting in the White House.",
@@ -252,7 +330,7 @@
       "originalUrl": "https://arstechnica.com/ai/2023/12/chatgpt-vs-google-bard-round-2-how-does-the-new-gemini-model-fare/3/?view=grid",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -1330,104 +1408,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-ibb-law-selects-intapp-documents-as-part-of-wider-microsoft-strategy.md",
-      "title": "IBB Law selects Intapp Documents as part of wider Microsoft strategy",
-      "excerpt": "Full-service UK law firm IBB Law has selected Intapp Documents' Microsoft 365-based document and email management solution.",
-      "sourceUrl": null,
-      "webUrl": "https://legaltechnology.com/2023/11/29/ibb-law-selects-intapp-documents-as-part-of-wider-microsoft-strategy/",
-      "originalUrl": "https://legaltechnology.com/2023/11/29/ibb-law-selects-intapp-documents-as-part-of-wider-microsoft-strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://legaltechnology.com/wp-content/uploads/2023/09/Oct-Nov_2023_Web_300x250.jpg",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-29T12:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Legal Technology",
-        "domain": "legaltechnology.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-ai-fatigue-sales-challenges-and-the-problem-of-getting-big-inside-growing-tension-at-aws.md",
-      "title": "AI fatigue, sales challenges, and the problem of getting big: Inside growing tension at AWS",
-      "excerpt": "AWS is the dominant cloud provider. That success brings new challenges. The emergence of generative AI is adding to internal tensions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/amazon-aws-ai-fatigue-sales-challenges-2023-11",
-      "originalUrl": "https://www.businessinsider.com/amazon-aws-ai-fatigue-sales-challenges-2023-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65661a1cfe5bc6545ebcf3d1?width=700",
-          "width": 700,
-          "height": 525,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-29T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Sales",
-        "AWS AI",
-        "AI Hardware"
       ]
     }
   ],

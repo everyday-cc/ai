@@ -2,6 +2,104 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-11-29-ibb-law-selects-intapp-documents-as-part-of-wider-microsoft-strategy.md",
+      "title": "IBB Law selects Intapp Documents as part of wider Microsoft strategy",
+      "excerpt": "Full-service UK law firm IBB Law has selected Intapp Documents' Microsoft 365-based document and email management solution.",
+      "sourceUrl": null,
+      "webUrl": "https://legaltechnology.com/2023/11/29/ibb-law-selects-intapp-documents-as-part-of-wider-microsoft-strategy/",
+      "originalUrl": "https://legaltechnology.com/2023/11/29/ibb-law-selects-intapp-documents-as-part-of-wider-microsoft-strategy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://legaltechnology.com/wp-content/uploads/2023/09/Oct-Nov_2023_Web_300x250.jpg",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-29T12:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Legal Technology",
+        "domain": "legaltechnology.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-29-ai-fatigue-sales-challenges-and-the-problem-of-getting-big-inside-growing-tension-at-aws.md",
+      "title": "AI fatigue, sales challenges, and the problem of getting big: Inside growing tension at AWS",
+      "excerpt": "AWS is the dominant cloud provider. That success brings new challenges. The emergence of generative AI is adding to internal tensions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/amazon-aws-ai-fatigue-sales-challenges-2023-11",
+      "originalUrl": "https://www.businessinsider.com/amazon-aws-ai-fatigue-sales-challenges-2023-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65661a1cfe5bc6545ebcf3d1?width=700",
+          "width": 700,
+          "height": 525,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-29T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Sales",
+        "AWS AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-11-29-microsoft-mlnet-30-expands-deep-learning-capabilities.md",
       "title": "Microsoft ML.NET 3.0 expands deep learning capabilities",
       "excerpt": "Update to the machine learning framework for .NET developers brings new capabilities in object detection, named entity recognition, and question answering.",
@@ -1296,74 +1394,6 @@
       "provider": {
         "name": "SiliconANGLE",
         "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-15-cognitive-computing-market-surges-expected-to-hit-us-1882-billion-with-a-263-cagr-by-2033.md",
-      "title": "Cognitive Computing Market Surges, Expected to Hit US$ 188.2 Billion with a 26.3% CAGR by 2033",
-      "excerpt": "The cognitive computing market is poised for remarkable growth, projected to establish a robust foothold with a compelling Compound Annual Growth Rate (CAGR) of 26.3% throughout the forecast period. As technology continues to advance and organizations seek smarter solutions,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fmiblog.com/2023/11/15/cognitive-computing-market-surges-expected-to-hit-us-188-2-billion-with-a-26-3-cagr-by-2033/",
-      "originalUrl": "https://www.fmiblog.com/2023/11/15/cognitive-computing-market-surges-expected-to-hit-us-188-2-billion-with-a-26-3-cagr-by-2033/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T05:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Future Market Insights",
-        "domain": "fmiblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-15-expert-explores-how-our-sleeping-patterns-can-be-linked-to-cognitive-decline.md",
-      "title": "Expert explores how our sleeping patterns can be linked to cognitive decline",
-      "excerpt": "It’s also been shown that not getting enough sleep is linked to cognitive decline and conditions such as Alzheimer’s disease. But more isn’t always better, as one recent study found.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20211115/Expert-explores-how-our-sleeping-patterns-can-be-linked-to-cognitive-decline.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20211115/Expert-explores-how-our-sleeping-patterns-can-be-linked-to-cognitive-decline.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
         "images": null,
         "publishers": null,
         "authors": null

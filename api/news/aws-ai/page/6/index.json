@@ -2,6 +2,146 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-10-19-announcing-rekogniton-custom-moderation-enhance-accuracy-of-pre-trained-rekognition-moderation-models-with-your-data.md",
+      "title": "Announcing Rekogniton Custom Moderation: Enhance accuracy of pre-trained Rekognition moderation models with your data",
+      "excerpt": "Companies increasingly rely on user-generated images and videos for engagement. From ecommerce platforms encouraging customers to share product images to social media companies promoting user-generated videos and images, using user content for engagement is a powerful strategy. However, it can be challenging",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-rekogniton-custom-moderation-enhance-accuracy-of-pre-trained-rekognition-moderation-models-with-your-data/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-rekogniton-custom-moderation-enhance-accuracy-of-pre-trained-rekognition-moderation-models-with-your-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/18/ml-15641-6-1.png",
+          "width": 977,
+          "height": 535,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-19T22:47:25Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-10-20-amazon-launches-drone-delivery-program-for-prescription-medications.md",
+      "title": "Amazon launches drone delivery program for prescription medications",
+      "excerpt": "Drones are now dropping prescription medications to Amazon customers in Texas within an hour of ordering, promising customers relief from standing in line, having public conversations about health ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/money/2023/10/19/amazon-drone-delivery-texas-prescriptions/71240689007/",
+      "originalUrl": "https://www.usatoday.com/story/money/2023/10/19/amazon-drone-delivery-texas-prescriptions/71240689007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-19T20:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-19-defect-detection-in-high-resolution-imagery-using-two-stage-amazon-rekognition-custom-labels-models.md",
+      "title": "Defect detection in high-resolution imagery using two-stage Amazon Rekognition Custom Labels models",
+      "excerpt": "High-resolution imagery is very prevalent in today’s world, from satellite imagery to drones and DLSR cameras. From this imagery, we can capture damage due to natural disasters, anomalies in manufacturing equipment, or very small defects such as defects on printed circuit boards (PCBs) or semiconductors.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/defect-detection-in-high-resolution-imagery-using-two-stage-amazon-rekognition-custom-labels-models/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/defect-detection-in-high-resolution-imagery-using-two-stage-amazon-rekognition-custom-labels-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/19/high-resolution-two-stage-1260x630.jpg",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-19T18:00:36Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2023-10-19-automatically-redact-pii-for-machine-learning-using-amazon-sagemaker-data-wrangler.md",
       "title": "Automatically redact PII for machine learning using Amazon SageMaker Data Wrangler",
       "excerpt": "Customers increasingly want to use deep learning approaches such as large language models (LLMs) to automate the extraction of data and insights. For many industries, data that is useful for machine learning (ML) may contain personally identifiable information (PII). To ensure customer privacy and maintain",

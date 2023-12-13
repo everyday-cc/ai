@@ -55,6 +55,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Platform Keeps Mining Machinery Working With Deep Learning"
+    excerpt: "An Israeli company has created an AI platform for maintaining mining machinery, anticipating potential breakdowns before they happen"
+    publishedDateTime: 2023-12-13T14:34:00Z
+    webUrl: "https://nocamels.com/2023/12/ai-platform-keeps-mining-machinery-working-with-deep-learning/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 34
   - title: "Open-source generative AI startup Mistral AI raises $415M in funding"
     excerpt: "French generative artificial intelligence startup Mistral AI announced today it has closed on its second bumper funding round of the year, raising 385 million euros, or around $415 million, in a deal led by prominent venture capital firms Andreessen Horowitz and Lightspeed Venture Partners."
     publishedDateTime: 2023-12-11T01:47:00Z

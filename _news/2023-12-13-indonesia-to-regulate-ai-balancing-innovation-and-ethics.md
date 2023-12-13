@@ -9,7 +9,7 @@ ampWebUrl: "https://en.antaranews.com/amp/news/301002/indonesia-to-regulate-ai-b
 cdnAmpWebUrl: "https://en-antaranews-com.cdn.ampproject.org/c/s/en.antaranews.com/amp/news/301002/indonesia-to-regulate-ai-balancing-innovation-and-ethics"
 type: article
 quality: 74
-heat: 154
+heat: 146
 published: true
 
 provider:
@@ -105,15 +105,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Indonesia prepares ethics guidance for AI developers"
-    excerpt: "Indonesia has drafted ethics guidance for developers using artificial intelligence (AI) to prevent potential misuse of the new technology, a ministerial draft showed. “AI-based programming activities need to be predicated on the ethics governing its use ..."
-    publishedDateTime: 2023-12-08T16:41:00Z
-    webUrl: "https://www.rappler.com/technology/indonesia-prepares-ethics-guidance-ai-developers/"
-    type: article
-    provider:
-      name: Rappler
-      domain: rappler.com
-    quality: 34
   - title: "EU agrees landmark rules on artificial intelligence"
     excerpt: "EU lawmakers have agreed the terms for landmark legislation to regulate artificial intelligence, pushing ahead with enacting the world’s most restrictive regime on the development of the technology."
     publishedDateTime: 2023-12-09T07:54:00Z
@@ -124,6 +115,6 @@ related:
       domain: ft.com
     quality: 17
 
-secured: "yB1sDBMcxxBThRe0s7Jv5JncieElKuR1zcUH6G51fw9X6Bk/Gaml6Ykye8L4fX1q06up6mSuZfbfB3nqAsQJlJU+Bm8Xf+SH1/YS83CKOQVV6x8uDHGpGfByi9FQHaJktnSj7yumel8wEizO0u17MJKsFHI2xnKC63ouO8pt7PxyXdtY47VoZMdXNvuLgzrn4jNbzz9kMj9QvjQuL6gz2515d9JXsrwDTz7FmOo06sZM6ywVeZ6jO9Lavioi6Cmo1/iJ2rLN4VUy8up8BP4FwZOobjEFpQjcw4NS1RQOtvV48HE5StjuCDJvt5An4bm44WfMYGCWwL1SaxKX+srAMKYocCPREX3T9VWUI8JTURU=;Z+EbVQ9jnse6qJ0iz1M65g=="
+secured: "jW4Zsn705mpoVISzEmvST3yXhxRk9aLl1gpz5y3bJAxqMHYYchSv+o7oipQQpPKv/yUFWZO+WoeULfofYcKELdE9LjwFZ65jRfCl8lUnKEpqCQPhPd6cmOfbq5X5fVnXCgFTPNQsv6Acb6FJ9W9ckFN9u0cMZ33gOzBQXqOhrUV0TDc0RbmUeE4AJd/jCtUonB6COmNgdMz9Vm74ldyK/ldlVHs9fomWn3QrzEZQLjAZoVgevMeXJCdXf7IUWDNs6z9uUlbDC2TvzE15lGp7umEaQlscti+FxJQnXLz1GIinzf1EmM/P54CV06mZ+hQmOTd6mLi2ys4RUVzdpjOCd2/PHSSK/gRN1Ew9f4762knnkFb+Ko+4LxCAB/hdXmy0owkdYD3Ux44uRzme6R2i2VtpbfdcgO3iTm2M9oeYGBrUuWsK0/evixmMG+lq1urevc3HN1OSpdijJN0JZeEt3KLt46prAh0//ACdiY5Z6OTFVgwDaUv03Hu2TLRKDwtpPeq0ndUO0CZ7eQ7sFhUAaA==;XndqhHnNWHSwqJ5uim9lVw=="
 ---
 

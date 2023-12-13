@@ -1,28 +1,22 @@
 ---
 category: news
 title: "VISIE Inc., a Medtech Computer Vision and Spatial Computing Company, Joins NVIDIA Inception to Up Its Computing Power"
-excerpt: "VISIE Inc., formerly Advanced Scanners, today announced it has joined NVIDIA Inception, a program that empowers early-stage companies revolutionizing industries with technological advancements. VISIE is a medtech growth company researching,"
+excerpt: "VISIE Inc., formerly Advanced Scanners, today announced it has joined NVIDIA Inception, a program that empowers early-stage companies revolutionizing"
 publishedDateTime: 2023-12-12T13:17:00Z
-originalUrl: "https://www.eagletribune.com/region/visie-inc-a-medtech-computer-vision-and-spatial-computing-company-joins-nvidia-inception-to-up/article_4e9afd36-3508-59ee-894d-35a57c5acfe3.html"
-webUrl: "https://www.eagletribune.com/region/visie-inc-a-medtech-computer-vision-and-spatial-computing-company-joins-nvidia-inception-to-up/article_4e9afd36-3508-59ee-894d-35a57c5acfe3.html"
+originalUrl: "https://www.businesswire.com/news/home/20231212663423/en/VISIE-Inc.-a-Medtech-Computer-Vision-and-Spatial-Computing-Company-Joins-NVIDIA-Inception-to-Up-Its-Computing-Power/"
+webUrl: "https://www.businesswire.com/news/home/20231212663423/en/VISIE-Inc.-a-Medtech-Computer-Vision-and-Spatial-Computing-Company-Joins-NVIDIA-Inception-to-Up-Its-Computing-Power/"
 type: article
-quality: 16
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Eagle-Tribune
-  domain: eagletribune.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/9/28/9285cacc-6096-552a-aaab-88e2782fbc55/657873b792840.image.jpg?crop=1538%2C807%2C0%2C269&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Top 10 Quantum Computing Companies Making Change"
@@ -42,6 +36,6 @@ related:
         height: 899
         isCached: true
 
-secured: "BbAqpxI646wvRlsC9mhzfC/90XxiLf02Bmtb7xyr5kQryWCsJzAuRlmPIRw2EX/hlzzuzGOUf4JCpjJFEssUoSG3eWp9r7Vh/iweH9To72aQutVq6cGJRel8FVKPRcgY1isYHyZJ4di97z86zH7xX6hhyFfWEiQ3LazPYprWooTJhCl1MgoTXvcAOaESSTybdnRptssYtRUIEqDWefDs0nCWVX7WPpWGy4IlzdcGzwV0nRSJtbUcGNEV4cLZruRHM7SlOabZ7hbWizuTDjGXIR/rmUf+L1Mfc5WP/2fsXzGM1F/syyXY1i6xpHKosHRFSaozqbbRzZ6s2FqBDlIX8NOnOuJTw4uAeazhr9kF8690IEs1CMtyc6XsepnzPWiRbxUZk2v9b/eYCJ/eA/B4iKeORYOAwrlP3JGoj35K2lmehq79TnG+kyGFZGx8C0IuoAvzCgpKH/XMba2rb2BrUfkKKBGa4OrGSQC2q3giKjY+FJPrm24mQ8OK2bVOGctwN9RZU+lr6Npkk6TJNwVPlg==;M12Yis8m6aKTXUZTXEoSsQ=="
+secured: "s4FvI1KTbY0Vhla9VrQFHxsHgG8Ys7SHb+dinbwqHlMAJ8++oCU5cVQJXpqqORGp2yxLI3YRw746Bs/zoa8PV6v5UouM5b11VI5iQtojypqhrXN79u4Hq6CKTvN49NLmStxfw/s1FARPhAEouKzlc1WpjC6uTUDEViXexbnRoKdNcI7B90YTla+J2rYBLPdrLAiYx5DS+unORrfajo5HMpWpCshKQBvmNgevQD0wKwulno6ruWDFSqtdH/Dja5owyoZQEJjsp+cCrjixXAi2kjzde4bJQ8fgOWCbAfhRFy9l9zIiTUosfj1b4rrZG+OqxMDeBQtV427iv3yTWdh2Z7rttRxl8akA/SXNZuveRhc=;ULP2XQq4FGuTs80kyHs5Iw=="
 ---
 

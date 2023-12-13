@@ -9,7 +9,7 @@ ampWebUrl: "https://m.au.investing.com/news/stock-market-news/us-discusses-ai-ch
 cdnAmpWebUrl: "https://m-au-investing-com.cdn.ampproject.org/c/s/m.au.investing.com/news/stock-market-news/us-discusses-ai-chip-sales-to-china-with-nvidia-says-raimondo-432SI-3060981?ampMode=1"
 type: article
 quality: 91
-heat: 261
+heat: 251
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/12/12/e4ac781b-b08e-4c08-827f-c4eac7051fcd_6b56a99a.jpg?itok=ajUAG_eF&v=1702347213"
         width: 1200
         height: 630
-        isCached: true
-  - title: "AMD takes aim at Nvidia with new AI chips. Here’s what might be next for the stock"
-    excerpt: "The latest AI chips from Advanced Micro Devices may showcase the company's capabilities, but the chipmaker faces some obstacles ahead."
-    publishedDateTime: 2023-12-08T15:33:00Z
-    webUrl: "https://www.cnbc.com/2023/12/08/amd-takes-aim-at-nvidia-with-new-ai-chips-heres-what-might-be-next-for-the-stock.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 78
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106274274-1575319644260gettyimages-1160287351.jpeg?v=1701979891&w=1920&h=1080"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "US in talks with Nvidia about AI chip sales to China: Gina Raimondo"
     excerpt: "U.S. Commerce Secretary Gina Raimondo, speaking in an interview with Reuters on Monday, said Nvidia \"can, will and should sell AI chips to China because most AI chips will be for commercial applications."

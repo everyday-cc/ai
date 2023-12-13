@@ -2,6 +2,102 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-10-18-pytorch-executorch-extends-open-source-ai-for-new-quests-at-the-edge.md",
+      "title": "PyTorch ExecuTorch extends open source AI for new quests at the edge",
+      "excerpt": "ExecuTorch was validated and vetted by actual real-world engineering problems and Meta has already proven the technology with deployment.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/pytorch-executorch-extends-open-source-ai-for-new-quests-at-the-edge/",
+      "originalUrl": "https://venturebeat.com/ai/pytorch-executorch-extends-open-source-ai-for-new-quests-at-the-edge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_a_virtual_reality_headset_displaying_neon_fire_ab1a2c58-33f2-4f0d-ae81-e17de062897d.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-17T22:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-10-18-can-new-yorks-mayor-speak-mandarin-no-but-with-ai-hes-making-robocalls-in-multiple-languages.md",
+      "title": "Can New York’s mayor speak Mandarin? No, but with AI he’s making robocalls in multiple languages",
+      "excerpt": "In September, the music streaming service Spotify introduced an AI feature to translate a podcast into multiple languages in the podcaster’s voice. Just this month, the startup ElevenLabs introduced a voice translation tool that it said “can convert ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/world-nation/story/2023-10-17/can-new-yorks-mayor-speak-mandarin-no-but-with-ai-hes-making-robocalls-in-multiple-languages",
+      "originalUrl": "https://www.latimes.com/world-nation/story/2023-10-17/can-new-yorks-mayor-speak-mandarin-no-but-with-ai-hes-making-robocalls-in-multiple-languages",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/c9828e4/2147483647/strip/true/crop/3960x2079+0+281/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F41%2F87%2F89dc6d36f1d94672d76d32f33c87%2F4460e7d7393545d991b95513838fc872",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-17T21:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-18-can-mayor-adams-speak-mandarin-no-but-ai-can-help-him-robocall-in-different-languages.md",
       "title": "Can Mayor Adams speak Mandarin? No, but AI can help him robocall in different languages",
       "excerpt": "New York City Mayor Eric Adams has been using artificial intelligence to make robocalls that contort his own voice into several languages he doesn’t actually speak, posing new ethical questions about the government’s use of the rapidly evolving technology.",

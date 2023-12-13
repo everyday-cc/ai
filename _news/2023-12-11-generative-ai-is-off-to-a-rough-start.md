@@ -101,20 +101,6 @@ related:
       name: Time
       domain: time.com
     quality: 47
-  - title: "UBS Report: Generative AI for Financial Services"
-    excerpt: "In the financial services industry, generative artificial intelligence (AI) is being deployed to automate time-consuming, tedious jobs in areas including customer service, fraud prevention, coding and information analysis."
-    publishedDateTime: 2023-12-13T06:52:00Z
-    webUrl: "https://fintechnews.ch/aifintech/ubs-report-generative-ai-for-financial-services/65521/"
-    type: article
-    provider:
-      name: fintechnews
-      domain: fintechnews.ch
-    quality: 39
-    images:
-      - url: "https://fintechnews.ch/wp-content/uploads/2023/12/UBS-Report-Generative-AI-for-Financial-Services.jpg"
-        width: 1024
-        height: 567
-        isCached: true
   - title: "Turn Generative AI from an Existential Threat into a Competitive Advantage"
     excerpt: "By making it vastly easier and cheaper to improve or create products and services that previously required significant human labor and creativity, generative AI has the potential to disrupt or even commoditize many businesses."
     publishedDateTime: 2023-12-11T17:00:00Z
@@ -175,15 +161,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 17
-  - title: "Dell Technologies storage advancements accelerate AI and generative AI strategies"
-    excerpt: "Dell Technologies is helping customers achieve faster AI and generative AI (genAI) performance with new enterprise data storage advancements and validation with the Nvidia DGX SuperPod AI infrastructure."
-    publishedDateTime: 2023-12-11T01:11:00Z
-    webUrl: "https://itwire.com/guest-articles/company-news/dell-technologies-storage-advancements-accelerate-ai-and-generative-ai-strategies.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 14
 
 secured: "3Xo7SUc82jyoBv/G5g6EnztG3WqBVL76n9/7ON1jcx0VP9GHcTrdr10jEGiu6Qt2N5xZVMFrdw8xRyWZJJxsS4Vaub+mpatbDKYFjpVyf9DKLs1aMlup1WChYb46iijo8xEFElvOXsi6ApunFBm8UctVXWqPQ6ZYj3wIjbfSHutYBEI7NWr74bkQwZpTI/f2MSrejOAfd6u2hFn47+IKXcBgKqTfqc57jFQXYBBAsZF6damLTyvsxQGhhcP6bkeK1Xr5lPgbKXIrm0N7U/RDIIHds+UlZBu6NneoQyo5LhlVemmVfOCP5NaMafYOk9k94t1Dpuz4vxJurxPvkml9TIwG1UCvEdNvVbDxzUQ6Ec/anOJF+r3x/gFfZwlJI4/6ts1MpLLNdRCcg4QBWzpDCNGKQKv9BGssqYZjc3nO936Oo2778idPbla9L1MoLPd7Rxw7feNlzvJuGPQp30q5JZL/ypT0F06JqZHUwtNN4wae4d+kXEZS/wt2qcAJPk4QBq/cwSNPSFeADMstPXbRiw==;VjoPRiV0ns02OYJ2d26tCw=="
 ---

@@ -62,31 +62,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google Challenges Chat GPT with Gemini AI Model"
-    excerpt: "If Bard is not enough to challenge ChatGPT in its dominance in the AI field, Google introduces Gemini, which claims to be its largest multimodal AI model to date. Made in collaboration with DeepMind and other Google teams, Gemini aims to seamlessly understand and process diverse types of information, including text, code, audio, image, and video."
-    publishedDateTime: 2023-12-13T03:07:00Z
-    webUrl: "https://unbox.ph/news/google-gemini-ai-model/"
-    ampWebUrl: "https://unbox.ph/news/google-gemini-ai-model/amp/"
-    cdnAmpWebUrl: "https://unbox-ph.cdn.ampproject.org/c/s/unbox.ph/news/google-gemini-ai-model/amp/"
-    type: article
-    provider:
-      name: Unbox
-      domain: unbox.ph
-    quality: 39
-  - title: "Google Launches Its New AI Model - Gemini"
-    excerpt: "Google launched Gemini, its new generative AI model that will compete with ChatGPT, however not everything is as it was presented to be."
-    publishedDateTime: 2023-12-13T11:37:00Z
-    webUrl: "https://www.cybersecurityintelligence.com/blog/google-launches-its-new-ai-model---gemini-7352.html"
-    type: article
-    provider:
-      name: cybersecurityintelligence.com
-      domain: cybersecurityintelligence.com
-    quality: 39
-    images:
-      - url: "https://www.cybersecurityintelligence.com/files/upload/htmleditor/ugVEvwkT%20bard%20google%20titter%20image.jpeg"
-        width: 900
-        height: 471
-        isCached: true
   - title: "How to use Google Gemini in Bard to get the best results"
     excerpt: "Google has recently updated its AI chatbot, Google Bard, with its new Gemini AI model, which brings a host of enhanced features to improve the user"
     publishedDateTime: 2023-12-10T11:03:00Z

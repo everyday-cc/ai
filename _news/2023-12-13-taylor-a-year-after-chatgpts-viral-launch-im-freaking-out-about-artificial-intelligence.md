@@ -35,6 +35,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Google's AI chatbot Bard gives drab answers, but it does one thing better than ChatGPT – Mashable"
+    excerpt: "Compared to the other chatbots on the market, Google's Bard is the boring one. In a more or less positive assessment, Vox called"
+    publishedDateTime: 2023-12-13T14:29:00Z
+    webUrl: "https://www.inferse.com/838409/googles-ai-chatbot-bard-gives-drab-answers-but-it-does-one-thing-better-than-chatgpt-mashable/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 43
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/12/wp-header-logo-7371.png"
+        width: 1200
+        height: 1200
+        isCached: true
 
 secured: "tP8wA3jTnHQK33E4q8/ay9O81q6rnyGRivGG+PApQcmrO8eoxiBDj/Y6xRSbfb1CbIYR15ZGEvv/tJAoKHK+vfL5IVOgHMpOni6z2gdQO6y5Hspmkj78mW8MV34I0cZZilPfbLKuKJLe4hLB2MriOA64LIX+Qpgqb2MBU45Fm+k/6dANvVCQGiTocNpwCpXwkz2BZgeirnuG8ac3bA/0rTIsfr7huB3EOcOZ1NdweH1tKitEke58+8yx1tPYZ3lWVir/NlYzqkd5CJxLgAEYl0W5ncT1YTbb17tgzSjIR8Fq0oduEG/JWrTiGPrOTwm9jgfwYGmybOtKXfsv5MxjfWNW69cbMZxxznwyyIH4zcQPk++79EtqjCxEVVF6uC7B9KkySJHK1zUH0vRAsolSrRp7GUHLFLHEelyPqN7ihQTvCy12mqSn/u5tcRlrumKmbpjbg/FEccuHlEN47y+583zU7TctsMJXBHNrkLqc/G8HeMntBQ6JJh68ruLWnf1KPs8vrTCtCtXWd24/0yoDMg==;cYbrXuqwWnYq36uzrkNBEA=="
 ---

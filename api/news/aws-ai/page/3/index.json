@@ -2,6 +2,127 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-11-27-privacera-ai-governance-integrates-with-aws-on-foundational-model-security.md",
+      "title": "Privacera AI Governance Integrates with AWS on Foundational Model Security",
+      "excerpt": "Last month, Privacera announced the General Availability of Privacera AI Governance (PAIG), one of the industry's first comprehensive AI data governance solutions. Visit Privacera's website to request a demo on PAIG or to learn about generative AI Governance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-privacera-ai-governance-integrates-with-aws-foundational-model-/2023/11/27/9923370.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-privacera-ai-governance-integrates-with-aws-foundational-model-/2023/11/27/9923370.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1192069/Privacera_Logo.jpg",
+          "width": 266,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-27T15:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-11-27-amazon-is-using-ai-to-deliver-packages-faster-than-ever-this-holiday-season.md",
+      "title": "Amazon is using AI to deliver packages faster than ever this holiday season",
+      "excerpt": "Amazon is boasting its quickest delivery time yet, saying that packages are being prepared for dispatch within 11 minutes of an order placement at same-day facilities. That pace is an hour faster ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/amazon-faster-deliveries-ai-holiday-season-cyber-monday-deals/",
+      "originalUrl": "https://www.cbsnews.com/news/amazon-faster-deliveries-ai-holiday-season-cyber-monday-deals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-27T15:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-27-qlik-expands-customers-ability-to-scale-ai-for-impact-with-aws.md",
+      "title": "Qlik Expands Customers’ Ability to Scale AI for Impact with AWS",
+      "excerpt": "LAS VEGAS, Nov. 27, 2023 (GLOBE NEWSWIRE) -- Qlik ® is helping its customers embrace and scale the power of large language models (LLMs) and generative artificial intelligence (AI) with Amazon Web Services (AWS) through new integrations and AI-powered solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/qlik-expands-customers-ability-to-scale-ai-for-impact-with-aws-1032851221",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/qlik-expands-customers-ability-to-scale-ai-for-impact-with-aws-1032851221",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-27T14:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-27-ibm-watsonx-ai-and-data-platform-security-solutions-and-consulting-services-for-generative-ai-to-be-showcased-at-aws-reinvent.md",
       "title": "IBM watsonx AI and data platform, security solutions and consulting services for generative AI to be showcased at AWS re:Invent",
       "excerpt": "During AWS re:Invent, IBM will be unveiling several exciting pieces of news about our fast-growing partnerships.\nThe post IBM watsonx AI and data platform, security solutions and consulting services for generative AI to be showcased at AWS re:Invent appeared first on IBM Blog.\n",
@@ -1254,108 +1375,6 @@
       "provider": {
         "name": "Streaming Media Magazine",
         "domain": "streamingmedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-15-whylabs-announces-strategic-collaboration-agreement-with-aws-to-accelerate-responsible-generative-ai-adoption.md",
-      "title": "WhyLabs Announces Strategic Collaboration Agreement with AWS to Accelerate Responsible Generative AI Adoption",
-      "excerpt": "WhyLabs, Inc., the AI Observability company, today announced a Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS) to help enterpri",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20231114399174/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20231114399174/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T19:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-15-mufg-signs-multiyear-global-agreement-with-aws-to-accelerate-digital-transformation.md",
-      "title": "MUFG Signs Multiyear Global Agreement With AWS to Accelerate Digital Transformation",
-      "excerpt": "Amazon Web Services (AWS), an Amazon.com company (NASDAQ:AMZN), today announced that Mitsubishi UFJ Financial Group (MUFG), Japan’s largest financial",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20231114720773/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20231114720773/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T18:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-quantiphi-signs-strategic-collaboration-agreement-with-aws-to-leverage-generative-ai-capabilities.md",
-      "title": "Quantiphi Signs Strategic Collaboration Agreement With AWS to Leverage Generative AI Capabilities",
-      "excerpt": "Premier Tier Services Partner, announced today that it has signed a Strategic Collaboration Agreement (SCA) with",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/11/n35782058/quantiphi-signs-strategic-collaboration-agreement-with-aws-to-leverage-generative-ai-capabilities",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/11/n35782058/quantiphi-signs-strategic-collaboration-agreement-with-aws-to-leverage-generative-ai-capabilities",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T15:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

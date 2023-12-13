@@ -119,6 +119,15 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 19
+  - title: "Trends in fintech that drive growth"
+    excerpt: "Fintech is a fast-changing ecosystem where there are few certainties. As we move into the second half of 2023 it’s worth taking a temperature check and assessing the lay of the land."
+    publishedDateTime: 2023-12-13T16:53:00Z
+    webUrl: "https://www.finextra.com/blogposting/25383/trends-in-fintech-that-drive-growth"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "BvmJVqdrBuzyIwA0NIc/0rSksU6Rk7saadw9D1R9T7SFsIkoKAnvK5Zc+C5TqiVEK3rnnAGpmkIOdLWsDY6doNZCjJO5MbYgl4rftAa7YXdS92tQtGBnpGFlvj39au35UwZ2FDwRsG7Zo9Nd2ahM/VytRO12NujOzpjyoMFdQwqoJArbFuBmq5C8jmYd1FzZ3wRW1ohZ6TYYbBYs+TZwOcljq8YFEDuzTWEva1u83ZZfX2WmA7NcZSwldiyM5Y5ynqmOOUR9h431XEWSEyGgJePQx/s1WcgkZSPLf8/my0uxdNDTmIoWJiQrxwNPUU2WvH8rjC9sKH5ryOGZM8OXFJYPye6OvDLfb2E2z5sZJJQ=;aGcFwMwSMZCMkWQjz2olNQ=="
 ---

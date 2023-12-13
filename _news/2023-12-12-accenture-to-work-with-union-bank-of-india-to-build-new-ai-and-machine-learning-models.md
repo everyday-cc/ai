@@ -7,7 +7,7 @@ originalUrl: "https://www.indianweb2.com/2023/12/accenture-to-work-with-union-ba
 webUrl: "https://www.indianweb2.com/2023/12/accenture-to-work-with-union-bank-of.html"
 type: article
 quality: 63
-heat: 87
+heat: 83
 published: true
 
 provider:

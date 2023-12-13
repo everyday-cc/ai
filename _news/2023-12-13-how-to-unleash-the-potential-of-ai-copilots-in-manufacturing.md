@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/13/how-to-unl
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/13/how-to-unleash-the-potential-of-ai-copilots-in-manufacturing/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 99
 published: true
 
 provider:
@@ -40,6 +40,6 @@ related:
       domain: techspot.com
     quality: 74
 
-secured: "7F/Pe9WGQ2BO98EMOKFnMvQrKJQwJ991xA2dPjzDqICU9wr8vSEqtg16zFTlrhmO8b13hxBDVlSuE8lhtj930vr4wPX+TAtM4DywSQmi6AgIWRZHD5Ng7CCVTKo1its1pWY/vad8qUPQMafiYWgROiznvQv9i/E4MpVRXsdWVdV3kLY+PyfKUOJC7F2X7V0164dr/CPHO5glpvucaytJQb6ilx8a9PK/L1yprJE6uKk6YcroPZGq0F+Y4+8bah+Ei6a5AGzIESgXc3MgMnzXF4s2JiuwV0liCtFj6q10wzkk2wY8VR3ySpw/znCVg1aSZO/cPvSlFPxazrkvaP5IX1FHQxBYF7Djwm7S+A+pH34=;dH7i8XS1pOmbDNXMC0iB7Q=="
+secured: "QQzeXx5fd2rWrRwn8d3GbEtgVN/dsumQ5QC0SW7WUGtx+uUl1Pi/1H1RRJ8bLfOyF2j+I/DoBmo1GIH5QcT4aoQh6aw4mcHDPjmM0Nji817hC5Feh30/jfakTTni9sz1Pg6paozVFSX6HWQw5U7PX2Uph+uBqZCdLgXEkhqtkjBCW2THxmRq22OpsdLwkfir3S/Ajh+WrMdRfbHqwvA5Bw2tmRvZzZA4mTTYebt63VtiWdr062jLM0Kvwr655IjnktDlqFbQ9dGiyr8ocowCIKs9zYN5L2VlT8rRZ1ie3smgzq8sTu3a/qVvGikQjpwBjKM1UkAqXbZ8yBSZJFVzYlUahD2X197JUwQQnwv9ppD9YC8O68Q0xKezbYvGY8vw0bqDixenAlTNGYezYmHpdjm/bAgahaiPUYgw7cQpFXwCc1/J/jbpj9EDs1cPjRmA9Q4BXz3dXN3RPzDGHqytUbbBw+DxtAt8yk6ekTIe5C4Lc7AraE9ScvBpxxn7GG1aImCC7EcWnINEDqdSYRR2zA==;oh5xAgugI56OhVmNcNxgmQ=="
 ---
 

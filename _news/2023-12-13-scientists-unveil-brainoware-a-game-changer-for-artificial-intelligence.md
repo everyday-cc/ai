@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theweek.in/news/sci-tech/2023/12/13/scientists-unveil-br
 cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2023/12/13/scientists-unveil-brainoware-a-game-changer-for-artificial-intel.amp.html"
 type: article
 quality: 72
-heat: 82
+heat: 84
 published: true
 
 provider:
@@ -42,6 +42,6 @@ related:
         height: 675
         isCached: true
 
-secured: "o515p8c+0vm2hq2l3igkVxK9HZ1XS7+Jf0g0fVJ2yy5P7bwBpzxeCbJQ4TmB1SnvpQ9K0dfnEuVHMsyhKFLlVR8EfX7qWE2xrRTMLO2oyK3iAxlvOtLJcWfOHrtq2YFHFFCO+cCtzoin+/gYIcoQElx2qQZNIlBzlm01WB3mItvuYia18boZzGKda/UtD9qknhO7O/tYp481S0XJH2PQky56V8ntSFI4z03nRDpYyeCeizXqG7yGIAN1Kcib4n+p1a3/9T1u86Qvq+8dJxNAtYQyoxkvwk3wxOKrAabfYWV0SrHalqSdw/Ey0ZNROxkVUDiMQMyBSjA5dSA7nQ/Zv/qDjNuOf7GgDWYFFNSX8h8=;2EXL287BXVwZmCnHW38U3g=="
+secured: "qtJvaCCOgzJ6PvY/0SdTKcg2G1gtICGUUfoXx2cgVKaq/PHYwFz0Ea2EoNAkfkR8npfiQcxKkwwkwHzGhKyApxak4kbKwXpqWptm11Pdhl2tmcNooy0IpigVlPAWOxmA736pjdQYrQd8NdmYxQj2RgaX1SsSJIUSv7YsQPdxiSivHIfVn+qboRIr4UsdCw+OXBsqD4b4yXldJ4gvg8h0DTBiA3rz+4AwE54cZwWj6qElMq01qKdcmDBE3RunJKldu7UYdP32fr/vlUkE4QNAWHGyfsVRIwAyrrnp/OnQeKkpjlngt55P1/zRIEudzY8RLJnwzIPXBayb8vX7R/muhcUg/q1Q8g1OcbulPy0FaLdbjmz/NaKdje7igupI1z9aLen7VXf1oaUQPgm1UJzMnNsqgO8V/TnkbVzs57L2upi4wSOwrev30R9JKXPsSiss45FdP6OieQF4+rbE/eCB5LjG7XhVIAxY4ZrbYF09uJBSqcV9FWoLJUqqxaHgEdxavMKoo53blvbZDyegNXEmGQ==;DLQgaNyjD+37t24e7JfAEA=="
 ---
 

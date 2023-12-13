@@ -7,7 +7,7 @@ originalUrl: "https://www.geeky-gadgets.com/apple-mlx-ai-framework/"
 webUrl: "https://www.geeky-gadgets.com/apple-mlx-ai-framework/"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 480
     height: 360
     isCached: true
-
-related:
-  - title: "Apple Offers Developers MLX Framework for Machine Learning"
-    excerpt: "While mostly staying out of the generative AI competition, Apple has released an open source array framework on GitHub for building machine learning transformer language models and text generation AI on the company’s own silicon. Jump to: MLX is a set of ..."
-    publishedDateTime: 2023-12-08T14:41:00Z
-    webUrl: "https://www.techrepublic.com/article/apple-mlx-framework-machine-learning/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 84
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/12/macbook-pro-2-dec-23.jpg"
-        width: 1400
-        height: 788
-        isCached: true
 
 secured: "UzQYoBsxf17Xaum2xST5+s+h0ZaJw3DsF7ELNSSMTLcZp8dO+FRzUHuBt3yJplrM1au6+D+0YA/tpacwbqT0lYzALsHyflHurVhnL8Pnvs0QWq94jV6KQuj1h78LLja9zb6Lfxm+uC9tIDcJYlsr4XeFjYVn1rZdPWIdkNpJcZeUVv0rnOeMnfSrS88MzG7KvRXMF2/qZCg4W6KmPE7x00XTrCZqjkPSaCKRXvgxPAcc1dz67RUXK3fHm54XL8sHVyomIQd3g0WN+7F64+M/R6CSBYPp5h+jshh7TBS0HmRjai1YsgFc7DeSU17ZmvbD8u1CDKf26dGBZsfak/4d0vpnQSVACeVDTca7fX3HqXE=;pV60AUF3f+3pSMJAQoGZXQ=="
 ---

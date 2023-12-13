@@ -66,6 +66,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 63
+  - title: "Google Launches Generative Artificial Intelligence Models for Healthcare"
+    excerpt: "Google’s newly introduced MedLM is a suite of foundation models designed for healthcare, with two generative AI tools built on the large language model Med-PaLM 2."
+    publishedDateTime: 2023-12-13T14:01:00Z
+    webUrl: "https://healthitanalytics.com/news/google-launches-generative-artificial-intelligence-models-for-healthcare"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 53
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/Getty_correct_size_chatGPT.png"
+        width: 690
+        height: 400
+        isCached: true
   - title: "Mediverse: Making Healthcare Accessible For All Using Artificial Intelligence"
     excerpt: "In line with this aim, dynamic healthtech startup Mediverse is taking advantage of the ever-evolving healthcare landscape and harnessing the power of Artificial Intelligence (AI) to improve patient care and accessibility. Mediverse's primary vision is to ..."
     publishedDateTime: 2023-12-13T09:46:00Z
@@ -103,15 +117,6 @@ related:
       name: Boise State Public Radio
       domain: boisestatepublicradio.org
     quality: 34
-  - title: "Revolutionizing Healthcare: Exploring the Impact and Future of Large Language Models in Medicine"
-    excerpt: "Explore the transformative impact of Large Language Models like Google's Med-PaLM 2 and EPFL's Meditron in healthcare, examining their applications, challenges, and potential in enhancing patient care"
-    publishedDateTime: 2023-12-08T16:16:00Z
-    webUrl: "https://www.unite.ai/revolutionizing-healthcare-exploring-the-impact-and-future-of-large-language-models-in-medicine/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 8
 
 secured: "uOs17+TudgO112SN2Rr4QuPn1x+O7Sc6wqppvWihY3EqacNCGf8/SBK6w1+U1P1TUMBucRrEtyFVPT9u1djaagOK3tzXcyJ73diJXj4SXARhXCbaWB5hADXIisEdmrjLnes6eoWuj1tVk8tbxSjrxmUFS1xTHhybdo9MT3r6ua5co+3rPc1Rgo29QGCgY0c5qQSSL8mzTr4m2FEevN/ZKY6OvmIFIkYeQXAJrovzTp/SGRhn5u0LDGoYpRt8p5NRWyslz1cM8l20kpfkBJhqU/mw3Xyigk5U5dwPaHP7wTWfp95e8PyZK+d6Zf2Sn+gmjlL2Z6YT0IDdVKE50VSPFxy9+oU3fIsSWolx08NMEFplkqsRW/RvOeKG+BTelRgbDFRWEVqXds8qnW8+5YO8HqpB+IQT3n80Ok7r2y/GTZ+6teXSt/RQECHbslki1pKA9qw7M5GTBq9J5oJ2yiaMSxUaxj6rmFv5A37aeQ5vlq6woWceboTKrCpZ1PDDQAhijVsDpFF7nVXATljpQAXjKw==;TKPhM8kOWYYfmiZGUsfLpA=="
 ---

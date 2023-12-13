@@ -2,6 +2,557 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2023-11-02-study-reveals-alarming-cognitive-decline-in-over-50s-during-pandemic.md",
+      "title": "Study reveals alarming cognitive decline in over-50s during pandemic",
+      "excerpt": "The brain health of over 50s deteriorated more rapidly during the pandemic - even if they didn’t catch Covid, according to a new study. Increases in loneliness and depression, less exercise and higher alcohol consumption were all contributing factors,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fbherald.com/lifestyles/health/study-reveals-alarming-cognitive-decline-in-over-50s-during-pandemic/article_2ee01e01-2e21-5e4f-a76b-27ef0d85799b.html",
+      "originalUrl": "https://www.fbherald.com/lifestyles/health/study-reveals-alarming-cognitive-decline-in-over-50s-during-pandemic/article_2ee01e01-2e21-5e4f-a76b-27ef0d85799b.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-02T11:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fort Bend Herald",
+        "domain": "fbherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-02-as-gaza-conflict-rages-online-maps-from-chinese-companies-are-missing-israels-name.md",
+      "title": "As Gaza conflict rages, online maps from Chinese companies are missing Israel’s name",
+      "excerpt": "Beijing has clarified that Israel remains marked on official maps issued by Chinese authorities after questions emerged over why the country’s name was not visible on online maps provided by two major Chinese companies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/gaza-conflict-rages-online-maps-045613363.html?ref=biztoc.com",
+      "originalUrl": "https://www.aol.com/gaza-conflict-rages-online-maps-045613363.html?ref=biztoc.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_cnn_business_articles_764/7bc99f4354e15e90a476164c321ba960",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-02T07:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-02-elsa-introduces-nvidia-a800-40gb-active-gpu-with-hbm2-memory.md",
+      "title": "Elsa Introduces NVIDIA A800 40GB Active GPU with HBM2 Memory",
+      "excerpt": "Elsa has initiated the distribution of the \"NVIDIA A800 40GB Active\" AI GPU card, model EQRA800-40GER, boasting 40GB of HBM2 memory. The NVIDIA A800 40GB Active is powered by the NVIDIA Ampere ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.guru3d.com/story/elsa-introduces-nvidia-a800-40gb-active-gpu-with-hbm2-memory/",
+      "originalUrl": "https://www.guru3d.com/story/elsa-introduces-nvidia-a800-40gb-active-gpu-with-hbm2-memory/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-02T07:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Guru3D.com",
+        "domain": "guru3d.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-02-studying-the-arts-and-deep-learning-academic-minute.md",
+      "title": "Studying the Arts and Deep Learning: Academic Minute",
+      "excerpt": "Today on the Academic Minute: Lisa Donovan, professor of arts management at the Massachusetts College of Liberal Arts, explores how studying the arts can lead to deep, rigorous learning. Learn more about the Academic Minute here.",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidehighered.com/news/quick-takes/2023/11/02/studying-arts-and-deep-learning-academic-minute",
+      "originalUrl": "https://www.insidehighered.com/news/quick-takes/2023/11/02/studying-arts-and-deep-learning-academic-minute",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.insidehighered.com/modules/custom/ihe_custom/img/ihe-logo-no-wordmark.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-02T07:11:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inside Higher Ed",
+        "domain": "insidehighered.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-02-azure-communications-services-is-microsofts-new-managed-communication-platform.md",
+      "title": "Azure Communications Services is Microsoft's new managed communication platform",
+      "excerpt": "At its annual Ignite conference, Microsoft announced Azure Communications ... Developers can easily tap into other Azure services, such as Azure Cognitive Services for translation, sentiment ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/azure-communications-services-is-microsofts-new-managed-communication-platform/",
+      "originalUrl": "https://www.neowin.net/news/azure-communications-services-is-microsofts-new-managed-communication-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-02T06:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-02-artificial-intelligence-is-changing-the-way-cars-are-made.md",
+      "title": "Artificial Intelligence Is Changing the Way Cars Are Made",
+      "excerpt": "Artificial intelligence (AI) is worming its way through global industries in everything from fast food production to farming to energy grids and water treatment plants. It also now touches almost ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/artificial-intelligence-changing-way-cars-are-made-1835913",
+      "originalUrl": "https://www.newsweek.com/artificial-intelligence-changing-way-cars-are-made-1835913",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2296490/siemens-digital-twin.jpg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-02T06:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-02-what-are-job-and-salary-prospects-for-robotics-engineers.md",
+      "title": "What Are Job and Salary Prospects for Robotics Engineers?",
+      "excerpt": "As National Robotics Week 2015 comes to a close, we wanted to look at salary and employment trends for robotics engineers. Although we did find some information about career growth, there's very little specific salary information available. Design News ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/what-are-job-and-salary-prospects-robotics-engineers",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/what-are-job-and-salary-prospects-robotics-engineers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://eu-images.contentstack.com/v3/assets/blt0bbd1b20253587c0/blt7b064349d2481e45/6513fde3a9a5e737328f805b/EPFL-Robot-Arm_new.jpg?disable=upscale&width=1200&height=630&fit=crop",
+          "width": 500,
+          "height": 263,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-02T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-02-ais-challenge-and-opportunity-for-news.md",
+      "title": "AI’s challenge and opportunity for news",
+      "excerpt": "New developments this week suggest that AI is not only a threat but potentially also an opportunity for the local news industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/opinion/ais-challenge-and-opportunity-for-news/",
+      "originalUrl": "https://www.seattletimes.com/opinion/ais-challenge-and-opportunity-for-news/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-01T23:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-02-thailand-taking-steps-to-regulate-ai-artificial-intelligence.md",
+      "title": "Thailand Taking Steps to Regulate (AI) Artificial Intelligence",
+      "excerpt": "Artificial Intelligence (AI) has rapidly transformed the way we live, work, and interact with technology. In Thailand, just like in many other parts of the world, AI is becoming increasingly integrated into daily life.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chiangraitimes.com/tech/thailand-taking-steps-to-regulate-ai-artificial-intelligence/",
+      "originalUrl": "https://www.chiangraitimes.com/tech/thailand-taking-steps-to-regulate-ai-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chiangraitimes.com/wp-content/uploads/2020/06/Artificial-Intelligence-and-Using-Robots-in-Educational-Institutions.jpg",
+          "width": 850,
+          "height": 567,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-01T21:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chiangrai Times",
+        "domain": "chiangraitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-02-processor-made-for-ai-speeds-up-genome-assembly.md",
+      "title": "Processor made for AI speeds up genome assembly",
+      "excerpt": "A hardware accelerator initially developed for artificial intelligence operations successfully speeds up the alignment of protein and DNA molecules, making the process up to 10 times faster than state-of-the-art methods.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-11-processor-ai-genome.html",
+      "originalUrl": "https://phys.org/news/2023-11-processor-ai-genome.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/processor-made-for-ai.jpg",
+          "width": 1700,
+          "height": 916,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-11-processor-ai-genome.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-11-processor-ai-genome.amp",
+      "publishedDateTime": "2023-11-01T20:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-02-singapores-river-cleaning-robots-are-producing-80-less-carbon-emissions-than-the-human-powered-boats-they-replaced.md",
+      "title": "Singapore's river-cleaning robots are producing 80% less carbon emissions than the human-powered boats they replaced",
+      "excerpt": "River-cleaning robots using 5G technology keep garbage out of the Singapore River without polluting as much as gas-powered boats.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/singapore-river-cleaning-robots-5g-2023-11",
+      "originalUrl": "https://www.businessinsider.com/singapore-river-cleaning-robots-5g-2023-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/653c08410487ff031cb0df4b?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/singapore-river-cleaning-robots-5g-2023-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/singapore-river-cleaning-robots-5g-2023-11?amp",
+      "publishedDateTime": "2023-11-01T17:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-02-image-of-palestinian-carrying-children-out-of-rubble-shows-signs-of-ai.md",
+      "title": "Image of Palestinian carrying children out of rubble shows signs of AI",
+      "excerpt": "But experts say the image shows signs of artificial intelligence -- and it was not published by ... \"Today's best photo 27-October -2023,\" says the text of a Facebook post shared 82,000 times. It includes an image that appears to show a man helping five ...",
+      "sourceUrl": null,
+      "webUrl": "https://factcheck.afp.com/doc.afp.com.33ZJ8WU",
+      "originalUrl": "https://factcheck.afp.com/doc.afp.com.33ZJ8WU",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://factcheck.afp.com/sites/default/files/styles/twitter_card/public/medias/factchecking/g2/2023-11/bb4d2efcaa2399dc0ab18f2834045ff6.jpeg?itok=dtpnQB1r",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-01T17:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "factcheck.afp",
+        "domain": "afp.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-02-snowflake-accelerates-how-users-build-next-generation-apps-and-machine-learning-models-in-the-data-cloud.md",
+      "title": "Snowflake Accelerates How Users Build Next Generation Apps and Machine Learning Models in the Data Cloud",
+      "excerpt": "Snowflake Notebooks unlock data exploration and machine learning development for SQL and Python users ... With Snowpark Container Services (public preview soon in select AWS regions), developers can run any component of their app — from ML training ...",
+      "sourceUrl": null,
+      "webUrl": "https://financialpost.com/pmn/business-wire-news-releases-pmn/snowflake-accelerates-how-users-build-next-generation-apps-and-machine-learning-models-in-the-data-cloud",
+      "originalUrl": "https://financialpost.com/pmn/business-wire-news-releases-pmn/snowflake-accelerates-how-users-build-next-generation-apps-and-machine-learning-models-in-the-data-cloud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2023/11/bw20231101058683_snowflake_snowday23_pr_images_notebooks.jpeg",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-01T17:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Post",
+        "domain": "financialpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-11-01-standard-ai-named-an-idc-innovator-in-computer-vision-for-automated-checkout-and-self-checkout.md",
       "title": "Standard AI Named an “IDC Innovator” in Computer Vision for Automated Checkout and Self-Checkout",
       "excerpt": "SAN FRANCISCO--(BUSINESS WIRE)--Standard AI, world leader in retail AI, today announced that it has been named an “IDC Innovator” in the IDC Innovators: Computer Vision for Automated Checkout ...",
@@ -473,525 +1024,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-shutterstocks-growth-dilemma-declining-ecommerce-business-amid-flourishing-computer-vision-partnerships.md",
-      "title": "Shutterstock’s Growth Dilemma: Declining eCommerce Business Amid Flourishing Computer Vision Partnerships",
-      "excerpt": "In a report released today, Lauren Schenk from Morgan Stanley assigned a Hold rating on Shutterstock (SSTK – Research Report), with a",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/shutterstock-s-growth-dilemma-declining-ecommerce-business-amid-flourishing-computer-vision-partnerships-1032767604",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/shutterstock-s-growth-dilemma-declining-ecommerce-business-amid-flourishing-computer-vision-partnerships-1032767604",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T10:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-amd-slides-as-muted-outlook-clouds-q3-earnings-beat-with-ai-chip-launch-in-focus.md",
-      "title": "AMD slides as muted outlook clouds Q3 earnings beat with AI chip launch in focus",
-      "excerpt": "AMD said its new data center chips, expected to challenge Nvidia's AI market dominance, could net more than $2 billion in sales next year.",
-      "sourceUrl": null,
-      "webUrl": "https://tylerpaper.com/arena/thestreet/amd-slides-as-muted-outlook-clouds-q3-earnings-beat-with-ai-chip-launch-in-focus/article_673c8021-8498-5e88-996d-b1bc14455829.html",
-      "originalUrl": "https://tylerpaper.com/arena/thestreet/amd-slides-as-muted-outlook-clouds-q3-earnings-beat-with-ai-chip-launch-in-focus/article_673c8021-8498-5e88-996d-b1bc14455829.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/tylerpaper.com/content/tncms/assets/v3/editorial/f/65/f65b182f-761c-5ba9-b6b1-0753f1aebe6e/6542315bc1c9a.image.jpg?resize=1024%2C576",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://tylerpaper.com/arena/thestreet/amd-slides-as-muted-outlook-clouds-q3-earnings-beat-with-ai-chip-launch-in-focus/article_673c8021-8498-5e88-996d-b1bc14455829.amp.html",
-      "cdnAmpWebUrl": "https://tylerpaper-com.cdn.ampproject.org/c/s/tylerpaper.com/arena/thestreet/amd-slides-as-muted-outlook-clouds-q3-earnings-beat-with-ai-chip-launch-in-focus/article_673c8021-8498-5e88-996d-b1bc14455829.amp.html",
-      "publishedDateTime": "2023-11-01T10:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tyler Morning Telegraph",
-        "domain": "tylerpaper.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-exploring-the-best-artificial-intelligence-books-a-comprehensive-guide.md",
-      "title": "Exploring the Best Artificial Intelligence Books: A Comprehensive Guide",
-      "excerpt": "Artificial intelligence, the buzzword of the 21st century, has permeated every aspect of our lives. From virtual assistants to self-driving cars, AI is revolutionizing industries and reshaping our future.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/exploring-the-best-artificial-intelligence-books-a-comprehensive-guide/",
-      "originalUrl": "https://techbullion.com/exploring-the-best-artificial-intelligence-books-a-comprehensive-guide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2023/11/AI-Book-Shelf.jpg",
-          "width": 1000,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T10:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos",
-        "Machine Learning",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-deepmind-claims-its-ai-predicts-proteins-with-atomic-accuracy.md",
-      "title": "DeepMind claims its AI predicts proteins with ‘atomic accuracy’",
-      "excerpt": "DeepMind claims its latest version of AlphaFold can predict various molecules with extreme accuracy, which could advance drug discoveries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.siliconrepublic.com/machines/deepmind-alphafold-ai-protein-prediction-drug-discovery",
-      "originalUrl": "https://www.siliconrepublic.com/machines/deepmind-alphafold-ai-protein-prediction-drug-discovery",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T10:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconRepublic",
-        "domain": "siliconrepublic.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-artificial-intelligence-threatens-millions-of-jobs-but-its-a-technology-where-latinos-are-not-far-behind.md",
-      "title": "Artificial Intelligence Threatens Millions Of Jobs, But It's A Technology Where Latinos Are Not Far Behind",
-      "excerpt": "A recent AI study commissioned by Intuit QuickBooks found that 86% of 1,000 Hispanic and Latino respondents use artificial intelligence in their work, and 38% say they use it daily.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latintimes.com/artificial-intelligence-threatens-millions-jobs-its-technology-where-latinos-are-not-far-behind-548253",
-      "originalUrl": "https://www.latintimes.com/artificial-intelligence-threatens-millions-jobs-its-technology-where-latinos-are-not-far-behind-548253",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T10:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Latin Times",
-        "domain": "latintimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-5-best-ai-stocks-to-invest-in-for-2023.md",
-      "title": "5 Best AI Stocks to Invest In for 2023",
-      "excerpt": "Artificial intelligence (AI), including its offshoots ... including its autonomous vehicle start-up Waymo. It also owns DeepMind, a deep learning platform that can diagnose eye diseases, predict ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/",
-      "originalUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.foolcdn.com/media/dubs/images/investing-in-ai-stocks.width-600.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T10:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-nanowire-brain-network-learns-and-remembers-on-the-fly.md",
-      "title": "Nanowire 'brain' network learns and remembers 'on the fly'",
-      "excerpt": "For the first time, a physical neural network has successfully been shown to learn and remember \"on the fly,\" in a way inspired by and similar to how the brain's neurons work.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-10-nanowire-brain-network-fly.html",
-      "originalUrl": "https://phys.org/news/2023-10-nanowire-brain-network-fly.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/nanowire-brain-network.jpg",
-          "width": 2560,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-10-nanowire-brain-network-fly.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-10-nanowire-brain-network-fly.amp",
-      "publishedDateTime": "2023-11-01T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-red-hat-launches-red-hat-ansible-lightspeed-with-ibm-watsonx-code-assistant-for-ai-driven-enterprise-it-automation.md",
-      "title": "Red Hat Launches Red Hat Ansible Lightspeed with IBM watsonx Code Assistant for AI-Driven Enterprise IT Automation",
-      "excerpt": "Now generally available, purpose-built AI service delivers a trusted Ansible advisor to help extend and scale automation content across teams with greater efficiency, accuracy and trust According ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/red-hat-launches-red-hat-ansible-lightspeed-with-ibm-watsonx-code-assistant-for-ai",
-      "originalUrl": "https://www.nasdaq.com/press-release/red-hat-launches-red-hat-ansible-lightspeed-with-ibm-watsonx-code-assistant-for-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T09:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-nvidia-collaborates-with-microsoft-to-accelerate-enterprise-ready-nvidia-blog.md",
-      "title": "NVIDIA Collaborates With Microsoft to Accelerate Enterprise-Ready … – NVIDIA Blog",
-      "excerpt": "NVIDIA today announced that it is integrating its NVIDIA AI Enterprise software into Microsoft’s Azure Machine Learning to help",
-      "sourceUrl": null,
-      "webUrl": "https://www.inferse.com/776943/nvidia-collaborates-with-microsoft-to-accelerate-enterprise-ready-nvidia-blog/",
-      "originalUrl": "https://www.inferse.com/776943/nvidia-collaborates-with-microsoft-to-accelerate-enterprise-ready-nvidia-blog/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T05:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inferse",
-        "domain": "inferse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-netnut-enters-the-fintech-market-with-multiple-new-customers.md",
-      "title": "NetNut Enters the Fintech Market with Multiple New Customers",
-      "excerpt": "The fintech market leveragestechnologies such as AI (artificial intelligence), RPA (robotic process automation), and big data to enhance financial services and activities TEL AVIV, Israel, Oct. 31, 2023 (GLOBE NEWSWIRE) -- Alarum Technologies Ltd. (Nasdaq ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/netnut-enters-the-fintech-market-with-multiple-new-customers-1032758906",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/netnut-enters-the-fintech-market-with-multiple-new-customers-1032758906",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T05:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-meeting-looks-at-music-intelligence.md",
-      "title": "Meeting looks at music intelligence",
-      "excerpt": "Li Xiaobing, executive director of the concert and head of the music AI and information technology department of the Central Conservatory of Music. [Photo provided to China Daily] The Second Summit on Music Intelligence was launched in Beijing on Saturday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202311/01/WS6541c793a31090682a5ebdca_1.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202311/01/WS6541c793a31090682a5ebdca_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img2.chinadaily.com.cn/images/202311/01/6541c793a3109068caff34a4.jpeg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T03:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "中国日报网",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-aws-offers-more-flexible-access-to-nvidia-gpus-for-short-duration-ai-workloads.md",
-      "title": "AWS offers more flexible access to Nvidia GPUs for short-duration AI workloads",
-      "excerpt": "Amazon Elastic Compute Cloud (EC2) Capacity Blocks for ML is generally available now, and allows customers to reserve access to “hundreds” of Nvidia Corp.’s most advanced H100 Tensor Core GPUs colocated in Amazon EC2 UltraClusters that are geared towards high-performance machine learning workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/10/31/aws-offers-flexible-access-nvidia-gpus-short-duration-ai-workloads/",
-      "originalUrl": "https://siliconangle.com/2023/10/31/aws-offers-flexible-access-nvidia-gpus-short-duration-ai-workloads/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T02:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-azure-our-ai-platform-stories-microsoft.md",
-      "title": "Azure: Our AI Platform – Stories – Microsoft",
-      "excerpt": "Microsoft News Center AI is helping organizations solve some of today’s toughest challenges, and businesses are seeking a partner to",
-      "sourceUrl": null,
-      "webUrl": "https://www.inferse.com/776594/azure-our-ai-platform-stories-microsoft/",
-      "originalUrl": "https://www.inferse.com/776594/azure-our-ai-platform-stories-microsoft/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T01:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inferse",
-        "domain": "inferse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

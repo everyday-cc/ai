@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Black Banx Path to Fintech Eminence: Innovation and Success"
-    excerpt: "How Black Banx CEO Michael Gastauer Climbed the Fintech LadderNew York, United States - December 8, 2023 — Estimated to be valued over US$1.5"
-    publishedDateTime: 2023-12-08T16:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/black-banx-path-to-fintech-eminence-innovation-and-success-1032886175"
+  - title: "Sustainability fintech World Wide Generation expands its G17Eco platform to the MENA region"
+    excerpt: "Announces Major Strategic Partnerships together with Etisalat (e&) at COP28 to Launch The World’s Largest Sustainability Data, Finance and Solutions Exchange"
+    publishedDateTime: 2023-12-13T11:16:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/sustainability-fintech-world-wide-generation-expands-its-g17eco-platform-to-the-mena-region-vdwrrnan"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/sustainability-fintech-world-wide-generation-expands-its-g17eco-platform-to-the-mena-region-vdwrrnan?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/sustainability-fintech-world-wide-generation-expands-its-g17eco-platform-to-the-mena-region-vdwrrnan?amp=1"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
+      name: Zawya
+      domain: zawya.com
+    quality: 49
     images:
-      - url: "https://storage.googleapis.com/mmstudio-images/gallery/ifVQDvKEZZMuxhtiOyhcAAz1TmH2/1701365493345-0.jpeg"
-        width: 660
-        height: 330
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NjgzMmY2YjAtMjU1MS00/0/manjulalee-founderandceoofworldwidegeneration-jpg.jpeg?f=3%3A2"
+        width: 900
+        height: 600
         isCached: true
 
 secured: "yB9Pmcg0k0UGVLCXqxbBxsvFIOGuMU9QTaMG6JGYze293fAmrXkxr59QY9If+hsnVhl/SwHlcMLzP72+9swv4ghDq+DexPHYZdFjyg4opjV8gfW0sSN/9aMSncB/QtlGNCd5sTNRDvr/DZ9il2gj7JcxZrVXil7LvvIZS6eiLGbbH0NGZND5aOefrxUR52fCML/1Xgn2JgyOdey9N40MX7A8ckXrIeh1pvsYe9RrnIodQOxn0p1rk2/J4WVL2vNvUJgwBo63HuTw2RqRZnRylBMID7At0IPnYG8DC++ElvchnJgiROImX8fjXg4MqfhSEexB+njDTD0wIsCiOnafTRsCQbVYDr6nptSy8N6p4WhVrrm/qwPLcjiqLKGWfgF2Kl/Ogb0Z5GHceAQh4PXFsIMiQqbUqxiy5jOgqikJT+fzqcKFn7js7SlITVgpyX68bl9Q5gPzz8UL9RnbisljcgVQlTxvtwkFLx8OfdLRt7ND5izNnI+ilIAyMwRi0FBX+ZV9nHU5+myklZPvU0P9Zw==;ZhiaCau33iAuAhLg4E1I9w=="

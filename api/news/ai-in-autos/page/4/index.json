@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-11-12-artificial-intelligence-is-not-an-existential-threat-yet.md",
+      "title": "Artificial Intelligence is not an existential threat – yet",
+      "excerpt": "I’m sorry that I didn’t get my article on Artificial Intelligence last week during the ‘AI Safety Summit’ at Bletchley Park, the historic Second World War decoding centre in England. I got distracted by some other stuff that was happening in the Middle East.",
+      "sourceUrl": null,
+      "webUrl": "https://cyprus-mail.com/2023/11/12/artificial-intelligence-is-not-an-existential-threat-yet/",
+      "originalUrl": "https://cyprus-mail.com/2023/11/12/artificial-intelligence-is-not-an-existential-threat-yet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-12T13:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cyprus Mail",
+        "domain": "cyprus-mail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-12-2024-tech-trends-prepare-for-the-next-wave-of-innovation.md",
       "title": "2024 Tech Trends: Prepare for the Next Wave of Innovation",
       "excerpt": "Are you ready to ride the wave of innovation and embrace the future? The year 2024 is just around the corner, and with it comes a tidal wave of exciting new technologies that will reshape our lives as we know them.",
@@ -1349,49 +1383,6 @@
         "AI in Autos",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-11-02-as-gaza-conflict-rages-online-maps-from-chinese-companies-are-missing-israels-name.md",
-      "title": "As Gaza conflict rages, online maps from Chinese companies are missing Israel’s name",
-      "excerpt": "Beijing has clarified that Israel remains marked on official maps issued by Chinese authorities after questions emerged over why the country’s name was not visible on online maps provided by two major Chinese companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/gaza-conflict-rages-online-maps-045613363.html?ref=biztoc.com",
-      "originalUrl": "https://www.aol.com/gaza-conflict-rages-online-maps-045613363.html?ref=biztoc.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.zenfs.com/en/aol_cnn_business_articles_764/7bc99f4354e15e90a476164c321ba960",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-02T07:56:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

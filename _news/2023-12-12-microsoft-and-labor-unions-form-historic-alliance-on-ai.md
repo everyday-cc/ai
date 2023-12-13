@@ -126,6 +126,24 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Microsoft homegrown AI model can run on smartphones, laptops"
+    excerpt: "Google brought its AI model Gemini Nano to the Pixel 8 Pro. Microsoft released Phi-2, a small language model that outperforms Meta Llama 2. Phi-2 requ"
+    publishedDateTime: 2023-12-13T14:24:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-homegrown-ai-model-can-run-on-smartphones-laptops/articleshow/105967667.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 36
+  - title: "Microsoft to double Azure cloud capacity in Germany by early 2024"
+    excerpt: "Microsoft is to double the capacity of its Microsoft Azure cloud data centres in Germany by early 2024 to meet customer demand. It will achieve this by significantly expanding the country’s largest data centre hub,"
+    publishedDateTime: 2023-12-13T14:55:00Z
+    webUrl: "https://www.technologyrecord.com/article/microsoft-to-double-azure-cloud-capacity-in-germany-by-early-2024"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 34
 
 secured: "laFdZjgTN1xVIRlMeXX/XZcwq1sant0NlXmU9Wh+ri3JWIeY1SgTg+2KVhHYXTPxsISvtAoGazrY8cwVAdDi8dgaNq/vvDX55fsLasLd9X7aGS2AsmIUCtKMz4krlpdMENd9YzjTT3g4tp5ItHxs6Ir35Kt4APbesmCyuAv8wvj80/fAzTRYk4NGOjVniGiirqqvdcxJAUT9iZSRDlp5iiU1mGH4UflkhMf1rytBrjyORliWzhrV+8x7FowREmn0kJPdKHd3ViVFiJaKjN4QAgmhR/HpabVvPmOrKfL1C+ncVqrej+uC5jvMTZY19NINIh0HAlhNpGf9tgmvytY4gxYwIaxL3KWEsotp/pGcX50=;QloKEZv5uTY0+v3HUSuuIQ=="
 ---

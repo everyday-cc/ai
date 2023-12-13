@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3711284/meta-releases-open-source-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711284/meta-releases-open-source-tools-for-ai-safety.amp.html"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/12/cfr0z3n_crowds_of_tourists_react_in_shock_and_amazement_as_the__cd64e435-492c-4397-94c0-1d5119160375.png?w=1200&strip=all"
         width: 1200
         height: 672
+        isCached: true
+  - title: "Google Ventures adds partner to back AI, open source startups"
+    excerpt: "Venture capital firm GV, backed by Google parent Alphabet Inc, has hired Michael McBride from software firm GitLab as its latest investment partner to focus on open-source and AI startups, the firm told Reuters."
+    publishedDateTime: 2023-12-13T15:08:00Z
+    webUrl: "https://www.aol.com/google-ventures-adds-partner-back-130843690.html?ref=biztoc.com"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/bbb13e44128dae8d8b5b62788584cc3e"
+        width: 800
+        height: 557
         isCached: true
   - title: "IBM, Meta, and 40 Top Organizations Create the ‘AI Alliance’ to Develop Open Source Technology"
     excerpt: "IBM, Meta, and over 40 companies and organizations are creating the AI Alliance, an industry and academic group dedicated to open-source AI technology. This coalition said in a statement that it will focus on the responsible development of AI technology, including safety and security tools."

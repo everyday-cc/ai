@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "Google Ventures adds partner to back AI, open source startups"
+    excerpt: "Venture capital firm GV, backed by Google parent Alphabet Inc, has hired Michael McBride from software firm GitLab as its latest investment partner to focus on open-source and AI startups, the firm told Reuters."
+    publishedDateTime: 2023-12-13T15:08:00Z
+    webUrl: "https://www.aol.com/google-ventures-adds-partner-back-130843690.html?ref=biztoc.com"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/bbb13e44128dae8d8b5b62788584cc3e"
+        width: 800
+        height: 557
+        isCached: true
   - title: "The messy reality of AI safety"
     excerpt: "THE near-implosion of OpenAI, a world leader in the burgeoning field of artificial intelligence, surfaced a conflict within the organisation and the broader community about the speed with which the technology should continue,"
     publishedDateTime: 2023-12-11T09:26:00Z

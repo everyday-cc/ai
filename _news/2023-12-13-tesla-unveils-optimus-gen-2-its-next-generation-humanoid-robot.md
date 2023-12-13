@@ -7,7 +7,7 @@ originalUrl: "https://electrek.co/2023/12/12/tesla-unveils-optimus-gen-2-next-ge
 webUrl: "https://electrek.co/2023/12/12/tesla-unveils-optimus-gen-2-next-generation-humanoid-robot/"
 type: article
 quality: 86
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     height: 628
     isCached: true
 
-secured: "0a8YNboK/mQXASxTQyn/b+gU7C//NN5uBNwnRd/K8vgMtAMFIGylfThOhGdHkWFk3vCPdtPO1VZ1UAR24MeJAfpqA9TR9TAGWG6o6Ybfwh1fi1dXthH4m5NVQzzSsHOe3XGWQFYptRiy1rgmfcSbJ5YfRvLYq8GwDK0QZnqz4KOt48/1//1wK1bAumz4iAjKV9geXaqOwYUMsH5vY8lynRMgFoqo5wEDdL0yF+CA8hM8vxPLJHbplWbTvuUyaCU2hEWv3Qs5+Ue+FfgAnt+8ddttBOhBqf+5ML9xHgMBojftMDUlN1+GGIih8XsvxknUDxfutPwUX04OQvZSb7vMH6z0YsD3ZELlR1q45dEgoM0=;6GRwKkk5dbrss/3FO+Ue0Q=="
+related:
+  - title: "Elon Musk Shares Video Of Tesla's New Humanoid Robot That Can Dance And Boil Eggs"
+    excerpt: "A video shared by Elon Musk shows significant improvements made to the robot since its prototype was first unveiled at the Tesla AI Day earlier this year ... The company said that it plans to soon start using the robot in its manufacturing operations."
+    publishedDateTime: 2023-12-13T15:54:00Z
+    webUrl: "https://www.ndtv.com/feature/elon-musk-shares-video-of-teslas-new-humanoid-robot-that-can-dance-and-boil-eggs-4668028"
+    ampWebUrl: "https://www.ndtv.com/feature/elon-musk-shares-video-of-teslas-new-humanoid-robot-that-can-dance-and-boil-eggs-4668028/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/feature/elon-musk-shares-video-of-teslas-new-humanoid-robot-that-can-dance-and-boil-eggs-4668028/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 71
+    images:
+      - url: "https://c.ndtvimg.com/2023-12/28ue0i3g_tesla-optimus-robot_625x300_13_December_23.jpg"
+        width: 1200
+        height: 738
+        isCached: true
+
+secured: "9o9tRerliS0ncoE3ws4e2mOTIZOj9We5/wtj9LwkZUNPvQWiy9nmTZnuWDkbJCd1g9GwjuYrMJVM88mWe9VXGAvvqB7CVBPqAFCC66sSDCgjApUZsHzNh+5fiZe6SK3qRS+Q1e55i9M86hBN3IeZ6KrCD12t9xSNncqGuVgeSsA4TRWmxGEnwVvLFDmOO4TmCL7eV4zodrQeqK13vN5+E7bEOKb8KwzUpyplCR1f143Jv0ii7UqG17acnBQcU0JDkXqigdvxdvs0c9BkfSomVkcKkurgF+L+MDqWCu5v+YDS/bnC6qGtHarTsdTq36KEQIujbjs2iWTUbWLA551M7YDPi2/9pfWfJebxafgc2UpoOZonaNzKoQPEAKbrSjKTKFub8vEYBnzSYDqIiWzCPEvM92KeGelPmr3mt66kiz7kazZ7FkB4QFuOqFbZdLOsjq29iiuDGD1/jDbjGZkGgzJaGGWuwgJCzmzaN4vFdf9tNV/RhYJbjaWXSVne0BoFiKlBVNsCyrI5b42vuYL12A==;K4dKFIHqqK4oaTZ4qkBDiQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/12/218043-ai-machine-learning-
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/12/218043-ai-machine-learning-startup-chalk-raises-10-million-in-seed-funding/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Platform Keeps Mining Machinery Working With Deep Learning"
+    excerpt: "An Israeli company has created an AI platform for maintaining mining machinery, anticipating potential breakdowns before they happen"
+    publishedDateTime: 2023-12-13T14:34:00Z
+    webUrl: "https://nocamels.com/2023/12/ai-platform-keeps-mining-machinery-working-with-deep-learning/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 34
   - title: "Medefy Health Raises $10 million Series A Funding to Deliver Real-Time Healthcare Benefits Navigation through Human-Led Support"
     excerpt: "Medefy Health, a mobile-first healthcare benefits navigation platform dedicated to improving the employee health benefits experience through real-time guidance, today announced that it has raised $10 million in Series A funding led by Mercury Fund with participation from Advantage Capital."
     publishedDateTime: 2023-12-11T16:20:00Z

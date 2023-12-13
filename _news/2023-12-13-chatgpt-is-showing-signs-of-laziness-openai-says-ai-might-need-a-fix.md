@@ -120,6 +120,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "OpenAI to pay Axel Springer to use content to train AI models"
+    excerpt: "OpenAI, the generative artificial intelligence startup backed by Microsoft (NASDAQ:MSFT), has agreed to pay publishing company Axel Springer to use the media company's content to train its AI models. The content will be used to create answers in ChatGPT ..."
+    publishedDateTime: 2023-12-13T14:21:00Z
+    webUrl: "https://seekingalpha.com/news/4045950-openai-pay-axel-springer-use-content-train-ai-models"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 17
   - title: "Paris-based Startup and OpenAI Competitor Mistral AI Valued at $2 Billion"
     excerpt: "In a significant development for the European artificial intelligence sector, Paris-based startup Mistral AI has achieved a noteworthy milestone. The company has successfully secured a substantial investment of €450 million,"
     publishedDateTime: 2023-12-09T14:18:00Z

@@ -56,6 +56,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 63
+  - title: "Google Launches Generative Artificial Intelligence Models for Healthcare"
+    excerpt: "Google’s newly introduced MedLM is a suite of foundation models designed for healthcare, with two generative AI tools built on the large language model Med-PaLM 2."
+    publishedDateTime: 2023-12-13T14:01:00Z
+    webUrl: "https://healthitanalytics.com/news/google-launches-generative-artificial-intelligence-models-for-healthcare"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 53
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/Getty_correct_size_chatGPT.png"
+        width: 690
+        height: 400
+        isCached: true
   - title: "Mediverse: Making Healthcare Accessible For All Using Artificial Intelligence"
     excerpt: "In line with this aim, dynamic healthtech startup Mediverse is taking advantage of the ever-evolving healthcare landscape and harnessing the power of Artificial Intelligence (AI) to improve patient care and accessibility. Mediverse's primary vision is to ..."
     publishedDateTime: 2023-12-13T09:46:00Z
@@ -107,16 +121,7 @@ related:
       name: Boise State Public Radio
       domain: boisestatepublicradio.org
     quality: 34
-  - title: "Revolutionizing Healthcare: Exploring the Impact and Future of Large Language Models in Medicine"
-    excerpt: "Explore the transformative impact of Large Language Models like Google's Med-PaLM 2 and EPFL's Meditron in healthcare, examining their applications, challenges, and potential in enhancing patient care"
-    publishedDateTime: 2023-12-08T16:16:00Z
-    webUrl: "https://www.unite.ai/revolutionizing-healthcare-exploring-the-impact-and-future-of-large-language-models-in-medicine/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 8
 
-secured: "ghJHGENc3iVTuyYodq37hbHJshwDFZSTRjg8xjr7h0CZCqkzkxjfsJeJVEQyb3Qc8SLG8aG5DZnyejDnLBrkqhljxDOUqltOg8eJEWD/So214BV8a/OlCqUE29FqEYVH1n3Rt2elrj+rF95N62OtoF8dUQWctbkCK+Mai8KFW6TMnj6upSR4tUwQqINq8S2kXCCDlv9Sf0hnM8eVs1KHKSuEZSMH+yGHH0mBNQbBHfMmfKBW2JlGNVNgVnp2OuYJozGRBUTgIRsWETwaXv//R0pQXyLYYL8adwISS3JuLu7pA3Phbydk+Yqjl6zmMKGXv9VnH7SW0ZYcO0kOMSfl+UfM92JQ4epBEV0Fix4yVvw=;lCrL+IL7+YZj9IOD6qNwhQ=="
+secured: "xJmpNYeHiySMPf1Rn0gB3PZiHrTI4ACazcVzvLwCEoqGoXg274LEVfPov9eES7kNTVuKZspRFXvY4ZnMoNebTQ2U2H5g7QqZ0mBEMsaX0lMxkGUb8pIM2IBayBG2HkckfR99beAteSNZDVJKsNICX0GMa/DbfDqS2OtPGlACWmN9rh69ajusJzTeG0UFngg4YJFqBYp/VUL/fCaI0S89YotoWB3gl7XaX8GTcjBolALWuWtoDGG+ZBoo9h/8FnfXPonXm9X3EoBbFjJE91/tXUF6DItKBoRI2MDjrnxeIyw103MB4VBGu9geVD3HM78ATI1rogOnSIRLoMQa+qBVSzTeLc0VaaejBsJjICTp1AY69kjl8TXEL2NTHlyGfY8vGk/bzLd09Ly3+EAjEg1zaOUOMc5T7gKaQOwDoA8/kTRYJFj9VYms3vfl2CnloSFCZYf+W8wIHDeoJSSaeZlt1SktJZYqAbXw2viMsRNkQkil8GXIy9Per0/NmDUENoj5boKIHRLw8rssHqxH7czwig==;Pj7Id/up2vwynw0d7M5CQA=="
 ---
 

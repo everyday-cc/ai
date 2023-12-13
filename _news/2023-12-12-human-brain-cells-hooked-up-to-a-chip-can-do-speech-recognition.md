@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2023/12/11/1084926/human-brain-cell
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/11/1084926/human-brain-cells-chip-organoid-speech-recognition/amp/"
 type: article
 quality: 91
-heat: 116
+heat: 121
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://www.thesun.co.uk/wp-content/uploads/2023/12/AK_BRAIN_OP.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Scientists Made AI Out Of Living Human Brain Cells That Can Recognize Speech"
+    excerpt: "Scientists have once again voluntarily moved us a step closer to meeting our new robot overlords thanks to some new advances in artificial i"
+    publishedDateTime: 2023-12-13T13:47:00Z
+    webUrl: "https://brobible.com/culture/article/ai-living-human-brain-cells-recognize-speech/"
+    type: article
+    provider:
+      name: BroBible
+      domain: brobible.com
+    quality: 36
+    images:
+      - url: "https://brobible.com/wp-content/uploads/2023/12/illustration-of-artificial-intelligence-and-brain.png"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "PMWSKca9lSYZpdUg7k7biKWsfTizmZLJMmqRFFaY7jpTbs5Wkl466h2WWy8aVgWoxr9aSD5Hv47dbwFuNL1JU5TlJIO87qlCt4KsSoKQpDRMiu9wU0cx71FDMEa3psSRtTCIyjW9L+CuqkIrq6aVe1GNKYUr+cg+o6UTXQ84jVRSTugtId71VzrxP8MtT4mhRyAENMA16r+V0xqU4mAXQBs4B4wCYKe+CPc1ZJ3edMFAYhMOJqVyJwJQZm/JgA+QQ8zCDaUm6rNnSNuCFCgKQ4LnLMptcHd+mj8BRoIBNhs6gbSAdTFMQl23x6gL4Fg9mCIZ94qs73dLvHvybVNjoLbY0Yf9f63ML8sNb2OJWA1OPGd6pNk8X1Bf3h5PFXQBIAqrQkyi72HGzdDefqF1sCEl8spw9qRPuSC5IqMWf09Ky7qb9SkPDWW+Rpxg91m6jJRngfAvLbJpsR3P4OhycEOe0vxjq+tGqi8R+EnlmXkFUH2G1vw9xPQIkK+53QIYhSlCnS/jeu9M8t90u6S0Kg==;twE19KJ4/KitCQgzvoWWbA=="
