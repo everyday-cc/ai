@@ -2,6 +2,102 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-13-patient-prism-unveils-revolutionary-ai-driven-healthcare-platform-with-new-website-launch.md",
+      "title": "Patient Prism Unveils Revolutionary AI-Driven Healthcare Platform with New Website Launch",
+      "excerpt": "A cutting-edge conversational intelligence tool that interprets patient communication with unprecedented depth, offering actionable insights for healthcare providers. Tailored KPIs: Our platform provides specific,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/patient-prism-unveils-revolutionary-ai-driven-healthcare-platform-with-new-website-launch-1032895318",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/patient-prism-unveils-revolutionary-ai-driven-healthcare-platform-with-new-website-launch-1032895318",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/mmstudio-images/gallery/featured/pr-patient-prism-unveil-1702401307.png",
+          "width": 600,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-13T04:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-12-13-india-to-soon-launch-ai-missions-for-agriculture-healthcare-pm-modi-at-gpai-summit-2023.md",
+      "title": "‘India to soon launch AI missions for agriculture, healthcare’: PM Modi at GPAI Summit 2023",
+      "excerpt": "While inaugurating the GPAI or Global Partnership on Artificial Intelligence Summit, 2023, Prime Minister Narendra Modi announced that the government will soon launch AI missions, focussing on healthcare and agriculture,",
+      "sourceUrl": null,
+      "webUrl": "https://www.firstpost.com/tech/india-to-launch-ai-missions-soon-for-agriculture-healthcare-pm-modi-at-gpai-summit-2023-13497832.html",
+      "originalUrl": "https://www.firstpost.com/tech/india-to-launch-ai-missions-soon-for-agriculture-healthcare-pm-modi-at-gpai-summit-2023-13497832.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.firstpost.com/wp-content/uploads/2023/12/Untitled-1-1.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.firstpost.com/tech/india-to-launch-ai-missions-soon-for-agriculture-healthcare-pm-modi-at-gpai-summit-2023-13497832.html/amp",
+      "cdnAmpWebUrl": "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/india-to-launch-ai-missions-soon-for-agriculture-healthcare-pm-modi-at-gpai-summit-2023-13497832.html/amp",
+      "publishedDateTime": "2023-12-13T04:26:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Firstpost",
+        "domain": "firstpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-12-12-artificial-intelligence-is-here-to-stay-considerations-for-pr-professionals.md",
       "title": "Artificial Intelligence Is Here To Stay: Considerations For PR Professionals",
       "excerpt": "Machine learning, or artificial intelligence (AI), is a game changer ... But AI’s uses are much broader—think facial recognition in security systems, medical diagnosis in healthcare, self-driving automobiles and fraud detection in financial institutions.",
@@ -85,49 +181,6 @@
         "name": "moneycontrol.com",
         "domain": "moneycontrol.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-artificial-intelligence-in-healthcare-3-stocks-transforming-the-industry.md",
-      "title": "Artificial Intelligence in Healthcare: 3 Stocks Transforming the Industry",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence is being applied across the healthcare sector to",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-3-stocks-transforming-the-industry-1032889408",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-3-stocks-transforming-the-industry-1032889408",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-11T13:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -1231,58 +1284,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-27-how-your-dog-or-cat-could-help-speed-up-your-health-tests.md",
-      "title": "How Your Dog or Cat Could Help Speed Up Your Health Tests",
-      "excerpt": "Researchers are using results from your pets’ tests for things like hookworms and other parasites to train artificial intelligence tools that not only speed up Fido’s results, but are ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/health/healthcare/pet-health-data-artificial-intelligence-2d1b08d5",
-      "originalUrl": "https://www.wsj.com/health/healthcare/pet-health-data-artificial-intelligence-2d1b08d5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-888890/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-27T14:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

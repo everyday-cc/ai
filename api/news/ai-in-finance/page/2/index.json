@@ -2,50 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-11-18-accurately-assessing-liquidity-with-explainable-machine-learning-models.md",
-      "title": "Accurately assessing liquidity with explainable machine learning models",
-      "excerpt": "Bloomberg is set to release further empirical metrics, at the end of this year, to bolster its liquidity models’ explainability.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/professional/blog/leveraging-machine-learning-to-bolster-liquidity-models/",
-      "originalUrl": "https://www.bloomberg.com/professional/blog/leveraging-machine-learning-to-bolster-liquidity-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-17T18:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_news/2023-11-16-north-america-machine-learning-market-size-growth-status-emerging-technology-key-players-and-forecast-till-2032.md",
       "title": "North America Machine Learning Market Size, Growth Status, Emerging Technology, Key Players And Forecast Till 2032",
       "excerpt": "Report Ocean published a recovery-based report for  North America Machine LearningMarket  that provides crucial details on company opportuniti",
@@ -1305,6 +1261,41 @@
       "topics": [
         "AI in Finance",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-25-veracode-reveals-automation-and-training-are-key-drivers-of-software-security-for-financial-services.md",
+      "title": "Veracode Reveals Automation and Training Are Key Drivers of Software Security for Financial Services",
+      "excerpt": "The Power of AI and Machine Learning The State of Software Security report also analyzed language preference by vertical and found, at 51 percent, Java is almost a de facto standard within the Financial Services sector. Veracode Fix, an AI-powered ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-veracode-reveals-automation-training-key-drivers-software-security-/2023/10/25/9904994.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-veracode-reveals-automation-training-key-drivers-software-security-/2023/10/25/9904994.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-25T13:22:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Security"
       ]
     }
   ],

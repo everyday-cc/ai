@@ -2,6 +2,324 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-12-12-atlanta-local-gov-leaders-tapped-for-ai-ethics-initiative.md",
+      "title": "Atlanta Local Gov Leaders Tapped for AI Ethics Initiative",
+      "excerpt": "Atlanta nonprofit, activist and educational leaders will be part of a new ethics council on artificial intelligence co-chaired by Sam Altman, CEO of OpenAI, the company behind ChatGPT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/artificial-intelligence/atlanta-local-gov-leaders-tapped-for-ai-ethics-initiative",
+      "originalUrl": "https://www.govtech.com/artificial-intelligence/atlanta-local-gov-leaders-tapped-for-ai-ethics-initiative",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/7145fd7/2147483647/strip/true/crop/940x457+0+91/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F3a%2F22%2F6a1ba91c0cab40a7c7c963fa06a1%2Fshutterstock-584819980.jpg",
+          "width": 1440,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-12T15:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-12-how-machine-learning-is-reshaping-industries.md",
+      "title": "How Machine Learning is Reshaping Industries",
+      "excerpt": "In the era of digital transformation, machine learning (ML) has emerged as the driving force behind a revolutionary shift in industries worldwide. From healthcare to finance, manufacturing to marketing,",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesnownews.com/education/how-machine-learning-is-reshaping-industries-article-105939900",
+      "originalUrl": "https://www.timesnownews.com/education/how-machine-learning-is-reshaping-industries-article-105939900",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tnn.in/thumb/msid-105939904,thumbsize-372248,width-1280,height-720,resizemode-75/105939904.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.timesnownews.com/education/how-machine-learning-is-reshaping-industries-article-105939900/amp",
+      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/education/how-machine-learning-is-reshaping-industries-article-105939900/amp",
+      "publishedDateTime": "2023-12-12T14:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "timesnownews",
+        "domain": "timesnownews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-12-12-thoughts-on-consent-and-privacy-in-the-age-of-ai.md",
+      "title": "Thoughts On Consent And Privacy In The Age Of AI",
+      "excerpt": "As a crucial aspect of responsible AI and ethics in AI development and deployment, contestability ensures that individuals, organizations and regulatory bodies can scrutinize AI systems and hold them accountable for their behavior. Balancing innovation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/thoughts-on-consent-and-privacy-in-the-age-of-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/thoughts-on-consent-and-privacy-in-the-age-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/617ab75c1928bf93235ece8a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/thoughts-on-consent-and-privacy-in-the-age-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/12/thoughts-on-consent-and-privacy-in-the-age-of-ai/amp/",
+      "publishedDateTime": "2023-12-12T13:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-12-more-in-store-with-ibm-storage-virtualize.md",
+      "title": "More in store with IBM Storage Virtualize",
+      "excerpt": "The value of a centralized and consistent management platform for all storage is all the more relevant today.\nThe post More in store with IBM Storage Virtualize appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/more-in-store-with-ibm-storage-virtualize/",
+      "originalUrl": "https://www.ibm.com/blog/more-in-store-with-ibm-storage-virtualize/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-12T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-12-promote-resilience-and-responsible-emissions-management-with-the-ibm-maximo-application-suite.md",
+      "title": "Promote resilience and responsible emissions management with the IBM Maximo Application Suite",
+      "excerpt": "Optimization can help you predict and prevent issues, reduce emissions, ensure compliance and create a safer and healthier work environment.\nThe post Promote resilience and responsible emissions management with the IBM Maximo Application Suite appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/promote-resilience-and-emissions-management-for-asset-management-operations-with-maximo-application-suite-mas/",
+      "originalUrl": "https://www.ibm.com/blog/promote-resilience-and-emissions-management-for-asset-management-operations-with-maximo-application-suite-mas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-12T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-12-three-trends-shaping-the-future-of-cloud-migration.md",
+      "title": "Three Trends Shaping The Future Of Cloud Migration",
+      "excerpt": "Chetan Mathur is CEO of Next Pathway, the Automated Cloud Migration company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/three-trends-shaping-the-future-of-cloud-migration/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/three-trends-shaping-the-future-of-cloud-migration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6553ad0f467501899dcb06a5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/three-trends-shaping-the-future-of-cloud-migration/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/12/three-trends-shaping-the-future-of-cloud-migration/amp/",
+      "publishedDateTime": "2023-12-12T11:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-12-future-ready-chros-the-ai-revolution-in-banking-hr.md",
+      "title": "Future-ready CHROs: the AI revolution in banking HR",
+      "excerpt": "The banking sector is experiencing a paradigm shift, with Chief Human Resources Officers (CHROs) at the centre of the change. Traditional recruitment strategies are giving way to",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/partnercontent/workday/future-ready-chros-the-ai-revolution-in-banking-hr.html",
+      "originalUrl": "https://www.ft.com/partnercontent/workday/future-ready-chros-the-ai-revolution-in-banking-hr.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ft.com/partnercontent/workday/img/hero2.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-12T11:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-12-hr-has-a-central-role-in-ais-impact-on-smes.md",
       "title": "HR Has A Central Role In AI's Impact On SMEs",
       "excerpt": "HR teams at small and medium-sized enterprises are well positioned to ensure AI technology is implemented successfully.",
@@ -195,50 +513,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-accenture-to-work-with-union-bank-of-india-to-build-new-ai-and-machine-learning-models.md",
-      "title": "Accenture To Work with Union Bank of India To Build New AI and Machine Learning Models",
-      "excerpt": "Accenture will work with Union Bank of India to build new AI and machine learning models that can help generate actionable insights for improved busin",
-      "sourceUrl": null,
-      "webUrl": "https://www.indianweb2.com/2023/12/accenture-to-work-with-union-bank-of.html",
-      "originalUrl": "https://www.indianweb2.com/2023/12/accenture-to-work-with-union-bank-of.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVgXjk2IBSptAxO-BzY3gxzDItOMiYkt9jovv-UC78ztQh-tVo4EkKI-nyXRmd1FDyVq2HCbz3JFA8B5gNICIqE8PMuRdYKJuXUm9Fd5Mm1M7viygOEm8688zZLaUFBkCie2RxSMEoNy_7K-Pw1lQ3aIc7NNRc4nMybDhh8iG1A-OXpy_ksr0YtFR2NW4/s16000/accenture-union-bank.png",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-12T08:13:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "indianweb2.com",
-        "domain": "indianweb2.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     },
     {
@@ -597,7 +871,7 @@
       "originalUrl": "https://technode.com/2023/12/12/horizon-robotics-invests-in-didis-self-driving-truck-unit/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -922,284 +1196,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-ibm-assures-ai-powered-cobol-translator-in-watsonx-will-not-replace-developers.md",
-      "title": "IBM assures AI-powered Cobol translator in Watsonx will not replace developers",
-      "excerpt": "According to IBM's Z Software VP, Skyla Loomis, Watsonx is a \"developer assistant tool\" that uses AI but can't perform every task independently. The generative AI",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/101157-ai-based-cobol-translator-watsonx-not-replace-developers.html",
-      "originalUrl": "https://www.techspot.com/news/101157-ai-based-cobol-translator-watsonx-not-replace-developers.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2023/12/2023-12-11-image-17.jpg",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-11T18:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-fortinet-brings-ai-help-to-enterprise-security-teams-manage-threats.md",
-      "title": "Fortinet brings AI help to enterprise security teams manage threats",
-      "excerpt": "Most recently Fortinet added two high-speed, next generation firewalls designed to protect data center assets that feature support for the vendor's AI-Powered Security Services, which blend AI and machine-learning technologies to make customers aware of cyber threats and act on protecting resources much more quickly, Fortinet stated.",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/1255899/fortinet-brings-ai-help-to-enterprise-security-teams.html",
-      "originalUrl": "https://www.networkworld.com/article/1255899/fortinet-brings-ai-help-to-enterprise-security-teams.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.networkworld.com/wp-content/uploads/2023/12/iStock-1415511562-1.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/1255899/fortinet-brings-ai-help-to-enterprise-security-teams.html/amp/",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1255899/fortinet-brings-ai-help-to-enterprise-security-teams.html/amp/",
-      "publishedDateTime": "2023-12-11T16:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-human-brain-cells-hooked-up-to-a-chip-can-do-speech-recognition.md",
-      "title": "Human brain cells hooked up to a chip can do speech recognition",
-      "excerpt": "Brain organoids, clumps of human brain cells grown in a dish, can be hooked up to an electronic chip and carry out simple computational tasks, a new study shows. Feng Guo and his",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/12/11/1084926/human-brain-cells-chip-organoid-speech-recognition/",
-      "originalUrl": "https://www.technologyreview.com/2023/12/11/1084926/human-brain-cells-chip-organoid-speech-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/12/organoid-compute2.jpg?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/12/11/1084926/human-brain-cells-chip-organoid-speech-recognition/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/11/1084926/human-brain-cells-chip-organoid-speech-recognition/amp/",
-      "publishedDateTime": "2023-12-11T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-a-venture-capitalists-perspective-on-robotics.md",
-      "title": "A venture capitalist’s perspective on robotics",
-      "excerpt": "Founders should be aware the era of exiting a business based on little more than “promising technology” is over — you must eventually build a real business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/venture-capitalist-perspective-on-robotics/",
-      "originalUrl": "https://www.therobotreport.com/venture-capitalist-perspective-on-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/12/robot-trends-AdobeStock.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-11T15:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-5-ways-companies-can-promote-more-sustainable-ai.md",
-      "title": "5 Ways Companies Can Promote More Sustainable AI",
-      "excerpt": "Artificial intelligence (AI) is powering one of the biggest transformations in history, but powering AI is vast amounts of energy— an estimated 85.4 terawatt-hours of electricity annually by 2027, or more than most small countries use in a single year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/zendesk/2023/12/11/5-ways-companies-can-promote-more-sustainable-ai/",
-      "originalUrl": "https://www.forbes.com/sites/zendesk/2023/12/11/5-ways-companies-can-promote-more-sustainable-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65736bb1f35531799fbd70ae/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/zendesk/2023/12/11/5-ways-companies-can-promote-more-sustainable-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zendesk/2023/12/11/5-ways-companies-can-promote-more-sustainable-ai/amp/",
-      "publishedDateTime": "2023-12-11T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-2024-fintech-highlights-include-ai-personalization-embedded-finance-marqeta-experts.md",
-      "title": "2024 Fintech Highlights Include AI, Personalization, Embedded Finance : Marqeta Experts",
-      "excerpt": "Marqeta executives predict that artificial intelligence (AI), the evolution of credit cards, and the increasing demand for customer choice will be important",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2023/12/217808-2024-fintech-highlights-include-ai-personalization-embedded-finance-marqeta-experts/",
-      "originalUrl": "https://www.crowdfundinsider.com/2023/12/217808-2024-fintech-highlights-include-ai-personalization-embedded-finance-marqeta-experts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2023/12/Spotlight-Highlight-Perform-Skate-1024x768.jpeg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2023/12/217808-2024-fintech-highlights-include-ai-personalization-embedded-finance-marqeta-experts/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/12/217808-2024-fintech-highlights-include-ai-personalization-embedded-finance-marqeta-experts/amp/",
-      "publishedDateTime": "2023-12-11T14:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

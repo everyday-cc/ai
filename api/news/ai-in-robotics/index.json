@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-13-tesla-unveils-optimus-gen-2-its-next-generation-humanoid-robot.md",
+      "title": "Tesla unveils Optimus Gen 2: its next generation humanoid robot",
+      "excerpt": "Tesla has unveiled “Optimus Gen 2”, a new generation of its humanoid robot that should be able to take over repetitive tasks from humans. Optimus, also known as Tesla Bot, has not been taken seriously by many outside of the more hardcore Tesla fans, and for good reason.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2023/12/12/tesla-unveils-optimus-gen-2-next-generation-humanoid-robot/",
+      "originalUrl": "https://electrek.co/2023/12/12/tesla-unveils-optimus-gen-2-next-generation-humanoid-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/12/Tesla-Optimus-Gen-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-13T03:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-12-13-google-announces-520k-grant-for-ai-robotics-education-at-virginia-middle-schools.md",
       "title": "Google announces $520K grant for AI, robotics education at Virginia middle schools",
       "excerpt": "HERNDON, Va. — Google is investing more than half a million dollars in Virginia middle schoolers. Google announced a $520,000 grant to expand access to robotics and artificial intelligence education programs across middle schools in the Commonwealth on Monday.",
@@ -106,7 +159,7 @@
       "originalUrl": "https://technode.com/2023/12/12/horizon-robotics-invests-in-didis-self-driving-truck-unit/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -764,6 +817,40 @@
       ]
     },
     {
+      "path": "_news/2023-12-05-weed-zapping-startup-carbon-robotics-tops-off-series-c-round.md",
+      "title": "Weed-zapping startup Carbon Robotics tops off Series C round",
+      "excerpt": "The Seattle-based startup, which makes a robot that uses lasers to kill weeds, first announced its Series C round in April.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/seattle/news/2023/12/04/carbon-robotics-series-c-addition-funding-weeding.html",
+      "originalUrl": "https://www.bizjournals.com/seattle/news/2023/12/04/carbon-robotics-series-c-addition-funding-weeding.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-05T03:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-05-artificial-intelligence-makes-gripping-more-intuitive.md",
       "title": "Artificial intelligence makes gripping more intuitive",
       "excerpt": "a professor of rehabilitation and assistive robotics at TUM. Now, Prof. Piazza’s research team has shown that artificial intelligence can enable patients to control advanced hand prostheses more ...",
@@ -1160,101 +1247,6 @@
       "provider": {
         "name": "Hackaday",
         "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-30-robotics-stocks-bot-is-mans-best-friend.md",
-      "title": "Robotics Stocks: Bot is Man’s Best Friend",
-      "excerpt": "From the first weaving loom to today’s AI-powered surgical robots, modern human history evolves around ... permitted automation (not to be confused with mere automatization), i.e., computerized control of previously human-led tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/robotics-stocks-bot-is-man-s-best-friend-1032864748",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/robotics-stocks-bot-is-man-s-best-friend-1032864748",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.tipranks.com/wp-content/uploads/2023/11/Screenshot-2023-11-29-183623-1024x512.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-30T07:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-30-how-does-wnij-use-artificial-intelligence-in-the-newsroom.md",
-      "title": "How does WNIJ use artificial intelligence in the newsroom?",
-      "excerpt": "No, robots do not write our stories at WNIJ. We don't use fake bylines either. But we do use some applications in our newsroom that help our reporters work more efficiently while making sure our stories are discoverable on the web.",
-      "sourceUrl": null,
-      "webUrl": "https://www.northernpublicradio.org/wnij-news/2023-11-29/how-does-wnij-use-artificial-intelligence-in-the-newsroom",
-      "originalUrl": "https://www.northernpublicradio.org/wnij-news/2023-11-29/how-does-wnij-use-artificial-intelligence-in-the-newsroom",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://npr.brightspotcdn.com/dims4/default/b52be6e/2147483647/strip/true/crop/1280x672+0+91/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd0%2F24%2F56c628bc467fab254d29f87a9a7e%2Fnote-3047435-1280.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-29T19:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Northern Public Radio",
-        "domain": "northernpublicradio.org",
         "images": null,
         "publishers": null,
         "authors": null

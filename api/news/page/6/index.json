@@ -2,6 +2,222 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-12-06-aira-features-cpu-powered-face-recognition-to-address-market-challenges.md",
+      "title": "AIRA features CPU-powered face recognition to address market challenges",
+      "excerpt": "The AI revolution is reshaping the world, impacting every industry. AI being rapidly put to use has spurred surging demand for critical components. In particular, GPU being in constant shortage has many supply chain ramifications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitimes.com/news/a20231206PR200.html&chid=9",
+      "originalUrl": "https://www.digitimes.com/news/a20231206PR200.html&chid=9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.digitimes.com/newsshow/20231206pr200_files/1_b.jpg",
+          "width": 640,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T03:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-6-robotics-trends-from-irex-2023.md",
+      "title": "6 robotics trends from iREX 2023",
+      "excerpt": "REX featured 654 exhibitors, making it the largest version of the show since its inception. Here are six robotics trends from the event.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/6-robotics-trends-irex-2023/",
+      "originalUrl": "https://www.therobotreport.com/6-robotics-trends-irex-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/12/ur30-cobot-irex-recap.jpg",
+          "width": 770,
+          "height": 513,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T02:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-problem-solving-shines-at-svvsds-inaugural-day-of-ai-event-in-longmont.md",
+      "title": "Problem-solving shines at SVVSD’s inaugural ‘Day of AI’ event in Longmont",
+      "excerpt": "The St. Vrain Valley School District Innovation Center of brought the community together on Saturday to show what artificial intelligence is capable of during the district’s first “Day of AI”",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailycamera.com/2023/12/05/problem-solving-shines-at-svvsds-inaugural-day-of-ai-event-in-longmont/",
+      "originalUrl": "https://www.dailycamera.com/2023/12/05/problem-solving-shines-at-svvsds-inaugural-day-of-ai-event-in-longmont/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dailycamera.com/wp-content/uploads/2023/12/DCC-L-AIDAY-01.jpg?w=1024&h=768",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.dailycamera.com/2023/12/05/problem-solving-shines-at-svvsds-inaugural-day-of-ai-event-in-longmont/amp/",
+      "cdnAmpWebUrl": "https://www-dailycamera-com.cdn.ampproject.org/c/s/www.dailycamera.com/2023/12/05/problem-solving-shines-at-svvsds-inaugural-day-of-ai-event-in-longmont/amp/",
+      "publishedDateTime": "2023-12-06T01:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Camera",
+        "domain": "dailycamera.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-artificial-intelligence-makes-gripping-more-intuitive.md",
+      "title": "Artificial intelligence makes gripping more intuitive",
+      "excerpt": "“These are movements that the patient has to learn during rehabilitation,” says Cristina Piazza, a professor of rehabilitation and assistive robotics at TUM. Now, Prof. Piazza’s research team has shown that artificial intelligence can enable patients ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nanowerk.com/news2/robotics/newsid=64193.php",
+      "originalUrl": "https://www.nanowerk.com/news2/robotics/newsid=64193.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nanowerk.com/news2/robotics/id64193_1.jpg",
+          "width": 1458,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nanowerk",
+        "domain": "nanowerk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-google-gemini-upgrade-means-bard-ai-outperforms-free-version-of-chatgpt.md",
+      "title": "Google: Gemini Upgrade Means Bard AI Outperforms Free Version of ChatGPT",
+      "excerpt": "Google is going after OpenAI's chatbot with a new 'Gemini Pro' model. A more powerful 'Gemini Ultra' model will arrive early next year through a new 'Bard Advanced' tier. I've been with PCMag ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/google-gemini-upgrade-means-bard-ai-outperforms-free-version-of-chatgpt",
+      "originalUrl": "https://www.pcmag.com/news/google-gemini-upgrade-means-bard-ai-outperforms-free-version-of-chatgpt",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-06-meta-and-microsoft-say-they-will-buy-amds-new-ai-chip-as-an-alternative-to-nvidia.md",
       "title": "Meta and Microsoft say they will buy AMD's new AI chip as an alternative to Nvidia",
       "excerpt": "If AMD's latest high-end chip, MI300X, is good enough and inexpensive enough for the technology companies and cloud service providers building and serving AI models when it starts shipping early next year, it could lower costs for developing AI models.",
@@ -879,212 +1095,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-ai-innovators-3-stocks-shaping-the-tech-landscape.md",
-      "title": "AI Innovators: 3 Stocks Shaping the Tech Landscape",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence has helped companies offer better products and",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-innovators-3-stocks-shaping-the-tech-landscape-1032875196",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-innovators-3-stocks-shaping-the-tech-landscape-1032875196",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T15:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-best-amazon-deals-in-december-2023-todays-best-sales.md",
-      "title": "Best Amazon deals in December 2023: Today's best sales",
-      "excerpt": "Amazon deals can be found any day of the week. Whether you're shopping for a new MacBook or our favorite pair of headphones, Amazon is renown for offering sitewide sales every day. With Black ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tomsguide.com/news/best-amazon-deals",
-      "originalUrl": "https://www.tomsguide.com/news/best-amazon-deals",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/HHXzc9LDV6bEXvHVEVqbFY-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T15:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tom's Guide",
-        "domain": "tomsguide.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-elon-musks-ai-startup-xai-files-to-raise-1-billion-in-fresh-capital.md",
-      "title": "Elon Musk's AI startup — X.AI — files to raise $1 billion in fresh capital",
-      "excerpt": "X.AI, an artificial intelligence startup founded by Elon Musk, has filed with the SEC to raise up to $1 billion in an equity offering",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcwashington.com/news/national-international/elon-musks-ai-startup-x-ai-files-to-raise-1-billion-in-fresh-capital/3487103/",
-      "originalUrl": "https://www.nbcwashington.com/news/national-international/elon-musks-ai-startup-x-ai-files-to-raise-1-billion-in-fresh-capital/3487103/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nbcwashington.com/2023/12/107341579-1701376973392-gettyimages-1821107484-dsc_5130_j4s4ocdu.jpeg?quality=85&strip=all&resize=1200%2C675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcwashington.com/news/business/money-report/elon-musks-ai-startup-x-ai-files-to-raise-1-billion-in-fresh-capital/3487103/?amp=1",
-      "cdnAmpWebUrl": "https://www-nbcwashington-com.cdn.ampproject.org/c/s/www.nbcwashington.com/news/business/money-report/elon-musks-ai-startup-x-ai-files-to-raise-1-billion-in-fresh-capital/3487103/?amp=1",
-      "publishedDateTime": "2023-12-05T15:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC Washington",
-        "domain": "nbcwashington.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-gecko-robotics-picks-up-100-million-investment-with-backing-from-thomas-tulls-5-billion-tech-fund.md",
-      "title": "Gecko Robotics picks up $100 million investment with backing from Thomas Tull's $5 billion tech fund",
-      "excerpt": "A local robotics startup has added a $100 million investment to its coffers thanks in part to the financial support from a $5 billion technology fund run by a Pittsburgh billionaire.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/pittsburgh/inno/stories/fundings/2023/12/05/thomas-tull-gecko-robotics-100-million-funding.html",
-      "originalUrl": "https://www.bizjournals.com/pittsburgh/inno/stories/fundings/2023/12/05/thomas-tull-gecko-robotics-100-million-funding.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T14:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-microsoft-and-liverpool-hospital-use-generative-ai-to-break-down-large-volumes-of-cardiology-related-literature.md",
-      "title": "Microsoft and Liverpool Hospital use generative AI to break down large volumes of cardiology-related literature",
-      "excerpt": "Microsoft and Liverpool Hospital, one of the largest tertiary referral and teaching hospitals in Sydney, Australia, have partnered to develop a generative artificial intelligence solution to assist cardiologists working with large volumes of cardiology-related literature.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyrecord.com/article/microsoft-and-liverpool-hospital-use-generative-ai-to-break-down-large-volumes-of-cardiology-related-literature",
-      "originalUrl": "https://www.technologyrecord.com/article/microsoft-and-liverpool-hospital-use-generative-ai-to-break-down-large-volumes-of-cardiology-related-literature",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4747/Liverpool-hospital-web.jpg",
-          "width": 975,
-          "height": 548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T14:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologyrecord.com",
-        "domain": "technologyrecord.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

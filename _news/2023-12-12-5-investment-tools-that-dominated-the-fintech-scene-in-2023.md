@@ -87,6 +87,20 @@ related:
         width: 1024
         height: 567
         isCached: true
+  - title: "Finastra Leaders Predict 2024 Fintech Trends Amidst Global Challenges"
+    excerpt: "Finastra has shared its executive insights on the anticipated trends, challenges and opportunities for the fintech landscape in 2024."
+    publishedDateTime: 2023-12-13T04:53:00Z
+    webUrl: "https://fintechnews.sg/82080/fintech/finastra-leaders-predict-2024-fintech-trends-amidst-global-challenges/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 24
+    images:
+      - url: "https://fintechnews.sg/wp-content/uploads/2023/12/Finastra-Leaders-Predict-2024-Fintech-Trends-Amidst-Global-Challenges.jpg"
+        width: 1024
+        height: 567
+        isCached: true
 
 secured: "avX1LQ3tEPQIGjkIHyhhIzo7um9S9PsAHPE7xuLP3qxBjv5wq1SaUP+mVc+5TBP2FM8x6PpmyZbwu9sdlP0Fb6KlItKwIhQFBAf8FwP1FDw3AL0PJsFACTs+sYDRuh485B+VDgKdWQIukDEadO5qge+gDS2DBGgNkyA52fJvARGZYdzFDU2q2OuYFTWAgINJlkBs3Wlot3NtgCJ7UcaxQokXv5u276Zqfu6Vp1VUcBrTC517n4hy2psZW0yRyGw3oFbgPBbvnxM91Xt9HvzMb4+vRf2Vbz7HWANFimKrl5ezkPYEsJ47cQwgsN+IJVUYV8UkrYDcMfkedlBxpIsi5DkkSFFCHrTA/l24/hECXOp9EZz/x+s/soIzKCqmBJXcxDdybaIfnh9W/ak2WSgBUdNHVbfuZibT5UnEHR3tQsySguESg/H8qvcxb488wrvWSu0FNX3Sa1qDJyKwAMHyZ1XrVVbbULIEkTcDMJhWAteH9/eb4swoEotJZD5doiMH2TLyz+/ar98vFTR+1Ze4MA==;7AQP76rpuyLEWct+GFknsQ=="
 ---

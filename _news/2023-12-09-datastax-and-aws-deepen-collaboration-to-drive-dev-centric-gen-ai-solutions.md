@@ -41,15 +41,6 @@ related:
         width: 640
         height: 359
         isCached: true
-  - title: "Darena Solutions, Leidos and SLI Compliance Announce Strategic Initiative to Launch Healthcare Apps Verification Program with Focus on AI"
-    excerpt: "\"As AI becomes increasingly prevalent in healthcare, there's a dire need for a system that ensures these solutions not only integrate seamlessly but are also trustworthy and clinically beneficial,\" commented Pawan Jindal, MD, Founder and CEO of Darena Solutions. \"This collaboration marks a significant step in that direction.\""
-    publishedDateTime: 2023-12-12T17:43:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-darena-solutions-leidos-sli-compliance-announce-strategic-initiative-/2023/12/12/9932375.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 1
 
 secured: "sCNsGXTiGc/W+D7ekbp8vF9GLdEaznvu/V1wbj1LuMXPqZcMz+T8OBmr0e073HbopMYOmqUTXFXLTVkOiNZ0ydIARh0Z9SoMzCgUxEpDpTwiq4lHHTWFIaN8zXNRm3f0lQW00/rUwdNEPzAZg18EaDQV+JQw5mg5O/u0eCRC8EYUs8D8lonoq5X4CQzmu69PF+aoJg4m7QO7lOkHHmsV9YaZU76sOmf8Zr/cgXTPvxDpkGm6LsqOgex1tGxEHsGWZbzN8Qnxa0/deCe7NVVZgft4JF/BOsK78A8z0Kxv9IuGjGgc0hjpPVN+YhseqauwNWyN+n8VbnUHeQw5ulJbEDmqqtsusZvB9z3mFPfJII+xUzAsb51KybwTU9TaQ4kK5x9qPLlHGXI2d3zdw/2ydVOMhwL6+awH9ot1cRnfiPkrmNufN8eGkkzaMnO7BaGivL3hUDiZVZIX73XvVM/2QvI/RxIUKEmSRrxfWlNxPBPewkfe/NrGfDQlek39DwDbCnBsNDYQ7SdVsAY/I998ow==;AYv8eSSwZ4/hRU4LcFnnDw=="
 ---

@@ -41,24 +41,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "E.U. Agrees on Landmark Artificial Intelligence Rules"
-    excerpt: "The agreement over the A.I. Act solidifies one of the world’s first comprehensive attempts to limit the use of artificial intelligence."
-    publishedDateTime: 2023-12-08T23:21:00Z
-    webUrl: "https://www.nytimes.com/2023/12/08/technology/eu-ai-act-regulation.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 49
-  - title: "E.U. Reaches Deal on World’s First Comprehensive AI Rules"
-    excerpt: "European Union negotiators have clinched a deal on the world's first comprehensive artificial intelligence rules"
-    publishedDateTime: 2023-12-11T11:14:00Z
-    webUrl: "https://time.com/6344628/eu-ai-rules-deal/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 47
 
 secured: "c4Ppi0hXflKKgMhIHZrGrk8ZQWHyHO1Oyok2iQtTUIGFs9AaUnoRub5/E66xxVNAeAPG6FpsO6kDj9mQwTI2JgxmQ/PtfF/9ecusS86hm7oOFhDXd0Q0IOvOtJrC/nf8WcAklMUNHplu/YZhPBTIMoqgn/AkMdQjTLguzW9DEn2/KQT4cLDB1sCQyc1KDzBKG4FX0yIqeW6sDGyEDtZ5z1I9AKg7a6Q1SW1jGWau/3FJQDjpOs61y6gjvm+SWLqC+OvUDq1VTMYga9aiYmpTMhyk30rHGiVyNlSKO2yLzNbNM4hjFhF82j39ycCGZq86gf6wyVjc4EDzBxDTujXGIQ4no/MYdfOU4peZe8cNgHo=;3y4052z0YkgHxFmGVf3rxQ=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://statetechmagazine.com/article/2023/12/tech-trends-microsoft-
 cdnAmpWebUrl: "https://statetechmagazine-com.cdn.ampproject.org/c/s/statetechmagazine.com/article/2023/12/tech-trends-microsoft-introduce-ai-many-government-workers?amp"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 134
+published: true
 
 provider:
   name: Statetechmagazine
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft exec hints at new LLMs beyond OpenAI’s"
-    excerpt: "In a wide ranging interview about enterprise readiness for generative AI, Eric Boyd asserts that Microsoft plans to stay competitive on the choice front. He said the company's generative AI applications and the LLMs that power them,"
-    publishedDateTime: 2023-12-08T04:05:00Z
-    webUrl: "https://venturebeat.com/ai/microsoft-exec-hints-at-new-llms-beyond-openais/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/12/otAR_BG_master02a.png?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft, AFL-CIO Reach Deal on AI, Labor Neutrality"
     excerpt: "Microsoft has a major partnership with ChatGPT maker OpenAI and committed to pumping more than $10 billion into the startup. Surging popularity of so-called generative AI, which uses data to create new content like ChatGPT's human-sounding prose, could remake human society and make obsolete many jobs."
     publishedDateTime: 2023-12-11T14:03:00Z
@@ -59,17 +45,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 64
-  - title: "Microsoft’s Answer to OpenAI Inquiry: Doesn't Own Stake; Link not same as Google and DeepMind"
-    excerpt: "With global regulators examining Microsoft Corp.'s $13 billion investment in OpenAI, the software giant has a simple argument it hopes will resonate with antitrust officials: It doesn't own a traditional stake in the buzzy startup so can't be said to control it."
-    publishedDateTime: 2023-12-09T18:27:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/microsofts-answer-to-openai-inquiry-doesnt-own-stake-link-not-same-as-google-and-deepmind-71702102228046.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/microsofts-answer-to-openai-inquiry-doesnt-own-stake-link-not-same-as-google-and-deepmind-71702102228046.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/microsofts-answer-to-openai-inquiry-doesnt-own-stake-link-not-same-as-google-and-deepmind-71702102228046.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 60
   - title: "Microsoft releases Phi-2, a small language model AI that outperforms Llama 2, Mistral 7B"
     excerpt: "Microsoft researchers also noted in their blog post on the Phi-2 release that it outperforms Google's brand new Gemini Nano 2 model."
     publishedDateTime: 2023-12-12T18:01:00Z
@@ -107,19 +82,19 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Microsoft's Orca 2 LLM Outperforms Models That Are 10x Larger"
-    excerpt: "Microsoft Research released its Orca 2 LLM, a fine-tuned version of Llama 2 that performs as well as or better than models that contain 10x the number of parameters. Orca 2 uses a synthetic training dataset and a new technique called Prompt Erasure to achieve this performance."
-    publishedDateTime: 2023-12-12T14:13:00Z
-    webUrl: "https://www.infoq.com/news/2023/12/microsoft-orca-2-llm/"
+  - title: "Microsoft Believes Indian Tech Firms Will Play A Key Role In AI Development, Adoption Globally"
+    excerpt: "The world's largest vendor of computer software, Microsoft is working with India's IT and ITeS companies in multiple markets to facilitate AI implementation."
+    publishedDateTime: 2023-12-12T06:46:00Z
+    webUrl: "https://www.ibtimes.co.uk/microsoft-believes-indian-tech-firms-will-play-key-role-ai-development-adoption-globally-1722131"
     type: article
     provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 41
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 42
     images:
-      - url: "https://res.infoq.com/news/2023/12/microsoft-orca-2-llm/en/headerimage/generatedHeaderImage-1701529873890.jpg"
-        width: 1200
-        height: 630
+      - url: "https://d.ibtimes.co.uk/en/full/1717954/microsoft.jpg"
+        width: 2048
+        height: 1365
         isCached: true
 
 secured: "UFPgX4IKrwRK0GnuvMnyzbPUnFT5tbt01E3UHvviqOA3dOjUd9e7awN7K2nQXNf0ne4K8R5IQi5YjeVgz+k+ht+4nTvTzpSOHPwi+5P6h1qGsu0DomRE5Xw4vEJfTDZbusLyoI5UyQoF10qy5w8hjhGUKvIkubMR+kGfD+L0Xck0iALw67mBuY9Hg/pVnTb5sT1BDiA3HASVCPLsdYOqVKf/H3uAIlgjwouPxH+U+gAnHIV7FiyDVFYcDdSfmc14qr0i01JhK4hB2RghgeW0aa6YpoHzJPjYX0dWjWmBEuTJMBJJYWhJjRxXeHQ449See+D8BYqVWuPOSX6howwgYoPBg/kIuwWYCzQPSGPOosJb07lEyT3XAxldtlKcr/EwYMG5vqh2JDTB9ti5A1VS6AHD2uKbq94snFUWhPWTiJvWx3XWYh+JzcNMveOOLvgYkNxEOgIqsLFpDhRGHLZBTReTayQZcobflTBfkeS5EJ+PlSpupOAUkmj7vQXCVKHknDUgxtx6GRArOOu7aWBmuw==;R94ZP51LY8o3zDSN8cAtJg=="

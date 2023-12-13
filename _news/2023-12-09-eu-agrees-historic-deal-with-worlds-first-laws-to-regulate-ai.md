@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/world/2023/dec/08/eu-agrees-historic-dea
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2023/dec/08/eu-agrees-historic-deal-with-worlds-first-laws-to-regulate-ai"
 type: article
 quality: 57
-heat: 87
-published: true
+heat: 67
+published: false
 
 provider:
   name: The Guardian
@@ -30,24 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "E.U. Agrees on Landmark Artificial Intelligence Rules"
-    excerpt: "The agreement over the A.I. Act solidifies one of the world’s first comprehensive attempts to limit the use of artificial intelligence."
-    publishedDateTime: 2023-12-08T23:21:00Z
-    webUrl: "https://www.nytimes.com/2023/12/08/technology/eu-ai-act-regulation.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 49
-  - title: "E.U. Reaches Deal on World’s First Comprehensive AI Rules"
-    excerpt: "European Union negotiators have clinched a deal on the world's first comprehensive artificial intelligence rules"
-    publishedDateTime: 2023-12-11T11:14:00Z
-    webUrl: "https://time.com/6344628/eu-ai-rules-deal/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 47
   - title: "EU agrees draft laws on artificial intelligence"
     excerpt: "The 27 member-nations of the European Union have agreed draft laws to oversee artificial intelligence, or AI, within the bloc. The countries will vote on the provisional legislation — known as the European AI Act — early next year and the rules could be in place in 2025."
     publishedDateTime: 2023-12-11T01:39:00Z

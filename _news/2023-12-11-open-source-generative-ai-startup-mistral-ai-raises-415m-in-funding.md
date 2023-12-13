@@ -18,70 +18,45 @@ topics:
   - AI
 
 related:
-  - title: "French AI Start-up Mistral AI Raises 385 Mn Euros"
-    excerpt: "French artificial intelligence start-up Mistral AI announced Sunday it had raised 385 million euros ($414 million), becoming one of Europe's two AI leaders. Founded in May by industry heavyweights, Mistral had already raised 105 million euros in June."
-    publishedDateTime: 2023-12-10T00:00:00Z
-    webUrl: "https://www.barrons.com/news/french-ai-start-up-mistral-ai-raises-385-mn-euros-7cc2d989"
-    ampWebUrl: "https://www.barrons.com/amp/news/french-ai-start-up-mistral-ai-raises-385-mn-euros-7cc2d989"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/french-ai-start-up-mistral-ai-raises-385-mn-euros-7cc2d989"
+  - title: "AI, Machine Learning Startup Chalk Raises $10 Million in Seed Funding"
+    excerpt: "Artificial intelligence (AI) and machine learning (ML) startup Chalk has raised $10 million in a Seed round, according to a note from the firm. The funding"
+    publishedDateTime: 2023-12-13T01:41:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/12/218043-ai-machine-learning-startup-chalk-raises-10-million-in-seed-funding/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/12/218043-ai-machine-learning-startup-chalk-raises-10-million-in-seed-funding/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/12/218043-ai-machine-learning-startup-chalk-raises-10-million-in-seed-funding/amp/"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 57
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 74
     images:
-      - url: "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg"
-        width: 1320
-        height: 742
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2023/12/Chalk-co-founders-Elliot-Marx-left-Andrew-Moreland-center-and-Marc-Freed-Finnegan-right.jpg"
+        width: 1000
+        height: 768
         isCached: true
-  - title: "French AI start-up Mistral AI raises €385m"
-    excerpt: "French artificial intelligence start-up Mistral AI announced Sunday it had raised €385 million ($414 million), becoming one of Europe's two AI leaders. Founded in May by industry heavyweights, Mistral had already raised €105 million in June. Among ..."
-    publishedDateTime: 2023-12-11T12:35:00Z
-    webUrl: "https://www.dhakatribune.com/business/333592/french-ai-start-up-mistral-ai-raises-€385m"
-    ampWebUrl: "https://www.dhakatribune.com/amp/business/333592/french-ai-start-up-mistral-ai-raises-%E2%82%AC385m"
-    cdnAmpWebUrl: "https://www-dhakatribune-com.cdn.ampproject.org/c/s/www.dhakatribune.com/amp/business/333592/french-ai-start-up-mistral-ai-raises-%E2%82%AC385m"
+  - title: "Chalk Secures $10M Seed Funding to Power Machine Learning and AI"
+    excerpt: "Chalk, the data platform for machine learning, announced today that it has raised $10 million in seed funding led by General Catalyst, Unusual Venture"
+    publishedDateTime: 2023-12-12T19:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231212959060/en/Chalk-Secures-10M-Seed-Funding-to-Power-Machine-Learning-and-AI/"
     type: article
     provider:
-      name: Dhaka Tribune
-      domain: dhakatribune.com
-    quality: 57
+      name: Business Wire
+      domain: businesswire.com
+    quality: 36
+  - title: "Medefy Health Raises $10 million Series A Funding to Deliver Real-Time Healthcare Benefits Navigation through Human-Led Support"
+    excerpt: "Medefy Health, a mobile-first healthcare benefits navigation platform dedicated to improving the employee health benefits experience through real-time guidance, today announced that it has raised $10 million in Series A funding led by Mercury Fund with participation from Advantage Capital."
+    publishedDateTime: 2023-12-11T16:20:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/12/11/9931588.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 26
     images:
-      - url: "https://ecdn.dhakatribune.net/contents/cache/images/600x315x1/uploads/media/2023/12/11/000_33ZM9P9-b2692f2c39865b65deaec2e3e2362ef2.jpg?jadewits_media_id=10902"
-        width: 600
-        height: 315
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
         isCached: true
-  - title: "Mistral AI raises 385 mln euros in second round in seven months"
-    excerpt: "French artificial intelligence company Mistral AI said on Monday it had raised 385 million euros ($414.41 million) in its second funding round in seven months, led by investors such as Andreessen-Horowitz and LightSpeed Ventures."
-    publishedDateTime: 2023-12-11T07:27:00Z
-    webUrl: "https://www.reuters.com/technology/mistral-ai-raises-385-mln-euros-second-round-seven-months-2023-12-11/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
-  - title: "French AI start-up Mistral AI raises 385 mn euros"
-    excerpt: "French artificial intelligence start-up Mistral AI announced Sunday it had raised 385 million euros ($414 million), becoming one of Europe's two AI leaders."
-    publishedDateTime: 2023-12-11T09:02:00Z
-    webUrl: "https://techxplore.com/news/2023-12-french-ai-start-up-mistral-mn.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 37
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2016/57ea6ea8bc753.jpg"
-        width: 1500
-        height: 1060
-        isCached: true
-  - title: "French startup Mistral AI closes $415M funding round"
-    excerpt: "The company’s CEO said the goal is to create a “European champion” of generative AI on a global scale, “based on an open, responsible and decentralized approach to technology.”"
-    publishedDateTime: 2023-12-11T13:08:00Z
-    webUrl: "https://cointelegraph.com/news/french-startup-mistral-ai-closes-415m-funding-round"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 17
 
 secured: "yekCQB4Mx4zuYGYTrJCxpOZr1XGKzEztuAHXemr2zA8FPXrq1MlSpKsXZv0clAUIL9xLQgpJgkZ3YsWT7/ght6YCJ371xBmWxD6wn1SUTxkbpDsQqGnXaen/dqk8N39cMg3w4YfKzmEk4Ls5rbhso8xxb14nn2QbhggHwq6j/n38NzVwLRDq2bD0pKZZDEml3F8+usEaklsoCHS0OvSLj//ExeFbQ9aoQh0ONrT4ZtCYfmYGomFIMqzfNM7KHFO+NgXwHvFxrgSVEhYZfIhWq4jLdJhLHE1K/QZFF6/egtbvH3U1mBwlXeitiDrN6A6YpPzT1yhkAvQ3Tx/uKojrutO5K+1ZBpUh7ZZpwEaKfDk+vTN3ip/fCYAJjjbOwu+ddrEu4qaWc7v7vSf39v7m7zLQ+FVx2xyclMBoG7KzZ0+l4fCX0RsQnCWhlFc8hWWeuiSWsOVlUZUpXnrY43AHkCWPQntw9LXceLq9a0nJmSVaoCe18Uly86TZicjWyDrB3omOQZGetsG40I+nqvCG+g==;jZCwaEzC59wTxGCN5mV/eg=="
 ---

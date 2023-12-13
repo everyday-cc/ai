@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-13-ai-generated-news-anchors-show-off-superhuman-abilities.md",
+      "title": "AI-generated news anchors show off superhuman abilities",
+      "excerpt": "There's a new global news network launching in 2024 which completely ditches humans for AI-generated newsreaders – and they're showing off some superhuman capabilities that make it very clear: the days of the human news presenter are numbered.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/home-entertainment/ai-generated-news-anchors/",
+      "originalUrl": "https://newatlas.com/home-entertainment/ai-generated-news-anchors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/e4d9007/2147483647/strip/true/crop/1060x707+0+17/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F1f%2F54%2F3377995f4ac19af24de6a4f90e95%2Fscreenshot-2023-12-13-at-1.33.59%20pm.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/home-entertainment/ai-generated-news-anchors/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/home-entertainment/ai-generated-news-anchors/?amp=true",
+      "publishedDateTime": "2023-12-13T02:47:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-13-this-mind-reading-cap-can-translate-thoughts-to-text-thanks-to-ai.md",
       "title": "This Mind-Reading Cap Can Translate Thoughts to Text Thanks to AI",
       "excerpt": "The system could give voice to people who can no longer communicate or be used to direct machines, like walking robots or robotic arms, with thoughts alone.",
@@ -1259,49 +1311,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-30-ui-researchers-working-to-make-speech-recognition-technology-more-accessible.md",
-      "title": "UI researchers working to make speech-recognition technology more accessible",
-      "excerpt": "The Speech Accessibility Project is getting as many people with Parkinson’s, Down syndrome, cerebral palsy or ALS or who have suffered a speech disability due to a stroke to record",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-gazette.com/news/local/university-illinois/ui-researchers-working-to-make-speech-recognition-technology-more-accessible/article_f334c713-0d8b-5ecf-a2fd-4e3d3b077888.html",
-      "originalUrl": "https://www.news-gazette.com/news/local/university-illinois/ui-researchers-working-to-make-speech-recognition-technology-more-accessible/article_f334c713-0d8b-5ecf-a2fd-4e3d3b077888.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/news-gazette.com/content/tncms/assets/v3/editorial/2/a5/2a5d3a43-7696-5e31-9da8-77d6a87a4477/6568084b618e3.image.jpg?resize=500%2C500",
-          "width": 500,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-30T10:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The News-Gazette",
-        "domain": "news-gazette.com",
         "images": null,
         "publishers": null,
         "authors": null

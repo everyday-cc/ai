@@ -44,6 +44,15 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 54
+  - title: "The Genesis of Fintech Giant Black Banx"
+    excerpt: "The Genesis of Fintech Giant Black BanxNew York, United States - December 13, 2023 — Despite being a relatively young industry, there are a"
+    publishedDateTime: 2023-12-13T03:31:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-genesis-of-fintech-giant-black-banx-1032895268"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
   - title: "6 Fintech Resources in Asia to Read in Preparation for 2024"
     excerpt: "Look ahead to the future of financial innovation in Asia, with this guide to some of the must-read fintech resources to gear up for 2024."
     publishedDateTime: 2023-12-11T07:41:00Z

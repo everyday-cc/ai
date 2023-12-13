@@ -2,6 +2,231 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-12-07-amd-forecasts-45-billion-ai-chip-market-this-year-2-billion-in-sales-in-2024.md",
+      "title": "AMD forecasts $45 billion AI chip market this year, $2 billion in sales in 2024",
+      "excerpt": "AMD estimated there was a $45 billion market for its data center artificial intelligence processors this year as it launched a new generation of AI chips on Wednesday. The total addressable market forecast is up from AMD's $30 billion estimate in June.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/amd-forecasts-45-billion-ai-200143104.html",
+      "originalUrl": "https://www.aol.com/amd-forecasts-45-billion-ai-200143104.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_reuters_29/2c1b86275edd349055c4264b7f9e6400",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.aol.com/amphtml/amd-forecasts-45-billion-ai-200143104.html",
+      "cdnAmpWebUrl": "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/amd-forecasts-45-billion-ai-200143104.html",
+      "publishedDateTime": "2023-12-07T01:12:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-12-07-meta-debuts-new-generative-ai-features-for-consumers.md",
+      "title": "Meta debuts new generative AI features for consumers",
+      "excerpt": "Meta AI is not the only chatbot the social media giant offers to consumers. Earlier this year, the company introduced more than two dozen other chatbots that each generate text in a different style. Several of those services are also receiving upgrades as part of today’s update.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/12/06/meta-debuts-new-generative-ai-features-consumers/",
+      "originalUrl": "https://siliconangle.com/2023/12/06/meta-debuts-new-generative-ai-features-consumers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/Meta-AI.png",
+          "width": 900,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T22:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-07-ais-future-could-be-open-source-or-closed.md",
+      "title": "AI’s future could be ‘open-source’ or closed",
+      "excerpt": "Tech leaders have been vocal proponents of the need to regulate artificial intelligence, but they’re also lobbying hard to make sure the new rules work in their favor. That’s not to say they all want the same thing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thealpenanews.com/news/national-news-apwire/2023/12/ais-future-could-be-open-source-or-closed/",
+      "originalUrl": "https://www.thealpenanews.com/news/national-news-apwire/2023/12/ais-future-could-be-open-source-or-closed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://d14e0irai0gcaa.cloudfront.net/www.thealpenanews.com/images/2016/11/15143024/fblike.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T22:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Alpena News",
+        "domain": "thealpenanews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-07-supermicro-extends-ai-and-gpu-rack-scale-solutions-with-support-for-amd-instinct-mi300-series-accelerators.md",
+      "title": "Supermicro Extends AI and GPU Rack Scale Solutions with Support for AMD Instinct MI300 Series Accelerators",
+      "excerpt": "New 8-GPU Systems Powered by AMD Instinct™ MI300X Accelerators Are Now Available with Breakthrough AI and HPC Performance for Large Scale AI Training and LLM Deployments SAN JOSE, Calif.,",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20231206sf86950/supermicro-extends-ai-and-gpu-rack-scale-solutions-with-support-for-amd-instinct-mi300-series-accelerators",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20231206sf86950/supermicro-extends-ai-and-gpu-rack-scale-solutions-with-support-for-amd-instinct-mi300-series-accelerators",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2294523/SuperMicro_Servers_with_AMD_MI300_Series_Accelerators.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T20:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-07-is-machine-learning-random-and-why-should-you-care.md",
+      "title": "Is Machine Learning Random? And Why Should You Care?",
+      "excerpt": "Let's start with a common problem that people have, especially when they are just starting out with machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/12/06/is-machine-learning-random-and-why-should-you-care/",
+      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/12/06/is-machine-learning-random-and-why-should-you-care/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6570cd8f70a0ecad420089d5/0x0.jpg?format=jpg&crop=1601,900,x0,y183,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/12/06/is-machine-learning-random-and-why-should-you-care/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/12/06/is-machine-learning-random-and-why-should-you-care/amp/",
+      "publishedDateTime": "2023-12-06T19:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-07-google-updates-bard-chatbot-with-gemini-ai-as-it-chases-chatgpt.md",
       "title": "Google Updates Bard Chatbot With ‘Gemini’ A.I. as It Chases ChatGPT",
       "excerpt": "After more than eight months of research and development, Google has unveiled its most powerful A.I. so far. But only parts of it are widely available.",
@@ -941,222 +1166,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-aira-features-cpu-powered-face-recognition-to-address-market-challenges.md",
-      "title": "AIRA features CPU-powered face recognition to address market challenges",
-      "excerpt": "The AI revolution is reshaping the world, impacting every industry. AI being rapidly put to use has spurred surging demand for critical components. In particular, GPU being in constant shortage has many supply chain ramifications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitimes.com/news/a20231206PR200.html&chid=9",
-      "originalUrl": "https://www.digitimes.com/news/a20231206PR200.html&chid=9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.digitimes.com/newsshow/20231206pr200_files/1_b.jpg",
-          "width": 640,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-06T03:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-6-robotics-trends-from-irex-2023.md",
-      "title": "6 robotics trends from iREX 2023",
-      "excerpt": "REX featured 654 exhibitors, making it the largest version of the show since its inception. Here are six robotics trends from the event.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/6-robotics-trends-irex-2023/",
-      "originalUrl": "https://www.therobotreport.com/6-robotics-trends-irex-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/12/ur30-cobot-irex-recap.jpg",
-          "width": 770,
-          "height": 513,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-06T02:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-problem-solving-shines-at-svvsds-inaugural-day-of-ai-event-in-longmont.md",
-      "title": "Problem-solving shines at SVVSD’s inaugural ‘Day of AI’ event in Longmont",
-      "excerpt": "The St. Vrain Valley School District Innovation Center of brought the community together on Saturday to show what artificial intelligence is capable of during the district’s first “Day of AI”",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailycamera.com/2023/12/05/problem-solving-shines-at-svvsds-inaugural-day-of-ai-event-in-longmont/",
-      "originalUrl": "https://www.dailycamera.com/2023/12/05/problem-solving-shines-at-svvsds-inaugural-day-of-ai-event-in-longmont/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dailycamera.com/wp-content/uploads/2023/12/DCC-L-AIDAY-01.jpg?w=1024&h=768",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.dailycamera.com/2023/12/05/problem-solving-shines-at-svvsds-inaugural-day-of-ai-event-in-longmont/amp/",
-      "cdnAmpWebUrl": "https://www-dailycamera-com.cdn.ampproject.org/c/s/www.dailycamera.com/2023/12/05/problem-solving-shines-at-svvsds-inaugural-day-of-ai-event-in-longmont/amp/",
-      "publishedDateTime": "2023-12-06T01:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Camera",
-        "domain": "dailycamera.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-artificial-intelligence-makes-gripping-more-intuitive.md",
-      "title": "Artificial intelligence makes gripping more intuitive",
-      "excerpt": "“These are movements that the patient has to learn during rehabilitation,” says Cristina Piazza, a professor of rehabilitation and assistive robotics at TUM. Now, Prof. Piazza’s research team has shown that artificial intelligence can enable patients ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nanowerk.com/news2/robotics/newsid=64193.php",
-      "originalUrl": "https://www.nanowerk.com/news2/robotics/newsid=64193.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nanowerk.com/news2/robotics/id64193_1.jpg",
-          "width": 1458,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-06T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nanowerk",
-        "domain": "nanowerk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-google-gemini-upgrade-means-bard-ai-outperforms-free-version-of-chatgpt.md",
-      "title": "Google: Gemini Upgrade Means Bard AI Outperforms Free Version of ChatGPT",
-      "excerpt": "Google is going after OpenAI's chatbot with a new 'Gemini Pro' model. A more powerful 'Gemini Ultra' model will arrive early next year through a new 'Bard Advanced' tier. I've been with PCMag ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/google-gemini-upgrade-means-bard-ai-outperforms-free-version-of-chatgpt",
-      "originalUrl": "https://www.pcmag.com/news/google-gemini-upgrade-means-bard-ai-outperforms-free-version-of-chatgpt",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-06T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

@@ -47,6 +47,22 @@ related:
         width: 770
         height: 510
         isCached: true
+  - title: "S. Korean driver's tests to include section on self-driving cars"
+    excerpt: "South Korean government will revise the traffic laws and driver's tests to accommodate for the rapidly advancing technology for automated driving systems and development of self-driving cars. The National Police Agency on Wednesday rolled out the traffic safety plans in preparation for when self-driving cars will hit the road,"
+    publishedDateTime: 2023-12-13T04:30:00Z
+    webUrl: "https://www.koreaherald.com/view.php?ud=20231213000471"
+    ampWebUrl: "https://m.koreaherald.com/amp/view.php?ud=20231213000471"
+    cdnAmpWebUrl: "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20231213000471"
+    type: article
+    provider:
+      name: The Korea Herald
+      domain: koreaherald.com
+    quality: 44
+    images:
+      - url: "https://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2023%2F12%2F13%2F20231213000454_0.jpg"
+        width: 630
+        height: 354
+        isCached: true
 
 secured: "EEgtSqscEXcfnfJmhFrSb48dIrXXMAY3krTDjBgszn2TPulZqKnaT9hWzM6j0PNasHhmtFztCPkiOLHpN+w8Fh5/UwWN3+qMDov3a/LuYfE+J3nCPj2v0N05EWmcnjflzdWhfRSvIyt3moACGHnzC6BwgFWJKWRankpibkvE8JQUr0MAPjjzMO4KuiSx9SPyyPJ8mR9JRSFYkZsRGTPgXF0m5uh3VMZlqgNV9T97r21qTyPJag+BrSqqKhmoS5a0HTgvEFwhwlUnCuWRzdMdmw5qeTZI2wKSxUbtcu/nAcBUk9dMZqEGVL7jF1j9zGmQNRFlsFUH5FMtqMpQ0jSUtENHCli6JqIerICJO8GsQUk=;9ODfOK5PcZ6kYHHDqldx1Q=="
 ---

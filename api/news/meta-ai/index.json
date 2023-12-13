@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-12-12-truly-open-ai-gets-a-boost-from-industry-collaboration-with-enterprise-implications.md",
-      "title": "Truly open AI gets a boost from industry collaboration with enterprise implications",
-      "excerpt": "Efforts to build open AI are getting a boost from the AI Alliance backed by IBM, Meta, Intel, NASA, the National Science Foundation, and fifty other organizations. This could spur research into smaller,",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/truly-open-ai-gets-boost-industry-collaboration-enterprise-implications",
-      "originalUrl": "https://diginomica.com/truly-open-ai-gets-boost-industry-collaboration-enterprise-implications",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2023-12/ai-generated-8273256_640.jpg",
-          "width": 640,
-          "height": 359,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/truly-open-ai-gets-boost-industry-collaboration-enterprise-implications?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/truly-open-ai-gets-boost-industry-collaboration-enterprise-implications?amp",
-      "publishedDateTime": "2023-12-12T11:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-12-12-midjourney-vs-dall-e-2-ai-image-generators-comparison.md",
       "title": "Midjourney vs. Dall-E 2: AI Image Generators Comparison",
       "excerpt": "Explore our in-depth comparison of Midjourney and Dall-E 2. Learn about their unique features and find out which one is best suited for your creative projects.",
@@ -1354,6 +1311,50 @@
       "ampWebUrl": "https://www.technologyreview.com/2023/11/14/1083358/the-download-the-origins-of-life-and-building-facebooks-ai-empire/amp/",
       "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/11/14/1083358/the-download-the-origins-of-life-and-building-facebooks-ai-empire/amp/",
       "publishedDateTime": "2023-11-14T13:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-14-how-facebook-went-all-in-on-ai.md",
+      "title": "How Facebook went all in on AI",
+      "excerpt": "Inside Facebook and the Fight to Expose its Harmful Secrets, Jeff Horwitz reveals how the company came to rely on artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2023/11/14/1083336/how-facebook-went-all-in-on-ai/",
+      "originalUrl": "https://www.technologyreview.com/2023/11/14/1083336/how-facebook-went-all-in-on-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/11/horwitz-cover.jpg?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2023/11/14/1083336/how-facebook-went-all-in-on-ai/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/11/14/1083336/how-facebook-went-all-in-on-ai/amp/",
+      "publishedDateTime": "2023-11-14T12:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "MIT Technology Review",

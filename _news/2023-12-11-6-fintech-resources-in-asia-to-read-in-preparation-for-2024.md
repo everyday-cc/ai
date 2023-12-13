@@ -50,6 +50,15 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 54
+  - title: "The Genesis of Fintech Giant Black Banx"
+    excerpt: "The Genesis of Fintech Giant Black BanxNew York, United States - December 13, 2023 — Despite being a relatively young industry, there are a"
+    publishedDateTime: 2023-12-13T03:31:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-genesis-of-fintech-giant-black-banx-1032895268"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
   - title: "Top Technology Trends in Banking and Fintech for 2024"
     excerpt: "While still in their early stages, blockchain and DLT have the potential to revolutionize various aspects of financial services, from cross-border payments and trade finance to digital identity and anti-money laundering compliance. 2024 will see further  experimentation and adoption of these technologies in various use cases"
     publishedDateTime: 2023-12-10T19:10:00Z

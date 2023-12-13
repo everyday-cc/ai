@@ -74,15 +74,6 @@ related:
       name: CoinTelegraph
       domain: cointelegraph.com
     quality: 17
-  - title: "Open-source generative AI startup Mistral AI raises $415M in funding"
-    excerpt: "French generative artificial intelligence startup Mistral AI announced today it has closed on its second bumper funding round of the year, raising 385 million euros, or around $415 million, in a deal led by prominent venture capital firms Andreessen Horowitz and Lightspeed Venture Partners."
-    publishedDateTime: 2023-12-11T01:47:00Z
-    webUrl: "https://siliconangle.com/2023/12/10/open-source-generative-ai-startup-mistral-ai-raises-415m-funding/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 17
 
 secured: "On0zvUAgyMJjWPiEWpoV6KehLrQrOU6S23IGZguhgGBEocTNyw+9QgeLzbKlARR1cpDGJUt21M69e0wCtgz6jbxyjMnBZbUF5enS9asmBoIj7GTFlIfHFaBoFG0+V9dA/05PsRiQtUtfKSBapHds+6bu1myXbZNSNmtBXvRFVnoPf7oyTWeVXN0hvrPDU0nw6Sn/soqJ18TOxOz5kybEdfqlqRXs0l9aFkKvt9l3nh1eR6xiv7sMN2tN7XUTzqLo5RkrFr9Eequ8i7Jbk02TnxiWgZARIi2L77UZFo1eXJ6ZLKpeKMHulxfYC92j5EJ95Bc6RTciEHMaUvBNyxA2M2P8DCBeqkY/wOsFNtT9q0daOWhLn51KahdzU5lbWCoOjIYIB3r5H7wx/slqkooTK3bbltFx5Z9WotO519q2lWG1yajZNghspYktBLqDwBeM04y6r0Egu+LUefo/3C5FuGID0ey3R9vkf/XRYoVBcSMgrkJfRNfsh9E5w0bnv8fSz0PBHmMMn9DrQW+qJ4mALA==;eCiPXhF82aSOVfDousucfQ=="
 ---

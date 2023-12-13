@@ -2,6 +2,102 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-10-12-fearing-ai-fanfiction-writers-lock-their-accounts.md",
+      "title": "Fearing AI, fanfiction writers lock their accounts",
+      "excerpt": "Like many AI models, the program was trained using data scraped from ... If our stats and comments plummet, I guarantee writing is going to start going down as well.” Many writers are also restricting their accounts to avoid the influx of bot comments ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/10/11/ao3-ai-fears-lock-account-kinktober-fanfiction/",
+      "originalUrl": "https://techcrunch.com/2023/10/11/ao3-ai-fears-lock-account-kinktober-fanfiction/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/08/getty-keys-red-background-locks.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/10/11/ao3-ai-fears-lock-account-kinktober-fanfiction/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/11/ao3-ai-fears-lock-account-kinktober-fanfiction/amp/",
+      "publishedDateTime": "2023-10-11T17:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-10-12-ai-bias-poses-danger-to-the-financial-sector-bank-of-england-warns.md",
+      "title": "AI bias poses danger to the financial sector, Bank of England warns",
+      "excerpt": "A new report from a financial technology expert at the Bank of England says that inherent biases in AI systems makes it dangerous to entrust them with too much decision-making at present.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3708748/ai-bias-poses-danger-to-the-financial-sector-bank-of-england-warns.html",
+      "originalUrl": "https://www.computerworld.com/article/3708748/ai-bias-poses-danger-to-the-financial-sector-bank-of-england-warns.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/10/ai-artificial-intelligence-bank-financial-sector-100947057-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3708748/ai-bias-poses-danger-to-the-financial-sector-bank-of-england-warns.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3708748/ai-bias-poses-danger-to-the-financial-sector-bank-of-england-warns.amp.html",
+      "publishedDateTime": "2023-10-11T17:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-10-11-people-and-ai-adp-is-hot-in-automations-for-payroll-and-workforce.md",
       "title": "People And AI: ADP Is Hot In Automations For Payroll And Workforce",
       "excerpt": "We've talked a lot about this and related topics, and looked at AI's effect on the business world from any number of angles.",

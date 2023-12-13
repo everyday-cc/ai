@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/news/french-ai-start-up-mistral-ai-raise
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/french-ai-start-up-mistral-ai-raises-385-mn-euros-7cc2d989"
 type: article
 quality: 57
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -73,15 +73,6 @@ related:
     provider:
       name: CoinTelegraph
       domain: cointelegraph.com
-    quality: 17
-  - title: "Open-source generative AI startup Mistral AI raises $415M in funding"
-    excerpt: "French generative artificial intelligence startup Mistral AI announced today it has closed on its second bumper funding round of the year, raising 385 million euros, or around $415 million, in a deal led by prominent venture capital firms Andreessen Horowitz and Lightspeed Venture Partners."
-    publishedDateTime: 2023-12-11T01:47:00Z
-    webUrl: "https://siliconangle.com/2023/12/10/open-source-generative-ai-startup-mistral-ai-raises-415m-funding/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
     quality: 17
 
 secured: "61q4oVg6FZOXh8RAMCnvt80xVkU1q5IhjpKssoh3kuQLZBLe6yhV5euem29t7GGLAHnKL2Anih2s1ec4HCrUNkmWPbrS92jRmM0IR5B2MVUwu7q6x0YsUt4TDWiYalczBgpm/rl5kOebxvye7GD/l8TEvo3CYIPB8Lhm/NgS2j74W7IJTBfEBNAgRtgwRVN10fwv371+MuQWeZxIUDEx4t3JxRDdRhUSLw2XjaoQnH10t7G6NxNsqqcyc1FF91rm9PtrThBNWxcC8R54aI9dDyMAs+V4LoNqapm4u3NhrGLoSR9YRBAxEi3xOE1LexUryX9HaBoF21t6mvYr6RPc4Ul1rkv84fTUGA3rwRaDREo=;2/7TYtvF0FgcSlaNaXGffA=="

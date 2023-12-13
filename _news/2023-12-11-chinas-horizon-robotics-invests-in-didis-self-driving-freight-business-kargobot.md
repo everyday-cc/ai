@@ -40,6 +40,22 @@ related:
         width: 1199
         height: 400
         isCached: true
+  - title: "S. Korean driver's tests to include section on self-driving cars"
+    excerpt: "South Korean government will revise the traffic laws and driver's tests to accommodate for the rapidly advancing technology for automated driving systems and development of self-driving cars. The National Police Agency on Wednesday rolled out the traffic safety plans in preparation for when self-driving cars will hit the road,"
+    publishedDateTime: 2023-12-13T04:30:00Z
+    webUrl: "https://www.koreaherald.com/view.php?ud=20231213000471"
+    ampWebUrl: "https://m.koreaherald.com/amp/view.php?ud=20231213000471"
+    cdnAmpWebUrl: "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20231213000471"
+    type: article
+    provider:
+      name: The Korea Herald
+      domain: koreaherald.com
+    quality: 44
+    images:
+      - url: "https://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2023%2F12%2F13%2F20231213000454_0.jpg"
+        width: 630
+        height: 354
+        isCached: true
   - title: "Japan's Isuzu invests in Israeli AI startup for self-driving tech"
     excerpt: "TOKYO -- Isuzu Motors has invested in Israeli startup Foretellix, which uses artificial intelligence to test the safety of autonomous vehicles, as the Japanese automaker pursues self-driving trucks. The investment was made at the end of November. The amount has not been disclosed."
     publishedDateTime: 2023-12-09T14:10:00Z

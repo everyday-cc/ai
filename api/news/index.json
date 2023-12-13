@@ -2,6 +2,343 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-13-patient-prism-unveils-revolutionary-ai-driven-healthcare-platform-with-new-website-launch.md",
+      "title": "Patient Prism Unveils Revolutionary AI-Driven Healthcare Platform with New Website Launch",
+      "excerpt": "A cutting-edge conversational intelligence tool that interprets patient communication with unprecedented depth, offering actionable insights for healthcare providers. Tailored KPIs: Our platform provides specific,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/patient-prism-unveils-revolutionary-ai-driven-healthcare-platform-with-new-website-launch-1032895318",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/patient-prism-unveils-revolutionary-ai-driven-healthcare-platform-with-new-website-launch-1032895318",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/mmstudio-images/gallery/featured/pr-patient-prism-unveil-1702401307.png",
+          "width": 600,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-13T04:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-12-13-gpai-should-help-frame-sustainable-ai-rules-pm.md",
+      "title": "GPAI should help frame sustainable AI rules: PM",
+      "excerpt": "The prime minister emphasized that a large part of the course of AI development will come through “human and democratic values”",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/ai/artificial-intelligence/gpai-should-help-frame-sustainable-ai-rules-pm-11702401229429.html",
+      "originalUrl": "https://www.livemint.com/ai/artificial-intelligence/gpai-should-help-frame-sustainable-ai-rules-pm-11702401229429.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.livemint.com/lm-img/img/2023/12/12/1600x900/PTI12-12-2023-000248B-0_1702401366273_1702401381608.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/ai/artificial-intelligence/gpai-should-help-frame-sustainable-ai-rules-pm/amp-11702401229429.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/artificial-intelligence/gpai-should-help-frame-sustainable-ai-rules-pm/amp-11702401229429.html",
+      "publishedDateTime": "2023-12-13T04:48:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-13-artificial-intelligence-pairs-caregiver-students-with-elderly-patients.md",
+      "title": "Artificial Intelligence pairs caregiver students with elderly patients",
+      "excerpt": "Artificial intelligence is helping older patients with memory care issues get matched with health care students.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ktvu.com/news/artificial-intelligence-pairs-caregiver-students-with-elderly-patients",
+      "originalUrl": "https://www.ktvu.com/news/artificial-intelligence-pairs-caregiver-students-with-elderly-patients",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2023/12/932/470/watchfoxlocal.jpg?ve=1&tl=1",
+          "width": 932,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.ktvu.com/news/artificial-intelligence-pairs-caregiver-students-with-elderly-patients.amp",
+      "cdnAmpWebUrl": "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/artificial-intelligence-pairs-caregiver-students-with-elderly-patients.amp",
+      "publishedDateTime": "2023-12-13T04:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTVU",
+        "domain": "ktvu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-13-india-to-soon-launch-ai-missions-for-agriculture-healthcare-pm-modi-at-gpai-summit-2023.md",
+      "title": "‘India to soon launch AI missions for agriculture, healthcare’: PM Modi at GPAI Summit 2023",
+      "excerpt": "While inaugurating the GPAI or Global Partnership on Artificial Intelligence Summit, 2023, Prime Minister Narendra Modi announced that the government will soon launch AI missions, focussing on healthcare and agriculture,",
+      "sourceUrl": null,
+      "webUrl": "https://www.firstpost.com/tech/india-to-launch-ai-missions-soon-for-agriculture-healthcare-pm-modi-at-gpai-summit-2023-13497832.html",
+      "originalUrl": "https://www.firstpost.com/tech/india-to-launch-ai-missions-soon-for-agriculture-healthcare-pm-modi-at-gpai-summit-2023-13497832.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.firstpost.com/wp-content/uploads/2023/12/Untitled-1-1.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.firstpost.com/tech/india-to-launch-ai-missions-soon-for-agriculture-healthcare-pm-modi-at-gpai-summit-2023-13497832.html/amp",
+      "cdnAmpWebUrl": "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/india-to-launch-ai-missions-soon-for-agriculture-healthcare-pm-modi-at-gpai-summit-2023-13497832.html/amp",
+      "publishedDateTime": "2023-12-13T04:26:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Firstpost",
+        "domain": "firstpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-12-13-tech-ai-and-americas-role-in-the-world.md",
+      "title": "Tech, AI and America's Role in the World",
+      "excerpt": "Funding for Ukraine and regulatory response to Big Tech and AI are at the center of the negotiating table to push partisan agendas forward. Sen. Amy Klobuchar weighs how a divided U.S. can still be a world leader on these issues and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/video/tech-ai-and-america-role-in-the-world/3B69EFF1-5441-4970-857A-C0E12DD946CC",
+      "originalUrl": "https://www.wsj.com/video/tech-ai-and-america-role-in-the-world/3B69EFF1-5441-4970-857A-C0E12DD946CC",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://images.wsj.net/im-899079?width=1280&height=720",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-13T03:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-13-tesla-unveils-optimus-gen-2-its-next-generation-humanoid-robot.md",
+      "title": "Tesla unveils Optimus Gen 2: its next generation humanoid robot",
+      "excerpt": "Tesla has unveiled “Optimus Gen 2”, a new generation of its humanoid robot that should be able to take over repetitive tasks from humans. Optimus, also known as Tesla Bot, has not been taken seriously by many outside of the more hardcore Tesla fans, and for good reason.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2023/12/12/tesla-unveils-optimus-gen-2-next-generation-humanoid-robot/",
+      "originalUrl": "https://electrek.co/2023/12/12/tesla-unveils-optimus-gen-2-next-generation-humanoid-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/12/Tesla-Optimus-Gen-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-13T03:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-12-13-ai-generated-news-anchors-show-off-superhuman-abilities.md",
+      "title": "AI-generated news anchors show off superhuman abilities",
+      "excerpt": "There's a new global news network launching in 2024 which completely ditches humans for AI-generated newsreaders – and they're showing off some superhuman capabilities that make it very clear: the days of the human news presenter are numbered.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/home-entertainment/ai-generated-news-anchors/",
+      "originalUrl": "https://newatlas.com/home-entertainment/ai-generated-news-anchors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/e4d9007/2147483647/strip/true/crop/1060x707+0+17/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F1f%2F54%2F3377995f4ac19af24de6a4f90e95%2Fscreenshot-2023-12-13-at-1.33.59%20pm.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/home-entertainment/ai-generated-news-anchors/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/home-entertainment/ai-generated-news-anchors/?amp=true",
+      "publishedDateTime": "2023-12-13T02:47:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-13-artificial-intelligence-quantum-computing-and-space-are-3-tech-areas-to-watch-in-2024.md",
       "title": "Artificial Intelligence, Quantum Computing, and Space are 3 Tech areas to Watch in 2024",
       "excerpt": "There is much to explore! In this article, I focus on three evolving technology areas that are already impacting our future but are only at the early stages of true potential: artificial intelligence, quantum computing, and space systems. In addition to my ...",
@@ -49,6 +386,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-13-ai-machine-learning-startup-chalk-raises-10-million-in-seed-funding.md",
+      "title": "AI, Machine Learning Startup Chalk Raises $10 Million in Seed Funding",
+      "excerpt": "Artificial intelligence (AI) and machine learning (ML) startup Chalk has raised $10 million in a Seed round, according to a note from the firm. The funding",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2023/12/218043-ai-machine-learning-startup-chalk-raises-10-million-in-seed-funding/",
+      "originalUrl": "https://www.crowdfundinsider.com/2023/12/218043-ai-machine-learning-startup-chalk-raises-10-million-in-seed-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2023/12/Chalk-co-founders-Elliot-Marx-left-Andrew-Moreland-center-and-Marc-Freed-Finnegan-right.jpg",
+          "width": 1000,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2023/12/218043-ai-machine-learning-startup-chalk-raises-10-million-in-seed-funding/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/12/218043-ai-machine-learning-startup-chalk-raises-10-million-in-seed-funding/amp/",
+      "publishedDateTime": "2023-12-13T01:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -823,367 +1203,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-atlanta-local-gov-leaders-tapped-for-ai-ethics-initiative.md",
-      "title": "Atlanta Local Gov Leaders Tapped for AI Ethics Initiative",
-      "excerpt": "Atlanta nonprofit, activist and educational leaders will be part of a new ethics council on artificial intelligence co-chaired by Sam Altman, CEO of OpenAI, the company behind ChatGPT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/artificial-intelligence/atlanta-local-gov-leaders-tapped-for-ai-ethics-initiative",
-      "originalUrl": "https://www.govtech.com/artificial-intelligence/atlanta-local-gov-leaders-tapped-for-ai-ethics-initiative",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/7145fd7/2147483647/strip/true/crop/940x457+0+91/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F3a%2F22%2F6a1ba91c0cab40a7c7c963fa06a1%2Fshutterstock-584819980.jpg",
-          "width": 1440,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-12T15:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-how-machine-learning-is-reshaping-industries.md",
-      "title": "How Machine Learning is Reshaping Industries",
-      "excerpt": "In the era of digital transformation, machine learning (ML) has emerged as the driving force behind a revolutionary shift in industries worldwide. From healthcare to finance, manufacturing to marketing,",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesnownews.com/education/how-machine-learning-is-reshaping-industries-article-105939900",
-      "originalUrl": "https://www.timesnownews.com/education/how-machine-learning-is-reshaping-industries-article-105939900",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tnn.in/thumb/msid-105939904,thumbsize-372248,width-1280,height-720,resizemode-75/105939904.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.timesnownews.com/education/how-machine-learning-is-reshaping-industries-article-105939900/amp",
-      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/education/how-machine-learning-is-reshaping-industries-article-105939900/amp",
-      "publishedDateTime": "2023-12-12T14:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "timesnownews",
-        "domain": "timesnownews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-thoughts-on-consent-and-privacy-in-the-age-of-ai.md",
-      "title": "Thoughts On Consent And Privacy In The Age Of AI",
-      "excerpt": "As a crucial aspect of responsible AI and ethics in AI development and deployment, contestability ensures that individuals, organizations and regulatory bodies can scrutinize AI systems and hold them accountable for their behavior. Balancing innovation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/thoughts-on-consent-and-privacy-in-the-age-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/thoughts-on-consent-and-privacy-in-the-age-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/617ab75c1928bf93235ece8a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/thoughts-on-consent-and-privacy-in-the-age-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/12/thoughts-on-consent-and-privacy-in-the-age-of-ai/amp/",
-      "publishedDateTime": "2023-12-12T13:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-more-in-store-with-ibm-storage-virtualize.md",
-      "title": "More in store with IBM Storage Virtualize",
-      "excerpt": "The value of a centralized and consistent management platform for all storage is all the more relevant today.\nThe post More in store with IBM Storage Virtualize appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/more-in-store-with-ibm-storage-virtualize/",
-      "originalUrl": "https://www.ibm.com/blog/more-in-store-with-ibm-storage-virtualize/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-12T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-promote-resilience-and-responsible-emissions-management-with-the-ibm-maximo-application-suite.md",
-      "title": "Promote resilience and responsible emissions management with the IBM Maximo Application Suite",
-      "excerpt": "Optimization can help you predict and prevent issues, reduce emissions, ensure compliance and create a safer and healthier work environment.\nThe post Promote resilience and responsible emissions management with the IBM Maximo Application Suite appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/promote-resilience-and-emissions-management-for-asset-management-operations-with-maximo-application-suite-mas/",
-      "originalUrl": "https://www.ibm.com/blog/promote-resilience-and-emissions-management-for-asset-management-operations-with-maximo-application-suite-mas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-12T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-three-trends-shaping-the-future-of-cloud-migration.md",
-      "title": "Three Trends Shaping The Future Of Cloud Migration",
-      "excerpt": "Chetan Mathur is CEO of Next Pathway, the Automated Cloud Migration company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/three-trends-shaping-the-future-of-cloud-migration/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/three-trends-shaping-the-future-of-cloud-migration/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6553ad0f467501899dcb06a5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/three-trends-shaping-the-future-of-cloud-migration/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/12/three-trends-shaping-the-future-of-cloud-migration/amp/",
-      "publishedDateTime": "2023-12-12T11:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-truly-open-ai-gets-a-boost-from-industry-collaboration-with-enterprise-implications.md",
-      "title": "Truly open AI gets a boost from industry collaboration with enterprise implications",
-      "excerpt": "Efforts to build open AI are getting a boost from the AI Alliance backed by IBM, Meta, Intel, NASA, the National Science Foundation, and fifty other organizations. This could spur research into smaller,",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/truly-open-ai-gets-boost-industry-collaboration-enterprise-implications",
-      "originalUrl": "https://diginomica.com/truly-open-ai-gets-boost-industry-collaboration-enterprise-implications",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2023-12/ai-generated-8273256_640.jpg",
-          "width": 640,
-          "height": 359,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/truly-open-ai-gets-boost-industry-collaboration-enterprise-implications?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/truly-open-ai-gets-boost-industry-collaboration-enterprise-implications?amp",
-      "publishedDateTime": "2023-12-12T11:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-future-ready-chros-the-ai-revolution-in-banking-hr.md",
-      "title": "Future-ready CHROs: the AI revolution in banking HR",
-      "excerpt": "The banking sector is experiencing a paradigm shift, with Chief Human Resources Officers (CHROs) at the centre of the change. Traditional recruitment strategies are giving way to",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/partnercontent/workday/future-ready-chros-the-ai-revolution-in-banking-hr.html",
-      "originalUrl": "https://www.ft.com/partnercontent/workday/future-ready-chros-the-ai-revolution-in-banking-hr.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ft.com/partnercontent/workday/img/hero2.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-12T11:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

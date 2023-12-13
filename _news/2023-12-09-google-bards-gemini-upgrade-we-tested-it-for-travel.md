@@ -49,6 +49,17 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "Google Challenges Chat GPT with Gemini AI Model"
+    excerpt: "If Bard is not enough to challenge ChatGPT in its dominance in the AI field, Google introduces Gemini, which claims to be its largest multimodal AI model to date. Made in collaboration with DeepMind and other Google teams, Gemini aims to seamlessly understand and process diverse types of information, including text, code, audio, image, and video."
+    publishedDateTime: 2023-12-13T03:07:00Z
+    webUrl: "https://unbox.ph/news/google-gemini-ai-model/"
+    ampWebUrl: "https://unbox.ph/news/google-gemini-ai-model/amp/"
+    cdnAmpWebUrl: "https://unbox-ph.cdn.ampproject.org/c/s/unbox.ph/news/google-gemini-ai-model/amp/"
+    type: article
+    provider:
+      name: Unbox
+      domain: unbox.ph
+    quality: 39
   - title: "These Are the Biggest Differences Between Google Bard and ChatGPT"
     excerpt: "AI chatbots are more popular than ever, and there are plenty of solid options out there to choose from beyond OpenAI’s ChatGPT. One particularly strong competitor is Google’s Bard AI, which pulls information from the internet and runs off the latest Gemini language model created by Google."
     publishedDateTime: 2023-12-11T03:35:00Z

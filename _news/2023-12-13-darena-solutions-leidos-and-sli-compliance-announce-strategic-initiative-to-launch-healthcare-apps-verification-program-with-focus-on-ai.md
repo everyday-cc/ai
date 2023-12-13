@@ -19,35 +19,33 @@ topics:
   - AI
 
 related:
-  - title: "Truly open AI gets a boost from industry collaboration with enterprise implications"
-    excerpt: "Efforts to build open AI are getting a boost from the AI Alliance backed by IBM, Meta, Intel, NASA, the National Science Foundation, and fifty other organizations. This could spur research into smaller,"
-    publishedDateTime: 2023-12-12T11:38:00Z
-    webUrl: "https://diginomica.com/truly-open-ai-gets-boost-industry-collaboration-enterprise-implications"
-    ampWebUrl: "https://diginomica.com/truly-open-ai-gets-boost-industry-collaboration-enterprise-implications?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/truly-open-ai-gets-boost-industry-collaboration-enterprise-implications?amp"
+  - title: "Patient Prism Unveils Revolutionary AI-Driven Healthcare Platform with New Website Launch"
+    excerpt: "A cutting-edge conversational intelligence tool that interprets patient communication with unprecedented depth, offering actionable insights for healthcare providers. Tailored KPIs: Our platform provides specific,"
+    publishedDateTime: 2023-12-13T04:49:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/patient-prism-unveils-revolutionary-ai-driven-healthcare-platform-with-new-website-launch-1032895318"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 53
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 75
     images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-12/ai-generated-8273256_640.jpg"
-        width: 640
-        height: 359
+      - url: "https://storage.googleapis.com/mmstudio-images/gallery/featured/pr-patient-prism-unveil-1702401307.png"
+        width: 600
+        height: 313
         isCached: true
-  - title: "DataStax and AWS deepen collaboration to drive dev-centric gen AI solutions"
-    excerpt: "With the generative artificial intelligence dancefloor heating up, several companies are allying to find novel innovation areas and serve an expanding set of customer use cases. A strong example of this is DataStax Inc.’s deepened collaboration with Amazon Web Services Inc., evidenced by its integration with Amazon Bedrock."
-    publishedDateTime: 2023-12-08T17:34:00Z
-    webUrl: "https://siliconangle.com/2023/12/08/datastax-aws-deepen-collaboration-drive-dev-centric-gen-ai-solutions/"
+  - title: "Envoya Emerges from Stealth Mode, Unveils Revolutionary Gene Therapy Drug Delivery Platform"
+    excerpt: "CNW/ - Breaking its Silence and Emerging from Stealth mode. Envoya, a Pioneering Company in the Biotechnology Sector, Today Announces the Soft Launch of its Revolutionary"
+    publishedDateTime: 2023-12-12T14:46:00Z
+    webUrl: "https://www.wtva.com/news/national/envoya-emerges-from-stealth-mode-unveils-revolutionary-gene-therapy-drug-delivery-platform/article_42ebbdc5-20d1-5712-a84f-390504ede96f.html"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 52
+      name: WTVA
+      domain: wtva.com
+    quality: 29
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/Harry-Ault-Mona-Chadha-Clean.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://bloximages.newyork1.vip.townnews.com/wtva.com/content/tncms/custom/image/c1b448be-3cb7-11ec-8535-6791a281df39.png?resize=600%2C315"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "13bZz6Ji9C1/0v4+3ZkSDnTs65k8gb8387JtcUZifehjzzQdvn5vzDX9I2BA4P+XBQOeQxu1pFeh9YGYFQJfBEt3JTxGmdnqky3l1sh44AWW4GSCHWfzM7OWMcQaK/TxSv2eAJ4OLox6+ZdYvlHq3lLnNFQvWJ/Hybs+FMr4sNEy6nmSCEBq6y0jpPfvzziP65CU4Sjz35p38ssqphi4D76DaWTZlyQe3Wwv8Mu42dqUia+BsuRl5E4SdsdtLu3o7HrzJ48doYEn7tGKJXncEd8wDaXwQTCquhoEpug3+WaxzoknW/BKgsDRYTHprIIenrXeKikux+jVvLqVzRJfqAbFx3K3TujJuy+Zowb0EJyDG/mUiU2yMUqqFqQHvJHMX5zoVzAatMKczaiGJeHg2x7xqikalz98bJbgXTADJI4JKb0B6G0zPZUaeJU6QfgtAYJvVn+RawRt9Sk2oMqk4+ApNuOQfYG/veo5q4rZV0iNu+ZERpD1wsUuE56c2qxaWPnlVfwXokDwhhdjtWykDQ==;RwWEu3NsSBbCVMAZz9Jh4A=="
