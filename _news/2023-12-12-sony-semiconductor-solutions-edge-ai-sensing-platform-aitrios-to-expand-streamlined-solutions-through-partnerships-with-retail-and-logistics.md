@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "AI startup partners with data company to revolutionize energy industry"
-    excerpt: "Senslytics CEO Blake Bixler said his company is solving a global problem by providing reservoir evaluation and estimating fluid properties, and they needed a partner that has a global reach."
-    publishedDateTime: 2023-12-08T19:26:00Z
-    webUrl: "https://journalrecord.com/2023/12/ai-startup-partners-with-data-company-to-revolutionize-energy-industry/"
+  - title: "Revolutionizing Intralogistics with Automated Solutions and Machine Vision Cameras"
+    excerpt: "The Importance of Machine Vision Cameras in Automated Intralogistics Solutions Machine vision uses computer vision techniques to resolve real-world industrial problems associated with visual elements. Machine vision cameras provide a robust visual ..."
+    publishedDateTime: 2023-12-13T12:06:00Z
+    webUrl: "https://www.azom.com/article.aspx?ArticleID=23217"
     type: article
     provider:
-      name: Journal Record
-      domain: journalrecord.com
-    quality: 17
+      name: AZOM
+      domain: azom.com
+    quality: 18
+    images:
+      - url: "https://d12oja0ew7x0i8.cloudfront.net/images/Article_Images/ImageForArticle_23217_17022997293055859.jpg"
+        width: 1000
+        height: 563
+        isCached: true
 
 secured: "Hype9XFCP8oYufAkp0hElpjp2RNaMhVdE1IQpxe5X0yyOt9o65gA1Tc01OYV3cmBFdCsTErgB/hXbVkyJw/o48+2eJG2WD50OrsAnRTWfBVBeY2pC+S+tiNF/rfaqNtdOBek2oOwN6fCXv4CHUk381HfzRZRxh0jsCu9Ya5vetZwLwgEeZj62NpAF5SWKltKltzNrUbbNb/49CsCh3s5ksdg/VxgLrzBgrdsOeizHLcv2wYpX3gbL6RGPt/B6d1SXcnQWqgFa7cDAwQjDvabQWEDGmChrTyaswfk0ZrhVk+MttjuNSKGh/+DgCMGfSZDpoq/v2VkVQzJzg3XmiU87caCdcOqBDa8d0KwAWZMf/DMa0KF80vMzpATnOjkH++8YxaysF//rV9ZYzoyeW9xMFTQd3RkxYxRwXrmTdhfn6Secaata9uCN5fm53Opb3b5iEjsezxrDFLH5U4XxlGgAzmGAXLwNKOyEHil1aFqGQHYWZAsgN0Q68NSKwhVbaZ2xRNGuHODJdHXCOCv675L8Q==;FqjLO4mY8BE1k1/puPaqRQ=="
 ---

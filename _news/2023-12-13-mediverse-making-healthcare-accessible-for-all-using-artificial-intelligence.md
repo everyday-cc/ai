@@ -7,7 +7,7 @@ originalUrl: "https://www.malaysiakini.com/announcement/689914"
 webUrl: "https://www.malaysiakini.com/announcement/689914"
 type: article
 quality: 51
-heat: 51
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,95 @@ images:
     height: 600
     isCached: true
 
-secured: "EsM161r8P54kOYB7Xl1TiVocL+r2phGrjoLjLLtgAolwguZHIUnKwrhM3WONlcUhjtO2DF2/5EsF1LLnDKdCGQOwfd6p+v6BF5sVlrPkfF10tEurb4D2t86L0a31qLMR+2SidtIN1kcnVH/Wz/Nj8gU2+hfJFQ7FUFrb8JR/W+wiRtWyPJ65CWc8VrPvtY/CMCTxEcDIa8Y3bFxzFta33JtyRUZAF+lSvOaxYyxysc6CpJ2yH/GZEVOpa4I5GmS9uyxhViviIdJJZoODUJiWTDAmsfbbf8kxI09m3B34HLgjSlLqUgr3RkVB4SPytdv3AcVBnde5kHcg4q9cHyR82HpyZGOtH8gtaMp8wprfuyA=;IxIdke1cK/+YvkdHauabzA=="
+related:
+  - title: "AI In Healthcare: Are People Losing Or Gaining Control?"
+    excerpt: "In healthcare and beyond, the rise of artificial intelligence should give pause to both businesses and consumers—even as we learn to move forward."
+    publishedDateTime: 2023-12-13T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/13/ai-in-healthcare-are-people-losing-or-gaining-control/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/13/ai-in-healthcare-are-people-losing-or-gaining-control/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/13/ai-in-healthcare-are-people-losing-or-gaining-control/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/651ae5f9c817fd613f5f0e9c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "‘India to soon launch AI missions for agriculture, healthcare’: PM Modi at GPAI Summit 2023"
+    excerpt: "While inaugurating the GPAI or Global Partnership on Artificial Intelligence Summit, 2023, Prime Minister Narendra Modi announced that the government will soon launch AI missions, focussing on healthcare and agriculture,"
+    publishedDateTime: 2023-12-13T04:26:00Z
+    webUrl: "https://www.firstpost.com/tech/india-to-launch-ai-missions-soon-for-agriculture-healthcare-pm-modi-at-gpai-summit-2023-13497832.html"
+    ampWebUrl: "https://www.firstpost.com/tech/india-to-launch-ai-missions-soon-for-agriculture-healthcare-pm-modi-at-gpai-summit-2023-13497832.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/india-to-launch-ai-missions-soon-for-agriculture-healthcare-pm-modi-at-gpai-summit-2023-13497832.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 66
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2023/12/Untitled-1-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Artificial Intelligence in Healthcare: 3 Stocks Transforming the Industry"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence is being applied across the healthcare sector to"
+    publishedDateTime: 2023-12-11T13:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-3-stocks-transforming-the-industry-1032889408"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
+  - title: "Revolutionizing Healthcare: Exploring the AI Advancements Discussed at the Medicine Conference 2024"
+    excerpt: "Welcome to our blog, where we delve into the mind-blowing realm of healthcare revolution! Today, we transport you to the captivating world of Medicine Conference 2024, where groundbreaking advancements in artificial intelligence (AI) are pushing the limits of what is possible."
+    publishedDateTime: 2023-12-12T18:37:00Z
+    webUrl: "https://techbullion.com/revolutionizing-healthcare-exploring-the-ai-advancements-discussed-at-the-medicine-conference-2024/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 40
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/Healthcare.jpg"
+        width: 1000
+        height: 500
+        isCached: true
+  - title: "AI in health care: Leaders urge Congress to set rules for the industry"
+    excerpt: "Health care leaders urged Congress at a hearing to pass regulations on the use of artificial intelligence in the industry, addressing the “limitless” capabilities of the new technology as well as the potential biases it can produce."
+    publishedDateTime: 2023-12-12T16:26:00Z
+    webUrl: "https://www.benefitspro.com/2023/12/12/ai-in-health-care-leaders-urge-congress-to-set-rules-for-the-industry/"
+    type: article
+    provider:
+      name: Benefits Pro
+      domain: benefitspro.com
+    quality: 39
+    images:
+      - url: "https://images.benefitspro.com/contrib/content/uploads/sites/412/2023/12/Congress-Article-202312111511.jpg"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "How AI therapy is filling gaps in mental health care"
+    excerpt: "And for some users, they’ve been beneficial. 80 percent of people who used ChatGPT for mental health advice reported it was a good alternative for therapy, according to Business Wire. The majority of Americans don’t believe AI therapy will help more than it hurts, but that’s not stopping innovations in artificial intelligence and therapy."
+    publishedDateTime: 2023-12-11T03:35:00Z
+    webUrl: "https://www.boisestatepublicradio.org/2023-12-10/how-ai-therapy-is-filling-gaps-in-mental-health-care"
+    type: article
+    provider:
+      name: Boise State Public Radio
+      domain: boisestatepublicradio.org
+    quality: 34
+  - title: "Revolutionizing Healthcare: Exploring the Impact and Future of Large Language Models in Medicine"
+    excerpt: "Explore the transformative impact of Large Language Models like Google's Med-PaLM 2 and EPFL's Meditron in healthcare, examining their applications, challenges, and potential in enhancing patient care"
+    publishedDateTime: 2023-12-08T16:16:00Z
+    webUrl: "https://www.unite.ai/revolutionizing-healthcare-exploring-the-impact-and-future-of-large-language-models-in-medicine/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 8
+
+secured: "sQvK0PiOp4e92igdMP0UzDk47gKtDqKPqmwEs3diRZocs6qzJGeKTqVXLHfzzkmdhmZ3/eQYCWdQru93lDa4DQrjRnoLDomV2E2C/59cEzW086yQwhG5tk0nnSNgTqaryovz92z5BTe0f28Txlzh6Z6uE3ehnYWEvMYO6XOdjuQXUPyeuUEhUYEa8xouqkDxIP8zxR/6BbIAw6UaPWdLm19W+6J87jTj4OvSLql6uOr1IQqE2Qn3+97eXk/Q5oaS7/oViLwxjVMAwhyZxJJNP/y1ALIgb3mhRotlKM/hEv0fTg4AYdMsAnxY90Qw44CThHO/W+3BY1pttMjL47lpFyQD2OCFccukNF6799n7soep7Bb95rEbPLgYp0ccWDyj7oqpbiKpf1hvQKsy4Qe0o10ZqNkbbtwJpgi7Wkm7A+mGpdG2tcW3Zj1Zxwmzgc02kSVnzKwUoTOqc2a5A59gJz94foEKCCAaplYODmh5AwO3+U10IAAkPulLR3kC2JIzL5Si4NwoRgmvXMLP1eJxLg==;0ljdF2T2EoGOjI9aR1Tzqg=="
 ---
 

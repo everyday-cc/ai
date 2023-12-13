@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/industry-unfolding-the-fut
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/industry-unfolding-the-future-of-fintech-top-5-tech-trends-in-2024-and-beyond-3335069/lite/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,51 +27,33 @@ images:
     isCached: true
 
 related:
-  - title: "Financial vulnerability support fintech Hope Macy in seed funding boost"
-    excerpt: "Fintech Hope Macy has secured £1.5m in seed investment to support the roll-out of its regulated open banking and AI platform to counter the growing problem of financial vulnerability. The funding has come from the Development Bank of Wales and angel investors."
-    publishedDateTime: 2023-12-11T15:34:00Z
-    webUrl: "https://www.business-live.co.uk/technology/financial-vulnerability-support-fintech-hope-28270288"
-    ampWebUrl: "https://www.business-live.co.uk/technology/financial-vulnerability-support-fintech-hope-28270288.amp"
-    cdnAmpWebUrl: "https://www-business--live-co-uk.cdn.ampproject.org/c/s/www.business-live.co.uk/technology/financial-vulnerability-support-fintech-hope-28270288.amp"
-    type: article
-    provider:
-      name: business-live
-      domain: business-live.co.uk
-    quality: 44
-    images:
-      - url: "https://i2-prod.walesonline.co.uk/incoming/article28270320.ece/ALTERNATES/s1200/2_Hope-Macy.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Consumer tech market set for growth surge; Kunal Shah on fintech, regulations"
-    excerpt: "The consumer technology market in India will likely touch $300 billion in the next four years, while online retail could top $160 billion by 2028, reports suggest. This and more in todays ETtech Morning Dispatch."
-    publishedDateTime: 2023-12-13T01:52:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/consumer-tech-market-set-for-growth-surge-kunal-shah-on-fintech-regulations/articleshow/105945927.cms?from=mdr"
-    ampWebUrl: "https://m.economictimes.com/tech/newsletters/morning-dispatch/consumer-tech-market-set-for-growth-surge-kunal-shah-on-fintech-regulations/amp_articleshow/105945927.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/newsletters/morning-dispatch/consumer-tech-market-set-for-growth-surge-kunal-shah-on-fintech-regulations/amp_articleshow/105945927.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 41
-    images:
-      - url: "https://img.etimg.com/thumb/msid-105942483,width-280,height-210,imgsize-182440/auto-companies-log-best-ever-november-sales-on-robust-festive-demand.jpg"
-        width: 280
-        height: 210
-        isCached: true
-  - title: "Portuguese Fintech Map and Report 2023"
-    excerpt: "Despite a trying macroeconomic environment, Portugal’s fintech ecosystem is showing resilience and development this year. This growth has been driven by significant developments in industries such as artificial intelligence (AI),"
-    publishedDateTime: 2023-12-11T07:00:00Z
-    webUrl: "https://fintechnews.ch/fintechportugal/portuguese-fintech-map-and-report-2023/65442/"
+  - title: "Fintech Venture Fund Canapi Raises $750m"
+    excerpt: "Canapi Ventures, the fintech venture capital fund backed by nearly 70 financial institutions and strategic investors across the United States, today announced the raise of a $750 million Fund II"
+    publishedDateTime: 2023-12-11T10:39:00Z
+    webUrl: "https://fintechnews.ch/fintechusa/fintech-venture-fund-canapi-raises-750m/65492/"
     type: article
     provider:
       name: fintechnews
       domain: fintechnews.ch
-    quality: 24
+    quality: 39
     images:
-      - url: "https://fintechnews.ch/wp-content/uploads/2023/12/Portuguese-Fintech-Industry-Sees-Further-Growth-Despite-Challenging-Macro-Environment-.jpeg"
+      - url: "https://fintechnews.ch/wp-content/uploads/2023/12/Fintech-Venture-Fund-Canapi-Raises-750m.jpg"
         width: 1024
         height: 567
+        isCached: true
+  - title: "The 10 Top Technical and Business Trends of 2024"
+    excerpt: "Another key trend in 2024 will be the next evolution of sustainable technology. This includes clean technology, green technology, and climate technology. As one of Gartner's top strategic technology trends for 2024, sustainable technology is a framework of digital solutions that drive Environmental, Social, and Governance (ESG) outcomes."
+    publishedDateTime: 2023-12-11T10:45:00Z
+    webUrl: "https://www.inc.com/anis-uzzaman/the-10-top-technical-business-trends-of-2024.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 24
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/tech-business-trends-2024_535488_abvgmy.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "5 Investment Tools That Dominated the FinTech Scene in 2023"
     excerpt: "For long-term financial needs, such as retirement, upcoming vacations, or a down payment, Betterment’s investment strategy employs low-cost ETFs (exchange-traded funds) and adjusts the risk profile based on the individual's goal type and the planned investment  duration."
@@ -101,6 +83,20 @@ related:
         width: 1024
         height: 567
         isCached: true
+  - title: "Innovating FinTech: The Importance of Custom Software Solutions"
+    excerpt: "Custom financial software development is increasingly becoming a key driver of innovation in the FinTech sector. This trend is not just about the creation of new applications and platforms, but also about the transformation of traditional financial services,"
+    publishedDateTime: 2023-12-12T17:21:00Z
+    webUrl: "https://techbullion.com/innovating-fintech-the-importance-of-custom-software-solutions/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 24
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/unnamed-68.jpg"
+        width: 512
+        height: 342
+        isCached: true
   - title: "Top 18 Fintech Events in Singapore to Attend in 2024"
     excerpt: "As Singapore’s fintech industry continues to gain international recognition, several major fintech events and conferences are being held each year in the city-state, attracting thousands of participants and investors from around the world."
     publishedDateTime: 2023-12-13T10:26:00Z
@@ -114,20 +110,6 @@ related:
       - url: "https://fintechnews.sg/wp-content/uploads/2023/12/Top-18-Fintech-Events-in-Singapore-to-Attend-in-2024.jpg"
         width: 1024
         height: 567
-        isCached: true
-  - title: "Quasar Markets Partners With Dragon List Global To Revolutionize Fintech Research"
-    excerpt: "Quasar Markets Partners with Dragon List Global to Revolutionize FinTech Research This partnership aims to enhance financial research and market ins"
-    publishedDateTime: 2023-12-13T10:39:00Z
-    webUrl: "https://menafn.com/1107586474/Quasar-Markets-Partners-With-Dragon-List-Global-To-Revolutionize-Fintech-Research"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 19
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?877739"
-        width: 375
-        height: 250
         isCached: true
 
 secured: "DBOZdXSy6F2xBM13brwOzVOdYhAWQGbix5GGRjS07xwB5FfTh+HTd810DecuyMy68MpVCrIsvcITwgo4E8zka2Zl4WZsxRNnLIMmqAvnjiBynkJvQJxIabs2qnm3uZIbEwp82xVdzOn8xE6n92/t9M6s/q9Yv4ZhXIFZmbHQEewnof1BRhR6Ag0UDnz/OXKLRDtCF1f+5Y5AYRfwn51+RJ3VB7vNCEbrVBucGESAobqMgnp+TE6Pkkpoa1mRRh8DqUAAE/fVuO8Js11pSUHbKmLfFcrcVltBuEdjt9MFI3YrGSJ5Qmls5yWokpHiSj8Q5dB4kUEnd15xbonVwFaM9vxiyv//Uljjhfa8qePSqxsLDQhaeo1d2CtDRSxvfQAMdpuUlNs8eLNVnPM4Hh0mcOeyBqVir/ALUWOfMxZMhB+kZ71m+dZJjk1Bv6qRB3pjUpqD26xLdRJHt+EAEbShUfTPODknnWhpFs50ehXlLUxTQZwbQ8AIIKli077RoSgVCVEshGDgvslXa8Ql++3tYg==;cJk0HVQD99iobTxelPj++g=="

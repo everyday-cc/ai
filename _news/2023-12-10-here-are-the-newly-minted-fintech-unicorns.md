@@ -25,19 +25,53 @@ topics:
   - AI
 
 related:
-  - title: "Black Banx Path to Fintech Eminence: Innovation and Success"
-    excerpt: "How Black Banx CEO Michael Gastauer Climbed the Fintech LadderNew York, United States - December 8, 2023 — Estimated to be valued over US$1.5"
-    publishedDateTime: 2023-12-08T16:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/black-banx-path-to-fintech-eminence-innovation-and-success-1032886175"
+  - title: "Portugal’s Progressive Policies Fuel Fintech Growth"
+    excerpt: "These fintechs include: ivendPay, which provides comprehensive solutions for using cryptocurrency in everyday life."
+    publishedDateTime: 2023-12-13T10:40:00Z
+    webUrl: "https://www.forbes.com/sites/meaghanjohnson/2023/12/13/portugals-progressive-policies-fuel-fintech-growth/"
+    ampWebUrl: "https://www.forbes.com/sites/meaghanjohnson/2023/12/13/portugals-progressive-policies-fuel-fintech-growth/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/meaghanjohnson/2023/12/13/portugals-progressive-policies-fuel-fintech-growth/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://storage.googleapis.com/mmstudio-images/gallery/ifVQDvKEZZMuxhtiOyhcAAz1TmH2/1701365493345-0.jpeg"
-        width: 660
-        height: 330
+      - url: "https://imageio.forbes.com/specials-images/imageserve/657731254d6c7a89a810b4c3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1353
+        height: 900
+        isCached: true
+  - title: "Financial vulnerability support fintech Hope Macy in seed funding boost"
+    excerpt: "Fintech Hope Macy has secured £1.5m in seed investment to support the roll-out of its regulated open banking and AI platform to counter the growing problem of financial vulnerability. The funding has come from the Development Bank of Wales and angel investors."
+    publishedDateTime: 2023-12-11T15:34:00Z
+    webUrl: "https://www.business-live.co.uk/technology/financial-vulnerability-support-fintech-hope-28270288"
+    ampWebUrl: "https://www.business-live.co.uk/technology/financial-vulnerability-support-fintech-hope-28270288.amp"
+    cdnAmpWebUrl: "https://www-business--live-co-uk.cdn.ampproject.org/c/s/www.business-live.co.uk/technology/financial-vulnerability-support-fintech-hope-28270288.amp"
+    type: article
+    provider:
+      name: business-live
+      domain: business-live.co.uk
+    quality: 44
+    images:
+      - url: "https://i2-prod.walesonline.co.uk/incoming/article28270320.ece/ALTERNATES/s1200/2_Hope-Macy.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Consumer tech market set for growth surge; Kunal Shah on fintech, regulations"
+    excerpt: "The consumer technology market in India will likely touch $300 billion in the next four years, while online retail could top $160 billion by 2028, reports suggest. This and more in todays ETtech Morning Dispatch."
+    publishedDateTime: 2023-12-13T01:52:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/consumer-tech-market-set-for-growth-surge-kunal-shah-on-fintech-regulations/articleshow/105945927.cms?from=mdr"
+    ampWebUrl: "https://m.economictimes.com/tech/newsletters/morning-dispatch/consumer-tech-market-set-for-growth-surge-kunal-shah-on-fintech-regulations/amp_articleshow/105945927.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/newsletters/morning-dispatch/consumer-tech-market-set-for-growth-surge-kunal-shah-on-fintech-regulations/amp_articleshow/105945927.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 41
+    images:
+      - url: "https://img.etimg.com/thumb/msid-105942483,width-280,height-210,imgsize-182440/auto-companies-log-best-ever-november-sales-on-robust-festive-demand.jpg"
+        width: 280
+        height: 210
         isCached: true
   - title: "The Genesis of Fintech Giant Black Banx"
     excerpt: "The Genesis of Fintech Giant Black BanxNew York, United States - December 13, 2023 — Despite being a relatively young industry, there are a"
@@ -48,17 +82,31 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
-  - title: "6 Fintech Resources in Asia to Read in Preparation for 2024"
-    excerpt: "Look ahead to the future of financial innovation in Asia, with this guide to some of the must-read fintech resources to gear up for 2024."
-    publishedDateTime: 2023-12-11T07:41:00Z
-    webUrl: "https://fintechnews.sg/81825/fintech/6-fintech-resources-in-asia-to-read-in-preparation-for-2024/"
+  - title: "Portuguese Fintech Map and Report 2023"
+    excerpt: "Despite a trying macroeconomic environment, Portugal’s fintech ecosystem is showing resilience and development this year. This growth has been driven by significant developments in industries such as artificial intelligence (AI),"
+    publishedDateTime: 2023-12-11T07:00:00Z
+    webUrl: "https://fintechnews.ch/fintechportugal/portuguese-fintech-map-and-report-2023/65442/"
+    type: article
+    provider:
+      name: fintechnews
+      domain: fintechnews.ch
+    quality: 24
+    images:
+      - url: "https://fintechnews.ch/wp-content/uploads/2023/12/Portuguese-Fintech-Industry-Sees-Further-Growth-Despite-Challenging-Macro-Environment-.jpeg"
+        width: 1024
+        height: 567
+        isCached: true
+  - title: "Finastra Leaders Predict Top Fintech Trends For 2024"
+    excerpt: "Finastra has shared its executive insights on the anticipated trends, challenges and opportunities for the fintech landscape in 2024."
+    publishedDateTime: 2023-12-13T07:35:00Z
+    webUrl: "https://fintechnews.sg/82080/fintech/finastra-leaders-predict-top-fintech-trends-for-2024/"
     type: article
     provider:
       name: Fintech Singapore
       domain: fintechnews.sg
     quality: 24
     images:
-      - url: "https://fintechnews.sg/wp-content/uploads/2023/12/6-Fintech-Resources-in-Asia-to-Read-in-Preparation-for-2024.jpg"
+      - url: "https://fintechnews.sg/wp-content/uploads/2023/12/Finastra-Leaders-Predict-2024-Fintech-Trends-Amidst-Global-Challenges.jpg"
         width: 1024
         height: 567
         isCached: true

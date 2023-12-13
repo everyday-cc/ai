@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/ai/2023/12/chatgpt-vs-google-bard-round-2-
 webUrl: "https://arstechnica.com/ai/2023/12/chatgpt-vs-google-bard-round-2-how-does-the-new-gemini-model-fare/3/?view=grid"
 type: article
 quality: 71
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -69,6 +69,20 @@ related:
       name: Unbox
       domain: unbox.ph
     quality: 39
+  - title: "Google Launches Its New AI Model - Gemini"
+    excerpt: "Google launched Gemini, its new generative AI model that will compete with ChatGPT, however not everything is as it was presented to be."
+    publishedDateTime: 2023-12-13T11:37:00Z
+    webUrl: "https://www.cybersecurityintelligence.com/blog/google-launches-its-new-ai-model---gemini-7352.html"
+    type: article
+    provider:
+      name: cybersecurityintelligence.com
+      domain: cybersecurityintelligence.com
+    quality: 39
+    images:
+      - url: "https://www.cybersecurityintelligence.com/files/upload/htmleditor/ugVEvwkT%20bard%20google%20titter%20image.jpeg"
+        width: 900
+        height: 471
+        isCached: true
   - title: "These Are the Biggest Differences Between Google Bard and ChatGPT"
     excerpt: "AI chatbots are more popular than ever, and there are plenty of solid options out there to choose from beyond OpenAI’s ChatGPT. One particularly strong competitor is Google’s Bard AI, which pulls information from the internet and runs off the latest Gemini language model created by Google."
     publishedDateTime: 2023-12-11T03:35:00Z
@@ -88,6 +102,6 @@ related:
       domain: geeky-gadgets.com
     quality: 4
 
-secured: "PNihFs62yCckTWzkya/d3Nmk6zLJAaC1gmdBkNCOHrFTPGUiKWVjPCeIfXS0B9NV1HO4exijovS2sBGcILfrhQtiZQFYj+DW50f0XPoevNlO4naQZO/cE68QH7r3QvY2fM953+7u3nQ5v3AjzO6yxLISox8Q5wA+avX4vjhu1cXO/gOGYA0qXS/l3l3b/CxpqbvwveKeu4QQ+LPikR7gWUksnaZWU0Khyvv5bvEPDFny/4315Q3cFDiPeWQ2Peg5lWhlFRhuJgnBn6x6XbK85I8RAk5zRwyNAL+ZCuLIIHccaOId3JlYIgvRODTZc0dgi1wjnW4NTZfLrz1hv5XoGlPtp9B0719jAA+ofocv0z4=;TwgC91GVSybKUxLTTKEzOA=="
+secured: "pQlawLFO+jNxlZpsDMWp3uijTJSkxBehEt6Xi7CObg8x4xqz/6zQe+QJT+90sMT0rzw5wz/3NMwMPaGDJFSraTymVD8qJbrk3anSpD84a5RjYyoQ3d9VmHI8/UU1M30LnlwXc+OemR7/gCzw6GSVSBESheYQyqfyyqZo7on8HWgD3XQOjuYf/cWPEzaaaq3J66a0KgCDahF4CV0geUybar/BJBXHIzqm3gVWtITRXVVmDmOk23unZqmmleGMWD5Mk2T/fCN2Z8WSilpNk7qFrL7KWyMuQ/LMt2FbxD1RhU9eEKYJNnw2VRMyA7ErpIxRl7i6+h2+CdWEijgraqu5ufn0mMKikQVqjjaF8AJWRF2DuuROv9TPn3ZyW1HuHbazZJC3dvXLG17x3fvgYQT+e6GQYn0o8wResWoUwkULBB9ojItcZxiPjDK+E0p4+FMA7cUH7+RDIA4dVkJmlxRnE7SXpgB6NSuoRNFao2kvxUHUUjl2pnkBjdllbRtaVxX+2yRa/fPt3pvlY28tFiaNxw==;jGYcWbR7HSl/v1WaRbUQ4A=="
 ---
 

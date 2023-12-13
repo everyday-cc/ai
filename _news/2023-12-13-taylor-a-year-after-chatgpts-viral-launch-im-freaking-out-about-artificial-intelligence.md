@@ -6,7 +6,7 @@ publishedDateTime: 2023-12-13T09:00:00Z
 originalUrl: "https://www.houstonchronicle.com/business/columnists/michael-taylor/article/assessing-reality-artificial-intelligence-year-18550248.php"
 webUrl: "https://www.houstonchronicle.com/business/columnists/michael-taylor/article/assessing-reality-artificial-intelligence-year-18550248.php"
 type: article
-quality: 23
+quality: 27
 heat: -1
 published: false
 
@@ -17,6 +17,8 @@ provider:
 topics:
   - AI
   - Microsoft AI
+  - AI Ethics
+  - AI in Healthcare
 
 related:
   - title: "Mistral AI is an exciting ChatGPT rival, but it’s not ready for us yet"

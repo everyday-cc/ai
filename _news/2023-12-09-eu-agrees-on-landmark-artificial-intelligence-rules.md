@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "EU reaches deal on how to regulate artificial intelligence"
-    excerpt: "European Union negotiators have agreed a deal on the world's first comprehensive artificial intelligence rules. The agreement paves the way for legal oversight of technology used in popular ..."
-    publishedDateTime: 2023-12-09T04:22:00Z
-    webUrl: "https://news.sky.com/story/eu-reaches-deal-on-how-to-regulate-artificial-intelligence-13026107"
-    ampWebUrl: "https://news.sky.com/story/amp/eu-reaches-deal-on-how-to-regulate-artificial-intelligence-13026107"
-    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/eu-reaches-deal-on-how-to-regulate-artificial-intelligence-13026107"
-    type: article
-    provider:
-      name: Sky
-      domain: sky.com
-    quality: 59
-    images:
-      - url: "https://e3.365dm.com/23/11/1600x900/skynews-chatgpt-openai_6364467.jpg?20231118091822"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "GPAI should help frame sustainable AI rules: PM"
     excerpt: "The prime minister emphasized that a large part of the course of AI development will come through “human and democratic values”"
     publishedDateTime: 2023-12-13T04:48:00Z
@@ -55,22 +39,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "EU agrees ‘historic’ deal with world’s first laws to regulate AI"
-    excerpt: "Agreement between European Parliament and member states will govern artificial intelligence, social media and search engines"
-    publishedDateTime: 2023-12-09T11:51:00Z
-    webUrl: "https://www.theguardian.com/world/2023/dec/08/eu-agrees-historic-deal-with-worlds-first-laws-to-regulate-ai?ref=biztoc.com"
-    ampWebUrl: "https://amp.theguardian.com/world/2023/dec/08/eu-agrees-historic-deal-with-worlds-first-laws-to-regulate-ai"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2023/dec/08/eu-agrees-historic-deal-with-worlds-first-laws-to-regulate-ai"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/45841538e1aeae6c32c2c831ac875b5528ec564a/0_200_6000_3600/master/6000.jpg?width=620&quality=85&auto=format&fit=max&s=9b617722c7d6c86a671130539aea4b6a"
-        width: 620
-        height: 372
-        isCached: true
   - title: "E.U. Reaches Deal on World’s First Comprehensive AI Rules"
     excerpt: "European Union negotiators have clinched a deal on the world's first comprehensive artificial intelligence rules"
     publishedDateTime: 2023-12-11T11:14:00Z
@@ -80,34 +48,29 @@ related:
       name: Time
       domain: time.com
     quality: 47
-  - title: "EU agrees draft laws on artificial intelligence"
-    excerpt: "The 27 member-nations of the European Union have agreed draft laws to oversee artificial intelligence, or AI, within the bloc. The countries will vote on the provisional legislation — known as the European AI Act — early next year and the rules could be in place in 2025."
-    publishedDateTime: 2023-12-11T01:39:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202312/11/WS6576632fa31040ac301a714c.html"
+  - title: "Europe, a laggard in AI, seizes the lead in its regulation"
+    excerpt: "Yet whether the AI Act will be as successful as the General Data Protection Regulation ( GDPR ), the EU ’s landmark privacy law, is another question. Important details still need to be worked out. And the European Parliament still needs to approve the final version."
+    publishedDateTime: 2023-12-10T18:25:00Z
+    webUrl: "https://www.economist.com/europe/2023/12/10/europe-a-laggard-in-ai-seizes-the-lead-in-its-regulation"
     type: article
     provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 39
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202312/11/6576632fa31040acaf82600a.jpeg"
-        width: 955
-        height: 636
-        isCached: true
-  - title: "Can the EU's plan to regulate AI keep up with rapidly evolving tech?"
-    excerpt: "The European Union is finalising its AI Act, which attempts to regulate the use of artificial intelligence, but it isn't clear that the legislation can keep pace with the cutting edge of technology"
-    publishedDateTime: 2023-12-11T14:59:00Z
-    webUrl: "https://www.newscientist.com/article/2407787-can-the-eus-plan-to-regulate-ai-keep-up-with-rapidly-evolving-tech/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
+      name: The Economist
+      domain: economist.com
     quality: 37
     images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/12/11145455/SEI_183673499.jpg"
-        width: 1349
-        height: 900
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20231210_BLP901.jpg"
+        width: 1280
+        height: 720
         isCached: true
+  - title: "Europe reaches a deal on the world’s first comprehensive AI rules"
+    excerpt: "Click to email a link to a friend (Opens in new window) Click to print (Opens in new window)  LONDON | European Union negotiators clinched a deal Friday on the world’s first comprehensive artificial intelligence rules,"
+    publishedDateTime: 2023-12-11T01:34:00Z
+    webUrl: "https://sentinelcolorado.com/nation-world/europe-reaches-a-deal-on-the-worlds-first-comprehensive-ai-rules/"
+    type: article
+    provider:
+      name: Sentinel Colorado
+      domain: sentinelcolorado.com
+    quality: 19
 
 secured: "82Tk1Z1O1mUYiq0S1vqrsPAAlypUd8ftzD/DS+lymGxpxN4atneE4Nuw9mRDi5Yv+dzVv0Us+3nmP1qCU2oereTW7RgHRuAvfBoGrFXy5iNOVrFu3Xhel95QH4tJTiMHp6a3cVc75vWdP35XapbDXUxbNIIfl34o/Js3rw5vRfTWs7QnIn/CLDM3Di5JDHNyEDou17dxTsFE0OdA+KfZX3vpXgVaSCaXjLJI5GUhezvLwq6rD1Yi+upjqQhtymVBtCSCzTaN8AXA6h1uj22hWesEl8Hwr49EZawMie3vjCYKQALQF5wfWfijrNmnxRyqe2l7/9nmvWCE6tuMfaYvM60BnRlXrsmnXPXVIfWfMYmyCHhO0KqPLYku4Bpew/v9XhyAMHAcK8tB6smDzB7y/l8G1EPzMBY9ciydRqJ+Xa49e4J5aFmDUi2neCatJaqr7qudZkpR+GRJK93dbZ6YncrvNPZPjKRr1+VzHK/t2tgANqKqWEIS+TjlW7yGbSZJFm2PrrWzM/Lv+ealNKhvtA==;iym/3HnhhfXB3RSTqQxBGw=="
 ---

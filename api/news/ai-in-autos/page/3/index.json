@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-11-17-experts-warn-against-using-artificial-intelligence-for-mental-health-support.md",
+      "title": "Experts warn against using artificial intelligence for mental health support",
+      "excerpt": "While AI can be a useful tool for so many things, there’s a growing concern about the danger associated with using robots in place of the human touch.",
+      "sourceUrl": null,
+      "webUrl": "https://katv.com/news/local/experts-warn-against-using-artificial-intelligence-for-mental-health-support",
+      "originalUrl": "https://katv.com/news/local/experts-warn-against-using-artificial-intelligence-for-mental-health-support",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://katv.com/resources/media/1dbab09f-56d2-40a5-bd3c-2e4bd94d6c11-large16x9_thumb_37984.png",
+          "width": 986,
+          "height": 555,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://katv.com/amp/news/local/experts-warn-against-using-artificial-intelligence-for-mental-health-support",
+      "cdnAmpWebUrl": "https://katv-com.cdn.ampproject.org/c/s/katv.com/amp/news/local/experts-warn-against-using-artificial-intelligence-for-mental-health-support",
+      "publishedDateTime": "2023-11-17T14:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "katv",
+        "domain": "katv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-11-17-self-driving-cars-all-you-need-to-know.md",
       "title": "Self-driving cars: all you need to know",
       "excerpt": "Self-driving cars were, in fairly recent history, considered the stuff of cartoons and sci-fi films. Today, though, a huge number of cars on the market have at least some 'autonomous driving ...",
@@ -1121,49 +1165,6 @@
       "provider": {
         "name": "Cyprus Mail",
         "domain": "cyprus-mail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-12-2024-tech-trends-prepare-for-the-next-wave-of-innovation.md",
-      "title": "2024 Tech Trends: Prepare for the Next Wave of Innovation",
-      "excerpt": "Are you ready to ride the wave of innovation and embrace the future? The year 2024 is just around the corner, and with it comes a tidal wave of exciting new technologies that will reshape our lives as we know them.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/2024-tech-trends-prepare-for-the-next-wave-of-innovation/",
-      "originalUrl": "https://techbullion.com/2024-tech-trends-prepare-for-the-next-wave-of-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2023/11/Tech-Trend.jpg",
-          "width": 1000,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T11:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
         "images": null,
         "publishers": null,
         "authors": null

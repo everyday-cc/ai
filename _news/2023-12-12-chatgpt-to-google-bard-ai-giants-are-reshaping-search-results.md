@@ -65,6 +65,20 @@ related:
       name: Unbox
       domain: unbox.ph
     quality: 39
+  - title: "Google Launches Its New AI Model - Gemini"
+    excerpt: "Google launched Gemini, its new generative AI model that will compete with ChatGPT, however not everything is as it was presented to be."
+    publishedDateTime: 2023-12-13T11:37:00Z
+    webUrl: "https://www.cybersecurityintelligence.com/blog/google-launches-its-new-ai-model---gemini-7352.html"
+    type: article
+    provider:
+      name: cybersecurityintelligence.com
+      domain: cybersecurityintelligence.com
+    quality: 39
+    images:
+      - url: "https://www.cybersecurityintelligence.com/files/upload/htmleditor/ugVEvwkT%20bard%20google%20titter%20image.jpeg"
+        width: 900
+        height: 471
+        isCached: true
   - title: "These Are the Biggest Differences Between Google Bard and ChatGPT"
     excerpt: "AI chatbots are more popular than ever, and there are plenty of solid options out there to choose from beyond OpenAI’s ChatGPT. One particularly strong competitor is Google’s Bard AI, which pulls information from the internet and runs off the latest Gemini language model created by Google."
     publishedDateTime: 2023-12-11T03:35:00Z

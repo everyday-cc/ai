@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-13-scientists-unveil-brainoware-a-game-changer-for-artificial-intelligence.md",
+      "title": "Scientists unveil 'Brainoware': A game-changer for artificial intelligence",
+      "excerpt": "In contrast, advanced artificial intelligence systems can consume millions of watts. Recognising this efficiency, scientists envision the development of cyborg \"biocomputers\" that could significantly reduce energy costs while offering unparalleled computational power.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theweek.in/news/sci-tech/2023/12/13/scientists-unveil-brainoware-a-game-changer-for-artificial-intel.html",
+      "originalUrl": "https://www.theweek.in/news/sci-tech/2023/12/13/scientists-unveil-brainoware-a-game-changer-for-artificial-intel.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theweek.in/content/dam/week/news/2022/images/2023/2/machine-learning-deep-learning-graphic-of-artificial-intelligence-AI-VR-shut.jpg",
+          "width": 760,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.theweek.in/news/sci-tech/2023/12/13/scientists-unveil-brainoware-a-game-changer-for-artificial-intel.amp.html",
+      "cdnAmpWebUrl": "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2023/12/13/scientists-unveil-brainoware-a-game-changer-for-artificial-intel.amp.html",
+      "publishedDateTime": "2023-12-13T10:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Week",
+        "domain": "theweek.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-13-lg-demonstrates-ai-leadership-at-top-machine-learning-conference.md",
       "title": "LG demonstrates AI leadership at top machine learning conference",
       "excerpt": "LG AI Research demonstrated its leadership in generative AI, releasing its research results on AI Agent and others at Neural Information Processing Systems (NeurIPS), the largest conference in the field of machine learning,",
@@ -194,7 +237,7 @@
       "originalUrl": "https://www.indianweb2.com/2023/12/accenture-to-work-with-union-bank-of.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1262,41 +1305,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-04-can-broadcoms-latest-silicon-ai-chip-revolutionize-network-efficiency.md",
-      "title": "Can Broadcom’s latest silicon AI chip revolutionize network efficiency?",
-      "excerpt": "Broadcom's Trident 5-X12 chip revolutionizes AI cluster networking with advanced AI and neural network technology.",
-      "sourceUrl": null,
-      "webUrl": "https://techwireasia.com/2023/12/how-is-broadcoms-ai-chip-redefining-networking/",
-      "originalUrl": "https://techwireasia.com/2023/12/how-is-broadcoms-ai-chip-redefining-networking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T01:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techwireasia.com",
-        "domain": "techwireasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

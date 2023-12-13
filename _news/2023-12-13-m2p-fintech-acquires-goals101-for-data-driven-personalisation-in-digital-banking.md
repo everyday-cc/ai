@@ -55,20 +55,6 @@ related:
         width: 1024
         height: 567
         isCached: true
-  - title: "Finastra Leaders Predict Top Fintech Trends For 2024"
-    excerpt: "Finastra has shared its executive insights on the anticipated trends, challenges and opportunities for the fintech landscape in 2024."
-    publishedDateTime: 2023-12-13T07:35:00Z
-    webUrl: "https://fintechnews.sg/82080/fintech/finastra-leaders-predict-top-fintech-trends-for-2024/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 24
-    images:
-      - url: "https://fintechnews.sg/wp-content/uploads/2023/12/Finastra-Leaders-Predict-2024-Fintech-Trends-Amidst-Global-Challenges.jpg"
-        width: 1024
-        height: 567
-        isCached: true
   - title: "The Fintech C-Suite conversations that will dominate 2024"
     excerpt: "The Fintech C-Suite conversations that will dominate 2024 By Richard Rosenberg, group chief product and technology officer, Spendesk It’s been a topsy-turvy year for fintech. In 2023 we’ve seen huge growth in the Buy Now,"
     publishedDateTime: 2023-12-11T21:28:00Z

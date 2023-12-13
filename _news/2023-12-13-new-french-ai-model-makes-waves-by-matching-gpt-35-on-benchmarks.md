@@ -21,6 +21,22 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Mistral AI Mixtral 8x7B mixture of experts AI model impressive benchmarks revealed"
+    excerpt: "Mistral AI has recently unveiled an innovative mixture of experts model that is making waves in the field of artificial intelligence. This new model,"
+    publishedDateTime: 2023-12-13T12:03:00Z
+    webUrl: "https://www.geeky-gadgets.com/mistral-ai-mixture-of-experts-model-moe/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 33
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/Mistral-AI-mixture-of-experts-model-MoE.jpg"
+        width: 1280
+        height: 718
+        isCached: true
+
 secured: "+FZYF07tSj/JdedQiglxF1vKbrVamyBbqCickMckcLCrr0yYKTxD4vALMvzIvi7giUJAKXz6YKneIoz+QgrCtF4icm+6KR74zCuc+3Y+PMjm5B3I4QDDVP29mf+Rgm3ykG/pHxwO31+pbVaP+MKT1gEudqtAsAeWtjnS15OSscl4yejzBlrgabtl3BA6OK7yvdJzwG98eN1kgJre5zxL1/InlkLFH+Ju84flFRNpKYOkm/puOq0K/WXW63lHWlMx1dLxPKPNH7XYi9Op9//5rtsnunGp9sM1ZzmcacjIVsoZYbQOEzs3RXWD3fFruCDcRxcuiViLQas9jjXuFQA5GnvkenysJqqTKa2hAhHqLmSAjF7/TU1mddNwyW+xlbACQ7yqJDtdUIcx9QbDtk3jvjdNLYtVmiPoKR/1IYhtEs4b0fXI1qNx+0vQyGbt5QwltYho6HXIPIhrHtPtwEgujw6lvMcIgxO4nUxkgPfItQX+2SUgnEktj+eEULF91FIo+EvqsSsFA9v2Ur8Jjg58Mw==;PRc39CuaTbXIJMnJHBQs9g=="
 ---
 

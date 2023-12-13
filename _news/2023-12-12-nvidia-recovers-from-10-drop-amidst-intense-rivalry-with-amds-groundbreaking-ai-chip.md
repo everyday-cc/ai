@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/36181312"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36181312"
 type: article
 quality: 66
-heat: -1
-published: false
+heat: 86
+published: true
 
 provider:
   name: Benzinga.com
@@ -27,239 +27,29 @@ images:
     isCached: true
 
 related:
-  - title: "AMD Takes The Fight To Nvidia With Latest AI Chip Launch. Is The Stock A Buy At $116?"
-    excerpt: "Tech giants, such as Meta and Microsoft, have expressed their intention to buy AMD’s newest AI chip, as they look for alternatives to Nvidia."
-    publishedDateTime: 2023-12-08T11:59:00Z
-    webUrl: "https://www.forbes.com/sites/greatspeculations/2023/12/08/amd-takes-the-fight-to-nvidia-with-latest-ai-chip-launch-is-the-stock-a-buy-at-116/"
-    ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2023/12/08/amd-takes-the-fight-to-nvidia-with-latest-ai-chip-launch-is-the-stock-a-buy-at-116/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2023/12/08/amd-takes-the-fight-to-nvidia-with-latest-ai-chip-launch-is-the-stock-a-buy-at-116/amp/"
+  - title: "Nvidia, AMD back $56.5M round for Essential AI Labs, led by Transformer architecture co-inventors"
+    excerpt: "Nvidia, AMD back $56.5M round for Essential AI Labs, led by Transformer architecture co-inventors - SiliconANGLE"
+    publishedDateTime: 2023-12-13T00:03:00Z
+    webUrl: "https://siliconangle.com/2023/12/12/nvidia-amd-back-56-5m-round-essential-ai-labs-led-transformer-architecture-co-inventors/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 97
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 26
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/657299f9c6898fd9524d546c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1161
-        height: 774
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/Essential-AI.png"
+        width: 718
+        height: 400
         isCached: true
-  - title: "U.S. discusses AI Chip sales to China with Nvidia, says Raimondo"
-    excerpt: "The U.S. government is currently in talks with NVIDIA (NVDA) regarding the conditions under which it can sell AI chips to China. The administration has made it clear that Nvidia (NASDAQ: NVDA) is not allowed to export its most sophisticated semiconductors to Chinese companies."
-    publishedDateTime: 2023-12-11T20:36:00Z
-    webUrl: "https://au.investing.com/news/stock-market-news/us-discusses-ai-chip-sales-to-china-with-nvidia-says-raimondo-432SI-3060981"
-    ampWebUrl: "https://m.au.investing.com/news/stock-market-news/us-discusses-ai-chip-sales-to-china-with-nvidia-says-raimondo-432SI-3060981?ampMode=1"
-    cdnAmpWebUrl: "https://m-au-investing-com.cdn.ampproject.org/c/s/m.au.investing.com/news/stock-market-news/us-discusses-ai-chip-sales-to-china-with-nvidia-says-raimondo-432SI-3060981?ampMode=1"
+  - title: "Nvidia, AMD back $56.5M round for AI startup led by Transformer architecture co-inventors"
+    excerpt: "Essential AI Labs Inc., a startup led by two co-inventors of the Transformer neural network architecture, today announced that it has raised $56.5 million from a group of prominent backers. March Capital led the Series A investment with contributions from ..."
+    publishedDateTime: 2023-12-12T18:42:00Z
+    webUrl: "https://siliconangle.com/2023/12/12/nvidia-amd-back-56-5m-round-ai-startup-led-transformer-architecture-co-inventors/"
     type: article
     provider:
-      name: Investing
-      domain: investing.com
-    quality: 91
-    images:
-      - url: "https://i-invdn-com.investing.com/news/moved_LYNXMPEHAH0WT_L.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "China chip firms vie to take sales from Nvidia"
-    excerpt: "Chinese chip designers including Tencent Holdings are aggressively pitching their AI chips as alternatives to Nvidia's, hoping U.S. export restrictions will prompt clients to switch, said four people familiar with such discussions. Julian Satterthwaite reports."
-    publishedDateTime: 2023-12-12T10:56:00Z
-    webUrl: "https://www.reuters.com/video/watch/idRW515412122023RP1?ref=upstract.com"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 86
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20231212&i=RW515412122023RP1&r=RW515412122023RP1&t=2"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "AMD takes aim at Nvidia with new AI chips. Here’s what might be next for the stock"
-    excerpt: "The latest AI chips from Advanced Micro Devices may showcase the company's capabilities, but the chipmaker faces some obstacles ahead."
-    publishedDateTime: 2023-12-08T15:33:00Z
-    webUrl: "https://www.cnbc.com/2023/12/08/amd-takes-aim-at-nvidia-with-new-ai-chips-heres-what-might-be-next-for-the-stock.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 78
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106274274-1575319644260gettyimages-1160287351.jpeg?v=1701979891&w=1920&h=1080"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "US in talks with Nvidia about AI chip sales to China: Gina Raimondo"
-    excerpt: "U.S. Commerce Secretary Gina Raimondo, speaking in an interview with Reuters on Monday, said Nvidia \"can, will and should sell AI chips to China because most AI chips will be for commercial applications."
-    publishedDateTime: 2023-12-12T01:21:00Z
-    webUrl: "https://www.moneycontrol.com/news/world/us-in-talks-with-nvidia-about-ai-chip-sales-to-china-gina-raimondo-11889281.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 71
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/09/Nvidia-770x433.jpg"
-        width: 770
-        height: 433
-        isCached: true
-  - title: "US in talks with Nvidia about AI chip sales to China: commerce secretary"
-    excerpt: "\"What we cannot allow them (Nvidia) to ship is the most sophisticated, highest-processing power AI chips, which would enable China to train their frontier models,\" US Commerce Secretary Gina Raimondo said."
-    publishedDateTime: 2023-12-12T01:57:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/us-in-talks-with-nvidia-about-ai-chip-sales-to-china-commerce-secretary/articleshow/105916634.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 70
-    images:
-      - url: "https://img.etimg.com/thumb/msid-105916640,width-1200,height-630,imgsize-101486,overlay-ettech/photo.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Chip Stocks Are Surging, but Nvidia Is Missing It"
-    excerpt: "It’s a big day for chip stocks, but the year’s top-performer is suddenly lagging. The PHLX Semiconductor index advanced more than 2% on Monday morning. Broadcom was up more than 6%, the S&P 500’s second-best performer."
-    publishedDateTime: 2023-12-11T16:15:00Z
-    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-12-11-2023/card/chip-stocks-are-surging-but-nvidia-is-missing-it-s1Qwg9eaQQEoG9W9QwM0"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 69
-    images:
-      - url: "https://images.wsj.net/im-898705?width=600"
-        width: 600
-        height: 800
-        isCached: true
-  - title: "Essential AI emerges from stealth with backing from Google, Nvidia and AMD"
-    excerpt: "Essential AI says the products would make data analysts 10x faster and give business users the ability to become data-driven decision-makers."
-    publishedDateTime: 2023-12-12T16:46:00Z
-    webUrl: "https://venturebeat.com/ai/essential-ai-emerges-from-stealth-with-backing-from-google-nvidia-and-amd/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 65
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/12/ashish_vaswani_and_niki_parmar__essential_ai___andrew_gessler_-_1.jpg?fit=750%2C500&#038;strip=all"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "2 Reasons Why AMD Is a Better Artificial Intelligence (AI) Stock to Buy Than Nvidia -- and 2 Reasons Why It Isn't"
-    excerpt: "I'd argue that the top reason why AMD could be a better AI stock to buy than Nvidia right now is that customers are looking for an alternative to Nvidia's graphics processing units (GPUs). This presents a tremendous opportunity for AMD to step up to the plate."
-    publishedDateTime: 2023-12-13T10:50:00Z
-    webUrl: "https://www.fool.com/investing/2023/12/13/2-reasons-why-amd-better-ai-stock-nvidia/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 63
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/758013/amd-headquarters-with-amd-logo-on-top-of-building_amd_advance.jpg"
-        width: 2000
-        height: 1200
-        isCached: true
-  - title: "AMD Takes The Fight To Nvidia With Latest AI Chip Launch. Is The Stock A Buy At $116?"
-    excerpt: "Advanced Micro Devices stock (NASDAQ: AMD) hosted an event to unveil its latest chips tailor-made for the booming artificial intelligence (AI) market. The newly launched chips inc"
-    publishedDateTime: 2023-12-11T03:38:00Z
-    webUrl: "https://www.nasdaq.com/articles/amd-takes-the-fight-to-nvidia-with-latest-ai-chip-launch.-is-the-stock-a-buy-at-$116"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 57
-  - title: "AMD Is Set To Challenge Nvidia's Dominance And Amazon Is Going After Microsoft's Early-Start AI Advantage"
-    excerpt: "According to analysts, Nvidia Corporation (NASDAQ: NVDA) controls roughly 80% of the AI chip market, when including the custom processors built by companies such as Alphabet (NASDAQ: GOOG)-owned Googl"
-    publishedDateTime: 2023-12-11T18:23:00Z
-    webUrl: "https://www.benzinga.com/23/12/36183243/amd-is-set-to-challenge-nvidias-dominance-and-amazon-is-going-after-microsofts-early-start-ai-advant"
-    ampWebUrl: "https://www.benzinga.com/amp/content/36183243"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36183243"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 57
-    images:
-      - url: "https://cdn.benzinga.com/files/10163_0.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "US: Nvidia can sell AI chips to China, just not the best ones"
-    excerpt: "A smartphone with a displayed NVIDIA logo is placed on a computer motherboard in this illustration taken March 6, 2023. [Photo/Agencies] Nvidia can sell artificial intelligence chips to China, but just not \"the most sophisticated ones\","
-    publishedDateTime: 2023-12-12T03:43:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202312/12/WS6577d1f4a31040ac301a7559.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 54
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202312/12/6577d1f4a31040acaf8272a1.jpeg"
-        width: 1078
-        height: 718
-        isCached: true
-  - title: "US Walks Back Stern Warning To NVIDIA Over China-Bound AI Chips"
-    excerpt: "Potential buyers of NVIDIA's GeForce RTX 4090 can breathe a slight sigh of relief with news of leniency towards the GPU designer's AI GPUs. Why is that? Whe"
-    publishedDateTime: 2023-12-12T14:15:00Z
-    webUrl: "https://hothardware.com/news/us-walks-back-stern-warning-to-nvidia-over-china"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 54
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/63327/content/rog.jpg"
-        width: 708
-        height: 399
-        isCached: true
-  - title: "US in talks with Nvidia about AI chip sales to China"
-    excerpt: "The California-based artificial intelligence chip designer has commanded more than 90% share of China’s US$7 billion AI chip market, but analysts have said new US curbs on chip exports are likely to create opportunities for Chinese rivals to make inroads."
-    publishedDateTime: 2023-12-11T22:37:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/business/2023/12/12/us-in-talks-with-nvidia-about-ai-chip-sales-to-china/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 51
-  - title: "Nvidia chucking money at AI"
-    excerpt: "Nvidia has become one of the most prolific investors in AI start-ups this year as it tries to capitalise on its position as the dominant provider of AI processors. The chipmaker announced that it has invested in \"more than two dozen\" companies this year ..."
-    publishedDateTime: 2023-12-12T00:00:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/58094-nvidia-chucking-money-at-ai"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 37
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/e419c901bd7c1e26d7fe2d7de998fa93_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
-  - title: "China Firms Rush to Poach Nvidia Clients With AI Chip Offerings"
-    excerpt: "Chinese chip designers are rushing to chip away Nvidia’s market share at home with their own artificial intelligence (AI)-focused offerings."
-    publishedDateTime: 2023-12-11T20:04:00Z
-    webUrl: "https://cbonds.com/news/2625007/"
-    type: article
-    provider:
-      name: Cbonds
-      domain: cbonds.com
-    quality: 34
-  - title: "Beyond The Likes of Nvidia Corp and AMD, Chip Market Troubles Pose Threats After AI Euphoria"
-    excerpt: "Philadelphia Stock Exchange Semiconductor Index laggard Texas Instruments Inc., down 5.6% this year, has one of the broadest ranges of customers and products across the chip business. It said the key industrial market got weaker in the third quarter, contracting about 5%. Revenue related to communications components dropped more than 10%."
-    publishedDateTime: 2023-12-11T13:13:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/beyond-the-likes-of-nvidia-corp-and-amd-chip-market-troubles-pose-threats-after-ai-euphoria-71701965487763.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 23
-  - title: "How Nvidia approaches accelerating the AI ecosystem"
-    excerpt: "\"If you’re working in AI and accelerated computing right now, NVIDIA stands ready to help,\" the company said in its blog post. \"Developers across every industry in every country are building accelerated computing applications."
-    publishedDateTime: 2023-12-11T22:31:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2023/12/11/nvidia-startup-ecosystem-investment.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 8
 
 secured: "tc0SutG0MMooSUjOAxRvACyKRqdCX6NU0fg41WW5e87w1tLU5yFPVC4iZTmdrgeuq5kJtlp41OC/tuOV+KxCtcd1aSa3a4E1afBSAIWnHo8RTuegauOmQ5u6dRtZ6W+nwIB0Pm0xrLIdb5CJTYDYDCgQG8SoMnE3eOHceSroQeRddSU4G2ozWPu548PGD2aCHxjQqHDG2WA4pcxphdhWTZ76fA1bo2AB4vOFKfaNjA5djwxOnrr9RV/dxWLX3yGy+Tu6l92iTR1ejIJvPGrhwzlyUkFHxFVHnuL7adGoyFQc/n8cbxgIiE7x9qs8qz3B7hMZpGRJ9/2paKJwhf8WckN0cR/He6kSDHjiXU8iDd3NXFZwNH3VdmNKFXJF6wgPSAPggN8MqEFpdco7gz5fakS/HK1Vqxm0d44ECeWRF3eY07/OIVdvlOhpgmdNtPCZRyRokvRm2CaUkevRUMrAio0HHI+eJASe8ikKfAomQUiWnHRFdo1eM3Rfj5yyhsRnlo3WDLiPrQsCXJMkOPb2qA==;OkFIsEDxbBDvl+g0eIH0YA=="
 ---

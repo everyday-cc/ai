@@ -7,7 +7,7 @@ originalUrl: "https://cloudsecurityalliance.org/press-releases/2023/12/12/artifi
 webUrl: "https://cloudsecurityalliance.org/press-releases/2023/12/12/artificial-intelligence-leaders-partner-with-cloud-security-alliance-to-launch-the-ai-safety-initiative/"
 type: article
 quality: 53
-heat: 63
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Leaders Partner with Cloud Security Alliance to Launch the AI Safety Initiative"
-    excerpt: "The AI Safety Initiative is dedicated to crafting and openly sharing reliable guidelines for AI safety and security, initially concentrating on generative AI. It aims to equip customers, regardless of their size,"
-    publishedDateTime: 2023-12-12T14:43:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-leaders-partner-with-cloud-security-alliance-/2023/12/12/9932214.htm"
+  - title: "Scholarly initiative to boost SA’s AI research"
+    excerpt: "President Cyril Ramaphosa announces the Presidential PhD Initiative, with an initial R1 billion from the National Skills Fund."
+    publishedDateTime: 2023-12-13T12:25:00Z
+    webUrl: "https://www.itweb.co.za/content/WnxpE74YKoOMV8XL"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/WnxpE74YKoOMV8XL"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/WnxpE74YKoOMV8XL"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 33
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 59
+    images:
+      - url: "https://www.itweb.co.za/static/pictures/2023/12/Cyril-Ramaphosa-CSIR-2023.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "v6Ba1c4asI33s6wJc2Ac13S5Ut2AeAYazsY6vPo7SnNtsC7kTJAZnKNxs06vR5ro8PcLeGBgy6E2BU79qWX9E+gdWLbkPbNXZ7DzkPL1Ha4kKY8veSdvxT6RLo+A72034mZH0BJjk/NqkRkitZI24rPmFjZGt9YSlc4n6K077kdhyqkvrf+2zQAvHwMNS28JAG7YtqMqxyPot0A9Wup2cP2o5c/cnBE/ZfbLJ4/d++SguNUayH7TDA06oaYakwUoVSkHqP9FUP5AgEqPMtUqb9nIzFO+7S/808l9VZS3dMIN12Wgd8zXjnJxDVXl7JWecaCrSRZZH3rVMKhOBoIuVdCJSALfPYzve+j+6ywAc3c=;pntioz1t2gHSN0M7Q1f9rQ=="
 ---

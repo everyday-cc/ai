@@ -7,7 +7,7 @@ originalUrl: "https://www.indianweb2.com/2023/12/accenture-to-work-with-union-ba
 webUrl: "https://www.indianweb2.com/2023/12/accenture-to-work-with-union-bank-of.html"
 type: article
 quality: 63
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 590
         height: 400
         isCached: true
+  - title: "YTL and Nvidia to build AI data centre in Johor"
+    excerpt: "YTL Power International revealed on Friday that it will collaborate with GPU chip maker Nvidia to build an AI data centre in Malaysia by the middle of next year."
+    publishedDateTime: 2023-12-11T02:44:00Z
+    webUrl: "https://developingtelecoms.com/telecom-technology/data-centres-networks/15929-ytl-and-nvidia-to-build-ai-data-centre-in-johor.html"
+    type: article
+    provider:
+      name: developingtelecoms.com
+      domain: developingtelecoms.com
+    quality: 19
 
 secured: "MkcViC4CUsM4REiYCEJH8sHTpR7IS9K3WdYOOipMgU+RwdVlTNsg1nIeZZgdjSKHsQR0ifYY9QA8KWSTr8PHeL/MLiQUqCuEkyJ6PnYyTJ9UDaa2wMppPbzo/SereOTmz7vx3nENCVO3IYIq4Rx3OT9AwyOwjDGfOelDynYPfvXr/jE1M65FnqKhJ8r3XR1otZljE00yxof1ScRfu10B1Y1z0xCZgKvw+YUEUy7Giotvs1UPDyUkAkwmmWqnr6hbWNIR3KWEnp6/pDEEbkOLFBXRu/+NBZ/EP9ADRPyszWLdkzbptG6JvbDQYttD4AezX7JQ1+25bhcfsmxoPRb+NCCwI2jf/E6bgGLonXPu8lJ9JwfQjXOD3MIq2ZzlTwh0XhkbKYdHcF38C/6AHF5QIoQPY21L2r7Ea0SPjQI6yiwRJzF9zLqSQEnrtsw7X4/I9wjhR+LJfweboHaidGgOSxfW9yFkuQzdBfnsUisF+BrvHQTBPvnazKAtjEqsN6O7sKDfXsCxFq0fzah+i65fxQ==;UAf/46BOcWrog7SQ/Es4nw=="
 ---

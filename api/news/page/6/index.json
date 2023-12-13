@@ -2,6 +2,559 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-12-07-google-updates-bard-chatbot-with-gemini-ai-as-it-chases-chatgpt.md",
+      "title": "Google Updates Bard Chatbot With ‘Gemini’ A.I. as It Chases ChatGPT",
+      "excerpt": "After more than eight months of research and development, Google has unveiled its most powerful A.I. so far. But only parts of it are widely available.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/12/06/technology/google-ai-bard-chatbot-gemini.html",
+      "originalUrl": "https://www.nytimes.com/2023/12/06/technology/google-ai-bard-chatbot-gemini.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/12/07/multimedia/06JPgoogle-ai-print-fmgp/06google-ai-fmgp-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T19:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-07-self-driving-cars-a-revolution-in-safety-or-a-new-legal-battleground.md",
+      "title": "Self-Driving Cars: A Revolution in Safety or a New Legal Battleground?",
+      "excerpt": "While technology has failed to present us with the flying cars predicted decades ago, we have advanced to the point of self-driving vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.lawyer-monthly.com/2023/12/self-driving-cars-a-revolution-in-safety-or-a-new-legal-battleground/",
+      "originalUrl": "https://www.lawyer-monthly.com/2023/12/self-driving-cars-a-revolution-in-safety-or-a-new-legal-battleground/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lawyer-monthly.com/Lawyer-Monthly/wp-content/uploads/2023/12/brock-wegner-pWGUMQSWBwI-unsplash-1024x819.jpg",
+          "width": 1024,
+          "height": 819,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T19:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Lawyer Monthly",
+        "domain": "lawyer-monthly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-07-amd-is-taking-the-gloves-off-in-the-ai-arms-race.md",
+      "title": "AMD is taking the gloves off in the AI arms race",
+      "excerpt": "AMD looks ready to fight. At its Advancing AI event, the company finally launched its Instinct MI300X AI GPU, which we first heard about first a few months ago. The exciting development is the performance AMD is claiming compared to the green AI elephant in the room: Nvidia.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/amd-mi300x-gpu-launch/",
+      "originalUrl": "https://www.digitaltrends.com/computing/amd-mi300x-gpu-launch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/12/amd-mi300x-platform.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/amd-mi300x-gpu-launch/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/amd-mi300x-gpu-launch/?amp",
+      "publishedDateTime": "2023-12-06T19:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-07-ap-ais-future-could-be-open-source-or-closed-tech-giants-are-divided-as-they-lobby-regulators.md",
+      "title": "AP: AI’s future could be ‘open-source’ or closed. Tech giants are divided as they lobby regulators",
+      "excerpt": "SummaryTech leaders have been vocal proponents of the need to regulate artificial intelligence, but they're also lobbying hard to make sure the new rules work in their favor. That's not to say they al",
+      "sourceUrl": null,
+      "webUrl": "https://www.wmay.com/2023/12/06/ap-ais-future-could-be-open-source-or-closed-tech-giants-are-divided-as-they-lobby-regulators/",
+      "originalUrl": "https://www.wmay.com/2023/12/06/ap-ais-future-could-be-open-source-or-closed-tech-giants-are-divided-as-they-lobby-regulators/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/2047/2023/05/22095947/GETTY_52223_Meta436760.jpg",
+          "width": 630,
+          "height": 354,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.wmay.com/2023/12/06/ap-ais-future-could-be-open-source-or-closed-tech-giants-are-divided-as-they-lobby-regulators/?amp=1",
+      "cdnAmpWebUrl": "https://www-wmay-com.cdn.ampproject.org/c/s/www.wmay.com/2023/12/06/ap-ais-future-could-be-open-source-or-closed-tech-giants-are-divided-as-they-lobby-regulators/?amp=1",
+      "publishedDateTime": "2023-12-06T18:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "92.7 WMAY",
+        "domain": "wmay.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-07-google-deepminds-new-gemini-model-looks-amazingbut-could-signal-peak-ai-hype.md",
+      "title": "Google DeepMind’s new Gemini model looks amazing—but could signal peak AI hype",
+      "excerpt": "Gemini is Google’s biggest AI launch yet—its push to take on competitors OpenAI and Microsoft in the race for AI supremacy. There is no doubt that the model is pitched as best-in-class across a wide range of capabilities—an “everything machine,” as one observer puts it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2023/12/06/1084471/google-deepminds-new-gemini-model-looks-amazing-but-could-signal-peak-ai-hype/",
+      "originalUrl": "https://www.technologyreview.com/2023/12/06/1084471/google-deepminds-new-gemini-model-looks-amazing-but-could-signal-peak-ai-hype/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/12/gemini_mm_03.png?w=1920",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2023/12/06/1084471/google-deepminds-new-gemini-model-looks-amazing-but-could-signal-peak-ai-hype/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/06/1084471/google-deepminds-new-gemini-model-looks-amazing-but-could-signal-peak-ai-hype/amp/",
+      "publishedDateTime": "2023-12-06T18:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-07-qubit-by-qubit-the-quantum-computers-of-tomorrow-are-coming-into-being.md",
+      "title": "Qubit by qubit, the quantum computers of tomorrow are coming into being",
+      "excerpt": "A couple of weeks ago, I navigated the holiday traffic from New York to the town of Yorktown Heights in suburban Westchester County, the location of IBM’s Thomas J. Watson Research Center ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.vox.com/future-perfect/2023/12/6/23990752/quantum-computers-ibm-google-honeywell-china-supercomputer-artificial-intelligence?ref=mc.news",
+      "originalUrl": "https://www.vox.com/future-perfect/2023/12/6/23990752/quantum-computers-ibm-google-honeywell-china-supercomputer-artificial-intelligence?ref=mc.news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/6JbN24KRfG63q58FcwUNvn9WR9Y=/0x232:2048x1304/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25137951/53364318126_7899724546_k.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T18:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vox",
+        "domain": "vox.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/vox.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-problem-solving-shines-at-svvsds-inaugural-day-of-ai-event-in-longmont.md",
+      "title": "Problem-solving shines at SVVSD’s inaugural ‘Day of AI’ event in Longmont",
+      "excerpt": "On Saturday, Hubbell led a demonstration of an AWS DeepRacer, a mini self-driving car, which he said SVVSD uses to expose students to AI. “In this district, we use it as a tool to teach kids ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.timescall.com/2023/12/05/problem-solving-shines-at-svvsds-inaugural-day-of-ai-event-in-longmont/",
+      "originalUrl": "https://www.timescall.com/2023/12/05/problem-solving-shines-at-svvsds-inaugural-day-of-ai-event-in-longmont/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.timescall.com/wp-content/uploads/2023/12/DCC-L-AIDAY-01.jpg?w=1024&h=768",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.timescall.com/2023/12/05/problem-solving-shines-at-svvsds-inaugural-day-of-ai-event-in-longmont/amp/",
+      "cdnAmpWebUrl": "https://www-timescall-com.cdn.ampproject.org/c/s/www.timescall.com/2023/12/05/problem-solving-shines-at-svvsds-inaugural-day-of-ai-event-in-longmont/amp/",
+      "publishedDateTime": "2023-12-06T15:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Longmont Times-Call",
+        "domain": "timescall.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-how-seeing-ai-focuses-on-large-vision-models.md",
+      "title": "How ‘Seeing’ AI Focuses On Large Vision Models",
+      "excerpt": "Driving AI into the image space is Landing AI, a computer vision cloud company that specializes in building what it calls domain-specific Large Vision Models (LVMs).",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/12/06/how-seeing-ai-focuses-on-large-vision-models/",
+      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/12/06/how-seeing-ai-focuses-on-large-vision-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65708d09e3f65bfb1710cfce/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/12/06/how-seeing-ai-focuses-on-large-vision-models/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/12/06/how-seeing-ai-focuses-on-large-vision-models/amp/",
+      "publishedDateTime": "2023-12-06T15:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-liquid-ai-a-new-mit-spinoff-wants-to-build-an-entirely-new-type-of-ai.md",
+      "title": "Liquid AI, a new MIT spinoff, wants to build an entirely new type of AI",
+      "excerpt": "An MIT spinoff co-founded by robotics luminary Daniela Rus aims to build general ... So what exactly does Liquid AI the startup hope to achieve with this powerful new(ish) architecture? Plain and simple, commercialization. One presumes work will continue ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/12/06/liquid-ai-a-new-mit-spinoff-wants-to-build-an-entirely-new-type-of-ai/",
+      "originalUrl": "https://techcrunch.com/2023/12/06/liquid-ai-a-new-mit-spinoff-wants-to-build-an-entirely-new-type-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-8-best-artificial-intelligence-etfs-to-invest-in.md",
+      "title": "8 Best Artificial Intelligence ETFs To Invest In",
+      "excerpt": "Global X Artificial Intelligence and Technology ETF (AIQ) Global X Robotics and Artificial Intelligence ETF (BOTZ) Global X Artificial Intelligence and Technology ETF (Nasdaq: AIQ) has returned 47 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/8-best-artificial-intelligence-etfs-205332104.html",
+      "originalUrl": "https://www.aol.com/8-best-artificial-intelligence-etfs-205332104.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/dGRN4QGQPzon723VUNgqLA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/8b9eb79f9593d38fcbba2c62865b289d",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T14:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-ibm-announces-global-call-for-code-artificial-intelligence-hackathon-winners.md",
+      "title": "IBM announces global Call for Code artificial intelligence hackathon winners",
+      "excerpt": "The David Clark Cause, IBM, the United Nations Human Rights Office of the Commissioner and the Linux Foundation announced the winners of the 2023 Call for Code hackathon on Dec. 6.",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/news/ibm-announces-global-call-for-code-artificial-intelligence-hackathon-winners",
+      "originalUrl": "https://cointelegraph.com/news/ibm-announces-global-call-for-code-artificial-intelligence-hackathon-winners",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-driverless-cars-were-the-future-but-now-the-truth-is-out-theyre-on-the-road-to-nowhere.md",
+      "title": "Driverless cars were the future but now the truth is out: they’re on the road to nowhere",
+      "excerpt": "The dream of these vehicles ruling the roads remains just that. Focusing on public transport would be much smarter, says transport writer Christian Wolmar",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/commentisfree/2023/dec/06/driverless-cars-future-vehicles-public-transport?ref=biztoc.com",
+      "originalUrl": "https://www.theguardian.com/commentisfree/2023/dec/06/driverless-cars-future-vehicles-public-transport?ref=biztoc.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/5291364373b5744b4612a080ab6c07e5252e7884/0_117_3500_2100/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=0ee4f3d02bf13739c3b2f02182e21827",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/commentisfree/2023/dec/06/driverless-cars-future-vehicles-public-transport",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/dec/06/driverless-cars-future-vehicles-public-transport",
+      "publishedDateTime": "2023-12-06T12:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-06-augmenting-human-capabilities-with-ai-and-computer-vision-for-healthcare.md",
       "title": "Augmenting Human Capabilities With AI And Computer Vision For Healthcare",
       "excerpt": "AI and CV are transforming modern healthcare, making it more accessible and accurate. The healthcare industry has been applying CV since the 20th century through the use of medical imaging. However, current solutions allowed it to evolve and improve.",
@@ -563,49 +1116,6 @@
       ]
     },
     {
-      "path": "_news/2023-12-06-problem-solving-shines-at-svvsds-inaugural-day-of-ai-event-in-longmont.md",
-      "title": "Problem-solving shines at SVVSD’s inaugural ‘Day of AI’ event in Longmont",
-      "excerpt": "The St. Vrain Valley School District Innovation Center of brought the community together on Saturday to show what artificial intelligence is capable of during the district’s first “Day of AI”",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailycamera.com/2023/12/05/problem-solving-shines-at-svvsds-inaugural-day-of-ai-event-in-longmont/",
-      "originalUrl": "https://www.dailycamera.com/2023/12/05/problem-solving-shines-at-svvsds-inaugural-day-of-ai-event-in-longmont/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dailycamera.com/wp-content/uploads/2023/12/DCC-L-AIDAY-01.jpg?w=1024&h=768",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.dailycamera.com/2023/12/05/problem-solving-shines-at-svvsds-inaugural-day-of-ai-event-in-longmont/amp/",
-      "cdnAmpWebUrl": "https://www-dailycamera-com.cdn.ampproject.org/c/s/www.dailycamera.com/2023/12/05/problem-solving-shines-at-svvsds-inaugural-day-of-ai-event-in-longmont/amp/",
-      "publishedDateTime": "2023-12-06T01:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Camera",
-        "domain": "dailycamera.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-12-06-artificial-intelligence-makes-gripping-more-intuitive.md",
       "title": "Artificial intelligence makes gripping more intuitive",
       "excerpt": "“These are movements that the patient has to learn during rehabilitation,” says Cristina Piazza, a professor of rehabilitation and assistive robotics at TUM. Now, Prof. Piazza’s research team has shown that artificial intelligence can enable patients ...",
@@ -645,481 +1155,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-aws-announces-amazon-q-to-reimagine-the-future-of-work.md",
-      "title": "AWS announces Amazon Q to reimagine the future of work",
-      "excerpt": "Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced Amazon Q, a new type of generative artificial intelligence-(AI) powered assistant that is specifically for work and can be tailored to a customer’s business. Customers can get fast ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/companies-news/aws-announces-amazon-q-to-reimagine-the-future-of-work-p6vg94yf",
-      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/aws-announces-amazon-q-to-reimagine-the-future-of-work-p6vg94yf",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/view/acePublic/alias/contentid/N2IxMDA4ZjQtMTJiNi00/0/amazon-q-business-image-png.jpeg?f=3%3A2",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/aws-announces-amazon-q-to-reimagine-the-future-of-work-p6vg94yf?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/aws-announces-amazon-q-to-reimagine-the-future-of-work-p6vg94yf?amp=1",
-      "publishedDateTime": "2023-12-06T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-google-gemini-upgrade-means-bard-ai-outperforms-free-version-of-chatgpt.md",
-      "title": "Google: Gemini Upgrade Means Bard AI Outperforms Free Version of ChatGPT",
-      "excerpt": "Google is going after OpenAI's chatbot with a new 'Gemini Pro' model. A more powerful 'Gemini Ultra' model will arrive early next year through a new 'Bard Advanced' tier. I've been with PCMag ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/google-gemini-upgrade-means-bard-ai-outperforms-free-version-of-chatgpt",
-      "originalUrl": "https://www.pcmag.com/news/google-gemini-upgrade-means-bard-ai-outperforms-free-version-of-chatgpt",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-06T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-meta-and-microsoft-say-they-will-buy-amds-new-ai-chip-as-an-alternative-to-nvidia.md",
-      "title": "Meta and Microsoft say they will buy AMD's new AI chip as an alternative to Nvidia",
-      "excerpt": "If AMD's latest high-end chip, MI300X, is good enough and inexpensive enough for the technology companies and cloud service providers building and serving AI models when it starts shipping early next year, it could lower costs for developing AI models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcmiami.com/news/national-international/meta-and-microsoft-say-they-will-buy-amds-new-ai-chip-as-an-alternative-to-nvidia/3177752/",
-      "originalUrl": "https://www.nbcmiami.com/news/national-international/meta-and-microsoft-say-they-will-buy-amds-new-ai-chip-as-an-alternative-to-nvidia/3177752/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nbcmiami.com/2023/12/107255926-1686678111756-gettyimages-1454302971-_8db0157_d7a2aa99-cd40-4c93-8ff3-89725b36c318-3.jpeg?quality=85&strip=all&resize=1200%2C675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcmiami.com/news/business/money-report/meta-and-microsoft-say-they-will-buy-amds-new-ai-chip-as-an-alternative-to-nvidia/3177752/?amp=1",
-      "cdnAmpWebUrl": "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/news/business/money-report/meta-and-microsoft-say-they-will-buy-amds-new-ai-chip-as-an-alternative-to-nvidia/3177752/?amp=1",
-      "publishedDateTime": "2023-12-06T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC 6 South Florida",
-        "domain": "nbcmiami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-red-hat-cofounder-bob-young-invests-in-new-liquid-neural-network-ai-startup.md",
-      "title": "Red Hat cofounder Bob Young invests in new ‘liquid neural network’ AI startup",
-      "excerpt": "RESEARCH TRIANGLE PARK – Red Hat cofounder and Triangle tech legend Bob Young is making a new investment play, this time in artificial intelligence ... is based on what’s called a liquid neural network. Here’s how MIT describes the technology ...",
-      "sourceUrl": null,
-      "webUrl": "https://wraltechwire.com/2023/12/06/red-hat-cofounder-bob-young-invests-in-new-liquid-neural-network-ai-startup/",
-      "originalUrl": "https://wraltechwire.com/2023/12/06/red-hat-cofounder-bob-young-invests-in-new-liquid-neural-network-ai-startup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wraltechwire.com/wp-content/uploads/2019/04/BobYoung_5_HR-e1555938946676.jpg",
-          "width": 2922,
-          "height": 1643,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://wraltechwire.com/2023/12/06/red-hat-cofounder-bob-young-invests-in-new-liquid-neural-network-ai-startup/?amp=1",
-      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/12/06/red-hat-cofounder-bob-young-invests-in-new-liquid-neural-network-ai-startup/?amp=1",
-      "publishedDateTime": "2023-12-06T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL TechWire",
-        "domain": "wraltechwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-the-best-robot-vacuums-for-2023.md",
-      "title": "The best robot vacuums for 2023",
-      "excerpt": "Just say “Alexa” or “OK, Google, ask Roomba to start cleaning,” and your S9 ... of debris before needing to be emptied, impressive AI navigation skills, and support for Alexa, Siri ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/home/best-robot-vacuums/",
-      "originalUrl": "https://www.digitaltrends.com/home/best-robot-vacuums/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2021/06/eufy-robovac-g30-verge.jpeg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/home/best-robot-vacuums/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-robot-vacuums/?amp",
-      "publishedDateTime": "2023-12-06T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-former-tesla-worker-claims-companys-self-driving-tech-is-not-safe-for-public-roads.md",
-      "title": "Former Tesla worker claims company's self-driving tech is not safe for public roads",
-      "excerpt": "A former Tesla worker claims the electric car giant’s self ... driving technology is not safe enough to be used on public roads. Whistleblower Lukasz Krupski has raised fresh concerns about ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mirror.co.uk/news/us-news/former-tesla-worker-claims-companys-31605614",
-      "originalUrl": "https://www.mirror.co.uk/news/us-news/former-tesla-worker-claims-companys-31605614",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2-prod.mirror.co.uk/incoming/article31605559.ece/ALTERNATES/s1200/0_Tesla-Introduces-Self-Driving-Features-With-Software-Upgrade.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.mirror.co.uk/news/us-news/former-tesla-worker-claims-companys-31605614.amp",
-      "cdnAmpWebUrl": "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/us-news/former-tesla-worker-claims-companys-31605614.amp",
-      "publishedDateTime": "2023-12-05T22:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Mirror",
-        "domain": "mirror.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-driving-expert-uses-artificial-intelligence-to-predict-how-cars-will-appear-in-the-future.md",
-      "title": "Driving expert uses artificial intelligence to predict how cars will appear in the future",
-      "excerpt": "As artificial intelligence becomes more capable ... cars will be like in the future is very lively – there is often news about how close we are to self-driving cars, or even cars that can fly. “However, it’s not easy to imagine how this highly ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.express.co.uk/life-style/cars/1842479/artificial-intelligence-future-vehicle-technology",
-      "originalUrl": "https://www.express.co.uk/life-style/cars/1842479/artificial-intelligence-future-vehicle-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.images.express.co.uk/img/dynamic/24/590x/1842519_1.jpg",
-          "width": 590,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.express.co.uk/life-style/cars/1842479/artificial-intelligence-future-vehicle-technology/amp",
-      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/cars/1842479/artificial-intelligence-future-vehicle-technology/amp",
-      "publishedDateTime": "2023-12-05T22:48:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Express",
-        "domain": "express.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-dhs-seeks-information-for-cisa-analytics-and-machine-learning-project.md",
-      "title": "DHS seeks information for CISA analytics and machine learning project",
-      "excerpt": "The agency’s Office of Mission and Capability Support aims to better understand the “capabilities of businesses that could supply access to” the three commercial cloud providers that support the CAP-M project.",
-      "sourceUrl": null,
-      "webUrl": "https://fedscoop.com/dhs-cisa-machine-learning-analytics-rfi/",
-      "originalUrl": "https://fedscoop.com/dhs-cisa-machine-learning-analytics-rfi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fedscoop.com/wp-content/uploads/sites/5/2019/03/dhs-rsa-2019.jpg?w=600",
-          "width": 600,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T22:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FedScoop",
-        "domain": "fedscoop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-undersea-robot-startup-founded-by-nasa-engineer-ejects-clo.md",
-      "title": "Undersea-Robot Startup Founded by NASA Engineer Ejects CLO",
-      "excerpt": "The chief legal and administrative officer for an undersea robotics company founded by a NASA robotics engineer is one of two executives the company recently dismissed, according to a regulatory filing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.law.com/texaslawyer/2023/12/04/undersea-robot-startup-founded-by-nasa-engineer-terminates-clo/",
-      "originalUrl": "https://www.law.com/texaslawyer/2023/12/04/undersea-robot-startup-founded-by-nasa-engineer-terminates-clo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.law.com/contrib/content/uploads/sites/390/2023/12/Oil-rigs-767x633.jpg",
-          "width": 767,
-          "height": 633,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T21:37:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law",
-        "domain": "law.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-ai-technique-designed-to-advance-understanding-of-neural-circuits.md",
-      "title": "AI Technique Designed to Advance Understanding of Neural Circuits",
-      "excerpt": "The new method is able to identify neurons whether they are represented in images as individual points or as 3D volumes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.genengnews.com/topics/artificial-intelligence/ai-technique-designed-to-advance-understanding-of-neural-circuits/",
-      "originalUrl": "https://www.genengnews.com/topics/artificial-intelligence/ai-technique-designed-to-advance-understanding-of-neural-circuits/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T21:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GEN",
-        "domain": "genengnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-meta-and-ibm-launch-ai-alliance.md",
-      "title": "Meta and IBM Launch AI Alliance",
-      "excerpt": "While IBM’s own history in AI has been marred by the failure of its Watson system, Gil said its new Watsonx system is an entirely new platform. Like IBM, Meta has developed its own AI models ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/ai/meta-and-ibm-launch-ai-alliance-11701767465453.html",
-      "originalUrl": "https://www.livemint.com/ai/meta-and-ibm-launch-ai-alliance-11701767465453.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.livemint.com/lm-img/img/2023/12/05/1600x900/im-895513_1701767469971_1701767518491.jpg",
-          "width": 1600,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/ai/meta-and-ibm-launch-ai-alliance/amp-11701767465453.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/meta-and-ibm-launch-ai-alliance/amp-11701767465453.html",
-      "publishedDateTime": "2023-12-05T20:13:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

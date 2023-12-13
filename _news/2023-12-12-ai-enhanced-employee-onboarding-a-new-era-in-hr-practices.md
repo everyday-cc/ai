@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/12/12/ai-enhanced-empl
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/12/12/ai-enhanced-employee-onboarding-a-new-era-in-hr-practices/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1600
     height: 900
     isCached: true
-
-related:
-  - title: "Fintech Airwallex Releases Data on Impact of Generative AI Tool that Enhances Efficacy of KYC and Onboarding Processes"
-    excerpt: "Airwallex shared data on the impact of a new generative AI tool that enhances the speed and efficacy of its KYC and onboarding processes."
-    publishedDateTime: 2023-12-08T12:49:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/12/217670-fintech-airwallex-releases-data-on-impact-of-generative-ai-tool-that-enhances-efficacy-of-kyc-and-onboarding-processes/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/12/217670-fintech-airwallex-releases-data-on-impact-of-generative-ai-tool-that-enhances-efficacy-of-kyc-and-onboarding-processes/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/12/217670-fintech-airwallex-releases-data-on-impact-of-generative-ai-tool-that-enhances-efficacy-of-kyc-and-onboarding-processes/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 35
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/01/AML-KYC.jpg"
-        width: 1200
-        height: 1067
-        isCached: true
 
 secured: "RmZlc9OUx5RwIegqf8Pn5Od80UDZ2pPmJYEIH6qR8iEacFV8W3wv5qN7SAFwEazqgvevrmRSkJ5cnbiEClWlfk6T+Hqy9krAE7hk/fejWM1mg2qag0hS4XisAX692mdSzrfRXOm8Ujjqk3TMwmDe0ZZeeCSGraqi0VblBADMwc5ypyDkPlACx2vWfgwjherURcrbdv0OvCO9uC5biC+aXlWiG8i9MZTpSzAbCqUkzHshCA83QDCcbv1Kx3Jc5gHe102DqCiK9NPEd6Snuxddk6g0B/+y24K+e968/Vjcpxx2y8jmaaq7Vp61AIMGezOJjmaEUrb0AN1StTbzZEzeD5rpTY0tbqRXYMIka57Hr7yH9Q5DAACyuM0gp+yLZiDwSovwRzYRgSgsAOwPAvYD2fjl6jMnmK2+Q7zm5HGDaa5g/fGNG5kcijCNYRIxewPAsRb+AuILUNRGsS/mreMkzR7xujbEhIRtO2szKG5BwIQwdTHh33chw2PO3zcCj6B85aENnT0xGLNywVtvGmGiVQ==;r465NtpVbeQnM8B88SFLOg=="
 ---

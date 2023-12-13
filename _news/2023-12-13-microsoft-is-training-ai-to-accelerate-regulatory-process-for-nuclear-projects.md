@@ -60,6 +60,22 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 64
+  - title: "AMD Is Set To Challenge Nvidia's Dominance And Amazon Is Going After Microsoft's Early-Start AI Advantage"
+    excerpt: "According to analysts, Nvidia Corporation (NASDAQ: NVDA) controls roughly 80% of the AI chip market, when including the custom processors built by companies such as Alphabet (NASDAQ: GOOG)-owned Googl"
+    publishedDateTime: 2023-12-11T18:23:00Z
+    webUrl: "https://www.benzinga.com/23/12/36183243/amd-is-set-to-challenge-nvidias-dominance-and-amazon-is-going-after-microsofts-early-start-ai-advant"
+    ampWebUrl: "https://www.benzinga.com/amp/content/36183243"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36183243"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
+    images:
+      - url: "https://cdn.benzinga.com/files/10163_0.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Microsoft releases Phi-2, a small language model AI that outperforms Llama 2, Mistral 7B"
     excerpt: "Microsoft researchers also noted in their blog post on the Phi-2 release that it outperforms Google's brand new Gemini Nano 2 model."
     publishedDateTime: 2023-12-12T18:01:00Z
@@ -82,6 +98,20 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/c303384/2147483647/strip/true/crop/2000x1050+0+218/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd9%2Fc8%2F51d3b04f402cbe775fac74266e80%2Fmicrosoft-openai-75424.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Microsoft’s Phi-2: a small AI model that competes with LLMs from Google, Meta"
+    excerpt: "A compact AI model with outputs that rival those of LLMs from Meta and Google. That's the promise Microsoft is making with its newly announced Phi-2, a"
+    publishedDateTime: 2023-12-13T11:31:00Z
+    webUrl: "https://www.techzine.eu/blogs/applications/114310/microsofts-phi-2-a-small-ai-model-that-competes-with-llms-from-google-meta/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 51
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2022/12/Microsoft_unsplash.jpg"
+        width: 1920
+        height: 1280
         isCached: true
   - title: "Microsoft Believes Indian Tech Firms Will Play A Key Role In AI Development, Adoption Globally"
     excerpt: "The world's largest vendor of computer software, Microsoft is working with India's IT and ITeS companies in multiple markets to facilitate AI implementation."

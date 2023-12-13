@@ -19,22 +19,98 @@ topics:
   - AI
 
 related:
-  - title: "Here’s How The Famous Dodo Verdict Or Tie Score Effect In Mental Health Therapy Can Astutely Leverage Generative AI"
-    excerpt: "There is a famous controversy known as the Dodo bird verdict regarding mental health therapies. I introduce the matter and discuss how generative AI comes into play."
-    publishedDateTime: 2023-12-11T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/12/11/heres-how-the-famous-dodo-verdict-or-tie-score-effect-in-mental-health-therapy-can-astutely-leverage-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/12/11/heres-how-the-famous-dodo-verdict-or-tie-score-effect-in-mental-health-therapy-can-astutely-leverage-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/12/11/heres-how-the-famous-dodo-verdict-or-tie-score-effect-in-mental-health-therapy-can-astutely-leverage-generative-ai/amp/"
+  - title: "AI In Healthcare: Are People Losing Or Gaining Control?"
+    excerpt: "In healthcare and beyond, the rise of artificial intelligence should give pause to both businesses and consumers—even as we learn to move forward."
+    publishedDateTime: 2023-12-13T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/13/ai-in-healthcare-are-people-losing-or-gaining-control/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/13/ai-in-healthcare-are-people-losing-or-gaining-control/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/13/ai-in-healthcare-are-people-losing-or-gaining-control/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 84
+    quality: 104
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6576b7e44e4ea706c2e5def1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
+      - url: "https://imageio.forbes.com/specials-images/imageserve/651ae5f9c817fd613f5f0e9c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
         height: 900
         isCached: true
+  - title: "‘India to soon launch AI missions for agriculture, healthcare’: PM Modi at GPAI Summit 2023"
+    excerpt: "While inaugurating the GPAI or Global Partnership on Artificial Intelligence Summit, 2023, Prime Minister Narendra Modi announced that the government will soon launch AI missions, focussing on healthcare and agriculture,"
+    publishedDateTime: 2023-12-13T04:26:00Z
+    webUrl: "https://www.firstpost.com/tech/india-to-launch-ai-missions-soon-for-agriculture-healthcare-pm-modi-at-gpai-summit-2023-13497832.html"
+    ampWebUrl: "https://www.firstpost.com/tech/india-to-launch-ai-missions-soon-for-agriculture-healthcare-pm-modi-at-gpai-summit-2023-13497832.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/india-to-launch-ai-missions-soon-for-agriculture-healthcare-pm-modi-at-gpai-summit-2023-13497832.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 66
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2023/12/Untitled-1-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Artificial Intelligence in Healthcare: 3 Stocks Transforming the Industry"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence is being applied across the healthcare sector to"
+    publishedDateTime: 2023-12-11T13:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-3-stocks-transforming-the-industry-1032889408"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
+  - title: "Mediverse: Making Healthcare Accessible For All Using Artificial Intelligence"
+    excerpt: "In line with this aim, dynamic healthtech startup Mediverse is taking advantage of the ever-evolving healthcare landscape and harnessing the power of Artificial Intelligence (AI) to improve patient care and accessibility. Mediverse's primary vision is to ..."
+    publishedDateTime: 2023-12-13T09:46:00Z
+    webUrl: "https://www.malaysiakini.com/announcement/689914"
+    type: article
+    provider:
+      name: Malaysiakini
+      domain: malaysiakini.com
+    quality: 51
+    images:
+      - url: "https://i.newscdn.net/publisher-c1a3f893382d2b2f8a9aa22a654d9c97/2023/12/0717e02267a9af17f64dd8e1368f74c1.png"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Revolutionizing Healthcare: Exploring the AI Advancements Discussed at the Medicine Conference 2024"
+    excerpt: "Welcome to our blog, where we delve into the mind-blowing realm of healthcare revolution! Today, we transport you to the captivating world of Medicine Conference 2024, where groundbreaking advancements in artificial intelligence (AI) are pushing the limits of what is possible."
+    publishedDateTime: 2023-12-12T18:37:00Z
+    webUrl: "https://techbullion.com/revolutionizing-healthcare-exploring-the-ai-advancements-discussed-at-the-medicine-conference-2024/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 40
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/Healthcare.jpg"
+        width: 1000
+        height: 500
+        isCached: true
+  - title: "AI in health care: Leaders urge Congress to set rules for the industry"
+    excerpt: "Health care leaders urged Congress at a hearing to pass regulations on the use of artificial intelligence in the industry, addressing the “limitless” capabilities of the new technology as well as the potential biases it can produce."
+    publishedDateTime: 2023-12-12T16:26:00Z
+    webUrl: "https://www.benefitspro.com/2023/12/12/ai-in-health-care-leaders-urge-congress-to-set-rules-for-the-industry/"
+    type: article
+    provider:
+      name: Benefits Pro
+      domain: benefitspro.com
+    quality: 39
+    images:
+      - url: "https://images.benefitspro.com/contrib/content/uploads/sites/412/2023/12/Congress-Article-202312111511.jpg"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Revolutionizing Healthcare: Exploring the Impact and Future of Large Language Models in Medicine"
+    excerpt: "Explore the transformative impact of Large Language Models like Google's Med-PaLM 2 and EPFL's Meditron in healthcare, examining their applications, challenges, and potential in enhancing patient care"
+    publishedDateTime: 2023-12-08T16:16:00Z
+    webUrl: "https://www.unite.ai/revolutionizing-healthcare-exploring-the-impact-and-future-of-large-language-models-in-medicine/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 8
 
 secured: "KwVvdfTZ9kjlANBZuP4zE6XowNBJclSFI2N5g1OR0+MJfSOPDT0tnr9YjXCY7rneUkjTMqlTIzgU+lz70m7yTRDj5Fuim/wU/nNNELk4ZniI/VMq2GiZ2kBtUOlb2Bp+MTpxvyCGY6swd0N8tmuaGPN+Xm27fsswlRmOYZPSTJzK2IiJ7fdHXb7dQ/yGr8fr6TSenqzRybbfBHPfENppqpXlOX/F5590qzMY3O0ikNyQLJXh0S+UR57UP5eAbURmSgP0ZYLfIO1WrOw67vCzFAyI+UtQPhHG9sMJN0hQYw4Dead/4La4CLHRed8VBDiWhe9SKLhQairbvWZ2b3A6q6bi+lXMo1D9nNsRyH5u413K/MWNP1nkKCEBRbzd9rGKG4fTWkB3nqDd1DEi5rUWXwjMXYAsxKCYDTDNXUzDy2g4LyR7mVWwUQSk7vfzT0uAmc+ujvfotJEmbZbig1DXlvCK7St/OWDSVp6pr4lfaTTtNhaow64MbIWX90ILcWopcfrg8COwJ9Iq19fZ1scb2A==;Rrm3q/v3TjLzkML8rg7awA=="
 ---

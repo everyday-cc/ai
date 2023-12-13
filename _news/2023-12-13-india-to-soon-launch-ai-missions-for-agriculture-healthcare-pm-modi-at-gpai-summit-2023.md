@@ -28,63 +28,91 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Summit: PM Modi Calls For Global Framework On Ethical Use, Warns Against Misuse"
-    excerpt: "Speaking at the Global Partnership on Artificial Intelligence Summit, PM Narendra Modi said India is firmly committed to responsible and ethical use of AI. He also also emphasised on the need for a global framework for ethical use of AI."
-    publishedDateTime: 2023-12-13T05:18:00Z
-    webUrl: "https://www.outlookindia.com/national/artificial-intelligence-summit-pm-modi-calls-for-global-framework-on-ethical-use-warns-against-misuse-news-336130"
-    ampWebUrl: "https://www.outlookindia.com/national/artificial-intelligence-summit-pm-modi-calls-for-global-framework-on-ethical-use-warns-against-misuse-news-336130/amp"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/national/artificial-intelligence-summit-pm-modi-calls-for-global-framework-on-ethical-use-warns-against-misuse-news-336130/amp"
+  - title: "AI In Healthcare: Are People Losing Or Gaining Control?"
+    excerpt: "In healthcare and beyond, the rise of artificial intelligence should give pause to both businesses and consumers—even as we learn to move forward."
+    publishedDateTime: 2023-12-13T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/13/ai-in-healthcare-are-people-losing-or-gaining-control/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/13/ai-in-healthcare-are-people-losing-or-gaining-control/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/13/ai-in-healthcare-are-people-losing-or-gaining-control/amp/"
     type: article
     provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 75
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_1/IMAGE_1646301380.jpg"
-        width: 640
-        height: 360
+      - url: "https://imageio.forbes.com/specials-images/imageserve/651ae5f9c817fd613f5f0e9c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "GPAI Summit: All you need to know about global meet on Artificial Intelligence"
-    excerpt: "Apart from providing a forum for multiple stakeholders to thrash out issues around AI, the event will also give a chance for lesser-known startups to showcase their achievements"
-    publishedDateTime: 2023-12-12T01:57:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/gpai-summit-all-you-need-to-know-about-global-meet-on-artificial-intelligence-11888961.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/gpai-summit-all-you-need-to-know-about-global-meet-on-artificial-intelligence-11888961.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/gpai-summit-all-you-need-to-know-about-global-meet-on-artificial-intelligence-11888961.html/amp"
+  - title: "Artificial Intelligence in Healthcare: 3 Stocks Transforming the Industry"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence is being applied across the healthcare sector to"
+    publishedDateTime: 2023-12-11T13:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-3-stocks-transforming-the-industry-1032889408"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 70
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
+  - title: "Mediverse: Making Healthcare Accessible For All Using Artificial Intelligence"
+    excerpt: "In line with this aim, dynamic healthtech startup Mediverse is taking advantage of the ever-evolving healthcare landscape and harnessing the power of Artificial Intelligence (AI) to improve patient care and accessibility. Mediverse's primary vision is to ..."
+    publishedDateTime: 2023-12-13T09:46:00Z
+    webUrl: "https://www.malaysiakini.com/announcement/689914"
+    type: article
+    provider:
+      name: Malaysiakini
+      domain: malaysiakini.com
+    quality: 51
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/09/Artificial-Intelligence.png"
-        width: 1280
-        height: 720
+      - url: "https://i.newscdn.net/publisher-c1a3f893382d2b2f8a9aa22a654d9c97/2023/12/0717e02267a9af17f64dd8e1368f74c1.png"
+        width: 1000
+        height: 600
         isCached: true
-  - title: "PM Modi Calls For Global Framework On Ethical Use Of AI; Warns Misuse Can Be Destructive Force"
-    excerpt: "Speaking at the Global Partnership on Artificial Intelligence Summit, Modi said India is firmly committed to responsible and ethical use of AI."
-    publishedDateTime: 2023-12-13T04:45:00Z
-    webUrl: "https://www.outlookindia.com/national/pm-modi-calls-for-global-framework-on-ethical-use-of-ai-warns-misuse-can-be-destructive-force-news-336091"
-    ampWebUrl: "https://www.outlookindia.com/national/pm-modi-calls-for-global-framework-on-ethical-use-of-ai-warns-misuse-can-be-destructive-force-news-336091/amp"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/national/pm-modi-calls-for-global-framework-on-ethical-use-of-ai-warns-misuse-can-be-destructive-force-news-336091/amp"
+  - title: "Revolutionizing Healthcare: Exploring the AI Advancements Discussed at the Medicine Conference 2024"
+    excerpt: "Welcome to our blog, where we delve into the mind-blowing realm of healthcare revolution! Today, we transport you to the captivating world of Medicine Conference 2024, where groundbreaking advancements in artificial intelligence (AI) are pushing the limits of what is possible."
+    publishedDateTime: 2023-12-12T18:37:00Z
+    webUrl: "https://techbullion.com/revolutionizing-healthcare-exploring-the-ai-advancements-discussed-at-the-medicine-conference-2024/"
     type: article
     provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 62
+      name: Impacts
+      domain: techbullion.com
+    quality: 40
     images:
-      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1701749704.jpg"
-        width: 1200
-        height: 675
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/Healthcare.jpg"
+        width: 1000
+        height: 500
         isCached: true
-  - title: "PM Modi to Inaugurate the Annual Global Partnership on Artificial Intelligence (GPAI) Summit Tomorrow"
-    excerpt: "India's Prime Minister Narendra Modi will inaugurate the Global Partnership on Artificial Intelligence (GPAI) Summit, at Bharat Mandapam, New Delhi on"
-    publishedDateTime: 2023-12-11T14:39:00Z
-    webUrl: "https://www.indianweb2.com/2023/12/pm-modi-to-inaugurate-annual-global.html"
+  - title: "AI in health care: Leaders urge Congress to set rules for the industry"
+    excerpt: "Health care leaders urged Congress at a hearing to pass regulations on the use of artificial intelligence in the industry, addressing the “limitless” capabilities of the new technology as well as the potential biases it can produce."
+    publishedDateTime: 2023-12-12T16:26:00Z
+    webUrl: "https://www.benefitspro.com/2023/12/12/ai-in-health-care-leaders-urge-congress-to-set-rules-for-the-industry/"
     type: article
     provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 17
+      name: Benefits Pro
+      domain: benefitspro.com
+    quality: 39
+    images:
+      - url: "https://images.benefitspro.com/contrib/content/uploads/sites/412/2023/12/Congress-Article-202312111511.jpg"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "How AI therapy is filling gaps in mental health care"
+    excerpt: "And for some users, they’ve been beneficial. 80 percent of people who used ChatGPT for mental health advice reported it was a good alternative for therapy, according to Business Wire. The majority of Americans don’t believe AI therapy will help more than it hurts, but that’s not stopping innovations in artificial intelligence and therapy."
+    publishedDateTime: 2023-12-11T03:35:00Z
+    webUrl: "https://www.boisestatepublicradio.org/2023-12-10/how-ai-therapy-is-filling-gaps-in-mental-health-care"
+    type: article
+    provider:
+      name: Boise State Public Radio
+      domain: boisestatepublicradio.org
+    quality: 34
+  - title: "Revolutionizing Healthcare: Exploring the Impact and Future of Large Language Models in Medicine"
+    excerpt: "Explore the transformative impact of Large Language Models like Google's Med-PaLM 2 and EPFL's Meditron in healthcare, examining their applications, challenges, and potential in enhancing patient care"
+    publishedDateTime: 2023-12-08T16:16:00Z
+    webUrl: "https://www.unite.ai/revolutionizing-healthcare-exploring-the-impact-and-future-of-large-language-models-in-medicine/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 8
 
 secured: "bnSBHP9GceQORrN7i/Wjx6wQq3OkC+dBWaZI8Dq7APTWMkbwzP9+8dEv3lOKilE8ApR50V/XYIJlt57sUyylYph0rUcMlYw9onhL7LMEcpHOVcghgIXnOdQO0uXiZTXebi7K1qVwTpXJyGP3kK88M8MxLchrRP78d8G1+b1OFCHQBNy7qHrc5UTXzb7sYIB8Q/hStYgsFsn6pKgONDRj2jIw5Z/rl+il+u5I+1c5Y0ZA7ErRv43esHBb/u/koMxPhRih14Ic6RdzQq00AcbtjZWjHTHd75jD96bS7Eu0h6eHguEy05SlZtBhpr8LU0LkqlDugxUe29G/dKvYDHzu/UKZWF+wS7qJg5ZuYPLy6gM=;UaStDt9CQDbZahT0HHDLCA=="
 ---

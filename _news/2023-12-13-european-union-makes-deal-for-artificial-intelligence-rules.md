@@ -24,30 +24,37 @@ images:
     isCached: true
 
 related:
-  - title: "EU’s AI Act: Europe’s New Rules for Artificial Intelligence"
-    excerpt: "Europe's provisional AI legislation attempts to strike a tricky balance between promoting innovation and protecting citizens' rights."
-    publishedDateTime: 2023-12-12T19:58:00Z
-    webUrl: "https://www.techrepublic.com/article/eu-ai-act-regulation/"
+  - title: "Indonesia to regulate AI, balancing innovation and ethics"
+    excerpt: "The Indonesian government will soon issue a regulation on the utilization of artificial intelligence (AI), Minister of Communication and Informatics Budi Arie"
+    publishedDateTime: 2023-12-13T12:08:00Z
+    webUrl: "https://en.antaranews.com/news/301002/indonesia-to-regulate-ai-balancing-innovation-and-ethics"
+    ampWebUrl: "https://en.antaranews.com/amp/news/301002/indonesia-to-regulate-ai-balancing-innovation-and-ethics"
+    cdnAmpWebUrl: "https://en-antaranews-com.cdn.ampproject.org/c/s/en.antaranews.com/amp/news/301002/indonesia-to-regulate-ai-balancing-innovation-and-ethics"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 62
-  - title: "Five things you need to know about the EU’s new AI Act"
-    excerpt: "The EU is poised to effectively become the world’s AI police, creating binding rules on transparency, ethics, and more."
-    publishedDateTime: 2023-12-11T17:56:00Z
-    webUrl: "https://www.technologyreview.com/2023/12/11/1084942/five-things-you-need-to-know-about-the-eus-new-ai-act/"
-    ampWebUrl: "https://www.technologyreview.com/2023/12/11/1084942/five-things-you-need-to-know-about-the-eus-new-ai-act/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/11/1084942/five-things-you-need-to-know-about-the-eus-new-ai-act/amp/"
+      name: Antara News
+      domain: antaranews.com
+    quality: 74
+    images:
+      - url: "https://img.antaranews.com/cache/800x533/2023/07/05/antarafoto-teknologi-kecerdasan-buatan-untuk-mengurai-kemacetan-jakarta-050723-riv-3.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "EU reaches deal on how to regulate artificial intelligence"
+    excerpt: "European Union negotiators have agreed a deal on the world's first comprehensive artificial intelligence rules. The agreement paves the way for legal oversight of technology used in popular ..."
+    publishedDateTime: 2023-12-09T04:22:00Z
+    webUrl: "https://news.sky.com/story/eu-reaches-deal-on-how-to-regulate-artificial-intelligence-13026107"
+    ampWebUrl: "https://news.sky.com/story/amp/eu-reaches-deal-on-how-to-regulate-artificial-intelligence-13026107"
+    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/eu-reaches-deal-on-how-to-regulate-artificial-intelligence-13026107"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
+      name: Sky
+      domain: sky.com
     quality: 59
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/12/eu-ai-flags2.jpg?w=3000"
-        width: 3000
-        height: 1688
+      - url: "https://e3.365dm.com/23/11/1600x900/skynews-chatgpt-openai_6364467.jpg?20231118091822"
+        width: 1600
+        height: 900
         isCached: true
   - title: "The EU’s AI Act: A beacon of innovation and ethics for emerging Europe"
     excerpt: "In an exceptional move reverberating through the corridors of technology and governance, the European Union has provisionally adopted the Artificial Intelligence Act, heralding a new era of digital ethics and innovation."
@@ -81,75 +88,31 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 47
-  - title: "EU’s AI rules look best for those in the middle"
-    excerpt: "France and Germany may have found a sweet spot amid the European Union’s artificial intelligence rules. As expected, the bloc will require general-purpose AI players to report how they use data, train their models and respect copyright laws,"
-    publishedDateTime: 2023-12-11T11:33:00Z
-    webUrl: "https://www.reuters.com/breakingviews/eus-ai-rules-look-best-those-middle-2023-12-11/"
+  - title: "Most countries agreeing what India was saying on Artificial Intelligence regulation: Rajeev Chandrasekhar"
+    excerpt: "The Union minister today met Viscount Camrose, UK's Minister of AI and Intellectual Property and Hiroshi Yoshida, Japan's Vice Minister of Policy Coordination, Ministry of Internal Affairs and Communications."
+    publishedDateTime: 2023-12-13T08:19:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/policy/most-countries-agreeing-what-india-was-saying-on-artificial-intelligence-regulation-rajeev-chandrasekhar/105956937"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/policy/most-countries-agreeing-what-india-was-saying-on-artificial-intelligence-regulation-rajeev-chandrasekhar/105956937"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/policy/most-countries-agreeing-what-india-was-saying-on-artificial-intelligence-regulation-rajeev-chandrasekhar/105956937"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
-  - title: "EU agrees landmark AI regulation deal"
-    excerpt: "The European Union has introduced the world’s first comprehensive laws to regulate the use of AI, reaching a provisional deal between its member states. The laws were agreed after 36 hours of talks, with the European Parliament to vote on the AI Act proposals early next year."
-    publishedDateTime: 2023-12-11T15:54:00Z
-    webUrl: "https://www.inavateonthenet.net/news/article/eu-agrees-landmark-ai-regulation-deal"
-    type: article
-    provider:
-      name: InAVate
-      domain: inavateonthenet.net
-    quality: 39
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 40
     images:
-      - url: "https://res.cloudinary.com/iml/image/upload/w_1024,c_scale/c_crop,g_custom/w_1024,c_scale/v1702310161/widgetdocs/EU_Shutterstock_yxfiqk.jpg"
-        width: 1024
-        height: 683
+      - url: "https://etimg.etb2bimg.com/thumb/msid-105956937,imgsize-18394,width-1200,height=765,overlay-ettelecom/policy/most-countries-agreeing-what-india-was-saying-on-artificial-intelligence-regulation-rajeev-chandrasekhar.jpg"
+        width: 1200
+        height: 765
         isCached: true
-  - title: "Europe, a laggard in AI, seizes the lead in its regulation"
-    excerpt: "Yet whether the AI Act will be as successful as the General Data Protection Regulation ( GDPR ), the EU ’s landmark privacy law, is another question. Important details still need to be worked out. And the European Parliament still needs to approve the final version."
-    publishedDateTime: 2023-12-10T18:25:00Z
-    webUrl: "https://www.economist.com/europe/2023/12/10/europe-a-laggard-in-ai-seizes-the-lead-in-its-regulation"
+  - title: "Indonesia prepares ethics guidance for AI developers"
+    excerpt: "Indonesia has drafted ethics guidance for developers using artificial intelligence (AI) to prevent potential misuse of the new technology, a ministerial draft showed. “AI-based programming activities need to be predicated on the ethics governing its use ..."
+    publishedDateTime: 2023-12-08T16:41:00Z
+    webUrl: "https://www.rappler.com/technology/indonesia-prepares-ethics-guidance-ai-developers/"
     type: article
     provider:
-      name: The Economist
-      domain: economist.com
-    quality: 37
-    images:
-      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20231210_BLP901.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "EU’s AI Act Falls Short: No Ban on Live Facial Recognition Raises Concerns"
-    excerpt: "EU's AI Act faces criticism for omitting a ban on live facial recognition, raising concerns of dystopian surveillance."
-    publishedDateTime: 2023-12-10T16:59:00Z
-    webUrl: "https://truthout.org/articles/eus-ai-act-falls-short-no-ban-on-live-facial-recognition-raises-concerns/"
-    type: article
-    provider:
-      name: Truthout
-      domain: truthout.org
-    quality: 32
-  - title: "In Landmark Vote, Europe Approves AI Regulations--Paving the Way for U.S. Adoption"
-    excerpt: "Writing laws that keep pace with the fast-growing world of A.I. seems fraught with challenges. One thing everyone agrees on: the goal is to protect people's data -- and small businesses."
-    publishedDateTime: 2023-12-11T15:25:00Z
-    webUrl: "https://www.inc.com/kit-eaton/in-landmark-vote-europe-approves-ai-regulations-paving-way-for-us-adoption.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 31
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/getty_1258475609_ztqcoo.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Europe reaches a deal on the world’s first comprehensive AI rules"
-    excerpt: "Click to email a link to a friend (Opens in new window) Click to print (Opens in new window)  LONDON | European Union negotiators clinched a deal Friday on the world’s first comprehensive artificial intelligence rules,"
-    publishedDateTime: 2023-12-11T01:34:00Z
-    webUrl: "https://sentinelcolorado.com/nation-world/europe-reaches-a-deal-on-the-worlds-first-comprehensive-ai-rules/"
-    type: article
-    provider:
-      name: Sentinel Colorado
-      domain: sentinelcolorado.com
-    quality: 19
+      name: Rappler
+      domain: rappler.com
+    quality: 34
   - title: "EU agrees landmark rules on artificial intelligence"
     excerpt: "EU lawmakers have agreed the terms for landmark legislation to regulate artificial intelligence, pushing ahead with enacting the world’s most restrictive regime on the development of the technology."
     publishedDateTime: 2023-12-09T07:54:00Z
@@ -159,15 +122,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 17
-  - title: "Artificial intelligence act: Council and Parliament strike a deal on the first rules for AI in the world"
-    excerpt: "Following three-day ‘marathon’ talks, the Council presidency and the European Parliament’s negotiators have reached a provisional agreement on the proposal on harmonised rules on artificial intelligence (AI),"
-    publishedDateTime: 2023-12-11T08:00:00Z
-    webUrl: "https://www.eureporter.co/internet-2/artificial-intelligence/2023/12/11/artificial-intelligence-act-council-and-parliament-strike-a-deal-on-the-first-rules-for-ai-in-the-world/"
-    type: article
-    provider:
-      name: eureporter.co
-      domain: eureporter.co
-    quality: 15
 
 secured: "uk/4bIao/DLI3Xr5tPn/euP15DYDGlF6D4gmplV5eWN5J1MMYnGcMgt83zlQXbsadx2Z3cmLFQwKfH2zA6FsaEioil+0pBm/O/VrAwmOSr5iZGoWOBmlK/5sx0kIlm1msIrco5j3PthnS0Bkl9K48gOv7rtMWsSGX1BM7Mk5RgndSXGuUz545X09pGmoL7cRVZ3C5z1+7VWnF6ivyXNOFPYc51StxDPyN/JltsIjdZChoykJa10Gqn0AMWOn096pZwpnmHuifDcrze0ZxuQoYXIQSKux1ig5/SI/f9gzTpV1K5Gdf4dID5DjhdpccZa/WS42zB3QdSv9QNgQNxSRn8a4xRoua+Ad6ZIRiaCc/f3prN2qqrVgIbNTk1+RJLFxkvU2O8zoodzJzuYH4PGBOZEjv25FxynQLnUbMmfqhybD7FrFpwPDPHaQyijdk24JhI5cSoZJkzM+oeggZRBabIX1g/oJgB3yeRzobDOHpfiACy/UK+teFCIAFRVDarvd8BZD2TE8kQQhsfIklgsgVg==;PALuoQYIGGnc8RoGzpE0KQ=="
 ---

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-13-ai-in-healthcare-are-people-losing-or-gaining-control.md",
+      "title": "AI In Healthcare: Are People Losing Or Gaining Control?",
+      "excerpt": "In healthcare and beyond, the rise of artificial intelligence should give pause to both businesses and consumers—even as we learn to move forward.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/13/ai-in-healthcare-are-people-losing-or-gaining-control/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/13/ai-in-healthcare-are-people-losing-or-gaining-control/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/651ae5f9c817fd613f5f0e9c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/13/ai-in-healthcare-are-people-losing-or-gaining-control/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/13/ai-in-healthcare-are-people-losing-or-gaining-control/amp/",
+      "publishedDateTime": "2023-12-13T11:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-13-artificial-intelligence-summit-pm-modi-calls-for-global-framework-on-ethical-use-warns-against-misuse.md",
       "title": "Artificial Intelligence Summit: PM Modi Calls For Global Framework On Ethical Use, Warns Against Misuse",
       "excerpt": "Speaking at the Global Partnership on Artificial Intelligence Summit, PM Narendra Modi said India is firmly committed to responsible and ethical use of AI. He also also emphasised on the need for a global framework for ethical use of AI.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.outlookindia.com/national/artificial-intelligence-summit-pm-modi-calls-for-global-framework-on-ethical-use-warns-against-misuse-news-336130",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -176,6 +228,49 @@
       ]
     },
     {
+      "path": "_news/2023-12-13-how-the-eu-ai-act-regulates-artificial-intelligence-what-it-means-for-cybersecurity.md",
+      "title": "How the EU AI Act regulates artificial intelligence: What it means for cybersecurity",
+      "excerpt": "On December 8, 2023, after more than 36 hours of negotiations, European Union lawmakers agreed on the details of a new law to regulate artificial intelligence. The document, dubbed the AI Act, is one of the first attempts in the world to establish a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.csoonline.com/article/1258597/how-the-eu-ai-act-regulates-artificial-intelligence-and-what-it-means-for-cybersecurity.html",
+      "originalUrl": "https://www.csoonline.com/article/1258597/how-the-eu-ai-act-regulates-artificial-intelligence-and-what-it-means-for-cybersecurity.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.csoonline.com/wp-content/uploads/2023/12/hemicycle_of_louise_weiss_building_of_the_european_parliament_strasbourg-100624123-orig.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.csoonline.com/article/1258597/how-the-eu-ai-act-regulates-artificial-intelligence-and-what-it-means-for-cybersecurity.html/amp/",
+      "cdnAmpWebUrl": "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/1258597/how-the-eu-ai-act-regulates-artificial-intelligence-and-what-it-means-for-cybersecurity.html/amp/",
+      "publishedDateTime": "2023-12-13T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CSOonline",
+        "domain": "csoonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-12-12-artificial-intelligence-is-here-to-stay-considerations-for-pr-professionals.md",
       "title": "Artificial Intelligence Is Here To Stay: Considerations For PR Professionals",
       "excerpt": "Machine learning, or artificial intelligence (AI), is a game changer ... But AI’s uses are much broader—think facial recognition in security systems, medical diagnosis in healthcare, self-driving automobiles and fraud detection in financial institutions.",
@@ -229,49 +324,6 @@
       ]
     },
     {
-      "path": "_news/2023-12-11-artificial-intelligence-in-healthcare-3-stocks-transforming-the-industry.md",
-      "title": "Artificial Intelligence in Healthcare: 3 Stocks Transforming the Industry",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence is being applied across the healthcare sector to",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-3-stocks-transforming-the-industry-1032889408",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-3-stocks-transforming-the-industry-1032889408",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-11T13:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-12-11-heres-how-the-famous-dodo-verdict-or-tie-score-effect-in-mental-health-therapy-can-astutely-leverage-generative-ai.md",
       "title": "Here’s How The Famous Dodo Verdict Or Tie Score Effect In Mental Health Therapy Can Astutely Leverage Generative AI",
       "excerpt": "There is a famous controversy known as the Dodo bird verdict regarding mental health therapies. I introduce the matter and discuss how generative AI comes into play.",
@@ -280,7 +332,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/12/11/heres-how-the-famous-dodo-verdict-or-tie-score-effect-in-mental-health-therapy-can-astutely-leverage-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1240,40 +1292,6 @@
       "provider": {
         "name": "GEN",
         "domain": "genengnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-health-care-policy-stakeholders-testify-on-the-use-of-artificial-intelligence-in-health-care.md",
-      "title": "Health Care Policy Stakeholders Testify on the Use of Artificial Intelligence in Health Care",
-      "excerpt": "Health care executives testified on artificial intelligence (AI) before the House Energy and Commerce Subcommittee on Health. They examined… read more Health care executives testified on artificial intelligence (AI) before the House Energy and Commerce ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.c-span.org/video/?532100-1/health-care-policy-stakeholders-testify-artificial-intelligence-health-care",
-      "originalUrl": "https://www.c-span.org/video/?532100-1/health-care-policy-stakeholders-testify-artificial-intelligence-health-care",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-29T15:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "c-span",
-        "domain": "c-span.org",
         "images": null,
         "publishers": null,
         "authors": null

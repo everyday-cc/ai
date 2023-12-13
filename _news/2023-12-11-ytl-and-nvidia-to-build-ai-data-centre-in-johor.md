@@ -19,43 +19,34 @@ topics:
   - AI
 
 related:
-  - title: "Nvidia contemplates Intel as potential manufacturing partner for GPU and AI chips"
-    excerpt: "Nvidia GPUs held more than 70 percent of the data center processor market share in the latest quarter, with the majority of chips being manufactured by"
-    publishedDateTime: 2023-12-11T20:00:00Z
-    webUrl: "https://www.techspot.com/news/101160-nvidia-contemplates-intel-potential-manufacturing-partner-gpu-ai.html"
+  - title: "Accenture To Work with Union Bank of India To Build New AI and Machine Learning Models"
+    excerpt: "Accenture will work with Union Bank of India to build new AI and machine learning models that can help generate actionable insights for improved busin"
+    publishedDateTime: 2023-12-12T08:13:00Z
+    webUrl: "https://www.indianweb2.com/2023/12/accenture-to-work-with-union-bank-of.html"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 74
-  - title: "NVIDIA CEO Jensen Huang woos Vietnam, plans to set up Asian AI Chip base in the country"
-    excerpt: "NVIDIA has some major plans for Vietnam and is seeing the country as its main base in Asia for designing and manufacturing AI chips for the Asian market as well as the rest of the world. For that, NVI"
-    publishedDateTime: 2023-12-11T08:41:00Z
-    webUrl: "https://www.firstpost.com/tech/nvidia-ceo-jensen-huang-woos-vietnam-plans-to-set-up-asian-ai-chip-base-in-the-country-13489822.html"
-    ampWebUrl: "https://www.firstpost.com/tech/nvidia-ceo-jensen-huang-woos-vietnam-plans-to-set-up-asian-ai-chip-base-in-the-country-13489822.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/nvidia-ceo-jensen-huang-woos-vietnam-plans-to-set-up-asian-ai-chip-base-in-the-country-13489822.html/amp"
-    type: article
-    provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 66
+      name: indianweb2.com
+      domain: indianweb2.com
+    quality: 63
     images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2023/12/NVIDIA-CEO-Jensen-Huang-woos-Vietnam-plans-to-set-up-Asian-AI-Chip-base-in-the-country-.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVgXjk2IBSptAxO-BzY3gxzDItOMiYkt9jovv-UC78ztQh-tVo4EkKI-nyXRmd1FDyVq2HCbz3JFA8B5gNICIqE8PMuRdYKJuXUm9Fd5Mm1M7viygOEm8688zZLaUFBkCie2RxSMEoNy_7K-Pw1lQ3aIc7NNRc4nMybDhh8iG1A-OXpy_ksr0YtFR2NW4/s16000/accenture-union-bank.png"
+        width: 1000
+        height: 600
         isCached: true
-  - title: "Nvidia, AMD back $56.5M round for Essential AI Labs, led by Transformer architecture co-inventors"
-    excerpt: "Nvidia, AMD back $56.5M round for Essential AI Labs, led by Transformer architecture co-inventors - SiliconANGLE"
-    publishedDateTime: 2023-12-13T00:03:00Z
-    webUrl: "https://siliconangle.com/2023/12/12/nvidia-amd-back-56-5m-round-essential-ai-labs-led-transformer-architecture-co-inventors/"
+  - title: "India turns to AI to capture its 121 languages"
+    excerpt: "Malaysia Airlines mengumumkan penerbangan yang dijadualkan berlepas dari Kuala Lumpur ke Chennai, India telah dibatalkan kerana Lapangan Terbang Chennai (MAA) ditutup akibat banjir."
+    publishedDateTime: 2023-12-08T22:00:00Z
+    webUrl: "https://www.astroawani.com/berita-dunia/india-turns-ai-capture-its-121-languages-448685"
+    ampWebUrl: "https://www.astroawani.com/berita-dunia/india-turns-ai-capture-its-121-languages-448685?amp=1"
+    cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-dunia/india-turns-ai-capture-its-121-languages-448685?amp=1"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 26
+      name: Astro Awani
+      domain: astroawani.com
+    quality: 59
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/Essential-AI.png"
-        width: 718
+      - url: "https://img.astroawani.com/2023-10/71697780064_ArtificialIntellige.jpg"
+        width: 590
         height: 400
         isCached: true
 
