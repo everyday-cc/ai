@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Carolina Panthers draft Verizon and Wicket for entry with face biometrics"
+    excerpt: "Phase I of the service will make biometric entry available for club season ticket members, with a planned rollout for all season ticket holders."
+    publishedDateTime: 2023-12-14T22:33:00Z
+    webUrl: "https://www.biometricupdate.com/202312/carolina-panthers-draft-verizon-and-wicket-for-entry-with-face-biometrics"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 23
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/12/28212609/Events-biometric-ticketing-crowds-scaled.jpg"
+        width: 2048
+        height: 1291
+        isCached: true
   - title: "Academics lay out principles for rollout of NSW digital ID, face biometrics"
     excerpt: "The new report notes the need to build public trust when using biometric facial verification tools and liveness detection."
     publishedDateTime: 2023-12-11T17:47:00Z
@@ -40,6 +54,6 @@ related:
         height: 1298
         isCached: true
 
-secured: "KDfhEtcuUPswLh/Y2Rl/HdQk7nLrA0tC3QLmmCE8j1HLLdui9GMMzzLeLMJgdedLl8t7VM45vWwMcGZmvMghPz9d87ZWT7h/knu9suZbfaRV7089A/Nr33rAA6EzGqOHhABlnvmbTiI9zjc0jw9gcJXOAh5Vd5kKgdfUTWP8ZF19cdoJmu6k1139dAdJkDXC08T0P7b8LLeRgnUQVQpNDn/lvLyH5S7nr9v66oGFJ/CBv+Ql6b1ooXuQqnE10TPwfzOlt8KFTqZ7QhqFQllD5DzWaQ0K/6ywj5o6pp6fvnnXjzl2OZ4aua9qxh7JQ16dGqcUqpKpahbLtH01bHLdgi9w5Hhn7xndcOGw+a6797o=;tz0K0Q1UslF6Jd5zCfMOmQ=="
+secured: "aaTWTbEA4g+efi4GcoTrOeSaqT+RADJZ9htVjC38bQHzUaWj0OssRXPjfL9weJOqfwEHZPL+WhhW0b9amuTcjuugKWKAFRcjVVSL2RtNJyze6qJeeNokv4Hf6DZ1cJQWfKOdEs/xBspDOu89+XBFkDxt9BE2k3r9Ww5qmLV5nOQfhJGXl+TW5GIUNLif1c0caQfpMqzBgoGHY9qxynCHH1TdfyqD0cJKAutMEkMJrg3xUFOugbOdmV3avnMGOfw6VoyNtTSNrTfaaOJ9mx20Et+GIl4elZVRRLLkmV4D6XAtCFG+BPRlEfXl6FPWBUncVU2fXa22cSlvPwEFHyFgDLtL16Je3ojWNR/4bx4YO0P3wxhTVphLnjcX7lAjBZYBBLXR6f9WGF7BkSm+BsqFH1B1TgdMtvNA0p/jP2As/yq1/PcsTXHyPcBZowAa2Hum7yPR2CV9xuc1hbRJ5dbm5m8xGrpnuZqL9igcyHiNMtUCQ1QMdyUWllo2MX7mOn4wiusAdmBKKwXmdTGLyFvkUA==;NfqkljjQYrL6VHiHYXdBiA=="
 ---
 

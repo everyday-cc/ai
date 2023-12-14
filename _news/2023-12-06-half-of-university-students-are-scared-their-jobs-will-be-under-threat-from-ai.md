@@ -3,10 +3,8 @@ category: news
 title: "Half of university students are scared their jobs will be under threat from AI"
 excerpt: "Half of current students at university think their current and future jobs could be under threat from artificial intelligence (AI). New research from Kingston University looked at whether students are equipped for their futures in a rapidly changing workplace, particularly where technology is concerned."
 publishedDateTime: 2023-12-06T06:00:00Z
-originalUrl: "https://metro.co.uk/2023/12/06/half-uni-students-scared-jobs-threat-ai-19904586/?ico=mosaic_uk"
-webUrl: "https://metro.co.uk/2023/12/06/half-uni-students-scared-jobs-threat-ai-19904586/?ico=mosaic_uk"
-ampWebUrl: "https://metro.co.uk/2023/12/06/half-uni-students-scared-jobs-threat-ai-19904586/amp/"
-cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/12/06/half-uni-students-scared-jobs-threat-ai-19904586/amp/"
+originalUrl: "https://metro.co.uk/2023/12/06/half-uni-students-scared-jobs-threat-ai-19904586/"
+webUrl: "https://metro.co.uk/2023/12/06/half-uni-students-scared-jobs-threat-ai-19904586/"
 type: article
 
 provider:
@@ -17,12 +15,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://metro.co.uk/wp-content/uploads/2023/12/SEI_182335945-3919.jpg?quality=90&strip=all&zoom=1&resize=600%2C400"
-    width: 600
-    height: 400
-    isCached: true
-
-secured: "OD4LlZUf6GD8bgzgTuo3l/j8eMv4bNvfrlt9IOPojnPUWLIWTVzlJEYJxf+LlQ0UFSlpV1sjEdtf5mOGWGa9uui+zo0LnhGvUIQUB65ZIMUz66HwtuCSvGhzMVaParvEwMC+hGjrzMDkeAmgQ9fjI6Nsh/CfCJoza41+hHzIxTPcvVx3WwTbY6IH+48GSdhEe3LDwtNYS8H15oH6L8ZbEpkD4vPq49OT6NaDy5WXRW2iji07i8AhIrfpqbnkzePfUyEnuPJVt2TPbW5Eh4OC62QDqQX38yAv3GS72kQeUc9bgyFaYtdcn962dQ+vPpmP+TudhnodKqyy2tyCJDbvgz98g9KEmZTSGixptFB61nQEzBB6pJPY0qbxi9lJZsdJGhIWx4GoE4aF7p9IeWNiIMNXHOSMStDN4DbPFcKU3udbdiUQYUD8g5Ue9cZjqFaqaCAse/+/ZXvIPZjLRjaB8jm7acYSaPfJRYTeFfYNxMLLepTVH17roZ4trj+C4+QY/asi+ezxLhAQ394qq3kMuA==;kxGNlAB0+c94Z1XLizJfgg=="
+secured: "xOQT6JzdjrxMJJ5SvTtwH32t9tuhyUDkQpiaStbLZo0XwuScw29nNZZWc/Q5qHoLlrLXPnSsaK4kkEHQNZ92HDlL2hkrnjO3FwNtL1or5lfEDY6U1V22qiNYMoRXRRjKmeZWHFR65DnyAlH0dBewfgaNCPgt3nZjMMbp3YM7/KdVE52eQR11dU8MY2bL3bOFYnXWy7XkXpwLBuGqbcZdL0YBDIM1Osf3lVslbnfH0PidrZejXHkzY2QaCo2DmXRmstksEL6k2k35cL5sdIzdWMAKEVENrJSU2Ju96EeL75YKkU3SuAuC2oT64Jlnscjq7wmXJMSUlZShjQIvyafqfV71pUEJ2bbCtHwGDPM9l5RdtSo/b2JFflYmtR+uCvh2d+1AkUt9kApQXQWPK/GOA0wDmB2v8qQactDuWpni0w6EtgFmVArDCVvQ5qV45TODO4CuZF8qOY443316Wj/1pWZeAnA/WzPlusQRFRMjE4NQg+AN4ApIo/nz62/HMUAx7GriPoiWepE2wTyfh1Ma3A==;F88ivnkewZAGG1bNSG/Otw=="
 ---
 

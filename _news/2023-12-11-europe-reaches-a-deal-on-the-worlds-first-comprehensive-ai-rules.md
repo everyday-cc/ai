@@ -35,6 +35,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "GPAI meet adopts New Delhi AI declaration"
+    excerpt: "Further, the declaration also saw participating nations agree upon using the GPAI platform to create a global framework on AI trust and safety, and make AI solutions and benefits available for all. India also pitched to host a GPAI Global Governance Summit to finalize the proposed framework, in six months."
+    publishedDateTime: 2023-12-14T04:43:00Z
+    webUrl: "https://www.livemint.com/news/india/gpai-meet-adopts-new-delhi-ai-declaration-11702487342900.html"
+    ampWebUrl: "https://www.livemint.com/news/india/gpai-meet-adopts-new-delhi-ai-declaration/amp-11702487342900.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/gpai-meet-adopts-new-delhi-ai-declaration/amp-11702487342900.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/12/13/1600x900/GPAI_2023_full_delegation_1702487461909_1702487466925.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "E.U. Reaches Deal on World’s First Comprehensive AI Rules"
     excerpt: "European Union negotiators have clinched a deal on the world's first comprehensive artificial intelligence rules"
     publishedDateTime: 2023-12-11T11:14:00Z

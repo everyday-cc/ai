@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-11-07-microsoft-ceo-nadella-uses-surprise-appearance-at-openai-event-to-lure-developers-to-azure-cloud.md",
+      "title": "Microsoft CEO Nadella uses surprise appearance at OpenAI event to lure developers to Azure cloud",
+      "excerpt": "At OpenAI's developer event in San Francisco, Microsoft CEO Satya Nadella told the audience that his company's cloud is the best place for them to build",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/11/06/microsoft-ceo-nadella-makes-surprise-appearance-at-openai-event.html",
+      "originalUrl": "https://www.cnbc.com/2023/11/06/microsoft-ceo-nadella-makes-surprise-appearance-at-openai-event.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107329641-1699296366156-IMG_3589.jpg?v=1699296705",
+          "width": 3209,
+          "height": 2050,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/11/06/microsoft-ceo-nadella-makes-surprise-appearance-at-openai-event.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/11/06/microsoft-ceo-nadella-makes-surprise-appearance-at-openai-event.html",
+      "publishedDateTime": "2023-11-06T18:04:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-06-building-for-the-future-the-enterprise-generative-ai-application-lifecycle-with-azure-ai.md",
       "title": "Building for the future: The enterprise generative AI application lifecycle with Azure AI",
       "excerpt": "The enterprise development process requires collaboration, diligent evaluation, risk management, and scaled deployment. By providing a robust suite of capabilities supporting these challenges, Azure AI affords a clear and efficient path to generating value in your products for your customers.\nThe post",
@@ -1297,49 +1349,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-25-snowflake-and-microsoft-expand-their-partnership-to-ai-low-code-data-governance.md",
-      "title": "Snowflake and Microsoft expand their partnership to AI, low-code, data governance",
-      "excerpt": "Value stream management involves people in the organization to examine workflows and other processes to ensure they are deriving the maximum value from their efforts while eliminating waste — of ...",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/msft/snowflake-and-microsoft-expand-their-partnership-to-ai-low-code-data-governance/",
-      "originalUrl": "https://sdtimes.com/msft/snowflake-and-microsoft-expand-their-partnership-to-ai-low-code-data-governance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T10:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

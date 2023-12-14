@@ -44,13 +44,13 @@ related:
         height: 899
         isCached: true
   - title: "VISIE Inc., a Medtech Computer Vision and Spatial Computing Company, Joins NVIDIA Inception to Up Its Computing Power"
-    excerpt: "VISIE Inc., formerly Advanced Scanners, today announced it has joined NVIDIA Inception, a program that empowers early-stage companies revolutionizing"
+    excerpt: "VISIE Inc., a Medtech Computer Vision and Spatial Computing Company, Joins NVIDIA Inception to Up Its Computing Power"
     publishedDateTime: 2023-12-12T13:17:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231212663423/en/VISIE-Inc.-a-Medtech-Computer-Vision-and-Spatial-Computing-Company-Joins-NVIDIA-Inception-to-Up-Its-Computing-Power/"
+    webUrl: "https://www.joplinglobe.com/region/national_business/visie-inc-a-medtech-computer-vision-and-spatial-computing-company-joins-nvidia-inception-to-up/article_9d5c4298-93ba-5032-8038-5d4436cdff8a.html"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: Joplin Globe
+      domain: joplinglobe.com
     quality: 0
 
 secured: "nzYIniS1cQg5hAHPmyzT/p31vGLFHx5ALp8fFYDQaX+cEDFRa5gAo6E+FujkIIduz2lujItPrCrYehUlMyOvh4092Y5EBo3EpAH7BWPPZTM76t/gbWaP/ma/h0wY+tL6sjo13qRQeYvCHA3VkkEoe6b1ZeUSXmUvafktBZpSZhvBrup4lplPesA2bXxDMHsyyiL/27uP4QsiU9nYu/CnGQtj5gaZLdCHFGvhE6t2VGb3HhKvsy5H4EFTpeGSqsvZymkJOU+nYlx21XITW7Oxwa6jdhuvVKEI8OE6vUsNh1sqYOwn3KaLGbQhOgqwvULzyjDhy9q/ipQtXg3L+t7314U3nONAsfE/e+Nknes+unZFHV2j2LQXFcCo75GPMiBamkTW4b0Al3SRoUheqQ0EyMQqQjX1OI15zpIk+5LWFVr1PGQwPJsmZ7IV6ZkSb53qBhq6IBW+sA7Yo70u7QdNTZPdCPSFxXf3yqhHLZwrHQdLV0mmyrq9geyVKE74aFxLIg7qE8ujcRXtzwmkmGLI4w==;wGpvlbMMtiC3WDj4aDp6kQ=="

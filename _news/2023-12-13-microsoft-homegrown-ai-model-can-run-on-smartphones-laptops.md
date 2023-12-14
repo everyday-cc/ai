@@ -72,6 +72,15 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 64
+  - title: "Microsoft drastically expands Azure AI Studio to include Llama 2 Model-as-a-Service, GPT-4 Turbo with Vision"
+    excerpt: "Today, the company announced that it is making Meta Platforms’ rival open-sourced AI model Llama 2 available in Azure AI Studio, its cloud platform AI clearinghouse, in the form of a “model-as-a-service.” Similar to the now old acronym of SaaS ..."
+    publishedDateTime: 2023-12-14T11:52:00Z
+    webUrl: "https://venturebeat.com/ai/microsoft-drastically-expands-azure-ai-studio-to-include-llama-2-model-as-a-service-gpt-4-turbo-with-vision/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 62
   - title: "AMD Is Set To Challenge Nvidia's Dominance And Amazon Is Going After Microsoft's Early-Start AI Advantage"
     excerpt: "According to analysts, Nvidia Corporation (NASDAQ: NVDA) controls roughly 80% of the AI chip market, when including the custom processors built by companies such as Alphabet (NASDAQ: GOOG)-owned Googl"
     publishedDateTime: 2023-12-11T18:23:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/sponsor/redpanda-organization/ai-in-action-
 webUrl: "https://techcrunch.com/sponsor/redpanda-organization/ai-in-action-how-to-bring-real-time-decision-making-to-ai-ml/"
 type: article
 quality: 84
-heat: 118
+heat: 124
 published: true
 
 provider:
@@ -61,6 +61,15 @@ related:
       name: timesnownews
       domain: timesnownews.com
     quality: 32
+  - title: "Railtown AI Technologies Inc. Files Provisional Patent Application Covering AI-Driven Ticket Generation to Accelerate Software Development"
+    excerpt: "Railtown's second North American provisional patent filingRailtown reaches task level functionality with ticket generationIntegrates with leading"
+    publishedDateTime: 2023-12-14T13:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/railtown-ai-technologies-inc.-files-provisional-patent-application-covering-aidriven-ticket-generation-to-accelerate-software-development-1032900651"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 15
 
 secured: "eLWw/SdTJTwPFOUz2GzqHKmFG5TAFVVNr/3qUtYATGxOWf968Vx3aB2ERgo0uzqNVVALTEtL+0YHnUemj188Wjw3rub2JTnUb1klHFqIlZKoMA7iDlNOMIc5ZyVbwQv7fCqU+hgkFjLeQ8bdawU3he5gZn87yxRuc9MIi9lrtU9T41R93E26OcW5IyJpyjaN8orHaSKfgVa4OND1IXvgOouNumVtsu/sDCHETkghsremC4aC3+MFLLCxAWA1wWNKn4HYOdVovgcpuGqrN+ajpqEJwj65z9THIpyGpb5W5HMoizkuMC59Ug4q34N1I4ct6LdX+nPXbK3WfRVJMHarVUg0J6mRUsq1xW9QZqNiMoI=;aqC0Uv396K6Tre1ANwTWCQ=="
 ---

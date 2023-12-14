@@ -9,7 +9,7 @@ ampWebUrl: "https://thehimalayantimes.com/ampArticle/1024410"
 cdnAmpWebUrl: "https://thehimalayantimes-com.cdn.ampproject.org/c/s/thehimalayantimes.com/ampArticle/1024410"
 type: article
 quality: 69
-heat: 89
+heat: 109
 published: true
 
 provider:
@@ -25,6 +25,34 @@ related:
     excerpt: "The Andromeda Robotics team has built and assembled four Abi robots so far, each costing nearly $10,000 in hardware and consumables."
     publishedDateTime: 2023-12-13T23:43:00Z
     webUrl: "https://www.smartcompany.com.au/startupsmart/news/andromeda-robotics-ai-powered-robot-abi-combating-loneliness/"
+    type: article
+    provider:
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 69
+    images:
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2023/12/SMartCO-2023-12-14T103242.515.png?resize=1200,630"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Connection Launches Helix Center for Applied AI and Robotics"
+    excerpt: "Connection (PC Connection, Inc.; NASDAQ: CNXN ), a leading information technology solutions provider to business, government, healthcare, and education markets, is pleased to announce the company has launched the Helix Center for Applied AI and Robotics."
+    publishedDateTime: 2023-12-14T21:16:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/12/14/9934737.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 69
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "How Andromeda Robotics’ AI-powered robot Abby is combating loneliness"
+    excerpt: "The Andromeda Robotics team has built and assembled four Abby robots so far, each costing nearly $10,000 in hardware and consumables."
+    publishedDateTime: 2023-12-14T21:27:00Z
+    webUrl: "https://www.smartcompany.com.au/startupsmart/news/andromeda-robotics-ai-powered-robot-abby-combating-loneliness/"
     type: article
     provider:
       name: SmartCompany

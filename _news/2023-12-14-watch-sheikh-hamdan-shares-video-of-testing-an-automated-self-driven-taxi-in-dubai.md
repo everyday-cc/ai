@@ -42,6 +42,15 @@ related:
       name: Khaleej Times
       domain: khaleejtimes.com
     quality: 13
+  - title: "Watch: Sheikh Hamdan, Heads Of Dubai Police And RTA Ride Self-Driving Taxi In Dubai"
+    excerpt: "Self-driving taxis for the public will soon hit the road, Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum, Crown Prince of Dubai himself announced, as he on Thursday shared a video of him inside an autonomous taxi going around Dubai neighbourhood."
+    publishedDateTime: 2023-12-14T19:56:00Z
+    webUrl: "https://menafn.com/1107599668/Watch-Sheikh-Hamdan-Heads-Of-Dubai-Police-And-RTA-Ride-Self-Driving-Taxi-In-Dubai"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 13
 
 secured: "Fny7KX1TvPOHfCnDJ+BrqQUhpIosEEoxxndgPXxnThYUqH9KWUW9JxMYC4u/gHURqn7c7e5OG2Amd5id1Mvsbld8CFYvBhjAJD4CFJUT9WvWSXW4pYMycknIi0sdFAxJTWqcAqsLmYHnrCWWwZoJMXHGd3+TGmEuHy3uodEL/Uyt9FoTe1b2D+L/1qpUAKm6tvCg8kaJkdtwbvpHblbatST0B/7BcQT0hDmUEir50eGdE86Deg/+p/Mrel88vLPxZQ47Jxaw4Hb5bmEQSbC2+ZiY9aK8tyyW2QBtNrSoz1kgm7z4pEivx/bmoIX61S+3eL6mlDCrDYganq9pXiwKm+WQ1q7y6wBYCVX6TXP/k4piu7nZFydk5j3sqR/0r4OkkUJUeJatWWpjvCfhESFK8vYylce7GjI16i5uoj/jBGCzXg8dpf7WMrDpFQKV4T3pG17ityJPbDi6dqbAq+ApTO+hcQgaVn4sCrsS/R7aGI95NYH/iVZuiWI29QS8xtRQCVLJNucvMRD+azDO9hx+tQ==;YzaXryzzFbRPHimbt97RSQ=="
 ---

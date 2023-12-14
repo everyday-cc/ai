@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202312/academics-lay-out-principle
 webUrl: "https://www.biometricupdate.com/202312/academics-lay-out-principles-for-rollout-of-nsw-digital-id-face-biometrics"
 type: article
 quality: 22
-heat: 22
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Carolina Panthers draft Verizon and Wicket for entry with face biometrics"
+    excerpt: "Phase I of the service will make biometric entry available for club season ticket members, with a planned rollout for all season ticket holders."
+    publishedDateTime: 2023-12-14T22:33:00Z
+    webUrl: "https://www.biometricupdate.com/202312/carolina-panthers-draft-verizon-and-wicket-for-entry-with-face-biometrics"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 23
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/12/28212609/Events-biometric-ticketing-crowds-scaled.jpg"
+        width: 2048
+        height: 1291
+        isCached: true
   - title: "Paravision Converge highlights partners, range of face biometrics applications"
     excerpt: "This year’s annual Paravision event, Converge, takes the form of a magazine, and highlights integrations of facial recognition into trusted identity solutions."
     publishedDateTime: 2023-12-14T17:40:00Z

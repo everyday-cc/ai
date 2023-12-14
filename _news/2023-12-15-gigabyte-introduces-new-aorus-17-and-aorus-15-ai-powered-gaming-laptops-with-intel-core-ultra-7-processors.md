@@ -69,6 +69,20 @@ related:
         width: 2000
         height: 1385
         isCached: true
+  - title: "Intel Puts Artificial Intelligence First With Processor Announcements"
+    excerpt: "The Intel Core Ultra mobile processor family brings AI to PCs, while 5th Gen Intel Xeon processors offer AI acceleration for data centers."
+    publishedDateTime: 2023-12-14T21:35:00Z
+    webUrl: "https://www.techrepublic.com/article/intel-ai-everywhere-event-2023/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 67
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/12/core-ultra-fig-a-dec-23.jpeg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "MSI Prestige 'Meteor Lake' Laptops, Hands On: Intel's Core Ultra Brings AI to Work"
     excerpt: "Intel's new Core Ultra laptop CPUs, packing built-in AI hardware, meet MSI's business-class Prestige machines. We checked out these early Meteor Lake laptops ahead of launch."
     publishedDateTime: 2023-12-14T15:00:00Z
@@ -159,7 +173,16 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 18
+  - title: "Acer Debuts AI-Ready Swift Go 14 Laptop with New Intel Core Ultra Processors"
+    excerpt: "New Acer Swift Go 14 laptop enables AI-accelerated experiences and capabilities complemented by Intel AI Boost and Copilot in Windows 11"
+    publishedDateTime: 2023-12-14T19:03:00Z
+    webUrl: "https://www.valdostadailytimes.com/ap/business/acer-debuts-ai-ready-swift-go-14-laptop-with-new-intel-core-ultra-processors/article_76107b90-fdd8-518b-9d55-33e06522208e.html"
+    type: article
+    provider:
+      name: The Valdosta Daily Times
+      domain: valdostadailytimes.com
+    quality: 16
 
-secured: "BDS1VbPj5zyxkwzPLpNwDd3RLSNrNWpsOarEhgIG0kYGPiBSeJHDh5hdnw97hfsRD6BB7Ugzma3M4KCAPfKqM0tszc/iWFbXEnAo2ZEQa6Ac/vhaKUYySIdJ90mFwvjOYrMa/o3FqVpeeGx3WhkTSyfMl5w3JA3lBPf4RECV82dtt+zdfebP+RroZIV30gmdekLp2tuv5D6NoF1bNmE3zLntvXnDrOxggS/jDBiKGCrIfYRk0mhixqzCQ/rDxukEkoV/Lca+pGbaH4o+siemMBVoX+EeTjNZNsQEQIVM0bLqQ/d5PkN/Gs+bPWkRlC2vBp24K3RpAYGFtyteo6/98p0HXunQGSKmiPGcmBnrtIE=;ooAB8LN2jHIBql7WgEhLsw=="
+secured: "xTPFOVt5m5ONAaO71FYPn/onn4nJosrSSMXwAs6E7wAZxb35ExQh+cpWBOzS2XffEZRJlQ8d3Afieqt9W9zx5/9tysOhnuDdKVrbBqE5amZCWb0DwVWfRuuKNvPLI8wk1/W+tO3IQInfkRP3j700El0Yicy8gHC213f4MugI7pVjskrhjvRD0HsotgrkwCMnPrBuxTVNT3ONlM2giFh8XrWa82hohsrZ/T4YVOuR8Pv9UX9NahsSpFXLy46aiqIGrK1LYPxk/DZYH6w76GCdqDz4NZ/4dc9sMesIUSHS7f/3vEMqOdvDq86GAcSOQlkWn87bHYpkTJzVKTMJRWIXjo3HjbLY9bSaAAwLtrhHvgMeWtbjexSuAbOkoyyBN4q9U9TpMsYV+3MshH+PLTlvOwCDJv+hokz31SDtxl+en9iP8O0K0SMX7aEhXbwYKGX6b6LBEYGcUByk5HflsGN2lFg6gPyt6j9x/vwakmmkXrzPRhxZj/+pmyY2aj/nHEMt4FiBo5cb+j4zLigu+KzAZg==;XX0u1RBxne2XVYehiDmH7g=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologyreview.com/2023/12/11/1084942/five-things-you-
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/11/1084942/five-things-you-need-to-know-about-the-eus-new-ai-act/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: MIT Technology Review
@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Political Deal on the EU AI Act: A Milestone but the Journey Continues"
+    excerpt: "With France and Germany particularly interested in protecting the AI start-ups which have emerged in their jurisdictions, certain EU Member States were vehemently opposed to including any provisions regulating such models. The European Parliament ..."
+    publishedDateTime: 2023-12-14T00:01:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/political-deal-on-the-eu-ai-act-a-6726631/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 17
 
 secured: "vLCmRgK4K2EnmPXy2BBgsn1GomVwGCfce+fRCjGUjceZ3KIs7hiabKOCILcuQD1x2aVtw2lPN1cbFdmybSU6ajBGbMXD2t8MRUSoknX/gPh6u+RM0uS9Ad7dGSWUu8ORUEyobjKhUJ5YOhPhtN9o7d/56eN/XMpacKRITgYn9ZlScXiMuO/octQvcr0h7Xb6fAD0ENgForgTqF0Qc3ONhdmg1Nrnt34omd24hvefE9DNE9S7uq6V9LN1dNcWfaI1F1U+pBAYSucgzTACIloi/Qe+Kuhp3n3ScZjkfeV5hO4lPWgViUlVOfRKdvtEGNcK+WIfVAwHZXLaQ+1FoU9Gqlc0YkSLr+ojE6fnrFSp+fOOsovMq5y9nu9t7NaJU7G9W+HQfqEWH+ZnykEzlxh4VzhLFWIHsuvaIHVOVBLyh7mHQY+UDUvtlILY4Rw0x4pp3TSOjYd9C2Ige10h6qYWFrVSVRKoUqRtlsYUKfTC4vgiEk5EGycp6oKbWeHvwfvAprqU7kKlkhj5jpxqR7KH0g==;3MYawbcR4ahGP5/8TzeDLQ=="
 ---

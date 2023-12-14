@@ -2,6 +2,170 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2023-10-27-elevate-your-marketing-solutions-with-amazon-personalize-and-generative-ai.md",
+      "title": "Elevate your marketing solutions with Amazon Personalize and generative AI",
+      "excerpt": "Generative artificial intelligence is transforming how enterprises do business. Organizations are using AI to improve data-driven decisions, enhance omnichannel experiences, and drive next-generation product development. Enterprises are using generative AI specifically to power their marketing efforts",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/elevate-your-marketing-solutions-with-amazon-personalize-and-generative-ai/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/elevate-your-marketing-solutions-with-amazon-personalize-and-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 309,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/27/elevate-your-marketing-1260x630.jpg",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-27T16:30:52Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2023-10-27-cruise-gms-robotaxi-service-suspends-all-driverless-operations-nationwide.md",
+      "title": "Cruise, GM’s robotaxi service, suspends all driverless operations nationwide",
+      "excerpt": "The California Department of Motor Vehicles revoked the license for Cruise, which recently began transporting passengers throughout San Francisco, this week.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbc29.com/2023/10/27/cruise-gms-robotaxi-service-suspends-all-driverless-operations-nationwide/",
+      "originalUrl": "https://www.nbc29.com/2023/10/27/cruise-gms-robotaxi-service-suspends-all-driverless-operations-nationwide/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-wvir-prod.cdn.arcpublishing.com/resizer/4oAIyjh_qTZ6jYSNDVYNzSiiShc=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/A76YDPE6SNE2BHVQMV5X3VKYRE.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.nbc29.com/2023/10/27/cruise-gms-robotaxi-service-suspends-all-driverless-operations-nationwide/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-nbc29-com.cdn.ampproject.org/c/s/www.nbc29.com/2023/10/27/cruise-gms-robotaxi-service-suspends-all-driverless-operations-nationwide/?outputType=amp",
+      "publishedDateTime": "2023-10-27T15:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC29",
+        "domain": "nbc29.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-27-geely-and-baidu-in-challenge-to-tesla-launch-autonomous-ev.md",
+      "title": "Geely and Baidu, in challenge to Tesla, launch autonomous EV",
+      "excerpt": "The Jiyue 01, the first EV from a Geely-Baidu joint venture, is equipped with Baidu’s Apollo platform, which has been in development for 10 years and used on driverless vehicles since 2016.",
+      "sourceUrl": null,
+      "webUrl": "https://europe.autonews.com/cars-concepts/geely-and-baidu-challenge-tesla-launch-autonomous-ev",
+      "originalUrl": "https://europe.autonews.com/cars-concepts/geely-and-baidu-challenge-tesla-launch-autonomous-ev",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-27T15:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-27-artificial-intelligence-robots-market-to-cross-usd-11969-billion-by-2030-owing-to-rising-demand-for-personalized-customer-experiences.md",
+      "title": "Artificial Intelligence Robots Market to Cross USD 119.69 Billion by 2030 owing to Rising Demand for Personalized Customer Experiences",
+      "excerpt": "The Artificial Intelligence Robots Market, as stated in the SNS Insider report, was valued at USD 9.96 billion in 2022. It is projected to attain a value of USD 119.69 billion by 2030, indicating a substantial compound annual growth rate (CAGR) of 36.45% ...",
+      "sourceUrl": null,
+      "webUrl": "https://ipsnews.net/business/2023/10/27/artificial-intelligence-robots-market-to-cross-usd-119-69-billion-by-2030-owing-to-rising-demand-for-personalized-customer-experiences/",
+      "originalUrl": "https://ipsnews.net/business/2023/10/27/artificial-intelligence-robots-market-to-cross-usd-119-69-billion-by-2030-owing-to-rising-demand-for-personalized-customer-experiences/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-27T14:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inter Press Service",
+        "domain": "ipsnews.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-27-openai-assembles-team-of-experts-to-fight-catastrophic-ai-risks-including-nuclear-war.md",
       "title": "OpenAI assembles team of experts to fight 'catastrophic' AI risks - including nuclear war",
       "excerpt": "Also: Google expands bug bounty program to include rewards for AI attack scenarios",
@@ -920,197 +1084,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-all-symbols-in-tensorflow-decision-forests.md",
-      "title": "All symbols in TensorFlow Decision Forests",
-      "excerpt": "[{ \"type\": \"thumb-down\", \"id\": \"missingTheInformationINeed\", \"label\":\"Missing the information I need\" },{ \"type\": \"thumb-down\", \"id\": \"tooComplicatedTooManySteps ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/decision_forests/api_docs/python/tfdf/all_symbols",
-      "originalUrl": "https://www.tensorflow.org/decision_forests/api_docs/python/tfdf/all_symbols",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/static/images/tf_logo_social.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-26T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-aws-revenue-growth-stabilizes-with-a-boost-from-generative-ai-led-services.md",
-      "title": "AWS revenue growth stabilizes with a boost from generative AI-led services",
-      "excerpt": "Competitors, however, are catching up fast with twice the revenue growth rate as AWS tries to defend its position as the largest public cloud provider. Credit: ThomasAFink / Shutterstock AWS ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/657374/aws-revenue-growth-stabilizes-with-a-boost-from-generative-ai-led-services.html",
-      "originalUrl": "https://www.cio.com/article/657374/aws-revenue-growth-stabilizes-with-a-boost-from-generative-ai-led-services.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cio.com/wp-content/uploads/2023/10/shutterstock_editorial_2329866433.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/657374/aws-revenue-growth-stabilizes-with-a-boost-from-generative-ai-led-services.html/amp/",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/657374/aws-revenue-growth-stabilizes-with-a-boost-from-generative-ai-led-services.html/amp/",
-      "publishedDateTime": "2023-10-26T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-microsoft-rockwell-automation-to-bring-gen-ai-to-robotics-development.md",
-      "title": "Microsoft, Rockwell Automation to bring Gen AI to robotics development",
-      "excerpt": "The companies will add Microsoft's Azure OpenAI Service into FactoryTalk Design Studio to accelerate time-to-market for their customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/microsoft-rockwell-automation-to-bring-gen-ai-to-robotics-development/",
-      "originalUrl": "https://www.therobotreport.com/microsoft-rockwell-automation-to-bring-gen-ai-to-robotics-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 346,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/10/microsoft-rockwell-collaboration.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-26T23:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-adobes-balakrishnan-new-ai-tools-in-express-lower-barriers-for-next-gen-users.md",
-      "title": "Adobe’s Balakrishnan: New AI Tools In Express Lower Barriers For Next-Gen Users",
-      "excerpt": "In an exclusive one-on-one interview conducted at MAX, Govind Balakrishnan, senior vice president for Adobe Express and Digital Media Services, reveals how the company is prioritizing seamless integration of AI creativity tools across its apps suite to strengthen human creativity and collaboration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johanmoreno/2023/10/26/adobes-balakrishnan-new-ai-tools-in-express-lower-barriers-for-next-gen-users/",
-      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2023/10/26/adobes-balakrishnan-new-ai-tools-in-express-lower-barriers-for-next-gen-users/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/652cdcea410613da2e073b51/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1510,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2023/10/26/adobes-balakrishnan-new-ai-tools-in-express-lower-barriers-for-next-gen-users/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/10/26/adobes-balakrishnan-new-ai-tools-in-express-lower-barriers-for-next-gen-users/amp/",
-      "publishedDateTime": "2023-10-26T23:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

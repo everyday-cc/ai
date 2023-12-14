@@ -35,6 +35,36 @@ related:
         width: 1200
         height: 741
         isCached: true
+  - title: "GM to lay off 900 workers at self-driving unit"
+    excerpt: "General Motors announced it is laying off 900 workers at Cruise, the company’s self-driving unit. Those layoffs will impact around 24% of its workforce."
+    publishedDateTime: 2023-12-14T19:32:00Z
+    webUrl: "https://www.fox17online.com/news/national-news/gm-to-lay-off-900-workers-at-self-driving-unit"
+    type: article
+    provider:
+      name: fox17online
+      domain: fox17online.com
+    quality: 24
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/d97025f/2147483647/strip/true/crop/640x336+0+72/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsharing.wxyz.com%2Fsharescnn%2Fphoto%2F2016%2F01%2F04%2Fb791cfbfbc4b95008c0f6a70670072d9_1451914559153_29345818_ver1.0_640_480.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "GM's self-driving car company Cruise lays off 900 workers - nearly 25 percent of its workforce - ahead of Christmas after a series of safety mishaps and having its permit ..."
+    excerpt: "The new footage from the vehicle showed that the car continued driving after the initial stop and attempted a 'pullover maneuver,' traveling about 20 feet while the pedestrian was still trapped underneath. In September, two Cruise driverless taxis ..."
+    publishedDateTime: 2023-12-14T21:48:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-12865491/GM-self-driving-car-company-Cruise-lays-900-workers-nearly-25-percent-workers.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-12865491/amp/GM-self-driving-car-company-Cruise-lays-900-workers-nearly-25-percent-workers.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-12865491/amp/GM-self-driving-car-company-Cruise-lays-900-workers-nearly-25-percent-workers.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 0
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2023/12/14/21/78973895-0-image-a-26_1702589352839.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "8ftWmPXKN6mEI9Kg+9lDVvoV1cHc4tb/uOoc9waqY9+hybPZJAhCHtRXXekTz5oX7nJGLJno2ANPVezSPmN017vzPi7O0vg5oVeoh2XtyZZgTM1GrCm0gpTs8EkS1gy+J5/XrJWdpqvpC53HYTnkJhpQS3y9ILSkjju/DPd7qbe0LDLaPMcCHE9I91q42sH+aFaCm+iIsP72nBNNmAwr4xzMK5nzEWHocYiTSKZqsfD5oRFUWtvGC5fPccZSPrNvjkHjj4a01DVvuvFs/xALvjojXfjwvcmuz4m7O6473zFp38WTo24vRszLems/8hw6saWgPygssXGfYOpxpIudiWmEqj54ap4ElhQDfE1UJkIBRIaq3gexbRM4aku6hnbA6m+QrAatO6XnquJX4ouGIvyHc6+EMeHTS9/1b/qTCEJiOPFxgElVGJz0J0RHvSzmqnAWZnXMiW45ueLtjQNa362rRqd76VtuuH1GQVTjSsq5mORC+nyLYf6DG02HN5x77Y+xXUUEugUDwe+9/oM9mQ==;C2mBCwmlMK4cI090nM8ULA=="
 ---

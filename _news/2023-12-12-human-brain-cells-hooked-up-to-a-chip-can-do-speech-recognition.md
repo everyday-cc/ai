@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2023/12/11/1084926/human-brain-cell
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/11/1084926/human-brain-cells-chip-organoid-speech-recognition/amp/"
 type: article
 quality: 91
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "A Ball of Brain Cells on a Chip Can Learn Simple Speech Recognition and Math"
+    excerpt: "Just a first step, Brainoware paves the way for increasingly sophisticated hybrid biocomputers that could lower energy costs and speed up computation."
+    publishedDateTime: 2023-12-14T20:02:00Z
+    webUrl: "https://singularityhub.com/2023/12/14/a-ball-of-brain-cells-on-a-chip-can-learn-simple-speech-recognition-and-math/"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 65
   - title: "AI made from living human brain cells performs speech recognition"
     excerpt: "A biocomputing system consisting of living brain cells learned to recognise the voice of one individual from hundreds of sound clips"
     publishedDateTime: 2023-12-11T16:12:00Z

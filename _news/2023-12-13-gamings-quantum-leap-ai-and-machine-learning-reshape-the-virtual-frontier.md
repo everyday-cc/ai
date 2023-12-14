@@ -56,6 +56,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "Railtown AI Technologies Inc. Files Provisional Patent Application Covering AI-Driven Ticket Generation to Accelerate Software Development"
+    excerpt: "Railtown's second North American provisional patent filingRailtown reaches task level functionality with ticket generationIntegrates with leading"
+    publishedDateTime: 2023-12-14T13:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/railtown-ai-technologies-inc.-files-provisional-patent-application-covering-aidriven-ticket-generation-to-accelerate-software-development-1032900651"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 15
 
 secured: "Y0XsNC1HdN4Nno7Fc6kEwNXxH0kX7QjEalJ6zJcn6O+BT7qb06wjX4x1h17KgKMyMqgAi6ldZ0cu6p54pu4bB7TiiToXKjLGDPxesanXvrs0oUZzx/++2vvimJJO5zc4nopBaAZsRdPgTP4W08jSLSLzK83smYpsazfbf25jdbcwwbLfpGXKEWsI0oE9skXLH7NaWzmah4Z7QJ6gsRMqJlRzRo80XdWySGFJpz50BIoflJ4+R3AWfu5+cXYkn1ocILGKRN69hiYp8JxkMN1JS1FFpzaA1Q+L1prqMrmdZ9vWXtnDS4JKPlAUcGYRkTsdtNnplLpw03lV+QnvmAKff+67+x6j0N5wMK1ywnramM47QURBBN5IkFv/5XLPeHTPfQ7v58F8Elq4O9Ivj8ltYdjQK219oWoPxhWFXkLjXMEdVxugfirnJY6KG4CElHNj7SL5M3TFsHeHn91vGgXzpo2JJ2CNsymxrHUpWMLv7lMf1RRZfscCM8RCMXQAFiCoWe8lrpQFASp+c2+Ls1nZDg==;2dT1waqn7IvhrHpxjxQcoQ=="
 ---

@@ -115,7 +115,7 @@
       "originalUrl": "https://en.antaranews.com/news/301002/indonesia-to-regulate-ai-balancing-innovation-and-ethics",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -202,7 +202,7 @@
       "originalUrl": "https://www.livemint.com/ai/artificial-intelligence/gpai-should-help-frame-sustainable-ai-rules-pm-11702401229429.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -362,6 +362,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-12-five-things-you-need-to-know-about-the-eus-new-ai-act.md",
+      "title": "Five things you need to know about the EU’s new AI Act",
+      "excerpt": "The EU is poised to effectively become the world’s AI police, creating binding rules on transparency, ethics, and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2023/12/11/1084942/five-things-you-need-to-know-about-the-eus-new-ai-act/",
+      "originalUrl": "https://www.technologyreview.com/2023/12/11/1084942/five-things-you-need-to-know-about-the-eus-new-ai-act/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/12/eu-ai-flags2.jpg?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2023/12/11/1084942/five-things-you-need-to-know-about-the-eus-new-ai-act/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/11/1084942/five-things-you-need-to-know-about-the-eus-new-ai-act/amp/",
+      "publishedDateTime": "2023-12-11T17:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -790,6 +833,59 @@
       "topics": [
         "AI Ethics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-01-the-biggest-banks-are-fighting-over-ai-talent-here-are-the-roles-finance-firms-are-looking-to-hire-for-and-what-skills-you-need-to-get-them.md",
+      "title": "The biggest banks are fighting over AI talent. Here are the roles finance firms are looking to hire for, and what skills you need to get them.",
+      "excerpt": "Techies who know data, cloud, AI regulations and ethics, and are business savvy are in high demand. Recruiters, hiring managers, and execs outline how Wall Street's tech skills and roles are changing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-shaping-future-tech-jobs-wall-street-2023-10",
+      "originalUrl": "https://www.businessinsider.com/ai-shaping-future-tech-jobs-wall-street-2023-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6541a3583cc84b4dfaf91945?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Finance"
       ]
     },
     {
@@ -1321,102 +1417,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-11-22-exploring-ai-artificial-intelligences-development-and-future-potential.md",
-      "title": "Exploring AI: Artificial intelligence’s development and future potential",
-      "excerpt": "AI ethics in education is a big deal as well. Nadia Pesch, a senior at Lane Tech, said she’s familiar with classmates using Chat GPT to cheat. “I pretty much had every teacher saying ‘Don’ ...",
-      "sourceUrl": null,
-      "webUrl": "https://wgntv.com/news/cover-story/exploring-ai-artificial-intelligences-development-and-future-potential/",
-      "originalUrl": "https://wgntv.com/news/cover-story/exploring-ai-artificial-intelligences-development-and-future-potential/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wgntv.com/wp-content/uploads/sites/5/2023/11/snapshot-2023-11-21T213437.632.jpg?w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://wgntv.com/news/cover-story/exploring-ai-artificial-intelligences-development-and-future-potential/amp/",
-      "cdnAmpWebUrl": "https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/news/cover-story/exploring-ai-artificial-intelligences-development-and-future-potential/amp/",
-      "publishedDateTime": "2023-11-22T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WGN-TV",
-        "domain": "wgntv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-11-21-how-ai-camp-is-setting-employers-up-for-the-next-industrial-revolution.md",
-      "title": "How AI Camp Is Setting Employers Up For The Next Industrial Revolution",
-      "excerpt": "The AI revolution will change what you look for in your future employees, but the education system isn’t giving young people the STEM skills they need.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/serenitygibbons/2023/11/21/how-ai-camp-is-setting-employers-up-for-the-next-industrial-revolution/",
-      "originalUrl": "https://www.forbes.com/sites/serenitygibbons/2023/11/21/how-ai-camp-is-setting-employers-up-for-the-next-industrial-revolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65578b6497210c6748431c8a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/serenitygibbons/2023/11/21/how-ai-camp-is-setting-employers-up-for-the-next-industrial-revolution/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/serenitygibbons/2023/11/21/how-ai-camp-is-setting-employers-up-for-the-next-industrial-revolution/amp/",
-      "publishedDateTime": "2023-11-21T11:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

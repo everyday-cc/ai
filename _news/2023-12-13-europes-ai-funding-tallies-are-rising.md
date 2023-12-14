@@ -40,6 +40,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Can AI outsmart Europe’s bid to regulate it?"
+    excerpt: "European efforts to regulate artificial intelligence show how hard it is to harness such a fast-moving phenomenon at the heart of global society."
+    publishedDateTime: 2023-12-14T17:40:00Z
+    webUrl: "https://www.csmonitor.com/World/Europe/2023/1214/Can-AI-outsmart-Europe-s-bid-to-regulate-it"
+    type: article
+    provider:
+      name: Christian Science Monitor
+      domain: csmonitor.com
+    quality: 37
+    images:
+      - url: "https://images.csmonitor.com/csm/2023/12/1214%20OAI%20lede.jpg?alias=standard_900x600"
+        width: 900
+        height: 600
+        isCached: true
   - title: "In Landmark Vote, Europe Approves AI Regulations--Paving the Way for U.S. Adoption"
     excerpt: "Writing laws that keep pace with the fast-growing world of A.I. seems fraught with challenges. One thing everyone agrees on: the goal is to protect people's data -- and small businesses."
     publishedDateTime: 2023-12-11T15:25:00Z

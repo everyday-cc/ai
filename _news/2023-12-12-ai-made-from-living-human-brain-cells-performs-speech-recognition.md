@@ -42,6 +42,15 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "A Ball of Brain Cells on a Chip Can Learn Simple Speech Recognition and Math"
+    excerpt: "Just a first step, Brainoware paves the way for increasingly sophisticated hybrid biocomputers that could lower energy costs and speed up computation."
+    publishedDateTime: 2023-12-14T20:02:00Z
+    webUrl: "https://singularityhub.com/2023/12/14/a-ball-of-brain-cells-on-a-chip-can-learn-simple-speech-recognition-and-math/"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 65
   - title: "Artificial intelligence made from ‘clumps of human brain cells’ taught to recognize speech in world-first experiment"
     excerpt: "CLUMPS of human brain cells connected to an electronic chip have successfully completed simple tasks including speech recognition. That’s according to researchers at Indiana University"
     publishedDateTime: 2023-12-12T12:22:00Z

@@ -28,6 +28,17 @@ images:
     height: 1051
     isCached: true
 
+related:
+  - title: "H&R Block unveils conversational AI tax assistant for DIY filers"
+    excerpt: "In addition to helping with specific tax rules, the AI assistant can also provide direction as to which DIY product might be best for the individual filing situation. H&R Block said the AI Tax Assistant is not available in its free online filing app, but it’s available at no cost in the first tier of its online edition and above starting at $35."
+    publishedDateTime: 2023-12-14T20:08:00Z
+    webUrl: "https://siliconangle.com/2023/12/14/hr-block-unveils-conversational-ai-tax-assistant-diy-filers/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 19
+
 secured: "dWdbZDnhmKqAvZ226BY4yITwhH1soxbJkyHTrl+TTA8HQmFW/ugbLzARWeFTp7C4M6WQvxmKNSdVczheRhHAaIIwOeE4ai1gpDJd5QK7nDIFKIEsUZXo5erk5uamPPSkPQS98qV4sTtUJdvXrEY0ERik+5+OeieKwQRuPKjaze/vKqzmD5KZ3jRpH4Uufjvlz0LtVsANKsXgtw1HrwOIktxb381N0xQ0vEXvg/Yg2P21s6A5cRh5CUxMoca9Ia6orun1bSySHXR8yiFmlogIAkhR3vqJlkQaNAYUckOB5PAUcDOb1aIynTtIbCo/NhrAY8tgrPLJqz2fzA8OQkl/b1z6GqVnGOSM5/ldWZj8/H5/Z7WLN0PmcikYUWMNQ1n/oXZ2lTuCwOT0jyUWWeua8Gx3y5dxnV7D/IUgonc2WtWgQe9mrnb9FUDWmXL31InupjmsczrHmDo4xAsh9qYQnjuYOqbYRtHa82GNl5kshWGsrgGOmmhBFyEuwWjLmV7CvomrZ4Sq+kdz5j9S6CnTUA==;k/qDS+YkjpbjR8JSMqyaNA=="
 ---
 

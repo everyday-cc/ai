@@ -143,6 +143,20 @@ related:
         width: 480
         height: 360
         isCached: true
+  - title: "Google opens Gemini Pro LLM to enterprise developers"
+    excerpt: "Users can access Gemini Pro and Pro Vision through Vertex AI for free until the tool reaches general availability early next year, the company said."
+    publishedDateTime: 2023-12-14T21:56:00Z
+    webUrl: "https://www.ciodive.com/news/google-gemini-pro-llm-enterprise-developer/702590/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 24
+    images:
+      - url: "https://www.ciodive.com/imgproxy/WkKqtHaQSQztwn-NT-vJDEIFy4Y1wzJr3mm3xILTXHA/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTE0MDE5Mjk4ODIuanBn.jpg"
+        width: 770
+        height: 435
+        isCached: true
   - title: "Google Gemini AI tools now available for developers and businesses"
     excerpt: "As well as making their new Gemini API available for developers and enterprise users to harness the power of artificial intelligence in custom AI models,"
     publishedDateTime: 2023-12-14T14:10:00Z

@@ -182,7 +182,7 @@
       "originalUrl": "https://techcrunch.com/sponsor/redpanda-organization/ai-in-action-how-to-bring-real-time-decision-making-to-ai-ml/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -416,6 +416,42 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-11-googles-billion-dollar-cloud-business-takes-on-aws-azure-with-ai-machine-learning.md",
+      "title": "Google's Billion-Dollar Cloud Business Takes On AWS, Azure With AI, Machine Learning",
+      "excerpt": "\"Anytime any customer talks cloud, they talk AWS, Azure, and Google ... Google's portfolio of artificial intelligence (AI) and machine learning technologies are standing out and giving the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/news/cloud/300100466/googles-billion-dollar-cloud-business-takes-on-aws-azure-with-ai-machine-learning",
+      "originalUrl": "https://www.crn.com/news/cloud/300100466/googles-billion-dollar-cloud-business-takes-on-aws-azure-with-ai-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-11T03:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "AWS AI"
       ]
     },
     {
@@ -1268,40 +1304,6 @@
       "provider": {
         "name": "MIT Technology Review",
         "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-04-seismic-therapeutic-closes-121-million-series-b-financing-to-advance-immunology-pipeline-optimized-by-its-machine-learning-platform.md",
-      "title": "Seismic Therapeutic Closes $121 Million Series B Financing to Advance Immunology Pipeline Optimized by its Machine Learning Platform",
-      "excerpt": "CAMBRIDGE, Mass.--(BUSINESS WIRE)--Seismic Therapeutic, Inc., the machine learning immunology company, today announced that it has closed a $121 million Series B financing. The Series B was led by new investor Bessemer Venture Partners with participation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20231204060594/en/Seismic-Therapeutic-Closes-121-Million-Series-B-Financing-to-Advance-Immunology-Pipeline-Optimized-by-its-Machine-Learning-Platform/",
-      "originalUrl": "https://www.businesswire.com/news/home/20231204060594/en/Seismic-Therapeutic-Closes-121-Million-Series-B-Financing-to-Advance-Immunology-Pipeline-Optimized-by-its-Machine-Learning-Platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T07:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null

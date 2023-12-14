@@ -41,7 +41,16 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "Google Bard Meets the Latest Language Model, Gemini"
+    excerpt: "Gemini, the latest language model of Google and DeepMind is being used by Google Bard, an AI chatbot of Google."
+    publishedDateTime: 2023-12-14T17:06:00Z
+    webUrl: "https://techacute.com/google-bard-meets-the-latest-language-model-gemini/"
+    type: article
+    provider:
+      name: techacute.com
+      domain: techacute.com
+    quality: 4
 
-secured: "DR0Y6QIFqGFEPqKDW1YAC1p9TFsnM0Xh5NOb37uvH44yckz1kHDHBv8q2cs/ouucYbi4DHhL3i2CPEJl/7yjc8Kwr/zbrJrtIdphP2nQZd5IhnjBUmaJQzF29cs9izQSBwvhSb9t1MOCl6edkifLQqNj9AXhd7j1u9uLzfjuC4LlvfkWcfMWcco8Mmi+1ZbU3CHp2pKTjwAGnm8w9NmAi2ORm24Mr91R9BqvwXHRW0W1X6KAVgBUELlRRUfb+zSFXlXcFG7EULS6/iGe1yxUhsHvRyrzYaNnqrv6LjBkB8QChPgWZ5eSI5kcUdVqV2mASgoFP96VmAvaBhF0h78MH4ZwmEXMn9ySO8nP4YVtFsk=;GRfNXklbNJCn5c7jFs9Hng=="
+secured: "Fjfsuodq0utlnxxeZ7I8zmnCAZ3lf8lB5O1bGic7+F8WaL2L9mmIWMvfgETAqsTGIGOv7UAS8c2w2wOsegb9vcydFxDzoTmfQEm+VnVd1EBQSEY4rA7vt5gPUCm0fZeQnQCpXrDTXMgsIg/c2w84t4FQx+MaMgzYhLD2LNgtzKgNpzNbdnwJ02B7gf2JUqeF26eDnoT1Kr6ksMsNr0TBRXl6kN3uV3DwOyCijeaRFFZBV7CKn1WPnB/5hlufbP1oh/N31b5tWCwn6joeq3hPUmuPHgZtFDsKDiFz/cyp1BhMUFhFp6JSDzWe3oMBHLH12VvyK0X+IFQUQnekwmVG3dPVe3XCSTKfyeWZCd4RV+G2J/BmG4w6hDmcyYUSQiClUDILvO5IWi17jJ3iGLAhKzwJsZuvEZF9qCeA60Hh0aALXZoH9LbYzl9W84ysSxECi7AXLwWxx4nVc8Uk5Dr864jal0RaC5y5S3RZN9gcIJv/dFqS3ph7XoveDiklVDi+BtT7qrbQlG/G5B+e1Ux45A==;zah0FIANfDsL/J8EAjvFUQ=="
 ---
 

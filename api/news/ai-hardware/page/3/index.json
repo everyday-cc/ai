@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-11-20-sandboxaq-announces-ai-simulation-collaboration-with-nvidia-to-impact-the-physical-world.md",
+      "title": "SandboxAQ Announces AI Simulation Collaboration with NVIDIA to Impact the Physical World",
+      "excerpt": "AI and Quantum Simulation (AQ) is Next Significant AI Advancement for Creating Novel Battery Chemistries, Pharmaceutical Drugs, Energy Generation, Construction Materials and More PALO ALTO, Calif., Nov.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/11/n35873661/sandboxaq-announces-ai-simulation-collaboration-with-nvidia-to-impact-the-physical-world",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/11/n35873661/sandboxaq-announces-ai-simulation-collaboration-with-nvidia-to-impact-the-physical-world",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/35873661",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35873661",
+      "publishedDateTime": "2023-11-20T13:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-20-microsoft-at-its-annual-microsoft-ignite-conference-announced-maia-100-its-first-homegrown-artificial-intelligence-ai-chip.md",
       "title": "Microsoft at its annual Microsoft Ignite conference announced Maia 100, its first homegrown artificial intelligence (AI) chip.",
       "excerpt": "Microsoft at its annual Microsoft Ignite conference announced Maia 100, its first homegrown artificial intelligence (AI) chip.",
@@ -1307,49 +1350,6 @@
       "provider": {
         "name": "The Korea Times",
         "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-07-intel-races-to-catch-rivals-as-ai-boom-supercharges-chip-competition.md",
-      "title": "Intel races to catch rivals as AI boom supercharges chip competition",
-      "excerpt": "TAIPEI -- U.S. chip giant Intel is on track to deliver five upgrades to its advanced manufacturing process in four years, CEO Pat Gelsinger said on Tuesday as the company faces pressure to reassure PC and server-making clients that its technology will remain competitive.",
-      "sourceUrl": null,
-      "webUrl": "https://asia.nikkei.com/Business/Tech/Semiconductors/Intel-races-to-catch-rivals-as-AI-boom-supercharges-chip-competition",
-      "originalUrl": "https://asia.nikkei.com/Business/Tech/Semiconductors/Intel-races-to-catch-rivals-as-AI-boom-supercharges-chip-competition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%252Fimages%252F2%252F7%252F3%252F0%252F46800372-1-eng-GB%252FIMG_9316%2520%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%2594%25E3%2583%25BC.jpg?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-07T06:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nikkei Asia",
-        "domain": "nikkei.com",
         "images": null,
         "publishers": null,
         "authors": null

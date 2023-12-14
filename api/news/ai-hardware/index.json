@@ -10,7 +10,7 @@
       "originalUrl": "https://hothardware.com/news/intel-core-ultra-mtl-launch",
       "featuredContent": null,
       "highlight": null,
-      "heat": 168,
+      "heat": 188,
       "tags": null,
       "images": [
         {
@@ -53,7 +53,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2023-12-14/microsoft-explores-using-liquids-to-cool-ai-chips",
       "featuredContent": null,
       "highlight": null,
-      "heat": 251,
+      "heat": 261,
       "tags": null,
       "images": null,
       "content": "",
@@ -97,7 +97,7 @@
       "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/12/13/what-to-expect-at-intel-ai-event-a-discussion-with-ceo-pat-gelsinger/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -191,6 +191,59 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-13-lightning-ai-debuts-iphone-approach-to-new-ai-dev-platform.md",
+      "title": "Lightning AI debuts ‘iPhone approach’ to new AI dev platform",
+      "excerpt": "Lightning AI, the company behind PyTorch Lightning, launched a new cloud-based desktop platform to build and deploy AI products at scale.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/lightning-ai-debuts-iphone-approach-to-new-ai-dev-platform/",
+      "originalUrl": "https://venturebeat.com/ai/lightning-ai-debuts-iphone-approach-to-new-ai-dev-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/12/DALL·E-2023-12-12-17.07.44-A-stunning-scene-of-lightning-striking-a-platform-captured-in-a-16_9-scale.-The-sky-is-dark-and-stormy-filled-with-heavy-clouds-while-the-lightning.png?w=1200&strip=all",
+          "width": 1199,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-13T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -297,7 +350,7 @@
       "originalUrl": "https://www.itweb.co.za/content/6GxRKMYQNGGMb3Wj",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -627,7 +680,7 @@
       "originalUrl": "https://www.technologyreview.com/2023/12/11/1084926/human-brain-cells-chip-organoid-speech-recognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -1334,49 +1387,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-nvidia-warned-redesign-a-gpu-for-ai-for-china-us-government-will-stop-them-the-next-day.md",
-      "title": "NVIDIA warned: redesign a GPU for AI for China, US government will stop them the next day",
-      "excerpt": "US Commerce Secretary Gina Raimondo has warned that we 'cannot' let China get the most powerful AI chips in the world, throws shade at NVIDIA.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/94723/nvidia-warned-redesign-gpu-for-ai-china-us-government-will-stop-them-the-next-day/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/94723/nvidia-warned-redesign-gpu-for-ai-china-us-government-will-stop-them-the-next-day/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tweaktown.com/news/9/4/94723_01_nvidia-warned-redesign-gpu-for-ai-china-us-government-will-stop-them-the-next-day_full.png",
-          "width": 1500,
-          "height": 857,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T00:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -142,6 +142,20 @@ related:
         width: 480
         height: 360
         isCached: true
+  - title: "Google opens Gemini Pro LLM to enterprise developers"
+    excerpt: "Users can access Gemini Pro and Pro Vision through Vertex AI for free until the tool reaches general availability early next year, the company said."
+    publishedDateTime: 2023-12-14T21:56:00Z
+    webUrl: "https://www.ciodive.com/news/google-gemini-pro-llm-enterprise-developer/702590/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 24
+    images:
+      - url: "https://www.ciodive.com/imgproxy/WkKqtHaQSQztwn-NT-vJDEIFy4Y1wzJr3mm3xILTXHA/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTE0MDE5Mjk4ODIuanBn.jpg"
+        width: 770
+        height: 435
+        isCached: true
   - title: "Google Gemini AI tools now available for developers and businesses"
     excerpt: "As well as making their new Gemini API available for developers and enterprise users to harness the power of artificial intelligence in custom AI models,"
     publishedDateTime: 2023-12-14T14:10:00Z
@@ -161,6 +175,6 @@ related:
       domain: cbsnews.com
     quality: 17
 
-secured: "s411JEjLkWRt9uU0/eVUNXkyBsX9Ht94byfucBbaNFaXuCrWIIloaBOKtgMpV2NtVUhYvbrOjTlrCbuBalXz2YIXNoV28N+NUgA+ziqg1PVWJrg1dcavr6vRGvcC6lkA3xFFbRDAR/HRrd5menKr+nCJx0JVt7x4yStSeDy4ozUVJ97bjk6kGZpnv8WOHPcorCnKxuy/FA2t2XW6T96sqmNKZid0pV1FoXU4q6Qp983bImNO+3bm0K0W/rGn3+Tq4LcN93eCtlXpaL0ercsI2ycMp4qbZ8wTiTVrQc2H9hqnWmdHL56A/hIeCNBbLe8i7AVZly77ywddWlGuWkvccuHaL5EwdC8Q/4nvDx36u3E=;a2gndETk2U5jwOr8n8172A=="
+secured: "DANH11RN9p9Lk+ZOrf4GBRCb6bxJbA7uIZhyjzngZciy9yVoKsMCZVQREltxaMfGWt4m/b2QRIY8vUKQGEjXxyEbsSYtid+NOvHpgY2uxtReY4txePhb71/jQLoZhMIOA7xuHLpvO4Ft0tApva03gkeeFc4UE5pz9tbqE/MEcw5G/lfcuVt76I3eQ0eW9Y8MzeIEmAqHSCGaS/yBOjNtA+u/rPT88jKWvPAmOiK+aQ5EMr/veLMNRJYtt5HMzbyuQYZwSRFsg7+Afu0DgD3VEscdPxYJT+veDbPli9Qeu7Kps17ciddVo+RnCcmCP00W5tBx+EAjzEYfOv9MgI8Y2t8UCW2bDk4xSvreiGTbl5SxDdb7zEhOMKHgb/AaK/ZL+SR4/JMzV6M83hjfKxKV3+5rxVF/H3yGNtQrpVFMQAleC5VCDUqIsCMnv431cAYSPPjIDaOgDpGQidKFSScrhH71B5mvArpIIAS2fUhugIZ3Bph6v44YpunOk/00IindZsgO4YUpu+2X49RlYfjXzg==;VKV9WRNCURn8v7gtfjVkgg=="
 ---
 

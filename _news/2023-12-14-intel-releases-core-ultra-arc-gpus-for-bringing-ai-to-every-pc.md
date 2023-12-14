@@ -69,6 +69,20 @@ related:
         width: 2000
         height: 1385
         isCached: true
+  - title: "Intel Puts Artificial Intelligence First With Processor Announcements"
+    excerpt: "The Intel Core Ultra mobile processor family brings AI to PCs, while 5th Gen Intel Xeon processors offer AI acceleration for data centers."
+    publishedDateTime: 2023-12-14T21:35:00Z
+    webUrl: "https://www.techrepublic.com/article/intel-ai-everywhere-event-2023/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 67
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/12/core-ultra-fig-a-dec-23.jpeg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "MSI Prestige 'Meteor Lake' Laptops, Hands On: Intel's Core Ultra Brings AI to Work"
     excerpt: "Intel's new Core Ultra laptop CPUs, packing built-in AI hardware, meet MSI's business-class Prestige machines. We checked out these early Meteor Lake laptops ahead of launch."
     publishedDateTime: 2023-12-14T15:00:00Z
@@ -159,6 +173,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 18
+  - title: "Acer Debuts AI-Ready Swift Go 14 Laptop with New Intel Core Ultra Processors"
+    excerpt: "New Acer Swift Go 14 laptop enables AI-accelerated experiences and capabilities complemented by Intel AI Boost and Copilot in Windows 11"
+    publishedDateTime: 2023-12-14T19:03:00Z
+    webUrl: "https://www.valdostadailytimes.com/ap/business/acer-debuts-ai-ready-swift-go-14-laptop-with-new-intel-core-ultra-processors/article_76107b90-fdd8-518b-9d55-33e06522208e.html"
+    type: article
+    provider:
+      name: The Valdosta Daily Times
+      domain: valdostadailytimes.com
+    quality: 16
 
 secured: "bOh0CXZhtQCSELlnIZFvgzXc/bRJzMeOJuOtbsBrqo5isdfxN+QzKuNge74BrQpLH91H7lE2OromxmLmB1MjQzXr62CHGFl28l/1Zutz3Citlm/nNorlkAB1IhwGjFYo0VIt1q1odkEADsy+7vcbD57oWdqHX/s0KMMFclIZGGyHlGb0w1bpgfDDxFwqUAJ/JDPBLlYEvzEL3LdpjpiOm15SzqYBIXThw5/6tSykJk97h5nkm20c1dgiPUwa11ZgsiJDBWKAj7HkesMCSC+xSFtLpt7zEytmA0/VypjbqLKLBXxfKyAummVyAFgz5SX2y37OxYI1zXFpwFKqWzHGW29ztqsyfXU0R0EMyGRVilU=;IlsKMuzw+iJAOaL8/pWhgQ=="
 ---

@@ -79,6 +79,15 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 64
+  - title: "Microsoft drastically expands Azure AI Studio to include Llama 2 Model-as-a-Service, GPT-4 Turbo with Vision"
+    excerpt: "Today, the company announced that it is making Meta Platforms’ rival open-sourced AI model Llama 2 available in Azure AI Studio, its cloud platform AI clearinghouse, in the form of a “model-as-a-service.” Similar to the now old acronym of SaaS ..."
+    publishedDateTime: 2023-12-14T11:52:00Z
+    webUrl: "https://venturebeat.com/ai/microsoft-drastically-expands-azure-ai-studio-to-include-llama-2-model-as-a-service-gpt-4-turbo-with-vision/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 62
   - title: "Microsoft releases Phi-2, a small language model AI that outperforms Llama 2, Mistral 7B"
     excerpt: "Microsoft researchers also noted in their blog post on the Phi-2 release that it outperforms Google's brand new Gemini Nano 2 model."
     publishedDateTime: 2023-12-12T18:01:00Z

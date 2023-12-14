@@ -6,9 +6,9 @@ publishedDateTime: 2023-12-13T15:00:00Z
 originalUrl: "https://venturebeat.com/ai/lightning-ai-debuts-iphone-approach-to-new-ai-dev-platform/"
 webUrl: "https://venturebeat.com/ai/lightning-ai-debuts-iphone-approach-to-new-ai-dev-platform/"
 type: article
-quality: 69
-heat: 69
-published: false
+quality: 71
+heat: 71
+published: true
 
 provider:
   name: VentureBeat
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AWS AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/12/DALL·E-2023-12-12-17.07.44-A-stunning-scene-of-lightning-striking-a-platform-captured-in-a-16_9-scale.-The-sky-is-dark-and-stormy-filled-with-heavy-clouds-while-the-lightning.png?w=1200&strip=all"

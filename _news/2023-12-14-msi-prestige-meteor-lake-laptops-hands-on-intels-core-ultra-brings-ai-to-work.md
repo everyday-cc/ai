@@ -72,6 +72,20 @@ related:
         width: 2000
         height: 1385
         isCached: true
+  - title: "Intel Puts Artificial Intelligence First With Processor Announcements"
+    excerpt: "The Intel Core Ultra mobile processor family brings AI to PCs, while 5th Gen Intel Xeon processors offer AI acceleration for data centers."
+    publishedDateTime: 2023-12-14T21:35:00Z
+    webUrl: "https://www.techrepublic.com/article/intel-ai-everywhere-event-2023/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 67
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/12/core-ultra-fig-a-dec-23.jpeg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Intel unveils Core Ultra, its first CPUs with integrated NPU for “AI PCs”"
     excerpt: "Intel unveils Intel Core Ultra CPUs with a dedicated on-chip AI accelerator (NPU) and a tri-cluster CPU design. Built on Intel 4 (7nm node), the CPUs"
     publishedDateTime: 2023-12-14T17:56:00Z
@@ -162,6 +176,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 18
+  - title: "Acer Debuts AI-Ready Swift Go 14 Laptop with New Intel Core Ultra Processors"
+    excerpt: "New Acer Swift Go 14 laptop enables AI-accelerated experiences and capabilities complemented by Intel AI Boost and Copilot in Windows 11"
+    publishedDateTime: 2023-12-14T19:03:00Z
+    webUrl: "https://www.valdostadailytimes.com/ap/business/acer-debuts-ai-ready-swift-go-14-laptop-with-new-intel-core-ultra-processors/article_76107b90-fdd8-518b-9d55-33e06522208e.html"
+    type: article
+    provider:
+      name: The Valdosta Daily Times
+      domain: valdostadailytimes.com
+    quality: 16
 
 secured: "/7zIuHVsja9DM4uQzN8ugdNR0cvcG0ozu5IcorVrxmQjoGq0oPtZ63wxTtzMZPH13xuaaSv7YdNwEeXZZVoPJ2uJTkkczirGi7NOUfvCD8zoXnxSHfi70AuYH3hhvujGVO9tjA8j/tZROh0t3zP1QQxMv1R/NXTMH+Ox2m8MZJTPAa22qxCUsoOITFUrxJ6f4e4mp38e85pBUhZb+upWXYE4w5JOvHc+2ifRNsNN0D1LuUTOUqT/11GiYYjOHkNpJqCyhz1AyQxCApWRR/GzmBea1bCCklSgLB72nvyIteVOxhP+gPbr+xbV002Z9WM0CuACXY+InIvqsoXTersN34y11YX2u+xJpI8uNLMsa6c=;iOlvMmCRLY+dWmU2gSHaXQ=="
 ---

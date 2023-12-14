@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/11/why-genera
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/11/why-generative-ai-makes-sense-for-edge-computing/amp/"
 type: article
 quality: 91
-heat: 201
+heat: 211
 published: true
 
 provider:
@@ -116,6 +116,20 @@ related:
       - url: "https://assets.bizclikmedia.net/1200/b6ed12eb7ec28ad5ae14a6ea7d05b679:cc2c9ffd810a582fef0d67f56f8aff04/nasser-khodri.jfif.jpg"
         width: 1200
         height: 631
+        isCached: true
+  - title: "Pope, once a victim of AI-generated imagery, calls for treaty to regulate artificial intelligence"
+    excerpt: "Earlier this year, an AI-generated image of him wearing a luxury white puffer jacket went viral, showing just how quickly realistic deepfake imagery can spread online."
+    publishedDateTime: 2023-12-14T22:47:00Z
+    webUrl: "https://www.bostonglobe.com/2023/12/14/world/pope-once-victim-ai-generated-imagery-calls-treaty-regulate-artificial-intelligence/"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 39
+    images:
+      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/jawMyvYAlTL64xtfAzfzhMaYsuI=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/O6U5RLNTEBGZCS2NZYU3LYDSWM.JPEG"
+        width: 506
+        height: 318
         isCached: true
   - title: "Turn Generative AI from an Existential Threat into a Competitive Advantage"
     excerpt: "By making it vastly easier and cheaper to improve or create products and services that previously required significant human labor and creativity, generative AI has the potential to disrupt or even commoditize many businesses."

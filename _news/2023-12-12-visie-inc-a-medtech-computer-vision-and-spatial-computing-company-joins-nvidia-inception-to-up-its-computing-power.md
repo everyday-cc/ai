@@ -1,18 +1,18 @@
 ---
 category: news
 title: "VISIE Inc., a Medtech Computer Vision and Spatial Computing Company, Joins NVIDIA Inception to Up Its Computing Power"
-excerpt: "VISIE Inc., formerly Advanced Scanners, today announced it has joined NVIDIA Inception, a program that empowers early-stage companies revolutionizing"
+excerpt: "VISIE Inc., a Medtech Computer Vision and Spatial Computing Company, Joins NVIDIA Inception to Up Its Computing Power"
 publishedDateTime: 2023-12-12T13:17:00Z
-originalUrl: "https://www.businesswire.com/news/home/20231212663423/en/VISIE-Inc.-a-Medtech-Computer-Vision-and-Spatial-Computing-Company-Joins-NVIDIA-Inception-to-Up-Its-Computing-Power/"
-webUrl: "https://www.businesswire.com/news/home/20231212663423/en/VISIE-Inc.-a-Medtech-Computer-Vision-and-Spatial-Computing-Company-Joins-NVIDIA-Inception-to-Up-Its-Computing-Power/"
+originalUrl: "https://www.joplinglobe.com/region/national_business/visie-inc-a-medtech-computer-vision-and-spatial-computing-company-joins-nvidia-inception-to-up/article_9d5c4298-93ba-5032-8038-5d4436cdff8a.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/visie-inc-a-medtech-computer-vision-and-spatial-computing-company-joins-nvidia-inception-to-up/article_9d5c4298-93ba-5032-8038-5d4436cdff8a.html"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - Computer Vision
@@ -52,6 +52,6 @@ related:
         height: 720
         isCached: true
 
-secured: "s4FvI1KTbY0Vhla9VrQFHxsHgG8Ys7SHb+dinbwqHlMAJ8++oCU5cVQJXpqqORGp2yxLI3YRw746Bs/zoa8PV6v5UouM5b11VI5iQtojypqhrXN79u4Hq6CKTvN49NLmStxfw/s1FARPhAEouKzlc1WpjC6uTUDEViXexbnRoKdNcI7B90YTla+J2rYBLPdrLAiYx5DS+unORrfajo5HMpWpCshKQBvmNgevQD0wKwulno6ruWDFSqtdH/Dja5owyoZQEJjsp+cCrjixXAi2kjzde4bJQ8fgOWCbAfhRFy9l9zIiTUosfj1b4rrZG+OqxMDeBQtV427iv3yTWdh2Z7rttRxl8akA/SXNZuveRhc=;ULP2XQq4FGuTs80kyHs5Iw=="
+secured: "WpCFNi+nkOO0c+t9nUxnZd5wMTgTj8mUqdoMn6Dx/r9w5l2J+s9hExfcpT1WX+a4FG2u5KWEwu/kcdDEe7O6JA9xcPuyTwI7myihH+i2NC9yTSICg/k8L8VSm9cNvpGJvG19d0SXtlKevV9TWStM2vY7Imblz1eC6Q+0aIalR4Hm9xULjRYLGtvWdkz0I3BUCoVH4+2t9gNPjaFgnbTXeITS7zYS33kgb4iEC3rw7sW1UekkbhQTJsb/8zSkcKZ0anZOL0TBIbEpTDEkX1f4301mTG26XokZ6hPOt/bBKZ9bw8tnjn/G5WSjVHjtdDYEzJTKR3E3VkQ13h8Lo2oiUHG3OU3mH4U9VK7H1Tc1Z1/vloLdfP+0sePnuWBxkjuHE/fDjq7Uk2ib1UcRDlDjwfCDbbrJ0+FjT+w58H64XxeQ8QhSU5qxAoyP6pW5VnyOxnmwHt3ofYJzlYxRU5CQZM5CxfRYUxSPAJ+0kOM3F24pVHnbiIY2s+UgE/wdhFTk7P/YYxre1wnErPy/XZsa2g==;fSpIHhhCvuIwYzG/ENiDVg=="
 ---
 

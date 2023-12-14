@@ -2,6 +2,41 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-12-01-deepmind-tortured-chatgpt-to-reveal-sources.md",
+      "title": "DeepMind tortured ChatGPT to reveal sources",
+      "excerpt": "We ask the questions A team of boffins from Google's DeepMind used a torture method on ChatGPT until it revealed the snippets of the data it was trained on. The boffins used a new type of attack prompt which asked a production model of the chatbot to repeat specific words forever.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fudzilla.com/news/ai/58034-deepmind-tortured-chatgpt-to-reveal-sources",
+      "originalUrl": "https://www.fudzilla.com/news/ai/58034-deepmind-tortured-chatgpt-to-reveal-sources",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T10:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fudzilla",
+        "domain": "fudzilla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-01-meta-ai-chief-yann-lecun-on-his-open-source-mission-and-the-surprise-of-chatgpt.md",
       "title": "Meta AI Chief Yann LeCun On His Open Source Mission And The ‘Surprise’ Of ChatGPT",
       "excerpt": "Launched as Facebook AI Research in 2013 (the F was later changed to “Fundamental” after the company rebranded as Meta two years ago), the unit set out to pioneer scientific breakthroughs in ...",
@@ -1361,40 +1396,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-16-scale-ai-to-enable-enterprises-to-customize-large-language-models-and-build-robust-generative-ai-applications-on-microsoft-azure.md",
-      "title": "Scale AI to Enable Enterprises to Customize Large Language Models and Build Robust Generative AI Applications on Microsoft Azure",
-      "excerpt": "Scale AI, the data engine that powers the most advanced AI applications, today announced a collaboration with Microsoft at Microsoft Ignite to deliver",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20231115149949/en/Scale-AI-to-Enable-Enterprises-to-Customize-Large-Language-Models-and-Build-Robust-Generative-AI-Applications-on-Microsoft-Azure",
-      "originalUrl": "https://www.businesswire.com/news/home/20231115149949/en/Scale-AI-to-Enable-Enterprises-to-Customize-Large-Language-Models-and-Build-Robust-Generative-AI-Applications-on-Microsoft-Azure",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-16T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

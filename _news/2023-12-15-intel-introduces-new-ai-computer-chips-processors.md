@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Intel Introduces Core Ultra Chips with NPUs for AI Advancements"
+    excerpt: "Intel has ushered in a new era for AI-powered PCs with the release of its cutting-edge Core Ultra notebook chips. These chips are Codenamed \"Meteor Lake\""
+    publishedDateTime: 2023-12-14T20:44:00Z
+    webUrl: "https://techlomedia.in/2023/12/intel-introduces-core-ultra-chips-with-npus-for-ai-advancements-103680/"
+    ampWebUrl: "https://techlomedia.in/2023/12/intel-introduces-core-ultra-chips-with-npus-for-ai-advancements-103680/"
+    cdnAmpWebUrl: "https://techlomedia-in.cdn.ampproject.org/c/s/techlomedia.in/2023/12/intel-introduces-core-ultra-chips-with-npus-for-ai-advancements-103680/"
+    type: article
+    provider:
+      name: techlomedia.in
+      domain: techlomedia.in
+    quality: 74
+    images:
+      - url: "https://techlomedia.in/wp-content/uploads/2023/12/Intel-core-ultra.jpg"
+        width: 900
+        height: 450
+        isCached: true
   - title: "Intel and Vertiv partner to liquid cool AI processors"
     excerpt: "Liquid cooling has till now been pretty much confined to CPUs and GPUs, but Intel’s Gaudi3 AI accelerator can be liquid- or air-cooled cooled to a partnership with cooling specialist Vertiv."
     publishedDateTime: 2023-12-12T21:28:00Z

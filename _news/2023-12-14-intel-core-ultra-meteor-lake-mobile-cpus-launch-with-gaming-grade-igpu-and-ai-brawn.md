@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.hothardware.com/news/intel-core-ultra-mtl-launch"
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/intel-core-ultra-mtl-launch"
 type: article
 quality: 68
-heat: 168
+heat: 188
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://www.techspot.com/images2/news/bigimage/2023/12/2023-12-14-image-9.jpg"
         width: 2000
         height: 1385
+        isCached: true
+  - title: "Intel Puts Artificial Intelligence First With Processor Announcements"
+    excerpt: "The Intel Core Ultra mobile processor family brings AI to PCs, while 5th Gen Intel Xeon processors offer AI acceleration for data centers."
+    publishedDateTime: 2023-12-14T21:35:00Z
+    webUrl: "https://www.techrepublic.com/article/intel-ai-everywhere-event-2023/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 67
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/12/core-ultra-fig-a-dec-23.jpeg"
+        width: 800
+        height: 533
         isCached: true
   - title: "MSI Prestige 'Meteor Lake' Laptops, Hands On: Intel's Core Ultra Brings AI to Work"
     excerpt: "Intel's new Core Ultra laptop CPUs, packing built-in AI hardware, meet MSI's business-class Prestige machines. We checked out these early Meteor Lake laptops ahead of launch."
@@ -159,6 +173,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 18
+  - title: "Acer Debuts AI-Ready Swift Go 14 Laptop with New Intel Core Ultra Processors"
+    excerpt: "New Acer Swift Go 14 laptop enables AI-accelerated experiences and capabilities complemented by Intel AI Boost and Copilot in Windows 11"
+    publishedDateTime: 2023-12-14T19:03:00Z
+    webUrl: "https://www.valdostadailytimes.com/ap/business/acer-debuts-ai-ready-swift-go-14-laptop-with-new-intel-core-ultra-processors/article_76107b90-fdd8-518b-9d55-33e06522208e.html"
+    type: article
+    provider:
+      name: The Valdosta Daily Times
+      domain: valdostadailytimes.com
+    quality: 16
 
 secured: "Lz2uFK7tyUehfTnDdNiTc260CFmlN8mAjBkq+1wnNdp7LXUgiPRIf6bnUw/sYfcScjGAJj3NLR5g54TfDg7va+QXfuk6ob0JF9YHjO143MTYrg1yh7ZD3XyI8x2RwxwO9uhJwugQbFYJ/5AVp042J6sh7skqEu9AVeD+hxzMkgDk2DwQVMSlpOVuOYDmiCncxjIyBSf7MEb41I5BWnJh8wtO473fYNcjfMeUIZ/QMW0UdPnFOsjc/kJDh3xt3343kuY08O/Y1D0r5g5abe1mLVOi71NVAwwuPunvauB6iSSNhNNZFfDuzWHjSg5iAct2v4OtKxxYhuen2bIzn45HJIM4EyN3e91+ivoNvklDyyC+OFVS1ZPLQvPd0H7kWv1Fp7iGc2i9N0MChsB14caJD/QTWpv0WpkUJTVIRyxgSY7jF3XOCnmmhkRMO9s7k6a++eh+TfZML+6SGNCh6iSsKxiNo6W+Arca6ukMCtg866GOR9uW8QplTX6bkB/Re3bUJTxHgz2dZZ6gjoDlMLJTmg==;Cpz2W/Cdbz+0MzoRRx8aWg=="
 ---

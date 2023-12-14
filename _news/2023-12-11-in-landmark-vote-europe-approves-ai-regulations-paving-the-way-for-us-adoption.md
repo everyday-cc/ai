@@ -54,6 +54,20 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "Can AI outsmart Europe’s bid to regulate it?"
+    excerpt: "European efforts to regulate artificial intelligence show how hard it is to harness such a fast-moving phenomenon at the heart of global society."
+    publishedDateTime: 2023-12-14T17:40:00Z
+    webUrl: "https://www.csmonitor.com/World/Europe/2023/1214/Can-AI-outsmart-Europe-s-bid-to-regulate-it"
+    type: article
+    provider:
+      name: Christian Science Monitor
+      domain: csmonitor.com
+    quality: 37
+    images:
+      - url: "https://images.csmonitor.com/csm/2023/12/1214%20OAI%20lede.jpg?alias=standard_900x600"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "n52XOrp6grqnUVt1LCOVkNd0mD4ZPVfs1BSVVBOlfFZ963vNgYDwouHa5LnhCiTpBol1Nqhz0ziHLiCcTVsJJlmIBFSghHvBR/19dyFIwrriUI6lTL7szH+LWkCD0E4zgoul9Xh37NkX/o8aU3W5MSSHuNMdBr2/LFym76Z5kYSc98fwPPvoLHkKPYHwMtA7jcgKIOc7gIcEwSXCC8+RIAK9qF72D1B4Ai6jqeDVMmxva5Ifg5rq+1g4gwlJDvLKUq1dxWPh+plYn47G1kxkZiOQZRl5OVI9Ppr6D4/G+rVN1m0R5fELJQYDIqPVr2nLrAV10kdVmFabPL6SXBjZVf6ezoxdgTnszidkz6CRqkkNILYKx3gKQssxMv5fuXGweZbRCBpFDBqgpT0MDeVsVzLALYsyoH8E8kWRGM/3rLcFvk1KFhyDvyUYd1dZl+6g1893MXWG9NGnSwXfL4hEWrWZhiBaTqY8aO/4jUg2zWoZgJUHupsS8mQPQq0Jxb90XFAqOW+mVK0jhCKKwLatFA==;Lp1nqcNNUb8LTh7b+qWw/w=="
 ---

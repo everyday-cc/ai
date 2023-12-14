@@ -7,7 +7,7 @@ originalUrl: "https://www.dexerto.com/gaming/epic-games-reveal-instructions-for-
 webUrl: "https://www.dexerto.com/gaming/epic-games-reveal-instructions-for-first-lego-fortnite-set-2425485/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "What do the Glowing Butterflies do in LEGO Fortnite?"
-    excerpt: "The Glowing Butterflies will lead you to loot sources in LEGO Fortnite. Whenever I followed a Glowing Butterfly, It took me to a Loot Chest or a LEGO Loot Llama. While the loot was nothing spectacular, the additional resources allowed me to unlock a few new recipes, like Slap Juice."
-    publishedDateTime: 2023-12-09T22:00:00Z
-    webUrl: "https://dotesports.com/fortnite/news/what-do-the-glowing-butterflies-do-in-lego-fortnite"
-    type: article
-    provider:
-      name: Dot Esports
-      domain: dotesports.com
-    quality: 24
-    images:
-      - url: "https://dotesports.com/wp-content/uploads/2023/12/loot-lama.jpg?w=640"
-        width: 640
-        height: 360
-        isCached: true
   - title: "How to find Lego Fortnite Loot Llamas"
     excerpt: "There are plenty of animals in Lego Fortnite – most of which want to kill you – but one in particular is always a sight for sore eyes; the Loot Llama. This colorful, pinata-esque llama appears almost at random in the survival game, and if petted ..."
     publishedDateTime: 2023-12-14T00:01:00Z

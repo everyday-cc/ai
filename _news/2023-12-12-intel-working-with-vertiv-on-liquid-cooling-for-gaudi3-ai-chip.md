@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/6GxRKMYQNGGMb3Wj"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/6GxRKMYQNGGMb3Wj"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Intel Introduces Core Ultra Chips with NPUs for AI Advancements"
+    excerpt: "Intel has ushered in a new era for AI-powered PCs with the release of its cutting-edge Core Ultra notebook chips. These chips are Codenamed \"Meteor Lake\""
+    publishedDateTime: 2023-12-14T20:44:00Z
+    webUrl: "https://techlomedia.in/2023/12/intel-introduces-core-ultra-chips-with-npus-for-ai-advancements-103680/"
+    ampWebUrl: "https://techlomedia.in/2023/12/intel-introduces-core-ultra-chips-with-npus-for-ai-advancements-103680/"
+    cdnAmpWebUrl: "https://techlomedia-in.cdn.ampproject.org/c/s/techlomedia.in/2023/12/intel-introduces-core-ultra-chips-with-npus-for-ai-advancements-103680/"
+    type: article
+    provider:
+      name: techlomedia.in
+      domain: techlomedia.in
+    quality: 74
+    images:
+      - url: "https://techlomedia.in/wp-content/uploads/2023/12/Intel-core-ultra.jpg"
+        width: 900
+        height: 450
+        isCached: true
   - title: "Intel introduces new AI computer chips, processors"
     excerpt: "Intel Corporation showcased its latest artificial intelligence products during the launch event in New York on Thursday, including Gaudi3, an AI-powered chip designed for AI software which is"
     publishedDateTime: 2023-12-14T18:07:00Z

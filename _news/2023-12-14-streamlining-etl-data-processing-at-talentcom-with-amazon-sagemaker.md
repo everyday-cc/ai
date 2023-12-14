@@ -57,6 +57,20 @@ related:
         width: 1004
         height: 500
         isCached: true
+  - title: "Boost productivity on Amazon SageMaker Studio: Introducing JupyterLab Spaces and generative AI tools"
+    excerpt: "Amazon SageMaker Studio offers a broad set of fully managed integrated development environments (IDEs) for machine learning (ML) development, including JupyterLab, Code Editor based on Code-OSS (Visual Studio Code Open Source), and RStudio. It provides access to the most comprehensive set of tools for"
+    publishedDateTime: 2023-12-14T21:48:11Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/boost-productivity-on-amazon-sagemaker-studio-introducing-jupyterlab-spaces-and-generative-ai-tools/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/12/14/ML-16046-image001-879x630.jpg"
+        width: 879
+        height: 630
+        isCached: true
   - title: "Build an end-to-end MLOps pipeline using Amazon SageMaker Pipelines, GitHub, and GitHub Actions"
     excerpt: "Machine learning (ML) models do not operate in isolation. To deliver value, they must integrate into existing production systems and infrastructure, which necessitates considering the entire ML lifecycle during design and development. ML operations, known as MLOps, focus on streamlining, automating,"
     publishedDateTime: 2023-12-13T15:57:07Z

@@ -10,7 +10,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-aws-prototyping-enabled-icl-group-to-build-computer-vision-models-on-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 152,
+      "heat": 162,
       "tags": null,
       "images": [
         {
@@ -194,7 +194,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/11/why-generative-ai-makes-sense-for-edge-computing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 201,
+      "heat": 211,
       "tags": null,
       "images": [
         {
@@ -476,43 +476,25 @@
     {
       "path": "_news/2023-12-04-landing-ai-announces-new-capability-to-build-domain-specific-large-vision-models.md",
       "title": "Landing AI Announces New Capability to Build Domain-Specific Large Vision Models",
-      "excerpt": "LVMs enable enterprises to solve computer vision problems more quickly; Landing AI to help enterprises build and run LVMs at the edge, on-prem, and in the cloud PALO ALTO, Calif. , Dec. 4, 2023 /PRNewswire/ -- Landing AI, the leading computer vision cloud ...",
+      "excerpt": "Landing AI, the leading computer vision cloud platform, announced the launch of its capability to help enterprises build domain-specific large vision models (LVMs). The groundbreaking advancement enables businesses with vast image libraries to bring artificial intelligence to their proprietary image data,",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/landing-ai-announces-new-capability-to-build-domain-specific-large-vision-models-1032870378",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/landing-ai-announces-new-capability-to-build-domain-specific-large-vision-models-1032870378",
+      "webUrl": "https://www.tmcnet.com/usubmit/2023/12/04/9927276.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2023/12/04/9927276.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2291237/LVMs.jpg",
-          "width": 400,
-          "height": 255,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T08:30:00Z",
+      "publishedDateTime": "2023-12-04T13:45:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

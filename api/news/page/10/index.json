@@ -2,6 +2,84 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-12-06-how-will-artificial-intelligence-change-medicine-and-healthcare.md",
+      "title": "How will Artificial intelligence change medicine and healthcare?",
+      "excerpt": "Artificial intelligence is all over the news with scary stories about how computers will be thinking on their own and eventually taking jobs from people. But there are great",
+      "sourceUrl": null,
+      "webUrl": "https://www.wwlp.com/massappeal/how-will-artificial-intelligence-change-medicine-and-healthcare/",
+      "originalUrl": "https://www.wwlp.com/massappeal/how-will-artificial-intelligence-change-medicine-and-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wwlp.com/wp-content/uploads/sites/26/2023/12/dr-k.jpg?w=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.wwlp.com/massappeal/how-will-artificial-intelligence-change-medicine-and-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-wwlp-com.cdn.ampproject.org/c/s/www.wwlp.com/massappeal/how-will-artificial-intelligence-change-medicine-and-healthcare/amp/",
+      "publishedDateTime": "2023-12-05T17:24:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WWLP-22News",
+        "domain": "wwlp.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-ny-lawmakers-looking-to-address-promise-threat-of-artificial-intelligence.md",
+      "title": "NY lawmakers looking to address promise, threat of artificial intelligence",
+      "excerpt": "AI can greatly advance health care and create better jobs, experts say, but it also can create a deeper gulf in income inequality and help erode human rights and freedoms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsday.com/news/region-state/artificial-intelligence-state-legislature-kathy-hochul-privacy-jobs-aece6jqs",
+      "originalUrl": "https://www.newsday.com/news/region-state/artificial-intelligence-state-legislature-kathy-hochul-privacy-jobs-aece6jqs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.newsday.com/amp/news/region-state/artificial-intelligence-state-legislature-kathy-hochul-privacy-jobs-aece6jqs",
+      "cdnAmpWebUrl": "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/news/region-state/artificial-intelligence-state-legislature-kathy-hochul-privacy-jobs-aece6jqs",
+      "publishedDateTime": "2023-12-05T17:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsday",
+        "domain": "newsday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-12-06-best-robot-vacuum-deals-you-can-get-before-christmas.md",
       "title": "Best robot vacuum deals you can get before Christmas",
       "excerpt": "The iRobot Roomba j7+ is designed with the issue of dog poop in mind. This smart vacuum ... or device to better to control the appliance remotely. Pet owners, including this verified purchaser, love the Lefant robot vacuum. \"I got this for my upstairs ...",
@@ -944,92 +1022,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-the-7-best-artificial-intelligence-ai-stocks-to-buy-now.md",
-      "title": "The 7 Best Artificial Intelligence (AI) Stocks to Buy Now",
-      "excerpt": "Become a Motley Fool member today to get instant access to our top analyst recommendations, in-depth research ... AI. Improved ad targeting through AI should help power sales growth across its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/12/05/the-7-best-artificial-intelligence-ai-stocks-to-bu/",
-      "originalUrl": "https://www.fool.com/investing/2023/12/05/the-7-best-artificial-intelligence-ai-stocks-to-bu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T08:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-next-generation-generative-ai-updates-for-altair-rapidminer.md",
-      "title": "Next-Generation Generative AI Updates For Altair RapidMiner",
-      "excerpt": "Sam Mahalingam, Altair’s CTO, said, “Altair RapidMiner’s upgrades take it to a new level, making it a unique, end-to-end offering in data analytics and AI. It empowers users of all levels with powerful low- and no-code tools, reducing friction and speeding up digital transformation for organizations in all sectors.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicsforu.com/news/altair-india-unveils-next-generation-generative-ai-updates-for-altair-rapidminer",
-      "originalUrl": "https://www.electronicsforu.com/news/altair-india-unveils-next-generation-generative-ai-updates-for-altair-rapidminer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.electronicsforu.com/wp-contents/uploads/2021/05/mag-image.png",
-          "width": 370,
-          "height": 298,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T06:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "electronicsforu",
-        "domain": "electronicsforu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

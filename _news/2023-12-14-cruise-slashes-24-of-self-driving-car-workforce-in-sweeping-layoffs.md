@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/12/14/cruise-slashes-24-of-self-driving-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/14/cruise-slashes-24-of-self-driving-car-workforce-in-sweeping-layoffs/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 104
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "GM to lay off 900 workers at self-driving unit"
+    excerpt: "General Motors announced it is laying off 900 workers at Cruise, the company’s self-driving unit. Those layoffs will impact around 24% of its workforce."
+    publishedDateTime: 2023-12-14T19:32:00Z
+    webUrl: "https://www.fox17online.com/news/national-news/gm-to-lay-off-900-workers-at-self-driving-unit"
+    type: article
+    provider:
+      name: fox17online
+      domain: fox17online.com
+    quality: 24
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/d97025f/2147483647/strip/true/crop/640x336+0+72/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsharing.wxyz.com%2Fsharescnn%2Fphoto%2F2016%2F01%2F04%2Fb791cfbfbc4b95008c0f6a70670072d9_1451914559153_29345818_ver1.0_640_480.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "GM's Cruise fires 9 leaders amid ongoing self-driving investigation"
     excerpt: "General Motors subsidiary Cruise fired nine employees Wednesday as a result an ongoing investigation into an Oct. 2 self-driving crash involving a pedestrian and the company's subsequent actions."
     publishedDateTime: 2023-12-13T23:11:00Z
@@ -40,6 +54,22 @@ related:
       name: Automotive News
       domain: autonews.com
     quality: 4
+  - title: "GM's self-driving car company Cruise lays off 900 workers - nearly 25 percent of its workforce - ahead of Christmas after a series of safety mishaps and having its permit ..."
+    excerpt: "The new footage from the vehicle showed that the car continued driving after the initial stop and attempted a 'pullover maneuver,' traveling about 20 feet while the pedestrian was still trapped underneath. In September, two Cruise driverless taxis ..."
+    publishedDateTime: 2023-12-14T21:48:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-12865491/GM-self-driving-car-company-Cruise-lays-900-workers-nearly-25-percent-workers.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-12865491/amp/GM-self-driving-car-company-Cruise-lays-900-workers-nearly-25-percent-workers.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-12865491/amp/GM-self-driving-car-company-Cruise-lays-900-workers-nearly-25-percent-workers.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 0
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2023/12/14/21/78973895-0-image-a-26_1702589352839.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "hRs2v0uyAq2rUBGhpBO3jSXW9GQGK7BovcUX2vfofJ1hRdk78I/LEzE3VHOUwmqh/NspFy6wbmKnsm9AfwTf7zg3MBZ9IuyO8unFS4sVN3vKX4mgOPLTVh3Lv9HfcSAhM0kE0v2fz8nW+VQ6n2Sz1j8ktm6RDeNyirP+TGj9t3+4uqYs71mehog2CwUTSDlkpVO+/ePOdBdSU/STE9/6o7MSMhJqi4bZkJzE0CqB40cIRRZCpzQ8/loeG4LdYvhN+Q5fukV+eqFR9GRRjnSmwy6Bt4yfX9aD8l+KckA49WOVdr9YLiSWvpg+/EpGjHBkJUIdGC+X9hD10WGCbMgk2g+E3wMeGqqWuR2tJkjYIzwHKZ/7jGW7pUMzl1vc1fQs7o/oPYCF2YJ+2ClgeHsVatHJbsWNDcpOamgdKHjDFigsFsequPnMLpF8QiI4FBGDsdK+HWbSFl+PxDz/cEbYkb6ukVFjwPuDEEtKBEp5/w/hHTL9rTZg1eskQYlG4siIc6hhPmYUozBhFkJbCNqwhg==;72AVWsT2qB30ew7ua5dKfg=="
 ---

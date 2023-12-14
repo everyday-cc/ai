@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-12-05-nvidia-warned-redesign-a-gpu-for-ai-for-china-us-government-will-stop-them-the-next-day.md",
+      "title": "NVIDIA warned: redesign a GPU for AI for China, US government will stop them the next day",
+      "excerpt": "US Commerce Secretary Gina Raimondo has warned that we 'cannot' let China get the most powerful AI chips in the world, throws shade at NVIDIA.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/94723/nvidia-warned-redesign-gpu-for-ai-china-us-government-will-stop-them-the-next-day/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/94723/nvidia-warned-redesign-gpu-for-ai-china-us-government-will-stop-them-the-next-day/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tweaktown.com/news/9/4/94723_01_nvidia-warned-redesign-gpu-for-ai-china-us-government-will-stop-them-the-next-day_full.png",
+          "width": 1500,
+          "height": 857,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-05T00:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-04-can-broadcoms-latest-silicon-ai-chip-revolutionize-network-efficiency.md",
       "title": "Can Broadcom’s latest silicon AI chip revolutionize network efficiency?",
       "excerpt": "Broadcom's Trident 5-X12 chip revolutionizes AI cluster networking with advanced AI and neural network technology.",
@@ -1357,49 +1400,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-20-sandboxaq-announces-ai-simulation-collaboration-with-nvidia-to-impact-the-physical-world.md",
-      "title": "SandboxAQ Announces AI Simulation Collaboration with NVIDIA to Impact the Physical World",
-      "excerpt": "AI and Quantum Simulation (AQ) is Next Significant AI Advancement for Creating Novel Battery Chemistries, Pharmaceutical Drugs, Energy Generation, Construction Materials and More PALO ALTO, Calif., Nov.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/11/n35873661/sandboxaq-announces-ai-simulation-collaboration-with-nvidia-to-impact-the-physical-world",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/11/n35873661/sandboxaq-announces-ai-simulation-collaboration-with-nvidia-to-impact-the-physical-world",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/35873661",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35873661",
-      "publishedDateTime": "2023-11-20T13:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

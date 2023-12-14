@@ -134,6 +134,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 0
+  - title: "Understanding the Recent Fluctuations of UP Fintech Holding Ltd ADR’s (TIGR) Stock"
+    excerpt: "TIGR stock has gone up by 3.78%, with a monthly decline of -9.48% and a quarterly plunge of -16.86%. The volatility ratio for the week is 4.47%, and the volatility levels for the last 30 days are 5.52% for UP Fintech Holding Ltd ADR The simple moving average for the last"
+    publishedDateTime: 2023-12-14T19:29:00Z
+    webUrl: "https://newsheater.com/2023/12/14/understanding-the-recent-fluctuations-of-up-fintech-holding-ltd-adrs-tigr-stock/"
+    type: article
+    provider:
+      name: newsheater
+      domain: newsheater.com
+    quality: 0
 
 secured: "iPAIxaYNm9jJkypFB7JWXhWx7o4KuPU5L1x2IcX6s+CfdaFx2H49YFFtQ+YJ4kllBCoWVypnzF5aG/0Bg1gt9NfBdhPRBpl8xNDh1NbZGm4m2SjSnn3/I6ZvHv2BxxRHPLlU44OsXmUHThRA3+0+h0VdoTylRwyMuemm164+vbAqunqLXsB7lFzXBYqcAZ8FezZiSokRtk5FICS/fgO/W6X0M8Q0vqanYEulDc/Ws1RwnnOfPqGBPscVGHT8ZTBhcP+ihlZ2Heg+pL7aTSTrkVE9k+922/Txa2ez+GAjbxDBcEs3L/D2/OLFZg94+JU8KeLaKiP4sorpxFSjQrWl8+9R172mLbsyz/ltgOlQlxN2QrUJmxi8Nfw79ai99V5rjoSMSNw1aawQziQgS0QneHV13UW6ihgVwXeW7eH467vzfVgRrKAecC4C+UzHi7oms9NuC69u6M83ha/w8ODemoTrmsFWnkBltaTlJ8f65T/w0GtOd5j4KgvUx4Q/9s6MVlrfKeGbo2OAfvJla+aS3w==;47hUJkVW9C5S6CCiB7RyKA=="
 ---

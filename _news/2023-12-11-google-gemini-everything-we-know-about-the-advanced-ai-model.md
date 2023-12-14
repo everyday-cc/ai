@@ -42,6 +42,15 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "Political Deal on the EU AI Act: A Milestone but the Journey Continues"
+    excerpt: "With France and Germany particularly interested in protecting the AI start-ups which have emerged in their jurisdictions, certain EU Member States were vehemently opposed to including any provisions regulating such models. The European Parliament ..."
+    publishedDateTime: 2023-12-14T00:01:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/political-deal-on-the-eu-ai-act-a-6726631/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 17
 
 secured: "m6+2B9NE2N3ABBnxaE8fcX5+N4/IwsfaspacAB2M8B3rPLK6RjDF/AIugUToMexTB5msS0JiOJLYltZwK5DS9P+lBNVK4aS46TW/YzbnWgNppb1bvGJxoR8M/JexqxgCCfLnYBIqQTCXtZbDpeuwcVf7jALKLuXI9ILaWlTlo/YDHX1MPw/Hnk2KOxS/l+QTnztjdug1GXpoLBRWRlf/v4Z7d8AfNE+dtg3Jqz1AUqJ4mjI+fqLq9caitlpSrJqIhIgqJIwiRMaxRZhFTtrwrQUWIGq8RENlTEPfLhzE/6HkPsb+Fc19WSi678nAwZsS2QJpUoX95J1h87du3FlXAUCVYvAlltGCTRlPU187mfA=;MfvtccbpJczLDEur1w6baw=="
 ---

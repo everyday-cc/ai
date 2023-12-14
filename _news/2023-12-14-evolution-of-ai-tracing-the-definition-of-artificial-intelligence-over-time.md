@@ -56,6 +56,15 @@ related:
       name: timesnownews
       domain: timesnownews.com
     quality: 32
+  - title: "Railtown AI Technologies Inc. Files Provisional Patent Application Covering AI-Driven Ticket Generation to Accelerate Software Development"
+    excerpt: "Railtown's second North American provisional patent filingRailtown reaches task level functionality with ticket generationIntegrates with leading"
+    publishedDateTime: 2023-12-14T13:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/railtown-ai-technologies-inc.-files-provisional-patent-application-covering-aidriven-ticket-generation-to-accelerate-software-development-1032900651"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 15
 
 secured: "j4BDw5ve1Dcn7QVPbq+4DAZWGY/nef5Xikfec42TYZuHki5iEreu0qR3B4BZ3hIv2cjp1qcMVtkUK0F7htxsQslYiVtvYqBy58/fCmjrxGnipCykRitcw/QqZGTctAbF4SP4cNc7n4L/pur3NXQtvc8DNmzOc5ywenTKZRpWWtfX7EVEF5oQD2mfFV6B5rbI9HUMtQ/a7awbj6MYifOekcdxSwrLtFVCz/k4dNsGFg1abXysm9XB/xJFf1iHGiSdHnL25ZDWq/3RBbgEDwnytjoH8XJUbNPuJQovoMEabTYbnqRvsaP/zWJvEduJirRQ01pvsaFgikWTxDkSoOpzCwEW259F6F7IpFCcB2guIUc=;TB10yIukSXRYZ8i4dRjqjw=="
 ---

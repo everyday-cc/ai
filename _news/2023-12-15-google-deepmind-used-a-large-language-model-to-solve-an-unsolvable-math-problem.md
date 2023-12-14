@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2023/12/14/1085318/google-deepmind-
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/14/1085318/google-deepmind-large-language-model-solve-unsolvable-math-problem-cap-set/amp/"
 type: article
 quality: 72
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -42,7 +42,16 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Google Bard Meets the Latest Language Model, Gemini"
+    excerpt: "Gemini, the latest language model of Google and DeepMind is being used by Google Bard, an AI chatbot of Google."
+    publishedDateTime: 2023-12-14T17:06:00Z
+    webUrl: "https://techacute.com/google-bard-meets-the-latest-language-model-gemini/"
+    type: article
+    provider:
+      name: techacute.com
+      domain: techacute.com
+    quality: 4
 
-secured: "d/n4vGy9MqX2Mf33AXVdTcnhv1NIv2b9aCvgYZ6VQTAo4tJTneqmeGb4IlyStiP+fzIRo8NqCSQ6ZdkcaGpbxX7ScE9zgFLCkYYVFbVRwbsb6HrSmv0qsC1XyXjvu/8+el3J2L5077bH7oFbd6PU9xOd5kgQUHT4PRkulX8A1kRstsFcBG3J2SrItMUnFwReNT9/QYer7lu+YdXbq9zVzx9Fp5nX0kFHPVbPKCOeI7OCMRlmA3wDZZIet8n5cCw7MswMlgA9vUVNUoy1wAy0ys9aO/xfGJkAbZryz8IXXFTyE5g0NExjIwjsqyKXnr/+CzCGZILIVMFpTMpqJwMTxTg2r5ufYF0c53xLRIiqlko=;SQQHoqWK0ZLaDRvg2L/p5A=="
+secured: "3YNdR8j8hsSyQ/kr+cA+br6QRp679N0jTspAZ6N5XGK+rQHqidvYyjQXFA/iCT/mzzt1NZusW2DnEVEXviQMl+JObVXRAu+oV5P9GRCG1qoq99wcJDWVuOulLByD6FfuMVcvnMaIgt+SqWbNiIe/1TVPMkbTGYM5/jVYYUW9B8hPdo3Kjy6z+DIT2bgdHGdU4twfv4uMXYIZs7UMN9shaL2W4IoB14X85zR6AHXlh1cMO+gmIsxhKaH/v3SdWoyMmzEo0ZzrP1Wbtyzd0GC6O+M/bo1/YypDSYrxZTMVb2P7RfV/SbUu105Y3BO2s5+My8HkYuHZgsSSXUqbkTxF4xRVC9qSjWcLLpDTiYrvrUprOmyGHzZO3s94Www2k7EGZ7mcmLOsG5iRb05igWBhyhaHfiG4EydfnQ1Gw0eaeWlXels55i4eyngVh0Bf7SM9PcVyvnIAMWrW+7Jmr7RBtXgclU/sc6yu+EjYNo/UF7ujhQC/RczrSCOkjbKhn2YMiO38Y3YFT69i70QChe5TTg==;71FkqmM0k7HeafwcVC7jwA=="
 ---
 
