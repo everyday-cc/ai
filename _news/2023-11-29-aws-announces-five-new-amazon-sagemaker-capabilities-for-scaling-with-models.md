@@ -3,24 +3,24 @@ category: news
 title: "AWS Announces Five New Amazon SageMaker Capabilities for Scaling with Models"
 excerpt: "At AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced five new capabilities within Amazon SageMaker to help accelerate building ..."
 publishedDateTime: 2023-11-29T12:27:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-five-new-amazon-sagemaker-capabilities-for-scaling-with-models/article_dc339075-e6c1-5c4c-b010-59fa0bd2e992.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-five-new-amazon-sagemaker-capabilities-for-scaling-with-models/article_dc339075-e6c1-5c4c-b010-59fa0bd2e992.html"
+originalUrl: "https://www.enidnews.com/region/aws-announces-five-new-amazon-sagemaker-capabilities-for-scaling-with-models/article_c3c24995-5c67-5028-85a8-ef320c7846e6.html"
+webUrl: "https://www.enidnews.com/region/aws-announces-five-new-amazon-sagemaker-capabilities-for-scaling-with-models/article_c3c24995-5c67-5028-85a8-ef320c7846e6.html"
 type: article
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Enid News & Eagle
+  domain: enidnews.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "http://static.cnhionline.com/joplinglobe/jmag/DEC-2023-Jmag-350px.jpeg"
-    width: 350
-    height: 456
+  - url: "https://bloximages.chicago2.vip.townnews.com/enidnews.com/content/tncms/custom/image/274f102e-c5aa-11e8-8594-87a63e6d4522.jpg?resize=600%2C315"
+    width: 600
+    height: 315
     isCached: true
 
-secured: "B+3wKYDG7hEPwHKTu47QxQVXM8fnRiKBF7hyuRSq0rqtQXGbPpY+VtpgVqBiqZtGaG8z/1gCmiJx6qWuNoAEjPI36Q1r8PBcVfAxB9vI/z21K5PCbTuBDIZ2pHJY/4HAQqp3WJPIQAlKtgWa4lRUGUlHlBBgEro5bYwilhfvWtPYr3Ik2BMfiU5CGh9AGukj6kKuH04a7Vu4HthDlT0BgCx9NR8wy3G/6CW9JdoPbB8uHhudlc+wJ5UoRb/HJUAIDLhxpMIRY9npIlhsbYGeRIkaySD1l5BEknysv4b7K0+pMfaoHZ2F5lsZENGI6xm3wAF4gqexk+Qk4aEEipHgCBEG0LEhBBSmU/pZSQz1Kj0=;T+hTFoVHuIBowvkcQW/O2Q=="
+secured: "QIWy3fnCxC2KQ7eBDIteXGrYsHySE1OkKABZp2SO9BXj2W+ENZP9Q2Q8/v0x89lS5rV5cQlhfXAPvVEU7kd6vJl5DghYX4apNmmGy2BDyWGb/sSuJ1A4a9XdGj2JwW4oGNALuBTH4MTkCU23NG5EcgeVdTwkUjAWyGUxvDSccqFpYbvXI9rY2iNC7OmSffbUYuQfL6WKa5ClzeSKRPEpH9RKV5xvCa2+nj0eQsFvarKgrV3dXo97S9GSjFknih2g8YHbUZd9U+Z9ipaDBNvYsoSIFn2EVJ/elDir1dUGYJX0ftFlpxVphh/gEV8+mt/DnOSkJzYsuysGLdDY2BnYdtAryJi2WThw34SRb6QEMBI=;lrMh3nYi9zGSEPmf34/LMw=="
 ---
 

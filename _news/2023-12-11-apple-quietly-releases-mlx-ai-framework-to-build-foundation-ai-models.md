@@ -58,6 +58,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "OpenAI thinks superhuman AI is coming — and wants to build tools to control it"
+    excerpt: "Schmidt’s personal fortune stands around an estimated $24 billion, and he’s poured hundreds of millions into other, decidedly less ethics-focused AI ventures and funds — including his own. Schmidt denies this is the case, of course. “AI and other ..."
+    publishedDateTime: 2023-12-14T17:00:00Z
+    webUrl: "https://techcrunch.com/2023/12/14/openai-thinks-superhuman-ai-is-coming-and-wants-to-build-tools-to-control-it/"
+    ampWebUrl: "https://techcrunch.com/2023/12/14/openai-thinks-superhuman-ai-is-coming-and-wants-to-build-tools-to-control-it/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/14/openai-thinks-superhuman-ai-is-coming-and-wants-to-build-tools-to-control-it/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 85
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/11/openAI-pattern-04.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Advances In AI, Yet Many Unresolved Issues"
     excerpt: "In a short year, we have seen countless products, platforms, and services—an entire industry—born, reborn, and shaped constantly by advances that seem to keep coming. GPTs have emerged as platforms to build on and build with,"
     publishedDateTime: 2023-12-11T02:34:00Z
@@ -82,6 +98,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/12/Untitled-design-2023-12-12T105755.661.png?w=1200&strip=all"
         width: 1200
         height: 750
+        isCached: true
+  - title: "How to build custom Copilots with Azure AI Studio"
+    excerpt: "Azure AI Studio is not just about starting a project; it’s about nurturing it through every stage. “Accelerate decision-making and enhance efficiency across your enterprise using powerful AI tools and machine learning models. Explore the pricing ..."
+    publishedDateTime: 2023-12-12T00:00:00Z
+    webUrl: "https://www.geeky-gadgets.com/build-custom-copilots-with-azure/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 54
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/build-custom-Copilots-with-Azure.jpg"
+        width: 1280
+        height: 717
         isCached: true
   - title: "How AI Can Revolutionize Your Business"
     excerpt: "Throughout history, there have been key inventions that have revolutionized everyday life, such as the automobile and electricity. We are currently living amid another such revolution: the rise of AI."

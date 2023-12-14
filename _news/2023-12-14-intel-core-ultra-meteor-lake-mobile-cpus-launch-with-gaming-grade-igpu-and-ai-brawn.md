@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.hothardware.com/news/intel-core-ultra-mtl-launch"
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/intel-core-ultra-mtl-launch"
 type: article
 quality: 68
-heat: 128
+heat: 168
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 798
         isCached: true
+  - title: "Intel launches Core Ultra mobile CPUs, complete with dedicated AI hardware"
+    excerpt: "According to Chipzilla, the new GPU affords up to double the graphics performance compared to the previous generation. Intel says all of its new Core Ultra processors further come equipped with Intel AI Boost, a neural processing unit designed specifically ..."
+    publishedDateTime: 2023-12-14T12:26:00Z
+    webUrl: "https://www.techspot.com/news/101210-intel-launches-core-ultra-mobile-cpus-complete-dedicated.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 67
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/12/2023-12-14-image-9.jpg"
+        width: 2000
+        height: 1385
+        isCached: true
   - title: "MSI Prestige 'Meteor Lake' Laptops, Hands On: Intel's Core Ultra Brings AI to Work"
     excerpt: "Intel's new Core Ultra laptop CPUs, packing built-in AI hardware, meet MSI's business-class Prestige machines. We checked out these early Meteor Lake laptops ahead of launch."
     publishedDateTime: 2023-12-14T15:00:00Z
@@ -54,6 +68,22 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/06e9xgiHky7uvQ5rRqECnHg-1.fit_lim.size_1200x630.v1702491358.jpg"
         width: 1120
         height: 630
+        isCached: true
+  - title: "Intel unveils Core Ultra, its first CPUs with integrated NPU for “AI PCs”"
+    excerpt: "Intel unveils Intel Core Ultra CPUs with a dedicated on-chip AI accelerator (NPU) and a tri-cluster CPU design. Built on Intel 4 (7nm node), the CPUs"
+    publishedDateTime: 2023-12-14T17:56:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/intel-unveils-core-ultra-its-first-cpus-with-integrated-npu-for-ai-pcs/articleshow/106000799.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/intel-unveils-core-ultra-its-first-cpus-with-integrated-npu-for-ai-pcs/amp_articleshow/106000799.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/intel-unveils-core-ultra-its-first-cpus-with-integrated-npu-for-ai-pcs/amp_articleshow/106000799.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 58
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-106000792,width-1280,height-720,resizemode-4/106000792.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "'Meteor Lake' First Tests: Intel Core Ultra 7 Benched for CPU, Graphics, and AI Performance"
     excerpt: "We got a fresh-updated Acer Swift Go 14 laptop into PC Labs for our first independent benchmarking of Intel's AI-ready Core Ultra processors. Let's run the numbers!"
@@ -97,6 +127,29 @@ related:
         width: 992
         height: 513
         isCached: true
+  - title: "Intel Launches Core Ultra ‘Meteor Lake’ Chips In AI PC Push Against Rivals"
+    excerpt: "Intel said the new Core Ultra chips for ultrathin laptops provide superior multi-threading and AI performance to rivals."
+    publishedDateTime: 2023-12-14T17:21:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/intel-launches-core-ultra-meteor-lake-chips-in-ai-pc-push-against-rivals"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 32
+  - title: "GIGABYTE Introduces New AORUS 17 and AORUS 15 AI-Powered Gaming Laptops with Intel Core Ultra 7 Processors"
+    excerpt: "GIGABYTE, the world's leading computer brand, proudly introduces the latest evolution in gaming laptops for 2024 - theAORUS 17 and AORUS 15 - delivering cutting-edge performance in their signature sleek and portable package."
+    publishedDateTime: 2023-12-14T17:13:00Z
+    webUrl: "https://www.malaysiasun.com/news/274065021/gigabyte-introduces-new-aorus-17-and-aorus-15-ai-powered-gaming-laptops-with-intel-core-ultra-7-processors"
+    type: article
+    provider:
+      name: Malaysia Sun
+      domain: malaysiasun.com
+    quality: 21
+    images:
+      - url: "https://mma.prnasia.com/media2/2299916/GIGABYTE_New_AORUS_17.jpg?p=medium600"
+        width: 599
+        height: 337
+        isCached: true
   - title: "Intel Accelerates AI Everywhere with Launch of Powerful Next-Gen Products"
     excerpt: "At its \"AI Everywhere\" launch in New York City today, Intel introduced an unmatched portfolio of AI products to enable customers' AI solutions everywhere - across the data center, cloud, network, edge and PC."
     publishedDateTime: 2023-12-14T16:37:00Z
@@ -107,6 +160,6 @@ related:
       domain: tmcnet.com
     quality: 18
 
-secured: "AOZz5qopXrL/isenr6V70UsgpNNN6b1WwvfpPnq/2EHD9OyHQdyX7mQF42NhaMd9gOplmRdZNmUNfSKZlG9WQv5o6mmkJGRUyd5kudgzFdYMRmY+5sY3neiNqJo0/DIZfUhZelASsTDHEyVLigJcibJg4W99cgk7r5f5eMUPP0fF4tRSUp6sehUUFa5xuGTphVYT2LUF/5HADbauViv/9FlIH7/uoIVhpubZQoUfxs0qTDvkPQcDSq7Pxf80JwKvltzdXZnaH4Ir0Z/ovKrUInQtGGMsap0vbPOZb+Uzz1k0nF7i25X99PZ8CNrb7UM1lt82z3Gom04myy4Zm8CWaWaPkrrTD9AwdaX82Rq2yoE=;cbptM57/iz8XizZL5Zy6jQ=="
+secured: "Lz2uFK7tyUehfTnDdNiTc260CFmlN8mAjBkq+1wnNdp7LXUgiPRIf6bnUw/sYfcScjGAJj3NLR5g54TfDg7va+QXfuk6ob0JF9YHjO143MTYrg1yh7ZD3XyI8x2RwxwO9uhJwugQbFYJ/5AVp042J6sh7skqEu9AVeD+hxzMkgDk2DwQVMSlpOVuOYDmiCncxjIyBSf7MEb41I5BWnJh8wtO473fYNcjfMeUIZ/QMW0UdPnFOsjc/kJDh3xt3343kuY08O/Y1D0r5g5abe1mLVOi71NVAwwuPunvauB6iSSNhNNZFfDuzWHjSg5iAct2v4OtKxxYhuen2bIzn45HJIM4EyN3e91+ivoNvklDyyC+OFVS1ZPLQvPd0H7kWv1Fp7iGc2i9N0MChsB14caJD/QTWpv0WpkUJTVIRyxgSY7jF3XOCnmmhkRMO9s7k6a++eh+TfZML+6SGNCh6iSsKxiNo6W+Arca6ukMCtg866GOR9uW8QplTX6bkB/Re3bUJTxHgz2dZZ6gjoDlMLJTmg==;Cpz2W/Cdbz+0MzoRRx8aWg=="
 ---
 

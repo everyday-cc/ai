@@ -164,6 +164,20 @@ related:
         width: 708
         height: 399
         isCached: true
+  - title: "Intel announces a new AI chip to compete with Nvidia and AMD"
+    excerpt: "Intel Corporation unveiled the Gaudi3 accelerator on Thursday. It also announced Core Ultra and 5th gen Xeon server chip today."
+    publishedDateTime: 2023-12-14T17:25:00Z
+    webUrl: "https://invezz.com/news/2023/12/14/intel-new-ai-chip-compete-nvidia-amd/"
+    type: article
+    provider:
+      name: Invezz
+      domain: invezz.com
+    quality: 54
+    images:
+      - url: "https://invezz.com/wp-content/uploads/2023/08/108349122-m-normal-none-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "US in talks with Nvidia about AI chip sales to China"
     excerpt: "The California-based artificial intelligence chip designer has commanded more than 90% share of China’s US$7 billion AI chip market, but analysts have said new US curbs on chip exports are likely to create opportunities for Chinese rivals to make inroads."
     publishedDateTime: 2023-12-11T22:37:00Z

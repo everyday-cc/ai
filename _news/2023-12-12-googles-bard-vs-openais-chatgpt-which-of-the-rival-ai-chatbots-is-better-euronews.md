@@ -26,66 +26,33 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT to Google Bard: AI giants are reshaping search results"
-    excerpt: "Explore the evolving landscape of search engines. From keyword-matching engines to AI-powered platforms, search experiences are being reshaped."
-    publishedDateTime: 2023-12-12T01:50:00Z
-    webUrl: "https://yourstory.com/2023/12/ai-revolutionising-search-engine-results"
+  - title: "Surprise! AI chatbots don't increase student cheating afterall, new research finds"
+    excerpt: "The rise of generative AI tools has many worried about the future integrity of the educational system. After all, if you can get math, writing, and coding help from one free tool like ChatGPT, what's stopping students from using it to cheat on every assignment? Stanford researchers tackle the question in a Q+A published by the university."
+    publishedDateTime: 2023-12-14T09:45:00Z
+    webUrl: "https://www.zdnet.com/article/surprise-ai-chatbots-dont-increase-student-cheating-afterall-new-research-finds/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/surprise-ai-chatbots-dont-increase-student-cheating-afterall-new-research-finds/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/surprise-ai-chatbots-dont-increase-student-cheating-afterall-new-research-finds/"
     type: article
     provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 56
+      name: ZDNet
+      domain: zdnet.com
+    quality: 83
     images:
-      - url: "https://images.yourstory.com/cs/2/5cd74df08d8d11e9a445857ac4ecdc72/GoogleAIBengaluru1568955790392png?fm=png&auto=format"
+      - url: "https://www.zdnet.com/a/img/resize/2b1341ca204a101f5087138fc26e5232f57a0cc0/2023/12/14/7a9eba33-8a87-476b-929e-6d135b343fed/handcheat-gettyimages-181866634.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "Mistral AI is an exciting ChatGPT rival, but it’s not ready for us yet"
-    excerpt: "Mistral AI is a French startup valued at around $2 billion with an exciting ChatGPT rival you can't actually use right now."
-    publishedDateTime: 2023-12-12T01:08:00Z
-    webUrl: "https://bgr.com/tech/mistral-ai-is-an-exciting-chatgpt-rival-but-its-not-ready-for-us-yet/"
+  - title: "Elon Musk’s Grok AI Chatbot Enters India"
+    excerpt: "Elon Musk's AI startup is rolling out Grok to 46 other countries including Australia, Canada, Malaysia, New Zealand and Singapore among others"
+    publishedDateTime: 2023-12-14T06:17:00Z
+    webUrl: "https://inc42.com/buzz/elon-musks-grok-ai-chatbot-enters-india/"
+    ampWebUrl: "https://inc42.com/buzz/elon-musks-grok-ai-chatbot-enters-india/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/elon-musks-grok-ai-chatbot-enters-india/amp/"
     type: article
     provider:
-      name: BGR
-      domain: bgr.com
-    quality: 54
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/02/rsz_gettyimages-1246675509.jpg?quality=82&strip=all"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Are You Using ChatGPT at Work? We Want to Hear About It."
-    excerpt: "Just over a year since ChatGPT’s release, we’re exploring how workers have begun using A.I. chatbots in their jobs."
-    publishedDateTime: 2023-12-13T10:03:00Z
-    webUrl: "https://www.nytimes.com/2023/12/13/business/are-you-using-chatgpt-at-work-we-want-to-hear-about-it.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 49
-  - title: "Google's AI chatbot Bard gives drab answers, but it does one thing better than ChatGPT – Mashable"
-    excerpt: "Compared to the other chatbots on the market, Google's Bard is the boring one. In a more or less positive assessment, Vox called"
-    publishedDateTime: 2023-12-13T14:29:00Z
-    webUrl: "https://www.inferse.com/838409/googles-ai-chatbot-bard-gives-drab-answers-but-it-does-one-thing-better-than-chatgpt-mashable/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 43
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/12/wp-header-logo-7371.png"
-        width: 1200
-        height: 1200
-        isCached: true
-  - title: "These Are the Biggest Differences Between Google Bard and ChatGPT"
-    excerpt: "AI chatbots are more popular than ever, and there are plenty of solid options out there to choose from beyond OpenAI’s ChatGPT. One particularly strong competitor is Google’s Bard AI, which pulls information from the internet and runs off the latest Gemini language model created by Google."
-    publishedDateTime: 2023-12-11T03:35:00Z
-    webUrl: "https://www.lifehacker.com.au/2023/12/these-are-the-biggest-differences-between-google-bard-and-chatgpt/"
-    type: article
-    provider:
-      name: Lifehacker Australia
-      domain: lifehacker.com.au
-    quality: 21
+      name: inc42
+      domain: inc42.com
+    quality: 37
 
 secured: "Ok8kjJDcUqw73UwsQrpROD03VGRsMNifVzmwuQnjLxB8EMM2rPyKY/fkmx14Uic+mLhZWljMrSZL1LSjNb3LgKaDTnB/HT+UrgRMiWsCskbjNVqK/TLFaP421Uz4trIlbfrrK0BKnueZmJwVGB9J6C4K3Acf7vxR9iyGbwrQvLIZvNJBesYMT2b2INd/qmtBhN2jPuQCF6b8FPhKF3DZTWgcTjq7B6k60N8t6GKmko860i+Uufhq+ZLiHV6KilWsc8HueiEBVl+i1L+EjUWwQDnksZNW/SDWiX0AT6O7akzRxK5bZO9juVV4KaKuKPo54vVN+4ded8kb0Xb+2iojUe4Vze5SAr3OHrJpI+6MEbGdMnkHozrPCeXso+OsQP9VAxzDIptNhTH6oA+X/2JwsYyvQ4ywUl0BO+Q38yq9J8BXhScfdpFG0QJumnvVLKCurfZMmV3NZJfNWDL1jibOE2TLZK1pavebeKbZvs6gvXvpnTynMpu2ZgxoS8R2T/dliLgumtRuXasZXnRbOIWddQ==;SY0A6Bqc8jhMr9LE/akiOw=="
 ---

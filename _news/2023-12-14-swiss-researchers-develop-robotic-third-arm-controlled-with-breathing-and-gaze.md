@@ -3,27 +3,27 @@ category: news
 title: "Swiss Researchers Develop Robotic Third Arm Controlled With Breathing and Gaze"
 excerpt: "Sometimes it would be really nice to have another hand and soon that could be a very real possibility. It’s all part of a new extra limb testing program being"
 publishedDateTime: 2023-12-14T13:40:00Z
-originalUrl: "https://www.conwaydailysun.com/around_the_web/swiss-researchers-develop-robotic-third-arm-controlled-with-breathing-and-gaze/video_5c580ca8-4586-55a4-a163-400b23d80080.html"
-webUrl: "https://www.conwaydailysun.com/around_the_web/swiss-researchers-develop-robotic-third-arm-controlled-with-breathing-and-gaze/video_5c580ca8-4586-55a4-a163-400b23d80080.html"
+originalUrl: "https://www.kpvi.com/interests/swiss-researchers-develop-robotic-third-arm-controlled-with-breathing-and-gaze/video_e40245ae-b85d-5c4a-be67-a112223c0390.html"
+webUrl: "https://www.kpvi.com/interests/swiss-researchers-develop-robotic-third-arm-controlled-with-breathing-and-gaze/video_e40245ae-b85d-5c4a-be67-a112223c0390.html"
 type: article
 quality: 35
 heat: 35
 published: false
 
 provider:
-  name: The Conway Daily Sun
-  domain: conwaydailysun.com
+  name: kpvi
+  domain: kpvi.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/conwaydailysun.com/content/tncms/assets/v3/editorial/5/c5/5c580ca8-4586-55a4-a163-400b23d80080/657b2348a4d34.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/kpvi.com/content/tncms/assets/v3/editorial/e/40/e40245ae-b85d-5c4a-be67-a112223c0390/657b2317a988a.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
 
-secured: "7NI4xaockPXoTbtzTbZ6RJ4S3QB5tgaaa+OrlIhmLiZIIm9WsOAFTei74XjX27KYEny8BdwAAYF7NyvCfxqg2g5BpcwVQcC8Fa5+ZAwFM9uo9YMNBbotIIrrW51OmZ7iqd0cuMFu5xEIn9aRXLzpVAwV9IOEjD4XdzdEcIrnsQWI95yteBhI7H8SZLd6RoJDgHnwGB0pIgLTGnTSi0wkf76VTXHMdHU73rft00eEsMDbj5sXXBLpp/Fzjjti3DNDIN7tkktIJ6bu+Xe4/hNVLwb2X8bN348k3XMbcHKdKh4ZdHqENwO9X0l12PD7+IpNcBiZ79AFsXfcTdnsIVYbAjz4HxULCBVVa4j8rcv0Fvw=;QEH38oswZ94O3rZKt/KQ3g=="
+secured: "EBGhoSsheR6VYiiJRwxyNFAsMXt6y6RypEAVMea4dKvKGttsn4cAeIi6yLEhXnz41JG1RrAyzQtLjBzEIiljGBQ0z82lnVc090xVCJQy0oHNifivlFwG1tJolE+QEHmbORrjOZy371bYlMb4PjMyUF8foXt1vDU8+OibrmfqtIZdqyqalJH7oBV6/YXTB34+XUL1hhKRALVKQYI4hsi1+ONU+dEE7yfP40KgJiDeS+pcKEncPsWbFj4GcptkQ3CFptbAj3E+GVnm/hnVutAtucINwXS/Oug0TwahMu1s//YkFxxOI0ilVDuyxsEQaZ77APQzBgjUjpLS6MmB4sbkFhZIHaF4HccnyyDsyceXb/g=;ID+w6Y6h9KE9Nx0QgitdDg=="
 ---
 

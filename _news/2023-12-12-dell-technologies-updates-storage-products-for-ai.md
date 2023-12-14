@@ -9,7 +9,7 @@ ampWebUrl: "https://www.networkworld.com/article/1257328/dell-technologies-updat
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1257328/dell-technologies-updates-storage-products-for-ai.html/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -38,6 +38,15 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 39
+  - title: "CoreWeave Taps Dell Technologies to Strengthen Cloud Platform for AI and Machine Learning"
+    excerpt: "CoreWeave is a specialized cloud provider for large-scale NVIDIA GPU-accelerated workloads. The company will use Dell PowerEdge XE9860 servers with NVIDIA H100 Tensor Core GPUs as the key infrastructure powering its cloud solutions, tailored for workloads like AI, machine learning (ML), visual effects (VFX) rendering and large-scale simulations."
+    publishedDateTime: 2023-12-14T17:13:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-coreweave-taps-dell-technologies-strengthen-cloud-platform-ai-/2023/12/14/9934301.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 25
   - title: "OPEN Health and Nested Knowledge announce strategic research collaboration to leverage AI technologies for evidence synthesis"
     excerpt: "This collaboration underscores OPEN Health's unwavering commitment to leveraging innovative solutions and AI technologies for superior client delivery,” said Richard Jones, President of OPEN Health Evidence & Access."
     publishedDateTime: 2023-12-11T10:00:00Z

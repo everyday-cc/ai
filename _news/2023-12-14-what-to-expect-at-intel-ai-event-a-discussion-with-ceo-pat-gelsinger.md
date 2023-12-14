@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/12/13/what-to-expe
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/12/13/what-to-expect-at-intel-ai-event-a-discussion-with-ceo-pat-gelsinger/amp/"
 type: article
 quality: 91
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "Intel unveils new data center chip with focus on AI growth"
+    excerpt: "Intel on Thursday showed off its latest Xeon processor, as it works to grab greater market share in the AI space."
+    publishedDateTime: 2023-12-14T17:00:00Z
+    webUrl: "https://www.aol.com/finance/intel-unveils-data-center-chip-150001129.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 54
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/Rhc1iexpU03u.K6xePUQhg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/aol_yahoo_finance_433/540ffdbe4d270ea7e844a2fde5e2b9de"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "Intel, CEO Pat Gelsinger take 'AI Everywhere' to Wall Street"
     excerpt: "Advanced Micro Devices (Nasdaq: AMD), a longtime Intel server and laptop chip rival, is also aggressively pursuing AI-related business. AMD held an event last week called \"Advancing AI.\" While the view wasn't unanimous, one prominent technology analyst ..."
     publishedDateTime: 2023-12-13T00:00:00Z

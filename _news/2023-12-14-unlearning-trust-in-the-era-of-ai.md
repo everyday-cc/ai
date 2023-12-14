@@ -137,6 +137,20 @@ related:
         width: 504
         height: 315
         isCached: true
+  - title: "2023: The year of AI gift-giving and other holiday shopping trends"
+    excerpt: "Flowcode analyzed holiday shopping forecasts from Salesforce and the National Retail Federation to identify a few major trends for 2023."
+    publishedDateTime: 2023-12-14T09:18:00Z
+    webUrl: "https://kvia.com/news/business-technology/2023/12/14/2023-the-year-of-ai-gift-giving-and-other-holiday-shopping-trends/"
+    type: article
+    provider:
+      name: KVIA
+      domain: kvia.com
+    quality: 39
+    images:
+      - url: "https://kvia.b-cdn.net/2023/12/00x942CD8CDD9C031_0.jpeg"
+        width: 1010
+        height: 720
+        isCached: true
   - title: "How To Keep AI From Stealing the Sound of Your Voice"
     excerpt: "A new technology called AntiFake prevents the theft of the sound of your voice by making it more difficult for AI tools to analyze vocal recordings"
     publishedDateTime: 2023-12-14T12:04:00Z
@@ -216,6 +230,6 @@ related:
       domain: hbr.org
     quality: 17
 
-secured: "g5CmQFM5BOZ57OuvjNAa9xHSB5vBY2ml4IaBU35J4PDV4uYi0IX29Q6eLnmVbG3RN8+8VyZZ8wDwXWXZclJUjrQoNtVVe3Fu3QGCOGFXfyOLsKCDJw4fAS1I3o4OPdVBQpGatd+2oOn1V7rty0WQromYuyuGEK/Pc7WfgZenARSRKhRYso/4KSKBcdqj4PcWTxpurUCI8wT0/4trdqzo1milbWpanXZ+nGBffIxK5Qs1aI5Q5Tk2n09Cedax5z+LgBj9F+ZnukMg2O8vRn5xh+0pSGh0IPLZHSBFejpcyzsZvBkBubP+HJmTtMwXG/YgdDZxsFNIpoWiuqk6UBwbigid1k/ROfcRQ2LvM51mob0=;/PBkOhDoB6OwPx2Vby6ehQ=="
+secured: "jENQ0+22P9pWrObyvi6/yppVTymN9ejI4KKEXNjFOVikSLXQdsN+pOCsCopa1UzSFpPA2dSZPy+o3pzLLCGPasWQr006PmzwIIKdSZa67eKjqFHVncyIuQPBV2Q1Grz87LfL9UESI5yis7OR7b/J/cTEH7sKbeKJac9n4GJvjxxmfB1xuMZnhBZW2fD5Ha1EDIclaqDfOz5pInZsMAOfnFeD6rSk3P+AdlFp+kFTgg38GpxteI0SCdeVz26PDZO0u0fL2hNM82EEv1mxoaIyhIJhIymfsaaAD7c8bN4+ZYvtbdcE7r87Gf79ncf7NwVYSqkA38Hoywy0FmUk3c+sC3Nrz+jcaeVTxD3h/plFqm5jTunBc6fqHtIwNDn2crcwgs0vQmPGSnEHON3o5n65YOR4Mzuy99xsCSmb/GDPtt9C+8+N/cFRGumPrTTFVzwvQKs2EjVQHiUpbvSZieQIxvIp/ulTqGo4vq8Vo6Rj6HHBMhOYduk+zoZZ58JPzwz5mTdYnxMJqmaMsjTuGtT+5g==;lMopybFIngbOH+i+a+hu6A=="
 ---
 

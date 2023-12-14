@@ -62,6 +62,20 @@ related:
         width: 1201
         height: 628
         isCached: true
+  - title: "Google Adds Gemini Pro API to AI Studio and Vertex AI"
+    excerpt: "Google also announced Duet AI for Developers and Duet AI in Security Operations, but neither uses Gemini yet."
+    publishedDateTime: 2023-12-13T23:08:00Z
+    webUrl: "https://www.techrepublic.com/article/google-adds-gemini-ai-studio-vertex-ai/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 69
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/12/google-ai-studio-api-key-fig-a-dec-23.png"
+        width: 1400
+        height: 889
+        isCached: true
   - title: "Google's Gemini Pro AI is open to devs and will be cheaper than GPT-4"
     excerpt: "Gemini Pro will be cheaper to use than GPT-4 when the free period ends. After announcing its new large language model (LLM) Gemini, Google started rolling the AI out to its various products. In addition to being available in its products, the tech giant is now allowing developers and enterprises to start tinkering with Gemini."
     publishedDateTime: 2023-12-13T17:28:00Z

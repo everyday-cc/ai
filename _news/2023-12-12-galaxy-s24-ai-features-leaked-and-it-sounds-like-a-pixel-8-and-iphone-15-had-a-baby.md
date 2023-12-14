@@ -100,6 +100,20 @@ related:
       name: Gizmochina
       domain: gizmochina.com
     quality: 34
+  - title: "Samsung’s Galaxy Buds 3 Pro could offer real-time language translation"
+    excerpt: "These AI-powered earbuds will reportedly be capable of translating communication on a real-time basis. While we’ve seen earbuds with language translation features in the past, the Galaxy Buds 3 Pro might be able to do this without internet connectivity."
+    publishedDateTime: 2023-12-14T17:15:00Z
+    webUrl: "https://www.dexerto.com/tech/samsungs-galaxy-buds-3-pro-could-offer-real-time-language-translation-2431948/"
+    type: article
+    provider:
+      name: Dexerto
+      domain: dexerto.com
+    quality: 24
+    images:
+      - url: "https://editors.dexerto.com/wp-content/uploads/2023/12/14/GalaxyBuds-2-Pro.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "XUvkZFDwIN8lNKViNt39rsvl2DsRRaX2uIFDOCOlseBnp2MkAzQ8QXLEUxYbBNVBcHm3hmEa0qZ2mVTXJlglkdQ/nKlyn93KN20ORzkRy7v+B8+aG53Sil8YesLPyPzaEeUqu75uiNTnkqOZ+u+f55A8zjIRvjNDUYNU8erSNguz9MrU+q/dr8A3pw/DcgnRDFJjYGiQBpaUJe8g/Qy6eZZip0vmIAkOqpNYWIsuoaSXT4TTsTJaCFhAtYgaRpjChNkmZlkVkeWHd7OSoLl4Guz89IqULXbWoKzjPqtmozE3WcwnGZ7Xyi3DdktFYj/5MIGnBjUQqxW8ZVPBSK690bAlhDOVXcCFa2K93KQS2o/tMBIORxjeNthoyr6SB8OtZbRQFuzhzK60Ym7rgPqJEXo2iaFCqEYrL4lxJUFH3AcdVlDc7AiDgmmm6mfgVgYEk2I3y3hFsYnHr4f6haZmm7+EPmKtdb8A+ys5coGD3f99SQhDunezwFoJkhHXspD91yViOJZtEUSN+QzgS8daKg==;Bpvs5WQ18cQlHgXuaF+4ew=="
 ---

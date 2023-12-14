@@ -20,52 +20,36 @@ topics:
   - AI
 
 related:
-  - title: "Elon Musk Slammed By His Own AI Bot"
-    excerpt: "\"Well, it seems like Elon might be trying to rewrite history here,\" the AI bot started its message about Musk."
-    publishedDateTime: 2023-12-12T09:37:00Z
-    webUrl: "https://www.newsweek.com/elon-musk-slammed-own-ai-bot-1851531"
+  - title: "Surprise! AI chatbots don't increase student cheating afterall, new research finds"
+    excerpt: "The rise of generative AI tools has many worried about the future integrity of the educational system. After all, if you can get math, writing, and coding help from one free tool like ChatGPT, what's stopping students from using it to cheat on every assignment? Stanford researchers tackle the question in a Q+A published by the university."
+    publishedDateTime: 2023-12-14T09:45:00Z
+    webUrl: "https://www.zdnet.com/article/surprise-ai-chatbots-dont-increase-student-cheating-afterall-new-research-finds/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/surprise-ai-chatbots-dont-increase-student-cheating-afterall-new-research-finds/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/surprise-ai-chatbots-dont-increase-student-cheating-afterall-new-research-finds/"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 67
+      name: ZDNet
+      domain: zdnet.com
+    quality: 83
     images:
-      - url: "https://d.newsweek.com/en/full/2321918/elon-musk-x-logo.jpg"
+      - url: "https://www.zdnet.com/a/img/resize/2b1341ca204a101f5087138fc26e5232f57a0cc0/2023/12/14/7a9eba33-8a87-476b-929e-6d135b343fed/handcheat-gettyimages-181866634.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "Elon Musk’s AI bot, Grok, speaks as if made by OpenAI in some tests, causing a stir"
-    excerpt: "Grok, the AI language model created by Elon Musk's xAI, went into wide release last week, and people have begun spotting glitches. On Friday, security tester Jax Winterbourne tweeted a screenshot of Grok denying a query with the statement,"
-    publishedDateTime: 2023-12-11T20:13:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/12/elon-musks-ai-bot-grok-speaks-as-if-made-by-openai-in-some-tests-causing-a-stir/"
+  - title: "Google's Bard vs OpenAI's ChatGPT: Which of the rival AI chatbots is better? – Euronews"
+    excerpt: "Google’s answer to ChatGPT is here - but is it as good as OpenAI’s global phenomenon? Euronews Next put them through their paces. Google has made its"
+    publishedDateTime: 2023-12-12T02:41:00Z
+    webUrl: "https://www.inferse.com/836356/googles-bard-vs-openais-chatgpt-which-of-the-rival-ai-chatbots-is-better-euronews/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 41
-  - title: "Elon Musk was mocked by his new AI-powered chatbot"
-    excerpt: "Aravind Srinivas, boss of Perplexity AI, asked Elon Musk's chatbot to \"roast\" its creator — and Grok didn't hold back. The chatbot called the Tesla and X"
-    publishedDateTime: 2023-12-11T16:27:00Z
-    webUrl: "https://rollingout.com/2023/12/11/elon-musk-new-ai-powered-chatbot/"
-    type: article
-    provider:
-      name: Rolling Out
-      domain: rollingout.com
-    quality: 37
+      name: Inferse
+      domain: inferse.com
+    quality: 48
     images:
-      - url: "https://rollingout.com/wp-content/uploads/2023/12/1650967619cropped3474x2605.jpg"
+      - url: "https://www.inferse.com/wp-content/uploads/2023/12/wp-header-logo-6663.png"
         width: 1000
-        height: 650
+        height: 563
         isCached: true
-  - title: "Elon Musk’s new AI Grok accused of stealing answers from ChatGPT"
-    excerpt: "Grok, the recently released chatbot from billionaire Elon Musk's startup xAI, has been accused of ripping off ChatGPT's codebase."
-    publishedDateTime: 2023-12-11T20:26:00Z
-    webUrl: "https://www.dailydot.com/debug/elon-musk-xai-grok-ripping-off-openai-chatgpt/"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 34
 
 secured: "chd1wWgaqcU8HIKqgXFo+ltc5KRjdOljY7dvmJEl1YuRFPqzDLAMMuB1h7pefsZDdhWoijsoxKiAHbfP9hUDdOukxuVjLykgbZJbye8SeMfjAtnKTGcrh6KLsfxxvRS1l+qWVPGA1Qu/X6qlcMolu3O+3e06xJN1nZDY8tBeL/zDI8MwSlIrFoXMe++uNsVVYewQSQ/ICe73FNmk/gJmFKaa8KO6uECvOFwCYwx7sIaZkF+HS/OoKx1ZbcExq3fuUsJITs+U1eZiB+QT7PBr+a9Pp6CIkKwcpB9U8JKvCDYtMdR/ci2rFmbBm8UO7nAYh7K8KpqSMJODdeK3e9/6heNUIg+LGml0SI9RzcoHpiwEYxeFeYPFawtEYbdRXiChgx9LXNTXqFYOjiuso1VUK9bkHMULZVGxHJEHv4iwhFhi8XsSRzvut+saoX2QO/7VcEi1tjOFjLz06dwB+Vffw175XYrFzQQVifdGrwOlkYN+3pROd/f+w+Dd3gW8NDvurAfPfCbur/Cdyunc15OqBg==;WdQ/koGMAAMWu1y1XL8WXw=="
 ---

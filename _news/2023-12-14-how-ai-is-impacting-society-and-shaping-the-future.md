@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/kalinabryant/2023/12/13/how-ai-is-impac
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kalinabryant/2023/12/13/how-ai-is-impacting-society-and-shaping-the-future/amp/"
 type: article
 quality: 91
-heat: 235
+heat: 245
 published: true
 
 provider:
@@ -137,6 +137,20 @@ related:
       - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/shutterstock_571888840-100941708-orig.jpg"
         width: 504
         height: 315
+        isCached: true
+  - title: "2023: The year of AI gift-giving and other holiday shopping trends"
+    excerpt: "Flowcode analyzed holiday shopping forecasts from Salesforce and the National Retail Federation to identify a few major trends for 2023."
+    publishedDateTime: 2023-12-14T09:18:00Z
+    webUrl: "https://kvia.com/news/business-technology/2023/12/14/2023-the-year-of-ai-gift-giving-and-other-holiday-shopping-trends/"
+    type: article
+    provider:
+      name: KVIA
+      domain: kvia.com
+    quality: 39
+    images:
+      - url: "https://kvia.b-cdn.net/2023/12/00x942CD8CDD9C031_0.jpeg"
+        width: 1010
+        height: 720
         isCached: true
   - title: "How To Keep AI From Stealing the Sound of Your Voice"
     excerpt: "A new technology called AntiFake prevents the theft of the sound of your voice by making it more difficult for AI tools to analyze vocal recordings"

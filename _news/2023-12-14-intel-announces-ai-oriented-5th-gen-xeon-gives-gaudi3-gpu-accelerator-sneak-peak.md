@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Intel introduces new AI computer chips, processors"
+    excerpt: "Intel Corporation showcased its latest artificial intelligence products during the launch event in New York on Thursday, including Gaudi3, an AI-powered chip designed for AI software which is"
+    publishedDateTime: 2023-12-14T18:07:00Z
+    webUrl: "https://www.teletrader.com/shntel-introduces-new-ash-computer-chips-processors/news/details/61150474"
+    ampWebUrl: "https://www.teletrader.com/amp/news/details/61150474"
+    cdnAmpWebUrl: "https://www-teletrader-com.cdn.ampproject.org/c/s/www.teletrader.com/amp/news/details/61150474"
+    type: article
+    provider:
+      name: teletrader.com
+      domain: teletrader.com
+    quality: 74
+    images:
+      - url: "https://cdn.ttweb.net/News/images/308532.jpg?preset=w800_q70"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Intel and Vertiv partner to liquid cool AI processors"
     excerpt: "Liquid cooling has till now been pretty much confined to CPUs and GPUs, but Intel’s Gaudi3 AI accelerator can be liquid- or air-cooled cooled to a partnership with cooling specialist Vertiv."
     publishedDateTime: 2023-12-12T21:28:00Z
@@ -58,6 +74,6 @@ related:
         height: 706
         isCached: true
 
-secured: "y8D0og3gMUhNPqxz2P1SLlPQdKtu/ClKk18sLhvO6RYrj0/m7UTECCexz/NaOHb2cfMxhmDY5pfSgrKs0wodvrg2XcOtLou7UcvEbQEvJ4mKApqvdRLMLLjZc9wOjj52hJNAEPbFxbH6P6QovF5dWoQxC5gh6inwdJf+b1mLE/VCaO8W2lyEzPPDfe+GSZLqF8CQbRLLWPN8N7iw6kAN717Qs8IydU7ASNbg7Wr9kzSA69jTqmiSSnZNaxWlC1Dl+rLx1QMze+QiQ6JM/dJzZprVsVcrWJRw6ABQgo0ei28dv7nKHBWECNA1VVg6oXAYesaMi6rtZXzIsD8ICNwEKrsogon+5gr7Ech7vT3ifkk=;8AUg6Z4JyE1glCeyMofI+w=="
+secured: "zdSAIR2HgecRQdU6MmRnNlvH7T56yY4+LTL2IJcC7ZCP12Hp8kLuAb6UpTylyaJfb4t/4AZmPZe60fQ0sZVW81+WBwH/cdf/a6F6mJBVJ19/cZmiRmUGr8MJ+jNiiPU2VsKeyZ6J5vHLfm1sThENPVkPSVKuA4B4PE0EGzk+PNJflXX/QOUS9uINealSBPnkgGTbEZQlwRiISmYt3dg9gI8EGzphFCr2Q/wew/yTaKhXpUnoCTocX0tLz4mQg4cZYuxtdlIx1AEgvLkYbDcsbADNtKhqCaPbk4kcC47R7KgxLEPk1Wwf4CAfOprUtreALINtaneD5pnn+xUxoMEL1/SOM0SnftuISt2IgeO/quHiSsgeL0h8VCCnKIl/Meg3jAqQCQ8SMnQHRMBnToXScHdC1XgI1H5/sjJYGBDBF5VLkpVcHUOBTvmBr8Tva1q+bfaBHf6dPVESEc0XB9BjJR+RVv6SC+51JFTwf8jUcHfceDQATs7eiiwg9lPT+7nnIwrKA9Z68dDEkVYZtJ5yyQ==;r4y/i1AXoWvnlgb/17m1/g=="
 ---
 

@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Intel introduces new AI computer chips, processors"
+    excerpt: "Intel Corporation showcased its latest artificial intelligence products during the launch event in New York on Thursday, including Gaudi3, an AI-powered chip designed for AI software which is"
+    publishedDateTime: 2023-12-14T18:07:00Z
+    webUrl: "https://www.teletrader.com/shntel-introduces-new-ash-computer-chips-processors/news/details/61150474"
+    ampWebUrl: "https://www.teletrader.com/amp/news/details/61150474"
+    cdnAmpWebUrl: "https://www-teletrader-com.cdn.ampproject.org/c/s/www.teletrader.com/amp/news/details/61150474"
+    type: article
+    provider:
+      name: teletrader.com
+      domain: teletrader.com
+    quality: 74
+    images:
+      - url: "https://cdn.ttweb.net/News/images/308532.jpg?preset=w800_q70"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Intel Announces AI-Oriented 5th Gen Xeon, Gives Gaudi3 GPU Accelerator Sneak Peak"
     excerpt: "Gearing up for what it intends to be a multi-horse race in the exploding AI chip sector, Intel today announced a next-generation Xeon enterprise and data center CPU built with AI inferencing in mind,"
     publishedDateTime: 2023-12-14T15:10:00Z

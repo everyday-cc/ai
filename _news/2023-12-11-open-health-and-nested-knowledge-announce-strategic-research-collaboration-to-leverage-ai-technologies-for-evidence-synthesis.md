@@ -50,6 +50,15 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 39
+  - title: "CoreWeave Taps Dell Technologies to Strengthen Cloud Platform for AI and Machine Learning"
+    excerpt: "CoreWeave is a specialized cloud provider for large-scale NVIDIA GPU-accelerated workloads. The company will use Dell PowerEdge XE9860 servers with NVIDIA H100 Tensor Core GPUs as the key infrastructure powering its cloud solutions, tailored for workloads like AI, machine learning (ML), visual effects (VFX) rendering and large-scale simulations."
+    publishedDateTime: 2023-12-14T17:13:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-coreweave-taps-dell-technologies-strengthen-cloud-platform-ai-/2023/12/14/9934301.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 25
 
 secured: "sosTdYhfedUDu6galYfdrQkSlSy7xkvmroOE92Mc/TZtGmigCwtfuMcktrwKlVWnZOHrnhXk7n2d/d7FXJUU0wFQWMXXW8wYXLkBKpMHU/2/Vt0Tl74SspDoYZXKdU7WyanrxSrAvpoeHl1OtYsfT1UDWNkI74ZzCbVkPPO5k1GFmFzxbUXSanvNr1yiBFMVJqODFb8ExAL5VeYESxgSEW4cFR9qwg3De4vTSQXbprcTcUrkCZsXFXqgrQXaZFgSeIB1Ya2MG5zqhLGEszl4/PBTlrqb4RCGMljL9+Lt4sENG9XIHpvMgAWXgQW9ExirdvdGJmAzOReevhxcmLHiAfP3FpkHKPIx32wFsNMcNlg=;Qq9Xf20g0XojGDPEJcPXLw=="
 ---

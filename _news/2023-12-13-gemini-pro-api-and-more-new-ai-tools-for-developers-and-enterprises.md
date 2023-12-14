@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/google-gemini-pro-imagen-duet-ai-u
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-gemini-pro-imagen-duet-ai-update/amp/"
 type: article
 quality: 109
-heat: 199
+heat: 209
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 71
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/12/google-ai-studio-api-key-fig-a-dec-23.png"
+        width: 1400
+        height: 889
+        isCached: true
+  - title: "Google Adds Gemini Pro API to AI Studio and Vertex AI"
+    excerpt: "Google also announced Duet AI for Developers and Duet AI in Security Operations, but neither uses Gemini yet."
+    publishedDateTime: 2023-12-13T23:08:00Z
+    webUrl: "https://www.techrepublic.com/article/google-adds-gemini-ai-studio-vertex-ai/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 69
     images:
       - url: "https://www.techrepublic.com/wp-content/uploads/2023/12/google-ai-studio-api-key-fig-a-dec-23.png"
         width: 1400

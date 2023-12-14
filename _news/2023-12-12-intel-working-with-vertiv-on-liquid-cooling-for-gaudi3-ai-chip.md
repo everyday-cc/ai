@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/6GxRKMYQNGGMb3Wj"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/6GxRKMYQNGGMb3Wj"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Intel introduces new AI computer chips, processors"
+    excerpt: "Intel Corporation showcased its latest artificial intelligence products during the launch event in New York on Thursday, including Gaudi3, an AI-powered chip designed for AI software which is"
+    publishedDateTime: 2023-12-14T18:07:00Z
+    webUrl: "https://www.teletrader.com/shntel-introduces-new-ash-computer-chips-processors/news/details/61150474"
+    ampWebUrl: "https://www.teletrader.com/amp/news/details/61150474"
+    cdnAmpWebUrl: "https://www-teletrader-com.cdn.ampproject.org/c/s/www.teletrader.com/amp/news/details/61150474"
+    type: article
+    provider:
+      name: teletrader.com
+      domain: teletrader.com
+    quality: 74
+    images:
+      - url: "https://cdn.ttweb.net/News/images/308532.jpg?preset=w800_q70"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Intel and Vertiv partner to liquid cool AI processors"
     excerpt: "Liquid cooling has till now been pretty much confined to CPUs and GPUs, but Intel’s Gaudi3 AI accelerator can be liquid- or air-cooled cooled to a partnership with cooling specialist Vertiv."
     publishedDateTime: 2023-12-12T21:28:00Z

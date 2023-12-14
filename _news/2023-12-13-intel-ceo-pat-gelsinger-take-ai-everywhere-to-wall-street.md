@@ -35,6 +35,20 @@ related:
         width: 1599
         height: 900
         isCached: true
+  - title: "Intel unveils new data center chip with focus on AI growth"
+    excerpt: "Intel on Thursday showed off its latest Xeon processor, as it works to grab greater market share in the AI space."
+    publishedDateTime: 2023-12-14T17:00:00Z
+    webUrl: "https://www.aol.com/finance/intel-unveils-data-center-chip-150001129.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 54
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/Rhc1iexpU03u.K6xePUQhg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/aol_yahoo_finance_433/540ffdbe4d270ea7e844a2fde5e2b9de"
+        width: 1200
+        height: 799
+        isCached: true
 
 secured: "EQPO+nulrGihIPY66KP1QWSBqgtbNa+wYeNSUV7mt4bpl54+rfS2337Bd4PNeutyNlXnk38f4PfwH40iyY8IGym6HDYKuZpqPG35lKPdHlwJ2n/r0UqGSZduvxaE0IU6be2bDjAE6zFFH016HPQyU1pxQEzBWBF1Q8OtHilGSEVLLjiYp+L5ZaAgEbGeh8kgHYjxLni+m2WUWeXM4nwMhP0bT8qGgaUmebovyogHjxLHjVNJPU3NWnoCbKj+3dVTj7mEWkJPszQvaPpWRPIM3UmZrZsU/FUgXNpdAgrfArtjeujmhY2BJuiJdzjt3LPwPggP8abD8fO8adqBKrEFVjEa193NwKqVaLEVRX4lOBN/BNNAerWT9M14CKIEIObLOitZm0oH8j3t1aJ4L2ertp205L4vwS1RUpPgHvGSJrLySxua7ks3lX7NaVQbd+QLrO+7mbACWFUM5kMzM9RDnPvIHxAhNRPEliXZXhE69/floMNYvmzsWrxbecvtpIq+KtW7uOR733W8Iy+AbyaWpg==;uDM8mlxNvlml/BtyyjO/Aw=="
 ---
