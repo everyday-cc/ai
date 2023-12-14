@@ -9,7 +9,7 @@ ampWebUrl: "https://appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blow
 cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Apple Silicon M3 Pro competes with Nvidia RTX 4090 GPU in AI benchmark [u]"
+    excerpt: "In a recent test of Apple's MLX machine learning framework, a benchmark shows how the new Apple Silicon Macs compete with Nvidia's RTX 4090."
+    publishedDateTime: 2023-12-14T00:30:00Z
+    webUrl: "https://appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark"
+    ampWebUrl: "https://appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 72
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/57700-117522-graph-xl.jpg"
+        width: 1312
+        height: 800
+        isCached: true
   - title: "NVIDIA AI GPU shipments expected to surge 150% year-over-year in 2024"
     excerpt: "Analyst expects NVIDIA AI GPU shipments to surge another 150% year-over-year in 2024, led by the new H200 GPU and next-gen Blackwell B100 GPUs."
     publishedDateTime: 2023-12-14T01:02:00Z

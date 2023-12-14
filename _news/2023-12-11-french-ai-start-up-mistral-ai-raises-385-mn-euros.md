@@ -65,20 +65,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
-  - title: "AI start-up Mistral secures €385m to challenge OpenAI"
-    excerpt: "French start-up Mistral is focused on creating open-source AI models and has reportedly hit unicorn status after raising €385m."
-    publishedDateTime: 2023-12-11T12:24:00Z
-    webUrl: "https://www.siliconrepublic.com/start-ups/mistral-ai-unicorn-funding-open-source"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 37
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/12/AdobeStock_259976477.jpeg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "French startup Mistral AI closes $415M funding round"
     excerpt: "The company’s CEO said the goal is to create a “European champion” of generative AI on a global scale, “based on an open, responsible and decentralized approach to technology.”"
     publishedDateTime: 2023-12-11T13:08:00Z

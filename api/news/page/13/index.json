@@ -2,6 +2,40 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2023-12-01-deepmind-exec-ai-assesses-climate-issues-falls-short-of-full-solution.md",
+      "title": "DeepMind exec: AI assesses climate issues, falls short of full solution",
+      "excerpt": "Google DeepMind’s Climate Action Lead, Sims Witherspoon, highlights AI’s potential to address climate challenges. She suggests a three-step framework: Understand, Optimize, Accelerate.",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/news/deep-mind-exec-ai-assesses-climate-issues-falls-short-full-solution",
+      "originalUrl": "https://cointelegraph.com/news/deep-mind-exec-ai-assesses-climate-issues-falls-short-full-solution",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T12:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-01-markets-eq-is-first-to-fuse-voice-tones-with-language-in-generative-ai-platform-for-corporate-communications.md",
       "title": "Markets EQ is First to Fuse Voice Tones with Language in Generative AI Platform for Corporate Communications",
       "excerpt": "Markets EQ, today, introduced a state-of-the-art AI tonal recognition technology for evaluating and actively enhancing executive communications. The announcement, which was made from the floor of IR Magazine’s AI in IR Forum,",
@@ -992,49 +1026,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-why-ai-is-like-infinite-interns.md",
-      "title": "Why AI Is Like ‘Infinite Interns’",
-      "excerpt": "EU AI Regulations Hit A Potential Snag, AWS Unveils New AI Integrations ... Outside of the drama at OpenAI, the actual governance of artificial intelligence has been front and center in recent ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/meganpoinski/2023/11/30/why-ai-is-like-infinite-interns/",
-      "originalUrl": "https://www.forbes.com/sites/meganpoinski/2023/11/30/why-ai-is-like-infinite-interns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-30T18:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

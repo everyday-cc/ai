@@ -41,7 +41,23 @@ related:
         width: 1312
         height: 800
         isCached: true
+  - title: "Apple Silicon M3 Pro competes with Nvidia RTX 4090 GPU in AI benchmark [u]"
+    excerpt: "In a recent test of Apple's MLX machine learning framework, a benchmark shows how the new Apple Silicon Macs compete with Nvidia's RTX 4090."
+    publishedDateTime: 2023-12-14T00:30:00Z
+    webUrl: "https://appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark"
+    ampWebUrl: "https://appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 72
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/57700-117522-graph-xl.jpg"
+        width: 1312
+        height: 800
+        isCached: true
 
-secured: "Tmh+G4ZF3EocJwYORPaEvyK9SKytSyUZmeCDvgVl3sUlk5O7P3aHZBc4Gd9kJB9gNT8hUoMQb/Tk5j8PlQDYRdSwkQ4+sWKdJTovWU0ENFSHTdOKa+wsDcdqnDqtM3N4dZtCXNf+1YMOAFvRmBfu3cWJ8NNsJr5rtHTPCCxvVQa3F5/Fso3w/i3nDsulLA60BiBqH5xoTHabRYxANfU1mbNu1Q+xdeaFP+LD6VT7fJ/k6nnreJpCp4RXU4+HyEFnAEdvnrpTpo6qK6vGOTakmqz/VKtw9IYubCjgC2CGTKO+Mow2bji2LOgmrX+Bs0tO/gzrm/bGzR6njxlBWSEeZjPaDhUb1T936EqXKvB7lhs=;0JpWGDv/RAieaIP/PzSvgQ=="
+secured: "2tC+HlQO4fajzflUhe31jnlX8NIoBVum5EMZL744mag50UzqIzHfHtePnnG6iOCuvib6H550y+JTZl/5/qvHMTGddnlaUYrwc++AiO1+xxhH04HKBAruWBeVYoCasE2rsSpBqM0cFWAcZ9gzrXEq5Z+5SQVnq2xnovFd5zd0xVTvujByjigNtmX9sZIQK4H7dlOrivtGFWFgVSrT1CH5tRkvOlcqlHxj+HDEFqLRcw2dTSWAj7JgeZ88YmHGZHQHOCxJBaoX2TjHqNu2+zX61Zs14qRLawQfoLHDtF1VAJbzkDEIPJ9BHKsO9dbdQDGJshAzokN0QPlTmsKfpXjjqXgO4YgsdLGNTSeA64UyKSo/Pb9FZ1jblqlH+i578Ujt1VNjr46MQkiYlSDWqHjgzccKIoWJoMCzcezAfJ0vknoPxk3pcMi5eXKviNstd8LxcC4wgqaGBnFXJ7kKw3Arzi9c8T4abupz5w6jiJbOEwljz1q3MaEfvJCu+P0atZR6HQYkD9qgR5N82FG/3utmDw==;HbTho/sjKhyNQii3IYFCaQ=="
 ---
 

@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "Dropbox spooks users with new AI features that send data to OpenAI when used"
+    excerpt: "According to the FAQ, the third-party AI toggle in your account settings is turned on by default if \"you or your team\" are participating in the Dropbox AI alpha. Still, multiple Ars Technica staff who had no knowledge of the Dropbox AI alpha found the setting enabled by default when they checked."
+    publishedDateTime: 2023-12-13T19:41:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/12/dropbox-spooks-users-by-sending-data-to-openai-for-ai-search-features/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 64
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/12/man_looking_into_box-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "OpenAI’s Rival Mistral AI Valued at $2B after Latest Funding Round"
     excerpt: "OpenAI's rival Mistral AI is now valued at $2 billion after its latest funding round where it pulled $415 million from investors."
     publishedDateTime: 2023-12-11T17:39:00Z
@@ -43,19 +57,19 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 47
-  - title: "OpenAI Competitor Mistral AI Nabs $487M Round, Hitting $2B Valuation"
-    excerpt: "Paris-based Mistral AI, an OpenAI and Anthropic competitor, is putting the final touches on a massive round of approximately $487 million that would value the company at $2 billion, per a report."
-    publishedDateTime: 2023-12-11T18:13:00Z
-    webUrl: "https://news.crunchbase.com/ai/mistral-openai-anthropic-andreessen/"
+  - title: "AI start-up Mistral secures €385m to challenge OpenAI"
+    excerpt: "French start-up Mistral is focused on creating open-source AI models and has reportedly hit unicorn status after raising €385m."
+    publishedDateTime: 2023-12-11T12:24:00Z
+    webUrl: "https://www.siliconrepublic.com/start-ups/mistral-ai-unicorn-funding-open-source"
     type: article
     provider:
-      name: news.crunchbase
-      domain: crunchbase.com
+      name: SiliconRepublic
+      domain: siliconrepublic.com
     quality: 37
     images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/Generative_AI_3.jpg"
-        width: 900
-        height: 506
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/12/AdobeStock_259976477.jpeg"
+        width: 800
+        height: 600
         isCached: true
   - title: "OpenAI to pay Axel Springer to use content to train AI models"
     excerpt: "OpenAI, the generative artificial intelligence startup backed by Microsoft (NASDAQ:MSFT), has agreed to pay publishing company Axel Springer to use the media company's content to train its AI models. The content will be used to create answers in ChatGPT ..."

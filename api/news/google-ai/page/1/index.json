@@ -363,10 +363,10 @@
     {
       "path": "_news/2023-12-07-google-deepminds-new-gemini-model-looks-amazingbut-could-signal-peak-ai-hype.md",
       "title": "Google DeepMind’s new Gemini model looks amazing—but could signal peak AI hype",
-      "excerpt": "Gemini is Google’s biggest AI launch yet—its push to take on competitors OpenAI and Microsoft in the race for AI supremacy. There is no doubt that the model is pitched as best-in-class across a wide range of capabilities—an “everything machine,” as one observer puts it.",
+      "excerpt": "Hype about Gemini, Google DeepMind’s long-rumored response to OpenAI’s GPT-4, has been building for months. Today the company finally revealed what it has been working on in s",
       "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/12/06/1084471/google-deepminds-new-gemini-model-looks-amazing-but-could-signal-peak-ai-hype/",
-      "originalUrl": "https://www.technologyreview.com/2023/12/06/1084471/google-deepminds-new-gemini-model-looks-amazing-but-could-signal-peak-ai-hype/",
+      "webUrl": "https://www.technologyreview.com/2023/12/06/1084471/google-deepminds-new-gemini-model-looks-amazing-but-could-signal-peak-ai-hype/amp?trk=public_post_comment-text",
+      "originalUrl": "https://www.technologyreview.com/2023/12/06/1084471/google-deepminds-new-gemini-model-looks-amazing-but-could-signal-peak-ai-hype/amp?trk=public_post_comment-text",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -383,8 +383,8 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/12/06/1084471/google-deepminds-new-gemini-model-looks-amazing-but-could-signal-peak-ai-hype/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/06/1084471/google-deepminds-new-gemini-model-looks-amazing-but-could-signal-peak-ai-hype/amp/",
+      "ampWebUrl": "https://www.technologyreview.com/2023/12/06/1084471/google-deepminds-new-gemini-model-looks-amazing-but-could-signal-peak-ai-hype/amp?trk=public_post_comment-text",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/06/1084471/google-deepminds-new-gemini-model-looks-amazing-but-could-signal-peak-ai-hype/amp?trk=public_post_comment-text",
       "publishedDateTime": "2023-12-06T18:07:00Z",
       "updatedDateTime": null,
       "provider": {
@@ -919,6 +919,83 @@
       ]
     },
     {
+      "path": "_news/2023-11-30-deepminds-ai-discovers-800-years-worth-of-knowledge.md",
+      "title": "DeepMind’s AI discovers ‘800 years’ worth of knowledge’",
+      "excerpt": "Related video: AI must not move fast and break things, says Deepmind founder Google’s leading AI division DeepMind claims to have unlocked “800 years’ worth of knowledge” after discovering ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.co.uk/tech/deepmind-ai-discovery-materials-crystals-b2456029.html",
+      "originalUrl": "https://www.independent.co.uk/tech/deepmind-ai-discovery-materials-crystals-b2456029.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.independent.co.uk/2023/11/30/09/deepmind%20ai%20materials%20discovery.png?quality=75&width=1200&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.independent.co.uk/tech/deepmind-ai-discovery-materials-crystals-b2456029.html",
+      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/tech/deepmind-ai-discovery-materials-crystals-b2456029.html",
+      "publishedDateTime": "2023-11-30T12:12:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-30-google-deepmind-ai-predicts-2-million-novel-chemical-materials-for-real-world-tech.md",
+      "title": "Google DeepMind AI predicts 2 million novel chemical materials for real-world tech",
+      "excerpt": "Google DeepMind’s AI predicts the structures of two million materials, with potential for batteries and chips.",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/news/google-deep-mind-ai-predicts-2-million-material-structures-for-real-world-tech",
+      "originalUrl": "https://cointelegraph.com/news/google-deep-mind-ai-predicts-2-million-material-structures-for-real-world-tech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-30T11:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-30-google-deepminds-materials-ai-has-already-discovered-22-million-new-crystals.md",
       "title": "Google DeepMind’s materials AI has already discovered 2.2 million new crystals",
       "excerpt": "Google DeepMind has developed a revolutionary AI system that discovered 2 million new materials, unlocking massive potential for innovations in renewable energy, batteries, electronics, and more.",
@@ -1350,101 +1427,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-28-head-of-google-bard-believes-ai-can-help-improve-communication-and-compassion-really-remarkable.md",
-      "title": "Head of Google Bard believes AI can help improve communication and compassion: 'Really remarkable'",
-      "excerpt": "Google Bard product lead Jack Krawczyk sat down with Fox News Digital for an interview in New York City recently to discuss how generative AI frontrunner Google Bard has developed to accommodate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/lifestyle/google-bard-believes-ai-help-improve-communication-compassion-remarkable",
-      "originalUrl": "https://www.foxnews.com/lifestyle/google-bard-believes-ai-help-improve-communication-compassion-remarkable",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/07/340/340/stabile.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/lifestyle/google-bard-believes-ai-help-improve-communication-compassion-remarkable.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/google-bard-believes-ai-help-improve-communication-compassion-remarkable.amp",
-      "publishedDateTime": "2023-11-28T09:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-24-googles-deepmind-ai-can-make-better-weather-forecasts-than-supercomputers.md",
-      "title": "Google's DeepMind AI can make better weather forecasts than supercomputers",
-      "excerpt": "DeepMind's new machine learning algorithm takes less than a minute to make its forecasts and can run on a desktop. But it won't replace traditional forecasts anytime soon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.space.com/google-deepmind-ai-weather-forecasts-artificial-intelligence",
-      "originalUrl": "https://www.space.com/google-deepmind-ai-weather-forecasts-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/3vmfhoLHduNWUsmYkCBMWW-1200-80.jpg",
-          "width": 970,
-          "height": 546,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-23T17:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Space.com",
-        "domain": "space.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

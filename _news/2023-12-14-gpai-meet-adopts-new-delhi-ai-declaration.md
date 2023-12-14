@@ -1,22 +1,30 @@
 ---
 category: news
-title: "GPAI Meet Adopts New Delhi AI Declaration"
-excerpt: "(MENAFN- Live Mint) \"The Global Partnership on Artificial Intelligence (GPAI) Summit, a congregation of 29 member nations including the European Union, on Wednesday announced the adoption of the New Delhi Declaration,"
-publishedDateTime: 2023-12-13T20:50:00Z
-originalUrl: "https://menafn.com/1107589903/GPAI-Meet-Adopts-New-Delhi-AI-Declaration"
-webUrl: "https://menafn.com/1107589903/GPAI-Meet-Adopts-New-Delhi-AI-Declaration"
+title: "GPAI meet adopts New Delhi AI declaration"
+excerpt: "Further, the declaration also saw participating nations agree upon using the GPAI platform to create a global framework on AI trust and safety, and make AI solutions and benefits available for all. India also pitched to host a GPAI Global Governance Summit to finalize the proposed framework, in six months."
+publishedDateTime: 2023-12-14T04:43:00Z
+originalUrl: "https://www.livemint.com/news/india/gpai-meet-adopts-new-delhi-ai-declaration-11702487342900.html"
+webUrl: "https://www.livemint.com/news/india/gpai-meet-adopts-new-delhi-ai-declaration-11702487342900.html"
+ampWebUrl: "https://www.livemint.com/news/india/gpai-meet-adopts-new-delhi-ai-declaration/amp-11702487342900.html"
+cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/gpai-meet-adopts-new-delhi-ai-declaration/amp-11702487342900.html"
 type: article
-quality: 19
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: Mint
+  domain: livemint.com
 
 topics:
   - AI Ethics
   - AI
+
+images:
+  - url: "https://www.livemint.com/lm-img/img/2023/12/13/1600x900/GPAI_2023_full_delegation_1702487461909_1702487466925.jpg"
+    width: 1600
+    height: 900
+    isCached: true
 
 related:
   - title: "GPAI should help frame sustainable AI rules: PM"
@@ -68,6 +76,6 @@ related:
       domain: sentinelcolorado.com
     quality: 19
 
-secured: "L5p6VwOAyvjcMkfs16fUXfAhSe9tPn3m7LW1gA69XfpCsZSu2Whh8OjCwUDq0hWlEgzG/zdkArDCUI+2/2ATZqsTi1poKRwMVYQi9gNQDFDV0efEJH229MwndBRvrJpRaLd/EKjgVY3PaOBB5ue+7bIwhhJsX5pZzxRr/dAB/4pez7Yp6r7zsCoM9dHTK2ClE0OcQ0FOqoMvHt1CeJuWmNxuw/rpFQiBRxxGbNyf9HkSUx2i5mJwHB/suTGbLia37ygXSylclmIiSu14Ugo3b8eE/jWB3M7OVnix0gGmEteOBINeOMagHAnFXfm4yyJpJiPgptETao/63aC6YA8Gr2/F9QKZpqowq6CLYykty3LnnsON/cvhlN48GCUFAM8oDXKv1CcU0D6HJex2+SlQA0KjXGn4VtLNbK/jCTMbUjnBXeBtIc3NkeJiyZKGFJBEOHCQW8PPetU24YU/SAgClKkE6N2TxRBNzKNMTQwIvGHy/z8Xxj33Th5VDQO4mg7hA/4Lg9efQ/gmemTVeGduoA==;68yNIAhFbxEgIK6SlVjagg=="
+secured: "l7Q0h6zVvbzm0ACqZh+u33E+G+0KifoXhQkBG+6N5GLaa1HHwkGilIsMRvvPWutFZXhyGfXJVePzqhgrRbq5h3D1xjGvkxI/IUPO10KQiPjFTGgBTMzC8noyIB9bKdngQRi8jYfVEeeB6m0YPERk0bzH6m4H1zm9jLlCQ3Ev52LyKGZl0BjC6ajUT0MSH2U+uDWlqv/FX89fpfy8EhlaAZ5ukG/5Qnw8ZW+TfXA8+vKH+/83TbLDnS/1twhwBdMlXX8xgiN2pq5yklMOQ19nXtKz3eHC3qtxTuXgJbe7GLvcVGF9zvG8YBVUZZWDpQ0TqioZTeRIxGwkZK5C1+M6LgdgBnbzLLJlzGW/LdNS0M0=;vada51FFJq7R1CHC8OvvoQ=="
 ---
 

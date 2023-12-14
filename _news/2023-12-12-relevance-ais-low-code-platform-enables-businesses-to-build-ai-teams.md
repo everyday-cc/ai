@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/12/11/relevance-ais-low-code-platform-en
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/11/relevance-ais-low-code-platform-enables-businesses-to-build-ai-teams/amp/"
 type: article
 quality: 87
-heat: 207
+heat: 197
 published: true
 
 provider:
@@ -70,22 +70,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/12/Untitled-design-2023-12-12T105755.661.png?w=1200&strip=all"
         width: 1200
         height: 750
-        isCached: true
-  - title: "EU reaches deal on how to regulate artificial intelligence"
-    excerpt: "European Union negotiators have agreed a deal on the world's first comprehensive artificial intelligence rules. The agreement paves the way for legal oversight of technology used in popular ..."
-    publishedDateTime: 2023-12-09T04:22:00Z
-    webUrl: "https://news.sky.com/story/eu-reaches-deal-on-how-to-regulate-artificial-intelligence-13026107"
-    ampWebUrl: "https://news.sky.com/story/amp/eu-reaches-deal-on-how-to-regulate-artificial-intelligence-13026107"
-    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/eu-reaches-deal-on-how-to-regulate-artificial-intelligence-13026107"
-    type: article
-    provider:
-      name: Sky
-      domain: sky.com
-    quality: 59
-    images:
-      - url: "https://e3.365dm.com/23/11/1600x900/skynews-chatgpt-openai_6364467.jpg?20231118091822"
-        width: 1600
-        height: 900
         isCached: true
   - title: "How AI Can Revolutionize Your Business"
     excerpt: "Throughout history, there have been key inventions that have revolutionized everyday life, such as the automobile and electricity. We are currently living amid another such revolution: the rise of AI."

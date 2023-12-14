@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-14-police-suggest-facial-recognition-cameras-to-discourage-bank-robbers.md",
+      "title": "Police suggest facial recognition cameras to discourage bank robbers",
+      "excerpt": "The Ho Chi Minh City police want cameras installed at all banks to recognize the faces of visitors to dissuade robbers.",
+      "sourceUrl": null,
+      "webUrl": "https://e.vnexpress.net/news/news/crime/police-suggest-facial-recognition-cameras-to-discourage-bank-robbers-4688681.html",
+      "originalUrl": "https://e.vnexpress.net/news/news/crime/police-suggest-facial-recognition-cameras-to-discourage-bank-robbers-4688681.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1-english.vnecdn.net/2023/12/14/cuopnhabang87521702466662-1702-4245-4536-1702525268.jpg?w=680&h=0&q=100&dpr=2&fit=crop&s=knhmU4L2iVJgPR4VjsUEwg",
+          "width": 1193,
+          "height": 716,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://ampe.vnexpress.net/news/news/crime/police-suggest-facial-recognition-cameras-to-discourage-bank-robbers-4688681.html",
+      "cdnAmpWebUrl": "https://ampe-vnexpress-net.cdn.ampproject.org/c/s/ampe.vnexpress.net/news/news/crime/police-suggest-facial-recognition-cameras-to-discourage-bank-robbers-4688681.html",
+      "publishedDateTime": "2023-12-14T04:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VN Express",
+        "domain": "vnexpress.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-12-14-parliament-security-system-to-be-reviewed-image-will-be-captured-by-facial-recognition-device.md",
       "title": "Parliament security system to be reviewed; image will be captured by facial recognition device",
       "excerpt": "Following a major security breach in Parliament, the security protocols were overhauled with strict measures to reduce any contact between MPs and visitors.",
@@ -1275,58 +1319,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-24-formula-one-trials-ai-to-tackle-track-limits-breaches.md",
-      "title": "Formula One trials AI to tackle track limits breaches",
-      "excerpt": "The AI will sort out the genuine breaches ... violations at turn six was \"completely unsatisfactory\" and a solution needed to be found before the start of next season. Tim Malyon, the FIA's head of remote operations and deputy race director, said the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/sports/motor-sports/formula-one-trials-ai-tackle-track-limits-breaches-2023-11-23/",
-      "originalUrl": "https://www.reuters.com/sports/motor-sports/formula-one-trials-ai-tackle-track-limits-breaches-2023-11-23/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/7M1TuD42-GQ5WL2UAXs_JwPN_RY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PRVOWK57YVOQ5PAJNQLX23HFYM.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-23T16:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

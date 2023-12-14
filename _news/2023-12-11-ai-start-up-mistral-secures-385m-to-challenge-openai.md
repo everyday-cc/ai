@@ -24,70 +24,72 @@ images:
     isCached: true
 
 related:
-  - title: "French AI Start-up Mistral AI Raises 385 Mn Euros"
-    excerpt: "French artificial intelligence start-up Mistral AI announced Sunday it had raised 385 million euros ($414 million), becoming one of Europe's two AI leaders. Founded in May by industry heavyweights, Mistral had already raised 105 million euros in June."
-    publishedDateTime: 2023-12-10T00:00:00Z
-    webUrl: "https://www.barrons.com/news/french-ai-start-up-mistral-ai-raises-385-mn-euros-7cc2d989"
-    ampWebUrl: "https://www.barrons.com/amp/news/french-ai-start-up-mistral-ai-raises-385-mn-euros-7cc2d989"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/french-ai-start-up-mistral-ai-raises-385-mn-euros-7cc2d989"
+  - title: "Dropbox spooks users with new AI features that send data to OpenAI when used"
+    excerpt: "According to the FAQ, the third-party AI toggle in your account settings is turned on by default if \"you or your team\" are participating in the Dropbox AI alpha. Still, multiple Ars Technica staff who had no knowledge of the Dropbox AI alpha found the setting enabled by default when they checked."
+    publishedDateTime: 2023-12-13T19:41:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/12/dropbox-spooks-users-by-sending-data-to-openai-for-ai-search-features/"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 64
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/12/man_looking_into_box-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
+  - title: "OpenAI’s Rival Mistral AI Valued at $2B after Latest Funding Round"
+    excerpt: "OpenAI's rival Mistral AI is now valued at $2 billion after its latest funding round where it pulled $415 million from investors."
+    publishedDateTime: 2023-12-11T17:39:00Z
+    webUrl: "https://www.coinspeaker.com/mistral-ai-2b-latest-funding/"
+    ampWebUrl: "https://www.coinspeaker.com/mistral-ai-2b-latest-funding/amp/"
+    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/mistral-ai-2b-latest-funding/amp/"
+    type: article
+    provider:
+      name: coinspeaker
+      domain: coinspeaker.com
     quality: 57
     images:
-      - url: "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg"
-        width: 1320
-        height: 742
+      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/12/mistral-ai-2b-latest-funding.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "French AI start-up Mistral AI raises €385m"
-    excerpt: "French artificial intelligence start-up Mistral AI announced Sunday it had raised €385 million ($414 million), becoming one of Europe's two AI leaders. Founded in May by industry heavyweights, Mistral had already raised €105 million in June. Among ..."
-    publishedDateTime: 2023-12-11T12:35:00Z
-    webUrl: "https://www.dhakatribune.com/business/333592/french-ai-start-up-mistral-ai-raises-€385m"
-    ampWebUrl: "https://www.dhakatribune.com/amp/business/333592/french-ai-start-up-mistral-ai-raises-%E2%82%AC385m"
-    cdnAmpWebUrl: "https://www-dhakatribune-com.cdn.ampproject.org/c/s/www.dhakatribune.com/amp/business/333592/french-ai-start-up-mistral-ai-raises-%E2%82%AC385m"
+  - title: "Dropbox spooks users by sending data to OpenAI for AI search features"
+    excerpt: "On Wednesday, news quickly spread on social media about a new enabled-by-default Dropbox setting that shares your Dropbox data with OpenAI for an experimental AI-powered search feature. Dropbox says that user data shared with third-party AI partners isn't used to train AI models and is deleted within 30 days."
+    publishedDateTime: 2023-12-13T19:41:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/12/dropbox-spooks-users-by-sending-data-to-openai-for-ai-search-features/"
     type: article
     provider:
-      name: Dhaka Tribune
-      domain: dhakatribune.com
-    quality: 57
-    images:
-      - url: "https://ecdn.dhakatribune.net/contents/cache/images/600x315x1/uploads/media/2023/12/11/000_33ZM9P9-b2692f2c39865b65deaec2e3e2362ef2.jpg?jadewits_media_id=10902"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Mistral AI raises 385 mln euros in second round in seven months"
-    excerpt: "French artificial intelligence company Mistral AI said on Monday it had raised 385 million euros ($414.41 million) in its second funding round in seven months, led by investors such as Andreessen-Horowitz and LightSpeed Ventures."
-    publishedDateTime: 2023-12-11T07:27:00Z
-    webUrl: "https://www.reuters.com/technology/mistral-ai-raises-385-mln-euros-second-round-seven-months-2023-12-11/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
+      name: Ars Technica
+      domain: arstechnica.com
     quality: 47
-  - title: "French AI start-up Mistral AI raises 385 mn euros"
-    excerpt: "French artificial intelligence start-up Mistral AI announced Sunday it had raised 385 million euros ($414 million), becoming one of Europe's two AI leaders."
-    publishedDateTime: 2023-12-11T09:02:00Z
-    webUrl: "https://techxplore.com/news/2023-12-french-ai-start-up-mistral-mn.html"
+  - title: "OpenAI’s Soap Opera Collapse Bodes Ill for AI Benefiting Humanity"
+    excerpt: "Whatever fantasies we may have had about the nonprofit structure of OpenAI have been eviscerated. While it remains a nonprofit, it’s proven entirely beholden to ruthless capitalism"
+    publishedDateTime: 2023-12-11T13:04:00Z
+    webUrl: "https://www.scientificamerican.com/article/openais-soap-opera-collapse-bodes-ill-for-ai-benefiting-humanity/"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 37
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2016/57ea6ea8bc753.jpg"
-        width: 1500
-        height: 1060
-        isCached: true
-  - title: "French startup Mistral AI closes $415M funding round"
-    excerpt: "The company’s CEO said the goal is to create a “European champion” of generative AI on a global scale, “based on an open, responsible and decentralized approach to technology.”"
-    publishedDateTime: 2023-12-11T13:08:00Z
-    webUrl: "https://cointelegraph.com/news/french-startup-mistral-ai-closes-415m-funding-round"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
+      name: Scientific American
+      domain: scientificamerican.com
     quality: 17
+  - title: "OpenAI to pay Axel Springer to use content to train AI models"
+    excerpt: "OpenAI, the generative artificial intelligence startup backed by Microsoft (NASDAQ:MSFT), has agreed to pay publishing company Axel Springer to use the media company's content to train its AI models. The content will be used to create answers in ChatGPT ..."
+    publishedDateTime: 2023-12-13T14:21:00Z
+    webUrl: "https://seekingalpha.com/news/4045950-openai-pay-axel-springer-use-content-train-ai-models"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 17
+  - title: "Paris-based Startup and OpenAI Competitor Mistral AI Valued at $2 Billion"
+    excerpt: "In a significant development for the European artificial intelligence sector, Paris-based startup Mistral AI has achieved a noteworthy milestone. The company has successfully secured a substantial investment of €450 million,"
+    publishedDateTime: 2023-12-09T14:18:00Z
+    webUrl: "https://www.unite.ai/paris-based-startup-and-openai-competitor-mistral-ai-valued-at-2-billion/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 16
 
 secured: "6gBbpGx4lSnFOHopgUcgjcii+2piJMUuBajq/juB4yGV93MGcYar8vRL5F9M9X7yTwEF2r4XH/GRoQQFygNrXqdeJlWcMIpTNajrKbQTi+lPOQdjRdeasA7xRNqxCPAh3u+4QZGnut/twFtQWYaXXOKVJuon2zOsu9yiVwk7W509L+WIrBaNfMjYxuWViC6yR8m47ynaKqVxIWi6cqaLm7q4HXASxaV7YQABde1njvI+NbJdG4l/nB0gzaoBPW6pIZrBpDE/8mDE+2Zta/R7SZUZjat/klbNaQg8hbwBvs8RrP5ljI9y4qy5K9ns5GL1j7qqg+U7ooTjC9ypxdQPQAHBvkyEgLr/kJx/I9LF8NDjV6wac/WnjokE9+ixzkR02yOYUJlqd93w+KgQGw17+ZDckrdcxpjGqiOlN/Z8n5Vy3C+IOwc/jaWk311Zy82NLLhB1CIYHC4bA/8zzGrSBNzZ7V44/bi5WSyWZwWBC5HjU92jkVSu9gvnQlixTNp5az6tj2sE9pl1Nd6BP4CbnQ==;59/WIiZHbFJOfNuckDWTRA=="
 ---

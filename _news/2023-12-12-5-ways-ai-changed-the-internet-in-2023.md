@@ -7,7 +7,7 @@ originalUrl: "https://mashable.com/article/ways-ai-changed-the-internet-2023"
 webUrl: "https://mashable.com/article/ways-ai-changed-the-internet-2023"
 type: article
 quality: 67
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -81,6 +81,20 @@ related:
       - url: "https://images.newscientist.com/wp-content/uploads/2023/12/13141250/SEI_183160249.jpg"
         width: 1350
         height: 900
+        isCached: true
+  - title: "We won't allow untrusted AI models to scrape Indian internet: Rajeev Chandrasekhar"
+    excerpt: "The Union minister says that government might amend IT rules to tackle deepfakes, if social media intermediaries do not comply with advisories. He says any effort to regulate AI has to be global or near-global."
+    publishedDateTime: 2023-12-14T04:38:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/we-wont-allow-untrusted-ai-models-to-scrape-indian-internet-rajeev-chandrasekhar-11902881.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 33
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/06/Rajeev-Chandrasekhar-1-770x433-770x433.png"
+        width: 770
+        height: 433
         isCached: true
 
 secured: "G9vjow+6Y9/qs89YW5XPsND/v64Z15HixpfLiiKeUykFrmVmxjaixxC/j4VNuKcnaa0ezLnKX0jQO8TdyCpWsy/mRVPCkj1ks2lijMUhjlsTcTg3MLEyvcwKALqnRtAOcEkw+vBXh5JN4+1jF7L/fawbY7/T3x9jjzAb4gPk1oTbjCenMf3OfMMSnBv+WmHXYAmc8BF41L4wRtTrv68qtOpUmJtNlbshB0Xq8o1EJe6zKi6fexA3qv92JJEbQ11fzh18uEATMzdzZEEB/aGzrlCdnLzpO5KKltMBfBBBf3gtIZqvSoSwZz9cYTVxyuUpmA2di8LvX+cPUtdqylxmsxkJLOcnHUCXFg8vA8ThIsQlKU70nWRmh8MnnmwwX7if6n8GDuvs8cxHcaSgYMh/iVcli4+ShDlMSNEbWgo7us5jfyXG+LTv+E5aUIwULjszGUOmYn8/KLlOD+Q3sEWkpcONa8D6bl4BQcSon5PAbtp/XEBTVSGzlLRkOBuZloxZPZfE+s3OtPismmtpCNcPMA==;rDL7x2+PdNFaewlMcpQbcw=="

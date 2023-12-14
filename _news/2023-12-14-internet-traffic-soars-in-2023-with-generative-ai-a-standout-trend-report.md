@@ -82,6 +82,20 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "We won't allow untrusted AI models to scrape Indian internet: Rajeev Chandrasekhar"
+    excerpt: "The Union minister says that government might amend IT rules to tackle deepfakes, if social media intermediaries do not comply with advisories. He says any effort to regulate AI has to be global or near-global."
+    publishedDateTime: 2023-12-14T04:38:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/we-wont-allow-untrusted-ai-models-to-scrape-indian-internet-rajeev-chandrasekhar-11902881.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 33
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/06/Rajeev-Chandrasekhar-1-770x433-770x433.png"
+        width: 770
+        height: 433
+        isCached: true
 
 secured: "BB+pYx3SqBcXvn6xETrZK5AxjZhqhKygnXYKtx0WNMG5qKFrO5Lwf4d/qPUzpwXEEXnQ/vPHX/xG49UbF3EtQhBA1AqjEHlfqLOgCVEE05EIDv4WA7doJ2BfNrUf3aYujkOEdAVVPImf9a/ox6TU6Ao86JD0yXGwCIpefrOmh0GkkCTCp8q9+zOr1D4CBIRNo2+nd5F7bVpiWc62EflRVScd42CDtGNs4Us+QrQFSywuAgAD0W2iEYh4s64PDzVp/NAaYXOQRPvsdrNgD/UYBlmlEfeYi4aF+qYPAGD+H8hxqUnx1zIVHdC6zdguBPUBlw5p+8Css8Sm1KSwVKgVs1VlkZ4rqxLaPpCikfbUiHu3j7MoDM5sfq82rNoFcX7Zvps6YUDcR4p/wXBAO3Cs6UbL9tmx0OpJGtWFoH1mTP4Lxhdp5ke+aJ0Hn7svcRNpOiAi3EDOoYh6Hx65T6uEmK14CsYULXJOoxRKLKCZFoUm1X5+4gBsHNGmMUjJdM0rPyYijqIe7Mj32XWc26ANuQ==;r1BZ+9Xc68NqkV+sSNm51w=="
 ---
