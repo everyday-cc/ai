@@ -24,137 +24,70 @@ images:
     isCached: true
 
 related:
-  - title: "Inside OpenAI’s Crisis Over the Future of Artificial Intelligence"
-    excerpt: "Split over the leadership of Sam Altman, board members and executives turned on one another. Their brawl exposed the cracks at the heart of the A.I. movement."
-    publishedDateTime: 2023-12-09T12:51:00Z
-    webUrl: "https://www.nytimes.com/2023/12/09/technology/openai-altman-inside-crisis.html"
+  - title: "French AI Start-up Mistral AI Raises 385 Mn Euros"
+    excerpt: "French artificial intelligence start-up Mistral AI announced Sunday it had raised 385 million euros ($414 million), becoming one of Europe's two AI leaders. Founded in May by industry heavyweights, Mistral had already raised 105 million euros in June."
+    publishedDateTime: 2023-12-10T00:00:00Z
+    webUrl: "https://www.barrons.com/news/french-ai-start-up-mistral-ai-raises-385-mn-euros-7cc2d989"
+    ampWebUrl: "https://www.barrons.com/amp/news/french-ai-start-up-mistral-ai-raises-385-mn-euros-7cc2d989"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/french-ai-start-up-mistral-ai-raises-385-mn-euros-7cc2d989"
     type: article
     provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 86
-    images:
-      - url: "https://static01.nyt.com/images/2023/12/08/business/08ai-openai-02/08ai-openai-02-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "OpenAI’s Rival Mistral AI Valued at $2B after Latest Funding Round"
-    excerpt: "OpenAI's rival Mistral AI is now valued at $2 billion after its latest funding round where it pulled $415 million from investors."
-    publishedDateTime: 2023-12-11T17:39:00Z
-    webUrl: "https://www.coinspeaker.com/mistral-ai-2b-latest-funding/"
-    ampWebUrl: "https://www.coinspeaker.com/mistral-ai-2b-latest-funding/amp/"
-    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/mistral-ai-2b-latest-funding/amp/"
-    type: article
-    provider:
-      name: coinspeaker
-      domain: coinspeaker.com
+      name: Barron's
+      domain: barrons.com
     quality: 57
     images:
-      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/12/mistral-ai-2b-latest-funding.jpg"
-        width: 1024
-        height: 683
+      - url: "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg"
+        width: 1320
+        height: 742
         isCached: true
-  - title: "ChatGPT Is Showing Signs of Laziness. OpenAI Says A.I. Might Need a Fix"
-    excerpt: "One of the most promising aspects of A.I. is its ability to handle dull, repetitive tasks, but some ChatGPT users say the chatbot isn't finishing the job like it used to, prompting questions about whether the technology is mirroring human laziness."
-    publishedDateTime: 2023-12-12T22:32:00Z
-    webUrl: "https://www.inc.com/ben-sherry/chatgpt-is-showing-signs-of-laziness-openai-says-ai-might-need-a-fix.html"
+  - title: "French AI start-up Mistral AI raises €385m"
+    excerpt: "French artificial intelligence start-up Mistral AI announced Sunday it had raised €385 million ($414 million), becoming one of Europe's two AI leaders. Founded in May by industry heavyweights, Mistral had already raised €105 million in June. Among ..."
+    publishedDateTime: 2023-12-11T12:35:00Z
+    webUrl: "https://www.dhakatribune.com/business/333592/french-ai-start-up-mistral-ai-raises-€385m"
+    ampWebUrl: "https://www.dhakatribune.com/amp/business/333592/french-ai-start-up-mistral-ai-raises-%E2%82%AC385m"
+    cdnAmpWebUrl: "https://www-dhakatribune-com.cdn.ampproject.org/c/s/www.dhakatribune.com/amp/business/333592/french-ai-start-up-mistral-ai-raises-%E2%82%AC385m"
     type: article
     provider:
-      name: Inc
-      domain: inc.com
-    quality: 54
+      name: Dhaka Tribune
+      domain: dhakatribune.com
+    quality: 57
     images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1204333176_535732_az3rad.jpg"
-        width: 1024
-        height: 576
+      - url: "https://ecdn.dhakatribune.net/contents/cache/images/600x315x1/uploads/media/2023/12/11/000_33ZM9P9-b2692f2c39865b65deaec2e3e2362ef2.jpg?jadewits_media_id=10902"
+        width: 600
+        height: 315
         isCached: true
-  - title: "Google's Bard vs OpenAI's ChatGPT: Which of the rival AI chatbots is better? – Euronews"
-    excerpt: "Google’s answer to ChatGPT is here - but is it as good as OpenAI’s global phenomenon? Euronews Next put them through their paces. Google has made its"
-    publishedDateTime: 2023-12-12T02:41:00Z
-    webUrl: "https://www.inferse.com/836356/googles-bard-vs-openais-chatgpt-which-of-the-rival-ai-chatbots-is-better-euronews/"
+  - title: "Mistral AI raises 385 mln euros in second round in seven months"
+    excerpt: "French artificial intelligence company Mistral AI said on Monday it had raised 385 million euros ($414.41 million) in its second funding round in seven months, led by investors such as Andreessen-Horowitz and LightSpeed Ventures."
+    publishedDateTime: 2023-12-11T07:27:00Z
+    webUrl: "https://www.reuters.com/technology/mistral-ai-raises-385-mln-euros-second-round-seven-months-2023-12-11/"
     type: article
     provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 48
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/12/wp-header-logo-6663.png"
-        width: 1000
-        height: 563
-        isCached: true
-  - title: "Dropbox spooks users by sending data to OpenAI for AI search features"
-    excerpt: "On Wednesday, news quickly spread on social media about a new enabled-by-default Dropbox setting that shares your Dropbox data with OpenAI for an experimental AI-powered search feature. Dropbox says that user data shared with third-party AI partners isn't used to train AI models and is deleted within 30 days."
-    publishedDateTime: 2023-12-13T19:41:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/12/dropbox-spooks-users-by-sending-data-to-openai-for-ai-search-features/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
+      name: Reuters
+      domain: reuters.com
     quality: 47
-  - title: "Elon Musk’s AI bot, Grok, speaks as if made by OpenAI in some tests, causing a stir"
-    excerpt: "Grok, the AI language model created by Elon Musk's xAI, went into wide release last week, and people have begun spotting glitches. On Friday, security tester Jax Winterbourne tweeted a screenshot of Grok denying a query with the statement,"
-    publishedDateTime: 2023-12-11T20:13:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/12/elon-musks-ai-bot-grok-speaks-as-if-made-by-openai-in-some-tests-causing-a-stir/"
+  - title: "French AI start-up Mistral AI raises 385 mn euros"
+    excerpt: "French artificial intelligence start-up Mistral AI announced Sunday it had raised 385 million euros ($414 million), becoming one of Europe's two AI leaders."
+    publishedDateTime: 2023-12-11T09:02:00Z
+    webUrl: "https://techxplore.com/news/2023-12-french-ai-start-up-mistral-mn.html"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 41
-  - title: "OpenAI Competitor Mistral AI Nabs $487M Round, Hitting $2B Valuation"
-    excerpt: "Paris-based Mistral AI, an OpenAI and Anthropic competitor, is putting the final touches on a massive round of approximately $487 million that would value the company at $2 billion, per a report."
-    publishedDateTime: 2023-12-11T18:13:00Z
-    webUrl: "https://news.crunchbase.com/ai/mistral-openai-anthropic-andreessen/"
-    type: article
-    provider:
-      name: news.crunchbase
-      domain: crunchbase.com
+      name: techxplore
+      domain: techxplore.com
     quality: 37
     images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/Generative_AI_3.jpg"
-        width: 900
-        height: 506
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2016/57ea6ea8bc753.jpg"
+        width: 1500
+        height: 1060
         isCached: true
-  - title: "Unlock the Power of AI: A Step-by-Step Guide to Getting Your OpenAI API Key – Gizchina.com"
-    excerpt: "Welcome to the future of artificial intelligence! OpenAI has revolutionized the AI landscape with its remarkable language models like ChatGPT and GPT-4. To"
-    publishedDateTime: 2023-12-10T22:42:00Z
-    webUrl: "https://www.inferse.com/834010/unlock-the-power-of-ai-a-step-by-step-guide-to-getting-your-openai-api-key-gizchina-com/"
+  - title: "French startup Mistral AI closes $415M funding round"
+    excerpt: "The company’s CEO said the goal is to create a “European champion” of generative AI on a global scale, “based on an open, responsible and decentralized approach to technology.”"
+    publishedDateTime: 2023-12-11T13:08:00Z
+    webUrl: "https://cointelegraph.com/news/french-startup-mistral-ai-closes-415m-funding-round"
     type: article
     provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 29
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/12/wp-header-logo-5862.png"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "OpenAI’s Soap Opera Collapse Bodes Ill for AI Benefiting Humanity"
-    excerpt: "Whatever fantasies we may have had about the nonprofit structure of OpenAI have been eviscerated. While it remains a nonprofit, it’s proven entirely beholden to ruthless capitalism"
-    publishedDateTime: 2023-12-11T13:04:00Z
-    webUrl: "https://www.scientificamerican.com/article/openais-soap-opera-collapse-bodes-ill-for-ai-benefiting-humanity/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
+      name: CoinTelegraph
+      domain: cointelegraph.com
     quality: 17
-  - title: "OpenAI to pay Axel Springer to use content to train AI models"
-    excerpt: "OpenAI, the generative artificial intelligence startup backed by Microsoft (NASDAQ:MSFT), has agreed to pay publishing company Axel Springer to use the media company's content to train its AI models. The content will be used to create answers in ChatGPT ..."
-    publishedDateTime: 2023-12-13T14:21:00Z
-    webUrl: "https://seekingalpha.com/news/4045950-openai-pay-axel-springer-use-content-train-ai-models"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 17
-  - title: "Paris-based Startup and OpenAI Competitor Mistral AI Valued at $2 Billion"
-    excerpt: "In a significant development for the European artificial intelligence sector, Paris-based startup Mistral AI has achieved a noteworthy milestone. The company has successfully secured a substantial investment of €450 million,"
-    publishedDateTime: 2023-12-09T14:18:00Z
-    webUrl: "https://www.unite.ai/paris-based-startup-and-openai-competitor-mistral-ai-valued-at-2-billion/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 16
 
 secured: "6gBbpGx4lSnFOHopgUcgjcii+2piJMUuBajq/juB4yGV93MGcYar8vRL5F9M9X7yTwEF2r4XH/GRoQQFygNrXqdeJlWcMIpTNajrKbQTi+lPOQdjRdeasA7xRNqxCPAh3u+4QZGnut/twFtQWYaXXOKVJuon2zOsu9yiVwk7W509L+WIrBaNfMjYxuWViC6yR8m47ynaKqVxIWi6cqaLm7q4HXASxaV7YQABde1njvI+NbJdG4l/nB0gzaoBPW6pIZrBpDE/8mDE+2Zta/R7SZUZjat/klbNaQg8hbwBvs8RrP5ljI9y4qy5K9ns5GL1j7qqg+U7ooTjC9ypxdQPQAHBvkyEgLr/kJx/I9LF8NDjV6wac/WnjokE9+ixzkR02yOYUJlqd93w+KgQGw17+ZDckrdcxpjGqiOlN/Z8n5Vy3C+IOwc/jaWk311Zy82NLLhB1CIYHC4bA/8zzGrSBNzZ7V44/bi5WSyWZwWBC5HjU92jkVSu9gvnQlixTNp5az6tj2sE9pl1Nd6BP4CbnQ==;59/WIiZHbFJOfNuckDWTRA=="
 ---

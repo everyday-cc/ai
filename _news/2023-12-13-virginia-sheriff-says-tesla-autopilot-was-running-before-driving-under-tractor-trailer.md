@@ -9,7 +9,7 @@ ampWebUrl: "https://www.autoblog.com/amp/2023/12/12/virginia-sheriff-says-tesla-
 cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2023/12/12/virginia-sheriff-says-tesla-autopilot-was-running-before-driving-under-tractor-trailer/"
 type: article
 quality: 66
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -55,6 +55,15 @@ related:
         width: 2000
         height: 1113
         isCached: true
+  - title: "Tesla Autopilot Recall Deals Another Blow to Self-Driving Cars"
+    excerpt: "According to the NHTSA recall report, when Autosteer or any other Level 2 system is engaged, “as the vehicle operator, the driver is responsible for the vehicle’s movement with their hands on the steering wheel at all times, remaining attentive to surrounding road conditions, and intervening … as needed to maintain safe operation.”"
+    publishedDateTime: 2023-12-13T23:22:00Z
+    webUrl: "https://www.autoweek.com/news/a46121819/nhtsa-forces-tesla-autopilot-recall-self-driving-cars/"
+    type: article
+    provider:
+      name: autoweek
+      domain: autoweek.com
+    quality: 19
 
 secured: "9j2Os5RbUZeXyd0qhFI2uxyg2SV0ta/Or/u1WnHHbHpeiH3mw9EhKthJo/0fIQQ/lBOWsgO1kwFWlZX1OSHQ7XoN/AaJp09xs5IKW42xZ5UkxJzvNUt7BJcP9FbDlX0WrhJchmhGA3YwyQDimIvj1s2AJzc9Us97lyX/h3JQbk1lYOlWm7u+NUIwukYB3ByKIpje9nFOi0+o0FArdlEDfHxPL85Jmy3pMYiBCxTaZr7jRjnU9QwZSIpqqhgSYaBjcpN7+v03WEo9d+kfoFU3R+Eu4G+wlou5plQYQ9IrDpA7RkSdgEbkg7L94fPciVyioQupbds36BGPX1a6Rg5t4jNlYujK5jfrYwpKmXl9tTc=;Vzz7EEO+OsM1gNLWtzLBJw=="
 ---

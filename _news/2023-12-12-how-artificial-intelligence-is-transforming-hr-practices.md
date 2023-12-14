@@ -19,171 +19,142 @@ topics:
   - AI
 
 related:
-  - title: "Relevance AI’s low-code platform enables businesses to build AI teams"
-    excerpt: "However, only businesses with large engineering teams can build their own AI workforces. An Australia-based startup, Relevance AI, wants to help companies of all sizes build custom AI agents for any use case or function to maximize productivity with its ..."
-    publishedDateTime: 2023-12-11T22:31:00Z
-    webUrl: "https://techcrunch.com/2023/12/11/relevance-ais-low-code-platform-enables-businesses-to-build-ai-teams/"
-    ampWebUrl: "https://techcrunch.com/2023/12/11/relevance-ais-low-code-platform-enables-businesses-to-build-ai-teams/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/11/relevance-ais-low-code-platform-enables-businesses-to-build-ai-teams/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1188605237.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Hyperplane wants to bring AI to banks"
-    excerpt: "Hyperplane, a San Francisco-based startup that is building foundation models to help banks predict customer behavior, is coming out of stealth today by"
-    publishedDateTime: 2023-12-13T08:01:00Z
-    webUrl: "https://techcrunch.com/2023/12/13/hyperplane-wants-to-bring-ai-to-banks/"
-    ampWebUrl: "https://techcrunch.com/2023/12/13/hyperplane-wants-to-bring-ai-to-banks/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/13/hyperplane-wants-to-bring-ai-to-banks/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/12/GettyImages-1688426751.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Advances In AI, Yet Many Unresolved Issues"
-    excerpt: "In a short year, we have seen countless products, platforms, and services—an entire industry—born, reborn, and shaped constantly by advances that seem to keep coming. GPTs have emerged as platforms to build on and build with,"
-    publishedDateTime: 2023-12-11T02:34:00Z
-    webUrl: "https://www.forbes.com/sites/arunshastri/2023/12/10/advances-in-ai-yet-many-unresolved-issues/"
-    ampWebUrl: "https://www.forbes.com/sites/arunshastri/2023/12/10/advances-in-ai-yet-many-unresolved-issues/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arunshastri/2023/12/10/advances-in-ai-yet-many-unresolved-issues/amp/"
+  - title: "How AI Is Impacting Society And Shaping The Future"
+    excerpt: "As the dawn of artificial intelligence (AI) transforms industries and societies, we've engaged with visionary founders who are leading the charge."
+    publishedDateTime: 2023-12-14T00:46:00Z
+    webUrl: "https://www.forbes.com/sites/kalinabryant/2023/12/13/how-ai-is-impacting-society-and-shaping-the-future/"
+    ampWebUrl: "https://www.forbes.com/sites/kalinabryant/2023/12/13/how-ai-is-impacting-society-and-shaping-the-future/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kalinabryant/2023/12/13/how-ai-is-impacting-society-and-shaping-the-future/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 67
-  - title: "Cohere to help businesses build AI using Slack, Google Drive data"
-    excerpt: "OpenAI-competitor Cohere launched \"connectors,\" which allow companies to connect third-party application data to Cohere’s LLM."
-    publishedDateTime: 2023-12-12T17:00:00Z
-    webUrl: "https://venturebeat.com/ai/cohere-to-help-businesses-build-ai-using-slack-google-drive-data/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
+    quality: 89
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/12/Untitled-design-2023-12-12T105755.661.png?w=1200&strip=all"
-        width: 1200
-        height: 750
-        isCached: true
-  - title: "EU reaches deal on how to regulate artificial intelligence"
-    excerpt: "European Union negotiators have agreed a deal on the world's first comprehensive artificial intelligence rules. The agreement paves the way for legal oversight of technology used in popular ..."
-    publishedDateTime: 2023-12-09T04:22:00Z
-    webUrl: "https://news.sky.com/story/eu-reaches-deal-on-how-to-regulate-artificial-intelligence-13026107"
-    ampWebUrl: "https://news.sky.com/story/amp/eu-reaches-deal-on-how-to-regulate-artificial-intelligence-13026107"
-    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/eu-reaches-deal-on-how-to-regulate-artificial-intelligence-13026107"
-    type: article
-    provider:
-      name: Sky
-      domain: sky.com
-    quality: 59
-    images:
-      - url: "https://e3.365dm.com/23/11/1600x900/skynews-chatgpt-openai_6364467.jpg?20231118091822"
-        width: 1600
+      - url: "https://imageio.forbes.com/specials-images/imageserve/657a5006c207ad19dd8da4dc/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1439
         height: 900
         isCached: true
-  - title: "How AI Can Revolutionize Your Business"
-    excerpt: "Throughout history, there have been key inventions that have revolutionized everyday life, such as the automobile and electricity. We are currently living amid another such revolution: the rise of AI."
-    publishedDateTime: 2023-12-11T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/11/how-ai-can-revolutionize-your-business/"
+  - title: "Inside OpenAI’s Crisis Over the Future of Artificial Intelligence"
+    excerpt: "Split over the leadership of Sam Altman, board members and executives turned on one another. Their brawl exposed the cracks at the heart of the A.I. movement."
+    publishedDateTime: 2023-12-09T12:51:00Z
+    webUrl: "https://www.nytimes.com/2023/12/09/technology/openai-altman-inside-crisis.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 86
+    images:
+      - url: "https://static01.nyt.com/images/2023/12/08/business/08ai-openai-02/08ai-openai-02-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Three Trends Shaping The Future Of Cloud Migration"
+    excerpt: "Chetan Mathur is CEO of Next Pathway, the Automated Cloud Migration company."
+    publishedDateTime: 2023-12-12T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/three-trends-shaping-the-future-of-cloud-migration/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/three-trends-shaping-the-future-of-cloud-migration/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/12/three-trends-shaping-the-future-of-cloud-migration/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 47
-  - title: "Apple quietly releases MLX AI framework to build foundation AI models"
-    excerpt: "Apple's machine learning research team has quietly introduced and released a new machine learning framework called MLX, designed to optimize the"
-    publishedDateTime: 2023-12-11T11:41:00Z
-    webUrl: "https://www.geeky-gadgets.com/apple-mlx-ai-framework/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 41
+    quality: 74
     images:
-      - url: "https://www.geeky-gadgets.com/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FFplJsVd2dTk%2F0.jpg"
-        width: 480
-        height: 360
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6553ad0f467501899dcb06a5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1351
+        height: 900
         isCached: true
-  - title: "Governing AI for business benefit"
-    excerpt: "Last month, a group of professionals and industry experts came together to launch an AI Governance website in response to a survey that indicated governance is a key focus although half of businesses are already using some form of AI."
-    publishedDateTime: 2023-12-11T00:30:00Z
-    webUrl: "https://www.reseller.co.nz/brand-post/content/709735/governing-ai-for-business-benefit/"
+  - title: "Google’s AI Isn’t a Gimmick, It’s the Future | AI Unlocked"
+    excerpt: "Gizmodo chats with Google Bard’s product leader about what Google’s AI is currently capable of producing through text responses."
+    publishedDateTime: 2023-12-13T17:26:00Z
+    webUrl: "https://gizmodo.com/google-bard-ai-text-chatbots-jack-krawczyk-1851096226"
     type: article
     provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 39
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 69
     images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/ai-byline3.jpg"
-        width: 472
+      - url: "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/a198d33db5ba133829eb15eda8174b0e.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "How Machine Learning is Reshaping Industries"
+    excerpt: "In the era of digital transformation, machine learning (ML) has emerged as the driving force behind a revolutionary shift in industries worldwide. From healthcare to finance, manufacturing to marketing,"
+    publishedDateTime: 2023-12-12T14:50:00Z
+    webUrl: "https://www.timesnownews.com/education/how-machine-learning-is-reshaping-industries-article-105939900"
+    ampWebUrl: "https://www.timesnownews.com/education/how-machine-learning-is-reshaping-industries-article-105939900/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/education/how-machine-learning-is-reshaping-industries-article-105939900/amp"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 61
+    images:
+      - url: "https://static.tnn.in/thumb/msid-105939904,thumbsize-372248,width-1280,height-720,resizemode-75/105939904.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Windows 12 and the coming AI chip war"
+    excerpt: "A Windows release planned for next year may be the catalyst for a new wave of desktop chips with AI processing capabilities."
+    publishedDateTime: 2023-12-11T06:19:00Z
+    webUrl: "https://www.arnnet.com.au/article/709727/windows-12-coming-ai-chip-war/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 54
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/shutterstock_571888840-100941708-orig.jpg"
+        width: 504
         height: 315
         isCached: true
-  - title: "VERSES AI hires Peter Provost to help launch developer platform"
-    excerpt: "Former Microsoft Product Leader Peter Provost is to help launch the VERSES AI Developer Platform – bringing over 40 years of coding experience to the project. As VP of Product, Developer Platforms, Provost will lead the strategic development and enhancement of Genius - VERSES’ Intelligence-as-a-Service platform,"
-    publishedDateTime: 2023-12-11T08:20:00Z
-    webUrl: "https://www.intelligentcio.com/north-america/2023/12/11/verses-ai-hires-peter-provost-to-help-launch-developer-platform/"
+  - title: "Preparing for the future: Exploring what artificial intelligence in 2025 will look like"
+    excerpt: "Are you ready to step into the future? Brace yourself for mind-blowing innovations and revolutionary transformations as we dive deep into what artificial intelligence in 2025 will look like. Get set to be mesmerized by self-driving cars,"
+    publishedDateTime: 2023-12-13T16:08:00Z
+    webUrl: "https://techbullion.com/preparing-for-the-future-exploring-what-artificial-intelligence-in-2025-will-look-like/"
     type: article
     provider:
-      name: intelligentcio
-      domain: intelligentcio.com
-    quality: 39
+      name: Impacts
+      domain: techbullion.com
+    quality: 37
     images:
-      - url: "https://www.intelligentcio.com/north-america/wp-content/uploads/sites/45/2023/12/AdobeStock_288304009-1.jpg"
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/Artificial-Intelligence-3.jpg"
         width: 1000
-        height: 450
+        height: 500
         isCached: true
-  - title: "Durable cements $14M to build AI-powered tools for small businesses in service industries"
-    excerpt: "Builders, bakers and body conditioners might not be the first trades that come to mind when you think about how AI is transforming how we work. But today a startup that’s building AI-powered business tools specifically for them — and the thousands of ..."
-    publishedDateTime: 2023-12-12T13:45:00Z
-    webUrl: "https://techcrunch.com/2023/12/12/durable-cements-14m-to-build-ai-powered-tools-for-small-businesses-in-service-industries/"
+  - title: "The Rise of Artificial Intelligence: Transforming Industries and Reshaping Our Future"
+    excerpt: "In the annals of technological evolution, few advancements have sparked as much excitement, speculation, and transformative potential as Artificial Intelligence (AI). The rise of AI has become a defining narrative in the contemporary tech landscape,"
+    publishedDateTime: 2023-12-11T22:12:00Z
+    webUrl: "https://techbullion.com/the-rise-of-artificial-intelligence-transforming-industries-and-reshaping-our-future/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 38
-  - title: "Leverage These AI Techniques to Stay Ahead in 2024"
-    excerpt: "The benefits of AI, and the ease of its access, are clear. \"You no longer need to be a data scientist, an engineer, or even a programmer. It is 1997 again; but instead of the Internet, the technology that is changing industry is AI,\" said AI entrepreneur Michael Puscar."
-    publishedDateTime: 2023-12-11T07:48:00Z
-    webUrl: "https://www.inc.com/katie-konyn/leverage-these-ai-techniques-to-stay-ahead-in-2024.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
+      name: Impacts
+      domain: techbullion.com
+    quality: 34
     images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1700140485_535546_egjvz1.jpg"
-        width: 1024
-        height: 576
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/Artificial-Intelligence-1-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
-  - title: "Citrusx emerges from stealth to make AI explainable, streamline compliance for enterprises"
-    excerpt: "Citrusx claims its technology ensures 100% transparency and can lead to 82% faster time to production, enabling teams to seize the AI opportunity."
-    publishedDateTime: 2023-12-11T19:27:00Z
-    webUrl: "https://venturebeat.com/ai/citrusx-emerges-from-stealth-to-make-ai-explainable-streamline-compliance-for-enterprises/"
+  - title: "How Visual AI Is Transforming the Conventional School Safety Model"
+    excerpt: "Join this free webinar to learn how visual AI can be used to create a proactive and adaptive approach to physical security and emergency response for schools and campuses."
+    publishedDateTime: 2023-12-13T14:15:00Z
+    webUrl: "https://www.campussafetymagazine.com/webcast/how-visual-ai-is-transforming-the-conventional-school-safety-model/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 37
-  - title: "Dell Upgrades Storage Offerings As Businesses Shift To AI-First Operating Model"
-    excerpt: "As more businesses see the competitive need to shift data into AI-led processes, Dell’s AI-Ready Data Platform combines its infrastructure and performance upgrades to speed up how quickly customers can train large language models."
-    publishedDateTime: 2023-12-11T21:05:00Z
-    webUrl: "https://www.crn.com/news/software/dell-ai-storage"
+      name: Campus Safety Magazine
+      domain: campussafetymagazine.com
+    quality: 19
+  - title: "Charting the Emerging Geography of AI"
+    excerpt: "As the AI power centers emerge and shift around the world, they will shape which AI applications are prioritized, which societies and sectors of the economy get the most benefits, what data are used to train algorithms,"
+    publishedDateTime: 2023-12-12T13:24:00Z
+    webUrl: "https://hbr.org/2023/12/charting-the-emerging-geography-of-ai"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 15
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 17
 
 secured: "zY1M6k5BlUK+Q5RvB/fwv5W9iHXJyFeM0f2jrFplcHfLgVOqWSO6XHW2Qe50cJAxwA4XUWFHjhR5GYV36JhFLPUEEeCWxQfgjuMIFJMohupa/SjzCVPuvueicO8nVZif8suhylYEKsUYwuGOsr7cFJ5j1yuQvPI+oY47hImp2JRSwJ65LGSPJ24AGaIM6kc3ZK2xETlM8S09wwavgTt2EsT1PwPJ2kKDdjEEsBx6Dv6DYNkPGx78FUc/ZwwO7SHofA7ZnYd97yURnANKjuSsMA0867zoA45DBgvXAo1IS1Jr9CdREkBAaqZVB8v3OBxAJpjahCYXb/JAqu8dNyu68udY4IASLibud90vrIxo/2A=;5aPxjW3Hu5wjIYo1A01baA=="
 ---

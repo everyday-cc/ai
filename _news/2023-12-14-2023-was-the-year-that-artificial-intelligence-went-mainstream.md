@@ -54,20 +54,6 @@ related:
         width: 1200
         height: 966
         isCached: true
-  - title: "Windows 12 and the coming AI chip war"
-    excerpt: "A Windows release planned for next year may be the catalyst for a new wave of desktop chips with AI processing capabilities."
-    publishedDateTime: 2023-12-11T06:19:00Z
-    webUrl: "https://www.arnnet.com.au/article/709727/windows-12-coming-ai-chip-war/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 54
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/shutterstock_571888840-100941708-orig.jpg"
-        width: 504
-        height: 315
-        isCached: true
   - title: "Top 7 Noteworthy AI Innovations in Fashion in 2023"
     excerpt: "Now, let’s explore some of the key developments in the application of AI in the fashion industry this year."
     publishedDateTime: 2023-12-11T06:34:00Z

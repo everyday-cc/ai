@@ -18,38 +18,142 @@ topics:
   - AI
 
 related:
-  - title: "CIOs grapple with the ethics of implementing AI"
-    excerpt: "With ethical considerations around AI use increasingly top of mind, IT leaders are developing governance frameworks, establishing review boards, and coming to terms with the difficult discussions and decisions ahead."
-    publishedDateTime: 2023-12-11T10:01:00Z
-    webUrl: "https://www.cio.com/article/1251976/cios-grapple-with-the-ethics-of-implementing-ai.html"
-    ampWebUrl: "https://www.cio.com/article/1251976/cios-grapple-with-the-ethics-of-implementing-ai.html/amp/"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/1251976/cios-grapple-with-the-ethics-of-implementing-ai.html/amp/"
+  - title: "How AI Is Impacting Society And Shaping The Future"
+    excerpt: "As the dawn of artificial intelligence (AI) transforms industries and societies, we've engaged with visionary founders who are leading the charge."
+    publishedDateTime: 2023-12-14T00:46:00Z
+    webUrl: "https://www.forbes.com/sites/kalinabryant/2023/12/13/how-ai-is-impacting-society-and-shaping-the-future/"
+    ampWebUrl: "https://www.forbes.com/sites/kalinabryant/2023/12/13/how-ai-is-impacting-society-and-shaping-the-future/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kalinabryant/2023/12/13/how-ai-is-impacting-society-and-shaping-the-future/amp/"
     type: article
     provider:
-      name: CIO
-      domain: cio.com
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/657a5006c207ad19dd8da4dc/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1439
+        height: 900
+        isCached: true
+  - title: "Inside OpenAI’s Crisis Over the Future of Artificial Intelligence"
+    excerpt: "Split over the leadership of Sam Altman, board members and executives turned on one another. Their brawl exposed the cracks at the heart of the A.I. movement."
+    publishedDateTime: 2023-12-09T12:51:00Z
+    webUrl: "https://www.nytimes.com/2023/12/09/technology/openai-altman-inside-crisis.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 86
+    images:
+      - url: "https://static01.nyt.com/images/2023/12/08/business/08ai-openai-02/08ai-openai-02-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Three Trends Shaping The Future Of Cloud Migration"
+    excerpt: "Chetan Mathur is CEO of Next Pathway, the Automated Cloud Migration company."
+    publishedDateTime: 2023-12-12T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/three-trends-shaping-the-future-of-cloud-migration/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/three-trends-shaping-the-future-of-cloud-migration/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/12/three-trends-shaping-the-future-of-cloud-migration/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
     quality: 74
     images:
-      - url: "https://www.cio.com/wp-content/uploads/2023/12/shutterstock_540952438.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 683
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6553ad0f467501899dcb06a5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1351
+        height: 900
         isCached: true
-  - title: "Mapping the micro and macro of biology with spatial omics and AI"
-    excerpt: "Over the last 20 years, the omics revolution has enabled us to understand cell and tissue biology at ever increasing resolutions. Bulk sequencing techniques that emerged in the mid 2000s allowed the study of mixed populations of cells."
-    publishedDateTime: 2023-12-12T15:30:00Z
-    webUrl: "https://www.technologyreview.com/2023/12/12/1084492/mapping-the-micro-and-macro-of-biology-with-spatial-omics-and-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2023/12/12/1084492/mapping-the-micro-and-macro-of-biology-with-spatial-omics-and-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/12/1084492/mapping-the-micro-and-macro-of-biology-with-spatial-omics-and-ai/amp/"
+  - title: "Google’s AI Isn’t a Gimmick, It’s the Future | AI Unlocked"
+    excerpt: "Gizmodo chats with Google Bard’s product leader about what Google’s AI is currently capable of producing through text responses."
+    publishedDateTime: 2023-12-13T17:26:00Z
+    webUrl: "https://gizmodo.com/google-bard-ai-text-chatbots-jack-krawczyk-1851096226"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 69
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/12/Owkin_contribarticle_1200.jpg"
+      - url: "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/a198d33db5ba133829eb15eda8174b0e.jpg"
         width: 1200
-        height: 864
+        height: 675
         isCached: true
+  - title: "How Machine Learning is Reshaping Industries"
+    excerpt: "In the era of digital transformation, machine learning (ML) has emerged as the driving force behind a revolutionary shift in industries worldwide. From healthcare to finance, manufacturing to marketing,"
+    publishedDateTime: 2023-12-12T14:50:00Z
+    webUrl: "https://www.timesnownews.com/education/how-machine-learning-is-reshaping-industries-article-105939900"
+    ampWebUrl: "https://www.timesnownews.com/education/how-machine-learning-is-reshaping-industries-article-105939900/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/education/how-machine-learning-is-reshaping-industries-article-105939900/amp"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 61
+    images:
+      - url: "https://static.tnn.in/thumb/msid-105939904,thumbsize-372248,width-1280,height-720,resizemode-75/105939904.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Windows 12 and the coming AI chip war"
+    excerpt: "A Windows release planned for next year may be the catalyst for a new wave of desktop chips with AI processing capabilities."
+    publishedDateTime: 2023-12-11T06:19:00Z
+    webUrl: "https://www.arnnet.com.au/article/709727/windows-12-coming-ai-chip-war/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 54
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/shutterstock_571888840-100941708-orig.jpg"
+        width: 504
+        height: 315
+        isCached: true
+  - title: "Preparing for the future: Exploring what artificial intelligence in 2025 will look like"
+    excerpt: "Are you ready to step into the future? Brace yourself for mind-blowing innovations and revolutionary transformations as we dive deep into what artificial intelligence in 2025 will look like. Get set to be mesmerized by self-driving cars,"
+    publishedDateTime: 2023-12-13T16:08:00Z
+    webUrl: "https://techbullion.com/preparing-for-the-future-exploring-what-artificial-intelligence-in-2025-will-look-like/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 37
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/Artificial-Intelligence-3.jpg"
+        width: 1000
+        height: 500
+        isCached: true
+  - title: "The Rise of Artificial Intelligence: Transforming Industries and Reshaping Our Future"
+    excerpt: "In the annals of technological evolution, few advancements have sparked as much excitement, speculation, and transformative potential as Artificial Intelligence (AI). The rise of AI has become a defining narrative in the contemporary tech landscape,"
+    publishedDateTime: 2023-12-11T22:12:00Z
+    webUrl: "https://techbullion.com/the-rise-of-artificial-intelligence-transforming-industries-and-reshaping-our-future/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 34
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/Artificial-Intelligence-1-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "How Artificial Intelligence Is Transforming HR Practices"
+    excerpt: "Artificial intelligence (AI) has taken various industries by storm, with human resource management (HRM) being no exception. With a variety of AI tools, businesses in several industries are reaping the rewards of innovative technology to optimize their HR operations."
+    publishedDateTime: 2023-12-12T02:03:00Z
+    webUrl: "https://thebobs.com/how-artificial-intelligence-is-transforming-hr-practices/"
+    type: article
+    provider:
+      name: The BOBs
+      domain: thebobs.com
+    quality: 19
+  - title: "How Visual AI Is Transforming the Conventional School Safety Model"
+    excerpt: "Join this free webinar to learn how visual AI can be used to create a proactive and adaptive approach to physical security and emergency response for schools and campuses."
+    publishedDateTime: 2023-12-13T14:15:00Z
+    webUrl: "https://www.campussafetymagazine.com/webcast/how-visual-ai-is-transforming-the-conventional-school-safety-model/"
+    type: article
+    provider:
+      name: Campus Safety Magazine
+      domain: campussafetymagazine.com
+    quality: 19
 
 secured: "8wu2KB6kxRfOk8CvdoNDLVjsIdop8GC3td1RAMk38etDl1hDR0hMKUFfkQ6Rt9xtvI43ueHfxxqyzcg51wXSUfLlHxuUugR3WD3VKuiHGh+rih2GIOOOu2uUCuyHkzsS3WZhxWs6Xu0I12rMuC5WCoJz3zCCU+/oasBk5cOpyq+Bfcsy4Vi3uuQk09zHps110OuUTTtYtsg8IZrvXtUh8jjsSpAVq5lEQ47N18oOyy4prxgYeWHK/XSKYRfGFWvDNTJePwsvSbps4s6T87NSw66xChso1cV9yZS/249AQl1s8Q7HezdFV4woYYn8GRyv+s9+6NiOybVi8TFz///s4FU92ucXkkHgXF4It53yc7EyF1NnR5V6HWmD/9xVobNFyrC52D73VvfvLybiEbX/peSCfcFuThkZue1rV3lLBIn238/SKZvmABDIk4VJpX094vPitebM+R9qdNYaS0I1Nk2ens6FqH5zRvyi2Hi7UXASGuG3VAjCPekhZlZOupVWRTex8uh8yLtDE/jBPTL0IQ==;iQv43Y9SxOYuvdE2y3PTRw=="
 ---

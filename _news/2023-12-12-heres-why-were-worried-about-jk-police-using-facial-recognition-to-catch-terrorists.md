@@ -30,6 +30,20 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 37
+  - title: "McEntee receives Cabinet approval for draft legislation for facial recognition technology"
+    excerpt: "The legislation will allow An Garda Síochána to use biometric identification to retrospectively search CCTV in some circumstances."
+    publishedDateTime: 2023-12-14T00:10:00Z
+    webUrl: "https://www.thejournal.ie/cabinet-approves-draft-legislation-facial-recognition-technology-6248686-Dec2023/"
+    type: article
+    provider:
+      name: TheJournal.ie
+      domain: thejournal.ie
+    quality: 30
+    images:
+      - url: "https://img2.thejournal.ie/article/6248686/river/?height=400&version=6248713"
+        width: 613
+        height: 400
+        isCached: true
   - title: "Smart cameras’ built-in capacity makes for facial recognition fit"
     excerpt: "Aside from facial recognition, smart cameras are also used for object detection, motion detection, audio detection, remote monitoring, analytics and insights."
     publishedDateTime: 2023-12-12T19:34:00Z

@@ -30,6 +30,20 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 37
+  - title: "McEntee receives Cabinet approval for draft legislation for facial recognition technology"
+    excerpt: "The legislation will allow An Garda Síochána to use biometric identification to retrospectively search CCTV in some circumstances."
+    publishedDateTime: 2023-12-14T00:10:00Z
+    webUrl: "https://www.thejournal.ie/cabinet-approves-draft-legislation-facial-recognition-technology-6248686-Dec2023/"
+    type: article
+    provider:
+      name: TheJournal.ie
+      domain: thejournal.ie
+    quality: 30
+    images:
+      - url: "https://img2.thejournal.ie/article/6248686/river/?height=400&version=6248713"
+        width: 613
+        height: 400
+        isCached: true
   - title: "Here’s Why We’re Worried about J&K police using facial recognition to catch terrorists"
     excerpt: "The “AI Based Facial Recognition Camera & E-Beat book Mobile App” will be used for digitisation of records, improve record-building etc."
     publishedDateTime: 2023-12-12T11:01:00Z

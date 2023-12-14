@@ -7,7 +7,7 @@ originalUrl: "https://www.qsrmagazine.com/operations/technology/hi-auto-launches
 webUrl: "https://www.qsrmagazine.com/operations/technology/hi-auto-launches-ai-voice-cloning-feature/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,29 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "How to clone your voice using AI and why you would want to"
-    excerpt: "Descript’s speech recognition algorithms and video editing tools one such solution, enabling users to make text edits that are then applied to the original audio or video file extremely easily saving you time and money. As well as being able to provide ..."
-    publishedDateTime: 2023-12-09T00:00:00Z
-    webUrl: "https://www.geeky-gadgets.com/cloning-voices-using-ai/"
+  - title: "Hi Auto Debuts New AI Voice Cloning Feature at Lee's Famous Recipe Chicken"
+    excerpt: "Hi Auto today announced the launch of its AI voice-cloning feature, which delivers the most personalized voice AI-enabled drive-thru experience. Hi Auto's voice cloning solution enables Quick Service Restaurants (QSRs) to incorporate fully customized voice options into their drive-thru voice AI ordering technology."
+    publishedDateTime: 2023-12-12T14:23:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/12/12/9932187.htm"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/How-to-clone-your-voice-using-AI.jpg"
-        width: 1280
-        height: 845
-        isCached: true
-  - title: "5 Things to Consider When Bringing Speech AI Into Your Business"
-    excerpt: "Imagine a world where mundane tasks, consuming 60-70% of our work hours, vanish into thin air. According to a McKinsey report, thanks to its evolving grasp of natural language, Generative AI has the potential to make this dream a reality quite soon."
-    publishedDateTime: 2023-12-11T19:03:00Z
-    webUrl: "https://www.unite.ai/5-things-to-consider-when-bringing-speech-ai-into-your-business/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 19
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
 
 secured: "BDkGcukSVg1ZcQW3dbuHtHvIqImGmhQWSe7WUlAV4+65lGgN/st6IHpwnsgBCQs2Ibav5cHRkjCYCAT2KAxlTJCy+TFtNubJ+6LEDQO5arYjVgTaPq0pilczLhW9MjRwk7yz+VYN6luLJAzyAjF1BIy3bTe/+4Q+cnTyZuRs7pteRzt388oTX/V12StBFx1fgmL8XPf57JGKvM/U1NOnGkW+toCWpIae3NAFFsSh5hdLixITDxpBMu8cAvTZ4FTaLDlPGHvK04kzAlqdgmZZLR8wnRC+aGdmv3vqkZWWjp1Ysa3izw6rqUJREzVtDYRUfmty+HvythjbhQZr/7BbM75vmt7jWNXLhA6Ift2iJsw=;dKiPqugdBFWoPeNSosMZzw=="
 ---

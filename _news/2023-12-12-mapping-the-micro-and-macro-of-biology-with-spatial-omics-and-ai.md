@@ -42,15 +42,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Charting the Emerging Geography of AI"
-    excerpt: "As the AI power centers emerge and shift around the world, they will shape which AI applications are prioritized, which societies and sectors of the economy get the most benefits, what data are used to train algorithms,"
-    publishedDateTime: 2023-12-12T13:24:00Z
-    webUrl: "https://hbr.org/2023/12/charting-the-emerging-geography-of-ai"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 17
 
 secured: "xxQmxdOZh6nzKqnWYQLrY2EUZx9Mpd829QAzQMK69rXHJ8s5oWzJroEka3TkVE8gWYNDSSQZm028hSebxct1eSk2XhDlK59MbnzPIiz7V3eD0gEUOTiJhvXt2XdQ9c35XkELLlQc+UJ/y7ak5/0rOZbiZDRlBfVYmM+AF4YIO3e2LID+G0lQQdRediMf0OjgdPhZFX32xiXqs+mhtUI4oD6CuRXWVsLA3D188I/tlHIDcf6s2mvSPbRBlqvVxjZztQ1c9Krcbr25OhIfuhmnEplyN8ugCeMXplg+1l4EmIehDud6bRy8vFRpwfD2NLPE89VzEGfHjSn26q8/84bHRY/Nm9jVEpJ5nTW8dC8ppOZTFRcOnP+iuGplCvg3BWAAK6H5Lx/baoqwjnpV3ERrbYYk+/mKnra+ob5p+YwSma1Q+G4spmNdrGJVc+qj7V8ASNWLQ8xKGPfMCfSx12kMxQV0dwShvRnT37r2wl6Zb1/Urfot0pwWAxZrdyMgYrpk7+exXblqZvNKfPHFQWyJYA==;kHgpyijMxp+H0rUpFyMXZQ=="
 ---

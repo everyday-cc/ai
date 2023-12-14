@@ -62,6 +62,20 @@ related:
         width: 1536
         height: 930
         isCached: true
+  - title: "Tesla recalls 2 million vehicles over self-driving safety concerns"
+    excerpt: "The probes came in response to Teslas with Autopilot crashing into first-responder vehicles as well as random sudden braking – known as ‘phantom braking’ – from considerable speed on highways."
+    publishedDateTime: 2023-12-13T23:51:00Z
+    webUrl: "https://www.whichcar.com.au/news/tesla-recalls-2-million-vehicles-over-self-driving-safety-concerns"
+    type: article
+    provider:
+      name: whichcar
+      domain: whichcar.com.au
+    quality: 39
+    images:
+      - url: "https://cdn.whichcar.com.au/assets/p_social/c4870a66/tesla-autopilot.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "6X3OKBm5IPtrU8rSFGGSkI1kMlBdekAGvd9m7ilfkQdVEzZ6P5wKHwvLp/5LgQerWCibdXc8ZVaJUvzzpdWWIzp8vYdcNhCKuzH1BZRJNHH9IpUCNYTIQtr/+zoKaBSmbb1GxuBo/c4rzhDajGYOq6dTPetkUgtVakWk/tfZLJSKmPBaUrA6D6we4gmxdeEZgkcXvZHi8VrKPpsl+WR46bAXsveeg2VUUWJPYRq1TaQvspTXptUN0VKCtLLzEF1w9vB4ei2vIQN6qfri34RgPVA8MZ6WH9Acf1h6ZzDUhT0nY/FBWSGRhFKLw4fqU+1nY6sECyz6rcOPNBEPAMwAkyv65vbWyf3OX6q1d6CB46w=;+T/zhTAdA451JjgHWA873Q=="
 ---

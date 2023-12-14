@@ -19,34 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "How to clone your voice using AI and why you would want to"
-    excerpt: "Descript’s speech recognition algorithms and video editing tools one such solution, enabling users to make text edits that are then applied to the original audio or video file extremely easily saving you time and money. As well as being able to provide ..."
-    publishedDateTime: 2023-12-09T00:00:00Z
-    webUrl: "https://www.geeky-gadgets.com/cloning-voices-using-ai/"
+  - title: "Smart Savings: How AI Can Drive Cost Reduction in Financial Services"
+    excerpt: "Traditionally, firms used expensive third-party solutions to pinpoint where they can make savings. But the rise of AI and machine learning (ML) is now transforming this process – offering cost-effective ways to improve financial operations while enhancing  the quality of services offered."
+    publishedDateTime: 2023-12-11T15:58:00Z
+    webUrl: "https://www.finextra.com/blogposting/25363/smart-savings-how-ai-can-drive-cost-reduction-in-financial-services"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/How-to-clone-your-voice-using-AI.jpg"
-        width: 1280
-        height: 845
-        isCached: true
-  - title: "Hi Auto Launches AI Voice-Cloning Feature"
-    excerpt: "“Lee’s has been blessed to partner with Hi Auto since December of 2020, utilizing their AI voice recognition technology to help our employees and restaurants through the pandemic. We look forward to implementing their latest innovation to make our ..."
-    publishedDateTime: 2023-12-12T00:00:00Z
-    webUrl: "https://www.qsrmagazine.com/operations/technology/hi-auto-launches-ai-voice-cloning-feature/"
-    type: article
-    provider:
-      name: QSR magazine
-      domain: qsrmagazine.com
-    quality: 39
-    images:
-      - url: "https://www.qsrmagazine.com/wp-content/uploads/2023/09/QSR_VAIO-300x205.jpg"
-        width: 300
-        height: 205
-        isCached: true
+      name: Finextra
+      domain: finextra.com
+    quality: 19
 
 secured: "nSc61y6bIFXSnRG7vZiCLT/cj3nC8aM0mwplABmTdxGLK35uqaQI1FjqlIBIa6iEmZU5gHpIVtOvO7yOIVg1pyetTCGb3Rb2i4EGK8jRsx8ZPVVrgYmSBpqyxK0TuJzeopR7fL4sbTyvsE5dePQdCc9pbWSiu9N1muxX87XX4/P3CSEZQOOvxqhgF3z1PqdbGfHu6ssglNqG6vChwAjkU9Vq3y0/lviMdKCACDb2mLxkuuWiUFywaiHHSndni6q7umWP7fccPnLX1BKcwhwZT0IYegmUzf/kTjleZ6LybGekFtCbTXvVL90txhlmhFtHtV44JgfxAtUIoZPvz31qysETYVjvYsghbraVViMHjcBQaY2b7+lo/3vpN+Z9mq8oYNz5Gu18iNiXI8Oyh2T5i9uKyOtebqvYbRbI02AL3wtKVQSZTu8XbTX7b2MZ7i/LfUyQBTNANuII9of3r9bO5PLbl3oIcuDIQxLouxAExzYeCdhXX0F1TuHtbDGxEkUUj8YW7I3wFF8a7jkJxc9N8g==;vRhFHN+LlCd+4FcpXSWlkQ=="
 ---

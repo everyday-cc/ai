@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Windows 12 and the coming AI chip war"
-    excerpt: "A Windows release planned for next year may be the catalyst for a new wave of desktop chips with AI processing capabilities."
-    publishedDateTime: 2023-12-11T06:19:00Z
-    webUrl: "https://www.arnnet.com.au/article/709727/windows-12-coming-ai-chip-war/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 54
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/shutterstock_571888840-100941708-orig.jpg"
-        width: 504
-        height: 315
-        isCached: true
   - title: "2023 was the year that artificial intelligence went mainstream"
     excerpt: "From ChatGPT to Gemini, this year was dominated by large language models and other AIs becoming everyday tools used by millions of people"
     publishedDateTime: 2023-12-13T18:00:00Z
@@ -97,6 +83,6 @@ related:
         height: 900
         isCached: true
 
-secured: "Y+XynZDFrTuTbL1uASZDDpxvZIAf8w2OrlCkUo9nIoPKpLT5QZDYow6cP/cuBluA0+E6QM5FMN82Iwa7ftJKY3P/+0cP/nHMOnquGCgGddo/PUhWeHRKRE/PFDDdnVpS1mT01F30t0v3M0PbX/24QWwUnqcj8bMUWuPdfF8KyreDDbFMvpZtZFOdPr0P/XkX3T5cg/rz9GosPzdOZ1T1Qh6O3kv5v+Xl2qOHlVupTNP13V01jWiR974PL3Q4r5mtv6nNl3cWPTZWdmVZlpwMdA38zNzBlrkEtkgr+dC2/yETb9jcNKUniMeQ/FqcSo0sqlR68EWUFiiM9LmY4j+vqsx29UvgdazgVLKnBJmI5Ww=;e5UfTjJ0nbqSSytm2AbTKA=="
+secured: "BB+pYx3SqBcXvn6xETrZK5AxjZhqhKygnXYKtx0WNMG5qKFrO5Lwf4d/qPUzpwXEEXnQ/vPHX/xG49UbF3EtQhBA1AqjEHlfqLOgCVEE05EIDv4WA7doJ2BfNrUf3aYujkOEdAVVPImf9a/ox6TU6Ao86JD0yXGwCIpefrOmh0GkkCTCp8q9+zOr1D4CBIRNo2+nd5F7bVpiWc62EflRVScd42CDtGNs4Us+QrQFSywuAgAD0W2iEYh4s64PDzVp/NAaYXOQRPvsdrNgD/UYBlmlEfeYi4aF+qYPAGD+H8hxqUnx1zIVHdC6zdguBPUBlw5p+8Css8Sm1KSwVKgVs1VlkZ4rqxLaPpCikfbUiHu3j7MoDM5sfq82rNoFcX7Zvps6YUDcR4p/wXBAO3Cs6UbL9tmx0OpJGtWFoH1mTP4Lxhdp5ke+aJ0Hn7svcRNpOiAi3EDOoYh6Hx65T6uEmK14CsYULXJOoxRKLKCZFoUm1X5+4gBsHNGmMUjJdM0rPyYijqIe7Mj32XWc26ANuQ==;r1BZ+9Xc68NqkV+sSNm51w=="
 ---
 

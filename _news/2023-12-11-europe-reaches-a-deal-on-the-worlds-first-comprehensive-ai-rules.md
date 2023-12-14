@@ -35,15 +35,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "E.U. Agrees on Landmark Artificial Intelligence Rules"
-    excerpt: "The agreement over the A.I. Act solidifies one of the world’s first comprehensive attempts to limit the use of artificial intelligence."
-    publishedDateTime: 2023-12-08T23:21:00Z
-    webUrl: "https://www.nytimes.com/2023/12/08/technology/eu-ai-act-regulation.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 49
   - title: "E.U. Reaches Deal on World’s First Comprehensive AI Rules"
     excerpt: "European Union negotiators have clinched a deal on the world's first comprehensive artificial intelligence rules"
     publishedDateTime: 2023-12-11T11:14:00Z
@@ -67,15 +58,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "GPAI Meet Adopts New Delhi AI Declaration"
-    excerpt: "(MENAFN- Live Mint) \"The Global Partnership on Artificial Intelligence (GPAI) Summit, a congregation of 29 member nations including the European Union, on Wednesday announced the adoption of the New Delhi Declaration,"
-    publishedDateTime: 2023-12-13T20:50:00Z
-    webUrl: "https://menafn.com/1107589903/GPAI-Meet-Adopts-New-Delhi-AI-Declaration"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 19
 
 secured: "LPQt0f+w+T7hWZIelxdTF65P3DYrITlSFO+oL/KY9zIOdkxtmtS2KW0T35dn7jh4+aVB02gwRqe6GbgS6aS3mmz861c4FIN8UMNcjrnBoX/pgdbWagi5EGYR9CQqhgxuAUuGtNmYlhwRWYBHZ9b1FybaMSlLNWchUOTsTzB2kUcXZJ/ZtSD7DDanhMtMVxHB5U3jYJHL8R34MHAEHps6Rjv5s6irECgJC9ETdaf24Kb48XL0byp8lTNR+t9HmI1BRhOHlCADcFRRcEZ/U5fuJZ2SKA+mkHoyajFsaI5PKyuXhalkjKfcazTt3rr4lfWMZM8nf+DfcTL38crb+YaZYmcfmNPFUlXDzE44jcr9D8s=;41dWGacBs1CmuPNo3MlH6g=="
 ---

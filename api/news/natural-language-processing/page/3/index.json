@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-11-14-apple-iphone-16-to-get-ai-powered-features-like-real-time-language-translation-document-summarisation-with-ios-18.md",
+      "title": "Apple iPhone 16 to get AI-powered features like real-time language translation, document summarisation with iOS 18",
+      "excerpt": "While details are still under wraps, experts believe Apple is stepping up its game against competitors like Google and Samsung.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/magazines/panache/apple-iphone-16-to-get-ai-powered-features-like-real-time-language-translation-document-summarisation-with-ios-18/articleshow/105211581.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/magazines/panache/apple-iphone-16-to-get-ai-powered-features-like-real-time-language-translation-document-summarisation-with-ios-18/articleshow/105211581.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T12:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-14-pioneering-ai-innovation-from-rws-offers-near-human-quality-translation.md",
       "title": "Pioneering AI innovation from RWS Offers Near Human-Quality Translation",
       "excerpt": "As a linguistic AI platform, Language Weaver provides highly accurate, real-time translation across more than 3,500 language combinations. About RWS RWS Holdings plc is a unique, world-leading ...",
@@ -1202,49 +1236,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-06-whatsapps-ai-sticker-generator-called-out-for-racism-against-palestine-meta-responds.md",
-      "title": "WhatsApp's AI sticker generator called out for racism against Palestine, Meta responds",
-      "excerpt": "WhatsApp's newly launched AI sticker generator feature has recently been accused of generating racist and Islamophobic images related to Palestine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiatoday.in/technology/news/story/whatsapps-ai-sticker-generator-called-out-for-racism-against-palestine-meta-responds-2458599-2023-11-06",
-      "originalUrl": "https://www.indiatoday.in/technology/news/story/whatsapps-ai-sticker-generator-called-out-for-racism-against-palestine-meta-responds-2458599-2023-11-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202310/whatsapp-banned-over-71-lakh-accounts-in-india-031607942-16x9_0.jpg?VersionId=q0_uEJFrOkvtRkTRU3tzzfRmrUMEHvl5",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.indiatoday.in/amp/technology/news/story/whatsapps-ai-sticker-generator-called-out-for-racism-against-palestine-meta-responds-2458599-2023-11-06",
-      "cdnAmpWebUrl": "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/technology/news/story/whatsapps-ai-sticker-generator-called-out-for-racism-against-palestine-meta-responds-2458599-2023-11-06",
-      "publishedDateTime": "2023-11-06T04:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Today",
-        "domain": "indiatoday.in",
-        "images": null,
         "publishers": null,
         "authors": null
       },

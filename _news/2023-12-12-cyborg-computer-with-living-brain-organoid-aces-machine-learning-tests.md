@@ -7,7 +7,7 @@ originalUrl: "https://newatlas.com/computers/hybrid-brain-organoid-computing/"
 webUrl: "https://newatlas.com/computers/hybrid-brain-organoid-computing/"
 type: article
 quality: 84
-heat: 109
+heat: 108
 published: true
 
 provider:

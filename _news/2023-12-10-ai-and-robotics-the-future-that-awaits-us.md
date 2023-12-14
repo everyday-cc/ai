@@ -9,8 +9,8 @@ ampWebUrl: "https://thehimalayantimes.com/ampArticle/1024410"
 cdnAmpWebUrl: "https://thehimalayantimes-com.cdn.ampproject.org/c/s/thehimalayantimes.com/ampArticle/1024410"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Himalayan Times
@@ -19,6 +19,22 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "How Andromeda Robotics’ AI-powered robot Abi is combating loneliness"
+    excerpt: "The Andromeda Robotics team has built and assembled four Abi robots so far, each costing nearly $10,000 in hardware and consumables."
+    publishedDateTime: 2023-12-13T23:43:00Z
+    webUrl: "https://www.smartcompany.com.au/startupsmart/news/andromeda-robotics-ai-powered-robot-abi-combating-loneliness/"
+    type: article
+    provider:
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 69
+    images:
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2023/12/SMartCO-2023-12-14T103242.515.png?resize=1200,630"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "4tivAkMv9+1oePlnfoN+LEKu/i27EAEnPJKCOClIm1FFwgFUYWSMCL2q1fKsUWyc1zxoWUU4VDW/QNu3GGz5wk3ePXRl1qlWRdtHsE8LxiA74fpDlNG8fvC6rpEmVUMYEbURC+4grwtYLbZmy0CKHVyT+xspsfR9tFeA8vSSqXqlJ5dHQj/Twsr6jSnfVkP6FPIFJvjEZDoaLbgVxYsv/kWdZKDqziMUuqxWbQ0KHkXhxgTAyMdfgyzHpfS98FG2L31KeRVTYz5vlEyKa78ZF0pGgbcVLCFIDsyCO+kvlCygyjorvAxlYWwFgYQarJomZYT12+1uGCoVJd65QG2KJO7JXKIn9PLkMXc05/a4bhE=;2GEIFViKVF2utp1F55e/rw=="
 ---

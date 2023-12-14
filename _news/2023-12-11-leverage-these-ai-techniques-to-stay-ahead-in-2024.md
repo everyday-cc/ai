@@ -166,15 +166,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 37
-  - title: "How Artificial Intelligence Is Transforming HR Practices"
-    excerpt: "Artificial intelligence (AI) has taken various industries by storm, with human resource management (HRM) being no exception. With a variety of AI tools, businesses in several industries are reaping the rewards of innovative technology to optimize their HR operations."
-    publishedDateTime: 2023-12-12T02:03:00Z
-    webUrl: "https://thebobs.com/how-artificial-intelligence-is-transforming-hr-practices/"
-    type: article
-    provider:
-      name: The BOBs
-      domain: thebobs.com
-    quality: 19
   - title: "Dell Upgrades Storage Offerings As Businesses Shift To AI-First Operating Model"
     excerpt: "As more businesses see the competitive need to shift data into AI-led processes, Dell’s AI-Ready Data Platform combines its infrastructure and performance upgrades to speed up how quickly customers can train large language models."
     publishedDateTime: 2023-12-11T21:05:00Z

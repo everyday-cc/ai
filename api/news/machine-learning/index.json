@@ -10,7 +10,7 @@
       "originalUrl": "https://www.theweek.in/news/sci-tech/2023/12/13/scientists-unveil-brainoware-a-game-changer-for-artificial-intel.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -139,7 +139,7 @@
       "originalUrl": "https://techcrunch.com/sponsor/redpanda-organization/ai-in-action-how-to-bring-real-time-decision-making-to-ai-ml/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -237,50 +237,6 @@
       ]
     },
     {
-      "path": "_news/2023-12-12-how-machine-learning-is-reshaping-industries.md",
-      "title": "How Machine Learning is Reshaping Industries",
-      "excerpt": "In the era of digital transformation, machine learning (ML) has emerged as the driving force behind a revolutionary shift in industries worldwide. From healthcare to finance, manufacturing to marketing,",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesnownews.com/education/how-machine-learning-is-reshaping-industries-article-105939900",
-      "originalUrl": "https://www.timesnownews.com/education/how-machine-learning-is-reshaping-industries-article-105939900",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tnn.in/thumb/msid-105939904,thumbsize-372248,width-1280,height-720,resizemode-75/105939904.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.timesnownews.com/education/how-machine-learning-is-reshaping-industries-article-105939900/amp",
-      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/education/how-machine-learning-is-reshaping-industries-article-105939900/amp",
-      "publishedDateTime": "2023-12-12T14:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "timesnownews",
-        "domain": "timesnownews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2023-12-12-accenture-to-work-with-union-bank-of-india-to-build-new-ai-and-machine-learning-models.md",
       "title": "Accenture To Work with Union Bank of India To Build New AI and Machine Learning Models",
       "excerpt": "Accenture will work with Union Bank of India to build new AI and machine learning models that can help generate actionable insights for improved busin",
@@ -333,7 +289,7 @@
       "originalUrl": "https://newatlas.com/computers/hybrid-brain-organoid-computing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -1303,6 +1259,49 @@
       "provider": {
         "name": "Business Wire",
         "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-04-ai-machine-learning-change-how-first-responders-handle-emergencies.md",
+      "title": "AI, machine learning change how first responders handle emergencies",
+      "excerpt": "Researchers within the University of Pittsburgh Medical Center health enterprise are using machine learning to advance the breadth and efficiency of electrocardiogram (ECG) readings to better identify",
+      "sourceUrl": null,
+      "webUrl": "https://www.enidnews.com/news/ai-machine-learning-change-how-first-responders-handle-emergencies/article_552e3202-90c2-11ee-a637-0b89461d78dd.html",
+      "originalUrl": "https://www.enidnews.com/news/ai-machine-learning-change-how-first-responders-handle-emergencies/article_552e3202-90c2-11ee-a637-0b89461d78dd.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/enidnews.com/content/tncms/assets/v3/editorial/a/6c/a6cf7a5c-90c3-11ee-b3ee-af83f4856540/656aa60569b8e.image.jpg?crop=1331%2C699%2C65%2C420&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T04:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Enid News & Eagle",
+        "domain": "enidnews.com",
         "images": null,
         "publishers": null,
         "authors": null

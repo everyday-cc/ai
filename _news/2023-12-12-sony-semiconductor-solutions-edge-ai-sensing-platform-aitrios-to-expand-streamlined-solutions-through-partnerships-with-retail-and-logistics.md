@@ -27,18 +27,13 @@ images:
 related:
   - title: "BigBear.ai Expands its Relationship with AWS to Deliver AI-Driven Solutions"
     excerpt: "BigBear.ai continues to expand its capabilities to serve the commercial enterprise sector and is proud to advance this new effort with AWS."
-    publishedDateTime: 2023-12-11T13:18:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/12/11/9931286.htm"
+    publishedDateTime: 2023-12-11T14:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/bigbear-ai-expands-its-relationship-with-aws-to-deliver-ai-driven-solutions-1032889378"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 52
-    images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
   - title: "House Resolution to Analyze Artificial Intelligence Heads to House"
     excerpt: "Merski's team said he has previously advocated for steering AI away from nefarious actors and directing it toward being a beneficial, useful source for good in our society."
     publishedDateTime: 2023-12-13T18:25:00Z
@@ -53,6 +48,15 @@ related:
         width: 1280
         height: 577
         isCached: true
+  - title: "GPAI Meet Adopts New Delhi AI Declaration"
+    excerpt: "(MENAFN- Live Mint) \"The Global Partnership on Artificial Intelligence (GPAI) Summit, a congregation of 29 member nations including the European Union, on Wednesday announced the adoption of the New Delhi Declaration,"
+    publishedDateTime: 2023-12-13T20:50:00Z
+    webUrl: "https://menafn.com/1107589903/GPAI-Meet-Adopts-New-Delhi-AI-Declaration"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
 
 secured: "Hype9XFCP8oYufAkp0hElpjp2RNaMhVdE1IQpxe5X0yyOt9o65gA1Tc01OYV3cmBFdCsTErgB/hXbVkyJw/o48+2eJG2WD50OrsAnRTWfBVBeY2pC+S+tiNF/rfaqNtdOBek2oOwN6fCXv4CHUk381HfzRZRxh0jsCu9Ya5vetZwLwgEeZj62NpAF5SWKltKltzNrUbbNb/49CsCh3s5ksdg/VxgLrzBgrdsOeizHLcv2wYpX3gbL6RGPt/B6d1SXcnQWqgFa7cDAwQjDvabQWEDGmChrTyaswfk0ZrhVk+MttjuNSKGh/+DgCMGfSZDpoq/v2VkVQzJzg3XmiU87caCdcOqBDa8d0KwAWZMf/DMa0KF80vMzpATnOjkH++8YxaysF//rV9ZYzoyeW9xMFTQd3RkxYxRwXrmTdhfn6Secaata9uCN5fm53Opb3b5iEjsezxrDFLH5U4XxlGgAzmGAXLwNKOyEHil1aFqGQHYWZAsgN0Q68NSKwhVbaZ2xRNGuHODJdHXCOCv675L8Q==;FqjLO4mY8BE1k1/puPaqRQ=="
 ---

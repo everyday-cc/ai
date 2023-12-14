@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/11/why-genera
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/11/why-generative-ai-makes-sense-for-edge-computing/amp/"
 type: article
 quality: 91
-heat: 191
+heat: 181
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       - url: "https://images.idgesg.net/images/idge/imported/imageapi/2021/12/28/10/10_untruthful_lies_liar_untrustworthy-100781303-large-100915050-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
-        isCached: true
-  - title: "8 Best Generative AI App Builders 2024"
-    excerpt: "Indeed, this AI app platform is very strong when it comes to interoperability: AppSheet apps can connect to hosted Excel files, Google Sheets, Google Drive, Cloud SQL, Apigee, Azure SQL, AWS, Salesforce objects, Smartsheet, and OData. AppSheet naturally ..."
-    publishedDateTime: 2023-12-09T00:00:00Z
-    webUrl: "https://www.eweek.com/artificial-intelligence/best-generative-ai-app-builders/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 69
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2023/12/ew_20231205-best-generative-ai-app-builders.png"
-        width: 1400
-        height: 900
         isCached: true
   - title: "LEARNING FROM AI: Genpact turns to GenAI to train staff"
     excerpt: "Genpact believes that generative AI (GenAI) represents a significant leap in technology. The company wants to make AI Guru a coach for specific roles and guide people on skills they should be learning. For example, a first-time manager who needs constant coaching can talk to an AI Guru for guidance. Time for learning to reboot"

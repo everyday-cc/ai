@@ -26,137 +26,66 @@ images:
     isCached: true
 
 related:
-  - title: "Inside OpenAI’s Crisis Over the Future of Artificial Intelligence"
-    excerpt: "Split over the leadership of Sam Altman, board members and executives turned on one another. Their brawl exposed the cracks at the heart of the A.I. movement."
-    publishedDateTime: 2023-12-09T12:51:00Z
-    webUrl: "https://www.nytimes.com/2023/12/09/technology/openai-altman-inside-crisis.html"
+  - title: "ChatGPT to Google Bard: AI giants are reshaping search results"
+    excerpt: "Explore the evolving landscape of search engines. From keyword-matching engines to AI-powered platforms, search experiences are being reshaped."
+    publishedDateTime: 2023-12-12T01:50:00Z
+    webUrl: "https://yourstory.com/2023/12/ai-revolutionising-search-engine-results"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 56
+    images:
+      - url: "https://images.yourstory.com/cs/2/5cd74df08d8d11e9a445857ac4ecdc72/GoogleAIBengaluru1568955790392png?fm=png&auto=format"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Mistral AI is an exciting ChatGPT rival, but it’s not ready for us yet"
+    excerpt: "Mistral AI is a French startup valued at around $2 billion with an exciting ChatGPT rival you can't actually use right now."
+    publishedDateTime: 2023-12-12T01:08:00Z
+    webUrl: "https://bgr.com/tech/mistral-ai-is-an-exciting-chatgpt-rival-but-its-not-ready-for-us-yet/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 54
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/02/rsz_gettyimages-1246675509.jpg?quality=82&strip=all"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Are You Using ChatGPT at Work? We Want to Hear About It."
+    excerpt: "Just over a year since ChatGPT’s release, we’re exploring how workers have begun using A.I. chatbots in their jobs."
+    publishedDateTime: 2023-12-13T10:03:00Z
+    webUrl: "https://www.nytimes.com/2023/12/13/business/are-you-using-chatgpt-at-work-we-want-to-hear-about-it.html"
     type: article
     provider:
       name: The New York Times
       domain: nytimes.com
-    quality: 86
-    images:
-      - url: "https://static01.nyt.com/images/2023/12/08/business/08ai-openai-02/08ai-openai-02-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "OpenAI’s Rival Mistral AI Valued at $2B after Latest Funding Round"
-    excerpt: "OpenAI's rival Mistral AI is now valued at $2 billion after its latest funding round where it pulled $415 million from investors."
-    publishedDateTime: 2023-12-11T17:39:00Z
-    webUrl: "https://www.coinspeaker.com/mistral-ai-2b-latest-funding/"
-    ampWebUrl: "https://www.coinspeaker.com/mistral-ai-2b-latest-funding/amp/"
-    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/mistral-ai-2b-latest-funding/amp/"
-    type: article
-    provider:
-      name: coinspeaker
-      domain: coinspeaker.com
-    quality: 57
-    images:
-      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/12/mistral-ai-2b-latest-funding.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "ChatGPT Is Showing Signs of Laziness. OpenAI Says A.I. Might Need a Fix"
-    excerpt: "One of the most promising aspects of A.I. is its ability to handle dull, repetitive tasks, but some ChatGPT users say the chatbot isn't finishing the job like it used to, prompting questions about whether the technology is mirroring human laziness."
-    publishedDateTime: 2023-12-12T22:32:00Z
-    webUrl: "https://www.inc.com/ben-sherry/chatgpt-is-showing-signs-of-laziness-openai-says-ai-might-need-a-fix.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 54
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1204333176_535732_az3rad.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Dropbox spooks users by sending data to OpenAI for AI search features"
-    excerpt: "On Wednesday, news quickly spread on social media about a new enabled-by-default Dropbox setting that shares your Dropbox data with OpenAI for an experimental AI-powered search feature. Dropbox says that user data shared with third-party AI partners isn't used to train AI models and is deleted within 30 days."
-    publishedDateTime: 2023-12-13T19:41:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/12/dropbox-spooks-users-by-sending-data-to-openai-for-ai-search-features/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 47
-  - title: "Elon Musk’s AI bot, Grok, speaks as if made by OpenAI in some tests, causing a stir"
-    excerpt: "Grok, the AI language model created by Elon Musk's xAI, went into wide release last week, and people have begun spotting glitches. On Friday, security tester Jax Winterbourne tweeted a screenshot of Grok denying a query with the statement,"
-    publishedDateTime: 2023-12-11T20:13:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/12/elon-musks-ai-bot-grok-speaks-as-if-made-by-openai-in-some-tests-causing-a-stir/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 41
-  - title: "AI start-up Mistral secures €385m to challenge OpenAI"
-    excerpt: "French start-up Mistral is focused on creating open-source AI models and has reportedly hit unicorn status after raising €385m."
-    publishedDateTime: 2023-12-11T12:24:00Z
-    webUrl: "https://www.siliconrepublic.com/start-ups/mistral-ai-unicorn-funding-open-source"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 37
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/12/AdobeStock_259976477.jpeg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "OpenAI Competitor Mistral AI Nabs $487M Round, Hitting $2B Valuation"
-    excerpt: "Paris-based Mistral AI, an OpenAI and Anthropic competitor, is putting the final touches on a massive round of approximately $487 million that would value the company at $2 billion, per a report."
-    publishedDateTime: 2023-12-11T18:13:00Z
-    webUrl: "https://news.crunchbase.com/ai/mistral-openai-anthropic-andreessen/"
-    type: article
-    provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 37
-    images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/Generative_AI_3.jpg"
-        width: 900
-        height: 506
-        isCached: true
-  - title: "Unlock the Power of AI: A Step-by-Step Guide to Getting Your OpenAI API Key – Gizchina.com"
-    excerpt: "Welcome to the future of artificial intelligence! OpenAI has revolutionized the AI landscape with its remarkable language models like ChatGPT and GPT-4. To"
-    publishedDateTime: 2023-12-10T22:42:00Z
-    webUrl: "https://www.inferse.com/834010/unlock-the-power-of-ai-a-step-by-step-guide-to-getting-your-openai-api-key-gizchina-com/"
+    quality: 49
+  - title: "Google's AI chatbot Bard gives drab answers, but it does one thing better than ChatGPT – Mashable"
+    excerpt: "Compared to the other chatbots on the market, Google's Bard is the boring one. In a more or less positive assessment, Vox called"
+    publishedDateTime: 2023-12-13T14:29:00Z
+    webUrl: "https://www.inferse.com/838409/googles-ai-chatbot-bard-gives-drab-answers-but-it-does-one-thing-better-than-chatgpt-mashable/"
     type: article
     provider:
       name: Inferse
       domain: inferse.com
-    quality: 29
+    quality: 43
     images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/12/wp-header-logo-5862.png"
+      - url: "https://www.inferse.com/wp-content/uploads/2023/12/wp-header-logo-7371.png"
         width: 1200
-        height: 800
+        height: 1200
         isCached: true
-  - title: "OpenAI’s Soap Opera Collapse Bodes Ill for AI Benefiting Humanity"
-    excerpt: "Whatever fantasies we may have had about the nonprofit structure of OpenAI have been eviscerated. While it remains a nonprofit, it’s proven entirely beholden to ruthless capitalism"
-    publishedDateTime: 2023-12-11T13:04:00Z
-    webUrl: "https://www.scientificamerican.com/article/openais-soap-opera-collapse-bodes-ill-for-ai-benefiting-humanity/"
+  - title: "These Are the Biggest Differences Between Google Bard and ChatGPT"
+    excerpt: "AI chatbots are more popular than ever, and there are plenty of solid options out there to choose from beyond OpenAI’s ChatGPT. One particularly strong competitor is Google’s Bard AI, which pulls information from the internet and runs off the latest Gemini language model created by Google."
+    publishedDateTime: 2023-12-11T03:35:00Z
+    webUrl: "https://www.lifehacker.com.au/2023/12/these-are-the-biggest-differences-between-google-bard-and-chatgpt/"
     type: article
     provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 17
-  - title: "OpenAI to pay Axel Springer to use content to train AI models"
-    excerpt: "OpenAI, the generative artificial intelligence startup backed by Microsoft (NASDAQ:MSFT), has agreed to pay publishing company Axel Springer to use the media company's content to train its AI models. The content will be used to create answers in ChatGPT ..."
-    publishedDateTime: 2023-12-13T14:21:00Z
-    webUrl: "https://seekingalpha.com/news/4045950-openai-pay-axel-springer-use-content-train-ai-models"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 17
-  - title: "Paris-based Startup and OpenAI Competitor Mistral AI Valued at $2 Billion"
-    excerpt: "In a significant development for the European artificial intelligence sector, Paris-based startup Mistral AI has achieved a noteworthy milestone. The company has successfully secured a substantial investment of €450 million,"
-    publishedDateTime: 2023-12-09T14:18:00Z
-    webUrl: "https://www.unite.ai/paris-based-startup-and-openai-competitor-mistral-ai-valued-at-2-billion/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 16
+      name: Lifehacker Australia
+      domain: lifehacker.com.au
+    quality: 21
 
 secured: "Ok8kjJDcUqw73UwsQrpROD03VGRsMNifVzmwuQnjLxB8EMM2rPyKY/fkmx14Uic+mLhZWljMrSZL1LSjNb3LgKaDTnB/HT+UrgRMiWsCskbjNVqK/TLFaP421Uz4trIlbfrrK0BKnueZmJwVGB9J6C4K3Acf7vxR9iyGbwrQvLIZvNJBesYMT2b2INd/qmtBhN2jPuQCF6b8FPhKF3DZTWgcTjq7B6k60N8t6GKmko860i+Uufhq+ZLiHV6KilWsc8HueiEBVl+i1L+EjUWwQDnksZNW/SDWiX0AT6O7akzRxK5bZO9juVV4KaKuKPo54vVN+4ded8kb0Xb+2iojUe4Vze5SAr3OHrJpI+6MEbGdMnkHozrPCeXso+OsQP9VAxzDIptNhTH6oA+X/2JwsYyvQ4ywUl0BO+Q38yq9J8BXhScfdpFG0QJumnvVLKCurfZMmV3NZJfNWDL1jibOE2TLZK1pavebeKbZvs6gvXvpnTynMpu2ZgxoS8R2T/dliLgumtRuXasZXnRbOIWddQ==;SY0A6Bqc8jhMr9LE/akiOw=="
 ---

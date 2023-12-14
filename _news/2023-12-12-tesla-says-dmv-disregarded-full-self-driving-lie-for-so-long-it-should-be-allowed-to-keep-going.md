@@ -59,6 +59,15 @@ related:
         width: 2000
         height: 1113
         isCached: true
+  - title: "Tesla Autopilot Recall Deals Another Blow to Self-Driving Cars"
+    excerpt: "According to the NHTSA recall report, when Autosteer or any other Level 2 system is engaged, “as the vehicle operator, the driver is responsible for the vehicle’s movement with their hands on the steering wheel at all times, remaining attentive to surrounding road conditions, and intervening … as needed to maintain safe operation.”"
+    publishedDateTime: 2023-12-13T23:22:00Z
+    webUrl: "https://www.autoweek.com/news/a46121819/nhtsa-forces-tesla-autopilot-recall-self-driving-cars/"
+    type: article
+    provider:
+      name: autoweek
+      domain: autoweek.com
+    quality: 19
 
 secured: "zGhVXv9BEwZXSzyjpoAzNlY1mdEZmB9MMrly2gM2jJTHq1uCT7nYpHfS9FfqWPRgLy2qLixtz1WmPEmJCkjDkiQcJyncxJXkDL4spRqAvTwIJBP4+To8BtAolT1WjX/rjSiTxjpLfUy7RElRp7UZAERRN3N9tdZgef87EXxIWIWWxsFOZz+gx6wnufLMIYLL8z0/0nyPVNi29AozP7R4EtTHovHGKq5ZGoByeCA3qukCk0WmL/PBURra+PpVhRpUeeQ+2hjjocKUtUn5kJCYBFDgOhvKcxcnyhSWBgozoGJ2CazuISVumxW3Wd+i8Q0/sdiGsg+5j2UnzmxRFuFtwql3K+LYHzbYt/xCfNduXnjQwdOhQyfZEwjCKjwziRtPER2PdV3/9MxT5dJ3Dg/zeUKuYCtTgoTeUojYC4JZuQVB6VDvHw16fNQ4z8rTP2GeET0iAK3U94ijNDzgrxj4y8LTgsAvrO6lk8oCZ6l+rgNgPLUzK6stmRzi35WVhZ0d4pRpwm2gIOQ0DgULOx5ifA==;290KGgsIPH5ypPcZRN+iwQ=="
 ---

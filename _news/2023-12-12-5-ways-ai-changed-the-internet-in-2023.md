@@ -7,7 +7,7 @@ originalUrl: "https://mashable.com/article/ways-ai-changed-the-internet-2023"
 webUrl: "https://mashable.com/article/ways-ai-changed-the-internet-2023"
 type: article
 quality: 67
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/10/17/12/internet1-100649339-large-100947272-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 966
-        isCached: true
-  - title: "Windows 12 and the coming AI chip war"
-    excerpt: "A Windows release planned for next year may be the catalyst for a new wave of desktop chips with AI processing capabilities."
-    publishedDateTime: 2023-12-11T06:19:00Z
-    webUrl: "https://www.arnnet.com.au/article/709727/windows-12-coming-ai-chip-war/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 54
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/shutterstock_571888840-100941708-orig.jpg"
-        width: 504
-        height: 315
         isCached: true
   - title: "2023 was the year that artificial intelligence went mainstream"
     excerpt: "From ChatGPT to Gemini, this year was dominated by large language models and other AIs becoming everyday tools used by millions of people"

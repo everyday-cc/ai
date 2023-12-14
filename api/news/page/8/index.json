@@ -2,6 +2,101 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-12-06-red-hat-cofounder-bob-young-invests-in-new-liquid-neural-network-ai-startup.md",
+      "title": "Red Hat cofounder Bob Young invests in new ‘liquid neural network’ AI startup",
+      "excerpt": "RESEARCH TRIANGLE PARK – Red Hat cofounder and Triangle tech legend Bob Young is making a new investment play, this time in artificial intelligence ... is based on what’s called a liquid neural network. Here’s how MIT describes the technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://wraltechwire.com/2023/12/06/red-hat-cofounder-bob-young-invests-in-new-liquid-neural-network-ai-startup/",
+      "originalUrl": "https://wraltechwire.com/2023/12/06/red-hat-cofounder-bob-young-invests-in-new-liquid-neural-network-ai-startup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wraltechwire.com/wp-content/uploads/2019/04/BobYoung_5_HR-e1555938946676.jpg",
+          "width": 2922,
+          "height": 1643,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://wraltechwire.com/2023/12/06/red-hat-cofounder-bob-young-invests-in-new-liquid-neural-network-ai-startup/?amp=1",
+      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/12/06/red-hat-cofounder-bob-young-invests-in-new-liquid-neural-network-ai-startup/?amp=1",
+      "publishedDateTime": "2023-12-06T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-the-best-robot-vacuums-for-2023.md",
+      "title": "The best robot vacuums for 2023",
+      "excerpt": "Just say “Alexa” or “OK, Google, ask Roomba to start cleaning,” and your S9 ... of debris before needing to be emptied, impressive AI navigation skills, and support for Alexa, Siri ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/home/best-robot-vacuums/",
+      "originalUrl": "https://www.digitaltrends.com/home/best-robot-vacuums/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2021/06/eufy-robovac-g30-verge.jpeg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/home/best-robot-vacuums/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-robot-vacuums/?amp",
+      "publishedDateTime": "2023-12-06T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-06-former-tesla-worker-claims-companys-self-driving-tech-is-not-safe-for-public-roads.md",
       "title": "Former Tesla worker claims company's self-driving tech is not safe for public roads",
       "excerpt": "A former Tesla worker claims the electric car giant’s self ... driving technology is not safe enough to be used on public roads. Whistleblower Lukasz Krupski has raised fresh concerns about ...",
@@ -989,84 +1084,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-revolutionising-industries-with-ai-sumedh-datars-journey-in-deep-learning-and-computer-vision.md",
-      "title": "Revolutionising industries with AI: Sumedh Datar's journey in deep learning and computer vision",
-      "excerpt": "Artificial Intelligence techniques, such as deep learning, have garnered significant attention in 2023, especially with the emergence of platforms like Cha..",
-      "sourceUrl": null,
-      "webUrl": "https://www.khaleejtimes.com/kt-network/revolutionising-industries-with-ai-sumedh-datars-journey-in-deep-learning-and-computer-vision",
-      "originalUrl": "https://www.khaleejtimes.com/kt-network/revolutionising-industries-with-ai-sumedh-datars-journey-in-deep-learning-and-computer-vision",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.khaleejtimes.com?uuid=c9b4f094-01fe-5308-856e-fb8aeec53a51&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.75125&width=1200&height=675&x=1.0E-5&y=0.17362.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.khaleejtimes.com/kt-network/revolutionising-industries-with-ai-sumedh-datars-journey-in-deep-learning-and-computer-vision?amp=1",
-      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/kt-network/revolutionising-industries-with-ai-sumedh-datars-journey-in-deep-learning-and-computer-vision?amp=1",
-      "publishedDateTime": "2023-12-05T13:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Khaleej Times",
-        "domain": "khaleejtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-deep-learning-model-flags-non-smokers-at-increased-risk-for-lung-cancer.md",
-      "title": "Deep Learning Model Flags Non-Smokers at Increased Risk for Lung Cancer",
-      "excerpt": "A new model has shown that among non-smokers, there is a 2.1 times greater risk of developing lung cancer for those in high-risk groups compared to their peers.",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/news/deep-learning-model-flags-non-smokers-at-increased-risk-for-lung-cancer",
-      "originalUrl": "https://healthitanalytics.com/news/deep-learning-model-flags-non-smokers-at-increased-risk-for-lung-cancer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

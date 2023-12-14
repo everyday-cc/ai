@@ -48,6 +48,20 @@ related:
       name: The New York Times
       domain: nytimes.com
     quality: 49
+  - title: "Google's Bard vs OpenAI's ChatGPT: Which of the rival AI chatbots is better? – Euronews"
+    excerpt: "Google’s answer to ChatGPT is here - but is it as good as OpenAI’s global phenomenon? Euronews Next put them through their paces. Google has made its"
+    publishedDateTime: 2023-12-12T02:41:00Z
+    webUrl: "https://www.inferse.com/836356/googles-bard-vs-openais-chatgpt-which-of-the-rival-ai-chatbots-is-better-euronews/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 48
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/12/wp-header-logo-6663.png"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "Google's AI chatbot Bard gives drab answers, but it does one thing better than ChatGPT – Mashable"
     excerpt: "Compared to the other chatbots on the market, Google's Bard is the boring one. In a more or less positive assessment, Vox called"
     publishedDateTime: 2023-12-13T14:29:00Z

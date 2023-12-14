@@ -59,20 +59,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "8 Best Generative AI App Builders 2024"
-    excerpt: "Indeed, this AI app platform is very strong when it comes to interoperability: AppSheet apps can connect to hosted Excel files, Google Sheets, Google Drive, Cloud SQL, Apigee, Azure SQL, AWS, Salesforce objects, Smartsheet, and OData. AppSheet naturally ..."
-    publishedDateTime: 2023-12-09T00:00:00Z
-    webUrl: "https://www.eweek.com/artificial-intelligence/best-generative-ai-app-builders/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 69
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2023/12/ew_20231205-best-generative-ai-app-builders.png"
-        width: 1400
-        height: 900
-        isCached: true
   - title: "Why Artificial Intelligence Requires High-Performance Computing"
     excerpt: "Traditional data center technology isn’t powerful enough for ambitious AI projects, so businesses are adding clusters of graphic processing units."
     publishedDateTime: 2023-12-11T21:26:00Z

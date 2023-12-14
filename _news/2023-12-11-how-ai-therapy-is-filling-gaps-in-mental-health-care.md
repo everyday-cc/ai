@@ -2,21 +2,27 @@
 category: news
 title: "How AI therapy is filling gaps in mental health care"
 excerpt: "And for some users, they’ve been beneficial. 80 percent of people who used ChatGPT for mental health advice reported it was a good alternative for therapy, according to Business Wire. The majority of Americans don’t believe AI therapy will help more than it hurts, but that’s not stopping innovations in artificial intelligence and therapy."
-publishedDateTime: 2023-12-11T03:35:00Z
-originalUrl: "https://www.boisestatepublicradio.org/2023-12-10/how-ai-therapy-is-filling-gaps-in-mental-health-care"
-webUrl: "https://www.boisestatepublicradio.org/2023-12-10/how-ai-therapy-is-filling-gaps-in-mental-health-care"
+publishedDateTime: 2023-12-11T02:36:00Z
+originalUrl: "https://www.wlrn.org/2023-12-10/how-ai-therapy-is-filling-gaps-in-mental-health-care"
+webUrl: "https://www.wlrn.org/2023-12-10/how-ai-therapy-is-filling-gaps-in-mental-health-care"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Boise State Public Radio
-  domain: boisestatepublicradio.org
+  name: WLRN
+  domain: wlrn.org
 
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://npr.brightspotcdn.com/dims4/default/8a5e564/2147483647/strip/true/crop/1600x840+0+114/resize/1200x630!/quality/90/?url=https%3A%2F%2Fthe1a.org%2Fwp-content%2Fuploads%2Fsites%2F4%2F2023%2F12%2FGettyImages-1233936108-1600x1067.jpg"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "AI In Healthcare: Are People Losing Or Gaining Control?"
@@ -117,6 +123,6 @@ related:
         height: 372
         isCached: true
 
-secured: "JdGxh3HqD6yhYXFXh3aS4yOVD9DhiSjSOhYjk/SOY/yZPFybdRh0XeTvDvYK32yFunaOVoEDhmgNIA+z3zsPCjgDOja7QUsF++tH4rFuAKMAxyokLXR1WUnf+daVX2UM6Hc6SSW/Oa5GQSDkG8oLJ8bHy7fzb31zGRyg9UXfM4nMs6V8f0mLtOOOxe7vuKIE38VGkTLfXs8EgB68onuU+Mx5deB2SElFX/AlpoaTap0n6A9l10FCw6VKQqbqQVBEEvtuCX+27ewcDXgjvh9jF3glBrOcA8cRv4vcXSTGKXeIDezedVhpCaaMIlfzIY7Ji1k2CyY2JwK/0pyJMwpBKbN2LK1d8/gUoxlb245cG7VOi+COQSfeYIU+MTVPZMi6Qs1jAVo2kVISJTlhQKhWTQgmM2hxp/uXyF2j3iWqikKdT+ayK84G8/+dnSSg98T1auJDBU3rGVaaHbDkUb8R87HYmIUmwszzNqTzflTM/tyG1N6iJLaGfOSfYRewWXn8y5xCLwgCkwnINwz3Xo0CNQ==;oscVmmRrp3DARO9M1GTHig=="
+secured: "Vgo4KRry8/SgZTYCm6xSp4uWrThg1+xobtSbHvq+6ZVsI3jZazxJhWK6TY1MkiRL7iC6FERzrW4R8b9jASqCYIQLkIDA+lIi7j99qys74jE9gRtvG+tA8Wa/+oYkEQGCZRBRtRJ8S/reCa7bwmB2s/xLdPEycI2pYQ+ZQ0digRXOC8TlUzttMh4Vt/QeJwcx716D0xswUoda5XhhWFYDiIIZwFT0Yd+FIVR1K4ysEcJjActxhEgESIucRlNHm9k5cTZ+CwdzO29Co+jBU8xb4hyI21UhhqTiP8/BifAedbPED7M10gA6zclze0db6PkIliMT9INCADdx56zpd8eCNfiSyuQcs/gXb3YxRXw70Bo=;J7tZcZZxSXRayjtfYJAM8Q=="
 ---
 

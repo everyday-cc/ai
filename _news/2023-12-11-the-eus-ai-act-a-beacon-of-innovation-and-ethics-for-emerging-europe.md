@@ -41,24 +41,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "The EU Just Passed Sweeping New Rules to Regulate AI"
-    excerpt: "The European Union agreed on terms of the AI Act, a major new set of rules that will govern the building and use of AI and have major implications for Google, OpenAI, and others racing to develop AI systems."
-    publishedDateTime: 2023-12-08T23:21:00Z
-    webUrl: "https://www.wired.com/story/eu-ai-act/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 49
-  - title: "EU agrees to landmark rules on artificial intelligence"
-    excerpt: "European Union lawmakers have agreed on the terms for landmark legislation to regulate artificial intelligence, pushing ahead with enacting the world’s most restrictive regime on the development of the technology. Thierry Breton, EU commissioner, confirmed in a post on X that a deal had been reached."
-    publishedDateTime: 2023-12-09T00:09:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/12/ai-regulation-will-begin-in-the-eu/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 47
   - title: "Most countries agreeing what India was saying on Artificial Intelligence regulation: Rajeev Chandrasekhar"
     excerpt: "The Union minister today met Viscount Camrose, UK's Minister of AI and Intellectual Property and Hiroshi Yoshida, Japan's Vice Minister of Policy Coordination, Ministry of Internal Affairs and Communications."
     publishedDateTime: 2023-12-13T08:19:00Z

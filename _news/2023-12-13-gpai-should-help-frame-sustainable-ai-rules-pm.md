@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/ai/artificial-intelligence/gpai-should-help
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/artificial-intelligence/gpai-should-help-frame-sustainable-ai-rules-pm/amp-11702401229429.html"
 type: article
 quality: 59
-heat: 109
+heat: 89
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "E.U. Agrees on Landmark Artificial Intelligence Rules"
-    excerpt: "The agreement over the A.I. Act solidifies one of the world’s first comprehensive attempts to limit the use of artificial intelligence."
-    publishedDateTime: 2023-12-08T23:21:00Z
-    webUrl: "https://www.nytimes.com/2023/12/08/technology/eu-ai-act-regulation.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 49
   - title: "E.U. Reaches Deal on World’s First Comprehensive AI Rules"
     excerpt: "European Union negotiators have clinched a deal on the world's first comprehensive artificial intelligence rules"
     publishedDateTime: 2023-12-11T11:14:00Z
@@ -67,15 +58,6 @@ related:
     provider:
       name: Sentinel Colorado
       domain: sentinelcolorado.com
-    quality: 19
-  - title: "GPAI Meet Adopts New Delhi AI Declaration"
-    excerpt: "(MENAFN- Live Mint) \"The Global Partnership on Artificial Intelligence (GPAI) Summit, a congregation of 29 member nations including the European Union, on Wednesday announced the adoption of the New Delhi Declaration,"
-    publishedDateTime: 2023-12-13T20:50:00Z
-    webUrl: "https://menafn.com/1107589903/GPAI-Meet-Adopts-New-Delhi-AI-Declaration"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
     quality: 19
 
 secured: "rJXldIk7aNr2DvfwGxdrAnPTXUt9CDa8n8UQ/HM5lrbr1SgJUEWW0tRp0l1hmZw7hZHzBtvKeb1xJAgSjt6Hd9oNPrKAor15A84IyrmfH77e/lMd/Xcguhh7GdzbUU58DzgSjgHhh+rr+XsLj/cw65EFqeZh/n74+uzN6MYYmcXQ2WwpP4LBMvbEYhCFYcUA0+itenQ/ZsZd7uTFPJW0kWk3WnjYCmvu5fCY0ty5uH3H+EEspW1nkELJNVyE//S1lN4D3ZydJGmzW3PccMGmZHZpT0l+TKe87GqU+2lkmNmH6GG2rjPsh5yIF4vFty2eERJUFPB2BNTsTdgAGuhYcORQSMQ7nQkXt7ogYcyMM5c=;s/fRk3uoWnw7+sCo8ahYlw=="

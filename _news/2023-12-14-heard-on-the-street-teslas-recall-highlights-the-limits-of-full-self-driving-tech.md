@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/livecoverage/fed-meeting-fomc-interest-rate-de
 webUrl: "https://www.wsj.com/livecoverage/fed-meeting-fomc-interest-rate-december-2023/card/heard-on-the-street-tesla-s-recall-highlights-the-limits-of-full-self-driving-tech-5t1wARKk5hZZYznApkee"
 type: article
 quality: 62
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -65,6 +65,20 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2023/12/13/Tesla_Auto_Pilot_Recall_93271_c0-234-5616-3510_s1200x700.jpg?cb8bdaaafe19aeefebbc81a4d50578aeb1d81bb7"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Tesla recalls 2 million vehicles over self-driving safety concerns"
+    excerpt: "The probes came in response to Teslas with Autopilot crashing into first-responder vehicles as well as random sudden braking – known as ‘phantom braking’ – from considerable speed on highways."
+    publishedDateTime: 2023-12-13T23:51:00Z
+    webUrl: "https://www.whichcar.com.au/news/tesla-recalls-2-million-vehicles-over-self-driving-safety-concerns"
+    type: article
+    provider:
+      name: whichcar
+      domain: whichcar.com.au
+    quality: 39
+    images:
+      - url: "https://cdn.whichcar.com.au/assets/p_social/c4870a66/tesla-autopilot.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "a/es84ge9Tgo9uTZ0LlmncKN1fKcqZCsxzh8Iu6lwDX5B9zvTt/TgOjWvt/l3D3Y3BeftZvs61eVrgx2eTZXMGgZb54vpmS6hp9BLiHveoGusyktCPpIhPtEYkahK90uSbs8iZqKve0QxDKEnQdziw5DGJK5T1b5esDPH2m/PUbGFXQ2dN1HVr36+IjLGyH69d7t0/n8FQ3UiXBxjO6/vX7m4vjLB8IKDmWm/S/D04IUNgiOIJSbJYB+jUYLAJb/QoKXaMfIm2IUQ3c+vZXdYV8tQnGqcYZAjkiC4IUwx+KZsn+Z7n/HL1Q8xmf5j1IgNyJLaz7dyrLGs1swRUqgRU4E7BwXRcGlxF54AB3c9FahIRiRYooqIJxZMmL7Ryw8CG1fPfsxVuloRpsHynCbf5KHUF0vGD/pmV1fQVd2oRLDSh9pCoKZztEAczA/LoPkSu5eQXEgSB83qEmZvR6Iwsa4E7r6MoCIS8YY6u+64xkbCeG49s+8BBkUw3eHtjW2jUn7GfGJbax8jV972YgGVw==;0MbTeJCVDV9Ow2kCEmc6FQ=="
