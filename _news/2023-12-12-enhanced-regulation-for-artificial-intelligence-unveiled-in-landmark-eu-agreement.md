@@ -35,20 +35,6 @@ related:
         width: 1351
         height: 900
         isCached: true
-  - title: "Understanding the world of AI and robotics at the FAIR"
-    excerpt: "The Festival of AI + Robotics, the FAIR is a two-day event promising to ... be able to connect with people on the floor to give them advice,” she said. Another element will be a startup showcase, which Müller said will be relevant to those visiting ..."
-    publishedDateTime: 2023-12-12T02:09:00Z
-    webUrl: "https://www.itnews.com.au/video/understanding-the-world-of-ai-and-robotics-at-the-fair-603411"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 69
-    images:
-      - url: "https://i.nextmedia.com.au/Videos/16.2-FAIR-Medium-Rectangle-300x250.png"
-        width: 300
-        height: 250
-        isCached: true
   - title: "Here are 7 portfolio stocks that can benefit from bigger tech budgets in the age of AI"
     excerpt: "The gatekeepers of information technology budgets at major North American companies are ready to start spending again."
     publishedDateTime: 2023-12-12T16:00:00Z

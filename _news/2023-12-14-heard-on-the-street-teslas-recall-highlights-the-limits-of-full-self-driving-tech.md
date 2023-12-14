@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/livecoverage/fed-meeting-fomc-interest-rate-de
 webUrl: "https://www.wsj.com/livecoverage/fed-meeting-fomc-interest-rate-december-2023/card/heard-on-the-street-tesla-s-recall-highlights-the-limits-of-full-self-driving-tech-5t1wARKk5hZZYznApkee"
 type: article
 quality: 62
-heat: 102
+heat: 122
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "The self-driving safety concerns that led to Tesla’s recall of 2 million cars"
+    excerpt: "Tesla has recalled 2 million cars, nearly all of its vehicles sold in the U.S. since 2012, because of issues with its self-driving features. Safety regulators have investigated nearly a thousand crashes involving Tesla's autopilot system,"
+    publishedDateTime: 2023-12-13T22:25:00Z
+    webUrl: "https://www.pbs.org/newshour/show/the-self-driving-safety-concerns-that-led-to-teslas-recall-of-2-million-cars"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/show/the-self-driving-safety-concerns-that-led-to-teslas-recall-of-2-million-cars"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/the-self-driving-safety-concerns-that-led-to-teslas-recall-of-2-million-cars"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 56
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2023/12/recalled-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Tesla issues recall for almost two million of its cars due to faulty self-driving tech"
     excerpt: "Self-driving vehicles will remain in the world of science fiction as Tesla is recalling two million of its cars to prevent drivers from misusing the Autopilot function."
     publishedDateTime: 2023-12-13T20:20:00Z
@@ -79,6 +95,20 @@ related:
       - url: "https://cdn.whichcar.com.au/assets/p_social/c4870a66/tesla-autopilot.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Tesla ‘recalls’ 2m cars over self-driving feature"
+    excerpt: "Chronically bad drivers could be blocked from using Tesla’s Autosteer feature after US road safety authorities forced the electric vehicle maker to issue a ‘recall’ that will improve the feature on all of the more than 2 million cars it has sold in the US and Canada since 2012."
+    publishedDateTime: 2023-12-14T02:37:00Z
+    webUrl: "https://ia.acs.org.au/article/2023/tesla--recalls--2m-cars-over-self-driving-feature.html"
+    type: article
+    provider:
+      name: ia.acs
+      domain: acs.org.au
+    quality: 39
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/tesla%20self%20driving%20update.jpg"
+        width: 1000
+        height: 563
         isCached: true
 
 secured: "a/es84ge9Tgo9uTZ0LlmncKN1fKcqZCsxzh8Iu6lwDX5B9zvTt/TgOjWvt/l3D3Y3BeftZvs61eVrgx2eTZXMGgZb54vpmS6hp9BLiHveoGusyktCPpIhPtEYkahK90uSbs8iZqKve0QxDKEnQdziw5DGJK5T1b5esDPH2m/PUbGFXQ2dN1HVr36+IjLGyH69d7t0/n8FQ3UiXBxjO6/vX7m4vjLB8IKDmWm/S/D04IUNgiOIJSbJYB+jUYLAJb/QoKXaMfIm2IUQ3c+vZXdYV8tQnGqcYZAjkiC4IUwx+KZsn+Z7n/HL1Q8xmf5j1IgNyJLaz7dyrLGs1swRUqgRU4E7BwXRcGlxF54AB3c9FahIRiRYooqIJxZMmL7Ryw8CG1fPfsxVuloRpsHynCbf5KHUF0vGD/pmV1fQVd2oRLDSh9pCoKZztEAczA/LoPkSu5eQXEgSB83qEmZvR6Iwsa4E7r6MoCIS8YY6u+64xkbCeG49s+8BBkUw3eHtjW2jUn7GfGJbax8jV972YgGVw==;0MbTeJCVDV9Ow2kCEmc6FQ=="

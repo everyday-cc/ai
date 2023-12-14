@@ -153,15 +153,6 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 36
-  - title: "Microsoft to double Azure cloud capacity in Germany by early 2024"
-    excerpt: "Microsoft is to double the capacity of its Microsoft Azure cloud data centres in Germany by early 2024 to meet customer demand. It will achieve this by significantly expanding the country’s largest data centre hub,"
-    publishedDateTime: 2023-12-13T14:55:00Z
-    webUrl: "https://www.technologyrecord.com/article/microsoft-to-double-azure-cloud-capacity-in-germany-by-early-2024"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 34
 
 secured: "OIj8i8W4P6RrainiYFR0iy0SiUFs3Qsk7V+MRehbKykELdoWHws2nJSaFnQPcjiP5UDBF/VEgUOjrJuWtJO3lb3MOiMdlHjrFkSFg5OYvCK8uZpV4JozD2UsQyEg1EJ7QEZ6hHX6kwpWj9wZc25rRpLq0s9WWTwUvyi4ObTf7KHLarAX+rvTKsoR8m75S0V+49b0NbW9BntzI9BVb/pYQakOStSzb8xF+hAI3MGV05t2YAl5szT3qDkFpuqNEqmmvnyhS2ycMQ2Nip82skpGBrh7JxmwA0loKG5eeKQ50pHAV8vjPcu3RD5vVlAFvSc/Femc15sOGnA0nSkP9YXbRubehtjoBkdEhnlTE5AqxpU=;viWzEhtFEW18W7LzyqpnqA=="
 ---

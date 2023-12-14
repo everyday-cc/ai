@@ -61,6 +61,15 @@ related:
       name: Sentinel Colorado
       domain: sentinelcolorado.com
     quality: 19
+  - title: "GPAI Meet Adopts New Delhi AI Declaration"
+    excerpt: "(MENAFN- Live Mint) \"The Global Partnership on Artificial Intelligence (GPAI) Summit, a congregation of 29 member nations including the European Union, on Wednesday announced the adoption of the New Delhi Declaration,"
+    publishedDateTime: 2023-12-13T20:50:00Z
+    webUrl: "https://menafn.com/1107589903/GPAI-Meet-Adopts-New-Delhi-AI-Declaration"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
 
 secured: "v3DibyBYGkINM0OhSUPc7f0bppc7qiyBCl3J+IHJdwJIbed8YJ+UIGL5HcUuk/9to+JjAR5BR5eCsMu8vvm2WG973vZ3uOFh57ktM7L5hMcYcUkQU98lOHvNKpICyp8mVjVX+YXUnevB1T6zETflVv4phD64pie0QLJRqavB/2HZaNLPRruBMAiF6h0+eiyIreCUe93TyZ3Pt3MHAsLMjSCbITil/BGi/O1lKL1iJgAWc+ceJvd+o+2HrNLRT/5A53fBFS4pS4k3GiBqt/9U44hw+gTQwnxUIQq+8OSueyy53jin20T4sYYy4JNVC1I38V9hSCq0fY9s/ItOjxbcdnHfGSEeoBDCdEVx3Ag5k99vNTJo2gSAkmqBPWbGAJ61abdQCvGUath5aH2aniehOUoFUtJRkmva3d3gBDuiUHBONwWLP3LNYPLL/qPMFIc3Uij5cEObJf31pL7YhPhvSE6rhRhSyY/VTJ2x6u/mzuPeBRuRqZudxbQYjUYu+PI5ACdSYOLWyWYZ3W41KIUVLA==;DkRlkDKediMvdMEZBtiJbg=="
 ---

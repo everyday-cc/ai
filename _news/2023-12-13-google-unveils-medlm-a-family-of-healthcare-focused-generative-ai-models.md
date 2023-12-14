@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/12/13/google-unveils-medlm-a-family-of-h
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/13/google-unveils-medlm-a-family-of-healthcare-focused-generative-ai-models/amp/"
 type: article
 quality: 103
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 800
         height: 528
         isCached: true
+  - title: "Google offers enhanced generative AI features for cloud customers"
+    excerpt: "Alphabet Inc.’s Google announced a slate of upgraded artificial intelligence features for its cloud-computing clients as the technology giant tries to catch up with rivals, including the allied forces of Microsoft Corp. and startup OpenAI, who have taken advantage of the AI boom."
+    publishedDateTime: 2023-12-14T02:28:00Z
+    webUrl: "https://www.theedgesingapore.com/digitaledge/news/google-offers-enhanced-generative-ai-features-cloud-customers"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 19
 
 secured: "DyYUEEK0mMj2hrELeE2XU17XdAu4wZy9i3INC7FFGljBQXABt5UJb//K6LL4Ejd1AUXYG0dqtBz6DEpahpjebRR623L7rFyQsbIfP5VB+Pr9AGgmNupsTceN6yBLjS5d9YQiQoeum962wA5PgdrfdyxlvTBOUMSvOIJGpc5dyHM4L86ruJsOA+FhgHY1opQHWXNd4eqMTm+O7Puxg3TWeb3PLi2PneNBEhBfyEpqsHTgImhDq2o/8jhBViWvxVXS1OjHBGFzEUFNLYXA30MJ0ATZo9h7b5VBell6xTiTHP60tB1uy7Y3JCwKcp9PKU7BSwxptKDd4YMdGpA1kYstHuMY8XB15WSP6RdyqqSE3KI=;4TTvyfTt/TCDgFvMSmPVzQ=="
 ---

@@ -25,72 +25,151 @@ images:
     isCached: true
 
 related:
-  - title: "Thoughts On Consent And Privacy In The Age Of AI"
-    excerpt: "As a crucial aspect of responsible AI and ethics in AI development and deployment, contestability ensures that individuals, organizations and regulatory bodies can scrutinize AI systems and hold them accountable for their behavior. Balancing innovation ..."
-    publishedDateTime: 2023-12-12T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/thoughts-on-consent-and-privacy-in-the-age-of-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/thoughts-on-consent-and-privacy-in-the-age-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/12/thoughts-on-consent-and-privacy-in-the-age-of-ai/amp/"
+  - title: "How AI Is Impacting Society And Shaping The Future"
+    excerpt: "As the dawn of artificial intelligence (AI) transforms industries and societies, we've engaged with visionary founders who are leading the charge."
+    publishedDateTime: 2023-12-14T00:46:00Z
+    webUrl: "https://www.forbes.com/sites/kalinabryant/2023/12/13/how-ai-is-impacting-society-and-shaping-the-future/"
+    ampWebUrl: "https://www.forbes.com/sites/kalinabryant/2023/12/13/how-ai-is-impacting-society-and-shaping-the-future/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kalinabryant/2023/12/13/how-ai-is-impacting-society-and-shaping-the-future/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 91
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/617ab75c1928bf93235ece8a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/657a5006c207ad19dd8da4dc/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1439
+        height: 900
+        isCached: true
+  - title: "Inside OpenAI’s Crisis Over the Future of Artificial Intelligence"
+    excerpt: "Split over the leadership of Sam Altman, board members and executives turned on one another. Their brawl exposed the cracks at the heart of the A.I. movement."
+    publishedDateTime: 2023-12-09T12:51:00Z
+    webUrl: "https://www.nytimes.com/2023/12/09/technology/openai-altman-inside-crisis.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 86
+    images:
+      - url: "https://static01.nyt.com/images/2023/12/08/business/08ai-openai-02/08ai-openai-02-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Three Trends Shaping The Future Of Cloud Migration"
+    excerpt: "Chetan Mathur is CEO of Next Pathway, the Automated Cloud Migration company."
+    publishedDateTime: 2023-12-12T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/three-trends-shaping-the-future-of-cloud-migration/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/three-trends-shaping-the-future-of-cloud-migration/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/12/three-trends-shaping-the-future-of-cloud-migration/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6553ad0f467501899dcb06a5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1351
         height: 900
         isCached: true
-  - title: "Here are 7 portfolio stocks that can benefit from bigger tech budgets in the age of AI"
-    excerpt: "The gatekeepers of information technology budgets at major North American companies are ready to start spending again."
-    publishedDateTime: 2023-12-12T16:00:00Z
-    webUrl: "https://www.cnbc.com/2023/12/12/here-are-7-portfolio-stocks-that-can-benefit-from-bigger-tech-budgets-in-the-age-of-ai.html"
+  - title: "Google’s AI Isn’t a Gimmick, It’s the Future | AI Unlocked"
+    excerpt: "Gizmodo chats with Google Bard’s product leader about what Google’s AI is currently capable of producing through text responses."
+    publishedDateTime: 2023-12-13T17:26:00Z
+    webUrl: "https://gizmodo.com/google-bard-ai-text-chatbots-jack-krawczyk-1851096226"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 59
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 69
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107273423-1689744131692-gettyimages-1328784596-robot-gui-pabel.jpeg?v=1697787710&w=1920&h=1080"
-        width: 1920
-        height: 1080
+      - url: "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/a198d33db5ba133829eb15eda8174b0e.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Will AI Spell The End Of The Contact Center Agent?"
-    excerpt: "The generative AI boom has every industry dreaming big about how the technology can be applied to increase efficiency."
-    publishedDateTime: 2023-12-12T14:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/will-ai-spell-the-end-of-the-contact-center-agent/"
+  - title: "How Machine Learning is Reshaping Industries"
+    excerpt: "In the era of digital transformation, machine learning (ML) has emerged as the driving force behind a revolutionary shift in industries worldwide. From healthcare to finance, manufacturing to marketing,"
+    publishedDateTime: 2023-12-12T14:50:00Z
+    webUrl: "https://www.timesnownews.com/education/how-machine-learning-is-reshaping-industries-article-105939900"
+    ampWebUrl: "https://www.timesnownews.com/education/how-machine-learning-is-reshaping-industries-article-105939900/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/education/how-machine-learning-is-reshaping-industries-article-105939900/amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "This mind-reading AI can turn thoughts into text"
-    excerpt: "A team of researchers from the GrapheneX-UTS Human-centric Artificial Intelligence Centre at the University of Technology Sydney (UTS) have reportedly created a portable, non-invasive system capable of decoding a person’s thoughts and turning them into text."
-    publishedDateTime: 2023-12-12T13:41:00Z
-    webUrl: "https://insights.globalspec.com/article/21585/this-mind-reading-ai-can-turn-thoughts-into-text"
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 61
+    images:
+      - url: "https://static.tnn.in/thumb/msid-105939904,thumbsize-372248,width-1280,height-720,resizemode-75/105939904.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Windows 12 and the coming AI chip war"
+    excerpt: "A Windows release planned for next year may be the catalyst for a new wave of desktop chips with AI processing capabilities."
+    publishedDateTime: 2023-12-11T06:19:00Z
+    webUrl: "https://www.arnnet.com.au/article/709727/windows-12-coming-ai-chip-war/"
     type: article
     provider:
-      name: GlobalSpec
-      domain: globalspec.com
+      name: ARN
+      domain: arnnet.com.au
+    quality: 54
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/shutterstock_571888840-100941708-orig.jpg"
+        width: 504
+        height: 315
+        isCached: true
+  - title: "Preparing for the future: Exploring what artificial intelligence in 2025 will look like"
+    excerpt: "Are you ready to step into the future? Brace yourself for mind-blowing innovations and revolutionary transformations as we dive deep into what artificial intelligence in 2025 will look like. Get set to be mesmerized by self-driving cars,"
+    publishedDateTime: 2023-12-13T16:08:00Z
+    webUrl: "https://techbullion.com/preparing-for-the-future-exploring-what-artificial-intelligence-in-2025-will-look-like/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 37
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/Artificial-Intelligence-3.jpg"
+        width: 1000
+        height: 500
+        isCached: true
+  - title: "The Rise of Artificial Intelligence: Transforming Industries and Reshaping Our Future"
+    excerpt: "In the annals of technological evolution, few advancements have sparked as much excitement, speculation, and transformative potential as Artificial Intelligence (AI). The rise of AI has become a defining narrative in the contemporary tech landscape,"
+    publishedDateTime: 2023-12-11T22:12:00Z
+    webUrl: "https://techbullion.com/the-rise-of-artificial-intelligence-transforming-industries-and-reshaping-our-future/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 34
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/Artificial-Intelligence-1-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "How Artificial Intelligence Is Transforming HR Practices"
+    excerpt: "Artificial intelligence (AI) has taken various industries by storm, with human resource management (HRM) being no exception. With a variety of AI tools, businesses in several industries are reaping the rewards of innovative technology to optimize their HR operations."
+    publishedDateTime: 2023-12-12T02:03:00Z
+    webUrl: "https://thebobs.com/how-artificial-intelligence-is-transforming-hr-practices/"
+    type: article
+    provider:
+      name: The BOBs
+      domain: thebobs.com
     quality: 19
-  - title: "New portable, non-invasive AI system turns thoughts into text"
-    excerpt: "Australian researchers have developed a portable, non-invasive system that can decode silent thoughts and turn them into text using artificial intelligence (AI). The technology could aid communication for people who are unable to speak due to illness or injury,"
-    publishedDateTime: 2023-12-12T22:29:00Z
-    webUrl: "https://www.canindia.com/new-portable-non-invasive-ai-system-turns-thoughts-into-text/"
+  - title: "How Visual AI Is Transforming the Conventional School Safety Model"
+    excerpt: "Join this free webinar to learn how visual AI can be used to create a proactive and adaptive approach to physical security and emergency response for schools and campuses."
+    publishedDateTime: 2023-12-13T14:15:00Z
+    webUrl: "https://www.campussafetymagazine.com/webcast/how-visual-ai-is-transforming-the-conventional-school-safety-model/"
     type: article
     provider:
-      name: Canindia.com
-      domain: canindia.com
+      name: Campus Safety Magazine
+      domain: campussafetymagazine.com
     quality: 19
-  - title: "Enhanced Regulation for Artificial Intelligence Unveiled in Landmark EU Agreement"
-    excerpt: "In a significant development, negotiators from the European Parliament and EU member states have reached a consensus on more stringent regulations governing the use of artificial intelligence (AI) within the European Union."
-    publishedDateTime: 2023-12-12T13:08:00Z
-    webUrl: "https://themunicheye.com/enhanced-regulation-for-artificial-intelligence-unveiled-in-landmark-eu-agreement-5541"
+  - title: "Charting the Emerging Geography of AI"
+    excerpt: "As the AI power centers emerge and shift around the world, they will shape which AI applications are prioritized, which societies and sectors of the economy get the most benefits, what data are used to train algorithms,"
+    publishedDateTime: 2023-12-12T13:24:00Z
+    webUrl: "https://hbr.org/2023/12/charting-the-emerging-geography-of-ai"
     type: article
     provider:
-      name: The Munich Eye
-      domain: themunicheye.com
-    quality: 14
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 17
 
 secured: "bRLjzlrWRvDYZ/rqZHZtyTKg+6TM18ND29Y/m64MRvkdrGlCdWpaQiaZqDg0MHFRBDOUHmCcB3p9jRRPhVYq+tiXCaeXhGU+Huwwl4wguH0Nkdq24pdT9K53q9vSXbh01hKq1+mCl0OVHyk9v7HrC7g15CoMpnTqzAD7x/fu/A8XJd6s4d3KUw8crOQxw5+oSRW7bLaAH4i4vEuQzFik8XhxX/yuiX0NBMqA8yuionknCHWyGgroT3spcT3RcEV9fC/HIZe2pOUQB7yJIqF0DBvO02l+rO2AwISYHKZ17XRllQihwTYf11fAHAB1dcAiyg67mUPert98vK3Mf4mrub5oe1yLxie3T4lTeGsLChJasxgLVWwuRGwY22vB5AZb1kHhCu9RsXHruZ5vTUWwZOppx7oebVTqLE3DtKuQ0D9G1pa9AS1vjnC3DOzOvBd8nKdvxMSSXexf95dSb/1AkFFBdUODNDyJWRwL7+mhG1gBJqYMNPyDxCpyCnUQaNauxmCic1vWsRqmC2Fhi8ctOg==;wSRN78dIjXYodRfcJfi4jg=="
 ---

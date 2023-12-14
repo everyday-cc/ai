@@ -9,7 +9,7 @@ ampWebUrl: "https://appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blow
 cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1312
     height: 800
     isCached: true
+
+related:
+  - title: "NVIDIA AI GPU shipments expected to surge 150% year-over-year in 2024"
+    excerpt: "Analyst expects NVIDIA AI GPU shipments to surge another 150% year-over-year in 2024, led by the new H200 GPU and next-gen Blackwell B100 GPUs."
+    publishedDateTime: 2023-12-14T01:02:00Z
+    webUrl: "https://www.tweaktown.com/news/94956/nvidia-ai-gpu-shipments-expected-to-surge-150-year-over-in-2024/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 54
+    images:
+      - url: "https://static.tweaktown.com/news/9/4/94956_115_nvidia-ai-gpu-shipments-expected-to-surge-150-year-over-in-2024_full.png"
+        width: 1500
+        height: 857
+        isCached: true
 
 secured: "vFRFFjKrN7mIq7902RgDiLG9U240Q9/uNZR1cAIufhS+Ommritz0DW2vLEbEEgT55CLfEb2srkNpEaQbkVX4l2qa/kjJnM5Td0mdpMsrqRkiGUn5wCOYKHXt9juts0VZhvTtdff7m/OxCtm4I+32lziEDlOWvlhnDkmkGJkUPV+Hc1+DgWZsKpPpufpiNeIUiePe6l5txw9DWjCntwkIaS6EDmSoPagRlUkPq4SQKyR39QJvivQV6YzalQ03/ijoYkopx20EMCL0dSRvcPVkGfbYuVX57AzADTPfqUI00TixEbRoeBq5wCE34uL9iDnE6BXBIy37Yz0QgOVLwRYYjFRbQS6Q+QnHaMypcvRaVQrOdXepI2Tsw7qvOC+USTJuf1O6QXA2J1JCjzImfgkJwEgtoXtqxW0udrY+mnLow/s4tXll3H2stAVvWeOfbBPFxcjaJ+sWwjLSMlCNxdUHmKMCoQq7ANV9bY42zYN168n6o8QVDNZ1XhK113HoiC2Fni5fi9O4ds5O19X1bTuVEg==;mBm4HhxHUVwXXmEFRsWMcQ=="
 ---

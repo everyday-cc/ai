@@ -153,15 +153,6 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "Microsoft to double Azure cloud capacity in Germany by early 2024"
-    excerpt: "Microsoft is to double the capacity of its Microsoft Azure cloud data centres in Germany by early 2024 to meet customer demand. It will achieve this by significantly expanding the country’s largest data centre hub,"
-    publishedDateTime: 2023-12-13T14:55:00Z
-    webUrl: "https://www.technologyrecord.com/article/microsoft-to-double-azure-cloud-capacity-in-germany-by-early-2024"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 34
 
 secured: "7Z4eI2sfd+AdQSBZLhX0nmRlrstjsWdXtU1BbGMyiPZVTNvcp8t1u2xabaS3o/Mlj/43g+hljaaSrdCbVpC6pUNZmVCJymtOkHYrl9c9PbeoEHRLGeYMofQFDZvx+0Yx4g+xxRcNG58OtmZcb+xygh9SCUHU90KELJN16a4UmYep23/MIcsdn9ZOw9HiZby2KBL3oLKEor7OW9sbE8EWILL0J4mlEw5myOfBJxiDdq92cHcKZAf+zG+4ILq77SuqZlbb9vzqezbxSQ5j6QC3EOqpik2pVQPDhvJUIQVwAgJgtZuC7HY/95WCECoKgqe1hdDACjvMfDBVJr/kdIBLWY0dIBgNUJa+pqqg8Eq+S0cfpCHNM/lyY9MnuzDIdQh3Kalrro8TG62M/aPW9B8MqJZ0bNioUeTinbDnO66fri+kmFjZiInvUsNDwpjRrZ6xYg4tXFIfm5kvwBn9AdP58536jomIfwpX/wzmLxeR/XTdz7VLMuB1cfO/1AMCzxmfQx4BEtrtgdIRzLtqdnrepA==;/8TOKpBkdbvuumgzGJCEHA=="
 ---

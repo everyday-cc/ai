@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/12/217808-2024-fintech-highlig
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/12/217808-2024-fintech-highlights-include-ai-personalization-embedded-finance-marqeta-experts/amp/"
 type: article
 quality: 66
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "The evolution of Wally, from expenses tracking to personal finance AI"
+    excerpt: "Resilience is often highlighted as an important skill for entrepreneurs to have and few have shown as much resilience as Saeid Hejazi"
+    publishedDateTime: 2023-12-14T02:01:00Z
+    webUrl: "https://www.wamda.com/2023/12/evolution-wally-expenses-tracking-personal-finance-ai"
+    type: article
+    provider:
+      name: wamda
+      domain: wamda.com
+    quality: 54
+    images:
+      - url: "https://cdn.wamda.com/feature-images/efd40ab2726398a.jpg"
+        width: 900
+        height: 500
+        isCached: true
   - title: "Swift Invites Fintech Pioneers to Join AI-Based Cross-Border Innovation Challenge"
     excerpt: "Swift launched \"The Innovation Challenges\" that invites fintechs to create AI-based solutions to improve cross-border transactions."
     publishedDateTime: 2023-12-12T04:36:00Z

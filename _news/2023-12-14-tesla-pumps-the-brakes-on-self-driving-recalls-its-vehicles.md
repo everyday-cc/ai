@@ -39,6 +39,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "The self-driving safety concerns that led to Tesla’s recall of 2 million cars"
+    excerpt: "Tesla has recalled 2 million cars, nearly all of its vehicles sold in the U.S. since 2012, because of issues with its self-driving features. Safety regulators have investigated nearly a thousand crashes involving Tesla's autopilot system,"
+    publishedDateTime: 2023-12-13T22:25:00Z
+    webUrl: "https://www.pbs.org/newshour/show/the-self-driving-safety-concerns-that-led-to-teslas-recall-of-2-million-cars"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/show/the-self-driving-safety-concerns-that-led-to-teslas-recall-of-2-million-cars"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/the-self-driving-safety-concerns-that-led-to-teslas-recall-of-2-million-cars"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 56
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2023/12/recalled-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Tesla issues recall for almost two million of its cars due to faulty self-driving tech"
     excerpt: "Self-driving vehicles will remain in the world of science fiction as Tesla is recalling two million of its cars to prevent drivers from misusing the Autopilot function."
     publishedDateTime: 2023-12-13T20:20:00Z
@@ -76,7 +92,21 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tesla ‘recalls’ 2m cars over self-driving feature"
+    excerpt: "Chronically bad drivers could be blocked from using Tesla’s Autosteer feature after US road safety authorities forced the electric vehicle maker to issue a ‘recall’ that will improve the feature on all of the more than 2 million cars it has sold in the US and Canada since 2012."
+    publishedDateTime: 2023-12-14T02:37:00Z
+    webUrl: "https://ia.acs.org.au/article/2023/tesla--recalls--2m-cars-over-self-driving-feature.html"
+    type: article
+    provider:
+      name: ia.acs
+      domain: acs.org.au
+    quality: 39
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/tesla%20self%20driving%20update.jpg"
+        width: 1000
+        height: 563
+        isCached: true
 
-secured: "6X3OKBm5IPtrU8rSFGGSkI1kMlBdekAGvd9m7ilfkQdVEzZ6P5wKHwvLp/5LgQerWCibdXc8ZVaJUvzzpdWWIzp8vYdcNhCKuzH1BZRJNHH9IpUCNYTIQtr/+zoKaBSmbb1GxuBo/c4rzhDajGYOq6dTPetkUgtVakWk/tfZLJSKmPBaUrA6D6we4gmxdeEZgkcXvZHi8VrKPpsl+WR46bAXsveeg2VUUWJPYRq1TaQvspTXptUN0VKCtLLzEF1w9vB4ei2vIQN6qfri34RgPVA8MZ6WH9Acf1h6ZzDUhT0nY/FBWSGRhFKLw4fqU+1nY6sECyz6rcOPNBEPAMwAkyv65vbWyf3OX6q1d6CB46w=;+T/zhTAdA451JjgHWA873Q=="
+secured: "OS+DTRThiM/y6BNhVyKUz85Hzrrilpx6AGC6NnJL2td9NeechAJ4iRGq/1b7xDs78aY4HF+dnfvaEmfd2Ci43OOKo0uJecwDnECW0vjBpYIc/T0DbCbtlf1nol3V7pBoZmCc6yR1sOkf+dFfrkuJdrCRly9gmYSHm7c/891VDgDTdxe3grNdarOaLHrWuVC6LJ3Nwdb30P4inB9Rsl6emtBOpid/HbijrhhzLrjdYM2RosSbCg4LSalm6AUaSBJJ5c1oAvmN+ynWhSUY1awwIPmV+ere/y9byeZUMWQCAjb0U/F6Oc57DOe03uprXe9JZRYVXcZfpQfdyW+1qmhnlSvlA9o9bTB1z7ojf+x52xqzzv25Sht/PqX+gLdLJwIuv3LmXwmFPtJhayTFhH4ENUv3hRfyy74ab+8ahPWkVyGssV7PsAC5VLWnafsHstzeyJ7B53MLEu9wKO+tZZh/AhLhajT9/J9FYTkqgoT1EKHxZGEnB9ZgonTvth5Mp6RSC2NCUldCcApUatb0FEIwBw==;Kjtz7396I0QPVteND+OK/g=="
 ---
 

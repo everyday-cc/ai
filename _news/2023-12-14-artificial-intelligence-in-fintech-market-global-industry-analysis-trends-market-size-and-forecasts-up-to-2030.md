@@ -49,6 +49,20 @@ related:
         width: 1024
         height: 567
         isCached: true
+  - title: "Quantrack, a securities analysis AI funded in the fintech powerhouses of the US and the UK"
+    excerpt: "SEOUL, South Korea, Dec. 14, 2023 /PRNewswire/ -- Quantrack utilizes innovative AI technology to analyze intricate information essential for stock investment, presenting a \"single indicator\" that is easily comprehensible to anyone. The platform is acknowledged for its global scalability, with 17% of its user base hailing from overseas."
+    publishedDateTime: 2023-12-13T00:00:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/12/13/9933760.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 29
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "The 10 Top Technical and Business Trends of 2024"
     excerpt: "Another key trend in 2024 will be the next evolution of sustainable technology. This includes clean technology, green technology, and climate technology. As one of Gartner's top strategic technology trends for 2024, sustainable technology is a framework of digital solutions that drive Environmental, Social, and Governance (ESG) outcomes."
     publishedDateTime: 2023-12-11T10:45:00Z

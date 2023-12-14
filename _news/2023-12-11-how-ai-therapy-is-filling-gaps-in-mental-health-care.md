@@ -2,17 +2,17 @@
 category: news
 title: "How AI therapy is filling gaps in mental health care"
 excerpt: "And for some users, they’ve been beneficial. 80 percent of people who used ChatGPT for mental health advice reported it was a good alternative for therapy, according to Business Wire. The majority of Americans don’t believe AI therapy will help more than it hurts, but that’s not stopping innovations in artificial intelligence and therapy."
-publishedDateTime: 2023-12-11T02:36:00Z
-originalUrl: "https://www.wlrn.org/2023-12-10/how-ai-therapy-is-filling-gaps-in-mental-health-care"
-webUrl: "https://www.wlrn.org/2023-12-10/how-ai-therapy-is-filling-gaps-in-mental-health-care"
+publishedDateTime: 2023-12-11T03:35:00Z
+originalUrl: "https://www.boisestatepublicradio.org/2023-12-10/how-ai-therapy-is-filling-gaps-in-mental-health-care"
+webUrl: "https://www.boisestatepublicradio.org/2023-12-10/how-ai-therapy-is-filling-gaps-in-mental-health-care"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: WLRN
-  domain: wlrn.org
+  name: Boise State Public Radio
+  domain: boisestatepublicradio.org
 
 topics:
   - AI in Healthcare
@@ -123,6 +123,6 @@ related:
         height: 372
         isCached: true
 
-secured: "Vgo4KRry8/SgZTYCm6xSp4uWrThg1+xobtSbHvq+6ZVsI3jZazxJhWK6TY1MkiRL7iC6FERzrW4R8b9jASqCYIQLkIDA+lIi7j99qys74jE9gRtvG+tA8Wa/+oYkEQGCZRBRtRJ8S/reCa7bwmB2s/xLdPEycI2pYQ+ZQ0digRXOC8TlUzttMh4Vt/QeJwcx716D0xswUoda5XhhWFYDiIIZwFT0Yd+FIVR1K4ysEcJjActxhEgESIucRlNHm9k5cTZ+CwdzO29Co+jBU8xb4hyI21UhhqTiP8/BifAedbPED7M10gA6zclze0db6PkIliMT9INCADdx56zpd8eCNfiSyuQcs/gXb3YxRXw70Bo=;J7tZcZZxSXRayjtfYJAM8Q=="
+secured: "TSzBeYgD3F/E45Ukm8mNrLS8Y0f/zIMeBEBen7zZfU+TcgWAeEhp/HSxxD+froi9mt/QgKTUJMbmKZy4TMcfxrV+rXqHL+ThIWTpR69gRUapp5cRFRPKGuYdJ10ncbQvJx8Bp1LIiOcoiwLGEtaMaJwkVRT3TO8j1P7QQufGDPgorGDZ2oooPKGCYzJ/6TpDm8S2fiwRvyzjQdYetPBPPx6IIZjTLkO4Gd05Y+u+C4fQktfvxnkODZ5H1oNQAogScD5pN6SVH+xUJrAYiCKFX9wh9wDBA+u8isxGLnBo3Ecy31S0MqeADa4lcA+vN7SbZ/tsbUa1hVWhAJq6h4cv5K0Ig1brEcMlrEFKhwVtsi4=;ZonO+7VSYmATo6F+r5JpJw=="
 ---
 

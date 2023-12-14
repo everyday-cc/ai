@@ -25,6 +25,34 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft and Oracle announce that Oracle Database@Azure is now generally available"
+    excerpt: "We are excited to share that Oracle Database@Azure is generally available in the Azure United States East region, with more regions coming in 2024. You can now use Oracle database services running on Oracle Cloud Infrastructure (OCI) hardware deployed in Azure data centers. This streamlines the migration"
+    publishedDateTime: 2023-12-13T13:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/blog/microsoft-and-oracle-announce-that-oracle-databaseazure-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 113
+    images:
+      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/12/MSC24-India-business-Adobe-550638570-rgb-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
+  - title: "Create new ways to serve your mission with Microsoft Azure Space"
+    excerpt: "As customers and partners have adopted and experimented with the Azure Space portfolio, new and interesting use cases are emerging that illustrate what’s possible. Today, we are excited to share some of those customer stories, along with updates for Azure Orbital Ground Station, Azure Orbital’s software"
+    publishedDateTime: 2023-12-11T17:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/blog/create-new-ways-to-serve-your-mission-with-microsoft-azure-space/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 104
+    images:
+      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/12/MDC22_AzureOrbitalGroundStation_032-social.jpg"
+        width: 943
+        height: 628
+        isCached: true
   - title: "Oracle Announces the General Availability of Oracle Database@Azure"
     excerpt: "Oracle database services running on Oracle Cloud Infrastructure are deployed directly in Microsoft Azure datacenters AUSTIN, Texas, Dec. 13, 2023"
     publishedDateTime: 2023-12-13T13:26:00Z
@@ -34,6 +62,29 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
+  - title: "Microsoft Announces Git Partial Clone Support in Azure DevOps"
+    excerpt: "Azure DevOps has recently extended support for Git Partial Clone to all its users. Partial clones represent a streamlined version of git clones initiated through specific command line arguments. Repositories that employ partial clones have demonstrated an average reduction of 88."
+    publishedDateTime: 2023-12-10T15:33:00Z
+    webUrl: "https://www.infoq.com/news/2023/12/git-partial-clone-azure-devops/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 54
+    images:
+      - url: "https://res.infoq.com/news/2023/12/git-partial-clone-azure-devops/en/headerimage/generatedHeaderImage-1702179442226.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Microsoft to double Azure cloud capacity in Germany by early 2024"
+    excerpt: "Microsoft is to double the capacity of its Microsoft Azure cloud data centres in Germany by early 2024 to meet customer demand. It will achieve this by significantly expanding the country’s largest data centre hub,"
+    publishedDateTime: 2023-12-13T14:55:00Z
+    webUrl: "https://www.technologyrecord.com/article/microsoft-to-double-azure-cloud-capacity-in-germany-by-early-2024"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 34
   - title: "Oracle Announces the General Availability of Oracle Database@Azure"
     excerpt: "The first Oracle Database@Azure service is now generally available in the Microsoft Azure East US region. Oracle will"
     publishedDateTime: 2023-12-13T19:06:00Z
@@ -43,6 +94,15 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 34
+  - title: "8 Key Announcements At Microsoft Ignite 2017"
+    excerpt: "Microsoft Cognitive Services Updates Microsoft said that its collection of APIs for AI capabilities, Cognitive Services, has received some enhancements that developers should find useful."
+    publishedDateTime: 2023-12-10T05:17:00Z
+    webUrl: "https://www.crn.com/slide-shows/cloud/300092651/8-key-announcements-at-microsoft-ignite-2017"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 19
 
 secured: "ITtUbtEGKzZ1b/XVvIe9b0+T9NCkPI/UL0tP5jVh77R5jeIiiZh1KpjntqJ0e2fGyxWNKkACcbnmPAK3gJtqxgeGxVk8Yz420vAk218aq4AfIFLXhf9w/ICj3iDfenmCLTjnMbgA81akQ8ug+PiKgkEVWhhXRW5KovR5PKupOa5Ew7ptsQpUXzeB7yXy8FINr5bmZe3gkep8pFa+xCb90xdnixhaFwmj2JOUi2WQs5X33bM8KZlFgbXeKK2j4OsKcEwnjuqRL0eAibBUxV2mJ/qCU0ZzCN6NA76hOMW2DuFtnA9ThMc4DwVx/yLf/1YKCQHc8ZEZJrlFLeykuMeBgSlBZdsj2PFHMvnOuGraJPO2bvOlhwFNumRPvd+/ElKFhyPVISOeCIPKMvkAT5+Hesxc0gA/py9kJPKJeWAnZ96lqtkirhsRkWAbJmFA40P+zCkXX1Dv07PonNHjO5Bw3EJF4T+vUXbANpC2Udh0vP3wHNDxYtbA+NtNbvh4HFhVLeatf8CcTKyLZL6tEzjKLQ==;rqIdnyfO/X2pP25plgIAJw=="
 ---

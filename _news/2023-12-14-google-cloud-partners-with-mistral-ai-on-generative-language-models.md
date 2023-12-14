@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 802
         isCached: true
+  - title: "Google offers enhanced generative AI features for cloud customers"
+    excerpt: "Alphabet Inc.’s Google announced a slate of upgraded artificial intelligence features for its cloud-computing clients as the technology giant tries to catch up with rivals, including the allied forces of Microsoft Corp. and startup OpenAI, who have taken advantage of the AI boom."
+    publishedDateTime: 2023-12-14T02:28:00Z
+    webUrl: "https://www.theedgesingapore.com/digitaledge/news/google-offers-enhanced-generative-ai-features-cloud-customers"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 19
 
 secured: "AskHJr+fUjgxAGlAqvd6wPR4m9dACqDp2ZMxM8qRkuWvr89ejOlOmujdWfLxxE1MWtivhHa2zhvNV93F3wOOjru3DjP+GJMcQDV9C1iH5XKJ8xknePxJ+tdVcyCxMj1/7gIUWSczKMKyNP7OBKzt58Hvd1WS/LrooJfQTk6lBUXybLsNc20DTxyXjKeTCm6t2sKoQiSAcgfYPm+MtNLFb9zfeWVDNKIwSkLjCt+07tRMUe8k+R40WE1cUOxPMXmEVIP4HgzBNom4WAP/oMD+6Wws4uN3a4OVq6xs0VZOnZpcb/ZErEKNHciCD/RWX1vOgh3VYIXEZ3Kpt8bSbbXDmwl/xb413fpyQagqtL3mzXI=;QvPMJxryrABj0z/7Wnux2w=="
 ---

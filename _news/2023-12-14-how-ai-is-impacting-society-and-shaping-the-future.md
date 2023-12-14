@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/kalinabryant/2023/12/13/how-ai-is-impactin
 ampWebUrl: "https://www.forbes.com/sites/kalinabryant/2023/12/13/how-ai-is-impacting-society-and-shaping-the-future/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kalinabryant/2023/12/13/how-ai-is-impacting-society-and-shaping-the-future/amp/"
 type: article
-quality: 89
-heat: 189
+quality: 91
+heat: 201
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/657a5006c207ad19dd8da4dc/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
@@ -60,6 +61,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6553ad0f467501899dcb06a5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1351
         height: 900
+        isCached: true
+  - title: "Understanding the world of AI and robotics at the FAIR"
+    excerpt: "The Festival of AI + Robotics, the FAIR is a two-day event promising to ... be able to connect with people on the floor to give them advice,” she said. Another element will be a startup showcase, which Müller said will be relevant to those visiting ..."
+    publishedDateTime: 2023-12-12T02:09:00Z
+    webUrl: "https://www.itnews.com.au/video/understanding-the-world-of-ai-and-robotics-at-the-fair-603411"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 69
+    images:
+      - url: "https://i.nextmedia.com.au/Videos/16.2-FAIR-Medium-Rectangle-300x250.png"
+        width: 300
+        height: 250
         isCached: true
   - title: "Google’s AI Isn’t a Gimmick, It’s the Future | AI Unlocked"
     excerpt: "Gizmodo chats with Google Bard’s product leader about what Google’s AI is currently capable of producing through text responses."
@@ -161,6 +176,6 @@ related:
       domain: hbr.org
     quality: 17
 
-secured: "Q6k7WCd/5O6K/ltuR1LaD4hOuwb89RTo1EdzSY8iajB+HwHFjTJPRYRE55vkcAq3bld70Y8yMiJdIQtkSYQp6Q28i7yAM7j3ws6iwOMUargda72qFZwHhvnvWMD82EQK34ub+iSc0Ss9Y2G77zr8/G2aRh123/+bxqpIGealy138PBJPjqwP1VFAzNGxF2KKGvN9Ph02Lcmfz0iC6zGZEHIE0B68tOt1QtXU7Dy776hX4o3YtzuWw8wqtMBficZhaY/Kh9TaXgL7g9EzrQ9GkgxVMM9QXc5R8Ru7B+ZGM01oCQIFsJ/8Jti+/+yLjc8Xysi1y5Ctok8z/WmHc+Qh2jvR1JY38xTV5Sor6qnMsfM=;AFKwq6td+UNydZ+pBGew2g=="
+secured: "O4vcxPV82wA9AtdjQdWdGXqCjypO3/utDvDcjTXxDAWOA851Wv+ma+bw+gOBxmmqQIqKHTddqEGRwy5E0agl0oU6jiN5fSKFkQKX5bQlqVlWRwvbU7Rf/iPpEQ+hLRLgVw6zJXviIK7v5u3CEqnwvaQJcELFqvu+WeZaMrJP7gnjiZfW6Z4+I5guVVtrNNVy3eBjAejqIWSZ44eOpHhbInnOSlcx4jjd+nXoVHDRayTTSACRvypHbopAYP5pE9dPPRUPeOeimRIiv2Q7681F0Ks9zXB2DVDkpeuvywR0L3v5ykvJRLg98yWnZPJb2avWpPONr6Ew8B/IkLb99E8I6l440kEH82xA5v5ZhMHAHh03oat9hhyY0ju3HBj1UllY4frWjDZeF7X5+SC5q0yMm32AF+NQ3Ns8iuNgJYKWTdGAqp4CKMfRM7VhRk5UKBWaO9hz6qV1nSIN9xgRVUv20jU2UlLUqru+4UP4wVQlu3//Jsuu0X5SGDfxFTNays8aDVHSmUnRycqMi7Mkt53v5g==;VGoSyxoijaS/6cBCCC2Ocw=="
 ---
 

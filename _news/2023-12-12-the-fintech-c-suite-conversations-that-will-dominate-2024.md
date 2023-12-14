@@ -35,6 +35,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "The evolution of Wally, from expenses tracking to personal finance AI"
+    excerpt: "Resilience is often highlighted as an important skill for entrepreneurs to have and few have shown as much resilience as Saeid Hejazi"
+    publishedDateTime: 2023-12-14T02:01:00Z
+    webUrl: "https://www.wamda.com/2023/12/evolution-wally-expenses-tracking-personal-finance-ai"
+    type: article
+    provider:
+      name: wamda
+      domain: wamda.com
+    quality: 54
+    images:
+      - url: "https://cdn.wamda.com/feature-images/efd40ab2726398a.jpg"
+        width: 900
+        height: 500
+        isCached: true
   - title: "Swift Invites Fintech Pioneers to Join AI-Based Cross-Border Innovation Challenge"
     excerpt: "Swift launched \"The Innovation Challenges\" that invites fintechs to create AI-based solutions to improve cross-border transactions."
     publishedDateTime: 2023-12-12T04:36:00Z

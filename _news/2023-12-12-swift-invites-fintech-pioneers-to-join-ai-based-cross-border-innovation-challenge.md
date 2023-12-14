@@ -41,6 +41,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "The evolution of Wally, from expenses tracking to personal finance AI"
+    excerpt: "Resilience is often highlighted as an important skill for entrepreneurs to have and few have shown as much resilience as Saeid Hejazi"
+    publishedDateTime: 2023-12-14T02:01:00Z
+    webUrl: "https://www.wamda.com/2023/12/evolution-wally-expenses-tracking-personal-finance-ai"
+    type: article
+    provider:
+      name: wamda
+      domain: wamda.com
+    quality: 54
+    images:
+      - url: "https://cdn.wamda.com/feature-images/efd40ab2726398a.jpg"
+        width: 900
+        height: 500
+        isCached: true
   - title: "M2P Fintech acquires Goals101 for data-driven personalisation in digital banking"
     excerpt: "Madhusudanan R, CEO and Co-founder of M2P Fintech, stated that the global banking technology landscape is experiencing a significant transformation, particularly in utilising data and AI across key areas such as customer service, product and portfolio ..."
     publishedDateTime: 2023-12-13T08:04:00Z
