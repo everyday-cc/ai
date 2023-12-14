@@ -1,0 +1,45 @@
+---
+category: news
+title: "Global Autonomous Cars Market Size To Exceed USD 55.6 Billion By 2032 | CAGR Of 36.3%"
+excerpt: "(MENAFN- GlobeNewsWire - Nasdaq) The Global Autonomous Cars Market Size was valued at USD 2.5 Billion in 2022 and the Worldwide Autonomous Cars Market is expected to reach USD 55.6 Billion by 2032, according to a research report published by Spherical ..."
+publishedDateTime: 2023-12-14T03:33:00Z
+originalUrl: "https://menafn.com/1107594111/Global-Autonomous-Cars-Market-Size-To-Exceed-USD-556-Billion-By-2032-CAGR-Of-363"
+webUrl: "https://menafn.com/1107594111/Global-Autonomous-Cars-Market-Size-To-Exceed-USD-556-Billion-By-2032-CAGR-Of-363"
+type: article
+quality: 17
+heat: -1
+published: false
+
+provider:
+  name: Mena FN
+  domain: menafn.com
+
+topics:
+  - AI in Autos
+  - AI
+
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?184041"
+    width: 444
+    height: 250
+    isCached: true
+
+related:
+  - title: "Artificial Intelligence (AI) in Breast Imaging Market Size is expected to reach USD 3.21 Billion by 2031 | CAGR: 28.6%."
+    excerpt: "Artificial Intelligence AI in Breast Imaging Market Size is expected to reach USD 321 Billion by 2031 CAGR 286"
+    publishedDateTime: 2023-12-13T14:49:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/274063665/artificial-intelligence-ai-in-breast-imaging-market-size-is-expected-to-reach-usd-321-billion-by-2031--cagr-286"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 30
+    images:
+      - url: "https://icrowdnewswire.com/wp-content/uploads/2023/12/icn882684-icnFinal_EMR-0120281292028129.jpg"
+        width: 300
+        height: 300
+        isCached: true
+
+secured: "jJUvoRfUbBDhk/hJjrtTU3BHDwzr09ffwVhWIDTv8RPz9hJ+9cZtseTypf1dftEw7cf7PZ+OWRD+kvMTCUL7nBfRZT9u5bzhLbT0TFzXWNaRyKCzT3+uHeuXMT/ff7iNtVWsRia5AW31pqCnrTICtYMenu/+zH7fsFyvVnYtndcx5h92w2nHW3MQRbLMMjnCYNnf/LlyYFY9nZC763oTK7N2OhobttNw//7wbknCLv7zSw91n2hkSLH13+i++PCYBQZAF0+fWUGVStDorqYm+e79hRpdoYpHz2evm07dBH0NOmgI6oeQWksx+x3lBsUmC/w10koH44QfB81sVRXhRrbKdcLkjbReacxA2na+G6o=;Q5YQiVEb9B/l4FWr8c3V4Q=="
+---
+

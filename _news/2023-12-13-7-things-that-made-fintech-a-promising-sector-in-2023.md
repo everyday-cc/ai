@@ -45,6 +45,20 @@ related:
         width: 1447
         height: 900
         isCached: true
+  - title: "VCs say 2024 tech trends to watch include more startup shutdowns, a defense-tech renaissance, and the rise of AI winners"
+    excerpt: "Top venture capitalists predict 2024's tech trends, from hot sectors they're eyeing, the hype that will fizzle, and the new realities of fundraising."
+    publishedDateTime: 2023-12-14T10:00:00Z
+    webUrl: "https://www.businessinsider.com/2024-tech-trends-predictions-top-vcs"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
+    images:
+      - url: "https://i.insider.com/657a292d50edbc52a863fe3c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Deciphering AI, cybersecurity governance and career transparency headline 10 trends to watch in CompTIA's IT Industry Outlook 2024"
     excerpt: "Tech companies and workers have generally positive feelings about the new year DOWNERS GROVE, Ill., Dec. 13, 2023 /PRNewswire/ -- The explosion"
     publishedDateTime: 2023-12-13T13:36:00Z

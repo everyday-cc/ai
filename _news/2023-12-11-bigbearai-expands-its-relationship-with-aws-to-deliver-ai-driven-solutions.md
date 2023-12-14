@@ -2,29 +2,59 @@
 category: news
 title: "BigBear.ai Expands its Relationship with AWS to Deliver AI-Driven Solutions"
 excerpt: "BigBear.ai continues to expand its capabilities to serve the commercial enterprise sector and is proud to advance this new effort with AWS."
-publishedDateTime: 2023-12-11T13:18:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/12/11/9931286.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/12/11/9931286.htm"
+publishedDateTime: 2023-12-11T14:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/bigbear-ai-expands-its-relationship-with-aws-to-deliver-ai-driven-solutions-1032889378"
+webUrl: "https://markets.businessinsider.com/news/stocks/bigbear-ai-expands-its-relationship-with-aws-to-deliver-ai-driven-solutions-1032889378"
 type: article
-quality: 52
-heat: 82
+quality: 62
+heat: 112
 published: true
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://images.tmcnet.com/tmc/world.jpg"
-    width: 1200
-    height: 627
-    isCached: true
-
 related:
+  - title: "GPAI meet adopts New Delhi AI declaration"
+    excerpt: "Further, the declaration also saw participating nations agree upon using the GPAI platform to create a global framework on AI trust and safety, and make AI solutions and benefits available for all. India also pitched to host a GPAI Global Governance Summit to finalize the proposed framework, in six months."
+    publishedDateTime: 2023-12-14T04:43:00Z
+    webUrl: "https://www.livemint.com/news/india/gpai-meet-adopts-new-delhi-ai-declaration-11702487342900.html"
+    ampWebUrl: "https://www.livemint.com/news/india/gpai-meet-adopts-new-delhi-ai-declaration/amp-11702487342900.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/gpai-meet-adopts-new-delhi-ai-declaration/amp-11702487342900.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/12/13/1600x900/GPAI_2023_full_delegation_1702487461909_1702487466925.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Global Partnership on Artificial Intelligence nations adopt New Delhi declaration"
+    excerpt: "This summit aims to finalise a comprehensive framework that encompasses shared principles for Safe and Trusted AI. The minister's announcement comes as the three-day GPAI Summit, which commenced on December 12,"
+    publishedDateTime: 2023-12-14T09:09:00Z
+    webUrl: "https://www.cnbctv18.com/technology/global-partnership-on-artificial-intelligence-nations-adopt-new-delhi-declaration-18568361.htm"
+    ampWebUrl: "https://www.cnbctv18.com/technology/global-partnership-on-artificial-intelligence-nations-adopt-new-delhi-declaration-18568361.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/global-partnership-on-artificial-intelligence-nations-adopt-new-delhi-declaration-18568361.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 54
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2023/12/gpai-1019x573.jpeg"
+        width: 1019
+        height: 573
+        isCached: true
   - title: "House Resolution to Analyze Artificial Intelligence Heads to House"
     excerpt: "Merski's team said he has previously advocated for steering AI away from nefarious actors and directing it toward being a beneficial, useful source for good in our society."
     publishedDateTime: 2023-12-13T18:25:00Z
@@ -47,7 +77,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 32
+    quality: 34
   - title: "Sony Semiconductor Solutions' Edge AI Sensing Platform AITRIOS to Expand Streamlined Solutions Through Partnerships with Retail and Logistics Players"
     excerpt: "Under the partnership with Microsoft since 2020, SSS and Microsoft continue to work closely, including SSS's ongoing participation in the Microsoft AI Co-Innovation Labs, which helps partners bring their solutions to life. In 2023 alone, SSS has become a contributor to Microsoft's newly opened San Francisco, U.S. and Kobe, Japan labs."
     publishedDateTime: 2023-12-11T18:31:00Z
@@ -63,6 +93,6 @@ related:
         height: 225
         isCached: true
 
-secured: "Lqu63rPncFnBsAWYrI58YA7kzxNuTQeWuuhG8E1F3O2viSMXuhUlflfBkvE+uXV0tbcYN3uk230qjO5Sz+vQBtS+cm3OLcUJB0gioz4mI0JVVr3yuDy9NY1fzs/LjP3Bk5kFjkVHejWbqwRlDLpElaUPfaPldIhdajRDCWqrCZSXUdkQMIoOCJ0AbPF6R671ITMJOpxJhsc6TdOS/ORmc0HHPrXjziOqZ6GYYnHvbGGbhDGNyndPhDWSVTOGPQsFzHHN0PnKUDGgAW8CXDjQ9QYpi8sW39unfg1xKwSXAJ9yUTSbi3cSbFTIdGUxSn0lBpYHnILn+CZFoaDYZAmjdUlePK1G7VwJIAC4wg838Cs=;b0SlCVDplACsjAIX30NJVQ=="
+secured: "iktDS/qwwLrb5Kh/xToB8IizdDAyFJ5/W6MxnzKP870LhA/bvAhKVxlnOGA9P+eCylA/yNS2/PqRUf4FJAdhKYxRWf8oZSUNWYohPGgEV5Bke6F3YYfUTaoJUaRiXZ1Ol5oJgIVDMZeGJQ7x3oqlzeEl29hpvw5E6S0FrZlIjvLQVOMyb1yK0nQ+mjHCACCeLaEuKZe58fpiMYDIf+l5vICXcVUPs0OgA9oUmzH0NBJtwszdKEGnVA8Xd3RAU+hzKXgNHr/XJ0WY5bYzhhbv2W98ouf4Kb41E1cnxEu4FYf9LyUDi2/UOMQiAXfkx94pxAkb5RCMLle8NSnzmv9R136tSzteg6FFyfBF8cKgll0=;NLlqYnrRkcThX7zYDAliuQ=="
 ---
 

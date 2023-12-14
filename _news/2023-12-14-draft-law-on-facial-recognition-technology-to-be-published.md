@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Draft Law On Facial Recognition Technology To Be Published"
-excerpt: "This new facial recognition technology or FRT would mean they can use biometric identification to search footage which would significantly speed up investigations. Following the D"
-publishedDateTime: 2023-12-14T07:35:00Z
-originalUrl: "https://www.98fm.com/news/draft-law-on-facial-recognition-technology-to-be-published-1624002"
-webUrl: "https://www.98fm.com/news/draft-law-on-facial-recognition-technology-to-be-published-1624002"
+title: "Draft law on facial recognition technology to be published"
+excerpt: "Bill will help gardaí trawl through thousands of hours of CCTV when investigating serious crimes, Helen McEntee says"
+publishedDateTime: 2023-12-14T10:15:00Z
+originalUrl: "https://www.irishtimes.com/crime-law/2023/12/14/draft-law-on-facial-recognition-technology-to-be-published/"
+webUrl: "https://www.irishtimes.com/crime-law/2023/12/14/draft-law-on-facial-recognition-technology-to-be-published/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Dublin's 98FM
-  domain: 98fm.com
+  name: The Irish Times
+  domain: irishtimes.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://media.radiocms.net/uploads/2020/10/supervision-1674614_1920.jpg"
-    width: 1920
-    height: 1280
+  - url: "https://www.irishtimes.com/resizer/gJ4MIXUU4-aNv2dWvdirPwJu8N4=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/WGSE7J3PY5HFLAAVS6Z5DH2BPQ.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -56,6 +56,6 @@ related:
         height: 900
         isCached: true
 
-secured: "oim1t2x2oQx+2trGFgAtMJCKOAZVazmvIQYsiAwZoGGGlEQBsWwy16GkZlHgWal+t9LyjSsh+Xwi00CipROKx2eGGoJ4dmZGiZsZNc60J5G++qKQqHidfHeUlHpLWiSsPFVQdEcHcmrAqud84mEnvI3MAV52Y8eskGJ3IRRpbQJn5ZbNxWhSBq7ljwkVggIgda0wGXqj1iCPZXwZa530+lYB38KUdlxJfkjF99QDJUC1LwVjDJAA1CcxovYqJlZ0ftymzQgidyK77ugoyKuWM9MOUZ7Iib2Uydy4jvVIWOykup/rrybDeizd9M3M+qDQvERQDvlE8Rsrz+kawpezfdGfArWRZssJVC3/xPSsMAA=;KEXiFEZhhxyyA+XTQq9olA=="
+secured: "Qq3ZbkMz/0+ws1jPpWMUG2/XXqePeVOpl5RW7gDzvGOeBXKxx5V/kf1FANherFdv+ZGm1xQquATR7mNjFuYIb8vvD/K5uJ1FPwoYNGqo3HpiPrm1E7HEzHNYbH3XZskhnHC8IEpMg1z2mngmpU1JBdEErBCaB/UBLa1nbtP56IcRy6uIgZQaZ7Hn7bG84bPdJvov76mOjazJe8TbNhIQsE0Ca4cy/opNAF+7sereKhFUzofoMQQ/vc6F1CiXFNZTpaDRCsP2uuBZFquyuLkpxvtYtjIKU/3Uh6vkpzxlEeIgev0rj/Hj2eRQq+s1SNhMr7ykwcTUba1UdCSPVthlET2zlELzep92rBn81iWEZts=;dJazI/XQZs5P9lfSy2Va6g=="
 ---
 

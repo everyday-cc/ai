@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/kalinabryant/2023/12/13/how-ai-is-impac
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kalinabryant/2023/12/13/how-ai-is-impacting-society-and-shaping-the-future/amp/"
 type: article
 quality: 91
-heat: 205
+heat: 215
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6553ad0f467501899dcb06a5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1351
         height: 900
+        isCached: true
+  - title: "The future with Artificial Intelligence: AI-ming for enhanced travel experience"
+    excerpt: "In astonishingly little time, Artificial Intelligence has swept through the travel industry and significantly transformed it by improving processes up and down the chain. Indications are it is going to get all the more ubiquitous."
+    publishedDateTime: 2023-12-14T09:56:00Z
+    webUrl: "https://www.moneycontrol.com/news/trends/travel/the-future-with-artificial-intelligence-ai-ming-for-enhanced-travel-experience-11904561.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/trends/travel/the-future-with-artificial-intelligence-ai-ming-for-enhanced-travel-experience-11904561.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/travel/the-future-with-artificial-intelligence-ai-ming-for-enhanced-travel-experience-11904561.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 70
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/12/Artificial-Intelligence-and-Travel-1.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Understanding the world of AI and robotics at the FAIR"
     excerpt: "The Festival of AI + Robotics, the FAIR is a two-day event promising to ... be able to connect with people on the floor to give them advice,” she said. Another element will be a startup showcase, which Müller said will be relevant to those visiting ..."

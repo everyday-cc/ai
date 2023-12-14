@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Chalk Secures $10M Seed Funding to Power Machine Learning and AI"
-excerpt: "Chalk, the data platform for machine learning, announced today that it has raised $10 million in seed funding led by General Catalyst, Unusual Ventures, and Xfund. Chalk’s computation layer and LLM toolchain enable world-class teams to orchestrate data for real-time decisions."
-publishedDateTime: 2023-12-12T18:00:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/chalk-secures-10m-seed-funding-to-power-machine-learning-and-ai/article_5ebab127-751b-51df-a570-708dcfa32ae0.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/chalk-secures-10m-seed-funding-to-power-machine-learning-and-ai/article_5ebab127-751b-51df-a570-708dcfa32ae0.html"
+excerpt: "Chalk, the data platform for machine learning, announced today that it has raised $10 million in seed funding led by General Catalyst, Unusual Venture"
+publishedDateTime: 2023-12-12T19:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20231212959060/en/Chalk-Secures-10M-Seed-Funding-to-Power-Machine-Learning-and-AI/"
+webUrl: "https://www.businesswire.com/news/home/20231212959060/en/Chalk-Secures-10M-Seed-Funding-to-Power-Machine-Learning-and-AI/"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/0/be/0beb99d8-e74e-52b5-978c-5d2bc7b9c880/6578af7a6a592.image.jpg?crop=1641%2C862%2C0%2C201&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "AI, Machine Learning Startup Chalk Raises $10 Million in Seed Funding"
@@ -74,6 +68,6 @@ related:
       domain: siliconangle.com
     quality: 17
 
-secured: "q8K51Ydl9wSCyMI6lhtRBXXsvfuqXr5LGvGvKPHnE82tiLC3NXvPYs2q7LdDp+bZR49L44eqMu/DiBCDWW7/qlu6LUHWyes3JouJkVeH8mtZ5ko6kwAUEbi9eSgS/WIjJ0enhDbYbhhbBGGJP0M3Zv5c4T5oZJBlDOcHqryKbZcoJCv/CfqUXsQnBqGq6AdSzR2BkxSOLQnmjqecEMdMXUiELd/42sr1WCxbMOFgsuqjkHk7DvsKPW5QigArn3xX3nMUcXnZAWba4f/qD/KHBn72t3bsV9YoGd6+waXcymq2Hiir4avHAcArDwDrvR8IGQqP9yelCzLDL8caHdCa82iHGfleIH05p4x4adaQWi0VJP0JcWGwSKhT8MjzTLGQem6CgzHD/b2bESTBBHqOX5PE/NaZ2HhMJ9Vo+1RdhzX0WLtqLJE36I8PkVVNdHx+SzOrGks6Cwjq9GtRgvPjz6/py4bn8ctSbZg8S/nsBpwoNbzRvlGJfukQbOffTrZZErFbkyqE3x+YrR9ZpRdimA==;nJJpWd5sO3BdhBwfngjspA=="
+secured: "kC1fA/seraAFkGkOm+NlPgJ6OLY0Z4+xWAAd51JOkzShxWYAD+tHf+qIE87yQjTjqWQP5dyAfKRk9o8d5FzW6LNphD/2bqHqpJMPEWn9dUMABr44DdtFk5tJ5slTh+jQwkeRrazb+thX2tqFNmsm0yT6OrvbieZouPFJY5Rh3rWUixZcHWpgyCtpzzIRkwgqCtG0D9a9LJ9TO+BXq2tfd9r0pCTraEqRZqVnVo2yRYdXNU3FvitnMQBj6k6DhP6rAZv8d/jzJz7FkmzRz2v2KKJr5f2DN0JHPj0OTbPnhD5dGyBunVr8DzqOQ3rTo7jkYNNBk9A+sBWI5VPZeuHjma6d7tMY+xgiGlWGBTsXVg0=;1glOmwtQ+rdqqVj+ZUszDA=="
 ---
 

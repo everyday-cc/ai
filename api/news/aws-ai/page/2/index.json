@@ -222,13 +222,22 @@
       "title": "AWS Announces Five New Amazon SageMaker Capabilities for Scaling with Models",
       "excerpt": "At AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced five new capabilities within Amazon SageMaker to help accelerate building ...",
       "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/aws-announces-five-new-amazon-sagemaker-capabilities-for-scaling-with-models/article_dc339075-e6c1-5c4c-b010-59fa0bd2e992.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/aws-announces-five-new-amazon-sagemaker-capabilities-for-scaling-with-models/article_dc339075-e6c1-5c4c-b010-59fa0bd2e992.html",
+      "webUrl": "https://www.enidnews.com/region/aws-announces-five-new-amazon-sagemaker-capabilities-for-scaling-with-models/article_c3c24995-5c67-5028-85a8-ef320c7846e6.html",
+      "originalUrl": "https://www.enidnews.com/region/aws-announces-five-new-amazon-sagemaker-capabilities-for-scaling-with-models/article_c3c24995-5c67-5028-85a8-ef320c7846e6.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/enidnews.com/content/tncms/custom/image/274f102e-c5aa-11e8-8594-87a63e6d4522.jpg?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "",
       "type": "article",
       "ampWebUrl": null,
@@ -236,8 +245,8 @@
       "publishedDateTime": "2023-11-29T12:27:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
+        "name": "Enid News & Eagle",
+        "domain": "enidnews.com",
         "images": null,
         "publishers": null,
         "authors": null

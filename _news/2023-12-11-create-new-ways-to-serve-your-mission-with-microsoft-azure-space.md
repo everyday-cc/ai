@@ -43,6 +43,22 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "Fortifying confidential computing in Microsoft Azure"
+    excerpt: "Hardware-backed confidential computing in Microsoft Azure now includes protected environments for VMs, containers, and GPUs, without the need to write specialized code."
+    publishedDateTime: 2023-12-14T10:00:00Z
+    webUrl: "https://www.infoworld.com/article/3711680/fortifying-confidential-computing-in-microsoft-azure.html"
+    ampWebUrl: "https://www.infoworld.com/article/3711680/fortifying-confidential-computing-in-microsoft-azure.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711680/fortifying-confidential-computing-in-microsoft-azure.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 104
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/07/protected_padlock_with_checkmark_amid_encrypted_data_cybersecurity_data_security_encryption_by_matejmo_gettyimages-872829036_cso_nw_2400x1600-100853298-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Oracle Announces the General Availability of Oracle Database@Azure"
     excerpt: "Oracle database services running on Oracle Cloud Infrastructure are deployed directly in Microsoft Azure datacenters AUSTIN, Texas, Dec. 13, 2023"
     publishedDateTime: 2023-12-13T13:26:00Z

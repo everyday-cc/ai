@@ -26,17 +26,44 @@ images:
 related:
   - title: "BigBear.ai Expands its Relationship with AWS to Deliver AI-Driven Solutions"
     excerpt: "BigBear.ai continues to expand its capabilities to serve the commercial enterprise sector and is proud to advance this new effort with AWS."
-    publishedDateTime: 2023-12-11T13:18:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/12/11/9931286.htm"
+    publishedDateTime: 2023-12-11T14:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/bigbear-ai-expands-its-relationship-with-aws-to-deliver-ai-driven-solutions-1032889378"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 52
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
+  - title: "GPAI meet adopts New Delhi AI declaration"
+    excerpt: "Further, the declaration also saw participating nations agree upon using the GPAI platform to create a global framework on AI trust and safety, and make AI solutions and benefits available for all. India also pitched to host a GPAI Global Governance Summit to finalize the proposed framework, in six months."
+    publishedDateTime: 2023-12-14T04:43:00Z
+    webUrl: "https://www.livemint.com/news/india/gpai-meet-adopts-new-delhi-ai-declaration-11702487342900.html"
+    ampWebUrl: "https://www.livemint.com/news/india/gpai-meet-adopts-new-delhi-ai-declaration/amp-11702487342900.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/gpai-meet-adopts-new-delhi-ai-declaration/amp-11702487342900.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
     images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
+      - url: "https://www.livemint.com/lm-img/img/2023/12/13/1600x900/GPAI_2023_full_delegation_1702487461909_1702487466925.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Global Partnership on Artificial Intelligence nations adopt New Delhi declaration"
+    excerpt: "This summit aims to finalise a comprehensive framework that encompasses shared principles for Safe and Trusted AI. The minister's announcement comes as the three-day GPAI Summit, which commenced on December 12,"
+    publishedDateTime: 2023-12-14T09:09:00Z
+    webUrl: "https://www.cnbctv18.com/technology/global-partnership-on-artificial-intelligence-nations-adopt-new-delhi-declaration-18568361.htm"
+    ampWebUrl: "https://www.cnbctv18.com/technology/global-partnership-on-artificial-intelligence-nations-adopt-new-delhi-declaration-18568361.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/global-partnership-on-artificial-intelligence-nations-adopt-new-delhi-declaration-18568361.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 54
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2023/12/gpai-1019x573.jpeg"
+        width: 1019
+        height: 573
         isCached: true
   - title: "Iktos and Bayer Announce Collaboration to expand the use of Artificial Intelligence to Design New Sustainable Crop Protection Solutions"
     excerpt: "Iktos and Bayer Announce Collaboration to expand the use of Artificial Intelligence to Design New Sustainable Crop Protection SolutionsParis,"
@@ -46,7 +73,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 32
+    quality: 34
   - title: "Sony Semiconductor Solutions' Edge AI Sensing Platform AITRIOS to Expand Streamlined Solutions Through Partnerships with Retail and Logistics Players"
     excerpt: "Under the partnership with Microsoft since 2020, SSS and Microsoft continue to work closely, including SSS's ongoing participation in the Microsoft AI Co-Innovation Labs, which helps partners bring their solutions to life. In 2023 alone, SSS has become a contributor to Microsoft's newly opened San Francisco, U.S. and Kobe, Japan labs."
     publishedDateTime: 2023-12-11T18:31:00Z

@@ -24,6 +24,22 @@ images:
     height: 300
     isCached: true
 
+related:
+  - title: "Global Autonomous Cars Market Size To Exceed USD 55.6 Billion By 2032 | CAGR Of 36.3%"
+    excerpt: "(MENAFN- GlobeNewsWire - Nasdaq) The Global Autonomous Cars Market Size was valued at USD 2.5 Billion in 2022 and the Worldwide Autonomous Cars Market is expected to reach USD 55.6 Billion by 2032, according to a research report published by Spherical ..."
+    publishedDateTime: 2023-12-14T03:33:00Z
+    webUrl: "https://menafn.com/1107594111/Global-Autonomous-Cars-Market-Size-To-Exceed-USD-556-Billion-By-2032-CAGR-Of-363"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 17
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?184041"
+        width: 444
+        height: 250
+        isCached: true
+
 secured: "axWaKap2maO/ToIDqovaNWsF6K2pPAyMjQ4OCoCi3xDrJQSfBjhZBLhaHQ7XJQOJRRMUZf4ozeOKnRJn2QVsVZzGwkfSMQfBpUIYsTK6YJSn0w2sHw0Kfxk7x0jJmYJU+KxgxUdLjanHNigBqSPhf4+AS80e8I6stEvQyuAisX25lUczrvP+C8m1uX1J5thT56XHuCHY34W2R2u54Va0vfeV+qZGii90t0tvwJDeUGaQ3vHFuwzzd4x1HcWoAYcGgTDDPGhJNBKXl17qPdUeHjwlRsjHV0h6bnFHR+lF95sqvmfeKEQ0DOkcAwks8Cnwvs5itzKwcheF/oliQRpo362BqoftWnEhEZcbIqnInax9ft/GO1c9lc1eU8arnocjdyoqZMjTpjWlT0Z5Q47wSj+jjAA9+WqK1aE7TH+kzRIYEvpCkEKJDTKJHMKILryvV0b9qjcEiAlghxAYz0+9D2GTTT1Q2kdkqqnYIEpWVC6ETVpp2iK8/kUhRMK4lsh6aEcO+CkB3Cu6g4+8wlP6Ow==;d9sDdkdgP/n+8y59HIL2hQ=="
 ---
 

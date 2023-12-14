@@ -7,7 +7,7 @@ originalUrl: "https://fintechnews.sg/81889/payments/mastercard-and-nec-to-test-f
 webUrl: "https://fintechnews.sg/81889/payments/mastercard-and-nec-to-test-facial-recognition-checkout-in-asia-by-2024/"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "Mastercard: Ten key use cases for Gen AI in banking"
+    excerpt: "Mastercard reveals 10 Gen AI use cases in banking, transforming operations. Navigate challenges and explore the future of efficient, customer-centric finance"
+    publishedDateTime: 2023-12-14T09:36:00Z
+    webUrl: "https://fintechmagazine.com/articles/mastercard-ten-key-use-cases-for-gen-ai-in-banking"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 54
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/c7a65c9295148cd5370fe239166aba61:908e366b1ceaadaba039233d079d4e96/screenshot-106.png.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "N6LQGNzixcB70e8P224LZqMnOQ8Tnvx2rOGTDaYgSpqbVO00gD7iJxr2+fNFD/TvWf3SqE7b1U2dkmAJ1zUO9FJUZQMfa/nijXQEOEHht6sq0EQf7TiS4Sf1NYmFsdAo4cKn0Qp54Lz5E52SsnYYsqV6lXLxuycEgpGc4eC9KIFg6d6qdFVY8IVOuNGsz//Q1NtGK25VsrpPCS7VdOqpxlZabaYOSYR62JYUOmNgkmO9dne2EdIHN6iC1dqWl6Wt1RhMMdTntn4jjJ+TssJsPduIUNmfkoCEwzbxFnZdjQUL1KamqrqVdMcMVnJGLY1HNxR+SEPP1+NIM6IvCyH4TxVk29gcahACD2pysR9brxcpVExjuxRvXk66i/0o2aZ6lyfYqWlR+JW7gtOMVGAcKdByyT1J8tPXq9brQJbMDhfd/0LnyUm//6qD00CtPiNw37nBsl6fo7ljGIh0kTdhEcQ68ks7lorSCnR3DOrQSr3iL3AYf/IukJskkgif28cRMF6/HJZSpS4hjZpnZk1erg==;o5D02XOtrgc2SBnFgSQXRw=="
 ---

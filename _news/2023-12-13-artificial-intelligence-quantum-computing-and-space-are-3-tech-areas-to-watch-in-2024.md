@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/chuckbrooks/2023/12/12/artificial-intel
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chuckbrooks/2023/12/12/artificial-intelligence-quantum-computing-and-space-are-3-tech-areas-to-watch-in-2024/amp/"
 type: article
 quality: 79
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/1702453326-Yourparagraphtext9.jpg?format=pjeg&auto=webp"
         width: 2000
         height: 1333
+        isCached: true
+  - title: "VCs say 2024 tech trends to watch include more startup shutdowns, a defense-tech renaissance, and the rise of AI winners"
+    excerpt: "Top venture capitalists predict 2024's tech trends, from hot sectors they're eyeing, the hype that will fizzle, and the new realities of fundraising."
+    publishedDateTime: 2023-12-14T10:00:00Z
+    webUrl: "https://www.businessinsider.com/2024-tech-trends-predictions-top-vcs"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
+    images:
+      - url: "https://i.insider.com/657a292d50edbc52a863fe3c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Deciphering AI, cybersecurity governance and career transparency headline 10 trends to watch in CompTIA's IT Industry Outlook 2024"
     excerpt: "Tech companies and workers have generally positive feelings about the new year DOWNERS GROVE, Ill., Dec. 13, 2023 /PRNewswire/ -- The explosion"

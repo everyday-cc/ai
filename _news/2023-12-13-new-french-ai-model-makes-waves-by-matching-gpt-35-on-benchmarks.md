@@ -36,6 +36,15 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "Opensource AI can outperform private models like Chat-GPT - ARK Invest research"
+    excerpt: "The need for performance in open-source AI models stems from the importance of democratizing access to generative AI."
+    publishedDateTime: 2023-12-14T08:48:00Z
+    webUrl: "https://cointelegraph.com/news/opensource-ai-outperform-private-models-chat-gpt-ark-invest-research"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 15
 
 secured: "+FZYF07tSj/JdedQiglxF1vKbrVamyBbqCickMckcLCrr0yYKTxD4vALMvzIvi7giUJAKXz6YKneIoz+QgrCtF4icm+6KR74zCuc+3Y+PMjm5B3I4QDDVP29mf+Rgm3ykG/pHxwO31+pbVaP+MKT1gEudqtAsAeWtjnS15OSscl4yejzBlrgabtl3BA6OK7yvdJzwG98eN1kgJre5zxL1/InlkLFH+Ju84flFRNpKYOkm/puOq0K/WXW63lHWlMx1dLxPKPNH7XYi9Op9//5rtsnunGp9sM1ZzmcacjIVsoZYbQOEzs3RXWD3fFruCDcRxcuiViLQas9jjXuFQA5GnvkenysJqqTKa2hAhHqLmSAjF7/TU1mddNwyW+xlbACQ7yqJDtdUIcx9QbDtk3jvjdNLYtVmiPoKR/1IYhtEs4b0fXI1qNx+0vQyGbt5QwltYho6HXIPIhrHtPtwEgujw6lvMcIgxO4nUxkgPfItQX+2SUgnEktj+eEULF91FIo+EvqsSsFA9v2Ur8Jjg58Mw==;PRc39CuaTbXIJMnJHBQs9g=="
 ---

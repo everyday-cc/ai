@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Efficiency and economy: yard logistics embracing the best self-driving practices"
-excerpt: "Not long ago, a self-driving revolution seemed just around the corner. Yet today the promise of genuinely Autonomous Vehicles (AVs) on everyday roads remai.."
-publishedDateTime: 2023-12-14T07:08:00Z
-originalUrl: "https://www.khaleejtimes.com/business/efficiency-and-economy-yard-logistics-embracing-the-best-self-driving-practices"
-webUrl: "https://www.khaleejtimes.com/business/efficiency-and-economy-yard-logistics-embracing-the-best-self-driving-practices"
-ampWebUrl: "https://www.khaleejtimes.com/business/efficiency-and-economy-yard-logistics-embracing-the-best-self-driving-practices?amp=1"
-cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/business/efficiency-and-economy-yard-logistics-embracing-the-best-self-driving-practices?amp=1"
+title: "Efficiency And Economy: Yard Logistics Embracing The Best Self-Driving Practices"
+excerpt: "(MENAFN- Khaleej Times) Not long ago, a self-driving revolution seemed just around the corner. Yet today the promise of genuinely Autonomous Vehicles (AVs) on everyday roads remains unfulfilled. What is marketed as 'driverless cars' are regular vehicles ..."
+publishedDateTime: 2023-12-14T04:35:00Z
+originalUrl: "https://menafn.com/1107594521/Efficiency-And-Economy-Yard-Logistics-Embracing-The-Best-Self-Driving-Practices"
+webUrl: "https://menafn.com/1107594521/Efficiency-And-Economy-Yard-Logistics-Embracing-The-Best-Self-Driving-Practices"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: Khaleej Times
-  domain: khaleejtimes.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://image.khaleejtimes.com?uuid=d26706ca-d934-59cb-9967-ba32baf9918c&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.99956&x=0&y=0&width=1200&height=675.jpg"
+  - url: "https://menafn.com/updates/pr/2023-12/14/KT_d8cefimage_story.jpg"
     width: 1200
     height: 675
     isCached: true
 
-secured: "Mdx0h6NG5bC3T0U3IMZQoCdkzj0FtZGLzz8sqQ2NVp+sIMdQfBC9xvNqejT/LcbM6aBhE/jCxiH/gunPMTqkv6UBe+Fg57AjxJqY/6pi9htDuZADTGmPQGssXJLmcoo9HaymVFTz9P1VkFtIc6rQElHnzAU3/RAWUdbIu5m4cWJVvmf8eN713Fn91ZZ+WPf6oApjH3vah8D6UmE8hZZ39F++wUDZCO2SEitbIWxe4D++5wf43K+mBqfYQJHaimu+4X9e+IQzk9muYxaOfH8hYe1lCbDeMRp2AeNbp+PGaItRrfv8nDaUiHS9t+arJQo2waoXIRLDRUbxPu/Q5As0jdQEHgp5h/RxJ6uUAlXOczo=;kN07zGij5cZfrIuyedGFsg=="
+secured: "GK3n+LrHOYHFt7JnDZ6+xpOGh8SBNaZmMfAFt0nVaFtB8ecbdSpRjsUpK63rrebj8BtBeLIoLVE8ncRYMfA/Rgnihg8gRC4oteAgq8UIb1kJtw9uHsboZiAIA+qR+BxBVPkUDYoehAHMvvJzsO6exXRM+T4RlDt1CQrCOI/r0PWMy4P/ywX6vfLEh8UAIY7CfSzd8ks8x0wCYPwRO9r2OfoV2m2UfES3gF4izljJW3kJe0eH7lHdqfKV7JSWWvyHOVd0ikI+AEalYAl+/alvlXU0Ht0anqQDYPZ9KJ46Kp1GCae/cnukp8nUVKA9bgNFf7jOkAbuOmhhf3YZjfzvS10GTwchb4aHpIfeY71Vqwg=;M2Ln6Fz835XPSsFEwFJsDQ=="
 ---
 
