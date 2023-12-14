@@ -52,6 +52,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Parsons Merges Artificial Intelligence To Deliver Combat Advantage"
+    excerpt: "Parsons Corporation (NYSE: PSN) is using artificial intelligence (AI) to combine combat-tested technologies with historically challenging Cyber and Electromagnetic Activities (CEMA) capabilities to deliver combat advantage to warfighters operating at the tactical edge."
+    publishedDateTime: 2023-12-14T12:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/parsons-merges-artificial-intelligence-to-deliver-combat-advantage-1032900509"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "House Resolution to Analyze Artificial Intelligence Heads to House"
     excerpt: "Merski's team said he has previously advocated for steering AI away from nefarious actors and directing it toward being a beneficial, useful source for good in our society."
     publishedDateTime: 2023-12-13T18:25:00Z
@@ -90,6 +99,6 @@ related:
         height: 225
         isCached: true
 
-secured: "rx2xWVt3AeoqgNs5ZeEEC/LAtigu9cYgZdtXJjlQUlH4cGyvRzEYkkkUPCe4ur7bLW/LglLiauioyldCH6WwL3biWLRvQNjm0P0Jy4v9zND5GmysUOPUuNbeT8TUK5l9UsKQ6p9CRaRd/aKshxGep4cHKoQX7G1ScxfN/IPYxEqXziWz8GFkEjOEgXUb3qPNNe1LGh8Jvb1csMaSzvAFgaNKd460Rbj/ZhhCFxljMVwK4dE/XxGmqazZzrssyLTE3IUYtKoRg+6Dz55pbI0vTm483Wx9f4J1c72KyBBesKyGQjFQ6qtspnSnHK8YV/o68HumrmyH8DW7yN0Lw1WF5Tekf43wkz7/TfKy8nXqjdg=;vCZUpL80fejE65qdQl5yTQ=="
+secured: "nZJWzvkmJP8iFo4WPKnHwY8N6NrR39Ucc0m7lRULSF4kNZ4niLcrYBA3uuQeSxKdNHOoZ7FSN0zkNhZ8sQGJGUmc+f4QVNTi/aip/liqaE3mfmj9N9lV0/1r04bS7avrnXXZlWUopcXn+Ofpn6aYzlep+/eHSYDNi2ucMMjK1QKYCcgs3yUalWQXUTalr78yDe9f/2ZWAB6TEhsFdR4PoKiGLJ8Ku6AJTJZQ/ljQZftb28PTvhhjrEGUcgjz757aYX5tWIYpATgnxtCKHfrUA9jSFpTuGX/gst96iLYvzpxRMxdMDa69fcEnZHm/A905Am12xhrvfuf6kDKcxeNKNiLI7CcrUsbQEgqZTGZ69klDXLOO/57P+n/GxNTOhJHc6RF+S045qiiXyJwmHhoVNjfjqcPd+e+x65j73Y2np0G8RKYf28iRRmNKq164JLaKCq+6zr0WwbBraz7HdL/Wtk15xzJ13DYkOX1VzVIHdH+WcJi+V9RDMSw0xBMkhF83NIYaBIw7taJiRfon0IPL2g==;aYFEtXPokjo+h6BV2X6fog=="
 ---
 

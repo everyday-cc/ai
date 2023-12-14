@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Explores Using Liquids to Cool AI Chips"
+    excerpt: "Without cool air constantly blowing through the racks of computers, the advanced chips would cook themselves. The cost of running enough fans and air conditioners to keep this from happening is leading chipmakers and data center operators to find ..."
+    publishedDateTime: 2023-12-14T12:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-12-14/microsoft-explores-using-liquids-to-cool-ai-chips"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 81
   - title: "Tech Trends: Microsoft to Introduce AI to Many Government Workers"
     excerpt: "With Azure OpenAI Service, we are enabling our customers to gain access to all of the latest models from our partner OpenAI, like GPT-4 Turbo, and do more to engage and leverage their own data. Our enterprise AI tools provides the same role-based security ..."
     publishedDateTime: 2023-12-11T17:36:00Z
@@ -159,6 +168,20 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Microsoft's Orca 2 LLM Outperforms Models That Are 10x Larger"
+    excerpt: "Microsoft Research released its Orca 2 LLM, a fine-tuned version of Llama 2 that performs as well as or better than models that contain 10x the number of parameters. Orca 2 uses a synthetic training dataset and a new technique called Prompt Erasure to achieve this performance."
+    publishedDateTime: 2023-12-12T14:13:00Z
+    webUrl: "https://www.infoq.com/news/2023/12/microsoft-orca-2-llm/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 41
+    images:
+      - url: "https://res.infoq.com/news/2023/12/microsoft-orca-2-llm/en/headerimage/generatedHeaderImage-1701529873890.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft homegrown AI model can run on smartphones, laptops"
     excerpt: "Google brought its AI model Gemini Nano to the Pixel 8 Pro. Microsoft released Phi-2, a small language model that outperforms Meta Llama 2. Phi-2 requ"
     publishedDateTime: 2023-12-13T14:24:00Z
@@ -168,6 +191,29 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 36
+  - title: "Striim Integrates with Microsoft Fabric to Deliver Real-Time Data Streaming Innovation for Analytics and AI"
+    excerpt: "Striim, an industry leader in real-time data integration and streaming, is excited to announce its integration with Microsoft Fabric, a new data analytics platform. Striim will provide its innovative low-latency,"
+    publishedDateTime: 2023-12-13T12:13:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/12/13/9933026.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 36
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "Striim Integrates with Microsoft Fabric to Deliver Real-Time Data Streaming Innovation for Analytics and AI"
+    excerpt: "Striim, an industry leader in real-time data integration and streaming, is excited to announce its integration with"
+    publishedDateTime: 2023-12-13T18:51:00Z
+    webUrl: "https://www.datanami.com/this-just-in/striim-integrates-with-microsoft-fabric-to-deliver-real-time-data-streaming-innovation-for-analytics-and-ai/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 16
 
 secured: "2qsXou/S854Vh7R7YvwBRJPNiL6btO+pJd7Nsg3fjDyBn85fSN3yW2D7cU9zLChkMUM31K/DsdBTqrv2gQHVcTtVM6k7mmB6U07ExXaf6yX93v7KaO4/JsYSS1OLCqimW5gXX4p5cSqcpLt4SoGnoiOezblfHJyDinNJ6FiLEh1Hj0J9jOwG0DQFlsqbUxveIHsHDhIEhc5m9qocutjXs3DZMgcIi8kdVWXCcF3I7qDy2w1xOuvDfvkgtx7quwRikJhLGY+/gea1sR9lJhuJysgwQmBvSXZSYVn4LkE5wV0K/StE6f4nRoFwp+IkqGm95OREfdoHn+Yt6pvIlXtduZLFajk7WyV3cA3MznWqV4g=;xIb0UuYrMT2t/mNUAR1o2w=="
 ---

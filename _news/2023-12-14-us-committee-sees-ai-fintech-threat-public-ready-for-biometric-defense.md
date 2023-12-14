@@ -41,6 +41,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "EU agrees draft laws on artificial intelligence"
+    excerpt: "The 27 member-nations of the European Union have agreed draft laws to oversee artificial intelligence, or AI, within the bloc. The countries will vote on the provisional legislation — known as the European AI Act — early next year and the rules could be in place in 2025."
+    publishedDateTime: 2023-12-11T01:39:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202312/11/WS6576632fa31040ac301a714c.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202312/11/6576632fa31040acaf82600a.jpeg"
+        width: 955
+        height: 636
+        isCached: true
 
 secured: "fdsq+HgNaiql18DWMc66FNLeZ2+xewkdvaMDIE6AF79AyDj2MIgfQf63luqqqrsVYMDKl71aF3XqfTmHK4vbv796GOCWf+UVuzQjTIpd5xFKBVbW30Zegl+Yx6fW1gOPr1NfWPhQl41mtABbtRF6EuWlMku2scS6PxTEyF3dE80xZzkKQnTHqEzE6zKCFO3ifdaSj11V+/J0oSKY170ZjcnQsL0EF03VAAHn0clmt8R+wto+39YvubM0+P5Fbt49X8z6krMOHYswXs8CGMdVfKa5V8EzrGam3rxNqub0ChqfWtT2NodojAzfPBu+HrV4w2ecScsRMdIXgK173ZanM1okOCPnE4gdHEsX2BorZAYpqZkanaUePsUgmS7bK5+lUFfOhHWGNmiS3WwZJZQFWBXsmw/N/TeTn31ZhuguktHew37P5RoRrYel4xK1EmDbXI6g6RPsbmd2a4clIlopz6E1XP8Xq8SURVkbjVmxXEhohQ6ApOeqkv9VXJDtNDTw+QQcWVmLXOz18kyVnI4m3A==;VEf5i4zkG5VV7H+QXoY7hg=="
 ---

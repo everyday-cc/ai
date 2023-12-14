@@ -33,6 +33,22 @@ related:
         width: 1001
         height: 499
         isCached: true
+  - title: "Unlocking Marketing Growth: Generative AI In Action, Starting With Design"
+    excerpt: "Although marketers have prioritized emotional connection and consumer experience with their brands, recent strides in GenAI are pushing these two aspects closer together."
+    publishedDateTime: 2023-12-14T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/14/unlocking-marketing-growth-generative-ai-in-action-starting-with-design/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/14/unlocking-marketing-growth-generative-ai-in-action-starting-with-design/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/12/14/unlocking-marketing-growth-generative-ai-in-action-starting-with-design/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 103
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6399d93eaccb6518c9a6c001/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "The Rise Of Generative AI In Design: Innovations And Challenges"
     excerpt: "Discover how generative AI is revolutionizing design across industries, from creating unique Nutella packaging to transforming architectural planning."
     publishedDateTime: 2023-12-13T06:23:00Z
@@ -115,6 +131,15 @@ related:
     provider:
       name: ITWire
       domain: itwire.com
+    quality: 14
+  - title: "Dell Technologies storage advancements accelerate AI and generative AI strategies"
+    excerpt: "Dell PowerScale systems deliver up to a 200% performance improvement for streaming reads and writes to help customers more quickly access data for AI workloads."
+    publishedDateTime: 2023-12-14T12:36:00Z
+    webUrl: "https://www.cloudcomputing-news.net/news/2023/dec/14/dell-technologies-storage-advancements-accelerate-ai-and-generative-ai-strategies/"
+    type: article
+    provider:
+      name: Cloud Computing
+      domain: cloudcomputing-news.net
     quality: 14
 
 secured: "1l27ezuoOZU3CAiOwYzevdqZs/TCKvmm9CbEVb7zI2+PkgE1sbID34aXS4eeO+Vt8NvETmwo+iQ7RO5oJmOtBIHQpY9Hcgi1BWJjyDmN02qMdvx7/4OvpBYGcgF1Qzhs6FY+VJX7zEmL1qTzC4Ho3CRarxM3NRlZq7sdgRDMW/7se75LXowzG0+sb+xqPKqY4Up8QAlOcSEGoyEx0VHMAuNPd0KSWiEPjhFiSfXneRHHTvb5DIcKuqnBP7kxIVPsKdNwsAVUvd/e80efrt4oO6GwTrj4EcvzVQCmknTezCBB5JMTx8FhqJ3tGFX9aPw+RRTXL1OREh5gF/bEVLsy9QkBq7cT2ea+jNs5CN+WPIfbnWq5RnGP7/ctfakWzMeNIeu3INIdSB7hOcrJ5l+e8tY3JSPnjvREnEsdbTu2i331meA3iVEXlXWA4nXTbhDsDxcbWahL6neHpzGGtO5tuj+5FyqgXPjIv7W+l1P6h5mOz4N+C63dfwvJ6yN0sWNm+1F/Ag0YxmsPcA5mjMm9rw==;unMIXfQ6qd9/PIi1pVicfA=="

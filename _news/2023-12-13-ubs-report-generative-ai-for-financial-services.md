@@ -39,6 +39,22 @@ related:
         width: 1001
         height: 499
         isCached: true
+  - title: "Unlocking Marketing Growth: Generative AI In Action, Starting With Design"
+    excerpt: "Although marketers have prioritized emotional connection and consumer experience with their brands, recent strides in GenAI are pushing these two aspects closer together."
+    publishedDateTime: 2023-12-14T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/14/unlocking-marketing-growth-generative-ai-in-action-starting-with-design/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/14/unlocking-marketing-growth-generative-ai-in-action-starting-with-design/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/12/14/unlocking-marketing-growth-generative-ai-in-action-starting-with-design/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 103
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6399d93eaccb6518c9a6c001/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "The Rise Of Generative AI In Design: Innovations And Challenges"
     excerpt: "Discover how generative AI is revolutionizing design across industries, from creating unique Nutella packaging to transforming architectural planning."
     publishedDateTime: 2023-12-13T06:23:00Z
@@ -107,6 +123,15 @@ related:
     provider:
       name: ITWire
       domain: itwire.com
+    quality: 14
+  - title: "Dell Technologies storage advancements accelerate AI and generative AI strategies"
+    excerpt: "Dell PowerScale systems deliver up to a 200% performance improvement for streaming reads and writes to help customers more quickly access data for AI workloads."
+    publishedDateTime: 2023-12-14T12:36:00Z
+    webUrl: "https://www.cloudcomputing-news.net/news/2023/dec/14/dell-technologies-storage-advancements-accelerate-ai-and-generative-ai-strategies/"
+    type: article
+    provider:
+      name: Cloud Computing
+      domain: cloudcomputing-news.net
     quality: 14
   - title: "Companies Gaining Competitive Advantage Through Deploying Private AI Infrastructure at Equinix"
     excerpt: "Enterprises are directly utilizing Equinix for deploying their private AI infrastructure, and service providers are utilizing Equinix to provide private AI services for their customers. Both can benefit from the growing AI ecosystem at Equinix with a concentration of buyers and sellers operating in close proximity to major cloud on-ramps."

@@ -65,6 +65,15 @@ related:
         width: 1019
         height: 573
         isCached: true
+  - title: "Parsons Merges Artificial Intelligence To Deliver Combat Advantage"
+    excerpt: "Parsons Corporation (NYSE: PSN) is using artificial intelligence (AI) to combine combat-tested technologies with historically challenging Cyber and Electromagnetic Activities (CEMA) capabilities to deliver combat advantage to warfighters operating at the tactical edge."
+    publishedDateTime: 2023-12-14T12:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/parsons-merges-artificial-intelligence-to-deliver-combat-advantage-1032900509"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Iktos and Bayer Announce Collaboration to expand the use of Artificial Intelligence to Design New Sustainable Crop Protection Solutions"
     excerpt: "Iktos and Bayer Announce Collaboration to expand the use of Artificial Intelligence to Design New Sustainable Crop Protection SolutionsParis,"
     publishedDateTime: 2023-12-14T07:54:00Z

@@ -39,6 +39,22 @@ related:
         width: 1600
         height: 840
         isCached: true
+  - title: "The Time To Formalize An Approach To AI Adoption Is Now"
+    excerpt: "Ignoring the potential of AI and clinging to conventional methods can result in missed opportunities and a loss of competitiveness in today's market."
+    publishedDateTime: 2023-12-14T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/12/14/the-time-to-formalize-an-approach-to-ai-adoption-is-now/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/12/14/the-time-to-formalize-an-approach-to-ai-adoption-is-now/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/12/14/the-time-to-formalize-an-approach-to-ai-adoption-is-now/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/60aebd253bb898555bf94d92/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
 
 secured: "I1EhILiM/E/dHM4/s9RrSn+8JwvMCW3JCDEqME41VUk+cQHJSpPRGaDrDAnTmDGVRTRg4i/TPKX3A2x8GQvHEEseRiCDQnG2Oaf7SNACaX6e4vDD5b0+n5yZGuz0kYcC5FVvTmoHH4TzZCzzotZeHJQq9ldgZUziqMwLdNWnYn7GA+Zc0HPT40/CspC975CyM5V6K8BxHNOh4GDkTpVQBgc2o7CgdmyJMlt/prTrAGKu43VdICT9Wwnvg1o2Fu1/XuwjkoSodnY1+e51mjIbHZjIfqTyiCmnbeyYdFe9gAZeI0psEPn0LFzX7eNoqTOV5x/U/ym2Gzl8W3m87bJIkSCmCMh8FcXcMHsFNKx/DAk=;1YHaWRYM/cdzw3rYWaqD8Q=="
 ---

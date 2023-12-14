@@ -117,6 +117,20 @@ related:
         width: 900
         height: 471
         isCached: true
+  - title: "Building custom Gemini Pro AI models with new API"
+    excerpt: "As announced earlier this month Google has now made available its new Gemini artificial intelligence API enabling developers ... It outperforms other similarly-sized models on multiple research benchmarks. Additionally, it comes with a 32K context window ..."
+    publishedDateTime: 2023-12-14T12:11:00Z
+    webUrl: "https://www.geeky-gadgets.com/gogole-gemini-api/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FoFYB9msll9I%2F0.jpg"
+        width: 480
+        height: 360
+        isCached: true
 
 secured: "rhAHvuBxUReUbG5UPWibtGz1b4vzpN4UzUJSd07AKjpK/DEdTFVXoUAuPaP0oDqZF3PphX5yGixvVXK46ahQeQV5wAqQrcQbqeqp3wuVklgD/R5ozI2l7TTuiX0aJIpIwf3U8dM9wKdscmPY269Ybmchhl6sMpuRYqLD/EJf/xtTzu3qKMGnkG5PXJj5nx8ySkDRUb9oanRD9ID3XV6uI9giRWqFTQBrnj9OY+MMcQyeBsZMjsWNMKO+fVBPTPWOAERSrFprG1s7C/Ja/bgkfbh3JQBGXN83g3pq2S7Hjvj/qUvDfQz1R65BTBfW1jxBnbMm7aiATJVpCy80c0pRhsjbDs93WQlVAHaDJBGYvyEOuWqxPC+3aDxk5FuiBocu7FTI6xeYyX3Z4shCEWCubPELSDNEtYpr6fM1gEZmVgIz02cO5g3m/U01ZMr3U6v4RtAkBMy6ajF8ca0+neMk9aJLha40EhSTPlF7Rz0th7OoSMJWcwb7ob4yysRdztnZJ7xxGQX9HZ8ysRv+OwO8mg==;xUqJ3m3/7r+ML/3VXkWkXQ=="
 ---

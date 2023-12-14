@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/bigbear-ai-expands
 webUrl: "https://markets.businessinsider.com/news/stocks/bigbear-ai-expands-its-relationship-with-aws-to-deliver-ai-driven-solutions-1032889378"
 type: article
 quality: 62
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -55,6 +55,15 @@ related:
         width: 1019
         height: 573
         isCached: true
+  - title: "Parsons Merges Artificial Intelligence To Deliver Combat Advantage"
+    excerpt: "Parsons Corporation (NYSE: PSN) is using artificial intelligence (AI) to combine combat-tested technologies with historically challenging Cyber and Electromagnetic Activities (CEMA) capabilities to deliver combat advantage to warfighters operating at the tactical edge."
+    publishedDateTime: 2023-12-14T12:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/parsons-merges-artificial-intelligence-to-deliver-combat-advantage-1032900509"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "House Resolution to Analyze Artificial Intelligence Heads to House"
     excerpt: "Merski's team said he has previously advocated for steering AI away from nefarious actors and directing it toward being a beneficial, useful source for good in our society."
     publishedDateTime: 2023-12-13T18:25:00Z

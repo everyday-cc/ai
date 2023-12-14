@@ -26,20 +26,38 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft's Orca 2 LLM Outperforms Models That Are 10x Larger"
-    excerpt: "Microsoft Research released its Orca 2 LLM, a fine-tuned version of Llama 2 that performs as well as or better than models that contain 10x the number of parameters. Orca 2 uses a synthetic training dataset and a new technique called Prompt Erasure to achieve this performance."
-    publishedDateTime: 2023-12-12T14:13:00Z
-    webUrl: "https://www.infoq.com/news/2023/12/microsoft-orca-2-llm/"
+  - title: "Everything about Gemini AI: Google's assistant, Nano, Ultra"
+    excerpt: "Google has recently launched its own Artificial Intelligence (AI) called Gemini. It is a new model that is available on the Bard platform and will gradually be extended to other Google services. Learn more about its features and how you can test"
+    publishedDateTime: 2023-12-12T14:20:00Z
+    webUrl: "https://ccm.net/apps-sites/web/11817-everything-about-gemini-google-s-ai-assistant-nano-ultra/"
     type: article
     provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 41
+      name: CCM
+      domain: ccm.net
+    quality: 39
     images:
-      - url: "https://res.infoq.com/news/2023/12/microsoft-orca-2-llm/en/headerimage/generatedHeaderImage-1701529873890.jpg"
-        width: 1200
-        height: 630
+      - url: "https://img-19.ccm.net/_o5FU_f4-2Gf3L75OV9jbdkJ8G4=/1500x/smart/e81408f07b2b42efa7ab3b981452b19f/ccmcms-enccm/39487748.jpeg"
+        width: 1500
+        height: 981
         isCached: true
+  - title: "How to use Google Gemini in Bard to get the best results"
+    excerpt: "Google has recently updated its AI chatbot, Google Bard, with its new Gemini AI model, which brings a host of enhanced features to improve the user"
+    publishedDateTime: 2023-12-10T11:03:00Z
+    webUrl: "https://www.geeky-gadgets.com/using-google-gemini-in-bard/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 4
+  - title: "Google's Gemini video was staged, which is kind of a relief"
+    excerpt: "Google just launched Gemini, and it also just admitted that its hands-on video was staged, which is both good and bad news."
+    publishedDateTime: 2023-12-11T19:49:00Z
+    webUrl: "https://www.androidheadlines.com/2023/12/googles-gemini-video-staged.html"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 4
 
 secured: "G8qW3fpvu6v4VZf0J+xx9xIsXdwaQGkEQvN7+3SUjDvLMqdamcnS+ZQgM+0RrqF+O0lJo62iIgGjhwpKwQn4G32fiYF1Whqu0uKyO00XrIMdHvtK2OAeGNAkbKctKGPsDx52OzqmhAFbG75wNhGi0U7ZmJ1QSNXiWt/TfsQ7wRA5u36lw/jNxWKgd3GfEByY1ffFoEjpi0Hc4uBu5oH+y1aZNqEBEFMuLB4m7M6nOlfwf3LZas4Y5/x2BVA2JBU+Cvs48cfqKw0eAUvq0pJuKZzABkAuAGQerlv4urxScFW4V+T6WESIboQ+4QbnJzCZM1ZZAxPkZPMezToPiQlzut0At51uhtI22phZo5czSTClU5MaRXoLygMe6Ex6T8xFNe4LNchosVpq7jK8zmj0h3/oDrvDKRdVAoQSY9KwnQrv7+CKgVpoIjyN4aMLDFatccquMWYjJnwfroY0919JLkZ2AeHOLO6HGeeTyg8a/QbGneNMpbNyMbEuyiFCXiK6ksB1NfVjBjzupWhOnFaCkw==;Qyc/YG80M1H27cAk5BhX2g=="
 ---

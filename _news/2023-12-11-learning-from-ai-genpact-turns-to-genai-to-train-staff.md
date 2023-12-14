@@ -98,6 +98,20 @@ related:
       name: Time
       domain: time.com
     quality: 47
+  - title: "FIS: Trust in generative AI fragile among consumers"
+    excerpt: "A significant majority of consumers admit they don't know whether their banks are currently using generative AI in their operations"
+    publishedDateTime: 2023-12-14T11:00:00Z
+    webUrl: "https://fintechmagazine.com/tech-ai/fis-generative-ai-research"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 39
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/b6ed12eb7ec28ad5ae14a6ea7d05b679:cc2c9ffd810a582fef0d67f56f8aff04/nasser-khodri.jfif.jpg"
+        width: 1200
+        height: 631
+        isCached: true
   - title: "Turn Generative AI from an Existential Threat into a Competitive Advantage"
     excerpt: "By making it vastly easier and cheaper to improve or create products and services that previously required significant human labor and creativity, generative AI has the potential to disrupt or even commoditize many businesses."
     publishedDateTime: 2023-12-11T17:00:00Z

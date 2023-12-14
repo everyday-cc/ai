@@ -33,6 +33,20 @@ related:
         width: 1500
         height: 981
         isCached: true
+  - title: "Microsoft Releases Phi-2, Outperforms Gemini Nano, Mistral 7B, and Llama 2 Models"
+    excerpt: "Phi-2, a 2.7 billion-parameter language model showcasing exceptional reasoning and language understanding abilities."
+    publishedDateTime: 2023-12-13T07:04:00Z
+    webUrl: "https://analyticsindiamag.com/microsoft-releases-phi-2-outperforms-gemini-nano-mistral-7b-and-llama-2-models/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 36
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/11/Microsoft-phi-2-1.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Google's Gemini video was staged, which is kind of a relief"
     excerpt: "Google just launched Gemini, and it also just admitted that its hands-on video was staged, which is both good and bad news."
     publishedDateTime: 2023-12-11T19:49:00Z

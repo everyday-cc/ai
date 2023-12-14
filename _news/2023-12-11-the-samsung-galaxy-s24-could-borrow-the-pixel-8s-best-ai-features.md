@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/phones/samsung-galaxy-phones/the-samsung
 webUrl: "https://www.techradar.com/phones/samsung-galaxy-phones/the-samsung-galaxy-s24-could-borrow-the-pixel-8s-best-ai-features"
 type: article
 quality: 69
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://www.androidauthority.com/wp-content/uploads/2023/05/Samsung-Galaxy-Buds-2-Pro-vs-Google-Pixel-Buds-Pro-comparison-1-scaled.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Samsung’s next Galaxy Buds might offer real-time translation using AI – wunderbar!"
+    excerpt: "Somewhat surprisingly, Samsung didn’t unveil an update to its flagship Galaxy Buds this year (or for that matter the hotly anticipated Samsung Galaxy Buds 3 ), with a November 16 leak claiming we'll get the Samsung Galaxy Buds 3 Pro in 2024 instead."
+    publishedDateTime: 2023-12-14T12:15:00Z
+    webUrl: "https://www.techradar.com/audio/earbuds-airpods/samsungs-next-galaxy-buds-might-offer-real-time-translation-using-ai-wunderbar"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 63
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/EQZ5xegDyphTu6QZFVm9yP-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Samsung Galaxy Buds 3 Pro to get on-device AI for live translation: Report"
     excerpt: "The Galaxy Buds 3 Pro would likely include real-time translations for in-person conversations among its core AI features"

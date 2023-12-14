@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/india/calling-for-caution-pm-flags
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/india/calling-for-caution-pm-flags-need-for-ethics-democratic-values-in-ai-9065718/lite/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "GPAI adopts New Delhi declaration on artificial intelligence"
+    excerpt: "New Delhi: The Global Partnership for Artificial Intelligence (GPAI), under India’s presidency, adopted the New Delhi declaration on AI on Wednesday, Minister of State for Electronics and Information Technology Rajeev Chandrasekhar said at a media briefing in the capital on the sidelines of the GPAI summit. ADVERTISEMENT"
+    publishedDateTime: 2023-12-14T12:22:00Z
+    webUrl: "https://www.deccanherald.com/business/gpai-adopts-new-delhi-declaration-on-artificial-intelligence-2811278"
+    type: article
+    provider:
+      name: Deccan Herald
+      domain: deccanherald.com
+    quality: 54
+    images:
+      - url: "https://images.deccanherald.com/deccanherald%2F2023-12%2Fb210b18c-dec9-48f1-af70-772efcd57057%2FPTI12_12_2023_000285B.jpg?rect=0%2C0%2C3937%2C2067&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Market in United States Projecting Strong Growth to 2028 with Emerging Trends in AI Integration"
     excerpt: "The forward-looking sensation around Artificial Intelligence continues with the anticipation of growth at a CAGR of ~26.4% from 2022 to 2027. This progression is fueled by government initiatives and the strategic deployment of AI within the United States."
     publishedDateTime: 2023-12-12T11:46:00Z

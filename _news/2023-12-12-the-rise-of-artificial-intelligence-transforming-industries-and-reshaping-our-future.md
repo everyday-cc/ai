@@ -42,20 +42,6 @@ related:
         width: 1439
         height: 900
         isCached: true
-  - title: "Inside OpenAI’s Crisis Over the Future of Artificial Intelligence"
-    excerpt: "Split over the leadership of Sam Altman, board members and executives turned on one another. Their brawl exposed the cracks at the heart of the A.I. movement."
-    publishedDateTime: 2023-12-09T12:51:00Z
-    webUrl: "https://www.nytimes.com/2023/12/09/technology/openai-altman-inside-crisis.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 86
-    images:
-      - url: "https://static01.nyt.com/images/2023/12/08/business/08ai-openai-02/08ai-openai-02-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Three Trends Shaping The Future Of Cloud Migration"
     excerpt: "Chetan Mathur is CEO of Next Pathway, the Automated Cloud Migration company."
     publishedDateTime: 2023-12-12T11:45:00Z
@@ -145,6 +131,20 @@ related:
       - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/shutterstock_571888840-100941708-orig.jpg"
         width: 504
         height: 315
+        isCached: true
+  - title: "How To Keep AI From Stealing the Sound of Your Voice"
+    excerpt: "A new technology called AntiFake prevents the theft of the sound of your voice by making it more difficult for AI tools to analyze vocal recordings"
+    publishedDateTime: 2023-12-14T12:04:00Z
+    webUrl: "https://www.scientificamerican.com/article/how-to-keep-ai-from-stealing-the-sound-of-your-voice/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 39
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/AA71A9F7-F6EB-4F6B-BDCBFE460FA0842C_source.jpg?w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Preparing for the future: Exploring what artificial intelligence in 2025 will look like"
     excerpt: "Are you ready to step into the future? Brace yourself for mind-blowing innovations and revolutionary transformations as we dive deep into what artificial intelligence in 2025 will look like. Get set to be mesmerized by self-driving cars,"

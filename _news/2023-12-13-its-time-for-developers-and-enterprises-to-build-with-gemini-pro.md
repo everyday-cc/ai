@@ -114,6 +114,20 @@ related:
         width: 900
         height: 471
         isCached: true
+  - title: "Building custom Gemini Pro AI models with new API"
+    excerpt: "As announced earlier this month Google has now made available its new Gemini artificial intelligence API enabling developers ... It outperforms other similarly-sized models on multiple research benchmarks. Additionally, it comes with a 32K context window ..."
+    publishedDateTime: 2023-12-14T12:11:00Z
+    webUrl: "https://www.geeky-gadgets.com/gogole-gemini-api/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FoFYB9msll9I%2F0.jpg"
+        width: 480
+        height: 360
+        isCached: true
   - title: "Is Google's Gemini the real start of the artificial intelligence boom?"
     excerpt: "Google has released Gemini, its most powerful artificial intelligence model to date, as AI seeps into many facets of life. Will Knight, a senior writer for Wired, joins CBS News with a look at the revolutionary technology."
     publishedDateTime: 2023-12-11T20:21:00Z

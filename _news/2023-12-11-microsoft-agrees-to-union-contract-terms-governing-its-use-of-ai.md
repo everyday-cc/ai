@@ -23,6 +23,15 @@ topics:
   - Microsoft AI
 
 related:
+  - title: "Microsoft Explores Using Liquids to Cool AI Chips"
+    excerpt: "Without cool air constantly blowing through the racks of computers, the advanced chips would cook themselves. The cost of running enough fans and air conditioners to keep this from happening is leading chipmakers and data center operators to find ..."
+    publishedDateTime: 2023-12-14T12:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-12-14/microsoft-explores-using-liquids-to-cool-ai-chips"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 81
   - title: "Tech Trends: Microsoft to Introduce AI to Many Government Workers"
     excerpt: "With Azure OpenAI Service, we are enabling our customers to gain access to all of the latest models from our partner OpenAI, like GPT-4 Turbo, and do more to engage and leverage their own data. Our enterprise AI tools provides the same role-based security ..."
     publishedDateTime: 2023-12-11T17:36:00Z
@@ -161,6 +170,20 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Microsoft's Orca 2 LLM Outperforms Models That Are 10x Larger"
+    excerpt: "Microsoft Research released its Orca 2 LLM, a fine-tuned version of Llama 2 that performs as well as or better than models that contain 10x the number of parameters. Orca 2 uses a synthetic training dataset and a new technique called Prompt Erasure to achieve this performance."
+    publishedDateTime: 2023-12-12T14:13:00Z
+    webUrl: "https://www.infoq.com/news/2023/12/microsoft-orca-2-llm/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 41
+    images:
+      - url: "https://res.infoq.com/news/2023/12/microsoft-orca-2-llm/en/headerimage/generatedHeaderImage-1701529873890.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft homegrown AI model can run on smartphones, laptops"
     excerpt: "Google brought its AI model Gemini Nano to the Pixel 8 Pro. Microsoft released Phi-2, a small language model that outperforms Meta Llama 2. Phi-2 requ"
     publishedDateTime: 2023-12-13T14:24:00Z
@@ -170,6 +193,29 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 36
+  - title: "Striim Integrates with Microsoft Fabric to Deliver Real-Time Data Streaming Innovation for Analytics and AI"
+    excerpt: "Striim, an industry leader in real-time data integration and streaming, is excited to announce its integration with Microsoft Fabric, a new data analytics platform. Striim will provide its innovative low-latency,"
+    publishedDateTime: 2023-12-13T12:13:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/12/13/9933026.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 36
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "Striim Integrates with Microsoft Fabric to Deliver Real-Time Data Streaming Innovation for Analytics and AI"
+    excerpt: "Striim, an industry leader in real-time data integration and streaming, is excited to announce its integration with"
+    publishedDateTime: 2023-12-13T18:51:00Z
+    webUrl: "https://www.datanami.com/this-just-in/striim-integrates-with-microsoft-fabric-to-deliver-real-time-data-streaming-innovation-for-analytics-and-ai/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 16
 
 secured: "BFqOU592+O0FUV/GPb7PAS2xaYHPEyW0T+oNFgH3S4NkLkqopX7KybIz3p97GNowg5FYf8cDJCp+BqMvovwYrWCd1YPFaBVDHNvV0r/pFal6fGrY2dKLeExrn6w87V3F9kDJIFxVXylKL9pBmV0SqosVpQRUWDWxZbfJqBcXoP3X0KMDjVFDZMtr0ZSvl9mPPfB0nZMAuPYfT/qJ2MXUvQ7/TddTkpjxJ9Mvo1Tsf04GUtUFfkOiOtZbrVPoxbGhvRcCDG0/zddlUT1OzJc/kIFyz5DT/NMkzBqdfupPwVnhdZV4TsxO1cqVA3jKLWf4QXF8LD+25o/+Fs3a0ohtVbeD1Wjm8IcFa5XHS455LszzUfs1AZKoNnH6CY4ZHLNdf6mMH1soTM0ZSh7lMgPz/+rfYuecjmEXf3roUTjbbl0BGG8+VRfS2m33SINzVfTMcDXwxSvM30ZsdbWMV5kQYZxdJL3bipJpIsFi36BpmRb1KojI8SB9jAlIf4jyjMHcGRCfm6KlqmWMuJgzfjNGnA==;qMsVCo0LthSWh57irOpVIg=="
 ---

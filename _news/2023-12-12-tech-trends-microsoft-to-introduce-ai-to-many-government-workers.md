@@ -9,8 +9,8 @@ ampWebUrl: "https://statetechmagazine.com/article/2023/12/tech-trends-microsoft-
 cdnAmpWebUrl: "https://statetechmagazine-com.cdn.ampproject.org/c/s/statetechmagazine.com/article/2023/12/tech-trends-microsoft-introduce-ai-many-government-workers?amp"
 type: article
 quality: 74
-heat: 194
-published: true
+heat: -1
+published: false
 
 provider:
   name: Statetechmagazine
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Explores Using Liquids to Cool AI Chips"
+    excerpt: "Without cool air constantly blowing through the racks of computers, the advanced chips would cook themselves. The cost of running enough fans and air conditioners to keep this from happening is leading chipmakers and data center operators to find ..."
+    publishedDateTime: 2023-12-14T12:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-12-14/microsoft-explores-using-liquids-to-cool-ai-chips"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 81
   - title: "Microsoft, AFL-CIO Reach Deal on AI, Labor Neutrality"
     excerpt: "Microsoft has a major partnership with ChatGPT maker OpenAI and committed to pumping more than $10 billion into the startup. Surging popularity of so-called generative AI, which uses data to create new content like ChatGPT's human-sounding prose, could remake human society and make obsolete many jobs."
     publishedDateTime: 2023-12-11T14:03:00Z
@@ -158,6 +167,20 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Microsoft's Orca 2 LLM Outperforms Models That Are 10x Larger"
+    excerpt: "Microsoft Research released its Orca 2 LLM, a fine-tuned version of Llama 2 that performs as well as or better than models that contain 10x the number of parameters. Orca 2 uses a synthetic training dataset and a new technique called Prompt Erasure to achieve this performance."
+    publishedDateTime: 2023-12-12T14:13:00Z
+    webUrl: "https://www.infoq.com/news/2023/12/microsoft-orca-2-llm/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 41
+    images:
+      - url: "https://res.infoq.com/news/2023/12/microsoft-orca-2-llm/en/headerimage/generatedHeaderImage-1701529873890.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft homegrown AI model can run on smartphones, laptops"
     excerpt: "Google brought its AI model Gemini Nano to the Pixel 8 Pro. Microsoft released Phi-2, a small language model that outperforms Meta Llama 2. Phi-2 requ"
     publishedDateTime: 2023-12-13T14:24:00Z
@@ -167,6 +190,29 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 36
+  - title: "Striim Integrates with Microsoft Fabric to Deliver Real-Time Data Streaming Innovation for Analytics and AI"
+    excerpt: "Striim, an industry leader in real-time data integration and streaming, is excited to announce its integration with Microsoft Fabric, a new data analytics platform. Striim will provide its innovative low-latency,"
+    publishedDateTime: 2023-12-13T12:13:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/12/13/9933026.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 36
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "Striim Integrates with Microsoft Fabric to Deliver Real-Time Data Streaming Innovation for Analytics and AI"
+    excerpt: "Striim, an industry leader in real-time data integration and streaming, is excited to announce its integration with"
+    publishedDateTime: 2023-12-13T18:51:00Z
+    webUrl: "https://www.datanami.com/this-just-in/striim-integrates-with-microsoft-fabric-to-deliver-real-time-data-streaming-innovation-for-analytics-and-ai/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 16
 
 secured: "UFPgX4IKrwRK0GnuvMnyzbPUnFT5tbt01E3UHvviqOA3dOjUd9e7awN7K2nQXNf0ne4K8R5IQi5YjeVgz+k+ht+4nTvTzpSOHPwi+5P6h1qGsu0DomRE5Xw4vEJfTDZbusLyoI5UyQoF10qy5w8hjhGUKvIkubMR+kGfD+L0Xck0iALw67mBuY9Hg/pVnTb5sT1BDiA3HASVCPLsdYOqVKf/H3uAIlgjwouPxH+U+gAnHIV7FiyDVFYcDdSfmc14qr0i01JhK4hB2RghgeW0aa6YpoHzJPjYX0dWjWmBEuTJMBJJYWhJjRxXeHQ449See+D8BYqVWuPOSX6howwgYoPBg/kIuwWYCzQPSGPOosJb07lEyT3XAxldtlKcr/EwYMG5vqh2JDTB9ti5A1VS6AHD2uKbq94snFUWhPWTiJvWx3XWYh+JzcNMveOOLvgYkNxEOgIqsLFpDhRGHLZBTReTayQZcobflTBfkeS5EJ+PlSpupOAUkmj7vQXCVKHknDUgxtx6GRArOOu7aWBmuw==;R94ZP51LY8o3zDSN8cAtJg=="
 ---

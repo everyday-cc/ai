@@ -3,10 +3,10 @@ category: news
 title: "The Psychological Effects of Self-Driving Cars"
 excerpt: "Autonomous vehicles (AVs) including artificial intelligence AI-powered driverless or self-driving cars have received significant attention as a potentially safer and more sustainable mode of ..."
 publishedDateTime: 2023-12-10T00:00:00Z
-originalUrl: "https://www.psychologytoday.com/intl/blog/urban-survival/202311/the-psychological-effects-of-self-driving-cars"
-webUrl: "https://www.psychologytoday.com/intl/blog/urban-survival/202311/the-psychological-effects-of-self-driving-cars"
-ampWebUrl: "https://www.psychologytoday.com/intl/blog/urban-survival/202311/the-psychological-effects-of-self-driving-cars?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/urban-survival/202311/the-psychological-effects-of-self-driving-cars?amp"
+originalUrl: "https://www.psychologytoday.com/us/blog/urban-survival/202311/the-psychological-effects-of-self-driving-cars"
+webUrl: "https://www.psychologytoday.com/us/blog/urban-survival/202311/the-psychological-effects-of-self-driving-cars"
+ampWebUrl: "https://www.psychologytoday.com/us/blog/urban-survival/202311/the-psychological-effects-of-self-driving-cars?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/urban-survival/202311/the-psychological-effects-of-self-driving-cars?amp"
 type: article
 quality: 44
 heat: -1
@@ -37,6 +37,6 @@ related:
       domain: autoconnectedcar.com
     quality: 46
 
-secured: "vizItAv1X7BhYK2GAfxRcnYndZHlwhRAPXGa2Nd/vX4VKuUcj3RukTdx5/bwo9eqzAnCxM3rP1w8AveFupsG7sWpUb8mhU29iG9/U5oosNcPhnYkMpTMIuhegIrJhriWB0v0FnpJo6J5PBIH2x9jeHGBjRBtbvhWFG/NsXvziTyOtJ2TRlv6foPSJNcVu3NMdog77YOS66PiRywAzTXIC2aaYim7cE0dkuHR32dmKcnzF7j/zNE6vuUZFfiwGixhGuEFrX1ODnbtXf+rgJNlTg2aK4idY07Na364YOh4SzA/maq+MKKCofxEAVuDXewSYiNp2yQU/KC0XSSCJOu4lkqXALA0aGay6JFOHdP0oaw=;FU+YbHiwxybaFL7PBUfoPA=="
+secured: "SdXWeUbRcgdUgMjrs1nl/OdonnoYF7mMW2Psz8S6Bv+rXCroCspR6B6e/JqWhc2oVnG9+w9do3H4RlmcFhJkyRBHKSw6JrZLaUjbmU9Z0Syr/+OVTBwYOTBdF5kMIg5fUFLMDbcSlpdbeGRM3NHGT5bTeR+nZxN32Jy7JWX1xpKDfNoG+NHifN+Ar4KnQgZ/6fhHNvrZ2Kp2hCbPuJzX3tk72UVYJmVGZ5L2ed350Fg2GjsK0zE8mELu9y75vOTzZ3uU8Qz02aQfPeBMSw2OpDlZhB4XxGVbpjzQ4O9eYjyo464fsVm1vdRG2o6QvX6InHL0shR0j3d7tY7fg3wEBcC1XWk/GNBfou5syEhu+LY=;x+NujeTwhzIeGLvGNOdKEA=="
 ---
 
