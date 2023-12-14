@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/five-consi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/12/five-considerations-when-adopting-ai-an-executives-solid-compass/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "Unleashing The Power Of AI: How An AI Council Can Help Drive Business Transformation"
+    excerpt: "Having an internal body comprised of experts with a comprehensive understanding of AI and its potential can mitigate challenges and drive successful AI implementation."
+    publishedDateTime: 2023-12-14T12:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/14/unleashing-the-power-of-ai-how-an-ai-council-can-help-drive-business-transformation/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 42
   - title: "Seven Reactions to Biden's Executive Order on Artificial Intelligence"
     excerpt: "Their posts focus on provisions for non-industry led AI research (Viljoen), inadequate safeguards for workers' rights (Ajunwa), and tension between competition and innovation (Bietti), among other features of the EO."
     publishedDateTime: 2023-12-13T00:00:00Z
@@ -44,6 +53,15 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "Google’s Breakthroughs in Artificial Intelligence: A Comprehensive Overview"
+    excerpt: "Introduction: In the ever-evolving landscape of technology, Google stands as a trailblazer, consistently pushing the boundaries of innovation. At the forefront of their technological advancements is artificial intelligence (AI),"
+    publishedDateTime: 2023-12-14T13:53:00Z
+    webUrl: "https://techbullion.com/googles-breakthroughs-in-artificial-intelligence-a-comprehensive-overview/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 19
 
 secured: "+BiR7faaZpxKhKm1dafI1ufvEz0A2Q+vZJTBUBCT6wkdUnvU8ubBFnN0+bVQoSDkJpc09fW72MDW3EFR6HkpHVwYK2Hh9L/3gwx5Tn9kL77roa0k+AT93RL+H1bTwspHQ9EqaMKIaB7NQEugoJiNbUVVHnDquvZvD3SS95wIfZYRDiSvdzWmTspjPdfORRii1mBrB0FZSkq2Hptw1i8bPEUud1ZAB7z6BW6k8NQjgsos+COZYsoebd7NjM+FZwMx2G8qJrIWUQzl5HWOU8FMuS94Ulvg8+rNHXqLulmJBhTtIij3vPMypUMdiijhQ00qPwvHEfMmO/wsEHXgf9k32ZVnS++i62jj7heTZKN6zyI=;tCUagZBO8En6U9cN5uuEOg=="
 ---

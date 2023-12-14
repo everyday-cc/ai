@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/fine-tune-llama-2-us
 webUrl: "https://aws.amazon.com/blogs/machine-learning/fine-tune-llama-2-using-qlora-and-deploy-it-on-amazon-sagemaker-with-aws-inferentia2/"
 type: article
 quality: 97
-heat: 117
-published: true
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -29,6 +29,34 @@ images:
     isCached: true
 
 related:
+  - title: "How AWS Prototyping enabled ICL-Group to build computer vision models on Amazon SageMaker"
+    excerpt: "This is a customer post jointly authored by ICL and AWS employees. ICL is a multi-national manufacturing and mining corporation based in Israel that manufactures products based on unique minerals and fulfills humanity’s essential needs, primarily in three markets: agriculture, food, and engineered materials."
+    publishedDateTime: 2023-12-14T16:56:10Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-aws-prototyping-enabled-icl-group-to-build-computer-vision-models-on-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 112
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/12/14/icl-group-vision-models.jpg"
+        width: 1005
+        height: 504
+        isCached: true
+  - title: "Streamlining ETL data processing at Talent.com with Amazon SageMaker"
+    excerpt: "This post outlines the ETL pipeline we developed for feature processing for training and deploying a job recommender model at Talent.com. Our pipeline uses SageMaker Processing jobs for efficient data processing and feature extraction at a large scale. Feature extraction code is implemented in Python"
+    publishedDateTime: 2023-12-14T16:42:22Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/streamlining-etl-data-processing-at-talent-com-with-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/12/04/ML_14928_image001-1115x630.png"
+        width: 1115
+        height: 630
+        isCached: true
   - title: "Build an end-to-end MLOps pipeline using Amazon SageMaker Pipelines, GitHub, and GitHub Actions"
     excerpt: "Machine learning (ML) models do not operate in isolation. To deliver value, they must integrate into existing production systems and infrastructure, which necessitates considering the entire ML lifecycle during design and development. ML operations, known as MLOps, focus on streamlining, automating,"
     publishedDateTime: 2023-12-13T15:57:07Z

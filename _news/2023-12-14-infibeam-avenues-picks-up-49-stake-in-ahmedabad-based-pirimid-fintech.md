@@ -20,6 +20,28 @@ topics:
   - AI in Finance
   - AI
 
+related:
+  - title: "Infibeam Avenues Acquires 49% Stake In Pirimid Fintech To Foray Into Capital Markets Space"
+    excerpt: "Fintech company Infibeam Avenues has bought a 49% stake in Ahmedabad-based Pirimid Fintech for INR 25 Cr ($3 Mn) to strengthen its foothold in the fintech ecosystem."
+    publishedDateTime: 2023-12-14T15:49:00Z
+    webUrl: "https://inc42.com/buzz/infibeam-avenues-acquires-49-stake-in-pirimid-fintech-to-foray-into-capital-markets-space/"
+    ampWebUrl: "https://inc42.com/buzz/infibeam-avenues-acquires-49-stake-in-pirimid-fintech-to-foray-into-capital-markets-space/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/infibeam-avenues-acquires-49-stake-in-pirimid-fintech-to-foray-into-capital-markets-space/amp/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 14
+  - title: "Infibeam Avenues acquires 49% stake in capital markets software provider Pirimid Fintech"
+    excerpt: "With the stake acquisition, Infibeam is looking to integrate its digital payments framework with Pirimid Fintech's capital market trading software for clients in India and globally."
+    publishedDateTime: 2023-12-14T13:54:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/startups/infibeam-avenues-acquires-49-stake-in-capital-markets-software-provider-pirimid-fintech/articleshow/105997286.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 0
+
 secured: "1TuowqOH0ZQQ0Ax/BjJkH6AoFLj163DlddH2ZDmWcRI/R7pUz8xogcMOYtIk5ep1kyz2+lJIxzywM/RWYwoRl2q5iYx3zhi5LTX8ivEmW3O4Tr1rccJPNe5yJm4T6SBt7qlamfmn82FYQZPCalrQ2J9elp4GjGDVEfL26+ypPJwSh1RdjXqwYMf5WRMejrVhqjKOGb13AqKN+AM40+C5zNVNF//ep+oiLS5psxIHdmpApqVqiGVOTsFi2IDylVmlqDAV+9/OeqjjXw8WO3taCT+JPfypoM2jp7Tv0GlZa32X1dLnpnhOSDSAMYkh+TU3EchUETZdNHWT+ZSVkFkHjBAv83TCnVOnuRgFHZQ88KPtdU5fU4rwUC/c8cp5WrmntnZ5ESPGkkvgehNClIyP+GJG1ZYCY8kVOQ8Ms9xdWzgLm7ikPNASm3XzpAbiGCYPl0wv1Qw0bDjmgTVLBUg5viKnRGe8vDBDUMTYrDvi+newBvNeYjKc+ccVOoQNNrTYAHreh92um9k7zz43lCy1kQ==;YRPEQRnHMDrorsVKMRS2ag=="
 ---
 

@@ -55,15 +55,6 @@ related:
         width: 770
         height: 510
         isCached: true
-  - title: "Japan's Isuzu invests in Israeli AI startup for self-driving tech"
-    excerpt: "TOKYO -- Isuzu Motors has invested in Israeli startup Foretellix, which uses artificial intelligence to test the safety of autonomous vehicles, as the Japanese automaker pursues self-driving trucks. The investment was made at the end of November. The amount has not been disclosed."
-    publishedDateTime: 2023-12-09T14:10:00Z
-    webUrl: "https://asia.nikkei.com/Business/Automobiles/Japan-s-Isuzu-invests-in-Israeli-AI-startup-for-self-driving-tech"
-    type: article
-    provider:
-      name: Nikkei Asia
-      domain: nikkei.com
-    quality: 19
 
 secured: "Fc4oFaB2ZPGaDJl1k2HZhVLIi4BavdR3WkYcW5jtwnMk0lD3U++kg1PRBElwHDYZDSmn5blkYA0FWdRyXF1zAvY0pIZwXN+UDn7IOgKrYyuRNLMelqoJmPvmoHUfR9fmAo5rwzQIHEqYAMbsKyWn9K2B7n5E4d8VpinTXTBatYJBkqCIVi1NRuWzF3wMA1wzrfSVDs0sNoeCBtoWL1H44pG4KRhzaTR+X+lFklPKw5oIkCiFABtEZakfdzEkK3s6ei7P3dI6mKJMtG2FMI20IHo/ts6ccG4cP/iQEpn0xQcgP/G/xSzIr0o4BJ+k1RwQ/X8XvKSLSZDyKRFWcDiXhGyOzx2mNKGCPRPd2OolXgELxqTXoArGkxhhYFlY9mde55bYPeUtH3ARgDVDDsPSuetw6TqIQnrA6A3uC/szxrh7IppeM0X0LqSPzZWVVhgt+yMMOakdOMw8dmRf+6orSJckWQ6Q6fzACoQVl/EPhpdgSinOr7axry1yK42AmF1TLkmCotrPZT1VF1fZnRU6mw==;cSA2aB29GfwymViY6bsfGg=="
 ---

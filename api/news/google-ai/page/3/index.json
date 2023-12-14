@@ -2,6 +2,108 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-11-01-google-deepmind-debuts-new-version-of-its-alphafold-model-for-researchers.md",
+      "title": "Google DeepMind debuts new version of its AlphaFold model for researchers",
+      "excerpt": "Google DeepMind today detailed a new version of AlphaFold, an artificial intelligence model it has built to help researchers study biological molecules such as proteins.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/10/31/google-deepmind-debuts-new-version-alphafold-model-researchers/",
+      "originalUrl": "https://siliconangle.com/2023/10/31/google-deepmind-debuts-new-version-alphafold-model-researchers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T20:26:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-google-deepmind-isomorphic-labs-unveil-next-generation-of-alphafold.md",
+      "title": "Google DeepMind, Isomorphic Labs Unveil Next Generation of AlphaFold",
+      "excerpt": "AlphaFold model shows significantly improved accuracy and expands coverage beyond proteins to other biological molecules, including ligands‍",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/google-deepmind-isomorphic-labs-unveil-next-generation-of-alphafold/",
+      "originalUrl": "https://analyticsindiamag.com/google-deepmind-isomorphic-labs-unveil-next-generation-of-alphafold/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T16:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-a-blueprint-for-unbiased-ai-that-benefits-all-leadership-tips-from-google-deepminds-obum-ekeke.md",
+      "title": "A blueprint for unbiased AI that benefits all - leadership tips from Google DeepMind's Obum Ekeke",
+      "excerpt": "The aim of Google’s DeepMind unit is to ensure that AI is built responsibly, and delivers scientific breakthroughs and products that improve lives across the world. This means developing AI systems that benefit society without reinforcing bias and unfairness, and can invent new ideas but also reliably behave in expected ways.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/blueprint-unbiased-ai-benefits-all-leadership-tips-google-deepminds-obum-ekeke",
+      "originalUrl": "https://diginomica.com/blueprint-unbiased-ai-benefits-all-leadership-tips-google-deepminds-obum-ekeke",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T10:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-31-deepminds-latest-alphafold-model-is-more-useful-for-drug-discovery.md",
       "title": "DeepMind’s latest AlphaFold model is more useful for drug discovery",
       "excerpt": "Nearly five years ago, DeepMind, one of Google’s more prolific AI-centered research labs, debuted AlphaFold, an AI system that can accurately predict the structures of many proteins inside the ...",

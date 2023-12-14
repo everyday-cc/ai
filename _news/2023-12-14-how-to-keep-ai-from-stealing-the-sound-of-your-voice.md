@@ -41,6 +41,22 @@ related:
         width: 1439
         height: 900
         isCached: true
+  - title: "Unlearning Trust In The Era Of AI"
+    excerpt: "With easy access to such technology, it is looking increasingly like if we don’t educate ourselves, the scammers will do it by victimizing us."
+    publishedDateTime: 2023-12-14T14:46:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/14/unlearning-trust-in-the-era-of-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/14/unlearning-trust-in-the-era-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/14/unlearning-trust-in-the-era-of-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63e292ad91acc2abf24c9763/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1092
+        height: 728
+        isCached: true
   - title: "Three Trends Shaping The Future Of Cloud Migration"
     excerpt: "Chetan Mathur is CEO of Next Pathway, the Automated Cloud Migration company."
     publishedDateTime: 2023-12-12T11:45:00Z
@@ -159,6 +175,15 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "All the Jobs AI Is Coming for, According to a UK Study"
+    excerpt: "Following ChatGPT's launch late last year, the speed at which AI has caught on surprised almost everybody. There are jobs already being affected, too: Some layoffs this year came due to companies believing AI could replace certain roles,"
+    publishedDateTime: 2023-12-11T18:30:00Z
+    webUrl: "https://lifehacker.com/tech/the-jobs-most-at-risk-from-ai-according-to-a-uk-study"
+    type: article
+    provider:
+      name: Lifehacker
+      domain: lifehacker.com
+    quality: 19
   - title: "How Artificial Intelligence Is Transforming HR Practices"
     excerpt: "Artificial intelligence (AI) has taken various industries by storm, with human resource management (HRM) being no exception. With a variety of AI tools, businesses in several industries are reaping the rewards of innovative technology to optimize their HR operations."
     publishedDateTime: 2023-12-12T02:03:00Z
@@ -187,6 +212,6 @@ related:
       domain: hbr.org
     quality: 17
 
-secured: "fl792nQ3DaRS24jTOkWcjZs0OV2NTPyGtTjdRjJEIdCgWrJpA27B2ZJfKH5Vw0eQnuJhl+skmbxxlUeTi+c1b6vB3a8ydUSNPs8eLtMr69syOR+Wl3NtTPHLBkrk/OiDdfnnybAHniXmlIMUar9rIXSBCNjkPPeaY8bJlzWtUxlR782b8aEaW1v+SWMeP3Gi9nZ8keTWAjDhSCOsDsRmnr3X++jnc5dd8MMj2ifRVjGSkgKxHvP7mj0dzOOMK3QMH71UA4BNz4cAsRYvP4TWM42D8Ksv8DixnnL5x/H34GST0VexTzOWeOUWn6zEVuZpqs4xzE8hwSt+AvqNHCQ2ghn7IdEwFF2gEPVCevrGOBA=;YiCyzMmcw3KQXnbKdN1zuw=="
+secured: "oCV/T1G1xpdTyrH39TQtPwtZmPROj/O6ZcAuQ2A2lORaHgrKPqzMAH6en6Kcd/fEb/R2X2rcxx2v8N8YrHWdKWhmOmonRxD4d3hsdlDKF2I8bR3VBkfEwDFZxpnhtMvUHbRuAVXxHX5Re3NmBDltJNxCFh3ws0XA8vv2EiPjUMnMPS3Z9cFCjGKlG40c9ZgOZbivAjZisCClDLPfZsBEH1w4CALPczupEolBz8Y5yJBYxqmxPmbC36diueclkdygfJbpUwW/9OwNzrLXv9ZwFK1iASo8vdfS+CTxeEiJH/pQ37fcZSloXe4zhMx1ZguCehUvQxNS7Hwr+GMhNQPfXrgB9Mml/qP5NH9y2/P0Md6q9MoAQ7rFpzL4iErFK1IMcG7QXQH9HuhePFQzdqHhZG1XiQqeQVBY2slq2GRPS7ETXlOZsoV4/XFe9gR2ohWLtAsggJM5qXiB1GfDZ+YrpYmR0tWpCiM4TOzFxousAffnPt8c5Ooan9mtyKscMH0IutF6nuZMawg6FMFAocE9rg==;xJ8xHHTsE2KeU/+hU6pjnw=="
 ---
 

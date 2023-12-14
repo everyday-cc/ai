@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/12/13/google-unveils-medlm-a-family-of-h
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/13/google-unveils-medlm-a-family-of-healthcare-focused-generative-ai-models/amp/"
 type: article
 quality: 103
-heat: 123
+heat: 143
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google launches MedLM generative AI models for the healthcare industry"
+    excerpt: "Among those is MedLM, a group of AI models specifically geared ... conversations and automatically translate them into medical notes. According to Google, adding MedLM’s generative AI to Augmedix’s natural language processing will help to continuously ..."
+    publishedDateTime: 2023-12-14T11:14:00Z
+    webUrl: "https://www.fiercebiotech.com/medtech/google-launches-medlm-generative-ai-models-healthcare-industry"
+    type: article
+    provider:
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 56
+    images:
+      - url: "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1642519310/shutterstock_552493561.jpg/shutterstock_552493561.jpg?VersionId=LeJ1TxPxtZUluu3M8xjR.93_nR28t8TP"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Google Cloud partners with Mistral AI on generative language models"
     excerpt: "\"As part of the agreement, Mistral AI will use Google Cloud’s AI-optimized infrastructure, including TPU Accelerators, to further test, build, and scale up its LLMs (large language models), all while benefiting from Google Cloud's security and privacy standards,"
     publishedDateTime: 2023-12-13T17:09:00Z
@@ -45,6 +59,15 @@ related:
         width: 800
         height: 528
         isCached: true
+  - title: "Google announces AI uses for health care market"
+    excerpt: "Google LLC announced its latest foray into artificial intelligence Wednesday with the debut of MedLM, a suite of new health care-focused large language models (LLMs) tools. Alphabet Inc. (Nasdaq: GOOGL)-owned Google has been testing the AI platform with ..."
+    publishedDateTime: 2023-12-14T00:01:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/12/14/google-announces-ai-uses-for-health-care-market.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
   - title: "Google offers enhanced generative AI features for cloud customers"
     excerpt: "Alphabet Inc.’s Google announced a slate of upgraded artificial intelligence features for its cloud-computing clients as the technology giant tries to catch up with rivals, including the allied forces of Microsoft Corp. and startup OpenAI, who have taken advantage of the AI boom."
     publishedDateTime: 2023-12-14T02:28:00Z

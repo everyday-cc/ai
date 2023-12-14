@@ -1,0 +1,92 @@
+---
+category: news
+title: "New Cap Uses AI to ‘Read Minds’ and Convert Thoughts to Text"
+excerpt: "Unlike most 'mind-reading' technologies, this one doesn't involve eye tracking or a surgically implanted brain chip."
+publishedDateTime: 2023-12-14T13:10:00Z
+originalUrl: "https://www.extremetech.com/science/new-cap-uses-ai-to-read-minds-and-convert-thoughts-to-text"
+webUrl: "https://www.extremetech.com/science/new-cap-uses-ai-to-read-minds-and-convert-thoughts-to-text"
+type: article
+quality: 19
+heat: -1
+published: false
+
+provider:
+  name: ExtremeTech
+  domain: extremetech.com
+
+topics:
+  - Natural Language Processing
+  - AI
+
+related:
+  - title: "This Mind-Reading Cap Can Translate Thoughts to Text Thanks to AI"
+    excerpt: "The system could give voice to people who can no longer communicate or be used to direct machines, like walking robots or robotic arms, with thoughts alone."
+    publishedDateTime: 2023-12-13T00:03:00Z
+    webUrl: "https://singularityhub.com/2023/12/12/this-mind-reading-cap-can-translate-thoughts-to-text-thanks-to-ai/"
+    ampWebUrl: "https://singularityhub.com/2023/12/12/this-mind-reading-cap-can-translate-thoughts-to-text-thanks-to-ai/?amp=1"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/12/12/this-mind-reading-cap-can-translate-thoughts-to-text-thanks-to-ai/?amp=1"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 74
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2023/12/dewave-ai-eeg-thought-reading-device.jpeg"
+        width: 1408
+        height: 792
+        isCached: true
+  - title: "AI-Powered System Turns Thoughts Into Text"
+    excerpt: "In a world-first, researchers have developed a non-invasive, AI-powered system that can decode thought into text, potentially enabling seamless communication between humans and machines."
+    publishedDateTime: 2023-12-12T10:37:00Z
+    webUrl: "https://www.technologynetworks.com/neuroscience/news/ai-powered-system-turns-thoughts-into-text-381934"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 39
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/381934/ai-powered-system-turns-thoughts-into-text-381934-640x360.jpg?cb=20231212"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "Mind-reading AI technology turns thoughts into text"
+    excerpt: "Researchers have developed a portable, non-invasive system that can decode silent thoughts and turn them into text."
+    publishedDateTime: 2023-12-12T16:49:00Z
+    webUrl: "https://interestingengineering.com/innovation/mind-reading-ai-thoughts-text"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/12/12/image/jpeg/xB2oox3Gqk9Je6ZZrhlbIrkxAX6GUVOYBEFigv0t.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Mind-reading technology transforms thoughts into text"
+    excerpt: "In an unprecedented scientific achievement, experts have developed a system that is capable of reading human thoughts and converting them into text. The technology was designed by the GrapheneX-UTS Human-centric Artificial Intelligence Centre at the University of Technology Sydney (UTS)."
+    publishedDateTime: 2023-12-12T00:25:00Z
+    webUrl: "https://www.earth.com/news/mind-reading-technology-transforms-thoughts-into-text/"
+    type: article
+    provider:
+      name: earth
+      domain: earth.com
+    quality: 24
+    images:
+      - url: "https://cff2.earth.com/uploads/2023/12/11171532/Mind-reading-technology-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
+  - title: "Portable, non-invasive, mind-reading AI turns thoughts into text (w/video)"
+    excerpt: "“It is the first to incorporate discrete encoding techniques in the brain-to-text translation process, introducing an innovative approach to neural decoding. The integration with large language models is also opening new frontiers in neuroscience and AI ..."
+    publishedDateTime: 2023-12-12T00:00:00Z
+    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=64235.php"
+    type: article
+    provider:
+      name: Nanowerk
+      domain: nanowerk.com
+    quality: 17
+
+secured: "8/3NLYNWbiHYD3dUXZpoUl3P3ipp9S9AIhu0VACz9A/ZWukq+6Z7XDHFcCYSl2N6rJhBDYOJ1stJ6A8z4sVs2pocjJPVI3z0NONGkPMEV3hUpnCnXCM/dpiYDuDO33wDt5CGN0km+l8xu8tucA7Bj/Ey2kGuDGsRT8nCERIJHGNO6M1i6JNrKIy7x2YW08YJwVYA3u03bJykfbfBDrkhYBVLzBYU5+R/QkAB4ldErMagq3xrOfuNQmPjRw/CQmHysPlLatSXsp+TNpvoXRZ80RAgfhXGX5F+RfPtJsCgZvQlSnbQlEIslLCNA4+prqDYn0H4NiVay1AqZXjhw3x5q/t3Iu/kOCuhdg/TbXoZG5hojafqGlPxEyZmtaLsDbbJAMeIsf2UHqYGN4TdOCpsWpOuMfTuPyQsOFH2YRpZt4/HQmNlM6inJ4SWdP9qICkJgq1U60iUF959MAoHndhBTJOPVesvCqNMbBfwDODUNPCH5PRPwVt3lRr/h8dYa2WZ0X1222MXBU2fZWdzznpc4A==;kTuy8yKJVlx6c0oYl5tqoA=="
+---
+

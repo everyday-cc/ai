@@ -7,7 +7,7 @@ originalUrl: "https://electrek.co/2023/12/12/tesla-unveils-optimus-gen-2-next-ge
 webUrl: "https://electrek.co/2023/12/12/tesla-unveils-optimus-gen-2-next-generation-humanoid-robot/"
 type: article
 quality: 86
-heat: 96
+heat: 116
 published: true
 
 provider:
@@ -46,6 +46,24 @@ related:
         width: 1200
         height: 738
         isCached: true
+  - title: "Tesla Optimus Gen-2: Musk’s Robot Can Gently Carry an Egg"
+    excerpt: "Tesla has unveiled Optimus Gen-2, the 2nd generation bipedal robot with the ability to walk independently, dance, and manipulate objects."
+    publishedDateTime: 2023-12-14T11:17:00Z
+    webUrl: "https://www.techopedia.com/tesla-optimus-gen-2-joins-the-world-of-ai-robots"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 36
+  - title: "New Tesla Optimus Gen 2 humanoid robot jumps from scripted to autonomous controls"
+    excerpt: "Tesla has unveiled its latest humanoid robot the Optimus Gen 2 which now features AI autonomous controls rather than human written commands"
+    publishedDateTime: 2023-12-14T13:15:00Z
+    webUrl: "https://www.geeky-gadgets.com/tesla-optimus-gen-2-humanoid-robot/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 31
 
 secured: "9o9tRerliS0ncoE3ws4e2mOTIZOj9We5/wtj9LwkZUNPvQWiy9nmTZnuWDkbJCd1g9GwjuYrMJVM88mWe9VXGAvvqB7CVBPqAFCC66sSDCgjApUZsHzNh+5fiZe6SK3qRS+Q1e55i9M86hBN3IeZ6KrCD12t9xSNncqGuVgeSsA4TRWmxGEnwVvLFDmOO4TmCL7eV4zodrQeqK13vN5+E7bEOKb8KwzUpyplCR1f143Jv0ii7UqG17acnBQcU0JDkXqigdvxdvs0c9BkfSomVkcKkurgF+L+MDqWCu5v+YDS/bnC6qGtHarTsdTq36KEQIujbjs2iWTUbWLA551M7YDPi2/9pfWfJebxafgc2UpoOZonaNzKoQPEAKbrSjKTKFub8vEYBnzSYDqIiWzCPEvM92KeGelPmr3mt66kiz7kazZ7FkB4QFuOqFbZdLOsjq29iiuDGD1/jDbjGZkGgzJaGGWuwgJCzmzaN4vFdf9tNV/RhYJbjaWXSVne0BoFiKlBVNsCyrI5b42vuYL12A==;K4dKFIHqqK4oaTZ4qkBDiQ=="
 ---

@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Intel Announces AI-Oriented 5th Gen Xeon, Gives Gaudi3 GPU Accelerator Sneak Peak"
+    excerpt: "Gearing up for what it intends to be a multi-horse race in the exploding AI chip sector, Intel today announced a next-generation Xeon enterprise and data center CPU built with AI inferencing in mind,"
+    publishedDateTime: 2023-12-14T15:10:00Z
+    webUrl: "https://insidehpc.com/2023/12/intel-announces-ai-oriented-5th-gen-xeon-gives-gaudi3-gpu-accelerator-sneak-peak/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 49
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2023/12/Intel-5th-Gen-Xeon-2-1-1223.png"
+        width: 996
+        height: 512
+        isCached: true
 
 secured: "fAyHWEtuGsdDDPVfiZmxzwnLaxm1pH4KQKREY4T6qWL0aqmSzM8doQl3KGFd7lfvc1ALsclxbjrQIjfwFjXpDUEX9OKJza61RsubAx3+4OXn0h/54e05Lg9OTAtfaPcITIe3u6Gov/dFwtVHLugfBPs0FcoDwY7Rr1Poa/rAvg1c1J7PmvJkmF2+xsol7FXLWteKXXOCSRwu7iNCp+KnXcG5s9lJz+9E292MIlMMjot4QKNQytA0Hw2+QUkPKDduhf9Ka/WAdf7kGGtsU1YQePrA6iTsMlK/X/1XEP/hyLeWNwFHd3hEQ6AhbPyn+zhzQpe6WKvAHAi5wTxrsI7QogvDm1CJ3OklXAEhGVepiOo=;WhCZng6yhuAoZmM3y+sZVg=="
 ---

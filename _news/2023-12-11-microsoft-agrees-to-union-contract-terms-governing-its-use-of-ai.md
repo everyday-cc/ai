@@ -207,6 +207,20 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Lawmakers hear support for expanding authority to control China’s access to AI tech through the cloud"
+    excerpt: "Fist said there are some factions pushing for a wholesale ban of all AI-related supply chain elements being exported to China -- whether chips or cloud -- and others, like CNAS, advocating a more “surgical” approach that would include thresholds similar to those identified in the executive order."
+    publishedDateTime: 2023-12-14T16:09:00Z
+    webUrl: "https://www.cnas.org/press/in-the-news/lawmakers-hear-support-for-expanding-authority-to-control-chinas-access-to-ai-tech-through-the-cloud"
+    type: article
+    provider:
+      name: CNAS
+      domain: cnas.org
+    quality: 24
+    images:
+      - url: "https://s3.us-east-1.amazonaws.com/files.cnas.org/title/China-Flag-Getty.jpg"
+        width: 1600
+        height: 866
+        isCached: true
   - title: "Striim Integrates with Microsoft Fabric to Deliver Real-Time Data Streaming Innovation for Analytics and AI"
     excerpt: "Striim, an industry leader in real-time data integration and streaming, is excited to announce its integration with"
     publishedDateTime: 2023-12-13T18:51:00Z

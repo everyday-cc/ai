@@ -35,6 +35,22 @@ related:
         width: 1600
         height: 899
         isCached: true
+  - title: "IIT Delhi Launches New Certification for Quantum Computing & Machine Learning"
+    excerpt: "IIT Delhi to propel professionals into the Quantum Future with Certification in Quantum Computing & Machine Learning. The five-month online programme includes modules on Quantum Mechanics, Quantum Algorithms,"
+    publishedDateTime: 2023-12-14T15:23:00Z
+    webUrl: "https://www.timesnownews.com/education/iit-delhi-launches-new-certification-for-quantum-computing-machine-learning-article-105998969"
+    ampWebUrl: "https://www.timesnownews.com/education/iit-delhi-launches-new-certification-for-quantum-computing-machine-learning-article-105998969/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/education/iit-delhi-launches-new-certification-for-quantum-computing-machine-learning-article-105998969/amp"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 56
+    images:
+      - url: "https://static.tnn.in/thumb/msid-105998962,thumbsize-1478046,width-1280,height-720,resizemode-75/105998962.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "s4FvI1KTbY0Vhla9VrQFHxsHgG8Ys7SHb+dinbwqHlMAJ8++oCU5cVQJXpqqORGp2yxLI3YRw746Bs/zoa8PV6v5UouM5b11VI5iQtojypqhrXN79u4Hq6CKTvN49NLmStxfw/s1FARPhAEouKzlc1WpjC6uTUDEViXexbnRoKdNcI7B90YTla+J2rYBLPdrLAiYx5DS+unORrfajo5HMpWpCshKQBvmNgevQD0wKwulno6ruWDFSqtdH/Dja5owyoZQEJjsp+cCrjixXAi2kjzde4bJQ8fgOWCbAfhRFy9l9zIiTUosfj1b4rrZG+OqxMDeBQtV427iv3yTWdh2Z7rttRxl8akA/SXNZuveRhc=;ULP2XQq4FGuTs80kyHs5Iw=="
 ---

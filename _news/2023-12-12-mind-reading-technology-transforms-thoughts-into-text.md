@@ -69,6 +69,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "New Cap Uses AI to ‘Read Minds’ and Convert Thoughts to Text"
+    excerpt: "Unlike most 'mind-reading' technologies, this one doesn't involve eye tracking or a surgically implanted brain chip."
+    publishedDateTime: 2023-12-14T13:10:00Z
+    webUrl: "https://www.extremetech.com/science/new-cap-uses-ai-to-read-minds-and-convert-thoughts-to-text"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 19
   - title: "Portable, non-invasive, mind-reading AI turns thoughts into text (w/video)"
     excerpt: "“It is the first to incorporate discrete encoding techniques in the brain-to-text translation process, introducing an innovative approach to neural decoding. The integration with large language models is also opening new frontiers in neuroscience and AI ..."
     publishedDateTime: 2023-12-12T00:00:00Z

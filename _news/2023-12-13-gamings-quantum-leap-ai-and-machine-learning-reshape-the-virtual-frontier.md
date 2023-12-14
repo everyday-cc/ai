@@ -47,6 +47,15 @@ related:
         width: 650
         height: 450
         isCached: true
+  - title: "The Dawn Of AI Disruption: How 2024 Marks A New Era In Innovation"
+    excerpt: "On the computing front, more advanced AI chips and dedicated hardware infrastructure will enable running sophisticated generative models at the edge - built for efficiency without compromising capability. This will exponentially expand smaller ..."
+    publishedDateTime: 2023-12-14T14:46:00Z
+    webUrl: "https://www.forbes.com/sites/markminevich/2023/12/14/the-dawn-of-ai-disruption-how-2024-marks-a-new-era-in-innovation/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
 
 secured: "Y0XsNC1HdN4Nno7Fc6kEwNXxH0kX7QjEalJ6zJcn6O+BT7qb06wjX4x1h17KgKMyMqgAi6ldZ0cu6p54pu4bB7TiiToXKjLGDPxesanXvrs0oUZzx/++2vvimJJO5zc4nopBaAZsRdPgTP4W08jSLSLzK83smYpsazfbf25jdbcwwbLfpGXKEWsI0oE9skXLH7NaWzmah4Z7QJ6gsRMqJlRzRo80XdWySGFJpz50BIoflJ4+R3AWfu5+cXYkn1ocILGKRN69hiYp8JxkMN1JS1FFpzaA1Q+L1prqMrmdZ9vWXtnDS4JKPlAUcGYRkTsdtNnplLpw03lV+QnvmAKff+67+x6j0N5wMK1ywnramM47QURBBN5IkFv/5XLPeHTPfQ7v58F8Elq4O9Ivj8ltYdjQK219oWoPxhWFXkLjXMEdVxugfirnJY6KG4CElHNj7SL5M3TFsHeHn91vGgXzpo2JJ2CNsymxrHUpWMLv7lMf1RRZfscCM8RCMXQAFiCoWe8lrpQFASp+c2+Ls1nZDg==;2dT1waqn7IvhrHpxjxQcoQ=="
 ---

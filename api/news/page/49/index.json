@@ -2,6 +2,732 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2023-11-01-bidens-executive-order-on-ai-is-a-good-start-experts-say-but-not-enough.md",
+      "title": "Biden’s Executive Order on AI Is a Good Start, Experts Say, but Not Enough",
+      "excerpt": "A new executive order signed this week sets the stage for federal AI standards and requirements and moves beyond previous voluntary agreements with AI companies",
+      "sourceUrl": null,
+      "webUrl": "https://www.scientificamerican.com/article/bidens-executive-order-on-ai-is-a-good-start-experts-say-but-not-enough/",
+      "originalUrl": "https://www.scientificamerican.com/article/bidens-executive-order-on-ai-is-a-good-start-experts-say-but-not-enough/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.scientificamerican.com/sciam/cache/file/06C51E75-1BE8-4025-B090C693B2B26F8F.jpg",
+          "width": 790,
+          "height": 496,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.scientificamerican.com/article/bidens-executive-order-on-ai-is-a-good-start-experts-say-but-not-enough/?amp=true",
+      "cdnAmpWebUrl": "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/bidens-executive-order-on-ai-is-a-good-start-experts-say-but-not-enough/?amp=true",
+      "publishedDateTime": "2023-10-31T21:22:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Scientific American",
+        "domain": "scientificamerican.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-11-01-google-deepmind-debuts-new-version-of-its-alphafold-model-for-researchers.md",
+      "title": "Google DeepMind debuts new version of its AlphaFold model for researchers",
+      "excerpt": "Google DeepMind today detailed a new version of AlphaFold, an artificial intelligence model it has built to help researchers study biological molecules such as proteins.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/10/31/google-deepmind-debuts-new-version-alphafold-model-researchers/",
+      "originalUrl": "https://siliconangle.com/2023/10/31/google-deepmind-debuts-new-version-alphafold-model-researchers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T20:26:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-01-quadruped-robots-may-one-day-give-seeing-eye-dogs-a-run-for-their-money.md",
+      "title": "Quadruped robots may one day give seeing-eye dogs a run for their money",
+      "excerpt": "While seeing-eye dogs can be very helpful to the blind, raising and training them is a long and expensive process. Scientists have therefore recently started investigating the possibility of outsourcing the job to dog-like quadruped robots.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/robotics/quadruped-robots-seeing-eye-dogs/",
+      "originalUrl": "https://newatlas.com/robotics/quadruped-robots-seeing-eye-dogs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/9cb492e/2147483647/strip/true/crop/1000x525+0+71/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fac%2F9d%2F0931865948549d80f73317997bfe%2Frobot-seeing-eye-dog-1.png&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T20:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-01-two-wisconsin-task-forces-look-at-the-potential-impact-of-artificial-intelligence-on-jobs.md",
+      "title": "Two Wisconsin task forces look at the potential impact of artificial intelligence on jobs",
+      "excerpt": "Two state task forces are now underway in Wisconsin looking at how the use of technology known as AI, or artificial intelligence, may affect the workforce. AI, as defined by the Oxford Dictionary, is the theory and development of computer systems able to perform tasks that normally require human intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wuwm.com/2023-10-31/two-wisconsin-task-forces-look-at-the-potential-impact-of-artificial-intelligence-on-jobs",
+      "originalUrl": "https://www.wuwm.com/2023-10-31/two-wisconsin-task-forces-look-at-the-potential-impact-of-artificial-intelligence-on-jobs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://npr.brightspotcdn.com/dims4/default/fcde6a7/2147483647/strip/true/crop/1576x827+0+12/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F59%2F94%2Fcc0542394dc9a8e3cb2f9210a5aa%2Fscreenshot-2023-10-31-at-9-46-34-am.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T20:04:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WUWM",
+        "domain": "wuwm.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-01-dell-and-meta-partner-to-bring-llama-2-open-source-ai-to-enterprise-users-on-premises.md",
+      "title": "Dell and Meta partner to bring Llama 2 open source AI to enterprise users on-premises",
+      "excerpt": "Dell is adding support for Meta Llama 2 models to its lineup of Dell Validated Design for Generative AI hardware.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/dell-and-meta-partner-to-bring-llama-2-open-source-ai-to-enterprise-users-on-premises/",
+      "originalUrl": "https://venturebeat.com/ai/dell-and-meta-partner-to-bring-llama-2-open-source-ai-to-enterprise-users-on-premises/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T20:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-01-the-best-robot-vacuum-for-me-is-the-one-i-hacked.md",
+      "title": "The best robot vacuum for me is the one I hacked",
+      "excerpt": "iRobot and Roomba are almost synonymous with robot vacuums at this point; they aren’t ideal for hacking because they lack the processor overhead to run Valetudo. The most commonly used models for installing Valetudo are from Roborock and Dreame.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/23934731/valetudo-robot-vacuum-hacking",
+      "originalUrl": "https://www.theverge.com/23934731/valetudo-robot-vacuum-hacking",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T19:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-01-this-story-was-not-written-by-a-robot.md",
+      "title": "This story was not written by a robot",
+      "excerpt": "The subfield of artificial intelligence underlying most newsroom robots is called “natural language generation ... 2017 as a joint venture of the U.K.'s Press Association and startup Urbs Media, with more than €700,000 of funding from Google ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/article/robot-reporters-newsroom-algorithms-artificial-intelligence/",
+      "originalUrl": "https://www.politico.eu/article/robot-reporters-newsroom-algorithms-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2019/02/AI-Journalists-Finalcrop.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T19:22:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico Europe",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-01-va-to-launch-artificial-intelligence-contest-to-help-health-care-staff.md",
+      "title": "VA to launch artificial intelligence contest to help health care staff",
+      "excerpt": "(Evan Vucci/AP) Veterans Affairs leaders will launch a $1 million competition focused on artificial intelligence solutions to preventing burnout among department health care workers as part of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.militarytimes.com/veterans/2023/10/31/va-to-launch-artificial-intelligence-contest-to-help-health-care-staff/",
+      "originalUrl": "https://www.militarytimes.com/veterans/2023/10/31/va-to-launch-artificial-intelligence-contest-to-help-health-care-staff/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.militarytimes.com/resizer/VL11BMGBWPWDGgJwJvsANRuHm5M=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/HOSECCKKVVFKHL5AERVOGO2L4Q.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T18:12:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Military Times",
+        "domain": "militarytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-01-helping-paralyzed-people-use-thought-to-control-computers-and-robotic-limbs.md",
+      "title": "Helping Paralyzed People Use Thought to Control Computers and Robotic Limbs",
+      "excerpt": "A number of medical conditions can cause paralysis including spinal cord injury, stroke, neurological diseases, and traumatic brain injury. By  What i",
+      "sourceUrl": null,
+      "webUrl": "https://www.coloradoboulevard.net/helping-paralyzed-people-use-thought-to-control-computers-and-robotic-limbs/",
+      "originalUrl": "https://www.coloradoboulevard.net/helping-paralyzed-people-use-thought-to-control-computers-and-robotic-limbs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T17:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ColoradoBoulevard",
+        "domain": "coloradoboulevard.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-01-president-bidens-new-ai-executive-order-sets-safety-market-standards.md",
+      "title": "President Biden's New AI Executive Order Sets Safety, Market Standards",
+      "excerpt": "The order is said to include 'the most sweeping actions ever taken to protect Americans from the potential risks of AI systems.'",
+      "sourceUrl": null,
+      "webUrl": "https://www.extremetech.com/internet/president-bidens-new-ai-executive-order-sets-safety-market-standards",
+      "originalUrl": "https://www.extremetech.com/internet/president-bidens-new-ai-executive-order-sets-safety-market-standards",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T17:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ExtremeTech",
+        "domain": "extremetech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-01-defense-tech-startup-shield-ai-raises-200m-at-27b-valuation.md",
+      "title": "Defense Tech Startup Shield AI Raises $200M At $2.7B Valuation",
+      "excerpt": "Shield AI, the defense and aerospace startup creating AI pilots, raised a $200 million Series F at a $2.7 billion valuation.",
+      "sourceUrl": null,
+      "webUrl": "https://news.crunchbase.com/ai/defense-tech-startup-venture-aircraft-shield/",
+      "originalUrl": "https://news.crunchbase.com/ai/defense-tech-startup-venture-aircraft-shield/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.crunchbase.com/wp-content/uploads/2018/09/govt_tech.png",
+          "width": 900,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T17:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "news.crunchbase",
+        "domain": "crunchbase.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-01-were-not-cruising-into-a-driverless-future-just-yet.md",
+      "title": "We’re Not Cruising Into a Driverless Future Just Yet",
+      "excerpt": "Autonomous vehicles roamed Austin this summer. Self-driving trucks shuttle freight across Texas. The autonomous future is here—but its arrival is fraught.",
+      "sourceUrl": null,
+      "webUrl": "https://www.texasmonthly.com/news-politics/driverless-cars-hit-brakes/",
+      "originalUrl": "https://www.texasmonthly.com/news-politics/driverless-cars-hit-brakes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T17:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Texas Monthly",
+        "domain": "texasmonthly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-google-deepmind-isomorphic-labs-unveil-next-generation-of-alphafold.md",
+      "title": "Google DeepMind, Isomorphic Labs Unveil Next Generation of AlphaFold",
+      "excerpt": "AlphaFold model shows significantly improved accuracy and expands coverage beyond proteins to other biological molecules, including ligands‍",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/google-deepmind-isomorphic-labs-unveil-next-generation-of-alphafold/",
+      "originalUrl": "https://analyticsindiamag.com/google-deepmind-isomorphic-labs-unveil-next-generation-of-alphafold/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T16:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-facial-recognition-tool-nets-over-6m-sim-card-fraudsters-in-india-in-6-months.md",
+      "title": "Facial recognition tool nets over 6M SIM card fraudsters in India in 6 months",
+      "excerpt": "The Facial recognition tool ASTR identifies a face by matching a photo or video against an image in the SIM card subscriber database.",
+      "sourceUrl": null,
+      "webUrl": "https://www.biometricupdate.com/202310/facial-recognition-tool-nets-over-6m-sim-card-fraudsters-in-india-in-6-months",
+      "originalUrl": "https://www.biometricupdate.com/202310/facial-recognition-tool-nets-over-6m-sim-card-fraudsters-in-india-in-6-months",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T16:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-scientists-identify-artificial-intelligence-tools-that-can-improve-mental-health.md",
+      "title": "Scientists identify Artificial Intelligence tools that can improve mental health",
+      "excerpt": "Scientists have identified an Artificial intelligence (AI) tool that could help improve mental health conditions of individuals.",
+      "sourceUrl": null,
+      "webUrl": "https://nairametrics.com/2023/10/31/scientists-identify-artificial-intelligence-tools-that-can-improve-mental-health/",
+      "originalUrl": "https://nairametrics.com/2023/10/31/scientists-identify-artificial-intelligence-tools-that-can-improve-mental-health/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T15:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nairametrics",
+        "domain": "nairametrics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-ai-safety-use-cases-signing-off-on-financial-services-black-box.md",
+      "title": "AI safety use cases - signing off on Financial Services’ ‘black box’",
+      "excerpt": "Yes, there are stringent regulations that the banks are worried about. So, the use cases where they've adopted AI have, until now, been in places that auditors have scored as low risk. Areas like customer service, where they've used things like text analytics and simplistic AI. But now generative AI is coming into the picture.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/ai-safety-use-cases-signing-financial-services-black-box",
+      "originalUrl": "https://diginomica.com/ai-safety-use-cases-signing-financial-services-black-box",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T15:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-aws-adds-new-code-generation-models-to-amazon-sagemaker-jumpstart.md",
+      "title": "AWS Adds New Code Generation Models to Amazon SageMaker JumpStart",
+      "excerpt": "Subscribe for free. Today, we are excited to announce Code Llama foundation models, developed by Meta, are available for customers through Amazon SageMaker JumpStart to deploy with one click for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2023/10/sagemaker-jumpstart-code/",
+      "originalUrl": "https://www.infoq.com/news/2023/10/sagemaker-jumpstart-code/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T15:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-romeo-miller-says-eminem-doesnt-get-the-recognition-he-deserves.md",
+      "title": "Romeo Miller Says Eminem “Doesn’t Get The Recognition He Deserves”",
+      "excerpt": "Romeo Miller recently received the Community Impact Award at the Future Stars Charity Gala, delivering a heartfelt speech connecting his success in entertainment to his success in sports. Real name Percy Miller first received a scholarship to hoop at USC,",
+      "sourceUrl": null,
+      "webUrl": "https://thesource.com/2023/10/31/romeo-miller-says-eminem-doesnt-get-the-recognition-he-deserves/",
+      "originalUrl": "https://thesource.com/2023/10/31/romeo-miller-says-eminem-doesnt-get-the-recognition-he-deserves/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T15:06:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Source Magazine",
+        "domain": "thesource.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-comma-ai-self-driving-close-behind-tesla-fsd.md",
+      "title": "Comma AI Self Driving Close Behind Tesla FSD",
+      "excerpt": "Comma 3X gives a comfortable highway self driving experience based upon early reviews ... It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextbigfuture.com/2023/10/comma-ai-self-driving-close-behind-tesla-fsd.html",
+      "originalUrl": "https://www.nextbigfuture.com/2023/10/comma-ai-self-driving-close-behind-tesla-fsd.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T14:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NextBigFuture",
+        "domain": "nextbigfuture.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-31-8-major-ai-trends-in-the-fintech-industry-in-2023.md",
       "title": "8 Major AI Trends In The Fintech Industry In 2023",
       "excerpt": "Fintech is one of the most innovative industries, with new technologies and approaches being adopted much faster than anywhere else.",
@@ -212,736 +938,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-alibabas-cloud-unit-now-serves-80-per-cent-of-chinese-tech-companies-and-half-of-countrys-ai-language-model-firms-group-chairman-joe-tsai.md",
-      "title": "Alibaba’s cloud unit now serves 80 per cent of Chinese tech companies and half of country’s AI language model firms, group chairman Joe Tsai says",
-      "excerpt": "It features ready-to-use AI models contributed by leading AI institutions, covering areas from computer vision to natural language processing. Alibaba Cloud’s start-up catalyst programme was also launched at the conference. It offers cloud computing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3239856/alibabas-cloud-unit-now-serves-80-cent-chinese-tech-companies-and-half-countrys-ai-language-firms?ref=biztoc.com",
-      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3239856/alibabas-cloud-unit-now-serves-80-cent-chinese-tech-companies-and-half-countrys-ai-language-firms?ref=biztoc.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_scmp_120/public/d8/images/canvas/2023/10/31/c3296103-8a12-465b-9d11-d7aaf0bc5384_fbc6ebb8.jpg?itok=wdDKiw7z&v=1698754515",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T12:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-zeroone-achieves-aws-machine-learning-competency-leading-the-mena-region.md",
-      "title": "Zero&One achieves AWS machine learning competency, leading the MENA region",
-      "excerpt": "This remarkable achievement underscores Zero&One's leadership in harnessing the transformative potential of cloud technology, empowering businesses to unlock new opportunities, enhance operational efficiency,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/companies-news/zero-and-one-achieves-aws-machine-learning-competency-leading-the-mena-region-quwh74gh",
-      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/zero-and-one-achieves-aws-machine-learning-competency-leading-the-mena-region-quwh74gh",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T12:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-5-best-internet-of-things-iot-stocks-to-buy.md",
-      "title": "5 Best Internet-of-Things (IoT) Stocks to Buy",
-      "excerpt": "and artificial intelligence. AWS IoT, short for Amazon Web Services Internet of Things, is a platform provided by Amazon Web Services for the purpose of gathering and analyzing data originating ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/5-best-internet-of-things-iot-stocks-to-buy-1213058/4/",
-      "originalUrl": "https://www.insidermonkey.com/blog/5-best-internet-of-things-iot-stocks-to-buy-1213058/4/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/10/14192633/RCI-insidermonkey-1697325990577.jpg",
-          "width": 1456,
-          "height": 816,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T12:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-tarjama-launches-cleverso-30-the-first-tms-with-an-arabic-ui-and-powered-by-arabic-ai.md",
-      "title": "Tarjama Launches CleverSo 3.0 – The First TMS with an Arabic UI and Powered by Arabic AI",
-      "excerpt": "Tarjama unveils CleverSo 3.0, its proprietary TMS packaged with new capabilities to power translation teams for AI-enabled translations.",
-      "sourceUrl": null,
-      "webUrl": "https://slator.com/tarjama-launches-cleverso-3-first-tms-with-arabic-ui-powered-by-arabic-ai/",
-      "originalUrl": "https://slator.com/tarjama-launches-cleverso-3-first-tms-with-arabic-ui-powered-by-arabic-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T11:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Slator",
-        "domain": "slator.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-aws-in-orbit-series-premieres-on-the-t-minus-space-daily-podcast.md",
-      "title": "AWS in Orbit series premieres on the T-Minus Space Daily podcast",
-      "excerpt": "AWS in Orbit episode 1 is available today through the T-Minus Space Daily podcast on all major podcast platforms and at space.n2k.com/podcasts/t-minus. Episode Two, November 18, 2023: \"Securing the space frontier with AI cybersecurity solutions\" with special guest Buffy Wajvoda, Sr. Solutions Architect at AWS.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-aws-orbit-series-premieres-the-t-minus-space-/2023/10/31/9908042.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-aws-orbit-series-premieres-the-t-minus-space-/2023/10/31/9908042.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T11:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-medica-remote-controlled-robotics-for-surgery-applications-what-potential-do-6g-and-ai-unfold.md",
-      "title": "Medica: Remote-controlled robotics for surgery applications – What potential do 6G and AI unfold?",
-      "excerpt": "One robot arm can be controlled by human hands through the ... we can obtain data that provide information about their state of mind,” says Matthias Rüb, a research associate on the team.",
-      "sourceUrl": null,
-      "webUrl": "https://idw-online.de/de/news823132",
-      "originalUrl": "https://idw-online.de/de/news823132",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.idw-online.de/de/institutionlogo31018",
-          "width": 1431,
-          "height": 663,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T11:22:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "idw",
-        "domain": "idw-online.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-a-blueprint-for-unbiased-ai-that-benefits-all-leadership-tips-from-google-deepminds-obum-ekeke.md",
-      "title": "A blueprint for unbiased AI that benefits all - leadership tips from Google DeepMind's Obum Ekeke",
-      "excerpt": "The aim of Google’s DeepMind unit is to ensure that AI is built responsibly, and delivers scientific breakthroughs and products that improve lives across the world. This means developing AI systems that benefit society without reinforcing bias and unfairness, and can invent new ideas but also reliably behave in expected ways.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/blueprint-unbiased-ai-benefits-all-leadership-tips-google-deepminds-obum-ekeke",
-      "originalUrl": "https://diginomica.com/blueprint-unbiased-ai-benefits-all-leadership-tips-google-deepminds-obum-ekeke",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T10:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-wholly-ineffective-and-pretty-obviously-racist-inside-new-orleans-struggle-with-facial-recognition-policing.md",
-      "title": "‘Wholly ineffective and pretty obviously racist’: Inside New Orleans’ struggle with facial-recognition policing",
-      "excerpt": "In the summer of 2022, with a spike in violent crime hitting New Orleans, the city council voted to allow police to use facial-recognition software to track down suspects — a technology that the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2023/10/31/new-orleans-police-facial-recognition-00121427",
-      "originalUrl": "https://www.politico.com/news/2023/10/31/new-orleans-police-facial-recognition-00121427",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/9e/cf/ff64c42b4e81bb0ae47b73c4229a/facial-recognition-illo-v2.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T10:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-the-safety-of-openais-gpt-4-gets-lost-in-translation.md",
-      "title": "The safety of OpenAI's GPT-4 gets lost in translation",
-      "excerpt": "By translating \"unsafe\" commands first into Zulu and other under-represented languages, Brown scholars coerced GPT-4 into breaking its guardrails.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/the-safety-of-openais-gpt-4-is-lost-in-translation/",
-      "originalUrl": "https://www.zdnet.com/article/the-safety-of-openais-gpt-4-is-lost-in-translation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T09:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-the-worst-thing-that-could-possibly-happen.md",
-      "title": "The worst thing that could possibly happen",
-      "excerpt": "Investors found out cybersecurity firm Okta (OKTA) was hacked last week, and its stock fell by $2 billion. Anyone can invest in a fast-growing trend like cybersecurity. But you must pick the best businesses within this trend.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mauldineconomics.com/editorial/the-worst-thing-that-could-possibly-happen",
-      "originalUrl": "https://www.mauldineconomics.com/editorial/the-worst-thing-that-could-possibly-happen",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T09:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MauldinEconomics.com",
-        "domain": "mauldineconomics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-lt-technology-services-accelerates-transition-to-smart-vehicles-with-generative-ai-on-aws.md",
-      "title": "L&T Technology Services Accelerates Transition to Smart Vehicles with Generative AI on AWS",
-      "excerpt": "Leg-spinner Yuzvendra Chahal's maiden six-wicket for India as the hosts beat England by 75 runs in the third and final Twenty20 International",
-      "sourceUrl": null,
-      "webUrl": "https://netindia123.com/articles/showdetails.asp?id=4134762&n_date=20231031&cat=Business",
-      "originalUrl": "https://netindia123.com/articles/showdetails.asp?id=4134762&n_date=20231031&cat=Business",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T07:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Net India 123",
-        "domain": "netindia123.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-marketbeat-stock-of-the-week-uber-goes-driverless.md",
-      "title": "MarketBeat ‘Stock of the Week’: Uber goes driverless",
-      "excerpt": "The article \" MarketBeat ‘Stock of the Week’: Uber goes driverless \" first appeared on MarketBeat.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/WEN/pressreleases/21610102/",
-      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/WEN/pressreleases/21610102/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T06:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-lt-technology-services-transitions-to-smart-vehicles-with-gen-ai-on-aws-cloud.md",
-      "title": "L&T Technology Services transitions to smart vehicles with Gen AI on AWS cloud",
-      "excerpt": "Read more about L&T Technology Services transitions to smart vehicles with Gen AI on AWS cloud on Devdiscourse",
-      "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/technology/2687731-lt-technology-services-transitions-to-smart-vehicles-with-gen-ai-on-aws-cloud",
-      "originalUrl": "https://www.devdiscourse.com/article/technology/2687731-lt-technology-services-transitions-to-smart-vehicles-with-gen-ai-on-aws-cloud",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T05:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-real-time-ai-is-a-game-changer-for-fintech-startups-heres-how.md",
-      "title": "Real-time AI is a game changer for fintech startups: Here’s how",
-      "excerpt": "The artificial intelligence (AI) sector in India has seen incredible growth over the last few years and is projected to",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/real-time-ai-is-a-game-changer-for-fintech-startups-heres-how/",
-      "originalUrl": "https://www.dqindia.com/real-time-ai-is-a-game-changer-for-fintech-startups-heres-how/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T04:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-lenskart-acquires-ai-computer-vision-startup-tangoeye.md",
-      "title": "Lenskart acquires AI computer vision startup TangoEye",
-      "excerpt": "Eyewear retailer Lenskart has acquired Chennai-based TangoEye, an AI-based computer vision startup, which analyses CCTV recordings of stores to provide analytics, optimise customer flow and ensure proper adherence to all processes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/digital-transformation-lenskart-acquires-ai-computer-vision-startup-tangoeye-3291975/",
-      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-lenskart-acquires-ai-computer-vision-startup-tangoeye-3291975/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/10/Untitled-design-2023-10-06T160116.656.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-lenskart-acquires-ai-computer-vision-startup-tangoeye-3291975/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-lenskart-acquires-ai-computer-vision-startup-tangoeye-3291975/lite/",
-      "publishedDateTime": "2023-10-31T02:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-redefining-robotics-control-the-g2nav-controller.md",
-      "title": "Redefining robotics control: The G2Nav Controller",
-      "excerpt": "At the heart of these successful endeavours lies the G2Nav – an innovative, universally compatible ground control station with radio-agnostic capabilities. The G2Nav stands as a true testament to versatility and adaptability in the field of robotics ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.suasnews.com/2023/10/redefining-robotics-control-the-g2nav-controller/",
-      "originalUrl": "https://www.suasnews.com/2023/10/redefining-robotics-control-the-g2nav-controller/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.suasnews.com/wp-content/uploads/2023/10/UXV-G2NAV-GCS.jpg?fit=819%2C621&ssl=1",
-          "width": 819,
-          "height": 621,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T02:48:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SUAS News",
-        "domain": "suasnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-speech-therapy-market-investment-opportunities-potential-growth-and-future-demand-2021-2031.md",
-      "title": "Speech Therapy Market : Investment Opportunities, Potential Growth, And Future Demand 2021-2031",
-      "excerpt": "Technological Innovations: The integration of advanced technologies, such as virtual reality (VR) and artificial intelligence (AI), has revolutionized speech therapy practices. Investors can capitalize on companies developing innovative software and ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1107339327/Speech-Therapy-Market-Investment-Opportunities-Potential-Growth-And-Future-Demand-2021-2031",
-      "originalUrl": "https://menafn.com/1107339327/Speech-Therapy-Market-Investment-Opportunities-Potential-Growth-And-Future-Demand-2021-2031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T02:48:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-will-there-be-accidents-absolutely-lawyers-preparing-for-self-driving-semi-trucks.md",
-      "title": "'Will There Be Accidents? Absolutely': Lawyers Preparing for Self-Driving Semi-Trucks",
-      "excerpt": "Lawyers are going to have to start thinking about different defendants, said plaintiff attorney Amy Witherite of the Witherite Firm based in Dallas, Fort Worth, Atlanta and Chicago.",
-      "sourceUrl": null,
-      "webUrl": "https://www.law.com/texaslawyer/2023/10/30/will-there-be-accidents-absolutely-lawyers-preparing-for-self-driving-semi-trucks/",
-      "originalUrl": "https://www.law.com/texaslawyer/2023/10/30/will-there-be-accidents-absolutely-lawyers-preparing-for-self-driving-semi-trucks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.law.com/contrib/content/uploads/sites/292/2023/10/Delivery-van-767x633.jpg",
-          "width": 768,
-          "height": 633,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T00:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law",
-        "domain": "law.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-ai-and-machine-learning-in-uk-financial-services-the-public-response-to-the-fca-and-pra.md",
-      "title": "AI and Machine Learning in UK financial services: the public response to the FCA and PRA",
-      "excerpt": "in financial services and mentioned a joint paper published by the Prudential Regulation Authority (PRA) and Financial Conduct Authority (FCA) on AI and machine learning DP5/22 - Artificial Intelligence and Machine Learning | Bank of England (DP).",
-      "sourceUrl": null,
-      "webUrl": "https://www.jdsupra.com/legalnews/ai-and-machine-learning-in-uk-financial-3494530/",
-      "originalUrl": "https://www.jdsupra.com/legalnews/ai-and-machine-learning-in-uk-financial-3494530/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "JD Supra",
-        "domain": "jdsupra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -53,6 +53,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "How to Hack the Holidays with Google Bard: A Guide for Festive Efficiency"
+    excerpt: "This guide is designed to show you how to hack the holidays with Google Bard and other AI tools. As the holiday season approaches, the hustle and bustle"
+    publishedDateTime: 2023-12-14T13:01:00Z
+    webUrl: "https://www.geeky-gadgets.com/how-to-hack-the-holidays-with-google-bard/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 3
 
 secured: "AH9A/u1Fa9UUxz2lmTk0HElPDmedzkKa11G/R0yiUq66bjfSAFd2R7P6EuO4f1zcrgI4PqenH0zsg1vPrW/PYijo5/Osknu4BtqeIZUlGs2ETiKKRK+LwOjUhQDIJYC1wWAwt8lyYXsWjU3ocfB9MosFCtarhWqhIuvHN/jNMXUD8CCrayOkM6F3Oh4jQe0vVu5oD9QBR0ZUs0TvDXz5KGRv6LlulTDlc3Fu8kD5Xi1fgy1p8nVVVDWferpddwtiGq+HF1BGv26IfisvRa+7bfHeJm5iVQYBnYw/CbFIanUE8szZRBFKWRCKwH1E7k29sv31IbwMxuTZoT0z+LEUhHxXPXyoLrkEIGdBn2pB6vA=;R3V6h8Ac1bgFcW8R4dQPUQ=="
 ---

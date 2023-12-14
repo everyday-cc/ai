@@ -212,6 +212,20 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Lawmakers hear support for expanding authority to control China’s access to AI tech through the cloud"
+    excerpt: "Fist said there are some factions pushing for a wholesale ban of all AI-related supply chain elements being exported to China -- whether chips or cloud -- and others, like CNAS, advocating a more “surgical” approach that would include thresholds similar to those identified in the executive order."
+    publishedDateTime: 2023-12-14T16:09:00Z
+    webUrl: "https://www.cnas.org/press/in-the-news/lawmakers-hear-support-for-expanding-authority-to-control-chinas-access-to-ai-tech-through-the-cloud"
+    type: article
+    provider:
+      name: CNAS
+      domain: cnas.org
+    quality: 24
+    images:
+      - url: "https://s3.us-east-1.amazonaws.com/files.cnas.org/title/China-Flag-Getty.jpg"
+        width: 1600
+        height: 866
+        isCached: true
 
 secured: "zWTFI/ctVec85kBO/vKNiu2Qk+wpTmQNd1aej/wgS0VnMOZYjmBQNOAKlrn4C+PJi5PiTahwjWEhyE9eJCmtFJ/Eo2ZHVCj8O+szEqud/eXjmias3fZeW+OZP9w9eCCeCO1x6CneGhrXt5yH/v0xReWErJU/wLnNy7iojwu+PamK3tK6aNWFhVbTKFkYezXik2WIo0POqZh+An+Ebse41qUevjIvG3KPNp70xr+GQJr1D90KgX7YqiGsdMqILIlc5cVJ8xBICvMC1VEy7Mz/N4/D6pdywyymld9dAe3ROHjFrjXl6dv6o2mgVaDFleCEzs7bCxPbZJs6aLolyV+znRC+jwmq1W8Y8RvEeO1P9rc//ErsRyxRXyfCY9y9EKY+bWIi6HBtLCQhnR5kyy6/xI3sEgrUtZScm/oL+l8JRnWZDvK7JcV7LbqI8I6o1Y3/CWg82UyNP9FH45iVjCgl3QdlEudpoILObt465kPRBBT+7i9lNIU7Vwu0Qd3WchKEMjoX6CSD3zjXtr/C4zg1Hg==;nGH2UHwleIyDmrhUTlCRxg=="
 ---

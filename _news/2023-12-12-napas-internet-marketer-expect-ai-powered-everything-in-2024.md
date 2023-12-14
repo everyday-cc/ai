@@ -55,6 +55,15 @@ related:
         width: 1000
         height: 547
         isCached: true
+  - title: "How AI could change trucking in 2024"
+    excerpt: "Samsara CIO Stephen Franchetti told FleetOwner: \"As the AI explosion continues, an organization's ability to stay competitive and innovate will come down to their enterprise data strategy. We'll start to see an increased need for a robust foundation of ..."
+    publishedDateTime: 2023-12-14T14:43:00Z
+    webUrl: "https://www.fleetowner.com/technology/article/21279287/how-ai-could-change-trucking-in-2024"
+    type: article
+    provider:
+      name: Fleet Owner
+      domain: fleetowner.com
+    quality: 17
 
 secured: "FfX7vu0bMLk9vFQOGKrbpp7rtA3NMnYW1i7hoGqaz99H8hatEcnOPjpFGZexgHWGKaKVq2VKdsKkcamFvlVpgPHQ/0hjHX3pghLPllYfjXWXtx/EUo9NOkI/JbeM8cLpdhWGw6b6ArTdyEIYgC8YNBYFpOgdeAiVbv47FKZJF6QQfACcJLyHsVBVesPaoL/a2rMxpUZDlNuSsrUNB472B1wEGclgoDbmUehiW/vtfcKfTkx8McWpQJWePCY2Fr5ABDMpvackFbdDGNRyW7f64Cl+KbuoAUyV0wq224gFWeB1ZTPcGPw1vQGdCm5p4e5Fusb50cyvP+oTGoeF/SmtXUcJiXcEKPayAkCyUn0EcTc=;3B19d4HUgqCweVp1IzXhiQ=="
 ---

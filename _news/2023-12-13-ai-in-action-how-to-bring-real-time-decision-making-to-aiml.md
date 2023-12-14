@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/sponsor/redpanda-organization/ai-in-action-
 webUrl: "https://techcrunch.com/sponsor/redpanda-organization/ai-in-action-how-to-bring-real-time-decision-making-to-ai-ml/"
 type: article
 quality: 84
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 650
         height: 450
         isCached: true
+  - title: "The Dawn Of AI Disruption: How 2024 Marks A New Era In Innovation"
+    excerpt: "On the computing front, more advanced AI chips and dedicated hardware infrastructure will enable running sophisticated generative models at the edge - built for efficiency without compromising capability. This will exponentially expand smaller ..."
+    publishedDateTime: 2023-12-14T14:46:00Z
+    webUrl: "https://www.forbes.com/sites/markminevich/2023/12/14/the-dawn-of-ai-disruption-how-2024-marks-a-new-era-in-innovation/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "Gaming's Quantum Leap: AI and Machine Learning Reshape the Virtual Frontier"
     excerpt: "In the realm of online gaming, a quiet revolution is taking place. The marriage of Artificial Intelligence (AI) and Machine Learning (ML) is transforming the gaming landscape, ushering in an era of unparalleled realism and immersive experiences."
     publishedDateTime: 2023-12-13T14:38:00Z

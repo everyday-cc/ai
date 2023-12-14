@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/bigbear-ai-expands
 webUrl: "https://markets.businessinsider.com/news/stocks/bigbear-ai-expands-its-relationship-with-aws-to-deliver-ai-driven-solutions-1032889378"
 type: article
 quality: 62
-heat: 122
+heat: 132
 published: true
 
 provider:
@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "Google's Billion-Dollar Cloud Business Takes On AWS, Azure With AI, Machine Learning"
+    excerpt: "\"Anytime any customer talks cloud, they talk AWS, Azure, and Google ... Google's portfolio of artificial intelligence (AI) and machine learning technologies are standing out and giving the ..."
+    publishedDateTime: 2023-12-11T03:13:00Z
+    webUrl: "https://www.crn.com/news/cloud/300100466/googles-billion-dollar-cloud-business-takes-on-aws-azure-with-ai-machine-learning"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 61
   - title: "GPAI meet adopts New Delhi AI declaration"
     excerpt: "Further, the declaration also saw participating nations agree upon using the GPAI platform to create a global framework on AI trust and safety, and make AI solutions and benefits available for all. India also pitched to host a GPAI Global Governance Summit to finalize the proposed framework, in six months."
     publishedDateTime: 2023-12-14T04:43:00Z
@@ -102,6 +111,6 @@ related:
         height: 225
         isCached: true
 
-secured: "iktDS/qwwLrb5Kh/xToB8IizdDAyFJ5/W6MxnzKP870LhA/bvAhKVxlnOGA9P+eCylA/yNS2/PqRUf4FJAdhKYxRWf8oZSUNWYohPGgEV5Bke6F3YYfUTaoJUaRiXZ1Ol5oJgIVDMZeGJQ7x3oqlzeEl29hpvw5E6S0FrZlIjvLQVOMyb1yK0nQ+mjHCACCeLaEuKZe58fpiMYDIf+l5vICXcVUPs0OgA9oUmzH0NBJtwszdKEGnVA8Xd3RAU+hzKXgNHr/XJ0WY5bYzhhbv2W98ouf4Kb41E1cnxEu4FYf9LyUDi2/UOMQiAXfkx94pxAkb5RCMLle8NSnzmv9R136tSzteg6FFyfBF8cKgll0=;NLlqYnrRkcThX7zYDAliuQ=="
+secured: "X344PDnr7DWwxvwJFRTLT0Ecxq9f8MmBxePLVNuEYbNLTaDmfocjQvaMqKgxFP1MlxRwatcYlXgRvafDteEDBFxQMcGgWs/tOxzAPkSrlpovRZm4ww/kppyo9GtppIVdCd3x1IUvbGDPWiYgGgNNMvUflKg+xfuJ43UEoMixDEnUZ7DWtEr9phri/XseLUy9EXkCA7bfEeb4eT3WT6OK/748ycRAfWhj31jQDZXXXLpHMkTtRP0gxYVo749zWpttyUKKtgjMIub/5D6lG19/BxQLStrqIgVy0cWItnuWQk6y9Rgvo1K2cmyqvvQIYQcvy1m9mPqRv4fDAgjIBNQM+EB6alAMLzYagt0nuKn9ZEI=;smMo6amLOLPlW27YzJ4caw=="
 ---
 

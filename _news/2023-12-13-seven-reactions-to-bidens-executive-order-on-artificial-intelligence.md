@@ -41,6 +41,24 @@ related:
         width: 1349
         height: 900
         isCached: true
+  - title: "Unleashing The Power Of AI: How An AI Council Can Help Drive Business Transformation"
+    excerpt: "Having an internal body comprised of experts with a comprehensive understanding of AI and its potential can mitigate challenges and drive successful AI implementation."
+    publishedDateTime: 2023-12-14T12:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/14/unleashing-the-power-of-ai-how-an-ai-council-can-help-drive-business-transformation/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 42
+  - title: "Google’s Breakthroughs in Artificial Intelligence: A Comprehensive Overview"
+    excerpt: "Introduction: In the ever-evolving landscape of technology, Google stands as a trailblazer, consistently pushing the boundaries of innovation. At the forefront of their technological advancements is artificial intelligence (AI),"
+    publishedDateTime: 2023-12-14T13:53:00Z
+    webUrl: "https://techbullion.com/googles-breakthroughs-in-artificial-intelligence-a-comprehensive-overview/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 19
 
 secured: "tE3165AFxulH3m15Ia1lYkswMmvzEXDfOdjBuczbIwBa0uRPUmjTMCHIzxLBJU1+WZigSRLvKpMS9De6TEyusvZm0aZ4xgoO80xE0hANkiyFUoxwunqWB9GHH3rpuO5cDNzTKaeVm4DSWmm6e1AKYuk8s2a0qZJq/lxuO2f7LT689+SOiAPxQhckM9R/YPIXhd437BWbvctOCmR7RF6xB10MdzFnYeCYOmczFaN64XH2t9DycW8C/18txNDYNnUex5LgVwdw2RqPqOjfS7yTo/kIKRYgZ4EUpRMKtFec5m159m1ZS8v8L7Jw5vmP0zorl3byomVodN1NJTrae3UPE++8RnK563WFZy67tg4itrg=;/pnXVvdXRiJC5TMPdYJSjA=="
 ---

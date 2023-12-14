@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/12/11/relevance-ais-low-code-platform-en
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/11/relevance-ais-low-code-platform-enables-businesses-to-build-ai-teams/amp/"
 type: article
 quality: 87
-heat: 207
+heat: 227
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
         width: 480
         height: 360
         isCached: true
+  - title: "Intel debuts AI-accelerated Core Ultra and 5th Gen Xeon chips to enable AI to run in any location"
+    excerpt: "Intel debuts AI-accelerated Core Ultra and 5th Gen Xeon chips to enable AI to run in any location - SiliconANGLE"
+    publishedDateTime: 2023-12-14T15:00:00Z
+    webUrl: "https://siliconangle.com/2023/12/14/intel-debuts-ai-accelerated-core-ultra-5th-gen-xeon-chips-will-enable-ai-run-location/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 41
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/Intel-Core-Ultra-2.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "Governing AI for business benefit"
     excerpt: "Last month, a group of professionals and industry experts came together to launch an AI Governance website in response to a survey that indicated governance is a key focus although half of businesses are already using some form of AI."
     publishedDateTime: 2023-12-11T00:30:00Z
@@ -177,6 +191,15 @@ related:
       name: CRN
       domain: crn.com
     quality: 15
+  - title: "Startup Mesh Ai launches ‘first AI-enabled’ workplace mental health solution for Microsoft Teams and Microsoft 365"
+    excerpt: "Australian startup Mesh Ai has announced the release of Simpatico Teams, a “pioneering AI-driven mental health application” for Microsoft Teams, Microsoft 365 and Copilot for Microsoft 365. Mesh Ai says the application ”will help employers better manage the growing psychological challenges of the"
+    publishedDateTime: 2023-12-14T13:29:00Z
+    webUrl: "https://itwire.com/business-it-news/enterprise-solutions/startup-mesh-ai-launches-‘first-ai-enabled’-workplace-mental-health-solution-for-microsoft-teams-and-microsoft-365.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 12
 
 secured: "hlMHEnK+BaOaMPxQs+dNFiJtMJz4KtVnw9Os8A5/Af1jrWPDisWVr/bfWzeuvXmg45SZA6Gy5hQAVaRmaSB4s7yDAnKWjJ8Cum4Op2e6+/MCjA8GOec/eKiiYOXMbM9XuSDHwq2PuBrsbTVUpNxOTspJIdw4luvj5NMaItzhtu8NFjecHwnsJmANx9iC86zH1oTv3kRat34o0EV0HyF115n6Ykd0ylfiq0ygRnAWmcjf+JR5zBTvezA1+ZK4He4Yn1uHyYQeHbE8GEMXg3XPz7fLw6GJj9bdaQBuAXHHxjXwvQBXxPkTx7olVHW8gw7dLBJsaX7JIwKmib9pgIbWWU7ui96H6dCV4IuBb7Bcl7w=;B9tx28zP33rGpdsYorWOeQ=="
 ---

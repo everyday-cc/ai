@@ -36,6 +36,15 @@ related:
       name: The Himalayan Times
       domain: thehimalayantimes.com
     quality: 69
+  - title: "Get the Robotics Help You Need"
+    excerpt: "Coming at the projects from these two aspects, you get a lot of AI and machine learning solutions ... and perhaps are not sure where to start. One of the most common things you'll see in these companies is a robot arm sitting in the corner somewhere ..."
+    publishedDateTime: 2023-12-14T13:05:00Z
+    webUrl: "https://www.automationworld.com/factory/robotics/article/33016374/get-the-robotics-help-you-need"
+    type: article
+    provider:
+      name: Automation World
+      domain: automationworld.com
+    quality: 34
 
 secured: "Qzs/Nv2H3XZdbVVCwTQSxJdyXBKbthhY9uAWtCuzA0+U9IRghZbdGLs8juRLL1vcNiGcYYdP42dHS3l3RzOuhu/TgFrmsg5r5zRw1MHxjB+ZnKaH8o0rFJYlzR9m1zQP7ngNJoZnbzPx83vCEQyMZb7xk9pwgtjx7oQ8+IbPY3qz0BHi9m9hcgbsgoVY4wEby4i2t+1kxi8dyjwuQYoJ031/TlAufJdEUPiRgMjghKNo0soAWpXFQcc4hPOuL/XRp+fsLq4dvoUzHFCmVn9rvHOWBAJWHjFCj992lvGcUr75LoA4y5+DqY+ynEwd5KDGHEXL6XsiRT6bFIeVOdw9KdLidAGl/pWYIlYRa+7CkUV47KfLDmcdxSFybIhxg8WcIuIfMkKPP/b+IoV6SGlN0yxHwQbse02yz7fmjzpKiOEemSb+dor12ub/MUN64XjsGDxa067CNxEtoOunETDWsstqfJ2q51QZibFGNpwEATR4kJVS385NLMtGGlk9uYHQQ+JCuHBpj3gBDCW3i+yfXw==;PizD1+6Xbxc45acg04gIjg=="
 ---

@@ -105,6 +105,20 @@ related:
         width: 480
         height: 360
         isCached: true
+  - title: "Intel debuts AI-accelerated Core Ultra and 5th Gen Xeon chips to enable AI to run in any location"
+    excerpt: "Intel debuts AI-accelerated Core Ultra and 5th Gen Xeon chips to enable AI to run in any location - SiliconANGLE"
+    publishedDateTime: 2023-12-14T15:00:00Z
+    webUrl: "https://siliconangle.com/2023/12/14/intel-debuts-ai-accelerated-core-ultra-5th-gen-xeon-chips-will-enable-ai-run-location/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 41
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/Intel-Core-Ultra-2.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "VERSES AI hires Peter Provost to help launch developer platform"
     excerpt: "Former Microsoft Product Leader Peter Provost is to help launch the VERSES AI Developer Platform – bringing over 40 years of coding experience to the project. As VP of Product, Developer Platforms, Provost will lead the strategic development and enhancement of Genius - VERSES’ Intelligence-as-a-Service platform,"
     publishedDateTime: 2023-12-11T08:20:00Z
@@ -174,6 +188,15 @@ related:
       name: CRN
       domain: crn.com
     quality: 15
+  - title: "Startup Mesh Ai launches ‘first AI-enabled’ workplace mental health solution for Microsoft Teams and Microsoft 365"
+    excerpt: "Australian startup Mesh Ai has announced the release of Simpatico Teams, a “pioneering AI-driven mental health application” for Microsoft Teams, Microsoft 365 and Copilot for Microsoft 365. Mesh Ai says the application ”will help employers better manage the growing psychological challenges of the"
+    publishedDateTime: 2023-12-14T13:29:00Z
+    webUrl: "https://itwire.com/business-it-news/enterprise-solutions/startup-mesh-ai-launches-‘first-ai-enabled’-workplace-mental-health-solution-for-microsoft-teams-and-microsoft-365.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 12
 
 secured: "D8HsDETCHZN20T3bwl8qMgYS/8hnI6dwUgt+EBW1DbZgCGz23zo9ExX49vdNRtWCQKjO19Z0h6TFNiKIGsJ9r7J86KPjxZZFlx2+cOVJu0htvGL8aMhxj/f5DOObqKbP2MlTIoDPYgPbBsI8JcOFdtfa+oYEjbk71bR9KLMbLZLS0+5Vp2vdh8VNC/ulWTHV3ltRizEmEUEuSzXKRfTendHMUF+AH01hBPHKILuC/h2QE7UnoIET9WjwEPNpv2YVOfCdhXq5P7FXT5OnLl4PS67aKdTIQc8lA1fN4MeZUD7uza33tgM87lfG4MwdSbeMYCw23P0Js8BOmfs7JqTac429WEtTDCaSGSRC438mV5C5zS+pnvJ2Wg8yAjaRNoJ8UnJBVrhTHmy19rGrBhEkhADH9coRtxnRGcDJR+1WlaV1FgpJQs5FPvJnVJP3qqLBVEc7Z0XWMMGQmMJrSkIBYoW7dEcOeoUtmsQNoJda1hPfauK/4niJxOl8pC4bpQf7BfTPiPV83JD3Vw6AqX0UWA==;6fplV2ExOjLeSRTADMLZbQ=="
 ---

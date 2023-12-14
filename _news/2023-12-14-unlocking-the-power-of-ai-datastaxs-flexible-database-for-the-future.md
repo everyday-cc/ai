@@ -92,6 +92,29 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "LinkedIn scraps plans of relocating to Microsoft Azure"
+    excerpt: "LinkedIn has decided to stick with physical data centres. Today's announcement is a setback for Microsoft Corp."
+    publishedDateTime: 2023-12-14T15:27:00Z
+    webUrl: "https://invezz.com/news/2023/12/14/linkedin-scraps-relocating-microsoft-azure/"
+    type: article
+    provider:
+      name: Invezz
+      domain: invezz.com
+    quality: 54
+    images:
+      - url: "https://invezz.com/wp-content/uploads/2023/12/souvik-banerjee-jlj-nbvlddo-unsplash-1-1-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Oracle Database@Azure now available in Microsoft Azure East US region"
+    excerpt: "Oracle Cloud Infrastructure has deployed its Oracle database services in the Microsoft Azure East US region's data centers. Customers can now access the new Oracle Database@Azure service, which covers all the abilities of the Oracle Database, alongside Azure services such as the OpenAI Service for generative AI applications."
+    publishedDateTime: 2023-12-14T14:47:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/oracle-databaseazure-now-available-in-microsoft-azure-east-us-region/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 49
   - title: "Microsoft to double Azure cloud capacity in Germany by early 2024"
     excerpt: "Microsoft is to double the capacity of its Microsoft Azure cloud data centres in Germany by early 2024 to meet customer demand. It will achieve this by significantly expanding the country’s largest data centre hub,"
     publishedDateTime: 2023-12-13T14:55:00Z

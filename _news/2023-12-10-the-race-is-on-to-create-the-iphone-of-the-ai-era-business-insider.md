@@ -35,6 +35,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Today I learned my iPhone has this cool AI feature that proves its smarts"
+    excerpt: "This Magnifier app feature, called Image Detection, was introduced last year, and it supports any iPhone with LiDAR (a scanner that measures depth perception with light pulses). This includes the pro variants of the iPhone 12, iPhone 13, iPhone 14 and iPhone 15."
+    publishedDateTime: 2023-12-14T14:11:00Z
+    webUrl: "https://mashable.com/article/iphone-ai-image-detection"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 46
 
 secured: "jNIMEXrAkIai23VFrqJvqN7ZIdZBsQ/VEEqehQm18QyXJgR1b6BfAZdlCQeZ7h/iTth3AAFgEVBI/S5RiDm1wtRZ2rVSxigpwoWv/A871iukkywZOxV5sMRzJDYQyY/uucszgikH5zvmsTXDJV/oIN+wvGupuBHjVHmcUZ4onMGEKnelsaOV6DsrmKndnWmNlHWIRhQF0eXqEYCkKHLsa5KY77+Q7Rpnf2SdofDEy5+nG5xImKfY55v87dlE6wLOm5GK6EvFypy4QUH4aGoo8ce8vF4U0bebJRNzxm4Wr4Cigsllf84z3CE0z2WDbRApb2jf9dcRVKgNslabl9zyjUtwIWhuLhPNmgOd2X5yXGt+B/GDuFvSTS6MjoKtKe7YFkgOOSUE+O9l0idgoK6OHxp/eK52+Rgg8UkjkkpzjXJni/n+oHnsJP4x93vJ9gv2r8nMQbFbMP/R1yZwvT57OI3MP+Tj/RPhYhHnT0yYJRKb5j2apzZKjcHTrYK5z+Dc0tllyxI3GkFq0eDo9WTyzA==;1E5/dUzEdSXhx3hn5Vyu4g=="
 ---

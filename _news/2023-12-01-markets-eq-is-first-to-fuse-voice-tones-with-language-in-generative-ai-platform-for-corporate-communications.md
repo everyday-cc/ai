@@ -15,6 +15,12 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "7GXUANkZkuycHVhOQ9BUl2eXTYMujPX53ZUwLS9odC/1KEAMCvacN0Y66/lscka9VrU+v4h3e0FYfujTmH8GGL7lAzDUPrR9pLsTJg84gfz8oBI6dRmm1HehMC0c4cm/A7+QSlnbQ0mIDLzmwmVofvyWgA6zjGGBeGk8DNPAA+ZACtIxdXuo6HYTToL8REvprLkp3oTd6rTU2Uih4DPFz1NoOnTxyrHKRsOOSmAKWK7k98PNULyNedeMC9hib0rdw130r9UuLb9xj6O2QwZTZ6t+57oCi4yj/f4e4ZqQNBe7RmJlmwR0JCqwuDU0g4ZlXQFI45/Y+u7RVCg4RszwEnrXUqSaZk2HHcArNqLKZNWeVm9AGmugUrv0Tx4evuzfquawYvwV2+7rdWRxNsS2i1x07PXZMF6paYXsQ6zrsAAKDfgCSs2YP73wSwK8zKGPM0o8hMM7zs84pH2CK2smY4/g72TMJfWmTqwTPe4g2v0/PI+V5TFcIJJabqYw7P1ea/iunZnzsI3UYje8MpCVbw==;FiFM5hqHeuH25e7MeBsLTw=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/4/29/4292993c-e2fb-5ae9-8ec6-712b3b5fed3f/6569de6d903a5.image.jpg?crop=1946%2C1022%2C0%2C21&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "2OfWIiQbAkw7EXhKjWL6dNI5l6OIL9MJfWBbCH9hIW9nYA+Qh8eJxvXaKa7ntS5gj5CdixvwF/9GGiMLnuhr5i2RITowX7+77qXnDVQPp1JjVfGMkBdGuvIJPSv0yGazBgHLzkq6TDJnfNumNLbQBDTIDDuM7Vx2v611WPZ4yDCZvEPPKAGXkA/8HxZloA3BiU6Jrj1WBCEsH+U+zW6HZbKQfsqnnl1XeKGQL/2ljjOhoJk8QvxG4i3zX1NOngc3+e8r3lOKHUJDYtnyEdTJEBJ85PHvKJTXYtind2tpvGebLX8QxGhSG1amZDoGVrYwIJ8QMRpz/mM8yI4NWVYdg5u2oSY2g8DuwLPadCM8nTc=;F8w3hOv/sKnBpXRvvEJfVA=="
 ---
 

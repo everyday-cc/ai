@@ -9,7 +9,7 @@ ampWebUrl: "https://thehimalayantimes.com/ampArticle/1024410"
 cdnAmpWebUrl: "https://thehimalayantimes-com.cdn.ampproject.org/c/s/thehimalayantimes.com/ampArticle/1024410"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -35,6 +35,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Get the Robotics Help You Need"
+    excerpt: "Coming at the projects from these two aspects, you get a lot of AI and machine learning solutions ... and perhaps are not sure where to start. One of the most common things you'll see in these companies is a robot arm sitting in the corner somewhere ..."
+    publishedDateTime: 2023-12-14T13:05:00Z
+    webUrl: "https://www.automationworld.com/factory/robotics/article/33016374/get-the-robotics-help-you-need"
+    type: article
+    provider:
+      name: Automation World
+      domain: automationworld.com
+    quality: 34
 
 secured: "4tivAkMv9+1oePlnfoN+LEKu/i27EAEnPJKCOClIm1FFwgFUYWSMCL2q1fKsUWyc1zxoWUU4VDW/QNu3GGz5wk3ePXRl1qlWRdtHsE8LxiA74fpDlNG8fvC6rpEmVUMYEbURC+4grwtYLbZmy0CKHVyT+xspsfR9tFeA8vSSqXqlJ5dHQj/Twsr6jSnfVkP6FPIFJvjEZDoaLbgVxYsv/kWdZKDqziMUuqxWbQ0KHkXhxgTAyMdfgyzHpfS98FG2L31KeRVTYz5vlEyKa78ZF0pGgbcVLCFIDsyCO+kvlCygyjorvAxlYWwFgYQarJomZYT12+1uGCoVJd65QG2KJO7JXKIn9PLkMXc05/a4bhE=;2GEIFViKVF2utp1F55e/rw=="
 ---

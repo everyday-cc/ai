@@ -2,6 +2,164 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-14-how-aws-prototyping-enabled-icl-group-to-build-computer-vision-models-on-amazon-sagemaker.md",
+      "title": "How AWS Prototyping enabled ICL-Group to build computer vision models on Amazon SageMaker",
+      "excerpt": "This is a customer post jointly authored by ICL and AWS employees. ICL is a multi-national manufacturing and mining corporation based in Israel that manufactures products based on unique minerals and fulfills humanity’s essential needs, primarily in three markets: agriculture, food, and engineered materials.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-aws-prototyping-enabled-icl-group-to-build-computer-vision-models-on-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-aws-prototyping-enabled-icl-group-to-build-computer-vision-models-on-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/12/14/icl-group-vision-models.jpg",
+          "width": 1005,
+          "height": 504,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-14T16:56:10Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-12-14-automate-pdf-pre-labeling-for-amazon-comprehend.md",
+      "title": "Automate PDF pre-labeling for Amazon Comprehend",
+      "excerpt": "Amazon Comprehend is a natural-language processing (NLP) service that provides pre-trained and custom APIs to derive insights from textual data. Amazon Comprehend customers can train custom named entity recognition (NER) models to extract entities of interest, such as location, person name, and date,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-pdf-pre-labeling-for-amazon-comprehend/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-pdf-pre-labeling-for-amazon-comprehend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/12/14/automate-prelabeling-comprehend.jpg",
+          "width": 1005,
+          "height": 504,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-14T16:51:32Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-12-14-improve-your-stable-diffusion-prompts-with-retrieval-augmented-generation.md",
+      "title": "Improve your Stable Diffusion prompts with Retrieval Augmented Generation",
+      "excerpt": "Text-to-image generation is a rapidly growing field of artificial intelligence with applications in a variety of areas, such as media and entertainment, gaming, ecommerce product visualization, advertising and marketing, architectural design and visualization, artistic creations, and medical imaging.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improve-your-stable-diffusion-prompts-with-retrieval-augmented-generation/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improve-your-stable-diffusion-prompts-with-retrieval-augmented-generation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/26/ML-15732-image001-1260x455.png",
+          "width": 1260,
+          "height": 455,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-14T16:45:13Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-13-create-summaries-of-recordings-using-generative-ai-with-amazon-bedrock-and-amazon-transcribe.md",
       "title": "Create summaries of recordings using generative AI with Amazon Bedrock and Amazon Transcribe",
       "excerpt": "Meeting notes are a crucial part of collaboration, yet they often fall through the cracks. Between leading discussions, listening closely, and typing notes, it’s easy for key information to slip away unrecorded. Even when notes are captured, they can be disorganized or illegible, rendering them useless.",
@@ -10,7 +168,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/create-summaries-of-recordings-using-generative-ai-with-amazon-bedrock-and-amazon-transcribe/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 200,
+      "heat": 210,
       "tags": null,
       "images": [
         {
@@ -52,58 +210,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-fine-tune-llama-2-using-qlora-and-deploy-it-on-amazon-sagemaker-with-aws-inferentia2.md",
-      "title": "Fine-tune Llama 2 using QLoRA and Deploy it on Amazon SageMaker with AWS Inferentia2",
-      "excerpt": "In this post, we showcase fine-tuning a Llama 2 model using a Parameter-Efficient Fine-Tuning (PEFT) method and deploy the fine-tuned model on AWS Inferentia2. We use the AWS Neuron software development kit (SDK) to access the AWS Inferentia2 device and benefit from its high performance. We then use",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/fine-tune-llama-2-using-qlora-and-deploy-it-on-amazon-sagemaker-with-aws-inferentia2/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/fine-tune-llama-2-using-qlora-and-deploy-it-on-amazon-sagemaker-with-aws-inferentia2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/12/13/fine-tune-llama-2-qlora.jpg",
-          "width": 1004,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-13T16:16:28Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     },
     {
@@ -221,7 +327,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/bigbear-ai-expands-its-relationship-with-aws-to-deliver-ai-driven-solutions-1032889378",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 132,
       "tags": null,
       "images": null,
       "content": "",
@@ -792,6 +898,40 @@
       ]
     },
     {
+      "path": "_news/2023-12-03-1-artificial-intelligence-ai-stock-to-buy-hand-over-fist-and-1-to-make-disappear-from-your-portfolio.md",
+      "title": "1 Artificial Intelligence (AI) Stock to Buy Hand Over Fist and 1 to Make Disappear From Your Portfolio",
+      "excerpt": "Both are using artificial intelligence (AI ... that competes with the Amazon's AWS and Microsoft's Azure. But the vast majority of Alphabet's revenue and profits are derived from advertising ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/1-artificial-intelligence-ai-stock-to-buy-hand-over-fist-and-1-to-make-disappear-from-your",
+      "originalUrl": "https://www.nasdaq.com/articles/1-artificial-intelligence-ai-stock-to-buy-hand-over-fist-and-1-to-make-disappear-from-your",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-02T19:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-03-amazons-290-very-best-cyber-monday-2023-deals-you-cannot-miss.md",
       "title": "Amazon’s 290+ Very Best Cyber Monday 2023 Deals You Cannot Miss",
       "excerpt": "Laneige lip masks, Apple AirTags, and more holiday gifts are up to 80 percent off We independently evaluate all recommended products and services. If you click on links we provide, we may receive ...",
@@ -1183,153 +1323,6 @@
       "provider": {
         "name": "SiliconANGLE",
         "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-30-aws-aims-to-reinvent-contact-centers-with-gen-ai.md",
-      "title": "AWS Aims to Reinvent Contact Centers with Gen AI",
-      "excerpt": "Expanded Partnership with Salesforce Brings Greater Intelligence Across the Customer Journey AWS also announced that it was expanding its partnership with Salesforce. AWS will start offering ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/artificial-intelligence/aws-looks-to-reinvent-contact-centers-with-genai-and-thin-clients/",
-      "originalUrl": "https://www.eweek.com/artificial-intelligence/aws-looks-to-reinvent-contact-centers-with-genai-and-thin-clients/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2023/11/ew_20231130-aws-looks-to-reinvent-contact-centers-with-genai-and-thin-clients-1024x658.png",
-          "width": 1024,
-          "height": 658,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-29T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-30-aws-updates-bedrock-sagemaker-to-boost-generative-ai-offerings.md",
-      "title": "AWS updates Bedrock, SageMaker to boost generative AI offerings",
-      "excerpt": "The updates include the addition of new foundation models along with vector capabilities for several databases.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3711463/aws-updates-bedrock-sagemaker-to-boost-generative-ai-offerings.html",
-      "originalUrl": "https://www.infoworld.com/article/3711463/aws-updates-bedrock-sagemaker-to-boost-generative-ai-offerings.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/11/aws-swami-sivasubramanian-100948807-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3711463/aws-updates-bedrock-sagemaker-to-boost-generative-ai-offerings.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711463/aws-updates-bedrock-sagemaker-to-boost-generative-ai-offerings.amp.html",
-      "publishedDateTime": "2023-11-29T21:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-30-amazon-launches-q-a-business-chatbot-powered-by-generative-artificial-intelligence.md",
-      "title": "Amazon launches Q, a business chatbot powered by generative artificial intelligence",
-      "excerpt": "The tech giant said Tuesday it will launch Q — a business chatbot powered by generative artificial intelligence ... the company hosts for its AWS cloud computing service, represents Amazon ...",
-      "sourceUrl": null,
-      "webUrl": "https://komonews.com/news/business/amazon-tech-giant-launches-q-a-business-chatbot-powered-by-generative-artificial-intelligence-ai-chatgpt-openai-technology-seattle-new-york-jeff-bezos-las-vegas-aws",
-      "originalUrl": "https://komonews.com/news/business/amazon-tech-giant-launches-q-a-business-chatbot-powered-by-generative-artificial-intelligence-ai-chatgpt-openai-technology-seattle-new-york-jeff-bezos-las-vegas-aws",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://komonews.com/resources/media/4def6a03-0509-4b78-8c35-fdb99b80460d-large16x9_AP23202786388880.jpg",
-          "width": 986,
-          "height": 555,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://komonews.com/amp/news/business/amazon-tech-giant-launches-q-a-business-chatbot-powered-by-generative-artificial-intelligence-ai-chatgpt-openai-technology-seattle-new-york-jeff-bezos-las-vegas-aws",
-      "cdnAmpWebUrl": "https://komonews-com.cdn.ampproject.org/c/s/komonews.com/amp/news/business/amazon-tech-giant-launches-q-a-business-chatbot-powered-by-generative-artificial-intelligence-ai-chatgpt-openai-technology-seattle-new-york-jeff-bezos-las-vegas-aws",
-      "publishedDateTime": "2023-11-29T21:28:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "komonews",
-        "domain": "komonews.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -131,6 +131,15 @@ related:
         width: 480
         height: 360
         isCached: true
+  - title: "Google Gemini AI tools now available for developers and businesses"
+    excerpt: "As well as making their new Gemini API available for developers and enterprise users to harness the power of artificial intelligence in custom AI models,"
+    publishedDateTime: 2023-12-14T14:10:00Z
+    webUrl: "https://www.geeky-gadgets.com/google-gemini-ai-tools/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 19
 
 secured: "rhAHvuBxUReUbG5UPWibtGz1b4vzpN4UzUJSd07AKjpK/DEdTFVXoUAuPaP0oDqZF3PphX5yGixvVXK46ahQeQV5wAqQrcQbqeqp3wuVklgD/R5ozI2l7TTuiX0aJIpIwf3U8dM9wKdscmPY269Ybmchhl6sMpuRYqLD/EJf/xtTzu3qKMGnkG5PXJj5nx8ySkDRUb9oanRD9ID3XV6uI9giRWqFTQBrnj9OY+MMcQyeBsZMjsWNMKO+fVBPTPWOAERSrFprG1s7C/Ja/bgkfbh3JQBGXN83g3pq2S7Hjvj/qUvDfQz1R65BTBfW1jxBnbMm7aiATJVpCy80c0pRhsjbDs93WQlVAHaDJBGYvyEOuWqxPC+3aDxk5FuiBocu7FTI6xeYyX3Z4shCEWCubPELSDNEtYpr6fM1gEZmVgIz02cO5g3m/U01ZMr3U6v4RtAkBMy6ajF8ca0+neMk9aJLha40EhSTPlF7Rz0th7OoSMJWcwb7ob4yysRdztnZJ7xxGQX9HZ8ysRv+OwO8mg==;xUqJ3m3/7r+ML/3VXkWkXQ=="
 ---

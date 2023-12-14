@@ -15,12 +15,6 @@ topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/2294523/SuperMicro_Servers_with_AMD_MI300_Series_Accelerators.jpg"
-    width: 400
-    height: 400
-    isCached: true
-
-secured: "/jxrDrAg5Ln+3B28jCY51W1a4sDdAIBQzC0ulCmXhew/s5/tLsqPv9gNRDjGbxKzhOShLEpn26upopHKxTURKHGfWm4NyGw5OdqzwlnKPBnv1JZhzw/crV6A3aSvLulHa2lVbvSEVF9FzQZVNS7y8nyW4csDtebgH60h4F5CgZQMYrbi7w1qDxme77jQ7p0WW6m5uxRdTq/RzBU7gVHCIQ8jvCGQOP+XUyK32GG2Ii3lznaFBGA+kQc3Zzs5IYZNJjBaY9LqhTSzBrzw2BT05Me9GBFciIr1KxAlBDKwYpsbs07/TMRsARXI4o4G9ZHzz1E0/KWWvATg40EFlqxxmlSzZ3xFh4U5XPX/0w2DqNw=;UVKShjdID6OfrzGnqea0+w=="
+secured: "2jeTWL2q+aZ8m0Z+hibsHqRmfEWltfmmnUwVY0Bt9vA+OmQbVE6LusB5vgAVdDLyDzOeWg89xwM6OLgG8uqvj7WaKu1fD3tmw30oktbaHaIGe2/U4cz0WyrxkV5gv+rPKazf5nj+/C00DdbeLNHvm3AQTmYidmNuLJ766adA0Um29zZqJH+eHbPcgYUShdrwq2jwqJCCwko3AZeLJCvAalOiFKYIsH7jSvWcMGulN25DMwPL7HuQjtH1dKYXkaUHPLjKWXOEk865osS1NS2l+jpiFtiw6uSwEGzxBfBz9xtgaIm1k2ngQwzi91SMr46cyqorBwN5jlDRKBq1ZV5nuawkSjVolKVvC4f0Uu2yJYo=;KOeBx/v0SEWSS+RvI65krg=="
 ---
 

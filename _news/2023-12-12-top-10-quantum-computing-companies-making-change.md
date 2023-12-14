@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/technology/article/top-quantum-computin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/technology/article/top-quantum-computing-companies/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "IIT Delhi Launches New Certification for Quantum Computing & Machine Learning"
+    excerpt: "IIT Delhi to propel professionals into the Quantum Future with Certification in Quantum Computing & Machine Learning. The five-month online programme includes modules on Quantum Mechanics, Quantum Algorithms,"
+    publishedDateTime: 2023-12-14T15:23:00Z
+    webUrl: "https://www.timesnownews.com/education/iit-delhi-launches-new-certification-for-quantum-computing-machine-learning-article-105998969"
+    ampWebUrl: "https://www.timesnownews.com/education/iit-delhi-launches-new-certification-for-quantum-computing-machine-learning-article-105998969/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/education/iit-delhi-launches-new-certification-for-quantum-computing-machine-learning-article-105998969/amp"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 56
+    images:
+      - url: "https://static.tnn.in/thumb/msid-105998962,thumbsize-1478046,width-1280,height-720,resizemode-75/105998962.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "VISIE Inc., a Medtech Computer Vision and Spatial Computing Company, Joins NVIDIA Inception to Up Its Computing Power"
     excerpt: "VISIE Inc., formerly Advanced Scanners, today announced it has joined NVIDIA Inception, a program that empowers early-stage companies revolutionizing"
     publishedDateTime: 2023-12-12T13:17:00Z

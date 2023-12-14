@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/thoughts-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/12/thoughts-on-consent-and-privacy-in-the-age-of-ai/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "The Artificial Intelligence Glossary"
+    excerpt: "A guide to the key terms you need to know and understand when discussing AI. Artificial intelligence is dominating conversations across all industries, including legal. To help legal professionals ..."
+    publishedDateTime: 2023-12-11T12:19:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/12/11/the-artificial-intelligence-glossary/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/03/Brain-Lightbulb-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
   - title: "This mind-reading AI can turn thoughts into text"
     excerpt: "A team of researchers from the GrapheneX-UTS Human-centric Artificial Intelligence Centre at the University of Technology Sydney (UTS) have reportedly created a portable, non-invasive system capable of decoding a person’s thoughts and turning them into text."
     publishedDateTime: 2023-12-12T13:41:00Z

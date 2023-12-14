@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/grammarlys-ai-writing-help-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/grammarlys-ai-writing-help-comes-to-your-iphone-heres-how-to-use-it-today/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "Today I learned my iPhone has this cool AI feature that proves its smarts"
+    excerpt: "This Magnifier app feature, called Image Detection, was introduced last year, and it supports any iPhone with LiDAR (a scanner that measures depth perception with light pulses). This includes the pro variants of the iPhone 12, iPhone 13, iPhone 14 and iPhone 15."
+    publishedDateTime: 2023-12-14T14:11:00Z
+    webUrl: "https://mashable.com/article/iphone-ai-image-detection"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 46
   - title: "The race is on to create the iPhone of the AI era – Business Insider"
     excerpt: "These cutting-edge gadgets won’t look like the thin glass rectangles we’ve grown used to during the smartphone era — they’ll take on bold new shapes as tech companies experiment with novel ways to interact with AI."
     publishedDateTime: 2023-12-10T07:41:00Z

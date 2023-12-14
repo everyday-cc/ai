@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/13/ai-in-2024
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/13/ai-in-2024-more-than-a-marketing-buzzword/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 1127
         height: 592
         isCached: true
+  - title: "How AI could change trucking in 2024"
+    excerpt: "Samsara CIO Stephen Franchetti told FleetOwner: \"As the AI explosion continues, an organization's ability to stay competitive and innovate will come down to their enterprise data strategy. We'll start to see an increased need for a robust foundation of ..."
+    publishedDateTime: 2023-12-14T14:43:00Z
+    webUrl: "https://www.fleetowner.com/technology/article/21279287/how-ai-could-change-trucking-in-2024"
+    type: article
+    provider:
+      name: Fleet Owner
+      domain: fleetowner.com
+    quality: 17
 
 secured: "A2qzODfvHNnsbs4Ulde4e2s7fhMjr++8xLb0wUITQibFI7mgITHy/oLpx+H0evvKxiwIa3HZlL5NVJXYCTOqKMfmcHuI8gSAts3ASu4ZAKEFY0n5JilbT00oHoFEA/osJBv0TK9UmY8km1utRdFrHpLXxeCL3B1tdP9liIAwNZu/1CUTQ3ThAS2GeGa9m7bOkr9dpAgXWpnA35/Zupnd0zDfV6v5jyhn4Zwh6MHzdmETxGdZ4ByJLVQ8MmqaWvg3xQHdM6OJLzEIiilVPnSqQ0HIXKi+ljyHsP4NsG2W5C7r/nb7MwJk7/VqFkO+G7cfW3Rgmj3jlq4lEi3eHF/x93u+a82JQ36X/kK7xiP3TOLYbF8oCPBqy92q/7TwJ3SGE9vNkkIaDEn5/77VCo8ayQhcaOPRYq9P9Ur2PIGFHrlzd7DYdGZto16gBLMTdpQbuwZfi61Wz+teT6S0PpPKyigTA8ITfl0iOxS8Li/UQMZpS7REBQFwsFozS0898O6XE1vAiFG9ONmclNBjTDC8sg==;fkYVsyiLliXSP3WfzPyS3w=="
 ---

@@ -34,6 +34,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 62
+  - title: "Google's Billion-Dollar Cloud Business Takes On AWS, Azure With AI, Machine Learning"
+    excerpt: "\"Anytime any customer talks cloud, they talk AWS, Azure, and Google ... Google's portfolio of artificial intelligence (AI) and machine learning technologies are standing out and giving the ..."
+    publishedDateTime: 2023-12-11T03:13:00Z
+    webUrl: "https://www.crn.com/news/cloud/300100466/googles-billion-dollar-cloud-business-takes-on-aws-azure-with-ai-machine-learning"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 61
   - title: "GPAI meet adopts New Delhi AI declaration"
     excerpt: "Further, the declaration also saw participating nations agree upon using the GPAI platform to create a global framework on AI trust and safety, and make AI solutions and benefits available for all. India also pitched to host a GPAI Global Governance Summit to finalize the proposed framework, in six months."
     publishedDateTime: 2023-12-14T04:43:00Z

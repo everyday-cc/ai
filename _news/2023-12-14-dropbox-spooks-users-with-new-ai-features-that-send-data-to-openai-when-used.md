@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/information-technology/2023/12/dropbox-spo
 webUrl: "https://arstechnica.com/information-technology/2023/12/dropbox-spooks-users-by-sending-data-to-openai-for-ai-search-features/"
 type: article
 quality: 64
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -85,15 +85,6 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 17
-  - title: "Paris-based Startup and OpenAI Competitor Mistral AI Valued at $2 Billion"
-    excerpt: "In a significant development for the European artificial intelligence sector, Paris-based startup Mistral AI has achieved a noteworthy milestone. The company has successfully secured a substantial investment of €450 million,"
-    publishedDateTime: 2023-12-09T14:18:00Z
-    webUrl: "https://www.unite.ai/paris-based-startup-and-openai-competitor-mistral-ai-valued-at-2-billion/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 16
 
 secured: "jmp3UYSb7Jx+6C+HvyEyJ5GxrXmoSR4CKfviE3ICT3M0SxfSxkz7CwjhJ9yuwwrlbCClPLoicnX/pJX3+XDRY05CCd+CHU+geItuuxsTUiFF82vd7sXFzIfuMNQBt+lBfafFqeDvfVw+fVz8LgQNhfOX1RsbYey8CMYd4qP88wT7e8E61vp+3Mtiwl8wiMqqgeDrN2d27FMKG7OWXB0iqoYiPdiGGJslI477WIkL5EtflzbX5ovh3JF1VkEUhSSCLoLbZkXkSKMfRtWJBFwfOw7Q3zPmpaHRWZUgsQAmIAWGS/qfQMbNzW8yodpkTZOSecwqcGX+T6Uw0M0G6ezueqn2rfyfPv1s19ffMBAXv+tQgM9yprh/gEHI3EoWTgTFioL/tcSnvzP13BjRUCTTy05MVlqcHfdkabgkogQAsaZJggK3vQcE6BFWU31/HBVX40bsd2t+R5GDKkE7Wqjt5VWS5sTqgMrAJO6S97mKw4UAqruQ7M7XqxU2hzAC5C7VQTFFAZubM4CVN4gbUS0T+Q==;4KcAiHoHrog+G2kfaJUhWw=="
 ---

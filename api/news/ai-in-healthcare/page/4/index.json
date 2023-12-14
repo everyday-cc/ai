@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-10-24-pioneers-in-ethical-artificial-intelligence.md",
+      "title": "Pioneers in Ethical Artificial Intelligence",
+      "excerpt": "BIDMC's Yuri Quintana, PhD collaborated with AMIA to host a two-day symposium to explore the issues surrounding AI in the healthcare setting. Read more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bidmc.org/about-bidmc/news/2023/10/pioneers-in-ethical-artificial-intelligence",
+      "originalUrl": "https://www.bidmc.org/about-bidmc/news/2023/10/pioneers-in-ethical-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bidmc.org/-/media/images/beth-israel-org/about-bidmc/news/kidney-donation-fenway-1000x565px/bidmc-quincy-ambulatory-center-1000x565px/blood-pressure-article-1456835439-1000x565px/ai-conf-group-1000x565px.jpg",
+          "width": 1000,
+          "height": 565,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-23T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Beth Israel Deaconess Medical Center",
+        "domain": "bidmc.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-10-23-dance-therapy-class-aims-to-help-children-with-disabilities-express-themselves.md",
       "title": "Dance therapy class aims to help children with disabilities express themselves",
       "excerpt": "Dance can help children with disabilities express themselves when words fail, according to Timmins autism specialist and dance teacher Jessica Croussette.",

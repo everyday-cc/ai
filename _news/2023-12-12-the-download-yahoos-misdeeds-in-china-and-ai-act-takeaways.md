@@ -28,6 +28,15 @@ related:
       name: MIT Technology Review
       domain: technologyreview.com
     quality: 17
+  - title: "The Download: what we learned from COP28, and an advance for household robots"
+    excerpt: "“emphasizes”—can all start to sound like noise ... That data is then fed to an AI model which instructs the robot how to carry out the actions. Why it matters: This new system could help the field of robotics overcome one of its biggest challenges ..."
+    publishedDateTime: 2023-12-14T00:01:00Z
+    webUrl: "https://www.technologyreview.com/2023/12/14/1085310/the-download-cop28-household-robots/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 16
 
 secured: "jusk/Dg11OqGZtdaUwk8QMdJwyJZgZd07B0cMaUbSzk4TTksERdYLItos2wfaTSP36JlMI164+vIByWhMv+QIsD8QNjyCT5g5nkPubhFup4hAFON3hd7xsqLMIT7m3tb3mp6OcpIS1PA56rnSn8Ms9HFKB5xKDumuUDi6F0HQVICRFRXaNx0eGXMji6qrdixhM6Ol9tATx7XgukDCS4WQJoaouMyzcwnVgmh9ORGpU+YHgOiI2yfX0a2v1Z2NYisXBh/WSGj33onUfNJ8yRstK2ZO2+4JKVhHFPqiIsTNWCbl6B+grRUSAXNNkjksO/Y5IuwquXpDmxUtMeHSNJ4+nyYgYGuaSvjO6ZfzBPyPrs=;XegHtikAGlFYoUGigzCKZg=="
 ---

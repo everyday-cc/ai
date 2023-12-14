@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theweek.in/news/sci-tech/2023/12/13/scientists-unveil-br
 cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2023/12/13/scientists-unveil-brainoware-a-game-changer-for-artificial-intel.amp.html"
 type: article
 quality: 72
-heat: 86
+heat: 82
 published: true
 
 provider:

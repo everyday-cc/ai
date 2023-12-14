@@ -7,8 +7,8 @@ originalUrl: "https://www.dailyexcelsior.com/police-starts-ai-based-facial-recog
 webUrl: "https://www.dailyexcelsior.com/police-starts-ai-based-facial-recognition-system-in-kishtwar/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Daily Excelsior
@@ -34,6 +34,15 @@ related:
       name: Rising Kashmir
       domain: risingkashmir.com
     quality: 41
+  - title: "Kishtwar CCTV cameras get AI-powered facial recognition tech for swift detection of militants: police"
+    excerpt: "The new system is integrated with a database containing the photographs of militants, OGWs and criminals, and can automatically try to match faces captured in the CCTV footage with the database."
+    publishedDateTime: 2023-12-14T13:32:00Z
+    webUrl: "https://indianexpress.com/article/india/kishtwar-cctv-cameras-ai-facial-recognition-militant-detection-jk-police-9068580/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 19
 
 secured: "iO2o/9p0uI8zFhaMHF20TZS1CTLvgBAA974LUsmQJmU+DwMIpZR6SpEwB4jzBQzFaHb+mRbEusx+8yuCJF3UlZBOoI6LWWbqbtPVc4c0zKh1ByUZ3QsvxPioZVaNUVhrjSy8dZNfKrzkkgU+9EQLADK7is95ytihUayliFvX8++jc8yu8npUGWOYbK5ucT4XifK+rc54AlWyLk+KyLNC5hiFFsx/TPHDW5hwThfkg8gk1DzIAH6SFFelhqJzlTrunfkukWfIm+MtkF1gcqfyzadH9kTKacxIC8eEpJC9SmV40xScEx9lfypk37VjHFqjZuo3E112Sm5wi+yVi7iUmDD8hHQXZex7HgAed8W8au4mhteoMFWsYRVZgOVRvun0JZaTetpshOUWNmDJxwld3HxZ6g2QPX9offjiRMii+qpTfO2pmf+WfhqIsvNRC5o2IzOF8dQ7MTgEVMvB/feA1GSyxuBIDuegtgLLDubg4yDxwc/FVFPryf3R9Z71PWFHHQpjv7Ne4gVBV53gvMyt2Q==;ix8qe74RlfwLX7Siq9SFIg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/braintrust-data-wants-to-make-enterpris
 webUrl: "https://venturebeat.com/ai/braintrust-data-wants-to-make-enterprise-ai-better-with-faster-evaluations/"
 type: article
 quality: 65
-heat: 75
+heat: 78
 published: true
 
 provider:

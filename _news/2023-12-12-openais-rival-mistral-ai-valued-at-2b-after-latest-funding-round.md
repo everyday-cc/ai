@@ -81,15 +81,6 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 17
-  - title: "Paris-based Startup and OpenAI Competitor Mistral AI Valued at $2 Billion"
-    excerpt: "In a significant development for the European artificial intelligence sector, Paris-based startup Mistral AI has achieved a noteworthy milestone. The company has successfully secured a substantial investment of €450 million,"
-    publishedDateTime: 2023-12-09T14:18:00Z
-    webUrl: "https://www.unite.ai/paris-based-startup-and-openai-competitor-mistral-ai-valued-at-2-billion/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 16
 
 secured: "qBa/eI8nI466SSow9WZD86dJO/AnrVwdGX7lsxomcfR9i1MdT7M4ub6IYUU8VuvhUnKNyFgPfHg4xQW0KjpkQB9DogMT3Sm3Bxke3PMoPITPyF26plNLZjcxlQFg5KLAAb+hTafiX3lWXlBnk33cVF9Gfnqq/yO18NZrHzLayBieaoAwvpWt07Y5uMvHhy17uweGB3bTC0rewbw2IJ2bGbA6lnQeLxAG2LToMFg/nDaS870AkQm48tBqIZNJwxLPyqFhOCseu+pcbp98Q3C8Wtrdd0I2g20ZKr2zRsxIFMzIOZYjdy4aNM95ZYnKssazKyqL9tt461IY3tzMKAQjIzllBLiOG77e60P1aSEevZA=;Htxm66cIxxVa2nHNlbIayw=="
 ---

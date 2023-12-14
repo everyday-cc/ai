@@ -245,6 +245,49 @@
       ]
     },
     {
+      "path": "_news/2023-12-02-ai-safety-is-imperative-triangle-thought-leaders-talk-artificial-intelligence-with-senate-panel.md",
+      "title": "‘AI safety is imperative:’ Triangle thought leaders talk artificial intelligence with Senate panel",
+      "excerpt": "The seventh and final planned session of the Senate's AI Forum included two representatives from the Triangle: Howso's Mike Capps, and Duke Computer Science Professor, Cynthia Rudin. Check out what they discussed.",
+      "sourceUrl": null,
+      "webUrl": "https://wraltechwire.com/2023/12/01/ai-safety-is-imperative-triangle-thought-leaders-talk-artificial-intelligence-with-senate-panel/",
+      "originalUrl": "https://wraltechwire.com/2023/12/01/ai-safety-is-imperative-triangle-thought-leaders-talk-artificial-intelligence-with-senate-panel/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wraltechwire.com/wp-content/uploads/2023/11/WRAL-Featured-Image-Template-71.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://wraltechwire.com/2023/12/01/ai-safety-is-imperative-triangle-thought-leaders-talk-artificial-intelligence-with-senate-panel/?amp=1",
+      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/12/01/ai-safety-is-imperative-triangle-thought-leaders-talk-artificial-intelligence-with-senate-panel/?amp=1",
+      "publishedDateTime": "2023-12-01T16:16:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-01-aftas-2023-most-innovative-third-party-technology-vendor-ai-machine-learninggeoquant.md",
       "title": "AFTAs 2023: Most innovative third-party technology vendor (AI & machine learning)—GeoQuant",
       "excerpt": "Innovation at GeoQuant At GeoQuant, part of BMI Research, a Fitch Solutions company, innovation is woven into every aspect of the business. The firm uses",
@@ -1236,49 +1279,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-11-28-launch-of-altair-rapidminer-2023-platform-delivers-next-generation-generative-ai-capabilities.md",
-      "title": "Launch of Altair® RapidMiner® 2023 Platform Delivers Next-Generation Generative AI Capabilities",
-      "excerpt": "Altair RapidMiner's comprehensive AutoML toolset now supports automated clustering in addition to predictive modeling, feature engineering, and time series forecasting. The intuitive wizard-based ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.victoriaadvocate.com/launch-of-altair-rapidminer-2023-platform-delivers-next-generation-generative-ai-capabilities/article_3aa6a066-a6b5-5947-a653-e4b92a8f8540.html",
-      "originalUrl": "https://www.victoriaadvocate.com/launch-of-altair-rapidminer-2023-platform-delivers-next-generation-generative-ai-capabilities/article_3aa6a066-a6b5-5947-a653-e4b92a8f8540.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/6/a9/6a9e7c1c-f8ad-510a-aa51-a58a3fa6bf72/6565da0885559.image.jpg?resize=1200%2C630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-28T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Victoria Advocate",
-        "domain": "victoriaadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

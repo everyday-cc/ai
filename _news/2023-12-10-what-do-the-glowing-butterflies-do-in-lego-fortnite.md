@@ -39,6 +39,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "How to find Lego Fortnite Loot Llamas"
+    excerpt: "There are plenty of animals in Lego Fortnite – most of which want to kill you – but one in particular is always a sight for sore eyes; the Loot Llama. This colorful, pinata-esque llama appears almost at random in the survival game, and if petted ..."
+    publishedDateTime: 2023-12-14T00:01:00Z
+    webUrl: "https://www.pcgamesn.com/lego-fortnite/loot-llamas"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 24
+    images:
+      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/12/lego-fortnite-llama-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "uO+Z8kAnDOflgvJSvWUrtNtMEemGJi50za4LlFIqec+s9ssY8Ugxw70libJq0EYSkfm1LWx7q5bwVva8RXzNuuktCiuA1bavj3/3NV/0HC2efgO8jzN9vrCOtSNgQQlZtQdAP+nkd3DFP0xYxxUe8Dij0GWzzTyIrKcWvMb3eUFuqEtNp22RiXIQnj2s1RCY5lHRgWKwcTjXPc3bUQqG5z6UqRRDdJindevcOneRucgwnV9EfhM7K+m19IjGkgD40L5gsRDxoTmY69WlHctzKdliXp/AW0CGPJTy30KOdls24hZNwWodOkPIPC3GiKHUOjof60J3DHK5cX73MkIugElI0ABJkdQ/Z/VE/QPQljwwzTpiieJ/7rwJnXHXl2IxGp3IHqbgCJEVcFHmxscIiY8FMEXo+fFsqFi/R1rl9ut+fCV1Gpk6BjlC/gpu6HhrUtpsV8dh975EEphb+n3G3VYTmJxErMgQdfWPm/gZiOImaS3KZ/5FaTjBomLyVjTvB0IGaieE8S7Q27UhflXJ7A==;KVedVvF8hdaImhGDZ0yoSQ=="
 ---

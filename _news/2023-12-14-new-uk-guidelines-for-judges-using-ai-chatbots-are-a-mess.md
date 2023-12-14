@@ -72,6 +72,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Managing costs to realize the potential of cloud and generative AI"
+    excerpt: "Today the drive towards cloud adoption is more and more propelled by the desire to leverage the potential of AI -- especially generative AI."
+    publishedDateTime: 2023-12-14T14:39:00Z
+    webUrl: "https://venturebeat.com/ai/managing-costs-to-realize-the-potential-of-cloud-and-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/12/AdobeStock_529882524.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 663
+        isCached: true
   - title: "Unlocking MRO Opportunities Through AI And Machine Learning"
     excerpt: "AMSTERDAM—The aftermarket is embracing data analytics and artificial intelligence techniques for a variety of use cases and placing ever more emphasis on machine learning algorithms for detecting defects on aircraft. During a discussion about artificial ..."
     publishedDateTime: 2023-12-13T00:00:00Z

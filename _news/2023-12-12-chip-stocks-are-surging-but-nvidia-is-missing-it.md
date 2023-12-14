@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-12-1
 webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-12-11-2023/card/chip-stocks-are-surging-but-nvidia-is-missing-it-s1Qwg9eaQQEoG9W9QwM0"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://g.foolcdn.com/editorial/images/758013/amd-headquarters-with-amd-logo-on-top-of-building_amd_advance.jpg"
         width: 2000
         height: 1200
+        isCached: true
+  - title: "Intel stock hits a fresh 52-week high after saying its new AI chip tops Nvidia's H100"
+    excerpt: "At 11:00 EDT (16:00 GMT), Intel stock was up about 4% on the day, hitting a new 52-week high."
+    publishedDateTime: 2023-12-14T16:46:00Z
+    webUrl: "https://za.investing.com/news/intel-stock-hits-a-fresh-52week-high-after-saying-its-new-ai-chip-tops-nvidias-h100-432SI-2958248"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 47
+    images:
+      - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
+        width: 251
+        height: 282
         isCached: true
 
 secured: "XtzK3teitF0dRng7tRFjVi10pmwiA4FRQUlLWXVUzyhIp9CMfhY3guHXlF0kFrIhSkgCqINtwIernGgwXjTq4uLboMiwOuwqUDsyEC3D0lE44BbuIOWmyjsHzHKjeVlooBvhiND4GmWt6O/DefsQ7O2PcFW194nUm/oziaUbkd+eNK93WmPt3iQ15MT1UyFEYaRjW4TzrpDL6bVCiG1Y/0+64C/C2kp0zCqrSEj1bkOPgEb9/miG1TkNhxNK+C7brlAELJLiKGn1Vy84FO36D2JZu1L/JRkA35ppNo3K77uMKPBw350Ur2NQLYIOSLIHLxpHTCx4Rwxh6eatxQQ6d5n2KCqPcDNVgYGmroamzHrALShR7qfqhwIuFfZdGAWd+ynTb+Xx3VrTkGWGIpLR7phbvmzHUd+R8fvG0YtythuLnUv9lEqYOTLmrkfiUUIYY6WX4MnDXvrysgsl/b8indRs0uZIJMimwqYb7F1EKwd+A31EuBbnLWUDo1YXdhc3KaCVKZ9kWEN6MawhqYE2fQ==;f+32NrsWdFVCEnBwaFscHQ=="

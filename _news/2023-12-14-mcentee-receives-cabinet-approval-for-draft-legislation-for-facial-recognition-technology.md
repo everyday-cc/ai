@@ -76,6 +76,15 @@ related:
       name: WXXI
       domain: wxxinews.org
     quality: 27
+  - title: "Dublin riots: McEntee publishes draft law on facial recognition tech"
+    excerpt: "Minister for Justice Helen McEntee has published a draft bill on the use of facial recognition technology by An Garda Síochána."
+    publishedDateTime: 2023-12-14T12:30:00Z
+    webUrl: "https://www.siliconrepublic.com/business/dublin-riots-facial-recognition-technology-police-draft-law-ireland-helen-mcentee"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 19
 
 secured: "9bDGG1CG4zaebSUaGcMpRcbFbujKmaouAsIbacN4Nx7k2ReFdOImG23c98QBb4+QWrmUALKfJSBxA7JkjMVCP2d3R9tJZuTZSNL2gKu7x2gsqB6a5fk6i9jXvyFynXgTYz+iOEClCDtRiiYcZL+hpx+ZP+OnVRTiI6DwBSzctIzrFCLGqJmhnEc9Wfq+yL3nMltRFt0UG+YynZz7iqFv1Hwib/ZxO+VePYtIm88Le41U8gYTvt6w34YXzs4tRX8bCWC1RuDIkO2oglgGzu6ECim5RNwsfjZ8EC7c82TUBIGeJk0RimUE/2wtom8Zy9caiGOccQnw80NXxLU0D0y9YzJFzWizRkkM4cyM6PBXNBtGpgpMLz2XXZ9iA6CyWV28ksqu2ptEj7oFlD+xR2qZCDoOIW0ltjszJRRwUWxb2ijaG5LqHTNJjY9LVGdVWbEZzAVbbRYE44s1kEBdHieRbEZC3Seqxxk5qvtH54ZFzxuTlqNBnnTls3Ply4aRE1UoBPKBhB4aqbevFMDVYiAChA==;3pUwgb669UNw+eE6kBfEtw=="
 ---

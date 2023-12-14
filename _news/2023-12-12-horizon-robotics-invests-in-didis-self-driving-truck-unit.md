@@ -7,7 +7,7 @@ originalUrl: "https://technode.com/2023/12/12/horizon-robotics-invests-in-didis-
 webUrl: "https://technode.com/2023/12/12/horizon-robotics-invests-in-didis-self-driving-truck-unit/"
 type: article
 quality: 56
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -56,15 +56,6 @@ related:
         width: 630
         height: 354
         isCached: true
-  - title: "Japan's Isuzu invests in Israeli AI startup for self-driving tech"
-    excerpt: "TOKYO -- Isuzu Motors has invested in Israeli startup Foretellix, which uses artificial intelligence to test the safety of autonomous vehicles, as the Japanese automaker pursues self-driving trucks. The investment was made at the end of November. The amount has not been disclosed."
-    publishedDateTime: 2023-12-09T14:10:00Z
-    webUrl: "https://asia.nikkei.com/Business/Automobiles/Japan-s-Isuzu-invests-in-Israeli-AI-startup-for-self-driving-tech"
-    type: article
-    provider:
-      name: Nikkei Asia
-      domain: nikkei.com
-    quality: 19
 
 secured: "VYx8W9OLt1rZxOa89zzKIqHRX6r8UN0X3y26Ak9aowxoC/Useg86ZH30kIR4XzVuQrsn0P/rfflMZlgi8bG6AeaPqSnyIU/6YwbKRKRvXuA89C1sUAXxUyAFsJJg9V3wN1HYw9Y1JFBR2iuFyiclZ77rRtRwxnMS2IzCe1DyU8umW/JFku3hLpVs2u3Z5LIXBKNveLpWfuidAR/UjrgnCAkQk68fCk81xQ819D9eba2BJCdbDD0RCCmdOIrP+yYvnCZLIoNzV3KaF0jlcsQM2XzzqlrSKf4c1qunNGTTburSEIStw7oD4O7PCWh35xXsKR2kuM7TYPVdVlJINxHMeBi290vN3wfvpjrf6tSh4uo=;qxBcaHMP/uGx+HSJgI37ZQ=="
 ---

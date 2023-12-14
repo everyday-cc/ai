@@ -92,6 +92,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Intel debuts AI-accelerated Core Ultra and 5th Gen Xeon chips to enable AI to run in any location"
+    excerpt: "Intel debuts AI-accelerated Core Ultra and 5th Gen Xeon chips to enable AI to run in any location - SiliconANGLE"
+    publishedDateTime: 2023-12-14T15:00:00Z
+    webUrl: "https://siliconangle.com/2023/12/14/intel-debuts-ai-accelerated-core-ultra-5th-gen-xeon-chips-will-enable-ai-run-location/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 41
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/Intel-Core-Ultra-2.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "Governing AI for business benefit"
     excerpt: "Last month, a group of professionals and industry experts came together to launch an AI Governance website in response to a survey that indicated governance is a key focus although half of businesses are already using some form of AI."
     publishedDateTime: 2023-12-11T00:30:00Z
@@ -175,6 +189,15 @@ related:
       name: CRN
       domain: crn.com
     quality: 15
+  - title: "Startup Mesh Ai launches ‘first AI-enabled’ workplace mental health solution for Microsoft Teams and Microsoft 365"
+    excerpt: "Australian startup Mesh Ai has announced the release of Simpatico Teams, a “pioneering AI-driven mental health application” for Microsoft Teams, Microsoft 365 and Copilot for Microsoft 365. Mesh Ai says the application ”will help employers better manage the growing psychological challenges of the"
+    publishedDateTime: 2023-12-14T13:29:00Z
+    webUrl: "https://itwire.com/business-it-news/enterprise-solutions/startup-mesh-ai-launches-‘first-ai-enabled’-workplace-mental-health-solution-for-microsoft-teams-and-microsoft-365.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 12
 
 secured: "UzQYoBsxf17Xaum2xST5+s+h0ZaJw3DsF7ELNSSMTLcZp8dO+FRzUHuBt3yJplrM1au6+D+0YA/tpacwbqT0lYzALsHyflHurVhnL8Pnvs0QWq94jV6KQuj1h78LLja9zb6Lfxm+uC9tIDcJYlsr4XeFjYVn1rZdPWIdkNpJcZeUVv0rnOeMnfSrS88MzG7KvRXMF2/qZCg4W6KmPE7x00XTrCZqjkPSaCKRXvgxPAcc1dz67RUXK3fHm54XL8sHVyomIQd3g0WN+7F64+M/R6CSBYPp5h+jshh7TBS0HmRjai1YsgFc7DeSU17ZmvbD8u1CDKf26dGBZsfak/4d0vpnQSVACeVDTca7fX3HqXE=;pV60AUF3f+3pSMJAQoGZXQ=="
 ---

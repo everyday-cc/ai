@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cio.com/article/1251976/cios-grapple-with-the-ethics-of-
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/1251976/cios-grapple-with-the-ethics-of-implementing-ai.html/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "The Ethics Of AI: Balancing Innovation And Responsibility"
+    excerpt: "AI has the potential to transform various industries completely. On the other hand, concerns around its ethical implications are valid, too."
+    publishedDateTime: 2023-12-14T13:01:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/14/the-ethics-of-ai-balancing-innovation-and-responsibility/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
   - title: "Mapping the micro and macro of biology with spatial omics and AI"
     excerpt: "Over the last 20 years, the omics revolution has enabled us to understand cell and tissue biology at ever increasing resolutions. Bulk sequencing techniques that emerged in the mid 2000s allowed the study of mixed populations of cells."
     publishedDateTime: 2023-12-12T15:30:00Z

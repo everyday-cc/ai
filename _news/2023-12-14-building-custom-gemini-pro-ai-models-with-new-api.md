@@ -124,6 +124,15 @@ related:
         width: 900
         height: 471
         isCached: true
+  - title: "Google Gemini AI tools now available for developers and businesses"
+    excerpt: "As well as making their new Gemini API available for developers and enterprise users to harness the power of artificial intelligence in custom AI models,"
+    publishedDateTime: 2023-12-14T14:10:00Z
+    webUrl: "https://www.geeky-gadgets.com/google-gemini-ai-tools/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 19
   - title: "Is Google's Gemini the real start of the artificial intelligence boom?"
     excerpt: "Google has released Gemini, its most powerful artificial intelligence model to date, as AI seeps into many facets of life. Will Knight, a senior writer for Wired, joins CBS News with a look at the revolutionary technology."
     publishedDateTime: 2023-12-11T20:21:00Z

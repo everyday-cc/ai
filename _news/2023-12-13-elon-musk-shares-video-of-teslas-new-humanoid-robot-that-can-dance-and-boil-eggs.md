@@ -42,6 +42,24 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla Optimus Gen-2: Musk’s Robot Can Gently Carry an Egg"
+    excerpt: "Tesla has unveiled Optimus Gen-2, the 2nd generation bipedal robot with the ability to walk independently, dance, and manipulate objects."
+    publishedDateTime: 2023-12-14T11:17:00Z
+    webUrl: "https://www.techopedia.com/tesla-optimus-gen-2-joins-the-world-of-ai-robots"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 36
+  - title: "New Tesla Optimus Gen 2 humanoid robot jumps from scripted to autonomous controls"
+    excerpt: "Tesla has unveiled its latest humanoid robot the Optimus Gen 2 which now features AI autonomous controls rather than human written commands"
+    publishedDateTime: 2023-12-14T13:15:00Z
+    webUrl: "https://www.geeky-gadgets.com/tesla-optimus-gen-2-humanoid-robot/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 31
 
 secured: "GbdLH44bIg0Igla4JS7tTG3K+k1bNO5N3zQ/QMS44pNT+rtBTUhLQSngXYiUmV837XfN4M3Wlm067XFphonc2ZoDGeI4mvvpxHyZSlAsSzi/6mm3fYIRLDE3ZVAvCfX6JzfqzA1n1CYAnahzVo4Jg3dQiVR6xigdKPJKSwpVFw3BI2G5gX7dC9tknVfGt2w5l3l53G9xWi1yzXIXits+OgID4cN3WhfdXZb8G1c7JSn/c3J1BjXtvReftLN2bvBG42s5spTzyhkHwqx6BPlP1sgiLC7AvUScmnQVGnhVcf8HRTmeqk17pdzdwwcBX/kpF6Wl0S+djP0ZHQbEU/wHA9Dbw7Fw4GCRE9u+NEMkbek=;fW1S9a6nMNq+dzdsAWt+wg=="
 ---

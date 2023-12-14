@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-12-14/microsoft-explo
 webUrl: "https://www.bloomberg.com/news/articles/2023-12-14/microsoft-explores-using-liquids-to-cool-ai-chips"
 type: article
 quality: 81
-heat: 241
+heat: 251
 published: true
 
 provider:
@@ -208,6 +208,20 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Lawmakers hear support for expanding authority to control China’s access to AI tech through the cloud"
+    excerpt: "Fist said there are some factions pushing for a wholesale ban of all AI-related supply chain elements being exported to China -- whether chips or cloud -- and others, like CNAS, advocating a more “surgical” approach that would include thresholds similar to those identified in the executive order."
+    publishedDateTime: 2023-12-14T16:09:00Z
+    webUrl: "https://www.cnas.org/press/in-the-news/lawmakers-hear-support-for-expanding-authority-to-control-chinas-access-to-ai-tech-through-the-cloud"
+    type: article
+    provider:
+      name: CNAS
+      domain: cnas.org
+    quality: 24
+    images:
+      - url: "https://s3.us-east-1.amazonaws.com/files.cnas.org/title/China-Flag-Getty.jpg"
+        width: 1600
+        height: 866
+        isCached: true
   - title: "Striim Integrates with Microsoft Fabric to Deliver Real-Time Data Streaming Innovation for Analytics and AI"
     excerpt: "Striim, an industry leader in real-time data integration and streaming, is excited to announce its integration with"
     publishedDateTime: 2023-12-13T18:51:00Z
@@ -218,6 +232,6 @@ related:
       domain: datanami.com
     quality: 16
 
-secured: "ndwv8lBKxbqMeNuWOh9V04X1WgdVerUvhMIsTHyAAWHd+IUFo6aH+gajxRac0yVBjzI1DfmQJnqkJgqHN4mCrEvs5KA/oSlDWWpFK8r2dKI/gxVcH9ZJPF72PVSZjs/u89tg5/NChAVDVobJRN8JccjC7GoKkVmzydA8q73qxe8dOL1XBMnXQbqI9Tk/gaPZ5AUgzNYha3/OdAQSPwzkuI6Wc0vQljzuMrj9Bft3hsMRZBKMhp7rc2VCc5alHSGPl4Dbsy39nj49lByTm0p7hiCqZ1fU3Ur1GOw93dIg3iydeIobz08RYTXu94QrU3uqSKerZIDMTyqGftLr9XnR2q9SMHfQv94XcRZRunx8z7Fs/gqsO7gOrS3l71Hi6BYwQLkB8IeSH65uNMuEOROLfmoDGKw53PWfUSuLsmXtA5jcSe3fn3kovMANVPQFFAlVVqMyYApXAxpuFzaWEm39eUzeLqaGOMiJK/RzjZKIl2UNTVvKN89epkq9Z1eitWrjRbL6xghpsuOaSSOhgcXAgQ==;y3yg71nFQE5Cjn3JuWpthw=="
+secured: "T3UddlFunAXXVyeenQZNLuZnnJOH89Sio7ISU2UP6kDIm4XTmr83PfOMsrZlT+L7GeiiBZm23i4KD4+LAlIrnPl/jMn/3wqDwkUdUFlnSHVI0ueqT1sdOQUuD9fvd7tUw3PYctQV66HsLgFdEFteDnH74MV4SbejNI8USWz3oPdIijfGPE2LwtdD+E7aSN/DI7a1Xhmc9+hKDF79wsTr4cYB8quBttWCZcEB5Hg1t19ZSSIpg4kqIp98qI9la4vF9DECcZ80mRW2FH7wHvVwlJ1+WgvlBdvSHOFUGuVJlE698GJKn+a7L2iERr082c8j6v8b70h10jMcblqa5JuIAGk/A0+jY6kUNm+hUsEpji9b42PCbxPvoE9KgNrtptsh/R0TPFv8tdhRh0Q67ZSh0Zqwnm3czXMUv2Y74NcWgkZiESrnjoj6gWqWPLRle4Ys2J8VlibCgjt49zyXIQzKWIpGgE3MF3+UYIHYdgfihUU7EA9ZHpOQiLHt2DbG4B6XFVZOwC+6dGRO4glVunh/Yw==;VFxcDH066VW55bg+Jo2Zqw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/12/12/laredo-wants-to-use-gen-ai-to-auto
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/12/laredo-wants-to-use-gen-ai-to-automate-dev-work/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 700
     isCached: true
+
+related:
+  - title: "Distributional wants to develop software to reduce AI risk"
+    excerpt: "Distributional, a startup developing software to help manage AI risks, has raised $11 million in a seed round from VCs."
+    publishedDateTime: 2023-12-14T14:00:00Z
+    webUrl: "https://techcrunch.com/2023/12/14/distributional-wants-to-develop-software-to-reduce-ai-risk/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
 
 secured: "6pLG9LJS6lPk8QBd+Kz1AmowKO1Tw0PA3N1vHDjt4EZYUcXfZ4SgEMwVzCIq/RwkJQ5NLMTUbYfLSXHJdkAJLYgHSljSTGBWXlCvcep3ekZMro7vOUXMkoPKSPILECiPYbRSZO9fbfUQu9nzvUTobtnd3IuD0LIod9N8bmMZey9VBgQb/Jp2Obb5VYJYxZFOW0a0mLDtuGMppS7N2lhJp1+ppLd8/OsbyLuqPPXzrvhlPv9YPSoI+wVxl+T2b+JBlmJC86BhPcJFI5eAka/HUSsT2fMyRBJWZxB745yV2YWR5UWGlNsJ3OJj6kDlQYXmyl+DjFnn7DauBH7h8LDuHvlNcs7he80WkRZZ1JXYegQ=;znCM0dy29ozGiZYoEO4+Eg=="
 ---

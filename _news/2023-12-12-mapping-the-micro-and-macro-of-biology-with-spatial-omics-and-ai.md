@@ -42,6 +42,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "The Ethics Of AI: Balancing Innovation And Responsibility"
+    excerpt: "AI has the potential to transform various industries completely. On the other hand, concerns around its ethical implications are valid, too."
+    publishedDateTime: 2023-12-14T13:01:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/14/the-ethics-of-ai-balancing-innovation-and-responsibility/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
 
 secured: "xxQmxdOZh6nzKqnWYQLrY2EUZx9Mpd829QAzQMK69rXHJ8s5oWzJroEka3TkVE8gWYNDSSQZm028hSebxct1eSk2XhDlK59MbnzPIiz7V3eD0gEUOTiJhvXt2XdQ9c35XkELLlQc+UJ/y7ak5/0rOZbiZDRlBfVYmM+AF4YIO3e2LID+G0lQQdRediMf0OjgdPhZFX32xiXqs+mhtUI4oD6CuRXWVsLA3D188I/tlHIDcf6s2mvSPbRBlqvVxjZztQ1c9Krcbr25OhIfuhmnEplyN8ugCeMXplg+1l4EmIehDud6bRy8vFRpwfD2NLPE89VzEGfHjSn26q8/84bHRY/Nm9jVEpJ5nTW8dC8ppOZTFRcOnP+iuGplCvg3BWAAK6H5Lx/baoqwjnpV3ERrbYYk+/mKnra+ob5p+YwSma1Q+G4spmNdrGJVc+qj7V8ASNWLQ8xKGPfMCfSx12kMxQV0dwShvRnT37r2wl6Zb1/Urfot0pwWAxZrdyMgYrpk7+exXblqZvNKfPHFQWyJYA==;kHgpyijMxp+H0rUpFyMXZQ=="
 ---

@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "How AWS Prototyping enabled ICL-Group to build computer vision models on Amazon SageMaker"
+    excerpt: "This is a customer post jointly authored by ICL and AWS employees. ICL is a multi-national manufacturing and mining corporation based in Israel that manufactures products based on unique minerals and fulfills humanity’s essential needs, primarily in three markets: agriculture, food, and engineered materials."
+    publishedDateTime: 2023-12-14T16:56:10Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-aws-prototyping-enabled-icl-group-to-build-computer-vision-models-on-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 112
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/12/14/icl-group-vision-models.jpg"
+        width: 1005
+        height: 504
+        isCached: true
   - title: "Fine-tune Llama 2 using QLoRA and Deploy it on Amazon SageMaker with AWS Inferentia2"
     excerpt: "In this post, we showcase fine-tuning a Llama 2 model using a Parameter-Efficient Fine-Tuning (PEFT) method and deploy the fine-tuned model on AWS Inferentia2. We use the AWS Neuron software development kit (SDK) to access the AWS Inferentia2 device and benefit from its high performance. We then use"
     publishedDateTime: 2023-12-13T16:16:28Z
@@ -42,6 +56,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/12/13/fine-tune-llama-2-qlora.jpg"
         width: 1004
         height: 500
+        isCached: true
+  - title: "Streamlining ETL data processing at Talent.com with Amazon SageMaker"
+    excerpt: "This post outlines the ETL pipeline we developed for feature processing for training and deploying a job recommender model at Talent.com. Our pipeline uses SageMaker Processing jobs for efficient data processing and feature extraction at a large scale. Feature extraction code is implemented in Python"
+    publishedDateTime: 2023-12-14T16:42:22Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/streamlining-etl-data-processing-at-talent-com-with-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/12/04/ML_14928_image001-1115x630.png"
+        width: 1115
+        height: 630
         isCached: true
   - title: "Create a web UI to interact with LLMs using Amazon SageMaker JumpStart"
     excerpt: "The launch of ChatGPT and rise in popularity of generative AI have captured the imagination of customers who are curious about how they can use this technology to create new products and services on AWS, such as enterprise chatbots, which are more conversational. This post shows you how you can create"

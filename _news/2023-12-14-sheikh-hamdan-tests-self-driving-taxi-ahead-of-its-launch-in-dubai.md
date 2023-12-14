@@ -24,6 +24,26 @@ images:
     height: 500
     isCached: true
 
+related:
+  - title: "Watch: Sheikh Hamdan, heads of Dubai Police and RTA ride self-driving taxi in Dubai"
+    excerpt: "Driverless taxis have been plying the streets of Dubai, in Jumeirah 1, since October, following the successful digital mapping of the area"
+    publishedDateTime: 2023-12-14T13:58:00Z
+    webUrl: "https://www.khaleejtimes.com/uae/transport/watch-sheikh-hamdan-heads-of-dubai-police-and-rta-ride-self-driving-taxi-in-dubai"
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 13
+  - title: "Watch: Sheikh Hamdan shares video of testing an automated self-driven taxi in Dubai"
+    excerpt: "The Crown Prince of Dubai shared three short clips on his Instagram Stories Dubai: Get ready to see self-driving taxis in Dubai soon. On December 14, Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum, Crown Prince of Dubai and Chairman of the Dubai ..."
+    publishedDateTime: 2023-12-14T14:50:00Z
+    webUrl: "https://gulfnews.com/uae/watch-sheikh-hamdan-shares-video-of-testing-an-automated-self-driven-taxi-in-dubai-1.1702564079668"
+    type: article
+    provider:
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 13
+
 secured: "ffnW7yOZqPHaHzyvGJoZuChMjQydZe9vo92FyPJr8njAnsgqryJrbqa9w4OZaOCyq395TvUGyc3RlcfERZ+QySt0IQEx1tAj82y9YLCrA/aEkST5AMoB8W72THzCglWDfY2n+5/VxBRYF3my1mExC+5Psxf3bLcJy/NCl42MFrQUSA7yCQy74eEiez8MYnw0hUKAdqRnIByStcCpl8vObjyHeJiejdA69U3dxVh0alxAMzQj7k0iLOH9gN4vekqva1y8GvtfxEt9qn8c8VzOtN1nW/8C6x2bfahhSIvOr60xtwE0rCzAmQWdV5Hm6yZz5MCh5JKftTSKnyUi/2imaIzlfffdFXqTZHWYvCarJMSrWSCuKqPLLSmdME10MZ2wxEKZBQxs3KwisKqFx+WeadoPQLfgX/2+e7S/MKwC7yB9YMag7LtSC6w1dgcWM1fQiwBiTYa6TofvTwVg3OyjOUmLb342srrug9KVUA+tIQlBKLbkC2M9AZVCFqAaopMUVBCVusU4emE4OxEYG0zf8Q==;c6n5lpoF5H9XJA7t5Dp6tQ=="
 ---
 
