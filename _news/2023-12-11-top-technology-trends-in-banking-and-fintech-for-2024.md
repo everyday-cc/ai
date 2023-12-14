@@ -115,6 +115,20 @@ related:
         width: 1024
         height: 567
         isCached: true
+  - title: "The Legal Outlook For Fintech And Payments 2024."
+    excerpt: "The Legal Outlook For Fintech And Payments 2024. Legal News and Analysis - Asia Pacific, EU, Europe, Hong Kong, Singapore, United Kingdom, USA -"
+    publishedDateTime: 2023-12-14T08:31:00Z
+    webUrl: "https://conventuslaw.com/report/the-legal-outlook-for-fintech-and-payments-2024/"
+    type: article
+    provider:
+      name: Conventus Law
+      domain: conventuslaw.com
+    quality: 24
+    images:
+      - url: "https://conventuslaw.com/wp-content/uploads/2022/06/1_TKRMzr-NJwYdrYi3AnJPXA.jpeg"
+        width: 820
+        height: 610
+        isCached: true
   - title: "Trends in fintech that drive growth"
     excerpt: "Fintech is a fast-changing ecosystem where there are few certainties. As we move into the second half of 2023 it’s worth taking a temperature check and assessing the lay of the land."
     publishedDateTime: 2023-12-13T16:53:00Z

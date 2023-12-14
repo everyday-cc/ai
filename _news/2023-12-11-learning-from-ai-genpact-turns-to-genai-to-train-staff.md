@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI: Amazon Web Services views generative artificial intelligence as marathon not sprint"
+    excerpt: "While rivals race to add AI capabilities to products, AWS focuses on making it easier and more secure for firms to integrate it into workflows"
+    publishedDateTime: 2023-12-14T05:00:00Z
+    webUrl: "https://www.irishtimes.com/technology/2023/12/14/ai-amazon-web-services-views-generative-artificial-intelligence-as-marathon-not-sprint/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 61
+    images:
+      - url: "https://www.irishtimes.com/resizer/L_dPeTzG3CDDJtQXWEdP3WHGxm8=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/5R3ECHYQPK7Y7BHORWC7C7R63I.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Why Artificial Intelligence Requires High-Performance Computing"
     excerpt: "Traditional data center technology isn’t powerful enough for ambitious AI projects, so businesses are adding clusters of graphic processing units."
     publishedDateTime: 2023-12-11T21:26:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://en.antaranews.com/amp/news/301002/indonesia-to-regulate-ai-b
 cdnAmpWebUrl: "https://en-antaranews-com.cdn.ampproject.org/c/s/en.antaranews.com/amp/news/301002/indonesia-to-regulate-ai-balancing-innovation-and-ethics"
 type: article
 quality: 74
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -71,15 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "EU agrees landmark rules on artificial intelligence"
-    excerpt: "EU lawmakers have agreed the terms for landmark legislation to regulate artificial intelligence, pushing ahead with enacting the world’s most restrictive regime on the development of the technology."
-    publishedDateTime: 2023-12-09T07:54:00Z
-    webUrl: "https://www.ft.com/content/d5bec462-d948-4437-aab1-e6505031a303?shareType=nongift"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
 
 secured: "jW4Zsn705mpoVISzEmvST3yXhxRk9aLl1gpz5y3bJAxqMHYYchSv+o7oipQQpPKv/yUFWZO+WoeULfofYcKELdE9LjwFZ65jRfCl8lUnKEpqCQPhPd6cmOfbq5X5fVnXCgFTPNQsv6Acb6FJ9W9ckFN9u0cMZ33gOzBQXqOhrUV0TDc0RbmUeE4AJd/jCtUonB6COmNgdMz9Vm74ldyK/ldlVHs9fomWn3QrzEZQLjAZoVgevMeXJCdXf7IUWDNs6z9uUlbDC2TvzE15lGp7umEaQlscti+FxJQnXLz1GIinzf1EmM/P54CV06mZ+hQmOTd6mLi2ys4RUVzdpjOCd2/PHSSK/gRN1Ew9f4762knnkFb+Ko+4LxCAB/hdXmy0owkdYD3Ux44uRzme6R2i2VtpbfdcgO3iTm2M9oeYGBrUuWsK0/evixmMG+lq1urevc3HN1OSpdijJN0JZeEt3KLt46prAh0//ACdiY5Z6OTFVgwDaUv03Hu2TLRKDwtpPeq0ndUO0CZ7eQ7sFhUAaA==;XndqhHnNWHSwqJ5uim9lVw=="
 ---

@@ -108,6 +108,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Autopilot's new AI integrates into Microsoft Teams and Copilot"
+    excerpt: "AI-powered, format-agnostic document data extraction allows ... They were an early adopter into Microsoft Azure, building straight into the cloud as early as 2014, while competitors were still battling with on-prem solutions. They were also early adopters ..."
+    publishedDateTime: 2023-12-14T00:01:00Z
+    webUrl: "https://www.bizcommunity.com/Article/196/542/244643.html"
+    type: article
+    provider:
+      name: Bizcommunity
+      domain: bizcommunity.com
+    quality: 54
+    images:
+      - url: "https://biz-file.com/c/2312/722697-848x441.jpg?2"
+        width: 848
+        height: 441
+        isCached: true
   - title: "Microsoft’s Phi-2: a small AI model that competes with LLMs from Google, Meta"
     excerpt: "A compact AI model with outputs that rival those of LLMs from Meta and Google. That's the promise Microsoft is making with its newly announced Phi-2, a"
     publishedDateTime: 2023-12-13T11:31:00Z

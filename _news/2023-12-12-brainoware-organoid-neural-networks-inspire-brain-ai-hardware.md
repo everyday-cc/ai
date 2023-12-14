@@ -33,6 +33,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Scientists Combine Lab-Grown Brain Tissues With Computer, Test Speech Recognition"
+    excerpt: "This research paves the way for potential advancements in bio-computing, hinting at the prospect of more efficient systems compared to traditional computers."
+    publishedDateTime: 2023-12-14T06:48:00Z
+    webUrl: "https://www.ndtv.com/science/scientists-combine-lab-grown-brain-tissues-with-computer-test-speech-recognition-4671577"
+    ampWebUrl: "https://www.ndtv.com/science/scientists-combine-lab-grown-brain-tissues-with-computer-test-speech-recognition-4671577/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/science/scientists-combine-lab-grown-brain-tissues-with-computer-test-speech-recognition-4671577/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 69
+    images:
+      - url: "https://i.ndtvimg.com/i/2016-01/brain-generic_650x400_51453283827.jpg"
+        width: 650
+        height: 400
+        isCached: true
   - title: "A ‘brain organoid’ biochip displayed serious voice recognition and math skills"
     excerpt: "After connecting the organoid to a silicon chip, the new biocomputer (dubbed “Brainoware”) was quickly trained to accurately recognize speech patterns, as well as perform certain complex math predictions."
     publishedDateTime: 2023-12-12T19:35:00Z

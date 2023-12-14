@@ -9,7 +9,7 @@ ampWebUrl: "https://statetechmagazine.com/article/2023/12/tech-trends-microsoft-
 cdnAmpWebUrl: "https://statetechmagazine-com.cdn.ampproject.org/c/s/statetechmagazine.com/article/2023/12/tech-trends-microsoft-introduce-ai-many-government-workers?amp"
 type: article
 quality: 74
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -92,6 +92,20 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/c303384/2147483647/strip/true/crop/2000x1050+0+218/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd9%2Fc8%2F51d3b04f402cbe775fac74266e80%2Fmicrosoft-openai-75424.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Autopilot's new AI integrates into Microsoft Teams and Copilot"
+    excerpt: "AI-powered, format-agnostic document data extraction allows ... They were an early adopter into Microsoft Azure, building straight into the cloud as early as 2014, while competitors were still battling with on-prem solutions. They were also early adopters ..."
+    publishedDateTime: 2023-12-14T00:01:00Z
+    webUrl: "https://www.bizcommunity.com/Article/196/542/244643.html"
+    type: article
+    provider:
+      name: Bizcommunity
+      domain: bizcommunity.com
+    quality: 54
+    images:
+      - url: "https://biz-file.com/c/2312/722697-848x441.jpg?2"
+        width: 848
+        height: 441
         isCached: true
   - title: "Microsoft is training AI to accelerate regulatory process for nuclear projects"
     excerpt: "Microsoft is reportedly eyeing nuclear power for its AI operations. Microsoft stock is currently up close to 60% versus year start."

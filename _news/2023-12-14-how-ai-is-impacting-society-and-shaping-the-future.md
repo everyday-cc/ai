@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/kalinabryant/2023/12/13/how-ai-is-impac
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kalinabryant/2023/12/13/how-ai-is-impacting-society-and-shaping-the-future/amp/"
 type: article
 quality: 91
-heat: 201
+heat: 205
 published: true
 
 provider:

@@ -70,15 +70,6 @@ related:
         width: 1200
         height: 765
         isCached: true
-  - title: "EU agrees landmark rules on artificial intelligence"
-    excerpt: "EU lawmakers have agreed the terms for landmark legislation to regulate artificial intelligence, pushing ahead with enacting the world’s most restrictive regime on the development of the technology."
-    publishedDateTime: 2023-12-09T07:54:00Z
-    webUrl: "https://www.ft.com/content/d5bec462-d948-4437-aab1-e6505031a303?shareType=nongift"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
 
 secured: "uk/4bIao/DLI3Xr5tPn/euP15DYDGlF6D4gmplV5eWN5J1MMYnGcMgt83zlQXbsadx2Z3cmLFQwKfH2zA6FsaEioil+0pBm/O/VrAwmOSr5iZGoWOBmlK/5sx0kIlm1msIrco5j3PthnS0Bkl9K48gOv7rtMWsSGX1BM7Mk5RgndSXGuUz545X09pGmoL7cRVZ3C5z1+7VWnF6ivyXNOFPYc51StxDPyN/JltsIjdZChoykJa10Gqn0AMWOn096pZwpnmHuifDcrze0ZxuQoYXIQSKux1ig5/SI/f9gzTpV1K5Gdf4dID5DjhdpccZa/WS42zB3QdSv9QNgQNxSRn8a4xRoua+Ad6ZIRiaCc/f3prN2qqrVgIbNTk1+RJLFxkvU2O8zoodzJzuYH4PGBOZEjv25FxynQLnUbMmfqhybD7FrFpwPDPHaQyijdk24JhI5cSoZJkzM+oeggZRBabIX1g/oJgB3yeRzobDOHpfiACy/UK+teFCIAFRVDarvd8BZD2TE8kQQhsfIklgsgVg==;PALuoQYIGGnc8RoGzpE0KQ=="
 ---

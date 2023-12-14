@@ -41,6 +41,20 @@ related:
         width: 1510
         height: 849
         isCached: true
+  - title: "How AI Will Change Marketing Forever"
+    excerpt: "The unrelenting speed of organizational digital transformation and automation is nothing new to marketers, particularly when they use (AI) artificial intelligence to their advantage. Automation driven by AI not only speeds up a company’s marketing department but also improves its intelligence by using data significantly more effectively than human techniques."
+    publishedDateTime: 2023-12-14T08:45:00Z
+    webUrl: "https://techbullion.com/how-ai-will-change-marketing-forever/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 56
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/2-14.jpg"
+        width: 1000
+        height: 547
+        isCached: true
 
 secured: "FfX7vu0bMLk9vFQOGKrbpp7rtA3NMnYW1i7hoGqaz99H8hatEcnOPjpFGZexgHWGKaKVq2VKdsKkcamFvlVpgPHQ/0hjHX3pghLPllYfjXWXtx/EUo9NOkI/JbeM8cLpdhWGw6b6ArTdyEIYgC8YNBYFpOgdeAiVbv47FKZJF6QQfACcJLyHsVBVesPaoL/a2rMxpUZDlNuSsrUNB472B1wEGclgoDbmUehiW/vtfcKfTkx8McWpQJWePCY2Fr5ABDMpvackFbdDGNRyW7f64Cl+KbuoAUyV0wq224gFWeB1ZTPcGPw1vQGdCm5p4e5Fusb50cyvP+oTGoeF/SmtXUcJiXcEKPayAkCyUn0EcTc=;3B19d4HUgqCweVp1IzXhiQ=="
 ---

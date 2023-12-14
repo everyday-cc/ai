@@ -38,6 +38,15 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Iktos and Bayer Announce Collaboration to expand the use of Artificial Intelligence to Design New Sustainable Crop Protection Solutions"
+    excerpt: "Iktos and Bayer Announce Collaboration to expand the use of Artificial Intelligence to Design New Sustainable Crop Protection SolutionsParis,"
+    publishedDateTime: 2023-12-14T07:54:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/iktos-and-bayer-announce-collaboration-to-expand-the-use-of-artificial-intelligence-to-design-new-sustainable-crop-protection-solutions-1032899625"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 32
   - title: "Sony Semiconductor Solutions' Edge AI Sensing Platform AITRIOS to Expand Streamlined Solutions Through Partnerships with Retail and Logistics Players"
     excerpt: "Under the partnership with Microsoft since 2020, SSS and Microsoft continue to work closely, including SSS's ongoing participation in the Microsoft AI Co-Innovation Labs, which helps partners bring their solutions to life. In 2023 alone, SSS has become a contributor to Microsoft's newly opened San Francisco, U.S. and Kobe, Japan labs."
     publishedDateTime: 2023-12-11T18:31:00Z

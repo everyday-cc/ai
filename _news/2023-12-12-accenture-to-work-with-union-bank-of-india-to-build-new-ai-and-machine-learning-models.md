@@ -7,7 +7,7 @@ originalUrl: "https://www.indianweb2.com/2023/12/accenture-to-work-with-union-ba
 webUrl: "https://www.indianweb2.com/2023/12/accenture-to-work-with-union-bank-of.html"
 type: article
 quality: 63
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Opinion: India's AI Ethos - Leading The World Differently"
+    excerpt: "India's role in the global AI arms race is complex. Amidst the ethical dilemmas in OpenAI's boardroom, the rivalry between Google and Microsoft, and China's aggressive push, India stands at a crossroads."
+    publishedDateTime: 2023-12-14T06:29:00Z
+    webUrl: "https://www.ndtv.com/opinion/indias-ai-ethos-leading-the-world-differently-4671402"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 39
+    images:
+      - url: "https://c.ndtvimg.com/2021-12/g3gv78ps_artificial-intelligence-generic-pixabay_625x300_11_December_21.jpg"
+        width: 650
+        height: 400
+        isCached: true
   - title: "YTL and Nvidia to build AI data centre in Johor"
     excerpt: "YTL Power International revealed on Friday that it will collaborate with GPU chip maker Nvidia to build an AI data centre in Malaysia by the middle of next year."
     publishedDateTime: 2023-12-11T02:44:00Z

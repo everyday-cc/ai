@@ -34,6 +34,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Scientists Combine Lab-Grown Brain Tissues With Computer, Test Speech Recognition"
+    excerpt: "This research paves the way for potential advancements in bio-computing, hinting at the prospect of more efficient systems compared to traditional computers."
+    publishedDateTime: 2023-12-14T06:48:00Z
+    webUrl: "https://www.ndtv.com/science/scientists-combine-lab-grown-brain-tissues-with-computer-test-speech-recognition-4671577"
+    ampWebUrl: "https://www.ndtv.com/science/scientists-combine-lab-grown-brain-tissues-with-computer-test-speech-recognition-4671577/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/science/scientists-combine-lab-grown-brain-tissues-with-computer-test-speech-recognition-4671577/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 69
+    images:
+      - url: "https://i.ndtvimg.com/i/2016-01/brain-generic_650x400_51453283827.jpg"
+        width: 650
+        height: 400
+        isCached: true
   - title: "Brainoware: Organoid Neural Networks Inspire Brain-AI Hardware"
     excerpt: "Self-organizing brain organoids connected to microelectrode arrays (MEAs) can be changed in function to create neural networks."
     publishedDateTime: 2023-12-11T19:19:00Z

@@ -159,6 +159,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 37
+  - title: "How copyright law can improve artificial intelligence"
+    excerpt: "We acknowledge Aboriginal and Torres Strait Islander peoples as the First Australians and Traditional Custodians of the lands where we live, learn and work."
+    publishedDateTime: 2023-12-14T00:01:00Z
+    webUrl: "https://www.abc.net.au/listen/programs/drawingroom/how-copyright-law-can-improve-artificial-intelligence/103230824"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 37
+    images:
+      - url: "https://live-production.wcms.abc-cdn.net.au/6db0896bf5d27df57ed9b711c0860594?impolicy=wcms_crop_resize&cropH=1671&cropW=2966&xPos=25&yPos=0&width=862&height=485"
+        width: 862
+        height: 485
+        isCached: true
 
 secured: "lHo1nz5and1XhGqMgM0Z3pmV14qeLAqbr1QynlLhSt9GoVfMWl9XOYZVxMROnqhu6xymCIw5vSoUut4q4ZCOytLLMVHk3MAgcRuW+c1sVq/qvcGd+KCfG1bhc0pQDd0GouMtIn/Tyrwy7r0kuorgiNC9Gj8kFird5JJcEQrOgpPCg7KD9xNVLMxSEbon67X+JaurFUk3FY5iQIpAwm6Mb5OloHwnkLQUXTY+145WYhpOQy841dX0Q7x4gsyN7Cq5PKxBVQTLz1tKHMWBFrcuqZDFSO89WSO8F8wEwNhwpn4TxdkwGp+nXgxSpmI8tRbc0kg8xmhZATEd86/Vk2GohpjFZLG4rbzqy76sfhoWPNgNIMzXSylGGpW9U7f4SNc1MuDvK1YBGRt1ykfa3YaF1VVuHi0g08ejtwQZ129n9A5fYZmmkmRp38C6KjxqfEA7go9Eqm05+f8llc0Sc8nK3Z3nlBRF7NhyYboPICkQey3+5+6rdFUnNhUe1HvI2fZ7/U6Wa0GcEKMxyJlWCJR6sg==;oOHc9ZSJGa3+C1W0X+Yyqg=="
 ---

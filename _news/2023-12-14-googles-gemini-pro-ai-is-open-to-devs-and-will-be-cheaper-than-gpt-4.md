@@ -74,6 +74,20 @@ related:
         width: 1400
         height: 889
         isCached: true
+  - title: "What's new in AI this week? Google brings Gemini Pro to tons of new tools, and more"
+    excerpt: "Google was in the news a lot this week as it rolled Gemini Pro to even more tools, including one that makes building Gemini bots easier."
+    publishedDateTime: 2023-12-13T22:02:00Z
+    webUrl: "https://www.androidauthority.com/whats-new-in-ai-3394259/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 61
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/12/Gemini-Google-Logo.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Google Challenges Chat GPT with Gemini AI Model"
     excerpt: "If Bard is not enough to challenge ChatGPT in its dominance in the AI field, Google introduces Gemini, which claims to be its largest multimodal AI model to date. Made in collaboration with DeepMind and other Google teams, Gemini aims to seamlessly understand and process diverse types of information, including text, code, audio, image, and video."
     publishedDateTime: 2023-12-13T03:07:00Z

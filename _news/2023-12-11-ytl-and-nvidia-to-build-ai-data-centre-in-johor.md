@@ -33,6 +33,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Opinion: India's AI Ethos - Leading The World Differently"
+    excerpt: "India's role in the global AI arms race is complex. Amidst the ethical dilemmas in OpenAI's boardroom, the rivalry between Google and Microsoft, and China's aggressive push, India stands at a crossroads."
+    publishedDateTime: 2023-12-14T06:29:00Z
+    webUrl: "https://www.ndtv.com/opinion/indias-ai-ethos-leading-the-world-differently-4671402"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 39
+    images:
+      - url: "https://c.ndtvimg.com/2021-12/g3gv78ps_artificial-intelligence-generic-pixabay_625x300_11_December_21.jpg"
+        width: 650
+        height: 400
+        isCached: true
 
 secured: "6dtvmPlC+/pnahpG73+ORAAxsH5RiEC8hmvtNOYCU8cJxUALUzHOnXx4vN+JD7kcOztUiOltfyHMPVXnSmO5tetKSbpQEDHX9MoW9ScYp64MdlCFsBHwxDEriQ4roJRBdT9QVrhdUNJCEhmuYqyyp3UynAHJRwOSsFOJvgH8+qZ281pNj4le7CsjEoPMnBBbDuPPFm8H4dzc65huiu30fSUeq/txjIeHUsCBmkZ6CXr9SXI/JXwAhv9hzpCU87hYtHdEefaAxgwC8Fj9lglWRliUt699I0O1qfXb+sI/u36wlwb3CGp/h/JKeWDMYYcMAGZ/O2zBjeEsEsVlIanjELYKCVF1UL2O09KMlkm60jxSbNXWVDpplu4ALFS0e7b0SYRU1COxtkyl9+vjrnRbQPTsWWXR1KJllflIL1Vm0+iIceGE+2W0kxK/uhvmUUO1NqWY6b6voRowI95xDsnu1+JNYL5F0vNy4Xo4XkkEPaDqntnwdIlztqSKcRspSfZhBziNlE73F9dklSRm1Eebpg==;qdLb3J7crL90JKuOaqDI7A=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/meaghanjohnson/2023/12/13/portugals-pro
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/meaghanjohnson/2023/12/13/portugals-progressive-policies-fuel-fintech-growth/amp/"
 type: article
 quality: 74
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -110,6 +110,20 @@ related:
       - url: "https://fintechnews.sg/wp-content/uploads/2023/12/Finastra-Leaders-Predict-2024-Fintech-Trends-Amidst-Global-Challenges.jpg"
         width: 1024
         height: 567
+        isCached: true
+  - title: "The Legal Outlook For Fintech And Payments 2024."
+    excerpt: "The Legal Outlook For Fintech And Payments 2024. Legal News and Analysis - Asia Pacific, EU, Europe, Hong Kong, Singapore, United Kingdom, USA -"
+    publishedDateTime: 2023-12-14T08:31:00Z
+    webUrl: "https://conventuslaw.com/report/the-legal-outlook-for-fintech-and-payments-2024/"
+    type: article
+    provider:
+      name: Conventus Law
+      domain: conventuslaw.com
+    quality: 24
+    images:
+      - url: "https://conventuslaw.com/wp-content/uploads/2022/06/1_TKRMzr-NJwYdrYi3AnJPXA.jpeg"
+        width: 820
+        height: 610
         isCached: true
   - title: "Top Technology Trends in Banking and Fintech for 2024"
     excerpt: "While still in their early stages, blockchain and DLT have the potential to revolutionize various aspects of financial services, from cross-border payments and trade finance to digital identity and anti-money laundering compliance. 2024 will see further  experimentation and adoption of these technologies in various use cases"

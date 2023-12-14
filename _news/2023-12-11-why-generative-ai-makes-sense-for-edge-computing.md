@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/11/why-genera
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/11/why-generative-ai-makes-sense-for-edge-computing/amp/"
 type: article
 quality: 91
-heat: 181
+heat: 191
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       - url: "https://images.idgesg.net/images/idge/imported/imageapi/2021/12/28/10/10_untruthful_lies_liar_untrustworthy-100781303-large-100915050-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
+        isCached: true
+  - title: "AI: Amazon Web Services views generative artificial intelligence as marathon not sprint"
+    excerpt: "While rivals race to add AI capabilities to products, AWS focuses on making it easier and more secure for firms to integrate it into workflows"
+    publishedDateTime: 2023-12-14T05:00:00Z
+    webUrl: "https://www.irishtimes.com/technology/2023/12/14/ai-amazon-web-services-views-generative-artificial-intelligence-as-marathon-not-sprint/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 61
+    images:
+      - url: "https://www.irishtimes.com/resizer/L_dPeTzG3CDDJtQXWEdP3WHGxm8=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/5R3ECHYQPK7Y7BHORWC7C7R63I.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "LEARNING FROM AI: Genpact turns to GenAI to train staff"
     excerpt: "Genpact believes that generative AI (GenAI) represents a significant leap in technology. The company wants to make AI Guru a coach for specific roles and guide people on skills they should be learning. For example, a first-time manager who needs constant coaching can talk to an AI Guru for guidance. Time for learning to reboot"

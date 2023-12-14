@@ -20,6 +20,12 @@ topics:
   - AI
   - Microsoft AI
 
-secured: "06m1kiV7FUmaOvLiwMAWcYFSBTHtpzGoM8n/N3U8vilZWfnvZwMbgG6VzGLWR39euRAXi0BG92zdOcn6T0hKKzAwfcL8JvVmq5X+0TTInN8Ui+a/+By+aSpC74pMBOKtHpap0ae3b8lt43nenyPi37NW/V376vWQHJrn7BxF1B943T5b1FWo3WK7k3w5rGG18YONxtsjhrya3SVyoCZQh1rjWhjJU08qyCSMKfPCfBBSI1Ob/4ShSEGXRrgSORo4zn4hZPbEGSYPCVzj1dT1xVu3t3Fo+n6+HKB9cl7/52RvAokZc8akKg9khhNW5K9hApZ0SPftkPHRvmyLI9Npy/KXOfvj+rFlSS5X306ZQXY=;2YsJxTXa6nsiCEy4cWq0iQ=="
+images:
+  - url: "https://i.pcmag.com/imagery/articles/06fo5DvLm9s0QYEo0248s9c-1.fit_lim.size_1200x630.v1701876868.jpg"
+    width: 1120
+    height: 630
+    isCached: true
+
+secured: "qSR31tV52cL6AH1IuQbi3ApVF7bxz4NrudOTybdFwmNrkV0FQu5aKEsPE+PUQwL5+CfE7iwMN9/L8eIETnMk7TSoi27oRi5HLJ9UCW5pWvFnYzOoCyrwSp+pIUhH3gtK36iIRQRM6rv9qzZHaFqJoU2bqo7KeHEvpDvliAUTyITIXrobSvKy5pmuSUkiK0nsPuetfDyVnlyc0m68VnLoHxPYmNGodfVlHFOnVIk3Sl6agON4xrFo+BsGvc9F8WlGXfKVKshXvdW5S5X7ojGOgjhf1N1rVhu0XcYvCt0+uELIJdsYDzqgZEEI3jinmPDbpGMJCf4AOj/Kqwz+9xGyLybjWJl3HJ4lKTIkahnvqrQ=;Q/uWZ/fyZ/qI5rSaRK+4Zw=="
 ---
 

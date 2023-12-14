@@ -154,6 +154,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 37
+  - title: "How copyright law can improve artificial intelligence"
+    excerpt: "We acknowledge Aboriginal and Torres Strait Islander peoples as the First Australians and Traditional Custodians of the lands where we live, learn and work."
+    publishedDateTime: 2023-12-14T00:01:00Z
+    webUrl: "https://www.abc.net.au/listen/programs/drawingroom/how-copyright-law-can-improve-artificial-intelligence/103230824"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 37
+    images:
+      - url: "https://live-production.wcms.abc-cdn.net.au/6db0896bf5d27df57ed9b711c0860594?impolicy=wcms_crop_resize&cropH=1671&cropW=2966&xPos=25&yPos=0&width=862&height=485"
+        width: 862
+        height: 485
+        isCached: true
   - title: "Dell Upgrades Storage Offerings As Businesses Shift To AI-First Operating Model"
     excerpt: "As more businesses see the competitive need to shift data into AI-led processes, Dell’s AI-Ready Data Platform combines its infrastructure and performance upgrades to speed up how quickly customers can train large language models."
     publishedDateTime: 2023-12-11T21:05:00Z
