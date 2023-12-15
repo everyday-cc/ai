@@ -34,15 +34,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The race is on to create the iPhone of the AI era – Business Insider"
-    excerpt: "These cutting-edge gadgets won’t look like the thin glass rectangles we’ve grown used to during the smartphone era — they’ll take on bold new shapes as tech companies experiment with novel ways to interact with AI."
-    publishedDateTime: 2023-12-10T07:41:00Z
-    webUrl: "https://www.inferse.com/832605/the-race-is-on-to-create-the-iphone-of-the-ai-era-business-insider/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 19
 
 secured: "TmshXS23QTGkXimeNziZ/BZ+Lw3eeZVJc1AREdMK2MGiDVNl7wRhAwvHpHQYAWMoBdFl+6f1gBgA1VXeRgLi5l6RPsndmhPctYLjLb7vC3jCQ5PSyoMFnPAK4vQJT8PP5EwJ9wQn7M+LztBr6TZln2KHWb6TMbRuIkuILd1RtvVW/6H5Zn+tl1Zmao+Bj6F8EdLMJBWaApXHljnhFoS9SElsnjS487dH/tQByP+8alBQkv0iexxAPGM/HfTj4UXp4+7vurkKq/vKxpy8zGe4PuZWRiyR6fymAUUFK2ndJQGdk4uVP6zfZXpaDpKVrrYZTPgJ3xaH1y1AyotweYU5Kxdr8fCU+KHJAfL/0XRJJQvkZs4VzM4nJymB3mbE9jmXNED4sTBdWibGVbPgazdmYL1q6SDbGlCfrhLGHec9/DXa2foAiitEz1DP3+eCvh4W94CsjK56hXUFZ+cpimUeRHcS8xJ+VcF0uLjEL4oaGw75U/+wPXO46HolsnCMZEZ47uiLRNkYKYDcFv8H/wVQAA==;XDvkU0BwOcbvlCSv+74yPw=="
 ---

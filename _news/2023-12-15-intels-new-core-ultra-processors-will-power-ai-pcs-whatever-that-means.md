@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "Lenovo unveils new AI PC experiences powered by Intel Core Ultra processors"
+    excerpt: "Geek Stream ▾ - Lenovo unveils new AI PC experiences powered by Intel Core Ultra processors - - Absolute Geeks"
+    publishedDateTime: 2023-12-15T08:24:00Z
+    webUrl: "https://www.absolutegeeks.com/article/geek-stream/lenovo-unveils-new-ai-pc-experiences-powered-by-intel-core-ultra-processors/"
+    type: article
+    provider:
+      name: absolutegeeks.com
+      domain: absolutegeeks.com
+    quality: 37
+    images:
+      - url: "https://www.absolutegeeks.com/wp-content/uploads/2023/12/lenovo.jpg"
+        width: 940
+        height: 773
+        isCached: true
   - title: "Intel Core Ultra is finally here, and it powers over 230 of the 'world's first AI PCs'"
     excerpt: "Intel Core Ultra is finally here, ushering in the era of the mobile AI PC, with Intel claiming up to 11% better performance than the AMD Ryzen 7 7840U."
     publishedDateTime: 2023-12-14T15:01:00Z

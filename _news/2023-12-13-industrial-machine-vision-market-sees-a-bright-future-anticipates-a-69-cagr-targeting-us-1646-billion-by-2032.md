@@ -7,7 +7,7 @@ originalUrl: "https://www.fmiblog.com/2023/12/13/industrial-machine-vision-marke
 webUrl: "https://www.fmiblog.com/2023/12/13/industrial-machine-vision-market-sees-a-bright-future-anticipates-a-6-9-cagr-targeting-us-16-46-billion-by-2032/"
 type: article
 quality: 2
-heat: 2
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 998
     height: 623
     isCached: true
+
+related:
+  - title: "Artificial Intelligence in Packaging Industry Rising to 11.20% CAGR and Values US$ 6,015.6 Million by 2033: In Detail Research Analysis"
+    excerpt: "In the era of technological evolution, where innovation shapes the landscape of industries, the Artificial Intelligence (AI) and the Packaging Industry emerges as a transformative alliance. AI, with its cognitive prowess and data-driven insights,"
+    publishedDateTime: 2023-12-15T08:08:00Z
+    webUrl: "https://www.fmiblog.com/2023/12/15/artificial-intelligence-in-packaging-industry-rising-to-11-20-cagr-and-values-us-6015-6-million-by-2033-in-detail-research-analysis/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 20
+    images:
+      - url: "https://www.fmiblog.com/wp-content/uploads/2023/12/Artificial-Intelligence-in-Packaging.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "3233+KL3n1I3DAmUenzG00i3JhfHSQU4rBdk4+jjuNzFMUaTrpE1Nu9MpsmouS5eUeybd1VX9W00dPGi8INM6yuuyr+P3qqtcIGkkF3NiHAkFmiIidoZkmBpzdpXUtJM4BWHqR37nUxRo7aC9CvwBUFdZuhnd2PugVJb/Gy7qA8EJHFSA39dZjDqzH3iB/V7UxCZGGaTWqrfsIp8XUgsLJM/r3fjlRR12/xprxUs4UTVN6mA62l8WrVtuDFpF/ny1MJZudzlEo+0ZQ73kqBdOBiLef4a7PqMK0ac5VGJckIMO1lV8flQm5QFhl+GXrIlsaLqBCCDQIHYX5itHSJ3JoJ5nBfDnrCNbfvqGotmYNrk4mtR29spSFTwH5AP1NDPVt1duIt+iRuOzmiLbgUZT75mwOzwIGLA3NROO5GNAk08K2ulV+RuDbZmpSQrpQ64t4dVElh9K+q5bnj9z9H9PGdHqpWOseAyEsp3Up7zJUlIYCm02XKyXoiH7sYw/EyMK+rijFUu0ncj0dB7k9GmNQ==;1iyTSCzeSPijRJ2W5tcvDQ=="
 ---

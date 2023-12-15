@@ -66,6 +66,20 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Computers with Brains? Brain Tissue on a Chip Achieves Voice Recognition"
+    excerpt: "Reportedly, after a brief training period, Brainoware was able to distinguish between the voices of eight subjects with an accuracy rate of 78%. It was also able to successfully predict a Henon map (a mathematical construct) with greater accuracy than an artificial network."
+    publishedDateTime: 2023-12-15T08:00:00Z
+    webUrl: "https://i-hls.com/archives/122076"
+    type: article
+    provider:
+      name: AUS&R
+      domain: i-hls.com
+    quality: 55
+    images:
+      - url: "https://i-hls.com/wp-content/uploads/2017/09/brain-1845944_960_720.jpg"
+        width: 952
+        height: 720
+        isCached: true
   - title: "Scientists Made AI Out Of Living Human Brain Cells That Can Recognize Speech"
     excerpt: "Scientists have once again voluntarily moved us a step closer to meeting our new robot overlords thanks to some new advances in artificial i"
     publishedDateTime: 2023-12-13T13:47:00Z

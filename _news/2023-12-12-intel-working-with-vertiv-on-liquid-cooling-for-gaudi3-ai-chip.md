@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/6GxRKMYQNGGMb3Wj"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/6GxRKMYQNGGMb3Wj"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://cdn.ttweb.net/News/images/308532.jpg?preset=w800_q70"
         width: 800
         height: 450
+        isCached: true
+  - title: "Intel Launches New AI Chip For Big Enterprise Along With Core Ultra Chips For Windows Laptops And PCs"
+    excerpt: "Will AI chips eventually become more commonplace in regular computers? Intel has just released a new computer chip called the Gaudi3. The Gaudi3 is specifically designed with AI in mind, aiming to provide better performance and efficiency for artificial intelligence applications… pic.twitter.com/pf1A1ovEA7"
+    publishedDateTime: 2023-12-15T07:41:00Z
+    webUrl: "https://in.mashable.com/tech/65786/intel-launches-new-ai-chip-for-big-enterprise-along-with-core-ultra-chips-for-windows-laptops-and-pc"
+    type: article
+    provider:
+      name: in.mashable
+      domain: mashable.com
+    quality: 69
+    images:
+      - url: "https://sm.mashable.com/t/mashable_in/photo/default/slejven-djurakovic-0uxzoezyz4i-unsplash_6qrd.1200.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Intel and Vertiv partner to liquid cool AI processors"
     excerpt: "Liquid cooling has till now been pretty much confined to CPUs and GPUs, but Intel’s Gaudi3 AI accelerator can be liquid- or air-cooled cooled to a partnership with cooling specialist Vertiv."

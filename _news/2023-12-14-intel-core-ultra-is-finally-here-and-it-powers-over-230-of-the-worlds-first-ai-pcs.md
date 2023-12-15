@@ -34,6 +34,20 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 47
+  - title: "Lenovo unveils new AI PC experiences powered by Intel Core Ultra processors"
+    excerpt: "Geek Stream ▾ - Lenovo unveils new AI PC experiences powered by Intel Core Ultra processors - - Absolute Geeks"
+    publishedDateTime: 2023-12-15T08:24:00Z
+    webUrl: "https://www.absolutegeeks.com/article/geek-stream/lenovo-unveils-new-ai-pc-experiences-powered-by-intel-core-ultra-processors/"
+    type: article
+    provider:
+      name: absolutegeeks.com
+      domain: absolutegeeks.com
+    quality: 37
+    images:
+      - url: "https://www.absolutegeeks.com/wp-content/uploads/2023/12/lenovo.jpg"
+        width: 940
+        height: 773
+        isCached: true
 
 secured: "u9cK04XugW0X8DA0M6gbYVQ0tnkxIbDdCOTxr8pI4YS1Q57zUNhUS9GdEBgHiO+qV0fca2lylK+BTnjSBAP+1MelmottTCnXzkuRONikjmMdewVIYC1/99euMcNQMLpPewArXdHfzm1+oqDAP8OT8aNhOxX0oS+D8tHbktDaDgjHEuNIM4tCSkDgLloeI6YaMmR+8VYLFbEOmrSTLkWPAT3er0F/g+Z2u1POGKQzucKufEMiuqYW4NoDFs9YZ82r/Vdj5qa+oDLlFC2twWPJ5pIO7De3lXVqeZCPBP+j3IupFPmCBrF/aqnLgzA963UOJnwTfq+iwDiyq/DXAu0+6gvxWb0zCF39up5AAkXpuRZGZyGsAAg3t0xr6kqB3tBHapNTfTN9NuUr9NxOcw677neicJ2VRMNtMrBW14mei35vaOEBOQf7ckU2KLbuzc0CDr3l80ZR8A8A3lgpPGVhXkCATxOZXYjelosuFPyGs9n8DV2+bTq3VlK5U7+gmQ+KrGaff1opzffKvbpjtjz7DA==;9V71ghBkZOte1X1a5oYTDg=="
 ---

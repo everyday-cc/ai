@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "A Bold Commitment from AI-Powered E-commerce Search Startup: Not Meeting Goals Means We Pay You"
+    excerpt: "The Lithuanian startup is taking its first steps in the market. Nonetheless, its services are already being employed by well-known local companies such as Sanitex, Audimas, and Pegasas. And those are just some of LupaSearch's existing clients."
+    publishedDateTime: 2023-12-15T07:13:00Z
+    webUrl: "https://www.lrytas.lt/english/business-tribune/2023/12/15/news/a-bold-commitment-from-ai-powered-e-commerce-search-startup-not-meeting-goals-means-we-pay-you-29603616"
+    type: article
+    provider:
+      name: lrytas
+      domain: lrytas.lt
+    quality: 25
+    images:
+      - url: "https://media.lrytas.lt/images/2023/12/15/071201102-1b563ffc-558f-41c1-817d-243c7d799290.jpg"
+        width: 1080
+        height: 720
+        isCached: true
   - title: "Commentary: Healthcare makes its case with innovation, valuation"
     excerpt: "The healthcare sector was a market laggard in 2023, but attractive valuations and promising drug development could lead to a rebound in coming quarters."
     publishedDateTime: 2023-12-13T13:00:00Z

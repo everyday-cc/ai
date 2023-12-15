@@ -53,6 +53,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Samsung Keyboard could get a handy AI feature in One UI 6.1"
+    excerpt: "TechDroider on X reports that the Samsung Keyboard on One UI 6.1 will offer tone functionality. This will allow you to change the tone of highlighted text passages. A screenshot suggests that you can select a variety of desired tones, including professional, casual, social post, polite, and witty."
+    publishedDateTime: 2023-12-15T07:42:00Z
+    webUrl: "https://www.androidauthority.com/samsung-keyboard-tone-translate-3394842/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 67
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/02/samsung-galaxy-s23-home-screen-hero.jpg"
+        width: 1920
+        height: 1081
+        isCached: true
   - title: "Samsung’s next Galaxy Buds might offer real-time translation using AI – wunderbar!"
     excerpt: "Somewhat surprisingly, Samsung didn’t unveil an update to its flagship Galaxy Buds this year (or for that matter the hotly anticipated Samsung Galaxy Buds 3 ), with a November 16 leak claiming we'll get the Samsung Galaxy Buds 3 Pro in 2024 instead."
     publishedDateTime: 2023-12-14T12:15:00Z

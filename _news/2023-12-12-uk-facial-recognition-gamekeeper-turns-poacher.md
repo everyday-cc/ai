@@ -24,19 +24,6 @@ images:
     height: 465
     isCached: true
 
-related:
-  - title: "Ex-commissioner for facial recognition tech joins Facewatch firm he approved"
-    excerpt: "Critics say Fraser Samson hiring is ‘outrageous conflict of interest’ as monitoring technology is rolled out in UK high streets"
-    publishedDateTime: 2023-12-10T08:00:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/dec/10/ex-commissioner-for-facial-recognition-tech-joins-facewatch-firm-he-approved"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/dec/10/ex-commissioner-for-facial-recognition-tech-joins-facewatch-firm-he-approved"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/dec/10/ex-commissioner-for-facial-recognition-tech-joins-facewatch-firm-he-approved"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 36
-
 secured: "KJ1SOehBJFX+47NDG5A7KIfjnUbEOe6LbHqxUXpdSEsz0QDwT6x9X/yo7N9VHiA3o7itSbt7tf5+a43GftQrGcH//QkUhePaw6wVfB2xcQic9xB8NoxM3dYPAmmdyufvd5DjBueE+NIz9OdGjGWAFfDzFFtgMu9eaGQT+goROj6Msmy8kotGuWqs9vLlxix1hdcCK7OstSPLWCft65Z8hMVu0nE+UyoPtqDeghLOS51JAoGSRIaqS8YXiPbRooyCt8nhIlmdENMryKt7dEdVC85MevgNCK/j4tZzk/0naCy5MqcKNIgPG7Fs/wZGpYoLIFTphJxBYP5efA0U9/EJ1QVH2fTYcsR+ArI8dTD9M+8VEs6JKRfjrT7MMYg6uJM7FGq4jKwZ0o7VqSeswazz0BsxzyGbWbYXqmL8YkUg+NKHM8vOrEuw2rGpkdohEB0p1GBM2QCgnQCmHNSDs1FJpf5qTukQXJkTtjpBoj48rBmwLdcWAvBW+HWqnJKgp62cu9vZkdiw1L1S+WFKPi7bFQ==;98RhPhZ3GPS7BJKrZIZ2Fg=="
 ---
 

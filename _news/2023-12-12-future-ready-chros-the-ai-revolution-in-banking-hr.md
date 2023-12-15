@@ -7,7 +7,7 @@ originalUrl: "https://www.ft.com/partnercontent/workday/future-ready-chros-the-a
 webUrl: "https://www.ft.com/partnercontent/workday/future-ready-chros-the-ai-revolution-in-banking-hr.html"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -50,6 +50,15 @@ related:
       name: electronicsforu
       domain: electronicsforu.com
     quality: 34
+  - title: "Artificial intelligence is revolutionizing medical research"
+    excerpt: "Artificial Intelligence (AI ... Once AI can de-code how speech is generated within the neural network, Greger envisions that patients will be able to mentally “speak” and have those thoughts translated, again by AI, into actual language."
+    publishedDateTime: 2023-12-15T00:00:00Z
+    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=64265.php"
+    type: article
+    provider:
+      name: Nanowerk
+      domain: nanowerk.com
+    quality: 19
 
 secured: "9SMAsBnlsog4EyikWLcNkFYmoNkMHk+uUUZNpzyJ9jbRZiSnd9QQSPTFSh7xNuBCWa2N9wUc5YvsYBZPPEjclg9kHsEEX9jl8RLphhsg4ScbyF8mtznRl9kHKOwAfxOkP4nAIr7m8nlr6a4KFPzJELKbZuZsCIFKntue0Cx0kQ7tZ/Zbx/fU/QjSnXjOrowjwvgut8kouKTofWJGl+vqJ/Y+D2o+mD3noRJ5zdZGZfdCyS8Y2vX1EFLYvRcWLf7RexkXwrJuxXmcw+I31/0OJtCinFc5qkOb1Wq42jtHo4Gx9QivhFtPPYI3cuf8t3BBkTs3ZMI2x5EQLNdsFe5nCnrq4PMksxHhjRIlrh8TLkk=;RBJ6EYlw9vVLv4a6Fe1lcg=="
 ---

@@ -57,6 +57,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Samsung Keyboard could get a handy AI feature in One UI 6.1"
+    excerpt: "TechDroider on X reports that the Samsung Keyboard on One UI 6.1 will offer tone functionality. This will allow you to change the tone of highlighted text passages. A screenshot suggests that you can select a variety of desired tones, including professional, casual, social post, polite, and witty."
+    publishedDateTime: 2023-12-15T07:42:00Z
+    webUrl: "https://www.androidauthority.com/samsung-keyboard-tone-translate-3394842/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 67
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/02/samsung-galaxy-s23-home-screen-hero.jpg"
+        width: 1920
+        height: 1081
+        isCached: true
   - title: "Samsung Introduces New PC Series 'Galaxy Book4' Powered By AI"
     excerpt: "Samsung on Friday introduced its new PC series Galaxy Book4 powered by artificial intelligence (AI), which includes -- Boo"
     publishedDateTime: 2023-12-15T06:50:00Z

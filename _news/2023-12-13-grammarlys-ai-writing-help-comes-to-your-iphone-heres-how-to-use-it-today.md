@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/grammarlys-ai-writing-help-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/grammarlys-ai-writing-help-comes-to-your-iphone-heres-how-to-use-it-today/"
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -39,15 +39,6 @@ related:
       name: Mashable
       domain: mashable.com
     quality: 46
-  - title: "The race is on to create the iPhone of the AI era – Business Insider"
-    excerpt: "These cutting-edge gadgets won’t look like the thin glass rectangles we’ve grown used to during the smartphone era — they’ll take on bold new shapes as tech companies experiment with novel ways to interact with AI."
-    publishedDateTime: 2023-12-10T07:41:00Z
-    webUrl: "https://www.inferse.com/832605/the-race-is-on-to-create-the-iphone-of-the-ai-era-business-insider/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 19
 
 secured: "kI8FE0amCvvfQD7U0md7xy5IxOPh9EZJlrfi4YGrkMuVwWgicbM+ftbd/KBLGwj/gbHnDJ/Oic2XMJitgPRRUSMpJpA47YLP3qFyN7fDOVPXXD63X2yGLKtw/oYY6i0KpIEI9f8/PS61gXlBff9RwcbkhKIvdQzstLx/EtA6qXmE3QTEk7k63MyQgg9Z3WA15hVP44UzPEB6vu7vCof6U4+Z/Ax+3ZRV4XfOHntMoprtUuePRTQPKi3Z64K3mIoeRWYPgxm8MbA9CaJJaiaPV9APb4wzD7P3pFF6AQOxMQrdT1PnbXyTEdddJCzfHVy08rNNNnzZ7iq7Z9UibgYEcR7AFsSjw0prg/DOh2hNkC0=;ktopfrAj0CaCI7IbnCMizA=="
 ---

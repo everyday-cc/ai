@@ -3,12 +3,9 @@ category: news
 title: "Combining artificial intelligence and spectral imaging accurately identifies skin cancer"
 excerpt: "In a groundbreaking doctoral study, artificial intelligence (AI) has proven its ability to accurately distinguish malignant skin lesions from benign ones using hyperspectral imaging (HSI). Prior to AI analysis,"
 publishedDateTime: 2023-12-09T10:27:00Z
-originalUrl: "https://www.helsinkitimes.fi/themes/themes/science-and-technology/24569-combining-artificial-intelligence-and-spectral-imaging-accurately-identifies-skin-cancer.html?tmpl=component&layout=default&page="
-webUrl: "https://www.helsinkitimes.fi/themes/themes/science-and-technology/24569-combining-artificial-intelligence-and-spectral-imaging-accurately-identifies-skin-cancer.html?tmpl=component&layout=default&page="
+originalUrl: "https://www.helsinkitimes.fi/themes/themes/science-and-technology/24569-combining-artificial-intelligence-and-spectral-imaging-accurately-identifies-skin-cancer.html"
+webUrl: "https://www.helsinkitimes.fi/themes/themes/science-and-technology/24569-combining-artificial-intelligence-and-spectral-imaging-accurately-identifies-skin-cancer.html"
 type: article
-quality: 10
-heat: 10
-published: false
 
 provider:
   name: Helsinki Times
@@ -18,6 +15,6 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "u6mFJGd+E/gi3Ukcn3TMKI8nMYhyxHnwy3h8ig5sfcug+HrYoKtRuxjHQ7zj1xbwkqP+lRoiUxGK5ySUrAYw+oqEo6V1Fp7/eslTITUh4u8KiAV75BilgaGMvrsBmHnGPIwSzoyyEp67RO4plY05V8xrkRFiCeB8khLOQ1G+HC2ajO0T1TKFd9sud+Aq2MTA1dNtpOQJ/wwDuxRV1UZaazAAB8ZGrT8hSq+GPj0eBqUI5ebMS7EjFXTm5qYLoUne7nHH3XIpCbOEfLfi3L0Idk6Ix/O3jn1/4f57CftK/802yibIUKJt47S3/7BLI86jUMHFBV8Q5FHUk9hFoRovoHMnKInRXEgYvJRyFp/TTSjHZi9Ff9lcGyOUTu6dCdTGTz+fqwp4Aun2lm3Icjnfb+tt3uHLpVxuKxtvetgxwlQZvG+AVKz16c6LREfRuJKfoQUDs67rKkr8aXgY7Vw+dvX/6aY8Y9kLjbdrBSoxt9WpIZWaOYqSdbETwTH8DfO2nG2vUj4a4puREO2sO1irKg==;K7qvKqYGJShiM8v1VrclAg=="
+secured: "yTMeimgZgMCELe7u1YuWradS1Q2Wgb0rX870JDHv78PoytZ9tSZHB9VspdiKzdWKpJ2SIqmzLFY2VbQ/FCPCQIu2ALnkXAGTmTDKF1b06pdcp5CO7qiZffAhBjJHk5Wzbl+IqwEF+stKeZ0v42gnsyXngqHMUxeYLAFxbAQCXGNEQ4zF/FAMQujE3lkS07ke9dku1mgckhs3yGivf/TlltixfvVQz+JjLQyio/11HLwlptG6tCd6iaNrIvC8Kp7Vaqbn2pwLW0CqlxhUsKQ6n2I+JcJYvpzBUvsWMpd5QOQ+0JfCUHZ4aKqyu1yPLmenyThjfi9JyBtcC9Ou8HYnB6gNtDuP6iBnRM7XROhkYrDGYOjB1buQc0ZFN1uMxgVIJ6kLze6x37s13enUmOqGNuuoz5YZuUZ3zWPxq8xWd/hUWL3HM0Am66FujtKIpa09ZEEbRuuNaCcf21QeeZyD2OAfYCDeCmWha86lVDnG9MKTTXKUzR/lgDdPNx2rhY2FqocMXf6HwH7H8IaAjrvHCw==;KOoUMHNhBljxbSQ+gzUsGQ=="
 ---
 

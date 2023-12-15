@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-15-indian-ai-startup-sarvam-ai-open-sources-first-hindi-ai-model.md",
+      "title": "Indian AI startup Sarvam AI open-sources first Hindi AI model",
+      "excerpt": "Indian AI startup Sarvam AI has released its first large language model a Hindi AI model and open-sourced it days after closing a funding for $41 million.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/sci-tech/technology/indian-ai-startup-sarvam-ai-open-sources-first-hindi-ai-model/article67641090.ece",
+      "originalUrl": "https://www.thehindu.com/sci-tech/technology/indian-ai-startup-sarvam-ai-open-sources-first-hindi-ai-model/article67641090.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://th-i.thgim.com/public/incoming/4irye8/article67641087.ece/alternates/FREE_1200/2023-12-14T140120Z_686204124_RC2Y40AN81FM_RTRMADP_3_HEALTH-AI-WHITE-HOUSE.JPG",
+          "width": 1200,
+          "height": 814,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/indian-ai-startup-sarvam-ai-open-sources-first-hindi-ai-model/article67641090.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/indian-ai-startup-sarvam-ai-open-sources-first-hindi-ai-model/article67641090.ece/amp/",
+      "publishedDateTime": "2023-12-15T08:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-15-isro-leveraging-artificial-intelligence-machine-learning-in-space-and-agriculture-sector.md",
       "title": "ISRO Leveraging Artificial Intelligence & Machine Learning in Space and Agriculture Sector",
       "excerpt": "ISRO continues to push the boundaries of space exploration, the integration of AI and ML stands as a testament to India's commitment to innovation and technological excellence in every sector.",
@@ -235,7 +278,7 @@
       "originalUrl": "https://indianexpress.com/article/cities/ahmedabad/ai-machine-learning-to-lead-the-way-to-achieve-net-zero-experts-9068876/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1156,49 +1199,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-robotics-in-the-engineroom.md",
-      "title": "Robotics in the EngineRoom",
-      "excerpt": "When talk turns to autonomous ships, a first question always centers on how routine and emergency repair and maintenance will be",
-      "sourceUrl": null,
-      "webUrl": "https://www.oedigital.com/news/510133-robotics-in-the-engineroom",
-      "originalUrl": "https://www.oedigital.com/news/510133-robotics-in-the-engineroom",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.oedigital.com/images/maritime/w537h300pad/image-courtesy-146221.jpg",
-          "width": 537,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.oedigital.com/amp/news/510133-robotics-in-the-engineroom",
-      "cdnAmpWebUrl": "https://www-oedigital-com.cdn.ampproject.org/c/s/www.oedigital.com/amp/news/510133-robotics-in-the-engineroom",
-      "publishedDateTime": "2023-12-14T10:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "oedigital.com",
-        "domain": "oedigital.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

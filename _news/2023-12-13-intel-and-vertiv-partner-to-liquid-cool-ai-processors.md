@@ -75,6 +75,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Intel Launches New AI Chip For Big Enterprise Along With Core Ultra Chips For Windows Laptops And PCs"
+    excerpt: "Will AI chips eventually become more commonplace in regular computers? Intel has just released a new computer chip called the Gaudi3. The Gaudi3 is specifically designed with AI in mind, aiming to provide better performance and efficiency for artificial intelligence applications… pic.twitter.com/pf1A1ovEA7"
+    publishedDateTime: 2023-12-15T07:41:00Z
+    webUrl: "https://in.mashable.com/tech/65786/intel-launches-new-ai-chip-for-big-enterprise-along-with-core-ultra-chips-for-windows-laptops-and-pc"
+    type: article
+    provider:
+      name: in.mashable
+      domain: mashable.com
+    quality: 69
+    images:
+      - url: "https://sm.mashable.com/t/mashable_in/photo/default/slejven-djurakovic-0uxzoezyz4i-unsplash_6qrd.1200.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Intel Announces AI-Oriented 5th Gen Xeon, Gives Gaudi3 GPU Accelerator Sneak Peak"
     excerpt: "Gearing up for what it intends to be a multi-horse race in the exploding AI chip sector, Intel today announced a next-generation Xeon enterprise and data center CPU built with AI inferencing in mind,"
     publishedDateTime: 2023-12-14T15:10:00Z

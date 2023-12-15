@@ -51,6 +51,20 @@ related:
       name: Singularity Hub
       domain: singularityhub.com
     quality: 65
+  - title: "Computers with Brains? Brain Tissue on a Chip Achieves Voice Recognition"
+    excerpt: "Reportedly, after a brief training period, Brainoware was able to distinguish between the voices of eight subjects with an accuracy rate of 78%. It was also able to successfully predict a Henon map (a mathematical construct) with greater accuracy than an artificial network."
+    publishedDateTime: 2023-12-15T08:00:00Z
+    webUrl: "https://i-hls.com/archives/122076"
+    type: article
+    provider:
+      name: AUS&R
+      domain: i-hls.com
+    quality: 55
+    images:
+      - url: "https://i-hls.com/wp-content/uploads/2017/09/brain-1845944_960_720.jpg"
+        width: 952
+        height: 720
+        isCached: true
   - title: "Artificial intelligence made from ‘clumps of human brain cells’ taught to recognize speech in world-first experiment"
     excerpt: "CLUMPS of human brain cells connected to an electronic chip have successfully completed simple tasks including speech recognition. That’s according to researchers at Indiana University"
     publishedDateTime: 2023-12-12T12:22:00Z
