@@ -2,6 +2,83 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-12-05-alto-hits-a-high-note-with-ai-driven-depression-therapy.md",
+      "title": "Alto hits a high note with AI-driven depression therapy",
+      "excerpt": "Alto has previously reported encouraging results with its biomarker-based ‘precision psychiatry’ approach with ALTO-100, a drug targeting brain-derived neurotrophic factor (BDNF), in two trials involving patients with post-traumatic stress disorder as well as MDD.",
+      "sourceUrl": null,
+      "webUrl": "https://pharmaphorum.com/news/alto-hits-high-note-ai-driven-depression-therapy",
+      "originalUrl": "https://pharmaphorum.com/news/alto-hits-high-note-ai-driven-depression-therapy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-05T09:48:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pharmaphorum",
+        "domain": "pharmaphorum.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-05-deep-learning-and-machine-learning-prognostic-models-for-chronic-obstructive-pulmonary-disease.md",
+      "title": "Deep learning and machine learning prognostic models for chronic obstructive pulmonary disease",
+      "excerpt": "The quality and performance of deep learning and machine learning models for long-term chronic obstructive pulmonary disease.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20231205/Deep-learning-and-machine-learning-prognostic-models-for-chronic-obstructive-pulmonary-disease.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20231205/Deep-learning-and-machine-learning-prognostic-models-for-chronic-obstructive-pulmonary-disease.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_766219_17017687329829560.jpg",
+          "width": 2000,
+          "height": 1076,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-05T09:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-05-best-speech-to-text-app-of-2023.md",
       "title": "Best speech-to-text app of 2023",
       "excerpt": "So essentially you get the same excellent speech recognition as seen on the desktop software – the only meaningful difference we noticed was a very slight delay in our spoken words appearing on ...",
@@ -979,83 +1056,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-aws-reinvent-wrap-up-15-huge-products-and-partner-launches.md",
-      "title": "AWS re:Invent Wrap-up: 15 Huge Products And Partner Launches",
-      "excerpt": "Invent 2023 new cloud product launches include chips, Amazon generative AI, partner tools, channel incentives and AWS Marketplace offers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/news/cloud/aws-re-invent-wrap-up-15-huge-products-and-partner-launches",
-      "originalUrl": "https://www.crn.com/news/cloud/aws-re-invent-wrap-up-15-huge-products-and-partner-launches",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T18:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-small-but-mighty-small-language-models-breakthroughs-in-the-era-of-dominant-large-language-models.md",
-      "title": "Small But Mighty: Small Language Models Breakthroughs in the Era of Dominant Large Language Models",
-      "excerpt": "Explore the revolution of Small Language Models, efficient, cost-effective AI alternatives challenging dominant Large Language Models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.unite.ai/small-but-mighty-small-language-models-breakthroughs-in-the-era-of-dominant-large-language-models/",
-      "originalUrl": "https://www.unite.ai/small-but-mighty-small-language-models-breakthroughs-in-the-era-of-dominant-large-language-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.unite.ai/wp-content/uploads/2023/12/SLMs-1000x600.png",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T18:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "unite",
-        "domain": "unite.ai",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

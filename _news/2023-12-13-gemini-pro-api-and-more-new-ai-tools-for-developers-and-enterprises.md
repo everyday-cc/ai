@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/google-gemini-pro-imagen-duet-ai-u
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-gemini-pro-imagen-duet-ai-update/amp/"
 type: article
 quality: 109
-heat: 219
+heat: 229
 published: true
 
 provider:
@@ -141,6 +141,20 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FoFYB9msll9I%2F0.jpg"
         width: 480
         height: 360
+        isCached: true
+  - title: "Google’s fake Gemini AI features might become a reality on the Pixel 9"
+    excerpt: "While we have no timeframe for when these advanced AI features might arrive, a pair of reports signals it might happen as soon as next year. The Pixel 9 might feature a brand new Pixie AI assistant that could be exclusive to Pixel phones. Additionally, Google is looking at using AI tech on smart glasses, just like Meta."
+    publishedDateTime: 2023-12-15T17:23:00Z
+    webUrl: "https://bgr.com/tech/googles-fake-gemini-ai-features-might-become-a-reality-on-the-pixel-9/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 39
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/06/Google-Gemini.jpg?quality=82&strip=all"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Google opens Gemini Pro LLM to enterprise developers"
     excerpt: "Users can access Gemini Pro and Pro Vision through Vertex AI for free until the tool reaches general availability early next year, the company said."

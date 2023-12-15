@@ -93,6 +93,20 @@ related:
         width: 976
         height: 549
         isCached: true
+  - title: "GM Laying Off Workers at 2 Plants, Self-Driving Subsidiary"
+    excerpt: "General Motors on Dec. 14 announced it will lay off about 2,200 employees across its Cruise self-driving vehicle subsidiary and two Michigan plants where vehicle production is ending."
+    publishedDateTime: 2023-12-15T17:26:00Z
+    webUrl: "https://www.autobodynews.com/gm-laying-off-workers-at-2-plants-self-driving-subsidiary.html"
+    type: article
+    provider:
+      name: autobodynews
+      domain: autobodynews.com
+    quality: 24
+    images:
+      - url: "https://www.autobodynews.com/images/Sept_2023/Orion_Assembly_full.jpg#joomlaImage://local-images/Sept_2023/Orion_Assembly_full.jpg?width=&height="
+        width: 1200
+        height: 800
+        isCached: true
   - title: "GM's self-driving car company Cruise lays off 900 workers - nearly 25 percent of its workforce - ahead of Christmas after a series of safety mishaps and having its permit ..."
     excerpt: "The new footage from the vehicle showed that the car continued driving after the initial stop and attempted a 'pullover maneuver,' traveling about 20 feet while the pedestrian was still trapped underneath. In September, two Cruise driverless taxis ..."
     publishedDateTime: 2023-12-14T21:48:00Z

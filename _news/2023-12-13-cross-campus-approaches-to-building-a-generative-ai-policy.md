@@ -35,22 +35,6 @@ related:
         width: 1351
         height: 900
         isCached: true
-  - title: "Generative AI is off to a rough start"
-    excerpt: "As the big vendors overstate the capabilities of their generative AI projects, maybe it’s time to use open source to keep them honest."
-    publishedDateTime: 2023-12-11T10:00:00Z
-    webUrl: "https://www.infoworld.com/article/3711414/generative-ai-is-off-to-a-rough-start.html"
-    ampWebUrl: "https://www.infoworld.com/article/3711414/generative-ai-is-off-to-a-rough-start.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711414/generative-ai-is-off-to-a-rough-start.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 87
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2021/12/28/10/10_untruthful_lies_liar_untrustworthy-100781303-large-100915050-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "These AI-generated news anchors are freaking me out"
     excerpt: "In other words, human-looking AI avatars now seem well on their way to climbing out of the uncanny valley, at least when it comes to news anchors who sit at a desk or stand still in front of a green screen. Channel 1 investor Adam Mosam told Deadline it \"has gotten to a place where it’s comfortable to watch,\" and I have to say I agree."
     publishedDateTime: 2023-12-15T15:57:00Z
@@ -64,6 +48,20 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/12/channel1-vs-max-headroom-760x380.jpg"
         width: 760
         height: 380
+        isCached: true
+  - title: "16 Innovative Ways Agencies Can Leverage Generative AI In 2024"
+    excerpt: "Generative AI tools are being leveraged by agency professionals and in-house teams around the world as they seek ways to better understand and reach target audiences."
+    publishedDateTime: 2023-12-15T17:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/12/15/16-innovative-ways-agencies-can-leverage-generative-ai-in-2024/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/655e5665f16e596330a94c9e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
         isCached: true
   - title: "AI: Amazon Web Services views generative artificial intelligence as marathon not sprint"
     excerpt: "While rivals race to add AI capabilities to products, AWS focuses on making it easier and more secure for firms to integrate it into workflows"
@@ -152,20 +150,6 @@ related:
       - url: "https://www.mmm-online.com/wp-content/uploads/sites/2/2022/05/GettyImages-1252150184.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Pope, once a victim of AI-generated imagery, calls for treaty to regulate artificial intelligence"
-    excerpt: "Earlier this year, an AI-generated image of him wearing a luxury white puffer jacket went viral, showing just how quickly realistic deepfake imagery can spread online."
-    publishedDateTime: 2023-12-14T22:47:00Z
-    webUrl: "https://www.bostonglobe.com/2023/12/14/world/pope-once-victim-ai-generated-imagery-calls-treaty-regulate-artificial-intelligence/"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 39
-    images:
-      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/jawMyvYAlTL64xtfAzfzhMaYsuI=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/O6U5RLNTEBGZCS2NZYU3LYDSWM.JPEG"
-        width: 506
-        height: 318
         isCached: true
   - title: "Turn Generative AI from an Existential Threat into a Competitive Advantage"
     excerpt: "By making it vastly easier and cheaper to improve or create products and services that previously required significant human labor and creativity, generative AI has the potential to disrupt or even commoditize many businesses."

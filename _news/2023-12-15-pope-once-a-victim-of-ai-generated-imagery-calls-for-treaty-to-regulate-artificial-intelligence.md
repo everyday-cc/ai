@@ -24,22 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "Why Generative AI Makes Sense For Edge Computing"
-    excerpt: "Many industry analysts and pundits now predict that generative AI will be the next significant AI application to make an impact at the edge."
-    publishedDateTime: 2023-12-11T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/11/why-generative-ai-makes-sense-for-edge-computing/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/11/why-generative-ai-makes-sense-for-edge-computing/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/11/why-generative-ai-makes-sense-for-edge-computing/amp/"
+  - title: "Five open-source AI tools to know"
+    excerpt: "While open-source AI offers enticing possibilities, its free accessibility poses risks that organizations must navigate carefully.\nThe post Five open-source AI tools to know appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-12-15T17:24:27Z
+    webUrl: "https://www.ibm.com/blog/five-open-source-ai-tools-to-know/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/648334bbb7a645bee5fbe46d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1351
-        height: 900
-        isCached: true
+      name: IBM
+      domain: ibm.com
+    quality: 99
   - title: "Generative AI is off to a rough start"
     excerpt: "As the big vendors overstate the capabilities of their generative AI projects, maybe it’s time to use open source to keep them honest."
     publishedDateTime: 2023-12-11T10:00:00Z
@@ -56,168 +49,144 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "These AI-generated news anchors are freaking me out"
-    excerpt: "In other words, human-looking AI avatars now seem well on their way to climbing out of the uncanny valley, at least when it comes to news anchors who sit at a desk or stand still in front of a green screen. Channel 1 investor Adam Mosam told Deadline it \"has gotten to a place where it’s comfortable to watch,\" and I have to say I agree."
-    publishedDateTime: 2023-12-15T15:57:00Z
-    webUrl: "https://arstechnica.com/ai/2023/12/these-ai-generated-news-anchors-are-freaking-me-out/"
+  - title: "Relevance AI’s low-code platform enables businesses to build AI teams"
+    excerpt: "However, only businesses with large engineering teams can build their own AI workforces. An Australia-based startup, Relevance AI, wants to help companies of all sizes build custom AI agents for any use case or function to maximize productivity with its ..."
+    publishedDateTime: 2023-12-11T22:31:00Z
+    webUrl: "https://techcrunch.com/2023/12/11/relevance-ais-low-code-platform-enables-businesses-to-build-ai-teams/"
+    ampWebUrl: "https://techcrunch.com/2023/12/11/relevance-ais-low-code-platform-enables-businesses-to-build-ai-teams/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/11/relevance-ais-low-code-platform-enables-businesses-to-build-ai-teams/amp/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 67
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/12/channel1-vs-max-headroom-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
-  - title: "AI: Amazon Web Services views generative artificial intelligence as marathon not sprint"
-    excerpt: "While rivals race to add AI capabilities to products, AWS focuses on making it easier and more secure for firms to integrate it into workflows"
-    publishedDateTime: 2023-12-14T05:00:00Z
-    webUrl: "https://www.irishtimes.com/technology/2023/12/14/ai-amazon-web-services-views-generative-artificial-intelligence-as-marathon-not-sprint/"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 61
-    images:
-      - url: "https://www.irishtimes.com/resizer/L_dPeTzG3CDDJtQXWEdP3WHGxm8=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/5R3ECHYQPK7Y7BHORWC7C7R63I.jpg"
+      - url: "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1188605237.jpg?resize=1200,800"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
-  - title: "LEARNING FROM AI: Genpact turns to GenAI to train staff"
-    excerpt: "Genpact believes that generative AI (GenAI) represents a significant leap in technology. The company wants to make AI Guru a coach for specific roles and guide people on skills they should be learning. For example, a first-time manager who needs constant coaching can talk to an AI Guru for guidance. Time for learning to reboot"
-    publishedDateTime: 2023-12-11T05:55:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-learning-from-ai-genpact-turns-to-genai-to-train-staff-3335079/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-learning-from-ai-genpact-turns-to-genai-to-train-staff-3335079/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-learning-from-ai-genpact-turns-to-genai-to-train-staff-3335079/lite/"
+  - title: "OpenAI thinks superhuman AI is coming — and wants to build tools to control it"
+    excerpt: "Schmidt’s personal fortune stands around an estimated $24 billion, and he’s poured hundreds of millions into other, decidedly less ethics-focused AI ventures and funds — including his own. Schmidt denies this is the case, of course. “AI and other ..."
+    publishedDateTime: 2023-12-14T17:00:00Z
+    webUrl: "https://techcrunch.com/2023/12/14/openai-thinks-superhuman-ai-is-coming-and-wants-to-build-tools-to-control-it/"
+    ampWebUrl: "https://techcrunch.com/2023/12/14/openai-thinks-superhuman-ai-is-coming-and-wants-to-build-tools-to-control-it/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/14/openai-thinks-superhuman-ai-is-coming-and-wants-to-build-tools-to-control-it/amp/"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 85
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/12/Untitled-design-2023-12-11T112020.544.jpg"
+      - url: "https://techcrunch.com/wp-content/uploads/2023/11/openAI-pattern-04.jpg?resize=1200,675"
         width: 1200
         height: 675
         isCached: true
-  - title: "Why Artificial Intelligence Requires High-Performance Computing"
-    excerpt: "Traditional data center technology isn’t powerful enough for ambitious AI projects, so businesses are adding clusters of graphic processing units."
-    publishedDateTime: 2023-12-11T21:26:00Z
-    webUrl: "https://biztechmagazine.com/article/2023/12/why-artificial-intelligence-requires-high-performance-computing"
-    ampWebUrl: "https://biztechmagazine.com/article/2023/12/why-artificial-intelligence-requires-high-performance-computing?amp"
-    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2023/12/why-artificial-intelligence-requires-high-performance-computing?amp"
+  - title: "Have a good idea for an AI startup? OpenAI wants to give you $1 million"
+    excerpt: "Even if you haven't written a line of code or raised a single dollar and your idea is still largely in your head, OpenAI wants you to apply."
+    publishedDateTime: 2023-12-14T16:13:00Z
+    webUrl: "https://venturebeat.com/ai/have-a-good-idea-for-an-ai-startup-openai-wants-to-give-you-1-million/"
     type: article
     provider:
-      name: BizTech
-      domain: biztechmagazine.com
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/12/cfr0z3n_vector_art_line_art_high_contrast_a_cloud_of_dollar_bil_ed0f7165-ab90-4861-96ce-48a41ee111e1.png?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
+  - title: "Five things you need to know about the EU’s new AI Act"
+    excerpt: "The EU is poised to effectively become the world’s AI police, creating binding rules on transparency, ethics, and more."
+    publishedDateTime: 2023-12-11T17:56:00Z
+    webUrl: "https://www.technologyreview.com/2023/12/11/1084942/five-things-you-need-to-know-about-the-eus-new-ai-act/"
+    ampWebUrl: "https://www.technologyreview.com/2023/12/11/1084942/five-things-you-need-to-know-about-the-eus-new-ai-act/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/11/1084942/five-things-you-need-to-know-about-the-eus-new-ai-act/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/12/eu-ai-flags2.jpg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
+  - title: "Pope calls for treaty to regulate artificial intelligence"
+    excerpt: "ROME >> Pope Francis on Thursday called for an international treaty to ensure artificial intelligence is developed and used ethically, arguing that the risks of technology lacking human values of compassion, mercy, morality and forgiveness are too great."
+    publishedDateTime: 2023-12-14T00:01:00Z
+    webUrl: "https://www.staradvertiser.com/2023/12/14/breaking-news/pope-calls-for-treaty-to-regulate-artificial-intelligence/"
+    ampWebUrl: "https://www.staradvertiser.com/2023/12/14/breaking-news/pope-calls-for-treaty-to-regulate-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2023/12/14/breaking-news/pope-calls-for-treaty-to-regulate-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Honolulu Star-Advertiser
+      domain: staradvertiser.com
     quality: 57
     images:
-      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202312/GettyImages-1407937651_0.jpg?itok=zX9KqBxL"
-        width: 1440
-        height: 500
+      - url: "https://www.staradvertiser.com/wp-content/uploads/2023/12/web1_14491980-7ba1574d62584f1f96678910781a0116.jpg"
+        width: 760
+        height: 507
         isCached: true
-  - title: "The rise of generative AI: Navigating the impact of artificial intelligence on higher education – Illinois State University News"
-    excerpt: "This story was written by a human with help from artificial intelligence.A human researched the story, interviewed sources, and typed these words. Artificial"
-    publishedDateTime: 2023-12-15T04:05:00Z
-    webUrl: "https://www.inferse.com/840384/the-rise-of-generative-ai-navigating-the-impact-of-artificial-intelligence-on-higher-education-illinois-state-university-news/"
+  - title: "25+ Free AI tools to improve your productivity and workflows"
+    excerpt: "Whether you’re a professional looking to streamline your workflow or an enthusiast eager to explore new creative avenues, there’s a wealth of free AI tools available to help you achieve your goals. These tools cover a variety of applications,"
+    publishedDateTime: 2023-12-14T13:05:00Z
+    webUrl: "https://www.geeky-gadgets.com/free-ai-tool-apps/"
     type: article
     provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 42
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/12/wp-header-logo-8065.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "FIS: Trust in generative AI fragile among consumers"
-    excerpt: "A significant majority of consumers admit they don't know whether their banks are currently using generative AI in their operations"
-    publishedDateTime: 2023-12-14T11:00:00Z
-    webUrl: "https://fintechmagazine.com/tech-ai/fis-generative-ai-research"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
     quality: 39
     images:
-      - url: "https://assets.bizclikmedia.net/1200/b6ed12eb7ec28ad5ae14a6ea7d05b679:cc2c9ffd810a582fef0d67f56f8aff04/nasser-khodri.jfif.jpg"
-        width: 1200
-        height: 631
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/Over-25-Free-AI-tools-to-help-you-improve-your-workflows.jpg"
+        width: 1280
+        height: 717
         isCached: true
-  - title: "Inside Bayer’s embrace of generative AI"
-    excerpt: "In this wide-ranging interview, Bayer’s head of digital transformation Saskia Steinacker shares her top tips for implementing a genAI roadmap in commercial."
-    publishedDateTime: 2023-12-15T15:45:00Z
-    webUrl: "https://www.mmm-online.com/home/channel/7-day-supply/inside-bayers-embrace-of-generative-ai/"
+  - title: "How To Keep AI From Stealing the Sound of Your Voice"
+    excerpt: "A new technology called AntiFake prevents the theft of the sound of your voice by making it more difficult for AI tools to analyze vocal recordings"
+    publishedDateTime: 2023-12-14T12:04:00Z
+    webUrl: "https://www.scientificamerican.com/article/how-to-keep-ai-from-stealing-the-sound-of-your-voice/"
     type: article
     provider:
-      name: MM&M
-      domain: mmm-online.com
+      name: Scientific American
+      domain: scientificamerican.com
     quality: 39
     images:
-      - url: "https://www.mmm-online.com/wp-content/uploads/sites/2/2022/05/GettyImages-1252150184.jpg"
-        width: 1024
-        height: 683
+      - url: "https://static.scientificamerican.com/sciam/cache/file/AA71A9F7-F6EB-4F6B-BDCBFE460FA0842C_source.jpg?w=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Turn Generative AI from an Existential Threat into a Competitive Advantage"
-    excerpt: "By making it vastly easier and cheaper to improve or create products and services that previously required significant human labor and creativity, generative AI has the potential to disrupt or even commoditize many businesses."
-    publishedDateTime: 2023-12-11T17:00:00Z
-    webUrl: "https://hbr.org/2024/01/turn-generative-ai-from-an-existential-threat-into-a-competitive-advantage"
+  - title: "Google Ventures adds partner to back AI, open source startups"
+    excerpt: "Venture capital firm GV, backed by Google parent Alphabet Inc, has hired Michael McBride from software firm GitLab as its latest investment partner to focus on open-source and AI startups, the firm told Reuters."
+    publishedDateTime: 2023-12-13T15:08:00Z
+    webUrl: "https://www.aol.com/google-ventures-adds-partner-back-130843690.html?ref=biztoc.com"
     type: article
     provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 35
+      name: AOL
+      domain: aol.com
+    quality: 37
     images:
-      - url: "https://hbr.org/resources/images/article_assets/2023/11/R2401J_TEMPERLEY.jpg"
-        width: 2000
-        height: 1125
-        isCached: true
-  - title: "Revolutionizing Enterprise Search: Harnessing Generative AI for Enhanced Data Discovery"
-    excerpt: "The realm of enterprise search is undergoing a transformative shift, propelled by the integration of Generative AI. This cutting-edge technology is not"
-    publishedDateTime: 2023-12-12T17:14:00Z
-    webUrl: "https://innotechtoday.com/revolutionizing-enterprise-search-harnessing-generative-ai-for-enhanced-data-discovery/"
-    type: article
-    provider:
-      name: Innovation & Tech Today
-      domain: innotechtoday.com
-    quality: 31
-    images:
-      - url: "https://innotechtoday.com/wp-content/uploads/2023/12/pexels-google-deepmind-17485743-1.jpg"
+      - url: "https://media.zenfs.com/en/aol_reuters_29/bbb13e44128dae8d8b5b62788584cc3e"
         width: 800
-        height: 500
+        height: 557
         isCached: true
-  - title: "Kinara Edge AI Processor Tackles the Monstrous Compute Demands of Generative AI and Transformer-Based Models"
-    excerpt: "Kinara™, Inc., today launched the Kinara Ara-2 Edge AI processor, powering edge servers and laptops with high performance, cost effective, and energy efficient inference to run applications such as video analytics,"
-    publishedDateTime: 2023-12-12T12:01:00Z
-    webUrl: "https://www.eagletribune.com/region/kinara-edge-ai-processor-tackles-the-monstrous-compute-demands-of-generative-ai-and-transformer-based/article_fe2f45d2-d2e0-5130-9faf-cef83d1e6744.html"
+  - title: "Open-source generative AI startup Mistral AI raises $415M in funding"
+    excerpt: "French generative artificial intelligence startup Mistral AI announced today it has closed on its second bumper funding round of the year, raising 385 million euros, or around $415 million, in a deal led by prominent venture capital firms Andreessen Horowitz and Lightspeed Venture Partners."
+    publishedDateTime: 2023-12-11T01:47:00Z
+    webUrl: "https://siliconangle.com/2023/12/10/open-source-generative-ai-startup-mistral-ai-raises-415m-funding/"
     type: article
     provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
-    quality: 20
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/a/3e/a3e37668-57a1-5520-94c7-df98c63a2319/6578614943dc0.image.jpg?crop=1404%2C737%2C0%2C369&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cross-Campus Approaches to Building a Generative AI Policy"
-    excerpt: "Particularly for new technologies that disrupt long-standing practices and cultural beliefs, the work of carefully and intentionally developing effect"
-    publishedDateTime: 2023-12-12T20:42:00Z
-    webUrl: "https://er.educause.edu/articles/2023/12/cross-campus-approaches-to-building-a-generative-ai-policy"
-    type: article
-    provider:
-      name: er.educause.edu
-      domain: educause.edu
-    quality: 19
-  - title: "How generative artificial intelligence will change Ohio’s workforce"
-    excerpt: "McKinsey has estimated that, accelerated by gen AI, up to 30% of current hours worked in the United States could be automated by 2030, requiring 12 million job shifts."
-    publishedDateTime: 2023-12-11T05:00:00Z
-    webUrl: "https://www.bizjournals.com/columbus/news/2023/12/11/generative-artificial-intelligence-ohio.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
+      name: SiliconANGLE
+      domain: siliconangle.com
     quality: 17
+  - title: "Opensource AI can outperform private models like Chat-GPT - ARK Invest research"
+    excerpt: "The need for performance in open-source AI models stems from the importance of democratizing access to generative AI."
+    publishedDateTime: 2023-12-14T08:48:00Z
+    webUrl: "https://cointelegraph.com/news/opensource-ai-outperform-private-models-chat-gpt-ark-invest-research"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 15
 
 secured: "f9Jvz6fcw6I322YVhGEGtcKC3jPisfec3jalfsSGZ/8l/gREEqRiZ+i5mX0NfnLv4rGdxOU2TlC94gtlO1yS/FY5AhI33Xt1JP9zXhS97cSiwjmjq8cmbAh48YWgRoX2zIY5dN31FW0RoIwXU3J70SSFzRjYSW29PRY81tBX5TwtY9fB4MJOdPwth/d+CmETUztrLJqmGIaFP28qCE9xyZFIXQ4Kv+aOOYk4wVezmBP30lZNwwOYfXkzwlDbJrnYtomEJ94M1o+AgRN/8ggV0+ECeHdZK/S97DGm+PD+wPtW9HJTPiChzEHd1ED4APdMBXh4WBy1Jgx/vPw9YHINqMs2xQOpW5Zn/T6Lyl+ol5E=;cpSEksVISQoCBooHGBeJuw=="
 ---

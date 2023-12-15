@@ -110,15 +110,6 @@ related:
         width: 1280
         height: 731
         isCached: true
-  - title: "Next-Level Elearning: AI Chatbot Revolutionizes Academic Communication and Learning Processes"
-    excerpt: "Language technology company Tilde has developed a unique AI chatbot Digne for enhancing the university course 'Civil Protection'."
-    publishedDateTime: 2023-12-12T08:40:00Z
-    webUrl: "https://slator.com/next-level-elearning-ai-chatbot-revolutionizes-academic-communication-learning-processes/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 8
 
 secured: "chd1wWgaqcU8HIKqgXFo+ltc5KRjdOljY7dvmJEl1YuRFPqzDLAMMuB1h7pefsZDdhWoijsoxKiAHbfP9hUDdOukxuVjLykgbZJbye8SeMfjAtnKTGcrh6KLsfxxvRS1l+qWVPGA1Qu/X6qlcMolu3O+3e06xJN1nZDY8tBeL/zDI8MwSlIrFoXMe++uNsVVYewQSQ/ICe73FNmk/gJmFKaa8KO6uECvOFwCYwx7sIaZkF+HS/OoKx1ZbcExq3fuUsJITs+U1eZiB+QT7PBr+a9Pp6CIkKwcpB9U8JKvCDYtMdR/ci2rFmbBm8UO7nAYh7K8KpqSMJODdeK3e9/6heNUIg+LGml0SI9RzcoHpiwEYxeFeYPFawtEYbdRXiChgx9LXNTXqFYOjiuso1VUK9bkHMULZVGxHJEHv4iwhFhi8XsSRzvut+saoX2QO/7VcEi1tjOFjLz06dwB+Vffw175XYrFzQQVifdGrwOlkYN+3pROd/f+w+Dd3gW8NDvurAfPfCbur/Cdyunc15OqBg==;WdQ/koGMAAMWu1y1XL8WXw=="
 ---

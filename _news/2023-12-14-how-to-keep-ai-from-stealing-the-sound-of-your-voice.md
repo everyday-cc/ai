@@ -25,234 +25,169 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Is Impacting Society And Shaping The Future"
-    excerpt: "As the dawn of artificial intelligence (AI) transforms industries and societies, we've engaged with visionary founders who are leading the charge."
-    publishedDateTime: 2023-12-14T00:46:00Z
-    webUrl: "https://www.forbes.com/sites/kalinabryant/2023/12/13/how-ai-is-impacting-society-and-shaping-the-future/"
-    ampWebUrl: "https://www.forbes.com/sites/kalinabryant/2023/12/13/how-ai-is-impacting-society-and-shaping-the-future/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kalinabryant/2023/12/13/how-ai-is-impacting-society-and-shaping-the-future/amp/"
+  - title: "Five open-source AI tools to know"
+    excerpt: "While open-source AI offers enticing possibilities, its free accessibility poses risks that organizations must navigate carefully.\nThe post Five open-source AI tools to know appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-12-15T17:24:27Z
+    webUrl: "https://www.ibm.com/blog/five-open-source-ai-tools-to-know/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
+      name: IBM
+      domain: ibm.com
+    quality: 99
+  - title: "Generative AI is off to a rough start"
+    excerpt: "As the big vendors overstate the capabilities of their generative AI projects, maybe it’s time to use open source to keep them honest."
+    publishedDateTime: 2023-12-11T10:00:00Z
+    webUrl: "https://www.infoworld.com/article/3711414/generative-ai-is-off-to-a-rough-start.html"
+    ampWebUrl: "https://www.infoworld.com/article/3711414/generative-ai-is-off-to-a-rough-start.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711414/generative-ai-is-off-to-a-rough-start.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/657a5006c207ad19dd8da4dc/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1439
-        height: 900
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2021/12/28/10/10_untruthful_lies_liar_untrustworthy-100781303-large-100915050-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Unlearning Trust In The Era Of AI"
-    excerpt: "With easy access to such technology, it is looking increasingly like if we don’t educate ourselves, the scammers will do it by victimizing us."
-    publishedDateTime: 2023-12-14T14:46:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/14/unlearning-trust-in-the-era-of-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/14/unlearning-trust-in-the-era-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/14/unlearning-trust-in-the-era-of-ai/amp/"
+  - title: "Relevance AI’s low-code platform enables businesses to build AI teams"
+    excerpt: "However, only businesses with large engineering teams can build their own AI workforces. An Australia-based startup, Relevance AI, wants to help companies of all sizes build custom AI agents for any use case or function to maximize productivity with its ..."
+    publishedDateTime: 2023-12-11T22:31:00Z
+    webUrl: "https://techcrunch.com/2023/12/11/relevance-ais-low-code-platform-enables-businesses-to-build-ai-teams/"
+    ampWebUrl: "https://techcrunch.com/2023/12/11/relevance-ais-low-code-platform-enables-businesses-to-build-ai-teams/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/11/relevance-ais-low-code-platform-enables-businesses-to-build-ai-teams/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63e292ad91acc2abf24c9763/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1092
-        height: 728
+      - url: "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1188605237.jpg?resize=1200,800"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Three Trends Shaping The Future Of Cloud Migration"
-    excerpt: "Chetan Mathur is CEO of Next Pathway, the Automated Cloud Migration company."
-    publishedDateTime: 2023-12-12T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/three-trends-shaping-the-future-of-cloud-migration/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/three-trends-shaping-the-future-of-cloud-migration/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/12/three-trends-shaping-the-future-of-cloud-migration/amp/"
+  - title: "OpenAI thinks superhuman AI is coming — and wants to build tools to control it"
+    excerpt: "Schmidt’s personal fortune stands around an estimated $24 billion, and he’s poured hundreds of millions into other, decidedly less ethics-focused AI ventures and funds — including his own. Schmidt denies this is the case, of course. “AI and other ..."
+    publishedDateTime: 2023-12-14T17:00:00Z
+    webUrl: "https://techcrunch.com/2023/12/14/openai-thinks-superhuman-ai-is-coming-and-wants-to-build-tools-to-control-it/"
+    ampWebUrl: "https://techcrunch.com/2023/12/14/openai-thinks-superhuman-ai-is-coming-and-wants-to-build-tools-to-control-it/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/14/openai-thinks-superhuman-ai-is-coming-and-wants-to-build-tools-to-control-it/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 85
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6553ad0f467501899dcb06a5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1351
-        height: 900
-        isCached: true
-  - title: "The future with Artificial Intelligence: AI-ming for enhanced travel experience"
-    excerpt: "In astonishingly little time, Artificial Intelligence has swept through the travel industry and significantly transformed it by improving processes up and down the chain. Indications are it is going to get all the more ubiquitous."
-    publishedDateTime: 2023-12-14T09:56:00Z
-    webUrl: "https://www.moneycontrol.com/news/trends/travel/the-future-with-artificial-intelligence-ai-ming-for-enhanced-travel-experience-11904561.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/trends/travel/the-future-with-artificial-intelligence-ai-ming-for-enhanced-travel-experience-11904561.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/travel/the-future-with-artificial-intelligence-ai-ming-for-enhanced-travel-experience-11904561.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 70
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/12/Artificial-Intelligence-and-Travel-1.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Understanding the world of AI and robotics at the FAIR"
-    excerpt: "The Festival of AI + Robotics, the FAIR is a two-day event promising to ... be able to connect with people on the floor to give them advice,” she said. Another element will be a startup showcase, which Müller said will be relevant to those visiting ..."
-    publishedDateTime: 2023-12-12T02:09:00Z
-    webUrl: "https://www.itnews.com.au/video/understanding-the-world-of-ai-and-robotics-at-the-fair-603411"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 69
-    images:
-      - url: "https://i.nextmedia.com.au/Videos/16.2-FAIR-Medium-Rectangle-300x250.png"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "Google’s AI Isn’t a Gimmick, It’s the Future | AI Unlocked"
-    excerpt: "Gizmodo chats with Google Bard’s product leader about what Google’s AI is currently capable of producing through text responses."
-    publishedDateTime: 2023-12-13T17:26:00Z
-    webUrl: "https://gizmodo.com/google-bard-ai-text-chatbots-jack-krawczyk-1851096226"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 69
-    images:
-      - url: "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/a198d33db5ba133829eb15eda8174b0e.jpg"
+      - url: "https://techcrunch.com/wp-content/uploads/2023/11/openAI-pattern-04.jpg?resize=1200,675"
         width: 1200
         height: 675
         isCached: true
-  - title: "Do AI improvements call for something better than the Turing test?"
-    excerpt: "In addition to this, the Turing Test fails to analyze an AI program’s ability to think. In a recent Turing Test experiment, GPT-4 was able to convince evaluators that they were texting with humans over 40 percent of the time. However, this score fails to answer the basic question: Can the AI program think?"
-    publishedDateTime: 2023-12-15T00:16:00Z
-    webUrl: "https://arstechnica.com/ai/2023/12/do-ai-improvements-call-for-something-better-than-the-turing-test/"
+  - title: "Have a good idea for an AI startup? OpenAI wants to give you $1 million"
+    excerpt: "Even if you haven't written a line of code or raised a single dollar and your idea is still largely in your head, OpenAI wants you to apply."
+    publishedDateTime: 2023-12-14T16:13:00Z
+    webUrl: "https://venturebeat.com/ai/have-a-good-idea-for-an-ai-startup-openai-wants-to-give-you-1-million/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 67
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-147461191-800x600.jpg"
-        width: 800
-        height: 600
+      - url: "https://venturebeat.com/wp-content/uploads/2023/12/cfr0z3n_vector_art_line_art_high_contrast_a_cloud_of_dollar_bil_ed0f7165-ab90-4861-96ce-48a41ee111e1.png?w=1200&strip=all"
+        width: 1200
+        height: 672
         isCached: true
-  - title: "How Machine Learning is Reshaping Industries"
-    excerpt: "In the era of digital transformation, machine learning (ML) has emerged as the driving force behind a revolutionary shift in industries worldwide. From healthcare to finance, manufacturing to marketing,"
-    publishedDateTime: 2023-12-12T14:50:00Z
-    webUrl: "https://www.timesnownews.com/education/how-machine-learning-is-reshaping-industries-article-105939900"
-    ampWebUrl: "https://www.timesnownews.com/education/how-machine-learning-is-reshaping-industries-article-105939900/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/education/how-machine-learning-is-reshaping-industries-article-105939900/amp"
+  - title: "Five things you need to know about the EU’s new AI Act"
+    excerpt: "The EU is poised to effectively become the world’s AI police, creating binding rules on transparency, ethics, and more."
+    publishedDateTime: 2023-12-11T17:56:00Z
+    webUrl: "https://www.technologyreview.com/2023/12/11/1084942/five-things-you-need-to-know-about-the-eus-new-ai-act/"
+    ampWebUrl: "https://www.technologyreview.com/2023/12/11/1084942/five-things-you-need-to-know-about-the-eus-new-ai-act/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/11/1084942/five-things-you-need-to-know-about-the-eus-new-ai-act/amp/"
     type: article
     provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 61
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
     images:
-      - url: "https://static.tnn.in/thumb/msid-105939904,thumbsize-372248,width-1280,height-720,resizemode-75/105939904.jpg"
-        width: 1280
-        height: 720
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/12/eu-ai-flags2.jpg?w=3000"
+        width: 3000
+        height: 1688
         isCached: true
-  - title: "The Impact of Artificial Intelligence On Real Estate Marketing"
-    excerpt: "Artificial Intelligence (AI) has become a driving force across various industries, reshaping traditional practices and enhancing efficiency. In the realm of real estate, AI is revolutionizing marketing strategies,"
-    publishedDateTime: 2023-12-15T12:21:00Z
-    webUrl: "https://realtybiznews.com/the-impact-of-artificial-intelligence-on-real-estate-marketing/98780587/"
+  - title: "Pope calls for treaty to regulate artificial intelligence"
+    excerpt: "ROME >> Pope Francis on Thursday called for an international treaty to ensure artificial intelligence is developed and used ethically, arguing that the risks of technology lacking human values of compassion, mercy, morality and forgiveness are too great."
+    publishedDateTime: 2023-12-14T00:01:00Z
+    webUrl: "https://www.staradvertiser.com/2023/12/14/breaking-news/pope-calls-for-treaty-to-regulate-artificial-intelligence/"
+    ampWebUrl: "https://www.staradvertiser.com/2023/12/14/breaking-news/pope-calls-for-treaty-to-regulate-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2023/12/14/breaking-news/pope-calls-for-treaty-to-regulate-artificial-intelligence/amp/"
     type: article
     provider:
-      name: realtybiznews
-      domain: realtybiznews.com
-    quality: 56
+      name: Honolulu Star-Advertiser
+      domain: staradvertiser.com
+    quality: 57
     images:
-      - url: "https://realtybiznews.com/wp-content/uploads/2022/07/banner-2.png"
-        width: 300
-        height: 250
+      - url: "https://www.staradvertiser.com/wp-content/uploads/2023/12/web1_14491980-7ba1574d62584f1f96678910781a0116.jpg"
+        width: 760
+        height: 507
         isCached: true
-  - title: "Windows 12 and the coming AI chip war"
-    excerpt: "A Windows release planned for next year may be the catalyst for a new wave of desktop chips with AI processing capabilities."
-    publishedDateTime: 2023-12-11T06:19:00Z
-    webUrl: "https://www.arnnet.com.au/article/709727/windows-12-coming-ai-chip-war/"
+  - title: "25+ Free AI tools to improve your productivity and workflows"
+    excerpt: "Whether you’re a professional looking to streamline your workflow or an enthusiast eager to explore new creative avenues, there’s a wealth of free AI tools available to help you achieve your goals. These tools cover a variety of applications,"
+    publishedDateTime: 2023-12-14T13:05:00Z
+    webUrl: "https://www.geeky-gadgets.com/free-ai-tool-apps/"
     type: article
     provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 54
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/shutterstock_571888840-100941708-orig.jpg"
-        width: 504
-        height: 315
-        isCached: true
-  - title: "2023: The year of AI gift-giving and other holiday shopping trends"
-    excerpt: "Flowcode analyzed holiday shopping forecasts from Salesforce and the National Retail Federation to identify a few major trends for 2023."
-    publishedDateTime: 2023-12-14T09:18:00Z
-    webUrl: "https://kvia.com/news/business-technology/2023/12/14/2023-the-year-of-ai-gift-giving-and-other-holiday-shopping-trends/"
-    type: article
-    provider:
-      name: KVIA
-      domain: kvia.com
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
     quality: 39
     images:
-      - url: "https://kvia.b-cdn.net/2023/12/00x942CD8CDD9C031_0.jpeg"
-        width: 1010
-        height: 720
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/Over-25-Free-AI-tools-to-help-you-improve-your-workflows.jpg"
+        width: 1280
+        height: 717
         isCached: true
-  - title: "Preparing for the future: Exploring what artificial intelligence in 2025 will look like"
-    excerpt: "Are you ready to step into the future? Brace yourself for mind-blowing innovations and revolutionary transformations as we dive deep into what artificial intelligence in 2025 will look like. Get set to be mesmerized by self-driving cars,"
-    publishedDateTime: 2023-12-13T16:08:00Z
-    webUrl: "https://techbullion.com/preparing-for-the-future-exploring-what-artificial-intelligence-in-2025-will-look-like/"
+  - title: "Pope, once a victim of AI-generated imagery, calls for treaty to regulate artificial intelligence"
+    excerpt: "Earlier this year, an AI-generated image of him wearing a luxury white puffer jacket went viral, showing just how quickly realistic deepfake imagery can spread online."
+    publishedDateTime: 2023-12-14T22:47:00Z
+    webUrl: "https://www.bostonglobe.com/2023/12/14/world/pope-once-victim-ai-generated-imagery-calls-treaty-regulate-artificial-intelligence/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 39
+    images:
+      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/jawMyvYAlTL64xtfAzfzhMaYsuI=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/O6U5RLNTEBGZCS2NZYU3LYDSWM.JPEG"
+        width: 506
+        height: 318
+        isCached: true
+  - title: "Google Ventures adds partner to back AI, open source startups"
+    excerpt: "Venture capital firm GV, backed by Google parent Alphabet Inc, has hired Michael McBride from software firm GitLab as its latest investment partner to focus on open-source and AI startups, the firm told Reuters."
+    publishedDateTime: 2023-12-13T15:08:00Z
+    webUrl: "https://www.aol.com/google-ventures-adds-partner-back-130843690.html?ref=biztoc.com"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
     quality: 37
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/Artificial-Intelligence-3.jpg"
-        width: 1000
-        height: 500
+      - url: "https://media.zenfs.com/en/aol_reuters_29/bbb13e44128dae8d8b5b62788584cc3e"
+        width: 800
+        height: 557
         isCached: true
-  - title: "The Rise of Artificial Intelligence: Transforming Industries and Reshaping Our Future"
-    excerpt: "In the annals of technological evolution, few advancements have sparked as much excitement, speculation, and transformative potential as Artificial Intelligence (AI). The rise of AI has become a defining narrative in the contemporary tech landscape,"
-    publishedDateTime: 2023-12-11T22:12:00Z
-    webUrl: "https://techbullion.com/the-rise-of-artificial-intelligence-transforming-industries-and-reshaping-our-future/"
+  - title: "Open-source generative AI startup Mistral AI raises $415M in funding"
+    excerpt: "French generative artificial intelligence startup Mistral AI announced today it has closed on its second bumper funding round of the year, raising 385 million euros, or around $415 million, in a deal led by prominent venture capital firms Andreessen Horowitz and Lightspeed Venture Partners."
+    publishedDateTime: 2023-12-11T01:47:00Z
+    webUrl: "https://siliconangle.com/2023/12/10/open-source-generative-ai-startup-mistral-ai-raises-415m-funding/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 34
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/Artificial-Intelligence-1-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "All the Jobs AI Is Coming for, According to a UK Study"
-    excerpt: "Following ChatGPT's launch late last year, the speed at which AI has caught on surprised almost everybody. There are jobs already being affected, too: Some layoffs this year came due to companies believing AI could replace certain roles,"
-    publishedDateTime: 2023-12-11T18:30:00Z
-    webUrl: "https://lifehacker.com/tech/the-jobs-most-at-risk-from-ai-according-to-a-uk-study"
-    type: article
-    provider:
-      name: Lifehacker
-      domain: lifehacker.com
-    quality: 19
-  - title: "How Artificial Intelligence Is Transforming HR Practices"
-    excerpt: "Artificial intelligence (AI) has taken various industries by storm, with human resource management (HRM) being no exception. With a variety of AI tools, businesses in several industries are reaping the rewards of innovative technology to optimize their HR operations."
-    publishedDateTime: 2023-12-12T02:03:00Z
-    webUrl: "https://thebobs.com/how-artificial-intelligence-is-transforming-hr-practices/"
-    type: article
-    provider:
-      name: The BOBs
-      domain: thebobs.com
-    quality: 19
-  - title: "How Visual AI Is Transforming the Conventional School Safety Model"
-    excerpt: "Join this free webinar to learn how visual AI can be used to create a proactive and adaptive approach to physical security and emergency response for schools and campuses."
-    publishedDateTime: 2023-12-13T14:15:00Z
-    webUrl: "https://www.campussafetymagazine.com/webcast/how-visual-ai-is-transforming-the-conventional-school-safety-model/"
-    type: article
-    provider:
-      name: Campus Safety Magazine
-      domain: campussafetymagazine.com
-    quality: 19
-  - title: "Charting the Emerging Geography of AI"
-    excerpt: "As the AI power centers emerge and shift around the world, they will shape which AI applications are prioritized, which societies and sectors of the economy get the most benefits, what data are used to train algorithms,"
-    publishedDateTime: 2023-12-12T13:24:00Z
-    webUrl: "https://hbr.org/2023/12/charting-the-emerging-geography-of-ai"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
+      name: SiliconANGLE
+      domain: siliconangle.com
     quality: 17
+  - title: "Opensource AI can outperform private models like Chat-GPT - ARK Invest research"
+    excerpt: "The need for performance in open-source AI models stems from the importance of democratizing access to generative AI."
+    publishedDateTime: 2023-12-14T08:48:00Z
+    webUrl: "https://cointelegraph.com/news/opensource-ai-outperform-private-models-chat-gpt-ark-invest-research"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 15
 
 secured: "oCV/T1G1xpdTyrH39TQtPwtZmPROj/O6ZcAuQ2A2lORaHgrKPqzMAH6en6Kcd/fEb/R2X2rcxx2v8N8YrHWdKWhmOmonRxD4d3hsdlDKF2I8bR3VBkfEwDFZxpnhtMvUHbRuAVXxHX5Re3NmBDltJNxCFh3ws0XA8vv2EiPjUMnMPS3Z9cFCjGKlG40c9ZgOZbivAjZisCClDLPfZsBEH1w4CALPczupEolBz8Y5yJBYxqmxPmbC36diueclkdygfJbpUwW/9OwNzrLXv9ZwFK1iASo8vdfS+CTxeEiJH/pQ37fcZSloXe4zhMx1ZguCehUvQxNS7Hwr+GMhNQPfXrgB9Mml/qP5NH9y2/P0Md6q9MoAQ7rFpzL4iErFK1IMcG7QXQH9HuhePFQzdqHhZG1XiQqeQVBY2slq2GRPS7ETXlOZsoV4/XFe9gR2ohWLtAsggJM5qXiB1GfDZ+YrpYmR0tWpCiM4TOzFxousAffnPt8c5Ooan9mtyKscMH0IutF6nuZMawg6FMFAocE9rg==;xJ8xHHTsE2KeU/+hU6pjnw=="
 ---

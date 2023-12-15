@@ -82,6 +82,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 63
+  - title: "Navigating AI in Healthcare: Dr. Donald Macfarlane's Warning on AI-Driven Medical Note-Taking"
+    excerpt: "Dr. Donald Macfarlane warns against the use of AI-driven tools in medical note-taking due to fabrications that will negatively impact patient"
+    publishedDateTime: 2023-12-15T18:11:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/navigating-ai-in-healthcare-dr.-donald-macfarlanes-warning-on-aidriven-medical-notetaking-1032905719"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 55
   - title: "CVS, Geisinger, others sign responsible AI in healthcare pledge"
     excerpt: "A survey conducted earlier this year by the American Medical Association found 65% of physicians saw an advantage to AI in healthcare, with the greatest enthusiasm for tools that could reduce administrative burdens in medical documentation or prior ..."
     publishedDateTime: 2023-12-15T00:00:00Z

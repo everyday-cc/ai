@@ -39,6 +39,20 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "Microsoft Cloud for Sovereignty now available across all Azure regions"
+    excerpt: "The Microsoft Cloud for Sovereignty service is now available across all Azure regions. The company said governments across the world will now be able to use Microsoft Cloud across more than 60 Azure cloud regions while meeting individual compliance, security, and policy requirements."
+    publishedDateTime: 2023-12-15T17:39:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-cloud-for-sovereignty-now-available-across-all-azure-regions/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 69
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Oracle Announces the General Availability of Oracle Database@Azure"
     excerpt: "Oracle database services running on Oracle Cloud Infrastructure are deployed directly in Microsoft Azure datacenters AUSTIN, Texas, Dec. 13, 2023"
     publishedDateTime: 2023-12-13T13:26:00Z

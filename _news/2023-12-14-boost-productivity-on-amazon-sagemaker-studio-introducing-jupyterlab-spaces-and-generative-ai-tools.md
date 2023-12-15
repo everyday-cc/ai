@@ -57,6 +57,20 @@ related:
         width: 1004
         height: 500
         isCached: true
+  - title: "Use Amazon DocumentDB to build no-code machine learning solutions in Amazon SageMaker Canvas"
+    excerpt: "We are excited to announce the launch of Amazon DocumentDB (with MongoDB compatibility) integration with Amazon SageMaker Canvas, allowing Amazon DocumentDB customers to build and use generative AI and machine learning (ML) solutions without writing code. Amazon DocumentDB is a fully managed native JSON"
+    publishedDateTime: 2023-12-15T17:51:37Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/use-amazon-documentdb-to-build-no-code-machine-learning-solutions-in-amazon-sagemaker-canvas/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 95
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/12/15/documentdb-sagemaker.jpg"
+        width: 1006
+        height: 501
+        isCached: true
   - title: "Streamlining ETL data processing at Talent.com with Amazon SageMaker"
     excerpt: "This post outlines the ETL pipeline we developed for feature processing for training and deploying a job recommender model at Talent.com. Our pipeline uses SageMaker Processing jobs for efficient data processing and feature extraction at a large scale. Feature extraction code is implemented in Python"
     publishedDateTime: 2023-12-14T16:42:22Z

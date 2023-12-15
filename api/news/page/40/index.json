@@ -2,6 +2,102 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2023-11-10-cognitive-technology-education-services-inc-unveils-revolutionary-gamified-it-learning-app-cognitive.md",
+      "title": "Cognitive Technology Education Services, Inc. Unveils Revolutionary Gamified IT Learning App, \"CognITive\"",
+      "excerpt": "DAYTON, Ohio, Nov. 10, 2023 /PRNewswire/ -- Cognitive Technology Education Services, Inc., a pioneering company in the field of technology education, is thrilled to announce the upcoming launch of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.victoriaadvocate.com/cognitive-technology-education-services-inc-unveils-revolutionary-gamified-it-learning-app-cognitive/article_d181727c-f794-5e79-b3ad-2b0fced7fe8b.html",
+      "originalUrl": "https://www.victoriaadvocate.com/cognitive-technology-education-services-inc-unveils-revolutionary-gamified-it-learning-app-cognitive/article_d181727c-f794-5e79-b3ad-2b0fced7fe8b.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/c/a6/ca65185a-7066-54be-b14e-6908093fa5c6/654e42240ca7b.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-10T15:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Victoria Advocate",
+        "domain": "victoriaadvocate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-11-10-github-universe-open-source-trends-report-and-new-ai-security-products.md",
+      "title": "GitHub Universe: Open Source Trends Report and New AI Security Products",
+      "excerpt": "GitHub Advanced Security gains some AI features, and GitHub Copilot now includes a chatbot option. Github Copilot Enterprise is expected in February 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/github-universe-2023-ai-security/",
+      "originalUrl": "https://www.techrepublic.com/article/github-universe-2023-ai-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/11/GitHub-Copilot-Chat-Explain-Figure-A-Nov-2023.png",
+          "width": 1400,
+          "height": 788,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-10T15:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-11-10-consumers-can-expect-ai-to-first-impact-the-tmt-sector-according-to-dealmakers.md",
       "title": "Consumers Can Expect AI To First Impact The TMT Sector – According To Dealmakers",
       "excerpt": "With President Biden’s executive order on AI, we’re finally seeing a form of government action on the emerging technology that’s already impacted nearly every industry.",
@@ -1114,109 +1210,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-11-10-humanes-ai-pin-promises-an-ambient-computing-future-for-699-plus-24-a-month.md",
-      "title": "Humane’s Ai Pin promises an ‘ambient computing’ future for $699 (plus $24 a month)",
-      "excerpt": "It’s here. After months of hype, leaks and reveals, Humane has officially revealed the Ai Pin. The small device magnetically attaches to its wearer’s",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/11/09/humanes-ai-pin/",
-      "originalUrl": "https://techcrunch.com/2023/11/09/humanes-ai-pin/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/11/humane-press-shield-lifestyle-2.png?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/11/09/humanes-ai-pin/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/09/humanes-ai-pin/amp/",
-      "publishedDateTime": "2023-11-09T17:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-10-gong-forecast-gets-ai-upgrade-improving-accuracy-20-over-crm-revenue-forecasting.md",
-      "title": "Gong Forecast gets AI upgrade, improving accuracy 20% over CRM revenue forecasting",
-      "excerpt": "Using Gong Forecast, revenue teams can remove bias and eliminate the need for revenue team members/sales reps to be only half listening.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/gong-forecast-gets-ai-upgrade-improving-accuracy-20-over-crm-revenue-forecasting/",
-      "originalUrl": "https://venturebeat.com/ai/gong-forecast-gets-ai-upgrade-improving-accuracy-20-over-crm-revenue-forecasting/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/11/cfr0z3n_abstract_art_vector_art_line_art_mimimalist_flat_illust_26933b69-1618-415f-b4cc-bea4a24fb961.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-09T17:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

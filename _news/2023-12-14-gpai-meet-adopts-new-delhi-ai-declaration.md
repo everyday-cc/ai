@@ -52,20 +52,6 @@ related:
       name: Time
       domain: time.com
     quality: 47
-  - title: "Europe, a laggard in AI, seizes the lead in its regulation"
-    excerpt: "Yet whether the AI Act will be as successful as the General Data Protection Regulation ( GDPR ), the EU ’s landmark privacy law, is another question. Important details still need to be worked out. And the European Parliament still needs to approve the final version."
-    publishedDateTime: 2023-12-10T18:25:00Z
-    webUrl: "https://www.economist.com/europe/2023/12/10/europe-a-laggard-in-ai-seizes-the-lead-in-its-regulation"
-    type: article
-    provider:
-      name: The Economist
-      domain: economist.com
-    quality: 37
-    images:
-      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20231210_BLP901.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Europe reaches a deal on the world’s first comprehensive AI rules"
     excerpt: "Click to email a link to a friend (Opens in new window) Click to print (Opens in new window)  LONDON | European Union negotiators clinched a deal Friday on the world’s first comprehensive artificial intelligence rules,"
     publishedDateTime: 2023-12-11T01:34:00Z

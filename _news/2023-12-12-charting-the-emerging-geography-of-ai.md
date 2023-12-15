@@ -182,19 +182,19 @@ related:
         width: 1010
         height: 720
         isCached: true
-  - title: "How To Keep AI From Stealing the Sound of Your Voice"
-    excerpt: "A new technology called AntiFake prevents the theft of the sound of your voice by making it more difficult for AI tools to analyze vocal recordings"
-    publishedDateTime: 2023-12-14T12:04:00Z
-    webUrl: "https://www.scientificamerican.com/article/how-to-keep-ai-from-stealing-the-sound-of-your-voice/"
+  - title: "Future of AI – 6 ways AI is growing rapidly"
+    excerpt: "The rapid growth of AI across various sectors is a testament to its transformative potential and boundless possibilities."
+    publishedDateTime: 2023-12-15T18:07:00Z
+    webUrl: "https://knowtechie.com/future-of-ai-6-ways-ai-is-growing-rapidly/"
     type: article
     provider:
-      name: Scientific American
-      domain: scientificamerican.com
+      name: KnowTechie
+      domain: knowtechie.com
     quality: 39
     images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/AA71A9F7-F6EB-4F6B-BDCBFE460FA0842C_source.jpg?w=1200"
-        width: 1200
-        height: 800
+      - url: "https://knowtechie.com/wp-content/uploads/2023/12/Robot-hand-feature-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
   - title: "Preparing for the future: Exploring what artificial intelligence in 2025 will look like"
     excerpt: "Are you ready to step into the future? Brace yourself for mind-blowing innovations and revolutionary transformations as we dive deep into what artificial intelligence in 2025 will look like. Get set to be mesmerized by self-driving cars,"

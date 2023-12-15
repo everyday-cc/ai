@@ -138,6 +138,20 @@ related:
         width: 251
         height: 282
         isCached: true
+  - title: "Intel debuts AI-accelerated Core Ultra and 5th Gen Xeon chips to enable AI to run in any location"
+    excerpt: "Intel debuts AI-accelerated Core Ultra and 5th Gen Xeon chips to enable AI to run in any location - SiliconANGLE"
+    publishedDateTime: 2023-12-14T15:00:00Z
+    webUrl: "https://siliconangle.com/2023/12/14/intel-debuts-ai-accelerated-core-ultra-5th-gen-xeon-chips-will-enable-ai-run-location/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 41
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/Intel-Core-Ultra-2.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "Samsung Galaxy Book 4 with Intel Power SoC & NVIDIA GeForce RTX 4070 GPU Launched"
     excerpt: "Korean giant, Samsung has finally launched its new premium laptop, the Galaxy Book 4 series powered with Intel Power CPU & NVIDIA GeForce RTX 407 GPU."
     publishedDateTime: 2023-12-15T12:09:00Z

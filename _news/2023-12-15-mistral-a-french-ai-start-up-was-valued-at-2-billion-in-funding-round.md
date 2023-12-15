@@ -68,15 +68,6 @@ related:
         width: 1584
         height: 990
         isCached: true
-  - title: "AI Platform Keeps Mining Machinery Working With Deep Learning"
-    excerpt: "An Israeli company has created an AI platform for maintaining mining machinery, anticipating potential breakdowns before they happen"
-    publishedDateTime: 2023-12-13T14:34:00Z
-    webUrl: "https://nocamels.com/2023/12/ai-platform-keeps-mining-machinery-working-with-deep-learning/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 34
   - title: "Medefy Health Raises $10 million Series A Funding to Deliver Real-Time Healthcare Benefits Navigation through Human-Led Support"
     excerpt: "Medefy Health, a mobile-first healthcare benefits navigation platform dedicated to improving the employee health benefits experience through real-time guidance, today announced that it has raised $10 million in Series A funding led by Mercury Fund with participation from Advantage Capital."
     publishedDateTime: 2023-12-11T16:20:00Z
@@ -91,15 +82,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Open-source generative AI startup Mistral AI raises $415M in funding"
-    excerpt: "French generative artificial intelligence startup Mistral AI announced today it has closed on its second bumper funding round of the year, raising 385 million euros, or around $415 million, in a deal led by prominent venture capital firms Andreessen Horowitz and Lightspeed Venture Partners."
-    publishedDateTime: 2023-12-11T01:47:00Z
-    webUrl: "https://siliconangle.com/2023/12/10/open-source-generative-ai-startup-mistral-ai-raises-415m-funding/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 17
 
 secured: "wKQEmLVgzk7N66YdQRtj459o2c2FpPZHmpKI/vU2Edia1XnlIb3iKs2mAMgeOypItKQ6wMQgROrSde18LudtKfrF2ItSC7y+M9q/SWybq+fRAvaHniorqXvPF6RHIT6s9ETCFsvGWvk4mjGgkZmWvKJ5olOq5sh49M2YQRM4rcpfgipSzxMeTPi9HDiIchvTbTR9pAl4GvKXQexoJ0K8NW7OAHnpp+eeXooRBQRN1MvphvR0ijJ2iZsgF4fUlAY8R5QVbjw4Xgh9RLQx/sd7z3VP4LmAriaQhCm/jI3nytrp9EsUCVgGmO+3WYQ3rQKaANxQeScJhu/DUnP95kAYpBH5n1pJGVNOR0HSAY/nCK8h6v7Zpy9G87DqHmI/j9aOznAJB9EkzgG5elurmJiY49rmKxmlpH1wXXejaEOQXwz0XcjlhHGpZpGZYiAzvC/84CHkJ+jj49Y0ntfsV3sg8EHUooSuZvOYDQ3DSRFDHnEu+D2dVYgsVrZZ7Cg4HLnAnNWBVdW/shkE8TmvT+L2iw==;GDZkRebyZTyyNJLnaAENQA=="
 ---

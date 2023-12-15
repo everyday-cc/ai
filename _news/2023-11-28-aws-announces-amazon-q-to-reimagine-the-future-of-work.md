@@ -1,28 +1,26 @@
 ---
 category: news
 title: "AWS Announces Amazon Q to Reimagine the Future of Work"
-excerpt: "Inc. (AWS), an Amazon.com, Inc. company AMZN, today announced Amazon Q, a new type of generative artificial intelligence-(AI) powered assistant that is specifically for work and can be tailored to ..."
-publishedDateTime: 2023-11-28T13:21:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/11/b35986133/aws-announces-amazon-q-to-reimagine-the-future-of-work"
-webUrl: "https://www.benzinga.com/pressreleases/23/11/b35986133/aws-announces-amazon-q-to-reimagine-the-future-of-work"
-ampWebUrl: "https://www.benzinga.com/amp/content/35986133"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35986133"
+excerpt: "Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced Amazon Q, a new type of generative artificial intelligence-(AI) powered assistant that is specifically for work and can be t ..."
+publishedDateTime: 2023-11-28T00:00:00Z
+originalUrl: "https://www.bakersfield.com/ap/news/aws-announces-amazon-q-to-reimagine-the-future-of-work/article_e16f797f-3d88-5442-864a-015272743a9b.html"
+webUrl: "https://www.bakersfield.com/ap/news/aws-announces-amazon-q-to-reimagine-the-future-of-work/article_e16f797f-3d88-5442-864a-015272743a9b.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
+    width: 600
+    height: 315
     isCached: true
 
-secured: "K/5Fd7TJzGqvz0DxGLPDY8BnVDDjAjCQ0CzRT0D2vHgYoeAanPF68iOggCqm9vbPMTFetnQxhMvTutYImGe9GQt21P0EwML6bk87rxrKDcZa152OZigB0SBnUnh0MJZpNdXbn0gy6l6Zqus33FWt8KGUjIvWQYkaXRdEsc3QuKERIIwABrDF0TOPfQqKoj2vGFe/liSKVpj/x47haexo9bAvpU/niigYaPKQrWPtyVM/vjoZ+aSLBoGtoMx0f9BTDHhNq02rZ1z3QN9GRJ/FGNcnlc2esrMsR6rOGjXOIFLoOEQksqglVgCsq0z3QS2lAGQlGRfIiQJdQ2zOEhGXowMy8uIpiBGGMPaALPW+nRg=;yd29YznQ/sDPRnxvjgcmsQ=="
+secured: "2Ei0FnvJkvf8RhJ9qN00D5h0UVk27oLd6LbBtJg9UoxZUHnXOrIQhxmjJQOLn3ljvZoCFSPK3KTGLSVfL3xx8aJUdbMIbhBlCoQq6y00MQyWYLWj6nmcI7YIXAaTNjpZTkv2KsO5HyPxpKyBrpbNvQioZ5HTwjVdztIe49uIMmMoO6vMB0td4Me0HecsmYeX/NzcfzaN34HdtS+/5cYh6KOq7YeG48SWIozMW+5vABdC4OgEy4UIvbepzM3WNrFVlLmz9BKwkeDi4XJRN/TTUO18aXblLyLYDwrtcoMfneTjLZtPxQVt/YF0G9QEEQmtzSFlQp923N2pEZeLkbhqgxn1EhUe/OqZY/R1lC+aZIQ=;U2ycH+H0BVFNboCR4hQMlA=="
 ---
 

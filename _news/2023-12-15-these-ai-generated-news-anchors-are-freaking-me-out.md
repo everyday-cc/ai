@@ -44,21 +44,19 @@ related:
         width: 1351
         height: 900
         isCached: true
-  - title: "Generative AI is off to a rough start"
-    excerpt: "As the big vendors overstate the capabilities of their generative AI projects, maybe it’s time to use open source to keep them honest."
-    publishedDateTime: 2023-12-11T10:00:00Z
-    webUrl: "https://www.infoworld.com/article/3711414/generative-ai-is-off-to-a-rough-start.html"
-    ampWebUrl: "https://www.infoworld.com/article/3711414/generative-ai-is-off-to-a-rough-start.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711414/generative-ai-is-off-to-a-rough-start.amp.html"
+  - title: "16 Innovative Ways Agencies Can Leverage Generative AI In 2024"
+    excerpt: "Generative AI tools are being leveraged by agency professionals and in-house teams around the world as they seek ways to better understand and reach target audiences."
+    publishedDateTime: 2023-12-15T17:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/12/15/16-innovative-ways-agencies-can-leverage-generative-ai-in-2024/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 87
+      name: Forbes
+      domain: forbes.com
+    quality: 67
     images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2021/12/28/10/10_untruthful_lies_liar_untrustworthy-100781303-large-100915050-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
+      - url: "https://imageio.forbes.com/specials-images/imageserve/655e5665f16e596330a94c9e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
         isCached: true
   - title: "AI: Amazon Web Services views generative artificial intelligence as marathon not sprint"
     excerpt: "While rivals race to add AI capabilities to products, AWS focuses on making it easier and more secure for firms to integrate it into workflows"
@@ -148,20 +146,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Pope, once a victim of AI-generated imagery, calls for treaty to regulate artificial intelligence"
-    excerpt: "Earlier this year, an AI-generated image of him wearing a luxury white puffer jacket went viral, showing just how quickly realistic deepfake imagery can spread online."
-    publishedDateTime: 2023-12-14T22:47:00Z
-    webUrl: "https://www.bostonglobe.com/2023/12/14/world/pope-once-victim-ai-generated-imagery-calls-treaty-regulate-artificial-intelligence/"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 39
-    images:
-      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/jawMyvYAlTL64xtfAzfzhMaYsuI=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/O6U5RLNTEBGZCS2NZYU3LYDSWM.JPEG"
-        width: 506
-        height: 318
-        isCached: true
   - title: "Turn Generative AI from an Existential Threat into a Competitive Advantage"
     excerpt: "By making it vastly easier and cheaper to improve or create products and services that previously required significant human labor and creativity, generative AI has the potential to disrupt or even commoditize many businesses."
     publishedDateTime: 2023-12-11T17:00:00Z
@@ -223,6 +207,6 @@ related:
       domain: bizjournals.com
     quality: 17
 
-secured: "TUd2yS52Zgq/ejxfKYYK2eCjgUGS9Ovb4ZZjtPFZsp0KslZ7lUz8qXWfRUiLlvxNv+PieGtjRcsNeg0DmOsIrLZhB/fwIpclwycNNwAKTnjZNBz7FuRQcoR65YeJnHSzOe9b/VEur4ptvZoWuw8ytJkc/NWDeU1AH6/YpsOQQvaVgfUofLe7EgNUJQJLL1cTFIjMXanHbCbBBFz/GFEE8ljIbS/S6Kl/hBonHGxWJFngF4cc2kWSxVjkCLw3YL1TN9J+FSQp8VBk0YqfRN0QSvZ0zgAnt36pRHRNC2PpDRAdR0bYaNASTLmALeO8GqnNZkFKUzjmtKiLwz2WXzNWfc9Gyh9sRegb+Z7Yu8oPIyE=;cNA5QHAdt1MIyu6Dnwtn+A=="
+secured: "fOmyGv+Bdhn5Rnh9YlnBiRZzIQfQOf7xx8dZPP4e8sT5O1a9i+pfruX075RHD+LVCSCvf8EcAMrtEemdwRNTRZ7Jh6LKgI+6aahdrqmcNdw/Zan1668OSTMXg9R/+fpmtkHA2V0qCegUpFmC+O8TQmyJRtCPrwL0C3TVbYewQNZRO5NOpfVX8hMITdm+y5znZHkLDlS+viOe6QVryqWOaG0OU5Bshr6iwAFWOGy7FY9jggC6CoFWodxKkkOOHFX3BHu57IOPROGLoEbbAlR9FmXRwFe3AmrWNjvd6fCkecdWesjnXPCtNH8k8blHjoE7yL4O30iVDR5qe4hQWk3uliA2JbLOsXk0AoXP5wknLdcYPws+K8+RXioewF6hvt1wOwZcq84m3jdj8Aw+haWRMMeZqjaTxd3HOsfZ+Xe9Fj+znRBAAER+W11cKUeQtXESpt5+g93gATIzRdhRDn2WK1cXVUxvJHuvci9DBdawGt0Yb7Klgl9jTxG/IJtGKH/gOqMR2X/83dPM6NBVxu2NuQ==;kjkhQcTXpW2q7XkTOsZG1g=="
 ---
 

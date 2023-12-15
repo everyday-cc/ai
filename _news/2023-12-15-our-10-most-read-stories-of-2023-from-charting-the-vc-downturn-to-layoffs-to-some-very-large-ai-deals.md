@@ -33,6 +33,20 @@ related:
       name: CRN
       domain: crn.com
     quality: 53
+  - title: "The 10 Biggest Music Law Stories of 2023: #MeToo, AI, Ed Sheeran, Young Thug, Taylor Swift & More"
+    excerpt: "The year was filled with dark allegations, cutting-edge legal questions raised by new technologies and record label contract changes spurred by the industry’s biggest star."
+    publishedDateTime: 2023-12-15T18:31:00Z
+    webUrl: "https://www.billboard.com/lists/biggest-music-legal-news-2023-ai-taylor-swift-young-thug-lizzo/"
+    type: article
+    provider:
+      name: Billboard
+      domain: billboard.com
+    quality: 24
+    images:
+      - url: "https://www.billboard.com/wp-content/uploads/2023/12/Biggest-Legal-Stories-billboard-1548.jpg?w=1024"
+        width: 1024
+        height: 677
+        isCached: true
   - title: "Top 10 Biggest Google Cloud News Stories Of 2023: AI, Profitability And Layoffs"
     excerpt: "Google Cloud top news in 2023 includes new AI products, layoffs, Google Workspace, generative AI, cloud computing, Anthropic investment and profitability."
     publishedDateTime: 2023-12-12T20:30:00Z

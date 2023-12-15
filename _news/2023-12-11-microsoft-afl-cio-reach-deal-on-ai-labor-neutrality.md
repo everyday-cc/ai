@@ -7,7 +7,7 @@ originalUrl: "https://money.usnews.com/investing/news/articles/2023-12-11/micros
 webUrl: "https://money.usnews.com/investing/news/articles/2023-12-11/microsoft-afl-cio-reach-deal-on-ai-labor-neutrality"
 type: article
 quality: 64
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -71,6 +71,15 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Startup Mesh Ai launches ‘first AI-enabled’ workplace mental health solution for Microsoft Teams and Microsoft 365"
+    excerpt: "Australian startup Mesh Ai has announced the release of Simpatico Teams, a “pioneering AI-driven mental health application” for Microsoft Teams, Microsoft 365 and Copilot for Microsoft 365. Mesh Ai says the application ”will help employers better manage the growing psychological challenges of the"
+    publishedDateTime: 2023-12-14T13:29:00Z
+    webUrl: "https://itwire.com/business-it-news/enterprise-solutions/startup-mesh-ai-launches-‘first-ai-enabled’-workplace-mental-health-solution-for-microsoft-teams-and-microsoft-365.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 12
 
 secured: "8HPTiJutdrgzPAyYQk9/l0yUbIbRONIpdK5k65vnNJfvEL/xaTU+grT+ecuyfQIRMsAZyMZMKs9jpLF2Y9iLwywddo9mqChl+O2C2KQ0lQkmxyiaAfJKDhViVublfS33ZdtJy5UvFe1EjPLyDpBnr8CliQj8CshcWAaB1rZD66y3M/+Wlzy3/jrevnZcFvidJQJqaYCwxCPo+wcB9G5PlHM9lzh1zarl8kZLe1utRAg0HdpmbwgPIBD2k3ziRKQis6rmfeB0mKAKUeuODR1vFtUvvG2OxKT6kzLDOCdRGIPZ/eKIBXUSF2G+BZw+ZVaREIetD+eioz+exA1tLveaAMZz+5wbgTscX+eyXaU9fNJyQ7uUgifSD66awa3Nm74S87e3HJ5QMtx5ZSGmqh32XuGjddNZcu5W6tcLQWaGtCsPR1JEDH1DuBuyP2lltSDVNUG82Al1MbTf8HXNuFbtDRrE3IkE8sH9HyQq6GEPbf1JsxvVQXrRLTkTnfyNgE1orh9dwKPBNq0JBUwKGgM4RA==;zNACx1G0V0MWeoxQOJjFKg=="
 ---

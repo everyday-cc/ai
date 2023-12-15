@@ -70,6 +70,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Julie Jordan: AI for the future – Strike the right balance between innovation and regulation"
+    excerpt: "It seems as though everyone is talking about artificial intelligence these days. From concerns about how it could affect the 2024 presidential elections to hopes that it might solve the global climate crisis,"
+    publishedDateTime: 2023-12-15T17:30:00Z
+    webUrl: "https://www.msstate.edu/newsroom/article/2023/12/julie-jordan-ai-future-strike-right-balance-between-innovation-and"
+    type: article
+    provider:
+      name: Mississippi State University
+      domain: msstate.edu
+    quality: 28
+    images:
+      - url: "http://www.msstate.edu/sites/www.msstate.edu/files/2023-12/Jordan_Julie-LeeHall_20220421_B5W6821_featured.jpg"
+        width: 1600
+        height: 1000
+        isCached: true
 
 secured: "GUB7BvdieTogn1u2Vp2/USKdmAO+SFrhYqKngkY5HPOxoLb6lZLl+gQd2J3uke+1pl7Y9kixUXGx3ypMyZfCrxd8dcms5J4hZRZAcCZWvuFNAulY4/WOdtq7kAtY456VxqPBVLnmn37NCCcUlrBi0Ocid++yYSxE+CUmYQg6AMK7SIRykWr+hUwg1X7IRl3sZlIKZ0CIkACW6W/i3rbAwgeL1eS7BaMVOIwPyl8izdOhGxuLddtVENuBBy1CZr1urhDNQvoZnaQYVtLGLyyDebbE1WUF5qo+tC2Ep2vMfWcjVRP0sd2N1NoFoTlcJjvWMshNsR2AAVCHKGd07qa1OuFz84nGV80RreQDZb+c2K8=;hozQgWSwGMHCn2b0AC0JPQ=="
 ---

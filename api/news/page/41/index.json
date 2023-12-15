@@ -2,6 +2,109 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2023-11-10-humanes-ai-pin-promises-an-ambient-computing-future-for-699-plus-24-a-month.md",
+      "title": "Humane’s Ai Pin promises an ‘ambient computing’ future for $699 (plus $24 a month)",
+      "excerpt": "It’s here. After months of hype, leaks and reveals, Humane has officially revealed the Ai Pin. The small device magnetically attaches to its wearer’s",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/11/09/humanes-ai-pin/",
+      "originalUrl": "https://techcrunch.com/2023/11/09/humanes-ai-pin/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/11/humane-press-shield-lifestyle-2.png?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/11/09/humanes-ai-pin/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/09/humanes-ai-pin/amp/",
+      "publishedDateTime": "2023-11-09T17:06:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-10-gong-forecast-gets-ai-upgrade-improving-accuracy-20-over-crm-revenue-forecasting.md",
+      "title": "Gong Forecast gets AI upgrade, improving accuracy 20% over CRM revenue forecasting",
+      "excerpt": "Using Gong Forecast, revenue teams can remove bias and eliminate the need for revenue team members/sales reps to be only half listening.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/gong-forecast-gets-ai-upgrade-improving-accuracy-20-over-crm-revenue-forecasting/",
+      "originalUrl": "https://venturebeat.com/ai/gong-forecast-gets-ai-upgrade-improving-accuracy-20-over-crm-revenue-forecasting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/11/cfr0z3n_abstract_art_vector_art_line_art_mimimalist_flat_illust_26933b69-1618-415f-b4cc-bea4a24fb961.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-09T17:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2023-11-10-this-new-breed-of-ai-assistant-wants-to-do-your-boring-office-chores.md",
       "title": "This New Breed of AI Assistant Wants to Do Your Boring Office Chores",
       "excerpt": "An experimental AI helper attempts to operate a web browser in the same way a human does to take on office admin like processing invoices or screening job applicants.",
@@ -1064,109 +1167,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-09-10-most-vital-ai-trends-we-need-to-be-ready-for-in-2024.md",
-      "title": "10 Most Vital AI Trends We Need to be Ready for in 2024",
-      "excerpt": "In 2024, healthcare powered by AI will become the norm. 5. AI Ethics and Bias Mitigation: A Moral Imperative Ensuring that AI systems are ethically sound is non-negotiable. Bias mitigation techniques and ethical AI frameworks are crucial. As leaders ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/en-in/technology/10-most-vital-ai-trends-we-need-to-be-ready-for-in-2024/465119",
-      "originalUrl": "https://www.entrepreneur.com/en-in/technology/10-most-vital-ai-trends-we-need-to-be-ready-for-in-2024/465119",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1699511298-AIcanvanew.png?format=pjeg&auto=webp",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-09T06:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-09-this-norwegian-ai-powered-startup-has-big-plans-for-the-meat-industry.md",
-      "title": "This Norwegian AI Powered Startup Has Big Plans For The Meat Industry",
-      "excerpt": "By combining deep technical and industry knowledge and avoiding using more animals than required, Volur technology plans to maximize utilization of animals for an",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/danieladelorenzo/2023/11/09/this-norwegian-ai-powered-startup-has-big-plans-for-the-meat-industry/",
-      "originalUrl": "https://www.forbes.com/sites/danieladelorenzo/2023/11/09/this-norwegian-ai-powered-startup-has-big-plans-for-the-meat-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6548119d7062ae40eeaee9ad/0x0.jpg?format=jpg&crop=2092,1282,x0,y0,safe&height=900&width=1600&fit=bounds",
-          "width": 1469,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/danieladelorenzo/2023/11/09/this-norwegian-ai-powered-startup-has-big-plans-for-the-meat-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danieladelorenzo/2023/11/09/this-norwegian-ai-powered-startup-has-big-plans-for-the-meat-industry/amp/",
-      "publishedDateTime": "2023-11-09T06:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

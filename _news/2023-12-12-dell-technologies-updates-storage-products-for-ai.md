@@ -9,7 +9,7 @@ ampWebUrl: "https://www.networkworld.com/article/1257328/dell-technologies-updat
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1257328/dell-technologies-updates-storage-products-for-ai.html/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 25
+  - title: "OPEN Health and Nested Knowledge announce strategic research collaboration to leverage AI technologies for evidence synthesis"
+    excerpt: "This collaboration underscores OPEN Health's unwavering commitment to leveraging innovative solutions and AI technologies for superior client delivery,” said Richard Jones, President of OPEN Health Evidence & Access."
+    publishedDateTime: 2023-12-11T10:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/open-health-and-nested-knowledge-announce-strategic-research-collaboration-to-leverage-ai-technologies-for-evidence-synthesis-1032888769"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 22
 
 secured: "Yk7oAWf6B6rCtOXLIPsf/LnEe/N8ah9BpsV9cMRs4GLcmTOYWVaUR610Z/Gglaw8wcMXJZZ7EB/ztsfHCnLq+sue+hDBob1oSx6kT2o5gL3VPLVmsKIp3y0eXHbN7YIDQKG3KpBavw8e87Og5rjpz9p/8b/D0afwNqDzwVcMjQwXV5xDV0DzPm6S7ijkMRF+eLwTXa+5RG4KjX6w3+6ZU93fr+SFFNKLHIN2gsfn4JueUWxJNkEgnXKGG6MBZNsIlYo47M26WGaffqLgv4FFjdOXK3aKYCrsCQx+eJIN/MT6WIPNaIxFdKykgt7rBH3sf/Argr0uDmHsX7b1Eye/gpsXq8Mt9np6TQwDOHv96uyJsa0Dlhy6Nykypn03pJXexZuz6ZiizIH54JTvgE92tgMnV/4TduHCAFeV5EpyXnGolLPegqJZvI2XZhm4AhjvzBUK4HM6r0wITWpa3fXZqD1wuVBdAHmZDJCVjhhefWsiBpZMu468s5Jxq862qVFhNh3kGQJAc075Rf2tMSWTaQ==;mBrJPeXJLdmO4pknMogQ7g=="
 ---

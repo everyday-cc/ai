@@ -18,29 +18,31 @@ topics:
   - AI
 
 related:
-  - title: "Beyond Buzzwords: Glasswing AI palette guides startups navigating AI’s diverse terrain"
-    excerpt: "LLMs have dominated the news, but it won't be a defensible technology. Glasswing's AI Palette is a new framework for startup founders about AI and ML technologies."
-    publishedDateTime: 2023-12-12T11:36:00Z
-    webUrl: "https://venturebeat.com/ai/beyond-buzzwords-glasswing-ai-palette-guides-startups-navigating-ais-diverse-terrain/"
+  - title: "Hyperplane wants to bring AI to banks"
+    excerpt: "Hyperplane, a San Francisco-based startup that is building foundation models to help banks predict customer behavior, is coming out of stealth today by"
+    publishedDateTime: 2023-12-13T08:01:00Z
+    webUrl: "https://techcrunch.com/2023/12/13/hyperplane-wants-to-bring-ai-to-banks/"
+    ampWebUrl: "https://techcrunch.com/2023/12/13/hyperplane-wants-to-bring-ai-to-banks/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/13/hyperplane-wants-to-bring-ai-to-banks/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 59
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Feature-image-e1691600779755.png?w=1200&strip=all"
-        width: 1028
-        height: 514
+      - url: "https://techcrunch.com/wp-content/uploads/2023/12/GettyImages-1688426751.jpg?resize=1200,800"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Glasswing Ventures Unveils Proprietary Framework to Demystify Artificial Intelligence and Empower Business Leaders and Investors Alike"
-    excerpt: "Glasswing invests in early-stage startups building AI-native products for the enterprise and cybersecurity markets. The Glasswing AI Palette reflects the firm’s deep expertise as technologists, builders, operators, and originalist investors in frontier technology and AI."
-    publishedDateTime: 2023-12-12T12:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/glasswing-ventures-unveils-proprietary-framework-to-demystify-artificial-intelligence-and-empower-business-leaders-and-investors-alike-1032892598"
+  - title: "5 Things to Consider When Bringing Speech AI Into Your Business"
+    excerpt: "Imagine a world where mundane tasks, consuming 60-70% of our work hours, vanish into thin air. According to a McKinsey report, thanks to its evolving grasp of natural language, Generative AI has the potential to make this dream a reality quite soon."
+    publishedDateTime: 2023-12-11T19:03:00Z
+    webUrl: "https://www.unite.ai/5-things-to-consider-when-bringing-speech-ai-into-your-business/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 15
+      name: unite
+      domain: unite.ai
+    quality: 19
 
 secured: "fb4RutmOtQp+s89YwMpzZxl4buJoJBasQDsJzKX+cAXw9cBHpTLR2cxsbyqWMMNVrUi4+0/2GdGWp8XLp6eocjoDzE8aVo3z2kg1uL7CQKDb6VPdhBOlLKstP0DFWkSn77+45S7209HvKyXzedoNvVSwUn84cpe9Xy+e2qHgKxwzCNP0rz/uNlt6Gf5r/OCxv+f9C9dzksBNrQtYSupoLeveUNQIq7dMT4sqMXR/2Jec8QvK2HUEc+dvNN542k0SOtrthgkV1bXHtuMYVfaQ37Ae5buBWcWi77uRKXrKjMlEsXj6NK2OGdeEUFc9K27khKeOQ4DVNhi15j+plJTBFHMNSwbB2tNwaT/JpKSCzgi8/VHenWBzxJ+GHK8tT20rUwAFvVshuM9CmuDryRSi3dKTGflxFhJxz8RP/877dwmmIEp4VexQ2OLYcw9+RFsSDO2jQwtR2AZ+je+aIWludt/D3aB5a45vRcBSFOpW0YGW4SXjg3TH73irJKcvgFuS//y27bJrZqafbW37wqqHzg==;DBug7B1/zuYwdEV2GohBWQ=="
 ---

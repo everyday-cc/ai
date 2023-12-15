@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-12-15-isro-leveraging-artificial-intelligence-machine-learning-in-space-and-agriculture-sector.md",
-      "title": "ISRO Leveraging Artificial Intelligence & Machine Learning in Space and Agriculture Sector",
-      "excerpt": "ISRO continues to push the boundaries of space exploration, the integration of AI and ML stands as a testament to India's commitment to innovation and technological excellence in every sector.",
+      "path": "_news/2023-12-15-googles-tensorflow-revolutionizing-machine-learning-and-ai-development.md",
+      "title": "Google’s TensorFlow: Revolutionizing Machine Learning and AI Development",
+      "excerpt": "Introduction: In the ever-evolving landscape of artificial intelligence, Google’s TensorFlow stands as a beacon of innovation, revolutionizing the way we approach machine learning and AI development.",
       "sourceUrl": null,
-      "webUrl": "https://krishijagran.com/news/isro-leveraging-artificial-intelligence-machine-learning-in-space-and-agriculture-sector/",
-      "originalUrl": "https://krishijagran.com/news/isro-leveraging-artificial-intelligence-machine-learning-in-space-and-agriculture-sector/",
+      "webUrl": "https://techbullion.com/googles-tensorflow-revolutionizing-machine-learning-and-ai-development/",
+      "originalUrl": "https://techbullion.com/googles-tensorflow-revolutionizing-machine-learning-and-ai-development/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 137,
       "tags": null,
       "images": [
         {
-          "url": "https://kjcdn.gumlet.io/media/94852/nasa-earth-observatory.jpg",
-          "width": 825,
-          "height": 550,
+          "url": "https://techbullion.com/wp-content/uploads/2023/12/Googles-TensorFlow-Revolutionizing-Machine-Learning-and-AI-Development.jpg",
+          "width": 650,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://krishijagran.com/news/isro-leveraging-artificial-intelligence-machine-learning-in-space-and-agriculture-sector/?amp=1",
-      "cdnAmpWebUrl": "https://krishijagran-com.cdn.ampproject.org/c/s/krishijagran.com/news/isro-leveraging-artificial-intelligence-machine-learning-in-space-and-agriculture-sector/?amp=1",
-      "publishedDateTime": "2023-12-15T06:21:00Z",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-15T15:29:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "krishijagran",
-        "domain": "krishijagran.com",
+        "name": "Impacts",
+        "domain": "techbullion.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,9 +40,10 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "Machine Learning",
         "AI",
-        "Machine Learning"
+        "Google AI",
+        "TensorFlow"
       ]
     },
     {
@@ -107,7 +108,7 @@
       "originalUrl": "https://indianexpress.com/article/cities/ahmedabad/ai-machine-learning-to-lead-the-way-to-achieve-net-zero-experts-9068876/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -236,7 +237,7 @@
       "originalUrl": "https://www.crowdfundinsider.com/2023/12/218043-ai-machine-learning-startup-chalk-raises-10-million-in-seed-funding/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 114,
       "tags": null,
       "images": [
         {

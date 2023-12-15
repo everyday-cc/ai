@@ -37,14 +37,14 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 47
-  - title: "Opensource AI can outperform private models like Chat-GPT - ARK Invest research"
-    excerpt: "The need for performance in open-source AI models stems from the importance of democratizing access to generative AI."
-    publishedDateTime: 2023-12-14T08:48:00Z
-    webUrl: "https://cointelegraph.com/news/opensource-ai-outperform-private-models-chat-gpt-ark-invest-research"
+  - title: "Dell Upgrades Storage Offerings As Businesses Shift To AI-First Operating Model"
+    excerpt: "As more businesses see the competitive need to shift data into AI-led processes, Dell’s AI-Ready Data Platform combines its infrastructure and performance upgrades to speed up how quickly customers can train large language models."
+    publishedDateTime: 2023-12-11T21:05:00Z
+    webUrl: "https://www.crn.com/news/software/dell-ai-storage"
     type: article
     provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
+      name: CRN
+      domain: crn.com
     quality: 15
 
 secured: "MFve/q6PHsAZGviTX696H4DGVqmJM0YTuCehdoIDxyx4IyHWwff1PRM9dHJEzLX0pVnz3m/4tgI+GuB4bcWtAgpSg7F1djXQQAeDNuWQt294kvWX8WsJoDEKzrW5hHkyFm/TvHI/OdlHtZMPTXXYysSCaUDj2XrII7dHf7UwEuCSO2ksLdKdS7cZhqThqIfpHdZUW6uhZravkkpDWdCUBvmzdj0HKs4/9iitZ428A4bSvRe5Jb7JPz/eO6z3gW0bK2jGgVfCjq4nD7Gl4EGfKF3u3VjcMruV8sjszS3o4q9lEouXqr/KOLv+6gNhogGavuvZv1jzRfxI9oIdx0r3kGRYwlwgz2s5wxggjTlvX8Aw1b6bMIS4LEbJ9R4j4Doa7Gjf3KNwuHYyu0T7uvFDptrV7i7HEWB1u/ZJ2FpIK6HQNT2DEqcmzntlnA0lBaaIklP0t1Q7cItlh4Xc7fxc8g6zmF3zaV4KhRqHhyfXr/bxLcsUJAkWv9H9DWq0yTHSWsYeV3bFXR8lpg3wQSOOKA==;WWD3iI5msfJPAi2oVo5m4Q=="

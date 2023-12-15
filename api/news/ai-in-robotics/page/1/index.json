@@ -55,50 +55,6 @@
       ]
     },
     {
-      "path": "_news/2023-12-15-isro-leveraging-artificial-intelligence-machine-learning-in-space-and-agriculture-sector.md",
-      "title": "ISRO Leveraging Artificial Intelligence & Machine Learning in Space and Agriculture Sector",
-      "excerpt": "ISRO continues to push the boundaries of space exploration, the integration of AI and ML stands as a testament to India's commitment to innovation and technological excellence in every sector.",
-      "sourceUrl": null,
-      "webUrl": "https://krishijagran.com/news/isro-leveraging-artificial-intelligence-machine-learning-in-space-and-agriculture-sector/",
-      "originalUrl": "https://krishijagran.com/news/isro-leveraging-artificial-intelligence-machine-learning-in-space-and-agriculture-sector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kjcdn.gumlet.io/media/94852/nasa-earth-observatory.jpg",
-          "width": 825,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://krishijagran.com/news/isro-leveraging-artificial-intelligence-machine-learning-in-space-and-agriculture-sector/?amp=1",
-      "cdnAmpWebUrl": "https://krishijagran-com.cdn.ampproject.org/c/s/krishijagran.com/news/isro-leveraging-artificial-intelligence-machine-learning-in-space-and-agriculture-sector/?amp=1",
-      "publishedDateTime": "2023-12-15T06:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "krishijagran",
-        "domain": "krishijagran.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2023-12-15-xtalpi-and-abb-robotics-to-automate-laboratory-workstations-with-gofa-cobots.md",
       "title": "XtalPi and ABB Robotics to automate laboratory workstations with GoFa cobots",
       "excerpt": "XtalPi has used more than 100 ABB collaborative robots to build automated workstations for accelerating chemical and life sciences R&D.",
@@ -616,6 +572,49 @@
       "provider": {
         "name": "The Himalayan Times",
         "domain": "thehimalayantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-08-projections-aieee-robots-comes-to-the-coolidge-in-2024.md",
+      "title": "PROJECTIONS: AIEEE! ROBOTS! Comes to the Coolidge in 2024",
+      "excerpt": "Robots! Artificial intelligence is no longer the high-concept villain of some far-off future, but a major player in modern daily life and discourse. This January, we're taking a look at how ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.broadwayworld.com/boston/article/PROJECTIONS-AIEEE-ROBOTS-Comes-to-the-Coolidge-in-2024-20231208",
+      "originalUrl": "https://www.broadwayworld.com/boston/article/PROJECTIONS-AIEEE-ROBOTS-Comes-to-the-Coolidge-in-2024-20231208",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudimages.broadwayworld.com/columnpiccloud/PROJECTIONS-AIEEE-ROBOTS-Comes-to-the-Coolidge-in-2024-1702029305.jpg",
+          "width": 1250,
+          "height": 625,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-08T14:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BroadwayWorld",
+        "domain": "broadwayworld.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Google Gemini: Everything we know about the advanced AI model"
+    excerpt: "There are three versions of Gemini. The biggest is the Ultra model capable of \"seeing the world the way humans do\" through video, audio, text and images. The second is the Pro model, which is powering Google Bard and is similar in ability to the free ChatGPT."
+    publishedDateTime: 2023-12-11T15:37:00Z
+    webUrl: "https://www.tomsguide.com/features/google-gemini-everything-we-know-about-the-advanced-ai-model"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 41
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/TwMjTG2hMW5Z5McwPXyfsJ-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Everything about Gemini AI: Google's assistant, Nano, Ultra"
     excerpt: "Google has recently launched its own Artificial Intelligence (AI) called Gemini. It is a new model that is available on the Bard platform and will gradually be extended to other Google services. Learn more about its features and how you can test"
     publishedDateTime: 2023-12-12T14:20:00Z
@@ -42,20 +56,6 @@ related:
       name: The Conversation
       domain: theconversation.com
     quality: 36
-  - title: "Google plans to roll out Gemini across all its products"
-    excerpt: "Even Bing is outclassing it, so it has to do something. With the arrival of AI, the search engine Google has found itself in the embarrassing situation of being beaten by Microsoft’s Bing, and now the company says it will roll out its own AI Gemini across nearly its entire line of products."
-    publishedDateTime: 2023-12-15T10:35:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/58119-google-plans-to-roll-out-gemini-across-all-its-products"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 24
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/646ff92d19e9e08ab09b37970c879a6b_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
   - title: "How to Get the Most Out of Gemini in Google Bard"
     excerpt: "This guide is designed to show you how to get the most of out Gemini in Google Bard. Google, has recently implemented a significant enhancement to its"
     publishedDateTime: 2023-12-15T10:00:00Z
@@ -79,15 +79,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 19
-  - title: "Google's Gemini video was staged, which is kind of a relief"
-    excerpt: "Google just launched Gemini, and it also just admitted that its hands-on video was staged, which is both good and bad news."
-    publishedDateTime: 2023-12-11T19:49:00Z
-    webUrl: "https://www.androidheadlines.com/2023/12/googles-gemini-video-staged.html"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 4
 
 secured: "Mb+pReH6mC5fBIwtfT9OVVPDEqR6+5klZz9yyVx1JdLfkLPAZZoTiBdCc7ZjJ1/KVxtW2BiS9sDjZQf9NG3U+XYszrtCJtA+cNt+IF9rMEGvd1oMr70VbpMqK1GVUUmqYC46o6dOLBJXrIS/6xFeaOzNhyF/gzRiUb3ZAt3iripeo6C1bRhHagmRvl14rICXvzKPH2Ugcg/vGGdr8FDzKDEwYNAaTEvW+FYOStGGGav8/pd55F+CQAYo2G/0eySpkUiP0rKtmI/mvAMtgJ+sPPqx56AeCUIuemyGr8BLYSAYBgYYgx3bGnXh4h+HKiRrq44Eu9uXGrbyU6EdR0mI+Sfsng1k31Ma4+XoH13kvoqguHVRxnmQjyhY/MU+VaZcBBM1sm0C8L/dxJoj/PZXvjsAQPoM9DjmRdv3l7uw7Vg3n162QaaAVPy2/D5poZqoFui/56Qj6bPYD6/JWvFjnkNZ8RNqptadrd6omH3tKUb+rjd2sRnYV8VDxL560s2Wxg4kK0SeYz6FlWc/UcsEuA==;Q9c8ZljC9FgswlO/e4iKEg=="
 ---

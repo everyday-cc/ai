@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/h-r-block-introduces-ai-cha
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/h-r-block-introduces-ai-chatbot-that-will-answer-your-complex-tax-questions/"
 type: article
 quality: 85
-heat: 165
+heat: 155
 published: true
 
 provider:
@@ -115,15 +115,6 @@ related:
         width: 1280
         height: 731
         isCached: true
-  - title: "Next-Level Elearning: AI Chatbot Revolutionizes Academic Communication and Learning Processes"
-    excerpt: "Language technology company Tilde has developed a unique AI chatbot Digne for enhancing the university course 'Civil Protection'."
-    publishedDateTime: 2023-12-12T08:40:00Z
-    webUrl: "https://slator.com/next-level-elearning-ai-chatbot-revolutionizes-academic-communication-learning-processes/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 8
 
 secured: "zZEw948l6h22gpPcBEPopH5eduGlUSGb4k0BQegmXRvZ5uFMYsMgI5GVMqft6WIM/+LOeZUeoedlXVFk2XUMarwN7h8DUEzdAsK9R8um3uagFfaaaEvQePk/5sFpl4AQdSc8HM5M6vX2D2BoBSHgP9HZ/lmmU3ypM0rsNyT6S0fbazi3FgiXtAWinr1hL8V4iTkA7sQfrQzgq+tthH9TBNWHsNyYMVBjraZiLIt6HxyQh3KApsoA0tbi0qquE+Ay+7sJI3VBEm/cOOLO9NqGJE98KR4tBH43uqp/7p2mgpbIalRNrb+6CYf71DQc0+cRGwWawz9d1apLDjBsDdpMC1hfhKDsHu1yhIbMTbr4crk=;AbZCgfqNdGYKCSHIvXB7sA=="
 ---

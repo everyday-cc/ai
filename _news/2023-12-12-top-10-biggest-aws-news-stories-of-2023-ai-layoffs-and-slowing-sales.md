@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com/news/cloud/top-10-biggest-aws-news-stories-of-
 webUrl: "https://www.crn.com/news/cloud/top-10-biggest-aws-news-stories-of-2023-ai-layoffs-and-sales"
 type: article
 quality: 53
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -21,6 +21,20 @@ topics:
   - AI Hardware
 
 related:
+  - title: "The 10 Biggest Music Law Stories of 2023: #MeToo, AI, Ed Sheeran, Young Thug, Taylor Swift & More"
+    excerpt: "The year was filled with dark allegations, cutting-edge legal questions raised by new technologies and record label contract changes spurred by the industry’s biggest star."
+    publishedDateTime: 2023-12-15T18:31:00Z
+    webUrl: "https://www.billboard.com/lists/biggest-music-legal-news-2023-ai-taylor-swift-young-thug-lizzo/"
+    type: article
+    provider:
+      name: Billboard
+      domain: billboard.com
+    quality: 24
+    images:
+      - url: "https://www.billboard.com/wp-content/uploads/2023/12/Biggest-Legal-Stories-billboard-1548.jpg?w=1024"
+        width: 1024
+        height: 677
+        isCached: true
   - title: "Our 10 Most-Read Stories Of 2023, From Charting The VC Downturn To Layoffs To Some Very Large AI Deals"
     excerpt: "AI explosion, bank failures and layoffs, and our readers came to us for a look through our unique data lens to make sense of it all. Here are Crunchbase News' 10 most-read stories of the year."
     publishedDateTime: 2023-12-15T12:00:00Z

@@ -46,6 +46,15 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 39
+  - title: "OPEN Health and Nested Knowledge announce strategic research collaboration to leverage AI technologies for evidence synthesis"
+    excerpt: "This collaboration underscores OPEN Health's unwavering commitment to leveraging innovative solutions and AI technologies for superior client delivery,” said Richard Jones, President of OPEN Health Evidence & Access."
+    publishedDateTime: 2023-12-11T10:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/open-health-and-nested-knowledge-announce-strategic-research-collaboration-to-leverage-ai-technologies-for-evidence-synthesis-1032888769"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 22
 
 secured: "RRcrqkZsV4Q53NXWv+gJyDFlJRMXJoV4NGwR2E1oz/mUBmN7LTxGe1d71ndvf/vUU5viXNtQKX0PkM2uzDUqRUQ3a/u8XFZcOaDe3vrexbTCQDIEJe2lDXn6MYMTeyBBL9hnHN+ZAK/iEP7mAjZAvptBIcMHkI8HU0bJI1jK/KqAaHBkovg3HdIaTtoCALFc4FHn62vh6YqdoMegGYiKOGHOzYKgqhsQr2tZB5VcfsJ00yaUDAFDtyqZ577E0QsrmCAIZVFgzPCIwvA9u13DBk6QuA2XwF//CX/XpI4L9LRTUCKR67aIpKfosriPUX+yCghrzdQDxs4xQOKVTkjqWajkLY/LUE5qO+98mJ9A+so=;Y0iCnaVr0/P17yxn6uhOuw=="
 ---

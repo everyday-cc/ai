@@ -20,45 +20,63 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "Future-ready CHROs: the AI revolution in banking HR"
-    excerpt: "The banking sector is experiencing a paradigm shift, with Chief Human Resources Officers (CHROs) at the centre of the change. Traditional recruitment strategies are giving way to"
-    publishedDateTime: 2023-12-12T11:23:00Z
-    webUrl: "https://www.ft.com/partnercontent/workday/future-ready-chros-the-ai-revolution-in-banking-hr.html"
+  - title: "Google’s TensorFlow: Revolutionizing Machine Learning and AI Development"
+    excerpt: "Introduction: In the ever-evolving landscape of artificial intelligence, Google’s TensorFlow stands as a beacon of innovation, revolutionizing the way we approach machine learning and AI development."
+    publishedDateTime: 2023-12-15T15:29:00Z
+    webUrl: "https://techbullion.com/googles-tensorflow-revolutionizing-machine-learning-and-ai-development/"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 54
+      name: Impacts
+      domain: techbullion.com
+    quality: 87
     images:
-      - url: "https://ft.com/partnercontent/workday/img/hero2.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/Googles-TensorFlow-Revolutionizing-Machine-Learning-and-AI-Development.jpg"
+        width: 650
+        height: 450
         isCached: true
-  - title: "Revolutionizing Global Communications: The Role Of AI In Streamlining The Cannabis And Psychedelic Industries"
-    excerpt: "In an era where the cannabis and psychedelic industries are rapidly expanding, mastering the art of global communication is more than a necessity - it’s the key to success."
-    publishedDateTime: 2023-12-12T15:24:00Z
-    webUrl: "https://www.benzinga.com/markets/cannabis/23/12/36201104/revolutionizing-global-communications-the-role-of-ai-in-streamlining-the-cannabis-and-psychedeli"
-    ampWebUrl: "https://www.benzinga.com/amp/content/36201104"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36201104"
+  - title: "ISRO Leveraging Artificial Intelligence & Machine Learning in Space and Agriculture Sector"
+    excerpt: "ISRO continues to push the boundaries of space exploration, the integration of AI and ML stands as a testament to India's commitment to innovation and technological excellence in every sector."
+    publishedDateTime: 2023-12-15T06:21:00Z
+    webUrl: "https://krishijagran.com/news/isro-leveraging-artificial-intelligence-machine-learning-in-space-and-agriculture-sector/"
+    ampWebUrl: "https://krishijagran.com/news/isro-leveraging-artificial-intelligence-machine-learning-in-space-and-agriculture-sector/?amp=1"
+    cdnAmpWebUrl: "https://krishijagran-com.cdn.ampproject.org/c/s/krishijagran.com/news/isro-leveraging-artificial-intelligence-machine-learning-in-space-and-agriculture-sector/?amp=1"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 40
+      name: krishijagran
+      domain: krishijagran.com
+    quality: 66
     images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/12/12/cannabis_twitter_28.png?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
+      - url: "https://kjcdn.gumlet.io/media/94852/nasa-earth-observatory.jpg"
+        width: 825
+        height: 550
         isCached: true
-  - title: "Revolutionising Logistics: The Age Of AI Truck Loading Robots"
-    excerpt: "Holiday shipping is already in full swing as the end of the year approaches. But, before products are displayed on a supermarket shelf or dispatched from a"
-    publishedDateTime: 2023-12-11T11:50:00Z
-    webUrl: "https://www.electronicsforu.com/special/revolutionizing-logistics-age-of-ai-truck-loading-robots"
+  - title: "AI Platform Keeps Mining Machinery Working With Deep Learning"
+    excerpt: "An Israeli company has created an AI platform for maintaining mining machinery, anticipating potential breakdowns before they happen"
+    publishedDateTime: 2023-12-13T14:34:00Z
+    webUrl: "https://nocamels.com/2023/12/ai-platform-keeps-mining-machinery-working-with-deep-learning/"
     type: article
     provider:
-      name: electronicsforu
-      domain: electronicsforu.com
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
     quality: 34
+  - title: "The Evolution: Google’s Artificial Intelligence and Its Impact on Virtual Assistants"
+    excerpt: "Introduction: In the dynamic landscape of technology, one phenomenon has emerged as a trailblazer, shaping the way we interact with information – Google’s Artificial Intelligence (AI). This transformative force has left an indelible mark,"
+    publishedDateTime: 2023-12-15T14:44:00Z
+    webUrl: "https://techbullion.com/the-evolution-googles-artificial-intelligence-and-its-impact-on-virtual-assistants/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 10
+  - title: "Next-Level Elearning: AI Chatbot Revolutionizes Academic Communication and Learning Processes"
+    excerpt: "Language technology company Tilde has developed a unique AI chatbot Digne for enhancing the university course 'Civil Protection'."
+    publishedDateTime: 2023-12-12T08:40:00Z
+    webUrl: "https://slator.com/next-level-elearning-ai-chatbot-revolutionizes-academic-communication-learning-processes/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 8
 
 secured: "P9a3gVErm17680h7zja697mBYtwXNaO9uZ4QTrrhsxBGUCelQCWr6M4pJXL0LdBXi1UZx+RyfqsN1vj93LyCtmda2PdPuRRNZSsdX7jWW+680q+2c1SdCUYboD/jNg42Ma02m5e/JtVX4bsKj5iQReu7FhRRamr2n4QOLz3Vd8dkZaHO6hqgYid2Sq+GMbrT28hgswB9bMBdrIfFmu/5z2GVuLShkqK9wDqA8OP2Hzol+8dCNutv9JgR6s0GBxIAAIeh3wu+r9a5HcQA6Q5Yhk5yCWggOhGPvoo1c641B7xj0BBbYR9RWy0J8MuflmeKSDIAzwAMoxyRXs1igi2WFyAOqpove4039lVPfMlAbYc=;oIv90FtjJQxiRXQ1dItpGg=="
 ---

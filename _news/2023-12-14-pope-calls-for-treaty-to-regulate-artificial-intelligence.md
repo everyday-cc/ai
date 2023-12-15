@@ -26,6 +26,31 @@ images:
     isCached: true
 
 related:
+  - title: "Five open-source AI tools to know"
+    excerpt: "While open-source AI offers enticing possibilities, its free accessibility poses risks that organizations must navigate carefully.\nThe post Five open-source AI tools to know appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-12-15T17:24:27Z
+    webUrl: "https://www.ibm.com/blog/five-open-source-ai-tools-to-know/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 99
+  - title: "Generative AI is off to a rough start"
+    excerpt: "As the big vendors overstate the capabilities of their generative AI projects, maybe it’s time to use open source to keep them honest."
+    publishedDateTime: 2023-12-11T10:00:00Z
+    webUrl: "https://www.infoworld.com/article/3711414/generative-ai-is-off-to-a-rough-start.html"
+    ampWebUrl: "https://www.infoworld.com/article/3711414/generative-ai-is-off-to-a-rough-start.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711414/generative-ai-is-off-to-a-rough-start.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2021/12/28/10/10_untruthful_lies_liar_untrustworthy-100781303-large-100915050-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Relevance AI’s low-code platform enables businesses to build AI teams"
     excerpt: "However, only businesses with large engineering teams can build their own AI workforces. An Australia-based startup, Relevance AI, wants to help companies of all sizes build custom AI agents for any use case or function to maximize productivity with its ..."
     publishedDateTime: 2023-12-11T22:31:00Z
@@ -39,22 +64,6 @@ related:
     quality: 87
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1188605237.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Hyperplane wants to bring AI to banks"
-    excerpt: "Hyperplane, a San Francisco-based startup that is building foundation models to help banks predict customer behavior, is coming out of stealth today by"
-    publishedDateTime: 2023-12-13T08:01:00Z
-    webUrl: "https://techcrunch.com/2023/12/13/hyperplane-wants-to-bring-ai-to-banks/"
-    ampWebUrl: "https://techcrunch.com/2023/12/13/hyperplane-wants-to-bring-ai-to-banks/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/13/hyperplane-wants-to-bring-ai-to-banks/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/12/GettyImages-1688426751.jpg?resize=1200,800"
         width: 1200
         height: 800
         isCached: true
@@ -74,188 +83,110 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Advances In AI, Yet Many Unresolved Issues"
-    excerpt: "In a short year, we have seen countless products, platforms, and services—an entire industry—born, reborn, and shaped constantly by advances that seem to keep coming. GPTs have emerged as platforms to build on and build with,"
-    publishedDateTime: 2023-12-11T02:34:00Z
-    webUrl: "https://www.forbes.com/sites/arunshastri/2023/12/10/advances-in-ai-yet-many-unresolved-issues/"
-    ampWebUrl: "https://www.forbes.com/sites/arunshastri/2023/12/10/advances-in-ai-yet-many-unresolved-issues/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arunshastri/2023/12/10/advances-in-ai-yet-many-unresolved-issues/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-  - title: "Cohere to help businesses build AI using Slack, Google Drive data"
-    excerpt: "OpenAI-competitor Cohere launched \"connectors,\" which allow companies to connect third-party application data to Cohere’s LLM."
-    publishedDateTime: 2023-12-12T17:00:00Z
-    webUrl: "https://venturebeat.com/ai/cohere-to-help-businesses-build-ai-using-slack-google-drive-data/"
+  - title: "Have a good idea for an AI startup? OpenAI wants to give you $1 million"
+    excerpt: "Even if you haven't written a line of code or raised a single dollar and your idea is still largely in your head, OpenAI wants you to apply."
+    publishedDateTime: 2023-12-14T16:13:00Z
+    webUrl: "https://venturebeat.com/ai/have-a-good-idea-for-an-ai-startup-openai-wants-to-give-you-1-million/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
     quality: 67
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/12/Untitled-design-2023-12-12T105755.661.png?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/12/cfr0z3n_vector_art_line_art_high_contrast_a_cloud_of_dollar_bil_ed0f7165-ab90-4861-96ce-48a41ee111e1.png?w=1200&strip=all"
         width: 1200
-        height: 750
+        height: 672
         isCached: true
-  - title: "How to build custom Copilots with Azure AI Studio"
-    excerpt: "Azure AI Studio is not just about starting a project; it’s about nurturing it through every stage. “Accelerate decision-making and enhance efficiency across your enterprise using powerful AI tools and machine learning models. Explore the pricing ..."
-    publishedDateTime: 2023-12-12T00:00:00Z
-    webUrl: "https://www.geeky-gadgets.com/build-custom-copilots-with-azure/"
+  - title: "Five things you need to know about the EU’s new AI Act"
+    excerpt: "The EU is poised to effectively become the world’s AI police, creating binding rules on transparency, ethics, and more."
+    publishedDateTime: 2023-12-11T17:56:00Z
+    webUrl: "https://www.technologyreview.com/2023/12/11/1084942/five-things-you-need-to-know-about-the-eus-new-ai-act/"
+    ampWebUrl: "https://www.technologyreview.com/2023/12/11/1084942/five-things-you-need-to-know-about-the-eus-new-ai-act/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/11/1084942/five-things-you-need-to-know-about-the-eus-new-ai-act/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/12/eu-ai-flags2.jpg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
+  - title: "25+ Free AI tools to improve your productivity and workflows"
+    excerpt: "Whether you’re a professional looking to streamline your workflow or an enthusiast eager to explore new creative avenues, there’s a wealth of free AI tools available to help you achieve your goals. These tools cover a variety of applications,"
+    publishedDateTime: 2023-12-14T13:05:00Z
+    webUrl: "https://www.geeky-gadgets.com/free-ai-tool-apps/"
     type: article
     provider:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
-    quality: 54
+    quality: 39
     images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/build-custom-Copilots-with-Azure.jpg"
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/Over-25-Free-AI-tools-to-help-you-improve-your-workflows.jpg"
         width: 1280
         height: 717
         isCached: true
-  - title: "How AI Can Revolutionize Your Business"
-    excerpt: "Throughout history, there have been key inventions that have revolutionized everyday life, such as the automobile and electricity. We are currently living amid another such revolution: the rise of AI."
-    publishedDateTime: 2023-12-11T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/11/how-ai-can-revolutionize-your-business/"
+  - title: "How To Keep AI From Stealing the Sound of Your Voice"
+    excerpt: "A new technology called AntiFake prevents the theft of the sound of your voice by making it more difficult for AI tools to analyze vocal recordings"
+    publishedDateTime: 2023-12-14T12:04:00Z
+    webUrl: "https://www.scientificamerican.com/article/how-to-keep-ai-from-stealing-the-sound-of-your-voice/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Apple quietly releases MLX AI framework to build foundation AI models"
-    excerpt: "Apple's machine learning research team has quietly introduced and released a new machine learning framework called MLX, designed to optimize the"
-    publishedDateTime: 2023-12-11T11:41:00Z
-    webUrl: "https://www.geeky-gadgets.com/apple-mlx-ai-framework/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 41
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 39
     images:
-      - url: "https://www.geeky-gadgets.com/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FFplJsVd2dTk%2F0.jpg"
-        width: 480
-        height: 360
+      - url: "https://static.scientificamerican.com/sciam/cache/file/AA71A9F7-F6EB-4F6B-BDCBFE460FA0842C_source.jpg?w=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Intel debuts AI-accelerated Core Ultra and 5th Gen Xeon chips to enable AI to run in any location"
-    excerpt: "Intel debuts AI-accelerated Core Ultra and 5th Gen Xeon chips to enable AI to run in any location - SiliconANGLE"
-    publishedDateTime: 2023-12-14T15:00:00Z
-    webUrl: "https://siliconangle.com/2023/12/14/intel-debuts-ai-accelerated-core-ultra-5th-gen-xeon-chips-will-enable-ai-run-location/"
+  - title: "Pope, once a victim of AI-generated imagery, calls for treaty to regulate artificial intelligence"
+    excerpt: "Earlier this year, an AI-generated image of him wearing a luxury white puffer jacket went viral, showing just how quickly realistic deepfake imagery can spread online."
+    publishedDateTime: 2023-12-14T22:47:00Z
+    webUrl: "https://www.bostonglobe.com/2023/12/14/world/pope-once-victim-ai-generated-imagery-calls-treaty-regulate-artificial-intelligence/"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 39
+    images:
+      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/jawMyvYAlTL64xtfAzfzhMaYsuI=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/O6U5RLNTEBGZCS2NZYU3LYDSWM.JPEG"
+        width: 506
+        height: 318
+        isCached: true
+  - title: "Google Ventures adds partner to back AI, open source startups"
+    excerpt: "Venture capital firm GV, backed by Google parent Alphabet Inc, has hired Michael McBride from software firm GitLab as its latest investment partner to focus on open-source and AI startups, the firm told Reuters."
+    publishedDateTime: 2023-12-13T15:08:00Z
+    webUrl: "https://www.aol.com/google-ventures-adds-partner-back-130843690.html?ref=biztoc.com"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/bbb13e44128dae8d8b5b62788584cc3e"
+        width: 800
+        height: 557
+        isCached: true
+  - title: "Open-source generative AI startup Mistral AI raises $415M in funding"
+    excerpt: "French generative artificial intelligence startup Mistral AI announced today it has closed on its second bumper funding round of the year, raising 385 million euros, or around $415 million, in a deal led by prominent venture capital firms Andreessen Horowitz and Lightspeed Venture Partners."
+    publishedDateTime: 2023-12-11T01:47:00Z
+    webUrl: "https://siliconangle.com/2023/12/10/open-source-generative-ai-startup-mistral-ai-raises-415m-funding/"
     type: article
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 41
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/Intel-Core-Ultra-2.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
-  - title: "Governing AI for business benefit"
-    excerpt: "Last month, a group of professionals and industry experts came together to launch an AI Governance website in response to a survey that indicated governance is a key focus although half of businesses are already using some form of AI."
-    publishedDateTime: 2023-12-11T00:30:00Z
-    webUrl: "https://www.reseller.co.nz/brand-post/content/709735/governing-ai-for-business-benefit/"
+    quality: 17
+  - title: "Opensource AI can outperform private models like Chat-GPT - ARK Invest research"
+    excerpt: "The need for performance in open-source AI models stems from the importance of democratizing access to generative AI."
+    publishedDateTime: 2023-12-14T08:48:00Z
+    webUrl: "https://cointelegraph.com/news/opensource-ai-outperform-private-models-chat-gpt-ark-invest-research"
     type: article
     provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 39
-    images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/ai-byline3.jpg"
-        width: 472
-        height: 315
-        isCached: true
-  - title: "VERSES AI hires Peter Provost to help launch developer platform"
-    excerpt: "Former Microsoft Product Leader Peter Provost is to help launch the VERSES AI Developer Platform – bringing over 40 years of coding experience to the project. As VP of Product, Developer Platforms, Provost will lead the strategic development and enhancement of Genius - VERSES’ Intelligence-as-a-Service platform,"
-    publishedDateTime: 2023-12-11T08:20:00Z
-    webUrl: "https://www.intelligentcio.com/north-america/2023/12/11/verses-ai-hires-peter-provost-to-help-launch-developer-platform/"
-    type: article
-    provider:
-      name: intelligentcio
-      domain: intelligentcio.com
-    quality: 39
-    images:
-      - url: "https://www.intelligentcio.com/north-america/wp-content/uploads/sites/45/2023/12/AdobeStock_288304009-1.jpg"
-        width: 1000
-        height: 450
-        isCached: true
-  - title: "Using artificial intelligence to discover therapeutic antibodies"
-    excerpt: "Former EMBL staff scientist Kashif Sadiq will head DenovAI, which will use artificial intelligence and computational biophysics approaches to make discovery of therapeutic antibodies and miniproteins broader,"
-    publishedDateTime: 2023-12-14T00:01:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/1011226"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/7a30f321-3074-4dfc-b596-98c2af06a4c6/Rendition/low-res/Content/Public"
-        width: 700
-        height: 467
-        isCached: true
-  - title: "Durable cements $14M to build AI-powered tools for small businesses in service industries"
-    excerpt: "Builders, bakers and body conditioners might not be the first trades that come to mind when you think about how AI is transforming how we work. But today a startup that’s building AI-powered business tools specifically for them — and the thousands of ..."
-    publishedDateTime: 2023-12-12T13:45:00Z
-    webUrl: "https://techcrunch.com/2023/12/12/durable-cements-14m-to-build-ai-powered-tools-for-small-businesses-in-service-industries/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 38
-  - title: "Leverage These AI Techniques to Stay Ahead in 2024"
-    excerpt: "The benefits of AI, and the ease of its access, are clear. \"You no longer need to be a data scientist, an engineer, or even a programmer. It is 1997 again; but instead of the Internet, the technology that is changing industry is AI,\" said AI entrepreneur Michael Puscar."
-    publishedDateTime: 2023-12-11T07:48:00Z
-    webUrl: "https://www.inc.com/katie-konyn/leverage-these-ai-techniques-to-stay-ahead-in-2024.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1700140485_535546_egjvz1.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Citrusx emerges from stealth to make AI explainable, streamline compliance for enterprises"
-    excerpt: "Citrusx claims its technology ensures 100% transparency and can lead to 82% faster time to production, enabling teams to seize the AI opportunity."
-    publishedDateTime: 2023-12-11T19:27:00Z
-    webUrl: "https://venturebeat.com/ai/citrusx-emerges-from-stealth-to-make-ai-explainable-streamline-compliance-for-enterprises/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 37
-  - title: "How copyright law can improve artificial intelligence"
-    excerpt: "We acknowledge Aboriginal and Torres Strait Islander peoples as the First Australians and Traditional Custodians of the lands where we live, learn and work."
-    publishedDateTime: 2023-12-14T00:01:00Z
-    webUrl: "https://www.abc.net.au/listen/programs/drawingroom/how-copyright-law-can-improve-artificial-intelligence/103230824"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 37
-    images:
-      - url: "https://live-production.wcms.abc-cdn.net.au/6db0896bf5d27df57ed9b711c0860594?impolicy=wcms_crop_resize&cropH=1671&cropW=2966&xPos=25&yPos=0&width=862&height=485"
-        width: 862
-        height: 485
-        isCached: true
-  - title: "Dell Upgrades Storage Offerings As Businesses Shift To AI-First Operating Model"
-    excerpt: "As more businesses see the competitive need to shift data into AI-led processes, Dell’s AI-Ready Data Platform combines its infrastructure and performance upgrades to speed up how quickly customers can train large language models."
-    publishedDateTime: 2023-12-11T21:05:00Z
-    webUrl: "https://www.crn.com/news/software/dell-ai-storage"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
+      name: CoinTelegraph
+      domain: cointelegraph.com
     quality: 15
-  - title: "Startup Mesh Ai launches ‘first AI-enabled’ workplace mental health solution for Microsoft Teams and Microsoft 365"
-    excerpt: "Australian startup Mesh Ai has announced the release of Simpatico Teams, a “pioneering AI-driven mental health application” for Microsoft Teams, Microsoft 365 and Copilot for Microsoft 365. Mesh Ai says the application ”will help employers better manage the growing psychological challenges of the"
-    publishedDateTime: 2023-12-14T13:29:00Z
-    webUrl: "https://itwire.com/business-it-news/enterprise-solutions/startup-mesh-ai-launches-‘first-ai-enabled’-workplace-mental-health-solution-for-microsoft-teams-and-microsoft-365.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 12
 
 secured: "V0WqW7VXOGGAhllMLSCEFjpYVsUPj6zVdm1FhthepKEkjDp6IVsvNaHwMABsVXCgLjTRIfb8jd3fzjwtqPQxUnMF2hsoPVxy2//fpQZV9nFeVKBUeQO6fTKGTfSYTaFx4kbOeHVazA+bnWgbuoL957KFw56kyAZErF8gFUSS/rvMALJKxPaQUbVkEVViWm/lYpGZX0KeeUH/oa7ebzyApvF7OD+0si+ItYVOOxMgS2D8szbNeFa9J3xUrBLZGf3GB5iXD5QWNP/Nfi80KFnn+i0lOo1/hAw07FJpE1Z/ex+Ac76NnTP1suw0uykEylSOAcd2oJPOOjZ1E42ujiTg6Sl3eoiKr/P9LN83ZaDSfbhCaPEsnuIo1H5T9FdQXZsJTO/fmPN9si1i/osOWKIvqOrYfCLTQIJAWxhTczyfch5YJB4tNSh2Z8GYRru/1VhWiRco+omeTxYcaFPOT/fnPbZhUzSI0MQp/KsETz/Y7gqxUmgIki9v/qX0LXHymCFuqfelydaMr0MuOuQ/epai3w==;kY2Nl6CvgZeOTo30zdXVQA=="
 ---

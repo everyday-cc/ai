@@ -7,7 +7,7 @@ originalUrl: "https://www.bizjournals.com/portland/inno/stories/news/2023/12/13/
 webUrl: "https://www.bizjournals.com/portland/inno/stories/news/2023/12/13/verify-venture-studio-settlement-intelligence.html"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -16,22 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Google Ventures adds partner to back AI, open source startups"
-    excerpt: "Venture capital firm GV, backed by Google parent Alphabet Inc, has hired Michael McBride from software firm GitLab as its latest investment partner to focus on open-source and AI startups, the firm told Reuters."
-    publishedDateTime: 2023-12-13T15:08:00Z
-    webUrl: "https://www.aol.com/google-ventures-adds-partner-back-130843690.html?ref=biztoc.com"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 37
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/bbb13e44128dae8d8b5b62788584cc3e"
-        width: 800
-        height: 557
-        isCached: true
 
 secured: "NNEJHp1WY9oMe++Qs7WN7Bl/5M0NgbupVXloiiRSBHP/bebOcbyDb8PAEj2kasJ+h4YEAU7upCZ2IgYKvYPkvjKEz9eX8HRrElk7+pwo4a11UJMfL1yM12BL++/m2QkrmdHs2DD0agi4MC44rpodp3I0b5S7D4mOXTvVovDKx641buTiyxq7BFhgFekMMpe+7wIWLQfiPM1/5RVDis3fN3zR2stpokID+WGAuME57+eoUlWy71Zu/xF7R6HlSSyL3PprOpm76I+AMtZL1iC2Wo+ogDQaG1qGjUuyULpAe3X6VGO20aLlnwtF+MRLn/4OosYAL5zc3pY7EN6eq4zmDkZtmdCUpv5eNPBnyo94e7QEtdyNZS+ZBcsUzj19DtvuI7Fef4RbZx1VL5KnUSaF2M8PkMMgs5IdhoFil3DVN/VRtyRyXuRPtxeveA1B47Yag1OY6GsrAHGaqIdg5qzZI9E4ngW+bz8YW0i92g3wsj8Ccj296Zq/Hy4EeW4zvqVkvTxTbibsqg2S51cBAfG+CA==;YWqiVUZI3flx0XJ5sfp4kQ=="
 ---

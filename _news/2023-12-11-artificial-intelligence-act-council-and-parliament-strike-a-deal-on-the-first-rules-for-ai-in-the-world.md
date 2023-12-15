@@ -7,7 +7,7 @@ originalUrl: "https://www.eureporter.co/internet-2/artificial-intelligence/2023/
 webUrl: "https://www.eureporter.co/internet-2/artificial-intelligence/2023/12/11/artificial-intelligence-act-council-and-parliament-strike-a-deal-on-the-first-rules-for-ai-in-the-world/"
 type: article
 quality: 15
-heat: 15
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,17 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Political Deal on the EU AI Act: A Milestone but the Journey Continues"
+    excerpt: "With France and Germany particularly interested in protecting the AI start-ups which have emerged in their jurisdictions, certain EU Member States were vehemently opposed to including any provisions regulating such models. The European Parliament ..."
+    publishedDateTime: 2023-12-14T00:01:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/political-deal-on-the-eu-ai-act-a-6726631/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 17
 
 secured: "B87Ksv3FBCkhoESSLh4u8kHRX9QDU0qsFmbW+xLHy9osRPKgQPJgb1QmSoa2ss3aC4XOPSkhy0YV3RAlQI8/HC/+Yy2LR8EFEh20vr9KrtpW8VUV1T0oID0JlC5yqlCTZts0N7TbkAzpxlbi+9vyAffi0Csm+4hQZbCCG/ac59wESSE5Ues2dyy7e1cH4v1l9mTH/TDzm7FYW+Nroja6v7jWpL3yePUZ0MbJN4Lq3wyM4SRf+bUkFPMTRhjgHne5YmwO1jbvJjab1nIMEP08gJemUVuiHvvCk+AIcn6tTCDrpZqL65y/wYLJZ3stzVzrtBy0LRdFE8CnWkmbIV5TOXl/ElAkrwoPveuBY9St2y+LApu42Eo6fMvMFK5Wj3T9LWQYQjgmXeVnwSDcPq0xcUcOcWGfaKGIWlUEsA5QunawqiFpWBsc1POmU2U2eb6KegPj9O+KGFFLgU3/szfAfuR4AMTwVAIcxjBKlZ1hkhi71d63Z/4B8lgzE+/Dt/izSZVkywSrnG4FxPIKp2Uw4A==;mrJoXpFXXPxKYxw9L651+A=="
 ---

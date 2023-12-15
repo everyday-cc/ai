@@ -71,6 +71,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Navigating AI in Healthcare: Dr. Donald Macfarlane's Warning on AI-Driven Medical Note-Taking"
+    excerpt: "Dr. Donald Macfarlane warns against the use of AI-driven tools in medical note-taking due to fabrications that will negatively impact patient"
+    publishedDateTime: 2023-12-15T18:11:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/navigating-ai-in-healthcare-dr.-donald-macfarlanes-warning-on-aidriven-medical-notetaking-1032905719"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 55
   - title: "How AI therapy is filling gaps in mental health care"
     excerpt: "And for some users, they’ve been beneficial. 80 percent of people who used ChatGPT for mental health advice reported it was a good alternative for therapy, according to Business Wire. The majority of Americans don’t believe AI therapy will help more than it hurts, but that’s not stopping innovations in artificial intelligence and therapy."
     publishedDateTime: 2023-12-11T03:35:00Z

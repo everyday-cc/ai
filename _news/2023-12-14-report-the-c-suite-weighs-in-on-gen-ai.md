@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Google Reportedly Working on ‘Pixie’ AI Assistant, AR Glasses"
+    excerpt: "Google is gearing up for its next breakthrough by integrating the Gemini foundational model into upcoming products, including a potential AI assistant."
+    publishedDateTime: 2023-12-15T18:01:00Z
+    webUrl: "https://www.iphoneincanada.ca/2023/12/15/google-working-on-pixie-ai-assistant-ar-glasses/"
+    type: article
+    provider:
+      name: iPhone in Canada
+      domain: iphoneincanada.ca
+    quality: 39
+    images:
+      - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2023/12/assistant-with-bard.jpg"
+        width: 800
+        height: 451
+        isCached: true
 
 secured: "Z5F/x5fqqkxdgL8HyzfLIj84OvqgFmNtFRWijHsp7mL+L8e3Da3OiBz3091KD2XZJwO+igv8dPbVWY3XnCrRb/+AerR79hKUs7QrfS/ylW1l03z3gWNuDu3rmPO2N0EZqYR6qRojaSu3hqdLEZyKb/a+zsHZVui4ELVWCkJM+g2b7wbYpRWxeGcmAQIzPZk89gocd01YKyeA7/OZqPjSkT4HrmIeFQhfn1XpNbn100XuX6r0IYjUaQQIzxkKZPmBiIeEBTyi2jac7AA3a1wnHA7ljtZg8cBYBdq0TAaCG+QkC2DsLfAm6pYf2rFVrQXyIwhrkp8PX9JxJFRzFW43sAMr3wRX2Qrf8Hi7xxYyh4E1AOXVRVDeThJj7WzlXocVloXyzgYEFQx7LBK/CG41ts/5vb7wXgikq3OO4kP6t0JdXIA0esuCYQpy2rKmNK2Tst689Cu1PAUUdqk9HPnFAMiT4A6faeDD4E1Kkcw0WqscPfJgwPqOv1SaZLILWoxcUcgvSHzXDnaVejwJZen7Sg==;WvC/IPWIM3hzC6Ft2Gopqw=="
 ---

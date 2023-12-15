@@ -68,15 +68,6 @@ related:
         width: 696
         height: 399
         isCached: true
-  - title: "AI Platform Keeps Mining Machinery Working With Deep Learning"
-    excerpt: "An Israeli company has created an AI platform for maintaining mining machinery, anticipating potential breakdowns before they happen"
-    publishedDateTime: 2023-12-13T14:34:00Z
-    webUrl: "https://nocamels.com/2023/12/ai-platform-keeps-mining-machinery-working-with-deep-learning/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 34
   - title: "Medefy Health Raises $10 million Series A Funding to Deliver Real-Time Healthcare Benefits Navigation through Human-Led Support"
     excerpt: "Medefy Health, a mobile-first healthcare benefits navigation platform dedicated to improving the employee health benefits experience through real-time guidance, today announced that it has raised $10 million in Series A funding led by Mercury Fund with participation from Advantage Capital."
     publishedDateTime: 2023-12-11T16:20:00Z
@@ -91,15 +82,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Open-source generative AI startup Mistral AI raises $415M in funding"
-    excerpt: "French generative artificial intelligence startup Mistral AI announced today it has closed on its second bumper funding round of the year, raising 385 million euros, or around $415 million, in a deal led by prominent venture capital firms Andreessen Horowitz and Lightspeed Venture Partners."
-    publishedDateTime: 2023-12-11T01:47:00Z
-    webUrl: "https://siliconangle.com/2023/12/10/open-source-generative-ai-startup-mistral-ai-raises-415m-funding/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 17
 
 secured: "PPgkzfuTsEZLteUvv7QkgBv+TdqWEz1Y6p7xXpLaKP/NAu/KEHvO5toHwvArXNe3ConOWe22lw54EHmGwcWmMH0gQGf3m22hnQ+7WGciMnPdXTwPRTboIQ3MomV0zL3i4FJYpSPh1fRwCeP4OSMDgy/jxkYswMvLm1xb9jR+rBV1In6MFFSArF5kGIvYjUbJzQ2cDA7deIOC/DLkh36rAuScpY2CefdviI6i+zN6zs063iIh65829yzhjyaZTWq+A6eqQv0gBuk7kCP34pXelwdNKK8dsTDPgP7ZmnUgKW0vcncR9zKkHnmt6cepWaEpWoUMUcjhwLAg/diA9oylm/qqHAJaEZyd323Wlswx+W0=;jUh5yoAnkeF35XXFHlkRbg=="
 ---

@@ -112,15 +112,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 34
-  - title: "Next-Level Elearning: AI Chatbot Revolutionizes Academic Communication and Learning Processes"
-    excerpt: "Language technology company Tilde has developed a unique AI chatbot Digne for enhancing the university course 'Civil Protection'."
-    publishedDateTime: 2023-12-12T08:40:00Z
-    webUrl: "https://slator.com/next-level-elearning-ai-chatbot-revolutionizes-academic-communication-learning-processes/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 8
 
 secured: "AH9A/u1Fa9UUxz2lmTk0HElPDmedzkKa11G/R0yiUq66bjfSAFd2R7P6EuO4f1zcrgI4PqenH0zsg1vPrW/PYijo5/Osknu4BtqeIZUlGs2ETiKKRK+LwOjUhQDIJYC1wWAwt8lyYXsWjU3ocfB9MosFCtarhWqhIuvHN/jNMXUD8CCrayOkM6F3Oh4jQe0vVu5oD9QBR0ZUs0TvDXz5KGRv6LlulTDlc3Fu8kD5Xi1fgy1p8nVVVDWferpddwtiGq+HF1BGv26IfisvRa+7bfHeJm5iVQYBnYw/CbFIanUE8szZRBFKWRCKwH1E7k29sv31IbwMxuTZoT0z+LEUhHxXPXyoLrkEIGdBn2pB6vA=;R3V6h8Ac1bgFcW8R4dQPUQ=="
 ---

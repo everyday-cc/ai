@@ -72,6 +72,15 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Startup Mesh Ai launches ‘first AI-enabled’ workplace mental health solution for Microsoft Teams and Microsoft 365"
+    excerpt: "Australian startup Mesh Ai has announced the release of Simpatico Teams, a “pioneering AI-driven mental health application” for Microsoft Teams, Microsoft 365 and Copilot for Microsoft 365. Mesh Ai says the application ”will help employers better manage the growing psychological challenges of the"
+    publishedDateTime: 2023-12-14T13:29:00Z
+    webUrl: "https://itwire.com/business-it-news/enterprise-solutions/startup-mesh-ai-launches-‘first-ai-enabled’-workplace-mental-health-solution-for-microsoft-teams-and-microsoft-365.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 12
 
 secured: "Tvg90Df8nijvQIHRolB3kCMYAd3DkLPEXhlPYl2cXnLGnuqDbIt2hspXLr/TQDngdsQ689L1tATnnDXTPtY8IPl3H4Al9Ac39zCHjo+geF2z0iNALs357P7IGAPE9jyOBqYLI8Cb1SPk9kpEkfb11eaDEAbly29tAohPFxwFPNLZ/7Nhc8podLarL5a1nXfFgq/QGlxWyge0EOf/dJpNdnElJ9LMhvjcbjA90FlGyDzvT5xl9PrjbIE2eU4MUUa9fBAI4XkTUeiw/wtn6n94+J0lWee6F6GmrDrwMywKq9rJKDTNsd48UO331QBBke7QVs0fu/az9A/1Krl57RanxVp6xVZBW2HE1Yt7LT1wG2o=;FpkuC0Ng3gvFe1/EpPcpOQ=="
 ---

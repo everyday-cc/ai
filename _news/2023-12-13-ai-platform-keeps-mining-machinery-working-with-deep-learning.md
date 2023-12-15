@@ -19,87 +19,63 @@ topics:
   - AI
 
 related:
-  - title: "AI, Machine Learning Startup Chalk Raises $10 Million in Seed Funding"
-    excerpt: "Artificial intelligence (AI) and machine learning (ML) startup Chalk has raised $10 million in a Seed round, according to a note from the firm. The funding"
-    publishedDateTime: 2023-12-13T01:41:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/12/218043-ai-machine-learning-startup-chalk-raises-10-million-in-seed-funding/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/12/218043-ai-machine-learning-startup-chalk-raises-10-million-in-seed-funding/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/12/218043-ai-machine-learning-startup-chalk-raises-10-million-in-seed-funding/amp/"
+  - title: "Google’s TensorFlow: Revolutionizing Machine Learning and AI Development"
+    excerpt: "Introduction: In the ever-evolving landscape of artificial intelligence, Google’s TensorFlow stands as a beacon of innovation, revolutionizing the way we approach machine learning and AI development."
+    publishedDateTime: 2023-12-15T15:29:00Z
+    webUrl: "https://techbullion.com/googles-tensorflow-revolutionizing-machine-learning-and-ai-development/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 74
+      name: Impacts
+      domain: techbullion.com
+    quality: 87
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2023/12/Chalk-co-founders-Elliot-Marx-left-Andrew-Moreland-center-and-Marc-Freed-Finnegan-right.jpg"
-        width: 1000
-        height: 768
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/Googles-TensorFlow-Revolutionizing-Machine-Learning-and-AI-Development.jpg"
+        width: 650
+        height: 450
         isCached: true
-  - title: "Chalk Secures $10M Seed Funding to Power Machine Learning and AI"
-    excerpt: "Chalk, the data platform for machine learning, announced today that it has raised $10 million in seed funding led by General Catalyst, Unusual Ventures, and Xfund. Chalk’s computation layer and LLM toolchain enable world-class teams to orchestrate data for real-time decisions."
-    publishedDateTime: 2023-12-12T18:00:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/chalk-secures-10m-seed-funding-to-power-machine-learning-and-ai/article_5ebab127-751b-51df-a570-708dcfa32ae0.html"
+  - title: "ISRO Leveraging Artificial Intelligence & Machine Learning in Space and Agriculture Sector"
+    excerpt: "ISRO continues to push the boundaries of space exploration, the integration of AI and ML stands as a testament to India's commitment to innovation and technological excellence in every sector."
+    publishedDateTime: 2023-12-15T06:21:00Z
+    webUrl: "https://krishijagran.com/news/isro-leveraging-artificial-intelligence-machine-learning-in-space-and-agriculture-sector/"
+    ampWebUrl: "https://krishijagran.com/news/isro-leveraging-artificial-intelligence-machine-learning-in-space-and-agriculture-sector/?amp=1"
+    cdnAmpWebUrl: "https://krishijagran-com.cdn.ampproject.org/c/s/krishijagran.com/news/isro-leveraging-artificial-intelligence-machine-learning-in-space-and-agriculture-sector/?amp=1"
     type: article
     provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 54
+      name: krishijagran
+      domain: krishijagran.com
+    quality: 66
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/0/be/0beb99d8-e74e-52b5-978c-5d2bc7b9c880/6578af7a6a592.image.jpg?crop=1641%2C862%2C0%2C201&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://kjcdn.gumlet.io/media/94852/nasa-earth-observatory.jpg"
+        width: 825
+        height: 550
         isCached: true
-  - title: "Chinese AI Startup 01.AI Seeks $200 Million in Funding"
-    excerpt: "Beijing-based artificial intelligence (AI) startup 01.AI is raising $200 million in a new funding round. This comes on the heels"
-    publishedDateTime: 2023-12-15T06:29:00Z
-    webUrl: "https://techreport.com/news/chinese-ai-startup-01-ai-seeks-200-million-in-funding/"
+  - title: "Artificial intelligence is revolutionizing medical research"
+    excerpt: "Artificial Intelligence (AI ... Once AI can de-code how speech is generated within the neural network, Greger envisions that patients will be able to mentally “speak” and have those thoughts translated, again by AI, into actual language."
+    publishedDateTime: 2023-12-15T00:00:00Z
+    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=64265.php"
     type: article
     provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 37
-    images:
-      - url: "https://techreport.com/wp-content/uploads/2023/12/cq5dam.medium.1584.1584.jpeg"
-        width: 1584
-        height: 990
-        isCached: true
-  - title: "Mistral, a French AI Start-Up, Was Valued at $2 Billion in Funding Round"
-    excerpt: "Mistral AI, the 22-people French start-up founded seven months ago by researchers from Google and Meta, raised $415 million (or 385 million euros) at a valuation of $2 billion. Investors include the Silicon Valley venture capital firms Andreessen Horowitz and Lightspeed Venture Partners."
-    publishedDateTime: 2023-12-15T06:43:00Z
-    webUrl: "https://iblnews.org/mistral-a-french-ai-start-up-is-valued-at-2-billion-in-funding-round/"
+      name: Nanowerk
+      domain: nanowerk.com
+    quality: 21
+  - title: "The Evolution: Google’s Artificial Intelligence and Its Impact on Virtual Assistants"
+    excerpt: "Introduction: In the dynamic landscape of technology, one phenomenon has emerged as a trailblazer, shaping the way we interact with information – Google’s Artificial Intelligence (AI). This transformative force has left an indelible mark,"
+    publishedDateTime: 2023-12-15T14:44:00Z
+    webUrl: "https://techbullion.com/the-evolution-googles-artificial-intelligence-and-its-impact-on-virtual-assistants/"
     type: article
     provider:
-      name: IBL News
-      domain: iblnews.org
-    quality: 36
-    images:
-      - url: "https://iblnews.org/wp-content/uploads/2023/12/mistralteam-696x399.jpg"
-        width: 696
-        height: 399
-        isCached: true
-  - title: "Medefy Health Raises $10 million Series A Funding to Deliver Real-Time Healthcare Benefits Navigation through Human-Led Support"
-    excerpt: "Medefy Health, a mobile-first healthcare benefits navigation platform dedicated to improving the employee health benefits experience through real-time guidance, today announced that it has raised $10 million in Series A funding led by Mercury Fund with participation from Advantage Capital."
-    publishedDateTime: 2023-12-11T16:20:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/12/11/9931588.htm"
+      name: Impacts
+      domain: techbullion.com
+    quality: 10
+  - title: "Next-Level Elearning: AI Chatbot Revolutionizes Academic Communication and Learning Processes"
+    excerpt: "Language technology company Tilde has developed a unique AI chatbot Digne for enhancing the university course 'Civil Protection'."
+    publishedDateTime: 2023-12-12T08:40:00Z
+    webUrl: "https://slator.com/next-level-elearning-ai-chatbot-revolutionizes-academic-communication-learning-processes/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 26
-    images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "Open-source generative AI startup Mistral AI raises $415M in funding"
-    excerpt: "French generative artificial intelligence startup Mistral AI announced today it has closed on its second bumper funding round of the year, raising 385 million euros, or around $415 million, in a deal led by prominent venture capital firms Andreessen Horowitz and Lightspeed Venture Partners."
-    publishedDateTime: 2023-12-11T01:47:00Z
-    webUrl: "https://siliconangle.com/2023/12/10/open-source-generative-ai-startup-mistral-ai-raises-415m-funding/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 17
+      name: Slator
+      domain: slator.com
+    quality: 8
 
 secured: "4lPRek2JaZ+XkVeGiuZsfaVLHBokItHnaSSJgBkX775bhuRGAsYAa06/phBRTlP98l0pAtMgvMI5p5eToSaxpv8OOiIanGeGX22z9pQ9KmOj2d1RbN9/N2qVTn4C8N28Am7XXqNFJAAnXSa5sgj91Y2VcSyIZBBqQmSmy8O3Z+PIUXTg0fphEnnAKcovTqQjHsPx76nb1TYtaAMvd4QSMQ0MgXi+dH/+VrYUUBJGRWdu2w9Vv+BeuX62A6EPl+e3lgiUoVUlJHGOZVw2UqxiS7s0EK08nvZYURmcuVygBC52i2eEYXuUrcmT8oZkDUwz0jkVUeATSNKrDms15pGnR3RLUc+6SQtAtsdYPbOkMqomjvVFoWwC9pMWdV8ziB5aMzxF0XjHtly8Wzcna3/nOzvUf3jize/4iTfOxn05QGk82Iq32ipFh2TaRPdtRmDEhz5/2lbqoupGoUVfkg1r2BBfS11VsNI2c10sDoUnKY2SQidD400/bSf/bWr3YbxwCsjMVtmhtaXim3QHGm7tPA==;6keWK8X+79T0raY4zfLQjQ=="
 ---

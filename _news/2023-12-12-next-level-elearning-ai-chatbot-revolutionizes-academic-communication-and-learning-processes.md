@@ -19,107 +19,63 @@ topics:
   - AI
 
 related:
-  - title: "H&R Block introduces AI chatbot that will answer your complex tax questions"
-    excerpt: "H&R Block said its goal with this new AI-enabled feature is to to help customers understand how their taxes work, rather than just being told where to put a certain number. The company hopes the advice from AI Tax Assist helps keep customers on the H&R Block site, instead of turning to Google search."
-    publishedDateTime: 2023-12-15T03:11:00Z
-    webUrl: "https://www.zdnet.com/article/h-r-block-introduces-ai-chatbot-that-will-answer-your-complex-tax-questions/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/h-r-block-introduces-ai-chatbot-that-will-answer-your-complex-tax-questions/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/h-r-block-introduces-ai-chatbot-that-will-answer-your-complex-tax-questions/"
+  - title: "Google’s TensorFlow: Revolutionizing Machine Learning and AI Development"
+    excerpt: "Introduction: In the ever-evolving landscape of artificial intelligence, Google’s TensorFlow stands as a beacon of innovation, revolutionizing the way we approach machine learning and AI development."
+    publishedDateTime: 2023-12-15T15:29:00Z
+    webUrl: "https://techbullion.com/googles-tensorflow-revolutionizing-machine-learning-and-ai-development/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 85
+      name: Impacts
+      domain: techbullion.com
+    quality: 87
     images:
-      - url: "https://www.zdnet.com/a/img/resize/22572debc72d09be85c3ee9a64b6ba99f9125edc/2023/12/15/137a600d-209f-431c-b4e9-a5d90cf20a11/gettyimages-88160312.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/Googles-TensorFlow-Revolutionizing-Machine-Learning-and-AI-Development.jpg"
+        width: 650
+        height: 450
         isCached: true
-  - title: "Google's Bard vs OpenAI's ChatGPT: Which of the rival AI chatbots is better? – Euronews"
-    excerpt: "Google’s answer to ChatGPT is here - but is it as good as OpenAI’s global phenomenon? Euronews Next put them through their paces. Google has made its"
-    publishedDateTime: 2023-12-12T02:41:00Z
-    webUrl: "https://www.inferse.com/836356/googles-bard-vs-openais-chatgpt-which-of-the-rival-ai-chatbots-is-better-euronews/"
+  - title: "ISRO Leveraging Artificial Intelligence & Machine Learning in Space and Agriculture Sector"
+    excerpt: "ISRO continues to push the boundaries of space exploration, the integration of AI and ML stands as a testament to India's commitment to innovation and technological excellence in every sector."
+    publishedDateTime: 2023-12-15T06:21:00Z
+    webUrl: "https://krishijagran.com/news/isro-leveraging-artificial-intelligence-machine-learning-in-space-and-agriculture-sector/"
+    ampWebUrl: "https://krishijagran.com/news/isro-leveraging-artificial-intelligence-machine-learning-in-space-and-agriculture-sector/?amp=1"
+    cdnAmpWebUrl: "https://krishijagran-com.cdn.ampproject.org/c/s/krishijagran.com/news/isro-leveraging-artificial-intelligence-machine-learning-in-space-and-agriculture-sector/?amp=1"
     type: article
     provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 48
+      name: krishijagran
+      domain: krishijagran.com
+    quality: 66
     images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/12/wp-header-logo-6663.png"
-        width: 1000
-        height: 563
+      - url: "https://kjcdn.gumlet.io/media/94852/nasa-earth-observatory.jpg"
+        width: 825
+        height: 550
         isCached: true
-  - title: "Google's AI chatbot Bard gives drab answers, but it does one thing better than ChatGPT – Mashable"
-    excerpt: "Compared to the other chatbots on the market, Google's Bard is the boring one. In a more or less positive assessment, Vox called"
-    publishedDateTime: 2023-12-13T14:29:00Z
-    webUrl: "https://www.inferse.com/838409/googles-ai-chatbot-bard-gives-drab-answers-but-it-does-one-thing-better-than-chatgpt-mashable/"
+  - title: "AI Platform Keeps Mining Machinery Working With Deep Learning"
+    excerpt: "An Israeli company has created an AI platform for maintaining mining machinery, anticipating potential breakdowns before they happen"
+    publishedDateTime: 2023-12-13T14:34:00Z
+    webUrl: "https://nocamels.com/2023/12/ai-platform-keeps-mining-machinery-working-with-deep-learning/"
     type: article
     provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 43
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/12/wp-header-logo-7371.png"
-        width: 1200
-        height: 1200
-        isCached: true
-  - title: "Pennsylvania candidate tests AI chatbot as voter outreach tool in congressional campaign"
-    excerpt: "Pennsylvania Democrat Shamaine Daniels' congressional campaign is using a phone-banking tool powered by artificial intelligence. The chatbot engages in two-way conversations."
-    publishedDateTime: 2023-12-13T12:54:00Z
-    webUrl: "https://www.foxnews.com/politics/pennsylvania-candidate-tests-ai-chatbot-voter-outreach-tool-congressional-campaign"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 38
-  - title: "Elon Musk was mocked by his new AI-powered chatbot"
-    excerpt: "Aravind Srinivas, boss of Perplexity AI, asked Elon Musk's chatbot to \"roast\" its creator — and Grok didn't hold back. The chatbot called the Tesla and X"
-    publishedDateTime: 2023-12-11T16:27:00Z
-    webUrl: "https://rollingout.com/2023/12/11/elon-musk-new-ai-powered-chatbot/"
-    type: article
-    provider:
-      name: Rolling Out
-      domain: rollingout.com
-    quality: 37
-    images:
-      - url: "https://rollingout.com/wp-content/uploads/2023/12/1650967619cropped3474x2605.jpg"
-        width: 1000
-        height: 650
-        isCached: true
-  - title: "Elon Musk’s Grok AI Chatbot Enters India"
-    excerpt: "Elon Musk's AI startup is rolling out Grok to 46 other countries including Australia, Canada, Malaysia, New Zealand and Singapore among others"
-    publishedDateTime: 2023-12-14T06:17:00Z
-    webUrl: "https://inc42.com/buzz/elon-musks-grok-ai-chatbot-enters-india/"
-    ampWebUrl: "https://inc42.com/buzz/elon-musks-grok-ai-chatbot-enters-india/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/elon-musks-grok-ai-chatbot-enters-india/amp/"
-    type: article
-    provider:
-      name: inc42
-      domain: inc42.com
-    quality: 37
-  - title: "Google proposes Project Ellmann, a chatbot that intimately knows you"
-    excerpt: "While Google is busy integrating its generative AI model Gemini into Pixel, Bard, and other existing products, developers are proposing an entirely new one, codenamed Project Ellmann. Ellmann aims to grab a \"bird's-eye view\" of users' lives by looking at ..."
-    publishedDateTime: 2023-12-11T17:21:00Z
-    webUrl: "https://www.techspot.com/news/101161-google-proposes-project-ellmann-chatbot-intimately-knows-you.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
     quality: 34
-  - title: "How to Answer Complex Questions with Google Bard"
-    excerpt: "This guild is designed to show you how you can answer complex questions with the help of Google Bard and other AI assistants. Google Bard, a large language model (LLM) developed by Google AI, has quickly gained popularity for its ability to provide ..."
-    publishedDateTime: 2023-12-13T10:00:00Z
-    webUrl: "https://www.geeky-gadgets.com/how-to-answer-complex-questions-with-google-bard/"
+  - title: "Artificial intelligence is revolutionizing medical research"
+    excerpt: "Artificial Intelligence (AI ... Once AI can de-code how speech is generated within the neural network, Greger envisions that patients will be able to mentally “speak” and have those thoughts translated, again by AI, into actual language."
+    publishedDateTime: 2023-12-15T00:00:00Z
+    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=64265.php"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 24
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/Answer-Complex-Questions.jpg"
-        width: 1280
-        height: 731
-        isCached: true
+      name: Nanowerk
+      domain: nanowerk.com
+    quality: 21
+  - title: "The Evolution: Google’s Artificial Intelligence and Its Impact on Virtual Assistants"
+    excerpt: "Introduction: In the dynamic landscape of technology, one phenomenon has emerged as a trailblazer, shaping the way we interact with information – Google’s Artificial Intelligence (AI). This transformative force has left an indelible mark,"
+    publishedDateTime: 2023-12-15T14:44:00Z
+    webUrl: "https://techbullion.com/the-evolution-googles-artificial-intelligence-and-its-impact-on-virtual-assistants/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 10
 
 secured: "b7i3td2A05iiCibMjd/y6bTY4kQBj1K4s+qte7chZ1ZnkiKaHmc8qdcp7zFG/WWa8ggcNkY7A72WkL5BY6hgLBG+MKEXaqjPt7Y+cBQiwnY5nsy6qSgt+UB1PWepXxzPX+dOlEI1YXAC7kFA4eAbDtIwajbchOg9K1hvFcH7Oaf85zP9UqNdsa0DXX1LLL3K7Vuqs9nE0nes0UmmcA8faAwppP+1085FsTaYDWr3JBgir8Gg3O2JGa3X6QH9emTPoxQQgfV88QpQhfBfqyeTkUPyRRFcOYvnO32jWFb5fbrzeulOLsJka3G8J6yewsUpfzIA2iwBF3rlVqiWiobtpMjBHUj0CYgaqeP+Z9GwvZOftO8zW/JeDUjWjxOsNB9uBshDG99RHPcUk78sXctzX1XDLtviBxZpMZG1w2/QqTdEitW/eoMEaFIfg7XYDtcp4mwcOaTK66L2OmD1H+IpIcZya09wYeeuL6T4I2Qd2t5+HXNtoapOhmIcH0/avxC9HIp7oqSX2n0OOlv7Ivf0rg==;9Q/o2ZrHk75Cj+e4d39Irg=="
 ---
