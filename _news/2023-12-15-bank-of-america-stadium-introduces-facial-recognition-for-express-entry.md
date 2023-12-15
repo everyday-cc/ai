@@ -2,19 +2,19 @@
 category: news
 title: "Bank of America Stadium introduces facial recognition for express entry"
 excerpt: "New technology at Bank of America Stadium will allow certain fans to enter the stadium without having to scan their tickets."
-publishedDateTime: 2023-12-15T00:22:00Z
-originalUrl: "https://www.wltx.com/article/sports/nfl/panthers/bank-of-america-stadium-facial-recognition-panthers-fans-tickets-silver-club/275-5f0ca2cc-5c2a-4828-8fda-3321fd64cf7e"
-webUrl: "https://www.wltx.com/article/sports/nfl/panthers/bank-of-america-stadium-facial-recognition-panthers-fans-tickets-silver-club/275-5f0ca2cc-5c2a-4828-8fda-3321fd64cf7e"
-ampWebUrl: "https://www.wltx.com/amp/article/sports/nfl/bank-of-america-stadium-facial-recognition-panthers-fans-tickets-silver-club/275-5f0ca2cc-5c2a-4828-8fda-3321fd64cf7e"
-cdnAmpWebUrl: "https://www-wltx-com.cdn.ampproject.org/c/s/www.wltx.com/amp/article/sports/nfl/bank-of-america-stadium-facial-recognition-panthers-fans-tickets-silver-club/275-5f0ca2cc-5c2a-4828-8fda-3321fd64cf7e"
+publishedDateTime: 2023-12-15T10:52:00Z
+originalUrl: "https://www.wfmynews2.com/article/sports/nfl/panthers/bank-of-america-stadium-facial-recognition-panthers-fans-tickets-silver-club/275-5f0ca2cc-5c2a-4828-8fda-3321fd64cf7e"
+webUrl: "https://www.wfmynews2.com/article/sports/nfl/panthers/bank-of-america-stadium-facial-recognition-panthers-fans-tickets-silver-club/275-5f0ca2cc-5c2a-4828-8fda-3321fd64cf7e"
+ampWebUrl: "https://www.wfmynews2.com/amp/article/sports/nfl/panthers/bank-of-america-stadium-facial-recognition-panthers-fans-tickets-silver-club/275-5f0ca2cc-5c2a-4828-8fda-3321fd64cf7e"
+cdnAmpWebUrl: "https://www-wfmynews2-com.cdn.ampproject.org/c/s/www.wfmynews2.com/amp/article/sports/nfl/panthers/bank-of-america-stadium-facial-recognition-panthers-fans-tickets-silver-club/275-5f0ca2cc-5c2a-4828-8fda-3321fd64cf7e"
 type: article
 quality: 76
 heat: 126
 published: true
 
 provider:
-  name: WLTX19
-  domain: wltx.com
+  name: WFMY News2
+  domain: wfmynews2.com
 
 topics:
   - Computer Vision
@@ -22,7 +22,7 @@ topics:
   - AI in Finance
 
 images:
-  - url: "https://media.wltx.com/assets/WCNC/images/f916cab2-7809-4606-a90a-02908ceed316/f916cab2-7809-4606-a90a-02908ceed316_1140x641.jpg"
+  - url: "https://media.wfmynews2.com/assets/WCNC/images/f916cab2-7809-4606-a90a-02908ceed316/f916cab2-7809-4606-a90a-02908ceed316_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
@@ -89,6 +89,6 @@ related:
       domain: bizjournals.com
     quality: 0
 
-secured: "8NI9aDS2RVqfJikHmQs3Q1dX9RUNtzohqlxJajCLp7HzlJ4qxby8wd4ctb7ATxUOr68BZFesKWWUXmpFFgVF1ZYxKvZuoGi3NMBJnoJGTWBK0IHYwS5q8a0RD1i+o2bEK5nCNadwRKaZz7IuAVwwmNihHsyeBwk9jYVVSVqdC+Dbk0W1I1xu65Tx/Q+6pUgyiPEFG9HImIRb3p3GrWkd1OCKfnZC3Itdq1gW6+8XjkEuOTbjJ4kYVqZhJQfIK0aQvPxzeFnXW0CbtbMQ9vb+FwcO4CKEutMxi/yEqMUG8j5mX5s/ApCHNiVufhCYjzjYloObnMESQa3S6EE90c7YjfZlN2nThkhW/kvrbl3QIqC9352GFdCFFnr4/cUpVGJ/RJX8P7HF8g91WZ5qSb+C2wBoESW9MTxmt4l4DLluPlpCMhYpuapdJskBOkA9JgdwPu123/xlDZWpmI6nByLeLM3TYYy0fcmL/GV1SgPdw7VHHcOFWZrz1bnx2Gj8ZaAQ/sdRF2dp4x7Ev0LRnv78IA==;iOczi0sMFeoS7i++MgzQUQ=="
+secured: "3A6NajuKDUinWB7ZCl1+XGET0HkmwC4ZYD552DnpgBEgGIy9QgPELxLsKyX9F72yZSxGJ68oHeMFITcLzQOKavu9t3dN2CuqSqO0qSjzI8jl8CGDXLP9tTbnNDpwUsXY8EH7o3cKhXaIlZ/Ybmy4AqNiGStdYB9nXsnZ6gFZVR8cdEpudfb1/TrnMC9rRcp6ybYzBHaxUazFpXj7EClUN4iUQ1AlNYEIS8UO4Pkq9VJORjitQsNu8TKhlv4T5kJHHKy/x+30mYmq54AdPuoURaQcKwV7y5h+IKEDAcsEQfV3+gv6tQPAi/5Qly99K20eD+q1LzSDmF3Ffwp1MGBr6tezt0L86lmbpSxBfG/xNLY=;ceN8lgCDppsRT95qPSb4Dg=="
 ---
 

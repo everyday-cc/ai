@@ -2,6 +2,213 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-12-14-overhyped-digital-health-executive-anti-predictions-for-healthcare-in-2024.md",
+      "title": "Overhyped? Digital Health Executive Anti-Predictions For Healthcare In 2024",
+      "excerpt": "Will General Catalyst’s plans for health system acquisition come to fruition in 2024? Will GenAI live up to its hype as healthcare’s ultimate complexity liberator?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sethjoseph/2023/12/14/overhyped-digital-health-executive-anti-predictions-for-healthcare-in-2024/",
+      "originalUrl": "https://www.forbes.com/sites/sethjoseph/2023/12/14/overhyped-digital-health-executive-anti-predictions-for-healthcare-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/657afb952417cb668643d77c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 919,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sethjoseph/2023/12/14/overhyped-digital-health-executive-anti-predictions-for-healthcare-in-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sethjoseph/2023/12/14/overhyped-digital-health-executive-anti-predictions-for-healthcare-in-2024/amp/",
+      "publishedDateTime": "2023-12-14T15:06:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-14-4-best-dividends-for-a-2024-ai-bubble.md",
+      "title": "4 Best Dividends For A 2024 AI Bubble",
+      "excerpt": "Is the AI mania substance or puff? Probably a bit of both. But there’s money to be made as the hype train rolls on. Let’s do it smartly—with dividends.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brettowens/2023/12/14/4-best-dividends-for-a-2024-ai-bubble/",
+      "originalUrl": "https://www.forbes.com/sites/brettowens/2023/12/14/4-best-dividends-for-a-2024-ai-bubble/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b5515e45aeec9aede9bcfd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brettowens/2023/12/14/4-best-dividends-for-a-2024-ai-bubble/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brettowens/2023/12/14/4-best-dividends-for-a-2024-ai-bubble/amp/",
+      "publishedDateTime": "2023-12-14T15:04:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-14-ai-scientists-make-exciting-discovery-using-chatbots-to-solve-maths-problems.md",
+      "title": "AI scientists make ‘exciting’ discovery using chatbots to solve maths problems",
+      "excerpt": "Breakthrough suggests technology behind ChatGPT and Bard can generate information that goes beyond human knowledge",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/science/2023/dec/14/ai-scientists-make-exciting-discovery-using-chatbots-to-solve-maths-problems",
+      "originalUrl": "https://www.theguardian.com/science/2023/dec/14/ai-scientists-make-exciting-discovery-using-chatbots-to-solve-maths-problems",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/5e67e2b4e8098dfaafa375a6fbe2425d738a4965/0_43_3000_1800/master/3000.jpg?width=620&quality=85&auto=format&fit=max&s=435ab186909670a8b9470a0626575d88",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/science/2023/dec/14/ai-scientists-make-exciting-discovery-using-chatbots-to-solve-maths-problems",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/science/2023/dec/14/ai-scientists-make-exciting-discovery-using-chatbots-to-solve-maths-problems",
+      "publishedDateTime": "2023-12-14T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-14-intel-core-ultra-processors-debut-for-ai-powered-pcs.md",
+      "title": "Intel Core Ultra processors debut for AI-powered PCs",
+      "excerpt": "Intel launched its Intel Core Ultra processors for AI-powered PCs at its AI Everywhere event today. The big chip maker said these processors spearhead a new era in computing, offering unparalleled power efficiency, superior compute and graphics performance, and an unprecedented AI PC experience to mobile platforms and edge devices.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/intel-core-ultra-processors-debut-for-ai-powered-pcs/",
+      "originalUrl": "https://venturebeat.com/ai/intel-core-ultra-processors-debut-for-ai-powered-pcs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 257,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/12/intel-core-ultra.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-14T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-14-new-lenovo-thinkpad-x1-carbon-hints-at-new-2024-trend-ai-laptops.md",
       "title": "New Lenovo ThinkPad X1 Carbon hints at new 2024 trend: AI laptops",
       "excerpt": "The new ThinkPad X1 Carbon Gen 12 is refreshed with Intel's next-generation AI-capable chips called Intel Core Ultra processors, which feature an NPU (in addition the CPU and GPU), that's capable of \"inferencing,\" a fancy way of saying that it helps AI make predictions.",
@@ -10,7 +217,7 @@
       "originalUrl": "https://mashable.com/article/lenovo-thinkpad-x1-carbon-gen-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -86,64 +293,21 @@
       ]
     },
     {
-      "path": "_news/2023-12-14-intel-core-ultra-meteor-lake-mobile-cpus-launch-with-gaming-grade-igpu-and-ai-brawn.md",
-      "title": "Intel Core Ultra Meteor Lake Mobile CPUs Launch With Gaming Grade iGPU And AI Brawn",
-      "excerpt": "If you're reading this website right now, we probably don't have to explain to you that Intel's new Core Ultra processors launching today were codenamed Meteor Lake, and that they represent not only Intel's first \"disaggregated\" CPUs built from disparate tiles,",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/intel-core-ultra-mtl-launch",
-      "originalUrl": "https://hothardware.com/news/intel-core-ultra-mtl-launch",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 228,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/63353/content/hero-intel-core-ultra.jpg",
-          "width": 708,
-          "height": 398,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/intel-core-ultra-mtl-launch",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/intel-core-ultra-mtl-launch",
-      "publishedDateTime": "2023-12-14T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-12-14-robotics-in-the-engineroom.md",
       "title": "Robotics in the EngineRoom",
-      "excerpt": "When talk turns to autonomous ships, a first question always centers on how routine and emergency repair and maintenance will be",
+      "excerpt": "When talk turns to autonomous ships, a first question always centers on how routine and emergency repair and maintenance will be conducted.",
       "sourceUrl": null,
-      "webUrl": "https://www.oedigital.com/news/510133-robotics-in-the-engineroom",
-      "originalUrl": "https://www.oedigital.com/news/510133-robotics-in-the-engineroom",
+      "webUrl": "https://www.marinelink.com/news/robotics-engineroom-510133",
+      "originalUrl": "https://www.marinelink.com/news/robotics-engineroom-510133",
       "featuredContent": null,
       "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://images.oedigital.com/images/maritime/w537h300pad/image-courtesy-146221.jpg",
-          "width": 537,
-          "height": 300,
+          "url": "https://images.marinelink.com/images/maritime/w800h600pad/image-courtesy-fmd-146221.jpg",
+          "width": 800,
+          "height": 539,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -151,13 +315,13 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.oedigital.com/amp/news/510133-robotics-in-the-engineroom",
-      "cdnAmpWebUrl": "https://www-oedigital-com.cdn.ampproject.org/c/s/www.oedigital.com/amp/news/510133-robotics-in-the-engineroom",
-      "publishedDateTime": "2023-12-14T10:55:00Z",
+      "ampWebUrl": "https://www.marinelink.com/amp/news/robotics-engineroom-510133",
+      "cdnAmpWebUrl": "https://www-marinelink-com.cdn.ampproject.org/c/s/www.marinelink.com/amp/news/robotics-engineroom-510133",
+      "publishedDateTime": "2023-12-14T11:10:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "oedigital.com",
-        "domain": "oedigital.com",
+        "name": "Marine Link",
+        "domain": "marinelink.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -180,7 +344,7 @@
       "originalUrl": "https://www.zdnet.com/article/surprise-ai-chatbots-dont-increase-student-cheating-afterall-new-research-finds/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -362,7 +526,7 @@
       "originalUrl": "https://www.forbes.com/sites/kalinabryant/2023/12/13/how-ai-is-impacting-society-and-shaping-the-future/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 259,
+      "heat": 269,
       "tags": null,
       "images": [
         {
@@ -458,6 +622,49 @@
       ]
     },
     {
+      "path": "_news/2023-12-14-how-andromeda-robotics-ai-powered-robot-abi-is-combating-loneliness.md",
+      "title": "How Andromeda Robotics’ AI-powered robot Abi is combating loneliness",
+      "excerpt": "The Andromeda Robotics team has built and assembled four Abi robots so far, each costing nearly $10,000 in hardware and consumables.",
+      "sourceUrl": null,
+      "webUrl": "https://www.smartcompany.com.au/startupsmart/news/andromeda-robotics-ai-powered-robot-abi-combating-loneliness/",
+      "originalUrl": "https://www.smartcompany.com.au/startupsmart/news/andromeda-robotics-ai-powered-robot-abi-combating-loneliness/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.smartcompany.com.au/wp-content/uploads/2023/12/SMartCO-2023-12-14T103242.515.png?resize=1200,630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-13T23:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SmartCompany",
+        "domain": "smartcompany.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-14-dropbox-spooks-users-with-new-ai-features-that-send-data-to-openai-when-used.md",
       "title": "Dropbox spooks users with new AI features that send data to OpenAI when used",
       "excerpt": "According to the FAQ, the third-party AI toggle in your account settings is turned on by default if \"you or your team\" are participating in the Dropbox AI alpha. Still, multiple Ars Technica staff who had no knowledge of the Dropbox AI alpha found the setting enabled by default when they checked.",
@@ -466,7 +673,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/12/dropbox-spooks-users-by-sending-data-to-openai-for-ai-search-features/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -900,7 +1107,7 @@
       "originalUrl": "https://www.ibm.com/blog/cryptography-types/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 82,
       "tags": null,
       "images": null,
       "content": "",
@@ -983,215 +1190,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-google-unveils-medlm-a-family-of-healthcare-focused-generative-ai-models.md",
-      "title": "Google unveils MedLM, a family of healthcare-focused generative AI models",
-      "excerpt": "AI in healthcare, historically, has been met with mixed success. Babylon Health, an AI startup backed by the U.K.’s National Health Service, has found itself under repeated scrutiny for making claims that its disease-diagnosing tech can perform better ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/12/13/google-unveils-medlm-a-family-of-healthcare-focused-generative-ai-models/",
-      "originalUrl": "https://techcrunch.com/2023/12/13/google-unveils-medlm-a-family-of-healthcare-focused-generative-ai-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1337404332-1.jpg?resize=1200,802",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/12/13/google-unveils-medlm-a-family-of-healthcare-focused-generative-ai-models/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/13/google-unveils-medlm-a-family-of-healthcare-focused-generative-ai-models/amp/",
-      "publishedDateTime": "2023-12-13T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-lightning-ai-debuts-iphone-approach-to-new-ai-dev-platform.md",
-      "title": "Lightning AI debuts ‘iPhone approach’ to new AI dev platform",
-      "excerpt": "Lightning AI, the company behind PyTorch Lightning, launched a new cloud-based desktop platform to build and deploy AI products at scale.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/lightning-ai-debuts-iphone-approach-to-new-ai-dev-platform/",
-      "originalUrl": "https://venturebeat.com/ai/lightning-ai-debuts-iphone-approach-to-new-ai-dev-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/12/DALL·E-2023-12-12-17.07.44-A-stunning-scene-of-lightning-striking-a-platform-captured-in-a-16_9-scale.-The-sky-is-dark-and-stormy-filled-with-heavy-clouds-while-the-lightning.png?w=1200&strip=all",
-          "width": 1199,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-13T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-ai-in-2024-more-than-a-marketing-buzzword.md",
-      "title": "AI In 2024: More Than A Marketing Buzzword",
-      "excerpt": "In 2024, the smartest businesses will leverage AI’s power to reap its benefits, improve marketing initiatives and drive business success.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/13/ai-in-2024-more-than-a-marketing-buzzword/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/13/ai-in-2024-more-than-a-marketing-buzzword/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64922417c26877e186b3466b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1510,
-          "height": 849,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/13/ai-in-2024-more-than-a-marketing-buzzword/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/13/ai-in-2024-more-than-a-marketing-buzzword/amp/",
-      "publishedDateTime": "2023-12-13T14:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-microsoft-and-oracle-announce-that-oracle-databaseazure-is-now-generally-available.md",
-      "title": "Microsoft and Oracle announce that Oracle Database@Azure is now generally available",
-      "excerpt": "We are excited to share that Oracle Database@Azure is generally available in the Azure United States East region, with more regions coming in 2024. You can now use Oracle database services running on Oracle Cloud Infrastructure (OCI) hardware deployed in Azure data centers. This streamlines the migration",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/blog/microsoft-and-oracle-announce-that-oracle-databaseazure-is-now-generally-available/",
-      "originalUrl": "https://azure.microsoft.com/en-us/blog/microsoft-and-oracle-announce-that-oracle-databaseazure-is-now-generally-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/12/MSC24-India-business-Adobe-550638570-rgb-scaled.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-13T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

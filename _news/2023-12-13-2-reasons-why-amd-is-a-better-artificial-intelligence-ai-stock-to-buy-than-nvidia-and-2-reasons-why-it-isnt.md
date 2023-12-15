@@ -29,34 +29,31 @@ images:
     isCached: true
 
 related:
-  - title: "Chip Stocks Are Surging, but Nvidia Is Missing It"
-    excerpt: "It’s a big day for chip stocks, but the year’s top-performer is suddenly lagging. The PHLX Semiconductor index advanced more than 2% on Monday morning. Broadcom was up more than 6%, the S&P 500’s second-best performer."
-    publishedDateTime: 2023-12-11T16:15:00Z
-    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-12-11-2023/card/chip-stocks-are-surging-but-nvidia-is-missing-it-s1Qwg9eaQQEoG9W9QwM0"
+  - title: "Nvidia Recovers From 10% Drop Amidst Intense Rivalry With AMD's Groundbreaking AI Chip"
+    excerpt: "AMD has launched the Instinct MI300X, a groundbreaking AI chip supported by Microsoft and Meta. Analysts estimate that AMD could capture about 10% of the AI chip market. Following the announcement of the Instinct MI300X,"
+    publishedDateTime: 2023-12-11T16:41:00Z
+    webUrl: "https://www.benzinga.com/trading-ideas/23/12/36181312/nvidia-recovers-from-10-drop-amidst-intense-rivalry-with-amds-groundbreaking-ai-chip"
+    ampWebUrl: "https://www.benzinga.com/amp/content/36181312"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36181312"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 69
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 66
     images:
-      - url: "https://images.wsj.net/im-898705?width=600"
-        width: 600
+      - url: "https://cdn.benzinga.com/files/boliviainteligente-1goydlm_jcg-unsplash_4.jpg?width=1200&height=800&fit=crop"
+        width: 1200
         height: 800
         isCached: true
-  - title: "Intel stock hits a fresh 52-week high after saying its new AI chip tops Nvidia's H100"
-    excerpt: "At 11:00 EDT (16:00 GMT), Intel stock was up about 4% on the day, hitting a new 52-week high."
-    publishedDateTime: 2023-12-14T16:46:00Z
-    webUrl: "https://za.investing.com/news/intel-stock-hits-a-fresh-52week-high-after-saying-its-new-ai-chip-tops-nvidias-h100-432SI-2958248"
+  - title: "Nvidia, AMD back $56.5M round for AI startup led by Transformer architecture co-inventors"
+    excerpt: "Essential AI Labs Inc., a startup led by two co-inventors of the Transformer neural network architecture, today announced that it has raised $56.5 million from a group of prominent backers. March Capital led the Series A investment with contributions from ..."
+    publishedDateTime: 2023-12-12T18:42:00Z
+    webUrl: "https://siliconangle.com/2023/12/12/nvidia-amd-back-56-5m-round-ai-startup-led-transformer-architecture-co-inventors/"
     type: article
     provider:
-      name: Investing
-      domain: investing.com
-    quality: 47
-    images:
-      - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
-        width: 251
-        height: 282
-        isCached: true
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 8
 
 secured: "ugP8Ds+LG34hLg9YMcLfIPe6t0G5Acj/YhJ5R/CjNQZDbLbYFJs7hEQmTKsePvSXrs/vqgv9NUdaNyXmy4tKFP6sRjpiY0Tp/r2gznHoYiMY4+QJNqVgM63D0K8yuU245r9699DBend0HeoGFVkM+GxNSwadEMNhjeplE+t4DYThy3pYzUzoP3z6RE6wEKQXLGI3Z/kNX85ijK3Ao+n8WwE4kUL4hYhGVE0aaxD/JEGr9tTZ9DeXMNGdcQLzzAap7frmrTpF2DuXSFXQSBwgQpQx3lJs+I5ykhhAIl4Vatv64qtr8hxLe0pf25fUVOOV/Of+a97ukCmNIvzAF+3Qlh6J+jy9yyoxCC1v8X2WPkg=;P3hlwvAO2nm74g9PzId+Rg=="
 ---

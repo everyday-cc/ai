@@ -117,20 +117,6 @@ related:
         width: 996
         height: 512
         isCached: true
-  - title: "Intel’s new chip Gaudi3 competes with Nvidia and AMD"
-    excerpt: "Intel launched a range of new products, including Gaudi3, a chip for generative AI software, Core Ultra, a chip for Windows laptops and PCs, and Xeon, a chip for servers."
-    publishedDateTime: 2023-12-15T02:52:00Z
-    webUrl: "https://interestingengineering.com/innovation/intels-new-chip-gaudi3-competes-with-nvidia-and-amd"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/12/15/image/jpeg/wYkj6XdZYwfk4JfVqMMfH13lZNZ5vQC6qujPEM9v.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "e8XonJ1gk4o19ULfNWU9/27BGDlv1pAK4iTUxsvmLFN/4eK3fQbkWT7HRpSr3TRNRsWZ7rTtl+vhhhOM4s4FB1/h3/nK3MP22leNC4yEgYG40vqSAX1E1uf50AyIIWQBSX9n7ZKUXdnhn6Tc+9gf+GW1oKizeWEoMbguZVV4HKB+TqJg6gTbATE7UJi84wdgvSWt295KcVmXr0Q/KTbjk/JrirHymt5xvrnE3sJP4UANt0rvF9AfDwZdG/GJL27k7ADLOGMout8WtAZfNBNGZphLYwQvdknT8KHd9aQqR6OvKxWFP8gwlq0/rs+FCNXNHUnrZyP73DWGHeO0rWNx+CdUj8UgmmZsr3+AEw1aQtY=;E8uPLxseCQXh44EnQND8vg=="
 ---

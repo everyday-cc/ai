@@ -58,20 +58,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "The Artificial Intelligence Glossary"
-    excerpt: "A guide to the key terms you need to know and understand when discussing AI. Artificial intelligence is dominating conversations across all industries, including legal. To help legal professionals ..."
-    publishedDateTime: 2023-12-11T12:19:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/12/11/the-artificial-intelligence-glossary/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/03/Brain-Lightbulb-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
   - title: "New portable, non-invasive AI system turns thoughts into text"
     excerpt: "Australian researchers have developed a portable, non-invasive system that can decode silent thoughts and turn them into text using artificial intelligence (AI). The technology could aid communication for people who are unable to speak due to illness or injury,"
     publishedDateTime: 2023-12-12T22:29:00Z

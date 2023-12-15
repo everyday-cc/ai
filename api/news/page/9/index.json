@@ -2,6 +2,101 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-12-07-amd-is-taking-the-gloves-off-in-the-ai-arms-race.md",
+      "title": "AMD is taking the gloves off in the AI arms race",
+      "excerpt": "AMD looks ready to fight. At its Advancing AI event, the company finally launched its Instinct MI300X AI GPU, which we first heard about first a few months ago. The exciting development is the performance AMD is claiming compared to the green AI elephant in the room: Nvidia.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/amd-mi300x-gpu-launch/",
+      "originalUrl": "https://www.digitaltrends.com/computing/amd-mi300x-gpu-launch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/12/amd-mi300x-platform.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/amd-mi300x-gpu-launch/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/amd-mi300x-gpu-launch/?amp",
+      "publishedDateTime": "2023-12-06T19:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-07-ap-ais-future-could-be-open-source-or-closed-tech-giants-are-divided-as-they-lobby-regulators.md",
+      "title": "AP: AI’s future could be ‘open-source’ or closed. Tech giants are divided as they lobby regulators",
+      "excerpt": "SummaryTech leaders have been vocal proponents of the need to regulate artificial intelligence, but they're also lobbying hard to make sure the new rules work in their favor. That's not to say they al",
+      "sourceUrl": null,
+      "webUrl": "https://www.wmay.com/2023/12/06/ap-ais-future-could-be-open-source-or-closed-tech-giants-are-divided-as-they-lobby-regulators/",
+      "originalUrl": "https://www.wmay.com/2023/12/06/ap-ais-future-could-be-open-source-or-closed-tech-giants-are-divided-as-they-lobby-regulators/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/2047/2023/05/22095947/GETTY_52223_Meta436760.jpg",
+          "width": 630,
+          "height": 354,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.wmay.com/2023/12/06/ap-ais-future-could-be-open-source-or-closed-tech-giants-are-divided-as-they-lobby-regulators/?amp=1",
+      "cdnAmpWebUrl": "https://www-wmay-com.cdn.ampproject.org/c/s/www.wmay.com/2023/12/06/ap-ais-future-could-be-open-source-or-closed-tech-giants-are-divided-as-they-lobby-regulators/?amp=1",
+      "publishedDateTime": "2023-12-06T18:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "92.7 WMAY",
+        "domain": "wmay.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-07-google-deepminds-new-gemini-model-looks-amazingbut-could-signal-peak-ai-hype.md",
       "title": "Google DeepMind’s new Gemini model looks amazing—but could signal peak AI hype",
       "excerpt": "Gemini is Google’s biggest AI launch yet—its push to take on competitors OpenAI and Microsoft in the race for AI supremacy. There is no doubt that the model is pitched as best-in-class across a wide range of capabilities—an “everything machine,” as one observer puts it.",
@@ -1060,92 +1155,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-artificial-intelligence-makes-gripping-more-intuitive.md",
-      "title": "Artificial intelligence makes gripping more intuitive",
-      "excerpt": "“These are movements that the patient has to learn during rehabilitation,” says Cristina Piazza, a professor of rehabilitation and assistive robotics at TUM. Now, Prof. Piazza’s research team has shown that artificial intelligence can enable patients ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nanowerk.com/news2/robotics/newsid=64193.php",
-      "originalUrl": "https://www.nanowerk.com/news2/robotics/newsid=64193.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nanowerk.com/news2/robotics/id64193_1.jpg",
-          "width": 1458,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-06T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nanowerk",
-        "domain": "nanowerk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-aws-announces-amazon-q-to-reimagine-the-future-of-work.md",
-      "title": "AWS announces Amazon Q to reimagine the future of work",
-      "excerpt": "Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced Amazon Q, a new type of generative artificial intelligence-(AI) powered assistant that is specifically for work and can be tailored to a customer’s business. Customers can get fast ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/companies-news/aws-announces-amazon-q-to-reimagine-the-future-of-work-p6vg94yf",
-      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/aws-announces-amazon-q-to-reimagine-the-future-of-work-p6vg94yf",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/view/acePublic/alias/contentid/N2IxMDA4ZjQtMTJiNi00/0/amazon-q-business-image-png.jpeg?f=3%3A2",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/aws-announces-amazon-q-to-reimagine-the-future-of-work-p6vg94yf?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/aws-announces-amazon-q-to-reimagine-the-future-of-work-p6vg94yf?amp=1",
-      "publishedDateTime": "2023-12-06T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

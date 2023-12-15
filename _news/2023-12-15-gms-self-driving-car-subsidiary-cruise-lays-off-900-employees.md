@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 741
         isCached: true
+  - title: "GM’s moonshot bet on self-driving cars sours as Cruise axes a quarter of its workforce"
+    excerpt: "GM CEO Mary Barra had hoped Cruise could generate $50 billion in annual revenue by 2030. That plan is now in jeopardy. Christopher Goodney—Bloomberg via Getty Images Robotaxi company Cruise is axing a full quarter of its workforce, eliminating 900 jobs ..."
+    publishedDateTime: 2023-12-15T12:32:00Z
+    webUrl: "https://fortune.com/2023/12/15/gm-cruise-job-cuts-layoffs-workforce-self-driving-cars-robotaxis/"
+    ampWebUrl: "https://fortune.com/2023/12/15/gm-cruise-job-cuts-layoffs-workforce-self-driving-cars-robotaxis/amp/"
+    cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/12/15/gm-cruise-job-cuts-layoffs-workforce-self-driving-cars-robotaxis/amp/"
+    type: article
+    provider:
+      name: Fortune
+      domain: fortune.com
+    quality: 66
+    images:
+      - url: "https://i.ytimg.com/vi/mZBeIoa0kHM/hqdefault.jpg"
+        width: 480
+        height: 360
+        isCached: true
   - title: "GM to lay off 900 workers at self-driving unit"
     excerpt: "General Motors announced it is laying off 900 workers at Cruise, the company’s self-driving unit. Those layoffs will impact around 24% of its workforce."
     publishedDateTime: 2023-12-14T19:32:00Z

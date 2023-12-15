@@ -41,6 +41,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "AI in healthcare: Duke Health signs pledge for ethical, responsible use"
+    excerpt: "Duke Health is among a leading group of health systems and payers from across the U.S. to sign a pledge advancing ethical and responsible use of Artificial Intelligence technology in health care."
+    publishedDateTime: 2023-12-15T11:37:00Z
+    webUrl: "https://wraltechwire.com/2023/12/15/ai-in-healthcare-duke-health-signs-pledge-for-ethical-responsible-use/"
+    ampWebUrl: "https://wraltechwire.com/2023/12/15/ai-in-healthcare-duke-health-signs-pledge-for-ethical-responsible-use/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/12/15/ai-in-healthcare-duke-health-signs-pledge-for-ethical-responsible-use/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 91
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2023/12/robot-AI-doctor-e1702640075182.jpg"
+        width: 1262
+        height: 710
+        isCached: true
   - title: "‘India to soon launch AI missions for agriculture, healthcare’: PM Modi at GPAI Summit 2023"
     excerpt: "While inaugurating the GPAI or Global Partnership on Artificial Intelligence Summit, 2023, Prime Minister Narendra Modi announced that the government will soon launch AI missions, focussing on healthcare and agriculture,"
     publishedDateTime: 2023-12-13T04:26:00Z

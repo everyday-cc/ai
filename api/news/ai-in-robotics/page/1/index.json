@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-15-the-potential-of-embodied-ai.md",
+      "title": "The Potential Of Embodied AI",
+      "excerpt": "You don't have to necessarily be a technical expert to reap some of the benefits of AI-powered tools in your own business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/15/the-potential-of-embodied-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/15/the-potential-of-embodied-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/657b4fcfd2b7da06875045b0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/15/the-potential-of-embodied-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/15/the-potential-of-embodied-ai/amp/",
+      "publishedDateTime": "2023-12-15T11:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-15-isro-leveraging-artificial-intelligence-machine-learning-in-space-and-agriculture-sector.md",
       "title": "ISRO Leveraging Artificial Intelligence & Machine Learning in Space and Agriculture Sector",
       "excerpt": "ISRO continues to push the boundaries of space exploration, the integration of AI and ML stands as a testament to India's commitment to innovation and technological excellence in every sector.",
@@ -10,7 +63,7 @@
       "originalUrl": "https://krishijagran.com/news/isro-leveraging-artificial-intelligence-machine-learning-in-space-and-agriculture-sector/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -91,19 +144,19 @@
     {
       "path": "_news/2023-12-14-robotics-in-the-engineroom.md",
       "title": "Robotics in the EngineRoom",
-      "excerpt": "When talk turns to autonomous ships, a first question always centers on how routine and emergency repair and maintenance will be",
+      "excerpt": "When talk turns to autonomous ships, a first question always centers on how routine and emergency repair and maintenance will be conducted.",
       "sourceUrl": null,
-      "webUrl": "https://www.oedigital.com/news/510133-robotics-in-the-engineroom",
-      "originalUrl": "https://www.oedigital.com/news/510133-robotics-in-the-engineroom",
+      "webUrl": "https://www.marinelink.com/news/robotics-engineroom-510133",
+      "originalUrl": "https://www.marinelink.com/news/robotics-engineroom-510133",
       "featuredContent": null,
       "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://images.oedigital.com/images/maritime/w537h300pad/image-courtesy-146221.jpg",
-          "width": 537,
-          "height": 300,
+          "url": "https://images.marinelink.com/images/maritime/w800h600pad/image-courtesy-fmd-146221.jpg",
+          "width": 800,
+          "height": 539,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -111,13 +164,13 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.oedigital.com/amp/news/510133-robotics-in-the-engineroom",
-      "cdnAmpWebUrl": "https://www-oedigital-com.cdn.ampproject.org/c/s/www.oedigital.com/amp/news/510133-robotics-in-the-engineroom",
-      "publishedDateTime": "2023-12-14T10:55:00Z",
+      "ampWebUrl": "https://www.marinelink.com/amp/news/robotics-engineroom-510133",
+      "cdnAmpWebUrl": "https://www-marinelink-com.cdn.ampproject.org/c/s/www.marinelink.com/amp/news/robotics-engineroom-510133",
+      "publishedDateTime": "2023-12-14T11:10:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "oedigital.com",
-        "domain": "oedigital.com",
+        "name": "Marine Link",
+        "domain": "marinelink.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -164,6 +217,49 @@
         "AI in Robotics",
         "AI",
         "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2023-12-14-how-andromeda-robotics-ai-powered-robot-abi-is-combating-loneliness.md",
+      "title": "How Andromeda Robotics’ AI-powered robot Abi is combating loneliness",
+      "excerpt": "The Andromeda Robotics team has built and assembled four Abi robots so far, each costing nearly $10,000 in hardware and consumables.",
+      "sourceUrl": null,
+      "webUrl": "https://www.smartcompany.com.au/startupsmart/news/andromeda-robotics-ai-powered-robot-abi-combating-loneliness/",
+      "originalUrl": "https://www.smartcompany.com.au/startupsmart/news/andromeda-robotics-ai-powered-robot-abi-combating-loneliness/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.smartcompany.com.au/wp-content/uploads/2023/12/SMartCO-2023-12-14T103242.515.png?resize=1200,630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-13T23:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SmartCompany",
+        "domain": "smartcompany.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -933,10 +1029,10 @@
     {
       "path": "_news/2023-12-06-undersea-robot-startup-founded-by-nasa-engineer-ejects-clo.md",
       "title": "Undersea-Robot Startup Founded by NASA Engineer Ejects CLO",
-      "excerpt": "Nauticus was founded in 2014 by Nic Radford, who left NASA that year as principal investigator for the Dexterous Robotics Lab at Johnson Space Center. He’d joined the agency in 2006, becoming deputy project manager and chief engineer of NASA’s humanoid space robot “Robonaut2.”",
+      "excerpt": "The chief legal and administrative officer for an undersea robotics company founded by a NASA robotics engineer is one of two executives the company recently dismissed, according to a regulatory filing.",
       "sourceUrl": null,
-      "webUrl": "https://www.law.com/corpcounsel/2023/12/04/undersea-robot-startup-founded-by-nasa-engineer-terminates-clo/",
-      "originalUrl": "https://www.law.com/corpcounsel/2023/12/04/undersea-robot-startup-founded-by-nasa-engineer-terminates-clo/",
+      "webUrl": "https://www.law.com/texaslawyer/2023/12/04/undersea-robot-startup-founded-by-nasa-engineer-terminates-clo/",
+      "originalUrl": "https://www.law.com/texaslawyer/2023/12/04/undersea-robot-startup-founded-by-nasa-engineer-terminates-clo/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1191,74 +1287,6 @@
       "provider": {
         "name": "The Business Journals",
         "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-artificial-intelligence-makes-gripping-more-intuitive.md",
-      "title": "Artificial intelligence makes gripping more intuitive",
-      "excerpt": "a professor of rehabilitation and assistive robotics at TUM. Now, Prof. Piazza’s research team has shown that artificial intelligence can enable patients to control advanced hand prostheses more ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/1010158",
-      "originalUrl": "https://www.eurekalert.org/news-releases/1010158",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-light-controlled-liquid-metal-strips-bring-new-flexibility-to-soft-robotics.md",
-      "title": "Light-controlled liquid metal strips bring new flexibility to soft robotics",
-      "excerpt": "(Nanowerk News) Soft robotics has tantalized researchers with its promise of machines that can squeeze into tight spaces, handle fragile objects, and intuitively interact with humans. Yet realizing this potential has remained an elusive goal due to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nanowerk.com/news2/robotics/newsid=64186.php",
-      "originalUrl": "https://www.nanowerk.com/news2/robotics/newsid=64186.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nanowerk",
-        "domain": "nanowerk.com",
         "images": null,
         "publishers": null,
         "authors": null

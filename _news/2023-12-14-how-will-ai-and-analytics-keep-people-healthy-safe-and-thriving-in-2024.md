@@ -3,8 +3,8 @@ category: news
 title: "How will AI and analytics keep people healthy, safe and thriving in 2024?"
 excerpt: "\"The rise of AI and analytics will continue to transform the government workforce, including in public safety. In 2024, law enforcement will see a turning point in hiring 'digital natives' who embrace and demand technology to protect, defend and serve citizens.\""
 publishedDateTime: 2023-12-14T15:12:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-how-will-ai-analytics-keep-people-healthy-safe-/2023/12/14/9934437.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-how-will-ai-analytics-keep-people-healthy-safe-/2023/12/14/9934437.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2023/12/14/9934437.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2023/12/14/9934437.htm"
 type: article
 quality: 38
 heat: -1
@@ -110,6 +110,6 @@ related:
       domain: datanami.com
     quality: 16
 
-secured: "RJJNV1l/wRZ3g/+eQ+H1ehlei1ZxUys/7EciXQPPZWy1q3tCCz0FtpY3V9mb19tiVLSp+nU93XMthmAEjJ7QsPK042Eu/R/kcHLeIfUHgF07w1kjFaOMsBKBEVQFYzCVf4X6twSxuMw5Y3sQGLu/Caw2/9GYi/Kkt4v/cRDg2TOZZGNcT1a+p/tbOKTNAQh166+X9xHImW58lyiZZcziOy01XfuRcDmqYGk+52Dxhx/HDjXjmhiaOeG+8o1R5C++Y37/Nah0CNKV/hufh3QAO0EZbXvvDo30Er5eQ+lfQ1BZFmX4gW82G8RkM0T538lbZ1r3qbKm9fR1y21kcPdPH/4u+bmepfB82kO53Ak1mrjk0Vf7tpah8lkJFKwoy8Ajx+i2uHo16/b+ODiUbMedGTeQWI76jVXtfShyKFLM9bPUm4OQIb20zL6eC9NamkFIgKsTqR3IvBOq97RuRyjPb6j8KogTruHkxEGE4/bjWS+e1cckxOzfXqkjWtXDMuAjnCeP2PilvHYOauPA6IdgQg==;AUx6l3YqNqXFcgqE3h9kNg=="
+secured: "t9XlAO0W91bagLTHtfauuzbbskUbHSOlmKIrbyVUPhMcvDg5V9J6/uUomTzshw1EuU2QJjVzwGHmOyJQMgi2K//UqRoTwW9aX5szP9iyPLytoz70uwGXKYhZcgVsUwAhSk4/zO/TyyxMdFRu9Vq/GuJCYhARqJpXnmc4XGaZUhegScakTiqmzL9m/ES5ZYOiAp0jExhPTLBao4f23caPmR7u2+O1b+g6I3Xlht+3QFV6mIWIXyibRHsXuL6VMDp5I310T78EzcJ0r+nZxTPdnLZ7duRh5UDgCQWCDhKg8CO06pu75b6z2voFefSepDARm5Gt4FKebOLIjCsXYpZUB0ozTc06I4JFaVo+7Y5rEa0=;1ws+/as8s+t2QodqsIYL/g=="
 ---
 

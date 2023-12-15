@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/kalinabryant/2023/12/13/how-ai-is-impac
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kalinabryant/2023/12/13/how-ai-is-impacting-society-and-shaping-the-future/amp/"
 type: article
 quality: 91
-heat: 259
+heat: 269
 published: true
 
 provider:
@@ -151,6 +151,20 @@ related:
       - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/shutterstock_571888840-100941708-orig.jpg"
         width: 504
         height: 315
+        isCached: true
+  - title: "The Impact of Artificial Intelligence On Real Estate Marketing"
+    excerpt: "Artificial Intelligence (AI) has become a driving force across various industries, reshaping traditional practices and enhancing efficiency. In the realm of real estate, AI is revolutionizing marketing strategies,"
+    publishedDateTime: 2023-12-15T12:21:00Z
+    webUrl: "https://realtybiznews.com/the-impact-of-artificial-intelligence-on-real-estate-marketing/98780587/"
+    type: article
+    provider:
+      name: realtybiznews
+      domain: realtybiznews.com
+    quality: 54
+    images:
+      - url: "https://realtybiznews.com/wp-content/uploads/2022/07/banner-2.png"
+        width: 300
+        height: 250
         isCached: true
   - title: "2023: The year of AI gift-giving and other holiday shopping trends"
     excerpt: "Flowcode analyzed holiday shopping forecasts from Salesforce and the National Retail Federation to identify a few major trends for 2023."

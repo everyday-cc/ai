@@ -9,7 +9,7 @@ ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=365045"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=365045"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -41,15 +41,6 @@ related:
         width: 1024
         height: 681
         isCached: true
-  - title: "Next-Level Elearning: AI Chatbot Revolutionizes Academic Communication and Learning Processes"
-    excerpt: "Language technology company Tilde has developed a unique AI chatbot Digne for enhancing the university course 'Civil Protection'."
-    publishedDateTime: 2023-12-12T08:40:00Z
-    webUrl: "https://slator.com/next-level-elearning-ai-chatbot-revolutionizes-academic-communication-learning-processes/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 8
 
 secured: "coeYg5cYDcFQIWRZ0Cw5+EVeGqasAVywWz9sK9tTdZwmTJIUI8mAnHGzkrwwREhnY0MXglnr2xnT0G0Yxx6kN+jWQwH3dLTITaSgJCGXVt8X37LYfWljX37FjKvGEwjlIaQgpOpD0WisvCsZAOhGcl8Fe8lD3NeOe4pfybTufuHipI7bHoONLkpLpfQP2YgFKJIJznOlfPgWRO5UGzL/JcXSuJxnVj9aUQ+dhqMwGll6egUOVnhRmCBVr2/Ww5+jp1NWzInnkChIxh89XZNssIgo933npFwiZUvE9CJ+RwqDRJiYy7eMwU0f1Ti5wm0qICuX2k2yDFeiw/5jop93bx2TpxbIrY2I5FIAWS9X4arc16wZgCUxO9FgUM9vp77imeeiAYoLmZgiifO1Hy0LWNulh8gsWjZgQg1PwBohfycHY00Fn71Aj2YVYC5D9qK2/DRII2DecIV5ypV5g6m/Ihn84+1C83Zbu1O3KLtd4S6yCYiusgwWYPPLvKyHmxCcJNaZAix8H0pgzcULoqMYig==;/8t9yH9l5DklE/DouJy0+A=="
 ---

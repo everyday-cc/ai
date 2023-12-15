@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-12-01-markets-eq-is-first-to-fuse-voice-tones-with-language-in-generative-ai-platform-for-corporate-communications.md",
+      "title": "Markets EQ is First to Fuse Voice Tones with Language in Generative AI Platform for Corporate Communications",
+      "excerpt": "Markets EQ, today, introduced a state-of-the-art AI tonal recognition technology for evaluating and actively enhancing executive communications. The announcement, which was made from the floor of IR Magazine’s AI in IR Forum,",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/markets-eq-is-first-to-fuse-voice-tones-with-language-in-generative-ai-platform-for/article_706b955e-44c6-5cae-b7ee-07d31812e269.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/markets-eq-is-first-to-fuse-voice-tones-with-language-in-generative-ai-platform-for/article_706b955e-44c6-5cae-b7ee-07d31812e269.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/2/86/28626883-20f8-5619-b5ed-4cd2e2043054/6569dea066568.image.jpg?crop=1946%2C1022%2C0%2C21&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T12:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-01-redefining-communication-in-the-age-of-ai.md",
       "title": "Redefining Communication In The Age Of AI",
       "excerpt": "Artificial Intelligence (AI) has revolutionized the translation industry, moving it from human-centric to technology-driven solutions. The integration of AI, particularly in Natural Language Processing (NLP), has enhanced the accuracy and efficiency of ...",
@@ -1282,40 +1325,6 @@
       "provider": {
         "name": "The Financial Times",
         "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-15-in-moments-of-crisis-like-the-israel-hamas-war-we-need-more-speech-not-less-richard-m-perloff-and-anup-kumar.md",
-      "title": "In moments of crisis like the Israel-Hamas war, we need more speech - not less: Richard M. Perloff and Anup Kumar",
-      "excerpt": "CLEVELAND -- How should society balance the right to free speech with recognition that the embers of speech ignite psychic wounds? When should offensive speech be tolerated because it opens society’s political pores, and when should it be limited because ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cleveland.com/opinion/2023/11/in-moments-of-crisis-like-the-israel-hamas-war-we-need-more-speech-not-less-richard-m-perloff-and-anup-kumar.html",
-      "originalUrl": "https://www.cleveland.com/opinion/2023/11/in-moments-of-crisis-like-the-israel-hamas-war-we-need-more-speech-not-less-richard-m-perloff-and-anup-kumar.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T05:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cleveland.com",
-        "domain": "cleveland.com",
         "images": null,
         "publishers": null,
         "authors": null

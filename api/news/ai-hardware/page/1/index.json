@@ -45,92 +45,6 @@
       ]
     },
     {
-      "path": "_news/2023-12-15-amd-ryzen-8040-chip-battles-intel-for-ai-laptop-supremacy.md",
-      "title": "AMD Ryzen 8040 chip battles Intel for AI laptop supremacy",
-      "excerpt": "Between the AMD Ryzen 8040, Intel Core Ultra, and Apple M3 chips, there's a lot of competition among laptops built for machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gadgetguy.com.au/amd-ryzen-8040-processor-announcement/",
-      "originalUrl": "https://www.gadgetguy.com.au/amd-ryzen-8040-processor-announcement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gadgetguy-assets.s3.ap-southeast-2.amazonaws.com/wordpress/wp-content/uploads/2023/12/15142546/AMD-Ryzen-8040-AI-laptop-processor.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-15T03:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GadgetGuy.com.au",
-        "domain": "gadgetguy.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-intel-core-ultra-meteor-lake-mobile-cpus-launch-with-gaming-grade-igpu-and-ai-brawn.md",
-      "title": "Intel Core Ultra Meteor Lake Mobile CPUs Launch With Gaming Grade iGPU And AI Brawn",
-      "excerpt": "If you're reading this website right now, we probably don't have to explain to you that Intel's new Core Ultra processors launching today were codenamed Meteor Lake, and that they represent not only Intel's first \"disaggregated\" CPUs built from disparate tiles,",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/intel-core-ultra-mtl-launch",
-      "originalUrl": "https://hothardware.com/news/intel-core-ultra-mtl-launch",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 228,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/63353/content/hero-intel-core-ultra.jpg",
-          "width": 708,
-          "height": 398,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/intel-core-ultra-mtl-launch",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/intel-core-ultra-mtl-launch",
-      "publishedDateTime": "2023-12-14T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-12-14-what-to-expect-at-intel-ai-event-a-discussion-with-ceo-pat-gelsinger.md",
       "title": "What To Expect At Intel AI Event: A Discussion With CEO Pat Gelsinger",
       "excerpt": "language translation, etc.—that's going to happen. [And] I expect that every PC that is embedded in my manufacturing lines is going to be capable of real-time AI model generation and telemetry.” The coming changes will likely also change the shape of ...",
@@ -289,49 +203,6 @@
       ]
     },
     {
-      "path": "_news/2023-12-13-apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark.md",
-      "title": "Apple Silicon M3 Pro blows away Nvidia RTX 4090 GPU in AI benchmark",
-      "excerpt": "In contrast, a MacBook with 16 M1 GPU cores shows a much smaller increase in power usage when active compared to its idle state, with a difference of just 38 watts. The results highlight Apple's gains in AI and machine learning capabilities and could be ...",
-      "sourceUrl": null,
-      "webUrl": "https://appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark",
-      "originalUrl": "https://appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://photos5.appleinsider.com/gallery/57700-117522-graph-xl.jpg",
-          "width": 1312,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark/amp/",
-      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark/amp/",
-      "publishedDateTime": "2023-12-13T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AppleInsider",
-        "domain": "appleinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-12-13-qualcomm-makes-its-push-for-pc-relevance-leading-with-ai.md",
       "title": "Qualcomm Makes Its Push For PC Relevance, Leading With AI",
       "excerpt": "Qualcomm gave us an end of year update on the new Snapdragon X Elite, the company’s bold effort to create an Arm-based ecosystem for PCs.",
@@ -384,6 +255,42 @@
       ]
     },
     {
+      "path": "_news/2023-12-12-top-10-biggest-aws-news-stories-of-2023-ai-layoffs-and-slowing-sales.md",
+      "title": "Top 10 Biggest AWS News Stories Of 2023: AI, Layoffs And Slowing Sales",
+      "excerpt": "AWS top news from 2023 included generative AI, Amazon layoffs, Anthropic investment, cloud computing sales, chips, AWS Marketplace and new AI products.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/news/cloud/top-10-biggest-aws-news-stories-of-2023-ai-layoffs-and-sales",
+      "originalUrl": "https://www.crn.com/news/cloud/top-10-biggest-aws-news-stories-of-2023-ai-layoffs-and-sales",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-12T14:04:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Sales",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-12-12-intel-working-with-vertiv-on-liquid-cooling-for-gaudi3-ai-chip.md",
       "title": "Intel working with Vertiv on liquid cooling for Gaudi3 AI chip",
       "excerpt": "The Intel Gaudi3 AI accelerator will enable both liquid-cooled and air-cooled servers, supported by Vertiv pumped two-phase (P2P) cooling infrastructure.",
@@ -392,7 +299,7 @@
       "originalUrl": "https://www.itweb.co.za/content/6GxRKMYQNGGMb3Wj",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -575,36 +482,36 @@
       ]
     },
     {
-      "path": "_news/2023-12-12-us-discusses-ai-chip-sales-to-china-with-nvidia-says-raimondo.md",
-      "title": "U.S. discusses AI Chip sales to China with Nvidia, says Raimondo",
-      "excerpt": "The U.S. government is currently in talks with NVIDIA (NVDA) regarding the conditions under which it can sell AI chips to China. The administration has made it clear that Nvidia (NASDAQ: NVDA) is not allowed to export its most sophisticated semiconductors to Chinese companies.",
+      "path": "_news/2023-12-12-nvidia-contemplates-intel-as-potential-manufacturing-partner-for-gpu-and-ai-chips.md",
+      "title": "Nvidia contemplates Intel as potential manufacturing partner for GPU and AI chips",
+      "excerpt": "Nvidia GPUs held more than 70 percent of the data center processor market share in the latest quarter, with the majority of chips being manufactured by",
       "sourceUrl": null,
-      "webUrl": "https://au.investing.com/news/stock-market-news/us-discusses-ai-chip-sales-to-china-with-nvidia-says-raimondo-432SI-3060981",
-      "originalUrl": "https://au.investing.com/news/stock-market-news/us-discusses-ai-chip-sales-to-china-with-nvidia-says-raimondo-432SI-3060981",
+      "webUrl": "https://www.techspot.com/news/101160-nvidia-contemplates-intel-potential-manufacturing-partner-gpu-ai.html",
+      "originalUrl": "https://www.techspot.com/news/101160-nvidia-contemplates-intel-potential-manufacturing-partner-gpu-ai.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 271,
+      "heat": 174,
       "tags": null,
-      "images": [
-        {
-          "url": "https://i-invdn-com.investing.com/news/moved_LYNXMPEHAH0WT_L.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://m.au.investing.com/news/stock-market-news/us-discusses-ai-chip-sales-to-china-with-nvidia-says-raimondo-432SI-3060981?ampMode=1",
-      "cdnAmpWebUrl": "https://m-au-investing-com.cdn.ampproject.org/c/s/m.au.investing.com/news/stock-market-news/us-discusses-ai-chip-sales-to-china-with-nvidia-says-raimondo-432SI-3060981?ampMode=1",
-      "publishedDateTime": "2023-12-11T20:36:00Z",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-11T20:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Investing",
-        "domain": "investing.com",
-        "images": null,
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -614,8 +521,7 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI",
-        "AI in Sales"
+        "AI"
       ]
     },
     {
@@ -649,58 +555,6 @@
         "name": "Benzinga.com",
         "domain": "benzinga.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-chip-stocks-are-surging-but-nvidia-is-missing-it.md",
-      "title": "Chip Stocks Are Surging, but Nvidia Is Missing It",
-      "excerpt": "It’s a big day for chip stocks, but the year’s top-performer is suddenly lagging. The PHLX Semiconductor index advanced more than 2% on Monday morning. Broadcom was up more than 6%, the S&P 500’s second-best performer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-12-11-2023/card/chip-stocks-are-surging-but-nvidia-is-missing-it-s1Qwg9eaQQEoG9W9QwM0",
-      "originalUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-12-11-2023/card/chip-stocks-are-surging-but-nvidia-is-missing-it-s1Qwg9eaQQEoG9W9QwM0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-898705?width=600",
-          "width": 600,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-11T16:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -758,21 +612,21 @@
       ]
     },
     {
-      "path": "_news/2023-12-11-nvidia-ceo-jensen-huang-woos-vietnam-plans-to-set-up-asian-ai-chip-base-in-the-country.md",
-      "title": "NVIDIA CEO Jensen Huang woos Vietnam, plans to set up Asian AI Chip base in the country",
-      "excerpt": "NVIDIA has some major plans for Vietnam and is seeing the country as its main base in Asia for designing and manufacturing AI chips for the Asian market as well as the rest of the world. For that, NVI",
+      "path": "_news/2023-12-11-us-in-talks-with-nvidia-about-ai-chip-sales-to-china-raimondo.md",
+      "title": "US in talks with Nvidia about AI chip sales to China - Raimondo",
+      "excerpt": "U.S. Commerce Secretary Gina Raimondo, speaking in an interview with Reuters on Monday, said Nvidia \"can, will and should sell AI chips to China because most AI chips will be for commercial applications.\" She added: \"What we cannot allow them to ship is ...",
       "sourceUrl": null,
-      "webUrl": "https://www.firstpost.com/tech/nvidia-ceo-jensen-huang-woos-vietnam-plans-to-set-up-asian-ai-chip-base-in-the-country-13489822.html",
-      "originalUrl": "https://www.firstpost.com/tech/nvidia-ceo-jensen-huang-woos-vietnam-plans-to-set-up-asian-ai-chip-base-in-the-country-13489822.html",
+      "webUrl": "https://www.aol.com/us-talks-nvidia-ai-chip-194051279.html",
+      "originalUrl": "https://www.aol.com/us-talks-nvidia-ai-chip-194051279.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 331,
       "tags": null,
       "images": [
         {
-          "url": "https://images.firstpost.com/wp-content/uploads/2023/12/NVIDIA-CEO-Jensen-Huang-woos-Vietnam-plans-to-set-up-Asian-AI-Chip-base-in-the-country-.jpg",
-          "width": 1920,
-          "height": 1080,
+          "url": "https://media.zenfs.com/en/aol_reuters_29/dc475dc621777cd3ecb3464d53261b9e",
+          "width": 800,
+          "height": 533,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -780,13 +634,13 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.firstpost.com/tech/nvidia-ceo-jensen-huang-woos-vietnam-plans-to-set-up-asian-ai-chip-base-in-the-country-13489822.html/amp",
-      "cdnAmpWebUrl": "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/nvidia-ceo-jensen-huang-woos-vietnam-plans-to-set-up-asian-ai-chip-base-in-the-country-13489822.html/amp",
-      "publishedDateTime": "2023-12-11T08:41:00Z",
+      "ampWebUrl": "https://www.aol.com/amphtml/us-talks-nvidia-ai-chip-194051279.html",
+      "cdnAmpWebUrl": "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/us-talks-nvidia-ai-chip-194051279.html",
+      "publishedDateTime": "2023-12-11T14:39:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Firstpost",
-        "domain": "firstpost.com",
+        "name": "AOL",
+        "domain": "aol.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -797,7 +651,8 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
+        "AI",
+        "AI in Sales"
       ]
     },
     {
@@ -1376,6 +1231,145 @@
       "provider": {
         "name": "Analytics India Magazine",
         "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-meta-and-microsoft-say-they-will-buy-amds-new-ai-chip-as-an-alternative-to-nvidia.md",
+      "title": "Meta and Microsoft say they will buy AMD's new AI chip as an alternative to Nvidia",
+      "excerpt": "If AMD's latest high-end chip, MI300X, is good enough and inexpensive enough for the technology companies and cloud service providers building and serving AI models when it starts shipping early next year, it could lower costs for developing AI models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcmiami.com/news/national-international/meta-and-microsoft-say-they-will-buy-amds-new-ai-chip-as-an-alternative-to-nvidia/3177752/",
+      "originalUrl": "https://www.nbcmiami.com/news/national-international/meta-and-microsoft-say-they-will-buy-amds-new-ai-chip-as-an-alternative-to-nvidia/3177752/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nbcmiami.com/2023/12/107255926-1686678111756-gettyimages-1454302971-_8db0157_d7a2aa99-cd40-4c93-8ff3-89725b36c318-3.jpeg?quality=85&strip=all&resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcmiami.com/news/business/money-report/meta-and-microsoft-say-they-will-buy-amds-new-ai-chip-as-an-alternative-to-nvidia/3177752/?amp=1",
+      "cdnAmpWebUrl": "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/news/business/money-report/meta-and-microsoft-say-they-will-buy-amds-new-ai-chip-as-an-alternative-to-nvidia/3177752/?amp=1",
+      "publishedDateTime": "2023-12-06T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC 6 South Florida",
+        "domain": "nbcmiami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-encharge-raises-226m-to-commercialize-its-ai-accelerating-chips.md",
+      "title": "EnCharge raises $22.6M to commercialize its AI-accelerating chips",
+      "excerpt": "EnCharge was launched to commercialize Verma’s research. Using in-memory computing, EnCharge’s hardware can accelerate AI applications in servers and “network edge” machines, Verma claims, while reducing power consumption relative to standard computer processors.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/12/05/encharge-raises-22-6m-to-commercialize-its-ai-accerating-chips/",
+      "originalUrl": "https://techcrunch.com/2023/12/05/encharge-raises-22-6m-to-commercialize-its-ai-accerating-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1411834236.jpg?resize=1200,831",
+          "width": 1200,
+          "height": 831,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/12/05/encharge-raises-22-6m-to-commercialize-its-ai-accerating-chips/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/05/encharge-raises-22-6m-to-commercialize-its-ai-accerating-chips/amp/",
+      "publishedDateTime": "2023-12-05T18:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-05-nvidia-warned-redesign-a-gpu-for-ai-for-china-us-government-will-stop-them-the-next-day.md",
+      "title": "NVIDIA warned: redesign a GPU for AI for China, US government will stop them the next day",
+      "excerpt": "US Commerce Secretary Gina Raimondo has warned that we 'cannot' let China get the most powerful AI chips in the world, throws shade at NVIDIA.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/94723/nvidia-warned-redesign-gpu-for-ai-china-us-government-will-stop-them-the-next-day/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/94723/nvidia-warned-redesign-gpu-for-ai-china-us-government-will-stop-them-the-next-day/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tweaktown.com/news/9/4/94723_01_nvidia-warned-redesign-gpu-for-ai-china-us-government-will-stop-them-the-next-day_full.png",
+          "width": 1500,
+          "height": 857,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-05T00:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
         "images": null,
         "publishers": null,
         "authors": null

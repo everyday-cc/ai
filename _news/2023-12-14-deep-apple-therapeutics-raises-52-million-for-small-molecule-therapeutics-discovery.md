@@ -18,6 +18,17 @@ topics:
   - Machine Learning
   - AI
 
+related:
+  - title: "New company Deep Apple Therapeutics unveiled"
+    excerpt: "US life sciences venture capital firm Apple Tree Partners has  announced $52 million in Series A funding for its portfolio  company Deep Apple Therapeutics, created and incubated by ATP to  rapidly discover novel small molecule therapeutics for high-value  targets through virtual screening of AI-generated virtual  libraries."
+    publishedDateTime: 2023-12-15T11:40:00Z
+    webUrl: "https://www.thepharmaletter.com/article/new-company-deep-apple-therapeutics-unveiled"
+    type: article
+    provider:
+      name: The Pharma Letter
+      domain: thepharmaletter.com
+    quality: 4
+
 secured: "1dr5LgpW3blnAMba1enD8WG8naN2Qi0TXVo9Nxunk9PpaaTJmJz+eqavLHqVRR+3HaoGlQC7m5Y60+FeH8eDy4CpYZ9Nm5CshK7Pwzpc4gocjk+xjvTUKKOKWo4h+KR2vRpX+YkiK4RFQGreRFxGWtptdAGgmi50gyNIqRVCOmnqVTK1GLSXmIpeO+1GQe/VBUgBKqSHG9UAgugdyXOg6CZiZwIFDQoBTjcqkefec6qAj5d8ro5b1ow4V8olwKFafo1Pty8qCF8DvPLesPsbE/4LwiKJQI2vettRCeKIKqJISmUXNdRuBp50d9M8MLYwDc0s++J5ToLtvUpZ0PPEKoh04X6DGrQ0By9lb3oLFXtgMSMwjHdEI648hHLY0b5Kyv/2lATDGChmLyQ7xfSaT52nSiZWuUklrAqCat4XqxdCC5v2Euq5cqy0V62WWUTwUK0LqCypYKOrFJB/66XZpRCHJsq8BbzE/tbssV4y9crf6XKnP8JH3bQgMRAAZUz+L7nOQIXSUKHF8744VVrMAA==;GERbxRA8iceGt7vYjtQM2A=="
 ---
 

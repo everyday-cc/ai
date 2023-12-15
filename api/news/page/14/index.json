@@ -2,6 +2,170 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2023-12-04-natural-language-processing-and-recognition-market-is-booming-worldwide-with-microsoft-ibm-baidu.md",
+      "title": "Natural Language Processing and Recognition Market Is Booming Worldwide With Microsoft, IBM, Baidu",
+      "excerpt": "The Global Natural Language Processing and Recognition Market Size is estimated to register 30.8% growth over the forecast period from 2023 to 2030. The Global Natural Language Processing and Recognition Market Size is estimated to register 30.8% growth ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/the-wire/natural-language-processing-and-recognition-market-is-booming-worldwide-with-microsoft-ibm-baidu/",
+      "originalUrl": "https://www.cmswire.com/the-wire/natural-language-processing-and-recognition-market-is-booming-worldwide-with-microsoft-ibm-baidu/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-04-nine-things-to-know-about-artificial-intelligence.md",
+      "title": "Nine Things to Know About Artificial Intelligence",
+      "excerpt": "The term “artificial intelligence” or AI was originally coined at Dartmouth College in 1956 and was used to describe a broad framework of computer engineering that pulled information from ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.teenvogue.com/story/artificial-intelligence-facts-microsoft",
+      "originalUrl": "https://www.teenvogue.com/story/artificial-intelligence-facts-microsoft",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.teenvogue.com/photos/65689fd9dadaefcaf880d413/16:9/w_1280,c_limit/GettyImages-1803578848.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Teen Vogue",
+        "domain": "teenvogue.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-04-researchers-evaluate-performance-of-a-large-language-model-in-phenotyping-postpartum-hemorrhage-patients.md",
+      "title": "Researchers evaluate performance of a large language model in phenotyping postpartum hemorrhage patients",
+      "excerpt": "However, structured data often fails to capture the clinical narrative from EHR notes. Natural language processing (NLP) models have been increasingly used for multimodal phenotyping through automated extraction from unstructured notes. Most NLP approaches ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20231204/Researchers-evaluate-performance-of-a-large-language-model-in-phenotyping-postpartum-hemorrhage-patients.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20231204/Researchers-evaluate-performance-of-a-large-language-model-in-phenotyping-postpartum-hemorrhage-patients.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_766160_17017150645166130.jpg",
+          "width": 1000,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-04-university-of-illinois-testing-speech-recognition-for-disabilities.md",
+      "title": "University of Illinois Testing Speech Recognition for Disabilities",
+      "excerpt": "(TNS) — Speech-recognition software doesn't work very well for people who could really use it, like those with Parkinson's or Down syndrome. Researchers at the University of Illinois have a simple solution: Instead of only training the artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/education/higher-ed/university-of-illinois-testing-speech-recognition-for-disabilities",
+      "originalUrl": "https://www.govtech.com/education/higher-ed/university-of-illinois-testing-speech-recognition-for-disabilities",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/b299f5a/2147483647/strip/true/crop/1000x486+0+98/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F5f%2Fa3%2F618704fc4380b4c9620a5bec7af9%2Flanguage-processing.jpg",
+          "width": 1440,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-04-how-azure-ai-content-safety-helps-protect-users-from-the-classroom-microsoft.md",
       "title": "How Azure AI Content Safety helps protect users from the classroom … – Microsoft",
       "excerpt": "South Australia’s Department for Education decided to bring generative AI into its classrooms. But before they opened the doors, one",
@@ -886,178 +1050,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-02-push-to-ban-facial-recognition-at-kci-other-airports.md",
-      "title": "Push to ban facial recognition at KCI, other airports",
-      "excerpt": "KANSAS CITY, Mo. (KCTV) - A group of U.S. Senators sounds the alarm over the use of facial recognition technology at KCI Airport and other airports across the country. U.S. Senator Roger Marshall, R-Kan. is one of six senators to introduce the Traveler ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kctv5.com/2023/12/01/push-ban-facial-recognition-kci-other-airports/",
-      "originalUrl": "https://www.kctv5.com/2023/12/01/push-ban-facial-recognition-kci-other-airports/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-kctv-prod.cdn.arcpublishing.com/resizer/v2/GEP3E3XD2BD73IHY6EYMFTHBU4.png?auth=df39686e7650b2c8e529de572d983e698b66628bca4d560e10c94653113db700&width=800&height=450&smart=true",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.kctv5.com/2023/12/01/push-ban-facial-recognition-kci-other-airports/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-kctv5-com.cdn.ampproject.org/c/s/www.kctv5.com/2023/12/01/push-ban-facial-recognition-kci-other-airports/?outputType=amp",
-      "publishedDateTime": "2023-12-01T19:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KCTV News",
-        "domain": "kctv5.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-02-this-deepmind-ai-rapidly-learns-new-skills-just-by-watching-humans.md",
-      "title": "This DeepMind AI Rapidly Learns New Skills Just by Watching Humans",
-      "excerpt": "Most algorithms learn to mimic humans from hundreds or thousands of examples. But a new AI from Google DeepMind picks up new skills from humans on the fly.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2023/12/01/this-deepmind-ai-rapidly-learns-new-skills-just-by-watching-humans/",
-      "originalUrl": "https://singularityhub.com/2023/12/01/this-deepmind-ai-rapidly-learns-new-skills-just-by-watching-humans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2023/12/two-colorful-parrots-cocking-their-heads.jpeg",
-          "width": 1408,
-          "height": 793,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2023/12/01/this-deepmind-ai-rapidly-learns-new-skills-just-by-watching-humans/?amp=1",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/12/01/this-deepmind-ai-rapidly-learns-new-skills-just-by-watching-humans/?amp=1",
-      "publishedDateTime": "2023-12-01T19:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-02-unveiling-aws-ai-frontier-a-deep-dive-into-the-three-layer-stack-and-other-innovations.md",
-      "title": "Unveiling AWS’ AI frontier: A deep dive into the three-layer stack and other innovations",
-      "excerpt": "Artificial intelligence is running at such a speed that companies not keeping pace are immediately left behind. Compared to other players, such as OpenAI Inc. and Microsoft Corp., there’s been a long-held notion that Amazon Web Services Inc. is behind the AI innovation curve.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/12/01/unveiling-aws-ai-frontier-a-deep-dive-into-the-three-layer-stack-and-other-innovations-supercloud5/",
-      "originalUrl": "https://siliconangle.com/2023/12/01/unveiling-aws-ai-frontier-a-deep-dive-into-the-three-layer-stack-and-other-innovations-supercloud5/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/Bratin-clean.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-01T17:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-02-when-deep-learning-meets-active-learning-in-the-era-of-foundation-models.md",
-      "title": "When deep learning meets active learning in the era of foundation models",
-      "excerpt": "A Chinese research team wrote a review article on deep active learning, an increasingly popular method of combining active learning with deep learning for sample selection in the training of neural networks for artificial intelligence tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-12-deep-era-foundation.html",
-      "originalUrl": "https://techxplore.com/news/2023-12-deep-era-foundation.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/when-deep-learning-mee.jpg",
-          "width": 1280,
-          "height": 863,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-12-deep-era-foundation.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-12-deep-era-foundation.amp",
-      "publishedDateTime": "2023-12-01T16:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

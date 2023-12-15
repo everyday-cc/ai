@@ -25,6 +25,31 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia contemplates Intel as potential manufacturing partner for GPU and AI chips"
+    excerpt: "Nvidia GPUs held more than 70 percent of the data center processor market share in the latest quarter, with the majority of chips being manufactured by"
+    publishedDateTime: 2023-12-11T20:00:00Z
+    webUrl: "https://www.techspot.com/news/101160-nvidia-contemplates-intel-potential-manufacturing-partner-gpu-ai.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 74
+  - title: "Apple Silicon M3 Pro blows away Nvidia RTX 4090 GPU in AI benchmark"
+    excerpt: "In contrast, a MacBook with 16 M1 GPU cores shows a much smaller increase in power usage when active compared to its idle state, with a difference of just 38 watts. The results highlight Apple's gains in AI and machine learning capabilities and could be ..."
+    publishedDateTime: 2023-12-13T00:00:00Z
+    webUrl: "https://appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark"
+    ampWebUrl: "https://appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 74
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/57700-117522-graph-xl.jpg"
+        width: 1312
+        height: 800
+        isCached: true
   - title: "Intel Core Ultra Meteor Lake Mobile CPUs Launch With Gaming Grade iGPU And AI Brawn"
     excerpt: "If you're reading this website right now, we probably don't have to explain to you that Intel's new Core Ultra processors launching today were codenamed Meteor Lake, and that they represent not only Intel's first \"disaggregated\" CPUs built from disparate tiles,"
     publishedDateTime: 2023-12-14T14:00:00Z
@@ -41,200 +66,101 @@ related:
         width: 708
         height: 398
         isCached: true
-  - title: "Intel Core Ultra processors debut for AI-powered PCs"
-    excerpt: "Intel launched its Intel Core Ultra processors for AI-powered PCs at its AI Everywhere event today. The big chip maker said these processors spearhead a new era in computing, offering unparalleled power efficiency, superior compute and graphics performance, and an unprecedented AI PC experience to mobile platforms and edge devices."
-    publishedDateTime: 2023-12-14T15:00:00Z
-    webUrl: "https://venturebeat.com/ai/intel-core-ultra-processors-debut-for-ai-powered-pcs/"
+  - title: "NVIDIA CEO Jensen Huang woos Vietnam, plans to set up Asian AI Chip base in the country"
+    excerpt: "NVIDIA has some major plans for Vietnam and is seeing the country as its main base in Asia for designing and manufacturing AI chips for the Asian market as well as the rest of the world. For that, NVI"
+    publishedDateTime: 2023-12-11T08:41:00Z
+    webUrl: "https://www.firstpost.com/tech/nvidia-ceo-jensen-huang-woos-vietnam-plans-to-set-up-asian-ai-chip-base-in-the-country-13489822.html"
+    ampWebUrl: "https://www.firstpost.com/tech/nvidia-ceo-jensen-huang-woos-vietnam-plans-to-set-up-asian-ai-chip-base-in-the-country-13489822.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/nvidia-ceo-jensen-huang-woos-vietnam-plans-to-set-up-asian-ai-chip-base-in-the-country-13489822.html/amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
+      name: Firstpost
+      domain: firstpost.com
+    quality: 66
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/12/intel-core-ultra.jpg?w=1200&strip=all"
-        width: 1200
-        height: 798
-        isCached: true
-  - title: "Intel launches Core Ultra mobile CPUs, complete with dedicated AI hardware"
-    excerpt: "According to Chipzilla, the new GPU affords up to double the graphics performance compared to the previous generation. Intel says all of its new Core Ultra processors further come equipped with Intel AI Boost, a neural processing unit designed specifically ..."
-    publishedDateTime: 2023-12-14T12:26:00Z
-    webUrl: "https://www.techspot.com/news/101210-intel-launches-core-ultra-mobile-cpus-complete-dedicated.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 67
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2023/12/2023-12-14-image-9.jpg"
-        width: 2000
-        height: 1385
-        isCached: true
-  - title: "Intel Puts Artificial Intelligence First With Processor Announcements"
-    excerpt: "The Intel Core Ultra mobile processor family brings AI to PCs, while 5th Gen Intel Xeon processors offer AI acceleration for data centers."
-    publishedDateTime: 2023-12-14T21:35:00Z
-    webUrl: "https://www.techrepublic.com/article/intel-ai-everywhere-event-2023/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 67
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/12/core-ultra-fig-a-dec-23.jpeg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Acer Predator Triton Neo 16 with Intel Core Ultra CPUs & RTX 4070 GPU unveiled"
-    excerpt: "Acer has introduced the Predator Triton Neo 16 (PTN16-51), a gaming laptop equipped with Intel Core Ultra processors featuring dedicated AI acceleration and NVIDIA GeForce RTX 40 Series GPUs. This gaming powerhouse caters to both players and content creators,"
-    publishedDateTime: 2023-12-15T05:21:00Z
-    webUrl: "https://www.gizmochina.com/2023/12/15/acer-predator-triton-neo-16-laptop-launched/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 65
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/12/Triton_Neo_16_SP02_transparent.png"
+      - url: "https://images.firstpost.com/wp-content/uploads/2023/12/NVIDIA-CEO-Jensen-Huang-woos-Vietnam-plans-to-set-up-Asian-AI-Chip-base-in-the-country-.jpg"
         width: 1920
         height: 1080
         isCached: true
-  - title: "MSI Prestige 'Meteor Lake' Laptops, Hands On: Intel's Core Ultra Brings AI to Work"
-    excerpt: "Intel's new Core Ultra laptop CPUs, packing built-in AI hardware, meet MSI's business-class Prestige machines. We checked out these early Meteor Lake laptops ahead of launch."
-    publishedDateTime: 2023-12-14T15:00:00Z
-    webUrl: "https://www.pcmag.com/news/msi-prestige-meteor-lake-laptops-hands-on-intels-core-ultra-brings-ai-to"
+  - title: "NVIDIA AI GPU shipments expected to surge 150% year-over-year in 2024"
+    excerpt: "Analyst expects NVIDIA AI GPU shipments to surge another 150% year-over-year in 2024, led by the new H200 GPU and next-gen Blackwell B100 GPUs."
+    publishedDateTime: 2023-12-14T01:02:00Z
+    webUrl: "https://www.tweaktown.com/news/94956/nvidia-ai-gpu-shipments-expected-to-surge-150-year-over-in-2024/index.html"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 61
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 54
     images:
-      - url: "https://i.pcmag.com/imagery/articles/06e9xgiHky7uvQ5rRqECnHg-1.fit_lim.size_1200x630.v1702491358.jpg"
-        width: 1120
-        height: 630
+      - url: "https://static.tweaktown.com/news/9/4/94956_115_nvidia-ai-gpu-shipments-expected-to-surge-150-year-over-in-2024_full.png"
+        width: 1500
+        height: 857
         isCached: true
-  - title: "Intel unveils Core Ultra, its first CPUs with integrated NPU for “AI PCs”"
-    excerpt: "Intel unveils Intel Core Ultra CPUs with a dedicated on-chip AI accelerator (NPU) and a tri-cluster CPU design. Built on Intel 4 (7nm node), the CPUs"
-    publishedDateTime: 2023-12-14T17:56:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/intel-unveils-core-ultra-its-first-cpus-with-integrated-npu-for-ai-pcs/articleshow/106000799.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/intel-unveils-core-ultra-its-first-cpus-with-integrated-npu-for-ai-pcs/amp_articleshow/106000799.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/intel-unveils-core-ultra-its-first-cpus-with-integrated-npu-for-ai-pcs/amp_articleshow/106000799.cms"
+  - title: "How Intel's new AI-focused PC chips compare with Apple M3"
+    excerpt: "The Intel Core Ultra supports up to 64GB of LPDDR5/LPDDR5X RAM or up to 96GB of DDR5 RAM. However, Apple M3 Max provides up to 128GB of unified memory. Thunderbolt 4 connectivity for speeds of 40Gbps applies to both. While Apple M3 Max supports Wi-Fi 6E standards, Intel chips can handle discrete Intel Wi-Fi 7 connectivity."
+    publishedDateTime: 2023-12-15T10:06:00Z
+    webUrl: "https://www.newsbytesapp.com/news/science/intel-core-ultra-meteor-lake-vs-apple-m3-chip/story"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 58
+      name: newsbytesapp.com
+      domain: newsbytesapp.com
+    quality: 54
     images:
-      - url: "https://static.toiimg.com/thumb/msid-106000792,width-1280,height-720,resizemode-4/106000792.jpg"
+      - url: "https://i.cdn.newsbytesapp.com/images/l99420231215153414.jpeg"
+        width: 1920
+        height: 1081
+        isCached: true
+  - title: "Intel stock hits a fresh 52-week high after saying its new AI chip tops Nvidia's H100"
+    excerpt: "At 11:00 EDT (16:00 GMT), Intel stock was up about 4% on the day, hitting a new 52-week high."
+    publishedDateTime: 2023-12-14T16:46:00Z
+    webUrl: "https://za.investing.com/news/intel-stock-hits-a-fresh-52week-high-after-saying-its-new-ai-chip-tops-nvidias-h100-432SI-2958248"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 47
+    images:
+      - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
+        width: 251
+        height: 282
+        isCached: true
+  - title: "Samsung Galaxy Book 4 with Intel Power SoC & NVIDIA GeForce RTX 4070 GPU Launched"
+    excerpt: "Korean giant, Samsung has finally launched its new premium laptop, the Galaxy Book 4 series powered with Intel Power CPU & NVIDIA GeForce RTX 407 GPU."
+    publishedDateTime: 2023-12-15T12:09:00Z
+    webUrl: "https://techstory.in/samsung-galaxy-book-4-with-intel-power-soc-nvidia-geforce-rtx-4070-gpu-launched/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 34
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2023/12/Simranpal-Singh.jpeg"
         width: 1280
-        height: 720
+        height: 960
         isCached: true
-  - title: "'Meteor Lake' First Tests: Intel Core Ultra 7 Benched for CPU, Graphics, and AI Performance"
-    excerpt: "We got a fresh-updated Acer Swift Go 14 laptop into PC Labs for our first independent benchmarking of Intel's AI-ready Core Ultra processors. Let's run the numbers!"
-    publishedDateTime: 2023-12-14T15:00:00Z
-    webUrl: "https://www.pcmag.com/news/meteor-lake-first-tests-intel-core-ultra-7-benched-for-cpu-graphics-and"
+  - title: "Nvidia, AMD back $56.5M round for Essential AI Labs, led by Transformer architecture co-inventors"
+    excerpt: "Nvidia, AMD back $56.5M round for Essential AI Labs, led by Transformer architecture co-inventors - SiliconANGLE"
+    publishedDateTime: 2023-12-13T00:03:00Z
+    webUrl: "https://siliconangle.com/2023/12/12/nvidia-amd-back-56-5m-round-essential-ai-labs-led-transformer-architecture-co-inventors/"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 57
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 26
     images:
-      - url: "https://i.pcmag.com/imagery/articles/00be0cfFHCGX7qO2JstGi4j-6.fit_lim.size_1200x630.v1702565935.jpg"
-        width: 1120
-        height: 630
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/Essential-AI.png"
+        width: 718
+        height: 400
         isCached: true
-  - title: "Intel Core Ultra mobile processors announced with up to 16 cores, 5.1 GHz clock speed & AI acceleration"
-    excerpt: "Intel has introduced the latest Core Ultra mobile processors at the “AI Everywhere” event, signaling a transformative phase in personal computing. These processors, built on Intel’s 4 process technology,"
-    publishedDateTime: 2023-12-15T06:16:00Z
-    webUrl: "https://www.gizmochina.com/2023/12/15/intel-core-ultra-mobile-processors-launched/"
+  - title: "YTL and Nvidia to build AI data centre in Johor"
+    excerpt: "YTL Power International revealed on Friday that it will collaborate with GPU chip maker Nvidia to build an AI data centre in Malaysia by the middle of next year."
+    publishedDateTime: 2023-12-11T02:44:00Z
+    webUrl: "https://developingtelecoms.com/telecom-technology/data-centres-networks/15929-ytl-and-nvidia-to-build-ai-data-centre-in-johor.html"
     type: article
     provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 53
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/12/newsrsoom-intel-core-ultra-3.jpg.rendition.intel_.web_.1072.603.jpg"
-        width: 1072
-        height: 603
-        isCached: true
-  - title: "Intel unveils AI experience-focused Core Ultra mobile chips: Details here"
-    excerpt: "Intel said the Core Ultra mobile processors will power more than 230 of the world's first AI PCs from partners including Acer, ASUS, Dell, Google Chromebook, LG, Microsoft Surface, MSI and Samsung"
-    publishedDateTime: 2023-12-15T06:04:00Z
-    webUrl: "https://www.business-standard.com/technology/tech-news/intel-unveils-ai-experience-focused-core-ultra-mobile-chips-details-here-123121500289_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/technology/tech-news/intel-unveils-ai-experience-focused-core-ultra-mobile-chips-details-here-123121500289_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/intel-unveils-ai-experience-focused-core-ultra-mobile-chips-details-here-123121500289_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 53
-  - title: "Intel’s 14th-gen “Core Ultra” mobile chips bring a graphics upgrade, AI features, and a branding refresh"
-    excerpt: "Graphics features include support for up to four 4K displays, hardware-accelerated decoding and encoding of AV1, H.265, H.264, and VP9 and up to 8K, 10-bit HDR, DirectX 12 Ultimate, and Intel Xe Super Sampling for AI-based upscaling."
-    publishedDateTime: 2023-12-14T14:00:00Z
-    webUrl: "https://liliputing.com/intels-14th-gen-core-ultra-mobile-chips-bring-a-graphics-upgrade-ai-features-and-a-branding-refresh/"
-    type: article
-    provider:
-      name: Liliputing
-      domain: liliputing.com
-    quality: 37
-    images:
-      - url: "https://liliputing.com/wp-content/uploads/2023/12/core-ultra_02.jpg"
-        width: 992
-        height: 513
-        isCached: true
-  - title: "Intel Launches Core Ultra ‘Meteor Lake’ Chips In AI PC Push Against Rivals"
-    excerpt: "Intel said the new Core Ultra chips for ultrathin laptops provide superior multi-threading and AI performance to rivals."
-    publishedDateTime: 2023-12-14T17:21:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/intel-launches-core-ultra-meteor-lake-chips-in-ai-pc-push-against-rivals"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 32
-  - title: "GIGABYTE Introduces New AORUS 17 and AORUS 15 AI-Powered Gaming Laptops with Intel Core Ultra 7 Processors"
-    excerpt: "GIGABYTE, the world's leading computer brand, proudly introduces the latest evolution in gaming laptops for 2024 - theAORUS 17 and AORUS 15 - delivering cutting-edge performance in their signature sleek and portable package."
-    publishedDateTime: 2023-12-14T17:13:00Z
-    webUrl: "https://www.malaysiasun.com/news/274065021/gigabyte-introduces-new-aorus-17-and-aorus-15-ai-powered-gaming-laptops-with-intel-core-ultra-7-processors"
-    type: article
-    provider:
-      name: Malaysia Sun
-      domain: malaysiasun.com
-    quality: 21
-    images:
-      - url: "https://mma.prnasia.com/media2/2299916/GIGABYTE_New_AORUS_17.jpg?p=medium600"
-        width: 599
-        height: 337
-        isCached: true
-  - title: "GIGABYTE Introduces New AORUS 17 and AORUS 15 AI-Powered Gaming Laptops with Intel(R) Core(TM) Ultra 7 Processors"
-    excerpt: "GIGABYTE, the world's leading computer brand, proudly introduces the latest evolution in gaming laptops for 2024 - the AORUS 17 and AORUS 15 - delivering cutting-edge performance in their signature sleek and portable package."
-    publishedDateTime: 2023-12-15T01:08:00Z
-    webUrl: "https://www.newswit.com/en/ifkr9tfte2rr0px8ssecufotv8zjeswh"
-    type: article
-    provider:
-      name: academy
-      domain: newswit.com
-    quality: 18
-    images:
-      - url: "https://www.newswit.com/storage/images/iqne/0pr/6vd5b751d3su3ifffv7tjieyc/0-GIGABYTE.jpg.webp"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Intel Accelerates AI Everywhere with Launch of Powerful Next-Gen Products"
-    excerpt: "At its \"AI Everywhere\" launch in New York City today, Intel introduced an unmatched portfolio of AI products to enable customers' AI solutions everywhere - across the data center, cloud, network, edge and PC."
-    publishedDateTime: 2023-12-14T16:37:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-intel-accelerates-ai-everywhere-with-launch-powerful-next-/2023/12/14/9934473.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 18
-  - title: "Acer Debuts AI-Ready Swift Go 14 Laptop with New Intel Core Ultra Processors"
-    excerpt: "New Acer Swift Go 14 laptop enables AI-accelerated experiences and capabilities complemented by Intel AI Boost and Copilot in Windows 11"
-    publishedDateTime: 2023-12-14T19:03:00Z
-    webUrl: "https://www.valdostadailytimes.com/ap/business/acer-debuts-ai-ready-swift-go-14-laptop-with-new-intel-core-ultra-processors/article_76107b90-fdd8-518b-9d55-33e06522208e.html"
-    type: article
-    provider:
-      name: The Valdosta Daily Times
-      domain: valdostadailytimes.com
-    quality: 16
+      name: developingtelecoms.com
+      domain: developingtelecoms.com
+    quality: 19
 
 secured: "bOh0CXZhtQCSELlnIZFvgzXc/bRJzMeOJuOtbsBrqo5isdfxN+QzKuNge74BrQpLH91H7lE2OromxmLmB1MjQzXr62CHGFl28l/1Zutz3Citlm/nNorlkAB1IhwGjFYo0VIt1q1odkEADsy+7vcbD57oWdqHX/s0KMMFclIZGGyHlGb0w1bpgfDDxFwqUAJ/JDPBLlYEvzEL3LdpjpiOm15SzqYBIXThw5/6tSykJk97h5nkm20c1dgiPUwa11ZgsiJDBWKAj7HkesMCSC+xSFtLpt7zEytmA0/VypjbqLKLBXxfKyAummVyAFgz5SX2y37OxYI1zXFpwFKqWzHGW29ztqsyfXU0R0EMyGRVilU=;IlsKMuzw+iJAOaL8/pWhgQ=="
 ---

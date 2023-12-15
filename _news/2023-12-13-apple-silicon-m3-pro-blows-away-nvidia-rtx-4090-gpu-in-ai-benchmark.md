@@ -9,8 +9,8 @@ ampWebUrl: "https://appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blow
 cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark/amp/"
 type: article
 quality: 74
-heat: 104
-published: true
+heat: -1
+published: false
 
 provider:
   name: AppleInsider
@@ -27,21 +27,60 @@ images:
     isCached: true
 
 related:
-  - title: "Apple Silicon M3 Pro competes with Nvidia RTX 4090 GPU in AI benchmark [u]"
-    excerpt: "In a recent test of Apple's MLX machine learning framework, a benchmark shows how the new Apple Silicon Macs compete with Nvidia's RTX 4090."
-    publishedDateTime: 2023-12-14T00:30:00Z
-    webUrl: "https://appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark"
-    ampWebUrl: "https://appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark/amp/"
+  - title: "Nvidia contemplates Intel as potential manufacturing partner for GPU and AI chips"
+    excerpt: "Nvidia GPUs held more than 70 percent of the data center processor market share in the latest quarter, with the majority of chips being manufactured by"
+    publishedDateTime: 2023-12-11T20:00:00Z
+    webUrl: "https://www.techspot.com/news/101160-nvidia-contemplates-intel-potential-manufacturing-partner-gpu-ai.html"
     type: article
     provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 72
+      name: TechSpot
+      domain: techspot.com
+    quality: 74
+  - title: "Intel Core Ultra Meteor Lake Mobile CPUs Launch With Gaming Grade iGPU And AI Brawn"
+    excerpt: "If you're reading this website right now, we probably don't have to explain to you that Intel's new Core Ultra processors launching today were codenamed Meteor Lake, and that they represent not only Intel's first \"disaggregated\" CPUs built from disparate tiles,"
+    publishedDateTime: 2023-12-14T14:00:00Z
+    webUrl: "https://hothardware.com/news/intel-core-ultra-mtl-launch"
+    ampWebUrl: "https://amp.hothardware.com/news/intel-core-ultra-mtl-launch"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/intel-core-ultra-mtl-launch"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 68
     images:
-      - url: "https://photos5.appleinsider.com/gallery/57700-117522-graph-xl.jpg"
-        width: 1312
-        height: 800
+      - url: "https://images.hothardware.com/contentimages/newsitem/63353/content/hero-intel-core-ultra.jpg"
+        width: 708
+        height: 398
+        isCached: true
+  - title: "NVIDIA CEO Jensen Huang woos Vietnam, plans to set up Asian AI Chip base in the country"
+    excerpt: "NVIDIA has some major plans for Vietnam and is seeing the country as its main base in Asia for designing and manufacturing AI chips for the Asian market as well as the rest of the world. For that, NVI"
+    publishedDateTime: 2023-12-11T08:41:00Z
+    webUrl: "https://www.firstpost.com/tech/nvidia-ceo-jensen-huang-woos-vietnam-plans-to-set-up-asian-ai-chip-base-in-the-country-13489822.html"
+    ampWebUrl: "https://www.firstpost.com/tech/nvidia-ceo-jensen-huang-woos-vietnam-plans-to-set-up-asian-ai-chip-base-in-the-country-13489822.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/nvidia-ceo-jensen-huang-woos-vietnam-plans-to-set-up-asian-ai-chip-base-in-the-country-13489822.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 66
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2023/12/NVIDIA-CEO-Jensen-Huang-woos-Vietnam-plans-to-set-up-Asian-AI-Chip-base-in-the-country-.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Intel Releases Core Ultra, Arc GPUs for Bringing AI to Every PC"
+    excerpt: "Pat Gelsinger at the AI Everywhere event announced the company’s partnership with Dell, HP, Lenovo, Supermicro, and Microsoft."
+    publishedDateTime: 2023-12-14T15:48:00Z
+    webUrl: "https://analyticsindiamag.com/intel-aims-to-make-every-pc-an-ai-pcintel-releases-core-ultra-arc-gpus-for-bringing-ai-to-every-pc/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/12/Screenshot-2023-12-14-at-8.49.55-PM-1300x721.png"
+        width: 1300
+        height: 721
         isCached: true
   - title: "NVIDIA AI GPU shipments expected to surge 150% year-over-year in 2024"
     excerpt: "Analyst expects NVIDIA AI GPU shipments to surge another 150% year-over-year in 2024, led by the new H200 GPU and next-gen Blackwell B100 GPUs."
@@ -57,20 +96,71 @@ related:
         width: 1500
         height: 857
         isCached: true
-  - title: "Apple's M3 Max Outshines RTX 4090 in AI Speech Transcription Test"
-    excerpt: "The M3 Max is Apples most powerful 3nm SoC developed for the Mac, with multi-core performance that outperforms the M2 Ultra and a 40-core GPU that can compete with a laptop RTX 4080. Despite these advancements,"
-    publishedDateTime: 2023-12-15T01:53:00Z
-    webUrl: "https://www.econotimes.com/Apples-M3-Max-Outshines-RTX-4090-in-AI-Speech-Transcription-Test-1668034"
+  - title: "How Intel's new AI-focused PC chips compare with Apple M3"
+    excerpt: "The Intel Core Ultra supports up to 64GB of LPDDR5/LPDDR5X RAM or up to 96GB of DDR5 RAM. However, Apple M3 Max provides up to 128GB of unified memory. Thunderbolt 4 connectivity for speeds of 40Gbps applies to both. While Apple M3 Max supports Wi-Fi 6E standards, Intel chips can handle discrete Intel Wi-Fi 7 connectivity."
+    publishedDateTime: 2023-12-15T10:06:00Z
+    webUrl: "https://www.newsbytesapp.com/news/science/intel-core-ultra-meteor-lake-vs-apple-m3-chip/story"
     type: article
     provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 41
+      name: newsbytesapp.com
+      domain: newsbytesapp.com
+    quality: 54
     images:
-      - url: "https://f1.econotimes.com/2023/12/gbem9k4h88_th_1024x0.jpg"
-        width: 1024
-        height: 682
+      - url: "https://i.cdn.newsbytesapp.com/images/l99420231215153414.jpeg"
+        width: 1920
+        height: 1081
         isCached: true
+  - title: "Intel stock hits a fresh 52-week high after saying its new AI chip tops Nvidia's H100"
+    excerpt: "At 11:00 EDT (16:00 GMT), Intel stock was up about 4% on the day, hitting a new 52-week high."
+    publishedDateTime: 2023-12-14T16:46:00Z
+    webUrl: "https://za.investing.com/news/intel-stock-hits-a-fresh-52week-high-after-saying-its-new-ai-chip-tops-nvidias-h100-432SI-2958248"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 47
+    images:
+      - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
+        width: 251
+        height: 282
+        isCached: true
+  - title: "Samsung Galaxy Book 4 with Intel Power SoC & NVIDIA GeForce RTX 4070 GPU Launched"
+    excerpt: "Korean giant, Samsung has finally launched its new premium laptop, the Galaxy Book 4 series powered with Intel Power CPU & NVIDIA GeForce RTX 407 GPU."
+    publishedDateTime: 2023-12-15T12:09:00Z
+    webUrl: "https://techstory.in/samsung-galaxy-book-4-with-intel-power-soc-nvidia-geforce-rtx-4070-gpu-launched/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 34
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2023/12/Simranpal-Singh.jpeg"
+        width: 1280
+        height: 960
+        isCached: true
+  - title: "Nvidia, AMD back $56.5M round for Essential AI Labs, led by Transformer architecture co-inventors"
+    excerpt: "Nvidia, AMD back $56.5M round for Essential AI Labs, led by Transformer architecture co-inventors - SiliconANGLE"
+    publishedDateTime: 2023-12-13T00:03:00Z
+    webUrl: "https://siliconangle.com/2023/12/12/nvidia-amd-back-56-5m-round-essential-ai-labs-led-transformer-architecture-co-inventors/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 26
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/Essential-AI.png"
+        width: 718
+        height: 400
+        isCached: true
+  - title: "YTL and Nvidia to build AI data centre in Johor"
+    excerpt: "YTL Power International revealed on Friday that it will collaborate with GPU chip maker Nvidia to build an AI data centre in Malaysia by the middle of next year."
+    publishedDateTime: 2023-12-11T02:44:00Z
+    webUrl: "https://developingtelecoms.com/telecom-technology/data-centres-networks/15929-ytl-and-nvidia-to-build-ai-data-centre-in-johor.html"
+    type: article
+    provider:
+      name: developingtelecoms.com
+      domain: developingtelecoms.com
+    quality: 19
 
 secured: "vFRFFjKrN7mIq7902RgDiLG9U240Q9/uNZR1cAIufhS+Ommritz0DW2vLEbEEgT55CLfEb2srkNpEaQbkVX4l2qa/kjJnM5Td0mdpMsrqRkiGUn5wCOYKHXt9juts0VZhvTtdff7m/OxCtm4I+32lziEDlOWvlhnDkmkGJkUPV+Hc1+DgWZsKpPpufpiNeIUiePe6l5txw9DWjCntwkIaS6EDmSoPagRlUkPq4SQKyR39QJvivQV6YzalQ03/ijoYkopx20EMCL0dSRvcPVkGfbYuVX57AzADTPfqUI00TixEbRoeBq5wCE34uL9iDnE6BXBIy37Yz0QgOVLwRYYjFRbQS6Q+QnHaMypcvRaVQrOdXepI2Tsw7qvOC+USTJuf1O6QXA2J1JCjzImfgkJwEgtoXtqxW0udrY+mnLow/s4tXll3H2stAVvWeOfbBPFxcjaJ+sWwjLSMlCNxdUHmKMCoQq7ANV9bY42zYN168n6o8QVDNZ1XhK113HoiC2Fni5fi9O4ds5O19X1bTuVEg==;mBm4HhxHUVwXXmEFRsWMcQ=="
 ---

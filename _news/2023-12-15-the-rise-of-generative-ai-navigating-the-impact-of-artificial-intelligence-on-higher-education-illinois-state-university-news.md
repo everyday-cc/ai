@@ -104,15 +104,6 @@ related:
         width: 1440
         height: 500
         isCached: true
-  - title: "How to Make AI More Diverse"
-    excerpt: "The New York Times published an article titled “Who’s Who Behind the Dawn of the Modern Artificial Intelligence Movement,” highlighting 12 different"
-    publishedDateTime: 2023-12-10T12:30:00Z
-    webUrl: "https://time.com/charter/6344366/how-to-make-ai-more-diverse/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 47
   - title: "FIS: Trust in generative AI fragile among consumers"
     excerpt: "A significant majority of consumers admit they don't know whether their banks are currently using generative AI in their operations"
     publishedDateTime: 2023-12-14T11:00:00Z

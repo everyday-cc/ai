@@ -34,19 +34,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Nvidia, AMD back $56.5M round for Essential AI Labs, led by Transformer architecture co-inventors"
-    excerpt: "Nvidia, AMD back $56.5M round for Essential AI Labs, led by Transformer architecture co-inventors - SiliconANGLE"
-    publishedDateTime: 2023-12-13T00:03:00Z
-    webUrl: "https://siliconangle.com/2023/12/12/nvidia-amd-back-56-5m-round-essential-ai-labs-led-transformer-architecture-co-inventors/"
+  - title: "2 Reasons Why AMD Is a Better Artificial Intelligence (AI) Stock to Buy Than Nvidia -- and 2 Reasons Why It Isn't"
+    excerpt: "I'd argue that the top reason why AMD could be a better AI stock to buy than Nvidia right now is that customers are looking for an alternative to Nvidia's graphics processing units (GPUs). This presents a tremendous opportunity for AMD to step up to the plate."
+    publishedDateTime: 2023-12-13T10:50:00Z
+    webUrl: "https://www.fool.com/investing/2023/12/13/2-reasons-why-amd-better-ai-stock-nvidia/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 26
+      name: The Motley Fool
+      domain: fool.com
+    quality: 63
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/Essential-AI.png"
-        width: 718
-        height: 400
+      - url: "https://g.foolcdn.com/editorial/images/758013/amd-headquarters-with-amd-logo-on-top-of-building_amd_advance.jpg"
+        width: 2000
+        height: 1200
         isCached: true
 
 secured: "56E7uQ77IfwnZ8BpVtDf+OkaGt7AwdBMS4H/TakzY2MrwAce4vFgtme/qidAdj9yXbs+e2NUo5LNZBcQs+XNWtmpQwuspWhGhKC9AW742A21rHyyn8AOE4+fFNPkBPRWt9O/UkSPsUnW+q7nrVPe1FBb8KwSuXwn9TkkU5GTfKjlUu2qjmwCWGSvWadPRBjlIigBXIeEZxMgMWWMzokYmEhzTmUJidYh7CYVSKB2F01P7nUyqJP8vB8wkKNNMlHuDNnza2UPk/4NrrC0iIIDDB7mhcWuLThxDIeRFKaZ6y0Zdji9876BmU0PTYICkj9574MZZVyn+mzrfe+duiJfbeWr/qixHVz6nwdgdWNraAc=;2OntLPMCNteiLAyMloyz7w=="

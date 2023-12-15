@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-15-the-potential-of-embodied-ai.md",
+      "title": "The Potential Of Embodied AI",
+      "excerpt": "You don't have to necessarily be a technical expert to reap some of the benefits of AI-powered tools in your own business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/15/the-potential-of-embodied-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/15/the-potential-of-embodied-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/657b4fcfd2b7da06875045b0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/15/the-potential-of-embodied-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/15/the-potential-of-embodied-ai/amp/",
+      "publishedDateTime": "2023-12-15T11:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-14-microsoft-is-a-leader-in-the-2023-idc-marketscape-for-ai-governance-platforms.md",
       "title": "Microsoft is a leader in the 2023 IDC MarketScape for AI Governance Platforms",
       "excerpt": "We are excited to announce that Microsoft Azure is recognized as a leader in the inaugural IDC MarketScape for AI Governance Platforms. IDC looked at AI governance platforms that ensure AI and machine learning lifecycle governance, collaborative risk management, and regulatory excellence for AI.\nThe",
@@ -62,7 +115,7 @@
       "originalUrl": "https://azure.microsoft.com/en-us/blog/azure-openai-service-powers-the-microsoft-copilot-ecosystem/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 189,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -313,7 +366,7 @@
       "originalUrl": "https://yourstory.com/2023/12/ai-revolutionising-search-engine-results",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -1411,40 +1464,6 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-04-how-azure-ai-content-safety-helps-protect-users-from-the-classroom-microsoft.md",
-      "title": "How Azure AI Content Safety helps protect users from the classroom … – Microsoft",
-      "excerpt": "South Australia’s Department for Education decided to bring generative AI into its classrooms. But before they opened the doors, one",
-      "sourceUrl": null,
-      "webUrl": "https://www.inferse.com/811196/how-azure-ai-content-safety-helps-protect-users-from-the-classroom-microsoft/",
-      "originalUrl": "https://www.inferse.com/811196/how-azure-ai-content-safety-helps-protect-users-from-the-classroom-microsoft/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-03T23:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inferse",
-        "domain": "inferse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

@@ -92,6 +92,20 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 81
+  - title: "Microsoft AI model-as-a-service available in Azure AI – Phi-2, Orca 2, Llama 2"
+    excerpt: "Microsoft's enhancement of Azure AI capabilities through its new AI model-as-a-service offering a significant step forward in the world of artificial"
+    publishedDateTime: 2023-12-15T11:09:00Z
+    webUrl: "https://www.geeky-gadgets.com/ai-model-as-a-service/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 67
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/Microsoft-AI-model-as-a-service.jpg"
+        width: 1280
+        height: 717
+        isCached: true
   - title: "Microsoft Agrees to Union Contract Terms Governing Its Use of AI"
     excerpt: "Microsoft Corp. has agreed to union contract language governing its use of artificial intelligence, creating an avenue for workers to challenge how it deploys the evolving technology."
     publishedDateTime: 2023-12-11T11:59:00Z

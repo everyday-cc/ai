@@ -3,8 +3,8 @@ category: news
 title: "AI Technique Designed to Advance Understanding of Neural Circuits"
 excerpt: "The new method is able to identify neurons whether they are represented in images as individual points or as 3D volumes."
 publishedDateTime: 2023-12-05T21:18:00Z
-originalUrl: "https://www.genengnews.com/news/ai-technique-designed-to-advance-understanding-of-neural-circuits/"
-webUrl: "https://www.genengnews.com/news/ai-technique-designed-to-advance-understanding-of-neural-circuits/"
+originalUrl: "https://www.genengnews.com/topics/artificial-intelligence/ai-technique-designed-to-advance-understanding-of-neural-circuits/"
+webUrl: "https://www.genengnews.com/topics/artificial-intelligence/ai-technique-designed-to-advance-understanding-of-neural-circuits/"
 type: article
 
 provider:
@@ -15,6 +15,6 @@ topics:
   - Machine Learning
   - AI
 
-secured: "e4kytvx0GYI80Q70qEwxjGVMQV4WYPDFtdlKsv7l6OlBwmA43ZGYTL78PfDMXONKPl6waW8bi5M4NYbdil04AJNtZ/L1phqKcYo3sVjen2GDb1x5b9QHh9Kc/JokoXGN6tUNU1uP8ZlLu9VFLqrRk0buFpUUiH+DlWMuPIheKtjgJiNNjcZnAsXpTLHXsC5SzMMaJfVH129gdAkXshdlUmFOqB0akEeO7NHb5fC49Y3/jUxkbJdBWpxsmUz+LPz9ZY2DLVfrjlC1IbLo0XxumNoI7A+o7uUmwzNa5lf814Zy5BgfO/zPJ4oeCcTRHeIHuV25l7rZFPCW4YIgzKIH6VEuBx7g68YUVQbibtvhcrY=;hfM/lJXcr6Aee72ZQAERpg=="
+secured: "CTe2feG/zCCBmA27rCkFXV0D5g1YboR2MsYuABFbMU6UUkb4ZJMVF9ALN759pNSEeGEUBzzst8DOeEfCrX6IVIwYCnvFI0hYUYSV6OmNsMRLhzoHqQFn+N0Cdk0rSeMRxL5GUQap5jGdOXdIB1QlqB4V72hHxqAoSjj4N89e3dZXdd8swi+z5lQe8foK+W9C1p0bTOiUNJBM5SF2/jQT/72bYR2miniycGdT+Orjn1lwYgCr5I11MMbaO2uPVfb9J06TNPlvBUiUE9Fba693e/K4zg6fN5QxbsfsIEJx5ZYe/gtzMpnB8BY3XUkQaFgHqNscpfQ/UXu1doTtuOx56mwzUt/KKRNEg32M0lV0R5u+jsAHtQ5pNd/VK5Yb9T/1UgLPHnjWFAp2p2JJvDmjlCVloPox1UpGi8/JDDEJDh9Z51ut84qa4NawnsKNUfeojUQlMhbr8TC9vP69NBQhQ7D64khOl/d9NuPNIN/NHBYWg+6KFKWL54AedlldXVMhDWSNQIt58dRaxm0fGBWBKw==;sVh60H8YqtyDcsbtsWdNsw=="
 ---
 

@@ -57,20 +57,6 @@ related:
       name: The New York Times
       domain: nytimes.com
     quality: 49
-  - title: "Google's AI chatbot Bard gives drab answers, but it does one thing better than ChatGPT – Mashable"
-    excerpt: "Compared to the other chatbots on the market, Google's Bard is the boring one. In a more or less positive assessment, Vox called"
-    publishedDateTime: 2023-12-13T14:29:00Z
-    webUrl: "https://www.inferse.com/838409/googles-ai-chatbot-bard-gives-drab-answers-but-it-does-one-thing-better-than-chatgpt-mashable/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 43
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/12/wp-header-logo-7371.png"
-        width: 1200
-        height: 1200
-        isCached: true
 
 secured: "bAdTgiA4nv5ZzUd0DAISey2RRT4rxCo071kf5Cs3EYwhYkCi+EQQNRhfIsLjPb+BqETEln/S98zHHXmFQslVNf5VvlxI4sZztoBX5J6zlS0JqNe9xXwTbW8Ev/jvq3n/h1TnBP+SUIXBsmI7oJANHsWkgvC8Q05vGxmGtXTuVUMCRelhzjtONsWbrvBoKOWFk7wyBZCRG7ywXddZP+TGt+LYsBQUNBMIzDIjZaBABKcxsFKaclqZAIhZAspC9kZfd9T1bBjE9/UPvSdJnfUzl8526wtB8Sh8QjqE27X7F778qZ2JwSR14SXXdz8p8y9/zmSFJL3qC+galvooSy8fZRs0Os6y7JfsDmhXtHUmKRg1PZ+agHGrZ/JS3B5Lk54AtUluP9gwR1JQDqwwBMfHsJV3HiuEnTz4Ttymk9s/dLZMiU5TmirT2XEw0f3o0fSY7ShFRg6mqWzp6Bk2x5cJwKhJlDQWcVw6PCSujAghI3NPeDbsAE9emC9T7FwVcFOFiZsxAl/dFF5lFTCBZGLyEQ==;MUMVChFJYrK8YGknC3eKxw=="
 ---

@@ -88,15 +88,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How to Make AI More Diverse"
-    excerpt: "The New York Times published an article titled “Who’s Who Behind the Dawn of the Modern Artificial Intelligence Movement,” highlighting 12 different"
-    publishedDateTime: 2023-12-10T12:30:00Z
-    webUrl: "https://time.com/charter/6344366/how-to-make-ai-more-diverse/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 47
   - title: "The rise of generative AI: Navigating the impact of artificial intelligence on higher education – Illinois State University News"
     excerpt: "This story was written by a human with help from artificial intelligence.A human researched the story, interviewed sources, and typed these words. Artificial"
     publishedDateTime: 2023-12-15T04:05:00Z

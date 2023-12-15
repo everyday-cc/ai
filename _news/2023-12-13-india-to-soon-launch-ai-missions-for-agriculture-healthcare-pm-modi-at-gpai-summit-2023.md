@@ -44,6 +44,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "AI in healthcare: Duke Health signs pledge for ethical, responsible use"
+    excerpt: "Duke Health is among a leading group of health systems and payers from across the U.S. to sign a pledge advancing ethical and responsible use of Artificial Intelligence technology in health care."
+    publishedDateTime: 2023-12-15T11:37:00Z
+    webUrl: "https://wraltechwire.com/2023/12/15/ai-in-healthcare-duke-health-signs-pledge-for-ethical-responsible-use/"
+    ampWebUrl: "https://wraltechwire.com/2023/12/15/ai-in-healthcare-duke-health-signs-pledge-for-ethical-responsible-use/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/12/15/ai-in-healthcare-duke-health-signs-pledge-for-ethical-responsible-use/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 91
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2023/12/robot-AI-doctor-e1702640075182.jpg"
+        width: 1262
+        height: 710
+        isCached: true
   - title: "Artificial Intelligence in Healthcare: 3 Stocks Transforming the Industry"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence is being applied across the healthcare sector to"
     publishedDateTime: 2023-12-11T13:01:00Z

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-15-the-role-of-humanity-in-crafting-trustworthy-ai-content.md",
+      "title": "The Role Of 'Humanity' In Crafting Trustworthy AI Content",
+      "excerpt": "AI-generated content, while efficient, comes with its share of pitfalls and challenges with concerns about authenticity, creativity and quality control.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/12/15/the-role-of-humanity-in-crafting-trustworthy-ai-content/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/12/15/the-role-of-humanity-in-crafting-trustworthy-ai-content/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/624ee73bfc67b2e5f6ca5af8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/12/15/the-role-of-humanity-in-crafting-trustworthy-ai-content/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/12/15/the-role-of-humanity-in-crafting-trustworthy-ai-content/amp/",
+      "publishedDateTime": "2023-12-15T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-15-indian-ai-startup-sarvam-ai-open-sources-first-hindi-ai-model.md",
       "title": "Indian AI startup Sarvam AI open-sources first Hindi AI model",
       "excerpt": "Indian AI startup Sarvam AI has released its first large language model a Hindi AI model and open-sourced it days after closing a funding for $41 million.",
@@ -106,7 +158,7 @@
       "originalUrl": "https://www.forbes.com/sites/kalinabryant/2023/12/13/how-ai-is-impacting-society-and-shaping-the-future/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 259,
+      "heat": 269,
       "tags": null,
       "images": [
         {
@@ -544,7 +596,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/11/why-generative-ai-makes-sense-for-edge-computing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 221,
+      "heat": 211,
       "tags": null,
       "images": [
         {
@@ -1336,49 +1388,6 @@
       "provider": {
         "name": "Statista",
         "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-markets-eq-is-first-to-fuse-voice-tones-with-language-in-generative-ai-platform-for-corporate-communications.md",
-      "title": "Markets EQ is First to Fuse Voice Tones with Language in Generative AI Platform for Corporate Communications",
-      "excerpt": "Markets EQ, today, introduced a state-of-the-art AI tonal recognition technology for evaluating and actively enhancing executive communications. The announcement, which was made from the floor of IR Magazine’s AI in IR Forum,",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/markets-eq-is-first-to-fuse-voice-tones-with-language-in-generative-ai-platform-for/article_706b955e-44c6-5cae-b7ee-07d31812e269.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/markets-eq-is-first-to-fuse-voice-tones-with-language-in-generative-ai-platform-for/article_706b955e-44c6-5cae-b7ee-07d31812e269.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/2/86/28626883-20f8-5619-b5ed-4cd2e2043054/6569dea066568.image.jpg?crop=1946%2C1022%2C0%2C21&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-01T12:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
         "images": null,
         "publishers": null,
         "authors": null

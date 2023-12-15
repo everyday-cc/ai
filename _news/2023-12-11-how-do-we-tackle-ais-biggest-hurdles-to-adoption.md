@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/11/how-do-we-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/11/how-do-we-tackle-ais-biggest-hurdles-to-adoption/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -55,6 +55,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 27
+  - title: "Nth Exception launches AI tool for ISO 20022 adoption"
+    excerpt: "London-based fintech Nth Exception has launched Nucleus, a machine learning data fabric to ease financial institutions into ISO 20022 adoption."
+    publishedDateTime: 2023-12-15T11:06:00Z
+    webUrl: "https://www.finextra.com/newsarticle/43442/nth-exception-launches-ai-tool-for-iso-20022-adoption"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
 
 secured: "QUyDhY1hc1ObeSJ2xsk74P6yjWb16jZJW9FDhxSFwdCG2z9SfL7JZzWzXbqCYwnnVC6eUVYkaV1lPSk/flRK/r9jncbijSCB4mzof3xICYk6k8R4WPNGtwDnMS0nC8rczc0EbObwx8RlCfI4vesoAz2QeSv0H9QtlI/Ues1f2KC8tN4zCD3XzB9ZtMCSVCfgWzlZGoKHCDgHgfs7gYkq4SalpRJD64duB0swk0mqZ6oDwKdjA/qxA/aXSjbxhL43fIxmWpkuuwqlRTCh0NNcIVxrFwzOr+BJ91Pugwr3L4jPtwxej55IQLIyUjHQd6XoExjCCGMzGg2RsTCwMfCKL7LAg2xj1ptBhhG96VcEVAM=;9u2bRrvdTWIf10JiJ3nU6w=="
 ---

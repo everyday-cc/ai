@@ -7,7 +7,7 @@ originalUrl: "https://yourstory.com/2023/12/ai-revolutionising-search-engine-res
 webUrl: "https://yourstory.com/2023/12/ai-revolutionising-search-engine-results"
 type: article
 quality: 56
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -49,20 +49,6 @@ related:
       name: The New York Times
       domain: nytimes.com
     quality: 49
-  - title: "Google's AI chatbot Bard gives drab answers, but it does one thing better than ChatGPT – Mashable"
-    excerpt: "Compared to the other chatbots on the market, Google's Bard is the boring one. In a more or less positive assessment, Vox called"
-    publishedDateTime: 2023-12-13T14:29:00Z
-    webUrl: "https://www.inferse.com/838409/googles-ai-chatbot-bard-gives-drab-answers-but-it-does-one-thing-better-than-chatgpt-mashable/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 43
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/12/wp-header-logo-7371.png"
-        width: 1200
-        height: 1200
-        isCached: true
   - title: "These Are the Biggest Differences Between Google Bard and ChatGPT"
     excerpt: "AI chatbots are more popular than ever, and there are plenty of solid options out there to choose from beyond OpenAI’s ChatGPT. One particularly strong competitor is Google’s Bard AI, which pulls information from the internet and runs off the latest Gemini language model created by Google."
     publishedDateTime: 2023-12-11T03:35:00Z

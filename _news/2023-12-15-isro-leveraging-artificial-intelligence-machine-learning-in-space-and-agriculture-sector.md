@@ -9,7 +9,7 @@ ampWebUrl: "https://krishijagran.com/news/isro-leveraging-artificial-intelligenc
 cdnAmpWebUrl: "https://krishijagran-com.cdn.ampproject.org/c/s/krishijagran.com/news/isro-leveraging-artificial-intelligence-machine-learning-in-space-and-agriculture-sector/?amp=1"
 type: article
 quality: 66
-heat: 76
+heat: 78
 published: true
 
 provider:

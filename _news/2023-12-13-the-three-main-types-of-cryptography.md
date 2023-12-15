@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/cryptography-types/"
 webUrl: "https://www.ibm.com/blog/cryptography-types/"
 type: article
 quality: 82
-heat: 84
+heat: 82
 published: true
 
 provider:

@@ -84,6 +84,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 34
+  - title: "EU AI Act: The Regulation vs Innovation Dilemma for Europe"
+    excerpt: "The act means large language models (LLMs) such as ChatGPT need to comply with transparency obligations before they are put on the market."
+    publishedDateTime: 2023-12-15T10:39:00Z
+    webUrl: "https://www.techopedia.com/eu-ai-act-the-regulation-vs-innovation-dilemma-for-europe"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 19
 
 secured: "DV+Wx0Pc/9naZmOFWuc4Lhi461u2g/J+s8turOfQVw6snL0vRACPplZX86Tub5wJa9Bo/wqtboXZzBYSkpqY1EQx1dMgAyHHgiqrdtUD8V9nEDVZveUnSHKLdqhnILhOr+mT9Bg53tfho0BFdHA88k40gpdXCN5pSkjbGSpefMqAh9J/zVSXHizhOymQhZ0u6IrrxSSmwGma4qIcCrwQFK/CsoE7VOvvJgO9SCfnXbsxoFJ70ZSHx8En4fApAzuT3rnWFywoJ6ytTHfcExcthNwDfQ6BiWRViia+tq2gsIArxa/o1vhiYGYLn0S1N4/kalwfZ3OTJTYN3UJ3sPCDz7tGMMF3EVeVP+xbzeHqq+jTs8T1paqJ6m3eGQ8jfoztT4lBiUzMBz+EZ9+YOXTp+kkrVxENXdjvgNjD9ak7OvWn1lFi6vWZofjrhvhMWg5FNUV4XqaV9XbbDEWSLBr7mIrV8Asm8u1tTHoC6fUmxfiuLIUKvvfnF4SDAWcdIGHJYl9Ai7quUuOc8pDT2pkzsQ==;VNptwwg4bglvuQautselVA=="
 ---

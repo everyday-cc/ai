@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/surprise-ai-chatbots-dont-i
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/surprise-ai-chatbots-dont-increase-student-cheating-afterall-new-research-finds/"
 type: article
 quality: 83
-heat: 103
+heat: 83
 published: true
 
 provider:
@@ -29,33 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Google's Bard vs OpenAI's ChatGPT: Which of the rival AI chatbots is better? – Euronews"
-    excerpt: "Google’s answer to ChatGPT is here - but is it as good as OpenAI’s global phenomenon? Euronews Next put them through their paces. Google has made its"
-    publishedDateTime: 2023-12-12T02:41:00Z
-    webUrl: "https://www.inferse.com/836356/googles-bard-vs-openais-chatgpt-which-of-the-rival-ai-chatbots-is-better-euronews/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 48
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/12/wp-header-logo-6663.png"
-        width: 1000
-        height: 563
-        isCached: true
-  - title: "Elon Musk’s Grok AI Chatbot Enters India"
-    excerpt: "Elon Musk's AI startup is rolling out Grok to 46 other countries including Australia, Canada, Malaysia, New Zealand and Singapore among others"
-    publishedDateTime: 2023-12-14T06:17:00Z
-    webUrl: "https://inc42.com/buzz/elon-musks-grok-ai-chatbot-enters-india/"
-    ampWebUrl: "https://inc42.com/buzz/elon-musks-grok-ai-chatbot-enters-india/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/elon-musks-grok-ai-chatbot-enters-india/amp/"
-    type: article
-    provider:
-      name: inc42
-      domain: inc42.com
-    quality: 37
 
 secured: "JcKqbY+u45m1eArZxOMtlOyZiiLswTyrow5utizGRkiHHThPdPoEAuVmr6cwYjEt/yFn3sXWo9zOQX8LoK3+9E/eJNSnbnCJKDlyXP/mBIiuJ/HWn9vXOdweTlyJXjxc4n4qg+lV6DsSV/irnQR/M7/H+wmoCOl1PI65mQ72ltU+R7LY3DmPaw9Q4NQTNVqgnZcfFClQz9UF5mB7bhlTESJW6Y24Ivt7Jmp8Qbs1mDlAWXenP2DjWLouFVbk5y1QFqJIRPLqI5ksuEwjrJgPBklaxpExW+Ze3BXH0a6tXu2qW4f8VLtLxX0laX1TvEidvxIaMBYWhZ2g0Wj5jx96bde3FWkKxDpa7u0S1XqhKVA=;jN0MBfsdbjs23s5Y63jKOA=="
 ---

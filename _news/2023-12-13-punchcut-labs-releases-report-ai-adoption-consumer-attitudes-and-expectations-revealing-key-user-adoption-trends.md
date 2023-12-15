@@ -55,6 +55,15 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Nth Exception launches AI tool for ISO 20022 adoption"
+    excerpt: "London-based fintech Nth Exception has launched Nucleus, a machine learning data fabric to ease financial institutions into ISO 20022 adoption."
+    publishedDateTime: 2023-12-15T11:06:00Z
+    webUrl: "https://www.finextra.com/newsarticle/43442/nth-exception-launches-ai-tool-for-iso-20022-adoption"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
 
 secured: "I1EhILiM/E/dHM4/s9RrSn+8JwvMCW3JCDEqME41VUk+cQHJSpPRGaDrDAnTmDGVRTRg4i/TPKX3A2x8GQvHEEseRiCDQnG2Oaf7SNACaX6e4vDD5b0+n5yZGuz0kYcC5FVvTmoHH4TzZCzzotZeHJQq9ldgZUziqMwLdNWnYn7GA+Zc0HPT40/CspC975CyM5V6K8BxHNOh4GDkTpVQBgc2o7CgdmyJMlt/prTrAGKu43VdICT9Wwnvg1o2Fu1/XuwjkoSodnY1+e51mjIbHZjIfqTyiCmnbeyYdFe9gAZeI0psEPn0LFzX7eNoqTOV5x/U/ym2Gzl8W3m87bJIkSCmCMh8FcXcMHsFNKx/DAk=;1YHaWRYM/cdzw3rYWaqD8Q=="
 ---

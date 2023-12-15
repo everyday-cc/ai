@@ -39,34 +39,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "How Intel's new AI-focused PC chips compare with Apple M3"
-    excerpt: "The Intel Core Ultra supports up to 64GB of LPDDR5/LPDDR5X RAM or up to 96GB of DDR5 RAM. However, Apple M3 Max provides up to 128GB of unified memory. Thunderbolt 4 connectivity for speeds of 40Gbps applies to both. While Apple M3 Max supports Wi-Fi 6E standards, Intel chips can handle discrete Intel Wi-Fi 7 connectivity."
-    publishedDateTime: 2023-12-15T10:06:00Z
-    webUrl: "https://www.newsbytesapp.com/news/science/intel-core-ultra-meteor-lake-vs-apple-m3-chip/story"
-    type: article
-    provider:
-      name: newsbytesapp.com
-      domain: newsbytesapp.com
-    quality: 54
-    images:
-      - url: "https://i.cdn.newsbytesapp.com/images/l99420231215153414.jpeg"
-        width: 1920
-        height: 1081
-        isCached: true
-  - title: "Intel Core Ultra improves battery & AI for Windows and ChromeOS – here are the first laptops"
-    excerpt: "The new build, Intel claims, will see the Core Ultra 7 outpowering the comparable AMD chip, as well as Apple M3 and Qualcomm’s Snapdragon 8cx Gen 3. Intel is also pushing AI pretty hard, with a dedicated NPU on every chip that exists for AI tasks ..."
-    publishedDateTime: 2023-12-14T18:16:00Z
-    webUrl: "https://9to5google.com/2023/12/14/intel-14th-gen-core-ultra-processors-laptops/"
-    type: article
-    provider:
-      name: 9to5google
-      domain: 9to5google.com
-    quality: 28
-    images:
-      - url: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/12/intel-core-ultra-chip-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "etjO8hlLHsBUighntuAP/JwLezERTCLdLp4vUUdojBhFXdP54sWVqEftNHAfnFqT2W/jahh/K6kwdezWsshPb1BXQ8ERPWe50V/9rmRfZOZEJEW+98ELl3niqPULd49tbczLGwJf1SHr3zb+nMOgcOLcdBoDjVGySsjJiQV5zwmodRl+1YtiYCOXI4pZPHQuhRIMsFQnTfSrOA8gQo80i5fXIOfWv5/sKHdZjMeFZrIV3xoTYI9iTzOIBPv6jZ3rCJGxiE5cjgUCfs/QEIlGbpI+CFNm+zqoqhaWI18huCxaJ9evuXy7tgx3GiZKmh27F6Vxk3LbfXa8KQDfOyRIcohO39Ndyrh/5591Sk+Ow/vlg4CGFvPVInMAB8WWCMack9fregFOexiLPEiH4Z5pGakw+j1SFemJWBAb6CoX2je/gu1cMZpVwyQOHxiBUWYC65LLBqbPpo7SUnWP/qA23eN/DtgfGNfZJZ8E8xIaBPaAsCDS7PmE3DfObBeYzUuza4O2Q5I4dDVLa1aXFKGmSg==;mAZ+zuMMl/OHRXgjFg0EDQ=="
 ---

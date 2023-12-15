@@ -24,52 +24,102 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk Slammed By His Own AI Bot"
-    excerpt: "\"Well, it seems like Elon might be trying to rewrite history here,\" the AI bot started its message about Musk."
-    publishedDateTime: 2023-12-12T09:37:00Z
-    webUrl: "https://www.newsweek.com/elon-musk-slammed-own-ai-bot-1851531"
+  - title: "H&R Block introduces AI chatbot that will answer your complex tax questions"
+    excerpt: "H&R Block said its goal with this new AI-enabled feature is to to help customers understand how their taxes work, rather than just being told where to put a certain number. The company hopes the advice from AI Tax Assist helps keep customers on the H&R Block site, instead of turning to Google search."
+    publishedDateTime: 2023-12-15T03:11:00Z
+    webUrl: "https://www.zdnet.com/article/h-r-block-introduces-ai-chatbot-that-will-answer-your-complex-tax-questions/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/h-r-block-introduces-ai-chatbot-that-will-answer-your-complex-tax-questions/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/h-r-block-introduces-ai-chatbot-that-will-answer-your-complex-tax-questions/"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 67
+      name: ZDNet
+      domain: zdnet.com
+    quality: 85
     images:
-      - url: "https://d.newsweek.com/en/full/2321918/elon-musk-x-logo.jpg"
+      - url: "https://www.zdnet.com/a/img/resize/22572debc72d09be85c3ee9a64b6ba99f9125edc/2023/12/15/137a600d-209f-431c-b4e9-a5d90cf20a11/gettyimages-88160312.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "Elon Musk’s AI bot, Grok, speaks as if made by OpenAI in some tests, causing a stir"
-    excerpt: "Grok, the AI language model created by Elon Musk's xAI, went into wide release last week, and people have begun spotting glitches. On Friday, security tester Jax Winterbourne tweeted a screenshot of Grok denying a query with the statement,"
-    publishedDateTime: 2023-12-11T20:13:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/12/elon-musks-ai-bot-grok-speaks-as-if-made-by-openai-in-some-tests-causing-a-stir/"
+  - title: "Google's Bard vs OpenAI's ChatGPT: Which of the rival AI chatbots is better? – Euronews"
+    excerpt: "Google’s answer to ChatGPT is here - but is it as good as OpenAI’s global phenomenon? Euronews Next put them through their paces. Google has made its"
+    publishedDateTime: 2023-12-12T02:41:00Z
+    webUrl: "https://www.inferse.com/836356/googles-bard-vs-openais-chatgpt-which-of-the-rival-ai-chatbots-is-better-euronews/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 41
-  - title: "Grimes Unveils Grok, An AI Children’s Toy Unrelated To Elon Musk’s Grok"
-    excerpt: "One of the most recent products that Elon Musk is pushing on the world is Grok, an “anti-woke” chatbot for users of the social network that most of us still call Twitter. Grimes, currently in a custody battle with Musk over their three children,"
-    publishedDateTime: 2023-12-15T00:40:00Z
-    webUrl: "https://www.stereogum.com/2245663/grimes-unveils-grok-an-ai-childrens-toy-unrelated-to-elon-musks-grok/news/"
-    type: article
-    provider:
-      name: Stereogum
-      domain: stereogum.com
-    quality: 37
+      name: Inferse
+      domain: inferse.com
+    quality: 48
     images:
-      - url: "https://static.stereogum.com/uploads/2023/12/Grimes-1702585323.jpg"
-        width: 1006
-        height: 788
+      - url: "https://www.inferse.com/wp-content/uploads/2023/12/wp-header-logo-6663.png"
+        width: 1000
+        height: 563
         isCached: true
-  - title: "Elon Musk’s new AI Grok accused of stealing answers from ChatGPT"
-    excerpt: "Grok, the recently released chatbot from billionaire Elon Musk's startup xAI, has been accused of ripping off ChatGPT's codebase."
-    publishedDateTime: 2023-12-11T20:26:00Z
-    webUrl: "https://www.dailydot.com/debug/elon-musk-xai-grok-ripping-off-openai-chatgpt/"
+  - title: "Google's AI chatbot Bard gives drab answers, but it does one thing better than ChatGPT – Mashable"
+    excerpt: "Compared to the other chatbots on the market, Google's Bard is the boring one. In a more or less positive assessment, Vox called"
+    publishedDateTime: 2023-12-13T14:29:00Z
+    webUrl: "https://www.inferse.com/838409/googles-ai-chatbot-bard-gives-drab-answers-but-it-does-one-thing-better-than-chatgpt-mashable/"
     type: article
     provider:
-      name: The Daily Dot
-      domain: dailydot.com
+      name: Inferse
+      domain: inferse.com
+    quality: 43
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/12/wp-header-logo-7371.png"
+        width: 1200
+        height: 1200
+        isCached: true
+  - title: "Pennsylvania candidate tests AI chatbot as voter outreach tool in congressional campaign"
+    excerpt: "Pennsylvania Democrat Shamaine Daniels' congressional campaign is using a phone-banking tool powered by artificial intelligence. The chatbot engages in two-way conversations."
+    publishedDateTime: 2023-12-13T12:54:00Z
+    webUrl: "https://www.foxnews.com/politics/pennsylvania-candidate-tests-ai-chatbot-voter-outreach-tool-congressional-campaign"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 38
+  - title: "Elon Musk’s Grok AI Chatbot Enters India"
+    excerpt: "Elon Musk's AI startup is rolling out Grok to 46 other countries including Australia, Canada, Malaysia, New Zealand and Singapore among others"
+    publishedDateTime: 2023-12-14T06:17:00Z
+    webUrl: "https://inc42.com/buzz/elon-musks-grok-ai-chatbot-enters-india/"
+    ampWebUrl: "https://inc42.com/buzz/elon-musks-grok-ai-chatbot-enters-india/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/elon-musks-grok-ai-chatbot-enters-india/amp/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 37
+  - title: "Google proposes Project Ellmann, a chatbot that intimately knows you"
+    excerpt: "While Google is busy integrating its generative AI model Gemini into Pixel, Bard, and other existing products, developers are proposing an entirely new one, codenamed Project Ellmann. Ellmann aims to grab a \"bird's-eye view\" of users' lives by looking at ..."
+    publishedDateTime: 2023-12-11T17:21:00Z
+    webUrl: "https://www.techspot.com/news/101161-google-proposes-project-ellmann-chatbot-intimately-knows-you.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
     quality: 34
+  - title: "How to Answer Complex Questions with Google Bard"
+    excerpt: "This guild is designed to show you how you can answer complex questions with the help of Google Bard and other AI assistants. Google Bard, a large language model (LLM) developed by Google AI, has quickly gained popularity for its ability to provide ..."
+    publishedDateTime: 2023-12-13T10:00:00Z
+    webUrl: "https://www.geeky-gadgets.com/how-to-answer-complex-questions-with-google-bard/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 24
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/Answer-Complex-Questions.jpg"
+        width: 1280
+        height: 731
+        isCached: true
+  - title: "Next-Level Elearning: AI Chatbot Revolutionizes Academic Communication and Learning Processes"
+    excerpt: "Language technology company Tilde has developed a unique AI chatbot Digne for enhancing the university course 'Civil Protection'."
+    publishedDateTime: 2023-12-12T08:40:00Z
+    webUrl: "https://slator.com/next-level-elearning-ai-chatbot-revolutionizes-academic-communication-learning-processes/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 8
 
 secured: "hVmxsBzl1Trpa/1fumO2HYBEl/f9WhillLo+aVNNaQSmSvhxEXxfYDoSq9tZYKWBEUA06eK4GqMVKEQw+cffY+nVFM75ohlPg32OS4ZJBwZvqkEHS61poqcWpGIgP9kevryf93ObxqrnFr6eXLRYOwP5AqiGBNLFIor9o5BL8amQ7qVsKRbj3Kz76TLBjWovNLwyeGssPPFmsWVfQPCSMr1CJITl82tuF0qBTbL1Co9qJAxBANmYwcy3Sxk0iFU68pc6qW2ZpeiIfw6nvU1gAGc5rylxD3UJVC8qAXi+/yW+TGkYJ/Xn8qbWpv+U+ZKHZO1+4WgDS10VANnhWzcFzN67aCjFI4D6R1cTi+skFD4=;4A8+kIrBFQ/THqJ8YVon1Q=="
 ---

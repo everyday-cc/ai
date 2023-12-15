@@ -133,6 +133,20 @@ related:
         width: 1024
         height: 567
         isCached: true
+  - title: "FinTech Focus: Catch latest developments of the week"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-12-15T11:11:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/fintech-focus-catch-latest-developments-of-the-week-5/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/11/FinTech-Funding-wealth.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Artificial Intelligence in Fintech Market - Global Industry Analysis, Trends, Market Size, and Forecasts up to 2030"
     excerpt: "The global artificial intelligence in fintech market was valued at USD 10.88 billion in 2022 and is expected to reach USD 40.76 billion in 2030, with a CAGR of 15.78% during the forecast period 2023-2030."
     publishedDateTime: 2023-12-13T22:42:00Z

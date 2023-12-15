@@ -49,7 +49,7 @@ related:
   - title: "How will AI and analytics keep people healthy, safe and thriving in 2024?"
     excerpt: "\"The rise of AI and analytics will continue to transform the government workforce, including in public safety. In 2024, law enforcement will see a turning point in hiring 'digital natives' who embrace and demand technology to protect, defend and serve citizens.\""
     publishedDateTime: 2023-12-14T15:12:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-how-will-ai-analytics-keep-people-healthy-safe-/2023/12/14/9934437.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/2023/12/14/9934437.htm"
     type: article
     provider:
       name: TMCnet

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.csoonline.com/article/1258597/how-the-eu-ai-act-regulate
 cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/1258597/how-the-eu-ai-act-regulates-artificial-intelligence-and-what-it-means-for-cybersecurity.html/amp/"
 type: article
 quality: 67
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -82,6 +82,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 34
+  - title: "EU AI Act: The Regulation vs Innovation Dilemma for Europe"
+    excerpt: "The act means large language models (LLMs) such as ChatGPT need to comply with transparency obligations before they are put on the market."
+    publishedDateTime: 2023-12-15T10:39:00Z
+    webUrl: "https://www.techopedia.com/eu-ai-act-the-regulation-vs-innovation-dilemma-for-europe"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 19
 
 secured: "BWZfmr9roZrYQmFW57DWA22XDODAI35c+TIJn3xb4nKkZEC7XBRINsUmVf4y6m23+bXWMkoQnCJjvx4j5rQE1W+Nu7Vamhj2BsFYblZbS684yA7yyWZzlAiFc1p58y/TK3xunx1m2EnfPUrDOWxLDgvW60MGbo4bvup3dYu9DVa/xjcPlbcPwAKjHVgtHjTDBpMIel/2GrjQxqPDALtUtBWuUai1x5UO88AyELOFKsVfXR4y9xN1A2u6pBRobhP2djF0JAIEB25CcNqvyvV6sNok35PYqGmLU3RI0GlyDKt0BSs1gwgUrqvWCcegLDIECyp//+JCJYJuTSfZmjlVoifTYWbQ03FQpNhsWZgPC/yRdhy72e/pqKQbh80KnM8cWxW0ZwgORGpc9fgCblOnuRAl2mKfU+fDGgHl2NmiBj32msM/z1EwrE1Zxd2R89doqrJTJoarwCYFl37NRvQRYaG27oFt0ph0dP3rCM/QMiqI8Sf1fqAs+VoIHSMTD0eZ17lqZkURrSEotX3acYgxJw==;dPtwotmhFKhfn8yyoQJlnQ=="
 ---

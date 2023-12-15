@@ -55,6 +55,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 27
+  - title: "Nth Exception launches AI tool for ISO 20022 adoption"
+    excerpt: "London-based fintech Nth Exception has launched Nucleus, a machine learning data fabric to ease financial institutions into ISO 20022 adoption."
+    publishedDateTime: 2023-12-15T11:06:00Z
+    webUrl: "https://www.finextra.com/newsarticle/43442/nth-exception-launches-ai-tool-for-iso-20022-adoption"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
 
 secured: "w8HTijk0g2RDtRMG10b2zI/mI06X6RzUiJGnWl3yfL0y+ZcJJ60CBFnb4Fv8T7SwgAeZuwS0MhCnnpirU0SLlO6G6lVtvy4LrpZ3gID72HwVumpfe2enIdfiAGO2mrmHkv1Re1sfRV+VUqAk0ONN46jbiQK7PHq+1VAYNuHIaIIzVVVGnDx4+r+1JB1YnhP0VC/MKgrDyqeyZm7cNUjS2XHZ5RO6N37wqNtDsirEWIGItsC6pkuCzj8F0ABTgE7dkeKo5xr3FbcKBSlyRfuE83nsnMhICijd7nO14Vw7Aa79RpjqXT4QURbqIjQCcg+hfsgExu33Psn+4fzNRJHttQ+8xjEkrqSepNEpLtrNuUU=;UK5opjoR3ndQSj/gkQADmQ=="
 ---

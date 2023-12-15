@@ -161,6 +161,20 @@ related:
         width: 504
         height: 315
         isCached: true
+  - title: "The Impact of Artificial Intelligence On Real Estate Marketing"
+    excerpt: "Artificial Intelligence (AI) has become a driving force across various industries, reshaping traditional practices and enhancing efficiency. In the realm of real estate, AI is revolutionizing marketing strategies,"
+    publishedDateTime: 2023-12-15T12:21:00Z
+    webUrl: "https://realtybiznews.com/the-impact-of-artificial-intelligence-on-real-estate-marketing/98780587/"
+    type: article
+    provider:
+      name: realtybiznews
+      domain: realtybiznews.com
+    quality: 54
+    images:
+      - url: "https://realtybiznews.com/wp-content/uploads/2022/07/banner-2.png"
+        width: 300
+        height: 250
+        isCached: true
   - title: "2023: The year of AI gift-giving and other holiday shopping trends"
     excerpt: "Flowcode analyzed holiday shopping forecasts from Salesforce and the National Retail Federation to identify a few major trends for 2023."
     publishedDateTime: 2023-12-14T09:18:00Z

@@ -85,6 +85,15 @@ related:
         width: 1000
         height: 450
         isCached: true
+  - title: "EU AI Act: The Regulation vs Innovation Dilemma for Europe"
+    excerpt: "The act means large language models (LLMs) such as ChatGPT need to comply with transparency obligations before they are put on the market."
+    publishedDateTime: 2023-12-15T10:39:00Z
+    webUrl: "https://www.techopedia.com/eu-ai-act-the-regulation-vs-innovation-dilemma-for-europe"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 19
 
 secured: "Jmr7brE4g/OIWGB0LS01Qt5DJ9AJ66Z+O4uNIRyAkbKb097vlZ5GRxIO5Awxvb9pFz19Rm5fViaRPvnsLOdn38AS8BLQZazzjg/M/yEDqYUZwd9/ISMuYgjwB2vxGPzJ7vXSoi6YflGK4lbwTQ6t0vD5KQ3BOZe2w2HzVl9HDb2zKoD0JU2zDsn3zLoFFvXGDkzK4LksotOvWPEWOOaHZZtrEhBWh143TGEkhjFVF1EnvWqvMsYHoDmMHh54BdWs5oZAN02lERj/OjbWRLM2l7haNfu86odsGrJi/96KYB5BZNisslHLdMZHPkp/9re9ZG4VFlFI57ZrBxeNE5deY7lN4pefL6tgYQnZKgBTLxl1BWC1IE4jAIvw1miPsCSWO+qxRggcsY9IWq7XvQse/KkuSxkz4JrMCNLG3489PsGoG+9dBd4aT2WhEGGB+30rML/R9MDTd2AEgFLqOffJmons0Td9TbRftTpj3ETgLSP+bi8Ji9rU3x8tZ2H8ghM/W4hdtiZ3tdW8gvQCVAOS7A==;ugeabm8URkpd4Oax+cMB6g=="
 ---

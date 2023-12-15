@@ -133,6 +133,20 @@ related:
         width: 1024
         height: 567
         isCached: true
+  - title: "FinTech Focus: Catch latest developments of the week"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-12-15T11:11:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/fintech-focus-catch-latest-developments-of-the-week-5/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/11/FinTech-Funding-wealth.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Understanding the Recent Fluctuations of UP Fintech Holding Ltd ADR’s (TIGR) Stock"
     excerpt: "TIGR stock has gone up by 3.78%, with a monthly decline of -9.48% and a quarterly plunge of -16.86%. The volatility ratio for the week is 4.47%, and the volatility levels for the last 30 days are 5.52% for UP Fintech Holding Ltd ADR The simple moving average for the last"
     publishedDateTime: 2023-12-14T19:29:00Z

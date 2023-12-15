@@ -95,6 +95,15 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 17
+  - title: "OpenAI announces second round of AI startup fund"
+    excerpt: "OpenAI has opened applications for the second cohort of its six-week program for artificial intelligence (AI) startups, Converge 2, through which it will invest $1 million into each of the 15 successful participants selected."
+    publishedDateTime: 2023-12-15T11:01:00Z
+    webUrl: "https://cointelegraph.com/news/open-ai-announces-second-round-ai-startup-fund"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 17
 
 secured: "qBa/eI8nI466SSow9WZD86dJO/AnrVwdGX7lsxomcfR9i1MdT7M4ub6IYUU8VuvhUnKNyFgPfHg4xQW0KjpkQB9DogMT3Sm3Bxke3PMoPITPyF26plNLZjcxlQFg5KLAAb+hTafiX3lWXlBnk33cVF9Gfnqq/yO18NZrHzLayBieaoAwvpWt07Y5uMvHhy17uweGB3bTC0rewbw2IJ2bGbA6lnQeLxAG2LToMFg/nDaS870AkQm48tBqIZNJwxLPyqFhOCseu+pcbp98Q3C8Wtrdd0I2g20ZKr2zRsxIFMzIOZYjdy4aNM95ZYnKssazKyqL9tt461IY3tzMKAQjIzllBLiOG77e60P1aSEevZA=;Htxm66cIxxVa2nHNlbIayw=="
 ---

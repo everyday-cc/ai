@@ -94,6 +94,15 @@ related:
       name: Scientific American
       domain: scientificamerican.com
     quality: 17
+  - title: "OpenAI announces second round of AI startup fund"
+    excerpt: "OpenAI has opened applications for the second cohort of its six-week program for artificial intelligence (AI) startups, Converge 2, through which it will invest $1 million into each of the 15 successful participants selected."
+    publishedDateTime: 2023-12-15T11:01:00Z
+    webUrl: "https://cointelegraph.com/news/open-ai-announces-second-round-ai-startup-fund"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 17
 
 secured: "giZMCa1mXxzRQnqC29gcSkRT+pe8w4IpghlBQaQrCLutnqaUT7VCyBrigaw6Gfh52Oi63ocnRyu7k/VlzswGZGCUJf/LyH/V4bemgXprnRu6Gj/mxIKjoaa8Qpqsba9echet0Om1QnBpsBXKembHbggykQ4hnc1aZVNJo4T2M7f1KBoYASXSgqdvZT+rBZDyEFpsZRD+485TvdPzSsZ6L2RlNzmDPFcgtnceKo0Guf6H50OkKgf70AztwH9M9Ms4aWxf8x9hOVj2RJCo+6pwfVXNKS3b0cVsiz7akr39XqX+t7ECjMEoWeRPMK5QJIy2L0+4CicnJN7QI/ilHvbP7mRA75y5GiSJYXKlpP6/SkSwdkx8nbE0gxGdm5G6M+XQcNpc6NYJCT/CZaQu1Ta24k00J7eIktX01DoB/mhtUIyOzynIMH2iOjp7XjhU7lylOILyjfECasCwSRf1dG/F8oVO2fXqPut0jSmNMKJIss4VkBKMtNfMTjQWw/8+GB0tZYZINq5u+AqbP1+APU/Dnw==;ES7RoKC8R+xQaEXlpuIieQ=="
 ---

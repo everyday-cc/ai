@@ -92,6 +92,20 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 81
+  - title: "Microsoft AI model-as-a-service available in Azure AI – Phi-2, Orca 2, Llama 2"
+    excerpt: "Microsoft's enhancement of Azure AI capabilities through its new AI model-as-a-service offering a significant step forward in the world of artificial"
+    publishedDateTime: 2023-12-15T11:09:00Z
+    webUrl: "https://www.geeky-gadgets.com/ai-model-as-a-service/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 67
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/Microsoft-AI-model-as-a-service.jpg"
+        width: 1280
+        height: 717
+        isCached: true
   - title: "Microsoft Copilot: tips and tricks for using AI in Windows"
     excerpt: "Windows Copilot is a useful tool for augmenting your Windows experience, but with these tips and tricks you can make it even better."
     publishedDateTime: 2023-12-13T19:19:00Z

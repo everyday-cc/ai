@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/meaghanjohnson/2023/12/13/portugals-pro
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/meaghanjohnson/2023/12/13/portugals-progressive-policies-fuel-fintech-growth/amp/"
 type: article
 quality: 74
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -124,6 +124,20 @@ related:
       - url: "https://conventuslaw.com/wp-content/uploads/2022/06/1_TKRMzr-NJwYdrYi3AnJPXA.jpeg"
         width: 820
         height: 610
+        isCached: true
+  - title: "HostBooks Revolutionizes Corporate Fintech with Tech-Driven Solutions"
+    excerpt: "HostBooks improves production and efficiency by eliminating the drudgery oftime-consuming financial management tasks, including accounting, taxcompliance, and payroll processing."
+    publishedDateTime: 2023-12-15T12:34:00Z
+    webUrl: "https://www.thehansindia.com/tech/hostbooks-revolutionizes-corporate-fintech-with-tech-driven-solutions-844456"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 24
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2023/12/15/1406918-host-books.jpg"
+        width: 1200
+        height: 720
         isCached: true
   - title: "Top Technology Trends in Banking and Fintech for 2024"
     excerpt: "While still in their early stages, blockchain and DLT have the potential to revolutionize various aspects of financial services, from cross-border payments and trade finance to digital identity and anti-money laundering compliance. 2024 will see further  experimentation and adoption of these technologies in various use cases"
