@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/12/14/cruise-slashes-24-of-self-driving-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/14/cruise-slashes-24-of-self-driving-car-workforce-in-sweeping-layoffs/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/d97025f/2147483647/strip/true/crop/640x336+0+72/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsharing.wxyz.com%2Fsharescnn%2Fphoto%2F2016%2F01%2F04%2Fb791cfbfbc4b95008c0f6a70670072d9_1451914559153_29345818_ver1.0_640_480.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "GM’S Self-Driving Car Subsidiary Cruise Lays Off 900 Employees"
+    excerpt: "GM's self-driving car subsidiary Cruise has laid off 900 employees, or about 24 per cent of its workforce.According t"
+    publishedDateTime: 2023-12-15T04:52:00Z
+    webUrl: "https://menafn.com/1107600991/GMS-Self-Driving-Car-Subsidiary-Cruise-Lays-Off-900-Employees"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?214962"
+        width: 357
+        height: 250
         isCached: true
   - title: "GM's Cruise fires 9 leaders amid ongoing self-driving investigation"
     excerpt: "General Motors subsidiary Cruise fired nine employees Wednesday as a result an ongoing investigation into an Oct. 2 self-driving crash involving a pedestrian and the company's subsequent actions."

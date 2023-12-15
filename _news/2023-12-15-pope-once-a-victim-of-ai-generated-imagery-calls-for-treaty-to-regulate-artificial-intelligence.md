@@ -111,6 +111,20 @@ related:
       name: Time
       domain: time.com
     quality: 47
+  - title: "The rise of generative AI: Navigating the impact of artificial intelligence on higher education – Illinois State University News"
+    excerpt: "This story was written by a human with help from artificial intelligence.A human researched the story, interviewed sources, and typed these words. Artificial"
+    publishedDateTime: 2023-12-15T04:05:00Z
+    webUrl: "https://www.inferse.com/840384/the-rise-of-generative-ai-navigating-the-impact-of-artificial-intelligence-on-higher-education-illinois-state-university-news/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 42
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/12/wp-header-logo-8065.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "FIS: Trust in generative AI fragile among consumers"
     excerpt: "A significant majority of consumers admit they don't know whether their banks are currently using generative AI in their operations"
     publishedDateTime: 2023-12-14T11:00:00Z

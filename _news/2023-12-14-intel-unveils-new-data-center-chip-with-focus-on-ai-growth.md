@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Intel AI-centric chips pave the way for AI everywhere era across devices"
+    excerpt: "At the \"AI Everywhere\" event, Intel launched the 5th-gen Xeon processor, code-named Emerald Rapids, and Intel Core Ultra mobile processors to compete in an AI era. Intel also showcased the Gaudi3 AI accelerator. The premium content you are trying to open ..."
+    publishedDateTime: 2023-12-15T01:18:00Z
+    webUrl: "https://www.digitimes.com/news/a20231215VL200/ai-chips-intel.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 53
+    images:
+      - url: "https://img.digitimes.com/newsshow/20231215vl200_files/1_2b.jpg"
+        width: 1280
+        height: 854
+        isCached: true
   - title: "Intel, CEO Pat Gelsinger take 'AI Everywhere' to Wall Street"
     excerpt: "Advanced Micro Devices (Nasdaq: AMD), a longtime Intel server and laptop chip rival, is also aggressively pursuing AI-related business. AMD held an event last week called \"Advancing AI.\" While the view wasn't unanimous, one prominent technology analyst ..."
     publishedDateTime: 2023-12-13T00:00:00Z
@@ -67,6 +81,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "jeklXa+KFnjYKVzWn+LLOD+uQDXYmzv/O39PTiPwqn/bNgP1bJdeC4RbrSsmyQ2T5UiVvV6w/wa0YywNSAid08cweqeEAn48f5AHeeJagiKcsa4YNkLX9w1Mbx/HSJ0NU6Vn+2Rg+HBO7pe5gH8NxSrP0aVkfjEVGBCS2kSyPQu+mUPTdl/FXXmAORYiA2UnzroR+lcYW05Y5yCxrGOmv1IERGKMCg7O/aqWHCNHBIzla7uLLz++8yQmhLfmzkW+mIZioGVE1zVh5Yw2axbdznZgw8TaxtlI+SdUdmPvnSP0KMP/WZcuHeUMwkAT/C5nMEY9QQj4MTwWukLkcwC4Lq9/DiYocC5keck32dp94jQ=;mMu8x4HtaJcQ0kaEmzuOBA=="
+secured: "7HEbHjePMcVJZ3Hu83oakGYJeetlzv9M1PuE8Gca1ImwHOnCYHsxSrLacztY2s9sVQm+BlfqeDxvErQV+odkT+XQUeVpirIO6DHa6Q6RH9N66639EzgdBAPJ1WBHGqDksC8MqC6p9NYobvhShMYceJuU6L+emCmqCiaDWj6rW/vCDGGOHjaQtuqYXOmOOQsk+SDescXXEjQ8vxXUP+AlRQsyWMgFEbKB8q5xmRoDxVpRmDD+KMKcqluMjSkFKCoyHMsNJ6C9j+3CE9t9Fg6U92MFeFarE0MpCvmeV77nvnHhHRFiO7/RK3fFHgxeqKyDhyPItsHyeIwMkzS0192XThcs+oVjvYCdfJ/82VLx2oZA+pXZ8Bog0zcwHwZUYK9ysPrBI7UoIAoz6AAzKiU8QZO5i7ZWY+zouj/ym2OwxgXshB3z/B1Al3ejZsIrSajbQmtd4upn2ZT+YtA19yE3B0x3Ll41f49o9zxYHdQpVrswjc6anamm81DMwLMEaVoXevpyOaw+RCesa3nLkSNPrA==;KdXXWJa0Sg9+4Pk6ZYTNPQ=="
 ---
 

@@ -32,6 +32,20 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 24
+  - title: "Infibeam Avenues Invests Rs 25 Crore in Pirimid Fintech for 49% Stake"
+    excerpt: "News reports, trends, analysis and Daily Updates on Business, New Emerging Technology, Startups, Funding, and Innovation in India and across the World"
+    publishedDateTime: 2023-12-15T03:49:00Z
+    webUrl: "https://www.indianweb2.com/2023/12/infibeam-avenues-invests-rs-25-crore-in.html"
+    type: article
+    provider:
+      name: indianweb2.com
+      domain: indianweb2.com
+    quality: 24
+    images:
+      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE-m1ssgp0Cvh9beCTRQe_ynNso3dr-wok7dhLVeoTfJOcndiElKrc7lQGY2om782aHStyTQernesWqOHzIeJ6_iReUrg2hpfiBX1qqQpe4IIHqKurp3JRbADjVJZY50qxNpG4_BIlw-_m8hycla1as2_4AdWpadI_5V21L4u62at7nbJrKATQ518ASJ4/s16000/infibeam.png"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Infibeam Avenues acquires 49% stake in capital markets software provider Pirimid Fintech"
     excerpt: "With the stake acquisition, Infibeam is looking to integrate its digital payments framework with Pirimid Fintech's capital market trading software for clients in India and globally."
     publishedDateTime: 2023-12-14T13:54:00Z

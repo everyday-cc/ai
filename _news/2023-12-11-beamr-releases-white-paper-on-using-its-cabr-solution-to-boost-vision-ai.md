@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/beamr-releases-whi
 webUrl: "https://markets.businessinsider.com/news/stocks/beamr-releases-white-paper-on-using-its-cabr-solution-to-boost-vision-ai-1032889190"
 type: article
 quality: 68
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: Business Insider
@@ -27,17 +27,6 @@ images:
     width: 533
     height: 320
     isCached: true
-
-related:
-  - title: "Service firms use AI, automation to boost precision, safety"
-    excerpt: "Artificial intelligence and automation are increasingly being adopted as oil producers and service companies seek to improve efficiency and safety"
-    publishedDateTime: 2023-12-10T05:02:00Z
-    webUrl: "https://www.chron.com/business/oil/article/service-firms-use-ai-automation-boost-precision-18540024.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 17
 
 secured: "L7IOShOy7HsHYTh5oQdeOW6FZae9I1IGUgqxw5t5MeMlcQGcnUlXMV4hkgVylRcdDA6PENJ8tlkyv8wd6Q9R9SllnJEDv5W5e1ekUVDPnW7HxgxF/7Y0hx4BjVbPZPLgHuFfd5rreiggI5StcrQvHgZSlr8/haL+p5Ce/270rGC/i0LApKnqSxqUms3++v9v5J/jvh0XRv0Ca6m45ya0rM9yqljMw9VgAmHfy+RCpazFE//KcXpYn7FMEJn8XY/LjbHFw4z+BTEgBtGLV2t1t+YbjfdqqUFc60o3atTWF6LDXBQAmXO9AWi0P5528OmqvL1ACTNqR/E9GfqYXkA+tAtgTpsJNlsLpvKAGb8JymU=;6547XEZV6qCt7i++rD2H4Q=="
 ---

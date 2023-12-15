@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/12/13/what-to-expe
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/12/13/what-to-expect-at-intel-ai-event-a-discussion-with-ceo-pat-gelsinger/amp/"
 type: article
 quality: 91
-heat: 125
+heat: 135
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://s.yimg.com/ny/api/res/1.2/Rhc1iexpU03u.K6xePUQhg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/aol_yahoo_finance_433/540ffdbe4d270ea7e844a2fde5e2b9de"
         width: 1200
         height: 799
+        isCached: true
+  - title: "Intel AI-centric chips pave the way for AI everywhere era across devices"
+    excerpt: "At the \"AI Everywhere\" event, Intel launched the 5th-gen Xeon processor, code-named Emerald Rapids, and Intel Core Ultra mobile processors to compete in an AI era. Intel also showcased the Gaudi3 AI accelerator. The premium content you are trying to open ..."
+    publishedDateTime: 2023-12-15T01:18:00Z
+    webUrl: "https://www.digitimes.com/news/a20231215VL200/ai-chips-intel.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 53
+    images:
+      - url: "https://img.digitimes.com/newsshow/20231215vl200_files/1_2b.jpg"
+        width: 1280
+        height: 854
         isCached: true
   - title: "Intel, CEO Pat Gelsinger take 'AI Everywhere' to Wall Street"
     excerpt: "Advanced Micro Devices (Nasdaq: AMD), a longtime Intel server and laptop chip rival, is also aggressively pursuing AI-related business. AMD held an event last week called \"Advancing AI.\" While the view wasn't unanimous, one prominent technology analyst ..."

@@ -112,6 +112,20 @@ related:
       name: Time
       domain: time.com
     quality: 47
+  - title: "The rise of generative AI: Navigating the impact of artificial intelligence on higher education – Illinois State University News"
+    excerpt: "This story was written by a human with help from artificial intelligence.A human researched the story, interviewed sources, and typed these words. Artificial"
+    publishedDateTime: 2023-12-15T04:05:00Z
+    webUrl: "https://www.inferse.com/840384/the-rise-of-generative-ai-navigating-the-impact-of-artificial-intelligence-on-higher-education-illinois-state-university-news/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 42
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/12/wp-header-logo-8065.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Pope, once a victim of AI-generated imagery, calls for treaty to regulate artificial intelligence"
     excerpt: "Earlier this year, an AI-generated image of him wearing a luxury white puffer jacket went viral, showing just how quickly realistic deepfake imagery can spread online."
     publishedDateTime: 2023-12-14T22:47:00Z

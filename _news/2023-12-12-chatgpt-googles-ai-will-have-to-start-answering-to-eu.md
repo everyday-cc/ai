@@ -41,17 +41,6 @@ related:
         width: 1919
         height: 1080
         isCached: true
-  - title: "Are you using ChatGPT to complete tasks at work? It might be tired of doing the heavy lifting."
-    excerpt: "ChatGPT users say that the bot is becoming more difficult to work with."
-    publishedDateTime: 2023-12-10T03:58:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-accused-of-getting-lazier-2023-12"
-    ampWebUrl: "https://www.businessinsider.com/chatgpt-accused-of-getting-lazier-2023-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-accused-of-getting-lazier-2023-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 57
   - title: "Gemini AI: What do we know about Google's answer to ChatGPT?"
     excerpt: "Most AI models like ChatGPT can only understand and generate one type of content — like text, audio, images or video — but Google's Gemini can generate them all."
     publishedDateTime: 2023-12-13T10:10:00Z

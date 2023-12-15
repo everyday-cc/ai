@@ -7,7 +7,7 @@ originalUrl: "https://liliputing.com/asrock-4x4-box-8040-mini-pcs-feature-amds-n
 webUrl: "https://liliputing.com/asrock-4x4-box-8040-mini-pcs-feature-amds-new-ryzen-8040u-chips-with-ai-features/"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,36 @@ images:
     width: 916
     height: 646
     isCached: true
+
+related:
+  - title: "AMD Ryzen 8040 chip battles Intel for AI laptop supremacy"
+    excerpt: "Between the AMD Ryzen 8040, Intel Core Ultra, and Apple M3 chips, there's a lot of competition among laptops built for machine learning."
+    publishedDateTime: 2023-12-15T03:29:00Z
+    webUrl: "https://www.gadgetguy.com.au/amd-ryzen-8040-processor-announcement/"
+    type: article
+    provider:
+      name: GadgetGuy.com.au
+      domain: gadgetguy.com.au
+    quality: 54
+    images:
+      - url: "https://gadgetguy-assets.s3.ap-southeast-2.amazonaws.com/wordpress/wp-content/uploads/2023/12/15142546/AMD-Ryzen-8040-AI-laptop-processor.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
+  - title: "Intel Core Ultra improves battery & AI for Windows and ChromeOS – here are the first laptops"
+    excerpt: "The new build, Intel claims, will see the Core Ultra 7 outpowering the comparable AMD chip, as well as Apple M3 and Qualcomm’s Snapdragon 8cx Gen 3. Intel is also pushing AI pretty hard, with a dedicated NPU on every chip that exists for AI tasks ..."
+    publishedDateTime: 2023-12-14T18:16:00Z
+    webUrl: "https://9to5google.com/2023/12/14/intel-14th-gen-core-ultra-processors-laptops/"
+    type: article
+    provider:
+      name: 9to5google
+      domain: 9to5google.com
+    quality: 28
+    images:
+      - url: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/12/intel-core-ultra-chip-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "etjO8hlLHsBUighntuAP/JwLezERTCLdLp4vUUdojBhFXdP54sWVqEftNHAfnFqT2W/jahh/K6kwdezWsshPb1BXQ8ERPWe50V/9rmRfZOZEJEW+98ELl3niqPULd49tbczLGwJf1SHr3zb+nMOgcOLcdBoDjVGySsjJiQV5zwmodRl+1YtiYCOXI4pZPHQuhRIMsFQnTfSrOA8gQo80i5fXIOfWv5/sKHdZjMeFZrIV3xoTYI9iTzOIBPv6jZ3rCJGxiE5cjgUCfs/QEIlGbpI+CFNm+zqoqhaWI18huCxaJ9evuXy7tgx3GiZKmh27F6Vxk3LbfXa8KQDfOyRIcohO39Ndyrh/5591Sk+Ow/vlg4CGFvPVInMAB8WWCMack9fregFOexiLPEiH4Z5pGakw+j1SFemJWBAb6CoX2je/gu1cMZpVwyQOHxiBUWYC65LLBqbPpo7SUnWP/qA23eN/DtgfGNfZJZ8E8xIaBPaAsCDS7PmE3DfObBeYzUuza4O2Q5I4dDVLa1aXFKGmSg==;mAZ+zuMMl/OHRXgjFg0EDQ=="
 ---

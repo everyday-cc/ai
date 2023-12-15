@@ -56,17 +56,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Are you using ChatGPT to complete tasks at work? It might be tired of doing the heavy lifting."
-    excerpt: "ChatGPT users say that the bot is becoming more difficult to work with."
-    publishedDateTime: 2023-12-10T03:58:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-accused-of-getting-lazier-2023-12"
-    ampWebUrl: "https://www.businessinsider.com/chatgpt-accused-of-getting-lazier-2023-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-accused-of-getting-lazier-2023-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 57
 
 secured: "7+60gUuYEJqgH0hNeCD27ocS0MCza8leZNuNBkEW4Z5owDuVtnMGqeKAEsuig7qm3pHvlzPKB+6IA3HavkI2uBQU/OHpMHqa+MXePUKmqRZZ0KBR3oMcz4gOC1Q1b8/k6oKSR5opUgQik89JL3PuguMZ7BMactZLeSFy8+d1pzFv8i+XZTJaRWNgfuR8d+T9n61IEjfuxtKQUrBpGdQPfaLDBp4FXmIRFTveqIYOEGJoA5qchPS5j9SP9XyJNbY4pNb7iZBIx1tz6j65gunS9tMsbe0b5Uc5degOI97MTzB+S2hzPTlRPViZn7HqNabnLL0htXAS7WJDeSRuavrrMtOhCqQs1DdPQT8dmIN02Joc5CW1O7zwH7L/BCuQ2yZvu92qr9PPTQOMSTI5pTYVs1tajDFMTp6r970KcCdug7A7wje2wL68xFpZB3uolSz3OIHh4SW3QxqUhXiU2GROnyfPTlVvHS1ez+YgO8BsPZ7Kdj7On57UH/JFr0/UU+MhIvOVPLFddATiZuwX/fxS8A==;r8Qoyr2HfJg329h+YFIaXg=="
 ---
