@@ -33,15 +33,6 @@ related:
         width: 444
         height: 250
         isCached: true
-  - title: "Voice Recognition and Medical Transcription"
-    excerpt: "It would be unfair to look at voice-recognition transcription options without mentioning one of the largest movements in the medical transcription industry -- outsourcing transcription offshore."
-    publishedDateTime: 2023-12-10T00:00:00Z
-    webUrl: "https://www.medscape.com/viewarticle/487524_5"
-    type: article
-    provider:
-      name: Medscape
-      domain: medscape.com
-    quality: 4
 
 secured: "waB/hezmwVfHuWwEUKPFG/5kWP0Q9QXeoDzrbYWGYdOq1pfHPQEtQVz7ZoGpjub6/tnrArgfrIL6SQ2iZNP6Rc//edHwLZjAy3U9Zd6vLW80rLAKyBnqunOIiABucmSEPj4Sc5HvdagmSNx69cnjcouyK7b2G/vqiva5Mp2qUcPvkMizSWeSjNwd1fKeYtE+aT0uY9ExmFLmGcePzMnElZRDQFdxNQWffAROhpQpwc9PgV5YmK8qmN/JQYVs5XTeD1nD6SKBkOfI2KKLrHTm6dTlM2iG33ry5SxUnTAWNR7uelfToNuHpKklRJzH6DVUxF1b1ANRcU84F67J6NVkxp2NMrN4MG5iE0pvIPSy7JM=;V9o7tUrS2ayiDBxkQFZ+Lg=="
 ---

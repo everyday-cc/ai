@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/customer-service-types/"
 webUrl: "https://www.ibm.com/blog/customer-service-types/"
 type: article
 quality: 102
-heat: 106
+heat: 102
 published: true
 
 provider:

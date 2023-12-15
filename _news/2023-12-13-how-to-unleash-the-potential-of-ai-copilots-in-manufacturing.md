@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/13/how-to-unl
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/13/how-to-unleash-the-potential-of-ai-copilots-in-manufacturing/amp/"
 type: article
 quality: 87
-heat: 102
+heat: 101
 published: true
 
 provider:

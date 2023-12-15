@@ -42,6 +42,22 @@ related:
         width: 1510
         height: 849
         isCached: true
+  - title: "2024: Healthcare Insiders Predict The Future"
+    excerpt: "I hope you find their predictions and insights as intriguing as I do. AI to Bridge the Gaps to Human-Centered Health Care Artificial intelligence (AI) and machine learning (ML) have the promise of bridging gaps in medical education and creating ..."
+    publishedDateTime: 2023-12-14T19:56:00Z
+    webUrl: "https://www.forbes.com/sites/sachinjain/2023/12/14/2024-healthcare-insiders-predict-the-future/"
+    ampWebUrl: "https://www.forbes.com/sites/sachinjain/2023/12/14/2024-healthcare-insiders-predict-the-future/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sachinjain/2023/12/14/2024-healthcare-insiders-predict-the-future/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/657b8269d0998e5ffed4e4c7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1257
+        height: 900
+        isCached: true
   - title: "Napa's Internet Marketer: Expect AI-powered everything in 2024"
     excerpt: "Napa's Internet Marketer Janet Peischel talks about trends to expect in Marketing in 2024. Hint: It's all about artificial intelligence (AI)."
     publishedDateTime: 2023-12-12T15:40:00Z

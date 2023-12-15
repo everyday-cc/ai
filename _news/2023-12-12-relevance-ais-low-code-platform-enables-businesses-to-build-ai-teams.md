@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/12/11/relevance-ais-low-code-platform-en
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/11/relevance-ais-low-code-platform-enables-businesses-to-build-ai-teams/amp/"
 type: article
 quality: 87
-heat: 247
+heat: 257
 published: true
 
 provider:
@@ -86,6 +86,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/12/Untitled-design-2023-12-12T105755.661.png?w=1200&strip=all"
         width: 1200
         height: 750
+        isCached: true
+  - title: "Pope calls for treaty to regulate artificial intelligence"
+    excerpt: "ROME >> Pope Francis on Thursday called for an international treaty to ensure artificial intelligence is developed and used ethically, arguing that the risks of technology lacking human values of compassion, mercy, morality and forgiveness are too great."
+    publishedDateTime: 2023-12-14T00:01:00Z
+    webUrl: "https://www.staradvertiser.com/2023/12/14/breaking-news/pope-calls-for-treaty-to-regulate-artificial-intelligence/"
+    ampWebUrl: "https://www.staradvertiser.com/2023/12/14/breaking-news/pope-calls-for-treaty-to-regulate-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2023/12/14/breaking-news/pope-calls-for-treaty-to-regulate-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Honolulu Star-Advertiser
+      domain: staradvertiser.com
+    quality: 57
+    images:
+      - url: "https://www.staradvertiser.com/wp-content/uploads/2023/12/web1_14491980-7ba1574d62584f1f96678910781a0116.jpg"
+        width: 760
+        height: 507
         isCached: true
   - title: "How to build custom Copilots with Azure AI Studio"
     excerpt: "Azure AI Studio is not just about starting a project; it’s about nurturing it through every stage. “Accelerate decision-making and enhance efficiency across your enterprise using powerful AI tools and machine learning models. Explore the pricing ..."

@@ -107,6 +107,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Do AI improvements call for something better than the Turing test?"
+    excerpt: "In addition to this, the Turing Test fails to analyze an AI program’s ability to think. In a recent Turing Test experiment, GPT-4 was able to convince evaluators that they were texting with humans over 40 percent of the time. However, this score fails to answer the basic question: Can the AI program think?"
+    publishedDateTime: 2023-12-15T00:16:00Z
+    webUrl: "https://arstechnica.com/ai/2023/12/do-ai-improvements-call-for-something-better-than-the-turing-test/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 67
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-147461191-800x600.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "How Machine Learning is Reshaping Industries"
     excerpt: "In the era of digital transformation, machine learning (ML) has emerged as the driving force behind a revolutionary shift in industries worldwide. From healthcare to finance, manufacturing to marketing,"
     publishedDateTime: 2023-12-12T14:50:00Z

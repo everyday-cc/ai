@@ -1,20 +1,30 @@
 ---
 category: news
 title: "Landing AI Announces New Capability to Build Domain-Specific Large Vision Models"
-excerpt: "Landing AI, the leading computer vision cloud platform, announced the launch of its capability to help enterprises build domain-specific large vision models (LVMs). The groundbreaking advancement enables businesses with vast image libraries to bring artificial intelligence to their proprietary image data,"
-publishedDateTime: 2023-12-04T13:45:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/12/04/9927276.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/12/04/9927276.htm"
+excerpt: "LVMs enable enterprises to solve computer vision problems more quickly; Landing AI to help enterprises build and run LVMs at the edge, on-prem, and in the cloud PALO ALTO, Calif. , Dec. 4, 2023 /PRNewswire/ -- Landing AI, the leading computer vision cloud ..."
+publishedDateTime: 2023-12-04T08:30:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/landing-ai-announces-new-capability-to-build-domain-specific-large-vision-models-1032870378"
+webUrl: "https://markets.businessinsider.com/news/stocks/landing-ai-announces-new-capability-to-build-domain-specific-large-vision-models-1032870378"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
-secured: "nWDIq11vyUlLeMpEfmZ2VjIWd7PHnB84jxD05QYafG0Dg1To/e9rBwFLqAQP3mY9eYrbtjz9tufgTieOQ22siiWHrfhprriIDD4pYJBbGmYfZI3d1g6CXBcwN+fjDJ+mp/pprF/oIyE5gXFsFUDk6rK5TT8NGgW7ZMW0vl733Q9V27UdjYLgAtLk6aBTKurUfSvq/U5ZR9T21soXWcf8tA6GHQzobXG/GgvCHdau1edv7Zo0RS/pD6NtKU2xO5dLh0LeYld8fDw7l7G5X5zOdIkrZC9uBRm9Et4HQhWGOtti8CpgAZCJDNeJ6K3P8FPvzgv1FvSozqGc2je9gTRWc3gcY21VCk+e/PhMZU0vNEY=;U+Bzky2/jgBbig7ion9sFA=="
+images:
+  - url: "https://mma.prnewswire.com/media/2291237/LVMs.jpg"
+    width: 400
+    height: 255
+    isCached: true
+
+secured: "xQSJtEF+zH7o8RhircB2qDvUWxIOLf1UpUmj4L8yaQG6hmLVSMJA0k1dapbhuhIgSdEo1USa/CJ8CwqqbAfRntQwk/3aOvV5KzJOUOOf7YcD8mqJsUMLuhdVOYrzB0jYhGt9zDmanUO1yD5kzZ/QgczkkEL76n+VJUdH6hYW44PERYJ08vOH2sLL4Yi55n00NUZZ10hQjlStXny0OQhEJnLhwqN3QWY5b2oWFnhvrQyFiaxo/sC1ljkQV44mpRZP4J1hvjGSeEYkXog2JBAECNoI3QES+a0IrgHc3bux8ZMal9GDK1HDJ01K/W5wYsbu09Pkh32HwWNLxES6+WKOwFYVDCOUW/4hEtx6GYB66f8=;6I7QpHon+pLfZGw5GFCv1Q=="
 ---
 

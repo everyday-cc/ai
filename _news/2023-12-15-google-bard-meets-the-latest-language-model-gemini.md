@@ -35,6 +35,20 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "Google’s DeepMind creates generative AI model with fact checker to crack unsolvable math problem"
+    excerpt: "Google's DeepMind creates generative AI model with fact checker to crack unsolvable math problem - SiliconANGLE"
+    publishedDateTime: 2023-12-15T00:06:00Z
+    webUrl: "https://siliconangle.com/2023/12/14/googles-deepmind-creates-generative-ai-model-fact-checker-crack-unsolvable-math-problem/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 58
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/whiteboard-with-formulas.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
   - title: "DeepMind AI outdoes human mathematicians on unsolved problem"
     excerpt: "“This is the first time anyone has shown that an LLM-based system can go beyond what was known by mathematicians and computer scientists,” says Pushmeet Kohli, a computer scientist who heads the AI for Science team at Google Deepmind in London. “It’s not just novel, it’s more effective than anything else that exists today.”"
     publishedDateTime: 2023-12-14T00:01:00Z

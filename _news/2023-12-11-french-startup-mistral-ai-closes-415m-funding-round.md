@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "French AI Start-up Mistral AI Raises 385 Mn Euros"
-    excerpt: "French artificial intelligence start-up Mistral AI announced Sunday it had raised 385 million euros ($414 million), becoming one of Europe's two AI leaders. Founded in May by industry heavyweights, Mistral had already raised 105 million euros in June."
-    publishedDateTime: 2023-12-10T00:00:00Z
-    webUrl: "https://www.barrons.com/news/french-ai-start-up-mistral-ai-raises-385-mn-euros-7cc2d989"
-    ampWebUrl: "https://www.barrons.com/amp/news/french-ai-start-up-mistral-ai-raises-385-mn-euros-7cc2d989"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/french-ai-start-up-mistral-ai-raises-385-mn-euros-7cc2d989"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 57
-    images:
-      - url: "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg"
-        width: 1320
-        height: 742
-        isCached: true
   - title: "French AI start-up Mistral AI raises €385m"
     excerpt: "French artificial intelligence start-up Mistral AI announced Sunday it had raised €385 million ($414 million), becoming one of Europe's two AI leaders. Founded in May by industry heavyweights, Mistral had already raised €105 million in June. Among ..."
     publishedDateTime: 2023-12-11T12:35:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://singularityhub.com/2023/12/12/this-mind-reading-cap-can-tran
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/12/12/this-mind-reading-cap-can-translate-thoughts-to-text-thanks-to-ai/?amp=1"
 type: article
 quality: 74
-heat: 128
+heat: 124
 published: true
 
 provider:

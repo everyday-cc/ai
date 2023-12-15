@@ -2,6 +2,101 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2023-11-11-embrace-this-messiness-computer-vision-pioneer-fei-fei-li-explains-her-hope-for-ai-and-humanity.md",
+      "title": "‘Embrace this messiness’: Computer vision pioneer Fei-Fei Li explains her hope for AI and humanity",
+      "excerpt": "Known for her foundational contributions to AI and computer vision, Dr. Li is the inventor of ImageNet, a large-scale dataset of images that enabled rapid advances in deep learning for visual ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2023/embrace-this-messiness-computer-vision-pioneer-fei-fei-li-explains-her-hope-for-ai-and-humanity/",
+      "originalUrl": "https://www.geekwire.com/2023/embrace-this-messiness-computer-vision-pioneer-fei-fei-li-explains-her-hope-for-ai-and-humanity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/11/worlds-i-see-fei-fei-li.png",
+          "width": 975,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-11T08:26:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-11-get-ready-for-the-wild-wild-west-of-artificial-intelligence.md",
+      "title": "Get Ready for The Wild, Wild West of Artificial Intelligence",
+      "excerpt": "Editor’s Note: There are many different ways to invest in the artificial intelligence space ... based interactions – from images we post on Facebook, to Zoom calls, to streaming videos ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/get-ready-for-the-wild-wild-west-of-artificial-intelligence-1032809029",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/get-ready-for-the-wild-wild-west-of-artificial-intelligence-1032809029",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-11T08:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-11-google-in-talks-for-a-major-investment-in-ai-start-up-characterai.md",
       "title": "Google in talks for a major investment in AI start-up Character.AI",
       "excerpt": "the rapidly growing AI chatbot start-up, as per a Reuters report. The move comes as Character.AI seeks capital to train models and meet the increasing demand from users, according to sources familiar with the matter. The potential investment, which might ...",
@@ -1077,101 +1172,6 @@
         "IBM AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-11-10-3-millionaire-maker-robotics-stocks-to-buy-in-november-2023.md",
-      "title": "3 Millionaire-Maker Robotics Stocks to Buy in November 2023",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Robotics and automation are a necessity for the future. Be it for operational",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/3-millionaire-maker-robotics-stocks-to-buy-in-november-2023-1032806448",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-millionaire-maker-robotics-stocks-to-buy-in-november-2023-1032806448",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-10T11:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-10-unlocking-health-and-wealth-bliv-pioneers-preventive-healthcare-revolution-in-the-crypto-hub-of-the-world.md",
-      "title": "Unlocking Health and Wealth: BLiV Pioneers Preventive Healthcare Revolution in the Crypto Hub of the World",
-      "excerpt": "BLiV.io, the Web3 Live2Earn AI-Powered Preventive Healthcare platform crafted by the visionary minds at GoObat Pharma.Dubai, United Arab",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/unlocking-health-and-wealth-bliv-pioneers-preventive-healthcare-revolution-in-the-crypto-hub-of-the-world-1032806360",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/unlocking-health-and-wealth-bliv-pioneers-preventive-healthcare-revolution-in-the-crypto-hub-of-the-world-1032806360",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh7-us.googleusercontent.com/_LmxTYG5r_0jlN5miO4rA8fwozhJj3p5qRCmdVCS9hFuA0CXhOYhq0MxKqYcUASQt2juaUyCe5iDLY78ZpLnh1E9S8NMbdBkrWjDWam00WSA5bjRJY4KZfYyk9h9oyXAT2F2YeZrAis0TYCBPnNouio",
-          "width": 1600,
-          "height": 1066,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-10T11:16:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

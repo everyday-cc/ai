@@ -507,6 +507,49 @@
       ]
     },
     {
+      "path": "_news/2023-12-07-wimi-developed-explainable-artificial-intelligence-xai-based-fnirs-neuroimage-classification.md",
+      "title": "WiMi Developed Explainable Artificial Intelligence (XAI)-based fNIRS Neuroimage Classification",
+      "excerpt": "WiMi's XAI-based fNIRSfNIRS neuroimage classification system employs two key classification modules, i.e., a one-dimensional sliding-window-based convolutional neural network (CNN ... wimi-developed-explainable-artificial-intelligence-xai-based-fnirs ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/wimi-developed-explainable-artificial-intelligence-xai-based-fnirs-neuroimage-classification-1032881677",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/wimi-developed-explainable-artificial-intelligence-xai-based-fnirs-neuroimage-classification-1032881677",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-07T08:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-07-is-machine-learning-random-and-why-should-you-care.md",
       "title": "Is Machine Learning Random? And Why Should You Care?",
       "excerpt": "Let's start with a common problem that people have, especially when they are just starting out with machine learning.",
@@ -1261,49 +1304,6 @@
       "provider": {
         "name": "Phys.org",
         "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-04-capitalizing-on-machine-learning-with-collaborative-structured-enterprise-tooling-teams.md",
-      "title": "Capitalizing on machine learning with collaborative, structured enterprise tooling teams",
-      "excerpt": "Machine learning advances require an evolution of processes, tooling, and operations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/12/04/1083950/capitalizing-on-machine-learning-with-collaborative-structured-enterprise-tooling-teams/",
-      "originalUrl": "https://www.technologyreview.com/2023/12/04/1083950/capitalizing-on-machine-learning-with-collaborative-structured-enterprise-tooling-teams/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/11/cap_one_abstract_ML.png",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/12/04/1083950/capitalizing-on-machine-learning-with-collaborative-structured-enterprise-tooling-teams/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/04/1083950/capitalizing-on-machine-learning-with-collaborative-structured-enterprise-tooling-teams/amp/",
-      "publishedDateTime": "2023-12-04T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
         "images": null,
         "publishers": null,
         "authors": null

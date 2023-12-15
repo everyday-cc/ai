@@ -1,18 +1,18 @@
 ---
 category: news
 title: "VISIE Inc., a Medtech Computer Vision and Spatial Computing Company, Joins NVIDIA Inception to Up Its Computing Power"
-excerpt: "VISIE Inc., a Medtech Computer Vision and Spatial Computing Company, Joins NVIDIA Inception to Up Its Computing Power"
+excerpt: "VISIE Inc., formerly Advanced Scanners, today announced it has joined NVIDIA Inception, a program that empowers early-stage companies revolutionizing"
 publishedDateTime: 2023-12-12T13:17:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/visie-inc-a-medtech-computer-vision-and-spatial-computing-company-joins-nvidia-inception-to-up/article_9d5c4298-93ba-5032-8038-5d4436cdff8a.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/visie-inc-a-medtech-computer-vision-and-spatial-computing-company-joins-nvidia-inception-to-up/article_9d5c4298-93ba-5032-8038-5d4436cdff8a.html"
+originalUrl: "https://www.businesswire.com/news/home/20231212663423/en/VISIE-Inc.-a-Medtech-Computer-Vision-and-Spatial-Computing-Company-Joins-NVIDIA-Inception-to-Up-Its-Computing-Power/"
+webUrl: "https://www.businesswire.com/news/home/20231212663423/en/VISIE-Inc.-a-Medtech-Computer-Vision-and-Spatial-Computing-Company-Joins-NVIDIA-Inception-to-Up-Its-Computing-Power/"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Computer Vision
@@ -52,6 +52,6 @@ related:
         height: 720
         isCached: true
 
-secured: "WpCFNi+nkOO0c+t9nUxnZd5wMTgTj8mUqdoMn6Dx/r9w5l2J+s9hExfcpT1WX+a4FG2u5KWEwu/kcdDEe7O6JA9xcPuyTwI7myihH+i2NC9yTSICg/k8L8VSm9cNvpGJvG19d0SXtlKevV9TWStM2vY7Imblz1eC6Q+0aIalR4Hm9xULjRYLGtvWdkz0I3BUCoVH4+2t9gNPjaFgnbTXeITS7zYS33kgb4iEC3rw7sW1UekkbhQTJsb/8zSkcKZ0anZOL0TBIbEpTDEkX1f4301mTG26XokZ6hPOt/bBKZ9bw8tnjn/G5WSjVHjtdDYEzJTKR3E3VkQ13h8Lo2oiUHG3OU3mH4U9VK7H1Tc1Z1/vloLdfP+0sePnuWBxkjuHE/fDjq7Uk2ib1UcRDlDjwfCDbbrJ0+FjT+w58H64XxeQ8QhSU5qxAoyP6pW5VnyOxnmwHt3ofYJzlYxRU5CQZM5CxfRYUxSPAJ+0kOM3F24pVHnbiIY2s+UgE/wdhFTk7P/YYxre1wnErPy/XZsa2g==;fSpIHhhCvuIwYzG/ENiDVg=="
+secured: "xum3tP+Ypr+lUtC8euD7OTWqkYWTjm65KIrLsEhcI/swzPWuBlAu7BtaA9W4yPTz3cQxXa0qxDhQjgPsDCvGLXSDKxYjzznH20hwimJEG+LqfpRBJ5yL0PoqikgP5/Cd8+NIPnPP3Wc/rMJv3r12tiUOlpHA5ohHkIM6WgHoR+BHAzzJjy7MXC7Td//GiAj18T7lSFxkRdS4lRVfrmAcp5bYzIF78/pEG2ubG5AEpqy6tc1+NNym95Cdk0k+Oe1Iz1l9RLvIAB/C3FvbPeXlXtK/ywhc8496g+Qx8OnONgD/4pYbmU1QNeO35PmDbBHPp2Dq2nvR5kENxWbEhQxJa51PNdgYRQsUEFqIb8gtRfdv2Lh0ygCg6UUt9Xfd1Wv1cvArrj//K7SzVYsQY3iSreLnBgKVXYqjRa1djdFveGaRK8skS7yMO/scEGqHy5iO7AsdP+rDFd4ZEyZBvY09wtCPA+rrtsO8nAPXFBmLAvfqx/I4yliEWmaW6Jacz5PPMheT0KroPx/0MCUqifrdZQ==;pn3QrNrZTWJ+Aq2YwCCk5w=="
 ---
 

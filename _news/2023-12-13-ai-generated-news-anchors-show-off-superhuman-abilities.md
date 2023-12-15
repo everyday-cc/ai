@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/home-entertainment/ai-generated-news-anchors/?a
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/home-entertainment/ai-generated-news-anchors/?amp=true"
 type: article
 quality: 89
-heat: 89
+heat: 91
 published: true
 
 provider:

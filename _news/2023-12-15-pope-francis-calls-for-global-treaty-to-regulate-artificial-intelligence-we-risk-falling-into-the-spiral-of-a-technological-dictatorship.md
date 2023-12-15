@@ -26,35 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Pope calls for binding global treaty on artificial intelligence"
-    excerpt: "Pope Francis called on Thursday for a legally binding international treaty to regulate artificial intelligence. The pope made his call in a message for the Roman Catholic Church's World Day of Peace,"
-    publishedDateTime: 2023-12-14T12:54:00Z
-    webUrl: "https://www.aol.com/news/pope-calls-binding-global-treaty-105514011.html"
+  - title: "Pope fears artificial intelligence's 'technological dictatorship': 'We risk losing control over ourselves'"
+    excerpt: "Pope Francis outlined his fears of machine-learning algorithms Thursday in his message for the World Day of Peace. The Catholic leader warned that artificial intelligence can usher in a \"technological dictatorship\" in its users' \"quest for an absolute freedom."
+    publishedDateTime: 2023-12-14T22:27:00Z
+    webUrl: "https://komonews.com/news/nation-world/pope-fears-artificial-intelligences-technological-dictatorship-we-risk-losing-control-over-ourselves-francis-catholic-vatican-ai-technology"
+    ampWebUrl: "https://komonews.com/amp/news/nation-world/pope-fears-artificial-intelligences-technological-dictatorship-we-risk-losing-control-over-ourselves-francis-catholic-vatican-ai-technology"
+    cdnAmpWebUrl: "https://komonews-com.cdn.ampproject.org/c/s/komonews.com/amp/news/nation-world/pope-fears-artificial-intelligences-technological-dictatorship-we-risk-losing-control-over-ourselves-francis-catholic-vatican-ai-technology"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 37
+      name: komonews
+      domain: komonews.com
+    quality: 39
     images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/0874dd523abdc435df56083a32d25faa"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Pope calls for binding treaty to regulate artificial intelligence, warns risks of technology lacking morality too great"
-    excerpt: "Pope calls for binding treaty to regulate artificial intelligence, warns risks of technology lacking morality too great"
-    publishedDateTime: 2023-12-14T10:38:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/pope-calls-binding-treaty-regulate-artificial-intelligence-warns-105650533"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/pope-calls-binding-treaty-regulate-artificial-intelligence-warns-105650533"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/pope-calls-binding-treaty-regulate-artificial-intelligence-warns-105650533"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 33
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
+      - url: "https://komonews.com/resources/media/b28a495d-3dcb-451f-a930-ee08185d1a20-large16x9_AP23145537213437.jpg"
+        width: 986
+        height: 555
         isCached: true
 
 secured: "g+gpBDs9bYqwJye5RJaMLeiywwgSuGKScgRwHn5xL9ZlTG1SQO+MZR1NYVr1fVg0mMjNg2ZHzjGY74l3I9/j8LUqcUaJU/U+Cr3eo2YrXF7ocCBfs/LTbZ0lLpWx4MA6DXyu/CsksVj5WjeSaeglYEygWatHBxeqf2fktTyJH4VheHjD+1dtIGLWRgM7tX+yEzLcSn2Bfqdkw50Vpp6Xte2i1Z6uywj+7/7ev68mGAwm9NK9F7BrxIYMbGLYVMExKLD9GYuPk0YS1fAy6VbmcNcV8p7Q346giF/f5p6jvydH8UuaN3lq4hE0E7qkPrmY5BTi8B5VanTzJoImcLforEOvdCBGihoWQn8GVsA5rNk=;UmeZ38dIlKZsWzTQ1++eHw=="

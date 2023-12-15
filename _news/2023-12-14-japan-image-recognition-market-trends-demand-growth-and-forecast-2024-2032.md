@@ -34,15 +34,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
-  - title: "Voice Recognition and Medical Transcription"
-    excerpt: "It would be unfair to look at voice-recognition transcription options without mentioning one of the largest movements in the medical transcription industry -- outsourcing transcription offshore."
-    publishedDateTime: 2023-12-10T00:00:00Z
-    webUrl: "https://www.medscape.com/viewarticle/487524_5"
-    type: article
-    provider:
-      name: Medscape
-      domain: medscape.com
-    quality: 4
 
 secured: "QOrzf4pzpGzlen5OJA4TCqzM/ZfYZeMkaqo1Ypf7e6nyrvlGWOqhWg6lJ1sjmaICpy1IlSY7PWSYedOhB6BuoKtPiD8qjxJhf4I9ZZzMguAv5osSY2aiyYTYQjNRPDFqxn+z+vNTdmyQDMoflR4ehjoYgIImZTGUinAj4a5g4ohe+ncFSYjs8sig4Zdj/UwidYLS6oSRNEVryHP8+jL3bMOVGvt106rqUSH1zLVcuQgLAb8Q3Gm1RDkNb5XoMO9Xb9J+pVvYB6yZlZ2VrDUXkXsfbMls8hF2ZOBVTznv5K5iQeVSQ2FKcRs6W6DJdycO4ds26MFp+AO3hMxVeogjqqOT2bbZSLBqFjzR7OsJ7OA=;qH10cBw29j1l4wznFWcueA=="
 ---

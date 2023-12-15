@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Apex Fintech Solutions, which called off its SPAC merger in 2021, has revived plans to go public"
-excerpt: "The fintech had tried to merge with a SPAC in 2021 but ended up pulling those plans. Apex is majority owned by Peak 6 Investments. It is expected to use a traditional IPO to list its shares, Fortune reported. Fresh data: The number of unicorns, or companies valued at $1 billion or more, across the world might be lower than you’d think."
+excerpt: "Apex Fintech Solutions is giving an IPO another shot and has confidentially filed its draft registration statement with the SEC. Apex, a custody and clearing firm whose clients include SoFi, Webull, and eToro,"
 publishedDateTime: 2023-12-12T14:48:00Z
-originalUrl: "https://www.aol.com/apex-fintech-solutions-called-off-124859708.html"
-webUrl: "https://www.aol.com/apex-fintech-solutions-called-off-124859708.html"
+originalUrl: "https://www.aol.com/finance/apex-fintech-solutions-called-off-124859708.html"
+webUrl: "https://www.aol.com/finance/apex-fintech-solutions-called-off-124859708.html"
 type: article
 quality: 11
 heat: 11
@@ -24,6 +24,6 @@ images:
     height: 799
     isCached: true
 
-secured: "K9iZoimj9lLX3p/KuBrhi5e2sZcZ7++gXXtm3uAaZAGbtvfwHADNFSJH3h3ALnkx/DrR4GZKpdj7IOvHKFFzblFgQC4rKA3semZFTE4OwmtnHqRbtnWDFM5s25GTcEFmk42UNLjx+Qn37xTRHPuSdzkDHBcTbhdD9YdXmcPcMQ/RxbwBZh1ho06Qj2V8LkO7f0PGCuqQgtO2gwL9AnTsRIz5ucS4ULK2D/HdaLEpu1znoDCntjVH93yuG6oomPtqxfmOhLt456SjZfsUyQwqGe8pbw8aPsSaSKOS0tOORkt4x/BoOJikNjyVTcLmceMqCQjoECajsNDaSNEL0jzQyld5uQVqVtEBEF3gjGfYjI30H4ft/REVUKB607vBbfpxGCI+hs4O/PH6kZzdEnQDyXYLOXvceCaAX8opUBsoefjkhXtiFyXzBbOK+BPaMxglFPxEvuQVEfvP84Amh9QjE3qxUwceM92Av/gUP7ikLm7LqJ5AL+OdtaTa12GlTOA90OV9N1FMU/9BqTx4uxG+tQ==;OVJZ9wyKcE8MtGrzwkwGNA=="
+secured: "w4WXntTLpoxN6Va6a1oHsYNu3S5RVYI5mY3HV0aiUlhYEy7wpwYNYxOZP9fKIa6h1v0fW2QYTucpievDhRf4KdSPQ1bv4I62kx0cl4oP5MOvfFD0wnxT/5jYNhkhX5WZBM7K/CeojEtDtXoMn89FlgD52OyHdgTHMOEUrCQw1S7GZTHbTvY62xeNu2E7ZaGjl3uQkktBd/pGXFXPlVwjpR2Exv7yout7MaMfqIwU7kmpZ0HlitjL5xyus9cvnvcaCLBYYDqMGMv9mT7lkIUxCz9UTc8TVjQWEq2vB5+gxm2n9syRMmwcM84DpwOENS5SriDlQCIYgd0X57W8zNwRDvDRVqBnm5nENcK+pDUBFIE=;2ingtx01zT8OEb98KG/QXQ=="
 ---
 

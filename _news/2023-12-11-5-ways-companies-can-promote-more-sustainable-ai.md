@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/zendesk/2023/12/11/5-ways-companies-can
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zendesk/2023/12/11/5-ways-companies-can-promote-more-sustainable-ai/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1350
     height: 900
     isCached: true
+
+related:
+  - title: "5 of the top AI roles companies are seeking to hire"
+    excerpt: "In the latter half of the 20th century, TV watchers and moviegoers began to meet a long list of intelligent machines: \"The Jetsons'\" maid Rosie, B-9 from \"Lost in Space,\" HAL 9000 from \"2001: A Space Odyssey,\" the \"Star Wars\" saga's C-3PO and R2-D2, and dozens more."
+    publishedDateTime: 2023-12-14T18:59:00Z
+    webUrl: "https://www.chron.com/personal-finance/article/5-of-the-top-ai-roles-companies-are-seeking-to-18554889.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 17
 
 secured: "Jdfyg+F8leuIz6PvTalD3zXeAPFrD/9s1M277yg1t/MhVFRd67i6/WDu3qb8jZPSa1yHq9OMuFSHvG7N59P4xXRecYYgM8nnQHm4e9Sdin+a5DotSlVMA7SyHfvrZl22+0962MqVsFT5UZqwlpfkyLTKphAwmTrQLZPrxb9N9FkOo9dA4kvAFa0DN9QoRgWWZBEsO4nIDzWTUi0Jm3AkA69JOR3qfBOh20ZE0M53XVp0/GG/V8kAel1wy9DXI6MNcAJP1rUIow8GW+//k6LIGzNafrSz8uBQB0rbjdmj8rhejrFmnkg6DhZFSTSj8lm3lKTbDk2NTGgmjd5eEo1SNKocgo+iaqC9QHnNekIo5yY=;ACGy8WEC0KlBpIeHdPq9hQ=="
 ---

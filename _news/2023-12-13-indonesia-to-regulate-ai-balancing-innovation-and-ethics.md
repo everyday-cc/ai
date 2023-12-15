@@ -9,7 +9,7 @@ ampWebUrl: "https://en.antaranews.com/amp/news/301002/indonesia-to-regulate-ai-b
 cdnAmpWebUrl: "https://en-antaranews-com.cdn.ampproject.org/c/s/en.antaranews.com/amp/news/301002/indonesia-to-regulate-ai-balancing-innovation-and-ethics"
 type: article
 quality: 74
-heat: 108
+heat: 104
 published: true
 
 provider:

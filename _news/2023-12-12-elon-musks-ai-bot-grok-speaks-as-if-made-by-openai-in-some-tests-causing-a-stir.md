@@ -50,6 +50,20 @@ related:
         width: 1000
         height: 650
         isCached: true
+  - title: "Grimes Unveils Grok, An AI Children’s Toy Unrelated To Elon Musk’s Grok"
+    excerpt: "One of the most recent products that Elon Musk is pushing on the world is Grok, an “anti-woke” chatbot for users of the social network that most of us still call Twitter. Grimes, currently in a custody battle with Musk over their three children,"
+    publishedDateTime: 2023-12-15T00:40:00Z
+    webUrl: "https://www.stereogum.com/2245663/grimes-unveils-grok-an-ai-childrens-toy-unrelated-to-elon-musks-grok/news/"
+    type: article
+    provider:
+      name: Stereogum
+      domain: stereogum.com
+    quality: 37
+    images:
+      - url: "https://static.stereogum.com/uploads/2023/12/Grimes-1702585323.jpg"
+        width: 1006
+        height: 788
+        isCached: true
   - title: "Elon Musk’s new AI Grok accused of stealing answers from ChatGPT"
     excerpt: "Grok, the recently released chatbot from billionaire Elon Musk's startup xAI, has been accused of ripping off ChatGPT's codebase."
     publishedDateTime: 2023-12-11T20:26:00Z

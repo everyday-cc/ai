@@ -477,7 +477,7 @@
       "originalUrl": "https://www.forbes.com/sites/zendesk/2023/12/11/5-ways-companies-can-promote-more-sustainable-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -846,6 +846,48 @@
       ]
     },
     {
+      "path": "_news/2023-12-11-french-ai-start-up-mistral-ai-raises-385m.md",
+      "title": "French AI start-up Mistral AI raises €385m",
+      "excerpt": "French artificial intelligence start-up Mistral AI announced Sunday it had raised €385 million ($414 million), becoming one of Europe's two AI leaders. Founded in May by industry heavyweights, Mistral had already raised €105 million in June. Among ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dhakatribune.com/business/333592/french-ai-start-up-mistral-ai-raises-€385m",
+      "originalUrl": "https://www.dhakatribune.com/business/333592/french-ai-start-up-mistral-ai-raises-€385m",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ecdn.dhakatribune.net/contents/cache/images/600x315x1/uploads/media/2023/12/11/000_33ZM9P9-b2692f2c39865b65deaec2e3e2362ef2.jpg?jadewits_media_id=10902",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.dhakatribune.com/amp/business/333592/french-ai-start-up-mistral-ai-raises-%E2%82%AC385m",
+      "cdnAmpWebUrl": "https://www-dhakatribune-com.cdn.ampproject.org/c/s/www.dhakatribune.com/amp/business/333592/french-ai-start-up-mistral-ai-raises-%E2%82%AC385m",
+      "publishedDateTime": "2023-12-11T12:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dhaka Tribune",
+        "domain": "dhakatribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-11-heres-how-the-famous-dodo-verdict-or-tie-score-effect-in-mental-health-therapy-can-astutely-leverage-generative-ai.md",
       "title": "Here’s How The Famous Dodo Verdict Or Tie Score Effect In Mental Health Therapy Can Astutely Leverage Generative AI",
       "excerpt": "There is a famous controversy known as the Dodo bird verdict regarding mental health therapies. I introduce the matter and discuss how generative AI comes into play.",
@@ -1128,58 +1170,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-weve-come-full-circle-with-ai-chatgpt-lazily-prompts-users-to-complete-their-own-tasks.md",
-      "title": "We've come full circle with AI: ChatGPT lazily prompts users to complete their own tasks",
-      "excerpt": "Many users have reported that ChatGPT has become lazy lately, prompting users back to complete their own tasks after giving them a formula.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/chatgpt-lazy-3393196/",
-      "originalUrl": "https://www.androidauthority.com/chatgpt-lazy-3393196/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2023/08/ChatGPT-stock-photo-58.jpg",
-          "width": 1919,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-11T08:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],
