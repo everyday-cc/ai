@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Alphabet Needs to Show Path to AI Sales in Race With Microsoft"
+    excerpt: "“The whole business model depends on getting this right,” said Gene Munster, co-founder and managing partner at Deepwater Asset Management, whose firm holds the stock. “If they can nail multi-modal generative AI, that will draw usage to Google, and that increased usage will protect and grow the search business.”"
+    publishedDateTime: 2023-12-15T01:46:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/alphabet-needs-to-show-path-to-ai-sales-in-race-with-microsoft-71702574596587.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/alphabet-needs-to-show-path-to-ai-sales-in-race-with-microsoft-71702574596587.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/alphabet-needs-to-show-path-to-ai-sales-in-race-with-microsoft-71702574596587.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 91
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2023/12/15/1600x900/USA-CHIPS-ALPHABET-0_1663336524425_1663336524425_1702604579880.JPG"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Microsoft Explores Using Liquids to Cool AI Chips"
     excerpt: "Without cool air constantly blowing through the racks of computers, the advanced chips would cook themselves. The cost of running enough fans and air conditioners to keep this from happening is leading chipmakers and data center operators to find ..."
     publishedDateTime: 2023-12-14T12:00:00Z
@@ -184,20 +200,6 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "Microsoft's Orca 2 LLM Outperforms Models That Are 10x Larger"
-    excerpt: "Microsoft Research released its Orca 2 LLM, a fine-tuned version of Llama 2 that performs as well as or better than models that contain 10x the number of parameters. Orca 2 uses a synthetic training dataset and a new technique called Prompt Erasure to achieve this performance."
-    publishedDateTime: 2023-12-12T14:13:00Z
-    webUrl: "https://www.infoq.com/news/2023/12/microsoft-orca-2-llm/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 41
-    images:
-      - url: "https://res.infoq.com/news/2023/12/microsoft-orca-2-llm/en/headerimage/generatedHeaderImage-1701529873890.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft homegrown AI model can run on smartphones, laptops"
     excerpt: "Google brought its AI model Gemini Nano to the Pixel 8 Pro. Microsoft released Phi-2, a small language model that outperforms Meta Llama 2. Phi-2 requ"
     publishedDateTime: 2023-12-13T14:24:00Z
@@ -221,20 +223,15 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Lawmakers hear support for expanding authority to control China’s access to AI tech through the cloud"
-    excerpt: "Fist said there are some factions pushing for a wholesale ban of all AI-related supply chain elements being exported to China -- whether chips or cloud -- and others, like CNAS, advocating a more “surgical” approach that would include thresholds similar to those identified in the executive order."
-    publishedDateTime: 2023-12-14T16:09:00Z
-    webUrl: "https://www.cnas.org/press/in-the-news/lawmakers-hear-support-for-expanding-authority-to-control-chinas-access-to-ai-tech-through-the-cloud"
+  - title: "Startup Mesh Ai launches ‘first AI-enabled’ workplace mental health solution for Microsoft Teams and Microsoft 365"
+    excerpt: "Australian startup Mesh Ai has announced the release of Simpatico Teams, a “pioneering AI-driven mental health application” for Microsoft Teams, Microsoft 365 and Copilot for Microsoft 365. Mesh Ai says the application ”will help employers better manage the growing psychological challenges of the"
+    publishedDateTime: 2023-12-14T13:29:00Z
+    webUrl: "https://itwire.com/business-it-news/enterprise-solutions/startup-mesh-ai-launches-‘first-ai-enabled’-workplace-mental-health-solution-for-microsoft-teams-and-microsoft-365.html"
     type: article
     provider:
-      name: CNAS
-      domain: cnas.org
-    quality: 24
-    images:
-      - url: "https://s3.us-east-1.amazonaws.com/files.cnas.org/title/China-Flag-Getty.jpg"
-        width: 1600
-        height: 866
-        isCached: true
+      name: ITWire
+      domain: itwire.com
+    quality: 12
 
 secured: "zWTFI/ctVec85kBO/vKNiu2Qk+wpTmQNd1aej/wgS0VnMOZYjmBQNOAKlrn4C+PJi5PiTahwjWEhyE9eJCmtFJ/Eo2ZHVCj8O+szEqud/eXjmias3fZeW+OZP9w9eCCeCO1x6CneGhrXt5yH/v0xReWErJU/wLnNy7iojwu+PamK3tK6aNWFhVbTKFkYezXik2WIo0POqZh+An+Ebse41qUevjIvG3KPNp70xr+GQJr1D90KgX7YqiGsdMqILIlc5cVJ8xBICvMC1VEy7Mz/N4/D6pdywyymld9dAe3ROHjFrjXl6dv6o2mgVaDFleCEzs7bCxPbZJs6aLolyV+znRC+jwmq1W8Y8RvEeO1P9rc//ErsRyxRXyfCY9y9EKY+bWIi6HBtLCQhnR5kyy6/xI3sEgrUtZScm/oL+l8JRnWZDvK7JcV7LbqI8I6o1Y3/CWg82UyNP9FH45iVjCgl3QdlEudpoILObt465kPRBBT+7i9lNIU7Vwu0Qd3WchKEMjoX6CSD3zjXtr/C4zg1Hg==;nGH2UHwleIyDmrhUTlCRxg=="
 ---

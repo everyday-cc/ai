@@ -2,6 +2,101 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-12-05-deep-learning-and-machine-learning-prognostic-models-for-chronic-obstructive-pulmonary-disease.md",
+      "title": "Deep learning and machine learning prognostic models for chronic obstructive pulmonary disease",
+      "excerpt": "The quality and performance of deep learning and machine learning models for long-term chronic obstructive pulmonary disease.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20231205/Deep-learning-and-machine-learning-prognostic-models-for-chronic-obstructive-pulmonary-disease.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20231205/Deep-learning-and-machine-learning-prognostic-models-for-chronic-obstructive-pulmonary-disease.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_766219_17017687329829560.jpg",
+          "width": 2000,
+          "height": 1076,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-05T09:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-05-best-speech-to-text-app-of-2023.md",
+      "title": "Best speech-to-text app of 2023",
+      "excerpt": "So essentially you get the same excellent speech recognition as seen on the desktop software – the only meaningful difference we noticed was a very slight delay in our spoken words appearing on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/best-speech-to-text-app",
+      "originalUrl": "https://www.techradar.com/news/best-speech-to-text-app",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/NW5VUzGuY6UiVMXmzjd4zj-1200-80.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-05T09:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-05-ai-to-be-a-key-driver-in-chinas-industrial-upgradingibm-greater-china-chairman.md",
       "title": "AI to be a Key Driver in China's Industrial Upgrading：IBM Greater China Chairman",
       "excerpt": "BEIJING, December 5 (TMTPOST) -- Chen Xudong, the Chairman and the General Manager of IBM Greater China, said on Saturday that generative artificial intelligence (AI) has resulted in technological transformation and a big impact on various industries during a keynote speech delivered at the T-EDGE Conference.",
@@ -525,6 +620,58 @@
       ]
     },
     {
+      "path": "_news/2023-12-05-nvidia-is-promising-to-help-japan-get-the-ai-chips-it-needs-for-a-network-of-new-datacenters.md",
+      "title": "Nvidia is promising to help Japan get the AI chips it needs for a network of new datacenters",
+      "excerpt": "Nvidia's CEO Jensen Huang speaking at COMPUTEX 2023 in Taipei. Huang said on Tuesday that Nvidia will partner with Japanese firms to build chip plants in Japan to meet AI demand. Walid Berrazeg—SOPA Images/LightRocket via Getty Images Nvidia CEO Jensen ...",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/asia/2023/12/05/nvidia-promises-japan-ai-chips-new-plant-ceo-jensen-huang/",
+      "originalUrl": "https://fortune.com/asia/2023/12/05/nvidia-promises-japan-ai-chips-new-plant-ceo-jensen-huang/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.fortune.com/wp-content/uploads/2023/12/GettyImages-1258356004-e1701746721367.jpg?w=840",
+          "width": 840,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/asia/2023/12/05/nvidia-promises-japan-ai-chips-new-plant-ceo-jensen-huang/amp/",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/asia/2023/12/05/nvidia-promises-japan-ai-chips-new-plant-ceo-jensen-huang/amp/",
+      "publishedDateTime": "2023-12-05T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-05-cybertrucks-full-self-driving-is-flawed-says-dawn-project.md",
       "title": "Cybertruck’s Full Self-Driving is Flawed Says Dawn Project",
       "excerpt": "Commenting on the Cybertruck’s launch, Founder of The Dawn Project Dan O’Dowd said: “ A Full Self-Driving Cybertruck is a three-ton AI-driven robot powered by software which has already resulted in at least 27 deaths.",
@@ -909,144 +1056,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-small-but-mighty-small-language-models-breakthroughs-in-the-era-of-dominant-large-language-models.md",
-      "title": "Small But Mighty: Small Language Models Breakthroughs in the Era of Dominant Large Language Models",
-      "excerpt": "Explore the revolution of Small Language Models, efficient, cost-effective AI alternatives challenging dominant Large Language Models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.unite.ai/small-but-mighty-small-language-models-breakthroughs-in-the-era-of-dominant-large-language-models/",
-      "originalUrl": "https://www.unite.ai/small-but-mighty-small-language-models-breakthroughs-in-the-era-of-dominant-large-language-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.unite.ai/wp-content/uploads/2023/12/SLMs-1000x600.png",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T18:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "unite",
-        "domain": "unite.ai",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-aws-reinvent-2023-7-takeaways-from-the-big-annual-event.md",
-      "title": "AWS re:Invent 2023: 7 Takeaways from the big annual event",
-      "excerpt": "At the AWS re:Invent conference last week, the spotlight was focused on artificial intelligence, with the new generative AI assistant, Amazon Q, debuting as the star of the show. But there was ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3711385/aws-re-invent-2023-7-takeaways-from-the-big-annual-event.html",
-      "originalUrl": "https://www.infoworld.com/article/3711385/aws-re-invent-2023-7-takeaways-from-the-big-annual-event.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/10/28/14/aws-logo-100933983-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3711385/aws-re-invent-2023-7-takeaways-from-the-big-annual-event.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711385/aws-re-invent-2023-7-takeaways-from-the-big-annual-event.amp.html",
-      "publishedDateTime": "2023-12-04T17:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-marcum-launches-askmarcumai-powered-by-microsoft-azure-openai-service-to-enhance-employee-productivity-and-efficiency.md",
-      "title": "Marcum Launches AskMarcum.ai powered by Microsoft Azure OpenAI Service to Enhance Employee Productivity and Efficiency",
-      "excerpt": "Marcum Technology built the new generative AI app to integrate with Microsoft Teams, enhancing accessibility and security",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-marcum-launches-askmarcumai-powered-microsoft-azure-openai-service-/2023/12/04/9927337.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-marcum-launches-askmarcumai-powered-microsoft-azure-openai-service-/2023/12/04/9927337.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2290984/Marcum_Peter_Scavuzzo.jpg",
-          "width": 320,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T16:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-11-15-llama-factory-lets-you-easily-fine-tune-and-train-large-language-models-llms.md",
-      "title": "LLaMA Factory lets you easily fine tune and train large language models (LLMs)",
-      "excerpt": "If you are looking for ways to easily fine-tune and train large language models (LLMs) you might be interested in a new project called LLaMA Factory. that incorporates the LLaMA Board a one-stop online web user interface method for training and refining ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/fine-tune-and-train-large-language-models/",
-      "originalUrl": "https://www.geeky-gadgets.com/fine-tune-and-train-large-language-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2023/11/LLaMA-Factory-fine-tunes-and-trains-large-language-models.jpg",
-          "width": 1280,
-          "height": 717,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-11-14-the-download-the-origins-of-life-and-building-facebooks-ai-empire.md",
       "title": "The Download: the origins of life, and building Facebook’s AI empire",
       "excerpt": "Fei-Fei Li is one of the most prominent computer science researchers of our time. The co-director of Stanford’s Human-Centered AI Institute is best known for creating ImageNet, a popular image data set that was pivotal in allowing researchers to train modern AI systems.",

@@ -51,19 +51,14 @@ related:
         height: 630
         isCached: true
   - title: "Connection Launches Helix Center for Applied AI and Robotics"
-    excerpt: "Connection (PC Connection, Inc.; NASDAQ: CNXN ), a leading information technology solutions provider to business, government, healthcare, and education markets, is pleased to announce the company has launched the Helix Center for Applied AI and Robotics."
-    publishedDateTime: 2023-12-14T21:16:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/12/14/9934737.htm"
+    excerpt: "Connection (PC Connection, Inc.; NASDAQ: CNXN), a leading information technology solutions provider to business, government, healthcare, and education"
+    publishedDateTime: 2023-12-15T01:04:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231214409898/en/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 69
-    images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 49
   - title: "Get the Robotics Help You Need"
     excerpt: "Coming at the projects from these two aspects, you get a lot of AI and machine learning solutions ... and perhaps are not sure where to start. One of the most common things you'll see in these companies is a robot arm sitting in the corner somewhere ..."
     publishedDateTime: 2023-12-14T13:05:00Z

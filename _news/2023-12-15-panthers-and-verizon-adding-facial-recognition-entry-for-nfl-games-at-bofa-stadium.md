@@ -19,21 +19,72 @@ topics:
   - AI
 
 related:
-  - title: "Verizon opens cashierless shops at NFL stadium using 5G tech"
-    excerpt: "Verizon said these autonomous shops combine off-the-shelf cameras, computer vision and artificial intelligence"
-    publishedDateTime: 2023-12-11T16:52:00Z
-    webUrl: "https://www.rcrwireless.com/20231211/5g/verizon-opens-cashierless-shops-nfl-stadium-using-5g-tech"
-    ampWebUrl: "https://www.rcrwireless.com/20231211/5g/verizon-opens-cashierless-shops-nfl-stadium-using-5g-tech/amp"
-    cdnAmpWebUrl: "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20231211/5g/verizon-opens-cashierless-shops-nfl-stadium-using-5g-tech/amp"
+  - title: "Bank of America Stadium introduces facial recognition for express entry"
+    excerpt: "New technology at Bank of America Stadium will allow certain fans to enter the stadium without having to scan their tickets."
+    publishedDateTime: 2023-12-15T00:22:00Z
+    webUrl: "https://www.wltx.com/article/sports/nfl/panthers/bank-of-america-stadium-facial-recognition-panthers-fans-tickets-silver-club/275-5f0ca2cc-5c2a-4828-8fda-3321fd64cf7e"
+    ampWebUrl: "https://www.wltx.com/amp/article/sports/nfl/bank-of-america-stadium-facial-recognition-panthers-fans-tickets-silver-club/275-5f0ca2cc-5c2a-4828-8fda-3321fd64cf7e"
+    cdnAmpWebUrl: "https://www-wltx-com.cdn.ampproject.org/c/s/www.wltx.com/amp/article/sports/nfl/bank-of-america-stadium-facial-recognition-panthers-fans-tickets-silver-club/275-5f0ca2cc-5c2a-4828-8fda-3321fd64cf7e"
     type: article
     provider:
-      name: RCR Wireless News
-      domain: rcrwireless.com
-    quality: 44
+      name: WLTX19
+      domain: wltx.com
+    quality: 76
     images:
-      - url: "https://www.rcrwireless.com/wp-content/uploads/2023/12/lincoln-financial-field-1230x690-1.jpg"
-        width: 1230
-        height: 690
+      - url: "https://media.wltx.com/assets/WCNC/images/f916cab2-7809-4606-a90a-02908ceed316/f916cab2-7809-4606-a90a-02908ceed316_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Tech, AI and America's Role in the World"
+    excerpt: "Funding for Ukraine and regulatory response to Big Tech and AI are at the center of the negotiating table to push partisan agendas forward. Sen. Amy Klobuchar weighs how a divided U.S. can still be a world leader on these issues and more."
+    publishedDateTime: 2023-12-13T03:14:00Z
+    webUrl: "https://www.wsj.com/video/tech-ai-and-america-role-in-the-world/3B69EFF1-5441-4970-857A-C0E12DD946CC"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "http://images.wsj.net/im-899079?width=1280&height=720"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Internet Marketing Association Wraps One of the Largest Artificial Intelligence Conferences in America"
+    excerpt: "A consensus was reached that Generative AI and unlocking \"intelligence as a service\" will be regarded as the largest technological impact to business and society in history, overshadowing the invention of the microchip and the internet. Virtually every ..."
+    publishedDateTime: 2023-12-14T12:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/internet-marketing-association-wraps-one-of-the-largest-artificial-intelligence-conferences-in-america-1032902126"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
+  - title: "Internet Marketing Association Wraps One Of The Largest Artificial Intelligence Conferences In America"
+    excerpt: "IMA has established a position as one of the largest and fastest growing groups in the world focused on internet marketing. Members represent a wide range of fields associated with this dynamic and pivotal aspect of business and society. For information on the Internet Marketing Association, visit ."
+    publishedDateTime: 2023-12-14T18:27:00Z
+    webUrl: "https://menafn.com/1107598826/Internet-Marketing-Association-Wraps-One-Of-The-Largest-Artificial-Intelligence-Conferences-In-America"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 40
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?252423"
+        width: 378
+        height: 249
+        isCached: true
+  - title: "Verizon, Panthers Implement “Express Entry” Option Using Facial Recognition To Enter Bank of America Stadium"
+    excerpt: "A new partnership between the Carolina Panthers and Verizon allows fans to enter Bank of America Stadium without scanning a ticket or their phones."
+    publishedDateTime: 2023-12-14T22:49:00Z
+    webUrl: "https://www.wccbcharlotte.com/2023/12/14/verizon-panthers-implement-express-entry-option-using-facial-recognition-to-enter-bank-of-america-stadium/"
+    type: article
+    provider:
+      name: WCCB
+      domain: wccbcharlotte.com
+    quality: 37
+    images:
+      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.wccbcharlotte.com/content/uploads/2015/12/Bank-of-America-Stadium.jpg"
+        width: 426
+        height: 240
         isCached: true
 
 secured: "qpcBgGjNo7cx1w8K9WRJqtcm/Sn2JkcUPvKBdyEfZTAuLQJohHl9n6jigqtnuCJQT7ezyq/t7lvtlkVGF+Gb5lojUMq5NewijW+7B6F9huHspjYigCgKWFEDptO+MAKMf8oiWbSJcWyT+ltt/0Cf4rZKzsbR+Ep72xfw6OfpiFfFz4Awu7mABBFdQBhYqvHkTqwvfHUOFBeF8NTb0R/NPqAR6AiUkBpuIeCro2DgxuQNDX78JgESOwns3i8pRoyz8j/yquyiNMFhqOJZc1oZxlbdIO9JWPXndqdGREcnjXqEOUzgxBr07j8ScZo/UwqL0taH7bmswLmJkOmuAjgxMFlofbczE9d4/+MF3Id0dDO6oB4IE2nuEGbLjkf8QyFNpcO7InQhpNJNZAHWJxEZbpeIaUv+Rr2UAb9Xyi/ed5Zkj16Limzp/OP4EY+LInXXRxGSbhfb1oBnXp33bLLaMiiddRZ9lbqMgobKxXnWxC5219vBySXBNlJz5LS5NCsHqD0ffIEZ8j8THW0boLQmww==;lJPftgRP4Dj+JQM46gEtNA=="

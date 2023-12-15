@@ -57,6 +57,20 @@ related:
         width: 1500
         height: 857
         isCached: true
+  - title: "Apple's M3 Max Outshines RTX 4090 in AI Speech Transcription Test"
+    excerpt: "The M3 Max is Apples most powerful 3nm SoC developed for the Mac, with multi-core performance that outperforms the M2 Ultra and a 40-core GPU that can compete with a laptop RTX 4080. Despite these advancements,"
+    publishedDateTime: 2023-12-15T01:53:00Z
+    webUrl: "https://www.econotimes.com/Apples-M3-Max-Outshines-RTX-4090-in-AI-Speech-Transcription-Test-1668034"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 41
+    images:
+      - url: "https://f1.econotimes.com/2023/12/gbem9k4h88_th_1024x0.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "sZLSafQ2004D09GcUCUO60AUt9hiOsSGZFWsbZ2LkyXyZmT4PrlNJepbMGH94VyHmrkpmpxYoPtExuKti+ME38J0vIeDqiztmAZ7qMYmsRAksMzrtOcOYLL+1T9EFHSEdYrtyEYYBXwyMjeemseCezYP7eAsnLg3nIHg2J6/YIItiAE62nBMA2isKbx78nN5Eyrn3hrfprkx5URcGw7P2AXkBs5tRfhMMQaHgjf768q9vE2+xxeRQhu6T9z332MUhl0lzsFbnvYdBWMIzEr7NLJQTy1Ct3F1Ut8/UdF5msrV+wrqda8/CTNrmz3zOookO0MA/bnqSJuFr5Of+96lQJ8U3XND8sEm17vEw/HLkMII7wntzOaj7BjKA7nU+AQ44I0zJjycn8yT2OdQgRAxLtBN+NoxEHWGS15x46zPww82zqr2bjdDnqKVwrXy6Z0+fymyTQ7CRzfLoY5NpgYNEXLicbdBjrQxol+rwT/yc5AVI5ljbge8oK1uX5FCXSOFOfzxJxP1X0swLFNpMTuD1w==;bPkr/23Z68SzXRaC6nPWNg=="
 ---

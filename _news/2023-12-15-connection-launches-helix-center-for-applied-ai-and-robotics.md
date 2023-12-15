@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Connection Launches Helix Center for Applied AI and Robotics"
-excerpt: "Connection (PC Connection, Inc.; NASDAQ: CNXN ), a leading information technology solutions provider to business, government, healthcare, and education markets, is pleased to announce the company has launched the Helix Center for Applied AI and Robotics."
-publishedDateTime: 2023-12-14T21:16:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/12/14/9934737.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/12/14/9934737.htm"
+excerpt: "Connection (PC Connection, Inc.; NASDAQ: CNXN), a leading information technology solutions provider to business, government, healthcare, and education"
+publishedDateTime: 2023-12-15T01:04:00Z
+originalUrl: "https://www.businesswire.com/news/home/20231214409898/en/"
+webUrl: "https://www.businesswire.com/news/home/20231214409898/en/"
 type: article
-quality: 69
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Robotics
   - AI
-
-images:
-  - url: "https://images.tmcnet.com/tmc/world.jpg"
-    width: 1200
-    height: 627
-    isCached: true
 
 related:
   - title: "AI and Robotics: The future that awaits us"
@@ -74,6 +68,6 @@ related:
       domain: automationworld.com
     quality: 34
 
-secured: "0KjpNJx099jKtMPa4QjbOPb8m02B50mpsylGXC8vSuAbkSMSHuAU+C0grchspfK6XB6Q26edN2BbuRhbXZi1i2/jzsFe/kCUDnTBhxd3enMQS0NgvINW59O114sNpCF1ivZ9d20E9Uz5sOf9rBUAbV3eRB93EgMra9e2y70Oyc3nsE+JiLHnschPlAIkWYUgCvilOU5QDEGY+2/nL5ScHm/lxC0PKmVHVLtxU47RbBskc2241J6Z3jGDWxw5pulNQwoovEBLQvsiTdtsClc5wMFI2n+JlgSueWk4uxdVSh5OzwB0K8Q2tH4Th/srgXBRfh+pXcD52kiNaUCjLB2Znml7TDk0LGRjYBnbTl3yr4k=;erJnmq5IRyPoph+GhtndYQ=="
+secured: "VohPcGv+bHCpG8PIy6P7b2J9AKePnYxCuvbFFhSKavCgEmeCJkfRMVbkenktgQe2UuIAlzhdLE4BA4O9zp/60MyyKI8/SPvMjkELiaDlwRZJE9MBTQuo1BEuhTIpCBl+5bSu8Ec6YeXIA1cLSqeE3iHgLyw3Rt4cFA56EQGF1MTz+HuSXcM6tr8jMHA4eH39Um91iFsy0pK6/q/tK3bIBassxRI5F4Wl+3J2ZL4S572h0M3A6xEnI0+GoVz3Z3wtStHNeGua74zSrPQfjzh5WIJs8jqpkKUqleXRoaj7wre1QmuY3Q4fJzG9nkhj1I0hridwYUqJNk0/mZHtlAcNPCGXM48jFiN1o3V70vSou5k=;CFcHCzTpCNx/ZOc75Afbfw=="
 ---
 

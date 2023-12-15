@@ -19,229 +19,219 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Relevance AI’s low-code platform enables businesses to build AI teams"
-    excerpt: "However, only businesses with large engineering teams can build their own AI workforces. An Australia-based startup, Relevance AI, wants to help companies of all sizes build custom AI agents for any use case or function to maximize productivity with its ..."
-    publishedDateTime: 2023-12-11T22:31:00Z
-    webUrl: "https://techcrunch.com/2023/12/11/relevance-ais-low-code-platform-enables-businesses-to-build-ai-teams/"
-    ampWebUrl: "https://techcrunch.com/2023/12/11/relevance-ais-low-code-platform-enables-businesses-to-build-ai-teams/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/11/relevance-ais-low-code-platform-enables-businesses-to-build-ai-teams/amp/"
+  - title: "Alphabet Needs to Show Path to AI Sales in Race With Microsoft"
+    excerpt: "“The whole business model depends on getting this right,” said Gene Munster, co-founder and managing partner at Deepwater Asset Management, whose firm holds the stock. “If they can nail multi-modal generative AI, that will draw usage to Google, and that increased usage will protect and grow the search business.”"
+    publishedDateTime: 2023-12-15T01:46:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/alphabet-needs-to-show-path-to-ai-sales-in-race-with-microsoft-71702574596587.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/alphabet-needs-to-show-path-to-ai-sales-in-race-with-microsoft-71702574596587.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/alphabet-needs-to-show-path-to-ai-sales-in-race-with-microsoft-71702574596587.html"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 91
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1188605237.jpg?resize=1200,800"
-        width: 1200
-        height: 800
+      - url: "https://images.hindustantimes.com/tech/img/2023/12/15/1600x900/USA-CHIPS-ALPHABET-0_1663336524425_1663336524425_1702604579880.JPG"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "Hyperplane wants to bring AI to banks"
-    excerpt: "Hyperplane, a San Francisco-based startup that is building foundation models to help banks predict customer behavior, is coming out of stealth today by"
-    publishedDateTime: 2023-12-13T08:01:00Z
-    webUrl: "https://techcrunch.com/2023/12/13/hyperplane-wants-to-bring-ai-to-banks/"
-    ampWebUrl: "https://techcrunch.com/2023/12/13/hyperplane-wants-to-bring-ai-to-banks/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/13/hyperplane-wants-to-bring-ai-to-banks/amp/"
+  - title: "Microsoft Explores Using Liquids to Cool AI Chips"
+    excerpt: "Without cool air constantly blowing through the racks of computers, the advanced chips would cook themselves. The cost of running enough fans and air conditioners to keep this from happening is leading chipmakers and data center operators to find ..."
+    publishedDateTime: 2023-12-14T12:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-12-14/microsoft-explores-using-liquids-to-cool-ai-chips"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 81
+  - title: "Tech Trends: Microsoft to Introduce AI to Many Government Workers"
+    excerpt: "With Azure OpenAI Service, we are enabling our customers to gain access to all of the latest models from our partner OpenAI, like GPT-4 Turbo, and do more to engage and leverage their own data. Our enterprise AI tools provides the same role-based security ..."
+    publishedDateTime: 2023-12-11T17:36:00Z
+    webUrl: "https://statetechmagazine.com/article/2023/12/tech-trends-microsoft-introduce-ai-many-government-workers"
+    ampWebUrl: "https://statetechmagazine.com/article/2023/12/tech-trends-microsoft-introduce-ai-many-government-workers?amp"
+    cdnAmpWebUrl: "https://statetechmagazine-com.cdn.ampproject.org/c/s/statetechmagazine.com/article/2023/12/tech-trends-microsoft-introduce-ai-many-government-workers?amp"
+    type: article
+    provider:
+      name: Statetechmagazine
+      domain: statetechmagazine.com
+    quality: 74
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/12/GettyImages-1688426751.jpg?resize=1200,800"
-        width: 1200
-        height: 800
+      - url: "https://statetechmagazine.com/sites/statetechmagazine.com/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202312/GettyImages-1485546309.jpg?itok=fyQGX9CX"
+        width: 1440
+        height: 500
         isCached: true
-  - title: "OpenAI thinks superhuman AI is coming — and wants to build tools to control it"
-    excerpt: "Schmidt’s personal fortune stands around an estimated $24 billion, and he’s poured hundreds of millions into other, decidedly less ethics-focused AI ventures and funds — including his own. Schmidt denies this is the case, of course. “AI and other ..."
-    publishedDateTime: 2023-12-14T17:00:00Z
-    webUrl: "https://techcrunch.com/2023/12/14/openai-thinks-superhuman-ai-is-coming-and-wants-to-build-tools-to-control-it/"
-    ampWebUrl: "https://techcrunch.com/2023/12/14/openai-thinks-superhuman-ai-is-coming-and-wants-to-build-tools-to-control-it/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/14/openai-thinks-superhuman-ai-is-coming-and-wants-to-build-tools-to-control-it/amp/"
+  - title: "Microsoft, AFL-CIO Reach Deal on AI, Labor Neutrality"
+    excerpt: "Microsoft has a major partnership with ChatGPT maker OpenAI and committed to pumping more than $10 billion into the startup. Surging popularity of so-called generative AI, which uses data to create new content like ChatGPT's human-sounding prose, could remake human society and make obsolete many jobs."
+    publishedDateTime: 2023-12-11T14:03:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-12-11/microsoft-afl-cio-reach-deal-on-ai-labor-neutrality"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 85
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/11/openAI-pattern-04.jpg?resize=1200,675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Advances In AI, Yet Many Unresolved Issues"
-    excerpt: "In a short year, we have seen countless products, platforms, and services—an entire industry—born, reborn, and shaped constantly by advances that seem to keep coming. GPTs have emerged as platforms to build on and build with,"
-    publishedDateTime: 2023-12-11T02:34:00Z
-    webUrl: "https://www.forbes.com/sites/arunshastri/2023/12/10/advances-in-ai-yet-many-unresolved-issues/"
-    ampWebUrl: "https://www.forbes.com/sites/arunshastri/2023/12/10/advances-in-ai-yet-many-unresolved-issues/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arunshastri/2023/12/10/advances-in-ai-yet-many-unresolved-issues/amp/"
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 64
+  - title: "Microsoft Agrees to Union Contract Terms Governing Its Use of AI"
+    excerpt: "Microsoft Corp. has agreed to union contract language governing its use of artificial intelligence, creating an avenue for workers to challenge how it deploys the evolving technology."
+    publishedDateTime: 2023-12-11T11:59:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-12-11/microsoft-agrees-to-union-contract-terms-governing-its-use-of-ai"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-  - title: "Cohere to help businesses build AI using Slack, Google Drive data"
-    excerpt: "OpenAI-competitor Cohere launched \"connectors,\" which allow companies to connect third-party application data to Cohere’s LLM."
-    publishedDateTime: 2023-12-12T17:00:00Z
-    webUrl: "https://venturebeat.com/ai/cohere-to-help-businesses-build-ai-using-slack-google-drive-data/"
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 64
+  - title: "Microsoft Copilot: tips and tricks for using AI in Windows"
+    excerpt: "Windows Copilot is a useful tool for augmenting your Windows experience, but with these tips and tricks you can make it even better."
+    publishedDateTime: 2023-12-13T19:19:00Z
+    webUrl: "https://www.digitaltrends.com/computing/tips-tricks-windows-copilot/"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 64
+  - title: "Microsoft drastically expands Azure AI Studio to include Llama 2 Model-as-a-Service, GPT-4 Turbo with Vision"
+    excerpt: "Today, the company announced that it is making Meta Platforms’ rival open-sourced AI model Llama 2 available in Azure AI Studio, its cloud platform AI clearinghouse, in the form of a “model-as-a-service.” Similar to the now old acronym of SaaS ..."
+    publishedDateTime: 2023-12-14T11:52:00Z
+    webUrl: "https://venturebeat.com/ai/microsoft-drastically-expands-azure-ai-studio-to-include-llama-2-model-as-a-service-gpt-4-turbo-with-vision/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/12/Untitled-design-2023-12-12T105755.661.png?w=1200&strip=all"
-        width: 1200
-        height: 750
-        isCached: true
-  - title: "Pope calls for treaty to regulate artificial intelligence"
-    excerpt: "ROME >> Pope Francis on Thursday called for an international treaty to ensure artificial intelligence is developed and used ethically, arguing that the risks of technology lacking human values of compassion, mercy, morality and forgiveness are too great."
-    publishedDateTime: 2023-12-14T00:01:00Z
-    webUrl: "https://www.staradvertiser.com/2023/12/14/breaking-news/pope-calls-for-treaty-to-regulate-artificial-intelligence/"
-    ampWebUrl: "https://www.staradvertiser.com/2023/12/14/breaking-news/pope-calls-for-treaty-to-regulate-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2023/12/14/breaking-news/pope-calls-for-treaty-to-regulate-artificial-intelligence/amp/"
+    quality: 62
+  - title: "AMD Is Set To Challenge Nvidia's Dominance And Amazon Is Going After Microsoft's Early-Start AI Advantage"
+    excerpt: "According to analysts, Nvidia Corporation (NASDAQ: NVDA) controls roughly 80% of the AI chip market, when including the custom processors built by companies such as Alphabet (NASDAQ: GOOG)-owned Googl"
+    publishedDateTime: 2023-12-11T18:23:00Z
+    webUrl: "https://www.benzinga.com/23/12/36183243/amd-is-set-to-challenge-nvidias-dominance-and-amazon-is-going-after-microsofts-early-start-ai-advant"
+    ampWebUrl: "https://www.benzinga.com/amp/content/36183243"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36183243"
     type: article
     provider:
-      name: Honolulu Star-Advertiser
-      domain: staradvertiser.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 57
     images:
-      - url: "https://www.staradvertiser.com/wp-content/uploads/2023/12/web1_14491980-7ba1574d62584f1f96678910781a0116.jpg"
-        width: 760
-        height: 507
+      - url: "https://cdn.benzinga.com/files/10163_0.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "How to build custom Copilots with Azure AI Studio"
-    excerpt: "Azure AI Studio is not just about starting a project; it’s about nurturing it through every stage. “Accelerate decision-making and enhance efficiency across your enterprise using powerful AI tools and machine learning models. Explore the pricing ..."
-    publishedDateTime: 2023-12-12T00:00:00Z
-    webUrl: "https://www.geeky-gadgets.com/build-custom-copilots-with-azure/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 54
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/build-custom-Copilots-with-Azure.jpg"
-        width: 1280
-        height: 717
-        isCached: true
-  - title: "How AI Can Revolutionize Your Business"
-    excerpt: "Throughout history, there have been key inventions that have revolutionized everyday life, such as the automobile and electricity. We are currently living amid another such revolution: the rise of AI."
-    publishedDateTime: 2023-12-11T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/11/how-ai-can-revolutionize-your-business/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Apple quietly releases MLX AI framework to build foundation AI models"
-    excerpt: "Apple's machine learning research team has quietly introduced and released a new machine learning framework called MLX, designed to optimize the"
-    publishedDateTime: 2023-12-11T11:41:00Z
-    webUrl: "https://www.geeky-gadgets.com/apple-mlx-ai-framework/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 41
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FFplJsVd2dTk%2F0.jpg"
-        width: 480
-        height: 360
-        isCached: true
-  - title: "Intel debuts AI-accelerated Core Ultra and 5th Gen Xeon chips to enable AI to run in any location"
-    excerpt: "Intel debuts AI-accelerated Core Ultra and 5th Gen Xeon chips to enable AI to run in any location - SiliconANGLE"
-    publishedDateTime: 2023-12-14T15:00:00Z
-    webUrl: "https://siliconangle.com/2023/12/14/intel-debuts-ai-accelerated-core-ultra-5th-gen-xeon-chips-will-enable-ai-run-location/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 41
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/Intel-Core-Ultra-2.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
-  - title: "Governing AI for business benefit"
-    excerpt: "Last month, a group of professionals and industry experts came together to launch an AI Governance website in response to a survey that indicated governance is a key focus although half of businesses are already using some form of AI."
-    publishedDateTime: 2023-12-11T00:30:00Z
-    webUrl: "https://www.reseller.co.nz/brand-post/content/709735/governing-ai-for-business-benefit/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 39
-    images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/ai-byline3.jpg"
-        width: 472
-        height: 315
-        isCached: true
-  - title: "VERSES AI hires Peter Provost to help launch developer platform"
-    excerpt: "Former Microsoft Product Leader Peter Provost is to help launch the VERSES AI Developer Platform – bringing over 40 years of coding experience to the project. As VP of Product, Developer Platforms, Provost will lead the strategic development and enhancement of Genius - VERSES’ Intelligence-as-a-Service platform,"
-    publishedDateTime: 2023-12-11T08:20:00Z
-    webUrl: "https://www.intelligentcio.com/north-america/2023/12/11/verses-ai-hires-peter-provost-to-help-launch-developer-platform/"
-    type: article
-    provider:
-      name: intelligentcio
-      domain: intelligentcio.com
-    quality: 39
-    images:
-      - url: "https://www.intelligentcio.com/north-america/wp-content/uploads/sites/45/2023/12/AdobeStock_288304009-1.jpg"
-        width: 1000
-        height: 450
-        isCached: true
-  - title: "Durable cements $14M to build AI-powered tools for small businesses in service industries"
-    excerpt: "Builders, bakers and body conditioners might not be the first trades that come to mind when you think about how AI is transforming how we work. But today a startup that’s building AI-powered business tools specifically for them — and the thousands of ..."
-    publishedDateTime: 2023-12-12T13:45:00Z
-    webUrl: "https://techcrunch.com/2023/12/12/durable-cements-14m-to-build-ai-powered-tools-for-small-businesses-in-service-industries/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 38
-  - title: "Leverage These AI Techniques to Stay Ahead in 2024"
-    excerpt: "The benefits of AI, and the ease of its access, are clear. \"You no longer need to be a data scientist, an engineer, or even a programmer. It is 1997 again; but instead of the Internet, the technology that is changing industry is AI,\" said AI entrepreneur Michael Puscar."
-    publishedDateTime: 2023-12-11T07:48:00Z
-    webUrl: "https://www.inc.com/katie-konyn/leverage-these-ai-techniques-to-stay-ahead-in-2024.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1700140485_535546_egjvz1.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Citrusx emerges from stealth to make AI explainable, streamline compliance for enterprises"
-    excerpt: "Citrusx claims its technology ensures 100% transparency and can lead to 82% faster time to production, enabling teams to seize the AI opportunity."
-    publishedDateTime: 2023-12-11T19:27:00Z
-    webUrl: "https://venturebeat.com/ai/citrusx-emerges-from-stealth-to-make-ai-explainable-streamline-compliance-for-enterprises/"
+  - title: "Microsoft releases Phi-2, a small language model AI that outperforms Llama 2, Mistral 7B"
+    excerpt: "Microsoft researchers also noted in their blog post on the Phi-2 release that it outperforms Google's brand new Gemini Nano 2 model."
+    publishedDateTime: 2023-12-12T18:01:00Z
+    webUrl: "https://venturebeat.com/ai/microsoft-releases-phi-2-a-small-language-model-ai-that-outperforms-llama-2-mistral-7b/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 37
-  - title: "How copyright law can improve artificial intelligence"
-    excerpt: "We acknowledge Aboriginal and Torres Strait Islander peoples as the First Australians and Traditional Custodians of the lands where we live, learn and work."
-    publishedDateTime: 2023-12-14T00:01:00Z
-    webUrl: "https://www.abc.net.au/listen/programs/drawingroom/how-copyright-law-can-improve-artificial-intelligence/103230824"
+    quality: 57
+  - title: "Microsoft and labor unions form ‘historic’ alliance on AI"
+    excerpt: "Microsoft is teaming up with labor unions to create 'an open dialogue' on how artificial intelligence will affect workers."
+    publishedDateTime: 2023-12-11T17:51:00Z
+    webUrl: "https://www.latimes.com/business/story/2023-12-11/microsoft-and-labor-unions-form-historic-alliance-on-ai"
     type: article
     provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 37
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 54
     images:
-      - url: "https://live-production.wcms.abc-cdn.net.au/6db0896bf5d27df57ed9b711c0860594?impolicy=wcms_crop_resize&cropH=1671&cropW=2966&xPos=25&yPos=0&width=862&height=485"
-        width: 862
-        height: 485
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/c303384/2147483647/strip/true/crop/2000x1050+0+218/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd9%2Fc8%2F51d3b04f402cbe775fac74266e80%2Fmicrosoft-openai-75424.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Dell Upgrades Storage Offerings As Businesses Shift To AI-First Operating Model"
-    excerpt: "As more businesses see the competitive need to shift data into AI-led processes, Dell’s AI-Ready Data Platform combines its infrastructure and performance upgrades to speed up how quickly customers can train large language models."
-    publishedDateTime: 2023-12-11T21:05:00Z
-    webUrl: "https://www.crn.com/news/software/dell-ai-storage"
+  - title: "Autopilot's new AI integrates into Microsoft Teams and Copilot"
+    excerpt: "AI-powered, format-agnostic document data extraction allows ... They were an early adopter into Microsoft Azure, building straight into the cloud as early as 2014, while competitors were still battling with on-prem solutions. They were also early adopters ..."
+    publishedDateTime: 2023-12-14T00:01:00Z
+    webUrl: "https://www.bizcommunity.com/Article/196/542/244643.html"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 15
+      name: Bizcommunity
+      domain: bizcommunity.com
+    quality: 54
+    images:
+      - url: "https://biz-file.com/c/2312/722697-848x441.jpg?2"
+        width: 848
+        height: 441
+        isCached: true
+  - title: "Microsoft is training AI to accelerate regulatory process for nuclear projects"
+    excerpt: "Microsoft is reportedly eyeing nuclear power for its AI operations. Microsoft stock is currently up close to 60% versus year start."
+    publishedDateTime: 2023-12-12T17:39:00Z
+    webUrl: "https://invezz.com/news/2023/12/12/microsoft-training-ai-nuclear-regulatory-process/"
+    type: article
+    provider:
+      name: Invezz
+      domain: invezz.com
+    quality: 52
+    images:
+      - url: "https://invezz.com/wp-content/uploads/2023/12/139137294-m-normal-none-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Microsoft’s Phi-2: a small AI model that competes with LLMs from Google, Meta"
+    excerpt: "A compact AI model with outputs that rival those of LLMs from Meta and Google. That's the promise Microsoft is making with its newly announced Phi-2, a"
+    publishedDateTime: 2023-12-13T11:31:00Z
+    webUrl: "https://www.techzine.eu/blogs/applications/114310/microsofts-phi-2-a-small-ai-model-that-competes-with-llms-from-google-meta/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 51
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2022/12/Microsoft_unsplash.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
+  - title: "Microsoft Research Debuts Phi-2, New Small Language Model"
+    excerpt: "Phi-2 is a generative AI model with 2.7 billion-parameters used for research and development of language models. While large language models can reach hundreds of billions of parameters, Microsoft Research is experimenting with small language models in ..."
+    publishedDateTime: 2023-12-13T20:53:00Z
+    webUrl: "https://www.techrepublic.com/article/microsoft-phi-2-ai/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 51
+  - title: "Microsoft Believes Indian Tech Firms Will Play A Key Role In AI Development, Adoption Globally"
+    excerpt: "The world's largest vendor of computer software, Microsoft is working with India's IT and ITeS companies in multiple markets to facilitate AI implementation."
+    publishedDateTime: 2023-12-12T06:46:00Z
+    webUrl: "https://www.ibtimes.co.uk/microsoft-believes-indian-tech-firms-will-play-key-role-ai-development-adoption-globally-1722131"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 42
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1717954/microsoft.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
+  - title: "Microsoft homegrown AI model can run on smartphones, laptops"
+    excerpt: "Google brought its AI model Gemini Nano to the Pixel 8 Pro. Microsoft released Phi-2, a small language model that outperforms Meta Llama 2. Phi-2 requ"
+    publishedDateTime: 2023-12-13T14:24:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-homegrown-ai-model-can-run-on-smartphones-laptops/articleshow/105967667.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 36
+  - title: "Striim Integrates with Microsoft Fabric to Deliver Real-Time Data Streaming Innovation for Analytics and AI"
+    excerpt: "Striim, an industry leader in real-time data integration and streaming, is excited to announce its integration with Microsoft Fabric, a new data analytics platform. Striim will provide its innovative low-latency,"
+    publishedDateTime: 2023-12-13T12:13:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/12/13/9933026.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 36
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "Striim Integrates with Microsoft Fabric to Deliver Real-Time Data Streaming Innovation for Analytics and AI"
+    excerpt: "Striim, an industry leader in real-time data integration and streaming, is excited to announce its integration with"
+    publishedDateTime: 2023-12-13T18:51:00Z
+    webUrl: "https://www.datanami.com/this-just-in/striim-integrates-with-microsoft-fabric-to-deliver-real-time-data-streaming-innovation-for-analytics-and-ai/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 16
 
 secured: "e+9QtSg2AxK/s2JSp8ZNpn2dd1vJyc3WQBQ5/xCVcoIHh6viQtqLlcw3cnk79s70FpFoJzUyI7eZtsg8LYR0I9LgOuZfajk4/mzXIc3/B7bgn94BR0IrG7vkSSVC6H5Ikyg/wi/qG08ZUdtHypQrIB1Fu5fejgZmx+ihvhoDD5M6K3vwdHIt6JQiCIOr80W5UJkxNVf1lB6DyZHHaPhM4b0ytV+Rlw980GES+2l2g7ndfkZBIs7/isCS4S0OlMiXxTkhia4OxGfpmAdG31AhVzN+knPQFXCEHIK8sAFcZdLJtG0mmkgKx+HNLugU9amXLb18LgkNFiy/+078V4euj05BJ8dBDBlEZH1yiYDGuzFF0y4omdHxgw0MqyWIM5NLjxBbZc4M3/FkiQq794GLKkCwkb8mL0SOBYFLtRbyUVvXFm797Ce+QDKh6vpMX9jgdK1VkvGPddcvbQPuHnOnbn9MsVEDTQ556EIoNIGGq/+P2KmVnQn36aZM84ttuaDyqUhTNV4bWHdesM3UvtX0RA==;vx+tG0q2KkKq36b0KfRrQw=="
 ---

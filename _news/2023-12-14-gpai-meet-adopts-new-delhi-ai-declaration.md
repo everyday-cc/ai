@@ -27,54 +27,86 @@ images:
     isCached: true
 
 related:
-  - title: "GPAI should help frame sustainable AI rules: PM"
-    excerpt: "The prime minister emphasized that a large part of the course of AI development will come through “human and democratic values”"
-    publishedDateTime: 2023-12-13T04:48:00Z
-    webUrl: "https://www.livemint.com/ai/artificial-intelligence/gpai-should-help-frame-sustainable-ai-rules-pm-11702401229429.html"
-    ampWebUrl: "https://www.livemint.com/ai/artificial-intelligence/gpai-should-help-frame-sustainable-ai-rules-pm/amp-11702401229429.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/artificial-intelligence/gpai-should-help-frame-sustainable-ai-rules-pm/amp-11702401229429.html"
+  - title: "BigBear.ai Expands its Relationship with AWS to Deliver AI-Driven Solutions"
+    excerpt: "BigBear.ai continues to expand its capabilities to serve the commercial enterprise sector and is proud to advance this new effort with AWS."
+    publishedDateTime: 2023-12-11T14:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/bigbear-ai-expands-its-relationship-with-aws-to-deliver-ai-driven-solutions-1032889378"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
+  - title: "Google's Billion-Dollar Cloud Business Takes On AWS, Azure With AI, Machine Learning"
+    excerpt: "\"Anytime any customer talks cloud, they talk AWS, Azure, and Google ... Google's portfolio of artificial intelligence (AI) and machine learning technologies are standing out and giving the ..."
+    publishedDateTime: 2023-12-11T03:13:00Z
+    webUrl: "https://www.crn.com/news/cloud/300100466/googles-billion-dollar-cloud-business-takes-on-aws-azure-with-ai-machine-learning"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 61
+  - title: "Global Partnership on Artificial Intelligence nations adopt New Delhi declaration"
+    excerpt: "This summit aims to finalise a comprehensive framework that encompasses shared principles for Safe and Trusted AI. The minister's announcement comes as the three-day GPAI Summit, which commenced on December 12,"
+    publishedDateTime: 2023-12-14T09:09:00Z
+    webUrl: "https://www.cnbctv18.com/technology/global-partnership-on-artificial-intelligence-nations-adopt-new-delhi-declaration-18568361.htm"
+    ampWebUrl: "https://www.cnbctv18.com/technology/global-partnership-on-artificial-intelligence-nations-adopt-new-delhi-declaration-18568361.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/global-partnership-on-artificial-intelligence-nations-adopt-new-delhi-declaration-18568361.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 54
     images:
-      - url: "https://www.livemint.com/lm-img/img/2023/12/12/1600x900/PTI12-12-2023-000248B-0_1702401366273_1702401381608.jpg"
-        width: 1600
-        height: 900
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2023/12/gpai-1019x573.jpeg"
+        width: 1019
+        height: 573
         isCached: true
-  - title: "E.U. Reaches Deal on World’s First Comprehensive AI Rules"
-    excerpt: "European Union negotiators have clinched a deal on the world's first comprehensive artificial intelligence rules"
-    publishedDateTime: 2023-12-11T11:14:00Z
-    webUrl: "https://time.com/6344628/eu-ai-rules-deal/"
+  - title: "Parsons Merges Artificial Intelligence To Deliver Combat Advantage"
+    excerpt: "Parsons Corporation (NYSE: PSN) is using artificial intelligence (AI) to combine combat-tested technologies with historically challenging Cyber and Electromagnetic Activities (CEMA) capabilities to deliver combat advantage to warfighters operating at the tactical edge."
+    publishedDateTime: 2023-12-14T12:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/parsons-merges-artificial-intelligence-to-deliver-combat-advantage-1032900509"
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 47
-  - title: "Europe, a laggard in AI, seizes the lead in its regulation"
-    excerpt: "Yet whether the AI Act will be as successful as the General Data Protection Regulation ( GDPR ), the EU ’s landmark privacy law, is another question. Important details still need to be worked out. And the European Parliament still needs to approve the final version."
-    publishedDateTime: 2023-12-10T18:25:00Z
-    webUrl: "https://www.economist.com/europe/2023/12/10/europe-a-laggard-in-ai-seizes-the-lead-in-its-regulation"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "House Resolution to Analyze Artificial Intelligence Heads to House"
+    excerpt: "Merski's team said he has previously advocated for steering AI away from nefarious actors and directing it toward being a beneficial, useful source for good in our society."
+    publishedDateTime: 2023-12-13T18:25:00Z
+    webUrl: "https://www.erienewsnow.com/story/50216333/house-resolution-to-analyze-artificial-intelligence-heads-to-house"
     type: article
     provider:
-      name: The Economist
-      domain: economist.com
+      name: Erie News Now
+      domain: erienewsnow.com
     quality: 37
     images:
-      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20231210_BLP901.jpg"
+      - url: "https://WICU.images.worldnow.com/images/25234973_G.jpeg?lastEditedDate=1696261550000"
         width: 1280
-        height: 720
+        height: 577
         isCached: true
-  - title: "Europe reaches a deal on the world’s first comprehensive AI rules"
-    excerpt: "Click to email a link to a friend (Opens in new window) Click to print (Opens in new window)  LONDON | European Union negotiators clinched a deal Friday on the world’s first comprehensive artificial intelligence rules,"
-    publishedDateTime: 2023-12-11T01:34:00Z
-    webUrl: "https://sentinelcolorado.com/nation-world/europe-reaches-a-deal-on-the-worlds-first-comprehensive-ai-rules/"
+  - title: "Iktos and Bayer Announce Collaboration to expand the use of Artificial Intelligence to Design New Sustainable Crop Protection Solutions"
+    excerpt: "Iktos and Bayer Announce Collaboration to expand the use of Artificial Intelligence to Design New Sustainable Crop Protection SolutionsParis,"
+    publishedDateTime: 2023-12-14T07:54:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/iktos-and-bayer-announce-collaboration-to-expand-the-use-of-artificial-intelligence-to-design-new-sustainable-crop-protection-solutions-1032899625"
     type: article
     provider:
-      name: Sentinel Colorado
-      domain: sentinelcolorado.com
-    quality: 19
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
+  - title: "Sony Semiconductor Solutions' Edge AI Sensing Platform AITRIOS to Expand Streamlined Solutions Through Partnerships with Retail and Logistics Players"
+    excerpt: "Under the partnership with Microsoft since 2020, SSS and Microsoft continue to work closely, including SSS's ongoing participation in the Microsoft AI Co-Innovation Labs, which helps partners bring their solutions to life. In 2023 alone, SSS has become a contributor to Microsoft's newly opened San Francisco, U.S. and Kobe, Japan labs."
+    publishedDateTime: 2023-12-11T18:31:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-sony-semiconductor-solutions-edge-ai-sensing-platform-aitrios-/2023/12/11/9931618.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+    images:
+      - url: "https://mma.prnewswire.com/media/2296805/Sony_2024_NRF_Big_Show_Booth.jpg"
+        width: 400
+        height: 225
+        isCached: true
 
 secured: "l7Q0h6zVvbzm0ACqZh+u33E+G+0KifoXhQkBG+6N5GLaa1HHwkGilIsMRvvPWutFZXhyGfXJVePzqhgrRbq5h3D1xjGvkxI/IUPO10KQiPjFTGgBTMzC8noyIB9bKdngQRi8jYfVEeeB6m0YPERk0bzH6m4H1zm9jLlCQ3Ev52LyKGZl0BjC6ajUT0MSH2U+uDWlqv/FX89fpfy8EhlaAZ5ukG/5Qnw8ZW+TfXA8+vKH+/83TbLDnS/1twhwBdMlXX8xgiN2pq5yklMOQ19nXtKz3eHC3qtxTuXgJbe7GLvcVGF9zvG8YBVUZZWDpQ0TqioZTeRIxGwkZK5C1+M6LgdgBnbzLLJlzGW/LdNS0M0=;vada51FFJq7R1CHC8OvvoQ=="
 ---

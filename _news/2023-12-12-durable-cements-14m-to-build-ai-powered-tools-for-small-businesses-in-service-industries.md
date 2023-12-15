@@ -190,6 +190,20 @@ related:
         width: 1000
         height: 450
         isCached: true
+  - title: "Using artificial intelligence to discover therapeutic antibodies"
+    excerpt: "Former EMBL staff scientist Kashif Sadiq will head DenovAI, which will use artificial intelligence and computational biophysics approaches to make discovery of therapeutic antibodies and miniproteins broader,"
+    publishedDateTime: 2023-12-14T00:01:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/1011226"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/7a30f321-3074-4dfc-b596-98c2af06a4c6/Rendition/low-res/Content/Public"
+        width: 700
+        height: 467
+        isCached: true
   - title: "Leverage These AI Techniques to Stay Ahead in 2024"
     excerpt: "The benefits of AI, and the ease of its access, are clear. \"You no longer need to be a data scientist, an engineer, or even a programmer. It is 1997 again; but instead of the Internet, the technology that is changing industry is AI,\" said AI entrepreneur Michael Puscar."
     publishedDateTime: 2023-12-11T07:48:00Z
@@ -236,15 +250,6 @@ related:
       name: CRN
       domain: crn.com
     quality: 15
-  - title: "Startup Mesh Ai launches ‘first AI-enabled’ workplace mental health solution for Microsoft Teams and Microsoft 365"
-    excerpt: "Australian startup Mesh Ai has announced the release of Simpatico Teams, a “pioneering AI-driven mental health application” for Microsoft Teams, Microsoft 365 and Copilot for Microsoft 365. Mesh Ai says the application ”will help employers better manage the growing psychological challenges of the"
-    publishedDateTime: 2023-12-14T13:29:00Z
-    webUrl: "https://itwire.com/business-it-news/enterprise-solutions/startup-mesh-ai-launches-‘first-ai-enabled’-workplace-mental-health-solution-for-microsoft-teams-and-microsoft-365.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 12
 
 secured: "hbUna0jOXFVbXpfJyP5v50Ro9pj/XFkHZNBZsbg+g5kiWdeL+0BJZiVldiHL6sxrtDl2CnhQeAc84kiAFnSOe7Na8d45oO9BT9XraFhDtyRcxX+d4TbUEONQU2Xs8WE43kczMfE6Z/mSQ8Elj7tNU2LOTZctZZdTkmLXORIJgvcWlKUZ6j/8Ds5ODUP0KIpCcmTFXwPQvpuj3UijsUffymu8KqNjF0PNIS4pp/GlpzfMO/EA2vbKifQaNsr9nKn9iw692Zjs6iqb5Y+eKG0kkb+kZ8bmhFr6S/HzuTQ6mrG+6fyFow1HBORgoujGAwG0bJm4keTOp78f9sMJ8Gnlyl/M/x33f6cW88piYRnBIvM=;QDCBn/2ESu1FxmdRMsNE3g=="
 ---

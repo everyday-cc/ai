@@ -20,6 +20,22 @@ topics:
   - Microsoft AI
 
 related:
+  - title: "Alphabet Needs to Show Path to AI Sales in Race With Microsoft"
+    excerpt: "“The whole business model depends on getting this right,” said Gene Munster, co-founder and managing partner at Deepwater Asset Management, whose firm holds the stock. “If they can nail multi-modal generative AI, that will draw usage to Google, and that increased usage will protect and grow the search business.”"
+    publishedDateTime: 2023-12-15T01:46:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/alphabet-needs-to-show-path-to-ai-sales-in-race-with-microsoft-71702574596587.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/alphabet-needs-to-show-path-to-ai-sales-in-race-with-microsoft-71702574596587.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/alphabet-needs-to-show-path-to-ai-sales-in-race-with-microsoft-71702574596587.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 91
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2023/12/15/1600x900/USA-CHIPS-ALPHABET-0_1663336524425_1663336524425_1702604579880.JPG"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Microsoft Explores Using Liquids to Cool AI Chips"
     excerpt: "Without cool air constantly blowing through the racks of computers, the advanced chips would cook themselves. The cost of running enough fans and air conditioners to keep this from happening is leading chipmakers and data center operators to find ..."
     publishedDateTime: 2023-12-14T12:00:00Z
@@ -185,20 +201,6 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "Microsoft's Orca 2 LLM Outperforms Models That Are 10x Larger"
-    excerpt: "Microsoft Research released its Orca 2 LLM, a fine-tuned version of Llama 2 that performs as well as or better than models that contain 10x the number of parameters. Orca 2 uses a synthetic training dataset and a new technique called Prompt Erasure to achieve this performance."
-    publishedDateTime: 2023-12-12T14:13:00Z
-    webUrl: "https://www.infoq.com/news/2023/12/microsoft-orca-2-llm/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 41
-    images:
-      - url: "https://res.infoq.com/news/2023/12/microsoft-orca-2-llm/en/headerimage/generatedHeaderImage-1701529873890.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Striim Integrates with Microsoft Fabric to Deliver Real-Time Data Streaming Innovation for Analytics and AI"
     excerpt: "Striim, an industry leader in real-time data integration and streaming, is excited to announce its integration with Microsoft Fabric, a new data analytics platform. Striim will provide its innovative low-latency,"
     publishedDateTime: 2023-12-13T12:13:00Z
@@ -213,20 +215,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Lawmakers hear support for expanding authority to control China’s access to AI tech through the cloud"
-    excerpt: "Fist said there are some factions pushing for a wholesale ban of all AI-related supply chain elements being exported to China -- whether chips or cloud -- and others, like CNAS, advocating a more “surgical” approach that would include thresholds similar to those identified in the executive order."
-    publishedDateTime: 2023-12-14T16:09:00Z
-    webUrl: "https://www.cnas.org/press/in-the-news/lawmakers-hear-support-for-expanding-authority-to-control-chinas-access-to-ai-tech-through-the-cloud"
-    type: article
-    provider:
-      name: CNAS
-      domain: cnas.org
-    quality: 24
-    images:
-      - url: "https://s3.us-east-1.amazonaws.com/files.cnas.org/title/China-Flag-Getty.jpg"
-        width: 1600
-        height: 866
-        isCached: true
   - title: "Striim Integrates with Microsoft Fabric to Deliver Real-Time Data Streaming Innovation for Analytics and AI"
     excerpt: "Striim, an industry leader in real-time data integration and streaming, is excited to announce its integration with"
     publishedDateTime: 2023-12-13T18:51:00Z
@@ -236,6 +224,15 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 16
+  - title: "Startup Mesh Ai launches ‘first AI-enabled’ workplace mental health solution for Microsoft Teams and Microsoft 365"
+    excerpt: "Australian startup Mesh Ai has announced the release of Simpatico Teams, a “pioneering AI-driven mental health application” for Microsoft Teams, Microsoft 365 and Copilot for Microsoft 365. Mesh Ai says the application ”will help employers better manage the growing psychological challenges of the"
+    publishedDateTime: 2023-12-14T13:29:00Z
+    webUrl: "https://itwire.com/business-it-news/enterprise-solutions/startup-mesh-ai-launches-‘first-ai-enabled’-workplace-mental-health-solution-for-microsoft-teams-and-microsoft-365.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 12
 
 secured: "7Z4eI2sfd+AdQSBZLhX0nmRlrstjsWdXtU1BbGMyiPZVTNvcp8t1u2xabaS3o/Mlj/43g+hljaaSrdCbVpC6pUNZmVCJymtOkHYrl9c9PbeoEHRLGeYMofQFDZvx+0Yx4g+xxRcNG58OtmZcb+xygh9SCUHU90KELJN16a4UmYep23/MIcsdn9ZOw9HiZby2KBL3oLKEor7OW9sbE8EWILL0J4mlEw5myOfBJxiDdq92cHcKZAf+zG+4ILq77SuqZlbb9vzqezbxSQ5j6QC3EOqpik2pVQPDhvJUIQVwAgJgtZuC7HY/95WCECoKgqe1hdDACjvMfDBVJr/kdIBLWY0dIBgNUJa+pqqg8Eq+S0cfpCHNM/lyY9MnuzDIdQh3Kalrro8TG62M/aPW9B8MqJZ0bNioUeTinbDnO66fri+kmFjZiInvUsNDwpjRrZ6xYg4tXFIfm5kvwBn9AdP58536jomIfwpX/wzmLxeR/XTdz7VLMuB1cfO/1AMCzxmfQx4BEtrtgdIRzLtqdnrepA==;/8TOKpBkdbvuumgzGJCEHA=="
 ---

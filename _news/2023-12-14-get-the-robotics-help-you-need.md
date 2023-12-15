@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Connection Launches Helix Center for Applied AI and Robotics"
-    excerpt: "Connection (PC Connection, Inc.; NASDAQ: CNXN ), a leading information technology solutions provider to business, government, healthcare, and education markets, is pleased to announce the company has launched the Helix Center for Applied AI and Robotics."
-    publishedDateTime: 2023-12-14T21:16:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/12/14/9934737.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 69
-    images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "How Andromeda Robotics’ AI-powered robot Abby is combating loneliness"
     excerpt: "The Andromeda Robotics team has built and assembled four Abby robots so far, each costing nearly $10,000 in hardware and consumables."
     publishedDateTime: 2023-12-14T21:27:00Z
@@ -72,6 +58,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Connection Launches Helix Center for Applied AI and Robotics"
+    excerpt: "Connection (PC Connection, Inc.; NASDAQ: CNXN), a leading information technology solutions provider to business, government, healthcare, and education"
+    publishedDateTime: 2023-12-15T01:04:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231214409898/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 49
 
 secured: "UEI9gaiypQD9dnDEo4Q+6bXilNNTYAUgNXmFpTUPt2pbQ9NuDy/YPKhI1XU9vw4LiM9szsz2oh9u9O/6+MzxmH/zS1NaqsbAyYtvAi8BHkbzkNRBfPvF+9UQR3coA7w1Y2pPI3hmMGuyu9EoUKtuoNcgANgGVuyNRJMJADNN/Ksh0EMbQZCYuD8JPhMMFO+HUXS5hYqKYhFuv2SuI7kQQk78CFryHudI/PeFggB/h6X7/9jO55TGn6+O2fuFvyZVKoU63wtAe2l5Sz0QnXCmFyfHh3A3eQYkEjCWGtfAtlg94zd6tlG5I2yJCEsHUMeXHZysXUjUQu+IUFJjjHuDa8GO1NJdS1GrOe0+Vzwg5hs=;RTrYW6GaqOcj5fTxCXwQgQ=="
 ---

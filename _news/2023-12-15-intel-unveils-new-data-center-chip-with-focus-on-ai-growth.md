@@ -41,6 +41,22 @@ related:
         width: 1599
         height: 900
         isCached: true
+  - title: "Intel unveils new data center chip with focus on AI growth"
+    excerpt: "Intel (INTC) is leaning into the AI craze with its latest generation of datacenter chips. On Thursday, the company debuted its 5th Gen Intel Xeon processors during its AI Everywhere event in New York. The chips, which the company unveiled alongside its new ..."
+    publishedDateTime: 2023-12-14T10:00:00Z
+    webUrl: "https://www.aol.com/intel-unveils-data-center-chip-150001129.html"
+    ampWebUrl: "https://www.aol.com/amphtml/intel-unveils-data-center-chip-150001129.html"
+    cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/intel-unveils-data-center-chip-150001129.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 74
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/Rhc1iexpU03u.K6xePUQhg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/aol_yahoo_finance_433/540ffdbe4d270ea7e844a2fde5e2b9de"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "Intel, CEO Pat Gelsinger take 'AI Everywhere' to Wall Street"
     excerpt: "Advanced Micro Devices (Nasdaq: AMD), a longtime Intel server and laptop chip rival, is also aggressively pursuing AI-related business. AMD held an event last week called \"Advancing AI.\" While the view wasn't unanimous, one prominent technology analyst ..."
     publishedDateTime: 2023-12-13T00:00:00Z

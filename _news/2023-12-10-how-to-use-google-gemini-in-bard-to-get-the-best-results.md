@@ -33,20 +33,6 @@ related:
         width: 1500
         height: 981
         isCached: true
-  - title: "Microsoft Releases Phi-2, Outperforms Gemini Nano, Mistral 7B, and Llama 2 Models"
-    excerpt: "Phi-2, a 2.7 billion-parameter language model showcasing exceptional reasoning and language understanding abilities."
-    publishedDateTime: 2023-12-13T07:04:00Z
-    webUrl: "https://analyticsindiamag.com/microsoft-releases-phi-2-outperforms-gemini-nano-mistral-7b-and-llama-2-models/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 36
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/11/Microsoft-phi-2-1.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Can Alphabet's Gemini AI Catapult Google Ahead in Tech Race?"
     excerpt: "Also Read: Microsoft in High-Level Talks with China: A New Era for AI and Trade Cooperation on the Horizon? Microsoft has been actively integrating OpenAI's ChatGPT into its products, contributing to Azure's growth, while Google Cloud's results have been ..."
     publishedDateTime: 2023-12-14T09:38:00Z
