@@ -48,6 +48,15 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "10 robots powered by AI and their insane demo videos"
+    excerpt: "Elon Musk, recently showcased his latest creation, the Optimus Gen-1. Following advancements in large language models, it seems the race to create the most powerful AI-backed robot is intensifying. The Tesla Optimus account shared a demo video of Optimus Gen-1, which triggered a conversation around AI robots."
+    publishedDateTime: 2023-12-15T13:05:00Z
+    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/best-ai-robots-of-2023-robot-demo-videos-9069858/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 34
 
 secured: "5kbEcsaRkhoRBPZDf0/OqM4CURe+cWLxBHKowLtd+F3R1GF4NGqDSzwqVek8QVWyFBOg5w8J8FF+cSDpB7XalH3AbJZoUSI2x1k7bWkjL+LiPW7u/6P2+m3mtKw7loWA0QDLlpil/TDSTcQCiT+xO/v8V/A9L8mlWmrDVZAAB9NV9SfTB1YkrS85ZTK5FktY6i6JpGw3welfK1G4Bp8r8SdeU/MlobOr8I5X5Sd1vFck4SoDVLLlAIxYIjnucP/4vnVxyxkXzuNmKvjbVdrnBsnjWQFvYKYO+63/YmeAkZOvzib617JleuGQHRbOjnIknwbftca8lQ1xK4zgUTfAsiHZzIPD+3M4VOlSl474f8mx+l7qevE/j4PsCgcObIK7BepiSCNA9MtRljjW3rj+hNHMZSIbG8iLkHxT5nSwB2l9NzQO1miRBNV3ggNT80oYjG/CxA0yXxjw2sts0Jpsq25Z1oVuUerFCIgFUpaPN1fwR/vjTXk/2tqZyqe9R7rKjcw3lI/1By/qB0SWSrft7A==;0byolA31xPxConFlQg0DOQ=="
 ---

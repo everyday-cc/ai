@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "DeepMind’s AI finds new solution to decades-old math puzzle — outsmarting humans"
+    excerpt: "The LLM got closer than ever before to cracking the cap set problem, which has perplexed mathematicians for decades."
+    publishedDateTime: 2023-12-15T15:14:00Z
+    webUrl: "https://thenextweb.com/news/deepminds-ai-finds-solution-to-decades-old-math-problem"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 96
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F12%2Fmath-code-science-AI.jpg&signature=c7d51f05d2f90d69e7dd1049a3691f58"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "DeepMind claims its AI can tackle unsolved mathematics"
     excerpt: "DeepMind claims its FunSearch model found new answers to an unsolved maths problem, using a method that creates a 'self-improving loop'."
     publishedDateTime: 2023-12-15T10:17:00Z

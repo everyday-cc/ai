@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "North America Artificial Intelligence in Healthcare Market to hit USD 114.2 Billion by 2033, Says We Market Research"
+    excerpt: "As per the most recent analysis conducted by We Market Research, the North America Artificial Intelligence in Healthcare Market is poised to achieve a valuation of $114.2 billion by the conclusion of 2033."
+    publishedDateTime: 2023-12-11T10:49:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/12/11/9931143.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 31
+    images:
+      - url: "https://mma.prnewswire.com/media/2267296/We_Market_Research_Logo.jpg"
+        width: 400
+        height: 298
+        isCached: true
   - title: "Artificial Intelligence (AI) in Breast Imaging Market Size is expected to reach USD 3.21 Billion by 2031 | CAGR: 28.6%."
     excerpt: "Artificial Intelligence AI in Breast Imaging Market Size is expected to reach USD 321 Billion by 2031 CAGR 286"
     publishedDateTime: 2023-12-13T14:49:00Z

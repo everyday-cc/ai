@@ -69,6 +69,15 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "How AI’s Explosive Growth Opened Up The World For The Blind In 2023"
+    excerpt: "AI and people living with sight loss have experienced significant gains from this seismic technological shift."
+    publishedDateTime: 2023-12-15T13:07:00Z
+    webUrl: "https://www.forbes.com/sites/gusalexiou/2023/12/15/how-ais-explosive-growth-opened-up-the-world-for-the-blind-in-2023/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "Artificial intelligence and climate change were 2023's twin challenges"
     excerpt: "The decisions we made this year about AI and climate change could determine the fate of billions of people. In 2024, almost half the world’s population could be voting with these issues in mind"
     publishedDateTime: 2023-12-13T18:00:00Z

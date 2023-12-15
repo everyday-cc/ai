@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/12/217808-2024-fintech-highlig
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/12/217808-2024-fintech-highlights-include-ai-personalization-embedded-finance-marqeta-experts/amp/"
 type: article
 quality: 66
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -41,15 +41,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "2024’s Key Opportunities: AI, Flexibility, Wellbeing & Personalization"
-    excerpt: "AI, flexible work, wellbeing, personalization – these innovative trends are sweeping through organizations still recovering from the last set of disruptions. Those with a thriving, human-centric culture will embrace them to adapt and grow and thrive."
-    publishedDateTime: 2023-12-14T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/ericmosley/2023/12/14/2024s-key-opportunities-ai-flexibility-wellbeing--personalization/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Swift Invites Fintech Pioneers to Join AI-Based Cross-Border Innovation Challenge"
     excerpt: "Swift launched \"The Innovation Challenges\" that invites fintechs to create AI-based solutions to improve cross-border transactions."
     publishedDateTime: 2023-12-12T04:36:00Z

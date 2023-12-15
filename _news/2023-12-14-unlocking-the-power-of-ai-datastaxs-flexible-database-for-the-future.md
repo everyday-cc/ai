@@ -48,20 +48,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
-  - title: "Microsoft Announces Git Partial Clone Support in Azure DevOps"
-    excerpt: "Azure DevOps has recently extended support for Git Partial Clone to all its users. Partial clones represent a streamlined version of git clones initiated through specific command line arguments. Repositories that employ partial clones have demonstrated an average reduction of 88."
-    publishedDateTime: 2023-12-10T15:33:00Z
-    webUrl: "https://www.infoq.com/news/2023/12/git-partial-clone-azure-devops/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 54
-    images:
-      - url: "https://res.infoq.com/news/2023/12/git-partial-clone-azure-devops/en/headerimage/generatedHeaderImage-1702179442226.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "LinkedIn scraps plans of relocating to Microsoft Azure"
     excerpt: "LinkedIn has decided to stick with physical data centres. Today's announcement is a setback for Microsoft Corp."
     publishedDateTime: 2023-12-14T15:27:00Z

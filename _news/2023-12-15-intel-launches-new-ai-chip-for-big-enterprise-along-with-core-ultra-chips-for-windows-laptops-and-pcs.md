@@ -73,6 +73,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Intel launches AI chips for servers and clients"
+    excerpt: "New 5th Gen Intel Xeon processors and Core Ultra mobile processor family are aimed at bringing AI to all compute devices."
+    publishedDateTime: 2023-12-15T15:54:00Z
+    webUrl: "https://www.networkworld.com/article/1261382/intel-launches-ai-chips-for-servers-and-clients.html"
+    ampWebUrl: "https://www.networkworld.com/article/1261382/intel-launches-ai-chips-for-servers-and-clients.html/amp/"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1261382/intel-launches-ai-chips-for-servers-and-clients.html/amp/"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 74
+    images:
+      - url: "https://www.networkworld.com/wp-content/uploads/2023/12/Intel-AIEverywhere-Event-1.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Intel and Vertiv partner to liquid cool AI processors"
     excerpt: "Liquid cooling has till now been pretty much confined to CPUs and GPUs, but Intel’s Gaudi3 AI accelerator can be liquid- or air-cooled cooled to a partnership with cooling specialist Vertiv."
     publishedDateTime: 2023-12-12T21:28:00Z
@@ -102,6 +118,20 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/204d096d7a431042de94c608f4a34e24_L.jpg"
         width: 620
         height: 465
+        isCached: true
+  - title: "Intel unveils new chips amid rush to AI"
+    excerpt: "AMD is also playing catch-up with Nvidia in AI accelerators. Its version of that product, the MI300, is to debut next year. AMD unveiled the chip at an event last week and announced that the market for AI accelerators could climb to more than US$400 billion in the next four years."
+    publishedDateTime: 2023-12-15T16:00:00Z
+    webUrl: "https://www.taipeitimes.com/News/biz/archives/2023/12/16/2003810681"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 54
+    images:
+      - url: "https://www.taipeitimes.com/images/2023/12/16/p12-231216-1325.jpg"
+        width: 800
+        height: 533
         isCached: true
   - title: "Intel Announces AI-Oriented 5th Gen Xeon, Gives Gaudi3 GPU Accelerator Sneak Peak"
     excerpt: "Gearing up for what it intends to be a multi-horse race in the exploding AI chip sector, Intel today announced a next-generation Xeon enterprise and data center CPU built with AI inferencing in mind,"

@@ -55,6 +55,15 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Police defend facial recognition target selection to Lords"
+    excerpt: "Senior police officers confirm to Lords committee that facial recognition watchlist image selection is based on crime categories attached to people’s photos, rather than a context-specific assessment of the threat presented by a given individual."
+    publishedDateTime: 2023-12-15T09:07:00Z
+    webUrl: "https://www.computerweekly.com/news/366563318/Police-defend-facial-recognition-target-selection-to-Lords"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 19
 
 secured: "9bDGG1CG4zaebSUaGcMpRcbFbujKmaouAsIbacN4Nx7k2ReFdOImG23c98QBb4+QWrmUALKfJSBxA7JkjMVCP2d3R9tJZuTZSNL2gKu7x2gsqB6a5fk6i9jXvyFynXgTYz+iOEClCDtRiiYcZL+hpx+ZP+OnVRTiI6DwBSzctIzrFCLGqJmhnEc9Wfq+yL3nMltRFt0UG+YynZz7iqFv1Hwib/ZxO+VePYtIm88Le41U8gYTvt6w34YXzs4tRX8bCWC1RuDIkO2oglgGzu6ECim5RNwsfjZ8EC7c82TUBIGeJk0RimUE/2wtom8Zy9caiGOccQnw80NXxLU0D0y9YzJFzWizRkkM4cyM6PBXNBtGpgpMLz2XXZ9iA6CyWV28ksqu2ptEj7oFlD+xR2qZCDoOIW0ltjszJRRwUWxb2ijaG5LqHTNJjY9LVGdVWbEZzAVbbRYE44s1kEBdHieRbEZC3Seqxxk5qvtH54ZFzxuTlqNBnnTls3Ply4aRE1UoBPKBhB4aqbevFMDVYiAChA==;3pUwgb669UNw+eE6kBfEtw=="
 ---

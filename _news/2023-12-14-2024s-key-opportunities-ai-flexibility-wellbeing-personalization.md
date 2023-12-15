@@ -22,73 +22,31 @@ topics:
   - AI
 
 related:
-  - title: "2024 Fintech Highlights Include AI, Personalization, Embedded Finance : Marqeta Experts"
-    excerpt: "Marqeta executives predict that artificial intelligence (AI), the evolution of credit cards, and the increasing demand for customer choice will be important"
-    publishedDateTime: 2023-12-11T14:27:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/12/217808-2024-fintech-highlights-include-ai-personalization-embedded-finance-marqeta-experts/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/12/217808-2024-fintech-highlights-include-ai-personalization-embedded-finance-marqeta-experts/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/12/217808-2024-fintech-highlights-include-ai-personalization-embedded-finance-marqeta-experts/amp/"
+  - title: "Building AI For Climate: Opportunities And Considerations"
+    excerpt: "To effectively build and deploy AI technologies, it's important to recognize the limitations and risks they entail. A key limitation of AI is its dependence on user inputs. The quality of training data sets and the \"training\" an AI receives (similar to a human education) will greatly impact how effectively they solve specific problems."
+    publishedDateTime: 2023-12-15T13:14:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/15/building-ai-for-climate-opportunities-and-considerations/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/15/building-ai-for-climate-opportunities-and-considerations/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/12/15/building-ai-for-climate-opportunities-and-considerations/amp/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 66
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2023/12/Spotlight-Highlight-Perform-Skate-1024x768.jpeg"
-        width: 1024
-        height: 768
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6363be26d666fe5483dd299d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
         isCached: true
-  - title: "The evolution of Wally, from expenses tracking to personal finance AI"
-    excerpt: "Resilience is often highlighted as an important skill for entrepreneurs to have and few have shown as much resilience as Saeid Hejazi"
-    publishedDateTime: 2023-12-14T02:01:00Z
-    webUrl: "https://www.wamda.com/2023/12/evolution-wally-expenses-tracking-personal-finance-ai"
+  - title: "AI Applications in Finance: Considering the Benefits and Risks"
+    excerpt: "Considering the history of finance, today we are on the ... (full story)"
+    publishedDateTime: 2023-12-15T05:40:00Z
+    webUrl: "https://www.forexfactory.com/news/1257579-ai-applications-in-finance-considering-the-benefits-and"
     type: article
     provider:
-      name: wamda
-      domain: wamda.com
-    quality: 54
-    images:
-      - url: "https://cdn.wamda.com/feature-images/efd40ab2726398a.jpg"
-        width: 900
-        height: 500
-        isCached: true
-  - title: "Swift Invites Fintech Pioneers to Join AI-Based Cross-Border Innovation Challenge"
-    excerpt: "Swift launched \"The Innovation Challenges\" that invites fintechs to create AI-based solutions to improve cross-border transactions."
-    publishedDateTime: 2023-12-12T04:36:00Z
-    webUrl: "https://fintechnews.sg/81994/ai/swift-invites-fintech-pioneers-to-join-ai-based-cross-border-innovation-challenge/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
+      name: Forex Factory
+      domain: forexfactory.com
     quality: 34
-    images:
-      - url: "https://fintechnews.sg/wp-content/uploads/2023/12/Fintechs-Can-Now-Join-Swifts-Innovation-Challenge-for-AI-Cross-Border-Solutions.jpg"
-        width: 1024
-        height: 567
-        isCached: true
-  - title: "M2P Fintech acquires Goals101 for data-driven personalisation in digital banking"
-    excerpt: "Madhusudanan R, CEO and Co-founder of M2P Fintech, stated that the global banking technology landscape is experiencing a significant transformation, particularly in utilising data and AI across key areas such as customer service, product and portfolio ..."
-    publishedDateTime: 2023-12-13T08:04:00Z
-    webUrl: "https://yourstory.com/2023/12/m2p-fintech-acquires-goals101-personalisation-digital-banking"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 34
-    images:
-      - url: "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/M2P-1634035498846.png?fm=png&auto=format"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "The Fintech C-Suite conversations that will dominate 2024"
-    excerpt: "The Fintech C-Suite conversations that will dominate 2024 By Richard Rosenberg, group chief product and technology officer, Spendesk It’s been a topsy-turvy year for fintech. In 2023 we’ve seen huge growth in the Buy Now,"
-    publishedDateTime: 2023-12-11T21:28:00Z
-    webUrl: "https://www.globalbankingandfinance.com/the-fintech-c-suite-conversations-that-will-dominate-2024/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 4
 
 secured: "kW1ovBHKzOB6lCMHraKQJIKwUi7Yy1nHXR/PMtWB0HYi5HtkS2DNWJ7/5kBToso93S4plPD0I9Oq3j+rQ3axCQPDcjrK9J2Vxj40UN7WcAH9tlKtHkCM+uQ6BxLyQ0ZXSSiWZcNM3b59mzG894a7+Iyo1oYW/2kx8miCTBMWPtPd1jKiq3uCUdmXTr45kylPYRZ3OrJ2wAfW2a7WLt5vKpzPcxibpVkHRAcsnhZ0uQ7FyZ+tGpve+xE0Ur6LQlhvZsYvc63XgSo9NEok+hiw2t0l5Gy4Y+sDKz/580a9OI/y3ABcuYhci1r5aNU6QpDLm9i4DB+ghgt/KX78fjZ62QhYPkjUo060ijy4owbcI6aG9Mf0dlAOQ6TBamjSQqEEncroYB+uzM6Bhp2wOOdcxsZ00KmhHgmIOqexpM9SEjfs1Xf/XSsIla8b3SSUw5aFLrnf9VAL5thjWQTEkNoXFBottzPCbmOAR98fhNYEO3bjPkx8AlKsOBQP3Er0mWf2WrR4ixXMKR6MItZpHLLy2Q==;paCSgiJxIc8yLTwDcJ4urw=="
 ---

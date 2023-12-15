@@ -39,17 +39,6 @@ related:
         width: 1353
         height: 900
         isCached: true
-  - title: "Here are the newly minted fintech unicorns"
-    excerpt: "and that’s when fintech gets me really excited. Doing good while making money? The ideal definition of win-win. Read more. And, listen to the Equity crew discuss in more detail below. Speaking of AI, reporter Aisha Malik reports on Mastercard’s new ..."
-    publishedDateTime: 2023-12-10T15:16:00Z
-    webUrl: "https://techcrunch.com/2023/12/10/fintech-unicorns/"
-    ampWebUrl: "https://techcrunch.com/2023/12/10/fintech-unicorns/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/10/fintech-unicorns/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 54
   - title: "Financial vulnerability support fintech Hope Macy in seed funding boost"
     excerpt: "Fintech Hope Macy has secured £1.5m in seed investment to support the roll-out of its regulated open banking and AI platform to counter the growing problem of financial vulnerability. The funding has come from the Development Bank of Wales and angel investors."
     publishedDateTime: 2023-12-11T15:34:00Z

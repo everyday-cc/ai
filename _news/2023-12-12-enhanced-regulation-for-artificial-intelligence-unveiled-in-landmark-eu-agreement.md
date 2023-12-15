@@ -76,6 +76,15 @@ related:
       name: Canindia.com
       domain: canindia.com
     quality: 19
+  - title: "LILT Announces Enterprise AI Controls and In-App Multimodal Translation"
+    excerpt: "Enterprise AI Controls A new broad set of enterprise controls allows organizations to define when and how their employees use AI across the business, all from directly within the LILT platform. These controls enable authorized users to securely control the deployment of AI across the organization, including:"
+    publishedDateTime: 2023-12-14T18:33:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/12/14/9934667.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "rM5gBc2m8hBgI+XfzjjotCIzZSe9jc5lTHGX2w0HDFPjnTD5iN3tMFIh6tqPKCeODO4w+as2yI2wLTDintpkTFQAUjFkl6M7CSEhTo/7BdWr7KXYazl9fhVCJlJzCv7J6lcjv3HMk12QYFt3giUpoffcu2Wl8olyb/ubo6OhX1u8QmX78nE169DQhlYaHGIgK6HJ3EByj2NmSVz6myCQhEoulSTT9X1PA9fgTlmK36M570M3Uhpw56S5VmXRlVbTDiKHZbHmJiTPpHo3z/xCJtfExv0aaqQanSwvOUmMEeeRw3wreu88XiMEwtro1sEksWEayuK3pqhcvgfyLmIm2nmeAQFNCnreSBbMTOEufrJPnarFTTBxCL1wLU2T9varsRyQbRKJQTIctVD/sqbbr8MiBmVcB+2X8vzejhYIzEKxPxVXS1lZHhRjxW714wJahzJ8gAAkQDwYrYVUKTgCqJgsuLTPUxEtjYsa3FUsruJU/zvDTqzC4mFBUZFi3k3/Q99odc+2rIRFo76h1mV9Fg==;/R0LLpEd6zM7c+GTtXsPaQ=="
 ---

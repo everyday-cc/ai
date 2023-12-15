@@ -41,15 +41,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "2024’s Key Opportunities: AI, Flexibility, Wellbeing & Personalization"
-    excerpt: "AI, flexible work, wellbeing, personalization – these innovative trends are sweeping through organizations still recovering from the last set of disruptions. Those with a thriving, human-centric culture will embrace them to adapt and grow and thrive."
-    publishedDateTime: 2023-12-14T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/ericmosley/2023/12/14/2024s-key-opportunities-ai-flexibility-wellbeing--personalization/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Swift Invites Fintech Pioneers to Join AI-Based Cross-Border Innovation Challenge"
     excerpt: "Swift launched \"The Innovation Challenges\" that invites fintechs to create AI-based solutions to improve cross-border transactions."
     publishedDateTime: 2023-12-12T04:36:00Z

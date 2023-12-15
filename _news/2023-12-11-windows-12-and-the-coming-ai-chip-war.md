@@ -155,7 +155,7 @@ related:
     provider:
       name: realtybiznews
       domain: realtybiznews.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://realtybiznews.com/wp-content/uploads/2022/07/banner-2.png"
         width: 300

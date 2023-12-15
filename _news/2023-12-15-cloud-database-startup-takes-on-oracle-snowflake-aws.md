@@ -1,0 +1,34 @@
+---
+category: news
+title: "Cloud database startup takes on Oracle, Snowflake, AWS"
+excerpt: "An “everything database” like Postgres is incredibly versatile — an important characteristic as artificial intelligence (AI) workloads continue to grow. Efficient processing and analysis of app data is at the heart of AI applications, but developers ..."
+publishedDateTime: 2023-12-15T07:00:00Z
+originalUrl: "https://www.sdxcentral.com/articles/news/cloud-database-startup-takes-on-oracle-snowflake-aws/2023/12/"
+webUrl: "https://www.sdxcentral.com/articles/news/cloud-database-startup-takes-on-oracle-snowflake-aws/2023/12/"
+type: article
+quality: 19
+heat: -1
+published: false
+
+provider:
+  name: SDxCentral
+  domain: sdxcentral.com
+
+topics:
+  - AWS AI
+  - AI
+
+related:
+  - title: "Google's Billion-Dollar Cloud Business Takes On AWS, Azure With AI, Machine Learning"
+    excerpt: "\"Anytime any customer talks cloud, they talk AWS, Azure, and Google ... Google's portfolio of artificial intelligence (AI) and machine learning technologies are standing out and giving the ..."
+    publishedDateTime: 2023-12-11T03:13:00Z
+    webUrl: "https://www.crn.com/news/cloud/300100466/googles-billion-dollar-cloud-business-takes-on-aws-azure-with-ai-machine-learning"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 61
+
+secured: "QmkNpBEWK+WoSC3VPM75vwMDcEjcyhoUA2LRtsi9r0AvZqvuqM6aDcgKitXG/6Nl6GhmwxqBu+Z9WHMp5G3h83KAtCSfLwwj7GutPCi6VenTVkzbW0qQUo/cRAff90F2uGGGblR7zRjJKLhmujf8tAKXQYzIA2NM9OgZApuAu2XLBz7N0QZ7Y5IWaUDPRis9Mbxd+jAJz/YyWGJe4RlLLKBVOYmJPvammlU4WTkfdG3Y16wRVuZ88XLqSmtHvlRr01VjJtaS2GaC0EPZUtXTgrGmMwgGEbhNr10vJsFLk3qJbvWUoYUZ/VpT7kPy/RkPwa9il04ZkstgIWidqe06aOWrhf9M5h0BNIUiheogRBk=;guaDlZyWHSZChQ+P06hUvA=="
+---
+

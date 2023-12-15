@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1107586088/Proposed-AI-Mission-To-Provide-Start
 webUrl: "https://menafn.com/1107586088/Proposed-AI-Mission-To-Provide-Startups-Access-To-Compute-Power-PM-Modi"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -25,17 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "PM Modi Announces New AI Mission To Boost Agriculture, Healthcare & Education"
-    excerpt: "PM Narendra Modi has announced the launch of a new AI mission to promote apps in agriculture, healthcare and education sectors."
-    publishedDateTime: 2023-12-13T04:27:00Z
-    webUrl: "https://inc42.com/buzz/pm-modi-announces-new-ai-mission-to-boost-agriculture-healthcare-education/"
-    ampWebUrl: "https://inc42.com/buzz/pm-modi-announces-new-ai-mission-to-boost-agriculture-healthcare-education/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/pm-modi-announces-new-ai-mission-to-boost-agriculture-healthcare-education/amp/"
+  - title: "Cooler commutes possible with UAE start-up's AI-powered tool providing easily accessible heat data"
+    excerpt: "Abu Dhabi start-up FortyGuard is aiming to plug a major data gap for governments and businesses dealing with worsening urban heat."
+    publishedDateTime: 2023-12-15T10:00:00Z
+    webUrl: "https://www.channelnewsasia.com/sustainability/cop28-uae-start-urban-heat-climate-change-fortyguard-3988771"
     type: article
     provider:
-      name: inc42
-      domain: inc42.com
-    quality: 68
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 23
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--VgHspj1M--/c_crop,h_899,w_1598,x_1,y_1/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/12/13/cop_urban_heat-9.jpg?itok=RMED2B31"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Government announces AI Mission to aid start-ups with 'compute power'"
     excerpt: "Prime Minister Narendra Modi announced a new AI Mission at the Global Partnership for AI Summit in New Delhi. This initiative aims to provide computing power to Indian start-ups and innovators, focusing on sectors such as agriculture,"
     publishedDateTime: 2023-12-12T14:43:00Z

@@ -240,6 +240,33 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Acer Swift Go 14 AI ready OLED laptops powered Intel Core Ultra CPUs"
+    excerpt: "The laptop market is set to become even more competitive with Acer's introduction of the AI-ready Swift Go 14 laptop, powered by Intel Core Ultra"
+    publishedDateTime: 2023-12-15T12:45:00Z
+    webUrl: "https://www.geeky-gadgets.com/acer-swift-go-14-ai-ready-oled-laptops-powered-intel-core-ultra-cpus/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 19
+  - title: "AORUS 17 & 15 Intel Core Ultra 7 AI ready gaming laptops"
+    excerpt: "GIGABYTE's latest offerings for 2024 - the AORUS 17 and AORUS 15 offer gamers a combination of powerful hardware, state-of-the-art cooling technology, and"
+    publishedDateTime: 2023-12-15T13:19:00Z
+    webUrl: "https://www.geeky-gadgets.com/aorus-17-15-intel-core-ultra-7-ai-ready-gaming-laptops/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 19
+  - title: "ThinkPad and IdeaPad Intel Core Ultra AI ready laptops for business"
+    excerpt: "Following on from the Intel AI Everywhere event this week Lenovo, has launched a range of new AI ready laptops for business and consumers, including the"
+    publishedDateTime: 2023-12-15T14:25:00Z
+    webUrl: "https://www.geeky-gadgets.com/ai-ready-laptops-for-business/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 19
   - title: "Intel Accelerates AI Everywhere with Launch of Powerful Next-Gen Products"
     excerpt: "At its \"AI Everywhere\" launch in New York City today, Intel introduced an unmatched portfolio of AI products to enable customers' AI solutions everywhere - across the data center, cloud, network, edge and PC."
     publishedDateTime: 2023-12-14T16:37:00Z

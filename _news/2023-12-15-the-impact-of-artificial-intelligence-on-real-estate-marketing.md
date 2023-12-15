@@ -6,7 +6,7 @@ publishedDateTime: 2023-12-15T12:21:00Z
 originalUrl: "https://realtybiznews.com/the-impact-of-artificial-intelligence-on-real-estate-marketing/98780587/"
 webUrl: "https://realtybiznews.com/the-impact-of-artificial-intelligence-on-real-estate-marketing/98780587/"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Marketing
+  - AI in Autos
 
 images:
   - url: "https://realtybiznews.com/wp-content/uploads/2022/07/banner-2.png"

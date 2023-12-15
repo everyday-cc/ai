@@ -22,6 +22,17 @@ topics:
   - Google AI
   - AI
 
+related:
+  - title: "7 best YouTube videos for kids"
+    excerpt: "The best YouTube videos for kids are engaging, fun, and educational and range from cartoons for toddlers to art and science videos for older kids."
+    publishedDateTime: 2023-12-15T12:31:00Z
+    webUrl: "https://www.digitaltrends.com/movies/best-youtube-videos-for-kids/"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 34
+
 secured: "UFLnxWMKef7GL9Q6BWHkdcbO/hPmxZTaEG37maS9wW4sIq7curSXWPFr40fFEIN1HZfoyPtJoWmBlVLjrLWXtruPbqUo0eKyKcGBwLX4J1CN7ZWeVn/+w8q8CM124vljW6AN1qBURVSDf4iBKfWdqC528vFgXZFm2XxqQDEmAF7sqY2x2hhP99TjRcEMfK1xz/HNvY+hRGGQ29c6+ZFt8in4e9eupdjFZmMRLP1lu90rGJBSSJ0K8lZZyRj4Ly+/F9/IFkVp5yb/vXJizGihPH212QbRkVEhi2J4Z/fbPCI3L7OuLgoZ2xWLSL/Dch3q2nzA3qhYv1zegIM67T9pdxk3cyLheUweJTogWDewDws=;jlcijmEdEHfwa/PRKl5FwQ=="
 ---
 

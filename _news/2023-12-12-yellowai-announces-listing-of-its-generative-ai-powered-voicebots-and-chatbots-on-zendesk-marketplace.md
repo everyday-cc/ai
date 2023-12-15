@@ -39,6 +39,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Google Bard has one enormous advantage over other AI chatbots"
+    excerpt: "But there’s a gigantic time-saver that Google’s Bard is beginning to deploy, and it’s worth checking out: Knowledge of the gazillion hours of YouTube video it’s already archived."
+    publishedDateTime: 2023-12-12T14:01:00Z
+    webUrl: "https://www.pcworld.com/article/2166765/googles-bard-has-one-enormous-advantage-over-other-ai-chatbots.html"
+    type: article
+    provider:
+      name: PC World
+      domain: pcworld.com
+    quality: 69
+    images:
+      - url: "https://www.pcworld.com/wp-content/uploads/2023/12/Google-talking-to-YouTube.png?w=1024"
+        width: 1023
+        height: 604
+        isCached: true
 
 secured: "PlYDl2DFy9mfbqZMN76MFdR9hClShTKXLbekhkDwgsozhRzh4r60LkMJbR9vJ6arq8qEAr7bTLz4XPAb2UN5kCGTrpDtV6BCkosl+avhsJ2mky1MicmjArbdPZlwPtMVjQzKnQU+b0iJxTo5vwQb4Q4KXDSatYRGmdSULWNMabF43dkfCujsyCNTzkhuvE1AjLoCL4NWc5tFmVmfv9Rr3hnG5yGMSVKu0u0thIKb9gSRsTlBPNVWlYscnXD4gebT1wTDoBdqSC2FiZkHVzMl+Ifd9Ypq8qQJR/FCik1NapvS3aH5Zu/aqSvZ7CYMriFVNNpShhJSLMHB8Z/sWJhC2Zidf5nDv9D9AEkbLYlXxPZZmiKhPRcG3O36gXvugComutzTSgzPqIHCahIvgFOmZin/tNKjej1XRZZTEtgblUHLrAaBepNdYaNjIEsRQi3PuZJOyiTs1YxhKEtvVdZQlZ+B1lHdolX3fQZ7/zRITTXMVqvmaH5cAqCqfoKrh+WVxI+RQcCrpROPh7NjNp5HPg==;A0Y7bhdSSN/a3ngUpW7f+Q=="
 ---

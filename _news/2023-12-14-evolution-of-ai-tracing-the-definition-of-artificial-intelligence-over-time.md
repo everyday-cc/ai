@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Precision Education: How K-12 Schools Are Embracing AI"
+    excerpt: "As artificial intelligence (AI) continues to evolve, its applications in various sectors have been groundbreaking, and education is no exception."
+    publishedDateTime: 2023-12-15T14:59:00Z
+    webUrl: "https://www.forbes.com/sites/neilsahota/2023/12/15/precision-education-how-k-12-schools-are-embracing-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/neilsahota/2023/12/15/precision-education-how-k-12-schools-are-embracing-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/neilsahota/2023/12/15/precision-education-how-k-12-schools-are-embracing-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65795ccf8c811c18e06ab854/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1201
+        height: 900
+        isCached: true
   - title: "AI in Action: How to bring real-time decision-making to AI/ML"
     excerpt: "Watch this online event, as Redpanda explores the shift from batch analytics to real-time decision-making for AI/ML use cases. They start by fostering a broad understanding of how to train and score a real-time model on streaming data, in contrast with ..."
     publishedDateTime: 2023-12-13T00:40:00Z
@@ -38,6 +54,17 @@ related:
         width: 1200
         height: 486
         isCached: true
+  - title: "PM Modi Announces New AI Mission To Boost Agriculture, Healthcare & Education"
+    excerpt: "PM Narendra Modi has announced the launch of a new AI mission to promote apps in agriculture, healthcare and education sectors."
+    publishedDateTime: 2023-12-13T04:27:00Z
+    webUrl: "https://inc42.com/buzz/pm-modi-announces-new-ai-mission-to-boost-agriculture-healthcare-education/"
+    ampWebUrl: "https://inc42.com/buzz/pm-modi-announces-new-ai-mission-to-boost-agriculture-healthcare-education/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/pm-modi-announces-new-ai-mission-to-boost-agriculture-healthcare-education/amp/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 68
   - title: "The Dawn Of AI Disruption: How 2024 Marks A New Era In Innovation"
     excerpt: "On the computing front, more advanced AI chips and dedicated hardware infrastructure will enable running sophisticated generative models at the edge - built for efficiency without compromising capability. This will exponentially expand smaller ..."
     publishedDateTime: 2023-12-14T14:46:00Z
@@ -47,24 +74,33 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "Gaming's Quantum Leap: AI and Machine Learning Reshape the Virtual Frontier"
-    excerpt: "In the realm of online gaming, a quiet revolution is taking place. The marriage of Artificial Intelligence (AI) and Machine Learning (ML) is transforming the gaming landscape, ushering in an era of unparalleled realism and immersive experiences."
-    publishedDateTime: 2023-12-13T14:38:00Z
-    webUrl: "https://www.timesnownews.com/education/gamings-quantum-leap-ai-and-machine-learning-reshape-the-virtual-frontier-article-105967846"
+  - title: "Helpful Or Harmful? How AI Shaped Education In 2023"
+    excerpt: "For all its benefits, AI technology does bring challenges that go beyond cheating or ethics. Many parents, educators, and students are concerned about privacy and safety when using AI tools. Forest explains that governmental regulations on data privacy and ..."
+    publishedDateTime: 2023-12-12T00:00:00Z
+    webUrl: "https://www.sciencefriday.com/articles/ai-education/"
     type: article
     provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 32
-  - title: "Railtown AI Technologies Inc. Files Provisional Patent Application Covering AI-Driven Ticket Generation to Accelerate Software Development"
-    excerpt: "Railtown's second North American provisional patent filingRailtown reaches task level functionality with ticket generationIntegrates with leading"
-    publishedDateTime: 2023-12-14T13:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/railtown-ai-technologies-inc.-files-provisional-patent-application-covering-aidriven-ticket-generation-to-accelerate-software-development-1032900651"
+      name: Science Friday
+      domain: sciencefriday.com
+    quality: 36
+  - title: "How 4 NYC high school students say AI-powered tools are changing their education"
+    excerpt: "New York City has grappled this year with how to respond to ChatGPT and other artificial intelligence-powered tools, banning them on school devices before later reversing course."
+    publishedDateTime: 2023-12-14T12:45:00Z
+    webUrl: "https://www.chalkbeat.org/newyork/2023/12/14/how-nyc-students-use-chatgpt-ai-tools-in-school/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 15
+      name: Chalkbeat
+      domain: chalkbeat.org
+    quality: 31
+  - title: "Pension department Embraces Facial Recognition for Pensioner Verification: A Step Forward?"
+    excerpt: "Department of Pension & Pensioners Welfare (DoP&PW) is possibly one of the first departments in the government sector to have started using the latest ‘Face Recognition Technology’ for establishing Aadhaar-based identification of elderly pensioners to generate ‘Digital Life Certificate’,"
+    publishedDateTime: 2023-12-12T08:46:00Z
+    webUrl: "https://www.medianama.com/2023/12/223-pension-dept-facial-recognition-pensioner-verification/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 9
 
 secured: "j4BDw5ve1Dcn7QVPbq+4DAZWGY/nef5Xikfec42TYZuHki5iEreu0qR3B4BZ3hIv2cjp1qcMVtkUK0F7htxsQslYiVtvYqBy58/fCmjrxGnipCykRitcw/QqZGTctAbF4SP4cNc7n4L/pur3NXQtvc8DNmzOc5ywenTKZRpWWtfX7EVEF5oQD2mfFV6B5rbI9HUMtQ/a7awbj6MYifOekcdxSwrLtFVCz/k4dNsGFg1abXysm9XB/xJFf1iHGiSdHnL25ZDWq/3RBbgEDwnytjoH8XJUbNPuJQovoMEabTYbnqRvsaP/zWJvEduJirRQ01pvsaFgikWTxDkSoOpzCwEW259F6F7IpFCcB2guIUc=;TB10yIukSXRYZ8i4dRjqjw=="
 ---

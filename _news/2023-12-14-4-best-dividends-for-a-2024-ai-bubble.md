@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/brettowens/2023/12/14/4-best-dividends-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brettowens/2023/12/14/4-best-dividends-for-a-2024-ai-bubble/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 109
 published: true
 
 provider:
@@ -29,6 +29,26 @@ images:
     width: 1600
     height: 899
     isCached: true
+
+related:
+  - title: "Three Uses For Artificial Intelligence In Financial Services In 2024"
+    excerpt: "From boardrooms to classrooms to dining tables, 2023 made AI the hottest topic in virtually all corners of enterprise, education and private life. It's not even an exaggeration to say that A and I were the two most important letters of the year; in fact, Collins Dictionary recently made it Word of the Year 2023."
+    publishedDateTime: 2023-12-15T13:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/15/three-uses-for-artificial-intelligence-in-financial-services-in-2024/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "Is AI a bubble?"
+    excerpt: "At the margins, this is already being recognised in company sales. Microsoft recently reported strong growth in its Azure cloud business, with generative AI an important part of that growth. Chief executive Satya Nadella said more than 18,000 organisations ..."
+    publishedDateTime: 2023-12-15T11:00:00Z
+    webUrl: "https://www.moneymarketing.co.uk/opinion/darius-mcdermott-is-ai-a-bubble/"
+    type: article
+    provider:
+      name: Money Marketing
+      domain: moneymarketing.co.uk
+    quality: 19
 
 secured: "yYPNzgEzzkkXsBSPSKzywHefzzfGYSPGWNFSdq2va43E4Ldko8Dld8RSXSZX6MEV9uQ+FYoJYENrQlGbOVJA3RMDXeh30Dn9kmKT6kJinTH3aomuuc/R6OWrAVph6LiYiYboi6llp4+Mn94pBNeSrrLgDOvxzmuFCmwyQqC0Ju9NOmf+v3xLgKdVjV2eiehfb4m9nIMwajNjQlINJuO5U7i9Bca2sMJtwttWpLIWLVnr81gWPmVCh+QuLKd0DdP8SDmWvPMVx7lD5L2bOlwxOBR6etAwIRq33ZiqwLjhCrz60W53S5u9iI+Vg0knfPWJSiD79paXvGs1MFJbpnXTwVO/U3VqToO/CzVv5EGSPhHpsojIHgzyMz5kLCbaJy18ie4RJ6sZKQQuJBH/wEezMTEnH5l2RRFSI3PDjypeW1hkQ98VJUubaX1haYtSi+f26T5G/0f1+SQCkqbMvNHk5O5Kbbk/rTm8kFpkk2S5hHaXYA0K4i8OOvdNEVIG2KfbkgjQNzzKbuDHyzuZpr+KqQ==;YNZUEafjMThxgmHDNyBTrg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://mashable.com/article/ways-ai-changed-the-internet-2023"
 webUrl: "https://mashable.com/article/ways-ai-changed-the-internet-2023"
 type: article
 quality: 67
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -54,6 +54,15 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "How AI’s Explosive Growth Opened Up The World For The Blind In 2023"
+    excerpt: "AI and people living with sight loss have experienced significant gains from this seismic technological shift."
+    publishedDateTime: 2023-12-15T13:07:00Z
+    webUrl: "https://www.forbes.com/sites/gusalexiou/2023/12/15/how-ais-explosive-growth-opened-up-the-world-for-the-blind-in-2023/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "Top 7 Noteworthy AI Innovations in Fashion in 2023"
     excerpt: "Now, let’s explore some of the key developments in the application of AI in the fashion industry this year."
     publishedDateTime: 2023-12-11T06:34:00Z

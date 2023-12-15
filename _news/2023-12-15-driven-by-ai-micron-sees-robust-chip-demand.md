@@ -9,7 +9,7 @@ ampWebUrl: "https://m.rediff.com/amp/business/report/driven-by-ai-micron-sees-ro
 cdnAmpWebUrl: "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/business/report/driven-by-ai-micron-sees-robust-chip-demand/20231215.htm"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "10 robots powered by AI and their insane demo videos"
+    excerpt: "Elon Musk, recently showcased his latest creation, the Optimus Gen-1. Following advancements in large language models, it seems the race to create the most powerful AI-backed robot is intensifying. The Tesla Optimus account shared a demo video of Optimus Gen-1, which triggered a conversation around AI robots."
+    publishedDateTime: 2023-12-15T13:05:00Z
+    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/best-ai-robots-of-2023-robot-demo-videos-9069858/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 34
   - title: "Demand for artificial intelligence development drives increase in tech hiring"
     excerpt: "With the gains in employer hiring intent for AI talent, the job posting data is finally catching up to the hype,” said Tim Herbert, chief research officer, CompTIA. “As an enabling technology, companies hiring for AI skills inevitably need to boost adjacencies in areas such as data infrastructure,"
     publishedDateTime: 2023-12-11T14:21:00Z

@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "These AI-generated news anchors are freaking me out"
+    excerpt: "In other words, human-looking AI avatars now seem well on their way to climbing out of the uncanny valley, at least when it comes to news anchors who sit at a desk or stand still in front of a green screen. Channel 1 investor Adam Mosam told Deadline it \"has gotten to a place where it’s comfortable to watch,\" and I have to say I agree."
+    publishedDateTime: 2023-12-15T15:57:00Z
+    webUrl: "https://arstechnica.com/ai/2023/12/these-ai-generated-news-anchors-are-freaking-me-out/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 67
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/12/channel1-vs-max-headroom-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "AI: Amazon Web Services views generative artificial intelligence as marathon not sprint"
     excerpt: "While rivals race to add AI capabilities to products, AWS focuses on making it easier and more secure for firms to integrate it into workflows"
     publishedDateTime: 2023-12-14T05:00:00Z
@@ -129,6 +143,20 @@ related:
       - url: "https://assets.bizclikmedia.net/1200/b6ed12eb7ec28ad5ae14a6ea7d05b679:cc2c9ffd810a582fef0d67f56f8aff04/nasser-khodri.jfif.jpg"
         width: 1200
         height: 631
+        isCached: true
+  - title: "Inside Bayer’s embrace of generative AI"
+    excerpt: "In this wide-ranging interview, Bayer’s head of digital transformation Saskia Steinacker shares her top tips for implementing a genAI roadmap in commercial."
+    publishedDateTime: 2023-12-15T15:45:00Z
+    webUrl: "https://www.mmm-online.com/home/channel/7-day-supply/inside-bayers-embrace-of-generative-ai/"
+    type: article
+    provider:
+      name: MM&M
+      domain: mmm-online.com
+    quality: 39
+    images:
+      - url: "https://www.mmm-online.com/wp-content/uploads/sites/2/2022/05/GettyImages-1252150184.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Turn Generative AI from an Existential Threat into a Competitive Advantage"
     excerpt: "By making it vastly easier and cheaper to improve or create products and services that previously required significant human labor and creativity, generative AI has the potential to disrupt or even commoditize many businesses."

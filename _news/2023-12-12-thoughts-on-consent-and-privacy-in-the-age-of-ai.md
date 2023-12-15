@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/thoughts-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/12/thoughts-on-consent-and-privacy-in-the-age-of-ai/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -71,6 +71,15 @@ related:
     provider:
       name: Canindia.com
       domain: canindia.com
+    quality: 19
+  - title: "LILT Announces Enterprise AI Controls and In-App Multimodal Translation"
+    excerpt: "Enterprise AI Controls A new broad set of enterprise controls allows organizations to define when and how their employees use AI across the business, all from directly within the LILT platform. These controls enable authorized users to securely control the deployment of AI across the organization, including:"
+    publishedDateTime: 2023-12-14T18:33:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/12/14/9934667.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 19
   - title: "Enhanced Regulation for Artificial Intelligence Unveiled in Landmark EU Agreement"
     excerpt: "In a significant development, negotiators from the European Parliament and EU member states have reached a consensus on more stringent regulations governing the use of artificial intelligence (AI) within the European Union."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/business-52989128.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-52989128.amp"
 type: article
 quality: 91
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
         width: 613
         height: 400
         isCached: true
+  - title: "Police defend facial recognition target selection to Lords"
+    excerpt: "Senior police officers confirm to Lords committee that facial recognition watchlist image selection is based on crime categories attached to people’s photos, rather than a context-specific assessment of the threat presented by a given individual."
+    publishedDateTime: 2023-12-15T09:07:00Z
+    webUrl: "https://www.computerweekly.com/news/366563318/Police-defend-facial-recognition-target-selection-to-Lords"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 19
 
 secured: "ZAD8djyBqqWHf3i45zJRGGXmTKyG1G3ubA9q+scPhoXwk3dUO0mYA0KAvo7TIHC4uguXa3tpBDrhzEPqCpAjVffbTLbhLr5eZ+p7UZ9SUBBUXUFfFCGwIlg0d/mcMCr8EvsIzQKGnvUF+eZpiw41x51sShWCWJN5hbE8sTn3gW+auD2JpcaQSLLYvpMd2Wur4lAZdJvKBrlPpp8llxtf4Sz9yT7rIeFqF9/WbeIn/tbB/5yqPiJqbJ7v8xV3/S65vam6SwXrIV/5uDerGBKvvqSZLA8kKI8Y3S1pUpsMfO7Xd4Q3Xem2p8m+NKkYWK+glPfH8cQekCZdIShpmWhF2KfIqtAP4lawk9g6naXsJ7A=;p7ycc7I2apdSos3c6kbI6A=="
 ---

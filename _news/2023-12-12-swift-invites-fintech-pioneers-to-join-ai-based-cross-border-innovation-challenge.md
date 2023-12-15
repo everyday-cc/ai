@@ -55,15 +55,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "2024’s Key Opportunities: AI, Flexibility, Wellbeing & Personalization"
-    excerpt: "AI, flexible work, wellbeing, personalization – these innovative trends are sweeping through organizations still recovering from the last set of disruptions. Those with a thriving, human-centric culture will embrace them to adapt and grow and thrive."
-    publishedDateTime: 2023-12-14T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/ericmosley/2023/12/14/2024s-key-opportunities-ai-flexibility-wellbeing--personalization/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "M2P Fintech acquires Goals101 for data-driven personalisation in digital banking"
     excerpt: "Madhusudanan R, CEO and Co-founder of M2P Fintech, stated that the global banking technology landscape is experiencing a significant transformation, particularly in utilising data and AI across key areas such as customer service, product and portfolio ..."
     publishedDateTime: 2023-12-13T08:04:00Z

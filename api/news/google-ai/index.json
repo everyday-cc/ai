@@ -2,20 +2,20 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-12-15-deepmind-claims-its-ai-can-tackle-unsolved-mathematics.md",
-      "title": "DeepMind claims its AI can tackle unsolved mathematics",
-      "excerpt": "DeepMind claims its FunSearch model found new answers to an unsolved maths problem, using a method that creates a 'self-improving loop'.",
+      "path": "_news/2023-12-15-deepminds-ai-finds-new-solution-to-decades-old-math-puzzle-outsmarting-humans.md",
+      "title": "DeepMind’s AI finds new solution to decades-old math puzzle — outsmarting humans",
+      "excerpt": "The LLM got closer than ever before to cracking the cap set problem, which has perplexed mathematicians for decades.",
       "sourceUrl": null,
-      "webUrl": "https://www.siliconrepublic.com/machines/deepmind-ai-unsolved-mathematics-hallucinations",
-      "originalUrl": "https://www.siliconrepublic.com/machines/deepmind-ai-unsolved-mathematics-hallucinations",
+      "webUrl": "https://thenextweb.com/news/deepminds-ai-finds-solution-to-decades-old-math-problem",
+      "originalUrl": "https://thenextweb.com/news/deepminds-ai-finds-solution-to-decades-old-math-problem",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 166,
       "tags": null,
       "images": [
         {
-          "url": "https://www.siliconrepublic.com/wp-content/uploads/2023/12/AdobeStock_258774750.jpeg",
-          "width": 800,
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F12%2Fmath-code-science-AI.jpg&signature=c7d51f05d2f90d69e7dd1049a3691f58",
+          "width": 1200,
           "height": 600,
           "title": null,
           "attribution": null,
@@ -26,12 +26,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-15T10:17:00Z",
+      "publishedDateTime": "2023-12-15T15:14:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "SiliconRepublic",
-        "domain": "siliconrepublic.com",
-        "images": null,
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -194,7 +203,7 @@
       "originalUrl": "https://arstechnica.com/ai/2023/12/chatgpt-vs-google-bard-round-2-how-does-the-new-gemini-model-fare/3/?view=grid",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": null,
       "tags": null,
       "images": [
         {

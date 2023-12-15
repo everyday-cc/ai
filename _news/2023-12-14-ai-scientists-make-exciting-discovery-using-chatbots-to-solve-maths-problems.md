@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/science/2023/dec/14/ai-scientists-make-e
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/science/2023/dec/14/ai-scientists-make-exciting-discovery-using-chatbots-to-solve-maths-problems"
 type: article
 quality: 85
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google Bard has one enormous advantage over other AI chatbots"
+    excerpt: "But there’s a gigantic time-saver that Google’s Bard is beginning to deploy, and it’s worth checking out: Knowledge of the gazillion hours of YouTube video it’s already archived."
+    publishedDateTime: 2023-12-12T14:01:00Z
+    webUrl: "https://www.pcworld.com/article/2166765/googles-bard-has-one-enormous-advantage-over-other-ai-chatbots.html"
+    type: article
+    provider:
+      name: PC World
+      domain: pcworld.com
+    quality: 69
+    images:
+      - url: "https://www.pcworld.com/wp-content/uploads/2023/12/Google-talking-to-YouTube.png?w=1024"
+        width: 1023
+        height: 604
+        isCached: true
   - title: "Yellow.ai Announces Listing of its Generative AI-powered Voicebots and Chatbots on Zendesk Marketplace"
     excerpt: "The listing will enable enterprises to deliver human-like experiences through Yellow.ai's Dynamic Automation Platform (DAP), leading to 60"
     publishedDateTime: 2023-12-12T12:49:00Z

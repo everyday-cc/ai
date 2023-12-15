@@ -36,6 +36,15 @@ related:
         width: 1028
         height: 514
         isCached: true
+  - title: "Uncovering bias in artificial intelligence"
+    excerpt: "Throughout his Ph.D. program, Li has worked alongside his advisor, assistant professor Hongfu Liu, to examine bias within artificial intelligence datasets. They determined that when developing these artificial intelligence systems, cleaning datasets and looking for these biases in advance of processing information can reduce these incidents."
+    publishedDateTime: 2023-12-15T14:52:00Z
+    webUrl: "https://www.brandeis.edu/stories/2023/december/artificial-intelligence-grant.html"
+    type: article
+    provider:
+      name: Brandeis University
+      domain: brandeis.edu
+    quality: 17
 
 secured: "Ho75GEH0XWDwKSoSe974zZy9jEGQSASUx/qzHWVfzTfrjcSrAA68SubJlrT8nDUtM8SvK3oqKHcKN9O68+V7A/TXTjPjBAL34ybdzgFrOLacYh5BAWR2xx0M1s5LqL7EJ+JbsDlSS/Dcf06ZtClqki6KUT9dipSLPxxy8lhTXgeej6S12Ada9n3ToBqktZOElrowr/1BDfNNrrio8IqkXRzQJ87OBUhvO6bdBqiBpf4Ic4PJXVJRC3/rHT7m/Mo7qnE6UfIubA0SssFJRBAWhgntE0MUH5YbpSEt0Objz+HKRlXxwdrA/PrMvViRh6Vt+EhCko7TiVmOeTSLmhbGbnOgZkWINqg/oJUqQZ1liBQ=;aLCXGYj4pe0eh32yqSvrUA=="
 ---

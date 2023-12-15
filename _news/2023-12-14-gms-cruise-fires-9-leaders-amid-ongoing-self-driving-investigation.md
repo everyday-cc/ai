@@ -79,6 +79,20 @@ related:
         width: 357
         height: 250
         isCached: true
+  - title: "Cruise, GM’s Self-Driving Arm, Announces Significant Job Cuts"
+    excerpt: "Cruise, the self-driving vehicle business majority-owned by GM, has revealed plans to cut 900 jobs, amounting to 24% of its workforce."
+    publishedDateTime: 2023-12-15T16:14:00Z
+    webUrl: "https://techstory.in/cruise-gms-self-driving-arm-announces-significant-job-cuts/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 24
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2023/12/411476733_853234426808670_3902398952353993278_n.jpg"
+        width: 976
+        height: 549
+        isCached: true
   - title: "GM's self-driving car company Cruise lays off 900 workers - nearly 25 percent of its workforce - ahead of Christmas after a series of safety mishaps and having its permit ..."
     excerpt: "The new footage from the vehicle showed that the car continued driving after the initial stop and attempted a 'pullover maneuver,' traveling about 20 feet while the pedestrian was still trapped underneath. In September, two Cruise driverless taxis ..."
     publishedDateTime: 2023-12-14T21:48:00Z

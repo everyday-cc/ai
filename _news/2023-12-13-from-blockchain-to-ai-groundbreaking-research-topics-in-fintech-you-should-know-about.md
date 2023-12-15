@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/from-blockchain-to-ai-groundbreaking-resea
 webUrl: "https://techbullion.com/from-blockchain-to-ai-groundbreaking-research-topics-in-fintech-you-should-know-about/"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Could Blockchain Be A Key Factor For Trustworthy AI?"
+    excerpt: "And this is where blockchain might prove useful. Using blockchain, we can create a cryptographic proof of a model’s inference. Inference essentially means the querying of a model. With so-called zero-knowledge proofs, we can confirm that an inference to a model has been made, how the model was prompted and which model was queried."
+    publishedDateTime: 2023-12-15T14:59:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/15/could-blockchain-be-a-key-factor-for-trustworthy-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/15/could-blockchain-be-a-key-factor-for-trustworthy-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/15/could-blockchain-be-a-key-factor-for-trustworthy-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/628d34262b0242a41f0215a4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1590
+        height: 894
+        isCached: true
   - title: "AI Integration With Blockchain Technology Is Inevitable"
     excerpt: "As AI inevitably intersections with blockchains, investors should know that not all digital assets will be safe."
     publishedDateTime: 2023-12-12T20:59:00Z
@@ -34,15 +50,6 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 17
-  - title: "Peter George, Fintech Entrepreneurial Leader for Digital Currencies, Blockchain Applications, Named Medici Land Governance Board Chairman"
-    excerpt: "Peter George, an entrepreneur who is among the earliest adopters of Blockchain applications for central bank digital currency and investments in digital assets, has been named chairman of the board of directors of Medici Land Governance (MLG)."
-    publishedDateTime: 2023-12-13T11:52:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/12/13/9932995.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "PlBFbpJucY5PUcvE5e6SUfG7vCm/IC6W4Jm7ttesVNfABkQAz84+eVZHaNLPPUqZ6HlnJwwn3RCk+K11Bt1W5sTXb9U0SPbzC7Dty/FpJm7GsU6BqWiY5ct/rQJ7HD4ev/fo8eIZxheNh2zMS3c8BNzFoisB8VPWaM6wSrE8VC12bqsaOOCApJ8mRT3m2NAg7JqwMb5G+qLB9v9aZ7zgnKI1GMXsDEjkwvJmeJCX0hS3Se7lGuwItIlupXbai3vub2wwb2UpezVAPybsxR92i/UQjY5SXcnlmPkV0MRjGgdyZWZZEO9pdQSxQHasEPqy+WAmNesvEux3ZZackTuOShJwGZ6KnJvuexHwjFK6hCLQhA6vCetRz1tC8xNvpmbI61o7CNnk154sp8+WEatJmfJ6FV6B/pjaKearIDCJKzz5CrTh/wuDjoHL7mZYv6KiEdr7q9MRC75lJ0mnbEDhmJKkDi+R5aQK38ZmeHIxX2YS6p0eIXVGoMyKPBn9mfVb/0aGzB55tTgJGuo9Ley0kQ==;gusuaGcKTsQiYxuby3VDbQ=="
 ---
