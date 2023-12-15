@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/6GxRKMYQNGGMb3Wj"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/6GxRKMYQNGGMb3Wj"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -88,6 +88,20 @@ related:
       - url: "https://www.networkworld.com/wp-content/uploads/2023/12/datacenter-liquid-cooling-server-blade-immersion_1920x1080.jpg?quality=50&strip=all&w=1024"
         width: 1024
         height: 706
+        isCached: true
+  - title: "Intel releases its own AI chip"
+    excerpt: "Hopefully, Gaudi3 will not end up under a tram Intel unveiled a new AI computer chip called Gaudi3, hoping to give Nvidia and AMD a run for their money. The most prominent AI models run on Nvidia, like OpenAI's ChatGPT."
+    publishedDateTime: 2023-12-15T10:24:00Z
+    webUrl: "https://www.fudzilla.com/news/pc-hardware/58117-intel-releases-its-own-ai-chip"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/204d096d7a431042de94c608f4a34e24_L.jpg"
+        width: 620
+        height: 465
         isCached: true
   - title: "Intel Announces AI-Oriented 5th Gen Xeon, Gives Gaudi3 GPU Accelerator Sneak Peak"
     excerpt: "Gearing up for what it intends to be a multi-horse race in the exploding AI chip sector, Intel today announced a next-generation Xeon enterprise and data center CPU built with AI inferencing in mind,"

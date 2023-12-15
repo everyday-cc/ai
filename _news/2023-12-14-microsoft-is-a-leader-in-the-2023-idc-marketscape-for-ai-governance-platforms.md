@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/blog/microsoft-is-a-leader-in-th
 webUrl: "https://azure.microsoft.com/en-us/blog/microsoft-is-a-leader-in-the-2023-idc-marketscape-for-ai-governance-platforms/"
 type: article
 quality: 101
-heat: 161
+heat: 171
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://statetechmagazine.com/sites/statetechmagazine.com/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202312/GettyImages-1485546309.jpg?itok=fyQGX9CX"
         width: 1440
         height: 500
+        isCached: true
+  - title: "Dell, Microsoft, Lenovo Laptops to Soon Feature Intel’s New Chip with Built-in AI Capabilities"
+    excerpt: "Intel, a leading technology company, announced Thursday that numerous personal computer manufacturers are utilizing their latest chip. This strategic move aims to entice consumers to upgrade their machines for the dawn"
+    publishedDateTime: 2023-12-15T09:10:00Z
+    webUrl: "https://www.econotimes.com/Dell-Microsoft-Lenovo-Laptops-to-Soon-Feature-Intels-New-Chip-with-Built-in-AI-Capabilities-1668035"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 59
+    images:
+      - url: "https://f1.econotimes.com/2023/12/p6j30bp4cg_th_1024x0.jpeg"
+        width: 1024
+        height: 614
         isCached: true
   - title: "Microsoft releases Phi-2, a small language model AI that outperforms Llama 2, Mistral 7B"
     excerpt: "Microsoft researchers also noted in their blog post on the Phi-2 release that it outperforms Google's brand new Gemini Nano 2 model."
@@ -106,6 +120,6 @@ related:
       domain: indiatimes.com
     quality: 36
 
-secured: "5SEm6BsFnApeAkDx2BDbQR63OgACbioAB8s47D4jklwtto8JEeAFXN28h6JHw/fRJFSg/dYdruW7WKumCKxSF96WoTyasMfadBQbtCbieuwDiyC31ai466MRu5i1LSaHQCtr50TSxUPivX9ANx8KOXS7LJ8qdWv8jll3QCXRGl57bvleNmVuefhHDU7q/0iogI/JuRbn6GZbA7fc/foabWSy4dIk08xpXNzRaRSqBmCRUtLYYKDKJ2i9BcK/7tDYo4+21bpNNtwPOsX5zlp9b066UBSO/OEq6+o9FGvdEt/NhS3XhU/GHaa8UY12U8ulcUSAeIY0MuzIckhWNZq/RykCLCizTHQv3AOUZd6Zlx8=;BtApqSWFBaw78Pj8GUskPw=="
+secured: "gGHwLymCfq+FR8HOFmi/7xAeapgmHygYvKx9lQL9PPUijNasKX/ydrF5ky9xtvGMF06jIv/agX6EEYWcJNY1J+nuoIgMZGhp7Gc9ln1FIEcyG6fcnw2bZOOquMIkrFrQ8j7zQiusgkIgPDB14nclonXgO0+fge5SwoplMSojoh6xv0VJ5q8NfRUHLYsjRhwO/IvIhp6sm0BGrtJ9MVdApe4hNSrkBPpr1s1NRmbJGsO2cwy2H4drbt9K8JkHykK5A+p9cq6b6YBqjF9Hq4BsokHUeiXtthNUyGWoUyZ5BYVS2TicY4nOubqkxeSeQ47sZYeKzJNB1d90cJIwIl72Fka06kuB7ii8gFCpbbHhOeY=;YTGQEybD3Ouc/JFQDByj0Q=="
 ---
 

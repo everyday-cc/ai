@@ -39,6 +39,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Hickory Health Alert: Rising Disability in the Workplace due to Brain Fog. Doctor Explains"
+    excerpt: "Dr. Adriana Davis, Family Medicine, \"More and more working-age adults have brain fog--research shows that it's due to long COVID.\"Doctor's Expert Insights long COVID and Brain Fog"
+    publishedDateTime: 2023-12-14T13:27:00Z
+    webUrl: "https://www.sanfordherald.com/news/state/hickory-health-alert-rising-disability-in-the-workplace-due-to-brain-fog-doctor-explains/article_1fd6c4e7-16e3-524b-b8ac-835e1d4b8412.html"
+    type: article
+    provider:
+      name: The Sanford Herald
+      domain: sanfordherald.com
+    quality: 29
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/sanfordherald.com/content/tncms/assets/v3/editorial/8/ca/8ca9c9d1-bf74-5806-ba11-482c0e141d5f/657b18ec1c53c.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Lincoln Health Alert: Rising Disability in the Workplace due to Brain Fog. Doctor Explains"
     excerpt: "Dr. Adriana Davis, Family Medicine, \"More and more working-age adults have brain fog--research shows that it's due to long COVID.\"Doctor's Expert Insights long COVID and Brain Fog"
     publishedDateTime: 2023-12-14T13:27:00Z

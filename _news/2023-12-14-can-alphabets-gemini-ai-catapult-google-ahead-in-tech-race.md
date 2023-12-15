@@ -33,15 +33,34 @@ related:
         width: 1500
         height: 981
         isCached: true
-  - title: "How to use Google Gemini in Bard to get the best results"
-    excerpt: "Google has recently updated its AI chatbot, Google Bard, with its new Gemini AI model, which brings a host of enhanced features to improve the user"
-    publishedDateTime: 2023-12-10T11:03:00Z
-    webUrl: "https://www.geeky-gadgets.com/using-google-gemini-in-bard/"
+  - title: "Google plans to roll out Gemini across all its products"
+    excerpt: "Even Bing is outclassing it, so it has to do something. With the arrival of AI, the search engine Google has found itself in the embarrassing situation of being beaten by Microsoft’s Bing, and now the company says it will roll out its own AI Gemini across nearly its entire line of products."
+    publishedDateTime: 2023-12-15T10:35:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/58119-google-plans-to-roll-out-gemini-across-all-its-products"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 24
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/646ff92d19e9e08ab09b37970c879a6b_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
+  - title: "How to Get the Most Out of Gemini in Google Bard"
+    excerpt: "This guide is designed to show you how to get the most of out Gemini in Google Bard. Google, has recently implemented a significant enhancement to its"
+    publishedDateTime: 2023-12-15T10:00:00Z
+    webUrl: "https://www.geeky-gadgets.com/how-to-get-the-most-out-of-gemini-in-google-bard/"
     type: article
     provider:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
-    quality: 4
+    quality: 24
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/Google-Gemini.jpeg"
+        width: 1280
+        height: 721
+        isCached: true
   - title: "Google's Gemini video was staged, which is kind of a relief"
     excerpt: "Google just launched Gemini, and it also just admitted that its hands-on video was staged, which is both good and bad news."
     publishedDateTime: 2023-12-11T19:49:00Z
@@ -50,6 +69,15 @@ related:
     provider:
       name: Android
       domain: androidheadlines.com
+    quality: 4
+  - title: "Google Bard Meets the Latest Language Model, Gemini"
+    excerpt: "Gemini, the latest language model of Google and DeepMind is being used by Google Bard, an AI chatbot of Google."
+    publishedDateTime: 2023-12-14T17:06:00Z
+    webUrl: "https://techacute.com/google-bard-meets-the-latest-language-model-gemini/"
+    type: article
+    provider:
+      name: techacute.com
+      domain: techacute.com
     quality: 4
 
 secured: "sjFIQIn6X4dfOu4Ypr3xraCIUcikO2CSdtOKdu+hQFRANO4bUFGIcd987cUE0oEZuq4CxM0c5WRno+N6PFqz7YEjXYgDu2Bwqj0qjJwAdR9E8ssi8xZtivDkelM56hyQAa8xvTPlty3fpiMJr3Vcqo3/nZ7ekYamxQwz3HdqBgAJ+jdoguNV33NLUvko/BwxBiN/xZvdWg/BYb2QENuzWkFRwPE608EUB/I0sfJuFd2gUh3ZvYOZtb33GfeysmUp6GL/rMNHFhiecAYGroGorZJcmyPowv4TWL3rPhC66BzOZxYEWci+LtFGrB9oB2CG6gJjbDoPSo4R4qUP9/myAf2mPR7Zum+8zQAiod99j8c=;fOgb9PBUCiMjzKddt8PDrw=="

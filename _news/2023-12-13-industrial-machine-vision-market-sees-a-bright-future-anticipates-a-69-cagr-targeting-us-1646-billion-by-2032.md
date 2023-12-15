@@ -33,7 +33,7 @@ related:
     provider:
       name: Future Market Insights
       domain: fmiblog.com
-    quality: 20
+    quality: 22
     images:
       - url: "https://www.fmiblog.com/wp-content/uploads/2023/12/Artificial-Intelligence-in-Packaging.jpg"
         width: 1200

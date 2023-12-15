@@ -7,8 +7,8 @@ originalUrl: "https://www.nasdaq.com/articles/c-suite-exodus-at-tesla-after-dojo
 webUrl: "https://www.nasdaq.com/articles/c-suite-exodus-at-tesla-after-dojo-supercomputer-leads-rumored-exit-ai-infra-head-tim"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: Nasdaq
@@ -20,15 +20,6 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Tesla's head of AI infrastructure Tim Zaman joins Google DeepMind"
-    excerpt: "Tim Zaman has left Tesla to work at Google DeepMind. Zaman was the head of 'AI Infra' at the automotive company from 2019, and was deeply involved in deploying the company's Dojo supercomputers and GPU supercomputers."
-    publishedDateTime: 2023-12-11T13:33:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/teslas-head-of-ai-infrastructure-tim-zaman-joins-google-deepmind/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 51
   - title: "C-Suite Exodus At Tesla? After Dojo Supercomputer Lead's Rumored Exit, AI Infra Head Tim Zaman Jumps Ship To Google's DeepMind"
     excerpt: "“I’m joining Google DeepMind this Monday. Excited to be a kid among legends!” he said in the post. Personal news – Joined NVIDIA in 2016, and Tesla in 2019. Like family, I never thought I ..."
     publishedDateTime: 2023-12-10T13:06:00Z

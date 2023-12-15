@@ -7,7 +7,7 @@ originalUrl: "https://mashable.com/article/lenovo-thinkpad-x1-carbon-gen-12"
 webUrl: "https://mashable.com/article/lenovo-thinkpad-x1-carbon-gen-12"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Lenovo ThinkPad Z16 Gen 2 review: Does it beat the M3 MacBook Pro?"
+    excerpt: "If your workflow requires your GPU to do some heavy lifting (e.g., photo and video editing, light gaming, etc.), the ThinkPad Z16 Gen 2 does, indeed, beat the M3 MacBook Pro. However, the M3 MacBook Pro outpaces the ThinkPad Z16 Gen 2 in processor performance by a hair."
+    publishedDateTime: 2023-12-15T10:00:00Z
+    webUrl: "https://mashable.com/review/lenovo-thinkpad-z16-gen-2"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 54
+    images:
+      - url: "https://helios-i.mashable.com/imagery/reviews/06E9qmQhLBC4jcHdO3Ns1gJ/hero-image.fill.size_1200x675.v1702613295.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Lenovo's refreshed ThinkPad X1 laptops supercharge business features with AI powered by new Intel Core Ultra processors"
     excerpt: "Lenovo just announced refreshes of its two best business laptops. The Lenovo ThinkPad X1 Carbon and ThinkPad X1 2-in-1 both have new versions featuring Intel Core Ultra processors. Among other improvements over their predecessors, Intel Core Ultra processors have dedicated AI capabilities, thanks to their included NPUs."
     publishedDateTime: 2023-12-14T15:00:00Z

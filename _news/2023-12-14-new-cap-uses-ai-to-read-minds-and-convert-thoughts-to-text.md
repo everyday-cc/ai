@@ -35,6 +35,22 @@ related:
         width: 1408
         height: 792
         isCached: true
+  - title: "This mind-reading AI tool turns thoughts into text! Better than Elon Musk's Neuralink?"
+    excerpt: "Researchers at the University of Technology Sydney have unveiled the world's first mind-reading helmet, translating thoughts into text. A breakthrough for communication and human-machine interaction."
+    publishedDateTime: 2023-12-15T09:12:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/this-mind-reading-ai-tool-turns-thoughts-into-text-better-than-elon-musks-neuralink-71702631072655.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/this-mind-reading-ai-tool-turns-thoughts-into-text-better-than-elon-musks-neuralink-71702631072655.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/this-mind-reading-ai-tool-turns-thoughts-into-text-better-than-elon-musks-neuralink-71702631072655.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 51
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2023/12/15/1600x900/pexels-mikhail-nilov-7671957_1702631370709_1702631384463.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "AI-Powered System Turns Thoughts Into Text"
     excerpt: "In a world-first, researchers have developed a non-invasive, AI-powered system that can decode thought into text, potentially enabling seamless communication between humans and machines."
     publishedDateTime: 2023-12-12T10:37:00Z

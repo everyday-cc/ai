@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/12/13/13-ways-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/12/13/13-ways-ai-can-help-accelerate-your-startup-part-ii/amp/"
 type: article
 quality: 87
-heat: 99
+heat: 97
 published: true
 
 provider:

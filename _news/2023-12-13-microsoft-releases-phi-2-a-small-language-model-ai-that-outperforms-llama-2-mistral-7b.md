@@ -54,6 +54,20 @@ related:
         width: 1440
         height: 500
         isCached: true
+  - title: "Dell, Microsoft, Lenovo Laptops to Soon Feature Intel’s New Chip with Built-in AI Capabilities"
+    excerpt: "Intel, a leading technology company, announced Thursday that numerous personal computer manufacturers are utilizing their latest chip. This strategic move aims to entice consumers to upgrade their machines for the dawn"
+    publishedDateTime: 2023-12-15T09:10:00Z
+    webUrl: "https://www.econotimes.com/Dell-Microsoft-Lenovo-Laptops-to-Soon-Feature-Intels-New-Chip-with-Built-in-AI-Capabilities-1668035"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 59
+    images:
+      - url: "https://f1.econotimes.com/2023/12/p6j30bp4cg_th_1024x0.jpeg"
+        width: 1024
+        height: 614
+        isCached: true
   - title: "Microsoft and labor unions form ‘historic’ alliance on AI"
     excerpt: "Microsoft is teaming up with labor unions to create 'an open dialogue' on how artificial intelligence will affect workers."
     publishedDateTime: 2023-12-11T17:51:00Z

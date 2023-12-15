@@ -25,66 +25,36 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Technology: Draft law to be published today"
-    excerpt: "Following the Dublin riots last month, the offences of riot and violent disorder were also included in the legislation"
-    publishedDateTime: 2023-12-14T05:44:00Z
-    webUrl: "https://www.newstalk.com/news/facial-recognition-technology-draft-law-to-be-published-today-1623984"
+  - title: "George Floyd: Amazon bans police use of facial recognition tech"
+    excerpt: "Amazon said the suspension of law enforcement use of its Rekognition software was to give US lawmakers the opportunity to enact legislation to regulate how the technology is employed. \"We've ..."
+    publishedDateTime: 2023-12-14T20:42:00Z
+    webUrl: "https://www.bbc.com/news/business-52989128"
+    ampWebUrl: "https://www.bbc.com/news/business-52989128.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-52989128.amp"
     type: article
     provider:
-      name: Newstalk
-      domain: newstalk.com
+      name: BBC
+      domain: bbc.com
+    quality: 91
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/10C9C/production/_110246786_facialrecognition3.gif"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Draft Law On Facial Recognition Technology To Be Published"
+    excerpt: "This new facial recognition technology or FRT would mean they can use biometric identification to search footage which would significantly speed up investigations. Following the D"
+    publishedDateTime: 2023-12-14T18:35:00Z
+    webUrl: "https://www.98fm.com/news/draft-law-on-facial-recognition-technology-to-be-published-1624002"
+    type: article
+    provider:
+      name: Dublin's 98FM
+      domain: 98fm.com
     quality: 39
     images:
-      - url: "https://media.radiocms.net/uploads/2023/12/14064055/Facial-recognition-research-equipment-edit.jpg"
+      - url: "https://media.radiocms.net/uploads/2020/10/supervision-1674614_1920.jpg"
         width: 1920
-        height: 1198
+        height: 1280
         isCached: true
-  - title: "Dublin riots: Draft law on facial recognition technology to be published"
-    excerpt: "Minister says legislation will help gardaí trawl through thousands of hours of CCTV when investigating serious crimes"
-    publishedDateTime: 2023-12-14T06:03:00Z
-    webUrl: "https://www.businesspost.ie/news/dublin-riots-draft-law-on-facial-recognition-technology-to-be-published/"
-    type: article
-    provider:
-      name: The Sunday Business Post
-      domain: businesspost.ie
-    quality: 38
-    images:
-      - url: "https://imengine.public.prod.sbp.infomaker.io?uuid=249c1420-af22-597e-9e71-beff73204c2e&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.60322&width=1200&height=675&x=1.0E-5&y=0.19839"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "‘Face Recognition Technology’ used to generate Pensioner’s Life Certificate: Dr Jitendra"
-    excerpt: "Department of Pension & Pensioners Welfare (DoP&PW) is possibly one of the first departments in the Govt sector to have started using the latest “Face Recognition Technology” for establishing Aadhar based identification of elderly pensioners to generate “Digital Life Certificate”."
-    publishedDateTime: 2023-12-11T23:30:00Z
-    webUrl: "https://www.dailyexcelsior.com/face-recognition-technology-used-to-generate-pensioners-life-certificate-dr-jitendra-2/"
-    type: article
-    provider:
-      name: Daily Excelsior
-      domain: dailyexcelsior.com
-    quality: 30
-    images:
-      - url: "https://cdndailyexcelsior.b-cdn.net/wp-content/uploads/2023/12/Page5-1-8.jpg"
-        width: 800
-        height: 674
-        isCached: true
-  - title: "How should AI developers be addressing ethical issues as they create new technology?"
-    excerpt: "In the second hour of \"Connections with Evan Dawson\" on Monday, December 11, 2023, we discuss how AI developers should be addressing ethical issues as they create new technology."
-    publishedDateTime: 2023-12-11T19:23:00Z
-    webUrl: "https://www.wxxinews.org/show/connections/2023-12-11/how-should-ai-developers-be-addressing-ethical-issues-as-they-create-new-technology"
-    type: article
-    provider:
-      name: WXXI
-      domain: wxxinews.org
-    quality: 27
-  - title: "Dublin riots: McEntee publishes draft law on facial recognition tech"
-    excerpt: "Minister for Justice Helen McEntee has published a draft bill on the use of facial recognition technology by An Garda Síochána."
-    publishedDateTime: 2023-12-14T12:30:00Z
-    webUrl: "https://www.siliconrepublic.com/business/dublin-riots-facial-recognition-technology-police-draft-law-ireland-helen-mcentee"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 19
 
 secured: "9bDGG1CG4zaebSUaGcMpRcbFbujKmaouAsIbacN4Nx7k2ReFdOImG23c98QBb4+QWrmUALKfJSBxA7JkjMVCP2d3R9tJZuTZSNL2gKu7x2gsqB6a5fk6i9jXvyFynXgTYz+iOEClCDtRiiYcZL+hpx+ZP+OnVRTiI6DwBSzctIzrFCLGqJmhnEc9Wfq+yL3nMltRFt0UG+YynZz7iqFv1Hwib/ZxO+VePYtIm88Le41U8gYTvt6w34YXzs4tRX8bCWC1RuDIkO2oglgGzu6ECim5RNwsfjZ8EC7c82TUBIGeJk0RimUE/2wtom8Zy9caiGOccQnw80NXxLU0D0y9YzJFzWizRkkM4cyM6PBXNBtGpgpMLz2XXZ9iA6CyWV28ksqu2ptEj7oFlD+xR2qZCDoOIW0ltjszJRRwUWxb2ijaG5LqHTNJjY9LVGdVWbEZzAVbbRYE44s1kEBdHieRbEZC3Seqxxk5qvtH54ZFzxuTlqNBnnTls3Ply4aRE1UoBPKBhB4aqbevFMDVYiAChA==;3pUwgb669UNw+eE6kBfEtw=="
 ---

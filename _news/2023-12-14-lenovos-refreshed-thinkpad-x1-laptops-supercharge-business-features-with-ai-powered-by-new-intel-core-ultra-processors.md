@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Lenovo ThinkPad Z16 Gen 2 review: Does it beat the M3 MacBook Pro?"
+    excerpt: "If your workflow requires your GPU to do some heavy lifting (e.g., photo and video editing, light gaming, etc.), the ThinkPad Z16 Gen 2 does, indeed, beat the M3 MacBook Pro. However, the M3 MacBook Pro outpaces the ThinkPad Z16 Gen 2 in processor performance by a hair."
+    publishedDateTime: 2023-12-15T10:00:00Z
+    webUrl: "https://mashable.com/review/lenovo-thinkpad-z16-gen-2"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 54
+    images:
+      - url: "https://helios-i.mashable.com/imagery/reviews/06E9qmQhLBC4jcHdO3Ns1gJ/hero-image.fill.size_1200x675.v1702613295.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "/rfFtatZCNMDINPlIKa+VfkNs4zHkEk12Kw+SK+pNHmkmm4lZBi34tzwYtanxJghxHkE5X6mrKI2cGELC5uAQ5Cc0njx3xFpa2Ayqkp86OS/Y3ZQXoFagxZ8FsegXwthPH4XwUg0OZaqYwZDCyTBH5k8RV/M342UB2lAv9Z6P+uj3QoHZv+577xJOZC1W40uZ0bitrFk1MoagEIJQIVHS31EIsnNXsFSmV381VPPxLJQoa2bi2MMaHva0GUWVyue6ZjPaH35lDkG+4pk5xS8tbkxwAbdBKhz5vFm1lTD9fu56sTqYyBxavSk7cCX1xqcp+CF3fXY9EgE1ymvysWkjE1GQn1ZiNwNq96GCMlyPY/rTGcRat1qWgxpTg9F433e7va/9LrdjlPIqBGhAkqmktn1w3u+YcFD2qN4y5KJofad9+0Oj2ele14tgEhKdNedn9zJLOZyWzStVvl0NvsQ7koHx0fdZjo869TSDWtlGtv7pm1WuIn4ZbIZatbNdVxo7/nt+FmWGlcoqil32vcVog==;3lL4fb53cGe94wPuWdaWmg=="
 ---

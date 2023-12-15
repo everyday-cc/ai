@@ -6,7 +6,7 @@ publishedDateTime: 2023-12-15T00:00:00Z
 originalUrl: "https://www.nanowerk.com/news2/robotics/newsid=64265.php"
 webUrl: "https://www.nanowerk.com/news2/robotics/newsid=64265.php"
 type: article
-quality: 19
+quality: 21
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Robotics
 
 related:
   - title: "Future-ready CHROs: the AI revolution in banking HR"

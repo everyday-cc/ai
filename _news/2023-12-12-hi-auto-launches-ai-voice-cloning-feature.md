@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Broadcast Radio creates AI Voice Links feature built in to Myriad 6"
+    excerpt: "The latest edition of Myriad 6 broadcast software comes complete with an option to put AI voices in between songs instead of humans.AI Voice Links has a set of options built in to include content such as song artists and titles,"
+    publishedDateTime: 2023-12-15T10:02:00Z
+    webUrl: "https://radiotoday.co.uk/2023/12/broadcast-radio-creates-ai-voice-links-feature-built-in-to-myriad-6/"
+    type: article
+    provider:
+      name: RadioToday
+      domain: radiotoday.co.uk
+    quality: 39
+    images:
+      - url: "https://radiotoday.co.uk/wp-content/uploads/2023/12/1000myriad.jpg"
+        width: 1000
+        height: 700
+        isCached: true
   - title: "Hi Auto Debuts New AI Voice Cloning Feature at Lee's Famous Recipe Chicken"
     excerpt: "Hi Auto today announced the launch of its AI voice-cloning feature, which delivers the most personalized voice AI-enabled drive-thru experience. Hi Auto's voice cloning solution enables Quick Service Restaurants (QSRs) to incorporate fully customized voice options into their drive-thru voice AI ordering technology."
     publishedDateTime: 2023-12-12T14:23:00Z

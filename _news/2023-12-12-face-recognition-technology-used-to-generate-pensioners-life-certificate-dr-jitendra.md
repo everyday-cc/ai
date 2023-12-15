@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "McEntee receives Cabinet approval for draft legislation for facial recognition technology"
-    excerpt: "The legislation will allow An Garda Síochána to use biometric identification to retrospectively search CCTV in some circumstances."
-    publishedDateTime: 2023-12-14T00:10:00Z
-    webUrl: "https://www.thejournal.ie/cabinet-approves-draft-legislation-facial-recognition-technology-6248686-Dec2023/"
-    type: article
-    provider:
-      name: TheJournal.ie
-      domain: thejournal.ie
-    quality: 30
-    images:
-      - url: "https://img2.thejournal.ie/article/6248686/river/?height=400&version=6248713"
-        width: 613
-        height: 400
-        isCached: true
   - title: "How should AI developers be addressing ethical issues as they create new technology?"
     excerpt: "In the second hour of \"Connections with Evan Dawson\" on Monday, December 11, 2023, we discuss how AI developers should be addressing ethical issues as they create new technology."
     publishedDateTime: 2023-12-11T19:23:00Z

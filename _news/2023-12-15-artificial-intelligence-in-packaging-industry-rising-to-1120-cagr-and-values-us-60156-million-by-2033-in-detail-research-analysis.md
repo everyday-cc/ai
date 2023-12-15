@@ -6,8 +6,8 @@ publishedDateTime: 2023-12-15T08:08:00Z
 originalUrl: "https://www.fmiblog.com/2023/12/15/artificial-intelligence-in-packaging-industry-rising-to-11-20-cagr-and-values-us-6015-6-million-by-2033-in-detail-research-analysis/"
 webUrl: "https://www.fmiblog.com/2023/12/15/artificial-intelligence-in-packaging-industry-rising-to-11-20-cagr-and-values-us-6015-6-million-by-2033-in-detail-research-analysis/"
 type: article
-quality: 20
-heat: 20
+quality: 22
+heat: 22
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.fmiblog.com/wp-content/uploads/2023/12/Artificial-Intelligence-in-Packaging.jpg"
@@ -39,6 +40,6 @@ related:
         height: 623
         isCached: true
 
-secured: "sKJW5C+n6Pi2sKAtpeSrwTK3KnylMi2d8bS1sjZ4z+SvHmOVKztzuHOk7vfpNewS6fB4XVvy6kJrwphuc5jS3ExXQhQfJOcRAuNdtPPRk/Rn+1JIiw4sTCeAEBTekJ5tlThJDIPByi77YtprheqLsWw23s+Eyi05Tmq+gy9v/yLjdeM/Ep9cnekPUK7wRIpULwjB0YWSOcikqmyyEsnaS9IgPJo4Ee6GNZT6ZyP9fG83f3UOmu2Tmdg2fwx14CYwqXkB0Z8fQ5Z0kzy+Xf7mMGD0GRV9HK972VksbpvoMah02z+6/zvJnRVItPCZfU/ZrV6mgGHgt9+VQNFkL0hJ/C966nuYPKt/onOtu6JqxWs=;vFwNthoER7mJ+hQHBk9g/A=="
+secured: "fukr+pdD72DjeoaxFMjPp82k/SB6k0N/yR7LxXjFz3GN/2Q//JcUewh476Em4TJj9416AFPUoxypBUFi6QmGNEPnG3r17tyft5BUV9yWeM+UqwxRgVql7iXFmAe+DRBN+/Pwp01twQsemqHo5UqtGY7/yTYLdc0Of7RhgIw/rOCkW3e8kD9v0ek0NsNaEbu1dQn3jZwi0RrHJFylG9SFB/5iHg1mRAApHM4JSe8Joq5z/EiTWf0QD/b1A/Z3RRpNO/IFXjp7dAkqhhAKTnp+fiCXV2cBE9ulYWGyJBS+21Xei8gxrDw2yxhyfYWsmQxrXKGHbtkx72Gsd2LCZ9Axa4TTdTdxOlqlnwfeK9XZD8mbQuzdkyUJRzbd1xYBS7qW7XOxsd5udJGdx0e5j3b7qvirEEWv3qVtd9uoSmCDyG4JXWkdg72WntDZSqhz3I1O3RLauUREQh7YRhQSYeDzM5bG4F859MUf+ldM9FYHEP7pSBHBHxRyEP67Zih9/6NXsRo/RfeBLuXSWycwjksZ7Q==;NGvE9e6Sw3tZCahjMfrvEQ=="
 ---
 

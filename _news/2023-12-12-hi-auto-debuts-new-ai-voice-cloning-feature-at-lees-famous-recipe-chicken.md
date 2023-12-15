@@ -33,6 +33,20 @@ related:
         width: 300
         height: 205
         isCached: true
+  - title: "Broadcast Radio creates AI Voice Links feature built in to Myriad 6"
+    excerpt: "The latest edition of Myriad 6 broadcast software comes complete with an option to put AI voices in between songs instead of humans.AI Voice Links has a set of options built in to include content such as song artists and titles,"
+    publishedDateTime: 2023-12-15T10:02:00Z
+    webUrl: "https://radiotoday.co.uk/2023/12/broadcast-radio-creates-ai-voice-links-feature-built-in-to-myriad-6/"
+    type: article
+    provider:
+      name: RadioToday
+      domain: radiotoday.co.uk
+    quality: 39
+    images:
+      - url: "https://radiotoday.co.uk/wp-content/uploads/2023/12/1000myriad.jpg"
+        width: 1000
+        height: 700
+        isCached: true
 
 secured: "rpljlS8GKQlGUla6sO16PBv7qDe1ac0ZV2lHkHkWxVpf1TSh1D1DMigXsQ7xNTpYiUQ6hIG6K2vxvcy5T9eSrqlE7f2TtGMrgo+HJakPCRFHmQMHz5eJ2QKpsfQd6Av2L2hG6BRDq9BrhJXJ7VUNyPlpHbSbNmk7bJRpTnr047WoYEZOR2SIYpgp6EtlVB3Qu6GW9JFz/JwjdV1oeNpmGIEnlYWjRJFIPn7lfBOCWjbN89W012HBwaJ8nDvwQXHuuwgk2q4wpsD2aMsGKGJ2PAFM5VLxywheFL1+acyY3kf5eVSIzbbzmfTvQi77AdQISPHTwHD6Lx/IaAVpkIeY89dOhKqQhmK/Ijc6P1//xkiqkBDTaTrAh48cS9tBuk1aoZLI4g9ft7wQ8THxigeVPhGTq1cB5NAebvPljJyur19zwKvC+P5Wm0H8mpu560n+9fVH0kGn5reDVBjl8EahVAcP6SVRkWINVBTQXEgUsdlCdXa6gFIbBKRyzy7Fy1kwLG6bwdKpO1ri1TsuXFme+Q==;xJH62UrPHew6yoolMnrSNg=="
 ---

@@ -29,16 +29,16 @@ related:
   - title: "Pope fears artificial intelligence's 'technological dictatorship': 'We risk losing control over ourselves'"
     excerpt: "Pope Francis outlined his fears of machine-learning algorithms Thursday in his message for the World Day of Peace. The Catholic leader warned that artificial intelligence can usher in a \"technological dictatorship\" in its users' \"quest for an absolute freedom."
     publishedDateTime: 2023-12-14T22:27:00Z
-    webUrl: "https://komonews.com/news/nation-world/pope-fears-artificial-intelligences-technological-dictatorship-we-risk-losing-control-over-ourselves-francis-catholic-vatican-ai-technology"
-    ampWebUrl: "https://komonews.com/amp/news/nation-world/pope-fears-artificial-intelligences-technological-dictatorship-we-risk-losing-control-over-ourselves-francis-catholic-vatican-ai-technology"
-    cdnAmpWebUrl: "https://komonews-com.cdn.ampproject.org/c/s/komonews.com/amp/news/nation-world/pope-fears-artificial-intelligences-technological-dictatorship-we-risk-losing-control-over-ourselves-francis-catholic-vatican-ai-technology"
+    webUrl: "https://kmph.com/news/nation-world/pope-fears-artificial-intelligences-technological-dictatorship-we-risk-losing-control-over-ourselves-francis-catholic-vatican-ai-technology"
+    ampWebUrl: "https://kmph.com/amp/news/nation-world/pope-fears-artificial-intelligences-technological-dictatorship-we-risk-losing-control-over-ourselves-francis-catholic-vatican-ai-technology"
+    cdnAmpWebUrl: "https://kmph-com.cdn.ampproject.org/c/s/kmph.com/amp/news/nation-world/pope-fears-artificial-intelligences-technological-dictatorship-we-risk-losing-control-over-ourselves-francis-catholic-vatican-ai-technology"
     type: article
     provider:
-      name: komonews
-      domain: komonews.com
+      name: kmph
+      domain: kmph.com
     quality: 39
     images:
-      - url: "https://komonews.com/resources/media/b28a495d-3dcb-451f-a930-ee08185d1a20-large16x9_AP23145537213437.jpg"
+      - url: "https://kmph.com/resources/media/b28a495d-3dcb-451f-a930-ee08185d1a20-large16x9_AP23145537213437.jpg"
         width: 986
         height: 555
         isCached: true

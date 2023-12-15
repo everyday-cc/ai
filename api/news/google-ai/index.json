@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-12-15-google-deepmind-used-a-large-language-model-to-solve-an-unsolvable-math-problem.md",
-      "title": "Google DeepMind used a large language model to solve an unsolvable math problem",
-      "excerpt": "They had to throw away most of what it produced but there was gold among the garbage.",
+      "path": "_news/2023-12-15-deepmind-claims-its-ai-can-tackle-unsolved-mathematics.md",
+      "title": "DeepMind claims its AI can tackle unsolved mathematics",
+      "excerpt": "DeepMind claims its FunSearch model found new answers to an unsolved maths problem, using a method that creates a 'self-improving loop'.",
       "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/12/14/1085318/google-deepmind-large-language-model-solve-unsolvable-math-problem-cap-set/",
-      "originalUrl": "https://www.technologyreview.com/2023/12/14/1085318/google-deepmind-large-language-model-solve-unsolvable-math-problem-cap-set/",
+      "webUrl": "https://www.siliconrepublic.com/machines/deepmind-ai-unsolved-mathematics-hallucinations",
+      "originalUrl": "https://www.siliconrepublic.com/machines/deepmind-ai-unsolved-mathematics-hallucinations",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 146,
       "tags": null,
       "images": [
         {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/12/llm-math1r.jpg?w=3000",
-          "width": 3000,
-          "height": 1688,
+          "url": "https://www.siliconrepublic.com/wp-content/uploads/2023/12/AdobeStock_258774750.jpeg",
+          "width": 800,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/12/14/1085318/google-deepmind-large-language-model-solve-unsolvable-math-problem-cap-set/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/14/1085318/google-deepmind-large-language-model-solve-unsolvable-math-problem-cap-set/amp/",
-      "publishedDateTime": "2023-12-14T16:00:00Z",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-15T10:17:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
+        "name": "SiliconRepublic",
+        "domain": "siliconrepublic.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -139,41 +139,6 @@
         "Google AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-c-suite-exodus-at-tesla-after-dojo-supercomputer-leads-rumored-exit-ai-infra-head-tim-zaman-jumps-ship-to-googles-deepmind.md",
-      "title": "C-Suite Exodus At Tesla? After Dojo Supercomputer Lead's Rumored Exit, AI Infra Head Tim Zaman Jumps Ship To Google's DeepMind",
-      "excerpt": "What Happened: On Friday, Tesla’s AI Infra & AI Platform Engineering Manager Tim Zaman said in a post on X that he is joining Alphabet, Inc. (NASDAQ:GOOGL) (NASDAQ:GOOG) unit DeepMind.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/c-suite-exodus-at-tesla-after-dojo-supercomputer-leads-rumored-exit-ai-infra-head-tim",
-      "originalUrl": "https://www.nasdaq.com/articles/c-suite-exodus-at-tesla-after-dojo-supercomputer-leads-rumored-exit-ai-infra-head-tim",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-10T20:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Autos"
       ]
     },
     {
@@ -1357,6 +1322,58 @@
         "name": "CoinTelegraph",
         "domain": "cointelegraph.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-30-google-deepminds-materials-ai-has-already-discovered-22-million-new-crystals.md",
+      "title": "Google DeepMind’s materials AI has already discovered 2.2 million new crystals",
+      "excerpt": "Google DeepMind has developed a revolutionary AI system that discovered 2 million new materials, unlocking massive potential for innovations in renewable energy, batteries, electronics, and more.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/google-deepminds-materials-ai-has-already-discovered-2-2-million-new-crystals/",
+      "originalUrl": "https://venturebeat.com/ai/google-deepminds-materials-ai-has-already-discovered-2-2-million-new-crystals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/11/MD_FINAL.png?fit=750%2C422&#038;strip=all",
+          "width": 750,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-30T02:06:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

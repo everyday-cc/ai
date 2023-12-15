@@ -33,6 +33,34 @@ related:
         width: 1500
         height: 981
         isCached: true
+  - title: "Google plans to roll out Gemini across all its products"
+    excerpt: "Even Bing is outclassing it, so it has to do something. With the arrival of AI, the search engine Google has found itself in the embarrassing situation of being beaten by Microsoft’s Bing, and now the company says it will roll out its own AI Gemini across nearly its entire line of products."
+    publishedDateTime: 2023-12-15T10:35:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/58119-google-plans-to-roll-out-gemini-across-all-its-products"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 24
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/646ff92d19e9e08ab09b37970c879a6b_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
+  - title: "How to Get the Most Out of Gemini in Google Bard"
+    excerpt: "This guide is designed to show you how to get the most of out Gemini in Google Bard. Google, has recently implemented a significant enhancement to its"
+    publishedDateTime: 2023-12-15T10:00:00Z
+    webUrl: "https://www.geeky-gadgets.com/how-to-get-the-most-out-of-gemini-in-google-bard/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 24
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/Google-Gemini.jpeg"
+        width: 1280
+        height: 721
+        isCached: true
   - title: "Can Alphabet's Gemini AI Catapult Google Ahead in Tech Race?"
     excerpt: "Also Read: Microsoft in High-Level Talks with China: A New Era for AI and Trade Cooperation on the Horizon? Microsoft has been actively integrating OpenAI's ChatGPT into its products, contributing to Azure's growth, while Google Cloud's results have been ..."
     publishedDateTime: 2023-12-14T09:38:00Z
@@ -42,14 +70,14 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 19
-  - title: "How to use Google Gemini in Bard to get the best results"
-    excerpt: "Google has recently updated its AI chatbot, Google Bard, with its new Gemini AI model, which brings a host of enhanced features to improve the user"
-    publishedDateTime: 2023-12-10T11:03:00Z
-    webUrl: "https://www.geeky-gadgets.com/using-google-gemini-in-bard/"
+  - title: "Google Bard Meets the Latest Language Model, Gemini"
+    excerpt: "Gemini, the latest language model of Google and DeepMind is being used by Google Bard, an AI chatbot of Google."
+    publishedDateTime: 2023-12-14T17:06:00Z
+    webUrl: "https://techacute.com/google-bard-meets-the-latest-language-model-gemini/"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
+      name: techacute.com
+      domain: techacute.com
     quality: 4
 
 secured: "ClArpdAXyJW8gPtwxaTv30uJ1RkZF6RT+/PzDkHM38qXyOcEw61bfwOV7/0zCGQLh7GyHcnrQV+DH6nqBV6/PBuIex+Tz11ootJqh2g8XK8vAWK93K50E72o/a//eOvO3cKn5g+npsM8ymosE1kze0zNQkZyvG09ydU+MTiiihOd2ueH9Kg9c7vkF+gkoHZFCtWYoX4F9J/iq2m29m+pnujGTrtYLQpAi0py68kJ5gzCgPHT5QanRn94NaqbU5rv8t0Kp7xRQ15Kl8cRuR6dt735RI/4sPImu9/CNFDgrurHkBIPoaowcadG9tNs1yrmFXywCkYIDRj9K1dvbPQ6BGrzrfyq+mld/YBFDuE9iRdozcfSbn9B14XlWFdGn/fg6gsmNbxWtdWFc0IvFscU7OcH/uk6CRN0MgTXysFjniM/EA50Le2s4V1k65bxd102AOgAbCZyw5hHAp+jLDpC4OuwR3Lhz+RNA0dvlLqIcpTZWUfAfrMROL/EI1DBiUBrnip8nQOJNZARr895wVcS5w==;+KDAKbQhODLCdI1+58CxZA=="

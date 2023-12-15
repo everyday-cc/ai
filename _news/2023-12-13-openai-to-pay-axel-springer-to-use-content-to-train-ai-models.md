@@ -57,6 +57,20 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 47
+  - title: "OpenAI $10M grants for superhuman AI systems research now available"
+    excerpt: "OpenAI has recently announced the launch of a substantial $10M grant program, known as the Superalignment Fast Grants. This ambitious initiative is"
+    publishedDateTime: 2023-12-15T10:02:00Z
+    webUrl: "https://www.geeky-gadgets.com/superhuman-ai-systems/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/superhuman-AI-systems.jpg"
+        width: 1280
+        height: 717
+        isCached: true
   - title: "AI start-up Mistral secures €385m to challenge OpenAI"
     excerpt: "French start-up Mistral is focused on creating open-source AI models and has reportedly hit unicorn status after raising €385m."
     publishedDateTime: 2023-12-11T12:24:00Z

@@ -39,6 +39,20 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "How Intel's new AI-focused PC chips compare with Apple M3"
+    excerpt: "The Intel Core Ultra supports up to 64GB of LPDDR5/LPDDR5X RAM or up to 96GB of DDR5 RAM. However, Apple M3 Max provides up to 128GB of unified memory. Thunderbolt 4 connectivity for speeds of 40Gbps applies to both. While Apple M3 Max supports Wi-Fi 6E standards, Intel chips can handle discrete Intel Wi-Fi 7 connectivity."
+    publishedDateTime: 2023-12-15T10:06:00Z
+    webUrl: "https://www.newsbytesapp.com/news/science/intel-core-ultra-meteor-lake-vs-apple-m3-chip/story"
+    type: article
+    provider:
+      name: newsbytesapp.com
+      domain: newsbytesapp.com
+    quality: 54
+    images:
+      - url: "https://i.cdn.newsbytesapp.com/images/l99420231215153414.jpeg"
+        width: 1920
+        height: 1081
+        isCached: true
   - title: "Intel Core Ultra improves battery & AI for Windows and ChromeOS – here are the first laptops"
     excerpt: "The new build, Intel claims, will see the Core Ultra 7 outpowering the comparable AMD chip, as well as Apple M3 and Qualcomm’s Snapdragon 8cx Gen 3. Intel is also pushing AI pretty hard, with a dedicated NPU on every chip that exists for AI tasks ..."
     publishedDateTime: 2023-12-14T18:16:00Z

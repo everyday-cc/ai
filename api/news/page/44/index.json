@@ -2,6 +2,57 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2023-11-08-xbox-moderation-team-turns-to-ai-for-help-filtering-a-flood-of-user-content.md",
+      "title": "Xbox moderation team turns to AI for help filtering a flood of user content",
+      "excerpt": "Microsoft says many of its Xbox safety systems are now powered by Community Sift, a moderation tool created by Microsoft subsidiary TwoHat. Among the \"billions of human interactions\" the Community Sift system has filtered this year are \"over 36 million\" Xbox player reports in 22 languages,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gaming/2023/11/xbox-moderation-team-turns-to-ai-for-help-filtering-a-flood-of-user-content/",
+      "originalUrl": "https://arstechnica.com/gaming/2023/11/xbox-moderation-team-turns-to-ai-for-help-filtering-a-flood-of-user-content/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2013/07/xbox-trolls.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/gaming/2023/11/xbox-moderation-team-turns-to-ai-for-help-filtering-a-flood-of-user-content/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gaming/2023/11/xbox-moderation-team-turns-to-ai-for-help-filtering-a-flood-of-user-content/amp/",
+      "publishedDateTime": "2023-11-07T22:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-08-how-viome-uses-ai-in-making-precision-nutrition-and-wellness-accessible-to-all.md",
       "title": "How Viome Uses AI In Making ‘Precision Nutrition’ And Wellness Accessible To All",
       "excerpt": "Viome builds at-home tests, shipping direct to its customers, which are designed to help people formulate a better understanding of their health.",
@@ -1185,49 +1236,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-07-microstrategy-one-platform-now-available-in-aws-marketplace-empowering-businesses-with-ai-driven-business-intelligence.md",
-      "title": "MicroStrategy ONE™ Platform Now Available in AWS Marketplace, Empowering Businesses with AI-Driven Business Intelligence",
-      "excerpt": "By bringing together MicroStrategy's powerful generative artificial intelligence (AI) capabilities for business intelligence (BI) and the scalability and reliability of Amazon Web Services (AWS), customers can now access a ready solution for deploying ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/11/b35651432/microstrategy-one-platform-now-available-in-aws-marketplace-empowering-businesses-with-ai-driven-b",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/11/b35651432/microstrategy-one-platform-now-available-in-aws-marketplace-empowering-businesses-with-ai-driven-b",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/35651432",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35651432",
-      "publishedDateTime": "2023-11-07T12:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

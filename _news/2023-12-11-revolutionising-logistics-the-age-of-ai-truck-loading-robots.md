@@ -57,7 +57,7 @@ related:
     provider:
       name: Nanowerk
       domain: nanowerk.com
-    quality: 19
+    quality: 21
 
 secured: "CdKO5dbl8efp+2p3jZk67kC36821mdwnjNwv3mXEwDxMKVoZtn3kyMWLAtJoak61/Mv7HxROO7FtAr9l1jUtZ+HQaLdX8u4rSS9NtJwxm3qCe+tLA55C76q+hhdj4YKsww9Ge7F51BoluWZ6PUbGg3ongmySviRAOpqB1Jzg0HfuiOUE9R7vHd7wmVUMYP2yXBSUUtXZHbteZM7zra4RDZqg+q+mOT9OEudiNWvD/7yvddAHHTv9VNdXkT1UkhYxWUHjk5SZmOa10nrE85VDJQiSinpYEcAPAjaFvnEoYC+P9pbw5EOKubi4QiYrfpE4hLTao/DGsqNF9DSbPn7W43vQIk9P4Fqrg45ZZMnRAPI=;CBAraAPh2GD8v0/yqx7Yfg=="
 ---

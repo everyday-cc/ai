@@ -103,6 +103,20 @@ related:
         width: 1024
         height: 706
         isCached: true
+  - title: "Intel releases its own AI chip"
+    excerpt: "Hopefully, Gaudi3 will not end up under a tram Intel unveiled a new AI computer chip called Gaudi3, hoping to give Nvidia and AMD a run for their money. The most prominent AI models run on Nvidia, like OpenAI's ChatGPT."
+    publishedDateTime: 2023-12-15T10:24:00Z
+    webUrl: "https://www.fudzilla.com/news/pc-hardware/58117-intel-releases-its-own-ai-chip"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/204d096d7a431042de94c608f4a34e24_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
   - title: "Intel’s new chip Gaudi3 competes with Nvidia and AMD"
     excerpt: "Intel launched a range of new products, including Gaudi3, a chip for generative AI software, Core Ultra, a chip for Windows laptops and PCs, and Xeon, a chip for servers."
     publishedDateTime: 2023-12-15T02:52:00Z

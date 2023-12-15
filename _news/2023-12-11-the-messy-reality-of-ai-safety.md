@@ -7,7 +7,7 @@ originalUrl: "https://www.businesstimes.com.sg/opinion-features/messy-reality-ai
 webUrl: "https://www.businesstimes.com.sg/opinion-features/messy-reality-ai-safety"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "The Disruption of AI in CTE Is Real"
+    excerpt: "Any CTE program needs to focus on preparing students for the workforce in which AI will be essential. This is the biggest technological shift since the creation of the internet, a"
+    publishedDateTime: 2023-12-15T10:00:00Z
+    webUrl: "https://www.techlearning.com/news/the-disruption-of-ai-in-cte-is-real"
+    type: article
+    provider:
+      name: techlearning
+      domain: techlearning.com
+    quality: 39
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/ULPQdGutneDfwZYZPNUond-1200-80.jpg"
+        width: 640
+        height: 350
+        isCached: true
 
 secured: "E6pI0ZTWSPrBbihZ40FlV5MOJSB5M8HDR2asUoe4HINDM98lxlS1X9hTdYzoWZImfhjcwulpni89lp9DxnKx6IFJLpdEphhnIyBurQgDPSWzumzte/hitJr+kLyU+rG7ssPFMMRQBJA7huq7KE0zi5jmI5Mecbwh4uZzQUu+nk3ngJ8oYODxZBwqrqjmdzreJ24qNL5phFi0VQdChoBLZK3gr/fZ3WIcfMRYXi6bOaKbENGG+RyDjJkpCmeX19/RoziHrIpb2zhTrTPrw7W3CDEIDzanAtYikWv7JeKIOUN7jiT+0Y7yJq/hp3KtOV/dwblaScZBS5fAPTOvNeGao7oRnxuA61R7FLIXpA6u3LpI9n4Lttnq+2VRooKj4xNhEfzA1eLVU5HoAfpaD1rbo5GqqGdTojoW940VL51OWEFTkCgTHiKL+QfuLW4CgrY6+LD4dhkaBQlVKEsfDtEHYsmAEondyfttJ94/bgmA05BDWAh1/Ts0TaD2roYwSj7WqIaC49/Yf7WwpnpBk0f3KA==;YUZcdhdlbSgDZxdfv18URQ=="
 ---
