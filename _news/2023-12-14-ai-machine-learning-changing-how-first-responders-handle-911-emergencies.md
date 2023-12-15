@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Technologies like artificial intelligence are changing our understanding of war"
-    excerpt: "Technologies such as autonomous weapon systems (AWS) and cyberweapons have the potential to change conflicts and combat forever."
-    publishedDateTime: 2023-12-11T14:27:00Z
-    webUrl: "https://www.canadianmanufacturing.com/features/technologies-like-artificial-intelligence-are-changing-our-understanding-of-war/"
+  - title: "Massage therapy students offer free massages for first responders"
+    excerpt: "Massage therapy students at MacEwan University offered free massages to 70 local first responders at their clinic on campus this December."
+    publishedDateTime: 2023-12-13T18:33:00Z
+    webUrl: "https://edmonton.ctvnews.ca/massage-therapy-students-offer-free-massages-for-first-responders-1.6685638"
     type: article
     provider:
-      name: Canadian Manufacturing
-      domain: canadianmanufacturing.com
-    quality: 35
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 39
     images:
-      - url: "https://www.canadianmanufacturing.com/wp-content/uploads/2021/06/file-20210614-73420-1p549ga.png"
-        width: 1000
-        height: 667
+      - url: "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2023/12/13/massage-therapy-program-1-6685666-1702489200980.png"
+        width: 1020
+        height: 574
         isCached: true
 
 secured: "Zkhd2qzT93Ofw5n64omEr133bSYMvAMM/u3Chd1u3LAI81kSYqEck5y3RIQ76XpWaTyvVu1iS2fQdizO+ZRu/xOaXauITuoIzZQycjO5xl+SCB7cMJrLT3dTyoECOcMjxw7KbFhEwctSodHlc0tbZn5hiNWx6+f9A0HGXsywjj/ImAR8CFXUkzzagLRlSJK9wlUAgAdWIk0UAu77cPjMt8x+0EmrJx4FQlerzGIf/+BtaBdWTkibt2jQnxF5LGRjch44Fn4+8cr2XRVTeZXzthtlv1tW+u+6vhXqgcFaufmlhBpgr9u7FhqGGUvCE9JLKOStReXUMFdpxn6zqKfG2+CZtzUvoYFRYk2LO7edAiY3yLhojAXqcL9jPPXVd3sqaK6QY/+YmO0RkuZNRaIIovUSvCckNmtimfaQFwnaj1MEByv1RrX+/8x5t85cZ3kubWA5Cz8wFvytlVX50Z01pVqpLLWCHtFnsftKY92k6JBsPGMqZz7sVh8lKDwG4A2LOJs66+wNQvX9epHFsOgkqw==;agwFjLj3RQx1z/WozhkkIw=="

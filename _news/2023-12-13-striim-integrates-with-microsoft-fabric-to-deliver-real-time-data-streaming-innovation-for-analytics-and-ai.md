@@ -25,196 +25,81 @@ images:
     isCached: true
 
 related:
-  - title: "Alphabet Needs to Show Path to AI Sales in Race With Microsoft"
-    excerpt: "“The whole business model depends on getting this right,” said Gene Munster, co-founder and managing partner at Deepwater Asset Management, whose firm holds the stock. “If they can nail multi-modal generative AI, that will draw usage to Google, and that increased usage will protect and grow the search business.”"
-    publishedDateTime: 2023-12-15T01:46:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/alphabet-needs-to-show-path-to-ai-sales-in-race-with-microsoft-71702574596587.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/alphabet-needs-to-show-path-to-ai-sales-in-race-with-microsoft-71702574596587.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/alphabet-needs-to-show-path-to-ai-sales-in-race-with-microsoft-71702574596587.html"
+  - title: "The New Frontier In Workplace Safety: Data Analytics And AI"
+    excerpt: "Explore how data and AI are driving innovations in safety protocols, preventing accidents, and enhancing workplace productivity."
+    publishedDateTime: 2023-12-15T05:35:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/12/15/the-new-frontier-in-workplace-safety-data-analytics-and-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/12/15/the-new-frontier-in-workplace-safety-data-analytics-and-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/12/15/the-new-frontier-in-workplace-safety-data-analytics-and-ai/amp/"
     type: article
     provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 91
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://images.hindustantimes.com/tech/img/2023/12/15/1600x900/USA-CHIPS-ALPHABET-0_1663336524425_1663336524425_1702604579880.JPG"
-        width: 1600
+      - url: "https://imageio.forbes.com/specials-images/imageserve/657bf3cfe410bdbccbb7d190/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1599
         height: 900
         isCached: true
-  - title: "Microsoft Explores Using Liquids to Cool AI Chips"
-    excerpt: "Without cool air constantly blowing through the racks of computers, the advanced chips would cook themselves. The cost of running enough fans and air conditioners to keep this from happening is leading chipmakers and data center operators to find ..."
-    publishedDateTime: 2023-12-14T12:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-12-14/microsoft-explores-using-liquids-to-cool-ai-chips"
+  - title: "M2P Fintech acquires data analytics and intelligence platform Goals101"
+    excerpt: "Chennai-based financial infrastructure provider M2P Fintech has acquired big data analytics and intelligence platform Goals101."
+    publishedDateTime: 2023-12-13T18:24:00Z
+    webUrl: "https://www.thehindu.com/news/national/tamil-nadu/m2p-fintech-acquires-data-analytics-and-intelligence-platform-goals101/article67635358.ece"
+    ampWebUrl: "https://www.thehindu.com/news/national/tamil-nadu/m2p-fintech-acquires-data-analytics-and-intelligence-platform-goals101/article67635358.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/tamil-nadu/m2p-fintech-acquires-data-analytics-and-intelligence-platform-goals101/article67635358.ece/amp/"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 81
-  - title: "Tech Trends: Microsoft to Introduce AI to Many Government Workers"
-    excerpt: "With Azure OpenAI Service, we are enabling our customers to gain access to all of the latest models from our partner OpenAI, like GPT-4 Turbo, and do more to engage and leverage their own data. Our enterprise AI tools provides the same role-based security ..."
-    publishedDateTime: 2023-12-11T17:36:00Z
-    webUrl: "https://statetechmagazine.com/article/2023/12/tech-trends-microsoft-introduce-ai-many-government-workers"
-    ampWebUrl: "https://statetechmagazine.com/article/2023/12/tech-trends-microsoft-introduce-ai-many-government-workers?amp"
-    cdnAmpWebUrl: "https://statetechmagazine-com.cdn.ampproject.org/c/s/statetechmagazine.com/article/2023/12/tech-trends-microsoft-introduce-ai-many-government-workers?amp"
-    type: article
-    provider:
-      name: Statetechmagazine
-      domain: statetechmagazine.com
-    quality: 74
+      name: The Hindu
+      domain: thehindu.com
+    quality: 44
     images:
-      - url: "https://statetechmagazine.com/sites/statetechmagazine.com/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202312/GettyImages-1485546309.jpg?itok=fyQGX9CX"
-        width: 1440
-        height: 500
-        isCached: true
-  - title: "Microsoft, AFL-CIO Reach Deal on AI, Labor Neutrality"
-    excerpt: "Microsoft has a major partnership with ChatGPT maker OpenAI and committed to pumping more than $10 billion into the startup. Surging popularity of so-called generative AI, which uses data to create new content like ChatGPT's human-sounding prose, could remake human society and make obsolete many jobs."
-    publishedDateTime: 2023-12-11T14:03:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-12-11/microsoft-afl-cio-reach-deal-on-ai-labor-neutrality"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 64
-  - title: "Microsoft Agrees to Union Contract Terms Governing Its Use of AI"
-    excerpt: "Microsoft Corp. has agreed to union contract language governing its use of artificial intelligence, creating an avenue for workers to challenge how it deploys the evolving technology."
-    publishedDateTime: 2023-12-11T11:59:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-12-11/microsoft-agrees-to-union-contract-terms-governing-its-use-of-ai"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 64
-  - title: "Microsoft Copilot: tips and tricks for using AI in Windows"
-    excerpt: "Windows Copilot is a useful tool for augmenting your Windows experience, but with these tips and tricks you can make it even better."
-    publishedDateTime: 2023-12-13T19:19:00Z
-    webUrl: "https://www.digitaltrends.com/computing/tips-tricks-windows-copilot/"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 64
-  - title: "Microsoft drastically expands Azure AI Studio to include Llama 2 Model-as-a-Service, GPT-4 Turbo with Vision"
-    excerpt: "Today, the company announced that it is making Meta Platforms’ rival open-sourced AI model Llama 2 available in Azure AI Studio, its cloud platform AI clearinghouse, in the form of a “model-as-a-service.” Similar to the now old acronym of SaaS ..."
-    publishedDateTime: 2023-12-14T11:52:00Z
-    webUrl: "https://venturebeat.com/ai/microsoft-drastically-expands-azure-ai-studio-to-include-llama-2-model-as-a-service-gpt-4-turbo-with-vision/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 62
-  - title: "AMD Is Set To Challenge Nvidia's Dominance And Amazon Is Going After Microsoft's Early-Start AI Advantage"
-    excerpt: "According to analysts, Nvidia Corporation (NASDAQ: NVDA) controls roughly 80% of the AI chip market, when including the custom processors built by companies such as Alphabet (NASDAQ: GOOG)-owned Googl"
-    publishedDateTime: 2023-12-11T18:23:00Z
-    webUrl: "https://www.benzinga.com/23/12/36183243/amd-is-set-to-challenge-nvidias-dominance-and-amazon-is-going-after-microsofts-early-start-ai-advant"
-    ampWebUrl: "https://www.benzinga.com/amp/content/36183243"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36183243"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 57
-    images:
-      - url: "https://cdn.benzinga.com/files/10163_0.jpg?width=1200&height=800&fit=crop"
+      - url: "https://th-i.thgim.com/public/news/national/tamil-nadu/rszzy3/article67635811.ece/alternates/FREE_1200/WhatsApp%20Image%202023-12-13%20at%2011.51.17%20PM.jpeg"
         width: 1200
-        height: 800
+        height: 421
         isCached: true
-  - title: "Microsoft releases Phi-2, a small language model AI that outperforms Llama 2, Mistral 7B"
-    excerpt: "Microsoft researchers also noted in their blog post on the Phi-2 release that it outperforms Google's brand new Gemini Nano 2 model."
-    publishedDateTime: 2023-12-12T18:01:00Z
-    webUrl: "https://venturebeat.com/ai/microsoft-releases-phi-2-a-small-language-model-ai-that-outperforms-llama-2-mistral-7b/"
+  - title: "How will AI and analytics keep people healthy, safe and thriving in 2024?"
+    excerpt: "\"The rise of AI and analytics will continue to transform the government workforce, including in public safety. In 2024, law enforcement will see a turning point in hiring 'digital natives' who embrace and demand technology to protect, defend and serve citizens.\""
+    publishedDateTime: 2023-12-14T15:12:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-how-will-ai-analytics-keep-people-healthy-safe-/2023/12/14/9934437.htm"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 57
-  - title: "Microsoft and labor unions form ‘historic’ alliance on AI"
-    excerpt: "Microsoft is teaming up with labor unions to create 'an open dialogue' on how artificial intelligence will affect workers."
-    publishedDateTime: 2023-12-11T17:51:00Z
-    webUrl: "https://www.latimes.com/business/story/2023-12-11/microsoft-and-labor-unions-form-historic-alliance-on-ai"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 54
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 38
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/c303384/2147483647/strip/true/crop/2000x1050+0+218/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd9%2Fc8%2F51d3b04f402cbe775fac74266e80%2Fmicrosoft-openai-75424.jpg"
-        width: 1200
-        height: 630
+      - url: "https://mma.prnewswire.com/media/2300205/SAS_newswire_Gov_HC.jpg"
+        width: 400
+        height: 267
         isCached: true
-  - title: "Autopilot's new AI integrates into Microsoft Teams and Copilot"
-    excerpt: "AI-powered, format-agnostic document data extraction allows ... They were an early adopter into Microsoft Azure, building straight into the cloud as early as 2014, while competitors were still battling with on-prem solutions. They were also early adopters ..."
-    publishedDateTime: 2023-12-14T00:01:00Z
-    webUrl: "https://www.bizcommunity.com/Article/196/542/244643.html"
+  - title: "U of T’s Data Sciences Institute Empowers Workforce with Training in Data Analytics and Applied Machine Learning"
+    excerpt: "A new training initiative launched by the University of Toronto’s Data Sciences Institute (DSI), an institutional strategic initiative, is helping Canada meet its growing need for talent in data science and machine learning."
+    publishedDateTime: 2023-12-10T22:06:00Z
+    webUrl: "https://indiaeducationdiary.in/u-of-ts-data-sciences-institute-empowers-workforce-with-training-in-data-analytics-and-applied-machine-learning/"
+    ampWebUrl: "https://indiaeducationdiary.in/u-of-ts-data-sciences-institute-empowers-workforce-with-training-in-data-analytics-and-applied-machine-learning/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/u-of-ts-data-sciences-institute-empowers-workforce-with-training-in-data-analytics-and-applied-machine-learning/"
     type: article
     provider:
-      name: Bizcommunity
-      domain: bizcommunity.com
-    quality: 54
-    images:
-      - url: "https://biz-file.com/c/2312/722697-848x441.jpg?2"
-        width: 848
-        height: 441
-        isCached: true
-  - title: "Microsoft is training AI to accelerate regulatory process for nuclear projects"
-    excerpt: "Microsoft is reportedly eyeing nuclear power for its AI operations. Microsoft stock is currently up close to 60% versus year start."
-    publishedDateTime: 2023-12-12T17:39:00Z
-    webUrl: "https://invezz.com/news/2023/12/12/microsoft-training-ai-nuclear-regulatory-process/"
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 35
+  - title: "Adastra Launches New Analytics and Insights for Sustainability Framework in AWS Marketplace"
+    excerpt: "Adastra Group (also known as Adastra Corporation), a global leader in cloud, data and artificial intelligence (AI) solutions and services, today announced the launch of its innovative Cloud Analytics Solution,"
+    publishedDateTime: 2023-12-14T16:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231214298446/en/Adastra-Launches-New-Analytics-and-Insights-for-Sustainability-Framework-in-AWS-Marketplace"
     type: article
     provider:
-      name: Invezz
-      domain: invezz.com
-    quality: 52
-    images:
-      - url: "https://invezz.com/wp-content/uploads/2023/12/139137294-m-normal-none-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Microsoft’s Phi-2: a small AI model that competes with LLMs from Google, Meta"
-    excerpt: "A compact AI model with outputs that rival those of LLMs from Meta and Google. That's the promise Microsoft is making with its newly announced Phi-2, a"
-    publishedDateTime: 2023-12-13T11:31:00Z
-    webUrl: "https://www.techzine.eu/blogs/applications/114310/microsofts-phi-2-a-small-ai-model-that-competes-with-llms-from-google-meta/"
+      name: Business Wire
+      domain: businesswire.com
+    quality: 24
+  - title: "Adastra Group: Adastra Launches New Analytics and Insights for Sustainability Framework in AWS Marketplace"
+    excerpt: "\"We are thrilled to unveil our latest sustainability solution in AWS Marketplace,\" said Dr. Johannes Mellenthin ... At the forefront of artificial intelligence, data, cloud, digital and governance services, Adastra delivers solutions to enterprises ..."
+    publishedDateTime: 2023-12-14T12:06:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-12/60926432-adastra-group-adastra-launches-new-analytics-and-insights-for-sustainability-framework-in-aws-marketplace-004.htm"
     type: article
     provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 51
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2022/12/Microsoft_unsplash.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
-  - title: "Microsoft Research Debuts Phi-2, New Small Language Model"
-    excerpt: "Phi-2 is a generative AI model with 2.7 billion-parameters used for research and development of language models. While large language models can reach hundreds of billions of parameters, Microsoft Research is experimenting with small language models in ..."
-    publishedDateTime: 2023-12-13T20:53:00Z
-    webUrl: "https://www.techrepublic.com/article/microsoft-phi-2-ai/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 51
-  - title: "Microsoft Believes Indian Tech Firms Will Play A Key Role In AI Development, Adoption Globally"
-    excerpt: "The world's largest vendor of computer software, Microsoft is working with India's IT and ITeS companies in multiple markets to facilitate AI implementation."
-    publishedDateTime: 2023-12-12T06:46:00Z
-    webUrl: "https://www.ibtimes.co.uk/microsoft-believes-indian-tech-firms-will-play-key-role-ai-development-adoption-globally-1722131"
-    type: article
-    provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 42
-    images:
-      - url: "https://d.ibtimes.co.uk/en/full/1717954/microsoft.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
-  - title: "Microsoft homegrown AI model can run on smartphones, laptops"
-    excerpt: "Google brought its AI model Gemini Nano to the Pixel 8 Pro. Microsoft released Phi-2, a small language model that outperforms Meta Llama 2. Phi-2 requ"
-    publishedDateTime: 2023-12-13T14:24:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-homegrown-ai-model-can-run-on-smartphones-laptops/articleshow/105967667.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 36
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 16
   - title: "Striim Integrates with Microsoft Fabric to Deliver Real-Time Data Streaming Innovation for Analytics and AI"
     excerpt: "Striim, an industry leader in real-time data integration and streaming, is excited to announce its integration with"
     publishedDateTime: 2023-12-13T18:51:00Z
@@ -224,15 +109,6 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 16
-  - title: "Startup Mesh Ai launches ‘first AI-enabled’ workplace mental health solution for Microsoft Teams and Microsoft 365"
-    excerpt: "Australian startup Mesh Ai has announced the release of Simpatico Teams, a “pioneering AI-driven mental health application” for Microsoft Teams, Microsoft 365 and Copilot for Microsoft 365. Mesh Ai says the application ”will help employers better manage the growing psychological challenges of the"
-    publishedDateTime: 2023-12-14T13:29:00Z
-    webUrl: "https://itwire.com/business-it-news/enterprise-solutions/startup-mesh-ai-launches-‘first-ai-enabled’-workplace-mental-health-solution-for-microsoft-teams-and-microsoft-365.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 12
 
 secured: "tM00f6ImMy0HzzC5Fpf5ikOmBajMeTqBTBYqolBCCzDVzegR2zpV8XlnNySr8M/rJEV/BZuej+DMkf5stsUTbaSKtMOyEZmt8i3LnOaQCvJdKLGNuCzF8vtlZuVwyO5MhDwP1CMTczUXfB9nqHPpKv/nt4sR0Rf180Dbv3AztL8jcyhhd/cKCf3rxZrXjMe6TTahok25LVYA5AOHYbJ2NrS6+W0rWrQQj93F4VpwBj2vZoX3gS5xGwYuu6BSRi+q+A2gt+9VeGAwWDNadOEa7SC2WDKnfxfEt1Fqv+Bz0iHEqV7vcuqK+IwnZr8OWw4386b6BzLogsaNzeOWzqofNY8g4P3eKJyvXaYbCU0zHTw=;Ev/VSQl/6bLgUH0FKG97tA=="
 ---

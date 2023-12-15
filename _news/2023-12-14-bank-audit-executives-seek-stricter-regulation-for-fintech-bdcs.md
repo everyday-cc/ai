@@ -33,15 +33,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Sanlam Fintech Cluster Assembles Global Talent For Executive Team"
-    excerpt: "Sanlam, the largest non-banking financial services group in Africa, has recently launched its cutting-edge fintech business cluster. Led by a globally competitive exco team, Sanlam Fintech represents a strategic move within the Sanlam Group to expand its existing fintech offerings and ensure that all aspects of the $8-billion (R143-billion) listed corporation's services are digitally-driven."
-    publishedDateTime: 2023-12-13T14:05:00Z
-    webUrl: "https://techfinancials.co.za/2023/12/13/sanlam-fintech-cluster-assembles-global-talent-for-executive-team/"
-    type: article
-    provider:
-      name: techfinancials
-      domain: techfinancials.co.za
-    quality: 4
 
 secured: "lQNiGIhHXYVythRWa/ZLcl3KKXgM8DW8xmNG73M9iSpOLkFikFcnn5P1qcbeWNIFenzASgd7GV97Y81Sd3ag0ARMIoNmpYTd3S9KfpHFkr0SSX+G2sukmu0oMnrR3+LFp1PGfixKq1U/vrhRRGhhZU9GVFtMhn/bsC8LkxNE/LTMUkMb2MDgvPCk2zHnhP3zt9aSdov5GS4UTO2ICF/2G/xQ5TrUTwHPfHk6XfucEML+gb+6hl69ZgdXxdEMJhPegjYI/bq4YCpT1lZ9aJwfuf2AC2BFO1hLyaas/1nCB8Be4/ASPtIChrnAB3gl6Wgj9rCr7dYp/5H3Hcky40d1r2IQ3heR2AuBoLKVW+ErCLXBZ4bVibAmEqbotpZ7kzrtu6HNiP0jZkfquryL0Fxmr7uur0HzRw91P9cVSRnB9mLTmDUnB+AB/kYNhrL8frNMk5Xj4ZdPt14nMUVKn55UpYN1tQ9aJoJewCufCBeivBURKkjSucGaWAotdfZsqzZRPBbOqGCeB2+h+TM2A/T3Ig==;/XRbEwWrFrqCeCpRNMyKuw=="
 ---

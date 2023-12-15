@@ -63,6 +63,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Samsung Introduces New PC Series 'Galaxy Book4' Powered By AI"
+    excerpt: "Samsung on Friday introduced its new PC series Galaxy Book4 powered by artificial intelligence (AI), which includes -- Boo"
+    publishedDateTime: 2023-12-15T06:50:00Z
+    webUrl: "https://menafn.com/1107601339/Samsung-Introduces-New-PC-Series-Galaxy-Book4-Powered-By-AI"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?53412"
+        width: 395
+        height: 250
+        isCached: true
   - title: "Samsung Galaxy Buds 3 Pro Will Offer Live Language Translation Powered With AI"
     excerpt: "Samsung is actively developing the highly anticipated Galaxy Buds 3 Pro, touted to feature built-in on-device artificial intelligence (AI).  Set to hit shelves in late 2024, these next-generation earbuds are expected to elevate user experiences with native AI capabilities,"
     publishedDateTime: 2023-12-13T00:11:00Z

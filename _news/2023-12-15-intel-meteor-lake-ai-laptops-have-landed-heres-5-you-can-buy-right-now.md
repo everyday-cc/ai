@@ -7,7 +7,7 @@ originalUrl: "https://www.tomsguide.com/opinion/intel-meteor-lake-ai-laptops-hav
 webUrl: "https://www.tomsguide.com/opinion/intel-meteor-lake-ai-laptops-have-landed-heres-5-you-can-buy-right-now"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Intel Meteor Lake has arrived: Here’s what these new ‘AI laptops’ can do"
+    excerpt: "So when Intel promotes these new Meteor Lake-powered laptops as \"AI laptops,\" what they're trying to convey is that these laptops have a special processor dedicated to the kind of work that AI tasks often demand."
+    publishedDateTime: 2023-12-15T06:00:00Z
+    webUrl: "https://www.tomsguide.com/news/intel-meteor-lake-has-arrived-heres-what-these-new-ai-laptops-can-do"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 38
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/huhf9bmqx4vKVRm5HbD2hZ-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "MqAkAAew4fxXDN5IiIZr4r2yWDbhbVu2FzxGdkn8xcQrSxUCtN316SBiUitwGQwvSAHKlGDFZwkSukH8O851F1dbdr9sJfmC4S4Y2CeUVgohV6fZSf0n9kgrqv9vx5D3brebLwkhi8Qdg1DJElKdGGjGyttf0sO9zR+g/Cjr/CcrFzGmD5qhF2tlJWvFRmjAhTNVFxPgGfCcCPfaKOo/kfgsP3pXfFluigaY6YJEyentEZJ8SYQkGmrgWSxHldtPbfKwDe+HWpK/NRIWUKG/T8lU4B34Dc0381tUlPnRR8LMQw4AMvhUMKsjOILUGcv90083H6B/UHBYMZB59i9Sx70IdQ1/lJMv5tvmA1tHlsQ=;Swq85uHOAGq2RHNM+54DXw=="
 ---

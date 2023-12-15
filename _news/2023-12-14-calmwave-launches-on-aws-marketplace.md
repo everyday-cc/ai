@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Adastra Launches New Analytics and Insights for Sustainability Framework in AWS Marketplace"
-    excerpt: "Adastra Group (also known as Adastra Corporation), a global leader in cloud, data and artificial intelligence (AI) solutions and services, today announced the launch of its innovative Cloud Analytics Solution,"
-    publishedDateTime: 2023-12-14T16:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231214298446/en/Adastra-Launches-New-Analytics-and-Insights-for-Sustainability-Framework-in-AWS-Marketplace"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 24
   - title: "CalmWave Launches on AWS Marketplace"
     excerpt: "CalmWave, the company leveraging artificial intelligence (AI) to bring Operations Health to hospitals, today announced its availability in the AWS Mar"
     publishedDateTime: 2023-12-13T15:14:00Z
@@ -37,15 +28,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 19
-  - title: "Adastra Group: Adastra Launches New Analytics and Insights for Sustainability Framework in AWS Marketplace"
-    excerpt: "\"We are thrilled to unveil our latest sustainability solution in AWS Marketplace,\" said Dr. Johannes Mellenthin ... At the forefront of artificial intelligence, data, cloud, digital and governance services, Adastra delivers solutions to enterprises ..."
-    publishedDateTime: 2023-12-14T12:06:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-12/60926432-adastra-group-adastra-launches-new-analytics-and-insights-for-sustainability-framework-in-aws-marketplace-004.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 16
 
 secured: "fdR0GUbe0H00DNEsCozRxXf/raOYEKN8ot6wInSnKQoiY1HweTMZ2WJj9xo2oshD50az0+xHyE3PueGyr2J6r3En1jJtifJGA4qQZu+3dYRDXwSq1Er/+vi4k0J4L4MOMumztctOY5x80C9506VNIA7VLnkZu1YQYX0rbSJaa0ot1cOPtK5p0X/lL9Vm7XI8MYZ5eO1sWdDs8sPA5EoSO22PD0N5d+D94lDXv1zMjzx5uqKWlfYDtag3kF2Ga1LSEPHCS2aiOMgDlxMhHPvoce8G/fEiNaFWhzKBcXK6cFz/DVrd/I3GJKYMV/0HSRb6J3FMal0Mt2Tw5m9wdyEU7KIlupK5u1Q2BcbiBcQZPM6b2lEzmwXr7JX5H5A3EFIiIO4D9Al3zwgIWvl369WNe3EMkSd165iDTNmx7BLnl5VTR+nIdLECYdXg1Vqp75IP6u3hqzdArjo+1UF9UQ5tieysUYeWYNZ748JYl5b8cTxBxYChdcdOqHJikjOoTJsvcz2q6a7v8UFXX63BOMaw2w==;8SQmktAJqUsAlRxqqWu0cw=="
 ---

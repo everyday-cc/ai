@@ -33,36 +33,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "Create new ways to serve your mission with Microsoft Azure Space"
-    excerpt: "As customers and partners have adopted and experimented with the Azure Space portfolio, new and interesting use cases are emerging that illustrate what’s possible. Today, we are excited to share some of those customer stories, along with updates for Azure Orbital Ground Station, Azure Orbital’s software"
-    publishedDateTime: 2023-12-11T17:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/create-new-ways-to-serve-your-mission-with-microsoft-azure-space/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 104
-    images:
-      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/12/MDC22_AzureOrbitalGroundStation_032-social.jpg"
-        width: 943
-        height: 628
-        isCached: true
-  - title: "Fortifying confidential computing in Microsoft Azure"
-    excerpt: "Hardware-backed confidential computing in Microsoft Azure now includes protected environments for VMs, containers, and GPUs, without the need to write specialized code."
-    publishedDateTime: 2023-12-14T10:00:00Z
-    webUrl: "https://www.infoworld.com/article/3711680/fortifying-confidential-computing-in-microsoft-azure.html"
-    ampWebUrl: "https://www.infoworld.com/article/3711680/fortifying-confidential-computing-in-microsoft-azure.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711680/fortifying-confidential-computing-in-microsoft-azure.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 104
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/07/protected_padlock_with_checkmark_amid_encrypted_data_cybersecurity_data_security_encryption_by_matejmo_gettyimages-872829036_cso_nw_2400x1600-100853298-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Oracle Announces the General Availability of Oracle Database@Azure"
     excerpt: "Oracle database services running on Oracle Cloud Infrastructure are deployed directly in Microsoft Azure datacenters AUSTIN, Texas, Dec. 13, 2023"
     publishedDateTime: 2023-12-13T13:26:00Z
@@ -132,15 +102,6 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 34
-  - title: "8 Key Announcements At Microsoft Ignite 2017"
-    excerpt: "Microsoft Cognitive Services Updates Microsoft said that its collection of APIs for AI capabilities, Cognitive Services, has received some enhancements that developers should find useful."
-    publishedDateTime: 2023-12-10T05:17:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/300092651/8-key-announcements-at-microsoft-ignite-2017"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 19
 
 secured: "wYrQcGowSvqwJx51LCbd8gvzQ3C0eWdTjwGTWg6Utuk5iNAHBz+Sc6aOWvhpYCI2EC9qbVEt9EiGJ0U2VgZP/ZMZtuKDJuxRCMf0QFvZeFFb9dKm5v7tg1/C/DVaNIg9wZ8nsuxE43vyTpqxaQ6aD3vbwhrudUDYiMjc7WZXPi6VYu5zEEuxMoya1TAuNSUowHl0PSlI4OPNv6ux4CwZMaYGZqG/bvVCAIoZgIAaU/KS5/z7CgckT65aHAPaf3ldtOnHjBVl0RuAE5Eq7c2DTfxUPWFDPi3Atv+9zBkLKvsCI8djnKmnIGnp7X5dJTMRr7+Dh4PLKKGb+lXe0O3LUMg7+AipOrW50TNnoa7HDYqtMQCCpnk5MKPjPH42hcty4jvBcjZqZmPiUnh0FDvQuPaqvpCNSCGUBQ6cHaWURmMRLL4oy6EvEytZGmK9sF8DJwfWg3h1C1yBRCa689ZyyvrllAR3O/6IdEqrnJuH3ohu20kwUewLI2Jfo3xii1A7qNa7wgqdjkv8ZKCRK27I6Q==;upmY61xPSfP+E071csSeJQ=="
 ---

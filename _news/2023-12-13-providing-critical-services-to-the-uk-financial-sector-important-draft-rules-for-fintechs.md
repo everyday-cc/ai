@@ -34,15 +34,6 @@ related:
       name: The Punch Newspapers
       domain: punchng.com
     quality: 19
-  - title: "Sanlam Fintech Cluster Assembles Global Talent For Executive Team"
-    excerpt: "Sanlam, the largest non-banking financial services group in Africa, has recently launched its cutting-edge fintech business cluster. Led by a globally competitive exco team, Sanlam Fintech represents a strategic move within the Sanlam Group to expand its existing fintech offerings and ensure that all aspects of the $8-billion (R143-billion) listed corporation's services are digitally-driven."
-    publishedDateTime: 2023-12-13T14:05:00Z
-    webUrl: "https://techfinancials.co.za/2023/12/13/sanlam-fintech-cluster-assembles-global-talent-for-executive-team/"
-    type: article
-    provider:
-      name: techfinancials
-      domain: techfinancials.co.za
-    quality: 4
 
 secured: "PXQsPbC5hl7c3gdZUajFKGqX76RQPjwvo9khl4JI/LrGORxKAWRuzu2ox7k3OZj4y20V2AuDwbirr4wpvvl4wlmdXwUx1fjRIYPgsX29JwPQoudv3z1SuKf4IWtR49kUF1USfwRVJJ39SbydCy9fZWSgLdCWQ18EHlxpJkYyUL1OVqF2fkN/EMREQ9qmmOHSMSTbUU/RyFmfPIv3eWVUI+lJro1G7ERVZV2fRwlTcP6xzzB/yiah7BU4sIip365ASqQDieRXvV0ejdow3mP/OLpOGkz5n4pfqcVWWoN74jkIsKwEoTOSMa/czZvsO+ksbOgnx3mZkxDekvsydhSdXPkZPDJUJDgzGwxIxxZ8SOE=;pLNJhOTi5Aj1g7cclq3xKw=="
 ---

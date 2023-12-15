@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/phones/samsung-galaxy-phones/the-samsung
 webUrl: "https://www.techradar.com/phones/samsung-galaxy-phones/the-samsung-galaxy-s24-could-borrow-the-pixel-8s-best-ai-features"
 type: article
 quality: 69
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/EQZ5xegDyphTu6QZFVm9yP-1200-80.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Samsung Introduces New PC Series 'Galaxy Book4' Powered By AI"
+    excerpt: "Samsung on Friday introduced its new PC series Galaxy Book4 powered by artificial intelligence (AI), which includes -- Boo"
+    publishedDateTime: 2023-12-15T06:50:00Z
+    webUrl: "https://menafn.com/1107601339/Samsung-Introduces-New-PC-Series-Galaxy-Book4-Powered-By-AI"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?53412"
+        width: 395
+        height: 250
         isCached: true
   - title: "Samsung Galaxy Buds 3 Pro to get on-device AI for live translation: Report"
     excerpt: "The Galaxy Buds 3 Pro would likely include real-time translations for in-person conversations among its core AI features"

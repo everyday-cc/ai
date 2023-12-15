@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/news/national/tamil-nadu/m2p-fintech-acquir
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/tamil-nadu/m2p-fintech-acquires-data-analytics-and-intelligence-platform-goals101/article67635358.ece/amp/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,37 +27,49 @@ images:
     isCached: true
 
 related:
-  - title: "M2P Fintech acquires Goals101 in a cash-and-equity deal worth Rs 250 crore"
-    excerpt: "Through the Goals101 platform on M2P, fintechs and banks can now have the tools which will help them maximise consumer spends and increase usage of their products,” he said i"
-    publishedDateTime: 2023-12-13T00:31:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/startups/m2p-fintech-acquires-goals101-in-a-cash-and-equity-deal-worth-rs-250-crore/articleshow/105940711.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/startups/m2p-fintech-acquires-goals101-in-a-cash-and-equity-deal-worth-rs-250-crore/amp_articleshow/105940711.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/m2p-fintech-acquires-goals101-in-a-cash-and-equity-deal-worth-rs-250-crore/amp_articleshow/105940711.cms"
+  - title: "The New Frontier In Workplace Safety: Data Analytics And AI"
+    excerpt: "Explore how data and AI are driving innovations in safety protocols, preventing accidents, and enhancing workplace productivity."
+    publishedDateTime: 2023-12-15T05:35:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/12/15/the-new-frontier-in-workplace-safety-data-analytics-and-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/12/15/the-new-frontier-in-workplace-safety-data-analytics-and-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/12/15/the-new-frontier-in-workplace-safety-data-analytics-and-ai/amp/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 42
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1279000,msid-105940732/from-left-to-right-madhusudanan-r-visham-sikand-and-milan-naik.jpg"
-        width: 600
-        height: 450
+      - url: "https://imageio.forbes.com/specials-images/imageserve/657bf3cfe410bdbccbb7d190/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1599
+        height: 900
         isCached: true
-  - title: "M2P Fintech acquires transaction behavioural intelligence pioneer, Goals101"
-    excerpt: "M2P Fintech, Asia’s largest Digital Banking Infrastructure company that powers the digital ambitions of banks, lenders, fintech and other financial service.."
-    publishedDateTime: 2023-12-13T17:56:00Z
-    webUrl: "https://www.khaleejtimes.com/business/tech/m2p-fintech-acquires-transaction-behavioural-intelligence-pioneer-goals101"
-    ampWebUrl: "https://www.khaleejtimes.com/business/tech/m2p-fintech-acquires-transaction-behavioural-intelligence-pioneer-goals101?amp=1"
-    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/business/tech/m2p-fintech-acquires-transaction-behavioural-intelligence-pioneer-goals101?amp=1"
+  - title: "How will AI and analytics keep people healthy, safe and thriving in 2024?"
+    excerpt: "\"The rise of AI and analytics will continue to transform the government workforce, including in public safety. In 2024, law enforcement will see a turning point in hiring 'digital natives' who embrace and demand technology to protect, defend and serve citizens.\""
+    publishedDateTime: 2023-12-14T15:12:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-how-will-ai-analytics-keep-people-healthy-safe-/2023/12/14/9934437.htm"
     type: article
     provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 42
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 38
     images:
-      - url: "https://image.khaleejtimes.com?uuid=4b11fdfa-31fa-5435-bf7d-9bb07be34333&function=cropresize&type=preview&source=false&q=75&crop_w=0.62625&crop_h=0.99999&width=1200&height=675&x=0.17125&y=1.0E-5.jpg"
+      - url: "https://mma.prnewswire.com/media/2300205/SAS_newswire_Gov_HC.jpg"
+        width: 400
+        height: 267
+        isCached: true
+  - title: "Striim Integrates with Microsoft Fabric to Deliver Real-Time Data Streaming Innovation for Analytics and AI"
+    excerpt: "Striim, an industry leader in real-time data integration and streaming, is excited to announce its integration with Microsoft Fabric, a new data analytics platform. Striim will provide its innovative low-latency,"
+    publishedDateTime: 2023-12-13T12:13:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/12/13/9933026.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 36
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
         width: 1200
-        height: 675
+        height: 627
         isCached: true
   - title: "U of T’s Data Sciences Institute Empowers Workforce with Training in Data Analytics and Applied Machine Learning"
     excerpt: "A new training initiative launched by the University of Toronto’s Data Sciences Institute (DSI), an institutional strategic initiative, is helping Canada meet its growing need for talent in data science and machine learning."
@@ -70,40 +82,33 @@ related:
       name: India Education Diary
       domain: indiaeducationdiary.in
     quality: 35
-  - title: "M2P Fintech acquires India's Goals101"
-    excerpt: "M2P Fintech, Asia’s largest Digital Banking Infrastructure company that powers the digital ambitions of banks, lenders, fintech and other financial services players today announced the multi-million-dollar acquisition of Goals101,"
-    publishedDateTime: 2023-12-13T10:03:00Z
-    webUrl: "https://www.finextra.com/pressarticle/99116/m2p-fintech-acquires-indias-goals101"
+  - title: "Adastra Launches New Analytics and Insights for Sustainability Framework in AWS Marketplace"
+    excerpt: "Adastra Group (also known as Adastra Corporation), a global leader in cloud, data and artificial intelligence (AI) solutions and services, today announced the launch of its innovative Cloud Analytics Solution,"
+    publishedDateTime: 2023-12-14T16:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231214298446/en/Adastra-Launches-New-Analytics-and-Insights-for-Sustainability-Framework-in-AWS-Marketplace"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 24
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
-  - title: "M2P Fintech Takes Over Nexus Ventures-Backed Goals101 For $30 Mn"
-    excerpt: "Chennai-based B2B fintech startup M2P has bought big data analytics and intelligence platform Goals101 in a cash-and-equity deal."
-    publishedDateTime: 2023-12-13T07:02:00Z
-    webUrl: "https://inc42.com/buzz/m2p-fintech-takes-over-nexus-ventures-backed-goals101-for-30-mn/"
-    ampWebUrl: "https://inc42.com/buzz/m2p-fintech-takes-over-nexus-ventures-backed-goals101-for-30-mn/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/m2p-fintech-takes-over-nexus-ventures-backed-goals101-for-30-mn/amp/"
+  - title: "Adastra Group: Adastra Launches New Analytics and Insights for Sustainability Framework in AWS Marketplace"
+    excerpt: "\"We are thrilled to unveil our latest sustainability solution in AWS Marketplace,\" said Dr. Johannes Mellenthin ... At the forefront of artificial intelligence, data, cloud, digital and governance services, Adastra delivers solutions to enterprises ..."
+    publishedDateTime: 2023-12-14T12:06:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-12/60926432-adastra-group-adastra-launches-new-analytics-and-insights-for-sustainability-framework-in-aws-marketplace-004.htm"
     type: article
     provider:
-      name: inc42
-      domain: inc42.com
-    quality: 24
-  - title: "M2P Fintech Acquires Transaction Behavioural Intelligence Pioneer, Goals101"
-    excerpt: "Madhusudanan R, Co-Founder and CEO of M2P Fintech, commented,“The global banking technology space is undergoing a tectonic shift with respect to leveraging data and AI in the most prominent areas like Customer service, Product and Portfolio management ..."
-    publishedDateTime: 2023-12-13T15:24:00Z
-    webUrl: "https://menafn.com/1107590693/M2P-Fintech-Acquires-Transaction-Behavioural-Intelligence-Pioneer-Goals101"
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 16
+  - title: "Striim Integrates with Microsoft Fabric to Deliver Real-Time Data Streaming Innovation for Analytics and AI"
+    excerpt: "Striim, an industry leader in real-time data integration and streaming, is excited to announce its integration with"
+    publishedDateTime: 2023-12-13T18:51:00Z
+    webUrl: "https://www.datanami.com/this-just-in/striim-integrates-with-microsoft-fabric-to-deliver-real-time-data-streaming-innovation-for-analytics-and-ai/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 2
+      name: datanami.com
+      domain: datanami.com
+    quality: 16
 
 secured: "Ej/op0Tha9CJkSfaH+DgaKQQQSkN4qV6WXhFgH2c2kYZbjIyNFLeuTimmaVtbf4jPwEMAUClIMWvKmw5ZI5VXRmftuqeDivMrAERvK6esHpWAbadbeAxQoKvrtvkQ8RJpicNglFl8rchiJ4OoZUSkK8lrFJIB0MVEjxhUQx6RGij1WNomoZCsq1qmaCTaCF98GN0p9AogWJHkDxtQQWTCcYnKqV48nLyb3y9IdOQQvAzTByNg70pYzVivBTeylNIiLTlkPu3XB53yNGRlackFYf3hCfu7piqgC7HUQ48vs5tdQadEyXn4mIGq8OZ6Fr/mOXH7HvH2JNByPzr9Kf/4lGCIRXlfnsZmMUf17ufh1r5H9kfthIBiIvBwbgotVNjv6NEplkNVr5QqF6t82aFbmBZabZUhoco+aM9DQkQyWG0A5PPfdNLLrDCgSHVKID59P5lRNWSyypwXCV8ejyVbf+RzpsmgBlB6j3kr2h3nc52iXOO5yL/pDpBvwOvFf4I5QFT964ZKmPhVi/g4iGjfA==;mT8u1XswSfYGDf5hOVMNxA=="
 ---

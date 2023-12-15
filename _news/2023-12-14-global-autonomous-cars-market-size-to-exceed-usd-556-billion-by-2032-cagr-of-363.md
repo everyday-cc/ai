@@ -25,6 +25,34 @@ images:
     isCached: true
 
 related:
+  - title: "Pipe Inspection Robot Market Poised to Reach a Valuation of US$ 13 Billion by 2033"
+    excerpt: "According to a recent survey published by FMI, the global Pipe Inspection Robot market is expected to grow at a healthy CAGR during the forecast period between 2023 and 2033. The objective of the report is to uncover micro and macro-economic factors accelerating the sales of Pipe Inspection Robot over the coming decade."
+    publishedDateTime: 2023-12-15T04:54:00Z
+    webUrl: "https://www.fmiblog.com/2023/12/15/pipe-inspection-robot-market-poised-to-reach-a-valuation-of-us-13-billion-by-2033/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 33
+    images:
+      - url: "https://www.fmiblog.com/wp-content/uploads/2023/12/Pipe-Inspection-Robot-Market.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "North America Artificial Intelligence in Healthcare Market to hit USD 114.2 Billion by 2033, Says We Market Research"
+    excerpt: "As per the most recent analysis conducted by We Market Research, the North America Artificial Intelligence in Healthcare Market is poised to achieve a valuation of $114.2 billion by the conclusion of 2033."
+    publishedDateTime: 2023-12-11T10:49:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/12/11/9931143.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 31
+    images:
+      - url: "https://mma.prnewswire.com/media/2267296/We_Market_Research_Logo.jpg"
+        width: 400
+        height: 298
+        isCached: true
   - title: "Artificial Intelligence (AI) in Breast Imaging Market Size is expected to reach USD 3.21 Billion by 2031 | CAGR: 28.6%."
     excerpt: "Artificial Intelligence AI in Breast Imaging Market Size is expected to reach USD 321 Billion by 2031 CAGR 286"
     publishedDateTime: 2023-12-13T14:49:00Z

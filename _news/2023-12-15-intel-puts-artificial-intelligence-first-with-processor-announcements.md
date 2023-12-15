@@ -72,6 +72,20 @@ related:
         width: 2000
         height: 1385
         isCached: true
+  - title: "Acer Predator Triton Neo 16 with Intel Core Ultra CPUs & RTX 4070 GPU unveiled"
+    excerpt: "Acer has introduced the Predator Triton Neo 16 (PTN16-51), a gaming laptop equipped with Intel Core Ultra processors featuring dedicated AI acceleration and NVIDIA GeForce RTX 40 Series GPUs. This gaming powerhouse caters to both players and content creators,"
+    publishedDateTime: 2023-12-15T05:21:00Z
+    webUrl: "https://www.gizmochina.com/2023/12/15/acer-predator-triton-neo-16-laptop-launched/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 65
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/12/Triton_Neo_16_SP02_transparent.png"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "MSI Prestige 'Meteor Lake' Laptops, Hands On: Intel's Core Ultra Brings AI to Work"
     excerpt: "Intel's new Core Ultra laptop CPUs, packing built-in AI hardware, meet MSI's business-class Prestige machines. We checked out these early Meteor Lake laptops ahead of launch."
     publishedDateTime: 2023-12-14T15:00:00Z
@@ -130,6 +144,31 @@ related:
         width: 1300
         height: 721
         isCached: true
+  - title: "Intel Core Ultra mobile processors announced with up to 16 cores, 5.1 GHz clock speed & AI acceleration"
+    excerpt: "Intel has introduced the latest Core Ultra mobile processors at the “AI Everywhere” event, signaling a transformative phase in personal computing. These processors, built on Intel’s 4 process technology,"
+    publishedDateTime: 2023-12-15T06:16:00Z
+    webUrl: "https://www.gizmochina.com/2023/12/15/intel-core-ultra-mobile-processors-launched/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 53
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/12/newsrsoom-intel-core-ultra-3.jpg.rendition.intel_.web_.1072.603.jpg"
+        width: 1072
+        height: 603
+        isCached: true
+  - title: "Intel unveils AI experience-focused Core Ultra mobile chips: Details here"
+    excerpt: "Intel said the Core Ultra mobile processors will power more than 230 of the world's first AI PCs from partners including Acer, ASUS, Dell, Google Chromebook, LG, Microsoft Surface, MSI and Samsung"
+    publishedDateTime: 2023-12-15T06:04:00Z
+    webUrl: "https://www.business-standard.com/technology/tech-news/intel-unveils-ai-experience-focused-core-ultra-mobile-chips-details-here-123121500289_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/technology/tech-news/intel-unveils-ai-experience-focused-core-ultra-mobile-chips-details-here-123121500289_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/intel-unveils-ai-experience-focused-core-ultra-mobile-chips-details-here-123121500289_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 53
   - title: "Intel’s 14th-gen “Core Ultra” mobile chips bring a graphics upgrade, AI features, and a branding refresh"
     excerpt: "Graphics features include support for up to four 4K displays, hardware-accelerated decoding and encoding of AV1, H.265, H.264, and VP9 and up to 8K, 10-bit HDR, DirectX 12 Ultimate, and Intel Xe Super Sampling for AI-based upscaling."
     publishedDateTime: 2023-12-14T14:00:00Z

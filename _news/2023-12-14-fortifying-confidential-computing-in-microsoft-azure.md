@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft and Oracle announce that Oracle Database@Azure is now generally available"
-    excerpt: "We are excited to share that Oracle Database@Azure is generally available in the Azure United States East region, with more regions coming in 2024. You can now use Oracle database services running on Oracle Cloud Infrastructure (OCI) hardware deployed in Azure data centers. This streamlines the migration"
-    publishedDateTime: 2023-12-13T13:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/microsoft-and-oracle-announce-that-oracle-databaseazure-is-now-generally-available/"
+  - title: "Azure OpenAI Service powers the Microsoft Copilot ecosystem"
+    excerpt: "Copilot—powered by Microsoft Azure OpenAI Service—allows you to simplify how you design, operate, optimize, and troubleshoot apps and infrastructure from cloud to edge.\nThe post Azure OpenAI Service powers the Microsoft Copilot ecosystem appeared first on Microsoft Azure Blog.\n"
+    publishedDateTime: 2023-12-14T16:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/blog/azure-openai-service-powers-the-microsoft-copilot-ecosystem/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 113
+    quality: 119
     images:
-      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/12/MSC24-India-business-Adobe-550638570-rgb-scaled.jpg"
+      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/12/CLO20b_Avery_Quinn_casual_office_002-scaled.jpg"
         width: 2560
-        height: 1707
+        height: 1706
         isCached: true
   - title: "Create new ways to serve your mission with Microsoft Azure Space"
     excerpt: "As customers and partners have adopted and experimented with the Azure Space portfolio, new and interesting use cases are emerging that illustrate what’s possible. Today, we are excited to share some of those customer stories, along with updates for Azure Orbital Ground Station, Azure Orbital’s software"
@@ -59,93 +59,63 @@ related:
         width: 943
         height: 628
         isCached: true
-  - title: "Oracle Announces the General Availability of Oracle Database@Azure"
-    excerpt: "Oracle database services running on Oracle Cloud Infrastructure are deployed directly in Microsoft Azure datacenters AUSTIN, Texas, Dec. 13, 2023"
-    publishedDateTime: 2023-12-13T13:26:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/oracle-announces-the-general-availability-of-oracle-database-azure-1032896879"
+  - title: "Alphabet Needs to Show Path to AI Sales in Race With Microsoft"
+    excerpt: "“The whole business model depends on getting this right,” said Gene Munster, co-founder and managing partner at Deepwater Asset Management, whose firm holds the stock. “If they can nail multi-modal generative AI, that will draw usage to Google, and that increased usage will protect and grow the search business.”"
+    publishedDateTime: 2023-12-15T01:46:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/alphabet-needs-to-show-path-to-ai-sales-in-race-with-microsoft-71702574596587.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/alphabet-needs-to-show-path-to-ai-sales-in-race-with-microsoft-71702574596587.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/alphabet-needs-to-show-path-to-ai-sales-in-race-with-microsoft-71702574596587.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 91
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2023/12/15/1600x900/USA-CHIPS-ALPHABET-0_1663336524425_1663336524425_1702604579880.JPG"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Microsoft Explores Using Liquids to Cool AI Chips"
+    excerpt: "Without cool air constantly blowing through the racks of computers, the advanced chips would cook themselves. The cost of running enough fans and air conditioners to keep this from happening is leading chipmakers and data center operators to find ..."
+    publishedDateTime: 2023-12-14T12:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-12-14/microsoft-explores-using-liquids-to-cool-ai-chips"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 81
+  - title: "Microsoft Agrees to Union Contract Terms Governing Its Use of AI"
+    excerpt: "Microsoft Corp. has agreed to union contract language governing its use of artificial intelligence, creating an avenue for workers to challenge how it deploys the evolving technology."
+    publishedDateTime: 2023-12-11T11:59:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-12-11/microsoft-agrees-to-union-contract-terms-governing-its-use-of-ai"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
     quality: 64
-  - title: "Microsoft Announces Git Partial Clone Support in Azure DevOps"
-    excerpt: "Azure DevOps has recently extended support for Git Partial Clone to all its users. Partial clones represent a streamlined version of git clones initiated through specific command line arguments. Repositories that employ partial clones have demonstrated an average reduction of 88."
-    publishedDateTime: 2023-12-10T15:33:00Z
-    webUrl: "https://www.infoq.com/news/2023/12/git-partial-clone-azure-devops/"
+  - title: "Microsoft Copilot: tips and tricks for using AI in Windows"
+    excerpt: "Windows Copilot is a useful tool for augmenting your Windows experience, but with these tips and tricks you can make it even better."
+    publishedDateTime: 2023-12-13T19:19:00Z
+    webUrl: "https://www.digitaltrends.com/computing/tips-tricks-windows-copilot/"
     type: article
     provider:
-      name: InfoQ
-      domain: infoq.com
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 64
+  - title: "Autopilot's new AI integrates into Microsoft Teams and Copilot"
+    excerpt: "AI-powered, format-agnostic document data extraction allows ... They were an early adopter into Microsoft Azure, building straight into the cloud as early as 2014, while competitors were still battling with on-prem solutions. They were also early adopters ..."
+    publishedDateTime: 2023-12-14T00:01:00Z
+    webUrl: "https://www.bizcommunity.com/Article/196/542/244643.html"
+    type: article
+    provider:
+      name: Bizcommunity
+      domain: bizcommunity.com
     quality: 54
     images:
-      - url: "https://res.infoq.com/news/2023/12/git-partial-clone-azure-devops/en/headerimage/generatedHeaderImage-1702179442226.jpg"
-        width: 1200
-        height: 630
+      - url: "https://biz-file.com/c/2312/722697-848x441.jpg?2"
+        width: 848
+        height: 441
         isCached: true
-  - title: "LinkedIn scraps plans of relocating to Microsoft Azure"
-    excerpt: "LinkedIn has decided to stick with physical data centres. Today's announcement is a setback for Microsoft Corp."
-    publishedDateTime: 2023-12-14T15:27:00Z
-    webUrl: "https://invezz.com/news/2023/12/14/linkedin-scraps-relocating-microsoft-azure/"
-    type: article
-    provider:
-      name: Invezz
-      domain: invezz.com
-    quality: 54
-    images:
-      - url: "https://invezz.com/wp-content/uploads/2023/12/souvik-banerjee-jlj-nbvlddo-unsplash-1-1-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Oracle Database@Azure now available in Microsoft Azure East US region"
-    excerpt: "Oracle Cloud Infrastructure has deployed its Oracle database services in the Microsoft Azure East US region's data centers. Customers can now access the new Oracle Database@Azure service, which covers all the abilities of the Oracle Database, alongside Azure services such as the OpenAI Service for generative AI applications."
-    publishedDateTime: 2023-12-14T14:47:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/oracle-databaseazure-now-available-in-microsoft-azure-east-us-region/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 49
-  - title: "Unlocking the power of AI: DataStax’s flexible database for the future"
-    excerpt: "The vector search is a key component of this flexibility because it can translate different databases into a language readable to AI. “What we try to do from an architecture standpoint is let you go and easily switch between them in any situation ..."
-    publishedDateTime: 2023-12-13T17:30:00Z
-    webUrl: "https://siliconangle.com/2023/12/13/unlocking-power-ai-datastaxs-flexible-database-future-supercloud5/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/Ed-Anuff-Supercloud-5-2023.jpg"
-        width: 4898
-        height: 3265
-        isCached: true
-  - title: "Microsoft to double Azure cloud capacity in Germany by early 2024"
-    excerpt: "Microsoft is to double the capacity of its Microsoft Azure cloud data centres in Germany by early 2024 to meet customer demand. It will achieve this by significantly expanding the country’s largest data centre hub,"
-    publishedDateTime: 2023-12-13T14:55:00Z
-    webUrl: "https://www.technologyrecord.com/article/microsoft-to-double-azure-cloud-capacity-in-germany-by-early-2024"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 34
-  - title: "Oracle Announces the General Availability of Oracle Database@Azure"
-    excerpt: "The first Oracle Database@Azure service is now generally available in the Microsoft Azure East US region. Oracle will"
-    publishedDateTime: 2023-12-13T19:06:00Z
-    webUrl: "https://www.datanami.com/this-just-in/oracle-announces-the-general-availability-of-oracle-databaseazure/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 34
-  - title: "8 Key Announcements At Microsoft Ignite 2017"
-    excerpt: "Microsoft Cognitive Services Updates Microsoft said that its collection of APIs for AI capabilities, Cognitive Services, has received some enhancements that developers should find useful."
-    publishedDateTime: 2023-12-10T05:17:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/300092651/8-key-announcements-at-microsoft-ignite-2017"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 19
 
 secured: "pzx84iO6a/8pineWi+wFdHhvFGioTj84UMb3uj2LNbp0tBsBzPlslbLohDmTh8Keb8YD9wFByhUu+751brLy7Ylf4+4nz1tAAmVlHInHvRLnByF9rHu2nIvyi03gty3VC5SzH/4QMRv8KCSRgEXNwp042r+pHTk1ISZ5Xa7OquYGYOIQIS6P+56pJK9fPFx5j9MEtB2fOn719cMsOJd92oNp0Ft7wJO704PzHnaBOflOxGzyEQ2svih+L9arZuoXYL2I5bB+1Spqp56rPm1mJzlG3jDc1Ffi3zaPTC/6B3YVZ1syahx5apTCbjqQIJ3ifIfbasfflpuk/D6nGxd6Ffdl0sIdVWOiFAhqtB+Tvqv0im7S2uIAHmrdao123cZ+9BzA3n/DTEdYrDgaFXmdYzE9wLarWB4Mku+M3JZqAFGOkw82OhY2voWlb30LdCMH2s5MLrh0mNgyLxO2Xaq6CVsb4XCRejJmVM1HueJkqlvLPm6ofqKG0kmyFS+GOvKScrAGbDh8CxRSE5+o3wY6jg==;kAsGjEi6H9UFsEQS+Q40Qg=="
 ---

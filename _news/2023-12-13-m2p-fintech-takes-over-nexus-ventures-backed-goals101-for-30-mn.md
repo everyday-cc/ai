@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "M2P Fintech acquires data analytics and intelligence platform Goals101"
-    excerpt: "Chennai-based financial infrastructure provider M2P Fintech has acquired big data analytics and intelligence platform Goals101."
-    publishedDateTime: 2023-12-13T18:24:00Z
-    webUrl: "https://www.thehindu.com/news/national/tamil-nadu/m2p-fintech-acquires-data-analytics-and-intelligence-platform-goals101/article67635358.ece"
-    ampWebUrl: "https://www.thehindu.com/news/national/tamil-nadu/m2p-fintech-acquires-data-analytics-and-intelligence-platform-goals101/article67635358.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/tamil-nadu/m2p-fintech-acquires-data-analytics-and-intelligence-platform-goals101/article67635358.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 44
-    images:
-      - url: "https://th-i.thgim.com/public/news/national/tamil-nadu/rszzy3/article67635811.ece/alternates/FREE_1200/WhatsApp%20Image%202023-12-13%20at%2011.51.17%20PM.jpeg"
-        width: 1200
-        height: 421
-        isCached: true
   - title: "M2P Fintech acquires Goals101 in a cash-and-equity deal worth Rs 250 crore"
     excerpt: "Through the Goals101 platform on M2P, fintechs and banks can now have the tools which will help them maximise consumer spends and increase usage of their products,” he said i"
     publishedDateTime: 2023-12-13T00:31:00Z
@@ -69,17 +53,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "U of T’s Data Sciences Institute Empowers Workforce with Training in Data Analytics and Applied Machine Learning"
-    excerpt: "A new training initiative launched by the University of Toronto’s Data Sciences Institute (DSI), an institutional strategic initiative, is helping Canada meet its growing need for talent in data science and machine learning."
-    publishedDateTime: 2023-12-10T22:06:00Z
-    webUrl: "https://indiaeducationdiary.in/u-of-ts-data-sciences-institute-empowers-workforce-with-training-in-data-analytics-and-applied-machine-learning/"
-    ampWebUrl: "https://indiaeducationdiary.in/u-of-ts-data-sciences-institute-empowers-workforce-with-training-in-data-analytics-and-applied-machine-learning/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/u-of-ts-data-sciences-institute-empowers-workforce-with-training-in-data-analytics-and-applied-machine-learning/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 35
   - title: "M2P Fintech acquires India's Goals101"
     excerpt: "M2P Fintech, Asia’s largest Digital Banking Infrastructure company that powers the digital ambitions of banks, lenders, fintech and other financial services players today announced the multi-million-dollar acquisition of Goals101,"
     publishedDateTime: 2023-12-13T10:03:00Z
@@ -93,6 +66,20 @@ related:
       - url: "https://www.finextra.com/about/finextra-logo.png"
         width: 512
         height: 512
+        isCached: true
+  - title: "Infibeam Avenues Invests Rs 25 Crore in Pirimid Fintech for 49% Stake"
+    excerpt: "News reports, trends, analysis and Daily Updates on Business, New Emerging Technology, Startups, Funding, and Innovation in India and across the World"
+    publishedDateTime: 2023-12-15T03:49:00Z
+    webUrl: "https://www.indianweb2.com/2023/12/infibeam-avenues-invests-rs-25-crore-in.html"
+    type: article
+    provider:
+      name: indianweb2.com
+      domain: indianweb2.com
+    quality: 24
+    images:
+      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE-m1ssgp0Cvh9beCTRQe_ynNso3dr-wok7dhLVeoTfJOcndiElKrc7lQGY2om782aHStyTQernesWqOHzIeJ6_iReUrg2hpfiBX1qqQpe4IIHqKurp3JRbADjVJZY50qxNpG4_BIlw-_m8hycla1as2_4AdWpadI_5V21L4u62at7nbJrKATQ518ASJ4/s16000/infibeam.png"
+        width: 1000
+        height: 600
         isCached: true
   - title: "M2P Fintech Acquires Transaction Behavioural Intelligence Pioneer, Goals101"
     excerpt: "Madhusudanan R, Co-Founder and CEO of M2P Fintech, commented,“The global banking technology space is undergoing a tectonic shift with respect to leveraging data and AI in the most prominent areas like Customer service, Product and Portfolio management ..."

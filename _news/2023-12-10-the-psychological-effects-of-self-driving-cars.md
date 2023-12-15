@@ -3,14 +3,11 @@ category: news
 title: "The Psychological Effects of Self-Driving Cars"
 excerpt: "Autonomous vehicles (AVs) including artificial intelligence AI-powered driverless or self-driving cars have received significant attention as a potentially safer and more sustainable mode of ..."
 publishedDateTime: 2023-12-10T00:00:00Z
-originalUrl: "https://www.psychologytoday.com/intl/blog/urban-survival/202311/the-psychological-effects-of-self-driving-cars"
-webUrl: "https://www.psychologytoday.com/intl/blog/urban-survival/202311/the-psychological-effects-of-self-driving-cars"
-ampWebUrl: "https://www.psychologytoday.com/intl/blog/urban-survival/202311/the-psychological-effects-of-self-driving-cars?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/urban-survival/202311/the-psychological-effects-of-self-driving-cars?amp"
+originalUrl: "https://www.psychologytoday.com/us/blog/urban-survival/202311/the-psychological-effects-of-self-driving-cars"
+webUrl: "https://www.psychologytoday.com/us/blog/urban-survival/202311/the-psychological-effects-of-self-driving-cars"
+ampWebUrl: "https://www.psychologytoday.com/us/blog/urban-survival/202311/the-psychological-effects-of-self-driving-cars?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/urban-survival/202311/the-psychological-effects-of-self-driving-cars?amp"
 type: article
-quality: 44
-heat: -1
-published: false
 
 provider:
   name: Psychology Today
@@ -26,17 +23,6 @@ images:
     height: 800
     isCached: true
 
-related:
-  - title: "Autonomous & Self-Driving Vehicle News: Kodaik Robotics, the Teamsters & TIER IV"
-    excerpt: "In autonomous and self-driving vehicle news are Kodaik Robotics, the Teamsters and TIER IV."
-    publishedDateTime: 2023-12-10T20:57:00Z
-    webUrl: "https://www.autoconnectedcar.com/2023/12/autonomous-self-driving-vehicle-news-kodaik-robotics-the-teamsters-tier-iv/"
-    type: article
-    provider:
-      name: autoconnectedcar.com
-      domain: autoconnectedcar.com
-    quality: 46
-
-secured: "XLbnj457TkB/60C1oSM06IFmXHIHV7b25M9mURavu/rpbFsGoHkAbl0RMBbyY5piqB2whDz8G40qExgYgAGGWv56MlN1HLrjYwDgbpbO0TRaLLCNR0bWKLXiP2x2dwYzuEKfL53wqZydqXJT3HJrmXhPj/yWtxyxql+K3ndsM68Bv12im8Q39dAKOkCbaJizfmqbs1ZZucOe/UdR8oJZtWL97WstYUnszzQM6kwh1ZjIsNsxHVTkl3WBKAXclGBJ2tXf18gIjpq5Z2MqG48NsZgUaMFV3eMuFCc+miBan3eBQSRIJYQ95e6ekHqdgn/UnXTujGVSBlHVlL8qg3Wppit20TG7s3Y65sKLDCiTQ4Q=;zrHd5kFtVbdrZT9DHFs01w=="
+secured: "WhdVjMeBRYLPWC4cMRivBmn8jQV/Fd3qWPrYyYcSYsvwfp04J0y8Koa05wv4M017lUtZSoqGagP7m2nTWInva9iUx1x5ytD/pVj7WthMDFHHaZNedcKF/1qhe6r/mZ5VghBQ9GaTWey3kBeVEcrwX4lRAhSSoXtZXt+CcJNB6lezcMYkY8DAjKlJNS6FFHMsrxzwAbQLE7RGUxgea3JdSHlHK6QqlWq4kOazrMOWuiXArn/ePhFJk/zgYAiLG0QZSqT/zLBbyWxAanW3jPLeeKnKC5HM9V2ov8u/c3Rf20p1zJkmqaNK4AY24brjbDmH/KbTr+5i7L9N24wbPUTZ3DqIi2Iv9ae7CIjvfzld+WE=;Ez5n1T/E83XiM19sK+lLIw=="
 ---
 

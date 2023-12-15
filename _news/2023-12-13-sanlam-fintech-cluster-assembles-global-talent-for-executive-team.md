@@ -19,29 +19,80 @@ topics:
   - AI
 
 related:
-  - title: "Bank audit executives seek stricter regulation for fintech, BDCs"
-    excerpt: "ACAEBIN also called for stricter regulations of the fintech space as well as the operations of the Bureaux de Change."
-    publishedDateTime: 2023-12-13T19:08:00Z
-    webUrl: "https://punchng.com/bank-audit-executives-seek-stricter-regulation-for-fintech-bdcs/"
+  - title: "Infibeam Avenues buys 49% in Pirimid Fintech to enter market tech space, shares zoom 7%"
+    excerpt: "Infibeam Avenues Ltd, which processed transaction worth US$54 billion in FY23, expects to witness an increase in its payment processing business through this strategic investment."
+    publishedDateTime: 2023-12-15T05:04:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/markets/infibeam-avenues-buys-49-in-pirimid-fintech-to-enter-market-tech-space-shares-zoom-7-11908641.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/markets/infibeam-avenues-buys-49-in-pirimid-fintech-to-enter-market-tech-space-shares-zoom-7-11908641.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/markets/infibeam-avenues-buys-49-in-pirimid-fintech-to-enter-market-tech-space-shares-zoom-7-11908641.html/amp"
     type: article
     provider:
-      name: The Punch Newspapers
-      domain: punchng.com
-    quality: 19
-  - title: "Providing Critical Services to the UK Financial Sector: Important Draft Rules for Fintechs"
-    excerpt: "in financial services — as we have discussed most recently in our alert “AI and Machine Learning in UK financial services: the public response to the FCA and PRA” — this regime is likely to become closely associated with any future AI regulation in ..."
-    publishedDateTime: 2023-12-13T00:00:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/providing-critical-services-to-the-uk-7117293/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 14
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 36
     images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15363_1913.jpg"
-        width: 1200
-        height: 900
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/12/Sensex_up_higher-5.jpg"
+        width: 1280
+        height: 720
         isCached: true
+  - title: "Infibeam Avenues stock hits a 52-week high after fintech firm acquires 49% stake in Pirimid Fintech"
+    excerpt: "Infibeam Avenues on Thursday announced its strategic foray into capital markets and digital lending software market by acquiring a significant 49 per cent equity stake in Pirimid Fintech. The deal is worth Rs 25 crore."
+    publishedDateTime: 2023-12-15T05:26:00Z
+    webUrl: "https://www.zeebiz.com/markets/stocks/news-infibeam-avenues-stock-hits-a-52-week-high-after-fintech-firm-acquires-49-stake-in-pirimid-fintech-bse-nse-infibeam-avenues-share-price-268909"
+    ampWebUrl: "https://www.zeebiz.com/markets/stocks/news-infibeam-avenues-stock-hits-a-52-week-high-after-fintech-firm-acquires-49-stake-in-pirimid-fintech-bse-nse-infibeam-avenues-share-price-268909/amp"
+    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/markets/stocks/news-infibeam-avenues-stock-hits-a-52-week-high-after-fintech-firm-acquires-49-stake-in-pirimid-fintech-bse-nse-infibeam-avenues-share-price-268909/amp"
+    type: article
+    provider:
+      name: Zee Business
+      domain: zeebiz.com
+    quality: 30
+    images:
+      - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2023/12/15/272760?itok=7r8eOnVy"
+        width: 700
+        height: 394
+        isCached: true
+  - title: "Infibeam Avenues picks up 49% stake in Ahmedabad-based Pirimid Fintech"
+    excerpt: "The partnership aims to combine Infibeam's digital payments and AI-based frameworks with Pirimid Fintech's capital market trading software for its clients nationwide and globally"
+    publishedDateTime: 2023-12-14T12:01:00Z
+    webUrl: "https://www.business-standard.com/companies/news/infibeam-avenues-picks-up-49-stake-in-ahmedabad-based-pirimid-fintech-123121400853_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/companies/news/infibeam-avenues-picks-up-49-stake-in-ahmedabad-based-pirimid-fintech-123121400853_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/companies/news/infibeam-avenues-picks-up-49-stake-in-ahmedabad-based-pirimid-fintech-123121400853_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 24
+  - title: "Infibeam Avenues acquires 49% stake in Pirimid Fintech, shares up"
+    excerpt: "Infibeam Avenues Ltd's shares rose 6.51% after investing Rs 25 crore in Pirimid Fintech to leverage capital markets tech & digital lending."
+    publishedDateTime: 2023-12-15T04:56:00Z
+    webUrl: "https://www.thehindubusinessline.com/markets/infibeam-avenues-acquires-49-stake-in-pirimid-fintech-shares-up/article67640745.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/markets/infibeam-avenues-acquires-49-stake-in-pirimid-fintech-shares-up/article67640745.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/markets/infibeam-avenues-acquires-49-stake-in-pirimid-fintech-shares-up/article67640745.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 24
+  - title: "Infibeam Avenues Acquires 49% Stake In Pirimid Fintech To Foray Into Capital Markets Space"
+    excerpt: "Fintech company Infibeam Avenues has bought a 49% stake in Ahmedabad-based Pirimid Fintech for INR 25 Cr ($3 Mn) to strengthen its foothold in the fintech ecosystem."
+    publishedDateTime: 2023-12-14T15:49:00Z
+    webUrl: "https://inc42.com/buzz/infibeam-avenues-acquires-49-stake-in-pirimid-fintech-to-foray-into-capital-markets-space/"
+    ampWebUrl: "https://inc42.com/buzz/infibeam-avenues-acquires-49-stake-in-pirimid-fintech-to-foray-into-capital-markets-space/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/infibeam-avenues-acquires-49-stake-in-pirimid-fintech-to-foray-into-capital-markets-space/amp/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 14
+  - title: "Infibeam Avenues acquires 49% stake in capital markets software provider Pirimid Fintech"
+    excerpt: "With the stake acquisition, Infibeam is looking to integrate its digital payments framework with Pirimid Fintech's capital market trading software for clients in India and globally."
+    publishedDateTime: 2023-12-14T13:54:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/startups/infibeam-avenues-acquires-49-stake-in-capital-markets-software-provider-pirimid-fintech/articleshow/105997286.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 0
 
 secured: "g/eeGX3zHeBU/FRPbzGB/kNUCIY3nT1AUY5N7o20J5v3+gGdoW3SBhNmfFCi4LmFZE7Y9OSxaPvTgyQwaHRv/3NbIC52UwgbwD25bh9fbvbpzJM/4VmFAeRSM0ljdNiqhrlzz8doaa7x1Ao4EY0C5c0gJ1Ltbm6Pc63gw05ZSB47wZJ1G7WpmguBZG6eYXP+OBS6hCu/BaFgt6tJkFIBLjoxT1ZkBH23BPGGL0lPWpceuAQQW5b5T1KZC6mvFEUIEsW5Dteo5aE1Zc0qNkciknA4FfQZ+F6tmFv8YMe/j4FND+EwDZkKQ692TWw7HYiIZG+S5Hwi/LuUuLZjkQosk9+mSjTsZKAIvhFJQ/ZL2Avb0wQ6wjB+V0vHjCNOPd4qQO0kQANqp37pJG6kodQmVSb+xAyO/0VUc6q9Zzn4uRYpcFTcNPN/1DUsGopzKRm8zeeVjT55iuzavy5Oqmjcv9GAFt7tpfPoJSBJrHu+oMd3TNbMs7MeF1BrJFToNWKj2DgzEhlkNTQ9Lsc4A0G6fQ==;QvCg6DdtLPgYq0NlPHrT8g=="
 ---

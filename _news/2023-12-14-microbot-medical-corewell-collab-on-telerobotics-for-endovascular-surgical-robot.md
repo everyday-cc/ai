@@ -7,7 +7,7 @@ originalUrl: "https://www.massdevice.com/microbot-medical-corewell-collab-surgic
 webUrl: "https://www.massdevice.com/microbot-medical-corewell-collab-surgical-robot/"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 770
     height: 500
     isCached: true
+
+related:
+  - title: "XtalPi and ABB Robotics to automate laboratory workstations with GoFa cobots"
+    excerpt: "XtalPi has used more than 100 ABB collaborative robots to build automated workstations for accelerating chemical and life sciences R&D."
+    publishedDateTime: 2023-12-14T20:29:00Z
+    webUrl: "https://www.therobotreport.com/xtalpi-and-abb-robotics-to-automate-laboratory-workstations-with-gofa-cobots/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 81
+    images:
+      - url: "https://www.therobotreport.com/wp-content/uploads/2023/12/XtalPi_ABB_GoFa_AMRs.jpg"
+        width: 770
+        height: 491
+        isCached: true
 
 secured: "DKqZ7CYaGM28JUgXW5pj+tHGDI19HMSmoCCpYOLdaQc2d+6mOb+RJOFLA+/+UYtT9HShqrQzCPcRvSECDFbXOvRdrjyxJXv4VIXQyW9uSJOFotGPorLms+q7luYV770OQ1EyYpZ4MCsoIaRKgI1RdCuHCdp8ZJCNALtf/PMF+k/OtKPTCs+ZGEk80hxb5RJV3cxTrqYntiGdXIqrNEFTqNnOtu7RJoEdLRKuNzA7nPsaMT0lXPFwpreRYK1h3Obou5mFnpzTSDKZ1b7eXmQSrR9IaaYSn/xtZbd9BdtY6uJBCwPUNt1CfCJZJBmP7YPIIQhNxzKTIVq1Of7VSLXOeG9xr7TgnQUi8DIhqBosBhch375XLG6O/eFn4SVWSQFJquIfcMvrbt33xDmxEDqVhqGCk8bBxoX9glHsmK0EGZDQuyPb25scx9p7c+2k8FyDZ6n4o0Tcs1h1FNPEGy7Ic96w9BWYEuhVkBXdFOctHvDQcTbFQR0lR+6o8CCzmhEe5uhLUP0pkBGJOKXytixHUA==;5tOcgeSHM1la0GpzlalXKQ=="
 ---

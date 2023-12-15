@@ -46,15 +46,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 25
-  - title: "OPEN Health and Nested Knowledge announce strategic research collaboration to leverage AI technologies for evidence synthesis"
-    excerpt: "This collaboration underscores OPEN Health's unwavering commitment to leveraging innovative solutions and AI technologies for superior client delivery,” said Richard Jones, President of OPEN Health Evidence & Access."
-    publishedDateTime: 2023-12-11T10:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/open-health-and-nested-knowledge-announce-strategic-research-collaboration-to-leverage-ai-technologies-for-evidence-synthesis-1032888769"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 22
 
 secured: "3W9aHKvdNsoGpaBM3GmJA1Hd1kIQBxAnfpxLYaUAyn4Vpd/j6ar73LGK+ONjcZVu4xi6JOgqVk/jGwRTaY11OXRrBeU2gg3CC0u+pz+iNOFZtJGiqkrNTXQuWTjKCyPqaxr/yhFfalkjBc5w94yg88k2+AUAaZZsBMJnOR1j4f+AwirnwSaZgoat7taN/Ck76jzs6/v3GF7FgWlmhbjfjxoIPcMsVZCvtsmos+PIrUUqwWK/0Sq/nGbkUwj22bea9iPmZfbXGJeA9VybgoZ79RBDdadU/QAPnagSjlokiTbdjqFysKkdApyETLopaMP8SZX5Oz0QlLlI1ZD+i0l9Z+Gt+/czlQy7n21AZbBRvuJyErh/zd+vzZIbtmp7u2OfvLR4zLPw4qJsJFxYU0CeGH/sMlUmVqNuI5XSRJpd73ljtrCGSqL+67I63OVTXRsdYvykVRmLGTmqm3Xe4vhIcbnscT6IWvGwq+j9Mv1WYtNRAYFsemRUVwPoLwAfDVbnTNpRC1eHwF5S5BQGTBmVWg==;dEe7ljDWZFHV2bZoN9jYXg=="
 ---
