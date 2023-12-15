@@ -76,6 +76,15 @@ related:
       name: Canindia.com
       domain: canindia.com
     quality: 19
+  - title: "Google’s AI comes in large and medium"
+    excerpt: "Google is fine-tuning its family of artificial intelligence models for the health care industry, and they’re now available for Google Cloud customers in the U.S. The family of models, called MedLM, builds on Google’s existing products, including Med-PaLM 2, the large language model that’s the basis of the MedLM models."
+    publishedDateTime: 2023-12-15T18:00:00Z
+    webUrl: "https://www.politico.com/newsletters/future-pulse/2023/12/15/googles-ai-comes-in-large-and-medium-00131958"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 17
   - title: "Enhanced Regulation for Artificial Intelligence Unveiled in Landmark EU Agreement"
     excerpt: "In a significant development, negotiators from the European Parliament and EU member states have reached a consensus on more stringent regulations governing the use of artificial intelligence (AI) within the European Union."
     publishedDateTime: 2023-12-12T13:08:00Z

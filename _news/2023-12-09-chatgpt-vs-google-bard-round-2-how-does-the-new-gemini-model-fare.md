@@ -1,10 +1,10 @@
 ---
 category: news
 title: "ChatGPT vs. Google Bard, round 2: How does the new Gemini model fare?"
-excerpt: "The new Gemini-powered Bard keeps the same spirit (\"He envisioned a sport that would unite people...\") with more concision and focus. Interestingly, GPT-3.5 is the only model we tested to imagine Lincoln as a youth instead of a restless president sitting in the White House."
+excerpt: "Now, the AI days are a bit less “early,\" and this week's launch of a new version of Bard powered by Google's new Gemini language model seemed like a good excuse to revisit that chatbot battle with the same set of carefully designed prompts."
 publishedDateTime: 2023-12-08T19:01:00Z
-originalUrl: "https://arstechnica.com/ai/2023/12/chatgpt-vs-google-bard-round-2-how-does-the-new-gemini-model-fare/3/?view=grid"
-webUrl: "https://arstechnica.com/ai/2023/12/chatgpt-vs-google-bard-round-2-how-does-the-new-gemini-model-fare/3/?view=grid"
+originalUrl: "https://arstechnica.com/ai/2023/12/chatgpt-vs-google-bard-round-2-how-does-the-new-gemini-model-fare/?view=archive"
+webUrl: "https://arstechnica.com/ai/2023/12/chatgpt-vs-google-bard-round-2-how-does-the-new-gemini-model-fare/?view=archive"
 type: article
 
 provider:
@@ -20,12 +20,6 @@ topics:
   - AI
   - Microsoft AI
 
-images:
-  - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/12/chatgpt-vs-bard-round2-760x380.jpg"
-    width: 760
-    height: 380
-    isCached: true
-
-secured: "MBKSXh6X6hY/MQYi4wZuhqjoe7ymGwknTf/rgL2keTRirWegLKHUIaF2f6q4P0YOHkNKD2uIz6Rhz4ZAXqxBRhtob95HS8JGsdLecvXCIp7OC/gaN1HuFsQhYomjbQ4UnwPEzjR2epf3QneUdnMPVt9SixRJZCUl1KMAEZ3X5KtZTxfMb0ZLT0Lm1i1N4ROR93mO9m0SDmR2nNLBl4yWPtPNa/mMvbjnjd3KvSvsX42zGITuLheVyQ6cQ0yhtFxZOOrYZwa5mMWAgDQ5DvBmVUAXjmWEaRkCt7RRSl42xZtm2i0NxSoYRS0e43wqPScfqkLDqdr52hvrdzCpP/mh/7PiKVYxTfbcmrWP1fNPGrlas1zuBqPwLXTD/kQ6wqOIr42fb6IVEEOnEp0VoRcZyM4NlOtxqAy4wd21xvAkQdyYiXxJhDTshayLpfxMXMBSRjkyWZNMEwwaiWqeC5k6+bBOBH4iqEmaH8hNGEfgVmhTVsFCCtKgmCyuCHDjZkeGew35ehwMV0qGgnPkCMJIlw==;k3ifoSZorKARRqWjuQ08Gw=="
+secured: "IAWDQeTw2kD/ReLUSJ5hu2FCDn7SxS5dSo1iRi9w4atgXLmu8UU0LcQ2nLraX82n1+n51mHS4dAQNNQHXkWIgZmeTpyHA6FGSVXT4wdnO7Vi5YOqb4u8q4IFxxhOjAkWiDzZwnSOM1ZdRI9ZuibiuKFcQ0MB2EETWGpgeUMKF4/4cTKmUyO04c0j5c4JNkQFnUbeqtqqEi1W3ga8dn6+72Ty4KaN/a5Kc59k1kirkg2YwjRs0XaUfABMhInCEXXoMjiBks8S2eBSYSVvOKNGXg6TGHKM1CuISB8EM21rWlTUWqiC+YYwFSiIKb/3bqiJiF4kRBEadJU35ouxXj8AA8v+FMPt+ideP1GWOiDKWf4WtbVhCRoBegMF3lPwdsePTcuqBR4xx7qwnyNKqS5LYkliZYvWXIfZftHFg93O903oA+wAgwMTwujRIuxyPj27uos+zK/InHQu94Ms/cnZqcqWIg9u+iLiE7/FfQMNoQESnoNWZMw7YNoG1zw2C8FAZ01P/D81ZvEjFr7m/iC2gA==;pKKrR9bmGVRgLWV4UB7TAA=="
 ---
 

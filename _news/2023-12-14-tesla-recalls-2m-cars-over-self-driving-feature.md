@@ -106,6 +106,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tesla Recall Little More Than A Short Detour On The Path To Full Self-Driving"
+    excerpt: "Tesla is introducing FSD12 self-driving technology, which uses neural networks to mimic human decision-making. Read more about TSLA stock here."
+    publishedDateTime: 2023-12-15T17:50:00Z
+    webUrl: "https://seekingalpha.com/article/4658120-tesla-recall-little-more-than-a-short-detour-on-the-path-to-full-self-driving"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 16
 
 secured: "pJ9zhZqPII7ZPIJa+ae6ME+rqMVx6TGTxEsfh38356y9CwWomGAbReOzOO58RpkeCnP0kBAQvbNVPpchBpwoO9nAZ2VAHTKBTkb2DCyHO24WnP7idiyYFPBPpgilQKFCAaRXrs+SczKPUSFwIjyn6Ka3jnAYRrPKAxWaMVObASu7rIxAwhLUKlS2d4MOt4Y3ON2L5urMeJB5xlpJY+fwSBcCnFnHKffvA3J0aShofPx0O24RfqIFCJzRoMAwk0wOHtCnhtGiaX72EG4BWNDIoM0Fhti+zMH+JYGT4ljeka8f3ZJuxcvUJ1nQ3GFzdk+TUnhOpk3VIUab3z+kaEpaO4cOVB7DlHCpcJYvOHoZLh2nGDKme4USMDBA7YJypSqz+hUrYTslDhjJf474pmGtgLGU1ycgc2d85alzZRH1pWLM9APHDzYantjSWjVthOP6Kst14IqpMfWZ7F4wS2KImtacPfqTvHmVf+JIYehRBzdkoWVnwYCWizIkqGk0T1UZokcmKuLPg9tHpvKolyoTCg==;rt/Eg+BKyeC6TkrNxvBuAg=="
 ---

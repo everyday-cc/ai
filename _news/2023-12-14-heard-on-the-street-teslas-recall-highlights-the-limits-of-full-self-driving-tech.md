@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/livecoverage/fed-meeting-fomc-interest-rate-de
 webUrl: "https://www.wsj.com/livecoverage/fed-meeting-fomc-interest-rate-december-2023/card/heard-on-the-street-tesla-s-recall-highlights-the-limits-of-full-self-driving-tech-5t1wARKk5hZZYznApkee"
 type: article
 quality: 62
-heat: 122
+heat: 132
 published: true
 
 provider:
@@ -110,6 +110,15 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Tesla Recall Little More Than A Short Detour On The Path To Full Self-Driving"
+    excerpt: "Tesla is introducing FSD12 self-driving technology, which uses neural networks to mimic human decision-making. Read more about TSLA stock here."
+    publishedDateTime: 2023-12-15T17:50:00Z
+    webUrl: "https://seekingalpha.com/article/4658120-tesla-recall-little-more-than-a-short-detour-on-the-path-to-full-self-driving"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 16
 
 secured: "1YDPLR/fi0n9zWG9vS3Kuxu8fe7vBCl6t03XUXZ/1azSdLmxwTNkNnpzEwrGr5lrQJmW9e8qzOqOztQ9qtsz8RmzIxLv4/uPqNfx8w6Cycr2HuvX/HAhjMXJNZGGbIJWbDCCFRjthyb/0n7a/ZMZsZHDpMxL9W2GeIQnvaaoR8mkWN+QNrfmuK6JU5+oUdOQ42Dv+CBuZ4kahQS0MagrG5sOWjkPd7L4xhDYFmVYMNwneaad9C1vUOvUXYH8wIghP5jVKadSuRDU1MpyE+AaewFU6evxiNO/oDPi4sOfoZNT6EsdnMJFfSEx0yzmtLfjY7M1tyEzp/BAjX84RMKBL4cGbzjtMEajHn03pAUT+J5hvd8AZD6D0V+uP/zcVAMk0aiCKXlKgB7v0iiLdHN3U8sgcfQ0zICdfBd7rUBW63wwxFLQd4qS5U724bwJvF5Jx63UNRcqT6asMJp+2+H1SGbwCJ5hWpGWHHmvdlTgELYCh3x7nxAgVHD2p431qK/sffyTVL6uvDzwukt7rEtYmA==;bRsoTj8c2gzfMPbnNpHK3g=="
 ---

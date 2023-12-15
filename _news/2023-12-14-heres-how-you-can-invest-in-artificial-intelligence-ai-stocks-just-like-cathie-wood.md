@@ -2,12 +2,12 @@
 category: news
 title: "Here's How You Can Invest in Artificial Intelligence (AI) Stocks Just Like Cathie Wood"
 excerpt: "Cathie Wood is the head of Ark Investment Management, which operates 13 exchange-traded funds (ETFs) designed to give investors exposure to innovative new industries like artificial intelligence (AI), electric vehicles, robotics, and even space exploration."
-publishedDateTime: 2023-12-14T13:35:00Z
-originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/22720666/"
-webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/22720666/"
+publishedDateTime: 2023-12-14T05:30:00Z
+originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/TSLA-Q/pressreleases/22720666/heres-how-you-can-invest-in-artificial-intelligence-ai-stocks-just-like-cathie-wood/"
+webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/TSLA-Q/pressreleases/22720666/heres-how-you-can-invest-in-artificial-intelligence-ai-stocks-just-like-cathie-wood/"
 type: article
-quality: 46
-heat: 46
+quality: 26
+heat: -1
 published: false
 
 provider:
@@ -18,12 +18,22 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://barchart-news-media-prod.aws.barchart.com/FC/89dd23a21add70f9b3f1be040807e9e7/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f758154%252fa-digital-render-of-a-computer-chip-with-ai-inscribed-in-the-center-on-a-blue-background.jpg%26amp%3Bw%3D700"
-    width: 6000
-    height: 3750
-    isCached: true
+related:
+  - title: "This Artificial Intelligence (AI) Stock Looks Dirt Cheap. Here's Why."
+    excerpt: "This is not entirely unreasonable, though, as artificial intelligence (AI) will have myriad applications in the metaverse. In a way, while owning Meta stock for the highly profitable advertising business warrants merit, a position in the company could represent a hedge to other AI plays you might own."
+    publishedDateTime: 2023-12-15T22:12:00Z
+    webUrl: "https://www.fool.com/investing/2023/12/15/why-this-ai-stock-looks-dirt-cheap/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 82
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/757919/social-media-networking-likes-facebook-meta-instagram-1.jpg"
+        width: 5184
+        height: 3456
+        isCached: true
 
-secured: "nwSjiq9+82FNoFZ7V2WmMO6wNWqqGV8fIq1+kVitbFdmxtrKoZJZJ5ZuDDbzHrp+DFfXx/T2EbbtP754pNmcmg9pwT4tRbhDq++Kt9zM5HX47dk3fr1h6ODj0EQdKgKdLTz2gmYHJdaph6+/CNlq6awe/VkSKyhLyt7t4Yz4W65fq32Fil7/0/KM0uM34epR3TapYR6V8DGJd4lC6ZlTrzIU0AwkgiJ1QZ22U1hwRm1etLSebjZOhU+9V5HGN4MysA+08qO5pG5HLi9kWN2Ce3IeYQQi2+FPkogQzMae98VknfeJ6l9bNB+GDYoTpRZ/YsyVk5mbUeCf79c2CGe9zmOeJMr7QUjZWi1hEJojYHE=;AkYvY5MVi5TwsTip5LdSAA=="
+secured: "nac1YDbSi1VodCky3uXaSctaipJwHULOiuFXZ5vkamwSThWlHpTpkFKqYkO1ptQgJ8Zb06VpWpF6q1nrK/RiZjhCN1LD4fg4zN92MHZe7+Zb7UEaA6fDc+O6OjbHC4vpUcKn1D8MFJBUjo659tiJvFgPRo3gRBlshAUuy6k+jXH/tDC+M2BgF71U7pGZjuTwc7seFCudCsh9MuZPGMK9XrkZyikZtRE+csFPYtF0rDsWHL3/6+dk5Wvp21weta3VfcKaYGSoFUj0Yv3glyOKIhnGUdyMEj7aDn5enk1IZNZJVjbLtF7o/0vzcV6TWy+YytM6YZMS3a+fhFj+MtrOql0XmI3/EzlVqzz0G2NWS40=;z24del7UEG/yZujEHukJ5w=="
 ---
 

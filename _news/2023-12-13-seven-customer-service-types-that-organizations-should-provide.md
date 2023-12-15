@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/customer-service-types/"
 webUrl: "https://www.ibm.com/blog/customer-service-types/"
 type: article
 quality: 102
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -26,6 +26,17 @@ images:
     width: 2400
     height: 1260
     isCached: true
+
+related:
+  - title: "Customer service trends winning organizations need to follow"
+    excerpt: "Prioritizing these seven customer service trends can help ensure an organization is prepared to meet changing customer expectations.\nThe post Customer service trends winning organizations need to follow appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-12-15T20:55:37Z
+    webUrl: "https://www.ibm.com/blog/customer-service-trends/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 82
 
 secured: "5uJ/Dgg91cKgwJzhLfFONXA2B3t06qbIKtpldc3fsrpjqkachbefa6BQbwLmPdn4dmc6q+zC0iZmmOuGslIQ4aE+IST1ypyqNnJ04tVFGG69NqOoYJb7NK6VxXH2D2rx9J/mOLWgynd0SLTYdLf9DP1eSI4Mnn+kb4KRwQwQyFRU2G9iguHulCjBimwT0ELzbgyPjnudAZz8kmC7sRvJOUsDTx8t8pEa67YVUSHPuUJXvdFvdWL1Ik0oOnhSBY00BDnMOMNF6VytM5XrEwBMypndLxgWvD4otZacJId52h7fwOcQvR5GuSOdtLBYHIoKSNo2jkUjO4ImNyV3k2AUrEiiUOKPG6HSbnn7ph1uVF4=;H5i/4yXaihQ8vbGpIR0e8A=="
 ---

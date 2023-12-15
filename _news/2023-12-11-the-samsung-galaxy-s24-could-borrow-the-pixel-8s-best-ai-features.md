@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/phones/samsung-galaxy-phones/the-samsung
 webUrl: "https://www.techradar.com/phones/samsung-galaxy-phones/the-samsung-galaxy-s24-could-borrow-the-pixel-8s-best-ai-features"
 type: article
 quality: 69
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -147,6 +147,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "AI is coming to Samsung Keyboard to help you find the perfect words"
+    excerpt: "Samsung's upcoming One UI 6.1 update may integrate AI into its Keyboard, allowing users to change the tone of text and even translate it. Google is also expanding its AI efforts with features like \"Help me write\" in Chrome 122, making AI services more accessible and prominent in everyday life."
+    publishedDateTime: 2023-12-15T19:59:00Z
+    webUrl: "https://www.androidpolice.com/samsung-keyboard-ai-text-tone-generator/"
+    type: article
+    provider:
+      name: Android Police
+      domain: androidpolice.com
+    quality: 19
 
 secured: "PM84fK4EZE3uuf8Mbm85SLfRW6Pn7zT+M9kRlmkFGBvODyM1ppgq1AFb1jVjA7Bz5/IODh5SP/d2u5bRiEHcFzfOfhr9dei8AULZzbfF8AsZRYzbdbztVNmn+1X8jdX9AFX9t2J2jrcCHH10K/qpZVeOZdet5vP1Uj5J8qEKp2bt5I/uYI2GV1HJuB9qKTZwLwY5wB3mk0QqNH1TZHDMcXopf6oL3hvDurt/XEGgq+s7WYUMdU8krSeswWW9ZNgso4GPK8olGI77TNkrX0BzF44Li64FsuSBM6eA805QVdALBFwpTifRofP2S3OIseUcjvPXCyTbFMTxUaEw7GQ7agZFA4sHPEshZfUv9ejitBQ=;WwBSPuVB2ZvSSt91J5ewrQ=="
 ---

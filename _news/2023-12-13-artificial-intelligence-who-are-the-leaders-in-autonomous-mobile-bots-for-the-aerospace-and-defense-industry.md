@@ -6,7 +6,7 @@ publishedDateTime: 2023-12-13T14:07:00Z
 originalUrl: "https://www.airforce-technology.com/data-insights/innovators-ai-autonomous-mobile-bots-aerospace-and-defense/"
 webUrl: "https://www.airforce-technology.com/data-insights/innovators-ai-autonomous-mobile-bots-aerospace-and-defense/"
 type: article
-quality: 0
+quality: 19
 heat: -1
 published: false
 
@@ -16,6 +16,13 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+
+images:
+  - url: "https://www.airforce-technology.com/wp-content/uploads/sites/6/2023/12/ADS_AI_autonomous-mobile-bots.jpg"
+    width: 1440
+    height: 810
+    isCached: true
 
 related:
   - title: "Artificial intelligence: who are the leaders in aircraft maintenance AI for the aerospace and defense industry?"
@@ -33,6 +40,6 @@ related:
         height: 810
         isCached: true
 
-secured: "pN5umM+4B8vZcL+HK2fLi4n9p/H9ENDFeZ4bM+Np3ILMDl9WvVPzZ6VQlZwDKuPp+O5/zOH2G9w0qd2zR7CdIXU5fZn1u7UbUftIZuj0QbvBt7JMNYuRACRLYW3w1/1g2QM9LhN1NurC01Z7hXtvV1Ga1LIHizN90K9PZkCG/pI+1fVmPeny4+V5DanW6mm6/T+PHO5TYB6OrdQLWqJ3rymViY4wfDfuZm09asZoQF6EuWXn7P9fJAlVw+tCt7DCENMLi4td8iIkAJLv2xxtBuP7XfcdGvNLIcAhnXt0osVvGtdQR0vlz9doj4vh9DWCYmd/AbLJxx3dRu8VvxjmrInczJPWEa9pcu5+Hsz3vYHLRVIGSE8q8FZGLzcxpiAlSu4kKc+DtQIWVkvBQHv26m02RHhUveWvsP2pcgYPR3X8zmZn4p4u2+HMzxQoZGi4pdyBiDZm788RqtcXT5jUY0FS1EQmuR6skmmFiAhgR0YZPg66AJ17gTUV6gDMwAwi9Egfx/PAFqLwN3m4jpnXlw==;lxVvc2/ROEn4600CNFdwMg=="
+secured: "ckRcHGBSUjvXj4lFF2qBUnje1YUpF9nmu9nfYg/JLWfJRyLrh6ellp5IC0G3NvCHSTbP/pZID9bhl0NXiSSJT8vE70YniDJ6EC1ehJ5+g0U5I3jQ47aKDStvnrF7pzPN46CxqK1k0vhLxn2VtK2i2sFr8ABIB1dJHxxKIZF8gGSvIp7G2ptdO0RQB82SGdJ69CWWwrTT/jCLusHwvswxoL6dxNYVzXifp7d4iuOZQDB22RYaJqDwJyP/HDZ+3hLtTgn+qxjXCuW+T8k+Iso8CZXby7PE5AbL+x9Vs8pNTC4ntFz0gVOiDrl+6+/d0rM7sQ6hyTe83exWnaVZSMuKVxvp75vw/KXKh722MnOCHqg=;Wa4C2t8EnuATc+rGlxDA9A=="
 ---
 

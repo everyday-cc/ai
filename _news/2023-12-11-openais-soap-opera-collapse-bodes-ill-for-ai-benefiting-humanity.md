@@ -103,6 +103,15 @@ related:
       name: CoinTelegraph
       domain: cointelegraph.com
     quality: 17
+  - title: "OpenAI launches $10M grant program to keep AI from going rogue"
+    excerpt: "AI will become significantly harder to manage in the next decade, making existing oversight techniques insufficient, the startup said Friday."
+    publishedDateTime: 2023-12-15T20:53:00Z
+    webUrl: "https://www.ciodive.com/news/OpenAI-superalignment-superintelligent-steerability-AI-systems-grant-program/702713/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 17
 
 secured: "mhJwp4yRQhtsBJHFCvJyvy4xiu/wrbJOBsLQe/gPyFpbPq3thNbEiZkx7tGLjJTQrWmXmVaxJQzmJ7zyNoTMZuccOpHxRNi9QSGDopMoBiU0BKPCU01yh9sQ3ZFv7IWZj9pKipUCcqUpOqvjeVzd3GsDulQJtJDkuMQZC6ccRvs2fvoB92hDDxAdbuGbkU6361/gvsPmGLcD2r/lxbxie0hI/sHKt5tOxQXYbgGlhOipWVs30ByKUFFtiUhX9KLVy3yHaAchOoXAVCyFWZq7yW2me0+aREqB1kd5TsZs3UbcfCTvBFd4LcoO3+eWKIQm9bybOw4BEvUM3XY2oYM/Pya46xUE6yEn2n+Vv/ezg1oeeELE6MI6PAALVDClzv2rUZpUd0VkhGKCZAQT00qdDsjvOCEZg8ycgfR+QKul+tTkUdD4iouhuifrl7ajtSeBU8yL4jikkAEf3LwCDaPPN/zSPuGjruFqpw1+eXab1rPVme8QglxePgvZ8/NtNl8nmKhkQ3xBVlR9ZsP2fQ2Biw==;Ss4GP1cJKZUjt7XfcZIo/Q=="
 ---

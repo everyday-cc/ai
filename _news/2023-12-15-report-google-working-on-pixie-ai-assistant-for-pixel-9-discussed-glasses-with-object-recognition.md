@@ -7,7 +7,7 @@ originalUrl: "https://9to5google.com/2023/12/14/pixel-9-pixie-ai-assistant/"
 webUrl: "https://9to5google.com/2023/12/14/pixel-9-pixie-ai-assistant/"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "REPORT: The C-suite Weighs in on Gen AI"
-    excerpt: "Thomson Reuters’ \"Future of Professionals C-Suite Report,\" reveals that while the majority of the C-suite is already or planning to use Gen AI at work, an overwhelming 87% of execs are concerned with how it will be deployed."
-    publishedDateTime: 2023-12-14T11:00:00Z
-    webUrl: "https://insidebigdata.com/2023/12/14/report-the-c-suite-weighs-in-on-gen-ai/"
+  - title: "Google reportedly plans new “Pixie” AI assistant, exclusive to Pixel devices"
+    excerpt: "Move over Google Assistant, Google is apparently working on a new AI. The Information reports that Google is working on a new \"Pixie\" AI assistant that will be exclusive to Pixel devices. Pixie will reportedly be powered by Google's new \" Gemini \" AI model."
+    publishedDateTime: 2023-12-15T21:58:00Z
+    webUrl: "https://arstechnica.com/reviews/2023/12/google-reportedly-plans-new-pixie-ai-assistant-exclusive-to-pixel-devices/"
     type: article
     provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 39
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 64
     images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2023/08/Generative_AI_shutterstock_2273007347_special.jpg"
-        width: 1100
-        height: 550
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/08/hey-google-760x380.jpg"
+        width: 760
+        height: 380
         isCached: true
   - title: "Google Reportedly Working on ‘Pixie’ AI Assistant, AR Glasses"
     excerpt: "Google is gearing up for its next breakthrough by integrating the Gemini foundational model into upcoming products, including a potential AI assistant."

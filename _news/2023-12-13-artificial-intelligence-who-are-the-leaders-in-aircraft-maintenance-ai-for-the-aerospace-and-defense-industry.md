@@ -32,7 +32,12 @@ related:
     provider:
       name: Airforce Technology
       domain: airforce-technology.com
-    quality: 0
+    quality: 19
+    images:
+      - url: "https://www.airforce-technology.com/wp-content/uploads/sites/6/2023/12/ADS_AI_autonomous-mobile-bots.jpg"
+        width: 1440
+        height: 810
+        isCached: true
 
 secured: "wJx3bkTWg7A5z8gLHNiuNUNlk27EiQjkYg8n/0a6kXE8yW9BZ9nk6AajM0rVLnZ8d0Hc9eBAHiJgPLs5gCvmcJyIxsi2kU1SAGEcOgCHOBZ8XR+7rs/ZcvZKXZ8ZNuZbhUYbOdpUYW408KhOj0jQW3WaP09qKs5u/fIryT/PI1P1R0n6D/zuqpuPokdgKl9PTYX2EG3nOiF13y/0sC0lpxhJvNlAeB+6EPh41+rA64od49NIZKWsgOEJpA5650EXtzBD8ainell+vurio4mnjICQ5KnYulNJRuDgaAUsNjQWTmXDSVdq3khWBMj01a4qtQ3E9RGPQp+NONQhlYb9sjca21KNWCKoK+6dL+DxmvlmywtWNSKIM00vMePllzCqYLsJ2tGWKyaZXzQsuYRZZAUBLwZa08K68u1PL0eK0QHTkuTlBsaWEFyOvEQD5dNRcADYDBWTzS+278wfY7BuhvcbOsa4wL0tZuuEnW5KMorGwEVxXLENrS7bwMWSgeyjhXGbQEH/PEXsUYmyTsORow==;smCxV92dguQQYwbRXlX/jA=="
 ---

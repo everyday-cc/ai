@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/world/2023/dec/11/eu-agrees-tough-rules-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2023/dec/11/eu-agrees-tough-rules-on-police-use-of-ai-biometric-surveillance-ban"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/28124015/online-banking-purchases-scaled.jpg"
         width: 2048
         height: 1367
+        isCached: true
+  - title: "Face biometrics code could be seeing through better eyes"
+    excerpt: "Computer vision vendors and researchers are rapidly developing significantly upgraded camera systems on the front end of AI."
+    publishedDateTime: 2023-12-15T22:12:00Z
+    webUrl: "https://www.biometricupdate.com/202312/face-biometrics-code-could-be-seeing-through-better-eyes"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/12/15171048/computer-vision-ai-scaled.jpg"
+        width: 2048
+        height: 1152
         isCached: true
 
 secured: "S+Z5QApyFZVRFKA7O7+fsv4iltlzFnk0bxBx7MP1BY6E8m0piklpdQ85DckmS4/Z0EtDschKsQE1FBibjW2blP9++yk9GHhJ1Rkll1gwpQlMiVj0kWnZpDiFbWeWIjFMWlX84kGEVllX+cPhcvha635qzpSUe+LNXC6SbdmbdjIkgrI4+HuDjCFx+4vOZcd+Y5+TdtETMHpQeAGgonGRqx+6P91clWHZhyIVcIfX4sRslgXZOiaGHtSWsBNCBBBR0Yv6psS2Gp+hC2qfWUqf9H7r8Sr5tFfstEp+VOOCroTYY1SQZZGsovUurYJAJVn2eBSOR04IZEzL5Yq6TrNB8tZsqnsPeJKuJAuNvl/RKv9NzhsEmddexfiLYC5qr+U0eRDT1N5giW0yHWIvro09PGA46si5eK2iil032ns1uYPLGe6yD8QSbzWhlZPzta0oiUIehqsTKEaWNzB98rJakdKhlHyv3TzTmtCH7XL4h2P01NFVQQuo48v9qgTHQ9v50qb0TktqbGl+W2L06QKCqA==;BzUM5ZD5uO8TcCFy/YZHjA=="

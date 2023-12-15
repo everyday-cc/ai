@@ -132,15 +132,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "Top Technology Trends in Banking and Fintech for 2024"
-    excerpt: "While still in their early stages, blockchain and DLT have the potential to revolutionize various aspects of financial services, from cross-border payments and trade finance to digital identity and anti-money laundering compliance. 2024 will see further  experimentation and adoption of these technologies in various use cases"
-    publishedDateTime: 2023-12-10T19:10:00Z
-    webUrl: "https://www.finextra.com/blogposting/25354/top-technology-trends-in-banking-and-fintech-for-2024"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
 
 secured: "0reeOzhv+t0VjaZs40FCPbus+NJMDcqh6ut5oY4vmi/H0TLuuEL/HpH61YoHaJQ+PksQz9z3Sos4+mKbjEyGHTODM/s2Y93lUmUPZ/uCtAB/EwLSRdIBidqQPSF9jHNLcVDBq0OJOc8rcvrThIWIsX5/HtPNH2l3t3R0Sz0wZkeWjDV1v+PQw8twRNkBmPzp4AiLcfw8ujlFC+sqF6DLgQaiH+IryobSPunza8jVyrVAe5fXh3BadRkNS2fQq5YLqNcrpsmbncj4rbXVphDFxKmCcxkr88YhYJDvP73DVXQBArI6rbMyuUfTHIwS0CvF+bvVJX1sd58YhXvS7yzFLAB7jN4iblw1VaQ2DjUpe1E=;d/kEJ5vUObZccCu1gtXTDQ=="
 ---

@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 741
         isCached: true
-  - title: "GM’s moonshot bet on self-driving cars sours as Cruise axes a quarter of its workforce"
-    excerpt: "GM CEO Mary Barra had hoped Cruise could generate $50 billion in annual revenue by 2030. That plan is now in jeopardy. Christopher Goodney—Bloomberg via Getty Images Robotaxi company Cruise is axing a full quarter of its workforce, eliminating 900 jobs ..."
-    publishedDateTime: 2023-12-15T12:32:00Z
-    webUrl: "https://fortune.com/2023/12/15/gm-cruise-job-cuts-layoffs-workforce-self-driving-cars-robotaxis/"
-    ampWebUrl: "https://fortune.com/2023/12/15/gm-cruise-job-cuts-layoffs-workforce-self-driving-cars-robotaxis/amp/"
-    cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/12/15/gm-cruise-job-cuts-layoffs-workforce-self-driving-cars-robotaxis/amp/"
-    type: article
-    provider:
-      name: Fortune
-      domain: fortune.com
-    quality: 66
-    images:
-      - url: "https://i.ytimg.com/vi/mZBeIoa0kHM/hqdefault.jpg"
-        width: 480
-        height: 360
-        isCached: true
   - title: "GM to lay off 900 workers at self-driving unit"
     excerpt: "General Motors announced it is laying off 900 workers at Cruise, the company’s self-driving unit. Those layoffs will impact around 24% of its workforce."
     publishedDateTime: 2023-12-14T19:32:00Z
@@ -124,6 +108,15 @@ related:
       name: Automotive News
       domain: autonews.com
     quality: 4
+  - title: "GM’s moonshot bet on self-driving cars sours as Cruise axes a quarter of its workforce"
+    excerpt: "Mary Barra, CEO of GM, had hoped to haul in $50 billion in annual revenue in 2030 through the company, but has since had to revise her plans as a result of the crisis. Plans to expand beyond San Francisco into a dozen cities have now been scrapped to focus on just the one."
+    publishedDateTime: 2023-12-15T14:33:00Z
+    webUrl: "https://www.aol.com/gm-moonshot-bet-self-driving-123204770.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 0
 
 secured: "hkJCf++a5Kv84O5lvc82p7WqvRzMQrkVgXOcOBmSOREcfmOlbwflGs/pMgUiSvlMQ9BZyHgyspHwkKevQCF99mxOiMrDJ9epUmO074n2J9oQ9CnPVVrsBIcpictRK2jUGFGxON7BXwhQh5T50spIjgGG+Z32FpatJqkfAq+ZCib0nNMeyK2qsi7U3/Pfx5YEREWOe9a3tiv/pcJRWEKo7s4qSWQmxd8BtwYUjKPtpjHPsCcQbMiNZtOX//zsQhsCCL+DYuUlz6/YKpg3SwfFZFpS2SECl8vFNJ1Ivv8ZK9Echb09j78vp3fCz0bmENwa++TqtWmbOH2AypFVLIplD7Sn0gT4C0LBmPnu2Gk+kdbKBkq57qIgHCYJPaAjkdDx8O87RaxRzfDnoeRWZq4EhQgd099x2hrapocMAJdByFbkVttvWTlIjywZjUf3N+FMxbiy15d7m6PdbhZ2KyAk8ry5fMXyNEK12GHWFom1XZsFomVYMfXpSWWj9OmLuI1L3FG6hHv6jkDKk+H4pK9Wyg==;88Qn3vPYfeRl+PtTS6WpwA=="
 ---

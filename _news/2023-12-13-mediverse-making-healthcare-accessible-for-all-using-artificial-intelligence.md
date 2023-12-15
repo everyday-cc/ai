@@ -133,6 +133,15 @@ related:
         width: 690
         height: 400
         isCached: true
+  - title: "Safe AI for healthcare: Providers pursue ‘once-in-a-generation’ benefits of large-scale models"
+    excerpt: "Leading healthcare entities sign the Biden-⁠Harris Admin's voluntary commitments for the safe, secure use of AI for healthcare."
+    publishedDateTime: 2023-12-15T19:19:00Z
+    webUrl: "https://venturebeat.com/ai/safe-ai-for-healthcare-providers-pursue-once-in-a-generation-benefits-of-large-scale-models/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 52
   - title: "Revolutionizing Healthcare: Exploring the AI Advancements Discussed at the Medicine Conference 2024"
     excerpt: "Welcome to our blog, where we delve into the mind-blowing realm of healthcare revolution! Today, we transport you to the captivating world of Medicine Conference 2024, where groundbreaking advancements in artificial intelligence (AI) are pushing the limits of what is possible."
     publishedDateTime: 2023-12-12T18:37:00Z

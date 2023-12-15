@@ -142,6 +142,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "AI is coming to Samsung Keyboard to help you find the perfect words"
+    excerpt: "Samsung's upcoming One UI 6.1 update may integrate AI into its Keyboard, allowing users to change the tone of text and even translate it. Google is also expanding its AI efforts with features like \"Help me write\" in Chrome 122, making AI services more accessible and prominent in everyday life."
+    publishedDateTime: 2023-12-15T19:59:00Z
+    webUrl: "https://www.androidpolice.com/samsung-keyboard-ai-text-tone-generator/"
+    type: article
+    provider:
+      name: Android Police
+      domain: androidpolice.com
+    quality: 19
 
 secured: "oUXjjqLrlyrXnfPJgZXPtjUXcTRhr3BV3DrisiVp26pXKqKfkMaIOQ6Bs+LFnEiNO6cUL2PXc0I8KTdaaeaB8RibOGJTQ3SutzUA7AqILHjikpePk7mEZJWKKWzBuqUyLQoKGQ5sD1bHGMJf1Uu3Xdg8P6wWfC0Xc7tt0jX+NK1neMtNgwmo8E0RKgOoiZa6VyqQ56LktcnE8O5CqnreNucmMZG0zlWmPI+sJ9lqlYHeF9NRU9LHRSj0QR3kGWT7o9n1lz8Kj+wTt9lX7KbkQ4VjBrJHnr+t5Cz1SR+WDPbvBXE76SBP0/Y2lAa27pAnlhKerZ1y8mb7SUYqOKLWXgCAL4vq7C+BuUpxCGoKJiXBdeGi7CojDQws7u3zCP39NWQoWqbUfQuSW4x3EuoU7gBtThn213WbgtjXs+aJ6V+nKB9/ZV637ysicznpuJLAU82kAk4JPLxrQeTd5OZW8MZJLKmFY/4o/t248H/LjxQCEw5Twqy351z4Cl/cfNmODaUe4l/7zXK5b7uAMHc3kQ==;3BrbICJpLHxFIphtnjrBoQ=="
 ---

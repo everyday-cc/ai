@@ -25,15 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Bank audit executives seek stricter regulation for fintech, BDCs"
-    excerpt: "ACAEBIN also called for stricter regulations of the fintech space as well as the operations of the Bureaux de Change."
-    publishedDateTime: 2023-12-13T19:08:00Z
-    webUrl: "https://punchng.com/bank-audit-executives-seek-stricter-regulation-for-fintech-bdcs/"
+  - title: "Monak E-Services Triumphs At Regional Finals Of Fintech World Cup In Riyadh"
+    excerpt: "Dubai, UAE, 15th December 2023, ZEX PR WIRE , 11 shortlisted fintech start-ups participated in the third regional finals of the Fintech World Cup organized by Dubai Fintech Summit in collaboration with Trescon at the DATE Fintech Show,"
+    publishedDateTime: 2023-12-15T21:03:00Z
+    webUrl: "https://menafn.com/1107605317/Monak-E-Services-Triumphs-At-Regional-Finals-Of-Fintech-World-Cup-In-Riyadh"
     type: article
     provider:
-      name: The Punch Newspapers
-      domain: punchng.com
-    quality: 19
+      name: Mena FN
+      domain: menafn.com
+    quality: 22
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?870772"
+        width: 476
+        height: 250
+        isCached: true
+  - title: "Monak E-Services Triumphs At Fintech World Cup Regional Finals In Riyadh"
+    excerpt: "(MENAFN- Asdaf News) Riyadh -\\u00a0 Asdaf News:\\r\\n\\r\\nThe second day of the DATE FinTech Show and DATE AI Show hosted 11 shortlisted fintech start-ups participated in the third regional finals of the Fintech World Cup organized by Dubai Fintech Summit in ..."
+    publishedDateTime: 2023-12-14T08:41:00Z
+    webUrl: "https://menafn.com/1107597919/Monak-E-Services-Triumphs-At-Fintech-World-Cup-Regional-Finals-In-Riyadh"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 3
 
 secured: "PXQsPbC5hl7c3gdZUajFKGqX76RQPjwvo9khl4JI/LrGORxKAWRuzu2ox7k3OZj4y20V2AuDwbirr4wpvvl4wlmdXwUx1fjRIYPgsX29JwPQoudv3z1SuKf4IWtR49kUF1USfwRVJJ39SbydCy9fZWSgLdCWQ18EHlxpJkYyUL1OVqF2fkN/EMREQ9qmmOHSMSTbUU/RyFmfPIv3eWVUI+lJro1G7ERVZV2fRwlTcP6xzzB/yiah7BU4sIip365ASqQDieRXvV0ejdow3mP/OLpOGkz5n4pfqcVWWoN74jkIsKwEoTOSMa/czZvsO+ksbOgnx3mZkxDekvsydhSdXPkZPDJUJDgzGwxIxxZ8SOE=;pLNJhOTi5Aj1g7cclq3xKw=="
 ---

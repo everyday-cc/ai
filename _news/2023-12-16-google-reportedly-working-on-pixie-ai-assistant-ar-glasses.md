@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google reportedly plans new “Pixie” AI assistant, exclusive to Pixel devices"
+    excerpt: "Move over Google Assistant, Google is apparently working on a new AI. The Information reports that Google is working on a new \"Pixie\" AI assistant that will be exclusive to Pixel devices. Pixie will reportedly be powered by Google's new \" Gemini \" AI model."
+    publishedDateTime: 2023-12-15T21:58:00Z
+    webUrl: "https://arstechnica.com/reviews/2023/12/google-reportedly-plans-new-pixie-ai-assistant-exclusive-to-pixel-devices/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 64
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/08/hey-google-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "Report: Google working on ‘Pixie’ AI assistant for Pixel 9, discussed glasses with object recognition"
     excerpt: "According to The Information, Google plans to have Gemini power “an AI assistant called Pixie that will be exclusive to its Pixel devices.” It will use Gmail, Maps, and other “data from Google products” on your phone. Today’s report says it could “evolve into a far more personalized version of the Google Assistant.”"
     publishedDateTime: 2023-12-14T18:05:00Z
@@ -39,21 +53,7 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "REPORT: The C-suite Weighs in on Gen AI"
-    excerpt: "Thomson Reuters’ \"Future of Professionals C-Suite Report,\" reveals that while the majority of the C-suite is already or planning to use Gen AI at work, an overwhelming 87% of execs are concerned with how it will be deployed."
-    publishedDateTime: 2023-12-14T11:00:00Z
-    webUrl: "https://insidebigdata.com/2023/12/14/report-the-c-suite-weighs-in-on-gen-ai/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 39
-    images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2023/08/Generative_AI_shutterstock_2273007347_special.jpg"
-        width: 1100
-        height: 550
-        isCached: true
 
-secured: "mgyN6hx0KWiDQCzcYBzj7i3gLynG40VxIWam4Otple58QyR4Bb50zkbGuOe0ThtQdDBtrrPjMQobtS/UcOmoL0Q448/89mdo3MEXJDmrAgQFdvIPRIwEHRGQPuoqkArBzdmwKApGfgZn4n6URd5tHCD3leCw50gq56L47U4oiwahXtSw18BokA37RzDsFPHShemBWzjAazOppcXJClaQ0DGXWRGCTDA6+BcUKYi+FnSCt1GgOn4JY4qN3UHuu2b4i+YyUqGm4eNUiQxPZTlUda3WC0AOKrNv+u9FNW0oyr8LvZNmyT/ZC3wNlHLSa0CAZGfkEq06iMen9JX/7qzUvoc+RQo6iiPxsNoRNZKQGb8=;1jL/L+M3RglDDC68KP84Tg=="
+secured: "dvCpgm2so6fesVCQsPcFzj4OBsy0Qgnd6xYSYbJ6sV8vH6tO+hWmbMbYChcME0RG0KYGihVSKOO7BRF4F/mGXnNpUosy4kOdFKZ+K9BgeJLEiC7sZ3+jApLtTuqEiPLi4chq8+1C3cynxxc8dde0A67+xCMIRL58nQkihVfGJ1/ORhdWJCNnmCQtS2tEO94tODSLnIfq+5uxVDFZ4yp+ncYPRILSvh2LxMWyqYKuvxa/YtC3BDOrlRTX2KF6Z21Jz+KjkE5rXtsqCB1zfKViys8MtlHiS+JIGyOGUoq78RV1JCt73cchEP2nVqvedx7og6siIZkHxQ7XKtQU5pYOLOMyn10WPyHlwWE8L9S+KRJNWibqXMtqH4fmBM9Nu2QJPyBB8Uoioyd/PVZ3aDEZoXgdladGIjAi96plRNKxpzcV6Art2lYiup9Uu3hlbRmZpe1OVDBmLOPC01ECr/I/i0WK5mMXipHFAu2FfuDualLkIJLryQwEYkpEeb2PaH6NQibDQWSloN+sGQdxmFPVIA==;+D60dRBsbPmuBvaCVZqzIQ=="
 ---
 

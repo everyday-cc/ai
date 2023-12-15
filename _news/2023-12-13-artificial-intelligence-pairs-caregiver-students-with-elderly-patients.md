@@ -1,23 +1,31 @@
 ---
 category: news
 title: "Artificial Intelligence pairs caregiver students with elderly patients"
-excerpt: "Artificial intelligence is helping older patients with memory care issues get matched with health care students."
-publishedDateTime: 2023-12-13T11:32:00Z
-originalUrl: "https://www.aol.com/artificial-intelligence-pairs-caregiver-students-043249632.html"
-webUrl: "https://www.aol.com/artificial-intelligence-pairs-caregiver-students-043249632.html"
+excerpt: "REDWOOD CITY, Calif. - Artificial intelligence is helping older patients with memory care issues get matched with health care students. Companionship and technology are paired through a program ..."
+publishedDateTime: 2023-12-12T20:31:00Z
+originalUrl: "https://www.ktvu.com/news/artificial-intelligence-pairs-caregiver-students-with-elderly-patients"
+webUrl: "https://www.ktvu.com/news/artificial-intelligence-pairs-caregiver-students-with-elderly-patients"
+ampWebUrl: "https://www.ktvu.com/news/artificial-intelligence-pairs-caregiver-students-with-elderly-patients.amp"
+cdnAmpWebUrl: "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/artificial-intelligence-pairs-caregiver-students-with-elderly-patients.amp"
 type: article
-quality: 34
-heat: 34
-published: false
+quality: 74
+heat: 74
+published: true
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: KTVU
+  domain: ktvu.com
 
 topics:
-  - AI in Healthcare
+  - AI in Autos
   - AI
 
-secured: "ZzYlgvG/DtaCcQfyDvAUpc4drwG3WyyTP58XC/dHbIs97CVgB1GPBYB+FwL9yCYv+u0mULP/yN0GIq6adGIEaTRYiOn4hs0a9jwjYh14UTWNqf7YqTLoEPFf6JHyjUWOIh7tI78P3hQ5P1NDLd0POGw8H0Ayc8CUYS1Tr1UjlQBvpqpTqb5tW+x+CeX7/Eiv3MYM3hhRmb3TXd3qcAb3LJD1khz0Rb44GUrjeC19X8iczTq64mDG/V5VWZMM8MtJgqrOiNW5Zm3n7SAIWLInd6/6GUTcbLa5HYgA8nEU4E/ITZP6omzagtHfKntdgfuajOyt4g5aKkgMLaYd410xq1cpWSSUIBViL5COwVzXHmrKhKPDDbdtX/sa7jzJh4bye0R1VGEy+FPHi9Ot2Oetpa0FxpU+umqUG6ZrL5bmFtsCqXJkSOJboBxE7Sl/p2fNivDGJQiZxY1wQG2FqhOeSXQliFtEjmHdRzYhAU3e6EYQFxhbbq5jEIbtkdIkxE2R5drbCJ46zRdZZHGb2S9TBw==;uQkO4u4bk69FbKeuRaOWXQ=="
+images:
+  - url: "https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2023/12/932/470/watchfoxlocal.jpg?ve=1&tl=1"
+    width: 932
+    height: 470
+    isCached: true
+
+secured: "cePheVdi4fQluTOXsVN0bmm8lWaHNn9dl4YZc5D8duGfU6k3HnTtXWVOkpIlFnEy1Euz8RuHbQkwFm1XOFxW+FKYoU4XUfedMf7x+60jcJT+4IkDmibPnpSWo+8cgETT9+SDrl2qCyU6AiRjpfl1xFPRULqCoqzjkJbgNkjwShRswFcvUo0rDO7yEhusX9ct3VukADxR7hMA3Zv111xcBTnR5x1Mc9cbBqu1gMG1HohmnQxThUjF8Nl1XAPOIThQal+1PTlWAWztiFtIb3m3cdZHvLblCj4bmeH1W+7OiPsV81wnzo0DOPYGfbljgfk9Pt/emYWxKr9+An4m9cS66jhu93Ij6WTlcAAjF0X54UQ=;TO5oUTUYpeST4Kb1YKhk7A=="
 ---
 

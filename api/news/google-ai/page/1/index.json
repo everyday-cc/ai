@@ -100,6 +100,58 @@
       ]
     },
     {
+      "path": "_news/2023-12-14-funsearch-making-new-discoveries-in-mathematical-sciences-using-large-language-models.md",
+      "title": "FunSearch: Making new discoveries in mathematical sciences using Large Language Models",
+      "excerpt": "In a paper published in Nature, we introduce FunSearch, a method for searching for “functions” written in computer code, and find new solutions in mathematics and computer science. FunSearch works by pairing a pre-trained LLM, whose goal is to provide creative solutions in the form of computer code,",
+      "sourceUrl": null,
+      "webUrl": "https://deepmind.google/discover/blog/funsearch-making-new-discoveries-in-mathematical-sciences-using-large-language-models/",
+      "originalUrl": "https://deepmind.google/discover/blog/funsearch-making-new-discoveries-in-mathematical-sciences-using-large-language-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/GC6SH0u6DyyCT9C1LH6XXmproSod7o5QGp9-Oe8BsuXyPzBlfcxFHX9pxXg69ZftEVU0Joga7tyo0VwQOSBBrugZ8qfl9_X-pgiH527p71S7DC32Jw=w1200-h630-n-nu",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-14T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-13-gemini-pro-api-and-more-new-ai-tools-for-developers-and-enterprises.md",
       "title": "Gemini Pro API and more new AI tools for developers and enterprises",
       "excerpt": "Launching Gemini Pro API and four more AI tools: Imagen 2, MedLM, and Duet AI for Developers and Duet AI in Security Operations.",
@@ -242,24 +294,15 @@
     {
       "path": "_news/2023-12-09-chatgpt-vs-google-bard-round-2-how-does-the-new-gemini-model-fare.md",
       "title": "ChatGPT vs. Google Bard, round 2: How does the new Gemini model fare?",
-      "excerpt": "The new Gemini-powered Bard keeps the same spirit (\"He envisioned a sport that would unite people...\") with more concision and focus. Interestingly, GPT-3.5 is the only model we tested to imagine Lincoln as a youth instead of a restless president sitting in the White House.",
+      "excerpt": "Now, the AI days are a bit less “early,\" and this week's launch of a new version of Bard powered by Google's new Gemini language model seemed like a good excuse to revisit that chatbot battle with the same set of carefully designed prompts.",
       "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/ai/2023/12/chatgpt-vs-google-bard-round-2-how-does-the-new-gemini-model-fare/3/?view=grid",
-      "originalUrl": "https://arstechnica.com/ai/2023/12/chatgpt-vs-google-bard-round-2-how-does-the-new-gemini-model-fare/3/?view=grid",
+      "webUrl": "https://arstechnica.com/ai/2023/12/chatgpt-vs-google-bard-round-2-how-does-the-new-gemini-model-fare/?view=archive",
+      "originalUrl": "https://arstechnica.com/ai/2023/12/chatgpt-vs-google-bard-round-2-how-does-the-new-gemini-model-fare/?view=archive",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/chatgpt-vs-bard-round2-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "",
       "type": "article",
       "ampWebUrl": null,
@@ -1341,40 +1384,6 @@
       "provider": {
         "name": "The Independent",
         "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-30-google-deepmind-ai-predicts-2-million-novel-chemical-materials-for-real-world-tech.md",
-      "title": "Google DeepMind AI predicts 2 million novel chemical materials for real-world tech",
-      "excerpt": "Google DeepMind’s AI predicts the structures of two million materials, with potential for batteries and chips.",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/google-deep-mind-ai-predicts-2-million-material-structures-for-real-world-tech",
-      "originalUrl": "https://cointelegraph.com/news/google-deep-mind-ai-predicts-2-million-material-structures-for-real-world-tech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-30T11:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
         "images": null,
         "publishers": null,
         "authors": null

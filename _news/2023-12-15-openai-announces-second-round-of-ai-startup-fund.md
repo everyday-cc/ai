@@ -103,6 +103,15 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 17
+  - title: "OpenAI launches $10M grant program to keep AI from going rogue"
+    excerpt: "AI will become significantly harder to manage in the next decade, making existing oversight techniques insufficient, the startup said Friday."
+    publishedDateTime: 2023-12-15T20:53:00Z
+    webUrl: "https://www.ciodive.com/news/OpenAI-superalignment-superintelligent-steerability-AI-systems-grant-program/702713/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 17
 
 secured: "6TN89Jx4Z+6ZMksMNTwvrHrrnOWiMRH0brV8lTf0oMV1qqxgKhOb/Pl3V/x2iRyhYSS7M5CcBcuVgFaEzSXBNbqVe3bAyDYD6nt7YANUNZpmTycmYrMigpaIODYF9ZW1kAGrUq0drO8I6hY4mHg/DQdFWWrdEwYMW1YmtQwM4pBbZxhXNdHI045T+qF5mCrD7WqND2oPT6UPsL4B/qkQzhnf+SWHkOAy2D7me3a1fcbGizup5eHi3ZsG7SZl+H5cxdigQWav87/w+RXD6v1tFbyXQeDbzBXFai2gggmXPzdz3Ibhr85z6+hP3a7SROPLPuwXPqAJYBTE8C6IVV++mwKLPLWyiG+ZczQnb1UE1vM=;G9JlGnlE0pnDB3A5W4hvfw=="
 ---

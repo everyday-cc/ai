@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/kalinabryant/2023/12/13/how-ai-is-impac
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kalinabryant/2023/12/13/how-ai-is-impacting-society-and-shaping-the-future/amp/"
 type: article
 quality: 91
-heat: 269
+heat: 279
 published: true
 
 provider:
@@ -193,6 +193,20 @@ related:
       - url: "https://knowtechie.com/wp-content/uploads/2023/12/Robot-hand-feature-1000x600.jpg"
         width: 1000
         height: 600
+        isCached: true
+  - title: "How the AI boom is transforming accounting"
+    excerpt: "The IRS rolling out chatbots to help individuals with basic tax matters and key presentations on AI innovation at accounting events are among the recent developments."
+    publishedDateTime: 2023-12-15T22:07:00Z
+    webUrl: "https://www.accountingtoday.com/list/how-the-ai-boom-is-transforming-accounting"
+    type: article
+    provider:
+      name: Accounting Today
+      domain: accountingtoday.com
+    quality: 39
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/213d245/2147483647/strip/true/crop/510x268+0+39/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F40%2F4c%2Ff764f70d44ec80eab750dbc8af35%2F1-1-1-artificial-intelligence-cover.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Preparing for the future: Exploring what artificial intelligence in 2025 will look like"
     excerpt: "Are you ready to step into the future? Brace yourself for mind-blowing innovations and revolutionary transformations as we dive deep into what artificial intelligence in 2025 will look like. Get set to be mesmerized by self-driving cars,"

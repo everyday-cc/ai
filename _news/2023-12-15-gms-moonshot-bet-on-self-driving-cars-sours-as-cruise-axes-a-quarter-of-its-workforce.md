@@ -1,34 +1,22 @@
 ---
 category: news
 title: "GM’s moonshot bet on self-driving cars sours as Cruise axes a quarter of its workforce"
-excerpt: "GM CEO Mary Barra had hoped Cruise could generate $50 billion in annual revenue by 2030. That plan is now in jeopardy. Christopher Goodney—Bloomberg via Getty Images Robotaxi company Cruise is axing a full quarter of its workforce, eliminating 900 jobs ..."
-publishedDateTime: 2023-12-15T12:32:00Z
-originalUrl: "https://fortune.com/2023/12/15/gm-cruise-job-cuts-layoffs-workforce-self-driving-cars-robotaxis/"
-webUrl: "https://fortune.com/2023/12/15/gm-cruise-job-cuts-layoffs-workforce-self-driving-cars-robotaxis/"
-ampWebUrl: "https://fortune.com/2023/12/15/gm-cruise-job-cuts-layoffs-workforce-self-driving-cars-robotaxis/amp/"
-cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/12/15/gm-cruise-job-cuts-layoffs-workforce-self-driving-cars-robotaxis/amp/"
+excerpt: "Mary Barra, CEO of GM, had hoped to haul in $50 billion in annual revenue in 2030 through the company, but has since had to revise her plans as a result of the crisis. Plans to expand beyond San Francisco into a dozen cities have now been scrapped to focus on just the one."
+publishedDateTime: 2023-12-15T14:33:00Z
+originalUrl: "https://www.aol.com/gm-moonshot-bet-self-driving-123204770.html"
+webUrl: "https://www.aol.com/gm-moonshot-bet-self-driving-123204770.html"
 type: article
-quality: 66
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Fortune
-  domain: fortune.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: AOL
+  domain: aol.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://i.ytimg.com/vi/mZBeIoa0kHM/hqdefault.jpg"
-    width: 480
-    height: 360
-    isCached: true
 
 related:
   - title: "Cruise slashes 24% of self-driving car workforce in sweeping layoffs"
@@ -129,6 +117,6 @@ related:
         height: 675
         isCached: true
 
-secured: "Vjmvx/FxLL3t5OHooX4IY5s+z9F46jf7hd/lJSNl2dZ9fsGqVVZu6aYbJbZNrSGoMR3sRH67M92JWThJJeBKjyoJQPJPkwbgFipP6mEI/7gX8yWrbjOjirBbsHQ+17y/b/x5k8sYHzqaygz5DcAPQBq60GB0cyxhTSsezbJlyipq7ri+3W79LandUPimG+JgvvkpqRSI3MSomcz9enPAHs6kTPmtmS8LB00jWt/oo9bORSeF4Et/EvqKTU6nC+QzSpMG+y3I6qcaLvHXbd4IJTcP11em22sl+bFPXWvIrC0PyczbQPTWaEskbKfR9E8ZF30+05MAGWNtF5iIW/5R8W45tZTxrt5CRToPf4ZZJpE=;w2zkeOFyuIwCDVcnNmeVvg=="
+secured: "VEqNguFuKlA0h+nXgoa/kc3haEheUmYBjDvZotxRlJMCqzXcYiahGyQ1h1NA7eUWHd65b+sMmKNIb7AcY0Htd+i4XXlzI9ju9DzsE+nKkS+cL0u0qP65k32HvJQKO+zHY+lFtcHnxo8Ba1eZXHIf+JpwdHGkb5B24xvyUcaMuCak/MxZnz4anCjrafIYzPuPo8Dht/3sOGS7GSiyKIKdcdFOfVKe2EvDHZQqsBb0vDBXLxtvPptTzFvAaI8d7aabaEpNF5wV7i9a9239AfoawuHNeUTe4r+2Hzq3mlTzZ9twEd0v2ZctbXhpCheCD7+a1ygDPgGlXFOtdh1cjhvx/PsX1/Xs842Rx5JFc3HD69Yf+RbhXF0HSE+WuvQHUJfK1mgGFsMdGDZnOqIBcCCz8Gsn4u1FZE9IMIA5Bz/u8NYVFzfDYY/j5Dxtt1Iudm52jzyLHrzDyPJ5hf4/pxFi298i8k0xL7s0q70TGBS3PrqfiBmA1edMvBJ1OIH9x081z5/2X+/3y3mKLWT/QZEobQ==;qtx+a+ZNEf2nOPUaFubC1A=="
 ---
 

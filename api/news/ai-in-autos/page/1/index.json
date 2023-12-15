@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-16-commentary-teslas-recall-of-2-million-vehicles-reminds-us-how-far-driverless-car-ai-still-has-to-go.md",
+      "title": "Commentary: Tesla’s recall of 2 million vehicles reminds us how far driverless car AI still has to go",
+      "excerpt": "There is a pressing need for new standards and mechanisms to assess the capabilities of these driverless cars, says University of Surrey's Saber Fallah.",
+      "sourceUrl": null,
+      "webUrl": "https://www.channelnewsasia.com/commentary/tesla-driverless-cars-recall-2-million-autonomous-vehicles-safety-autopilot-3991256",
+      "originalUrl": "https://www.channelnewsasia.com/commentary/tesla-driverless-cars-recall-2-million-autonomous-vehicles-safety-autopilot-3991256",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://onecms-res.cloudinary.com/image/upload/s--L6zlzHd4--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-04-06t205807z_3_lynxmpej350kx_rtroptp_3_tesla-privacy-cameras.jpg?itok=KuXvCHkc",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-15T22:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Channel NewsAsia Singapore",
+        "domain": "channelnewsasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-14-cruise-slashes-24-of-self-driving-car-workforce-in-sweeping-layoffs.md",
       "title": "Cruise slashes 24% of self-driving car workforce in sweeping layoffs",
       "excerpt": "Cruise, the embattled GM self-driving car subsidiary, is laying off 900 employees to slash costs and attempt to revamp the company.",
@@ -62,7 +105,7 @@
       "originalUrl": "https://www.wsj.com/livecoverage/fed-meeting-fomc-interest-rate-december-2023/card/heard-on-the-street-tesla-s-recall-highlights-the-limits-of-full-self-driving-tech-5t1wARKk5hZZYznApkee",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -188,6 +231,49 @@
       "provider": {
         "name": "Autoblog",
         "domain": "autoblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-13-artificial-intelligence-pairs-caregiver-students-with-elderly-patients.md",
+      "title": "Artificial Intelligence pairs caregiver students with elderly patients",
+      "excerpt": "REDWOOD CITY, Calif. - Artificial intelligence is helping older patients with memory care issues get matched with health care students. Companionship and technology are paired through a program ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ktvu.com/news/artificial-intelligence-pairs-caregiver-students-with-elderly-patients",
+      "originalUrl": "https://www.ktvu.com/news/artificial-intelligence-pairs-caregiver-students-with-elderly-patients",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2023/12/932/470/watchfoxlocal.jpg?ve=1&tl=1",
+          "width": 932,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.ktvu.com/news/artificial-intelligence-pairs-caregiver-students-with-elderly-patients.amp",
+      "cdnAmpWebUrl": "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/artificial-intelligence-pairs-caregiver-students-with-elderly-patients.amp",
+      "publishedDateTime": "2023-12-12T20:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTVU",
+        "domain": "ktvu.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -410,17 +496,26 @@
       "title": "The Psychological Effects of Self-Driving Cars",
       "excerpt": "Autonomous vehicles (AVs) including artificial intelligence AI-powered driverless or self-driving cars have received significant attention as a potentially safer and more sustainable mode of ...",
       "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/urban-survival/202311/the-psychological-effects-of-self-driving-cars",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/urban-survival/202311/the-psychological-effects-of-self-driving-cars",
+      "webUrl": "https://www.psychologytoday.com/intl/blog/urban-survival/202311/the-psychological-effects-of-self-driving-cars",
+      "originalUrl": "https://www.psychologytoday.com/intl/blog/urban-survival/202311/the-psychological-effects-of-self-driving-cars",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-11/pexels-matheus-bertelli-799443.jpg?itok=5Yxn1naW",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/urban-survival/202311/the-psychological-effects-of-self-driving-cars?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/urban-survival/202311/the-psychological-effects-of-self-driving-cars?amp",
       "publishedDateTime": "2023-12-10T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
@@ -1256,84 +1351,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-12-04-can-you-text-while-your-self-driving-car-is-doing-the-driving-what-florida-law-says.md",
-      "title": "Can you text while your self-driving car is doing the driving? What Florida law says",
-      "excerpt": "You can text away while leaving the driving to your Tesla or other self-driving car. Florida law says that a driver whose car has an “automated driving system engaged” won’t be punished for using the phone behind the wheel ( (in other words, if the car is driving and not you).",
-      "sourceUrl": null,
-      "webUrl": "https://www.miamiherald.com/news/traffic/article282641868.html",
-      "originalUrl": "https://www.miamiherald.com/news/traffic/article282641868.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.miamiherald.com/news/traffic/article282641868.html",
-      "cdnAmpWebUrl": "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/traffic/article282641868.html",
-      "publishedDateTime": "2023-12-04T14:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Miami Herald",
-        "domain": "miamiherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-04-artificial-intelligence-ai-what-it-is-and-how-it-is-used.md",
-      "title": "Artificial Intelligence (AI): What It Is and How It Is Used",
-      "excerpt": "Other examples of machines with artificial intelligence include computers that play chess and self-driving cars. Each of these machines must weigh the consequences of any action they take ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.investopedia.com/terms/a/artificial-intelligence-ai.asp",
-      "originalUrl": "https://www.investopedia.com/terms/a/artificial-intelligence-ai.asp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.investopedia.com/thmb/4K3hIci9bUF3521OUjC-cCG3NpE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/terms_a_artificial-intelligence-ai_asp-FINAL-ddba8ac599f3438d8064350d2ee1ae5a.jpg",
-          "width": 1500,
-          "height": 1013,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Investopedia",
-        "domain": "investopedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

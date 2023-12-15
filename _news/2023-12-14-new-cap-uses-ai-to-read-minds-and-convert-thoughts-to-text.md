@@ -45,7 +45,7 @@ related:
     provider:
       name: Hindustan Times Tech
       domain: hindustantimes.com
-    quality: 51
+    quality: 53
     images:
       - url: "https://images.hindustantimes.com/tech/img/2023/12/15/1600x900/pexels-mikhail-nilov-7671957_1702631370709_1702631384463.jpg"
         width: 1600

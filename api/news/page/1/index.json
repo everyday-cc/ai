@@ -2,6 +2,244 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-16-this-artificial-intelligence-ai-stock-looks-dirt-cheap-heres-why.md",
+      "title": "This Artificial Intelligence (AI) Stock Looks Dirt Cheap. Here's Why.",
+      "excerpt": "This is not entirely unreasonable, though, as artificial intelligence (AI) will have myriad applications in the metaverse. In a way, while owning Meta stock for the highly profitable advertising business warrants merit, a position in the company could represent a hedge to other AI plays you might own.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/12/15/why-this-ai-stock-looks-dirt-cheap/",
+      "originalUrl": "https://www.fool.com/investing/2023/12/15/why-this-ai-stock-looks-dirt-cheap/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/757919/social-media-networking-likes-facebook-meta-instagram-1.jpg",
+          "width": 5184,
+          "height": 3456,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-15T22:12:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-16-commentary-teslas-recall-of-2-million-vehicles-reminds-us-how-far-driverless-car-ai-still-has-to-go.md",
+      "title": "Commentary: Tesla’s recall of 2 million vehicles reminds us how far driverless car AI still has to go",
+      "excerpt": "There is a pressing need for new standards and mechanisms to assess the capabilities of these driverless cars, says University of Surrey's Saber Fallah.",
+      "sourceUrl": null,
+      "webUrl": "https://www.channelnewsasia.com/commentary/tesla-driverless-cars-recall-2-million-autonomous-vehicles-safety-autopilot-3991256",
+      "originalUrl": "https://www.channelnewsasia.com/commentary/tesla-driverless-cars-recall-2-million-autonomous-vehicles-safety-autopilot-3991256",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://onecms-res.cloudinary.com/image/upload/s--L6zlzHd4--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-04-06t205807z_3_lynxmpej350kx_rtroptp_3_tesla-privacy-cameras.jpg?itok=KuXvCHkc",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-15T22:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Channel NewsAsia Singapore",
+        "domain": "channelnewsasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-16-google-reportedly-plans-new-pixie-ai-assistant-exclusive-to-pixel-devices.md",
+      "title": "Google reportedly plans new “Pixie” AI assistant, exclusive to Pixel devices",
+      "excerpt": "Move over Google Assistant, Google is apparently working on a new AI. The Information reports that Google is working on a new \"Pixie\" AI assistant that will be exclusive to Pixel devices. Pixie will reportedly be powered by Google's new \" Gemini \" AI model.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/reviews/2023/12/google-reportedly-plans-new-pixie-ai-assistant-exclusive-to-pixel-devices/",
+      "originalUrl": "https://arstechnica.com/reviews/2023/12/google-reportedly-plans-new-pixie-ai-assistant-exclusive-to-pixel-devices/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/hey-google-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-15T21:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-16-ai-gives-birth-to-ai-scientists-say-machine-intelligence-now-capable-of-replicating-without-humans.md",
+      "title": "AI gives birth to AI: Scientists say machine intelligence now capable of replicating without humans",
+      "excerpt": "A group of scientists from across the U.S. claim to have created the first artificial intelligence capable of generating AI without human supervision.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/science/ai-gives-birth-ai-scientists-say-machine-intelligence-capable-replicating-without-humans",
+      "originalUrl": "https://www.foxnews.com/science/ai-gives-birth-ai-scientists-say-machine-intelligence-capable-replicating-without-humans",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e4336cb-1ed1-4bdb-8d7a-51b172f56e8f/f6e77140-9cf3-4af3-9e39-df8551415803/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/science/ai-gives-birth-ai-scientists-say-machine-intelligence-capable-replicating-without-humans.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/science/ai-gives-birth-ai-scientists-say-machine-intelligence-capable-replicating-without-humans.amp",
+      "publishedDateTime": "2023-12-15T21:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-15-examples-of-sustainability-in-business.md",
+      "title": "Examples of sustainability in business",
+      "excerpt": "Here are some examples of sustainability in business that can make organizations more efficient and have a positive impact on the planet.\nThe post Examples of sustainability in business appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/sustainability-in-business-examples/",
+      "originalUrl": "https://www.ibm.com/blog/sustainability-in-business-examples/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-15T19:20:21Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-15-five-open-source-ai-tools-to-know.md",
       "title": "Five open-source AI tools to know",
       "excerpt": "While open-source AI offers enticing possibilities, its free accessibility poses risks that organizations must navigate carefully.\nThe post Five open-source AI tools to know appeared first on IBM Blog.\n",
@@ -246,6 +484,58 @@
       ]
     },
     {
+      "path": "_news/2023-12-15-medical-text-written-by-artificial-intelligence-outperforms-doctors.md",
+      "title": "Medical Text Written By Artificial Intelligence Outperforms Doctors",
+      "excerpt": "Here, I will examine their findings and discuss the impact on the future of artificial intelligence in healthcare. Rather than build an entirely new large language model from scratch, Peng and colleagues used the skeleton of ChatGPT-3. In other words ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/williamhaseltine/2023/12/15/medical-text-written-by-artificial-intelligence-outperforms-doctors/",
+      "originalUrl": "https://www.forbes.com/sites/williamhaseltine/2023/12/15/medical-text-written-by-artificial-intelligence-outperforms-doctors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65663826a8f7748e76f9be0d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/williamhaseltine/2023/12/15/medical-text-written-by-artificial-intelligence-outperforms-doctors/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/williamhaseltine/2023/12/15/medical-text-written-by-artificial-intelligence-outperforms-doctors/amp/",
+      "publishedDateTime": "2023-12-15T13:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-15-building-ai-for-climate-opportunities-and-considerations.md",
       "title": "Building AI For Climate: Opportunities And Considerations",
       "excerpt": "To effectively build and deploy AI technologies, it's important to recognize the limitations and risks they entail. A key limitation of AI is its dependence on user inputs. The quality of training data sets and the \"training\" an AI receives (similar to a human education) will greatly impact how effectively they solve specific problems.",
@@ -345,6 +635,49 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-15-krutrim-indias-own-ai-model-launched-by-ola-competes-with-gpt-4-and-llama-2.md",
+      "title": "Krutrim: India’s own AI model launched by OLA, competes with GPT-4 and Llama-2",
+      "excerpt": "In Sanskrit “Krutrim” means artificial, and hence the name. Aggarwal’s AI venture, the Krutrim Si Designs was inaugurated in April 2023. It was set up in partnership with Krishnamurthy Venugopala Tenneti, who is one of the board members of ANI Technologies Ltd, which owns Ola Cabs and Ola Electric.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digit.in/krutrim-indias-own-ai-model-launched-by-ola-competes-with-gpt-4-and-llama-2/",
+      "originalUrl": "https://www.digit.in/krutrim-indias-own-ai-model-launched-by-ola-competes-with-gpt-4-and-llama-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.digit.in/Krutrim.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.digit.in/news/general/krutrim-indias-own-ai-model-launched-by-ola-competes-with-gpt-4-and-llama-2.html/amp/",
+      "cdnAmpWebUrl": "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/news/general/krutrim-indias-own-ai-model-launched-by-ola-competes-with-gpt-4-and-llama-2.html/amp/",
+      "publishedDateTime": "2023-12-15T11:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digit",
+        "domain": "digit.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
         "AI"
       ]
     },
@@ -746,7 +1079,7 @@
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/12/15/the-new-frontier-in-workplace-safety-data-analytics-and-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -777,6 +1110,48 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-15-artificial-intelligence-pegged-as-financial-risk-by-us-regulators.md",
+      "title": "Artificial Intelligence Pegged As Financial Risk By US Regulators",
+      "excerpt": "US regulators, led by Treasury Secretary Janet Yellen, have identified artificial intelligence as a potential threat to the country's financial stability, emphasizing the need for increased oversight and vigilance to address risks associated with AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/23/12/36250917/artificial-intelligence-pegged-as-financial-risk-by-us-regulators",
+      "originalUrl": "https://www.benzinga.com/news/23/12/36250917/artificial-intelligence-pegged-as-financial-risk-by-us-regulators",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/Ai-Technology--Artificial-Intelligence--_0.jpeg?width=1200&height=800&fit=crop",
+          "width": 408,
+          "height": 272,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/36250917",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36250917",
+      "publishedDateTime": "2023-12-15T03:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -837,395 +1212,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-how-machine-learning-is-boosting-businesses.md",
-      "title": "How Machine Learning is Boosting Businesses",
-      "excerpt": "\"Think of (ML) as a financial advisor ... the user and they have been building this system since 2008. Machine learning has directly impacted customer experiences or personalized services/products for Legalpay, a litigation financier.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/en-in/technology/how-machine-learning-is-boosting-businesses/467034",
-      "originalUrl": "https://www.entrepreneur.com/en-in/technology/how-machine-learning-is-boosting-businesses/467034",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1702641228-Hithere.png?format=pjeg&auto=webp",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-15T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-george-floyd-amazon-bans-police-use-of-facial-recognition-tech.md",
-      "title": "George Floyd: Amazon bans police use of facial recognition tech",
-      "excerpt": "Amazon said the suspension of law enforcement use of its Rekognition software was to give US lawmakers the opportunity to enact legislation to regulate how the technology is employed. \"We've ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/business-52989128",
-      "originalUrl": "https://www.bbc.com/news/business-52989128",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/10C9C/production/_110246786_facialrecognition3.gif",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/business-52989128.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-52989128.amp",
-      "publishedDateTime": "2023-12-14T20:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-xtalpi-and-abb-robotics-to-automate-laboratory-workstations-with-gofa-cobots.md",
-      "title": "XtalPi and ABB Robotics to automate laboratory workstations with GoFa cobots",
-      "excerpt": "XtalPi has used more than 100 ABB collaborative robots to build automated workstations for accelerating chemical and life sciences R&D.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/xtalpi-and-abb-robotics-to-automate-laboratory-workstations-with-gofa-cobots/",
-      "originalUrl": "https://www.therobotreport.com/xtalpi-and-abb-robotics-to-automate-laboratory-workstations-with-gofa-cobots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/12/XtalPi_ABB_GoFa_AMRs.jpg",
-          "width": 770,
-          "height": 491,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-14T20:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-ai-machine-learning-to-lead-the-way-to-achieve-net-zero-experts.md",
-      "title": "AI, machine learning to lead the way to achieve Net Zero: Experts",
-      "excerpt": "At the event, Rupesh Umtol, co-founder and Director, Electro-Mech Consultants showcased a digital twin model creation concept called Btrlyf -- a culmination of AI/ML that analyses older buildings with respect to energy efficiency.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/cities/ahmedabad/ai-machine-learning-to-lead-the-way-to-achieve-net-zero-experts-9068876/",
-      "originalUrl": "https://indianexpress.com/article/cities/ahmedabad/ai-machine-learning-to-lead-the-way-to-achieve-net-zero-experts-9068876/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2023/12/ai_1200_gettyimages.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/cities/ahmedabad/ai-machine-learning-to-lead-the-way-to-achieve-net-zero-experts-9068876/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/cities/ahmedabad/ai-machine-learning-to-lead-the-way-to-achieve-net-zero-experts-9068876/lite/",
-      "publishedDateTime": "2023-12-14T18:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-tying-environmental-outcomes-to-real-business-value-may-be-simpler-than-you-think.md",
-      "title": "Tying environmental outcomes to real business value may be simpler than you think",
-      "excerpt": "There has been a lot of recent discussion around the business value of environmental, social and governance (ESG) reporting and financials.\nThe post Tying environmental outcomes to real business value may be simpler than you think appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/tying-environmental-outcomes-to-real-business-value-may-be-simpler-than-you-think/",
-      "originalUrl": "https://www.ibm.com/blog/tying-environmental-outcomes-to-real-business-value-may-be-simpler-than-you-think/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/12/tying-environmental-blog-.png",
-          "width": 630,
-          "height": 329,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-14T18:27:13Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-have-10-hours-ibm-will-train-you-in-ai-fundamentals-for-free.md",
-      "title": "Have 10 hours? IBM will train you in AI fundamentals - for free",
-      "excerpt": "Run AI Models with IBM Watson Studio (1 hour and 45 mins): In this course, you'll practice creating an AI machine learning model in a series of simulations, using IBM Watson Studio. This is hands-on time that can help you do actual work with AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/earn-an-ai-fundamentals-credential-from-ibm-for-free/",
-      "originalUrl": "https://www.zdnet.com/article/earn-an-ai-fundamentals-credential-from-ibm-for-free/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/889ceba98c79fe79abc49245bd51e50e4fc7b180/2023/12/14/03b8fcaa-5075-4f54-8aca-54553859c0f1/gettyimages-1143470996.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/earn-an-ai-fundamentals-credential-from-ibm-for-free/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/earn-an-ai-fundamentals-credential-from-ibm-for-free/",
-      "publishedDateTime": "2023-12-14T17:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-building-cyber-resiliency-for-your-data-with-ibm-flashsystem.md",
-      "title": "Building cyber resiliency for your data with IBM FlashSystem",
-      "excerpt": "The IBM approach to cyber resiliency can help organizations protect themselves in an ever-changing cybersecurity landscape.\nThe post Building cyber resiliency for your data with IBM FlashSystem appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/building-cyber-resiliency-for-your-data-with-ibm-flashsystem/",
-      "originalUrl": "https://www.ibm.com/blog/building-cyber-resiliency-for-your-data-with-ibm-flashsystem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/12/17e35390-8d06-4198-8b6919d698ba2d02.jpg",
-          "width": 2160,
-          "height": 1620,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-14T17:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-delivering-security-and-scalability-in-todays-business-landscape-requires-more-than-setting-up-a-front-line-of-defense.md",
-      "title": "Delivering security and scalability in today’s business landscape requires more than setting up a front line of defense",
-      "excerpt": "Cybersecurity can be a strategic initiative that supports product capability, organizational effectiveness and customer relationships.\nThe post Delivering security and scalability in today’s business landscape requires more than setting up a front line of defense appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/delivering-security-and-scalability-in-todays-business-landscape/",
-      "originalUrl": "https://www.ibm.com/blog/delivering-security-and-scalability-in-todays-business-landscape/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-14T17:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI in Security"
       ]
     }
   ],

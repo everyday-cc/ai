@@ -34,6 +34,15 @@ related:
         width: 408
         height: 272
         isCached: true
+  - title: "Artificial Intelligence Was Just Classified as a Threat to the Financial Sector for the First Time"
+    excerpt: "The rapid development of artificial intelligence may pose a risk to the country's financial stability and exacerbate existing challenges with access to capital."
+    publishedDateTime: 2023-12-15T20:29:00Z
+    webUrl: "https://www.inc.com/melissa-angell/artificial-intelligence-was-just-classified-as-a-threat-to-financial-sector-for-first-time.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 3
 
 secured: "jdVVhBmvrXJri1XnJT5fF+dBVk5/1Cbzy1G/RMGy5ZCd4E2mOIVNxGVp02dlBW1bvfk1fcugmnIv5chbI+YmuqHPAE4Jz4JJISE3OrzhzC+oAr5GxIMr5TBfC/+zTvkEFb4ovu5qLihgsO1qvNcbIt5a2JmOnSaDTa68/4NhJjrZZgdkLSSVBkzXM7xnwl9neVdHtpAuw/DVFnSlTy0vKD5HCCFHqeEPkdhePAdI/DQX4uHX9Jzwgj0OAK876OJUDj5OI5ONo4KkdoGE40UN8gau8c5JXng1W5bTGBiABgPbGlggVnCSsJSF/WN5+jJ31KVFWQjz1Cx4u2PfL+EEARDxv1N1196GaInUMzRXFFNk+gk3JgZmIqZRF+1RLSTE1KEPygWFggsNOjAfuu1nxUzBVOrlEppTp/SBgMM/o88N1nsNjSAChd1WBZRabjpDfXxkJ5YipePg/JLWrxGA+Uxe3adBglK3OsZIMplv3+BWkMPZbWtaSaUMv+4tvYLehRJa0cYKFiGO+KPpuT3wgw==;hCQOMX4fXyrMa33RkRDb+A=="
 ---

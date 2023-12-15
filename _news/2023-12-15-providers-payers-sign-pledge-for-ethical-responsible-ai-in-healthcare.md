@@ -7,7 +7,7 @@ originalUrl: "https://healthitanalytics.com/news/providers-payers-sign-pledge-fo
 webUrl: "https://healthitanalytics.com/news/providers-payers-sign-pledge-for-ethical-responsible-ai-in-healthcare"
 type: article
 quality: 51
-heat: 61
+heat: -1
 published: false
 
 provider:
@@ -20,21 +20,21 @@ topics:
   - AI Ethics
 
 related:
-  - title: "Coforge launches Quasar Responsible AI tools for ethical and transparent AI development"
-    excerpt: "Formerly known as NIIT Technologies, Coforge offers a range of digital services and solutions, from cloud and data management to AI-powered platforms."
-    publishedDateTime: 2023-12-11T07:26:00Z
-    webUrl: "https://yourstory.com/enterprise-story/2023/12/coforge-launches-quasar-ethical-transparent-responsible-ai-tools"
+  - title: "Healthcare leaders applaud White House's AI principles"
+    excerpt: "Healthcare executives endorse White House's new AI principles to ensure safe, equitable & responsible deployment of AI in healthcare."
+    publishedDateTime: 2023-12-15T21:11:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/healthcare-leaders-applaud-white-houses-ai-principles.html"
     type: article
     provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 48
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
     images:
-      - url: "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/Cover-02-1700033811860.png?fm=png&auto=format"
-        width: 1668
-        height: 834
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
         isCached: true
 
-secured: "GY7ZlMYocYm1GsFLKLl8Parh2CU1DwbJB3Nokz9jDnhr7cx64yY3lSV+/oXM9QykAZbPbEK7UUefshLnmzOQWBIQXuf0WI7Ca6/yBqCVwssCII6nH2MaVzksUTOQcHQ71iuyH78od3mD+lRClj6FIKI9QC+igkxPHOsF9OujrM2xL9SXn1CJ3ViJanCjUOYqC+ph5LeExpyRyERy1DLiWUe2MRImjD0wX3jhQIqRkkrNpXDoGaFKrcJTC0fJz7yBH5LnwtHEWOyKBUkSHCY91WW3QoWjNre6bV8hIWvmSoOI+G8zejnekjWdKp4hXBSxtpT2tKbVpIBrKT3TFXZU6TxdpYByrgHJ7q/+HbeTWMI=;7bKveE69huqwFtilnH7OiA=="
+secured: "ODer2ABET/cNnZpc08x7RqbNs6UD/Ggj1xeqlG9yLWRADIRitgT7IWaXFxufFKf1Sd18NjA3odb4GcGoWMt1MRjl6LPFL7kI/6e+mMqgqJvFuxN2PAPciMk+d8prwS0GYSFeg18O/woyj5hcq1pOVbYYiUDHTlqIDBgoGCQsfMuRGN4f5zvKS0+f9TsX9MJbkGziZyZyRVoYELztGQaW6LXTPrVeMgqF874FyKM4XpmNSzsDukAIvKtIuyDaO0jTDVt9N3dXJNsKNKqsY5VNw7v9oANCE35rTUsjXw/6e0Ss8FMrekMPrDieZ1RZ0XPF5J4IMIR9s82o/QRM7oQBz9RBOqR8UoMWk8yVE4L1J1svsmIXVt3ZH3Bc2fPxPnfWM1aQSo8fF6M9M1md0XNJhG+ZNEJiHlKQE3tLDQ8UW4wnTY84NUaZN5ojztb+wv9xzXuHtUughWpr/7R1pqN/FzZQuzYtGcLWlIS5M3OBO549ydAoGZvLxJfAVVS5Uvi/vlZaUMhXBIXbIq1+TTGoJQ==;n5iuh1FrxVvYr4x5pEdHhQ=="
 ---
 

@@ -40,6 +40,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Krutrim: India’s first AI model launched by OLA, competes with GPT-4 and Llama-2"
+    excerpt: "In Sanskrit “Krutrim” means artificial, and hence the name. Aggarwal’s AI venture, the Krutrim Si Designs was inaugurated in April 2023. It was set up in partnership with Krishnamurthy Venugopala Tenneti, who is one of the board members of ANI Technologies Ltd, which owns Ola Cabs and Ola Electric."
+    publishedDateTime: 2023-12-15T11:42:00Z
+    webUrl: "https://www.digit.in/news/general/krutrim-indias-own-ai-model-launched-by-ola-competes-with-gpt-4-and-llama-2.html"
+    type: article
+    provider:
+      name: Digit
+      domain: digit.in
+    quality: 14
 
 secured: "U9KGEgZTYY1Q7yEE14USRWo3fQsFAViQNZ0RAD2K7DL7V6R4l0Ikzdp3VI4HhQHhhf+ti59/TKOHzrip1B9VoLcXZx5Vjjwt42TrKNW4k6LrwruPHATqGhK8PhhLBXen/0QSbcHgx68A/FECMlthwuRgJlOvo/YDnzQY9fPg1Bz5NCYJmtRL18oUQJbOS3XOyj59s1aSRjd3bp67BtZFBoK4UM8AfhQmhCQl82xsnbDvXnQqQ1+fX2U5nyqRIVF5bZckwPH1IWqVOyW8GGAn36cSpILmufetPSHzV6jjCD1+F+1ku+qAoSujgrMuq8hWogqJqeSzg6gKTZBrn6PC5Em7/aWjv7SitgE7SSBUTvc=;b2uwDVQR9Rij8SFToxg2wA=="
 ---

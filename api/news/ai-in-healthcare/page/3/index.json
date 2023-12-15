@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-11-14-child-psychiatrist-sexually-exploited-patients-used-artificial-intelligence-to-create-pornography.md",
+      "title": "Child Psychiatrist Sexually Exploited Patients, Used Artificial Intelligence to Create Pornography",
+      "excerpt": "David Tatum of Charlotte, North Carolina recorded under a minor's skirt during a therapy session with him, made secret videos of patients in the shower and \"used AI to digitally alter clothed images of minors making them sexually explicit.",
+      "sourceUrl": null,
+      "webUrl": "https://toofab.com/2023/11/13/child-psychiatrist-sexually-exploited-patients-used-artificial-intelligence-create-pornography/",
+      "originalUrl": "https://toofab.com/2023/11/13/child-psychiatrist-sexually-exploited-patients-used-artificial-intelligence-create-pornography/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-13T18:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TooFab",
+        "domain": "toofab.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-14-ovarian-cancer-artificial-intelligence-predicts-therapy-responses.md",
       "title": "Ovarian cancer: Artificial intelligence predicts therapy responses",
       "excerpt": "A model based on artificial intelligence is able to predict the therapy outcome (measured by volumetric reduction of tumor lesions) in 80% of ovarian cancer patients. The AI-based model has an accuracy of 80%,",
@@ -1202,58 +1236,6 @@
         "name": "Mena FN",
         "domain": "menafn.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-25-health-care-up-amid-uneven-earnings-health-care-roundup.md",
-      "title": "Health Care Up Amid Uneven Earnings -- Health Care Roundup",
-      "excerpt": "Health-care companies rose, but not by as much as the broad market, amid uneven earnings. HCA Healthcare shares slid after the hospital chain",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/health-care-up-amid-uneven-earnings-health-care-roundup-501ca19e",
-      "originalUrl": "https://www.marketwatch.com/story/health-care-up-amid-uneven-earnings-health-care-roundup-501ca19e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/health-care-up-amid-uneven-earnings-health-care-roundup-501ca19e",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/health-care-up-amid-uneven-earnings-health-care-roundup-501ca19e",
-      "publishedDateTime": "2023-10-24T21:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

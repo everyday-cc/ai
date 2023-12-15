@@ -55,6 +55,20 @@ related:
         width: 2048
         height: 1367
         isCached: true
+  - title: "Face biometrics code could be seeing through better eyes"
+    excerpt: "Computer vision vendors and researchers are rapidly developing significantly upgraded camera systems on the front end of AI."
+    publishedDateTime: 2023-12-15T22:12:00Z
+    webUrl: "https://www.biometricupdate.com/202312/face-biometrics-code-could-be-seeing-through-better-eyes"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/12/15171048/computer-vision-ai-scaled.jpg"
+        width: 2048
+        height: 1152
+        isCached: true
 
 secured: "c4Ppi0hXflKKgMhIHZrGrk8ZQWHyHO1Oyok2iQtTUIGFs9AaUnoRub5/E66xxVNAeAPG6FpsO6kDj9mQwTI2JgxmQ/PtfF/9ecusS86hm7oOFhDXd0Q0IOvOtJrC/nf8WcAklMUNHplu/YZhPBTIMoqgn/AkMdQjTLguzW9DEn2/KQT4cLDB1sCQyc1KDzBKG4FX0yIqeW6sDGyEDtZ5z1I9AKg7a6Q1SW1jGWau/3FJQDjpOs61y6gjvm+SWLqC+OvUDq1VTMYga9aiYmpTMhyk30rHGiVyNlSKO2yLzNbNM4hjFhF82j39ycCGZq86gf6wyVjc4EDzBxDTujXGIQ4no/MYdfOU4peZe8cNgHo=;3y4052z0YkgHxFmGVf3rxQ=="
 ---

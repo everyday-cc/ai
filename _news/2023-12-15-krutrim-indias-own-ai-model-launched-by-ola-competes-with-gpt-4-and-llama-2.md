@@ -9,8 +9,8 @@ ampWebUrl: "https://www.digit.in/news/general/krutrim-indias-own-ai-model-launch
 cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/news/general/krutrim-indias-own-ai-model-launched-by-ola-competes-with-gpt-4-and-llama-2.html/amp/"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: Digit
@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Krutrim: India’s first AI model launched by OLA, competes with GPT-4 and Llama-2"
+    excerpt: "In Sanskrit “Krutrim” means artificial, and hence the name. Aggarwal’s AI venture, the Krutrim Si Designs was inaugurated in April 2023. It was set up in partnership with Krishnamurthy Venugopala Tenneti, who is one of the board members of ANI Technologies Ltd, which owns Ola Cabs and Ola Electric."
+    publishedDateTime: 2023-12-15T11:42:00Z
+    webUrl: "https://www.digit.in/news/general/krutrim-indias-own-ai-model-launched-by-ola-competes-with-gpt-4-and-llama-2.html"
+    type: article
+    provider:
+      name: Digit
+      domain: digit.in
+    quality: 14
 
 secured: "VvsTHrK2ZApc9Y5o2wOHC6d9BQzNRqOrXQHpPBdYyeYQg28Af+0TKdY02bphCJ6cOYUgroApPP8rN6PAwx/uPlSr5orvPAyCZbuWQP4KMkXx1McKabLLZCno9raqL0/b0/BCKmgZyN+ACTC9xiUrJas8RBP6vmA0ZjxdBmyWtukRSyz0NInIdNAV4MVAS74ME2R7WtqXRqJSIepyYpYk5ebWUdNhAmFdDylm/1dx6JDVO/wNKhFebi+RRFPGOxnclpqIBAhZ57KItswLkqQ9dJ3rZoD2tOFnlz1cguX4FPcYJnc524xW8LSh8+9Qq5bH/L6yqT9ubbxPJhx0zFLx30VjF6DDPmIlirtHN06oHU/3bow3vIzmYQXXe3wn/n/UCdpnmaQhGtDUVIzhVeGjAXxhoJPlI/A2Xzhjm4KVE4TfoYW70erlQflJAy2Mwos4MoEECPiqDbBKIQ52kNugwAzzW6yi4jRS/K58LDDF+ERthhOF0ZxHHTNa1o8XSrzifV9xF8ikAVAZj9BjVpwJIg==;yopjO8LXLn1hMyD/rJio+g=="
 ---

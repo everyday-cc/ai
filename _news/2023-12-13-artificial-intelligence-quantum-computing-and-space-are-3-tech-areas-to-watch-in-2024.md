@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/chuckbrooks/2023/12/12/artificial-intel
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chuckbrooks/2023/12/12/artificial-intelligence-quantum-computing-and-space-are-3-tech-areas-to-watch-in-2024/amp/"
 type: article
 quality: 79
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://i.insider.com/657a292d50edbc52a863fe3c?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Guardrails are coming for AI, and antitrust finally bites Big Tech"
+    excerpt: "Intel debuts AI-accelerated Core Ultra and 5th Gen Xeon chips to enable AI to run in any location And CEO Pat Gelsinger throws down the gauntlet to Nvidia, challenging its CUDA programming platform — which only goes to how how entrenched Nvidia is in both hardware and software."
+    publishedDateTime: 2023-12-15T20:35:00Z
+    webUrl: "https://siliconangle.com/2023/12/15/guardrails-coming-ai-antitrust-finally-bites-big-tech/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/aiguardrails.jpeg"
+        width: 1019
+        height: 686
         isCached: true
   - title: "Deciphering AI, cybersecurity governance and career transparency headline 10 trends to watch in CompTIA's IT Industry Outlook 2024"
     excerpt: "Tech companies and workers have generally positive feelings about the new year DOWNERS GROVE, Ill., Dec. 13, 2023 /PRNewswire/ -- The explosion"

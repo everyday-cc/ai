@@ -8,7 +8,7 @@ webUrl: "https://tech.hindustantimes.com/tech/news/this-mind-reading-ai-tool-tur
 ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/this-mind-reading-ai-tool-turns-thoughts-into-text-better-than-elon-musks-neuralink-71702631072655.html"
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/this-mind-reading-ai-tool-turns-thoughts-into-text-better-than-elon-musks-neuralink-71702631072655.html"
 type: article
-quality: 51
+quality: 53
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://images.hindustantimes.com/tech/img/2023/12/15/1600x900/pexels-mikhail-nilov-7671957_1702631370709_1702631384463.jpg"

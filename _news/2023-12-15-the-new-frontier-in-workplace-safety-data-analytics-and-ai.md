@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/12/15/the-new-frontier
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/12/15/the-new-frontier-in-workplace-safety-data-analytics-and-ai/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -74,17 +74,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "U of T’s Data Sciences Institute Empowers Workforce with Training in Data Analytics and Applied Machine Learning"
-    excerpt: "A new training initiative launched by the University of Toronto’s Data Sciences Institute (DSI), an institutional strategic initiative, is helping Canada meet its growing need for talent in data science and machine learning."
-    publishedDateTime: 2023-12-10T22:06:00Z
-    webUrl: "https://indiaeducationdiary.in/u-of-ts-data-sciences-institute-empowers-workforce-with-training-in-data-analytics-and-applied-machine-learning/"
-    ampWebUrl: "https://indiaeducationdiary.in/u-of-ts-data-sciences-institute-empowers-workforce-with-training-in-data-analytics-and-applied-machine-learning/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/u-of-ts-data-sciences-institute-empowers-workforce-with-training-in-data-analytics-and-applied-machine-learning/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 35
   - title: "Adastra Launches New Analytics and Insights for Sustainability Framework in AWS Marketplace"
     excerpt: "Adastra Group (also known as Adastra Corporation), a global leader in cloud, data and artificial intelligence (AI) solutions and services, today announced the launch of its innovative Cloud Analytics Solution,"
     publishedDateTime: 2023-12-14T16:00:00Z

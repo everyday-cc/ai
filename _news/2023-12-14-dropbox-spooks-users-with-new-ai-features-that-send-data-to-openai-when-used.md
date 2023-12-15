@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/information-technology/2023/12/dropbox-spo
 webUrl: "https://arstechnica.com/information-technology/2023/12/dropbox-spooks-users-by-sending-data-to-openai-for-ai-search-features/"
 type: article
 quality: 64
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -107,6 +107,15 @@ related:
     provider:
       name: CoinTelegraph
       domain: cointelegraph.com
+    quality: 17
+  - title: "OpenAI launches $10M grant program to keep AI from going rogue"
+    excerpt: "AI will become significantly harder to manage in the next decade, making existing oversight techniques insufficient, the startup said Friday."
+    publishedDateTime: 2023-12-15T20:53:00Z
+    webUrl: "https://www.ciodive.com/news/OpenAI-superalignment-superintelligent-steerability-AI-systems-grant-program/702713/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
     quality: 17
 
 secured: "jmp3UYSb7Jx+6C+HvyEyJ5GxrXmoSR4CKfviE3ICT3M0SxfSxkz7CwjhJ9yuwwrlbCClPLoicnX/pJX3+XDRY05CCd+CHU+geItuuxsTUiFF82vd7sXFzIfuMNQBt+lBfafFqeDvfVw+fVz8LgQNhfOX1RsbYey8CMYd4qP88wT7e8E61vp+3Mtiwl8wiMqqgeDrN2d27FMKG7OWXB0iqoYiPdiGGJslI477WIkL5EtflzbX5ovh3JF1VkEUhSSCLoLbZkXkSKMfRtWJBFwfOw7Q3zPmpaHRWZUgsQAmIAWGS/qfQMbNzW8yodpkTZOSecwqcGX+T6Uw0M0G6ezueqn2rfyfPv1s19ffMBAXv+tQgM9yprh/gEHI3EoWTgTFioL/tcSnvzP13BjRUCTTy05MVlqcHfdkabgkogQAsaZJggK3vQcE6BFWU31/HBVX40bsd2t+R5GDKkE7Wqjt5VWS5sTqgMrAJO6S97mKw4UAqruQ7M7XqxU2hzAC5C7VQTFFAZubM4CVN4gbUS0T+Q==;4KcAiHoHrog+G2kfaJUhWw=="

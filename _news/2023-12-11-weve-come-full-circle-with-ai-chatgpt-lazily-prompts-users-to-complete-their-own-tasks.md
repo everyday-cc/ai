@@ -7,7 +7,7 @@ originalUrl: "https://www.androidauthority.com/chatgpt-lazy-3393196/"
 webUrl: "https://www.androidauthority.com/chatgpt-lazy-3393196/"
 type: article
 quality: 75
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Grok Gets Some Competition, ChatGPT Gets Depressed, and More of the Top AI News Stories This Week"
+    excerpt: "What happened with AI this week? Well, the passage of the European Union’s AI Act—a landmark piece of regulation that seeks tackle the potential harms of the AI industry—is a pretty big deal. It could totally reshape how European nations’ relationship to the technology."
+    publishedDateTime: 2023-12-15T19:50:00Z
+    webUrl: "https://gizmodo.com/grok-gets-some-competition-chatgpt-gets-depressed-and-1851102969"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 51
 
 secured: "7SOd/JGtGwteq4GbUaMNSVupJ48jKgmH9NaMVLDkkAllKzQl7iYT4XpziqCAe38Z94OoWKhS97KsOYbt3vMywazGy4BsfVYqLd8Xzr0Ykrkog8zFI5Adn5pPk7UyEAh5ifw7UH3V+syC9Fk0m+zWGtqSMY38tZ3D+HXUiZQUxxwvpw20kPHh8FdKPEHUt+pIvaQJcZKFztKKtzczyLyYXgXMgk5GZ0DdwD5C10a2CTLYyNSOmhkOGTs6JO5eznon9mS8YHqWL2pjvMrGymYlKoQusFIdRB/vgdbiMUlByP4N9JClWeWzj5h/6QB+TcEW5upbxKs706mebYfuPYVyzvJaTKt7Vys7i1/XW9yGqMtVMYzm7s9Q/MsskE/T0RF2cpViAlqWz7jTYmCh+GS3bQOgkSkiScxEHsxsh33dvoVX+SzObN2oXRLjY/n2kduSGLHN60zl/BAOwNpgDmhwg/jKY0Jp5DfDx9Rp37Th+daeI58VhE1sRhrqsP0tshJY4COMnN4HOBV60+RnNJR0kA==;nLAoj4mZlLP8Cb3hC5hWzw=="
 ---

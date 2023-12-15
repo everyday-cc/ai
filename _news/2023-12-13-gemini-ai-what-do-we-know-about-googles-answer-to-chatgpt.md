@@ -56,6 +56,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Grok Gets Some Competition, ChatGPT Gets Depressed, and More of the Top AI News Stories This Week"
+    excerpt: "What happened with AI this week? Well, the passage of the European Union’s AI Act—a landmark piece of regulation that seeks tackle the potential harms of the AI industry—is a pretty big deal. It could totally reshape how European nations’ relationship to the technology."
+    publishedDateTime: 2023-12-15T19:50:00Z
+    webUrl: "https://gizmodo.com/grok-gets-some-competition-chatgpt-gets-depressed-and-1851102969"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 51
 
 secured: "7+60gUuYEJqgH0hNeCD27ocS0MCza8leZNuNBkEW4Z5owDuVtnMGqeKAEsuig7qm3pHvlzPKB+6IA3HavkI2uBQU/OHpMHqa+MXePUKmqRZZ0KBR3oMcz4gOC1Q1b8/k6oKSR5opUgQik89JL3PuguMZ7BMactZLeSFy8+d1pzFv8i+XZTJaRWNgfuR8d+T9n61IEjfuxtKQUrBpGdQPfaLDBp4FXmIRFTveqIYOEGJoA5qchPS5j9SP9XyJNbY4pNb7iZBIx1tz6j65gunS9tMsbe0b5Uc5degOI97MTzB+S2hzPTlRPViZn7HqNabnLL0htXAS7WJDeSRuavrrMtOhCqQs1DdPQT8dmIN02Joc5CW1O7zwH7L/BCuQ2yZvu92qr9PPTQOMSTI5pTYVs1tajDFMTp6r970KcCdug7A7wje2wL68xFpZB3uolSz3OIHh4SW3QxqUhXiU2GROnyfPTlVvHS1ez+YgO8BsPZ7Kdj7On57UH/JFr0/UU+MhIvOVPLFddATiZuwX/fxS8A==;r8Qoyr2HfJg329h+YFIaXg=="
 ---

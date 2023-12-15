@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/36250917"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36250917"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Benzinga.com
@@ -35,6 +35,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 17
+  - title: "Artificial Intelligence Was Just Classified as a Threat to the Financial Sector for the First Time"
+    excerpt: "The rapid development of artificial intelligence may pose a risk to the country's financial stability and exacerbate existing challenges with access to capital."
+    publishedDateTime: 2023-12-15T20:29:00Z
+    webUrl: "https://www.inc.com/melissa-angell/artificial-intelligence-was-just-classified-as-a-threat-to-financial-sector-for-first-time.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 3
 
 secured: "AWMScV4Kx4Lg10p9P+mJq0fqYGYNaBHdF1prfWn/lPAyQkI6g7dxX440R5yMlCtpsBVYQsMBSrYSB5uc/9UpqmIOtgWIudlIXBgFnVd0FKPlMrq4lnuZNm2QvlURR91kBNRAyRZN5Ob0S1BN6OOPMyOsDWOLZWORHPAp0l52FK02A8F78tpfF9D/uXZsAQK7QttGoaLx+EVLhhA9cA/PCvQJA3bSV++aSLuW5gpLI4QCu8lOA/jSKlJ+Xxtl4GzmAJJOVJTFnrWYVcEN2hFqEeaqdhN9TB7u/+OTQZQJ3oYwcnRBGMHMFf+OCRz0n7Hu2e3dOu+x9tTTPHCCttqS1b1q9a/MiiyqxmNbwpz+O+E=;iawcboMWZPfJx0z+4uGA9w=="
 ---

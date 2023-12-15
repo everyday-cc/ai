@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/13/ai-in-heal
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/13/ai-in-healthcare-are-people-losing-or-gaining-control/amp/"
 type: article
 quality: 104
-heat: 204
+heat: 214
 published: true
 
 provider:
@@ -123,6 +123,15 @@ related:
         width: 690
         height: 400
         isCached: true
+  - title: "Safe AI for healthcare: Providers pursue ‘once-in-a-generation’ benefits of large-scale models"
+    excerpt: "Leading healthcare entities sign the Biden-⁠Harris Admin's voluntary commitments for the safe, secure use of AI for healthcare."
+    publishedDateTime: 2023-12-15T19:19:00Z
+    webUrl: "https://venturebeat.com/ai/safe-ai-for-healthcare-providers-pursue-once-in-a-generation-benefits-of-large-scale-models/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 52
   - title: "Mediverse: Making Healthcare Accessible For All Using Artificial Intelligence"
     excerpt: "In line with this aim, dynamic healthtech startup Mediverse is taking advantage of the ever-evolving healthcare landscape and harnessing the power of Artificial Intelligence (AI) to improve patient care and accessibility. Mediverse's primary vision is to ..."
     publishedDateTime: 2023-12-13T09:46:00Z

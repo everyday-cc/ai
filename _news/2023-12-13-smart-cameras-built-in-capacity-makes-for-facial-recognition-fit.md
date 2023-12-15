@@ -46,6 +46,15 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 37
+  - title: "Panthers to add facial recognition at BofA Stadium"
+    excerpt: "The Panthers and Verizon are adding facial recognition technology at Bank of America Stadium that will allow football fans to get into games faster beginning this weekend."
+    publishedDateTime: 2023-12-15T20:02:00Z
+    webUrl: "https://www.sportsbusinessjournal.com/Articles/2023/12/15/carolina-panthers-facial-recognition-bank-of-america-stadium.aspx"
+    type: article
+    provider:
+      name: Sports Business Journal
+      domain: sportsbusinessjournal.com
+    quality: 19
 
 secured: "btaMwaseor0uykPJrNJEa0m7xrNURyMOQGAsGo7emZPAcSY7LqrfKQQp2NvxA4Ncu6KGlqYKUhm2Cu5GdTHa56VuXJCRhz1biIma6aacJKyQp0ZjD5a1SfQhWFZqVb2HuBNDNbQfwxu4Rj5odKCpc9RdRDplBjyayLAwiMZCK+3ZyNtofFoKOC7xK+KZjQE7xJRj3BIdizcJOilM7m/cuMoCN8vhrh/WROa+4h5AYTeMJAz2882IaRcXuZHmUEBWf9pF1S9vJkVZN4v4FN3ZI7K3eWu7xz6SuLDDHJZ/o764uDyAmVS9rikSnEAObmBicTgZOtMUNXgu6/STbpznoS9bgkHT01k/rB+ltvVJ8k5aXt93nsT18qwsgsjMVAmCLW3n97HPFyE8rSKMviPmFH0Jb5yKui8i5cW6JSvvY8ugDd6YeYO+pg7m+oCZd0MAZ2gJn2r7sCC8cybz+bnKVa1VkUfTA3WHnnn3rTFbrZnbF3icQgrCrY+2OMtHvYKg9qt/RoRwnldw+c4BAweuFQ==;psWCxn4aHKmFjvYzJy6ORw=="
 ---
