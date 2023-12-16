@@ -6,8 +6,8 @@ publishedDateTime: 2023-12-15T20:31:00Z
 originalUrl: "https://www.waow.com/news/top-stories/artificial-intelligence-experience-may-become-a-requirement-in-the-workforce/article_d4ff6640-9b99-11ee-9805-0353739445dc.html"
 webUrl: "https://www.waow.com/news/top-stories/artificial-intelligence-experience-may-become-a-requirement-in-the-workforce/article_d4ff6640-9b99-11ee-9805-0353739445dc.html"
 type: article
-quality: 36
-heat: 36
+quality: 38
+heat: 38
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AWS AI
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/waow.com/content/tncms/assets/v3/editorial/8/c4/8c434668-9ba0-11ee-ac1b-03bb939e4b3f/657cdfdc1109a.image.png?crop=697%2C366%2C4%2C0&resize=697%2C366&order=crop%2Cresize"
@@ -24,6 +25,6 @@ images:
     height: 366
     isCached: true
 
-secured: "iU1Hw87NtfQySjSqjRtBqb8t0NU66BTMewC2s6Q4mxIf3NVJI8Yre1514rIcNWHbVT73eF5ymq8765NqNHq4cTNQt1VUtnkpmh+g13g4f0SoX6YsZCpHOyqPJ/w4i0qcq9E+ygx2HhpNWsEtHX+lKWVAJRutPtogatXWC9EZzkiCOf7icKIshs5KSnViSWF/B+zvYVDJssK6DWPvI16+78Mvy+VUEbh5mkLI6F9vSIWpUw3tVmSct2y4O4SuHh2btnSwFPT1BMxX3IGVrtlp2txgAE0ee7ufh1wum7+bNBoxy4kTg4I8QP1klW4xdttd+M+02ASN+P6lJyJ6FOxqknv948qKs49QfRp1CO9onR4=;01V8gbkKP7x/0ZzrnCT47g=="
+secured: "9XkWSNroZgJaeuqCufrgsg0LQBbZ9EsEnYDzW+dj6vMWK+1+SrfQP4ftQmXBPwpi3Ia13RY/RFOky17bizwCcvqWgVnxodV4kOC4kjEbHGUAim8pG5BRHoIhcsAnWOZOQFaPEHKlAX4tLZ307b1rHEyH5n6ZRQHEA7IDGt6ufxcM/+kDw+Ho2La1cR/jtZVPSERBLtoy1pALRsEjyiaVeEG7g+hT9YHgy6teTTYoGTeFKmKxC4588WOBgoCY5piHJbPu4bFCAXtCnNebO1c/uBRoicbsjmxOXWdOyMeckqK+pV98hkfoHLVcGfD6VPoxYt1xIcgHVjaJ238/YIYXKEEOW1tRrLyyWkmGJnPJiFXJCp8hPR8Gmf/j+9hjfhkuS8LHRHOAj0B+zhp8RlWx9uJZpWTkEUAHScWTWQFiO+1Jo9ez+UosO6ZZU5XadsZz0FVucArxtz9CndpE6eCqNAPLpxHxuETnsKttiB6+S0PARx9i5kbfa5Hu/kuhkLhOr/673NY03ntASZxjxVA2FA==;2o9ady1jOO9iL890pKu+Og=="
 ---
 

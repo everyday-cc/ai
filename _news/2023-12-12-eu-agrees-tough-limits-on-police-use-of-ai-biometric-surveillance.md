@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/world/2023/dec/11/eu-agrees-tough-rules-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2023/dec/11/eu-agrees-tough-rules-on-police-use-of-ai-biometric-surveillance-ban"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "EU agrees draft laws on artificial intelligence"
-    excerpt: "The 27 member-nations of the European Union have agreed draft laws to oversee artificial intelligence, or AI, within the bloc. The countries will vote on the provisional legislation — known as the European AI Act — early next year and the rules could be in place in 2025."
-    publishedDateTime: 2023-12-11T01:39:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202312/11/WS6576632fa31040ac301a714c.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 39
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202312/11/6576632fa31040acaf82600a.jpeg"
-        width: 955
-        height: 636
-        isCached: true
   - title: "US committee sees AI fintech threat, public ready for biometric defense"
     excerpt: "The U.S. Financial Services Committee recently held a hearing with finance tech innovation leaders on opportunities and risks associated with AI."
     publishedDateTime: 2023-12-13T20:59:00Z

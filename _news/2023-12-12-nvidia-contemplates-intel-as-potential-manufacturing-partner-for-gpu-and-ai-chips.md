@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/101160-nvidia-contemplates-intel-pot
 webUrl: "https://www.techspot.com/news/101160-nvidia-contemplates-intel-potential-manufacturing-partner-gpu-ai.html"
 type: article
 quality: 74
-heat: 184
+heat: 174
 published: true
 
 provider:
@@ -169,15 +169,6 @@ related:
         width: 718
         height: 400
         isCached: true
-  - title: "YTL and Nvidia to build AI data centre in Johor"
-    excerpt: "YTL Power International revealed on Friday that it will collaborate with GPU chip maker Nvidia to build an AI data centre in Malaysia by the middle of next year."
-    publishedDateTime: 2023-12-11T02:44:00Z
-    webUrl: "https://developingtelecoms.com/telecom-technology/data-centres-networks/15929-ytl-and-nvidia-to-build-ai-data-centre-in-johor.html"
-    type: article
-    provider:
-      name: developingtelecoms.com
-      domain: developingtelecoms.com
-    quality: 19
 
 secured: "TvbLYfiE8/mWoTro7Bf5zQfqEOXCABh9gylV8NALtiSb6LGeRxy7S2F764Ea+3qvpsLfJdTdF3X1CoVz8M/bwjo63GovjlbutJ/fkXSPlRU3bxsLkjvZYocETxJHxROez5rjxZ4NcosL0COVXbz2iJpkrD7ZcMabu4eyNB3ETur+JI5Fz1ck0rcmi0KxszDjUG0QO4MpmJsVeA9cjSb5nnrAjSA2KO1ql1Suj5Z1zHKPLcJyGERdhFghJPtUTY2rbbE3IA1YRVb8TgBA8Ceb9uAEvue6H5M+eWvcR5IyuOfybJmtxhFmjnsxVFVeq8VJD2DYThimFIarZzouLvDukiIz9ZP+sIcxIlt5c2qHgmk73T1S2NJn6+FBdHid/kZyMtiQQ/6aEINH1x/aRWA9mmZeBL254cK+TODzLqeL3gxTFlKZd0/S+RNXFa4oHoUj66IOnlI69Jcr+y5w4czy/sNhK465yzo8uP5YSD0mpfZOPuN3Ks/eOBJ0wt3bY3Mqrm/4dv/D2VinmS6wXhD9ZA==;saHSG/aaZtidHlSfMyhpsg=="
 ---

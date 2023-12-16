@@ -137,15 +137,6 @@ related:
         width: 1024
         height: 567
         isCached: true
-  - title: "Dell Technologies storage advancements accelerate AI and generative AI strategies"
-    excerpt: "Dell Technologies is helping customers achieve faster AI and generative AI (genAI) performance with new enterprise data storage advancements and validation with the Nvidia DGX SuperPod AI infrastructure."
-    publishedDateTime: 2023-12-11T01:11:00Z
-    webUrl: "https://itwire.com/guest-articles/company-news/dell-technologies-storage-advancements-accelerate-ai-and-generative-ai-strategies.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 14
   - title: "Companies Gaining Competitive Advantage Through Deploying Private AI Infrastructure at Equinix"
     excerpt: "Enterprises are directly utilizing Equinix for deploying their private AI infrastructure, and service providers are utilizing Equinix to provide private AI services for their customers. Both can benefit from the growing AI ecosystem at Equinix with a concentration of buyers and sellers operating in close proximity to major cloud on-ramps."
     publishedDateTime: 2023-12-13T13:18:00Z

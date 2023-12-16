@@ -41,20 +41,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "EU agrees draft laws on artificial intelligence"
-    excerpt: "The 27 member-nations of the European Union have agreed draft laws to oversee artificial intelligence, or AI, within the bloc. The countries will vote on the provisional legislation — known as the European AI Act — early next year and the rules could be in place in 2025."
-    publishedDateTime: 2023-12-11T01:39:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202312/11/WS6576632fa31040ac301a714c.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 39
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202312/11/6576632fa31040acaf82600a.jpeg"
-        width: 955
-        height: 636
-        isCached: true
   - title: "Face biometrics code could be seeing through better eyes"
     excerpt: "Computer vision vendors and researchers are rapidly developing significantly upgraded camera systems on the front end of AI."
     publishedDateTime: 2023-12-15T22:12:00Z

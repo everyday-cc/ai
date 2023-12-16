@@ -6,7 +6,7 @@ publishedDateTime: 2023-12-15T19:19:00Z
 originalUrl: "https://venturebeat.com/ai/safe-ai-for-healthcare-providers-pursue-once-in-a-generation-benefits-of-large-scale-models/"
 webUrl: "https://venturebeat.com/ai/safe-ai-for-healthcare-providers-pursue-once-in-a-generation-benefits-of-large-scale-models/"
 type: article
-quality: 52
+quality: 74
 heat: -1
 published: false
 
@@ -21,6 +21,13 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Meta AI
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1251551899-e1702664137230.jpg?fit=750%2C422&#038;strip=all"
+    width: 750
+    height: 375
+    isCached: true
 
 related:
   - title: "AI In Healthcare: Are People Losing Or Gaining Control?"
@@ -174,6 +181,6 @@ related:
         height: 372
         isCached: true
 
-secured: "lpWndNp03pXa6ZQzeG9NomGgkY9Kz57tTYtt84snirHiO5GZSgkdS4k3B+T9qkx28mGaXUoceQqxtegYmPu/jHzYhxSuESRif3da+xHbpL0IUX+4Rwdt1iLG3strCQltrz5Zlqnj6CNicFNCWc94/nu8ETl5AL5YKmQXqY3WzoDtQvlGXZlzmisZJpMD4pUfgp3WGveJ3DKX3DpEHNDkAvx+JL6B4nR5HVRPG3d2Dojhek0mrPx9+lpkEhWhIK9C2cWbKNJJS/i8kXMt8qs5idC0XMo8xoGyjadWxHRXez7hYtHiBzrvh4w29nVI7T9pxtvaorIqz8nofbb5hqVmS4nhW8Ow6g9s2EN3I6gKejDt1Hze1o0gt2xeFTNwBSV9+ArUUzHqvn3MPEsuBKlpBFybgizs47EoMLHwhCPA8n511grdRoDnW+hadNSFnlTV6u+0+gbMNBkVqWrG7fqoM7X5QnWfcQ0qbuMxp8vUT/7IsK+Kdbgqst1lsqXb77BW2xMRoGY6VKnsfNILv6uiRw==;MoEPGfShVQEnBLb/el7RMQ=="
+secured: "ZbGCib8RPOUUpKOwd/A7lS8o+c9n4ROc55VhKUu0QAL0GGHFNFJ/yE5rxuo//GPfOnK8YoIFxHEwqz7HqeBuKDX9ZomJEs97uaqgueHlTidXVXLKQrJPrPW/HkZVf2sqbAh9ln7dRLKsnLGbOlcNAXn3Q71GRJ6+fVX4LpezxKVDDXVbkXLz21rmHr+O1qd1cMF5TtnILwu6e1PdrVpNJI9oalfZhoZmewYmSDbthF/VqeHPnxMHdrjQYUY+zdJOqagwW91X0yelxdrcNuXoXrIw/AU4o77XDnnPPphu+M28aQoGk6xnK/UoFwrQhfRrUQwIjp5uK6to6XGs7/d9T5B3HrIoi+TP/6sOcH5wDHI=;9E0EI1bvSeVR8i/GaXvFhg=="
 ---
 

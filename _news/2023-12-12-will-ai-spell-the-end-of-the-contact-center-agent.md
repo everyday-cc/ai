@@ -38,6 +38,22 @@ related:
         width: 1351
         height: 900
         isCached: true
+  - title: "What Businesses Should Know About Data Privacy And AI — Younger Consumers Lead The Way"
+    excerpt: "Artificial Intelligence (AI) is not new, but the launch of Generative AI (Gen AI) tools like ChatGPT in 2022 brought AI to millions of new users."
+    publishedDateTime: 2023-12-15T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/garydrenik/2023/12/15/what-businesses-should-know-about-data-privacy-and-ai---younger-consumers-lead-the-way/"
+    ampWebUrl: "https://www.forbes.com/sites/garydrenik/2023/12/15/what-businesses-should-know-about-data-privacy-and-ai---younger-consumers-lead-the-way/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/12/15/what-businesses-should-know-about-data-privacy-and-ai---younger-consumers-lead-the-way/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 81
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6579e9e572d21fb9f7c932ad/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 640
+        height: 361
+        isCached: true
   - title: "Here are 7 portfolio stocks that can benefit from bigger tech budgets in the age of AI"
     excerpt: "The gatekeepers of information technology budgets at major North American companies are ready to start spending again."
     publishedDateTime: 2023-12-12T16:00:00Z

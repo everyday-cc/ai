@@ -33,15 +33,6 @@ related:
         width: 814
         height: 475
         isCached: true
-  - title: "Japanese tech giant Rakuten plans to launch proprietary AI model within next two months"
-    excerpt: "Rakuten CEO Hiroshi Mikitani said the company is planning to launch its own large language model within the next two months."
-    publishedDateTime: 2023-12-11T01:39:00Z
-    webUrl: "https://www.nbcnewyork.com/news/national-international/japanese-tech-giant-rakuten-plans-to-launch-proprietary-ai-model-within-next-two-months/4938346/"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 11
 
 secured: "NowWrpeO+WbpyWdIP04ACtUejhTtPsEuccsj/PNfSYopiWfYnJT286nKeRXRH+fmZoQ/s5KpF084LY1Ji1lwz85lugTZtvsZv20cwmaJiSQmKgRrIiqVQXHtqU7gISbwgrDPRtQiBn0vD68jRxOvoOJ1SUDDdFQj11+iLQb3FbfczQcppaXKaJZ0zkw96W4+37NLuM4rrwORtB7zPJEOO7zeq3jqVGI1TKbl/XRg5mrSFGI7P/7xIsfvj2XRFEXEBphtfwMziPuGglHqSq7twQpZuP1tdThHahs9RYAOM7jOBRn22afpH2IoGUuiTQqg6ycHzUAcRH11st4rig3P1ck4GeBJuJEoLtHCpuTCXOqFw1QFacfqK0acJXSpvL1pqZwGs8egW0SihmqaWZ2i56CZ2lXNPOnF2OMJh/CZLXcd7+mvcYYRTS+UG+D7CA05v6APKbvmSAEQ1W/MWtrbDp64H7ng8oDPN2p52haEPphTK+anoxeRpGj1xYDzN+ecR5h6btwzelJwHUFIgiRROg==;CmNl+bsh24t5CUzqlD0mig=="
 ---

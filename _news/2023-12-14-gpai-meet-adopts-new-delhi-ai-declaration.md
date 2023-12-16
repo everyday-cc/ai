@@ -52,15 +52,6 @@ related:
       name: Time
       domain: time.com
     quality: 47
-  - title: "Europe reaches a deal on the world’s first comprehensive AI rules"
-    excerpt: "Click to email a link to a friend (Opens in new window) Click to print (Opens in new window)  LONDON | European Union negotiators clinched a deal Friday on the world’s first comprehensive artificial intelligence rules,"
-    publishedDateTime: 2023-12-11T01:34:00Z
-    webUrl: "https://sentinelcolorado.com/nation-world/europe-reaches-a-deal-on-the-worlds-first-comprehensive-ai-rules/"
-    type: article
-    provider:
-      name: Sentinel Colorado
-      domain: sentinelcolorado.com
-    quality: 19
 
 secured: "l7Q0h6zVvbzm0ACqZh+u33E+G+0KifoXhQkBG+6N5GLaa1HHwkGilIsMRvvPWutFZXhyGfXJVePzqhgrRbq5h3D1xjGvkxI/IUPO10KQiPjFTGgBTMzC8noyIB9bKdngQRi8jYfVEeeB6m0YPERk0bzH6m4H1zm9jLlCQ3Ev52LyKGZl0BjC6ajUT0MSH2U+uDWlqv/FX89fpfy8EhlaAZ5ukG/5Qnw8ZW+TfXA8+vKH+/83TbLDnS/1twhwBdMlXX8xgiN2pq5yklMOQ19nXtKz3eHC3qtxTuXgJbe7GLvcVGF9zvG8YBVUZZWDpQ0TqioZTeRIxGwkZK5C1+M6LgdgBnbzLLJlzGW/LdNS0M0=;vada51FFJq7R1CHC8OvvoQ=="
 ---

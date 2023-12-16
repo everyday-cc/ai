@@ -28,22 +28,31 @@ images:
     isCached: true
 
 related:
-  - title: "How Accurate Were Our 2023 AI Predictions?"
-    excerpt: "Midjourney, which generates images from text prompts, is one of the hottest generative AI startups in the world. It has tens of millions of users and is reportedly on track to do $200 million in revenue in 2023. It has accomplished all of this without raising a cent of outside capital."
-    publishedDateTime: 2023-12-11T01:31:00Z
-    webUrl: "https://www.forbes.com/sites/robtoews/2023/12/10/how-accurate-were-our-2023-ai-predictions/"
-    ampWebUrl: "https://www.forbes.com/sites/robtoews/2023/12/10/how-accurate-were-our-2023-ai-predictions/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2023/12/10/how-accurate-were-our-2023-ai-predictions/amp/"
+  - title: "4 Best Dividends For A 2024 AI Bubble"
+    excerpt: "Is the AI mania substance or puff? Probably a bit of both. But there’s money to be made as the hype train rolls on. Let’s do it smartly—with dividends."
+    publishedDateTime: 2023-12-14T15:04:00Z
+    webUrl: "https://www.forbes.com/sites/brettowens/2023/12/14/4-best-dividends-for-a-2024-ai-bubble/"
+    ampWebUrl: "https://www.forbes.com/sites/brettowens/2023/12/14/4-best-dividends-for-a-2024-ai-bubble/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brettowens/2023/12/14/4-best-dividends-for-a-2024-ai-bubble/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 91
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65651b815b8054baa375034b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1374
-        height: 900
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64b5515e45aeec9aede9bcfd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 899
         isCached: true
+  - title: "Three Uses For Artificial Intelligence In Financial Services In 2024"
+    excerpt: "From boardrooms to classrooms to dining tables, 2023 made AI the hottest topic in virtually all corners of enterprise, education and private life. It's not even an exaggeration to say that A and I were the two most important letters of the year; in fact, Collins Dictionary recently made it Word of the Year 2023."
+    publishedDateTime: 2023-12-15T13:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/15/three-uses-for-artificial-intelligence-in-financial-services-in-2024/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "Part 2: Expert Predictions For Artificial Intelligence in 2024"
     excerpt: "In Part 1, experts and startup founders offered many different insights and predictions. More experts have weighed in and made their predictions on the future of artificial intelligence, a tool that h"
     publishedDateTime: 2023-12-11T16:45:00Z
@@ -55,6 +64,15 @@ related:
       name: TechRound
       domain: techround.co.uk
     quality: 39
+  - title: "Is AI a bubble?"
+    excerpt: "At the margins, this is already being recognised in company sales. Microsoft recently reported strong growth in its Azure cloud business, with generative AI an important part of that growth. Chief executive Satya Nadella said more than 18,000 organisations ..."
+    publishedDateTime: 2023-12-15T11:00:00Z
+    webUrl: "https://www.moneymarketing.co.uk/opinion/darius-mcdermott-is-ai-a-bubble/"
+    type: article
+    provider:
+      name: Money Marketing
+      domain: moneymarketing.co.uk
+    quality: 19
 
 secured: "viAVMtFngQtO5PmCaDAnPeFUFeyT8qIwosz2wToGlJxG1exJ0wmiNRo6/xBVZjOYwO0HABwqLmyYSBsODc+919TqAKv36z2FGHitEru2beU15yhTCGPmFoc4lT9heIDyCkVaXIF6lEPwkE+p95ZluKZAviAbXW/gmxzINszbSRHggjuzYxbKuGySxtzvTtmxM569mWIcxIzxe6WGZBMCnLqnEzvV6JkNINGJ/au1rcKFkPGM7WnhZANLLfinoObto7lU2Em4NIil32ZGJWHccX+bJzQgEHH0NWMlkuqgF0KGo+U1wFjv9QXtJCxQNVqlNFTJTVwLZgjWXrU7Dy6vkA7Bwbq+4FRcG2H/FfOGZ4gSULVbkbEfIBCKP2MkRPZPDoaaNdchjFQrVGdxt0djZ1gc19Ymvalo5GuveqGwalWTWTr0mg36RUuMD63Rh87BKch1ROYqfTRfBfWkjk2ixeLxXbZzA6GAC1rmyPkM8GeMfnUKtgn1C+wNrkjbtpNn1t9CnXvapHDd8fr98/nWiQ==;0tJks19jBSLXyrapRBcGXQ=="
 ---

@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "The Pixel 9 might come with exclusive “Pixie” AI assistant"
+    excerpt: "The Information reports that Google is working on a new \"Pixie\" AI assistant that will be exclusive to Pixel devices. Pixie will reportedly be powered by Google's new \"Gemini\" AI model. The report says Pixie would launch first on the Pixel 9: \"Eventually,"
+    publishedDateTime: 2023-12-15T21:58:00Z
+    webUrl: "https://arstechnica.com/reviews/2023/12/google-reportedly-plans-new-pixie-ai-assistant-exclusive-to-pixel-devices/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 67
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/08/hey-google-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "Google reportedly plans new “Pixie” AI assistant, exclusive to Pixel devices"
     excerpt: "Move over Google Assistant, Google is apparently working on a new AI. The Information reports that Google is working on a new \"Pixie\" AI assistant that will be exclusive to Pixel devices. Pixie will reportedly be powered by Google's new \" Gemini \" AI model."
     publishedDateTime: 2023-12-15T21:58:00Z

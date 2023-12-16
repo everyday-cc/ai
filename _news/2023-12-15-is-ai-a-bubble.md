@@ -35,6 +35,22 @@ related:
         width: 1600
         height: 899
         isCached: true
+  - title: "Part 1: Expert Predictions For Artificial Intelligence in 2024"
+    excerpt: "Artificial Intelligence has come a long way over the past few years. 2023 has been a monumental year for this development, and that means that 2024 has a lot more in store. We will see"
+    publishedDateTime: 2023-12-11T10:30:00Z
+    webUrl: "https://techround.co.uk/news/part-1-expert-predictions-for-artificial-intelligence-in-2024/"
+    ampWebUrl: "https://techround.co.uk/news/part-1-expert-predictions-for-artificial-intelligence-in-2024/amp/"
+    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/part-1-expert-predictions-for-artificial-intelligence-in-2024/amp/"
+    type: article
+    provider:
+      name: TechRound
+      domain: techround.co.uk
+    quality: 61
+    images:
+      - url: "https://techround.co.uk/wp-content/uploads/2023/12/getty-images-vB2OujjOovo-unsplash-scaled.jpg"
+        width: 2560
+        height: 1435
+        isCached: true
   - title: "Three Uses For Artificial Intelligence In Financial Services In 2024"
     excerpt: "From boardrooms to classrooms to dining tables, 2023 made AI the hottest topic in virtually all corners of enterprise, education and private life. It's not even an exaggeration to say that A and I were the two most important letters of the year; in fact, Collins Dictionary recently made it Word of the Year 2023."
     publishedDateTime: 2023-12-15T13:45:00Z
@@ -44,6 +60,17 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "Part 2: Expert Predictions For Artificial Intelligence in 2024"
+    excerpt: "In Part 1, experts and startup founders offered many different insights and predictions. More experts have weighed in and made their predictions on the future of artificial intelligence, a tool that h"
+    publishedDateTime: 2023-12-11T16:45:00Z
+    webUrl: "https://techround.co.uk/tech/part-2-expert-predictions-artificial-intelligence-2024/"
+    ampWebUrl: "https://techround.co.uk/tech/part-2-expert-predictions-artificial-intelligence-2024/amp/"
+    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/tech/part-2-expert-predictions-artificial-intelligence-2024/amp/"
+    type: article
+    provider:
+      name: TechRound
+      domain: techround.co.uk
+    quality: 39
 
 secured: "ghg3PbXFV/zemqYtlzPkzGbInL0m80Q0QaV6I7q7YANedzOVfzDLW2g13hHzzyRCUt0r9LZsLA2mJPZvSyfyRuBD9yt3fbyhQiQjGt1AtgyaSd3davf1nYAGaEIEgqj9ZUbBTpRdeUld50x1AqnepuzYrDjHGus9VJegChiLwOmbles/YI7syDkvxA1NMt236luk5g+DNPELvzWUuWvoy88EBDGNcygmRCr0/48BdQEmdBCjS/tW0OiRT20eYwHd7MyL3YRLNoTwCVNDKzfGYXB1FEHUPvlxTN6/r6vHWEdpVFBzCnA14tzEJ8i8aZN49N33cDQIi8OJEdzb4THaHuI9drG2RN+waExvusDoX3Y=;QxcC45ZoaFO6PfxOwJywBw=="
 ---

@@ -166,15 +166,6 @@ related:
         width: 718
         height: 400
         isCached: true
-  - title: "YTL and Nvidia to build AI data centre in Johor"
-    excerpt: "YTL Power International revealed on Friday that it will collaborate with GPU chip maker Nvidia to build an AI data centre in Malaysia by the middle of next year."
-    publishedDateTime: 2023-12-11T02:44:00Z
-    webUrl: "https://developingtelecoms.com/telecom-technology/data-centres-networks/15929-ytl-and-nvidia-to-build-ai-data-centre-in-johor.html"
-    type: article
-    provider:
-      name: developingtelecoms.com
-      domain: developingtelecoms.com
-    quality: 19
 
 secured: "lBVxIqNICacojHMKzG+PG9wmIYopo+7VcDPsXNbss6mpXlJKqNyIygEoPfKnrrW8kEKX3RlmbLUP8J7GvrbfKTLY1Ee04F4axjdgTyvNP4jKNK8k3/qIYLD8otFI8RURq+lKxz+VqWJ3TLwrbYxfNVu0hbbZbUeGOrnEbiHjUl/x7mWZ1Klz5GrqJBfEUNl8XU3WPiT0/ZzPhH6kzTdfJAjvMlY0ujvE/MiESm8kk2dCIZlvOUUTAQVWqvWn2/RXjSVUZ80OJfXa8I9XJ67JmjEGHsccjIgIxOoUfPUndvpX32SRkxViBu8fZi2MhJSAlnkv97Btt5efl8rKWl8xSxVF/dYm+ubBpJ4mFcqYl/E=;CtrPop9iGjP7mBnVsEM+qQ=="
 ---
