@@ -211,20 +211,6 @@ related:
         width: 1000
         height: 500
         isCached: true
-  - title: "The Rise of Artificial Intelligence: Transforming Industries and Reshaping Our Future"
-    excerpt: "In the annals of technological evolution, few advancements have sparked as much excitement, speculation, and transformative potential as Artificial Intelligence (AI). The rise of AI has become a defining narrative in the contemporary tech landscape,"
-    publishedDateTime: 2023-12-11T22:12:00Z
-    webUrl: "https://techbullion.com/the-rise-of-artificial-intelligence-transforming-industries-and-reshaping-our-future/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 34
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/Artificial-Intelligence-1-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "How Visual AI Is Transforming the Conventional School Safety Model"
     excerpt: "Join this free webinar to learn how visual AI can be used to create a proactive and adaptive approach to physical security and emergency response for schools and campuses."
     publishedDateTime: 2023-12-13T14:15:00Z

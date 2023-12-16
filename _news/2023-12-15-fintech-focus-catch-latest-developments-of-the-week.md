@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Bank audit executives seek stricter regulation for fintech, BDCs"
-    excerpt: "ACAEBIN also called for stricter regulations of the fintech space as well as the operations of the Bureaux de Change."
-    publishedDateTime: 2023-12-13T19:08:00Z
-    webUrl: "https://punchng.com/bank-audit-executives-seek-stricter-regulation-for-fintech-bdcs/"
-    type: article
-    provider:
-      name: The Punch Newspapers
-      domain: punchng.com
-    quality: 19
   - title: "This fintech startup wants to help you make climate-forward investments"
     excerpt: "Harlem-headquartered GreenPortfolio has launched a platform that seeks to arm individual investors with climate-conscious data to help inform their financial decisions."
     publishedDateTime: 2023-12-15T18:33:00Z
@@ -43,6 +34,15 @@ related:
       name: Crain's New York
       domain: crainsnewyork.com
     quality: 4
+  - title: "Fintech in Italy: there are 622 startups but investments are decreasing. Focus on Artificial IntelligenceA"
+    excerpt: "Among the 622 Fintech startups, 109 are focused on insurtech. A stable number that shows the maturity of the market. However, investments have fallen by 81% even though a third of the startups are profitable."
+    publishedDateTime: 2023-12-16T18:20:00Z
+    webUrl: "https://www.firstonline.info/en/fintech-startups-in-Italy-are-622-but-investments-are-decreasing-with-a-focus-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: FIRSTonline
+      domain: firstonline.info
+    quality: 1
 
 secured: "wqixxlWF/+s1udzY3/y/EfKbAnLL9gfjg4P5O13ywHqCtbgYeVRnmKm4CfWIPpCR9ARO/2ynY1g24nQ0TrcP2STBrUME0CnTukQfxKybUrKvD9ZQ+3lpPFJZ0eWCJeS/300QbIaUTna5VpyWLm1951/9AQ5AdPxkU2B+ARL09/LOCjdxtKrcWo2KvguSnk9exHSYSNLWXb8XYcXEV58INZQkUVHWpSaOt9umqLvg17WyUChdMN51jQJErNEvCKgQ5pzcf6DZhpVN/bbO+/oJvPRVjE58Ou1xXUc4zaaTObuGw+RlBcgyQGUORJPgStjoO4y5IzSg4Y+RlTWZCrNHpXWpCyK3/P3otT/Pff+y4Ag=;KZvH6Reerr5pyOhWWofGog=="
 ---

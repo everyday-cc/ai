@@ -62,15 +62,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 19
-  - title: "Google's Gemini video was staged, which is kind of a relief"
-    excerpt: "Google just launched Gemini, and it also just admitted that its hands-on video was staged, which is both good and bad news."
-    publishedDateTime: 2023-12-11T19:49:00Z
-    webUrl: "https://www.androidheadlines.com/2023/12/googles-gemini-video-staged.html"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 4
   - title: "Google Bard Meets the Latest Language Model, Gemini"
     excerpt: "Gemini, the latest language model of Google and DeepMind is being used by Google Bard, an AI chatbot of Google."
     publishedDateTime: 2023-12-14T17:06:00Z

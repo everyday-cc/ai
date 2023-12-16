@@ -19,29 +19,48 @@ topics:
   - AI
 
 related:
-  - title: "FinTech Focus: Catch latest developments of the week"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-12-15T11:11:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/fintech-focus-catch-latest-developments-of-the-week-5/"
+  - title: "US committee sees AI fintech threat, public ready for biometric defense"
+    excerpt: "The U.S. Financial Services Committee recently held a hearing with finance tech innovation leaders on opportunities and risks associated with AI."
+    publishedDateTime: 2023-12-13T20:59:00Z
+    webUrl: "https://www.biometricupdate.com/202312/us-committee-sees-ai-fintech-threat-public-ready-for-biometric-defense"
     type: article
     provider:
-      name: IBS
-      domain: ibsintelligence.com
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/28124015/online-banking-purchases-scaled.jpg"
+        width: 2048
+        height: 1367
+        isCached: true
+  - title: "Face biometrics code could be seeing through better eyes"
+    excerpt: "Computer vision vendors and researchers are rapidly developing significantly upgraded camera systems on the front end of AI."
+    publishedDateTime: 2023-12-15T22:12:00Z
+    webUrl: "https://www.biometricupdate.com/202312/face-biometrics-code-could-be-seeing-through-better-eyes"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
     quality: 24
     images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/11/FinTech-Funding-wealth.jpg"
-        width: 300
-        height: 300
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/12/15171048/computer-vision-ai-scaled.jpg"
+        width: 2048
+        height: 1152
         isCached: true
-  - title: "This fintech startup wants to help you make climate-forward investments"
-    excerpt: "Harlem-headquartered GreenPortfolio has launched a platform that seeks to arm individual investors with climate-conscious data to help inform their financial decisions."
-    publishedDateTime: 2023-12-15T18:33:00Z
-    webUrl: "https://www.crainsnewyork.com/climate/new-york-city-fintech-startup-wants-help-you-make-climate-forward-investments"
+  - title: "Providing Critical Services to the UK Financial Sector: Important Draft Rules for Fintechs"
+    excerpt: "in financial services — as we have discussed most recently in our alert “AI and Machine Learning in UK financial services: the public response to the FCA and PRA” — this regime is likely to become closely associated with any future AI regulation in ..."
+    publishedDateTime: 2023-12-13T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/providing-critical-services-to-the-uk-7117293/"
     type: article
     provider:
-      name: Crain's New York
-      domain: crainsnewyork.com
-    quality: 4
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 14
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15363_1913.jpg"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "lQNiGIhHXYVythRWa/ZLcl3KKXgM8DW8xmNG73M9iSpOLkFikFcnn5P1qcbeWNIFenzASgd7GV97Y81Sd3ag0ARMIoNmpYTd3S9KfpHFkr0SSX+G2sukmu0oMnrR3+LFp1PGfixKq1U/vrhRRGhhZU9GVFtMhn/bsC8LkxNE/LTMUkMb2MDgvPCk2zHnhP3zt9aSdov5GS4UTO2ICF/2G/xQ5TrUTwHPfHk6XfucEML+gb+6hl69ZgdXxdEMJhPegjYI/bq4YCpT1lZ9aJwfuf2AC2BFO1hLyaas/1nCB8Be4/ASPtIChrnAB3gl6Wgj9rCr7dYp/5H3Hcky40d1r2IQ3heR2AuBoLKVW+ErCLXBZ4bVibAmEqbotpZ7kzrtu6HNiP0jZkfquryL0Fxmr7uur0HzRw91P9cVSRnB9mLTmDUnB+AB/kYNhrL8frNMk5Xj4ZdPt14nMUVKn55UpYN1tQ9aJoJewCufCBeivBURKkjSucGaWAotdfZsqzZRPBbOqGCeB2+h+TM2A/T3Ig==;/XRbEwWrFrqCeCpRNMyKuw=="
 ---

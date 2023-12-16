@@ -139,15 +139,6 @@ related:
       name: The Conversation
       domain: theconversation.com
     quality: 36
-  - title: "Elon Musk’s new AI Grok accused of stealing answers from ChatGPT"
-    excerpt: "Grok, the recently released chatbot from billionaire Elon Musk's startup xAI, has been accused of ripping off ChatGPT's codebase."
-    publishedDateTime: 2023-12-11T20:26:00Z
-    webUrl: "https://www.dailydot.com/debug/elon-musk-xai-grok-ripping-off-openai-chatgpt/"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 34
   - title: "ChatGPT vs Google Bard: What's the difference and which one to use? – Android Authority"
     excerpt: "Affiliate links on Android Authority may earn us a commission. Learn more.We finally have our hands on Google’s long-awaited Bard chatbot. It takes aim at the"
     publishedDateTime: 2023-12-16T04:28:00Z

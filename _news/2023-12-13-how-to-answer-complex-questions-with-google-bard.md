@@ -103,6 +103,15 @@ related:
       name: inc42
       domain: inc42.com
     quality: 37
+  - title: "Google’s Bard vs OpenAI’s ChatGPT: Which of the rival AI chatbots is better? – Euronews"
+    excerpt: "Google’s answer to ChatGPT is here - but is it as good as OpenAI’s global phenomenon? Euronews Next put them through their paces. Google has made its"
+    publishedDateTime: 2023-12-16T18:44:00Z
+    webUrl: "https://www.inferse.com/841934/googles-bard-vs-openais-chatgpt-which-of-the-rival-ai-chatbots-is-better-euronews-2/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 28
 
 secured: "AH9A/u1Fa9UUxz2lmTk0HElPDmedzkKa11G/R0yiUq66bjfSAFd2R7P6EuO4f1zcrgI4PqenH0zsg1vPrW/PYijo5/Osknu4BtqeIZUlGs2ETiKKRK+LwOjUhQDIJYC1wWAwt8lyYXsWjU3ocfB9MosFCtarhWqhIuvHN/jNMXUD8CCrayOkM6F3Oh4jQe0vVu5oD9QBR0ZUs0TvDXz5KGRv6LlulTDlc3Fu8kD5Xi1fgy1p8nVVVDWferpddwtiGq+HF1BGv26IfisvRa+7bfHeJm5iVQYBnYw/CbFIanUE8szZRBFKWRCKwH1E7k29sv31IbwMxuTZoT0z+LEUhHxXPXyoLrkEIGdBn2pB6vA=;R3V6h8Ac1bgFcW8R4dQPUQ=="
 ---

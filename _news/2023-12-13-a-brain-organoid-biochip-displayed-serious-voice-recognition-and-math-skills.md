@@ -50,15 +50,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "Brainoware: Organoid Neural Networks Inspire Brain-AI Hardware"
-    excerpt: "Self-organizing brain organoids connected to microelectrode arrays (MEAs) can be changed in function to create neural networks."
-    publishedDateTime: 2023-12-11T19:19:00Z
-    webUrl: "https://www.genengnews.com/topics/artificial-intelligence/brainoware-organoid-neural-networks-inspire-brain-ai-hardware/"
-    type: article
-    provider:
-      name: GEN
-      domain: genengnews.com
-    quality: 34
 
 secured: "NtxK8E84eskeWTJ0moFxj02h4puaTgYumsZx9li0Z9r3lYQW/dm+Tcd6d8/mXwRnTjLbJF7UFiAIg79/Y43DzzUmzJN0rnzrPWq8C+T9uKtwifvvWbvkiG8c6mAzlBEIL7bzK2xkoIype8jnKwgKPpIDYNI94e+rJOsNLAMJvHmLOwlSCWSSP2Ph0DedEtjVoYq+fWeZxK4JEcZmJ/xRezlBSAupS1EKFI5l+N7dOI46eTOBvexpnwavqO9oxmiD/5tmXaYb9oIETn3Epa83515ObWl+Qd0Cc/moAYDpwpH+h+RnRJqbW8FY/iDgHY74QtB66mBgkLBZjQOzIKvmP9mqiV1Cv+r9HnoX5QzcKAzjLssvNmObAfVEQbtY3j8t5RbJS5NKdBjwgyQfIvhscMiHHGmZRqrS5hqNKUOEeMHcoeYCjJrn+96zI5AvWyUtxvFZIONuuots1SPw7uhntHWtrA/nQ/B+G0oxjsYg72/G+CEDYcJXJHq93MmvbjQsBzLRMuiDd3ObAcdbm04Fvw==;QJndh3K5gRxz6wdkZ2IhTQ=="
 ---

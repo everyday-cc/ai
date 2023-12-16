@@ -133,15 +133,6 @@ related:
       name: The Conversation
       domain: theconversation.com
     quality: 36
-  - title: "Elon Musk’s new AI Grok accused of stealing answers from ChatGPT"
-    excerpt: "Grok, the recently released chatbot from billionaire Elon Musk's startup xAI, has been accused of ripping off ChatGPT's codebase."
-    publishedDateTime: 2023-12-11T20:26:00Z
-    webUrl: "https://www.dailydot.com/debug/elon-musk-xai-grok-ripping-off-openai-chatgpt/"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 34
   - title: "Taylor: A year after ChatGPT's viral launch, I'm freaking out about artificial intelligence."
     excerpt: "We’ve all been sleepwalking our way toward this … revolution? Utopia? Or is it apocalypse? Our columnist assesses the realities of AI."
     publishedDateTime: 2023-12-13T09:00:00Z
@@ -161,6 +152,6 @@ related:
       domain: inferse.com
     quality: 13
 
-secured: "pKj4IyBIO3XZ5JZtexUspHjoh4SbHA3e2dGzyoELNxQhLLUROcNfk2879bzzAwRvwauDmmYVCBc8UjWrqGZTNUtiImXrs/ti3wAowvHKesuguuXYoXsR2ArUm+YUMhkRoepBxHPSg6F9dhwhmGT5ylaZ9D5RZsPq5BAfE42C0CUKqFTAzPmXCdcZtdLFfJBttT09qn1s12/gZf3dkDqHxAoBWwVaMNVW19cSd2OyXdE4q5Q7xgtE2+NhM0QxvCCpbIC4Lh1q5Pz+vKnB04a4BOka3+JAq2Bn4UySJJuorQD9/S46ZMvdouvXSCFtcWWGoucmhVfHLx8FyapLcsSUnib7oUtrCDeDhOUuBpKmUb8=;4Qy6yjsIqvJn8enhesu6ZA=="
+secured: "oFUj/2u37vXONoxu1UaPzgzSs4nxdjYMI6YQ+MpjLPc+m9N/jal4JZDvZNFUKxQqB8duVKqXIfFS+Z2ZqEIUvxAzaPy4Ob3+lve6f+tfBWPP4+72bEkCYdnUwyFxYI2XB1c3mww8Qr6PesOY2VSfGfFetkYlOysaZpCy03EGLd889UoXLCg9eJf4kHO9sYqM+whEAHhBkMZitmwPAm/VxiYxXecN9fmdb+1U2m/sSwBMy8UpvSrySec9t92cfsl+29/cqrulWPvQxBRUBBIlMmd7A1Ar8hT+5tjZEKguQ3YNo6pCU0ILBxRhb3w4iKwx1mgw7WX4UDBK74Lk4a/H/jTabpoBJjJMvQq8QgR3C9mDNsWVoe7n+HmLzkZlK+x1YM8U/a6KxHZxsbJIMzvCgVnzblO9rn1JaHeBBxztmPCnM4TO18jW0l2EJFckLAs2IiCN3IkUYDDmHi0Q7+o40M32Ji3OlkqBoDlsSS0els8RAqbYemVMFd99LSy0lvzc7KBNubrSR8VbDsPjyxSiVw==;7yP3qMgC4azsnSvUfmDM8A=="
 ---
 

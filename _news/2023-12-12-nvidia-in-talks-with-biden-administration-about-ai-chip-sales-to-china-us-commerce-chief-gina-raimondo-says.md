@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "U.S. discusses AI Chip sales to China with Nvidia, says Raimondo"
-    excerpt: "The U.S. government is currently in talks with NVIDIA (NVDA) regarding the conditions under which it can sell AI chips to China. The administration has made it clear that Nvidia (NASDAQ: NVDA) is not allowed to export its most sophisticated semiconductors to Chinese companies."
-    publishedDateTime: 2023-12-11T20:36:00Z
-    webUrl: "https://au.investing.com/news/stock-market-news/us-discusses-ai-chip-sales-to-china-with-nvidia-says-raimondo-432SI-3060981"
-    ampWebUrl: "https://m.au.investing.com/news/stock-market-news/us-discusses-ai-chip-sales-to-china-with-nvidia-says-raimondo-432SI-3060981?ampMode=1"
-    cdnAmpWebUrl: "https://m-au-investing-com.cdn.ampproject.org/c/s/m.au.investing.com/news/stock-market-news/us-discusses-ai-chip-sales-to-china-with-nvidia-says-raimondo-432SI-3060981?ampMode=1"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
-    quality: 91
-    images:
-      - url: "https://i-invdn-com.investing.com/news/moved_LYNXMPEHAH0WT_L.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "China chip firms vie to take sales from Nvidia"
     excerpt: "Chinese chip designers including Tencent Holdings are aggressively pitching their AI chips as alternatives to Nvidia's, hoping U.S. export restrictions will prompt clients to switch, said four people familiar with such discussions. Julian Satterthwaite reports."
     publishedDateTime: 2023-12-12T10:56:00Z
@@ -158,15 +142,34 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "US in talks with Nvidia about AI chip sales to China"
-    excerpt: "The California-based artificial intelligence chip designer has commanded more than 90% share of China’s US$7 billion AI chip market, but analysts have said new US curbs on chip exports are likely to create opportunities for Chinese rivals to make inroads."
-    publishedDateTime: 2023-12-11T22:37:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/business/2023/12/12/us-in-talks-with-nvidia-about-ai-chip-sales-to-china/"
+  - title: "Intel Drops New Core Ultra Processors and Gaudi3 AI Chip to Take on Nvidia and AMD"
+    excerpt: "Intel launches Core Ultra processors and Gaudi3 AI chip to compete with Nvidia and AMD. Core Ultra line features chiplet design, neural processing unit, and specialized AI components for enhanced performance."
+    publishedDateTime: 2023-12-16T10:47:00Z
+    webUrl: "https://www.technobezz.com/news/intel-drops-new-core-ultra-processors-and-gaudi3-ai-chip-to-take-on-nvidia-and-amd/"
     type: article
     provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 51
+      name: Technobezz.com
+      domain: technobezz.com
+    quality: 48
+    images:
+      - url: "https://cdn.technobezz.com/c/intel_core_ultra_holthaus_jpg_rendition_intel_web_1648_927_d97184be91/intel_core_ultra_holthaus_jpg_rendition_intel_web_1648_927_d97184be91.jpg"
+        width: 1102
+        height: 927
+        isCached: true
+  - title: "Intel’s new chip Gaudi3 competes with Nvidia and AMD"
+    excerpt: "Intel launched a range of new products, including Gaudi3, a chip for generative AI software, Core Ultra, a chip for Windows laptops and PCs, and Xeon, a chip for servers."
+    publishedDateTime: 2023-12-15T02:52:00Z
+    webUrl: "https://interestingengineering.com/innovation/intels-new-chip-gaudi3-competes-with-nvidia-and-amd"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/12/15/image/jpeg/wYkj6XdZYwfk4JfVqMMfH13lZNZ5vQC6qujPEM9v.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Nvidia chucking money at AI"
     excerpt: "Nvidia has become one of the most prolific investors in AI start-ups this year as it tries to capitalise on its position as the dominant provider of AI processors. The chipmaker announced that it has invested in \"more than two dozen\" companies this year ..."
     publishedDateTime: 2023-12-12T00:00:00Z
@@ -181,15 +184,6 @@ related:
         width: 620
         height: 465
         isCached: true
-  - title: "China Firms Rush to Poach Nvidia Clients With AI Chip Offerings"
-    excerpt: "Chinese chip designers are rushing to chip away Nvidia’s market share at home with their own artificial intelligence (AI)-focused offerings."
-    publishedDateTime: 2023-12-11T20:04:00Z
-    webUrl: "https://cbonds.com/news/2625007/"
-    type: article
-    provider:
-      name: Cbonds
-      domain: cbonds.com
-    quality: 34
   - title: "Nvidia talks to U.S. about its new AI chips for China"
     excerpt: "\"They want to do the right thing,\" the Commerce secretary said of Nvidia. \"Obviously they want to sell as many chips as possible.\""
     publishedDateTime: 2023-12-12T14:20:00Z
@@ -199,15 +193,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 34
-  - title: "How Nvidia approaches accelerating the AI ecosystem"
-    excerpt: "\"If you’re working in AI and accelerated computing right now, NVIDIA stands ready to help,\" the company said in its blog post. \"Developers across every industry in every country are building accelerated computing applications."
-    publishedDateTime: 2023-12-11T22:31:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2023/12/11/nvidia-startup-ecosystem-investment.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "46vi5O9N57JtaC3/4MdQx7VgKzodvOKHkqxqvh7jC7U+E4odQ3+GuikeBnA1mvZmZFFGiIvmWu/Eki6EC7zueay+DwdgPeMkPRVnwkKR5ReZEHeR9xC6vywveJqXaUBHDjaC07RuB+LG8a89EwtfDX/oJnIKrha941okrMZ8EsrXMJMJ00+91T8qRlmFAfmuVBemDmcKXhOB/2zzYi7pDwdxi7TbMlaFrqf1lRje1yH4p5imeiuxT1+gy8BNGIXYUTpFoj+dKrlv3yggmrncW7W4OUG4n9/1dRDDo3NGQdv/XhphZv9fftapy1ENTGNtO2gcnqdAt5IBUgISiFRMNmAbMuYDLhKucloJbo87IQC4SVL8nnyPPooRG8ZEFcc/O9/h5O0sKkiZF109G5zMRwDMoiVfDauHoesTRHskvCPX/SlQ5bN4xX0yvRBDqh7AFkuW93rgkiat7nbynqWaXLbviqJaOtRzINM6of2F0H8OFBe7J7mG9FiVQrnozGxrkO/6DIRXDgmcO3GbMKiSdw==;f6OSpQF6EEdinCUDIeg4Xg=="
 ---

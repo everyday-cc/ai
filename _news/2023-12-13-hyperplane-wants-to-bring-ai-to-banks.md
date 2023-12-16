@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/12/13/hyperplane-wants-to-bring-ai-to-ba
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/13/hyperplane-wants-to-bring-ai-to-banks/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "5 Things to Consider When Bringing Speech AI Into Your Business"
-    excerpt: "Imagine a world where mundane tasks, consuming 60-70% of our work hours, vanish into thin air. According to a McKinsey report, thanks to its evolving grasp of natural language, Generative AI has the potential to make this dream a reality quite soon."
-    publishedDateTime: 2023-12-11T19:03:00Z
-    webUrl: "https://www.unite.ai/5-things-to-consider-when-bringing-speech-ai-into-your-business/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 19
   - title: "Uncovering bias in artificial intelligence"
     excerpt: "Throughout his Ph.D. program, Li has worked alongside his advisor, assistant professor Hongfu Liu, to examine bias within artificial intelligence datasets. They determined that when developing these artificial intelligence systems, cleaning datasets and looking for these biases in advance of processing information can reduce these incidents."
     publishedDateTime: 2023-12-15T14:52:00Z

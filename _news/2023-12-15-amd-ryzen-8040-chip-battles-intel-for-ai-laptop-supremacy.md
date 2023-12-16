@@ -7,8 +7,8 @@ originalUrl: "https://www.gadgetguy.com.au/amd-ryzen-8040-processor-announcement
 webUrl: "https://www.gadgetguy.com.au/amd-ryzen-8040-processor-announcement/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: GadgetGuy.com.au
@@ -38,6 +38,20 @@ related:
       - url: "https://liliputing.com/wp-content/uploads/2023/12/4x4-8040_04.jpg"
         width: 916
         height: 646
+        isCached: true
+  - title: "Intel Core Ultra improves battery & AI for Windows and ChromeOS – here are the first laptops"
+    excerpt: "The new build, Intel claims, will see the Core Ultra 7 outpowering the comparable AMD chip, as well as Apple M3 and Qualcomm’s Snapdragon 8cx Gen 3. Intel is also pushing AI pretty hard, with a dedicated NPU on every chip that exists for AI tasks ..."
+    publishedDateTime: 2023-12-14T18:16:00Z
+    webUrl: "https://9to5google.com/2023/12/14/intel-14th-gen-core-ultra-processors-laptops/"
+    type: article
+    provider:
+      name: 9to5google
+      domain: 9to5google.com
+    quality: 28
+    images:
+      - url: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/12/intel-core-ultra-chip-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "Cr8Odam96BKHftrPv3GqODcjB5twjLJCf7ocpYWtceMG/reAQN3fBUw3Wseo4KsudrwJvkG4ZfW0pCwmPWUlCHi4mdjjxLWHxaeb5GgTZAbOgdvx1SGH/chJvT5wM3YIoQ3exieibqWyIyShvCRY3Skga+e8gFiELs0aZDOIwKws4gCKCGlISp69RfnMNS3NwU+6e10RzxsmVnKbNycBWqGFU+7o+bfa2bFz+TJsIZAqHUp7xjDLbyrTfPRd+/5io0p6sT1FCc+0sJs86WSzQONgQ0zHzELfgHeWbjPnyDFU1f/66c3x+Dm7DJiBI8V/T5vzqAId+8stLt4G6OKUsycT2gwyKPjFM25qTOPtmRQ=;SFgFTusD6882QiVk+gCUsg=="

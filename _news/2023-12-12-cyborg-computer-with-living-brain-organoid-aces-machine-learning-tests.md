@@ -7,7 +7,7 @@ originalUrl: "https://newatlas.com/computers/hybrid-brain-organoid-computing/"
 webUrl: "https://newatlas.com/computers/hybrid-brain-organoid-computing/"
 type: article
 quality: 84
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "Brainoware: Organoid Neural Networks Inspire Brain-AI Hardware"
-    excerpt: "Self-organizing brain organoids connected to microelectrode arrays (MEAs) can be changed in function to create neural networks."
-    publishedDateTime: 2023-12-11T19:19:00Z
-    webUrl: "https://www.genengnews.com/topics/artificial-intelligence/brainoware-organoid-neural-networks-inspire-brain-ai-hardware/"
-    type: article
-    provider:
-      name: GEN
-      domain: genengnews.com
-    quality: 34
   - title: "A ‘brain organoid’ biochip displayed serious voice recognition and math skills"
     excerpt: "After connecting the organoid to a silicon chip, the new biocomputer (dubbed “Brainoware”) was quickly trained to accurately recognize speech patterns, as well as perform certain complex math predictions."
     publishedDateTime: 2023-12-12T19:35:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://mashable.com/article/lenovo-thinkpad-x1-carbon-gen-12"
 webUrl: "https://mashable.com/article/lenovo-thinkpad-x1-carbon-gen-12"
 type: article
 quality: 67
-heat: 87
+heat: 107
 published: true
 
 provider:
@@ -49,6 +49,29 @@ related:
     quality: 54
     images:
       - url: "https://helios-i.mashable.com/imagery/reviews/06E9qmQhLBC4jcHdO3Ns1gJ/hero-image.fill.size_1200x675.v1702613295.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "ThinkPad and IdeaPad Intel Core Ultra AI ready laptops for business"
+    excerpt: "Following on from the Intel AI Everywhere event this week Lenovo, has launched a range of new AI ready laptops for business and consumers, including the"
+    publishedDateTime: 2023-12-15T14:25:00Z
+    webUrl: "https://www.geeky-gadgets.com/ai-ready-laptops-for-business/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 19
+  - title: "Lenovo's refreshed ThinkPad X1 laptops supercharge business features with AI powered by new Intel Core Ultra processors"
+    excerpt: "Lenovo just announced refreshes of its two best business laptops. The Lenovo ThinkPad X1 Carbon and ThinkPad X1 2-in-1 both have new versions featuring Intel Core Ultra processors. Among other improvements over their predecessors, Intel Core Ultra processors have dedicated AI capabilities, thanks to their included NPUs."
+    publishedDateTime: 2023-12-14T15:00:00Z
+    webUrl: "https://www.windowscentral.com/hardware/laptops/lenovos-refreshed-thinkpad-x1-laptops-supercharge-business-features-with-ai-powered-by-new-intel-core-ultra-processors"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 15
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/9VU5MQCvG8gGfSe89ata34-1200-80.jpg"
         width: 1200
         height: 675
         isCached: true

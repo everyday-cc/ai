@@ -194,15 +194,6 @@ related:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
     quality: 19
-  - title: "Is Google's Gemini the real start of the artificial intelligence boom?"
-    excerpt: "Google has released Gemini, its most powerful artificial intelligence model to date, as AI seeps into many facets of life. Will Knight, a senior writer for Wired, joins CBS News with a look at the revolutionary technology."
-    publishedDateTime: 2023-12-11T20:21:00Z
-    webUrl: "https://www.cbsnews.com/video/is-googles-gemini-the-real-start-of-the-artificial-intelligence-boom/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 17
 
 secured: "sfzAbycIDuQJQLZLXTpduVuj0o2kWOjihuUgCgQckcQMsA1JDa7nlHwZAnU5TLAWnluXMhh3YkUFRwQOCec7qJHL3yLaUmlW8e7AjPPE2CAc1ZxuNLdtMACMNIjRKUpa77zgqeRJa8+JFACHIEh32lguyasDIBBFD3f9KVxWkYadbCixECQUZngSx4M2z0jYuFKfaIZ9kkqffFw8XXfRK3PZtIeqCaHYowWLMJm90ys/jVk6J6Hez5Pf5cv8W6rGaLdFWgRmeVyt5Zjo4EK4+DnSLIUG9+Mv3Ozbm/+5FvjidjCFqQ0Q9gZ/0BTdGH5C3OrA/r7Kc9dF5q90k3vW+e19DQrOOfUn2czUm+lU+3B+uVY6ks5ZpKzPF/XOxyiqRZ+vZnH6g9oNNA5fH5ongGdcoknxU0zhGj5g8qVGAuO479tG6NUUBi5TCyJWEMjnay8CPxo/vNK2mZBeJekf5PqEfOLdPNRFQv8vldV2GQ8gxR7Vc4OPcXuqnQ8AlRlt/vwqFKCs0kPr55l/ZAfR5Q==;uX+TBJJFB55EEIEfE5Zmjw=="
 ---

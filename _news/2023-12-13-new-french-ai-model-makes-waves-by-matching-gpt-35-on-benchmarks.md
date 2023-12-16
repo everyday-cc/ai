@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/information-technology/2023/12/new-french-
 webUrl: "https://arstechnica.com/information-technology/2023/12/new-french-ai-model-makes-waves-by-matching-gpt-3-5-on-benchmarks/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -22,45 +22,20 @@ topics:
   - AI
 
 related:
-  - title: "Mistral shocks AI community as latest open source model eclipses GPT-3.5 performance"
-    excerpt: "Mistral, the most well-seeded startup in European history and a French company dedicated to pursuing open source AI models and large language models (LLMs), has struck gold with its latest release — at least among the early adopter/AI influencer crowd on X and LinkedIn."
-    publishedDateTime: 2023-12-11T21:44:00Z
-    webUrl: "https://venturebeat.com/ai/mistral-shocks-ai-community-as-latest-open-source-model-eclipses-gpt-3-5-performance/"
+  - title: "Mistral AI Mixtral 8x7B mixture of experts AI model impressive benchmarks revealed"
+    excerpt: "Mistral AI has recently unveiled an innovative mixture of experts model that is making waves in the field of artificial intelligence. This new model,"
+    publishedDateTime: 2023-12-13T12:03:00Z
+    webUrl: "https://www.geeky-gadgets.com/mistral-ai-mixture-of-experts-model-moe/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 60
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 33
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/12/cfr0z3n_crowds_of_tourists_react_in_shock_and_amazement_as_the__cd64e435-492c-4397-94c0-1d5119160375.png?w=1200&strip=all"
-        width: 1200
-        height: 672
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/Mistral-AI-mixture-of-experts-model-MoE.jpg"
+        width: 1280
+        height: 718
         isCached: true
-  - title: "Why Artificial Intelligence Requires High-Performance Computing"
-    excerpt: "Traditional data center technology isn’t powerful enough for ambitious AI projects, so businesses are adding clusters of graphic processing units."
-    publishedDateTime: 2023-12-11T21:26:00Z
-    webUrl: "https://biztechmagazine.com/article/2023/12/why-artificial-intelligence-requires-high-performance-computing"
-    ampWebUrl: "https://biztechmagazine.com/article/2023/12/why-artificial-intelligence-requires-high-performance-computing?amp"
-    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2023/12/why-artificial-intelligence-requires-high-performance-computing?amp"
-    type: article
-    provider:
-      name: BizTech
-      domain: biztechmagazine.com
-    quality: 57
-    images:
-      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202312/GettyImages-1407937651_0.jpg?itok=zX9KqBxL"
-        width: 1440
-        height: 500
-        isCached: true
-  - title: "Dell Upgrades Storage Offerings As Businesses Shift To AI-First Operating Model"
-    excerpt: "As more businesses see the competitive need to shift data into AI-led processes, Dell’s AI-Ready Data Platform combines its infrastructure and performance upgrades to speed up how quickly customers can train large language models."
-    publishedDateTime: 2023-12-11T21:05:00Z
-    webUrl: "https://www.crn.com/news/software/dell-ai-storage"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 15
 
 secured: "+FZYF07tSj/JdedQiglxF1vKbrVamyBbqCickMckcLCrr0yYKTxD4vALMvzIvi7giUJAKXz6YKneIoz+QgrCtF4icm+6KR74zCuc+3Y+PMjm5B3I4QDDVP29mf+Rgm3ykG/pHxwO31+pbVaP+MKT1gEudqtAsAeWtjnS15OSscl4yejzBlrgabtl3BA6OK7yvdJzwG98eN1kgJre5zxL1/InlkLFH+Ju84flFRNpKYOkm/puOq0K/WXW63lHWlMx1dLxPKPNH7XYi9Op9//5rtsnunGp9sM1ZzmcacjIVsoZYbQOEzs3RXWD3fFruCDcRxcuiViLQas9jjXuFQA5GnvkenysJqqTKa2hAhHqLmSAjF7/TU1mddNwyW+xlbACQ7yqJDtdUIcx9QbDtk3jvjdNLYtVmiPoKR/1IYhtEs4b0fXI1qNx+0vQyGbt5QwltYho6HXIPIhrHtPtwEgujw6lvMcIgxO4nUxkgPfItQX+2SUgnEktj+eEULF91FIo+EvqsSsFA9v2Ur8Jjg58Mw==;PRc39CuaTbXIJMnJHBQs9g=="
 ---

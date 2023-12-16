@@ -147,34 +147,6 @@ related:
         width: 996
         height: 512
         isCached: true
-  - title: "Intel Drops New Core Ultra Processors and Gaudi3 AI Chip to Take on Nvidia and AMD"
-    excerpt: "Intel launches Core Ultra processors and Gaudi3 AI chip to compete with Nvidia and AMD. Core Ultra line features chiplet design, neural processing unit, and specialized AI components for enhanced performance."
-    publishedDateTime: 2023-12-16T10:47:00Z
-    webUrl: "https://www.technobezz.com/news/intel-drops-new-core-ultra-processors-and-gaudi3-ai-chip-to-take-on-nvidia-and-amd/"
-    type: article
-    provider:
-      name: Technobezz.com
-      domain: technobezz.com
-    quality: 48
-    images:
-      - url: "https://cdn.technobezz.com/c/intel_core_ultra_holthaus_jpg_rendition_intel_web_1648_927_d97184be91/intel_core_ultra_holthaus_jpg_rendition_intel_web_1648_927_d97184be91.jpg"
-        width: 1102
-        height: 927
-        isCached: true
-  - title: "Intel’s new chip Gaudi3 competes with Nvidia and AMD"
-    excerpt: "Intel launched a range of new products, including Gaudi3, a chip for generative AI software, Core Ultra, a chip for Windows laptops and PCs, and Xeon, a chip for servers."
-    publishedDateTime: 2023-12-15T02:52:00Z
-    webUrl: "https://interestingengineering.com/innovation/intels-new-chip-gaudi3-competes-with-nvidia-and-amd"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/12/15/image/jpeg/wYkj6XdZYwfk4JfVqMMfH13lZNZ5vQC6qujPEM9v.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "FXyc/IlvDLhxeCCdP/CxcVZBhvbAeZ8aV9bvq4SDO7TxvaaOF3o0SeZKDFFeN+CegKa03lPgq4yR7b8SurIW6g9NJ9NmlLFfCggdV8e21t21/5zOExvCw0LjaV4Lz2n34u1LtMOALusazIgDfzZCP5gmIQ2ilXvDf54PUe8XYopiBnHy+Hu+EhNC5UboxfCPRqNujfT7JHzZz/dWGfdbuKsdmXZUYqb7VncdAqf1teQfz3chMunjVDOJUaW3dJayKFmVjX7qOB+9Q7Q9tbbH99vTCFXqobM732I2ug8JSUu5iizkRJKrjJQ5rFjbEZYfUcPSuNQcnwhA/OaZ5z1TfMGDQ/m4BMi9tedfMLgIGBNVn5eklYJFxnmYrSKGUY02jnHMhA7Iwe4fqSH1qHUbjOg0uwMeNTtp00gzx1MH1J5U6hxep9C2bLT2znHFUFL9E2BR22E9QERJJMdrTJKNvPd5jDg5ozpm9pUlJvc+FsDgMNgLUnnGpRPv7FAyNbSlaxaXQt9BZm0nnV1cbyrTXA==;A5rS5syyeHLe4QJZa2Hd8w=="
 ---

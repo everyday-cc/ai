@@ -190,15 +190,6 @@ related:
         width: 770
         height: 435
         isCached: true
-  - title: "Is Google's Gemini the real start of the artificial intelligence boom?"
-    excerpt: "Google has released Gemini, its most powerful artificial intelligence model to date, as AI seeps into many facets of life. Will Knight, a senior writer for Wired, joins CBS News with a look at the revolutionary technology."
-    publishedDateTime: 2023-12-11T20:21:00Z
-    webUrl: "https://www.cbsnews.com/video/is-googles-gemini-the-real-start-of-the-artificial-intelligence-boom/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 17
 
 secured: "VzeTt9SLBiIN8V9hdH+toncg+UaO3glI72Kwd76hgSCtQtimxONHx+/8XKTKG83y2fdQUFZn/tIlbw3HBRFVSpUcnUl/0bul5Ozwyc8IoPukYPQ4hVK/60Ae+xBnEa5DkSl1ov4NPBDyQtyblKUi8h8l86TvP+DZ+e+Vj2mKrqvE6RA0wLzefZmBq1vwQIzt9ZSmB/qNEm9PQRyNOqDarRr2WWCipoW7rMHC8yomNd0c80m5zZzm/1yZtDnkDDcSM5qbpCALhUwymX+q0p4QlNkj9+XWJ9HNxjJ06UTPLNk1aEUgyzI7xG2W8zJg/USetF7sv0floshX43yXm7i8ohcb4h3HNMWkAoiCGUi29QkRX6ifW5Uj1Zn76B6SlS1mkoHSs1KUifS5fA7Vx3nUkIiQimyuObow2Se7Eke09NZXR319cd3DVqtk4hOaeB42P1uyTQRy8rKdr3Abnnp1MofdfwUNSkSvI11hodokY452/M7ePHTZe3d7yrXgC7lXvYvuoeF237iC+HwKeeLzPg==;dBQszFxjWfUPawrGODLcNQ=="
 ---

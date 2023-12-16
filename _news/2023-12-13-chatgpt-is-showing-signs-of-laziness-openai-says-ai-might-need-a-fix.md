@@ -7,7 +7,7 @@ originalUrl: "https://www.inc.com/ben-sherry/chatgpt-is-showing-signs-of-lazines
 webUrl: "https://www.inc.com/ben-sherry/chatgpt-is-showing-signs-of-laziness-openai-says-ai-might-need-a-fix.html"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 1024
     height: 576
     isCached: true
+
+related:
+  - title: "Google's Bard vs OpenAI's ChatGPT: First Looks and How To Get Early Access Through Google's Waitlist – Yahoo Finance"
+    excerpt: "Google has just entered the AI chatbot game with its new product called Bard, which aims to rival OpenAI’s ChatGPT and Microsoft Corp’s chatbot on the Bing"
+    publishedDateTime: 2023-12-16T22:19:00Z
+    webUrl: "https://www.inferse.com/842071/googles-bard-vs-openais-chatgpt-first-looks-and-how-to-get-early-access-through-googles-waitlist-yahoo-finance/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 30
 
 secured: "mPCE4W1n3IR3dX6ZcSuxntCzbEl/JO1HNjGYaTmAwrD1fFDBbSHZZ8Zh95H+eLCfh6xWMiqRWZN5FGwkM9mdfLyLrRry+r8QUfDqrBVpdVNKo5pP6WXAfGP7yypcx5w7U3dSEbN8h5qN0is9OnPixEVeiFl4FtViH5kK2DgIm+28h5UU9GqnzwddgQJ8pbjw+yUTtP9gnpkphUyL6OdLZNlBQDlQ0KZBXKQAjpVHtOvVM6E3h2Ug/d90cIEvbCBMAZ7PFFxeQFZUI5fOxPNt08XaXFF+BmvTR+vVJwFWjRq6yWbCnuaOoFJD/ie6p/IB/9PdRjsGkjZPL6t7vrrKdWxfctxZ2tsoLwQMPjyQ+vJEysXn+9T3ZOjGOCtocMbnp+vbYTd2PrJ/TMGL2uT43BxOiVJ1E1HgYyO3zH9s64iaRq5pO1V159HnWoOUixJ91h4ZLTU74FGKK0Fz6Wj2SjVfk65xN3ii4Bssxu3oT86B0mrsN8YDlVCXktWsaIXI84f+JkoDe9WLIpmLrb1+8w==;Tt0Y23p1PTL60esO07ejtQ=="
 ---

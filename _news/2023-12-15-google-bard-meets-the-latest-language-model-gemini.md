@@ -70,15 +70,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 19
-  - title: "Google's Gemini video was staged, which is kind of a relief"
-    excerpt: "Google just launched Gemini, and it also just admitted that its hands-on video was staged, which is both good and bad news."
-    publishedDateTime: 2023-12-11T19:49:00Z
-    webUrl: "https://www.androidheadlines.com/2023/12/googles-gemini-video-staged.html"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 4
 
 secured: "Mb+pReH6mC5fBIwtfT9OVVPDEqR6+5klZz9yyVx1JdLfkLPAZZoTiBdCc7ZjJ1/KVxtW2BiS9sDjZQf9NG3U+XYszrtCJtA+cNt+IF9rMEGvd1oMr70VbpMqK1GVUUmqYC46o6dOLBJXrIS/6xFeaOzNhyF/gzRiUb3ZAt3iripeo6C1bRhHagmRvl14rICXvzKPH2Ugcg/vGGdr8FDzKDEwYNAaTEvW+FYOStGGGav8/pd55F+CQAYo2G/0eySpkUiP0rKtmI/mvAMtgJ+sPPqx56AeCUIuemyGr8BLYSAYBgYYgx3bGnXh4h+HKiRrq44Eu9uXGrbyU6EdR0mI+Sfsng1k31Ma4+XoH13kvoqguHVRxnmQjyhY/MU+VaZcBBM1sm0C8L/dxJoj/PZXvjsAQPoM9DjmRdv3l7uw7Vg3n162QaaAVPy2/D5poZqoFui/56Qj6bPYD6/JWvFjnkNZ8RNqptadrd6omH3tKUb+rjd2sRnYV8VDxL560s2Wxg4kK0SeYz6FlWc/UcsEuA==;Q9c8ZljC9FgswlO/e4iKEg=="
 ---

@@ -513,7 +513,7 @@
       "originalUrl": "https://www.moneycontrol.com/news/opinion/chatgpt-googles-ai-will-have-to-start-answering-to-eu-11890281.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -868,6 +868,40 @@
         "Google AI",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-08-former-microsoft-product-leader-to-help-launch-verses-ai-developer-platform.md",
+      "title": "Former Microsoft Product Leader to Help Launch VERSES AI Developer Platform",
+      "excerpt": "VERSES AI Inc. (CBOE:VERS) (OTCQX:VRSSF) (\"VERSES'' or the \"Company”), a cognitive computing company specializing in next-generation of intelligent software systems, welcomes",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/former-microsoft-product-leader-to-help-launch-verses-ai-developer-platform/article_1b3ef768-5434-52ee-9d8b-67817d1c3bb3.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/former-microsoft-product-leader-to-help-launch-verses-ai-developer-platform/article_1b3ef768-5434-52ee-9d8b-67817d1c3bb3.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-08T13:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1429,49 +1463,6 @@
         "AI in Finance",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-ai-innovators-3-stocks-shaping-the-tech-landscape.md",
-      "title": "AI Innovators: 3 Stocks Shaping the Tech Landscape",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence has helped companies offer better products and",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-innovators-3-stocks-shaping-the-tech-landscape-1032875196",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-innovators-3-stocks-shaping-the-tech-landscape-1032875196",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T15:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

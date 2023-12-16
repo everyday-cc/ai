@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/google-gemini-pro-imagen-duet-ai-u
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-gemini-pro-imagen-duet-ai-update/amp/"
 type: article
 quality: 109
-heat: 239
+heat: 229
 published: true
 
 provider:
@@ -195,15 +195,6 @@ related:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
     quality: 19
-  - title: "Is Google's Gemini the real start of the artificial intelligence boom?"
-    excerpt: "Google has released Gemini, its most powerful artificial intelligence model to date, as AI seeps into many facets of life. Will Knight, a senior writer for Wired, joins CBS News with a look at the revolutionary technology."
-    publishedDateTime: 2023-12-11T20:21:00Z
-    webUrl: "https://www.cbsnews.com/video/is-googles-gemini-the-real-start-of-the-artificial-intelligence-boom/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 17
 
 secured: "TyMa+lq59g2iJWKVQMZKmmaYLjvS1rnYMSU61MMULTpmgt0xIoI6GWwlEdZ0AFYyThTLmo9ZH2ut9RkosVTs01dics3QeurnaTC2nAjxVHie5yhm1yTsyGwx8AgXLMhV4FTUPzuqGldo1fw/v5AmUGj8+7b96Qmi/DlaT4EsZq5FrIkKXUqrS7YK/Y2Ujid9AYb75j8zoowQ1xFx4OqqciPzmdwRNtivxnoiqRRgYNjWalO9EZrU2Y/zW/RWU+AU8qQLRZ7qc6UEvWWwpg1r5t4YA6uytTllBnaPTj30fkV86l5vdAw2L/Rwk3Y9uLBZXUyCP4YcdpRPTezpVifoJ8pVmzLAaXBUag+56mCda2k=;K0PVIfLtSlcA/AeQCGPDFQ=="
 ---

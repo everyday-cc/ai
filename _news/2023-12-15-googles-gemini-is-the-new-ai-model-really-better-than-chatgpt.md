@@ -129,15 +129,6 @@ related:
         width: 830
         height: 468
         isCached: true
-  - title: "Elon Musk’s new AI Grok accused of stealing answers from ChatGPT"
-    excerpt: "Grok, the recently released chatbot from billionaire Elon Musk's startup xAI, has been accused of ripping off ChatGPT's codebase."
-    publishedDateTime: 2023-12-11T20:26:00Z
-    webUrl: "https://www.dailydot.com/debug/elon-musk-xai-grok-ripping-off-openai-chatgpt/"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 34
   - title: "Taylor: A year after ChatGPT's viral launch, I'm freaking out about artificial intelligence."
     excerpt: "We’ve all been sleepwalking our way toward this … revolution? Utopia? Or is it apocalypse? Our columnist assesses the realities of AI."
     publishedDateTime: 2023-12-13T09:00:00Z

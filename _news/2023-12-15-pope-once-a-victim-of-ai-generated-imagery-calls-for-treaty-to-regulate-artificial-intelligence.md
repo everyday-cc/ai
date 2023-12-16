@@ -33,22 +33,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
-  - title: "Relevance AI’s low-code platform enables businesses to build AI teams"
-    excerpt: "However, only businesses with large engineering teams can build their own AI workforces. An Australia-based startup, Relevance AI, wants to help companies of all sizes build custom AI agents for any use case or function to maximize productivity with its ..."
-    publishedDateTime: 2023-12-11T22:31:00Z
-    webUrl: "https://techcrunch.com/2023/12/11/relevance-ais-low-code-platform-enables-businesses-to-build-ai-teams/"
-    ampWebUrl: "https://techcrunch.com/2023/12/11/relevance-ais-low-code-platform-enables-businesses-to-build-ai-teams/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/11/relevance-ais-low-code-platform-enables-businesses-to-build-ai-teams/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1188605237.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "OpenAI thinks superhuman AI is coming — and wants to build tools to control it"
     excerpt: "Schmidt’s personal fortune stands around an estimated $24 billion, and he’s poured hundreds of millions into other, decidedly less ethics-focused AI ventures and funds — including his own. Schmidt denies this is the case, of course. “AI and other ..."
     publishedDateTime: 2023-12-14T17:00:00Z

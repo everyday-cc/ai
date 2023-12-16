@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Intel Core Ultra Meteor Lake Mobile CPUs Launch With Gaming Grade iGPU And AI Brawn"
+    excerpt: "If you're reading this website right now, we probably don't have to explain to you that Intel's new Core Ultra processors launching today were codenamed Meteor Lake, and that they represent not only Intel's first \"disaggregated\" CPUs built from disparate tiles,"
+    publishedDateTime: 2023-12-14T14:00:00Z
+    webUrl: "https://hothardware.com/news/intel-core-ultra-mtl-launch"
+    ampWebUrl: "https://amp.hothardware.com/news/intel-core-ultra-mtl-launch"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/intel-core-ultra-mtl-launch"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 68
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/63353/content/hero-intel-core-ultra.jpg"
+        width: 708
+        height: 398
+        isCached: true
   - title: "Intel Core Ultra processors debut for AI-powered PCs"
     excerpt: "Intel launched its Intel Core Ultra processors for AI-powered PCs at its AI Everywhere event today. The big chip maker said these processors spearhead a new era in computing, offering unparalleled power efficiency, superior compute and graphics performance, and an unprecedented AI PC experience to mobile platforms and edge devices."
     publishedDateTime: 2023-12-14T15:00:00Z
@@ -60,6 +76,20 @@ related:
       - url: "https://www.techrepublic.com/wp-content/uploads/2023/12/core-ultra-fig-a-dec-23.jpeg"
         width: 800
         height: 533
+        isCached: true
+  - title: "Acer Predator Triton Neo 16 with Intel Core Ultra CPUs & RTX 4070 GPU unveiled"
+    excerpt: "Acer has introduced the Predator Triton Neo 16 (PTN16-51), a gaming laptop equipped with Intel Core Ultra processors featuring dedicated AI acceleration and NVIDIA GeForce RTX 40 Series GPUs. This gaming powerhouse caters to both players and content creators,"
+    publishedDateTime: 2023-12-15T05:21:00Z
+    webUrl: "https://www.gizmochina.com/2023/12/15/acer-predator-triton-neo-16-laptop-launched/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 65
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/12/Triton_Neo_16_SP02_transparent.png"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "MSI Prestige 'Meteor Lake' Laptops, Hands On: Intel's Core Ultra Brings AI to Work"
     excerpt: "Intel's new Core Ultra laptop CPUs, packing built-in AI hardware, meet MSI's business-class Prestige machines. We checked out these early Meteor Lake laptops ahead of launch."
@@ -105,6 +135,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Intel Releases Core Ultra, Arc GPUs for Bringing AI to Every PC"
+    excerpt: "Pat Gelsinger at the AI Everywhere event announced the company’s partnership with Dell, HP, Lenovo, Supermicro, and Microsoft."
+    publishedDateTime: 2023-12-14T15:48:00Z
+    webUrl: "https://analyticsindiamag.com/intel-aims-to-make-every-pc-an-ai-pcintel-releases-core-ultra-arc-gpus-for-bringing-ai-to-every-pc/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/12/Screenshot-2023-12-14-at-8.49.55-PM-1300x721.png"
+        width: 1300
+        height: 721
+        isCached: true
   - title: "Intel Core Ultra mobile processors announced with up to 16 cores, 5.1 GHz clock speed & AI acceleration"
     excerpt: "Intel has introduced the latest Core Ultra mobile processors at the “AI Everywhere” event, signaling a transformative phase in personal computing. These processors, built on Intel’s 4 process technology,"
     publishedDateTime: 2023-12-15T06:16:00Z
@@ -130,15 +174,20 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 53
-  - title: "Intel’s New Core Ultra Processors Will Power “AI PCs,” Whatever That Means"
-    excerpt: "The new Intel Core Ultra mobile processors promise bumped up integrated GPU performance while boasting big power savings."
-    publishedDateTime: 2023-12-14T20:20:00Z
-    webUrl: "https://gizmodo.com/intel-ai-everywhere-core-ultra-cpu-1851100366"
+  - title: "Intel debuts AI-accelerated Core Ultra and 5th Gen Xeon chips to enable AI to run in any location"
+    excerpt: "Intel debuts AI-accelerated Core Ultra and 5th Gen Xeon chips to enable AI to run in any location - SiliconANGLE"
+    publishedDateTime: 2023-12-14T15:00:00Z
+    webUrl: "https://siliconangle.com/2023/12/14/intel-debuts-ai-accelerated-core-ultra-5th-gen-xeon-chips-will-enable-ai-run-location/"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 47
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 41
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/Intel-Core-Ultra-2.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "Intel’s 14th-gen “Core Ultra” mobile chips bring a graphics upgrade, AI features, and a branding refresh"
     excerpt: "Graphics features include support for up to four 4K displays, hardware-accelerated decoding and encoding of AV1, H.265, H.264, and VP9 and up to 8K, 10-bit HDR, DirectX 12 Ultimate, and Intel Xe Super Sampling for AI-based upscaling."
     publishedDateTime: 2023-12-14T14:00:00Z
@@ -152,48 +201,6 @@ related:
       - url: "https://liliputing.com/wp-content/uploads/2023/12/core-ultra_02.jpg"
         width: 992
         height: 513
-        isCached: true
-  - title: "Lenovo unveils new AI PC experiences powered by Intel Core Ultra processors"
-    excerpt: "Geek Stream ▾ - Lenovo unveils new AI PC experiences powered by Intel Core Ultra processors - - Absolute Geeks"
-    publishedDateTime: 2023-12-15T08:24:00Z
-    webUrl: "https://www.absolutegeeks.com/article/geek-stream/lenovo-unveils-new-ai-pc-experiences-powered-by-intel-core-ultra-processors/"
-    type: article
-    provider:
-      name: absolutegeeks.com
-      domain: absolutegeeks.com
-    quality: 37
-    images:
-      - url: "https://www.absolutegeeks.com/wp-content/uploads/2023/12/lenovo.jpg"
-        width: 940
-        height: 773
-        isCached: true
-  - title: "Intel Core Ultra is finally here, and it powers over 230 of the 'world's first AI PCs'"
-    excerpt: "Intel Core Ultra is finally here, ushering in the era of the mobile AI PC, with Intel claiming up to 11% better performance than the AMD Ryzen 7 7840U."
-    publishedDateTime: 2023-12-14T15:01:00Z
-    webUrl: "https://www.tweaktown.com/news/94966/intel-core-ultra-is-finally-here-and-it-powers-over-230-of-the-worlds-first-ai-pcs/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 31
-    images:
-      - url: "https://static.tweaktown.com/news/9/4/94966_01_intel-core-ultra-is-finally-here-and-it-powers-over-230-of-the-worlds-first-ai-pcs_full.jpg"
-        width: 1500
-        height: 843
-        isCached: true
-  - title: "Intel Core Ultra improves battery & AI for Windows and ChromeOS – here are the first laptops"
-    excerpt: "The new build, Intel claims, will see the Core Ultra 7 outpowering the comparable AMD chip, as well as Apple M3 and Qualcomm’s Snapdragon 8cx Gen 3. Intel is also pushing AI pretty hard, with a dedicated NPU on every chip that exists for AI tasks ..."
-    publishedDateTime: 2023-12-14T18:16:00Z
-    webUrl: "https://9to5google.com/2023/12/14/intel-14th-gen-core-ultra-processors-laptops/"
-    type: article
-    provider:
-      name: 9to5google
-      domain: 9to5google.com
-    quality: 28
-    images:
-      - url: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/12/intel-core-ultra-chip-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
         isCached: true
   - title: "GIGABYTE Introduces New AORUS 17 and AORUS 15 AI-Powered Gaming Laptops with Intel Core Ultra 7 Processors"
     excerpt: "GIGABYTE, the world's leading computer brand, proudly introduces the latest evolution in gaming laptops for 2024 - theAORUS 17 and AORUS 15 - delivering cutting-edge performance in their signature sleek and portable package."
@@ -209,22 +216,6 @@ related:
         width: 599
         height: 337
         isCached: true
-  - title: "Supermicro Offers Rack Scale Solutions with New 5th Gen Intel Xeon Processors Optimized for AI, Cloud Service Providers, Storage, and Edge Computing"
-    excerpt: "Supermicro, Inc. (NASDAQ: SMCI), a Total IT Solution Manufacturer for AI, Cloud, Storage, and 5G/Edge, announces rack scale air and liquid cooled solutions based on the X13 family of workload-optimized servers now support the new 5th Gen Intel Xeon processors (formerly codenamed Emerald Rapids)."
-    publishedDateTime: 2023-12-15T06:22:00Z
-    webUrl: "https://www.hindustantimes.com/business/supermicro-offers-rack-scale-solutions-with-new-5th-gen-intel-xeon-processors-optimized-for-ai-cloud-service-providers-storage-and-edge-computing-101702621345253.html"
-    ampWebUrl: "https://www.hindustantimes.com/business/supermicro-offers-rack-scale-solutions-with-new-5th-gen-intel-xeon-processors-optimized-for-ai-cloud-service-providers-storage-and-edge-computing-101702621345253-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/business/supermicro-offers-rack-scale-solutions-with-new-5th-gen-intel-xeon-processors-optimized-for-ai-cloud-service-providers-storage-and-edge-computing-101702621345253-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 20
-    images:
-      - url: "https://www.hindustantimes.com/ht-img/img/2023/12/15/1600x900/supermicro_inc_1702621799384_1702621828696.png"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Acer Swift Go 14 AI ready OLED laptops powered Intel Core Ultra CPUs"
     excerpt: "The laptop market is set to become even more competitive with Acer's introduction of the AI-ready Swift Go 14 laptop, powered by Intel Core Ultra"
     publishedDateTime: 2023-12-15T12:45:00Z
@@ -238,15 +229,6 @@ related:
     excerpt: "GIGABYTE's latest offerings for 2024 - the AORUS 17 and AORUS 15 offer gamers a combination of powerful hardware, state-of-the-art cooling technology, and"
     publishedDateTime: 2023-12-15T13:19:00Z
     webUrl: "https://www.geeky-gadgets.com/aorus-17-15-intel-core-ultra-7-ai-ready-gaming-laptops/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 19
-  - title: "ThinkPad and IdeaPad Intel Core Ultra AI ready laptops for business"
-    excerpt: "Following on from the Intel AI Everywhere event this week Lenovo, has launched a range of new AI ready laptops for business and consumers, including the"
-    publishedDateTime: 2023-12-15T14:25:00Z
-    webUrl: "https://www.geeky-gadgets.com/ai-ready-laptops-for-business/"
     type: article
     provider:
       name: Geeky Gadgets
@@ -284,20 +266,6 @@ related:
       name: The Valdosta Daily Times
       domain: valdostadailytimes.com
     quality: 16
-  - title: "Lenovo's refreshed ThinkPad X1 laptops supercharge business features with AI powered by new Intel Core Ultra processors"
-    excerpt: "Lenovo just announced refreshes of its two best business laptops. The Lenovo ThinkPad X1 Carbon and ThinkPad X1 2-in-1 both have new versions featuring Intel Core Ultra processors. Among other improvements over their predecessors, Intel Core Ultra processors have dedicated AI capabilities, thanks to their included NPUs."
-    publishedDateTime: 2023-12-14T15:00:00Z
-    webUrl: "https://www.windowscentral.com/hardware/laptops/lenovos-refreshed-thinkpad-x1-laptops-supercharge-business-features-with-ai-powered-by-new-intel-core-ultra-processors"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 15
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/9VU5MQCvG8gGfSe89ata34-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "CXe4qVYOWo2enxh5gTs73j1AW6y9PWBu4Qsy0kM73wjfCenwZzoxBIl/kanJUJFhKVJzP+BUAC10XFriV67hnvJkT86htq1pEYrLFHF8NzdVNjIDMaXV8qG/c1fPQnvXfeyKAeZFpCyvu3g8uIYFvWzClpXoeiwOAz+Xjyh+mspBllaxIDXBVVpZmIo2SRL2mNW9oIgYYXRW9R1U4NO5u6e+tgkGSNICTsL2PU/hdgcACstrY7vBIsdh9FtFWnyGmCMUws8jys9S8+NzVyG9gQcROQG9/2E6+/QivYIj9FVaW3OOuvDBIRqssx9BtZW5AX0o1/wtJgHB2h0lR4O+mqT1XYneFdnMkdFx5svYMOA=;2AgJIIFB77uDr8cZjhnqYw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.autoblog.com/amp/2023/12/12/virginia-sheriff-says-tesla-
 cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2023/12/12/virginia-sheriff-says-tesla-autopilot-was-running-before-driving-under-tractor-trailer/"
 type: article
 quality: 66
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla says DMV disregarded ‘Full Self-Driving’ lie for so long, it should be allowed to keep going"
-    excerpt: "In its fight with the DMV regarding misleading using of the term “self-driving”, Tesla says that the agency has disregarded"
-    publishedDateTime: 2023-12-11T20:18:00Z
-    webUrl: "https://electrek.co/2023/12/11/tesla-dmv-full-self-driving-lie-so-long-allowed-keep-going/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 55
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "A Tesla Climbed on a Power Box at a McDonald's Drive-Thru, the Driver Says It Kept Driving"
     excerpt: "Blame it on Autopilot. Blame it on a cyber attack. Blame it on a less skillful driver. Blame it on texting and driving. Whatever it was, it left an"
     publishedDateTime: 2023-12-13T07:04:00Z

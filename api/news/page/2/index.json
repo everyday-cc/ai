@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-12-15-spotify-is-taking-ais-help-to-make-you-a-better-playlist.md",
+      "title": "Spotify is taking AI's help to make you a better playlist",
+      "excerpt": "Spotify has confirmed that it is testing an AI Playlist feature that lets users generate a playlist with a text prompt. Read on for more!",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/spotify-ai-playlist-test-3394903/",
+      "originalUrl": "https://www.androidauthority.com/spotify-ai-playlist-test-3394903/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2021/12/Spotify-stock-photo-3.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-15T10:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-15-build-or-buy-cloud-based-generative-ai.md",
       "title": "Build or buy cloud-based generative AI?",
       "excerpt": "The mantra for computing is to use other people’s technology, so it's surprising that generative AI doesn’t seem to follow that pattern for many enterprises.",
@@ -293,6 +344,49 @@
       ]
     },
     {
+      "path": "_news/2023-12-15-amd-ryzen-8040-chip-battles-intel-for-ai-laptop-supremacy.md",
+      "title": "AMD Ryzen 8040 chip battles Intel for AI laptop supremacy",
+      "excerpt": "Between the AMD Ryzen 8040, Intel Core Ultra, and Apple M3 chips, there's a lot of competition among laptops built for machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gadgetguy.com.au/amd-ryzen-8040-processor-announcement/",
+      "originalUrl": "https://www.gadgetguy.com.au/amd-ryzen-8040-processor-announcement/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gadgetguy-assets.s3.ap-southeast-2.amazonaws.com/wordpress/wp-content/uploads/2023/12/15142546/AMD-Ryzen-8040-AI-laptop-processor.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-15T03:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GadgetGuy.com.au",
+        "domain": "gadgetguy.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-15-artificial-intelligence-pegged-as-financial-risk-by-us-regulators.md",
       "title": "Artificial Intelligence Pegged As Financial Risk By US Regulators",
       "excerpt": "US regulators, led by Treasury Secretary Janet Yellen, have identified artificial intelligence as a potential threat to the country's financial stability, emphasizing the need for increased oversight and vigilance to address risks associated with AI.",
@@ -343,7 +437,7 @@
       "originalUrl": "https://www.zdnet.com/article/h-r-block-introduces-ai-chatbot-that-will-answer-your-complex-tax-questions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -1130,101 +1224,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-michael-cohen-lawyers-citing-of-fictional-case-raises-chatgpt-suspicions.md",
-      "title": "Michael Cohen Lawyer's Citing of Fictional Case Raises ChatGPT Suspicions",
-      "excerpt": "David M. Schwartz, who is representing Donald Trump's former fixer, is accused of using AI for research in legal filings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/michael-cohen-lawyer-chatgpt-court-cases-ai-1852530",
-      "originalUrl": "https://www.newsweek.com/michael-cohen-lawyer-chatgpt-court-cases-ai-1852530",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2323587/michael-cohen-new-york.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-14T15:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-iit-delhi-launches-new-certification-for-quantum-computing-machine-learning.md",
-      "title": "IIT Delhi Launches New Certification for Quantum Computing & Machine Learning",
-      "excerpt": "IIT Delhi to propel professionals into the Quantum Future with Certification in Quantum Computing & Machine Learning. The five-month online programme includes modules on Quantum Mechanics, Quantum Algorithms,",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesnownews.com/education/iit-delhi-launches-new-certification-for-quantum-computing-machine-learning-article-105998969",
-      "originalUrl": "https://www.timesnownews.com/education/iit-delhi-launches-new-certification-for-quantum-computing-machine-learning-article-105998969",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tnn.in/thumb/msid-105998962,thumbsize-1478046,width-1280,height-720,resizemode-75/105998962.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.timesnownews.com/education/iit-delhi-launches-new-certification-for-quantum-computing-machine-learning-article-105998969/amp",
-      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/education/iit-delhi-launches-new-certification-for-quantum-computing-machine-learning-article-105998969/amp",
-      "publishedDateTime": "2023-12-14T15:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "timesnownews",
-        "domain": "timesnownews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

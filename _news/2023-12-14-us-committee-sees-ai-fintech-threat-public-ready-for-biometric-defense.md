@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202312/us-committee-sees-ai-fintec
 webUrl: "https://www.biometricupdate.com/202312/us-committee-sees-ai-fintech-threat-public-ready-for-biometric-defense"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "EU agrees tough limits on police use of AI biometric surveillance"
-    excerpt: "Measure bans use of real-time data without judicial authorisation in nearly all circumstances and covers both public and private spaces"
-    publishedDateTime: 2023-12-11T19:10:00Z
-    webUrl: "https://www.theguardian.com/world/2023/dec/11/eu-agrees-tough-rules-on-police-use-of-ai-biometric-surveillance-ban?ref=biztoc.com"
-    ampWebUrl: "https://amp.theguardian.com/world/2023/dec/11/eu-agrees-tough-rules-on-police-use-of-ai-biometric-surveillance-ban"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2023/dec/11/eu-agrees-tough-rules-on-police-use-of-ai-biometric-surveillance-ban"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/af3da4e232da8e922c2ac6de3cccd9c5d5ce8962/0_0_4519_2712/master/4519.jpg?width=620&quality=85&auto=format&fit=max&s=a911fea44ceaa9de9b3080b47adee878"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Face biometrics code could be seeing through better eyes"
     excerpt: "Computer vision vendors and researchers are rapidly developing significantly upgraded camera systems on the front end of AI."
     publishedDateTime: 2023-12-15T22:12:00Z
@@ -54,6 +38,29 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/12/15171048/computer-vision-ai-scaled.jpg"
         width: 2048
         height: 1152
+        isCached: true
+  - title: "Bank audit executives seek stricter regulation for fintech, BDCs"
+    excerpt: "ACAEBIN also called for stricter regulations of the fintech space as well as the operations of the Bureaux de Change."
+    publishedDateTime: 2023-12-13T19:08:00Z
+    webUrl: "https://punchng.com/bank-audit-executives-seek-stricter-regulation-for-fintech-bdcs/"
+    type: article
+    provider:
+      name: The Punch Newspapers
+      domain: punchng.com
+    quality: 19
+  - title: "Providing Critical Services to the UK Financial Sector: Important Draft Rules for Fintechs"
+    excerpt: "in financial services — as we have discussed most recently in our alert “AI and Machine Learning in UK financial services: the public response to the FCA and PRA” — this regime is likely to become closely associated with any future AI regulation in ..."
+    publishedDateTime: 2023-12-13T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/providing-critical-services-to-the-uk-7117293/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 14
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15363_1913.jpg"
+        width: 1200
+        height: 900
         isCached: true
 
 secured: "fdsq+HgNaiql18DWMc66FNLeZ2+xewkdvaMDIE6AF79AyDj2MIgfQf63luqqqrsVYMDKl71aF3XqfTmHK4vbv796GOCWf+UVuzQjTIpd5xFKBVbW30Zegl+Yx6fW1gOPr1NfWPhQl41mtABbtRF6EuWlMku2scS6PxTEyF3dE80xZzkKQnTHqEzE6zKCFO3ifdaSj11V+/J0oSKY170ZjcnQsL0EF03VAAHn0clmt8R+wto+39YvubM0+P5Fbt49X8z6krMOHYswXs8CGMdVfKa5V8EzrGam3rxNqub0ChqfWtT2NodojAzfPBu+HrV4w2ecScsRMdIXgK173ZanM1okOCPnE4gdHEsX2BorZAYpqZkanaUePsUgmS7bK5+lUFfOhHWGNmiS3WwZJZQFWBXsmw/N/TeTn31ZhuguktHew37P5RoRrYel4xK1EmDbXI6g6RPsbmd2a4clIlopz6E1XP8Xq8SURVkbjVmxXEhohQ6ApOeqkv9VXJDtNDTw+QQcWVmLXOz18kyVnI4m3A==;VEf5i4zkG5VV7H+QXoY7hg=="

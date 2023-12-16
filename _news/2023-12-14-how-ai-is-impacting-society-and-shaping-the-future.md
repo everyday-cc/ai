@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/kalinabryant/2023/12/13/how-ai-is-impac
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kalinabryant/2023/12/13/how-ai-is-impacting-society-and-shaping-the-future/amp/"
 type: article
 quality: 91
-heat: 251
+heat: 241
 published: true
 
 provider:
@@ -207,20 +207,6 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2023/12/Artificial-Intelligence-3.jpg"
         width: 1000
         height: 500
-        isCached: true
-  - title: "The Rise of Artificial Intelligence: Transforming Industries and Reshaping Our Future"
-    excerpt: "In the annals of technological evolution, few advancements have sparked as much excitement, speculation, and transformative potential as Artificial Intelligence (AI). The rise of AI has become a defining narrative in the contemporary tech landscape,"
-    publishedDateTime: 2023-12-11T22:12:00Z
-    webUrl: "https://techbullion.com/the-rise-of-artificial-intelligence-transforming-industries-and-reshaping-our-future/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 34
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/Artificial-Intelligence-1-1000x600.jpg"
-        width: 1000
-        height: 600
         isCached: true
   - title: "How Artificial Intelligence Is Transforming HR Practices"
     excerpt: "Artificial intelligence (AI) has taken various industries by storm, with human resource management (HRM) being no exception. With a variety of AI tools, businesses in several industries are reaping the rewards of innovative technology to optimize their HR operations."

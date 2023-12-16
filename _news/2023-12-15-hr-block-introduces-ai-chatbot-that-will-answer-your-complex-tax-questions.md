@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/h-r-block-introduces-ai-cha
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/h-r-block-introduces-ai-chatbot-that-will-answer-your-complex-tax-questions/"
 type: article
 quality: 85
-heat: 145
+heat: 155
 published: true
 
 provider:
@@ -92,6 +92,15 @@ related:
       name: inc42
       domain: inc42.com
     quality: 37
+  - title: "Google’s Bard vs OpenAI’s ChatGPT: Which of the rival AI chatbots is better? – Euronews"
+    excerpt: "Google’s answer to ChatGPT is here - but is it as good as OpenAI’s global phenomenon? Euronews Next put them through their paces. Google has made its"
+    publishedDateTime: 2023-12-16T18:44:00Z
+    webUrl: "https://www.inferse.com/841934/googles-bard-vs-openais-chatgpt-which-of-the-rival-ai-chatbots-is-better-euronews-2/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 28
   - title: "How to Answer Complex Questions with Google Bard"
     excerpt: "This guild is designed to show you how you can answer complex questions with the help of Google Bard and other AI assistants. Google Bard, a large language model (LLM) developed by Google AI, has quickly gained popularity for its ability to provide ..."
     publishedDateTime: 2023-12-13T10:00:00Z

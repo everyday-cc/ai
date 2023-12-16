@@ -39,20 +39,6 @@ related:
         width: 512
         height: 342
         isCached: true
-  - title: "Providing Critical Services to the UK Financial Sector: Important Draft Rules for Fintechs"
-    excerpt: "in financial services — as we have discussed most recently in our alert “AI and Machine Learning in UK financial services: the public response to the FCA and PRA” — this regime is likely to become closely associated with any future AI regulation in ..."
-    publishedDateTime: 2023-12-13T00:00:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/providing-critical-services-to-the-uk-7117293/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 14
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15363_1913.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Understanding the Recent Fluctuations of UP Fintech Holding Ltd ADR’s (TIGR) Stock"
     excerpt: "TIGR stock has gone up by 3.78%, with a monthly decline of -9.48% and a quarterly plunge of -16.86%. The volatility ratio for the week is 4.47%, and the volatility levels for the last 30 days are 5.52% for UP Fintech Holding Ltd ADR The simple moving average for the last"
     publishedDateTime: 2023-12-14T19:29:00Z

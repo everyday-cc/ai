@@ -7,7 +7,7 @@ originalUrl: "https://www.newsweek.com/elon-musk-slammed-own-ai-bot-1851531"
 webUrl: "https://www.newsweek.com/elon-musk-slammed-own-ai-bot-1851531"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Elon Musk’s AI bot, Grok, speaks as if made by OpenAI in some tests, causing a stir"
-    excerpt: "Grok, the AI language model created by Elon Musk's xAI, went into wide release last week, and people have begun spotting glitches. On Friday, security tester Jax Winterbourne tweeted a screenshot of Grok denying a query with the statement,"
-    publishedDateTime: 2023-12-11T20:13:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/12/elon-musks-ai-bot-grok-speaks-as-if-made-by-openai-in-some-tests-causing-a-stir/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 41
   - title: "Grimes Unveils Grok, An AI Children’s Toy Unrelated To Elon Musk’s Grok"
     excerpt: "One of the most recent products that Elon Musk is pushing on the world is Grok, an “anti-woke” chatbot for users of the social network that most of us still call Twitter. Grimes, currently in a custody battle with Musk over their three children,"
     publishedDateTime: 2023-12-15T00:40:00Z

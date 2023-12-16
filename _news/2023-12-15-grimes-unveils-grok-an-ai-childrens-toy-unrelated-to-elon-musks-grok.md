@@ -54,15 +54,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Elon Musk’s AI bot, Grok, speaks as if made by OpenAI in some tests, causing a stir"
-    excerpt: "Grok, the AI language model created by Elon Musk's xAI, went into wide release last week, and people have begun spotting glitches. On Friday, security tester Jax Winterbourne tweeted a screenshot of Grok denying a query with the statement,"
-    publishedDateTime: 2023-12-11T20:13:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/12/elon-musks-ai-bot-grok-speaks-as-if-made-by-openai-in-some-tests-causing-a-stir/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 41
 
 secured: "PtpuqhNq39l7asmM3AinYp3pllHHxbmkVZg/Ayt2xAobrLfNsmsZYYo2iVAgI5qu0xrwuyHEHDGIOYRrxeSaCpbszolKH+jMZP0mk0b2uMRjN8EGto3tEJe4MCPy3AgMs+/P/9C1nQCviuVEQoB6nG77wRMK5k2qLWcO6MXoMf78qfOm84OlTQbwoomW0mwUyEb9IQ4pghnw0NDBYuFl7vuRLojIBqVYT+ISt+6AftWAKM42yxKIcZH49m/l0oQySm8fJwW8kJPYlL+onBCHGH5yGec5gAqmxrLCin6AeiC82rG44I94EKMFWjO91kp+/JoPaAp5/Cwaj4oT+qY4FpA1KLtASsfx74+P3I19LZQ=;5HwS6P78mmBEb/eN5pwDiA=="
 ---

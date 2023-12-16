@@ -52,6 +52,29 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "ThinkPad and IdeaPad Intel Core Ultra AI ready laptops for business"
+    excerpt: "Following on from the Intel AI Everywhere event this week Lenovo, has launched a range of new AI ready laptops for business and consumers, including the"
+    publishedDateTime: 2023-12-15T14:25:00Z
+    webUrl: "https://www.geeky-gadgets.com/ai-ready-laptops-for-business/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 19
+  - title: "Lenovo's refreshed ThinkPad X1 laptops supercharge business features with AI powered by new Intel Core Ultra processors"
+    excerpt: "Lenovo just announced refreshes of its two best business laptops. The Lenovo ThinkPad X1 Carbon and ThinkPad X1 2-in-1 both have new versions featuring Intel Core Ultra processors. Among other improvements over their predecessors, Intel Core Ultra processors have dedicated AI capabilities, thanks to their included NPUs."
+    publishedDateTime: 2023-12-14T15:00:00Z
+    webUrl: "https://www.windowscentral.com/hardware/laptops/lenovos-refreshed-thinkpad-x1-laptops-supercharge-business-features-with-ai-powered-by-new-intel-core-ultra-processors"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 15
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/9VU5MQCvG8gGfSe89ata34-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "E8n5fhbpXYbYGqF+nSRX+triNeqbF53Tti9AkEcdy4+KWnvX5j+wBXhHixaKYROasb4GPXBOPCw3pQ0BCclb2hNS23rIzSH7HKFQPLu7Pd2I09igH35zPnYyiQ2dJmr+w6NmZ3mSToVxT29BjR2mOZh8Dw03huWoPYKuvOIU7RT+uavxE5XWyWy+I0X4xWMLvbWd5apmsVRxcIIOOqAw6BuAuabS2xGDZMEdYCDNVrTDPHRQnzHClFmul53jh/B3vWNTtN3jLNQxatwl7qRYL1S++gbbxvfjX6EDo15iLFhFR4kHmQA6jlL3xodlPvNylVuUfxrQtU4IleZwqvNb3J8JN1CxRJR+vlBaeKXCZihnDo5GhA65yuhnhKBK9at54eOZfPN6IRrZfio/gkPGNjE5nOEiafZEp5SNrQyB7uo1VtmdrMUGCye4HuylfgdH8OdX1LcqaF7qRU8AalWw9HF3sFT9ZX5NTXI0B1BGoL1PtrD3kg7uO/hMxCQRCsTPU4XQzZkqwjNzyLmYVrDd4w==;YLpLeMJZo7i/hYkVTfz/IQ=="
 ---
