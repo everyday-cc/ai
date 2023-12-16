@@ -51,6 +51,20 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "5 Investment Tools That Dominated the FinTech Scene in 2023"
+    excerpt: "For long-term financial needs, such as retirement, upcoming vacations, or a down payment, Betterment’s investment strategy employs low-cost ETFs (exchange-traded funds) and adjusts the risk profile based on the individual's goal type and the planned investment  duration."
+    publishedDateTime: 2023-12-12T06:14:00Z
+    webUrl: "https://www.finextra.com/blogposting/25365/5-investment-tools-that-dominated-the-fintech-scene-in-2023"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://lh7-us.googleusercontent.com/fuiGfpQyPe9FyQNKlg8YUnSi9SDiqK2m0y5o298xlhV2t9Qu6tvGucPndFkWm4II9OI7GmGiEItjM9PH-0p-TOcV2jpuGHkZcyjeNPeh6qHUtzpBxOojIl_4zlIUYI4GJfLVy4LeRO25UHKe-qGDkLc"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Infibeam Avenues picks up 49% stake in Ahmedabad-based Pirimid Fintech"
     excerpt: "The partnership aims to combine Infibeam's digital payments and AI-based frameworks with Pirimid Fintech's capital market trading software for its clients nationwide and globally"
     publishedDateTime: 2023-12-14T12:01:00Z
@@ -93,6 +107,15 @@ related:
       name: techfinancials
       domain: techfinancials.co.za
     quality: 4
+  - title: "Artificial Intelligence in Fintech Market - Global Industry Analysis, Trends, Market Size, and Forecasts up to 2030"
+    excerpt: "The global artificial intelligence in fintech market was valued at USD 10.88 billion in 2022 and is expected to reach USD 40.76 billion in 2030, with a CAGR of 15.78% during the forecast period 2023-2030."
+    publishedDateTime: 2023-12-13T22:42:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/12/13/9933723.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "iUIW3hhT5tSdT6XQRGx8A79g7/Mic+Loao3su3qiqkRGWMrXpehKo7o+XSI7PqStKXGoi6bO3anSbZ0be19HKb8X7Gx14CYttId8n2bIsbqCzyuiSLZ3M5tAmLy2WdoNGv3GBPa3FK/hG3AGqfKHAWm2/fqzhi+EcfP3smTNRStHB9bTXmX2FxkS8/oUtVoqJ7AwfYNLMgYODg29WPNMY/sW54KGeomEmvxF6A5CZ6QXWui7DUSC+xsIlE6DcNJyBCI+OxHtrdlzInrDF4UGE4TANdIxZfpPVcPKjpj1nAth3NVAOm5ZzgrxsThv2KG9haYuwqIx+enc75k1mt4M0I1lytQUd72El6jyxdCtN8pcXpsaJkqI2eVp4VYtpmZIw7/Jn9Mxpdgr40nR+u7+am7uWyuEXoXXZWtl9XvTMiQXjSHwtGbEse33C4KNuW0+z2RHrMcxC6mThkpD5Fa85NLUHwZx+ehvsSvUpEnFJQ2s2YIqF+iC+arxJfaJ6A4XF92NvNwpy0UTPzNtaloD5Q==;/LROa1GS6CKXtPyf+GPxJA=="
 ---

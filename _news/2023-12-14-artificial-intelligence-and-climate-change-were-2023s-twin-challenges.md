@@ -77,20 +77,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "Top 7 Noteworthy AI Innovations in Fashion in 2023"
-    excerpt: "Now, let’s explore some of the key developments in the application of AI in the fashion industry this year."
-    publishedDateTime: 2023-12-11T06:34:00Z
-    webUrl: "https://analyticsindiamag.com/top-7-noteworthy-ai-innovations-in-fashion-in-2023/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/12/Top-7-Noteworthy-AI-Innovations-in-Fashion-in-2023.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "We won't allow untrusted AI models to scrape Indian internet: Rajeev Chandrasekhar"
     excerpt: "The Union minister says that government might amend IT rules to tackle deepfakes, if social media intermediaries do not comply with advisories. He says any effort to regulate AI has to be global or near-global."
     publishedDateTime: 2023-12-14T04:38:00Z

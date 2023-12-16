@@ -7,7 +7,7 @@ originalUrl: "https://www.crainsnewyork.com/climate/new-york-city-fintech-startu
 webUrl: "https://www.crainsnewyork.com/climate/new-york-city-fintech-startup-wants-help-you-make-climate-forward-investments"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,31 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+related:
+  - title: "FinTech Focus: Catch latest developments of the week"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-12-15T11:11:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/fintech-focus-catch-latest-developments-of-the-week-5/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/11/FinTech-Funding-wealth.jpg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Bank audit executives seek stricter regulation for fintech, BDCs"
+    excerpt: "ACAEBIN also called for stricter regulations of the fintech space as well as the operations of the Bureaux de Change."
+    publishedDateTime: 2023-12-13T19:08:00Z
+    webUrl: "https://punchng.com/bank-audit-executives-seek-stricter-regulation-for-fintech-bdcs/"
+    type: article
+    provider:
+      name: The Punch Newspapers
+      domain: punchng.com
+    quality: 19
 
 secured: "L8lLPUKEG6iNEYSjkx8gJ6rUpsyISDGwBJbVPmTd55rchU7z2UHmnf0KFkGY12nGiJca5xJ3NP8ibVxqu+gQBylGCosa1VOdg8s3oR3Wdy2khO+mqiLTxPoKdZBaaPC8KNrlo/nYcecGhlb0Xu2ZUxhKmhJpqaSoFp5r1wpbEv9kXDrjOoahI+kc3ZR3L2hFA3jQcuQVWw/qiTRo4Yz+FXfAh4AxjhItkU/JMq0uPFTNsSL/AD20RaTTYZZnsjr8k++HTPHKMrPyqzMJz15WUNVYjphx7FupnRpdyTLJFVyv+eaQ1HTzg2e9USC3w/qf0d0LKpRIBTV67jcg2+VURTOvJ4gyT7Tela2Gqzga+SKtfA/oNFwlM2QMFCHOF2uV4hJTX8yG4sjp1qV3b26LquXHjZZtyVEeYLvV6F/TTXoRywXxJImJdwolOQDiyHk3emCXCcCKlbsGyWNa6ftWr4dSgdeEWn3mdwnajqWDvUd2eAOKfqHUUazw3riznudC1Z9dj3idY56J308Rs9lFLQ==;gFDT72a7ajLU1SkMF7WBoQ=="
 ---

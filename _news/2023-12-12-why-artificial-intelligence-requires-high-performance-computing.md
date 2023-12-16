@@ -84,22 +84,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "LEARNING FROM AI: Genpact turns to GenAI to train staff"
-    excerpt: "Genpact believes that generative AI (GenAI) represents a significant leap in technology. The company wants to make AI Guru a coach for specific roles and guide people on skills they should be learning. For example, a first-time manager who needs constant coaching can talk to an AI Guru for guidance. Time for learning to reboot"
-    publishedDateTime: 2023-12-11T05:55:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-learning-from-ai-genpact-turns-to-genai-to-train-staff-3335079/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-learning-from-ai-genpact-turns-to-genai-to-train-staff-3335079/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-learning-from-ai-genpact-turns-to-genai-to-train-staff-3335079/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/12/Untitled-design-2023-12-11T112020.544.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The rise of generative AI: Navigating the impact of artificial intelligence on higher education – Illinois State University News"
     excerpt: "This story was written by a human with help from artificial intelligence.A human researched the story, interviewed sources, and typed these words. Artificial"
     publishedDateTime: 2023-12-15T04:05:00Z

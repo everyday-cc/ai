@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/h-r-block-introduces-ai-cha
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/h-r-block-introduces-ai-chatbot-that-will-answer-your-complex-tax-questions/"
 type: article
 quality: 85
-heat: 155
+heat: 165
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft’s AI Chatbot Replies to Election Questions With Conspiracies, Fake Scandals, and Lies"
+    excerpt: "Research shared exclusively with WIRED shows that Copilot, Microsoft’s AI chatbot, often responds to questions about elections with lies and conspiracy theories."
+    publishedDateTime: 2023-12-15T08:00:00Z
+    webUrl: "https://www.wired.com/story/microsoft-ai-copilot-chatbot-election-conspiracy/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 72
+    images:
+      - url: "https://media.wired.com/photos/657a59e15f293f44edb694d1/191:100/w_1280,c_limit/politics_microsoft_chatbot_election_misinformation.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "Google's Bard vs OpenAI's ChatGPT: Which of the rival AI chatbots is better? – Euronews"
     excerpt: "Google’s answer to ChatGPT is here - but is it as good as OpenAI’s global phenomenon? Euronews Next put them through their paces. Google has made its"
     publishedDateTime: 2023-12-12T02:41:00Z

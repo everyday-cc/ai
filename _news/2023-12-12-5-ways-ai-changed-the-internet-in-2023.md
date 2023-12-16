@@ -7,7 +7,7 @@ originalUrl: "https://mashable.com/article/ways-ai-changed-the-internet-2023"
 webUrl: "https://mashable.com/article/ways-ai-changed-the-internet-2023"
 type: article
 quality: 67
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -63,20 +63,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "Top 7 Noteworthy AI Innovations in Fashion in 2023"
-    excerpt: "Now, let’s explore some of the key developments in the application of AI in the fashion industry this year."
-    publishedDateTime: 2023-12-11T06:34:00Z
-    webUrl: "https://analyticsindiamag.com/top-7-noteworthy-ai-innovations-in-fashion-in-2023/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/12/Top-7-Noteworthy-AI-Innovations-in-Fashion-in-2023.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Artificial intelligence and climate change were 2023's twin challenges"
     excerpt: "The decisions we made this year about AI and climate change could determine the fate of billions of people. In 2024, almost half the world’s population could be voting with these issues in mind"
     publishedDateTime: 2023-12-13T18:00:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2023-12-16T03:40:00Z
 originalUrl: "https://www.thedailybeast.com/how-ai-chatbots-are-replacing-santa-claus-this-christmas"
 webUrl: "https://www.thedailybeast.com/how-ai-chatbots-are-replacing-santa-claus-this-christmas"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1702655170/231214-santa-AI-hero-1_miotgg"
@@ -41,6 +42,6 @@ related:
         height: 675
         isCached: true
 
-secured: "uNec+tZFni/QQ44OpO2aiwH5ZWmhBcDEzQeOOlJ0UgC0KXVE6B+9LbedWl6InMnaxVnP/Je7QAD8frHbWJ1LISQykm5ZCwbp08FXwRNVHHi3dzIe+R1p1yHnER2EPER2LE/kmAiyhtwDU205ebArsu29T1DU0Lhh7I/xTNngrrxcoLEEe4eKy9ONlCuX22Zc7BTM8kH5YZvLQGRX2vLY+aX3VhiEv8u+kN7rbqUMWYoLd9RNYGFpPK2u91extea4t6nuW57kkTBEU/PfqFza7GyekrV7gErpLRGVMSt8NuSlRBSXBNTFskekoZ0PKGoLOjpYvY7RPLRVmvDXMaeH6p8gC7IjiaHON2hEzrG9p+s=;KKXfZJ9Usut1x/FK53x2MA=="
+secured: "szA0NULyMFi5bJ8NNbSgi08cr4MC0K2BHtcd3pdf4MtrqeciMb3W5KAqqbG4GkZXoeekdz8a4lB5xdcfRvopxAkgwPqDfvtf7pko9/F1ag8hAl/2TKIQ0hBXpRv12l4zlV2r7+1K1kCk8n2UMsj2iWhkGXyCXtU7jwRyNQv7Sr4mcdd2wB5tJ7Jd8FsoY1jiBc/jBncRhFDbf6jGLJB2TACxi6XGgGnTd19AgSueBnNc85mmgJAa+Jr/Kbyh8+1AkRla2zISa6GLfpRPNPqasuvDO1/Mct9GKmDbS+dV8SluggCfLAFJMhYkl+/htzWNSVFsXdzTiR4V4/ZJhkezQkQCGT1p828skskytuMt3rW55vtbLD5MPtVcPWGhFtDXlbA6oZh+dJOTKOe+SljXBXP5KGn33uEXgwQZJjGvUDsz5TBmwSvtDFoNM8XgSqjZ6yHJfArkoVcmiVXyneYOGMuxqHxCsDucUF/iAZNtXZfZIpNU57sRrZJC7iYGqIFwfvDMS5vr48c/JE8+EE2l1w==;hX9ce5/68iFNPk4twB70Sw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/hybrid-cloud-advantages-disadvantages/"
 webUrl: "https://www.ibm.com/blog/hybrid-cloud-advantages-disadvantages/"
 type: article
 quality: 82
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -22,22 +22,6 @@ topics:
   - IBM AI
 
 related:
-  - title: "Doctors with knowledge of artificial intelligence will hold advantage: Andrew Elder"
-    excerpt: "Andrew Elder, president of the Royal College of Physicians of Edinburgh, said AI has the potential to carry out a number of medical tasks such as diagnosis and surgery more efficiently, quickly, and easily,"
-    publishedDateTime: 2023-12-11T06:21:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/doctors-with-knowledge-of-artificial-intelligence-will-hold-advantage-andrew-elder/articleshow/105894105.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/doctors-with-knowledge-of-artificial-intelligence-will-hold-advantage-andrew-elder/amp_articleshow/105894105.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/doctors-with-knowledge-of-artificial-intelligence-will-hold-advantage-andrew-elder/amp_articleshow/105894105.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 53
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-33546,msid-105894352/ai-healthcare.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Strategic Advantages Through Expansion Of Artificial Intelligence"
     excerpt: "By Nigar Hasanova, AZERNEWS  We are closer to being on the verge of a new revolution in modern society since artificial"
     publishedDateTime: 2023-12-12T05:56:00Z

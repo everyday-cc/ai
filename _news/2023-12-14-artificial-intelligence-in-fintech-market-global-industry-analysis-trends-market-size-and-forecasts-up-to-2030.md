@@ -19,63 +19,37 @@ topics:
   - AI
 
 related:
-  - title: "Unfolding the future of fintech: Top 5 tech trends in 2024 and beyond"
-    excerpt: "With differentiated, innovative, customer-centric value propositions, and collaborative business models—it’s safe to say that FinTechs have profoundly transformed the face of financial services."
-    publishedDateTime: 2023-12-11T05:36:00Z
-    webUrl: "https://www.financialexpress.com/business/industry-unfolding-the-future-of-fintech-top-5-tech-trends-in-2024-and-beyond-3335069/"
-    ampWebUrl: "https://www.financialexpress.com/business/industry-unfolding-the-future-of-fintech-top-5-tech-trends-in-2024-and-beyond-3335069/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/industry-unfolding-the-future-of-fintech-top-5-tech-trends-in-2024-and-beyond-3335069/lite/"
+  - title: "Infibeam Avenues buys 49% in Pirimid Fintech to enter market tech space, shares zoom 7%"
+    excerpt: "Infibeam Avenues Ltd, which processed transaction worth US$54 billion in FY23, expects to witness an increase in its payment processing business through this strategic investment."
+    publishedDateTime: 2023-12-15T05:04:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/markets/infibeam-avenues-buys-49-in-pirimid-fintech-to-enter-market-tech-space-shares-zoom-7-11908641.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/markets/infibeam-avenues-buys-49-in-pirimid-fintech-to-enter-market-tech-space-shares-zoom-7-11908641.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/markets/infibeam-avenues-buys-49-in-pirimid-fintech-to-enter-market-tech-space-shares-zoom-7-11908641.html/amp"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 44
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 36
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/10/slice-1.jpg"
-        width: 1200
-        height: 675
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/12/Sensex_up_higher-5.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Fintech Venture Fund Canapi Raises $750m"
-    excerpt: "Canapi Ventures, the fintech venture capital fund backed by nearly 70 financial institutions and strategic investors across the United States, today announced the raise of a $750 million Fund II"
-    publishedDateTime: 2023-12-11T10:39:00Z
-    webUrl: "https://fintechnews.ch/fintechusa/fintech-venture-fund-canapi-raises-750m/65492/"
+  - title: "Infibeam Avenues stock hits a 52-week high after fintech firm acquires 49% stake in Pirimid Fintech"
+    excerpt: "Infibeam Avenues on Thursday announced its strategic foray into capital markets and digital lending software market by acquiring a significant 49 per cent equity stake in Pirimid Fintech. The deal is worth Rs 25 crore."
+    publishedDateTime: 2023-12-15T05:26:00Z
+    webUrl: "https://www.zeebiz.com/markets/stocks/news-infibeam-avenues-stock-hits-a-52-week-high-after-fintech-firm-acquires-49-stake-in-pirimid-fintech-bse-nse-infibeam-avenues-share-price-268909"
+    ampWebUrl: "https://www.zeebiz.com/markets/stocks/news-infibeam-avenues-stock-hits-a-52-week-high-after-fintech-firm-acquires-49-stake-in-pirimid-fintech-bse-nse-infibeam-avenues-share-price-268909/amp"
+    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/markets/stocks/news-infibeam-avenues-stock-hits-a-52-week-high-after-fintech-firm-acquires-49-stake-in-pirimid-fintech-bse-nse-infibeam-avenues-share-price-268909/amp"
     type: article
     provider:
-      name: fintechnews
-      domain: fintechnews.ch
-    quality: 39
+      name: Zee Business
+      domain: zeebiz.com
+    quality: 30
     images:
-      - url: "https://fintechnews.ch/wp-content/uploads/2023/12/Fintech-Venture-Fund-Canapi-Raises-750m.jpg"
-        width: 1024
-        height: 567
-        isCached: true
-  - title: "Quantrack, a securities analysis AI funded in the fintech powerhouses of the US and the UK"
-    excerpt: "SEOUL, South Korea, Dec. 14, 2023 /PRNewswire/ -- Quantrack utilizes innovative AI technology to analyze intricate information essential for stock investment, presenting a \"single indicator\" that is easily comprehensible to anyone. The platform is acknowledged for its global scalability, with 17% of its user base hailing from overseas."
-    publishedDateTime: 2023-12-13T00:00:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/12/13/9933760.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 29
-    images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "The 10 Top Technical and Business Trends of 2024"
-    excerpt: "Another key trend in 2024 will be the next evolution of sustainable technology. This includes clean technology, green technology, and climate technology. As one of Gartner's top strategic technology trends for 2024, sustainable technology is a framework of digital solutions that drive Environmental, Social, and Governance (ESG) outcomes."
-    publishedDateTime: 2023-12-11T10:45:00Z
-    webUrl: "https://www.inc.com/anis-uzzaman/the-10-top-technical-business-trends-of-2024.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 24
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/tech-business-trends-2024_535488_abvgmy.jpg"
-        width: 1024
-        height: 576
+      - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2023/12/15/272760?itok=7r8eOnVy"
+        width: 700
+        height: 394
         isCached: true
   - title: "5 Investment Tools That Dominated the FinTech Scene in 2023"
     excerpt: "For long-term financial needs, such as retirement, upcoming vacations, or a down payment, Betterment’s investment strategy employs low-cost ETFs (exchange-traded funds) and adjusts the risk profile based on the individual's goal type and the planned investment  duration."
@@ -91,70 +65,56 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Finastra Leaders Predict 2024 Fintech Trends Amidst Global Challenges"
-    excerpt: "Finastra has shared its executive insights on the anticipated trends, challenges and opportunities for the fintech landscape in 2024."
-    publishedDateTime: 2023-12-13T04:53:00Z
-    webUrl: "https://fintechnews.sg/82080/fintech/finastra-leaders-predict-2024-fintech-trends-amidst-global-challenges/"
+  - title: "Infibeam Avenues picks up 49% stake in Ahmedabad-based Pirimid Fintech"
+    excerpt: "The partnership aims to combine Infibeam's digital payments and AI-based frameworks with Pirimid Fintech's capital market trading software for its clients nationwide and globally"
+    publishedDateTime: 2023-12-14T12:01:00Z
+    webUrl: "https://www.business-standard.com/companies/news/infibeam-avenues-picks-up-49-stake-in-ahmedabad-based-pirimid-fintech-123121400853_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/companies/news/infibeam-avenues-picks-up-49-stake-in-ahmedabad-based-pirimid-fintech-123121400853_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/companies/news/infibeam-avenues-picks-up-49-stake-in-ahmedabad-based-pirimid-fintech-123121400853_1.html"
     type: article
     provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
+      name: Business Standard
+      domain: business-standard.com
     quality: 24
-    images:
-      - url: "https://fintechnews.sg/wp-content/uploads/2023/12/Finastra-Leaders-Predict-2024-Fintech-Trends-Amidst-Global-Challenges.jpg"
-        width: 1024
-        height: 567
-        isCached: true
-  - title: "Innovating FinTech: The Importance of Custom Software Solutions"
-    excerpt: "Custom financial software development is increasingly becoming a key driver of innovation in the FinTech sector. This trend is not just about the creation of new applications and platforms, but also about the transformation of traditional financial services,"
-    publishedDateTime: 2023-12-12T17:21:00Z
-    webUrl: "https://techbullion.com/innovating-fintech-the-importance-of-custom-software-solutions/"
+  - title: "Infibeam Avenues acquires 49% stake in Pirimid Fintech, shares up"
+    excerpt: "Infibeam Avenues Ltd's shares rose 6.51% after investing Rs 25 crore in Pirimid Fintech to leverage capital markets tech & digital lending."
+    publishedDateTime: 2023-12-15T04:56:00Z
+    webUrl: "https://www.thehindubusinessline.com/markets/infibeam-avenues-acquires-49-stake-in-pirimid-fintech-shares-up/article67640745.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/markets/infibeam-avenues-acquires-49-stake-in-pirimid-fintech-shares-up/article67640745.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/markets/infibeam-avenues-acquires-49-stake-in-pirimid-fintech-shares-up/article67640745.ece/amp/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
+      name: Business Line
+      domain: thehindubusinessline.com
     quality: 24
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/unnamed-68.jpg"
-        width: 512
-        height: 342
-        isCached: true
-  - title: "Top 18 Fintech Events in Singapore to Attend in 2024"
-    excerpt: "As Singapore’s fintech industry continues to gain international recognition, several major fintech events and conferences are being held each year in the city-state, attracting thousands of participants and investors from around the world."
-    publishedDateTime: 2023-12-13T10:26:00Z
-    webUrl: "https://fintechnews.sg/82031/events/top-18-fintech-events-in-singapore-to-attend-in-2024/"
+  - title: "Infibeam Avenues Acquires 49% Stake In Pirimid Fintech To Foray Into Capital Markets Space"
+    excerpt: "Fintech company Infibeam Avenues has bought a 49% stake in Ahmedabad-based Pirimid Fintech for INR 25 Cr ($3 Mn) to strengthen its foothold in the fintech ecosystem."
+    publishedDateTime: 2023-12-14T15:49:00Z
+    webUrl: "https://inc42.com/buzz/infibeam-avenues-acquires-49-stake-in-pirimid-fintech-to-foray-into-capital-markets-space/"
+    ampWebUrl: "https://inc42.com/buzz/infibeam-avenues-acquires-49-stake-in-pirimid-fintech-to-foray-into-capital-markets-space/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/infibeam-avenues-acquires-49-stake-in-pirimid-fintech-to-foray-into-capital-markets-space/amp/"
     type: article
     provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 24
-    images:
-      - url: "https://fintechnews.sg/wp-content/uploads/2023/12/Top-18-Fintech-Events-in-Singapore-to-Attend-in-2024.jpg"
-        width: 1024
-        height: 567
-        isCached: true
-  - title: "FinTech Focus: Catch latest developments of the week"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-12-15T11:11:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/fintech-focus-catch-latest-developments-of-the-week-5/"
+      name: inc42
+      domain: inc42.com
+    quality: 14
+  - title: "Sanlam Fintech Cluster Assembles Global Talent For Executive Team"
+    excerpt: "Sanlam, the largest non-banking financial services group in Africa, has recently launched its cutting-edge fintech business cluster. Led by a globally competitive exco team, Sanlam Fintech represents a strategic move within the Sanlam Group to expand its existing fintech offerings and ensure that all aspects of the $8-billion (R143-billion) listed corporation's services are digitally-driven."
+    publishedDateTime: 2023-12-13T14:05:00Z
+    webUrl: "https://techfinancials.co.za/2023/12/13/sanlam-fintech-cluster-assembles-global-talent-for-executive-team/"
     type: article
     provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/11/FinTech-Funding-wealth.jpg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Understanding the Recent Fluctuations of UP Fintech Holding Ltd ADR’s (TIGR) Stock"
-    excerpt: "TIGR stock has gone up by 3.78%, with a monthly decline of -9.48% and a quarterly plunge of -16.86%. The volatility ratio for the week is 4.47%, and the volatility levels for the last 30 days are 5.52% for UP Fintech Holding Ltd ADR The simple moving average for the last"
-    publishedDateTime: 2023-12-14T19:29:00Z
-    webUrl: "https://newsheater.com/2023/12/14/understanding-the-recent-fluctuations-of-up-fintech-holding-ltd-adrs-tigr-stock/"
+      name: techfinancials
+      domain: techfinancials.co.za
+    quality: 4
+  - title: "Infibeam Avenues acquires 49% stake in capital markets software provider Pirimid Fintech"
+    excerpt: "With the stake acquisition, Infibeam is looking to integrate its digital payments framework with Pirimid Fintech's capital market trading software for clients in India and globally."
+    publishedDateTime: 2023-12-14T13:54:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/startups/infibeam-avenues-acquires-49-stake-in-capital-markets-software-provider-pirimid-fintech/articleshow/105997286.cms"
     type: article
     provider:
-      name: newsheater
-      domain: newsheater.com
+      name: Indiatimes
+      domain: indiatimes.com
     quality: 0
 
 secured: "/0YEmzLJeuD1dkxtAz+jyuSz6rVKp2YXm9DmQ/DfiGBHyFanysRGHnlUGoxO/Ey7mKk5g1hY+pvpLc0e09qNfr7MUHXqmOJcpQ3/U/FgeROGxZFIaT4SPrqm2thJlOif8nnxvgPF6qYtLj+aEev4nL9af1J32rfdSQ9qh4vjkWv54QwjRPlguken6tfmmj7yYtcGPQPEdh0CcH/sa55/nKcdf6YXhG8nKyIb9OKcobxw3ph03Qsw3z7Zijut9ZW37Yf4zENsd+8t0Sp2wvJmYpUgNsmYX4QrZapesd8ELIIU2zZ9sklHi0vlwTyAoMdrJmkKpuDHpwjvl+Y+sqB0FmgtDWrbWiQ+BKDl7goZr/k=;Te7rkYJ/CaOFZGQ8tgkJfQ=="

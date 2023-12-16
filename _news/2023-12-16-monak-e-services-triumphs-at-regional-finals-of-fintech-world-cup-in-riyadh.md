@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Providing Critical Services to the UK Financial Sector: Important Draft Rules for Fintechs"
-    excerpt: "in financial services — as we have discussed most recently in our alert “AI and Machine Learning in UK financial services: the public response to the FCA and PRA” — this regime is likely to become closely associated with any future AI regulation in ..."
-    publishedDateTime: 2023-12-13T00:00:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/providing-critical-services-to-the-uk-7117293/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 14
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15363_1913.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Monak E-Services Triumphs At Fintech World Cup Regional Finals In Riyadh"
     excerpt: "(MENAFN- Asdaf News) Riyadh -\\u00a0 Asdaf News:\\r\\n\\r\\nThe second day of the DATE FinTech Show and DATE AI Show hosted 11 shortlisted fintech start-ups participated in the third regional finals of the Fintech World Cup organized by Dubai Fintech Summit in ..."
     publishedDateTime: 2023-12-14T08:41:00Z

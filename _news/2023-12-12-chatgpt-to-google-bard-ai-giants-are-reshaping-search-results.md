@@ -7,7 +7,7 @@ originalUrl: "https://yourstory.com/2023/12/ai-revolutionising-search-engine-res
 webUrl: "https://yourstory.com/2023/12/ai-revolutionising-search-engine-results"
 type: article
 quality: 56
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -49,6 +49,15 @@ related:
       name: The New York Times
       domain: nytimes.com
     quality: 49
+  - title: "ChatGPT vs Google Bard: What's the difference and which one to use? – Android Authority"
+    excerpt: "Affiliate links on Android Authority may earn us a commission. Learn more.We finally have our hands on Google’s long-awaited Bard chatbot. It takes aim at the"
+    publishedDateTime: 2023-12-16T04:28:00Z
+    webUrl: "https://www.inferse.com/841446/chatgpt-vs-google-bard-whats-the-difference-and-which-one-to-use-android-authority/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 13
 
 secured: "RW0uMBvtZ4M2yM2YeYKzG+x/2gWBKfnXcuuVt8Qe2LqIH6g3OtGIRuEnS9zC+xabRzzcTFZPORdR56YAa+t/z+VRrJfxB3U15iaCwQLhDEXuSOGLF+rM1FApEkbIFwvF9dRvNzynQ9nDBHjpzvkgd/f60QtnwDA8ot/7hWmfDaZoFwShPyN0m22DyRuZ6ActGXfJUfjiVIfvrPntGlu0ezL3TBHVEWMhenwwe8rNhC4rIMWUsO2eOwpYyjLizDrZGL5RpPymgbDdbWThRuLv5FpRfC065gcBrBkH/AQNMnQegpfs7OFFYJC3CXGObFdyRVolwdHJT4N5oT0X9w2F5llzkiYpBNAGzQFAhM0NsJM=;KFgBke7wdoiapuD+fmYJaA=="
 ---

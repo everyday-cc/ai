@@ -34,22 +34,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 82
-  - title: "Doctors with knowledge of artificial intelligence will hold advantage: Andrew Elder"
-    excerpt: "Andrew Elder, president of the Royal College of Physicians of Edinburgh, said AI has the potential to carry out a number of medical tasks such as diagnosis and surgery more efficiently, quickly, and easily,"
-    publishedDateTime: 2023-12-11T06:21:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/doctors-with-knowledge-of-artificial-intelligence-will-hold-advantage-andrew-elder/articleshow/105894105.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/doctors-with-knowledge-of-artificial-intelligence-will-hold-advantage-andrew-elder/amp_articleshow/105894105.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/doctors-with-knowledge-of-artificial-intelligence-will-hold-advantage-andrew-elder/amp_articleshow/105894105.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 53
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-33546,msid-105894352/ai-healthcare.jpg"
-        width: 600
-        height: 450
-        isCached: true
 
 secured: "9uYAVBOOI5XOHfFtbKYKLWhLdRW/xgTC+65S+RwWx3KZwaLPzSiOH/1Stzv9uj61iwuHlspHytSlhI4BAplklukzvoU/jBWPTk0jsaM1opdSYteqmTAedal+EWueil4yZ6xjf5Jfo5zhB0IhqeYg1m8wESLUEvadUppLjI50/raOXkKPiPc7bBrKfe6wRnS0lbf+doym8y/AUJiALLZofvXuJOhccJEtfeV/Rvz/elEeNYHiqWbCgx8eeomr4ftkfE/CjcTv+SM6H9n8uxTLhmSxKPNNku5GNHVi065Gic+tXvMxC6pDhSgjpgbK+B9T+WtQXjhq3F6zmarONO2HSECMjyeyhtz9uRgG9hzwINgbfNsOlWoYpziO/0v6CuMm8rcH7d3/e9xzPOmWMumze5rtP6HBnquAVTvgJtWlsX1UIX4EnF8oADosTMofoil3NB7o/mr4PD5hk0asm+w6kMg9y7c36CAP/KF6QWt/xKadg4nyCmiOJVsjKsWL6PvC5elThX+HsoF8qO797UfvbA==;cDNv/SKW/+wLi1lfFpl3Lg=="
 ---

@@ -71,20 +71,6 @@ related:
         width: 280
         height: 210
         isCached: true
-  - title: "Portuguese Fintech Map and Report 2023"
-    excerpt: "Despite a trying macroeconomic environment, Portugal’s fintech ecosystem is showing resilience and development this year. This growth has been driven by significant developments in industries such as artificial intelligence (AI),"
-    publishedDateTime: 2023-12-11T07:00:00Z
-    webUrl: "https://fintechnews.ch/fintechportugal/portuguese-fintech-map-and-report-2023/65442/"
-    type: article
-    provider:
-      name: fintechnews
-      domain: fintechnews.ch
-    quality: 24
-    images:
-      - url: "https://fintechnews.ch/wp-content/uploads/2023/12/Portuguese-Fintech-Industry-Sees-Further-Growth-Despite-Challenging-Macro-Environment-.jpeg"
-        width: 1024
-        height: 567
-        isCached: true
   - title: "Finastra Leaders Predict Top Fintech Trends For 2024"
     excerpt: "Finastra has shared its executive insights on the anticipated trends, challenges and opportunities for the fintech landscape in 2024."
     publishedDateTime: 2023-12-13T07:35:00Z

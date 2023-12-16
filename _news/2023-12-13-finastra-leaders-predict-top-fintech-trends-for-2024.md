@@ -82,20 +82,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
-  - title: "Portuguese Fintech Map and Report 2023"
-    excerpt: "Despite a trying macroeconomic environment, Portugal’s fintech ecosystem is showing resilience and development this year. This growth has been driven by significant developments in industries such as artificial intelligence (AI),"
-    publishedDateTime: 2023-12-11T07:00:00Z
-    webUrl: "https://fintechnews.ch/fintechportugal/portuguese-fintech-map-and-report-2023/65442/"
-    type: article
-    provider:
-      name: fintechnews
-      domain: fintechnews.ch
-    quality: 24
-    images:
-      - url: "https://fintechnews.ch/wp-content/uploads/2023/12/Portuguese-Fintech-Industry-Sees-Further-Growth-Despite-Challenging-Macro-Environment-.jpeg"
-        width: 1024
-        height: 567
-        isCached: true
   - title: "The Legal Outlook For Fintech And Payments 2024."
     excerpt: "The Legal Outlook For Fintech And Payments 2024. Legal News and Analysis - Asia Pacific, EU, Europe, Hong Kong, Singapore, United Kingdom, USA -"
     publishedDateTime: 2023-12-14T08:31:00Z

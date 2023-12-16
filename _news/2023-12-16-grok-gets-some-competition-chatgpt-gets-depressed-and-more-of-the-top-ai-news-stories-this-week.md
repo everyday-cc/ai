@@ -6,7 +6,7 @@ publishedDateTime: 2023-12-15T19:50:00Z
 originalUrl: "https://gizmodo.com/grok-gets-some-competition-chatgpt-gets-depressed-and-1851102969"
 webUrl: "https://gizmodo.com/grok-gets-some-competition-chatgpt-gets-depressed-and-1851102969"
 type: article
-quality: 51
+quality: 71
 heat: -1
 published: false
 
@@ -21,6 +21,12 @@ provider:
 topics:
   - AI
   - Microsoft AI
+
+images:
+  - url: "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/6e9ec759dc24bf07ae714235d2e5f58b.jpg"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "We've come full circle with AI: ChatGPT lazily prompts users to complete their own tasks"
@@ -68,6 +74,6 @@ related:
         height: 675
         isCached: true
 
-secured: "rmp4xh9Jv127MFQ5+x9XKvanUfr5dZLoyTwCY59lWFkKFlwlbYe6pComeLDfpLDoXDPs3F2lc+riCdvVatSJLgAVUVrdiwV+uCjhV5lShCDnwHsPry/dxebR3Jh2wYa38zmEtAvQFYBee4KM8oTZ22oJVXCmOadDPqEBy9De8ndKXuwkOkjHHcjCgiRdBYc0KNE252HcXoqy/0Wv2wqomJsBFe+w5YEx5LR3u4/GlwwzqZ93Ra1cBGoEqG4alAeeHy3hKUjHDgFyHt4bTXTJXuHWrqcRREKc/637nUg+sBPv1PH5Oj0ds94ln5TJBCFyJGUSf9YYd/aJ66IW8GWwC5yLTKnmN2E7oq631XdHQ3U=;bCn/fRJzltfhKIprHGVTPw=="
+secured: "pKj4IyBIO3XZ5JZtexUspHjoh4SbHA3e2dGzyoELNxQhLLUROcNfk2879bzzAwRvwauDmmYVCBc8UjWrqGZTNUtiImXrs/ti3wAowvHKesuguuXYoXsR2ArUm+YUMhkRoepBxHPSg6F9dhwhmGT5ylaZ9D5RZsPq5BAfE42C0CUKqFTAzPmXCdcZtdLFfJBttT09qn1s12/gZf3dkDqHxAoBWwVaMNVW19cSd2OyXdE4q5Q7xgtE2+NhM0QxvCCpbIC4Lh1q5Pz+vKnB04a4BOka3+JAq2Bn4UySJJuorQD9/S46ZMvdouvXSCFtcWWGoucmhVfHLx8FyapLcsSUnib7oUtrCDeDhOUuBpKmUb8=;4Qy6yjsIqvJn8enhesu6ZA=="
 ---
 

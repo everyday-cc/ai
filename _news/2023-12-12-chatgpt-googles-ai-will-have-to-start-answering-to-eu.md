@@ -41,6 +41,20 @@ related:
         width: 1919
         height: 1080
         isCached: true
+  - title: "Grok Gets Some Competition, ChatGPT Gets Depressed, and More of the Top AI News Stories This Week"
+    excerpt: "What happened with AI this week? Well, the passage of the European Union’s AI Act—a landmark piece of regulation that seeks tackle the potential harms of the AI industry—is a pretty big deal. It could totally reshape how European nations’ relationship to the technology."
+    publishedDateTime: 2023-12-15T19:50:00Z
+    webUrl: "https://gizmodo.com/grok-gets-some-competition-chatgpt-gets-depressed-and-1851102969"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 71
+    images:
+      - url: "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/6e9ec759dc24bf07ae714235d2e5f58b.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Gemini AI: What do we know about Google's answer to ChatGPT?"
     excerpt: "Most AI models like ChatGPT can only understand and generate one type of content — like text, audio, images or video — but Google's Gemini can generate them all."
     publishedDateTime: 2023-12-13T10:10:00Z
@@ -55,15 +69,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Grok Gets Some Competition, ChatGPT Gets Depressed, and More of the Top AI News Stories This Week"
-    excerpt: "What happened with AI this week? Well, the passage of the European Union’s AI Act—a landmark piece of regulation that seeks tackle the potential harms of the AI industry—is a pretty big deal. It could totally reshape how European nations’ relationship to the technology."
-    publishedDateTime: 2023-12-15T19:50:00Z
-    webUrl: "https://gizmodo.com/grok-gets-some-competition-chatgpt-gets-depressed-and-1851102969"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 51
 
 secured: "eD7IzV2SdeiUr4Oq4p5JC6P+eZMQ1mw5QC5eZ9l2NWdhQHDM8uwCscKJrVhvzFOJwlpG/LI3ehtCAQAP5FqmZwNtO8zLPN0d9bRZ/40WNPz+G0P4a0YfTvMiQmq1TNWnJpm8xhF+1jdPkmLeI7cUMGnsfMtHvh+kZ6L0aUkWJ520RNYJX3vAkQdkSbY5G8/M7jmFGHXBAuGLjidDzTW6tEHf8aJ5FF01FMDIKCKql98U9wpBDHvtlP7XLkOVQ31n1r+hLS6aW59I6V0VbyAYrMoMYZ1BmIuoOJZECPsFJ3JXMur8IKtLRsLVYhGGGNQwU5s67J1IQxWQTb504NT4NBK4A5G4GFfnzOGBdpyXDZk=;iMmw9TSaeYnynworDh5dTw=="
 ---
