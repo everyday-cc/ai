@@ -41,6 +41,31 @@ related:
         width: 770
         height: 371
         isCached: true
+  - title: "Global AI Conclave: Tens of thousands of Bengaluru's chip designers give India an edge in semiconductor industry, says Chip War author"
+    excerpt: "\"If you look at the chip industry today, most of the value still lies in chip design. If you speak to TSMC, they might say we would rather be like Nvidia,\" Chip War author Chris Miller said."
+    publishedDateTime: 2023-12-16T14:56:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/global-ai-conclave-tens-of-thousands-of-bengalurus-chip-designers-give-india-an-edge-in-semiconductor-industry-says-chip-war-author-11914511.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/global-ai-conclave-tens-of-thousands-of-bengalurus-chip-designers-give-india-an-edge-in-semiconductor-industry-says-chip-war-author-11914511.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/global-ai-conclave-tens-of-thousands-of-bengalurus-chip-designers-give-india-an-edge-in-semiconductor-industry-says-chip-war-author-11914511.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 42
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/12/chris-miller-770x369.jpg"
+        width: 770
+        height: 369
+        isCached: true
+  - title: "Global AI Conclave | Chip Wars author Chris Miller lauds India’s deep talent pool in chip design"
+    excerpt: "There are more people in chip design in India than anywhere else in the world, which is an extraordinary base of human capital…If we look at Bangalore, we see 10,000 people working in the chip Industry,"
+    publishedDateTime: 2023-12-16T14:46:00Z
+    webUrl: "https://www.cnbctv18.com/technology/global-ai-conclave--chip-wars-author-chris-miller-lauds-indias-deep-talent-pool-in-chip-design-18585301.htm"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 21
 
 secured: "o5TGVRxXEBa0ESW91cgwv1Hu594DtjEAWCnVLsp2dTpZcFnDxKovYvFAYltaeOSqrWXXMnioHYnj6rXUhrH7+gB3bNdL7tchnjvm+AeBC5KpvbaoGr03nTz+f82x87QYM9yaMsls2CBuKdX+3fxSeX0I4NJHf3QdQ9FQsGxkG3X6vLPBgJE7Lj/r8KxWCsgtEDc0QqbuRBBp2APi7sF0HwYNriBxblgUxlS0NxfohFqvuE1uD3w8KHuFRSk0G6C7tDm0IB16lOylt0aGbHOW/xw2fHkNiy9WsFOnWAON/B5+5ZLZybkMD9GKn3qodCydgrzyG5ZVIQw0fv4uC49epL6pEgxGTo6Yx37lh4t6GUM=;d+M3W7Rn7xSrxwSREgZwnQ=="
 ---

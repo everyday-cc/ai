@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Human brain cells hooked up to a chip can do speech recognition"
-    excerpt: "Brain organoids, clumps of human brain cells grown in a dish, can be hooked up to an electronic chip and carry out simple computational tasks, a new study shows. Feng Guo and his"
-    publishedDateTime: 2023-12-11T16:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/12/11/1084926/human-brain-cells-chip-organoid-speech-recognition/"
-    ampWebUrl: "https://www.technologyreview.com/2023/12/11/1084926/human-brain-cells-chip-organoid-speech-recognition/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/11/1084926/human-brain-cells-chip-organoid-speech-recognition/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 91
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/12/organoid-compute2.jpg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
   - title: "A Ball of Brain Cells on a Chip Can Learn Simple Speech Recognition and Math"
     excerpt: "Just a first step, Brainoware paves the way for increasingly sophisticated hybrid biocomputers that could lower energy costs and speed up computation."
     publishedDateTime: 2023-12-14T20:02:00Z
@@ -51,20 +35,6 @@ related:
       name: Singularity Hub
       domain: singularityhub.com
     quality: 65
-  - title: "AI made from living human brain cells performs speech recognition"
-    excerpt: "A biocomputing system consisting of living brain cells learned to recognise the voice of one individual from hundreds of sound clips"
-    publishedDateTime: 2023-12-11T16:12:00Z
-    webUrl: "https://www.newscientist.com/article/2407768-ai-made-from-living-human-brain-cells-performs-speech-recognition/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 56
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/12/11134744/SEI_183665108.jpg"
-        width: 1350
-        height: 900
-        isCached: true
   - title: "Artificial intelligence made from ‘clumps of human brain cells’ taught to recognize speech in world-first experiment"
     excerpt: "CLUMPS of human brain cells connected to an electronic chip have successfully completed simple tasks including speech recognition. That’s according to researchers at Indiana University"
     publishedDateTime: 2023-12-12T12:22:00Z

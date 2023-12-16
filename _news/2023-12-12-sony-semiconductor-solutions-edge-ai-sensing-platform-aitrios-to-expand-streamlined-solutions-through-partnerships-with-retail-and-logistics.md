@@ -25,15 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Iktos and Bayer Announce Collaboration to expand the use of Artificial Intelligence to Design New Sustainable Crop Protection Solutions"
-    excerpt: "Iktos and Bayer Announce Collaboration to expand the use of Artificial Intelligence to Design New Sustainable Crop Protection SolutionsParis,"
-    publishedDateTime: 2023-12-14T07:54:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/iktos-and-bayer-announce-collaboration-to-expand-the-use-of-artificial-intelligence-to-design-new-sustainable-crop-protection-solutions-1032899625"
+  - title: "Etihad Airways pioneers cutting-edge AI solutions to boost safety"
+    excerpt: "This initiative is part of a partnership with Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) to establish joint training programmes"
+    publishedDateTime: 2023-12-13T14:24:00Z
+    webUrl: "https://www.zawya.com/en/business/aviation/etihad-airways-pioneers-cutting-edge-ai-solutions-to-boost-safety-jeqc8irk"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
+      name: Zawya
+      domain: zawya.com
+    quality: 19
 
 secured: "Hype9XFCP8oYufAkp0hElpjp2RNaMhVdE1IQpxe5X0yyOt9o65gA1Tc01OYV3cmBFdCsTErgB/hXbVkyJw/o48+2eJG2WD50OrsAnRTWfBVBeY2pC+S+tiNF/rfaqNtdOBek2oOwN6fCXv4CHUk381HfzRZRxh0jsCu9Ya5vetZwLwgEeZj62NpAF5SWKltKltzNrUbbNb/49CsCh3s5ksdg/VxgLrzBgrdsOeizHLcv2wYpX3gbL6RGPt/B6d1SXcnQWqgFa7cDAwQjDvabQWEDGmChrTyaswfk0ZrhVk+MttjuNSKGh/+DgCMGfSZDpoq/v2VkVQzJzg3XmiU87caCdcOqBDa8d0KwAWZMf/DMa0KF80vMzpATnOjkH++8YxaysF//rV9ZYzoyeW9xMFTQd3RkxYxRwXrmTdhfn6Secaata9uCN5fm53Opb3b5iEjsezxrDFLH5U4XxlGgAzmGAXLwNKOyEHil1aFqGQHYWZAsgN0Q68NSKwhVbaZ2xRNGuHODJdHXCOCv675L8Q==;FqjLO4mY8BE1k1/puPaqRQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/12/15/why-this-ai-stock-looks-
 webUrl: "https://www.fool.com/investing/2023/12/15/why-this-ai-stock-looks-dirt-cheap/"
 type: article
 quality: 84
-heat: 94
+heat: 96
 published: true
 
 provider:

@@ -21,6 +21,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Dream of talking to Vincent Van Gogh? AI tries to resurrect the artist"
+    excerpt: "One of the boldest attempts at championing Van Gogh’s legacy is at the Musée d’Orsay in Paris, where a doppelgänger of the Dutch artist chats with visitors."
+    publishedDateTime: 2023-12-16T13:00:00Z
+    webUrl: "https://www.seattletimes.com/entertainment/dream-of-talking-to-vincent-van-gogh-ai-tries-to-resurrect-the-artist/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
+
 secured: "2PRNcR7o4Bjpmo1SpCt790jwC+B6GoP2z0/F4nQOFT8h4wDRYPj0Im8tUGlz1SikV2FsRyyZrQe85GST/hi4QUK4mblh5O+9Ob18hZcF5R1fWW20xpDcxxg+/242wFC6ZtLmYgY4hy4STPFMSCox3Zg5n666NuUNhFyEsOR55EJsz27Zyylw32m/n4Fx1H3jLSrwaXlbNeVMDizCDyJirZPZv/GjJEJivz25SuQKg4YXBaQ7Po36tUIbsMGT4ichd6CNeeSO9dXzYELKy4eanRu38SEWDWW/07kkKCh08GT4JuuPatc8CiXkE3F7u2erZtjQM+NSxN3+G7zn5f0L2fogUIezmkzkfk1OoDR4pOTwBN/4xHRDv3tHn1rwTuovPbIf5EWgi+v9YHTh6Y90FPSfuD1ZZ3jwQikNo6G2Y9v6VdP8rOm018DNlxuD7hHXXu9IJ30jxXthWBiAHg9tqpkqna3CaPeVeOebVvBVUWWOsUECG6nm7vVFhMrqBVhXl4vZ5rCe6+d6c6bpz4Ic0g==;8wOzbL4OvKYKntEkcdrnRA=="
 ---
 

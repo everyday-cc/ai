@@ -43,6 +43,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "M2P Fintech acquires Goals101 for data-driven personalisation in digital banking"
+    excerpt: "Madhusudanan R, CEO and Co-founder of M2P Fintech, stated that the global banking technology landscape is experiencing a significant transformation, particularly in utilising data and AI across key areas such as customer service, product and portfolio ..."
+    publishedDateTime: 2023-12-13T08:04:00Z
+    webUrl: "https://yourstory.com/2023/12/m2p-fintech-acquires-goals101-personalisation-digital-banking"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 34
+    images:
+      - url: "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/M2P-1634035498846.png?fm=png&auto=format"
+        width: 800
+        height: 400
+        isCached: true
   - title: "M2P Fintech acquires India's Goals101"
     excerpt: "M2P Fintech, Asia’s largest Digital Banking Infrastructure company that powers the digital ambitions of banks, lenders, fintech and other financial services players today announced the multi-million-dollar acquisition of Goals101,"
     publishedDateTime: 2023-12-13T10:03:00Z

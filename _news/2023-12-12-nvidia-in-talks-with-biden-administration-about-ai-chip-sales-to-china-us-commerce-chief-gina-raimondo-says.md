@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "US in talks with Nvidia about AI chip sales to China - Raimondo"
-    excerpt: "U.S. Commerce Secretary Gina Raimondo, speaking in an interview with Reuters on Monday, said Nvidia \"can, will and should sell AI chips to China because most AI chips will be for commercial applications.\" She added: \"What we cannot allow them to ship is ..."
-    publishedDateTime: 2023-12-11T14:39:00Z
-    webUrl: "https://www.aol.com/us-talks-nvidia-ai-chip-194051279.html"
-    ampWebUrl: "https://www.aol.com/amphtml/us-talks-nvidia-ai-chip-194051279.html"
-    cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/us-talks-nvidia-ai-chip-194051279.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 91
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/dc475dc621777cd3ecb3464d53261b9e"
-        width: 800
-        height: 533
-        isCached: true
   - title: "U.S. discusses AI Chip sales to China with Nvidia, says Raimondo"
     excerpt: "The U.S. government is currently in talks with NVIDIA (NVDA) regarding the conditions under which it can sell AI chips to China. The administration has made it clear that Nvidia (NASDAQ: NVDA) is not allowed to export its most sophisticated semiconductors to Chinese companies."
     publishedDateTime: 2023-12-11T20:36:00Z
@@ -76,22 +60,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Apple Silicon M3 Pro competes with Nvidia RTX 4090 GPU in AI benchmark [u]"
-    excerpt: "In a recent test of Apple's MLX machine learning framework, a benchmark shows how the new Apple Silicon Macs compete with Nvidia's RTX 4090."
-    publishedDateTime: 2023-12-14T00:30:00Z
-    webUrl: "https://appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark"
-    ampWebUrl: "https://appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 72
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/57700-117522-graph-xl.jpg"
-        width: 1312
-        height: 800
-        isCached: true
   - title: "US in talks with Nvidia about AI chip sales to China: Gina Raimondo"
     excerpt: "U.S. Commerce Secretary Gina Raimondo, speaking in an interview with Reuters on Monday, said Nvidia \"can, will and should sell AI chips to China because most AI chips will be for commercial applications."
     publishedDateTime: 2023-12-12T01:21:00Z
@@ -119,36 +87,6 @@ related:
       - url: "https://img.etimg.com/thumb/msid-105916640,width-1200,height-630,imgsize-101486,overlay-ettech/photo.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Chip Stocks Are Surging, but Nvidia Is Missing It"
-    excerpt: "It’s a big day for chip stocks, but the year’s top-performer is suddenly lagging. The PHLX Semiconductor index advanced more than 2% on Monday morning. Broadcom was up more than 6%, the S&P 500’s second-best performer."
-    publishedDateTime: 2023-12-11T16:15:00Z
-    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-12-11-2023/card/chip-stocks-are-surging-but-nvidia-is-missing-it-s1Qwg9eaQQEoG9W9QwM0"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 69
-    images:
-      - url: "https://images.wsj.net/im-898705?width=600"
-        width: 600
-        height: 800
-        isCached: true
-  - title: "Intel Unveils New AI Chips to Rival Nvidia’s Dominance in AI Industry, INTC Stock Up 1%"
-    excerpt: "Dubbed Gaudi3, Intel intends to attract generative AI companies like OpenAI away from Nvidia and bolster its stock market performance."
-    publishedDateTime: 2023-12-15T11:11:00Z
-    webUrl: "https://www.coinspeaker.com/intel-ai-chips-intc-stock/"
-    ampWebUrl: "https://www.coinspeaker.com/intel-ai-chips-intc-stock/amp/"
-    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/intel-ai-chips-intc-stock/amp/"
-    type: article
-    provider:
-      name: coinspeaker
-      domain: coinspeaker.com
-    quality: 66
-    images:
-      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/12/intel-ai-chips-intc-stock.jpg"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Essential AI emerges from stealth with backing from Google, Nvidia and AMD"
     excerpt: "Essential AI says the products would make data analysts 10x faster and give business users the ability to become data-driven decision-makers."
@@ -229,48 +167,6 @@ related:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
     quality: 51
-  - title: "Intel Drops New Core Ultra Processors and Gaudi3 AI Chip to Take on Nvidia and AMD"
-    excerpt: "Intel launches Core Ultra processors and Gaudi3 AI chip to compete with Nvidia and AMD. Core Ultra line features chiplet design, neural processing unit, and specialized AI components for enhanced performance."
-    publishedDateTime: 2023-12-16T10:47:00Z
-    webUrl: "https://www.technobezz.com/news/intel-drops-new-core-ultra-processors-and-gaudi3-ai-chip-to-take-on-nvidia-and-amd/"
-    type: article
-    provider:
-      name: Technobezz.com
-      domain: technobezz.com
-    quality: 48
-    images:
-      - url: "https://cdn.technobezz.com/c/intel_core_ultra_holthaus_jpg_rendition_intel_web_1648_927_d97184be91/intel_core_ultra_holthaus_jpg_rendition_intel_web_1648_927_d97184be91.jpg"
-        width: 1102
-        height: 927
-        isCached: true
-  - title: "US government is looking at NVIDIA's new AI GPUs for China, says they're a 'good partner'"
-    excerpt: "Gina Raimondo, the US Secretary of Commerce, said NVIDIA is a 'good partner' and that the US government has a 'close working relationship' with them."
-    publishedDateTime: 2023-12-13T01:19:00Z
-    webUrl: "https://www.tweaktown.com/news/94932/us-government-is-looking-at-nvidias-new-ai-gpus-for-china-says-theyre-good-partner/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 45
-    images:
-      - url: "https://static.tweaktown.com/news/9/4/94932_801_us-commerce-secretary-says-nvidia-is-good-partner-as-they-share-ai-chip-designs-for-china_full.png"
-        width: 1500
-        height: 857
-        isCached: true
-  - title: "Intel’s new chip Gaudi3 competes with Nvidia and AMD"
-    excerpt: "Intel launched a range of new products, including Gaudi3, a chip for generative AI software, Core Ultra, a chip for Windows laptops and PCs, and Xeon, a chip for servers."
-    publishedDateTime: 2023-12-15T02:52:00Z
-    webUrl: "https://interestingengineering.com/innovation/intels-new-chip-gaudi3-competes-with-nvidia-and-amd"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/12/15/image/jpeg/wYkj6XdZYwfk4JfVqMMfH13lZNZ5vQC6qujPEM9v.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Nvidia chucking money at AI"
     excerpt: "Nvidia has become one of the most prolific investors in AI start-ups this year as it tries to capitalise on its position as the dominant provider of AI processors. The chipmaker announced that it has invested in \"more than two dozen\" companies this year ..."
     publishedDateTime: 2023-12-12T00:00:00Z
@@ -303,15 +199,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 34
-  - title: "Beyond The Likes of Nvidia Corp and AMD, Chip Market Troubles Pose Threats After AI Euphoria"
-    excerpt: "Philadelphia Stock Exchange Semiconductor Index laggard Texas Instruments Inc., down 5.6% this year, has one of the broadest ranges of customers and products across the chip business. It said the key industrial market got weaker in the third quarter, contracting about 5%. Revenue related to communications components dropped more than 10%."
-    publishedDateTime: 2023-12-11T13:13:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/beyond-the-likes-of-nvidia-corp-and-amd-chip-market-troubles-pose-threats-after-ai-euphoria-71701965487763.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 23
   - title: "How Nvidia approaches accelerating the AI ecosystem"
     excerpt: "\"If you’re working in AI and accelerated computing right now, NVIDIA stands ready to help,\" the company said in its blog post. \"Developers across every industry in every country are building accelerated computing applications."
     publishedDateTime: 2023-12-11T22:31:00Z

@@ -35,22 +35,6 @@ related:
         width: 1353
         height: 900
         isCached: true
-  - title: "Financial vulnerability support fintech Hope Macy in seed funding boost"
-    excerpt: "Fintech Hope Macy has secured £1.5m in seed investment to support the roll-out of its regulated open banking and AI platform to counter the growing problem of financial vulnerability. The funding has come from the Development Bank of Wales and angel investors."
-    publishedDateTime: 2023-12-11T15:34:00Z
-    webUrl: "https://www.business-live.co.uk/technology/financial-vulnerability-support-fintech-hope-28270288"
-    ampWebUrl: "https://www.business-live.co.uk/technology/financial-vulnerability-support-fintech-hope-28270288.amp"
-    cdnAmpWebUrl: "https://www-business--live-co-uk.cdn.ampproject.org/c/s/www.business-live.co.uk/technology/financial-vulnerability-support-fintech-hope-28270288.amp"
-    type: article
-    provider:
-      name: business-live
-      domain: business-live.co.uk
-    quality: 44
-    images:
-      - url: "https://i2-prod.walesonline.co.uk/incoming/article28270320.ece/ALTERNATES/s1200/2_Hope-Macy.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Consumer tech market set for growth surge; Kunal Shah on fintech, regulations"
     excerpt: "The consumer technology market in India will likely touch $300 billion in the next four years, while online retail could top $160 billion by 2028, reports suggest. This and more in todays ETtech Morning Dispatch."
     publishedDateTime: 2023-12-13T01:52:00Z

@@ -147,6 +147,34 @@ related:
         width: 996
         height: 512
         isCached: true
+  - title: "Intel Drops New Core Ultra Processors and Gaudi3 AI Chip to Take on Nvidia and AMD"
+    excerpt: "Intel launches Core Ultra processors and Gaudi3 AI chip to compete with Nvidia and AMD. Core Ultra line features chiplet design, neural processing unit, and specialized AI components for enhanced performance."
+    publishedDateTime: 2023-12-16T10:47:00Z
+    webUrl: "https://www.technobezz.com/news/intel-drops-new-core-ultra-processors-and-gaudi3-ai-chip-to-take-on-nvidia-and-amd/"
+    type: article
+    provider:
+      name: Technobezz.com
+      domain: technobezz.com
+    quality: 48
+    images:
+      - url: "https://cdn.technobezz.com/c/intel_core_ultra_holthaus_jpg_rendition_intel_web_1648_927_d97184be91/intel_core_ultra_holthaus_jpg_rendition_intel_web_1648_927_d97184be91.jpg"
+        width: 1102
+        height: 927
+        isCached: true
+  - title: "Intel’s new chip Gaudi3 competes with Nvidia and AMD"
+    excerpt: "Intel launched a range of new products, including Gaudi3, a chip for generative AI software, Core Ultra, a chip for Windows laptops and PCs, and Xeon, a chip for servers."
+    publishedDateTime: 2023-12-15T02:52:00Z
+    webUrl: "https://interestingengineering.com/innovation/intels-new-chip-gaudi3-competes-with-nvidia-and-amd"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/12/15/image/jpeg/wYkj6XdZYwfk4JfVqMMfH13lZNZ5vQC6qujPEM9v.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "566eE4NYISqIlqZj9N+px6WdGQzNwb9cEpTkbgi49U16O+lExe7os7taAO5DCQQ0f2zia5sYDW/d5BCYmHaOlpNbue2+WbK0XslMTWsswAuORfppcF1kbIyN8h2jOIiMQU3MD8kGKLkJrD7WpColFT0RxIqP4Ks1r9/HhS7lUEqfH7o+duD9aJMCDS6GAk2Gx74bsy41S1HKzRxJUusSaYgdM1rQPcS/yQLUK1X3MsW4MOAeL6KUoPGlyakSL/epxtSp03i1dnypDzxclGTCtTqIXTSvBJSrOF5aSDEPFAB+cQm/voArPqUPXbkUpA+i7ftBvpCAcwZcq75x/UZMxuPXqjL5tz2RWR8WnUNw9p7+09T/Nh/ezrMKeO9jb0rHxIOjCWQT7g557mTbR/ouc4zJZ65iecA0zy2VCIUZ7GzeGHlPG2b0rf5X1/3yaZ6aPtvqWZOok2geMuwXR9vh6sHuC8RtMnxOj9bVsiJ1/475x32A3NZRsyk/Pq9crgS1t9wg/y348fpDjOzb3sQpeA==;ctOEG50q2MwpZKiaCj90Zg=="
 ---

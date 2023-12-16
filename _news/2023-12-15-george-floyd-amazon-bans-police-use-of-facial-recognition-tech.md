@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/business-52989128.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-52989128.amp"
 type: article
 quality: 91
-heat: 121
+heat: 122
 published: true
 
 provider:

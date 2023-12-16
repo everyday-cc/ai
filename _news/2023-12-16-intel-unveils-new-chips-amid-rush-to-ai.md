@@ -147,6 +147,34 @@ related:
         width: 996
         height: 512
         isCached: true
+  - title: "Intel Drops New Core Ultra Processors and Gaudi3 AI Chip to Take on Nvidia and AMD"
+    excerpt: "Intel launches Core Ultra processors and Gaudi3 AI chip to compete with Nvidia and AMD. Core Ultra line features chiplet design, neural processing unit, and specialized AI components for enhanced performance."
+    publishedDateTime: 2023-12-16T10:47:00Z
+    webUrl: "https://www.technobezz.com/news/intel-drops-new-core-ultra-processors-and-gaudi3-ai-chip-to-take-on-nvidia-and-amd/"
+    type: article
+    provider:
+      name: Technobezz.com
+      domain: technobezz.com
+    quality: 48
+    images:
+      - url: "https://cdn.technobezz.com/c/intel_core_ultra_holthaus_jpg_rendition_intel_web_1648_927_d97184be91/intel_core_ultra_holthaus_jpg_rendition_intel_web_1648_927_d97184be91.jpg"
+        width: 1102
+        height: 927
+        isCached: true
+  - title: "Intel’s new chip Gaudi3 competes with Nvidia and AMD"
+    excerpt: "Intel launched a range of new products, including Gaudi3, a chip for generative AI software, Core Ultra, a chip for Windows laptops and PCs, and Xeon, a chip for servers."
+    publishedDateTime: 2023-12-15T02:52:00Z
+    webUrl: "https://interestingengineering.com/innovation/intels-new-chip-gaudi3-competes-with-nvidia-and-amd"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/12/15/image/jpeg/wYkj6XdZYwfk4JfVqMMfH13lZNZ5vQC6qujPEM9v.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "qkmZIMfnjK1WDKT77ToIvQMJvA1A/RI+tv5cCB8BBUlnwxA6oL9E0fJgZBTGqvqxCnQeE27ajlZk5xvBKMXBxxqqYS9li5lHw22RsQT1ah8+4e+Wk3O5wYGjXY9f0TN0ZMBeNHKelBMzrWCsJqNj6dROZaGK0MV1a4ZA6bA60Keq/T5j0LayOH6MjhWPd60yt7KYh/fg4OfwQepXH3bq/tButA8bQQs2wb0K9rYgFXBhkwjEXCjfC/4ucLnTocRh2s8U+5HboGYfWhf2rNJtftpelH2u6/bLwfyZiP/cQgpAVSEOEw8Al4HkbIQMOuqfiHaVDEp0+ZhN4fclQfR0tLFxgnWXN9ahT4giQiltiM4=;7DUByi713BP5ndID2staaQ=="
 ---

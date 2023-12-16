@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Revolutionizing Enterprise Search: Harnessing Generative AI for Enhanced Data Discovery"
+    excerpt: "The realm of enterprise search is undergoing a transformative shift, propelled by the integration of Generative AI. This cutting-edge technology is not"
+    publishedDateTime: 2023-12-12T17:14:00Z
+    webUrl: "https://innotechtoday.com/revolutionizing-enterprise-search-harnessing-generative-ai-for-enhanced-data-discovery/"
+    type: article
+    provider:
+      name: Innovation & Tech Today
+      domain: innotechtoday.com
+    quality: 31
+    images:
+      - url: "https://innotechtoday.com/wp-content/uploads/2023/12/pexels-google-deepmind-17485743-1.jpg"
+        width: 800
+        height: 500
+        isCached: true
 
 secured: "8EuIjq1x/5m2sQeaNrEm3fi62S/XVMt3Ce7YR407yHG3e16YVdSTgXHepktjlQVNr/btLAsG3kW20pYZTsg6/9BUGtozd5DC522IDptv5ZsR7VRWdqxGjHwKJViRWEAdkNunMn6Ahwg7j5Y6tfmdt5ug8/a4c2SKdJeIl0NCZWwvUaZQYBlzLW2dblp0k038cgk/BtKsGbBKCzpHEB9qvxCL0VRgr58+xO3XBLZ6GRkLGMnfw1mf1kWbXXxKOMow6JNR9qtX5IhVGxzIstElSbExu4tRJZrd0yVOtENe7xSEAiB7JrvszXck46NoQ2dZu47pXL7iJEcj7gYDPwWogDlSKoHu2NIwvAiSV5rirRc=;HKrraHEDK+ssjXU10g2yGQ=="
 ---

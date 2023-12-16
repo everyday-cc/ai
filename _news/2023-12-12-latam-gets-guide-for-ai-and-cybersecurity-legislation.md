@@ -50,20 +50,6 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 62
-  - title: "EU agrees landmark AI regulation deal"
-    excerpt: "The European Union has introduced the world’s first comprehensive laws to regulate the use of AI, reaching a provisional deal between its member states. The laws were agreed after 36 hours of talks, with the European Parliament to vote on the AI Act proposals early next year."
-    publishedDateTime: 2023-12-11T15:54:00Z
-    webUrl: "https://www.inavateonthenet.net/news/article/eu-agrees-landmark-ai-regulation-deal"
-    type: article
-    provider:
-      name: InAVate
-      domain: inavateonthenet.net
-    quality: 39
-    images:
-      - url: "https://res.cloudinary.com/iml/image/upload/w_1024,c_scale/c_crop,g_custom/w_1024,c_scale/v1702310161/widgetdocs/EU_Shutterstock_yxfiqk.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "How Cybersecurity Can Build Consumer Trust In Self-Driving Vehicles"
     excerpt: "That said, the cybersecurity industry must solve the other major concern: the protection of these vehicles against cyber threats. This will not only benefit self-driving cars but also vehicles in other classifications—such as autonomous aerial vehicles—as a strengthened blueprint is established and updated along the way."
     publishedDateTime: 2023-12-12T12:15:00Z

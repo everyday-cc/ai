@@ -2,6 +2,289 @@
   "page": 84,
   "value": [
     {
+      "path": "_news/2023-10-11-logic-design-launches-new-ai-assisted-article-writing-service-for-uk-businesses.md",
+      "title": "Logic Design Launches New AI-Assisted Article Writing Service For UK Businesses",
+      "excerpt": "Award-winning website design and digital marketing agency Logic Design has launched ArticleStack, a new AI writing service.Ipswich, England,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/logic-design-launches-new-ai-assisted-article-writing-service-for-uk-businesses-1032694182",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/logic-design-launches-new-ai-assisted-article-writing-service-for-uk-businesses-1032694182",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/mmstudio-images/gallery/KzBywcHSlXNdwbffq9CuqiWMA6E3/1696937870123-0.jpeg",
+          "width": 650,
+          "height": 413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-11T06:24:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-11-shop-owner-installs-ai-cameras-to-beat-shoplifters.md",
+      "title": "Shop owner installs AI cameras to beat shoplifters",
+      "excerpt": "A Surrey business owner has installed facial recognition cameras in his shop following an increase in assaults from regular shoplifters. Danyal Shoaib said he lost £7,000 to theft in a year, while staff at his business in Leatherhead, Surrey, faced an increasing amount of abuse, including racial slurs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/av/uk-england-surrey-67070829",
+      "originalUrl": "https://www.bbc.com/news/av/uk-england-surrey-67070829",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/286C/production/_131384301_p0gkmsz0.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-11T05:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-11-exclusive-self-driving-startup-plus-splits-us-and-china-operations-amid-tensions.md",
+      "title": "Exclusive-Self-Driving Startup Plus Splits US and China Operations Amid Tensions",
+      "excerpt": "Exclusive-Self-Driving Startup Plus Splits US and China Operations Amid Tensions SHANGHAI (Reuters) - Self-driving truck startup Plus has split its Chinese and U.S. operations and struck a deal in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2023-10-11/exclusive-self-driving-startup-plus-splits-us-and-china-operations-amid-tensions",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2023-10-11/exclusive-self-driving-startup-plus-splits-us-and-china-operations-amid-tensions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-11T04:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-11-razorpay-launches-ai-powered-payments-routing-system-optimizer.md",
+      "title": "Razorpay launches AI-powered payments routing system 'Optimizer'",
+      "excerpt": "Full-stack fintech platform Razorpay on Tuesday launched a payment infrastructure -- ‘Optimizer’, an AI-powered payments routing",
+      "sourceUrl": null,
+      "webUrl": "https://glamsham.com/world/technology/razorpay-launches-ai-powered-payments-routing-system-optimizer",
+      "originalUrl": "https://glamsham.com/world/technology/razorpay-launches-ai-powered-payments-routing-system-optimizer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://glamsham.com/wp-content/uploads/2023/10/202310103067125-1020x675.png",
+          "width": 1020,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://glamsham.com/world/technology/razorpay-launches-ai-powered-payments-routing-system-optimizer?amp=1",
+      "cdnAmpWebUrl": "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/razorpay-launches-ai-powered-payments-routing-system-optimizer?amp=1",
+      "publishedDateTime": "2023-10-11T04:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "glamsham.com",
+        "domain": "glamsham.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-11-ai-we-may-not-need-a-new-human-right-to-protect-us-from-decisions-by-algorithms-the-laws-already-exist.md",
+      "title": "AI: we may not need a new human right to protect us from decisions by algorithms – the laws already exist",
+      "excerpt": "There are risks and harms that come with relying on algorithms to make decisions. People are already feeling the impact of doing so. Whether reinforcing racial biases or spreading misinformation, many technologies that",
+      "sourceUrl": null,
+      "webUrl": "https://www.econotimes.com/AI-we-may-not-need-a-new-human-right-to-protect-us-from-decisions-by-algorithms--the-laws-already-exist-1664091",
+      "originalUrl": "https://www.econotimes.com/AI-we-may-not-need-a-new-human-right-to-protect-us-from-decisions-by-algorithms--the-laws-already-exist-1664091",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://f1.econotimes.com/2023/10/mjtzouo7eq_th_1024x0.jpg",
+          "width": 496,
+          "height": 331,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-11T03:37:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EconoTimes",
+        "domain": "econotimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-11-ma-sq-nvei-3-fintech-stocks-wall-streets-pounding-the-table-on.md",
+      "title": "MA, SQ, NVEI: 3 Fintech Stocks Wall Street’s Pounding the Table On",
+      "excerpt": "Though technology stocks have been through rough times in recent years, it’s still worth revisiting some of the market’s top",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ma-sq-nvei-3-fintech-stocks-wall-street-s-pounding-the-table-on-1032694209",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ma-sq-nvei-3-fintech-stocks-wall-street-s-pounding-the-table-on-1032694209",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.tipranks.com/wp-content/uploads/2023/10/image-253-1024x348.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+          "width": 1024,
+          "height": 348,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-11T03:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-11-replit-brings-open-source-ai-developer-tools-to-all-users.md",
       "title": "Replit brings open source AI developer tools to all users",
       "excerpt": "Replit is directly integrating GhostWriter into its core platform and making the generative AI code completion tool available to all of its users.",
@@ -877,50 +1160,7 @@
         "Microsoft AI",
         "AI"
       ]
-    },
-    {
-      "path": "_news/2023-10-11-qualcomm-teases-snapdragon-x-chips-as-ai-pc-battle-heats-up-with-intel-and-amd.md",
-      "title": "Qualcomm Teases Snapdragon X Chips As AI PC Battle Heats Up With Intel And AMD",
-      "excerpt": "Qualcomm said its upcoming Snapdragon X chips for PCs will contain the legally contested custom Oryon CPU design, setting the stage for increased rivalry against Intel and AMD.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/news/components-peripherals/qualcomm-teases-snapdragon-x-chips-as-ai-pc-battle-heats-up-with-intel-and-amd",
-      "originalUrl": "https://www.crn.com/news/components-peripherals/qualcomm-teases-snapdragon-x-chips-as-ai-pc-battle-heats-up-with-intel-and-amd",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crn.com/resources/0286-192f082325ad-5882241986fe-1000/snapdragon.jpg.jpeg",
-          "width": 600,
-          "height": 370,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-10T20:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 85
 }

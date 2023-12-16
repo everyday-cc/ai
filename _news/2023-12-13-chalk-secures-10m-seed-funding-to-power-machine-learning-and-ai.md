@@ -7,7 +7,7 @@ originalUrl: "https://www.joplinglobe.com/region/national_business/chalk-secures
 webUrl: "https://www.joplinglobe.com/region/national_business/chalk-secures-10m-seed-funding-to-power-machine-learning-and-ai/article_5ebab127-751b-51df-a570-708dcfa32ae0.html"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Chalk Secures $10M Seed Funding to Power Machine Learning and AI"
+    excerpt: "SAN FRANCISCO — Chalk, the data platform for machine learning, announced today that it has raised $10 million in seed funding led by General Catalyst, Unusual Ventures, and Xfund. Chalk’s computation layer and LLM toolchain enable world-class teams to ..."
+    publishedDateTime: 2023-12-12T00:00:00Z
+    webUrl: "https://financialpost.com/pmn/business-wire-news-releases-pmn/chalk-secures-10m-seed-funding-to-power-machine-learning-and-ai"
+    type: article
+    provider:
+      name: Financial Post
+      domain: financialpost.com
+    quality: 56
+    images:
+      - url: "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2023/12/bw20231212959060_marc-andy-elliot-chalkboard.jpeg"
+        width: 1000
+        height: 750
+        isCached: true
 
 secured: "zYG8HG/3fTpVFOk/Bd2EcHpTaYKa6pmfcCldolU0lfUE59J99YKPcEtX7etDpziW51blsCxaAGRFCMmIRQOhnTUdNPrMC8S1eNjj0Egui9/iWFYJTO46mW8pbfk4H+uevLrOcaOiaM4OhSuNmrsrEtl76l34oQjh0DxZ7P4j/FuXwpO57RQQzUrC2qvSBjTtnR4Yk2mHhyj+UzK4PR1xolIa1IcvfYcOYA1nLCRGTovMgBv7E33W9HM2c+C73PZbQosInMnwxRBIvsr+kxlHLcLUT5Dd52wo88DLDCDmWmjLM8Mup/hEKYjW8O3j/jJiQV53ffk41us5DQYbafe+V4G5iUE/Yc3NapD4vovBiLQozjzJufY0Vl2mEgKWxtpzo47eTwa9XEJyqSzwX9xv5csY0pvGL6MGyX+FLUYsl6eGBP85RwNMi+DcsV/KbIIzQqoDMB19qCrZhymWMxG/xqh0KiyZg9SHCpJVx/CeWpDGL42+gLZu+Canax2YHRLDJel2rB9Nhdp/DGdO9r1foQ==;P+zGi8uhzGMt3LsL0K3EOA=="
 ---

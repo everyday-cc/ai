@@ -47,6 +47,15 @@ related:
         width: 656
         height: 656
         isCached: true
+  - title: "Atomic AI Creates First Large Language Model Using Chemical Mapping Data to Optimize RNA Therapeutic Development"
+    excerpt: "Atomic AI, a biotechnology company fusing cutting-edge machine learning with state-of-the-art structural biology to unlock RNA drug discovery, announc"
+    publishedDateTime: 2023-12-15T13:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231215527488/en/Atomic-AI-Creates-First-Large-Language-Model-Using-Chemical-Mapping-Data-to-Optimize-RNA-Therapeutic-Development"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "NJXh9EH6A3J4Zv0HTRJgA7Lxvabcgvv7nvTosvtkU6YUjh79j0c7B48cg8R6zeY9depZdvWfA5XXXBwbaL3dsryg/Fi963e6nr9xo3FGXGgxXeKLmbL4pVaKyn4pdFipbL9PLmAI4pb00OwA7yBk+s+rfyGAK43aSdnC6BTHuFBdjpT8Ph2OY0iurcVnUXeLF10Cti5/WHNxV/Ss+0Brx2gOfs2+83gHvqGPZ0f0u+VhVZSQSSTfziOH2I5Pu3RY4Q0hUpgTt3EAvSLezPhW8JcfVswNTeuW4favjPrUkQbV2QzxqYvvo0o0UdkWvF6/qMxMEDEvTqFzPLZ/COz0wtpvFP/AQaRJmjLQG5nYsU0=;nHpxImTiRxfLN1mcjoCpww=="
 ---

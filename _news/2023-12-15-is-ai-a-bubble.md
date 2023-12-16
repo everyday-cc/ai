@@ -44,17 +44,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "Part 2: Expert Predictions For Artificial Intelligence in 2024"
-    excerpt: "In Part 1, experts and startup founders offered many different insights and predictions. More experts have weighed in and made their predictions on the future of artificial intelligence, a tool that h"
-    publishedDateTime: 2023-12-11T16:45:00Z
-    webUrl: "https://techround.co.uk/tech/part-2-expert-predictions-artificial-intelligence-2024/"
-    ampWebUrl: "https://techround.co.uk/tech/part-2-expert-predictions-artificial-intelligence-2024/amp/"
-    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/tech/part-2-expert-predictions-artificial-intelligence-2024/amp/"
-    type: article
-    provider:
-      name: TechRound
-      domain: techround.co.uk
-    quality: 39
 
 secured: "ghg3PbXFV/zemqYtlzPkzGbInL0m80Q0QaV6I7q7YANedzOVfzDLW2g13hHzzyRCUt0r9LZsLA2mJPZvSyfyRuBD9yt3fbyhQiQjGt1AtgyaSd3davf1nYAGaEIEgqj9ZUbBTpRdeUld50x1AqnepuzYrDjHGus9VJegChiLwOmbles/YI7syDkvxA1NMt236luk5g+DNPELvzWUuWvoy88EBDGNcygmRCr0/48BdQEmdBCjS/tW0OiRT20eYwHd7MyL3YRLNoTwCVNDKzfGYXB1FEHUPvlxTN6/r6vHWEdpVFBzCnA14tzEJ8i8aZN49N33cDQIi8OJEdzb4THaHuI9drG2RN+waExvusDoX3Y=;QxcC45ZoaFO6PfxOwJywBw=="
 ---

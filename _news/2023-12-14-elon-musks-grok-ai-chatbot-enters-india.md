@@ -87,20 +87,6 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 38
-  - title: "Elon Musk was mocked by his new AI-powered chatbot"
-    excerpt: "Aravind Srinivas, boss of Perplexity AI, asked Elon Musk's chatbot to \"roast\" its creator — and Grok didn't hold back. The chatbot called the Tesla and X"
-    publishedDateTime: 2023-12-11T16:27:00Z
-    webUrl: "https://rollingout.com/2023/12/11/elon-musk-new-ai-powered-chatbot/"
-    type: article
-    provider:
-      name: Rolling Out
-      domain: rollingout.com
-    quality: 37
-    images:
-      - url: "https://rollingout.com/wp-content/uploads/2023/12/1650967619cropped3474x2605.jpg"
-        width: 1000
-        height: 650
-        isCached: true
   - title: "Google proposes Project Ellmann, a chatbot that intimately knows you"
     excerpt: "While Google is busy integrating its generative AI model Gemini into Pixel, Bard, and other existing products, developers are proposing an entirely new one, codenamed Project Ellmann. Ellmann aims to grab a \"bird's-eye view\" of users' lives by looking at ..."
     publishedDateTime: 2023-12-11T17:21:00Z

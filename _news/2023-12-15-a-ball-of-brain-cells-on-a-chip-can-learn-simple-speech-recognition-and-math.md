@@ -7,8 +7,8 @@ originalUrl: "https://singularityhub.com/2023/12/14/a-ball-of-brain-cells-on-a-c
 webUrl: "https://singularityhub.com/2023/12/14/a-ball-of-brain-cells-on-a-chip-can-learn-simple-speech-recognition-and-math/"
 type: article
 quality: 65
-heat: -1
-published: false
+heat: 95
+published: true
 
 provider:
   name: Singularity Hub
@@ -21,36 +21,6 @@ topics:
   - Math for AI
 
 related:
-  - title: "Human brain cells hooked up to a chip can do speech recognition"
-    excerpt: "Brain organoids, clumps of human brain cells grown in a dish, can be hooked up to an electronic chip and carry out simple computational tasks, a new study shows. Feng Guo and his"
-    publishedDateTime: 2023-12-11T16:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/12/11/1084926/human-brain-cells-chip-organoid-speech-recognition/"
-    ampWebUrl: "https://www.technologyreview.com/2023/12/11/1084926/human-brain-cells-chip-organoid-speech-recognition/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/11/1084926/human-brain-cells-chip-organoid-speech-recognition/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 91
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/12/organoid-compute2.jpg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
-  - title: "AI made from living human brain cells performs speech recognition"
-    excerpt: "A biocomputing system consisting of living brain cells learned to recognise the voice of one individual from hundreds of sound clips"
-    publishedDateTime: 2023-12-11T16:12:00Z
-    webUrl: "https://www.newscientist.com/article/2407768-ai-made-from-living-human-brain-cells-performs-speech-recognition/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 56
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/12/11134744/SEI_183665108.jpg"
-        width: 1350
-        height: 900
-        isCached: true
   - title: "Computers with Brains? Brain Tissue on a Chip Achieves Voice Recognition"
     excerpt: "Reportedly, after a brief training period, Brainoware was able to distinguish between the voices of eight subjects with an accuracy rate of 78%. It was also able to successfully predict a Henon map (a mathematical construct) with greater accuracy than an artificial network."
     publishedDateTime: 2023-12-15T08:00:00Z

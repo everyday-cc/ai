@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/mistral-shocks-ai-community-as-latest-o
 webUrl: "https://venturebeat.com/ai/mistral-shocks-ai-community-as-latest-open-source-model-eclipses-gpt-3-5-performance/"
 type: article
 quality: 60
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Why Artificial Intelligence Requires High-Performance Computing"
+    excerpt: "Traditional data center technology isn’t powerful enough for ambitious AI projects, so businesses are adding clusters of graphic processing units."
+    publishedDateTime: 2023-12-11T21:26:00Z
+    webUrl: "https://biztechmagazine.com/article/2023/12/why-artificial-intelligence-requires-high-performance-computing"
+    ampWebUrl: "https://biztechmagazine.com/article/2023/12/why-artificial-intelligence-requires-high-performance-computing?amp"
+    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2023/12/why-artificial-intelligence-requires-high-performance-computing?amp"
+    type: article
+    provider:
+      name: BizTech
+      domain: biztechmagazine.com
+    quality: 57
+    images:
+      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202312/GettyImages-1407937651_0.jpg?itok=zX9KqBxL"
+        width: 1440
+        height: 500
+        isCached: true
   - title: "New French AI model makes waves by matching GPT-3.5 on benchmarks"
     excerpt: "Mistral AI announced a new AI language model called Mixtral 8x7B, a \"mixture of experts\" (MoE) model with open weights that reportedly truly matches OpenAI's GPT-3.5 in performance—an achievement that has been claimed by others in the past but is being taken seriously by AI heavyweights such as OpenAI's Andrej Karpathy and Jim Fan."
     publishedDateTime: 2023-12-12T20:16:00Z

@@ -2,6 +2,229 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2023-11-14-how-facebook-went-all-in-on-ai.md",
+      "title": "How Facebook went all in on AI",
+      "excerpt": "Inside Facebook and the Fight to Expose its Harmful Secrets, Jeff Horwitz reveals how the company came to rely on artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2023/11/14/1083336/how-facebook-went-all-in-on-ai/",
+      "originalUrl": "https://www.technologyreview.com/2023/11/14/1083336/how-facebook-went-all-in-on-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/11/horwitz-cover.jpg?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2023/11/14/1083336/how-facebook-went-all-in-on-ai/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/11/14/1083336/how-facebook-went-all-in-on-ai/amp/",
+      "publishedDateTime": "2023-11-14T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-14-the-squishy-robot-that-walks-the-pros-and-cons-of-ai-seeing-things-that-we-dont.md",
+      "title": "The Squishy Robot That Walks: The Pros and Cons of AI Seeing Things That We Don’t",
+      "excerpt": "An AI built a robot that can walk in a way we can't comprehend. This is a genie in a box that poses incredible opportunities — and risks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techopedia.com/the-squishy-robot-that-walks-the-pros-and-cons-of-ai-seeing-things-that-we-dont",
+      "originalUrl": "https://www.techopedia.com/the-squishy-robot-that-walks-the-pros-and-cons-of-ai-seeing-things-that-we-dont",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T10:36:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Techopedia",
+        "domain": "techopedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-14-pittsburgh-robotics-discovery-day-promises-human-centered-exhibits-of-ai-robotics.md",
+      "title": "‘Pittsburgh Robotics Discovery Day’ promises ‘human-centered’ exhibits of AI, robotics",
+      "excerpt": "Pittsburgh Robotics Discovery Day is scheduled for this Thursday at the David L. Lawrence Convention Center. Organizers of this year's event promise nearly 130-thousand square feet of \"human-centered\" robotics,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wesa.fm/economy-business/2023-11-14/second-pittsburgh-robotics-discovery-day",
+      "originalUrl": "https://www.wesa.fm/economy-business/2023-11-14/second-pittsburgh-robotics-discovery-day",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://npr.brightspotcdn.com/dims4/default/742fb88/2147483647/strip/true/crop/5760x3024+0+372/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa6%2F7f%2F897b385144978dcbae2a9237703e%2Fdd9.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T10:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WESA",
+        "domain": "wesa.fm",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-14-pioneering-ai-innovation-from-rws-offers-near-human-quality-translation.md",
+      "title": "Pioneering AI innovation from RWS Offers Near Human-Quality Translation",
+      "excerpt": "As a linguistic AI platform, Language Weaver provides highly accurate, real-time translation across more than 3,500 language combinations. About RWS RWS Holdings plc is a unique, world-leading ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20231114970714/en/Pioneering-AI-innovation-from-RWS-Offers-Near-Human-Quality-Translation",
+      "originalUrl": "https://www.businesswire.com/news/home/20231114970714/en/Pioneering-AI-innovation-from-RWS-Offers-Near-Human-Quality-Translation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T09:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-14-israeli-startup-gets-new-fda-okay-for-ai-led-diabetes-therapy.md",
+      "title": "Israeli Startup Gets New FDA Okay For AI-Led Diabetes Therapy",
+      "excerpt": "An Israeli startup that uses AI to help manage diabetic treatments has received a fifth clearance from the FDA",
+      "sourceUrl": null,
+      "webUrl": "https://nocamels.com/2023/11/israeli-startup-gets-new-fda-okay-for-ai-led-diabetes-therapy/",
+      "originalUrl": "https://nocamels.com/2023/11/israeli-startup-gets-new-fda-okay-for-ai-led-diabetes-therapy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T08:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NoCamels - Israeli Innovation News",
+        "domain": "nocamels.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-14-nvidia-announces-new-h200-gpu-for-high-speed-data-processing-and-ai-model-training.md",
+      "title": "Nvidia Announces New H200 GPU for High-Speed Data Processing and AI Model Training",
+      "excerpt": "Nvidia has unveiled the H200 chips, which is a significant improvement from H100, and is expected to be available from Q2 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://www.coinspeaker.com/nvidia-h200-gpu-data-ai/",
+      "originalUrl": "https://www.coinspeaker.com/nvidia-h200-gpu-data-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T07:47:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "coinspeaker",
+        "domain": "coinspeaker.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-14-whats-the-smart-way-of-moving-forward-with-artificial-intelligence.md",
       "title": "What’s the smart way of moving forward with artificial intelligence?",
       "excerpt": "AI and in particular generative AI has the potential to be transformative. Following on from the mass cloud adoption of the last fifteen years it’s the next evolution of how we use technology. How can organisations operationalise it to deliver business benefits?",
@@ -709,239 +932,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-nvidia-introduces-the-h200-an-ai-crunching-monster-gpu-that-may-speed-up-chatgpt.md",
-      "title": "Nvidia introduces the H200, an AI-crunching monster GPU that may speed up ChatGPT",
-      "excerpt": "According to Nvidia, the H200 is the first GPU to offer HBM3e memory. Thanks to HBM3e, the H200 offers 141GB of memory and 4.8 terabytes per second bandwidth, which Nvidia says is 2.4 times the memory bandwidth of the Nvidia A100 released in 2020. (Despite the A100's age, it's still in high demand due to shortages of more powerful chips.)",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/11/nvidia-introduces-its-most-powerful-gpu-yet-designed-for-accelerating-ai/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/11/nvidia-introduces-its-most-powerful-gpu-yet-designed-for-accelerating-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/nvidia_h200_hero_2-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/11/nvidia-introduces-its-most-powerful-gpu-yet-designed-for-accelerating-ai/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/11/nvidia-introduces-its-most-powerful-gpu-yet-designed-for-accelerating-ai/amp/",
-      "publishedDateTime": "2023-11-13T21:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-messagepoint-announces-generative-ai-capabilities-for-translation-and-plain-language-rewrites.md",
-      "title": "Messagepoint Announces Generative AI Capabilities for Translation and Plain Language Rewrites",
-      "excerpt": "Messagepoint announced today enhancements to its generative AI capabilities to further support organizations in creating communications that are easy",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20231113551183/en/Messagepoint-Announces-Generative-AI-Capabilities-for-Translation-and-Plain-Language-Rewrites/",
-      "originalUrl": "https://www.businesswire.com/news/home/20231113551183/en/Messagepoint-Announces-Generative-AI-Capabilities-for-Translation-and-Plain-Language-Rewrites/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T21:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-silo-ai-unveils-poro-a-new-open-source-language-model-for-europe.md",
-      "title": "Silo AI unveils Poro, a new open source language model for Europe",
-      "excerpt": "Poro is designed to address the core challenge of training performant natural language models for lower-resourced European languages.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/silo-ai-unveils-poro-a-new-open-source-language-model-for-europe/",
-      "originalUrl": "https://venturebeat.com/ai/silo-ai-unveils-poro-a-new-open-source-language-model-for-europe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T21:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-biostrand-unveils-a-revolutionary-approach-to-biological-sequence-retrieval-a-fusion-of-natural-language-processing-and-database-research.md",
-      "title": "BioStrand® Unveils a Revolutionary Approach to Biological Sequence Retrieval: A Fusion of Natural Language Processing and Database Research",
-      "excerpt": "“New Paradigm for Biological Sequence Retrieval Inspired by Natural Language Processing and Database Research” on bioRχiv. We apologize, but this video has failed to load. Try refreshing your browser, or tap here to see other videos from our tea",
-      "sourceUrl": null,
-      "webUrl": "https://financialpost.com/pmn/business-wire-news-releases-pmn/biostrand-unveils-a-revolutionary-approach-to-biological-sequence-retrieval-a-fusion-of-natural-language-processing-and-database-research",
-      "originalUrl": "https://financialpost.com/pmn/business-wire-news-releases-pmn/biostrand-unveils-a-revolutionary-approach-to-biological-sequence-retrieval-a-fusion-of-natural-language-processing-and-database-research",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T21:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Post",
-        "domain": "financialpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-nvidias-h200-gpu-is-a-milestone-in-ai-technology.md",
-      "title": "Nvidia’s H200 GPU is a Milestone in AI Technology",
-      "excerpt": "In a significant leap forward for artificial intelligence and computing, Nvidia has unveiled the H200 GPU, marking a new era in the field of generative AI. This cutting-edge graphics processing unit emerges as an upgrade to its predecessor,",
-      "sourceUrl": null,
-      "webUrl": "https://www.unite.ai/nvidias-h200-gpu-is-a-milestone-in-ai-technology/",
-      "originalUrl": "https://www.unite.ai/nvidias-h200-gpu-is-a-milestone-in-ai-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T20:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "unite",
-        "domain": "unite.ai",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-cook-welcoming-remarks-at-the-5th-annual-conference-on-nontraditional-data-machine-learning-and-natural-language-processing-in.md",
-      "title": "Cook: Welcoming Remarks at the 5th Annual Conference on \"Nontraditional Data, Machine Learning, and Natural Language Processing in",
-      "excerpt": "Good morning, and welcome to the 5th annual conference on \"Nontraditional Data, Machine Learning, and Natural Language Processing in Macroeconomics.\"1 In a world with evolving data sources and significant advances in computing,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forexfactory.com/news/1252007-cook-welcoming-remarks-at-the-5th-annual-conference",
-      "originalUrl": "https://www.forexfactory.com/news/1252007-cook-welcoming-remarks-at-the-5th-annual-conference",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T19:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forex Factory",
-        "domain": "forexfactory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

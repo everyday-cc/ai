@@ -25,65 +25,30 @@ images:
     isCached: true
 
 related:
-  - title: "US in talks with Nvidia about AI chip sales to China - Raimondo"
-    excerpt: "U.S. Commerce Secretary Gina Raimondo, speaking in an interview with Reuters on Monday, said Nvidia \"can, will and should sell AI chips to China because most AI chips will be for commercial applications.\" She added: \"What we cannot allow them to ship is ..."
-    publishedDateTime: 2023-12-11T14:39:00Z
-    webUrl: "https://www.aol.com/us-talks-nvidia-ai-chip-194051279.html"
-    ampWebUrl: "https://www.aol.com/amphtml/us-talks-nvidia-ai-chip-194051279.html"
-    cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/us-talks-nvidia-ai-chip-194051279.html"
+  - title: "Nvidia contemplates Intel as potential manufacturing partner for GPU and AI chips"
+    excerpt: "Nvidia GPUs held more than 70 percent of the data center processor market share in the latest quarter, with the majority of chips being manufactured by"
+    publishedDateTime: 2023-12-11T20:00:00Z
+    webUrl: "https://www.techspot.com/news/101160-nvidia-contemplates-intel-potential-manufacturing-partner-gpu-ai.html"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 91
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/dc475dc621777cd3ecb3464d53261b9e"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "U.S. discusses AI Chip sales to China with Nvidia, says Raimondo"
-    excerpt: "The U.S. government is currently in talks with NVIDIA (NVDA) regarding the conditions under which it can sell AI chips to China. The administration has made it clear that Nvidia (NASDAQ: NVDA) is not allowed to export its most sophisticated semiconductors to Chinese companies."
-    publishedDateTime: 2023-12-11T20:36:00Z
-    webUrl: "https://au.investing.com/news/stock-market-news/us-discusses-ai-chip-sales-to-china-with-nvidia-says-raimondo-432SI-3060981"
-    ampWebUrl: "https://m.au.investing.com/news/stock-market-news/us-discusses-ai-chip-sales-to-china-with-nvidia-says-raimondo-432SI-3060981?ampMode=1"
-    cdnAmpWebUrl: "https://m-au-investing-com.cdn.ampproject.org/c/s/m.au.investing.com/news/stock-market-news/us-discusses-ai-chip-sales-to-china-with-nvidia-says-raimondo-432SI-3060981?ampMode=1"
+      name: TechSpot
+      domain: techspot.com
+    quality: 74
+  - title: "Apple Silicon M3 Pro blows away Nvidia RTX 4090 GPU in AI benchmark"
+    excerpt: "In contrast, a MacBook with 16 M1 GPU cores shows a much smaller increase in power usage when active compared to its idle state, with a difference of just 38 watts. The results highlight Apple's gains in AI and machine learning capabilities and could be ..."
+    publishedDateTime: 2023-12-13T00:00:00Z
+    webUrl: "https://appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark"
+    ampWebUrl: "https://appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark/amp/"
     type: article
     provider:
-      name: Investing
-      domain: investing.com
-    quality: 91
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 74
     images:
-      - url: "https://i-invdn-com.investing.com/news/moved_LYNXMPEHAH0WT_L.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "China chip firms vie to take sales from Nvidia"
-    excerpt: "Chinese chip designers including Tencent Holdings are aggressively pitching their AI chips as alternatives to Nvidia's, hoping U.S. export restrictions will prompt clients to switch, said four people familiar with such discussions. Julian Satterthwaite reports."
-    publishedDateTime: 2023-12-12T10:56:00Z
-    webUrl: "https://www.reuters.com/video/watch/idRW515412122023RP1?ref=upstract.com"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 86
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20231212&i=RW515412122023RP1&r=RW515412122023RP1&t=2"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "Nvidia in talks with Biden administration about AI chip sales to China, US commerce chief Gina Raimondo says"
-    excerpt: "The US commerce chief says she spoke a week ago to Nvidia CEO Jensen Huang and he made it clear that the company did not want to ‘break the rules’."
-    publishedDateTime: 2023-12-12T02:16:00Z
-    webUrl: "https://www.scmp.com/tech/tech-war/article/3244739/nvidia-talks-biden-administration-about-ai-chip-sales-china-us-commerce-chief-gina-raimondo-says"
-    type: article
-    provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 82
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/12/12/e4ac781b-b08e-4c08-827f-c4eac7051fcd_6b56a99a.jpg?itok=ajUAG_eF&v=1702347213"
-        width: 1200
-        height: 630
+      - url: "https://photos5.appleinsider.com/gallery/57700-117522-graph-xl.jpg"
+        width: 1312
+        height: 800
         isCached: true
   - title: "Apple Silicon M3 Pro competes with Nvidia RTX 4090 GPU in AI benchmark [u]"
     excerpt: "In a recent test of Apple's MLX machine learning framework, a benchmark shows how the new Apple Silicon Macs compete with Nvidia's RTX 4090."
@@ -101,47 +66,21 @@ related:
         width: 1312
         height: 800
         isCached: true
-  - title: "US in talks with Nvidia about AI chip sales to China: Gina Raimondo"
-    excerpt: "U.S. Commerce Secretary Gina Raimondo, speaking in an interview with Reuters on Monday, said Nvidia \"can, will and should sell AI chips to China because most AI chips will be for commercial applications."
-    publishedDateTime: 2023-12-12T01:21:00Z
-    webUrl: "https://www.moneycontrol.com/news/world/us-in-talks-with-nvidia-about-ai-chip-sales-to-china-gina-raimondo-11889281.html"
+  - title: "Intel Core Ultra Meteor Lake Mobile CPUs Launch With Gaming Grade iGPU And AI Brawn"
+    excerpt: "If you're reading this website right now, we probably don't have to explain to you that Intel's new Core Ultra processors launching today were codenamed Meteor Lake, and that they represent not only Intel's first \"disaggregated\" CPUs built from disparate tiles,"
+    publishedDateTime: 2023-12-14T14:00:00Z
+    webUrl: "https://hothardware.com/news/intel-core-ultra-mtl-launch"
+    ampWebUrl: "https://amp.hothardware.com/news/intel-core-ultra-mtl-launch"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/intel-core-ultra-mtl-launch"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 71
+      name: HotHardware
+      domain: hothardware.com
+    quality: 68
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/09/Nvidia-770x433.jpg"
-        width: 770
-        height: 433
-        isCached: true
-  - title: "US in talks with Nvidia about AI chip sales to China: commerce secretary"
-    excerpt: "\"What we cannot allow them (Nvidia) to ship is the most sophisticated, highest-processing power AI chips, which would enable China to train their frontier models,\" US Commerce Secretary Gina Raimondo said."
-    publishedDateTime: 2023-12-12T01:57:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/us-in-talks-with-nvidia-about-ai-chip-sales-to-china-commerce-secretary/articleshow/105916634.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 70
-    images:
-      - url: "https://img.etimg.com/thumb/msid-105916640,width-1200,height-630,imgsize-101486,overlay-ettech/photo.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Chip Stocks Are Surging, but Nvidia Is Missing It"
-    excerpt: "It’s a big day for chip stocks, but the year’s top-performer is suddenly lagging. The PHLX Semiconductor index advanced more than 2% on Monday morning. Broadcom was up more than 6%, the S&P 500’s second-best performer."
-    publishedDateTime: 2023-12-11T16:15:00Z
-    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-12-11-2023/card/chip-stocks-are-surging-but-nvidia-is-missing-it-s1Qwg9eaQQEoG9W9QwM0"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 69
-    images:
-      - url: "https://images.wsj.net/im-898705?width=600"
-        width: 600
-        height: 800
+      - url: "https://images.hothardware.com/contentimages/newsitem/63353/content/hero-intel-core-ultra.jpg"
+        width: 708
+        height: 398
         isCached: true
   - title: "Intel Unveils New AI Chips to Rival Nvidia’s Dominance in AI Industry, INTC Stock Up 1%"
     excerpt: "Dubbed Gaudi3, Intel intends to attract generative AI companies like OpenAI away from Nvidia and bolster its stock market performance."
@@ -159,163 +98,104 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Essential AI emerges from stealth with backing from Google, Nvidia and AMD"
-    excerpt: "Essential AI says the products would make data analysts 10x faster and give business users the ability to become data-driven decision-makers."
-    publishedDateTime: 2023-12-12T16:46:00Z
-    webUrl: "https://venturebeat.com/ai/essential-ai-emerges-from-stealth-with-backing-from-google-nvidia-and-amd/"
+  - title: "Intel Releases Core Ultra, Arc GPUs for Bringing AI to Every PC"
+    excerpt: "Pat Gelsinger at the AI Everywhere event announced the company’s partnership with Dell, HP, Lenovo, Supermicro, and Microsoft."
+    publishedDateTime: 2023-12-14T15:48:00Z
+    webUrl: "https://analyticsindiamag.com/intel-aims-to-make-every-pc-an-ai-pcintel-releases-core-ultra-arc-gpus-for-bringing-ai-to-every-pc/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 65
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/12/ashish_vaswani_and_niki_parmar__essential_ai___andrew_gessler_-_1.jpg?fit=750%2C500&#038;strip=all"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "US: Nvidia can sell AI chips to China, just not the best ones"
-    excerpt: "A smartphone with a displayed NVIDIA logo is placed on a computer motherboard in this illustration taken March 6, 2023. [Photo/Agencies] Nvidia can sell artificial intelligence chips to China, but just not \"the most sophisticated ones\","
-    publishedDateTime: 2023-12-12T03:43:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202312/12/WS6577d1f4a31040ac301a7559.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
     quality: 54
     images:
-      - url: "https://img2.chinadaily.com.cn/images/202312/12/6577d1f4a31040acaf8272a1.jpeg"
-        width: 1078
-        height: 718
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/12/Screenshot-2023-12-14-at-8.49.55-PM-1300x721.png"
+        width: 1300
+        height: 721
         isCached: true
-  - title: "US Walks Back Stern Warning To NVIDIA Over China-Bound AI Chips"
-    excerpt: "Potential buyers of NVIDIA's GeForce RTX 4090 can breathe a slight sigh of relief with news of leniency towards the GPU designer's AI GPUs. Why is that? Whe"
-    publishedDateTime: 2023-12-12T14:15:00Z
-    webUrl: "https://hothardware.com/news/us-walks-back-stern-warning-to-nvidia-over-china"
+  - title: "NVIDIA AI GPU shipments expected to surge 150% year-over-year in 2024"
+    excerpt: "Analyst expects NVIDIA AI GPU shipments to surge another 150% year-over-year in 2024, led by the new H200 GPU and next-gen Blackwell B100 GPUs."
+    publishedDateTime: 2023-12-14T01:02:00Z
+    webUrl: "https://www.tweaktown.com/news/94956/nvidia-ai-gpu-shipments-expected-to-surge-150-year-over-in-2024/index.html"
     type: article
     provider:
-      name: HotHardware
-      domain: hothardware.com
+      name: TweakTown
+      domain: tweaktown.com
     quality: 54
     images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/63327/content/rog.jpg"
-        width: 708
-        height: 399
+      - url: "https://static.tweaktown.com/news/9/4/94956_115_nvidia-ai-gpu-shipments-expected-to-surge-150-year-over-in-2024_full.png"
+        width: 1500
+        height: 857
         isCached: true
-  - title: "Gina Raimondo on Permissible Sale of Nvidia’s AI Chips to China"
-    excerpt: "Looking for the latest Government Contracting News? Read about Gina Raimondo on Permissible Sale of Nvidia's AI Chips to China."
-    publishedDateTime: 2023-12-12T21:37:00Z
-    webUrl: "https://executivegov.com/2023/12/gina-raimondo-on-permissible-sale-of-nvidias-ai-chips-to-china/"
+  - title: "How Intel's new AI-focused PC chips compare with Apple M3"
+    excerpt: "The Intel Core Ultra supports up to 64GB of LPDDR5/LPDDR5X RAM or up to 96GB of DDR5 RAM. However, Apple M3 Max provides up to 128GB of unified memory. Thunderbolt 4 connectivity for speeds of 40Gbps applies to both. While Apple M3 Max supports Wi-Fi 6E standards, Intel chips can handle discrete Intel Wi-Fi 7 connectivity."
+    publishedDateTime: 2023-12-15T10:06:00Z
+    webUrl: "https://www.newsbytesapp.com/news/science/intel-core-ultra-meteor-lake-vs-apple-m3-chip/story"
     type: article
     provider:
-      name: Executive Gov
-      domain: executivegov.com
+      name: newsbytesapp.com
+      domain: newsbytesapp.com
     quality: 54
     images:
-      - url: "https://em-graphics.s3.us-west-2.amazonaws.com/archintel-media/1d50c3e6-2b9f-4f8d-b122-449e8759d95d.png"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Intel announces a new AI chip to compete with Nvidia and AMD"
-    excerpt: "Intel Corporation unveiled the Gaudi3 accelerator on Thursday. It also announced Core Ultra and 5th gen Xeon server chip today."
-    publishedDateTime: 2023-12-14T17:25:00Z
-    webUrl: "https://invezz.com/news/2023/12/14/intel-new-ai-chip-compete-nvidia-amd/"
-    type: article
-    provider:
-      name: Invezz
-      domain: invezz.com
-    quality: 54
-    images:
-      - url: "https://invezz.com/wp-content/uploads/2023/08/108349122-m-normal-none-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "US in talks with Nvidia about AI chip sales to China"
-    excerpt: "The California-based artificial intelligence chip designer has commanded more than 90% share of China’s US$7 billion AI chip market, but analysts have said new US curbs on chip exports are likely to create opportunities for Chinese rivals to make inroads."
-    publishedDateTime: 2023-12-11T22:37:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/business/2023/12/12/us-in-talks-with-nvidia-about-ai-chip-sales-to-china/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 51
-  - title: "Intel Drops New Core Ultra Processors and Gaudi3 AI Chip to Take on Nvidia and AMD"
-    excerpt: "Intel launches Core Ultra processors and Gaudi3 AI chip to compete with Nvidia and AMD. Core Ultra line features chiplet design, neural processing unit, and specialized AI components for enhanced performance."
-    publishedDateTime: 2023-12-16T10:47:00Z
-    webUrl: "https://www.technobezz.com/news/intel-drops-new-core-ultra-processors-and-gaudi3-ai-chip-to-take-on-nvidia-and-amd/"
-    type: article
-    provider:
-      name: Technobezz.com
-      domain: technobezz.com
-    quality: 48
-    images:
-      - url: "https://cdn.technobezz.com/c/intel_core_ultra_holthaus_jpg_rendition_intel_web_1648_927_d97184be91/intel_core_ultra_holthaus_jpg_rendition_intel_web_1648_927_d97184be91.jpg"
-        width: 1102
-        height: 927
-        isCached: true
-  - title: "Intel’s new chip Gaudi3 competes with Nvidia and AMD"
-    excerpt: "Intel launched a range of new products, including Gaudi3, a chip for generative AI software, Core Ultra, a chip for Windows laptops and PCs, and Xeon, a chip for servers."
-    publishedDateTime: 2023-12-15T02:52:00Z
-    webUrl: "https://interestingengineering.com/innovation/intels-new-chip-gaudi3-competes-with-nvidia-and-amd"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/12/15/image/jpeg/wYkj6XdZYwfk4JfVqMMfH13lZNZ5vQC6qujPEM9v.jpg"
+      - url: "https://i.cdn.newsbytesapp.com/images/l99420231215153414.jpeg"
         width: 1920
-        height: 1080
+        height: 1081
         isCached: true
-  - title: "Nvidia chucking money at AI"
-    excerpt: "Nvidia has become one of the most prolific investors in AI start-ups this year as it tries to capitalise on its position as the dominant provider of AI processors. The chipmaker announced that it has invested in \"more than two dozen\" companies this year ..."
-    publishedDateTime: 2023-12-12T00:00:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/58094-nvidia-chucking-money-at-ai"
+  - title: "Intel stock hits a fresh 52-week high after saying its new AI chip tops Nvidia's H100"
+    excerpt: "At 11:00 EDT (16:00 GMT), Intel stock was up about 4% on the day, hitting a new 52-week high."
+    publishedDateTime: 2023-12-14T16:46:00Z
+    webUrl: "https://za.investing.com/news/intel-stock-hits-a-fresh-52week-high-after-saying-its-new-ai-chip-tops-nvidias-h100-432SI-2958248"
     type: article
     provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 37
+      name: Investing
+      domain: investing.com
+    quality: 47
     images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/e419c901bd7c1e26d7fe2d7de998fa93_L.jpg"
-        width: 620
-        height: 465
+      - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
+        width: 251
+        height: 282
         isCached: true
-  - title: "China Firms Rush to Poach Nvidia Clients With AI Chip Offerings"
-    excerpt: "Chinese chip designers are rushing to chip away Nvidia’s market share at home with their own artificial intelligence (AI)-focused offerings."
-    publishedDateTime: 2023-12-11T20:04:00Z
-    webUrl: "https://cbonds.com/news/2625007/"
+  - title: "Intel debuts AI-accelerated Core Ultra and 5th Gen Xeon chips to enable AI to run in any location"
+    excerpt: "Intel debuts AI-accelerated Core Ultra and 5th Gen Xeon chips to enable AI to run in any location - SiliconANGLE"
+    publishedDateTime: 2023-12-14T15:00:00Z
+    webUrl: "https://siliconangle.com/2023/12/14/intel-debuts-ai-accelerated-core-ultra-5th-gen-xeon-chips-will-enable-ai-run-location/"
     type: article
     provider:
-      name: Cbonds
-      domain: cbonds.com
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 41
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/Intel-Core-Ultra-2.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
+  - title: "Samsung Galaxy Book 4 with Intel Power SoC & NVIDIA GeForce RTX 4070 GPU Launched"
+    excerpt: "Korean giant, Samsung has finally launched its new premium laptop, the Galaxy Book 4 series powered with Intel Power CPU & NVIDIA GeForce RTX 407 GPU."
+    publishedDateTime: 2023-12-15T12:09:00Z
+    webUrl: "https://techstory.in/samsung-galaxy-book-4-with-intel-power-soc-nvidia-geforce-rtx-4070-gpu-launched/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
     quality: 34
-  - title: "Nvidia talks to U.S. about its new AI chips for China"
-    excerpt: "\"They want to do the right thing,\" the Commerce secretary said of Nvidia. \"Obviously they want to sell as many chips as possible.\""
-    publishedDateTime: 2023-12-12T14:20:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2023/12/12/nvidia-talks-to-us-about-its-new-ai-chips-for-ch.html"
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2023/12/Simranpal-Singh.jpeg"
+        width: 1280
+        height: 960
+        isCached: true
+  - title: "Nvidia, AMD back $56.5M round for Essential AI Labs, led by Transformer architecture co-inventors"
+    excerpt: "Nvidia, AMD back $56.5M round for Essential AI Labs, led by Transformer architecture co-inventors - SiliconANGLE"
+    publishedDateTime: 2023-12-13T00:03:00Z
+    webUrl: "https://siliconangle.com/2023/12/12/nvidia-amd-back-56-5m-round-essential-ai-labs-led-transformer-architecture-co-inventors/"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 34
-  - title: "Beyond The Likes of Nvidia Corp and AMD, Chip Market Troubles Pose Threats After AI Euphoria"
-    excerpt: "Philadelphia Stock Exchange Semiconductor Index laggard Texas Instruments Inc., down 5.6% this year, has one of the broadest ranges of customers and products across the chip business. It said the key industrial market got weaker in the third quarter, contracting about 5%. Revenue related to communications components dropped more than 10%."
-    publishedDateTime: 2023-12-11T13:13:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/beyond-the-likes-of-nvidia-corp-and-amd-chip-market-troubles-pose-threats-after-ai-euphoria-71701965487763.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 23
-  - title: "How Nvidia approaches accelerating the AI ecosystem"
-    excerpt: "\"If you’re working in AI and accelerated computing right now, NVIDIA stands ready to help,\" the company said in its blog post. \"Developers across every industry in every country are building accelerated computing applications."
-    publishedDateTime: 2023-12-11T22:31:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2023/12/11/nvidia-startup-ecosystem-investment.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 26
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/Essential-AI.png"
+        width: 718
+        height: 400
+        isCached: true
 
 secured: "BUb5G/qoQ8h3/SHhGvw9Kdr2ZbkR4oim4b2Ll10dRt98hvcVtGM4MfZOXhXP9zTXtQ5gSXPn9fa/qNpDKiHf1N07lgTFQ8Wt+rcA71FaP+4hNt34IupumGdRTP7xmSSjruHqd9Xo3D6j8feTh/46CuyKiQfTgBTaaDDsFkddzt4yGwkpfsNC3wo9kDacrUYf5GIaoCjEyxwsWyPXrf32avDCN5CgIMVbXbJORMn6e6adXBSJ0vBvDTHFwsXOyhDHMTyFxka9456qJetgi6Myr3MZhccbyI/mBYK4hAnifstFjxTIBX38rDqU70LYJCvg0IJy/C/DjgX04X1IONcGEX2aCBUzZDFyueo91mRAk7w7MSPH4QSP58aV6iPoLc7ceoeOG42ypzEBvC8KU3joV2tlqJmTTt/DcsFEghLXig0hcPw51asYPDuIrjvSa8Bkb/UjAy1KQSuFCwI2p0mRhHKH/nbQOYYb/okoj3QFlhG8dOIAVegl/qz3RrQGP7FtXV/ktJ6qDd6MqR8SZiQ9MA==;O32HiGWufyjkvjDZp8jZiA=="
 ---

@@ -24,6 +24,17 @@ images:
     height: 675
     isCached: true
 
+related:
+  - title: "5 of the top AI roles companies are seeking to hire"
+    excerpt: "In the latter half of the 20th century, TV watchers and moviegoers began to meet a long list of intelligent machines: \"The Jetsons'\" maid Rosie, B-9 from \"Lost in Space,\" HAL 9000 from \"2001: A Space Odyssey,\" the \"Star Wars\" saga's C-3PO and R2-D2, and dozens more."
+    publishedDateTime: 2023-12-14T18:59:00Z
+    webUrl: "https://www.chron.com/personal-finance/article/5-of-the-top-ai-roles-companies-are-seeking-to-18554889.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 17
+
 secured: "I3USxINdSdXFraxW4PsKgi87GtBHJ5loDtp91ndBvyNr4UUHWk/OUjNmbDr/KGngezoxP2zrilljmJ0K12gEnMsdQNTSC+INCFrVKpj2R/c99EYIzpUtGkDMzuJYEsnnyrp2/HQv5p9+BcKI6wvPY67/onH/Zc7Z52LKYuf5THRXKyXP/LYq1qAJxN+3fFNoyl95JXZ8y87DDTHyRv24AWlXjTdex0cN5DUOhKhuMq6cx38W/x5IWLE6X7qMhemz1A19bbSXysm4oNL0EJKL374ttoBkkhjFQAviUK+R6mNknCLsqUu5TpdOozdO7rM6No+j1Xc7GhdsR3Ia+0FX21OJDOYt4u9ddNofb+rFxrtFbEDbXlO+KZkvK4KSBTPWJ0wQWLgG0zJABqnMLVCzavZ55RbTdGe3WyETmsgBjxpllydhA9RUT+Bno3audu5i/CNBYiQ0JDtJK2MkZgE/npZrKM59/+jnQSGNENZt/Si8tKMBaKVkCe7G5Yq3gUmi84HrmucD306US9YgDsZb5A==;0/pfgu0F12Tkq8eF/N2sBw=="
 ---
 

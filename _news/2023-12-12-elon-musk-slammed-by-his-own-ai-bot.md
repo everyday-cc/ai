@@ -7,7 +7,7 @@ originalUrl: "https://www.newsweek.com/elon-musk-slammed-own-ai-bot-1851531"
 webUrl: "https://www.newsweek.com/elon-musk-slammed-own-ai-bot-1851531"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Elon Musk advocates regulation for ‘inevitable’ Artificial Intelligence"
+    excerpt: "Billionaire entrepreneur Elon Musk, the founer of Tesla and SpaceX, said on Saturday that Artificial Intelligence is \"inevitable\" and called for its regulation with a metaphorical \"referee\" to ensure future advantages."
+    publishedDateTime: 2023-12-16T16:31:00Z
+    webUrl: "https://www.laprensalatina.com/elon-musk-advocates-regulation-for-inevitable-artificial-intelligence/"
+    ampWebUrl: "https://www.laprensalatina.com/elon-musk-advocates-regulation-for-inevitable-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-laprensalatina-com.cdn.ampproject.org/c/s/www.laprensalatina.com/elon-musk-advocates-regulation-for-inevitable-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: La Prensa Latina
+      domain: laprensalatina.com
+    quality: 59
+    images:
+      - url: "https://www.laprensalatina.com/wp-content/uploads/2023/12/640601bd74576983ce2da8a4e23a4beb50130700w-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Elon Musk’s AI bot, Grok, speaks as if made by OpenAI in some tests, causing a stir"
     excerpt: "Grok, the AI language model created by Elon Musk's xAI, went into wide release last week, and people have begun spotting glitches. On Friday, security tester Jax Winterbourne tweeted a screenshot of Grok denying a query with the statement,"
     publishedDateTime: 2023-12-11T20:13:00Z

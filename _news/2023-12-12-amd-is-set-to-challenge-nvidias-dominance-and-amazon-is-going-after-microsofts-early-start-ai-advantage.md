@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft, AFL-CIO Reach Deal on AI, Labor Neutrality"
-    excerpt: "Microsoft has a major partnership with ChatGPT maker OpenAI and committed to pumping more than $10 billion into the startup. Surging popularity of so-called generative AI, which uses data to create new content like ChatGPT's human-sounding prose, could remake human society and make obsolete many jobs."
-    publishedDateTime: 2023-12-11T14:03:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-12-11/microsoft-afl-cio-reach-deal-on-ai-labor-neutrality"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 64
   - title: "Microsoft drastically expands Azure AI Studio to include Llama 2 Model-as-a-Service, GPT-4 Turbo with Vision"
     excerpt: "Today, the company announced that it is making Meta Platforms’ rival open-sourced AI model Llama 2 available in Azure AI Studio, its cloud platform AI clearinghouse, in the form of a “model-as-a-service.” Similar to the now old acronym of SaaS ..."
     publishedDateTime: 2023-12-14T11:52:00Z
@@ -59,15 +50,15 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "Startup Mesh Ai launches ‘first AI-enabled’ workplace mental health solution for Microsoft Teams and Microsoft 365"
-    excerpt: "Australian startup Mesh Ai has announced the release of Simpatico Teams, a “pioneering AI-driven mental health application” for Microsoft Teams, Microsoft 365 and Copilot for Microsoft 365. Mesh Ai says the application ”will help employers better manage the growing psychological challenges of the"
-    publishedDateTime: 2023-12-14T13:29:00Z
-    webUrl: "https://itwire.com/business-it-news/enterprise-solutions/startup-mesh-ai-launches-‘first-ai-enabled’-workplace-mental-health-solution-for-microsoft-teams-and-microsoft-365.html"
+  - title: "Global AI Conclave | Yotta CEO promises to launch cloud service that will compete with Amazon, Microsoft"
+    excerpt: "Sunil Gupta, Co-Founder and CEO of Yotta Infrastructure, announced Shakti Cloud, which he said is India's largest AI supercomputing cloud, to rival global giants like Amazon, Google, and Microsoft. Gupta said the service will be operational by Feb 2024,"
+    publishedDateTime: 2023-12-16T13:30:00Z
+    webUrl: "https://www.cnbctv18.com/technology/global-ai-conclave--yotta-ceo-promises-to-launch-cloud-service-that-will-compete-with-amazon-microsoft-18585151.htm"
     type: article
     provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 12
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 19
 
 secured: "Og4rnvUAfvkgIR/cvyMHJbHWrPEoNICj2IIs04jP+OSKSWOgjtH2XSuFay2tVw+qjV7OWtMIg7wMeUp8p3oKml9Uo+B0E8Ro4SaEWpi8Y6n/FA9l79ICbSeBuIjt32xdEV4lXBogQvO6mqcWCVj4v6qIhzq2d9TYe3F8KqxlrjE8QIhtbpC+68BKLLO1WWdCZz2Kfz53KwdkboSQF2U8sjsuVBFqH88gMDuu+25Cku3ZM/YLRjgl2HlRUzoBAtjzMZmMREKHiQ/VKkzOxbsM2NNCjoJPTl8Ky5u5BebHDlGeoUdPrFMXxD5lWkHi/eTi8GfQ5b6H2grPrM8v+xbnIHDM8RzLKylCD3D6PHKdGH0=;B6xLAc6eltljg92U7vDxiA=="
 ---

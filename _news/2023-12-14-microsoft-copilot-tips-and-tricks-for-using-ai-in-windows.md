@@ -37,20 +37,6 @@ related:
         width: 2560
         height: 1706
         isCached: true
-  - title: "Create new ways to serve your mission with Microsoft Azure Space"
-    excerpt: "As customers and partners have adopted and experimented with the Azure Space portfolio, new and interesting use cases are emerging that illustrate what’s possible. Today, we are excited to share some of those customer stories, along with updates for Azure Orbital Ground Station, Azure Orbital’s software"
-    publishedDateTime: 2023-12-11T17:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/create-new-ways-to-serve-your-mission-with-microsoft-azure-space/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 104
-    images:
-      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/12/MDC22_AzureOrbitalGroundStation_032-social.jpg"
-        width: 943
-        height: 628
-        isCached: true
   - title: "Fortifying confidential computing in Microsoft Azure"
     excerpt: "Hardware-backed confidential computing in Microsoft Azure now includes protected environments for VMs, containers, and GPUs, without the need to write specialized code."
     publishedDateTime: 2023-12-14T10:00:00Z
@@ -106,6 +92,15 @@ related:
         width: 1280
         height: 717
         isCached: true
+  - title: "Confidential computing in Microsoft Azure gets a boost"
+    excerpt: "Hardware-backed confidential computing in Microsoft Azure now includes protected environments for VMs, containers, and GPUs, without the need to write specialized code."
+    publishedDateTime: 2023-12-14T10:00:00Z
+    webUrl: "https://www.infoworld.com/article/3711680/confidential-computing-in-microsoft-azure-gets-a-boost.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 64
   - title: "OpenAI, Meta, Microsoft Chase Wearable AI"
     excerpt: "Next year’s artificial intelligence battle is coming into focus—and it’s all about glasses. As they release more powerful AI that can understand images and language, Meta Platforms, Google, Microsoft,"
     publishedDateTime: 2023-12-15T00:35:00Z

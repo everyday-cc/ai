@@ -54,20 +54,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "In Landmark Vote, Europe Approves AI Regulations--Paving the Way for U.S. Adoption"
-    excerpt: "Writing laws that keep pace with the fast-growing world of A.I. seems fraught with challenges. One thing everyone agrees on: the goal is to protect people's data -- and small businesses."
-    publishedDateTime: 2023-12-11T15:25:00Z
-    webUrl: "https://www.inc.com/kit-eaton/in-landmark-vote-europe-approves-ai-regulations-paving-way-for-us-adoption.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 31
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/getty_1258475609_ztqcoo.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "I9GGb19JZQMF+ibRqYN2TQNpJB82v+Go+0PN6fmmNeWyCkCym7T/2x1jZOS5Q+oLKu3WhQ799WTvLc03NolbrrKL1dmFfTlzDXnvz9cOz6FZyf+G11nymytORkEe60n6JcQ7pToVkBwqrAk5vI7cG6rAoU2V1cGMEMJQhZ3yjVRqav+jZzP7c9l1DgkxL+Hm4wAtyZ/OXHsiM6UNjzJBQVjRAwrKG3nb9NmMIs3NrKZyiqXL5ajseNZIRFVv/r+cyLMBm5DdECtiCLwZHsYqVrwX0ICoMRJk9OzKKZkTlilJu8WkItEEFOdc48Wd4mcqtRm7LoZOH/FBR+DKPc4J0y2INLLAHIJjF6BfxDszm74=;MZmRgAPTNGZ/Re+BromSDg=="
 ---

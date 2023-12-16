@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/brucelee/2023/12/15/dictionarycom-2023-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucelee/2023/12/15/dictionarycom-2023-word-of-the-year-hallucinate-is-an-ai-health-issue/amp/"
 type: article
 quality: 86
-heat: 87
+heat: 86
 published: true
 
 provider:

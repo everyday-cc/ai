@@ -7,7 +7,7 @@ originalUrl: "https://mashable.com/article/ways-ai-changed-the-internet-2023"
 webUrl: "https://mashable.com/article/ways-ai-changed-the-internet-2023"
 type: article
 quality: 67
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "16 Innovative Ways Agencies Can Leverage Generative AI In 2024"
+    excerpt: "Generative AI tools are being leveraged by agency professionals and in-house teams around the world as they seek ways to better understand and reach target audiences."
+    publishedDateTime: 2023-12-15T17:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/12/15/16-innovative-ways-agencies-can-leverage-generative-ai-in-2024/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/655e5665f16e596330a94c9e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "Internet traffic soars in 2023, with generative AI a standout trend: Report"
     excerpt: "In its annual overview of online trends, Cloudflare reports Google remains the most popular site, while OpenAI takes the lead in generative AI services."
     publishedDateTime: 2023-12-13T18:11:00Z

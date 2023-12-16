@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2023/12/12/strategies-for-building-ai-tools
 webUrl: "https://techcrunch.com/2023/12/12/strategies-for-building-ai-tools-people-will-actually-use-at-work/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -37,6 +37,15 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 38
+  - title: "Cross-Campus Approaches to Building a Generative AI Policy"
+    excerpt: "Particularly for new technologies that disrupt long-standing practices and cultural beliefs, the work of carefully and intentionally developing effect"
+    publishedDateTime: 2023-12-12T20:42:00Z
+    webUrl: "https://er.educause.edu/articles/2023/12/cross-campus-approaches-to-building-a-generative-ai-policy"
+    type: article
+    provider:
+      name: er.educause.edu
+      domain: educause.edu
+    quality: 19
 
 secured: "33Nl88oKwI87TPHgdHU2G1ctsTprHj/tcOBnKU8XB0TZkrRPY6eoBIvYubd2oRpVj9l82VbLpaJp7NbRFAAbbNp8wzZNrKMX3u8Aroz814xpXwfBaIiqTh22IWZKg/qkCj6/o59XhGzXUThU9V90tuHjsx7mJCXtm7CLWobSy/O8sUp97pfPefhze3eHiImBs7m6dUmN8iY6Pbmd9hZn9LjGNHA/BM6SGb2ZFl8aHr6nzFH5N4XgvGPr0J/2RYiy9ZM4mR/Y3BMQm5SAa3jwPARiCbaVasVqUDVSmyqsXG+pC7P0cRF/wC8DGaTjrWaeDExlWM8qWsHmqYRHjomdXu75kbn59+e0rggV6g6RvRWgmkON1KGuIiz8vmcgkPhT74tjkDZMo50cUPc2NGL61cchkoaUmsLXslWn7o/qsNpVt4w6LuBdEqEWudvUfyzAPA8Oma9KRMT8Y8Ngv2Cih8EPEG2/FkFFQRymTEpBzuqf5a31c5ctiGCYNBV/phaGMfUfmRz+ykN8nnOkcxf4hQ==;ECNy3+Gpzeu+GhUz+W4OwA=="
 ---

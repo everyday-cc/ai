@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/debgordon/2023/12/15/healthcare-startup
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/debgordon/2023/12/15/healthcare-startup-guaranteeing-upfront-price-predictions-raises-23-million/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       - url: "https://iblnews.org/wp-content/uploads/2023/12/mistralteam-696x399.jpg"
         width: 696
         height: 399
-        isCached: true
-  - title: "Medefy Health Raises $10 million Series A Funding to Deliver Real-Time Healthcare Benefits Navigation through Human-Led Support"
-    excerpt: "Medefy Health, a mobile-first healthcare benefits navigation platform dedicated to improving the employee health benefits experience through real-time guidance, today announced that it has raised $10 million in Series A funding led by Mercury Fund with participation from Advantage Capital."
-    publishedDateTime: 2023-12-11T16:20:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/12/11/9931588.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 26
-    images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
         isCached: true
 
 secured: "Z1wRXe1N/kskHrEEsN1EgA/OWTV+OUJogchJotztT3vZORoftI3jriOX6Vzsf8OAc5DQNSNUEHcU7HUfn1DZU35JA7nZKHlhPtMLlzfGxZh7RnDXj+JibTlirp5SOuhpOiz8pZo7dSJFDfIIYu6+s1LUrD3T6NTOXNAujdEfIvsOudia0Zr8ZiwVPGG5hV/V061tvi4O1iY7J48QVQQcnuEHR9RzEKAW4EjTRdElBI2hCnqK1ndoBCijbFh897guoLJBqq/4EnC2yc9s8I+RCkCJx7N6GQuY9aDJDSkXiAAK5RjCQpHFDbLNGmik+B5OI6SlzSjdfTSvmyeda+UQLlWsiX6LuPxO8DusOlczWzyEFFkMFmjXfO7cBLF+EE/7xThpPPiRO8g2WDEIR60dkYKPWBKszz7KtG1my6LJq3Ds5bc0AWrBNX6NB0MUZBiQx+JLxh4x/oxdG9gCnHvBNsFj35RBQ6onWENOFRF1CNFhpR0eE0C8as2XxOo8KqfBNsTK6SD36Eg62stPf2MgjQ==;e1xiGOHDYEn/k+W6o/h25g=="

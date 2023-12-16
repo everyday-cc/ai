@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "The Download: the EU AI Act is here, and preventing deadly cancer"
-    excerpt: "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology."
-    publishedDateTime: 2023-12-11T13:10:00Z
-    webUrl: "https://www.technologyreview.com/2023/12/11/1084889/the-download-the-eu-ai-act-is-here-and-preventing-deadly-cancer/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 17
   - title: "The Download: what we learned from COP28, and an advance for household robots"
     excerpt: "“emphasizes”—can all start to sound like noise ... That data is then fed to an AI model which instructs the robot how to carry out the actions. Why it matters: This new system could help the field of robotics overcome one of its biggest challenges ..."
     publishedDateTime: 2023-12-14T00:01:00Z

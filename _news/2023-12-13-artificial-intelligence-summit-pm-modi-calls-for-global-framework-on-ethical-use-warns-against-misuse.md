@@ -9,7 +9,7 @@ ampWebUrl: "https://www.outlookindia.com/national/artificial-intelligence-summit
 cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/national/artificial-intelligence-summit-pm-modi-calls-for-global-framework-on-ethical-use-warns-against-misuse-news-336130/amp"
 type: article
 quality: 75
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -60,15 +60,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "PM Modi to Inaugurate the Annual Global Partnership on Artificial Intelligence (GPAI) Summit Tomorrow"
-    excerpt: "India's Prime Minister Narendra Modi will inaugurate the Global Partnership on Artificial Intelligence (GPAI) Summit, at Bharat Mandapam, New Delhi on"
-    publishedDateTime: 2023-12-11T14:39:00Z
-    webUrl: "https://www.indianweb2.com/2023/12/pm-modi-to-inaugurate-annual-global.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 17
 
 secured: "UUx9vWY4ZLKCU3V9HBoMe+9SSbCqbyu7LYUVE5PmehGHLLcN6bDbI3vx5dkRk7JPUNgwSGUTSSqf9pBih3sTil5Xh7my4fTwZ39D/Wae8Hz14T5cF1T4xpsDlbfV086qNZZtFUJuNYzXLoOqXkuUywL8u0Ixnk7ss2lFX2S2DQ948Dm1sqbxsNpwLbAjdEnJQEqM416s4S62YNAOuJ0L14WtfJCw9lIbbv/iZ0osxBwmZwF9gFTHLqcdB6jpJnnoHdsyRvUj5h5xCCbkRyk18svMpiaUKvl9518KE336GlgGfHkg8tbggaXS77vRrQzK81zcfKfpmeTM62zAAXzYQmSPs8s/lYyXQOd6VUR8Vgc=;1l94m5VRah0rIlI2qDGRCQ=="
 ---

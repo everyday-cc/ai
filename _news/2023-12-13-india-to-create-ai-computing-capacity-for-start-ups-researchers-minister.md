@@ -20,20 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "Art Theft Research: There’s an App for That"
-    excerpt: "Art buyers’ due diligence should always involve checking databases of stolen art and antiquities, and there are apps that make doing so easier."
-    publishedDateTime: 2023-12-11T16:48:00Z
-    webUrl: "https://observer.com/2023/12/interpol-app-fbi-app-art-crime-recovery/"
-    type: article
-    provider:
-      name: observer
-      domain: observer.com
-    quality: 24
-    images:
-      - url: "https://observer.com/wp-content/uploads/sites/2/2023/12/interpol-stolen-art-app.jpg?quality=80"
-        width: 600
-        height: 396
-        isCached: true
   - title: "Generative AI, Cloud And Startups: A Power Trio Redefining India’s Techscape!"
     excerpt: "Explore how generative AI, cloud technology and startups are redefining India's tech landscape in this roundtable by Inc42 and Google Cloud."
     publishedDateTime: 2023-12-16T11:45:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/five-open-source-ai-tools-to-know/"
 webUrl: "https://www.ibm.com/blog/five-open-source-ai-tools-to-know/"
 type: article
 quality: 99
-heat: 200
+heat: 199
 published: true
 
 provider:

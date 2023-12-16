@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "16 Innovative Ways Agencies Can Leverage Generative AI In 2024"
+    excerpt: "Generative AI tools are being leveraged by agency professionals and in-house teams around the world as they seek ways to better understand and reach target audiences."
+    publishedDateTime: 2023-12-15T17:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/12/15/16-innovative-ways-agencies-can-leverage-generative-ai-in-2024/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/655e5665f16e596330a94c9e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "2023 was the year that artificial intelligence went mainstream"
     excerpt: "From ChatGPT to Gemini, this year was dominated by large language models and other AIs becoming everyday tools used by millions of people"
     publishedDateTime: 2023-12-13T18:00:00Z

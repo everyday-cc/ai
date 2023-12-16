@@ -29,31 +29,20 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia Recovers From 10% Drop Amidst Intense Rivalry With AMD's Groundbreaking AI Chip"
-    excerpt: "AMD has launched the Instinct MI300X, a groundbreaking AI chip supported by Microsoft and Meta. Analysts estimate that AMD could capture about 10% of the AI chip market. Following the announcement of the Instinct MI300X,"
-    publishedDateTime: 2023-12-11T16:41:00Z
-    webUrl: "https://www.benzinga.com/trading-ideas/23/12/36181312/nvidia-recovers-from-10-drop-amidst-intense-rivalry-with-amds-groundbreaking-ai-chip"
-    ampWebUrl: "https://www.benzinga.com/amp/content/36181312"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36181312"
+  - title: "A Bull Market Is Coming: 1 Super Artificial Intelligence (AI) Stock to Buy Hand Over Fist and Hold Forever"
+    excerpt: "Don't let the recent drop in this artificial intelligence stock scare you, because it's building toward something big."
+    publishedDateTime: 2023-12-14T12:53:00Z
+    webUrl: "https://www.fool.com/investing/2023/12/14/bull-market-1-ai-stock-buy-hand-fist-hold-forever/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: The Motley Fool
+      domain: fool.com
     quality: 66
     images:
-      - url: "https://cdn.benzinga.com/files/boliviainteligente-1goydlm_jcg-unsplash_4.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
+      - url: "https://g.foolcdn.com/editorial/images/757994/orcl_sankey_q22024.png"
+        width: 2001
+        height: 2000
         isCached: true
-  - title: "Nvidia, AMD back $56.5M round for AI startup led by Transformer architecture co-inventors"
-    excerpt: "Essential AI Labs Inc., a startup led by two co-inventors of the Transformer neural network architecture, today announced that it has raised $56.5 million from a group of prominent backers. March Capital led the Series A investment with contributions from ..."
-    publishedDateTime: 2023-12-12T18:42:00Z
-    webUrl: "https://siliconangle.com/2023/12/12/nvidia-amd-back-56-5m-round-ai-startup-led-transformer-architecture-co-inventors/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 8
 
 secured: "ugP8Ds+LG34hLg9YMcLfIPe6t0G5Acj/YhJ5R/CjNQZDbLbYFJs7hEQmTKsePvSXrs/vqgv9NUdaNyXmy4tKFP6sRjpiY0Tp/r2gznHoYiMY4+QJNqVgM63D0K8yuU245r9699DBend0HeoGFVkM+GxNSwadEMNhjeplE+t4DYThy3pYzUzoP3z6RE6wEKQXLGI3Z/kNX85ijK3Ao+n8WwE4kUL4hYhGVE0aaxD/JEGr9tTZ9DeXMNGdcQLzzAap7frmrTpF2DuXSFXQSBwgQpQx3lJs+I5ykhhAIl4Vatv64qtr8hxLe0pf25fUVOOV/Of+a97ukCmNIvzAF+3Qlh6J+jy9yyoxCC1v8X2WPkg=;P3hlwvAO2nm74g9PzId+Rg=="
 ---

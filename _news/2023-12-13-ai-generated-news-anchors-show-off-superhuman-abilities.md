@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/home-entertainment/ai-generated-news-anchors/?a
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/home-entertainment/ai-generated-news-anchors/?amp=true"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "These AI-generated news anchors are freaking me out"
+    excerpt: "In other words, human-looking AI avatars now seem well on their way to climbing out of the uncanny valley, at least when it comes to news anchors who sit at a desk or stand still in front of a green screen. Channel 1 investor Adam Mosam told Deadline it \"has gotten to a place where it’s comfortable to watch,\" and I have to say I agree."
+    publishedDateTime: 2023-12-15T15:57:00Z
+    webUrl: "https://arstechnica.com/ai/2023/12/these-ai-generated-news-anchors-are-freaking-me-out/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 67
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/12/channel1-vs-max-headroom-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
 
 secured: "f2pzpAczJstnR2onAlLYj9DlXH6rBFA/hSbyNo3YSLxWsavIDPbGgKpr+0Jz4eKTSOvVerB51gd8T+0ZuRRJHRQPT/cEbTddzg5LTkbRTpkwu1JqHB6tTXPKxobzi0QzjwTS9KmKqFD+zlM0840bVzGkoauzng+jau0vO04irpIEYLTjqc74HZFRSB6tNj3jwXVuKef4fsUwVTzf8vRqCQ/4jsrsQOC/wILyITuh2f0IqhxeS2SXfBZpEFkeNtPqsbLFQn1AT4DpYDKMId+orCdlMTB50vKROYPazYNEI0dT9tzH6dCEAqoVJ8LdzZ//nv87FHXWYPuAUgrpmeddRU9HbXSp0R/FQTVkq0Es/TL+VhAdhP6EUTS1E30N9+ihwmTm4f2jOlXNr2hfKAMkjJ6jV60MFFgKfy9+SRuCsxANDeHwPr9SW3QXEtIwEqMyVOSRwvie1gvC+1w4fHUzQZ6WgQQRA/hRzXKuSZWkFsQnGxTaYW53i53UIkY9KiuEpaEr3+5+Y80khxYRdtAVjQ==;xu8AFNEdsKz9OKukZNbhrQ=="
 ---

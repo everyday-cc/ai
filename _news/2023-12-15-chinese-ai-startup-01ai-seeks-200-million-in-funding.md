@@ -70,20 +70,6 @@ related:
         width: 696
         height: 399
         isCached: true
-  - title: "Medefy Health Raises $10 million Series A Funding to Deliver Real-Time Healthcare Benefits Navigation through Human-Led Support"
-    excerpt: "Medefy Health, a mobile-first healthcare benefits navigation platform dedicated to improving the employee health benefits experience through real-time guidance, today announced that it has raised $10 million in Series A funding led by Mercury Fund with participation from Advantage Capital."
-    publishedDateTime: 2023-12-11T16:20:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/12/11/9931588.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 26
-    images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "PPgkzfuTsEZLteUvv7QkgBv+TdqWEz1Y6p7xXpLaKP/NAu/KEHvO5toHwvArXNe3ConOWe22lw54EHmGwcWmMH0gQGf3m22hnQ+7WGciMnPdXTwPRTboIQ3MomV0zL3i4FJYpSPh1fRwCeP4OSMDgy/jxkYswMvLm1xb9jR+rBV1In6MFFSArF5kGIvYjUbJzQ2cDA7deIOC/DLkh36rAuScpY2CefdviI6i+zN6zs063iIh65829yzhjyaZTWq+A6eqQv0gBuk7kCP34pXelwdNKK8dsTDPgP7ZmnUgKW0vcncR9zKkHnmt6cepWaEpWoUMUcjhwLAg/diA9oylm/qqHAJaEZyd323Wlswx+W0=;jUh5yoAnkeF35XXFHlkRbg=="
 ---

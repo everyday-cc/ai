@@ -39,20 +39,6 @@ related:
         width: 2560
         height: 1706
         isCached: true
-  - title: "Create new ways to serve your mission with Microsoft Azure Space"
-    excerpt: "As customers and partners have adopted and experimented with the Azure Space portfolio, new and interesting use cases are emerging that illustrate what’s possible. Today, we are excited to share some of those customer stories, along with updates for Azure Orbital Ground Station, Azure Orbital’s software"
-    publishedDateTime: 2023-12-11T17:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/create-new-ways-to-serve-your-mission-with-microsoft-azure-space/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 104
-    images:
-      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/12/MDC22_AzureOrbitalGroundStation_032-social.jpg"
-        width: 943
-        height: 628
-        isCached: true
   - title: "Fortifying confidential computing in Microsoft Azure"
     excerpt: "Hardware-backed confidential computing in Microsoft Azure now includes protected environments for VMs, containers, and GPUs, without the need to write specialized code."
     publishedDateTime: 2023-12-14T10:00:00Z
@@ -108,6 +94,15 @@ related:
         width: 1280
         height: 717
         isCached: true
+  - title: "Confidential computing in Microsoft Azure gets a boost"
+    excerpt: "Hardware-backed confidential computing in Microsoft Azure now includes protected environments for VMs, containers, and GPUs, without the need to write specialized code."
+    publishedDateTime: 2023-12-14T10:00:00Z
+    webUrl: "https://www.infoworld.com/article/3711680/confidential-computing-in-microsoft-azure-gets-a-boost.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 64
   - title: "Microsoft Copilot: tips and tricks for using AI in Windows"
     excerpt: "Windows Copilot is a useful tool for augmenting your Windows experience, but with these tips and tricks you can make it even better."
     publishedDateTime: 2023-12-13T19:19:00Z

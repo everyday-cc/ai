@@ -53,20 +53,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Tesla's Broken Promise Of Fully Autonomous Driving"
-    excerpt: "Tesla's \"Full Self-Driving\" feature is not actually fully autonomous, and yet the company charges customers for it. The problem of fully autonomous driving is challenging due to Moravec's paradox and the limitations of current AI technology. Tesla's pivot ..."
-    publishedDateTime: 2023-12-11T15:21:00Z
-    webUrl: "https://seekingalpha.com/article/4657240-tesla-broken-promise-of-fully-autonomous-driving"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 39
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1392610598/image_1392610598.jpg?io=getty-c-w1536"
-        width: 1536
-        height: 930
-        isCached: true
   - title: "Tesla pumps the brakes on self-driving, recalls its vehicles"
     excerpt: "To limit the use of its self-driving technology, Tesla has recalled almost all of its 2 million cars in the U.S."
     publishedDateTime: 2023-12-13T17:10:00Z

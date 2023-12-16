@@ -83,15 +83,6 @@ related:
         width: 1500
         height: 1000
         isCached: true
-  - title: "Tesla's head of AI infrastructure Tim Zaman joins Google DeepMind"
-    excerpt: "Tim Zaman has left Tesla to work at Google DeepMind. Zaman was the head of 'AI Infra' at the automotive company from 2019, and was deeply involved in deploying the company's Dojo supercomputers and GPU supercomputers."
-    publishedDateTime: 2023-12-11T13:33:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/teslas-head-of-ai-infrastructure-tim-zaman-joins-google-deepmind/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 51
   - title: "Google's DeepMind AI decodes age-old math equation, stumping humans"
     excerpt: "Google DeepMind has triumphantly cracked an age-old mathematical mystery using a method they are calling FunSearch. The math problem that FunSearch has solved is the famous cap set problem in pure mathematics, which has stumped even the brightest human mathematicians."
     publishedDateTime: 2023-12-15T10:03:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/microsoft-drastically-expands-azure-ai-
 webUrl: "https://venturebeat.com/ai/microsoft-drastically-expands-azure-ai-studio-to-include-llama-2-model-as-a-service-gpt-4-turbo-with-vision/"
 type: article
 quality: 62
-heat: -1
-published: false
+heat: 92
+published: true
 
 provider:
   name: VentureBeat
@@ -24,15 +24,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Microsoft, AFL-CIO Reach Deal on AI, Labor Neutrality"
-    excerpt: "Microsoft has a major partnership with ChatGPT maker OpenAI and committed to pumping more than $10 billion into the startup. Surging popularity of so-called generative AI, which uses data to create new content like ChatGPT's human-sounding prose, could remake human society and make obsolete many jobs."
-    publishedDateTime: 2023-12-11T14:03:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-12-11/microsoft-afl-cio-reach-deal-on-ai-labor-neutrality"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 64
   - title: "AMD Is Set To Challenge Nvidia's Dominance And Amazon Is Going After Microsoft's Early-Start AI Advantage"
     excerpt: "According to analysts, Nvidia Corporation (NASDAQ: NVDA) controls roughly 80% of the AI chip market, when including the custom processors built by companies such as Alphabet (NASDAQ: GOOG)-owned Googl"
     publishedDateTime: 2023-12-11T18:23:00Z
@@ -63,15 +54,15 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "Startup Mesh Ai launches ‘first AI-enabled’ workplace mental health solution for Microsoft Teams and Microsoft 365"
-    excerpt: "Australian startup Mesh Ai has announced the release of Simpatico Teams, a “pioneering AI-driven mental health application” for Microsoft Teams, Microsoft 365 and Copilot for Microsoft 365. Mesh Ai says the application ”will help employers better manage the growing psychological challenges of the"
-    publishedDateTime: 2023-12-14T13:29:00Z
-    webUrl: "https://itwire.com/business-it-news/enterprise-solutions/startup-mesh-ai-launches-‘first-ai-enabled’-workplace-mental-health-solution-for-microsoft-teams-and-microsoft-365.html"
+  - title: "Global AI Conclave | Yotta CEO promises to launch cloud service that will compete with Amazon, Microsoft"
+    excerpt: "Sunil Gupta, Co-Founder and CEO of Yotta Infrastructure, announced Shakti Cloud, which he said is India's largest AI supercomputing cloud, to rival global giants like Amazon, Google, and Microsoft. Gupta said the service will be operational by Feb 2024,"
+    publishedDateTime: 2023-12-16T13:30:00Z
+    webUrl: "https://www.cnbctv18.com/technology/global-ai-conclave--yotta-ceo-promises-to-launch-cloud-service-that-will-compete-with-amazon-microsoft-18585151.htm"
     type: article
     provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 12
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 19
 
 secured: "Tvg90Df8nijvQIHRolB3kCMYAd3DkLPEXhlPYl2cXnLGnuqDbIt2hspXLr/TQDngdsQ689L1tATnnDXTPtY8IPl3H4Al9Ac39zCHjo+geF2z0iNALs357P7IGAPE9jyOBqYLI8Cb1SPk9kpEkfb11eaDEAbly29tAohPFxwFPNLZ/7Nhc8podLarL5a1nXfFgq/QGlxWyge0EOf/dJpNdnElJ9LMhvjcbjA90FlGyDzvT5xl9PrjbIE2eU4MUUa9fBAI4XkTUeiw/wtn6n94+J0lWee6F6GmrDrwMywKq9rJKDTNsd48UO331QBBke7QVs0fu/az9A/1Krl57RanxVp6xVZBW2HE1Yt7LT1wG2o=;FpkuC0Ng3gvFe1/EpPcpOQ=="
 ---

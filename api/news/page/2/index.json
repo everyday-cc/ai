@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-12-15-build-or-buy-cloud-based-generative-ai.md",
+      "title": "Build or buy cloud-based generative AI?",
+      "excerpt": "The mantra for computing is to use other people’s technology, so it's surprising that generative AI doesn’t seem to follow that pattern for many enterprises.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3711705/build-or-buy-cloud-based-generative-ai.html",
+      "originalUrl": "https://www.infoworld.com/article/3711705/build-or-buy-cloud-based-generative-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/03/nw_how-to-shop-for-network2_shopping-cart-100790343-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3711705/build-or-buy-cloud-based-generative-ai.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711705/build-or-buy-cloud-based-generative-ai.amp.html",
+      "publishedDateTime": "2023-12-15T10:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-15-infoworlds-2023-technology-of-the-year-award-winners.md",
       "title": "InfoWorld’s 2023 Technology of the Year Award winners",
       "excerpt": "InfoWorld recognizes the year’s best products in software development, cloud computing, data analytics, AI, and machine learning.",
@@ -292,7 +343,7 @@
       "originalUrl": "https://www.zdnet.com/article/h-r-block-introduces-ai-chatbot-that-will-answer-your-complex-tax-questions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -396,7 +447,7 @@
       "originalUrl": "https://www.bbc.com/news/business-52989128",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 122,
       "tags": null,
       "images": [
         {
@@ -484,6 +535,42 @@
       ]
     },
     {
+      "path": "_news/2023-12-15-a-ball-of-brain-cells-on-a-chip-can-learn-simple-speech-recognition-and-math.md",
+      "title": "A Ball of Brain Cells on a Chip Can Learn Simple Speech Recognition and Math",
+      "excerpt": "Just a first step, Brainoware paves the way for increasingly sophisticated hybrid biocomputers that could lower energy costs and speed up computation.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2023/12/14/a-ball-of-brain-cells-on-a-chip-can-learn-simple-speech-recognition-and-math/",
+      "originalUrl": "https://singularityhub.com/2023/12/14/a-ball-of-brain-cells-on-a-chip-can-learn-simple-speech-recognition-and-math/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-14T20:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware",
+        "Math for AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-15-ai-machine-learning-to-lead-the-way-to-achieve-net-zero-experts.md",
       "title": "AI, machine learning to lead the way to achieve Net Zero: Experts",
       "excerpt": "At the event, Rupesh Umtol, co-founder and Director, Electro-Mech Consultants showcased a digital twin model creation concept called Btrlyf -- a culmination of AI/ML that analyses older buildings with respect to energy efficiency.",
@@ -492,7 +579,7 @@
       "originalUrl": "https://indianexpress.com/article/cities/ahmedabad/ai-machine-learning-to-lead-the-way-to-achieve-net-zero-experts-9068876/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -951,7 +1038,7 @@
       "originalUrl": "https://deepmind.google/discover/blog/funsearch-making-new-discoveries-in-mathematical-sciences-using-large-language-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -1148,110 +1235,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-4-best-dividends-for-a-2024-ai-bubble.md",
-      "title": "4 Best Dividends For A 2024 AI Bubble",
-      "excerpt": "Is the AI mania substance or puff? Probably a bit of both. But there’s money to be made as the hype train rolls on. Let’s do it smartly—with dividends.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brettowens/2023/12/14/4-best-dividends-for-a-2024-ai-bubble/",
-      "originalUrl": "https://www.forbes.com/sites/brettowens/2023/12/14/4-best-dividends-for-a-2024-ai-bubble/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b5515e45aeec9aede9bcfd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brettowens/2023/12/14/4-best-dividends-for-a-2024-ai-bubble/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brettowens/2023/12/14/4-best-dividends-for-a-2024-ai-bubble/amp/",
-      "publishedDateTime": "2023-12-14T15:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-ai-scientists-make-exciting-discovery-using-chatbots-to-solve-maths-problems.md",
-      "title": "AI scientists make ‘exciting’ discovery using chatbots to solve maths problems",
-      "excerpt": "Breakthrough suggests technology behind ChatGPT and Bard can generate information that goes beyond human knowledge",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/science/2023/dec/14/ai-scientists-make-exciting-discovery-using-chatbots-to-solve-maths-problems",
-      "originalUrl": "https://www.theguardian.com/science/2023/dec/14/ai-scientists-make-exciting-discovery-using-chatbots-to-solve-maths-problems",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/5e67e2b4e8098dfaafa375a6fbe2425d738a4965/0_43_3000_1800/master/3000.jpg?width=620&quality=85&auto=format&fit=max&s=435ab186909670a8b9470a0626575d88",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/science/2023/dec/14/ai-scientists-make-exciting-discovery-using-chatbots-to-solve-maths-problems",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/science/2023/dec/14/ai-scientists-make-exciting-discovery-using-chatbots-to-solve-maths-problems",
-      "publishedDateTime": "2023-12-14T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Math for AI"
       ]
     }
   ],

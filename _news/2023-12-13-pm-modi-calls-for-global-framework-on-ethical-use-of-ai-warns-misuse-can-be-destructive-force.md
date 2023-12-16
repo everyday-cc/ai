@@ -59,15 +59,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "PM Modi to Inaugurate the Annual Global Partnership on Artificial Intelligence (GPAI) Summit Tomorrow"
-    excerpt: "India's Prime Minister Narendra Modi will inaugurate the Global Partnership on Artificial Intelligence (GPAI) Summit, at Bharat Mandapam, New Delhi on"
-    publishedDateTime: 2023-12-11T14:39:00Z
-    webUrl: "https://www.indianweb2.com/2023/12/pm-modi-to-inaugurate-annual-global.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 17
 
 secured: "LS1HErc57Y33w9jr9NWQ69prKx5CPdc7QwPXb2jWIuah/zzV2UMOoo0GH40U/7MNHcD/Y2/EwLLu5cJ1rMXBcOt5dupV6l5OigNn/zekNVsrrDoU0biI1i36ENe/C732SONiphW9OPjI8pLhhIQ6YCx9n4rRg1H6NhhHqJ1qQjIlBeapq9vqsh3eZx4UWsXkgGUU4IF8rUH2A7pNYuJuX2n7GfAaQ2zuhbKE4PwgXweXGC5XXxMCmRLxa3r+eYpvpW1hFg2k/6puLD9ZnRKaG+f3JN/z5mHkNe1A9B6VBH6ebc4ou3eUjz+Xh6zgqZZSPdEkkKmno6uxI0zxiIbCYFiRAHdQ53GNrRP3684nUlk=;iTbrkOxn3SeY5dvlFu27Jg=="
 ---

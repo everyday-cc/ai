@@ -1,24 +1,22 @@
 ---
 category: news
 title: "I can’t draw, but artificial intelligence could help me win this poster contest | Opinion"
-excerpt: "By now, you’ve probably heard about the brouhaha ignited by festival officials picking a poster design that was largely generated through the miracle of artificial intelligence. The design consists of a frog on a lily pad, with a collar and tie ..."
-publishedDateTime: 2023-12-16T07:33:00Z
-originalUrl: "https://www.miamiherald.com/opinion/article283114943.html"
-webUrl: "https://www.miamiherald.com/opinion/article283114943.html"
-ampWebUrl: "https://amp.miamiherald.com/opinion/article283114943.html"
-cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/opinion/article283114943.html"
+excerpt: "I’ve never started a column with a disclaimer before, but there’s a first time for everything, so here goes: I can’t draw. And the only thing I could ever paint was a house."
+publishedDateTime: 2023-12-16T12:33:00Z
+originalUrl: "https://www.newsobserver.com/opinion/article283114943.html"
+webUrl: "https://www.newsobserver.com/opinion/article283114943.html"
 type: article
-quality: 28
-heat: 28
+quality: 8
+heat: 8
 published: false
 
 provider:
-  name: Miami Herald
-  domain: miamiherald.com
+  name: Raleigh News & Observer
+  domain: newsobserver.com
 
 topics:
   - AI
 
-secured: "gPt78I1RiE75MCje1SszR6+2W4pYqHM4HNSCa8uCZnWA9zRmfh6gPh0jKNuv7SJNzJSGk8ne4gv2ZqMH9qHz77BXPAFHfhpwckJoGhpHeBOICbICuEw8XdYYtrifbyPzgbtJVlrWcVRjg2NmTqsTpKvhlC34x9DjrjL1Co9yHGsKwpYcZVjkGo7RnDVb1rP/06hYNDn0EYVAV6tZml4TJ1z39wNKG2RSKsv17et6PFcBl8PqUg/gCIaLiU9OmrMvbehrSqVh2Z44MMvoFEugYzzrIfOm5q3CL2XHBhGfAMBb1RNG0n0sGScdfDLpV3H4vAtgE4fLf3mMFPQj6ZweXoUituF74fgfAKbyXLQWEZl+SSY/afBFi7IZcdXGLaJd5PjlOx9g1ArWSNY5Pfptc7LfliZQCmDrV2Li9rchlctbQXovAd6DzRmIdTBgtmNeH6df7azQkLpffiK2OtW/6sgYQKh7GSG/1WEW51GHvG1bVzXD2FpYVJXd6egRhkt+fTLnkfl4xGjXWzLJ6zVL1w==;8e8LOtI+j2v7LExMs5AcUg=="
+secured: "3u42yEw3oB/KzPXC9SeVf7081BRBhWNa746ULDfVmgQSHS+mNsvPii+Pl33ygUnHPsz7nI+ISrXKDchUKjFt8Vk2WOdhgJCaesiws+rFgbXUZ4Id3tF3i+YLnRpDhQYph4ccMTcWAmlxfFKjvPICHJmHwNVDzzxu18YiiVAcS9rj49HABpAuPQmiPxSpZRkzJSNPIOM/F7DoM3uJaOETfJyUt+FZ1l9hvKXo6SbXYZ9bWmcGrAC9aENT47JYlfiK9GrW0kReNpSiCryxThrE5bwPmzxE0qQNw7U/N4rUf5Z5QMKQ9ofY5zwinC4IT9JH5b3STZtw4E7AcOYrWW5m/J1Wr2KHqHNfK96P/Ua4IgPCJ62N48n6bd4jnaiiePnuUYbbJEZKr/Mj1TZe2BdawQfqHluoVaa9Y7lPbP568YlgPerUWe2BGj+hrOAkwTy8uRKGizlWeSWAwIbWGn+5j/RO26YJuzpDS8nPQZhlc2qTwcB/bXC7LLgLkGZVtwSD1bz3+yuRKCHN5dDXM14mNA==;kkyKN+OcoWdUEtGwV0FkFA=="
 ---
 

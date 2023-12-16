@@ -2,60 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-10-30-from-gut-feel-to-data-driven-decisions-how-machine-learning-can-inform-investment-priorities-for-ctos.md",
-      "title": "From Gut Feel To Data-Driven Decisions: How Machine Learning Can Inform Investment Priorities For CTOs",
-      "excerpt": "Somewhat paradoxically, technology itself could provide CTOs with some much-needed guidance on where to make strategic investments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/30/from-gut-feel-to-data-driven-decisions-how-machine-learning-can-inform-investment-priorities-for-ctos/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/30/from-gut-feel-to-data-driven-decisions-how-machine-learning-can-inform-investment-priorities-for-ctos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/653c138367230bcd5113ac5f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/30/from-gut-feel-to-data-driven-decisions-how-machine-learning-can-inform-investment-priorities-for-ctos/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/30/from-gut-feel-to-data-driven-decisions-how-machine-learning-can-inform-investment-priorities-for-ctos/amp/",
-      "publishedDateTime": "2023-10-30T13:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_news/2023-10-26-exclusive-softbank-takes-indian-founders-on-ai-tour-in-silicon-valley.md",
       "title": "Exclusive: SoftBank takes Indian founders on AI tour in Silicon Valley",
       "excerpt": "Indian startup founders at SoftBank’s office in Silicon Valley. Earlier this week, a group of 20 founders and CXOs from some of India’s biggest start-ups backed by SoftBank engaged in discussions with top executives of leading artificial intelligence (AI) firms in Silicon Valley.",

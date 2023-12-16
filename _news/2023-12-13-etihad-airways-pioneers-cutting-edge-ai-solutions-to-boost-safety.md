@@ -18,6 +18,22 @@ topics:
   - Microsoft AI
   - AI
 
+related:
+  - title: "Sony Semiconductor Solutions' Edge AI Sensing Platform AITRIOS to Expand Streamlined Solutions Through Partnerships with Retail and Logistics Players"
+    excerpt: "Under the partnership with Microsoft since 2020, SSS and Microsoft continue to work closely, including SSS's ongoing participation in the Microsoft AI Co-Innovation Labs, which helps partners bring their solutions to life. In 2023 alone, SSS has become a contributor to Microsoft's newly opened San Francisco, U.S. and Kobe, Japan labs."
+    publishedDateTime: 2023-12-11T18:31:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-sony-semiconductor-solutions-edge-ai-sensing-platform-aitrios-/2023/12/11/9931618.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+    images:
+      - url: "https://mma.prnewswire.com/media/2296805/Sony_2024_NRF_Big_Show_Booth.jpg"
+        width: 400
+        height: 225
+        isCached: true
+
 secured: "SnRYacomEo6kmzpDE7UlxKqCp+AyZ/1RpJOqBvq9gGZ5fIkkDgIapvEB7sCUu0Kj41+PzUq534d/Lw2HML2lm0daSMHRiHFe10+8tRkf3P4IhYVcQJJzw2VddegNyZ9rs/NcWcBR0RsLJCMgL/fei4LQkRclyIIUgNOKleObT982VNrZqYwrXPpBMovQo3sw+xH+L24lzxXLJ2vSCeoU3q21+WTybAl/5rTGv+wCV9vCtdto4AUB8HBh8TzKpgoE07MEcELbjPFdKfPhXwgDdR/JtkR030kJcae6jiO0yCLDZ314B5hD0AZjCTuiYh9nPyldNrFRum9+GxQoMB1hG1KqKMEBiFdEO3eMQN8mAyxJHAEzohUISRZtn/ES76eZM5xrghwoB1+E+aS3AXVNlxvWbScnVxoT5pfN7AS4sI338MojCnrJGtg6RCrhHvXsjQvpIeFNLZFvJr//3hee1BswndjahqJuUiKZASMlrAJpbz23TnGlEVVrxhRH3aYcuvFCpFnOuUQHGujR3yOSpQ==;xZgepk5L6TUZ5/wji/OOGg=="
 ---
 

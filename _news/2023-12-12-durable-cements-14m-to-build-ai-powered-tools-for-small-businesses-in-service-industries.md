@@ -36,6 +36,15 @@ related:
         width: 960
         height: 640
         isCached: true
+  - title: "Cross-Campus Approaches to Building a Generative AI Policy"
+    excerpt: "Particularly for new technologies that disrupt long-standing practices and cultural beliefs, the work of carefully and intentionally developing effect"
+    publishedDateTime: 2023-12-12T20:42:00Z
+    webUrl: "https://er.educause.edu/articles/2023/12/cross-campus-approaches-to-building-a-generative-ai-policy"
+    type: article
+    provider:
+      name: er.educause.edu
+      domain: educause.edu
+    quality: 19
 
 secured: "hbUna0jOXFVbXpfJyP5v50Ro9pj/XFkHZNBZsbg+g5kiWdeL+0BJZiVldiHL6sxrtDl2CnhQeAc84kiAFnSOe7Na8d45oO9BT9XraFhDtyRcxX+d4TbUEONQU2Xs8WE43kczMfE6Z/mSQ8Elj7tNU2LOTZctZZdTkmLXORIJgvcWlKUZ6j/8Ds5ODUP0KIpCcmTFXwPQvpuj3UijsUffymu8KqNjF0PNIS4pp/GlpzfMO/EA2vbKifQaNsr9nKn9iw692Zjs6iqb5Y+eKG0kkb+kZ8bmhFr6S/HzuTQ6mrG+6fyFow1HBORgoujGAwG0bJm4keTOp78f9sMJ8Gnlyl/M/x33f6cW88piYRnBIvM=;QDCBn/2ESu1FxmdRMsNE3g=="
 ---

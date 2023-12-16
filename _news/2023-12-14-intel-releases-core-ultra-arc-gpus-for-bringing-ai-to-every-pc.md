@@ -50,6 +50,22 @@ related:
         width: 1312
         height: 800
         isCached: true
+  - title: "Apple Silicon M3 Pro competes with Nvidia RTX 4090 GPU in AI benchmark [u]"
+    excerpt: "In a recent test of Apple's MLX machine learning framework, a benchmark shows how the new Apple Silicon Macs compete with Nvidia's RTX 4090."
+    publishedDateTime: 2023-12-14T00:30:00Z
+    webUrl: "https://appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark"
+    ampWebUrl: "https://appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 72
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/57700-117522-graph-xl.jpg"
+        width: 1312
+        height: 800
+        isCached: true
   - title: "Intel Core Ultra Meteor Lake Mobile CPUs Launch With Gaming Grade iGPU And AI Brawn"
     excerpt: "If you're reading this website right now, we probably don't have to explain to you that Intel's new Core Ultra processors launching today were codenamed Meteor Lake, and that they represent not only Intel's first \"disaggregated\" CPUs built from disparate tiles,"
     publishedDateTime: 2023-12-14T14:00:00Z
@@ -65,6 +81,22 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/63353/content/hero-intel-core-ultra.jpg"
         width: 708
         height: 398
+        isCached: true
+  - title: "Intel Unveils New AI Chips to Rival Nvidia’s Dominance in AI Industry, INTC Stock Up 1%"
+    excerpt: "Dubbed Gaudi3, Intel intends to attract generative AI companies like OpenAI away from Nvidia and bolster its stock market performance."
+    publishedDateTime: 2023-12-15T11:11:00Z
+    webUrl: "https://www.coinspeaker.com/intel-ai-chips-intc-stock/"
+    ampWebUrl: "https://www.coinspeaker.com/intel-ai-chips-intc-stock/amp/"
+    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/intel-ai-chips-intc-stock/amp/"
+    type: article
+    provider:
+      name: coinspeaker
+      domain: coinspeaker.com
+    quality: 66
+    images:
+      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/12/intel-ai-chips-intc-stock.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "NVIDIA AI GPU shipments expected to surge 150% year-over-year in 2024"
     excerpt: "Analyst expects NVIDIA AI GPU shipments to surge another 150% year-over-year in 2024, led by the new H200 GPU and next-gen Blackwell B100 GPUs."
@@ -107,6 +139,20 @@ related:
       - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
         width: 251
         height: 282
+        isCached: true
+  - title: "US government is looking at NVIDIA's new AI GPUs for China, says they're a 'good partner'"
+    excerpt: "Gina Raimondo, the US Secretary of Commerce, said NVIDIA is a 'good partner' and that the US government has a 'close working relationship' with them."
+    publishedDateTime: 2023-12-13T01:19:00Z
+    webUrl: "https://www.tweaktown.com/news/94932/us-government-is-looking-at-nvidias-new-ai-gpus-for-china-says-theyre-good-partner/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 45
+    images:
+      - url: "https://static.tweaktown.com/news/9/4/94932_801_us-commerce-secretary-says-nvidia-is-good-partner-as-they-share-ai-chip-designs-for-china_full.png"
+        width: 1500
+        height: 857
         isCached: true
   - title: "Intel debuts AI-accelerated Core Ultra and 5th Gen Xeon chips to enable AI to run in any location"
     excerpt: "Intel debuts AI-accelerated Core Ultra and 5th Gen Xeon chips to enable AI to run in any location - SiliconANGLE"

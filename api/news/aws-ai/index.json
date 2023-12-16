@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-17-aws-study-finds-increasing-focus-on-responsible-ai.md",
+      "title": "AWS Study Finds Increasing Focus on Responsible AI",
+      "excerpt": "An AWS study finds that attitudes are changing toward responsible AI usage. Find out what the study reveals and what it means for the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/artificial-intelligence/aws-study-finds-increasing-focus-on-responsible-ai/",
+      "originalUrl": "https://www.eweek.com/artificial-intelligence/aws-study-finds-increasing-focus-on-responsible-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2023/12/ew_20231214-aws-study-find-a-shift-in-the-attitude-toward-responsible-ai.png",
+          "width": 1400,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-16T16:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-15-george-floyd-amazon-bans-police-use-of-facial-recognition-tech.md",
       "title": "George Floyd: Amazon bans police use of facial recognition tech",
       "excerpt": "Amazon said the suspension of law enforcement use of its Rekognition software was to give US lawmakers the opportunity to enact legislation to regulate how the technology is employed. \"We've ...",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.bbc.com/news/business-52989128",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 122,
       "tags": null,
       "images": [
         {
@@ -1287,49 +1339,6 @@
         "AWS AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-12-02-unveiling-aws-ai-frontier-a-deep-dive-into-the-three-layer-stack-and-other-innovations.md",
-      "title": "Unveiling AWS’ AI frontier: A deep dive into the three-layer stack and other innovations",
-      "excerpt": "Artificial intelligence is running at such a speed that companies not keeping pace are immediately left behind. Compared to other players, such as OpenAI Inc. and Microsoft Corp., there’s been a long-held notion that Amazon Web Services Inc. is behind the AI innovation curve.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/12/01/unveiling-aws-ai-frontier-a-deep-dive-into-the-three-layer-stack-and-other-innovations-supercloud5/",
-      "originalUrl": "https://siliconangle.com/2023/12/01/unveiling-aws-ai-frontier-a-deep-dive-into-the-three-layer-stack-and-other-innovations-supercloud5/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/Bratin-clean.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-01T17:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

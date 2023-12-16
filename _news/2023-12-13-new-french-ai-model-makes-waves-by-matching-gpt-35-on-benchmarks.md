@@ -36,6 +36,22 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "Why Artificial Intelligence Requires High-Performance Computing"
+    excerpt: "Traditional data center technology isn’t powerful enough for ambitious AI projects, so businesses are adding clusters of graphic processing units."
+    publishedDateTime: 2023-12-11T21:26:00Z
+    webUrl: "https://biztechmagazine.com/article/2023/12/why-artificial-intelligence-requires-high-performance-computing"
+    ampWebUrl: "https://biztechmagazine.com/article/2023/12/why-artificial-intelligence-requires-high-performance-computing?amp"
+    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2023/12/why-artificial-intelligence-requires-high-performance-computing?amp"
+    type: article
+    provider:
+      name: BizTech
+      domain: biztechmagazine.com
+    quality: 57
+    images:
+      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202312/GettyImages-1407937651_0.jpg?itok=zX9KqBxL"
+        width: 1440
+        height: 500
+        isCached: true
   - title: "Dell Upgrades Storage Offerings As Businesses Shift To AI-First Operating Model"
     excerpt: "As more businesses see the competitive need to shift data into AI-led processes, Dell’s AI-Ready Data Platform combines its infrastructure and performance upgrades to speed up how quickly customers can train large language models."
     publishedDateTime: 2023-12-11T21:05:00Z

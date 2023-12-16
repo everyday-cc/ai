@@ -80,20 +80,6 @@ related:
         width: 1200
         height: 1200
         isCached: true
-  - title: "Elon Musk was mocked by his new AI-powered chatbot"
-    excerpt: "Aravind Srinivas, boss of Perplexity AI, asked Elon Musk's chatbot to \"roast\" its creator — and Grok didn't hold back. The chatbot called the Tesla and X"
-    publishedDateTime: 2023-12-11T16:27:00Z
-    webUrl: "https://rollingout.com/2023/12/11/elon-musk-new-ai-powered-chatbot/"
-    type: article
-    provider:
-      name: Rolling Out
-      domain: rollingout.com
-    quality: 37
-    images:
-      - url: "https://rollingout.com/wp-content/uploads/2023/12/1650967619cropped3474x2605.jpg"
-        width: 1000
-        height: 650
-        isCached: true
   - title: "Elon Musk’s Grok AI Chatbot Enters India"
     excerpt: "Elon Musk's AI startup is rolling out Grok to 46 other countries including Australia, Canada, Malaysia, New Zealand and Singapore among others"
     publishedDateTime: 2023-12-14T06:17:00Z

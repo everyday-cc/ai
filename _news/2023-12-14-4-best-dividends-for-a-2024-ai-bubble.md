@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/brettowens/2023/12/14/4-best-dividends-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brettowens/2023/12/14/4-best-dividends-for-a-2024-ai-bubble/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -40,17 +40,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "Part 2: Expert Predictions For Artificial Intelligence in 2024"
-    excerpt: "In Part 1, experts and startup founders offered many different insights and predictions. More experts have weighed in and made their predictions on the future of artificial intelligence, a tool that h"
-    publishedDateTime: 2023-12-11T16:45:00Z
-    webUrl: "https://techround.co.uk/tech/part-2-expert-predictions-artificial-intelligence-2024/"
-    ampWebUrl: "https://techround.co.uk/tech/part-2-expert-predictions-artificial-intelligence-2024/amp/"
-    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/tech/part-2-expert-predictions-artificial-intelligence-2024/amp/"
-    type: article
-    provider:
-      name: TechRound
-      domain: techround.co.uk
-    quality: 39
   - title: "Is AI a bubble?"
     excerpt: "At the margins, this is already being recognised in company sales. Microsoft recently reported strong growth in its Azure cloud business, with generative AI an important part of that growth. Chief executive Satya Nadella said more than 18,000 organisations ..."
     publishedDateTime: 2023-12-15T11:00:00Z

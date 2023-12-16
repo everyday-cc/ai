@@ -48,6 +48,15 @@ related:
       name: GEN
       domain: genengnews.com
     quality: 10
+  - title: "Atomic AI Creates First Large Language Model Using Chemical Mapping Data to Optimize RNA Therapeutic Development"
+    excerpt: "Atomic AI, a biotechnology company fusing cutting-edge machine learning with state-of-the-art structural biology to unlock RNA drug discovery, announc"
+    publishedDateTime: 2023-12-15T13:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231215527488/en/Atomic-AI-Creates-First-Large-Language-Model-Using-Chemical-Mapping-Data-to-Optimize-RNA-Therapeutic-Development"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "h6c3xUXAs1wsSzIkgqPDUhCqtkPWYJWsiSvPLH3ZUbfDNBiU94bzueU6au/RcWFH95m/m9TGHp2ofoRQdXYMnaJ1v+rNtQCZM1wPObv1vXoaU8xtD0Z4+5PsiHsMccOAAXQ9BAQVQeb1B2S1CHl4MHVHM7bur5Rbo+lta+YVxnP4yt/AxM39f+vgJUakKLpG446a0RfjN/xPuUMYcPrXIFOuI9yHFAZlxEOAAqveAbJpsGB0k1iuudjFxd+DgYDSrdq55boNe1oxgMYTpoJmC0j6BZrBEfrwJJbXMvAnFCQvjaqXApKDqPHSdoJP7Q1B/Rm7nr9RAom357ctMDrYBTHZ+5+FcZQlYrVCg4pZYh2zzX/UMT3Xcg8ScshaFMSx9I35IxhctIKdoIn9lb8sgHEBcX0YHk/OjfXf7R5kcWerhWYhchCPP9WPAbBXiSfrVsv+9eKIWbnoUgebvv28f77j4shlHwOF943q27K0mbU4SPdogpe6PZ1PcNu8YqMupIJwEHPtooCUZ+L5MW1P6g==;Pq6vCHamVxco5v7hs3RqPg=="
 ---

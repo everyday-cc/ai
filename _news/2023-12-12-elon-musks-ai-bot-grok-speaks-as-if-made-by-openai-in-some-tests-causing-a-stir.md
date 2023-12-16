@@ -36,6 +36,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Elon Musk advocates regulation for ‘inevitable’ Artificial Intelligence"
+    excerpt: "Billionaire entrepreneur Elon Musk, the founer of Tesla and SpaceX, said on Saturday that Artificial Intelligence is \"inevitable\" and called for its regulation with a metaphorical \"referee\" to ensure future advantages."
+    publishedDateTime: 2023-12-16T16:31:00Z
+    webUrl: "https://www.laprensalatina.com/elon-musk-advocates-regulation-for-inevitable-artificial-intelligence/"
+    ampWebUrl: "https://www.laprensalatina.com/elon-musk-advocates-regulation-for-inevitable-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-laprensalatina-com.cdn.ampproject.org/c/s/www.laprensalatina.com/elon-musk-advocates-regulation-for-inevitable-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: La Prensa Latina
+      domain: laprensalatina.com
+    quality: 59
+    images:
+      - url: "https://www.laprensalatina.com/wp-content/uploads/2023/12/640601bd74576983ce2da8a4e23a4beb50130700w-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Grimes Unveils Grok, An AI Children’s Toy Unrelated To Elon Musk’s Grok"
     excerpt: "One of the most recent products that Elon Musk is pushing on the world is Grok, an “anti-woke” chatbot for users of the social network that most of us still call Twitter. Grimes, currently in a custody battle with Musk over their three children,"
     publishedDateTime: 2023-12-15T00:40:00Z

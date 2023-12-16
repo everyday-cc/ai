@@ -38,20 +38,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "EU agrees landmark AI regulation deal"
-    excerpt: "The European Union has introduced the world’s first comprehensive laws to regulate the use of AI, reaching a provisional deal between its member states. The laws were agreed after 36 hours of talks, with the European Parliament to vote on the AI Act proposals early next year."
-    publishedDateTime: 2023-12-11T15:54:00Z
-    webUrl: "https://www.inavateonthenet.net/news/article/eu-agrees-landmark-ai-regulation-deal"
-    type: article
-    provider:
-      name: InAVate
-      domain: inavateonthenet.net
-    quality: 39
-    images:
-      - url: "https://res.cloudinary.com/iml/image/upload/w_1024,c_scale/c_crop,g_custom/w_1024,c_scale/v1702310161/widgetdocs/EU_Shutterstock_yxfiqk.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "LATAM gets guide for AI and cybersecurity legislation"
     excerpt: "Fortinet is the lead sponsor of the book Generative Technologies and Cyberspace in the Legislative Agenda – a guide for LATAM legislative institutions in initiatives that seek to regulate the use of Artificial Intelligence and citizen cybersecurity."
     publishedDateTime: 2023-12-12T11:36:00Z

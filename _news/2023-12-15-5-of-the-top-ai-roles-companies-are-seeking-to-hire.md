@@ -18,21 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "5 Ways Companies Can Promote More Sustainable AI"
-    excerpt: "Artificial intelligence (AI) is powering one of the biggest transformations in history, but powering AI is vast amounts of energy— an estimated 85.4 terawatt-hours of electricity annually by 2027, or more than most small countries use in a single year."
-    publishedDateTime: 2023-12-11T15:00:00Z
-    webUrl: "https://www.forbes.com/sites/zendesk/2023/12/11/5-ways-companies-can-promote-more-sustainable-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/zendesk/2023/12/11/5-ways-companies-can-promote-more-sustainable-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zendesk/2023/12/11/5-ways-companies-can-promote-more-sustainable-ai/amp/"
+  - title: "Researchers compare AI policies and guidelines at 52 news organizations around the world"
+    excerpt: "Research on AI guidelines and policies from 52 media organizations from around the world offers a snapshot of how newsrooms are handling AI."
+    publishedDateTime: 2023-12-12T18:12:00Z
+    webUrl: "https://journalistsresource.org/home/generative-ai-policies-newsrooms/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Journalist's Resource
+      domain: journalistsresource.org
+    quality: 30
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65736bb1f35531799fbd70ae/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
+      - url: "https://journalistsresource.org/wp-content/uploads/2023/12/mojahid-mottakin-Dj6D287bxiQ-unsplash-1024x675.jpg"
+        width: 1024
+        height: 675
         isCached: true
 
 secured: "M4GG55gpNm1IpveUD/eOc1E7ZYGa2AqH9Pruc5tRksYB3VhTX6VYF2GDHLCxSqpFqPMYLjX87vcPbvRyhLKwaPcOWzCuPYgv4ryeV07Do9aRXP2q27vuDB9PFvaOjGt/PUAmqKzZH247dPdk7vz7EQzO2XKsllDJlVNrdzvdFbkqOaUduwgvIdSSMqDqwpsJeS5K/u8K603tnxjs6P/DQ/B9EjFCmlmiDZChv3DJbS1YuvZo71YmcLU8cqtoLG6Kqud0QbfUsTq8l+CmAI1ePynDQbCxeVPqkAveEjXwa+41f7swRWLp6D95zc/qPts4yysuXXlbjovXwZwLN28QLhRP1Qq079Rl6D4dkSW32qog+PLLwBIozAxj6Okl2lo9XXnqSxsafjzCI67O0OZ+vzvMclO3VjVgzKbmTienNFTr6LATudK0nfKAIlRJ8tJaWHdrnl0ugyjSLo+To6XhaE3nbEVpqwZX+W8b0VS9UQFzJRnMCT0bQX9b8D8Golg6fbcE2ZOsrgFop78cVdhFIQ==;6OBrNO+rzpLqeE3OXrlBRw=="
