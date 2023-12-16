@@ -7,8 +7,8 @@ originalUrl: "https://www.dailyexcelsior.com/police-starts-ai-based-facial-recog
 webUrl: "https://www.dailyexcelsior.com/police-starts-ai-based-facial-recognition-system-in-kishtwar/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: Daily Excelsior
@@ -25,24 +25,110 @@ images:
     isCached: true
 
 related:
-  - title: "Milestone in security: J&K Police introduces AI-based facial recognition System in Kishtwar"
-    excerpt: "In a first of its kind initiative, the Jammu and Kashmir Police have introduced an innovative AI-Based Facial Recognition System in Kishtwar, marking a significant milestone in the region's law enforcement capabilities."
-    publishedDateTime: 2023-12-12T22:31:00Z
-    webUrl: "https://www.risingkashmir.com/milestone-in-security-jk-police-introduces-ai-based-facial-recognition-system-in-kishtwar"
+  - title: "Hays County approves AI facial recognition technology for sheriff’s office"
+    excerpt: "HAYS COUNTY, Texas (KXAN) — A facial recognition software could come to the Hays County Sheriff’s Office in the future. County commissioners recently approved for the sheriff’s office to ..."
+    publishedDateTime: 2023-12-13T03:07:00Z
+    webUrl: "https://www.kxan.com/news/local/hays/hays-county-approves-ai-facial-recognition-technology-for-sheriffs-office/"
+    ampWebUrl: "https://www.kxan.com/news/local/hays/hays-county-approves-ai-facial-recognition-technology-for-sheriffs-office/amp/"
+    cdnAmpWebUrl: "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/local/hays/hays-county-approves-ai-facial-recognition-technology-for-sheriffs-office/amp/"
     type: article
     provider:
-      name: Rising Kashmir
-      domain: risingkashmir.com
-    quality: 41
-  - title: "Kishtwar CCTV cameras get AI-powered facial recognition tech for swift detection of militants: police"
-    excerpt: "The new system is integrated with a database containing the photographs of militants, OGWs and criminals, and can automatically try to match faces captured in the CCTV footage with the database."
-    publishedDateTime: 2023-12-14T13:32:00Z
-    webUrl: "https://indianexpress.com/article/india/kishtwar-cctv-cameras-ai-facial-recognition-militant-detection-jk-police-9068580/"
+      name: KXAN
+      domain: kxan.com
+    quality: 72
+    images:
+      - url: "https://www.kxan.com/wp-content/uploads/sites/40/2016/05/haysheriffs_37206290_ver1.0-1.jpg?w=1280"
+        width: 1280
+        height: 960
+        isCached: true
+  - title: "Draft details of proposed Facial Recognition Technology Bill set to be published"
+    excerpt: "The outline of legislation which would allow gardaí to use Facial Recognition Technology (FRT) will be published today. Justice Minister Helen McEntee this week received Cabinet approval for the draft Facial Recognition Technology Bill. In the aftermath ..."
+    publishedDateTime: 2023-12-14T00:01:00Z
+    webUrl: "https://www.rte.ie/news/ireland/2023/1214/1421890-facial-recognition/"
     type: article
     provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 19
+      name: RTE Online
+      domain: www.rte.ie
+    quality: 49
+    images:
+      - url: "https://img.rasset.ie/001be4a5-1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "BCSO considering use of facial recognition to identify suspects"
+    excerpt: "The Benton County Sheriff's Office is testing the use of facial recognition software to identify criminals and suspects."
+    publishedDateTime: 2023-12-14T02:55:00Z
+    webUrl: "https://www.nbcrightnow.com/news/bcso-considering-use-of-facial-recognition-to-identify-suspects/article_913c7418-9a34-11ee-bf9a-0f3efdb4c754.html"
+    type: article
+    provider:
+      name: NBC Right Now
+      domain: nbcrightnow.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nbcrightnow.com/content/tncms/assets/v3/editorial/7/3b/73bdce22-f5fc-11e9-a715-fb805e66758f/5db0fc836dc67.image.jpg?crop=618%2C324%2C0%2C19&resize=618%2C324&order=crop%2Cresize"
+        width: 618
+        height: 324
+        isCached: true
+  - title: "Draft law on facial recognition technology to be published"
+    excerpt: "Bill will help gardaí trawl through thousands of hours of CCTV when investigating serious crimes, Helen McEntee says"
+    publishedDateTime: 2023-12-14T10:15:00Z
+    webUrl: "https://www.irishtimes.com/crime-law/2023/12/14/draft-law-on-facial-recognition-technology-to-be-published/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 39
+    images:
+      - url: "https://www.irishtimes.com/resizer/gJ4MIXUU4-aNv2dWvdirPwJu8N4=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/WGSE7J3PY5HFLAAVS6Z5DH2BPQ.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Technology: Draft law to be published today"
+    excerpt: "Following the Dublin riots last month, the offences of riot and violent disorder were also included in the legislation"
+    publishedDateTime: 2023-12-14T05:44:00Z
+    webUrl: "https://www.newstalk.com/news/facial-recognition-technology-draft-law-to-be-published-today-1623984"
+    type: article
+    provider:
+      name: Newstalk
+      domain: newstalk.com
+    quality: 39
+    images:
+      - url: "https://media.radiocms.net/uploads/2023/12/14064055/Facial-recognition-research-equipment-edit.jpg"
+        width: 1920
+        height: 1198
+        isCached: true
+  - title: "Irish Cabinet approves draft police facial recognition bill"
+    excerpt: "Minister of Justice Helen McEntee has received approval to publish the draft of the Garda Síochána (Recording Devices) (Amendment) Bill of 2023."
+    publishedDateTime: 2023-12-14T23:07:00Z
+    webUrl: "https://www.biometricupdate.com/202312/irish-cabinet-approves-draft-police-facial-recognition-bill"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/19132752/garda-surveillance-scaled.jpg"
+        width: 2048
+        height: 1360
+        isCached: true
+  - title: "Energy Artificial Intelligence Technology Office’s work transferred to other agency subgroups"
+    excerpt: "The Department of Energy has dissolved its Artificial Intelligence Technology Office and transferred much of its work to its Office of Science and the Office of the Chief Information Officer, an agency spokesperson confirmed to FedScoop. The update came ..."
+    publishedDateTime: 2023-12-13T00:00:00Z
+    webUrl: "https://fedscoop.com/energy-artificial-intelligence-technology-offices-work-transferred-to-other-agency-subgroups/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 6
+  - title: "Is Live Facial Recognition technology necessary and proportionate? Police forces defend scanning hundreds of thousands faces a year"
+    excerpt: "South Wales Police and London’s Metropolitan Police Service argue that the safety benefits are outweighed by the privacy concerns."
+    publishedDateTime: 2023-12-13T14:21:00Z
+    webUrl: "https://diginomica.com/live-facial-recognition-technology-necessary-and-proportionate-police-forces-defend-scanning"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 0
 
 secured: "iO2o/9p0uI8zFhaMHF20TZS1CTLvgBAA974LUsmQJmU+DwMIpZR6SpEwB4jzBQzFaHb+mRbEusx+8yuCJF3UlZBOoI6LWWbqbtPVc4c0zKh1ByUZ3QsvxPioZVaNUVhrjSy8dZNfKrzkkgU+9EQLADK7is95ytihUayliFvX8++jc8yu8npUGWOYbK5ucT4XifK+rc54AlWyLk+KyLNC5hiFFsx/TPHDW5hwThfkg8gk1DzIAH6SFFelhqJzlTrunfkukWfIm+MtkF1gcqfyzadH9kTKacxIC8eEpJC9SmV40xScEx9lfypk37VjHFqjZuo3E112Sm5wi+yVi7iUmDD8hHQXZex7HgAed8W8au4mhteoMFWsYRVZgOVRvun0JZaTetpshOUWNmDJxwld3HxZ6g2QPX9offjiRMii+qpTfO2pmf+WfhqIsvNRC5o2IzOF8dQ7MTgEVMvB/feA1GSyxuBIDuegtgLLDubg4yDxwc/FVFPryf3R9Z71PWFHHQpjv7Ne4gVBV53gvMyt2Q==;ix8qe74RlfwLX7Siq9SFIg=="
 ---

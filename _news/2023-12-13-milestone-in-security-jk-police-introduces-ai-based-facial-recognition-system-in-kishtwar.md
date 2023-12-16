@@ -7,7 +7,7 @@ originalUrl: "https://www.risingkashmir.com/milestone-in-security-jk-police-intr
 webUrl: "https://www.risingkashmir.com/milestone-in-security-jk-police-introduces-ai-based-facial-recognition-system-in-kishtwar"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -20,20 +20,6 @@ topics:
   - AI in Security
 
 related:
-  - title: "Police starts AI based facial recognition system in Kishtwar"
-    excerpt: "In a significant stride towards bolstering security measures, SSP Kishtwar, Khalil Poswal along with Additional SP Kishtwar, Rajinder Singh here today made functional an advanced Artificial Intelligence (AI) based facial recognition system at Morden Naka in Drabshalla."
-    publishedDateTime: 2023-12-12T21:52:00Z
-    webUrl: "https://www.dailyexcelsior.com/police-starts-ai-based-facial-recognition-system-in-kishtwar/"
-    type: article
-    provider:
-      name: Daily Excelsior
-      domain: dailyexcelsior.com
-    quality: 54
-    images:
-      - url: "https://cdndailyexcelsior.b-cdn.net/wp-content/uploads/2023/12/kishtwar.jpg"
-        width: 800
-        height: 307
-        isCached: true
   - title: "Kishtwar CCTV cameras get AI-powered facial recognition tech for swift detection of militants: police"
     excerpt: "The new system is integrated with a database containing the photographs of militants, OGWs and criminals, and can automatically try to match faces captured in the CCTV footage with the database."
     publishedDateTime: 2023-12-14T13:32:00Z

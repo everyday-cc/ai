@@ -221,15 +221,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "All the Jobs AI Is Coming for, According to a UK Study"
-    excerpt: "Following ChatGPT's launch late last year, the speed at which AI has caught on surprised almost everybody. There are jobs already being affected, too: Some layoffs this year came due to companies believing AI could replace certain roles,"
-    publishedDateTime: 2023-12-11T18:30:00Z
-    webUrl: "https://lifehacker.com/tech/the-jobs-most-at-risk-from-ai-according-to-a-uk-study"
-    type: article
-    provider:
-      name: Lifehacker
-      domain: lifehacker.com
-    quality: 19
   - title: "How Artificial Intelligence Is Transforming HR Practices"
     excerpt: "Artificial intelligence (AI) has taken various industries by storm, with human resource management (HRM) being no exception. With a variety of AI tools, businesses in several industries are reaping the rewards of innovative technology to optimize their HR operations."
     publishedDateTime: 2023-12-12T02:03:00Z

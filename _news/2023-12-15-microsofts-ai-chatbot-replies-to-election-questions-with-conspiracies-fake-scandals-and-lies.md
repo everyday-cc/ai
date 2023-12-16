@@ -93,15 +93,6 @@ related:
       name: inc42
       domain: inc42.com
     quality: 37
-  - title: "Google proposes Project Ellmann, a chatbot that intimately knows you"
-    excerpt: "While Google is busy integrating its generative AI model Gemini into Pixel, Bard, and other existing products, developers are proposing an entirely new one, codenamed Project Ellmann. Ellmann aims to grab a \"bird's-eye view\" of users' lives by looking at ..."
-    publishedDateTime: 2023-12-11T17:21:00Z
-    webUrl: "https://www.techspot.com/news/101161-google-proposes-project-ellmann-chatbot-intimately-knows-you.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 34
   - title: "How to Answer Complex Questions with Google Bard"
     excerpt: "This guild is designed to show you how you can answer complex questions with the help of Google Bard and other AI assistants. Google Bard, a large language model (LLM) developed by Google AI, has quickly gained popularity for its ability to provide ..."
     publishedDateTime: 2023-12-13T10:00:00Z

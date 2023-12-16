@@ -225,15 +225,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "All the Jobs AI Is Coming for, According to a UK Study"
-    excerpt: "Following ChatGPT's launch late last year, the speed at which AI has caught on surprised almost everybody. There are jobs already being affected, too: Some layoffs this year came due to companies believing AI could replace certain roles,"
-    publishedDateTime: 2023-12-11T18:30:00Z
-    webUrl: "https://lifehacker.com/tech/the-jobs-most-at-risk-from-ai-according-to-a-uk-study"
-    type: article
-    provider:
-      name: Lifehacker
-      domain: lifehacker.com
-    quality: 19
   - title: "How Visual AI Is Transforming the Conventional School Safety Model"
     excerpt: "Join this free webinar to learn how visual AI can be used to create a proactive and adaptive approach to physical security and emergency response for schools and campuses."
     publishedDateTime: 2023-12-13T14:15:00Z

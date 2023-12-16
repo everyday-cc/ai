@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Academics lay out principles for rollout of NSW digital ID, face biometrics"
-    excerpt: "The new report notes the need to build public trust when using biometric facial verification tools and liveness detection."
-    publishedDateTime: 2023-12-11T17:47:00Z
-    webUrl: "https://www.biometricupdate.com/202312/academics-lay-out-principles-for-rollout-of-nsw-digital-id-face-biometrics"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 22
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/02/15111831/selfie-login-authentication-IDV-scaled.jpg"
-        width: 2048
-        height: 1298
-        isCached: true
   - title: "Paravision Converge highlights partners, range of face biometrics applications"
     excerpt: "This year’s annual Paravision event, Converge, takes the form of a magazine, and highlights integrations of facial recognition into trusted identity solutions."
     publishedDateTime: 2023-12-14T17:40:00Z

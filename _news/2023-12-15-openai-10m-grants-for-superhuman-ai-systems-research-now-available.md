@@ -53,22 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "OpenAI’s Rival Mistral AI Valued at $2B after Latest Funding Round"
-    excerpt: "OpenAI's rival Mistral AI is now valued at $2 billion after its latest funding round where it pulled $415 million from investors."
-    publishedDateTime: 2023-12-11T17:39:00Z
-    webUrl: "https://www.coinspeaker.com/mistral-ai-2b-latest-funding/"
-    ampWebUrl: "https://www.coinspeaker.com/mistral-ai-2b-latest-funding/amp/"
-    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/mistral-ai-2b-latest-funding/amp/"
-    type: article
-    provider:
-      name: coinspeaker
-      domain: coinspeaker.com
-    quality: 57
-    images:
-      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/12/mistral-ai-2b-latest-funding.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Dropbox spooks users by sending data to OpenAI for AI search features"
     excerpt: "On Wednesday, news quickly spread on social media about a new enabled-by-default Dropbox setting that shares your Dropbox data with OpenAI for an experimental AI-powered search feature. Dropbox says that user data shared with third-party AI partners isn't used to train AI models and is deleted within 30 days."
     publishedDateTime: 2023-12-13T19:41:00Z

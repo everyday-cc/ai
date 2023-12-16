@@ -103,15 +103,6 @@ related:
       name: inc42
       domain: inc42.com
     quality: 37
-  - title: "Google proposes Project Ellmann, a chatbot that intimately knows you"
-    excerpt: "While Google is busy integrating its generative AI model Gemini into Pixel, Bard, and other existing products, developers are proposing an entirely new one, codenamed Project Ellmann. Ellmann aims to grab a \"bird's-eye view\" of users' lives by looking at ..."
-    publishedDateTime: 2023-12-11T17:21:00Z
-    webUrl: "https://www.techspot.com/news/101161-google-proposes-project-ellmann-chatbot-intimately-knows-you.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 34
 
 secured: "AH9A/u1Fa9UUxz2lmTk0HElPDmedzkKa11G/R0yiUq66bjfSAFd2R7P6EuO4f1zcrgI4PqenH0zsg1vPrW/PYijo5/Osknu4BtqeIZUlGs2ETiKKRK+LwOjUhQDIJYC1wWAwt8lyYXsWjU3ocfB9MosFCtarhWqhIuvHN/jNMXUD8CCrayOkM6F3Oh4jQe0vVu5oD9QBR0ZUs0TvDXz5KGRv6LlulTDlc3Fu8kD5Xi1fgy1p8nVVVDWferpddwtiGq+HF1BGv26IfisvRa+7bfHeJm5iVQYBnYw/CbFIanUE8szZRBFKWRCKwH1E7k29sv31IbwMxuTZoT0z+LEUhHxXPXyoLrkEIGdBn2pB6vA=;R3V6h8Ac1bgFcW8R4dQPUQ=="
 ---

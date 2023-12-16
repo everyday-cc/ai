@@ -7,8 +7,8 @@ originalUrl: "https://www.macworld.com/article/2168452/iphone-magnifier-on-devic
 webUrl: "https://www.macworld.com/article/2168452/iphone-magnifier-on-device-ai.html"
 type: article
 quality: 64
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Macworld
@@ -27,22 +27,6 @@ images:
     width: 1024
     height: 682
     isCached: true
-
-related:
-  - title: "Galaxy S24 AI features leaked, and it sounds like a Pixel 8 and iPhone 15 had a baby"
-    excerpt: "Some of Samsung's big AI phone features for the Galaxy S24 are already available on Pixel 8 and iPhone 15 devices - what you need to know."
-    publishedDateTime: 2023-12-11T18:14:00Z
-    webUrl: "https://bgr.com/tech/galaxy-s24-ai-features-leaked-and-it-sounds-like-a-pixel-8-and-iphone-15-had-a-baby/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 30
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/03/samsung-galaxy-s23-ultra-6-1.jpg?quality=82&strip=all"
-        width: 2000
-        height: 1125
-        isCached: true
 
 secured: "L4IvHBsi/AOgmKeumDPIBXZL48IjdmQm8FTIJNMxlN0296WNFPd2399D1EhFK6yeOCijvl0bjsOlCYnj6wyme8O/wJ3plzdwkB9sFjT4yUt/JDnl9CWlZXMMGuMVB6pdfUzaeYoKA2kRIjQ90SNmFIWqzrKA0Tfszng8GDPviNucjDQKFMuft0Z97wHh/nBWogG0WgbNFKMsnI+YnJprOvOp/e+v3AqnkHYS1/yED35+p5DyZEHuXTEi5HIGr+exPHnNt4zStc8n1Cfo+jvSK2VJUaJS7Uj6PqXgXWenSHJfH5M18Mbv57edz08nmD7i4BWvQYcHdB/J3oJI/WNdOwCue6ocjb1brgdtm1kJqTo=;ccxMf26WapiX/Z2BedC91g=="
 ---

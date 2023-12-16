@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/five-open-source-ai-tools-to-know/"
 webUrl: "https://www.ibm.com/blog/five-open-source-ai-tools-to-know/"
 type: article
 quality: 99
-heat: 199
+heat: 189
 published: true
 
 provider:
@@ -68,22 +68,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/12/cfr0z3n_vector_art_line_art_high_contrast_a_cloud_of_dollar_bil_ed0f7165-ab90-4861-96ce-48a41ee111e1.png?w=1200&strip=all"
         width: 1200
         height: 672
-        isCached: true
-  - title: "Five things you need to know about the EU’s new AI Act"
-    excerpt: "The EU is poised to effectively become the world’s AI police, creating binding rules on transparency, ethics, and more."
-    publishedDateTime: 2023-12-11T17:56:00Z
-    webUrl: "https://www.technologyreview.com/2023/12/11/1084942/five-things-you-need-to-know-about-the-eus-new-ai-act/"
-    ampWebUrl: "https://www.technologyreview.com/2023/12/11/1084942/five-things-you-need-to-know-about-the-eus-new-ai-act/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/11/1084942/five-things-you-need-to-know-about-the-eus-new-ai-act/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/12/eu-ai-flags2.jpg?w=3000"
-        width: 3000
-        height: 1688
         isCached: true
   - title: "Pope calls for treaty to regulate artificial intelligence"
     excerpt: "ROME >> Pope Francis on Thursday called for an international treaty to ensure artificial intelligence is developed and used ethically, arguing that the risks of technology lacking human values of compassion, mercy, morality and forgiveness are too great."

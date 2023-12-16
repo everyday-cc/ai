@@ -7,7 +7,7 @@ originalUrl: "https://www.pcgamesn.com/lego-fortnite/loot-llamas"
 webUrl: "https://www.pcgamesn.com/lego-fortnite/loot-llamas"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "Epic Games reveal instructions for first LEGO Fortnite set"
-    excerpt: "We’ve seen a great team-up with LEGO and Fortnite, so will we see any LEGO Fortnite sets from the battle royale giant soon? We may have just gotten the first."
-    publishedDateTime: 2023-12-11T17:14:00Z
-    webUrl: "https://www.dexerto.com/gaming/epic-games-reveal-instructions-for-first-lego-fortnite-set-2425485/"
-    type: article
-    provider:
-      name: Dexerto
-      domain: dexerto.com
-    quality: 24
-    images:
-      - url: "https://editors.dexerto.com/wp-content/uploads/2023/12/02/sae-13.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "ZxtAISbK6WAxyt8j4Bc15gpNP1NbqzcBArxvEjolkWVdYFYebgG79rjTHeeUCtXl69QLgMjLuR9M1ypNAeYZnbiN+BzYzJ+7PUCxu2H8LSi+naE/wWMICZbYyKRhaiVLOXb1N3dHMG1rgtNfEJitB940vwTCkXzt9AMCk4U3saZ2oLDxp8guQhHGok8qUdAe/n48kWEdqUK7g9ugaMl2Yl8hvxzHnqhFaUMZacIcQzBLaFX/jsbCvvjhDexooRixWSZ88nbrZh2coeMh5ECtFYNvc32X+XY9fAw+DWhMW0OqF7/oT4p9/M4HWyq8Hmg+cofKJ1TvXOOuCsKAGreEc44+YyrOT0CN+bUmLBcjL40=;oD4Xx8hmiVanLIDfXinkeA=="
 ---

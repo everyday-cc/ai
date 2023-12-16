@@ -3,8 +3,8 @@ category: news
 title: "AI is exposing awkward ties on Meta and Microsoft boards, as heavy hitting directors Marc Andreessen and Reid Hoffman bet on startup rivals"
 excerpt: "Generative AI technology is blurring the lines between businesses and bringing fresh scrutiny to the boardroom roles of heavy-hitters like Reid Hoffman and Marc Andreessen."
 publishedDateTime: 2023-12-16T15:00:00Z
-originalUrl: "https://www.aol.com/ai-exposing-awkward-ties-meta-130000696.html?ref=biztoc.com"
-webUrl: "https://www.aol.com/ai-exposing-awkward-ties-meta-130000696.html?ref=biztoc.com"
+originalUrl: "https://www.aol.com/ai-exposing-awkward-ties-meta-130000696.html"
+webUrl: "https://www.aol.com/ai-exposing-awkward-ties-meta-130000696.html"
 type: article
 quality: 20
 heat: 20
@@ -24,6 +24,6 @@ images:
     height: 799
     isCached: true
 
-secured: "eWn3jeU5ZPupZ9Dte7XU+pUN5/MIN+UZiiZqr3NxVa/iksW9eQQm/moBeZjVCpYpbs38LdheNaDGRHo5RbP/ztDYfTt6j9iL2pJsZ9MG7990m1b5cZwGtpApsv+dG3HmWygiluPf01F2+rOOWnpoSRR2WwtfS0l1KypKO6y8UdT4g7w0U+9drzhmIVYs96rd3R/79w2p4WgFTLUgKdlM1/BtWgwGbjLeRwQR0iOW7wcQwu2vMBNsiIRzUMMQj6PZ9zlAufBZuO9QLrJNFqrehFuWpaYudoUhXsnpmNJuzq4PuE0HCKfTakVYIxngLfZkJbVGYvsW9iMdBPuCWdAyfN11OvwDFcuHJYC/vjQti6I=;j1UiJZSJbyeQTWRKDXyjKw=="
+secured: "G0ds0rYWkOhYEUhaoFzm2EWBYLEJzknzHjGveHYWUDXT0a2/XNxv8OBIliDufPkMyDx159VRXha2CWLaiPa8mS77w+IvUezO/tm8kfHDLZ8Z3+aKlgSxafkvIDJikNOKU4mHW5uWSG2xAIVkmuI+xf/01I91wUfLWAwl2Yn94f9Ujw6iq4RtVHDxTy1rwRBDgJkuPfcdBaK7vnsd9ushQYgpwgFDcZ+0wt41e71f+uWoyHsUpKaA5Ne72noiemc5QJ7lPQaoz9jeYGdOGhq11PPOIKFpGEpUtitpok1COlw0aVo1ZSdc4WtUtOBRCaKsdfMVqRrcr/0I246HmcuawEO9XLaUtYKCfhdoMPE0CUQ=;iZYPJW6NNGlQQNg71Q907Q=="
 ---
 

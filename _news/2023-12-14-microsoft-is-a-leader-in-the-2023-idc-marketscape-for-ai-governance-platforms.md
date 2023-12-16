@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/blog/microsoft-is-a-leader-in-th
 webUrl: "https://azure.microsoft.com/en-us/blog/microsoft-is-a-leader-in-the-2023-idc-marketscape-for-ai-governance-platforms/"
 type: article
 quality: 101
-heat: 171
+heat: 151
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tech Trends: Microsoft to Introduce AI to Many Government Workers"
-    excerpt: "With Azure OpenAI Service, we are enabling our customers to gain access to all of the latest models from our partner OpenAI, like GPT-4 Turbo, and do more to engage and leverage their own data. Our enterprise AI tools provides the same role-based security ..."
-    publishedDateTime: 2023-12-11T17:36:00Z
-    webUrl: "https://statetechmagazine.com/article/2023/12/tech-trends-microsoft-introduce-ai-many-government-workers"
-    ampWebUrl: "https://statetechmagazine.com/article/2023/12/tech-trends-microsoft-introduce-ai-many-government-workers?amp"
-    cdnAmpWebUrl: "https://statetechmagazine-com.cdn.ampproject.org/c/s/statetechmagazine.com/article/2023/12/tech-trends-microsoft-introduce-ai-many-government-workers?amp"
-    type: article
-    provider:
-      name: Statetechmagazine
-      domain: statetechmagazine.com
-    quality: 74
-    images:
-      - url: "https://statetechmagazine.com/sites/statetechmagazine.com/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202312/GettyImages-1485546309.jpg?itok=fyQGX9CX"
-        width: 1440
-        height: 500
-        isCached: true
   - title: "Dell, Microsoft, Lenovo Laptops to Soon Feature Intel’s New Chip with Built-in AI Capabilities"
     excerpt: "Intel, a leading technology company, announced Thursday that numerous personal computer manufacturers are utilizing their latest chip. This strategic move aims to entice consumers to upgrade their machines for the dawn"
     publishedDateTime: 2023-12-15T09:10:00Z
@@ -68,20 +52,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 57
-  - title: "Microsoft and labor unions form ‘historic’ alliance on AI"
-    excerpt: "Microsoft is teaming up with labor unions to create 'an open dialogue' on how artificial intelligence will affect workers."
-    publishedDateTime: 2023-12-11T17:51:00Z
-    webUrl: "https://www.latimes.com/business/story/2023-12-11/microsoft-and-labor-unions-form-historic-alliance-on-ai"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 54
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/c303384/2147483647/strip/true/crop/2000x1050+0+218/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd9%2Fc8%2F51d3b04f402cbe775fac74266e80%2Fmicrosoft-openai-75424.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft is training AI to accelerate regulatory process for nuclear projects"
     excerpt: "Microsoft is reportedly eyeing nuclear power for its AI operations. Microsoft stock is currently up close to 60% versus year start."
     publishedDateTime: 2023-12-12T17:39:00Z

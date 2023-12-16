@@ -7,7 +7,7 @@ originalUrl: "https://www.businesspost.ie/news/dublin-riots-draft-law-on-facial-
 webUrl: "https://www.businesspost.ie/news/dublin-riots-draft-law-on-facial-recognition-technology-to-be-published/"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -25,43 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Technology: Draft law to be published today"
-    excerpt: "Following the Dublin riots last month, the offences of riot and violent disorder were also included in the legislation"
-    publishedDateTime: 2023-12-14T05:44:00Z
-    webUrl: "https://www.newstalk.com/news/facial-recognition-technology-draft-law-to-be-published-today-1623984"
-    type: article
-    provider:
-      name: Newstalk
-      domain: newstalk.com
-    quality: 39
-    images:
-      - url: "https://media.radiocms.net/uploads/2023/12/14064055/Facial-recognition-research-equipment-edit.jpg"
-        width: 1920
-        height: 1198
-        isCached: true
-  - title: "‘Face Recognition Technology’ used to generate Pensioner’s Life Certificate: Dr Jitendra"
-    excerpt: "Department of Pension & Pensioners Welfare (DoP&PW) is possibly one of the first departments in the Govt sector to have started using the latest “Face Recognition Technology” for establishing Aadhar based identification of elderly pensioners to generate “Digital Life Certificate”."
-    publishedDateTime: 2023-12-11T23:30:00Z
-    webUrl: "https://www.dailyexcelsior.com/face-recognition-technology-used-to-generate-pensioners-life-certificate-dr-jitendra-2/"
-    type: article
-    provider:
-      name: Daily Excelsior
-      domain: dailyexcelsior.com
-    quality: 30
-    images:
-      - url: "https://cdndailyexcelsior.b-cdn.net/wp-content/uploads/2023/12/Page5-1-8.jpg"
-        width: 800
-        height: 674
-        isCached: true
-  - title: "How should AI developers be addressing ethical issues as they create new technology?"
-    excerpt: "In the second hour of \"Connections with Evan Dawson\" on Monday, December 11, 2023, we discuss how AI developers should be addressing ethical issues as they create new technology."
-    publishedDateTime: 2023-12-11T19:23:00Z
-    webUrl: "https://www.wxxinews.org/show/connections/2023-12-11/how-should-ai-developers-be-addressing-ethical-issues-as-they-create-new-technology"
-    type: article
-    provider:
-      name: WXXI
-      domain: wxxinews.org
-    quality: 27
   - title: "Dublin riots: McEntee publishes draft law on facial recognition tech"
     excerpt: "Minister for Justice Helen McEntee has published a draft bill on the use of facial recognition technology by An Garda Síochána."
     publishedDateTime: 2023-12-14T12:30:00Z

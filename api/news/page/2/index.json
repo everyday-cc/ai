@@ -343,7 +343,7 @@
       "originalUrl": "https://www.zdnet.com/article/h-r-block-introduces-ai-chatbot-that-will-answer-your-complex-tax-questions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 155,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -776,7 +776,7 @@
       "originalUrl": "https://azure.microsoft.com/en-us/blog/microsoft-is-a-leader-in-the-2023-idc-marketscape-for-ai-governance-platforms/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 171,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -1186,21 +1186,21 @@
       ]
     },
     {
-      "path": "_news/2023-12-14-overhyped-digital-health-executive-anti-predictions-for-healthcare-in-2024.md",
-      "title": "Overhyped? Digital Health Executive Anti-Predictions For Healthcare In 2024",
-      "excerpt": "Will General Catalyst’s plans for health system acquisition come to fruition in 2024? Will GenAI live up to its hype as healthcare’s ultimate complexity liberator?",
+      "path": "_news/2023-12-14-iit-delhi-launches-new-certification-for-quantum-computing-machine-learning.md",
+      "title": "IIT Delhi Launches New Certification for Quantum Computing & Machine Learning",
+      "excerpt": "IIT Delhi to propel professionals into the Quantum Future with Certification in Quantum Computing & Machine Learning. The five-month online programme includes modules on Quantum Mechanics, Quantum Algorithms,",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sethjoseph/2023/12/14/overhyped-digital-health-executive-anti-predictions-for-healthcare-in-2024/",
-      "originalUrl": "https://www.forbes.com/sites/sethjoseph/2023/12/14/overhyped-digital-health-executive-anti-predictions-for-healthcare-in-2024/",
+      "webUrl": "https://www.timesnownews.com/education/iit-delhi-launches-new-certification-for-quantum-computing-machine-learning-article-105998969",
+      "originalUrl": "https://www.timesnownews.com/education/iit-delhi-launches-new-certification-for-quantum-computing-machine-learning-article-105998969",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 76,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/657afb952417cb668643d77c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 919,
-          "height": 900,
+          "url": "https://static.tnn.in/thumb/msid-105998962,thumbsize-1478046,width-1280,height-720,resizemode-75/105998962.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1208,23 +1208,14 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sethjoseph/2023/12/14/overhyped-digital-health-executive-anti-predictions-for-healthcare-in-2024/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sethjoseph/2023/12/14/overhyped-digital-health-executive-anti-predictions-for-healthcare-in-2024/amp/",
-      "publishedDateTime": "2023-12-14T15:06:00Z",
+      "ampWebUrl": "https://www.timesnownews.com/education/iit-delhi-launches-new-certification-for-quantum-computing-machine-learning-article-105998969/amp",
+      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/education/iit-delhi-launches-new-certification-for-quantum-computing-machine-learning-article-105998969/amp",
+      "publishedDateTime": "2023-12-14T15:23:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "timesnownews",
+        "domain": "timesnownews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1233,7 +1224,7 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
+        "Machine Learning",
         "AI"
       ]
     }

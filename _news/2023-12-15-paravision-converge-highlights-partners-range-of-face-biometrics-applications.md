@@ -39,20 +39,6 @@ related:
         width: 2048
         height: 1291
         isCached: true
-  - title: "Academics lay out principles for rollout of NSW digital ID, face biometrics"
-    excerpt: "The new report notes the need to build public trust when using biometric facial verification tools and liveness detection."
-    publishedDateTime: 2023-12-11T17:47:00Z
-    webUrl: "https://www.biometricupdate.com/202312/academics-lay-out-principles-for-rollout-of-nsw-digital-id-face-biometrics"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 22
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/02/15111831/selfie-login-authentication-IDV-scaled.jpg"
-        width: 2048
-        height: 1298
-        isCached: true
 
 secured: "aaTWTbEA4g+efi4GcoTrOeSaqT+RADJZ9htVjC38bQHzUaWj0OssRXPjfL9weJOqfwEHZPL+WhhW0b9amuTcjuugKWKAFRcjVVSL2RtNJyze6qJeeNokv4Hf6DZ1cJQWfKOdEs/xBspDOu89+XBFkDxt9BE2k3r9Ww5qmLV5nOQfhJGXl+TW5GIUNLif1c0caQfpMqzBgoGHY9qxynCHH1TdfyqD0cJKAutMEkMJrg3xUFOugbOdmV3avnMGOfw6VoyNtTSNrTfaaOJ9mx20Et+GIl4elZVRRLLkmV4D6XAtCFG+BPRlEfXl6FPWBUncVU2fXa22cSlvPwEFHyFgDLtL16Je3ojWNR/4bx4YO0P3wxhTVphLnjcX7lAjBZYBBLXR6f9WGF7BkSm+BsqFH1B1TgdMtvNA0p/jP2As/yq1/PcsTXHyPcBZowAa2Hum7yPR2CV9xuc1hbRJ5dbm5m8xGrpnuZqL9igcyHiNMtUCQ1QMdyUWllo2MX7mOn4wiusAdmBKKwXmdTGLyFvkUA==;NfqkljjQYrL6VHiHYXdBiA=="
 ---

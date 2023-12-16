@@ -50,22 +50,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "OpenAI’s Rival Mistral AI Valued at $2B after Latest Funding Round"
-    excerpt: "OpenAI's rival Mistral AI is now valued at $2 billion after its latest funding round where it pulled $415 million from investors."
-    publishedDateTime: 2023-12-11T17:39:00Z
-    webUrl: "https://www.coinspeaker.com/mistral-ai-2b-latest-funding/"
-    ampWebUrl: "https://www.coinspeaker.com/mistral-ai-2b-latest-funding/amp/"
-    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/mistral-ai-2b-latest-funding/amp/"
-    type: article
-    provider:
-      name: coinspeaker
-      domain: coinspeaker.com
-    quality: 57
-    images:
-      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/12/mistral-ai-2b-latest-funding.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "OpenAI $10M grants for superhuman AI systems research now available"
     excerpt: "OpenAI has recently announced the launch of a substantial $10M grant program, known as the Superalignment Fast Grants. This ambitious initiative is"
     publishedDateTime: 2023-12-15T10:02:00Z

@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AWS AI
 
 images:
   - url: "https://th-i.thgim.com/public/incoming/hexnoa/article67628498.ece/alternates/FREE_1200/2023-12-01T165936Z_896271073_RC27N4AGUHKT_RTRMADP_3_AMAZON-COM-AWS.JPG"
