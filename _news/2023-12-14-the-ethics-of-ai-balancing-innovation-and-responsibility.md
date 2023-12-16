@@ -23,37 +23,93 @@ topics:
   - AI
 
 related:
-  - title: "CIOs grapple with the ethics of implementing AI"
-    excerpt: "With ethical considerations around AI use increasingly top of mind, IT leaders are developing governance frameworks, establishing review boards, and coming to terms with the difficult discussions and decisions ahead."
-    publishedDateTime: 2023-12-11T10:01:00Z
-    webUrl: "https://www.cio.com/article/1251976/cios-grapple-with-the-ethics-of-implementing-ai.html"
-    ampWebUrl: "https://www.cio.com/article/1251976/cios-grapple-with-the-ethics-of-implementing-ai.html/amp/"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/1251976/cios-grapple-with-the-ethics-of-implementing-ai.html/amp/"
+  - title: "Indonesia to regulate AI, balancing innovation and ethics"
+    excerpt: "The Indonesian government will soon issue a regulation on the utilization of artificial intelligence (AI), Minister of Communication and Informatics Budi Arie"
+    publishedDateTime: 2023-12-13T12:08:00Z
+    webUrl: "https://en.antaranews.com/news/301002/indonesia-to-regulate-ai-balancing-innovation-and-ethics"
+    ampWebUrl: "https://en.antaranews.com/amp/news/301002/indonesia-to-regulate-ai-balancing-innovation-and-ethics"
+    cdnAmpWebUrl: "https://en-antaranews-com.cdn.ampproject.org/c/s/en.antaranews.com/amp/news/301002/indonesia-to-regulate-ai-balancing-innovation-and-ethics"
     type: article
     provider:
-      name: CIO
-      domain: cio.com
+      name: Antara News
+      domain: antaranews.com
     quality: 74
     images:
-      - url: "https://www.cio.com/wp-content/uploads/2023/12/shutterstock_540952438.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 683
+      - url: "https://img.antaranews.com/cache/800x533/2023/07/05/antarafoto-teknologi-kecerdasan-buatan-untuk-mengurai-kemacetan-jakarta-050723-riv-3.jpg"
+        width: 800
+        height: 533
         isCached: true
-  - title: "Mapping the micro and macro of biology with spatial omics and AI"
-    excerpt: "Over the last 20 years, the omics revolution has enabled us to understand cell and tissue biology at ever increasing resolutions. Bulk sequencing techniques that emerged in the mid 2000s allowed the study of mixed populations of cells."
-    publishedDateTime: 2023-12-12T15:30:00Z
-    webUrl: "https://www.technologyreview.com/2023/12/12/1084492/mapping-the-micro-and-macro-of-biology-with-spatial-omics-and-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2023/12/12/1084492/mapping-the-micro-and-macro-of-biology-with-spatial-omics-and-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/12/1084492/mapping-the-micro-and-macro-of-biology-with-spatial-omics-and-ai/amp/"
+  - title: "The EU’s AI Act: A beacon of innovation and ethics for emerging Europe"
+    excerpt: "In an exceptional move reverberating through the corridors of technology and governance, the European Union has provisionally adopted the Artificial Intelligence Act, heralding a new era of digital ethics and innovation."
+    publishedDateTime: 2023-12-11T12:24:00Z
+    webUrl: "https://emerging-europe.com/partner-content/the-eus-ai-act-a-beacon-of-innovation-and-ethics-for-emerging-europe/"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
+      name: emerging-europe.com
+      domain: emerging-europe.com
+    quality: 54
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/12/Owkin_contribarticle_1200.jpg"
+      - url: "https://emerging-europe.com/wp-content/uploads/2023/12/bigstock-ai-artificial-intelligence-310093555.jpg"
+        width: 1600
+        height: 1000
+        isCached: true
+  - title: "Trustworthy AI: The future of innovation and ethics"
+    excerpt: "As GenAI's prominence continues to ascend, the imperative for trustworthy AI frameworks intensifies. To navigate this evolving landscape successfully, several pivotal factors warrant incorporation."
+    publishedDateTime: 2023-12-16T03:44:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/trustworthy-ai-the-future-of-innovation-and-ethics/106033248"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 54
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-106033248,imgsize-64286,width-1200,height=765,overlay-etcio/artificial-intelligence/trustworthy-ai-the-future-of-innovation-and-ethics.jpg"
         width: 1200
-        height: 864
+        height: 765
+        isCached: true
+  - title: "Most countries agreeing what India was saying on Artificial Intelligence regulation: Rajeev Chandrasekhar"
+    excerpt: "The Union minister today met Viscount Camrose, UK's Minister of AI and Intellectual Property and Hiroshi Yoshida, Japan's Vice Minister of Policy Coordination, Ministry of Internal Affairs and Communications."
+    publishedDateTime: 2023-12-13T08:19:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/policy/most-countries-agreeing-what-india-was-saying-on-artificial-intelligence-regulation-rajeev-chandrasekhar/105956937"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/policy/most-countries-agreeing-what-india-was-saying-on-artificial-intelligence-regulation-rajeev-chandrasekhar/105956937"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/policy/most-countries-agreeing-what-india-was-saying-on-artificial-intelligence-regulation-rajeev-chandrasekhar/105956937"
+    type: article
+    provider:
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 40
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-105956937,imgsize-18394,width-1200,height=765,overlay-ettelecom/policy/most-countries-agreeing-what-india-was-saying-on-artificial-intelligence-regulation-rajeev-chandrasekhar.jpg"
+        width: 1200
+        height: 765
+        isCached: true
+  - title: "European Union makes deal for artificial intelligence rules"
+    excerpt: "European Union officials have negotiated the world's first comprehensive set of artificial intelligence regulations. The landmark AI Act seeks to protect against such risks as misinformation and job automation."
+    publishedDateTime: 2023-12-12T18:15:00Z
+    webUrl: "https://www.cbsnews.com/video/european-union-makes-deal-for-artificial-intelligence-rules/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/12/12/713b095f-c029-4450-ad4c-e1fcee1b9f71/thumbnail/1200x630/f384c8103fe6c46d7be2f63f6671cd8e/cbsn-fusion-european-union-makes-deal-for-artificial-intelligence-rules-thumbnail-2521448-640x360.jpg?v=07160a3d82bc4d81e93fbc43cb05e8e7"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Julie Jordan: AI for the future – Strike the right balance between innovation and regulation"
+    excerpt: "It seems as though everyone is talking about artificial intelligence these days. From concerns about how it could affect the 2024 presidential elections to hopes that it might solve the global climate crisis,"
+    publishedDateTime: 2023-12-15T17:30:00Z
+    webUrl: "https://www.msstate.edu/newsroom/article/2023/12/julie-jordan-ai-future-strike-right-balance-between-innovation-and"
+    type: article
+    provider:
+      name: Mississippi State University
+      domain: msstate.edu
+    quality: 28
+    images:
+      - url: "http://www.msstate.edu/sites/www.msstate.edu/files/2023-12/Jordan_Julie-LeeHall_20220421_B5W6821_featured.jpg"
+        width: 1600
+        height: 1000
         isCached: true
 
 secured: "iunYk3wFfDDQZRkCG6Xq7botnZ9Je8iGMPsmNeRMlziSbKwNGDiOc/rAS7BKcyditeBHufK2N6DG4brd8TKV2kuu3LGw4kuFHLRWZP1jJJrL1NQcL1F3zfmGi91v5DE+FS/XSg6pjJeTyTDDyNv/34F8g8CJRlMfvhtmpKmmAbSfCjupPxtmWgRLEWvrytUHNPm31oiYuyGz9fDMrwUGiXepphGix0iAYj9WKU0cPz9+4wLbgyliD5VjsdkKn+HoNAiIZNZzVDAU6/vAc5+VvUnxRFt8Y//BEi0r8OdRnMHeJ7c3CsKgMnCmpTE3O1dZER3jN13CgrvpnGSekCIbnZb1OSnmtxApAHge9dgTxXMWmKnc6K0t6J3pDnARjI8KG7QJmZiq2OrsA6akmJQFxXSUe89Gg+flezptUk8JMIoKj0W+xrIQow08RALcYo+QGo/GLdnPdJPTZiOrJnrFRZHmWvdXRkYfuoHVldoBASNYKYbSGA17A0dF5DUuMCA++0q4KhuxOCOXLOQtDpXo/A==;h5zdtlVYq4FpLme81M5RAA=="

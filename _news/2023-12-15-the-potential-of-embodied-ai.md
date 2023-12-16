@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/15/the-potent
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/15/the-potential-of-embodied-ai/amp/"
 type: article
 quality: 91
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -62,15 +62,6 @@ related:
         width: 767
         height: 633
         isCached: true
-  - title: "The messy reality of AI safety"
-    excerpt: "THE near-implosion of OpenAI, a world leader in the burgeoning field of artificial intelligence, surfaced a conflict within the organisation and the broader community about the speed with which the technology should continue,"
-    publishedDateTime: 2023-12-11T09:26:00Z
-    webUrl: "https://www.businesstimes.com.sg/opinion-features/messy-reality-ai-safety"
-    type: article
-    provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 19
 
 secured: "bA6ZApyilzaX5FPs4nlAwPYVrUWElw6aIKNZP0NanxTgR1MX8vehtcgNgxKBQxJMn+adQ/7+n0gqzDx089cpPXXo4hkjpG5rOnYtRFvdwvnF7lmo3H6XeP3XHx1InXU7pECO1tbERyVGnZFIqJ9NUbVIj9Y2hcO/4zwGvCvRNc4PNNbqnYJtHRG2mopxsv3nFOhfnJ80LO3mbMGyHceAvNd6Hd3I1Nl2YPT4Nk3v5SmrrvP82WRW5dmuGKmUaaxyDyDyH1reHlGXtjbONNm/XFWSnKOUwFsDv2DnJuCIGKDgJJJ7+Rl6FnePT6VUZZ4j12tHbNQRHzG3bfWxN1RDAkD2ozDWbyw9pTrrdQWnuJ51w7DxnpO+KLMfzVisiCyDOQ7dZknFu5Bcbja4xPpb7wZy6FyupIs5MpyYCNe4CSvUcP8v+5wCkwB2j+V6kec4e5iTd6byEgRRn1gm2ux4XtDcaaQdzfjnLXhLqvnuTUzyE676dBelV9px+e2dEjTDweST5gwdpF0T6PcgMuUg+w==;67ZzdwhONsCuyUKTy9BP8w=="
 ---

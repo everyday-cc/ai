@@ -57,15 +57,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "The messy reality of AI safety"
-    excerpt: "THE near-implosion of OpenAI, a world leader in the burgeoning field of artificial intelligence, surfaced a conflict within the organisation and the broader community about the speed with which the technology should continue,"
-    publishedDateTime: 2023-12-11T09:26:00Z
-    webUrl: "https://www.businesstimes.com.sg/opinion-features/messy-reality-ai-safety"
-    type: article
-    provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 19
 
 secured: "oZvz9E6lrXawTzmdG1Gk/EduzzrFQzQYL6XnXOpbWhVEkdXoWcChJYnjTh+X0oDoWCqydzv8vy//5cc5EgYyN4KkUb+kx+8TtvpgCurqWaLogrF9r0BkyL8BNl1N7tuwXX71BYI6/2tFijNPWl/iqm64M5XoHQkfYXq/hItw6ONptYoc2kjm7GZftAQjy1U6QH77ZCwRcePH1YBbg+hZkG1Cjok4XDHKfcBY5k+rgunuVIDlHSX5+mqUjUBXorH7zAdq1vEKnW3ke2T8YDabYZbxioNjWm9EsLncKJalYbYmHsXFAYsYRofctfrUkI+yf3RAayiocd1LaCgHiLVE7gQHYvqpWKmK4uiIGqM6iy4=;mJwFN4GVMWzgDILiVuAZag=="
 ---

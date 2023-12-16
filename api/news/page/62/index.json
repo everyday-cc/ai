@@ -2,6 +2,92 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2023-10-25-veracode-reveals-automation-and-training-are-key-drivers-of-software-security-for-financial-services.md",
+      "title": "Veracode Reveals Automation and Training Are Key Drivers of Software Security for Financial Services",
+      "excerpt": "The Power of AI and Machine Learning The State of Software Security report also analyzed language preference by vertical and found, at 51 percent, Java is almost a de facto standard within the Financial Services sector. Veracode Fix, an AI-powered ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-veracode-reveals-automation-training-key-drivers-software-security-/2023/10/25/9904994.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-veracode-reveals-automation-training-key-drivers-software-security-/2023/10/25/9904994.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-25T13:22:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-10-25-harnessing-ai-to-streamline-identity-management.md",
+      "title": "Harnessing AI To Streamline Identity Management",
+      "excerpt": "While generative artificial intelligence can help boost IAM’s capabilities, there are challenges and limitations to keep in mind as well.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/25/harnessing-ai-to-streamline-identity-management/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/25/harnessing-ai-to-streamline-identity-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f7376dc40469ab26495a8e5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/25/harnessing-ai-to-streamline-identity-management/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/25/harnessing-ai-to-streamline-identity-management/amp/",
+      "publishedDateTime": "2023-10-25T11:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-25-artificial-intelligence-in-the-c-suite-a-senior-leaders-guide-for-maximizing-ais-potential.md",
       "title": "Artificial intelligence in the C-Suite: A senior leader’s guide for maximizing AI’s potential",
       "excerpt": "While I certainly don’t want to dismiss the many challenges we face if artificial intelligence implementation goes wrong, I want to explore the upside of AI. Let’s focus on some ways executives can think about and use AI to help their organizations win in the marketplace.",
@@ -1055,109 +1141,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-10-25-google-cloud-revenue-misses-expectations-despite-ai-boom.md",
-      "title": "Google Cloud revenue misses expectations despite AI boom",
-      "excerpt": "Alphabet, Google’s parent company, reports stronger than expected overall revenue but stock falls in after-hours trading",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2023/oct/24/alphabet-q3-earnings-google-ai?ref=biztoc.com",
-      "originalUrl": "https://www.theguardian.com/technology/2023/oct/24/alphabet-q3-earnings-google-ai?ref=biztoc.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/3e2889687f977cb0a22d79523e871b6d5e717030/0_0_2788_1673/master/2788.jpg?width=620&quality=85&auto=format&fit=max&s=666e3bbe284d312ff95f65500ac217e1",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2023/oct/24/alphabet-q3-earnings-google-ai",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/24/alphabet-q3-earnings-google-ai",
-      "publishedDateTime": "2023-10-24T21:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-25-insurance-companies-are-betting-on-ai-and-mass-data-analytics-in-a-battle-against-fraud-that-costs-billions.md",
-      "title": "Insurance companies are betting on AI and mass data analytics in a battle against fraud that costs billions",
-      "excerpt": "Insurance companies are using AI to flag suspicious claims. One company said their machine-learning system finds three times more fraud than manual or rules-based tools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/insurance-fraud-artificial-intelligence-detection-2023-10",
-      "originalUrl": "https://www.businessinsider.com/insurance-fraud-artificial-intelligence-detection-2023-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65382e180487ff031cad4b90?width=750&format=jpeg&auto=webp",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/insurance-fraud-artificial-intelligence-detection-2023-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/insurance-fraud-artificial-intelligence-detection-2023-10?amp",
-      "publishedDateTime": "2023-10-24T20:56:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

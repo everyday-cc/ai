@@ -7,7 +7,7 @@ originalUrl: "https://www.wusa9.com/article/news/local/virginia/virginia-middle-
 webUrl: "https://www.wusa9.com/article/news/local/virginia/virginia-middle-school-google-ai-robotics-grant/65-ac6f1f3a-19bc-4748-9cae-035ebfb5c021"
 type: article
 quality: 80
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1140
     height: 641
     isCached: true
-
-related:
-  - title: "Google announces grant money for AI, robotics clubs in Va. schools"
-    excerpt: "Google is giving out more than $500,000 in grants to start robotic and AI clubs in Virginia schools, including one at Herndon Middle School."
-    publishedDateTime: 2023-12-11T09:57:00Z
-    webUrl: "https://wtop.com/fairfax-county/2023/12/some-help-for-local-kids-to-change-the-future-with-robotics-and-a-i/"
-    type: article
-    provider:
-      name: WTOP News
-      domain: wtop.com
-    quality: 69
-    images:
-      - url: "https://wtop.com/wp-content/uploads/2023/12/MicrosoftTeams-image-18-scaled-e1702341064227.jpg"
-        width: 1333
-        height: 889
-        isCached: true
 
 secured: "3rhrDMBMfZjL05f6UXD5oH5OdcoJMSQ6Ea/MotoBTiClcWPzsnXEu3T1mgNAmXJaHfr3rocg3fHR0rR415x7gzrwR3Him+pMTcMae+2QLD0/x7rD12OyDnuHiAvKta5pWzK1AgaGCw5pytyNa+OhVSni5/qguOzqtbAFE6DjktuBFBN70s3lxcCg+Zby4LlLpSXMJEvRPdYfuwNiUsGZl01FgWrvrXTbe6Inxoy2tzWm8N/6oC8kM4VJRpXxuhRqY0GNhZBT56tOjxvhHws78VyvhIIiSTbzRo3pcqXJxj3kQOgkliITX2P7j1AJe18EJvk2z/EZqfFrFhL0ItvqOgoUl6ynVlQaugWfs4AZVxhK/MTIyKULpseHITh/myosGna8yqfYaN9r3xKqP+EBK3VO9c5WjIsb2m5fUVvx/0UdzzapDNOK8FFRYXKj9up+XlOmJXUrVVZAT2SPoK9G1j1JgpJ+wGhy9TA+tffdDu1pWHMSBg4BpPf0E0kMRVVAhXrCepHLLmcHn0oB7bZHzg==;2QwfvjmZlfe5pCTzqsAgDQ=="
 ---

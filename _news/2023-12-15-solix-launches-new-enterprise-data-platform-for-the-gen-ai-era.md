@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/data-infrastructure/solix-launches-new-ent
 webUrl: "https://venturebeat.com/data-infrastructure/solix-launches-new-enterprise-data-platform-for-the-gen-ai-era/"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: VentureBeat
@@ -27,22 +27,6 @@ images:
     width: 1200
     height: 672
     isCached: true
-
-related:
-  - title: "TradeWire Launch: Introducing the AI-Driven Analytical Platform for Traders"
-    excerpt: "The TradeWire analytics platform is currently in an open beta testing period to collect user feedback and optimize the product experience before full public launch. Analytical tools are automated by TradeWire partner RevenueBot for use with exchanges. Users can sign up for early access to the beta program directly on www.tradewire.ai."
-    publishedDateTime: 2023-12-11T10:18:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/tradewire-launch-introducing-the-aidriven-analytical-platform-for-traders-1032888793"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://images.newsfilecorp.com/files/8871/190394_tradeaiimage_500.jpg"
-        width: 500
-        height: 300
-        isCached: true
 
 secured: "roeeMvtSrIwPVKwHdHD4vuHd5oj9p4qOJ0++EX6SVpxmZFGCYCD31WMADIckJhc8BSv+KvB1U6Ly079Wy/7s+pi0NCA1IDzF6Fq5v6RMb4Fya5s6GO2Z4wW3Fzujr0auxlZuG3XQdd8yxhV6JPU1wvSM3oAoKVQ7iJMv8GPm7xeHJjdC828QjSE+3WQ3gIUivq7pc84BvxRWmSPmtv9AOoIP773F6fh7B5/077SZGnraoYWoOQDYkWWHEVxZu0OOKVlRE0YUjpVO/SV0L9ZrGwtMC4/4uZrIMgi4uUkiGCipaCvFBfaHYmfGsVmlRDjE+u/oCx7EUIpsyusvewpOeDvwfk7DvNn51Oo26i7IQXA=;cSdHkoR6hDqNoGd+ZipGfw=="
 ---

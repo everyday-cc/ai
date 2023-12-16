@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Samsung Galaxy S24 could borrow the Pixel 8’s best AI features"
-    excerpt: "If these features all arrive on the Samsung Galaxy S24 line then these phones could rival the Google Pixel 8 for AI skills, though you might not even need Samsung’s upcoming flagship for this, as One UI 6.1 will also be rolled out to the Samsung Galaxy S23 and many of the other best Samsung phones."
-    publishedDateTime: 2023-12-11T10:54:00Z
-    webUrl: "https://www.techradar.com/phones/samsung-galaxy-phones/the-samsung-galaxy-s24-could-borrow-the-pixel-8s-best-ai-features"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 69
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/tpd7gmNEhsXRqYGrfVLuJ5-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Samsung new Galaxy Buds could one-up the Pixel Buds with on-device AI"
     excerpt: "Samsung will reportedly launch a new pair of Galaxy Buds next year with on-device AI powering live audio and video call translations."
     publishedDateTime: 2023-12-12T04:21:00Z
@@ -70,6 +56,22 @@ related:
       - url: "https://www.androidauthority.com/wp-content/uploads/2023/02/samsung-galaxy-s23-home-screen-hero.jpg"
         width: 1920
         height: 1081
+        isCached: true
+  - title: "Save Up to 35% on Appliances at the Discover Samsung Winter Sale This Week"
+    excerpt: "Samsung's on-sale appliances feature the latest amenities including smart touch screens, smartphone connectivity, object recognition, and more. Extra perks include free installation, free haul away of your old appliances, 0% APR for purchases made in ..."
+    publishedDateTime: 2023-12-13T17:30:00Z
+    webUrl: "https://www.etonline.com/save-up-to-35-on-appliances-at-the-discover-samsung-winter-sale-this-week-210943"
+    ampWebUrl: "https://www.etonline.com/save-up-to-35-on-appliances-at-the-discover-samsung-winter-sale-this-week-210943?amp"
+    cdnAmpWebUrl: "https://www-etonline-com.cdn.ampproject.org/c/s/www.etonline.com/save-up-to-35-on-appliances-at-the-discover-samsung-winter-sale-this-week-210943?amp"
+    type: article
+    provider:
+      name: Entertainment Tonight
+      domain: etonline.com
+    quality: 42
+    images:
+      - url: "https://www.etonline.com/sites/default/files/styles/1280x720/public/images/2023-12/samsung%202_0.jpeg?h=c5a8a1e2"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Samsung Introduces New PC Series 'Galaxy Book4' Powered By AI"
     excerpt: "Samsung on Friday introduced its new PC series Galaxy Book4 powered by artificial intelligence (AI), which includes -- Boo"
@@ -110,29 +112,6 @@ related:
         width: 1000
         height: 465
         isCached: true
-  - title: "Samsung Galaxy S24 Ultra will reportedly offer 2600 nit peak brightness"
-    excerpt: "Reportedly, Samsung is also improving the AI object recognition engine to improve its imaging capabilities in different lighting conditions. Gizmochina brings you the best of Chinese Tech from emerging smartphone companies, innovative startups, to crazy ..."
-    publishedDateTime: 2023-12-13T00:00:00Z
-    webUrl: "https://www.gizmochina.com/2023/12/13/samsung-galaxy-s24-ultra-2600-nit-peak-brightness/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 34
-  - title: "Galaxy S24 AI features leaked, and it sounds like a Pixel 8 and iPhone 15 had a baby"
-    excerpt: "Some of Samsung's big AI phone features for the Galaxy S24 are already available on Pixel 8 and iPhone 15 devices - what you need to know."
-    publishedDateTime: 2023-12-11T18:14:00Z
-    webUrl: "https://bgr.com/tech/galaxy-s24-ai-features-leaked-and-it-sounds-like-a-pixel-8-and-iphone-15-had-a-baby/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 30
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/03/samsung-galaxy-s23-ultra-6-1.jpg?quality=82&strip=all"
-        width: 2000
-        height: 1125
-        isCached: true
   - title: "Samsung’s Galaxy Buds 3 Pro could offer real-time language translation"
     excerpt: "These AI-powered earbuds will reportedly be capable of translating communication on a real-time basis. While we’ve seen earbuds with language translation features in the past, the Galaxy Buds 3 Pro might be able to do this without internet connectivity."
     publishedDateTime: 2023-12-14T17:15:00Z
@@ -156,6 +135,20 @@ related:
       name: Android Police
       domain: androidpolice.com
     quality: 19
+  - title: "Samsung Galaxy Buds 3 Pro leak reveals real-time translation feature — and you don't even need the cloud to speak to people in another language"
+    excerpt: "According to a report by South Korea's Maeil Business Newspaper, Samsung's next-gen Galaxy Buds Pro 3 wireless earbuds could come with real-time language translations thanks to their powerful on-device AI capabilities."
+    publishedDateTime: 2023-12-14T15:17:00Z
+    webUrl: "https://www.tomsguide.com/news/samsung-galaxy-buds-3-pros-biggest-upgrade-just-tipped-and-it-sounds-like-a-game-changer"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 0
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/DhYub5u92hANcYqzE4Kr4Y-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "/XrkoZmDeNvw1rK067vyvSSX7xFOSOh2G2vRtMBoraPJTQx945AY/QIqafBfKWhQGYz7iEtuUreqMHKZtcZHy/ElccEBO8eFHDOKZx8c9TmUj5YfI7eMj7zYmJjvT+n7YWzYAy6YCGot2R/1L07L8ccpHLiB1kl0CH6Ws5U9bRZMQ31MfLRHpuAn4nUo+76RUH9g4Sro5V/TK8yq88O+KoyMxXWF/GreLBTOUL0AKwVCejJqRIZyeHjcZtFUBjBWW+cEhgO7jcw+aJsEa7oh3hNYvQY5RahJdfExNwUT0Vtgy/1kihUpiyVQzOwZH87mF0oiGWNTGRF2qNALWYip8A7P+sDJccCW4makNhOH4KM=;xcniV/ecEfY8ZxJiI5bSTQ=="
 ---

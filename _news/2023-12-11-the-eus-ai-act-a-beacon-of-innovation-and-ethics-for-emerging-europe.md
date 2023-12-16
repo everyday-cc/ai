@@ -41,6 +41,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "The Ethics Of AI: Balancing Innovation And Responsibility"
+    excerpt: "AI has the potential to transform various industries completely. On the other hand, concerns around its ethical implications are valid, too."
+    publishedDateTime: 2023-12-14T13:01:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/14/the-ethics-of-ai-balancing-innovation-and-responsibility/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
   - title: "Trustworthy AI: The future of innovation and ethics"
     excerpt: "As GenAI's prominence continues to ascend, the imperative for trustworthy AI frameworks intensifies. To navigate this evolving landscape successfully, several pivotal factors warrant incorporation."
     publishedDateTime: 2023-12-16T03:44:00Z

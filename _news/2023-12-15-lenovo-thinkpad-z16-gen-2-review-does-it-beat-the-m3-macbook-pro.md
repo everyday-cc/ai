@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Yes, ‘AI laptops’ are a thing now: 5 that will boost your AI workflow"
+    excerpt: "For the uninitiated, popular chipmaker Intel unveiled the next generation of chipsets, called Intel Core Ultra processors. What's the big deal about 'em? Well, they include an NPU, which means AI and machine-learning tasks should get a boost on these new \"AI laptops.\""
+    publishedDateTime: 2023-12-16T10:00:00Z
+    webUrl: "https://mashable.com/article/5-ai-laptops"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 67
+    images:
+      - url: "https://helios-i.mashable.com/imagery/articles/03YOxbRzJcfME0JA2OikoPy/hero-image.fill.size_1200x675.v1702673308.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "gkeZUqA+52z1gMemFTjIDk3bf1S587gxQNbKs85QnVQhOSFprFKmu+BPWnx/8KIhJTJ1YQrm9jwukPxIDs1qujbHv4cS8MVFNPNZ+IhvxxTJ9XMjuEdf0GEd9vImi7MBXg4NjCU5vODrZ0TFqL6R4O72OPEj3Nhnuvbd7nVarZzhlmpgYQvlqEaFjD1CtwdVqNBo1ACSltYHdcTzX9qf2uwwCTtq2920RrE9evuOugTGLUneUBgDKb8yMRVJgCMzseQRD5UhoYuh6UWQQd8ffr8B1L7kS2WqVcbbZX7tBvUPDr/GmHqZc8M09MneHMNCFqr/V071hK72ez+sKZc87RdgTc9pZkcHJJU6xg081DLZdXZyenKmLwykj1xw9AN+cSe2DhDl36CSBu5Op4703CQ1yiCMnwFnbAhbzcpmTxiI3UqWa+dbQ30ytVGvnHoucO5aY0rfVZDFOwqHRlVWrkCI4PPv0Rv8rP9/eFQzJZAtgInJ+e5fXukJ96GBXVAh4VnQNXmpsIzudcR/7DYOaQ==;EZjyFbEa2kGIajbHZKPfvg=="
 ---

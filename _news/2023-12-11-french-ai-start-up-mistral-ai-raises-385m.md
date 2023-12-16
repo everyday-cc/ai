@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dhakatribune.com/amp/business/333592/french-ai-start-up-
 cdnAmpWebUrl: "https://www-dhakatribune-com.cdn.ampproject.org/c/s/www.dhakatribune.com/amp/business/333592/french-ai-start-up-mistral-ai-raises-%E2%82%AC385m"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Dhaka Tribune
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "French AI start-up Mistral AI raises 385 mn euros"
-    excerpt: "French artificial intelligence start-up Mistral AI announced Sunday it had raised 385 million euros ($414 million), becoming one of Europe's two AI leaders."
-    publishedDateTime: 2023-12-11T09:02:00Z
-    webUrl: "https://techxplore.com/news/2023-12-french-ai-start-up-mistral-mn.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 37
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2016/57ea6ea8bc753.jpg"
-        width: 1500
-        height: 1060
-        isCached: true
   - title: "French startup Mistral AI closes $415M funding round"
     excerpt: "The company’s CEO said the goal is to create a “European champion” of generative AI on a global scale, “based on an open, responsible and decentralized approach to technology.”"
     publishedDateTime: 2023-12-11T13:08:00Z

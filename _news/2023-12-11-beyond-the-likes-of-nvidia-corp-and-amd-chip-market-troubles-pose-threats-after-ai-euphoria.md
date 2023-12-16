@@ -248,6 +248,20 @@ related:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
     quality: 51
+  - title: "Intel Drops New Core Ultra Processors and Gaudi3 AI Chip to Take on Nvidia and AMD"
+    excerpt: "Intel launches Core Ultra processors and Gaudi3 AI chip to compete with Nvidia and AMD. Core Ultra line features chiplet design, neural processing unit, and specialized AI components for enhanced performance."
+    publishedDateTime: 2023-12-16T10:47:00Z
+    webUrl: "https://www.technobezz.com/news/intel-drops-new-core-ultra-processors-and-gaudi3-ai-chip-to-take-on-nvidia-and-amd/"
+    type: article
+    provider:
+      name: Technobezz.com
+      domain: technobezz.com
+    quality: 48
+    images:
+      - url: "https://cdn.technobezz.com/c/intel_core_ultra_holthaus_jpg_rendition_intel_web_1648_927_d97184be91/intel_core_ultra_holthaus_jpg_rendition_intel_web_1648_927_d97184be91.jpg"
+        width: 1102
+        height: 927
+        isCached: true
   - title: "US government is looking at NVIDIA's new AI GPUs for China, says they're a 'good partner'"
     excerpt: "Gina Raimondo, the US Secretary of Commerce, said NVIDIA is a 'good partner' and that the US government has a 'close working relationship' with them."
     publishedDateTime: 2023-12-13T01:19:00Z

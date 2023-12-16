@@ -34,20 +34,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "French AI start-up Mistral AI raises 385 mn euros"
-    excerpt: "French artificial intelligence start-up Mistral AI announced Sunday it had raised 385 million euros ($414 million), becoming one of Europe's two AI leaders."
-    publishedDateTime: 2023-12-11T09:02:00Z
-    webUrl: "https://techxplore.com/news/2023-12-french-ai-start-up-mistral-mn.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 37
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2016/57ea6ea8bc753.jpg"
-        width: 1500
-        height: 1060
-        isCached: true
 
 secured: "2vt/xACUDdz7lySTEBZu1yBmv3fMTmEReR2wGLWLNBCIXV/znfJhp6oNy2rkVsQnEyxuK4ezmZRzZnBlDbB84iZPBtRXawV4YDyt55VYZlLL4ydTBjfEpOeep3EEy0wST1TEDju8aEQKY9OqYUsGLRVKjElzw7vzTTdkO98Nu3WkQZrIARFdPOcaEXac0fIvqOnfhrrhw2ZY5oxtJ68hLP3swESzYxvIUSTVWDNaHRNLZxIXTh/Q3uUbmB/aIuhU9ntM83AZYFUze5bLhxkO7q+VCZ7qHC4pyux9ZBXfWWyp24QuYTrG+IG41DqRKHNwv3aNmUVY9qnQuwlpmomWWbvwOjUQZuIvWiNgGBwqfkC4LW7gvrEZ80BD3IqTiffVzCEWKSVfXe2soin/iq/WESQSNuhVXM0YTuPeCV0PeMcPhXHofBSFPQixg/sJbD84Ip/yS0AqGgemwovq1VjObb7cuWq/HiJVszvyzbkl8BGL3qBSOA/aF4eign32K4knnYXFZoQCyYggGviebFvEpA==;Y/J7HzTdekNWY0oWKmoOSw=="
 ---

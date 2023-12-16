@@ -9,8 +9,8 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/12/218043-ai-machine-learning-
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/12/218043-ai-machine-learning-startup-chalk-raises-10-million-in-seed-funding/amp/"
 type: article
 quality: 74
-heat: 114
-published: true
+heat: -1
+published: false
 
 provider:
   name: Crowdfund Insider
@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Chalk Secures $10M Seed Funding to Power Machine Learning and AI"
-    excerpt: "Chalk, the data platform for machine learning, announced today that it has raised $10 million in seed funding led by General Catalyst, Unusual Ventures, and Xfund. Chalk’s computation layer and LLM toolchain enable world-class teams to orchestrate data for real-time decisions."
-    publishedDateTime: 2023-12-12T18:00:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/chalk-secures-10m-seed-funding-to-power-machine-learning-and-ai/article_5ebab127-751b-51df-a570-708dcfa32ae0.html"
+  - title: "Healthcare Startup Guaranteeing Prices Based On AI Raises $2.3 Million"
+    excerpt: "Certainly Health, a startup that uses AI to predict consumers' out-of-pocket healthcare costs, announced it has raised its first round of funding to expand its reach."
+    publishedDateTime: 2023-12-15T18:25:00Z
+    webUrl: "https://www.forbes.com/sites/debgordon/2023/12/15/healthcare-startup-guaranteeing-upfront-price-predictions-raises-23-million/"
+    ampWebUrl: "https://www.forbes.com/sites/debgordon/2023/12/15/healthcare-startup-guaranteeing-upfront-price-predictions-raises-23-million/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/debgordon/2023/12/15/healthcare-startup-guaranteeing-upfront-price-predictions-raises-23-million/amp/"
     type: article
     provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 54
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/0/be/0beb99d8-e74e-52b5-978c-5d2bc7b9c880/6578af7a6a592.image.jpg?crop=1641%2C862%2C0%2C201&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://imageio.forbes.com/specials-images/imageserve/657c95839914a3c0932dcd56/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1392
+        height: 900
         isCached: true
   - title: "Chinese AI Startup 01.AI Seeks $200 Million in Funding"
     excerpt: "Beijing-based artificial intelligence (AI) startup 01.AI is raising $200 million in a new funding round. This comes on the heels"

@@ -46,20 +46,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Sports Illustrated and other newsrooms fumble badly by huddling with AI"
-    excerpt: "Technology should help media workers do their jobs, not impersonate them or actually carry out the tasks of real humans hired to dig for facts."
-    publishedDateTime: 2023-12-11T11:00:00Z
-    webUrl: "https://chicago.suntimes.com/2023/12/11/23990714/sports-illustrated-artificial-intelligence-ai-newsrooms-journalism-fake-news-futurism-editorial"
-    type: article
-    provider:
-      name: Chicago Sun-Times
-      domain: suntimes.com
-    quality: 39
-    images:
-      - url: "https://cst.brightspotcdn.com/dims4/default/00c5112/2147483647/strip/true/crop/1340x765+0+83/resize/1461x834!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FOTHvYms59oamjK58YiIhG9jM8AE%3D%2F0x0%3A1340x1792%2F1340x1792%2Ffilters%3Afocal%28710x465%3A711x466%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F25139022%2Fmerlin_332513.jpg"
-        width: 1461
-        height: 834
-        isCached: true
 
 secured: "Wm01uXCDsmcj5ls60sneVxUf/Nys8w1dMSXn0V1MjPi6IL9mJBo04t39zyLjpO8sz2x9zD6WjwcZGFOCW1jcffR0UWOl/i7vSZNrxSHMGABTpU0qEktj6xXKumU1fH1/0G04OyChbr7C105YKlK5qb/eW1Qu2dgKpB0vuN+ursKUilojk3R9KpmG/q2ziVoH7sIdVEeFTlBbhdZ+OFUzxj1RAGiafy0rUq7d4w4RUJQv/1ZWPz8xQqpLCN6R24ouGB0BSscYE9022HRwwgB1HF+vtwL8ppAODGfNXp+JntaqdxTDRVfs5q50sQj9ejvZ6wv8CFdNJR/G1hZJT3YMQgqcFhxaIhUWxo+HmnS8zuZhVS6B0ZIkSvStmf9QMxrqMIkwXkBA/kahXt9Z84PvoIEC1j579qXb/sRkTTRR8AEnULGBRzNrfNQ3Nl6DxQotFXCRM3mjq4FEcyYkKo511iD5ynrlUvqfK1Mx3oB+E7J1W0QkRXw9ssrIglVKihtkW77o4hk5jgKr6zLenJL6nA==;TJd6Oo1JT+FPlX1bHYoK3g=="
 ---

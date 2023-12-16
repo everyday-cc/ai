@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-12-12-yoon-begins-dutch-state-visit-vows-enhanced-ties-in-chips-logistics-ai.md",
+      "title": "Yoon begins Dutch state visit, vows enhanced ties in chips, logistics, AI",
+      "excerpt": "President Yoon Suk Yeol arrived Monday in Amsterdam to forge stronger bilateral ties with the Netherlands, South Korea's emerging European trade partner in terms of logistics, artificial intelligence and semiconductor chip cooperation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreaherald.com/view.php?ud=20231212000568",
+      "originalUrl": "https://www.koreaherald.com/view.php?ud=20231212000568",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2023%2F12%2F12%2F20231212000555_0.jpg",
+          "width": 630,
+          "height": 425,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://m.koreaherald.com/amp/view.php?ud=20231212000568",
+      "cdnAmpWebUrl": "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20231212000568",
+      "publishedDateTime": "2023-12-12T05:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Korea Herald",
+        "domain": "koreaherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-12-chatgpt-googles-ai-will-have-to-start-answering-to-eu.md",
       "title": "ChatGPT, Google's AI will have to start answering to EU",
       "excerpt": "EU’s AI Act is a decent, if slightly half-baked, start when it comes to regulating AI, and in the absence of anything similar this is a step in the right direction. The legislation will still rely on companies to audit themselves.",
@@ -42,6 +85,57 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-12-samsung-new-galaxy-buds-could-one-up-the-pixel-buds-with-on-device-ai.md",
+      "title": "Samsung new Galaxy Buds could one-up the Pixel Buds with on-device AI",
+      "excerpt": "Samsung will reportedly launch a new pair of Galaxy Buds next year with on-device AI powering live audio and video call translations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/samsung-galaxy-buds-on-device-ai-translations-3393547/",
+      "originalUrl": "https://www.androidauthority.com/samsung-galaxy-buds-on-device-ai-translations-3393547/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2023/05/Samsung-Galaxy-Buds-2-Pro-vs-Google-Pixel-Buds-Pro-comparison-1-scaled.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-12T04:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -105,7 +199,7 @@
       "originalUrl": "https://www.cnn.com/2023/12/11/media/sports-illustrated-ai-articles-ceo/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -778,7 +872,7 @@
       "originalUrl": "https://www.aol.com/us-talks-nvidia-ai-chip-194051279.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 321,
+      "heat": 331,
       "tags": null,
       "images": [
         {
@@ -1077,99 +1171,6 @@
       "topics": [
         "AI",
         "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-ai-enhanced-people-development-opens-a-new-path-to-business-growth.md",
-      "title": "AI-Enhanced People Development Opens A New Path To Business Growth",
-      "excerpt": "To navigate HR challenges effectively, a transformative approach to people development, enhanced by AI, is essential.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sap/2023/12/11/ai-enhanced-people-development-opens-a-new-path-to-business-growth/",
-      "originalUrl": "https://www.forbes.com/sites/sap/2023/12/11/ai-enhanced-people-development-opens-a-new-path-to-business-growth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6532e0312d062fcdd9bd90bf/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 780,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sap/2023/12/11/ai-enhanced-people-development-opens-a-new-path-to-business-growth/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2023/12/11/ai-enhanced-people-development-opens-a-new-path-to-business-growth/amp/",
-      "publishedDateTime": "2023-12-11T12:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-french-ai-start-up-mistral-ai-raises-385m.md",
-      "title": "French AI start-up Mistral AI raises €385m",
-      "excerpt": "French artificial intelligence start-up Mistral AI announced Sunday it had raised €385 million ($414 million), becoming one of Europe's two AI leaders. Founded in May by industry heavyweights, Mistral had already raised €105 million in June. Among ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dhakatribune.com/business/333592/french-ai-start-up-mistral-ai-raises-€385m",
-      "originalUrl": "https://www.dhakatribune.com/business/333592/french-ai-start-up-mistral-ai-raises-€385m",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ecdn.dhakatribune.net/contents/cache/images/600x315x1/uploads/media/2023/12/11/000_33ZM9P9-b2692f2c39865b65deaec2e3e2362ef2.jpg?jadewits_media_id=10902",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.dhakatribune.com/amp/business/333592/french-ai-start-up-mistral-ai-raises-%E2%82%AC385m",
-      "cdnAmpWebUrl": "https://www-dhakatribune-com.cdn.ampproject.org/c/s/www.dhakatribune.com/amp/business/333592/french-ai-start-up-mistral-ai-raises-%E2%82%AC385m",
-      "publishedDateTime": "2023-12-11T12:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dhaka Tribune",
-        "domain": "dhakatribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

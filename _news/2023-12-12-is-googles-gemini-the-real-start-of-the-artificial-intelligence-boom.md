@@ -50,6 +50,22 @@ related:
         width: 1201
         height: 628
         isCached: true
+  - title: "Google Shapes Gemini AI Tools For Developers"
+    excerpt: "AI is changing and it will continue to do so - although this year of generative AI stands out as a seminal moment in time - now we need the right developer tools."
+    publishedDateTime: 2023-12-16T09:10:00Z
+    webUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/12/16/google-shapes-gemini-ai-tools-for-developers/"
+    ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/12/16/google-shapes-gemini-ai-tools-for-developers/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/12/16/google-shapes-gemini-ai-tools-for-developers/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/657d683b20807ddde92b89ef/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 640
+        height: 315
+        isCached: true
   - title: "Google Adds Gemini API to AI Studio and Vertex AI"
     excerpt: "Google also announced Duet AI for Developers and Duet AI in Security Operations, but neither uses Gemini yet."
     publishedDateTime: 2023-12-13T16:00:00Z

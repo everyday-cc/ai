@@ -39,22 +39,6 @@ related:
         width: 1600
         height: 899
         isCached: true
-  - title: "Part 1: Expert Predictions For Artificial Intelligence in 2024"
-    excerpt: "Artificial Intelligence has come a long way over the past few years. 2023 has been a monumental year for this development, and that means that 2024 has a lot more in store. We will see"
-    publishedDateTime: 2023-12-11T10:30:00Z
-    webUrl: "https://techround.co.uk/news/part-1-expert-predictions-for-artificial-intelligence-in-2024/"
-    ampWebUrl: "https://techround.co.uk/news/part-1-expert-predictions-for-artificial-intelligence-in-2024/amp/"
-    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/part-1-expert-predictions-for-artificial-intelligence-in-2024/amp/"
-    type: article
-    provider:
-      name: TechRound
-      domain: techround.co.uk
-    quality: 61
-    images:
-      - url: "https://techround.co.uk/wp-content/uploads/2023/12/getty-images-vB2OujjOovo-unsplash-scaled.jpg"
-        width: 2560
-        height: 1435
-        isCached: true
   - title: "Part 2: Expert Predictions For Artificial Intelligence in 2024"
     excerpt: "In Part 1, experts and startup founders offered many different insights and predictions. More experts have weighed in and made their predictions on the future of artificial intelligence, a tool that h"
     publishedDateTime: 2023-12-11T16:45:00Z

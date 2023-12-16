@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/deepminds-ai-finds-solution-to-decades
 webUrl: "https://thenextweb.com/news/deepminds-ai-finds-solution-to-decades-old-math-problem"
 type: article
 quality: 96
-heat: 168
+heat: 166
 published: true
 
 provider:

@@ -2,6 +2,48 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-12-14-new-lenovo-thinkpad-x1-carbon-hints-at-new-2024-trend-ai-laptops.md",
+      "title": "New Lenovo ThinkPad X1 Carbon hints at new 2024 trend: AI laptops",
+      "excerpt": "The new ThinkPad X1 Carbon Gen 12 is refreshed with Intel's next-generation AI-capable chips called Intel Core Ultra processors, which feature an NPU (in addition the CPU and GPU), that's capable of \"inferencing,\" a fancy way of saying that it helps AI make predictions.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/lenovo-thinkpad-x1-carbon-gen-12",
+      "originalUrl": "https://mashable.com/article/lenovo-thinkpad-x1-carbon-gen-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/00ryv5CkHSP1TqO9KdCRhgd/hero-image.fill.size_1200x675.v1702525212.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-14T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-14-ibm-cloud-solution-tutorials-2023-in-review.md",
       "title": "IBM Cloud solution tutorials: 2023 in review",
       "excerpt": "Our team looks back and shares personal highlights from the year, including generative AI, LLMs, watsonx and more.\nThe post IBM Cloud solution tutorials: 2023 in review appeared first on IBM Blog.\n",
@@ -44,21 +86,21 @@
       ]
     },
     {
-      "path": "_news/2023-12-14-robotics-in-the-engineroom.md",
-      "title": "Robotics in the EngineRoom",
-      "excerpt": "When talk turns to autonomous ships, a first question always centers on how routine and emergency repair and maintenance will be conducted.",
+      "path": "_news/2023-12-14-wanna-see-something-cool-try-this-awesome-ai-feature-built-right-into-the-iphone.md",
+      "title": "Wanna see something cool? Try this awesome AI feature built right into the iPhone",
+      "excerpt": "The object detection mode in Magnifier is an impressive demonstration of your iPhone's on-device AI capabilities.",
       "sourceUrl": null,
-      "webUrl": "https://www.marinelink.com/news/robotics-engineroom-510133",
-      "originalUrl": "https://www.marinelink.com/news/robotics-engineroom-510133",
+      "webUrl": "https://www.macworld.com/article/2168452/iphone-magnifier-on-device-ai.html",
+      "originalUrl": "https://www.macworld.com/article/2168452/iphone-magnifier-on-device-ai.html",
       "featuredContent": null,
       "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://images.marinelink.com/images/maritime/w800h600pad/image-courtesy-fmd-146221.jpg",
-          "width": 800,
-          "height": 539,
+          "url": "https://www.macworld.com/wp-content/uploads/2023/12/ios-object-detection-hero2.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -66,13 +108,65 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.marinelink.com/amp/news/robotics-engineroom-510133",
-      "cdnAmpWebUrl": "https://www-marinelink-com.cdn.ampproject.org/c/s/www.marinelink.com/amp/news/robotics-engineroom-510133",
-      "publishedDateTime": "2023-12-14T11:10:00Z",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-14T12:15:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Marine Link",
-        "domain": "marinelink.com",
+        "name": "Macworld",
+        "domain": "macworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/macworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-14-robotics-in-the-engineroom.md",
+      "title": "Robotics in the EngineRoom",
+      "excerpt": "When talk turns to autonomous ships, a first question always centers on how routine and emergency repair and maintenance will be",
+      "sourceUrl": null,
+      "webUrl": "https://www.oedigital.com/news/510133-robotics-in-the-engineroom",
+      "originalUrl": "https://www.oedigital.com/news/510133-robotics-in-the-engineroom",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.oedigital.com/images/maritime/w537h300pad/image-courtesy-146221.jpg",
+          "width": 537,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.oedigital.com/amp/news/510133-robotics-in-the-engineroom",
+      "cdnAmpWebUrl": "https://www-oedigital-com.cdn.ampproject.org/c/s/www.oedigital.com/amp/news/510133-robotics-in-the-engineroom",
+      "publishedDateTime": "2023-12-14T10:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "oedigital.com",
+        "domain": "oedigital.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -900,7 +994,7 @@
       "originalUrl": "https://blog.google/technology/ai/google-gemini-pro-imagen-duet-ai-update/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 229,
+      "heat": 239,
       "tags": null,
       "images": [
         {
@@ -1098,101 +1192,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-microsoft-and-oracle-announce-that-oracle-databaseazure-is-now-generally-available.md",
-      "title": "Microsoft and Oracle announce that Oracle Database@Azure is now generally available",
-      "excerpt": "We are excited to share that Oracle Database@Azure is generally available in the Azure United States East region, with more regions coming in 2024. You can now use Oracle database services running on Oracle Cloud Infrastructure (OCI) hardware deployed in Azure data centers. This streamlines the migration",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/blog/microsoft-and-oracle-announce-that-oracle-databaseazure-is-now-generally-available/",
-      "originalUrl": "https://azure.microsoft.com/en-us/blog/microsoft-and-oracle-announce-that-oracle-databaseazure-is-now-generally-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/12/MSC24-India-business-Adobe-550638570-rgb-scaled.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-13T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-indonesia-to-regulate-ai-balancing-innovation-and-ethics.md",
-      "title": "Indonesia to regulate AI, balancing innovation and ethics",
-      "excerpt": "The Indonesian government will soon issue a regulation on the utilization of artificial intelligence (AI), Minister of Communication and Informatics Budi Arie",
-      "sourceUrl": null,
-      "webUrl": "https://en.antaranews.com/news/301002/indonesia-to-regulate-ai-balancing-innovation-and-ethics",
-      "originalUrl": "https://en.antaranews.com/news/301002/indonesia-to-regulate-ai-balancing-innovation-and-ethics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.antaranews.com/cache/800x533/2023/07/05/antarafoto-teknologi-kecerdasan-buatan-untuk-mengurai-kemacetan-jakarta-050723-riv-3.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://en.antaranews.com/amp/news/301002/indonesia-to-regulate-ai-balancing-innovation-and-ethics",
-      "cdnAmpWebUrl": "https://en-antaranews-com.cdn.ampproject.org/c/s/en.antaranews.com/amp/news/301002/indonesia-to-regulate-ai-balancing-innovation-and-ethics",
-      "publishedDateTime": "2023-12-13T12:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Antara News",
-        "domain": "antaranews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

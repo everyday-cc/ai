@@ -42,6 +42,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "The Ethics Of AI: Balancing Innovation And Responsibility"
+    excerpt: "AI has the potential to transform various industries completely. On the other hand, concerns around its ethical implications are valid, too."
+    publishedDateTime: 2023-12-14T13:01:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/14/the-ethics-of-ai-balancing-innovation-and-responsibility/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
   - title: "The EU’s AI Act: A beacon of innovation and ethics for emerging Europe"
     excerpt: "In an exceptional move reverberating through the corridors of technology and governance, the European Union has provisionally adopted the Artificial Intelligence Act, heralding a new era of digital ethics and innovation."
     publishedDateTime: 2023-12-11T12:24:00Z

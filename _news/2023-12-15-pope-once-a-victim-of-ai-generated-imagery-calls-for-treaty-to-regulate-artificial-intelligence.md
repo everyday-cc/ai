@@ -33,22 +33,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
-  - title: "Generative AI is off to a rough start"
-    excerpt: "As the big vendors overstate the capabilities of their generative AI projects, maybe it’s time to use open source to keep them honest."
-    publishedDateTime: 2023-12-11T10:00:00Z
-    webUrl: "https://www.infoworld.com/article/3711414/generative-ai-is-off-to-a-rough-start.html"
-    ampWebUrl: "https://www.infoworld.com/article/3711414/generative-ai-is-off-to-a-rough-start.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711414/generative-ai-is-off-to-a-rough-start.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 87
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2021/12/28/10/10_untruthful_lies_liar_untrustworthy-100781303-large-100915050-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Relevance AI’s low-code platform enables businesses to build AI teams"
     excerpt: "However, only businesses with large engineering teams can build their own AI workforces. An Australia-based startup, Relevance AI, wants to help companies of all sizes build custom AI agents for any use case or function to maximize productivity with its ..."
     publishedDateTime: 2023-12-11T22:31:00Z
