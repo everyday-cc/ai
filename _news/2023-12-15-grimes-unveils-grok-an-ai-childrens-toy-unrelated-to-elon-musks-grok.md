@@ -47,15 +47,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 41
-  - title: "Elon Musk’s new AI Grok accused of stealing answers from ChatGPT"
-    excerpt: "Grok, the recently released chatbot from billionaire Elon Musk's startup xAI, has been accused of ripping off ChatGPT's codebase."
-    publishedDateTime: 2023-12-11T20:26:00Z
-    webUrl: "https://www.dailydot.com/debug/elon-musk-xai-grok-ripping-off-openai-chatgpt/"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 34
 
 secured: "PtpuqhNq39l7asmM3AinYp3pllHHxbmkVZg/Ayt2xAobrLfNsmsZYYo2iVAgI5qu0xrwuyHEHDGIOYRrxeSaCpbszolKH+jMZP0mk0b2uMRjN8EGto3tEJe4MCPy3AgMs+/P/9C1nQCviuVEQoB6nG77wRMK5k2qLWcO6MXoMf78qfOm84OlTQbwoomW0mwUyEb9IQ4pghnw0NDBYuFl7vuRLojIBqVYT+ISt+6AftWAKM42yxKIcZH49m/l0oQySm8fJwW8kJPYlL+onBCHGH5yGec5gAqmxrLCin6AeiC82rG44I94EKMFWjO91kp+/JoPaAp5/Cwaj4oT+qY4FpA1KLtASsfx74+P3I19LZQ=;5HwS6P78mmBEb/eN5pwDiA=="
 ---

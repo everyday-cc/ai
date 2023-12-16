@@ -41,20 +41,6 @@ related:
         width: 1199
         height: 400
         isCached: true
-  - title: "China's Horizon Robotics Invests in Didi's Self-Driving Freight Business KargoBot"
-    excerpt: "(Yicai) Dec. 11 -- Horizon Robotics, a Chinese provider of intelligent driving computing solutions, has invested in KargoBot, the autonomous driving freight business of Chinese ride-hailing giant Didi Global."
-    publishedDateTime: 2023-12-11T08:09:00Z
-    webUrl: "https://www.yicaiglobal.com/news/chinas-horizon-robotics-invests-in-didis-self-driving-freight-business-kargobot"
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 51
-    images:
-      - url: "http://img.yicaiglobal.com/src/image/2023/12/41253914604229.jpg"
-        width: 770
-        height: 510
-        isCached: true
 
 secured: "Fc4oFaB2ZPGaDJl1k2HZhVLIi4BavdR3WkYcW5jtwnMk0lD3U++kg1PRBElwHDYZDSmn5blkYA0FWdRyXF1zAvY0pIZwXN+UDn7IOgKrYyuRNLMelqoJmPvmoHUfR9fmAo5rwzQIHEqYAMbsKyWn9K2B7n5E4d8VpinTXTBatYJBkqCIVi1NRuWzF3wMA1wzrfSVDs0sNoeCBtoWL1H44pG4KRhzaTR+X+lFklPKw5oIkCiFABtEZakfdzEkK3s6ei7P3dI6mKJMtG2FMI20IHo/ts6ccG4cP/iQEpn0xQcgP/G/xSzIr0o4BJ+k1RwQ/X8XvKSLSZDyKRFWcDiXhGyOzx2mNKGCPRPd2OolXgELxqTXoArGkxhhYFlY9mde55bYPeUtH3ARgDVDDsPSuetw6TqIQnrA6A3uC/szxrh7IppeM0X0LqSPzZWVVhgt+yMMOakdOMw8dmRf+6orSJckWQ6Q6fzACoQVl/EPhpdgSinOr7axry1yK42AmF1TLkmCotrPZT1VF1fZnRU6mw==;cSA2aB29GfwymViY6bsfGg=="
 ---

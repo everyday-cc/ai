@@ -40,15 +40,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Mistral AI raises 385 mln euros in second round in seven months"
-    excerpt: "French artificial intelligence company Mistral AI said on Monday it had raised 385 million euros ($414.41 million) in its second funding round in seven months, led by investors such as Andreessen-Horowitz and LightSpeed Ventures."
-    publishedDateTime: 2023-12-11T07:27:00Z
-    webUrl: "https://www.reuters.com/technology/mistral-ai-raises-385-mln-euros-second-round-seven-months-2023-12-11/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
   - title: "French startup Mistral AI closes $415M funding round"
     excerpt: "The company’s CEO said the goal is to create a “European champion” of generative AI on a global scale, “based on an open, responsible and decentralized approach to technology.”"
     publishedDateTime: 2023-12-11T13:08:00Z

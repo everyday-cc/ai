@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/google-gemini-pro-imagen-duet-ai-u
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-gemini-pro-imagen-duet-ai-update/amp/"
 type: article
 quality: 109
-heat: 231
+heat: 229
 published: true
 
 provider:

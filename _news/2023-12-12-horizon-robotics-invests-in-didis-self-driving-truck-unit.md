@@ -7,8 +7,8 @@ originalUrl: "https://technode.com/2023/12/12/horizon-robotics-invests-in-didis-
 webUrl: "https://technode.com/2023/12/12/horizon-robotics-invests-in-didis-self-driving-truck-unit/"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: TechNode
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "China's Horizon Robotics Invests in Didi's Self-Driving Freight Business KargoBot"
-    excerpt: "(Yicai) Dec. 11 -- Horizon Robotics, a Chinese provider of intelligent driving computing solutions, has invested in KargoBot, the autonomous driving freight business of Chinese ride-hailing giant Didi Global."
-    publishedDateTime: 2023-12-11T08:09:00Z
-    webUrl: "https://www.yicaiglobal.com/news/chinas-horizon-robotics-invests-in-didis-self-driving-freight-business-kargobot"
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 51
-    images:
-      - url: "http://img.yicaiglobal.com/src/image/2023/12/41253914604229.jpg"
-        width: 770
-        height: 510
-        isCached: true
   - title: "S. Korean driver's tests to include section on self-driving cars"
     excerpt: "South Korean government will revise the traffic laws and driver's tests to accommodate for the rapidly advancing technology for automated driving systems and development of self-driving cars. The National Police Agency on Wednesday rolled out the traffic safety plans in preparation for when self-driving cars will hit the road,"
     publishedDateTime: 2023-12-13T04:30:00Z

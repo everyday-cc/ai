@@ -461,21 +461,21 @@
       ]
     },
     {
-      "path": "_news/2023-12-12-chatgpt-to-google-bard-ai-giants-are-reshaping-search-results.md",
-      "title": "ChatGPT to Google Bard: AI giants are reshaping search results",
-      "excerpt": "Explore the evolving landscape of search engines. From keyword-matching engines to AI-powered platforms, search experiences are being reshaped.",
+      "path": "_news/2023-12-12-chatgpt-googles-ai-will-have-to-start-answering-to-eu.md",
+      "title": "ChatGPT, Google's AI will have to start answering to EU",
+      "excerpt": "EU’s AI Act is a decent, if slightly half-baked, start when it comes to regulating AI, and in the absence of anything similar this is a step in the right direction. The legislation will still rely on companies to audit themselves.",
       "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2023/12/ai-revolutionising-search-engine-results",
-      "originalUrl": "https://yourstory.com/2023/12/ai-revolutionising-search-engine-results",
+      "webUrl": "https://www.moneycontrol.com/news/opinion/chatgpt-googles-ai-will-have-to-start-answering-to-eu-11890281.html",
+      "originalUrl": "https://www.moneycontrol.com/news/opinion/chatgpt-googles-ai-will-have-to-start-answering-to-eu-11890281.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 184,
       "tags": null,
       "images": [
         {
-          "url": "https://images.yourstory.com/cs/2/5cd74df08d8d11e9a445857ac4ecdc72/GoogleAIBengaluru1568955790392png?fm=png&auto=format",
-          "width": 1200,
-          "height": 630,
+          "url": "https://images.moneycontrol.com/static-mcnews/2023/12/eu-ai-protest-bbo.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -483,13 +483,13 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-12T01:50:00Z",
+      "ampWebUrl": "https://www.moneycontrol.com/news/opinion/chatgpt-googles-ai-will-have-to-start-answering-to-eu-11890281.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/chatgpt-googles-ai-will-have-to-start-answering-to-eu-11890281.html/amp",
+      "publishedDateTime": "2023-12-12T05:16:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -499,7 +499,6 @@
         "news"
       ],
       "topics": [
-        "Google AI",
         "AI",
         "Microsoft AI"
       ]

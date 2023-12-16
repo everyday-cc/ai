@@ -20,66 +20,142 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Google Gemini: Everything we know about the advanced AI model"
-    excerpt: "There are three versions of Gemini. The biggest is the Ultra model capable of \"seeing the world the way humans do\" through video, audio, text and images. The second is the Pro model, which is powering Google Bard and is similar in ability to the free ChatGPT."
-    publishedDateTime: 2023-12-11T15:37:00Z
-    webUrl: "https://www.tomsguide.com/features/google-gemini-everything-we-know-about-the-advanced-ai-model"
+  - title: "ChatGPT, Google's AI will have to start answering to EU"
+    excerpt: "EU’s AI Act is a decent, if slightly half-baked, start when it comes to regulating AI, and in the absence of anything similar this is a step in the right direction. The legislation will still rely on companies to audit themselves."
+    publishedDateTime: 2023-12-12T05:16:00Z
+    webUrl: "https://www.moneycontrol.com/news/opinion/chatgpt-googles-ai-will-have-to-start-answering-to-eu-11890281.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/opinion/chatgpt-googles-ai-will-have-to-start-answering-to-eu-11890281.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/chatgpt-googles-ai-will-have-to-start-answering-to-eu-11890281.html/amp"
     type: article
     provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 41
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 74
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/TwMjTG2hMW5Z5McwPXyfsJ-1200-80.jpg"
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/12/eu-ai-protest-bbo.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Grok Gets Some Competition, ChatGPT Gets Depressed, and More of the Top AI News Stories This Week"
+    excerpt: "What happened with AI this week? Well, the passage of the European Union’s AI Act—a landmark piece of regulation that seeks tackle the potential harms of the AI industry—is a pretty big deal. It could totally reshape how European nations’ relationship to the technology."
+    publishedDateTime: 2023-12-15T19:50:00Z
+    webUrl: "https://gizmodo.com/grok-gets-some-competition-chatgpt-gets-depressed-and-1851102969"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 71
+    images:
+      - url: "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/6e9ec759dc24bf07ae714235d2e5f58b.jpg"
         width: 1200
         height: 675
         isCached: true
-  - title: "Everything about Gemini AI: Google's assistant, Nano, Ultra"
-    excerpt: "Google has recently launched its own Artificial Intelligence (AI) called Gemini. It is a new model that is available on the Bard platform and will gradually be extended to other Google services. Learn more about its features and how you can test"
-    publishedDateTime: 2023-12-12T14:20:00Z
-    webUrl: "https://ccm.net/apps-sites/web/11817-everything-about-gemini-google-s-ai-assistant-nano-ultra/"
+  - title: "ChatGPT to Google Bard: AI giants are reshaping search results"
+    excerpt: "Explore the evolving landscape of search engines. From keyword-matching engines to AI-powered platforms, search experiences are being reshaped."
+    publishedDateTime: 2023-12-12T01:50:00Z
+    webUrl: "https://yourstory.com/2023/12/ai-revolutionising-search-engine-results"
     type: article
     provider:
-      name: CCM
-      domain: ccm.net
+      name: Your Story
+      domain: yourstory.com
+    quality: 56
+    images:
+      - url: "https://images.yourstory.com/cs/2/5cd74df08d8d11e9a445857ac4ecdc72/GoogleAIBengaluru1568955790392png?fm=png&auto=format"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Gemini AI: What do we know about Google's answer to ChatGPT?"
+    excerpt: "Most AI models like ChatGPT can only understand and generate one type of content — like text, audio, images or video — but Google's Gemini can generate them all."
+    publishedDateTime: 2023-12-13T10:10:00Z
+    webUrl: "https://www.livescience.com/technology/artificial-intelligence/google-deepmind-gemini-ai-vs-openai-chatgpt"
+    type: article
+    provider:
+      name: Live Science
+      domain: livescience.com
+    quality: 56
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/YSQjzQFFyPxCecexhdvhff-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Mistral AI is an exciting ChatGPT rival, but it’s not ready for us yet"
+    excerpt: "Mistral AI is a French startup valued at around $2 billion with an exciting ChatGPT rival you can't actually use right now."
+    publishedDateTime: 2023-12-12T01:08:00Z
+    webUrl: "https://bgr.com/tech/mistral-ai-is-an-exciting-chatgpt-rival-but-its-not-ready-for-us-yet/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 54
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/02/rsz_gettyimages-1246675509.jpg?quality=82&strip=all"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Are You Using ChatGPT at Work? We Want to Hear About It."
+    excerpt: "Just over a year since ChatGPT’s release, we’re exploring how workers have begun using A.I. chatbots in their jobs."
+    publishedDateTime: 2023-12-13T10:03:00Z
+    webUrl: "https://www.nytimes.com/2023/12/13/business/are-you-using-chatgpt-at-work-we-want-to-hear-about-it.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 49
+  - title: "ChatGPT-maker OpenAI hosts first big tech showcase as AI startup faces growing competition – CBS News"
+    excerpt: "Eventually, you’ll just ask the computer for what you need and it’ll do all of these tasks for you,” said OpenAI CEO Sam Altman to a cheering crowd of more than 900 software developers and other attendees."
+    publishedDateTime: 2023-12-15T18:23:00Z
+    webUrl: "https://www.inferse.com/840979/chatgpt-maker-openai-hosts-first-big-tech-showcase-as-ai-startup-faces-growing-competition-cbs-news/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
     quality: 39
     images:
-      - url: "https://img-19.ccm.net/_o5FU_f4-2Gf3L75OV9jbdkJ8G4=/1500x/smart/e81408f07b2b42efa7ab3b981452b19f/ccmcms-enccm/39487748.jpeg"
-        width: 1500
-        height: 981
+      - url: "https://www.inferse.com/wp-content/uploads/2023/12/wp-header-logo-8281.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "How to Get the Most Out of Gemini in Google Bard"
-    excerpt: "This guide is designed to show you how to get the most of out Gemini in Google Bard. Google, has recently implemented a significant enhancement to its"
-    publishedDateTime: 2023-12-15T10:00:00Z
-    webUrl: "https://www.geeky-gadgets.com/how-to-get-the-most-out-of-gemini-in-google-bard/"
+  - title: "Commentary: A decent, if slightly half-baked, start to regulating AI"
+    excerpt: "The world’s first comprehensive artificial intelligence legislation is frustratingly vague, but it’s better than nothing, says Parmy Olson for Bloomberg Opinion."
+    publishedDateTime: 2023-12-12T22:01:00Z
+    webUrl: "https://www.channelnewsasia.com/commentary/ai-chatgpt-regulation-law-google-bard-gemini-3983091"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 24
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 37
     images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/Google-Gemini.jpeg"
-        width: 1280
-        height: 721
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--vFQ4noxj--/c_fill,g_auto,h_468,w_830/f_auto,q_auto/v1/mediacorp/cna/image/2023/12/12/aibots%20(1).jpg?itok=hJ7RSZnP"
+        width: 830
+        height: 468
         isCached: true
-  - title: "Can Alphabet's Gemini AI Catapult Google Ahead in Tech Race?"
-    excerpt: "Also Read: Microsoft in High-Level Talks with China: A New Era for AI and Trade Cooperation on the Horizon? Microsoft has been actively integrating OpenAI's ChatGPT into its products, contributing to Azure's growth, while Google Cloud's results have been ..."
-    publishedDateTime: 2023-12-14T09:38:00Z
-    webUrl: "https://www.benzinga.com/news/23/12/36234024/can-alphabets-gemini-ai-catapult-google-ahead-in-tech-race"
+  - title: "Elon Musk’s new AI Grok accused of stealing answers from ChatGPT"
+    excerpt: "Grok, the recently released chatbot from billionaire Elon Musk's startup xAI, has been accused of ripping off ChatGPT's codebase."
+    publishedDateTime: 2023-12-11T20:26:00Z
+    webUrl: "https://www.dailydot.com/debug/elon-musk-xai-grok-ripping-off-openai-chatgpt/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 19
-  - title: "Google Bard Meets the Latest Language Model, Gemini"
-    excerpt: "Gemini, the latest language model of Google and DeepMind is being used by Google Bard, an AI chatbot of Google."
-    publishedDateTime: 2023-12-14T17:06:00Z
-    webUrl: "https://techacute.com/google-bard-meets-the-latest-language-model-gemini/"
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 34
+  - title: "Taylor: A year after ChatGPT's viral launch, I'm freaking out about artificial intelligence."
+    excerpt: "We’ve all been sleepwalking our way toward this … revolution? Utopia? Or is it apocalypse? Our columnist assesses the realities of AI."
+    publishedDateTime: 2023-12-13T09:00:00Z
+    webUrl: "https://www.houstonchronicle.com/business/columnists/michael-taylor/article/assessing-reality-artificial-intelligence-year-18550248.php"
     type: article
     provider:
-      name: techacute.com
-      domain: techacute.com
-    quality: 4
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 27
+  - title: "ChatGPT vs Google Bard: What's the difference and which one to use? – Android Authority"
+    excerpt: "Affiliate links on Android Authority may earn us a commission. Learn more.We finally have our hands on Google’s long-awaited Bard chatbot. It takes aim at the"
+    publishedDateTime: 2023-12-16T04:28:00Z
+    webUrl: "https://www.inferse.com/841446/chatgpt-vs-google-bard-whats-the-difference-and-which-one-to-use-android-authority/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 13
 
 secured: "x9mTDthkQlLI8aGlgIzuvVT5NI78V6bEfRKh9j/8geSUr96IQpcs/ZxrzPz7FQqBQMJPKe28hQ0C7iay6sQdmWWS/2AhZ46is3nal0Lby0EyjaOu5prPjD/qa2yO70bhKsG5UyfXFwEN9HGG8mRqjfpUpRryP7YEgcPGc6bUUhqyppgz0hA/nxKhDQBG1o2WmKgQS07jlSOZy6j/2/OUHlfYeRSg2smL6BjWvNgmiI78MWvQU8VUquXNe0wuX+F2omw2CXG8yHyIJgMhulenXQORtWd4FChx0tT59Wbg3LWhBel2ITbIqsopQNENFaZn2ckXYYI5iQdLEcxfRV36hv+igYPpenSRga4BP6WH/cVP7lYlvAgkcT5Xd5mw+tiF0/VFTDnbvgtUMek7FTdKBHF9yPVncsLAY1eqjS0y3OKb4N8SEC/dfXpJ/XF/QjiycaKrh5Oi6LR6YWunv37ev/rIl5cQO5JM0bpIamvfkpUAM7lMdr24mo/KO01Bb/FOQDu+XlCCi4GGKyrJjHKQug==;+IwuNv+4KiCOJOT0SOOyRg=="
 ---

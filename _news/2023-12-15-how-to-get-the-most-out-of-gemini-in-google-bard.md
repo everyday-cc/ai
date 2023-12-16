@@ -53,15 +53,6 @@ related:
         width: 1500
         height: 981
         isCached: true
-  - title: "Google’s Gemini: is the new AI model really better than ChatGPT?"
-    excerpt: "Google Deepmind has recently announced Gemini, its new AI model to compete with OpenAI’s ChatGPT. While both models are examples of “generative AI”, which learn to find patterns of input training information to generate new data (pictures, words or other media), ChatGPT is a large language model (LLM) which focuses on producing text."
-    publishedDateTime: 2023-12-15T13:57:00Z
-    webUrl: "https://theconversation.com/googles-gemini-is-the-new-ai-model-really-better-than-chatgpt-219526"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 36
   - title: "Can Alphabet's Gemini AI Catapult Google Ahead in Tech Race?"
     excerpt: "Also Read: Microsoft in High-Level Talks with China: A New Era for AI and Trade Cooperation on the Horizon? Microsoft has been actively integrating OpenAI's ChatGPT into its products, contributing to Azure's growth, while Google Cloud's results have been ..."
     publishedDateTime: 2023-12-14T09:38:00Z

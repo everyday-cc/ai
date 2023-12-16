@@ -33,20 +33,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Commentary: A decent, if slightly half-baked, start to regulating AI"
-    excerpt: "The world’s first comprehensive artificial intelligence legislation is frustratingly vague, but it’s better than nothing, says Parmy Olson for Bloomberg Opinion."
-    publishedDateTime: 2023-12-12T22:01:00Z
-    webUrl: "https://www.channelnewsasia.com/commentary/ai-chatgpt-regulation-law-google-bard-gemini-3983091"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 37
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--vFQ4noxj--/c_fill,g_auto,h_468,w_830/f_auto,q_auto/v1/mediacorp/cna/image/2023/12/12/aibots%20(1).jpg?itok=hJ7RSZnP"
-        width: 830
-        height: 468
-        isCached: true
   - title: "Commentary: Healthcare makes its case with innovation, valuation"
     excerpt: "The healthcare sector was a market laggard in 2023, but attractive valuations and promising drug development could lead to a rebound in coming quarters."
     publishedDateTime: 2023-12-13T13:00:00Z

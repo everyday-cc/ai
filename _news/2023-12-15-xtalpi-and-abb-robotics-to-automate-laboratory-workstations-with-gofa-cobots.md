@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/xtalpi-and-abb-robotics-to-automate
 webUrl: "https://www.therobotreport.com/xtalpi-and-abb-robotics-to-automate-laboratory-workstations-with-gofa-cobots/"
 type: article
 quality: 81
-heat: 93
+heat: 91
 published: true
 
 provider:

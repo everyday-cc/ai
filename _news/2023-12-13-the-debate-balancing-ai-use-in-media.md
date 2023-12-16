@@ -38,6 +38,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Open To Debate: Will Artificial Intelligence Kill The Future Of The Creative Arts?"
+    excerpt: "From AI-generated paintings to composing symphonies and writing scripts and novels, ChatGPT, DeepDream, DALL·E, and other types of AI are challenging how we see the human endeavor to express, innovate,"
+    publishedDateTime: 2023-12-14T22:36:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2023/12/14/open_to_debate_will_artificial_intelligence_kill_the_future_of_the_creative_arts.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 11
 
 secured: "Xu8KdL9/i50FmuWSCxHPUWOyDLWaxFYJc4w1nky2Y55GVAdQmwVf1AsnP6MDBnjhEUqic7dei8aiOMv41d3lTfbc/4Olc9LZk7r+J17Hd96+lPK4stLCmiJwyNNcdxuQZLr3IOeTUQxNcVUE71CRF/Vsovn1EoXtH1PwWFc0zLIeQcAVe6yUXRAOKJMaOkQbyrlN0hl8YTiXDYZ34H9C3YKJ9T+/mnBfCVWAcKlhBhTk+9idEbsKQdr5smXVnakmJwPPLUi3+7pNjYTXj6+u8fbaup+e3MTYExX2TeWTgWan1IWU2DXnQ2KGFHneOePdu8hggOssms+CE59EcHUPanvWOzf8ujAiZpWjIpwTR9k=;d6GUxmMKaZlPXPj5gq1mQQ=="
 ---

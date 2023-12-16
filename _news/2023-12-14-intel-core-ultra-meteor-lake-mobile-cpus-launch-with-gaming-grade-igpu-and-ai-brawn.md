@@ -52,22 +52,6 @@ related:
         width: 1312
         height: 800
         isCached: true
-  - title: "NVIDIA CEO Jensen Huang woos Vietnam, plans to set up Asian AI Chip base in the country"
-    excerpt: "NVIDIA has some major plans for Vietnam and is seeing the country as its main base in Asia for designing and manufacturing AI chips for the Asian market as well as the rest of the world. For that, NVI"
-    publishedDateTime: 2023-12-11T08:41:00Z
-    webUrl: "https://www.firstpost.com/tech/nvidia-ceo-jensen-huang-woos-vietnam-plans-to-set-up-asian-ai-chip-base-in-the-country-13489822.html"
-    ampWebUrl: "https://www.firstpost.com/tech/nvidia-ceo-jensen-huang-woos-vietnam-plans-to-set-up-asian-ai-chip-base-in-the-country-13489822.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/nvidia-ceo-jensen-huang-woos-vietnam-plans-to-set-up-asian-ai-chip-base-in-the-country-13489822.html/amp"
-    type: article
-    provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 66
-    images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2023/12/NVIDIA-CEO-Jensen-Huang-woos-Vietnam-plans-to-set-up-Asian-AI-Chip-base-in-the-country-.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Intel Releases Core Ultra, Arc GPUs for Bringing AI to Every PC"
     excerpt: "Pat Gelsinger at the AI Everywhere event announced the company’s partnership with Dell, HP, Lenovo, Supermicro, and Microsoft."
     publishedDateTime: 2023-12-14T15:48:00Z

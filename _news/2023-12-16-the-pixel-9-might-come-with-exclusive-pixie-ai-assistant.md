@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/reviews/2023/12/google-reportedly-plans-ne
 webUrl: "https://arstechnica.com/reviews/2023/12/google-reportedly-plans-new-pixie-ai-assistant-exclusive-to-pixel-devices/"
 type: article
 quality: 67
-heat: 97
+heat: 98
 published: true
 
 provider:

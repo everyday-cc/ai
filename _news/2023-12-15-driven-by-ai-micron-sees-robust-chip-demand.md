@@ -9,7 +9,7 @@ ampWebUrl: "https://m.rediff.com/amp/business/report/driven-by-ai-micron-sees-ro
 cdnAmpWebUrl: "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/business/report/driven-by-ai-micron-sees-robust-chip-demand/20231215.htm"
 type: article
 quality: 74
-heat: 106
+heat: 104
 published: true
 
 provider:
