@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/cohere-to-help-businesses-build-ai-usin
 webUrl: "https://venturebeat.com/ai/cohere-to-help-businesses-build-ai-using-slack-google-drive-data/"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: VentureBeat
@@ -26,22 +26,6 @@ images:
     width: 1200
     height: 750
     isCached: true
-
-related:
-  - title: "Governing AI for business benefit"
-    excerpt: "Last month, a group of professionals and industry experts came together to launch an AI Governance website in response to a survey that indicated governance is a key focus although half of businesses are already using some form of AI."
-    publishedDateTime: 2023-12-11T00:30:00Z
-    webUrl: "https://www.reseller.co.nz/brand-post/content/709735/governing-ai-for-business-benefit/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 39
-    images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/ai-byline3.jpg"
-        width: 472
-        height: 315
-        isCached: true
 
 secured: "exZGAoPI/xLPIfrMyqHVQDyLvOwhKHTyY7ExrJTqlZA3XZ7SFFTEtGdJXyFthofnOk3/3BZphrtVS67IpKgJ1QK59ua09/qvuxkWgiOmhbpKAERW2U39Sxv5swXeAKWAbc6TuErjrRy/zzyo5nK78iZE4I1g7qZfop+F3lzOTo0FRAiBHNccbScKU3wCxQtmFvVFE1KU20suKLTqqd6c43QUFmofMk3qxy7ik2p12CGa117ebSjhuRyv+3S0Hsbqbrpgz50TYkCn76BWrtJJ74peD3ADJJz+R69opxYJBjPBOqpAlvOzkhVezboh/dHZUxkbHpy42N7viel6ouJiSfd2XoRTKFpS7kaHKj3KcfwAX4o/IDPi7ru5oc+ZvZofHp6juAvj6ms/9ijkzgoKhlwwI7hQ9eow8N5GOTREJERuz4bGqvDYYW9jOOJstZTSAfMWBOT8B4lwqYJRhOg6PUssNqdy0O2h1xVDs4aGtfZHrEXTvHgbX5cZXha2JhQSY53/ghxCKujcPVnPNYUTag==;eqDoh+f/3lgnOzp69+82Xw=="
 ---

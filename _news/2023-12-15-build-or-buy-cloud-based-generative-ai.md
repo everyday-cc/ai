@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3711705/build-or-buy-cloud-based-g
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711705/build-or-buy-cloud-based-generative-ai.amp.html"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:

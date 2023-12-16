@@ -19,24 +19,29 @@ topics:
   - AI
 
 related:
-  - title: "How to Use Google Bard to Spark Your Creativity"
-    excerpt: "This guide is designed to show you how to improve your creativity with the help of Google Bard. In the realm of technology, artificial intelligence (AI) has emerged as a powerful tool for enhancing creativity. Among the emerging AI applications ..."
-    publishedDateTime: 2023-12-11T00:00:00Z
-    webUrl: "https://www.geeky-gadgets.com/how-to-use-google-bard-to-spark-your-creativity/"
+  - title: "How to Unlock Culinary Adventures with Google Bard"
+    excerpt: "In the realm of gastronomic delights, culinary knowledge often seems elusive, reserved for those with ample time and expertise. However, with the advent"
+    publishedDateTime: 2023-12-12T10:00:00Z
+    webUrl: "https://www.geeky-gadgets.com/how-to-unlock-culinary-adventures-with-google-bard/"
     type: article
     provider:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
-    quality: 4
-  - title: "8 Ways Google Bard Can Make Your Life Easier"
-    excerpt: "This guide is designed to show you a number of different ways you can use Google Bard to make your life easier. Google Bard, developed by harnessing vast amounts of text and programming data, holds significant promise in streamlining various aspects of life."
-    publishedDateTime: 2023-12-13T00:00:00Z
-    webUrl: "https://www.geeky-gadgets.com/8-ways-google-bard-can-make-your-life-easier/"
+    quality: 24
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/unlock-google-Bard.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "How to Hack the Holidays with Google Bard: A Guide for Festive Efficiency"
+    excerpt: "This guide is designed to show you how to hack the holidays with Google Bard and other AI tools. As the holiday season approaches, the hustle and bustle"
+    publishedDateTime: 2023-12-14T13:01:00Z
+    webUrl: "https://www.geeky-gadgets.com/how-to-hack-the-holidays-with-google-bard/"
     type: article
     provider:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
-    quality: 4
+    quality: 3
 
 secured: "tNDMFI7j8lGnQmMhh8g9Gm6O0r7GTHp41hZl34GFWGuktNv4y8xgfqtyCANJH2vCScOLacxNBA2yU3N6YSphmWRdEe8WEDrGoJp0pG2YcnVt9Y+fwMTNVb93YgJaIfsKmp6VGJgot+1OdrOqJ379NzPl5LAJ/JjpXRqy0bnu2g+LS7T3HprdPi68cJriB/5q78R3GflQJURCo5+vjsVDA63otAbbGv/lo00vgn1tdKLK+FuhnnyU0Rb3yWnw9DTgzFYKbU9hN36xQhKi8EEkmT8HLrCU0bzELV+gHUe7OR+ooRpATu9zoBl4pBl4vWsLumaQa9mS5KseD5C9dLSD+5u6elYZ6hV7UIp3xB9vF/k=;Yqu+yW0D45KSIt+W2vXy1w=="
 ---

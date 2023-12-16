@@ -126,6 +126,20 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 64
+  - title: "OpenAI, Meta, Microsoft Chase Wearable AI"
+    excerpt: "Next year’s artificial intelligence battle is coming into focus—and it’s all about glasses. As they release more powerful AI that can understand images and language, Meta Platforms, Google, Microsoft,"
+    publishedDateTime: 2023-12-15T00:35:00Z
+    webUrl: "https://www.theinformation.com/articles/tech-giants-chase-wearable-ai"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 56
+    images:
+      - url: "https://tii.imgix.net/production/articles/11919/147875d6-e89c-42b3-83fe-4760752a7e13.png?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "Xqagn2OxEVrHKoCl0xB68X9VekXSIGmn3Q3n6TY7hS9Ba+hRFi+GUqSCxKZRPGAJ9KRYm2b4m4n/nMfzkbqRhF/0jM60XSpIBpKGCSlerd0j7FtyUFPdlBud2/R8706Uv7lHj0ESpffPkC1pzgPimO9/8UVL4I8DIZWnZo0B6UI8rsWLQM77cJPd7d79aszKsft88nRsCM/jLadEv0J7nhxFhpP20KrMQ5+duRclLZH65leXZ/YbQALLcAA8FddoRm+jE6jjXnF6Zqvw0rHIU43C89GN5UZZv2Q2/o6CuGC8VHmp2rX54R/QlMOV3T2Mrz4/gZ3owgOirQYuWNznukxfYRD4199t4vszVvxUM5Q=;BOhlbSJ4XNxN8cWPXdOvLw=="
 ---

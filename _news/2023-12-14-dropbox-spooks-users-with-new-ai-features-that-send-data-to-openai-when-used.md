@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/information-technology/2023/12/dropbox-spo
 webUrl: "https://arstechnica.com/information-technology/2023/12/dropbox-spooks-users-by-sending-data-to-openai-for-ai-search-features/"
 type: article
 quality: 64
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "OpenAI suspends ByteDance’s account after it used GPT to train its own AI model."
+    excerpt: "In today’s issue of Command Line, I reported that ByteDance has been violating the developer license of both Microsoft and OpenAI by using GPT-generated data to train its own, competing model in China."
+    publishedDateTime: 2023-12-15T23:30:00Z
+    webUrl: "https://www.theverge.com/2023/12/15/24003542/openai-suspends-bytedances-account-after-it-used-gpt-to-train-its-own-ai-model"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 64
+    images:
+      - url: "https://cdn.vox-cdn.com/uploads/chorus_asset/file/23966628/the_verge_social_share.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "OpenAI’s Rival Mistral AI Valued at $2B after Latest Funding Round"
     excerpt: "OpenAI's rival Mistral AI is now valued at $2 billion after its latest funding round where it pulled $415 million from investors."
     publishedDateTime: 2023-12-11T17:39:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://fox59.com/morning-news/technology/purdue-global-law-schools-
 cdnAmpWebUrl: "https://fox59-com.cdn.ampproject.org/c/s/fox59.com/morning-news/technology/purdue-global-law-schools-launches-ai-course/amp/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 800
     height: 450
     isCached: true
-
-related:
-  - title: "Purdue Global Law School launches AI course"
-    excerpt: "The course, which will be taught by Shaun Jamison, associate dean for academic affairs, will feature 15 modules that touch on topics such as ethics and governance, plagiarism, AI and criminal justice, and the future of AI and the law. “One of the best ..."
-    publishedDateTime: 2023-12-11T00:00:00Z
-    webUrl: "https://www.purdue.edu/newsroom/releases/2023/Q4/purdue-global-law-school-launches-ai-course.html"
-    type: article
-    provider:
-      name: Purdue University
-      domain: purdue.edu
-    quality: 39
-    images:
-      - url: "https://www.purdue.edu/uns/images/2023/pg-lawschoolOG.jpg"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "hXJ+88mqxDHkNiFHqWGr30pKbEh0njfaIP/IwYkzO8KNaubLbwUfSS+a93pcZQUsCVJoE+tA/eKFiiRxAQ8zRym2xCw+HPRosqLBclAwffiTcKe/w/Qngh8as3LPT1SvK12M4hv0Ax+fIFwYuR/kLC9XDKx9PSrivSPWVr57ZOSrgv3CeHGxKcMiYEtfzGMc0v+DT01VxLlM6EoumUGX4U8Pise0rqPZELIzKupPdxcf0N3UI8gT1UB82/NITDmAt1GuC8mc/1RNYB0FuHVEbGzYLeaownfI+Eeh7fDjP6TnMgflC6WrfNUHkuA/e91S7piSOvnPag5naQgpQIC2tB7ELZhgVH012t8SIS+w4Ow=;a+D6Ce4I91OMGIU3ctcw5Q=="
 ---

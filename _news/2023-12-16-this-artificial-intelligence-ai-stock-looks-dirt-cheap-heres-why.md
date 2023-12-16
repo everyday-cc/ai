@@ -6,8 +6,8 @@ publishedDateTime: 2023-12-15T22:12:00Z
 originalUrl: "https://www.fool.com/investing/2023/12/15/why-this-ai-stock-looks-dirt-cheap/"
 webUrl: "https://www.fool.com/investing/2023/12/15/why-this-ai-stock-looks-dirt-cheap/"
 type: article
-quality: 82
-heat: 92
+quality: 84
+heat: 94
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Meta AI
 
 images:
   - url: "https://g.foolcdn.com/editorial/images/757919/social-media-networking-likes-facebook-meta-instagram-1.jpg"
@@ -38,6 +39,6 @@ related:
       domain: theglobeandmail.com
     quality: 26
 
-secured: "yjlolft3IYcwz2j+e+BwWuPE4uCaXs6uBrNzTYAsIGPYReasv+iTnhcDqmXeSgzGZsbgv1it/pSPc8laKstvgxXijL4rDImL/N5PXNsShvEvYLpqKoWtVbSMv4koYGy9pNTsU24cJjsSvgH7vlvfg0THpVgaZbMRw7FkKvrzJpc7JY/1o8pT02AYtscOUbdMJI2HfzN6QHFl5fNIIqJE9cU4ky5dau1t9I8lV9P5t97HN5CdbbjxkcelT4UqsZfcsjcb4sEVKJB3xtjNO+ql0T19czMWzzTlNpKOsFZdzAEcV9FzedoR7XLXWGbmUATqYNw5Q+kwUhZFf4vrWXC5LjbxpxLsNavfwIuFUtalQWk=;tF6unDMEzm6rNFJPXhBYoQ=="
+secured: "p7MMCerx9TGxjnT3l0MryUUOYshRwYcWC59QSKbKJOHDALy+lrgXqFjUmfiz6MI3FIBm7VyTJzk15Rm62kTqUvDT7IBF1I6HXhyK7OP2aWfTNkJZ97WzM+z0c5UTrLBnCiZ7YSa4DtE6JgvFtTHtrDBQaF3oxWtMCrMZ/gs6zK4ipo2B61Xdjz9GDB5ZdLe/z1MSNqR7KGQE5zuDyzZ7QY8fUimaMzl3hx3OsM6qUuuD8dFp3E7fVrScY9jRDvpVptaRf+CuXhLBsavzkpmZdHir86EJjA846lSg1GwMK+9FgldpT+18U16ko4Vfj5Qqz2pxxozbWkSMZuo8jrjrqWwh8V/fU1HzH1XNa9PB13vw5p4H5npbE1O/X4Jtla866U/O8Fg2S7b9L7OIDQJ8DuH+ZUfzoyynnZ9BNhnrsLcOfKRhBdKQMp67+aeEVFOik4QUlD6FMLvtlPTcmQ1ZtwG5ZLR/luW3VciRbQWCdinisejum3eyiDv2KKyjzCgygkfBhbJi8RdMSpFpNil8tw==;1dh0VDIthnCqr0/fe3V/IA=="
 ---
 

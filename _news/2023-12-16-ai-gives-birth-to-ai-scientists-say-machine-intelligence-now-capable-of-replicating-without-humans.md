@@ -8,8 +8,8 @@ webUrl: "https://www.foxnews.com/science/ai-gives-birth-ai-scientists-say-machin
 ampWebUrl: "https://www.foxnews.com/science/ai-gives-birth-ai-scientists-say-machine-intelligence-capable-replicating-without-humans.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/science/ai-gives-birth-ai-scientists-say-machine-intelligence-capable-replicating-without-humans.amp"
 type: article
-quality: 73
-heat: 73
+quality: 75
+heat: 75
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e4336cb-1ed1-4bdb-8d7a-51b172f56e8f/f6e77140-9cf3-4af3-9e39-df8551415803/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
@@ -29,6 +30,6 @@ images:
     height: 675
     isCached: true
 
-secured: "mIpsTi6rz3MRIEp9GE6MYoSLgMh8PnO8x2ID/p4LzwbDHXm60xO0wVkcAK2HdQ1KiNCcfR0EoJGnkFj5Ka+fMLWBeeD5QuzoP+xd1qcgvyp3Yl3eD+aYZ0A/XunPkWbMcqtPd2DyekK4JZmcdWlUNI/b4mQzaZOyoWa2MFLm3M+yzMYG3rqtHsD62Y1p6mhT2GppNuX+4eedxs9rWSAWsP/2KVyfbuTkThkK2HQBQDhf1qizKFmcLARBTBpxuGsrwTq5Tb4MRPcEaI1VcToJ9Jyfh+58D0pLAgYThyO2igVQxuYHv5dwaQpLVcYf1nYedHNDxLhyWCHZp3FAguXDm1q0GqIWZg0q2bOAO+9cz/M=;xqPz35Pu2GI0aQvUoOpigA=="
+secured: "DlyvOV3FtswrxGrOWZlI9QTrK7R+lEJoJsjT/tYiRX9uulwr38CfovAUIhFdroNy+bfGaOdIkVXp6C1MAOtkO3aWsfRnCgtw7hq9kBbwM8MRmOqwgm3INbkPgb4eRM91dSu8ZSt+NkomlhddUwAGlWvBEoppg5VeWsqq5WCIoiZdLjlhPo5OrjaDRdVax7pKhfFtSLW8iEJk98NeACF8BT5hppm+tq5YxZBa7i59vx4iBJNR0wF9TZjw95I1RAG1ThiUBbuhEnZR+MztKSDELFJASibFiVqOsDP/WZLPRvDyEmJh0oT00QoGN5aBuUP2L8j5MUauu0F8LO21VV3HjbZMaK5Jg7X7OTXNiwSRdYjo7UTzBjqzMAUm7Vs8l7nOpQgycMCFmNueCsnfv2PoZYzepZx7DAPptBp9BQ6MkgNZ0jRRF8olZoBPCU6GskJxt5xofqNoDo4tboKAbGw/J8SE1rQQ8pgpEXwFX6PCjcgab0Wy/NZFsXA6F4oIwImj26zm4bbovdN2rEd0YoM4tw==;7Jf/FaK96oS6aJ0mVl9EcQ=="
 ---
 
