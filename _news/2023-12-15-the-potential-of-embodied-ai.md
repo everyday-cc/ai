@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/15/the-potent
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/15/the-potential-of-embodied-ai/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/61f030570018a072dc46d1ec/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1350
         height: 900
-        isCached: true
-  - title: "The Artificial Intelligence Glossary"
-    excerpt: "A guide to the key terms you need to know and understand when discussing AI. Artificial intelligence is dominating conversations across all industries, including legal. To help legal professionals ..."
-    publishedDateTime: 2023-12-11T12:19:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/12/11/the-artificial-intelligence-glossary/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/03/Brain-Lightbulb-767x633.jpg"
-        width: 767
-        height: 633
         isCached: true
 
 secured: "bA6ZApyilzaX5FPs4nlAwPYVrUWElw6aIKNZP0NanxTgR1MX8vehtcgNgxKBQxJMn+adQ/7+n0gqzDx089cpPXXo4hkjpG5rOnYtRFvdwvnF7lmo3H6XeP3XHx1InXU7pECO1tbERyVGnZFIqJ9NUbVIj9Y2hcO/4zwGvCvRNc4PNNbqnYJtHRG2mopxsv3nFOhfnJ80LO3mbMGyHceAvNd6Hd3I1Nl2YPT4Nk3v5SmrrvP82WRW5dmuGKmUaaxyDyDyH1reHlGXtjbONNm/XFWSnKOUwFsDv2DnJuCIGKDgJJJ7+Rl6FnePT6VUZZ4j12tHbNQRHzG3bfWxN1RDAkD2ozDWbyw9pTrrdQWnuJ51w7DxnpO+KLMfzVisiCyDOQ7dZknFu5Bcbja4xPpb7wZy6FyupIs5MpyYCNe4CSvUcP8v+5wCkwB2j+V6kec4e5iTd6byEgRRn1gm2ux4XtDcaaQdzfjnLXhLqvnuTUzyE676dBelV9px+e2dEjTDweST5gwdpF0T6PcgMuUg+w==;67ZzdwhONsCuyUKTy9BP8w=="

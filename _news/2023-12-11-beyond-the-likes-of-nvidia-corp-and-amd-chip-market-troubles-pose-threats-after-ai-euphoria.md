@@ -167,22 +167,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Nvidia races to fulfill AI demand with its first Vietnam semiconductor hub"
-    excerpt: "Vietnam has been a growing tech manufacturing destination for the past few years, and Nvidia said it is open to a new manufacturing partner in Vietnam."
-    publishedDateTime: 2023-12-11T11:29:00Z
-    webUrl: "https://www.networkworld.com/article/1255805/nvidia-races-to-fulfill-ai-demand-with-its-first-vietnam-semiconductor-hub.html"
-    ampWebUrl: "https://www.networkworld.com/article/1255805/nvidia-races-to-fulfill-ai-demand-with-its-first-vietnam-semiconductor-hub.html/amp/"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1255805/nvidia-races-to-fulfill-ai-demand-with-its-first-vietnam-semiconductor-hub.html/amp/"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 57
-    images:
-      - url: "https://www.networkworld.com/wp-content/uploads/2023/12/2023-keynote-nvidia-100941637-orig-1.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "US: Nvidia can sell AI chips to China, just not the best ones"
     excerpt: "A smartphone with a displayed NVIDIA logo is placed on a computer motherboard in this illustration taken March 6, 2023. [Photo/Agencies] Nvidia can sell artificial intelligence chips to China, but just not \"the most sophisticated ones\","
     publishedDateTime: 2023-12-12T03:43:00Z
@@ -322,20 +306,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 34
-  - title: "Exclusive-After US curbs, Tencent and small chip designers chase Nvidia's China crown"
-    excerpt: "Chinese chip designers including Tencent Holdings are aggressively pitching their AI chips as alternatives to Nvidia's, hoping U.S. export restrictions will prompt clients to switch, said four people familiar with such discussions."
-    publishedDateTime: 2023-12-11T11:40:00Z
-    webUrl: "https://www.aol.com/news/exclusive-us-curbs-tencent-small-094058047.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 32
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/fbad03b76d923f29adf97cd83ea6abd6"
-        width: 800
-        height: 533
-        isCached: true
   - title: "How Nvidia approaches accelerating the AI ecosystem"
     excerpt: "\"If you’re working in AI and accelerated computing right now, NVIDIA stands ready to help,\" the company said in its blog post. \"Developers across every industry in every country are building accelerated computing applications."
     publishedDateTime: 2023-12-11T22:31:00Z

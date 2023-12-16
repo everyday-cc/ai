@@ -78,29 +78,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 47
-  - title: "AI start-up Mistral secures €385m to challenge OpenAI"
-    excerpt: "French start-up Mistral is focused on creating open-source AI models and has reportedly hit unicorn status after raising €385m."
-    publishedDateTime: 2023-12-11T12:24:00Z
-    webUrl: "https://www.siliconrepublic.com/start-ups/mistral-ai-unicorn-funding-open-source"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 37
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/12/AdobeStock_259976477.jpeg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "OpenAI’s Soap Opera Collapse Bodes Ill for AI Benefiting Humanity"
-    excerpt: "Whatever fantasies we may have had about the nonprofit structure of OpenAI have been eviscerated. While it remains a nonprofit, it’s proven entirely beholden to ruthless capitalism"
-    publishedDateTime: 2023-12-11T13:04:00Z
-    webUrl: "https://www.scientificamerican.com/article/openais-soap-opera-collapse-bodes-ill-for-ai-benefiting-humanity/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 17
   - title: "OpenAI to pay Axel Springer to use content to train AI models"
     excerpt: "OpenAI, the generative artificial intelligence startup backed by Microsoft (NASDAQ:MSFT), has agreed to pay publishing company Axel Springer to use the media company's content to train its AI models. The content will be used to create answers in ChatGPT ..."
     publishedDateTime: 2023-12-13T14:21:00Z

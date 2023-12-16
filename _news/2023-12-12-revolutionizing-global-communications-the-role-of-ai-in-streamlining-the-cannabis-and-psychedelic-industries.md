@@ -41,24 +41,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Revolutionising Logistics: The Age Of AI Truck Loading Robots"
-    excerpt: "Holiday shipping is already in full swing as the end of the year approaches. But, before products are displayed on a supermarket shelf or dispatched from a"
-    publishedDateTime: 2023-12-11T11:50:00Z
-    webUrl: "https://www.electronicsforu.com/special/revolutionizing-logistics-age-of-ai-truck-loading-robots"
-    type: article
-    provider:
-      name: electronicsforu
-      domain: electronicsforu.com
-    quality: 34
-  - title: "How Publishers Can Navigate the AI Revolution"
-    excerpt: "Despite the hype, publishing is still looking at what impact large language models and similar technology may bring."
-    publishedDateTime: 2023-12-16T01:22:00Z
-    webUrl: "https://www.publishersweekly.com/pw/by-topic/digital/content-and-e-books/article/93963-how-publishers-can-navigate-the-ai-revolution.html"
-    type: article
-    provider:
-      name: Publishers Weekly
-      domain: publishersweekly.com
-    quality: 19
 
 secured: "L+NoBJo8rhDI/qUGrpgzvHLLDgECrW2eg/Q2F5r/E9oqdkIn8e6QvP5Hq6/+y5SUExCLJlFDOcYOEPL9+K1h525WHtBIOMkMjoAVx0X1bRWTQ6tCQlL5qU72aAltlE2TS8zxxRMkHOwd7mDigURG0b++fj3afmsEFfT5GpKpgX5Oye0zD+uKM6+Mb2dOQlUnZZlgdWvFfJGEqKJq0jDeiL5m6bhv1VGKnxkaDCwcSAyNe20bMXYMPjTGwUZ5hIgM6ooQ2MJ2kLoG3m5aBEUBbLlvm8VHzQLOafiBNIYcLJF0FPnKytiblrwJTCQ/su/Y9XtfdQvK8qDMli0ns6tiR6PTGxyp90WaYEZq6IIOMhPcM6uAIBdh16HoVVm9iDfxVs5XMN+mzGbj2im3WsSZ7VaE0LCKmpkdF2K1QGY5saIDGKjN5D3chsCzWKrqayhQ3HqU6bsYe9jO1eeedZ1ZRf8uB+0ufuba4apkx+s28lSlPF3atn0Q1FevajFxsbusvAHUPe3K0FAT31SgODQhfw==;PiScdolGtSsBGVs1Xqhu4A=="
 ---

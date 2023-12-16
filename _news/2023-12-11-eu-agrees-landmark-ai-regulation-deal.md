@@ -50,15 +50,6 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 62
-  - title: "EU’s AI rules look best for those in the middle"
-    excerpt: "France and Germany may have found a sweet spot amid the European Union’s artificial intelligence rules. As expected, the bloc will require general-purpose AI players to report how they use data, train their models and respect copyright laws,"
-    publishedDateTime: 2023-12-11T11:33:00Z
-    webUrl: "https://www.reuters.com/breakingviews/eus-ai-rules-look-best-those-middle-2023-12-11/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
   - title: "LATAM gets guide for AI and cybersecurity legislation"
     excerpt: "Fortinet is the lead sponsor of the book Generative Technologies and Cyberspace in the Legislative Agenda – a guide for LATAM legislative institutions in initiatives that seek to regulate the use of Artificial Intelligence and citizen cybersecurity."
     publishedDateTime: 2023-12-12T11:36:00Z

@@ -95,15 +95,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 81
-  - title: "Microsoft Agrees to Union Contract Terms Governing Its Use of AI"
-    excerpt: "Microsoft Corp. has agreed to union contract language governing its use of artificial intelligence, creating an avenue for workers to challenge how it deploys the evolving technology."
-    publishedDateTime: 2023-12-11T11:59:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-12-11/microsoft-agrees-to-union-contract-terms-governing-its-use-of-ai"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 64
   - title: "Microsoft Copilot: tips and tricks for using AI in Windows"
     excerpt: "Windows Copilot is a useful tool for augmenting your Windows experience, but with these tips and tricks you can make it even better."
     publishedDateTime: 2023-12-13T19:19:00Z

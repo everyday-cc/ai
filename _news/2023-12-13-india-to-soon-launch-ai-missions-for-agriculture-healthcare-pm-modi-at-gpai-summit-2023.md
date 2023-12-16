@@ -74,15 +74,6 @@ related:
         width: 750
         height: 375
         isCached: true
-  - title: "Artificial Intelligence in Healthcare: 3 Stocks Transforming the Industry"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence is being applied across the healthcare sector to"
-    publishedDateTime: 2023-12-11T13:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-3-stocks-transforming-the-industry-1032889408"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
   - title: "Navigating AI in Healthcare: Dr. Donald Macfarlane's Warning on AI-Driven Medical Note-Taking"
     excerpt: "Dr. Donald Macfarlane warns against the use of AI-driven tools in medical note-taking due to fabrications that will negatively impact patient"
     publishedDateTime: 2023-12-15T18:11:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://kvia.com/news/business-technology/2023/12/15/how-ai-can-te
 webUrl: "https://kvia.com/news/business-technology/2023/12/15/how-ai-can-teach-kids-to-write-not-just-cheat/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1010
     height: 720
     isCached: true
-
-related:
-  - title: "Artificial intelligence (AI) can teach math teachers how to improve student skills"
-    excerpt: "When teachers completed a programme that uses artificial intelligence (AI) to improve their teaching skills, their students’ math performance improved."
-    publishedDateTime: 2023-12-11T12:46:00Z
-    webUrl: "https://tech.hindustantimes.com/opinion/artificial-intelligence-ai-can-teach-math-teachers-how-to-improve-student-skills-71702226604984.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/opinion/artificial-intelligence-ai-can-teach-math-teachers-how-to-improve-student-skills-71702226604984.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/opinion/artificial-intelligence-ai-can-teach-math-teachers-how-to-improve-student-skills-71702226604984.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 83
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2023/12/11/1600x900/g5a0a2d99_1702257168240_1702257168559.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "wLNCNHMifrosmTTuF/LHTHbl8gdW6t7gUbr18yGAKijzc7+VJ9XGWOoI5KWARpBPkQig6FC/0gYvPReO8KsTgyNbNVTPOBhqGxt7epvRr5raH2CF+Omyn/l13VD85eAx8NweJNv4I5664I7X6a+YjbDJU//noC4q4dVSfrsGXszoHSCT1R3uFT6MfZH3xDyY/qN7aHF77+lwuBYwZX91QNPZ38v7Hh9Q0u4kHgNMTLDmSF4F/X859HgVRKaLEsKZNAxqZQn2Mx+Q0xQcQlg+iRMH92M7mRHilLM7VIFHrOJQqLgHUKRMbScD2t27VaifFtKT/FRj6DMiMRKelkfpttT19AHVXPvXghkcpPzhgFE=;ngm4vsRkThmmi7cVrmylUw=="
 ---

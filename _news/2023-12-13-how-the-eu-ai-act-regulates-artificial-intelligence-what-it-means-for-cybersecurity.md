@@ -9,7 +9,7 @@ ampWebUrl: "https://www.csoonline.com/article/1258597/how-the-eu-ai-act-regulate
 cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/1258597/how-the-eu-ai-act-regulates-artificial-intelligence-and-what-it-means-for-cybersecurity.html/amp/"
 type: article
 quality: 67
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -36,15 +36,6 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 62
-  - title: "EU’s AI rules look best for those in the middle"
-    excerpt: "France and Germany may have found a sweet spot amid the European Union’s artificial intelligence rules. As expected, the bloc will require general-purpose AI players to report how they use data, train their models and respect copyright laws,"
-    publishedDateTime: 2023-12-11T11:33:00Z
-    webUrl: "https://www.reuters.com/breakingviews/eus-ai-rules-look-best-those-middle-2023-12-11/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
   - title: "EU agrees landmark AI regulation deal"
     excerpt: "The European Union has introduced the world’s first comprehensive laws to regulate the use of AI, reaching a provisional deal between its member states. The laws were agreed after 36 hours of talks, with the European Parliament to vote on the AI Act proposals early next year."
     publishedDateTime: 2023-12-11T15:54:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/five-open-source-ai-tools-to-know/"
 webUrl: "https://www.ibm.com/blog/five-open-source-ai-tools-to-know/"
 type: article
 quality: 99
-heat: 199
+heat: 200
 published: true
 
 provider:
@@ -167,6 +167,6 @@ related:
       domain: cointelegraph.com
     quality: 15
 
-secured: "0RCm0qgnhk6qIT4uSdUPYSJayxItQWN3vdAgE6H9IbsaGWtz7uxSsixXQqwCOh59lf8LS1NpkYw+CSeb22PXKy0EV0Dc/MDRIN3MKFgR3dOpld83sEyI6kIY0RpljxsAw/1a4Imglg4H9ju85WIw7ybqLIg5wFnsixQkwY1OtfGmt9HRLLfoA1ePjqwM5JYImZHvPmknnOO0i8M+D4nPva4WnbScLz9kHKt9S8nwWC0A/DdA5kv+bAmDgnnghUtDLrWEBl46Ra3u9MGEFQ+qPkNKgXwsQN7cW+/1fVBlH6cXJnYmxwe3zISEwLtskDuc55Kg2WFe+MTJWUGoMUNbP1VVJUKFSC4U8xbzz3BCjnQ=;aVUSbitzHBk7sbJb/Y63cQ=="
+secured: "RmjOcEsUXuHrUs6cZWg3QNtoQDEAhvnDbkU6605QMZECYrllhYsBcm2P4vQgWMAKYoisi6Z4iB3I7dJsU+Ai309439sv6Lqn5yaRbHlUMGRY6zus0ReaoNo9egVX7l65GbWEZeJb/3NzoZHLZbrApKp4xYvHs4d8+7ixHB0xKK6JPZS4ZKv5awA54pZKS4dVpJJk6eqHicY4/yvsMPWPC9t0JVXc8LLndAxVdRMuC4GpKZyFJJpv6T4EpGCq02/m3j6sVb5R897qhmNn49QaOxyfBtYm8K+0ikoir48fM7ZI/rF0m9LEnWYF2JlqCoMkLG/mx79Mgl1ZW7QEI2mztYGYrkX8R/I1PdSw2NNbTew=;LGr47BVgfso8/Abs/seIrw=="
 ---
 

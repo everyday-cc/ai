@@ -50,20 +50,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
-  - title: "The EU’s AI Act: A beacon of innovation and ethics for emerging Europe"
-    excerpt: "In an exceptional move reverberating through the corridors of technology and governance, the European Union has provisionally adopted the Artificial Intelligence Act, heralding a new era of digital ethics and innovation."
-    publishedDateTime: 2023-12-11T12:24:00Z
-    webUrl: "https://emerging-europe.com/partner-content/the-eus-ai-act-a-beacon-of-innovation-and-ethics-for-emerging-europe/"
-    type: article
-    provider:
-      name: emerging-europe.com
-      domain: emerging-europe.com
-    quality: 54
-    images:
-      - url: "https://emerging-europe.com/wp-content/uploads/2023/12/bigstock-ai-artificial-intelligence-310093555.jpg"
-        width: 1600
-        height: 1000
-        isCached: true
   - title: "Most countries agreeing what India was saying on Artificial Intelligence regulation: Rajeev Chandrasekhar"
     excerpt: "The Union minister today met Viscount Camrose, UK's Minister of AI and Intellectual Property and Hiroshi Yoshida, Japan's Vice Minister of Policy Coordination, Ministry of Internal Affairs and Communications."
     publishedDateTime: 2023-12-13T08:19:00Z

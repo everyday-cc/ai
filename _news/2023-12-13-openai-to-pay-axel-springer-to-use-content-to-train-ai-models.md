@@ -85,29 +85,6 @@ related:
         width: 1280
         height: 717
         isCached: true
-  - title: "AI start-up Mistral secures €385m to challenge OpenAI"
-    excerpt: "French start-up Mistral is focused on creating open-source AI models and has reportedly hit unicorn status after raising €385m."
-    publishedDateTime: 2023-12-11T12:24:00Z
-    webUrl: "https://www.siliconrepublic.com/start-ups/mistral-ai-unicorn-funding-open-source"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 37
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/12/AdobeStock_259976477.jpeg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "OpenAI’s Soap Opera Collapse Bodes Ill for AI Benefiting Humanity"
-    excerpt: "Whatever fantasies we may have had about the nonprofit structure of OpenAI have been eviscerated. While it remains a nonprofit, it’s proven entirely beholden to ruthless capitalism"
-    publishedDateTime: 2023-12-11T13:04:00Z
-    webUrl: "https://www.scientificamerican.com/article/openais-soap-opera-collapse-bodes-ill-for-ai-benefiting-humanity/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 17
   - title: "OpenAI announces second round of AI startup fund"
     excerpt: "OpenAI has opened applications for the second cohort of its six-week program for artificial intelligence (AI) startups, Converge 2, through which it will invest $1 million into each of the 15 successful participants selected."
     publishedDateTime: 2023-12-15T11:01:00Z

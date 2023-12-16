@@ -18,21 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "French AI start-up Mistral AI raises €385m"
-    excerpt: "French artificial intelligence start-up Mistral AI announced Sunday it had raised €385 million ($414 million), becoming one of Europe's two AI leaders. Founded in May by industry heavyweights, Mistral had already raised €105 million in June. Among ..."
-    publishedDateTime: 2023-12-11T12:35:00Z
-    webUrl: "https://www.dhakatribune.com/business/333592/french-ai-start-up-mistral-ai-raises-€385m"
-    ampWebUrl: "https://www.dhakatribune.com/amp/business/333592/french-ai-start-up-mistral-ai-raises-%E2%82%AC385m"
-    cdnAmpWebUrl: "https://www-dhakatribune-com.cdn.ampproject.org/c/s/www.dhakatribune.com/amp/business/333592/french-ai-start-up-mistral-ai-raises-%E2%82%AC385m"
+  - title: "OpenAI Competitor Mistral AI Nabs $487M Round, Hitting $2B Valuation"
+    excerpt: "Paris-based Mistral AI, an OpenAI and Anthropic competitor, is putting the final touches on a massive round of approximately $487 million that would value the company at $2 billion, per a report."
+    publishedDateTime: 2023-12-11T18:13:00Z
+    webUrl: "https://news.crunchbase.com/ai/mistral-openai-anthropic-andreessen/"
     type: article
     provider:
-      name: Dhaka Tribune
-      domain: dhakatribune.com
-    quality: 57
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 37
     images:
-      - url: "https://ecdn.dhakatribune.net/contents/cache/images/600x315x1/uploads/media/2023/12/11/000_33ZM9P9-b2692f2c39865b65deaec2e3e2362ef2.jpg?jadewits_media_id=10902"
-        width: 600
-        height: 315
+      - url: "https://news.crunchbase.com/wp-content/uploads/Generative_AI_3.jpg"
+        width: 900
+        height: 506
         isCached: true
 
 secured: "2vt/xACUDdz7lySTEBZu1yBmv3fMTmEReR2wGLWLNBCIXV/znfJhp6oNy2rkVsQnEyxuK4ezmZRzZnBlDbB84iZPBtRXawV4YDyt55VYZlLL4ydTBjfEpOeep3EEy0wST1TEDju8aEQKY9OqYUsGLRVKjElzw7vzTTdkO98Nu3WkQZrIARFdPOcaEXac0fIvqOnfhrrhw2ZY5oxtJ68hLP3swESzYxvIUSTVWDNaHRNLZxIXTh/Q3uUbmB/aIuhU9ntM83AZYFUze5bLhxkO7q+VCZ7qHC4pyux9ZBXfWWyp24QuYTrG+IG41DqRKHNwv3aNmUVY9qnQuwlpmomWWbvwOjUQZuIvWiNgGBwqfkC4LW7gvrEZ80BD3IqTiffVzCEWKSVfXe2soin/iq/WESQSNuhVXM0YTuPeCV0PeMcPhXHofBSFPQixg/sJbD84Ip/yS0AqGgemwovq1VjObb7cuWq/HiJVszvyzbkl8BGL3qBSOA/aF4eign32K4knnYXFZoQCyYggGviebFvEpA==;Y/J7HzTdekNWY0oWKmoOSw=="

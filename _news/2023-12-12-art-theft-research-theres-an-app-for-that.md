@@ -36,6 +36,15 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 35
+  - title: "Generative AI, Cloud And Startups: A Power Trio Redefining India’s Techscape!"
+    excerpt: "Explore how generative AI, cloud technology and startups are redefining India's tech landscape in this roundtable by Inc42 and Google Cloud."
+    publishedDateTime: 2023-12-16T11:45:00Z
+    webUrl: "https://inc42.com/videos/generative-ai-cloud-and-startups-a-power-trio-redefining-indias-techscape/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 14
 
 secured: "aGNHf/63E0nqLJHm5Ys6FA6kr+WCp1Ri7nRCBl5NAjzVovRXh4i4zcyT4OhlU5urdZywvjbeaTjJ0G+sEhcKTXBRs/3xGH1yjAHfNyP4EW1FOPHf7hDKdu1zrxOKMHaX1n8jfTLhiP1Jgs4UrbnI5AaUjl7MCAnTEwLwEvoEuG9VK8t3svPAeVE7BM+oKwDChtjqGK4vRr1paf3d82YsIC6EIjqYcKh/voIW2c3SQ31G/EjkvBwX8kwf+LjvmaBV4N6FovfWclyR0dtV9+UHjECfJBjVkKCZuVAx03EtLSc29X/dzFHQwk+V524f4f6hMntOL9oey+hHj3DRuLbDlcxlSbxDhcRS3A5kHMJkh5M=;oGC4IIIVq6Ddd3HPWSapbw=="
 ---

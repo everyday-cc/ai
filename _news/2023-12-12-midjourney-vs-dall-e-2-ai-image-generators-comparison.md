@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/midjourney-vs-dall-e/"
 webUrl: "https://www.techrepublic.com/article/midjourney-vs-dall-e/"
 type: article
 quality: 71
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1400
     height: 784
     isCached: true
-
-related:
-  - title: "I just tried Meta’s new AI image generator — and it gives DALL-E a run for its money"
-    excerpt: "Last week Meta quietly dropped a new standalone artificial intelligence image generator product. Unlike its other AI tools, this was released under the Meta brand. Imagine with Meta is free to use but does come with the caveat that images may be inaccurate or inappropriate. It is also currently only available in the U.S."
-    publishedDateTime: 2023-12-11T12:32:00Z
-    webUrl: "https://www.tomsguide.com/features/i-just-tried-metas-new-ai-image-generator-and-it-gives-dall-e-a-run-for-its-money"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 12
 
 secured: "yisnir/pgq1ynsV4fVJjzfg3nubp7stuF5FYenMSAPFf+TJpyrij7eq6AJBKzbwU+jBpTCK7G36wE7/0nH6UxT+ju3BTDAXQcw0046nKscxZKwRFx63vUhZU52ldryquTKdV67d7Na0m+w/j8wf2d+vmjLY18fuOLynME78exXbkVwK70R5ILlrSvYw3VP5IyLch5dXoBDsZ+7/GOG3PS8YeRb3RN/ExfMqj8kaAqsa7iZ7A7CX7ntGnN5jNmFYwg7CYCqmB85Rz9KY0NfGpkRHmwrBKh6oDBm4Npk2S76z0G3ub8KLfDKpBetCXni5BGT13ooBie617fo1vS9drukWGobF1Mato35sTiUs+mojsZRistxIWg3qX9ugObK6uKyYAlV0l7/zhKIZwLzFiR0Xg6lwNmar7C7KfgEkcTTjRersiceJAvu0uw73EVjDq4wuYiyFPS01fqjFmyTkeggfsff0K+I33bPDSHLAi22AjMdBi8ryVith4L6V6Pwaj9k8zFHJ/DZpY4AfIPWd46Q==;hRSMki1kXyG7uG2kF1n6Bw=="
 ---

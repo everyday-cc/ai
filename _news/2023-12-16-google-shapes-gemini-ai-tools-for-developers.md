@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/12/16/google-shapes-
 ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/12/16/google-shapes-gemini-ai-tools-for-developers/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/12/16/google-shapes-gemini-ai-tools-for-developers/amp/"
 type: article
-quality: 87
+quality: 89
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - IBM AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/657d683b20807ddde92b89ef/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
@@ -204,6 +205,6 @@ related:
       domain: cbsnews.com
     quality: 17
 
-secured: "QdsErkup8f2iVpGLvBopXMEUXEPokRRRVntrJ/Ypm0bX0ajcxzgk51UOcpoiLXK7Diho61CAM6/f3aYFzqn3CKzFNkC/6i6E6pO/C1TytkG26vSfvGtZzs6JZ25aQXyiXTpJatt3sx9CLeU7Q8iuRWzePRHl1ZoqOCZmziJxwNCZoNlH/rNyzdHW9voqsn8MlKPNc2H+FA0fu3MCmGD4k4o1tnOySE8ymbdSFpIEvcZqT3XSchpI1XtADYRPA0BjknJR2ILMMngA2qe3mexDfJ6NI8m6wTf3ZYnLx/Yx11pTBvfKHarj2rZfd/7mwB6WuEVrEKob6BBD3nuQYwu1qgvRMYjhJ+Q8vZpUhRGS5pk=;swVmz9ZIQaVBp+3g2UZooA=="
+secured: "Jzql2vXhD4ZEw6Si5cWZfs/NXXvnby5a598Nz9BKN3kuE8SAFituc7NjPQMd97zjU8fETj5GO4WmYrq4/j7lz2OQjoIzfPm6RNiaGzpoFRnaAFUZjTml+7hLpWcWW6eOUNz/IUq/+OSR0DChxOciV4d1zZxpILZC3F4dBphCq2j6BtNK4t5/pcQvdOqBhHXAHFfXxYUWLcWjQlx2rhcsOscsMBwNMk17Y+PASOYLQehYyCzzsWhi+9k4uyqp8KMMxIyp0usOT/3TLPV/qviicCpN6ciADbglv8gsgkQkW1Qa6N3cantoPGqR4RqfFeb4l+dli6CaI2lXa7Mfq8ERn6LjUA8b/ai8pAWHkycs64VtFqyhEFAeAVNtI+jz/2eFT141EYuS5u1bmT4grMMcTanpOYVcGaapz/mgsvX82WU4/Ex97gmjj3Upusd9MKpZZ2MoyF/4YAsKh+uJsPJMAxq4jEwybIX8zrE/w12uRd+w24zyatGf6nfIvUH88Rwt8PuRkzcIrxjl+7AW042LlA==;uVcsNggWOuLk93hVcbPtJw=="
 ---
 

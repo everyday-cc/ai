@@ -43,20 +43,6 @@ related:
         width: 2000
         height: 1125
         isCached: true
-  - title: "IBM wants to use AI to upgrade COBOL"
-    excerpt: "Before the COBOL cowboys die out Biggish blue has a cunning plan to use AI to convert COBOL code into something a little more modern. More than three trillion dollars’ worth of transactions are handled by COBOL code which has never been changed because it worked well."
-    publishedDateTime: 2023-12-11T11:09:00Z
-    webUrl: "https://www.fudzilla.com/news/58088-ibm-wants-to-use-ai-to-upgrade-cobol"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/f98048522ec29b7dddff99a4b459158d_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
   - title: "Dun & Bradstreet and IBM Collaborate to Bring Trustworthy Business Insights to Fuel Responsible Generative AI Solutions Powered by watsonx"
     excerpt: "Dun & Bradstreet (NYSE: DNB), a leading global provider of business decisioning data and analytics, and IBM (NYSE: IBM), have announced a strategi"
     publishedDateTime: 2023-12-13T18:11:00Z

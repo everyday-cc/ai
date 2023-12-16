@@ -86,15 +86,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Artificial Intelligence in Healthcare: 3 Stocks Transforming the Industry"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence is being applied across the healthcare sector to"
-    publishedDateTime: 2023-12-11T13:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-3-stocks-transforming-the-industry-1032889408"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
   - title: "CVS, Geisinger, others sign responsible AI in healthcare pledge"
     excerpt: "A survey conducted earlier this year by the American Medical Association found 65% of physicians saw an advantage to AI in healthcare, with the greatest enthusiasm for tools that could reduce administrative burdens in medical documentation or prior ..."
     publishedDateTime: 2023-12-15T00:00:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/ai/artificial-intelligence/gpai-should-help
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/artificial-intelligence/gpai-should-help-frame-sustainable-ai-rules-pm/amp-11702401229429.html"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Mint
@@ -43,15 +43,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "E.U. Reaches Deal on World’s First Comprehensive AI Rules"
-    excerpt: "European Union negotiators have clinched a deal on the world's first comprehensive artificial intelligence rules"
-    publishedDateTime: 2023-12-11T11:14:00Z
-    webUrl: "https://time.com/6344628/eu-ai-rules-deal/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 47
 
 secured: "rJXldIk7aNr2DvfwGxdrAnPTXUt9CDa8n8UQ/HM5lrbr1SgJUEWW0tRp0l1hmZw7hZHzBtvKeb1xJAgSjt6Hd9oNPrKAor15A84IyrmfH77e/lMd/Xcguhh7GdzbUU58DzgSjgHhh+rr+XsLj/cw65EFqeZh/n74+uzN6MYYmcXQ2WwpP4LBMvbEYhCFYcUA0+itenQ/ZsZd7uTFPJW0kWk3WnjYCmvu5fCY0ty5uH3H+EEspW1nkELJNVyE//S1lN4D3ZydJGmzW3PccMGmZHZpT0l+TKe87GqU+2lkmNmH6GG2rjPsh5yIF4vFty2eERJUFPB2BNTsTdgAGuhYcORQSMQ7nQkXt7ogYcyMM5c=;s/fRk3uoWnw7+sCo8ahYlw=="
 ---

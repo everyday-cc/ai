@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "How Do We Tackle AI’s Biggest Hurdles To Adoption?"
-    excerpt: "Greater transparency, auditability and control can ultimately build trust in AI and spur adoption, giving rise to exciting new use cases and increased value."
-    publishedDateTime: 2023-12-11T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/11/how-do-we-tackle-ais-biggest-hurdles-to-adoption/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/11/how-do-we-tackle-ais-biggest-hurdles-to-adoption/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/11/how-do-we-tackle-ais-biggest-hurdles-to-adoption/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/657350b0bd833252dcad98a5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 840
-        isCached: true
   - title: "The Time To Formalize An Approach To AI Adoption Is Now"
     excerpt: "Ignoring the potential of AI and clinging to conventional methods can result in missed opportunities and a loss of competitiveness in today's market."
     publishedDateTime: 2023-12-14T12:15:00Z
@@ -51,15 +35,29 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "Punchcut Labs Releases Report “AI Adoption: Consumer Attitudes and Expectations” Revealing Key User Adoption Trends"
-    excerpt: "The research is indicative of a full spectrum of potential consumers of AI. The research contains data from consumer responses, qualitative interviews, and surveys from people with higher AI maturity who work in the tech industry and those who have not used AI at all and who work in various non-tech fields."
-    publishedDateTime: 2023-12-12T16:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/punchcut-labs-releases-report-ai-adoption-consumer-attitudes-and-expectations-revealing-key-user-adoption-trends-1032894094"
+  - title: "House Resolution to Analyze Artificial Intelligence Heads to House"
+    excerpt: "Merski's team said he has previously advocated for steering AI away from nefarious actors and directing it toward being a beneficial, useful source for good in our society."
+    publishedDateTime: 2023-12-13T18:25:00Z
+    webUrl: "https://www.erienewsnow.com/story/50216333/house-resolution-to-analyze-artificial-intelligence-heads-to-house"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 27
+      name: Erie News Now
+      domain: erienewsnow.com
+    quality: 37
+    images:
+      - url: "https://WICU.images.worldnow.com/images/25234973_G.jpeg?lastEditedDate=1696261550000"
+        width: 1280
+        height: 577
+        isCached: true
+  - title: "How Publishers Can Navigate the AI Revolution"
+    excerpt: "Despite the hype, publishing is still looking at what impact large language models and similar technology may bring."
+    publishedDateTime: 2023-12-16T01:22:00Z
+    webUrl: "https://www.publishersweekly.com/pw/by-topic/digital/content-and-e-books/article/93963-how-publishers-can-navigate-the-ai-revolution.html"
+    type: article
+    provider:
+      name: Publishers Weekly
+      domain: publishersweekly.com
+    quality: 19
 
 secured: "s91iS0CAIc52/e/8d2KjgGQyOzqoAADY1CyH6E7iKECvqsp2IVmuWoP1NaTyKN1RN4OX6SS4R+KW9WjBnBvZn/k/kPOlTwbSRhZkty5NjLsanIlpXGm5SfrhcjTHtQzIhO6Tkjz2zLk6KilP89MAgGCUWkTbG3IKFZNWFVp/i5hFgRwxGX2Y6m4tBxnSZYBZqYcEOFO9z6IEA3KD4BaIx/U4aJSPw8PFT368693mvUz3NkbpcsOqthVGMbcITWKSDH2rYa5vNBRc/5IcMMJLc8ZNaAqWToJEkud39H/W2MPsR5tKGomzHBJusDmXUIQAt7auDid4asHIpl5PRR/Urv8jL3GWVdpI3mRLsHX7nyPVQeKCJ3UGn3hr3HGnu6hffwJwDMZPZljlOFehn838LZXZTZ/JcfrX6J6VVSpjkrDfm/SOmKwIqUfYHqglpxW7F5NDTmikOf15+gfNNOEOX3U58874kRuTNS33qj+rID01+WcYIi9JlvU18omksr22X5fbXr1nXJGdFAwYtpROUQ==;kyWBA517Vjl+comeNsYMdQ=="
 ---

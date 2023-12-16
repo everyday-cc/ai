@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/12/14/the-time
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/12/14/the-time-to-formalize-an-approach-to-ai-adoption-is-now/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 117
+published: true
 
 provider:
   name: Forbes
@@ -30,31 +30,20 @@ images:
     isCached: true
 
 related:
-  - title: "How Do We Tackle AI’s Biggest Hurdles To Adoption?"
-    excerpt: "Greater transparency, auditability and control can ultimately build trust in AI and spur adoption, giving rise to exciting new use cases and increased value."
-    publishedDateTime: 2023-12-11T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/11/how-do-we-tackle-ais-biggest-hurdles-to-adoption/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/11/how-do-we-tackle-ais-biggest-hurdles-to-adoption/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/11/how-do-we-tackle-ais-biggest-hurdles-to-adoption/amp/"
+  - title: "House Resolution to Analyze Artificial Intelligence Heads to House"
+    excerpt: "Merski's team said he has previously advocated for steering AI away from nefarious actors and directing it toward being a beneficial, useful source for good in our society."
+    publishedDateTime: 2023-12-13T18:25:00Z
+    webUrl: "https://www.erienewsnow.com/story/50216333/house-resolution-to-analyze-artificial-intelligence-heads-to-house"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Erie News Now
+      domain: erienewsnow.com
+    quality: 37
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/657350b0bd833252dcad98a5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 840
+      - url: "https://WICU.images.worldnow.com/images/25234973_G.jpeg?lastEditedDate=1696261550000"
+        width: 1280
+        height: 577
         isCached: true
-  - title: "Punchcut Labs Releases Report “AI Adoption: Consumer Attitudes and Expectations” Revealing Key User Adoption Trends"
-    excerpt: "The research is indicative of a full spectrum of potential consumers of AI. The research contains data from consumer responses, qualitative interviews, and surveys from people with higher AI maturity who work in the tech industry and those who have not used AI at all and who work in various non-tech fields."
-    publishedDateTime: 2023-12-12T16:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/punchcut-labs-releases-report-ai-adoption-consumer-attitudes-and-expectations-revealing-key-user-adoption-trends-1032894094"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 27
   - title: "Nth Exception launches AI tool for ISO 20022 adoption"
     excerpt: "London-based fintech Nth Exception has launched Nucleus, a machine learning data fabric to ease financial institutions into ISO 20022 adoption."
     publishedDateTime: 2023-12-15T11:06:00Z
@@ -63,6 +52,15 @@ related:
     provider:
       name: Finextra
       domain: finextra.com
+    quality: 19
+  - title: "How Publishers Can Navigate the AI Revolution"
+    excerpt: "Despite the hype, publishing is still looking at what impact large language models and similar technology may bring."
+    publishedDateTime: 2023-12-16T01:22:00Z
+    webUrl: "https://www.publishersweekly.com/pw/by-topic/digital/content-and-e-books/article/93963-how-publishers-can-navigate-the-ai-revolution.html"
+    type: article
+    provider:
+      name: Publishers Weekly
+      domain: publishersweekly.com
     quality: 19
 
 secured: "w8HTijk0g2RDtRMG10b2zI/mI06X6RzUiJGnWl3yfL0y+ZcJJ60CBFnb4Fv8T7SwgAeZuwS0MhCnnpirU0SLlO6G6lVtvy4LrpZ3gID72HwVumpfe2enIdfiAGO2mrmHkv1Re1sfRV+VUqAk0ONN46jbiQK7PHq+1VAYNuHIaIIzVVVGnDx4+r+1JB1YnhP0VC/MKgrDyqeyZm7cNUjS2XHZ5RO6N37wqNtDsirEWIGItsC6pkuCzj8F0ABTgE7dkeKo5xr3FbcKBSlyRfuE83nsnMhICijd7nO14Vw7Aa79RpjqXT4QURbqIjQCcg+hfsgExu33Psn+4fzNRJHttQ+8xjEkrqSepNEpLtrNuUU=;UK5opjoR3ndQSj/gkQADmQ=="
