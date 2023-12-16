@@ -7,7 +7,7 @@ originalUrl: "https://money.usnews.com/investing/news/articles/2023-12-11/micros
 webUrl: "https://money.usnews.com/investing/news/articles/2023-12-11/microsoft-afl-cio-reach-deal-on-ai-labor-neutrality"
 type: article
 quality: 64
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -48,15 +48,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Microsoft Research Debuts Phi-2, New Small Language Model"
-    excerpt: "Phi-2 is a generative AI model with 2.7 billion-parameters used for research and development of language models. While large language models can reach hundreds of billions of parameters, Microsoft Research is experimenting with small language models in ..."
-    publishedDateTime: 2023-12-13T20:53:00Z
-    webUrl: "https://www.techrepublic.com/article/microsoft-phi-2-ai/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 51
   - title: "Microsoft Believes Indian Tech Firms Will Play A Key Role In AI Development, Adoption Globally"
     excerpt: "The world's largest vendor of computer software, Microsoft is working with India's IT and ITeS companies in multiple markets to facilitate AI implementation."
     publishedDateTime: 2023-12-12T06:46:00Z

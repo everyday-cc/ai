@@ -2,6 +2,118 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2023-11-14-3-machine-learning-stocks-youll-regret-not-buying-soon-november-2023.md",
+      "title": "3 Machine Learning Stocks You’ll Regret Not Buying Soon: November 2023",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Machine learning is revolutionizing industries from healthcare to",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3-machine-learning-stocks-youll-regret-not-buying-soon-november-2023-1032815035?op=1",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-machine-learning-stocks-youll-regret-not-buying-soon-november-2023-1032815035?op=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T03:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-11-14-fintech-founders-pair-ai-and-client-prospecting-in-new-platform-for-financial-advisors.md",
+      "title": "Fintech founders pair AI and client prospecting in new platform for financial advisors",
+      "excerpt": "Called Powder and crafted by the minds behind Addepar's Navigator, the wealthtech startup wants to cut the old-school sales process from months to weeks by injecting AI into every step.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financial-planning.com/news/fintech-founders-pair-ai-and-client-prospecting-in-new-platform-for-financial-advisors",
+      "originalUrl": "https://www.financial-planning.com/news/fintech-founders-pair-ai-and-client-prospecting-in-new-platform-for-financial-advisors",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T02:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Planning",
+        "domain": "financial-planning.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-14-the-future-is-here-autonomous-trucking-company-aurora-expects-its-texas-freights-to-be-fully-self-driving-by-end-of-2024.md",
+      "title": "The future is here: Autonomous trucking company Aurora expects its Texas freights to be fully self-driving by end of 2024",
+      "excerpt": "Aurora's trucks are equipped with long range lidar, radar and cameras. The company says its trucks use that technology to see four football fields ahead on highways.",
+      "sourceUrl": null,
+      "webUrl": "https://www.khou.com/article/tech/autonomous-trucking-self-driving-trucks-texas-2024/287-53c8ae3c-252d-45b2-aa5f-eb40e7e868fa",
+      "originalUrl": "https://www.khou.com/article/tech/autonomous-trucking-self-driving-trucks-texas-2024/287-53c8ae3c-252d-45b2-aa5f-eb40e7e868fa",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T02:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KHOU 11",
+        "domain": "khou.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-14-senator-mark-warner-talks-artificial-intelligence-democracy-with-gu-politics.md",
       "title": "Senator Mark Warner Talks Artificial Intelligence, Democracy With GU Politics",
       "excerpt": "Senator Mark Warner (D-Va.) spoke to Georgetown University students about the intersection of artificial intelligence and democracy as part of the Georgetown Institute of Politics and Public Service’s guest speaker series Nov.",
@@ -829,108 +941,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-artificial-intelligence-unexpected-results.md",
-      "title": "Artificial intelligence: Unexpected results",
-      "excerpt": "Artificial intelligence (AI) is on the rise. Until now, AI applications generally have “black box” character: How AI arrives at its results remains",
-      "sourceUrl": null,
-      "webUrl": "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/239356",
-      "originalUrl": "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/239356",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T17:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AlphaGalileo",
-        "domain": "alphagalileo.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-ovarian-cancer-artificial-intelligence-predicts-therapy-responses.md",
-      "title": "Ovarian cancer: Artificial intelligence predicts therapy responses",
-      "excerpt": "A model based on artificial intelligence is able to predict the therapy outcome (measured by volumetric reduction of tumor lesions) in 80% of ovarian cancer patients. The AI-based model has an accuracy of 80%,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-11-ovarian-cancer-artificial-intelligence-therapy.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-11-ovarian-cancer-artificial-intelligence-therapy.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T16:47:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-on-thecube-pod-sizing-up-the-ai-pin-and-has-ibm-finally-gotten-it-right-with-watson.md",
-      "title": "On theCUBE Pod: Sizing up the AI Pin and has IBM finally gotten it right with Watson?",
-      "excerpt": "Generative artificial intelligence continues to be the subject captivating the technology world, and more seminal moments concerning the technology may have taken place this past week. On Thursday, Human Inc. unveiled its long-awaited AI-powered wearable, the $699 AI Pin.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/11/13/on-thecube-pod-sizing-up-the-ai-pin-and-has-ibm-finally-gotten-it-right-with-watson-thecubepod/",
-      "originalUrl": "https://siliconangle.com/2023/11/13/on-thecube-pod-sizing-up-the-ai-pin-and-has-ibm-finally-gotten-it-right-with-watson-thecubepod/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T16:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

@@ -336,6 +336,57 @@
       ]
     },
     {
+      "path": "_news/2023-12-15-key-customer-benefits-of-the-microsoft-and-mongodb-expanded-partnership.md",
+      "title": "Key customer benefits of the Microsoft and MongoDB expanded partnership",
+      "excerpt": "Microsoft’s mission is to empower everyone to achieve more, and we know that our customers like using MongoDB to build applications. In year one of our strategic partnership, we collaborated with MongoDB to make it even easier for our joint customers to do more with Microsoft services and MongoDB Atlas",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/blog/key-customer-benefits-of-the-microsoft-and-mongodb-expanded-partnership/",
+      "originalUrl": "https://azure.microsoft.com/en-us/blog/key-customer-benefits-of-the-microsoft-and-mongodb-expanded-partnership/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/12/Blog-Logo-Lockup_Microsoft_MongoDB-scaled.jpg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-15T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-15-googles-tensorflow-revolutionizing-machine-learning-and-ai-development.md",
       "title": "Google’s TensorFlow: Revolutionizing Machine Learning and AI Development",
       "excerpt": "Introduction: In the ever-evolving landscape of artificial intelligence, Google’s TensorFlow stands as a beacon of innovation, revolutionizing the way we approach machine learning and AI development.",
@@ -788,6 +839,50 @@
       ]
     },
     {
+      "path": "_news/2023-12-15-bank-of-america-stadium-introduces-facial-recognition-for-express-entry.md",
+      "title": "Bank of America Stadium introduces facial recognition for express entry",
+      "excerpt": "New technology at Bank of America Stadium will allow certain fans to enter the stadium without having to scan their tickets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmynews2.com/article/sports/nfl/panthers/bank-of-america-stadium-facial-recognition-panthers-fans-tickets-silver-club/275-5f0ca2cc-5c2a-4828-8fda-3321fd64cf7e",
+      "originalUrl": "https://www.wfmynews2.com/article/sports/nfl/panthers/bank-of-america-stadium-facial-recognition-panthers-fans-tickets-silver-club/275-5f0ca2cc-5c2a-4828-8fda-3321fd64cf7e",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wfmynews2.com/assets/WCNC/images/f916cab2-7809-4606-a90a-02908ceed316/f916cab2-7809-4606-a90a-02908ceed316_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.wfmynews2.com/amp/article/sports/nfl/panthers/bank-of-america-stadium-facial-recognition-panthers-fans-tickets-silver-club/275-5f0ca2cc-5c2a-4828-8fda-3321fd64cf7e",
+      "cdnAmpWebUrl": "https://www-wfmynews2-com.cdn.ampproject.org/c/s/www.wfmynews2.com/amp/article/sports/nfl/panthers/bank-of-america-stadium-facial-recognition-panthers-fans-tickets-silver-club/275-5f0ca2cc-5c2a-4828-8fda-3321fd64cf7e",
+      "publishedDateTime": "2023-12-15T10:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMY News2",
+        "domain": "wfmynews2.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-12-15-driven-by-ai-micron-sees-robust-chip-demand.md",
       "title": "Driven by AI, Micron sees robust chip demand",
       "excerpt": "US-based chipmaker Micron Technology is expecting demand for semiconductors to rise significantly in the next few years, globally and in India, as memory consumption is going up, largely driven by the widespread adoption of technologies like artificial intelligence (AI).",
@@ -827,6 +922,57 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-15-spotify-is-taking-ais-help-to-make-you-a-better-playlist.md",
+      "title": "Spotify is taking AI's help to make you a better playlist",
+      "excerpt": "Spotify has confirmed that it is testing an AI Playlist feature that lets users generate a playlist with a text prompt. Read on for more!",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/spotify-ai-playlist-test-3394903/",
+      "originalUrl": "https://www.androidauthority.com/spotify-ai-playlist-test-3394903/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2021/12/Spotify-stock-photo-3.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-15T10:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -1068,150 +1214,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-here-come-the-custobots-ai-pervades-gartners-top-10-strategic-technology-trends-for-2024.md",
-      "title": "Here come the 'custobots': AI pervades Gartner's top 10 strategic technology trends for 2024",
-      "excerpt": "Gartner delivers its top IT predictions for the next decade, while exploring how generative AI has changed executive leaders' way of thinking on every subject.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-dominates-gartners-top-10-strategic-technology-trends-for-2024/",
-      "originalUrl": "https://www.zdnet.com/article/ai-dominates-gartners-top-10-strategic-technology-trends-for-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/f107d5c167eb5c882184cb0f4bac1526e4727afa/2023/12/12/17199441-348c-4d1e-9ccd-a670a33fc866/gettyimages-1470995430-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-dominates-gartners-top-10-strategic-technology-trends-for-2024/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-dominates-gartners-top-10-strategic-technology-trends-for-2024/",
-      "publishedDateTime": "2023-12-15T07:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-the-new-frontier-in-workplace-safety-data-analytics-and-ai.md",
-      "title": "The New Frontier In Workplace Safety: Data Analytics And AI",
-      "excerpt": "Explore how data and AI are driving innovations in safety protocols, preventing accidents, and enhancing workplace productivity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/12/15/the-new-frontier-in-workplace-safety-data-analytics-and-ai/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/12/15/the-new-frontier-in-workplace-safety-data-analytics-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/657bf3cfe410bdbccbb7d190/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1599,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/12/15/the-new-frontier-in-workplace-safety-data-analytics-and-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/12/15/the-new-frontier-in-workplace-safety-data-analytics-and-ai/amp/",
-      "publishedDateTime": "2023-12-15T05:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-artificial-intelligence-pegged-as-financial-risk-by-us-regulators.md",
-      "title": "Artificial Intelligence Pegged As Financial Risk By US Regulators",
-      "excerpt": "US regulators, led by Treasury Secretary Janet Yellen, have identified artificial intelligence as a potential threat to the country's financial stability, emphasizing the need for increased oversight and vigilance to address risks associated with AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/23/12/36250917/artificial-intelligence-pegged-as-financial-risk-by-us-regulators",
-      "originalUrl": "https://www.benzinga.com/news/23/12/36250917/artificial-intelligence-pegged-as-financial-risk-by-us-regulators",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/Ai-Technology--Artificial-Intelligence--_0.jpeg?width=1200&height=800&fit=crop",
-          "width": 408,
-          "height": 272,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/36250917",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36250917",
-      "publishedDateTime": "2023-12-15T03:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

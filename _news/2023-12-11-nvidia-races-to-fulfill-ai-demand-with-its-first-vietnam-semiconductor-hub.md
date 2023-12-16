@@ -175,15 +175,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "AMD Takes The Fight To Nvidia With Latest AI Chip Launch. Is The Stock A Buy At $116?"
-    excerpt: "Advanced Micro Devices stock (NASDAQ: AMD) hosted an event to unveil its latest chips tailor-made for the booming artificial intelligence (AI) market. The newly launched chips inc"
-    publishedDateTime: 2023-12-11T03:38:00Z
-    webUrl: "https://www.nasdaq.com/articles/amd-takes-the-fight-to-nvidia-with-latest-ai-chip-launch.-is-the-stock-a-buy-at-$116"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 57
   - title: "US: Nvidia can sell AI chips to China, just not the best ones"
     excerpt: "A smartphone with a displayed NVIDIA logo is placed on a computer motherboard in this illustration taken March 6, 2023. [Photo/Agencies] Nvidia can sell artificial intelligence chips to China, but just not \"the most sophisticated ones\","
     publishedDateTime: 2023-12-12T03:43:00Z

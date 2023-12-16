@@ -9,7 +9,7 @@ ampWebUrl: "https://en.antaranews.com/amp/news/301002/indonesia-to-regulate-ai-b
 cdnAmpWebUrl: "https://en-antaranews-com.cdn.ampproject.org/c/s/en.antaranews.com/amp/news/301002/indonesia-to-regulate-ai-balancing-innovation-and-ethics"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://emerging-europe.com/wp-content/uploads/2023/12/bigstock-ai-artificial-intelligence-310093555.jpg"
         width: 1600
         height: 1000
+        isCached: true
+  - title: "Trustworthy AI: The future of innovation and ethics"
+    excerpt: "As GenAI's prominence continues to ascend, the imperative for trustworthy AI frameworks intensifies. To navigate this evolving landscape successfully, several pivotal factors warrant incorporation."
+    publishedDateTime: 2023-12-16T03:44:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/trustworthy-ai-the-future-of-innovation-and-ethics/106033248"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 54
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-106033248,imgsize-64286,width-1200,height=765,overlay-etcio/artificial-intelligence/trustworthy-ai-the-future-of-innovation-and-ethics.jpg"
+        width: 1200
+        height: 765
         isCached: true
   - title: "Most countries agreeing what India was saying on Artificial Intelligence regulation: Rajeev Chandrasekhar"
     excerpt: "The Union minister today met Viscount Camrose, UK's Minister of AI and Intellectual Property and Hiroshi Yoshida, Japan's Vice Minister of Policy Coordination, Ministry of Internal Affairs and Communications."

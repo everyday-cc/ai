@@ -59,15 +59,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Microsoft Research Debuts Phi-2, New Small Language Model"
-    excerpt: "Phi-2 is a generative AI model with 2.7 billion-parameters used for research and development of language models. While large language models can reach hundreds of billions of parameters, Microsoft Research is experimenting with small language models in ..."
-    publishedDateTime: 2023-12-13T20:53:00Z
-    webUrl: "https://www.techrepublic.com/article/microsoft-phi-2-ai/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 51
   - title: "Startup Mesh Ai launches ‘first AI-enabled’ workplace mental health solution for Microsoft Teams and Microsoft 365"
     excerpt: "Australian startup Mesh Ai has announced the release of Simpatico Teams, a “pioneering AI-driven mental health application” for Microsoft Teams, Microsoft 365 and Copilot for Microsoft 365. Mesh Ai says the application ”will help employers better manage the growing psychological challenges of the"
     publishedDateTime: 2023-12-14T13:29:00Z

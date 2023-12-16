@@ -2,6 +2,152 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-12-08-how-to-seize-the-moment-in-artificial-intelligence-by-embracing-grc.md",
+      "title": "How To Seize The Moment In Artificial Intelligence By Embracing GRC",
+      "excerpt": "Instead of becoming involved at a later stage, when decisions may be hard to reconsider or reverse, compliance officers should step in and lead these conversations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/08/how-to-seize-the-moment-in-artificial-intelligence-by-embracing-grc/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/08/how-to-seize-the-moment-in-artificial-intelligence-by-embracing-grc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/657226793e5c11e468743a62/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/08/how-to-seize-the-moment-in-artificial-intelligence-by-embracing-grc/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/12/08/how-to-seize-the-moment-in-artificial-intelligence-by-embracing-grc/amp/",
+      "publishedDateTime": "2023-12-08T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-08-projections-aieee-robots-comes-to-the-coolidge-in-2024.md",
+      "title": "PROJECTIONS: AIEEE! ROBOTS! Comes to the Coolidge in 2024",
+      "excerpt": "Robots! Artificial intelligence is no longer the high-concept villain of some far-off future, but a major player in modern daily life and discourse. This January, we're taking a look at how ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.broadwayworld.com/boston/article/PROJECTIONS-AIEEE-ROBOTS-Comes-to-the-Coolidge-in-2024-20231208",
+      "originalUrl": "https://www.broadwayworld.com/boston/article/PROJECTIONS-AIEEE-ROBOTS-Comes-to-the-Coolidge-in-2024-20231208",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudimages.broadwayworld.com/columnpiccloud/PROJECTIONS-AIEEE-ROBOTS-Comes-to-the-Coolidge-in-2024-1702029305.jpg",
+          "width": 1250,
+          "height": 625,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-08T14:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BroadwayWorld",
+        "domain": "broadwayworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-08-apple-offers-developers-mlx-framework-for-machine-learning.md",
+      "title": "Apple Offers Developers MLX Framework for Machine Learning",
+      "excerpt": "While mostly staying out of the generative AI competition, Apple has released an open source array framework on GitHub for building machine learning transformer language models and text generation AI on the company’s own silicon. Jump to: MLX is a set of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/apple-mlx-framework-machine-learning/",
+      "originalUrl": "https://www.techrepublic.com/article/apple-mlx-framework-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/12/macbook-pro-2-dec-23.jpg",
+          "width": 1400,
+          "height": 788,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-08T14:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-08-early-gen-ai-adopters-beware-info-tech-research-group-publishes-how-to-approach-unauthorized-use-and-governance-concerns.md",
       "title": "Early Gen AI Adopters Beware: Info-Tech Research Group Publishes How to Approach Unauthorized Use and Governance Concerns",
       "excerpt": "The firm's latest research highlights the critical data security risks posed by generative AI, emphasizing the importance for organizations to proactively identify these risks and implement ...",
@@ -975,152 +1121,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/12/07/13-ways-ai-can-help-accelerate-your-startup-part-i/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/12/07/13-ways-ai-can-help-accelerate-your-startup-part-i/amp/",
       "publishedDateTime": "2023-12-07T18:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-08-ai-horizons-ethics-risks-and-the-road-ahead.md",
-      "title": "AI Horizons: Ethics, Risks, and the Road Ahead",
-      "excerpt": "We’re at a historic inflection point in AI regulation, but from algorithmic bias to privacy issues, the ethical concerns grow. In this panel, moderated by WIRED’s Khari Johnson, we explore how tech companies and lawmakers are examining future existential risks and building safety measures in a rapidly evolving technological landscape.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/video/watch/ai-horizons-ethics-risks-and-the-road-ahead",
-      "originalUrl": "https://www.wired.com/video/watch/ai-horizons-ethics-risks-and-the-road-ahead",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_wired.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1701968651/wired_ai-horizons-ethics-risks-and-the-road-ahead.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-07T17:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-08-can-artificial-intelligence-be-regulated.md",
-      "title": "Can Artificial Intelligence be regulated?",
-      "excerpt": "We then had US President Biden’s Executive Order on “Safe, Secure and Trustworthy Development and Use of Artificial Intelligence\" on October 30, 2023. That was followed by the UK Bletchley ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/ai/artificial-intelligence/can-artificial-intelligence-be-regulated-11701927112996.html",
-      "originalUrl": "https://www.livemint.com/ai/artificial-intelligence/can-artificial-intelligence-be-regulated-11701927112996.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.livemint.com/lm-img/img/2023/12/07/1600x900/GERMANY-US-INTERNET-AI-ARTIFICIAL-INTELLIGENCE-2_1701063682799_1701927872945.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/ai/artificial-intelligence/can-artificial-intelligence-be-regulated/amp-11701927112996.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/artificial-intelligence/can-artificial-intelligence-be-regulated/amp-11701927112996.html",
-      "publishedDateTime": "2023-12-07T16:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-08-not-sure-where-to-start-with-your-ai-strategy-here-are-3-steps.md",
-      "title": "Not Sure Where To Start With Your AI Strategy? Here Are 3 Steps",
-      "excerpt": "As the parenthetical mantra in the section title suggests, you need to feed the beast that is AI, and data is the food of choice. That requires a critical first step of knowing the data your company produces or can access, and what will be most helpful for AI applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brianuzzi/2023/12/07/not-sure-where-to-start-with-your-ai-strategy-here-are-3-steps/",
-      "originalUrl": "https://www.forbes.com/sites/brianuzzi/2023/12/07/not-sure-where-to-start-with-your-ai-strategy-here-are-3-steps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62b4c60b1c32ef4eb55bfc24/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1372,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brianuzzi/2023/12/07/not-sure-where-to-start-with-your-ai-strategy-here-are-3-steps/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brianuzzi/2023/12/07/not-sure-where-to-start-with-your-ai-strategy-here-are-3-steps/amp/",
-      "publishedDateTime": "2023-12-07T16:39:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

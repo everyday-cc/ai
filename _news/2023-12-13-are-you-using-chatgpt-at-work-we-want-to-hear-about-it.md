@@ -51,15 +51,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "These Are the Biggest Differences Between Google Bard and ChatGPT"
-    excerpt: "AI chatbots are more popular than ever, and there are plenty of solid options out there to choose from beyond OpenAI’s ChatGPT. One particularly strong competitor is Google’s Bard AI, which pulls information from the internet and runs off the latest Gemini language model created by Google."
-    publishedDateTime: 2023-12-11T03:35:00Z
-    webUrl: "https://www.lifehacker.com.au/2023/12/these-are-the-biggest-differences-between-google-bard-and-chatgpt/"
-    type: article
-    provider:
-      name: Lifehacker Australia
-      domain: lifehacker.com.au
-    quality: 21
 
 secured: "SH4DSk+4WhnnOBULUvikmyCfe+QVq7FFFU5S5mclem8p2uY1Utrw0p055BnpoHkuUMXbNEhWmVihwraqQuuUE2XainphvlmecmRdD5Vg6LgeAj/gpImyiOri98LQ5wbhCiejPAvyP6IUDInfmb5oJnXDXlOh8Ebj+c7Ar6feVTiQDPQs1dRMUY2H0Eo6r2bTlY38CRNXK1SkPW4083+rcPZGl6p2ei5NjID7bKy6XnLiHDNkHbLW2Knca0SwmOe8RFDuWmF9QQmWalS4WShc8SXQIfKnTG49e0cZdZ0A/+/GDM0qM8yUELMXo1grIZSCcVYQamEvLF79GBHhpLaBn+ZHbBz9ZoQpHbXHRAq5mQXbB6qim0bWYekDnYUf3zBiYi42pQPwmFunSeccH7EyKkphuWZ1HMdX6VdYce2uT5XH84hWK9OMUTXa+rl5VIp46/b4paue0VmliReu8e3YGGh4M5aQ0jZdWzJcfkF/8ARDfg3GXLvPnzBsmwiPcreDGDuAMphpv1z0YiFCiOTTvQ==;99v17mXWEGpP6239QYSD1g=="
 ---

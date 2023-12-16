@@ -193,15 +193,6 @@ related:
       name: er.educause.edu
       domain: educause.edu
     quality: 19
-  - title: "How generative artificial intelligence will change Ohio’s workforce"
-    excerpt: "McKinsey has estimated that, accelerated by gen AI, up to 30% of current hours worked in the United States could be automated by 2030, requiring 12 million job shifts."
-    publishedDateTime: 2023-12-11T05:00:00Z
-    webUrl: "https://www.bizjournals.com/columbus/news/2023/12/11/generative-artificial-intelligence-ohio.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
 secured: "MQKfPrdPt4k046pWcha+Ai1cjveJRwZ+rapGa3y/NuOyNQ1O0P4UsKfJnQdckDzAD9oqK/MrC8xIWPK6PlSTEXhHawPR8OWnleeoMUxggN+cyO7E5OWknoL+07nN5oZ9zOsRNv+7l5nXzLP2jMIMDyRka3I334HV4gVzVkSfuXicbCMQ9NLKtwHM9ZsEym4BxdD0hXNSTTSlDDeBda6DKv0JTSsPDlHOigsbigpFn1ABCSsGYomdgABAWBuwC0COUQuC6yS7XaUq+TS3Fo9vFqLAF7dX0bUIPWJykDf9NkRoe8QGjvLtGd00yeTPtJyOWg3lR/tGIYPuuodNUf32at93dmnr51eHI/YVR+xv62FBFiSMcojeIQxWLhbDEt4k1reJXfPMse1RKkbnmrgKzgUJbTyYswVHv9jy2vWjBOFKhY6IS6cDlo3rcQiEVcGuCG4vrZl3hK/DXsQ/KgNT6NxWi0qcb/GB6QohHZdDxXjveOoFhGHqePc0tlKIlQWM71ZWG6EyFDSKHAWUdXmh9g==;j1gqz5JpOaA43JiBBJQhZw=="
 ---

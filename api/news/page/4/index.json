@@ -2,6 +2,109 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-12-13-seven-customer-service-types-that-organizations-should-provide.md",
+      "title": "Seven customer service types that organizations should provide",
+      "excerpt": "Done right, customer service can be a game changer. Explore these seven customer service types your company should offer today.\nThe post Seven customer service types that organizations should provide appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/customer-service-types/",
+      "originalUrl": "https://www.ibm.com/blog/customer-service-types/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/12/pi-1729842.blog-lead-space-40x21-1.jpg",
+          "width": 2400,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-13T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-13-ai-in-healthcare-are-people-losing-or-gaining-control.md",
+      "title": "AI In Healthcare: Are People Losing Or Gaining Control?",
+      "excerpt": "In healthcare and beyond, the rise of artificial intelligence should give pause to both businesses and consumers—even as we learn to move forward.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/13/ai-in-healthcare-are-people-losing-or-gaining-control/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/13/ai-in-healthcare-are-people-losing-or-gaining-control/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/651ae5f9c817fd613f5f0e9c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/13/ai-in-healthcare-are-people-losing-or-gaining-control/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/13/ai-in-healthcare-are-people-losing-or-gaining-control/amp/",
+      "publishedDateTime": "2023-12-13T11:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-13-10-reasons-you-should-adopt-reliability-centered-maintenance-rcm-today.md",
       "title": "10 reasons you should adopt reliability centered maintenance (RCM) today",
       "excerpt": "RCM evaluates the criticality of assets, understands the root causes of assets, and creates a strategy for each asset to perform as expected.\nThe post 10 reasons you should adopt reliability centered maintenance (RCM) today appeared first on IBM Blog.\n",
@@ -1086,101 +1189,6 @@
         "AWS AI",
         "Machine Learning",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-google-announces-520k-grant-for-ai-robotics-education-at-virginia-middle-schools.md",
-      "title": "Google announces $520K grant for AI, robotics education at Virginia middle schools",
-      "excerpt": "HERNDON, Va. — Google is investing more than half a million dollars in Virginia middle schoolers. Google announced a $520,000 grant to expand access to robotics and artificial intelligence education programs across middle schools in the Commonwealth on Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wusa9.com/article/news/local/virginia/virginia-middle-school-google-ai-robotics-grant/65-ac6f1f3a-19bc-4748-9cae-035ebfb5c021",
-      "originalUrl": "https://www.wusa9.com/article/news/local/virginia/virginia-middle-school-google-ai-robotics-grant/65-ac6f1f3a-19bc-4748-9cae-035ebfb5c021",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wusa9.com/assets/WUSA/images/3c113c2b-8d31-4f17-963c-5a2e4dd1917a/3c113c2b-8d31-4f17-963c-5a2e4dd1917a_1140x641.png",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-12T17:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WUSA",
-        "domain": "wusa9.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-chinas-internet-censors-announce-crackdown-on-ai-videos-and-pessimism.md",
-      "title": "China’s Internet Censors Announce Crackdown On AI Videos And ‘Pessimism’",
-      "excerpt": "China has announced a new crackdown on various content that’s been deemed unacceptable online, including a focus on AI, and anyone who promotes “pessimism.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/mattnovak/2023/12/12/chinas-internet-censors-announce-crackdown-on-ai-videos-and-pessimism/",
-      "originalUrl": "https://www.forbes.com/sites/mattnovak/2023/12/12/chinas-internet-censors-announce-crackdown-on-ai-videos-and-pessimism/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/657890b28bd89f8ed9c87e94/0x0.jpg?format=jpg&crop=3194,1798,x0,y211,safe&height=900&width=1600&fit=bounds",
-          "width": 1599,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/mattnovak/2023/12/12/chinas-internet-censors-announce-crackdown-on-ai-videos-and-pessimism/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattnovak/2023/12/12/chinas-internet-censors-announce-crackdown-on-ai-videos-and-pessimism/amp/",
-      "publishedDateTime": "2023-12-12T17:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -55,6 +55,20 @@ related:
         width: 1600
         height: 1000
         isCached: true
+  - title: "Trustworthy AI: The future of innovation and ethics"
+    excerpt: "As GenAI's prominence continues to ascend, the imperative for trustworthy AI frameworks intensifies. To navigate this evolving landscape successfully, several pivotal factors warrant incorporation."
+    publishedDateTime: 2023-12-16T03:44:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/trustworthy-ai-the-future-of-innovation-and-ethics/106033248"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 54
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-106033248,imgsize-64286,width-1200,height=765,overlay-etcio/artificial-intelligence/trustworthy-ai-the-future-of-innovation-and-ethics.jpg"
+        width: 1200
+        height: 765
+        isCached: true
   - title: "Most countries agreeing what India was saying on Artificial Intelligence regulation: Rajeev Chandrasekhar"
     excerpt: "The Union minister today met Viscount Camrose, UK's Minister of AI and Intellectual Property and Hiroshi Yoshida, Japan's Vice Minister of Policy Coordination, Ministry of Internal Affairs and Communications."
     publishedDateTime: 2023-12-13T08:19:00Z
@@ -86,6 +100,6 @@ related:
         height: 630
         isCached: true
 
-secured: "26GP+L6JNABPT5UVc8JbaALaenFXe/brJJ54bN0v3N8DXoUoz5cwDEL0pq4l+poSK+fBCjv7TdhClRmkcUotgpugayUJbnPXcunD5USiWiF069N9dongxql/2E5NtA51UvQHW68ydWq1WYLos6F9KtulOUwTaatGftjWU+IlWNlrMattIcUzGEQZXPrnc/sPgpTj6FphKtUA3dulcUw0jCDyXiW1j+mtrOI0huaUG8FR7Va0JzTK9wxQvph8vTIe9YD6Ji2nR0XWIMzvAwDnPchf+3S7u5YH3mCPKTyxc9Je2BdiyPxpwXTG/zkQh5uGlY5Mw1tpLKNjLVfZ+Fa1BEtKDl2hQFB2TrTdAEI+QV8=;MDuGO4N8PK7ign0pXQUjgQ=="
+secured: "YNgeARmjURPpKW4M7y+A+Z5/Pw4RkZ1HPcgE8JsK4Mdf180z8H4DErFjiiRj3+boFC+kNMkYG57qEIh60P+gogCzPc6ASGlY7ADrNqGY06Vk1yZY2zBHj9a9uWOIOZXDndEQa/lWzvUHib32U9mkac+MPUEUmo+ATxVIdT2xlSulbvSeUeeXV5nDfT1Myb0XPnkThTeAryR6ZFG5zmR2/xlYLNY/h2zb19S7tnUhe55A1IANKlIq7K8SS7eEdIUBdXqT6nvvbN7DisptMBvLrfW6eI+XTEZp8zWaGGdxNTDkCNdsdQEVEACQi+lHrB8AmGO59KNjzNenvcg+B+w7TI/namaxn1jLdT4+JKZqLN36TZafJHmn8ThrDiDyxDIZ+D9cZ7XglFesSYNLavhnYWgCUzqpaDfDK/dUMULrnrJ2dGodolcr2STOZuwHNkYX1MCZRuOKdVJ2QIW56/ZwPyGqtqzgyXz/H9jC7boZ1PrbxSV0SgzoWGFyE4lSLrGqyNXx31SPQEv5ldaML6swGw==;gdX6+/ucyuIzOmPW22ZwMQ=="
 ---
 

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Undersea-Robot Startup Founded by NASA Engineer Ejects CLO"
-excerpt: "Nauticus was founded in 2014 by Nic Radford, who left NASA that year as principal investigator for the Dexterous Robotics Lab at Johnson Space Center. He’d joined the agency in 2006, becoming deputy project manager and chief engineer of NASA’s humanoid space robot “Robonaut2.”"
+excerpt: "The chief legal and administrative officer for an undersea robotics company founded by a NASA robotics engineer is one of two executives the company recently dismissed, according to a regulatory filing."
 publishedDateTime: 2023-12-05T21:37:00Z
-originalUrl: "https://www.law.com/corpcounsel/2023/12/04/undersea-robot-startup-founded-by-nasa-engineer-terminates-clo/"
-webUrl: "https://www.law.com/corpcounsel/2023/12/04/undersea-robot-startup-founded-by-nasa-engineer-terminates-clo/"
+originalUrl: "https://www.law.com/texaslawyer/2023/12/04/undersea-robot-startup-founded-by-nasa-engineer-terminates-clo/"
+webUrl: "https://www.law.com/texaslawyer/2023/12/04/undersea-robot-startup-founded-by-nasa-engineer-terminates-clo/"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 633
     isCached: true
 
-secured: "pAYcFXLCH1SU8tagt0SEj717ige3qXFnDZeqsivsqWqO7MZkbmCHXKXzkbrpuSnxO+fX1zIzpHml0909sJEmeLvSlJ97odCx9yS5sekPuVIGPbaZ780W2Mwmef0q7ceJ+3vGBiQ2IknTYgAGeaYxXgvYUc5GqaQQkbOxcXRfUtoT7x6uzWPmzwHzhaGkGqoLzUPBaT+jCdjCy1GR30R8X6x4wwQIiSPrXkvrMDB8Y4WYQpIJEh8d/7UzsTYImkWo8wKnm638+vJWamy79L35ueF21YJUAHa2kWMfbSflNDd6Ry/kflVhHOm5T5mrPlzESZbGaJCANajzcd8I0fahojYsaAKBWU4Rgb9yYbChj6Y=;CN8y34olPtIFFu8lwuexsQ=="
+secured: "4x7HlHWrZ/RdPj7KDTS2+UzRQmJr9fc5efCMp8nm3ekJ0QZUO1GliEJQesbZBuKzo1AgjnxG4o5felD+qqGRPzlYhfUCM2DnqvWBEet8+mGKB5tjMjIkSt0llYWnKlWeFnq8+RKpXe7gaYsFgYPc+inwOsTcxDkElBytvB7uKtJeB/X8Ckiiv1a/e5pym6e38pmRJCk4a8HlzpOUqZPlMvkVx+kvtKf62nLZCeIhBDExM7n60SdWPl8Rl/cdn9enReud+J5zbB4pwDV1R1qF+D1MMXd/7ztm8U3LuISRKCq1NxiejUTAvGOe3+k8nu6Q9/5xWBfxfE+Lt7R5Ji7+JNdZz1SCgn14XmV/E1HPYFk=;0wuGKZqCmYAxHCIfq+AM8Q=="
 ---
 

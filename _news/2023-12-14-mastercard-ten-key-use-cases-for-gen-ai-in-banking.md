@@ -7,7 +7,7 @@ originalUrl: "https://fintechmagazine.com/articles/mastercard-ten-key-use-cases-
 webUrl: "https://fintechmagazine.com/articles/mastercard-ten-key-use-cases-for-gen-ai-in-banking"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Mastercard and NEC to Test Facial Recognition Checkout in Asia by 2024"
-    excerpt: "Mastercard collaborates with NEC to pilot a new facial recognition checkout system in key Asian markets, including Singapore and Indonesia."
-    publishedDateTime: 2023-12-11T03:41:00Z
-    webUrl: "https://fintechnews.sg/81889/payments/mastercard-and-nec-to-test-facial-recognition-checkout-in-asia-by-2024/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 19
 
 secured: "Tt/gndd8f2wkbVwD2aatvg7rtuVwMCtAtcg3soBRzLp1SPI8JMdlbqqMqcO8Bw8XBGOK0hkMYmvS+4tfdBWa9g7qeBr526aP3IAvilLM7enJX7Oa+eW2AqAGmbT+Mxc/aV37Imynm70dOKSPpWrYpgq6yLfrzydHJaf1pLayIPlx953sQ/O8gp0RRRmqp2ccGQehheLMCyyo5vMAxhAp+T8DlHhRedc6LZDL0wDPM7NnZfUgy4Pia0PCUCZ2lxWUTrrOxsebKgO5+OhRi8fNxer3hegBOq6L3CfEwwB47C0HmVi/XVE37SH0JLO7/mQkRhhdlkBEdgENT5xpMCztGuaC/YU2vHfWFb8FNxpimDhyKajy3EWdQGx8odHigF7NfiITKtwRNPinqMqv3hUJcGHjGwnI5Uqe+/fxifbWnD+PnsrGwkccpRoYRcqq+XJTl38N+z9EwoahpJW7K2PnRahtrhIzDN6mBpjU4M0Y0ubrbaqDPTZunAqTVRJ443f6GI8rVAXlrlmdVox7QvC0uA==;VuSaWY/SWqNZwZpi2PXiHg=="
 ---

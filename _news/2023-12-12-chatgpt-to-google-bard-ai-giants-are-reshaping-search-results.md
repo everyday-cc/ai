@@ -7,7 +7,7 @@ originalUrl: "https://yourstory.com/2023/12/ai-revolutionising-search-engine-res
 webUrl: "https://yourstory.com/2023/12/ai-revolutionising-search-engine-results"
 type: article
 quality: 56
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -49,15 +49,6 @@ related:
       name: The New York Times
       domain: nytimes.com
     quality: 49
-  - title: "These Are the Biggest Differences Between Google Bard and ChatGPT"
-    excerpt: "AI chatbots are more popular than ever, and there are plenty of solid options out there to choose from beyond OpenAI’s ChatGPT. One particularly strong competitor is Google’s Bard AI, which pulls information from the internet and runs off the latest Gemini language model created by Google."
-    publishedDateTime: 2023-12-11T03:35:00Z
-    webUrl: "https://www.lifehacker.com.au/2023/12/these-are-the-biggest-differences-between-google-bard-and-chatgpt/"
-    type: article
-    provider:
-      name: Lifehacker Australia
-      domain: lifehacker.com.au
-    quality: 21
 
 secured: "RW0uMBvtZ4M2yM2YeYKzG+x/2gWBKfnXcuuVt8Qe2LqIH6g3OtGIRuEnS9zC+xabRzzcTFZPORdR56YAa+t/z+VRrJfxB3U15iaCwQLhDEXuSOGLF+rM1FApEkbIFwvF9dRvNzynQ9nDBHjpzvkgd/f60QtnwDA8ot/7hWmfDaZoFwShPyN0m22DyRuZ6ActGXfJUfjiVIfvrPntGlu0ezL3TBHVEWMhenwwe8rNhC4rIMWUsO2eOwpYyjLizDrZGL5RpPymgbDdbWThRuLv5FpRfC065gcBrBkH/AQNMnQegpfs7OFFYJC3CXGObFdyRVolwdHJT4N5oT0X9w2F5llzkiYpBNAGzQFAhM0NsJM=;KFgBke7wdoiapuD+fmYJaA=="
 ---

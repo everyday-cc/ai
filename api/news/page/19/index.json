@@ -2,6 +2,126 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2023-11-30-next-google-glass-could-be-the-ultimate-smart-home-controller.md",
+      "title": "Next Google Glass could be the ultimate smart home controller",
+      "excerpt": "and then identifies it using an object recognition model. Google writes: “The method includes obtaining a position of the first controllable device in a physical space based on visual ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wareable.com/ar/next-google-glass-could-be-the-ultimate-smart-home-controller",
+      "originalUrl": "https://www.wareable.com/ar/next-google-glass-could-be-the-ultimate-smart-home-controller",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.wareable.com/assets/images/7756-wearable-tech-news-next-google-glass-could-be-the-ultimate-smart-home-controller-image3-i2wsyrjawh.jpg",
+          "width": 1269,
+          "height": 714,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-29T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wareable",
+        "domain": "wareable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-30-senators-raise-alarm-over-facial-recognition-screening.md",
+      "title": "Senators raise alarm over facial recognition screening",
+      "excerpt": "Plus: Musk says ‘go f— yourself’ to advertisers boycotting X{beacon} Technology Technology   The Big Story Senators push to end involuntary TSA facial recognition",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/newsletters/technology/4334347-senators-raise-alarm-over-facial-recognition-screening/",
+      "originalUrl": "https://thehill.com/newsletters/technology/4334347-senators-raise-alarm-over-facial-recognition-screening/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/newsletters/technology/4334347-senators-raise-alarm-over-facial-recognition-screening/amp/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/newsletters/technology/4334347-senators-raise-alarm-over-facial-recognition-screening/amp/",
+      "publishedDateTime": "2023-11-29T22:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-30-gms-self-driving-cruise-origin-indefinitely-delayed-amid-major-setbacks.md",
+      "title": "GM's Self-Driving Cruise Origin Indefinitely Delayed Amid Major Setbacks",
+      "excerpt": "Myriad issues led California to revoke Cruise's self-driving permits, with the company subsequently suspending all operations for the foreseeable future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/gms-self-driving-cruise-origin-204500293.html",
+      "originalUrl": "https://www.aol.com/gms-self-driving-cruise-origin-204500293.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/owzwGbw6bAC6EyHmmIYqng--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_car_and_driver_636/9e8018fd858cb43b25d87aa03fde7161",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-29T22:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-30-airport-facial-recognition-faces-senate-ban-over-privacy-concern.md",
       "title": "Airport Facial Recognition Faces Senate Ban Over Privacy Concern",
       "excerpt": "Biometric screening at airports would be prohibited under bipartisan legislation two senators are proposing, citing privacy concerns.",
@@ -968,136 +1088,6 @@
         "Computer Vision",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-ibb-law-selects-intapp-documents-as-part-of-wider-microsoft-strategy.md",
-      "title": "IBB Law selects Intapp Documents as part of wider Microsoft strategy",
-      "excerpt": "Full-service UK law firm IBB Law has selected Intapp Documents' Microsoft 365-based document and email management solution.",
-      "sourceUrl": null,
-      "webUrl": "https://legaltechnology.com/2023/11/29/ibb-law-selects-intapp-documents-as-part-of-wider-microsoft-strategy/",
-      "originalUrl": "https://legaltechnology.com/2023/11/29/ibb-law-selects-intapp-documents-as-part-of-wider-microsoft-strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://legaltechnology.com/wp-content/uploads/2023/09/Oct-Nov_2023_Web_300x250.jpg",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-29T12:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Legal Technology",
-        "domain": "legaltechnology.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-navigating-the-landscape-of-best-image-recognition-software-for-2023.md",
-      "title": "Navigating the Landscape of best Image Recognition Software for 2023",
-      "excerpt": "In today’s data-driven world, where images play an increasingly important role in communication and information sharing, the demand for image recognition software has skyrocketed. This technology, powered by artificial intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/navigating-the-landscape-of-best-image-recognition-software-for-2023/",
-      "originalUrl": "https://techbullion.com/navigating-the-landscape-of-best-image-recognition-software-for-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2023/12/Matt-Arkin-CEO-of-Wheelhouse-450x270.png",
-          "width": 450,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-29T12:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-the-future-of-algorithmic-warfare-part-iv-promise-fulfilled.md",
-      "title": "The Future of Algorithmic Warfare Part IV: Promise Fulfilled",
-      "excerpt": "What follows is an excerpt from the authors’ new book, Information in War: Military Innovation, Battle Networks, and the Future of",
-      "sourceUrl": null,
-      "webUrl": "https://warontherocks.com/2023/11/the-future-of-algorithmic-warfare-part-iv-promise-fulfilled/",
-      "originalUrl": "https://warontherocks.com/2023/11/the-future-of-algorithmic-warfare-part-iv-promise-fulfilled/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://warontherocks.com/wp-content/uploads/2023/11/image1-1.jpg",
-          "width": 1024,
-          "height": 684,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-29T12:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "War on the Rocks",
-        "domain": "warontherocks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

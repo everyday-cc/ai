@@ -2,6 +2,117 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2023-11-14-seoul-translation-screens-serve-tourists-in-11-languages-with-real-time-interactive-ai.md",
+      "title": "Seoul Translation Screens Serve Tourists in 11 Languages with Real-Time Interactive AI",
+      "excerpt": "Seoul will set up live translation screens at tourist centers, helping non-Korean speakers get real-time assistance when visiting the city.",
+      "sourceUrl": null,
+      "webUrl": "https://eturbonews.com/seoul-translation-screens-serve-11-languages/",
+      "originalUrl": "https://eturbonews.com/seoul-translation-screens-serve-11-languages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T15:26:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eturbonews",
+        "domain": "eturbonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-14-google-deepminds-ai-weather-forecaster-handily-beats-a-global-standard.md",
+      "title": "Google DeepMind’s AI Weather Forecaster Handily Beats a Global Standard",
+      "excerpt": "Machine learning algorithms that digested decades of weather data were able to forecast 90 percent of atmospheric measures more accurately than Europe’s top weather center.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/google-deepmind-ai-weather-forecast/",
+      "originalUrl": "https://www.wired.com/story/google-deepmind-ai-weather-forecast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-14-google-deepminds-weather-ai-can-forecast-extreme-weather-faster-and-more-accurately.md",
+      "title": "Google DeepMind’s weather AI can forecast extreme weather faster and more accurately",
+      "excerpt": "It said Hurricane Lee would make landfall in Nova Scotia three days sooner than traditional methods predicted.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2023/11/14/1083366/google-deepminds-weather-ai-can-forecast-extreme-weather-quicker-and-more-accurately/",
+      "originalUrl": "https://www.technologyreview.com/2023/11/14/1083366/google-deepminds-weather-ai-can-forecast-extreme-weather-quicker-and-more-accurately/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-14-leveraging-artificial-intelligence-and-health-care-data.md",
       "title": "Leveraging artificial intelligence and health care data",
       "excerpt": "It was a question that has long held sway in public consciousness, and there’s no doubt that attention on artificial intelligence has reached a fever pitch in 2023. But what’s hype?",
@@ -848,118 +959,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-3-machine-learning-stocks-youll-regret-not-buying-soon-november-2023.md",
-      "title": "3 Machine Learning Stocks You’ll Regret Not Buying Soon: November 2023",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Machine learning is revolutionizing industries from healthcare to",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/3-machine-learning-stocks-youll-regret-not-buying-soon-november-2023-1032815035?op=1",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-machine-learning-stocks-youll-regret-not-buying-soon-november-2023-1032815035?op=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T03:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-fintech-founders-pair-ai-and-client-prospecting-in-new-platform-for-financial-advisors.md",
-      "title": "Fintech founders pair AI and client prospecting in new platform for financial advisors",
-      "excerpt": "Called Powder and crafted by the minds behind Addepar's Navigator, the wealthtech startup wants to cut the old-school sales process from months to weeks by injecting AI into every step.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financial-planning.com/news/fintech-founders-pair-ai-and-client-prospecting-in-new-platform-for-financial-advisors",
-      "originalUrl": "https://www.financial-planning.com/news/fintech-founders-pair-ai-and-client-prospecting-in-new-platform-for-financial-advisors",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T02:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Planning",
-        "domain": "financial-planning.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-the-future-is-here-autonomous-trucking-company-aurora-expects-its-texas-freights-to-be-fully-self-driving-by-end-of-2024.md",
-      "title": "The future is here: Autonomous trucking company Aurora expects its Texas freights to be fully self-driving by end of 2024",
-      "excerpt": "Aurora's trucks are equipped with long range lidar, radar and cameras. The company says its trucks use that technology to see four football fields ahead on highways.",
-      "sourceUrl": null,
-      "webUrl": "https://www.khou.com/article/tech/autonomous-trucking-self-driving-trucks-texas-2024/287-53c8ae3c-252d-45b2-aa5f-eb40e7e868fa",
-      "originalUrl": "https://www.khou.com/article/tech/autonomous-trucking-self-driving-trucks-texas-2024/287-53c8ae3c-252d-45b2-aa5f-eb40e7e868fa",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T02:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KHOU 11",
-        "domain": "khou.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

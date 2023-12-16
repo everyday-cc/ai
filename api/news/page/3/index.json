@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-12-14-robotics-in-the-engineroom.md",
+      "title": "Robotics in the EngineRoom",
+      "excerpt": "When talk turns to autonomous ships, a first question always centers on how routine and emergency repair and maintenance will be",
+      "sourceUrl": null,
+      "webUrl": "https://www.oedigital.com/news/510133-robotics-in-the-engineroom",
+      "originalUrl": "https://www.oedigital.com/news/510133-robotics-in-the-engineroom",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.oedigital.com/images/maritime/w537h300pad/image-courtesy-146221.jpg",
+          "width": 537,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.oedigital.com/amp/news/510133-robotics-in-the-engineroom",
+      "cdnAmpWebUrl": "https://www-oedigital-com.cdn.ampproject.org/c/s/www.oedigital.com/amp/news/510133-robotics-in-the-engineroom",
+      "publishedDateTime": "2023-12-14T10:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "oedigital.com",
+        "domain": "oedigital.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-14-surprise-ai-chatbots-dont-increase-student-cheating-afterall-new-research-finds.md",
+      "title": "Surprise! AI chatbots don't increase student cheating afterall, new research finds",
+      "excerpt": "The rise of generative AI tools has many worried about the future integrity of the educational system. After all, if you can get math, writing, and coding help from one free tool like ChatGPT, what's stopping students from using it to cheat on every assignment? Stanford researchers tackle the question in a Q+A published by the university.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/surprise-ai-chatbots-dont-increase-student-cheating-afterall-new-research-finds/",
+      "originalUrl": "https://www.zdnet.com/article/surprise-ai-chatbots-dont-increase-student-cheating-afterall-new-research-finds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/2b1341ca204a101f5087138fc26e5232f57a0cc0/2023/12/14/7a9eba33-8a87-476b-929e-6d135b343fed/handcheat-gettyimages-181866634.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/surprise-ai-chatbots-dont-increase-student-cheating-afterall-new-research-finds/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/surprise-ai-chatbots-dont-increase-student-cheating-afterall-new-research-finds/",
+      "publishedDateTime": "2023-12-14T09:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-14-braintrust-data-wants-to-make-enterprise-ai-better-with-faster-evaluations.md",
       "title": "Braintrust Data wants to make enterprise AI better with faster evaluations",
       "excerpt": "Braintrust Data launched in August 2023 and has already roped in “hundreds” of enterprises and startups as customers, including known names such as Airtable, Zapier, Coda and Instacart.",
@@ -1024,7 +1119,7 @@
       "originalUrl": "https://en.antaranews.com/news/301002/indonesia-to-regulate-ai-balancing-innovation-and-ethics",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1106,109 +1201,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-seven-customer-service-types-that-organizations-should-provide.md",
-      "title": "Seven customer service types that organizations should provide",
-      "excerpt": "Done right, customer service can be a game changer. Explore these seven customer service types your company should offer today.\nThe post Seven customer service types that organizations should provide appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/customer-service-types/",
-      "originalUrl": "https://www.ibm.com/blog/customer-service-types/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/12/pi-1729842.blog-lead-space-40x21-1.jpg",
-          "width": 2400,
-          "height": 1260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-13T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-ai-in-healthcare-are-people-losing-or-gaining-control.md",
-      "title": "AI In Healthcare: Are People Losing Or Gaining Control?",
-      "excerpt": "In healthcare and beyond, the rise of artificial intelligence should give pause to both businesses and consumers—even as we learn to move forward.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/13/ai-in-healthcare-are-people-losing-or-gaining-control/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/13/ai-in-healthcare-are-people-losing-or-gaining-control/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/651ae5f9c817fd613f5f0e9c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/13/ai-in-healthcare-are-people-losing-or-gaining-control/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/13/ai-in-healthcare-are-people-losing-or-gaining-control/amp/",
-      "publishedDateTime": "2023-12-13T11:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

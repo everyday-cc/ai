@@ -56,6 +56,20 @@ related:
         width: 1600
         height: 1000
         isCached: true
+  - title: "Trustworthy AI: The future of innovation and ethics"
+    excerpt: "As GenAI's prominence continues to ascend, the imperative for trustworthy AI frameworks intensifies. To navigate this evolving landscape successfully, several pivotal factors warrant incorporation."
+    publishedDateTime: 2023-12-16T03:44:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/trustworthy-ai-the-future-of-innovation-and-ethics/106033248"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 54
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-106033248,imgsize-64286,width-1200,height=765,overlay-etcio/artificial-intelligence/trustworthy-ai-the-future-of-innovation-and-ethics.jpg"
+        width: 1200
+        height: 765
+        isCached: true
   - title: "European Union makes deal for artificial intelligence rules"
     excerpt: "European Union officials have negotiated the world's first comprehensive set of artificial intelligence regulations. The landmark AI Act seeks to protect against such risks as misinformation and job automation."
     publishedDateTime: 2023-12-12T18:15:00Z

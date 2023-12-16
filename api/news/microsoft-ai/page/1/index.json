@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-15-key-customer-benefits-of-the-microsoft-and-mongodb-expanded-partnership.md",
+      "title": "Key customer benefits of the Microsoft and MongoDB expanded partnership",
+      "excerpt": "Microsoft’s mission is to empower everyone to achieve more, and we know that our customers like using MongoDB to build applications. In year one of our strategic partnership, we collaborated with MongoDB to make it even easier for our joint customers to do more with Microsoft services and MongoDB Atlas",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/blog/key-customer-benefits-of-the-microsoft-and-mongodb-expanded-partnership/",
+      "originalUrl": "https://azure.microsoft.com/en-us/blog/key-customer-benefits-of-the-microsoft-and-mongodb-expanded-partnership/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/12/Blog-Logo-Lockup_Microsoft_MongoDB-scaled.jpg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-15T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-15-the-potential-of-embodied-ai.md",
       "title": "The Potential Of Embodied AI",
       "excerpt": "You don't have to necessarily be a technical expert to reap some of the benefits of AI-powered tools in your own business.",
@@ -418,7 +469,7 @@
       "originalUrl": "https://yourstory.com/2023/12/ai-revolutionising-search-engine-results",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -514,7 +565,7 @@
       "originalUrl": "https://money.usnews.com/investing/news/articles/2023-12-11/microsoft-afl-cio-reach-deal-on-ai-labor-neutrality",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": null,
       "content": "",
@@ -1411,58 +1462,6 @@
         "name": "TMCnet",
         "domain": "tmcnet.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-04-introducing-ai-in-a-minute-a-video-series-on-the-tech-behind-generative-ai.md",
-      "title": "Introducing AI in a Minute: A video series on the tech behind generative AI",
-      "excerpt": "See how AI capabilities work and the tech behind generative AI in simple videos on topics like large language models, prompt engineering, and vector search.",
-      "sourceUrl": null,
-      "webUrl": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2023/12/04/introducing-ai-in-a-minute-a-video-series-on-the-tech-behind-generative-ai/",
-      "originalUrl": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2023/12/04/introducing-ai-in-a-minute-a-video-series-on-the-tech-behind-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/wp-content/uploads/2023/12/AI-in-a-minute-hero_FINAL.jpg",
-          "width": 1260,
-          "height": 709,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T15:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

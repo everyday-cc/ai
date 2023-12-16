@@ -2,6 +2,117 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2023-11-08-artificial-intelligence-robotics-market-research-2023-2030.md",
+      "title": "Artificial Intelligence Robotics Market Research | 2023-2030",
+      "excerpt": "It enables stakeholders to assess the amount of competition in the Artificial Intelligence Robotics business as well as its attractiveness. The competitive landscape helps stakeholders understand ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1107390342/Artificial-Intelligence-Robotics-Market-Research-2023-2030",
+      "originalUrl": "https://menafn.com/1107390342/Artificial-Intelligence-Robotics-Market-Research-2023-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-08T00:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-08-akkio-adds-genai-to-help-users-modify-their-data-make-predictions-through-natural-language.md",
+      "title": "Akkio adds genAI to help users modify their data, make predictions through natural language",
+      "excerpt": "But when we get to the task of doing that predictive outcome, we're going to use the AutoML engine that we built. So there we click on this predict tab, we do three types of ML models, classification regression and time series forecasting. In this case ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/video/1246000/akkio-adds-genai-to-help-users-modify-their-data-make-predictions-through-natural-language.html",
+      "originalUrl": "https://www.cio.com/video/1246000/akkio-adds-genai-to-help-users-modify-their-data-make-predictions-through-natural-language.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-08T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-08-humanoid-robots-are-here-but-theyre-a-little-awkward-do-we-really-need-them.md",
+      "title": "Humanoid robots are here, but they're a little awkward. Do we really need them?",
+      "excerpt": "Rival robot-makers, like Figure AI, are taking a more purist approach on the idea that only true humanoids can effectively navigate workplaces, homes and a society built for humans. Figure also plans to start with a relatively simple use case, such as in a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wral.com/story/humanoid-robots-are-here-but-theyre-a-little-awkward-do-we-really-need-them/21134051/",
+      "originalUrl": "https://www.wral.com/story/humanoid-robots-are-here-but-theyre-a-little-awkward-do-we-really-need-them/21134051/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wwwcache.wral.com/asset/news/technology/2023/11/05/21134054/6547a20718d8c-media_e85d3581bf024703a51bb2dad6ab43c0-DMID1-60tzigarv-640x480.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.wral.com/amp/21134051/",
+      "cdnAmpWebUrl": "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/amp/21134051/",
+      "publishedDateTime": "2023-11-07T23:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL",
+        "domain": "wral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-08-xbox-moderation-team-turns-to-ai-for-help-filtering-a-flood-of-user-content.md",
       "title": "Xbox moderation team turns to AI for help filtering a flood of user content",
       "excerpt": "Microsoft says many of its Xbox safety systems are now powered by Community Sift, a moderation tool created by Microsoft subsidiary TwoHat. Among the \"billions of human interactions\" the Community Sift system has filtered this year are \"over 36 million\" Xbox player reports in 22 languages,",
@@ -1088,155 +1199,6 @@
         "AI Ethics",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-11-07-thematic-leading-provider-of-ai-powered-feedback-analytics-reports-growth-milestones.md",
-      "title": "Thematic, Leading Provider of AI-Powered Feedback Analytics, Reports Growth Milestones",
-      "excerpt": "Founder and CEO Dr. Alyona Medelyan Details Her Cross-Global Path to Becoming AI Expert, Entrepreneur and Founder of Pioneering CompanyCOVINA, CA",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/thematic-leading-provider-of-ai-powered-feedback-analytics-reports-growth-milestones-1032787094",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/thematic-leading-provider-of-ai-powered-feedback-analytics-reports-growth-milestones-1032787094",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.accesswire.com/users/newswire/images/800103/60374decba81adda5d8d25786fd3.jpg",
-          "width": 697,
-          "height": 1045,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-07T12:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-07-elon-musk-wants-to-start-selling-humanoid-robots-by-2027-and-a-hiring-spree-seems-designed-to-make-that-a-reality.md",
-      "title": "Elon Musk wants to start selling humanoid robots by 2027 — and a hiring spree seems designed to make that a reality",
-      "excerpt": "It indicates the ability to send an email. An curved arrow pointing right. Elon Musk has high aspirations for Tesla's humanoid robot, Optimus. The Tesla CEO said at its annual AI Day last year that it could be ready to take orders in three to five years ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/elon-musk-humanoid-robots-tesla-hiring-workers-2023-11",
-      "originalUrl": "https://www.businessinsider.com/elon-musk-humanoid-robots-tesla-hiring-workers-2023-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/654a1a4e36d588dc55cbff3e?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/elon-musk-humanoid-robots-tesla-hiring-workers-2023-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-humanoid-robots-tesla-hiring-workers-2023-11?amp",
-      "publishedDateTime": "2023-11-07T12:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-11-07-self-driving-cars-and-buses-your-guide-to-the-future-of-autonomous-vehicles.md",
-      "title": "Self-driving cars and buses: Your guide to the future of autonomous vehicles",
-      "excerpt": "Vehicles that take care of themselves and the driver are the future, according to the government, which in the King’s Speech on 7 November that “self-driving vehicles will make transport safer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/self-driving-cars-buses-guide-171731890.html",
-      "originalUrl": "https://www.aol.com/self-driving-cars-buses-guide-171731890.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.zenfs.com/en/aol_the_independent_us_877/ce4e0a6502373d7781bcf6ec373959d3",
-          "width": 1200,
-          "height": 901,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.aol.com/amphtml/self-driving-cars-buses-guide-171731890.html",
-      "cdnAmpWebUrl": "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/self-driving-cars-buses-guide-171731890.html",
-      "publishedDateTime": "2023-11-07T12:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

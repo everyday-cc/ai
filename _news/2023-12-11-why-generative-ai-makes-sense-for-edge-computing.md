@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/11/why-genera
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/11/why-generative-ai-makes-sense-for-edge-computing/amp/"
 type: article
 quality: 91
-heat: 221
+heat: 211
 published: true
 
 provider:
@@ -199,15 +199,6 @@ related:
       name: er.educause.edu
       domain: educause.edu
     quality: 19
-  - title: "How generative artificial intelligence will change Ohio’s workforce"
-    excerpt: "McKinsey has estimated that, accelerated by gen AI, up to 30% of current hours worked in the United States could be automated by 2030, requiring 12 million job shifts."
-    publishedDateTime: 2023-12-11T05:00:00Z
-    webUrl: "https://www.bizjournals.com/columbus/news/2023/12/11/generative-artificial-intelligence-ohio.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
 secured: "JqXK/gsDjka9BXWK38PXhlHk7PMNh1Lz8bDndRbq1fGHZJGlTlBIfOGgNn2qBWM0pXbWCEb6vc9s/FQlm/ZBKh4CYcpBKiUPcT1ac8W3nAwGQ3AmwmuSFDDssAwin6deXFiTcSObudBDrc4uaBoRQquK7tWrL+yC9uO2m5COL0KUXc++7U4WPZ5gjgzgaUvYtlL9Kv0yhBhSdmXjFKIH4OYSuUUmLRunT0AmdOCEn1wDUImDaloSjKdO2vakiON47/OhWimJp9YUjyGD4QlQ98Pxc1KSEwRwRds6+dIFdPDJS9ca5qflye3lF7IXEttKACWgSqrHR3LZTaP8VtblPaQboKYhtmO1vFbXniQuK4W+tbcWZ6IwL9lbkzMTNrXBLcyO4Q6t5ryQ491g0aPmyWgtP1nese3jrxjiMMDrLjdQdPFET7P72/IxxKUfEn0ZklTgoMFJVaiRTy3ZEKOHvMyBJhg2NdauBKBe3ImZkOWdQr8xBOxfd9QwpNI5p8BrOoZZOihSd1knUMjV/XgLkw==;sz15tLXbz2c5vmbCqNumQg=="
 ---

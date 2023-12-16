@@ -2,6 +2,154 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-12-07-qubit-by-qubit-the-quantum-computers-of-tomorrow-are-coming-into-being.md",
+      "title": "Qubit by qubit, the quantum computers of tomorrow are coming into being",
+      "excerpt": "A couple of weeks ago, I navigated the holiday traffic from New York to the town of Yorktown Heights in suburban Westchester County, the location of IBM’s Thomas J. Watson Research Center ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.vox.com/future-perfect/2023/12/6/23990752/quantum-computers-ibm-google-honeywell-china-supercomputer-artificial-intelligence?ref=mc.news",
+      "originalUrl": "https://www.vox.com/future-perfect/2023/12/6/23990752/quantum-computers-ibm-google-honeywell-china-supercomputer-artificial-intelligence?ref=mc.news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/6JbN24KRfG63q58FcwUNvn9WR9Y=/0x232:2048x1304/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25137951/53364318126_7899724546_k.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T18:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vox",
+        "domain": "vox.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/vox.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-07-google-says-bard-is-now-smarter-than-chatgpt-thanks-to-gemini-update.md",
+      "title": "Google says Bard is now smarter than ChatGPT, thanks to Gemini update",
+      "excerpt": "Google unveiled its take on the AI chatbot -- Google Bard -- last February. Since its release, Bard has been powered by two different large language models (LLMs) with the promise of making it a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/google-says-bard-is-now-smarter-than-chatgpt-thanks-to-gemini-update/",
+      "originalUrl": "https://www.zdnet.com/article/google-says-bard-is-now-smarter-than-chatgpt-thanks-to-gemini-update/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/5811d37721dd8b0e6cba911d67e1c33613ab5d07/2023/12/06/5f66f7a6-63ef-487a-9765-3856d4156497/2bardgettyimages-1676988402.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-says-bard-is-now-smarter-than-chatgpt-thanks-to-gemini-update/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-says-bard-is-now-smarter-than-chatgpt-thanks-to-gemini-update/",
+      "publishedDateTime": "2023-12-06T17:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-problem-solving-shines-at-svvsds-inaugural-day-of-ai-event-in-longmont.md",
+      "title": "Problem-solving shines at SVVSD’s inaugural ‘Day of AI’ event in Longmont",
+      "excerpt": "On Saturday, Hubbell led a demonstration of an AWS DeepRacer, a mini self-driving car, which he said SVVSD uses to expose students to AI. “In this district, we use it as a tool to teach kids ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.timescall.com/2023/12/05/problem-solving-shines-at-svvsds-inaugural-day-of-ai-event-in-longmont/",
+      "originalUrl": "https://www.timescall.com/2023/12/05/problem-solving-shines-at-svvsds-inaugural-day-of-ai-event-in-longmont/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.timescall.com/wp-content/uploads/2023/12/DCC-L-AIDAY-01.jpg?w=1024&h=768",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.timescall.com/2023/12/05/problem-solving-shines-at-svvsds-inaugural-day-of-ai-event-in-longmont/amp/",
+      "cdnAmpWebUrl": "https://www-timescall-com.cdn.ampproject.org/c/s/www.timescall.com/2023/12/05/problem-solving-shines-at-svvsds-inaugural-day-of-ai-event-in-longmont/amp/",
+      "publishedDateTime": "2023-12-06T15:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Longmont Times-Call",
+        "domain": "timescall.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-06-how-seeing-ai-focuses-on-large-vision-models.md",
       "title": "How ‘Seeing’ AI Focuses On Large Vision Models",
       "excerpt": "Driving AI into the image space is Landing AI, a computer vision cloud company that specializes in building what it calls domain-specific Large Vision Models (LVMs).",
@@ -525,8 +673,8 @@
       "title": "Half of university students are scared their jobs will be under threat from AI",
       "excerpt": "Half of current students at university think their current and future jobs could be under threat from artificial intelligence (AI). New research from Kingston University looked at whether students are equipped for their futures in a rapidly changing workplace, particularly where technology is concerned.",
       "sourceUrl": null,
-      "webUrl": "https://metro.co.uk/2023/12/06/half-uni-students-scared-jobs-threat-ai-19904586/",
-      "originalUrl": "https://metro.co.uk/2023/12/06/half-uni-students-scared-jobs-threat-ai-19904586/",
+      "webUrl": "https://metro.co.uk/2023/12/06/half-uni-students-scared-jobs-threat-ai-19904586/?ico=mosaic_uk",
+      "originalUrl": "https://metro.co.uk/2023/12/06/half-uni-students-scared-jobs-threat-ai-19904586/?ico=mosaic_uk",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -999,156 +1147,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-google-bards-biggest-ai-upgrade-so-far-sees-it-close-the-gap-on-chatgpt.md",
-      "title": "Google Bard's biggest AI upgrade so far sees it close the gap on ChatGPT",
-      "excerpt": "Google Bard is receiving a huge boost in performance as it will now be powered by the company’s “most capable AI model”, Gemini. Gemini comes in three different “sizes”; however ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/computing/artificial-intelligence/google-bards-biggest-ai-upgrade-so-far-sees-it-close-the-gap-on-chatgpt",
-      "originalUrl": "https://www.techradar.com/computing/artificial-intelligence/google-bards-biggest-ai-upgrade-so-far-sees-it-close-the-gap-on-chatgpt",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/8bpnx7UFeMUWJq9FoUXCa7-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-06T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-google-gemini-upgrade-means-bard-ai-outperforms-free-version-of-chatgpt.md",
-      "title": "Google: Gemini Upgrade Means Bard AI Outperforms Free Version of ChatGPT",
-      "excerpt": "Google is going after OpenAI's chatbot with a new 'Gemini Pro' model. A more powerful 'Gemini Ultra' model will arrive early next year through a new 'Bard Advanced' tier. I've been with PCMag ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/google-gemini-upgrade-means-bard-ai-outperforms-free-version-of-chatgpt",
-      "originalUrl": "https://www.pcmag.com/news/google-gemini-upgrade-means-bard-ai-outperforms-free-version-of-chatgpt",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/06fo5DvLm9s0QYEo0248s9c-1.fit_lim.size_1200x630.v1701876868.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-06T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-meta-and-microsoft-say-they-will-buy-amds-new-ai-chip-as-an-alternative-to-nvidia.md",
-      "title": "Meta and Microsoft say they will buy AMD's new AI chip as an alternative to Nvidia",
-      "excerpt": "If AMD's latest high-end chip, MI300X, is good enough and inexpensive enough for the technology companies and cloud service providers building and serving AI models when it starts shipping early next year, it could lower costs for developing AI models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcmiami.com/news/national-international/meta-and-microsoft-say-they-will-buy-amds-new-ai-chip-as-an-alternative-to-nvidia/3177752/",
-      "originalUrl": "https://www.nbcmiami.com/news/national-international/meta-and-microsoft-say-they-will-buy-amds-new-ai-chip-as-an-alternative-to-nvidia/3177752/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nbcmiami.com/2023/12/107255926-1686678111756-gettyimages-1454302971-_8db0157_d7a2aa99-cd40-4c93-8ff3-89725b36c318-3.jpeg?quality=85&strip=all&resize=1200%2C675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcmiami.com/news/business/money-report/meta-and-microsoft-say-they-will-buy-amds-new-ai-chip-as-an-alternative-to-nvidia/3177752/?amp=1",
-      "cdnAmpWebUrl": "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/news/business/money-report/meta-and-microsoft-say-they-will-buy-amds-new-ai-chip-as-an-alternative-to-nvidia/3177752/?amp=1",
-      "publishedDateTime": "2023-12-06T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC 6 South Florida",
-        "domain": "nbcmiami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

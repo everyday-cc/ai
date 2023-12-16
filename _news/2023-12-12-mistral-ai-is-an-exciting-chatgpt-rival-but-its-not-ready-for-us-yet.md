@@ -48,15 +48,6 @@ related:
       name: The New York Times
       domain: nytimes.com
     quality: 49
-  - title: "These Are the Biggest Differences Between Google Bard and ChatGPT"
-    excerpt: "AI chatbots are more popular than ever, and there are plenty of solid options out there to choose from beyond OpenAI’s ChatGPT. One particularly strong competitor is Google’s Bard AI, which pulls information from the internet and runs off the latest Gemini language model created by Google."
-    publishedDateTime: 2023-12-11T03:35:00Z
-    webUrl: "https://www.lifehacker.com.au/2023/12/these-are-the-biggest-differences-between-google-bard-and-chatgpt/"
-    type: article
-    provider:
-      name: Lifehacker Australia
-      domain: lifehacker.com.au
-    quality: 21
 
 secured: "Dp8UhjTAn1iVARH3hERaTDZTzvZTTvA/r3n/HnCRIQQGdadoZBOXFko3BwLOxM3VB7n6KUlzw56PkGV/X6hvD2eGld7nlS+BnQUPG2Owg15rVfduBhIuZfOs/WQYdzWFeYq4+aTHjPTCbAey0LsyQJ1Ib8r3INPWgvRiRdweo1ZAqVoHGU0m14nD2sGHufA06h/twT72BNaXLx2HGZKx7639vEH1Nkht+paqfAd0JO6IBoH0uTAFPInqgAAlUCYtmn0kmljsitI/pZJun2akU48+w5OpfrMp9JJfV9Jhl1JjzgdKVPR0x0JrtqBy5zto4uaH6toGJmnFFwC3c6YrCjwGVe69YdG7AjjYNZ8mVFfj4dpbACd3Vs4ifyfVVz+bTsufhR2ORUEJ6wLMmqj37e6MwoBHnslMiqsa7ncVogK5/4F7S/59cN7URey55CpTmbJhs5VGktF35T+/skxXnYbA3XMKL22lh7twzIrmzOE6R9H7vriT79pKVxOKNSh561+8UXtVzhazWlDFCmQs2g==;H1kXeRKaJ0E5DS/XY9czOg=="
 ---
