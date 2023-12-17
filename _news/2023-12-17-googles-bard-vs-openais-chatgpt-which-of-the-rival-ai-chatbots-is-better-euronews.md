@@ -98,6 +98,20 @@ related:
       name: inc42
       domain: inc42.com
     quality: 37
+  - title: "The Rise of Chatbots and Virtual Assistants: AI Applications in Customer Service"
+    excerpt: "Welcome to a world where artificial intelligence meets customer service! In this era of technological innovation, chatbots, and virtual assistants have emerged as game-changers, transforming the way businesses interact with their customers."
+    publishedDateTime: 2023-12-17T12:11:00Z
+    webUrl: "https://techbullion.com/the-rise-of-chatbots-and-virtual-assistants-ai-applications-in-customer-service/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 34
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/Customer-Service.jpg"
+        width: 1000
+        height: 500
+        isCached: true
   - title: "How to Answer Complex Questions with Google Bard"
     excerpt: "This guild is designed to show you how you can answer complex questions with the help of Google Bard and other AI assistants. Google Bard, a large language model (LLM) developed by Google AI, has quickly gained popularity for its ability to provide ..."
     publishedDateTime: 2023-12-13T10:00:00Z

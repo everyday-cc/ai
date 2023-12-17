@@ -40,6 +40,15 @@ related:
         width: 648
         height: 1110
         isCached: true
+  - title: "LILT Announces Enterprise AI Controls and In-App Multimodal Translation"
+    excerpt: "Enterprise AI Controls A new broad set of enterprise controls allows organizations to define when and how their employees use AI across the business, all from directly within the LILT platform. These controls enable authorized users to securely control the deployment of AI across the organization, including:"
+    publishedDateTime: 2023-12-14T18:33:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/12/14/9934667.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "s30zKC4cN154gH2A+OrWaLHvjG1mP+LBZG1alt0pYf8PSGaEBk6yb10oTgTPE3+hkcLdQd78M/YKnhAGoP7VJIpvr0r6T5BAEapnOeuxPvPs4kHFa/cOM7/BA2C2syLdC4A5H0/U8mgiU2RTucjGWc8q28oXvisU/2t7qswLRkBD+xHU8FmaDlacXeRF2hhDb1pjUN6YyViiiNsD09YLyWAR8HhFNBAvdD0tSnq91QM1N7VcY8qDZhJRI6iQE4XBl5Xzz/Tkl9qfo+PSGdr6fiXp2UbAV3w9oh02YSWAgph8NwqSmCrpy50fsBBy32Q6bFJvaawLcaEUAy80jOc5x7uZrqFEZR98JDvtKm5i5DeLg9VAgRV5Zr+SsPqaLcmJu1i4LuZj//3BOwp5yCPZu4kBez57CwWleEMDYvCPDqOECEJZvg4R7g3QCRUHTpjEzb8LYgpagX5+UNgHtM7DenBW4EemPvEB9sbObs+jjt4/nocsDx4DEbd7x+yBtiYCYDa45KlzLHMy6Kd6Ji6vuw==;fXz6y6XWySXYmZU6dPtd8A=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/13/ai-in-heal
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/13/ai-in-healthcare-are-people-losing-or-gaining-control/amp/"
 type: article
 quality: 104
-heat: 194
+heat: 184
 published: true
 
 provider:
@@ -141,20 +141,6 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2023/12/Healthcare.jpg"
         width: 1000
         height: 500
-        isCached: true
-  - title: "AI in health care: Leaders urge Congress to set rules for the industry"
-    excerpt: "Health care leaders urged Congress at a hearing to pass regulations on the use of artificial intelligence in the industry, addressing the “limitless” capabilities of the new technology as well as the potential biases it can produce."
-    publishedDateTime: 2023-12-12T16:26:00Z
-    webUrl: "https://www.benefitspro.com/2023/12/12/ai-in-health-care-leaders-urge-congress-to-set-rules-for-the-industry/"
-    type: article
-    provider:
-      name: Benefits Pro
-      domain: benefitspro.com
-    quality: 39
-    images:
-      - url: "https://images.benefitspro.com/contrib/content/uploads/sites/412/2023/12/Congress-Article-202312111511.jpg"
-        width: 620
-        height: 372
         isCached: true
 
 secured: "xJmpNYeHiySMPf1Rn0gB3PZiHrTI4ACazcVzvLwCEoqGoXg274LEVfPov9eES7kNTVuKZspRFXvY4ZnMoNebTQ2U2H5g7QqZ0mBEMsaX0lMxkGUb8pIM2IBayBG2HkckfR99beAteSNZDVJKsNICX0GMa/DbfDqS2OtPGlACWmN9rh69ajusJzTeG0UFngg4YJFqBYp/VUL/fCaI0S89YotoWB3gl7XaX8GTcjBolALWuWtoDGG+ZBoo9h/8FnfXPonXm9X3EoBbFjJE91/tXUF6DItKBoRI2MDjrnxeIyw103MB4VBGu9geVD3HM78ATI1rogOnSIRLoMQa+qBVSzTeLc0VaaejBsJjICTp1AY69kjl8TXEL2NTHlyGfY8vGk/bzLd09Ly3+EAjEg1zaOUOMc5T7gKaQOwDoA8/kTRYJFj9VYms3vfl2CnloSFCZYf+W8wIHDeoJSSaeZlt1SktJZYqAbXw2viMsRNkQkil8GXIy9Per0/NmDUENoj5boKIHRLw8rssHqxH7czwig==;Pj7Id/up2vwynw0d7M5CQA=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.newscientist.com/article/mg26034693-900-2023-was-the-y
 webUrl: "https://www.newscientist.com/article/mg26034693-900-2023-was-the-year-that-artificial-intelligence-went-mainstream/"
 type: article
 quality: 52
-heat: -1
+heat: 62
 published: false
 
 provider:
@@ -24,86 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "5 ways AI changed the internet in 2023"
-    excerpt: "OpenAI DALL-E 3, Google Bard and SGE image generator, Microsoft Copilot (formerly Bing Chat Image Creator), and Meta's Imagine are all examples of models that use generative AI to create images from text prompts. Even media platforms Shutterstock, Adobe, and Getty Images have gotten in the game with their own AI image generator tools."
-    publishedDateTime: 2023-12-12T15:01:00Z
-    webUrl: "https://mashable.com/article/ways-ai-changed-the-internet-2023"
+  - title: "2023: The year AI went mainstream (and it was messy)"
+    excerpt: "Artificial intelligence went mainstream in 2023 — it was a long time coming yet has a long way to go for the technology to match people's science fiction fantasies of"
+    publishedDateTime: 2023-12-16T00:00:00Z
+    webUrl: "https://www.newscenter1.tv/lifestyle/2023-the-year-ai-went-mainstream-and-it-was-messy/article_0b47d62c-9ac0-11ee-b7f6-5f2d07f2454c.html"
     type: article
     provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 67
-    images:
-      - url: "https://helios-i.mashable.com/imagery/articles/03vL2Cl6Sc7AAwgoGb6nyEF/hero-image.fill.size_1200x675.v1702332338.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "16 Innovative Ways Agencies Can Leverage Generative AI In 2024"
-    excerpt: "Generative AI tools are being leveraged by agency professionals and in-house teams around the world as they seek ways to better understand and reach target audiences."
-    publishedDateTime: 2023-12-15T17:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/12/15/16-innovative-ways-agencies-can-leverage-generative-ai-in-2024/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/655e5665f16e596330a94c9e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "Internet traffic soars in 2023, with generative AI a standout trend: Report"
-    excerpt: "In its annual overview of online trends, Cloudflare reports Google remains the most popular site, while OpenAI takes the lead in generative AI services."
-    publishedDateTime: 2023-12-13T18:11:00Z
-    webUrl: "https://www.computerworld.com/article/3711722/internet-traffic-soars-in-2023-with-generative-ai-a-standout-trend-report.html"
-    ampWebUrl: "https://www.computerworld.com/article/3711722/internet-traffic-soars-in-2023-with-generative-ai-a-standout-trend-report.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3711722/internet-traffic-soars-in-2023-with-generative-ai-a-standout-trend-report.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 55
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/10/17/12/internet1-100649339-large-100947272-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 966
-        isCached: true
-  - title: "How AI’s Explosive Growth Opened Up The World For The Blind In 2023"
-    excerpt: "AI and people living with sight loss have experienced significant gains from this seismic technological shift."
-    publishedDateTime: 2023-12-15T13:07:00Z
-    webUrl: "https://www.forbes.com/sites/gusalexiou/2023/12/15/how-ais-explosive-growth-opened-up-the-world-for-the-blind-in-2023/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-  - title: "Artificial intelligence and climate change were 2023's twin challenges"
-    excerpt: "The decisions we made this year about AI and climate change could determine the fate of billions of people. In 2024, almost half the world’s population could be voting with these issues in mind"
-    publishedDateTime: 2023-12-13T18:00:00Z
-    webUrl: "https://www.newscientist.com/article/mg26034690-100-artificial-intelligence-and-climate-change-were-2023s-twin-challenges/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
+      name: Newcenter1
+      domain: newscenter1.tv
     quality: 37
     images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/12/13141250/SEI_183160249.jpg"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "We won't allow untrusted AI models to scrape Indian internet: Rajeev Chandrasekhar"
-    excerpt: "The Union minister says that government might amend IT rules to tackle deepfakes, if social media intermediaries do not comply with advisories. He says any effort to regulate AI has to be global or near-global."
-    publishedDateTime: 2023-12-14T04:38:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/we-wont-allow-untrusted-ai-models-to-scrape-indian-internet-rajeev-chandrasekhar-11902881.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 33
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/06/Rajeev-Chandrasekhar-1-770x433-770x433.png"
-        width: 770
-        height: 433
+      - url: "https://bloximages.chicago2.vip.townnews.com/newscenter1.tv/content/tncms/assets/v3/editorial/3/77/37798e60-527d-11ee-8f7a-b30fa4fbc7c0/65022ac8efeb4.image.jpg?crop=1280%2C672%2C0%2C144&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "JZvWkq1iDiyqQX68mtwo9a5n6/HjXPz3IGAo5bNSduAebqaOJID4lD3xwwJq2Jkrc7/tGv3AGYeTUDBCTLXZ7MSP7SZaD4KkHh19S0X4j5doTu86AMqco8WHo/ALANepNF/GQJcOuWjxO5/g2FQXZ9bszzfESt37OjbnUqurFu/wZAviltDSuUoWdaf2si+NiPDfITInsdYEN0Forjui6Wt7uA5iOhqBGEGo+JOBguLHykcbtW1X9FqQFCIC0rkNGsTjgzlmGXTQlA34jhtrpRQswryDcdkUoD12emXUcEf2EK5J3QlkLuT2T5yWY2fC8a5fUu4jjudxkpZ3yB/jnz9yurOB3N/D4FDDvmBkHi5ygRE+FBB9XOda22Fjvz/nbJvrZ+BD9tli9Cu289/3rbYaostPxafmbIGAVGekjVYxl4P0sO2F5Q6waxtN3huj6QZf4SOm21KtAFGrwVgy1+drFxgcqdpqe2tIWplEXpfUBSNx19n/fudWOSnauZ7OX7b695vmiKuwDYG6lYnVrA==;JPoNHYCUTC8MUDSQpo74eg=="

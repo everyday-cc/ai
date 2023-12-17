@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/melissahouston/2023/12/16/is-ai-the-fut
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/melissahouston/2023/12/16/is-ai-the-future-of-business-finance/amp/"
 type: article
 quality: 104
-heat: 126
+heat: 138
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
     images:
       - url: "https://cdn.wamda.com/feature-images/efd40ab2726398a.jpg"
         width: 900
+        height: 500
+        isCached: true
+  - title: "Unlocking the Future of Finance: Top Trends in Financial Technology"
+    excerpt: "Welcome to the future of finance, where transactions are seamless, investments are automated, and banking is no longer confined to physical branches. The world of financial technology (fintech) has revolutionized how we manage our money,"
+    publishedDateTime: 2023-12-12T18:09:00Z
+    webUrl: "https://techbullion.com/unlocking-the-future-of-finance-top-trends-in-financial-technology/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/FinTech-2.jpg"
+        width: 1000
         height: 500
         isCached: true
   - title: "AI Applications in Finance: Considering the Benefits and Risks"

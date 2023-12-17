@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/science/2023/dec/14/ai-scientists-make-e
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/science/2023/dec/14/ai-scientists-make-exciting-discovery-using-chatbots-to-solve-maths-problems"
 type: article
 quality: 85
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 620
     height: 372
     isCached: true
-
-related:
-  - title: "Google Bard has one enormous advantage over other AI chatbots"
-    excerpt: "But there’s a gigantic time-saver that Google’s Bard is beginning to deploy, and it’s worth checking out: Knowledge of the gazillion hours of YouTube video it’s already archived."
-    publishedDateTime: 2023-12-12T14:01:00Z
-    webUrl: "https://www.pcworld.com/article/2166765/googles-bard-has-one-enormous-advantage-over-other-ai-chatbots.html"
-    type: article
-    provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 69
-    images:
-      - url: "https://www.pcworld.com/wp-content/uploads/2023/12/Google-talking-to-YouTube.png?w=1024"
-        width: 1023
-        height: 604
-        isCached: true
 
 secured: "FgG7rPsFIWPLI+lx/KnK9+mGnX2j8Ww8QYSuqtsTGvu2/gkxzcMtPlEjnmjZrc9b2taEmJ+awPAQY/WvXHn3cdGtlwzkbTMlIsrSfdoRckx5VpYSa3EgmWjxPyXzkviwG4HY8pcr5eLy+Lto3u8LQb8XQ+RKVJXnR5w1CR82dFuhm21EMbxegnCuVCD9vJTxDOVoIGiSIYK7k1YTSKnKXh1SSKAnokadQT4pKY0/wq4BHvKGp5faP/Y2fE3uc06divljduRjCt8fcrWE6yNzEEEHXDm8b+//AtG3+uI8xKxjfbEFsnyDUp/qe7qjEK42mSDyVD2fsenHd2WIDpPrGRju5OtxCwk+PCEeObirfoF5TJx2dQNpDPynXeF3Ez0ApOfY8ODuqS224JXR2D5ocKXOIV6vi28GfmDzJuSJhHnHlAYIgE8JolkA0ocW58ZlX9iNS6XGFj60nO0hWfoPxM8x8vqxllJ0dB7W8S/ngKaRiOe8Pq760zUm0jhjyoLrGuVpLhkpibs1B7a35T1eZw==;zg0Y160Ik4lYLUCacOUX2w=="
 ---

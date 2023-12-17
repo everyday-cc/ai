@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Meta AI
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2023/12/Owkin_contribarticle_1200.jpg"

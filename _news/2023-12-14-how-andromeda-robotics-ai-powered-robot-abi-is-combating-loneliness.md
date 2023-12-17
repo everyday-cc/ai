@@ -7,7 +7,7 @@ originalUrl: "https://www.smartcompany.com.au/startupsmart/news/andromeda-roboti
 webUrl: "https://www.smartcompany.com.au/startupsmart/news/andromeda-robotics-ai-powered-robot-abi-combating-loneliness/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Connection Launches Helix Center for Applied AI and Robotics"
-    excerpt: "Connection (PC Connection, Inc.; NASDAQ: CNXN), a leading information technology solutions provider to business, government, healthcare, and education"
-    publishedDateTime: 2023-12-15T01:04:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231214409898/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 49
 
 secured: "Qzs/Nv2H3XZdbVVCwTQSxJdyXBKbthhY9uAWtCuzA0+U9IRghZbdGLs8juRLL1vcNiGcYYdP42dHS3l3RzOuhu/TgFrmsg5r5zRw1MHxjB+ZnKaH8o0rFJYlzR9m1zQP7ngNJoZnbzPx83vCEQyMZb7xk9pwgtjx7oQ8+IbPY3qz0BHi9m9hcgbsgoVY4wEby4i2t+1kxi8dyjwuQYoJ031/TlAufJdEUPiRgMjghKNo0soAWpXFQcc4hPOuL/XRp+fsLq4dvoUzHFCmVn9rvHOWBAJWHjFCj992lvGcUr75LoA4y5+DqY+ynEwd5KDGHEXL6XsiRT6bFIeVOdw9KdLidAGl/pWYIlYRa+7CkUV47KfLDmcdxSFybIhxg8WcIuIfMkKPP/b+IoV6SGlN0yxHwQbse02yz7fmjzpKiOEemSb+dor12ub/MUN64XjsGDxa067CNxEtoOunETDWsstqfJ2q51QZibFGNpwEATR4kJVS385NLMtGGlk9uYHQQ+JCuHBpj3gBDCW3i+yfXw==;PizD1+6Xbxc45acg04gIjg=="
 ---

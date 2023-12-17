@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 802
         isCached: true
+  - title: "Google Launches A Healthcare-Focused LLM"
+    excerpt: "Google has unveiled MedLM, a collection of foundation models tailored for the healthcare industry, making it available to selected Google Cloud customers in the USA."
+    publishedDateTime: 2023-12-17T14:38:00Z
+    webUrl: "https://www.forbes.com/sites/davidchou/2023/12/17/google-launches-a-healthcare-focused-llm/"
+    ampWebUrl: "https://www.forbes.com/sites/davidchou/2023/12/17/google-launches-a-healthcare-focused-llm/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/12/17/google-launches-a-healthcare-focused-llm/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/657f046fb0c8270387e93d83/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "Google Cloud partners with Mistral AI on generative language models"
     excerpt: "\"As part of the agreement, Mistral AI will use Google Cloud’s AI-optimized infrastructure, including TPU Accelerators, to further test, build, and scale up its LLMs (large language models), all while benefiting from Google Cloud's security and privacy standards,"
     publishedDateTime: 2023-12-13T17:09:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.computerworld.com/article/3711620/essential-ai-reveals-f
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3711620/essential-ai-reveals-funding-development-of-full-stack-ai-automation-tools.amp.html"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: Computerworld
@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "Distributional wants to develop software to reduce AI risk"
+    excerpt: "Distributional, a startup developing software to help manage AI risks, has raised $11 million in a seed round from VCs."
+    publishedDateTime: 2023-12-14T14:00:00Z
+    webUrl: "https://techcrunch.com/2023/12/14/distributional-wants-to-develop-software-to-reduce-ai-risk/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
   - title: "Railtown AI Technologies Inc. Files Provisional Patent Application Covering AI-Driven Ticket Generation to Accelerate Software Development"
     excerpt: "Railtown's second North American provisional patent filingRailtown reaches task level functionality with ticket generationIntegrates with leading"
     publishedDateTime: 2023-12-14T13:01:00Z

@@ -90,22 +90,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How Machine Learning is Reshaping Industries"
-    excerpt: "In the era of digital transformation, machine learning (ML) has emerged as the driving force behind a revolutionary shift in industries worldwide. From healthcare to finance, manufacturing to marketing,"
-    publishedDateTime: 2023-12-12T14:50:00Z
-    webUrl: "https://www.timesnownews.com/education/how-machine-learning-is-reshaping-industries-article-105939900"
-    ampWebUrl: "https://www.timesnownews.com/education/how-machine-learning-is-reshaping-industries-article-105939900/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/education/how-machine-learning-is-reshaping-industries-article-105939900/amp"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 61
-    images:
-      - url: "https://static.tnn.in/thumb/msid-105939904,thumbsize-372248,width-1280,height-720,resizemode-75/105939904.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "The Impact of Artificial Intelligence On Real Estate Marketing"
     excerpt: "Artificial Intelligence (AI) has become a driving force across various industries, reshaping traditional practices and enhancing efficiency. In the realm of real estate, AI is revolutionizing marketing strategies,"
     publishedDateTime: 2023-12-15T12:21:00Z
@@ -162,6 +146,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Three KC companies share how they're building AI into their business"
+    excerpt: "Many Kansas City area companies are racing to integrate #AI into their day-to-day operations, including the design and technology consultancy Crema, which is building AI \"personas\" to critique the company's pitches."
+    publishedDateTime: 2023-12-15T18:40:00Z
+    webUrl: "https://www.bizjournals.com/kansascity/news/2023/12/15/kansas-city-companies-add-ai.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 39
+    images:
+      - url: "https://media.bizj.us/view/img/12101330/20210916championsbusiness031av*1200xx3000-1686-0-573.jpg"
+        width: 1200
+        height: 674
+        isCached: true
   - title: "Preparing for the future: Exploring what artificial intelligence in 2025 will look like"
     excerpt: "Are you ready to step into the future? Brace yourself for mind-blowing innovations and revolutionary transformations as we dive deep into what artificial intelligence in 2025 will look like. Get set to be mesmerized by self-driving cars,"
     publishedDateTime: 2023-12-13T16:08:00Z
@@ -185,15 +183,6 @@ related:
       name: Campus Safety Magazine
       domain: campussafetymagazine.com
     quality: 19
-  - title: "Charting the Emerging Geography of AI"
-    excerpt: "As the AI power centers emerge and shift around the world, they will shape which AI applications are prioritized, which societies and sectors of the economy get the most benefits, what data are used to train algorithms,"
-    publishedDateTime: 2023-12-12T13:24:00Z
-    webUrl: "https://hbr.org/2023/12/charting-the-emerging-geography-of-ai"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 17
 
 secured: "FgctqUHicNYqb+TnGb1FbQGWDpuZkvTm6MaAFK8YAqaKsDYpyN7CvZwPCkPSXTlHlvEDnMRMBk4Ubyu4lT5OcQCzLaoe/lsrfgqAqsBhniNOq8Y5GMoOX6COL6ov6YA1rvA5Ye2K6rf6w8VvH4+k4uySG7P5Fhky6YbbgVzWJvqO7pBrulWA0aRFnhE7FRkpRzHJAW+1pHPM76z/W1rn3fY6K3MBnTpyWHlGaUi2SuT2vN0DpqB0tpQ15zr09W1/UTrv2xpkHAwbwAXZ1jyBLryIqHg9/uhRie5KMj0ozrEGWhHefHiwSngW85RsK7YA7YH8MLJKWatuUhobfYJPxClEGpdAp2wm1phNiWKcHDfDVWsOgxUZckfJyv8Mbxm0pXb2bpPIiLXXdrUL4t61V6Gx4Kb3ofGouhIsbobnHNnVxIUO8pSzHZugEripTXHcAvTkaU+TCbgb8vPm8j0UVKv+NvvxasPM5IoQuOGwtAyIMxMwDaMM0DVwuG0VsIVZhc1UHw1DESLZpW2ON7qGIQ==;HHCFKMuSE7HgErI056EWsQ=="
 ---

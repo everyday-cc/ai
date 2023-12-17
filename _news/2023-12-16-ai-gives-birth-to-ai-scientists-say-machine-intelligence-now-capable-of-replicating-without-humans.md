@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/science/ai-gives-birth-ai-scientists-say-mac
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/science/ai-gives-birth-ai-scientists-say-machine-intelligence-capable-replicating-without-humans.amp"
 type: article
 quality: 75
-heat: 75
+heat: 77
 published: true
 
 provider:

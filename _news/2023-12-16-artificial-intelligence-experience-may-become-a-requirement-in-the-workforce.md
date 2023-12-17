@@ -6,8 +6,8 @@ publishedDateTime: 2023-12-15T20:31:00Z
 originalUrl: "https://www.waow.com/news/top-stories/artificial-intelligence-experience-may-become-a-requirement-in-the-workforce/article_d4ff6640-9b99-11ee-9805-0353739445dc.html"
 webUrl: "https://www.waow.com/news/top-stories/artificial-intelligence-experience-may-become-a-requirement-in-the-workforce/article_d4ff6640-9b99-11ee-9805-0353739445dc.html"
 type: article
-quality: 40
-heat: 40
+quality: 42
+heat: 42
 published: false
 
 provider:
@@ -19,6 +19,7 @@ topics:
   - AI
   - AWS AI
   - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/waow.com/content/tncms/assets/v3/editorial/8/c4/8c434668-9ba0-11ee-ac1b-03bb939e4b3f/657cdfdc1109a.image.png?crop=697%2C366%2C4%2C0&resize=697%2C366&order=crop%2Cresize"

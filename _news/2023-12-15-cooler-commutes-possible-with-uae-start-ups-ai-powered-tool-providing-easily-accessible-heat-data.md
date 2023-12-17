@@ -38,15 +38,6 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "Government announces AI Mission to aid start-ups with 'compute power'"
-    excerpt: "Prime Minister Narendra Modi announced a new AI Mission at the Global Partnership for AI Summit in New Delhi. This initiative aims to provide computing power to Indian start-ups and innovators, focusing on sectors such as agriculture,"
-    publishedDateTime: 2023-12-12T14:43:00Z
-    webUrl: "https://www.newsbytesapp.com/news/science/centre-to-launch-ai-mission-to-aid-start-ups-says-modi/story"
-    type: article
-    provider:
-      name: newsbytesapp.com
-      domain: newsbytesapp.com
-    quality: 17
 
 secured: "ZxeHvXCz9/U4ifTj35gSVoyKXmxyUnstPk1qQGDDTvqT1hUaXEyQ1pZa22byFaBHrr9xDBLAiU2drl3Ahzt0EVSCO4w81Qc5t2PQzmez/DX1dUATEjZ3XZPgdhrbIb5z1TQn24Bj2HdnkRujGOEuaA7tA/SW3AtNHaURnOcUCRXXXOF67oS4dsrxaM70UwygrzL2Kf9MDUExOT0d2bFp55srVkj0aav3PqeVTSQdcX1Ac/DI+jPrW4Fc49bqqH46y9LsRHB6w8yoU8BFfpZP4X+BpnaVjv9pveCb39c3sOdVkBgec/OEfgP5AEL/i6NnlgNeBRAKjrdeiI9f17g4SAtBjHLSmIrF7k8OHznb78Y=;yhWvmFiyzS4NJ1zYjRwITw=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/microsoft-unveils-po
 cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/microsoft-unveils-powerful-ai-compact-language-model-tailored-for-research-applications-2023-12-17-907665"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: India TV
@@ -26,22 +26,6 @@ images:
     width: 360
     height: 202
     isCached: true
-
-related:
-  - title: "Microsoft's Orca 2 LLM Outperforms Models That Are 10x Larger"
-    excerpt: "Microsoft Research released its Orca 2 LLM, a fine-tuned version of Llama 2 that performs as well as or better than models that contain 10x the number of parameters. Orca 2 uses a synthetic training dataset and a new technique called Prompt Erasure to achieve this performance."
-    publishedDateTime: 2023-12-12T14:13:00Z
-    webUrl: "https://www.infoq.com/news/2023/12/microsoft-orca-2-llm/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 41
-    images:
-      - url: "https://res.infoq.com/news/2023/12/microsoft-orca-2-llm/en/headerimage/generatedHeaderImage-1701529873890.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "fXDjX3hpxxW4AeBUrcf05JSycwloMWEKI+hGNjsB7EoOfIBH/PNuBPrEXe7jw4Tv3DLHn8Y8gBBtVrtHVt7iuif77xVHhiwfff3fEoJqzYMlpTCGVs+KQ8bfev8DjY8tIh4g0NsvwRtdNQkKUqdO7VbFs84Y86n/5DmbjR4oImV7lu63aYmO2PnXyehPoBHWxeURQy7osVKGwnQ9hCCGQXs6wyWU2OQC0EXDCC6h/OVHdo1bUOz+/oC++diNIEaocgEd/koqMiRZHKH/K9fRg561XUIw/kXtZZ+McDRJ9zw7RT2MYi/MojRMA35uLLV67ZtKJsC3UyBRSTRTMlgpwRvOVpOAJllLjD9vJMox0Trp1JYcR3WvkUDIDL/Vr1GtFFoSR1zqIGLhvmFlyX03DiuqjkpbmhbF1pKlpYsYZ2Kg9XNeh8MxO4Q4gOhUIM5QE5/Z1DWNTi3DtSTQDSlKhSqLkiitdIOCxNEUHUIAhR2CnvEddqCkdbdAAd9jj6BZDptduy1gxRhHghZXEqa/Sg==;17CX24ainlovybJq1cWvBw=="
 ---

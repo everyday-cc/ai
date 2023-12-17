@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/meta-begins-testing-a-gpt-4v-rival-mult
 webUrl: "https://venturebeat.com/ai/meta-begins-testing-a-gpt-4v-rival-multimodal-ai-in-ray-ban-smart-glasses/"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "LILT Announces Enterprise AI Controls and In-App Multimodal Translation"
+    excerpt: "Enterprise AI Controls A new broad set of enterprise controls allows organizations to define when and how their employees use AI across the business, all from directly within the LILT platform. These controls enable authorized users to securely control the deployment of AI across the organization, including:"
+    publishedDateTime: 2023-12-14T18:33:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/12/14/9934667.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "rXrxeUGnuoxNt2XvYoSj8k3THL3WEO8EBvIa+6B8fy4v0jzQdO/EzMpa4hcsWgLbuKZMMOQ6CeBAbcjwlpJwHN2dvM0xU1afcHBi7/RNy3VLEggLB6CxTHmYU+0Sha4JhMkCR08t/hKL50IGlXMFe4Oo+O+bz98cBkdjBkT4YjUihz7rjrb0SAtEoYMFmexQ1+vF9TPAewLzwEMP/KjtdtvfH9ixU7MItnS19JBvOGspt2L7GhSoMohCW1UEK3oRTB0A2c6DdVp23rZjoJTYPCW4aFLzbA16y2wxZ5036yVerrNmHRuvmPjgatnKFHpbKWdFgpg1U91GD3opLtQ1MWOX+vv9N12bzpLCwfXFvlK/hpDiAoHYgUJjZvjdhhPTQPv63VIRwCrD1bQejc7Ktlrtpe7rxRkK28Ah7Z95UAa8F6NevK4jPE+ihGpfDbmAK+LVi0v/XmDgVIHwS95UOhntXXCW4nQ/8stKH4p5poB4uB7UWVLlpaK1r0V5THi1/NHRr/qeRtTn/yzrjkiJJg==;oE4sd9WdWv0wuAj7gAvgjA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.technologyreview.com/2023/12/14/1085310/the-download-c
 webUrl: "https://www.technologyreview.com/2023/12/14/1085310/the-download-cop28-household-robots/"
 type: article
 quality: 16
-heat: -1
+heat: 16
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - AI in Robotics
   - AI
-
-related:
-  - title: "The Download: Yahoo’s misdeeds in China, and AI Act takeaways"
-    excerpt: "In 2005, Xu was arrested for signing online petitions relating to anti-Japanese protests. He didn’t use his real name, but he did use his Yahoo email address. Yahoo China violated its users’ trust—providing information on certain email accounts to Chinese law enforcement, which in turn allowed the government to identify and arrest some users."
-    publishedDateTime: 2023-12-12T13:10:00Z
-    webUrl: "https://www.technologyreview.com/2023/12/12/1085089/the-download-yahoos-misdeeds-in-china-and-ai-act-takeaways/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 19
 
 secured: "kRRPqLWbGTAwY3GKdkILl63VActiiQnm7acb3Y39RwzZMWUyozwKMp2ch+3bey7/XuQreVvK4NR25JT/1vZRloB016ryhbjhOOnGlfPMEezU/8iv6GmK/mAwcyca9I743HKtIzqT6GaGJAm7aT+NYGdCXTpQAf6+ldkgH/FBAxSx6a+Yaw39TTNyC5NJyDmRog9q0k/vd4zBvV1fVF3t0BcyCot4S23pOnXKnKYGvGBclJ5u22VcHccd63DpWXZI0HKUVMFyqZw204skFoA3LDRfqG5lokawOjK2ay38olin0t8k1r+EMNvxl5TLU+TiO3hOVJ4aRdE5Siq4dyQQJbERtrgUYhetlBr7Pv0i14n3pdl7p5zJV76RC+Z0J6jv6/6F0RhlKbDJoT/+CZg+iBmafd9G7j86rEMwf62V0VHQRuIZFRIjTf/IumuhxGf5T5qsiVo3MuT8/5k2nnW4E4IggeFz/oPKK1Rd54Rals1rLXfNW5z0BSUArcLq/buonDbwNEbkzH5hwosGSYq5cw==;jtSGHz5p6CESu0Vgf8O8gg=="
 ---

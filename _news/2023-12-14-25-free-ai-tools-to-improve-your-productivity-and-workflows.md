@@ -80,6 +80,20 @@ related:
         width: 760
         height: 507
         isCached: true
+  - title: "Pope, once a victim of AI-generated imagery, calls for treaty to regulate artificial intelligence"
+    excerpt: "Pope Francis is calling for an international treaty to ensure artificial intelligence is developed and used ethically"
+    publishedDateTime: 2023-12-14T16:11:00Z
+    webUrl: "https://www.washingtonpost.com/business/2023/12/14/vatican-pope-ai-artificial-intelligence/977b6108-9a6c-11ee-82d9-be1b5ea041ab_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 41
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RZ3IBHE2NQI65AWZXYNV5ICBVM_size-normalized.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "How To Keep AI From Stealing the Sound of Your Voice"
     excerpt: "A new technology called AntiFake prevents the theft of the sound of your voice by making it more difficult for AI tools to analyze vocal recordings"
     publishedDateTime: 2023-12-14T12:04:00Z
@@ -93,20 +107,6 @@ related:
       - url: "https://static.scientificamerican.com/sciam/cache/file/AA71A9F7-F6EB-4F6B-BDCBFE460FA0842C_source.jpg?w=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Pope, once a victim of AI-generated imagery, calls for treaty to regulate artificial intelligence"
-    excerpt: "Earlier this year, an AI-generated image of him wearing a luxury white puffer jacket went viral, showing just how quickly realistic deepfake imagery can spread online."
-    publishedDateTime: 2023-12-14T22:47:00Z
-    webUrl: "https://www.bostonglobe.com/2023/12/14/world/pope-once-victim-ai-generated-imagery-calls-treaty-regulate-artificial-intelligence/"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 39
-    images:
-      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/jawMyvYAlTL64xtfAzfzhMaYsuI=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/O6U5RLNTEBGZCS2NZYU3LYDSWM.JPEG"
-        width: 506
-        height: 318
         isCached: true
   - title: "Google Ventures adds partner to back AI, open source startups"
     excerpt: "Venture capital firm GV, backed by Google parent Alphabet Inc, has hired Michael McBride from software firm GitLab as its latest investment partner to focus on open-source and AI startups, the firm told Reuters."

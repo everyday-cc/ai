@@ -19,31 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "4 Best Dividends For A 2024 AI Bubble"
-    excerpt: "Is the AI mania substance or puff? Probably a bit of both. But there’s money to be made as the hype train rolls on. Let’s do it smartly—with dividends."
-    publishedDateTime: 2023-12-14T15:04:00Z
-    webUrl: "https://www.forbes.com/sites/brettowens/2023/12/14/4-best-dividends-for-a-2024-ai-bubble/"
-    ampWebUrl: "https://www.forbes.com/sites/brettowens/2023/12/14/4-best-dividends-for-a-2024-ai-bubble/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brettowens/2023/12/14/4-best-dividends-for-a-2024-ai-bubble/amp/"
+  - title: "Will AI Chip Supplies Face a Boom-Bust Cycle?"
+    excerpt: "What happens after current demand for AI chips is met by increased supply and new players enter the market is unclear"
+    publishedDateTime: 2023-12-13T18:59:00Z
+    webUrl: "https://epsnews.com/2023/12/13/will-ai-chip-supplies-face-a-boom-bust-cycle/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64b5515e45aeec9aede9bcfd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 899
-        isCached: true
-  - title: "Three Uses For Artificial Intelligence In Financial Services In 2024"
-    excerpt: "From boardrooms to classrooms to dining tables, 2023 made AI the hottest topic in virtually all corners of enterprise, education and private life. It's not even an exaggeration to say that A and I were the two most important letters of the year; in fact, Collins Dictionary recently made it Word of the Year 2023."
-    publishedDateTime: 2023-12-15T13:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/15/three-uses-for-artificial-intelligence-in-financial-services-in-2024/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
+      name: Electronics Purchasing and Supply News
+      domain: epsnews.com
+    quality: 34
 
 secured: "ghg3PbXFV/zemqYtlzPkzGbInL0m80Q0QaV6I7q7YANedzOVfzDLW2g13hHzzyRCUt0r9LZsLA2mJPZvSyfyRuBD9yt3fbyhQiQjGt1AtgyaSd3davf1nYAGaEIEgqj9ZUbBTpRdeUld50x1AqnepuzYrDjHGus9VJegChiLwOmbles/YI7syDkvxA1NMt236luk5g+DNPELvzWUuWvoy88EBDGNcygmRCr0/48BdQEmdBCjS/tW0OiRT20eYwHd7MyL3YRLNoTwCVNDKzfGYXB1FEHUPvlxTN6/r6vHWEdpVFBzCnA14tzEJ8i8aZN49N33cDQIi8OJEdzb4THaHuI9drG2RN+waExvusDoX3Y=;QxcC45ZoaFO6PfxOwJywBw=="
 ---

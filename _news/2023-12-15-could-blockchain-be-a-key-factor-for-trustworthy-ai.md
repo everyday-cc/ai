@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/15/could-bloc
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/15/could-blockchain-be-a-key-factor-for-trustworthy-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "From Blockchain to AI: Groundbreaking Research Topics in Fintech You Should Know About"
-    excerpt: "Attention all fintech enthusiasts! Are you ready to dive into the exciting realm of groundbreaking research? Brace yourselves, because we are about to embark on a thrilling journey from Blockchain to AI – two cutting-edge technologies that have revolutionized the financial industry."
-    publishedDateTime: 2023-12-12T16:49:00Z
-    webUrl: "https://techbullion.com/from-blockchain-to-ai-groundbreaking-research-topics-in-fintech-you-should-know-about/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 31
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/Fintech-1.jpg"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "AI Integration With Blockchain Technology Is Inevitable"
     excerpt: "As AI inevitably intersections with blockchains, investors should know that not all digital assets will be safe."
     publishedDateTime: 2023-12-12T20:59:00Z

@@ -57,6 +57,20 @@ related:
         width: 1312
         height: 800
         isCached: true
+  - title: "Rise of Nvidia: AI chip supremacy sparks a Silicon Valley power shift"
+    excerpt: "Nvidia CEO Jensen Huang bet the company's future on AI. That bet not only worked well but made Nvidia the world's biggest AI chipmaker."
+    publishedDateTime: 2023-12-17T14:00:00Z
+    webUrl: "https://interestingengineering.com/culture/the-rise-of-nvidia-growth"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 56
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/12/15/image/jpeg/eSL9TeL3ReqyFoY45NideVatBsCPU9CBZwegZoGc.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Apple's M3 Max Outshines RTX 4090 in AI Speech Transcription Test"
     excerpt: "The M3 Max is Apples most powerful 3nm SoC developed for the Mac, with multi-core performance that outperforms the M2 Ultra and a 40-core GPU that can compete with a laptop RTX 4080. Despite these advancements,"
     publishedDateTime: 2023-12-15T01:53:00Z

@@ -1,26 +1,27 @@
 ---
 category: news
 title: "Pope, once a victim of AI-generated imagery, calls for treaty to regulate artificial intelligence"
-excerpt: "Earlier this year, an AI-generated image of him wearing a luxury white puffer jacket went viral, showing just how quickly realistic deepfake imagery can spread online."
-publishedDateTime: 2023-12-14T22:47:00Z
-originalUrl: "https://www.bostonglobe.com/2023/12/14/world/pope-once-victim-ai-generated-imagery-calls-treaty-regulate-artificial-intelligence/"
-webUrl: "https://www.bostonglobe.com/2023/12/14/world/pope-once-victim-ai-generated-imagery-calls-treaty-regulate-artificial-intelligence/"
+excerpt: "Pope Francis is calling for an international treaty to ensure artificial intelligence is developed and used ethically"
+publishedDateTime: 2023-12-14T16:11:00Z
+originalUrl: "https://www.washingtonpost.com/business/2023/12/14/vatican-pope-ai-artificial-intelligence/977b6108-9a6c-11ee-82d9-be1b5ea041ab_story.html"
+webUrl: "https://www.washingtonpost.com/business/2023/12/14/vatican-pope-ai-artificial-intelligence/977b6108-9a6c-11ee-82d9-be1b5ea041ab_story.html"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: The Boston Globe
-  domain: bostonglobe.com
+  name: The Washington Post
+  domain: washingtonpost.com
 
 topics:
+  - AI in Robotics
   - AI
 
 images:
-  - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/jawMyvYAlTL64xtfAzfzhMaYsuI=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/O6U5RLNTEBGZCS2NZYU3LYDSWM.JPEG"
-    width: 506
-    height: 318
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RZ3IBHE2NQI65AWZXYNV5ICBVM_size-normalized.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -131,6 +132,6 @@ related:
       domain: cointelegraph.com
     quality: 15
 
-secured: "f9Jvz6fcw6I322YVhGEGtcKC3jPisfec3jalfsSGZ/8l/gREEqRiZ+i5mX0NfnLv4rGdxOU2TlC94gtlO1yS/FY5AhI33Xt1JP9zXhS97cSiwjmjq8cmbAh48YWgRoX2zIY5dN31FW0RoIwXU3J70SSFzRjYSW29PRY81tBX5TwtY9fB4MJOdPwth/d+CmETUztrLJqmGIaFP28qCE9xyZFIXQ4Kv+aOOYk4wVezmBP30lZNwwOYfXkzwlDbJrnYtomEJ94M1o+AgRN/8ggV0+ECeHdZK/S97DGm+PD+wPtW9HJTPiChzEHd1ED4APdMBXh4WBy1Jgx/vPw9YHINqMs2xQOpW5Zn/T6Lyl+ol5E=;cpSEksVISQoCBooHGBeJuw=="
+secured: "9xuMZjpZf/HrxwPbo5iHBAfs4NSn52eblPCqCr7D7j8riVukH2ynasHeU8u7n9w7jWr5YgylMGEI8LsuYSVQMeoS9VTZDlVIe4RZPLnkCk1xSl9PMUum0mT+mJ5zn2V+FSMcYJSomhiLKgNGYgVXYKMWDutqzQtGylxz+LiNFPjkkRpxoKfcvV95ENWqEvb/NWC+EBd1PpNKG73Gyl0eDQ0CXOdkqnGw4R4NxFQYJxGzPuVfek0QHELX/F86Mc0nK4DkzmSl7n27LenToH7J07EkOcQi3JF807wBINO5e3UPCpFQUxI+2xviU+qodHaDBu15TbXA+mfC/ncT75vFB7fKh+A84QPq8WU16ORKWIg=;nQmqfRm1pgIS439O3L1qag=="
 ---
 

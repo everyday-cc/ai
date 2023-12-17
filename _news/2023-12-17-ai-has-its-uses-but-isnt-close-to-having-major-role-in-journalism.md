@@ -1,29 +1,31 @@
 ---
 category: news
 title: "AI has its uses but isn't close to having major role in journalism"
-excerpt: "She also noted that AI can be used to translate stories into additional languages to reach more diverse communities. The arrival of computers and cellphones in newsrooms in the late 1980s and early 1990s ushered in a technological revolution in how local ..."
-publishedDateTime: 2023-12-17T04:41:00Z
-originalUrl: "https://www.enidnews.com/news/ai-has-its-uses-but-isnt-close-to-having-major-role-in-journalism/article_e584334e-95f5-571f-bcda-445d59d6f3f5.html"
-webUrl: "https://www.enidnews.com/news/ai-has-its-uses-but-isnt-close-to-having-major-role-in-journalism/article_e584334e-95f5-571f-bcda-445d59d6f3f5.html"
+excerpt: "An opinion columnist for a pair of newspapers in Western New York, Jim Shultz chose a symbolic moment to dip his toes into the world of artificial intelligence."
+publishedDateTime: 2023-12-17T10:40:00Z
+originalUrl: "https://www.dailyitem.com/cnhi_network/ai-has-its-uses-but-isnt-close-to-having-major-role-in-journalism/article_d6585372-facc-513b-a652-89428aed0f4b.html"
+webUrl: "https://www.dailyitem.com/cnhi_network/ai-has-its-uses-but-isnt-close-to-having-major-role-in-journalism/article_d6585372-facc-513b-a652-89428aed0f4b.html"
+ampWebUrl: "https://www.dailyitem.com/cnhi_network/ai-has-its-uses-but-isnt-close-to-having-major-role-in-journalism/article_d6585372-facc-513b-a652-89428aed0f4b.amp.html"
+cdnAmpWebUrl: "https://www-dailyitem-com.cdn.ampproject.org/c/s/www.dailyitem.com/cnhi_network/ai-has-its-uses-but-isnt-close-to-having-major-role-in-journalism/article_d6585372-facc-513b-a652-89428aed0f4b.amp.html"
 type: article
-quality: 39
-heat: 39
+quality: 59
+heat: 59
 published: false
 
 provider:
-  name: Enid News & Eagle
-  domain: enidnews.com
+  name: The Daily Item
+  domain: dailyitem.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/enidnews.com/content/tncms/assets/v3/editorial/4/43/4431cdb1-acf4-5efe-8d17-58ca4c09e981/657d260b48d01.image.jpg?crop=1180%2C620%2C8%2C206&resize=1180%2C620&order=crop%2Cresize"
-    width: 1180
-    height: 620
+  - url: "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/assets/v3/editorial/8/da/8daa51d4-e59a-59df-8032-ef09ee0b2659/656a3e8789f0c.image.jpg"
+    width: 509
+    height: 497
     isCached: true
 
-secured: "qM2I23mt85tN3XAlJ3vHp20QCXUkFJkX0MVL/krDsbelJgfnFrC2YvQeOmYHVBhjdvBQbTN+zGb1RgVIa3gKoWrFMGZjXKBXa8FgydkWu4rpzSoVVRDuLoKZ8fqhiI6D3V8d/SXW4uS1L6y8gNJCrOyFFoz6kknR3CIgEP2YeQ/usFeTe5xHIjRrApz4OpqdaAt2THj7hNTyV3xde22oNzaFKx84vJRJ30imSndfLaN5OActt+r85nrYSQhdfBguTyziaNF8sHooIGeZXTg4yh57GcusQszSKS93NK+ABUFyQEkB3Y+qxUJllb6TAPhC6EG57i/NrGudu/mrtkzHkZ3mfRR+Pw+Lw1y09xF4c1E=;zdz7oH8cplC+qOdxUEwmRg=="
+secured: "Si7lwQ4Z+CNg/DOVT92FgHwEMfddwc9mFX4xdBRCGSI6k4jrkgRn4dkHkyDZMJ+JymBMssQwE1weZ335q4DBoH52lbuzI+X0TxwvvgcCtKbN3RQ/EfxZiTYsv4ilEvkhWKTaLx3paDJNwQZ+EqdfoPaN2Ac+qstajxzGowYtLJxMowb++aycdmzB8i+Gd9mh/LAD4oieUWU9JAjtJ7P9DmT27YWs8ihenCR2pk3YQRJvaj5ZMLORX1+sx2IsKJ4AFyL3qd2Zzo32+jqJ4XhXE4zhigwafAUVQPAREFR+UPi+lKrUj1T+nZ+fhPFoDl1RbnLFR9yk19WNQRJzOIQTldwJIl4jspb4WeYOs27cshE=;9jGcLQ6vOLR8Ni48ltVLqQ=="
 ---
 

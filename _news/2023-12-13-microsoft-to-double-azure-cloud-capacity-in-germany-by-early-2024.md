@@ -93,6 +93,20 @@ related:
         width: 4898
         height: 3265
         isCached: true
+  - title: "Achieving cross-border data protection with Microsoft Cloud for Sovereignty"
+    excerpt: "Organisations are paying for their data protection mistakes. Failure to comply with the European Union (EU)’s General Data Protection Regulation (GDPR), for example, can result in fines of up to €20.3 million ($22."
+    publishedDateTime: 2023-12-15T16:08:00Z
+    webUrl: "https://www.technologyrecord.com/article/achieving-cross-border-data-protection-with-microsoft-cloud-for-sovereignty"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 37
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4758/Cross-border-protection-cover-story-975x548.jpg"
+        width: 975
+        height: 548
+        isCached: true
   - title: "Oracle Announces the General Availability of Oracle Database@Azure"
     excerpt: "The first Oracle Database@Azure service is now generally available in the Microsoft Azure East US region. Oracle will"
     publishedDateTime: 2023-12-13T19:06:00Z

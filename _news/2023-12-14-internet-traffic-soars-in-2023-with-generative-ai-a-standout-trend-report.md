@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerworld.com/article/3711722/internet-traffic-soars
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3711722/internet-traffic-soars-in-2023-with-generative-ai-a-standout-trend-report.amp.html"
 type: article
 quality: 55
-heat: -1
+heat: 55
 published: false
 
 provider:
@@ -24,87 +24,6 @@ images:
     width: 1200
     height: 966
     isCached: true
-
-related:
-  - title: "5 ways AI changed the internet in 2023"
-    excerpt: "OpenAI DALL-E 3, Google Bard and SGE image generator, Microsoft Copilot (formerly Bing Chat Image Creator), and Meta's Imagine are all examples of models that use generative AI to create images from text prompts. Even media platforms Shutterstock, Adobe, and Getty Images have gotten in the game with their own AI image generator tools."
-    publishedDateTime: 2023-12-12T15:01:00Z
-    webUrl: "https://mashable.com/article/ways-ai-changed-the-internet-2023"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 67
-    images:
-      - url: "https://helios-i.mashable.com/imagery/articles/03vL2Cl6Sc7AAwgoGb6nyEF/hero-image.fill.size_1200x675.v1702332338.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "16 Innovative Ways Agencies Can Leverage Generative AI In 2024"
-    excerpt: "Generative AI tools are being leveraged by agency professionals and in-house teams around the world as they seek ways to better understand and reach target audiences."
-    publishedDateTime: 2023-12-15T17:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/12/15/16-innovative-ways-agencies-can-leverage-generative-ai-in-2024/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/655e5665f16e596330a94c9e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "2023 was the year that artificial intelligence went mainstream"
-    excerpt: "From ChatGPT to Gemini, this year was dominated by large language models and other AIs becoming everyday tools used by millions of people"
-    publishedDateTime: 2023-12-13T18:00:00Z
-    webUrl: "https://www.newscientist.com/article/mg26034693-900-2023-was-the-year-that-artificial-intelligence-went-mainstream/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 52
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/12/12141558/SEI_182878822.jpg"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "How AI’s Explosive Growth Opened Up The World For The Blind In 2023"
-    excerpt: "AI and people living with sight loss have experienced significant gains from this seismic technological shift."
-    publishedDateTime: 2023-12-15T13:07:00Z
-    webUrl: "https://www.forbes.com/sites/gusalexiou/2023/12/15/how-ais-explosive-growth-opened-up-the-world-for-the-blind-in-2023/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-  - title: "Artificial intelligence and climate change were 2023's twin challenges"
-    excerpt: "The decisions we made this year about AI and climate change could determine the fate of billions of people. In 2024, almost half the world’s population could be voting with these issues in mind"
-    publishedDateTime: 2023-12-13T18:00:00Z
-    webUrl: "https://www.newscientist.com/article/mg26034690-100-artificial-intelligence-and-climate-change-were-2023s-twin-challenges/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/12/13141250/SEI_183160249.jpg"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "We won't allow untrusted AI models to scrape Indian internet: Rajeev Chandrasekhar"
-    excerpt: "The Union minister says that government might amend IT rules to tackle deepfakes, if social media intermediaries do not comply with advisories. He says any effort to regulate AI has to be global or near-global."
-    publishedDateTime: 2023-12-14T04:38:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/we-wont-allow-untrusted-ai-models-to-scrape-indian-internet-rajeev-chandrasekhar-11902881.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 33
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/06/Rajeev-Chandrasekhar-1-770x433-770x433.png"
-        width: 770
-        height: 433
-        isCached: true
 
 secured: "BB+pYx3SqBcXvn6xETrZK5AxjZhqhKygnXYKtx0WNMG5qKFrO5Lwf4d/qPUzpwXEEXnQ/vPHX/xG49UbF3EtQhBA1AqjEHlfqLOgCVEE05EIDv4WA7doJ2BfNrUf3aYujkOEdAVVPImf9a/ox6TU6Ao86JD0yXGwCIpefrOmh0GkkCTCp8q9+zOr1D4CBIRNo2+nd5F7bVpiWc62EflRVScd42CDtGNs4Us+QrQFSywuAgAD0W2iEYh4s64PDzVp/NAaYXOQRPvsdrNgD/UYBlmlEfeYi4aF+qYPAGD+H8hxqUnx1zIVHdC6zdguBPUBlw5p+8Css8Sm1KSwVKgVs1VlkZ4rqxLaPpCikfbUiHu3j7MoDM5sfq82rNoFcX7Zvps6YUDcR4p/wXBAO3Cs6UbL9tmx0OpJGtWFoH1mTP4Lxhdp5ke+aJ0Hn7svcRNpOiAi3EDOoYh6Hx65T6uEmK14CsYULXJOoxRKLKCZFoUm1X5+4gBsHNGmMUjJdM0rPyYijqIe7Mj32XWc26ANuQ==;r1BZ+9Xc68NqkV+sSNm51w=="
 ---

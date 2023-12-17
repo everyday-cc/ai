@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/12/15/16-inn
 webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/12/15/16-innovative-ways-agencies-can-leverage-generative-ai-in-2024/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: Forbes
@@ -28,87 +28,52 @@ images:
     isCached: true
 
 related:
-  - title: "5 ways AI changed the internet in 2023"
-    excerpt: "OpenAI DALL-E 3, Google Bard and SGE image generator, Microsoft Copilot (formerly Bing Chat Image Creator), and Meta's Imagine are all examples of models that use generative AI to create images from text prompts. Even media platforms Shutterstock, Adobe, and Getty Images have gotten in the game with their own AI image generator tools."
-    publishedDateTime: 2023-12-12T15:01:00Z
-    webUrl: "https://mashable.com/article/ways-ai-changed-the-internet-2023"
+  - title: "FIS: Trust in generative AI fragile among consumers"
+    excerpt: "A significant majority of consumers admit they don't know whether their banks are currently using generative AI in their operations"
+    publishedDateTime: 2023-12-14T11:00:00Z
+    webUrl: "https://fintechmagazine.com/tech-ai/fis-generative-ai-research"
     type: article
     provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 67
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 39
     images:
-      - url: "https://helios-i.mashable.com/imagery/articles/03vL2Cl6Sc7AAwgoGb6nyEF/hero-image.fill.size_1200x675.v1702332338.jpg"
+      - url: "https://assets.bizclikmedia.net/1200/b6ed12eb7ec28ad5ae14a6ea7d05b679:cc2c9ffd810a582fef0d67f56f8aff04/nasser-khodri.jfif.jpg"
         width: 1200
-        height: 675
+        height: 631
         isCached: true
-  - title: "Internet traffic soars in 2023, with generative AI a standout trend: Report"
-    excerpt: "In its annual overview of online trends, Cloudflare reports Google remains the most popular site, while OpenAI takes the lead in generative AI services."
-    publishedDateTime: 2023-12-13T18:11:00Z
-    webUrl: "https://www.computerworld.com/article/3711722/internet-traffic-soars-in-2023-with-generative-ai-a-standout-trend-report.html"
-    ampWebUrl: "https://www.computerworld.com/article/3711722/internet-traffic-soars-in-2023-with-generative-ai-a-standout-trend-report.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3711722/internet-traffic-soars-in-2023-with-generative-ai-a-standout-trend-report.amp.html"
+  - title: "Inside Bayer’s embrace of generative AI"
+    excerpt: "In this wide-ranging interview, Bayer’s head of digital transformation Saskia Steinacker shares her top tips for implementing a genAI roadmap in commercial."
+    publishedDateTime: 2023-12-15T15:45:00Z
+    webUrl: "https://www.mmm-online.com/home/channel/7-day-supply/inside-bayers-embrace-of-generative-ai/"
     type: article
     provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 55
+      name: MM&M
+      domain: mmm-online.com
+    quality: 39
     images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/10/17/12/internet1-100649339-large-100947272-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 966
+      - url: "https://www.mmm-online.com/wp-content/uploads/sites/2/2022/05/GettyImages-1252150184.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "2023 was the year that artificial intelligence went mainstream"
-    excerpt: "From ChatGPT to Gemini, this year was dominated by large language models and other AIs becoming everyday tools used by millions of people"
-    publishedDateTime: 2023-12-13T18:00:00Z
-    webUrl: "https://www.newscientist.com/article/mg26034693-900-2023-was-the-year-that-artificial-intelligence-went-mainstream/"
+  - title: "Cross-Campus Approaches to Building a Generative AI Policy"
+    excerpt: "Particularly for new technologies that disrupt long-standing practices and cultural beliefs, the work of carefully and intentionally developing effect"
+    publishedDateTime: 2023-12-12T20:42:00Z
+    webUrl: "https://er.educause.edu/articles/2023/12/cross-campus-approaches-to-building-a-generative-ai-policy"
     type: article
     provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 52
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/12/12141558/SEI_182878822.jpg"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "How AI’s Explosive Growth Opened Up The World For The Blind In 2023"
-    excerpt: "AI and people living with sight loss have experienced significant gains from this seismic technological shift."
-    publishedDateTime: 2023-12-15T13:07:00Z
-    webUrl: "https://www.forbes.com/sites/gusalexiou/2023/12/15/how-ais-explosive-growth-opened-up-the-world-for-the-blind-in-2023/"
+      name: er.educause.edu
+      domain: educause.edu
+    quality: 19
+  - title: "Generative AI Firm Native AI Ushers in A New Era of Hyper-Personalized Brand Experiences"
+    excerpt: "Generative AI solutions like Native AI take this a step further: now brands and researchers can predict future trends and run simulations based on hypotheticals."
+    publishedDateTime: 2023-12-12T20:39:00Z
+    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/12/12/generative-ai-firm-native-ai-ushers-in-a-new-era-of-hyper-personalized-brand-experiences/71897040007/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-  - title: "Artificial intelligence and climate change were 2023's twin challenges"
-    excerpt: "The decisions we made this year about AI and climate change could determine the fate of billions of people. In 2024, almost half the world’s population could be voting with these issues in mind"
-    publishedDateTime: 2023-12-13T18:00:00Z
-    webUrl: "https://www.newscientist.com/article/mg26034690-100-artificial-intelligence-and-climate-change-were-2023s-twin-challenges/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/12/13141250/SEI_183160249.jpg"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "We won't allow untrusted AI models to scrape Indian internet: Rajeev Chandrasekhar"
-    excerpt: "The Union minister says that government might amend IT rules to tackle deepfakes, if social media intermediaries do not comply with advisories. He says any effort to regulate AI has to be global or near-global."
-    publishedDateTime: 2023-12-14T04:38:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/we-wont-allow-untrusted-ai-models-to-scrape-indian-internet-rajeev-chandrasekhar-11902881.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 33
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/06/Rajeev-Chandrasekhar-1-770x433-770x433.png"
-        width: 770
-        height: 433
-        isCached: true
+      name: USA Today
+      domain: usatoday.com
+    quality: 8
 
 secured: "WNIZE4vmaJghoLGh4R6nsgeDhtcjjvaeHmKl8bgafyGbL6Dwdt+PqRcxb8pJjtHIcyLuvPFukJWk5cK7kVwuQVDoaME5M5QlZY7ibyXySgBz78Bv6dBmtdMSb0QxUnuHH2HTwsBI1NKF2nqcBfAeKUf+Wyw2AgiXCSuYdPLX0sRTUcm9EYUhCDoN5iOEPlGotjreuE14sJMWZUkqEFOYGBgb4jyBvEPu700e/CwwWdYzEO7jy711/tDVdwg7V8grVgNOOsdiR1l1tQSP05byak5vIQ1sPUpfYnaHlEqlQaN3oAOgnUOz5Dv716BNcUL8ms0Oqtcyby1wXPsWbWlQBrIMUvaE80lOkjBWvGOoX8E=;NqV4ZldtMcRPUbr0FMl2PA=="
 ---

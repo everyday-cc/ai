@@ -5,6 +5,8 @@ excerpt: "I walk you thru the likes of AI and AGI and what they mean, including 
 publishedDateTime: 2023-12-06T11:30:00Z
 originalUrl: "https://www.forbes.com/sites/lanceeliot/2023/12/06/figuring-out-what-artificial-general-intelligence-agi-consists-of-is-enormously-vital-and-mindfully-on-the-minds-of-ai-researchers-at-google-deepmind/"
 webUrl: "https://www.forbes.com/sites/lanceeliot/2023/12/06/figuring-out-what-artificial-general-intelligence-agi-consists-of-is-enormously-vital-and-mindfully-on-the-minds-of-ai-researchers-at-google-deepmind/"
+ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/12/06/figuring-out-what-artificial-general-intelligence-agi-consists-of-is-enormously-vital-and-mindfully-on-the-minds-of-ai-researchers-at-google-deepmind/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/12/06/figuring-out-what-artificial-general-intelligence-agi-consists-of-is-enormously-vital-and-mindfully-on-the-minds-of-ai-researchers-at-google-deepmind/amp/"
 type: article
 quality: 47
 heat: -1
@@ -21,6 +23,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - AI in Autos
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/64e7c9d3dec13bc949d8ae23/0x0.jpg?format=jpg&crop=3524,2348,x6,y87,safe&height=900&width=1600&fit=bounds"

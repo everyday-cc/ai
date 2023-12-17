@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/blog/microsoft-and-oracle-announ
 webUrl: "https://azure.microsoft.com/en-us/blog/microsoft-and-oracle-announce-that-oracle-databaseazure-is-now-generally-available/"
 type: article
 quality: 113
-heat: 183
+heat: 193
 published: true
 
 provider:
@@ -88,6 +88,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/Ed-Anuff-Supercloud-5-2023.jpg"
         width: 4898
         height: 3265
+        isCached: true
+  - title: "Achieving cross-border data protection with Microsoft Cloud for Sovereignty"
+    excerpt: "Organisations are paying for their data protection mistakes. Failure to comply with the European Union (EU)’s General Data Protection Regulation (GDPR), for example, can result in fines of up to €20.3 million ($22."
+    publishedDateTime: 2023-12-15T16:08:00Z
+    webUrl: "https://www.technologyrecord.com/article/achieving-cross-border-data-protection-with-microsoft-cloud-for-sovereignty"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 37
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4758/Cross-border-protection-cover-story-975x548.jpg"
+        width: 975
+        height: 548
         isCached: true
   - title: "Microsoft to double Azure cloud capacity in Germany by early 2024"
     excerpt: "Microsoft is to double the capacity of its Microsoft Azure cloud data centres in Germany by early 2024 to meet customer demand. It will achieve this by significantly expanding the country’s largest data centre hub,"

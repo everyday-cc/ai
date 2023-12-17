@@ -19,33 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "How Andromeda Robotics’ AI-powered robot Abi is combating loneliness"
-    excerpt: "The Andromeda Robotics team has built and assembled four Abi robots so far, each costing nearly $10,000 in hardware and consumables."
-    publishedDateTime: 2023-12-13T23:43:00Z
-    webUrl: "https://www.smartcompany.com.au/startupsmart/news/andromeda-robotics-ai-powered-robot-abi-combating-loneliness/"
+  - title: "Solix launches new enterprise data platform for the gen AI era"
+    excerpt: "As its name implies, the CDP acts as a centralized repository that organizes an enterprise's various data assets."
+    publishedDateTime: 2023-12-15T08:26:00Z
+    webUrl: "https://venturebeat.com/data-infrastructure/solix-launches-new-enterprise-data-platform-for-the-gen-ai-era/"
     type: article
     provider:
-      name: SmartCompany
-      domain: smartcompany.com.au
-    quality: 69
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 71
     images:
-      - url: "https://www.smartcompany.com.au/wp-content/uploads/2023/12/SMartCO-2023-12-14T103242.515.png?resize=1200,630"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/12/cfr0z3n_vector_art_line_art_flat_illustration_style_multiple_cl_41a255b1-2221-4893-933f-b62cea6e909e.png?w=1200&strip=all"
         width: 1200
-        height: 630
-        isCached: true
-  - title: "How Andromeda Robotics’ AI-powered robot Abby is combating loneliness"
-    excerpt: "The Andromeda Robotics team has built and assembled four Abby robots so far, each costing nearly $10,000 in hardware and consumables."
-    publishedDateTime: 2023-12-14T21:27:00Z
-    webUrl: "https://www.smartcompany.com.au/startupsmart/news/andromeda-robotics-ai-powered-robot-abby-combating-loneliness/"
-    type: article
-    provider:
-      name: SmartCompany
-      domain: smartcompany.com.au
-    quality: 69
-    images:
-      - url: "https://www.smartcompany.com.au/wp-content/uploads/2023/12/SMartCO-2023-12-14T103242.515.png?resize=1200,630"
-        width: 1200
-        height: 630
+        height: 672
         isCached: true
 
 secured: "VohPcGv+bHCpG8PIy6P7b2J9AKePnYxCuvbFFhSKavCgEmeCJkfRMVbkenktgQe2UuIAlzhdLE4BA4O9zp/60MyyKI8/SPvMjkELiaDlwRZJE9MBTQuo1BEuhTIpCBl+5bSu8Ec6YeXIA1cLSqeE3iHgLyw3Rt4cFA56EQGF1MTz+HuSXcM6tr8jMHA4eH39Um91iFsy0pK6/q/tK3bIBassxRI5F4Wl+3J2ZL4S572h0M3A6xEnI0+GoVz3Z3wtStHNeGua74zSrPQfjzh5WIJs8jqpkKUqleXRoaj7wre1QmuY3Q4fJzG9nkhj1I0hridwYUqJNk0/mZHtlAcNPCGXM48jFiN1o3V70vSou5k=;CFcHCzTpCNx/ZOc75Afbfw=="

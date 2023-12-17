@@ -7,7 +7,7 @@ originalUrl: "https://www.newscenter1.tv/lifestyle/2023-the-year-ai-went-mainstr
 webUrl: "https://www.newscenter1.tv/lifestyle/2023-the-year-ai-went-mainstream-and-it-was-messy/article_0b47d62c-9ac0-11ee-b7f6-5f2d07f2454c.html"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "2023: The year we played with artificial intelligence — and weren't sure what to do about it"
-    excerpt: "Artificial intelligence went mainstream in 2023 — it was a long time coming yet has a long way to go for the technology to match people’s science fiction fantasies of human-like machines."
-    publishedDateTime: 2023-12-14T12:45:00Z
-    webUrl: "https://www.washingtonpost.com/business/2023/12/14/ai-2023-artificial-intelligence-chatgpt-dangers/251bf914-9a72-11ee-82d9-be1b5ea041ab_story.html"
+  - title: "2023 was the year that artificial intelligence went mainstream"
+    excerpt: "From ChatGPT to Gemini, this year was dominated by large language models and other AIs becoming everyday tools used by millions of people"
+    publishedDateTime: 2023-12-13T18:00:00Z
+    webUrl: "https://www.newscientist.com/article/mg26034693-900-2023-was-the-year-that-artificial-intelligence-went-mainstream/"
     type: article
     provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 28
+      name: New Scientist
+      domain: newscientist.com
+    quality: 52
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EPNXVNU2OII65AWZXYNV5ICBVM.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/12/12141558/SEI_182878822.jpg"
+        width: 1350
+        height: 900
         isCached: true
 
 secured: "diDaMzvurlYFth2KY+IMpWb2nv2UOfciWfTQY6ihOiyHNuA9gKUp7qLbjOvN3c4+OOo6sQbYwQ7WWKPYEq8/6ia21daczer/JIVqCMamjh51rK79E70Sf7Qr3LLDXhEWm9CYHaCJRw0zLHmDgy8sOhttcxvldD39i/PCvgG7LLnzL5ybcNNPH4/d0xttMOuCKcWubI8zJIz9O2t+Wcpc12M5x4534jGpHDjvTP+/9y/C4RKYh0twvzm57qDxSpF+n3fgZXgX4C9gEr5LIf5/HEmvCzXDvaXf4/h71+6UefhYOebF3YkFuh9IpPqLYbUFwiyA3fgQPDeUO883zXbCUw6QARDJ9Q4+lExxv+LZwMM=;AN0TfnKgpJcss1ydbJ99IA=="

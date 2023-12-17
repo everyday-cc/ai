@@ -43,6 +43,20 @@ related:
         width: 1312
         height: 800
         isCached: true
+  - title: "Rise of Nvidia: AI chip supremacy sparks a Silicon Valley power shift"
+    excerpt: "Nvidia CEO Jensen Huang bet the company's future on AI. That bet not only worked well but made Nvidia the world's biggest AI chipmaker."
+    publishedDateTime: 2023-12-17T14:00:00Z
+    webUrl: "https://interestingengineering.com/culture/the-rise-of-nvidia-growth"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 56
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/12/15/image/jpeg/eSL9TeL3ReqyFoY45NideVatBsCPU9CBZwegZoGc.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "NVIDIA AI GPU shipments expected to surge 150% year-over-year in 2024"
     excerpt: "Analyst expects NVIDIA AI GPU shipments to surge another 150% year-over-year in 2024, led by the new H200 GPU and next-gen Blackwell B100 GPUs."
     publishedDateTime: 2023-12-14T01:02:00Z

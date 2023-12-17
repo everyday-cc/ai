@@ -139,20 +139,6 @@ related:
         width: 1000
         height: 500
         isCached: true
-  - title: "AI in health care: Leaders urge Congress to set rules for the industry"
-    excerpt: "Health care leaders urged Congress at a hearing to pass regulations on the use of artificial intelligence in the industry, addressing the “limitless” capabilities of the new technology as well as the potential biases it can produce."
-    publishedDateTime: 2023-12-12T16:26:00Z
-    webUrl: "https://www.benefitspro.com/2023/12/12/ai-in-health-care-leaders-urge-congress-to-set-rules-for-the-industry/"
-    type: article
-    provider:
-      name: Benefits Pro
-      domain: benefitspro.com
-    quality: 39
-    images:
-      - url: "https://images.benefitspro.com/contrib/content/uploads/sites/412/2023/12/Congress-Article-202312111511.jpg"
-        width: 620
-        height: 372
-        isCached: true
 
 secured: "wUZ44YblywFkUgFjxRWHHpzno8aTUOfd3y3CUZcuMObR8ozImYaMmzTwtONnJn4t1Za3gNdU2ekM/TaTLgjlhzlGfrV7kSl09UdU1+XeEfW4OewuvjJirpi9fIfgcKeAOHQYnGq9tpf93m30vbIzACft33Ts9waZ0mN+u9Zf1Ve7xmHu1LWVmjJ3Ul1Kdm7fa1JBfc7KwtER6zLt8DDkqc5YvwTkLIsPIcQOt4cRUT0rO2fwJ7O9iUHkHspuXjWyTaJlgXPwGSex55cgcCibeT3kgAcfcp5f5/T5m6eXiNPuxUe7YhZrFGPw+SyCBY1IPS9B4aZC0GjEXTQL+Ejgsb8Pa4rg+/cCYYeah0qZgJ4=;8Yh/+Qrt+YwmpAV8r4Qljg=="
 ---

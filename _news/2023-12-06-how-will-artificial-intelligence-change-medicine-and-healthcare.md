@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.wwlp.com/wp-content/uploads/sites/26/2023/12/dr-k.jpg?w=1280"

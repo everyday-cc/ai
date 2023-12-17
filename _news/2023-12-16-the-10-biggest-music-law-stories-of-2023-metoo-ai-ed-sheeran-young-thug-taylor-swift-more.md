@@ -7,7 +7,7 @@ originalUrl: "https://www.billboard.com/lists/biggest-music-legal-news-2023-ai-t
 webUrl: "https://www.billboard.com/lists/biggest-music-legal-news-2023-ai-taylor-swift-young-thug-lizzo/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -24,29 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Top 10 Biggest AWS News Stories Of 2023: AI, Layoffs And Slowing Sales"
-    excerpt: "AWS top news from 2023 included generative AI, Amazon layoffs, Anthropic investment, cloud computing sales, chips, AWS Marketplace and new AI products."
-    publishedDateTime: 2023-12-12T14:04:00Z
-    webUrl: "https://www.crn.com/news/cloud/top-10-biggest-aws-news-stories-of-2023-ai-layoffs-and-sales"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 53
-  - title: "Our 10 Most-Read Stories Of 2023, From Charting The VC Downturn To Layoffs To Some Very Large AI Deals"
-    excerpt: "AI explosion, bank failures and layoffs, and our readers came to us for a look through our unique data lens to make sense of it all. Here are Crunchbase News' 10 most-read stories of the year."
-    publishedDateTime: 2023-12-15T12:00:00Z
-    webUrl: "https://news.crunchbase.com/venture/most-read-stories-2023-ai-layoffs-svb/"
-    type: article
-    provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 21
-    images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/Conversation-woman.jpg"
-        width: 900
-        height: 506
-        isCached: true
   - title: "Top 10 Biggest Google Cloud News Stories Of 2023: AI, Profitability And Layoffs"
     excerpt: "Google Cloud top news in 2023 includes new AI products, layoffs, Google Workspace, generative AI, cloud computing, Anthropic investment and profitability."
     publishedDateTime: 2023-12-12T20:30:00Z

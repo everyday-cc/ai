@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/technology/talent-not-chips-key-to
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/talent-not-chips-key-to-indias-ai-future-says-rajeev-chandrasekhar-11913321.html/amp"
 type: article
 quality: 64
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2023/12/chris-miller-770x369.jpg"
         width: 770
         height: 369
+        isCached: true
+  - title: "We won't allow untrusted AI models to scrape Indian internet: Rajeev Chandrasekhar"
+    excerpt: "The Union minister says that government might amend IT rules to tackle deepfakes, if social media intermediaries do not comply with advisories. He says any effort to regulate AI has to be global or near-global."
+    publishedDateTime: 2023-12-14T04:38:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/we-wont-allow-untrusted-ai-models-to-scrape-indian-internet-rajeev-chandrasekhar-11902881.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 33
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/06/Rajeev-Chandrasekhar-1-770x433-770x433.png"
+        width: 770
+        height: 433
         isCached: true
   - title: "Global AI Conclave | Chip Wars author Chris Miller lauds India’s deep talent pool in chip design"
     excerpt: "There are more people in chip design in India than anywhere else in the world, which is an extraordinary base of human capital…If we look at Bangalore, we see 10,000 people working in the chip Industry,"

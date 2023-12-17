@@ -24,17 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Hi Auto Debuts New AI Voice Cloning Feature at Lee's Famous Recipe Chicken"
-    excerpt: "Hi Auto today announced the launch of its AI voice-cloning feature, which delivers the most personalized voice AI-enabled drive-thru experience. Hi Auto's voice cloning solution enables Quick Service Restaurants (QSRs) to incorporate fully customized voice options into their drive-thru voice AI ordering technology."
-    publishedDateTime: 2023-12-12T14:23:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/12/12/9932187.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
-
 secured: "frIgAk566qe3y00+ZTD940tb93M3C4tWfesSFFiFt5WfcyBqmLEUJigJOd3Obd8KV7S1bF4ktkZ0InDcFp0/9e8r3pGWXViWzWTz81QsmXN1bV14Kos/lJyTuarYrCxjcvnEBACmau18U1+iEmoiWbKpCXv4nqILbbAHOlP73RV+DJVR0xI58bvqUwB3EbtyU5fByJHADS864MAPnxixOq9AQifIIPPOG1xC/XYN095AScMOPlk1SI/8BdOjcwAymp4yBJ1+uFyyCp1+duPkjrVhaKZTB2B8hJnYZQW2RN5dr7eNMcA/gfqp/0R3rem1Xrp/8OPhzPqWVDfueItHnn7cr+s7CmIc864nKidX+go=;YnDb1H9mVwkOIiE5TEBf4A=="
 ---
 

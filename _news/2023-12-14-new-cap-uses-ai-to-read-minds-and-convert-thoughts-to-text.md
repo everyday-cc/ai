@@ -51,20 +51,15 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Mind-reading AI technology turns thoughts into text"
-    excerpt: "Researchers have developed a portable, non-invasive system that can decode silent thoughts and turn them into text."
-    publishedDateTime: 2023-12-12T16:49:00Z
-    webUrl: "https://interestingengineering.com/innovation/mind-reading-ai-thoughts-text"
+  - title: "New portable, non-invasive AI system turns thoughts into text"
+    excerpt: "Australian researchers have developed a portable, non-invasive system that can decode silent thoughts and turn them into text using artificial intelligence (AI). The technology could aid communication for people who are unable to speak due to illness or injury,"
+    publishedDateTime: 2023-12-12T22:29:00Z
+    webUrl: "https://www.canindia.com/new-portable-non-invasive-ai-system-turns-thoughts-into-text/"
     type: article
     provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/12/12/image/jpeg/xB2oox3Gqk9Je6ZZrhlbIrkxAX6GUVOYBEFigv0t.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
+      name: Canindia.com
+      domain: canindia.com
+    quality: 19
 
 secured: "8/3NLYNWbiHYD3dUXZpoUl3P3ipp9S9AIhu0VACz9A/ZWukq+6Z7XDHFcCYSl2N6rJhBDYOJ1stJ6A8z4sVs2pocjJPVI3z0NONGkPMEV3hUpnCnXCM/dpiYDuDO33wDt5CGN0km+l8xu8tucA7Bj/Ey2kGuDGsRT8nCERIJHGNO6M1i6JNrKIy7x2YW08YJwVYA3u03bJykfbfBDrkhYBVLzBYU5+R/QkAB4ldErMagq3xrOfuNQmPjRw/CQmHysPlLatSXsp+TNpvoXRZ80RAgfhXGX5F+RfPtJsCgZvQlSnbQlEIslLCNA4+prqDYn0H4NiVay1AqZXjhw3x5q/t3Iu/kOCuhdg/TbXoZG5hojafqGlPxEyZmtaLsDbbJAMeIsf2UHqYGN4TdOCpsWpOuMfTuPyQsOFH2YRpZt4/HQmNlM6inJ4SWdP9qICkJgq1U60iUF959MAoHndhBTJOPVesvCqNMbBfwDODUNPCH5PRPwVt3lRr/h8dYa2WZ0X1222MXBU2fZWdzznpc4A==;kTuy8yKJVlx6c0oYl5tqoA=="
 ---
