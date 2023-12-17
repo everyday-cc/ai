@@ -1,20 +1,32 @@
 ---
 category: news
 title: "AWS updates Bedrock, SageMaker to boost generative AI offerings"
-excerpt: "At its ongoing re:Invent 2023 conference, AWS unveiled several updates to its SageMaker, Bedrock and database services in order to boost its generative AI offerings. Taking to the stage on Wednesday, AWS vice president of data and AI, Swami Sivasubramanian ..."
-publishedDateTime: 2023-11-30T08:46:00Z
-originalUrl: "https://www.reseller.co.nz/article/709628/aws-updates-bedrock-sagemaker-boost-generative-ai-offerings/"
-webUrl: "https://www.reseller.co.nz/article/709628/aws-updates-bedrock-sagemaker-boost-generative-ai-offerings/"
+excerpt: "At its ongoing re:Invent 2023 conference, AWS unveiled several updates to its SageMaker, Bedrock and database services in order to boost its generative AI offerings. Taking to the stage on ..."
+publishedDateTime: 2023-11-30T12:25:00Z
+originalUrl: "https://www.infoworld.com/article/3711463/aws-updates-bedrock-sagemaker-to-boost-generative-ai-offerings.html"
+webUrl: "https://www.infoworld.com/article/3711463/aws-updates-bedrock-sagemaker-to-boost-generative-ai-offerings.html"
+ampWebUrl: "https://www.infoworld.com/article/3711463/aws-updates-bedrock-sagemaker-to-boost-generative-ai-offerings.amp.html"
+cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711463/aws-updates-bedrock-sagemaker-to-boost-generative-ai-offerings.amp.html"
 type: article
 
 provider:
-  name: Reseller News
-  domain: reseller.co.nz
+  name: InfoWorld
+  domain: infoworld.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
-secured: "U8vOAWdzEwO9+TN6TyfVM6La4/XwLODuCogOaWGAwnH5OMkaqDUI24xpqZ5z+zuutbHWuhvytDqpcUHh8U9uEIb6tlW+jposkV6QemRpA3UXU+zRxOr3Zm9ThcZr+PfH5FtaOhMmdH0EXLLik8qOcMTF6hUOfZ7lNlmh04LM25tD9b+hVmK8+Pz0kNtZLp/yb/kMVplLrakynTMm12Y1CZxbYtJvzidD0MkV41Dwo/ORj7YFeM/cv9jKK3rm5lV7322kv+WcQTRVrkdhg6+etO0YwqNjKE5go4F6B68y/INlIi8/f6040eFOL3cK7iiWbIBy+KOSGHGY8bBVDoAZprQ26on5UnZSPniINwf3EgPyiBWJsqP8E9DcPQciG8hFM3hB+g9mLRVAirsFCfmWFHD1oFi/ZhABonta3PTqAI9fYfxJH2N5Bk658aoSt8n69e5CmRfrGeUc9Ih3uAFKpxZ3WwE3DQm30p1SDS2ytlcPvv/b5lH2IzBT1NAj7LgtAylXwSkf1/t983Q8Av41+w==;28hupCCScd1RbGlj5rbKdw=="
+images:
+  - url: "https://images.idgesg.net/images/article/2023/11/aws-swami-sivasubramanian-100948807-large.jpg?auto=webp&quality=85,70"
+    width: 1200
+    height: 800
+    isCached: true
+
+secured: "jBU+ZW5kHSQ8QsZW8HgTxKGn4kTwBzMBZSOyiBT3BNMpTfxfKaA8lnknMAZO6Ee8H6GerKYnuJ7yTLtDFvM3fcVvbjWT4zPoFxgw9HZgSUfkrQIxWRIRuKk0NxwfHMthN0pNjbmgwstHrbk4eC7UPjmMFCEl5Wy5abmzmbMV6q0T2iOdUVbFT9b5OjFDAfrZILseE+sxNkBGgsdeKyKrys4Fpp1LvTWdTrQ6qz6t3I19GBchFNSDvSES/t7Bx5MESg5TmZaL91mY4qMemxzbt0E1OCKoYSalcObUzfbEoPjwuzV6DCqMgR9bQ03DzmlUtGKDaO2Z1DGI8L6GB+EFAmjwExmmNN8FB4ucJFPZdhc=;h6MsAeKASyoioWeYOsYN/Q=="
 ---
 

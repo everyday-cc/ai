@@ -40,15 +40,6 @@ related:
         width: 943
         height: 628
         isCached: true
-  - title: "Microsoft releases Phi-2, a small language model AI that outperforms Llama 2, Mistral 7B"
-    excerpt: "Microsoft researchers also noted in their blog post on the Phi-2 release that it outperforms Google's brand new Gemini Nano 2 model."
-    publishedDateTime: 2023-12-12T18:01:00Z
-    webUrl: "https://venturebeat.com/ai/microsoft-releases-phi-2-a-small-language-model-ai-that-outperforms-llama-2-mistral-7b/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 57
   - title: "Microsoft Launches Robust AI 'Small Language Model' For Researchers"
     excerpt: "Microsoft has released its newest compact“small language model” titled Phi-2 that continues to perform at par or better than"
     publishedDateTime: 2023-12-17T08:09:00Z
@@ -62,20 +53,6 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?537922"
         width: 419
         height: 250
-        isCached: true
-  - title: "Microsoft is training AI to accelerate regulatory process for nuclear projects"
-    excerpt: "Microsoft is reportedly eyeing nuclear power for its AI operations. Microsoft stock is currently up close to 60% versus year start."
-    publishedDateTime: 2023-12-12T17:39:00Z
-    webUrl: "https://invezz.com/news/2023/12/12/microsoft-training-ai-nuclear-regulatory-process/"
-    type: article
-    provider:
-      name: Invezz
-      domain: invezz.com
-    quality: 52
-    images:
-      - url: "https://invezz.com/wp-content/uploads/2023/12/139137294-m-normal-none-1024x683.jpg"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Microsoft’s Phi-2: a small AI model that competes with LLMs from Google, Meta"
     excerpt: "A compact AI model with outputs that rival those of LLMs from Meta and Google. That's the promise Microsoft is making with its newly announced Phi-2, a"

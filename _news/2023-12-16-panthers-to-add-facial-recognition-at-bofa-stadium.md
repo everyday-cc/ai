@@ -44,6 +44,15 @@ related:
       name: Biometric Companies
       domain: biometricupdate.com
     quality: 19
+  - title: "Police defend facial recognition target selection to Lords"
+    excerpt: "Senior police officers confirm to Lords committee that facial recognition watchlist image selection is based on crime categories attached to people’s photos, rather than a context-specific assessment of the threat presented by a given individual."
+    publishedDateTime: 2023-12-15T09:07:00Z
+    webUrl: "https://www.computerweekly.com/news/366563318/Police-defend-facial-recognition-target-selection-to-Lords"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 19
 
 secured: "nUAvVaHsQHfwCtm0DwbIYKlWIAeaHPo43d8z07oTCwC3xZxtxz/eGwgd2SamzrtFJ+3XRlurxjBkCWpeqLaCQEP2eLKP5HS1ql9attBEkUPDKDBMubqev5NRT2bqbWxaxFpVc8/e/suGuDC16z9jIdDf033v4Hwnhp6+aZaFLJN9TsAOUOiUaZKZEhIAwpvQlaCLODMReqHqanSt246aEJHt7tpdXI/yx/9dIlbBY99XGVzkR0YUkT/lpFacrfQnxaM+/VelnTI3SW+wmTY92lAe8X5p35pCCa+nj3vpVqmc/Zd/xLtFQqXePNhsrB8cR8Lv9avAcl3P5hWJwu+nIkKuVCYUONro5NfhNX68mV4=;uSNDEduwdlNLrUDGkAgUJQ=="
 ---

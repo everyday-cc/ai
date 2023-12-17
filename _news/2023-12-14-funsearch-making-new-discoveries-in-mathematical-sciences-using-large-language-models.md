@@ -7,7 +7,7 @@ originalUrl: "https://deepmind.google/discover/blog/funsearch-making-new-discove
 webUrl: "https://deepmind.google/discover/blog/funsearch-making-new-discoveries-in-mathematical-sciences-using-large-language-models/"
 type: article
 quality: 66
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Revolutionizing Enterprise Search: Harnessing Generative AI for Enhanced Data Discovery"
-    excerpt: "The realm of enterprise search is undergoing a transformative shift, propelled by the integration of Generative AI. This cutting-edge technology is not"
-    publishedDateTime: 2023-12-12T17:14:00Z
-    webUrl: "https://innotechtoday.com/revolutionizing-enterprise-search-harnessing-generative-ai-for-enhanced-data-discovery/"
-    type: article
-    provider:
-      name: Innovation & Tech Today
-      domain: innotechtoday.com
-    quality: 31
-    images:
-      - url: "https://innotechtoday.com/wp-content/uploads/2023/12/pexels-google-deepmind-17485743-1.jpg"
-        width: 800
-        height: 500
-        isCached: true
   - title: "Agility is using large language models to communicate with its humanoid robots"
     excerpt: "Accordingly, a number of top universities, research labs and companies are exploring the best methods for leveraging these artificial intelligence platforms. Well-funded Oregon-based startup Agility has been playing around with the tech for a while now ..."
     publishedDateTime: 2023-12-14T19:46:00Z

@@ -434,6 +434,58 @@
       ]
     },
     {
+      "path": "_news/2023-12-13-google-debuts-imagen-2-with-text-and-logo-generation.md",
+      "title": "Google debuts Imagen 2 with text and logo generation",
+      "excerpt": "Called Imagen 2, Google’s enhanced model — which was quietly launched in preview at the tech giant’s I/O conference in May — was developed using technology from Google DeepMind ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/12/13/google-debuts-imagen-2-with-text-and-logo-generation/",
+      "originalUrl": "https://techcrunch.com/2023/12/13/google-debuts-imagen-2-with-text-and-logo-generation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-944347618.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/12/13/google-debuts-imagen-2-with-text-and-logo-generation/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/13/google-debuts-imagen-2-with-text-and-logo-generation/amp/",
+      "publishedDateTime": "2023-12-13T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-13-google-unveils-medlm-a-family-of-healthcare-focused-generative-ai-models.md",
       "title": "Google unveils MedLM, a family of healthcare-focused generative AI models",
       "excerpt": "AI in healthcare, historically, has been met with mixed success. Babylon Health, an AI startup backed by the U.K.’s National Health Service, has found itself under repeated scrutiny for making claims that its disease-diagnosing tech can perform better ...",
@@ -651,7 +703,7 @@
       "originalUrl": "https://en.antaranews.com/news/301002/indonesia-to-regulate-ai-balancing-innovation-and-ethics",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -796,7 +848,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/13/ai-in-healthcare-are-people-losing-or-gaining-control/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -1162,57 +1214,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-meta-begins-testing-a-gpt-4v-rival-multimodal-ai-in-ray-ban-smart-glasses.md",
-      "title": "Meta begins testing a GPT-4V rival multimodal AI in Ray Ban smart glasses",
-      "excerpt": "The new Meta multimodal AI is set to launch publicly in 2024, according to a video post on Instagram by CTO Andrew Bosworth.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/meta-begins-testing-a-gpt-4v-rival-multimodal-ai-in-ray-ban-smart-glasses/",
-      "originalUrl": "https://venturebeat.com/ai/meta-begins-testing-a-gpt-4v-rival-multimodal-ai-in-ray-ban-smart-glasses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/12/Screenshot-2023-12-12-at-5.51.14-PM.png?resize=648%2C1110&#038;strip=all",
-          "width": 648,
-          "height": 1110,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-13T06:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

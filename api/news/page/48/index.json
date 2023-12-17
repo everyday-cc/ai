@@ -2,6 +2,49 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2023-11-07-microstrategy-one-platform-now-available-in-aws-marketplace-empowering-businesses-with-ai-driven-business-intelligence.md",
+      "title": "MicroStrategy ONE™ Platform Now Available in AWS Marketplace, Empowering Businesses with AI-Driven Business Intelligence",
+      "excerpt": "By bringing together MicroStrategy's powerful generative artificial intelligence (AI) capabilities for business intelligence (BI) and the scalability and reliability of Amazon Web Services (AWS), customers can now access a ready solution for deploying ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/11/b35651432/microstrategy-one-platform-now-available-in-aws-marketplace-empowering-businesses-with-ai-driven-b",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/11/b35651432/microstrategy-one-platform-now-available-in-aws-marketplace-empowering-businesses-with-ai-driven-b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/35651432",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35651432",
+      "publishedDateTime": "2023-11-07T12:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-07-ai-and-workplace-communication-enhancing-collaboration-and-productivity.md",
       "title": "AI And Workplace Communication: Enhancing Collaboration And Productivity",
       "excerpt": "Taking place before our eyes, AI now informs nearly everything we do: what we read, how we write and the ways in which we communicate, collaborate and create.",
@@ -1118,49 +1161,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-07-the-uks-automated-vehicles-bill-what-you-need-to-know.md",
-      "title": "The UK's Automated Vehicles Bill: what you need to know",
-      "excerpt": "It will set out the legal framework for self-driving cars and it is becoming clear that car makers, not owners, will shoulder the legal responsibility for any crashes in the UK involving ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.carmagazine.co.uk/autonomous/are-self-driving-cars-legal-in-the-uk/",
-      "originalUrl": "https://www.carmagazine.co.uk/autonomous/are-self-driving-cars-legal-in-the-uk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://car-images.bauersecure.com/wp-images/151842/self-driving_car_uk.jpg",
-          "width": 1600,
-          "height": 1067,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-07T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CAR Magazine",
-        "domain": "carmagazine.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

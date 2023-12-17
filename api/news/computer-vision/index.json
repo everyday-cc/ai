@@ -2,19 +2,19 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-12-15-george-floyd-amazon-bans-police-use-of-facial-recognition-tech.md",
-      "title": "George Floyd: Amazon bans police use of facial recognition tech",
-      "excerpt": "Amazon said the suspension of law enforcement use of its Rekognition software was to give US lawmakers the opportunity to enact legislation to regulate how the technology is employed. \"We've ...",
+      "path": "_news/2023-12-17-amazon-facial-recognition-bias-claims-are-misleading.md",
+      "title": "Amazon: Facial recognition bias claims are 'misleading'",
+      "excerpt": "The study author, Joy Buolamwini, has spent years researching bias in algorithms and machine learning Amazon has defended its facial-recognition tool, Rekognition, against claims of racial and ...",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/business-52989128",
-      "originalUrl": "https://www.bbc.com/news/business-52989128",
+      "webUrl": "https://www.bbc.com/news/technology-47117299",
+      "originalUrl": "https://www.bbc.com/news/technology-47117299",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 116,
       "tags": null,
       "images": [
         {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/10C9C/production/_110246786_facialrecognition3.gif",
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/152D1/production/_105473768_gettyimages-495664582.jpg",
           "width": 1024,
           "height": 576,
           "title": null,
@@ -24,9 +24,9 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/business-52989128.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-52989128.amp",
-      "publishedDateTime": "2023-12-14T20:42:00Z",
+      "ampWebUrl": "https://www.bbc.com/news/technology-47117299.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-47117299.amp",
+      "publishedDateTime": "2023-12-16T16:31:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "BBC",
@@ -116,7 +116,7 @@
       "originalUrl": "https://e.vnexpress.net/news/news/crime/police-suggest-facial-recognition-cameras-to-discourage-bank-robbers-4688681.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -160,7 +160,7 @@
       "originalUrl": "https://www.kxan.com/news/local/hays/hays-county-approves-ai-facial-recognition-technology-for-sheriffs-office/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 152,
+      "heat": 182,
       "tags": null,
       "images": [
         {

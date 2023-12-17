@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/13/ai-in-heal
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/13/ai-in-healthcare-are-people-losing-or-gaining-control/amp/"
 type: article
 quality: 104
-heat: 184
+heat: 174
 published: true
 
 provider:
@@ -127,20 +127,6 @@ related:
       - url: "https://i.newscdn.net/publisher-c1a3f893382d2b2f8a9aa22a654d9c97/2023/12/0717e02267a9af17f64dd8e1368f74c1.png"
         width: 1000
         height: 600
-        isCached: true
-  - title: "Revolutionizing Healthcare: Exploring the AI Advancements Discussed at the Medicine Conference 2024"
-    excerpt: "Welcome to our blog, where we delve into the mind-blowing realm of healthcare revolution! Today, we transport you to the captivating world of Medicine Conference 2024, where groundbreaking advancements in artificial intelligence (AI) are pushing the limits of what is possible."
-    publishedDateTime: 2023-12-12T18:37:00Z
-    webUrl: "https://techbullion.com/revolutionizing-healthcare-exploring-the-ai-advancements-discussed-at-the-medicine-conference-2024/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 40
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/Healthcare.jpg"
-        width: 1000
-        height: 500
         isCached: true
 
 secured: "xJmpNYeHiySMPf1Rn0gB3PZiHrTI4ACazcVzvLwCEoqGoXg274LEVfPov9eES7kNTVuKZspRFXvY4ZnMoNebTQ2U2H5g7QqZ0mBEMsaX0lMxkGUb8pIM2IBayBG2HkckfR99beAteSNZDVJKsNICX0GMa/DbfDqS2OtPGlACWmN9rh69ajusJzTeG0UFngg4YJFqBYp/VUL/fCaI0S89YotoWB3gl7XaX8GTcjBolALWuWtoDGG+ZBoo9h/8FnfXPonXm9X3EoBbFjJE91/tXUF6DItKBoRI2MDjrnxeIyw103MB4VBGu9geVD3HM78ATI1rogOnSIRLoMQa+qBVSzTeLc0VaaejBsJjICTp1AY69kjl8TXEL2NTHlyGfY8vGk/bzLd09Ly3+EAjEg1zaOUOMc5T7gKaQOwDoA8/kTRYJFj9VYms3vfl2CnloSFCZYf+W8wIHDeoJSSaeZlt1SktJZYqAbXw2viMsRNkQkil8GXIy9Per0/NmDUENoj5boKIHRLw8rssHqxH7czwig==;Pj7Id/up2vwynw0d7M5CQA=="

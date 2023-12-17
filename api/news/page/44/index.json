@@ -2,6 +2,57 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2023-11-09-implementing-fhir-and-hl7-with-ibm-app-connect-and-ibm-cloud-pak-for-integration.md",
+      "title": "Implementing FHIR and HL7 with IBM® App Connect and IBM Cloud Pak® for Integration",
+      "excerpt": "Through tight integration between IBM App Connect and IBM API Connect, health IT providers can extend the reach of FHIR for multiple use cases.\nThe post Implementing FHIR and HL7 with IBM® App Connect and IBM Cloud Pak® for Integration appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/implementing-fhir-and-hl7-with-ibm-app-connect-and-ibm-cloud-pak-for-integration/",
+      "originalUrl": "https://www.ibm.com/blog/implementing-fhir-and-hl7-with-ibm-app-connect-and-ibm-cloud-pak-for-integration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/11/dji_0737sym.blog-lead-space-2x1-1.jpg",
+          "width": 1080,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-09T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-09-nvidia-plans-to-release-three-new-chips-for-china.md",
       "title": "Nvidia plans to release three new chips for China",
       "excerpt": "SHANGHAI (Reuters) - Nvidia (NVDA.O) is planning to release three new chips for China, local media reported on Thursday, weeks after the U.S. blocked it from selling two high-end artificial intelligence (AI) chips and one of its top gaming chips to Chinese firms.",
@@ -1063,49 +1114,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-09-vmware-enlists-intel-ibm-watsonx-for-private-ai-initiative.md",
-      "title": "VMware enlists Intel, IBM watsonx for private AI initiative",
-      "excerpt": "Credit: VMware VMware has two new corporate partners, in the form of Intel and IBM, for its private AI initiative. The partnerships will provide new architectures for users looking to keep their ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/1246095/vmware-enlists-intel-ibm-watsonx-for-private-ai-initiative.html",
-      "originalUrl": "https://www.networkworld.com/article/1246095/vmware-enlists-intel-ibm-watsonx-for-private-ai-initiative.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.networkworld.com/wp-content/uploads/2023/11/1-1-100940136-orig.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/1246095/vmware-enlists-intel-ibm-watsonx-for-private-ai-initiative.html/amp/",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1246095/vmware-enlists-intel-ibm-watsonx-for-private-ai-initiative.html/amp/",
-      "publishedDateTime": "2023-11-09T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

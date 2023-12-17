@@ -54,7 +54,12 @@ related:
     provider:
       name: Impacts
       domain: techbullion.com
-    quality: 9
+    quality: 31
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/AI.jpg"
+        width: 1000
+        height: 500
+        isCached: true
 
 secured: "QQzeXx5fd2rWrRwn8d3GbEtgVN/dsumQ5QC0SW7WUGtx+uUl1Pi/1H1RRJ8bLfOyF2j+I/DoBmo1GIH5QcT4aoQh6aw4mcHDPjmM0Nji817hC5Feh30/jfakTTni9sz1Pg6paozVFSX6HWQw5U7PX2Uph+uBqZCdLgXEkhqtkjBCW2THxmRq22OpsdLwkfir3S/Ajh+WrMdRfbHqwvA5Bw2tmRvZzZA4mTTYebt63VtiWdr062jLM0Kvwr655IjnktDlqFbQ9dGiyr8ocowCIKs9zYN5L2VlT8rRZ1ie3smgzq8sTu3a/qVvGikQjpwBjKM1UkAqXbZ8yBSZJFVzYlUahD2X197JUwQQnwv9ppD9YC8O68Q0xKezbYvGY8vw0bqDixenAlTNGYezYmHpdjm/bAgahaiPUYgw7cQpFXwCc1/J/jbpj9EDs1cPjRmA9Q4BXz3dXN3RPzDGHqytUbbBw+DxtAt8yk6ekTIe5C4Lc7AraE9ScvBpxxn7GG1aImCC7EcWnINEDqdSYRR2zA==;oh5xAgugI56OhVmNcNxgmQ=="
 ---

@@ -125,20 +125,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Revolutionizing Healthcare: Exploring the AI Advancements Discussed at the Medicine Conference 2024"
-    excerpt: "Welcome to our blog, where we delve into the mind-blowing realm of healthcare revolution! Today, we transport you to the captivating world of Medicine Conference 2024, where groundbreaking advancements in artificial intelligence (AI) are pushing the limits of what is possible."
-    publishedDateTime: 2023-12-12T18:37:00Z
-    webUrl: "https://techbullion.com/revolutionizing-healthcare-exploring-the-ai-advancements-discussed-at-the-medicine-conference-2024/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 40
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/Healthcare.jpg"
-        width: 1000
-        height: 500
-        isCached: true
 
 secured: "bnSBHP9GceQORrN7i/Wjx6wQq3OkC+dBWaZI8Dq7APTWMkbwzP9+8dEv3lOKilE8ApR50V/XYIJlt57sUyylYph0rUcMlYw9onhL7LMEcpHOVcghgIXnOdQO0uXiZTXebi7K1qVwTpXJyGP3kK88M8MxLchrRP78d8G1+b1OFCHQBNy7qHrc5UTXzb7sYIB8Q/hStYgsFsn6pKgONDRj2jIw5Z/rl+il+u5I+1c5Y0ZA7ErRv43esHBb/u/koMxPhRih14Ic6RdzQq00AcbtjZWjHTHd75jD96bS7Eu0h6eHguEy05SlZtBhpr8LU0LkqlDugxUe29G/dKvYDHzu/UKZWF+wS7qJg5ZuYPLy6gM=;UaStDt9CQDbZahT0HHDLCA=="
 ---

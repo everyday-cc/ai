@@ -9,7 +9,7 @@ ampWebUrl: "https://ampe.vnexpress.net/news/news/crime/police-suggest-facial-rec
 cdnAmpWebUrl: "https://ampe-vnexpress-net.cdn.ampproject.org/c/s/ampe.vnexpress.net/news/news/crime/police-suggest-facial-recognition-cameras-to-discourage-bank-robbers-4688681.html"
 type: article
 quality: 76
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -36,6 +36,15 @@ related:
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
+    quality: 19
+  - title: "Police defend facial recognition target selection to Lords"
+    excerpt: "Senior police officers confirm to Lords committee that facial recognition watchlist image selection is based on crime categories attached to people’s photos, rather than a context-specific assessment of the threat presented by a given individual."
+    publishedDateTime: 2023-12-15T09:07:00Z
+    webUrl: "https://www.computerweekly.com/news/366563318/Police-defend-facial-recognition-target-selection-to-Lords"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
     quality: 19
   - title: "Panthers to add facial recognition at BofA Stadium"
     excerpt: "The Panthers and Verizon are adding facial recognition technology at Bank of America Stadium that will allow football fans to get into games faster beginning this weekend."

@@ -495,25 +495,43 @@
     {
       "path": "_news/2023-11-30-aws-updates-bedrock-sagemaker-to-boost-generative-ai-offerings.md",
       "title": "AWS updates Bedrock, SageMaker to boost generative AI offerings",
-      "excerpt": "At its ongoing re:Invent 2023 conference, AWS unveiled several updates to its SageMaker, Bedrock and database services in order to boost its generative AI offerings. Taking to the stage on Wednesday, AWS vice president of data and AI, Swami Sivasubramanian ...",
+      "excerpt": "At its ongoing re:Invent 2023 conference, AWS unveiled several updates to its SageMaker, Bedrock and database services in order to boost its generative AI offerings. Taking to the stage on ...",
       "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/article/709628/aws-updates-bedrock-sagemaker-boost-generative-ai-offerings/",
-      "originalUrl": "https://www.reseller.co.nz/article/709628/aws-updates-bedrock-sagemaker-boost-generative-ai-offerings/",
+      "webUrl": "https://www.infoworld.com/article/3711463/aws-updates-bedrock-sagemaker-to-boost-generative-ai-offerings.html",
+      "originalUrl": "https://www.infoworld.com/article/3711463/aws-updates-bedrock-sagemaker-to-boost-generative-ai-offerings.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/11/aws-swami-sivasubramanian-100948807-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-30T08:46:00Z",
+      "ampWebUrl": "https://www.infoworld.com/article/3711463/aws-updates-bedrock-sagemaker-to-boost-generative-ai-offerings.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711463/aws-updates-bedrock-sagemaker-to-boost-generative-ai-offerings.amp.html",
+      "publishedDateTime": "2023-11-30T12:25:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

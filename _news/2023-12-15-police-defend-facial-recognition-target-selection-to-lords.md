@@ -19,50 +19,40 @@ topics:
   - AI
 
 related:
-  - title: "George Floyd: Amazon bans police use of facial recognition tech"
-    excerpt: "Amazon said the suspension of law enforcement use of its Rekognition software was to give US lawmakers the opportunity to enact legislation to regulate how the technology is employed. \"We've ..."
-    publishedDateTime: 2023-12-14T20:42:00Z
-    webUrl: "https://www.bbc.com/news/business-52989128"
-    ampWebUrl: "https://www.bbc.com/news/business-52989128.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-52989128.amp"
+  - title: "Police suggest facial recognition cameras to discourage bank robbers"
+    excerpt: "The Ho Chi Minh City police want cameras installed at all banks to recognize the faces of visitors to dissuade robbers."
+    publishedDateTime: 2023-12-14T04:10:00Z
+    webUrl: "https://e.vnexpress.net/news/news/crime/police-suggest-facial-recognition-cameras-to-discourage-bank-robbers-4688681.html"
+    ampWebUrl: "https://ampe.vnexpress.net/news/news/crime/police-suggest-facial-recognition-cameras-to-discourage-bank-robbers-4688681.html"
+    cdnAmpWebUrl: "https://ampe-vnexpress-net.cdn.ampproject.org/c/s/ampe.vnexpress.net/news/news/crime/police-suggest-facial-recognition-cameras-to-discourage-bank-robbers-4688681.html"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 91
+      name: VN Express
+      domain: vnexpress.net
+    quality: 76
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/10C9C/production/_110246786_facialrecognition3.gif"
-        width: 1024
-        height: 576
+      - url: "https://i1-english.vnecdn.net/2023/12/14/cuopnhabang87521702466662-1702-4245-4536-1702525268.jpg?w=680&h=0&q=100&dpr=2&fit=crop&s=knhmU4L2iVJgPR4VjsUEwg"
+        width: 1193
+        height: 716
         isCached: true
-  - title: "Draft Law On Facial Recognition Technology To Be Published"
-    excerpt: "This new facial recognition technology or FRT would mean they can use biometric identification to search footage which would significantly speed up investigations. Following the D"
-    publishedDateTime: 2023-12-14T18:35:00Z
-    webUrl: "https://www.98fm.com/news/draft-law-on-facial-recognition-technology-to-be-published-1624002"
+  - title: "Smart cameras’ built-in capacity makes for facial recognition fit"
+    excerpt: "Aside from facial recognition, smart cameras are also used for object detection, motion detection, audio detection, remote monitoring, analytics and insights."
+    publishedDateTime: 2023-12-12T19:34:00Z
+    webUrl: "https://www.biometricupdate.com/202312/smart-cameras-built-in-capacity-makes-for-facial-recognition-fit"
     type: article
     provider:
-      name: Dublin's 98FM
-      domain: 98fm.com
-    quality: 39
-    images:
-      - url: "https://media.radiocms.net/uploads/2020/10/supervision-1674614_1920.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
-  - title: "McEntee receives Cabinet approval for draft legislation for facial recognition technology"
-    excerpt: "The legislation will allow An Garda Síochána to use biometric identification to retrospectively search CCTV in some circumstances."
-    publishedDateTime: 2023-12-14T00:10:00Z
-    webUrl: "https://www.thejournal.ie/cabinet-approves-draft-legislation-facial-recognition-technology-6248686-Dec2023/"
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 19
+  - title: "Panthers to add facial recognition at BofA Stadium"
+    excerpt: "The Panthers and Verizon are adding facial recognition technology at Bank of America Stadium that will allow football fans to get into games faster beginning this weekend."
+    publishedDateTime: 2023-12-15T20:02:00Z
+    webUrl: "https://www.sportsbusinessjournal.com/Articles/2023/12/15/carolina-panthers-facial-recognition-bank-of-america-stadium.aspx"
     type: article
     provider:
-      name: TheJournal.ie
-      domain: thejournal.ie
-    quality: 30
-    images:
-      - url: "https://img2.thejournal.ie/article/6248686/river/?height=400&version=6248713"
-        width: 613
-        height: 400
-        isCached: true
+      name: Sports Business Journal
+      domain: sportsbusinessjournal.com
+    quality: 19
 
 secured: "d9U2uJHDDqk+gl8qrKzTOGo0SCm/m62rtD2fXD8Wd6pJyaARQ9HUGZVSmgNDWsiMoeWxJqz8MVfXXi774BzbmRVNWTAqZ7sujf81J++P4uaA9AezXvpZEXqyeTYRavNLgYmxvcGstiB1TUEnpCeEfzw/62aaawG3+7NefV+uloZvKrNoN5HYsErB3Rhv4cpQrZOTOZuU7n/Qxm5FmpiOS4064FOX03L80N+oDPzPHo3VNAs4dypB4ef8BVEUuBuKJgTXLdGXGwDq2krP2flfZJpWcf9av4pfg4OL42RTAWZOX8WnmIHib9EGUH8ACYgnRO9VYV+0Q3GtNZj3WPlwyi/snFJk4AOnI1RCpDoKxcSox7BgKUfkradq/Fqcrl0WKVD9NhWLCHxJcfRfvBOiRfy8iE9EbQ/ie3YTgJl4jiwuJu/Gobm1uKDqDMcb5JUQ3ipnsGtwHKkUs3lCid2qGjMZtpjUtanICNfdhsBZvEpB462Bk0DfIRukkpkytk+1FUKr00aVUR2CFVQk9z2wQQ==;1HVec5vKjJqiLE6HXMaEPQ=="
 ---

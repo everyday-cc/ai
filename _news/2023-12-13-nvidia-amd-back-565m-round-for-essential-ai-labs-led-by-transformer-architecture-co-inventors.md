@@ -24,17 +24,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "Nvidia, AMD back $56.5M round for AI startup led by Transformer architecture co-inventors"
-    excerpt: "Essential AI Labs Inc., a startup led by two co-inventors of the Transformer neural network architecture, today announced that it has raised $56.5 million from a group of prominent backers. March Capital led the Series A investment with contributions from ..."
-    publishedDateTime: 2023-12-12T18:42:00Z
-    webUrl: "https://siliconangle.com/2023/12/12/nvidia-amd-back-56-5m-round-ai-startup-led-transformer-architecture-co-inventors/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 8
-
 secured: "HumZW3yvJZeuqFFFbTlKhK7dNfgy32vi+hiKZS9ObPsg3ZCmW+cQW5az94TS8fjJWYEoNU9n7jK40FRd1QRJFRzy6cCzQH8By1kvK1XI8ExTLwwi2yQ0wY/hS/4KktUbkEjfILZMGWol4KGM6EgoSxxFn6ICx0pqijZsQw3Z9VEDHWrODRu10os+z4lf4FKkNm/eT0nqOmMj9Ygq26+0+O+DWa4ChRFmCqU3ghs1xpdLp+9/L765OFeuMuq58wShpbJzia9PnqnF5nLBoMzprRVOfFOkxm82XvGKwxaCh7cgy11rMgj/094euAesfR+unsYody4QWSgUoxeMnKAdzHehIZ1xXVoML1i9qow0I4Y=;F+EW1CDo7D0BZAe1BO9ClQ=="
 ---
 

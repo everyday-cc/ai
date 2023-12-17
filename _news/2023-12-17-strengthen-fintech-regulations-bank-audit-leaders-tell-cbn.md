@@ -9,7 +9,7 @@ ampWebUrl: "https://punchng.com/strengthen-fintech-regulations-bank-audit-leader
 cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/strengthen-fintech-regulations-bank-audit-leaders-tell-cbn/?amp"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://fintechnews.sg/wp-content/uploads/2023/12/Finastra-Leaders-Predict-2024-Fintech-Trends-Amidst-Global-Challenges.jpg"
         width: 1024
         height: 567
-        isCached: true
-  - title: "Innovating FinTech: The Importance of Custom Software Solutions"
-    excerpt: "Custom financial software development is increasingly becoming a key driver of innovation in the FinTech sector. This trend is not just about the creation of new applications and platforms, but also about the transformation of traditional financial services,"
-    publishedDateTime: 2023-12-12T17:21:00Z
-    webUrl: "https://techbullion.com/innovating-fintech-the-importance-of-custom-software-solutions/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 24
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/unnamed-68.jpg"
-        width: 512
-        height: 342
         isCached: true
   - title: "Quasar Markets Partners With Dragon List Global To Revolutionize Fintech Research"
     excerpt: "Quasar Markets Partners with Dragon List Global to Revolutionize FinTech Research This partnership aims to enhance financial research and market ins"

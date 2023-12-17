@@ -104,6 +104,20 @@ related:
         width: 1920
         height: 1198
         isCached: true
+  - title: "Draft Law On Facial Recognition Technology To Be Published"
+    excerpt: "This new facial recognition technology or FRT would mean they can use biometric identification to search footage which would significantly speed up investigations. Following the D"
+    publishedDateTime: 2023-12-14T18:35:00Z
+    webUrl: "https://www.98fm.com/news/draft-law-on-facial-recognition-technology-to-be-published-1624002"
+    type: article
+    provider:
+      name: Dublin's 98FM
+      domain: 98fm.com
+    quality: 39
+    images:
+      - url: "https://media.radiocms.net/uploads/2020/10/supervision-1674614_1920.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Irish Cabinet approves draft police facial recognition bill"
     excerpt: "Minister of Justice Helen McEntee has received approval to publish the draft of the Garda Síochána (Recording Devices) (Amendment) Bill of 2023."
     publishedDateTime: 2023-12-14T23:07:00Z
@@ -118,6 +132,29 @@ related:
         width: 2048
         height: 1360
         isCached: true
+  - title: "McEntee receives Cabinet approval for draft legislation for facial recognition technology"
+    excerpt: "The legislation will allow An Garda Síochána to use biometric identification to retrospectively search CCTV in some circumstances."
+    publishedDateTime: 2023-12-14T00:10:00Z
+    webUrl: "https://www.thejournal.ie/cabinet-approves-draft-legislation-facial-recognition-technology-6248686-Dec2023/"
+    type: article
+    provider:
+      name: TheJournal.ie
+      domain: thejournal.ie
+    quality: 30
+    images:
+      - url: "https://img2.thejournal.ie/article/6248686/river/?height=400&version=6248713"
+        width: 613
+        height: 400
+        isCached: true
+  - title: "Using AI-related technologies can significantly enhance human cognition, finds new study"
+    excerpt: "Language professionals such as interpreters, translators and subtitlers should not fear artificial intelligence (AI), as training in new forms of real-time human-AI interaction (HAII) can increase their working memory and task-switching abilities, according to new research from the University of Surrey’s Centre for Translation Studies (CTS) and the"
+    publishedDateTime: 2023-12-17T17:19:00Z
+    webUrl: "https://www.surrey.ac.uk/news/using-ai-related-technologies-can-significantly-enhance-human-cognition-finds-new-study"
+    type: article
+    provider:
+      name: University of Surrey
+      domain: surrey.ac.uk
+    quality: 10
   - title: "Is Live Facial Recognition technology necessary and proportionate? Police forces defend scanning hundreds of thousands faces a year"
     excerpt: "South Wales Police and London’s Metropolitan Police Service argue that the safety benefits are outweighed by the privacy concerns."
     publishedDateTime: 2023-12-13T14:21:00Z

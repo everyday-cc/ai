@@ -6,7 +6,7 @@ publishedDateTime: 2023-12-17T13:25:00Z
 originalUrl: "https://techbullion.com/exploring-the-limitless-potential-applications-of-artificial-intelligence-in-todays-world/"
 webUrl: "https://techbullion.com/exploring-the-limitless-potential-applications-of-artificial-intelligence-in-todays-world/"
 type: article
-quality: 9
+quality: 31
 heat: -1
 published: false
 
@@ -17,6 +17,13 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
+
+images:
+  - url: "https://techbullion.com/wp-content/uploads/2023/12/AI.jpg"
+    width: 1000
+    height: 500
+    isCached: true
 
 related:
   - title: "The Potential Of Embodied AI"

@@ -65,6 +65,20 @@ related:
       name: inc42
       domain: inc42.com
     quality: 68
+  - title: "Revolutionizing Industries: How AI Apps are Transforming Healthcare, Finance, and More"
+    excerpt: "Welcome to the era of AI revolution! We stand witness to incredible technological innovations that are reshaping industries like never before. Among these groundbreaking advancements, artificial intelligence applications have emerged as the game-changers across numerous sectors."
+    publishedDateTime: 2023-12-17T16:56:00Z
+    webUrl: "https://techbullion.com/revolutionizing-industries-how-ai-apps-are-transforming-healthcare-finance-and-more/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 63
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/AI-App.jpg"
+        width: 1000
+        height: 500
+        isCached: true
   - title: "The Dawn Of AI Disruption: How 2024 Marks A New Era In Innovation"
     excerpt: "On the computing front, more advanced AI chips and dedicated hardware infrastructure will enable running sophisticated generative models at the edge - built for efficiency without compromising capability. This will exponentially expand smaller ..."
     publishedDateTime: 2023-12-14T14:46:00Z

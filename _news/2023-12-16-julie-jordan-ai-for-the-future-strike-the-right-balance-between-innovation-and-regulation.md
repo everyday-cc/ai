@@ -80,20 +80,6 @@ related:
         width: 1200
         height: 765
         isCached: true
-  - title: "European Union makes deal for artificial intelligence rules"
-    excerpt: "European Union officials have negotiated the world's first comprehensive set of artificial intelligence regulations. The landmark AI Act seeks to protect against such risks as misinformation and job automation."
-    publishedDateTime: 2023-12-12T18:15:00Z
-    webUrl: "https://www.cbsnews.com/video/european-union-makes-deal-for-artificial-intelligence-rules/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/12/12/713b095f-c029-4450-ad4c-e1fcee1b9f71/thumbnail/1200x630/f384c8103fe6c46d7be2f63f6671cd8e/cbsn-fusion-european-union-makes-deal-for-artificial-intelligence-rules-thumbnail-2521448-640x360.jpg?v=07160a3d82bc4d81e93fbc43cb05e8e7"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "YNgeARmjURPpKW4M7y+A+Z5/Pw4RkZ1HPcgE8JsK4Mdf180z8H4DErFjiiRj3+boFC+kNMkYG57qEIh60P+gogCzPc6ASGlY7ADrNqGY06Vk1yZY2zBHj9a9uWOIOZXDndEQa/lWzvUHib32U9mkac+MPUEUmo+ATxVIdT2xlSulbvSeUeeXV5nDfT1Myb0XPnkThTeAryR6ZFG5zmR2/xlYLNY/h2zb19S7tnUhe55A1IANKlIq7K8SS7eEdIUBdXqT6nvvbN7DisptMBvLrfW6eI+XTEZp8zWaGGdxNTDkCNdsdQEVEACQi+lHrB8AmGO59KNjzNenvcg+B+w7TI/namaxn1jLdT4+JKZqLN36TZafJHmn8ThrDiDyxDIZ+D9cZ7XglFesSYNLavhnYWgCUzqpaDfDK/dUMULrnrJ2dGodolcr2STOZuwHNkYX1MCZRuOKdVJ2QIW56/ZwPyGqtqzgyXz/H9jC7boZ1PrbxSV0SgzoWGFyE4lSLrGqyNXx31SPQEv5ldaML6swGw==;gdX6+/ucyuIzOmPW22ZwMQ=="
 ---

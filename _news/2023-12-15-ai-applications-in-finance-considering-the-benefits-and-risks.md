@@ -49,20 +49,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "Unlocking the Future of Finance: Top Trends in Financial Technology"
-    excerpt: "Welcome to the future of finance, where transactions are seamless, investments are automated, and banking is no longer confined to physical branches. The world of financial technology (fintech) has revolutionized how we manage our money,"
-    publishedDateTime: 2023-12-12T18:09:00Z
-    webUrl: "https://techbullion.com/unlocking-the-future-of-finance-top-trends-in-financial-technology/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 39
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/FinTech-2.jpg"
-        width: 1000
-        height: 500
-        isCached: true
 
 secured: "buS2vAsXvqHozQPeYPLlGnXrxtE/mN6VBgPvxKfBvHAZbNoqV8xXbpyJWWjt35MKMcT2susyaVxII4tbmTgdqq5Noxqf6Npc3wJ7ml37mBrATj7h50YmJLU0Iy9FVEwQKlXwijlbORMXek/lqQp/uM1K/bAe4Cd0rYYsaFHKSHJ+I8B1RKvktKOHIN0S/2CltF7Lnu6thCUitczHvbOWAqhGNQ+h0CghxfSG2kmI+9vWts4bOzqVg6mUtWSklRk0fKWBRAa9Mvg7G5BSvHzn+zWNZxurHA3KwnNheILUSC4tUkzRkP//Os7DYtZjbDh6LfOVyTNexNEU/v8wPRk1PjPV1ZktkntqD0+oQvKObzo=;5P5FAWQKaifzR1Sl6wNrsg=="
 ---
