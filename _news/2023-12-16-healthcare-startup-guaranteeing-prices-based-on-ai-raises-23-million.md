@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/debgordon/2023/12/15/healthcare-startup
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/debgordon/2023/12/15/healthcare-startup-guaranteeing-upfront-price-predictions-raises-23-million/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2023/12/Chalk-co-founders-Elliot-Marx-left-Andrew-Moreland-center-and-Marc-Freed-Finnegan-right.jpg"
         width: 1000
         height: 768
+        isCached: true
+  - title: "Virtuleap raises $2.5M to use VR and AI for brain health"
+    excerpt: "Virtuleap has raised $2.5 million to use virtual reality and AI to improve brain health in a product dubbed Enhance VR."
+    publishedDateTime: 2023-12-16T23:45:00Z
+    webUrl: "https://venturebeat.com/ai/virtuleap-raises-2-5m-to-use-vr-and-ai-for-brain-health/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/12/virtuleap-4.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Chinese AI Startup 01.AI Seeks $200 Million in Funding"
     excerpt: "Beijing-based artificial intelligence (AI) startup 01.AI is raising $200 million in a new funding round. This comes on the heels"

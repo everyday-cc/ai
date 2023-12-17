@@ -84,15 +84,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "Pension department Embraces Facial Recognition for Pensioner Verification: A Step Forward?"
-    excerpt: "Department of Pension & Pensioners Welfare (DoP&PW) is possibly one of the first departments in the government sector to have started using the latest ‘Face Recognition Technology’ for establishing Aadhaar-based identification of elderly pensioners to generate ‘Digital Life Certificate’,"
-    publishedDateTime: 2023-12-12T08:46:00Z
-    webUrl: "https://www.medianama.com/2023/12/223-pension-dept-facial-recognition-pensioner-verification/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 9
 
 secured: "koGuVMEGj8LRGQx4Os97doUEJDoWiZ+LL+nFpGlxNWEc37W0bQm7M7tl51qGMgYgr7ptw/4bbq6i261i/bAIfP0mlsJ2LrhPaGUHume9cuO8qSf/Pk6wQN0x1pcTW4k8tZ9eBVc0N+/MN0OHErBzfutrcuztLLJ5F7Cco8ZHxKkhzbUvMyiU85RSs/XsOL5nhSdNMdxtWp3gxYRtV06JM8WndOqW0VlxAU/MjiwGXoFsxHcqhiENvMQ7knn/eoAAeZEUXQKnWQx8rjv/rfZ+YWlHy2n59CthDfQkY5EDXsxhQq/eyTRj9qm9fX6LJ/zJhuTbcYIX1CKHgm16xQrYY8uE6DRjUHLNpccU8aRjGgg=;ogmzG2LBhRq8lFrcSeak5Q=="
 ---

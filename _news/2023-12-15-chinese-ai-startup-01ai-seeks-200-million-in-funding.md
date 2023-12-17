@@ -56,6 +56,20 @@ related:
         width: 1000
         height: 768
         isCached: true
+  - title: "Virtuleap raises $2.5M to use VR and AI for brain health"
+    excerpt: "Virtuleap has raised $2.5 million to use virtual reality and AI to improve brain health in a product dubbed Enhance VR."
+    publishedDateTime: 2023-12-16T23:45:00Z
+    webUrl: "https://venturebeat.com/ai/virtuleap-raises-2-5m-to-use-vr-and-ai-for-brain-health/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/12/virtuleap-4.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Mistral, a French AI Start-Up, Was Valued at $2 Billion in Funding Round"
     excerpt: "Mistral AI, the 22-people French start-up founded seven months ago by researchers from Google and Meta, raised $415 million (or 385 million euros) at a valuation of $2 billion. Investors include the Silicon Valley venture capital firms Andreessen Horowitz and Lightspeed Venture Partners."
     publishedDateTime: 2023-12-15T06:43:00Z

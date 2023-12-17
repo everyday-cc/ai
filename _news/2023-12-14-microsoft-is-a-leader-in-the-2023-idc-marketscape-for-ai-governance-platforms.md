@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/blog/microsoft-is-a-leader-in-th
 webUrl: "https://azure.microsoft.com/en-us/blog/microsoft-is-a-leader-in-the-2023-idc-marketscape-for-ai-governance-platforms/"
 type: article
 quality: 101
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 57
+  - title: "Microsoft Launches Robust AI 'Small Language Model' For Researchers"
+    excerpt: "Microsoft has released its newest compact“small language model” titled Phi-2 that continues to perform at par or better than"
+    publishedDateTime: 2023-12-17T08:09:00Z
+    webUrl: "https://menafn.com/1107609442/Microsoft-Launches-Robust-AI-Small-Language-Model-For-Researchers"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 56
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?195025"
+        width: 375
+        height: 250
+        isCached: true
   - title: "Microsoft is training AI to accelerate regulatory process for nuclear projects"
     excerpt: "Microsoft is reportedly eyeing nuclear power for its AI operations. Microsoft stock is currently up close to 60% versus year start."
     publishedDateTime: 2023-12-12T17:39:00Z

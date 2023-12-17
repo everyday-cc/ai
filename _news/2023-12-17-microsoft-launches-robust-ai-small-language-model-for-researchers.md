@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Dell, Microsoft, Lenovo Laptops to Soon Feature Intel’s New Chip with Built-in AI Capabilities"
-excerpt: "Intel, a leading technology company, announced Thursday that numerous personal computer manufacturers are utilizing their latest chip. This strategic move aims to entice consumers to upgrade their machines for the dawn"
-publishedDateTime: 2023-12-15T09:10:00Z
-originalUrl: "https://www.econotimes.com/Dell-Microsoft-Lenovo-Laptops-to-Soon-Feature-Intels-New-Chip-with-Built-in-AI-Capabilities-1668035"
-webUrl: "https://www.econotimes.com/Dell-Microsoft-Lenovo-Laptops-to-Soon-Feature-Intels-New-Chip-with-Built-in-AI-Capabilities-1668035"
+title: "Microsoft Launches Robust AI 'Small Language Model' For Researchers"
+excerpt: "Microsoft has released its newest compact“small language model” titled Phi-2 that continues to perform at par or better than"
+publishedDateTime: 2023-12-17T08:09:00Z
+originalUrl: "https://menafn.com/1107609442/Microsoft-Launches-Robust-AI-Small-Language-Model-For-Researchers"
+webUrl: "https://menafn.com/1107609442/Microsoft-Launches-Robust-AI-Small-Language-Model-For-Researchers"
 type: article
-quality: 59
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: EconoTimes
-  domain: econotimes.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
-  - AI Hardware
+  - Natural Language Processing
   - AI
   - Microsoft AI
 
 images:
-  - url: "https://f1.econotimes.com/2023/12/p6j30bp4cg_th_1024x0.jpeg"
-    width: 1024
-    height: 614
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?195025"
+    width: 375
+    height: 250
     isCached: true
 
 related:
@@ -40,6 +40,20 @@ related:
         width: 943
         height: 628
         isCached: true
+  - title: "Dell, Microsoft, Lenovo Laptops to Soon Feature Intel’s New Chip with Built-in AI Capabilities"
+    excerpt: "Intel, a leading technology company, announced Thursday that numerous personal computer manufacturers are utilizing their latest chip. This strategic move aims to entice consumers to upgrade their machines for the dawn"
+    publishedDateTime: 2023-12-15T09:10:00Z
+    webUrl: "https://www.econotimes.com/Dell-Microsoft-Lenovo-Laptops-to-Soon-Feature-Intels-New-Chip-with-Built-in-AI-Capabilities-1668035"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 59
+    images:
+      - url: "https://f1.econotimes.com/2023/12/p6j30bp4cg_th_1024x0.jpeg"
+        width: 1024
+        height: 614
+        isCached: true
   - title: "Microsoft releases Phi-2, a small language model AI that outperforms Llama 2, Mistral 7B"
     excerpt: "Microsoft researchers also noted in their blog post on the Phi-2 release that it outperforms Google's brand new Gemini Nano 2 model."
     publishedDateTime: 2023-12-12T18:01:00Z
@@ -49,20 +63,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 57
-  - title: "Microsoft Launches Robust AI 'Small Language Model' For Researchers"
-    excerpt: "Microsoft has released its newest compact“small language model” titled Phi-2 that continues to perform at par or better than"
-    publishedDateTime: 2023-12-17T08:09:00Z
-    webUrl: "https://menafn.com/1107609442/Microsoft-Launches-Robust-AI-Small-Language-Model-For-Researchers"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 56
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?195025"
-        width: 375
-        height: 250
-        isCached: true
   - title: "Microsoft is training AI to accelerate regulatory process for nuclear projects"
     excerpt: "Microsoft is reportedly eyeing nuclear power for its AI operations. Microsoft stock is currently up close to 60% versus year start."
     publishedDateTime: 2023-12-12T17:39:00Z
@@ -101,6 +101,6 @@ related:
       domain: indiatimes.com
     quality: 36
 
-secured: "+9UTGvm7M4pddNuMbw0IRdvBMePzYVz/YbPNyshxIyVPGDRl1J3uGkXN40OPw1aGmvus3yf/kQfosRNKZ4gR1BsiJHAz3ZSosDuS2qcKTVZgReCs90PmV3biGmy3J0Wn1KLc5FgHFUo1GRMbP5xtiso8teHaxnrUmX3xKgVfG1PF9cDzC/DzG8XNv7kXV2B3PW3mkkw45VcCpUtVYR0OChU/SkTeN7UzV5uvI7L2WXsFCs12sztu8S1uZrGDJAU18cuLZs3Nd1xPqBUtQIY/Tqr+hc466UjiJj+zb88Q2vADXjAnvRR2BEBt8VzgPN9vcm+HOlhXdU1RmhfN4xtLGbw+G877Xc38rQd1lygSZhDYYEybFfMq2dX3VZf/lQv6yFNebePcnqNTHho605OybkCI7oSoEpHrtcyywBVuGpIOgIURStR+kFCCWerrA4r3qlPri+txWn9Mz+9jGxHGOJfc+d0OiiqDZCgn6c9kJVhhhOFJiItNizuPWnc5WUr+LS0TWJk1KmQxh6mZnS1WGw==;kyHQn9xh8B5B4HFjBbAYBQ=="
+secured: "qTaw9K8DHoR8noWt9JmombB1mT/hbg9kURzmGZn+L/856BMyOLX4qTEXjbJh9O+THjBcAvD2Mng/x/lIvEDiE0pabt4pT/eF0RLOgN7KH1LM5aVLC+4OZkQmMYP2MDTPjm9uJEZv8yBG8mMOLFtjoYpQXStbkBII0W/puxQFbf7Q8WZTA2gj29mEDlr522BgC5/NesLeWYXwYxX9WEdRY2CvfP8WraSnhkaNueSiFsu7X2l9fjqwKEBjvDjeEOH67/BN2EKlD25YsrDqLl2Y2RanONmBfdFy3F4uzs0gxHJXgqbxiNQCFZPQcSE0Utwfa1XxN0IyTzpnxUfNqmoENoydxU+eHMjXDCqTRG0QlBE=;su+irOpeG8JX589EP1QpUQ=="
 ---
 

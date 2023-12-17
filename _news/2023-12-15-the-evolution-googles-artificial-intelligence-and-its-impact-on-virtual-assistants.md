@@ -80,15 +80,6 @@ related:
       name: Nanowerk
       domain: nanowerk.com
     quality: 21
-  - title: "Next-Level Elearning: AI Chatbot Revolutionizes Academic Communication and Learning Processes"
-    excerpt: "Language technology company Tilde has developed a unique AI chatbot Digne for enhancing the university course 'Civil Protection'."
-    publishedDateTime: 2023-12-12T08:40:00Z
-    webUrl: "https://slator.com/next-level-elearning-ai-chatbot-revolutionizes-academic-communication-learning-processes/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 8
 
 secured: "Z2teS6MGjvEGdqMLQuj/5G7n5+KNUsG5AoC0pgjJvsL43BEevCSYKc/Oa5iFfWUQx8J1Z/PKRL3MBkJA95xdjDJQcdKZmeQJe32K/JSIbBVtvNEE9CMLfwG6Jjebpy8eLpogid0vO3pjJ5y2JhSQpyul7ITBAO4pSVRfBCoAYf9FmVooZDiTUzQcg5p9a9qDi7MFQ/0Ye9aFwhTw5Y+/MlDORaFpOPSjtrokAO/B7M5rz32VYc8yNiEeV6JjYMhRte8dGxQjdYZ0TXGCKZiJW5oIp2AT2eqhb69gr+cgg1cNIyFBtOEWEZm3HPt0VZW1QanMHncJtuubT7jauRWoHu9HRXrSlzI801XfJ33P/LwaHTs1qSyycMNzZ/wZGHCNvvPSWg5+0QwXzXcrshdSiVAvxcy2kdQvQlENNll2YjcUaoDokM0HB6eBa0SHa6qRCzoiNDP2sCXKYBG9JVULLyk+2cfgHzY1q0FVa9aWnzjoeV6nAyJFZ54TWwhABKTv/Re8SvpGNeuVtAn2/16lZw==;rl+XSOETEoGztIiZOU2bFg=="
 ---

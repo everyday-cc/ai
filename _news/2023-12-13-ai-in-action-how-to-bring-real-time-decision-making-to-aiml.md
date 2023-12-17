@@ -88,15 +88,6 @@ related:
       name: Chalkbeat
       domain: chalkbeat.org
     quality: 31
-  - title: "Pension department Embraces Facial Recognition for Pensioner Verification: A Step Forward?"
-    excerpt: "Department of Pension & Pensioners Welfare (DoP&PW) is possibly one of the first departments in the government sector to have started using the latest ‘Face Recognition Technology’ for establishing Aadhaar-based identification of elderly pensioners to generate ‘Digital Life Certificate’,"
-    publishedDateTime: 2023-12-12T08:46:00Z
-    webUrl: "https://www.medianama.com/2023/12/223-pension-dept-facial-recognition-pensioner-verification/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 9
 
 secured: "eLWw/SdTJTwPFOUz2GzqHKmFG5TAFVVNr/3qUtYATGxOWf968Vx3aB2ERgo0uzqNVVALTEtL+0YHnUemj188Wjw3rub2JTnUb1klHFqIlZKoMA7iDlNOMIc5ZyVbwQv7fCqU+hgkFjLeQ8bdawU3he5gZn87yxRuc9MIi9lrtU9T41R93E26OcW5IyJpyjaN8orHaSKfgVa4OND1IXvgOouNumVtsu/sDCHETkghsremC4aC3+MFLLCxAWA1wWNKn4HYOdVovgcpuGqrN+ajpqEJwj65z9THIpyGpb5W5HMoizkuMC59Ug4q34N1I4ct6LdX+nPXbK3WfRVJMHarVUg0J6mRUsq1xW9QZqNiMoI=;aqC0Uv396K6Tre1ANwTWCQ=="
 ---

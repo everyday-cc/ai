@@ -9,7 +9,7 @@ ampWebUrl: "https://ampe.vnexpress.net/news/news/crime/police-suggest-facial-rec
 cdnAmpWebUrl: "https://ampe-vnexpress-net.cdn.ampproject.org/c/s/ampe.vnexpress.net/news/news/crime/police-suggest-facial-recognition-cameras-to-discourage-bank-robbers-4688681.html"
 type: article
 quality: 76
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Here's how the latest camera attacks are fooling facial recognition systems"
-    excerpt: "Beating facial recognition software requires a great level of sophistication, which has led to the invention of tactics designed to trick biometric and liveness detection tools — which are used to evaluate the user's physical presence behind the screen. This includes camera injection attacks."
-    publishedDateTime: 2023-12-12T07:42:00Z
-    webUrl: "https://www.theedgesingapore.com/digitaledge/focus/heres-how-latest-camera-attacks-are-fooling-facial-recognition-systems"
-    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/focus/heres-how-latest-camera-attacks-are-fooling-facial-recognition-systems"
-    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/focus/heres-how-latest-camera-attacks-are-fooling-facial-recognition-systems"
-    type: article
-    provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 37
   - title: "Smart cameras’ built-in capacity makes for facial recognition fit"
     excerpt: "Aside from facial recognition, smart cameras are also used for object detection, motion detection, audio detection, remote monitoring, analytics and insights."
     publishedDateTime: 2023-12-12T19:34:00Z

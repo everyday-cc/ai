@@ -1,22 +1,24 @@
 ---
 category: news
 title: "I can’t draw, but artificial intelligence could help me win this poster contest | Opinion"
-excerpt: "I’ve never started a column with a disclaimer before, but there’s a first time for everything, so here goes: I can’t draw. And the only thing I could ever paint was a house."
-publishedDateTime: 2023-12-16T12:33:00Z
-originalUrl: "https://www.newsobserver.com/opinion/article283114943.html"
-webUrl: "https://www.newsobserver.com/opinion/article283114943.html"
+excerpt: "As I write this, angry artists who spent hours conceiving, drawing and painting their entries this year are calling on Riverfest to ban AI-generated art from its future poster contests. To Riverfest, I say please don’t. With no artistic talent to speak of, and without AI, I wouldn’t stand a chance."
+publishedDateTime: 2023-12-16T10:33:00Z
+originalUrl: "https://www.sacbee.com/opinion/article283114943.html"
+webUrl: "https://www.sacbee.com/opinion/article283114943.html"
+ampWebUrl: "https://amp.sacbee.com/opinion/article283114943.html"
+cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/opinion/article283114943.html"
 type: article
-quality: 8
-heat: 8
+quality: 28
+heat: 28
 published: false
 
 provider:
-  name: Raleigh News & Observer
-  domain: newsobserver.com
+  name: Sacramento Bee
+  domain: sacbee.com
 
 topics:
   - AI
 
-secured: "3u42yEw3oB/KzPXC9SeVf7081BRBhWNa746ULDfVmgQSHS+mNsvPii+Pl33ygUnHPsz7nI+ISrXKDchUKjFt8Vk2WOdhgJCaesiws+rFgbXUZ4Id3tF3i+YLnRpDhQYph4ccMTcWAmlxfFKjvPICHJmHwNVDzzxu18YiiVAcS9rj49HABpAuPQmiPxSpZRkzJSNPIOM/F7DoM3uJaOETfJyUt+FZ1l9hvKXo6SbXYZ9bWmcGrAC9aENT47JYlfiK9GrW0kReNpSiCryxThrE5bwPmzxE0qQNw7U/N4rUf5Z5QMKQ9ofY5zwinC4IT9JH5b3STZtw4E7AcOYrWW5m/J1Wr2KHqHNfK96P/Ua4IgPCJ62N48n6bd4jnaiiePnuUYbbJEZKr/Mj1TZe2BdawQfqHluoVaa9Y7lPbP568YlgPerUWe2BGj+hrOAkwTy8uRKGizlWeSWAwIbWGn+5j/RO26YJuzpDS8nPQZhlc2qTwcB/bXC7LLgLkGZVtwSD1bz3+yuRKCHN5dDXM14mNA==;kkyKN+OcoWdUEtGwV0FkFA=="
+secured: "7MK1AxlaOzjkk8OLAT8Vb6qABKh8qa2oklGXC2lq3EY85uLCEuwfoGvmRrAIx2DCiw9WL1AKBt1xL2JDVSWTPrTJOj30iWvaJvNsjbPleHzzRJvstkUHQmKVKXgLK6a4/puxyW9zfXE8rifSNR1sy4yP2rGACCVPNp8xDPZD9NsfzfjskA+KxtUheXSEVEy/QSzrEwCqhZdRkS8OT0uUaIwN4WWltD9K4LE/JkUnYcSFo4rgEHX6b+BpxsJ3hltOrUuFFZHfVQ18AS26/P8vbVbwjv0N9F+1llIgfEHPTvC9WKYC6jgKynynqnklSvzJ3rbn4Ni7nmLDPYweWrTSWszXlPie8JWuBOuBWmxmDPVGFOd/2ZUZSbGCvQ0Hc05t2jwl1jIrJt1LBlp+1f5BMSKwU2PWc1tjxEYLqNow9ZATgzOGWhDXtx8hPyxFVQdHTprN43AQIInBBrHLK8Zs44nPZgZhPB8jEkzX0i6ewwLwg/27PYOdSdLnjPnMo5RXpIBs/1j5yXBYny4wq5dS4w==;v/cPYlBJpkbHSHwTfL54hA=="
 ---
 

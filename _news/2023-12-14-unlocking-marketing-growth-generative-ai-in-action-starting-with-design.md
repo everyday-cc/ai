@@ -105,6 +105,22 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "People are using artificial intelligence to create avatars of dead loved ones"
+    excerpt: "Companies like HereAfter AI and StoryFile are offering people the chance to record voice recordings and videos before they die so their family can still interact with them when they are gone"
+    publishedDateTime: 2023-12-17T08:00:00Z
+    webUrl: "https://www.mirror.co.uk/news/us-news/people-using-artificial-intelligence-create-31657680"
+    ampWebUrl: "https://www.mirror.co.uk/news/us-news/people-using-artificial-intelligence-create-31657680.amp"
+    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/us-news/people-using-artificial-intelligence-create-31657680.amp"
+    type: article
+    provider:
+      name: The Mirror
+      domain: mirror.co.uk
+    quality: 54
+    images:
+      - url: "https://i2-prod.mirror.co.uk/incoming/article31661253.ece/ALTERNATES/s1200/0_AI-robot-controlling-future-hologram-UI.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Powerful Learning With Artificial Intelligence For Educators"
     excerpt: "The rapidly evolving space of artificial intelligence (AI) requires school and district leaders to make sense of how emerging technology applications, including those that use generative AI (Gen AI), are being integrated into schools and districts across ..."
     publishedDateTime: 2023-12-13T00:00:00Z

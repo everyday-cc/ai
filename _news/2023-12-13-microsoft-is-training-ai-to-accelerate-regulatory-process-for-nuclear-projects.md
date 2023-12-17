@@ -63,6 +63,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 57
+  - title: "Microsoft Launches Robust AI 'Small Language Model' For Researchers"
+    excerpt: "Microsoft has released its newest compact“small language model” titled Phi-2 that continues to perform at par or better than"
+    publishedDateTime: 2023-12-17T08:09:00Z
+    webUrl: "https://menafn.com/1107609442/Microsoft-Launches-Robust-AI-Small-Language-Model-For-Researchers"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 56
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?195025"
+        width: 375
+        height: 250
+        isCached: true
   - title: "Microsoft’s Phi-2: a small AI model that competes with LLMs from Google, Meta"
     excerpt: "A compact AI model with outputs that rival those of LLMs from Meta and Google. That's the promise Microsoft is making with its newly announced Phi-2, a"
     publishedDateTime: 2023-12-13T11:31:00Z

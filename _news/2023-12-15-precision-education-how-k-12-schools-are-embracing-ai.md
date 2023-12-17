@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/neilsahota/2023/12/15/precision-educati
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/neilsahota/2023/12/15/precision-education-how-k-12-schools-are-embracing-ai/amp/"
 type: article
 quality: 104
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -88,15 +88,6 @@ related:
       name: Chalkbeat
       domain: chalkbeat.org
     quality: 31
-  - title: "Pension department Embraces Facial Recognition for Pensioner Verification: A Step Forward?"
-    excerpt: "Department of Pension & Pensioners Welfare (DoP&PW) is possibly one of the first departments in the government sector to have started using the latest ‘Face Recognition Technology’ for establishing Aadhaar-based identification of elderly pensioners to generate ‘Digital Life Certificate’,"
-    publishedDateTime: 2023-12-12T08:46:00Z
-    webUrl: "https://www.medianama.com/2023/12/223-pension-dept-facial-recognition-pensioner-verification/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 9
 
 secured: "MdjqpYBLFFgA9goJtXML/AJ/FEDFLAXaVTCRChPTaeRGjKHdpyZ+9GJZPWBTbO+NgoZ34vfrJoKqWY094uUGdSFnge82ic2K0y29EPcGzHsjH5xkajlYmwIugnuUUcayRVQcY3CWjyQV/tovkSvlKduDDclVOhcyAaJsZoWi9VJPk+UFHU22oNX3AUXB+1wLW29mIKT5xd2mgsscwwuOylE/n2+fHspmXhnUOniFnHvxGNwbUPi08Fwld4Ouk4JZTMFBhLF1Ymymf4ZBngeDTJctBeXoHwGzGurNRTKDFfMKzMDesQKuZQo60JYiuR+kvmN/Dss/r4/f+qg4ThV97Y7aEvvRV0WOai59q/hn7SeBuo69qTLGb38bhohK3+swcB9UkVWgauH2oS++mk5969fAshj4pJk6ELbQBCC1Q0epTojfhyYsqcoMsnlHycCuisdcc6tmgktT+vKjkwXJ5at3wgWX81cxcEY9Ikp3uFqzQjTAAJFvL59DJAbNHsZlrMP+Y4HB4IZ8AoGEJ8l1TA==;UbKRM58ZRmnOexTCHV6rjw=="
 ---

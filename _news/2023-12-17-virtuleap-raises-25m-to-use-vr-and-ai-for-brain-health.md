@@ -1,29 +1,30 @@
 ---
 category: news
-title: "AI, Machine Learning Startup Chalk Raises $10 Million in Seed Funding"
-excerpt: "Artificial intelligence (AI) and machine learning (ML) startup Chalk has raised $10 million in a Seed round, according to a note from the firm. The funding"
-publishedDateTime: 2023-12-13T01:41:00Z
-originalUrl: "https://www.crowdfundinsider.com/2023/12/218043-ai-machine-learning-startup-chalk-raises-10-million-in-seed-funding/"
-webUrl: "https://www.crowdfundinsider.com/2023/12/218043-ai-machine-learning-startup-chalk-raises-10-million-in-seed-funding/"
-ampWebUrl: "https://www.crowdfundinsider.com/2023/12/218043-ai-machine-learning-startup-chalk-raises-10-million-in-seed-funding/amp/"
-cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/12/218043-ai-machine-learning-startup-chalk-raises-10-million-in-seed-funding/amp/"
+title: "Virtuleap raises $2.5M to use VR and AI for brain health"
+excerpt: "Virtuleap has raised $2.5 million to use virtual reality and AI to improve brain health in a product dubbed Enhance VR."
+publishedDateTime: 2023-12-16T23:45:00Z
+originalUrl: "https://venturebeat.com/ai/virtuleap-raises-2-5m-to-use-vr-and-ai-for-brain-health/"
+webUrl: "https://venturebeat.com/ai/virtuleap-raises-2-5m-to-use-vr-and-ai-for-brain-health/"
 type: article
-quality: 74
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: Crowdfund Insider
-  domain: crowdfundinsider.com
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Machine Learning
   - AI
 
 images:
-  - url: "https://www.crowdfundinsider.com/wp-content/uploads/2023/12/Chalk-co-founders-Elliot-Marx-left-Andrew-Moreland-center-and-Marc-Freed-Finnegan-right.jpg"
-    width: 1000
-    height: 768
+  - url: "https://venturebeat.com/wp-content/uploads/2023/12/virtuleap-4.jpg?w=1200&strip=all"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -43,19 +44,21 @@ related:
         width: 1392
         height: 900
         isCached: true
-  - title: "Virtuleap raises $2.5M to use VR and AI for brain health"
-    excerpt: "Virtuleap has raised $2.5 million to use virtual reality and AI to improve brain health in a product dubbed Enhance VR."
-    publishedDateTime: 2023-12-16T23:45:00Z
-    webUrl: "https://venturebeat.com/ai/virtuleap-raises-2-5m-to-use-vr-and-ai-for-brain-health/"
+  - title: "AI, Machine Learning Startup Chalk Raises $10 Million in Seed Funding"
+    excerpt: "Artificial intelligence (AI) and machine learning (ML) startup Chalk has raised $10 million in a Seed round, according to a note from the firm. The funding"
+    publishedDateTime: 2023-12-13T01:41:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/12/218043-ai-machine-learning-startup-chalk-raises-10-million-in-seed-funding/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/12/218043-ai-machine-learning-startup-chalk-raises-10-million-in-seed-funding/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/12/218043-ai-machine-learning-startup-chalk-raises-10-million-in-seed-funding/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 74
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/12/virtuleap-4.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2023/12/Chalk-co-founders-Elliot-Marx-left-Andrew-Moreland-center-and-Marc-Freed-Finnegan-right.jpg"
+        width: 1000
+        height: 768
         isCached: true
   - title: "Chinese AI Startup 01.AI Seeks $200 Million in Funding"
     excerpt: "Beijing-based artificial intelligence (AI) startup 01.AI is raising $200 million in a new funding round. This comes on the heels"
@@ -86,6 +89,6 @@ related:
         height: 399
         isCached: true
 
-secured: "eHsDa49tTynECAydkHBAxPkor+KLlpYiPyrkzG9w99FnVPSKAogsLgz5v6G7YDPB1ni4Optt9tus4tj6l7GnDipbuCwmAM6iyPt2lEh/PWjOiKqG8OiUv49/XEtPnqakS8lT/bQX7nLeVm/kG61HVI3SDs3zdhBbB/5+ji/8Kj43FNZhBiQ3ga8WVvY/2h7ITcXO3wiL82EH1D6vWLXJfFalvxriI+hlhqlhMsobD3esHM+k0b9FjGrfSOuuyZf5Ez/CAN662yeA5B//8sEmksf+bYZC5kh83fnsJpMRVCutoIg68lDzR2gLh9wRGHvgaRD9PAjWP0C/sBCnh21ASQpslVCCG+HzF928fsjlgbkFO+K7CaHl8T9tIiicjHc1bzhTSXErLrHm8uxa+CwYHv1Mife+pm5QJXGwDHZ/2k2gbIBmHkkGm1lfhsoyVGDx29bUqYFLALgNw3lXD2zoOgxhP/cOJtjzKYuM4JjdQtmzUCmx6w4cOiVcdXV3FO4hF2u2fhhTDs2KAnwYIFh2eQ==;JP/Vb6ZAUyzG64foiCERiA=="
+secured: "fylEiuo0RLz2zlwvS8Gm6A0XAOS6TG7vwYtGjmXC63ZwIaqlhkX3aELtP1auXcspBJpHu9+qxaV4f535crVuhfFyT0zVrbNL3ZTrNFkdKV+hYcgtuG3cTV09wytCc/SlzV8hU4VAw/5N7xA8gCyx49lc0dHsCfS9B+eeBBru7I6JasiF+fm+4U78D5og4zNDjbXWv9ck89+KfoKhbQsqjhVqEpMXLUIV00J5rD4vCcgSFkDjuHNgd/GeC3sM6hvzKxd1s2Cdlu6A3fMNvGuZ3pDO4dYvb1EJLb9Ic0bzUs+q5SwAQjE6xUxqucpLWQPBA3Kf65tqWZpRfeLmJ/215zssLrlY2n71S0L8gvZp7oU=;emTabew2dr8PrWNxT4oKhg=="
 ---
 

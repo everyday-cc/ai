@@ -35,17 +35,6 @@ related:
         width: 1193
         height: 716
         isCached: true
-  - title: "Here's how the latest camera attacks are fooling facial recognition systems"
-    excerpt: "Beating facial recognition software requires a great level of sophistication, which has led to the invention of tactics designed to trick biometric and liveness detection tools — which are used to evaluate the user's physical presence behind the screen. This includes camera injection attacks."
-    publishedDateTime: 2023-12-12T07:42:00Z
-    webUrl: "https://www.theedgesingapore.com/digitaledge/focus/heres-how-latest-camera-attacks-are-fooling-facial-recognition-systems"
-    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/focus/heres-how-latest-camera-attacks-are-fooling-facial-recognition-systems"
-    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/focus/heres-how-latest-camera-attacks-are-fooling-facial-recognition-systems"
-    type: article
-    provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 37
   - title: "Panthers to add facial recognition at BofA Stadium"
     excerpt: "The Panthers and Verizon are adding facial recognition technology at Bank of America Stadium that will allow football fans to get into games faster beginning this weekend."
     publishedDateTime: 2023-12-15T20:02:00Z

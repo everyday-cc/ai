@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thesun.co.uk/tech/25020217/artificial-intelligence-human
 cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/25020217/artificial-intelligence-human-brain-cells-biocomputer/amp/"
 type: article
 quality: 51
-heat: -1
+heat: 61
 published: false
 
 provider:
@@ -27,29 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "A Ball of Brain Cells on a Chip Can Learn Simple Speech Recognition and Math"
-    excerpt: "Just a first step, Brainoware paves the way for increasingly sophisticated hybrid biocomputers that could lower energy costs and speed up computation."
-    publishedDateTime: 2023-12-14T20:02:00Z
-    webUrl: "https://singularityhub.com/2023/12/14/a-ball-of-brain-cells-on-a-chip-can-learn-simple-speech-recognition-and-math/"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 65
-  - title: "Computers with Brains? Brain Tissue on a Chip Achieves Voice Recognition"
-    excerpt: "Reportedly, after a brief training period, Brainoware was able to distinguish between the voices of eight subjects with an accuracy rate of 78%. It was also able to successfully predict a Henon map (a mathematical construct) with greater accuracy than an artificial network."
-    publishedDateTime: 2023-12-15T08:00:00Z
-    webUrl: "https://i-hls.com/archives/122076"
-    type: article
-    provider:
-      name: AUS&R
-      domain: i-hls.com
-    quality: 55
-    images:
-      - url: "https://i-hls.com/wp-content/uploads/2017/09/brain-1845944_960_720.jpg"
-        width: 952
-        height: 720
-        isCached: true
   - title: "Scientists Made AI Out Of Living Human Brain Cells That Can Recognize Speech"
     excerpt: "Scientists have once again voluntarily moved us a step closer to meeting our new robot overlords thanks to some new advances in artificial i"
     publishedDateTime: 2023-12-13T13:47:00Z
