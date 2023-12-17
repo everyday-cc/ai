@@ -6,8 +6,8 @@ publishedDateTime: 2023-12-13T17:20:00Z
 originalUrl: "https://www.aol.com/artificial-intelligence-tech-detects-weapons-222033796.html"
 webUrl: "https://www.aol.com/artificial-intelligence-tech-detects-weapons-222033796.html"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://media.zenfs.com/en/aol_newsy_441/f58731ab86d8c2d2bbe377df7bc5d05b"

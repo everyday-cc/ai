@@ -59,22 +59,6 @@ related:
         width: 1092
         height: 728
         isCached: true
-  - title: "Three Trends Shaping The Future Of Cloud Migration"
-    excerpt: "Chetan Mathur is CEO of Next Pathway, the Automated Cloud Migration company."
-    publishedDateTime: 2023-12-12T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/three-trends-shaping-the-future-of-cloud-migration/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/three-trends-shaping-the-future-of-cloud-migration/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/12/three-trends-shaping-the-future-of-cloud-migration/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6553ad0f467501899dcb06a5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1351
-        height: 900
-        isCached: true
   - title: "Google’s AI Isn’t a Gimmick, It’s the Future | AI Unlocked"
     excerpt: "Gizmodo chats with Google Bard’s product leader about what Google’s AI is currently capable of producing through text responses."
     publishedDateTime: 2023-12-13T17:26:00Z

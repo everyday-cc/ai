@@ -50,22 +50,6 @@ related:
         width: 1092
         height: 728
         isCached: true
-  - title: "Three Trends Shaping The Future Of Cloud Migration"
-    excerpt: "Chetan Mathur is CEO of Next Pathway, the Automated Cloud Migration company."
-    publishedDateTime: 2023-12-12T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/three-trends-shaping-the-future-of-cloud-migration/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/three-trends-shaping-the-future-of-cloud-migration/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/12/three-trends-shaping-the-future-of-cloud-migration/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6553ad0f467501899dcb06a5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1351
-        height: 900
-        isCached: true
   - title: "The future with Artificial Intelligence: AI-ming for enhanced travel experience"
     excerpt: "In astonishingly little time, Artificial Intelligence has swept through the travel industry and significantly transformed it by improving processes up and down the chain. Indications are it is going to get all the more ubiquitous."
     publishedDateTime: 2023-12-14T09:56:00Z

@@ -491,6 +491,49 @@
       ]
     },
     {
+      "path": "_news/2023-12-07-superintendents-forum-artificial-intelligence-as-a-tool-for-learning.md",
+      "title": "Superintendents’ forum: Artificial intelligence as a tool for learning",
+      "excerpt": "Driverless cars? Who knows what the future will hold ... we take advantage of it. When we think of artificial intelligence, we tend to let our minds wander toward an Orwellian dystopia ruled by our robot overlords. History teaches us that new technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.readingeagle.com/2023/12/07/superintendents-forum-artificial-intelligence-as-a-tool-for-learning/",
+      "originalUrl": "https://www.readingeagle.com/2023/12/07/superintendents-forum-artificial-intelligence-as-a-tool-for-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.readingeagle.com/wp-content/uploads/migration/2020/10/0d600f7636eb67c8df3fb7b8bb21b103.jpg?w=1024&h=670",
+          "width": 1024,
+          "height": 1180,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.readingeagle.com/2023/12/07/superintendents-forum-artificial-intelligence-as-a-tool-for-learning/amp/",
+      "cdnAmpWebUrl": "https://www-readingeagle-com.cdn.ampproject.org/c/s/www.readingeagle.com/2023/12/07/superintendents-forum-artificial-intelligence-as-a-tool-for-learning/amp/",
+      "publishedDateTime": "2023-12-07T05:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reading Eagle",
+        "domain": "readingeagle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-07-which-hands-free-driving-system-is-best-this-test-aimed-to-find-out.md",
       "title": "Which hands-free driving system is best? This test aimed to find out",
       "excerpt": "Tesla Autopilot with Full Self-Driving Beta Tesla Motors’ AutoPilot has come in for criticism that its name implies more than what it delivers. But the latest Full Self-Driving Beta feature gets ...",
@@ -676,8 +719,8 @@
       "title": "Half of university students are scared their jobs will be under threat from AI",
       "excerpt": "Half of current students at university think their current and future jobs could be under threat from artificial intelligence (AI). New research from Kingston University looked at whether students are equipped for their futures in a rapidly changing workplace, particularly where technology is concerned.",
       "sourceUrl": null,
-      "webUrl": "https://metro.co.uk/2023/12/06/half-uni-students-scared-jobs-threat-ai-19904586/",
-      "originalUrl": "https://metro.co.uk/2023/12/06/half-uni-students-scared-jobs-threat-ai-19904586/",
+      "webUrl": "https://metro.co.uk/2023/12/06/half-uni-students-scared-jobs-threat-ai-19904586/?ico=mosaic_uk",
+      "originalUrl": "https://metro.co.uk/2023/12/06/half-uni-students-scared-jobs-threat-ai-19904586/?ico=mosaic_uk",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1306,50 +1349,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-04-artificial-intelligence-in-teaching-and-learning.md",
-      "title": "Artificial intelligence in teaching and learning",
-      "excerpt": "UD leads the conversation about AI in the context of teaching and learning with an interdisciplinary UD working group and other initiatives",
-      "sourceUrl": null,
-      "webUrl": "https://www.udel.edu/udaily/2023/december/artificial-intelligence-ai-teaching-learning/",
-      "originalUrl": "https://www.udel.edu/udaily/2023/december/artificial-intelligence-ai-teaching-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.udel.edu/content/dam/udelImages/udaily/2023/december/fb-ai-teaching-learning-working-group-800x420.jpg",
-          "width": 800,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T15:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "University of Delaware",
-        "domain": "udel.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

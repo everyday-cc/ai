@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/science/2023/dec/14/ai-scientists-make-e
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/science/2023/dec/14/ai-scientists-make-exciting-discovery-using-chatbots-to-solve-maths-problems"
 type: article
 quality: 85
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 1023
         height: 604
         isCached: true
-  - title: "Yellow.ai Announces Listing of its Generative AI-powered Voicebots and Chatbots on Zendesk Marketplace"
-    excerpt: "The listing will enable enterprises to deliver human-like experiences through Yellow.ai's Dynamic Automation Platform (DAP), leading to 60"
-    publishedDateTime: 2023-12-12T12:49:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/yellow-ai-announces-listing-of-its-generative-ai-powered-voicebots-and-chatbots-on-zendesk-marketplace-1032892800"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 33
 
 secured: "FgG7rPsFIWPLI+lx/KnK9+mGnX2j8Ww8QYSuqtsTGvu2/gkxzcMtPlEjnmjZrc9b2taEmJ+awPAQY/WvXHn3cdGtlwzkbTMlIsrSfdoRckx5VpYSa3EgmWjxPyXzkviwG4HY8pcr5eLy+Lto3u8LQb8XQ+RKVJXnR5w1CR82dFuhm21EMbxegnCuVCD9vJTxDOVoIGiSIYK7k1YTSKnKXh1SSKAnokadQT4pKY0/wq4BHvKGp5faP/Y2fE3uc06divljduRjCt8fcrWE6yNzEEEHXDm8b+//AtG3+uI8xKxjfbEFsnyDUp/qe7qjEK42mSDyVD2fsenHd2WIDpPrGRju5OtxCwk+PCEeObirfoF5TJx2dQNpDPynXeF3Ez0ApOfY8ODuqS224JXR2D5ocKXOIV6vi28GfmDzJuSJhHnHlAYIgE8JolkA0ocW58ZlX9iNS6XGFj60nO0hWfoPxM8x8vqxllJ0dB7W8S/ngKaRiOe8Pq760zUm0jhjyoLrGuVpLhkpibs1B7a35T1eZw==;zg0Y160Ik4lYLUCacOUX2w=="
 ---

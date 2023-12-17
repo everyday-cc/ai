@@ -2,6 +2,61 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2023-11-30-keras-30-deep-learning-api-backs-tensorflow-pytorch-jax.md",
+      "title": "Keras 3.0 deep learning API backs TensorFlow, PyTorch, Jax",
+      "excerpt": "Full rewrite of the deep neural network API supports Keras workflows on top of the three leading machine learning frameworks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3711374/keras-3-0-deep-learning-api-backs-tensorflow-pytorch-jax.html",
+      "originalUrl": "https://www.infoworld.com/article/3711374/keras-3-0-deep-learning-api-backs-tensorflow-pytorch-jax.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/09/12/05/shutterstock_1178406460-100945794-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3711374/keras-3-0-deep-learning-api-backs-tensorflow-pytorch-jax.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711374/keras-3-0-deep-learning-api-backs-tensorflow-pytorch-jax.amp.html",
+      "publishedDateTime": "2023-11-29T21:37:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI",
+        "Meta AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2023-11-30-artificial-intelligence-needs-open-source-models-to-reach-its-potential.md",
       "title": "Artificial Intelligence Needs Open-Source Models to Reach Its Potential",
       "excerpt": "Centuries of human progress might never have happened. It’s an imperfect analogy, but it offers a useful way to frame the current debate around artificial intelligence.",
@@ -1051,49 +1106,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-aws-announces-five-new-amazon-sagemaker-capabilities-for-scaling-with-models.md",
-      "title": "AWS Announces Five New Amazon SageMaker Capabilities for Scaling with Models",
-      "excerpt": "At AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced five new capabilities within Amazon SageMaker to help accelerate building ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eagletribune.com/region/aws-announces-five-new-amazon-sagemaker-capabilities-for-scaling-with-models/article_4aef86bd-59bd-5ef9-a15e-d287d6a57ea3.html",
-      "originalUrl": "https://www.eagletribune.com/region/aws-announces-five-new-amazon-sagemaker-capabilities-for-scaling-with-models/article_4aef86bd-59bd-5ef9-a15e-d287d6a57ea3.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333",
-          "width": 600,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-29T12:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Eagle-Tribune",
-        "domain": "eagletribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

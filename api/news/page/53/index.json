@@ -2,6 +2,40 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2023-10-31-aws-adds-new-code-generation-models-to-amazon-sagemaker-jumpstart.md",
+      "title": "AWS Adds New Code Generation Models to Amazon SageMaker JumpStart",
+      "excerpt": "Subscribe for free. Today, we are excited to announce Code Llama foundation models, developed by Meta, are available for customers through Amazon SageMaker JumpStart to deploy with one click for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2023/10/sagemaker-jumpstart-code/",
+      "originalUrl": "https://www.infoq.com/news/2023/10/sagemaker-jumpstart-code/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T15:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-31-romeo-miller-says-eminem-doesnt-get-the-recognition-he-deserves.md",
       "title": "Romeo Miller Says Eminem “Doesn’t Get The Recognition He Deserves”",
       "excerpt": "Romeo Miller recently received the Community Impact Award at the Future Stars Charity Gala, delivering a heartfelt speech connecting his success in entertainment to his success in sports. Real name Percy Miller first received a scholarship to hoop at USC,",
@@ -897,40 +931,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-speech-therapy-market-investment-opportunities-potential-growth-and-future-demand-2021-2031.md",
-      "title": "Speech Therapy Market : Investment Opportunities, Potential Growth, And Future Demand 2021-2031",
-      "excerpt": "Technological Innovations: The integration of advanced technologies, such as virtual reality (VR) and artificial intelligence (AI), has revolutionized speech therapy practices. Investors can capitalize on companies developing innovative software and ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1107339327/Speech-Therapy-Market-Investment-Opportunities-Potential-Growth-And-Future-Demand-2021-2031",
-      "originalUrl": "https://menafn.com/1107339327/Speech-Therapy-Market-Investment-Opportunities-Potential-Growth-And-Future-Demand-2021-2031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T02:48:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -1,29 +1,28 @@
 ---
 category: news
-title: "Microsoft launches robust AI 'small language model' for researchers"
-excerpt: "Microsoft has released its newest compact \"small language model\" titled Phi-2 that continues to perform at par or better than certain larger open-source Llama 2 models with less than 13 billion parameters."
-publishedDateTime: 2023-12-17T06:43:00Z
-originalUrl: "https://economictimes.indiatimes.com/tech/technology/microsoft-launches-robust-ai-small-language-model-for-researchers/articleshow/106059885.cms"
-webUrl: "https://economictimes.indiatimes.com/tech/technology/microsoft-launches-robust-ai-small-language-model-for-researchers/articleshow/106059885.cms"
-ampWebUrl: "https://m.economictimes.com/tech/technology/microsoft-launches-robust-ai-small-language-model-for-researchers/amp_articleshow/106059885.cms"
-cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/microsoft-launches-robust-ai-small-language-model-for-researchers/amp_articleshow/106059885.cms"
+title: "Microsoft Launches Robust AI 'Small Language Model' For Researchers"
+excerpt: "Microsoft has released its newest compact“small language model” titled Phi-2 that continues to perform at par or better than"
+publishedDateTime: 2023-12-17T08:09:00Z
+originalUrl: "https://menafn.com/1107609442/Microsoft-Launches-Robust-AI-Small-Language-Model-For-Researchers"
+webUrl: "https://menafn.com/1107609442/Microsoft-Launches-Robust-AI-Small-Language-Model-For-Researchers"
 type: article
-quality: 74
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: Indiatimes
-  domain: indiatimes.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
-  - Microsoft AI
+  - Natural Language Processing
   - AI
+  - Microsoft AI
 
 images:
-  - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-62402,msid-106059893/microsoft.jpg"
-    width: 600
-    height: 450
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?537922"
+    width: 419
+    height: 250
     isCached: true
 
 related:
@@ -102,6 +101,6 @@ related:
       domain: indiatimes.com
     quality: 36
 
-secured: "ggMgtKuIhR0C2+8vI1l7uoCEwHgDbUTYzn7U0v8d0Ksx79f0cRNXM04gOFySYMUseC6zn6HYYinhg08xZAr4FMLApi+fL1v9gXajZGommVRNWU/AO3K1Ha9AlnxE6IMhvilIRFHb/fH0Uu1km2xFgZW1uMehZhbxfm6iDToL7xQvU8NfiwWvc0DXBq9K7jqFzLcM+B83KoZz4whrkpGoZ8O13HOffmxik5XrwKMjpSinzevnu2ah5VtedUrHY1DUY5bP/kgL22cNcTOgEkPelRKEZ9Jd3Z4so5s+18qCo69+GNA8NwuHkEJQrYRtRBliIOZ+0F7uTSFHUhmD1YiEnT12T0tXIcspjaHCiceAn1Q=;xkShT4IcVDLWVxtsSUNG7w=="
+secured: "RWus1NUjIfVeBenRhjfW8RdghsUE8j6C5copTBArB9yVoYTjpx437v1WPIdx7d1reHSbzvNZ8k5BOb+zXpu7hNhFds/6dYPBHQHkbfpIikIfz44La7p+I6AFt/NNvPhWvvJpazskWb2/EpWTjLcdwbjDmAqZIsq76Symsl3PmeJawCNoYzlzxe5njNze+Ey6XFmkSJCkrl3eWTnRJ2g8qg9iFxJBepxSha8x3eqA1A61CWBTmS/ZnGr3Igb8Qt8IjGRqOfbBxV9MRjHIa/uiaCnPVM3xEhXJlZmaTH85msWp2HXVX/KRtz2ft1Ly0QkQ9wzX1t+QSItTPZ17k194PX8Iuhv/diehl2eEOmA7Yo4=;7R9gSUxtgm+qpPk/XFmgTw=="
 ---
 

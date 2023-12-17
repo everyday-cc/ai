@@ -226,6 +226,49 @@
       ]
     },
     {
+      "path": "_news/2023-12-07-superintendents-forum-artificial-intelligence-as-a-tool-for-learning.md",
+      "title": "Superintendents’ forum: Artificial intelligence as a tool for learning",
+      "excerpt": "Driverless cars? Who knows what the future will hold ... we take advantage of it. When we think of artificial intelligence, we tend to let our minds wander toward an Orwellian dystopia ruled by our robot overlords. History teaches us that new technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.readingeagle.com/2023/12/07/superintendents-forum-artificial-intelligence-as-a-tool-for-learning/",
+      "originalUrl": "https://www.readingeagle.com/2023/12/07/superintendents-forum-artificial-intelligence-as-a-tool-for-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.readingeagle.com/wp-content/uploads/migration/2020/10/0d600f7636eb67c8df3fb7b8bb21b103.jpg?w=1024&h=670",
+          "width": 1024,
+          "height": 1180,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.readingeagle.com/2023/12/07/superintendents-forum-artificial-intelligence-as-a-tool-for-learning/amp/",
+      "cdnAmpWebUrl": "https://www-readingeagle-com.cdn.ampproject.org/c/s/www.readingeagle.com/2023/12/07/superintendents-forum-artificial-intelligence-as-a-tool-for-learning/amp/",
+      "publishedDateTime": "2023-12-07T05:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reading Eagle",
+        "domain": "readingeagle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-07-ai-translation-is-causing-a-boom-in-chinas-web-novel-industry.md",
       "title": "AI Translation is Causing a Boom in China’s Web Novel Industry",
       "excerpt": "As technology continues to evolve, it's expected that AI will play an even more pivotal role in bridging the gap between different cultures",
@@ -1106,49 +1149,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-liquid-ai-a-new-mit-spinoff-wants-to-build-an-entirely-new-type-of-ai.md",
-      "title": "Liquid AI, a new MIT spinoff, wants to build an entirely new type of AI",
-      "excerpt": "An MIT spinoff co-founded by robotics luminary Daniela Rus aims to build general ... So what exactly does Liquid AI the startup hope to achieve with this powerful new(ish) architecture? Plain and simple, commercialization. One presumes work will continue ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/12/06/liquid-ai-a-new-mit-spinoff-wants-to-build-an-entirely-new-type-of-ai/",
-      "originalUrl": "https://techcrunch.com/2023/12/06/liquid-ai-a-new-mit-spinoff-wants-to-build-an-entirely-new-type-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-06T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -22,6 +22,7 @@ topics:
   - AI
   - Meta AI
   - AI in Robotics
+  - AI in Autos
 
 images:
   - url: "https://static01.nyt.com/images/2023/12/08/business/08ai-openai-02/08ai-openai-02-facebookJumbo.jpg"

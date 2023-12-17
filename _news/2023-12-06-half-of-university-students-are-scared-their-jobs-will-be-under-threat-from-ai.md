@@ -3,8 +3,8 @@ category: news
 title: "Half of university students are scared their jobs will be under threat from AI"
 excerpt: "Half of current students at university think their current and future jobs could be under threat from artificial intelligence (AI). New research from Kingston University looked at whether students are equipped for their futures in a rapidly changing workplace, particularly where technology is concerned."
 publishedDateTime: 2023-12-06T06:00:00Z
-originalUrl: "https://metro.co.uk/2023/12/06/half-uni-students-scared-jobs-threat-ai-19904586/"
-webUrl: "https://metro.co.uk/2023/12/06/half-uni-students-scared-jobs-threat-ai-19904586/"
+originalUrl: "https://metro.co.uk/2023/12/06/half-uni-students-scared-jobs-threat-ai-19904586/?ico=mosaic_uk"
+webUrl: "https://metro.co.uk/2023/12/06/half-uni-students-scared-jobs-threat-ai-19904586/?ico=mosaic_uk"
 ampWebUrl: "https://metro.co.uk/2023/12/06/half-uni-students-scared-jobs-threat-ai-19904586/amp/"
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/12/06/half-uni-students-scared-jobs-threat-ai-19904586/amp/"
 type: article
@@ -23,6 +23,6 @@ images:
     height: 399
     isCached: true
 
-secured: "0u09fr61NxPIiZ5Up/c51QwqE3xBrkvHc5hIVgKIFde7ZrSlj+eSV+hzJwejKx4j53uKbTxM5LyDZfsf+UIgbZtSJ4eKnmOAWZNkN6f6EgxItKrfR6VAHn1W91KQNyJHCUR3L67mGSolWZzcrO1JuRAKDT3DXYoOdE/FYcoQtow1tFxRngaR19RyFrd6Ru2e1H+1zuw2KOj7Ggj1+bQYG4vGdPOjEfnfOaZLXPq2xtBWPfqJpcvIxGdZJVFuSUJF+tXC/4/o++aNo7mqZgmIRtOmxcyqZOLUFygguGSZ4vJyXShbhVsZ/Xryz+i67VCnVet95LsdKqcnQ0TE60oQujUHpwcsOPTVdcuqLTRqnxo=;GlLeCH+0+lBv/XMc8NTOhg=="
+secured: "3TMaga+Spp9qVJCYRZr7D2J1B9+mP+XV2pfByTqLEc/rF48u4TcFsUpuxaUjFXK0NIt53vx3M3cakuaYKBOIrStZhxURyuGyDQmp4hqBNG764kCseY4SU3LFqxn8MKIWW+IA441+F7Xu9t7t7H4YuOyzkPwZTPOFjYUshk3IHMmuG9EvMrsB8zkft5Y5Vhvymja6ZhZwUmBk+3caoQTIN46chS5PP/ilMnlx3/D8AwphG034nzHg9LqzTQhVeFdzsuikC2TsoUtFWoTPXrqyjQ9GkleaASbrqTxrW1mvYuSFNr5Mq4aCoLop7ztJEC9nyQf62Kf3JaeeUc5h6dJV3FScLtSI4tSlqcbuXifHEZA=;HWrJetT5MkA8La851c4pXA=="
 ---
 

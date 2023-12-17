@@ -2,6 +2,41 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2023-11-30-first-switch-with-on-chip-neural-network.md",
+      "title": "First switch with on-chip neural network",
+      "excerpt": "Broadcom Inc. has introduced what it claims is the first switch with an on-chip, neural network inference engine. Called Trident 5-X12, the software-programmable switch uses the networking general-purpose neural-network traffic analyzer (NetGNT) to double bandwidth and reduce power by 25% compared to previous devices.",
+      "sourceUrl": null,
+      "webUrl": "https://electronics360.globalspec.com/article/20463/first-switch-with-on-chip-neural-network",
+      "originalUrl": "https://electronics360.globalspec.com/article/20463/first-switch-with-on-chip-neural-network",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-30T13:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "electronics360.globalspec",
+        "domain": "globalspec.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-11-30-deepminds-ai-has-found-more-new-materials-in-a-year-than-scientists-have-in-centuries.md",
       "title": "DeepMind’s AI has found more new materials in a year than scientists have in centuries",
       "excerpt": "Google DeepMind researchers have trained a deep learning model to predict the structure of over 2.2 million crystalline materials.",
@@ -1059,61 +1094,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-30-keras-30-deep-learning-api-backs-tensorflow-pytorch-jax.md",
-      "title": "Keras 3.0 deep learning API backs TensorFlow, PyTorch, Jax",
-      "excerpt": "Full rewrite of the deep neural network API supports Keras workflows on top of the three leading machine learning frameworks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3711374/keras-3-0-deep-learning-api-backs-tensorflow-pytorch-jax.html",
-      "originalUrl": "https://www.infoworld.com/article/3711374/keras-3-0-deep-learning-api-backs-tensorflow-pytorch-jax.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/09/12/05/shutterstock_1178406460-100945794-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3711374/keras-3-0-deep-learning-api-backs-tensorflow-pytorch-jax.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711374/keras-3-0-deep-learning-api-backs-tensorflow-pytorch-jax.amp.html",
-      "publishedDateTime": "2023-11-29T21:37:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI",
-        "Meta AI",
-        "TensorFlow"
       ]
     }
   ],

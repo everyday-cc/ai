@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/braintrust-data-wants-to-make-enterpris
 webUrl: "https://venturebeat.com/ai/braintrust-data-wants-to-make-enterprise-ai-better-with-faster-evaluations/"
 type: article
 quality: 65
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: VentureBeat
@@ -26,24 +26,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Truly open AI gets a boost from industry collaboration with enterprise implications"
-    excerpt: "Efforts to build open AI are getting a boost from the AI Alliance backed by IBM, Meta, Intel, NASA, the National Science Foundation, and fifty other organizations. This could spur research into smaller,"
-    publishedDateTime: 2023-12-12T11:38:00Z
-    webUrl: "https://diginomica.com/truly-open-ai-gets-boost-industry-collaboration-enterprise-implications"
-    ampWebUrl: "https://diginomica.com/truly-open-ai-gets-boost-industry-collaboration-enterprise-implications?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/truly-open-ai-gets-boost-industry-collaboration-enterprise-implications?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 53
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-12/ai-generated-8273256_640.jpg"
-        width: 640
-        height: 359
-        isCached: true
 
 secured: "QegSUgMapeHl883vVi/xRVy/dxGvdqhXpKFsUQd18mImUkX9/ewwKXez6cd88Upey41JvTQWs6t41sWBhSuEE8qjdW/31plpg347dobxKHkNFuph544Zk/JfWjNrO9oCMa5VYD99Xk/ICtx5rXdcj55aYhn0ZwYgx7oyZSqdjY4Gnaen5tpy0X6k3ZkwaJQZ2D7BlZ4wJySjQE7Ws1hLbzEIIp6/0ktO9V4N0+aQl+9FCqhDu2CNuRLPUewuolmUI4Yp9votb36w8nfomsV773G99RsPLhBcjnNDCE1KHR7nRG0LJX6Zr7i8O/K5sYgD9KvoBg+dB+34LGqIKelaE1n2uBkw3P3A4yJyrMZgtbQ=;ByBay5hNayJiWPm7Pzhwtw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://brobible.com/culture/article/ai-living-human-brain-cells-r
 webUrl: "https://brobible.com/culture/article/ai-living-human-brain-cells-recognize-speech/"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1600
     height: 900
     isCached: true
-
-related:
-  - title: "Artificial intelligence made from ‘clumps of human brain cells’ taught to recognize speech in world-first experiment"
-    excerpt: "CLUMPS of human brain cells connected to an electronic chip have successfully completed simple tasks including speech recognition. That’s according to researchers at Indiana University"
-    publishedDateTime: 2023-12-12T12:22:00Z
-    webUrl: "https://www.thesun.co.uk/tech/25020217/artificial-intelligence-human-brain-cells-biocomputer/"
-    ampWebUrl: "https://www.thesun.co.uk/tech/25020217/artificial-intelligence-human-brain-cells-biocomputer/amp/"
-    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/25020217/artificial-intelligence-human-brain-cells-biocomputer/amp/"
-    type: article
-    provider:
-      name: The Sun
-      domain: thesun.co.uk
-    quality: 51
-    images:
-      - url: "https://www.thesun.co.uk/wp-content/uploads/2023/12/AK_BRAIN_OP.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "WISBwQUFjsW7B4QiPJHIM8EcUl4fvxB70xHQgG6jjzzoK9KVsY6VxpNR/vTiOK9bO0KBHAkBV9d6UcmdAzwdhQr9e1ntwbj8JhYGL83XtRUXrWHpIecKoNsn+XTE2LIzqiSbRbJ2upt6Y7HkqbmpXECrlVoXJP4vVpn2XAOPoxbFADYvE4fxtw+A3D+uNlo9eIOiIW1oZUGVbB4NCbnNqWnspOpn2pxXUuZaXm3Fz6d2CmBwgWY2r7qxuFZIpUH4dYeBadzAaNguRd23ykB9+6gqqRodM1BKRWrBkM700P1ySuhcrpLCY6k9Tg76yVjn/bSuAr9chAQWaB5/BRgKmfhn1jE/DeQIJ1bc5SbXcIQQJcsu66uls3p0zZve3vdDOYnS+4QNhATxAfm6eqox4SYV0NWk6GWZimwnRqkgW31jBfR3fsmz/X1pp7JoPO84kfwP3BLdKIZHI+5Cb2BN35o+xb3BkEOhiEJrr7l76j6W5znpqVmoq06HyI2DMJrAvOw4xEOZr7VO0bmQwzRHGg==;kBA32qS7wV2DT1Z5vDmgWw=="
 ---

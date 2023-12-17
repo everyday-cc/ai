@@ -40,22 +40,6 @@ related:
         width: 943
         height: 628
         isCached: true
-  - title: "Microsoft launches robust AI 'small language model' for researchers"
-    excerpt: "Microsoft has released its newest compact \"small language model\" titled Phi-2 that continues to perform at par or better than certain larger open-source Llama 2 models with less than 13 billion parameters."
-    publishedDateTime: 2023-12-17T06:43:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/microsoft-launches-robust-ai-small-language-model-for-researchers/articleshow/106059885.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/microsoft-launches-robust-ai-small-language-model-for-researchers/amp_articleshow/106059885.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/microsoft-launches-robust-ai-small-language-model-for-researchers/amp_articleshow/106059885.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-62402,msid-106059893/microsoft.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Microsoft releases Phi-2, a small language model AI that outperforms Llama 2, Mistral 7B"
     excerpt: "Microsoft researchers also noted in their blog post on the Phi-2 release that it outperforms Google's brand new Gemini Nano 2 model."
     publishedDateTime: 2023-12-12T18:01:00Z
@@ -65,6 +49,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 57
+  - title: "Microsoft Launches Robust AI 'Small Language Model' For Researchers"
+    excerpt: "Microsoft has released its newest compact“small language model” titled Phi-2 that continues to perform at par or better than"
+    publishedDateTime: 2023-12-17T08:09:00Z
+    webUrl: "https://menafn.com/1107609442/Microsoft-Launches-Robust-AI-Small-Language-Model-For-Researchers"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 56
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?537922"
+        width: 419
+        height: 250
+        isCached: true
   - title: "Microsoft is training AI to accelerate regulatory process for nuclear projects"
     excerpt: "Microsoft is reportedly eyeing nuclear power for its AI operations. Microsoft stock is currently up close to 60% versus year start."
     publishedDateTime: 2023-12-12T17:39:00Z

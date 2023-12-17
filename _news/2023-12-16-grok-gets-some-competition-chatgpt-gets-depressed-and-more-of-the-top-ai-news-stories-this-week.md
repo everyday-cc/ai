@@ -7,7 +7,7 @@ originalUrl: "https://gizmodo.com/grok-gets-some-competition-chatgpt-gets-depres
 webUrl: "https://gizmodo.com/grok-gets-some-competition-chatgpt-gets-depressed-and-1851102969"
 type: article
 quality: 71
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -68,20 +68,6 @@ related:
       name: The Conversation
       domain: theconversation.com
     quality: 36
-  - title: "Grok: Meet the latest Google Bard, ChatGPT competitor by Elon Musk – The Mobile Indian"
-    excerpt: "Grok, the latest rival to ChatGPT and Google Bard has been announced in early access. Here’s everything you need to know about it."
-    publishedDateTime: 2023-12-12T11:07:00Z
-    webUrl: "https://www.inferse.com/836933/grok-meet-the-latest-google-bard-chatgpt-competitor-by-elon-musk-the-mobile-indian/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 33
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/12/wp-header-logo-6862.png"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "5 of the top AI roles companies are seeking to hire"
     excerpt: "In the latter half of the 20th century, TV watchers and moviegoers began to meet a long list of intelligent machines: \"The Jetsons'\" maid Rosie, B-9 from \"Lost in Space,\" HAL 9000 from \"2001: A Space Odyssey,\" the \"Star Wars\" saga's C-3PO and R2-D2, and dozens more."
     publishedDateTime: 2023-12-14T18:59:00Z

@@ -71,20 +71,6 @@ related:
       name: The Conversation
       domain: theconversation.com
     quality: 36
-  - title: "Grok: Meet the latest Google Bard, ChatGPT competitor by Elon Musk – The Mobile Indian"
-    excerpt: "Grok, the latest rival to ChatGPT and Google Bard has been announced in early access. Here’s everything you need to know about it."
-    publishedDateTime: 2023-12-12T11:07:00Z
-    webUrl: "https://www.inferse.com/836933/grok-meet-the-latest-google-bard-chatgpt-competitor-by-elon-musk-the-mobile-indian/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 33
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/12/wp-header-logo-6862.png"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "M4GG55gpNm1IpveUD/eOc1E7ZYGa2AqH9Pruc5tRksYB3VhTX6VYF2GDHLCxSqpFqPMYLjX87vcPbvRyhLKwaPcOWzCuPYgv4ryeV07Do9aRXP2q27vuDB9PFvaOjGt/PUAmqKzZH247dPdk7vz7EQzO2XKsllDJlVNrdzvdFbkqOaUduwgvIdSSMqDqwpsJeS5K/u8K603tnxjs6P/DQ/B9EjFCmlmiDZChv3DJbS1YuvZo71YmcLU8cqtoLG6Kqud0QbfUsTq8l+CmAI1ePynDQbCxeVPqkAveEjXwa+41f7swRWLp6D95zc/qPts4yysuXXlbjovXwZwLN28QLhRP1Qq079Rl6D4dkSW32qog+PLLwBIozAxj6Okl2lo9XXnqSxsafjzCI67O0OZ+vzvMclO3VjVgzKbmTienNFTr6LATudK0nfKAIlRJ8tJaWHdrnl0ugyjSLo+To6XhaE3nbEVpqwZX+W8b0VS9UQFzJRnMCT0bQX9b8D8Golg6fbcE2ZOsrgFop78cVdhFIQ==;6OBrNO+rzpLqeE3OXrlBRw=="
 ---

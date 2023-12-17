@@ -41,15 +41,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Artificial Intelligence Market in United States Projecting Strong Growth to 2028 with Emerging Trends in AI Integration"
-    excerpt: "The forward-looking sensation around Artificial Intelligence continues with the anticipation of growth at a CAGR of ~26.4% from 2022 to 2027. This progression is fueled by government initiatives and the strategic deployment of AI within the United States."
-    publishedDateTime: 2023-12-12T11:46:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/12/12/9931999.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 8
 
 secured: "BlsQebBkxOE22bYUzctGfMYchI3dzf+gElM0L/3ZnG/RFdQD1JBxARQwp0Laqp6rrS4cG0JVI4aib29jAd0LbLKuShU/gJG/v/SdKc6IAni0wpRS4IDtzyY1dlVcDpuLS+oDjnSYmuQyBdfam0A1K++6sONgr+++OxbMulIQCbP7STQ0tVKf5V8tN9sqsGNc7YSDSzJ05ESj4HWhyaMMVmBdfx1W8XhQqBpiA9BMBYg2Hab2MUTL5YrFbv1ZCMBLkCXxOThJy9/tU2EWwFF7VgGfJSZy/4hwvucbGVPAMq/dtPQ9i475Pevn3wtK7dCbmEToPWZtGkC0cezdoUlZ4gAHx5i/t/ZGoTc7BTV78/o=;C2g9QIq5gZnU2AmYbys0cg=="
 ---

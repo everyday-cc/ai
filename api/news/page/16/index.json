@@ -2,6 +2,49 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2023-12-03-how-artificial-intelligence-is-redefining-health-care-in-india.md",
+      "title": "How artificial intelligence is redefining health care in India",
+      "excerpt": "But now, it has come down to just four of them as everything is done by artificial intelligence (AI).” Now all they have to do is simply tell the machine orally that they need to do an MRI, say, of the knee for trauma.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theweek.in/theweek/cover/2023/12/02/artificial-intelligence-is-redefining-healthcare-in-india.html",
+      "originalUrl": "https://www.theweek.in/theweek/cover/2023/12/02/artificial-intelligence-is-redefining-healthcare-in-india.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theweek.in/content/dam/week/magazine/theweek/cover/images/2023/12/2/48-eye.jpg",
+          "width": 760,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.theweek.in/theweek/cover/2023/12/02/artificial-intelligence-is-redefining-healthcare-in-india.amp.html",
+      "cdnAmpWebUrl": "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/theweek/cover/2023/12/02/artificial-intelligence-is-redefining-healthcare-in-india.amp.html",
+      "publishedDateTime": "2023-12-03T01:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Week",
+        "domain": "theweek.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-03-ego-fear-and-money-how-the-ai-fuse-was-lit.md",
       "title": "Ego, Fear and Money: How the A.I. Fuse Was Lit",
       "excerpt": "Still, some scientists and thinkers had become fixated on the downsides of A.I. Many, like the three young men from Britain, had a connection to Eliezer Yudkowsky, an internet philosopher and self-taught ... started working for Baidu, the giant Chinese ...",
@@ -1006,49 +1049,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-02-ai-safety-is-imperative-triangle-thought-leaders-talk-artificial-intelligence-with-senate-panel.md",
-      "title": "‘AI safety is imperative:’ Triangle thought leaders talk artificial intelligence with Senate panel",
-      "excerpt": "The seventh and final planned session of the Senate's AI Forum included two representatives from the Triangle: Howso's Mike Capps, and Duke Computer Science Professor, Cynthia Rudin. Check out what they discussed.",
-      "sourceUrl": null,
-      "webUrl": "https://wraltechwire.com/2023/12/01/ai-safety-is-imperative-triangle-thought-leaders-talk-artificial-intelligence-with-senate-panel/",
-      "originalUrl": "https://wraltechwire.com/2023/12/01/ai-safety-is-imperative-triangle-thought-leaders-talk-artificial-intelligence-with-senate-panel/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wraltechwire.com/wp-content/uploads/2023/11/WRAL-Featured-Image-Template-71.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://wraltechwire.com/2023/12/01/ai-safety-is-imperative-triangle-thought-leaders-talk-artificial-intelligence-with-senate-panel/?amp=1",
-      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/12/01/ai-safety-is-imperative-triangle-thought-leaders-talk-artificial-intelligence-with-senate-panel/?amp=1",
-      "publishedDateTime": "2023-12-01T16:16:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL TechWire",
-        "domain": "wraltechwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

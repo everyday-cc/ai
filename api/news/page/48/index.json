@@ -2,6 +2,49 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2023-11-07-the-uks-automated-vehicles-bill-what-you-need-to-know.md",
+      "title": "The UK's Automated Vehicles Bill: what you need to know",
+      "excerpt": "It will set out the legal framework for self-driving cars and it is becoming clear that car makers, not owners, will shoulder the legal responsibility for any crashes in the UK involving ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.carmagazine.co.uk/autonomous/are-self-driving-cars-legal-in-the-uk/",
+      "originalUrl": "https://www.carmagazine.co.uk/autonomous/are-self-driving-cars-legal-in-the-uk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://car-images.bauersecure.com/wp-images/151842/self-driving_car_uk.jpg",
+          "width": 1600,
+          "height": 1067,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-07T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CAR Magazine",
+        "domain": "carmagazine.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-07-these-ai-companies-want-to-bring-you-back-from-the-dead.md",
       "title": "These AI Companies Want to Bring You Back From the Dead",
       "excerpt": "There's a long list of companies that have sought to solve the problem of mortality, AI startups think they're well-positioned to succeed where others failed.",
@@ -1186,58 +1229,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-06-the-real-threat-of-ai-is-untrammeled-corporate-power.md",
-      "title": "The Real Threat Of AI Is Untrammeled Corporate Power",
-      "excerpt": "Here is the risk in a nutshell: new digital technologies allow a few corporations to gain huge amounts of power by exploiting changes in how we live our lives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lbsbusinessstrategyreview/2023/11/06/the-real-threat-of-ai-is-untrammeled-corporate-power/",
-      "originalUrl": "https://www.forbes.com/sites/lbsbusinessstrategyreview/2023/11/06/the-real-threat-of-ai-is-untrammeled-corporate-power/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6548dcfb4388268e51cdb4a7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 662,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lbsbusinessstrategyreview/2023/11/06/the-real-threat-of-ai-is-untrammeled-corporate-power/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lbsbusinessstrategyreview/2023/11/06/the-real-threat-of-ai-is-untrammeled-corporate-power/amp/",
-      "publishedDateTime": "2023-11-06T11:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

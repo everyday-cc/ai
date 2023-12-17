@@ -2,6 +2,49 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2023-10-25-alation-launches-data-query-system-based-on-natural-language-processing.md",
+      "title": "Alation launches data query system based on natural language processing",
+      "excerpt": "Alation, launched officially this morning, is a startup with software that ties into a company’s data stores, and then gives users a natural language search interface for querying that information.",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/alation/alation-launches-data-query-system-based-on-natural-language-processing/",
+      "originalUrl": "https://sdtimes.com/alation/alation-launches-data-query-system-based-on-natural-language-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-25T10:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-25-snowflake-and-microsoft-expand-their-partnership-to-ai-low-code-data-governance.md",
       "title": "Snowflake and Microsoft expand their partnership to AI, low-code, data governance",
       "excerpt": "Value stream management involves people in the organization to examine workflows and other processes to ensure they are deriving the maximum value from their efforts while eliminating waste — of ...",
@@ -1143,57 +1186,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-25-ai-may-soon-weigh-in-on-regulation.md",
-      "title": "AI May Soon Weigh In on Regulation",
-      "excerpt": "How will agencies like the FCC deal with computer-generated public comments?",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-may-soon-weigh-in-on-regulation-artificial-intelligence-agencies-public-comment-periods-766436ec",
-      "originalUrl": "https://www.wsj.com/articles/ai-may-soon-weigh-in-on-regulation-artificial-intelligence-agencies-public-comment-periods-766436ec",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-873788/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T19:12:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

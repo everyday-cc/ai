@@ -100,19 +100,19 @@
     {
       "path": "_news/2023-12-14-robotics-in-the-engineroom.md",
       "title": "Robotics in the EngineRoom",
-      "excerpt": "When talk turns to autonomous ships, a first question always centers on how routine and emergency repair and maintenance will be",
+      "excerpt": "When talk turns to autonomous ships, a first question always centers on how routine and emergency repair and maintenance will be conducted.",
       "sourceUrl": null,
-      "webUrl": "https://www.oedigital.com/news/510133-robotics-in-the-engineroom",
-      "originalUrl": "https://www.oedigital.com/news/510133-robotics-in-the-engineroom",
+      "webUrl": "https://www.marinelink.com/news/robotics-engineroom-510133",
+      "originalUrl": "https://www.marinelink.com/news/robotics-engineroom-510133",
       "featuredContent": null,
       "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://images.oedigital.com/images/maritime/w537h300pad/image-courtesy-146221.jpg",
-          "width": 537,
-          "height": 300,
+          "url": "https://images.marinelink.com/images/maritime/w800h600pad/image-courtesy-fmd-146221.jpg",
+          "width": 800,
+          "height": 539,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -120,13 +120,13 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.oedigital.com/amp/news/510133-robotics-in-the-engineroom",
-      "cdnAmpWebUrl": "https://www-oedigital-com.cdn.ampproject.org/c/s/www.oedigital.com/amp/news/510133-robotics-in-the-engineroom",
-      "publishedDateTime": "2023-12-14T10:55:00Z",
+      "ampWebUrl": "https://www.marinelink.com/amp/news/robotics-engineroom-510133",
+      "cdnAmpWebUrl": "https://www-marinelink-com.cdn.ampproject.org/c/s/www.marinelink.com/amp/news/robotics-engineroom-510133",
+      "publishedDateTime": "2023-12-14T11:10:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "oedigital.com",
-        "domain": "oedigital.com",
+        "name": "Marine Link",
+        "domain": "marinelink.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -441,6 +441,40 @@
       "provider": {
         "name": "The Robot Report",
         "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-11-amazon-robotics-founding-engineer-andrew-hoffman-joins-gather-ai-as-cto-as-company-supercharges-growth.md",
+      "title": "Amazon Robotics Founding Engineer, Andrew Hoffman, Joins Gather AI as CTO as Company Supercharges Growth",
+      "excerpt": "Gather AI welcomes Andrew Hoffman as Chief Technology Officer (CTO). Gather AI offers AI-powered autonomous inventory management solutions for w",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20231211755402/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20231211755402/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-11T11:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1242,40 +1276,6 @@
       "provider": {
         "name": "The Business Journals",
         "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-light-controlled-liquid-metal-strips-bring-new-flexibility-to-soft-robotics.md",
-      "title": "Light-controlled liquid metal strips bring new flexibility to soft robotics",
-      "excerpt": "(Nanowerk News) Soft robotics has tantalized researchers with its promise of machines that can squeeze into tight spaces, handle fragile objects, and intuitively interact with humans. Yet realizing this potential has remained an elusive goal due to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nanowerk.com/news2/robotics/newsid=64186.php",
-      "originalUrl": "https://www.nanowerk.com/news2/robotics/newsid=64186.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nanowerk",
-        "domain": "nanowerk.com",
         "images": null,
         "publishers": null,
         "authors": null

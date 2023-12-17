@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-11-02-what-are-job-and-salary-prospects-for-robotics-engineers.md",
+      "title": "What Are Job and Salary Prospects for Robotics Engineers?",
+      "excerpt": "As National Robotics Week 2015 comes to a close, we wanted to look at salary and employment trends for robotics engineers. Although we did find some information about career growth, there's very little specific salary information available. Design News ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/what-are-job-and-salary-prospects-robotics-engineers",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/what-are-job-and-salary-prospects-robotics-engineers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://eu-images.contentstack.com/v3/assets/blt0bbd1b20253587c0/blt7b064349d2481e45/6513fde3a9a5e737328f805b/EPFL-Robot-Arm_new.jpg?disable=upscale&width=1200&height=630&fit=crop",
+          "width": 500,
+          "height": 263,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-02T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-02-singapores-river-cleaning-robots-are-producing-80-less-carbon-emissions-than-the-human-powered-boats-they-replaced.md",
       "title": "Singapore's river-cleaning robots are producing 80% less carbon emissions than the human-powered boats they replaced",
       "excerpt": "River-cleaning robots using 5G technology keep garbage out of the Singapore River without polluting as much as gas-powered boats.",
@@ -1226,58 +1269,6 @@
         "Machine Learning",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-kinder-gentler-robotic-arm-channels-its-inner-elephant-and-octopus.md",
-      "title": "Kinder, gentler robotic arm channels its inner elephant and octopus",
-      "excerpt": "In order to function safely alongside human workers, robotic arms shouldn't be hard and unyielding. An experimental new arm was designed with that fact in mind, as it mimics soft n' squishy elephant trunks and octopus tentacles.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/robotics/robotic-arm-elephant-octopus/",
-      "originalUrl": "https://newatlas.com/robotics/robotic-arm-elephant-octopus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/3850958/2147483647/strip/true/crop/5675x2979+0+403/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F06%2Fad%2F7825cdd64664870af7c54b8dd4ed%2F9283.jpg&na.image_optimisation=0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-26T19:16:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

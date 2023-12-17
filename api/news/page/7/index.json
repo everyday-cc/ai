@@ -2,59 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2023-12-12-ibm-assures-ai-powered-cobol-translator-in-watsonx-will-not-replace-developers.md",
-      "title": "IBM assures AI-powered Cobol translator in Watsonx will not replace developers",
-      "excerpt": "According to IBM's Z Software VP, Skyla Loomis, Watsonx is a \"developer assistant tool\" that uses AI but can't perform every task independently. The generative AI",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/101157-ai-based-cobol-translator-watsonx-not-replace-developers.html",
-      "originalUrl": "https://www.techspot.com/news/101157-ai-based-cobol-translator-watsonx-not-replace-developers.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2023/12/2023-12-11-image-17.jpg",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-11T18:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2023-12-12-nvidia-recovers-from-10-drop-amidst-intense-rivalry-with-amds-groundbreaking-ai-chip.md",
       "title": "Nvidia Recovers From 10% Drop Amidst Intense Rivalry With AMD's Groundbreaking AI Chip",
       "excerpt": "AMD has launched the Instinct MI300X, a groundbreaking AI chip supported by Microsoft and Meta. Analysts estimate that AMD could capture about 10% of the AI chip market. Following the announcement of the Instinct MI300X,",
@@ -410,49 +357,6 @@
       ]
     },
     {
-      "path": "_news/2023-12-11-bigbearai-expands-its-relationship-with-aws-to-deliver-ai-driven-solutions.md",
-      "title": "BigBear.ai Expands its Relationship with AWS to Deliver AI-Driven Solutions",
-      "excerpt": "BigBear.ai continues to expand its capabilities to serve the commercial enterprise sector and is proud to advance this new effort with AWS.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/bigbear-ai-expands-its-relationship-with-aws-to-deliver-ai-driven-solutions-1032889378",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/bigbear-ai-expands-its-relationship-with-aws-to-deliver-ai-driven-solutions-1032889378",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-11T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-12-11-why-generative-ai-makes-sense-for-edge-computing.md",
       "title": "Why Generative AI Makes Sense For Edge Computing",
       "excerpt": "Many industry analysts and pundits now predict that generative AI will be the next significant AI application to make an impact at the edge.",
@@ -503,6 +407,49 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-12-11-bigbearai-expands-its-relationship-with-aws-to-deliver-ai-driven-solutions.md",
+      "title": "BigBear.ai Expands its Relationship with AWS to Deliver AI-Driven Solutions",
+      "excerpt": "BigBear.ai continues to expand its capabilities to serve the commercial enterprise sector and is proud to advance this new effort with AWS.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2023/12/11/9931286.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2023/12/11/9931286.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.tmcnet.com/tmc/world.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-11T13:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -680,6 +627,40 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-11-amazon-robotics-founding-engineer-andrew-hoffman-joins-gather-ai-as-cto-as-company-supercharges-growth.md",
+      "title": "Amazon Robotics Founding Engineer, Andrew Hoffman, Joins Gather AI as CTO as Company Supercharges Growth",
+      "excerpt": "Gather AI welcomes Andrew Hoffman as Chief Technology Officer (CTO). Gather AI offers AI-powered autonomous inventory management solutions for w",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20231211755402/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20231211755402/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-11T11:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },

@@ -64,20 +64,6 @@ related:
         width: 952
         height: 720
         isCached: true
-  - title: "AI brains in lab: Scientists create a computer with human brain tissue"
-    excerpt: "Scientists have created Brainoware, a computer software that makes computing more brain-like by integrating real, actual, human brain tissues."
-    publishedDateTime: 2023-12-12T12:11:00Z
-    webUrl: "https://interestingengineering.com/innovation/scientists-create-computer-with-human-brain-tissue"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/12/12/image/jpeg/heXhSO0YiSRgusb4G2XGhKiUuLWuIy5q56H0LSc0.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "zhXymjJyHYkRTJgpDheWnAFhyJGoxIb9mO5bZKhFnBrBa71PgO0LCMpaZYo0TXRnCl8w3PgCSt6UNqwSp8YlqI7d5O9h+x6C6bwxSFALH/mWyOF3oTDIpi1KVEBHwK2pNq5dKXp7+OUgRcbHNhzVe57Xs+Jq0xzG/Tu72m/Yq6XRlioKwgYOSzN+u6GFiLj3mPZH7LlmBsqYqe84IlrJnt1fJbcnyikycv8tvItW7M24JqTx5qkCz8VAFvxycnXOuLnsyfk3pATqw2mMkpM9iXQKWVs2b8ZCnpkDPOzza6vnFoQmx4106MC4bA1x+lXxAUr5UwxZixV12DGjLMIwu+dwIQHuu6cBE49ILh9T7JY=;oAqqMYVgy/cmxj9YIQir1Q=="
 ---

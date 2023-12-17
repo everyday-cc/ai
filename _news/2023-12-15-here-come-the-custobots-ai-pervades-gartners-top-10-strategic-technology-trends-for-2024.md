@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-dominates-gartners-top-1
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-dominates-gartners-top-10-strategic-technology-trends-for-2024/"
 type: article
 quality: 76
-heat: 77
+heat: 76
 published: true
 
 provider:

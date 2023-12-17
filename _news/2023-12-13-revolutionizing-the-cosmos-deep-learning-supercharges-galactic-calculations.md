@@ -7,7 +7,7 @@ originalUrl: "https://scitechdaily.com/revolutionizing-the-cosmos-deep-learning-
 webUrl: "https://scitechdaily.com/revolutionizing-the-cosmos-deep-learning-supercharges-galactic-calculations/"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Revolutionizing crop phenotyping: self-supervised deep learning enhances green fraction estimation in rice and wheat"
-    excerpt: "The accurate measurement of the green fraction (GF), a critical photosynthetic trait in crops, typically relies on RGB image analysis employing segmentation algorithms to identify green pixels within the crop."
-    publishedDateTime: 2023-12-16T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/1011379"
+  - title: "Revolutionizing Global Communications: The Role Of AI In Streamlining The Cannabis And Psychedelic Industries"
+    excerpt: "In an era where the cannabis and psychedelic industries are rapidly expanding, mastering the art of global communication is more than a necessity - it’s the key to success."
+    publishedDateTime: 2023-12-12T15:24:00Z
+    webUrl: "https://www.benzinga.com/markets/cannabis/23/12/36201104/revolutionizing-global-communications-the-role-of-ai-in-streamlining-the-cannabis-and-psychedeli"
+    ampWebUrl: "https://www.benzinga.com/amp/content/36201104"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36201104"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 16
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 40
     images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/994e23b8-208d-4650-9727-04cbc39e9c50/Rendition/low-res/Content/Public"
-        width: 700
-        height: 462
+      - url: "https://cdn.benzinga.com/files/images/story/2023/12/12/cannabis_twitter_28.png?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "3kdh3aC+tQEIbOfqhLvrNVXOZV0B/Ei+zlIZMFEp1kKSUfa/G8rFS9PC60KEk8OSgmvE2gHmLXbT7tlDIoXdCeuIDdplS0TyEujzJ+lGfAGWweLe1luIAh5Ifbhj3Qt4CmZZG/yiuaHUvXT6yRp7Aidk8amm8OtsjrbmWJVO/YLHbnw4N+NVO397ep4lWAaXiJaUgd2hdm9GzN4rtf0JMEZ4Urdnv9CKrYYNA5d2iK7a9hlZAJ4gI0kLmwB0O55pfcZE0Fk0YaFwU1UO6LX6zQl9khkkJEJGaph4psq+cLQvGYXse/RXof+bgS4UFQ+Vskn+QqFxOVlUyM4HWAWvWgMOEfm6usyr/hod3UmxLXmm/EQSEHlp39h++gKfGIeBlUyzjgjyC2DhxvwE5Hj5LIh+fNIQrJr0Wk99ARMoYee1LRjPy4X1FAwvfQ0X6c6Jj7hOFK2pAM3mNPskd8pWkGN/vNodQ6Wo+nuRBUTvWB10TN6j1t8YfxLAhpPwK3us+ehT7adI96S+KifDVHwGFQ==;4CErfnIoOxpdpbNah6uSLA=="

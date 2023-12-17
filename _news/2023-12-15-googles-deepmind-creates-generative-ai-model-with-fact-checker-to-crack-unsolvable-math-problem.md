@@ -93,15 +93,6 @@ related:
       name: Interesting Engineering
       domain: interestingengineering.com
     quality: 51
-  - title: "AI in Meteorology: How Google's DeepMind Enhances Forecasting"
-    excerpt: "Explore how Google's AI revolutionizes global weather forecasting with unmatched accuracy, efficiency, reliability, speed, precision, and sophisticated analytics."
-    publishedDateTime: 2023-12-12T13:03:00Z
-    webUrl: "https://www.electropages.com/blog/2023/12/ai-strikes-again-google-ai-can-predict-weather"
-    type: article
-    provider:
-      name: Electropages
-      domain: electropages.com
-    quality: 34
 
 secured: "meka/xdYyGHFDVISHSbAgBbyKRb0U/NAuAdhi9EiNOWN/fw8NR5swL8HiVXv3zHMSXqjexF0o4IstRw001JwIo2WaDAO0/gvM9gRGCOKxX6bn5Dw9BFoDrCKw9FtRlImrYDEgHXLbYpfNvQWdYf849ezsS5ig86qjLdSPF+Yn06xIXqB6hw+RSgUSAauww9CNMcA8i/oS5SMOab9F/DeCEVVDz4HoJGZY9JR/j8nRB4g1M2HWyM8b3QiGw98jYCNXQNQ72PrmDl+r8xKCeEf5NDM+yyjqo8V48krizTXLxPC0jpn9dQfgxMOZ2gga3uHXMTZxbfDYgtkzL9IlW6izM1ECSiyCN6NmUbWgwYaw7T2XoAekw/U6BA+A7eY821cBqkMLovMMQxbTtaWUTYnvWwpQzzaqrXNL7URPT9z9whqJ9ztjIi1BLRS1yp6M3nrlR7mBr125m61BDaP6mx5YR+LaAsWP5Z/lnPjM5fjEpE45csIfjTsflouUyBFhTYE5iewUxtVBWnZ4xtOVRDp5Q==;QKhsqc7MpnjiqfLLSmI5TA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/deepminds-ai-finds-solution-to-decades
 webUrl: "https://thenextweb.com/news/deepminds-ai-finds-solution-to-decades-old-math-problem"
 type: article
 quality: 96
-heat: 156
+heat: 146
 published: true
 
 provider:
@@ -97,15 +97,6 @@ related:
       name: Interesting Engineering
       domain: interestingengineering.com
     quality: 51
-  - title: "AI in Meteorology: How Google's DeepMind Enhances Forecasting"
-    excerpt: "Explore how Google's AI revolutionizes global weather forecasting with unmatched accuracy, efficiency, reliability, speed, precision, and sophisticated analytics."
-    publishedDateTime: 2023-12-12T13:03:00Z
-    webUrl: "https://www.electropages.com/blog/2023/12/ai-strikes-again-google-ai-can-predict-weather"
-    type: article
-    provider:
-      name: Electropages
-      domain: electropages.com
-    quality: 34
 
 secured: "Z/YJEP1/BGN4tsSijcc+at682jttKxJL1wlBH4JY1Q6Iw+DlMSG092u8nGnuMuSwhoZI3GWkQqvRcv2Ft3lPJn4o1UWD/To7IM4h+/W9pfwg1BaiLr2kWJEZU0P+1AOWhWg2GOlYfMO+/SnoKsz3EkPhuNDfVrRDcLxKf3eR1GjZft6ITStZ8d0b3xOP7u2NqwyhD8jxOJaq/B/3EUwxilXEXma0UyHReREzYu1bLOaAzCAKqjMvh0muF2gDqW/Dc6oVIoAIjCMDEaNXtjyzsotXFe1u54H0NyyEc8jRw9F8O65uPUGfqtCmRardrRK4fiqHvlSKyhAl/7CBUEpOiNDq1CLw78YyhQ3plrqZgl6xSj/cmic7fQxUKwyXKHc0ChGLk0abcCa6z+u5/903OVQYHyMO+mxFjwWpVRW8l17NaLiwbmqy6amNzp60AuuwD3VzoIZcmiCetT6t9sITdtZLpzdG2bWibgD6T5AuYZzHYQNQlfHCPUZIZHB+PaofAhMgHVeC6P+bPkxxI7qrxg==;M/f/EJMIgnbGiZ6FQhDWQA=="
 ---

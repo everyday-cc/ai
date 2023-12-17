@@ -45,15 +45,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Yellow.ai Announces Listing of its Generative AI-powered Voicebots and Chatbots on Zendesk Marketplace"
-    excerpt: "The listing will enable enterprises to deliver human-like experiences through Yellow.ai's Dynamic Automation Platform (DAP), leading to 60"
-    publishedDateTime: 2023-12-12T12:49:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/yellow-ai-announces-listing-of-its-generative-ai-powered-voicebots-and-chatbots-on-zendesk-marketplace-1032892800"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 33
 
 secured: "Uw3VLZe4eTnto5/FA9pzy9u5vcJB8tqKpYRihKcWPlM1xvOgjOUdVmhC4V3erjvmzrt/ifDjSbsMHttIACpoX/r7kXlf23flJevRT3A00PLuwwo4HfWKvCB5dm1GQdaH2KXBk9cbvKsOUlqUz2lZ5Bs0Bi9Fs7o6GVTSuJH0AEGE/o04M6ywqM588CgmPrSHOg+fA+ORmBMxz5fwDBQQpPJS+kAuw2gGEx0BsC3xHtdHcreh7fwbi+aHrlOZiCVggf91u9VYxksI2dR/QMAJtoHdgoDd+h6Sph8038D4bo/fYO/9BKXXYGrfuZ46OZ5wROfMuhIo3034FanDj5+rGwMRewb4ySk+TKtyA1dSrm0=;KcWjM0o2XWOq/mlaJZbFVA=="
 ---
