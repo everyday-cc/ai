@@ -8,8 +8,8 @@ webUrl: "https://www.vanguardngr.com/2023/12/artificial-intelligence-and-academi
 ampWebUrl: "https://www.vanguardngr.com/2023/12/artificial-intelligence-and-academic-tasks-what-teachers-students-need-to-know/amp/"
 cdnAmpWebUrl: "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2023/12/artificial-intelligence-and-academic-tasks-what-teachers-students-need-to-know/amp/"
 type: article
-quality: 54
-heat: 64
+quality: 56
+heat: 66
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://cdn.vanguardngr.com/wp-content/uploads/2021/02/GAB.gif"

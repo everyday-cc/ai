@@ -43,22 +43,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "GPAI Summit: All you need to know about global meet on Artificial Intelligence"
-    excerpt: "Apart from providing a forum for multiple stakeholders to thrash out issues around AI, the event will also give a chance for lesser-known startups to showcase their achievements"
-    publishedDateTime: 2023-12-12T01:57:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/gpai-summit-all-you-need-to-know-about-global-meet-on-artificial-intelligence-11888961.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/gpai-summit-all-you-need-to-know-about-global-meet-on-artificial-intelligence-11888961.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/gpai-summit-all-you-need-to-know-about-global-meet-on-artificial-intelligence-11888961.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 70
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/09/Artificial-Intelligence.png"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "LS1HErc57Y33w9jr9NWQ69prKx5CPdc7QwPXb2jWIuah/zzV2UMOoo0GH40U/7MNHcD/Y2/EwLLu5cJ1rMXBcOt5dupV6l5OigNn/zekNVsrrDoU0biI1i36ENe/C732SONiphW9OPjI8pLhhIQ6YCx9n4rRg1H6NhhHqJ1qQjIlBeapq9vqsh3eZx4UWsXkgGUU4IF8rUH2A7pNYuJuX2n7GfAaQ2zuhbKE4PwgXweXGC5XXxMCmRLxa3r+eYpvpW1hFg2k/6puLD9ZnRKaG+f3JN/z5mHkNe1A9B6VBH6ebc4ou3eUjz+Xh6zgqZZSPdEkkKmno6uxI0zxiIbCYFiRAHdQ53GNrRP3684nUlk=;iTbrkOxn3SeY5dvlFu27Jg=="
 ---

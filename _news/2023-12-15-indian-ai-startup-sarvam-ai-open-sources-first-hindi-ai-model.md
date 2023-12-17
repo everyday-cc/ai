@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehindu.com/sci-tech/technology/indian-ai-startup-sarva
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/indian-ai-startup-sarvam-ai-open-sources-first-hindi-ai-model/article67641090.ece/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Hindu
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS bullish on Indian startups adopting GenAI to lower technology costs"
-    excerpt: "AWS notes that Indian startups across the spectrum are keen on adopting GenAI technology platforms to build innovative solutions that address the pain points of their customer."
-    publishedDateTime: 2023-12-12T02:15:00Z
-    webUrl: "https://yourstory.com/enterprise-story/2023/12/aws-bullish-on-indian-startups-adopting-genai-tech"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 54
-    images:
-      - url: "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/aws-1-1677684714702.png?fm=png&auto=format"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Indian Startup Sarvam AI Launches Hindi LLM, OpenHathi"
     excerpt: "Indian AI startup Sarvam AI has released OpenHathi-Hi-v0.1, the first Hindi LLM in the OpenHathi series. Developed on a budget-friendly platform, the model, an extension of Llama2-7B, boasts GPT-3.5-like performance for Indic languages."
     publishedDateTime: 2023-12-13T05:46:00Z

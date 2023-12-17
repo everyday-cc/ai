@@ -35,7 +35,7 @@ related:
     provider:
       name: Vanguard
       domain: vanguardngr.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://cdn.vanguardngr.com/wp-content/uploads/2021/02/GAB.gif"
         width: 720

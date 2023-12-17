@@ -638,10 +638,10 @@
     {
       "path": "_news/2023-12-05-artificial-intelligence-makes-gripping-more-intuitive.md",
       "title": "Artificial intelligence makes gripping more intuitive",
-      "excerpt": "This requires a network of 128 sensors and artificial intelligence based techniques. Different types of grasps and bionic design: technological developments in recent decades have already led to ...",
+      "excerpt": "a professor of rehabilitation and assistive robotics at TUM. Now, Prof. Piazza’s research team has shown that artificial intelligence can enable patients to control advanced hand prostheses more ...",
       "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/12/231205144408.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/12/231205144408.htm",
+      "webUrl": "https://www.eurekalert.org/news-releases/1010158",
+      "originalUrl": "https://www.eurekalert.org/news-releases/1010158",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -654,18 +654,9 @@
       "publishedDateTime": "2023-12-05T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -674,7 +665,7 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "AI in Robotics",
         "AI"
       ]
     },

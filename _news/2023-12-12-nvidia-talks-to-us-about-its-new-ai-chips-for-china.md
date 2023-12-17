@@ -33,48 +33,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Nvidia in talks with Biden administration about AI chip sales to China, US commerce chief Gina Raimondo says"
-    excerpt: "The US commerce chief says she spoke a week ago to Nvidia CEO Jensen Huang and he made it clear that the company did not want to ‘break the rules’."
-    publishedDateTime: 2023-12-12T02:16:00Z
-    webUrl: "https://www.scmp.com/tech/tech-war/article/3244739/nvidia-talks-biden-administration-about-ai-chip-sales-china-us-commerce-chief-gina-raimondo-says"
-    type: article
-    provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 82
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/12/12/e4ac781b-b08e-4c08-827f-c4eac7051fcd_6b56a99a.jpg?itok=ajUAG_eF&v=1702347213"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "US in talks with Nvidia about AI chip sales to China: Gina Raimondo"
-    excerpt: "U.S. Commerce Secretary Gina Raimondo, speaking in an interview with Reuters on Monday, said Nvidia \"can, will and should sell AI chips to China because most AI chips will be for commercial applications."
-    publishedDateTime: 2023-12-12T01:21:00Z
-    webUrl: "https://www.moneycontrol.com/news/world/us-in-talks-with-nvidia-about-ai-chip-sales-to-china-gina-raimondo-11889281.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 71
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/09/Nvidia-770x433.jpg"
-        width: 770
-        height: 433
-        isCached: true
-  - title: "US in talks with Nvidia about AI chip sales to China: commerce secretary"
-    excerpt: "\"What we cannot allow them (Nvidia) to ship is the most sophisticated, highest-processing power AI chips, which would enable China to train their frontier models,\" US Commerce Secretary Gina Raimondo said."
-    publishedDateTime: 2023-12-12T01:57:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/us-in-talks-with-nvidia-about-ai-chip-sales-to-china-commerce-secretary/articleshow/105916634.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 70
-    images:
-      - url: "https://img.etimg.com/thumb/msid-105916640,width-1200,height-630,imgsize-101486,overlay-ettech/photo.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Essential AI emerges from stealth with backing from Google, Nvidia and AMD"
     excerpt: "Essential AI says the products would make data analysts 10x faster and give business users the ability to become data-driven decision-makers."
     publishedDateTime: 2023-12-12T16:46:00Z

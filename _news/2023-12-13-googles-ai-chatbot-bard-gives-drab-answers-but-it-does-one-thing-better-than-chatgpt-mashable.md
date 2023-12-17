@@ -56,19 +56,19 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "Google's Bard vs OpenAI's ChatGPT: Which of the rival AI chatbots is better? – Euronews"
-    excerpt: "Google’s answer to ChatGPT is here - but is it as good as OpenAI’s global phenomenon? Euronews Next put them through their paces. Google has made its"
-    publishedDateTime: 2023-12-12T02:41:00Z
-    webUrl: "https://www.inferse.com/836356/googles-bard-vs-openais-chatgpt-which-of-the-rival-ai-chatbots-is-better-euronews/"
+  - title: "OpenAI ChatGPT VS Google Bard: Which AI chatbot is the real disruptor? – Business Today"
+    excerpt: "FeedbackEver since OpenAI introduced its AI chatbot, ChatGPT, in November last year, we witnessed a sudden rise in generative AI chatbots in the industry. One"
+    publishedDateTime: 2023-12-17T00:45:00Z
+    webUrl: "https://www.inferse.com/842172/openai-chatgpt-vs-google-bard-which-ai-chatbot-is-the-real-disruptor-business-today/"
     type: article
     provider:
       name: Inferse
       domain: inferse.com
     quality: 48
     images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/12/wp-header-logo-6663.png"
-        width: 1000
-        height: 563
+      - url: "https://www.inferse.com/wp-content/uploads/2023/12/wp-header-logo-8704.png"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Pennsylvania candidate tests AI chatbot as voter outreach tool in congressional campaign"
     excerpt: "Pennsylvania Democrat Shamaine Daniels' congressional campaign is using a phone-banking tool powered by artificial intelligence. The chatbot engages in two-way conversations."

@@ -92,20 +92,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Understanding the world of AI and robotics at the FAIR"
-    excerpt: "The Festival of AI + Robotics, the FAIR is a two-day event promising to ... be able to connect with people on the floor to give them advice,” she said. Another element will be a startup showcase, which Müller said will be relevant to those visiting ..."
-    publishedDateTime: 2023-12-12T02:09:00Z
-    webUrl: "https://www.itnews.com.au/video/understanding-the-world-of-ai-and-robotics-at-the-fair-603411"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 69
-    images:
-      - url: "https://i.nextmedia.com.au/Videos/16.2-FAIR-Medium-Rectangle-300x250.png"
-        width: 300
-        height: 250
-        isCached: true
   - title: "Google’s AI Isn’t a Gimmick, It’s the Future | AI Unlocked"
     excerpt: "Gizmodo chats with Google Bard’s product leader about what Google’s AI is currently capable of producing through text responses."
     publishedDateTime: 2023-12-13T17:26:00Z
@@ -206,15 +192,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "How Artificial Intelligence Is Transforming HR Practices"
-    excerpt: "Artificial intelligence (AI) has taken various industries by storm, with human resource management (HRM) being no exception. With a variety of AI tools, businesses in several industries are reaping the rewards of innovative technology to optimize their HR operations."
-    publishedDateTime: 2023-12-12T02:03:00Z
-    webUrl: "https://thebobs.com/how-artificial-intelligence-is-transforming-hr-practices/"
-    type: article
-    provider:
-      name: The BOBs
-      domain: thebobs.com
-    quality: 19
   - title: "How Visual AI Is Transforming the Conventional School Safety Model"
     excerpt: "Join this free webinar to learn how visual AI can be used to create a proactive and adaptive approach to physical security and emergency response for schools and campuses."
     publishedDateTime: 2023-12-13T14:15:00Z

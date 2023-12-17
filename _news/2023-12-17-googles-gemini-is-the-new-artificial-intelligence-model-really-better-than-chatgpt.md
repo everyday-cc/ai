@@ -1,28 +1,30 @@
 ---
 category: news
-title: "Gemini AI: What do we know about Google's answer to ChatGPT?"
-excerpt: "Most AI models like ChatGPT can only understand and generate one type of content — like text, audio, images or video — but Google's Gemini can generate them all."
-publishedDateTime: 2023-12-13T10:10:00Z
-originalUrl: "https://www.livescience.com/technology/artificial-intelligence/google-deepmind-gemini-ai-vs-openai-chatgpt"
-webUrl: "https://www.livescience.com/technology/artificial-intelligence/google-deepmind-gemini-ai-vs-openai-chatgpt"
+title: "Google's Gemini: Is the new artificial intelligence model really better than ChatGPT?"
+excerpt: "Google Deepmind has recently announced Gemini, its new AI model to compete with OpenAI's ChatGPT. While both models are examples of “generative AI”, which learn to find patterns of input training information to generate new data (pictures, words or other media), ChatGPT is a large language model (LLM) which focuses on producing text."
+publishedDateTime: 2023-12-17T01:00:00Z
+originalUrl: "https://tech.hindustantimes.com/opinion/googles-gemini-is-the-new-artificial-intelligence-model-really-better-than-chatgpt-71702736181690.html"
+webUrl: "https://tech.hindustantimes.com/opinion/googles-gemini-is-the-new-artificial-intelligence-model-really-better-than-chatgpt-71702736181690.html"
+ampWebUrl: "https://tech.hindustantimes.com/amp/opinion/googles-gemini-is-the-new-artificial-intelligence-model-really-better-than-chatgpt-71702736181690.html"
+cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/opinion/googles-gemini-is-the-new-artificial-intelligence-model-really-better-than-chatgpt-71702736181690.html"
 type: article
-quality: 56
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Live Science
-  domain: livescience.com
+  name: Hindustan Times Tech
+  domain: hindustantimes.com
 
 topics:
+  - Machine Learning
   - AI
   - Microsoft AI
-  - AI Hardware
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/YSQjzQFFyPxCecexhdvhff-1200-80.jpg"
-    width: 1200
-    height: 675
+  - url: "https://images.hindustantimes.com/tech/img/2023/12/17/1600x900/Google_Gemini_1701885704849_1702774698630.png"
+    width: 1600
+    height: 900
     isCached: true
 
 related:
@@ -56,21 +58,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google's Gemini: Is the new artificial intelligence model really better than ChatGPT?"
-    excerpt: "Google Deepmind has recently announced Gemini, its new AI model to compete with OpenAI's ChatGPT. While both models are examples of “generative AI”, which learn to find patterns of input training information to generate new data (pictures, words or other media), ChatGPT is a large language model (LLM) which focuses on producing text."
-    publishedDateTime: 2023-12-17T01:00:00Z
-    webUrl: "https://tech.hindustantimes.com/opinion/googles-gemini-is-the-new-artificial-intelligence-model-really-better-than-chatgpt-71702736181690.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/opinion/googles-gemini-is-the-new-artificial-intelligence-model-really-better-than-chatgpt-71702736181690.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/opinion/googles-gemini-is-the-new-artificial-intelligence-model-really-better-than-chatgpt-71702736181690.html"
+  - title: "Gemini AI: What do we know about Google's answer to ChatGPT?"
+    excerpt: "Most AI models like ChatGPT can only understand and generate one type of content — like text, audio, images or video — but Google's Gemini can generate them all."
+    publishedDateTime: 2023-12-13T10:10:00Z
+    webUrl: "https://www.livescience.com/technology/artificial-intelligence/google-deepmind-gemini-ai-vs-openai-chatgpt"
     type: article
     provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 69
+      name: Live Science
+      domain: livescience.com
+    quality: 56
     images:
-      - url: "https://images.hindustantimes.com/tech/img/2023/12/17/1600x900/Google_Gemini_1701885704849_1702774698630.png"
-        width: 1600
-        height: 900
+      - url: "https://cdn.mos.cms.futurecdn.net/YSQjzQFFyPxCecexhdvhff-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Are You Using ChatGPT at Work? We Want to Hear About It."
     excerpt: "Just over a year since ChatGPT’s release, we’re exploring how workers have begun using A.I. chatbots in their jobs."
@@ -137,6 +137,6 @@ related:
       domain: inferse.com
     quality: 13
 
-secured: "7+60gUuYEJqgH0hNeCD27ocS0MCza8leZNuNBkEW4Z5owDuVtnMGqeKAEsuig7qm3pHvlzPKB+6IA3HavkI2uBQU/OHpMHqa+MXePUKmqRZZ0KBR3oMcz4gOC1Q1b8/k6oKSR5opUgQik89JL3PuguMZ7BMactZLeSFy8+d1pzFv8i+XZTJaRWNgfuR8d+T9n61IEjfuxtKQUrBpGdQPfaLDBp4FXmIRFTveqIYOEGJoA5qchPS5j9SP9XyJNbY4pNb7iZBIx1tz6j65gunS9tMsbe0b5Uc5degOI97MTzB+S2hzPTlRPViZn7HqNabnLL0htXAS7WJDeSRuavrrMtOhCqQs1DdPQT8dmIN02Joc5CW1O7zwH7L/BCuQ2yZvu92qr9PPTQOMSTI5pTYVs1tajDFMTp6r970KcCdug7A7wje2wL68xFpZB3uolSz3OIHh4SW3QxqUhXiU2GROnyfPTlVvHS1ez+YgO8BsPZ7Kdj7On57UH/JFr0/UU+MhIvOVPLFddATiZuwX/fxS8A==;r8Qoyr2HfJg329h+YFIaXg=="
+secured: "yzG56pjKxzJQ8BpX6zDJgSmy3948ITnluLCMryumQzMr0cEp6et8LUkc3bTenVv7YJtsL4nhG7u1fHuaUH/jW4Ig7J1dgQm9sQf2eUOChGQ9l7+5iBChoAX4/eOkeUF3waA0niM51E7YvxoOK16XAvCMF16v1WRdvoJH3f0Xf4YLaI2XG9tiI0pLjcO/1LhDufs5Ees5qh+J0kKiOOneraaKvqmuMA4wtsWyNE4hl/c7apoO752nAdRl8qfu9z20g8QYImC7bWJQu6NGo7geWs2wYYH0WR3bHhqKVy+kWvtRhClZI7Hy4WBjuYrys6fwl03Hl3Ot8yYxka/O5n6z4tD5QFURMNmakq18AxBn46Q=;Dz99rNt9cGNoqKyjpFYDPA=="
 ---
 

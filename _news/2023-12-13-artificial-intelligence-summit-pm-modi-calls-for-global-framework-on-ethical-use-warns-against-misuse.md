@@ -9,7 +9,7 @@ ampWebUrl: "https://www.outlookindia.com/national/artificial-intelligence-summit
 cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/national/artificial-intelligence-summit-pm-modi-calls-for-global-framework-on-ethical-use-warns-against-misuse-news-336130/amp"
 type: article
 quality: 75
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "GPAI Summit: All you need to know about global meet on Artificial Intelligence"
-    excerpt: "Apart from providing a forum for multiple stakeholders to thrash out issues around AI, the event will also give a chance for lesser-known startups to showcase their achievements"
-    publishedDateTime: 2023-12-12T01:57:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/gpai-summit-all-you-need-to-know-about-global-meet-on-artificial-intelligence-11888961.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/gpai-summit-all-you-need-to-know-about-global-meet-on-artificial-intelligence-11888961.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/gpai-summit-all-you-need-to-know-about-global-meet-on-artificial-intelligence-11888961.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 70
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/09/Artificial-Intelligence.png"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "PM Modi Calls For Global Framework On Ethical Use Of AI; Warns Misuse Can Be Destructive Force"
     excerpt: "Speaking at the Global Partnership on Artificial Intelligence Summit, Modi said India is firmly committed to responsible and ethical use of AI."
     publishedDateTime: 2023-12-13T04:45:00Z

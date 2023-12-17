@@ -7,7 +7,7 @@ originalUrl: "https://factcheck.afp.com/doc.afp.com.347D73N"
 webUrl: "https://factcheck.afp.com/doc.afp.com.347D73N"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "English judges get first-ever guidance on artificial intelligence"
-    excerpt: "Judges in England and Wales can use generative artificial intelligence systems like OpenAI's ChatGPT for basic work tasks but must not use chatbots to conduct legal research or undertake legal analysis,"
-    publishedDateTime: 2023-12-12T01:39:00Z
-    webUrl: "https://www.reuters.com/legal/transactional/english-judges-get-first-ever-guidance-artificial-intelligence-2023-12-12/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
 
 secured: "QgSXbKjZO7oUFPzyS/cu2R7eORuEKwZC72P/x4YYLI6iNo+HTMDmewGC8kHkA14uhUwjxrtmajS1dXY8FJcMAynbT6LP33fnivIFsccV3wzaF1fJAiDeoZK6BXD6udrozdrdGCJAEtgrsLM8fYXMrtExBVuL2fkE93b3DVbIahK19FGWf8fft2f/pP/aK+BVUAI948FTlCSVByPTybOizJgnzspVo5HPuHJzGV9BjMh+TYTbw0xQHib1ud096IQ2deWreAZh9YkPAcl7cawefwhutNPhhR9HR6VPXQ92FoGipuricQI3sxy1GC9i/+1Y5mpxifUgXZH/k9AJH6Xvi4T+YQaWmCdjuVgL5yMfzzkGbfWA6Hbt3TfDGiYZmy6PKE2nJfZUyd4EO5zG7qb+s1YO9m18B6Judf6GaLvdmUGlCiEjf2GTIXu4UHyr0rwozEyOPQEqpNB6eexQlfBZO4mxS7zmDHIsCBwNPYNNogo3jRg7iEev4X7G85oPvYs2NulEsCt9ZYrifkG54E1DxA==;DrHl7iC+cppyZqffsNIrxg=="
 ---

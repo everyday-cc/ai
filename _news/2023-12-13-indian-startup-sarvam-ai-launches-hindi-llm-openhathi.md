@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 814
         isCached: true
-  - title: "AWS bullish on Indian startups adopting GenAI to lower technology costs"
-    excerpt: "AWS notes that Indian startups across the spectrum are keen on adopting GenAI technology platforms to build innovative solutions that address the pain points of their customer."
-    publishedDateTime: 2023-12-12T02:15:00Z
-    webUrl: "https://yourstory.com/enterprise-story/2023/12/aws-bullish-on-indian-startups-adopting-genai-tech"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 54
-    images:
-      - url: "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/aws-1-1677684714702.png?fm=png&auto=format"
-        width: 800
-        height: 400
-        isCached: true
 
 secured: "w6pdtwVubeRAT2VQBQslmsZmnx+dKulz/gS7FgvuDtCKFrFQc95/IC9eGRn1qluVcuygfN6J2vGMBgNNIqBd721HxBPcClYdI95/jwl98cnwDe2nmvrAOd622HQ45tukZc8K7kwrwpb/kxOn1I6ltzQPCBh1bUL5M6t/if8DszL19CFUnFDBNhDEf8YwLpSSsS61lDIbYrXO/Q4CHgyG6VJFaPiHOclB2JjWOuQ6kKvVUnzCViXrfaX7gGvoDWYErJhMj3/YaBmCPLWpktL2j42/a0NMkcmHwqwG/7l3+ZiWRvTncd/T/Co5gl2txIemcXkU/SuYiXUGufePJ1Pr9KISR672xlCqKwDKd9IsVM0md/J6DltIEK1ctHWs+4HFWvSwVWWiD16t5RtUA/30UnQOFHILwKA3PmDARsv/ubfHmzxCMTbdvA5FNsQU1azUQk3kCFoJ5ulH1S6t81nfJqm2RzwuizQSe9OGoM+4Sf9uUQJiwVtivvAufBsxIICWE0Lu+f4+vDr07BeyKBIcSA==;RIjt4+kD2gKwPraTW1hvYw=="
 ---

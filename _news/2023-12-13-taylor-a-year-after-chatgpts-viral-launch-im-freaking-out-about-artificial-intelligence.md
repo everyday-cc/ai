@@ -51,19 +51,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "ChatGPT to Google Bard: AI giants are reshaping search results"
-    excerpt: "Explore the evolving landscape of search engines. From keyword-matching engines to AI-powered platforms, search experiences are being reshaped."
-    publishedDateTime: 2023-12-12T01:50:00Z
-    webUrl: "https://yourstory.com/2023/12/ai-revolutionising-search-engine-results"
+  - title: "Google's Gemini: Is the new artificial intelligence model really better than ChatGPT?"
+    excerpt: "Google Deepmind has recently announced Gemini, its new AI model to compete with OpenAI's ChatGPT. While both models are examples of “generative AI”, which learn to find patterns of input training information to generate new data (pictures, words or other media), ChatGPT is a large language model (LLM) which focuses on producing text."
+    publishedDateTime: 2023-12-17T01:00:00Z
+    webUrl: "https://tech.hindustantimes.com/opinion/googles-gemini-is-the-new-artificial-intelligence-model-really-better-than-chatgpt-71702736181690.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/opinion/googles-gemini-is-the-new-artificial-intelligence-model-really-better-than-chatgpt-71702736181690.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/opinion/googles-gemini-is-the-new-artificial-intelligence-model-really-better-than-chatgpt-71702736181690.html"
     type: article
     provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 56
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 69
     images:
-      - url: "https://images.yourstory.com/cs/2/5cd74df08d8d11e9a445857ac4ecdc72/GoogleAIBengaluru1568955790392png?fm=png&auto=format"
-        width: 1200
-        height: 630
+      - url: "https://images.hindustantimes.com/tech/img/2023/12/17/1600x900/Google_Gemini_1701885704849_1702774698630.png"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Gemini AI: What do we know about Google's answer to ChatGPT?"
     excerpt: "Most AI models like ChatGPT can only understand and generate one type of content — like text, audio, images or video — but Google's Gemini can generate them all."
@@ -78,20 +80,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/YSQjzQFFyPxCecexhdvhff-1200-80.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Mistral AI is an exciting ChatGPT rival, but it’s not ready for us yet"
-    excerpt: "Mistral AI is a French startup valued at around $2 billion with an exciting ChatGPT rival you can't actually use right now."
-    publishedDateTime: 2023-12-12T01:08:00Z
-    webUrl: "https://bgr.com/tech/mistral-ai-is-an-exciting-chatgpt-rival-but-its-not-ready-for-us-yet/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 54
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/02/rsz_gettyimages-1246675509.jpg?quality=82&strip=all"
-        width: 2500
-        height: 1667
         isCached: true
   - title: "Are You Using ChatGPT at Work? We Want to Hear About It."
     excerpt: "Just over a year since ChatGPT’s release, we’re exploring how workers have begun using A.I. chatbots in their jobs."

@@ -1,22 +1,18 @@
 ---
 category: news
 title: "Wondershare Virbo Unveils AI-Powered Video Translator: Bridging Language Divides with Innovation"
-excerpt: "The latest update from Wondershare Virbo introduces the highly-anticipated AI video translation feature. This advanced tool equips users with the capability to effortlessly translate marketing videos into various languages while preserving the authenticity ..."
-publishedDateTime: 2023-12-14T03:28:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/wondershare-virbo-unveils-ai-powered-video-translator-bridging-language-divides-with-innovation-1032899769"
-webUrl: "https://markets.businessinsider.com/news/stocks/wondershare-virbo-unveils-ai-powered-video-translator-bridging-language-divides-with-innovation-1032899769"
+excerpt: "Key Upgrades for Virbo include: AI Video Translation: Translate videos into over 20+ languages with lip sync and voice cloning. Edit and proofread scripts, and auto-generate subtitles. 300+ AI ..."
+publishedDateTime: 2023-12-14T09:42:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2023-12/60923546-wondershare-virbo-unveils-ai-powered-video-translator-bridging-language-divides-with-innovation-008.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2023-12/60923546-wondershare-virbo-unveils-ai-powered-video-translator-bridging-language-divides-with-innovation-008.htm"
 type: article
-quality: 56
-heat: 66
+quality: 26
+heat: 26
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - Natural Language Processing
@@ -28,22 +24,6 @@ images:
     height: 225
     isCached: true
 
-related:
-  - title: "SK Telecom Launches 'A. Call Translator' for Real-Time Interpretation; Languages Include Korean, English, Japanese, Chinese"
-    excerpt: "SK Telecom announced today that it has launched the A. Call Translator, a service that provides AI-based real-time interpretation during calls."
-    publishedDateTime: 2023-12-14T02:34:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/34257-sk-telecom-launches-a-call-translator-for-real-time-interpretation-languages-include-korean-english-japanese-chinese"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 0
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/3c9880a49fd70ae2cf2759ecc9014a8e.jpg?t=20231214_021454"
-        width: 753
-        height: 408
-        isCached: true
-
-secured: "iOdN//1l+zPlTTI6r8u0oDXB0qhNGqAn02tuRDysK3XlJggSHfyxHj8+aaR41KIwMsdTPFpy/2RVPK++bhwO2cctjfAFKMGT2yjM7s5TNnIWGpFButMXZYslpS58C8tZ6BkhFkQsQHAulxxMky2KOTHYj4g2mgrsBpR7h8R6HukYuBFLB/COeaeuhef3BYcsQxLgEIcezA9K2cAvJ0g4tylueoobm0lhmn7k6l/i1Ioi3NW2aM5i+FYdZ9SH+mElFPPyeEXYX0R/XpRzvwaj9qMLoNymQ068u1m8/WutbuDicuATMNsewMYlf8AnBf6dM7jW6CQMDk/ZEZqSMm1rTj2Wku1qiXts6abHjRAEEMavJ6yGLcTS4PHOvL6ztEQbZTkFNUxvUmNIksXGhambAvoL7E3hPLU1egLNiDcyU8fc3xgXSX99+thm6Kf3P5jVYRGtOw+CeftWLZcn2av6ihdX+yWpwM51DQnyf385cAi3Yl76rBS69zYqrsW9IeKxjvdnQGcM4IJOcD+mUGG9cQ==;sVRYjTCM3OVJShU7qiRZBg=="
+secured: "AnLBBKtRdg0u4i1oSrhcn1R5zdT83lz43AztP5utKdHMj+xvmOvUy+SA/ZdH+S5jyLrdFCz4qR54vmleY/4xpt4fisw+42w+52AqE2+B7CcmH7cffDag3xCyseCqSoEcKdXTxehjIM6JR1pshLUChWYNgZLQBos7Nd7sht7R1q51EBFgXiYS7/Qy6FP87v7p+vGNDHj0IBw+oUICvlxco0ZXwQIOwX20oxUhFusVKTCUDbi3U7LP6XL5TwRPdDVWGXdwYnVLu00XqwLSrqML0X28KbipCFkyEx5raZ7pjUBHmsLFZHryq0oklknuIvOrboFBzbfiShSrIki1iWV8Wnpa6MjAzojG4lX2xT66xwQ=;J/5nrnukOU9AQd9DIA+3iA=="
 ---
 

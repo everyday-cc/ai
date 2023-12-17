@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/ywang/2023/12/16/hong-kong-billionair
 webUrl: "https://www.forbes.com/sites/ywang/2023/12/16/hong-kong-billionaire-professor-tang-xiaoou-cofounder-of-ai-giant-sensetime-dies-at-55/"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: Forbes
@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "China AI Firm SenseTime Says Co-Founder Tang Died After Illness"
+    excerpt: "Tang Xiao’ou, co-founder of Chinese artificial intelligence firm SenseTime Group Inc., died on Friday after an illness, the company said in a statement."
+    publishedDateTime: 2023-12-16T10:18:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-12-16/china-ai-firm-sensetime-says-co-founder-tang-died-after-illness"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
 
 secured: "3hmYnMXSzVvc/1Uf5drpSiITXO/mdO+o1gKBk/POVoeJ427iMZ2j94UVBd6sMrYmd9FSHBYZT32U7IyQ5MpoQBcW7oK8U9WC/oFP88nAiRSf/SyUFY4ARGylLQHCYRESQBQL09zJ3uW9nWOvEgSvU4MM4IXNjKVVzHfLw/n3uqDjCnw+hOJ1trajfJmORmLUOTkWWy47n+RDbvTt9fhRXND5RqjyepcGUPnBufHNQWVsqfX/xGH8IIgCZ146nRj1cCweE4vUMnmhX887XKOFZzfkwiToiPkJG3jNk4rtgSAWfrY7lMprGjWcaf6f294lfrklkgtX4AGuhscWPd2+c2mL+T7y1hl6ge5rZN/2UsKAz3BS9RycZ4YWFQDK62NnldQbgdL93zp6eVNEo+d7CDyJSA1Qx/+eoPBId5I6FNFJ6GXiLCikstZUQvg4m2zzqQ60U0r8X/qYXikUajx6Ue0cHNGMm4AANPGLQWijNc/KzoMM0RcLPrcb0Scx5QTV+GuVp1VTfC8+/qb/CDvnkw==;ZaAs5TbilhsDW1G7XrdaJA=="
 ---
