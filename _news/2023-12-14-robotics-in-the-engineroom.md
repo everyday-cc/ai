@@ -1,31 +1,31 @@
 ---
 category: news
 title: "Robotics in the EngineRoom"
-excerpt: "When talk turns to autonomous ships, a first question always centers on how routine and emergency repair and maintenance will be"
-publishedDateTime: 2023-12-14T10:55:00Z
-originalUrl: "https://www.oedigital.com/news/510133-robotics-in-the-engineroom"
-webUrl: "https://www.oedigital.com/news/510133-robotics-in-the-engineroom"
-ampWebUrl: "https://www.oedigital.com/amp/news/510133-robotics-in-the-engineroom"
-cdnAmpWebUrl: "https://www-oedigital-com.cdn.ampproject.org/c/s/www.oedigital.com/amp/news/510133-robotics-in-the-engineroom"
+excerpt: "When talk turns to autonomous ships, a first question always centers on how routine and emergency repair and maintenance will be conducted."
+publishedDateTime: 2023-12-14T11:10:00Z
+originalUrl: "https://www.marinelink.com/news/robotics-engineroom-510133"
+webUrl: "https://www.marinelink.com/news/robotics-engineroom-510133"
+ampWebUrl: "https://www.marinelink.com/amp/news/robotics-engineroom-510133"
+cdnAmpWebUrl: "https://www-marinelink-com.cdn.ampproject.org/c/s/www.marinelink.com/amp/news/robotics-engineroom-510133"
 type: article
 quality: 74
 heat: 74
 published: true
 
 provider:
-  name: oedigital.com
-  domain: oedigital.com
+  name: Marine Link
+  domain: marinelink.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://images.oedigital.com/images/maritime/w537h300pad/image-courtesy-146221.jpg"
-    width: 537
-    height: 300
+  - url: "https://images.marinelink.com/images/maritime/w800h600pad/image-courtesy-fmd-146221.jpg"
+    width: 800
+    height: 539
     isCached: true
 
-secured: "mgUPmM3d8iXwXaYg/Mx5/9jF7f+V5q+aD+vsZ/WMAajz6C+Tb3XoHSmB8OBqECA/AlKKZymVXwQYYq37BnjLJQKyEv345xuU4Mcc9jDrBnwtoUg8yWxAnoRiTHVKGj0fnj2w6ZHDDNpH0QhO1ojd9/06HOqG+3pYeGEm2osoBLCv7ZdGcXqqiHSElEhJ4GxSO/Op00ZDnOpZ2h4Xd/U1ll11CFyIjbag5TDBUFnUyFXrSFASsG/DiuSMk+2VVgEDCLqUCmnrVQbrDZS6XdDYQFefgTQ4205gsvXesjwtucO4eg223C5Fm5/E7z67O49taAk9RxTp7BxmR1oo2OtvAZiDuWFMrROadwMJWrDqbl8=;+3jrmz6ZtwB/mO4gpWLu0Q=="
+secured: "dYE2A6CbI2nd3mEOSCVxAosw2tENlbU8nnPxV8c5u+NXO4N/eDs9CaKoZWCUixTmNZxVS79NkSW+EyUfQjgpOZquKOM7V5vL4Qg/wnUU6RLx77NkWxbfl9LUb0zmJ/3DryLY24tNTa+zDG1WbqpTMPltey2e2x7vQPNEc8nG7GmIim7FFXETn8oHPCixfI8Ygn1h/apqidKYGCmaCeQ0h80wdgsfy5J5DVmEkBzcJyFU1YAz0BgvP20/QZDWCv58hpgNVWqewM2+3VmZSRFP2yRwkGC5rUle2whIo4fP7vS4iBkXi+e289qvEPo6uhhMFc5t/ImSJEhaESGmpjAA85M8006DZjkDWQ94dq6mreE=;YiW9UahNYuCwou7YzFVU8w=="
 ---
 

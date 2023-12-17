@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/innovating-fintech-the-importance-of-custo
 webUrl: "https://techbullion.com/innovating-fintech-the-importance-of-custom-software-solutions/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,29 +25,87 @@ images:
     isCached: true
 
 related:
-  - title: "Top 18 Fintech Events in Singapore to Attend in 2024"
-    excerpt: "As Singapore’s fintech industry continues to gain international recognition, several major fintech events and conferences are being held each year in the city-state, attracting thousands of participants and investors from around the world."
-    publishedDateTime: 2023-12-13T10:26:00Z
-    webUrl: "https://fintechnews.sg/82031/events/top-18-fintech-events-in-singapore-to-attend-in-2024/"
+  - title: "Strengthen fintech regulations, bank audit leaders tell CBN"
+    excerpt: "The association has called for stricter regulations of the fintech space as well as the operations of the Bureaux de Change."
+    publishedDateTime: 2023-12-16T23:00:00Z
+    webUrl: "https://punchng.com/strengthen-fintech-regulations-bank-audit-leaders-tell-cbn/"
+    ampWebUrl: "https://punchng.com/strengthen-fintech-regulations-bank-audit-leaders-tell-cbn/?amp"
+    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/strengthen-fintech-regulations-bank-audit-leaders-tell-cbn/?amp"
+    type: article
+    provider:
+      name: The Punch Newspapers
+      domain: punchng.com
+    quality: 59
+    images:
+      - url: "https://cdn.punchng.com/wp-content/uploads/2023/10/12163722/WhatsApp-Image-2023-10-10-at-8.33.12-PM.jpeg"
+        width: 1024
+        height: 854
+        isCached: true
+  - title: "Swift Invites Fintech Pioneers to Join AI-Based Cross-Border Innovation Challenge"
+    excerpt: "Swift launched \"The Innovation Challenges\" that invites fintechs to create AI-based solutions to improve cross-border transactions."
+    publishedDateTime: 2023-12-12T04:36:00Z
+    webUrl: "https://fintechnews.sg/81994/ai/swift-invites-fintech-pioneers-to-join-ai-based-cross-border-innovation-challenge/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 34
+    images:
+      - url: "https://fintechnews.sg/wp-content/uploads/2023/12/Fintechs-Can-Now-Join-Swifts-Innovation-Challenge-for-AI-Cross-Border-Solutions.jpg"
+        width: 1024
+        height: 567
+        isCached: true
+  - title: "5 Investment Tools That Dominated the FinTech Scene in 2023"
+    excerpt: "For long-term financial needs, such as retirement, upcoming vacations, or a down payment, Betterment’s investment strategy employs low-cost ETFs (exchange-traded funds) and adjusts the risk profile based on the individual's goal type and the planned investment  duration."
+    publishedDateTime: 2023-12-12T06:14:00Z
+    webUrl: "https://www.finextra.com/blogposting/25365/5-investment-tools-that-dominated-the-fintech-scene-in-2023"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://lh7-us.googleusercontent.com/fuiGfpQyPe9FyQNKlg8YUnSi9SDiqK2m0y5o298xlhV2t9Qu6tvGucPndFkWm4II9OI7GmGiEItjM9PH-0p-TOcV2jpuGHkZcyjeNPeh6qHUtzpBxOojIl_4zlIUYI4GJfLVy4LeRO25UHKe-qGDkLc"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Finastra Leaders Predict 2024 Fintech Trends Amidst Global Challenges"
+    excerpt: "Finastra has shared its executive insights on the anticipated trends, challenges and opportunities for the fintech landscape in 2024."
+    publishedDateTime: 2023-12-13T04:53:00Z
+    webUrl: "https://fintechnews.sg/82080/fintech/finastra-leaders-predict-2024-fintech-trends-amidst-global-challenges/"
     type: article
     provider:
       name: Fintech Singapore
       domain: fintechnews.sg
     quality: 24
     images:
-      - url: "https://fintechnews.sg/wp-content/uploads/2023/12/Top-18-Fintech-Events-in-Singapore-to-Attend-in-2024.jpg"
+      - url: "https://fintechnews.sg/wp-content/uploads/2023/12/Finastra-Leaders-Predict-2024-Fintech-Trends-Amidst-Global-Challenges.jpg"
         width: 1024
         height: 567
         isCached: true
-  - title: "Understanding the Recent Fluctuations of UP Fintech Holding Ltd ADR’s (TIGR) Stock"
-    excerpt: "TIGR stock has gone up by 3.78%, with a monthly decline of -9.48% and a quarterly plunge of -16.86%. The volatility ratio for the week is 4.47%, and the volatility levels for the last 30 days are 5.52% for UP Fintech Holding Ltd ADR The simple moving average for the last"
-    publishedDateTime: 2023-12-14T19:29:00Z
-    webUrl: "https://newsheater.com/2023/12/14/understanding-the-recent-fluctuations-of-up-fintech-holding-ltd-adrs-tigr-stock/"
+  - title: "Quasar Markets Partners With Dragon List Global To Revolutionize Fintech Research"
+    excerpt: "Quasar Markets Partners with Dragon List Global to Revolutionize FinTech Research This partnership aims to enhance financial research and market ins"
+    publishedDateTime: 2023-12-13T10:39:00Z
+    webUrl: "https://menafn.com/1107586474/Quasar-Markets-Partners-With-Dragon-List-Global-To-Revolutionize-Fintech-Research"
     type: article
     provider:
-      name: newsheater
-      domain: newsheater.com
-    quality: 0
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?877739"
+        width: 375
+        height: 250
+        isCached: true
+  - title: "Bank audit executives seek stricter regulation for fintech, BDCs"
+    excerpt: "ACAEBIN also called for stricter regulations of the fintech space as well as the operations of the Bureaux de Change."
+    publishedDateTime: 2023-12-13T19:08:00Z
+    webUrl: "https://punchng.com/bank-audit-executives-seek-stricter-regulation-for-fintech-bdcs/"
+    type: article
+    provider:
+      name: The Punch Newspapers
+      domain: punchng.com
+    quality: 19
 
 secured: "1/8gg26Xg9CgX9mzssBWaiq1YUuO5UofseOg/MAkSHONBSh4YSGgLpEu07lKwsrwJUSU8dUcnaBUqJXBko+KZ6QcZXdF2S+RRh7W3d0J31Vg46mMMGyhGAL197vEP79Xy0kYhjYmiqHAZ9S+PneV8jGroshEmAXd7islbiJhkPZNEitMfD3Eul09wHEKcTvDdSrtaUTebxVNyAOoxCSltXrYeRnN2+2lg6wof/pLp6qmyA/QT1Ny8tZ1gsdIxN3tgkHEIcxkhWywUhGpVWWLsWjKMYLjHGoi4iwxJEDN0oNAhoClWFGzVpU37n057d0mpVIvEqfw9P87r8gSNj7uZfTIgu+U3FKdJQTSnOIISBvnP6zRGZjqk1kOfuw/Bd3TYSzr54MGwRxRLry/KZYiqX8XhYDZ3xhoDIRANOghX98gXibA1JXFs109VZ2PPqClfZHIRkQPZadawMAKmA53+JUn+KMqsDoWfv1GDCQ/qtCExJ+pAiRVPe6hW0Be5GLU8INYHKiN1v4BeZH3o8qxxA==;dMWiPHKVBfCPJ8ZUYtppNw=="
 ---

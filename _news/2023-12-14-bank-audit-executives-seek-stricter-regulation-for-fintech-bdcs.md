@@ -19,47 +19,91 @@ topics:
   - AI
 
 related:
-  - title: "US committee sees AI fintech threat, public ready for biometric defense"
-    excerpt: "The U.S. Financial Services Committee recently held a hearing with finance tech innovation leaders on opportunities and risks associated with AI."
-    publishedDateTime: 2023-12-13T20:59:00Z
-    webUrl: "https://www.biometricupdate.com/202312/us-committee-sees-ai-fintech-threat-public-ready-for-biometric-defense"
+  - title: "Strengthen fintech regulations, bank audit leaders tell CBN"
+    excerpt: "The association has called for stricter regulations of the fintech space as well as the operations of the Bureaux de Change."
+    publishedDateTime: 2023-12-16T23:00:00Z
+    webUrl: "https://punchng.com/strengthen-fintech-regulations-bank-audit-leaders-tell-cbn/"
+    ampWebUrl: "https://punchng.com/strengthen-fintech-regulations-bank-audit-leaders-tell-cbn/?amp"
+    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/strengthen-fintech-regulations-bank-audit-leaders-tell-cbn/?amp"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
+      name: The Punch Newspapers
+      domain: punchng.com
+    quality: 59
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/28124015/online-banking-purchases-scaled.jpg"
-        width: 2048
-        height: 1367
+      - url: "https://cdn.punchng.com/wp-content/uploads/2023/10/12163722/WhatsApp-Image-2023-10-10-at-8.33.12-PM.jpeg"
+        width: 1024
+        height: 854
         isCached: true
-  - title: "Face biometrics code could be seeing through better eyes"
-    excerpt: "Computer vision vendors and researchers are rapidly developing significantly upgraded camera systems on the front end of AI."
-    publishedDateTime: 2023-12-15T22:12:00Z
-    webUrl: "https://www.biometricupdate.com/202312/face-biometrics-code-could-be-seeing-through-better-eyes"
+  - title: "Swift Invites Fintech Pioneers to Join AI-Based Cross-Border Innovation Challenge"
+    excerpt: "Swift launched \"The Innovation Challenges\" that invites fintechs to create AI-based solutions to improve cross-border transactions."
+    publishedDateTime: 2023-12-12T04:36:00Z
+    webUrl: "https://fintechnews.sg/81994/ai/swift-invites-fintech-pioneers-to-join-ai-based-cross-border-innovation-challenge/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 34
+    images:
+      - url: "https://fintechnews.sg/wp-content/uploads/2023/12/Fintechs-Can-Now-Join-Swifts-Innovation-Challenge-for-AI-Cross-Border-Solutions.jpg"
+        width: 1024
+        height: 567
+        isCached: true
+  - title: "5 Investment Tools That Dominated the FinTech Scene in 2023"
+    excerpt: "For long-term financial needs, such as retirement, upcoming vacations, or a down payment, Betterment’s investment strategy employs low-cost ETFs (exchange-traded funds) and adjusts the risk profile based on the individual's goal type and the planned investment  duration."
+    publishedDateTime: 2023-12-12T06:14:00Z
+    webUrl: "https://www.finextra.com/blogposting/25365/5-investment-tools-that-dominated-the-fintech-scene-in-2023"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
     quality: 24
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/12/15171048/computer-vision-ai-scaled.jpg"
-        width: 2048
-        height: 1152
+      - url: "https://lh7-us.googleusercontent.com/fuiGfpQyPe9FyQNKlg8YUnSi9SDiqK2m0y5o298xlhV2t9Qu6tvGucPndFkWm4II9OI7GmGiEItjM9PH-0p-TOcV2jpuGHkZcyjeNPeh6qHUtzpBxOojIl_4zlIUYI4GJfLVy4LeRO25UHKe-qGDkLc"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "Providing Critical Services to the UK Financial Sector: Important Draft Rules for Fintechs"
-    excerpt: "in financial services — as we have discussed most recently in our alert “AI and Machine Learning in UK financial services: the public response to the FCA and PRA” — this regime is likely to become closely associated with any future AI regulation in ..."
-    publishedDateTime: 2023-12-13T00:00:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/providing-critical-services-to-the-uk-7117293/"
+  - title: "Finastra Leaders Predict 2024 Fintech Trends Amidst Global Challenges"
+    excerpt: "Finastra has shared its executive insights on the anticipated trends, challenges and opportunities for the fintech landscape in 2024."
+    publishedDateTime: 2023-12-13T04:53:00Z
+    webUrl: "https://fintechnews.sg/82080/fintech/finastra-leaders-predict-2024-fintech-trends-amidst-global-challenges/"
     type: article
     provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 14
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 24
     images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15363_1913.jpg"
-        width: 1200
-        height: 900
+      - url: "https://fintechnews.sg/wp-content/uploads/2023/12/Finastra-Leaders-Predict-2024-Fintech-Trends-Amidst-Global-Challenges.jpg"
+        width: 1024
+        height: 567
+        isCached: true
+  - title: "Innovating FinTech: The Importance of Custom Software Solutions"
+    excerpt: "Custom financial software development is increasingly becoming a key driver of innovation in the FinTech sector. This trend is not just about the creation of new applications and platforms, but also about the transformation of traditional financial services,"
+    publishedDateTime: 2023-12-12T17:21:00Z
+    webUrl: "https://techbullion.com/innovating-fintech-the-importance-of-custom-software-solutions/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 24
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/unnamed-68.jpg"
+        width: 512
+        height: 342
+        isCached: true
+  - title: "Quasar Markets Partners With Dragon List Global To Revolutionize Fintech Research"
+    excerpt: "Quasar Markets Partners with Dragon List Global to Revolutionize FinTech Research This partnership aims to enhance financial research and market ins"
+    publishedDateTime: 2023-12-13T10:39:00Z
+    webUrl: "https://menafn.com/1107586474/Quasar-Markets-Partners-With-Dragon-List-Global-To-Revolutionize-Fintech-Research"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?877739"
+        width: 375
+        height: 250
         isCached: true
 
 secured: "lQNiGIhHXYVythRWa/ZLcl3KKXgM8DW8xmNG73M9iSpOLkFikFcnn5P1qcbeWNIFenzASgd7GV97Y81Sd3ag0ARMIoNmpYTd3S9KfpHFkr0SSX+G2sukmu0oMnrR3+LFp1PGfixKq1U/vrhRRGhhZU9GVFtMhn/bsC8LkxNE/LTMUkMb2MDgvPCk2zHnhP3zt9aSdov5GS4UTO2ICF/2G/xQ5TrUTwHPfHk6XfucEML+gb+6hl69ZgdXxdEMJhPegjYI/bq4YCpT1lZ9aJwfuf2AC2BFO1hLyaas/1nCB8Be4/ASPtIChrnAB3gl6Wgj9rCr7dYp/5H3Hcky40d1r2IQ3heR2AuBoLKVW+ErCLXBZ4bVibAmEqbotpZ7kzrtu6HNiP0jZkfquryL0Fxmr7uur0HzRw91P9cVSRnB9mLTmDUnB+AB/kYNhrL8frNMk5Xj4ZdPt14nMUVKn55UpYN1tQ9aJoJewCufCBeivBURKkjSucGaWAotdfZsqzZRPBbOqGCeB2+h+TM2A/T3Ig==;/XRbEwWrFrqCeCpRNMyKuw=="

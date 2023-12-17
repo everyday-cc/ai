@@ -170,20 +170,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Nvidia chucking money at AI"
-    excerpt: "Nvidia has become one of the most prolific investors in AI start-ups this year as it tries to capitalise on its position as the dominant provider of AI processors. The chipmaker announced that it has invested in \"more than two dozen\" companies this year ..."
-    publishedDateTime: 2023-12-12T00:00:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/58094-nvidia-chucking-money-at-ai"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 37
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/e419c901bd7c1e26d7fe2d7de998fa93_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
   - title: "Nvidia talks to U.S. about its new AI chips for China"
     excerpt: "\"They want to do the right thing,\" the Commerce secretary said of Nvidia. \"Obviously they want to sell as many chips as possible.\""
     publishedDateTime: 2023-12-12T14:20:00Z

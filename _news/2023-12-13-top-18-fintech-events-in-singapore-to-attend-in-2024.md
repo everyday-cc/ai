@@ -7,7 +7,7 @@ originalUrl: "https://fintechnews.sg/82031/events/top-18-fintech-events-in-singa
 webUrl: "https://fintechnews.sg/82031/events/top-18-fintech-events-in-singapore-to-attend-in-2024/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,29 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "Innovating FinTech: The Importance of Custom Software Solutions"
-    excerpt: "Custom financial software development is increasingly becoming a key driver of innovation in the FinTech sector. This trend is not just about the creation of new applications and platforms, but also about the transformation of traditional financial services,"
-    publishedDateTime: 2023-12-12T17:21:00Z
-    webUrl: "https://techbullion.com/innovating-fintech-the-importance-of-custom-software-solutions/"
+  - title: "FinTech Focus: Catch latest developments of the week"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-12-15T11:11:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/fintech-focus-catch-latest-developments-of-the-week-5/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
+      name: IBS
+      domain: ibsintelligence.com
     quality: 24
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/unnamed-68.jpg"
-        width: 512
-        height: 342
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/11/FinTech-Funding-wealth.jpg"
+        width: 300
+        height: 300
         isCached: true
-  - title: "Understanding the Recent Fluctuations of UP Fintech Holding Ltd ADR’s (TIGR) Stock"
-    excerpt: "TIGR stock has gone up by 3.78%, with a monthly decline of -9.48% and a quarterly plunge of -16.86%. The volatility ratio for the week is 4.47%, and the volatility levels for the last 30 days are 5.52% for UP Fintech Holding Ltd ADR The simple moving average for the last"
-    publishedDateTime: 2023-12-14T19:29:00Z
-    webUrl: "https://newsheater.com/2023/12/14/understanding-the-recent-fluctuations-of-up-fintech-holding-ltd-adrs-tigr-stock/"
+  - title: "This fintech startup wants to help you make climate-forward investments"
+    excerpt: "Harlem-headquartered GreenPortfolio has launched a platform that seeks to arm individual investors with climate-conscious data to help inform their financial decisions."
+    publishedDateTime: 2023-12-15T18:33:00Z
+    webUrl: "https://www.crainsnewyork.com/climate/new-york-city-fintech-startup-wants-help-you-make-climate-forward-investments"
     type: article
     provider:
-      name: newsheater
-      domain: newsheater.com
-    quality: 0
+      name: Crain's New York
+      domain: crainsnewyork.com
+    quality: 4
+  - title: "Fintech in Italy: there are 622 startups but investments are decreasing. Focus on Artificial IntelligenceA"
+    excerpt: "Among the 622 Fintech startups, 109 are focused on insurtech. A stable number that shows the maturity of the market. However, investments have fallen by 81% even though a third of the startups are profitable."
+    publishedDateTime: 2023-12-16T18:20:00Z
+    webUrl: "https://www.firstonline.info/en/fintech-startups-in-Italy-are-622-but-investments-are-decreasing-with-a-focus-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: FIRSTonline
+      domain: firstonline.info
+    quality: 1
 
 secured: "iPAIxaYNm9jJkypFB7JWXhWx7o4KuPU5L1x2IcX6s+CfdaFx2H49YFFtQ+YJ4kllBCoWVypnzF5aG/0Bg1gt9NfBdhPRBpl8xNDh1NbZGm4m2SjSnn3/I6ZvHv2BxxRHPLlU44OsXmUHThRA3+0+h0VdoTylRwyMuemm164+vbAqunqLXsB7lFzXBYqcAZ8FezZiSokRtk5FICS/fgO/W6X0M8Q0vqanYEulDc/Ws1RwnnOfPqGBPscVGHT8ZTBhcP+ihlZ2Heg+pL7aTSTrkVE9k+922/Txa2ez+GAjbxDBcEs3L/D2/OLFZg94+JU8KeLaKiP4sorpxFSjQrWl8+9R172mLbsyz/ltgOlQlxN2QrUJmxi8Nfw79ai99V5rjoSMSNw1aawQziQgS0QneHV13UW6ihgVwXeW7eH467vzfVgRrKAecC4C+UzHi7oms9NuC69u6M83ha/w8ODemoTrmsFWnkBltaTlJ8f65T/w0GtOd5j4KgvUx4Q/9s6MVlrfKeGbo2OAfvJla+aS3w==;47hUJkVW9C5S6CCiB7RyKA=="
 ---

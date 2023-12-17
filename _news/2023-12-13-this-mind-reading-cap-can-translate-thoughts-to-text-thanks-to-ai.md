@@ -9,7 +9,7 @@ ampWebUrl: "https://singularityhub.com/2023/12/12/this-mind-reading-cap-can-tran
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/12/12/this-mind-reading-cap-can-translate-thoughts-to-text-thanks-to-ai/?amp=1"
 type: article
 quality: 74
-heat: 134
+heat: 114
 published: true
 
 provider:
@@ -71,20 +71,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Mind-reading technology transforms thoughts into text"
-    excerpt: "In an unprecedented scientific achievement, experts have developed a system that is capable of reading human thoughts and converting them into text. The technology was designed by the GrapheneX-UTS Human-centric Artificial Intelligence Centre at the University of Technology Sydney (UTS)."
-    publishedDateTime: 2023-12-12T00:25:00Z
-    webUrl: "https://www.earth.com/news/mind-reading-technology-transforms-thoughts-into-text/"
-    type: article
-    provider:
-      name: earth
-      domain: earth.com
-    quality: 24
-    images:
-      - url: "https://cff2.earth.com/uploads/2023/12/11171532/Mind-reading-technology-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "New Cap Uses AI to ‘Read Minds’ and Convert Thoughts to Text"
     excerpt: "Unlike most 'mind-reading' technologies, this one doesn't involve eye tracking or a surgically implanted brain chip."
     publishedDateTime: 2023-12-14T13:10:00Z
@@ -94,15 +80,6 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 19
-  - title: "Portable, non-invasive, mind-reading AI turns thoughts into text (w/video)"
-    excerpt: "“It is the first to incorporate discrete encoding techniques in the brain-to-text translation process, introducing an innovative approach to neural decoding. The integration with large language models is also opening new frontiers in neuroscience and AI ..."
-    publishedDateTime: 2023-12-12T00:00:00Z
-    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=64235.php"
-    type: article
-    provider:
-      name: Nanowerk
-      domain: nanowerk.com
-    quality: 17
 
 secured: "LtXegHMVH4YN1aG+uJkOAyu51SgL9KnJOFzz2Y8w7BqEsZolucPwVPKHz7I1YyWb8VRTzZwSsoZEkTkRQYkvndnnvFCvNxyHDHW24XrJXemVS7ImBECLlGy72e/jzvKmSmS/1u2mkCLGD7ZWskJG/MbikWgbkzRNyx3JShddiEI18b39ctEeyXNc5HjtOJWr8tE483B0m6TKEuHVk6waqwys23+bmq8dhfs1IE8Y1HxA+187eOOsQvaTFJnUBq4ExOI7gip9SN62OFB2/nrt9kzMBFztJ17DMhh9QtA6DuKRZ0+zsAyY4S1XtwcJP6pzCwWioFJQcvYURwts6DUzrG+HwibbdPbyd6OFzw2L/Sho0LRtLG1hsVY+JYMjSoZ/zsz9IHVwyws3MRs8Z+SP+GETrAlBJhL6GMdPagCX50vd9FD33SOrp6Jiw2DcE9WaYY6dEWcT2JCKJlhV/gEWZCdL1oOZiOlVbRyrjO8UDD0K23FAjOawjPZVd/SqnjpAxO2s/5Mgs/326S1i0fwhdw==;wZEE2CDu/W10wjTqdYiJXg=="
 ---

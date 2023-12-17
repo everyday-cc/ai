@@ -38,15 +38,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "AI Applications in Finance: Considering the Benefits and Risks"
-    excerpt: "Considering the history of finance, today we are on the ... (full story)"
-    publishedDateTime: 2023-12-15T05:40:00Z
-    webUrl: "https://www.forexfactory.com/news/1257579-ai-applications-in-finance-considering-the-benefits-and"
-    type: article
-    provider:
-      name: Forex Factory
-      domain: forexfactory.com
-    quality: 34
 
 secured: "kW1ovBHKzOB6lCMHraKQJIKwUi7Yy1nHXR/PMtWB0HYi5HtkS2DNWJ7/5kBToso93S4plPD0I9Oq3j+rQ3axCQPDcjrK9J2Vxj40UN7WcAH9tlKtHkCM+uQ6BxLyQ0ZXSSiWZcNM3b59mzG894a7+Iyo1oYW/2kx8miCTBMWPtPd1jKiq3uCUdmXTr45kylPYRZ3OrJ2wAfW2a7WLt5vKpzPcxibpVkHRAcsnhZ0uQ7FyZ+tGpve+xE0Ur6LQlhvZsYvc63XgSo9NEok+hiw2t0l5Gy4Y+sDKz/580a9OI/y3ABcuYhci1r5aNU6QpDLm9i4DB+ghgt/KX78fjZ62QhYPkjUo060ijy4owbcI6aG9Mf0dlAOQ6TBamjSQqEEncroYB+uzM6Bhp2wOOdcxsZ00KmhHgmIOqexpM9SEjfs1Xf/XSsIla8b3SSUw5aFLrnf9VAL5thjWQTEkNoXFBottzPCbmOAR98fhNYEO3bjPkx8AlKsOBQP3Er0mWf2WrR4ixXMKR6MItZpHLLy2Q==;paCSgiJxIc8yLTwDcJ4urw=="
 ---

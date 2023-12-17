@@ -39,20 +39,6 @@ related:
         width: 1440
         height: 700
         isCached: true
-  - title: "OpenAI launches ethics initiative. Atlanta leaders tapped to help"
-    excerpt: "Atlanta nonprofit, activist and educational leaders will be part of a new ethics council on artificial intelligence co-chaired by Sam Altman, CEO of OpenAI, the company behind ChatGPT."
-    publishedDateTime: 2023-12-12T00:20:00Z
-    webUrl: "https://www.ajc.com/news/business/atlanta-leaders-tapped-for-new-ethics-initiative-launched-by-openai/7MGJFO5L2ZGYPEY3WDDBGK24FE/"
-    type: article
-    provider:
-      name: Atlanta Journal-Constitution
-      domain: ajc.com
-    quality: 54
-    images:
-      - url: "https://www.ajc.com/resizer/ADpdo9Ovx_GNCxZpbwSFDxlH4eY=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/BGDXRLZMLWWU33ZJ5ACDJNWMDE.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Operation HOPE’s John Hope Bryant and Open AI’s Sam Altman Announce Formation of First-of-Its-Kind AI Ethics Council at 2023 Annual Meeting of the Hope Global Forums in Atlanta"
     excerpt: "On stage yesterday afternoon at the 2023 Annual Meeting of the Hope Global Forums in Atlanta, GA, Operation HOPE’s John Hope Bryant and Open AI’s Sam"
     publishedDateTime: 2023-12-12T14:22:00Z

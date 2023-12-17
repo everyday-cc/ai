@@ -74,15 +74,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "Helpful Or Harmful? How AI Shaped Education In 2023"
-    excerpt: "For all its benefits, AI technology does bring challenges that go beyond cheating or ethics. Many parents, educators, and students are concerned about privacy and safety when using AI tools. Forest explains that governmental regulations on data privacy and ..."
-    publishedDateTime: 2023-12-12T00:00:00Z
-    webUrl: "https://www.sciencefriday.com/articles/ai-education/"
-    type: article
-    provider:
-      name: Science Friday
-      domain: sciencefriday.com
-    quality: 36
   - title: "How 4 NYC high school students say AI-powered tools are changing their education"
     excerpt: "New York City has grappled this year with how to respond to ChatGPT and other artificial intelligence-powered tools, banning them on school devices before later reversing course."
     publishedDateTime: 2023-12-14T12:45:00Z

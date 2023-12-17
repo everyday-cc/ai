@@ -84,15 +84,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "Helpful Or Harmful? How AI Shaped Education In 2023"
-    excerpt: "For all its benefits, AI technology does bring challenges that go beyond cheating or ethics. Many parents, educators, and students are concerned about privacy and safety when using AI tools. Forest explains that governmental regulations on data privacy and ..."
-    publishedDateTime: 2023-12-12T00:00:00Z
-    webUrl: "https://www.sciencefriday.com/articles/ai-education/"
-    type: article
-    provider:
-      name: Science Friday
-      domain: sciencefriday.com
-    quality: 36
   - title: "Pension department Embraces Facial Recognition for Pensioner Verification: A Step Forward?"
     excerpt: "Department of Pension & Pensioners Welfare (DoP&PW) is possibly one of the first departments in the government sector to have started using the latest ‘Face Recognition Technology’ for establishing Aadhaar-based identification of elderly pensioners to generate ‘Digital Life Certificate’,"
     publishedDateTime: 2023-12-12T08:46:00Z

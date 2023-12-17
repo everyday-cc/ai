@@ -72,20 +72,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Mind-reading technology transforms thoughts into text"
-    excerpt: "In an unprecedented scientific achievement, experts have developed a system that is capable of reading human thoughts and converting them into text. The technology was designed by the GrapheneX-UTS Human-centric Artificial Intelligence Centre at the University of Technology Sydney (UTS)."
-    publishedDateTime: 2023-12-12T00:25:00Z
-    webUrl: "https://www.earth.com/news/mind-reading-technology-transforms-thoughts-into-text/"
-    type: article
-    provider:
-      name: earth
-      domain: earth.com
-    quality: 24
-    images:
-      - url: "https://cff2.earth.com/uploads/2023/12/11171532/Mind-reading-technology-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "New Cap Uses AI to ‘Read Minds’ and Convert Thoughts to Text"
     excerpt: "Unlike most 'mind-reading' technologies, this one doesn't involve eye tracking or a surgically implanted brain chip."
     publishedDateTime: 2023-12-14T13:10:00Z
@@ -95,15 +81,6 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 19
-  - title: "Portable, non-invasive, mind-reading AI turns thoughts into text (w/video)"
-    excerpt: "“It is the first to incorporate discrete encoding techniques in the brain-to-text translation process, introducing an innovative approach to neural decoding. The integration with large language models is also opening new frontiers in neuroscience and AI ..."
-    publishedDateTime: 2023-12-12T00:00:00Z
-    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=64235.php"
-    type: article
-    provider:
-      name: Nanowerk
-      domain: nanowerk.com
-    quality: 17
 
 secured: "9aK3eBXcDPHX0D/4NUMmFnkDXGzXL5tnWlTuFpRZhMU5/jQOaEOXzKTpozfQ25X2s5VzLmy0ip99dUo3hBZHZvMIdqDLfykLumvV+ETh1KqqepJBeca43mlakH4MD65l2cRrlrEl+H4NdmBCDTWqnzqnt9QTo93wTSW5IshrhdWhzCkCUQBwdUI/qHso3lKVlJjjJGm6jeDvAOQ6Xto+RxM61SVbVJ9ZenOmaQIuxbD6yEC5pGZWCYYTpdOGrMdQjIuCN8TtK+KCQGztVjrqlRHKNoVCbqsbceTt0gy3cLj5f8mA9UrKa6c2nSLlRB0V2GvbLU9fUD2+nrt36GrJXYjdsqsU/mxsxZbCPhOZzg56uHMZBTFBj4cw0WbuKFG61QFQcyOrIyMhcex094LNLp4yPx+2zpIhm5RCuiOPpk0biTa+1zFLt1dHqvMudwlX4QfvEOqX/d9yZYDA7KjhET4dlkZ/QSIQJtjD5lC7JAr6fz+yCthQ9KEDUxvueYad/I6St/SY5woT1zyvLC7W1A==;SVPjGSVzhQ/qxB035Bx+jw=="
 ---

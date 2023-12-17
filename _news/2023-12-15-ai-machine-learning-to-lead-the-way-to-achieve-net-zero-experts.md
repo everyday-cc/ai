@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/cities/ahmedabad/ai-machine-learni
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/cities/ahmedabad/ai-machine-learning-to-lead-the-way-to-achieve-net-zero-experts-9068876/lite/"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

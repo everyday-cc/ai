@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "A developer’s guide to getting started with generative AI: A use case-specific approach"
-    excerpt: "Most developers find the best fit for their requirements and budget by starting with a large generative AI model to adapt to their own needs."
-    publishedDateTime: 2023-12-12T00:29:00Z
-    webUrl: "https://venturebeat.com/ai/a-developerss-guide-to-getting-started-with-generative-ai-a-use-case-specific-approach/"
+  - title: "Responsible AI: navigating the risks and embracing the possibilities"
+    excerpt: "We speak to some members of A&O’s AI working group. The terms ‘AI ethics’, ‘trustworthy AI’ and ‘responsible AI’ are often used interchangeably, but there’s a technical distinction between the three despite the overlaps, as A&O counsel ..."
+    publishedDateTime: 2023-12-13T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/responsible-ai-navigating-the-risks-and-7868128/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 59
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 39
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/12/AdobeStock_489073482.jpeg?w=1200&strip=all"
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15444_392.jpg"
         width: 1200
-        height: 676
+        height: 900
         isCached: true
 
 secured: "9Tb+WHYMZ40pbqiitt492QLqvFkT2muhXG2g3GpLgYz2FIoRfcJ3QWXAHCCYgwKt5BGEc1IIrUNchtwFcluMpczv0eSq4WpT/x1UZSB9Hf2Tl+9p4q9hC/uTJ2QDQjz22tJKuUAkv4U5T5UUpUc/tHVPWy1Tek4IfmGLclUI9PP9w4zun0GIBzYH+yVHs+/0m8JqWpZJVcSvcAGgi9EHZh5Sz5xLz6/Y/9krsZaCTU1fk2VaMZatNUMJklM6Dv7oBSjDdvSwywlwgOWY89gEQN3GZBzApf9+AC0MnsAnSuwhIVTXe5jrAEby/nMqz+h75BMQBv+X3/1FETnIguj+S+TVQphYUQaB7Ke8Y+4l7dlilSkrZoEDHIP/sSJ38lrtwM6jLKF3m0/LCFT+D8iUJx3AF8M0vkYUp0OrOu3kr7xBuq0cEMoejNiEe6pyu6FeoC8joS3PE9suxWXggs1LWuQLzo/9SwARCHybuFG11TNR3yvkKNdZkv+32ecjGVyXZ3oz/f/m93QR7Jh0eSloVQ==;/MqRUY9LLCUrZ8+p3Y9vig=="

@@ -79,29 +79,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Mind-reading technology transforms thoughts into text"
-    excerpt: "In an unprecedented scientific achievement, experts have developed a system that is capable of reading human thoughts and converting them into text. The technology was designed by the GrapheneX-UTS Human-centric Artificial Intelligence Centre at the University of Technology Sydney (UTS)."
-    publishedDateTime: 2023-12-12T00:25:00Z
-    webUrl: "https://www.earth.com/news/mind-reading-technology-transforms-thoughts-into-text/"
-    type: article
-    provider:
-      name: earth
-      domain: earth.com
-    quality: 24
-    images:
-      - url: "https://cff2.earth.com/uploads/2023/12/11171532/Mind-reading-technology-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
-  - title: "Portable, non-invasive, mind-reading AI turns thoughts into text (w/video)"
-    excerpt: "“It is the first to incorporate discrete encoding techniques in the brain-to-text translation process, introducing an innovative approach to neural decoding. The integration with large language models is also opening new frontiers in neuroscience and AI ..."
-    publishedDateTime: 2023-12-12T00:00:00Z
-    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=64235.php"
-    type: article
-    provider:
-      name: Nanowerk
-      domain: nanowerk.com
-    quality: 17
 
 secured: "8/3NLYNWbiHYD3dUXZpoUl3P3ipp9S9AIhu0VACz9A/ZWukq+6Z7XDHFcCYSl2N6rJhBDYOJ1stJ6A8z4sVs2pocjJPVI3z0NONGkPMEV3hUpnCnXCM/dpiYDuDO33wDt5CGN0km+l8xu8tucA7Bj/Ey2kGuDGsRT8nCERIJHGNO6M1i6JNrKIy7x2YW08YJwVYA3u03bJykfbfBDrkhYBVLzBYU5+R/QkAB4ldErMagq3xrOfuNQmPjRw/CQmHysPlLatSXsp+TNpvoXRZ80RAgfhXGX5F+RfPtJsCgZvQlSnbQlEIslLCNA4+prqDYn0H4NiVay1AqZXjhw3x5q/t3Iu/kOCuhdg/TbXoZG5hojafqGlPxEyZmtaLsDbbJAMeIsf2UHqYGN4TdOCpsWpOuMfTuPyQsOFH2YRpZt4/HQmNlM6inJ4SWdP9qICkJgq1U60iUF959MAoHndhBTJOPVesvCqNMbBfwDODUNPCH5PRPwVt3lRr/h8dYa2WZ0X1222MXBU2fZWdzznpc4A==;kTuy8yKJVlx6c0oYl5tqoA=="
 ---

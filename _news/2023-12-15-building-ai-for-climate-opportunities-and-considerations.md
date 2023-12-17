@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/15/buildi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/12/15/building-ai-for-climate-opportunities-and-considerations/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -39,15 +39,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "AI Applications in Finance: Considering the Benefits and Risks"
-    excerpt: "Considering the history of finance, today we are on the ... (full story)"
-    publishedDateTime: 2023-12-15T05:40:00Z
-    webUrl: "https://www.forexfactory.com/news/1257579-ai-applications-in-finance-considering-the-benefits-and"
-    type: article
-    provider:
-      name: Forex Factory
-      domain: forexfactory.com
-    quality: 34
 
 secured: "qgcR07EApoH9p6aiQl9TLq/NxyS72OgH8y+ioSWvoaiL/YdRXOHjsQXVNR9d7CrGBcnrVQqEO+N6z7hbqiwSUJx0dgDpfn5HwevPMV/v1zpBJqvfEHShyF/1Z4qMjANXi+dJeyMJkGWBDpDZwNAqsdNJvEYKh7ZVZQdV6/hW/VgI57eXRjgPls/JoUBIKSuW5GQLP29AtdWgcbNJG5a9lFRnxJMQ5CaJitucf0JLdf8GQLDKJaBBsOyFZj2goMQKMWgANygpORuzYLQZZKfVlDO5FA4An+lnGKpOg0eIvHyahtvqsJpQt5rImH1LNCAitRnYLwcgoh8rVjTX9rYZGVm7OBQZ3Nkwd8b4GUciKU14LRJuB7F8rTOQki/5qI9SebJ9nPt5V1qAmzb87NXGX7kv5gmuGlPZo0YlcKJtKqAaVw0VGYLo9m9tzBOWYNA9ejc/HXQjjrN02jgDXFGs603K0RlbsuFKu1HeOTs/w6395fW4mGKYyipSV9SO6bULsrgBmDg+hC/QWN+udAcm5w==;yGgixNLdIxf8KIjxak6Sig=="
 ---

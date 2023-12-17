@@ -53,20 +53,6 @@ related:
         width: 700
         height: 394
         isCached: true
-  - title: "5 Investment Tools That Dominated the FinTech Scene in 2023"
-    excerpt: "For long-term financial needs, such as retirement, upcoming vacations, or a down payment, Betterment’s investment strategy employs low-cost ETFs (exchange-traded funds) and adjusts the risk profile based on the individual's goal type and the planned investment  duration."
-    publishedDateTime: 2023-12-12T06:14:00Z
-    webUrl: "https://www.finextra.com/blogposting/25365/5-investment-tools-that-dominated-the-fintech-scene-in-2023"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://lh7-us.googleusercontent.com/fuiGfpQyPe9FyQNKlg8YUnSi9SDiqK2m0y5o298xlhV2t9Qu6tvGucPndFkWm4II9OI7GmGiEItjM9PH-0p-TOcV2jpuGHkZcyjeNPeh6qHUtzpBxOojIl_4zlIUYI4GJfLVy4LeRO25UHKe-qGDkLc"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Infibeam Avenues acquires 49% stake in Pirimid Fintech, shares up"
     excerpt: "Infibeam Avenues Ltd's shares rose 6.51% after investing Rs 25 crore in Pirimid Fintech to leverage capital markets tech & digital lending."
     publishedDateTime: 2023-12-15T04:56:00Z

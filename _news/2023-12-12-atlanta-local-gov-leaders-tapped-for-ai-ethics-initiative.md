@@ -7,7 +7,7 @@ originalUrl: "https://www.govtech.com/artificial-intelligence/atlanta-local-gov-
 webUrl: "https://www.govtech.com/artificial-intelligence/atlanta-local-gov-leaders-tapped-for-ai-ethics-initiative"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI launches ethics initiative. Atlanta leaders tapped to help"
-    excerpt: "Atlanta nonprofit, activist and educational leaders will be part of a new ethics council on artificial intelligence co-chaired by Sam Altman, CEO of OpenAI, the company behind ChatGPT."
-    publishedDateTime: 2023-12-12T00:20:00Z
-    webUrl: "https://www.ajc.com/news/business/atlanta-leaders-tapped-for-new-ethics-initiative-launched-by-openai/7MGJFO5L2ZGYPEY3WDDBGK24FE/"
-    type: article
-    provider:
-      name: Atlanta Journal-Constitution
-      domain: ajc.com
-    quality: 54
-    images:
-      - url: "https://www.ajc.com/resizer/ADpdo9Ovx_GNCxZpbwSFDxlH4eY=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/BGDXRLZMLWWU33ZJ5ACDJNWMDE.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "How Black Atlanta leaders could help tackle racial disparities in AI"
     excerpt: "AI is seen as the next frontier of technology. While some marvel and its ability to automate certain tasks, there are many questions about how to govern the technology and risks it poses, particularly for people of color."
     publishedDateTime: 2023-12-12T16:49:00Z
