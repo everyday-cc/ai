@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/12/15/why-this-ai-stock-looks-
 webUrl: "https://www.fool.com/investing/2023/12/15/why-this-ai-stock-looks-dirt-cheap/"
 type: article
 quality: 84
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Top 5 Artificial Intelligence (AI) Stocks You Need To Know For 2024"
+    excerpt: "Artificial intelligence was salvation for Wall Street this year and it could heat up in 2024. Click here for top 5 AI stocks for 2024."
+    publishedDateTime: 2023-12-17T21:00:00Z
+    webUrl: "https://seekingalpha.com/article/4658125-top-5-artificial-intelligence-ai-stocks-you-need-to-know-for-2024"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 52
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1050855182/image_1050855182.jpg?io=getty-c-w1536"
+        width: 1536
+        height: 1024
+        isCached: true
   - title: "Here's How You Can Invest in Artificial Intelligence (AI) Stocks Just Like Cathie Wood"
     excerpt: "Cathie Wood is the head of Ark Investment Management, which operates 13 exchange-traded funds (ETFs) designed to give investors exposure to innovative new industries like artificial intelligence (AI), electric vehicles, robotics, and even space exploration."
     publishedDateTime: 2023-12-14T05:30:00Z

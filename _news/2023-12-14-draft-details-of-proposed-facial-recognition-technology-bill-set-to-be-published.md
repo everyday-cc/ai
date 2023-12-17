@@ -41,20 +41,6 @@ related:
         width: 1280
         height: 960
         isCached: true
-  - title: "Police starts AI based facial recognition system in Kishtwar"
-    excerpt: "In a significant stride towards bolstering security measures, SSP Kishtwar, Khalil Poswal along with Additional SP Kishtwar, Rajinder Singh here today made functional an advanced Artificial Intelligence (AI) based facial recognition system at Morden Naka in Drabshalla."
-    publishedDateTime: 2023-12-12T21:52:00Z
-    webUrl: "https://www.dailyexcelsior.com/police-starts-ai-based-facial-recognition-system-in-kishtwar/"
-    type: article
-    provider:
-      name: Daily Excelsior
-      domain: dailyexcelsior.com
-    quality: 54
-    images:
-      - url: "https://cdndailyexcelsior.b-cdn.net/wp-content/uploads/2023/12/kishtwar.jpg"
-        width: 800
-        height: 307
-        isCached: true
   - title: "BCSO considering use of facial recognition to identify suspects"
     excerpt: "The Benton County Sheriff's Office is testing the use of facial recognition software to identify criminals and suspects."
     publishedDateTime: 2023-12-14T02:55:00Z

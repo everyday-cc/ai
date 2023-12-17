@@ -64,6 +64,15 @@ related:
       name: The Punch Newspapers
       domain: punchng.com
     quality: 19
+  - title: "Nigerian Audit Chiefs Urge Tighter Oversight of Fintech Sector"
+    excerpt: "The Association of Chief Audit Executives of Banks in Nigeria (ACAEBIN) has urged for tougher regulations in the fintech sector and the operations of Bureaux"
+    publishedDateTime: 2023-12-17T10:17:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/12/218389-nigerian-audit-chiefs-urge-tighter-oversight-of-fintech-sector/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 4
 
 secured: "I2wJKxyQPM0UfoirgtUtCTeKwmVmp3GOlCI10tLucxyhxPUSG5kmOBg7L9kMZTAjh0m8mpJJj6E0xSQ9dYuKYOu6Pzk2D26y45u00XTuFyR133+aXx5OpviCQEO43e61DPgsTP+7Kze3NGEekTlHk1D0O7LavZm2MbrwI67enX7VYXdNCf54aSW55t7KFH5t1AgFYzJs9d5D5eccTzMIpAwtGNQ56WlOwDSRDKI9i6qujXmk5nA2K3lhvgZruz7xwVc7/SWKoSWibsf6h3wz7sdG1j1rbrh1k4O1N6im7EKng/9H1jYFBeQCJa0Zf/RrAh4VH8TN/wnEJA8tjZ1A8DDn4twCpUEYDxneV2Qi28VantpsLtixI+izTW3XvkfZhklgGajj4Kk59ni5RpPoOZsIMIf5lYkGTte2Xaxmb0r5ZjvqXU7KNuVWsf7Ujh4c15s1y1iO8QadTwGPganJK1dBQ8v192lM6PAWt2b8KJERAmts9LdenSFzQ/erS24/lsRzLkxKIcsXdYaPRL9/zA==;wx/L4S383Isuvs5hCEutOQ=="
 ---

@@ -100,15 +100,6 @@ related:
         width: 1229
         height: 630
         isCached: true
-  - title: "Create a web UI to interact with LLMs using Amazon SageMaker JumpStart"
-    excerpt: "The launch of ChatGPT and rise in popularity of generative AI have captured the imagination of customers who are curious about how they can use this technology to create new products and services on AWS, such as enterprise chatbots, which are more conversational. This post shows you how you can create"
-    publishedDateTime: 2023-12-12T19:09:54Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/create-a-web-ui-to-interact-with-llms-using-amazon-sagemaker-jumpstart/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 69
 
 secured: "xg4kiARiIRSlLd9xOCnyW1Em2CdrmmkOOXVpYDcPIgs9Ll8f+tuB1ResIEgOgJM63qAVXWcIg+1/90kQn7ZYzpETmYlWKxEY8YkUox8Uw4F3ZZ89qlne7zgGndhK/+Q7tb/Of8HoAGso5AP9+AIATQpPvtZ27TWtpCkklsOo1XUG0OwScmby7PWig15K3/PGparvh62OZ5NIlwnT5AJF5fB9aQaEVOQr6SBWIfH39SjBQOhADpl6+nw63RJvCcoR5DTK9gv44FBJ1eKsqLc7gvo0TksaTbMIL3RYjLcQGLfRWLdx9HJm4l+y3E4lSzMrVEKwXLr1ti/VoI7rG9/dnSGaMXAdWahxXlUokjpdUGg=;dt87g07mByTsvjCByAoRGw=="
 ---

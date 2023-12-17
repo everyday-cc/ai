@@ -53,24 +53,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Cross-Campus Approaches to Building a Generative AI Policy"
-    excerpt: "Particularly for new technologies that disrupt long-standing practices and cultural beliefs, the work of carefully and intentionally developing effect"
-    publishedDateTime: 2023-12-12T20:42:00Z
-    webUrl: "https://er.educause.edu/articles/2023/12/cross-campus-approaches-to-building-a-generative-ai-policy"
-    type: article
-    provider:
-      name: er.educause.edu
-      domain: educause.edu
-    quality: 19
-  - title: "Generative AI Firm Native AI Ushers in A New Era of Hyper-Personalized Brand Experiences"
-    excerpt: "Generative AI solutions like Native AI take this a step further: now brands and researchers can predict future trends and run simulations based on hypotheticals."
-    publishedDateTime: 2023-12-12T20:39:00Z
-    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/12/12/generative-ai-firm-native-ai-ushers-in-a-new-era-of-hyper-personalized-brand-experiences/71897040007/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 8
 
 secured: "YJKpnTeSoFvn66gVBs02WpY+T7eQ6lxjSYsv+5JRhJ29j/CIjkgAYaO9IHAijKJsY9vfHD0O+jtK8gFNO9c19Cu2Zza8tBH5RUcNxtN2Zm6J5AmewZUR2m9Y4u7NzUEyUjLrdQ+bDzCQVbA1u9mtndc3tiwmWh4Sx9gRAyxgzsdO9sauf+Ez+kABH1ryqUVho85N5m/Jf40Dbi321SQJ7yyjxEdthWzxfCmPz+T2rgqKY2M55PrdIc5aNdq171jibL7TpOzs8MVaakpsooW0BQLXV4oSZnMW42WjOPX2dqbuBtgKFpuWK25I3AAVGmo6DbeaSTy+nyMb3gMg1ABe9SFc9WlKtu8gNyAOMZtJ9FwyV5+4Aqc1J7w/p9NUsLiK/ETL1tjvCcpxeF3ZdgjA/xU7z+UDjslh9Cy/mJs7glngr2y3ubfMzHT8+knDwHg/ejoHFU4P29Cw5T8GQDnvKan+YIzePCahyKQr6KM/xA4g6BnxsGUm3Uu3Qv9pClK2qMqXcy2EbMQRW3HxXzwUTA==;YU2gmUQCyFPJPjSQDH0KbQ=="
 ---

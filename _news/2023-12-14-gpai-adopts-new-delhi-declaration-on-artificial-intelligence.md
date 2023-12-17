@@ -25,19 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Calling for caution, PM flags need for ethics, democratic values in AI"
-    excerpt: "India is negotiating with GPAI member countries for a consensus on a declaration document on the proper use of AI, the guardrails for the technology, and how it can be democratised."
-    publishedDateTime: 2023-12-12T22:51:00Z
-    webUrl: "https://indianexpress.com/article/india/calling-for-caution-pm-flags-need-for-ethics-democratic-values-in-ai-9065718/"
-    ampWebUrl: "https://indianexpress.com/article/india/calling-for-caution-pm-flags-need-for-ethics-democratic-values-in-ai-9065718/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/india/calling-for-caution-pm-flags-need-for-ethics-democratic-values-in-ai-9065718/lite/"
+  - title: "GPAI should help frame sustainable AI rules: PM"
+    excerpt: "The prime minister emphasized that a large part of the course of AI development will come through “human and democratic values”"
+    publishedDateTime: 2023-12-13T04:48:00Z
+    webUrl: "https://www.livemint.com/ai/artificial-intelligence/gpai-should-help-frame-sustainable-ai-rules-pm-11702401229429.html"
+    ampWebUrl: "https://www.livemint.com/ai/artificial-intelligence/gpai-should-help-frame-sustainable-ai-rules-pm/amp-11702401229429.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/artificial-intelligence/gpai-should-help-frame-sustainable-ai-rules-pm/amp-11702401229429.html"
     type: article
     provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 74
+      name: Mint
+      domain: livemint.com
+    quality: 59
     images:
-      - url: "https://images.indianexpress.com/2023/12/PM-Narendra-Modi-with-others-at-the-inaugural-ceremony-of-the-Global-Partnership-on-Artificial-Intelligence-Summit.-PTI.jpg"
+      - url: "https://www.livemint.com/lm-img/img/2023/12/12/1600x900/PTI12-12-2023-000248B-0_1702401366273_1702401381608.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "GPAI meet adopts New Delhi AI declaration"
+    excerpt: "Further, the declaration also saw participating nations agree upon using the GPAI platform to create a global framework on AI trust and safety, and make AI solutions and benefits available for all. India also pitched to host a GPAI Global Governance Summit to finalize the proposed framework, in six months."
+    publishedDateTime: 2023-12-14T04:43:00Z
+    webUrl: "https://www.livemint.com/news/india/gpai-meet-adopts-new-delhi-ai-declaration-11702487342900.html"
+    ampWebUrl: "https://www.livemint.com/news/india/gpai-meet-adopts-new-delhi-ai-declaration/amp-11702487342900.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/gpai-meet-adopts-new-delhi-ai-declaration/amp-11702487342900.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/12/13/1600x900/GPAI_2023_full_delegation_1702487461909_1702487466925.jpg"
         width: 1600
         height: 900
         isCached: true

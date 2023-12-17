@@ -9,7 +9,7 @@ ampWebUrl: "https://www.kxan.com/news/local/hays/hays-county-approves-ai-facial-
 cdnAmpWebUrl: "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/local/hays/hays-county-approves-ai-facial-recognition-technology-for-sheriffs-office/amp/"
 type: article
 quality: 72
-heat: 182
+heat: 172
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Police starts AI based facial recognition system in Kishtwar"
-    excerpt: "In a significant stride towards bolstering security measures, SSP Kishtwar, Khalil Poswal along with Additional SP Kishtwar, Rajinder Singh here today made functional an advanced Artificial Intelligence (AI) based facial recognition system at Morden Naka in Drabshalla."
-    publishedDateTime: 2023-12-12T21:52:00Z
-    webUrl: "https://www.dailyexcelsior.com/police-starts-ai-based-facial-recognition-system-in-kishtwar/"
-    type: article
-    provider:
-      name: Daily Excelsior
-      domain: dailyexcelsior.com
-    quality: 54
-    images:
-      - url: "https://cdndailyexcelsior.b-cdn.net/wp-content/uploads/2023/12/kishtwar.jpg"
-        width: 800
-        height: 307
-        isCached: true
   - title: "Draft details of proposed Facial Recognition Technology Bill set to be published"
     excerpt: "The outline of legislation which would allow gardaí to use Facial Recognition Technology (FRT) will be published today. Justice Minister Helen McEntee this week received Cabinet approval for the draft Facial Recognition Technology Bill. In the aftermath ..."
     publishedDateTime: 2023-12-14T00:01:00Z

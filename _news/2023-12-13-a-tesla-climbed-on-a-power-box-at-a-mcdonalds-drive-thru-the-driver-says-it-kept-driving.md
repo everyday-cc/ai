@@ -25,21 +25,86 @@ images:
     isCached: true
 
 related:
-  - title: "Virginia sheriff says Tesla Autopilot was running before driving under tractor-trailer"
-    excerpt: "Virginia authorities have determined that a Tesla was operating on its Autopilot system and was speeding in the moments leading to a crash with a crossing tractor-trailer last July that killed the Tesla driver."
-    publishedDateTime: 2023-12-12T22:43:00Z
-    webUrl: "https://www.autoblog.com/2023/12/12/virginia-sheriff-says-tesla-autopilot-was-running-before-driving-under-tractor-trailer/"
-    ampWebUrl: "https://www.autoblog.com/amp/2023/12/12/virginia-sheriff-says-tesla-autopilot-was-running-before-driving-under-tractor-trailer/"
-    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2023/12/12/virginia-sheriff-says-tesla-autopilot-was-running-before-driving-under-tractor-trailer/"
+  - title: "Heard on the Street: Tesla’s Recall Highlights the Limits of ‘Full Self-Driving’ Tech"
+    excerpt: "A Tesla dealership in Corte Madera, Calif., in October. (Justin Sullivan/Getty Images) Tesla’s big recall hasn’t moved its shares much. That isn’t a surprise given the limited cost of the fix— but it isn’t the end of the story, either. On ..."
+    publishedDateTime: 2023-12-13T16:15:00Z
+    webUrl: "https://www.wsj.com/livecoverage/fed-meeting-fomc-interest-rate-december-2023/card/heard-on-the-street-tesla-s-recall-highlights-the-limits-of-full-self-driving-tech-5t1wARKk5hZZYznApkee"
     type: article
     provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 66
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 62
     images:
-      - url: "https://s.aolcdn.com/images/dims3/GLOB/crop/2082x1171+414+0/resize/800x450!/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2023/12/12174123/Screenshot-2023-12-12-at-5.38.41-PM.png"
-        width: 800
-        height: 450
+      - url: "https://images.wsj.net/im-899985/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "The self-driving safety concerns that led to Tesla’s recall of 2 million cars"
+    excerpt: "Tesla has recalled 2 million cars, nearly all of its vehicles sold in the U.S. since 2012, because of issues with its self-driving features. Safety regulators have investigated nearly a thousand crashes involving Tesla's autopilot system,"
+    publishedDateTime: 2023-12-13T22:25:00Z
+    webUrl: "https://www.pbs.org/newshour/show/the-self-driving-safety-concerns-that-led-to-teslas-recall-of-2-million-cars"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/show/the-self-driving-safety-concerns-that-led-to-teslas-recall-of-2-million-cars"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/the-self-driving-safety-concerns-that-led-to-teslas-recall-of-2-million-cars"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 56
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2023/12/recalled-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Tesla issues recall for almost two million of its cars due to faulty self-driving tech"
+    excerpt: "Self-driving vehicles will remain in the world of science fiction as Tesla is recalling two million of its cars to prevent drivers from misusing the Autopilot function."
+    publishedDateTime: 2023-12-13T20:20:00Z
+    webUrl: "https://www.techradar.com/vehicle-tech/tesla-issues-recall-for-almost-two-million-of-its-cars-due-to-faulty-self-driving-tech"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 41
+  - title: "Tesla pumps the brakes on self-driving, recalls its vehicles"
+    excerpt: "To limit the use of its self-driving technology, Tesla has recalled almost all of its 2 million cars in the U.S."
+    publishedDateTime: 2023-12-13T17:10:00Z
+    webUrl: "https://www.washingtontimes.com/news/2023/dec/13/tesla-pumps-brake-self-driving-recalls-its-vehicle/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 39
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2023/12/13/Tesla_Auto_Pilot_Recall_93271_c0-234-5616-3510_s1200x700.jpg?cb8bdaaafe19aeefebbc81a4d50578aeb1d81bb7"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Tesla recalls 2 million vehicles over self-driving safety concerns"
+    excerpt: "The probes came in response to Teslas with Autopilot crashing into first-responder vehicles as well as random sudden braking – known as ‘phantom braking’ – from considerable speed on highways."
+    publishedDateTime: 2023-12-13T23:51:00Z
+    webUrl: "https://www.whichcar.com.au/news/tesla-recalls-2-million-vehicles-over-self-driving-safety-concerns"
+    type: article
+    provider:
+      name: whichcar
+      domain: whichcar.com.au
+    quality: 39
+    images:
+      - url: "https://cdn.whichcar.com.au/assets/p_social/c4870a66/tesla-autopilot.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Tesla ‘recalls’ 2m cars over self-driving feature"
+    excerpt: "Chronically bad drivers could be blocked from using Tesla’s Autosteer feature after US road safety authorities forced the electric vehicle maker to issue a ‘recall’ that will improve the feature on all of the more than 2 million cars it has sold in the US and Canada since 2012."
+    publishedDateTime: 2023-12-14T02:37:00Z
+    webUrl: "https://ia.acs.org.au/article/2023/tesla--recalls--2m-cars-over-self-driving-feature.html"
+    type: article
+    provider:
+      name: ia.acs
+      domain: acs.org.au
+    quality: 39
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/tesla%20self%20driving%20update.jpg"
+        width: 1000
+        height: 563
         isCached: true
   - title: "Tesla Autopilot Recall Deals Another Blow to Self-Driving Cars"
     excerpt: "According to the NHTSA recall report, when Autosteer or any other Level 2 system is engaged, “as the vehicle operator, the driver is responsible for the vehicle’s movement with their hands on the steering wheel at all times, remaining attentive to surrounding road conditions, and intervening … as needed to maintain safe operation.”"
@@ -50,6 +115,15 @@ related:
       name: autoweek
       domain: autoweek.com
     quality: 19
+  - title: "Tesla Recall Little More Than A Short Detour On The Path To Full Self-Driving"
+    excerpt: "Tesla is introducing FSD12 self-driving technology, which uses neural networks to mimic human decision-making. Read more about TSLA stock here."
+    publishedDateTime: 2023-12-15T17:50:00Z
+    webUrl: "https://seekingalpha.com/article/4658120-tesla-recall-little-more-than-a-short-detour-on-the-path-to-full-self-driving"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 16
 
 secured: "qW71jr4ADNROJzBePG2LSaV74NXYnnCpcpZ8LwBbPqKx644Mr+fcue4vH2eDffxp6kWYEdxJvM/9CNj4oty/xs4y8nu8wrjKsY3LSmqe8QPlZ5ucjtolwm4Gj5L1ceSv/3lMPpPLxnF8t4U+LsulEYFx6FqGsiALivh341Fv+Jr2B+gMWbjsUJZTvtsCMvpBRJE4vjm9sllUpkxOzq31Uy37qVF8WLGLOyIXf3xUoSK38sYtYWkRqzQicMDyo7HCmnikasGOxRjMLWXsAiQWEer5JiWGSPJNKHQ6W9W8cHOFRCq4WZkMxD4Jjq+vUSZ2MJD8SMpNJxZX+3BIfn8d1MQ4YcoCwoMM8T2tHIeEdEycsAhQ8YIBJcHgQyOxeQpr0IaUUckLoRBk4GqYe5UiA4S1w8xXdxJ9ALSuA9UCq05Ch3HhZro4oy1/H0dvVAW3VLFQVm7mtk4B2X/8X+YBYaXxzZuTb4QJaryBLdXgyGiSAyT3dmZ91X0X4ftwI2En7kRmz00fVxvw1lZEwcwrmg==;zupDP47o8rU3mrUKx1GARA=="
 ---

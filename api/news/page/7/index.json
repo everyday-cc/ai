@@ -2,6 +2,93 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-12-12-us-discusses-ai-chip-sales-to-china-with-nvidia-says-raimondo.md",
+      "title": "U.S. discusses AI Chip sales to China with Nvidia, says Raimondo",
+      "excerpt": "The U.S. government is currently in talks with NVIDIA (NVDA) regarding the conditions under which it can sell AI chips to China. The administration has made it clear that Nvidia (NASDAQ: NVDA) is not allowed to export its most sophisticated semiconductors to Chinese companies.",
+      "sourceUrl": null,
+      "webUrl": "https://au.investing.com/news/stock-market-news/us-discusses-ai-chip-sales-to-china-with-nvidia-says-raimondo-432SI-3060981",
+      "originalUrl": "https://au.investing.com/news/stock-market-news/us-discusses-ai-chip-sales-to-china-with-nvidia-says-raimondo-432SI-3060981",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 231,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i-invdn-com.investing.com/news/moved_LYNXMPEHAH0WT_L.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://m.au.investing.com/news/stock-market-news/us-discusses-ai-chip-sales-to-china-with-nvidia-says-raimondo-432SI-3060981?ampMode=1",
+      "cdnAmpWebUrl": "https://m-au-investing-com.cdn.ampproject.org/c/s/m.au.investing.com/news/stock-market-news/us-discusses-ai-chip-sales-to-china-with-nvidia-says-raimondo-432SI-3060981?ampMode=1",
+      "publishedDateTime": "2023-12-11T20:36:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investing",
+        "domain": "investing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-12-12-nvidia-contemplates-intel-as-potential-manufacturing-partner-for-gpu-and-ai-chips.md",
+      "title": "Nvidia contemplates Intel as potential manufacturing partner for GPU and AI chips",
+      "excerpt": "Nvidia GPUs held more than 70 percent of the data center processor market share in the latest quarter, with the majority of chips being manufactured by",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/101160-nvidia-contemplates-intel-potential-manufacturing-partner-gpu-ai.html",
+      "originalUrl": "https://www.techspot.com/news/101160-nvidia-contemplates-intel-potential-manufacturing-partner-gpu-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-11T20:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-11-the-advantages-and-disadvantages-of-hybrid-cloud.md",
       "title": "The advantages and disadvantages of hybrid cloud",
       "excerpt": "Business and IT leaders need to review the advantages and disadvantages of hybrid cloud adoption to reap its benefits.\nThe post The advantages and disadvantages of hybrid cloud appeared first on IBM Blog.\n",
@@ -372,6 +459,40 @@
         "Natural Language Processing",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-12-11-nokia-and-celesta-capital-announce-major-strategic-partnership-for-acceleration-of-deep-technologies.md",
+      "title": "Nokia and Celesta Capital Announce Major Strategic Partnership for Acceleration of Deep Technologies",
+      "excerpt": "Nokia Bell Labs and Celesta to collaborate in commercializing emerging technologies, including AI, advanced communications, semiconductors, and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2023/12/11/9931563.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2023/12/11/9931563.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-11T15:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1007,144 +1128,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-the-samsung-galaxy-s24-could-borrow-the-pixel-8s-best-ai-features.md",
-      "title": "The Samsung Galaxy S24 could borrow the Pixel 8’s best AI features",
-      "excerpt": "If these features all arrive on the Samsung Galaxy S24 line then these phones could rival the Google Pixel 8 for AI skills, though you might not even need Samsung’s upcoming flagship for this, as One UI 6.1 will also be rolled out to the Samsung Galaxy S23 and many of the other best Samsung phones.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/phones/samsung-galaxy-phones/the-samsung-galaxy-s24-could-borrow-the-pixel-8s-best-ai-features",
-      "originalUrl": "https://www.techradar.com/phones/samsung-galaxy-phones/the-samsung-galaxy-s24-could-borrow-the-pixel-8s-best-ai-features",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/tpd7gmNEhsXRqYGrfVLuJ5-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-11T10:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-north-america-artificial-intelligence-in-healthcare-market-to-hit-usd-1142-billion-by-2033-says-we-market-research.md",
-      "title": "North America Artificial Intelligence in Healthcare Market to hit USD 114.2 Billion by 2033, Says We Market Research",
-      "excerpt": "As per the most recent analysis conducted by We Market Research, the North America Artificial Intelligence in Healthcare Market is poised to achieve a valuation of $114.2 billion by the conclusion of 2033.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2023/12/11/9931143.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2023/12/11/9931143.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2267296/We_Market_Research_Logo.jpg",
-          "width": 400,
-          "height": 298,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-11T10:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-cios-grapple-with-the-ethics-of-implementing-ai.md",
-      "title": "CIOs grapple with the ethics of implementing AI",
-      "excerpt": "With ethical considerations around AI use increasingly top of mind, IT leaders are developing governance frameworks, establishing review boards, and coming to terms with the difficult discussions and decisions ahead.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/1251976/cios-grapple-with-the-ethics-of-implementing-ai.html",
-      "originalUrl": "https://www.cio.com/article/1251976/cios-grapple-with-the-ethics-of-implementing-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cio.com/wp-content/uploads/2023/12/shutterstock_540952438.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/1251976/cios-grapple-with-the-ethics-of-implementing-ai.html/amp/",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/1251976/cios-grapple-with-the-ethics-of-implementing-ai.html/amp/",
-      "publishedDateTime": "2023-12-11T10:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

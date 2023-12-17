@@ -10,7 +10,7 @@
       "originalUrl": "https://www.foxnews.com/science/ai-gives-birth-ai-scientists-say-machine-intelligence-capable-replicating-without-humans",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -203,7 +203,7 @@
       "originalUrl": "https://www.theweek.in/news/sci-tech/2023/12/13/scientists-unveil-brainoware-a-game-changer-for-artificial-intel.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -418,6 +418,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-11-nokia-and-celesta-capital-announce-major-strategic-partnership-for-acceleration-of-deep-technologies.md",
+      "title": "Nokia and Celesta Capital Announce Major Strategic Partnership for Acceleration of Deep Technologies",
+      "excerpt": "Nokia Bell Labs and Celesta to collaborate in commercializing emerging technologies, including AI, advanced communications, semiconductors, and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2023/12/11/9931563.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2023/12/11/9931563.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-11T15:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1285,49 +1319,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-neural-network-is-more-powerful-than-any-other-methods-of-propaganda-shevtsov.md",
-      "title": "Neural network is more powerful than any other methods of propaganda - Shevtsov",
-      "excerpt": "Neural network is more powerful than any other methods of propaganda. Political scientist Yuri Shevtsov told about it in the project \"In theme\" on YouTube-channel BELTA.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tvr.by/eng/news/obshchestvo/neyroset_moshchnee_nezheli_lyubye_drugie_metody_propagandy_shevtsov/",
-      "originalUrl": "https://www.tvr.by/eng/news/obshchestvo/neyroset_moshchnee_nezheli_lyubye_drugie_metody_propagandy_shevtsov/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tvr.by/upload/iblock/1ee/41a97ld61s9cvutzx0fapgxr28fq41sp.jpg",
-          "width": 870,
-          "height": 486,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T19:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tvr.by",
-        "domain": "www.tvr.by",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

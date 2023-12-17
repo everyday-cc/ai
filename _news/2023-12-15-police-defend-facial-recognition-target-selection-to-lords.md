@@ -35,15 +35,6 @@ related:
         width: 1193
         height: 716
         isCached: true
-  - title: "Smart cameras’ built-in capacity makes for facial recognition fit"
-    excerpt: "Aside from facial recognition, smart cameras are also used for object detection, motion detection, audio detection, remote monitoring, analytics and insights."
-    publishedDateTime: 2023-12-12T19:34:00Z
-    webUrl: "https://www.biometricupdate.com/202312/smart-cameras-built-in-capacity-makes-for-facial-recognition-fit"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 19
   - title: "Panthers to add facial recognition at BofA Stadium"
     excerpt: "The Panthers and Verizon are adding facial recognition technology at Bank of America Stadium that will allow football fans to get into games faster beginning this weekend."
     publishedDateTime: 2023-12-15T20:02:00Z

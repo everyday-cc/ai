@@ -137,6 +137,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Gulfport Health Alert: Rising Disability in the Workplace due to Brain Fog. Doctor Explains"
+    excerpt: "Dr. Adriana Davis, Family Medicine, \"More and more working-age adults have brain fog--research shows that it's due to long COVID.\"Doctor's Expert Insights long COVID and Brain Fog"
+    publishedDateTime: 2023-12-14T13:27:00Z
+    webUrl: "https://www.djournal.com/news/state-news/gulfport-health-alert-rising-disability-in-the-workplace-due-to-brain-fog-doctor-explains/article_ce43cb43-dacf-5267-9dc4-6895a2824a42.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 9
 
 secured: "iSYexqkQ+6BrN5nEyjqMwsAMtL84ebFf+izicIsQ2+I56uHxuO0OdZ/Gs6XlIkPQyuzlU4TOGeiY8WaQa2pJRkJLvfC1LtqqK4LtclSAcpw7/nB4RpysnTnPnAx6ggE5S4ZBXNXSvTZN+KohtXTFN7DLaPZk5LPomO6NEqKsMheg1Ow/U7uuqYW0QNQXdpn0sTHqiKN9hlkbTmVRlbVGfWwEW7zJphJjyqmJo9PhpOe8MxpgDpxJX4QtB52S2r3Hll10ydf53dxdfphFl2ZtnFWGs/8IgCby4oX6Iw7h0MEEPIyboMWV3zJmExHgMuNSZSuAxG4HEfXvTlnTHfcr0CDrM+YXWJnsms7bgbATuPNBSogkZjAJnURoEvaLkqoXvht87ffWYQgksCO8lPn7TR6xOOx4c9B2sR+v1tCHarUZxyC5QSXcH8Fl09/HIABxM2IJncJNJXBfaLVuhzsX4SF03Vy3S9ABwiuZ4M/H9B4cqkTba5bOm2Y82eOrJkJtJDBKfuGhdOiqUXkwUyMS9g==;mNy0cE1NhhDPDGj5c/KSvg=="
 ---

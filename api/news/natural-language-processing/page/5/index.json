@@ -2,6 +2,59 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-10-24-brilliant-labs-raises-3m-for-generative-ai-based-ar-glasses.md",
+      "title": "Brilliant Labs raises $3M for generative AI-based AR glasses",
+      "excerpt": "Brilliant Labs said the seed round was oversubscribed with funding from Wayfarer Foundation, former Paylocity founder Steve Sorowitz and Coho VC. The device has competition from M",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/metaverse/brilliant-labs-raises-3m-for-generative-ai-based-ar-glasses/",
+      "originalUrl": "https://venturebeat.com/metaverse/brilliant-labs-raises-3m-for-generative-ai-based-ar-glasses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/10/brilliant-labs.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-24T12:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-10-23-from-text-to-dream-job-building-an-nlp-based-job-recommender-at-talentcom-with-amazon-sagemaker.md",
       "title": "From text to dream job: Building an NLP-based job recommender at Talent.com with Amazon SageMaker",
       "excerpt": "This post is co-authored by Anatoly Khomenko, Machine Learning Engineer, and Abdenour Bezzouh, Chief Technology Officer at Talent.com. Founded in 2011, Talent.com is one of the world’s largest sources of employment. The company combines paid job listings from their clients with public job listings into",
@@ -1352,58 +1405,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-the-aboriginal-australians-campaigning-against-constitutional-recognition.md",
-      "title": "The Aboriginal Australians Campaigning Against Constitutional Recognition",
-      "excerpt": "Two female Aboriginal lawmakers with drastically different political philosophies have emerged as prominent opponents of the proposed Indigenous Voice to Parliament.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/10/11/world/australia/australia-price-thorpe-voice-aboriginal.html",
-      "originalUrl": "https://www.nytimes.com/2023/10/11/world/australia/australia-price-thorpe-voice-aboriginal.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/10/10/multimedia/00OZ-INDIGENOUS-vwfp/00OZ-INDIGENOUS-vwfp-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T09:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

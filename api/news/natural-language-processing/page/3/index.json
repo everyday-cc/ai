@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-11-16-vroozi-introduces-vroozi-ai-natural-language-processing-assistant-that-accelerates-spend-management-and-invoice-payments-for-all.md",
+      "title": "Vroozi Introduces Vroozi AI: Natural Language Processing Assistant that Accelerates Spend Management and Invoice Payments for All",
+      "excerpt": "Vroozi, the intelligent procure-to-pay platform, today announces its new virtual AI assistant that will accompany users throughout the Vroozi application to enable more effective ordering within the platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/vroozi-introduces-vroozi-ai-natural-language-processing-assistant-that-accelerates-spend-management-and-invoice-payments/article_7ff1a958-5377-5dd3-a104-bb3404db7169.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/vroozi-introduces-vroozi-ai-natural-language-processing-assistant-that-accelerates-spend-management-and-invoice-payments/article_7ff1a958-5377-5dd3-a104-bb3404db7169.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/d/14/d1401004-03dd-5993-aec6-bae6690a2f51/655629395068a.image.jpg?crop=1194%2C627%2C2%2C0&resize=1194%2C627&order=crop%2Cresize",
+          "width": 1194,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-16T13:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-16-cu-mansfield-voice-students-win-recognition-at-nats-student-auditions.md",
       "title": "CU-Mansfield Voice students win recognition at NATS Student Auditions",
       "excerpt": "Voice students from Commonwealth University-Mansfield recently won recognition at the Allegheny Mountain Chapter National Association of Teachers of Singing Student Auditions, held Nov. 4 at CU-Mansfield.",
@@ -1131,59 +1174,6 @@
         "AWS AI",
         "IBM AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-11-07-thematic-leading-provider-of-ai-powered-feedback-analytics-reports-growth-milestones.md",
-      "title": "Thematic, Leading Provider of AI-Powered Feedback Analytics, Reports Growth Milestones",
-      "excerpt": "Founder and CEO Dr. Alyona Medelyan Details Her Cross-Global Path to Becoming AI Expert, Entrepreneur and Founder of Pioneering CompanyCOVINA, CA",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/thematic-leading-provider-of-ai-powered-feedback-analytics-reports-growth-milestones-1032787094",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/thematic-leading-provider-of-ai-powered-feedback-analytics-reports-growth-milestones-1032787094",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.accesswire.com/users/newswire/images/800103/60374decba81adda5d8d25786fd3.jpg",
-          "width": 697,
-          "height": 1045,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-07T12:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

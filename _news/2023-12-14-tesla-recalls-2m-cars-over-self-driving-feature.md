@@ -92,6 +92,29 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "A Tesla Climbed on a Power Box at a McDonald's Drive-Thru, the Driver Says It Kept Driving"
+    excerpt: "Blame it on Autopilot. Blame it on a cyber attack. Blame it on a less skillful driver. Blame it on texting and driving. Whatever it was, it left an"
+    publishedDateTime: 2023-12-13T07:04:00Z
+    webUrl: "https://www.autoevolution.com/news/a-tesla-climbed-on-a-power-box-at-a-mcdonald-s-drive-thru-the-driver-says-it-kept-driving-226013.html"
+    type: article
+    provider:
+      name: autoevolution
+      domain: autoevolution.com
+    quality: 29
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/a-tesla-climbed-on-a-power-box-at-a-mcdonald-s-drive-thru-the-driver-says-it-kept-driving-226013_1.jpg"
+        width: 2000
+        height: 1113
+        isCached: true
+  - title: "Tesla Autopilot Recall Deals Another Blow to Self-Driving Cars"
+    excerpt: "According to the NHTSA recall report, when Autosteer or any other Level 2 system is engaged, “as the vehicle operator, the driver is responsible for the vehicle’s movement with their hands on the steering wheel at all times, remaining attentive to surrounding road conditions, and intervening … as needed to maintain safe operation.”"
+    publishedDateTime: 2023-12-13T23:22:00Z
+    webUrl: "https://www.autoweek.com/news/a46121819/nhtsa-forces-tesla-autopilot-recall-self-driving-cars/"
+    type: article
+    provider:
+      name: autoweek
+      domain: autoweek.com
+    quality: 19
   - title: "Tesla Recall Little More Than A Short Detour On The Path To Full Self-Driving"
     excerpt: "Tesla is introducing FSD12 self-driving technology, which uses neural networks to mimic human decision-making. Read more about TSLA stock here."
     publishedDateTime: 2023-12-15T17:50:00Z

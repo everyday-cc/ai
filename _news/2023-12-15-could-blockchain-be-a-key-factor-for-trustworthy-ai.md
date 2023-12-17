@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/15/could-bloc
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/15/could-blockchain-be-a-key-factor-for-trustworthy-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1590
     height: 894
     isCached: true
-
-related:
-  - title: "AI Integration With Blockchain Technology Is Inevitable"
-    excerpt: "As AI inevitably intersections with blockchains, investors should know that not all digital assets will be safe."
-    publishedDateTime: 2023-12-12T20:59:00Z
-    webUrl: "https://www.thestreet.com/crypto/innovation/ai-integration-with-blockchain-technology-is-inevitable"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 17
 
 secured: "nE32cAlqNk1Tvaf8BQhJYcbjZSSLRdxJ4DrqTPMei1NWcywXlE1h8GiG0XKUZPizBYGk1NvOcFqORI9Ind06R3bRHcUS4ah2T+iRmpDGpvngWhcL4Hy8br7Z+lWyJdvYeovR8cZr0pgP9b4i+9f6e4MQWOIHTnLlyBcHRAl4kDEqKYLWqI+G/oUdE4vnvgaIAtdDISSoVVJSOkS0hY3PJg6mk52eSrywRfherLEk/oK/3IeOEMOblWa61kMmNc2EnFdxJMZ9Dpk9dypo/xz4KJcYgsvIsQUFH9WZ6waSMB/920mg5B5tyEfwvUtc1edbdths4rP9asXnrDQsDvMWOdSG9pRguYVhGJ87x61ZvCw=;IY6JNmWItIiIW3+y4We28A=="
 ---

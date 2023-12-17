@@ -8,8 +8,8 @@ webUrl: "https://www.nbcnewyork.com/news/national-international/the-techno-optim
 ampWebUrl: "https://www.nbcnewyork.com/news/national-international/the-techno-optimists-and-doomsdayers-inside-silicon-valleys-most-dangerous-ai-debate/4958646/?amp=1"
 cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/the-techno-optimists-and-doomsdayers-inside-silicon-valleys-most-dangerous-ai-debate/4958646/?amp=1"
 type: article
-quality: 50
-heat: 50
+quality: 52
+heat: 52
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://media.nbcnewyork.com/2023/12/107348628-1702829011034-gettyimages-1664596952-3pldoaeugzt3w4awdckfihxocy.jpeg?quality=85&strip=all&resize=1200%2C675"

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/12/15/16-inn
 webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/12/15/16-innovative-ways-agencies-can-leverage-generative-ai-in-2024/"
 type: article
 quality: 67
-heat: 107
+heat: 87
 published: true
 
 provider:
@@ -56,24 +56,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Cross-Campus Approaches to Building a Generative AI Policy"
-    excerpt: "Particularly for new technologies that disrupt long-standing practices and cultural beliefs, the work of carefully and intentionally developing effect"
-    publishedDateTime: 2023-12-12T20:42:00Z
-    webUrl: "https://er.educause.edu/articles/2023/12/cross-campus-approaches-to-building-a-generative-ai-policy"
-    type: article
-    provider:
-      name: er.educause.edu
-      domain: educause.edu
-    quality: 19
-  - title: "Generative AI Firm Native AI Ushers in A New Era of Hyper-Personalized Brand Experiences"
-    excerpt: "Generative AI solutions like Native AI take this a step further: now brands and researchers can predict future trends and run simulations based on hypotheticals."
-    publishedDateTime: 2023-12-12T20:39:00Z
-    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/12/12/generative-ai-firm-native-ai-ushers-in-a-new-era-of-hyper-personalized-brand-experiences/71897040007/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 8
 
 secured: "WNIZE4vmaJghoLGh4R6nsgeDhtcjjvaeHmKl8bgafyGbL6Dwdt+PqRcxb8pJjtHIcyLuvPFukJWk5cK7kVwuQVDoaME5M5QlZY7ibyXySgBz78Bv6dBmtdMSb0QxUnuHH2HTwsBI1NKF2nqcBfAeKUf+Wyw2AgiXCSuYdPLX0sRTUcm9EYUhCDoN5iOEPlGotjreuE14sJMWZUkqEFOYGBgb4jyBvEPu700e/CwwWdYzEO7jy711/tDVdwg7V8grVgNOOsdiR1l1tQSP05byak5vIQ1sPUpfYnaHlEqlQaN3oAOgnUOz5Dv716BNcUL8ms0Oqtcyby1wXPsWbWlQBrIMUvaE80lOkjBWvGOoX8E=;NqV4ZldtMcRPUbr0FMl2PA=="
 ---

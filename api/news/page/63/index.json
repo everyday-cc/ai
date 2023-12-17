@@ -2,6 +2,143 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2023-10-26-ai-is-in-the-workplace-more-than-employees-know.md",
+      "title": "AI Is In The Workplace More Than Employees Know",
+      "excerpt": "You don’t have to work directly on the technology to have your career be affected by AI. Be proactive — learn about AI and understand how your employer is using it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/carolinecenizalevine/2023/10/25/ai-is-in-the-workplace-more-than-employees-know/",
+      "originalUrl": "https://www.forbes.com/sites/carolinecenizalevine/2023/10/25/ai-is-in-the-workplace-more-than-employees-know/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/653985367f7af9aad3aa260d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 896,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/carolinecenizalevine/2023/10/25/ai-is-in-the-workplace-more-than-employees-know/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinecenizalevine/2023/10/25/ai-is-in-the-workplace-more-than-employees-know/amp/",
+      "publishedDateTime": "2023-10-25T21:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-26-rishi-sunak-warns-of-new-dangers-from-ai-as-robot-tax-mulled-to-protect-jobs.md",
+      "title": "Rishi Sunak warns of ‘new dangers’ from AI as robot tax mulled to protect jobs",
+      "excerpt": "Official documents released to coincide with the speech warn the technology could pose an “existential threat” if it escalates out of control ... workers with robots amid fears widespread ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraph.co.uk/politics/2023/10/25/rishi-sunak-warns-new-dangers-ai-robot-tax-protect-jobs/",
+      "originalUrl": "https://www.telegraph.co.uk/politics/2023/10/25/rishi-sunak-warns-new-dangers-ai-robot-tax-protect-jobs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-25T21:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Telegraph",
+        "domain": "telegraph.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-26-singapore-based-fintech-youtrip-picks-up-50m-led-by-lightspeed.md",
+      "title": "Singapore-based fintech YouTrip picks up $50M led by Lightspeed",
+      "excerpt": "YouTrip, a Singapore-based fintech that offers multi-currency wallet for consumers ... In terms of product development, YouTrip plans to increase its used of AI and other emerging technologies for personalized features like smart budgeting and customized ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/10/25/youtrip-lightspeed/",
+      "originalUrl": "https://techcrunch.com/2023/10/25/youtrip-lightspeed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/10/YouTrip-SG.png?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/10/25/youtrip-lightspeed/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/25/youtrip-lightspeed/amp/",
+      "publishedDateTime": "2023-10-25T21:22:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-26-university-of-chicago-researchers-seek-to-poison-ai-art-generators-with-nightshade.md",
       "title": "University of Chicago researchers seek to “poison” AI art generators with Nightshade",
       "excerpt": "On Friday, a team of researchers at the University of Chicago released a research paper outlining \"Nightshade,\" a data poisoning technique aimed at disrupting the training process for AI models, reports MIT Technology Review and VentureBeat.",
@@ -1029,143 +1166,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-25-how-to-use-ai-to-surprise-and-delight-your-customers.md",
-      "title": "How To Use AI To Surprise And Delight Your Customers",
-      "excerpt": "AI has afforded marketers the opportunity to explore new techniques that we can use to surprise and delight our customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/10/25/how-to-use-ai-to-surprise-and-delight-your-customers/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/10/25/how-to-use-ai-to-surprise-and-delight-your-customers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/623427218/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/10/25/how-to-use-ai-to-surprise-and-delight-your-customers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/10/25/how-to-use-ai-to-surprise-and-delight-your-customers/amp/",
-      "publishedDateTime": "2023-10-25T11:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-25-artificial-intelligence-ai-robots-market-2023-2031-upcoming-growth-trends.md",
-      "title": "Artificial Intelligence (AI) Robots Market 2023-2031 | Upcoming Growth Trends",
-      "excerpt": "The global Artificial Intelligence (AI) Robots market size was valued at USD 8919.76 Million in 2022 and will reach USD 50872.43 Million in 2028, with a CAGR of 33.67% during 2022-2028.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/news/prwirecenter/artificial-intelligence-ai-robots-market-2023-2031-upcoming-growth-trends",
-      "originalUrl": "https://www.digitaljournal.com/pr/news/prwirecenter/artificial-intelligence-ai-robots-market-2023-2031-upcoming-growth-trends",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T10:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-25-coreweave-chooses-ddn-storage-to-power-accelerated-computing-and-ai-in-the-cloud.md",
-      "title": "CoreWeave Chooses DDN Storage to Power Accelerated Computing and AI in the Cloud",
-      "excerpt": "DDN Storage Accelerates Generative AI and Large Language Models with CoreWeave's GPU Cloud and NVIDIA AICHATSWORTH, Calif., Oct. 25, 2023",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/coreweave-chooses-ddn-storage-to-power-accelerated-computing-and-ai-in-the-cloud-1032737969",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/coreweave-chooses-ddn-storage-to-power-accelerated-computing-and-ai-in-the-cloud-1032737969",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2256851/DDN_Logo.jpg",
-          "width": 283,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T10:37:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

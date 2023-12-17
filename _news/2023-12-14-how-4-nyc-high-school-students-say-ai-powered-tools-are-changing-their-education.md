@@ -69,7 +69,7 @@ related:
     provider:
       name: Impacts
       domain: techbullion.com
-    quality: 63
+    quality: 65
     images:
       - url: "https://techbullion.com/wp-content/uploads/2023/12/AI-App.jpg"
         width: 1000

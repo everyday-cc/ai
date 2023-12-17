@@ -26,6 +26,24 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "Fintech Platform FactSet Announces Initial Release of AI Advancement Solution to Enhance Decision-Making"
+    excerpt: "FactSet, a global financial digital platform and enterprise solutions provider, announced the beta release of its latest AI advancement."
+    publishedDateTime: 2023-12-17T20:37:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/12/218357-fintech-platform-factset-announces-initial-release-of-ai-advancement-solution-to-enhance-decision-making/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/12/218357-fintech-platform-factset-announces-initial-release-of-ai-advancement-solution-to-enhance-decision-making/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/12/218357-fintech-platform-factset-announces-initial-release-of-ai-advancement-solution-to-enhance-decision-making/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 42
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/08/Judge-Crossword-Confusion-Puzzle-Decide.jpg"
+        width: 1280
+        height: 1108
+        isCached: true
+
 secured: "YqAVmZgrisjf96NQEr7rcKErqdqp76g+f42kj37NfGf+k/U5/ZD7T3meFeSQmBw3SoxPY/DyRxkpeVIuiO37iwtttdPeNYo5+xXX2z6bkWIUVPCdWCxG0RJWPI3xZZ9nBBNZVFZN7z7Vp4x4tgckMij8lRu595zKzrpGqF7Nx20p6tb+QbCT9RN5wgBKkQsO0K0ynpNvlkGDXaWb4DTyxU+NNChDQTAgsmneRyVGg6fW6Fgw/LGsTNd73RB6XLFuhSU69HTU4jDUliF2M/T7/ylJwdUQhslfHqc1tTR1TWqrLkmvPretg0jDoeG0RBsfzdWcz24TLbRNruJyVXugGqcpwK9mYu0egdWdlRYrLArFGNnaBKPcW7bVHFmVfOZ/VY3iE7P5PTJnIyT4XT+UattZYGx66Rxf6IMMHsTcuwbH4Fr4RxG+ufjNsPnEJPdJ5p1wVfJF9l1a3uLpIW4dbsxHm2hYDCP3sFqujIz9tQ6FRTLbxkop3WgAFCYtdP0KjYsgavpuRJZO3Whd54Mmhg==;JdsWZbd3PLRw5oodGoUBbQ=="
 ---
 

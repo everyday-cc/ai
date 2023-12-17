@@ -9,7 +9,7 @@ ampWebUrl: "https://www.csoonline.com/article/1258597/how-the-eu-ai-act-regulate
 cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/1258597/how-the-eu-ai-act-regulates-artificial-intelligence-and-what-it-means-for-cybersecurity.html/amp/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "EU’s AI Act: Europe’s New Rules for Artificial Intelligence"
-    excerpt: "Europe's provisional AI legislation attempts to strike a tricky balance between promoting innovation and protecting citizens' rights."
-    publishedDateTime: 2023-12-12T19:58:00Z
-    webUrl: "https://www.techrepublic.com/article/eu-ai-act-regulation/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 62
   - title: "EU AI Act: The Regulation vs Innovation Dilemma for Europe"
     excerpt: "The act means large language models (LLMs) such as ChatGPT need to comply with transparency obligations before they are put on the market."
     publishedDateTime: 2023-12-15T10:39:00Z

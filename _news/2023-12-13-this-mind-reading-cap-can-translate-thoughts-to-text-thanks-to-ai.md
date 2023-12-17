@@ -9,7 +9,7 @@ ampWebUrl: "https://singularityhub.com/2023/12/12/this-mind-reading-cap-can-tran
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/12/12/this-mind-reading-cap-can-translate-thoughts-to-text-thanks-to-ai/?amp=1"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "New portable, non-invasive AI system turns thoughts into text"
-    excerpt: "Australian researchers have developed a portable, non-invasive system that can decode silent thoughts and turn them into text using artificial intelligence (AI). The technology could aid communication for people who are unable to speak due to illness or injury,"
-    publishedDateTime: 2023-12-12T22:29:00Z
-    webUrl: "https://www.canindia.com/new-portable-non-invasive-ai-system-turns-thoughts-into-text/"
-    type: article
-    provider:
-      name: Canindia.com
-      domain: canindia.com
-    quality: 19
   - title: "New Cap Uses AI to ‘Read Minds’ and Convert Thoughts to Text"
     excerpt: "Unlike most 'mind-reading' technologies, this one doesn't involve eye tracking or a surgically implanted brain chip."
     publishedDateTime: 2023-12-14T13:10:00Z

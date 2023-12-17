@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/how-aws-prototyping-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/how-aws-prototyping-enabled-icl-group-to-build-computer-vision-models-on-amazon-sagemaker/"
 type: article
 quality: 112
-heat: 172
+heat: 162
 published: true
 
 provider:
@@ -100,15 +100,6 @@ related:
         width: 1229
         height: 630
         isCached: true
-  - title: "Create a web UI to interact with LLMs using Amazon SageMaker JumpStart"
-    excerpt: "The launch of ChatGPT and rise in popularity of generative AI have captured the imagination of customers who are curious about how they can use this technology to create new products and services on AWS, such as enterprise chatbots, which are more conversational. This post shows you how you can create"
-    publishedDateTime: 2023-12-12T19:09:54Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/create-a-web-ui-to-interact-with-llms-using-amazon-sagemaker-jumpstart/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 69
 
 secured: "ktKKvBHJgP6P7VyTVhzkgHiz9yntMBE+jhwe9oahX40GAPfBFb/kM7jFcuhufE02oEwTUD7KQWCbyrZODvsceK2LTXkNyj8n/pN3kZ9+HA3Y2yplSv/Ds7foPv3Qqdf8LMj6ynVh1ITByM8FCqPFgei0bIT4Syi/q354iBW1pR/IrA5yFOtz7wWAiCUMZNy9Db8Ilc06ObvdgeAAmBfRuTpY0TO7oJLcP4KvRRH0VcANFpGJq8QBMK864CVXnqx+hCj0qD+nkgAB7T2+dqa3hAyq4GsCmWWdHUsw0OFBvVGtu8afIYvZ/9iX2lfw7wxiFGYqcqVkcEyg9npNBsx8EceW/9V+giZ/LQvIGmHy1/Q=;ECNFwukEjetBKa8IamvFAQ=="
 ---

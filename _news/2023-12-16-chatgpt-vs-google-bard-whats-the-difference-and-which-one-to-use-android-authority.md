@@ -20,15 +20,15 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "How To Use Google Bard AI: Chatbot's Examples And More – Dataconomy"
-    excerpt: "The long-awaited debut of Google Bard AI finally happened. We previously shared with you that the tech giant is working on Google Apprentice Bard AI. Just"
-    publishedDateTime: 2023-12-14T14:39:00Z
-    webUrl: "https://www.inferse.com/839656/how-to-use-google-bard-ai-chatbots-examples-and-more-dataconomy/"
+  - title: "Google's Bard vs OpenAI's ChatGPT: First Looks and How To Get Early Access Through Google's Waitlist – Yahoo Finance"
+    excerpt: "Google has just entered the AI chatbot game with its new product called Bard, which aims to rival OpenAI’s ChatGPT and Microsoft Corp’s chatbot on the Bing"
+    publishedDateTime: 2023-12-16T22:19:00Z
+    webUrl: "https://www.inferse.com/842071/googles-bard-vs-openais-chatgpt-first-looks-and-how-to-get-early-access-through-googles-waitlist-yahoo-finance/"
     type: article
     provider:
       name: Inferse
       domain: inferse.com
-    quality: 19
+    quality: 30
 
 secured: "zw6Bj9kCH2YF6ugFZPsQghPKcri3NGTCsp2VdN0jZlM6raj32yGTG15wriT2osyE0zZ1BX7/R41MC3m8t0QOxhhDBaqK/GVytUNAWedDhll2Ucw45V6DibCMRVmT5tLnv02GFX+sCZrn+77pqmiey1dX+UJeNlFLvDseiBcPYLXZPC6nIcmPu/b98klfXERbhg9FYjAL/4Gp7gOVXAjxSETIO0aol5fhbqQCLNXLFR7QHvGs918G3r/wQ4pFpmf/SyB/rNlWIHjoD++Wb5ICTuv3CHpl4/KRTDv1NKiqZyI7tOwgN4yMkCi0VTxpgFqSVa49qX55w+yQFPLiNqlXM9HzRShIalDOdJElkyT44Oc=;0MMU8j8G2lssIb27GNQncQ=="
 ---

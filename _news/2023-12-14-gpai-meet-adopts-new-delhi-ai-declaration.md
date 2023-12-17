@@ -43,6 +43,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "GPAI adopts New Delhi declaration on artificial intelligence"
+    excerpt: "New Delhi: The Global Partnership for Artificial Intelligence (GPAI), under India’s presidency, adopted the New Delhi declaration on AI on Wednesday, Minister of State for Electronics and Information Technology Rajeev Chandrasekhar said at a media briefing in the capital on the sidelines of the GPAI summit. ADVERTISEMENT"
+    publishedDateTime: 2023-12-14T12:22:00Z
+    webUrl: "https://www.deccanherald.com/business/gpai-adopts-new-delhi-declaration-on-artificial-intelligence-2811278"
+    type: article
+    provider:
+      name: Deccan Herald
+      domain: deccanherald.com
+    quality: 54
+    images:
+      - url: "https://images.deccanherald.com/deccanherald%2F2023-12%2Fb210b18c-dec9-48f1-af70-772efcd57057%2FPTI12_12_2023_000285B.jpg?rect=0%2C0%2C3937%2C2067&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "l7Q0h6zVvbzm0ACqZh+u33E+G+0KifoXhQkBG+6N5GLaa1HHwkGilIsMRvvPWutFZXhyGfXJVePzqhgrRbq5h3D1xjGvkxI/IUPO10KQiPjFTGgBTMzC8noyIB9bKdngQRi8jYfVEeeB6m0YPERk0bzH6m4H1zm9jLlCQ3Ev52LyKGZl0BjC6ajUT0MSH2U+uDWlqv/FX89fpfy8EhlaAZ5ukG/5Qnw8ZW+TfXA8+vKH+/83TbLDnS/1twhwBdMlXX8xgiN2pq5yklMOQ19nXtKz3eHC3qtxTuXgJbe7GLvcVGF9zvG8YBVUZZWDpQ0TqioZTeRIxGwkZK5C1+M6LgdgBnbzLLJlzGW/LdNS0M0=;vada51FFJq7R1CHC8OvvoQ=="
 ---

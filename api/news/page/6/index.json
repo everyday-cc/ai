@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-12-12-atlanta-local-gov-leaders-tapped-for-ai-ethics-initiative.md",
+      "title": "Atlanta Local Gov Leaders Tapped for AI Ethics Initiative",
+      "excerpt": "Atlanta nonprofit, activist and educational leaders will be part of a new ethics council on artificial intelligence co-chaired by Sam Altman, CEO of OpenAI, the company behind ChatGPT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/artificial-intelligence/atlanta-local-gov-leaders-tapped-for-ai-ethics-initiative",
+      "originalUrl": "https://www.govtech.com/artificial-intelligence/atlanta-local-gov-leaders-tapped-for-ai-ethics-initiative",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/7145fd7/2147483647/strip/true/crop/940x457+0+91/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F3a%2F22%2F6a1ba91c0cab40a7c7c963fa06a1%2Fshutterstock-584819980.jpg",
+          "width": 1440,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-12T15:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-12-5-ways-ai-changed-the-internet-in-2023.md",
       "title": "5 ways AI changed the internet in 2023",
       "excerpt": "OpenAI DALL-E 3, Google Bard and SGE image generator, Microsoft Copilot (formerly Bing Chat Image Creator), and Meta's Imagine are all examples of models that use generative AI to create images from text prompts. Even media platforms Shutterstock, Adobe, and Getty Images have gotten in the game with their own AI image generator tools.",
@@ -906,6 +949,40 @@
       ]
     },
     {
+      "path": "_news/2023-12-12-mind-reading-ai-can-translate-brainwaves-into-written-text.md",
+      "title": "Mind-reading AI can translate brainwaves into written text",
+      "excerpt": "Once DeWave understood the brain signals well, the team connected it to an open-source large language model (LLM), akin to the AI that powers ChatGPT. “This LLM is like a brainy writer that can ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/2408019-mind-reading-ai-can-translate-brainwaves-into-written-text/",
+      "originalUrl": "https://www.newscientist.com/article/2408019-mind-reading-ai-can-translate-brainwaves-into-written-text/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-12T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-12-sports-illustrated-publisher-fires-ceo-after-ai-debacle.md",
       "title": "Sports Illustrated publisher fires CEO after AI debacle",
       "excerpt": "Digital publisher The Arena Group, which operates household brands such as Sports Illustrated and The Street, fired its chief executive on Monday amid a larger C-suite bloodbath, a spokesperson for the company told CNN.",
@@ -1110,93 +1187,6 @@
         "Meta AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-us-discusses-ai-chip-sales-to-china-with-nvidia-says-raimondo.md",
-      "title": "U.S. discusses AI Chip sales to China with Nvidia, says Raimondo",
-      "excerpt": "The U.S. government is currently in talks with NVIDIA (NVDA) regarding the conditions under which it can sell AI chips to China. The administration has made it clear that Nvidia (NASDAQ: NVDA) is not allowed to export its most sophisticated semiconductors to Chinese companies.",
-      "sourceUrl": null,
-      "webUrl": "https://au.investing.com/news/stock-market-news/us-discusses-ai-chip-sales-to-china-with-nvidia-says-raimondo-432SI-3060981",
-      "originalUrl": "https://au.investing.com/news/stock-market-news/us-discusses-ai-chip-sales-to-china-with-nvidia-says-raimondo-432SI-3060981",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 231,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i-invdn-com.investing.com/news/moved_LYNXMPEHAH0WT_L.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://m.au.investing.com/news/stock-market-news/us-discusses-ai-chip-sales-to-china-with-nvidia-says-raimondo-432SI-3060981?ampMode=1",
-      "cdnAmpWebUrl": "https://m-au-investing-com.cdn.ampproject.org/c/s/m.au.investing.com/news/stock-market-news/us-discusses-ai-chip-sales-to-china-with-nvidia-says-raimondo-432SI-3060981?ampMode=1",
-      "publishedDateTime": "2023-12-11T20:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Investing",
-        "domain": "investing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-nvidia-contemplates-intel-as-potential-manufacturing-partner-for-gpu-and-ai-chips.md",
-      "title": "Nvidia contemplates Intel as potential manufacturing partner for GPU and AI chips",
-      "excerpt": "Nvidia GPUs held more than 70 percent of the data center processor market share in the latest quarter, with the majority of chips being manufactured by",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/101160-nvidia-contemplates-intel-potential-manufacturing-partner-gpu-ai.html",
-      "originalUrl": "https://www.techspot.com/news/101160-nvidia-contemplates-intel-potential-manufacturing-partner-gpu-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 194,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-11T20:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],
