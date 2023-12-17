@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "China chip firms vie to take sales from Nvidia"
-    excerpt: "Chinese chip designers including Tencent Holdings are aggressively pitching their AI chips as alternatives to Nvidia's, hoping U.S. export restrictions will prompt clients to switch, said four people familiar with such discussions. Julian Satterthwaite reports."
-    publishedDateTime: 2023-12-12T10:56:00Z
-    webUrl: "https://www.reuters.com/video/watch/idRW515412122023RP1?ref=upstract.com"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 86
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20231212&i=RW515412122023RP1&r=RW515412122023RP1&t=2"
-        width: 960
-        height: 540
-        isCached: true
   - title: "Essential AI emerges from stealth with backing from Google, Nvidia and AMD"
     excerpt: "Essential AI says the products would make data analysts 10x faster and give business users the ability to become data-driven decision-makers."
     publishedDateTime: 2023-12-12T16:46:00Z
@@ -67,48 +53,6 @@ related:
         width: 708
         height: 399
         isCached: true
-  - title: "Gina Raimondo on Permissible Sale of Nvidia’s AI Chips to China"
-    excerpt: "Looking for the latest Government Contracting News? Read about Gina Raimondo on Permissible Sale of Nvidia's AI Chips to China."
-    publishedDateTime: 2023-12-12T21:37:00Z
-    webUrl: "https://executivegov.com/2023/12/gina-raimondo-on-permissible-sale-of-nvidias-ai-chips-to-china/"
-    type: article
-    provider:
-      name: Executive Gov
-      domain: executivegov.com
-    quality: 54
-    images:
-      - url: "https://em-graphics.s3.us-west-2.amazonaws.com/archintel-media/1d50c3e6-2b9f-4f8d-b122-449e8759d95d.png"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Intel announces a new AI chip to compete with Nvidia and AMD"
-    excerpt: "Intel Corporation unveiled the Gaudi3 accelerator on Thursday. It also announced Core Ultra and 5th gen Xeon server chip today."
-    publishedDateTime: 2023-12-14T17:25:00Z
-    webUrl: "https://invezz.com/news/2023/12/14/intel-new-ai-chip-compete-nvidia-amd/"
-    type: article
-    provider:
-      name: Invezz
-      domain: invezz.com
-    quality: 54
-    images:
-      - url: "https://invezz.com/wp-content/uploads/2023/08/108349122-m-normal-none-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Intel Drops New Core Ultra Processors and Gaudi3 AI Chip to Take on Nvidia and AMD"
-    excerpt: "Intel launches Core Ultra processors and Gaudi3 AI chip to compete with Nvidia and AMD. Core Ultra line features chiplet design, neural processing unit, and specialized AI components for enhanced performance."
-    publishedDateTime: 2023-12-16T10:47:00Z
-    webUrl: "https://www.technobezz.com/news/intel-drops-new-core-ultra-processors-and-gaudi3-ai-chip-to-take-on-nvidia-and-amd/"
-    type: article
-    provider:
-      name: Technobezz.com
-      domain: technobezz.com
-    quality: 48
-    images:
-      - url: "https://cdn.technobezz.com/c/intel_core_ultra_holthaus_jpg_rendition_intel_web_1648_927_d97184be91/intel_core_ultra_holthaus_jpg_rendition_intel_web_1648_927_d97184be91.jpg"
-        width: 1102
-        height: 927
-        isCached: true
   - title: "Nvidia talks to U.S. about its new AI chips for China"
     excerpt: "\"They want to do the right thing,\" the Commerce secretary said of Nvidia. \"Obviously they want to sell as many chips as possible.\""
     publishedDateTime: 2023-12-12T14:20:00Z
@@ -118,6 +62,29 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 34
+  - title: "Nvidia, AMD back $56.5M round for Essential AI Labs, led by Transformer architecture co-inventors"
+    excerpt: "Nvidia, AMD back $56.5M round for Essential AI Labs, led by Transformer architecture co-inventors - SiliconANGLE"
+    publishedDateTime: 2023-12-13T00:03:00Z
+    webUrl: "https://siliconangle.com/2023/12/12/nvidia-amd-back-56-5m-round-essential-ai-labs-led-transformer-architecture-co-inventors/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 26
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/Essential-AI.png"
+        width: 718
+        height: 400
+        isCached: true
+  - title: "Nvidia, AMD back $56.5M round for AI startup led by Transformer architecture co-inventors"
+    excerpt: "Essential AI Labs Inc., a startup led by two co-inventors of the Transformer neural network architecture, today announced that it has raised $56.5 million from a group of prominent backers. March Capital led the Series A investment with contributions from ..."
+    publishedDateTime: 2023-12-12T18:42:00Z
+    webUrl: "https://siliconangle.com/2023/12/12/nvidia-amd-back-56-5m-round-ai-startup-led-transformer-architecture-co-inventors/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 8
 
 secured: "mc3WVDRC6ncuhZbnE362zks2NQwwzHpLmnnG0E1bBLGctlb43dwuG37LRTzUZBOTiUYG5XbL0G07ZCkYgOYwKvv6qIquavYteFKCvRF8m5/tJ1t2DvVPvsdN421TVsqWrHw2ePn2rSlz4OyMqhyjjojkKeH1FOckAXf2nuTKVE7a0VQBsxww6QGe8vv4wf2drU+/MPh4ZBRIBOP+6tYo/aOpR17mlU9EHm9IQKdnW6JOSKf0Ar/YOAk9k/3avnTm1a7hHniAbl/HnxNRwYJKe1F6ma8SYmDV9NZf5xDU6HkHxHAAC6wN8THke62WCREmQ8/WUULjosn6HilHdNcbwjOIQAtpYPnaVz+uP7QQKsw=;qAFK6VHanemYSV/sZ4u7UA=="
 ---

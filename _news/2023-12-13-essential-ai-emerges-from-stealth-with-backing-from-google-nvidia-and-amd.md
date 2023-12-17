@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/essential-ai-emerges-from-stealth-with-
 webUrl: "https://venturebeat.com/ai/essential-ai-emerges-from-stealth-with-backing-from-google-nvidia-and-amd/"
 type: article
 quality: 65
-heat: -1
-published: false
+heat: 115
+published: true
 
 provider:
   name: VentureBeat
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "China chip firms vie to take sales from Nvidia"
-    excerpt: "Chinese chip designers including Tencent Holdings are aggressively pitching their AI chips as alternatives to Nvidia's, hoping U.S. export restrictions will prompt clients to switch, said four people familiar with such discussions. Julian Satterthwaite reports."
-    publishedDateTime: 2023-12-12T10:56:00Z
-    webUrl: "https://www.reuters.com/video/watch/idRW515412122023RP1?ref=upstract.com"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 86
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20231212&i=RW515412122023RP1&r=RW515412122023RP1&t=2"
-        width: 960
-        height: 540
-        isCached: true
   - title: "US Walks Back Stern Warning To NVIDIA Over China-Bound AI Chips"
     excerpt: "Potential buyers of NVIDIA's GeForce RTX 4090 can breathe a slight sigh of relief with news of leniency towards the GPU designer's AI GPUs. Why is that? Whe"
     publishedDateTime: 2023-12-12T14:15:00Z
@@ -55,48 +41,6 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/63327/content/rog.jpg"
         width: 708
         height: 399
-        isCached: true
-  - title: "Gina Raimondo on Permissible Sale of Nvidia’s AI Chips to China"
-    excerpt: "Looking for the latest Government Contracting News? Read about Gina Raimondo on Permissible Sale of Nvidia's AI Chips to China."
-    publishedDateTime: 2023-12-12T21:37:00Z
-    webUrl: "https://executivegov.com/2023/12/gina-raimondo-on-permissible-sale-of-nvidias-ai-chips-to-china/"
-    type: article
-    provider:
-      name: Executive Gov
-      domain: executivegov.com
-    quality: 54
-    images:
-      - url: "https://em-graphics.s3.us-west-2.amazonaws.com/archintel-media/1d50c3e6-2b9f-4f8d-b122-449e8759d95d.png"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Intel announces a new AI chip to compete with Nvidia and AMD"
-    excerpt: "Intel Corporation unveiled the Gaudi3 accelerator on Thursday. It also announced Core Ultra and 5th gen Xeon server chip today."
-    publishedDateTime: 2023-12-14T17:25:00Z
-    webUrl: "https://invezz.com/news/2023/12/14/intel-new-ai-chip-compete-nvidia-amd/"
-    type: article
-    provider:
-      name: Invezz
-      domain: invezz.com
-    quality: 54
-    images:
-      - url: "https://invezz.com/wp-content/uploads/2023/08/108349122-m-normal-none-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Intel Drops New Core Ultra Processors and Gaudi3 AI Chip to Take on Nvidia and AMD"
-    excerpt: "Intel launches Core Ultra processors and Gaudi3 AI chip to compete with Nvidia and AMD. Core Ultra line features chiplet design, neural processing unit, and specialized AI components for enhanced performance."
-    publishedDateTime: 2023-12-16T10:47:00Z
-    webUrl: "https://www.technobezz.com/news/intel-drops-new-core-ultra-processors-and-gaudi3-ai-chip-to-take-on-nvidia-and-amd/"
-    type: article
-    provider:
-      name: Technobezz.com
-      domain: technobezz.com
-    quality: 48
-    images:
-      - url: "https://cdn.technobezz.com/c/intel_core_ultra_holthaus_jpg_rendition_intel_web_1648_927_d97184be91/intel_core_ultra_holthaus_jpg_rendition_intel_web_1648_927_d97184be91.jpg"
-        width: 1102
-        height: 927
         isCached: true
   - title: "Intel’s new chip Gaudi3 competes with Nvidia and AMD"
     excerpt: "Intel launched a range of new products, including Gaudi3, a chip for generative AI software, Core Ultra, a chip for Windows laptops and PCs, and Xeon, a chip for servers."
@@ -121,6 +65,29 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 34
+  - title: "Nvidia, AMD back $56.5M round for Essential AI Labs, led by Transformer architecture co-inventors"
+    excerpt: "Nvidia, AMD back $56.5M round for Essential AI Labs, led by Transformer architecture co-inventors - SiliconANGLE"
+    publishedDateTime: 2023-12-13T00:03:00Z
+    webUrl: "https://siliconangle.com/2023/12/12/nvidia-amd-back-56-5m-round-essential-ai-labs-led-transformer-architecture-co-inventors/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 26
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/Essential-AI.png"
+        width: 718
+        height: 400
+        isCached: true
+  - title: "Nvidia, AMD back $56.5M round for AI startup led by Transformer architecture co-inventors"
+    excerpt: "Essential AI Labs Inc., a startup led by two co-inventors of the Transformer neural network architecture, today announced that it has raised $56.5 million from a group of prominent backers. March Capital led the Series A investment with contributions from ..."
+    publishedDateTime: 2023-12-12T18:42:00Z
+    webUrl: "https://siliconangle.com/2023/12/12/nvidia-amd-back-56-5m-round-ai-startup-led-transformer-architecture-co-inventors/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 8
 
 secured: "MusHG/XPSkrtv8g31xLZziTQwBgOyn/ph3rMNQfiz8a12/b2ZmvgbBNSmQHQmrnsYjJ40hhX9y4IXOyhbrbgDJjWO6rzUUwbZ2WXtAsdYOsW18wj2PoCfsu+14YUTy0dseDuBrToF8rV3u4pwKPfc713BgjZpv5cba/NAbaFp3XPVeWFTeMNfFsVCgPSj5S1iVBXCBYVSBUvK7J0nNNNqzL6OiyZpMHeTkvE80DGq2enlp7PvRgJjs+IBDkxl9scxpEfH+2wPNkdIk3h0z79YIBUzgGk/I4dXIl66Zp5Chai2KYbCK1jPmeWZhOTJgRBD6bPGnTKTrJbhN16argfj7/9VnbtS5pI+46nhcGLioG8kFvZn/LFjPVtYKJfEGYjMrQeEKKFJhcrjLd1vLEHZRsEyADJfjnk5D/sz+GI5lvGQhNZ3K/Zs0e3K7F0XKJjHn5ag0WAyOhGWxuCUar2BSbzqnMnm2GLi85LbpjTVo2BHFcmsJWL6xUCwXbkpiFfY8yb8cmw1GYkGcMkQ8/2aA==;IlGbL6run9cw+5IGI5Xmhw=="
 ---

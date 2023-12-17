@@ -38,6 +38,22 @@ related:
         width: 943
         height: 628
         isCached: true
+  - title: "Microsoft launches robust AI 'small language model' for researchers"
+    excerpt: "Microsoft has released its newest compact \"small language model\" titled Phi-2 that continues to perform at par or better than certain larger open-source Llama 2 models with less than 13 billion parameters."
+    publishedDateTime: 2023-12-17T06:43:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/microsoft-launches-robust-ai-small-language-model-for-researchers/articleshow/106059885.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/microsoft-launches-robust-ai-small-language-model-for-researchers/amp_articleshow/106059885.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/microsoft-launches-robust-ai-small-language-model-for-researchers/amp_articleshow/106059885.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-62402,msid-106059893/microsoft.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Dell, Microsoft, Lenovo Laptops to Soon Feature Intel’s New Chip with Built-in AI Capabilities"
     excerpt: "Intel, a leading technology company, announced Thursday that numerous personal computer manufacturers are utilizing their latest chip. This strategic move aims to entice consumers to upgrade their machines for the dawn"
     publishedDateTime: 2023-12-15T09:10:00Z
@@ -51,20 +67,6 @@ related:
       - url: "https://f1.econotimes.com/2023/12/p6j30bp4cg_th_1024x0.jpeg"
         width: 1024
         height: 614
-        isCached: true
-  - title: "Microsoft Launches Robust AI 'Small Language Model' For Researchers"
-    excerpt: "Microsoft has released its newest compact“small language model” titled Phi-2 that continues to perform at par or better than"
-    publishedDateTime: 2023-12-17T08:09:00Z
-    webUrl: "https://menafn.com/1107609442/Microsoft-Launches-Robust-AI-Small-Language-Model-For-Researchers"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 56
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?195025"
-        width: 375
-        height: 250
         isCached: true
   - title: "Microsoft is training AI to accelerate regulatory process for nuclear projects"
     excerpt: "Microsoft is reportedly eyeing nuclear power for its AI operations. Microsoft stock is currently up close to 60% versus year start."

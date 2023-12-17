@@ -57,20 +57,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "AI-Powered System Turns Thoughts Into Text"
-    excerpt: "In a world-first, researchers have developed a non-invasive, AI-powered system that can decode thought into text, potentially enabling seamless communication between humans and machines."
-    publishedDateTime: 2023-12-12T10:37:00Z
-    webUrl: "https://www.technologynetworks.com/neuroscience/news/ai-powered-system-turns-thoughts-into-text-381934"
-    type: article
-    provider:
-      name: technologynetworks
-      domain: technologynetworks.com
-    quality: 39
-    images:
-      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/381934/ai-powered-system-turns-thoughts-into-text-381934-640x360.jpg?cb=20231212"
-        width: 640
-        height: 360
-        isCached: true
   - title: "New Cap Uses AI to ‘Read Minds’ and Convert Thoughts to Text"
     excerpt: "Unlike most 'mind-reading' technologies, this one doesn't involve eye tracking or a surgically implanted brain chip."
     publishedDateTime: 2023-12-14T13:10:00Z

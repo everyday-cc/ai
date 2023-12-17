@@ -1,24 +1,24 @@
 ---
 category: news
 title: "I can’t draw, but artificial intelligence could help me win this poster contest | Opinion"
-excerpt: "As I write this, angry artists who spent hours conceiving, drawing and painting their entries this year are calling on Riverfest to ban AI-generated art from its future poster contests. To Riverfest, I say please don’t. With no artistic talent to speak of, and without AI, I wouldn’t stand a chance."
-publishedDateTime: 2023-12-16T10:33:00Z
-originalUrl: "https://www.sacbee.com/opinion/article283114943.html"
-webUrl: "https://www.sacbee.com/opinion/article283114943.html"
-ampWebUrl: "https://amp.sacbee.com/opinion/article283114943.html"
-cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/opinion/article283114943.html"
+excerpt: "I’ve never started a column with a disclaimer before, but there’s a first time for everything, so here goes: I can’t draw. And the only thing I could ever paint was a house."
+publishedDateTime: 2023-12-16T12:33:00Z
+originalUrl: "https://www.newsobserver.com/opinion/article283114943.html"
+webUrl: "https://www.newsobserver.com/opinion/article283114943.html"
+ampWebUrl: "https://amp.newsobserver.com/opinion/article283114943.html"
+cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/opinion/article283114943.html"
 type: article
 quality: 28
 heat: 28
 published: false
 
 provider:
-  name: Sacramento Bee
-  domain: sacbee.com
+  name: Raleigh News & Observer
+  domain: newsobserver.com
 
 topics:
   - AI
 
-secured: "7MK1AxlaOzjkk8OLAT8Vb6qABKh8qa2oklGXC2lq3EY85uLCEuwfoGvmRrAIx2DCiw9WL1AKBt1xL2JDVSWTPrTJOj30iWvaJvNsjbPleHzzRJvstkUHQmKVKXgLK6a4/puxyW9zfXE8rifSNR1sy4yP2rGACCVPNp8xDPZD9NsfzfjskA+KxtUheXSEVEy/QSzrEwCqhZdRkS8OT0uUaIwN4WWltD9K4LE/JkUnYcSFo4rgEHX6b+BpxsJ3hltOrUuFFZHfVQ18AS26/P8vbVbwjv0N9F+1llIgfEHPTvC9WKYC6jgKynynqnklSvzJ3rbn4Ni7nmLDPYweWrTSWszXlPie8JWuBOuBWmxmDPVGFOd/2ZUZSbGCvQ0Hc05t2jwl1jIrJt1LBlp+1f5BMSKwU2PWc1tjxEYLqNow9ZATgzOGWhDXtx8hPyxFVQdHTprN43AQIInBBrHLK8Zs44nPZgZhPB8jEkzX0i6ewwLwg/27PYOdSdLnjPnMo5RXpIBs/1j5yXBYny4wq5dS4w==;v/cPYlBJpkbHSHwTfL54hA=="
+secured: "4WnFddWQoP5QjoU/cFp7AiPoo3YhIl+NPO0EkcAL8jDPYwfXs5sA44ne7496g9SMDalfqkoxd7qM+sFkg38KtJYIfYsJtUuGMU9V262m61h4XxNeQHtTkAocDVl22ffNHs/9lnDB0lHXKiCPFZbgRFYxuSYgCDxpoODFwuWTk2lbyM0EGm2H8YNgs8bZwIIgRwPphbdN8xOdab/mCymaSDBwmRMgKpT8Vm7aBE+l0iHkXOHlqTCsGiRVVPnayL/y5MrHM4SYTLkeatqYlqgapKsm488pfN+ifcpTeHYVI7Gxt/DiaWnV7G+pDngULF6cluDzeUKode52CylZXvVlvxUt7mu9LEBYxks+bJWgr011XKU3DQH5YruphF/YNkjBLYTsReXYoxAE3A2JexSzCrPBI8Dd5TxT1qIvxYh//X7cL8qN4G3Tej7Qlk37vzirBNmRXXuRlExKp9tg4Q9JlclFs2SOtmLpMz7dPlhLkOvlfHDhn6IvJYTWntEejX0xRSh7S/OpqVj2dIL80J18lw==;mtMufN9VQxrItJQHsc+ewA=="
 ---
 

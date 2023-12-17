@@ -7,7 +7,7 @@ originalUrl: "https://executivegov.com/2023/12/gina-raimondo-on-permissible-sale
 webUrl: "https://executivegov.com/2023/12/gina-raimondo-on-permissible-sale-of-nvidias-ai-chips-to-china/"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,99 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "China chip firms vie to take sales from Nvidia"
-    excerpt: "Chinese chip designers including Tencent Holdings are aggressively pitching their AI chips as alternatives to Nvidia's, hoping U.S. export restrictions will prompt clients to switch, said four people familiar with such discussions. Julian Satterthwaite reports."
-    publishedDateTime: 2023-12-12T10:56:00Z
-    webUrl: "https://www.reuters.com/video/watch/idRW515412122023RP1?ref=upstract.com"
+  - title: "US government is looking at NVIDIA's new AI GPUs for China, says they're a 'good partner'"
+    excerpt: "Gina Raimondo, the US Secretary of Commerce, said NVIDIA is a 'good partner' and that the US government has a 'close working relationship' with them."
+    publishedDateTime: 2023-12-13T01:19:00Z
+    webUrl: "https://www.tweaktown.com/news/94932/us-government-is-looking-at-nvidias-new-ai-gpus-for-china-says-theyre-good-partner/index.html"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 86
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 45
     images:
-      - url: "https://static.reuters.com/resources/r/?d=20231212&i=RW515412122023RP1&r=RW515412122023RP1&t=2"
-        width: 960
-        height: 540
+      - url: "https://static.tweaktown.com/news/9/4/94932_801_us-commerce-secretary-says-nvidia-is-good-partner-as-they-share-ai-chip-designs-for-china_full.png"
+        width: 1500
+        height: 857
         isCached: true
-  - title: "Essential AI emerges from stealth with backing from Google, Nvidia and AMD"
-    excerpt: "Essential AI says the products would make data analysts 10x faster and give business users the ability to become data-driven decision-makers."
-    publishedDateTime: 2023-12-12T16:46:00Z
-    webUrl: "https://venturebeat.com/ai/essential-ai-emerges-from-stealth-with-backing-from-google-nvidia-and-amd/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 65
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/12/ashish_vaswani_and_niki_parmar__essential_ai___andrew_gessler_-_1.jpg?fit=750%2C500&#038;strip=all"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "US Walks Back Stern Warning To NVIDIA Over China-Bound AI Chips"
-    excerpt: "Potential buyers of NVIDIA's GeForce RTX 4090 can breathe a slight sigh of relief with news of leniency towards the GPU designer's AI GPUs. Why is that? Whe"
-    publishedDateTime: 2023-12-12T14:15:00Z
-    webUrl: "https://hothardware.com/news/us-walks-back-stern-warning-to-nvidia-over-china"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 54
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/63327/content/rog.jpg"
-        width: 708
-        height: 399
-        isCached: true
-  - title: "Intel announces a new AI chip to compete with Nvidia and AMD"
-    excerpt: "Intel Corporation unveiled the Gaudi3 accelerator on Thursday. It also announced Core Ultra and 5th gen Xeon server chip today."
-    publishedDateTime: 2023-12-14T17:25:00Z
-    webUrl: "https://invezz.com/news/2023/12/14/intel-new-ai-chip-compete-nvidia-amd/"
-    type: article
-    provider:
-      name: Invezz
-      domain: invezz.com
-    quality: 54
-    images:
-      - url: "https://invezz.com/wp-content/uploads/2023/08/108349122-m-normal-none-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Intel Drops New Core Ultra Processors and Gaudi3 AI Chip to Take on Nvidia and AMD"
-    excerpt: "Intel launches Core Ultra processors and Gaudi3 AI chip to compete with Nvidia and AMD. Core Ultra line features chiplet design, neural processing unit, and specialized AI components for enhanced performance."
-    publishedDateTime: 2023-12-16T10:47:00Z
-    webUrl: "https://www.technobezz.com/news/intel-drops-new-core-ultra-processors-and-gaudi3-ai-chip-to-take-on-nvidia-and-amd/"
-    type: article
-    provider:
-      name: Technobezz.com
-      domain: technobezz.com
-    quality: 48
-    images:
-      - url: "https://cdn.technobezz.com/c/intel_core_ultra_holthaus_jpg_rendition_intel_web_1648_927_d97184be91/intel_core_ultra_holthaus_jpg_rendition_intel_web_1648_927_d97184be91.jpg"
-        width: 1102
-        height: 927
-        isCached: true
-  - title: "Intel’s new chip Gaudi3 competes with Nvidia and AMD"
-    excerpt: "Intel launched a range of new products, including Gaudi3, a chip for generative AI software, Core Ultra, a chip for Windows laptops and PCs, and Xeon, a chip for servers."
-    publishedDateTime: 2023-12-15T02:52:00Z
-    webUrl: "https://interestingengineering.com/innovation/intels-new-chip-gaudi3-competes-with-nvidia-and-amd"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/12/15/image/jpeg/wYkj6XdZYwfk4JfVqMMfH13lZNZ5vQC6qujPEM9v.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Nvidia talks to U.S. about its new AI chips for China"
-    excerpt: "\"They want to do the right thing,\" the Commerce secretary said of Nvidia. \"Obviously they want to sell as many chips as possible.\""
-    publishedDateTime: 2023-12-12T14:20:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2023/12/12/nvidia-talks-to-us-about-its-new-ai-chips-for-ch.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 34
 
 secured: "mMOwWSFiEsQlhC1wdwBkSm+eQGFM7h1DJMIafgSwuJ2Uwy/o7trOjVXmiUPYpDj2ahMINQHaNuJJRWuZYYyKOhP7IRwZHEkYo8jJ/vxs3ni7e7TBWVheEJmEKtirYcn4ryqC39sRFTFOre6Ija7AVdFBgactm+D9UcKg/YRH4F5Pdy/fc//qvB1viRP0XNDWaEoOmCPEq9LlCx/Z6ZLMMmnBstntKeC7X/bZX5NdPotVGk5++ltFrUDCcP+3wMXrjyqkrKyhLPHP6IfkseiNX6OARzG8sSBM5tXxAhfATvfz9/cObqDx3DPdfPBd4m22d6pr2E3Yvd9yrnSUHhyP0T+krZptNmmyRNmUl82ldlkpCbj3OfwJkjLCATdszzy/anMSRiK/ExUyVqk3nYhLHUxTAlxNcE1TzhTK6eLtzVTV+PXqc1819TyIK9Je3nJoBfB4VOyXxcl8iO4DpGNAmnpRN829yyuOpM8g3exYoIFmh/JOlETftLhJCJ3xLjg5JWOnkcPkwlBJbb5KJcb1BA==;Nqo9E1yhHQfMeaao71D9dg=="
 ---

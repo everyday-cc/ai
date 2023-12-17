@@ -51,20 +51,6 @@ related:
         width: 770
         height: 369
         isCached: true
-  - title: "Global AI Conclave: Indic LLMs need a lot of datasets to train models, says IIT Madras professor"
-    excerpt: "The need for speech-based language is also because, in the country, typed input is error-prone and very English-intensive, said Mitesh Khapra, Associate Professor of Computer Science at IIT-Madras"
-    publishedDateTime: 2023-12-12T09:51:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/global-ai-conclave-indic-llms-need-a-lot-of-datasets-to-train-models-says-iit-madras-professor-11892441.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 26
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/12/Google-Gemini-AI-model-770x433.png"
-        width: 770
-        height: 433
-        isCached: true
 
 secured: "aOC4fjY2TmloUThAWzpFaSRCGctXUrBw01/E/m8Rxi0ZgepMXeMbT0iRypK0AfALqe62UxmmVCJadirx9zbkYBVo2p6bGf2oLEOd1++5DPTFfsibn1uPY2PE0T7CSPgVVb3woxJNILGZZKziutcvAnEPbGUJX3nBD1+IDv8mkvran3UU/Qf8PhPNrkU8qHeq0KY4dyvhlFds1CM8KADR1KF2jCiKDVb6it/F0b7+YS/qi4Sui6D48WX/mjen+SiH0P8gKI4ZcIoSzacRJXhLrLcFW6lf7lwCO19kGrpFnvr8q7RDOGjgG/Q89ua3eqa5/3Uao5wpuH74TuYukzPu4tgqVhq9T4rpNMtMI2tjaQ0k6h+IoroSIuQZ6VyTSvBkZbIEXowggbftdh6XybsgBb0jYif6eC3Xaeo4TZ/1O/FhvbxRFNWRG7IC7scNbPt5EE2XvKYB0T8p7fGHsGodCZjiyYn60/jJ3vr2tAfiMuIgdc1lDHimI/PDCJ/K7/2FWEvVZ2EyS5CAqyfXh1Lo2Q==;wL0yJMx2jmMXw6o0nJLXfw=="
 ---

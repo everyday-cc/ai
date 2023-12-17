@@ -39,15 +39,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "IIT Delhi to propel professionals into the Quantum Future with Certification in Quantum Computing & Machine Learning"
-    excerpt: "The Certification in Quantum Computing & Machine Learning offers a curriculum that combines theoretical foundations with hands-on practical experience where learners delve into quantum algorithms, machine learning techniques,"
-    publishedDateTime: 2023-12-12T09:20:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Business/20231212/4148230.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
 
 secured: "1uj0xN/H1QHGUcJ8sNjq+CRahSqtYcX5J0aQAWZ2mipNMbBxBPzhSPoBad5UCiU/fW/q5W/TYP4v94EmK4cyZEMDnMQxBASd4O0jCtg28/soi8n1vFVgdaybdcAxUyTccNqNdxjvunCOy72nHlzFhI1lkblq9ya7HPCgzw28FaEpVR6BuB0tdeN4qKOORRiWwbSU4hJ484iUWoYq20BEPcwU52pTxzY1sRO9rfT/qepGjyclDczkdWvK1jCX1vBzKB2QllRS9Pc6eR65+YTJH0Yv+/TShQN4CIBbPz1zRZEekBWu0lnLV+st6qAHLwN2+DNn1w0ibOlOMH9oWKzL9/4TrQMQ6jsFOL9agsFG4i6C/mFM1eCsSNZiCnqNMsPsAldJDOT2Sx0Qh1sTZCOQ3gzi/3EDU0FDN3soouvXQjiYlYS0FAOWiVCyTVpNBqOgnc9XbV5d2uuT20CQ6BXe4mVIGTSteAUgQPKLv/3sS6lFEuAVwinDbyqFE84eRj3w97c4EC0t5mSOZs2Rhy8s9A==;wcYTcjs9PG6J7WA8p5JoTA=="
 ---

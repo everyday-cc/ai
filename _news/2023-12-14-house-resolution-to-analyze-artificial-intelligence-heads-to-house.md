@@ -40,6 +40,15 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Unleashing The Power Of AI: How An AI Council Can Help Drive Business Transformation"
+    excerpt: "Having an internal body comprised of experts with a comprehensive understanding of AI and its potential can mitigate challenges and drive successful AI implementation."
+    publishedDateTime: 2023-12-14T12:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/14/unleashing-the-power-of-ai-how-an-ai-council-can-help-drive-business-transformation/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 42
   - title: "Nth Exception launches AI tool for ISO 20022 adoption"
     excerpt: "London-based fintech Nth Exception has launched Nucleus, a machine learning data fabric to ease financial institutions into ISO 20022 adoption."
     publishedDateTime: 2023-12-15T11:06:00Z

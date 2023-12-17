@@ -9,7 +9,7 @@ ampWebUrl: "https://singularityhub.com/2023/12/12/this-mind-reading-cap-can-tran
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/12/12/this-mind-reading-cap-can-translate-thoughts-to-text-thanks-to-ai/?amp=1"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://images.hindustantimes.com/tech/img/2023/12/15/1600x900/pexels-mikhail-nilov-7671957_1702631370709_1702631384463.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "AI-Powered System Turns Thoughts Into Text"
-    excerpt: "In a world-first, researchers have developed a non-invasive, AI-powered system that can decode thought into text, potentially enabling seamless communication between humans and machines."
-    publishedDateTime: 2023-12-12T10:37:00Z
-    webUrl: "https://www.technologynetworks.com/neuroscience/news/ai-powered-system-turns-thoughts-into-text-381934"
-    type: article
-    provider:
-      name: technologynetworks
-      domain: technologynetworks.com
-    quality: 39
-    images:
-      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/381934/ai-powered-system-turns-thoughts-into-text-381934-640x360.jpg?cb=20231212"
-        width: 640
-        height: 360
         isCached: true
   - title: "Mind-reading AI technology turns thoughts into text"
     excerpt: "Researchers have developed a portable, non-invasive system that can decode silent thoughts and turn them into text."

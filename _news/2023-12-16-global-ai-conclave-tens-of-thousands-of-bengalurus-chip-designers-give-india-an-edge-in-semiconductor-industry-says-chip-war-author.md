@@ -43,20 +43,6 @@ related:
         width: 770
         height: 371
         isCached: true
-  - title: "Global AI Conclave: Indic LLMs need a lot of datasets to train models, says IIT Madras professor"
-    excerpt: "The need for speech-based language is also because, in the country, typed input is error-prone and very English-intensive, said Mitesh Khapra, Associate Professor of Computer Science at IIT-Madras"
-    publishedDateTime: 2023-12-12T09:51:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/global-ai-conclave-indic-llms-need-a-lot-of-datasets-to-train-models-says-iit-madras-professor-11892441.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 26
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/12/Google-Gemini-AI-model-770x433.png"
-        width: 770
-        height: 433
-        isCached: true
   - title: "Global AI Conclave | Chip Wars author Chris Miller lauds India’s deep talent pool in chip design"
     excerpt: "There are more people in chip design in India than anywhere else in the world, which is an extraordinary base of human capital…If we look at Bangalore, we see 10,000 people working in the chip Industry,"
     publishedDateTime: 2023-12-16T14:46:00Z

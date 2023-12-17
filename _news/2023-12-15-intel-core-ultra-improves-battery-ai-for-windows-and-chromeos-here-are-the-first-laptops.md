@@ -261,6 +261,20 @@ related:
         width: 1920
         height: 1081
         isCached: true
+  - title: "Intel announces a new AI chip to compete with Nvidia and AMD"
+    excerpt: "Intel Corporation unveiled the Gaudi3 accelerator on Thursday. It also announced Core Ultra and 5th gen Xeon server chip today."
+    publishedDateTime: 2023-12-14T17:25:00Z
+    webUrl: "https://invezz.com/news/2023/12/14/intel-new-ai-chip-compete-nvidia-amd/"
+    type: article
+    provider:
+      name: Invezz
+      domain: invezz.com
+    quality: 54
+    images:
+      - url: "https://invezz.com/wp-content/uploads/2023/08/108349122-m-normal-none-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Intel releases its own AI chip"
     excerpt: "Hopefully, Gaudi3 will not end up under a tram Intel unveiled a new AI computer chip called Gaudi3, hoping to give Nvidia and AMD a run for their money. The most prominent AI models run on Nvidia, like OpenAI's ChatGPT."
     publishedDateTime: 2023-12-15T10:24:00Z
@@ -314,6 +328,20 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 53
+  - title: "Intel Drops New Core Ultra Processors and Gaudi3 AI Chip to Take on Nvidia and AMD"
+    excerpt: "Intel launches Core Ultra processors and Gaudi3 AI chip to compete with Nvidia and AMD. Core Ultra line features chiplet design, neural processing unit, and specialized AI components for enhanced performance."
+    publishedDateTime: 2023-12-16T10:47:00Z
+    webUrl: "https://www.technobezz.com/news/intel-drops-new-core-ultra-processors-and-gaudi3-ai-chip-to-take-on-nvidia-and-amd/"
+    type: article
+    provider:
+      name: Technobezz.com
+      domain: technobezz.com
+    quality: 48
+    images:
+      - url: "https://cdn.technobezz.com/c/intel_core_ultra_holthaus_jpg_rendition_intel_web_1648_927_d97184be91/intel_core_ultra_holthaus_jpg_rendition_intel_web_1648_927_d97184be91.jpg"
+        width: 1102
+        height: 927
+        isCached: true
   - title: "BitHuman introduces lifelike AI agents for enterprises"
     excerpt: "BitHuman is pioneering a new horizon in the AI landscape, boasting agents tailored for the enterprise realm. Their forte lies in crafting comprehensive AI solutions, facilitating real-time, photorealistic, human-like experiences across sectors such as hospitality, fashion, retail, healthcare, and beyond."
     publishedDateTime: 2023-12-13T12:00:00Z

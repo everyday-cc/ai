@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk Slammed By His Own AI Bot"
-    excerpt: "\"Well, it seems like Elon might be trying to rewrite history here,\" the AI bot started its message about Musk."
-    publishedDateTime: 2023-12-12T09:37:00Z
-    webUrl: "https://www.newsweek.com/elon-musk-slammed-own-ai-bot-1851531"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 67
-    images:
-      - url: "https://d.newsweek.com/en/full/2321918/elon-musk-x-logo.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Elon Musk advocates regulation for ‘inevitable’ Artificial Intelligence"
     excerpt: "Billionaire entrepreneur Elon Musk, the founer of Tesla and SpaceX, said on Saturday that Artificial Intelligence is \"inevitable\" and called for its regulation with a metaphorical \"referee\" to ensure future advantages."
     publishedDateTime: 2023-12-16T16:31:00Z

@@ -23,44 +23,53 @@ topics:
   - AI
 
 related:
-  - title: "Five Considerations When Adopting AI: An Executive's SOLID Compass"
-    excerpt: "It’s crucial to discern which innovations truly matter and how to effectively navigate them without getting lost in jargon."
-    publishedDateTime: 2023-12-12T10:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/five-considerations-when-adopting-ai-an-executives-solid-compass/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/five-considerations-when-adopting-ai-an-executives-solid-compass/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/12/five-considerations-when-adopting-ai-an-executives-solid-compass/amp/"
+  - title: "The Time To Formalize An Approach To AI Adoption Is Now"
+    excerpt: "Ignoring the potential of AI and clinging to conventional methods can result in missed opportunities and a loss of competitiveness in today's market."
+    publishedDateTime: 2023-12-14T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/12/14/the-time-to-formalize-an-approach-to-ai-adoption-is-now/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/12/14/the-time-to-formalize-an-approach-to-ai-adoption-is-now/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/12/14/the-time-to-formalize-an-approach-to-ai-adoption-is-now/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/629a23ed5c778bcfbcf8de3b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1349
+      - url: "https://imageio.forbes.com/specials-images/imageserve/60aebd253bb898555bf94d92/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
         height: 900
         isCached: true
-  - title: "Seven Reactions to Biden's Executive Order on Artificial Intelligence"
-    excerpt: "Their posts focus on provisions for non-industry led AI research (Viljoen), inadequate safeguards for workers' rights (Ajunwa), and tension between competition and innovation (Bietti), among other features of the EO."
-    publishedDateTime: 2023-12-13T00:00:00Z
-    webUrl: "https://cyber.harvard.edu/story/2023-12/seven-reactions-bidens-executive-order-artificial-intelligence"
+  - title: "House Resolution to Analyze Artificial Intelligence Heads to House"
+    excerpt: "Merski's team said he has previously advocated for steering AI away from nefarious actors and directing it toward being a beneficial, useful source for good in our society."
+    publishedDateTime: 2023-12-13T18:25:00Z
+    webUrl: "https://www.erienewsnow.com/story/50216333/house-resolution-to-analyze-artificial-intelligence-heads-to-house"
     type: article
     provider:
-      name: Harvard Medical School
-      domain: harvard.edu
-    quality: 39
+      name: Erie News Now
+      domain: erienewsnow.com
+    quality: 37
     images:
-      - url: "https://cyber.harvard.edu/modules/custom/bkc_home/images/bkc_logo_social_share_default.jpg"
-        width: 1000
-        height: 500
+      - url: "https://WICU.images.worldnow.com/images/25234973_G.jpeg?lastEditedDate=1696261550000"
+        width: 1280
+        height: 577
         isCached: true
-  - title: "Google’s Breakthroughs in Artificial Intelligence: A Comprehensive Overview"
-    excerpt: "Introduction: In the ever-evolving landscape of technology, Google stands as a trailblazer, consistently pushing the boundaries of innovation. At the forefront of their technological advancements is artificial intelligence (AI),"
-    publishedDateTime: 2023-12-14T13:53:00Z
-    webUrl: "https://techbullion.com/googles-breakthroughs-in-artificial-intelligence-a-comprehensive-overview/"
+  - title: "Nth Exception launches AI tool for ISO 20022 adoption"
+    excerpt: "London-based fintech Nth Exception has launched Nucleus, a machine learning data fabric to ease financial institutions into ISO 20022 adoption."
+    publishedDateTime: 2023-12-15T11:06:00Z
+    webUrl: "https://www.finextra.com/newsarticle/43442/nth-exception-launches-ai-tool-for-iso-20022-adoption"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
+      name: Finextra
+      domain: finextra.com
+    quality: 19
+  - title: "How Publishers Can Navigate the AI Revolution"
+    excerpt: "Despite the hype, publishing is still looking at what impact large language models and similar technology may bring."
+    publishedDateTime: 2023-12-16T01:22:00Z
+    webUrl: "https://www.publishersweekly.com/pw/by-topic/digital/content-and-e-books/article/93963-how-publishers-can-navigate-the-ai-revolution.html"
+    type: article
+    provider:
+      name: Publishers Weekly
+      domain: publishersweekly.com
     quality: 19
 
 secured: "JY6MqlFkO5X2uLNvqWh/015hW+I4xiaPOpE97GsWhymZlvjpJXaEKKIUTA3sHEvqLY0GHhiPGZfY1+4yRLI53/xA8KuuSV5LOBXajqSFBDZFinf5Rk1OfyzuncssbfjbszcXt7pFC9bnLax55xkkEexTZCo/l0kiDlklH5u2Rsrqzqd0RyNkHL+4W5pQjb3QR0UiY1Vf5mDcLmF6xWLTuvxjhCQyw6ghsAXJhFrkeAo2NFd01p5DamOdOmOGfdZfHNLUSnllbQH2egT9imQWlcviYrnZfW61H+Bz36RGdbC6p+pzX3pww/AoOi6YXg6IKnF7d2xVFcIQjRagsBFUZeNiW9ZLpIrz0VF7yH085nd/jU80Gl9dWDofnmo6ICHfdbaKxuJu3Odc+s6kNUaDvSAQcPmJcwBaRdyLzIsO6CdmY7RADaRUU7k4Mwq2m+LjoiMm0YtXwVzCkKPZc2KlhMFX5Mi6SY1T8tvCeeAx2B4hpD3QayHfpb9RoXPpFnruDrecGSiHZQ57F6CnqTnLBw==;6sun3zmDAvwkQVGA0iRtYQ=="

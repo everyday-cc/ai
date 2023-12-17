@@ -9,7 +9,7 @@ ampWebUrl: "https://www.laprensalatina.com/elon-musk-advocates-regulation-for-in
 cdnAmpWebUrl: "https://www-laprensalatina-com.cdn.ampproject.org/c/s/www.laprensalatina.com/elon-musk-advocates-regulation-for-inevitable-artificial-intelligence/amp/"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk Slammed By His Own AI Bot"
-    excerpt: "\"Well, it seems like Elon might be trying to rewrite history here,\" the AI bot started its message about Musk."
-    publishedDateTime: 2023-12-12T09:37:00Z
-    webUrl: "https://www.newsweek.com/elon-musk-slammed-own-ai-bot-1851531"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 67
-    images:
-      - url: "https://d.newsweek.com/en/full/2321918/elon-musk-x-logo.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Grimes Unveils Grok, An AI Children’s Toy Unrelated To Elon Musk’s Grok"
     excerpt: "One of the most recent products that Elon Musk is pushing on the world is Grok, an “anti-woke” chatbot for users of the social network that most of us still call Twitter. Grimes, currently in a custody battle with Musk over their three children,"
     publishedDateTime: 2023-12-15T00:40:00Z
