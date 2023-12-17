@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/microsoft-drastically-expands-azure-ai-
 webUrl: "https://venturebeat.com/ai/microsoft-drastically-expands-azure-ai-studio-to-include-llama-2-model-as-a-service-gpt-4-turbo-with-vision/"
 type: article
 quality: 62
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -24,20 +24,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Microsoft Believes Indian Tech Firms Will Play A Key Role In AI Development, Adoption Globally"
-    excerpt: "The world's largest vendor of computer software, Microsoft is working with India's IT and ITeS companies in multiple markets to facilitate AI implementation."
-    publishedDateTime: 2023-12-12T06:46:00Z
-    webUrl: "https://www.ibtimes.co.uk/microsoft-believes-indian-tech-firms-will-play-key-role-ai-development-adoption-globally-1722131"
-    type: article
-    provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 42
-    images:
-      - url: "https://d.ibtimes.co.uk/en/full/1717954/microsoft.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
   - title: "Global AI Conclave | Yotta CEO promises to launch cloud service that will compete with Amazon, Microsoft"
     excerpt: "Sunil Gupta, Co-Founder and CEO of Yotta Infrastructure, announced Shakti Cloud, which he said is India's largest AI supercomputing cloud, to rival global giants like Amazon, Google, and Microsoft. Gupta said the service will be operational by Feb 2024,"
     publishedDateTime: 2023-12-16T13:30:00Z

@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Meteor Lake AI laptops are on sale now, but read this before you buy"
+    excerpt: "Put briefly, there are at least 3 major ways in which Intel is claiming these new Meteor Lake chips will improve your day-to-day laptop experience: Better battery life, better graphical performance, and better support for on-device AI work."
+    publishedDateTime: 2023-12-17T06:00:00Z
+    webUrl: "https://www.tomsguide.com/opinion/meteor-lake-ai-laptops-are-on-sale-now-but-read-this-before-you-buy"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 39
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/8xHfwSoTu7iQd3H5VftUGi-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Intel Meteor Lake has arrived: Here’s what these new ‘AI laptops’ can do"
     excerpt: "So when Intel promotes these new Meteor Lake-powered laptops as \"AI laptops,\" what they're trying to convey is that these laptops have a special processor dedicated to the kind of work that AI tasks often demand."
     publishedDateTime: 2023-12-15T06:00:00Z

@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Gemini AI: What do we know about Google's answer to ChatGPT?"
+    excerpt: "Most AI models like ChatGPT can only understand and generate one type of content — like text, audio, images or video — but Google's Gemini can generate them all."
+    publishedDateTime: 2023-12-13T10:10:00Z
+    webUrl: "https://www.livescience.com/technology/artificial-intelligence/google-deepmind-gemini-ai-vs-openai-chatgpt"
+    type: article
+    provider:
+      name: Live Science
+      domain: livescience.com
+    quality: 56
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/YSQjzQFFyPxCecexhdvhff-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Everything about Gemini AI: Google's assistant, Nano, Ultra"
     excerpt: "Google has recently launched its own Artificial Intelligence (AI) called Gemini. It is a new model that is available on the Bard platform and will gradually be extended to other Google services. Learn more about its features and how you can test"
     publishedDateTime: 2023-12-12T14:20:00Z
@@ -61,15 +75,6 @@ related:
         width: 1280
         height: 721
         isCached: true
-  - title: "Google Bard Meets the Latest Language Model, Gemini"
-    excerpt: "Gemini, the latest language model of Google and DeepMind is being used by Google Bard, an AI chatbot of Google."
-    publishedDateTime: 2023-12-14T17:06:00Z
-    webUrl: "https://techacute.com/google-bard-meets-the-latest-language-model-gemini/"
-    type: article
-    provider:
-      name: techacute.com
-      domain: techacute.com
-    quality: 4
 
 secured: "sjFIQIn6X4dfOu4Ypr3xraCIUcikO2CSdtOKdu+hQFRANO4bUFGIcd987cUE0oEZuq4CxM0c5WRno+N6PFqz7YEjXYgDu2Bwqj0qjJwAdR9E8ssi8xZtivDkelM56hyQAa8xvTPlty3fpiMJr3Vcqo3/nZ7ekYamxQwz3HdqBgAJ+jdoguNV33NLUvko/BwxBiN/xZvdWg/BYb2QENuzWkFRwPE608EUB/I0sfJuFd2gUh3ZvYOZtb33GfeysmUp6GL/rMNHFhiecAYGroGorZJcmyPowv4TWL3rPhC66BzOZxYEWci+LtFGrB9oB2CG6gJjbDoPSo4R4qUP9/myAf2mPR7Zum+8zQAiod99j8c=;fOgb9PBUCiMjzKddt8PDrw=="
 ---

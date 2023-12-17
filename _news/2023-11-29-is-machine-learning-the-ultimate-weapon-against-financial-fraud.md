@@ -3,8 +3,8 @@ category: news
 title: "Is Machine Learning the Ultimate Weapon Against Financial Fraud?"
 excerpt: "To address these threats, financial institutions are turning to machine learning (ML) as a powerful tool for proactive fraud prevention. Let’s explore how ML is effectively combating fraud and ..."
 publishedDateTime: 2023-11-29T00:00:00Z
-originalUrl: "https://www.finextra.com/blogposting/25284"
-webUrl: "https://www.finextra.com/blogposting/25284"
+originalUrl: "https://www.finextra.com/blogposting/25284/is-machine-learning-the-ultimate-weapon-against-financial-fraud"
+webUrl: "https://www.finextra.com/blogposting/25284/is-machine-learning-the-ultimate-weapon-against-financial-fraud"
 type: article
 
 provider:
@@ -22,6 +22,6 @@ images:
     height: 816
     isCached: true
 
-secured: "uAVdZLlvVTUuRSTZXcT17ihh+7kKEZNuR8jz99Cx26cgzJxXqc7jX2dPhNin+c55ET9FOdAKhihwtjY0tTI/qeW3KMnOxVFQR91ArxFYPT7vzPvUuVJcsdI8bTtgC7EAxiRJ9mx/LEadCr5OjhM1jaqv4QC6/VCYfy8gNvcm3+hMgFF8obKoJb87lbTjNkICEH2ATzIjF4lKbyLEh5XXMma6fgEx+kVbwiI366+nWBWZkQbpya4Qk2YXP6rnLz2Efw9Ae/XLgeRPmIYAggPX47qfy5xZ9QwLFG2t3fsKYkWPAW0Cut8VVJBUHiqbg2fdBEjfPqCsprR5tc08oy+Uv1xyHo2lGIWAc+N0HsFekDk=;L4ANpbYNofYl7CnnJZ4I6A=="
+secured: "sITimw+SIUzQUW5aRRIB6tEMGuhKiFYi/IeMRDrah+/kj3BQoWOpLHFOaie0kdhksER11QdO4irSiKGTYtZ7zZgD4widyYgmyCEHoP7uVblA5t/ERseWzCJEWT0NIFLB85KpZ/XYRH61R8EgbRoeE0CuWVSABdmJOW4g/lpq/Haf3xF+x754IWuVUchO5weq1PWFdvk77wBpXY1PlpgMWgbmW7qivJiLId3HZXs3vHg3spNq4Nv1vAtnB3I6VsZGgPvRbkP0ZC82Uw9UFhGlFz0N4BD5WEKLhSm+BuEWS0wAlE1NYdRDphRmMd4V64H4EEDvRbZt1zjjcdQ4HMlJLuogyEn92mJy4OUhpA3c+IQ=;lHh5NPrSdDYy8NsYx1DQiA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.tomsguide.com/news/intel-meteor-lake-has-arrived-heres
 webUrl: "https://www.tomsguide.com/news/intel-meteor-lake-has-arrived-heres-what-these-new-ai-laptops-can-do"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Meteor Lake AI laptops are on sale now, but read this before you buy"
+    excerpt: "Put briefly, there are at least 3 major ways in which Intel is claiming these new Meteor Lake chips will improve your day-to-day laptop experience: Better battery life, better graphical performance, and better support for on-device AI work."
+    publishedDateTime: 2023-12-17T06:00:00Z
+    webUrl: "https://www.tomsguide.com/opinion/meteor-lake-ai-laptops-are-on-sale-now-but-read-this-before-you-buy"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 39
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/8xHfwSoTu7iQd3H5VftUGi-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Intel Meteor Lake ‘AI laptops’ have landed — here’s 5 you can buy right now"
     excerpt: "Acer Swift Go 14: $999 @ Acer The Acer Swift Go 14 is one of the first \"AI laptops\" now available. This model features a 14-inch (1,920 x 1,200) 60Hz display, 16GB of RAM, 1TB of SSD storage, and the new Intel Core Ultra 7 CPU."
     publishedDateTime: 2023-12-15T00:18:00Z

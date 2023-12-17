@@ -29,20 +29,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 62
-  - title: "Microsoft Believes Indian Tech Firms Will Play A Key Role In AI Development, Adoption Globally"
-    excerpt: "The world's largest vendor of computer software, Microsoft is working with India's IT and ITeS companies in multiple markets to facilitate AI implementation."
-    publishedDateTime: 2023-12-12T06:46:00Z
-    webUrl: "https://www.ibtimes.co.uk/microsoft-believes-indian-tech-firms-will-play-key-role-ai-development-adoption-globally-1722131"
-    type: article
-    provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 42
-    images:
-      - url: "https://d.ibtimes.co.uk/en/full/1717954/microsoft.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
 
 secured: "Rui4tx17z9uJSdQF0ccz+J5tChCRqlag/im4f8ipQB2M390QUqlM8CxZ/k9B7MwMOJfjo6nd7hMo+apnyUJGa287k66nYKXx6hxH/63XsZQrNY/O6UFN8B88AUEsNp+pqJw9dJ6F+RM9Bl0k9VuKpJykJ6D5rdTQp+dxFJPFVQqmCPYvv02RQp0RBLnpgQc6ScsM74RbuUG27eoyPw1KtgZ0ZGrGNqFK7AkeM09UyGm0+RgjvYisbSxDsoEjDanFxOC71gkIDyBX5TxK1p5d7RD4xOtfkQGQmmNkbXUdBd1TMLtLUH0rXGY6GkZIwjdtJXAQG6FMCctTx1lk0jMvbr1vWTINSPa7CSSa021bbumq8M19HeW14XxoJvVuPgubPRAH2ABZ1e5TkNWotOJu1Kkf1ajBQJksFwV04SKmBp6EziC5H14xFTg6u8+aEFIzVV7sOvXv5yX2Uouda0xMvW9hFSMt8mA9OmGEI6/rAp3JxliOP26KBeuGHcEYmtcFFxrsrqAqo/YjnQ0aLQQufA==;DpTy2yLblI+MGi77koBpdQ=="
 ---

@@ -25,14 +25,19 @@ images:
 
 related:
   - title: "2023: The year we played with artificial intelligence — and weren't sure what to do about it"
-    excerpt: "ChatGPT was the catalyst for a year that took artificial intelligence mainstream. For AI, 2023 was a long time coming. Still, the technology has a long way to go before"
-    publishedDateTime: 2023-12-14T11:14:00Z
-    webUrl: "https://www.postregister.com/businessreport/healthcare/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about/article_62e09c97-16d1-5387-982e-ce7b97e9a21b.html"
+    excerpt: "Artificial intelligence went mainstream in 2023 — it was a long time coming yet has a long way to go for the technology to match people’s science fiction fantasies of human-like machines."
+    publishedDateTime: 2023-12-14T12:45:00Z
+    webUrl: "https://www.washingtonpost.com/business/2023/12/14/ai-2023-artificial-intelligence-chatgpt-dangers/251bf914-9a72-11ee-82d9-be1b5ea041ab_story.html"
     type: article
     provider:
-      name: Post Register
-      domain: postregister.com
-    quality: 8
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 28
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EPNXVNU2OII65AWZXYNV5ICBVM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "diDaMzvurlYFth2KY+IMpWb2nv2UOfciWfTQY6ihOiyHNuA9gKUp7qLbjOvN3c4+OOo6sQbYwQ7WWKPYEq8/6ia21daczer/JIVqCMamjh51rK79E70Sf7Qr3LLDXhEWm9CYHaCJRw0zLHmDgy8sOhttcxvldD39i/PCvgG7LLnzL5ybcNNPH4/d0xttMOuCKcWubI8zJIz9O2t+Wcpc12M5x4534jGpHDjvTP+/9y/C4RKYh0twvzm57qDxSpF+n3fgZXgX4C9gEr5LIf5/HEmvCzXDvaXf4/h71+6UefhYOebF3YkFuh9IpPqLYbUFwiyA3fgQPDeUO883zXbCUw6QARDJ9Q4+lExxv+LZwMM=;AN0TfnKgpJcss1ydbJ99IA=="
 ---

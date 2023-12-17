@@ -7,7 +7,7 @@ originalUrl: "https://ccm.net/apps-sites/web/11817-everything-about-gemini-googl
 webUrl: "https://ccm.net/apps-sites/web/11817-everything-about-gemini-google-s-ai-assistant-nano-ultra/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Gemini AI: What do we know about Google's answer to ChatGPT?"
+    excerpt: "Most AI models like ChatGPT can only understand and generate one type of content — like text, audio, images or video — but Google's Gemini can generate them all."
+    publishedDateTime: 2023-12-13T10:10:00Z
+    webUrl: "https://www.livescience.com/technology/artificial-intelligence/google-deepmind-gemini-ai-vs-openai-chatgpt"
+    type: article
+    provider:
+      name: Live Science
+      domain: livescience.com
+    quality: 56
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/YSQjzQFFyPxCecexhdvhff-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google plans to roll out Gemini across all its products"
     excerpt: "Even Bing is outclassing it, so it has to do something. With the arrival of AI, the search engine Google has found itself in the embarrassing situation of being beaten by Microsoft’s Bing, and now the company says it will roll out its own AI Gemini across nearly its entire line of products."
     publishedDateTime: 2023-12-15T10:35:00Z
@@ -62,15 +76,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 19
-  - title: "Google Bard Meets the Latest Language Model, Gemini"
-    excerpt: "Gemini, the latest language model of Google and DeepMind is being used by Google Bard, an AI chatbot of Google."
-    publishedDateTime: 2023-12-14T17:06:00Z
-    webUrl: "https://techacute.com/google-bard-meets-the-latest-language-model-gemini/"
-    type: article
-    provider:
-      name: techacute.com
-      domain: techacute.com
-    quality: 4
 
 secured: "h1wMTUMPLduHU/sUqUsslScXscfv8pR/zo02FgFk5XQDJBVKfp7uLQM6GSUkBBPRYWSrXrhYcuK++afADDTnxfK5l2xoD/xPMuH+zXsggt/5Y2SvYAFOzIy/4SksqmC1tL9oZGxZDL/jqf1VXW/s3f0MEdxA9aqXzaSfHnj4cOJCgw59sWs2tRawZz4db7BI8utyPUVOXz1V5dXsWr2ZyOvwAl/ZWS+DRhHPcQ4X7I8Y5dOPaXabqHuYSZExxyLAbGwh5y3XbMr2LQqPNZ94qGUUn96hbc597+NEa29TMA+CFL1B3hlnZG3LI9W7T3YWXt9XwmiQchrbTiPgAem1Kz/l6aW3XNYYAOUoWee3NxU=;hPrgUc/9f+z2peztHulMhQ=="
 ---

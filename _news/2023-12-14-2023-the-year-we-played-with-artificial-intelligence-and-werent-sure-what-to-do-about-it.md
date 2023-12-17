@@ -1,22 +1,28 @@
 ---
 category: news
 title: "2023: The year we played with artificial intelligence — and weren't sure what to do about it"
-excerpt: "ChatGPT was the catalyst for a year that took artificial intelligence mainstream. For AI, 2023 was a long time coming. Still, the technology has a long way to go before"
-publishedDateTime: 2023-12-14T11:14:00Z
-originalUrl: "https://www.postregister.com/businessreport/healthcare/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about/article_62e09c97-16d1-5387-982e-ce7b97e9a21b.html"
-webUrl: "https://www.postregister.com/businessreport/healthcare/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about/article_62e09c97-16d1-5387-982e-ce7b97e9a21b.html"
+excerpt: "Artificial intelligence went mainstream in 2023 — it was a long time coming yet has a long way to go for the technology to match people’s science fiction fantasies of human-like machines."
+publishedDateTime: 2023-12-14T12:45:00Z
+originalUrl: "https://www.washingtonpost.com/business/2023/12/14/ai-2023-artificial-intelligence-chatgpt-dangers/251bf914-9a72-11ee-82d9-be1b5ea041ab_story.html"
+webUrl: "https://www.washingtonpost.com/business/2023/12/14/ai-2023-artificial-intelligence-chatgpt-dangers/251bf914-9a72-11ee-82d9-be1b5ea041ab_story.html"
 type: article
-quality: 8
+quality: 28
 heat: -1
 published: false
 
 provider:
-  name: Post Register
-  domain: postregister.com
+  name: The Washington Post
+  domain: washingtonpost.com
 
 topics:
-  - AI in Healthcare
+  - AI in Autos
   - AI
+
+images:
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EPNXVNU2OII65AWZXYNV5ICBVM.jpg&w=1440"
+    width: 1440
+    height: 960
+    isCached: true
 
 related:
   - title: "2023: The year AI went mainstream (and it was messy)"
@@ -34,6 +40,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Uin5Rj5ybV6AEH9gvzjYfft12fyU1dph01iHrted3mDWM4jD//k/0WktyXcpz9y770+FJTE21A405vFVxptjlSE0kJzEPUmu5F3vvgM86xdXdSuxOcSdcXbTQj9DudeMQDpWgC61c/ekMcMGo1fI343yQVv6iUTjxfJ4DySj7AGDUnqIklPp3Ef3BdEKMqh8mPq4Ilvt8FRTzB3geUHSuPRAg3tDsQclg27yusBtBk24vQem2wmjiaQVYm0KQd9tqwP3oovvENbt7o5maHGrtiXvTe0bjuyFAOnnJKnjGtoE8+v3FGxGQcVLRHwwBrb0sCNmTLc8v2OHUqsaIE8ddNSwU/EibNL6UKDpFCBFv/iJE4HYRZqCyb0w1kArBN0VazTUM4mjFpKIu5KYDVpBAhRxgnu+wRstc0njqKeNQ8HIIKs0MM+cpZ91SONjC0DjLEb2B/KhfgPTLsuO/KsbRdeFkfHGyGctj54utmpKAi51qT8U7j8KMzMorG2NWd47HGvvRpXHrGFZurn4ltk2qw==;/DmIjND1Y0tTr/ExB8nRFg=="
+secured: "CB/uA02k0wh1xoPJYkO81XXoJ1xhysIW6ydHJeHmzo2+1rOMVxQ3zHI6nbq8Wj+WKhITRGSELix+MCXOYhy4iPtXxKI8GUc23DkTv1rZWp8E04ZVOcHvtqIvh7oUUWGjgiseVkHQzg9Z5dJPKl/dcdnofZdkxi30gx6v7gXcqvFYlJLXJpTl61ZsNOWV5Njt2p5ZJIQdFCMpi9HdodHP48vdHGjn12DH4T/MQEO3APv8HhFEMjczsHY+usfZvTX/uEqlhzigsGMqenCjhLsrC5l06rDWHdmlenf4Ok3J6EiUB6PGCzIGmUEnsSHGYx+EawM+Zc85qDqtapeOAF9ZdBwXqOFziCpH+4a1d4VOZg0=;faOdEvskrCJs6U2ygzDt6w=="
 ---
 
