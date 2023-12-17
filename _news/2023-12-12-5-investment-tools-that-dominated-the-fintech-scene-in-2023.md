@@ -41,20 +41,6 @@ related:
         width: 1024
         height: 854
         isCached: true
-  - title: "Swift Invites Fintech Pioneers to Join AI-Based Cross-Border Innovation Challenge"
-    excerpt: "Swift launched \"The Innovation Challenges\" that invites fintechs to create AI-based solutions to improve cross-border transactions."
-    publishedDateTime: 2023-12-12T04:36:00Z
-    webUrl: "https://fintechnews.sg/81994/ai/swift-invites-fintech-pioneers-to-join-ai-based-cross-border-innovation-challenge/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 34
-    images:
-      - url: "https://fintechnews.sg/wp-content/uploads/2023/12/Fintechs-Can-Now-Join-Swifts-Innovation-Challenge-for-AI-Cross-Border-Solutions.jpg"
-        width: 1024
-        height: 567
-        isCached: true
   - title: "Finastra Leaders Predict 2024 Fintech Trends Amidst Global Challenges"
     excerpt: "Finastra has shared its executive insights on the anticipated trends, challenges and opportunities for the fintech landscape in 2024."
     publishedDateTime: 2023-12-13T04:53:00Z

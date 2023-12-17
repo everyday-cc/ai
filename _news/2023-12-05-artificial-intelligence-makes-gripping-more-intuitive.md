@@ -1,20 +1,24 @@
 ---
 category: news
 title: "Artificial intelligence makes gripping more intuitive"
-excerpt: "a professor of rehabilitation and assistive robotics at TUM. Now, Prof. Piazza’s research team has shown that artificial intelligence can enable patients to control advanced hand prostheses more ..."
+excerpt: "This requires a network of 128 sensors and artificial intelligence based techniques. Different types of grasps and bionic design: technological developments in recent decades have already led to ..."
 publishedDateTime: 2023-12-05T00:00:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/1010158"
-webUrl: "https://www.eurekalert.org/news-releases/1010158"
+originalUrl: "https://www.sciencedaily.com/releases/2023/12/231205144408.htm"
+webUrl: "https://www.sciencedaily.com/releases/2023/12/231205144408.htm"
 type: article
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Robotics
+  - AI in Autos
   - AI
 
-secured: "qTuAzAHQhZOGTH0F8+IGxTx8aFR25kjt/U1PL13xwGwyuEdQRZbrso7un7XROHEB48CcgH6h4eiqmgBNDo0KXHbEzvQBvaOzF/TVT+yEWvw2vsjCLtfjjyHnFAsUunimofHH5c3Jq+0jd67OoXPxI3yOiH3939Evs2fjX24zSvsIh6SKz9JNIN4iWTAXX+X4uCGnoMA4M0vgpepYyGCatNEMrZn+6z81PIepXxLWjRtZO70R/kZ1q8K1ffve0qUEEU/HxaKw1mIV+JC6NnqlaGFaPExFRow1yON+3fHNMDonY2lMSt68irZCBsg4AbyUbfXaV0DbO4h+8CrodJexdAsigYBNXXQ/xx/njuVYq8k=;lQlNBy3qDM+oLvyryiG1rQ=="
+secured: "Bv0mKJbxHDW9+b1FY8YDeUokcdtRFhUFlqtA6GOlqPStel4FgHF2+/YkKm4FcQMGLywCSXffTxFTvYpf9e6p3yQ3Q8N0G4t2fV9Hieii/wV7IVJQmGApRsDbxvhSv0JFJROWUXkNt+DO0DfTdSf7B7wSw5VoKu4zovFGXYezdPeKJgNGtc5u/iYe4Qnm4xG7c9bw5wRTnZfF/tQ3FvuF9lGBseYU2Z4k/wb/ad8UKqh41tft8+pZ5ktHT0SCZH3jmDFxEyis4Eh9s51nRk0DiwwdmUJ/IlVgyyVwgth6FupRRXZxEW/8Sp8WrS8M3Rr9b1Hdqn4tFpmPXM3GqA6gEqDU1ZNCHqvOE5xO7HakvXo=;uYyeiG1gJYWOxYe5v6bXPA=="
 ---
 

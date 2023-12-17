@@ -35,20 +35,6 @@ related:
         width: 1024
         height: 854
         isCached: true
-  - title: "Swift Invites Fintech Pioneers to Join AI-Based Cross-Border Innovation Challenge"
-    excerpt: "Swift launched \"The Innovation Challenges\" that invites fintechs to create AI-based solutions to improve cross-border transactions."
-    publishedDateTime: 2023-12-12T04:36:00Z
-    webUrl: "https://fintechnews.sg/81994/ai/swift-invites-fintech-pioneers-to-join-ai-based-cross-border-innovation-challenge/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 34
-    images:
-      - url: "https://fintechnews.sg/wp-content/uploads/2023/12/Fintechs-Can-Now-Join-Swifts-Innovation-Challenge-for-AI-Cross-Border-Solutions.jpg"
-        width: 1024
-        height: 567
-        isCached: true
   - title: "5 Investment Tools That Dominated the FinTech Scene in 2023"
     excerpt: "For long-term financial needs, such as retirement, upcoming vacations, or a down payment, Betterment’s investment strategy employs low-cost ETFs (exchange-traded funds) and adjusts the risk profile based on the individual's goal type and the planned investment  duration."
     publishedDateTime: 2023-12-12T06:14:00Z

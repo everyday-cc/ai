@@ -9,7 +9,7 @@ ampWebUrl: "https://punchng.com/strengthen-fintech-regulations-bank-audit-leader
 cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/strengthen-fintech-regulations-bank-audit-leaders-tell-cbn/?amp"
 type: article
 quality: 59
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Swift Invites Fintech Pioneers to Join AI-Based Cross-Border Innovation Challenge"
-    excerpt: "Swift launched \"The Innovation Challenges\" that invites fintechs to create AI-based solutions to improve cross-border transactions."
-    publishedDateTime: 2023-12-12T04:36:00Z
-    webUrl: "https://fintechnews.sg/81994/ai/swift-invites-fintech-pioneers-to-join-ai-based-cross-border-innovation-challenge/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 34
-    images:
-      - url: "https://fintechnews.sg/wp-content/uploads/2023/12/Fintechs-Can-Now-Join-Swifts-Innovation-Challenge-for-AI-Cross-Border-Solutions.jpg"
-        width: 1024
-        height: 567
-        isCached: true
   - title: "5 Investment Tools That Dominated the FinTech Scene in 2023"
     excerpt: "For long-term financial needs, such as retirement, upcoming vacations, or a down payment, Betterment’s investment strategy employs low-cost ETFs (exchange-traded funds) and adjusts the risk profile based on the individual's goal type and the planned investment  duration."
     publishedDateTime: 2023-12-12T06:14:00Z
@@ -107,6 +93,6 @@ related:
       domain: punchng.com
     quality: 19
 
-secured: "nJ7pk8uSZkGD+T/QnvB2PfNgKVS7i+V1rJiWcwyFoVjn2cmJvOiaVykHcRL1MXepAGYf+mkVt+igeuMspwoqb3nv0ii2dieINHAgFfb8mmLy4nkyT9/zrHiaWPgHfojpwD3ZTtk97WH14klA05tfWB2uR1qGGhvzcA/UzrOhHYIeO3hFRiCFWAFKchlG/splNaaq4y1rNjGtXBYylZ1vqfBHtclgS90ghxPj6PjF/AUEpUCwnt4BpFD2Vm6r+g60tS1eTvIouDTOFiWny5QeJbF9cOsi3ChEgZ03ldk9VeGDf/Yqr9/3t2kF6mINf4ITxOtJ/wtxDocfjOmC8uOhaPpFJyn7SWe52f/Iaowdw9g=;lTmZuLQ9yiktyAPmRufKsg=="
+secured: "guvHXSzYbLZ1/bOW+8cTSW+gcyuS7bimKQY1+ppSvorYfY6pODFDdh5tWod0y63/Fir+UTqcpn3VzRpWT5qXUS9EnpLi/Xom4oSkz/w9PffjdePwAsChmY67rhJTBfdYzT7qeY1kL3BQjxWGWMrIe0PnqWr0VjyMA/SqfELRWqXLgjL6UKSZ84Zp9iakHeWNZfB8y62a2bI6urGQ+GM845zNfcxC1sDPFknFWiapcDMQPZCGlpwoh1kjAjFnPK6oWLMbevSngyctVvMTkl2D9xRb0/XTOWaWJSeLg+ex6ptwJdgSMrWqpon1WrUcrwBFfwaPUVlBdj1rfFVhxY6brONLOiAxjpxt66U2TOmSnys=;5Nn1iJcnLgBvqd5Y1dcBVg=="
 ---
 

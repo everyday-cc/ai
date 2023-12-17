@@ -53,20 +53,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "US: Nvidia can sell AI chips to China, just not the best ones"
-    excerpt: "A smartphone with a displayed NVIDIA logo is placed on a computer motherboard in this illustration taken March 6, 2023. [Photo/Agencies] Nvidia can sell artificial intelligence chips to China, but just not \"the most sophisticated ones\","
-    publishedDateTime: 2023-12-12T03:43:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202312/12/WS6577d1f4a31040ac301a7559.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 54
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202312/12/6577d1f4a31040acaf8272a1.jpeg"
-        width: 1078
-        height: 718
-        isCached: true
   - title: "Gina Raimondo on Permissible Sale of Nvidia’s AI Chips to China"
     excerpt: "Looking for the latest Government Contracting News? Read about Gina Raimondo on Permissible Sale of Nvidia's AI Chips to China."
     publishedDateTime: 2023-12-12T21:37:00Z

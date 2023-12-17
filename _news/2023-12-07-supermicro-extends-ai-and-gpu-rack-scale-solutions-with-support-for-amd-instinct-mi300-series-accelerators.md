@@ -1,20 +1,30 @@
 ---
 category: news
 title: "Supermicro Extends AI and GPU Rack Scale Solutions with Support for AMD Instinct MI300 Series Accelerators"
-excerpt: "New 8-GPU Systems Powered by AMD Instinct™ MI300X Accelerators Are Now Available with Breakthrough AI and HPC Performance for Large Scale AI Training and LLM Deployments SAN JOSE, Calif.,"
-publishedDateTime: 2023-12-06T20:00:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20231206sf86950/supermicro-extends-ai-and-gpu-rack-scale-solutions-with-support-for-amd-instinct-mi300-series-accelerators"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20231206sf86950/supermicro-extends-ai-and-gpu-rack-scale-solutions-with-support-for-amd-instinct-mi300-series-accelerators"
+excerpt: "New 8-GPU Systems Powered by AMD Instinct™ MI300X Accelerators Are Now Available with Breakthrough AI and HPC Performance for Large Scale AI"
+publishedDateTime: 2023-12-06T20:21:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/supermicro-extends-ai-and-gpu-rack-scale-solutions-with-support-for-amd-instinct-mi300-series-accelerators-1032879618"
+webUrl: "https://markets.businessinsider.com/news/stocks/supermicro-extends-ai-and-gpu-rack-scale-solutions-with-support-for-amd-instinct-mi300-series-accelerators-1032879618"
 type: article
 
 provider:
-  name: Morningstar
-  domain: morningstar.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
-secured: "2jeTWL2q+aZ8m0Z+hibsHqRmfEWltfmmnUwVY0Bt9vA+OmQbVE6LusB5vgAVdDLyDzOeWg89xwM6OLgG8uqvj7WaKu1fD3tmw30oktbaHaIGe2/U4cz0WyrxkV5gv+rPKazf5nj+/C00DdbeLNHvm3AQTmYidmNuLJ766adA0Um29zZqJH+eHbPcgYUShdrwq2jwqJCCwko3AZeLJCvAalOiFKYIsH7jSvWcMGulN25DMwPL7HuQjtH1dKYXkaUHPLjKWXOEk865osS1NS2l+jpiFtiw6uSwEGzxBfBz9xtgaIm1k2ngQwzi91SMr46cyqorBwN5jlDRKBq1ZV5nuawkSjVolKVvC4f0Uu2yJYo=;KOeBx/v0SEWSS+RvI65krg=="
+images:
+  - url: "https://mma.prnewswire.com/media/2294523/SuperMicro_Servers_with_AMD_MI300_Series_Accelerators.jpg"
+    width: 400
+    height: 400
+    isCached: true
+
+secured: "kRFn6bWPGF4o2foFGCwpcnZEXmdplgcqSLy2jTcLRyUjb8SUHpoan2xaSdddxSFZLMCaz89MWHyaJ/740j65yvjB2WH2kTtvZt12teG6MsTfcjFrd2Vcf7L/t7hty3wv7qK6hWGBwE2jX+Ch6MuV8BnNs5tkQck39UGIi6c+nsChJ2Q8t3NElHW9mbQ0jYA4DH2OafYQLJgUqTkejJAzB+OLGD9ReUa/kb5N52v3PnK6sMK9AuF+8QFhX/cArVqKCZQ3nA2HRr1Esl5RGNfqB1TG4qC27USg0e46N/6Le5fM6ls213PmxI/ORaaHvNTFjB7hJhdndje1I0780SOpCci28LjpQ+XcM/cU0caLF8o=;WUuI8PI0v7cT7/7OwEeZxA=="
 ---
 
