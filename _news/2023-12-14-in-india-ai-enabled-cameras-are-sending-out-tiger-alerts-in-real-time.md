@@ -29,7 +29,7 @@ related:
     provider:
       name: The Indian Express
       domain: indianexpress.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://images.indianexpress.com/2023/12/artificial.jpg"
         width: 1600

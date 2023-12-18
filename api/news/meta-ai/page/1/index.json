@@ -2,6 +2,103 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-18-19-non-tech-stocks-that-could-see-shares-rise-on-ai-hype-stifel.md",
+      "title": "19 non-tech stocks that could see shares rise on AI hype: Stifel",
+      "excerpt": "The more AI is mentioned in earnings calls, the higher shares have gone in 2023, according to Stifel. Here are the 19 consumer stocks talking about AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-stocks-to-buy-investing-consumer-goods-artificial-intelligence-stifel-2023-12",
+      "originalUrl": "https://www.businessinsider.com/ai-stocks-to-buy-investing-consumer-goods-artificial-intelligence-stifel-2023-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/657cbd210ec98e92f7502b0a?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-18T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-12-18-facebook-whistleblower-docs-how-ai-is-hurting-india-and-indians.md",
+      "title": "Facebook whistleblower docs: How AI is hurting India – and Indians",
+      "excerpt": "Users need to understand that since many platforms are developed outside of India, their preparedness to understand and manage nuances of language, culture, and regions fall short. Engineers are playi",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/opinion/columns/facebook-whistleblower-docs-artificial-intelligence-india-9072751/",
+      "originalUrl": "https://indianexpress.com/article/opinion/columns/facebook-whistleblower-docs-artificial-intelligence-india-9072751/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2023/12/artificial.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/opinion/columns/facebook-whistleblower-docs-artificial-intelligence-india-9072751/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/opinion/columns/facebook-whistleblower-docs-artificial-intelligence-india-9072751/lite/",
+      "publishedDateTime": "2023-12-18T08:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Meta AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-16-this-artificial-intelligence-ai-stock-looks-dirt-cheap-heres-why.md",
       "title": "This Artificial Intelligence (AI) Stock Looks Dirt Cheap. Here's Why.",
       "excerpt": "This is not entirely unreasonable, though, as artificial intelligence (AI) will have myriad applications in the metaverse. In a way, while owning Meta stock for the highly profitable advertising business warrants merit, a position in the company could represent a hedge to other AI plays you might own.",
@@ -1310,92 +1407,6 @@
         "Facebook AI",
         "AI",
         "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-21-llast-llama-back-at-home-bringing-an-end-to-the-trios-traipse.md",
-      "title": "Llast Llama back at home, bringing an end to the trio's traipse",
-      "excerpt": "Lluka and Todd were captured and returned home by professional livestock wranglers and volunteers on Nov. 16 but Llewis evaded capture until this morning. His evasive manoeuvres have included, but were not limited to, army crawling under a catch pen.",
-      "sourceUrl": null,
-      "webUrl": "https://www.baytoday.ca/local-news/llast-llama-back-at-home-bringing-and-end-to-the-trios-traipse-7858343",
-      "originalUrl": "https://www.baytoday.ca/local-news/llast-llama-back-at-home-bringing-and-end-to-the-trios-traipse-7858343",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.vmcdn.ca/f/files/collingwoodtoday/images/llamasmissing.jpg;w=1200;h=800;mode=crop",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-21T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Baytoday.ca",
-        "domain": "baytoday.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-21-escaped-llama-corralled-by-police-on-busy-highway-in-the-gta.md",
-      "title": "Escaped llama corralled by police on busy highway in the GTA",
-      "excerpt": "See alpcas go slow doesn't have the same ring as #SeeSnowGoSlow but honestly, if you see one on the highway… slow down. This animal, who was on Highway 400, was corralled by the #AuroraOPP and @ONtransport. The owner was contacted and removed it safely. #drivesafe. ^mh pic.twitter.com/Ovw2XIjKSu",
-      "sourceUrl": null,
-      "webUrl": "https://nowtoronto.com/news/escaped-llama-corralled-by-police-on-busy-highway-in-the-gta/",
-      "originalUrl": "https://nowtoronto.com/news/escaped-llama-corralled-by-police-on-busy-highway-in-the-gta/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nowtoronto.com/wp-content/uploads/2023/08/single-article-sidebar-toronto.jpg",
-          "width": 1152,
-          "height": 616,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-20T18:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Now",
-        "domain": "nowtoronto.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
       ]
     }
   ],

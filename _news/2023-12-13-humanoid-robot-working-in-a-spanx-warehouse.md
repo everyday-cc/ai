@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-12-humanoid-robot-spanx-warehouse.a
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-12-humanoid-robot-spanx-warehouse.amp"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1501
     height: 873
     isCached: true
+
+related:
+  - title: "Meet Digit, the humanoid robot working in a Spanx warehouse"
+    excerpt: "The idea, the company says, is to see how well the robot does those tasks, potentially freeing humans to do other, more valuable things."
+    publishedDateTime: 2023-12-18T08:48:00Z
+    webUrl: "https://www.seattletimes.com/business/meet-digit-the-humanoid-robot-working-in-a-spanx-warehouse/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 19
 
 secured: "X6JAOmDS+1Clkm4PFiwU/HpZ9iGZ0Fdd4pPeSiYK+MbUPd0zPlLjbxSH96k8t2tkokiLdK+VgpLX1OCTBfSsgJsmpYOtJ7S2yrdljLYCAdwHWWPz2aSnc3sXHvgW7IDt/PNY/Ea+yONve0SMVB2maeR1WbJ4L9AUbXAnW6TlNMwHeo+f4M4RxUsDW7fqMhk63O0XNVlB6YmVBS4NmGHkTcjQS+sej9PC+7f8QXNIcnwoW9ofYMWVpC8onJ9jrVtfNLTLLXp3vJkMRZT0RPkQ/pe1njJcmfRRkfwNAysyRAHYCTD7100AtczMBy6mmFqAXZUmU/gnXVzytwSAoPG01G4QdsUkmV00YRdfKQeq5Ls=;/pgrE0YG8nWrrSzb3EkgVA=="
 ---

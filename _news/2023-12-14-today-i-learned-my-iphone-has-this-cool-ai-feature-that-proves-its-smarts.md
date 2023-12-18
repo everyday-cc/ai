@@ -18,21 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "Grammarly's AI writing help comes to your iPhone. Here's how to use it today"
-    excerpt: "Grammarly has long been a go-to tool for writing help, checking for errors in spelling, syntax, grammar, and more. With the rise of generative AI, Grammarly has expanded its offerings, and today the company unveiled a new gen AI tool for mobile ."
-    publishedDateTime: 2023-12-13T10:06:00Z
-    webUrl: "https://www.zdnet.com/article/grammarlys-ai-writing-help-comes-to-your-iphone-heres-how-to-use-it-today/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/grammarlys-ai-writing-help-comes-to-your-iphone-heres-how-to-use-it-today/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/grammarlys-ai-writing-help-comes-to-your-iphone-heres-how-to-use-it-today/"
+  - title: "Wanna see something cool? Try this awesome AI feature built right into the iPhone"
+    excerpt: "The object detection mode in Magnifier is an impressive demonstration of your iPhone's on-device AI capabilities."
+    publishedDateTime: 2023-12-14T12:15:00Z
+    webUrl: "https://www.macworld.com/article/2168452/iphone-magnifier-on-device-ai.html"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 84
+      name: Macworld
+      domain: macworld.com
+    quality: 64
     images:
-      - url: "https://www.zdnet.com/a/img/resize/316def2e1f39d8d564342f906a30c5ac3b5b978d/2023/12/13/fa2caf07-f170-4276-baf7-2eefd1f531b0/bustrav-gettyimages-1696985886.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.macworld.com/wp-content/uploads/2023/12/ios-object-detection-hero2.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "TmshXS23QTGkXimeNziZ/BZ+Lw3eeZVJc1AREdMK2MGiDVNl7wRhAwvHpHQYAWMoBdFl+6f1gBgA1VXeRgLi5l6RPsndmhPctYLjLb7vC3jCQ5PSyoMFnPAK4vQJT8PP5EwJ9wQn7M+LztBr6TZln2KHWb6TMbRuIkuILd1RtvVW/6H5Zn+tl1Zmao+Bj6F8EdLMJBWaApXHljnhFoS9SElsnjS487dH/tQByP+8alBQkv0iexxAPGM/HfTj4UXp4+7vurkKq/vKxpy8zGe4PuZWRiyR6fymAUUFK2ndJQGdk4uVP6zfZXpaDpKVrrYZTPgJ3xaH1y1AyotweYU5Kxdr8fCU+KHJAfL/0XRJJQvkZs4VzM4nJymB3mbE9jmXNED4sTBdWibGVbPgazdmYL1q6SDbGlCfrhLGHec9/DXa2foAiitEz1DP3+eCvh4W94CsjK56hXUFZ+cpimUeRHcS8xJ+VcF0uLjEL4oaGw75U/+wPXO46HolsnCMZEZ47uiLRNkYKYDcFv8H/wVQAA==;XDvkU0BwOcbvlCSv+74yPw=="

@@ -7,7 +7,7 @@ originalUrl: "https://ibsintelligence.com/ibsi-news/fintech-focus-catch-latest-d
 webUrl: "https://ibsintelligence.com/ibsi-news/fintech-focus-catch-latest-developments-of-the-week-5/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Top 18 Fintech Events in Singapore to Attend in 2024"
-    excerpt: "As Singapore’s fintech industry continues to gain international recognition, several major fintech events and conferences are being held each year in the city-state, attracting thousands of participants and investors from around the world."
-    publishedDateTime: 2023-12-13T10:26:00Z
-    webUrl: "https://fintechnews.sg/82031/events/top-18-fintech-events-in-singapore-to-attend-in-2024/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 24
-    images:
-      - url: "https://fintechnews.sg/wp-content/uploads/2023/12/Top-18-Fintech-Events-in-Singapore-to-Attend-in-2024.jpg"
-        width: 1024
-        height: 567
-        isCached: true
   - title: "This fintech startup wants to help you make climate-forward investments"
     excerpt: "Harlem-headquartered GreenPortfolio has launched a platform that seeks to arm individual investors with climate-conscious data to help inform their financial decisions."
     publishedDateTime: 2023-12-15T18:33:00Z
@@ -48,15 +34,6 @@ related:
       name: Crain's New York
       domain: crainsnewyork.com
     quality: 4
-  - title: "Fintech in Italy: there are 622 startups but investments are decreasing. Focus on Artificial IntelligenceA"
-    excerpt: "Among the 622 Fintech startups, 109 are focused on insurtech. A stable number that shows the maturity of the market. However, investments have fallen by 81% even though a third of the startups are profitable."
-    publishedDateTime: 2023-12-16T18:20:00Z
-    webUrl: "https://www.firstonline.info/en/fintech-startups-in-Italy-are-622-but-investments-are-decreasing-with-a-focus-on-artificial-intelligence/"
-    type: article
-    provider:
-      name: FIRSTonline
-      domain: firstonline.info
-    quality: 1
 
 secured: "wqixxlWF/+s1udzY3/y/EfKbAnLL9gfjg4P5O13ywHqCtbgYeVRnmKm4CfWIPpCR9ARO/2ynY1g24nQ0TrcP2STBrUME0CnTukQfxKybUrKvD9ZQ+3lpPFJZ0eWCJeS/300QbIaUTna5VpyWLm1951/9AQ5AdPxkU2B+ARL09/LOCjdxtKrcWo2KvguSnk9exHSYSNLWXb8XYcXEV58INZQkUVHWpSaOt9umqLvg17WyUChdMN51jQJErNEvCKgQ5pzcf6DZhpVN/bbO+/oJvPRVjE58Ou1xXUc4zaaTObuGw+RlBcgyQGUORJPgStjoO4y5IzSg4Y+RlTWZCrNHpXWpCyK3/P3otT/Pff+y4Ag=;KZvH6Reerr5pyOhWWofGog=="
 ---

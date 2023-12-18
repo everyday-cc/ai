@@ -50,19 +50,47 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 31
-  - title: "Quasar Markets Partners With Dragon List Global To Revolutionize Fintech Research"
-    excerpt: "Quasar Markets Partners with Dragon List Global to Revolutionize FinTech Research This partnership aims to enhance financial research and market ins"
-    publishedDateTime: 2023-12-13T10:39:00Z
-    webUrl: "https://menafn.com/1107586474/Quasar-Markets-Partners-With-Dragon-List-Global-To-Revolutionize-Fintech-Research"
+  - title: "The Legal Outlook For Fintech And Payments 2024."
+    excerpt: "The Legal Outlook For Fintech And Payments 2024. Legal News and Analysis - Asia Pacific, EU, Europe, Hong Kong, Singapore, United Kingdom, USA -"
+    publishedDateTime: 2023-12-14T08:31:00Z
+    webUrl: "https://conventuslaw.com/report/the-legal-outlook-for-fintech-and-payments-2024/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 19
+      name: Conventus Law
+      domain: conventuslaw.com
+    quality: 24
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?877739"
-        width: 375
-        height: 250
+      - url: "https://conventuslaw.com/wp-content/uploads/2022/06/1_TKRMzr-NJwYdrYi3AnJPXA.jpeg"
+        width: 820
+        height: 610
+        isCached: true
+  - title: "HostBooks Revolutionizes Corporate Fintech with Tech-Driven Solutions"
+    excerpt: "HostBooks improves production and efficiency by eliminating the drudgery oftime-consuming financial management tasks, including accounting, taxcompliance, and payroll processing."
+    publishedDateTime: 2023-12-15T12:34:00Z
+    webUrl: "https://www.thehansindia.com/tech/hostbooks-revolutionizes-corporate-fintech-with-tech-driven-solutions-844456"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 24
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2023/12/15/1406918-host-books.jpg"
+        width: 1200
+        height: 720
+        isCached: true
+  - title: "Register now for the Citi Cup fintech competition"
+    excerpt: "SUZHOU, China, Dec. 18, 2023 /PRNewswire/ -- Citigroup Services and Technology ( China) (CSTC) has announced that the 19th Citi Financial Innovation Application Competition (also known as the Citi Cup) is open for online registration. CSTC leads Citigroup's financial technology and financial operations services industry in China."
+    publishedDateTime: 2023-12-16T23:59:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/12/17/9935362.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 24
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
         isCached: true
   - title: "Bank audit executives seek stricter regulation for fintech, BDCs"
     excerpt: "ACAEBIN also called for stricter regulations of the fintech space as well as the operations of the Bureaux de Change."
@@ -73,6 +101,15 @@ related:
       name: The Punch Newspapers
       domain: punchng.com
     quality: 19
+  - title: "Trends in fintech that drive growth"
+    excerpt: "Fintech is a fast-changing ecosystem where there are few certainties. As we move into the second half of 2023 it’s worth taking a temperature check and assessing the lay of the land."
+    publishedDateTime: 2023-12-13T16:53:00Z
+    webUrl: "https://www.finextra.com/blogposting/25383/trends-in-fintech-that-drive-growth"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
   - title: "Nigerian Audit Chiefs Urge Tighter Oversight of Fintech Sector"
     excerpt: "The Association of Chief Audit Executives of Banks in Nigeria (ACAEBIN) has urged for tougher regulations in the fintech sector and the operations of Bureaux"
     publishedDateTime: 2023-12-17T10:17:00Z

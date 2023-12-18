@@ -2,19 +2,19 @@
 category: news
 title: "2023: The year we played with artificial intelligence — and weren't sure what to do about it"
 excerpt: "Artificial intelligence went mainstream in 2023 — it was a long time coming yet has a long way to go for the technology to match people's science fiction fantasies of human-like machines ..."
-publishedDateTime: 2023-12-14T04:23:00Z
-originalUrl: "https://www.4029tv.com/article/2023-the-year-we-played-with-artificial-intelligence/46130638"
-webUrl: "https://www.4029tv.com/article/2023-the-year-we-played-with-artificial-intelligence/46130638"
-ampWebUrl: "https://www.4029tv.com/amp/article/2023-the-year-we-played-with-artificial-intelligence/46130638"
-cdnAmpWebUrl: "https://www-4029tv-com.cdn.ampproject.org/c/s/www.4029tv.com/amp/article/2023-the-year-we-played-with-artificial-intelligence/46130638"
+publishedDateTime: 2023-12-14T11:23:00Z
+originalUrl: "https://www.koat.com/article/2023-the-year-we-played-with-artificial-intelligence/46130638"
+webUrl: "https://www.koat.com/article/2023-the-year-we-played-with-artificial-intelligence/46130638"
+ampWebUrl: "https://www.koat.com/amp/article/2023-the-year-we-played-with-artificial-intelligence/46130638"
+cdnAmpWebUrl: "https://www-koat-com.cdn.ampproject.org/c/s/www.koat.com/amp/article/2023-the-year-we-played-with-artificial-intelligence/46130638"
 type: article
 quality: 48
 heat: 48
 published: false
 
 provider:
-  name: 4029tv
-  domain: 4029tv.com
+  name: KOAT Albuquerque
+  domain: koat.com
 
 topics:
   - AI in Autos
@@ -42,6 +42,6 @@ related:
         height: 630
         isCached: true
 
-secured: "lMQyOxwk4go8aIvGEc4ti+6okY5FKFjzAQ2RpP4l2rFrgNgk+yta7yDbNZp6LVQYI3oujwcNc1aD7rA8sHB7tLDIyM1a8+aI/XCjuAsIeXACOoLBwW0ZUXtxwHfNVsWkzHvg2bIjfjH7syHnxSX6qlBEy/v5W7BlklWTKSjvG6pOMN2/pQMW02lgVj6Srd4n3hzb7CRAi8Whn6jX1lp8eqKewHnn+AMagsb6FZTRKdIWLynLvMseQOcbKoaVxcQihXzfKMjdlAUriwJqty72LgJWWgLkXXqqUAzy532ncvXsy+rIUiYNOZuDIEYF+pbub2eaqk7rFIVMCeG/bMU+O1OLfpCoGOcGC1hfR0n2NS4=;YPfkbC252xWIseGOP3+osw=="
+secured: "6JxZjwlNlz4HWCtHBHqy2czMnB8uS9l0die8uyrin7h5EQtftwdbxRK9GNEVGjq5H12Hmw+CSkbXVDA92L4H0eaT/VjR4W+lHOAbr7ypC0WLnahifKpm4EPMzku+d8Hxi8wczMxuTBTjUQoht0WRDr8D81JdlPMeOUUX5rvORKK9DuaDXRcsJbI+NoMdIf19T1J4d6QAyTj/bq0nSog0yRePIvK1H79fgRHfZ6ZNV6gV5UBoH4XMx6xVlHdgrvkE0rvM2o4zn+R7fOUPOqCTgMRIZXsTl0s1lLtGdWvD/RrjZivWw1sPoQ9hvJ3blBXgHJWQjA6axSLjvfR/ip2EiZAGY8sOBkynLo/WPa27qLM=;P2YUwOhNPbatJIK7i9brKw=="
 ---
 

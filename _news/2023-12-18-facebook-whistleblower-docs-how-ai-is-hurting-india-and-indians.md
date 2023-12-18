@@ -8,9 +8,9 @@ webUrl: "https://indianexpress.com/article/opinion/columns/facebook-whistleblowe
 ampWebUrl: "https://indianexpress.com/article/opinion/columns/facebook-whistleblower-docs-artificial-intelligence-india-9072751/lite/"
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/opinion/columns/facebook-whistleblower-docs-artificial-intelligence-india-9072751/lite/"
 type: article
-quality: 59
-heat: 69
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: The Indian Express
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Meta AI
 
 images:
   - url: "https://images.indianexpress.com/2023/12/artificial.jpg"
@@ -37,6 +38,6 @@ related:
       domain: whdh.com
     quality: 19
 
-secured: "UuTdoNvEH0Uw8+B6TYMGUbqu5dcEhi+YZIWIYhtDvZwm3rl/mx7alE0DQGqdpcipWlvUKeo+o5vnGTPeaEeMNFzurS1Aes2TNvXDbKPP1wcP+VwmDFMVbLF+ruCpxXJIt6pIrtBmuLgUgEf24bwkwk6BDHxv59adMWuU6ufJo4FrHJvuMCHalahcCgaNNtAlHPz+AsO04HMl5SYqAlQwqM81ZgTdYlWm6OVVdFQddoiGSjcOXDZ79fFu86+5JN1WdL5HwuFXe8BykF7+RcO9sGC3OYNBXUbO5TZF56Wzab7InZ/EpRGOfcQrWGaqtE5xsSfjIG10yTulHsrIiUIjYEfO5OGzeVNKaTHJtXj+xOA=;/l7e+k99hUGjGxvWyDjQWQ=="
+secured: "fhlFoiLBigAZK35+wGpFn18wo7pM2vmN/mSBDgd3EGqIl2XKkab+c1NzEJJj45YLUMvcn6j6yLi7U+mxROulOE9pdKatd/KWrSC+giScllaFHlOSs7alqHs1466yfSgLT1qFqV+Yy4A938h9OL9pUA/FKLTRe4jocWfGNEzHQsuxyPJ3Kb8MEOmq+bOoxkIjJviN56tB0GZMwiAeBvW6RzMjRvyBmL265Qnj6VANivuGTCT3xb1dFm96pH3vnDVmnA4ECXY7JTWoCZNrcWONTquTLxGBfH+PWDfro83nn3lGBDTD/9thjCxke0ZbOpUyiG5kabWc2qwaQe2jJgwymrf1GfVdASBu1lTHwXrI/HBp/LeGON++n+Cvoim2TY51YcwcJzZuaI4C3IHy3G4v4TL0C9qHkhQIs3ThdFwztxU2ngyb8BN4ixEwcdtXUgKkd6KHbfP1KXQ3Q9bVANdcu+bG/WuJz+VfD1cZmbZeqFRmHK7p0CfIoiy8pSYxbzz1nfTXsTqG+erBrRcwzOpLwA==;XrO62YqpOhvwtfvLiswQig=="
 ---
 

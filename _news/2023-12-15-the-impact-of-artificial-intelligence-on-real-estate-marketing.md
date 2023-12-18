@@ -117,6 +117,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "How AI Is Influencing The Mortgage Industry"
+    excerpt: "In the not-so-distant future, you might join a video call and meet with a virtual representative to discuss your mortgage options. Afterward, an AI-written document will deliver personalized recommendations based on the conversation."
+    publishedDateTime: 2023-12-18T08:59:00Z
+    webUrl: "https://www.forbes.com/advisor/mortgages/how-ai-affects-mortgage-industry/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://www.forbes.com/advisor/wp-content/uploads/2023/12/How-AI-Is-Influencing-The-Mortgage-Industry-Ft-Image.jpg"
+        width: 766
+        height: 431
+        isCached: true
   - title: "2023: The year of AI gift-giving and other holiday shopping trends"
     excerpt: "Flowcode analyzed holiday shopping forecasts from Salesforce and the National Retail Federation to identify a few major trends for 2023."
     publishedDateTime: 2023-12-14T09:18:00Z

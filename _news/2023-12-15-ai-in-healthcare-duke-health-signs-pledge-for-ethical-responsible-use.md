@@ -95,20 +95,6 @@ related:
         width: 690
         height: 400
         isCached: true
-  - title: "Mediverse: Making Healthcare Accessible For All Using Artificial Intelligence"
-    excerpt: "In line with this aim, dynamic healthtech startup Mediverse is taking advantage of the ever-evolving healthcare landscape and harnessing the power of Artificial Intelligence (AI) to improve patient care and accessibility. Mediverse's primary vision is to ..."
-    publishedDateTime: 2023-12-13T09:46:00Z
-    webUrl: "https://www.malaysiakini.com/announcement/689914"
-    type: article
-    provider:
-      name: Malaysiakini
-      domain: malaysiakini.com
-    quality: 51
-    images:
-      - url: "https://i.newscdn.net/publisher-c1a3f893382d2b2f8a9aa22a654d9c97/2023/12/0717e02267a9af17f64dd8e1368f74c1.png"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "wUZ44YblywFkUgFjxRWHHpzno8aTUOfd3y3CUZcuMObR8ozImYaMmzTwtONnJn4t1Za3gNdU2ekM/TaTLgjlhzlGfrV7kSl09UdU1+XeEfW4OewuvjJirpi9fIfgcKeAOHQYnGq9tpf93m30vbIzACft33Ts9waZ0mN+u9Zf1Ve7xmHu1LWVmjJ3Ul1Kdm7fa1JBfc7KwtER6zLt8DDkqc5YvwTkLIsPIcQOt4cRUT0rO2fwJ7O9iUHkHspuXjWyTaJlgXPwGSex55cgcCibeT3kgAcfcp5f5/T5m6eXiNPuxUe7YhZrFGPw+SyCBY1IPS9B4aZC0GjEXTQL+Ejgsb8Pa4rg+/cCYYeah0qZgJ4=;8Yh/+Qrt+YwmpAV8r4Qljg=="
 ---

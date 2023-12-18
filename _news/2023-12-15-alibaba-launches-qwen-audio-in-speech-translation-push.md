@@ -7,7 +7,7 @@ originalUrl: "https://slator.com/alibaba-launches-qwen-audio-in-speech-translati
 webUrl: "https://slator.com/alibaba-launches-qwen-audio-in-speech-translation-push/"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - Natural Language Processing
   - AI
-
-related:
-  - title: "Epic Battle in Automatic Speech Translation"
-    excerpt: "Over in Europe, the EU Parliament announced an open competition for the recruitment of intercultural and language professionals. Paris invests EUR 2m on a speech-to-speech translation app called Tradivia to assist communications during the 2024 Olympics."
-    publishedDateTime: 2023-12-13T10:15:00Z
-    webUrl: "https://slator.com/epic-battle-in-automatic-speech-translation/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 4
 
 secured: "6CjB0jH54KvXwZWRPZ5cTpJAdFTiEQALrWdgCTX5IKqwuDpm9/4Ma1Xvajd3mtEWCe9f2gx2LoZP6uGbMXduxwfiYIPhlZrofpcJEWEMpalPWjNgvny2if4vsrPuANMYL5TyTmx6D98T+wC/5cxfmUjzDqi0moS1RTdk/N4J3rOn63TNTCJCwlDRGaY/UNNzuCGFCspjTZFZjsSO3Nuy9vDMWIKZQmDNBMtDGIY62txYnu8boqhqp/8HEE+we9dZeq22NdUSijKSjdE50glvwyIV0os079fndt80wCyPZQ+pMGDbiBydp311h58ODBVFks9Bfr7hEzPZUxZjNM9WQpJHbnjZ8QZy0Dr+AL4PP+CwzUeO7eTu27RSloeuwuxgZMwTzBknIxOnM1PAqDRLYrAKFIGIU2yNkuX5MQYPHFvnoTodpK5qWwhT0J8Jti6z6RGzsTV7/hGvHlPAUX1r+hmOI1P3Cpfi3IZrbJoLxUmPyHo9Qwa6dVbPwhqsYMkzGgVtN3dvEUAfJFRyoVs/cQ==;7weYHlyp1NrTcd4zwG+5cg=="
 ---

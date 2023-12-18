@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/13/ai-in-heal
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/13/ai-in-healthcare-are-people-losing-or-gaining-control/amp/"
 type: article
 quality: 104
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -97,20 +97,6 @@ related:
       - url: "https://healthitanalytics.com/images/site/article_headers/_normal/Getty_correct_size_chatGPT.png"
         width: 690
         height: 400
-        isCached: true
-  - title: "Mediverse: Making Healthcare Accessible For All Using Artificial Intelligence"
-    excerpt: "In line with this aim, dynamic healthtech startup Mediverse is taking advantage of the ever-evolving healthcare landscape and harnessing the power of Artificial Intelligence (AI) to improve patient care and accessibility. Mediverse's primary vision is to ..."
-    publishedDateTime: 2023-12-13T09:46:00Z
-    webUrl: "https://www.malaysiakini.com/announcement/689914"
-    type: article
-    provider:
-      name: Malaysiakini
-      domain: malaysiakini.com
-    quality: 51
-    images:
-      - url: "https://i.newscdn.net/publisher-c1a3f893382d2b2f8a9aa22a654d9c97/2023/12/0717e02267a9af17f64dd8e1368f74c1.png"
-        width: 1000
-        height: 600
         isCached: true
 
 secured: "xJmpNYeHiySMPf1Rn0gB3PZiHrTI4ACazcVzvLwCEoqGoXg274LEVfPov9eES7kNTVuKZspRFXvY4ZnMoNebTQ2U2H5g7QqZ0mBEMsaX0lMxkGUb8pIM2IBayBG2HkckfR99beAteSNZDVJKsNICX0GMa/DbfDqS2OtPGlACWmN9rh69ajusJzTeG0UFngg4YJFqBYp/VUL/fCaI0S89YotoWB3gl7XaX8GTcjBolALWuWtoDGG+ZBoo9h/8FnfXPonXm9X3EoBbFjJE91/tXUF6DItKBoRI2MDjrnxeIyw103MB4VBGu9geVD3HM78ATI1rogOnSIRLoMQa+qBVSzTeLc0VaaejBsJjICTp1AY69kjl8TXEL2NTHlyGfY8vGk/bzLd09Ly3+EAjEg1zaOUOMc5T7gKaQOwDoA8/kTRYJFj9VYms3vfl2CnloSFCZYf+W8wIHDeoJSSaeZlt1SktJZYqAbXw2viMsRNkQkil8GXIy9Per0/NmDUENoj5boKIHRLw8rssHqxH7czwig==;Pj7Id/up2vwynw0d7M5CQA=="

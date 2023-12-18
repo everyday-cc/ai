@@ -19,22 +19,31 @@ topics:
   - AI
 
 related:
-  - title: "Portugal’s Progressive Policies Fuel Fintech Growth"
-    excerpt: "These fintechs include: ivendPay, which provides comprehensive solutions for using cryptocurrency in everyday life."
-    publishedDateTime: 2023-12-13T10:40:00Z
-    webUrl: "https://www.forbes.com/sites/meaghanjohnson/2023/12/13/portugals-progressive-policies-fuel-fintech-growth/"
-    ampWebUrl: "https://www.forbes.com/sites/meaghanjohnson/2023/12/13/portugals-progressive-policies-fuel-fintech-growth/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/meaghanjohnson/2023/12/13/portugals-progressive-policies-fuel-fintech-growth/amp/"
+  - title: "Strengthen fintech regulations, bank audit leaders tell CBN"
+    excerpt: "The association has called for stricter regulations of the fintech space as well as the operations of the Bureaux de Change."
+    publishedDateTime: 2023-12-16T23:00:00Z
+    webUrl: "https://punchng.com/strengthen-fintech-regulations-bank-audit-leaders-tell-cbn/"
+    ampWebUrl: "https://punchng.com/strengthen-fintech-regulations-bank-audit-leaders-tell-cbn/?amp"
+    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/strengthen-fintech-regulations-bank-audit-leaders-tell-cbn/?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
+      name: The Punch Newspapers
+      domain: punchng.com
+    quality: 59
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/657731254d6c7a89a810b4c3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1353
-        height: 900
+      - url: "https://cdn.punchng.com/wp-content/uploads/2023/10/12163722/WhatsApp-Image-2023-10-10-at-8.33.12-PM.jpeg"
+        width: 1024
+        height: 854
         isCached: true
+  - title: "Quasar Markets Partners with Dragon List Global to Revolutionize FinTech Research"
+    excerpt: "This partnership aims to enhance financial research and market insights across emerging global markets.New York, NY, United States - December"
+    publishedDateTime: 2023-12-18T03:18:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/quasar-markets-partners-with-dragon-list-global-to-revolutionize-fintech-research-1032907242"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 31
   - title: "The Legal Outlook For Fintech And Payments 2024."
     excerpt: "The Legal Outlook For Fintech And Payments 2024. Legal News and Analysis - Asia Pacific, EU, Europe, Hong Kong, Singapore, United Kingdom, USA -"
     publishedDateTime: 2023-12-14T08:31:00Z
@@ -63,6 +72,52 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "Register now for the Citi Cup fintech competition"
+    excerpt: "SUZHOU, China, Dec. 18, 2023 /PRNewswire/ -- Citigroup Services and Technology ( China) (CSTC) has announced that the 19th Citi Financial Innovation Application Competition (also known as the Citi Cup) is open for online registration. CSTC leads Citigroup's financial technology and financial operations services industry in China."
+    publishedDateTime: 2023-12-16T23:59:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/12/17/9935362.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 24
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "Register now for the Citi Cup fintech competition"
+    excerpt: "Citigroup Services and Technology (China) (CSTC) has announced that the 19th Citi Financial Innovation Application Competition (also known as the Citi Cup) is open for online registration. CSTC leads Citigroup's financial technology and financial operations services industry in China."
+    publishedDateTime: 2023-12-18T04:16:00Z
+    webUrl: "https://www.aap.com.au/aapreleases/cision20231217ae95944/"
+    type: article
+    provider:
+      name: Australian Associated Press
+      domain: aap.com.au
+    quality: 24
+    images:
+      - url: "https://www.aap.com.au/wp-content/themes/aap-news_theme/dist/assets/images/sport300x250.108183d0.gif"
+        width: 300
+        height: 250
+        isCached: true
+  - title: "Bank audit executives seek stricter regulation for fintech, BDCs"
+    excerpt: "ACAEBIN also called for stricter regulations of the fintech space as well as the operations of the Bureaux de Change."
+    publishedDateTime: 2023-12-13T19:08:00Z
+    webUrl: "https://punchng.com/bank-audit-executives-seek-stricter-regulation-for-fintech-bdcs/"
+    type: article
+    provider:
+      name: The Punch Newspapers
+      domain: punchng.com
+    quality: 19
+  - title: "Nigerian Audit Chiefs Urge Tighter Oversight of Fintech Sector"
+    excerpt: "The Association of Chief Audit Executives of Banks in Nigeria (ACAEBIN) has urged for tougher regulations in the fintech sector and the operations of Bureaux"
+    publishedDateTime: 2023-12-17T10:17:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/12/218389-nigerian-audit-chiefs-urge-tighter-oversight-of-fintech-sector/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 4
 
 secured: "0reeOzhv+t0VjaZs40FCPbus+NJMDcqh6ut5oY4vmi/H0TLuuEL/HpH61YoHaJQ+PksQz9z3Sos4+mKbjEyGHTODM/s2Y93lUmUPZ/uCtAB/EwLSRdIBidqQPSF9jHNLcVDBq0OJOc8rcvrThIWIsX5/HtPNH2l3t3R0Sz0wZkeWjDV1v+PQw8twRNkBmPzp4AiLcfw8ujlFC+sqF6DLgQaiH+IryobSPunza8jVyrVAe5fXh3BadRkNS2fQq5YLqNcrpsmbncj4rbXVphDFxKmCcxkr88YhYJDvP73DVXQBArI6rbMyuUfTHIwS0CvF+bvVJX1sd58YhXvS7yzFLAB7jN4iblw1VaQ2DjUpe1E=;d/kEJ5vUObZccCu1gtXTDQ=="
 ---

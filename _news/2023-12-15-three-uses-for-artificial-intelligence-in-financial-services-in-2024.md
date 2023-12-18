@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/15/three-uses
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/15/three-uses-for-artificial-intelligence-in-financial-services-in-2024/amp/"
 type: article
 quality: 91
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -75,6 +75,20 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 36
+  - title: "Improving the call centre experience in the financial services sector"
+    excerpt: "British banking and insurance holding company NatWest Group serves 19 million customers across 12 banking and financial services brands via its network of call centres. To deliver the best possible service to customers while also protecting their data,"
+    publishedDateTime: 2023-12-18T10:46:00Z
+    webUrl: "https://www.technologyrecord.com/article/improving-the-call-centre-experience-in-the-financial-services-sector"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 24
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4759/Your-call-is-important-to-us-940x443.jpg"
+        width: 975
+        height: 548
+        isCached: true
 
 secured: "/yH5oCMnrXPix66AAWhUjcZRaiXAw2I2AvB3RIx9m4lLb66MeIe1i+5O5+pbJ6KigMq7bMWhEdvnrFq5Opzp8RSkGZ/nnktI4q7anU+WGy69LNP4NX65KAASHVMsaGAKDIP7mYl4xLh8HfF2rWF2VQZQvGWgDXtfAW4pYtfIH6gDQIvGRNUKJ5kKO/iCcyoJ/lFKjQ777LO/vg4W55FQxB+E8Ew7EE5NUa6yVvnnLu8FStB2lyIGFrrh/Y+ryvhjTDrLHlKeo6iPTRhE/IRYMoAxSHvi+lxOq1QkCYkgmPw0s+kI1QXpYMpRxwvv0QSO1TWTd1iG/rfgS6D4Vh1iNZ9CTkToh1f8qTh/V5X1ELIIHiF2g5sjhU5pl0X8NJaT7lneZtcTaAeqDuLeiLgBDWHihzElD4QWXdhoIhfvlPlY959k9buwR1MvX+A8Y6ETUmeYINYxgjzs20vMyRVsJhwefRSflmRTCCjWtZrv4u3nsbJZSMdfOyzKwlBFy3lzVlyAFucei/9BNmqf+zbD3Q==;MQWLFZj4fIdg2NxTz1u5JQ=="
 ---

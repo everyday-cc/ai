@@ -71,6 +71,20 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 36
+  - title: "Improving the call centre experience in the financial services sector"
+    excerpt: "British banking and insurance holding company NatWest Group serves 19 million customers across 12 banking and financial services brands via its network of call centres. To deliver the best possible service to customers while also protecting their data,"
+    publishedDateTime: 2023-12-18T10:46:00Z
+    webUrl: "https://www.technologyrecord.com/article/improving-the-call-centre-experience-in-the-financial-services-sector"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 24
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4759/Your-call-is-important-to-us-940x443.jpg"
+        width: 975
+        height: 548
+        isCached: true
 
 secured: "eiHNpAsmwdIGIkyYg++a8tBSnGAA7heYRExbbqkzMd3/QvONIy/mbzJDKkGiQivfkYaqbigYV6DK6ipHJg7oU/5SMf+xFfhe8BUxgTnvF8cIl0wY6Sce7INzPphu24Dag66ueu0/Xs34TQhifFBm8pC3DvVKdYTkbcR+I6ys+ZpdbdACb6JAasVuPZHVsXVPBjyOKB/prewztsSkOeyP7rTefWr5XBAVwUUT3ey3A3+wCWmtVAr1QRaSqq9bNjQDbrCII7xrS7BF2458gCYhUTvfz2l2HaZqtYTDVRQAgfh7RGA9aXOC2ATAFaLWX3OhB8rphAUl6LlWjGxamMqV4LKzc/2jh/K7gHITAzTrlQuzFXTMyRJDnWX3MNGdLolUKkSYIWEzXG4NY7eyRzKLJmp1KioLr8vWVRfQu1yDKwp9RkAqiDL8zCZH81jhyxpAn+nebecC7P64oXO6T00fvKHJL6SYkhapqm71RwZIsBCFLAe0gLbMreEwBwB5j/epGsc94eAfkkQ73vHTXYJ9OA==;lMryQ/2bDlWqgzE5mpKNvw=="
 ---

@@ -101,6 +101,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "How AI Is Influencing The Mortgage Industry"
+    excerpt: "In the not-so-distant future, you might join a video call and meet with a virtual representative to discuss your mortgage options. Afterward, an AI-written document will deliver personalized recommendations based on the conversation."
+    publishedDateTime: 2023-12-18T08:59:00Z
+    webUrl: "https://www.forbes.com/advisor/mortgages/how-ai-affects-mortgage-industry/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://www.forbes.com/advisor/wp-content/uploads/2023/12/How-AI-Is-Influencing-The-Mortgage-Industry-Ft-Image.jpg"
+        width: 766
+        height: 431
+        isCached: true
   - title: "The Impact of Artificial Intelligence On Real Estate Marketing"
     excerpt: "Artificial Intelligence (AI) has become a driving force across various industries, reshaping traditional practices and enhancing efficiency. In the realm of real estate, AI is revolutionizing marketing strategies,"
     publishedDateTime: 2023-12-15T12:21:00Z

@@ -114,20 +114,6 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 28
-  - title: "How to Answer Complex Questions with Google Bard"
-    excerpt: "This guild is designed to show you how you can answer complex questions with the help of Google Bard and other AI assistants. Google Bard, a large language model (LLM) developed by Google AI, has quickly gained popularity for its ability to provide ..."
-    publishedDateTime: 2023-12-13T10:00:00Z
-    webUrl: "https://www.geeky-gadgets.com/how-to-answer-complex-questions-with-google-bard/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 24
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/Answer-Complex-Questions.jpg"
-        width: 1280
-        height: 731
-        isCached: true
 
 secured: "VAXRULrHY20T0HodPXFbyseiIi5Nofy9E3UNdlp1Bn8ynVDa9UjaCs0ciZHAfUVMEpsYnCY1lbys7EI8gYaBlsVTr7T+zCWTQ/05B8DnAZ92eJ9TCfO1hkbE+obf2tmQzxFzH7vMlrScwwXC1mgv4KbO4chlLl3HbpRAgivqt3AP9EtqK8RhGECJxwAXGmWdf0gt9YlozCPSYokXfFIAb6ULnS2xhzZ+BOI4ygKL2shCaTKZkFwjUQPDa5ARgtbrUlEQZU8BWo5dQ8JsKUMvGREnKSrRaXDhOPNnxDTjwFTY1taoX/4RabB6ou+Sf3YxAs7aWnaitxCDyE7aNbA2OjavOeVs4kp8v51u3zmr+d7qOV4a4m1lKsd3uWMopkxJaXdgBIJ/+cwkJFwrlPPFvF6ldKzt2wDo12HrDR8XuOqcNR2/u7S2NGqug7zxjP+DmHPwEMbrQTUwgGYijTpGiPWN5aS/Zu4PWmQUXMLP0HYlIdnaWfQ70ELrBEAA79LYUUMiJSc7VZ4oA4ok4HT8Og==;stHQ3Cflq8aHBy7a6+khlA=="
 ---

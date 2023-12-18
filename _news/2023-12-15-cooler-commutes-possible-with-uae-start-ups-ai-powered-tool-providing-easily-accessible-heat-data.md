@@ -7,7 +7,7 @@ originalUrl: "https://www.channelnewsasia.com/sustainability/cop28-uae-start-urb
 webUrl: "https://www.channelnewsasia.com/sustainability/cop28-uae-start-urban-heat-climate-change-fortyguard-3988771"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1200
     height: 676
     isCached: true
-
-related:
-  - title: "Proposed AI Mission To Provide Startups Access To Compute Power: PM Modi"
-    excerpt: "( MENAFN - KNN India) New Delhi, Dec 13 (KNN) Prime Minister Narendra Modi announced on Tuesday that the government will launch an AI Mission to provide compute power in the hands of the startups and innovators so that they can tackle problems in areas like healthcare, agriculture and education."
-    publishedDateTime: 2023-12-13T09:42:00Z
-    webUrl: "https://menafn.com/1107586088/Proposed-AI-Mission-To-Provide-Startups-Access-To-Compute-Power-PM-Modi"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 38
-    images:
-      - url: "https://menafn.com/updates/pr/2023-12/13/KI_d5392image_story.jpg"
-        width: 1366
-        height: 768
-        isCached: true
 
 secured: "ZxeHvXCz9/U4ifTj35gSVoyKXmxyUnstPk1qQGDDTvqT1hUaXEyQ1pZa22byFaBHrr9xDBLAiU2drl3Ahzt0EVSCO4w81Qc5t2PQzmez/DX1dUATEjZ3XZPgdhrbIb5z1TQn24Bj2HdnkRujGOEuaA7tA/SW3AtNHaURnOcUCRXXXOF67oS4dsrxaM70UwygrzL2Kf9MDUExOT0d2bFp55srVkj0aav3PqeVTSQdcX1Ac/DI+jPrW4Fc49bqqH46y9LsRHB6w8yoU8BFfpZP4X+BpnaVjv9pveCb39c3sOdVkBgec/OEfgP5AEL/i6NnlgNeBRAKjrdeiI9f17g4SAtBjHLSmIrF7k8OHznb78Y=;yhWvmFiyzS4NJ1zYjRwITw=="
 ---

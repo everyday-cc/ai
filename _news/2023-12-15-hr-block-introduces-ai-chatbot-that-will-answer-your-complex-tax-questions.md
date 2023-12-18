@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/h-r-block-introduces-ai-cha
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/h-r-block-introduces-ai-chatbot-that-will-answer-your-complex-tax-questions/"
 type: article
 quality: 85
-heat: 165
+heat: 155
 published: true
 
 provider:
@@ -115,20 +115,6 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 28
-  - title: "How to Answer Complex Questions with Google Bard"
-    excerpt: "This guild is designed to show you how you can answer complex questions with the help of Google Bard and other AI assistants. Google Bard, a large language model (LLM) developed by Google AI, has quickly gained popularity for its ability to provide ..."
-    publishedDateTime: 2023-12-13T10:00:00Z
-    webUrl: "https://www.geeky-gadgets.com/how-to-answer-complex-questions-with-google-bard/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 24
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/Answer-Complex-Questions.jpg"
-        width: 1280
-        height: 731
-        isCached: true
 
 secured: "zZEw948l6h22gpPcBEPopH5eduGlUSGb4k0BQegmXRvZ5uFMYsMgI5GVMqft6WIM/+LOeZUeoedlXVFk2XUMarwN7h8DUEzdAsK9R8um3uagFfaaaEvQePk/5sFpl4AQdSc8HM5M6vX2D2BoBSHgP9HZ/lmmU3ypM0rsNyT6S0fbazi3FgiXtAWinr1hL8V4iTkA7sQfrQzgq+tthH9TBNWHsNyYMVBjraZiLIt6HxyQh3KApsoA0tbi0qquE+Ay+7sJI3VBEm/cOOLO9NqGJE98KR4tBH43uqp/7p2mgpbIalRNrb+6CYf71DQc0+cRGwWawz9d1apLDjBsDdpMC1hfhKDsHu1yhIbMTbr4crk=;AbZCgfqNdGYKCSHIvXB7sA=="
 ---

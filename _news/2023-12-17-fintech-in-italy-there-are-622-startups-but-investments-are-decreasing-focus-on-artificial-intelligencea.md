@@ -19,43 +19,22 @@ topics:
   - AI
 
 related:
-  - title: "Top 18 Fintech Events in Singapore to Attend in 2024"
-    excerpt: "As Singapore’s fintech industry continues to gain international recognition, several major fintech events and conferences are being held each year in the city-state, attracting thousands of participants and investors from around the world."
-    publishedDateTime: 2023-12-13T10:26:00Z
-    webUrl: "https://fintechnews.sg/82031/events/top-18-fintech-events-in-singapore-to-attend-in-2024/"
+  - title: "Spacenet Enterprises India Ltd Accelerates Global Trade with Rs 99.55 Crore Investment in Fintech and AI Innovations"
+    excerpt: "This investment, led by VIKASA India EIF I Fund with a substantial Rs 50 crore at Rs 26 per share, demonstrates robust investor confidence and a shared vision for the future of digital trade., Technology & Science News,"
+    publishedDateTime: 2023-12-18T09:05:00Z
+    webUrl: "https://www.timesnownews.com/technology-science/spacenet-enterprises-india-ltd-accelerates-global-trade-with-rs-99-55-crore-investment-in-fintech-and-ai-innovations-article-106086365"
+    ampWebUrl: "https://www.timesnownews.com/technology-science/spacenet-enterprises-india-ltd-accelerates-global-trade-with-rs-99-55-crore-investment-in-fintech-and-ai-innovations-article-106086365/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/spacenet-enterprises-india-ltd-accelerates-global-trade-with-rs-99-55-crore-investment-in-fintech-and-ai-innovations-article-106086365/amp"
     type: article
     provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 24
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 36
     images:
-      - url: "https://fintechnews.sg/wp-content/uploads/2023/12/Top-18-Fintech-Events-in-Singapore-to-Attend-in-2024.jpg"
-        width: 1024
-        height: 567
+      - url: "https://static.tnn.in/thumb/msid-106086427,thumbsize-47144,width-1280,height-720,resizemode-75/106086427.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "FinTech Focus: Catch latest developments of the week"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-12-15T11:11:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/fintech-focus-catch-latest-developments-of-the-week-5/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/11/FinTech-Funding-wealth.jpg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "This fintech startup wants to help you make climate-forward investments"
-    excerpt: "Harlem-headquartered GreenPortfolio has launched a platform that seeks to arm individual investors with climate-conscious data to help inform their financial decisions."
-    publishedDateTime: 2023-12-15T18:33:00Z
-    webUrl: "https://www.crainsnewyork.com/climate/new-york-city-fintech-startup-wants-help-you-make-climate-forward-investments"
-    type: article
-    provider:
-      name: Crain's New York
-      domain: crainsnewyork.com
-    quality: 4
 
 secured: "5K0jpfb3bqdefeVwLQ06idzuPqvA2x5LyPmRAkK5gI3a0DYerZ2JxF8bbHSp+HLRm25IyYkG3kBFtHPQFKsh2WA7Nz0Y5Q+WuGrEvO1YHDMdBhyPZVLDGhm0OkB2fJqEu1fqyfr2I+KoltskYfc6dNUkKCddmlQncD6J5jrnwjU4WWuWvAUeQ1GbZGfuS8mV9KgTa6QR6Mg0M7vqOSzBRdRoaaQ9ruoruQYHnk2AjpYYevSW2hmgaeILnB3IUZ+JIoTB4b4t0mxAzm5RFw3wL7gim8Mqhaac5ZueL1ql/5UxAC92ktTCgyGegpjZFPNrbYMGD4CqtNf101YUXQnCWxS/uyItC7PewmlUG3vuBIfeA/GhfJejFrOZySmInmBSe/rh/eRtXxzZI/Q+/+fCsbIdRPHFEobt5sny8gatkknJ/B35C1wz++7y9Bsl2IrjcUmS1QYOkithWBXCTznyiNFGjre/lBd4Z/spWVOwzW2Ef7o6xvHrUnW1PhjRAiC1Q/M3CaJ/KbgqiDQ8A/fgDw==;B6rJvTHFJHk9dinCrUQukg=="
 ---

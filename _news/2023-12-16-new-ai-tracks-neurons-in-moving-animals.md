@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202312/new-
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202312/new-ai-tracks-neurons-in-moving-animals?amp"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 1528
     height: 800
     isCached: true
-
-related:
-  - title: "Uncovering bias in artificial intelligence"
-    excerpt: "Throughout his Ph.D. program, Li has worked alongside his advisor, assistant professor Hongfu Liu, to examine bias within artificial intelligence datasets. They determined that when developing these artificial intelligence systems, cleaning datasets and looking for these biases in advance of processing information can reduce these incidents."
-    publishedDateTime: 2023-12-15T14:52:00Z
-    webUrl: "https://www.brandeis.edu/stories/2023/december/artificial-intelligence-grant.html"
-    type: article
-    provider:
-      name: Brandeis University
-      domain: brandeis.edu
-    quality: 17
 
 secured: "p1utbA41JazY37fdrBAeDPKolHMB4SMxaOHTY2o5BNT5dPX1CaLVAsQQOxzMUmXzzaiqmkrgcQNtRlg99nmWYVgwpPwA3UoabV5FxSIM9VdABrwL+hCvGUQekuRWqj3gelKBgnGZ9YGO9nPz9grBeV/GRIz8W8qaNUX1dM1fu6WomNg/Mm5wgI7AYhcvZsn8lSk3po6T1jxI84dPAJTxs4I1b+eAVC5IS2zulIidmd6d0ZedXhGHbxhbxRmbOE4qC0dXobU1wZV83ETGw+JiYJ5Exj41kxZ+D/AemEO9Knj/ZzyI5BXnbjQ3JQg2oHsmWORO5tZnStFXLd7vTN9YD4e0k7VUkr5bDtaD9oANpxMMm879/a/eFg+qRZWA5NsUi1PdsszcH2MHJ7QiXUyjMpE+tkkTfQYiWBsihT91tavU2EHMRDzAD6cjm2EcrR29bIgsiRfjMGmxjrjTXrpnyCU5s8xkl6wkDw6g0wKAd1/FV7/VCk4RvCyZROhkmUOtIvBIvMwdBh4/cNqrw3CRWA==;hgtleOIfvE5UgRtbcc/MMg=="
 ---
