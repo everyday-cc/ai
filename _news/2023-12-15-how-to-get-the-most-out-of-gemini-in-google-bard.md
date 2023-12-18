@@ -71,20 +71,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "What's new in AI this week? Google brings Gemini Pro to tons of new tools, and more"
-    excerpt: "Google was in the news a lot this week as it rolled Gemini Pro to even more tools, including one that makes building Gemini bots easier."
-    publishedDateTime: 2023-12-13T22:02:00Z
-    webUrl: "https://www.androidauthority.com/whats-new-in-ai-3394259/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 61
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/12/Gemini-Google-Logo.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Building custom Gemini Pro AI models with new API"
     excerpt: "As announced earlier this month Google has now made available its new Gemini artificial intelligence API enabling developers ... It outperforms other similarly-sized models on multiple research benchmarks. Additionally, it comes with a 32K context window ..."
     publishedDateTime: 2023-12-14T12:11:00Z

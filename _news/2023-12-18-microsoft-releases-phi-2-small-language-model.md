@@ -54,15 +54,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Microsoft Research Debuts Phi-2, New Small Language Model"
-    excerpt: "Phi-2 is a generative AI model with 2.7 billion-parameters used for research and development of language models. While large language models can reach hundreds of billions of parameters, Microsoft Research is experimenting with small language models in ..."
-    publishedDateTime: 2023-12-13T20:53:00Z
-    webUrl: "https://www.techrepublic.com/article/microsoft-phi-2-ai/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 51
 
 secured: "GG9a064AwD7IMViwNNnhRThFMkZ1NizLSGvB56exWaNnwGf2n0S8R13FJGeIA+c8/oGnReHh/XqdP2RmSwuyJPdwYHU0S3CupxHwlDS1qhbZgTTM2w0qYxCJGP8PADIETnFyZxsMMoizu+lB3RXRw7fBTXq54UPjEBTzdMzCYkmzSa+3buTNDwBncSg6N8gjux8lVdisozvSo+18aP1mFoGqAhAuOZJl/a9CRyZhuC6Hvp8BaOgyQZ5ZJ/YJK1C4Gp4SIgpr9WWRuaTg5VJpmYSaJvfzcGpUj1le8IlqNu5/TJZ14M3he1MQdHdvYRq/kuAnEJ9v3RRfTMMCKOrVcny9R9ci6FaHS2bBYmQLhaNS7lxhIcpdZZ5vSi3GGiRnwi2KPT0VsGBlpfyLUtgTRCruoCatZd8L4CkgFdq0mknYjMRv3W2Fw2OkFSSAvoIN+7wCT/q9D1Y6pEJk//OrSLxG9kMY59neSIdZ/mXIkC4U+ozWpaHjiBBOLF0prnaSM6C5Cp1Vf7eVd0dj7p2v1A==;hZAmUXzQK3Z1+zC03Ir81Q=="
 ---

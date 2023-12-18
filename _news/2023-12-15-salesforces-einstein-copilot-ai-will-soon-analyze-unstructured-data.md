@@ -7,8 +7,8 @@ originalUrl: "https://www.techrepublic.com/article/salesforce-world-tour-new-yor
 webUrl: "https://www.techrepublic.com/article/salesforce-world-tour-new-york-2023-einstein-copilot/"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: TechRepublic
@@ -27,6 +27,17 @@ images:
     width: 1400
     height: 900
     isCached: true
+
+related:
+  - title: "Salesforce markets itself as an AI company customers can trust. Customers don't buy it yet."
+    excerpt: "Salesforce wants to bridge \"the trust gap\" between customers and generative AI. The company lags behind peers on product innovation, an analyst said."
+    publishedDateTime: 2023-12-18T19:40:00Z
+    webUrl: "https://www.businessinsider.com/salesforce-trust-generative-ai-customers-2023-12"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 39
 
 secured: "t1yo8jo5Rl6eYTeRShmJ/54nTiKy3zJ+SSufbwHdWCfphfbdn5G1Cg+3xbHi2Crdd7vdHTJ32Rz08P7kHb3q0+12mAzJpzYcWYRlRaocnKpk+qHJOLYm5jDDneF9L3FMEIzGX1gdjiu7rJn/Z21LzIqdOCEJnxrbsc6UBnutxuAzl+I3/2cMSgDNuzRX0kHpRgjTLvSgL7mMw8XV4fpomeU/jdAvcj5t/HYKo66hro/dMsJmgKoAlsW/tB7/yFX5/9XRBKYXcs0gUvKQuifGGjbGZuwbOuKqJcBUHddsHgwQaTb1Dm03nGPFK1Xt9x5iV1JkPE5Z7WT5pBXIpvcjrCjsRvdjK6XkVvyS1Qdxd0+izBcEuqGHhQSwfFeNmxpBmtkhr5FZM9eZ93iHvYGL2ZFz8rL9+FEz03IiONBNJaCAT9Huw0f7u/zaMpDQMdv43Oci7qCPJCNssUSpo7CcyWa63R74K3OmeLsBlUk6qq1knHUcxnJBvsxckOB+QffLkl7Rj7Bri11qQXjFgsfqlA==;Npsw++k2WDNK5Y4YBWQQlw=="
 ---

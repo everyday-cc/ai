@@ -2,22 +2,30 @@
 category: news
 title: "Bank of America Stadium introduces facial recognition for express entry"
 excerpt: "New technology at Bank of America Stadium will allow certain fans to enter the stadium without having to scan their tickets."
-publishedDateTime: 2023-12-15T00:22:00Z
-originalUrl: "https://www.wltx.com/article/sports/nfl/panthers/bank-of-america-stadium-facial-recognition-panthers-fans-tickets-silver-club/275-5f0ca2cc-5c2a-4828-8fda-3321fd64cf7e"
-webUrl: "https://www.wltx.com/article/sports/nfl/panthers/bank-of-america-stadium-facial-recognition-panthers-fans-tickets-silver-club/275-5f0ca2cc-5c2a-4828-8fda-3321fd64cf7e"
+publishedDateTime: 2023-12-15T10:52:00Z
+originalUrl: "https://www.wfmynews2.com/article/sports/nfl/panthers/bank-of-america-stadium-facial-recognition-panthers-fans-tickets-silver-club/275-5f0ca2cc-5c2a-4828-8fda-3321fd64cf7e"
+webUrl: "https://www.wfmynews2.com/article/sports/nfl/panthers/bank-of-america-stadium-facial-recognition-panthers-fans-tickets-silver-club/275-5f0ca2cc-5c2a-4828-8fda-3321fd64cf7e"
+ampWebUrl: "https://www.wfmynews2.com/amp/article/sports/nfl/panthers/bank-of-america-stadium-facial-recognition-panthers-fans-tickets-silver-club/275-5f0ca2cc-5c2a-4828-8fda-3321fd64cf7e"
+cdnAmpWebUrl: "https://www-wfmynews2-com.cdn.ampproject.org/c/s/www.wfmynews2.com/amp/article/sports/nfl/panthers/bank-of-america-stadium-facial-recognition-panthers-fans-tickets-silver-club/275-5f0ca2cc-5c2a-4828-8fda-3321fd64cf7e"
 type: article
-quality: 36
-heat: -1
-published: false
+quality: 76
+heat: 116
+published: true
 
 provider:
-  name: WLTX19
-  domain: wltx.com
+  name: WFMY News2
+  domain: wfmynews2.com
 
 topics:
   - Computer Vision
   - AI
   - AI in Finance
+
+images:
+  - url: "https://media.wfmynews2.com/assets/WCNC/images/f916cab2-7809-4606-a90a-02908ceed316/f916cab2-7809-4606-a90a-02908ceed316_1140x641.jpg"
+    width: 1140
+    height: 641
+    isCached: true
 
 related:
   - title: "Internet Marketing Association Wraps One of the Largest Artificial Intelligence Conferences in America"
@@ -43,7 +51,30 @@ related:
         width: 378
         height: 249
         isCached: true
+  - title: "Verizon, Panthers Implement “Express Entry” Option Using Facial Recognition To Enter Bank of America Stadium"
+    excerpt: "A new partnership between the Carolina Panthers and Verizon allows fans to enter Bank of America Stadium without scanning a ticket or their phones."
+    publishedDateTime: 2023-12-14T22:49:00Z
+    webUrl: "https://www.wccbcharlotte.com/2023/12/14/verizon-panthers-implement-express-entry-option-using-facial-recognition-to-enter-bank-of-america-stadium/"
+    type: article
+    provider:
+      name: WCCB
+      domain: wccbcharlotte.com
+    quality: 37
+    images:
+      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.wccbcharlotte.com/content/uploads/2015/12/Bank-of-America-Stadium.jpg"
+        width: 426
+        height: 240
+        isCached: true
+  - title: "Panthers and Verizon adding facial-recognition entry for NFL games at BofA Stadium"
+    excerpt: "In addition to the Panthers, Tepper Sports owns BofA Stadium and Major League Soccer team Charlotte FC. Wright said that Tepper Sports plans to make available facial recognition entry to all Panthers’ season ticket holders next season."
+    publishedDateTime: 2023-12-14T18:42:00Z
+    webUrl: "https://www.bizjournals.com/charlotte/news/2023/12/14/carolina-panthers-nfl-verizon-bank-of-america.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
 
-secured: "Qk2x+zvDABg52qL2Ot39lg/cdA6P0zFx82O3/0IDth41gKLC6l2OSjmTWmQVSP5oUpAK4LCW8w+ELBDAWDmd3vRRFd6JNYKuG5XDHWiPgW7vPzbJpWjRxN8WXsh6EjOAuLf0sTnQ/aW5FRcXdZbzMGMDtkNtTw1K3+wVZJyUqG6SgfwD7mo65S5w0TUfLdxBsA5sTiSKT166VrimBXgwc3gAz8OKGX2+S8w1z1IRRcgb7HMewU6EZJicQtRS8jweszVbItyYu2/bsm7EqZd07lRaitYwRWgGSu5Fmo5xeiX8dT0B+2D58il4cScsPk5233r8yeXicxZzbPnvQlkQdCbS85SIDm+25Z/CaUY7644cPKPWM3HQ28XqE+yV/M069tBRwyMTRnrY2BlICA2F7oZWh7uDC4nkGqg8Glju69u8wC65618INqob+7+piDH25pUtmmfJS1UtRd/H09kBEnwOYT2V26mH1nldt54KHFUV3k9e0NbqUzJ6I4pnwHCeZTFV7fh72mFeJ6SkbBOwUA==;/IbtDPu+g3BabCJfsfh5Wg=="
+secured: "VYr6gAg8P1IfcoEqwV2NpiSjIeTCya9e6a1qqb4uDOeg1cFHCEtZ/ERaxtPbpZTcRbQSLFGs561YD0oZfx6L0oRjk+11HZvnvOqEEUEa2cqn/PTTu7QIVKKRPmoW0RmQRlu/CoCNi/C41djYhFWdlEcS9PfcMVSuCU67gct8bx3cL58Ut+B/qEcvB1rFyhxz1/BTQvMdqFeBtUnkbihZIf1zjy2G8HHBFrfTQRfoNtu4iGTOEqR9lh1zlEvT3iU/ukMEQeVR81PLXHgVbNGbFk7JHtljjXyuiRALO0VPQa/es39ugz3ZOpT1YsytIVQvIinmxkpGQeDaVAXccat2GmBhyfi1Gut7U9o8n1q9JBQ=;rVInx1D5+ktfDUB4m8+XGg=="
 ---
 

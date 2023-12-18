@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Launch of Altair® RapidMiner® 2023 Platform Delivers Next-Generation Generative AI Capabilities"
-excerpt: "Altair RapidMiner's comprehensive AutoML toolset now supports automated clustering in addition to predictive modeling, feature engineering, and time series forecasting. The intuitive wizard-based user experience empowers users new to machine learning to ..."
-publishedDateTime: 2023-11-28T00:00:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2023/11/28/launch-of-altair-xae-rapidminer-xae-2023-platform-delivers-next-generation"
-webUrl: "https://stockhouse.com/news/press-releases/2023/11/28/launch-of-altair-xae-rapidminer-xae-2023-platform-delivers-next-generation"
+excerpt: "Altair (Nasdaq: ALTR), a global leader in computational science and artificial intelligence (AI) announced that Altair® RapidMiner®, its data analytics and AI platform, is becoming more integrated, more powerful,"
+publishedDateTime: 2023-11-28T12:29:00Z
+originalUrl: "https://www.aap.com.au/aapreleases/cision20231128ae77927/"
+webUrl: "https://www.aap.com.au/aapreleases/cision20231128ae77927/"
 type: article
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Australian Associated Press
+  domain: aap.com.au
 
 topics:
   - Machine Learning
@@ -21,6 +21,6 @@ images:
     height: 210
     isCached: true
 
-secured: "kpVbCLervu3fDOMHe5yEVfJKPNsOt2sKi5ZwpqRkE/qIsvDZKUlnDSjelBoPV8IP2dQrj1NLUTbLvXphcb3M9mrdk7GMBaLnIczE8rNmL/RCOolgK0gzthTZiTqoMkLqcelGxTEza+wso+foX6FQinHDTd0klermp+D7J+bqeddrkYAjDeQ9GOXTNz2ipUCe9Pa1YOduolC3KxhBYIRYiSVT4f8giC2WWChTmguMCgo16AWvL+FelqrpIaEPhwaGsd4K51ng9aES/5h+b2U8yLCpJsWpiux0xYUNdoYZmsPiiSLAXuvuN5kTumTwKS1hicga08ZP8jUV9RvWaSKXsUvzK/Wpqo2slu886181fc0=;8KFrnJKFgAR2R/KSPhPNaQ=="
+secured: "ZCITF41FK3yRoBKmKFWLLdUQvHAEsujjIbXm9+Kar0oAnvN2CnMYAyHlbIc77TLsrQRtN34gcwPBBMCJXkexG3hcutbjxQJkrnWgnVQEMbC0oPfY3jbxJNB+Naxqas1bKcS/UxXpQa1qlmx5pni8nh7j9Wo0k6VIejsjD+5Y77DfIhZpW+ayG0jOrQePaD6WcemOfwVy/0bopvWr059R43JoY3XZasxlbzcz0WBXYGWgxASyT0GS1UOze8ozQj/1GkHor6DK2slZARJ1/ltt8aQ1urG/jIg66AoU9N4v24R42h52ZArngYhAIJJRAuwwhOLEuvVkv+tO4Ph+b4/tJ+OAv4AKN8L4ttGvXA2lXQg=;VpDfNJ5s62vq90bkCss3pQ=="
 ---
 

@@ -96,6 +96,15 @@ related:
         width: 975
         height: 548
         isCached: true
+  - title: "Microsoft Only Cloud Giant 'Leader' in AI Governance Research Report"
+    excerpt: "In fact, among the largest general cloud computing platforms, IBM is the only other player covered in the 'IDC MarketScape: Worldwide AI Governance Platforms 2023 Vendor Assessment,' with fellow hyperscalers AWS and Google Cloud Platform not included."
+    publishedDateTime: 2023-12-18T19:52:00Z
+    webUrl: "https://virtualizationreview.com/articles/2023/12/18/ai-governance.aspx"
+    type: article
+    provider:
+      name: Virtualization Review
+      domain: virtualizationreview.com
+    quality: 34
 
 secured: "+9UTGvm7M4pddNuMbw0IRdvBMePzYVz/YbPNyshxIyVPGDRl1J3uGkXN40OPw1aGmvus3yf/kQfosRNKZ4gR1BsiJHAz3ZSosDuS2qcKTVZgReCs90PmV3biGmy3J0Wn1KLc5FgHFUo1GRMbP5xtiso8teHaxnrUmX3xKgVfG1PF9cDzC/DzG8XNv7kXV2B3PW3mkkw45VcCpUtVYR0OChU/SkTeN7UzV5uvI7L2WXsFCs12sztu8S1uZrGDJAU18cuLZs3Nd1xPqBUtQIY/Tqr+hc466UjiJj+zb88Q2vADXjAnvRR2BEBt8VzgPN9vcm+HOlhXdU1RmhfN4xtLGbw+G877Xc38rQd1lygSZhDYYEybFfMq2dX3VZf/lQv6yFNebePcnqNTHho605OybkCI7oSoEpHrtcyywBVuGpIOgIURStR+kFCCWerrA4r3qlPri+txWn9Mz+9jGxHGOJfc+d0OiiqDZCgn6c9kJVhhhOFJiItNizuPWnc5WUr+LS0TWJk1KmQxh6mZnS1WGw==;kyHQn9xh8B5B4HFjBbAYBQ=="
 ---

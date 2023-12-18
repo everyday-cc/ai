@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "The AI Revolution in Therapy"
-    excerpt: "Artificial intelligence (AI) has proven to be a powerful tool in the world of behavioral health, already aiding in assessments and enhancing therapy. This transformative technology helps healthcare providers deliver true value in their behavioral ..."
-    publishedDateTime: 2023-12-18T17:11:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/leadership-diversity-and-wellness/202312/the-ai-revolution-in-therapy"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/leadership-diversity-and-wellness/202312/the-ai-revolution-in-therapy?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/leadership-diversity-and-wellness/202312/the-ai-revolution-in-therapy?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 74
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-12/pexels-pixabay-373543.jpg?itok=wBzUJjRQ"
-        width: 1528
-        height: 800
-        isCached: true
   - title: "EU’s Sweeping New AI Act Could Be An Innovation Killer"
     excerpt: "The European Union's draft AI law emerges amidst rising concerns among EU member states that regulations could choke off innovation."
     publishedDateTime: 2023-12-15T19:54:00Z
@@ -57,6 +41,15 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 45
+  - title: "The AI Revolution in Therapy"
+    excerpt: "Artificial intelligence (AI) has proven to be a powerful tool in the world of behavioral health, already aiding in assessments and enhancing therapy. This transformative technology helps healthcare providers deliver true value in their behavioral ..."
+    publishedDateTime: 2023-12-18T16:57:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/leadership-diversity-and-wellness/202312/the-ai-revolution-in-therapy"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 34
 
 secured: "sKXUswnw98Lr6yoPVdvfItgDJKLpJwf1xgCGJlwiCW9OtQyfyi/4Y7c0kcoYDGloKPlO1rwOAghdTCK296JTnqSjH+IMDbTs7UFWZTZHDgjdln3iV9tT92YkkzazzEByT6rDpf5Jc+aZQYHLoASkf2ACQOnCe803WdZaMJ1uZ7vw0kHEgXbm0yCw6lQYm35OHq7tS4e58LYoJ2QqCyhGI5d6kxfZ7v4He+7PnATzk7DOY9XwWiMwH5GaEAyOIAo20DwHwnnDh2Spca7vchLyRppdbtD9RE+J/Ceems1ITmGq/GCpasLDB7qvmc2AwaMVo0hUUAUEujAIGUeoUAHNgXhfz+v5QQBMxw0ckGeqeK4=;JLnbq4IxWQDgmjkXKJRhrA=="
 ---

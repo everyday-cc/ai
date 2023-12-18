@@ -92,15 +92,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Bank audit executives seek stricter regulation for fintech, BDCs"
-    excerpt: "ACAEBIN also called for stricter regulations of the fintech space as well as the operations of the Bureaux de Change."
-    publishedDateTime: 2023-12-13T19:08:00Z
-    webUrl: "https://punchng.com/bank-audit-executives-seek-stricter-regulation-for-fintech-bdcs/"
-    type: article
-    provider:
-      name: The Punch Newspapers
-      domain: punchng.com
-    quality: 19
   - title: "Nigerian Audit Chiefs Urge Tighter Oversight of Fintech Sector"
     excerpt: "The Association of Chief Audit Executives of Banks in Nigeria (ACAEBIN) has urged for tougher regulations in the fintech sector and the operations of Bureaux"
     publishedDateTime: 2023-12-17T10:17:00Z

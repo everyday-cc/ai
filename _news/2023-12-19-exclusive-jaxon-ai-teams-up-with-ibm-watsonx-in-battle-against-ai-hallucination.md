@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/exclusive-jaxon-ai-teams-up-with-ibm-wa
 webUrl: "https://venturebeat.com/ai/exclusive-jaxon-ai-teams-up-with-ibm-watson-in-battle-against-ai-hallucination/"
 type: article
 quality: 79
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "IBM To Boost Watsonx With $2B Purchase Of Two Software AG Platforms"
+    excerpt: "IBM plans to spend about $2 billion on Software AG StreamSets and WebMethods, part of Super iPaaS, to improve Watsonx."
+    publishedDateTime: 2023-12-18T19:30:00Z
+    webUrl: "https://www.crn.com/news/cloud/ibm-to-boost-watsonx-with-2b-purchase-of-software-ag-platforms"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 19
 
 secured: "GW7Bf86ecu+6taO1okEGrshWlocVvENO1FSpUzn1A/6YtTbjUx6zmGGqANxjybTli7DLwS6PovHlUH8LLgNVDHpyJs8Rvh0XTpKfHJGL9+eazEGb9eP2UYMYirnu4MfgyZTkvoi1gPL+Gbk0bAFRhKUi5GvrkeZ55SDd1B0KM+crmdRXTEjg9VbtBHEH3hval+MuXH/W2LG7YxoqDfJV2/Fda+M2Q93POF52UwgCQsBt4n2bZ+0wu0s/OkzphLtfCuK++t6lnJpc27JQh+9+8xyjobRxQNknZD04ucG3L3NceFPfV2pztBLki8+w8pDWWNwc12VHbL+hC9cfvwwitDnPulNE557Rt3qKm+AG7HY=;kEJTo3/Ewsq51pdTcnqGDw=="
 ---

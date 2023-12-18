@@ -39,31 +39,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "The self-driving safety concerns that led to Tesla’s recall of 2 million cars"
-    excerpt: "Tesla has recalled 2 million cars, nearly all of its vehicles sold in the U.S. since 2012, because of issues with its self-driving features. Safety regulators have investigated nearly a thousand crashes involving Tesla's autopilot system,"
-    publishedDateTime: 2023-12-13T22:25:00Z
-    webUrl: "https://www.pbs.org/newshour/show/the-self-driving-safety-concerns-that-led-to-teslas-recall-of-2-million-cars"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/show/the-self-driving-safety-concerns-that-led-to-teslas-recall-of-2-million-cars"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/the-self-driving-safety-concerns-that-led-to-teslas-recall-of-2-million-cars"
-    type: article
-    provider:
-      name: PBS
-      domain: pbs.org
-    quality: 56
-    images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2023/12/recalled-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Tesla issues recall for almost two million of its cars due to faulty self-driving tech"
-    excerpt: "Self-driving vehicles will remain in the world of science fiction as Tesla is recalling two million of its cars to prevent drivers from misusing the Autopilot function."
-    publishedDateTime: 2023-12-13T20:20:00Z
-    webUrl: "https://www.techradar.com/vehicle-tech/tesla-issues-recall-for-almost-two-million-of-its-cars-due-to-faulty-self-driving-tech"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 41
   - title: "Tesla recalls 2 million vehicles over self-driving safety concerns"
     excerpt: "The probes came in response to Teslas with Autopilot crashing into first-responder vehicles as well as random sudden braking – known as ‘phantom braking’ – from considerable speed on highways."
     publishedDateTime: 2023-12-13T23:51:00Z

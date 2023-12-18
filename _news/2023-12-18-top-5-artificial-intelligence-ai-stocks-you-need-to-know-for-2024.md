@@ -46,7 +46,7 @@ related:
     provider:
       name: Impacts
       domain: techbullion.com
-    quality: 54
+    quality: 58
     images:
       - url: "https://techbullion.com/wp-content/uploads/2023/12/The-Future-of-Googles-AI-Advancements-and-Applications-We-Can-Expect.jpg"
         width: 650

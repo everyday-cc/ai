@@ -119,6 +119,15 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "Can an AI Chatbot Revolutionize Insulin Dosing?"
+    excerpt: "Study shows AI chatbot enhances insulin dosing for type 2 diabetes, improving glycemic control and reducing distress, marking a new era in diabetes management."
+    publishedDateTime: 2023-12-18T18:49:00Z
+    webUrl: "https://diatribe.org/can-ai-chatbot-revolutionize-insulin-dosing"
+    type: article
+    provider:
+      name: diaTribe
+      domain: diatribe.org
+    quality: 17
 
 secured: "AIIGPH435oiVsw5NuN8KHHZa2GgYXBLkAZfdoyfR+sI7BenRae0xDgNqIVzA+6opBfUGrM349sZkSJskX+Ye0aI/Y3C6RB/ecN5nx/n20aqFaKabRcaJsrWY5dGnwO3w9PJDw/CgI0DAu4o8QHT88SQijz6Q+XUVYeH6ik/QMC9J2N5r232ABT8Xnyhq5e0ZvibRCJxqUoSettap4KFxZ1Ts1fluUj5Ha2rgrhoHJUfQNA9ZMBay2hEv0RLElUkCDdtifqWsTXH3ktKOFbiK0e8NMW+Ap6rEYzt4sgXrrqBCCfLtC226+yhkUI5EUwY6ouL5+0jr7nlKe9Hx4qDHoyriG9uK6NKhD/rUZ+oK5a8=;yv5cYLi7yhRxcOpA4AtKig=="
 ---

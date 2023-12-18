@@ -89,15 +89,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Artificial Intelligence in Fintech Market - Global Industry Analysis, Trends, Market Size, and Forecasts up to 2030"
-    excerpt: "The global artificial intelligence in fintech market was valued at USD 10.88 billion in 2022 and is expected to reach USD 40.76 billion in 2030, with a CAGR of 15.78% during the forecast period 2023-2030."
-    publishedDateTime: 2023-12-13T22:42:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/12/13/9933723.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
   - title: "Infibeam Avenues acquires 49% stake in capital markets software provider Pirimid Fintech"
     excerpt: "With the stake acquisition, Infibeam is looking to integrate its digital payments framework with Pirimid Fintech's capital market trading software for clients in India and globally."
     publishedDateTime: 2023-12-14T13:54:00Z

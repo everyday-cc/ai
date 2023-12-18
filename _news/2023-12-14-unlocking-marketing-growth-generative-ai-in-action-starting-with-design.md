@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/14/unlock
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/12/14/unlocking-marketing-growth-generative-ai-in-action-starting-with-design/amp/"
 type: article
 quality: 103
-heat: 133
+heat: 143
 published: true
 
 provider:
@@ -73,6 +73,15 @@ related:
         width: 1000
         height: 547
         isCached: true
+  - title: "Navigating a shifting customer-engagement landscape with generative AI"
+    excerpt: "Enterprises need clear roadmaps as the rapid advent of generative AI reshapes the way they engage with customers."
+    publishedDateTime: 2023-12-18T19:55:00Z
+    webUrl: "https://www.technologyreview.com/2023/12/18/1085299/navigating-a-shifting-customer-engagement-landscape-with-generative-ai/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 17
 
 secured: "W2VQ2tG586RnUGNN57WTRp30Z5+hM0p0ZY1CQKp/g/k43POJSpNK+PJsmoPd0mQffvoU3dfpBzACBSEF+RYINZmqm70yzsMCb4Mhqt5EUchZ3GKK2TMPe30stsVwdbgRaREsrVQnkNTFpsmxemxEMeSYvoviUyozdMsjF0kpB1wmer8ugY5iP3jvK/Fz4abxrCgUlko3K3Cu6A0DfYrR4FC2NmGsHmDMHW5LUAAkWdteHjN9QxkUfwo04+mcY9uZxLZzX8+dRx+71cEN2opGqf0HXQmYttveZmKCn/4Z6ViBmdXicqB4/El6rZxH2+MwfO06ueuNw6w4up9Zy2xYjDhZN49vy/+R5UOOSRzRRFE=;VxQVcA5LPYRU0QiMA/7rNg=="
 ---

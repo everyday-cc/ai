@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/kalinabryant/2023/12/13/how-ai-is-impac
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kalinabryant/2023/12/13/how-ai-is-impacting-society-and-shaping-the-future/amp/"
 type: article
 quality: 91
-heat: 201
+heat: 211
 published: true
 
 provider:
@@ -191,6 +191,20 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2023/12/thumbnailHEYBEIPE-1000x600.jpg"
         width: 1000
         height: 600
+        isCached: true
+  - title: "The billionaire bucks shaping AI policy"
+    excerpt: "For months, Brendan has been following the money shaping the regulatory debate over AI. And much of that money is coming from wealthy backers of “effective altruism,” a prominent ideology in Silicon Valley circles that places great a deal of weight on the existential risks of AI."
+    publishedDateTime: 2023-12-18T20:27:00Z
+    webUrl: "https://www.politico.com/newsletters/digital-future-daily/2023/12/18/whos-really-driving-ai-policy-00132306"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 39
+    images:
+      - url: "https://static.politico.com/24/10/d1edb0a641fbb58de105917b9c8d/https-delivery-gettyimages.com/downloads/1258872971"
+        width: 5760
+        height: 3840
         isCached: true
 
 secured: "O4vcxPV82wA9AtdjQdWdGXqCjypO3/utDvDcjTXxDAWOA851Wv+ma+bw+gOBxmmqQIqKHTddqEGRwy5E0agl0oU6jiN5fSKFkQKX5bQlqVlWRwvbU7Rf/iPpEQ+hLRLgVw6zJXviIK7v5u3CEqnwvaQJcELFqvu+WeZaMrJP7gnjiZfW6Z4+I5guVVtrNNVy3eBjAejqIWSZ44eOpHhbInnOSlcx4jjd+nXoVHDRayTTSACRvypHbopAYP5pE9dPPRUPeOeimRIiv2Q7681F0Ks9zXB2DVDkpeuvywR0L3v5ykvJRLg98yWnZPJb2avWpPONr6Ew8B/IkLb99E8I6l440kEH82xA5v5ZhMHAHh03oat9hhyY0ju3HBj1UllY4frWjDZeF7X5+SC5q0yMm32AF+NQ3Ns8iuNgJYKWTdGAqp4CKMfRM7VhRk5UKBWaO9hz6qV1nSIN9xgRVUv20jU2UlLUqru+4UP4wVQlu3//Jsuu0X5SGDfxFTNays8aDVHSmUnRycqMi7Mkt53v5g==;VGoSyxoijaS/6cBCCC2Ocw=="

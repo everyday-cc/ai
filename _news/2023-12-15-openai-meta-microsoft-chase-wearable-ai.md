@@ -120,15 +120,6 @@ related:
       name: InfoWorld
       domain: infoworld.com
     quality: 64
-  - title: "Microsoft Copilot: tips and tricks for using AI in Windows"
-    excerpt: "Windows Copilot is a useful tool for augmenting your Windows experience, but with these tips and tricks you can make it even better."
-    publishedDateTime: 2023-12-13T19:19:00Z
-    webUrl: "https://www.digitaltrends.com/computing/tips-tricks-windows-copilot/"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 64
   - title: "Autopilot's new AI integrates into Microsoft Teams and Copilot"
     excerpt: "AI-powered, format-agnostic document data extraction allows ... They were an early adopter into Microsoft Azure, building straight into the cloud as early as 2014, while competitors were still battling with on-prem solutions. They were also early adopters ..."
     publishedDateTime: 2023-12-14T00:01:00Z

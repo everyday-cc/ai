@@ -67,6 +67,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Madison Health Alert: Rising Disability in the Workplace due to Brain Fog. Doctor Explains"
+    excerpt: "Dr. Adriana Davis, Family Medicine, \"More and more working-age adults have brain fog--research shows that it's due to long COVID.\"Doctor's Expert Insights long COVID and Brain Fog"
+    publishedDateTime: 2023-12-14T12:28:00Z
+    webUrl: "https://www.news-shield.com/news/state_news/article_a3ff4bf8-0b49-53d2-b322-94ed3122ba73.html"
+    type: article
+    provider:
+      name: Barron News-Shield
+      domain: news-shield.com
+    quality: 29
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/news-shield.com/content/tncms/custom/image/8a265c9e-d5ea-11e7-b634-1f4aaebb7c30.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Mankato Health Alert: Rising Disability in the Workplace due to Brain Fog. Doctor Explains"
     excerpt: "Dr. Adriana Davis, Family Medicine, \"More and more working-age adults have brain fog--research shows that it's due to long COVID.\"Doctor's Expert Insights long COVID and Brain Fog"
     publishedDateTime: 2023-12-14T13:27:00Z

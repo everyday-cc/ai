@@ -187,6 +187,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "The billionaire bucks shaping AI policy"
+    excerpt: "For months, Brendan has been following the money shaping the regulatory debate over AI. And much of that money is coming from wealthy backers of “effective altruism,” a prominent ideology in Silicon Valley circles that places great a deal of weight on the existential risks of AI."
+    publishedDateTime: 2023-12-18T20:27:00Z
+    webUrl: "https://www.politico.com/newsletters/digital-future-daily/2023/12/18/whos-really-driving-ai-policy-00132306"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 39
+    images:
+      - url: "https://static.politico.com/24/10/d1edb0a641fbb58de105917b9c8d/https-delivery-gettyimages.com/downloads/1258872971"
+        width: 5760
+        height: 3840
+        isCached: true
 
 secured: "I0pPWsiPRRJgEWOSdfkOgcKQOtkn0sfsK6TvAT3zxxD0rf7PNhfSxMWevFeGenPDjAPmLrxYfXys3cdHGYVIV009LGtB4y3+Hvv1Bv4R8MqfkEe1HkFCohgKNmF36/KTbQEDnCO8N17UAJSEi9FpYSz7qvDHr8tULFeAX13e4lqrhLIwMBaiM6jKqr8TIBP6KiwTyz68qaO5o+7caOcKm1CK2INQN49DhJFZY/ltUeJSIo++3a/Es8oLuFbG1PcEh/OZ/PC02sQPPhIkpg91qknxT/5n/+WbzRLT6DzR8e5UDvkO6rTytyf11wiY8WO01ISAh7kvAiYVx8bENT5zNdwF+bXJJCQCth+uDm1fCleunALQCEtRLNFOIv4zmvbkZxBd3DPLwy4xc+rz+INwPR5bd7YM+ZHrZ6BfkOKqJSRWAw9CHtytjiXlMNPLw/3StdOPf/wag/5GHD+VXDPpEOCU9e98AMx5IpQrbQPclB+cU3dMcR5IF44H2NqI4VQzIuncS+XE+abzqeqy0+XXFA==;IIs8ZAY7pfMWw3FX5rKezg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/blog/azure-openai-service-powers
 webUrl: "https://azure.microsoft.com/en-us/blog/azure-openai-service-powers-the-microsoft-copilot-ecosystem/"
 type: article
 quality: 119
-heat: 209
+heat: 199
 published: true
 
 provider:
@@ -108,15 +108,6 @@ related:
     provider:
       name: InfoWorld
       domain: infoworld.com
-    quality: 64
-  - title: "Microsoft Copilot: tips and tricks for using AI in Windows"
-    excerpt: "Windows Copilot is a useful tool for augmenting your Windows experience, but with these tips and tricks you can make it even better."
-    publishedDateTime: 2023-12-13T19:19:00Z
-    webUrl: "https://www.digitaltrends.com/computing/tips-tricks-windows-copilot/"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
     quality: 64
   - title: "OpenAI, Meta, Microsoft Chase Wearable AI"
     excerpt: "Next year’s artificial intelligence battle is coming into focus—and it’s all about glasses. As they release more powerful AI that can understand images and language, Meta Platforms, Google, Microsoft,"

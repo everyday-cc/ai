@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/blog/key-customer-benefits-of-th
 webUrl: "https://azure.microsoft.com/en-us/blog/key-customer-benefits-of-the-microsoft-and-mongodb-expanded-partnership/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -42,15 +42,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Microsoft Research Debuts Phi-2, New Small Language Model"
-    excerpt: "Phi-2 is a generative AI model with 2.7 billion-parameters used for research and development of language models. While large language models can reach hundreds of billions of parameters, Microsoft Research is experimenting with small language models in ..."
-    publishedDateTime: 2023-12-13T20:53:00Z
-    webUrl: "https://www.techrepublic.com/article/microsoft-phi-2-ai/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 51
   - title: "Microsoft releases Phi-2 small language model."
     excerpt: "Better than a Llama Microsoft Research has announced the release of its Phi-2 small language model (SML), a text-to-text AI programme that is \"small enough to run on a laptop or mobile device.\" Phi-2 has 2."
     publishedDateTime: 2023-12-18T11:00:00Z

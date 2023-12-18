@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/h-r-block-introduces-ai-cha
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/h-r-block-introduces-ai-chatbot-that-will-answer-your-complex-tax-questions/"
 type: article
 quality: 85
-heat: 155
+heat: 165
 published: true
 
 provider:
@@ -122,6 +122,15 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 28
+  - title: "Can an AI Chatbot Revolutionize Insulin Dosing?"
+    excerpt: "Study shows AI chatbot enhances insulin dosing for type 2 diabetes, improving glycemic control and reducing distress, marking a new era in diabetes management."
+    publishedDateTime: 2023-12-18T18:49:00Z
+    webUrl: "https://diatribe.org/can-ai-chatbot-revolutionize-insulin-dosing"
+    type: article
+    provider:
+      name: diaTribe
+      domain: diatribe.org
+    quality: 17
 
 secured: "zZEw948l6h22gpPcBEPopH5eduGlUSGb4k0BQegmXRvZ5uFMYsMgI5GVMqft6WIM/+LOeZUeoedlXVFk2XUMarwN7h8DUEzdAsK9R8um3uagFfaaaEvQePk/5sFpl4AQdSc8HM5M6vX2D2BoBSHgP9HZ/lmmU3ypM0rsNyT6S0fbazi3FgiXtAWinr1hL8V4iTkA7sQfrQzgq+tthH9TBNWHsNyYMVBjraZiLIt6HxyQh3KApsoA0tbi0qquE+Ay+7sJI3VBEm/cOOLO9NqGJE98KR4tBH43uqp/7p2mgpbIalRNrb+6CYf71DQc0+cRGwWawz9d1apLDjBsDdpMC1hfhKDsHu1yhIbMTbr4crk=;AbZCgfqNdGYKCSHIvXB7sA=="
 ---

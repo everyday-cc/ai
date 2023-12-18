@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Face biometrics code could be seeing through better eyes"
+    excerpt: "Computer vision vendors and researchers are rapidly developing significantly upgraded camera systems on the front end of AI."
+    publishedDateTime: 2023-12-15T22:12:00Z
+    webUrl: "https://www.biometricupdate.com/202312/face-biometrics-code-could-be-seeing-through-better-eyes"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/12/15171048/computer-vision-ai-scaled.jpg"
+        width: 2048
+        height: 1152
+        isCached: true
   - title: "Carolina Panthers draft Verizon and Wicket for entry with face biometrics"
     excerpt: "Phase I of the service will make biometric entry available for club season ticket members, with a planned rollout for all season ticket holders."
     publishedDateTime: 2023-12-14T22:33:00Z

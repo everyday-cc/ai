@@ -1,0 +1,68 @@
+---
+category: news
+title: "CEO Initiative 2023: Where Do We Start, Pause, Or Stop With AI"
+excerpt: "December 18, 2023 00:00 AM UTC - Updated 1 hour ago Erik Brynjolfsson, Jerry Yang and Akiko Yamazaki Professor and Senior Fellow, Stanford Institute for Human-Centered AI (HAI), Julie Sweet, Chair and CEO, Accenture Hemant Taneja, Managing Director and CEO ..."
+publishedDateTime: 2023-12-18T22:52:00Z
+originalUrl: "https://fortune.com/videos/watch/ceo-initiative-2023%3A-where-do-we-start%2C-pause%2C-or-stop-with-ai/331ba556-0b4a-41cb-9cb0-3569dae6595b"
+webUrl: "https://fortune.com/videos/watch/ceo-initiative-2023%3A-where-do-we-start%2C-pause%2C-or-stop-with-ai/331ba556-0b4a-41cb-9cb0-3569dae6595b"
+ampWebUrl: "https://fortune.com/videos/watch/ceo-initiative-2023%3A-where-do-we-start%2C-pause%2C-or-stop-with-ai/331ba556-0b4a-41cb-9cb0-3569dae6595b/amp"
+cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/ceo-initiative-2023%3A-where-do-we-start%2C-pause%2C-or-stop-with-ai/331ba556-0b4a-41cb-9cb0-3569dae6595b/amp"
+type: article
+quality: 87
+heat: 117
+published: true
+
+provider:
+  name: Fortune
+  domain: fortune.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://d2byebo1j9i40c.cloudfront.net/331ba556-0b4a-41cb-9cb0-3569dae6595b/Images/posterImage-ver2-1280x720.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+related:
+  - title: "2023: The year we played with artificial intelligence — and weren't sure what to do about it"
+    excerpt: "Artificial intelligence went mainstream in 2023 — it was a long time coming yet has a long way to go for the technology to match people’s science fiction fantasies of"
+    publishedDateTime: 2023-12-16T07:45:00Z
+    webUrl: "https://www.postregister.com/features/smart_living/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about/article_13cbcccc-9ade-11ee-b96a-ab82c4cbc1f2.html"
+    type: article
+    provider:
+      name: Post Register
+      domain: postregister.com
+    quality: 26
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/assets/v3/editorial/7/53/753df2e6-9ade-11ee-bc9d-5b9585ff2d7f/657b99ce29e24.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "2023: The year we played with artificial intelligence — and weren't sure what to do about it"
+    excerpt: "Artificial intelligence went mainstream in 2023 — it was a long time coming yet has a long way to go for the technology to match people's science fiction fantasies of human-like machines ..."
+    publishedDateTime: 2023-12-14T04:23:00Z
+    webUrl: "https://www.4029tv.com/article/2023-the-year-we-played-with-artificial-intelligence/46130638"
+    type: article
+    provider:
+      name: 4029tv
+      domain: 4029tv.com
+    quality: 8
+  - title: "2023: The year we played with artificial intelligence — and weren't sure what to do about it"
+    excerpt: "Artificial intelligence went mainstream in 2023 — it was ... through a huge database of photos to recognize objects and individual faces and help guide self-driving cars. Speech recognition advances made voice assistants like Siri and Alexa a fixture ..."
+    publishedDateTime: 2023-12-14T18:23:00Z
+    webUrl: "https://www.wtae.com/article/2023-the-year-we-played-with-artificial-intelligence/46130638"
+    type: article
+    provider:
+      name: WTAE-TV
+      domain: wtae.com
+    quality: 8
+
+secured: "JiLhvTJ6tLk/+UqBMBzcekjMyPJkuFh8UwATdxfj/X6nqAdNXos0l1oj7AgGGqYMFzgJdNz6FIHR1HlUxXeLPjGkES517+9RCZ/V5jY4jLtUR+/F+5XNw76/T/Nj5O9NCm87JID5mR1krzA3r22CDx6ap1D+Cv3Waly6sl0yicHr7hpCWZ4HpJ/lZTawcA/cWTGw4KR+2048+zdEqtOZaLO/+NGqd1cdEnZfHqWKuGdSTTxpPbxrQRNDbBjviGi6Og2A8fuUZdUSiWk8jCC6DJPPxUUNEoFqV6YAQVedBsFnzEZNucG8aGdxfYKj87NiEeiDwx2YlxI34KtBYF+rU7aLMHAN15mdCY0WaJzhnqQ=;ddwteeN/xPGfz16JDxSgeg=="
+---
+

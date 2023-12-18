@@ -25,19 +25,63 @@ images:
     isCached: true
 
 related:
-  - title: "Intel Announces AI-Oriented 5th Gen Xeon, Gives Gaudi3 GPU Accelerator Sneak Peak"
-    excerpt: "Gearing up for what it intends to be a multi-horse race in the exploding AI chip sector, Intel today announced a next-generation Xeon enterprise and data center CPU built with AI inferencing in mind,"
-    publishedDateTime: 2023-12-14T15:10:00Z
-    webUrl: "https://insidehpc.com/2023/12/intel-announces-ai-oriented-5th-gen-xeon-gives-gaudi3-gpu-accelerator-sneak-peak/"
+  - title: "Intel Unveils New AI Chips to Rival Nvidia’s Dominance in AI Industry, INTC Stock Up 1%"
+    excerpt: "Dubbed Gaudi3, Intel intends to attract generative AI companies like OpenAI away from Nvidia and bolster its stock market performance."
+    publishedDateTime: 2023-12-15T11:11:00Z
+    webUrl: "https://www.coinspeaker.com/intel-ai-chips-intc-stock/"
+    ampWebUrl: "https://www.coinspeaker.com/intel-ai-chips-intc-stock/amp/"
+    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/intel-ai-chips-intc-stock/amp/"
     type: article
     provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 49
+      name: coinspeaker
+      domain: coinspeaker.com
+    quality: 66
     images:
-      - url: "https://insidehpc.com/wp-content/uploads/2023/12/Intel-5th-Gen-Xeon-2-1-1223.png"
-        width: 996
-        height: 512
+      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/12/intel-ai-chips-intc-stock.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Intel Drops New Core Ultra Processors and Gaudi3 AI Chip to Take on Nvidia and AMD"
+    excerpt: "Intel launches Core Ultra processors and Gaudi3 AI chip to compete with Nvidia and AMD. Core Ultra line features chiplet design, neural processing unit, and specialized AI components for enhanced performance."
+    publishedDateTime: 2023-12-16T10:47:00Z
+    webUrl: "https://www.technobezz.com/news/intel-drops-new-core-ultra-processors-and-gaudi3-ai-chip-to-take-on-nvidia-and-amd/"
+    type: article
+    provider:
+      name: Technobezz.com
+      domain: technobezz.com
+    quality: 48
+    images:
+      - url: "https://cdn.technobezz.com/c/intel_core_ultra_holthaus_jpg_rendition_intel_web_1648_927_d97184be91/intel_core_ultra_holthaus_jpg_rendition_intel_web_1648_927_d97184be91.jpg"
+        width: 1102
+        height: 927
+        isCached: true
+  - title: "Lenovo unveils new AI PC experiences powered by Intel Core Ultra processors"
+    excerpt: "Geek Stream ▾ - Lenovo unveils new AI PC experiences powered by Intel Core Ultra processors - - Absolute Geeks"
+    publishedDateTime: 2023-12-15T08:24:00Z
+    webUrl: "https://www.absolutegeeks.com/article/geek-stream/lenovo-unveils-new-ai-pc-experiences-powered-by-intel-core-ultra-processors/"
+    type: article
+    provider:
+      name: absolutegeeks.com
+      domain: absolutegeeks.com
+    quality: 37
+    images:
+      - url: "https://www.absolutegeeks.com/wp-content/uploads/2023/12/lenovo.jpg"
+        width: 940
+        height: 773
+        isCached: true
+  - title: "Nvidia's AI Boom And The Ghost Of Cisco's Internet Bust"
+    excerpt: "Nvidia Corporation established dominance in AI advancements, where it already had a foothold in data center market. Find out why NVDA stock is a Sell."
+    publishedDateTime: 2023-12-18T13:45:00Z
+    webUrl: "https://seekingalpha.com/article/4658450-nvidia-nvda-ai-boom-and-ghost-of-cisco-internet-bust"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 37
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/949315604/image_949315604.jpg?io=getty-c-w1536"
+        width: 1536
+        height: 1024
         isCached: true
 
 secured: "mc3WVDRC6ncuhZbnE362zks2NQwwzHpLmnnG0E1bBLGctlb43dwuG37LRTzUZBOTiUYG5XbL0G07ZCkYgOYwKvv6qIquavYteFKCvRF8m5/tJ1t2DvVPvsdN421TVsqWrHw2ePn2rSlz4OyMqhyjjojkKeH1FOckAXf2nuTKVE7a0VQBsxww6QGe8vv4wf2drU+/MPh4ZBRIBOP+6tYo/aOpR17mlU9EHm9IQKdnW6JOSKf0Ar/YOAk9k/3avnTm1a7hHniAbl/HnxNRwYJKe1F6ma8SYmDV9NZf5xDU6HkHxHAAC6wN8THke62WCREmQ8/WUULjosn6HilHdNcbwjOIQAtpYPnaVz+uP7QQKsw=;qAFK6VHanemYSV/sZ4u7UA=="

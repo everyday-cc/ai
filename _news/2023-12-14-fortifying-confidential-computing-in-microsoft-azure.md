@@ -109,15 +109,6 @@ related:
       name: InfoWorld
       domain: infoworld.com
     quality: 64
-  - title: "Microsoft Copilot: tips and tricks for using AI in Windows"
-    excerpt: "Windows Copilot is a useful tool for augmenting your Windows experience, but with these tips and tricks you can make it even better."
-    publishedDateTime: 2023-12-13T19:19:00Z
-    webUrl: "https://www.digitaltrends.com/computing/tips-tricks-windows-copilot/"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 64
   - title: "OpenAI, Meta, Microsoft Chase Wearable AI"
     excerpt: "Next year’s artificial intelligence battle is coming into focus—and it’s all about glasses. As they release more powerful AI that can understand images and language, Meta Platforms, Google, Microsoft,"
     publishedDateTime: 2023-12-15T00:35:00Z

@@ -119,7 +119,16 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 28
+  - title: "Can an AI Chatbot Revolutionize Insulin Dosing?"
+    excerpt: "Study shows AI chatbot enhances insulin dosing for type 2 diabetes, improving glycemic control and reducing distress, marking a new era in diabetes management."
+    publishedDateTime: 2023-12-18T18:49:00Z
+    webUrl: "https://diatribe.org/can-ai-chatbot-revolutionize-insulin-dosing"
+    type: article
+    provider:
+      name: diaTribe
+      domain: diatribe.org
+    quality: 17
 
-secured: "vlAhNiKXMn4tLeuhK1p45m/H/+F4NpQdKeNCnkwijHf1oHpUlun4gUL/SKGwdwx72XK2Y5cMsH6GgIodywlaZMBUw9wRQfe4xs76f8ifQVyaoQef6mum4LAr07CMvBcpAOVmNx5vyrEIenq3AfNfJQrSZbQK6Vuc1XdR9U7c9vf6gH5D0a9QZ4uRqo9kbytbcmrpFM+J/j9TItqsTZ5ESWUx+d8CbLlKuVUFTFXT0jebjzW7d8fUOzsb0/OzrZvv7MGXrN5qbX7jFf9Ax2VQWdNVTOX17aN0oXAas9ffs5lDg6SHD5xVqXr50EK+nlCC1o3RgSMJOB1hgowWnzanBtVg6iPvGz9lQOMG3LLfT/0=;pvFZuPr9EjNMg/X17fsItg=="
+secured: "uvvCWRVxjm2bGp6bnWqkz+DIkmghkhB+EHswkgIJEYw8riU6LH6YOjSzrVVI4Oa9hbu7F8RF/CMKkbIRhO9cddmqijwflipa0IpWT9VjQTPN147WXBEeTSMW6pVkfWJy/DaWBVOZFXR2X8s6nG/w3pUA8DdwL6bFDeQfQFA8la679dCKKSjJFtGYvraOAHJlevjPTbf7ovODYpqIuX7HekNEyelbbHU76KbJ8UcW3gFk1DOOhpogVqRSfHTq634rnWSXOzm8rTqyyKlI0OxEetrJUC4L3f5veOjZaVnS0ju7iRjC3BJuE7j2gnwf3Z634bdyykJ/apOdAXWDWiFEfEnxsLFYeDR3RwsXoYkHvDjogemzAF1OKXi/+dl5nNKMi7S5PUvQLRuyTrN3LtcFJaILJ2MksczJxncqKIQi44UWPbeMM2+TQr8iBobCzdhLsbm6elqCkSp3csd4rwULcuRlPpM9QoI464JoXmF4Cwe3eNa8iIE7lhIXrsVku11gvhos/TW7YgllwvGE7WWigw==;1zBKTj41aZWxrMU4jahdIg=="
 ---
 

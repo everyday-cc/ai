@@ -31,22 +31,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 95
-  - title: "The AI Revolution in Therapy"
-    excerpt: "Artificial intelligence (AI) has proven to be a powerful tool in the world of behavioral health, already aiding in assessments and enhancing therapy. This transformative technology helps healthcare providers deliver true value in their behavioral ..."
-    publishedDateTime: 2023-12-18T17:11:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/leadership-diversity-and-wellness/202312/the-ai-revolution-in-therapy"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/leadership-diversity-and-wellness/202312/the-ai-revolution-in-therapy?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/leadership-diversity-and-wellness/202312/the-ai-revolution-in-therapy?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 74
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-12/pexels-pixabay-373543.jpg?itok=wBzUJjRQ"
-        width: 1528
-        height: 800
-        isCached: true
   - title: "Breathing new life into fight to save the seas with artificial intelligence"
     excerpt: "It’s hard to imagine our planet without its oceans – their vast scale and depth, teeming with life. They’re also critical to tackling the climate crisis by storing vast quantities of carbon dioxide. But securing and expanding their stores of carbon depends on us being able to locate those stores and assess how healthy they are."
     publishedDateTime: 2023-12-18T14:57:00Z
@@ -56,6 +40,15 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 45
+  - title: "The AI Revolution in Therapy"
+    excerpt: "Artificial intelligence (AI) has proven to be a powerful tool in the world of behavioral health, already aiding in assessments and enhancing therapy. This transformative technology helps healthcare providers deliver true value in their behavioral ..."
+    publishedDateTime: 2023-12-18T16:57:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/leadership-diversity-and-wellness/202312/the-ai-revolution-in-therapy"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 34
 
 secured: "4RhlLFhjP4PrMC+3joHsHYbk3LLFolyg1uv0HnaE811bG6ALNc8EDEVZeEnC7ecIDu2ObsbxqUcPWYYrxAjAdixHqQDv/HYvBjD4xoR5IPXKO1RNNihNpw8XHb/BTlBpXIldVIa/FBdhMPnxUE0eChRk69lUoqZYseDSmgOW8I6KU3lArBfnZSntGKtfZQOeHSvaOBImZ6Y/Vo6TJZRh8zGOAlC1SabYkZGMMgUxpW0BaBjkMqgFwf+ITy7/eVg9LXJWSv+glxdsP0dewwKthX4152cHIwNg8X6Dhs3bugY/+VCsDaQ2xiKbOz1hEtF8qQhNjoC/orwEmjgJt1hwpRoByiud1pEmq39L4fNj5IXCtAqa+Cqkypz/j0da2GgWBt4benVEHx0yqCadLl2S0wKFhWf92FyIMhBQpRyDF4aPM2AO9km8u9ugi+Zyj2Mw3YXudtn0LNflxpkCFhZZ1YY0CbbCuv4SJ+7K9ycjMtZJ9pfhEfRQjaxyZLiVCFqTRg3QpkragLM1eBwD8eEKcw==;cmRfEPWYuyQoy7JRZDK7tQ=="
 ---

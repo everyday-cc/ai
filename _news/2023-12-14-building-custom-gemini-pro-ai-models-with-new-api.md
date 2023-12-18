@@ -71,20 +71,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "What's new in AI this week? Google brings Gemini Pro to tons of new tools, and more"
-    excerpt: "Google was in the news a lot this week as it rolled Gemini Pro to even more tools, including one that makes building Gemini bots easier."
-    publishedDateTime: 2023-12-13T22:02:00Z
-    webUrl: "https://www.androidauthority.com/whats-new-in-ai-3394259/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 61
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/12/Gemini-Google-Logo.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Google’s fake Gemini AI features might become a reality on the Pixel 9"
     excerpt: "While we have no timeframe for when these advanced AI features might arrive, a pair of reports signals it might happen as soon as next year. The Pixel 9 might feature a brand new Pixie AI assistant that could be exclusive to Pixel phones. Additionally, Google is looking at using AI tech on smart glasses, just like Meta."
     publishedDateTime: 2023-12-15T17:23:00Z

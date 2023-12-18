@@ -26,48 +26,29 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI’s Ilya Sutskever Has a Plan for Keeping Super-Intelligent AI in Check"
-    excerpt: "A research paper released by OpenAI today touts results from experiments designed to test a way to let an inferior AI model guide the behavior of a much smarter one without making it less smart."
-    publishedDateTime: 2023-12-14T13:45:00Z
-    webUrl: "https://www.wired.com/story/openai-ilya-sutskever-ai-safety/"
+  - title: "OpenAI announces ‘Preparedness Framework’ to track and mitigate AI risks"
+    excerpt: "OpenAI seeks to reassure the public with new protocols to address AI's emerging risks after recent turmoil. But experts say the company still lags rival Anthropic in building safety into development."
+    publishedDateTime: 2023-12-18T21:52:00Z
+    webUrl: "https://venturebeat.com/ai/openai-announces-preparedness-framework-to-track-and-mitigate-ai-risks/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 66
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 68
     images:
-      - url: "https://media.wired.com/photos/657a4dc7d50c518000e43e90/191:100/w_1280,c_limit/OpenAI-Superalignment-Business-1554148483.jpg"
-        width: 1280
-        height: 670
+      - url: "https://venturebeat.com/wp-content/uploads/2023/12/nuneybits_Artificial_Intelligence_doomsday_edfe17ba-4015-4977-8da5-65f4220bddca-transformed.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 672
         isCached: true
-  - title: "OpenAI $10M grants for superhuman AI systems research now available"
-    excerpt: "OpenAI has recently announced the launch of a substantial $10M grant program, known as the Superalignment Fast Grants. This ambitious initiative is"
-    publishedDateTime: 2023-12-15T10:02:00Z
-    webUrl: "https://www.geeky-gadgets.com/superhuman-ai-systems/"
+  - title: "OpenAI announces second round of AI startup fund"
+    excerpt: "OpenAI has opened applications for the second cohort of its six-week program for artificial intelligence (AI) startups, Converge 2, through which it will invest $1 million into each of the 15 successful participants selected."
+    publishedDateTime: 2023-12-15T11:01:00Z
+    webUrl: "https://cointelegraph.com/news/open-ai-announces-second-round-ai-startup-fund"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/superhuman-AI-systems.jpg"
-        width: 1280
-        height: 717
-        isCached: true
-  - title: "OpenAI’s plan to prevent superintelligent AI from going rogue might actually work"
-    excerpt: "Ilya Sutskever has been working on superalignment at OpenAI, and the first results are promising - what it means for ChatGPT’s AGI future."
-    publishedDateTime: 2023-12-15T18:50:00Z
-    webUrl: "https://bgr.com/tech/openais-plan-to-prevent-superintelligent-ai-from-going-rogue-might-actually-work/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 32
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/11/openai-devday-2023-chatgpt-1.jpg?quality=82&strip=all"
-        width: 1600
-        height: 817
-        isCached: true
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 17
 
 secured: "ApEATUf+a0s+XkhoKiid5AalDMmzM4SMwB68YZZoCpnV4ZbpBx/ckecyu5BQ8GOHyDGsA5eSxXA6PIKYHumtCu6sdRKPKGAQ11pIARO+f1HlxH+nj+gxHnuDXMxLJC0RGcXUo24ZLA60CT3rmmNuCLbEnU3TpQ8EFQdurNxRncUfx64FEk7MnpOo8/7LDlf/hNuSehunddIHTcGsYXZHbQ4P0sz/9+sbN6+4UtVcgobT4FLPyqhOYcCi3pmXI2aLXbeHxzEvf7YN09jCAk5GOYi6AXGeYijHtZEA/PGtAwQyyqHq5iIdiUKjKL+KyWEZ4Jbo2ipokICBkIE8l6BVYjlOXdMB6Z1E+F98I13KrDj73sMweBrrWzlvDRzBatvUO4Te98IPeXsVBQul/XanlVU3/wqeBau39DZ9arT6XSAPo1dTekHJmJJTRwK6ehPII700MLvr1hgmWovBsNr5jXhTkf2l2KCw3axr5Abnt5pWGmulfvn5aYMj2MPaUhYBxyObO4HmPmbnCq/9tM2O6A==;LfiCEN27h/7khsO/SYLqXQ=="
 ---

@@ -2,13 +2,11 @@
 category: news
 title: "The AI Revolution in Therapy"
 excerpt: "Artificial intelligence (AI) has proven to be a powerful tool in the world of behavioral health, already aiding in assessments and enhancing therapy. This transformative technology helps healthcare providers deliver true value in their behavioral ..."
-publishedDateTime: 2023-12-18T17:11:00Z
-originalUrl: "https://www.psychologytoday.com/us/blog/leadership-diversity-and-wellness/202312/the-ai-revolution-in-therapy"
-webUrl: "https://www.psychologytoday.com/us/blog/leadership-diversity-and-wellness/202312/the-ai-revolution-in-therapy"
-ampWebUrl: "https://www.psychologytoday.com/us/blog/leadership-diversity-and-wellness/202312/the-ai-revolution-in-therapy?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/leadership-diversity-and-wellness/202312/the-ai-revolution-in-therapy?amp"
+publishedDateTime: 2023-12-18T16:57:00Z
+originalUrl: "https://www.psychologytoday.com/intl/blog/leadership-diversity-and-wellness/202312/the-ai-revolution-in-therapy"
+webUrl: "https://www.psychologytoday.com/intl/blog/leadership-diversity-and-wellness/202312/the-ai-revolution-in-therapy"
 type: article
-quality: 74
+quality: 34
 heat: -1
 published: false
 
@@ -19,12 +17,6 @@ provider:
 topics:
   - AI in Healthcare
   - AI
-
-images:
-  - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-12/pexels-pixabay-373543.jpg?itok=wBzUJjRQ"
-    width: 1528
-    height: 800
-    isCached: true
 
 related:
   - title: "5 things to know: Driving innovation with AI and hybrid cloud in the year ahead"
@@ -55,6 +47,6 @@ related:
       domain: reuters.com
     quality: 45
 
-secured: "qSYEtXwibSVAq1nTyQiw8mM3Rd+9ddswGlEs8WSDhgI5weW14mHZ91hcN1Q/vyYuYW75jDKSaqQZIdUGAjyzK5XCmv1yQ2Z1ZjnkG2N3Mnd5A9PlcwVlwBzi/3gN+kmOze9eZQ1ZAAba2v9IxlM6mxRpz8DVjoK8b6twa4pj10f0DUliOxAKq19YJqvaLFa0CpijZgJhmdxwuI/KLox3WyeVqgbfBBZKaKVhiVg64XDj4BXyZu+Rlpxuyj63kacy0nLtHUcLWfk/Rp+vWcLQXtaCH9wQh1884fXM92MENxZzu5FvhvXljGFdXQHBvEmvqYsXUIeKehLVKLcdg9aRBrEe9dxeWLc2zoTPUUdnv0Y=;WmwuFTReujLBO4BD7zWrDA=="
+secured: "x6m3LrxY62VyDb+dF3Svpn3KRIy2bXudHxdxmLroQbS2QSLjMxWaOu3DV3teyCVVgIxd6S7YxFZFUf6eylNzS1QsTKbnh/lwT2XCH3oT27WySlS8TRAKnEHGiDaLLcjrgcGbi1V2Rik5w3rMd1TPG9E0eJ+wNZqRkWyI6wcJ7RACp4vy4oeiDUbi0+rghdQDQ5MxkHYhdgmsTj5ErRYLhJv/6ndOBwr9FaKSN+xnM/GoLQPyyuPbl51NDN3J9wD1twN9uoWXkVkmMZnGcDY9qqNFO59AHdEaSu1Z0ZbfloKBGQG3ovkJfnHQ3gPPFTk4DY4qdHMQpEfI+e0VChRmi9hvAM6c1dviHa4hB3rGcCg=;F1rM7PmMBVZPgyKuayHWvg=="
 ---
 

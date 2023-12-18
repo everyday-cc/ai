@@ -56,6 +56,34 @@ related:
         width: 1500
         height: 857
         isCached: true
+  - title: "Intel announces a new AI chip to compete with Nvidia and AMD"
+    excerpt: "Intel Corporation unveiled the Gaudi3 accelerator on Thursday. It also announced Core Ultra and 5th gen Xeon server chip today."
+    publishedDateTime: 2023-12-14T17:25:00Z
+    webUrl: "https://invezz.com/news/2023/12/14/intel-new-ai-chip-compete-nvidia-amd/"
+    type: article
+    provider:
+      name: Invezz
+      domain: invezz.com
+    quality: 54
+    images:
+      - url: "https://invezz.com/wp-content/uploads/2023/08/108349122-m-normal-none-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "NVIDIA Launches China-Exclusive RTX 4090 D GPU Earlier Than Anticipated"
+    excerpt: "NVIDIAs China-Exclusive GeForce RTX 4090 D GPU appears to be making its way to players earlier than planned this month. NVIDIAs China-Exclusive GeForce RTX 4090 D GPU seems to be making its way to players earlier"
+    publishedDateTime: 2023-12-18T21:29:00Z
+    webUrl: "https://www.econotimes.com/NVIDIA-Launches-China-Exclusive-RTX-4090-D-GPU-Earlier-Than-Anticipated-1668176"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 39
+    images:
+      - url: "https://f1.econotimes.com/2023/12/y5nzm169rm_th_1024x0.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Samsung Galaxy Book 4 with Intel Power SoC & NVIDIA GeForce RTX 4070 GPU Launched"
     excerpt: "Korean giant, Samsung has finally launched its new premium laptop, the Galaxy Book 4 series powered with Intel Power CPU & NVIDIA GeForce RTX 407 GPU."
     publishedDateTime: 2023-12-15T12:09:00Z

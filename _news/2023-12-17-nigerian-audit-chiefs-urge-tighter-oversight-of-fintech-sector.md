@@ -100,15 +100,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Bank audit executives seek stricter regulation for fintech, BDCs"
-    excerpt: "ACAEBIN also called for stricter regulations of the fintech space as well as the operations of the Bureaux de Change."
-    publishedDateTime: 2023-12-13T19:08:00Z
-    webUrl: "https://punchng.com/bank-audit-executives-seek-stricter-regulation-for-fintech-bdcs/"
-    type: article
-    provider:
-      name: The Punch Newspapers
-      domain: punchng.com
-    quality: 19
 
 secured: "MyI+NGfH3BT/xmukqkJqR8rn4kegv/+06whNwSJ+tKaAnw6d21VnqjQKJfQRJtjmYH6GGtq/ob760RhERvLVLFeb0vmosXrRxTWzpaU7Jv2vvIieC9gqpYSViVckoX+UHDJ+sxaXrcBBWRxpDbi4/yxCyf/byvjYDafT+fzNBYace1U484wdbiwopyYgn1Z5IjoqN0Pa0UkfXRPg2z/2R86XCCEUqAU0pOvHQDNvhoC1Scgd++BcLbf+3xgSQlRajMuqziPdsVsua+K7r1erczRrGBVuKilkX4ICMPEGCnGKc6Lr5WMyJVsaDxJen3qXbC/UOAWNi5ymsTQKxPEqUQaknZaXVSYj9bZ1ztieDJ8nSdbm9hDJ9jDXnYSUuaDWzBaU0niKDdTVp0nsC8o9SvaAxal1VqoKlkH+QfK0mQ14sW47BAVVKxyQ9Ur4JB8NDXWV7+ST9nJvD5hP9IanXMGZ8TXXLu5dOGCzNMjpn+CEAeiEzbJOZwkOsGJxYa8kihKMgqSssdgSLfXdt9LFFA==;P/kPrFHp/dpg4qqcrxEb3Q=="
 ---

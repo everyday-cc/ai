@@ -55,6 +55,20 @@ related:
         width: 1500
         height: 857
         isCached: true
+  - title: "Intel announces a new AI chip to compete with Nvidia and AMD"
+    excerpt: "Intel Corporation unveiled the Gaudi3 accelerator on Thursday. It also announced Core Ultra and 5th gen Xeon server chip today."
+    publishedDateTime: 2023-12-14T17:25:00Z
+    webUrl: "https://invezz.com/news/2023/12/14/intel-new-ai-chip-compete-nvidia-amd/"
+    type: article
+    provider:
+      name: Invezz
+      domain: invezz.com
+    quality: 54
+    images:
+      - url: "https://invezz.com/wp-content/uploads/2023/08/108349122-m-normal-none-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Apple's M3 Max Outshines RTX 4090 in AI Speech Transcription Test"
     excerpt: "The M3 Max is Apples most powerful 3nm SoC developed for the Mac, with multi-core performance that outperforms the M2 Ultra and a 40-core GPU that can compete with a laptop RTX 4080. Despite these advancements,"
     publishedDateTime: 2023-12-15T01:53:00Z
@@ -66,6 +80,20 @@ related:
     quality: 41
     images:
       - url: "https://f1.econotimes.com/2023/12/gbem9k4h88_th_1024x0.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "NVIDIA Launches China-Exclusive RTX 4090 D GPU Earlier Than Anticipated"
+    excerpt: "NVIDIAs China-Exclusive GeForce RTX 4090 D GPU appears to be making its way to players earlier than planned this month. NVIDIAs China-Exclusive GeForce RTX 4090 D GPU seems to be making its way to players earlier"
+    publishedDateTime: 2023-12-18T21:29:00Z
+    webUrl: "https://www.econotimes.com/NVIDIA-Launches-China-Exclusive-RTX-4090-D-GPU-Earlier-Than-Anticipated-1668176"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 39
+    images:
+      - url: "https://f1.econotimes.com/2023/12/y5nzm169rm_th_1024x0.jpg"
         width: 1024
         height: 682
         isCached: true

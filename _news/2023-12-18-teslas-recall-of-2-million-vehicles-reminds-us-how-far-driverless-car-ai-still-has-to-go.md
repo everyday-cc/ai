@@ -7,7 +7,7 @@ originalUrl: "https://www.econotimes.com/Teslas-recall-of-2-million-vehicles-rem
 webUrl: "https://www.econotimes.com/Teslas-recall-of-2-million-vehicles-reminds-us-how-far-driverless-car-AI-still-has-to-go-1667962"
 type: article
 quality: 60
-heat: 82
+heat: 83
 published: true
 
 provider:

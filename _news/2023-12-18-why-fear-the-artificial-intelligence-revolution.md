@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/18/why-fear-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/18/why-fear-the-artificial-intelligence-revolution/amp/"
 type: article
 quality: 89
-heat: 161
+heat: 159
 published: true
 
 provider:

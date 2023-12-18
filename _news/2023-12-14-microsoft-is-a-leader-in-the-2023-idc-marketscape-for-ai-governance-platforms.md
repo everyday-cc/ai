@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/blog/microsoft-is-a-leader-in-th
 webUrl: "https://azure.microsoft.com/en-us/blog/microsoft-is-a-leader-in-the-2023-idc-marketscape-for-ai-governance-platforms/"
 type: article
 quality: 101
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -99,6 +99,15 @@ related:
         width: 975
         height: 548
         isCached: true
+  - title: "Microsoft Only Cloud Giant 'Leader' in AI Governance Research Report"
+    excerpt: "In fact, among the largest general cloud computing platforms, IBM is the only other player covered in the 'IDC MarketScape: Worldwide AI Governance Platforms 2023 Vendor Assessment,' with fellow hyperscalers AWS and Google Cloud Platform not included."
+    publishedDateTime: 2023-12-18T19:52:00Z
+    webUrl: "https://virtualizationreview.com/articles/2023/12/18/ai-governance.aspx"
+    type: article
+    provider:
+      name: Virtualization Review
+      domain: virtualizationreview.com
+    quality: 34
 
 secured: "gGHwLymCfq+FR8HOFmi/7xAeapgmHygYvKx9lQL9PPUijNasKX/ydrF5ky9xtvGMF06jIv/agX6EEYWcJNY1J+nuoIgMZGhp7Gc9ln1FIEcyG6fcnw2bZOOquMIkrFrQ8j7zQiusgkIgPDB14nclonXgO0+fge5SwoplMSojoh6xv0VJ5q8NfRUHLYsjRhwO/IvIhp6sm0BGrtJ9MVdApe4hNSrkBPpr1s1NRmbJGsO2cwy2H4drbt9K8JkHykK5A+p9cq6b6YBqjF9Hq4BsokHUeiXtthNUyGWoUyZ5BYVS2TicY4nOubqkxeSeQ47sZYeKzJNB1d90cJIwIl72Fka06kuB7ii8gFCpbbHhOeY=;YTGQEybD3Ouc/JFQDByj0Q=="
 ---
