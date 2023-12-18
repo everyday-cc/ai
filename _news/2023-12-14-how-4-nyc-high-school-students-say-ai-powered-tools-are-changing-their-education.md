@@ -36,20 +36,6 @@ related:
         width: 1201
         height: 900
         isCached: true
-  - title: "AI in Action: How to bring real-time decision-making to AI/ML"
-    excerpt: "Watch this online event, as Redpanda explores the shift from batch analytics to real-time decision-making for AI/ML use cases. They start by fostering a broad understanding of how to train and score a real-time model on streaming data, in contrast with ..."
-    publishedDateTime: 2023-12-13T00:40:00Z
-    webUrl: "https://techcrunch.com/sponsor/redpanda-organization/ai-in-action-how-to-bring-real-time-decision-making-to-ai-ml/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 84
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight.png?resize=1200,486"
-        width: 1200
-        height: 486
-        isCached: true
   - title: "PM Modi Announces New AI Mission To Boost Agriculture, Healthcare & Education"
     excerpt: "PM Narendra Modi has announced the launch of a new AI mission to promote apps in agriculture, healthcare and education sectors."
     publishedDateTime: 2023-12-13T04:27:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/audio/earbuds-airpods/samsungs-next-gala
 webUrl: "https://www.techradar.com/audio/earbuds-airpods/samsungs-next-galaxy-buds-might-offer-real-time-translation-using-ai-wunderbar"
 type: article
 quality: 63
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung Galaxy S24 Ultra will reportedly offer 2600 nit peak brightness"
-    excerpt: "Reportedly, Samsung is also improving the AI object recognition engine to improve its imaging capabilities in different lighting conditions. Gizmochina brings you the best of Chinese Tech from emerging smartphone companies, innovative startups, to crazy ..."
-    publishedDateTime: 2023-12-13T00:00:00Z
-    webUrl: "https://www.gizmochina.com/2023/12/13/samsung-galaxy-s24-ultra-2600-nit-peak-brightness/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 34
   - title: "Samsung’s Galaxy Buds 3 Pro could offer real-time language translation"
     excerpt: "These AI-powered earbuds will reportedly be capable of translating communication on a real-time basis. While we’ve seen earbuds with language translation features in the past, the Galaxy Buds 3 Pro might be able to do this without internet connectivity."
     publishedDateTime: 2023-12-14T17:15:00Z

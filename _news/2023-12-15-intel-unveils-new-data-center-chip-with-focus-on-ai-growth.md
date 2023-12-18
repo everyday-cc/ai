@@ -87,15 +87,6 @@ related:
         width: 1280
         height: 854
         isCached: true
-  - title: "Intel, CEO Pat Gelsinger take 'AI Everywhere' to Wall Street"
-    excerpt: "Advanced Micro Devices (Nasdaq: AMD), a longtime Intel server and laptop chip rival, is also aggressively pursuing AI-related business. AMD held an event last week called \"Advancing AI.\" While the view wasn't unanimous, one prominent technology analyst ..."
-    publishedDateTime: 2023-12-13T00:00:00Z
-    webUrl: "https://www.bizjournals.com/phoenix/news/2023/12/13/intel-takes-ai-everywhere-to-wall-street.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "N3rwIJsGe0sJMcmEIRGzb0aEbgdIinM8SVB25Sffu4zHpVr05dltPtciRon+ztaI67CnCdgYLd8TLF8ti/i2vjVCVIG7zZ8gT3bTMqLyrwSJlwq3+RmeHFlw64r6//OJnaGaU1tgEXW0umkS/wHKGo0S7KihJ3LzUe6XRzkK6pw63T1IKmlQLbhp7dqgh0dkWwAZA9m6RNJx8Ru9MY06XtgAYzF4iA4GyIeQfznLe9a7dTQ0vbhi8CxDxtx7jnW+GJP7Utf7lw2I8DXbjEoyPCbh7VSp47U+h2PkgeoHMMHSwhVXApEmUOVqaE6PIncBANgrbdY6eNI35EgRSEXj+ss3T3UVckExV2w3ueFvM19CppUKKEN9ztO9uf/6ltMVz0u+TJ5dBbctzct2554QEzVLT7+T/uJvikwf3uKUBeNh6+Ru4K9OWEp2XUgEpoDjfmc+B+h945S5qNFoQUax6DenwTIzqh8XXmXTdV7VHLgq5f+v4D0StoJ1aWQQ0jh+Iq3dWEYzX5tU77vrOfZusg==;XX6d0NV1D8EzZ8sU78EEtA=="
 ---

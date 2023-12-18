@@ -7,7 +7,7 @@ originalUrl: "https://www.blackenterprise.com/diversity-artificial-intelligence-
 webUrl: "https://www.blackenterprise.com/diversity-artificial-intelligence-equitable/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 2309
     height: 1299
     isCached: true
+
+related:
+  - title: "Flexible Business Loans Could Help SMEs Invest in AI Early"
+    excerpt: "Australian SMEs are investing in AI technology at a rapid pace to help boost productivity and fight inflation - and Liberty has innovative"
+    publishedDateTime: 2023-12-17T23:54:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/flexible-business-loans-could-help-smes-invest-in-ai-early-1032907188"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "MxOC2f4X/qhnATynpAjxVYVhNJyQuJmXQ1u7XLwCp2/CjFUYdYnQgBejMPYWwtFmoFGJLvIt9s1DbyB68eFYWLtRI8JkWvBdHvBNRD+jm0SHdEmmiB0rxh9t5VveBt2nCvKncjHmmJE03GZcv+d85BiczH+xyXaybiV1QSfjKRkrc+R5XaeWr+UJpHl3rJFGTFr4T6JlULo2po77vB2L5YsBYOpYlzAK4+C1OFW6MXAmNAxZ5J2gNstePrOI6k4E2s0TLKrJKrAztQ5LYZfiP3+fIS0cd/zdZQmS47n0vCz2A105A1Zjvv75fYBwjFbPmFluOjIBhpEgTrrITXkx2xHRRbfy8fUGcMTSq6izJ03B6Y7+8uYPsSC3SivvSJ7b4quFiElbsAdPzaIAETayKBF2MRhDVVsbk+16vTGSjjdabRGjL2P8mGlIGbqdSespsL28aized8Zvo0hBgy8wyQqh1cf7B1dod4U0j+XeruQJptxxHMe2FIwybG4jfLuRrb7e1Qu2+wiXA4H+yLv1HA==;4o/VZD/FVY8OeegpJTS8mQ=="
 ---

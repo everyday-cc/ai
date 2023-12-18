@@ -44,20 +44,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 37
-  - title: "Samsung Galaxy Buds 3 Pro Will Offer Live Language Translation Powered With AI"
-    excerpt: "Samsung is actively developing the highly anticipated Galaxy Buds 3 Pro, touted to feature built-in on-device artificial intelligence (AI).  Set to hit shelves in late 2024, these next-generation earbuds are expected to elevate user experiences with native AI capabilities,"
-    publishedDateTime: 2023-12-13T00:11:00Z
-    webUrl: "https://trak.in/stories/samsung-galaxy-buds-3-pro-will-offer-live-language-translation-powered-with-ai/"
-    type: article
-    provider:
-      name: Trak.in - India Business Blog
-      domain: trak.in
-    quality: 35
-    images:
-      - url: "https://trak.in/stories/wp-content/uploads/2023/12/ify-1-5.png"
-        width: 1000
-        height: 465
-        isCached: true
 
 secured: "fdqiSCX4kCfi0/qddzqsNVbRFhyi1Ro8cc2WI3Hrn4Ku1B/Y5oJFct/sZ56Qo2ynW4GMMltaJ5l/hXJwPHl/gOPPymDwQJVvNH4b7YEemv/gqMIT3R6Mx7j8bla1Wiuuho9ZhBMzLBlTP7oEBjoT4h0DZf/Lv5vwMkuafyVy5lgGf0l+WcjnuQRvvFgLycnCXTvHcuKubxAlIp32VC/idAYUZN/08TiR4VJNNiMSmucOHCS9G1aP1zISzSxxUw8Tnyo9NEiM6d/4BkQqIArrQnukfNGmGWsNGlkzIV+GQXMU5MSPwWfhSxaA3s5ffWyV8bhy2RS/n7Dr2GlTYns626rWpOhMlGMy5JPyGWPnsRL+z/56wUgw4h3XTHjI3pzLr0ar49v+jnp+cwXjmlKZWB2XhE/iGz6Lx9eSqjTZpitzu3wB7OTD0G5h59UtAVW59o+lQtT5TWsCAs++UVZ3sqXvLbvbS2kupnJ4Y+0mJbR564Jr7kzg7RO66VwExQGh28tNc+HNYC8aREOmpEjUwg==;d8NjluinJGCzH7Pkcrz7hw=="
 ---

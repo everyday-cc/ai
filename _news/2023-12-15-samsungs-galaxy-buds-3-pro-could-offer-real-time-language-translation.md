@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Samsung Galaxy S24 Ultra will reportedly offer 2600 nit peak brightness"
-    excerpt: "Reportedly, Samsung is also improving the AI object recognition engine to improve its imaging capabilities in different lighting conditions. Gizmochina brings you the best of Chinese Tech from emerging smartphone companies, innovative startups, to crazy ..."
-    publishedDateTime: 2023-12-13T00:00:00Z
-    webUrl: "https://www.gizmochina.com/2023/12/13/samsung-galaxy-s24-ultra-2600-nit-peak-brightness/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 34
   - title: "Samsung Galaxy Buds 3 Pro leak reveals real-time translation feature — and you don't even need the cloud to speak to people in another language"
     excerpt: "According to a report by South Korea's Maeil Business Newspaper, Samsung's next-gen Galaxy Buds Pro 3 wireless earbuds could come with real-time language translations thanks to their powerful on-device AI capabilities."
     publishedDateTime: 2023-12-14T15:17:00Z

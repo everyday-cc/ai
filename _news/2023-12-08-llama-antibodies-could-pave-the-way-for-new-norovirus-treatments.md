@@ -3,12 +3,9 @@ category: news
 title: "Llama Antibodies Could Pave the Way for New Norovirus Treatments"
 excerpt: "Tiny llama antibodies, called nanobodies, have been shown to effectively neutralize human noroviruses in the lab, revealing that they could be developed into a therapeutic agent."
 publishedDateTime: 2023-12-08T10:33:00Z
-originalUrl: "https://www.technologynetworks.com/immunology/news/llama-antibodies-could-pave-the-way-for-new-norovirus-treatments-381824"
-webUrl: "https://www.technologynetworks.com/immunology/news/llama-antibodies-could-pave-the-way-for-new-norovirus-treatments-381824"
+originalUrl: "https://www.technologynetworks.com/tn/news/llama-antibodies-could-pave-the-way-for-new-norovirus-treatments-381824"
+webUrl: "https://www.technologynetworks.com/tn/news/llama-antibodies-could-pave-the-way-for-new-norovirus-treatments-381824"
 type: article
-quality: 24
-heat: 24
-published: false
 
 provider:
   name: technologynetworks
@@ -24,17 +21,6 @@ images:
     height: 360
     isCached: true
 
-related:
-  - title: "Tiny llama nanobodies neutralize different noroviruses: Can they improve human anti-viral therapies?"
-    excerpt: "Researchers investigated a novel strategy to neutralize human noroviruses. They tested the ability of tiny antibodies produced by llamas, called nanobodies, to effectively neutralize human norovirus infection in the lab."
-    publishedDateTime: 2023-12-10T02:05:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/12/231207160851.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 19
-
-secured: "92tOT/roLw7818h6uAv0dj9W/NJDQeccFuTpWe0/ZEoRU4sqKsjTUldGU0rmxue3tBaQZnzKeFQ+DEfLcaAOWgjgaq1JjuEL5VNifXQrhQ0ARsIB6oUkv3r5lbqYWefqus1bUG1/tMiI5WIrzI7AVnNWDzFE70I9dT3UGlD+j0jJr6hQ0BsehFaeV+3YxTD7ysfOnipb+On0g2boG3CTINg4RxZxgbAzN/FZEwMW0D92//K6eSIOL30mY2UJZrLhu01BCrQUPM7MvIfuHXDchvU5YigI28O+dirY6qCRcE9bxJeoUYTLkdQ2ZypVi0dtZ5NCpuN9N2eMUyBVVI+VoOyvQpjL6ZgkJpDTDFGr4hjvG0p0PTe/+7mIk2HlybBjNKwiIp3Dn/jT7QnldRBXMgcDV0B/vqtTU9Wv/ud2KEaRaA0zJOT4XgVQ7eDTM7cymVgwAfEnfPFe4LBfqUJx+vtov4co+f2bYwIuQIy9/wyqxrLNmeUNiEoQlBl1TqmRHbgo/obqpV0ovp00LfudWQ==;N+ALDL1XETCuT/D6Qp7bAA=="
+secured: "rCaXeI276xaFqoWElSzC495lA7Vgw40qV5AJixqWskh6tmaZAmGkom5/9umWco/J559mj3d1sPwmFCtvPS/xk/8W2Vb5CIbGuY9QKIefpxQQ4gN0eW1h0+6ldHJ0dLJYQhf80lGtqs6LdsvLBOE2gJHdvkolgYPKkgFodWQgPg/q30QvoBlo1gXyEFz5NuA9tkUYkizVChrtsQYbohWYuCYrXIgALo+/qisasd+8nMe8wTqQk/m8aubYnAceGlNcITozQQdyRdW/zC+E/wCI3TWqWPZFTN6oUOpJ/d8S1tE7D2RKoldbfOJGg5evX3dmzMCUXaUkXiXy19bITqSMQ1IjeTCz1j4GDv++WZIeQWo=;tGo/k7hWSie8uYJFPEBXmQ=="
 ---
 

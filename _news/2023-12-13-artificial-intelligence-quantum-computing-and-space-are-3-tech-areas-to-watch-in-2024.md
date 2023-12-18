@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/chuckbrooks/2023/12/12/artificial-intel
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chuckbrooks/2023/12/12/artificial-intelligence-quantum-computing-and-space-are-3-tech-areas-to-watch-in-2024/amp/"
 type: article
 quality: 79
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "7 Things That Made Fintech A Promising Sector In 2023"
-    excerpt: "Regulatory initiatives like UPI credit and card on file tokenization, alongside the adoption of emerging technologies such as Gen AI, Quantum Computing, and Blockchain, continued to reshape fintech landscape this year too. \"These advancements are driving ..."
-    publishedDateTime: 2023-12-13T00:00:00Z
-    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/7-things-that-made-fintech-a-promising-sector-in-2023/466876"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 54
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1702453326-Yourparagraphtext9.jpg?format=pjeg&auto=webp"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "VCs say 2024 tech trends to watch include more startup shutdowns, a defense-tech renaissance, and the rise of AI winners"
     excerpt: "Top venture capitalists predict 2024's tech trends, from hot sectors they're eyeing, the hype that will fizzle, and the new realities of fundraising."
     publishedDateTime: 2023-12-14T10:00:00Z

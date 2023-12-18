@@ -133,6 +133,15 @@ related:
         width: 613
         height: 400
         isCached: true
+  - title: "Using AI-related technologies can significantly enhance human cognition"
+    excerpt: "Dr Elena Davitti, Associate Professor at CTS and Principal Investigator of the project said: “The language industry, marked by the rapid growth of AI-related technologies like automatic speech recognition and machine translation, has seen an increased ..."
+    publishedDateTime: 2023-12-18T00:00:00Z
+    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=64274.php"
+    type: article
+    provider:
+      name: Nanowerk
+      domain: nanowerk.com
+    quality: 19
   - title: "Using AI-related technologies can significantly enhance human cognition, finds new study"
     excerpt: "Language professionals such as interpreters, translators and subtitlers should not fear artificial intelligence (AI), as training in new forms of real-time human-AI interaction (HAII) can increase their working memory and task-switching abilities, according to new research from the University of Surrey’s Centre for Translation Studies (CTS) and the"
     publishedDateTime: 2023-12-17T17:19:00Z
@@ -142,15 +151,6 @@ related:
       name: University of Surrey
       domain: surrey.ac.uk
     quality: 10
-  - title: "Energy Artificial Intelligence Technology Office’s work transferred to other agency subgroups"
-    excerpt: "The Department of Energy has dissolved its Artificial Intelligence Technology Office and transferred much of its work to its Office of Science and the Office of the Chief Information Officer, an agency spokesperson confirmed to FedScoop. The update came ..."
-    publishedDateTime: 2023-12-13T00:00:00Z
-    webUrl: "https://fedscoop.com/energy-artificial-intelligence-technology-offices-work-transferred-to-other-agency-subgroups/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 6
 
 secured: "qbuUSDPTPRUP4ROninlBj0VdNRiSMFfE3izwc0tBBMl+HSmg/jesd1z+2yMhl89oM2bIny59DW+eVutIKTxNRjqQ82/7vvddvf9Eu89hyxsRzO6XV8uh+4odEAd3xveA81xE4f8WpsRdKozLiuoDSEFGtVJtrlzQWKkTP+Htsm/UrPG9dot5xLZv0QB1/crKetQ6Llv9kIt3sLnHK0WsMNZxwW+c2a3gIG6iJHuRxr54nQa6mE6T/2cq58nbsGHBTlKG1s9LRt6wM+G3wYiKZhKsx817pP/1GJynt/Kf54TNKHkYfqRV4WQ+TIOH9xe4yG6KVsWj5ajtO39aS/HUJzzCGUMW7tRHZktHhjTNX0vl2up1uZE45c7sKnzpiEYsdCVumhJIk7RF+LTuU/WfAo9hEv/1fehKhNZVyv3OP85g+wPawIBfWZSeLnluN1LVN+3vyGmOdIGgErhyxV5RTuXxHku29ciE048voIuIlDGcvJOlPQFHLktZkvS3vvrmGtbpKcRUvfsT/tfuPHz5WQ==;BBnziq64mq52ZQSczK5hNg=="
 ---

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Undersea-Robot Startup Founded by NASA Engineer Ejects CLO"
-excerpt: "The chief legal and administrative officer for an undersea robotics company founded by a NASA robotics engineer is one of two executives the company recently dismissed, according to a regulatory filing."
+excerpt: "Nauticus was founded in 2014 by Nic Radford, who left NASA that year as principal investigator for the Dexterous Robotics Lab at Johnson Space Center. He’d joined the agency in 2006, becoming deputy project manager and chief engineer of NASA’s humanoid space robot “Robonaut2.”"
 publishedDateTime: 2023-12-05T21:37:00Z
-originalUrl: "https://www.law.com/texaslawyer/2023/12/04/undersea-robot-startup-founded-by-nasa-engineer-terminates-clo/"
-webUrl: "https://www.law.com/texaslawyer/2023/12/04/undersea-robot-startup-founded-by-nasa-engineer-terminates-clo/"
+originalUrl: "https://www.law.com/corpcounsel/2023/12/04/undersea-robot-startup-founded-by-nasa-engineer-terminates-clo/"
+webUrl: "https://www.law.com/corpcounsel/2023/12/04/undersea-robot-startup-founded-by-nasa-engineer-terminates-clo/"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 633
     isCached: true
 
-secured: "vX/nu6UoV3mT1J0P44/x2R5SFVd4r3fIF5cwY1Bn4XfPcPTQfUN8c5QeXA2uiqtCOJXZ0aNtLrWoiFDgbsfgo4jRj+k1Y49OcO56Rwk+0CZBaDqHj/uyn7g3ZKeaPaaejX1RTL9C5gL8sjfrhwwR25fTaWBdn2Zz3nDcc7ib3NjjSO7uGdJ1JQYIuGWZtaVN+tvFR5+zLlA48zt+aTz62fmGag/RFUlJnAnfLfU5WNqwkWIECQ/9ADoNe0MtaTJ9WqNfJf+oqOPQAcqG8w7bwR9+XB/ryWIuhWgmdX3mmlktneU2siW2xY543B9oqKtJuNRNh4PBMmCz5J4sgUwH+RXRt2XMl8zK3B5N2y+xlK327QhtYE1cRZuiYyiG2IZlXapxgYvoZYxQUbGZa0pN4GJXR/V9/avrDgbdCngbVLRCR6Mi3UCBpuFp9+4id6p/Zr9rxbiDpjA2LEekKTed4QMsGUvRiK+QGBb9AyFqejyzanb6hu6TsZLxXEUE9HCR5LhO8isJYSb8KWd1XeVTjA==;Y+xwfrbpSungAlqkw5pFlQ=="
+secured: "7bes83/8jfqbfj7BYMPJY46OwhCIngYOArdHjouAMhr0CN4uRs+ndq1j+Cmd6OwsWq7ybsVd/PKZav/j72WtGckALDlHP7WgTGv483WsrJS7wUjHy7pWfTHmdCQHx/Ihdz9xocMlMZjjpQOzQYu+jfy36RVIWCGyh7CqFVm3m/sb7KukEsEXa0b3BYAJC+nlnDaDYhfrZRxmftez/wpBc+rVqG8ufwAFDDhayI+xhNLPsDGVYNIYDePSABHkC8LZw5p2YlEerkWWF21KkVvD0U+U+n5X3Z+JqeB1nJfumwY2BoRu6jVzNQd+63VXgEreSceXBF7xePb1u4/YX+6m3GSr9zbdVtjhJO+JqxFLOS0=;9fs7kjC9SRTKnnTpRr33jA=="
 ---
 

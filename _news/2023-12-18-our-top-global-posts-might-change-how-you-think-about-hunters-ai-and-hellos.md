@@ -2,22 +2,27 @@
 category: news
 title: "Our top global posts might change how you think about hunters, AI and hellos"
 excerpt: "Our most popular global stories of 2023 offer insights into the stereotypes of male hunters/female gatherers, the biases of AI, the best way to end poverty and the impact of a stranger's greeting."
-publishedDateTime: 2023-12-17T18:16:00Z
-originalUrl: "https://www.wbur.org/npr/1219187005/our-top-global-posts-might-change-how-you-think-about-hunters-ai-and-hellos"
-webUrl: "https://www.wbur.org/npr/1219187005/our-top-global-posts-might-change-how-you-think-about-hunters-ai-and-hellos"
+publishedDateTime: 2023-12-17T17:44:00Z
+originalUrl: "https://www.npr.org/sections/goatsandsoda/2023/12/17/1219187005/our-top-global-posts-might-change-how-you-think-about-hunters-ai-and-hellos"
+webUrl: "https://www.npr.org/sections/goatsandsoda/2023/12/17/1219187005/our-top-global-posts-might-change-how-you-think-about-hunters-ai-and-hellos"
 type: article
-quality: 16
-heat: 16
+quality: 34
+heat: 34
 published: false
 
 provider:
-  name: WBUR
-  domain: wbur.org
+  name: NPR
+  domain: npr.org
 
 topics:
-  - Meta AI
   - AI
 
-secured: "Cpe7gcu3WXRvhLWjulAcXcn3KHI4sVWT5A1ExQln1PVUW79RBF7NjWz0r6rZWE78hshUGv9ciX2OzvnSmqs4ypsviD6lQ6QOYxXhyLcqFN5FPPuhNk2wZfaashCzaDHjmV/sks5KPWU5wkj+YffeUN0rBfw3r/CqOjM0n4tHSsvjRPjKHnATBYPH/fFrPxS6+lbPpq5mPT5fZ7ZX5OtqnooTuBGz1l3LXj2bTpiMz7FLon5ouryk81aG8lHpi+kxKHd3dK6FABTd5Kf69W624i+LVEUr9yvwdmlsev2562PsUFyWitnryqfXVu7af8rCtVwIojf2NOAHAOoBGLDkls+y7hZ9SVI9NprikUvxtHFZwq2KvRiqAYU/VkBKS0STBDdRi5lP5qPV7Hk7TBW+v7+w0Jk8hRuSVUApJpIRXMPtFzDHi2/CrTDnTXxcpuP6sZmADRE31PjIhFOUmWJZCCxrvVL8a3cSnoy+zF/wLFRpnyT1BkOJMTwENu2+C7RNP+gEd8ixfyDm0ppI4s4Sng==;CRv8cW21aGywJ5vSnO6jcw=="
+images:
+  - url: "https://media.npr.org/assets/img/2023/12/15/topglobalposts_tryptich_final_16x9_wide-700e58b6505c64b7290b27be7dcf60ace904d671-s1400-c100.jpg"
+    width: 1400
+    height: 787
+    isCached: true
+
+secured: "FjOu3H78qlX28NGhqguTZbQZnEeT7ktVoub3d0x2wn+pBaUbyYr4ZGRUqLutMOACFepHzG/PhgYkRgxXimoS16ThpE3IzTnHWokLYRRQQZ4uGKJCzZJVDmDbrrf8vcVY9lmyD8HBtVjafMjQvvfVYfk20dRbsAwj1/twRrCoC+2K7EgGxhk6tI/TXPlB/kzq5msSwqaYtLJ+e05CptRFhnKmGYbhg2XHD8b5QObL8flcXpRzSrmOrjYNLkialyR7riltDZMyZZ6w/NkG18XCLjhI7QIJnMWwkLQlMF+8bEZbSBfHgYDKLJV5hHGLym1a0gFkRHIufCqt9Q6pDcYw6jzvhEcUkbVpJBWrgYsqprI=;AmmVfV3RpzJ2sXxNGm1b7Q=="
 ---
 

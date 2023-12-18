@@ -133,15 +133,15 @@ related:
         width: 613
         height: 400
         isCached: true
-  - title: "Energy Artificial Intelligence Technology Office’s work transferred to other agency subgroups"
-    excerpt: "The Department of Energy has dissolved its Artificial Intelligence Technology Office and transferred much of its work to its Office of Science and the Office of the Chief Information Officer, an agency spokesperson confirmed to FedScoop. The update came ..."
-    publishedDateTime: 2023-12-13T00:00:00Z
-    webUrl: "https://fedscoop.com/energy-artificial-intelligence-technology-offices-work-transferred-to-other-agency-subgroups/"
+  - title: "Using AI-related technologies can significantly enhance human cognition"
+    excerpt: "Dr Elena Davitti, Associate Professor at CTS and Principal Investigator of the project said: “The language industry, marked by the rapid growth of AI-related technologies like automatic speech recognition and machine translation, has seen an increased ..."
+    publishedDateTime: 2023-12-18T00:00:00Z
+    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=64274.php"
     type: article
     provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 6
+      name: Nanowerk
+      domain: nanowerk.com
+    quality: 19
   - title: "Is Live Facial Recognition technology necessary and proportionate? Police forces defend scanning hundreds of thousands faces a year"
     excerpt: "South Wales Police and London’s Metropolitan Police Service argue that the safety benefits are outweighed by the privacy concerns."
     publishedDateTime: 2023-12-13T14:21:00Z

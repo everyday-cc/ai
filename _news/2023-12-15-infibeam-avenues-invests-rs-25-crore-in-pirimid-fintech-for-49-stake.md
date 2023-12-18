@@ -25,86 +25,98 @@ images:
     isCached: true
 
 related:
-  - title: "M2P Fintech acquires Goals101 in a cash-and-equity deal worth Rs 250 crore"
-    excerpt: "Through the Goals101 platform on M2P, fintechs and banks can now have the tools which will help them maximise consumer spends and increase usage of their products,” he said i"
-    publishedDateTime: 2023-12-13T00:31:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/startups/m2p-fintech-acquires-goals101-in-a-cash-and-equity-deal-worth-rs-250-crore/articleshow/105940711.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/startups/m2p-fintech-acquires-goals101-in-a-cash-and-equity-deal-worth-rs-250-crore/amp_articleshow/105940711.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/m2p-fintech-acquires-goals101-in-a-cash-and-equity-deal-worth-rs-250-crore/amp_articleshow/105940711.cms"
+  - title: "Infibeam Avenues buys 49% in Pirimid Fintech to enter market tech space, shares zoom 7%"
+    excerpt: "Infibeam Avenues Ltd, which processed transaction worth US$54 billion in FY23, expects to witness an increase in its payment processing business through this strategic investment."
+    publishedDateTime: 2023-12-15T05:04:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/markets/infibeam-avenues-buys-49-in-pirimid-fintech-to-enter-market-tech-space-shares-zoom-7-11908641.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/markets/infibeam-avenues-buys-49-in-pirimid-fintech-to-enter-market-tech-space-shares-zoom-7-11908641.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/markets/infibeam-avenues-buys-49-in-pirimid-fintech-to-enter-market-tech-space-shares-zoom-7-11908641.html/amp"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 42
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 36
     images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1279000,msid-105940732/from-left-to-right-madhusudanan-r-visham-sikand-and-milan-naik.jpg"
-        width: 600
-        height: 450
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/12/Sensex_up_higher-5.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "M2P Fintech acquires transaction behavioural intelligence pioneer, Goals101"
-    excerpt: "M2P Fintech, Asia’s largest Digital Banking Infrastructure company that powers the digital ambitions of banks, lenders, fintech and other financial service.."
-    publishedDateTime: 2023-12-13T17:56:00Z
-    webUrl: "https://www.khaleejtimes.com/business/tech/m2p-fintech-acquires-transaction-behavioural-intelligence-pioneer-goals101"
-    ampWebUrl: "https://www.khaleejtimes.com/business/tech/m2p-fintech-acquires-transaction-behavioural-intelligence-pioneer-goals101?amp=1"
-    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/business/tech/m2p-fintech-acquires-transaction-behavioural-intelligence-pioneer-goals101?amp=1"
+  - title: "Infibeam Avenues stock hits a 52-week high after fintech firm acquires 49% stake in Pirimid Fintech"
+    excerpt: "Infibeam Avenues on Thursday announced its strategic foray into capital markets and digital lending software market by acquiring a significant 49 per cent equity stake in Pirimid Fintech. The deal is worth Rs 25 crore."
+    publishedDateTime: 2023-12-15T05:26:00Z
+    webUrl: "https://www.zeebiz.com/markets/stocks/news-infibeam-avenues-stock-hits-a-52-week-high-after-fintech-firm-acquires-49-stake-in-pirimid-fintech-bse-nse-infibeam-avenues-share-price-268909"
+    ampWebUrl: "https://www.zeebiz.com/markets/stocks/news-infibeam-avenues-stock-hits-a-52-week-high-after-fintech-firm-acquires-49-stake-in-pirimid-fintech-bse-nse-infibeam-avenues-share-price-268909/amp"
+    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/markets/stocks/news-infibeam-avenues-stock-hits-a-52-week-high-after-fintech-firm-acquires-49-stake-in-pirimid-fintech-bse-nse-infibeam-avenues-share-price-268909/amp"
     type: article
     provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 42
+      name: Zee Business
+      domain: zeebiz.com
+    quality: 30
     images:
-      - url: "https://image.khaleejtimes.com?uuid=4b11fdfa-31fa-5435-bf7d-9bb07be34333&function=cropresize&type=preview&source=false&q=75&crop_w=0.62625&crop_h=0.99999&width=1200&height=675&x=0.17125&y=1.0E-5.jpg"
-        width: 1200
-        height: 675
+      - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2023/12/15/272760?itok=7r8eOnVy"
+        width: 700
+        height: 394
         isCached: true
-  - title: "M2P Fintech acquires Goals101 for data-driven personalisation in digital banking"
-    excerpt: "Madhusudanan R, CEO and Co-founder of M2P Fintech, stated that the global banking technology landscape is experiencing a significant transformation, particularly in utilising data and AI across key areas such as customer service, product and portfolio ..."
-    publishedDateTime: 2023-12-13T08:04:00Z
-    webUrl: "https://yourstory.com/2023/12/m2p-fintech-acquires-goals101-personalisation-digital-banking"
+  - title: "Infibeam Avenues picks up 49% stake in Ahmedabad-based Pirimid Fintech"
+    excerpt: "The partnership aims to combine Infibeam's digital payments and AI-based frameworks with Pirimid Fintech's capital market trading software for its clients nationwide and globally"
+    publishedDateTime: 2023-12-14T12:01:00Z
+    webUrl: "https://www.business-standard.com/companies/news/infibeam-avenues-picks-up-49-stake-in-ahmedabad-based-pirimid-fintech-123121400853_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/companies/news/infibeam-avenues-picks-up-49-stake-in-ahmedabad-based-pirimid-fintech-123121400853_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/companies/news/infibeam-avenues-picks-up-49-stake-in-ahmedabad-based-pirimid-fintech-123121400853_1.html"
     type: article
     provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 34
-    images:
-      - url: "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/M2P-1634035498846.png?fm=png&auto=format"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "M2P Fintech acquires India's Goals101"
-    excerpt: "M2P Fintech, Asia’s largest Digital Banking Infrastructure company that powers the digital ambitions of banks, lenders, fintech and other financial services players today announced the multi-million-dollar acquisition of Goals101,"
-    publishedDateTime: 2023-12-13T10:03:00Z
-    webUrl: "https://www.finextra.com/pressarticle/99116/m2p-fintech-acquires-indias-goals101"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
+      name: Business Standard
+      domain: business-standard.com
     quality: 24
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
-  - title: "M2P Fintech Takes Over Nexus Ventures-Backed Goals101 For $30 Mn"
-    excerpt: "Chennai-based B2B fintech startup M2P has bought big data analytics and intelligence platform Goals101 in a cash-and-equity deal."
-    publishedDateTime: 2023-12-13T07:02:00Z
-    webUrl: "https://inc42.com/buzz/m2p-fintech-takes-over-nexus-ventures-backed-goals101-for-30-mn/"
-    ampWebUrl: "https://inc42.com/buzz/m2p-fintech-takes-over-nexus-ventures-backed-goals101-for-30-mn/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/m2p-fintech-takes-over-nexus-ventures-backed-goals101-for-30-mn/amp/"
+  - title: "Infibeam Avenues acquires 49% stake in Pirimid Fintech, shares up"
+    excerpt: "Infibeam Avenues Ltd's shares rose 6.51% after investing Rs 25 crore in Pirimid Fintech to leverage capital markets tech & digital lending."
+    publishedDateTime: 2023-12-15T04:56:00Z
+    webUrl: "https://www.thehindubusinessline.com/markets/infibeam-avenues-acquires-49-stake-in-pirimid-fintech-shares-up/article67640745.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/markets/infibeam-avenues-acquires-49-stake-in-pirimid-fintech-shares-up/article67640745.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/markets/infibeam-avenues-acquires-49-stake-in-pirimid-fintech-shares-up/article67640745.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 24
+  - title: "Infibeam Avenues Acquires 49% Stake In Pirimid Fintech To Foray Into Capital Markets Space"
+    excerpt: "Fintech company Infibeam Avenues has bought a 49% stake in Ahmedabad-based Pirimid Fintech for INR 25 Cr ($3 Mn) to strengthen its foothold in the fintech ecosystem."
+    publishedDateTime: 2023-12-14T15:49:00Z
+    webUrl: "https://inc42.com/buzz/infibeam-avenues-acquires-49-stake-in-pirimid-fintech-to-foray-into-capital-markets-space/"
+    ampWebUrl: "https://inc42.com/buzz/infibeam-avenues-acquires-49-stake-in-pirimid-fintech-to-foray-into-capital-markets-space/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/infibeam-avenues-acquires-49-stake-in-pirimid-fintech-to-foray-into-capital-markets-space/amp/"
     type: article
     provider:
       name: inc42
       domain: inc42.com
-    quality: 24
-  - title: "M2P Fintech Acquires Transaction Behavioural Intelligence Pioneer, Goals101"
-    excerpt: "Madhusudanan R, Co-Founder and CEO of M2P Fintech, commented,“The global banking technology space is undergoing a tectonic shift with respect to leveraging data and AI in the most prominent areas like Customer service, Product and Portfolio management ..."
-    publishedDateTime: 2023-12-13T15:24:00Z
-    webUrl: "https://menafn.com/1107590693/M2P-Fintech-Acquires-Transaction-Behavioural-Intelligence-Pioneer-Goals101"
+    quality: 14
+  - title: "Sanlam Fintech Cluster Assembles Global Talent For Executive Team"
+    excerpt: "Sanlam, the largest non-banking financial services group in Africa, has recently launched its cutting-edge fintech business cluster. Led by a globally competitive exco team, Sanlam Fintech represents a strategic move within the Sanlam Group to expand its existing fintech offerings and ensure that all aspects of the $8-billion (R143-billion) listed corporation's services are digitally-driven."
+    publishedDateTime: 2023-12-13T14:05:00Z
+    webUrl: "https://techfinancials.co.za/2023/12/13/sanlam-fintech-cluster-assembles-global-talent-for-executive-team/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 2
+      name: techfinancials
+      domain: techfinancials.co.za
+    quality: 4
+  - title: "Artificial Intelligence in Fintech Market - Global Industry Analysis, Trends, Market Size, and Forecasts up to 2030"
+    excerpt: "The global artificial intelligence in fintech market was valued at USD 10.88 billion in 2022 and is expected to reach USD 40.76 billion in 2030, with a CAGR of 15.78% during the forecast period 2023-2030."
+    publishedDateTime: 2023-12-13T22:42:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/12/13/9933723.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+  - title: "Infibeam Avenues acquires 49% stake in capital markets software provider Pirimid Fintech"
+    excerpt: "With the stake acquisition, Infibeam is looking to integrate its digital payments framework with Pirimid Fintech's capital market trading software for clients in India and globally."
+    publishedDateTime: 2023-12-14T13:54:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/startups/infibeam-avenues-acquires-49-stake-in-capital-markets-software-provider-pirimid-fintech/articleshow/105997286.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 0
 
 secured: "lzOXbCe6UwT36lQ5Jos1gjvCfoh4ALnRr1zC+NKB4xvbalh7J+akKJA5tjh+Leq9zwivOx46sVcZIxMAyqRx8BDzv0bdhtyXIZ2sfIB3AdEW7UrPqo5FD61OKBcNA0OtQ9Yz0DriWobYG8ODAvQX/nft83cokf7yhPcArtY39aOi0BfWcPg46HrL9rtu72cv546LjFIozkJxR1h4nziE4r8DJGVkBbNMP9l10dV0VNP/dgQKk3cimYTM9Y03ovC02bpqzLIfbv6szKb4SFqHqgj0AOQpTOiLa9Hq2essPhrMvUsHMlIa2Pd2U20t95HDsu0j1g42iP43kDc7wwoqgKxEc/uovhw2mIWmofzux0JnBfkmd+P/a1T1alRx4U5+p5Q+oLvlzRq3hpJMnUe/U6Qywflyiue+TfgfAtqYJsKfEzryJYjHvwfzz5/xAKf0DuSbyqN6gmWqpN3tqqdCTquC6wFnj5FS5b7Xf9nlnZ6ZUfsU8BW/I+592ZmY1HPRXEYAuPiEkWJJei00DYKLHA==;G+85j3wiYpLRl75SxSyXwg=="
 ---

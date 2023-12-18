@@ -35,20 +35,6 @@ related:
         width: 1920
         height: 1081
         isCached: true
-  - title: "Samsung Galaxy Buds 3 Pro Will Offer Live Language Translation Powered With AI"
-    excerpt: "Samsung is actively developing the highly anticipated Galaxy Buds 3 Pro, touted to feature built-in on-device artificial intelligence (AI).  Set to hit shelves in late 2024, these next-generation earbuds are expected to elevate user experiences with native AI capabilities,"
-    publishedDateTime: 2023-12-13T00:11:00Z
-    webUrl: "https://trak.in/stories/samsung-galaxy-buds-3-pro-will-offer-live-language-translation-powered-with-ai/"
-    type: article
-    provider:
-      name: Trak.in - India Business Blog
-      domain: trak.in
-    quality: 35
-    images:
-      - url: "https://trak.in/stories/wp-content/uploads/2023/12/ify-1-5.png"
-        width: 1000
-        height: 465
-        isCached: true
   - title: "AI is coming to Samsung Keyboard to help you find the perfect words"
     excerpt: "Samsung's upcoming One UI 6.1 update may integrate AI into its Keyboard, allowing users to change the tone of text and even translate it. Google is also expanding its AI efforts with features like \"Help me write\" in Chrome 122, making AI services more accessible and prominent in everyday life."
     publishedDateTime: 2023-12-15T19:59:00Z

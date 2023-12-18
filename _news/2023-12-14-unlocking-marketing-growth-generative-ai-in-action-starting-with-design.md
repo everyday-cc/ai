@@ -91,20 +91,6 @@ related:
         width: 2000
         height: 1125
         isCached: true
-  - title: "Unlocking MRO Opportunities Through AI And Machine Learning"
-    excerpt: "AMSTERDAM—The aftermarket is embracing data analytics and artificial intelligence techniques for a variety of use cases and placing ever more emphasis on machine learning algorithms for detecting defects on aircraft. During a discussion about artificial ..."
-    publishedDateTime: 2023-12-13T00:00:00Z
-    webUrl: "https://aviationweek.com/mro/emerging-technologies/unlocking-mro-opportunities-through-ai-machine-learning"
-    type: article
-    provider:
-      name: Aviation Week
-      domain: aviationweek.com
-    quality: 54
-    images:
-      - url: "https://aviationweek.com/sites/default/files/styles/crop_freeform/public/2023-12/lht-digital-hangar.jpg?itok=igw1xFcC"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "People are using artificial intelligence to create avatars of dead loved ones"
     excerpt: "Companies like HereAfter AI and StoryFile are offering people the chance to record voice recordings and videos before they die so their family can still interact with them when they are gone"
     publishedDateTime: 2023-12-17T08:00:00Z
@@ -120,20 +106,6 @@ related:
       - url: "https://i2-prod.mirror.co.uk/incoming/article31661253.ece/ALTERNATES/s1200/0_AI-robot-controlling-future-hologram-UI.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Powerful Learning With Artificial Intelligence For Educators"
-    excerpt: "The rapidly evolving space of artificial intelligence (AI) requires school and district leaders to make sense of how emerging technology applications, including those that use generative AI (Gen AI), are being integrated into schools and districts across ..."
-    publishedDateTime: 2023-12-13T00:00:00Z
-    webUrl: "https://www.edsurge.com/news/2023-12-13-powerful-learning-with-artificial-intelligence-for-educators"
-    type: article
-    provider:
-      name: EdSurge
-      domain: edsurge.com
-    quality: 41
-    images:
-      - url: "https://edsurge.imgix.net/uploads/post/image/15638/Shutterstock_2101215478-1701557449.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop"
-        width: 1024
-        height: 512
         isCached: true
   - title: "UBS Report: Generative AI for Financial Services"
     excerpt: "In the financial services industry, generative artificial intelligence (AI) is being deployed to automate time-consuming, tedious jobs in areas including customer service, fraud prevention, coding and information analysis."

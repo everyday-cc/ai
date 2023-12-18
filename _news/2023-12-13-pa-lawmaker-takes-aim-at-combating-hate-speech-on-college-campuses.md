@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pennlive.com/politics/2023/12/pa-lawmaker-takes-aim-at-c
 cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/politics/2023/12/pa-lawmaker-takes-aim-at-combating-hate-speech-on-college-campuses.html?outputType=amp"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 940
     height: 786
     isCached: true
-
-related:
-  - title: "Antisemitism and Free Speech Collide on Campuses"
-    excerpt: "transcript This transcript was created using speech recognition software. While it has been reviewed by human transcribers, it may contain errors. Please review the episode audio before quoting from this transcript and email transcripts@nytimes.com with ..."
-    publishedDateTime: 2023-12-13T00:00:00Z
-    webUrl: "https://www.nytimes.com/2023/12/13/podcasts/the-daily/antisemitism-university.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 54
-    images:
-      - url: "https://static01.nyt.com/images/2023/12/13/multimedia/13daily-presidents-kqfb/13daily-presidents-kqfb-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
 
 secured: "9B4micaDZDIduCzr2mKRMnSisN18ravVtZTM7tphJR4lmVVnnk3Jm7V+vMv46a5JFyezKBHHRXFDDRg4F8+C52b0j4g0SWQkCXHaQaVwUuBLQlvLFkthQBO20I8PjyG3V7QflIMXxEYXeO3XS9lJfK9b/bdwOpoCWnw8dzVyqFCAZSTc8QhBGpS7VcTjVjKGHVA69fl8iHt0p5MIAJ8qSv49Y3a+1dV2gpHdkVolCQkclRvKEI6tY1mXec6LAHRDocId/rVqteIZad+jQFcIXltYjZbLH413lGBIKBHR5EC7SDp//WEJlMvCS2U+yWrPjVezf0GNYz3r819tKJLSi5nPhOtQveeCPrL1j4+Frl8=;wDzpxVaqqBqebqOpy1gXnA=="
 ---

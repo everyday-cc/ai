@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/12/15/16-inn
 webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/12/15/16-innovative-ways-agencies-can-leverage-generative-ai-in-2024/"
 type: article
 quality: 67
-heat: 87
+heat: 89
 published: true
 
 provider:

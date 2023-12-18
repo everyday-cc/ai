@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "BMW to test L3 vehicles in Shanghai"
+    excerpt: "BMW Group has gained a test license for vehicles with level 3 autonomous driving functions on designated areas of highway in Shanghai, the German automaker announced on Thursday, promoting the business operation of driverless vehicles in the world's largest auto market."
+    publishedDateTime: 2023-12-18T00:24:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202312/18/WS657f89c7a31040ac301a82b4.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202312/18/657f89c7a31040acaf82c981.jpeg"
+        width: 621
+        height: 413
+        isCached: true
   - title: "BMW gains test license for Level 3 autonomous driving in Shanghai"
     excerpt: "BMW will launch products equipped with L3 self-driving functionality when they can do so in accordance with Chinese laws and regulations, the company said. The new license would expand areas for BMW to carry out tests of advanced autonomous driving ..."
     publishedDateTime: 2023-12-14T02:48:00Z

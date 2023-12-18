@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "M2P Fintech acquires Goals101 in a cash-and-equity deal worth Rs 250 crore"
-    excerpt: "Through the Goals101 platform on M2P, fintechs and banks can now have the tools which will help them maximise consumer spends and increase usage of their products,” he said i"
-    publishedDateTime: 2023-12-13T00:31:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/startups/m2p-fintech-acquires-goals101-in-a-cash-and-equity-deal-worth-rs-250-crore/articleshow/105940711.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/startups/m2p-fintech-acquires-goals101-in-a-cash-and-equity-deal-worth-rs-250-crore/amp_articleshow/105940711.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/m2p-fintech-acquires-goals101-in-a-cash-and-equity-deal-worth-rs-250-crore/amp_articleshow/105940711.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 42
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1279000,msid-105940732/from-left-to-right-madhusudanan-r-visham-sikand-and-milan-naik.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "M2P Fintech acquires transaction behavioural intelligence pioneer, Goals101"
     excerpt: "M2P Fintech, Asia’s largest Digital Banking Infrastructure company that powers the digital ambitions of banks, lenders, fintech and other financial service.."
     publishedDateTime: 2023-12-13T17:56:00Z
@@ -80,20 +64,6 @@ related:
       - url: "https://www.finextra.com/about/finextra-logo.png"
         width: 512
         height: 512
-        isCached: true
-  - title: "Infibeam Avenues Invests Rs 25 Crore in Pirimid Fintech for 49% Stake"
-    excerpt: "News reports, trends, analysis and Daily Updates on Business, New Emerging Technology, Startups, Funding, and Innovation in India and across the World"
-    publishedDateTime: 2023-12-15T03:49:00Z
-    webUrl: "https://www.indianweb2.com/2023/12/infibeam-avenues-invests-rs-25-crore-in.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 24
-    images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE-m1ssgp0Cvh9beCTRQe_ynNso3dr-wok7dhLVeoTfJOcndiElKrc7lQGY2om782aHStyTQernesWqOHzIeJ6_iReUrg2hpfiBX1qqQpe4IIHqKurp3JRbADjVJZY50qxNpG4_BIlw-_m8hycla1as2_4AdWpadI_5V21L4u62at7nbJrKATQ518ASJ4/s16000/infibeam.png"
-        width: 1000
-        height: 600
         isCached: true
   - title: "M2P Fintech Acquires Transaction Behavioural Intelligence Pioneer, Goals101"
     excerpt: "Madhusudanan R, Co-Founder and CEO of M2P Fintech, commented,“The global banking technology space is undergoing a tectonic shift with respect to leveraging data and AI in the most prominent areas like Customer service, Product and Portfolio management ..."

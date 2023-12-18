@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ndtv.com/india-news/pm-modi-kashi-tamil-sangamam-varanas
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/pm-modi-kashi-tamil-sangamam-varanasi-real-time-ai-translation-tool-bhashini-speech-4692786/amp/1"
 type: article
 quality: 52
-heat: 62
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "A first, PM Modi uses AI to translate speech from Hindi to Tamil"
+    excerpt: "Inaugurates Kashi Tamil Samagam 2. In a first, Prime Minister Narendra Modi on Sunday used artificial intelligence (AI) for real-time translation of his Hindi spe"
+    publishedDateTime: 2023-12-17T18:49:00Z
+    webUrl: "https://www.tribuneindia.com/news/india/a-first-pm-modi-uses-ai-to-translate-speech-from-hindi-to-tamil-572891"
+    ampWebUrl: "https://m.tribuneindia.com/news/india/a-first-pm-modi-uses-ai-to-translate-speech-from-hindi-to-tamil-572891"
+    cdnAmpWebUrl: "https://m-tribuneindia-com.cdn.ampproject.org/c/s/m.tribuneindia.com/news/india/a-first-pm-modi-uses-ai-to-translate-speech-from-hindi-to-tamil-572891"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 74
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2023/12/2023_12$largeimg_354404949.jpg"
+        width: 866
+        height: 1083
+        isCached: true
+  - title: "Indian AI startup Sarvam AI open-sources first Hindi AI model"
+    excerpt: "Indian AI startup Sarvam AI has released its first large language model a Hindi AI model and open-sourced it days after closing a funding for $41 million."
+    publishedDateTime: 2023-12-15T08:21:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/indian-ai-startup-sarvam-ai-open-sources-first-hindi-ai-model/article67641090.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/indian-ai-startup-sarvam-ai-open-sources-first-hindi-ai-model/article67641090.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/indian-ai-startup-sarvam-ai-open-sources-first-hindi-ai-model/article67641090.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/4irye8/article67641087.ece/alternates/FREE_1200/2023-12-14T140120Z_686204124_RC2Y40AN81FM_RTRMADP_3_HEALTH-AI-WHITE-HOUSE.JPG"
+        width: 1200
+        height: 814
+        isCached: true
   - title: "'This is a new beginning': AI translation tool Bhashini used during PM Modi's speech in Varanasi"
     excerpt: "Prime Minister Narendra Modi on Sunday used real-time Artificial Intelligence-based Tamil translation during his speech at Kashi Tamil Sang."
     publishedDateTime: 2023-12-17T14:38:00Z

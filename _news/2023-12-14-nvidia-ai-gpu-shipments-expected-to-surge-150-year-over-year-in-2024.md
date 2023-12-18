@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apple Silicon M3 Pro blows away Nvidia RTX 4090 GPU in AI benchmark"
-    excerpt: "In contrast, a MacBook with 16 M1 GPU cores shows a much smaller increase in power usage when active compared to its idle state, with a difference of just 38 watts. The results highlight Apple's gains in AI and machine learning capabilities and could be ..."
-    publishedDateTime: 2023-12-13T00:00:00Z
-    webUrl: "https://appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark"
-    ampWebUrl: "https://appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 74
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/57700-117522-graph-xl.jpg"
-        width: 1312
-        height: 800
-        isCached: true
   - title: "Apple Silicon M3 Pro competes with Nvidia RTX 4090 GPU in AI benchmark [u]"
     excerpt: "In a recent test of Apple's MLX machine learning framework, a benchmark shows how the new Apple Silicon Macs compete with Nvidia's RTX 4090."
     publishedDateTime: 2023-12-14T00:30:00Z
@@ -56,20 +40,6 @@ related:
       - url: "https://photos5.appleinsider.com/gallery/57700-117522-graph-xl.jpg"
         width: 1312
         height: 800
-        isCached: true
-  - title: "Rise of Nvidia: AI chip supremacy sparks a Silicon Valley power shift"
-    excerpt: "Nvidia CEO Jensen Huang bet the company's future on AI. That bet not only worked well but made Nvidia the world's biggest AI chipmaker."
-    publishedDateTime: 2023-12-17T14:00:00Z
-    webUrl: "https://interestingengineering.com/culture/the-rise-of-nvidia-growth"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 56
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/12/15/image/jpeg/eSL9TeL3ReqyFoY45NideVatBsCPU9CBZwegZoGc.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Apple's M3 Max Outshines RTX 4090 in AI Speech Transcription Test"
     excerpt: "The M3 Max is Apples most powerful 3nm SoC developed for the Mac, with multi-core performance that outperforms the M2 Ultra and a 40-core GPU that can compete with a laptop RTX 4080. Despite these advancements,"

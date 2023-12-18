@@ -71,21 +71,7 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 36
-  - title: "Providing Critical Services to the UK Financial Sector: Important Draft Rules for Fintechs"
-    excerpt: "in financial services — as we have discussed most recently in our alert “AI and Machine Learning in UK financial services: the public response to the FCA and PRA” — this regime is likely to become closely associated with any future AI regulation in ..."
-    publishedDateTime: 2023-12-13T00:00:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/providing-critical-services-to-the-uk-7117293/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 14
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15363_1913.jpg"
-        width: 1200
-        height: 900
-        isCached: true
 
-secured: "0JIB+v+p1pzIUZizJLwjrhWFU661zsZi9ZBjtLZFnv7lfCtF32cVhdCsaLk7wxoGwt9QzTuSTBFouQfHrX4zpBMZIfFPwZPMVc+8dXLmq9QEidpz4LfTyDi5u5tQCdg8izAXFpTQ5gk02OJfuAaHY1DrwuG1892oMHBsqJ01fgU6lSlJcpltoYpjC/axs3QZ4Zuwf5+Kn30grmU86RBDlPogOqyb/J+TlAJD8ZFklaF5pi8kiV/XGHE9DoLuxeuALCSAf1Tj/vl/YWo6LxvKsZz3YHbvfqPI/TkCVwyHRopbgRx7V5CNmOw9Lw+ED4vu3nTuPchMpGKK/WnoRR/0cS53UsLoI9yfqmjx51Rkl4g=;vAQ756bm2j1c911dk1tjlg=="
+secured: "eiHNpAsmwdIGIkyYg++a8tBSnGAA7heYRExbbqkzMd3/QvONIy/mbzJDKkGiQivfkYaqbigYV6DK6ipHJg7oU/5SMf+xFfhe8BUxgTnvF8cIl0wY6Sce7INzPphu24Dag66ueu0/Xs34TQhifFBm8pC3DvVKdYTkbcR+I6ys+ZpdbdACb6JAasVuPZHVsXVPBjyOKB/prewztsSkOeyP7rTefWr5XBAVwUUT3ey3A3+wCWmtVAr1QRaSqq9bNjQDbrCII7xrS7BF2458gCYhUTvfz2l2HaZqtYTDVRQAgfh7RGA9aXOC2ATAFaLWX3OhB8rphAUl6LlWjGxamMqV4LKzc/2jh/K7gHITAzTrlQuzFXTMyRJDnWX3MNGdLolUKkSYIWEzXG4NY7eyRzKLJmp1KioLr8vWVRfQu1yDKwp9RkAqiDL8zCZH81jhyxpAn+nebecC7P64oXO6T00fvKHJL6SYkhapqm71RwZIsBCFLAe0gLbMreEwBwB5j/epGsc94eAfkkQ73vHTXYJ9OA==;lMryQ/2bDlWqgzE5mpKNvw=="
 ---
 

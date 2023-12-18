@@ -125,6 +125,15 @@ related:
         width: 2048
         height: 1360
         isCached: true
+  - title: "Using AI-related technologies can significantly enhance human cognition"
+    excerpt: "Dr Elena Davitti, Associate Professor at CTS and Principal Investigator of the project said: “The language industry, marked by the rapid growth of AI-related technologies like automatic speech recognition and machine translation, has seen an increased ..."
+    publishedDateTime: 2023-12-18T00:00:00Z
+    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=64274.php"
+    type: article
+    provider:
+      name: Nanowerk
+      domain: nanowerk.com
+    quality: 19
   - title: "Using AI-related technologies can significantly enhance human cognition, finds new study"
     excerpt: "Language professionals such as interpreters, translators and subtitlers should not fear artificial intelligence (AI), as training in new forms of real-time human-AI interaction (HAII) can increase their working memory and task-switching abilities, according to new research from the University of Surrey’s Centre for Translation Studies (CTS) and the"
     publishedDateTime: 2023-12-17T17:19:00Z
@@ -134,15 +143,6 @@ related:
       name: University of Surrey
       domain: surrey.ac.uk
     quality: 10
-  - title: "Energy Artificial Intelligence Technology Office’s work transferred to other agency subgroups"
-    excerpt: "The Department of Energy has dissolved its Artificial Intelligence Technology Office and transferred much of its work to its Office of Science and the Office of the Chief Information Officer, an agency spokesperson confirmed to FedScoop. The update came ..."
-    publishedDateTime: 2023-12-13T00:00:00Z
-    webUrl: "https://fedscoop.com/energy-artificial-intelligence-technology-offices-work-transferred-to-other-agency-subgroups/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 6
   - title: "Is Live Facial Recognition technology necessary and proportionate? Police forces defend scanning hundreds of thousands faces a year"
     excerpt: "South Wales Police and London’s Metropolitan Police Service argue that the safety benefits are outweighed by the privacy concerns."
     publishedDateTime: 2023-12-13T14:21:00Z
