@@ -2,6 +2,102 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-11-05-google-deepminds-robotics-head-on-general-purpose-robots-generative-ai-and-office-wi-fi.md",
+      "title": "Google DeepMind’s robotics head on general-purpose robots, generative AI and office Wi-Fi",
+      "excerpt": "Subscribe here.] Earlier this month, Google’s DeepMind team debuted Open X-Embodiment, a database of robotics functionality created in collaboration with 33 research institutes. The researchers ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/11/04/google-deepminds-robotics-head-on-general-purpose-robots-generative-ai-and-office-ai/",
+      "originalUrl": "https://techcrunch.com/2023/11/04/google-deepminds-robotics-head-on-general-purpose-robots-generative-ai-and-office-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/06/deepmind-illo.jpg?resize=1200,680",
+          "width": 1200,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/11/04/google-deepminds-robotics-head-on-general-purpose-robots-generative-ai-and-office-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/04/google-deepminds-robotics-head-on-general-purpose-robots-generative-ai-and-office-ai/amp/",
+      "publishedDateTime": "2023-11-04T23:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-11-03-wallace-rose-hill-coaching-staff-and-field-maintenance-crew-use-artificial-intelligence-robot.md",
+      "title": "Wallace Rose-Hill coaching staff and field maintenance crew use artificial intelligence robot",
+      "excerpt": "The time invested into keeping Thell B. Overman Field looking incredible for the Wallace Rose-Hill Bulldogs under the Friday Night Lights at Legion Stadium, is unmatched.",
+      "sourceUrl": null,
+      "webUrl": "https://www.witn.com/video/2023/11/03/wallace-rose-hill-coaching-staff-field-maintenance-crew-use-artificial-intelligence-robot/",
+      "originalUrl": "https://www.witn.com/video/2023/11/03/wallace-rose-hill-coaching-staff-field-maintenance-crew-use-artificial-intelligence-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-witn-prod.cdn.arcpublishing.com/resizer/bkclBK2aHn8lTun9Y88UYlfWlPE=/800x450/smart/filters:quality(70)/do0bihdskp9dy.cloudfront.net/11-05-2023/t_c5695f8e97384557a4f1992f95b64dd7_name_Dustin_Forecast_Graphic.png",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.witn.com/video/2023/11/03/wallace-rose-hill-coaching-staff-field-maintenance-crew-use-artificial-intelligence-robot/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-witn-com.cdn.ampproject.org/c/s/www.witn.com/video/2023/11/03/wallace-rose-hill-coaching-staff-field-maintenance-crew-use-artificial-intelligence-robot/?outputType=amp",
+      "publishedDateTime": "2023-11-03T16:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WITN",
+        "domain": "witn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-02-what-are-job-and-salary-prospects-for-robotics-engineers.md",
       "title": "What Are Job and Salary Prospects for Robotics Engineers?",
       "excerpt": "As National Robotics Week 2015 comes to a close, we wanted to look at salary and employment trends for robotics engineers. Although we did find some information about career growth, there's very little specific salary information available. Design News ...",
@@ -1172,103 +1268,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-microsoft-rockwell-automation-to-bring-gen-ai-to-robotics-development.md",
-      "title": "Microsoft, Rockwell Automation to bring Gen AI to robotics development",
-      "excerpt": "The companies will add Microsoft's Azure OpenAI Service into FactoryTalk Design Studio to accelerate time-to-market for their customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/microsoft-rockwell-automation-to-bring-gen-ai-to-robotics-development/",
-      "originalUrl": "https://www.therobotreport.com/microsoft-rockwell-automation-to-bring-gen-ai-to-robotics-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 346,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/10/microsoft-rockwell-collaboration.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-26T23:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-ai-machine-learning-and-robotics-are-making-the-retail-supply-chain-more-efficient-and-resilient-after-several-rocky-years.md",
-      "title": "AI, machine learning, and robotics are making the retail supply chain more efficient and resilient after several rocky years",
-      "excerpt": "AI, machine learning and robotics are improving retail supply chains. They help with productivity, production costs, meeting consumer demand and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-machine-learning-robotics-retail-supply-chain-technology-2023-10",
-      "originalUrl": "https://www.businessinsider.com/ai-machine-learning-robotics-retail-supply-chain-technology-2023-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/653a6ca596f7540cd06651e5?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-machine-learning-robotics-retail-supply-chain-technology-2023-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-machine-learning-robotics-retail-supply-chain-technology-2023-10?amp",
-      "publishedDateTime": "2023-10-26T20:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -5,10 +5,12 @@ excerpt: "He encourages employing sociologists, lawyers, political scientists an
 publishedDateTime: 2023-12-15T14:51:00Z
 originalUrl: "https://www.cnn.com/2023/12/15/us/diversity-artificial-intelligence-bias-reaj/index.html"
 webUrl: "https://www.cnn.com/2023/12/15/us/diversity-artificial-intelligence-bias-reaj/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2023/12/15/us/diversity-artificial-intelligence-bias-reaj/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/12/15/us/diversity-artificial-intelligence-bias-reaj/index.html"
 type: article
-quality: 48
-heat: 48
-published: false
+quality: 90
+heat: 90
+published: true
 
 provider:
   name: CNN
@@ -21,7 +23,14 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Autos
 
-secured: "BAeTEsZ8//k/rG1rDfb8XX8KVs2TxDHXSpVO6eLv+5izzSclzyhUW1XNYFc9fOlTCFPq5ZlLLuthxjwF9O35nZXFdthfIXdRgL+o36Gxe/1cg+lx8GdvImNw/5Lq8kYyVCC5BUAumrAFaJFlo/NF6pw5hQHhua6XROb1xKIV0imTtV5bvL8QaJHx7+kH3ifGlqA9zVP+40pyEq58lStXaBwYEbWXM0+VLt9SsxrwOsMMfoalpiLISYMdjI2jEAanOmxVnOdFg3Rw5l0kI57+UofgR3YYYs37CRvRiu64ZOq5o9RHU3rKI2pvC4Q7w7JLtD5PBQd73/eW6joWmnYc2VEIZ7YfXcGAhP2pMeVb6RqQuHmparsiyXxF8awk00GkwHNuvWoMv8X84y+wtY3+/ZK8ZWMFwXz1RwTe2nDPjOz7LjXBreLfPZKdK8CAOpC/wDDrfskri1Q3KB2ndmq71AJq2qGOYDMHzBbvHCjPho6p1rMnGXwsChAtUdTC1wTGjm/N0JkOCatpQdZQPSYXsA==;7NNpEJZBunG+LO3cvy9XwQ=="
+images:
+  - url: "https://media.cnn.com/api/v1/images/stellar/prod/231214172420-person-working-at-computer-stock-image-restricted.jpg?c=16x9&q=w_800,c_fill"
+    width: 800
+    height: 450
+    isCached: true
+
+secured: "OQrXHl4ElD/L1PW2kgJ2WNcmtrLdZHKFR4gM0FxdPB9+g/7bCoC1V97skwNTcfMLVUmAuGSRy7RVHNhgOj+ZVaayUHzb/VYKmCu6eHKxw0/NcaFIZ56G7H3YAxGAXBWclI13gtw/49m0pbAUzv5nxmF8gqdB+9KtsDo4AjBSNKCbHmDRIpdQD7foUBQt5BK58Fdg+seQUMOwiqdUryivdzbXCL4NqF0xsM2h3jKKzSOILXaWRIBrx1ExHP2dd47tHdrcqSmBSL003o1Gp6t+fbv4mRaOp+qJtUMFXRf6P2GGPxF02WoR/tpSpRWoCBpLHwDJK5wa3uJdBFclNu/dB5U7iCKCCKNnB1e5THUf2ps=;NnWasEdRv7HglG208VSAxA=="
 ---
 

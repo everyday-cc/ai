@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-12-15-deepminds-ai-finds-new-solution-to-decades-old-math-puzzle-outsmarting-humans.md",
+      "title": "DeepMind’s AI finds new solution to decades-old math puzzle — outsmarting humans",
+      "excerpt": "The LLM got closer than ever before to cracking the cap set problem, which has perplexed mathematicians for decades.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/deepminds-ai-finds-solution-to-decades-old-math-problem",
+      "originalUrl": "https://thenextweb.com/news/deepminds-ai-finds-solution-to-decades-old-math-problem",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F12%2Fmath-code-science-AI.jpg&signature=c7d51f05d2f90d69e7dd1049a3691f58",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-15T15:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-15-could-blockchain-be-a-key-factor-for-trustworthy-ai.md",
+      "title": "Could Blockchain Be A Key Factor For Trustworthy AI?",
+      "excerpt": "And this is where blockchain might prove useful. Using blockchain, we can create a cryptographic proof of a model’s inference. Inference essentially means the querying of a model. With so-called zero-knowledge proofs, we can confirm that an inference to a model has been made, how the model was prompted and which model was queried.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/15/could-blockchain-be-a-key-factor-for-trustworthy-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/15/could-blockchain-be-a-key-factor-for-trustworthy-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/628d34262b0242a41f0215a4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1590,
+          "height": 894,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/15/could-blockchain-be-a-key-factor-for-trustworthy-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/15/could-blockchain-be-a-key-factor-for-trustworthy-ai/amp/",
+      "publishedDateTime": "2023-12-15T14:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-15-precision-education-how-k-12-schools-are-embracing-ai.md",
       "title": "Precision Education: How K-12 Schools Are Embracing AI",
       "excerpt": "As artificial intelligence (AI) continues to evolve, its applications in various sectors have been groundbreaking, and education is no exception.",
@@ -51,6 +155,59 @@
       "topics": [
         "AI",
         "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-12-15-experts-call-for-more-diversity-to-combat-bias-in-artificial-intelligence.md",
+      "title": "Experts call for more diversity to combat bias in artificial intelligence",
+      "excerpt": "He encourages employing sociologists, lawyers, political scientists and other types of humanities-oriented academics to help contribute to the conversation around AI and ethics. Lombana-Bermudez said his hope is that future generations may alleviate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/12/15/us/diversity-artificial-intelligence-bias-reaj/index.html",
+      "originalUrl": "https://www.cnn.com/2023/12/15/us/diversity-artificial-intelligence-bias-reaj/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/231214172420-person-working-at-computer-stock-image-restricted.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/12/15/us/diversity-artificial-intelligence-bias-reaj/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/12/15/us/diversity-artificial-intelligence-bias-reaj/index.html",
+      "publishedDateTime": "2023-12-15T14:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -365,7 +522,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/15/the-potential-of-embodied-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -1010,7 +1167,7 @@
       "originalUrl": "https://techlomedia.in/2023/12/intel-introduces-core-ultra-chips-with-npus-for-ai-advancements-103680/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 444,
+      "heat": 454,
       "tags": null,
       "images": [
         {
@@ -1084,152 +1241,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-ai-machine-learning-to-lead-the-way-to-achieve-net-zero-experts.md",
-      "title": "AI, machine learning to lead the way to achieve Net Zero: Experts",
-      "excerpt": "At the event, Rupesh Umtol, co-founder and Director, Electro-Mech Consultants showcased a digital twin model creation concept called Btrlyf -- a culmination of AI/ML that analyses older buildings with respect to energy efficiency.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/cities/ahmedabad/ai-machine-learning-to-lead-the-way-to-achieve-net-zero-experts-9068876/",
-      "originalUrl": "https://indianexpress.com/article/cities/ahmedabad/ai-machine-learning-to-lead-the-way-to-achieve-net-zero-experts-9068876/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2023/12/ai_1200_gettyimages.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/cities/ahmedabad/ai-machine-learning-to-lead-the-way-to-achieve-net-zero-experts-9068876/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/cities/ahmedabad/ai-machine-learning-to-lead-the-way-to-achieve-net-zero-experts-9068876/lite/",
-      "publishedDateTime": "2023-12-14T18:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-tying-environmental-outcomes-to-real-business-value-may-be-simpler-than-you-think.md",
-      "title": "Tying environmental outcomes to real business value may be simpler than you think",
-      "excerpt": "There has been a lot of recent discussion around the business value of environmental, social and governance (ESG) reporting and financials.\nThe post Tying environmental outcomes to real business value may be simpler than you think appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/tying-environmental-outcomes-to-real-business-value-may-be-simpler-than-you-think/",
-      "originalUrl": "https://www.ibm.com/blog/tying-environmental-outcomes-to-real-business-value-may-be-simpler-than-you-think/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/12/tying-environmental-blog-.png",
-          "width": 630,
-          "height": 329,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-14T18:27:13Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-have-10-hours-ibm-will-train-you-in-ai-fundamentals-for-free.md",
-      "title": "Have 10 hours? IBM will train you in AI fundamentals - for free",
-      "excerpt": "Run AI Models with IBM Watson Studio (1 hour and 45 mins): In this course, you'll practice creating an AI machine learning model in a series of simulations, using IBM Watson Studio. This is hands-on time that can help you do actual work with AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/earn-an-ai-fundamentals-credential-from-ibm-for-free/",
-      "originalUrl": "https://www.zdnet.com/article/earn-an-ai-fundamentals-credential-from-ibm-for-free/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/889ceba98c79fe79abc49245bd51e50e4fc7b180/2023/12/14/03b8fcaa-5075-4f54-8aca-54553859c0f1/gettyimages-1143470996.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/earn-an-ai-fundamentals-credential-from-ibm-for-free/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/earn-an-ai-fundamentals-credential-from-ibm-for-free/",
-      "publishedDateTime": "2023-12-14T17:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/meaghanjohnson/2023/12/13/portugals-pro
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/meaghanjohnson/2023/12/13/portugals-progressive-policies-fuel-fintech-growth/amp/"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Consumer tech market set for growth surge; Kunal Shah on fintech, regulations"
-    excerpt: "The consumer technology market in India will likely touch $300 billion in the next four years, while online retail could top $160 billion by 2028, reports suggest. This and more in todays ETtech Morning Dispatch."
-    publishedDateTime: 2023-12-13T01:52:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/consumer-tech-market-set-for-growth-surge-kunal-shah-on-fintech-regulations/articleshow/105945927.cms?from=mdr"
-    ampWebUrl: "https://m.economictimes.com/tech/newsletters/morning-dispatch/consumer-tech-market-set-for-growth-surge-kunal-shah-on-fintech-regulations/amp_articleshow/105945927.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/newsletters/morning-dispatch/consumer-tech-market-set-for-growth-surge-kunal-shah-on-fintech-regulations/amp_articleshow/105945927.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 41
-    images:
-      - url: "https://img.etimg.com/thumb/msid-105942483,width-280,height-210,imgsize-182440/auto-companies-log-best-ever-november-sales-on-robust-festive-demand.jpg"
-        width: 280
-        height: 210
-        isCached: true
   - title: "The Genesis of Fintech Giant Black Banx"
     excerpt: "The Genesis of Fintech Giant Black BanxNew York, United States - December 13, 2023 — Despite being a relatively young industry, there are a"
     publishedDateTime: 2023-12-13T03:31:00Z

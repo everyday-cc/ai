@@ -2,6 +2,93 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-11-24-black-friday-roomba-deals-2023-best-robot-vacuums-on-sale.md",
+      "title": "Black Friday Roomba deals 2023: Best robot vacuums on sale",
+      "excerpt": "Available on Amazon Next up, we have the Roomba 694 robot vacuum that’s down to $159 for Black Friday 2023. This powerful vacuum cleaner covers all the basics. And it adds in voice control thanks ... With that in mind, you can rest assured that this ...",
+      "sourceUrl": null,
+      "webUrl": "https://bgr.com/deals/black-friday-roomba-robot-vacuum-deals/",
+      "originalUrl": "https://bgr.com/deals/black-friday-roomba-robot-vacuum-deals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bgr.com/wp-content/uploads/2023/08/Roomba-Robot-Vacuums.jpg?quality=82&strip=all",
+          "width": 3560,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-23T16:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-23-his-team-created-a-robotic-arm-that-helps-kill-cancer-using-artificial-intelligence.md",
+      "title": "His team created a robotic arm that helps kill cancer using artificial intelligence",
+      "excerpt": "The robotic arm will allow doctors to more accurately monitor the progress of high-intensity focused ultrasound treatment as it is happening.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbc.ca/news/canada/kitchener-waterloo/hifu-non-invasive-cancer-treatment-artificial-intelligence-robot-university-of-waterlo-1.7036627",
+      "originalUrl": "https://www.cbc.ca/news/canada/kitchener-waterloo/hifu-non-invasive-cancer-treatment-artificial-intelligence-robot-university-of-waterlo-1.7036627",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.cbc.ca/1.7036750.1700688000!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/moslem-sadeghi-goughari.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cbc.ca/amp/1.7036627",
+      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.7036627",
+      "publishedDateTime": "2023-11-23T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBC.ca",
+        "domain": "www.cbc.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-11-23-will-robots-take-your-job-how-artificial-intelligence-will-change-the-future-of-work.md",
       "title": "Will Robots Take Your Job? How Artificial Intelligence Will Change the Future of Work",
       "excerpt": "Artificial intelligence is already affecting nearly ... it’s with one big question in mind: Will robots take my job? Most experts agree that humans will still be a necessary part of the ...",
@@ -1188,83 +1275,6 @@
       "provider": {
         "name": "WESA",
         "domain": "wesa.fm",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-sharechat-co-founders-raise-3-million-from-india-quotient-elevation-capital-for-robotics-startup.md",
-      "title": "Sharechat co-founders raise $3 million from India Quotient, Elevation Capital for robotics startup",
-      "excerpt": "P.S. If you're as passionate about robotics as we are, reach out, connect, and let's build something extraordinary together.” The round comes at a time when internet startups are struggling to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/business/startup/sharechat-co-founders-raise-3-million-from-india-quotient-elevation-capital-for-robotics-startup-11735851.html",
-      "originalUrl": "https://www.moneycontrol.com/news/business/startup/sharechat-co-founders-raise-3-million-from-india-quotient-elevation-capital-for-robotics-startup-11735851.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2023/09/Artificial-Intelligence.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/business/startup/sharechat-co-founders-raise-3-million-from-india-quotient-elevation-capital-for-robotics-startup-11735851.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/startup/sharechat-co-founders-raise-3-million-from-india-quotient-elevation-capital-for-robotics-startup-11735851.html/amp",
-      "publishedDateTime": "2023-11-13T22:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-13-sharechat-cofounders-raise-3-mn-for-their-robotics-startup-general-autonomy.md",
-      "title": "Sharechat Cofounders Raise $3 Mn For Their Robotics Startup General Autonomy",
-      "excerpt": "Sharechat cofounders Farid Ahsan and Bhanu Pratap Singh have raised $3 Mn in seed funding for their robotics startup General Autonomy.",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/sharechat-cofounders-raise-3-mn-for-their-robotics-startup-general-autonomy/",
-      "originalUrl": "https://inc42.com/buzz/sharechat-cofounders-raise-3-mn-for-their-robotics-startup-general-autonomy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/sharechat-cofounders-raise-3-mn-for-their-robotics-startup-general-autonomy/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/sharechat-cofounders-raise-3-mn-for-their-robotics-startup-general-autonomy/amp/",
-      "publishedDateTime": "2023-11-13T14:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42",
-        "domain": "inc42.com",
         "images": null,
         "publishers": null,
         "authors": null

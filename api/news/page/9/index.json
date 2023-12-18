@@ -2,6 +2,231 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-12-09-eu-agrees-landmark-rules-on-artificial-intelligence.md",
+      "title": "EU agrees landmark rules on artificial intelligence",
+      "excerpt": "EU lawmakers have agreed the terms for landmark legislation to regulate artificial intelligence, pushing ahead with enacting the world’s most restrictive regime on the development of the technology. Thierry Breton, EU commissioner, confirmed in a post on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/d5bec462-d948-4437-aab1-e6505031a303?sharetype=gift",
+      "originalUrl": "https://www.ft.com/content/d5bec462-d948-4437-aab1-e6505031a303?sharetype=gift",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-09T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-09-i-pitted-google-bard-with-gemini-pro-vs-chatgpt-heres-the-winner.md",
+      "title": "I pitted Google Bard with Gemini Pro vs ChatGPT — here’s the winner",
+      "excerpt": "Google has incorporated its new AI large language model, Gemini Pro, into its popular chatbot, Bard. With this comes the promise that it will perform at least as well, if not better, than OpenAI's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tomsguide.com/features/i-pitted-google-bard-with-gemini-pro-vs-chatgpt-heres-the-winner",
+      "originalUrl": "https://www.tomsguide.com/features/i-pitted-google-bard-with-gemini-pro-vs-chatgpt-heres-the-winner",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/5izKezBiWMfNnrFVFC7uYM-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-09T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tom's Guide",
+        "domain": "tomsguide.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-09-amazon-says-scammers-stole-millions-through-phony-product-returns.md",
+      "title": "Amazon says scammers stole millions through phony product returns",
+      "excerpt": "Amazon is taking what it calls an international fraud ring to court for allegedly stealing millions of dollars in a scheme that had participants getting refunds for pricey products without sending ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/amazon-scam-fake-returns-lawsuit/",
+      "originalUrl": "https://www.cbsnews.com/news/amazon-scam-fake-returns-lawsuit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/11/14/5bf30c28-7d1a-4b70-9e9d-fd31bac86888/thumbnail/1200x630/549677390e5aa7f1d600d3fc65563c39/gettyimages-1237538354.jpg?v=5382e209c94ee904b3a96a69f8ca0ce0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/amazon-scam-fake-returns-lawsuit/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/amazon-scam-fake-returns-lawsuit/",
+      "publishedDateTime": "2023-12-08T22:37:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-09-ethics-in-ai-a-conversation-with-diya-wynn-aws-responsible-ai-lead.md",
+      "title": "Ethics In AI: A Conversation With Diya Wynn, AWS Responsible AI Lead",
+      "excerpt": "Invent conference, I had the distinct opportunity to delve into these pressing issues with Diya Wynn, AWS’s Responsible AI Lead.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/carolinamilanesi/2023/12/08/ethics-in-ai-a-conversation-with-diya-wynn-aws-responsible-ai-lead/",
+      "originalUrl": "https://www.forbes.com/sites/carolinamilanesi/2023/12/08/ethics-in-ai-a-conversation-with-diya-wynn-aws-responsible-ai-lead/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/657398ac14070a55cc835737/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1353,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/carolinamilanesi/2023/12/08/ethics-in-ai-a-conversation-with-diya-wynn-aws-responsible-ai-lead/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinamilanesi/2023/12/08/ethics-in-ai-a-conversation-with-diya-wynn-aws-responsible-ai-lead/amp/",
+      "publishedDateTime": "2023-12-08T22:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-09-amd-unveils-ai-accelerators-from-cloud-to-client-with-mi300-leading-the-charge.md",
+      "title": "AMD Unveils AI Accelerators From Cloud To Client With MI300 Leading The Charge",
+      "excerpt": "The market will likely be eager for these new AI silicon engines and tools from AMD, and it's going to be a dogfight.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2023/12/08/amd-unveils-ai-accelerators-from-cloud-to-client-with-mi300-leading-the-charge/",
+      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2023/12/08/amd-unveils-ai-accelerators-from-cloud-to-client-with-mi300-leading-the-charge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/657344159dd114776e33d37c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1280,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2023/12/08/amd-unveils-ai-accelerators-from-cloud-to-client-with-mi300-leading-the-charge/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2023/12/08/amd-unveils-ai-accelerators-from-cloud-to-client-with-mi300-leading-the-charge/amp/",
+      "publishedDateTime": "2023-12-08T21:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-09-artificial-intelligence-creates-terrible-iowa-superhero-watch.md",
       "title": "Artificial Intelligence Creates Terrible Iowa Superhero [WATCH]",
       "excerpt": "Artificial Intelligence can be an incredibly useful tool for many people daily. We use AI in our phones, automated cars, online shopping, advertising, smart thermostats, etc. At its core, AI is the ability of a machine to display human-like capabilities such as reasoning,",
@@ -765,8 +990,8 @@
       "title": "Llama Antibodies Could Pave the Way for New Norovirus Treatments",
       "excerpt": "Tiny llama antibodies, called nanobodies, have been shown to effectively neutralize human noroviruses in the lab, revealing that they could be developed into a therapeutic agent.",
       "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/tn/news/llama-antibodies-could-pave-the-way-for-new-norovirus-treatments-381824",
-      "originalUrl": "https://www.technologynetworks.com/tn/news/llama-antibodies-could-pave-the-way-for-new-norovirus-treatments-381824",
+      "webUrl": "https://www.technologynetworks.com/immunology/news/llama-antibodies-could-pave-the-way-for-new-norovirus-treatments-381824",
+      "originalUrl": "https://www.technologynetworks.com/immunology/news/llama-antibodies-could-pave-the-way-for-new-norovirus-treatments-381824",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -940,239 +1165,6 @@
         "Google AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-12-08-microsoft-exec-hints-at-new-llms-beyond-openais.md",
-      "title": "Microsoft exec hints at new LLMs beyond OpenAI’s",
-      "excerpt": "In a wide ranging interview about enterprise readiness for generative AI, Eric Boyd asserts that Microsoft plans to stay competitive on the choice front. He said the company's generative AI applications and the LLMs that power them,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/microsoft-exec-hints-at-new-llms-beyond-openais/",
-      "originalUrl": "https://venturebeat.com/ai/microsoft-exec-hints-at-new-llms-beyond-openais/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/12/otAR_BG_master02a.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-08T04:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-08-meta-publicly-launches-ai-image-generator-trained-on-your-facebook-instagram-photos.md",
-      "title": "Meta publicly launches AI image generator trained on your Facebook, Instagram photos",
-      "excerpt": "Meta's Imagine service was built on its own AI model called Emu, which was trained on 1.1 billion Facebook and Instagram user photos.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/meta-publicly-launches-ai-image-generator-trained-on-your-facebook-instagram-photos/",
-      "originalUrl": "https://venturebeat.com/ai/meta-publicly-launches-ai-image-generator-trained-on-your-facebook-instagram-photos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/12/Screen-Shot-2023-12-07-at-2.50.56-PM.png?w=1200&strip=all",
-          "width": 982,
-          "height": 715,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-08T03:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-08-the-ultimate-ces-2024-guide-to-the-hottest-parties-panels-and-robots.md",
-      "title": "The Ultimate CES 2024 Guide To The Hottest Parties, Panels And Robots",
-      "excerpt": "Cruise the home of the future, chat with a refrigerator, ping pong with a robot, enjoy autonomous rides and party with Ludacris at the world's most exciting tech show.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/martineparis/2023/12/07/the-ultimate-ces-2024-guide-to-the-hottest-parties-panels-and-robots/",
-      "originalUrl": "https://www.forbes.com/sites/martineparis/2023/12/07/the-ultimate-ces-2024-guide-to-the-hottest-parties-panels-and-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65721ffacaa25896080c1e98/0x0.jpg?format=jpg&crop=1284,722,x0,y0,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2023/12/07/the-ultimate-ces-2024-guide-to-the-hottest-parties-panels-and-robots/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/12/07/the-ultimate-ces-2024-guide-to-the-hottest-parties-panels-and-robots/amp/",
-      "publishedDateTime": "2023-12-08T02:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-08-the-tidal-wave-of-rising-gpu-tam-raises-all-boats.md",
-      "title": "The Tidal Wave Of Rising GPU TAM Raises All Boats",
-      "excerpt": "The world has gone nuts for generative AI, and it is going to get a whole lot crazier. Like $400 billion a year in GPU hardware spending by 2027 crazier. If you don’t think this is an enormous amount of spending,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2023/12/07/the-tidal-wave-of-rising-gpu-tam-raises-all-boats/",
-      "originalUrl": "https://www.nextplatform.com/2023/12/07/the-tidal-wave-of-rising-gpu-tam-raises-all-boats/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.nextplatform.com/wp-content/uploads/2023/12/amd-keynote-lisa-su-tam-scaled.jpg",
-          "width": 2560,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2023/12/07/the-tidal-wave-of-rising-gpu-tam-raises-all-boats/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/12/07/the-tidal-wave-of-rising-gpu-tam-raises-all-boats/amp/",
-      "publishedDateTime": "2023-12-08T01:37:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-08-allergy-drug-added-to-immunotherapy-benefits-lung-cancer-therapy-in-small-trial.md",
-      "title": "Allergy Drug Added to Immunotherapy Benefits Lung Cancer Therapy in Small Trial",
-      "excerpt": "IL-4 blockade using dupilumab enhanced lung cancer response to checkpoint blockade in mice and in lung cancer patients with treatment-resistant disease.",
-      "sourceUrl": null,
-      "webUrl": "https://www.genengnews.com/topics/cancer/allergy-drug-added-to-immunotherapy-benefits-lung-cancer-therapy-in-small-trial/",
-      "originalUrl": "https://www.genengnews.com/topics/cancer/allergy-drug-added-to-immunotherapy-benefits-lung-cancer-therapy-in-small-trial/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-08T00:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GEN",
-        "domain": "genengnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

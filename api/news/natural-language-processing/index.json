@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-18-ai-machine-learning-changing-how-first-responders-handle-911-emergencies.md",
+      "title": "AI, machine learning changing how first responders handle 911 emergencies",
+      "excerpt": "Nothing kills more people in the U.S. than heart disease, and researchers within the UPMC health enterprise are using machine learning to advance the breadth and efficiency of electrocardiogram (ECG)",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/cnhi_network/ai-machine-learning-changing-how-first-responders-handle-911-emergencies/article_77449f24-9c25-5cd4-8b79-451f817784ff.html",
+      "originalUrl": "https://www.joplinglobe.com/cnhi_network/ai-machine-learning-changing-how-first-responders-handle-911-emergencies/article_77449f24-9c25-5cd4-8b79-451f817784ff.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/7/e3/7e3426d4-0195-5420-9d0e-e9502693b12f/657cd1cbf050c.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-18T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-12-18-a-first-pm-modi-uses-ai-to-translate-speech-from-hindi-to-tamil.md",
       "title": "A first, PM Modi uses AI to translate speech from Hindi to Tamil",
       "excerpt": "Inaugurates Kashi Tamil Samagam 2. In a first, Prime Minister Narendra Modi on Sunday used artificial intelligence (AI) for real-time translation of his Hindi spe",
@@ -253,7 +297,7 @@
       "originalUrl": "https://www.forbes.com/sites/kalinabryant/2023/12/13/how-ai-is-impacting-society-and-shaping-the-future/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 201,
+      "heat": 211,
       "tags": null,
       "images": [
         {
@@ -1336,49 +1380,6 @@
       "provider": {
         "name": "News Medical",
         "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-04-university-of-illinois-testing-speech-recognition-for-disabilities.md",
-      "title": "University of Illinois Testing Speech Recognition for Disabilities",
-      "excerpt": "(TNS) — Speech-recognition software doesn't work very well for people who could really use it, like those with Parkinson's or Down syndrome. Researchers at the University of Illinois have a simple solution: Instead of only training the artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/education/higher-ed/university-of-illinois-testing-speech-recognition-for-disabilities",
-      "originalUrl": "https://www.govtech.com/education/higher-ed/university-of-illinois-testing-speech-recognition-for-disabilities",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/b299f5a/2147483647/strip/true/crop/1000x486+0+98/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F5f%2Fa3%2F618704fc4380b4c9620a5bec7af9%2Flanguage-processing.jpg",
-          "width": 1440,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
         "images": null,
         "publishers": null,
         "authors": null

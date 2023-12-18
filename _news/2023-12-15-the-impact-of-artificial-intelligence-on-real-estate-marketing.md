@@ -6,7 +6,7 @@ publishedDateTime: 2023-12-15T12:21:00Z
 originalUrl: "https://realtybiznews.com/the-impact-of-artificial-intelligence-on-real-estate-marketing/98780587/"
 webUrl: "https://realtybiznews.com/the-impact-of-artificial-intelligence-on-real-estate-marketing/98780587/"
 type: article
-quality: 56
+quality: 58
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - AI
   - AI in Marketing
   - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://realtybiznews.com/wp-content/uploads/2022/07/banner-2.png"
@@ -157,6 +158,20 @@ related:
       - url: "https://media.bizj.us/view/img/12101330/20210916championsbusiness031av*1200xx3000-1686-0-573.jpg"
         width: 1200
         height: 674
+        isCached: true
+  - title: "How AI In Software Development Improves Data And Decision Making"
+    excerpt: "Keeping track of AI development is a real challenge. Just when you think the progress has reached its peak, a mindblowing innovation hits the news.  A number of major industries, including healthcare,"
+    publishedDateTime: 2023-12-17T23:57:00Z
+    webUrl: "https://techbullion.com/how-ai-in-software-development-improves-data-and-decision-making/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/thumbnailHEYBEIPE-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
   - title: "Preparing for the future: Exploring what artificial intelligence in 2025 will look like"
     excerpt: "Are you ready to step into the future? Brace yourself for mind-blowing innovations and revolutionary transformations as we dive deep into what artificial intelligence in 2025 will look like. Get set to be mesmerized by self-driving cars,"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/15/the-potent
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/15/the-potential-of-embodied-ai/amp/"
 type: article
 quality: 91
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -48,6 +48,17 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "How to spot artificial intelligence-generated content"
+    excerpt: "The catch: this was not Gordon Ramsay. It was an artificial intelligence (AI) version of Ramsay being used to steal people’s identities. With the 2024 Presidential election fast approaching ..."
+    publishedDateTime: 2023-12-15T12:09:00Z
+    webUrl: "https://thehill.com/homenews/4361566-how-to-spot-artificial-intelligence-generated-content/"
+    ampWebUrl: "https://thehill.com/homenews/4361566-how-to-spot-artificial-intelligence-generated-content/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/4361566-how-to-spot-artificial-intelligence-generated-content/amp/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 39
   - title: "Exploring the Limitless Potential: Applications of Artificial Intelligence in Today’s World"
     excerpt: "Welcome to a world where machines can think, learn, and even surpass human intelligence. Artificial Intelligence (AI) has taken the global stage by storm, offering unparalleled opportunities for innovation and growth in various sectors."
     publishedDateTime: 2023-12-17T13:25:00Z

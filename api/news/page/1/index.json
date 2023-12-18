@@ -2,6 +2,93 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-18-teslas-recall-of-2-million-vehicles-reminds-us-how-far-driverless-car-ai-still-has-to-go.md",
+      "title": "Tesla's recall of 2 million vehicles reminds us how far driverless car AI still has to go",
+      "excerpt": "Tesla has recalled 2 million US vehicles over concerns about its autopilot function. Autopilot is meant to help with manoeuvres such as steering and acceleration, but still needs input from the driver.",
+      "sourceUrl": null,
+      "webUrl": "https://www.econotimes.com/Teslas-recall-of-2-million-vehicles-reminds-us-how-far-driverless-car-AI-still-has-to-go-1667962",
+      "originalUrl": "https://www.econotimes.com/Teslas-recall-of-2-million-vehicles-reminds-us-how-far-driverless-car-AI-still-has-to-go-1667962",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://f1.econotimes.com/2023/12/nc1m9ls3vd_th_1024x0.jpg",
+          "width": 496,
+          "height": 279,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-18T02:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EconoTimes",
+        "domain": "econotimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-18-ai-machine-learning-changing-how-first-responders-handle-911-emergencies.md",
+      "title": "AI, machine learning changing how first responders handle 911 emergencies",
+      "excerpt": "Nothing kills more people in the U.S. than heart disease, and researchers within the UPMC health enterprise are using machine learning to advance the breadth and efficiency of electrocardiogram (ECG)",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/cnhi_network/ai-machine-learning-changing-how-first-responders-handle-911-emergencies/article_77449f24-9c25-5cd4-8b79-451f817784ff.html",
+      "originalUrl": "https://www.joplinglobe.com/cnhi_network/ai-machine-learning-changing-how-first-responders-handle-911-emergencies/article_77449f24-9c25-5cd4-8b79-451f817784ff.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/7/e3/7e3426d4-0195-5420-9d0e-e9502693b12f/657cd1cbf050c.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-18T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-12-18-no-donald-trump-never-met-martin-luther-king-jr-despite-ai-photos.md",
       "title": "No, Donald Trump Never Met Martin Luther King Jr. Despite AI Photos",
       "excerpt": "Have you seen photos of Donald Trump with Dr. Martin Luther King Jr.? They’ve been going viral on social media recently, including on X. But they’re completely fake.",
@@ -589,49 +676,6 @@
       ]
     },
     {
-      "path": "_news/2023-12-16-commentary-teslas-recall-of-2-million-vehicles-reminds-us-how-far-driverless-car-ai-still-has-to-go.md",
-      "title": "Commentary: Tesla’s recall of 2 million vehicles reminds us how far driverless car AI still has to go",
-      "excerpt": "There is a pressing need for new standards and mechanisms to assess the capabilities of these driverless cars, says University of Surrey's Saber Fallah.",
-      "sourceUrl": null,
-      "webUrl": "https://www.channelnewsasia.com/commentary/tesla-driverless-cars-recall-2-million-autonomous-vehicles-safety-autopilot-3991256",
-      "originalUrl": "https://www.channelnewsasia.com/commentary/tesla-driverless-cars-recall-2-million-autonomous-vehicles-safety-autopilot-3991256",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://onecms-res.cloudinary.com/image/upload/s--L6zlzHd4--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-04-06t205807z_3_lynxmpej350kx_rtroptp_3_tesla-privacy-cameras.jpg?itok=KuXvCHkc",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-15T22:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Channel NewsAsia Singapore",
-        "domain": "channelnewsasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-12-16-the-pixel-9-might-come-with-exclusive-pixie-ai-assistant.md",
       "title": "The Pixel 9 might come with exclusive “Pixie” AI assistant",
       "excerpt": "The Information reports that Google is working on a new \"Pixie\" AI assistant that will be exclusive to Pixel devices. Pixie will reportedly be powered by Google's new \"Gemini\" AI model. The report says Pixie would launch first on the Pixel 9: \"Eventually,",
@@ -888,7 +932,7 @@
       "originalUrl": "https://www.forbes.com/sites/debgordon/2023/12/15/healthcare-startup-guaranteeing-upfront-price-predictions-raises-23-million/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -1077,6 +1121,57 @@
       ]
     },
     {
+      "path": "_news/2023-12-15-these-ai-generated-news-anchors-are-freaking-me-out.md",
+      "title": "These AI-generated news anchors are freaking me out",
+      "excerpt": "In other words, human-looking AI avatars now seem well on their way to climbing out of the uncanny valley, at least when it comes to news anchors who sit at a desk or stand still in front of a green screen. Channel 1 investor Adam Mosam told Deadline it \"has gotten to a place where it’s comfortable to watch,\" and I have to say I agree.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/ai/2023/12/these-ai-generated-news-anchors-are-freaking-me-out/",
+      "originalUrl": "https://arstechnica.com/ai/2023/12/these-ai-generated-news-anchors-are-freaking-me-out/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/channel1-vs-max-headroom-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-15T15:57:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-15-googles-tensorflow-revolutionizing-machine-learning-and-ai-development.md",
       "title": "Google’s TensorFlow: Revolutionizing Machine Learning and AI Development",
       "excerpt": "Introduction: In the ever-evolving landscape of artificial intelligence, Google’s TensorFlow stands as a beacon of innovation, revolutionizing the way we approach machine learning and AI development.",
@@ -1119,110 +1214,6 @@
         "AI",
         "Google AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-deepminds-ai-finds-new-solution-to-decades-old-math-puzzle-outsmarting-humans.md",
-      "title": "DeepMind’s AI finds new solution to decades-old math puzzle — outsmarting humans",
-      "excerpt": "The LLM got closer than ever before to cracking the cap set problem, which has perplexed mathematicians for decades.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/deepminds-ai-finds-solution-to-decades-old-math-problem",
-      "originalUrl": "https://thenextweb.com/news/deepminds-ai-finds-solution-to-decades-old-math-problem",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F12%2Fmath-code-science-AI.jpg&signature=c7d51f05d2f90d69e7dd1049a3691f58",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-15T15:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-could-blockchain-be-a-key-factor-for-trustworthy-ai.md",
-      "title": "Could Blockchain Be A Key Factor For Trustworthy AI?",
-      "excerpt": "And this is where blockchain might prove useful. Using blockchain, we can create a cryptographic proof of a model’s inference. Inference essentially means the querying of a model. With so-called zero-knowledge proofs, we can confirm that an inference to a model has been made, how the model was prompted and which model was queried.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/15/could-blockchain-be-a-key-factor-for-trustworthy-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/15/could-blockchain-be-a-key-factor-for-trustworthy-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/628d34262b0242a41f0215a4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1590,
-          "height": 894,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/15/could-blockchain-be-a-key-factor-for-trustworthy-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/15/could-blockchain-be-a-key-factor-for-trustworthy-ai/amp/",
-      "publishedDateTime": "2023-12-15T14:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

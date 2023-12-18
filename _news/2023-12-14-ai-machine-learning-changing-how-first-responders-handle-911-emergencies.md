@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "AI, machine learning changing how first responders handle 911 emergencies"
+    excerpt: "Nothing kills more people in the U.S. than heart disease, and researchers within the UPMC health enterprise are using machine learning to advance the breadth and efficiency of electrocardiogram (ECG)"
+    publishedDateTime: 2023-12-18T00:00:00Z
+    webUrl: "https://www.joplinglobe.com/cnhi_network/ai-machine-learning-changing-how-first-responders-handle-911-emergencies/article_77449f24-9c25-5cd4-8b79-451f817784ff.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 55
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/7/e3/7e3426d4-0195-5420-9d0e-e9502693b12f/657cd1cbf050c.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Massage therapy students offer free massages for first responders"
     excerpt: "Massage therapy students at MacEwan University offered free massages to 70 local first responders at their clinic on campus this December."
     publishedDateTime: 2023-12-13T18:33:00Z

@@ -24,6 +24,17 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Using AI-related technologies can significantly enhance human cognition, finds new study"
+    excerpt: "Language professionals such as interpreters, translators and subtitlers should not fear artificial intelligence (AI), as training in new forms of real-time human-AI interaction (HAII) can increase their working memory and task-switching abilities, according to new research from the University of Surrey’s Centre for Translation Studies (CTS) and the"
+    publishedDateTime: 2023-12-17T17:19:00Z
+    webUrl: "https://www.surrey.ac.uk/news/using-ai-related-technologies-can-significantly-enhance-human-cognition-finds-new-study"
+    type: article
+    provider:
+      name: University of Surrey
+      domain: surrey.ac.uk
+    quality: 10
+
 secured: "7AeobD5gvW//jc2VoTKwpUV6QP/GLMwlQW9yjWJreGldTnkx3MapuAmjoPCZ/L8On74UxgEWceAVAH3UYdzedwgr34uVCMd9Fy73WHVSY4WuoY6GCHUYRJi/PQPK6DS+8WHTctm5G4aTzhoq1bsVFCHOBJUT3HsCjZKwzZMUUm63jf2SN95dI3LYHui+SS+PczgksVmA85rQUdZWRHTRupJm4pvKt4LyY9WIlsWjE6cTIKdfg4dwk/euWPLNqnqUjEBACLmjGSuupsVEHgHgy8n2FWZl4ZoOVJ5IonAXxLzFxtoDpvHYlrohHZDLUBYu38y/Oa6tjkLXwzBTgUlgNpIVxtAIjXPFzW9i/FZkWQY=;ufTuu89L1idy2ZRpKLbTzg=="
 ---
 

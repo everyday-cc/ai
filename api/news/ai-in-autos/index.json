@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-12-16-commentary-teslas-recall-of-2-million-vehicles-reminds-us-how-far-driverless-car-ai-still-has-to-go.md",
-      "title": "Commentary: Tesla’s recall of 2 million vehicles reminds us how far driverless car AI still has to go",
-      "excerpt": "There is a pressing need for new standards and mechanisms to assess the capabilities of these driverless cars, says University of Surrey's Saber Fallah.",
+      "path": "_news/2023-12-18-teslas-recall-of-2-million-vehicles-reminds-us-how-far-driverless-car-ai-still-has-to-go.md",
+      "title": "Tesla's recall of 2 million vehicles reminds us how far driverless car AI still has to go",
+      "excerpt": "Tesla has recalled 2 million US vehicles over concerns about its autopilot function. Autopilot is meant to help with manoeuvres such as steering and acceleration, but still needs input from the driver.",
       "sourceUrl": null,
-      "webUrl": "https://www.channelnewsasia.com/commentary/tesla-driverless-cars-recall-2-million-autonomous-vehicles-safety-autopilot-3991256",
-      "originalUrl": "https://www.channelnewsasia.com/commentary/tesla-driverless-cars-recall-2-million-autonomous-vehicles-safety-autopilot-3991256",
+      "webUrl": "https://www.econotimes.com/Teslas-recall-of-2-million-vehicles-reminds-us-how-far-driverless-car-AI-still-has-to-go-1667962",
+      "originalUrl": "https://www.econotimes.com/Teslas-recall-of-2-million-vehicles-reminds-us-how-far-driverless-car-AI-still-has-to-go-1667962",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 90,
       "tags": null,
       "images": [
         {
-          "url": "https://onecms-res.cloudinary.com/image/upload/s--L6zlzHd4--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-04-06t205807z_3_lynxmpej350kx_rtroptp_3_tesla-privacy-cameras.jpg?itok=KuXvCHkc",
-          "width": 1200,
-          "height": 676,
+          "url": "https://f1.econotimes.com/2023/12/nc1m9ls3vd_th_1024x0.jpg",
+          "width": 496,
+          "height": 279,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,11 +26,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-15T22:01:00Z",
+      "publishedDateTime": "2023-12-18T02:25:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Channel NewsAsia Singapore",
-        "domain": "channelnewsasia.com",
+        "name": "EconoTimes",
+        "domain": "econotimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -42,6 +42,59 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-15-experts-call-for-more-diversity-to-combat-bias-in-artificial-intelligence.md",
+      "title": "Experts call for more diversity to combat bias in artificial intelligence",
+      "excerpt": "He encourages employing sociologists, lawyers, political scientists and other types of humanities-oriented academics to help contribute to the conversation around AI and ethics. Lombana-Bermudez said his hope is that future generations may alleviate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/12/15/us/diversity-artificial-intelligence-bias-reaj/index.html",
+      "originalUrl": "https://www.cnn.com/2023/12/15/us/diversity-artificial-intelligence-bias-reaj/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/231214172420-person-working-at-computer-stock-image-restricted.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/12/15/us/diversity-artificial-intelligence-bias-reaj/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/12/15/us/diversity-artificial-intelligence-bias-reaj/index.html",
+      "publishedDateTime": "2023-12-15T14:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -146,6 +199,50 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-13-elon-musk-shares-video-of-teslas-new-humanoid-robot-that-can-dance-and-boil-eggs.md",
+      "title": "Elon Musk Shares Video Of Tesla's New Humanoid Robot That Can Dance And Boil Eggs",
+      "excerpt": "A video shared by Elon Musk shows significant improvements made to the robot since its prototype was first unveiled at the Tesla AI Day earlier this year ... The company said that it plans to soon start using the robot in its manufacturing operations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/feature/elon-musk-shares-video-of-teslas-new-humanoid-robot-that-can-dance-and-boil-eggs-4668028",
+      "originalUrl": "https://www.ndtv.com/feature/elon-musk-shares-video-of-teslas-new-humanoid-robot-that-can-dance-and-boil-eggs-4668028",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2023-12/28ue0i3g_tesla-optimus-robot_625x300_13_December_23.jpg",
+          "width": 1200,
+          "height": 738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/feature/elon-musk-shares-video-of-teslas-new-humanoid-robot-that-can-dance-and-boil-eggs-4668028/amp/1",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/feature/elon-musk-shares-video-of-teslas-new-humanoid-robot-that-can-dance-and-boil-eggs-4668028/amp/1",
+      "publishedDateTime": "2023-12-13T15:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -1253,92 +1350,6 @@
       "provider": {
         "name": "Indiatimes",
         "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-artificial-intelligence-makes-gripping-more-intuitive.md",
-      "title": "Artificial intelligence makes gripping more intuitive",
-      "excerpt": "This requires a network of 128 sensors and artificial intelligence based techniques. Different types of grasps and bionic design: technological developments in recent decades have already led to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/12/231205144408.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/12/231205144408.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-cybertrucks-full-self-driving-is-flawed-says-dawn-project.md",
-      "title": "Cybertruck’s Full Self-Driving is Flawed Says Dawn Project",
-      "excerpt": "Commenting on the Cybertruck’s launch, Founder of The Dawn Project Dan O’Dowd said: “ A Full Self-Driving Cybertruck is a three-ton AI-driven robot powered by software which has already resulted in at least 27 deaths.",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoconnectedcar.com/2023/12/cybertrucks-full-self-driving-is-flawed-says-dawn-project/",
-      "originalUrl": "https://www.autoconnectedcar.com/2023/12/cybertrucks-full-self-driving-is-flawed-says-dawn-project/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.autoconnectedcar.com/wp-content/uploads/2023/11/CybertuckScreenshot-2023-11-30-172111-1024x482.jpg",
-          "width": 1024,
-          "height": 482,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T23:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "autoconnectedcar.com",
-        "domain": "autoconnectedcar.com",
         "images": null,
         "publishers": null,
         "authors": null

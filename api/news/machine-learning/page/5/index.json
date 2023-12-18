@@ -2,6 +2,96 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-11-06-ai-and-machine-learning-key-drivers-of-technology-trends-in-2024.md",
+      "title": "AI and Machine Learning: Key Drivers of Technology Trends in 2024",
+      "excerpt": "In the rapidly evolving landscape of technology, 2024 promises to be a year that will bring about transformative changes and innovative breakthroughs. At the forefront of these advancements are Artificial Intelligence (AI) and Machine Learning (ML).",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/ai-and-machine-learning-key-drivers-of-technology-trends-in-2024/",
+      "originalUrl": "https://techbullion.com/ai-and-machine-learning-key-drivers-of-technology-trends-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2023/11/Untitled-design-20.png",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-06T09:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-11-06-pytorch-vs-tensorflow-machine-learning-frameworks-compared.md",
+      "title": "PyTorch vs TensorFlow machine learning frameworks compared",
+      "excerpt": "JAX is a newer entrant into the numerical computing space, backed by Google, and is quickly gaining traction in the deep learning community. It offers an efficient environment for numerical computations, automatic differentiation, and GPU/TPU support.",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeky-gadgets.com/pytorch-vs-tensorflow/",
+      "originalUrl": "https://www.geeky-gadgets.com/pytorch-vs-tensorflow/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2023/11/PyTorch-vs-TensorFlow.jpg",
+          "width": 1280,
+          "height": 724,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-06T08:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geeky Gadgets",
+        "domain": "geeky-gadgets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI",
+        "Facebook AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2023-11-03-sony-interactive-entertainment-acquires-deep-learning-company-isize.md",
       "title": "Sony Interactive Entertainment acquires deep learning company iSIZE",
       "excerpt": "Sony Interactive Entertainment has acquired iSIZE, a tech company that specializes in deep learning technology. Sony announced its acquisition of iSIZE in a post on the corporation’s website.",
@@ -1178,86 +1268,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-23-how-fincover-fintech-company-is-using-ai-and-machine-learning-to-boost-financial-inclusion.md",
-      "title": "How Fincover (Fintech Company) is using AI and Machine Learning to boost financial Inclusion",
-      "excerpt": "Fincover, a fintech startup based in Chennai, has quickly emerged as one of the DSAs in the Personal Loan space with their extensive use of technologies like Artificial Intelligence (AI) and Machine Learning (ML),",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraphindia.com/brand-studio/how-fincover-fintech-company-is-using-ai-and-machine-learning-to-boost-financial-inclusion/cid/1975036",
-      "originalUrl": "https://www.telegraphindia.com/brand-studio/how-fincover-fintech-company-is-using-ai-and-machine-learning-to-boost-financial-inclusion/cid/1975036",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.telegraphindia.com/telegraph/2023/Oct/1698076869_untitled-design.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.telegraphindia.com/amp/brand-studio/how-fincover-fintech-company-is-using-ai-and-machine-learning-to-boost-financial-inclusion/cid/1975036",
-      "cdnAmpWebUrl": "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/brand-studio/how-fincover-fintech-company-is-using-ai-and-machine-learning-to-boost-financial-inclusion/cid/1975036",
-      "publishedDateTime": "2023-10-23T16:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Telegraph",
-        "domain": "telegraphindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-10-23-rapid-finance-announces-from-money2020-usa-that-its-ai-and-ml-ready-lynx-platform-is-now-available-on-microsofts-azure-marketplace.md",
-      "title": "Rapid Finance announces from Money20/20 USA That its AI- and ML-Ready Lynx platform is now available on Microsoft’s Azure marketplace",
-      "excerpt": "Rapid Enterprise, a division of Rapid Finance, an industry leader in delivering automated and scalable Lending-as-a-Service (LaaS) solutions to support",
-      "sourceUrl": null,
-      "webUrl": "https://www.cuinsight.com/press-release/rapid-finance-announces-from-money20-20-usa-that-its-ai-and-ml-ready-lynx-platform-is-now-available-on-microsofts-azure-marketplace/",
-      "originalUrl": "https://www.cuinsight.com/press-release/rapid-finance-announces-from-money20-20-usa-that-its-ai-and-ml-ready-lynx-platform-is-now-available-on-microsofts-azure-marketplace/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-23T13:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CUInsight",
-        "domain": "cuinsight.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "AI in Finance"
       ]
     }
   ],

@@ -2,6 +2,229 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-12-11-why-generative-ai-makes-sense-for-edge-computing.md",
+      "title": "Why Generative AI Makes Sense For Edge Computing",
+      "excerpt": "Many industry analysts and pundits now predict that generative AI will be the next significant AI application to make an impact at the edge.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/11/why-generative-ai-makes-sense-for-edge-computing/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/11/why-generative-ai-makes-sense-for-edge-computing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 201,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/648334bbb7a645bee5fbe46d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/11/why-generative-ai-makes-sense-for-edge-computing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/11/why-generative-ai-makes-sense-for-edge-computing/amp/",
+      "publishedDateTime": "2023-12-11T13:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-12-11-bigbearai-expands-its-relationship-with-aws-to-deliver-ai-driven-solutions.md",
+      "title": "BigBear.ai Expands its Relationship with AWS to Deliver AI-Driven Solutions",
+      "excerpt": "BigBear.ai continues to expand its capabilities to serve the commercial enterprise sector and is proud to advance this new effort with AWS.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2023/12/11/9931286.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2023/12/11/9931286.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.tmcnet.com/tmc/world.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-11T13:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-11-get-your-it-team-battle-ready-for-the-next-holiday-rush.md",
+      "title": "Get your IT team battle-ready for the next holiday rush ",
+      "excerpt": "Consider an AI-powered approach to incident management to diagnose, handle and react to online outages during peak shopping periods.\nThe post Get your IT team battle-ready for the next holiday rush  appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/get-your-it-team-battle-ready-for-the-next-holiday-rush/",
+      "originalUrl": "https://www.ibm.com/blog/get-your-it-team-battle-ready-for-the-next-holiday-rush/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-11T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-11-ibm-app-connect-the-sustainability-tool-you-didnt-know-you-needed.md",
+      "title": "IBM App Connect: The sustainability tool you didn’t know you needed",
+      "excerpt": "IBM App Connect allows organizations to easily connect applications and data, whether on premise, on public or private cloud.\nThe post IBM App Connect: The sustainability tool you didn’t know you needed appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ibm-app-connect-the-sustainability-tool-you-didnt-know-you-needed/",
+      "originalUrl": "https://www.ibm.com/blog/ibm-app-connect-the-sustainability-tool-you-didnt-know-you-needed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-11T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-11-artificial-intelligence-ai-can-teach-math-teachers-how-to-improve-student-skills.md",
+      "title": "Artificial intelligence (AI) can teach math teachers how to improve student skills",
+      "excerpt": "When teachers completed a programme that uses artificial intelligence (AI) to improve their teaching skills, their students’ math performance improved.",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/opinion/artificial-intelligence-ai-can-teach-math-teachers-how-to-improve-student-skills-71702226604984.html",
+      "originalUrl": "https://tech.hindustantimes.com/opinion/artificial-intelligence-ai-can-teach-math-teachers-how-to-improve-student-skills-71702226604984.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2023/12/11/1600x900/g5a0a2d99_1702257168240_1702257168559.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/opinion/artificial-intelligence-ai-can-teach-math-teachers-how-to-improve-student-skills-71702226604984.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/opinion/artificial-intelligence-ai-can-teach-math-teachers-how-to-improve-student-skills-71702226604984.html",
+      "publishedDateTime": "2023-12-11T12:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times Tech",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-11-ai-enhanced-people-development-opens-a-new-path-to-business-growth.md",
       "title": "AI-Enhanced People Development Opens A New Path To Business Growth",
       "excerpt": "To navigate HR challenges effectively, a transformative approach to people development, enhanced by AI, is essential.",
@@ -887,231 +1110,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-09-eu-agrees-landmark-rules-on-artificial-intelligence.md",
-      "title": "EU agrees landmark rules on artificial intelligence",
-      "excerpt": "EU lawmakers have agreed the terms for landmark legislation to regulate artificial intelligence, pushing ahead with enacting the world’s most restrictive regime on the development of the technology. Thierry Breton, EU commissioner, confirmed in a post on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/d5bec462-d948-4437-aab1-e6505031a303?sharetype=gift",
-      "originalUrl": "https://www.ft.com/content/d5bec462-d948-4437-aab1-e6505031a303?sharetype=gift",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-09T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-09-i-pitted-google-bard-with-gemini-pro-vs-chatgpt-heres-the-winner.md",
-      "title": "I pitted Google Bard with Gemini Pro vs ChatGPT — here’s the winner",
-      "excerpt": "Google has incorporated its new AI large language model, Gemini Pro, into its popular chatbot, Bard. With this comes the promise that it will perform at least as well, if not better, than OpenAI's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tomsguide.com/features/i-pitted-google-bard-with-gemini-pro-vs-chatgpt-heres-the-winner",
-      "originalUrl": "https://www.tomsguide.com/features/i-pitted-google-bard-with-gemini-pro-vs-chatgpt-heres-the-winner",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/5izKezBiWMfNnrFVFC7uYM-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-09T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tom's Guide",
-        "domain": "tomsguide.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-09-amazon-says-scammers-stole-millions-through-phony-product-returns.md",
-      "title": "Amazon says scammers stole millions through phony product returns",
-      "excerpt": "Amazon is taking what it calls an international fraud ring to court for allegedly stealing millions of dollars in a scheme that had participants getting refunds for pricey products without sending ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/amazon-scam-fake-returns-lawsuit/",
-      "originalUrl": "https://www.cbsnews.com/news/amazon-scam-fake-returns-lawsuit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/11/14/5bf30c28-7d1a-4b70-9e9d-fd31bac86888/thumbnail/1200x630/549677390e5aa7f1d600d3fc65563c39/gettyimages-1237538354.jpg?v=5382e209c94ee904b3a96a69f8ca0ce0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/amazon-scam-fake-returns-lawsuit/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/amazon-scam-fake-returns-lawsuit/",
-      "publishedDateTime": "2023-12-08T22:37:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-09-ethics-in-ai-a-conversation-with-diya-wynn-aws-responsible-ai-lead.md",
-      "title": "Ethics In AI: A Conversation With Diya Wynn, AWS Responsible AI Lead",
-      "excerpt": "Invent conference, I had the distinct opportunity to delve into these pressing issues with Diya Wynn, AWS’s Responsible AI Lead.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/carolinamilanesi/2023/12/08/ethics-in-ai-a-conversation-with-diya-wynn-aws-responsible-ai-lead/",
-      "originalUrl": "https://www.forbes.com/sites/carolinamilanesi/2023/12/08/ethics-in-ai-a-conversation-with-diya-wynn-aws-responsible-ai-lead/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/657398ac14070a55cc835737/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1353,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/carolinamilanesi/2023/12/08/ethics-in-ai-a-conversation-with-diya-wynn-aws-responsible-ai-lead/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinamilanesi/2023/12/08/ethics-in-ai-a-conversation-with-diya-wynn-aws-responsible-ai-lead/amp/",
-      "publishedDateTime": "2023-12-08T22:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-09-amd-unveils-ai-accelerators-from-cloud-to-client-with-mi300-leading-the-charge.md",
-      "title": "AMD Unveils AI Accelerators From Cloud To Client With MI300 Leading The Charge",
-      "excerpt": "The market will likely be eager for these new AI silicon engines and tools from AMD, and it's going to be a dogfight.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davealtavilla/2023/12/08/amd-unveils-ai-accelerators-from-cloud-to-client-with-mi300-leading-the-charge/",
-      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2023/12/08/amd-unveils-ai-accelerators-from-cloud-to-client-with-mi300-leading-the-charge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/657344159dd114776e33d37c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1280,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2023/12/08/amd-unveils-ai-accelerators-from-cloud-to-client-with-mi300-leading-the-charge/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2023/12/08/amd-unveils-ai-accelerators-from-cloud-to-client-with-mi300-leading-the-charge/amp/",
-      "publishedDateTime": "2023-12-08T21:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

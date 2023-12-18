@@ -44,22 +44,6 @@ related:
         width: 1392
         height: 900
         isCached: true
-  - title: "AI, Machine Learning Startup Chalk Raises $10 Million in Seed Funding"
-    excerpt: "Artificial intelligence (AI) and machine learning (ML) startup Chalk has raised $10 million in a Seed round, according to a note from the firm. The funding"
-    publishedDateTime: 2023-12-13T01:41:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/12/218043-ai-machine-learning-startup-chalk-raises-10-million-in-seed-funding/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/12/218043-ai-machine-learning-startup-chalk-raises-10-million-in-seed-funding/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/12/218043-ai-machine-learning-startup-chalk-raises-10-million-in-seed-funding/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 74
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2023/12/Chalk-co-founders-Elliot-Marx-left-Andrew-Moreland-center-and-Marc-Freed-Finnegan-right.jpg"
-        width: 1000
-        height: 768
-        isCached: true
   - title: "Chinese AI Startup 01.AI Seeks $200 Million in Funding"
     excerpt: "Beijing-based artificial intelligence (AI) startup 01.AI is raising $200 million in a new funding round. This comes on the heels"
     publishedDateTime: 2023-12-15T06:29:00Z

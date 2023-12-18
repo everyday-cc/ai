@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-18-ai-machine-learning-changing-how-first-responders-handle-911-emergencies.md",
+      "title": "AI, machine learning changing how first responders handle 911 emergencies",
+      "excerpt": "Nothing kills more people in the U.S. than heart disease, and researchers within the UPMC health enterprise are using machine learning to advance the breadth and efficiency of electrocardiogram (ECG)",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/cnhi_network/ai-machine-learning-changing-how-first-responders-handle-911-emergencies/article_77449f24-9c25-5cd4-8b79-451f817784ff.html",
+      "originalUrl": "https://www.joplinglobe.com/cnhi_network/ai-machine-learning-changing-how-first-responders-handle-911-emergencies/article_77449f24-9c25-5cd4-8b79-451f817784ff.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/7/e3/7e3426d4-0195-5420-9d0e-e9502693b12f/657cd1cbf050c.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-18T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-12-16-ai-gives-birth-to-ai-scientists-say-machine-intelligence-now-capable-of-replicating-without-humans.md",
       "title": "AI gives birth to AI: Scientists say machine intelligence now capable of replicating without humans",
       "excerpt": "A group of scientists from across the U.S. claim to have created the first artificial intelligence capable of generating AI without human supervision.",
@@ -734,6 +778,50 @@
       ]
     },
     {
+      "path": "_news/2023-12-06-chatgpt-and-how-neural-networks-learned-to-talk-a-30-year-journey.md",
+      "title": "ChatGPT and how Neural Networks learned to talk a 30 year journey",
+      "excerpt": "Learn about the advances in technology over the last 30 years that have culminated into neural networks being able to talk. ChatGPT AI models",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeky-gadgets.com/how-neural-networks-learned-to-talk/",
+      "originalUrl": "https://www.geeky-gadgets.com/how-neural-networks-learned-to-talk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/ChatGPT-and-how-Neural-Networks-learned-to-talk.jpg",
+          "width": 1280,
+          "height": 717,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T11:26:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geeky Gadgets",
+        "domain": "geeky-gadgets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-06-red-hat-cofounder-bob-young-invests-in-new-liquid-neural-network-ai-startup.md",
       "title": "Red Hat cofounder Bob Young invests in new ‘liquid neural network’ AI startup",
       "excerpt": "RESEARCH TRIANGLE PARK – Red Hat cofounder and Triangle tech legend Bob Young is making a new investment play, this time in artificial intelligence ... is based on what’s called a liquid neural network. Here’s how MIT describes the technology ...",
@@ -1221,92 +1309,6 @@
       "provider": {
         "name": "Phys.org",
         "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-artificial-intelligence-who-are-the-leaders-in-supervised-neural-nets-for-the-automotive-industry.md",
-      "title": "Artificial intelligence: who are the leaders in supervised neural nets for the automotive industry?",
-      "excerpt": "Supervised neural nets involve training a neural network on a labeled dataset, where the algorithm learns to predict an output based on input data. The training is guided by a supervisor who provides the correct output for each input, allowing the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.just-auto.com/data-insights/innovators-ai-supervised-neural-nets-automotive/",
-      "originalUrl": "https://www.just-auto.com/data-insights/innovators-ai-supervised-neural-nets-automotive/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.just-auto.com/wp-content/uploads/sites/30/2023/12/Automotive_AI_supervised-neural-nets.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Just Auto",
-        "domain": "just-auto.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-new-deep-learning-challenge-to-estimate-breast-density-from-mammograms.md",
-      "title": "New deep learning challenge to estimate breast density from mammograms",
-      "excerpt": "A new deep learning challenge has been launched by the UEF Cancer AI research team at the University of eastern Finland, led by senior researcher Hamid Behravan, PhD. The challenge aims to develop an architecture capable of automatically estimating the breast percentage density from mammograms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/1010191",
-      "originalUrl": "https://www.eurekalert.org/news-releases/1010191",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/248b62b3-17ad-45f8-9eb4-0f5396ac3067/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 302,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null

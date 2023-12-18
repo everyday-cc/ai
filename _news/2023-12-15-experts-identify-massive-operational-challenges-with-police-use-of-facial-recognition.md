@@ -7,7 +7,7 @@ originalUrl: "https://www.publictechnology.net/2023/12/15/public-order-justice-a
 webUrl: "https://www.publictechnology.net/2023/12/15/public-order-justice-and-rights/experts-identify-massive-operational-challenges-with-police-use-of-facial-recognition/"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 2560
     height: 1707
     isCached: true
+
+related:
+  - title: "BCSO considering use of facial recognition to identify suspects"
+    excerpt: "The Benton County Sheriff's Office is testing the use of facial recognition software to identify criminals and suspects."
+    publishedDateTime: 2023-12-14T02:55:00Z
+    webUrl: "https://www.nbcrightnow.com/news/bcso-considering-use-of-facial-recognition-to-identify-suspects/article_913c7418-9a34-11ee-bf9a-0f3efdb4c754.html"
+    type: article
+    provider:
+      name: NBC Right Now
+      domain: nbcrightnow.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nbcrightnow.com/content/tncms/assets/v3/editorial/7/3b/73bdce22-f5fc-11e9-a715-fb805e66758f/5db0fc836dc67.image.jpg?crop=618%2C324%2C0%2C19&resize=618%2C324&order=crop%2Cresize"
+        width: 618
+        height: 324
+        isCached: true
 
 secured: "3bfmb3GfC8OoomQ2kpavvmdQW/XGnNK+GnJ7CmevAbW6KNnu7ugvgZAJV8ZU50s0dsKtWpEXNa+YtDR2WkSpSamWRIAnXLm2gpUrGyBteUmMK2ZYWh7xpp5FgvXdXr6XJKJOqAb8z77Pi+vE9NZNgrFXP9ixzDrmUZZfNC9XvsfU74yR8nVtGEjkJw5HijkTj/Rk2SzrXcAqhy2JPvgH5br3cKj1iOkrgfASVmnbrOkLDmzx6IERFkgfYtNZ3WQV2SUsa+mX05Mr/XJx1h3UaGcoBT9UxbsL/ZRZq1rBVjzyNPUTmym8urNrbxPQPx+E/oYTLihc7FTowdhUXClD7ncLrxd7j+dEl/hJgcygWAtLKAnuwjvVQUKYxg6CQ9kT31mh97STNWZ7/eXEf5Xy7jSMejggIcTr1eWKnk008gOApdLlEF5+s6rOCMp/FPusT8f1bkTXvqZ+d7NFkp3R0/O85tNFpj9o0zgulgU29+NJhuocQ4TmNZq/Cal+vj/k3Luee+0srTRFQznIK5nR3A==;41XUPgd5xnjuWzqrtFFL4w=="
 ---

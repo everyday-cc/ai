@@ -2,6 +2,298 @@
   "page": 84,
   "value": [
     {
+      "path": "_news/2023-10-12-amazons-bold-move-demolishing-towers-for-ai-dominance.md",
+      "title": "Amazon's Bold Move: Demolishing Towers For AI Dominance",
+      "excerpt": "Matt Shumer, the founder of Otherside AI, told the Financial Times last week that AI has profoundly changed the role of software engineers. His team now focuses on defining the problem, designing structure, and then directing AI to do all of the heavy lifting. Otherside is capable of doing much more with far fewer coders.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jonmarkman/2023/10/11/amazons-bold-move-demolishing-towers-for-ai-dominance/",
+      "originalUrl": "https://www.forbes.com/sites/jonmarkman/2023/10/11/amazons-bold-move-demolishing-towers-for-ai-dominance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65273dcbe0b481b15f1f6525/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1353,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jonmarkman/2023/10/11/amazons-bold-move-demolishing-towers-for-ai-dominance/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonmarkman/2023/10/11/amazons-bold-move-demolishing-towers-for-ai-dominance/amp/",
+      "publishedDateTime": "2023-10-12T00:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-12-adobe-unveils-firefly-2-and-previews-more-ai-features-what-you-need-to-know.md",
+      "title": "Adobe unveils Firefly 2 and previews more AI features: what you need to know",
+      "excerpt": "Adobe is allowing companies to customize and fine-tune Firefly for their needs, and control how their employees use it.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/adobe-unveils-firefly-2-and-previews-more-ai-features-what-you-need-to-know/",
+      "originalUrl": "https://venturebeat.com/ai/adobe-unveils-firefly-2-and-previews-more-ai-features-what-you-need-to-know/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/10/Firefly-A-field-full-of-fireflies-atop-a-city-building-67568.jpg?w=1200&strip=all",
+          "width": 1199,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-11T23:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-12-ai-ethics-usage-study-takes-place.md",
+      "title": "AI ethics & usage study takes place",
+      "excerpt": "Artificial Intelligence. It's a tool of the future, but it's here today. How do we reign in something so new that most people don't understand it yet?",
+      "sourceUrl": null,
+      "webUrl": "https://www.kswo.com/2023/10/11/ai-ethics-usage-study-takes-place/",
+      "originalUrl": "https://www.kswo.com/2023/10/11/ai-ethics-usage-study-takes-place/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-kswo-prod.cdn.arcpublishing.com/resizer/9lF5iIay7NHAw9fB0ymqpJL9wZ4=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/GSZDN2XRDNFB7IFGSIQJ2WZ3SQ.png",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.kswo.com/2023/10/11/ai-ethics-usage-study-takes-place/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-kswo-com.cdn.ampproject.org/c/s/www.kswo.com/2023/10/11/ai-ethics-usage-study-takes-place/?outputType=amp",
+      "publishedDateTime": "2023-10-11T23:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KSWO ABC 7 News",
+        "domain": "kswo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-12-indian-fintech-razorpay-launches-ai-powered-solution-to-streamline-digital-payments.md",
+      "title": "Indian Fintech Razorpay Launches AI-Powered Solution to Streamline Digital Payments",
+      "excerpt": "Indian Fintech firm Razorpay introduces what it claims is India’s \"first\" AI-powered payments Infinity Router – Razorpay Optimizer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2023/10/214176-indian-fintech-razorpay-launches-ai-powered-solution-to-streamline-digital-payments/",
+      "originalUrl": "https://www.crowdfundinsider.com/2023/10/214176-indian-fintech-razorpay-launches-ai-powered-solution-to-streamline-digital-payments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/06/India-Money-Rupees-Coins-1.jpeg",
+          "width": 1600,
+          "height": 1291,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2023/10/214176-indian-fintech-razorpay-launches-ai-powered-solution-to-streamline-digital-payments/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/10/214176-indian-fintech-razorpay-launches-ai-powered-solution-to-streamline-digital-payments/amp/",
+      "publishedDateTime": "2023-10-11T22:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-12-alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit.md",
+      "title": "Alphabet's AI lab, DeepMind, cut employee costs by nearly 40% in 2022, alongside a drop in profit",
+      "excerpt": "Alphabet's AI lab, DeepMind, cut employee costs by 39% last year, alongside a drop in profit of more than 40% for the same period, according to a recent filing with a U.K. government agency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/10/11/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40percent-in-2022.html",
+      "originalUrl": "https://www.cnbc.com/2023/10/11/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40percent-in-2022.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105099255-DeepMind_Hassabis_WechatIMG253.jpg?v=1697043587",
+          "width": 4189,
+          "height": 2792,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/10/11/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40percent-in-2022.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/10/11/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40percent-in-2022.html",
+      "publishedDateTime": "2023-10-11T22:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-12-exclusive-southeast-asia-eyes-hands-off-ai-rules-defying-eu-ambitions.md",
+      "title": "Exclusive: Southeast Asia eyes hands-off AI rules, defying EU ambitions",
+      "excerpt": "Reuters reviewed a confidential draft of the 10-member Association of Southeast Asian Nations' (ASEAN) \"guide to AI ethics and governance,\" whose content has not previously been reported.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/southeast-asia-eyes-hands-off-ai-rules-defying-eu-ambitions-2023-10-11/",
+      "originalUrl": "https://www.reuters.com/technology/southeast-asia-eyes-hands-off-ai-rules-defying-eu-ambitions-2023-10-11/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/SDQ2HUsDG5vlzMGFzk2ALGhylu4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/K3CNAQYVM5MQJM2WG55A3MK5SA.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-11T21:11:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-12-adobe-launches-new-symbol-to-tag-ai-generated-contentbut-will-anyone-use-it.md",
       "title": "Adobe launches new symbol to tag AI-generated content—but will anyone use it?",
       "excerpt": "The information is automatically added by supporting digital cameras and AI image generator Adobe Firefly, or it can be inserted by Photoshop and Premiere. It will also soon be supported by Bing Image Creator.",
@@ -871,288 +1163,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-ai-revolutionizing-mri-scans-a-munich-startup-banked-32m-to-scan-eggs-and-says-humans-are-next.md",
-      "title": "AI revolutionizing MRI scans — a Munich startup banked $32M to scan eggs, and says humans are next",
-      "excerpt": "Germany, France and Italy are among the countries which last year enacted laws to stop the practice of culling male day-old chicks, because, as they do",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/10/11/ai-revolutionizing-mri-scans-a-munich-startup-banked-32m-to-scan-eggs-and-says-humans-are-next/",
-      "originalUrl": "https://techcrunch.com/2023/10/11/ai-revolutionizing-mri-scans-a-munich-startup-banked-32m-to-scan-eggs-and-says-humans-are-next/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/10/Orbem.jpg?resize=1200,668",
-          "width": 1200,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/10/11/ai-revolutionizing-mri-scans-a-munich-startup-banked-32m-to-scan-eggs-and-says-humans-are-next/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/11/ai-revolutionizing-mri-scans-a-munich-startup-banked-32m-to-scan-eggs-and-says-humans-are-next/amp/",
-      "publishedDateTime": "2023-10-11T15:47:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-opportunities-for-ai-to-assist-cell-gene-therapy-companies.md",
-      "title": "Opportunities for AI to assist Cell & Gene therapy companies",
-      "excerpt": "PA Consulting life sciences expert Yoshio Hagiwara, PA cell & gene expert Paolo Siciliano, and Willem van Asperen, PA's chief data scientist, explain how AI can transform the cell & gene sector.",
-      "sourceUrl": null,
-      "webUrl": "https://www.paconsulting.com/newsroom/cell-and-gene-opportunities-for-ai-to-assist-cell-and-gene-therapy-companies-10-october-2023",
-      "originalUrl": "https://www.paconsulting.com/newsroom/cell-and-gene-opportunities-for-ai-to-assist-cell-and-gene-therapy-companies-10-october-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T15:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PA Consulting Group",
-        "domain": "paconsulting.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-deep-instinct-threat-report-finds-ransomware-state-sponsored-attacks-and-ai-powered-cyber-threats-surged-in-h1-2023.md",
-      "title": "Deep Instinct Threat Report Finds Ransomware, State-Sponsored Attacks, and AI-Powered Cyber Threats Surged in H1 2023",
-      "excerpt": "Deep Instinct, the prevention-first cybersecurity company that stops unknown malware pre-execution with a purpose-built, AI-based deep learning (DL) framework, today released its 2023 Bi-Annual Cyber Threat Report,",
-      "sourceUrl": null,
-      "webUrl": "https://www.valdostadailytimes.com/ap/business/deep-instinct-threat-report-finds-ransomware-state-sponsored-attacks-and-ai-powered-cyber-threats-surged/article_a0aa29fa-9202-596d-a7d6-4870adaffb67.html",
-      "originalUrl": "https://www.valdostadailytimes.com/ap/business/deep-instinct-threat-report-finds-ransomware-state-sponsored-attacks-and-ai-powered-cyber-threats-surged/article_a0aa29fa-9202-596d-a7d6-4870adaffb67.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T15:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Valdosta Daily Times",
-        "domain": "valdostadailytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-the-voice-why-australia-trails-new-zealand-on-indigenous-journey.md",
-      "title": "The Voice: Why Australia trails New Zealand on Indigenous journey",
-      "excerpt": "Standing there reading the panels, Debby May, 65, turned to her friend Wan, a 25-year-old Chinese immigrant to New Zealand, and explained that neighbouring Australia had a referendum on Indigenous people coming up, called the Voice.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/world-australia-67076216",
-      "originalUrl": "https://www.bbc.com/news/world-australia-67076216",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 339,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/6EB3/production/_131393382_waitangigirl-gettyimages-1300569525.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/world-australia-67076216.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-australia-67076216.amp",
-      "publishedDateTime": "2023-10-11T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-ai-set-for-a-cold-shower-in-2024-warns-analyst.md",
-      "title": "AI Set For A “Cold Shower” In 2024, Warns Analyst",
-      "excerpt": "Steep costs and the threat of government regulation will dampen enthusiasm for generative AI services next year, an analyst warns",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/barrycollins/2023/10/11/ai-set-for-a-cold-shower-in-2024-warns-analyst/",
-      "originalUrl": "https://www.forbes.com/sites/barrycollins/2023/10/11/ai-set-for-a-cold-shower-in-2024-warns-analyst/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6526b589fe16de2bb75de703/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/barrycollins/2023/10/11/ai-set-for-a-cold-shower-in-2024-warns-analyst/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2023/10/11/ai-set-for-a-cold-shower-in-2024-warns-analyst/amp/",
-      "publishedDateTime": "2023-10-11T14:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-klarnas-ai-helps-you-buy-things-in-photographs.md",
-      "title": "Klarna's AI Helps You Buy Things in Photographs",
-      "excerpt": "Popular online payments service Klarna is tapping AI to let us \"snap, search, and shop\" for items identified in a photograph.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/klarnas-ai-helps-you-buy-things-in-photographs",
-      "originalUrl": "https://www.pcmag.com/news/klarnas-ai-helps-you-buy-things-in-photographs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/01crS0YwNMPA8bcZZY0BsZF-1.fit_lim.size_1200x630.v1697033944.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T14:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

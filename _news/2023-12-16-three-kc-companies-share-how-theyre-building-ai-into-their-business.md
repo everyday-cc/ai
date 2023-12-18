@@ -109,7 +109,7 @@ related:
     provider:
       name: realtybiznews
       domain: realtybiznews.com
-    quality: 56
+    quality: 58
     images:
       - url: "https://realtybiznews.com/wp-content/uploads/2022/07/banner-2.png"
         width: 300
@@ -156,6 +156,20 @@ related:
       - url: "https://arizent.brightspotcdn.com/dims4/default/213d245/2147483647/strip/true/crop/510x268+0+39/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F40%2F4c%2Ff764f70d44ec80eab750dbc8af35%2F1-1-1-artificial-intelligence-cover.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "How AI In Software Development Improves Data And Decision Making"
+    excerpt: "Keeping track of AI development is a real challenge. Just when you think the progress has reached its peak, a mindblowing innovation hits the news.  A number of major industries, including healthcare,"
+    publishedDateTime: 2023-12-17T23:57:00Z
+    webUrl: "https://techbullion.com/how-ai-in-software-development-improves-data-and-decision-making/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/thumbnailHEYBEIPE-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
   - title: "Preparing for the future: Exploring what artificial intelligence in 2025 will look like"
     excerpt: "Are you ready to step into the future? Brace yourself for mind-blowing innovations and revolutionary transformations as we dive deep into what artificial intelligence in 2025 will look like. Get set to be mesmerized by self-driving cars,"

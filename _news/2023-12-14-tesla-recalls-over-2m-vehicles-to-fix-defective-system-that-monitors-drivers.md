@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Tesla's recall of 2 million vehicles reminds us how far driverless car AI still has to go"
+    excerpt: "Tesla has recalled 2 million US vehicles over concerns about its autopilot function. Autopilot is meant to help with manoeuvres such as steering and acceleration, but still needs input from the driver."
+    publishedDateTime: 2023-12-18T02:25:00Z
+    webUrl: "https://www.econotimes.com/Teslas-recall-of-2-million-vehicles-reminds-us-how-far-driverless-car-AI-still-has-to-go-1667962"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 60
+    images:
+      - url: "https://f1.econotimes.com/2023/12/nc1m9ls3vd_th_1024x0.jpg"
+        width: 496
+        height: 279
+        isCached: true
   - title: "Commentary: Tesla’s recall of 2 million vehicles reminds us how far driverless car AI still has to go"
     excerpt: "There is a pressing need for new standards and mechanisms to assess the capabilities of these driverless cars, says University of Surrey's Saber Fallah."
     publishedDateTime: 2023-12-15T22:01:00Z
@@ -42,15 +56,6 @@ related:
       name: The Conversation
       domain: theconversation.com
     quality: 40
-  - title: "Commentary: Healthcare makes its case with innovation, valuation"
-    excerpt: "The healthcare sector was a market laggard in 2023, but attractive valuations and promising drug development could lead to a rebound in coming quarters."
-    publishedDateTime: 2023-12-13T13:00:00Z
-    webUrl: "https://www.pionline.com/industry-voices/commentary-healthcare-makes-its-case-innovation-valuation"
-    type: article
-    provider:
-      name: Pensions&Investments
-      domain: pionline.com
-    quality: 19
 
 secured: "1SBtefrU377FA7h9GEdMl/kUtu7ILumh7KEUBZMMnyyIFX5XNAKUEDxZMA5Xe/tK/KBuHCXaKZqIe8pZO9U5rJCvm8Dwr9fHQ5TUOGeYpGjOF6J8IqvqQtQYNKWd6LS6NWS/iP0oA4KQrAWmeG6ldoRg4D21uVeipfe3rhG9jm1HrCAplAn44wyxd+jH/1rzI9le65Cci+EM8pAk0I4RzLM8Y2q83pl4KI1iDarlv0VhH/V/vrW6hWExNbytK7LfCA2bxfBjkFPuVaL5xQutUO/hDF72DStoOnjn7u1uNSVjXIJ/3ZNSOTo4AoOgh718C3ff2V9Dw1jQGEoDq0ib/BobmI4rsTAIsY7nV/8B/1ULc4BMTwmlU+L+E4UWKx2aIOkgyor6i5sRHr3xmlQDMmg8MB0x3kJAetS+5xy+p419TzfZpJAt88uLduQvvkFVgybY0+q6/J+9DeY+71t2KozW6WOU/2KwjxmxX3mTIBWUAVqaUacBH/+gHA1lC/KA3iQMKHtq4F6PaDgr9De9Yw==;9ix5jRm40sSy3hAudL/dRw=="
 ---

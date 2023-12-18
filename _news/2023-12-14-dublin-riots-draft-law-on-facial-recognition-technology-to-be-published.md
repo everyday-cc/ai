@@ -7,7 +7,7 @@ originalUrl: "https://www.businesspost.ie/news/dublin-riots-draft-law-on-facial-
 webUrl: "https://www.businesspost.ie/news/dublin-riots-draft-law-on-facial-recognition-technology-to-be-published/"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,34 @@ images:
     isCached: true
 
 related:
+  - title: "Facial Recognition Technology: Draft law to be published today"
+    excerpt: "Following the Dublin riots last month, the offences of riot and violent disorder were also included in the legislation"
+    publishedDateTime: 2023-12-14T05:44:00Z
+    webUrl: "https://www.newstalk.com/news/facial-recognition-technology-draft-law-to-be-published-today-1623984"
+    type: article
+    provider:
+      name: Newstalk
+      domain: newstalk.com
+    quality: 39
+    images:
+      - url: "https://media.radiocms.net/uploads/2023/12/14064055/Facial-recognition-research-equipment-edit.jpg"
+        width: 1920
+        height: 1198
+        isCached: true
+  - title: "McEntee receives Cabinet approval for draft legislation for facial recognition technology"
+    excerpt: "The legislation will allow An Garda Síochána to use biometric identification to retrospectively search CCTV in some circumstances."
+    publishedDateTime: 2023-12-14T00:10:00Z
+    webUrl: "https://www.thejournal.ie/cabinet-approves-draft-legislation-facial-recognition-technology-6248686-Dec2023/"
+    type: article
+    provider:
+      name: TheJournal.ie
+      domain: thejournal.ie
+    quality: 30
+    images:
+      - url: "https://img2.thejournal.ie/article/6248686/river/?height=400&version=6248713"
+        width: 613
+        height: 400
+        isCached: true
   - title: "Dublin riots: McEntee publishes draft law on facial recognition tech"
     excerpt: "Minister for Justice Helen McEntee has published a draft bill on the use of facial recognition technology by An Garda Síochána."
     publishedDateTime: 2023-12-14T12:30:00Z

@@ -2,6 +2,290 @@
   "page": 66,
   "value": [
     {
+      "path": "_news/2023-10-24-human-like-intelligence-a-look-at-vancouvers-ai-powered-robot-workforce.md",
+      "title": "'Human-like intelligence': A look at Vancouver's AI-powered robot workforce",
+      "excerpt": "\"Given that more than 98 per cent of all work requires the dexterity of the human hand, one can’t create a truly useful humanoid robot without human-like hands,\" he noted. Rose said the company's focus was to emulate human intelligence rather than focus on appearance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vancouverisawesome.com/local-news/vancouver-robot-vacuum-workforce-ai-technology-2023-7279935",
+      "originalUrl": "https://www.vancouverisawesome.com/local-news/vancouver-robot-vacuum-workforce-ai-technology-2023-7279935",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.vmcdn.ca/f/files/via/images/business/ai-robot-vacuum-vancouver-cleaningjpg.png;w=960;h=592;mode=crop",
+          "width": 960,
+          "height": 592,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-24T14:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vancouver Is Awesome",
+        "domain": "vancouverisawesome.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-24-how-generative-ai-can-empower-software-engineering-teams.md",
+      "title": "How Generative AI Can Empower Software Engineering Teams",
+      "excerpt": "I believe technology leaders should actively encourage their teams to discover and try out these tools to heighten their productivity, creativity and efficiency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/24/how-generative-ai-can-empower-software-engineering-teams/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/24/how-generative-ai-can-empower-software-engineering-teams/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65369e7808401564f7a2c121/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1353,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/24/how-generative-ai-can-empower-software-engineering-teams/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/24/how-generative-ai-can-empower-software-engineering-teams/amp/",
+      "publishedDateTime": "2023-10-24T14:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-24-can-a-family-office-backed-acquisition-save-the-healthcare-system.md",
+      "title": "Can A Family Office-Backed Acquisition Save The Healthcare System?",
+      "excerpt": "The economy poses various difficulties for dermatologists and their patients. Many medical practices seek to provide top-notch care while maintaining their independence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/garydrenik/2023/10/24/can-a-family-office-backed-acquisition-save-the-healthcare-system/",
+      "originalUrl": "https://www.forbes.com/sites/garydrenik/2023/10/24/can-a-family-office-backed-acquisition-save-the-healthcare-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/652fd94056997d1ea347967a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 640,
+          "height": 522,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2023/10/24/can-a-family-office-backed-acquisition-save-the-healthcare-system/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/10/24/can-a-family-office-backed-acquisition-save-the-healthcare-system/amp/",
+      "publishedDateTime": "2023-10-24T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-24-how-new-voice-technologies-will-change-the-way-we-live-and-do-business.md",
+      "title": "How New Voice Technologies Will Change The Way We Live And Do Business",
+      "excerpt": "How will new voice technologies change the way we live and do business? Answer by Tobias Dengel, President at WillowTree, a TELUS International Company",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/quora/2023/10/24/how-new-voice-technologies-will-change-the-way-we-live-and-do-business/",
+      "originalUrl": "https://www.forbes.com/sites/quora/2023/10/24/how-new-voice-technologies-will-change-the-way-we-live-and-do-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/652f104b6183acff76d6c757/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/quora/2023/10/24/how-new-voice-technologies-will-change-the-way-we-live-and-do-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quora/2023/10/24/how-new-voice-technologies-will-change-the-way-we-live-and-do-business/amp/",
+      "publishedDateTime": "2023-10-24T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-24-this-brain-like-ibm-chip-could-drastically-cut-the-cost-of-ai.md",
+      "title": "This Brain-Like IBM Chip Could Drastically Cut the Cost of AI",
+      "excerpt": "The brain-like chip triumphed over state-of-the-art GPUs in several head-to-head tests while using up to 96 percent less energy.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2023/10/24/this-brain-like-ibm-chip-could-drastically-cut-the-cost-of-ai/",
+      "originalUrl": "https://singularityhub.com/2023/10/24/this-brain-like-ibm-chip-could-drastically-cut-the-cost-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2023/10/IBM-north-pole-brain-chip-for-ai.jpeg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2023/10/24/this-brain-like-ibm-chip-could-drastically-cut-the-cost-of-ai/?amp=1",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/10/24/this-brain-like-ibm-chip-could-drastically-cut-the-cost-of-ai/?amp=1",
+      "publishedDateTime": "2023-10-24T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-24-mayo-clinic-performs-minnesotas-first-robot-assisted-kidney-transplant.md",
+      "title": "Mayo Clinic performs Minnesota's first robot-assisted kidney transplant",
+      "excerpt": "Pam Panning was \"certainly not nervous that anything was going to go wrong\" during her kidney transplant earlier this month. Her robot-assisted operation was a first for Mayo Clinic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.postbulletin.com/health/mayo-clinic-performs-minnesotas-first-robot-assisted-kidney-transplant",
+      "originalUrl": "https://www.postbulletin.com/health/mayo-clinic-performs-minnesotas-first-robot-assisted-kidney-transplant",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.forumcomm.com/dims4/default/1a4d9d8/2147483647/strip/true/crop/6930x4620+0+0/resize/1599x1066!/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2F6d%2F72%2Ff526c95e4f579342912c4b937be6%2F102323-pam-panning-08435.jpg",
+          "width": 1599,
+          "height": 1066,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-24T13:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Post-Bulletin",
+        "domain": "postbulletin.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-24-how-this-berlin-startup-deploys-ai-to-make-preventative-healthcare-accessible.md",
       "title": "How this Berlin startup deploys AI to make preventative healthcare accessible",
       "excerpt": "There are plenty of conversations around how AI can progress healthcare. And indeed, it has numerous applications in the form of diagnostics and accelerated drug discovery. However, wouldn’t it be eve",
@@ -861,265 +1145,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-24-china-homegrown-ai-chip-development-proceeding-despite-us-ban.md",
-      "title": "China homegrown AI chip development proceeding despite US ban",
-      "excerpt": "China's chipmaking industry continues to advance its domestic development of AI chips despite stricter US bans, with companies like Alibaba, Baidu, Huawei, and Tencent developing their own AI chips.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitimes.com/news/a20231023PD228/us-chip-ban-china-huawei-ai-chips-alibaba-baidu-nvidia-tencent.html",
-      "originalUrl": "https://www.digitimes.com/news/a20231023PD228/us-chip-ban-china-huawei-ai-chips-alibaba-baidu-nvidia-tencent.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.digitimes.com/newsshow/20231023pd228_files/1_2b.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T01:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-24-analyst-kuo-5-billion-on-ai-servers-in-2024-in-attempt-to-catch-up.md",
-      "title": "Analyst Kuo: $5 Billion on AI Servers in 2024 In Attempt to Catch Up",
-      "excerpt": "Apple could spend upwards of $5 billion on servers alone in the next two years as it attempts to catch up with competitors in the generative AI field. On",
-      "sourceUrl": null,
-      "webUrl": "https://www.idropnews.com/news/analyst-kuo-5-billion-on-ai-servers-in-2024-in-attempt-to-catch-up/201433/",
-      "originalUrl": "https://www.idropnews.com/news/analyst-kuo-5-billion-on-ai-servers-in-2024-in-attempt-to-catch-up/201433/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.idropnews.com/wp-content/uploads/2018/04/20150559/Artificial-Intelligence.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.idropnews.com/news/analyst-kuo-5-billion-on-ai-servers-in-2024-in-attempt-to-catch-up/201433/amp/",
-      "cdnAmpWebUrl": "https://www-idropnews-com.cdn.ampproject.org/c/s/www.idropnews.com/news/analyst-kuo-5-billion-on-ai-servers-in-2024-in-attempt-to-catch-up/201433/amp/",
-      "publishedDateTime": "2023-10-24T00:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "iDrop News",
-        "domain": "idropnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-24-amazoncom-inc-amazon-web-services-to-launch-aws-european-sovereign-cloud.md",
-      "title": "Amazon.com, Inc.: Amazon Web Services to Launch AWS European Sovereign Cloud",
-      "excerpt": "0,000 0,000 24.10. AWS European Sovereign Cloud will be a new, independent cloud for Europe that gives customers in highly regulated industries and the public sector further choice and flexibility to address evolving data residency and resilience ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2023-10/60456700-amazon-com-inc-amazon-web-services-to-launch-aws-european-sovereign-cloud-004.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2023-10/60456700-amazon-com-inc-amazon-web-services-to-launch-aws-european-sovereign-cloud-004.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-23T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-24-pioneers-in-ethical-artificial-intelligence.md",
-      "title": "Pioneers in Ethical Artificial Intelligence",
-      "excerpt": "BIDMC's Yuri Quintana, PhD collaborated with AMIA to host a two-day symposium to explore the issues surrounding AI in the healthcare setting. Read more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bidmc.org/about-bidmc/news/2023/10/pioneers-in-ethical-artificial-intelligence",
-      "originalUrl": "https://www.bidmc.org/about-bidmc/news/2023/10/pioneers-in-ethical-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bidmc.org/-/media/images/beth-israel-org/about-bidmc/news/kidney-donation-fenway-1000x565px/bidmc-quincy-ambulatory-center-1000x565px/blood-pressure-article-1456835439-1000x565px/ai-conf-group-1000x565px.jpg",
-          "width": 1000,
-          "height": 565,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-23T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Beth Israel Deaconess Medical Center",
-        "domain": "bidmc.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-10-24-ai-based-data-center-optimization-startup-mangoboost-raises-55m-series-a.md",
-      "title": "AI-based data center optimization startup MangoBoost raises $55M Series A",
-      "excerpt": "While the GPU complements the CPU, it handles complex workloads like supercomputing, AI, machine learning and extensive data analysis where numerical precision is required. The COVID-induced chip shortage led global chipmakers to search for ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/10/23/ai-based-data-center-optimization-startup-mangoboost-raises-55m-series-a/",
-      "originalUrl": "https://techcrunch.com/2023/10/23/ai-based-data-center-optimization-startup-mangoboost-raises-55m-series-a/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1180684429.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/10/23/ai-based-data-center-optimization-startup-mangoboost-raises-55m-series-a/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/23/ai-based-data-center-optimization-startup-mangoboost-raises-55m-series-a/amp/",
-      "publishedDateTime": "2023-10-23T23:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-24-university-of-edinburgh-expands-start-up-incubator-into-robotics.md",
-      "title": "University of Edinburgh expands start-up incubator into robotics",
-      "excerpt": "The University of Edinburgh is expanding its Venture Builder Incubator (VBI) programme, which helps turn research and innovations in robotics and artificial intelligence (AI) into commercially viable start-ups.",
-      "sourceUrl": null,
-      "webUrl": "https://www.insider.co.uk/news/university-edinburgh-expands-start-up-31257558",
-      "originalUrl": "https://www.insider.co.uk/news/university-edinburgh-expands-start-up-31257558",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2-prod.insider.co.uk/news/article31257539.ece/ALTERNATES/s1200/0_Bayes-Centre-robot-1.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.insider.co.uk/news/university-edinburgh-expands-start-up-31257558.amp",
-      "cdnAmpWebUrl": "https://www-insider-co-uk.cdn.ampproject.org/c/s/www.insider.co.uk/news/university-edinburgh-expands-start-up-31257558.amp",
-      "publishedDateTime": "2023-10-23T23:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insider",
-        "domain": "insider.co.uk",
-        "images": null,
         "publishers": null,
         "authors": null
       },

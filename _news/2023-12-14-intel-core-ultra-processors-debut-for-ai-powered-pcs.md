@@ -317,6 +317,20 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 53
+  - title: "Intel unleashes AI chips for PCs and data centers, challenging AMD and Nvidia"
+    excerpt: "Intel ushered in the AI PC era with Core Ultra chips tailored for Windows laptops and PCs and introduced new 5th gen Xeon server processors."
+    publishedDateTime: 2023-12-18T01:30:00Z
+    webUrl: "https://techwireasia.com/12/2023/how-will-intel-ai-chips-for-pcs-and-data-centers-challenge-amd-and-nvidia/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 51
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2023/12/GBVwD7YaYAAcY_5-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Intel Drops New Core Ultra Processors and Gaudi3 AI Chip to Take on Nvidia and AMD"
     excerpt: "Intel launches Core Ultra processors and Gaudi3 AI chip to compete with Nvidia and AMD. Core Ultra line features chiplet design, neural processing unit, and specialized AI components for enhanced performance."
     publishedDateTime: 2023-12-16T10:47:00Z

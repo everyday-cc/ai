@@ -20,20 +20,6 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Tesla unveils Optimus Gen 2: its next generation humanoid robot"
-    excerpt: "Tesla has unveiled “Optimus Gen 2”, a new generation of its humanoid robot that should be able to take over repetitive tasks from humans. Optimus, also known as Tesla Bot, has not been taken seriously by many outside of the more hardcore Tesla fans, and for good reason."
-    publishedDateTime: 2023-12-13T03:07:00Z
-    webUrl: "https://electrek.co/2023/12/12/tesla-unveils-optimus-gen-2-next-generation-humanoid-robot/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 86
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/12/Tesla-Optimus-Gen-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Elon Musk Shares Video Of Tesla's New Humanoid Robot That Can Dance And Boil Eggs"
     excerpt: "A video shared by Elon Musk shows significant improvements made to the robot since its prototype was first unveiled at the Tesla AI Day earlier this year ... The company said that it plans to soon start using the robot in its manufacturing operations."
     publishedDateTime: 2023-12-13T15:54:00Z
@@ -50,15 +36,38 @@ related:
         width: 1200
         height: 738
         isCached: true
-  - title: "New Tesla Optimus Gen 2 humanoid robot jumps from scripted to autonomous controls"
-    excerpt: "Tesla has unveiled its latest humanoid robot the Optimus Gen 2 which now features AI autonomous controls rather than human written commands"
-    publishedDateTime: 2023-12-14T13:15:00Z
-    webUrl: "https://www.geeky-gadgets.com/tesla-optimus-gen-2-humanoid-robot/"
+  - title: "Tesla’s humanoid robot is now 30% faster, 22 pounds lighter"
+    excerpt: "Elon Musk, CEO of Tesla and executive chair of X (formerly Twitter), has revealed a new prototype of Tesla’s humanoid robot, Optimus, which has become lighter and faster than previous versions. Musk shared a video presentation of Optimus Gen 2 via his X (former Twitter) account on Dec. 13."
+    publishedDateTime: 2023-12-13T08:39:00Z
+    webUrl: "https://cointelegraph.com/news/tesla-humanoid-robot-now-30-faster-22-pounds-lighter"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 31
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 36
+  - title: "Tesla’s Second-Generation Robot Can Do So Many Useful Things Like Rotate Eggs and Replace the Company’s Factory Workers"
+    excerpt: "In the video Tesla released on Twitter Wednesday, Optimus 2.0 is a much more polished version, with a sleeker case, and even more ominous blank expressionless face. Tesla says the new bot is 30 per cent faster than the model it replaces, and it has lost 22 pounds, though most of the video focuses on the new bot’s increased hand dexterousness."
+    publishedDateTime: 2023-12-14T03:31:00Z
+    webUrl: "https://gizmodo.com.au/2023/12/teslas-second-generation-robot-can-do-so-many-useful-things-like-rotate-eggs-and-replace-the-companys-factory-workers/"
+    type: article
+    provider:
+      name: gizmodo
+      domain: gizmodo.com.au
+    quality: 32
+    images:
+      - url: "https://gizmodo.com.au/wp-content/uploads/2023/12/d2dc8c7536cb5ae13cfa15ffdcfd9bd0.webp?quality=75"
+        width: 2106
+        height: 1185
+        isCached: true
+  - title: "Videos: Elon Musk’s new ‘humanoid’ robot revealed"
+    excerpt: "Tesla has unveiled a new look at its Tesla Optimus robot, highlighting improvements to its prototype of a humanoid robot."
+    publishedDateTime: 2023-12-15T19:18:00Z
+    webUrl: "https://americanmilitarynews.com/2023/12/videos-elon-musks-new-humanoid-robot-revealed/"
+    type: article
+    provider:
+      name: American Military News
+      domain: americanmilitarynews.com
+    quality: 19
 
 secured: "n7GBsvZuRWt8eAqVm06fW/J20yJvMtYGaacBEgMFqaTJ2V1VWj5+Oyh6FtcAT8tgjBiA64POGW1KJoWDXSnD3PQM0B8JWv2wfoNyPl2hI69U+f7huNZgAKnrUxKYXdApNVG3QPYnKTkuXFjUvzQLINXO27D9EGoSw53MVsORkdA5WphC0lKKgJpii5gcjknkQSu2cEl0f8BBpqWcfYAFxj2UMy6QtKrc7axJxYh4eeUIMgf7qnx4rGl90IRbYEHydBLRxUtY/bEgbbFp5P3bC5iErkcqFuRaWVzrnxAaboEEnH+o5Ec2ZyalhNZNr54GQFa/47/rVktdhThP84ZNLNCl0YxkXLAtYQqc8t9K4tVqnLZu8ZNCQKD6UCMvrqi9PXIi2iRi3KlqddUYPnn4H3XSqoNBNuGbYGHMwx9f3m3pBXNVsYZ0382uxzT83DfRG4KHxZD71rA1X2e+ATkjAOYYYtpq2EoH2JdeVTY8xWQxWwJUruiyCaN1KLerzYq10I4akSIwZYhVQoLnH/pGxg==;8tOSxr4HZUQhB9vA5dqJ+A=="
 ---

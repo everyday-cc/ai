@@ -24,6 +24,17 @@ images:
     height: 435
     isCached: true
 
+related:
+  - title: "New Tesla Optimus Gen 2 humanoid robot jumps from scripted to autonomous controls"
+    excerpt: "Tesla has unveiled its latest humanoid robot the Optimus Gen 2 which now features AI autonomous controls rather than human written commands"
+    publishedDateTime: 2023-12-14T13:15:00Z
+    webUrl: "https://www.geeky-gadgets.com/tesla-optimus-gen-2-humanoid-robot/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 31
+
 secured: "l8RAf9EvMk57Otrh92d7T60GxWqIy8ba7LPbfxGGVwpc9BGTeTGsXDLVJyXV4jv7JAScfdUL0jKkyGMweIc7ot/SF0iRYwyiiUR0/CMrPSB2YmE9vTfLV3YpxjzSFcRE+YRmEI5yRAb4QcL4PYN4OD7hVW0LmHCJFGbThGwsjdrd5aVq8kQa2Ke/93U8DfTt1PwFQ4PATTNfFrvunTXJtlplv2Zgt3g2PA4+9BXXlZEba9b6WDaN24PdQwQ3raSIjf+YtduUnH3wuHdrnoGEHTqpsqffsADTtCg/PwBETo9CoVjmiepa3eh9ZflnxRy96HlAytyz5VTaQA5q92mEr/0STcFfdGOIHOLP8U9rgFQ=;3YcxLYvGPrr37QovTKGeRw=="
 ---
 

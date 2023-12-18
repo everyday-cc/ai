@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-11-08-automotive-voice-recognition-system-market-to-reach-147-billion-globally-by-2032-at-161-cagr-allied-market-research.md",
+      "title": "Automotive Voice Recognition System Market to Reach $14.7 Billion, Globally, by 2032 at 16.1% CAGR: Allied Market Research",
+      "excerpt": "WILMINGTON, Del., Nov. 8, 2023 /PRNewswire/ -- Allied Market Research published a report, titled, \"Automotive Voice Recognition System Market by Technology (Embedded, Cloud based, and Hybrid ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2023-11/60594080-automotive-voice-recognition-system-market-to-reach-dollar-14-7-billion-globally-by-2032-at-16-1-cagr-allied-market-research-008.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2023-11/60594080-automotive-voice-recognition-system-market-to-reach-dollar-14-7-billion-globally-by-2032-at-16-1-cagr-allied-market-research-008.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-08T05:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-07-the-evolution-of-ai-from-ibm-and-aws-to-openai-and-anthropic.md",
       "title": "The Evolution Of AI: From IBM And AWS To OpenAI and Anthropic",
       "excerpt": "The history of AI is attributed to technologists from IBM, Amazon, Apple, Google, OpenAI and more. In this journey, key players have emerged, each contributing to the evolution of AI in unique and transformative ways.",
@@ -1307,58 +1350,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-10-24-how-new-voice-technologies-will-change-the-way-we-live-and-do-business.md",
-      "title": "How New Voice Technologies Will Change The Way We Live And Do Business",
-      "excerpt": "How will new voice technologies change the way we live and do business? Answer by Tobias Dengel, President at WillowTree, a TELUS International Company",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/quora/2023/10/24/how-new-voice-technologies-will-change-the-way-we-live-and-do-business/",
-      "originalUrl": "https://www.forbes.com/sites/quora/2023/10/24/how-new-voice-technologies-will-change-the-way-we-live-and-do-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/652f104b6183acff76d6c757/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/quora/2023/10/24/how-new-voice-technologies-will-change-the-way-we-live-and-do-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quora/2023/10/24/how-new-voice-technologies-will-change-the-way-we-live-and-do-business/amp/",
-      "publishedDateTime": "2023-10-24T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

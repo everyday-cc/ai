@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Tesla's recall of 2 million vehicles reminds us how far driverless car AI still has to go"
+    excerpt: "Tesla has recalled 2 million US vehicles over concerns about its autopilot function. Autopilot is meant to help with manoeuvres such as steering and acceleration, but still needs input from the driver."
+    publishedDateTime: 2023-12-18T02:25:00Z
+    webUrl: "https://www.econotimes.com/Teslas-recall-of-2-million-vehicles-reminds-us-how-far-driverless-car-AI-still-has-to-go-1667962"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 60
+    images:
+      - url: "https://f1.econotimes.com/2023/12/nc1m9ls3vd_th_1024x0.jpg"
+        width: 496
+        height: 279
+        isCached: true
   - title: "Commentary: Tesla’s recall of 2 million vehicles reminds us how far driverless car AI still has to go"
     excerpt: "There is a pressing need for new standards and mechanisms to assess the capabilities of these driverless cars, says University of Surrey's Saber Fallah."
     publishedDateTime: 2023-12-15T22:01:00Z
@@ -33,15 +47,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Commentary: Healthcare makes its case with innovation, valuation"
-    excerpt: "The healthcare sector was a market laggard in 2023, but attractive valuations and promising drug development could lead to a rebound in coming quarters."
-    publishedDateTime: 2023-12-13T13:00:00Z
-    webUrl: "https://www.pionline.com/industry-voices/commentary-healthcare-makes-its-case-innovation-valuation"
-    type: article
-    provider:
-      name: Pensions&Investments
-      domain: pionline.com
-    quality: 19
   - title: "Tesla recalls over 2m vehicles to fix defective system that monitors drivers"
     excerpt: "Tesla is recalling more than 2 million vehicles to fix a defective system that’s supposed to ensure drivers are paying attention when they use Autopilot"
     publishedDateTime: 2023-12-13T16:46:00Z

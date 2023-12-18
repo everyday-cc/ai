@@ -328,6 +328,20 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 53
+  - title: "Intel unleashes AI chips for PCs and data centers, challenging AMD and Nvidia"
+    excerpt: "Intel ushered in the AI PC era with Core Ultra chips tailored for Windows laptops and PCs and introduced new 5th gen Xeon server processors."
+    publishedDateTime: 2023-12-18T01:30:00Z
+    webUrl: "https://techwireasia.com/12/2023/how-will-intel-ai-chips-for-pcs-and-data-centers-challenge-amd-and-nvidia/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 51
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2023/12/GBVwD7YaYAAcY_5-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "BitHuman introduces lifelike AI agents for enterprises"
     excerpt: "BitHuman is pioneering a new horizon in the AI landscape, boasting agents tailored for the enterprise realm. Their forte lies in crafting comprehensive AI solutions, facilitating real-time, photorealistic, human-like experiences across sectors such as hospitality, fashion, retail, healthcare, and beyond."
     publishedDateTime: 2023-12-13T12:00:00Z

@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-11-15-how-antisemitic-hate-groups-are-using-artificial-intelligence-in-the-wake-of-hamas-attacks.md",
+      "title": "How antisemitic hate groups are using artificial intelligence in the wake of Hamas attacks",
+      "excerpt": "Artificial intelligence, real hate Users of the notorious hate-filled, far-right online forum 4chan quickly began celebrating the October 7 attack, in what Memetica describes as “convergence of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/11/14/us/hamas-israel-artificial-intelligence-hate-groups-invs/index.html",
+      "originalUrl": "https://www.cnn.com/2023/11/14/us/hamas-israel-artificial-intelligence-hate-groups-invs/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/231114181622-torn-kidnapped-poster-nyu-102523.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/11/14/us/hamas-israel-artificial-intelligence-hate-groups-invs/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/11/14/us/hamas-israel-artificial-intelligence-hate-groups-invs/index.html",
+      "publishedDateTime": "2023-11-14T23:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-14-artificial-intelligence-and-social-emotional-learning-are-on-a-collision-course.md",
       "title": "Artificial Intelligence and Social-Emotional Learning Are on a Collision Course",
       "excerpt": "Artificial intelligence is poised to dramatically change how kids develop their sense of self and interact with other people.",
@@ -1166,49 +1218,6 @@
       "provider": {
         "name": "AOL",
         "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-britain-says-car-makers-not-owners-liable-for-self-driving-crashes.md",
-      "title": "Britain Says Car Makers Not Owners Liable For Self-Driving Crashes",
-      "excerpt": "Britain will make the makers rather than the owners of self-driving cars legally liable for any crashes under a framework for developing autonomous vehicles (AV), the government said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/world-news/britain-says-car-makers-not-owners-liable-for-self-driving-crashes-4555517",
-      "originalUrl": "https://www.ndtv.com/world-news/britain-says-car-makers-not-owners-liable-for-self-driving-crashes-4555517",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/53z54k9wfi_self-driving-car-generic-istock_625x300.jpg",
-          "width": 650,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/world-news/britain-says-car-makers-not-owners-liable-for-self-driving-crashes-4555517/amp/1",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/britain-says-car-makers-not-owners-liable-for-self-driving-crashes-4555517/amp/1",
-      "publishedDateTime": "2023-11-07T18:22:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -7,8 +7,8 @@ originalUrl: "https://www.channelnewsasia.com/commentary/tesla-driverless-cars-r
 webUrl: "https://www.channelnewsasia.com/commentary/tesla-driverless-cars-recall-2-million-autonomous-vehicles-safety-autopilot-3991256"
 type: article
 quality: 54
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: Channel NewsAsia Singapore
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla's recall of 2 million vehicles reminds us how far driverless car AI still has to go"
+    excerpt: "Tesla has recalled 2 million US vehicles over concerns about its autopilot function. Autopilot is meant to help with manoeuvres such as steering and acceleration, but still needs input from the driver."
+    publishedDateTime: 2023-12-18T02:25:00Z
+    webUrl: "https://www.econotimes.com/Teslas-recall-of-2-million-vehicles-reminds-us-how-far-driverless-car-AI-still-has-to-go-1667962"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 60
+    images:
+      - url: "https://f1.econotimes.com/2023/12/nc1m9ls3vd_th_1024x0.jpg"
+        width: 496
+        height: 279
+        isCached: true
   - title: "Tesla’s recall of 2 million vehicles reminds us how far driverless car AI still has to go"
     excerpt: "The driving force behind self-driving vehicles is artificial intelligence (AI), yet current algorithms ... for new standards and mechanisms to assess the capabilities of these driverless cars. These new protocols should provide more rigorous testing ..."
     publishedDateTime: 2023-12-14T07:19:00Z
@@ -34,15 +48,6 @@ related:
       name: The Conversation
       domain: theconversation.com
     quality: 40
-  - title: "Commentary: Healthcare makes its case with innovation, valuation"
-    excerpt: "The healthcare sector was a market laggard in 2023, but attractive valuations and promising drug development could lead to a rebound in coming quarters."
-    publishedDateTime: 2023-12-13T13:00:00Z
-    webUrl: "https://www.pionline.com/industry-voices/commentary-healthcare-makes-its-case-innovation-valuation"
-    type: article
-    provider:
-      name: Pensions&Investments
-      domain: pionline.com
-    quality: 19
   - title: "Tesla recalls over 2m vehicles to fix defective system that monitors drivers"
     excerpt: "Tesla is recalling more than 2 million vehicles to fix a defective system that’s supposed to ensure drivers are paying attention when they use Autopilot"
     publishedDateTime: 2023-12-13T16:46:00Z

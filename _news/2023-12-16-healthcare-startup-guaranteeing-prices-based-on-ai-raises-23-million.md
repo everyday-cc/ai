@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/debgordon/2023/12/15/healthcare-startup
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/debgordon/2023/12/15/healthcare-startup-guaranteeing-upfront-price-predictions-raises-23-million/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI, Machine Learning Startup Chalk Raises $10 Million in Seed Funding"
-    excerpt: "Artificial intelligence (AI) and machine learning (ML) startup Chalk has raised $10 million in a Seed round, according to a note from the firm. The funding"
-    publishedDateTime: 2023-12-13T01:41:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/12/218043-ai-machine-learning-startup-chalk-raises-10-million-in-seed-funding/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/12/218043-ai-machine-learning-startup-chalk-raises-10-million-in-seed-funding/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/12/218043-ai-machine-learning-startup-chalk-raises-10-million-in-seed-funding/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 74
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2023/12/Chalk-co-founders-Elliot-Marx-left-Andrew-Moreland-center-and-Marc-Freed-Finnegan-right.jpg"
-        width: 1000
-        height: 768
-        isCached: true
   - title: "Virtuleap raises $2.5M to use VR and AI for brain health"
     excerpt: "Virtuleap has raised $2.5 million to use virtual reality and AI to improve brain health in a product dubbed Enhance VR."
     publishedDateTime: 2023-12-16T23:45:00Z

@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-11-25-tesla-preparing-to-launch-full-self-driving-beta-in-china.md",
+      "title": "Tesla Preparing To Launch “Full Self-Driving” Beta In China",
+      "excerpt": "A new report suggests that Tesla will launch the FSD Beta in China with the release of version 12 of the software",
+      "sourceUrl": null,
+      "webUrl": "https://www.carscoops.com/2023/11/tesla-preparing-to-launch-full-self-driving-beta-in-china/",
+      "originalUrl": "https://www.carscoops.com/2023/11/tesla-preparing-to-launch-full-self-driving-beta-in-china/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.carscoops.com/wp-content/uploads/2023/11/Tesla-China.jpg",
+          "width": 2250,
+          "height": 1265,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.carscoops.com/2023/11/tesla-preparing-to-launch-full-self-driving-beta-in-china/amp/",
+      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/11/tesla-preparing-to-launch-full-self-driving-beta-in-china/amp/",
+      "publishedDateTime": "2023-11-24T16:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Carscoops",
+        "domain": "carscoops.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-24-artificial-intelligence-in-entertainment-among-hot-topics-at-focus-2023.md",
       "title": "Artificial Intelligence in Entertainment Among Hot Topics at Focus 2023",
       "excerpt": "A prominent topic in this year’s conference program is artificial intelligence. Three sessions will focus on the subject of AI: “The Write Approach: How Can AI and Humans Hold Hands,” “AI ...",
@@ -1257,58 +1300,6 @@
         "name": "Hackaday",
         "domain": "hackaday.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-15-how-antisemitic-hate-groups-are-using-artificial-intelligence-in-the-wake-of-hamas-attacks.md",
-      "title": "How antisemitic hate groups are using artificial intelligence in the wake of Hamas attacks",
-      "excerpt": "Artificial intelligence, real hate Users of the notorious hate-filled, far-right online forum 4chan quickly began celebrating the October 7 attack, in what Memetica describes as “convergence of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/11/14/us/hamas-israel-artificial-intelligence-hate-groups-invs/index.html",
-      "originalUrl": "https://www.cnn.com/2023/11/14/us/hamas-israel-artificial-intelligence-hate-groups-invs/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/231114181622-torn-kidnapped-poster-nyu-102523.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/11/14/us/hamas-israel-artificial-intelligence-hate-groups-invs/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/11/14/us/hamas-israel-artificial-intelligence-hate-groups-invs/index.html",
-      "publishedDateTime": "2023-11-14T23:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

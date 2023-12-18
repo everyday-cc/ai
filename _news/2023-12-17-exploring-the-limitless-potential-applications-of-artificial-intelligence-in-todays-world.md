@@ -58,6 +58,17 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "How to spot artificial intelligence-generated content"
+    excerpt: "The catch: this was not Gordon Ramsay. It was an artificial intelligence (AI) version of Ramsay being used to steal people’s identities. With the 2024 Presidential election fast approaching ..."
+    publishedDateTime: 2023-12-15T12:09:00Z
+    webUrl: "https://thehill.com/homenews/4361566-how-to-spot-artificial-intelligence-generated-content/"
+    ampWebUrl: "https://thehill.com/homenews/4361566-how-to-spot-artificial-intelligence-generated-content/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/4361566-how-to-spot-artificial-intelligence-generated-content/amp/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 39
 
 secured: "p2SwPu1ii+Uln4jpR6QLyrPVRTcUfHBLeIkCMnLfnv+4Drbc5gEvyeXZAzGz+pEmF/Kvu6t+Vkxthoeorcb9ehlK9j5H1l2e37Zxb8rRQkqbz+iTeky1WNRNpFlKpVst4EOlbOgWw0rmxlTedXR7wrdVIaQY4mspYhKr5Dyj4H0ifwJXwQu6ukhh2BV1m4YMg2rn0MlQZXWviVWS7p96yUskBVd5k+lCFCDudnd5u/nFijr/TLE91DnDOiz4gy/tEH6cutVf55QKaQzlawpHiihxb3ZPUiYSD5Lc3FpBnxRbVy1r5LgTAfSrjk8HzGKqglysX6vqFNAh/pxkJ0bnFqzzwQBh+3qw1qaAK0TxHrs=;Wuy5If8b03teKUmOcb5rOg=="
 ---
