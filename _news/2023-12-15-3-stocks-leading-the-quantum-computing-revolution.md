@@ -53,6 +53,20 @@ related:
         width: 512
         height: 288
         isCached: true
+  - title: "Revolutionary mind-reading AI system can turn thoughts into text"
+    excerpt: "People's thoughts can be turned into text in a world-first using artificial intelligence. The mindreading portable technology could aid communication for people who are unable to speak due to illness or injury,"
+    publishedDateTime: 2023-12-18T14:42:00Z
+    webUrl: "https://www.tiogapublishing.com/news/nation/revolutionary-mind-reading-ai-system-can-turn-thoughts-into-text/article_cc3eaeeb-782f-56ee-b922-0b0b21d82f2a.html"
+    type: article
+    provider:
+      name: TiogaPublishing.com
+      domain: tiogapublishing.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/tiogapublishing.com/content/tncms/assets/v3/editorial/2/08/2084fc3d-36cb-54b9-94de-55e363d03457/65806d0067a66.image.jpg?crop=1500%2C788%2C0%2C168&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Make your smart cameras even smarter with Tangent Solutions and Cogniac’s Revolutionary AI Computer Vision Platform"
     excerpt: "In partnership with Cisco Meraki and Cogniac, Tangent Solutions is at the forefront of offering smart cameras that offer powerful assets for businesses seeking further efficiency and innovation. Thanks to these technologies, we now live in a world where AI transforms cameras into strategic business tools."
     publishedDateTime: 2023-12-18T04:20:00Z

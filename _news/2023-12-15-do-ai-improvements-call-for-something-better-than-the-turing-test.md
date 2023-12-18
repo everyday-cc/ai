@@ -90,20 +90,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How Generative AI is Reshaping Banking & Finance in India"
-    excerpt: "The finance sector's initial reluctance to adopt generative AI is because of regulatory scrutiny, data privacy, security, compliance, and industry risk aversion, but now it is slowly changing,” Ashish Vora,"
-    publishedDateTime: 2023-12-18T05:31:00Z
-    webUrl: "https://analyticsindiamag.com/how-generative-ai-is-reshaping-banking-finance-in-india/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 69
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/12/s-1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "How AI Is Influencing The Mortgage Industry"
     excerpt: "In the not-so-distant future, you might join a video call and meet with a virtual representative to discuss your mortgage options. Afterward, an AI-written document will deliver personalized recommendations based on the conversation."
     publishedDateTime: 2023-12-18T08:59:00Z
@@ -133,20 +119,6 @@ related:
       - url: "https://diginomica.com/sites/default/files/images/2019-03/BAC4C93B-CED2-461B-99FB-60C96BB3FD17.jpeg"
         width: 640
         height: 426
-        isCached: true
-  - title: "The Impact of Artificial Intelligence On Real Estate Marketing"
-    excerpt: "Artificial Intelligence (AI) has become a driving force across various industries, reshaping traditional practices and enhancing efficiency. In the realm of real estate, AI is revolutionizing marketing strategies,"
-    publishedDateTime: 2023-12-15T12:21:00Z
-    webUrl: "https://realtybiznews.com/the-impact-of-artificial-intelligence-on-real-estate-marketing/98780587/"
-    type: article
-    provider:
-      name: realtybiznews
-      domain: realtybiznews.com
-    quality: 58
-    images:
-      - url: "https://realtybiznews.com/wp-content/uploads/2022/07/banner-2.png"
-        width: 300
-        height: 250
         isCached: true
   - title: "2023: The year of AI gift-giving and other holiday shopping trends"
     excerpt: "Flowcode analyzed holiday shopping forecasts from Salesforce and the National Retail Federation to identify a few major trends for 2023."
@@ -218,29 +190,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Preparing for the future: Exploring what artificial intelligence in 2025 will look like"
-    excerpt: "Are you ready to step into the future? Brace yourself for mind-blowing innovations and revolutionary transformations as we dive deep into what artificial intelligence in 2025 will look like. Get set to be mesmerized by self-driving cars,"
-    publishedDateTime: 2023-12-13T16:08:00Z
-    webUrl: "https://techbullion.com/preparing-for-the-future-exploring-what-artificial-intelligence-in-2025-will-look-like/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 37
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/Artificial-Intelligence-3.jpg"
-        width: 1000
-        height: 500
-        isCached: true
-  - title: "How Visual AI Is Transforming the Conventional School Safety Model"
-    excerpt: "Join this free webinar to learn how visual AI can be used to create a proactive and adaptive approach to physical security and emergency response for schools and campuses."
-    publishedDateTime: 2023-12-13T14:15:00Z
-    webUrl: "https://www.campussafetymagazine.com/webcast/how-visual-ai-is-transforming-the-conventional-school-safety-model/"
-    type: article
-    provider:
-      name: Campus Safety Magazine
-      domain: campussafetymagazine.com
-    quality: 19
 
 secured: "FgctqUHicNYqb+TnGb1FbQGWDpuZkvTm6MaAFK8YAqaKsDYpyN7CvZwPCkPSXTlHlvEDnMRMBk4Ubyu4lT5OcQCzLaoe/lsrfgqAqsBhniNOq8Y5GMoOX6COL6ov6YA1rvA5Ye2K6rf6w8VvH4+k4uySG7P5Fhky6YbbgVzWJvqO7pBrulWA0aRFnhE7FRkpRzHJAW+1pHPM76z/W1rn3fY6K3MBnTpyWHlGaUi2SuT2vN0DpqB0tpQ15zr09W1/UTrv2xpkHAwbwAXZ1jyBLryIqHg9/uhRie5KMj0ozrEGWhHefHiwSngW85RsK7YA7YH8MLJKWatuUhobfYJPxClEGpdAp2wm1phNiWKcHDfDVWsOgxUZckfJyv8Mbxm0pXb2bpPIiLXXdrUL4t61V6Gx4Kb3ofGouhIsbobnHNnVxIUO8pSzHZugEripTXHcAvTkaU+TCbgb8vPm8j0UVKv+NvvxasPM5IoQuOGwtAyIMxMwDaMM0DVwuG0VsIVZhc1UHw1DESLZpW2ON7qGIQ==;HHCFKMuSE7HgErI056EWsQ=="
 ---

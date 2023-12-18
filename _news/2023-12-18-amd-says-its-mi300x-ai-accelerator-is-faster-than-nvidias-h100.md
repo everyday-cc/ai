@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/101238-amd-mi300x-ai-accelerator-fas
 webUrl: "https://www.techspot.com/news/101238-amd-mi300x-ai-accelerator-faster-than-nvidia-h100.html"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -43,7 +43,21 @@ related:
         width: 251
         height: 282
         isCached: true
+  - title: "SuperNIC network accelerator for AI cloud data introduced by NVIDIA"
+    excerpt: "Learn more about the new SuperNIC network accelerator for AI cloud data launched by NVIDIA. But what is SuperNIC and why does it matter?"
+    publishedDateTime: 2023-12-18T14:34:00Z
+    webUrl: "https://www.geeky-gadgets.com/supernic-network-accelerator/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/what-is-SuperNIC.jpg"
+        width: 1280
+        height: 792
+        isCached: true
 
-secured: "o9WqqnKgeZbpRuwVHCs8DTr9cEoyKAUgrho4QuvaxmZTg+6JgANM1uL/pHvMsDu7LfWm6i8uwKPzLRseuyWYOFKYXrmQE4wVmO61tHgdKvaHp/B3CpPlm/pgFLujVzv0Vo60dz7mnB02gMgZedlxT377NVMBtCJQonnKZNEGgGuBr8FzRGIzLH6Mj1K1poAojKn+q1nGfusD9wT0zfMcBxybti3A+nWEwOjqwhhiTlonUSv+vQktVqwavu6d0SQlBX9rQkJyBb79M7hkTqWbt3xZuFoodxoP4lYjl8c7b9B1QWKig1Pd676jY3uPXNBsMli8HTbFJ5MN4LYTcMUFQKNpOwh7H80JXhovKKODHkY=;hFI8BjDL2ANsuJfsh/wVow=="
+secured: "TIt2taCdiiWI5ZFiTnbHJjXOiLkqPVcteUziHs1IXg225aLtXp6s5xX0YUyZfNqjyjt/gYKA8RuggrfgYtHW4+2tHngLpGbMPrjhnK19VbFnRDaqPw1MjZRVOlQz9+jtSU2vcMmGsAFITor+f7Z8zpt5dmmVTIe3zBR6gTZXvzltcTASDOYJ0nJY9BX3vw8j2tC4uSZfh8RNSkEE71pnrGW4TKUEkPb3eRHtWe1vgr/kUF6oa4wlbH6W+eXnjWTKZpv2ZRsMDsA9fnYd3z5xIC3ayGfTwp0rXuquaLexSr2Mo5G1L0R5NgDUHyaRh9wF6wfzmv1GHHMhPrzlRJAtqCDGf933ksUt3gLSxebXXnzFaeOv6CkbrVhBMbyxmZ/GopgWtoy2f2usApWNhxHHerCbQZ8q6o0dMOXQiZlKwqOI8KWs5g7qK/1llBf/4v/rmYECsA3UWI68xYotc2U0m+9PTpWNj2L1AJHpHP7rMSlkdwteXCGsFLBmucxnJP2EVFL/BTTXnGhhLxVpc0WAuA==;ludkebQ5OcJ6lAp24wwHqA=="
 ---
 

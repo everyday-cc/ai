@@ -87,20 +87,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How Generative AI is Reshaping Banking & Finance in India"
-    excerpt: "The finance sector's initial reluctance to adopt generative AI is because of regulatory scrutiny, data privacy, security, compliance, and industry risk aversion, but now it is slowly changing,” Ashish Vora,"
-    publishedDateTime: 2023-12-18T05:31:00Z
-    webUrl: "https://analyticsindiamag.com/how-generative-ai-is-reshaping-banking-finance-in-india/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 69
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/12/s-1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Do AI improvements call for something better than the Turing test?"
     excerpt: "In addition to this, the Turing Test fails to analyze an AI program’s ability to think. In a recent Turing Test experiment, GPT-4 was able to convince evaluators that they were texting with humans over 40 percent of the time. However, this score fails to answer the basic question: Can the AI program think?"
     publishedDateTime: 2023-12-15T00:16:00Z
@@ -144,20 +130,6 @@ related:
       - url: "https://diginomica.com/sites/default/files/images/2019-03/BAC4C93B-CED2-461B-99FB-60C96BB3FD17.jpeg"
         width: 640
         height: 426
-        isCached: true
-  - title: "The Impact of Artificial Intelligence On Real Estate Marketing"
-    excerpt: "Artificial Intelligence (AI) has become a driving force across various industries, reshaping traditional practices and enhancing efficiency. In the realm of real estate, AI is revolutionizing marketing strategies,"
-    publishedDateTime: 2023-12-15T12:21:00Z
-    webUrl: "https://realtybiznews.com/the-impact-of-artificial-intelligence-on-real-estate-marketing/98780587/"
-    type: article
-    provider:
-      name: realtybiznews
-      domain: realtybiznews.com
-    quality: 58
-    images:
-      - url: "https://realtybiznews.com/wp-content/uploads/2022/07/banner-2.png"
-        width: 300
-        height: 250
         isCached: true
   - title: "2023: The year of AI gift-giving and other holiday shopping trends"
     excerpt: "Flowcode analyzed holiday shopping forecasts from Salesforce and the National Retail Federation to identify a few major trends for 2023."
@@ -215,29 +187,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "Preparing for the future: Exploring what artificial intelligence in 2025 will look like"
-    excerpt: "Are you ready to step into the future? Brace yourself for mind-blowing innovations and revolutionary transformations as we dive deep into what artificial intelligence in 2025 will look like. Get set to be mesmerized by self-driving cars,"
-    publishedDateTime: 2023-12-13T16:08:00Z
-    webUrl: "https://techbullion.com/preparing-for-the-future-exploring-what-artificial-intelligence-in-2025-will-look-like/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 37
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/Artificial-Intelligence-3.jpg"
-        width: 1000
-        height: 500
-        isCached: true
-  - title: "How Visual AI Is Transforming the Conventional School Safety Model"
-    excerpt: "Join this free webinar to learn how visual AI can be used to create a proactive and adaptive approach to physical security and emergency response for schools and campuses."
-    publishedDateTime: 2023-12-13T14:15:00Z
-    webUrl: "https://www.campussafetymagazine.com/webcast/how-visual-ai-is-transforming-the-conventional-school-safety-model/"
-    type: article
-    provider:
-      name: Campus Safety Magazine
-      domain: campussafetymagazine.com
-    quality: 19
 
 secured: "FgySw/XmzRxvJXGnr4wrafLb3XUQSguOC0xuq1Ye1OVlWtdjBg2ikBrVm45sPFMjffIQu+gFLULnHt8/gQpWOF00Njss52ZOYge9IClBU9iNyiMIC+2aOmezVg8DgJ4/6tFYsF4WCYp8B2Gbiu7faJR2LlU91bVOZuorvqiPkz2ehC+1mElXGEXs7mb1zrMBl2k0voQ+uWFDXAr8bCn+dVEOxOPROLYMHT7UdyesbKhDYm9cP3E6MqK1xI5uUPXp5Da55zHWoiIC0AJ50ASKjUf6tUxZqP4JctQnW5WgSJAg6kYTd0p0sLq+ixsdGIwXibIuw49PGR/+LdgTIz1xrrf8EycfMyTyy6xaZS4s5po=;fvp6ZVXGVtFR7ht75K1xLg=="
 ---

@@ -26,84 +26,22 @@ images:
     isCached: true
 
 related:
-  - title: "Create summaries of recordings using generative AI with Amazon Bedrock and Amazon Transcribe"
-    excerpt: "Meeting notes are a crucial part of collaboration, yet they often fall through the cracks. Between leading discussions, listening closely, and typing notes, it’s easy for key information to slip away unrecorded. Even when notes are captured, they can be disorganized or illegible, rendering them useless."
-    publishedDateTime: 2023-12-13T16:41:20Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/create-summaries-of-recordings-using-generative-ai-with-amazon-bedrock-and-amazon-transcribe/"
+  - title: "AI scientists make ‘exciting’ discovery using chatbots to solve maths problems"
+    excerpt: "Breakthrough suggests technology behind ChatGPT and Bard can generate information that goes beyond human knowledge"
+    publishedDateTime: 2023-12-14T15:00:00Z
+    webUrl: "https://www.theguardian.com/science/2023/dec/14/ai-scientists-make-exciting-discovery-using-chatbots-to-solve-maths-problems"
+    ampWebUrl: "https://amp.theguardian.com/science/2023/dec/14/ai-scientists-make-exciting-discovery-using-chatbots-to-solve-maths-problems"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/science/2023/dec/14/ai-scientists-make-exciting-discovery-using-chatbots-to-solve-maths-problems"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 110
+      name: The Guardian
+      domain: theguardian.com
+    quality: 85
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/12/13/create-summaries-of-recordings.jpg"
-        width: 1001
-        height: 499
+      - url: "https://i.guim.co.uk/img/media/5e67e2b4e8098dfaafa375a6fbe2425d738a4965/0_43_3000_1800/master/3000.jpg?width=620&quality=85&auto=format&fit=max&s=435ab186909670a8b9470a0626575d88"
+        width: 620
+        height: 372
         isCached: true
-  - title: "Unlocking Marketing Growth: Generative AI In Action, Starting With Design"
-    excerpt: "Although marketers have prioritized emotional connection and consumer experience with their brands, recent strides in GenAI are pushing these two aspects closer together."
-    publishedDateTime: 2023-12-14T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/14/unlocking-marketing-growth-generative-ai-in-action-starting-with-design/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/14/unlocking-marketing-growth-generative-ai-in-action-starting-with-design/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/12/14/unlocking-marketing-growth-generative-ai-in-action-starting-with-design/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 103
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6399d93eaccb6518c9a6c001/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "Managing costs to realize the potential of cloud and generative AI"
-    excerpt: "Today the drive towards cloud adoption is more and more propelled by the desire to leverage the potential of AI -- especially generative AI."
-    publishedDateTime: 2023-12-14T14:39:00Z
-    webUrl: "https://venturebeat.com/ai/managing-costs-to-realize-the-potential-of-cloud-and-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/12/AdobeStock_529882524.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 663
-        isCached: true
-  - title: "People are using artificial intelligence to create avatars of dead loved ones"
-    excerpt: "Companies like HereAfter AI and StoryFile are offering people the chance to record voice recordings and videos before they die so their family can still interact with them when they are gone"
-    publishedDateTime: 2023-12-17T08:00:00Z
-    webUrl: "https://www.mirror.co.uk/news/us-news/people-using-artificial-intelligence-create-31657680"
-    ampWebUrl: "https://www.mirror.co.uk/news/us-news/people-using-artificial-intelligence-create-31657680.amp"
-    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/us-news/people-using-artificial-intelligence-create-31657680.amp"
-    type: article
-    provider:
-      name: The Mirror
-      domain: mirror.co.uk
-    quality: 54
-    images:
-      - url: "https://i2-prod.mirror.co.uk/incoming/article31661253.ece/ALTERNATES/s1200/0_AI-robot-controlling-future-hologram-UI.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Dell Technologies storage advancements accelerate AI and generative AI strategies"
-    excerpt: "Dell PowerScale systems deliver up to a 200% performance improvement for streaming reads and writes to help customers more quickly access data for AI workloads."
-    publishedDateTime: 2023-12-14T12:36:00Z
-    webUrl: "https://www.cloudcomputing-news.net/news/2023/dec/14/dell-technologies-storage-advancements-accelerate-ai-and-generative-ai-strategies/"
-    type: article
-    provider:
-      name: Cloud Computing
-      domain: cloudcomputing-news.net
-    quality: 14
-  - title: "Companies Gaining Competitive Advantage Through Deploying Private AI Infrastructure at Equinix"
-    excerpt: "Enterprises are directly utilizing Equinix for deploying their private AI infrastructure, and service providers are utilizing Equinix to provide private AI services for their customers. Both can benefit from the growing AI ecosystem at Equinix with a concentration of buyers and sellers operating in close proximity to major cloud on-ramps."
-    publishedDateTime: 2023-12-13T13:18:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/12/13/9933157.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 7
 
 secured: "+cvsbGSnVCH07EN01kUm/AyF2IMYDdG43VD8IT/Re/2B6bzm07E2eDeCzEZCGs3t3GnQcfw5i/JsdVMCeLPYMHQTAGRH/Rt8UyAqw6HgMa7H3laQVwwKlUGPKqJoPesY5HhzLjghx0CypxGJEeaxwA4SF0p6b/oBhc0cNk5h5ulhbeNUlmwEDfix6jqj+BtcmMRDtaWLoUvbCmSh3dRL6dYBfL+an4S6CeSOOBU3rRxxLsdTgsBZCfWuQYq8dZ9dS8lAm/WIGmhUlpsu5560BiZZlQkNCLLpjqXx24MMlA8Ki5oTSIe7KTxPS0SUwL92Do0eyVgA29vlws7tYU7Ib4l9kz6Jqu4ynRvz+c+kh5C8p8kvc8Ey4f0dqX3ZPdmb75TPoNct+vRTSr3YKPgT8NEJGOG+gU+f76ekVexl+WeJIbXUQDiwn407alurI+cOMo05ATuPnLYkezwkuV7QTdLr+eliaAB2dBCanGCIyIcpVpsyWlIToup8nOlNfy3hN2UCBqP9198ZZWufgwvc4A==;rl+9uLhqD8g/UV89Gaj0Cg=="
 ---

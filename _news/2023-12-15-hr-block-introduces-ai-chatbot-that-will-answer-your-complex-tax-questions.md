@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/h-r-block-introduces-ai-cha
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/h-r-block-introduces-ai-chatbot-that-will-answer-your-complex-tax-questions/"
 type: article
 quality: 85
-heat: 155
+heat: 145
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://www.inferse.com/wp-content/uploads/2023/12/wp-header-logo-8704.png"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Google's AI chatbot Bard gives drab answers, but it does one thing better than ChatGPT – Mashable"
-    excerpt: "Compared to the other chatbots on the market, Google's Bard is the boring one. In a more or less positive assessment, Vox called"
-    publishedDateTime: 2023-12-13T14:29:00Z
-    webUrl: "https://www.inferse.com/838409/googles-ai-chatbot-bard-gives-drab-answers-but-it-does-one-thing-better-than-chatgpt-mashable/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 43
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/12/wp-header-logo-7371.png"
-        width: 1200
-        height: 1200
         isCached: true
   - title: "Elon Musk’s Grok AI Chatbot Enters India"
     excerpt: "Elon Musk's AI startup is rolling out Grok to 46 other countries including Australia, Canada, Malaysia, New Zealand and Singapore among others"

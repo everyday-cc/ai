@@ -50,6 +50,15 @@ related:
       name: Forex Factory
       domain: forexfactory.com
     quality: 34
+  - title: "Without Balance, AI's Role in Financial Analysis Will Go Too Far"
+    excerpt: "AI's impact on finance is palpable, but we must balance technology with human insight for effective decision making."
+    publishedDateTime: 2023-12-18T13:00:00Z
+    webUrl: "https://www.thestreet.com/crypto/innovation/without-balance-ais-role-in-financial-analysis-will-go-too-far"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 17
 
 secured: "aGu3apLpSw90lGXAuLmEq4GjFaQ0VbzTNsY9h8dOoOWRjajlo1OowPMCmbcFROuPPXvzqchVpnzvsPFAR6RRdg7Zf/lMzCl8/3Io3jYafhONejgKacV2Gj0x6DkYWOfnCIZ7KD8D4K92NWq1++GfYOKBRaK4JpZqI9iGAgW+avsj59bwmcJ/aYwsyH+12vDcDg+KPg+7jUfx0uxnJ8d9QwEI/cdK0KBOh+MKA4cc35/bjEZc0cTOAPyaW2AbqDgQEgZVVr/sQfR82Lk4sfJ1f6HoquHfoYc6kJz3qv86V4yg28GA+slTe/OS8xNDIu43blHYWvR7AvC1goiBn9SLZBCSEuXQYfpfXcUuIJGbW6U=;McEDSa2mVLoz5P+s3Az3kQ=="
 ---

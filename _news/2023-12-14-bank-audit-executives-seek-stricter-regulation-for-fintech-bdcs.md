@@ -100,15 +100,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Trends in fintech that drive growth"
-    excerpt: "Fintech is a fast-changing ecosystem where there are few certainties. As we move into the second half of 2023 it’s worth taking a temperature check and assessing the lay of the land."
-    publishedDateTime: 2023-12-13T16:53:00Z
-    webUrl: "https://www.finextra.com/blogposting/25383/trends-in-fintech-that-drive-growth"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
   - title: "Nigerian Audit Chiefs Urge Tighter Oversight of Fintech Sector"
     excerpt: "The Association of Chief Audit Executives of Banks in Nigeria (ACAEBIN) has urged for tougher regulations in the fintech sector and the operations of Bureaux"
     publishedDateTime: 2023-12-17T10:17:00Z

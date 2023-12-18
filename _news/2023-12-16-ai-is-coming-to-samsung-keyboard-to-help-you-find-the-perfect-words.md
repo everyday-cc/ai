@@ -33,6 +33,20 @@ related:
         width: 1920
         height: 1081
         isCached: true
+  - title: "Baby Llama Runs on Samsung Galaxy Watch 4"
+    excerpt: "A user on X, who goes by the name Joey (e/λ), shared a video where he ran 'llama.c' on a Samsung Galaxy Watch 4."
+    publishedDateTime: 2023-12-18T13:30:00Z
+    webUrl: "https://analyticsindiamag.com/baby-llama-runs-on-samsung-galaxy-watch-4/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 24
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/07/OpenAIs-Karpathy-Creates-Baby-Llama-Instead-of-GPT-5.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "fdqiSCX4kCfi0/qddzqsNVbRFhyi1Ro8cc2WI3Hrn4Ku1B/Y5oJFct/sZ56Qo2ynW4GMMltaJ5l/hXJwPHl/gOPPymDwQJVvNH4b7YEemv/gqMIT3R6Mx7j8bla1Wiuuho9ZhBMzLBlTP7oEBjoT4h0DZf/Lv5vwMkuafyVy5lgGf0l+WcjnuQRvvFgLycnCXTvHcuKubxAlIp32VC/idAYUZN/08TiR4VJNNiMSmucOHCS9G1aP1zISzSxxUw8Tnyo9NEiM6d/4BkQqIArrQnukfNGmGWsNGlkzIV+GQXMU5MSPwWfhSxaA3s5ffWyV8bhy2RS/n7Dr2GlTYns626rWpOhMlGMy5JPyGWPnsRL+z/56wUgw4h3XTHjI3pzLr0ar49v+jnp+cwXjmlKZWB2XhE/iGz6Lx9eSqjTZpitzu3wB7OTD0G5h59UtAVW59o+lQtT5TWsCAs++UVZ3sqXvLbvbS2kupnJ4Y+0mJbR564Jr7kzg7RO66VwExQGh28tNc+HNYC8aREOmpEjUwg==;d8NjluinJGCzH7Pkcrz7hw=="
 ---

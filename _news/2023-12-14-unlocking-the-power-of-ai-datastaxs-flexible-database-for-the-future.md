@@ -25,33 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Oracle Announces the General Availability of Oracle Database@Azure"
-    excerpt: "Oracle database services running on Oracle Cloud Infrastructure are deployed directly in Microsoft Azure datacenters AUSTIN, Texas, Dec. 13, 2023"
-    publishedDateTime: 2023-12-13T13:26:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/oracle-announces-the-general-availability-of-oracle-database-azure-1032896879"
+  - title: "Cassandra is the “best f*cking database for Gen AI,” says DataStax CEO"
+    excerpt: "During a keynote, Chet Kapoor gave several reasons why DataStax's Cassandra database is doing well: It's already one of the most reliable operational databases used widely by enterprise companies, it boasts early customer cases of companies actually deploying generative AI,"
+    publishedDateTime: 2023-12-13T19:12:00Z
+    webUrl: "https://venturebeat.com/ai/cassandra-is-the-best-fcking-database-for-gen-ai-says-datastax-ceo/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
-  - title: "Oracle Database@Azure now available in Microsoft Azure East US region"
-    excerpt: "Oracle Cloud Infrastructure has deployed its Oracle database services in the Microsoft Azure East US region's data centers. Customers can now access the new Oracle Database@Azure service, which covers all the abilities of the Oracle Database, alongside Azure services such as the OpenAI Service for generative AI applications."
-    publishedDateTime: 2023-12-14T14:47:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/oracle-databaseazure-now-available-in-microsoft-azure-east-us-region/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 49
-  - title: "Oracle Announces the General Availability of Oracle Database@Azure"
-    excerpt: "The first Oracle Database@Azure service is now generally available in the Microsoft Azure East US region. Oracle will"
-    publishedDateTime: 2023-12-13T19:06:00Z
-    webUrl: "https://www.datanami.com/this-just-in/oracle-announces-the-general-availability-of-oracle-databaseazure/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 34
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
 
 secured: "ITtUbtEGKzZ1b/XVvIe9b0+T9NCkPI/UL0tP5jVh77R5jeIiiZh1KpjntqJ0e2fGyxWNKkACcbnmPAK3gJtqxgeGxVk8Yz420vAk218aq4AfIFLXhf9w/ICj3iDfenmCLTjnMbgA81akQ8ug+PiKgkEVWhhXRW5KovR5PKupOa5Ew7ptsQpUXzeB7yXy8FINr5bmZe3gkep8pFa+xCb90xdnixhaFwmj2JOUi2WQs5X33bM8KZlFgbXeKK2j4OsKcEwnjuqRL0eAibBUxV2mJ/qCU0ZzCN6NA76hOMW2DuFtnA9ThMc4DwVx/yLf/1YKCQHc8ZEZJrlFLeykuMeBgSlBZdsj2PFHMvnOuGraJPO2bvOlhwFNumRPvd+/ElKFhyPVISOeCIPKMvkAT5+Hesxc0gA/py9kJPKJeWAnZ96lqtkirhsRkWAbJmFA40P+zCkXX1Dv07PonNHjO5Bw3EJF4T+vUXbANpC2Udh0vP3wHNDxYtbA+NtNbvh4HFhVLeatf8CcTKyLZL6tEzjKLQ==;rqIdnyfO/X2pP25plgIAJw=="
 ---

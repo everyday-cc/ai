@@ -7,7 +7,7 @@ originalUrl: "https://www.usnews.com/news/world/articles/2023-12-18/pakistans-ja
 webUrl: "https://www.usnews.com/news/world/articles/2023-12-18/pakistans-jailed-imran-khan-uses-ai-crafted-speech-to-call-for-votes"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -22,22 +22,29 @@ topics:
   - AI
 
 related:
+  - title: "Pakistan’s Jailed Ex-Leader Uses AI Clone After Public Rally Ban"
+    excerpt: "Imran Khan, the jailed former prime minister of Pakistan, was able to deliver a public campaign speech Monday using a voice clone that was created with artificial intelligence. Khan has been behind bars since he was convicted on corruption charges in August."
+    publishedDateTime: 2023-12-18T14:39:00Z
+    webUrl: "https://www.thedailybeast.com/imran-khan-pakistans-jailed-ex-leader-uses-ai-clone-after-public-rally-ban"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 37
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2458,w_4370,x_365,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1702910307/Screenshot_2023-12-18_at_14.33.50_eg2xdb"
+        width: 1480
+        height: 832
+        isCached: true
   - title: "Imran Khan deploys AI clone to campaign from behind bars in Pakistan"
     excerpt: "PTI party uses ‘voice clone’ of imprisoned opposition leader to give impassioned speech in ‘virtual rally’"
-    publishedDateTime: 2023-12-18T10:07:00Z
-    webUrl: "https://www.theguardian.com/world/2023/dec/18/imran-khan-deploys-ai-clone-to-campaign-from-behind-bars-in-pakistan"
-    ampWebUrl: "https://amp.theguardian.com/world/2023/dec/18/imran-khan-deploys-ai-clone-to-campaign-from-behind-bars-in-pakistan"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2023/dec/18/imran-khan-deploys-ai-clone-to-campaign-from-behind-bars-in-pakistan"
+    publishedDateTime: 2023-12-18T10:37:00Z
+    webUrl: "https://www.theguardian.com/world/2023/dec/18/imran-khan-deploys-ai-clone-to-campaign-from-behind-bars-in-pakistan?ref=upstract.com"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/ee1e4ad18e5d81cae26ee1ae2f83c5d8f3823268/0_184_5500_3300/master/5500.jpg?width=620&quality=85&auto=format&fit=max&s=961488e66daa4239a6561e816ab76eb0"
-        width: 620
-        height: 372
-        isCached: true
+    quality: 17
 
 secured: "rAKpf5AcPr24V5h6+lh62I7tGjUhRCf4+vNi9+tn6MsO7GU71al4ROB193e7dQXLC/H9NIlJnh0gop4SwslaFLsgVnYQrDQyCDpUTTi7bnjjsGleFQXYU7fXo69EiNosHHtlgAKosBWxVcqca7sSxJu1voRhUjq49yQJikO9ar81yIqp6P0vh6THeZyT8+uHsfOMwqpTAKpZlHPRtdtYLCUOLMkejFbmSDe94eF4fjZZR72BQD4H1kLRCCi56gPd3ygTG5hzkDDYHq5Ub+Uk8KZvPUf0ifTXbv3TVvQJ+MVZbx3DcY5yJa8Nw08Fcb0tImQFNZilLp52pgsiSKXS9oVeF6KmW/8gt1c+VkynmHQLWfHwUxnVRGLJfaxnaSiOH6N2Tb2F0l0+BM2DOoVBpCU2vZrrilTCZKTU93iTK5noV68P+hvIIta6syndzRc+Wh3psU4oLH13ejlUZO5LIkQtF8s6NlGzVOCmq/Hhf07Pik1nOlsNUbIfs62hA7QNKWZw9VJ1bDVX3SagYbJh+Q==;J26tF+gmtAF8+dOyMav0Ig=="
 ---

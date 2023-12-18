@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Artificial Intelligence (AI) in Breast Imaging Market Size is expected to reach USD 3.21 Billion by 2031 | CAGR: 28.6%."
-    excerpt: "Artificial Intelligence AI in Breast Imaging Market Size is expected to reach USD 321 Billion by 2031 CAGR 286"
-    publishedDateTime: 2023-12-13T14:49:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/274063665/artificial-intelligence-ai-in-breast-imaging-market-size-is-expected-to-reach-usd-321-billion-by-2031--cagr-286"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 30
-    images:
-      - url: "https://icrowdnewswire.com/wp-content/uploads/2023/12/icn882684-icnFinal_EMR-0120281292028129.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Global Autonomous Cars Market Size To Exceed USD 55.6 Billion By 2032 | CAGR Of 36.3%"
     excerpt: "(MENAFN- GlobeNewsWire - Nasdaq) The Global Autonomous Cars Market Size was valued at USD 2.5 Billion in 2022 and the Worldwide Autonomous Cars Market is expected to reach USD 55.6 Billion by 2032, according to a research report published by Spherical ..."
     publishedDateTime: 2023-12-14T03:33:00Z

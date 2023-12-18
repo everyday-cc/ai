@@ -47,17 +47,6 @@ related:
         width: 1354
         height: 900
         isCached: true
-  - title: "Cloud-lending startup Lentra launches 3 AI products for financial sector"
-    excerpt: "The company launched AI products, namely Lentra Convo, Lentra Insights, and Lentra Wingman, to serve lenders with solutions that enhance the lending processes"
-    publishedDateTime: 2023-12-13T15:10:00Z
-    webUrl: "https://www.business-standard.com/companies/news/cloud-lending-startup-lentra-launches-3-ai-products-for-financial-sector-123121301219_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/companies/news/cloud-lending-startup-lentra-launches-3-ai-products-for-financial-sector-123121301219_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/companies/news/cloud-lending-startup-lentra-launches-3-ai-products-for-financial-sector-123121301219_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 36
   - title: "Improving the call centre experience in the financial services sector"
     excerpt: "British banking and insurance holding company NatWest Group serves 19 million customers across 12 banking and financial services brands via its network of call centres. To deliver the best possible service to customers while also protecting their data,"
     publishedDateTime: 2023-12-18T10:46:00Z

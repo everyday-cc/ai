@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/12/14/cruise-slashes-24-of-self-driving-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/14/cruise-slashes-24-of-self-driving-car-workforce-in-sweeping-layoffs/amp/"
 type: article
 quality: 74
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "GM self-driving arm Cruise is laying off 24% of its workforce"
+    excerpt: "A Cruise self-driving car, which is owned by General Motors Corp, is seen outside the company's headquarters in San Francisco where it does most of its testing, in California, U.S., September 26 ..."
+    publishedDateTime: 2023-12-14T19:54:00Z
+    webUrl: "https://edition.cnn.com/2023/12/14/tech/gm-cruise-layoffs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2023/12/14/tech/gm-cruise-layoffs/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/12/14/tech/gm-cruise-layoffs/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 74
+    images:
+      - url: "https://media.cnn.com/api/v1/images/stellar/prod/2023-11-20t222000z-618296731-rc29h4acjneq-rtrmadp-3-gm-cruise-cofounder.JPG?c=16x9&q=w_800,c_fill"
+        width: 800
+        height: 450
+        isCached: true
   - title: "GM to lay off 900 workers at self-driving unit"
     excerpt: "General Motors announced it is laying off 900 workers at Cruise, the company’s self-driving unit. Those layoffs will impact around 24% of its workforce."
     publishedDateTime: 2023-12-14T19:32:00Z

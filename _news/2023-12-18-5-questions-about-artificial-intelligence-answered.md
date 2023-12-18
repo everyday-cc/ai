@@ -68,20 +68,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google's AI chatbot Bard gives drab answers, but it does one thing better than ChatGPT – Mashable"
-    excerpt: "Compared to the other chatbots on the market, Google's Bard is the boring one. In a more or less positive assessment, Vox called"
-    publishedDateTime: 2023-12-13T14:29:00Z
-    webUrl: "https://www.inferse.com/838409/googles-ai-chatbot-bard-gives-drab-answers-but-it-does-one-thing-better-than-chatgpt-mashable/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 43
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/12/wp-header-logo-7371.png"
-        width: 1200
-        height: 1200
-        isCached: true
   - title: "Elon Musk’s Grok AI Chatbot Enters India"
     excerpt: "Elon Musk's AI startup is rolling out Grok to 46 other countries including Australia, Canada, Malaysia, New Zealand and Singapore among others"
     publishedDateTime: 2023-12-14T06:17:00Z
@@ -117,6 +103,6 @@ related:
       domain: inferse.com
     quality: 28
 
-secured: "AG3DUQ6xQ9ZjAXrTOKR++bJu0M+ylc7mUPqjXrevlsjqtbKP1udNgsNRzLI4YwAA5sIgpPSwtR9q5m+XkJ6DCC3tSynomTSXcJqr6NLVvvv+Jr8GvcHxwxtP9q03byX/bQPfGRvrmzwZ13afe5dulypp2v9jplo43zmbzPzflwZvXKs94FeITL8QZW4/VX4Y8BWZFhyM7YnQ1nBDGSRbxQ7Ld6kqV82MEk9nCijbcyY4WScDpeiGWEXfaeWjtUOEYxuuamHYBwU/EpeX4G+689kRFrSJc1Kxhak0otrTZtWAt1dXtMnidraR5GUPYn2fa4JR5W1W0tZHeEByOG9+aJUK7T1/WbgG1kUwPdYFK2M=;+CDZuJoTvGmAOlMiRBPJ6g=="
+secured: "Y+mD0JzGP1O9wfnREhbrdGbw+0BHPygW+MSsl5Be2GfSSf5hY3EzfY2Zm6dORBUTByVZhVgPe+98xn51OJ9DgpdSsveGs4I8G0VxHB6phiYG5wmWJhKfZCSun1BVE+8nw8S65kxYmot6XCrnuUsk0/rQW2r/+7vOUAZRpP2n2/MZ2oTDG3EC9xFhhiASy1AFuvsqOAR5vdFM9iRvKceXCt1T9Jv1MY4MnhOZ101tjSxRdTMIOTMe17cScTt8ZuFt0wTwf7KDD5K4xKX8zeqQTMWmpq9U7UYuvltYFLw9WzMa9YdKlktP/Qh8SzbLnxsq4sFND2Rxhug1DFXTQoDgPBd3a9dyASd/cuddKPoB1Cqv1npeu9Rl+ECDe+PIzYn//JpCBZvzpysj56AACzjHdIoYV1pa3idWraIP6JaKHYA8hAsba//purDVEbMAFOHrs0Zzp4uNwIs1zaTYos/JXBjgsN2a1XBNnERVPFg34yzVlD4yy23Os4VHsRf+RFuCA2EqzI0IxDiIq8k1FwhXZw==;RUe0Hh3XfZj6ASltiU/MSA=="
 ---
 

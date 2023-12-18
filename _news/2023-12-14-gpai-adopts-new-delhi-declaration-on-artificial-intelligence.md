@@ -57,15 +57,6 @@ related:
         width: 1019
         height: 573
         isCached: true
-  - title: "GPAI Summit: Member countries unanimously adopt New Delhi declaration on artificial intelligence"
-    excerpt: "Member countries of Global Partnership on Artificial Intelligence will meet again in mid-2024 to discuss about the framework for AI governance"
-    publishedDateTime: 2023-12-13T14:41:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/gpai-summit-member-countries-unanimously-adopt-new-delhi-declaration-on-artificial-intelligence-11900541.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 21
 
 secured: "BlsQebBkxOE22bYUzctGfMYchI3dzf+gElM0L/3ZnG/RFdQD1JBxARQwp0Laqp6rrS4cG0JVI4aib29jAd0LbLKuShU/gJG/v/SdKc6IAni0wpRS4IDtzyY1dlVcDpuLS+oDjnSYmuQyBdfam0A1K++6sONgr+++OxbMulIQCbP7STQ0tVKf5V8tN9sqsGNc7YSDSzJ05ESj4HWhyaMMVmBdfx1W8XhQqBpiA9BMBYg2Hab2MUTL5YrFbv1ZCMBLkCXxOThJy9/tU2EWwFF7VgGfJSZy/4hwvucbGVPAMq/dtPQ9i475Pevn3wtK7dCbmEToPWZtGkC0cezdoUlZ4gAHx5i/t/ZGoTc7BTV78/o=;C2g9QIq5gZnU2AmYbys0cg=="
 ---

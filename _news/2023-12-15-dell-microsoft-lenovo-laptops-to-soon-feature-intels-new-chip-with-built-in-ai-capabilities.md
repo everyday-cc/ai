@@ -68,6 +68,20 @@ related:
         width: 419
         height: 250
         isCached: true
+  - title: "AFL-CIO and Microsoft Announce New Tech-Labor Partnership on AI and the Future of the Workforce"
+    excerpt: "This collaboration will start this winter and take the form of Microsoft hosted labor summits. The partners will bring labor leaders and workers together with Microsoft's key AI product developers, researchers and business leaders for intensive discussions ..."
+    publishedDateTime: 2023-12-18T16:20:00Z
+    webUrl: "https://www.contractormag.com/technology/article/21279485/afl-cio-and-microsoft-announce-new-tech-labor-partnership-on-ai-and-the-future-of-the-workforce"
+    type: article
+    provider:
+      name: CONTRACTOR
+      domain: contractormag.com
+    quality: 42
+    images:
+      - url: "https://img.contractormag.com/files/base/ebm/contractormag/image/2023/12/65806d0a72ae3d001e84df07-aflciologowhitetag1200x630.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Achieving cross-border data protection with Microsoft Cloud for Sovereignty"
     excerpt: "Organisations are paying for their data protection mistakes. Failure to comply with the European Union (EU)’s General Data Protection Regulation (GDPR), for example, can result in fines of up to €20.3 million ($22."
     publishedDateTime: 2023-12-15T16:08:00Z
@@ -82,15 +96,6 @@ related:
         width: 975
         height: 548
         isCached: true
-  - title: "Microsoft homegrown AI model can run on smartphones, laptops"
-    excerpt: "Google brought its AI model Gemini Nano to the Pixel 8 Pro. Microsoft released Phi-2, a small language model that outperforms Meta Llama 2. Phi-2 requ"
-    publishedDateTime: 2023-12-13T14:24:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-homegrown-ai-model-can-run-on-smartphones-laptops/articleshow/105967667.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 36
 
 secured: "+9UTGvm7M4pddNuMbw0IRdvBMePzYVz/YbPNyshxIyVPGDRl1J3uGkXN40OPw1aGmvus3yf/kQfosRNKZ4gR1BsiJHAz3ZSosDuS2qcKTVZgReCs90PmV3biGmy3J0Wn1KLc5FgHFUo1GRMbP5xtiso8teHaxnrUmX3xKgVfG1PF9cDzC/DzG8XNv7kXV2B3PW3mkkw45VcCpUtVYR0OChU/SkTeN7UzV5uvI7L2WXsFCs12sztu8S1uZrGDJAU18cuLZs3Nd1xPqBUtQIY/Tqr+hc466UjiJj+zb88Q2vADXjAnvRR2BEBt8VzgPN9vcm+HOlhXdU1RmhfN4xtLGbw+G877Xc38rQd1lygSZhDYYEybFfMq2dX3VZf/lQv6yFNebePcnqNTHho605OybkCI7oSoEpHrtcyywBVuGpIOgIURStR+kFCCWerrA4r3qlPri+txWn9Mz+9jGxHGOJfc+d0OiiqDZCgn6c9kJVhhhOFJiItNizuPWnc5WUr+LS0TWJk1KmQxh6mZnS1WGw==;kyHQn9xh8B5B4HFjBbAYBQ=="
 ---

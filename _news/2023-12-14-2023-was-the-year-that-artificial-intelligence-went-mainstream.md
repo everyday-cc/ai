@@ -7,8 +7,8 @@ originalUrl: "https://www.newscientist.com/article/mg26034693-900-2023-was-the-y
 webUrl: "https://www.newscientist.com/article/mg26034693-900-2023-was-the-year-that-artificial-intelligence-went-mainstream/"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: New Scientist
@@ -38,6 +38,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI was the buzzword of 2023. What happens in 2024?"
+    excerpt: "You really need to understand the language of legal finance. You can fine-tune an AI model to interpret these derivative contracts and translate them into a machine-readable format for a generic AI model to use. You can create specific models of AI that ..."
+    publishedDateTime: 2023-12-18T08:11:00Z
+    webUrl: "https://www.aol.com/finance/ai-buzzword-2023-happens-2024-131116432.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 19
 
 secured: "JZvWkq1iDiyqQX68mtwo9a5n6/HjXPz3IGAo5bNSduAebqaOJID4lD3xwwJq2Jkrc7/tGv3AGYeTUDBCTLXZ7MSP7SZaD4KkHh19S0X4j5doTu86AMqco8WHo/ALANepNF/GQJcOuWjxO5/g2FQXZ9bszzfESt37OjbnUqurFu/wZAviltDSuUoWdaf2si+NiPDfITInsdYEN0Forjui6Wt7uA5iOhqBGEGo+JOBguLHykcbtW1X9FqQFCIC0rkNGsTjgzlmGXTQlA34jhtrpRQswryDcdkUoD12emXUcEf2EK5J3QlkLuT2T5yWY2fC8a5fUu4jjudxkpZ3yB/jnz9yurOB3N/D4FDDvmBkHi5ygRE+FBB9XOda22Fjvz/nbJvrZ+BD9tli9Cu289/3rbYaostPxafmbIGAVGekjVYxl4P0sO2F5Q6waxtN3huj6QZf4SOm21KtAFGrwVgy1+drFxgcqdpqe2tIWplEXpfUBSNx19n/fudWOSnauZ7OX7b695vmiKuwDYG6lYnVrA==;JPoNHYCUTC8MUDSQpo74eg=="
 ---

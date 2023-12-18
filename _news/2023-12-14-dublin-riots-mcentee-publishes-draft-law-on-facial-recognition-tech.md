@@ -61,6 +61,29 @@ related:
         width: 613
         height: 400
         isCached: true
+  - title: "Use of Indian languages in AI programming will bring down bias in technology: Meity secretary"
+    excerpt: "AI technology-based language translation applications have been developed largely using English language as base and therefore often they are unable to give correct output in other languages. \"While it (English) can be a language of business to some degree ..."
+    publishedDateTime: 2023-12-18T13:17:00Z
+    webUrl: "https://www.deccanherald.com/india/use-of-indian-languages-in-ai-programming-will-bring-down-bias-in-technology-meity-secretary-2815983"
+    type: article
+    provider:
+      name: Deccan Herald
+      domain: deccanherald.com
+    quality: 28
+    images:
+      - url: "https://images.deccanherald.com/deccanherald%2F2023-12%2Ff5eaa6b1-fec6-4898-8246-b4369ccb9b65%2FGBDDrNIacAAeD9A.jpg?rect=0%2C0%2C1599%2C839&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Use of Indian languages in AI will bring down bias in technology: Meity secretary"
+    excerpt: "At present, the government is working on AI technology to enable citizens across the country to communicate with each other seamlessly using digital translation tools developed under the Bhashini program."
+    publishedDateTime: 2023-12-18T14:11:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/use-of-indian-languages-in-ai-will-bring-down-bias-in-technology-meity-secretary/articleshow/106099353.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 14
 
 secured: "e+SUkc9hP2zJ8ZgWXMpErMPJW5LhiLZJoceNmdMIz0RSeeWG47TPtkyIS3Lps+uFCfAKSMXpfFKynqpzouTXi67LvxP9PZpKWZwVHreUWWuPQYliX9m9a8hO/O6lyb3+RbjgiQUqjuygsiekIYeRV2WzUUB9HK0dmofZJJdyEWjlSz92Ufds+5ukMxJ30WLBWvpaCCohpvSWiX3OffbXClkATznabmXGDmjBDog0wgCIy3oSzbEB/5ap1jfMxwpD7GXMZuwzzHkM9w7TEkeofz2EditwXxWM+iKE05bs6vcN8fizU2gGXl7g6Ql1RQnGdJZGM1gm79tfJKpAKGmq8e6pUBwL5XTfTadg4+U3l/Q/+kDt3KMT1NAcJyjViU9uIsvgOgCtDj+U+rY3Abc/Doci8cRvgL8rda6ZOGV93OjkrG7LrgFJ3icj9k/5uB19DHFHahTQfvsfY+xeTqn2/qGWWSzFGONv3NQ0gEls0WhU/keoNqXs6r6kQwr6EkYV5gJQ0EWxaVydLd6YiLbHrQ==;cTNXB56VItwOOkLHnc1Wtw=="
 ---

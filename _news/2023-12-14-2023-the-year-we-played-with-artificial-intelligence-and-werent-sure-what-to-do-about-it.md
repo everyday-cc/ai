@@ -2,29 +2,21 @@
 category: news
 title: "2023: The year we played with artificial intelligence — and weren't sure what to do about it"
 excerpt: "Artificial intelligence went mainstream in 2023 — it was a long time coming yet has a long way to go for the technology to match people's science fiction fantasies of human-like machines ..."
-publishedDateTime: 2023-12-14T11:23:00Z
-originalUrl: "https://www.koat.com/article/2023-the-year-we-played-with-artificial-intelligence/46130638"
-webUrl: "https://www.koat.com/article/2023-the-year-we-played-with-artificial-intelligence/46130638"
-ampWebUrl: "https://www.koat.com/amp/article/2023-the-year-we-played-with-artificial-intelligence/46130638"
-cdnAmpWebUrl: "https://www-koat-com.cdn.ampproject.org/c/s/www.koat.com/amp/article/2023-the-year-we-played-with-artificial-intelligence/46130638"
+publishedDateTime: 2023-12-14T04:23:00Z
+originalUrl: "https://www.4029tv.com/article/2023-the-year-we-played-with-artificial-intelligence/46130638"
+webUrl: "https://www.4029tv.com/article/2023-the-year-we-played-with-artificial-intelligence/46130638"
 type: article
-quality: 48
-heat: 48
+quality: 8
+heat: -1
 published: false
 
 provider:
-  name: KOAT Albuquerque
-  domain: koat.com
+  name: 4029tv
+  domain: 4029tv.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap2657b47200a4de.jpg?crop=1.00xw:0.847xh;0,0&resize=1200:*"
-    width: 1024
-    height: 579
-    isCached: true
 
 related:
   - title: "2023: The year we played with artificial intelligence — and weren't sure what to do about it"
@@ -41,7 +33,16 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2023: The year we played with artificial intelligence — and weren't sure what to do about it"
+    excerpt: "Artificial intelligence went mainstream in 2023 — it was ... through a huge database of photos to recognize objects and individual faces and help guide self-driving cars. Speech recognition advances made voice assistants like Siri and Alexa a fixture ..."
+    publishedDateTime: 2023-12-14T18:23:00Z
+    webUrl: "https://www.wtae.com/article/2023-the-year-we-played-with-artificial-intelligence/46130638"
+    type: article
+    provider:
+      name: WTAE-TV
+      domain: wtae.com
+    quality: 8
 
-secured: "6JxZjwlNlz4HWCtHBHqy2czMnB8uS9l0die8uyrin7h5EQtftwdbxRK9GNEVGjq5H12Hmw+CSkbXVDA92L4H0eaT/VjR4W+lHOAbr7ypC0WLnahifKpm4EPMzku+d8Hxi8wczMxuTBTjUQoht0WRDr8D81JdlPMeOUUX5rvORKK9DuaDXRcsJbI+NoMdIf19T1J4d6QAyTj/bq0nSog0yRePIvK1H79fgRHfZ6ZNV6gV5UBoH4XMx6xVlHdgrvkE0rvM2o4zn+R7fOUPOqCTgMRIZXsTl0s1lLtGdWvD/RrjZivWw1sPoQ9hvJ3blBXgHJWQjA6axSLjvfR/ip2EiZAGY8sOBkynLo/WPa27qLM=;P2YUwOhNPbatJIK7i9brKw=="
+secured: "e8g14oneFGKW3iQlbcgAZj1sdWygjfm/2vYdya+dogxsUIwJeiX8GFzznisv/OCS5K4idNkRlvYrJDGHNpEJhvGAkrHkQ1t2kPNooS8ry8UwYeL7/S6Fy9cPPNaJTBXPXau400CrR58Lr58+K4Z3MULNfuvVmd9vMw2cmtaG3o+h1GP/sFo4jq2g3LPv9Z5RpFYlpvSobPM9rPqS64pGGDagtoXCmLt2GgB2VDvd2oLxe7rHc7FnaI7u9p2oz9dHqQgX8g2XXdWHPzStFXWLS0OlOnsADMX9kMcmdHsQtc0ENlfEM+TKNjEKWPG0Xq3wUFa4pmX/2MOVK342bYqgjpBXMksxaQwSuQKbx5aFRpw=;5YtHnWWOlS7DJOcuw35Opw=="
 ---
 

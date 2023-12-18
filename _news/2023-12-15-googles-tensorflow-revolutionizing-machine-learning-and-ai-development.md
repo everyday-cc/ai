@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/googles-tensorflow-revolutionizing-machine
 webUrl: "https://techbullion.com/googles-tensorflow-revolutionizing-machine-learning-and-ai-development/"
 type: article
 quality: 87
-heat: 122
+heat: 112
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
         width: 650
         height: 450
         isCached: true
-  - title: "AI Platform Keeps Mining Machinery Working With Deep Learning"
-    excerpt: "An Israeli company has created an AI platform for maintaining mining machinery, anticipating potential breakdowns before they happen"
-    publishedDateTime: 2023-12-13T14:34:00Z
-    webUrl: "https://nocamels.com/2023/12/ai-platform-keeps-mining-machinery-working-with-deep-learning/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 34
 
 secured: "NS/jEK8mWoxV0sDCKqq6bRl/5Q1uhz601/YYup1+cmKxX9XaWcgX495hV6MuEy7hOeFZXoW4M/8ndD6unKfc9W8PwAwZx0rX6/KkholYyGwheJMi4Wn6AwEpCiilQiRFC0jVrGxSPq4wtmr0yQf4G5ATixHjx/4eNSG2nUf7ynJvArN/qiIsTiU4an/cF510uLiK3A+J5ga9R+IU5PI7YyrkvnZJQkVvK1uqmxquNx7/7eyT7/s1Yzb8NQ/7YdiGezeWxt1AuqOdt+1tJ1w/RWJ4odDG3REpvJnv87i0MmYYxKN+CjeA8ZF2EDRpG13OKaUKW5oyIa3nn3yCa6DPZPx/OaM5da3i5MUiNGPWAy2fdKyn9cv2jxoBUG8zIDV2D9eqEZ72m6pmAv3xnKOc7FQHsLgDh7pUdYt1sRxU1151XbCEu5xpQYezc3aTZrIIan4wlc8YyvRY3Dc1R2SWVQ8Oqb79tjsvrpmWHCTmmCog4k3rS6nTBM39dhxkbArqiniB5+MEg9F8/ihHmxUCNg==;Ff6+Spn4RRKRnPLSWetXmg=="
 ---

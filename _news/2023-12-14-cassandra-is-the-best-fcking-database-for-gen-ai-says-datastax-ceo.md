@@ -21,6 +21,22 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Unlocking the power of AI: DataStax’s flexible database for the future"
+    excerpt: "The vector search is a key component of this flexibility because it can translate different databases into a language readable to AI. “What we try to do from an architecture standpoint is let you go and easily switch between them in any situation ..."
+    publishedDateTime: 2023-12-13T17:30:00Z
+    webUrl: "https://siliconangle.com/2023/12/13/unlocking-power-ai-datastaxs-flexible-database-future-supercloud5/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/Ed-Anuff-Supercloud-5-2023.jpg"
+        width: 4898
+        height: 3265
+        isCached: true
+
 secured: "UFbLZ8pm6y6VQtM5RJi3JHhQHOcZfHisGEF7oUdzjQL0kdt+y2DuKLruKUkr2nE/Fg4zPnJAq6qOQy+Rg/I59XtB/lywwqNzk4FFP8qderagpAE9IZpTnXGNO3Y+ZHE0W+CFkbNNYJA4SWc6cbCPNfCAP+IEUM2Ct/cr25lkse6ga4OxJAHkG3fdLE6N9oHmjitrBP1Nu53vqspth4fHARAlwRhh/twlmsHj6uf0/1Z/Y52uebRz+CWfR5a+xIQ6rt4SWeY5Shs5VRvmhqE7XopjsBRQDzuEnZMOINWW0oLD/nyweto+zEfXR5toR5iLPTz1R0nu9QJmqhNkSQj2A9+ARh0qAHeZYEsc2Hf0tAld05t7evpxWIHSyHI02W7TfCM/x9uZNFkJGN+LBJgBLCPmD2W3AvpObaYi8+Utwn8vQO/dnuLbV0UuHxd55zk92t1MA8cyKIxv+V4VN5G9qvF80zcvb0RZ2s27TxjSNnPUAdxsIrAiMO4QqlKASw0xF/JTGjzhlei5Ar71+OKHAA==;qS6etEazIMwllKNAjIZEiw=="
 ---
 

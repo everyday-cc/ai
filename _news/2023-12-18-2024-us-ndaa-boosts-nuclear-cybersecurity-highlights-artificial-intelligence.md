@@ -9,7 +9,7 @@ ampWebUrl: "https://www.csoonline.com/article/1265288/2024-us-ndaa-boosts-nuclea
 cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/1265288/2024-us-ndaa-boosts-nuclear-cybersecurity-highlights-artificial-intelligence.html/amp/"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -26,17 +26,6 @@ images:
     height: 463
     isCached: true
 
-related:
-  - title: "Deciphering AI, cybersecurity governance and career transparency headline 10 trends to watch in CompTIA's IT Industry Outlook 2024"
-    excerpt: "Tech companies and workers have generally positive feelings about the new year DOWNERS GROVE, Ill., Dec. 13, 2023 /PRNewswire/ -- The explosion"
-    publishedDateTime: 2023-12-13T13:36:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/deciphering-ai-cybersecurity-governance-and-career-transparency-headline-10-trends-to-watch-in-comptia-s-it-industry-outlook-2024-1032896963"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 17
-
-secured: "NuDYMPJV15IvBcUPv0Q2ZVpEUfnZCgnXFTuxDECdidlZPmh7q9lh7Q2qr1pKZ37E8pnKOd09YIE8SFue3gSuoxv10yPlhT3lqz1peBKYLvlpx48C63EJ+g9UWkSbuK66eI+SOOGn3ztBJOB53OgdwI0RRchKsiogvjObiuZjy1aAVVGjt3/3Annt0ejd562FdAERaLnzeoIoYlrHKcYLqVNHpxYqeFEOW4RRZlcjA6x5Widxho1xDIyDHnsXRL/F4qeinuNHc13UqZrL/cl6vDtU1Ulmb8I0oAbDfgCTzz5DPLOmcRdT9BK0mRzHYWpWp0/gu87Ko/w2HAu8dbqDuQFmYpk2Xo45ic3HavJnHpo=;KDEDuZYrpgZGE8mCBugUmA=="
+secured: "sjMjxMAuTHuI6b+JjesWwJ+icZQMr1/Ex/7oDq+XHtt1Bdl4IvvcvM8XQSLA2JM2ZNjqo3/e5pTItXmT6pxTYH/iC8a3oFCOBuyfdWhZSpPNpTxLVZrSEutfboLYUriZW9IjtCZ3p7hZObkihp1m3Dotfb4WbRxzzAxW0tA2aiPZTOgfrIAADjGwUZGcLoKOy1A65wATp1YhBCXAGOoFHqN72nonjauSE9ByaOJsBRsQ1UqLZIRFul1vylI9pGQXujZDyXzY9SeBcQkKhc+t/LanB/LUm5VK/GOWoM8lavskZKeQyCfWA1lzSoZNvMmiZPzmzwAbitwugTIuplEGhd0TO41opG1Z4vys5081WKdBP2tWSmne1HPMQqY42FRkiJrAzYzeiEwfc9DoDxHccNnTaweTJ4Hq4C6L2xefptRluKDBsppxsdg0eEQVM5nlx/WONm834UTYAW81YrirH9PiWqAgqj6wN9Gp6CyDHljA24M62Mm3lYsTe4B3oJfVhInTdJddqhMkXd/pW+Byqg==;TuyWWBtLi5/Bcvaj9wsKBg=="
 ---
 

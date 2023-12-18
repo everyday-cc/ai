@@ -69,15 +69,6 @@ related:
         width: 1600
         height: 817
         isCached: true
-  - title: "OpenAI to pay Axel Springer to use content to train AI models"
-    excerpt: "OpenAI, the generative artificial intelligence startup backed by Microsoft (NASDAQ:MSFT), has agreed to pay publishing company Axel Springer to use the media company's content to train its AI models. The content will be used to create answers in ChatGPT ..."
-    publishedDateTime: 2023-12-13T14:21:00Z
-    webUrl: "https://seekingalpha.com/news/4045950-openai-pay-axel-springer-use-content-train-ai-models"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 17
 
 secured: "U3qkKWnpJrrKlpaeBEmOnh9vnqwQI0pEldTfHPjNoIQY4jsWFm3u8iaeUPYDA9Kl+rNUPf4E3WHXrp4hmvaU9BM4Z+T8JW270+XsK3hKtduvbBrsKbDtU318e46fh5AP+/NDs55q/mz+o4iBCh/Cn7OrHDbJPjwMaX3E15bBbt7dAp3201JVEoReSmhQaQAIw3XQsG+0iLxMkS8mNr96sl0hNrPVPCOBSIj8r4muhXltVYW9taUfPPGdmwsjVpA4pxqXXZOSm0GbKlHPo7PFtDWPi+nLLYjse8dyRErHhl599hTW+zwIXhQU0Hs9/78SCg7He0pzIaIuKWc5bweyWh1SQoLe3KhzCRahUIv6K+dTxTaz2JRXViygKz5lH99FkIJjmuzcT6hjDs/1iibT3FTik5wy7swi3EKTCpeHH0AwkwdFWLNYDHMhEHfXff03MzGsYTdVu+56upy7RtVFyJNdd7fSd96/M3eSueYmntjtNmTRKNaW9UHtS5J2IwD0CVuGoT+k356xh4KhI1KuIQ==;2cSngteV4XV0WlFYW/0kDw=="
 ---

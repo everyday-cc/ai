@@ -7,7 +7,7 @@ originalUrl: "https://www.postregister.com/features/smart_living/2023-the-year-w
 webUrl: "https://www.postregister.com/features/smart_living/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about/article_13cbcccc-9ade-11ee-b96a-ab82c4cbc1f2.html"
 type: article
 quality: 26
-heat: -1
+heat: 26
 published: false
 
 provider:
@@ -26,20 +26,22 @@ images:
 related:
   - title: "2023: The year we played with artificial intelligence — and weren't sure what to do about it"
     excerpt: "Artificial intelligence went mainstream in 2023 — it was a long time coming yet has a long way to go for the technology to match people's science fiction fantasies of human-like machines ..."
-    publishedDateTime: 2023-12-14T11:23:00Z
-    webUrl: "https://www.koat.com/article/2023-the-year-we-played-with-artificial-intelligence/46130638"
-    ampWebUrl: "https://www.koat.com/amp/article/2023-the-year-we-played-with-artificial-intelligence/46130638"
-    cdnAmpWebUrl: "https://www-koat-com.cdn.ampproject.org/c/s/www.koat.com/amp/article/2023-the-year-we-played-with-artificial-intelligence/46130638"
+    publishedDateTime: 2023-12-14T04:23:00Z
+    webUrl: "https://www.4029tv.com/article/2023-the-year-we-played-with-artificial-intelligence/46130638"
     type: article
     provider:
-      name: KOAT Albuquerque
-      domain: koat.com
-    quality: 48
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap2657b47200a4de.jpg?crop=1.00xw:0.847xh;0,0&resize=1200:*"
-        width: 1024
-        height: 579
-        isCached: true
+      name: 4029tv
+      domain: 4029tv.com
+    quality: 8
+  - title: "2023: The year we played with artificial intelligence — and weren't sure what to do about it"
+    excerpt: "Artificial intelligence went mainstream in 2023 — it was ... through a huge database of photos to recognize objects and individual faces and help guide self-driving cars. Speech recognition advances made voice assistants like Siri and Alexa a fixture ..."
+    publishedDateTime: 2023-12-14T18:23:00Z
+    webUrl: "https://www.wtae.com/article/2023-the-year-we-played-with-artificial-intelligence/46130638"
+    type: article
+    provider:
+      name: WTAE-TV
+      domain: wtae.com
+    quality: 8
 
 secured: "5hFVvpjwRUYPsfdX3ERnwokh70Oh9YwAunBBGoCPCp4HIPdHHG5au4fVyF5vKmfifjSGPm2H3YWpjBqus0ixwMJrRaWJWEk85rzi99K0SVgykDOq9dWBJC4WPahNb3WLv1vHMUY/FcvZqFHCJL/LuafISR6ibWWB2AwEF4V38V5cwWGj/RrksHPI6BKSKl1xB7YQYiHO85itbMsEQPbPvkACzHq08fdoMmL31tuIBcFkEjo8+sVVyMQC4deE6/nuPAe30XyrWvon4Tr9r+0nenYR907lbpY3/XmWVvvtSXVgqlHZigOpKIXWXRYJ8o1CSbWF9NEORlz5+RmQeMt1DHvlab4iG9LorqD0tJUdyKk=;eRKChyPu8tYqSgn2zfzz/w=="
 ---

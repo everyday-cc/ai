@@ -38,6 +38,15 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "AI was the buzzword of 2023. What happens in 2024?"
+    excerpt: "You really need to understand the language of legal finance. You can fine-tune an AI model to interpret these derivative contracts and translate them into a machine-readable format for a generic AI model to use. You can create specific models of AI that ..."
+    publishedDateTime: 2023-12-18T08:11:00Z
+    webUrl: "https://www.aol.com/finance/ai-buzzword-2023-happens-2024-131116432.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 19
 
 secured: "diDaMzvurlYFth2KY+IMpWb2nv2UOfciWfTQY6ihOiyHNuA9gKUp7qLbjOvN3c4+OOo6sQbYwQ7WWKPYEq8/6ia21daczer/JIVqCMamjh51rK79E70Sf7Qr3LLDXhEWm9CYHaCJRw0zLHmDgy8sOhttcxvldD39i/PCvgG7LLnzL5ybcNNPH4/d0xttMOuCKcWubI8zJIz9O2t+Wcpc12M5x4534jGpHDjvTP+/9y/C4RKYh0twvzm57qDxSpF+n3fgZXgX4C9gEr5LIf5/HEmvCzXDvaXf4/h71+6UefhYOebF3YkFuh9IpPqLYbUFwiyA3fgQPDeUO883zXbCUw6QARDJ9Q4+lExxv+LZwMM=;AN0TfnKgpJcss1ydbJ99IA=="
 ---

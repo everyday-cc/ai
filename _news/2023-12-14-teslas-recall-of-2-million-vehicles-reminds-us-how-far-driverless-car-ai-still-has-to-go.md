@@ -47,15 +47,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Tesla recalls over 2m vehicles to fix defective system that monitors drivers"
-    excerpt: "Tesla is recalling more than 2 million vehicles to fix a defective system that’s supposed to ensure drivers are paying attention when they use Autopilot"
-    publishedDateTime: 2023-12-13T16:46:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/tesla-recalls-2-million-vehicles-fix-defective-system-105615988"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 16
 
 secured: "IM18CSQRrgkA7PW8WqhdVICboi7kz4WpkOBcWELj6IWljsx0V9ThwaPJYSaJxZ3cZYVN+uzZb26mcYJJ6ti7+qyAGVDHCKwSsJOxgE2NaE9hKGRhW5WGZYvbj7DtpJeq1Js8Gb5MviGSUp+OZEdhVY2GSdGFUFrvFq3VznCMAXyYCJhViAtN8P1xg6WSPGXeOSe6uVHKirilgoXCt+pcFDCylhSZwtYl6HIZiTuPapglrTFAawnoySEOCeCDoAdq56NUytQGeq03GgUEvBAaVsQfTopfpMdg/wjkEKJl/TG7k+IUHuVWK4mnGB4mpml8s3FW0tD+P2JP3XbEfAQn4nHrXBnilydV9QhZ6f3g5L5lmtI+LPsyZc+cGHKPWB+36g1ybnogAH94JBQEkF9keKV5TtPXWdIHJ0Qvxn0p8/wTfHcDraNqS+jXzTQT7fBYl1rLPmXfK8TDT7M1bwSeNDCRlrmnWkxkx+cZjZyBQxdYgBTjEMHg4c2tys+PF054ct8sY5cNpBdN7Tp2rNUJnA==;yklySDoGyMxds4bJzJx5jA=="
 ---

@@ -66,6 +66,15 @@ related:
       name: cnbctv18
       domain: cnbctv18.com
     quality: 21
+  - title: "Global AI Conclave: India may have balanced view on AI regulations focussed on citizens and markets, say panellists"
+    excerpt: "Both Microsoft and SAP have dedicated internal AI ethical committees of experts reviewing the impact of every AI element being introduced in their software products."
+    publishedDateTime: 2023-12-18T14:22:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/india-may-have-balanced-view-on-ai-regulations-focussed-on-citizens-and-markets-global-ai-conclave-panellists-11922621.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 0
 
 secured: "WfgSiRpUJOT6DxCDkqxJCBio3IYf6NA47iMlAW2BlBdDT9maQG9EJ/Nv68NyvM+T9riWnsvLDNzFzq9es7bOy+fV1yj8f9W8NMgx5ZzYI8tXJ/qxsD/5CxyhAqPm0O0XQHS133xmT2x0FaB7n+McLy6RuQZpzupPEEm3ATo+8L+bssWsjfk80tO/6JH3q7Dqz9W7eUaeGWTdhnfJ9GRTwNuZkPZPE2dwhBCmkn+ePEzfbvmf1LT6sGDS8JSrrou9iZkCXX9xhgHqGTYnKev/JZ18v+MIg5O/YeN11WwM3kf2fgScZgOHjMRIzgCjV/DjW+RsNtoU1WlHvSkS82Zodyq6DBrPiPA4JO8+HjWnjjs=;KQxZpQxhwF5BezFX4gCMlA=="
 ---

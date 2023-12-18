@@ -108,20 +108,15 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Google Ventures adds partner to back AI, open source startups"
-    excerpt: "Venture capital firm GV, backed by Google parent Alphabet Inc, has hired Michael McBride from software firm GitLab as its latest investment partner to focus on open-source and AI startups, the firm told Reuters."
-    publishedDateTime: 2023-12-13T15:08:00Z
-    webUrl: "https://www.aol.com/google-ventures-adds-partner-back-130843690.html?ref=biztoc.com"
+  - title: "Using artificial intelligence to talk to the dead"
+    excerpt: "Some people are turning to AI technology as a way to commune with the dead, but its use as part of the mourning process has raised ethical questions."
+    publishedDateTime: 2023-12-18T13:00:00Z
+    webUrl: "https://www.seattletimes.com/business/using-artificial-intelligence-to-talk-to-the-dead/"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 37
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/bbb13e44128dae8d8b5b62788584cc3e"
-        width: 800
-        height: 557
-        isCached: true
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 19
   - title: "What senior living leaders need to know about artificial intelligence"
     excerpt: "Senior living executives have two key decisions to make to move forward with AI-enabled solutions, according to NIC MAP Vision CEO Arick Morton."
     publishedDateTime: 2023-12-18T05:05:00Z

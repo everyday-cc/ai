@@ -7,7 +7,7 @@ originalUrl: "https://www.androidauthority.com/samsung-keyboard-tone-translate-3
 webUrl: "https://www.androidauthority.com/samsung-keyboard-tone-translate-3394842/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Baby Llama Runs on Samsung Galaxy Watch 4"
+    excerpt: "A user on X, who goes by the name Joey (e/λ), shared a video where he ran 'llama.c' on a Samsung Galaxy Watch 4."
+    publishedDateTime: 2023-12-18T13:30:00Z
+    webUrl: "https://analyticsindiamag.com/baby-llama-runs-on-samsung-galaxy-watch-4/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 24
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/07/OpenAIs-Karpathy-Creates-Baby-Llama-Instead-of-GPT-5.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "AI is coming to Samsung Keyboard to help you find the perfect words"
     excerpt: "Samsung's upcoming One UI 6.1 update may integrate AI into its Keyboard, allowing users to change the tone of text and even translate it. Google is also expanding its AI efforts with features like \"Help me write\" in Chrome 122, making AI services more accessible and prominent in everyday life."
     publishedDateTime: 2023-12-15T19:59:00Z

@@ -81,15 +81,20 @@ related:
         width: 419
         height: 250
         isCached: true
-  - title: "Microsoft homegrown AI model can run on smartphones, laptops"
-    excerpt: "Google brought its AI model Gemini Nano to the Pixel 8 Pro. Microsoft released Phi-2, a small language model that outperforms Meta Llama 2. Phi-2 requ"
-    publishedDateTime: 2023-12-13T14:24:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-homegrown-ai-model-can-run-on-smartphones-laptops/articleshow/105967667.cms"
+  - title: "AFL-CIO and Microsoft Announce New Tech-Labor Partnership on AI and the Future of the Workforce"
+    excerpt: "This collaboration will start this winter and take the form of Microsoft hosted labor summits. The partners will bring labor leaders and workers together with Microsoft's key AI product developers, researchers and business leaders for intensive discussions ..."
+    publishedDateTime: 2023-12-18T16:20:00Z
+    webUrl: "https://www.contractormag.com/technology/article/21279485/afl-cio-and-microsoft-announce-new-tech-labor-partnership-on-ai-and-the-future-of-the-workforce"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 36
+      name: CONTRACTOR
+      domain: contractormag.com
+    quality: 42
+    images:
+      - url: "https://img.contractormag.com/files/base/ebm/contractormag/image/2023/12/65806d0a72ae3d001e84df07-aflciologowhitetag1200x630.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "wyXMKb6Jaoz6GBcnvw2AI0B5Si3m7WA8pdpTOrvOaUlZRHso3KFtimQrUHyycYXi9YSkOH9f3SxjccqNCXQzZOXuAVbKd1gC10kjeWTWCSlHMue2bDzSdGArenK7E3pIjSf3M2o9MRRxMh9/3kiNfagX+xP9C3jYqJHJK0RPVUNWCoFUOfmWDa3SVAjEdvMtMM3wLUK1JUOEUTaHnCfpTuwLop+kTkbACB6Q0+DP4KIZHCwDl6zPhIHL7xWj+wxuBuXfbeK9Z0boIjWS13j87Yo50s0S2gmp9XDIbrJHpjCpQC2CtrTpH4S6c60HRuY+0IGPBc8pq+tYywfdsT9Nw0ic0gHlUqZQXwWwM/8pmfI=;SJnPhPooFcn01y8cL4jN/g=="
 ---

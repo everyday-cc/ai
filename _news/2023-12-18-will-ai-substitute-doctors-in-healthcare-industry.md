@@ -9,7 +9,7 @@ ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/will-
 cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/will-ai-substitute-doctors-in-healthcare-industry/106097951"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence: who are the leaders in autonomous mobile bots for the aerospace and defense industry?"
-    excerpt: "The aerospace and defense industry continues to be a hotbed of patent innovation. Activity is driven by developments in"
-    publishedDateTime: 2023-12-13T14:07:00Z
-    webUrl: "https://www.airforce-technology.com/data-insights/innovators-ai-autonomous-mobile-bots-aerospace-and-defense/"
-    type: article
-    provider:
-      name: Airforce Technology
-      domain: airforce-technology.com
-    quality: 19
-    images:
-      - url: "https://www.airforce-technology.com/wp-content/uploads/sites/6/2023/12/ADS_AI_autonomous-mobile-bots.jpg"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "Modern Healthcare is evolving along with the industry"
     excerpt: "It’s an exciting time to be journalists covering the industry. And for that reason, Modern Healthcare is evolving in 2024 too."
     publishedDateTime: 2023-12-18T08:59:00Z

@@ -44,20 +44,6 @@ related:
         width: 1005
         height: 504
         isCached: true
-  - title: "Fine-tune Llama 2 using QLoRA and Deploy it on Amazon SageMaker with AWS Inferentia2"
-    excerpt: "In this post, we showcase fine-tuning a Llama 2 model using a Parameter-Efficient Fine-Tuning (PEFT) method and deploy the fine-tuned model on AWS Inferentia2. We use the AWS Neuron software development kit (SDK) to access the AWS Inferentia2 device and benefit from its high performance. We then use"
-    publishedDateTime: 2023-12-13T16:16:28Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/fine-tune-llama-2-using-qlora-and-deploy-it-on-amazon-sagemaker-with-aws-inferentia2/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 97
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/12/13/fine-tune-llama-2-qlora.jpg"
-        width: 1004
-        height: 500
-        isCached: true
   - title: "Boost productivity on Amazon SageMaker Studio: Introducing JupyterLab Spaces and generative AI tools"
     excerpt: "Amazon SageMaker Studio offers a broad set of fully managed integrated development environments (IDEs) for machine learning (ML) development, including JupyterLab, Code Editor based on Code-OSS (Visual Studio Code Open Source), and RStudio. It provides access to the most comprehensive set of tools for"
     publishedDateTime: 2023-12-14T21:48:11Z
@@ -86,19 +72,19 @@ related:
         width: 1115
         height: 630
         isCached: true
-  - title: "Build an end-to-end MLOps pipeline using Amazon SageMaker Pipelines, GitHub, and GitHub Actions"
-    excerpt: "Machine learning (ML) models do not operate in isolation. To deliver value, they must integrate into existing production systems and infrastructure, which necessitates considering the entire ML lifecycle during design and development. ML operations, known as MLOps, focus on streamlining, automating,"
-    publishedDateTime: 2023-12-13T15:57:07Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-an-end-to-end-mlops-pipeline-using-amazon-sagemaker-pipelines-github-and-github-actions/"
+  - title: "Accelerating time-to-insight with MongoDB time series collections and Amazon SageMaker Canvas"
+    excerpt: "This is a guest post co-written with Babu Srinivasan from MongoDB. As industries evolve in today’s fast-paced business landscape, the inability to have real-time forecasts poses significant challenges for industries heavily reliant on accurate and timely insights. The absence of real-time forecasts in"
+    publishedDateTime: 2023-12-18T16:42:37Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/accelerating-time-to-insight-with-mongodb-time-series-collections-and-amazon-sagemaker-canvas/"
     type: article
     provider:
       name: AWS
       domain: aws.amazon.com
-    quality: 77
+    quality: 78
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/22/ML-11308-arch-diag-1229x630.png"
-        width: 1229
-        height: 630
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/27/ML-14327_image001-1260x438.png"
+        width: 1260
+        height: 438
         isCached: true
 
 secured: "xg4kiARiIRSlLd9xOCnyW1Em2CdrmmkOOXVpYDcPIgs9Ll8f+tuB1ResIEgOgJM63qAVXWcIg+1/90kQn7ZYzpETmYlWKxEY8YkUox8Uw4F3ZZ89qlne7zgGndhK/+Q7tb/Of8HoAGso5AP9+AIATQpPvtZ27TWtpCkklsOo1XUG0OwScmby7PWig15K3/PGparvh62OZ5NIlwnT5AJF5fB9aQaEVOQr6SBWIfH39SjBQOhADpl6+nw63RJvCcoR5DTK9gv44FBJ1eKsqLc7gvo0TksaTbMIL3RYjLcQGLfRWLdx9HJm4l+y3E4lSzMrVEKwXLr1ti/VoI7rG9/dnSGaMXAdWahxXlUokjpdUGg=;dt87g07mByTsvjCByAoRGw=="

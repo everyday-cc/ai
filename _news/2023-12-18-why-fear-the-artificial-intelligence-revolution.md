@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/18/why-fear-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/18/why-fear-the-artificial-intelligence-revolution/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 161
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2023/12/unnamed-44.jpg"
         width: 512
         height: 288
+        isCached: true
+  - title: "Revolutionary mind-reading AI system can turn thoughts into text"
+    excerpt: "People's thoughts can be turned into text in a world-first using artificial intelligence. The mindreading portable technology could aid communication for people who are unable to speak due to illness or injury,"
+    publishedDateTime: 2023-12-18T14:42:00Z
+    webUrl: "https://www.tiogapublishing.com/news/nation/revolutionary-mind-reading-ai-system-can-turn-thoughts-into-text/article_cc3eaeeb-782f-56ee-b922-0b0b21d82f2a.html"
+    type: article
+    provider:
+      name: TiogaPublishing.com
+      domain: tiogapublishing.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/tiogapublishing.com/content/tncms/assets/v3/editorial/2/08/2084fc3d-36cb-54b9-94de-55e363d03457/65806d0067a66.image.jpg?crop=1500%2C788%2C0%2C168&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
   - title: "3 Stocks Leading the Quantum Computing Revolution"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In recent times, the fascination with quantum computing has surged, driven by"
@@ -93,6 +107,6 @@ related:
       domain: techbullion.com
     quality: 10
 
-secured: "zjbeD1f9hSSk8X3nVafr7Ubzo3o1gTG/nKd67e5+SlLXIJpwipfrDjfWgaBsx5CUUd/ZplIEI0fAULd7FFGH9tfovmXfGWlzDzwS5ZLxHDvWyW/Fvj8UowUeszZUXFTE6beCi6dNClOw1aRr+5EI5aVemWkxgHkOiDyq54I2ro3eOuSDmll5fRJbtJj6jwHTyaUiZM8X8l6bS/O1PjisBJqUZDP74ncmRvJ7zceetNtY/vO3wNPF/2qpxkqCg2ThST++rvDaZDK4XlS3yLxxF9u1nP1IG4odLE1CXt78RGQS4nX5UcHBc0Kj3LU3l9Y5vw2OkVl/qbV9gXsOVUdSBwd3LHo5JBepaBZRTNHqwDQ=;j6iAI5PSRvL3XOgzCBUtZQ=="
+secured: "u3gZjoHHWv0YJLDb1jQvlLng99OZcgd0I55RPMXWdo4EggT74g7UDoKV+hdHiMOPPIp7OMVGsU1lHRybJZlkV/TGL7FUihDbVQ0Op036XVGj1YuTBgNxSawXguWKWQn8w0dmJqjlkrsDnNAH7w2XPYT2yJ4CMHuWZ3l3oi8GqB80UezpFFD+5RNo+udKENxrRbKfpmwU0tkpag8sgkv0fL7dXQDXNfKkhX1TIvnuEwNd7L2g8DT0wWPDU9bQNhFTBvWsJ6GNa0GkDRONIbVZ12oEjGxhWXxKlb4cC4Ooqjf2Ugd7mqX1ISxO+8kt5hDIEnRK3QydSBBhqVaIOyiUD+Ip2v+/IAmLZ0SikEA1t4LABRaT2IfybL0CsSXBRWeog16M4nfZ1iemuv0kC64yOeCmLPZeHpfgnWYtQOSPxjeU3ok14mFHFAqgo3dps2jutfk/t3IJxv6SgSfc8ZLqhABmXgzsuFWGPanFBBQuUifh2nNxn9CLW3IgiBr8ejfN26hAzy/kkwpinZPZhgv8lQ==;k+a4w5wiO2IkuYj3GJH+8w=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/12/15/16-inn
 webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/12/15/16-innovative-ways-agencies-can-leverage-generative-ai-in-2024/"
 type: article
 quality: 67
-heat: 91
+heat: 107
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 631
         isCached: true
+  - title: "Google Cloud partners with Mistral AI on generative language models"
+    excerpt: "\"As part of the agreement, Mistral AI will use Google Cloud’s AI-optimized infrastructure, including TPU Accelerators, to further test, build, and scale up its LLMs (large language models), all while benefiting from Google Cloud's security and privacy standards,"
+    publishedDateTime: 2023-12-13T17:09:00Z
+    webUrl: "https://www.aol.com/news/google-cloud-partners-mistral-ai-150922762.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/ae6e560fd2298f254e74c9c7588ae42c"
+        width: 800
+        height: 528
+        isCached: true
   - title: "Inside Bayer’s embrace of generative AI"
     excerpt: "In this wide-ranging interview, Bayer’s head of digital transformation Saskia Steinacker shares her top tips for implementing a genAI roadmap in commercial."
     publishedDateTime: 2023-12-15T15:45:00Z
@@ -56,6 +70,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Dell Technologies storage advancements accelerate AI and generative AI strategies"
+    excerpt: "Dell PowerScale systems deliver up to a 200% performance improvement for streaming reads and writes to help customers more quickly access data for AI workloads."
+    publishedDateTime: 2023-12-14T12:36:00Z
+    webUrl: "https://www.cloudcomputing-news.net/news/2023/dec/14/dell-technologies-storage-advancements-accelerate-ai-and-generative-ai-strategies/"
+    type: article
+    provider:
+      name: Cloud Computing
+      domain: cloudcomputing-news.net
+    quality: 14
 
 secured: "WNIZE4vmaJghoLGh4R6nsgeDhtcjjvaeHmKl8bgafyGbL6Dwdt+PqRcxb8pJjtHIcyLuvPFukJWk5cK7kVwuQVDoaME5M5QlZY7ibyXySgBz78Bv6dBmtdMSb0QxUnuHH2HTwsBI1NKF2nqcBfAeKUf+Wyw2AgiXCSuYdPLX0sRTUcm9EYUhCDoN5iOEPlGotjreuE14sJMWZUkqEFOYGBgb4jyBvEPu700e/CwwWdYzEO7jy711/tDVdwg7V8grVgNOOsdiR1l1tQSP05byak5vIQ1sPUpfYnaHlEqlQaN3oAOgnUOz5Dv716BNcUL8ms0Oqtcyby1wXPsWbWlQBrIMUvaE80lOkjBWvGOoX8E=;NqV4ZldtMcRPUbr0FMl2PA=="
 ---

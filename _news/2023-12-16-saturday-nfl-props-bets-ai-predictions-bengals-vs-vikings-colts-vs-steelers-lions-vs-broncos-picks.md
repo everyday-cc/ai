@@ -29,6 +29,15 @@ related:
       name: CBSSports.com
       domain: cbssports.com
     quality: 19
+  - title: "Eagles vs. Seahawks props, odds, best bets, AI predictions, SNF picks: D'Andre Swift under 58.5 rushing yards"
+    excerpt: "SportsLine AI reveals the top NFL prop picks for Seattle vs. Philadelphia and Monday Night Football best bets for sites like PrizePicks"
+    publishedDateTime: 2023-12-18T14:58:00Z
+    webUrl: "https://www.cbssports.com/nfl/news/eagles-vs-seahawks-props-odds-best-bets-ai-predictions-snf-picks-dandre-swift-under-58-5-rushing-yards/"
+    type: article
+    provider:
+      name: CBSSports.com
+      domain: cbssports.com
+    quality: 0
 
 secured: "+flB4AaJ1GOJvskLqwCAXwtZpPUhLnzK7rscS9EzlAEGOOl/u+JCs63Uf4Ax5lHTcQEXqPRtc3FOcxi5Nox8M/RddBRTb+z8A+NW4TDYisokCT9R2JKCTSfXdXhZd0jIfGOggsA7LO6cPr0GroiTOJma/qrHvYMH3gTCPf7Bs89RQKOYifMgZyw29C77IgCKTjoEIp+z/CZGajJvjRhyzUwUeGD/h3eoUZ3bvTwxUzfv+3SMbsABCevLJp7ZHZ80yNoewmIPzoikIj/aHor2LApZvAxCLhf34GqSzMdKwnAOZvsCCP+aiBLCRwzZfWwLn3KExLQWDg/KX/GXXdLs4IQpsu6wnEdzuTwy51tJC0zsj19dsBR3bFiIGh9u/J23KfGNMRukXID9lh/y6QN9HIt6R/VQT/IuGUFP49TH4wCEK6Ey+lVqqtCk6E1+eYoqTEABfVit/SsL4X4gaPjcwAzFrMm7eJOuTP6WCYQkzvLJmDdGJHmbl+/P9TISEmGbJU9lKwkJdqnOPpsnGVAQ+g==;qiTmME8k0FYZ9aP77RxKuw=="
 ---

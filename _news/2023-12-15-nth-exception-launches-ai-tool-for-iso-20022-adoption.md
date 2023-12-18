@@ -58,6 +58,15 @@ related:
         width: 1280
         height: 577
         isCached: true
+  - title: "Love in the time of artificial intelligence: Desperately seeking the human-AI connection"
+    excerpt: "If AI dredges up apocalyptic fears that it will corrode human connections irreparably, maybe the best solution is to ask another informed human being."
+    publishedDateTime: 2023-12-18T14:01:00Z
+    webUrl: "https://adage.com/article/digital-marketing-ad-tech-news/love-time-artificial-intelligence-desperately-seeking-human-ai-connection/2533936"
+    type: article
+    provider:
+      name: Ad Age
+      domain: adage.com
+    quality: 25
 
 secured: "s91iS0CAIc52/e/8d2KjgGQyOzqoAADY1CyH6E7iKECvqsp2IVmuWoP1NaTyKN1RN4OX6SS4R+KW9WjBnBvZn/k/kPOlTwbSRhZkty5NjLsanIlpXGm5SfrhcjTHtQzIhO6Tkjz2zLk6KilP89MAgGCUWkTbG3IKFZNWFVp/i5hFgRwxGX2Y6m4tBxnSZYBZqYcEOFO9z6IEA3KD4BaIx/U4aJSPw8PFT368693mvUz3NkbpcsOqthVGMbcITWKSDH2rYa5vNBRc/5IcMMJLc8ZNaAqWToJEkud39H/W2MPsR5tKGomzHBJusDmXUIQAt7auDid4asHIpl5PRR/Urv8jL3GWVdpI3mRLsHX7nyPVQeKCJ3UGn3hr3HGnu6hffwJwDMZPZljlOFehn838LZXZTZ/JcfrX6J6VVSpjkrDfm/SOmKwIqUfYHqglpxW7F5NDTmikOf15+gfNNOEOX3U58874kRuTNS33qj+rID01+WcYIi9JlvU18omksr22X5fbXr1nXJGdFAwYtpROUQ==;kyWBA517Vjl+comeNsYMdQ=="
 ---

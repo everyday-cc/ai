@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/india/gpai-meet-adopts-new-delhi-ai-de
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/gpai-meet-adopts-new-delhi-ai-declaration/amp-11702487342900.html"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "GPAI Summit: Member countries unanimously adopt New Delhi declaration on artificial intelligence"
-    excerpt: "Member countries of Global Partnership on Artificial Intelligence will meet again in mid-2024 to discuss about the framework for AI governance"
-    publishedDateTime: 2023-12-13T14:41:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/gpai-summit-member-countries-unanimously-adopt-new-delhi-declaration-on-artificial-intelligence-11900541.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 21
 
 secured: "l7Q0h6zVvbzm0ACqZh+u33E+G+0KifoXhQkBG+6N5GLaa1HHwkGilIsMRvvPWutFZXhyGfXJVePzqhgrRbq5h3D1xjGvkxI/IUPO10KQiPjFTGgBTMzC8noyIB9bKdngQRi8jYfVEeeB6m0YPERk0bzH6m4H1zm9jLlCQ3Ev52LyKGZl0BjC6ajUT0MSH2U+uDWlqv/FX89fpfy8EhlaAZ5ukG/5Qnw8ZW+TfXA8+vKH+/83TbLDnS/1twhwBdMlXX8xgiN2pq5yklMOQ19nXtKz3eHC3qtxTuXgJbe7GLvcVGF9zvG8YBVUZZWDpQ0TqioZTeRIxGwkZK5C1+M6LgdgBnbzLLJlzGW/LdNS0M0=;vada51FFJq7R1CHC8OvvoQ=="
 ---

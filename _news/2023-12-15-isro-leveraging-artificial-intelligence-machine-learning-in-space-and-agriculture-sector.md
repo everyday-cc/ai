@@ -56,15 +56,6 @@ related:
         width: 650
         height: 450
         isCached: true
-  - title: "AI Platform Keeps Mining Machinery Working With Deep Learning"
-    excerpt: "An Israeli company has created an AI platform for maintaining mining machinery, anticipating potential breakdowns before they happen"
-    publishedDateTime: 2023-12-13T14:34:00Z
-    webUrl: "https://nocamels.com/2023/12/ai-platform-keeps-mining-machinery-working-with-deep-learning/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 34
 
 secured: "p3lWiJOb//KXgnLkPrJwk0QdRvyb5GCQ4TX+I3btPrW0R+HYPgWHKmOs2tmlPSwKW/Sms5vje4XI5dbgeaCQ568rWgiE0YJFJ8ZqLPer/QQkqL0HSDNblClnK1eRcf3gq0M6XrlaJzOheJYNEr7/euor3Ocm5JpXYSus1cb0mXiYMaH67Y5ZDRdZnrSnKgbq1JWIpdzTWzgROFfqEn8BkRcSaZtD8jklAwEU9LQe0QADMLDlre+5i8lJ8jzljaU2aY0jPsFcmEmSMyWObDEKR08+Yp/RKQ1p73Gx68fwVv5fF4giA8EJWupG0+ZLm/rsIDnp0+fbbKN4mtTwSZu24iO+OEyDpr4pPqhknZBvHOWmIvcwtl7ZBEJ3x7/dBNwQv08vxCsXHzNT1feRe8YJGEHlnMpqJakFv+Yqq4C1XFxIZZhMZeLwOd2UIciBZ9gOAEQCND0u8L8Dc6AIKQAurPfxCN4+/FomF1Kqt7aAvjJVn6+9tSiQ3GEC0fzM0ELmKHcHYRjQ2k2su5Hv8qfknQ==;+1ljSbO08OLtc/xjNjZBKw=="
 ---

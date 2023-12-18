@@ -39,31 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google's Gemini: Is the new artificial intelligence model really better than ChatGPT?"
-    excerpt: "Google Deepmind has recently announced Gemini, its new AI model to compete with OpenAI's ChatGPT. While both models are examples of “generative AI”, which learn to find patterns of input training information to generate new data (pictures, words or other media), ChatGPT is a large language model (LLM) which focuses on producing text."
-    publishedDateTime: 2023-12-17T01:00:00Z
-    webUrl: "https://tech.hindustantimes.com/opinion/googles-gemini-is-the-new-artificial-intelligence-model-really-better-than-chatgpt-71702736181690.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/opinion/googles-gemini-is-the-new-artificial-intelligence-model-really-better-than-chatgpt-71702736181690.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/opinion/googles-gemini-is-the-new-artificial-intelligence-model-really-better-than-chatgpt-71702736181690.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 69
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2023/12/17/1600x900/Google_Gemini_1701885704849_1702774698630.png"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Google’s Gemini: is the new AI model really better than ChatGPT?"
-    excerpt: "Google Deepmind has recently announced Gemini, its new AI model to compete with OpenAI’s ChatGPT. While both models are examples of “generative AI”, which learn to find patterns of input training information to generate new data (pictures, words or other media), ChatGPT is a large language model (LLM) which focuses on producing text."
-    publishedDateTime: 2023-12-15T13:57:00Z
-    webUrl: "https://theconversation.com/googles-gemini-is-the-new-ai-model-really-better-than-chatgpt-219526"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 36
   - title: "5 of the top AI roles companies are seeking to hire"
     excerpt: "In the latter half of the 20th century, TV watchers and moviegoers began to meet a long list of intelligent machines: \"The Jetsons'\" maid Rosie, B-9 from \"Lost in Space,\" HAL 9000 from \"2001: A Space Odyssey,\" the \"Star Wars\" saga's C-3PO and R2-D2, and dozens more."
     publishedDateTime: 2023-12-14T18:59:00Z

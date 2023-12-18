@@ -49,6 +49,15 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "Without Balance, AI's Role in Financial Analysis Will Go Too Far"
+    excerpt: "AI's impact on finance is palpable, but we must balance technology with human insight for effective decision making."
+    publishedDateTime: 2023-12-18T13:00:00Z
+    webUrl: "https://www.thestreet.com/crypto/innovation/without-balance-ais-role-in-financial-analysis-will-go-too-far"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 17
 
 secured: "buS2vAsXvqHozQPeYPLlGnXrxtE/mN6VBgPvxKfBvHAZbNoqV8xXbpyJWWjt35MKMcT2susyaVxII4tbmTgdqq5Noxqf6Npc3wJ7ml37mBrATj7h50YmJLU0Iy9FVEwQKlXwijlbORMXek/lqQp/uM1K/bAe4Cd0rYYsaFHKSHJ+I8B1RKvktKOHIN0S/2CltF7Lnu6thCUitczHvbOWAqhGNQ+h0CghxfSG2kmI+9vWts4bOzqVg6mUtWSklRk0fKWBRAa9Mvg7G5BSvHzn+zWNZxurHA3KwnNheILUSC4tUkzRkP//Os7DYtZjbDh6LfOVyTNexNEU/v8wPRk1PjPV1ZktkntqD0+oQvKObzo=;5P5FAWQKaifzR1Sl6wNrsg=="
 ---

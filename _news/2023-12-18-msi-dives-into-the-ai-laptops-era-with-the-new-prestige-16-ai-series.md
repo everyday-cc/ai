@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "MSI Prestige 16 AI EVO hands-on: This AI laptop could be a game-changer"
-    excerpt: "The new MSI Prestige 16 AI EVO is one of the first “AI laptops” packing an equally new Intel Core Ultra CPU. Thanks to Intel’s NPU (Neural Processing Unit) AI acceleration technology, the Prestige 16 AI should be able to handle on-device \"AI\" tasks more efficiently than laptops lacking an NPU in their processors."
-    publishedDateTime: 2023-12-14T15:00:00Z
-    webUrl: "https://www.tomsguide.com/reviews/msi-prestige-16-ai-evo"
+  - title: "Breathing new life into fight to save the seas with artificial intelligence"
+    excerpt: "It’s hard to imagine our planet without its oceans – their vast scale and depth, teeming with life. They’re also critical to tackling the climate crisis by storing vast quantities of carbon dioxide. But securing and expanding their stores of carbon depends on us being able to locate those stores and assess how healthy they are."
+    publishedDateTime: 2023-12-18T14:57:00Z
+    webUrl: "https://www.reuters.com/sustainability/land-use-biodiversity/breathing-new-life-into-fight-save-seas-with-artificial-intelligence-2023-12-18/"
     type: article
     provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 39
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/8azjpVmBeBvBTw2UD8JyS-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
+      name: Reuters
+      domain: reuters.com
+    quality: 45
 
 secured: "NqmOMg1viVcwEUetabG4sDOqlFJBfbvsVQGScRfR36/bD42US4HlVodeHS0EHYVBOiba3LGAe8c1PPA3LhFuAAq1D9Sy6Oj0DqMhOGvtQ57g76yfkx/v63xSZ1cHm1z2PLktkNeUe339RY/RKZ69DhTsa0V2JxlsnMSlEoP3TZefcH2z4chNoqMRcb11Iy8Uopte+kGjgKXd/xv7Ri1f+9F/Sf5WKCWozfGR/2fESyKZ9a6Aj0TB1hpcoQMKBdtgnYBpSXGCpW/AjzCcdvJAmvGSYnwzRK2q26+/ppEbxhrSMrWcVHBK3Vac2uQjMNkYbZHaMKZv2gzDnCeBiNKrKkdwZvb02+r07rx6WOsN7x0=;6btCHLltgI4A+IMEkLRfYA=="
 ---

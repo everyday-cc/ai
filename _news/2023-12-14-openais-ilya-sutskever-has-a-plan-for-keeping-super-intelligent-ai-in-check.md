@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/openai-ilya-sutskever-ai-safety/"
 webUrl: "https://www.wired.com/story/openai-ilya-sutskever-ai-safety/"
 type: article
 quality: 66
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -73,15 +73,6 @@ related:
         width: 1600
         height: 817
         isCached: true
-  - title: "OpenAI to pay Axel Springer to use content to train AI models"
-    excerpt: "OpenAI, the generative artificial intelligence startup backed by Microsoft (NASDAQ:MSFT), has agreed to pay publishing company Axel Springer to use the media company's content to train its AI models. The content will be used to create answers in ChatGPT ..."
-    publishedDateTime: 2023-12-13T14:21:00Z
-    webUrl: "https://seekingalpha.com/news/4045950-openai-pay-axel-springer-use-content-train-ai-models"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 17
 
 secured: "DL6gaOUqfQzpnUH3305U8H2efWHLkiHPETu8H72lnfeYdWsl1W+zG8IYAmG9jcfiANUC9O9DFyNv7qh1oVVE8uWfsGaWtpOJbdJW6h8brDM4TioGc0psT/3uASUU5OvQONwvrDrQAugMrHB75+QpRcfYezPVRkde7T2zAVIHhrditeHS3jd4dvTAySi8NKsYcB0ehc6blixinmRNLLuihLOqpcfyAC9NevIws/xFsgaq1nfjfgRW0C/TZ1buQlkbs9Urozz4Nsj/7z7y2PWA6DS/NHw9azDwZi91yttAxpPL/SdKLMLcWdnLPFqYcaEWaeB/sO+ew4Olzvlx/pKRLh0CzpwagnMQX9+wOGWZFGY=;CTbjaiQ+63an9Ub8sGvvpw=="
 ---

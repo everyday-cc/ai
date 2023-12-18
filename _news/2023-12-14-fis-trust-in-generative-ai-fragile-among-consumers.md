@@ -39,6 +39,20 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Google Cloud partners with Mistral AI on generative language models"
+    excerpt: "\"As part of the agreement, Mistral AI will use Google Cloud’s AI-optimized infrastructure, including TPU Accelerators, to further test, build, and scale up its LLMs (large language models), all while benefiting from Google Cloud's security and privacy standards,"
+    publishedDateTime: 2023-12-13T17:09:00Z
+    webUrl: "https://www.aol.com/news/google-cloud-partners-mistral-ai-150922762.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/ae6e560fd2298f254e74c9c7588ae42c"
+        width: 800
+        height: 528
+        isCached: true
   - title: "Inside Bayer’s embrace of generative AI"
     excerpt: "In this wide-ranging interview, Bayer’s head of digital transformation Saskia Steinacker shares her top tips for implementing a genAI roadmap in commercial."
     publishedDateTime: 2023-12-15T15:45:00Z
@@ -53,6 +67,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Dell Technologies storage advancements accelerate AI and generative AI strategies"
+    excerpt: "Dell PowerScale systems deliver up to a 200% performance improvement for streaming reads and writes to help customers more quickly access data for AI workloads."
+    publishedDateTime: 2023-12-14T12:36:00Z
+    webUrl: "https://www.cloudcomputing-news.net/news/2023/dec/14/dell-technologies-storage-advancements-accelerate-ai-and-generative-ai-strategies/"
+    type: article
+    provider:
+      name: Cloud Computing
+      domain: cloudcomputing-news.net
+    quality: 14
 
 secured: "YJKpnTeSoFvn66gVBs02WpY+T7eQ6lxjSYsv+5JRhJ29j/CIjkgAYaO9IHAijKJsY9vfHD0O+jtK8gFNO9c19Cu2Zza8tBH5RUcNxtN2Zm6J5AmewZUR2m9Y4u7NzUEyUjLrdQ+bDzCQVbA1u9mtndc3tiwmWh4Sx9gRAyxgzsdO9sauf+Ez+kABH1ryqUVho85N5m/Jf40Dbi321SQJ7yyjxEdthWzxfCmPz+T2rgqKY2M55PrdIc5aNdq171jibL7TpOzs8MVaakpsooW0BQLXV4oSZnMW42WjOPX2dqbuBtgKFpuWK25I3AAVGmo6DbeaSTy+nyMb3gMg1ABe9SFc9WlKtu8gNyAOMZtJ9FwyV5+4Aqc1J7w/p9NUsLiK/ETL1tjvCcpxeF3ZdgjA/xU7z+UDjslh9Cy/mJs7glngr2y3ubfMzHT8+knDwHg/ejoHFU4P29Cw5T8GQDnvKan+YIzePCahyKQr6KM/xA4g6BnxsGUm3Uu3Qv9pClK2qMqXcy2EbMQRW3HxXzwUTA==;YU2gmUQCyFPJPjSQDH0KbQ=="
 ---

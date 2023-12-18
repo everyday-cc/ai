@@ -25,75 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "AI In 2024: More Than A Marketing Buzzword"
-    excerpt: "In 2024, the smartest businesses will leverage AI’s power to reap its benefits, improve marketing initiatives and drive business success."
-    publishedDateTime: 2023-12-13T14:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/13/ai-in-2024-more-than-a-marketing-buzzword/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/13/ai-in-2024-more-than-a-marketing-buzzword/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/13/ai-in-2024-more-than-a-marketing-buzzword/amp/"
+  - title: "My One Big Tech-Fueled Prediction for 2024: AI ‘Vanishes’"
+    excerpt: "So, here we go: In the year ahead, artificial intelligence will become ever more pervasive. So pervasive, in fact, that it will start to become invisible — to actually begin to vanish, from the hype cycles, even from our consciousness."
+    publishedDateTime: 2023-12-16T11:01:00Z
+    webUrl: "https://www.forbes.com/sites/joemckendrick/2023/12/16/my-one-big-tech-fueled-prediction-for-2024-ai-vanishes/"
+    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/12/16/my-one-big-tech-fueled-prediction-for-2024-ai-vanishes/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/12/16/my-one-big-tech-fueled-prediction-for-2024-ai-vanishes/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 104
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64922417c26877e186b3466b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1510
-        height: 849
-        isCached: true
-  - title: "2024: Healthcare Insiders Predict The Future"
-    excerpt: "I hope you find their predictions and insights as intriguing as I do. AI to Bridge the Gaps to Human-Centered Health Care Artificial intelligence (AI) and machine learning (ML) have the promise of bridging gaps in medical education and creating ..."
-    publishedDateTime: 2023-12-14T19:56:00Z
-    webUrl: "https://www.forbes.com/sites/sachinjain/2023/12/14/2024-healthcare-insiders-predict-the-future/"
-    ampWebUrl: "https://www.forbes.com/sites/sachinjain/2023/12/14/2024-healthcare-insiders-predict-the-future/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sachinjain/2023/12/14/2024-healthcare-insiders-predict-the-future/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/657b8269d0998e5ffed4e4c7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1257
+      - url: "https://imageio.forbes.com/specials-images/imageserve/657d2ec97bc13a21c41dc9b9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
         height: 900
         isCached: true
-  - title: "How AI Will Change Marketing Forever"
-    excerpt: "The unrelenting speed of organizational digital transformation and automation is nothing new to marketers, particularly when they use (AI) artificial intelligence to their advantage. Automation driven by AI not only speeds up a company’s marketing department but also improves its intelligence by using data significantly more effectively than human techniques."
-    publishedDateTime: 2023-12-14T08:45:00Z
-    webUrl: "https://techbullion.com/how-ai-will-change-marketing-forever/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 56
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/2-14.jpg"
-        width: 1000
-        height: 547
-        isCached: true
-  - title: "Investment Chief At $48B Global X Forecasts AI Stock Dominance In 2024: Unveils Top Investment Opportunities"
-    excerpt: "AI-related stocks including industry leaders like Nvidia (NASDAQ: NVDA), cloud computing, and cybersecurity stand out as \"naturals that fit together.\""
-    publishedDateTime: 2023-12-18T03:33:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/investment-chief-at-48b-global-x-forecasts-ai-stock-dominance-in-2024-unveils-top-investment-opportunities-1032907245"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 50
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/AI-shopping-Shutterstock_4.jpeg"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "How AI could change trucking in 2024"
-    excerpt: "Samsara CIO Stephen Franchetti told FleetOwner: \"As the AI explosion continues, an organization's ability to stay competitive and innovate will come down to their enterprise data strategy. We'll start to see an increased need for a robust foundation of ..."
-    publishedDateTime: 2023-12-14T14:43:00Z
-    webUrl: "https://www.fleetowner.com/technology/article/21279287/how-ai-could-change-trucking-in-2024"
-    type: article
-    provider:
-      name: Fleet Owner
-      domain: fleetowner.com
-    quality: 17
 
 secured: "wx2lVQEBiOT75KzNbSqAaMQeHzti1boV4HcSsfaW7TJ9rYNARJXdV0o90FLgr60XINNlJYeLTVHF6GYDRe9aCAPUdV6hAgXBZZtd1sPxkFyqrEbm46VjnSstqRg0lzM21MSNCCq3OZFnoA2sC5sPeOAyFpKRFL0RW4ytqJCNGas3GNqfv6LSP2D2fXzekkUUF30p2YaJJl1qSVFwgVm4H6UNTJHckGsx4uFb45QYR5HYz+ni7f/yk/E+ZeL2L65loJ9VLs5vjCBnaClaWx6W4ihGF4w6kE9C4wurD8FfYB2YKfBg9BuMNaC6fH/n5tx0JoyGmxdqRG+ArCRAdm9YJcNTXXt07Mr3JlANYSU4fI+jAJZjE3S01OP4+gER7ytU2OtGr/fOnt37g7nvy0rKn+oR2S8kdi18djhDA0NNnUvcu60mvNSi2cJ7tiu1T6v1OZ4ei0qgO4IrNFnadmfz/OB/wfEAqJVPfZovSCUfwJ+3891wRCMiNbyRgL2hvTOLr9J3dQPrrqj5XGjgBaZzbw==;SqqV4akzIgc+Ynm5sQgCzA=="
 ---

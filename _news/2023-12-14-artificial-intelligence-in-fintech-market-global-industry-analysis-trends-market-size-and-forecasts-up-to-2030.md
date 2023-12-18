@@ -98,15 +98,6 @@ related:
       name: inc42
       domain: inc42.com
     quality: 14
-  - title: "Sanlam Fintech Cluster Assembles Global Talent For Executive Team"
-    excerpt: "Sanlam, the largest non-banking financial services group in Africa, has recently launched its cutting-edge fintech business cluster. Led by a globally competitive exco team, Sanlam Fintech represents a strategic move within the Sanlam Group to expand its existing fintech offerings and ensure that all aspects of the $8-billion (R143-billion) listed corporation's services are digitally-driven."
-    publishedDateTime: 2023-12-13T14:05:00Z
-    webUrl: "https://techfinancials.co.za/2023/12/13/sanlam-fintech-cluster-assembles-global-talent-for-executive-team/"
-    type: article
-    provider:
-      name: techfinancials
-      domain: techfinancials.co.za
-    quality: 4
   - title: "Infibeam Avenues acquires 49% stake in capital markets software provider Pirimid Fintech"
     excerpt: "With the stake acquisition, Infibeam is looking to integrate its digital payments framework with Pirimid Fintech's capital market trading software for clients in India and globally."
     publishedDateTime: 2023-12-14T13:54:00Z

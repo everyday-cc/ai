@@ -39,6 +39,20 @@ related:
         width: 2000
         height: 1125
         isCached: true
+  - title: "SuperNIC network accelerator for AI cloud data introduced by NVIDIA"
+    excerpt: "Learn more about the new SuperNIC network accelerator for AI cloud data launched by NVIDIA. But what is SuperNIC and why does it matter?"
+    publishedDateTime: 2023-12-18T14:34:00Z
+    webUrl: "https://www.geeky-gadgets.com/supernic-network-accelerator/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/what-is-SuperNIC.jpg"
+        width: 1280
+        height: 792
+        isCached: true
 
 secured: "Jrn0lpPz34DevqnpGGWE2sV94pcurkdhoSiYxhR6zyWwK7Eh6+P/NOueANaiIUCawP6buqqYeGkZHe4yKSD5rrKPwspKM9jMPwr/Nx9+E/RwMeEiNLgA3hBki83DdZ+AoaYj27hIK3h+jghb9DEp0pORRtYn3FIrSL/8GVss0ne8vw9/d/zLJnFt3P6aI0aIu0TfpT1/sm8JbPsASpS+Q2tItAKSnohT8K43gL7S4/AJHHuFLe5G0LZmoqUBjL7F/IAvaSfbhVOicLlbOVJw3KDkYyOfbpa02SchguZ69iV2MaKM360NvYETq0llA+jkI0wuaSrFlYHCbecpvVdjM/BoccavHfoSBE9zm9paapk=;DKdn8ZdeQj2qZfF92r8xog=="
 ---

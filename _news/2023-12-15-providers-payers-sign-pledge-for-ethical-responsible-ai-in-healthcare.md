@@ -52,6 +52,20 @@ related:
         width: 919
         height: 900
         isCached: true
+  - title: "Safe AI for healthcare: Providers pursue ‘once-in-a-generation’ benefits of large-scale models"
+    excerpt: "Leading healthcare entities sign the Biden-⁠Harris Admin's voluntary commitments for the safe, secure use of AI for healthcare."
+    publishedDateTime: 2023-12-15T19:19:00Z
+    webUrl: "https://venturebeat.com/ai/safe-ai-for-healthcare-providers-pursue-once-in-a-generation-benefits-of-large-scale-models/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1251551899-e1702664137230.jpg?fit=750%2C422&#038;strip=all"
+        width: 750
+        height: 375
+        isCached: true
   - title: "Navigating AI in Healthcare: Dr. Donald Macfarlane's Warning on AI-Driven Medical Note-Taking"
     excerpt: "Dr. Donald Macfarlane warns against the use of AI-driven tools in medical note-taking due to fabrications that will negatively impact patient"
     publishedDateTime: 2023-12-15T18:11:00Z
@@ -103,6 +117,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Google announces AI uses for health care market"
+    excerpt: "Google LLC announced its latest foray into artificial intelligence Wednesday with the debut of MedLM, a suite of new health care-focused large language models (LLMs) tools. Alphabet Inc. (Nasdaq: GOOGL)-owned Google has been testing the AI platform with ..."
+    publishedDateTime: 2023-12-14T00:01:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/12/14/google-announces-ai-uses-for-health-care-market.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "ODer2ABET/cNnZpc08x7RqbNs6UD/Ggj1xeqlG9yLWRADIRitgT7IWaXFxufFKf1Sd18NjA3odb4GcGoWMt1MRjl6LPFL7kI/6e+mMqgqJvFuxN2PAPciMk+d8prwS0GYSFeg18O/woyj5hcq1pOVbYYiUDHTlqIDBgoGCQsfMuRGN4f5zvKS0+f9TsX9MJbkGziZyZyRVoYELztGQaW6LXTPrVeMgqF874FyKM4XpmNSzsDukAIvKtIuyDaO0jTDVt9N3dXJNsKNKqsY5VNw7v9oANCE35rTUsjXw/6e0Ss8FMrekMPrDieZ1RZ0XPF5J4IMIR9s82o/QRM7oQBz9RBOqR8UoMWk8yVE4L1J1svsmIXVt3ZH3Bc2fPxPnfWM1aQSo8fF6M9M1md0XNJhG+ZNEJiHlKQE3tLDQ8UW4wnTY84NUaZN5ojztb+wv9xzXuHtUughWpr/7R1pqN/FzZQuzYtGcLWlIS5M3OBO549ydAoGZvLxJfAVVS5Uvi/vlZaUMhXBIXbIq1+TTGoJQ==;n5iuh1FrxVvYr4x5pEdHhQ=="
 ---

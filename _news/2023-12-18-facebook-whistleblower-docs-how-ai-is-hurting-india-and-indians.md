@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/opinion/columns/facebook-whistlebl
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/opinion/columns/facebook-whistleblower-docs-artificial-intelligence-india-9072751/lite/"
 type: article
 quality: 61
-heat: 71
+heat: 73
 published: true
 
 provider:

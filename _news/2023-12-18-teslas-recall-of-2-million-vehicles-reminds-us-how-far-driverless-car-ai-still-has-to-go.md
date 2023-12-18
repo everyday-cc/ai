@@ -7,7 +7,7 @@ originalUrl: "https://www.econotimes.com/Teslas-recall-of-2-million-vehicles-rem
 webUrl: "https://www.econotimes.com/Teslas-recall-of-2-million-vehicles-reminds-us-how-far-driverless-car-AI-still-has-to-go-1667962"
 type: article
 quality: 60
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -48,15 +48,6 @@ related:
       name: The Conversation
       domain: theconversation.com
     quality: 40
-  - title: "Tesla recalls over 2m vehicles to fix defective system that monitors drivers"
-    excerpt: "Tesla is recalling more than 2 million vehicles to fix a defective system that’s supposed to ensure drivers are paying attention when they use Autopilot"
-    publishedDateTime: 2023-12-13T16:46:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/tesla-recalls-2-million-vehicles-fix-defective-system-105615988"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 16
 
 secured: "gChIlOq4VI8xES4w6iWBRQ04FeX18ig2/w2WqRIJK/o7/2cZx0LXmQYTMzPBAXGr7DBgGmMgg5tzHBNMsISTW/6LHGJ35EEjqiLggy1+tA2i71mkroLbvtVp1Ms5OjFc+Ewvdg80jyngqYsmHDeB07AjVTj1cIOIR6Xcv2Jo1z7us7cCPmbsMM2RmHC8rUZSzBTfueuvbRvqRg8/In6zumv05XPC35Xq1l7tTr15HmrGJ3LvYPR6IK0iN6kV4yQ38L2QO+Fgu2HNa7rF7Z2PWAgKzbbxEQwmQOevGKujJCwOweUpzs2SZE/xHdCZKuDI+MlpUt0APwi94QnFQjmAtCq2rT6WbVw3zK57b1/en3Ma9JjGA5G78Kfw9DRaxnsKG/s2jP5U7XlpeihgOtZ3uoY4OVpywM9jUKTdMrBe/Vh6iHJQdUTbSj4CsUhfmal1swHzBONef48O2zsanw5jwQ4gfcAEXr+O+WybOxLjLWVX/SUrZR3N/sLxDCTZxE7Da1yDZlnumz3vmWAejXWKcA==;MfwfAdyfMJdhE4CkjmvPWg=="
 ---

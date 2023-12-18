@@ -31,6 +31,15 @@ related:
       name: Techopedia
       domain: techopedia.com
     quality: 19
+  - title: "How AI could change trucking in 2024"
+    excerpt: "Samsara CIO Stephen Franchetti told FleetOwner: \"As the AI explosion continues, an organization's ability to stay competitive and innovate will come down to their enterprise data strategy. We'll start to see an increased need for a robust foundation of ..."
+    publishedDateTime: 2023-12-14T14:43:00Z
+    webUrl: "https://www.fleetowner.com/technology/article/21279287/how-ai-could-change-trucking-in-2024"
+    type: article
+    provider:
+      name: Fleet Owner
+      domain: fleetowner.com
+    quality: 17
 
 secured: "4RhlLFhjP4PrMC+3joHsHYbk3LLFolyg1uv0HnaE811bG6ALNc8EDEVZeEnC7ecIDu2ObsbxqUcPWYYrxAjAdixHqQDv/HYvBjD4xoR5IPXKO1RNNihNpw8XHb/BTlBpXIldVIa/FBdhMPnxUE0eChRk69lUoqZYseDSmgOW8I6KU3lArBfnZSntGKtfZQOeHSvaOBImZ6Y/Vo6TJZRh8zGOAlC1SabYkZGMMgUxpW0BaBjkMqgFwf+ITy7/eVg9LXJWSv+glxdsP0dewwKthX4152cHIwNg8X6Dhs3bugY/+VCsDaQ2xiKbOz1hEtF8qQhNjoC/orwEmjgJt1hwpRoByiud1pEmq39L4fNj5IXCtAqa+Cqkypz/j0da2GgWBt4benVEHx0yqCadLl2S0wKFhWf92FyIMhBQpRyDF4aPM2AO9km8u9ugi+Zyj2Mw3YXudtn0LNflxpkCFhZZ1YY0CbbCuv4SJ+7K9ycjMtZJ9pfhEfRQjaxyZLiVCFqTRg3QpkragLM1eBwD8eEKcw==;cmRfEPWYuyQoy7JRZDK7tQ=="
 ---

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Google’s VP for Bard wants the chatbot to book her kids’ summer camps"
-excerpt: "Good morning, Broadsheet readers! Aviva CEO Amanda Blanc testified about misogyny in British finance, Cambridge University researchers make a morning sickness breakthrough, and Google's VP for Bard has some lofty goals for the chatbot. Have a restorative weekend!"
-publishedDateTime: 2023-12-15T13:03:00Z
-originalUrl: "https://www.aol.com/finance/google-vp-bard-wants-chatbot-140331546.html"
-webUrl: "https://www.aol.com/finance/google-vp-bard-wants-chatbot-140331546.html"
+excerpt: "Aviva CEO Amanda Blanc testified about misogyny in British finance, Cambridge University researchers make a morning sickness breakthrough, and Google's VP for Bard has some lofty goals for the ..."
+publishedDateTime: 2023-12-15T09:03:00Z
+originalUrl: "https://www.aol.com/google-vp-bard-wants-chatbot-140331546.html"
+webUrl: "https://www.aol.com/google-vp-bard-wants-chatbot-140331546.html"
 type: article
 quality: 24
 heat: 24
@@ -24,6 +24,6 @@ images:
     height: 798
     isCached: true
 
-secured: "eZ2K0b+BJehh1Qh8uHipjQaKOdsWxU8ykTAnBEe0oyk0mVOtLccLoTthOuucMZWusZiL+mELoDwDQtwBGphgh2PZd2GstZUsQrAQPXvLWUhzWWQsUT4oyIFhLqrn1ImGHKeWs5WUaiGWbWDsNZ9I7xhBFXnXLBLMw8jB5NsTzZVVhdGffwuyuG5wKVppG3Y6SANRGuFMIKnq3gjpj74VhteZgFKCGpNlw4WotAg/32ZxsKGRU/9Fij04ycyJjlP4iK40hJ9ldPV04o53QhRXfAdKKcjUv56Q04PwucBlpt84lcPWqTv/y6Ek2non1BJcyonDEEUgxJRjC0Ptxv7s3FU9sUH0KSyLmcW/q/pDmFQkYhdC22LqWyIhsRmDHck2MLXMZ9bscJG2/kjahkLuNT7tPVJ+FzXms54wx78vwNitdZRNELdeKxS2lFGwKlwM85L1/5F6h/b4SUtLBaoClPoT9z0sN6zpOGm0c6Z8nVRjVyvSi1DrbcM2x0/9zpQQMRlhfEpKkM5ATsog/38GaQ==;XW3G/RcqEHs2jkeZNY9B4Q=="
+secured: "srkxOe/FHJv1/Hp5sC8Kr0ZgMFaJwususHt80ejGvDClc7uBO8qdLRVDlmWgKru5d392JB9xaeaEYlkGliPV68iawWR4DdbZSaOSpWmOO22YJVOGY+NDqJ1HcPjIMpniS+qRpmj7yivDJO52APlAPwSLssvhc73mBnKlN2wcMbQ7t6XVYPE3yKMdbhP9OTCo5xhF94qNjPhwVo5tgqMBU/0qck9QWyLb2C7/w4NcKdfcgOeh21g8857/sMjJZN77a5dvLiOtmXxaws293wskX+1RQn1/cKS5Q9sNscEv/r2b3AO+1dpbaxsD/UD2a36fpaVgAQV4dnvDQd4dvz42dLWyWW94/4I8+MNwn4kS1sc=;e9dkpCoITA1Yn1uwxvd3NQ=="
 ---
 

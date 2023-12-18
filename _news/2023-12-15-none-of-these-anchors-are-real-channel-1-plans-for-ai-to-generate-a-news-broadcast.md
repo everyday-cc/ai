@@ -33,6 +33,22 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "People are using artificial intelligence to create avatars of dead loved ones"
+    excerpt: "Companies like HereAfter AI and StoryFile are offering people the chance to record voice recordings and videos before they die so their family can still interact with them when they are gone"
+    publishedDateTime: 2023-12-17T08:00:00Z
+    webUrl: "https://www.mirror.co.uk/news/us-news/people-using-artificial-intelligence-create-31657680"
+    ampWebUrl: "https://www.mirror.co.uk/news/us-news/people-using-artificial-intelligence-create-31657680.amp"
+    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/us-news/people-using-artificial-intelligence-create-31657680.amp"
+    type: article
+    provider:
+      name: The Mirror
+      domain: mirror.co.uk
+    quality: 54
+    images:
+      - url: "https://i2-prod.mirror.co.uk/incoming/article31661253.ece/ALTERNATES/s1200/0_AI-robot-controlling-future-hologram-UI.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "IkuYPnKNko/12g+TkJ3y157Iwg8/geBfZ4sEdccIckluSCFhcdgvYorSb2k8JiJBTfNXy58riUwBLshMrQMYM8szQ/ymyVBwQO0pmujjTBNv+uMEPkatYbXQ0AObuW8waFh9D9g90H90A37mLdkZWmGZEBi0AqDw4DJHMPoL4bb5TOROmGhf2VPdjvgwfB+0NUOei+Yb1CaPQ9KioAPElbDTiLl1/YAeR7qHKYuJAWc/LqgzJlRbgZPeFTfZzqluxdXzvtqnyvG2+3Aio7Tlsm0wyQs2oELLx1cY3/lZ9EsjEtH8qdYXQ+bBqqPY10WRGtaxWm02MOsT8Lp7n0KYXdDhVx25nhkYrwkZ4dZZypGkIxQBhbAF38euIw8aWzvz/WoTK9bB7Iyz9/ICK8xhcPlLt+mFdymKlEhEUFooI4DK+ZyE4oMq5MuQUUjlK/bQXZiYPi79Dn0tNT5vW8+cl8CZasIggD6GsWcGIF5t+XMViGLIAGKgfM6RIanIhnvDIDaXdObJbRxPJd9B+6Q1pA==;rTLNUF6g58nbssjgaNuCUg=="
 ---

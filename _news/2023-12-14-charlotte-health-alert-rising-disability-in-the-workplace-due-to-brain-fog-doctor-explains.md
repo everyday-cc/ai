@@ -95,6 +95,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Oshkosh Health Alert: Rising Disability in the Workplace due to Brain Fog. Doctor Explains"
+    excerpt: "Dr. Adriana Davis, Family Medicine, \"More and more working-age adults have brain fog--research shows that it's due to long COVID.\"Doctor's Expert Insights long COVID and Brain Fog"
+    publishedDateTime: 2023-12-14T12:28:00Z
+    webUrl: "https://www.bloomeradvance.com/news/state_news/article_d5ce3171-6616-5fae-9c63-ce20370e8872.html"
+    type: article
+    provider:
+      name: Bloomer Advance Newspaper
+      domain: bloomeradvance.com
+    quality: 29
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/bloomeradvance.com/content/tncms/assets/v3/editorial/9/f4/9f45fe32-6504-5565-877c-13134e8a5122/657b18dd02f3f.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Victoria Health Alert: Rising Disability in the Workplace due to Brain Fog. Doctor Explains"
     excerpt: "Dr. Adriana Davis, Family Medicine, \"More and more working-age adults have brain fog--research shows that it's due to long COVID.\"Doctor's Expert Insights long COVID and Brain Fog"
     publishedDateTime: 2023-12-14T13:27:00Z

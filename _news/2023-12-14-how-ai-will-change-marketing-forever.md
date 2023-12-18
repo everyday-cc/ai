@@ -26,75 +26,50 @@ images:
     isCached: true
 
 related:
-  - title: "AI In 2024: More Than A Marketing Buzzword"
-    excerpt: "In 2024, the smartest businesses will leverage AI’s power to reap its benefits, improve marketing initiatives and drive business success."
-    publishedDateTime: 2023-12-13T14:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/13/ai-in-2024-more-than-a-marketing-buzzword/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/13/ai-in-2024-more-than-a-marketing-buzzword/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/13/ai-in-2024-more-than-a-marketing-buzzword/amp/"
+  - title: "Unlocking Marketing Growth: Generative AI In Action, Starting With Design"
+    excerpt: "Although marketers have prioritized emotional connection and consumer experience with their brands, recent strides in GenAI are pushing these two aspects closer together."
+    publishedDateTime: 2023-12-14T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/14/unlocking-marketing-growth-generative-ai-in-action-starting-with-design/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/14/unlocking-marketing-growth-generative-ai-in-action-starting-with-design/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/12/14/unlocking-marketing-growth-generative-ai-in-action-starting-with-design/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 104
+    quality: 103
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64922417c26877e186b3466b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1510
-        height: 849
-        isCached: true
-  - title: "2024: Healthcare Insiders Predict The Future"
-    excerpt: "I hope you find their predictions and insights as intriguing as I do. AI to Bridge the Gaps to Human-Centered Health Care Artificial intelligence (AI) and machine learning (ML) have the promise of bridging gaps in medical education and creating ..."
-    publishedDateTime: 2023-12-14T19:56:00Z
-    webUrl: "https://www.forbes.com/sites/sachinjain/2023/12/14/2024-healthcare-insiders-predict-the-future/"
-    ampWebUrl: "https://www.forbes.com/sites/sachinjain/2023/12/14/2024-healthcare-insiders-predict-the-future/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sachinjain/2023/12/14/2024-healthcare-insiders-predict-the-future/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/657b8269d0998e5ffed4e4c7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1257
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6399d93eaccb6518c9a6c001/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
         height: 900
         isCached: true
-  - title: "7 Best Free AI Transcribers For 2024: Ranked & Reviewed"
-    excerpt: "You don't need to pay a premium for a quality transcription service. Here's a roundup of our favorite free platforms."
-    publishedDateTime: 2023-12-15T18:43:00Z
-    webUrl: "https://tech.co/news/best-free-ai-transcribers"
+  - title: "How Generative AI is Reshaping Banking & Finance in India"
+    excerpt: "The finance sector's initial reluctance to adopt generative AI is because of regulatory scrutiny, data privacy, security, compliance, and industry risk aversion, but now it is slowly changing,” Ashish Vora,"
+    publishedDateTime: 2023-12-18T05:31:00Z
+    webUrl: "https://analyticsindiamag.com/how-generative-ai-is-reshaping-banking-finance-in-india/"
     type: article
     provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 54
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 69
     images:
-      - url: "https://images.tech.co/wp-content/uploads/2023/12/15131021/AdobeStock_690500744_Editorial_Use_Only-1.jpeg"
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/12/s-1.jpg"
         width: 1920
-        height: 1281
+        height: 1080
         isCached: true
-  - title: "Investment Chief At $48B Global X Forecasts AI Stock Dominance In 2024: Unveils Top Investment Opportunities"
-    excerpt: "AI-related stocks including industry leaders like Nvidia (NASDAQ: NVDA), cloud computing, and cybersecurity stand out as \"naturals that fit together.\""
-    publishedDateTime: 2023-12-18T03:33:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/investment-chief-at-48b-global-x-forecasts-ai-stock-dominance-in-2024-unveils-top-investment-opportunities-1032907245"
+  - title: "The Impact of Artificial Intelligence On Real Estate Marketing"
+    excerpt: "Artificial Intelligence (AI) has become a driving force across various industries, reshaping traditional practices and enhancing efficiency. In the realm of real estate, AI is revolutionizing marketing strategies,"
+    publishedDateTime: 2023-12-15T12:21:00Z
+    webUrl: "https://realtybiznews.com/the-impact-of-artificial-intelligence-on-real-estate-marketing/98780587/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 50
+      name: realtybiznews
+      domain: realtybiznews.com
+    quality: 58
     images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/AI-shopping-Shutterstock_4.jpeg"
-        width: 1024
-        height: 768
+      - url: "https://realtybiznews.com/wp-content/uploads/2022/07/banner-2.png"
+        width: 300
+        height: 250
         isCached: true
-  - title: "How AI could change trucking in 2024"
-    excerpt: "Samsara CIO Stephen Franchetti told FleetOwner: \"As the AI explosion continues, an organization's ability to stay competitive and innovate will come down to their enterprise data strategy. We'll start to see an increased need for a robust foundation of ..."
-    publishedDateTime: 2023-12-14T14:43:00Z
-    webUrl: "https://www.fleetowner.com/technology/article/21279287/how-ai-could-change-trucking-in-2024"
-    type: article
-    provider:
-      name: Fleet Owner
-      domain: fleetowner.com
-    quality: 17
 
 secured: "Q4deXsJ6EepZCc9pSqXFyWBH0vjsa7VFrxMiRmhEsmSRxXpmrW1rnNKHIsTQ3UNyrtgj1XHJv4/wHEbxxagJfyMfE5mCMMrjH+Y/L0Sfgetbtt4DZtrVwKjU0pgLsVYL8mqHnm0q1iy5VyOpUfJi5EmEoSabwmFr8O+DItRwQkdS5j10egRJIKLWPzEBoVhdQt630OQKUdqIFe7aFYKH3F9dsWTdnNVkhe9oGoJ3hPBmOAIVoI3Y7xSbgm/WiVxIgvcBvR8BtlZZ170ERjmhk8c76zbkDQx1do/j4phffcuNgKBGIzhA60OvxBcsZIQZFDs7hI3Cp9A/IdOr8id+5itOv49F1vCkVYUQcHPnPHE9cRA1vr9A1ic/KSHXAYHVoVlzF7eY7mJWnVnsQ0X9Bhddzc/QphqayqFYSfcMxoBxyXZ39FMvTpxM4TnGnq8lnR4hw4iNGdOEEUpVcvXyc8UBQVw8DfNH9Z0tldDAg8D6Ty9x0HbXqEEO2OnQMLYurv0ucdNSnId8CkSIrqfDxw==;qJxDNgsCG5eKkNMw1oF5dg=="
 ---

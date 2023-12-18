@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Use of Indian languages in AI programming will bring down bias in technology: Meity secretary"
+    excerpt: "AI technology-based language translation applications have been developed largely using English language as base and therefore often they are unable to give correct output in other languages. \"While it (English) can be a language of business to some degree ..."
+    publishedDateTime: 2023-12-18T13:17:00Z
+    webUrl: "https://www.deccanherald.com/india/use-of-indian-languages-in-ai-programming-will-bring-down-bias-in-technology-meity-secretary-2815983"
+    type: article
+    provider:
+      name: Deccan Herald
+      domain: deccanherald.com
+    quality: 28
+    images:
+      - url: "https://images.deccanherald.com/deccanherald%2F2023-12%2Ff5eaa6b1-fec6-4898-8246-b4369ccb9b65%2FGBDDrNIacAAeD9A.jpg?rect=0%2C0%2C1599%2C839&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Dublin riots: McEntee publishes draft law on facial recognition tech"
     excerpt: "Minister for Justice Helen McEntee has published a draft bill on the use of facial recognition technology by An Garda Síochána."
     publishedDateTime: 2023-12-14T12:30:00Z
@@ -62,6 +76,15 @@ related:
       name: SiliconRepublic
       domain: siliconrepublic.com
     quality: 19
+  - title: "Use of Indian languages in AI will bring down bias in technology: Meity secretary"
+    excerpt: "At present, the government is working on AI technology to enable citizens across the country to communicate with each other seamlessly using digital translation tools developed under the Bhashini program."
+    publishedDateTime: 2023-12-18T14:11:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/use-of-indian-languages-in-ai-will-bring-down-bias-in-technology-meity-secretary/articleshow/106099353.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 14
 
 secured: "9bDGG1CG4zaebSUaGcMpRcbFbujKmaouAsIbacN4Nx7k2ReFdOImG23c98QBb4+QWrmUALKfJSBxA7JkjMVCP2d3R9tJZuTZSNL2gKu7x2gsqB6a5fk6i9jXvyFynXgTYz+iOEClCDtRiiYcZL+hpx+ZP+OnVRTiI6DwBSzctIzrFCLGqJmhnEc9Wfq+yL3nMltRFt0UG+YynZz7iqFv1Hwib/ZxO+VePYtIm88Le41U8gYTvt6w34YXzs4tRX8bCWC1RuDIkO2oglgGzu6ECim5RNwsfjZ8EC7c82TUBIGeJk0RimUE/2wtom8Zy9caiGOccQnw80NXxLU0D0y9YzJFzWizRkkM4cyM6PBXNBtGpgpMLz2XXZ9iA6CyWV28ksqu2ptEj7oFlD+xR2qZCDoOIW0ltjszJRRwUWxb2ijaG5LqHTNJjY9LVGdVWbEZzAVbbRYE44s1kEBdHieRbEZC3Seqxxk5qvtH54ZFzxuTlqNBnnTls3Ply4aRE1UoBPKBhB4aqbevFMDVYiAChA==;3pUwgb669UNw+eE6kBfEtw=="
 ---

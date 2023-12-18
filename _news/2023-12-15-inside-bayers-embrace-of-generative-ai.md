@@ -53,6 +53,29 @@ related:
         width: 1200
         height: 631
         isCached: true
+  - title: "Google Cloud partners with Mistral AI on generative language models"
+    excerpt: "\"As part of the agreement, Mistral AI will use Google Cloud’s AI-optimized infrastructure, including TPU Accelerators, to further test, build, and scale up its LLMs (large language models), all while benefiting from Google Cloud's security and privacy standards,"
+    publishedDateTime: 2023-12-13T17:09:00Z
+    webUrl: "https://www.aol.com/news/google-cloud-partners-mistral-ai-150922762.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/ae6e560fd2298f254e74c9c7588ae42c"
+        width: 800
+        height: 528
+        isCached: true
+  - title: "Dell Technologies storage advancements accelerate AI and generative AI strategies"
+    excerpt: "Dell PowerScale systems deliver up to a 200% performance improvement for streaming reads and writes to help customers more quickly access data for AI workloads."
+    publishedDateTime: 2023-12-14T12:36:00Z
+    webUrl: "https://www.cloudcomputing-news.net/news/2023/dec/14/dell-technologies-storage-advancements-accelerate-ai-and-generative-ai-strategies/"
+    type: article
+    provider:
+      name: Cloud Computing
+      domain: cloudcomputing-news.net
+    quality: 14
 
 secured: "egg/X7fDp/bOCRV96XnW39uSh8+7DPIAFzE/lq6BDDT00q0zsez0xh2QyYfuVnyzho6rmpiX3bcfcGfaSBtXrH2UeIno1Y0rjxzAmsgSbP9glF2YKJeI1LYelPxTl83wjNz6CKRdJkftP1ApHyJe01DTxJhURSr0qDqxV7xBxL9EXp7QHB+yWBMlgMoUbFN19AsrudQQdGHN97zX0YEXAXDRx7KaKBXMajd5ellhFnLo4YEr3j4uJE8Fn32YvN6tVKjDOP4Tf/qvU0Gnz4i9XuKl4mFQerdNKowJvIpozboYMksjitfGOQ0uZcQYSMBFBJjhhtUtN+M6jgF15lsB5jT6mezoLtzl0HQacFdKnMca/Ytchd6D6wUD399IE9NOemb51FDHOQYk/E7jDfLOGqg9cHFZO7jgrhIj/OmNywUrMgMJrNrqvwe86JH/T8Hnh+dSEwTHPkyxuV+B5wti1faXAJF17mjXlB8z/V8bhpRxWhEhNlyvJ8zm5dKz55H40m3vKqOdqC6d0GBmC5Qr2A==;gvxV/d9jxO9QkDgWOCX0FQ=="
 ---

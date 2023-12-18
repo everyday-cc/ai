@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/technology/talent-not-chips-key-to
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/talent-not-chips-key-to-indias-ai-future-says-rajeev-chandrasekhar-11913321.html/amp"
 type: article
 quality: 64
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -66,6 +66,15 @@ related:
       name: cnbctv18
       domain: cnbctv18.com
     quality: 21
+  - title: "Global AI Conclave: India may have balanced view on AI regulations focussed on citizens and markets, say panellists"
+    excerpt: "Both Microsoft and SAP have dedicated internal AI ethical committees of experts reviewing the impact of every AI element being introduced in their software products."
+    publishedDateTime: 2023-12-18T14:22:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/india-may-have-balanced-view-on-ai-regulations-focussed-on-citizens-and-markets-global-ai-conclave-panellists-11922621.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 0
 
 secured: "HG4NcnekMkQ7j6DXjBAN9g08IaVFYU3N+CsF75nz+rTd6oBYkh1G4KnaVZ4xri4LAn/9UdIr7v3Jx81AJLGZQwtCO1GY4W3VwQbckHVICfLrEjoDPR9X14xP3eesaxKHz8aD+asCf0MW/vnTx9ngTosdOjsfw7ZfRjI38wNjZEoytbmlMZgQRiemsk81NlJRz8Ld9dqzC2pkaxjPXSBDiQHDqYW0n2gbrPkKQr7VrVmyspuXzHxJv6X5HDrDqtv89klwOhK2EW/t+IVkergV4EBQUdLa/s0YKmC165koo7BeU2CeSQQm5x4HnwXx+Qisg9aOhsNJFanGR1B6Aga5IW3lMqkbRpOuZGm6h7rOa24=;fZrtgC+AZo3fuCS/QxDaXA=="
 ---
