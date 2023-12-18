@@ -26,9 +26,9 @@ images:
 
 related:
   - title: "Heard on the Street: Tesla’s Recall Highlights the Limits of ‘Full Self-Driving’ Tech"
-    excerpt: "A Tesla dealership in Corte Madera, Calif., in October. (Justin Sullivan/Getty Images) Tesla’s big recall hasn’t moved its shares much. That isn’t a surprise given the limited cost of the fix— but it isn’t the end of the story, either. On ..."
-    publishedDateTime: 2023-12-13T16:15:00Z
-    webUrl: "https://www.wsj.com/livecoverage/fed-meeting-fomc-interest-rate-december-2023/card/heard-on-the-street-tesla-s-recall-highlights-the-limits-of-full-self-driving-tech-5t1wARKk5hZZYznApkee"
+    excerpt: "Tesla’s big recall hasn’t moved its shares much. That isn’t a surprise given the limited cost of the fix— but it isn’t the end of the story, either. On Wednesday, the National"
+    publishedDateTime: 2023-12-13T23:13:00Z
+    webUrl: "https://www.wsj.com/livecoverage/fed-meeting-fomc-interest-rate-december-2023/card/heard-on-the-street-tesla-s-recall-highlights-the-limits-of-full-self-driving-tech-5t1wARKk5hZZYznApkee?mod=lctimeline_finance"
     type: article
     provider:
       name: Wall Street Journal
@@ -92,19 +92,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "A Tesla Climbed on a Power Box at a McDonald's Drive-Thru, the Driver Says It Kept Driving"
-    excerpt: "Blame it on Autopilot. Blame it on a cyber attack. Blame it on a less skillful driver. Blame it on texting and driving. Whatever it was, it left an"
-    publishedDateTime: 2023-12-13T07:04:00Z
-    webUrl: "https://www.autoevolution.com/news/a-tesla-climbed-on-a-power-box-at-a-mcdonald-s-drive-thru-the-driver-says-it-kept-driving-226013.html"
+  - title: "Tesla Recalls Two Million Self-Driving Cars Due to Autopilot-Related Accidents"
+    excerpt: "ALBAWABA - Tesla sent a letter to the National Highway Traffic Safety Administration, recalling two million of its self-driving cars due to the Autopilo"
+    publishedDateTime: 2023-12-18T08:15:00Z
+    webUrl: "https://www.albawaba.com/business/tesla-recalls-two-million-self-driving-cars-due-autopilot-related-accidents-1545503"
     type: article
     provider:
-      name: autoevolution
-      domain: autoevolution.com
-    quality: 29
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 35
     images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/a-tesla-climbed-on-a-power-box-at-a-mcdonald-s-drive-thru-the-driver-says-it-kept-driving-226013_1.jpg"
-        width: 2000
-        height: 1113
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2023-12/Tesla%20Recalls%20Two%20Million%20Self-Driving%20Cars%20Due%20to%20Autopilot-Related%20Accidents.jpeg?itok=Ej2lxW7R"
+        width: 680
+        height: 425
         isCached: true
   - title: "Tesla Autopilot Recall Deals Another Blow to Self-Driving Cars"
     excerpt: "According to the NHTSA recall report, when Autosteer or any other Level 2 system is engaged, “as the vehicle operator, the driver is responsible for the vehicle’s movement with their hands on the steering wheel at all times, remaining attentive to surrounding road conditions, and intervening … as needed to maintain safe operation.”"

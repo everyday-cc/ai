@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/meaghanjohnson/2023/12/13/portugals-pro
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/meaghanjohnson/2023/12/13/portugals-progressive-policies-fuel-fintech-growth/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Finastra Leaders Predict Top Fintech Trends For 2024"
-    excerpt: "Finastra has shared its executive insights on the anticipated trends, challenges and opportunities for the fintech landscape in 2024."
-    publishedDateTime: 2023-12-13T07:35:00Z
-    webUrl: "https://fintechnews.sg/82080/fintech/finastra-leaders-predict-top-fintech-trends-for-2024/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 24
-    images:
-      - url: "https://fintechnews.sg/wp-content/uploads/2023/12/Finastra-Leaders-Predict-2024-Fintech-Trends-Amidst-Global-Challenges.jpg"
-        width: 1024
-        height: 567
-        isCached: true
   - title: "The Legal Outlook For Fintech And Payments 2024."
     excerpt: "The Legal Outlook For Fintech And Payments 2024. Legal News and Analysis - Asia Pacific, EU, Europe, Hong Kong, Singapore, United Kingdom, USA -"
     publishedDateTime: 2023-12-14T08:31:00Z

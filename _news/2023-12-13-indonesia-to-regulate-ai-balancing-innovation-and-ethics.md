@@ -9,7 +9,7 @@ ampWebUrl: "https://en.antaranews.com/amp/news/301002/indonesia-to-regulate-ai-b
 cdnAmpWebUrl: "https://en-antaranews-com.cdn.ampproject.org/c/s/en.antaranews.com/amp/news/301002/indonesia-to-regulate-ai-balancing-innovation-and-ethics"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -47,22 +47,6 @@ related:
     quality: 54
     images:
       - url: "https://etimg.etb2bimg.com/thumb/msid-106033248,imgsize-64286,width-1200,height=765,overlay-etcio/artificial-intelligence/trustworthy-ai-the-future-of-innovation-and-ethics.jpg"
-        width: 1200
-        height: 765
-        isCached: true
-  - title: "Most countries agreeing what India was saying on Artificial Intelligence regulation: Rajeev Chandrasekhar"
-    excerpt: "The Union minister today met Viscount Camrose, UK's Minister of AI and Intellectual Property and Hiroshi Yoshida, Japan's Vice Minister of Policy Coordination, Ministry of Internal Affairs and Communications."
-    publishedDateTime: 2023-12-13T08:19:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/policy/most-countries-agreeing-what-india-was-saying-on-artificial-intelligence-regulation-rajeev-chandrasekhar/105956937"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/policy/most-countries-agreeing-what-india-was-saying-on-artificial-intelligence-regulation-rajeev-chandrasekhar/105956937"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/policy/most-countries-agreeing-what-india-was-saying-on-artificial-intelligence-regulation-rajeev-chandrasekhar/105956937"
-    type: article
-    provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 40
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-105956937,imgsize-18394,width-1200,height=765,overlay-ettelecom/policy/most-countries-agreeing-what-india-was-saying-on-artificial-intelligence-regulation-rajeev-chandrasekhar.jpg"
         width: 1200
         height: 765
         isCached: true

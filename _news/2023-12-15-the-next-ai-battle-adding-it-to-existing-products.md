@@ -24,29 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "The Debate: Balancing AI use in Media"
-    excerpt: "Laura Ellis, Head of Technology Forecasting, BBC R&D, and Matt Deegan, Founder and Creative Director of Folder Media and co-Founder of Podcast Discovery, will talk about the current uses, innovation and pitfalls of AI, especially in the news genre."
-    publishedDateTime: 2023-12-13T07:57:00Z
-    webUrl: "https://www.bbc.co.uk/academy/events/sounds-amazing-2023/watch-again/the-debate-balancing-ai-use-in-media/"
+  - title: "GPU Battle: NVIDIA vs AMD"
+    excerpt: "NVIDIA claims that AMD's benchmarks are wrong. AMD tests them and proves NVIDIA wrong. Now, the ball is in NVIDIA's court."
+    publishedDateTime: 2023-12-18T07:51:00Z
+    webUrl: "https://analyticsindiamag.com/gpu-battle-nvidia-vs-amd/"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 37
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
     images:
-      - url: "https://ichef.bbci.co.uk/images/ic/1920x1080/p0grxw3c.jpg"
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/12/AMD-and-NVIDIA-Battle-for-Best-GPUs.jpg"
         width: 1920
         height: 1080
         isCached: true
-  - title: "Open To Debate: Will Artificial Intelligence Kill The Future Of The Creative Arts?"
-    excerpt: "From AI-generated paintings to composing symphonies and writing scripts and novels, ChatGPT, DeepDream, DALL·E, and other types of AI are challenging how we see the human endeavor to express, innovate,"
-    publishedDateTime: 2023-12-14T22:36:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2023/12/14/open_to_debate_will_artificial_intelligence_kill_the_future_of_the_creative_arts.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 11
 
 secured: "+sqlCDJwUkTTrBchCyPhikvTzYQltLtWyIqOYM6/e5dztvi6fjk5QTYHz7OUWzgmuDsEcaztKcGwsrggv/Y/l7yXLaxNGiHEjXegPf5OlCcglj7pewils44l/b+PUpB3/Wlm+PHuvpUmY0ShLNOm/E1/MdiSXsk070RxlT5YfqVtcIF+VQXqF++evSFx4wkSXkxlfs4E6VugQARMuNncfTGG5khHmtZzCvicEgQgvW+ZrX7n4s/uBm1dP2UMFnjgsLrIfyoKJ9Nz+XRsTi+uZQ2CsuAubOknZeufzs5/M632t5VmJfdzS8Vqk3N4BVURB19daXb12U8w4QKLIMnIMg+PLGjgHXMTeN9xLsPsgeI=;/j/iXZ5F2V2PD+zs9w/ITg=="
 ---

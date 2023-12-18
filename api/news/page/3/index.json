@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-12-15-machine-learning-deep-learning-and-the-credit-market.md",
+      "title": "Machine Learning, Deep Learning, And The Credit Market",
+      "excerpt": "What are the applications of machine learning and deep learning models in the credit market? originally appeared on Quora: the place to gain and share knowledge, empowering people to learn from ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/quora/2023/12/14/machine-learning-deep-learning-and-the-credit-market/",
+      "originalUrl": "https://www.forbes.com/sites/quora/2023/12/14/machine-learning-deep-learning-and-the-credit-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/657a40948a8f77ae0ea63ced/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 900,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/quora/2023/12/14/machine-learning-deep-learning-and-the-credit-market/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quora/2023/12/14/machine-learning-deep-learning-and-the-credit-market/amp/",
+      "publishedDateTime": "2023-12-14T21:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-15-intel-introduces-core-ultra-chips-with-npus-for-ai-advancements.md",
       "title": "Intel Introduces Core Ultra Chips with NPUs for AI Advancements",
       "excerpt": "Intel has ushered in a new era for AI-powered PCs with the release of its cutting-edge Core Ultra notebook chips. These chips are Codenamed \"Meteor Lake\"",
@@ -891,6 +943,58 @@
       ]
     },
     {
+      "path": "_news/2023-12-14-openais-ilya-sutskever-has-a-plan-for-keeping-super-intelligent-ai-in-check.md",
+      "title": "OpenAI’s Ilya Sutskever Has a Plan for Keeping Super-Intelligent AI in Check",
+      "excerpt": "A research paper released by OpenAI today touts results from experiments designed to test a way to let an inferior AI model guide the behavior of a much smarter one without making it less smart.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/openai-ilya-sutskever-ai-safety/",
+      "originalUrl": "https://www.wired.com/story/openai-ilya-sutskever-ai-safety/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/657a4dc7d50c518000e43e90/191:100/w_1280,c_limit/OpenAI-Superalignment-Business-1554148483.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-14T13:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-14-a-bull-market-is-coming-1-super-artificial-intelligence-ai-stock-to-buy-hand-over-fist-and-hold-forever.md",
       "title": "A Bull Market Is Coming: 1 Super Artificial Intelligence (AI) Stock to Buy Hand Over Fist and Hold Forever",
       "excerpt": "Don't let the recent drop in this artificial intelligence stock scare you, because it's building toward something big.",
@@ -1129,101 +1233,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-surprise-ai-chatbots-dont-increase-student-cheating-afterall-new-research-finds.md",
-      "title": "Surprise! AI chatbots don't increase student cheating afterall, new research finds",
-      "excerpt": "The rise of generative AI tools has many worried about the future integrity of the educational system. After all, if you can get math, writing, and coding help from one free tool like ChatGPT, what's stopping students from using it to cheat on every assignment? Stanford researchers tackle the question in a Q+A published by the university.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/surprise-ai-chatbots-dont-increase-student-cheating-afterall-new-research-finds/",
-      "originalUrl": "https://www.zdnet.com/article/surprise-ai-chatbots-dont-increase-student-cheating-afterall-new-research-finds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/2b1341ca204a101f5087138fc26e5232f57a0cc0/2023/12/14/7a9eba33-8a87-476b-929e-6d135b343fed/handcheat-gettyimages-181866634.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/surprise-ai-chatbots-dont-increase-student-cheating-afterall-new-research-finds/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/surprise-ai-chatbots-dont-increase-student-cheating-afterall-new-research-finds/",
-      "publishedDateTime": "2023-12-14T09:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-scientists-combine-lab-grown-brain-tissues-with-computer-test-speech-recognition.md",
-      "title": "Scientists Combine Lab-Grown Brain Tissues With Computer, Test Speech Recognition",
-      "excerpt": "This research paves the way for potential advancements in bio-computing, hinting at the prospect of more efficient systems compared to traditional computers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/science/scientists-combine-lab-grown-brain-tissues-with-computer-test-speech-recognition-4671577",
-      "originalUrl": "https://www.ndtv.com/science/scientists-combine-lab-grown-brain-tissues-with-computer-test-speech-recognition-4671577",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ndtvimg.com/i/2016-01/brain-generic_650x400_51453283827.jpg",
-          "width": 650,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/science/scientists-combine-lab-grown-brain-tissues-with-computer-test-speech-recognition-4671577/amp/1",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/science/scientists-combine-lab-grown-brain-tissues-with-computer-test-speech-recognition-4671577/amp/1",
-      "publishedDateTime": "2023-12-14T06:48:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

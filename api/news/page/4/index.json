@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-12-14-surprise-ai-chatbots-dont-increase-student-cheating-afterall-new-research-finds.md",
+      "title": "Surprise! AI chatbots don't increase student cheating afterall, new research finds",
+      "excerpt": "The rise of generative AI tools has many worried about the future integrity of the educational system. After all, if you can get math, writing, and coding help from one free tool like ChatGPT, what's stopping students from using it to cheat on every assignment? Stanford researchers tackle the question in a Q+A published by the university.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/surprise-ai-chatbots-dont-increase-student-cheating-afterall-new-research-finds/",
+      "originalUrl": "https://www.zdnet.com/article/surprise-ai-chatbots-dont-increase-student-cheating-afterall-new-research-finds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/2b1341ca204a101f5087138fc26e5232f57a0cc0/2023/12/14/7a9eba33-8a87-476b-929e-6d135b343fed/handcheat-gettyimages-181866634.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/surprise-ai-chatbots-dont-increase-student-cheating-afterall-new-research-finds/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/surprise-ai-chatbots-dont-increase-student-cheating-afterall-new-research-finds/",
+      "publishedDateTime": "2023-12-14T09:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-14-scientists-combine-lab-grown-brain-tissues-with-computer-test-speech-recognition.md",
+      "title": "Scientists Combine Lab-Grown Brain Tissues With Computer, Test Speech Recognition",
+      "excerpt": "This research paves the way for potential advancements in bio-computing, hinting at the prospect of more efficient systems compared to traditional computers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/science/scientists-combine-lab-grown-brain-tissues-with-computer-test-speech-recognition-4671577",
+      "originalUrl": "https://www.ndtv.com/science/scientists-combine-lab-grown-brain-tissues-with-computer-test-speech-recognition-4671577",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ndtvimg.com/i/2016-01/brain-generic_650x400_51453283827.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/science/scientists-combine-lab-grown-brain-tissues-with-computer-test-speech-recognition-4671577/amp/1",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/science/scientists-combine-lab-grown-brain-tissues-with-computer-test-speech-recognition-4671577/amp/1",
+      "publishedDateTime": "2023-12-14T06:48:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-14-gpai-meet-adopts-new-delhi-ai-declaration.md",
       "title": "GPAI meet adopts New Delhi AI declaration",
       "excerpt": "Further, the declaration also saw participating nations agree upon using the GPAI platform to create a global framework on AI trust and safety, and make AI solutions and benefits available for all. India also pitched to host a GPAI Global Governance Summit to finalize the proposed framework, in six months.",
@@ -314,6 +409,58 @@
       ]
     },
     {
+      "path": "_news/2023-12-14-heard-on-the-street-teslas-recall-highlights-the-limits-of-full-self-driving-tech.md",
+      "title": "Heard on the Street: Tesla’s Recall Highlights the Limits of ‘Full Self-Driving’ Tech",
+      "excerpt": "Tesla’s big recall hasn’t moved its shares much. That isn’t a surprise given the limited cost of the fix— but it isn’t the end of the story, either. On Wednesday, the National",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/livecoverage/fed-meeting-fomc-interest-rate-december-2023/card/heard-on-the-street-tesla-s-recall-highlights-the-limits-of-full-self-driving-tech-5t1wARKk5hZZYznApkee?mod=lctimeline_finance",
+      "originalUrl": "https://www.wsj.com/livecoverage/fed-meeting-fomc-interest-rate-december-2023/card/heard-on-the-street-tesla-s-recall-highlights-the-limits-of-full-self-driving-tech-5t1wARKk5hZZYznApkee?mod=lctimeline_finance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-899985/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-13T23:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-14-dropbox-spooks-users-with-new-ai-features-that-send-data-to-openai-when-used.md",
       "title": "Dropbox spooks users with new AI features that send data to OpenAI when used",
       "excerpt": "According to the FAQ, the third-party AI toggle in your account settings is turned on by default if \"you or your team\" are participating in the Dropbox AI alpha. Still, multiple Ars Technica staff who had no knowledge of the Dropbox AI alpha found the setting enabled by default when they checked.",
@@ -322,7 +469,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/12/dropbox-spooks-users-by-sending-data-to-openai-for-ai-search-features/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -522,7 +669,7 @@
       "originalUrl": "https://interestingengineering.com/culture/robot-dogs-ai-inspectors-us-border",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -611,58 +758,6 @@
       ]
     },
     {
-      "path": "_news/2023-12-14-heard-on-the-street-teslas-recall-highlights-the-limits-of-full-self-driving-tech.md",
-      "title": "Heard on the Street: Tesla’s Recall Highlights the Limits of ‘Full Self-Driving’ Tech",
-      "excerpt": "A Tesla dealership in Corte Madera, Calif., in October. (Justin Sullivan/Getty Images) Tesla’s big recall hasn’t moved its shares much. That isn’t a surprise given the limited cost of the fix— but it isn’t the end of the story, either. On ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/livecoverage/fed-meeting-fomc-interest-rate-december-2023/card/heard-on-the-street-tesla-s-recall-highlights-the-limits-of-full-self-driving-tech-5t1wARKk5hZZYznApkee",
-      "originalUrl": "https://www.wsj.com/livecoverage/fed-meeting-fomc-interest-rate-december-2023/card/heard-on-the-street-tesla-s-recall-highlights-the-limits-of-full-self-driving-tech-5t1wARKk5hZZYznApkee",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-899985/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-13T16:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-12-14-ray-ban-meta-smart-glasses-the-ai-stuff-meta-promised-is-finally-here-apparently.md",
       "title": "Ray-Ban Meta Smart Glasses: The AI stuff Meta promised is finally here, apparently",
       "excerpt": "Up to this point, Meta's smart glasses venture has felt mostly like a dud because the glasses were primarily used for taking social media photos and videos. The newer ones did come packaged with a Meta AI voice assistance, but prior to this update, it was mostly just a Siri clone.",
@@ -714,7 +809,7 @@
       "originalUrl": "https://www.ndtv.com/feature/elon-musk-shares-video-of-teslas-new-humanoid-robot-that-can-dance-and-boil-eggs-4668028",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -1092,101 +1187,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-microsoft-and-oracle-announce-that-oracle-databaseazure-is-now-generally-available.md",
-      "title": "Microsoft and Oracle announce that Oracle Database@Azure is now generally available",
-      "excerpt": "We are excited to share that Oracle Database@Azure is generally available in the Azure United States East region, with more regions coming in 2024. You can now use Oracle database services running on Oracle Cloud Infrastructure (OCI) hardware deployed in Azure data centers. This streamlines the migration",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/blog/microsoft-and-oracle-announce-that-oracle-databaseazure-is-now-generally-available/",
-      "originalUrl": "https://azure.microsoft.com/en-us/blog/microsoft-and-oracle-announce-that-oracle-databaseazure-is-now-generally-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 193,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/12/MSC24-India-business-Adobe-550638570-rgb-scaled.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-13T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-indonesia-to-regulate-ai-balancing-innovation-and-ethics.md",
-      "title": "Indonesia to regulate AI, balancing innovation and ethics",
-      "excerpt": "The Indonesian government will soon issue a regulation on the utilization of artificial intelligence (AI), Minister of Communication and Informatics Budi Arie",
-      "sourceUrl": null,
-      "webUrl": "https://en.antaranews.com/news/301002/indonesia-to-regulate-ai-balancing-innovation-and-ethics",
-      "originalUrl": "https://en.antaranews.com/news/301002/indonesia-to-regulate-ai-balancing-innovation-and-ethics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.antaranews.com/cache/800x533/2023/07/05/antarafoto-teknologi-kecerdasan-buatan-untuk-mengurai-kemacetan-jakarta-050723-riv-3.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://en.antaranews.com/amp/news/301002/indonesia-to-regulate-ai-balancing-innovation-and-ethics",
-      "cdnAmpWebUrl": "https://en-antaranews-com.cdn.ampproject.org/c/s/en.antaranews.com/amp/news/301002/indonesia-to-regulate-ai-balancing-innovation-and-ethics",
-      "publishedDateTime": "2023-12-13T12:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Antara News",
-        "domain": "antaranews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

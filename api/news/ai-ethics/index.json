@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-18-artificial-intelligence-what-teachers-and-students-need-to-know.md",
+      "title": "Artificial Intelligence: What teachers and students need to know",
+      "excerpt": "It is the ability of a digital computer or computer-controlled robot to perform tasks commonly associated with intelligent beings. Artificial intelligence combines the intellectual knowledge of different fields such as computer science, physiology ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenationonlineng.net/artificial-intelligence-what-teachers-and-students-need-to-know/",
+      "originalUrl": "https://thenationonlineng.net/artificial-intelligence-what-teachers-and-students-need-to-know/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.thenationonlineng.net/wp-content/uploads/2023/09/26030926/AI-450x300.jpg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://thenationonlineng.net/artificial-intelligence-what-teachers-and-students-need-to-know/amp/",
+      "cdnAmpWebUrl": "https://thenationonlineng-net.cdn.ampproject.org/c/s/thenationonlineng.net/artificial-intelligence-what-teachers-and-students-need-to-know/amp/",
+      "publishedDateTime": "2023-12-18T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Nation Newspaper",
+        "domain": "thenationonlineng.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-12-16-ai-a-double-edged-sword-for-ethics-security-of-vietnamese-education.md",
       "title": "AI a double-edged sword for ethics, security of Vietnamese education",
       "excerpt": "The widespread embrace of artificial intelligence (AI) in learning can be a double-edged sword, with debate in academic circles revolving around how AI can be used ethically and in alignment with local academic standards. Hoang Ngan, a sophomore at the ...",
@@ -309,7 +353,7 @@
       "originalUrl": "https://en.antaranews.com/news/301002/indonesia-to-regulate-ai-balancing-innovation-and-ethics",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1365,49 +1409,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-26-western-monopoly-in-ai-dangerous-and-unacceptable-says-russias-vladimir-putin.md",
-      "title": "Western monopoly in AI 'dangerous, and unacceptable', says Russia's Vladimir Putin",
-      "excerpt": "During his more than two decades in power, Putin has overseen a multi-pronged crackdown on the opposition and civil society groups, and promoted “traditional values” to counter purported Western influence — policies that have become even more oppressive after he sent troops into Ukraine in February 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://tech.hindustantimes.com/tech/news/western-monopoly-in-ai-dangerous-and-unacceptable-says-russias-vladimir-putin-71700918917365.html",
-      "originalUrl": "https://tech.hindustantimes.com/tech/news/western-monopoly-in-ai-dangerous-and-unacceptable-says-russias-vladimir-putin-71700918917365.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/tech/img/2023/11/26/1600x900/artificial_intelligence_1698542010139_1700960383653.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/western-monopoly-in-ai-dangerous-and-unacceptable-says-russias-vladimir-putin-71700918917365.html",
-      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/western-monopoly-in-ai-dangerous-and-unacceptable-says-russias-vladimir-putin-71700918917365.html",
-      "publishedDateTime": "2023-11-26T12:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times Tech",
-        "domain": "hindustantimes.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

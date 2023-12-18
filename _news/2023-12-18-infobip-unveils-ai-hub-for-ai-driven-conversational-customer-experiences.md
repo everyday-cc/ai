@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Infobip unveils AI Hub for AI-driven conversational customer experiences"
-excerpt: "Infobip integrated OpenAI's ChatGPT model through Microsoft Azure OpenAI Service into its Infobip AI Hub to help ensure that Infobip-used language models are secure, isolated from the outside world and no end customers' data is exposed to potential ..."
-publishedDateTime: 2023-12-18T02:17:00Z
-originalUrl: "https://www.asiaone.com/business/infobip-unveils-ai-hub-ai-driven-conversational-customer-experiences"
-webUrl: "https://www.asiaone.com/business/infobip-unveils-ai-hub-ai-driven-conversational-customer-experiences"
+title: "Infobip Unveils AI Hub For AI-Driven Conversational Customer Experiences"
+excerpt: "AI Hub enables businesses to build conversational customer experiences that solve business problems and generate results <li /> Infobip"
+publishedDateTime: 2023-12-18T07:18:00Z
+originalUrl: "https://menafn.com/1107613259/Infobip-Unveils-AI-Hub-For-AI-Driven-Conversational-Customer-Experiences"
+webUrl: "https://menafn.com/1107613259/Infobip-Unveils-AI-Hub-For-AI-Driven-Conversational-Customer-Experiences"
 type: article
 quality: 38
 heat: 38
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Dec2023/442052-Hub-Ai-visual-2-jpg-1200x.jpeg?h=bde28bee&itok=EERwNhfg"
-    width: 600
-    height: 316
+  - url: "https://menafn.com/updates/pr/2023-12/17/MON_4abe7image_story.jpg"
+    width: 800
+    height: 418
     isCached: true
 
 related:
@@ -35,6 +35,6 @@ related:
       domain: siliconangle.com
     quality: 19
 
-secured: "cw8Ypt6nmoJ+WQkOCNsVFdL7ZFsGFHwqXJsGU/F9ztG+RdD/tSjp2uaewoO0nYLcYVW2GbZ96+7Q2PejMQ4XNIP/hQmse+L2VeE+dyZ0ku3Pw/nJjAJx2lnqXF7NDJljXitapdPcHmOIp298V9ciTzSl6Bm5DXCL+i2OhD+Srj6UW3jw8n9nR8C7dJhmc19Jle508Z+Nt+fOUvmrMeZbUdWEpikQnzYNxTNaQzG8voOA1+Lh9HFeXbyqZkaScYTGl3LVBSE6VcTJiQTTnYW2s/ZeQ8cgD96JpQrQfDfPvLhy1H/YTeypSXWfvoUvFGKlOvfBtOx9ugCaCIujME7uyI6ObrhwpQvGDEaQA57q8vo=;hAFIYUa1DjI9T4xNTcXkvw=="
+secured: "Eymx/1A7Tlln1j7PT/0lQywY3ixDnnQg+JY9Xza6RWUzhktmEBrbdkUBL+X39czUpNdbyUcPl2cbGsrlRYSGN/T0vQtLG16mb6Wovcgb4lgcZnZubhBChrnkWMQGUdYRms6vuui7o0HeVPtDJvgQu6WGHAcpRJ2B4I/+DnSohSCSYjKj1k5gzfqOXItKzpJSiacN/qjlybpaKssv+VLFVEuvZPZPvARaY9pFwQu6ddKRxJWBLkmYrjIQX6NiZuKrAa2boEtf1xUKd4tUOvkZK6iC1NJesCK6toKIcwmzzeabwYm3fLIgqsklsHQncmD/f3EsZtUehcPjW94bqUPlwVB7Ag0UFlBSvCG9gsVWXt4=;JP/gohI0XTmnugxXLlp2bA=="
 ---
 

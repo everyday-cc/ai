@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Heard on the Street: Tesla’s Recall Highlights the Limits of ‘Full Self-Driving’ Tech"
-excerpt: "A Tesla dealership in Corte Madera, Calif., in October. (Justin Sullivan/Getty Images) Tesla’s big recall hasn’t moved its shares much. That isn’t a surprise given the limited cost of the fix— but it isn’t the end of the story, either. On ..."
-publishedDateTime: 2023-12-13T16:15:00Z
-originalUrl: "https://www.wsj.com/livecoverage/fed-meeting-fomc-interest-rate-december-2023/card/heard-on-the-street-tesla-s-recall-highlights-the-limits-of-full-self-driving-tech-5t1wARKk5hZZYznApkee"
-webUrl: "https://www.wsj.com/livecoverage/fed-meeting-fomc-interest-rate-december-2023/card/heard-on-the-street-tesla-s-recall-highlights-the-limits-of-full-self-driving-tech-5t1wARKk5hZZYznApkee"
+excerpt: "Tesla’s big recall hasn’t moved its shares much. That isn’t a surprise given the limited cost of the fix— but it isn’t the end of the story, either. On Wednesday, the National"
+publishedDateTime: 2023-12-13T23:13:00Z
+originalUrl: "https://www.wsj.com/livecoverage/fed-meeting-fomc-interest-rate-december-2023/card/heard-on-the-street-tesla-s-recall-highlights-the-limits-of-full-self-driving-tech-5t1wARKk5hZZYznApkee?mod=lctimeline_finance"
+webUrl: "https://www.wsj.com/livecoverage/fed-meeting-fomc-interest-rate-december-2023/card/heard-on-the-street-tesla-s-recall-highlights-the-limits-of-full-self-driving-tech-5t1wARKk5hZZYznApkee?mod=lctimeline_finance"
 type: article
 quality: 62
 heat: 142
@@ -96,19 +96,19 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "A Tesla Climbed on a Power Box at a McDonald's Drive-Thru, the Driver Says It Kept Driving"
-    excerpt: "Blame it on Autopilot. Blame it on a cyber attack. Blame it on a less skillful driver. Blame it on texting and driving. Whatever it was, it left an"
-    publishedDateTime: 2023-12-13T07:04:00Z
-    webUrl: "https://www.autoevolution.com/news/a-tesla-climbed-on-a-power-box-at-a-mcdonald-s-drive-thru-the-driver-says-it-kept-driving-226013.html"
+  - title: "Tesla Recalls Two Million Self-Driving Cars Due to Autopilot-Related Accidents"
+    excerpt: "ALBAWABA - Tesla sent a letter to the National Highway Traffic Safety Administration, recalling two million of its self-driving cars due to the Autopilo"
+    publishedDateTime: 2023-12-18T08:15:00Z
+    webUrl: "https://www.albawaba.com/business/tesla-recalls-two-million-self-driving-cars-due-autopilot-related-accidents-1545503"
     type: article
     provider:
-      name: autoevolution
-      domain: autoevolution.com
-    quality: 29
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 35
     images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/a-tesla-climbed-on-a-power-box-at-a-mcdonald-s-drive-thru-the-driver-says-it-kept-driving-226013_1.jpg"
-        width: 2000
-        height: 1113
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2023-12/Tesla%20Recalls%20Two%20Million%20Self-Driving%20Cars%20Due%20to%20Autopilot-Related%20Accidents.jpeg?itok=Ej2lxW7R"
+        width: 680
+        height: 425
         isCached: true
   - title: "Tesla Autopilot Recall Deals Another Blow to Self-Driving Cars"
     excerpt: "According to the NHTSA recall report, when Autosteer or any other Level 2 system is engaged, “as the vehicle operator, the driver is responsible for the vehicle’s movement with their hands on the steering wheel at all times, remaining attentive to surrounding road conditions, and intervening … as needed to maintain safe operation.”"
@@ -129,6 +129,6 @@ related:
       domain: seekingalpha.com
     quality: 16
 
-secured: "1YDPLR/fi0n9zWG9vS3Kuxu8fe7vBCl6t03XUXZ/1azSdLmxwTNkNnpzEwrGr5lrQJmW9e8qzOqOztQ9qtsz8RmzIxLv4/uPqNfx8w6Cycr2HuvX/HAhjMXJNZGGbIJWbDCCFRjthyb/0n7a/ZMZsZHDpMxL9W2GeIQnvaaoR8mkWN+QNrfmuK6JU5+oUdOQ42Dv+CBuZ4kahQS0MagrG5sOWjkPd7L4xhDYFmVYMNwneaad9C1vUOvUXYH8wIghP5jVKadSuRDU1MpyE+AaewFU6evxiNO/oDPi4sOfoZNT6EsdnMJFfSEx0yzmtLfjY7M1tyEzp/BAjX84RMKBL4cGbzjtMEajHn03pAUT+J5hvd8AZD6D0V+uP/zcVAMk0aiCKXlKgB7v0iiLdHN3U8sgcfQ0zICdfBd7rUBW63wwxFLQd4qS5U724bwJvF5Jx63UNRcqT6asMJp+2+H1SGbwCJ5hWpGWHHmvdlTgELYCh3x7nxAgVHD2p431qK/sffyTVL6uvDzwukt7rEtYmA==;bRsoTj8c2gzfMPbnNpHK3g=="
+secured: "Uh2NHJxQv38Xyy6aShEMyoAXr//6fgEHn454grmWyCBJ5rdSFKBZjBMV7od5vT6bIpM/V69H2WnfzbWAZ0pR4MvbChmZ56BHDzD50isTy8ILhLH6UV9KIvMj4OY3DHzi5inVh5yN/39aIGc2UDoMGViRsqeGKjOpvGEeqnJwmwz3+7HbjqpTjQCpcIPZnV6ghovkhQbU+MwmfLF0+wD7yEf/VVkU58wTm/J4n4kvCyXH4fUO/hZ53juso5uGzTG5y5JXJaU6tlQ5nzKMGfZo65JcuAVixQ/3eZgHYSgH6iffcbm3/MaBcXL8/AUl6+3eX5mTmIXo+A5rUxQMZG/Ko1Y64Vj82ms5PHmWdB9IC2s=;bpMaWsViqAzvMxm2zxgtnw=="
 ---
 

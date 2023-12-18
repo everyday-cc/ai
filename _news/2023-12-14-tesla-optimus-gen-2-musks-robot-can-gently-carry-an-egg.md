@@ -36,15 +36,6 @@ related:
         width: 1200
         height: 738
         isCached: true
-  - title: "Tesla’s humanoid robot is now 30% faster, 22 pounds lighter"
-    excerpt: "Elon Musk, CEO of Tesla and executive chair of X (formerly Twitter), has revealed a new prototype of Tesla’s humanoid robot, Optimus, which has become lighter and faster than previous versions. Musk shared a video presentation of Optimus Gen 2 via his X (former Twitter) account on Dec. 13."
-    publishedDateTime: 2023-12-13T08:39:00Z
-    webUrl: "https://cointelegraph.com/news/tesla-humanoid-robot-now-30-faster-22-pounds-lighter"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 36
   - title: "Tesla’s Second-Generation Robot Can Do So Many Useful Things Like Rotate Eggs and Replace the Company’s Factory Workers"
     excerpt: "In the video Tesla released on Twitter Wednesday, Optimus 2.0 is a much more polished version, with a sleeker case, and even more ominous blank expressionless face. Tesla says the new bot is 30 per cent faster than the model it replaces, and it has lost 22 pounds, though most of the video focuses on the new bot’s increased hand dexterousness."
     publishedDateTime: 2023-12-14T03:31:00Z

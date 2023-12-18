@@ -2,6 +2,101 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-12-11-5-ways-companies-can-promote-more-sustainable-ai.md",
+      "title": "5 Ways Companies Can Promote More Sustainable AI",
+      "excerpt": "Artificial intelligence (AI) is powering one of the biggest transformations in history, but powering AI is vast amounts of energy— an estimated 85.4 terawatt-hours of electricity annually by 2027, or more than most small countries use in a single year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/zendesk/2023/12/11/5-ways-companies-can-promote-more-sustainable-ai/",
+      "originalUrl": "https://www.forbes.com/sites/zendesk/2023/12/11/5-ways-companies-can-promote-more-sustainable-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65736bb1f35531799fbd70ae/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/zendesk/2023/12/11/5-ways-companies-can-promote-more-sustainable-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zendesk/2023/12/11/5-ways-companies-can-promote-more-sustainable-ai/amp/",
+      "publishedDateTime": "2023-12-11T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-11-us-in-talks-with-nvidia-about-ai-chip-sales-to-china-raimondo.md",
+      "title": "US in talks with Nvidia about AI chip sales to China - Raimondo",
+      "excerpt": "U.S. Commerce Secretary Gina Raimondo, speaking in an interview with Reuters on Monday, said Nvidia \"can, will and should sell AI chips to China because most AI chips will be for commercial applications.\" She added: \"What we cannot allow them to ship is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/us-talks-nvidia-ai-chip-194051279.html",
+      "originalUrl": "https://www.aol.com/us-talks-nvidia-ai-chip-194051279.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 311,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_reuters_29/dc475dc621777cd3ecb3464d53261b9e",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.aol.com/amphtml/us-talks-nvidia-ai-chip-194051279.html",
+      "cdnAmpWebUrl": "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/us-talks-nvidia-ai-chip-194051279.html",
+      "publishedDateTime": "2023-12-11T14:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2023-12-11-2024-fintech-highlights-include-ai-personalization-embedded-finance-marqeta-experts.md",
       "title": "2024 Fintech Highlights Include AI, Personalization, Embedded Finance : Marqeta Experts",
       "excerpt": "Marqeta executives predict that artificial intelligence (AI), the evolution of credit cards, and the increasing demand for customer choice will be important",
@@ -88,6 +183,49 @@
       ]
     },
     {
+      "path": "_news/2023-12-11-bigbearai-expands-its-relationship-with-aws-to-deliver-ai-driven-solutions.md",
+      "title": "BigBear.ai Expands its Relationship with AWS to Deliver AI-Driven Solutions",
+      "excerpt": "BigBear.ai continues to expand its capabilities to serve the commercial enterprise sector and is proud to advance this new effort with AWS.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/bigbear-ai-expands-its-relationship-with-aws-to-deliver-ai-driven-solutions-1032889378",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/bigbear-ai-expands-its-relationship-with-aws-to-deliver-ai-driven-solutions-1032889378",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-11T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-11-why-generative-ai-makes-sense-for-edge-computing.md",
       "title": "Why Generative AI Makes Sense For Edge Computing",
       "excerpt": "Many industry analysts and pundits now predict that generative AI will be the next significant AI application to make an impact at the edge.",
@@ -138,49 +276,6 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-bigbearai-expands-its-relationship-with-aws-to-deliver-ai-driven-solutions.md",
-      "title": "BigBear.ai Expands its Relationship with AWS to Deliver AI-Driven Solutions",
-      "excerpt": "BigBear.ai continues to expand its capabilities to serve the commercial enterprise sector and is proud to advance this new effort with AWS.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2023/12/11/9931286.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2023/12/11/9931286.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.tmcnet.com/tmc/world.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-11T13:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     },
     {
@@ -1024,92 +1119,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-10-the-psychological-effects-of-self-driving-cars.md",
-      "title": "The Psychological Effects of Self-Driving Cars",
-      "excerpt": "Autonomous vehicles (AVs) including artificial intelligence AI-powered driverless or self-driving cars have received significant attention as a potentially safer and more sustainable mode of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/urban-survival/202311/the-psychological-effects-of-self-driving-cars",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/urban-survival/202311/the-psychological-effects-of-self-driving-cars",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-11/pexels-matheus-bertelli-799443.jpg?itok=5Yxn1naW",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/us/blog/urban-survival/202311/the-psychological-effects-of-self-driving-cars",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/urban-survival/202311/the-psychological-effects-of-self-driving-cars",
-      "publishedDateTime": "2023-12-10T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-09-ai-ethics-team-clears-adobes-products-india-unit-md.md",
-      "title": "AI ethics team clears Adobe’s products: India unit MD",
-      "excerpt": "Adobe India managing director Prativa Mohapatra on Friday said the company prioritises review of its AI ethics committee before going ahead with product development. This is done to ensure that whatever innovative technology Adobe is developing must be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/digital-transformation-ai-ethics-team-clears-adobes-products-india-unit-md-3333843/",
-      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-ai-ethics-team-clears-adobes-products-india-unit-md-3333843/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/12/Untitled-design-2023-12-08T214235.605.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-ai-ethics-team-clears-adobes-products-india-unit-md-3333843/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-ethics-team-clears-adobes-products-india-unit-md-3333843/lite/",
-      "publishedDateTime": "2023-12-09T15:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

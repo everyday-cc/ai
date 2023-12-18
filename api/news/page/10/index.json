@@ -2,6 +2,101 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-12-08-llama-antibodies-could-pave-the-way-for-new-norovirus-treatments.md",
+      "title": "Llama Antibodies Could Pave the Way for New Norovirus Treatments",
+      "excerpt": "Tiny llama antibodies, called nanobodies, have been shown to effectively neutralize human noroviruses in the lab, revealing that they could be developed into a therapeutic agent.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/immunology/news/llama-antibodies-could-pave-the-way-for-new-norovirus-treatments-381824",
+      "originalUrl": "https://www.technologynetworks.com/immunology/news/llama-antibodies-could-pave-the-way-for-new-norovirus-treatments-381824",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/381824/llama-antibodies-could-pave-the-way-for-new-norovirus-treatments-381824-640x360.jpg?cb=20231208",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-08T10:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-08-aws-reinvent-2023-7-takeaways-from-the-big-annual-event.md",
+      "title": "AWS re:Invent 2023: 7 takeaways from the big annual event",
+      "excerpt": "At the AWS re:Invent conference last week, the spotlight was focused on artificial intelligence, with the new generative AI assistant, Amazon Q, debuting as the star of the show. But there was ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3711385/aws-reinvent-2023-7-takeaways-from-the-big-annual-event.html",
+      "originalUrl": "https://www.infoworld.com/article/3711385/aws-reinvent-2023-7-takeaways-from-the-big-annual-event.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/10/28/14/aws-logo-100933983-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3711385/aws-reinvent-2023-7-takeaways-from-the-big-annual-event.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711385/aws-reinvent-2023-7-takeaways-from-the-big-annual-event.amp.html",
+      "publishedDateTime": "2023-12-08T07:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-08-windows-12-and-the-coming-ai-chip-war.md",
       "title": "Windows 12 and the coming AI chip war",
       "excerpt": "A Windows release planned for next year may be the catalyst for a new wave of desktop chips with AI processing capabilities.",
@@ -1021,110 +1116,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-07-accelerating-cloud-native-development-in-microsoft-azure.md",
-      "title": "Accelerating cloud native development in Microsoft Azure",
-      "excerpt": "From GPU support to reference implementations, the latest updates to Azure Container Apps combine Microsoft’s commitment to developer productivity with its latest AI development tools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3711407/accelerating-cloud-native-development-in-microsoft-azure.html",
-      "originalUrl": "https://www.infoworld.com/article/3711407/accelerating-cloud-native-development-in-microsoft-azure.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2014/03/147256163-100250158-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3711407/accelerating-cloud-native-development-in-microsoft-azure.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711407/accelerating-cloud-native-development-in-microsoft-azure.amp.html",
-      "publishedDateTime": "2023-12-07T10:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-07-who-will-be-the-ai-winners-of-2024-here-are-2-top-contenders.md",
-      "title": "Who Will Be the AI Winners of 2024? Here Are 2 Top Contenders.",
-      "excerpt": "Nowadays, IBM is where you find enterprise-class solutions for computing needs, powered by intelligent cloud computing designs and the Watson AI engine. Leaving the consumer market to other ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/12/07/2-ai-winners-of-2024-and-beyond/",
-      "originalUrl": "https://www.fool.com/investing/2023/12/07/2-ai-winners-of-2024-and-beyond/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/757369/thinking-robot.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-07T09:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

@@ -37,15 +37,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Taylor: A year after ChatGPT's viral launch, I'm freaking out about artificial intelligence."
-    excerpt: "We’ve all been sleepwalking our way toward this … revolution? Utopia? Or is it apocalypse? Our columnist assesses the realities of AI."
-    publishedDateTime: 2023-12-13T09:00:00Z
-    webUrl: "https://www.houstonchronicle.com/business/columnists/michael-taylor/article/assessing-reality-artificial-intelligence-year-18550248.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 27
 
 secured: "SH4DSk+4WhnnOBULUvikmyCfe+QVq7FFFU5S5mclem8p2uY1Utrw0p055BnpoHkuUMXbNEhWmVihwraqQuuUE2XainphvlmecmRdD5Vg6LgeAj/gpImyiOri98LQ5wbhCiejPAvyP6IUDInfmb5oJnXDXlOh8Ebj+c7Ar6feVTiQDPQs1dRMUY2H0Eo6r2bTlY38CRNXK1SkPW4083+rcPZGl6p2ei5NjID7bKy6XnLiHDNkHbLW2Knca0SwmOe8RFDuWmF9QQmWalS4WShc8SXQIfKnTG49e0cZdZ0A/+/GDM0qM8yUELMXo1grIZSCcVYQamEvLF79GBHhpLaBn+ZHbBz9ZoQpHbXHRAq5mQXbB6qim0bWYekDnYUf3zBiYi42pQPwmFunSeccH7EyKkphuWZ1HMdX6VdYce2uT5XH84hWK9OMUTXa+rl5VIp46/b4paue0VmliReu8e3YGGh4M5aQ0jZdWzJcfkF/8ARDfg3GXLvPnzBsmwiPcreDGDuAMphpv1z0YiFCiOTTvQ==;99v17mXWEGpP6239QYSD1g=="
 ---

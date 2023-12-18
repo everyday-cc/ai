@@ -2,6 +2,40 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-11-06-artificial-intelligence-pioneers-aim-to-perfect-humanoid-robots.md",
+      "title": "Artificial intelligence pioneers aim to perfect humanoid robots",
+      "excerpt": "Building a robot that's both humanlike and useful is a decades-old engineering dream inspired by popular science fiction. While the latest artificial intelligence craze has sparked another wave of ...",
+      "sourceUrl": null,
+      "webUrl": "https://pantagraph.com/artificial-intelligence-pioneers-aim-to-perfect-humanoid-robots/article_c94b7e95-aa91-556a-ac67-c6c8314d62ec.html",
+      "originalUrl": "https://pantagraph.com/artificial-intelligence-pioneers-aim-to-perfect-humanoid-robots/article_c94b7e95-aa91-556a-ac67-c6c8314d62ec.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-06T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Pantagraph",
+        "domain": "pantagraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-05-google-deepminds-robotics-head-on-general-purpose-robots-generative-ai-and-office-wi-fi.md",
       "title": "Google DeepMind’s robotics head on general-purpose robots, generative AI and office Wi-Fi",
       "excerpt": "Subscribe here.] Earlier this month, Google’s DeepMind team debuted Open X-Embodiment, a database of robotics functionality created in collaboration with 33 research institutes. The researchers ...",
@@ -1206,58 +1240,6 @@
         "name": "Zawya",
         "domain": "zawya.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-boston-dynamics-uses-chatgpt-to-create-a-robot-tour-guide.md",
-      "title": "Boston Dynamics uses ChatGPT to create a robot tour guide",
-      "excerpt": "Check out the British butler guide at the start of the video, for example ... him over to an early version of Spot among Boston Dynamics’ display of robots. Klingensmith says AI might make it possible for robots “not just to follow our commands ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/news/boston-dynamics-uses-chatgpt-to-create-a-robot-tour-guide/",
-      "originalUrl": "https://www.digitaltrends.com/news/boston-dynamics-uses-chatgpt-to-create-a-robot-tour-guide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/10/boston-dynamics-spot-AI.jpeg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/news/boston-dynamics-uses-chatgpt-to-create-a-robot-tour-guide/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/boston-dynamics-uses-chatgpt-to-create-a-robot-tour-guide/?amp",
-      "publishedDateTime": "2023-10-27T02:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

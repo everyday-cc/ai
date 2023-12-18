@@ -2,6 +2,126 @@
   "page": 75,
   "value": [
     {
+      "path": "_news/2023-10-18-ai-needs-a-strong-code-of-ethics-to-keep-its-dark-side-from-overtaking-us.md",
+      "title": "AI needs a strong code of ethics to keep its dark side from overtaking us",
+      "excerpt": "A more ethically responsible tech industry and AI products and services are possible. With the stakes so high, it has to be worth it. Ann Skeet and Brian Green are authors of \"Ethics in the Age of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/marketwatch/20231018211/ai-needs-a-strong-code-of-ethics-to-keep-its-dark-side-from-overtaking-us",
+      "originalUrl": "https://www.morningstar.com/news/marketwatch/20231018211/ai-needs-a-strong-code-of-ethics-to-keep-its-dark-side-from-overtaking-us",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-18T11:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-18-look-farm-robots-plant-tree-saplings-at-gitex-global-dubai.md",
+      "title": "Look: Farm robots plant tree saplings at Gitex Global Dubai",
+      "excerpt": "The Farm Bot displayed by TDRA at Gitex has two robotic arms: one selects the tree sapling and the other holds the pot where it is planted. There are cameras that monitor precision planting of the sapling. The potted tree sapling is then distributed to visitors at the TDRA stand.",
+      "sourceUrl": null,
+      "webUrl": "https://www.khaleejtimes.com/business/tech/look-farm-robots-plant-tree-saplings-at-gitex-global-dubai",
+      "originalUrl": "https://www.khaleejtimes.com/business/tech/look-farm-robots-plant-tree-saplings-at-gitex-global-dubai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.khaleejtimes.com?uuid=48a07cc6-5d6b-5747-bc4c-435fdb598c42&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.71656&width=1200&height=675&x=1.0E-5&y=0.08439.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.khaleejtimes.com/business/tech/look-farm-robots-plant-tree-saplings-at-gitex-global-dubai?amp=1",
+      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/business/tech/look-farm-robots-plant-tree-saplings-at-gitex-global-dubai?amp=1",
+      "publishedDateTime": "2023-10-18T11:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Khaleej Times",
+        "domain": "khaleejtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-18-amazons-ai-and-robotics-progress-accelerates-warehouse-efficiency-and-safety.md",
+      "title": "Amazon's AI And Robotics Progress Accelerates Warehouse Efficiency and Safety",
+      "excerpt": "The overhaul involves the introduction of AI-powered sortation machines and robotic arms, transforming the dynamics of product movement within Amazon’s fulfillment centers. This innovation will help to augment the productivity and safety of human workers, the Wall Street Journal reports.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/23/10/35304469/amazons-ai-and-robotics-progress-accelerates-warehouse-efficiency-and-safety",
+      "originalUrl": "https://www.benzinga.com/news/23/10/35304469/amazons-ai-and-robotics-progress-accelerates-warehouse-efficiency-and-safety",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/10/18/amazon_warehouse_in_maryland_36906693900.jpg?width=1200&height=800&fit=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/35304469",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35304469",
+      "publishedDateTime": "2023-10-18T11:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-18-ai-driven-anomaly-detection-on-social-media-5-things-to-consider.md",
       "title": "AI-Driven Anomaly Detection On Social Media: 5 Things To Consider",
       "excerpt": "In order to truly unlock the potential of boosting cybersecurity with anomaly detection, it’s important to put AI and ML algorithms at the heart of the system.",
@@ -998,127 +1118,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-ai-skills-for-all-how-ibm-is-helping-to-close-the-digital-divide.md",
-      "title": "AI Skills for All: How IBM Is Helping To Close the Digital Divide",
-      "excerpt": "For instance, in one hands-on simulation, learners build and run a machine learning model with IBM Watson Studio. Beyond the fundamentals, we recently announced a new generative AI roadmap that includes new coursework on Prompt-Writing, Getting Started ...",
-      "sourceUrl": null,
-      "webUrl": "https://stockhouse.com/news/press-releases/2023/10/18/ai-skills-for-all-how-ibm-is-helping-to-close-the-digital-divide",
-      "originalUrl": "https://stockhouse.com/news/press-releases/2023/10/18/ai-skills-for-all-how-ibm-is-helping-to-close-the-digital-divide",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.accesswire.com/users/newswire/images/794271/a90560dc-d22d-4aee-8c70-dc2a5a0ca3fa.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-data-sciences-student-showcases-machine-learning-to-us-legislators.md",
-      "title": "Data sciences student showcases machine learning to U.S. legislators",
-      "excerpt": "“By the end of the month, I found out I finished the race in the top 10% of people in the country.” Every month, AWS conducts a DeepRacer on different courses. Racers develop their machine learning models to finish the courses and deploy them on a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.buffalo.edu/ai-data-science/news-events/news/articles.host.html/content/shared/engineering/home/articles/news-articles/2023/data-science-student-showcases-machine-learning-to-us-legislators.detail.html?rightcol_list_copy_copy_start=32",
-      "originalUrl": "https://www.buffalo.edu/ai-data-science/news-events/news/articles.host.html/content/shared/engineering/home/articles/news-articles/2023/data-science-student-showcases-machine-learning-to-us-legislators.detail.html?rightcol_list_copy_copy_start=32",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medicine Buffalo",
-        "domain": "buffalo.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-microsoft-officially-releases-ai-content-review-tool-azure-ai-content-safety.md",
-      "title": "Microsoft officially releases AI content review tool Azure AI Content Safety",
-      "excerpt": "Microsoft has recently released a new AI content review tool called Azure AI Content Safety. The company claims that this tool will create a healthy and harmonious community environment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizchina.com/2023/10/18/azure-ai-content-safety/",
-      "originalUrl": "https://www.gizchina.com/2023/10/18/azure-ai-content-safety/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizchina.com/wp-content/uploads/images/2023/10/microsoft-ai-1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.gizchina.com/2023/10/18/azure-ai-content-safety/amp/",
-      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2023/10/18/azure-ai-content-safety/amp/",
-      "publishedDateTime": "2023-10-18T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GizChina",
-        "domain": "gizchina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

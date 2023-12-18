@@ -18,20 +18,20 @@ topics:
   - AI
 
 related:
-  - title: "Hyperplane wants to bring AI to banks"
-    excerpt: "Hyperplane, a San Francisco-based startup that is building foundation models to help banks predict customer behavior, is coming out of stealth today by"
-    publishedDateTime: 2023-12-13T08:01:00Z
-    webUrl: "https://techcrunch.com/2023/12/13/hyperplane-wants-to-bring-ai-to-banks/"
-    ampWebUrl: "https://techcrunch.com/2023/12/13/hyperplane-wants-to-bring-ai-to-banks/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/13/hyperplane-wants-to-bring-ai-to-banks/amp/"
+  - title: "New AI Tracks Neurons in Moving Animals"
+    excerpt: "A new study by researchers at Ecole Polytechnique Fédérale de Lausanne (EPFL) in Lausanne, Switzerland, and Harvard University in Cambridge, Massachusetts, U.S., shows how AI has the potential to advance neuroscience by identifying and tracking neurons in moving animals."
+    publishedDateTime: 2023-12-15T22:40:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202312/new-ai-tracks-neurons-in-moving-animals"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202312/new-ai-tracks-neurons-in-moving-animals?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202312/new-ai-tracks-neurons-in-moving-animals?amp"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/12/GettyImages-1688426751.jpg?resize=1200,800"
-        width: 1200
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-12/pic092834.jpg?itok=L-M6mTyK"
+        width: 1528
         height: 800
         isCached: true
 

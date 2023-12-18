@@ -2,6 +2,108 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2023-11-14-starting-holiday-shopping-early-use-amazons-buy-with-prime-to-score-benefits.md",
+      "title": "Starting holiday shopping early? Use Amazon's Buy with Prime to score benefits.",
+      "excerpt": "Amazon is extending its Prime benefits to users interested in shopping on a retailer's website but getting Prime benefits through an expanded program. Amazon’s Buy with Prime launched earlier ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/money/retail/2023/11/14/amazon-buy-with-prime-expands/71487256007/",
+      "originalUrl": "https://www.usatoday.com/story/money/retail/2023/11/14/amazon-buy-with-prime-expands/71487256007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-14-why-artificial-intelligence-hasnt-mastered-meditation-yet.md",
+      "title": "Why Artificial Intelligence Hasn’t Mastered Meditation… Yet",
+      "excerpt": "I got a solid A, thank you very much! I wrote about the dangers of unchecked development of artificial intelligence long before it was a “thing.” Nowadays, it seems not only possible, but likely, that AI will become as intelligent,",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/us/blog/momentology/202311/why-artificial-intelligence-hasnt-mastered-meditation-yet",
+      "originalUrl": "https://www.psychologytoday.com/us/blog/momentology/202311/why-artificial-intelligence-hasnt-mastered-meditation-yet",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T13:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-14-new-robot-control-system-unveiled.md",
+      "title": "New robot control system unveiled",
+      "excerpt": "With the rapid development of technology, intelligent robots have gradually permeated various aspects of people's lives. In order to make life more convenient and easier, an advanced robot control system has become an indispensable part of the AI age.",
+      "sourceUrl": null,
+      "webUrl": "https://global.chinadaily.com.cn/a/202311/14/WS655378c8a31090682a5ee1fc.html",
+      "originalUrl": "https://global.chinadaily.com.cn/a/202311/14/WS655378c8a31090682a5ee1fc.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T13:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "中国日报网",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-14-roadmap-technologies-revolutionizes-predictive-analytics-with-cloud-based-deep-learning-software-for-time-series-forecasting-arriving-in-2024.md",
       "title": "Roadmap Technologies Revolutionizes Predictive Analytics With Cloud-Based Deep Learning Software For Time Series Forecasting, Arriving In 2024",
       "excerpt": "RoadMap's new forecasting system allows companies to rapidly deploy over 40+ advanced forecasting models to accurately predict key areas of business",
@@ -840,126 +942,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-the-21-weirdest-most-hilarious-things-you-can-buy-on-amazon.md",
-      "title": "The 21 Weirdest, Most Hilarious Things You Can Buy on Amazon",
-      "excerpt": "Amazon is your go-to site for almost everything. Between the Amazon products you use every day and the perfect Amazon Prime gifts for everyone on your list, how could it not be? It’s smart ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.rd.com/list/strange-things-amazon/",
-      "originalUrl": "https://www.rd.com/list/strange-things-amazon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rd.com/wp-content/uploads/2021/06/The-21-Weirdest-Most-Hilarious-Things-You-Can-Buy-on-Amazon_FT_via-amazon.com_.jpg",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reader's Digest",
-        "domain": "rd.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-willamette-students-and-faculty-shine-at-regional-computer-science-conference.md",
-      "title": "Willamette students and faculty shine at regional computer science conference",
-      "excerpt": "With several faculty members leading the conference and a first-place student win, the School of Computing & Information Sciences dazzled peers.",
-      "sourceUrl": null,
-      "webUrl": "https://willamette.edu/news/library/2023/11/ccsc-nw.html",
-      "originalUrl": "https://willamette.edu/news/library/2023/11/ccsc-nw.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Willamette University",
-        "domain": "willamette.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-nvidia-officially-teases-next-gen-b100-blackwell-gpu-over-4x-as-fast-as-h100-ai-gpu.md",
-      "title": "NVIDIA officially teases next-gen B100 Blackwell GPU: over 4x as fast as H100 AI GPU",
-      "excerpt": "NVIDIA promises perpetual innovation and perpetual performance leaps with a sneak peek at its next-gen B100 Blackwell GPU in GPT-3 175B inference perf.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/94338/nvidia-officially-teases-next-gen-b100-blackwell-gpu-over-4x-as-fast-h100-ai/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/94338/nvidia-officially-teases-next-gen-b100-blackwell-gpu-over-4x-as-fast-h100-ai/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tweaktown.com/news/9/4/94338_110_nvidia-officially-teases-next-gen-b100-blackwell-gpu-over-4x-as-fast-h100-ai_full.jpg",
-          "width": 1500,
-          "height": 780,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T23:28:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

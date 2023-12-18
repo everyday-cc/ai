@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "OpenAI introduces its second round of AI startup fund"
-    excerpt: "According to Cointelegraph, OpenAI opened Converge 2, an application for the second cohort of its six-week program for artificial intelligence (AI) startups. Through this application, it aims to invest $1 million into each of the 15 successful participants selected."
-    publishedDateTime: 2023-12-18T03:40:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-openai-introduces-its-second-round-of-ai-startup-fund-3340908/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-openai-introduces-its-second-round-of-ai-startup-fund-3340908/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-openai-introduces-its-second-round-of-ai-startup-fund-3340908/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 57
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/11/chatgpt-image-from-bloomberg-2.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Dropbox spooks users by sending data to OpenAI for AI search features"
     excerpt: "On Wednesday, news quickly spread on social media about a new enabled-by-default Dropbox setting that shares your Dropbox data with OpenAI for an experimental AI-powered search feature. Dropbox says that user data shared with third-party AI partners isn't used to train AI models and is deleted within 30 days."
     publishedDateTime: 2023-12-13T19:41:00Z
@@ -71,29 +55,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 47
-  - title: "OpenAI $10M grants for superhuman AI systems research now available"
-    excerpt: "OpenAI has recently announced the launch of a substantial $10M grant program, known as the Superalignment Fast Grants. This ambitious initiative is"
-    publishedDateTime: 2023-12-15T10:02:00Z
-    webUrl: "https://www.geeky-gadgets.com/superhuman-ai-systems/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/superhuman-AI-systems.jpg"
-        width: 1280
-        height: 717
-        isCached: true
-  - title: "OpenAI to pay Axel Springer to use content to train AI models"
-    excerpt: "OpenAI, the generative artificial intelligence startup backed by Microsoft (NASDAQ:MSFT), has agreed to pay publishing company Axel Springer to use the media company's content to train its AI models. The content will be used to create answers in ChatGPT ..."
-    publishedDateTime: 2023-12-13T14:21:00Z
-    webUrl: "https://seekingalpha.com/news/4045950-openai-pay-axel-springer-use-content-train-ai-models"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 17
   - title: "OpenAI launches $10M grant program to keep AI from going rogue"
     excerpt: "AI will become significantly harder to manage in the next decade, making existing oversight techniques insufficient, the startup said Friday."
     publishedDateTime: 2023-12-15T20:53:00Z

@@ -2,6 +2,102 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-12-12-accenture-to-work-with-union-bank-of-india-to-build-new-ai-and-machine-learning-models.md",
+      "title": "Accenture To Work with Union Bank of India To Build New AI and Machine Learning Models",
+      "excerpt": "Accenture will work with Union Bank of India to build new AI and machine learning models that can help generate actionable insights for improved busin",
+      "sourceUrl": null,
+      "webUrl": "https://www.indianweb2.com/2023/12/accenture-to-work-with-union-bank-of.html",
+      "originalUrl": "https://www.indianweb2.com/2023/12/accenture-to-work-with-union-bank-of.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVgXjk2IBSptAxO-BzY3gxzDItOMiYkt9jovv-UC78ztQh-tVo4EkKI-nyXRmd1FDyVq2HCbz3JFA8B5gNICIqE8PMuRdYKJuXUm9Fd5Mm1M7viygOEm8688zZLaUFBkCie2RxSMEoNy_7K-Pw1lQ3aIc7NNRc4nMybDhh8iG1A-OXpy_ksr0YtFR2NW4/s16000/accenture-union-bank.png",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-12T08:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "indianweb2.com",
+        "domain": "indianweb2.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-12-12-cyborg-computer-with-living-brain-organoid-aces-machine-learning-tests.md",
+      "title": "Cyborg computer with living brain organoid aces machine learning tests",
+      "excerpt": "Scientists have grown a tiny brain-like organoid out of human stem cells, hooked it up to a computer, and demonstrated its potential as a kind of organic machine learning chip, showing it can quickly pick up speech recognition and math predictions.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/computers/hybrid-brain-organoid-computing/",
+      "originalUrl": "https://newatlas.com/computers/hybrid-brain-organoid-computing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/ccc7067/2147483647/strip/true/crop/1547x812+0+109/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F45%2F78%2F6d26502246189c62b43acc8416f0%2Fscreenshot-2023-12-12-at-6.00.01%20pm.png&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-12T08:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-12-artificial-intelligence-is-here-to-stay-considerations-for-pr-professionals.md",
       "title": "Artificial Intelligence Is Here To Stay: Considerations For PR Professionals",
       "excerpt": "Machine learning, or artificial intelligence (AI), is a game changer ... But AI’s uses are much broader—think facial recognition in security systems, medical diagnosis in healthcare, self-driving automobiles and fraud detection in financial institutions.",
@@ -1070,101 +1166,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-5-ways-companies-can-promote-more-sustainable-ai.md",
-      "title": "5 Ways Companies Can Promote More Sustainable AI",
-      "excerpt": "Artificial intelligence (AI) is powering one of the biggest transformations in history, but powering AI is vast amounts of energy— an estimated 85.4 terawatt-hours of electricity annually by 2027, or more than most small countries use in a single year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/zendesk/2023/12/11/5-ways-companies-can-promote-more-sustainable-ai/",
-      "originalUrl": "https://www.forbes.com/sites/zendesk/2023/12/11/5-ways-companies-can-promote-more-sustainable-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65736bb1f35531799fbd70ae/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/zendesk/2023/12/11/5-ways-companies-can-promote-more-sustainable-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zendesk/2023/12/11/5-ways-companies-can-promote-more-sustainable-ai/amp/",
-      "publishedDateTime": "2023-12-11T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-us-in-talks-with-nvidia-about-ai-chip-sales-to-china-raimondo.md",
-      "title": "US in talks with Nvidia about AI chip sales to China - Raimondo",
-      "excerpt": "U.S. Commerce Secretary Gina Raimondo, speaking in an interview with Reuters on Monday, said Nvidia \"can, will and should sell AI chips to China because most AI chips will be for commercial applications.\" She added: \"What we cannot allow them to ship is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/us-talks-nvidia-ai-chip-194051279.html",
-      "originalUrl": "https://www.aol.com/us-talks-nvidia-ai-chip-194051279.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 311,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.zenfs.com/en/aol_reuters_29/dc475dc621777cd3ecb3464d53261b9e",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.aol.com/amphtml/us-talks-nvidia-ai-chip-194051279.html",
-      "cdnAmpWebUrl": "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/us-talks-nvidia-ai-chip-194051279.html",
-      "publishedDateTime": "2023-12-11T14:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

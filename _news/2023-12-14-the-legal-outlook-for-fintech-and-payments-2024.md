@@ -41,20 +41,6 @@ related:
         width: 1353
         height: 900
         isCached: true
-  - title: "Finastra Leaders Predict Top Fintech Trends For 2024"
-    excerpt: "Finastra has shared its executive insights on the anticipated trends, challenges and opportunities for the fintech landscape in 2024."
-    publishedDateTime: 2023-12-13T07:35:00Z
-    webUrl: "https://fintechnews.sg/82080/fintech/finastra-leaders-predict-top-fintech-trends-for-2024/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 24
-    images:
-      - url: "https://fintechnews.sg/wp-content/uploads/2023/12/Finastra-Leaders-Predict-2024-Fintech-Trends-Amidst-Global-Challenges.jpg"
-        width: 1024
-        height: 567
-        isCached: true
   - title: "HostBooks Revolutionizes Corporate Fintech with Tech-Driven Solutions"
     excerpt: "HostBooks improves production and efficiency by eliminating the drudgery oftime-consuming financial management tasks, including accounting, taxcompliance, and payroll processing."
     publishedDateTime: 2023-12-15T12:34:00Z

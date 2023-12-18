@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-11-15-ai-based-model-can-predict-therapy-outcome-in-ovarian-cancer-patients.md",
+      "title": "AI-based model can predict therapy outcome in ovarian cancer patients",
+      "excerpt": "A model based on artificial intelligence is able to predict the therapy outcome (measured by volumetric reduction of tumor lesions) in 80% of ovarian cancer patients.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20231113/AI-based-model-can-predict-therapy-outcome-in-ovarian-cancer-patients.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20231113/AI-based-model-can-predict-therapy-outcome-in-ovarian-cancer-patients.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T17:06:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-15-global-internal-radiation-therapy-industry-predicts-staggering-83-cagr-growth-from-2022-to-2032.md",
       "title": "Global Internal Radiation Therapy Industry Predicts Staggering 8.3% CAGR Growth from 2022 to 2032",
       "excerpt": "According to the report, the Global Internal Radiation Therapy Industry achieved global sales of US$ 892.9 million in 2021, setting the stage for a dynamic trajectory in the years to come. FMI’s expert analysts anticipate a robust 8.",
@@ -1125,58 +1159,6 @@
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/paulhsieh/2023/10/29/3-ways-artificial-intelligence-can-predict-disease-and-improve-treatment/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulhsieh/2023/10/29/3-ways-artificial-intelligence-can-predict-disease-and-improve-treatment/amp/",
-      "publishedDateTime": "2023-10-29T16:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-29-using-artificial-intelligence-to-predict-individual-health-outcomes.md",
-      "title": "Using Artificial Intelligence To Predict Individual Health Outcomes",
-      "excerpt": "Would you like to know if you are going to develop diabetes or die early from heart disease? Artificial intelligence may soon give you the answer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/paulhsieh/2023/10/29/using-artificial-intelligence-to-predict-individual-health-outcomes/",
-      "originalUrl": "https://www.forbes.com/sites/paulhsieh/2023/10/29/using-artificial-intelligence-to-predict-individual-health-outcomes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/653e88f644d859cb4c9063ea/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/paulhsieh/2023/10/29/using-artificial-intelligence-to-predict-individual-health-outcomes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulhsieh/2023/10/29/using-artificial-intelligence-to-predict-individual-health-outcomes/amp/",
       "publishedDateTime": "2023-10-29T16:33:00Z",
       "updatedDateTime": null,
       "provider": {

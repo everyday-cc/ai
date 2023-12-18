@@ -64,22 +64,6 @@ related:
         width: 1200
         height: 765
         isCached: true
-  - title: "Most countries agreeing what India was saying on Artificial Intelligence regulation: Rajeev Chandrasekhar"
-    excerpt: "The Union minister today met Viscount Camrose, UK's Minister of AI and Intellectual Property and Hiroshi Yoshida, Japan's Vice Minister of Policy Coordination, Ministry of Internal Affairs and Communications."
-    publishedDateTime: 2023-12-13T08:19:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/policy/most-countries-agreeing-what-india-was-saying-on-artificial-intelligence-regulation-rajeev-chandrasekhar/105956937"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/policy/most-countries-agreeing-what-india-was-saying-on-artificial-intelligence-regulation-rajeev-chandrasekhar/105956937"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/policy/most-countries-agreeing-what-india-was-saying-on-artificial-intelligence-regulation-rajeev-chandrasekhar/105956937"
-    type: article
-    provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 40
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-105956937,imgsize-18394,width-1200,height=765,overlay-ettelecom/policy/most-countries-agreeing-what-india-was-saying-on-artificial-intelligence-regulation-rajeev-chandrasekhar.jpg"
-        width: 1200
-        height: 765
-        isCached: true
 
 secured: "YNgeARmjURPpKW4M7y+A+Z5/Pw4RkZ1HPcgE8JsK4Mdf180z8H4DErFjiiRj3+boFC+kNMkYG57qEIh60P+gogCzPc6ASGlY7ADrNqGY06Vk1yZY2zBHj9a9uWOIOZXDndEQa/lWzvUHib32U9mkac+MPUEUmo+ATxVIdT2xlSulbvSeUeeXV5nDfT1Myb0XPnkThTeAryR6ZFG5zmR2/xlYLNY/h2zb19S7tnUhe55A1IANKlIq7K8SS7eEdIUBdXqT6nvvbN7DisptMBvLrfW6eI+XTEZp8zWaGGdxNTDkCNdsdQEVEACQi+lHrB8AmGO59KNjzNenvcg+B+w7TI/namaxn1jLdT4+JKZqLN36TZafJHmn8ThrDiDyxDIZ+D9cZ7XglFesSYNLavhnYWgCUzqpaDfDK/dUMULrnrJ2dGodolcr2STOZuwHNkYX1MCZRuOKdVJ2QIW56/ZwPyGqtqzgyXz/H9jC7boZ1PrbxSV0SgzoWGFyE4lSLrGqyNXx31SPQEv5ldaML6swGw==;gdX6+/ucyuIzOmPW22ZwMQ=="
 ---

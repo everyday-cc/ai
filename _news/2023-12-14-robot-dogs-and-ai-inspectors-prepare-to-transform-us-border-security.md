@@ -7,7 +7,7 @@ originalUrl: "https://interestingengineering.com/culture/robot-dogs-ai-inspector
 webUrl: "https://interestingengineering.com/culture/robot-dogs-ai-inspectors-us-border"
 type: article
 quality: 71
-heat: 73
+heat: 71
 published: true
 
 provider:

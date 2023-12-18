@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence: What teachers and students need to know"
+    excerpt: "It is the ability of a digital computer or computer-controlled robot to perform tasks commonly associated with intelligent beings. Artificial intelligence combines the intellectual knowledge of different fields such as computer science, physiology ..."
+    publishedDateTime: 2023-12-18T00:00:00Z
+    webUrl: "https://thenationonlineng.net/artificial-intelligence-what-teachers-and-students-need-to-know/"
+    ampWebUrl: "https://thenationonlineng.net/artificial-intelligence-what-teachers-and-students-need-to-know/amp/"
+    cdnAmpWebUrl: "https://thenationonlineng-net.cdn.ampproject.org/c/s/thenationonlineng.net/artificial-intelligence-what-teachers-and-students-need-to-know/amp/"
+    type: article
+    provider:
+      name: The Nation Newspaper
+      domain: thenationonlineng.net
+    quality: 61
+    images:
+      - url: "https://cdn.thenationonlineng.net/wp-content/uploads/2023/09/26030926/AI-450x300.jpg"
+        width: 450
+        height: 300
+        isCached: true
   - title: "Artificial Intelligence and Academic Tasks: What teachers, students need to know"
     excerpt: "Artificial intelligence does not come with the options of “to be” or “not to be” in academia. If nothing, the intelligence that is included in the term makes it “a child of necessity ..."
     publishedDateTime: 2023-12-14T00:01:00Z

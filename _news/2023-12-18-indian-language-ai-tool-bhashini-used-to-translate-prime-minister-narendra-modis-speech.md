@@ -43,6 +43,22 @@ related:
         width: 866
         height: 1083
         isCached: true
+  - title: "In A First, AI-Based Tool Used To Translate PM Modi's Speech"
+    excerpt: "Prime Minister Narendra Modi's speech at an event in Uttar Pradesh's Varanasi yesterday was translated in real-time using artificial intelligence (AI) technology."
+    publishedDateTime: 2023-12-18T07:12:00Z
+    webUrl: "https://www.ndtv.com/india-news/in-a-first-ai-based-tool-used-to-translate-pm-modis-speech-4695483"
+    ampWebUrl: "https://www.ndtv.com/india-news/in-a-first-ai-based-tool-used-to-translate-pm-modis-speech-4695483/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/in-a-first-ai-based-tool-used-to-translate-pm-modis-speech-4695483/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 74
+    images:
+      - url: "https://c.ndtvimg.com/2023-12/t74bqm3g_pm-modi-varanasi-1200-_625x300_17_December_23.jpeg"
+        width: 1200
+        height: 738
+        isCached: true
   - title: "Indian AI startup Sarvam AI open-sources first Hindi AI model"
     excerpt: "Indian AI startup Sarvam AI has released its first large language model a Hindi AI model and open-sourced it days after closing a funding for $41 million."
     publishedDateTime: 2023-12-15T08:21:00Z
@@ -75,6 +91,22 @@ related:
         width: 1200
         height: 738
         isCached: true
+  - title: "\"This is a new beginning\": AI translation tool Bhashini used during PM Modi's speech in Varanasi"
+    excerpt: "A real-time Artificial Intelligence-based translation tool was used during Prime Minister Narendra Modi's speech at Kashi Tamil Sangamam in Varanasi on Sunday."
+    publishedDateTime: 2023-12-17T17:52:00Z
+    webUrl: "https://www.devdiscourse.com/article/politics/2749199-this-is-a-new-beginning-ai-translation-tool-bhashini-used-during-pm-modis-speech-in-varanasi"
+    ampWebUrl: "https://www.devdiscourse.com/article/politics/2749199-this-is-a-new-beginning-ai-translation-tool-bhashini-used-during-pm-modis-speech-in-varanasi?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/politics/2749199-this-is-a-new-beginning-ai-translation-tool-bhashini-used-during-pm-modis-speech-in-varanasi?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 46
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/17_12_2023_17_52_36_0239386.jpg?width=1280"
+        width: 1280
+        height: 960
+        isCached: true
   - title: "'This is a new beginning': AI translation tool Bhashini used during PM Modi's speech in Varanasi"
     excerpt: "Prime Minister Narendra Modi on Sunday used real-time Artificial Intelligence-based Tamil translation during his speech at Kashi Tamil Sang."
     publishedDateTime: 2023-12-17T14:38:00Z
@@ -85,6 +117,6 @@ related:
       domain: indiatimes.com
     quality: 6
 
-secured: "/hiDpmlb/hBtsGMOp0XenaZqnIVV7wiGRcjpOjikNacEyuJNoad+lZZwRTBuJxVB0iz5up588bq+VERI0In589egyN3Oe/gl3KRS0jHlIdsgpRo2GX/jd9wfRQhgjgrSiE3bfx8V/PjRLaNWX89EXjc9NZ/x/ps/lSSqcmJQdQywXZ7jKzixwaoTcoNf47Wo9drQ/4gnRTfAG1dUtoSCQ6MFOyADsPo9WfmlG/sIufNc1ayrb3rRfMGjBlOtB3crzz3PIhsSzSjiJuccfWS8pWndukIgO3+hOzVvXvE5S2cNSpdMcUCk6jtLKJi5txMSYkZkEgNWLNzmEHFcnvW4wslwUaCM6ICZuyYk5FDFAsY=;s9cr5OX/f/uOv8oBeyp0tw=="
+secured: "GRRs9UdxEt8uB3U7exCbvXr38r04RRP1iBDCPwhs2EPeAfWweL6YSeyvV4oBkW1oKvPUsBBo3pRLIyZk8XP/hnhWDtXjEdbt1JyVsg8JXSfSybgqVuAYwyCCd31r5Ovrc0BR2IxHrfc0K+toIFirb8QYARgQ3GM9Uerw8NF+X2b8cfUjjyH60P++OxH1G7M56EOg2pveEjjw7TTeoSfE6QOfC2l4LGr1ld2fiTZAOsG6Mp5/UnwCCg8/aHDqL/P7Vp4TZVNJbKzUIoAv3VtY9BAHGJKNzSpFsEc9LSKv+VKoZ56Qd+siT+czMRacqHTSJZbiklsBWawk1AB4gnG4d/Zwk5hiZec5cti0nqYwK2VCg0MGVMgY5kavaGAecDneQI6K833Nyek8sPaCQlRS0AYgFpVn/YCQ+/0UF0FgGf8jjrCDKxJSegzvXgFIgTntzEvHyQpWnKL8nYm7EGJxuQNMlqFjzQFyv7iknUh/9YxbhAZLsirI5qSJzk6nJwQxX1qLzHjxRo9TTuEAWn8kNw==;OYNm1l1BE0q60DXxyMHhSA=="
 ---
 
