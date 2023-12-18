@@ -63,24 +63,6 @@ related:
         width: 650
         height: 450
         isCached: true
-  - title: "Artificial intelligence is revolutionizing medical research"
-    excerpt: "Artificial Intelligence (AI ... Once AI can de-code how speech is generated within the neural network, Greger envisions that patients will be able to mentally “speak” and have those thoughts translated, again by AI, into actual language."
-    publishedDateTime: 2023-12-15T00:00:00Z
-    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=64265.php"
-    type: article
-    provider:
-      name: Nanowerk
-      domain: nanowerk.com
-    quality: 21
-  - title: "The Evolution: Google’s Artificial Intelligence and Its Impact on Virtual Assistants"
-    excerpt: "Introduction: In the dynamic landscape of technology, one phenomenon has emerged as a trailblazer, shaping the way we interact with information – Google’s Artificial Intelligence (AI). This transformative force has left an indelible mark,"
-    publishedDateTime: 2023-12-15T14:44:00Z
-    webUrl: "https://techbullion.com/the-evolution-googles-artificial-intelligence-and-its-impact-on-virtual-assistants/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 10
 
 secured: "4lPRek2JaZ+XkVeGiuZsfaVLHBokItHnaSSJgBkX775bhuRGAsYAa06/phBRTlP98l0pAtMgvMI5p5eToSaxpv8OOiIanGeGX22z9pQ9KmOj2d1RbN9/N2qVTn4C8N28Am7XXqNFJAAnXSa5sgj91Y2VcSyIZBBqQmSmy8O3Z+PIUXTg0fphEnnAKcovTqQjHsPx76nb1TYtaAMvd4QSMQ0MgXi+dH/+VrYUUBJGRWdu2w9Vv+BeuX62A6EPl+e3lgiUoVUlJHGOZVw2UqxiS7s0EK08nvZYURmcuVygBC52i2eEYXuUrcmT8oZkDUwz0jkVUeATSNKrDms15pGnR3RLUc+6SQtAtsdYPbOkMqomjvVFoWwC9pMWdV8ziB5aMzxF0XjHtly8Wzcna3/nOzvUf3jize/4iTfOxn05QGk82Iq32ipFh2TaRPdtRmDEhz5/2lbqoupGoUVfkg1r2BBfS11VsNI2c10sDoUnKY2SQidD400/bSf/bWr3YbxwCsjMVtmhtaXim3QHGm7tPA==;6keWK8X+79T0raY4zfLQjQ=="
 ---

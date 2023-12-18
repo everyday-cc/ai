@@ -25,65 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft and Oracle announce that Oracle Database@Azure is now generally available"
-    excerpt: "We are excited to share that Oracle Database@Azure is generally available in the Azure United States East region, with more regions coming in 2024. You can now use Oracle database services running on Oracle Cloud Infrastructure (OCI) hardware deployed in Azure data centers. This streamlines the migration"
-    publishedDateTime: 2023-12-13T13:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/microsoft-and-oracle-announce-that-oracle-databaseazure-is-now-generally-available/"
+  - title: "Microsoft is a leader in the 2023 IDC MarketScape for AI Governance Platforms"
+    excerpt: "We are excited to announce that Microsoft Azure is recognized as a leader in the inaugural IDC MarketScape for AI Governance Platforms. IDC looked at AI governance platforms that ensure AI and machine learning lifecycle governance, collaborative risk management, and regulatory excellence for AI.\nThe"
+    publishedDateTime: 2023-12-14T17:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/blog/microsoft-is-a-leader-in-the-2023-idc-marketscape-for-ai-governance-platforms/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 113
+    quality: 101
     images:
-      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/12/MSC24-India-business-Adobe-550638570-rgb-scaled.jpg"
-        width: 2560
-        height: 1707
+      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/12/MS_AI_Education-social.jpg"
+        width: 943
+        height: 628
         isCached: true
-  - title: "Oracle Announces the General Availability of Oracle Database@Azure"
-    excerpt: "Oracle database services running on Oracle Cloud Infrastructure are deployed directly in Microsoft Azure datacenters AUSTIN, Texas, Dec. 13, 2023"
-    publishedDateTime: 2023-12-13T13:26:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/oracle-announces-the-general-availability-of-oracle-database-azure-1032896879"
+  - title: "Dell, Microsoft, Lenovo Laptops to Soon Feature Intel’s New Chip with Built-in AI Capabilities"
+    excerpt: "Intel, a leading technology company, announced Thursday that numerous personal computer manufacturers are utilizing their latest chip. This strategic move aims to entice consumers to upgrade their machines for the dawn"
+    publishedDateTime: 2023-12-15T09:10:00Z
+    webUrl: "https://www.econotimes.com/Dell-Microsoft-Lenovo-Laptops-to-Soon-Feature-Intels-New-Chip-with-Built-in-AI-Capabilities-1668035"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
-  - title: "LinkedIn scraps plans of relocating to Microsoft Azure"
-    excerpt: "LinkedIn has decided to stick with physical data centres. Today's announcement is a setback for Microsoft Corp."
-    publishedDateTime: 2023-12-14T15:27:00Z
-    webUrl: "https://invezz.com/news/2023/12/14/linkedin-scraps-relocating-microsoft-azure/"
-    type: article
-    provider:
-      name: Invezz
-      domain: invezz.com
-    quality: 54
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 59
     images:
-      - url: "https://invezz.com/wp-content/uploads/2023/12/souvik-banerjee-jlj-nbvlddo-unsplash-1-1-1024x683.jpg"
+      - url: "https://f1.econotimes.com/2023/12/p6j30bp4cg_th_1024x0.jpeg"
         width: 1024
-        height: 683
+        height: 614
         isCached: true
-  - title: "Oracle Database@Azure now available in Microsoft Azure East US region"
-    excerpt: "Oracle Cloud Infrastructure has deployed its Oracle database services in the Microsoft Azure East US region's data centers. Customers can now access the new Oracle Database@Azure service, which covers all the abilities of the Oracle Database, alongside Azure services such as the OpenAI Service for generative AI applications."
-    publishedDateTime: 2023-12-14T14:47:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/oracle-databaseazure-now-available-in-microsoft-azure-east-us-region/"
+  - title: "Microsoft Launches Robust AI 'Small Language Model' For Researchers"
+    excerpt: "Microsoft has released its newest compact“small language model” titled Phi-2 that continues to perform at par or better than"
+    publishedDateTime: 2023-12-17T08:09:00Z
+    webUrl: "https://menafn.com/1107609442/Microsoft-Launches-Robust-AI-Small-Language-Model-For-Researchers"
     type: article
     provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 49
-  - title: "Unlocking the power of AI: DataStax’s flexible database for the future"
-    excerpt: "The vector search is a key component of this flexibility because it can translate different databases into a language readable to AI. “What we try to do from an architecture standpoint is let you go and easily switch between them in any situation ..."
-    publishedDateTime: 2023-12-13T17:30:00Z
-    webUrl: "https://siliconangle.com/2023/12/13/unlocking-power-ai-datastaxs-flexible-database-future-supercloud5/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
+      name: Mena FN
+      domain: menafn.com
+    quality: 56
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/Ed-Anuff-Supercloud-5-2023.jpg"
-        width: 4898
-        height: 3265
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?537922"
+        width: 419
+        height: 250
         isCached: true
   - title: "Achieving cross-border data protection with Microsoft Cloud for Sovereignty"
     excerpt: "Organisations are paying for their data protection mistakes. Failure to comply with the European Union (EU)’s General Data Protection Regulation (GDPR), for example, can result in fines of up to €20.3 million ($22."
@@ -99,24 +81,15 @@ related:
         width: 975
         height: 548
         isCached: true
-  - title: "Microsoft to double Azure cloud capacity in Germany by early 2024"
-    excerpt: "Microsoft is to double the capacity of its Microsoft Azure cloud data centres in Germany by early 2024 to meet customer demand. It will achieve this by significantly expanding the country’s largest data centre hub,"
-    publishedDateTime: 2023-12-13T14:55:00Z
-    webUrl: "https://www.technologyrecord.com/article/microsoft-to-double-azure-cloud-capacity-in-germany-by-early-2024"
+  - title: "Microsoft homegrown AI model can run on smartphones, laptops"
+    excerpt: "Google brought its AI model Gemini Nano to the Pixel 8 Pro. Microsoft released Phi-2, a small language model that outperforms Meta Llama 2. Phi-2 requ"
+    publishedDateTime: 2023-12-13T14:24:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-homegrown-ai-model-can-run-on-smartphones-laptops/articleshow/105967667.cms"
     type: article
     provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 34
-  - title: "Oracle Announces the General Availability of Oracle Database@Azure"
-    excerpt: "The first Oracle Database@Azure service is now generally available in the Microsoft Azure East US region. Oracle will"
-    publishedDateTime: 2023-12-13T19:06:00Z
-    webUrl: "https://www.datanami.com/this-just-in/oracle-announces-the-general-availability-of-oracle-databaseazure/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 34
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 36
 
 secured: "mfxX81Lo/SspcmGzQ5j6Zm1je1Yji3YNa4QqIDIyjQsiDq4pnTc92pgiNaSFeXJnAM7HUUyNpMyBKTJmI1M8CJKvQGbP3SQkke0XovMMkDhjEntf7NSJB305LTBe8ESKs0JK3Zm7tQ93Y/O/Fi4NxxATWt+kuA9WpHm0q5ui5NjVN+BlRwnS2kAstGFy+/cMnEWAOug7wy060P4rgyBfP/yFKAJ2NHg/9cKFWu3YbAAjvSMsWQfV06gaCt3blAg/NwDXY7ga4wQW8LsJyDcieyun+VL81xN5RR3EGHmWF22IAFn2Pm8zBUjzraapYFZeTORW1/dXyj+4MLPkB7Hj/FOlCEfjPo9nWArCcJm0zJJ+281CbZ+dDG9Hih/lcl6dynB75KUCe2OgBlUsqj6jZYi2ulCHwUsuiPSWyk+Z13pKX6vm/pldC4tMBr9PjRRdKhpa6aXqunAfVWrUmRDdnl2rhQvmup/JfXFrQr3PsHN2frI6YR47OsCDPOzzNtTPhSndk07mxwy8NNpRdcKtnA==;iOWxxFlGIkNBmQw9ECH2Jw=="
 ---

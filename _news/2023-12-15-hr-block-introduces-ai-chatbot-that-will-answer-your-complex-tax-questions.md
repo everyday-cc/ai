@@ -72,15 +72,6 @@ related:
         width: 1200
         height: 1200
         isCached: true
-  - title: "Pennsylvania candidate tests AI chatbot as voter outreach tool in congressional campaign"
-    excerpt: "Pennsylvania Democrat Shamaine Daniels' congressional campaign is using a phone-banking tool powered by artificial intelligence. The chatbot engages in two-way conversations."
-    publishedDateTime: 2023-12-13T12:54:00Z
-    webUrl: "https://www.foxnews.com/politics/pennsylvania-candidate-tests-ai-chatbot-voter-outreach-tool-congressional-campaign"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 38
   - title: "Elon Musk’s Grok AI Chatbot Enters India"
     excerpt: "Elon Musk's AI startup is rolling out Grok to 46 other countries including Australia, Canada, Malaysia, New Zealand and Singapore among others"
     publishedDateTime: 2023-12-14T06:17:00Z
@@ -92,6 +83,20 @@ related:
       name: inc42
       domain: inc42.com
     quality: 37
+  - title: "5 questions about artificial intelligence, answered"
+    excerpt: "Artificial intelligence is one of the most incredible tools mankind has ever created. It’s also one of the most controversial. Some of AI’s pioneering researchers and developers think that, without proper management,"
+    publishedDateTime: 2023-12-18T05:00:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2023/12/18/artificial-intelligence-frequently-asked-questions/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 37
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WAMJ6PSJ4RCT3EDACYU7WDGUOU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "The Rise of Chatbots and Virtual Assistants: AI Applications in Customer Service"
     excerpt: "Welcome to a world where artificial intelligence meets customer service! In this era of technological innovation, chatbots, and virtual assistants have emerged as game-changers, transforming the way businesses interact with their customers."
     publishedDateTime: 2023-12-17T12:11:00Z

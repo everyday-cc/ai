@@ -30,60 +30,51 @@ images:
     isCached: true
 
 related:
-  - title: "AI In Healthcare: Are People Losing Or Gaining Control?"
-    excerpt: "In healthcare and beyond, the rise of artificial intelligence should give pause to both businesses and consumers—even as we learn to move forward."
-    publishedDateTime: 2023-12-13T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/13/ai-in-healthcare-are-people-losing-or-gaining-control/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/13/ai-in-healthcare-are-people-losing-or-gaining-control/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/13/ai-in-healthcare-are-people-losing-or-gaining-control/amp/"
+  - title: "Google unveils MedLM, a family of healthcare-focused generative AI models"
+    excerpt: "AI in healthcare, historically, has been met with mixed success. Babylon Health, an AI startup backed by the U.K.’s National Health Service, has found itself under repeated scrutiny for making claims that its disease-diagnosing tech can perform better ..."
+    publishedDateTime: 2023-12-13T15:00:00Z
+    webUrl: "https://techcrunch.com/2023/12/13/google-unveils-medlm-a-family-of-healthcare-focused-generative-ai-models/"
+    ampWebUrl: "https://techcrunch.com/2023/12/13/google-unveils-medlm-a-family-of-healthcare-focused-generative-ai-models/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/13/google-unveils-medlm-a-family-of-healthcare-focused-generative-ai-models/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 103
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1337404332-1.jpg?resize=1200,802"
+        width: 1200
+        height: 802
+        isCached: true
+  - title: "Google Launches A Healthcare-Focused LLM"
+    excerpt: "Google has unveiled MedLM, a collection of foundation models tailored for the healthcare industry, making it available to selected Google Cloud customers in the USA."
+    publishedDateTime: 2023-12-17T14:38:00Z
+    webUrl: "https://www.forbes.com/sites/davidchou/2023/12/17/google-launches-a-healthcare-focused-llm/"
+    ampWebUrl: "https://www.forbes.com/sites/davidchou/2023/12/17/google-launches-a-healthcare-focused-llm/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/12/17/google-launches-a-healthcare-focused-llm/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 104
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/651ae5f9c817fd613f5f0e9c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
+      - url: "https://imageio.forbes.com/specials-images/imageserve/657f046fb0c8270387e93d83/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
         height: 900
         isCached: true
-  - title: "AI in healthcare: Duke Health signs pledge for ethical, responsible use"
-    excerpt: "Duke Health is among a leading group of health systems and payers from across the U.S. to sign a pledge advancing ethical and responsible use of Artificial Intelligence technology in health care."
-    publishedDateTime: 2023-12-15T11:37:00Z
-    webUrl: "https://wraltechwire.com/2023/12/15/ai-in-healthcare-duke-health-signs-pledge-for-ethical-responsible-use/"
-    ampWebUrl: "https://wraltechwire.com/2023/12/15/ai-in-healthcare-duke-health-signs-pledge-for-ethical-responsible-use/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/12/15/ai-in-healthcare-duke-health-signs-pledge-for-ethical-responsible-use/?amp=1"
+  - title: "Google launches MedLM generative AI models for the healthcare industry"
+    excerpt: "Among those is MedLM, a group of AI models specifically geared ... conversations and automatically translate them into medical notes. According to Google, adding MedLM’s generative AI to Augmedix’s natural language processing will help to continuously ..."
+    publishedDateTime: 2023-12-14T11:14:00Z
+    webUrl: "https://www.fiercebiotech.com/medtech/google-launches-medlm-generative-ai-models-healthcare-industry"
     type: article
     provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 91
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 56
     images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2023/12/robot-AI-doctor-e1702640075182.jpg"
-        width: 1262
-        height: 710
-        isCached: true
-  - title: "Navigating AI in Healthcare: Dr. Donald Macfarlane's Warning on AI-Driven Medical Note-Taking"
-    excerpt: "Dr. Donald Macfarlane warns against the use of AI-driven tools in medical note-taking due to fabrications that will negatively impact patient"
-    publishedDateTime: 2023-12-15T18:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/navigating-ai-in-healthcare-dr.-donald-macfarlanes-warning-on-aidriven-medical-notetaking-1032905719"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 55
-  - title: "CVS, Geisinger, others sign responsible AI in healthcare pledge"
-    excerpt: "A survey conducted earlier this year by the American Medical Association found 65% of physicians saw an advantage to AI in healthcare, with the greatest enthusiasm for tools that could reduce administrative burdens in medical documentation or prior ..."
-    publishedDateTime: 2023-12-15T00:00:00Z
-    webUrl: "https://www.healthcaredive.com/news/artificial-intelligence-healthcare-white-house-pledge/702670/"
-    type: article
-    provider:
-      name: Healthcare Dive
-      domain: healthcaredive.com
-    quality: 54
-    images:
-      - url: "https://www.healthcaredive.com/imgproxy/oWi6hxL6UCucLVJk4YmYQ4l1w1snnbyyWznNfvaGyC8/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEzNzE2OTYwNi5qcGc.jpg"
-        width: 770
-        height: 435
+      - url: "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1642519310/shutterstock_552493561.jpg/shutterstock_552493561.jpg?VersionId=LeJ1TxPxtZUluu3M8xjR.93_nR28t8TP"
+        width: 1000
+        height: 667
         isCached: true
   - title: "Google Launches Generative Artificial Intelligence Models for Healthcare"
     excerpt: "Google’s newly introduced MedLM is a suite of foundation models designed for healthcare, with two generative AI tools built on the large language model Med-PaLM 2."
@@ -99,6 +90,38 @@ related:
         width: 690
         height: 400
         isCached: true
+  - title: "Google Cloud partners with Mistral AI on generative language models"
+    excerpt: "\"As part of the agreement, Mistral AI will use Google Cloud’s AI-optimized infrastructure, including TPU Accelerators, to further test, build, and scale up its LLMs (large language models), all while benefiting from Google Cloud's security and privacy standards,"
+    publishedDateTime: 2023-12-13T17:09:00Z
+    webUrl: "https://www.aol.com/news/google-cloud-partners-mistral-ai-150922762.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/ae6e560fd2298f254e74c9c7588ae42c"
+        width: 800
+        height: 528
+        isCached: true
+  - title: "Google announces AI uses for health care market"
+    excerpt: "Google LLC announced its latest foray into artificial intelligence Wednesday with the debut of MedLM, a suite of new health care-focused large language models (LLMs) tools. Alphabet Inc. (Nasdaq: GOOGL)-owned Google has been testing the AI platform with ..."
+    publishedDateTime: 2023-12-14T00:01:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/12/14/google-announces-ai-uses-for-health-care-market.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
+  - title: "Google offers enhanced generative AI features for cloud customers"
+    excerpt: "Alphabet Inc.’s Google announced a slate of upgraded artificial intelligence features for its cloud-computing clients as the technology giant tries to catch up with rivals, including the allied forces of Microsoft Corp. and startup OpenAI, who have taken advantage of the AI boom."
+    publishedDateTime: 2023-12-14T02:28:00Z
+    webUrl: "https://www.theedgesingapore.com/digitaledge/news/google-offers-enhanced-generative-ai-features-cloud-customers"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 19
 
 secured: "rKD3RrrdTg4uR8MUMkLnMZ66ZnfbJXNIQesUWKgGuuWNjez2GbkJ7cCDcZmEmK97b0Ww/dQt5y86J7858hYAlsoABLizeg2I0K2QfWCiOc0ZWuXyhiszGCNKG5J0JI+y63bFSse+yZldeXVcL5h0xJzBEplGAJVHPIgJiyTfvS6+9JWa1BEhyPeW0cEAOLXkDGFhQDvVtsF1Wl0WXHvPDJ93UfPakiljV3yLCRUMHqjpx25jkudMF99NghlRjnOulPvwN44pmtS1zbQj1c9ADnJSrUd6iJNbgn9w+No3suM5l87ZguQzUq0pphBEbIegy+gJ6wius0o+ButhQn926JA41spM+39n2VLsUcm4MTpa43eZSp8xKOslAPCwtUgkNe5d7IwPoJIKL3lhno+bZcbBElFxo8c8U7Pk34p242SB4MK6bTucxkkHf6lfVMklKVFeH798eCCk/Hm4A3nLf9KaGYsyOaO0QOC5cijb8vfDjavHHPiSWJDWqpYw9Yj/OFKfuFI+r19xs99NQPBbgw==;keBP7lLTD7lN7qvPqSadrw=="
 ---

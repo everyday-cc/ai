@@ -37,6 +37,22 @@ related:
         width: 2560
         height: 1706
         isCached: true
+  - title: "Microsoft's Azure OpenAI service adds GPT-4 Turbo with Vision in a public preview0 0"
+    excerpt: "The same thing can also be done with the AI analysingspecific frames of a video. Microsoft added: By combining GPT-4 Turbo with Vision, Azure AI Search, and Azure AI Vision, images can now be ..."
+    publishedDateTime: 2023-12-14T17:24:00Z
+    webUrl: "https://www.neowin.net/news/microsofts-azure-openai-service-adds-gpt-4-turbo-with-vision-in-a-public-preview/"
+    ampWebUrl: "https://www.neowin.net/amp/microsofts-azure-openai-service-adds-gpt-4-turbo-with-vision-in-a-public-preview/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsofts-azure-openai-service-adds-gpt-4-turbo-with-vision-in-a-public-preview/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 112
+    images:
+      - url: "https://cdn.neowin.com/news/images/uploaded/2023/12/1702570579_fisayo_feyisetan_0-1702511757165_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "Fortifying confidential computing in Microsoft Azure"
     excerpt: "Hardware-backed confidential computing in Microsoft Azure now includes protected environments for VMs, containers, and GPUs, without the need to write specialized code."
     publishedDateTime: 2023-12-14T10:00:00Z

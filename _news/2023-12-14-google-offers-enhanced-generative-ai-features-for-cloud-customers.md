@@ -51,6 +51,20 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Safe AI for healthcare: Providers pursue ‘once-in-a-generation’ benefits of large-scale models"
+    excerpt: "Leading healthcare entities sign the Biden-⁠Harris Admin's voluntary commitments for the safe, secure use of AI for healthcare."
+    publishedDateTime: 2023-12-15T19:19:00Z
+    webUrl: "https://venturebeat.com/ai/safe-ai-for-healthcare-providers-pursue-once-in-a-generation-benefits-of-large-scale-models/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1251551899-e1702664137230.jpg?fit=750%2C422&#038;strip=all"
+        width: 750
+        height: 375
+        isCached: true
   - title: "Google launches MedLM generative AI models for the healthcare industry"
     excerpt: "Among those is MedLM, a group of AI models specifically geared ... conversations and automatically translate them into medical notes. According to Google, adding MedLM’s generative AI to Augmedix’s natural language processing will help to continuously ..."
     publishedDateTime: 2023-12-14T11:14:00Z
@@ -64,6 +78,20 @@ related:
       - url: "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1642519310/shutterstock_552493561.jpg/shutterstock_552493561.jpg?VersionId=LeJ1TxPxtZUluu3M8xjR.93_nR28t8TP"
         width: 1000
         height: 667
+        isCached: true
+  - title: "Google Launches Generative Artificial Intelligence Models for Healthcare"
+    excerpt: "Google’s newly introduced MedLM is a suite of foundation models designed for healthcare, with two generative AI tools built on the large language model Med-PaLM 2."
+    publishedDateTime: 2023-12-13T14:01:00Z
+    webUrl: "https://healthitanalytics.com/news/google-launches-generative-artificial-intelligence-models-for-healthcare"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 53
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/Getty_correct_size_chatGPT.png"
+        width: 690
+        height: 400
         isCached: true
   - title: "Google Cloud partners with Mistral AI on generative language models"
     excerpt: "\"As part of the agreement, Mistral AI will use Google Cloud’s AI-optimized infrastructure, including TPU Accelerators, to further test, build, and scale up its LLMs (large language models), all while benefiting from Google Cloud's security and privacy standards,"

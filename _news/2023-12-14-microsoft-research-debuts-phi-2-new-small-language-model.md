@@ -38,6 +38,34 @@ related:
         width: 2560
         height: 1440
         isCached: true
+  - title: "LinkedIn scraps plans of relocating to Microsoft Azure"
+    excerpt: "LinkedIn has decided to stick with physical data centres. Today's announcement is a setback for Microsoft Corp."
+    publishedDateTime: 2023-12-14T15:27:00Z
+    webUrl: "https://invezz.com/news/2023/12/14/linkedin-scraps-relocating-microsoft-azure/"
+    type: article
+    provider:
+      name: Invezz
+      domain: invezz.com
+    quality: 54
+    images:
+      - url: "https://invezz.com/wp-content/uploads/2023/12/souvik-banerjee-jlj-nbvlddo-unsplash-1-1-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Microsoft releases Phi-2 small language model."
+    excerpt: "Better than a Llama Microsoft Research has announced the release of its Phi-2 small language model (SML), a text-to-text AI programme that is \"small enough to run on a laptop or mobile device.\" Phi-2 has 2."
+    publishedDateTime: 2023-12-18T11:00:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/58122-microsoft-releases-phi-2-small-language-model"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 41
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/4ef80b49eecc3f00ffdcd8a966211d06_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
 
 secured: "mSCSysVf7rfaJHibLh6EpQHIFv1ADyB8Cjg3EH4w4jDRhmKhIbeDAI69WuoLXkkPmt0jm//7aiicWWebH8DvUP7x7W0x0AcL14VeOAEoN9oSn1BJiEncfq4sI1fldl5IunNIJyxD1PLcW9zB2/EymJnoq/xTxjPw5i4+WtNs78gLEIkLgiI45Zqp0fjB7h04lyX9T5/gsku4A4C0H0q61gm9gBuOmXQw+75mqVD2cR49MbrGwtj75+lmeea+vNd44+4IytY2jgLbxjUo8lF6WjMocg/QpHYctBgP6mZnTRrLk0p5mYx3RMN5/j2s6cfS7xzV34XBQB51TmIln9vS0J6+gLvAWHQFF7i4Bzj2+PzkETnjYfX3W7x4+1yAXJTR9RbPN7lR3ZGbURzoO2CyKPEYCNzaHPyrpgfW8LIWw1Qb/By8+O93D+c+j3xOhpTfJPOWymnwCAQ7/4sI8GZiIGN4mzeC+829Cv3OvnsrB73h86iL/oXw8cQOZVzvh+CwnSqSRNb+Zbz5mj/Ci3J5pg==;TcrofPqErSaUi0bK/1sezg=="
 ---

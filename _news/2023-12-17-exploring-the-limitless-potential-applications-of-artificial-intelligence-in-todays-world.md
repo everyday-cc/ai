@@ -42,19 +42,19 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "How To Unleash The Potential Of AI Copilots In Manufacturing"
-    excerpt: "For years, AI has promised numerous benefits to workers such as increased productivity and the freedom to focus on substantial tasks rather than tedious administrative work. However, these promises often fell short. Can \"copilots\" be the breakthrough we've been waiting for and fulfill these long-standing promises?"
-    publishedDateTime: 2023-12-13T12:46:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/13/how-to-unleash-the-potential-of-ai-copilots-in-manufacturing/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/13/how-to-unleash-the-potential-of-ai-copilots-in-manufacturing/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/13/how-to-unleash-the-potential-of-ai-copilots-in-manufacturing/amp/"
+  - title: "The Pitfalls Of AI In B2B Tech Content"
+    excerpt: "While businesses should be looking to responsibly and carefully work generative AI tools into their workflow, there are a few areas where the tech comes up short."
+    publishedDateTime: 2023-12-18T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/12/18/the-pitfalls-of-ai-in-b2b-tech-content/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/12/18/the-pitfalls-of-ai-in-b2b-tech-content/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/12/18/the-pitfalls-of-ai-in-b2b-tech-content/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/61f030570018a072dc46d1ec/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5ee8c0a4bcc30e0006c1d9f4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1350
         height: 900
         isCached: true

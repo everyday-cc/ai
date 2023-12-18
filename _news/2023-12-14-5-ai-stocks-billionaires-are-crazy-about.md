@@ -19,15 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "2 Artificial Intelligence Stocks To Watch This Week"
-    excerpt: "The artificial intelligence (AI) sector is a rapidly growing area in the tech industry, focusing on creating intelligent machines that work and react like humans. AI technology includes machine learning, natural language processing, and robotics ..."
-    publishedDateTime: 2023-12-18T01:16:00Z
-    webUrl: "https://www.nasdaq.com/articles/2-artificial-intelligence-stocks-to-watch-this-week"
+  - title: "Artificial Intelligence Billionaire's Death Prompts Stock Selloff"
+    excerpt: "Tang Xiao’ou, seen here speaking at a 2019 conference, has died at 55. (Xinhua/Zuma Press) Stock in SenseTime hit a record low Monday after the Chinese artificial-intelligence specialist said its controlling shareholder, billionaire academic Tang Xiao ..."
+    publishedDateTime: 2023-12-18T11:48:00Z
+    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-12-18-2023/card/artificial-intelligence-billionaire-s-death-prompts-stock-selloff-TN3WO8bOsufAn2ygMHMi"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 82
+    images:
+      - url: "https://images.wsj.net/im-902108/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "psHeDHkjzTA49q7xFlHIAgJceXt8TwHHLiuKW1M/qVMOsyPOmrYxYPrSa056Sy+M23YhFV0+8UB0843l6kDr4Pnc21C2QpP3WQ2iEJXbhRptzeFSfY5y1HFLC3ghQVyvlPB1X00u3tjaPGgZT3QOWRkZd054P93OHTU/eoZj3n0fiw2uhv+6yTwF7g+8g/py0lKJfFbeVz/0+hs/rggV4vLCBoFsOi3gpK/nXFhyS8oZ19CJ9OA/iexGHQOEURsM3/sUMDCq8966r/AnYB9fLlXM7w76uf6TdRrSXjZ3/xmhX2alk0wZNv9DvIAYkGe+u77XPS8HUUjwRnfBchBdbfqF8wWHXXAVMBMcEcQdpfKrmXnjdVzNOT/WLU+qFXRBXC0zf87BPjzJMvQh1W8W7avW4pQbCLPPIrKwX0TfGg7HaBhKtwzUqOQ9ZD9l3I+Dy3039Pp6zcEARG304FvnDlHi+NDHbhxZvhIqS7GQMFc5iW3ZJwD1qZm6FzzJGxIrF2U8osBW1rWH98rTvmCh4g==;ExyVjob7iHaO28p4yXCiTA=="
 ---

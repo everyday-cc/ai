@@ -67,6 +67,15 @@ related:
         width: 650
         height: 450
         isCached: true
+  - title: "Implementing AI technology in business education"
+    excerpt: "With that idea in mind, I want to share my experiences and those of my colleagues here at Gies College of Business at the University of Illinois Urbana–Champaign . Our approach to adopting artificial intelligence (AI) illustrates how we can embrace new technologies and prepare students for what they will encounter in their future careers."
+    publishedDateTime: 2023-12-18T10:00:00Z
+    webUrl: "https://www.chicagobusiness.com/crains-content-studio/implementing-ai-technology-business-education"
+    type: article
+    provider:
+      name: Crain's Chicago Business
+      domain: chicagobusiness.com
+    quality: 36
   - title: "How 4 NYC high school students say AI-powered tools are changing their education"
     excerpt: "New York City has grappled this year with how to respond to ChatGPT and other artificial intelligence-powered tools, banning them on school devices before later reversing course."
     publishedDateTime: 2023-12-14T12:45:00Z

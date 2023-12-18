@@ -47,6 +47,20 @@ related:
         width: 656
         height: 656
         isCached: true
+  - title: "Atomic AI Creates First Large Language Model Using Chemical Mapping Data to Optimize RNA Therapeutic Development"
+    excerpt: "Atomic AI, a biotechnology company fusing cutting-edge machine learning with state-of-the-art structural biology to unlock RNA drug discovery, announced that the Company has created the first large language model (LLM) leveraging chemical mapping data."
+    publishedDateTime: 2023-12-18T11:42:00Z
+    webUrl: "https://www.pharmiweb.com/pwtoday-story/atomic-ai-creates-first-large-language-model-using-chemical-mapping-data-to-optimize-rna-therapeutic-development"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 18
+    images:
+      - url: "https://cdn.pharmiweb.com/media/17391/atomic-ai-300x400.jpg"
+        width: 300
+        height: 400
+        isCached: true
   - title: "Bearing Fruit: Deep Apple Therapeutics Launches to Screen AI-Generated Virtual Libraries"
     excerpt: "Deep Apple launched with a Series A commitment of $52 million from life sciences venture capital firm Apple Tree Partners."
     publishedDateTime: 2023-12-14T12:30:00Z

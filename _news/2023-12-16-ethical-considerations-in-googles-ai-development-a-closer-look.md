@@ -64,24 +64,6 @@ related:
       name: NoCamels - Israeli Innovation News
       domain: nocamels.com
     quality: 34
-  - title: "Artificial intelligence is revolutionizing medical research"
-    excerpt: "Artificial Intelligence (AI ... Once AI can de-code how speech is generated within the neural network, Greger envisions that patients will be able to mentally “speak” and have those thoughts translated, again by AI, into actual language."
-    publishedDateTime: 2023-12-15T00:00:00Z
-    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=64265.php"
-    type: article
-    provider:
-      name: Nanowerk
-      domain: nanowerk.com
-    quality: 21
-  - title: "The Evolution: Google’s Artificial Intelligence and Its Impact on Virtual Assistants"
-    excerpt: "Introduction: In the dynamic landscape of technology, one phenomenon has emerged as a trailblazer, shaping the way we interact with information – Google’s Artificial Intelligence (AI). This transformative force has left an indelible mark,"
-    publishedDateTime: 2023-12-15T14:44:00Z
-    webUrl: "https://techbullion.com/the-evolution-googles-artificial-intelligence-and-its-impact-on-virtual-assistants/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 10
 
 secured: "owSzmZhCWe/hFBxSdjDkaMH76ijMowNAVZpSdL31Am9rtm1vgB138cbeCMk8B0ZHIVLVf6FMFMp7r0PnOb58I1ayXTm0CEXe80wTj5t9sdpeZFqCMjrtKLeOw0c2fvY6D0eTPmZmX2qRIsZxnzCOxHAKqe1fAoA9QLUtLQ71tbvgQDTlDT+rpTT713WPPOYX1r3PYN6Y5ibeTuAGZ6LYCoB0EcCvuMhFZfspYHWjUMzK/J6pecYnSXeg1F8BV7Y3qM60qQAGgUY5tq3sJ4/FSqjMV3TnVVMDsLhMPlWXVtXGzv09+jqHfHmacMASJLw2fX0qkJ4cXzOB6UfZ4FG84egNOkloV/mMBfuUorWzu32S0+kb0BtjZoo4nJBjyCE7u4EVcLN3GaSilbX3K6Nvu+5sfOsAfsUbQ29Tbot0+nFKiAI9ZUIjynCQtlqZDk2QD3YJe8bjgIPYGwnEezLNa8d/XQabjILlkYJ699fncn1/orrZzGHsMvibLUjq7HsUUEK0xvYLW0fpaPiya9G6HQ==;Il4bNl6ai6g+zchJyZqKyg=="
 ---

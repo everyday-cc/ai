@@ -120,20 +120,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Google Launches Its New AI Model - Gemini"
-    excerpt: "Google launched Gemini, its new generative AI model that will compete with ChatGPT, however not everything is as it was presented to be."
-    publishedDateTime: 2023-12-13T11:37:00Z
-    webUrl: "https://www.cybersecurityintelligence.com/blog/google-launches-its-new-ai-model---gemini-7352.html"
-    type: article
-    provider:
-      name: cybersecurityintelligence.com
-      domain: cybersecurityintelligence.com
-    quality: 39
-    images:
-      - url: "https://www.cybersecurityintelligence.com/files/upload/htmleditor/ugVEvwkT%20bard%20google%20titter%20image.jpeg"
-        width: 900
-        height: 471
-        isCached: true
   - title: "Building custom Gemini Pro AI models with new API"
     excerpt: "As announced earlier this month Google has now made available its new Gemini artificial intelligence API enabling developers ... It outperforms other similarly-sized models on multiple research benchmarks. Additionally, it comes with a 32K context window ..."
     publishedDateTime: 2023-12-14T12:11:00Z

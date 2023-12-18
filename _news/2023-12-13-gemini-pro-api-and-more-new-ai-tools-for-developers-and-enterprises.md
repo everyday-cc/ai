@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/google-gemini-pro-imagen-duet-ai-u
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-gemini-pro-imagen-duet-ai-update/amp/"
 type: article
 quality: 109
-heat: 219
+heat: 209
 published: true
 
 provider:
@@ -118,20 +118,6 @@ related:
       - url: "https://www.androidauthority.com/wp-content/uploads/2023/12/Gemini-Google-Logo.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Google Launches Its New AI Model - Gemini"
-    excerpt: "Google launched Gemini, its new generative AI model that will compete with ChatGPT, however not everything is as it was presented to be."
-    publishedDateTime: 2023-12-13T11:37:00Z
-    webUrl: "https://www.cybersecurityintelligence.com/blog/google-launches-its-new-ai-model---gemini-7352.html"
-    type: article
-    provider:
-      name: cybersecurityintelligence.com
-      domain: cybersecurityintelligence.com
-    quality: 39
-    images:
-      - url: "https://www.cybersecurityintelligence.com/files/upload/htmleditor/ugVEvwkT%20bard%20google%20titter%20image.jpeg"
-        width: 900
-        height: 471
         isCached: true
   - title: "Building custom Gemini Pro AI models with new API"
     excerpt: "As announced earlier this month Google has now made available its new Gemini artificial intelligence API enabling developers ... It outperforms other similarly-sized models on multiple research benchmarks. Additionally, it comes with a 32K context window ..."

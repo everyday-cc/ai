@@ -57,22 +57,6 @@ related:
         width: 1600
         height: 899
         isCached: true
-  - title: "Certinia uses AI to accelerate finance functions for service companies"
-    excerpt: "Certinia is using predictive AI to deliver more precise forecasts of cash flow and days to pay, based on analyses of trends in customer payments, and to forecast how many days it will take to staff resource requests, help enterprises keep projects on schedule, or to manage their customers’ expectations when things fall behind."
-    publishedDateTime: 2023-12-13T13:00:00Z
-    webUrl: "https://www.cio.com/article/1258572/certinia-uses-ai-to-accelerate-finance-functions-for-service-companies.html"
-    ampWebUrl: "https://www.cio.com/article/1258572/certinia-uses-ai-to-accelerate-finance-functions-for-service-companies.html/amp/"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/1258572/certinia-uses-ai-to-accelerate-finance-functions-for-service-companies.html/amp/"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 76
-    images:
-      - url: "https://www.cio.com/wp-content/uploads/2023/12/Dan-Brown-chief-product-strategy-officer-Certinia.png?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Cloud-lending startup Lentra launches 3 AI products for financial sector"
     excerpt: "The company launched AI products, namely Lentra Convo, Lentra Insights, and Lentra Wingman, to serve lenders with solutions that enhance the lending processes"
     publishedDateTime: 2023-12-13T15:10:00Z
@@ -85,6 +69,6 @@ related:
       domain: business-standard.com
     quality: 36
 
-secured: "wqc/rTCjO/j5UNKmTPGf+xrA6KjhBP4B3gdldxpr709dwOjXpOLne1a97uLKSCnWzGzD/bdBmrL1RmkxiYA84iAPiMX4OZ3Ngpmu+u3QPtkdrmm8b7PcZAiH4pqB5RzAB+fEmp5X5g9YWsVNEToSivdzUziRm+zLfKrqRvcPDgT6kCjPtQ+yNzs+ibXA/zHQY/mtSRoP7hRSsEHU9T+4ZzTRwRqhSLHwwgZ5FqMIdvmfbJ+qYbAoDLMbVTImqMeEenpjRSyptA9SCbhz5lpF3QK64jksZVFZTNSk9FYAl2WRGLRTPLaeVE2xl4EHKMSp6yfT+SQ41q94ZQhg8cNLku7tjCBF81PvzmbGyM7MDDg=;PETthrcPBXMkkkmisCMdQw=="
+secured: "cGAJR2wag3wpXzERWD1YV9+UKDxE+pkQJAA6Ce7Dfv8x88jVMzTKUe2PXkn7F4BaQtjNgIA8u/XcfmEOwpyqCg5IyDQdrc5VJMzfuJVgmFPmmWvaDKyGhy7DqCoD4tCvItqT68tm2et5MQvhi/KRILnUJyruZcN0vDIlIgTYFGqPZ8d67Yq3aouGfms/LX2kieRgs+oHeqgjtNQu84pDhgSremptzFGnTzmHMtwWwYZiOcX9ONO58KSm915+y71BCqzheerRqdflWlN6CFQS9E2EnEmq5pr5qHVMZJmAvnyb1UD05M+YS1Wu5+pz2RIs46DM+pJ0e6TOcXTX915ZOX4W5nYl1FgQg5KSrH3AFLCCxp8WF/nnyFWZD1h7ZJ2cJfl34EgWk3mDU6Se1EA1tEpEYpxGhh14VzXnBoyxsns545ZfKpeNdWjeK9Ruuvghrt4+0h4QOWkNiT8gTkL1ZtpxLZ6IY19p2KHksjxBFBFJeKnv8B6DWXeWWhocF8U1PzFC4d5PeFjDw66xDKO/Vw==;I7MRoMqESg61bdVkbjLSgw=="
 ---
 

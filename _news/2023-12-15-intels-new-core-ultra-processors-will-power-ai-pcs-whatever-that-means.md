@@ -354,15 +354,6 @@ related:
         width: 1102
         height: 927
         isCached: true
-  - title: "BitHuman introduces lifelike AI agents for enterprises"
-    excerpt: "BitHuman is pioneering a new horizon in the AI landscape, boasting agents tailored for the enterprise realm. Their forte lies in crafting comprehensive AI solutions, facilitating real-time, photorealistic, human-like experiences across sectors such as hospitality, fashion, retail, healthcare, and beyond."
-    publishedDateTime: 2023-12-13T12:00:00Z
-    webUrl: "https://venturebeat.com/ai/bithuman-introduces-lifelike-ai-agents-for-enterprises/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
   - title: "Intel debuts AI-accelerated Core Ultra and 5th Gen Xeon chips to enable AI to run in any location"
     excerpt: "Intel debuts AI-accelerated Core Ultra and 5th Gen Xeon chips to enable AI to run in any location - SiliconANGLE"
     publishedDateTime: 2023-12-14T15:00:00Z

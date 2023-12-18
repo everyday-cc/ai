@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/kalinabryant/2023/12/13/how-ai-is-impac
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kalinabryant/2023/12/13/how-ai-is-impacting-society-and-shaping-the-future/amp/"
 type: article
 quality: 91
-heat: 231
+heat: 241
 published: true
 
 provider:
@@ -119,6 +119,22 @@ related:
       - url: "https://www.forbes.com/advisor/wp-content/uploads/2023/12/How-AI-Is-Influencing-The-Mortgage-Industry-Ft-Image.jpg"
         width: 766
         height: 431
+        isCached: true
+  - title: "The EU AI Act - dissecting the detail"
+    excerpt: "The European Union's ongoing debate about regulating “General-Purpose AI” (GPAI) under the Artificial Intelligence Act (AIA) enters a new phase."
+    publishedDateTime: 2023-12-18T11:43:00Z
+    webUrl: "https://diginomica.com/eu-ai-act-dissecting-detail"
+    ampWebUrl: "https://diginomica.com/eu-ai-act-dissecting-detail?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/eu-ai-act-dissecting-detail?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 59
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2019-03/BAC4C93B-CED2-461B-99FB-60C96BB3FD17.jpeg"
+        width: 640
+        height: 426
         isCached: true
   - title: "The Impact of Artificial Intelligence On Real Estate Marketing"
     excerpt: "Artificial Intelligence (AI) has become a driving force across various industries, reshaping traditional practices and enhancing efficiency. In the realm of real estate, AI is revolutionizing marketing strategies,"

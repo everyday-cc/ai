@@ -45,6 +45,22 @@ related:
         width: 2560
         height: 1706
         isCached: true
+  - title: "Microsoft's Azure OpenAI service adds GPT-4 Turbo with Vision in a public preview0 0"
+    excerpt: "The same thing can also be done with the AI analysingspecific frames of a video. Microsoft added: By combining GPT-4 Turbo with Vision, Azure AI Search, and Azure AI Vision, images can now be ..."
+    publishedDateTime: 2023-12-14T17:24:00Z
+    webUrl: "https://www.neowin.net/news/microsofts-azure-openai-service-adds-gpt-4-turbo-with-vision-in-a-public-preview/"
+    ampWebUrl: "https://www.neowin.net/amp/microsofts-azure-openai-service-adds-gpt-4-turbo-with-vision-in-a-public-preview/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsofts-azure-openai-service-adds-gpt-4-turbo-with-vision-in-a-public-preview/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 112
+    images:
+      - url: "https://cdn.neowin.com/news/images/uploaded/2023/12/1702570579_fisayo_feyisetan_0-1702511757165_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "Alphabet Needs to Show Path to AI Sales in Race With Microsoft"
     excerpt: "“The whole business model depends on getting this right,” said Gene Munster, co-founder and managing partner at Deepwater Asset Management, whose firm holds the stock. “If they can nail multi-modal generative AI, that will draw usage to Google, and that increased usage will protect and grow the search business.”"
     publishedDateTime: 2023-12-15T01:46:00Z

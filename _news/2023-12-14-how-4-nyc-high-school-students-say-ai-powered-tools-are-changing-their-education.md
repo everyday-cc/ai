@@ -73,6 +73,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "Implementing AI technology in business education"
+    excerpt: "With that idea in mind, I want to share my experiences and those of my colleagues here at Gies College of Business at the University of Illinois Urbana–Champaign . Our approach to adopting artificial intelligence (AI) illustrates how we can embrace new technologies and prepare students for what they will encounter in their future careers."
+    publishedDateTime: 2023-12-18T10:00:00Z
+    webUrl: "https://www.chicagobusiness.com/crains-content-studio/implementing-ai-technology-business-education"
+    type: article
+    provider:
+      name: Crain's Chicago Business
+      domain: chicagobusiness.com
+    quality: 36
 
 secured: "koGuVMEGj8LRGQx4Os97doUEJDoWiZ+LL+nFpGlxNWEc37W0bQm7M7tl51qGMgYgr7ptw/4bbq6i261i/bAIfP0mlsJ2LrhPaGUHume9cuO8qSf/Pk6wQN0x1pcTW4k8tZ9eBVc0N+/MN0OHErBzfutrcuztLLJ5F7Cco8ZHxKkhzbUvMyiU85RSs/XsOL5nhSdNMdxtWp3gxYRtV06JM8WndOqW0VlxAU/MjiwGXoFsxHcqhiENvMQ7knn/eoAAeZEUXQKnWQx8rjv/rfZ+YWlHy2n59CthDfQkY5EDXsxhQq/eyTRj9qm9fX6LJ/zJhuTbcYIX1CKHgm16xQrYY8uE6DRjUHLNpccU8aRjGgg=;ogmzG2LBhRq8lFrcSeak5Q=="
 ---

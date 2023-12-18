@@ -129,20 +129,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Google Launches Its New AI Model - Gemini"
-    excerpt: "Google launched Gemini, its new generative AI model that will compete with ChatGPT, however not everything is as it was presented to be."
-    publishedDateTime: 2023-12-13T11:37:00Z
-    webUrl: "https://www.cybersecurityintelligence.com/blog/google-launches-its-new-ai-model---gemini-7352.html"
-    type: article
-    provider:
-      name: cybersecurityintelligence.com
-      domain: cybersecurityintelligence.com
-    quality: 39
-    images:
-      - url: "https://www.cybersecurityintelligence.com/files/upload/htmleditor/ugVEvwkT%20bard%20google%20titter%20image.jpeg"
-        width: 900
-        height: 471
-        isCached: true
   - title: "Google’s fake Gemini AI features might become a reality on the Pixel 9"
     excerpt: "While we have no timeframe for when these advanced AI features might arrive, a pair of reports signals it might happen as soon as next year. The Pixel 9 might feature a brand new Pixie AI assistant that could be exclusive to Pixel phones. Additionally, Google is looking at using AI tech on smart glasses, just like Meta."
     publishedDateTime: 2023-12-15T17:23:00Z

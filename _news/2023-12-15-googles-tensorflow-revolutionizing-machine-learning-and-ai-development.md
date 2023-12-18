@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/googles-tensorflow-revolutionizing-machine
 webUrl: "https://techbullion.com/googles-tensorflow-revolutionizing-machine-learning-and-ai-development/"
 type: article
 quality: 87
-heat: 142
+heat: 122
 published: true
 
 provider:
@@ -66,24 +66,6 @@ related:
       name: NoCamels - Israeli Innovation News
       domain: nocamels.com
     quality: 34
-  - title: "Artificial intelligence is revolutionizing medical research"
-    excerpt: "Artificial Intelligence (AI ... Once AI can de-code how speech is generated within the neural network, Greger envisions that patients will be able to mentally “speak” and have those thoughts translated, again by AI, into actual language."
-    publishedDateTime: 2023-12-15T00:00:00Z
-    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=64265.php"
-    type: article
-    provider:
-      name: Nanowerk
-      domain: nanowerk.com
-    quality: 21
-  - title: "The Evolution: Google’s Artificial Intelligence and Its Impact on Virtual Assistants"
-    excerpt: "Introduction: In the dynamic landscape of technology, one phenomenon has emerged as a trailblazer, shaping the way we interact with information – Google’s Artificial Intelligence (AI). This transformative force has left an indelible mark,"
-    publishedDateTime: 2023-12-15T14:44:00Z
-    webUrl: "https://techbullion.com/the-evolution-googles-artificial-intelligence-and-its-impact-on-virtual-assistants/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 10
 
 secured: "NS/jEK8mWoxV0sDCKqq6bRl/5Q1uhz601/YYup1+cmKxX9XaWcgX495hV6MuEy7hOeFZXoW4M/8ndD6unKfc9W8PwAwZx0rX6/KkholYyGwheJMi4Wn6AwEpCiilQiRFC0jVrGxSPq4wtmr0yQf4G5ATixHjx/4eNSG2nUf7ynJvArN/qiIsTiU4an/cF510uLiK3A+J5ga9R+IU5PI7YyrkvnZJQkVvK1uqmxquNx7/7eyT7/s1Yzb8NQ/7YdiGezeWxt1AuqOdt+1tJ1w/RWJ4odDG3REpvJnv87i0MmYYxKN+CjeA8ZF2EDRpG13OKaUKW5oyIa3nn3yCa6DPZPx/OaM5da3i5MUiNGPWAy2fdKyn9cv2jxoBUG8zIDV2D9eqEZ72m6pmAv3xnKOc7FQHsLgDh7pUdYt1sRxU1151XbCEu5xpQYezc3aTZrIIan4wlc8YyvRY3Dc1R2SWVQ8Oqb79tjsvrpmWHCTmmCog4k3rS6nTBM39dhxkbArqiniB5+MEg9F8/ihHmxUCNg==;Ff6+Spn4RRKRnPLSWetXmg=="
 ---

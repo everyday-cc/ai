@@ -7,7 +7,7 @@ originalUrl: "https://www.govtech.com/education/higher-ed/bay-area-universities-
 webUrl: "https://www.govtech.com/education/higher-ed/bay-area-universities-turn"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1440
     height: 700
     isCached: true
-
-related:
-  - title: "Artificial Intelligence pairs caregiver students with elderly patients"
-    excerpt: "Artificial intelligence is helping older patients with memory care issues get matched with health care students."
-    publishedDateTime: 2023-12-13T11:32:00Z
-    webUrl: "https://www.aol.com/artificial-intelligence-pairs-caregiver-students-043249632.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 54
-    images:
-      - url: "https://media.zenfs.com/en/aol_fox_aggregated_articles_807/f282ca2e0ef5f2bbb247cdaf772883be"
-        width: 1088
-        height: 612
-        isCached: true
 
 secured: "213MvIpKlbs7rmcJMY9cfyA+O1BEgWsTgus5gg/61qFvmIZ9jP3aJ566Bbk3/+oJMUJOS9huXGyxc2/XCQixsnPuHGmSRZ7fSwGJWAj2LQr4DMxdchVjEBweS7AEpbkT0Zj/3xDq+0SZWnjEv9QQX67cOT5E+DXXDvSjqCWiVXs0k921bydmZ4E2LtecveX6FFUuwDbxXhOE50xmer5Zzx59vuFcWFHxipN9aFnBAfsmPGayLOudnWcRzbIhFhEpZ8gEVsxWFT3FrIcFydQUjmQXEA1wBNb/ksRH+5O4L7Kb/19i5UOzuG1GOi1e1q4cn5+MfgwiuQsMrMvY9i8CMBeaJBmdX5fUtdhsgq0X/v6d3of9bhznSJY/z9XQO/7s0NiPQkK3OI69sI9/r/hhlsfowNF9wZZzczJ6oARTXbwiA9HsJ9M4dfYyc4Oyi1OSnZKGrIR1P9qkdOPShDQrLRXFUz3Wqw17JTsUKBoscle5jc438HuFDZu+XZfToQIvk/7Fo8WQVVf065RtdEZtKw==;oy+Vv0nMErlXIV46ilOJKg=="
 ---

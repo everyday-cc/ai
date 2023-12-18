@@ -7,7 +7,7 @@ originalUrl: "https://www.msstate.edu/newsroom/article/2023/12/julie-jordan-ai-f
 webUrl: "https://www.msstate.edu/newsroom/article/2023/12/julie-jordan-ai-future-strike-right-balance-between-innovation-and"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -23,47 +23,6 @@ images:
     width: 1600
     height: 1000
     isCached: true
-
-related:
-  - title: "Indonesia to regulate AI, balancing innovation and ethics"
-    excerpt: "The Indonesian government will soon issue a regulation on the utilization of artificial intelligence (AI), Minister of Communication and Informatics Budi Arie"
-    publishedDateTime: 2023-12-13T12:08:00Z
-    webUrl: "https://en.antaranews.com/news/301002/indonesia-to-regulate-ai-balancing-innovation-and-ethics"
-    ampWebUrl: "https://en.antaranews.com/amp/news/301002/indonesia-to-regulate-ai-balancing-innovation-and-ethics"
-    cdnAmpWebUrl: "https://en-antaranews-com.cdn.ampproject.org/c/s/en.antaranews.com/amp/news/301002/indonesia-to-regulate-ai-balancing-innovation-and-ethics"
-    type: article
-    provider:
-      name: Antara News
-      domain: antaranews.com
-    quality: 74
-    images:
-      - url: "https://img.antaranews.com/cache/800x533/2023/07/05/antarafoto-teknologi-kecerdasan-buatan-untuk-mengurai-kemacetan-jakarta-050723-riv-3.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "The Ethics Of AI: Balancing Innovation And Responsibility"
-    excerpt: "AI has the potential to transform various industries completely. On the other hand, concerns around its ethical implications are valid, too."
-    publishedDateTime: 2023-12-14T13:01:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/14/the-ethics-of-ai-balancing-innovation-and-responsibility/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
-  - title: "Trustworthy AI: The future of innovation and ethics"
-    excerpt: "As GenAI's prominence continues to ascend, the imperative for trustworthy AI frameworks intensifies. To navigate this evolving landscape successfully, several pivotal factors warrant incorporation."
-    publishedDateTime: 2023-12-16T03:44:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/trustworthy-ai-the-future-of-innovation-and-ethics/106033248"
-    type: article
-    provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 54
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-106033248,imgsize-64286,width-1200,height=765,overlay-etcio/artificial-intelligence/trustworthy-ai-the-future-of-innovation-and-ethics.jpg"
-        width: 1200
-        height: 765
-        isCached: true
 
 secured: "YNgeARmjURPpKW4M7y+A+Z5/Pw4RkZ1HPcgE8JsK4Mdf180z8H4DErFjiiRj3+boFC+kNMkYG57qEIh60P+gogCzPc6ASGlY7ADrNqGY06Vk1yZY2zBHj9a9uWOIOZXDndEQa/lWzvUHib32U9mkac+MPUEUmo+ATxVIdT2xlSulbvSeUeeXV5nDfT1Myb0XPnkThTeAryR6ZFG5zmR2/xlYLNY/h2zb19S7tnUhe55A1IANKlIq7K8SS7eEdIUBdXqT6nvvbN7DisptMBvLrfW6eI+XTEZp8zWaGGdxNTDkCNdsdQEVEACQi+lHrB8AmGO59KNjzNenvcg+B+w7TI/namaxn1jLdT4+JKZqLN36TZafJHmn8ThrDiDyxDIZ+D9cZ7XglFesSYNLavhnYWgCUzqpaDfDK/dUMULrnrJ2dGodolcr2STOZuwHNkYX1MCZRuOKdVJ2QIW56/ZwPyGqtqzgyXz/H9jC7boZ1PrbxSV0SgzoWGFyE4lSLrGqyNXx31SPQEv5ldaML6swGw==;gdX6+/ucyuIzOmPW22ZwMQ=="
 ---

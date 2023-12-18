@@ -52,22 +52,6 @@ related:
         width: 1600
         height: 899
         isCached: true
-  - title: "Certinia uses AI to accelerate finance functions for service companies"
-    excerpt: "Certinia is using predictive AI to deliver more precise forecasts of cash flow and days to pay, based on analyses of trends in customer payments, and to forecast how many days it will take to staff resource requests, help enterprises keep projects on schedule, or to manage their customers’ expectations when things fall behind."
-    publishedDateTime: 2023-12-13T13:00:00Z
-    webUrl: "https://www.cio.com/article/1258572/certinia-uses-ai-to-accelerate-finance-functions-for-service-companies.html"
-    ampWebUrl: "https://www.cio.com/article/1258572/certinia-uses-ai-to-accelerate-finance-functions-for-service-companies.html/amp/"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/1258572/certinia-uses-ai-to-accelerate-finance-functions-for-service-companies.html/amp/"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 76
-    images:
-      - url: "https://www.cio.com/wp-content/uploads/2023/12/Dan-Brown-chief-product-strategy-officer-Certinia.png?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Improving the call centre experience in the financial services sector"
     excerpt: "British banking and insurance holding company NatWest Group serves 19 million customers across 12 banking and financial services brands via its network of call centres. To deliver the best possible service to customers while also protecting their data,"
     publishedDateTime: 2023-12-18T10:46:00Z

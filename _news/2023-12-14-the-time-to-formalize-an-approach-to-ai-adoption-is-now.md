@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/12/14/the-time
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/12/14/the-time-to-formalize-an-approach-to-ai-adoption-is-now/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -61,15 +61,6 @@ related:
     provider:
       name: Finextra
       domain: finextra.com
-    quality: 19
-  - title: "How Publishers Can Navigate the AI Revolution"
-    excerpt: "Despite the hype, publishing is still looking at what impact large language models and similar technology may bring."
-    publishedDateTime: 2023-12-16T01:22:00Z
-    webUrl: "https://www.publishersweekly.com/pw/by-topic/digital/content-and-e-books/article/93963-how-publishers-can-navigate-the-ai-revolution.html"
-    type: article
-    provider:
-      name: Publishers Weekly
-      domain: publishersweekly.com
     quality: 19
 
 secured: "w8HTijk0g2RDtRMG10b2zI/mI06X6RzUiJGnWl3yfL0y+ZcJJ60CBFnb4Fv8T7SwgAeZuwS0MhCnnpirU0SLlO6G6lVtvy4LrpZ3gID72HwVumpfe2enIdfiAGO2mrmHkv1Re1sfRV+VUqAk0ONN46jbiQK7PHq+1VAYNuHIaIIzVVVGnDx4+r+1JB1YnhP0VC/MKgrDyqeyZm7cNUjS2XHZ5RO6N37wqNtDsirEWIGItsC6pkuCzj8F0ABTgE7dkeKo5xr3FbcKBSlyRfuE83nsnMhICijd7nO14Vw7Aa79RpjqXT4QURbqIjQCcg+hfsgExu33Psn+4fzNRJHttQ+8xjEkrqSepNEpLtrNuUU=;UK5opjoR3ndQSj/gkQADmQ=="

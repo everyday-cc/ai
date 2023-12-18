@@ -25,45 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Indonesia to regulate AI, balancing innovation and ethics"
-    excerpt: "The Indonesian government will soon issue a regulation on the utilization of artificial intelligence (AI), Minister of Communication and Informatics Budi Arie"
-    publishedDateTime: 2023-12-13T12:08:00Z
-    webUrl: "https://en.antaranews.com/news/301002/indonesia-to-regulate-ai-balancing-innovation-and-ethics"
-    ampWebUrl: "https://en.antaranews.com/amp/news/301002/indonesia-to-regulate-ai-balancing-innovation-and-ethics"
-    cdnAmpWebUrl: "https://en-antaranews-com.cdn.ampproject.org/c/s/en.antaranews.com/amp/news/301002/indonesia-to-regulate-ai-balancing-innovation-and-ethics"
-    type: article
-    provider:
-      name: Antara News
-      domain: antaranews.com
-    quality: 74
-    images:
-      - url: "https://img.antaranews.com/cache/800x533/2023/07/05/antarafoto-teknologi-kecerdasan-buatan-untuk-mengurai-kemacetan-jakarta-050723-riv-3.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "The Ethics Of AI: Balancing Innovation And Responsibility"
-    excerpt: "AI has the potential to transform various industries completely. On the other hand, concerns around its ethical implications are valid, too."
-    publishedDateTime: 2023-12-14T13:01:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/14/the-ethics-of-ai-balancing-innovation-and-responsibility/"
+  - title: "Navigating The Future Of Work: 10 Ways To Prepare For The AI Workplace"
+    excerpt: "The rapid evolution of artificial intelligence is not just reshaping our technological landscape; it’s fundamentally transforming how we work, learn and interact."
+    publishedDateTime: 2023-12-18T12:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/18/navigating-the-future-of-work-10-ways-to-prepare-for-the-ai-workplace/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/18/navigating-the-future-of-work-10-ways-to-prepare-for-the-ai-workplace/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/18/navigating-the-future-of-work-10-ways-to-prepare-for-the-ai-workplace/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 64
-  - title: "Julie Jordan: AI for the future – Strike the right balance between innovation and regulation"
-    excerpt: "It seems as though everyone is talking about artificial intelligence these days. From concerns about how it could affect the 2024 presidential elections to hopes that it might solve the global climate crisis,"
-    publishedDateTime: 2023-12-15T17:30:00Z
-    webUrl: "https://www.msstate.edu/newsroom/article/2023/12/julie-jordan-ai-future-strike-right-balance-between-innovation-and"
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/657c81870c5ac1a6f7c54b68/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
+  - title: "AI at your door. Is there anything to worry?"
+    excerpt: "Authors worry about issues such as plagiarism, unauthorised use of AI-generated content, and the potential for AI to be used unethically in manipulating public opinion or spreading misinformation."
+    publishedDateTime: 2023-12-16T14:24:00Z
+    webUrl: "https://dunyanews.tv/en/Technology/778138-AI-at-your-door.-Is-there-anything-to-worry"
     type: article
     provider:
-      name: Mississippi State University
-      domain: msstate.edu
-    quality: 28
-    images:
-      - url: "http://www.msstate.edu/sites/www.msstate.edu/files/2023-12/Jordan_Julie-LeeHall_20220421_B5W6821_featured.jpg"
-        width: 1600
-        height: 1000
-        isCached: true
+      name: Dunya News
+      domain: dunyanews.tv
+    quality: 19
 
 secured: "nmgT5XVlNz9QnvehFvrUUXqY+2F6oEEho/sDQcUJtzpsvZLTDbep+xAUuBV5gFXGFQT6d3tEA0Ht5sw/hHI7j/9rJeM/wUxhJTQhwNYTXn4gU4ihJ2H+UBS/JLa5Dwc3QfpLQStVaAxZzZcKwSbl2cK25pQuS1pKe1nV2OEGhaBHk0/L8MU1f9KSwjiz8cgjD6jyKtKV7STICHcjH6687zywAxcnuqDUhr0J0cmcgA0bTWf7UVghzSKuxtvoIAuKYHR9B+SA/jcDEHbgoDMwD9QCdh6FBLA/+y0RTKWDUX8YqaGpvzka+ei2dbEingfM5S81ZezXfLge8cdd5D6fIppOwGydE+hEPYleP20WPfB3Ncji1eJnPyfIDFppafooIzgfGjDPd98qx6kkdjmZdn9xLCKUmWe/DNKw1vj60dvsGLz4SPcwhFJ5CYcjoFgFZltwA1XStvgY0TEUFyLW3zN1wamagW+37qoptVNUKxN9CA1xzk1L/QiO33Qz7mVSxy7mk81IkXpbs4aMl6j9RQ==;X3jNy2o9zIXkRVgqTRtP8g=="
 ---

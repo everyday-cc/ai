@@ -131,6 +131,22 @@ related:
         width: 766
         height: 431
         isCached: true
+  - title: "The EU AI Act - dissecting the detail"
+    excerpt: "The European Union's ongoing debate about regulating “General-Purpose AI” (GPAI) under the Artificial Intelligence Act (AIA) enters a new phase."
+    publishedDateTime: 2023-12-18T11:43:00Z
+    webUrl: "https://diginomica.com/eu-ai-act-dissecting-detail"
+    ampWebUrl: "https://diginomica.com/eu-ai-act-dissecting-detail?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/eu-ai-act-dissecting-detail?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 59
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2019-03/BAC4C93B-CED2-461B-99FB-60C96BB3FD17.jpeg"
+        width: 640
+        height: 426
+        isCached: true
   - title: "2023: The year of AI gift-giving and other holiday shopping trends"
     excerpt: "Flowcode analyzed holiday shopping forecasts from Salesforce and the National Retail Federation to identify a few major trends for 2023."
     publishedDateTime: 2023-12-14T09:18:00Z

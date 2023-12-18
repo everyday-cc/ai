@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI In Healthcare: Are People Losing Or Gaining Control?"
-    excerpt: "In healthcare and beyond, the rise of artificial intelligence should give pause to both businesses and consumers—even as we learn to move forward."
-    publishedDateTime: 2023-12-13T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/13/ai-in-healthcare-are-people-losing-or-gaining-control/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/13/ai-in-healthcare-are-people-losing-or-gaining-control/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/13/ai-in-healthcare-are-people-losing-or-gaining-control/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/651ae5f9c817fd613f5f0e9c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "AI in healthcare: Duke Health signs pledge for ethical, responsible use"
     excerpt: "Duke Health is among a leading group of health systems and payers from across the U.S. to sign a pledge advancing ethical and responsible use of Artificial Intelligence technology in health care."
     publishedDateTime: 2023-12-15T11:37:00Z
@@ -57,19 +41,21 @@ related:
         width: 1262
         height: 710
         isCached: true
-  - title: "Safe AI for healthcare: Providers pursue ‘once-in-a-generation’ benefits of large-scale models"
-    excerpt: "Leading healthcare entities sign the Biden-⁠Harris Admin's voluntary commitments for the safe, secure use of AI for healthcare."
-    publishedDateTime: 2023-12-15T19:19:00Z
-    webUrl: "https://venturebeat.com/ai/safe-ai-for-healthcare-providers-pursue-once-in-a-generation-benefits-of-large-scale-models/"
+  - title: "Overhyped? Digital Health Executive Anti-Predictions For Healthcare In 2024"
+    excerpt: "Will General Catalyst’s plans for health system acquisition come to fruition in 2024? Will GenAI live up to its hype as healthcare’s ultimate complexity liberator?"
+    publishedDateTime: 2023-12-14T15:06:00Z
+    webUrl: "https://www.forbes.com/sites/sethjoseph/2023/12/14/overhyped-digital-health-executive-anti-predictions-for-healthcare-in-2024/"
+    ampWebUrl: "https://www.forbes.com/sites/sethjoseph/2023/12/14/overhyped-digital-health-executive-anti-predictions-for-healthcare-in-2024/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sethjoseph/2023/12/14/overhyped-digital-health-executive-anti-predictions-for-healthcare-in-2024/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1251551899-e1702664137230.jpg?fit=750%2C422&#038;strip=all"
-        width: 750
-        height: 375
+      - url: "https://imageio.forbes.com/specials-images/imageserve/657afb952417cb668643d77c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 919
+        height: 900
         isCached: true
   - title: "Navigating AI in Healthcare: Dr. Donald Macfarlane's Warning on AI-Driven Medical Note-Taking"
     excerpt: "Dr. Donald Macfarlane warns against the use of AI-driven tools in medical note-taking due to fabrications that will negatively impact patient"
@@ -80,19 +66,42 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 55
-  - title: "Google Launches Generative Artificial Intelligence Models for Healthcare"
-    excerpt: "Google’s newly introduced MedLM is a suite of foundation models designed for healthcare, with two generative AI tools built on the large language model Med-PaLM 2."
-    publishedDateTime: 2023-12-13T14:01:00Z
-    webUrl: "https://healthitanalytics.com/news/google-launches-generative-artificial-intelligence-models-for-healthcare"
+  - title: "Healthcare leaders applaud White House's AI principles"
+    excerpt: "Healthcare executives endorse White House's new AI principles to ensure safe, equitable & responsible deployment of AI in healthcare."
+    publishedDateTime: 2023-12-15T21:11:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/healthcare-leaders-applaud-white-houses-ai-principles.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Providers, Payers Sign Pledge for Ethical, Responsible AI in Healthcare"
+    excerpt: "Over 25 health systems and payers have made voluntary commitments to ensure that health AI leads to fair, appropriate, valid, effective, and safe outcomes."
+    publishedDateTime: 2023-12-15T13:00:00Z
+    webUrl: "https://healthitanalytics.com/news/providers-payers-sign-pledge-for-ethical-responsible-ai-in-healthcare"
     type: article
     provider:
       name: Analytics
       domain: healthitanalytics.com
-    quality: 53
+    quality: 51
+  - title: "Google's 5 biggest healthcare moves in 2023"
+    excerpt: "Google leveraged its AI tools in 2023 to expand its healthcare presence with large health systems. Read more about Google's 5 biggest healthcare moves reported"
+    publishedDateTime: 2023-12-15T16:08:00Z
+    webUrl: "https://www.beckershospitalreview.com/disruptors/googles-5-biggest-healthcare-moves-in-2023.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
     images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/Getty_correct_size_chatGPT.png"
-        width: 690
-        height: 400
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "BCDKYHyrqNynL3vsk3ZWU4XL5nMolgtXfgLrsUKfb+MoYO2tolSmohWTa5THu0I7XFxYPpM9VL4lb6jy3+6HwF4mLz4lVEJefFWaSXdyBMsl4sPvybcwlP5EsL0rmDK7VVPi1TCf5qR2dA2Doi1V5hwBInZ3H5CTA+8QZ4BL124LZZN2HTkNRWGMcnL0DYAk3kzKnL7WNfN4GlVa97DVB98gFCjzeDl/lR0Sx1nO4SrJHYYv1d+UjyT04UDU2qe2ACGNAahlBAmSEpCSDv86ARC7ruAwCpZjGRHy61zOkJ6U3aU3P8GFYGr8+52os2E1ui2YAe4vYsIbcUO+8a6GMR2cIQ39WbxjUyoXg6zSu1E=;H4Y8uOcvgwsvaTqbdtrO1w=="

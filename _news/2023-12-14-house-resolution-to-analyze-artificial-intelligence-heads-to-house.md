@@ -58,15 +58,6 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 19
-  - title: "How Publishers Can Navigate the AI Revolution"
-    excerpt: "Despite the hype, publishing is still looking at what impact large language models and similar technology may bring."
-    publishedDateTime: 2023-12-16T01:22:00Z
-    webUrl: "https://www.publishersweekly.com/pw/by-topic/digital/content-and-e-books/article/93963-how-publishers-can-navigate-the-ai-revolution.html"
-    type: article
-    provider:
-      name: Publishers Weekly
-      domain: publishersweekly.com
-    quality: 19
 
 secured: "sDHtGnU4avjMEcUZEtEnz/NoEeqrOORXem3QB0BM959mG2+gglZOfu7as2VFWkjGD2Rcw8DvuDPApEx+Q11iONJuw3cqvcb9XLuqHTyJmCrDifs3Ab3IxB2lpD+MHUv53g8Eja0r3M+l+eYQPlZIZL4XaMGaLHX8ciJML+C2eZjInt08Id4mE1Tzc6HMknHhwTkMzbOQ2KRGjbCQ7VUY4dajgJRdb+1b+7VZp7t3kBRi08r5lllfFs5Au/tXPupuKQ4NcHkVxRfPNpRB0MyhAxlrcpftMw5tt8YpcXKSiHhfR2//X5YHxnFj8p+wSOmbSjGZzS2R54xxEXWdwZmSuegS7EFbtXm1cq+HDCaStNg=;P2cnXVDvTZXs1RC+GwbxVg=="
 ---

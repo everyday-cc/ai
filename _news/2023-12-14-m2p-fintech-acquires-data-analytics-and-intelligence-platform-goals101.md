@@ -43,6 +43,22 @@ related:
         width: 1599
         height: 900
         isCached: true
+  - title: "Create news directly from analytics of large data sets – ‘data journalism’ & AI is here"
+    excerpt: "I’d like to focus on the increasing trend of “data journalism”. This is the practice of analyzing large data sets for the purpose of generating new news stories. Data analysis has long been a part of supporting journalism."
+    publishedDateTime: 2023-12-18T12:45:00Z
+    webUrl: "https://wraltechwire.com/2023/12/18/create-news-directly-from-analytics-of-large-data-sets-data-journalism-ai-is-here/"
+    ampWebUrl: "https://wraltechwire.com/2023/12/18/create-news-directly-from-analytics-of-large-data-sets-data-journalism-ai-is-here/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/12/18/create-news-directly-from-analytics-of-large-data-sets-data-journalism-ai-is-here/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 49
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2023/10/artificial-intelligence-hand.jpg"
+        width: 1280
+        height: 719
+        isCached: true
   - title: "How will AI and analytics keep people healthy, safe and thriving in 2024?"
     excerpt: "\"The rise of AI and analytics will continue to transform the government workforce, including in public safety. In 2024, law enforcement will see a turning point in hiring 'digital natives' who embrace and demand technology to protect, defend and serve citizens.\""
     publishedDateTime: 2023-12-14T15:12:00Z
@@ -56,20 +72,6 @@ related:
       - url: "https://mma.prnewswire.com/media/2300205/SAS_newswire_Gov_HC.jpg"
         width: 400
         height: 267
-        isCached: true
-  - title: "Striim Integrates with Microsoft Fabric to Deliver Real-Time Data Streaming Innovation for Analytics and AI"
-    excerpt: "Striim, an industry leader in real-time data integration and streaming, is excited to announce its integration with Microsoft Fabric, a new data analytics platform. Striim will provide its innovative low-latency,"
-    publishedDateTime: 2023-12-13T12:13:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/12/13/9933026.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 36
-    images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
         isCached: true
   - title: "Adastra Launches New Analytics and Insights for Sustainability Framework in AWS Marketplace"
     excerpt: "Adastra Group (also known as Adastra Corporation), a global leader in cloud, data and artificial intelligence (AI) solutions and services, today announced the launch of its innovative Cloud Analytics Solution,"
