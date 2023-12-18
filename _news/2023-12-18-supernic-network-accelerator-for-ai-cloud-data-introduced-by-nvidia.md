@@ -53,7 +53,21 @@ related:
         width: 251
         height: 282
         isCached: true
+  - title: "NVIDIA fires back at AMD saying its new MI300X chip is faster than its H100 GPU - it isn't"
+    excerpt: "NVIDIA responds to AMD's showcasing the MI300X being faster than the H100 GPU. Here are the real results where the H100 is up to 2X faster."
+    publishedDateTime: 2023-12-15T04:34:00Z
+    webUrl: "https://www.tweaktown.com/news/94975/nvidia-fires-back-at-amd-saying-its-new-mi300x-chip-is-faster-than-h100-gpu-it-isnt/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 44
+    images:
+      - url: "https://static.tweaktown.com/news/9/4/94975_01_nvidia-fires-back-at-amd-saying-its-new-mi300x-chip-is-faster-than-h100-gpu-it-isnt_full.jpg"
+        width: 1500
+        height: 843
+        isCached: true
 
-secured: "CC9nkZnlZSbXNDrEjFXuf4QBZ+PZsavU/MaKPXPwLDSZrm5N/G7MP95c7e2G+abL0qOIMCl0H28mYY1tLJtW7X86YkKi3cdb6z1cZJiVRZ5P8PlY87iqiAuRhIdNXP0zs3gsvDnZGYVBAQNr/aikmmmA0GUBorhn4AZd+owTzMTuRi+BrP6R5zVNIwFZ8m5Xp0j2Tx5r9LGN+Wpr31ca0xgn10sgSqAZoPeUQzAtrerGu7LmQdAQzevyt4SE9RP58Rx2ArosyBaWYoQZ0eeDaLheMN2xEJAzODfQH0QluOGJKrlcphXGLphucYk1P6BYxF95Gh8E3jrJffSAnLDQ8yCJaR3Xy+Cx7VlXXEbhtx4=;ojGcsx5/ULnML1Nm5EoS9Q=="
+secured: "+UZNqqpkzu3D1EKJApdo8HJFtx4Tfh+HGyfSeDE8A535IlpIQc8aDWY2xb3BKcpkosieFy5gmv4/63pd31OCbqmxnzEUn6sxj/StBB/Lb2sibtIFYsegXXrUmHboQnT8KWkApuAzOcW5uOc/1kZZuE7q5uZ1RhJdbDJ0Hn1g3Tj36E3DZm7gVarn98bWW8K/nLBTJrchXhoGPrLv1LxcYCVZE6e3h2MMCXfvjDg8EEY3aqivs+pGXB6KLA/K9dwcYqiXVdsBHH0nAhYb3mVSbR2SNy97NPwkbOk8+47nrYM3Xr0bs8UXNHnED81jP++1GuQ+KQok68CnacjQlbxMVmrEpVw8WzPaNx408l87P/CFfmRWsjOSwjwFTDLlRhofIYkZ+wTllcDabRwoQ8YjaT+u+jekOumSnw0UF5PtW1p1Jv4FUVisAsYcxjkWWt7ygHMGwtNonOlJzSJIaXToBZaL/ciMVL0hG6OnqXrxbbjRuVz2Nu8PFvmX/+1AQgRtj1hw+vn2nBes7+H7S9NsOQ==;zpA/5vBWIXqO+cWVz9kRRg=="
 ---
 

@@ -74,20 +74,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Google's Gemini Pro AI is open to devs and will be cheaper than GPT-4"
-    excerpt: "Gemini Pro will be cheaper to use than GPT-4 when the free period ends. After announcing its new large language model (LLM) Gemini, Google started rolling the AI out to its various products. In addition to being available in its products, the tech giant is now allowing developers and enterprises to start tinkering with Gemini."
-    publishedDateTime: 2023-12-13T17:28:00Z
-    webUrl: "https://www.androidauthority.com/google-gemini-pro-for-devs-3394219/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 67
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/12/Gemini-Google-Logo.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Building custom Gemini Pro AI models with new API"
     excerpt: "As announced earlier this month Google has now made available its new Gemini artificial intelligence API enabling developers ... It outperforms other similarly-sized models on multiple research benchmarks. Additionally, it comes with a 32K context window ..."
     publishedDateTime: 2023-12-14T12:11:00Z

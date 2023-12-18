@@ -3,8 +3,8 @@ category: news
 title: "Half of university students are scared their jobs will be under threat from AI"
 excerpt: "Half of current students at university think their current and future jobs could be under threat from artificial intelligence (AI). New research from Kingston University looked at whether students are equipped for their futures in a rapidly changing workplace, particularly where technology is concerned."
 publishedDateTime: 2023-12-06T06:00:00Z
-originalUrl: "https://metro.co.uk/2023/12/06/half-uni-students-scared-jobs-threat-ai-19904586/?ico=mosaic_uk"
-webUrl: "https://metro.co.uk/2023/12/06/half-uni-students-scared-jobs-threat-ai-19904586/?ico=mosaic_uk"
+originalUrl: "https://metro.co.uk/2023/12/06/half-uni-students-scared-jobs-threat-ai-19904586/"
+webUrl: "https://metro.co.uk/2023/12/06/half-uni-students-scared-jobs-threat-ai-19904586/"
 ampWebUrl: "https://metro.co.uk/2023/12/06/half-uni-students-scared-jobs-threat-ai-19904586/amp/"
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/12/06/half-uni-students-scared-jobs-threat-ai-19904586/amp/"
 type: article
@@ -23,6 +23,6 @@ images:
     height: 399
     isCached: true
 
-secured: "Vhn2FstxN+5cpOz66cCqdH4zOMn9Fb+nbGWLdfRGWZ6gE7CNu9tCT+Q+odyOVEiKTtBaOkYcuPz4PDAtSEkcRcZHYoHFSkLHpQG3grKIdWJJ1CM7kteykGXgOIYXRDCOC8RwfsVXltjsvFpbsp4SfQeuvjTl3enJNGQEQb50nijYx85ErTHg0SLYFSEbRQVriK4DZCB/BKRIZhI8X9rgtkHd24B5C4frW5U6PJOHo939U+rCb7d1sMqP1v5bsboAqKE1Y6iFg4phceM/A0DEU9hzbFQWzRuQFqfk01KqIP71LqOFWvdHy/0nBbueXp9UeC79Lxxg/9jnwRTqQ2lcUpPgvTItzFtfBsNG9rYP77InIudCN0kaamAR2RWmYYw10ZusFgAlZ+Ph6TMovEngNJbQxhhJPQvCnkE7QOU5o24r1ZdtLQMbSEp9h6yOA55LvxNeXKuMeuMvxxQVT21pBXJO0N0UiabkgQJLpAMd+P1EPQ80ncaKm1Fn/AQXwhEx4QACmsjWENRMp8wb9LMvWQ==;Wf8r7izTDZcirR3RAIwkjQ=="
+secured: "n/Y0PYk17rTlTeg1HfkHLLQvk+I1pWOsBZlwjIETljq9vsm4xpUOpySKhPyNWTmnqZeL0CK/7kcqbllbzhg68+YaXCsTD0UaEW61MQT/P1oJX+BnH/VC3ohWk9NTcmXpK5KfRRIO9ZkVjbThVZBjdJQfV7kvjf39KdJ3+HsrFMVQpkSSKv1dF87Zg6pWBrKlfa9wdO3biKhkYd4zJmLbD/zVdDNX7QKm8J20IeYSdTITCNibnS516Ugn7jrMILYRhXcV7GngRzSCVKf9vl3iEVwmmGoovPsjWI38LBGSMqTJVJuQaTWuhvEXffSj8UGgzxtFjWVu5tSS9KOTwwdxOgz+I7qR+1SsziZH5SQQLv8=;94+EWvLlOSDMcjkRtX7zKA=="
 ---
 

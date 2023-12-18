@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/deepminds-ai-finds-solution-to-decades
 webUrl: "https://thenextweb.com/news/deepminds-ai-finds-solution-to-decades-old-math-problem"
 type: article
 quality: 96
-heat: 146
+heat: 156
 published: true
 
 provider:
@@ -87,6 +87,20 @@ related:
       - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-04043-w/d41586-023-04043-w_26526884.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "DeepMind AI with built-in fact-checker makes mathematical discoveries"
+    excerpt: "Google DeepMind claims to have made the first ever scientific discovery with an AI chatbot by building a fact-checker to filter out useless outputs, leaving only reliable solutions to mathematical ..."
+    publishedDateTime: 2023-12-14T00:01:00Z
+    webUrl: "https://www.newscientist.com/article/2407897-deepmind-ai-with-built-in-fact-checker-makes-mathematical-discoveries/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 54
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/12/14114531/SEI_184047213.jpg"
+        width: 1350
+        height: 900
         isCached: true
   - title: "Google's DeepMind AI decodes age-old math equation, stumping humans"
     excerpt: "Google DeepMind has triumphantly cracked an age-old mathematical mystery using a method they are calling FunSearch. The math problem that FunSearch has solved is the famous cap set problem in pure mathematics, which has stumped even the brightest human mathematicians."

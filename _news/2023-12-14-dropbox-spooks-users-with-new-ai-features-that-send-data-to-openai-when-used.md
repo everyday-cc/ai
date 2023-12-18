@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/information-technology/2023/12/dropbox-spo
 webUrl: "https://arstechnica.com/information-technology/2023/12/dropbox-spooks-users-by-sending-data-to-openai-for-ai-search-features/"
 type: article
 quality: 64
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -50,6 +50,15 @@ related:
     provider:
       name: Ars Technica
       domain: arstechnica.com
+    quality: 47
+  - title: "OpenAI Says Board Can Overrule CEO on Safety of New AI Releases"
+    excerpt: "The arrangement was mentioned in a set of guidelines released Monday explaining how the ChatGPT-maker plans to deal with AI risks."
+    publishedDateTime: 2023-12-18T18:03:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-12-18/openai-says-board-can-overrule-ceo-on-safety-of-new-ai-releases"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
     quality: 47
   - title: "OpenAI announces second round of AI startup fund"
     excerpt: "OpenAI has opened applications for the second cohort of its six-week program for artificial intelligence (AI) startups, Converge 2, through which it will invest $1 million into each of the 15 successful participants selected."

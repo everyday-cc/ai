@@ -23,19 +23,21 @@ topics:
   - AI
 
 related:
-  - title: "FunSearch: Making new discoveries in mathematical sciences using Large Language Models"
-    excerpt: "In a paper published in Nature, we introduce FunSearch, a method for searching for “functions” written in computer code, and find new solutions in mathematics and computer science. FunSearch works by pairing a pre-trained LLM, whose goal is to provide creative solutions in the form of computer code,"
-    publishedDateTime: 2023-12-14T16:00:00Z
-    webUrl: "https://deepmind.google/discover/blog/funsearch-making-new-discoveries-in-mathematical-sciences-using-large-language-models/"
+  - title: "Large language models – powerful productivity tool to be used with care"
+    excerpt: "Large language models (LLM), a subset of generative Artificial Intelligence (AI) focused on natural language processing, is garnering increasing attention as a technology that could potentially revolutionise the workplace and drive productivity to ..."
+    publishedDateTime: 2023-12-14T06:50:00Z
+    webUrl: "https://www.itweb.co.za/content/mYZRX79gQolqOgA8"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/mYZRX79gQolqOgA8"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/mYZRX79gQolqOgA8"
     type: article
     provider:
-      name: DeepMind
-      domain: deepmind.com
-    quality: 66
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 44
     images:
-      - url: "https://lh3.googleusercontent.com/GC6SH0u6DyyCT9C1LH6XXmproSod7o5QGp9-Oe8BsuXyPzBlfcxFHX9pxXg69ZftEVU0Joga7tyo0VwQOSBBrugZ8qfl9_X-pgiH527p71S7DC32Jw=w1200-h630-n-nu"
+      - url: "https://www.itweb.co.za/static/pictures/2022/10/Henri-Fourie-2022.jpg"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
 
 secured: "8EuIjq1x/5m2sQeaNrEm3fi62S/XVMt3Ce7YR407yHG3e16YVdSTgXHepktjlQVNr/btLAsG3kW20pYZTsg6/9BUGtozd5DC522IDptv5ZsR7VRWdqxGjHwKJViRWEAdkNunMn6Ahwg7j5Y6tfmdt5ug8/a4c2SKdJeIl0NCZWwvUaZQYBlzLW2dblp0k038cgk/BtKsGbBKCzpHEB9qvxCL0VRgr58+xO3XBLZ6GRkLGMnfw1mf1kWbXXxKOMow6JNR9qtX5IhVGxzIstElSbExu4tRJZrd0yVOtENe7xSEAiB7JrvszXck46NoQ2dZu47pXL7iJEcj7gYDPwWogDlSKoHu2NIwvAiSV5rirRc=;HKrraHEDK+ssjXU10g2yGQ=="

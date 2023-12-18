@@ -2,6 +2,357 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-18-how-ns1-ensures-seamless-dns-migrations.md",
+      "title": "How NS1 ensures seamless DNS migrations",
+      "excerpt": "Migrating authoritative DNS doesn’t have to involve unnecessary risk. Here’s how NS1’s proven approach delivers seamless migrations with no downtime.\nThe post How NS1 ensures seamless DNS migrations appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-ns1-ensures-seamless-dns-migrations/",
+      "originalUrl": "https://www.ibm.com/blog/how-ns1-ensures-seamless-dns-migrations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/12/Businessman-using-laptop-during-a-late-night-at-the-office.png",
+          "width": 2400,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-18T18:47:32Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-19-imran-khan-pakistan-ex-pm-used-artificial-intelligence-to-campaign-from-jail.md",
+      "title": "Imran Khan: Pakistan ex-PM used artificial intelligence to campaign from jail",
+      "excerpt": "Former Pakistan Prime Minister Imran Khan's party has used an artificial intelligence voice clone of him to campaign from prison. Mr Khan had his three-year sentence for corruption suspended in August, but remains in jail. His Pakistan Tehreek-e Insaf (PTI) party used AI to make an audio clip to address an internet \"virtual rally\".",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/world-asia-67752610",
+      "originalUrl": "https://www.bbc.com/news/world-asia-67752610",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/111B4/production/_132086007_b401abb6d6649c62754624359ab8f8192978b0ef0_287_5500_30951000x563.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/world-asia-67752610.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-asia-67752610.amp",
+      "publishedDateTime": "2023-12-18T18:47:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-18-examples-and-uses-of-gis.md",
+      "title": "Examples and uses of GIS",
+      "excerpt": "Geographic information systems (GIS) visualize and make sense of geospatial data, helping us better understand the patterns and relationships of our world.\nThe post Examples and uses of GIS appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/geographic-information-system-use-cases/",
+      "originalUrl": "https://www.ibm.com/blog/geographic-information-system-use-cases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/12/3e267523-e37a-4523-8c93c2c2e4f4ec17.blog-lead-space-2x1-1.png",
+          "width": 1080,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-18T18:27:39Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-19-exclusive-jaxon-ai-teams-up-with-ibm-watsonx-in-battle-against-ai-hallucination.md",
+      "title": "Exclusive: Jaxon AI teams up with IBM watsonx in battle against AI hallucination",
+      "excerpt": "Jaxon AI's Domain-Specific AI Language (DSAIL) technology is designed to prevent hallucinations and inaccuracies with IBM watsonx models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/exclusive-jaxon-ai-teams-up-with-ibm-watson-in-battle-against-ai-hallucination/",
+      "originalUrl": "https://venturebeat.com/ai/exclusive-jaxon-ai-teams-up-with-ibm-watson-in-battle-against-ai-hallucination/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/12/igor-omilaev-FHgWFzDDAOs-unsplash.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-18T18:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-18-what-is-rum-data-and-why-does-it-matter.md",
+      "title": "What Is Rum data and why does it matter?",
+      "excerpt": "Looking to optimize the performance of your applications and services? Learn why effectively collecting and using RUM data is critical. \nThe post What Is Rum data and why does it matter? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/what-is-rum-data-and-why-does-it-matter/",
+      "originalUrl": "https://www.ibm.com/blog/what-is-rum-data-and-why-does-it-matter/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/12/What-Is-Rum-data-and-why-does-it-matter.png",
+          "width": 2400,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-18T18:24:24Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-19-ai-in-your-shoes-this-company-aims-to-accessorize-everything-you-own-with-artificial-intelligence.md",
+      "title": "AI in your shoes? This company aims to accessorize everything you own with artificial intelligence",
+      "excerpt": "Tiny systems powered with artificial intelligence could transform everyday products like dishwashers and construction helmets into smarter, safer devices, two scientists told Fox News.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/science/ai-shoes-company-aims-accessorize-everything-artificial-intelligence",
+      "originalUrl": "https://www.foxnews.com/science/ai-shoes-company-aims-accessorize-everything-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e4336cb-1ed1-4bdb-8d7a-51b172f56e8f/f6e77140-9cf3-4af3-9e39-df8551415803/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/science/ai-shoes-company-aims-accessorize-everything-artificial-intelligence.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/science/ai-shoes-company-aims-accessorize-everything-artificial-intelligence.amp",
+      "publishedDateTime": "2023-12-18T17:16:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-18-5-things-to-know-driving-innovation-with-ai-and-hybrid-cloud-in-the-year-ahead.md",
+      "title": "5 things to know: Driving innovation with AI and hybrid cloud in the year ahead",
+      "excerpt": "The rise of generative AI, evolving regulations and data sovereignty laws, and ongoing security challenges should be top of mind.\nThe post 5 things to know: Driving innovation with AI and hybrid cloud in the year ahead appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/5-things-to-know-driving-innovation-with-ai-and-hybrid-cloud-in-the-year-ahead/",
+      "originalUrl": "https://www.ibm.com/blog/5-things-to-know-driving-innovation-with-ai-and-hybrid-cloud-in-the-year-ahead/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-18T17:13:44Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-18-unlocking-a-world-of-possibilities-how-ai-is-revolutionizing-real-estate-and-empowering-your-life-choices.md",
       "title": "Unlocking A World Of Possibilities: How AI Is Revolutionizing Real Estate And Empowering Your Life Choices",
       "excerpt": "When I first launched my company, I wanted AI to be at the center of our innovation. The idea was to leverage this super-intelligent technology to better ourselves. As a result, we witnessed an 80% spike in output and productivity. Automation has reduced our manual labor, minimized errors and improved user experiences.",
@@ -62,7 +413,7 @@
       "originalUrl": "https://health.economictimes.indiatimes.com/news/health-it/will-ai-substitute-doctors-in-healthcare-industry/106097951",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -157,7 +508,7 @@
       "originalUrl": "https://www.techspot.com/news/101238-amd-mi300x-ai-accelerator-faster-than-nvidia-h100.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -492,50 +843,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-18-ai-machine-learning-changing-how-first-responders-handle-911-emergencies.md",
-      "title": "AI, machine learning changing how first responders handle 911 emergencies",
-      "excerpt": "Nothing kills more people in the U.S. than heart disease, and researchers within the UPMC health enterprise are using machine learning to advance the breadth and efficiency of electrocardiogram (ECG)",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/cnhi_network/ai-machine-learning-changing-how-first-responders-handle-911-emergencies/article_77449f24-9c25-5cd4-8b79-451f817784ff.html",
-      "originalUrl": "https://www.joplinglobe.com/cnhi_network/ai-machine-learning-changing-how-first-responders-handle-911-emergencies/article_77449f24-9c25-5cd4-8b79-451f817784ff.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/7/e3/7e3426d4-0195-5420-9d0e-e9502693b12f/657cd1cbf050c.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-18T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
       ]
     },
     {
@@ -925,299 +1232,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-16-hong-kong-billionaire-professor-tang-xiaoou-cofounder-of-ai-giant-sensetime-dies-at-55.md",
-      "title": "Hong Kong Billionaire Professor Tang Xiao’ou, Cofounder Of AI Giant SenseTime, Dies At 55",
-      "excerpt": "Tang Xiao’ou, who also taught information engineering at the Chinese University of Hong Kong, died of an unspecified illness, according to SenseTime.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ywang/2023/12/16/hong-kong-billionaire-professor-tang-xiaoou-cofounder-of-ai-giant-sensetime-dies-at-55/",
-      "originalUrl": "https://www.forbes.com/sites/ywang/2023/12/16/hong-kong-billionaire-professor-tang-xiaoou-cofounder-of-ai-giant-sensetime-dies-at-55/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/657d7d90b49c22ca45d80c7a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1322,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-16T11:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-16-my-one-big-tech-fueled-prediction-for-2024-ai-vanishes.md",
-      "title": "My One Big Tech-Fueled Prediction for 2024: AI ‘Vanishes’",
-      "excerpt": "So, here we go: In the year ahead, artificial intelligence will become ever more pervasive. So pervasive, in fact, that it will start to become invisible — to actually begin to vanish, from the hype cycles, even from our consciousness.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/12/16/my-one-big-tech-fueled-prediction-for-2024-ai-vanishes/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/12/16/my-one-big-tech-fueled-prediction-for-2024-ai-vanishes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/657d2ec97bc13a21c41dc9b9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/12/16/my-one-big-tech-fueled-prediction-for-2024-ai-vanishes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/12/16/my-one-big-tech-fueled-prediction-for-2024-ai-vanishes/amp/",
-      "publishedDateTime": "2023-12-16T11:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-16-global-ai-conclave-talent-not-chips-key-to-indias-ai-future-says-rajeev-chandrasekhar.md",
-      "title": "Global AI Conclave: Talent, not chips, key to India's AI future, says Rajeev Chandrasekhar",
-      "excerpt": "The government is working 24/7 to propel India's digital economy to trillion dollars in size by 2026, Rajeev Chandrasekhar said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/technology/talent-not-chips-key-to-indias-ai-future-says-rajeev-chandrasekhar-11913321.html",
-      "originalUrl": "https://www.moneycontrol.com/news/technology/talent-not-chips-key-to-indias-ai-future-says-rajeev-chandrasekhar-11913321.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2023/12/Rajeev-770x371.jpg",
-          "width": 770,
-          "height": 371,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/technology/talent-not-chips-key-to-indias-ai-future-says-rajeev-chandrasekhar-11913321.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/talent-not-chips-key-to-indias-ai-future-says-rajeev-chandrasekhar-11913321.html/amp",
-      "publishedDateTime": "2023-12-16T09:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-16-google-shapes-gemini-ai-tools-for-developers.md",
-      "title": "Google Shapes Gemini AI Tools For Developers",
-      "excerpt": "AI is changing and it will continue to do so - although this year of generative AI stands out as a seminal moment in time - now we need the right developer tools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/12/16/google-shapes-gemini-ai-tools-for-developers/",
-      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/12/16/google-shapes-gemini-ai-tools-for-developers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 239,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/657d683b20807ddde92b89ef/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 640,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/12/16/google-shapes-gemini-ai-tools-for-developers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/12/16/google-shapes-gemini-ai-tools-for-developers/amp/",
-      "publishedDateTime": "2023-12-16T09:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-16-ai-a-double-edged-sword-for-ethics-security-of-vietnamese-education.md",
-      "title": "AI a double-edged sword for ethics, security of Vietnamese education",
-      "excerpt": "The widespread embrace of artificial intelligence (AI) in learning can be a double-edged sword, with debate in academic circles revolving around how AI can be used ethically and in alignment with local academic standards. Hoang Ngan, a sophomore at the ...",
-      "sourceUrl": null,
-      "webUrl": "https://tuoitrenews.vn/news/education/20231216/ai-a-doubleedged-sword-for-ethics-security-of-vietnamese-education/77287.html",
-      "originalUrl": "https://tuoitrenews.vn/news/education/20231216/ai-a-doubleedged-sword-for-ethics-security-of-vietnamese-education/77287.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tuoitrenews.vn/ttnew/r/2023/12/14/385537962-678314627624249-309935422918557897-n-1702528424.png",
-          "width": 730,
-          "height": 548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-16T06:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tuoi Tre news",
-        "domain": "tuoitrenews.vn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Education",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-12-16-dictionarycom-2023-word-of-the-year-hallucinate-is-an-ai-health-issue.md",
-      "title": "Dictionary.com 2023 Word Of The Year ‘Hallucinate’ Is An AI Health Issue",
-      "excerpt": "Dictionary.com noticed a 46% jump in dictionary lookups for the word “hallucinate” from 2022 to 2023 with a comparable increase in searches for “hallucination” as well.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brucelee/2023/12/15/dictionarycom-2023-word-of-the-year-hallucinate-is-an-ai-health-issue/",
-      "originalUrl": "https://www.forbes.com/sites/brucelee/2023/12/15/dictionarycom-2023-word-of-the-year-hallucinate-is-an-ai-health-issue/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/657ca8b37714a7c751a5c454/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1273,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brucelee/2023/12/15/dictionarycom-2023-word-of-the-year-hallucinate-is-an-ai-health-issue/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucelee/2023/12/15/dictionarycom-2023-word-of-the-year-hallucinate-is-an-ai-health-issue/amp/",
-      "publishedDateTime": "2023-12-16T01:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

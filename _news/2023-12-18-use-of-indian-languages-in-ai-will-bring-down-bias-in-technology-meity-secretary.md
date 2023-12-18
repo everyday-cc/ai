@@ -19,48 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Facial Recognition Technology: Draft law to be published today"
-    excerpt: "Following the Dublin riots last month, the offences of riot and violent disorder were also included in the legislation"
-    publishedDateTime: 2023-12-14T05:44:00Z
-    webUrl: "https://www.newstalk.com/news/facial-recognition-technology-draft-law-to-be-published-today-1623984"
-    type: article
-    provider:
-      name: Newstalk
-      domain: newstalk.com
-    quality: 39
-    images:
-      - url: "https://media.radiocms.net/uploads/2023/12/14064055/Facial-recognition-research-equipment-edit.jpg"
-        width: 1920
-        height: 1198
-        isCached: true
-  - title: "Dublin riots: Draft law on facial recognition technology to be published"
-    excerpt: "Minister says legislation will help gardaí trawl through thousands of hours of CCTV when investigating serious crimes"
-    publishedDateTime: 2023-12-14T06:03:00Z
-    webUrl: "https://www.businesspost.ie/news/dublin-riots-draft-law-on-facial-recognition-technology-to-be-published/"
-    type: article
-    provider:
-      name: The Sunday Business Post
-      domain: businesspost.ie
-    quality: 38
-    images:
-      - url: "https://imengine.public.prod.sbp.infomaker.io?uuid=249c1420-af22-597e-9e71-beff73204c2e&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.60322&width=1200&height=675&x=1.0E-5&y=0.19839"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "McEntee receives Cabinet approval for draft legislation for facial recognition technology"
-    excerpt: "The legislation will allow An Garda Síochána to use biometric identification to retrospectively search CCTV in some circumstances."
-    publishedDateTime: 2023-12-14T00:10:00Z
-    webUrl: "https://www.thejournal.ie/cabinet-approves-draft-legislation-facial-recognition-technology-6248686-Dec2023/"
-    type: article
-    provider:
-      name: TheJournal.ie
-      domain: thejournal.ie
-    quality: 30
-    images:
-      - url: "https://img2.thejournal.ie/article/6248686/river/?height=400&version=6248713"
-        width: 613
-        height: 400
-        isCached: true
   - title: "Use of Indian languages in AI programming will bring down bias in technology: Meity secretary"
     excerpt: "AI technology-based language translation applications have been developed largely using English language as base and therefore often they are unable to give correct output in other languages. \"While it (English) can be a language of business to some degree ..."
     publishedDateTime: 2023-12-18T13:17:00Z
@@ -75,15 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Dublin riots: McEntee publishes draft law on facial recognition tech"
-    excerpt: "Minister for Justice Helen McEntee has published a draft bill on the use of facial recognition technology by An Garda Síochána."
-    publishedDateTime: 2023-12-14T12:30:00Z
-    webUrl: "https://www.siliconrepublic.com/business/dublin-riots-facial-recognition-technology-police-draft-law-ireland-helen-mcentee"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 19
 
 secured: "RMOAw6vU/dq3GS9mGa6Mzuh/ZPh0rwuKSK7Fi+UaNseyLGeve1L4nIHwVEf/+OGe4OgHAOSxKPIjHEjBW0YpdP4L55q3Aq+WL4NPprGaeGHoW7v2ISoliFl1c5z3/f0XTIlGZlTP+qyPdA6a6QUIdaoWvdkuFTi3AE3k2xKcJQUEzUX8+j9vhqnDg79PdjkuR5eWytCPVAZ8m8nmjHyqXQpVQ3IRn2wCmT+S7jWh+LolxY82a4NYP7UhpfDaXoXOMsD/c29Z4DPc3gJS7BUygmbXvJFPhUwc7LCABWZs2NqHfFlfhCsAchsyfVU4M33AxSWL0uTl1uJj9loGMajC0WvNXQVWHXhTXvq2dVO6YrjupCw4g6zpkrb85QtVo9mlFPKIisZys1O7VVVzNIWfV4Uqxgr9s11XD7MOjHydVUgm17VxaI4zV1a5IzrDPCNP3tAtJRr5Oj3YjauiC38bKrxruCnZ1h8X5uEY+Xkdge+DdpS+O8zrmgJcyKShhXyWRYZdSXnqSD1/Po+3ZLarmA==;O8zANBKQQYETcqoffQHk/A=="
 ---

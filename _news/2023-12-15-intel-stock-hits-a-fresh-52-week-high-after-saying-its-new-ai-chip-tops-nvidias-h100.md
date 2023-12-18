@@ -39,6 +39,20 @@ related:
         width: 2000
         height: 1125
         isCached: true
+  - title: "NVIDIA fires back at AMD saying its new MI300X chip is faster than its H100 GPU - it isn't"
+    excerpt: "NVIDIA responds to AMD's showcasing the MI300X being faster than the H100 GPU. Here are the real results where the H100 is up to 2X faster."
+    publishedDateTime: 2023-12-15T04:34:00Z
+    webUrl: "https://www.tweaktown.com/news/94975/nvidia-fires-back-at-amd-saying-its-new-mi300x-chip-is-faster-than-h100-gpu-it-isnt/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 44
+    images:
+      - url: "https://static.tweaktown.com/news/9/4/94975_01_nvidia-fires-back-at-amd-saying-its-new-mi300x-chip-is-faster-than-h100-gpu-it-isnt_full.jpg"
+        width: 1500
+        height: 843
+        isCached: true
   - title: "SuperNIC network accelerator for AI cloud data introduced by NVIDIA"
     excerpt: "Learn more about the new SuperNIC network accelerator for AI cloud data launched by NVIDIA. But what is SuperNIC and why does it matter?"
     publishedDateTime: 2023-12-18T14:34:00Z

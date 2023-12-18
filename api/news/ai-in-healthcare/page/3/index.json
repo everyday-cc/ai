@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-11-16-talking-points-how-concerned-should-we-be-over-artificial-intelligence.md",
+      "title": "Talking Points: How concerned should we be over artificial intelligence?",
+      "excerpt": "MINNEAPOLIS— In a world of artificial intelligence, many are asking \"What's real?\" Or \"What's fake?\" Or \"What our information is being used for?\" Now more than ever, it's worth taking a look at ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/minnesota/news/artificial-intelligence-ai-concerns-political-ads-deepfakes-medical-breakthroughs/",
+      "originalUrl": "https://www.cbsnews.com/minnesota/news/artificial-intelligence-ai-concerns-political-ads-deepfakes-medical-breakthroughs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/05/30/b0af8181-af32-490a-ab05-fbbf97de4c12/thumbnail/1200x630/1a6cd3d5d08f273ce42312cb6cdb5d1b/ai.jpg?v=5659e73acd91751548aa89950cf015b0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/minnesota/news/artificial-intelligence-ai-concerns-political-ads-deepfakes-medical-breakthroughs/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/minnesota/news/artificial-intelligence-ai-concerns-political-ads-deepfakes-medical-breakthroughs/",
+      "publishedDateTime": "2023-11-16T02:06:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-11-15-global-artificial-intelligence-ai-in-healthcare-collaboration-and-licensing-deals-analysis-report-2023-with-a-directory-of-869-deals-researchandmarketscom.md",
       "title": "Global Artificial Intelligence (AI) in Healthcare Collaboration and Licensing Deals Analysis Report 2023 with a Directory of 869 Deals - ResearchAndMarkets.com",
       "excerpt": "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence (AI) Collaboration and Licensing Deals 2016-2023\" report has been added to ResearchAndMarkets.com's offering. This report contains a ...",
@@ -1129,40 +1173,6 @@
       "provider": {
         "name": "Nairametrics",
         "domain": "nairametrics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-speech-therapy-market-investment-opportunities-potential-growth-and-future-demand-2021-2031.md",
-      "title": "Speech Therapy Market : Investment Opportunities, Potential Growth, And Future Demand 2021-2031",
-      "excerpt": "Technological Innovations: The integration of advanced technologies, such as virtual reality (VR) and artificial intelligence (AI), has revolutionized speech therapy practices. Investors can capitalize on companies developing innovative software and ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1107339327/Speech-Therapy-Market-Investment-Opportunities-Potential-Growth-And-Future-Demand-2021-2031",
-      "originalUrl": "https://menafn.com/1107339327/Speech-Therapy-Market-Investment-Opportunities-Potential-Growth-And-Future-Demand-2021-2031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T02:48:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,362 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-12-15-have-10-hours-ibm-will-train-you-in-ai-fundamentals-for-free.md",
+      "title": "Have 10 hours? IBM will train you in AI fundamentals - for free",
+      "excerpt": "Run AI Models with IBM Watson Studio (1 hour and 45 mins): In this course, you'll practice creating an AI machine learning model in a series of simulations, using IBM Watson Studio. This is hands-on time that can help you do actual work with AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/earn-an-ai-fundamentals-credential-from-ibm-for-free/",
+      "originalUrl": "https://www.zdnet.com/article/earn-an-ai-fundamentals-credential-from-ibm-for-free/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/889ceba98c79fe79abc49245bd51e50e4fc7b180/2023/12/14/03b8fcaa-5075-4f54-8aca-54553859c0f1/gettyimages-1143470996.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/earn-an-ai-fundamentals-credential-from-ibm-for-free/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/earn-an-ai-fundamentals-credential-from-ibm-for-free/",
+      "publishedDateTime": "2023-12-14T17:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-14-building-cyber-resiliency-for-your-data-with-ibm-flashsystem.md",
+      "title": "Building cyber resiliency for your data with IBM FlashSystem",
+      "excerpt": "The IBM approach to cyber resiliency can help organizations protect themselves in an ever-changing cybersecurity landscape.\nThe post Building cyber resiliency for your data with IBM FlashSystem appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/building-cyber-resiliency-for-your-data-with-ibm-flashsystem/",
+      "originalUrl": "https://www.ibm.com/blog/building-cyber-resiliency-for-your-data-with-ibm-flashsystem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/12/17e35390-8d06-4198-8b6919d698ba2d02.jpg",
+          "width": 2160,
+          "height": 1620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-14T17:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-14-delivering-security-and-scalability-in-todays-business-landscape-requires-more-than-setting-up-a-front-line-of-defense.md",
+      "title": "Delivering security and scalability in today’s business landscape requires more than setting up a front line of defense",
+      "excerpt": "Cybersecurity can be a strategic initiative that supports product capability, organizational effectiveness and customer relationships.\nThe post Delivering security and scalability in today’s business landscape requires more than setting up a front line of defense appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/delivering-security-and-scalability-in-todays-business-landscape/",
+      "originalUrl": "https://www.ibm.com/blog/delivering-security-and-scalability-in-todays-business-landscape/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-14T17:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-12-14-microsoft-is-a-leader-in-the-2023-idc-marketscape-for-ai-governance-platforms.md",
+      "title": "Microsoft is a leader in the 2023 IDC MarketScape for AI Governance Platforms",
+      "excerpt": "We are excited to announce that Microsoft Azure is recognized as a leader in the inaugural IDC MarketScape for AI Governance Platforms. IDC looked at AI governance platforms that ensure AI and machine learning lifecycle governance, collaborative risk management, and regulatory excellence for AI.\nThe",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/blog/microsoft-is-a-leader-in-the-2023-idc-marketscape-for-ai-governance-platforms/",
+      "originalUrl": "https://azure.microsoft.com/en-us/blog/microsoft-is-a-leader-in-the-2023-idc-marketscape-for-ai-governance-platforms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/12/MS_AI_Education-social.jpg",
+          "width": 943,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-14T17:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-14-how-aws-prototyping-enabled-icl-group-to-build-computer-vision-models-on-amazon-sagemaker.md",
+      "title": "How AWS Prototyping enabled ICL-Group to build computer vision models on Amazon SageMaker",
+      "excerpt": "This is a customer post jointly authored by ICL and AWS employees. ICL is a multi-national manufacturing and mining corporation based in Israel that manufactures products based on unique minerals and fulfills humanity’s essential needs, primarily in three markets: agriculture, food, and engineered materials.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-aws-prototyping-enabled-icl-group-to-build-computer-vision-models-on-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-aws-prototyping-enabled-icl-group-to-build-computer-vision-models-on-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/12/14/icl-group-vision-models.jpg",
+          "width": 1005,
+          "height": 504,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-14T16:56:10Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-12-14-automate-pdf-pre-labeling-for-amazon-comprehend.md",
+      "title": "Automate PDF pre-labeling for Amazon Comprehend",
+      "excerpt": "Amazon Comprehend is a natural-language processing (NLP) service that provides pre-trained and custom APIs to derive insights from textual data. Amazon Comprehend customers can train custom named entity recognition (NER) models to extract entities of interest, such as location, person name, and date,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-pdf-pre-labeling-for-amazon-comprehend/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-pdf-pre-labeling-for-amazon-comprehend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/12/14/automate-prelabeling-comprehend.jpg",
+          "width": 1005,
+          "height": 504,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-14T16:51:32Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-12-14-improve-your-stable-diffusion-prompts-with-retrieval-augmented-generation.md",
+      "title": "Improve your Stable Diffusion prompts with Retrieval Augmented Generation",
+      "excerpt": "Text-to-image generation is a rapidly growing field of artificial intelligence with applications in a variety of areas, such as media and entertainment, gaming, ecommerce product visualization, advertising and marketing, architectural design and visualization, artistic creations, and medical imaging.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improve-your-stable-diffusion-prompts-with-retrieval-augmented-generation/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improve-your-stable-diffusion-prompts-with-retrieval-augmented-generation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/26/ML-15732-image001-1260x455.png",
+          "width": 1260,
+          "height": 455,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-14T16:45:13Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-14-azure-openai-service-powers-the-microsoft-copilot-ecosystem.md",
       "title": "Azure OpenAI Service powers the Microsoft Copilot ecosystem",
       "excerpt": "Copilot—powered by Microsoft Azure OpenAI Service—allows you to simplify how you design, operate, optimize, and troubleshoot apps and infrastructure from cloud to edge.\nThe post Azure OpenAI Service powers the Microsoft Copilot ecosystem appeared first on Microsoft Azure Blog.\n",
@@ -51,58 +407,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-funsearch-making-new-discoveries-in-mathematical-sciences-using-large-language-models.md",
-      "title": "FunSearch: Making new discoveries in mathematical sciences using Large Language Models",
-      "excerpt": "In a paper published in Nature, we introduce FunSearch, a method for searching for “functions” written in computer code, and find new solutions in mathematics and computer science. FunSearch works by pairing a pre-trained LLM, whose goal is to provide creative solutions in the form of computer code,",
-      "sourceUrl": null,
-      "webUrl": "https://deepmind.google/discover/blog/funsearch-making-new-discoveries-in-mathematical-sciences-using-large-language-models/",
-      "originalUrl": "https://deepmind.google/discover/blog/funsearch-making-new-discoveries-in-mathematical-sciences-using-large-language-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/GC6SH0u6DyyCT9C1LH6XXmproSod7o5QGp9-Oe8BsuXyPzBlfcxFHX9pxXg69ZftEVU0Joga7tyo0VwQOSBBrugZ8qfl9_X-pgiH527p71S7DC32Jw=w1200-h630-n-nu",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-14T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     },
     {
@@ -501,7 +805,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/12/14/the-time-to-formalize-an-approach-to-ai-adoption-is-now/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -914,283 +1218,6 @@
         "Computer Vision",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-job-oriented-crash-courses-soon-on-ai-robotics-digital-marketing.md",
-      "title": "Job-oriented crash courses soon on AI, robotics, digital marketing",
-      "excerpt": "Hyderabad: The higher education institutes (HEIs) will soon start short-tem skill courses for students who have cleared 10+2 or intermediate examinati.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/hyderabad/job-oriented-crash-courses-soon-on-ai-robotics-digital-marketing/articleshow/105973138.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/hyderabad/job-oriented-crash-courses-soon-on-ai-robotics-digital-marketing/articleshow/105973138.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/city/hyderabad/job-oriented-crash-courses-soon-on-ai-robotics-digital-marketing/amp_articleshow/105973138.cms",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/city/hyderabad/job-oriented-crash-courses-soon-on-ai-robotics-digital-marketing/amp_articleshow/105973138.cms",
-      "publishedDateTime": "2023-12-14T02:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-how-ai-is-impacting-society-and-shaping-the-future.md",
-      "title": "How AI Is Impacting Society And Shaping The Future",
-      "excerpt": "As the dawn of artificial intelligence (AI) transforms industries and societies, we've engaged with visionary founders who are leading the charge.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/kalinabryant/2023/12/13/how-ai-is-impacting-society-and-shaping-the-future/",
-      "originalUrl": "https://www.forbes.com/sites/kalinabryant/2023/12/13/how-ai-is-impacting-society-and-shaping-the-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 201,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/657a5006c207ad19dd8da4dc/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1439,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/kalinabryant/2023/12/13/how-ai-is-impacting-society-and-shaping-the-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kalinabryant/2023/12/13/how-ai-is-impacting-society-and-shaping-the-future/amp/",
-      "publishedDateTime": "2023-12-14T00:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-leadership-next-uaes-minister-of-ai-he-omar-al-olama.md",
-      "title": "Leadership Next: UAE's Minister of AI, H.E. Omar Al Olama",
-      "excerpt": "The world's first Minister of Artificial Intelligence tells Alan Murray why it's essential to have a government role dedicated to AI.",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/videos/watch/leadership-next%3A-uae's-minister-of-ai%2C-h.e.-omar-al-olama/33cdf689-86ad-47f5-8e76-75c8dae0a619",
-      "originalUrl": "https://fortune.com/videos/watch/leadership-next%3A-uae's-minister-of-ai%2C-h.e.-omar-al-olama/33cdf689-86ad-47f5-8e76-75c8dae0a619",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2byebo1j9i40c.cloudfront.net/33cdf689-86ad-47f5-8e76-75c8dae0a619/Images/posterImage-ver1-1280x720.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/videos/watch/leadership-next%3A-uae's-minister-of-ai%2C-h.e.-omar-al-olama/33cdf689-86ad-47f5-8e76-75c8dae0a619/amp",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/leadership-next%3A-uae's-minister-of-ai%2C-h.e.-omar-al-olama/33cdf689-86ad-47f5-8e76-75c8dae0a619/amp",
-      "publishedDateTime": "2023-12-14T00:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-apple-silicon-m3-pro-competes-with-nvidia-rtx-4090-gpu-in-ai-benchmark-u.md",
-      "title": "Apple Silicon M3 Pro competes with Nvidia RTX 4090 GPU in AI benchmark [u]",
-      "excerpt": "In a recent test of Apple's MLX machine learning framework, a benchmark shows how the new Apple Silicon Macs compete with Nvidia's RTX 4090.",
-      "sourceUrl": null,
-      "webUrl": "https://appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark",
-      "originalUrl": "https://appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://photos5.appleinsider.com/gallery/57700-117522-graph-xl.jpg",
-          "width": 1312,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark/amp/",
-      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark/amp/",
-      "publishedDateTime": "2023-12-14T00:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AppleInsider",
-        "domain": "appleinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-how-andromeda-robotics-ai-powered-robot-abi-is-combating-loneliness.md",
-      "title": "How Andromeda Robotics’ AI-powered robot Abi is combating loneliness",
-      "excerpt": "The Andromeda Robotics team has built and assembled four Abi robots so far, each costing nearly $10,000 in hardware and consumables.",
-      "sourceUrl": null,
-      "webUrl": "https://www.smartcompany.com.au/startupsmart/news/andromeda-robotics-ai-powered-robot-abi-combating-loneliness/",
-      "originalUrl": "https://www.smartcompany.com.au/startupsmart/news/andromeda-robotics-ai-powered-robot-abi-combating-loneliness/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.smartcompany.com.au/wp-content/uploads/2023/12/SMartCO-2023-12-14T103242.515.png?resize=1200,630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-13T23:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SmartCompany",
-        "domain": "smartcompany.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-heard-on-the-street-teslas-recall-highlights-the-limits-of-full-self-driving-tech.md",
-      "title": "Heard on the Street: Tesla’s Recall Highlights the Limits of ‘Full Self-Driving’ Tech",
-      "excerpt": "Tesla’s big recall hasn’t moved its shares much. That isn’t a surprise given the limited cost of the fix— but it isn’t the end of the story, either. On Wednesday, the National",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/livecoverage/fed-meeting-fomc-interest-rate-december-2023/card/heard-on-the-street-tesla-s-recall-highlights-the-limits-of-full-self-driving-tech-5t1wARKk5hZZYznApkee?mod=lctimeline_finance",
-      "originalUrl": "https://www.wsj.com/livecoverage/fed-meeting-fomc-interest-rate-december-2023/card/heard-on-the-street-tesla-s-recall-highlights-the-limits-of-full-self-driving-tech-5t1wARKk5hZZYznApkee?mod=lctimeline_finance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-899985/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-13T23:13:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

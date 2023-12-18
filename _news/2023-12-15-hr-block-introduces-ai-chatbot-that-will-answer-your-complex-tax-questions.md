@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/h-r-block-introduces-ai-cha
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/h-r-block-introduces-ai-chatbot-that-will-answer-your-complex-tax-questions/"
 type: article
 quality: 85
-heat: 145
+heat: 155
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://media.wired.com/photos/657a59e15f293f44edb694d1/191:100/w_1280,c_limit/politics_microsoft_chatbot_election_misinformation.jpg"
         width: 1280
         height: 670
+        isCached: true
+  - title: "Further your AI ChatGPT and Python knowledge and build your own chatbot with this mega bundle, now $29.97"
+    excerpt: "Take on the rising world of AI with The 2023 Ultimate AI ChatGPT & Python Programming Bundle, now on sale for only $29.97 through Christmas."
+    publishedDateTime: 2023-12-18T16:46:00Z
+    webUrl: "https://www.popsci.com/sponsored-content/ai-chatgpt-python-bundle-deal/"
+    ampWebUrl: "https://www.popsci.com/sponsored-content/ai-chatgpt-python-bundle-deal/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/sponsored-content/ai-chatgpt-python-bundle-deal/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 57
+    images:
+      - url: "https://www.popsci.com/uploads/2023/12/18/image.png?auto=webp"
+        width: 1067
+        height: 800
         isCached: true
   - title: "OpenAI ChatGPT VS Google Bard: Which AI chatbot is the real disruptor? – Business Today"
     excerpt: "FeedbackEver since OpenAI introduced its AI chatbot, ChatGPT, in November last year, we witnessed a sudden rise in generative AI chatbots in the industry. One"

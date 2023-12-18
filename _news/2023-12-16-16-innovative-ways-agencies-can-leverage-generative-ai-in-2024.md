@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/12/15/16-inn
 webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/12/15/16-innovative-ways-agencies-can-leverage-generative-ai-in-2024/"
 type: article
 quality: 67
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://assets.bizclikmedia.net/1200/b6ed12eb7ec28ad5ae14a6ea7d05b679:cc2c9ffd810a582fef0d67f56f8aff04/nasser-khodri.jfif.jpg"
         width: 1200
         height: 631
-        isCached: true
-  - title: "Google Cloud partners with Mistral AI on generative language models"
-    excerpt: "\"As part of the agreement, Mistral AI will use Google Cloud’s AI-optimized infrastructure, including TPU Accelerators, to further test, build, and scale up its LLMs (large language models), all while benefiting from Google Cloud's security and privacy standards,"
-    publishedDateTime: 2023-12-13T17:09:00Z
-    webUrl: "https://www.aol.com/news/google-cloud-partners-mistral-ai-150922762.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/ae6e560fd2298f254e74c9c7588ae42c"
-        width: 800
-        height: 528
         isCached: true
   - title: "Inside Bayer’s embrace of generative AI"
     excerpt: "In this wide-ranging interview, Bayer’s head of digital transformation Saskia Steinacker shares her top tips for implementing a genAI roadmap in commercial."

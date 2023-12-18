@@ -51,6 +51,20 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
+  - title: "SenseTime co-founder dies, casting shadow over Chinese facial recognition giant"
+    excerpt: "SenseTime is known as one of China’s “four little dragons” of AI, along with fellow facial recognition-providers Cloudwalk Technology, Megvii and Yitu."
+    publishedDateTime: 2023-12-18T17:41:00Z
+    webUrl: "https://www.biometricupdate.com/202312/sensetime-co-founder-dies-casting-shadow-over-chinese-facial-recognition-giant"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 35
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/12/09151310/sensetime-new.jpg"
+        width: 2000
+        height: 1040
+        isCached: true
 
 secured: "zrlsHLAWx3q7cyAzyrfaTsZmvEFb03/i/z1Zv31AeP0DdUr32CPr3/HZoE4Dc2WGKyxML6Oz6LFz+xX5ZOK1glvOVKdHqlTpTICXWL2bpyCHI9ia02IL0y9gw3qk3Z6DmRN2WgyqDs4OMXRtq7s61tu2LPwIHhDQ8knGXLBdRND4hwQklVnvChSm9xm7lpPPjlwggfv0PBc6dowDOSy+CM7ftIFxXJfAq4YRfCI6ZTMCGhBtrEC2qVqO4p8cLyO2lfJ5cGTNvO/pxA5flHNPZ3FtEE5MNdNZ9U9BSTez9DPsZOimNNQsOoqD7S31oDA6Au0qUjippYfedYXzCwp6eY5RS6knHAiZB/PRnECZJi9Zjt3QDMbpJZwKRjjVXgK/g9fZupQXyG2kL9P/0vxrGAH8xaNGcJZnMQtinJTaok9Oe3Ywg001GuhxfySJFsUnCWH8/W99jFi3TKSBGlfhHA9jqwH61FiFBrO/OJJ8aSh7u4B+M70ofJmHqOyZBA5yiOXJS093NfWgzdoxCoBNcg==;n56s8+XzWL2vEEQVq4ftXQ=="
 ---

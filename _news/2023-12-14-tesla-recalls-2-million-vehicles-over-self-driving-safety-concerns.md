@@ -64,20 +64,6 @@ related:
       name: TechRadar
       domain: techradar.com
     quality: 41
-  - title: "Tesla pumps the brakes on self-driving, recalls its vehicles"
-    excerpt: "To limit the use of its self-driving technology, Tesla has recalled almost all of its 2 million cars in the U.S."
-    publishedDateTime: 2023-12-13T17:10:00Z
-    webUrl: "https://www.washingtontimes.com/news/2023/dec/13/tesla-pumps-brake-self-driving-recalls-its-vehicle/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 39
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2023/12/13/Tesla_Auto_Pilot_Recall_93271_c0-234-5616-3510_s1200x700.jpg?cb8bdaaafe19aeefebbc81a4d50578aeb1d81bb7"
-        width: 1200
-        height: 700
-        isCached: true
   - title: "Tesla ‘recalls’ 2m cars over self-driving feature"
     excerpt: "Chronically bad drivers could be blocked from using Tesla’s Autosteer feature after US road safety authorities forced the electric vehicle maker to issue a ‘recall’ that will improve the feature on all of the more than 2 million cars it has sold in the US and Canada since 2012."
     publishedDateTime: 2023-12-14T02:37:00Z

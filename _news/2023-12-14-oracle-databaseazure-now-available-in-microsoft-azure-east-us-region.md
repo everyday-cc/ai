@@ -18,17 +18,6 @@ topics:
   - Microsoft AI
   - AI
 
-related:
-  - title: "Oracle Announces the General Availability of Oracle Database@Azure"
-    excerpt: "The first Oracle Database@Azure service is now generally available in the Microsoft Azure East US region. Oracle will"
-    publishedDateTime: 2023-12-13T19:06:00Z
-    webUrl: "https://www.datanami.com/this-just-in/oracle-announces-the-general-availability-of-oracle-databaseazure/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 34
-
 secured: "l1wca10Fukh++qBM5s7rHCnBNcqx1UWD5tccn9GYJTPlpJTVZS8SxWMHMeYrMhQPPI+xPd3yaHUtCOBQPFObllgnniUsXG7vqzbohotsTHpihBkkSz9ovMKa5co6cpp+/sQpsNx0ztgXCYxyiA3s3xdopw8JU200YlwqtzGwvJ9J2hcBS622FNV9JXqX2wznES8aLwH4+nh9d4UWdKoNu62gu46kH6tQB4/B0JbCD+H0vSjRn0G2PjtQdOEOAOkFBJQY6I31mxl0KilB7vVo7QRC1VwKiwbuGFkbm1kQinr4IgVLR1010Rg2W7yjZFuP+nz6oCINAywJ0bdEvmHMA6gb/w/VeVHiaCh37ZQSgrNrg9NFgZ5ijY7YqxJ3nG/suhwZwta1SBCzDriZI4Uls3p4mZFGh9y2uVPUyI2CLrxFGYtQkk1INdQj6bmHZpvkD97NBwA6cZ0t/4QlYCcJPaXfypcwaDQjv7yAl6gbHMMocDvTRcaQFJXCN2ps2I70uqstkHn0E2toILNS4YSE3w==;JV8WizVoDiPo2NFMfh5+Tg=="
 ---
 

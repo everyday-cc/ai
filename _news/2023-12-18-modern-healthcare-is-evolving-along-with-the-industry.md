@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "Generative AI Dictates Trillions of Dollars in Industry"
+    excerpt: "This year was the breakout year for Generative artificial intelligence (Gen AI). Tech companies, according to McKinsey, are positioned to see the most disruption from Gen Ai, “adding value equivalent to as much as 9 percent of global industry"
+    publishedDateTime: 2023-12-18T17:09:00Z
+    webUrl: "https://www.baystreet.ca/stockstowatch/16697/Generative-AI-Dictates-Trillions-of-Dollars-in-Industry"
+    type: article
+    provider:
+      name: BayStreet
+      domain: baystreet.ca
+    quality: 39
+    images:
+      - url: "http://www.baystreet.ca/images/articlegroups/original/yahoonews/private/AI.jpg"
+        width: 845
+        height: 396
+        isCached: true
 
 secured: "QYpbm6SZOLucpkAkRMjDPv6ZlwVRKsdO012cXcF2x+4RHxGoPZzPCocOUjswa0lqmO8oKKZj8iOrfUoEul14T7UIihxWy2ihg+zBSqE3T6cN6Pfa1OzqwNi0iVD0LMWW3sSNymjyOfxOQxzcfwdO6hEwpuDjdgHNCMN+Xw59fH+j67Tzy/clbUGMET++cmG11MLZzXcScDBJK8NI64AASuNeWVw5jslv/IKiPxCrYvN5Uo9V2CNA6Xa8W9aLzazz2Oc9mboXk/Ybkk+E/2fPexumZ5Q7fSiWrVGGVEByuvNSu+TjRWuzbap3VfVULHi5CPJEQPl3PB4abXUdlx28yeAGyKHNiKORFt0U5ke3uQ07y5n/85820Qbl+tYg3hYMuL0Yz0Bak9J2dk+Bl9cye6tDd9Ml36l0tC8uGjBRLfQICAIqBT1l6yHu+P93cr7UvtO8liD9yp5kiI3rvXPtycRCHilOCihMeJsaBM3BiCfsyacsI/hM0QsHFLmjjdknp/3QkD8lOEjxn2a9M5a3oQ==;aq4XWXIh1rUzStVHPSGsWg=="
 ---

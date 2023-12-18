@@ -10,7 +10,7 @@
       "originalUrl": "https://health.economictimes.indiatimes.com/news/health-it/will-ai-substitute-doctors-in-healthcare-industry/106097951",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -41,50 +41,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-12-18-ai-machine-learning-changing-how-first-responders-handle-911-emergencies.md",
-      "title": "AI, machine learning changing how first responders handle 911 emergencies",
-      "excerpt": "Nothing kills more people in the U.S. than heart disease, and researchers within the UPMC health enterprise are using machine learning to advance the breadth and efficiency of electrocardiogram (ECG)",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/cnhi_network/ai-machine-learning-changing-how-first-responders-handle-911-emergencies/article_77449f24-9c25-5cd4-8b79-451f817784ff.html",
-      "originalUrl": "https://www.joplinglobe.com/cnhi_network/ai-machine-learning-changing-how-first-responders-handle-911-emergencies/article_77449f24-9c25-5cd4-8b79-451f817784ff.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/7/e3/7e3426d4-0195-5420-9d0e-e9502693b12f/657cd1cbf050c.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-18T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI",
         "Natural Language Processing"
       ]
@@ -1409,6 +1365,41 @@
       "topics": [
         "Natural Language Processing",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-04-natural-language-processing-and-recognition-market-is-booming-worldwide-with-microsoft-ibm-baidu.md",
+      "title": "Natural Language Processing and Recognition Market Is Booming Worldwide With Microsoft, IBM, Baidu",
+      "excerpt": "The Global Natural Language Processing and Recognition Market Size is estimated to register 30.8% growth over the forecast period from 2023 to 2030. The Global Natural Language Processing and Recognition Market Size is estimated to register 30.8% growth ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/the-wire/natural-language-processing-and-recognition-market-is-booming-worldwide-with-microsoft-ibm-baidu/",
+      "originalUrl": "https://www.cmswire.com/the-wire/natural-language-processing-and-recognition-market-is-booming-worldwide-with-microsoft-ibm-baidu/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

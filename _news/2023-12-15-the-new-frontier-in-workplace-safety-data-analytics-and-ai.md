@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/12/15/the-new-frontier
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/12/15/the-new-frontier-in-workplace-safety-data-analytics-and-ai/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 127
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
         width: 1280
         height: 719
         isCached: true
-  - title: "M2P Fintech acquires data analytics and intelligence platform Goals101"
-    excerpt: "Chennai-based financial infrastructure provider M2P Fintech has acquired big data analytics and intelligence platform Goals101."
-    publishedDateTime: 2023-12-13T18:24:00Z
-    webUrl: "https://www.thehindu.com/news/national/tamil-nadu/m2p-fintech-acquires-data-analytics-and-intelligence-platform-goals101/article67635358.ece"
-    ampWebUrl: "https://www.thehindu.com/news/national/tamil-nadu/m2p-fintech-acquires-data-analytics-and-intelligence-platform-goals101/article67635358.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/tamil-nadu/m2p-fintech-acquires-data-analytics-and-intelligence-platform-goals101/article67635358.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 44
-    images:
-      - url: "https://th-i.thgim.com/public/news/national/tamil-nadu/rszzy3/article67635811.ece/alternates/FREE_1200/WhatsApp%20Image%202023-12-13%20at%2011.51.17%20PM.jpeg"
-        width: 1200
-        height: 421
-        isCached: true
   - title: "How will AI and analytics keep people healthy, safe and thriving in 2024?"
     excerpt: "\"The rise of AI and analytics will continue to transform the government workforce, including in public safety. In 2024, law enforcement will see a turning point in hiring 'digital natives' who embrace and demand technology to protect, defend and serve citizens.\""
     publishedDateTime: 2023-12-14T15:12:00Z
@@ -93,15 +77,6 @@ related:
     provider:
       name: Finanznachrichten
       domain: finanznachrichten.de
-    quality: 16
-  - title: "Striim Integrates with Microsoft Fabric to Deliver Real-Time Data Streaming Innovation for Analytics and AI"
-    excerpt: "Striim, an industry leader in real-time data integration and streaming, is excited to announce its integration with"
-    publishedDateTime: 2023-12-13T18:51:00Z
-    webUrl: "https://www.datanami.com/this-just-in/striim-integrates-with-microsoft-fabric-to-deliver-real-time-data-streaming-innovation-for-analytics-and-ai/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
     quality: 16
 
 secured: "K3yW9E68YM9zNDPTQOOY3bNc2sbGLLSMo8i0lvtkb2y1sC1+16NCOauT9Jj2YaKPAjISrZ2lssphwRrwkDCgVPWsKq0USN/oePzJTHWiJGP3F8mtPn7R4NO6ojFs71shVYqzsy8i0xjBguIZfrWTr4LeNJlimbdfgcWMutV3GUOy6sYqkKexD008QTxgipW4V/QbjYnPGi+W+DZa/xiROcdbSoMVS8u3HrhhcHqb3mkcCQwEI7OoFshW5pVZHfz5I60xZKVi/Q4aI1Xpn9UtEDnHV+CE/61FrJq4P7TYQ+SauyDS9RWidqPR//rXqufCCRtjSpV0smjYnugSeHz0+GT3WiracvG3QdTamFzLDDwRie6keNYmcA23+dooXvCHhEULLRGwFRY2f6XMTdRQw0atjVqenUMYn+ciNuvT6/emD/GxljK8FznYT5xhqtLifrlgzZa4TIVpQqQ3K22SXZugvgzG4u/1aBEAOdEuVoYUjXCbf1WVZATITnwCsu5RyU3ai//ll5YYOTIIjFlovw==;MrQRIjdzATU2wf7LyIDe1A=="

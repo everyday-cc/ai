@@ -44,20 +44,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 42
-  - title: "House Resolution to Analyze Artificial Intelligence Heads to House"
-    excerpt: "Merski's team said he has previously advocated for steering AI away from nefarious actors and directing it toward being a beneficial, useful source for good in our society."
-    publishedDateTime: 2023-12-13T18:25:00Z
-    webUrl: "https://www.erienewsnow.com/story/50216333/house-resolution-to-analyze-artificial-intelligence-heads-to-house"
-    type: article
-    provider:
-      name: Erie News Now
-      domain: erienewsnow.com
-    quality: 37
-    images:
-      - url: "https://WICU.images.worldnow.com/images/25234973_G.jpeg?lastEditedDate=1696261550000"
-        width: 1280
-        height: 577
-        isCached: true
   - title: "Nth Exception launches AI tool for ISO 20022 adoption"
     excerpt: "London-based fintech Nth Exception has launched Nucleus, a machine learning data fabric to ease financial institutions into ISO 20022 adoption."
     publishedDateTime: 2023-12-15T11:06:00Z

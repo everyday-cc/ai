@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/neilsahota/2023/12/15/precision-educati
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/neilsahota/2023/12/15/precision-education-how-k-12-schools-are-embracing-ai/amp/"
 type: article
 quality: 104
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://media.wfmynews2.com/assets/WFMY/images/d6c9631c-6688-4aa7-9ab7-b5a7149521d4/d6c9631c-6688-4aa7-9ab7-b5a7149521d4_1140x641.jpg"
         width: 1140
         height: 641
+        isCached: true
+  - title: "Education and Artificial Intelligence: Navigating the Path to Transformation"
+    excerpt: "In a world where technology is evolving at an unprecedented pace, education stands on the cusp of transformation. Imagine classrooms where teachers are"
+    publishedDateTime: 2023-12-18T17:57:00Z
+    webUrl: "https://www.edsurge.com/news/2023-12-18-education-and-artificial-intelligence-navigating-the-path-to-transformation"
+    type: article
+    provider:
+      name: EdSurge
+      domain: edsurge.com
+    quality: 53
+    images:
+      - url: "https://edsurge.imgix.net/uploads/post/image/15641/Shutterstock_1958892118-1701817153.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop"
+        width: 1024
+        height: 512
         isCached: true
   - title: "The Dawn Of AI Disruption: How 2024 Marks A New Era In Innovation"
     excerpt: "On the computing front, more advanced AI chips and dedicated hardware infrastructure will enable running sophisticated generative models at the edge - built for efficiency without compromising capability. This will exponentially expand smaller ..."

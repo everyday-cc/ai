@@ -7,8 +7,8 @@ originalUrl: "https://www.joplinglobe.com/cnhi_network/ai-machine-learning-chang
 webUrl: "https://www.joplinglobe.com/cnhi_network/ai-machine-learning-changing-how-first-responders-handle-911-emergencies/article_77449f24-9c25-5cd4-8b79-451f817784ff.html"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: Joplin Globe
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Massage therapy students offer free massages for first responders"
-    excerpt: "Massage therapy students at MacEwan University offered free massages to 70 local first responders at their clinic on campus this December."
-    publishedDateTime: 2023-12-13T18:33:00Z
-    webUrl: "https://edmonton.ctvnews.ca/massage-therapy-students-offer-free-massages-for-first-responders-1.6685638"
-    type: article
-    provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 39
-    images:
-      - url: "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2023/12/13/massage-therapy-program-1-6685666-1702489200980.png"
-        width: 1020
-        height: 574
-        isCached: true
   - title: "AI, machine learning changing how first responders handle 911 emergencies"
     excerpt: "Nothing kills more people in the U.S. than heart disease, and researchers within the UPMC health enterprise are using machine learning to advance the breadth and efficiency of electrocardiogram readin"
     publishedDateTime: 2023-12-14T13:01:00Z

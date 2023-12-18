@@ -7,7 +7,7 @@ originalUrl: "https://betakit.com/ft-the-fintech-times-synctera-and-monarch-mone
 webUrl: "https://betakit.com/ft-the-fintech-times-synctera-and-monarch-money-seek-to-fill-canadian-finance-gaps/"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     height: 700
     isCached: true
 
-secured: "o72/EDj09Pp26r9b99p0e04LHEOOp9Fv26Eya7DbzWGX4/KJZs5TgjhPZILWoNNtQkqJW/iAHybTeZTOryw7CzrcJHGz8GGoVoERpanHEXsiUoqOMskQBYQpr97y/sjboXSn5VYQZxCsZymVz8k2rFSHdaRjAhePqt5Sf5XtaRQzFqvc6gPPr3vtI+hIXocBMK9rNe4v79RoNSAUIdu6sdIKWlmozjZp8oTp1AfFqYgNM2RjJntPgaGh+Ni24MTxLbYw62E7wTfBBO76J+R8SCj1dZmgrlNRiOwumnoIdxXR7K/tZkPX6GiTLxaAGWmXtS55t5PE+LGnIB+FTRDx3up/IA2e7m94d9aLrE7tgXw=;rPZsB/HN8LeTfaHdeLP4yw=="
+related:
+  - title: "Canapi Ventures, the Fintech VC Fund, Raises $750 Million Fund II"
+    excerpt: "Canapi Ventures, the fintech venture capital fund backed by nearly 70 financial ... This includes the responsible use and “governance of AI, cybersecurity, and the intersection of financial services and climate technology.” To that end, Canapi has ..."
+    publishedDateTime: 2023-12-18T12:48:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/12/218486-canapi-ventures-the-fintech-vc-fund-raises-750-million-fund-ii/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/12/218486-canapi-ventures-the-fintech-vc-fund-raises-750-million-fund-ii/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/12/218486-canapi-ventures-the-fintech-vc-fund-raises-750-million-fund-ii/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 59
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/Andrew-Jackson-Money-20-Dollars-Pastel.jpeg"
+        width: 1200
+        height: 1188
+        isCached: true
+
+secured: "ZwHp8wSBolP2FoQBp6STPGh9NR7t3llgQGVMDSUHhFRngJxmXm1gyomFfnASB2THC7IIe3uB+2lZzYqBAHLccKq+Zb5wfTUe862/J7k+1SeV7I2L3dN5tqJHLlmXSJDV7wpzZV8vAqruDrdlV4eltTXCoAKYxW+gdFXHa8P3QnMZ41S/3ePWxtEbn7ysrX3iXQpLiBozWKJlK9qYx4gAHHwjbL7ZVRoFhA+c2/frjJzyGcjllCAijsf55R9k6QihzUIvNJTjfIpG1ZO9BuaqUwd1XBpzQvXvfSyMHTCvFeKMZKIeAPVot0TmWGdYkCl55yZ3WXTLnVwe8TTMNgNRKnA0tK6RkYHDB6yW8bIszYPHGh5IMYXdfjHqXmQQYXhKCmZZWHNsyeNVnb7X8VQ/CgMzPCUJj3kXCqfMaBQvfco00+STKI59JsAC5IAE5HXgtOT4gE5Z6Q/bGlk+L1iG73fG++itWXVxYZq0aaStypI11XkoeB4hb5S1HcaWmGWEzPKx7p1uZIzclF7GCIEvig==;gcYM+KEDw243UJ2cgUvmcw=="
 ---
 

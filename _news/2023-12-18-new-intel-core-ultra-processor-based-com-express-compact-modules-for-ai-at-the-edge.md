@@ -407,6 +407,20 @@ related:
         width: 940
         height: 773
         isCached: true
+  - title: "Acer Debuts AI-Ready Swift Go 14 Laptop with New Intel Core Ultra Processors"
+    excerpt: "Acer announced new models of the AI-ready Acer Swift Go 14 (SFG14-72)powered byIntel® Core™ Ultraprocessors that feature Intel Arc graphics processing unit (GPU) and Intel AI Boost,"
+    publishedDateTime: 2023-12-18T17:08:00Z
+    webUrl: "https://pragativadi.com/acer-debuts-ai-ready-swift-go-14-laptop-with-new-intel-core-ultra-processors/"
+    type: article
+    provider:
+      name: Pragativadi
+      domain: pragativadi.com
+    quality: 36
+    images:
+      - url: "https://pragativadi.com/wp-content/uploads/2023/12/Untitled-design-22.png"
+        width: 640
+        height: 381
+        isCached: true
   - title: "Intel Launches Core Ultra ‘Meteor Lake’ Chips In AI PC Push Against Rivals"
     excerpt: "Intel said the new Core Ultra chips for ultrathin laptops provide superior multi-threading and AI performance to rivals."
     publishedDateTime: 2023-12-14T17:21:00Z

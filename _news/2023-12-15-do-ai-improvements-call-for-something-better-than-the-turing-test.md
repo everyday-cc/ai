@@ -76,20 +76,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Google’s AI Isn’t a Gimmick, It’s the Future | AI Unlocked"
-    excerpt: "Gizmodo chats with Google Bard’s product leader about what Google’s AI is currently capable of producing through text responses."
-    publishedDateTime: 2023-12-13T17:26:00Z
-    webUrl: "https://gizmodo.com/google-bard-ai-text-chatbots-jack-krawczyk-1851096226"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 69
-    images:
-      - url: "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/a198d33db5ba133829eb15eda8174b0e.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "How AI Is Influencing The Mortgage Industry"
     excerpt: "In the not-so-distant future, you might join a video call and meet with a virtual representative to discuss your mortgage options. Afterward, an AI-written document will deliver personalized recommendations based on the conversation."
     publishedDateTime: 2023-12-18T08:59:00Z
@@ -119,6 +105,20 @@ related:
       - url: "https://diginomica.com/sites/default/files/images/2019-03/BAC4C93B-CED2-461B-99FB-60C96BB3FD17.jpeg"
         width: 640
         height: 426
+        isCached: true
+  - title: "AI or not to AI: How artificial intelligence is changing the industry"
+    excerpt: "One of the most profound statements that I’ve ever heard on artificial intelligence was presented in the form of a joke. It was delivered decades ago by an English Lit professor of mine who taught classes both on John Milton and on science fiction and fantasy literature."
+    publishedDateTime: 2023-12-18T18:25:00Z
+    webUrl: "https://www.plantservices.com/technology/artificial-intelligence/article/33016391/ai-or-not-to-ai-how-artificial-intelligence-is-changing-the-industry"
+    type: article
+    provider:
+      name: Plant Services
+      domain: plantservices.com
+    quality: 54
+    images:
+      - url: "https://img.plantservices.com/files/base/ebm/plantservices/image/2023/12/657b45e23fa0aa001efeca59-ai_or_not_to_ai_how_artificial_intelligence_is_cha.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
         isCached: true
   - title: "2023: The year of AI gift-giving and other holiday shopping trends"
     excerpt: "Flowcode analyzed holiday shopping forecasts from Salesforce and the National Retail Federation to identify a few major trends for 2023."

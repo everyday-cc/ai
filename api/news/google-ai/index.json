@@ -55,7 +55,7 @@
       "originalUrl": "https://thenextweb.com/news/deepminds-ai-finds-solution-to-decades-old-math-problem",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -100,21 +100,21 @@
       ]
     },
     {
-      "path": "_news/2023-12-14-funsearch-making-new-discoveries-in-mathematical-sciences-using-large-language-models.md",
-      "title": "FunSearch: Making new discoveries in mathematical sciences using Large Language Models",
-      "excerpt": "In a paper published in Nature, we introduce FunSearch, a method for searching for “functions” written in computer code, and find new solutions in mathematics and computer science. FunSearch works by pairing a pre-trained LLM, whose goal is to provide creative solutions in the form of computer code,",
+      "path": "_news/2023-12-15-google-deepmind-announces-the-funsearch-training-method.md",
+      "title": "Google DeepMind announces the “FunSearch” training method",
+      "excerpt": "Google DeepMind has introduced a new method called FunSearch. This method uses Large Language Models (LLMs) to search for new solutions in mathematics and computer science. The method is described ...",
       "sourceUrl": null,
-      "webUrl": "https://deepmind.google/discover/blog/funsearch-making-new-discoveries-in-mathematical-sciences-using-large-language-models/",
-      "originalUrl": "https://deepmind.google/discover/blog/funsearch-making-new-discoveries-in-mathematical-sciences-using-large-language-models/",
+      "webUrl": "https://www.gizchina.com/2023/12/15/google-deepmind-funsearch-method-mathematics-computer-science/",
+      "originalUrl": "https://www.gizchina.com/2023/12/15/google-deepmind-funsearch-method-mathematics-computer-science/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 84,
       "tags": null,
       "images": [
         {
-          "url": "https://lh3.googleusercontent.com/GC6SH0u6DyyCT9C1LH6XXmproSod7o5QGp9-Oe8BsuXyPzBlfcxFHX9pxXg69ZftEVU0Joga7tyo0VwQOSBBrugZ8qfl9_X-pgiH527p71S7DC32Jw=w1200-h630-n-nu",
+          "url": "https://www.gizchina.com/wp-content/uploads/images/2023/12/Google-DeepMind.jpg",
           "width": 1200,
-          "height": 630,
+          "height": 648,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -122,23 +122,14 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-14T16:00:00Z",
+      "ampWebUrl": "https://www.gizchina.com/2023/12/15/google-deepmind-funsearch-method-mathematics-computer-science/amp/",
+      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2023/12/15/google-deepmind-funsearch-method-mathematics-computer-science/amp/",
+      "publishedDateTime": "2023-12-15T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "GizChina",
+        "domain": "gizchina.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -147,8 +138,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Google AI"
+        "Google AI",
+        "AI"
       ]
     },
     {

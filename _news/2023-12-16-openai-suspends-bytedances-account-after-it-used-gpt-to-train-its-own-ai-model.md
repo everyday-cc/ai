@@ -52,6 +52,15 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 47
+  - title: "OpenAI Says Board Can Overrule CEO on Safety of New AI Releases"
+    excerpt: "The arrangement was mentioned in a set of guidelines released Monday explaining how the ChatGPT-maker plans to deal with AI risks."
+    publishedDateTime: 2023-12-18T18:03:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-12-18/openai-says-board-can-overrule-ceo-on-safety-of-new-ai-releases"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
   - title: "OpenAI announces second round of AI startup fund"
     excerpt: "OpenAI has opened applications for the second cohort of its six-week program for artificial intelligence (AI) startups, Converge 2, through which it will invest $1 million into each of the 15 successful participants selected."
     publishedDateTime: 2023-12-15T11:01:00Z

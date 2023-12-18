@@ -26,6 +26,17 @@ images:
     height: 675
     isCached: true
 
+related:
+  - title: "Agility is using large language models to communicate with its humanoid robots"
+    excerpt: "Accordingly, a number of top universities, research labs and companies are exploring the best methods for leveraging these artificial intelligence platforms. Well-funded Oregon-based startup Agility has been playing around with the tech for a while now ..."
+    publishedDateTime: 2023-12-14T19:46:00Z
+    webUrl: "https://techcrunch.com/2023/12/14/agility-is-using-large-language-models-to-communicate-with-its-humanoid-robots/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 30
+
 secured: "z4ZR3bfiCd7eklp2WtbH7sCT6LF9KOA0JysGzFODbt9XO+ZYNNlr0JkZVJdAsAH/Vb6Xo9qk9HzVVeKkdbsenKoVY6vpssYFyc891wY7csPlT8pQG5dfAFj73oMtoij4tHlA4zUWU+bpWDXs0YqMIGIt61mIBSSzYuGyYs6KuJ2Fp+Xq1PgMAisuIrOia8fHCz2RxRwU3vrJ828qIb0u4WAdBMPBzKWNTs5+MOwByA/3MZxYbIyYsTFRHtsbnfCmSaJGWrDGqAdvt53uQcQHb+KiD2t0k22CutfKoJednWYWA0QXRP816zFDCSTZekodpGhayr/aQ/oeBSoOYbqkPaKIowjaBpvXgOC2e0BEWAQ=;ywjY9WDU5JWNwp5mL/2r+w=="
 ---
 

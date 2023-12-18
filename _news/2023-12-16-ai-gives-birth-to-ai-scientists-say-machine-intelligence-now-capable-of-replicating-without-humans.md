@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/science/ai-gives-birth-ai-scientists-say-mac
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/science/ai-gives-birth-ai-scientists-say-machine-intelligence-capable-replicating-without-humans.amp"
 type: article
 quality: 75
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "AI self-replication: Machine intelligence can now replicate independently"
+    excerpt: "One device Sun and Chen demonstrated — a human activity tracker that uses AI to gather and analyze motion data — was housed in a chip smaller than a dime. That sensor is an example of tiny machine learning, small AI systems that can be used in compact ..."
+    publishedDateTime: 2023-12-18T10:46:00Z
+    webUrl: "https://www.fox10phoenix.com/news/ai-self-replication-machine-intelligence-can-now-replicate-independently"
+    ampWebUrl: "https://www.fox10phoenix.com/news/ai-self-replication-machine-intelligence-can-now-replicate-independently.amp"
+    cdnAmpWebUrl: "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/news/ai-self-replication-machine-intelligence-can-now-replicate-independently.amp"
+    type: article
+    provider:
+      name: FOX 10 Phoenix
+      domain: fox10phoenix.com
+    quality: 40
 
 secured: "DlyvOV3FtswrxGrOWZlI9QTrK7R+lEJoJsjT/tYiRX9uulwr38CfovAUIhFdroNy+bfGaOdIkVXp6C1MAOtkO3aWsfRnCgtw7hq9kBbwM8MRmOqwgm3INbkPgb4eRM91dSu8ZSt+NkomlhddUwAGlWvBEoppg5VeWsqq5WCIoiZdLjlhPo5OrjaDRdVax7pKhfFtSLW8iEJk98NeACF8BT5hppm+tq5YxZBa7i59vx4iBJNR0wF9TZjw95I1RAG1ThiUBbuhEnZR+MztKSDELFJASibFiVqOsDP/WZLPRvDyEmJh0oT00QoGN5aBuUP2L8j5MUauu0F8LO21VV3HjbZMaK5Jg7X7OTXNiwSRdYjo7UTzBjqzMAUm7Vs8l7nOpQgycMCFmNueCsnfv2PoZYzepZx7DAPptBp9BQ6MkgNZ0jRRF8olZoBPCU6GskJxt5xofqNoDo4tboKAbGw/J8SE1rQQ8pgpEXwFX6PCjcgab0Wy/NZFsXA6F4oIwImj26zm4bbovdN2rEd0YoM4tw==;7Jf/FaK96oS6aJ0mVl9EcQ=="
 ---

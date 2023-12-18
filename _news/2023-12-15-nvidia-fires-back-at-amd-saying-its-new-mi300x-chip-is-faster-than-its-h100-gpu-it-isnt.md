@@ -25,21 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "Breaking: AMD Is Not The Fastest GPU; Here’s The Real Data."
-    excerpt: "Nvidia has just released a blog that counters AMD's claim that its latest chip, the MI300X, is 40-60 % faster in latency and throughput than Nvidia in inference processing for generative AI. Here is one of AMD’s slides at the MI300 launch event, which we covered here."
-    publishedDateTime: 2023-12-13T18:00:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2023/12/13/breaking-amd-is-not-the-fastest-gpu-heres-the-real-data/"
-    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2023/12/13/breaking-amd-is-not-the-fastest-gpu-heres-the-real-data/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/12/13/breaking-amd-is-not-the-fastest-gpu-heres-the-real-data/amp/"
+  - title: "AMD says its MI300X AI accelerator is faster than Nvidia's H100"
+    excerpt: "AMD has finally launched its Instinct MI300X accelerators, a new generation of server GPUs designed to provide compelling performance levels for generative AI workloads and other"
+    publishedDateTime: 2023-12-18T12:42:00Z
+    webUrl: "https://www.techspot.com/news/101238-amd-mi300x-ai-accelerator-faster-than-nvidia-h100.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: TechSpot
+      domain: techspot.com
+    quality: 69
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6578921c5953b091cefa2b75/0x0.jpg?format=jpg&crop=638,359,x0,y401,safe&height=900&width=1600&fit=bounds"
-        width: 1599
-        height: 900
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/12/2023-12-18-image-4.jpg"
+        width: 2000
+        height: 1125
+        isCached: true
+  - title: "Intel stock hits a fresh 52-week high after saying its new AI chip tops Nvidia's H100"
+    excerpt: "At 11:00 EDT (16:00 GMT), Intel stock was up about 4% on the day, hitting a new 52-week high."
+    publishedDateTime: 2023-12-14T16:46:00Z
+    webUrl: "https://za.investing.com/news/intel-stock-hits-a-fresh-52week-high-after-saying-its-new-ai-chip-tops-nvidias-h100-432SI-2958248"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 47
+    images:
+      - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
+        width: 251
+        height: 282
+        isCached: true
+  - title: "SuperNIC network accelerator for AI cloud data introduced by NVIDIA"
+    excerpt: "Learn more about the new SuperNIC network accelerator for AI cloud data launched by NVIDIA. But what is SuperNIC and why does it matter?"
+    publishedDateTime: 2023-12-18T14:34:00Z
+    webUrl: "https://www.geeky-gadgets.com/supernic-network-accelerator/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/what-is-SuperNIC.jpg"
+        width: 1280
+        height: 792
         isCached: true
 
 secured: "n2KFb3WNHICuZ9ZJ/sCe/lCRXS/MXz4EsgBOovYxWDRYogGSvqxKyV6kHwwiHX9qLZKF9VSEytKvy7ryCYqxQp9ziRtCvKMTr6kBHS+7MRyAM25AdksWnseAdqdkhjWyb9ZdSLoNJPM7qitHIG6XI2AjR7qF4UnHEdMCzCi0v9A0eEMukypBSaKkM2pFaiYDXdf75VvSjSBhVl3e15PreDxGgoc44XnI6C6AfKpcRWw7kwQ8beeCwZ5cMstCmNlaXLbf7lJFoBbOHlirzswI5nDZE/RujRr1djOmNLjehWIZGCEXhrv2+NW0psDHn1jr4UQdW0t8zZ6L0o318EzoeWDJ6n1w95XMzQG3pQVNyExDIKI3A60q6wH5l+Cvttlv4ekFphOGywrUq8CevM/8x36IF2cXphdF0+K2hxk/Iraqrvvltfmg9AG3tiQKQlDG9nlavzDsymYcN3oKVGllxRAeX4ai7PkdZGIlYRGmPW5XPn+dZ1lsDWKOl60MmuMnb3Xc8aTZHZ+/9kR3Kv9fvA==;je/+wuI/ZciQjsOKrGSZTg=="

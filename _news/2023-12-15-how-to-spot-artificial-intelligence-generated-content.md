@@ -68,6 +68,20 @@ related:
         width: 1200
         height: 663
         isCached: true
+  - title: "IBM: Fumbling Away AI Potential"
+    excerpt: "International Business Machines Corporation's failure to benefit from Watson's AI technology and poor earnings and growth raises concerns. Learn more on IBM stock here."
+    publishedDateTime: 2023-12-18T16:36:00Z
+    webUrl: "https://seekingalpha.com/article/4658478-ibm-fumbling-away-ai-potential"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 39
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1299625464/image_1299625464.jpg?io=getty-c-w1536"
+        width: 1536
+        height: 1024
+        isCached: true
   - title: "Exploring the Limitless Potential: Applications of Artificial Intelligence in Today’s World"
     excerpt: "Welcome to a world where machines can think, learn, and even surpass human intelligence. Artificial Intelligence (AI) has taken the global stage by storm, offering unparalleled opportunities for innovation and growth in various sectors."
     publishedDateTime: 2023-12-17T13:25:00Z

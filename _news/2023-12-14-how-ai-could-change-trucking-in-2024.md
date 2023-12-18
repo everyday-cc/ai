@@ -18,24 +18,20 @@ topics:
   - AI
 
 related:
-  - title: "EU’s Sweeping New AI Act Could Be An Innovation Killer"
-    excerpt: "The European Union's draft AI law emerges amidst rising concerns among EU member states that regulations could choke off innovation."
-    publishedDateTime: 2023-12-15T19:54:00Z
-    webUrl: "https://www.forbes.com/sites/jamesbroughel/2023/12/15/eus-sweeping-new-ai-act-could-be-an-innovation-killer/"
+  - title: "Breaking barriers: How AI will transform hiring & HR in 2024"
+    excerpt: "It’s a big problem to solve. In 2024, with the help of AI, this will start to change. We’ll see AI-powered applications introduced and adopted that allow recruiters to conduct large-scale, qualitative interviews in a short period of time, giving ..."
+    publishedDateTime: 2023-12-14T17:21:00Z
+    webUrl: "https://www.benefitspro.com/2023/12/14/breaking-barriers-how-ai-will-transform-hiring-hr-in-2024/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "EU AI Act: The Regulation vs Innovation Dilemma for Europe"
-    excerpt: "The act means large language models (LLMs) such as ChatGPT need to comply with transparency obligations before they are put on the market."
-    publishedDateTime: 2023-12-15T10:39:00Z
-    webUrl: "https://www.techopedia.com/eu-ai-act-the-regulation-vs-innovation-dilemma-for-europe"
-    type: article
-    provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 19
+      name: Benefits Pro
+      domain: benefitspro.com
+    quality: 37
+    images:
+      - url: "https://images.benefitspro.com/contrib/content/uploads/sites/412/2023/12/Artificial-Intelligence-Article-202312111051.jpg"
+        width: 620
+        height: 372
+        isCached: true
 
 secured: "6Ttwf/ZSF5OvuMm8nq3OY1Mod6E405Ua1P1nsUtNcBjbjDDFycrcyNhBBpppHflkjpW3qc9Eoh/41gucph1998txbX1WBbFjlRneKeKEg7SwXok/f6Tg+STHGIzEEIR0fnpcHSmkBVEHjCsan5JEc6njQ4eu7GadWbn+ZZeM4ryITgqOCGCYImSXSgh0Q56xWfmMidy/Ohr8brPaROfg6ZjYISEy7fVO9MOKBD/neQ18tDdytSO77ONmh7xBlIuVnpttDVm+o6EoOlMKuALiwhL2ho4AYIr5MKMWgF2ArLwd4psHFQZhGNrKOXEJwOhXNUNxnzg5Op0X7gliLJGiiXQCMBP46h/JMQE7/f1Bwxs=;HbewC+dyfuQqjj3QvMnuVg=="
 ---

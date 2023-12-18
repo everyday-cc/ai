@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-10-16-candor-on-gene-therapy-abiomed-is-warned-btk-success-in-ms.md",
+      "title": "Candor on gene therapy, Abiomed is warned, & BTK success in MS",
+      "excerpt": "Want to stay on top of the science and politics driving biotech today? Sign up to get our biotech newsletter in your inbox. Good morning! Today, cell and",
+      "sourceUrl": null,
+      "webUrl": "https://www.statnews.com/2023/10/16/candor-on-gene-therapy-abiomed-is-warned-btk-success-in-ms/",
+      "originalUrl": "https://www.statnews.com/2023/10/16/candor-on-gene-therapy-abiomed-is-warned-btk-success-in-ms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.statnews.com/wp-content/uploads/2023/10/IMG_3071-1024x576.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-16T13:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "STAT",
+        "domain": "statnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-16-techno-plasticity-in-the-age-of-artificial-intelligence.md",
       "title": "Techno-plasticity in the Age of Artificial Intelligence",
       "excerpt": "But as artificial intelligence (AI ... represent a fascinating and potentially transformative step in machine learning. Unlike traditional neural networks that are trained and deployed in a relatively static state, liquid networks are designed to ...",

@@ -7,7 +7,7 @@ originalUrl: "https://www.newstalk.com/news/facial-recognition-technology-draft-
 webUrl: "https://www.newstalk.com/news/facial-recognition-technology-draft-law-to-be-published-today-1623984"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,62 @@ images:
     isCached: true
 
 related:
+  - title: "Draft details of proposed Facial Recognition Technology Bill set to be published"
+    excerpt: "The outline of legislation which would allow gardaí to use Facial Recognition Technology (FRT) will be published today. Justice Minister Helen McEntee this week received Cabinet approval for the draft Facial Recognition Technology Bill. In the aftermath ..."
+    publishedDateTime: 2023-12-14T00:01:00Z
+    webUrl: "https://www.rte.ie/news/ireland/2023/1214/1421890-facial-recognition/"
+    type: article
+    provider:
+      name: RTE Online
+      domain: www.rte.ie
+    quality: 49
+    images:
+      - url: "https://img.rasset.ie/001be4a5-1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Draft law on facial recognition technology to be published"
+    excerpt: "Bill will help gardaí trawl through thousands of hours of CCTV when investigating serious crimes, Helen McEntee says"
+    publishedDateTime: 2023-12-14T10:15:00Z
+    webUrl: "https://www.irishtimes.com/crime-law/2023/12/14/draft-law-on-facial-recognition-technology-to-be-published/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 39
+    images:
+      - url: "https://www.irishtimes.com/resizer/gJ4MIXUU4-aNv2dWvdirPwJu8N4=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/WGSE7J3PY5HFLAAVS6Z5DH2BPQ.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Draft Law On Facial Recognition Technology To Be Published"
+    excerpt: "This new facial recognition technology or FRT would mean they can use biometric identification to search footage which would significantly speed up investigations. Following the D"
+    publishedDateTime: 2023-12-14T18:35:00Z
+    webUrl: "https://www.98fm.com/news/draft-law-on-facial-recognition-technology-to-be-published-1624002"
+    type: article
+    provider:
+      name: Dublin's 98FM
+      domain: 98fm.com
+    quality: 39
+    images:
+      - url: "https://media.radiocms.net/uploads/2020/10/supervision-1674614_1920.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
+  - title: "Irish Cabinet approves draft police facial recognition bill"
+    excerpt: "Minister of Justice Helen McEntee has received approval to publish the draft of the Garda Síochána (Recording Devices) (Amendment) Bill of 2023."
+    publishedDateTime: 2023-12-14T23:07:00Z
+    webUrl: "https://www.biometricupdate.com/202312/irish-cabinet-approves-draft-police-facial-recognition-bill"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/19132752/garda-surveillance-scaled.jpg"
+        width: 2048
+        height: 1360
+        isCached: true
   - title: "Dublin riots: Draft law on facial recognition technology to be published"
     excerpt: "Minister says legislation will help gardaí trawl through thousands of hours of CCTV when investigating serious crimes"
     publishedDateTime: 2023-12-14T06:03:00Z
@@ -53,20 +109,6 @@ related:
         width: 613
         height: 400
         isCached: true
-  - title: "Use of Indian languages in AI programming will bring down bias in technology: Meity secretary"
-    excerpt: "AI technology-based language translation applications have been developed largely using English language as base and therefore often they are unable to give correct output in other languages. \"While it (English) can be a language of business to some degree ..."
-    publishedDateTime: 2023-12-18T13:17:00Z
-    webUrl: "https://www.deccanherald.com/india/use-of-indian-languages-in-ai-programming-will-bring-down-bias-in-technology-meity-secretary-2815983"
-    type: article
-    provider:
-      name: Deccan Herald
-      domain: deccanherald.com
-    quality: 28
-    images:
-      - url: "https://images.deccanherald.com/deccanherald%2F2023-12%2Ff5eaa6b1-fec6-4898-8246-b4369ccb9b65%2FGBDDrNIacAAeD9A.jpg?rect=0%2C0%2C1599%2C839&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Dublin riots: McEntee publishes draft law on facial recognition tech"
     excerpt: "Minister for Justice Helen McEntee has published a draft bill on the use of facial recognition technology by An Garda Síochána."
     publishedDateTime: 2023-12-14T12:30:00Z
@@ -76,15 +118,6 @@ related:
       name: SiliconRepublic
       domain: siliconrepublic.com
     quality: 19
-  - title: "Use of Indian languages in AI will bring down bias in technology: Meity secretary"
-    excerpt: "At present, the government is working on AI technology to enable citizens across the country to communicate with each other seamlessly using digital translation tools developed under the Bhashini program."
-    publishedDateTime: 2023-12-18T14:11:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/use-of-indian-languages-in-ai-will-bring-down-bias-in-technology-meity-secretary/articleshow/106099353.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 14
 
 secured: "7zWMF9u1r5+x8C0gULWe8CQCAMMkimAHb8JWfPD0J32kirEeTG1VXj37JB5SXAwNM3Yr8oCyZHLf8CzbL+bvZC2jJt1fGnN0wbcw4IcUUq4GvW6R3iMlOwjz3H4CgtrVaWTCdBSJGMuLvgLtXnlU4RyEiIdB72uDIZMFlJaSxGXxnuu38tmVgawS9i2WHx1ck9+dqrQni37bLEs/QavqqQdTJ6Tm1YyFBDNwrTMct/y+7pXAdclRGt7G/DYhHJTFhu/Q5FU6kSI04QGfNEHpsO2WkmrIa29RddofHpjkLBwTOoIx/9OdEsOEYOKwH/ihS+t7JtjQHr+CqGPdGwxv2uYq/HA9qAs4MZmyU2t+OMo=;lUJAyuD6HV3q40YPK7Ufcg=="
 ---

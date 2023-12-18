@@ -67,6 +67,20 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Education and Artificial Intelligence: Navigating the Path to Transformation"
+    excerpt: "In a world where technology is evolving at an unprecedented pace, education stands on the cusp of transformation. Imagine classrooms where teachers are"
+    publishedDateTime: 2023-12-18T17:57:00Z
+    webUrl: "https://www.edsurge.com/news/2023-12-18-education-and-artificial-intelligence-navigating-the-path-to-transformation"
+    type: article
+    provider:
+      name: EdSurge
+      domain: edsurge.com
+    quality: 53
+    images:
+      - url: "https://edsurge.imgix.net/uploads/post/image/15641/Shutterstock_1958892118-1701817153.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "Implementing AI technology in business education"
     excerpt: "With that idea in mind, I want to share my experiences and those of my colleagues here at Gies College of Business at the University of Illinois Urbana–Champaign . Our approach to adopting artificial intelligence (AI) illustrates how we can embrace new technologies and prepare students for what they will encounter in their future careers."
     publishedDateTime: 2023-12-18T10:00:00Z

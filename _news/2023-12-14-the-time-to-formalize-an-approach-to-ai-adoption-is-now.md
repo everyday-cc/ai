@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/12/14/the-time
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/12/14/the-time-to-formalize-an-approach-to-ai-adoption-is-now/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 42
-  - title: "House Resolution to Analyze Artificial Intelligence Heads to House"
-    excerpt: "Merski's team said he has previously advocated for steering AI away from nefarious actors and directing it toward being a beneficial, useful source for good in our society."
-    publishedDateTime: 2023-12-13T18:25:00Z
-    webUrl: "https://www.erienewsnow.com/story/50216333/house-resolution-to-analyze-artificial-intelligence-heads-to-house"
-    type: article
-    provider:
-      name: Erie News Now
-      domain: erienewsnow.com
-    quality: 37
-    images:
-      - url: "https://WICU.images.worldnow.com/images/25234973_G.jpeg?lastEditedDate=1696261550000"
-        width: 1280
-        height: 577
-        isCached: true
   - title: "Love in the time of artificial intelligence: Desperately seeking the human-AI connection"
     excerpt: "If AI dredges up apocalyptic fears that it will corrode human connections irreparably, maybe the best solution is to ask another informed human being."
     publishedDateTime: 2023-12-18T14:01:00Z

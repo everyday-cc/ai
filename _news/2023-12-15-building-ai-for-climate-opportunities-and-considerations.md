@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/15/buildi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/12/15/building-ai-for-climate-opportunities-and-considerations/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Telling My Whole Life With AI’s Words: Ethical Considerations Regarding Attorney Use and Misuse of Artificial Intelligence"
+    excerpt: "Fugees rapper Pras Michel is set to make his case for a new trial after his attorney allegedly violated ethics rules when he used an AI tool the lawyer invested in to draft a closing statement in the artist's foreign influence case."
+    publishedDateTime: 2023-12-18T18:34:00Z
+    webUrl: "https://www.law.com/therecorder/2023/12/18/telling-my-whole-life-with-ais-words-ethical-considerations-regarding-attorney-use-and-misuse-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 43
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/403/2023/12/Lin-Graber-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
 
 secured: "qgcR07EApoH9p6aiQl9TLq/NxyS72OgH8y+ioSWvoaiL/YdRXOHjsQXVNR9d7CrGBcnrVQqEO+N6z7hbqiwSUJx0dgDpfn5HwevPMV/v1zpBJqvfEHShyF/1Z4qMjANXi+dJeyMJkGWBDpDZwNAqsdNJvEYKh7ZVZQdV6/hW/VgI57eXRjgPls/JoUBIKSuW5GQLP29AtdWgcbNJG5a9lFRnxJMQ5CaJitucf0JLdf8GQLDKJaBBsOyFZj2goMQKMWgANygpORuzYLQZZKfVlDO5FA4An+lnGKpOg0eIvHyahtvqsJpQt5rImH1LNCAitRnYLwcgoh8rVjTX9rYZGVm7OBQZ3Nkwd8b4GUciKU14LRJuB7F8rTOQki/5qI9SebJ9nPt5V1qAmzb87NXGX7kv5gmuGlPZo0YlcKJtKqAaVw0VGYLo9m9tzBOWYNA9ejc/HXQjjrN02jgDXFGs603K0RlbsuFKu1HeOTs/w6395fW4mGKYyipSV9SO6bULsrgBmDg+hC/QWN+udAcm5w==;yGgixNLdIxf8KIjxak6Sig=="
 ---

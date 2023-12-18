@@ -10,7 +10,7 @@
       "originalUrl": "https://health.economictimes.indiatimes.com/news/health-it/will-ai-substitute-doctors-in-healthcare-industry/106097951",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -1297,6 +1297,58 @@
       ]
     },
     {
+      "path": "_news/2023-12-05-ai-in-health-care-the-perils-of-bidens-executive-order.md",
+      "title": "AI in health care: The perils of Biden's executive order",
+      "excerpt": "For those committed to health care access and affordability, the regulatory scope of this AI-focused executive order is alarming. Artificial intelligence stands on the cusp of revolutionizing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/opinion/ai-health-care-perils-bidens-executive-order",
+      "originalUrl": "https://www.foxnews.com/opinion/ai-health-care-perils-bidens-executive-order",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/09/340/340/Joe-Grogan-Headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/opinion/ai-health-care-perils-bidens-executive-order.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/ai-health-care-perils-bidens-executive-order.amp",
+      "publishedDateTime": "2023-12-05T07:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-04-artificial-intelligence-in-teaching-and-learning.md",
       "title": "Artificial intelligence in teaching and learning",
       "excerpt": "UD leads the conversation about AI in the context of teaching and learning with an interdisciplinary UD working group and other initiatives",
@@ -1338,49 +1390,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-12-04-how-can-medical-schools-educate-students-on-artificial-intelligence.md",
-      "title": "How Can Medical Schools Educate Students on Artificial Intelligence?",
-      "excerpt": "The University of Texas has developed the first dual degree program in the United States to prepare medical students to work with artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/features/how-can-medical-schools-educate-students-on-artificial-intelligence",
-      "originalUrl": "https://healthitanalytics.com/features/how-can-medical-schools-educate-students-on-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthitanalytics.com/images/site/features/_normal/ThinkstockPhotos-801680832.jpg",
-          "width": 690,
-          "height": 398,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T14:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

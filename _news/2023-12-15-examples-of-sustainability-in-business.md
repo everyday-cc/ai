@@ -7,8 +7,8 @@ originalUrl: "https://www.ibm.com/blog/sustainability-in-business-examples/"
 webUrl: "https://www.ibm.com/blog/sustainability-in-business-examples/"
 type: article
 quality: 82
-heat: 92
-published: true
+heat: -1
+published: false
 
 provider:
   name: IBM
@@ -22,15 +22,20 @@ topics:
   - IBM AI
 
 related:
-  - title: "Delivering security and scalability in today’s business landscape requires more than setting up a front line of defense"
-    excerpt: "Cybersecurity can be a strategic initiative that supports product capability, organizational effectiveness and customer relationships.\nThe post Delivering security and scalability in today’s business landscape requires more than setting up a front line of defense appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-12-14T17:00:00Z
-    webUrl: "https://www.ibm.com/blog/delivering-security-and-scalability-in-todays-business-landscape/"
+  - title: "Examples and uses of GIS"
+    excerpt: "Geographic information systems (GIS) visualize and make sense of geospatial data, helping us better understand the patterns and relationships of our world.\nThe post Examples and uses of GIS appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-12-18T18:27:39Z
+    webUrl: "https://www.ibm.com/blog/geographic-information-system-use-cases/"
     type: article
     provider:
       name: IBM
       domain: ibm.com
-    quality: 75
+    quality: 102
+    images:
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/12/3e267523-e37a-4523-8c93c2c2e4f4ec17.blog-lead-space-2x1-1.png"
+        width: 1080
+        height: 540
+        isCached: true
 
 secured: "OnMdjSLCXgMQ+rJ6Q4uWCNVbtvmL0zrGtGdFe6sD62DKlpEFO+rv5i8ShUwp3V9/JH2958nbM4uYBXaOvGocZUiUwIOkUncoxicSBqI/0wU5hx7XtCMNGm4I8YejzHwTT4jEvmDUJxLGpaMvT42FtKoWzSvhLjpArFjYyhKfe+kI6gJQhri+mPp+mfLB03ikqYjjC4dBhsnYGTT93WC0n4HTY1aN7k+20j9N7H7H1zse5Fw4DiREWsfAuk/naKyRrS43pYaGGEfWI+1FEKYgd32gLjVjcozLvuX87+ohqGTpttHEL0D4FrDDMw9m80m1F4Ycg9MfGhP2mQgBfWHlQlgtDtBkjKKf8BlAEXHgsI0=;nn7uRMqgfKmnen137cBjjQ=="
 ---

@@ -42,22 +42,6 @@ related:
         width: 1599
         height: 900
         isCached: true
-  - title: "M2P Fintech acquires data analytics and intelligence platform Goals101"
-    excerpt: "Chennai-based financial infrastructure provider M2P Fintech has acquired big data analytics and intelligence platform Goals101."
-    publishedDateTime: 2023-12-13T18:24:00Z
-    webUrl: "https://www.thehindu.com/news/national/tamil-nadu/m2p-fintech-acquires-data-analytics-and-intelligence-platform-goals101/article67635358.ece"
-    ampWebUrl: "https://www.thehindu.com/news/national/tamil-nadu/m2p-fintech-acquires-data-analytics-and-intelligence-platform-goals101/article67635358.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/tamil-nadu/m2p-fintech-acquires-data-analytics-and-intelligence-platform-goals101/article67635358.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 44
-    images:
-      - url: "https://th-i.thgim.com/public/news/national/tamil-nadu/rszzy3/article67635811.ece/alternates/FREE_1200/WhatsApp%20Image%202023-12-13%20at%2011.51.17%20PM.jpeg"
-        width: 1200
-        height: 421
-        isCached: true
   - title: "How will AI and analytics keep people healthy, safe and thriving in 2024?"
     excerpt: "\"The rise of AI and analytics will continue to transform the government workforce, including in public safety. In 2024, law enforcement will see a turning point in hiring 'digital natives' who embrace and demand technology to protect, defend and serve citizens.\""
     publishedDateTime: 2023-12-14T15:12:00Z
@@ -89,15 +73,6 @@ related:
     provider:
       name: Finanznachrichten
       domain: finanznachrichten.de
-    quality: 16
-  - title: "Striim Integrates with Microsoft Fabric to Deliver Real-Time Data Streaming Innovation for Analytics and AI"
-    excerpt: "Striim, an industry leader in real-time data integration and streaming, is excited to announce its integration with"
-    publishedDateTime: 2023-12-13T18:51:00Z
-    webUrl: "https://www.datanami.com/this-just-in/striim-integrates-with-microsoft-fabric-to-deliver-real-time-data-streaming-innovation-for-analytics-and-ai/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
     quality: 16
 
 secured: "rrXpq/eiErRW9pkAbnmZAfCPuxuPS+UfnVRAtgul+gZRgGXuW8ZG0BHarRE3301QarD5ezfedikkls39N1HJARsLOtlJ+Z/4uGdpRQ70052z+HV8vZ6KHJjvUKwylF76xE8viASBQQDDgjj8MmFBKIc8gpw5nmnQGMkRJW5YqH+YOOEhDIXfCqvw1RCHYyoFdEiaY+lBdnDhwWCAYv9jdFuYVe+96bwa/BptJJlab9wknBXWe9HewnmAEDEGkw1AW6TkLvvl038CGm8c7Z9AEiNBjsePhetlFrFdcsZmZJNHdMfL0AJjd/BsLGaVHEI2aa3huCRMQIvSBbUqE6u2B8MQH9gU7DnrQjJNLh7mX7OWOPBFqQZ7BdHVUDQEsSah0uvPvdpSWXvqI8LyCHYr+Owi3igG+1T7AH9PkeOrn9wQBXiSHFdqyi812sptRprgCa6nvEivETG6dnroVfAO/70RDqfJDm6/GzwboTY70KhN6dd1FegPrrfoKc+FBMZhuXHwngWkqOQ29EoOBQHMsA==;3pMykUQ2B9WNFNZQ3nGYQA=="

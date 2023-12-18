@@ -3,11 +3,11 @@ category: news
 title: "How Banks Can Stay Resilient As AI Becomes More Disruptive"
 excerpt: "Historically, disruption is extremely rare. Only 23 of the 568 companies included in the Fortune 500 since 1997 were under 15 years old when they entered. But right now, there are three forces converging that might transform finance and other industries."
 publishedDateTime: 2023-12-18T13:15:00Z
-originalUrl: "https://hbr.org/2023/12/how-banks-can-stay-resilient-as-ai-becomes-more-disruptive?ab=HP-hero-latest-text-1"
-webUrl: "https://hbr.org/2023/12/how-banks-can-stay-resilient-as-ai-becomes-more-disruptive?ab=HP-hero-latest-text-1"
+originalUrl: "https://hbr.org/2023/12/how-banks-can-stay-resilient-as-ai-becomes-more-disruptive"
+webUrl: "https://hbr.org/2023/12/how-banks-can-stay-resilient-as-ai-becomes-more-disruptive"
 type: article
-quality: 17
-heat: 17
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI
 
-secured: "ujeL0c7CKqOZS63vWosHu/x9Bmd1UXR0Xd9KdwC5aT6GFHGeKgcdXQJw9z+62+M4RUV4Y2MipLxjzdyQ+pfqws9dj90pN+X0bsPvK4MqPXi63jp5ZC+o6lM0eYpF2fpzT/mSsD5jtqcqR2kxGfPf/C/Zf0kCaVppF68gPFBbuge92arLLI4KCjh3ghVZVGO+Lw/zKpnkXSdK9xfLq2ekvUQWQgQs9FhTMn1L56YEB8uvtX9huYK7s3yl9t1ZG6AOb4rYR8JNu+ygbwpFGK1X8z3YTBSHZWpmkNpVy8+MMBtu2FMREHqhjD5bErGctgn7RR5WnYWzRxxQl/hKBl6cJjSxygb4CpXDNM7dBd3D8a1cUEXOvrjzAdRQwvHdfeyjM8n6bucKvxpOVSLuNTcFlX+QF8g2GBB8PDCH5FJvclh3zNPiAm8PGTKGnbf3yh6bQnQWibawrlZwKXv3z1NqITpHek8M3Ru3V64qdoQ4G3abDaAxp3jFfbmBe+9L4YatFbhFnkkS3l+NJnCecCtfDQ==;Pp6U4PfeJC/zrXr2tY10eg=="
+images:
+  - url: "https://hbr.org/resources/images/article_assets/2023/09/Dec23_18_BanksResilient.jpg"
+    width: 2400
+    height: 1350
+    isCached: true
+
+secured: "HwpLlO8nO4tSDaDS1z0mITglq8n/CxUSBUNWpqjIqPlz3pNAzUO8EkE/K2whCCjkhlZirGuOXpG6V4mLdEnzMwvZlm+DcF73byieeL6Ci9hPLyOs5MB7ovj2Eqx/wjYHUPGNPRWF9Sy70GfdWzLZ/rcresp7kIlE8sj+aCDdtWwRok9vMKFHzhgFjHrkzTXLjQJrf2OZGe1carXMjBNHzVBwk3HUdDnlHQ6UGZbv1iHqmS1RWV/d2ojEHb5nEU7H5H4fQZowK+JoO7YuDCLTTizTRPPOth6DzW1tzijPXoqBBCHGAopmoM3RcbpUJHPJWxHcnaLJccuGHh6W/f8zMpjzBtBEdoyFWvTqTWKT530=;ZpulYCp6/k9k2i2J07vxwg=="
 ---
 

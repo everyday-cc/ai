@@ -7,8 +7,8 @@ originalUrl: "https://deepmind.google/discover/blog/funsearch-making-new-discove
 webUrl: "https://deepmind.google/discover/blog/funsearch-making-new-discoveries-in-mathematical-sciences-using-large-language-models/"
 type: article
 quality: 66
-heat: 76
-published: true
+heat: -1
+published: false
 
 provider:
   name: DeepMind
@@ -29,15 +29,22 @@ images:
     isCached: true
 
 related:
-  - title: "Agility is using large language models to communicate with its humanoid robots"
-    excerpt: "Accordingly, a number of top universities, research labs and companies are exploring the best methods for leveraging these artificial intelligence platforms. Well-funded Oregon-based startup Agility has been playing around with the tech for a while now ..."
-    publishedDateTime: 2023-12-14T19:46:00Z
-    webUrl: "https://techcrunch.com/2023/12/14/agility-is-using-large-language-models-to-communicate-with-its-humanoid-robots/"
+  - title: "Google DeepMind announces the “FunSearch” training method"
+    excerpt: "Google DeepMind has introduced a new method called FunSearch. This method uses Large Language Models (LLMs) to search for new solutions in mathematics and computer science. The method is described ..."
+    publishedDateTime: 2023-12-15T00:00:00Z
+    webUrl: "https://www.gizchina.com/2023/12/15/google-deepmind-funsearch-method-mathematics-computer-science/"
+    ampWebUrl: "https://www.gizchina.com/2023/12/15/google-deepmind-funsearch-method-mathematics-computer-science/amp/"
+    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2023/12/15/google-deepmind-funsearch-method-mathematics-computer-science/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 30
+      name: GizChina
+      domain: gizchina.com
+    quality: 74
+    images:
+      - url: "https://www.gizchina.com/wp-content/uploads/images/2023/12/Google-DeepMind.jpg"
+        width: 1200
+        height: 648
+        isCached: true
 
 secured: "TDwVVVCTwXpdWXQuT+mH532UYtYLT10Lw1CfVUlhO+3J+erzzWLnBPFnW064gnaoI1SMQcZ4ZB+9tSbjjx2iKkKwkKSXWXOa9u18B8WGNWWO53IkuR5CHQWAxdoel+zcddjhfeuBuBDrjzU+9Q1XC4ifH1Wj6KLn8ixBvJv1T8UuPih8noi2YR1SBaW66754B4q79DbIuwSh1DHpCa/uj7fVlA42mntKeoatfDRQu3I8FsTslr5W1UYWopghNh7r+HkHv1cj9CkS4olvgSj6G0lBhOT4GAuChiIxxB3KBwqKO4/nOz08u1p9hVbRAwrEFF16jtZtKu6EBHyqAoQhLm1Sb+VsdfqTr02yGqI1c+M=;3wJYvAjwnbQZmoT+q1obsg=="
 ---

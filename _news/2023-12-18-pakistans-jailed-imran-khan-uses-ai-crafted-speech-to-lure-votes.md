@@ -7,7 +7,7 @@ originalUrl: "https://www.usnews.com/news/world/articles/2023-12-18/pakistans-ja
 webUrl: "https://www.usnews.com/news/world/articles/2023-12-18/pakistans-jailed-imran-khan-uses-ai-crafted-speech-to-call-for-votes"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ topics:
   - AI
 
 related:
+  - title: "Imran Khan: Pakistan ex-PM used artificial intelligence to campaign from jail"
+    excerpt: "Former Pakistan Prime Minister Imran Khan's party has used an artificial intelligence voice clone of him to campaign from prison. Mr Khan had his three-year sentence for corruption suspended in August, but remains in jail. His Pakistan Tehreek-e Insaf (PTI) party used AI to make an audio clip to address an internet \"virtual rally\"."
+    publishedDateTime: 2023-12-18T18:47:00Z
+    webUrl: "https://www.bbc.com/news/world-asia-67752610"
+    ampWebUrl: "https://www.bbc.com/news/world-asia-67752610.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-asia-67752610.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 99
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/111B4/production/_132086007_b401abb6d6649c62754624359ab8f8192978b0ef0_287_5500_30951000x563.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Pakistan’s Jailed Ex-Leader Uses AI Clone After Public Rally Ban"
     excerpt: "Imran Khan, the jailed former prime minister of Pakistan, was able to deliver a public campaign speech Monday using a voice clone that was created with artificial intelligence. Khan has been behind bars since he was convicted on corruption charges in August."
     publishedDateTime: 2023-12-18T14:39:00Z

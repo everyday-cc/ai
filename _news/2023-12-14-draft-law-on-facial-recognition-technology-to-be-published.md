@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Parliament security system to be reviewed; image will be captured by facial recognition device"
-    excerpt: "Following a major security breach in Parliament, the security protocols were overhauled with strict measures to reduce any contact between MPs and visitors."
-    publishedDateTime: 2023-12-13T18:13:00Z
-    webUrl: "https://www.devdiscourse.com/article/politics/2745136-parliament-security-system-to-be-reviewed-image-will-be-captured-by-facial-recognition-device"
-    ampWebUrl: "https://www.devdiscourse.com/article/politics/2745136-parliament-security-system-to-be-reviewed-image-will-be-captured-by-facial-recognition-device?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/politics/2745136-parliament-security-system-to-be-reviewed-image-will-be-captured-by-facial-recognition-device?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 64
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/13_12_2023_18_13_26_9504778.jpg?width=1280"
-        width: 1280
-        height: 960
-        isCached: true
   - title: "Draft details of proposed Facial Recognition Technology Bill set to be published"
     excerpt: "The outline of legislation which would allow gardaí to use Facial Recognition Technology (FRT) will be published today. Justice Minister Helen McEntee this week received Cabinet approval for the draft Facial Recognition Technology Bill. In the aftermath ..."
     publishedDateTime: 2023-12-14T00:01:00Z
@@ -54,6 +38,20 @@ related:
       - url: "https://img.rasset.ie/001be4a5-1600.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Facial Recognition Technology: Draft law to be published today"
+    excerpt: "Following the Dublin riots last month, the offences of riot and violent disorder were also included in the legislation"
+    publishedDateTime: 2023-12-14T05:44:00Z
+    webUrl: "https://www.newstalk.com/news/facial-recognition-technology-draft-law-to-be-published-today-1623984"
+    type: article
+    provider:
+      name: Newstalk
+      domain: newstalk.com
+    quality: 39
+    images:
+      - url: "https://media.radiocms.net/uploads/2023/12/14064055/Facial-recognition-research-equipment-edit.jpg"
+        width: 1920
+        height: 1198
         isCached: true
   - title: "Draft Law On Facial Recognition Technology To Be Published"
     excerpt: "This new facial recognition technology or FRT would mean they can use biometric identification to search footage which would significantly speed up investigations. Following the D"
@@ -69,6 +67,57 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Irish Cabinet approves draft police facial recognition bill"
+    excerpt: "Minister of Justice Helen McEntee has received approval to publish the draft of the Garda Síochána (Recording Devices) (Amendment) Bill of 2023."
+    publishedDateTime: 2023-12-14T23:07:00Z
+    webUrl: "https://www.biometricupdate.com/202312/irish-cabinet-approves-draft-police-facial-recognition-bill"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/19132752/garda-surveillance-scaled.jpg"
+        width: 2048
+        height: 1360
+        isCached: true
+  - title: "Dublin riots: Draft law on facial recognition technology to be published"
+    excerpt: "Minister says legislation will help gardaí trawl through thousands of hours of CCTV when investigating serious crimes"
+    publishedDateTime: 2023-12-14T06:03:00Z
+    webUrl: "https://www.businesspost.ie/news/dublin-riots-draft-law-on-facial-recognition-technology-to-be-published/"
+    type: article
+    provider:
+      name: The Sunday Business Post
+      domain: businesspost.ie
+    quality: 38
+    images:
+      - url: "https://imengine.public.prod.sbp.infomaker.io?uuid=249c1420-af22-597e-9e71-beff73204c2e&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.60322&width=1200&height=675&x=1.0E-5&y=0.19839"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "McEntee receives Cabinet approval for draft legislation for facial recognition technology"
+    excerpt: "The legislation will allow An Garda Síochána to use biometric identification to retrospectively search CCTV in some circumstances."
+    publishedDateTime: 2023-12-14T00:10:00Z
+    webUrl: "https://www.thejournal.ie/cabinet-approves-draft-legislation-facial-recognition-technology-6248686-Dec2023/"
+    type: article
+    provider:
+      name: TheJournal.ie
+      domain: thejournal.ie
+    quality: 30
+    images:
+      - url: "https://img2.thejournal.ie/article/6248686/river/?height=400&version=6248713"
+        width: 613
+        height: 400
+        isCached: true
+  - title: "Dublin riots: McEntee publishes draft law on facial recognition tech"
+    excerpt: "Minister for Justice Helen McEntee has published a draft bill on the use of facial recognition technology by An Garda Síochána."
+    publishedDateTime: 2023-12-14T12:30:00Z
+    webUrl: "https://www.siliconrepublic.com/business/dublin-riots-facial-recognition-technology-police-draft-law-ireland-helen-mcentee"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 19
 
 secured: "Qq3ZbkMz/0+ws1jPpWMUG2/XXqePeVOpl5RW7gDzvGOeBXKxx5V/kf1FANherFdv+ZGm1xQquATR7mNjFuYIb8vvD/K5uJ1FPwoYNGqo3HpiPrm1E7HEzHNYbH3XZskhnHC8IEpMg1z2mngmpU1JBdEErBCaB/UBLa1nbtP56IcRy6uIgZQaZ7Hn7bG84bPdJvov76mOjazJe8TbNhIQsE0Ca4cy/opNAF+7sereKhFUzofoMQQ/vc6F1CiXFNZTpaDRCsP2uuBZFquyuLkpxvtYtjIKU/3Uh6vkpzxlEeIgev0rj/Hj2eRQq+s1SNhMr7ykwcTUba1UdCSPVthlET2zlELzep92rBn81iWEZts=;dJazI/XQZs5P9lfSy2Va6g=="
 ---

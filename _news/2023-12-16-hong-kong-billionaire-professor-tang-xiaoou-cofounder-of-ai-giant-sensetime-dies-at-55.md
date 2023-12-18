@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/ywang/2023/12/16/hong-kong-billionair
 webUrl: "https://www.forbes.com/sites/ywang/2023/12/16/hong-kong-billionaire-professor-tang-xiaoou-cofounder-of-ai-giant-sensetime-dies-at-55/"
 type: article
 quality: 58
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -51,6 +51,20 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
+  - title: "SenseTime co-founder dies, casting shadow over Chinese facial recognition giant"
+    excerpt: "SenseTime is known as one of China’s “four little dragons” of AI, along with fellow facial recognition-providers Cloudwalk Technology, Megvii and Yitu."
+    publishedDateTime: 2023-12-18T17:41:00Z
+    webUrl: "https://www.biometricupdate.com/202312/sensetime-co-founder-dies-casting-shadow-over-chinese-facial-recognition-giant"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 35
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/12/09151310/sensetime-new.jpg"
+        width: 2000
+        height: 1040
+        isCached: true
 
 secured: "3hmYnMXSzVvc/1Uf5drpSiITXO/mdO+o1gKBk/POVoeJ427iMZ2j94UVBd6sMrYmd9FSHBYZT32U7IyQ5MpoQBcW7oK8U9WC/oFP88nAiRSf/SyUFY4ARGylLQHCYRESQBQL09zJ3uW9nWOvEgSvU4MM4IXNjKVVzHfLw/n3uqDjCnw+hOJ1trajfJmORmLUOTkWWy47n+RDbvTt9fhRXND5RqjyepcGUPnBufHNQWVsqfX/xGH8IIgCZ146nRj1cCweE4vUMnmhX887XKOFZzfkwiToiPkJG3jNk4rtgSAWfrY7lMprGjWcaf6f294lfrklkgtX4AGuhscWPd2+c2mL+T7y1hl6ge5rZN/2UsKAz3BS9RycZ4YWFQDK62NnldQbgdL93zp6eVNEo+d7CDyJSA1Qx/+eoPBId5I6FNFJ6GXiLCikstZUQvg4m2zzqQ60U0r8X/qYXikUajx6Ue0cHNGMm4AANPGLQWijNc/KzoMM0RcLPrcb0Scx5QTV+GuVp1VTfC8+/qb/CDvnkw==;ZaAs5TbilhsDW1G7XrdaJA=="
 ---
