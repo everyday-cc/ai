@@ -1,0 +1,92 @@
+---
+category: news
+title: "Quasar Markets Partners with Dragon List Global to Revolutionize FinTech Research"
+excerpt: "This partnership aims to enhance financial research and market insights across emerging global markets.New York, NY, United States - December"
+publishedDateTime: 2023-12-18T03:18:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/quasar-markets-partners-with-dragon-list-global-to-revolutionize-fintech-research-1032907242"
+webUrl: "https://markets.businessinsider.com/news/stocks/quasar-markets-partners-with-dragon-list-global-to-revolutionize-fintech-research-1032907242"
+type: article
+quality: 31
+heat: -1
+published: false
+
+provider:
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI in Finance
+  - AI
+  - Meta AI
+
+related:
+  - title: "Strengthen fintech regulations, bank audit leaders tell CBN"
+    excerpt: "The association has called for stricter regulations of the fintech space as well as the operations of the Bureaux de Change."
+    publishedDateTime: 2023-12-16T23:00:00Z
+    webUrl: "https://punchng.com/strengthen-fintech-regulations-bank-audit-leaders-tell-cbn/"
+    ampWebUrl: "https://punchng.com/strengthen-fintech-regulations-bank-audit-leaders-tell-cbn/?amp"
+    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/strengthen-fintech-regulations-bank-audit-leaders-tell-cbn/?amp"
+    type: article
+    provider:
+      name: The Punch Newspapers
+      domain: punchng.com
+    quality: 59
+    images:
+      - url: "https://cdn.punchng.com/wp-content/uploads/2023/10/12163722/WhatsApp-Image-2023-10-10-at-8.33.12-PM.jpeg"
+        width: 1024
+        height: 854
+        isCached: true
+  - title: "Register now for the Citi Cup fintech competition"
+    excerpt: "Citigroup Services and Technology (China) (CSTC) has announced that the 19th Citi Financial Innovation Application Competition (also known as the Citi Cup) is open for online registration. CSTC leads Citigroup's financial technology and financial operations services industry in China."
+    publishedDateTime: 2023-12-18T04:16:00Z
+    webUrl: "https://www.aap.com.au/aapreleases/cision20231217ae95944/"
+    type: article
+    provider:
+      name: Australian Associated Press
+      domain: aap.com.au
+    quality: 24
+    images:
+      - url: "https://www.aap.com.au/wp-content/themes/aap-news_theme/dist/assets/images/sport300x250.108183d0.gif"
+        width: 300
+        height: 250
+        isCached: true
+  - title: "Quasar Markets Partners With Dragon List Global To Revolutionize Fintech Research"
+    excerpt: "Quasar Markets Partners with Dragon List Global to Revolutionize FinTech Research This partnership aims to enhance financial research and market ins"
+    publishedDateTime: 2023-12-13T10:39:00Z
+    webUrl: "https://menafn.com/1107586474/Quasar-Markets-Partners-With-Dragon-List-Global-To-Revolutionize-Fintech-Research"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?877739"
+        width: 375
+        height: 250
+        isCached: true
+  - title: "Bank audit executives seek stricter regulation for fintech, BDCs"
+    excerpt: "ACAEBIN also called for stricter regulations of the fintech space as well as the operations of the Bureaux de Change."
+    publishedDateTime: 2023-12-13T19:08:00Z
+    webUrl: "https://punchng.com/bank-audit-executives-seek-stricter-regulation-for-fintech-bdcs/"
+    type: article
+    provider:
+      name: The Punch Newspapers
+      domain: punchng.com
+    quality: 19
+  - title: "Nigerian Audit Chiefs Urge Tighter Oversight of Fintech Sector"
+    excerpt: "The Association of Chief Audit Executives of Banks in Nigeria (ACAEBIN) has urged for tougher regulations in the fintech sector and the operations of Bureaux"
+    publishedDateTime: 2023-12-17T10:17:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/12/218389-nigerian-audit-chiefs-urge-tighter-oversight-of-fintech-sector/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 4
+
+secured: "d1fh2gkeig/yiVMCjckdEnf9khwLOSXVxLRtEO8B8nKaP/+8+rv8P3aTIaSEX1+1Z9Lq4P+Vvx4h5GY3vrh7QjjAqjlZJRzEbojOpjHu5Bo//qCWBKrAm4gMT689pslZ4JSsS1egiGG435aYXuWZqft5uu7PF61ADLyDuCgYyt8SipAcHPO7msAXuM9vfTzp08ihuuVJhhkC/z/tFH0DQwii1Ov3g1NDchUn/7K5lT/5Th0Fqi+qAc69y62YsXEM5OFqI22O7TRI/smG/aI5qwumssrNtx0tLw3UzBHTvwNXqwxPWl8FoiDsaN783KuYxgWc/4Q3mAZYpYigpZmhD9L6XiUxB65HYlfZdSUi2rc=;fQFHHuX54JE1/oexjp3CCQ=="
+---
+

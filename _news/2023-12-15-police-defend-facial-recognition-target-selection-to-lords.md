@@ -35,6 +35,20 @@ related:
         width: 1193
         height: 716
         isCached: true
+  - title: "'Success' for Southampton facial recognition cameras trial"
+    excerpt: "A three-month trial that has seen bouncers wear body-worn cameras with facial recognition technology has been a 'success', organisers have said."
+    publishedDateTime: 2023-12-18T03:30:00Z
+    webUrl: "https://www.dailyecho.co.uk/news/23995483.success-southampton-facial-recognition-cameras-trial/"
+    type: article
+    provider:
+      name: Southern Daily Echo
+      domain: dailyecho.co.uk
+    quality: 39
+    images:
+      - url: "https://www.dailyecho.co.uk/resources/images/17559966/?type=og-image"
+        width: 620
+        height: 413
+        isCached: true
   - title: "Panthers to add facial recognition at BofA Stadium"
     excerpt: "The Panthers and Verizon are adding facial recognition technology at Bank of America Stadium that will allow football fans to get into games faster beginning this weekend."
     publishedDateTime: 2023-12-15T20:02:00Z

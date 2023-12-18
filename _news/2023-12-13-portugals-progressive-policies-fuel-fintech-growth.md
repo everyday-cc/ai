@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/meaghanjohnson/2023/12/13/portugals-pro
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/meaghanjohnson/2023/12/13/portugals-progressive-policies-fuel-fintech-growth/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Genesis of Fintech Giant Black Banx"
-    excerpt: "The Genesis of Fintech Giant Black BanxNew York, United States - December 13, 2023 — Despite being a relatively young industry, there are a"
-    publishedDateTime: 2023-12-13T03:31:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-genesis-of-fintech-giant-black-banx-1032895268"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
   - title: "Finastra Leaders Predict Top Fintech Trends For 2024"
     excerpt: "Finastra has shared its executive insights on the anticipated trends, challenges and opportunities for the fintech landscape in 2024."
     publishedDateTime: 2023-12-13T07:35:00Z

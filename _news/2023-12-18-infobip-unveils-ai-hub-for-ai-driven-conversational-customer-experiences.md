@@ -7,7 +7,7 @@ originalUrl: "https://www.asiaone.com/business/infobip-unveils-ai-hub-ai-driven-
 webUrl: "https://www.asiaone.com/business/infobip-unveils-ai-hub-ai-driven-conversational-customer-experiences"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Patient Prism Unveils Revolutionary AI-Driven Healthcare Platform with New Website Launch"
-    excerpt: "A cutting-edge conversational intelligence tool that interprets patient communication with unprecedented depth, offering actionable insights for healthcare providers. Tailored KPIs: Our platform provides specific,"
-    publishedDateTime: 2023-12-13T04:49:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/patient-prism-unveils-revolutionary-ai-driven-healthcare-platform-with-new-website-launch-1032895318"
+  - title: "H&R Block unveils conversational AI tax assistant for DIY filers"
+    excerpt: "In addition to helping with specific tax rules, the AI assistant can also provide direction as to which DIY product might be best for the individual filing situation. H&R Block said the AI Tax Assistant is not available in its free online filing app, but it’s available at no cost in the first tier of its online edition and above starting at $35."
+    publishedDateTime: 2023-12-14T20:08:00Z
+    webUrl: "https://siliconangle.com/2023/12/14/hr-block-unveils-conversational-ai-tax-assistant-diy-filers/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 75
-    images:
-      - url: "https://storage.googleapis.com/mmstudio-images/gallery/featured/pr-patient-prism-unveil-1702401307.png"
-        width: 600
-        height: 313
-        isCached: true
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 19
 
 secured: "cw8Ypt6nmoJ+WQkOCNsVFdL7ZFsGFHwqXJsGU/F9ztG+RdD/tSjp2uaewoO0nYLcYVW2GbZ96+7Q2PejMQ4XNIP/hQmse+L2VeE+dyZ0ku3Pw/nJjAJx2lnqXF7NDJljXitapdPcHmOIp298V9ciTzSl6Bm5DXCL+i2OhD+Srj6UW3jw8n9nR8C7dJhmc19Jle508Z+Nt+fOUvmrMeZbUdWEpikQnzYNxTNaQzG8voOA1+Lh9HFeXbyqZkaScYTGl3LVBSE6VcTJiQTTnYW2s/ZeQ8cgD96JpQrQfDfPvLhy1H/YTeypSXWfvoUvFGKlOvfBtOx9ugCaCIujME7uyI6ObrhwpQvGDEaQA57q8vo=;hAFIYUa1DjI9T4xNTcXkvw=="
 ---

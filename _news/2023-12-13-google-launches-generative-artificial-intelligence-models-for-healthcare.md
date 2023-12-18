@@ -71,22 +71,6 @@ related:
         width: 750
         height: 375
         isCached: true
-  - title: "‘India to soon launch AI missions for agriculture, healthcare’: PM Modi at GPAI Summit 2023"
-    excerpt: "While inaugurating the GPAI or Global Partnership on Artificial Intelligence Summit, 2023, Prime Minister Narendra Modi announced that the government will soon launch AI missions, focussing on healthcare and agriculture,"
-    publishedDateTime: 2023-12-13T04:26:00Z
-    webUrl: "https://www.firstpost.com/tech/india-to-launch-ai-missions-soon-for-agriculture-healthcare-pm-modi-at-gpai-summit-2023-13497832.html"
-    ampWebUrl: "https://www.firstpost.com/tech/india-to-launch-ai-missions-soon-for-agriculture-healthcare-pm-modi-at-gpai-summit-2023-13497832.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/india-to-launch-ai-missions-soon-for-agriculture-healthcare-pm-modi-at-gpai-summit-2023-13497832.html/amp"
-    type: article
-    provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 66
-    images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2023/12/Untitled-1-1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Navigating AI in Healthcare: Dr. Donald Macfarlane's Warning on AI-Driven Medical Note-Taking"
     excerpt: "Dr. Donald Macfarlane warns against the use of AI-driven tools in medical note-taking due to fabrications that will negatively impact patient"
     publishedDateTime: 2023-12-15T18:11:00Z

@@ -35,6 +35,22 @@ related:
         width: 866
         height: 1083
         isCached: true
+  - title: "Indian language AI tool ‘Bhashini’ used to translate Prime Minister Narendra Modi’s speech"
+    excerpt: "Prime Minister Narendra Modi used an AI-powered Indian language translation tool, Bhashini, during a speech in Uttar Pradesh."
+    publishedDateTime: 2023-12-18T06:01:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/indian-language-ai-tool-bhashini-used-to-translate-prime-minister-narendra-modis-speech/article67649545.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/indian-language-ai-tool-bhashini-used-to-translate-prime-minister-narendra-modis-speech/article67649545.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/indian-language-ai-tool-bhashini-used-to-translate-prime-minister-narendra-modis-speech/article67649545.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 64
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/n5p5s8/article67649547.ece/alternates/FREE_1200/2023-12-14T205548Z_201180190_RC28X4A6DI51_RTRMADP_3_TECH-AI.JPG"
+        width: 1200
+        height: 723
+        isCached: true
   - title: "Indian AI startup Sarvam AI open-sources first Hindi AI model"
     excerpt: "Indian AI startup Sarvam AI has released its first large language model a Hindi AI model and open-sourced it days after closing a funding for $41 million."
     publishedDateTime: 2023-12-15T08:21:00Z

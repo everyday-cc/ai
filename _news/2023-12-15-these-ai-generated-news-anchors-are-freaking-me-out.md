@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/ai/2023/12/these-ai-generated-news-anchors
 webUrl: "https://arstechnica.com/ai/2023/12/these-ai-generated-news-anchors-are-freaking-me-out/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google’s fantastic AI-generated wallpapers could come to Chrome"
-    excerpt: "The first sighting of AI-generated themes making an appearance in Chrome comes from X (formerly Twitter) user Leopeva64. The user says they dove deep into some of the new code found within Google Chrome Canary, the testbed for Google’s browser."
-    publishedDateTime: 2023-12-13T03:28:00Z
-    webUrl: "https://bgr.com/tech/googles-fantastic-ai-generated-wallpapers-could-come-to-chrome/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/05/Customize-Chrome.jpg?quality=82&strip=all"
-        width: 2216
-        height: 1242
-        isCached: true
   - title: "None of these anchors are real: Channel 1 plans for AI to generate a news broadcast"
     excerpt: "Channel 1 AI released a promotional video explaining how the service will provide personalized news coverage to users from finance to entertainment."
     publishedDateTime: 2023-12-15T01:41:00Z

@@ -43,17 +43,6 @@ related:
         width: 1201
         height: 900
         isCached: true
-  - title: "PM Modi Announces New AI Mission To Boost Agriculture, Healthcare & Education"
-    excerpt: "PM Narendra Modi has announced the launch of a new AI mission to promote apps in agriculture, healthcare and education sectors."
-    publishedDateTime: 2023-12-13T04:27:00Z
-    webUrl: "https://inc42.com/buzz/pm-modi-announces-new-ai-mission-to-boost-agriculture-healthcare-education/"
-    ampWebUrl: "https://inc42.com/buzz/pm-modi-announces-new-ai-mission-to-boost-agriculture-healthcare-education/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/pm-modi-announces-new-ai-mission-to-boost-agriculture-healthcare-education/amp/"
-    type: article
-    provider:
-      name: inc42
-      domain: inc42.com
-    quality: 68
   - title: "Evolution of AI: Tracing the Definition of Artificial Intelligence Over Time"
     excerpt: "Introduction: The evolution of Artificial Intelligence (AI) has been a fascinating journey, marked by milestones, breakthroughs, and an ever-evolving definition. From its conceptualization to the present-day applications,"
     publishedDateTime: 2023-12-13T16:00:00Z

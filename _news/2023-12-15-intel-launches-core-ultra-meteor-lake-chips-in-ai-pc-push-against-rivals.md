@@ -410,6 +410,20 @@ related:
         width: 940
         height: 773
         isCached: true
+  - title: "New Intel Core Ultra Processor-Based COM Express Compact Modules For AI At The Edge"
+    excerpt: "With features like multiple P-cores, energy-efficient E-cores, and a powerful Intel Arc GPU, coupled with an integrated NPU for advanced AI processing, these modules are set to revolutionise industries like healthcare and industrial automation."
+    publishedDateTime: 2023-12-18T05:54:00Z
+    webUrl: "https://www.electronicsforu.com/news/new-intel-core-ultra-processor-based-com-express-compact-modules-for-ai-at-the-edge"
+    type: article
+    provider:
+      name: electronicsforu
+      domain: electronicsforu.com
+    quality: 33
+    images:
+      - url: "https://www.electronicsforu.com/wp-contents/uploads/2023/12/CONPR2315A-TC700-with-Meteor-Lake-Image-2.jpg"
+        width: 1800
+        height: 1200
+        isCached: true
   - title: "Intel Core Ultra is finally here, and it powers over 230 of the 'world's first AI PCs'"
     excerpt: "Intel Core Ultra is finally here, ushering in the era of the mobile AI PC, with Intel claiming up to 11% better performance than the AMD Ryzen 7 7840U."
     publishedDateTime: 2023-12-14T15:01:00Z

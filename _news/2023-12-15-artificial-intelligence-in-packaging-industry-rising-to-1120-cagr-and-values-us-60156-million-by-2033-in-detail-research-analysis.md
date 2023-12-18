@@ -24,22 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Industrial Machine Vision Market Sees a Bright Future: Anticipates a 6.9% CAGR, Targeting US$ 16.46 Billion by 2032"
-    excerpt: "The industrial machine vision market refers to the use of advanced vision systems and technologies in various industrial applications. Machine vision systems utilize cameras, sensors, and image processing algorithms to automate inspection,"
-    publishedDateTime: 2023-12-13T03:45:00Z
-    webUrl: "https://www.fmiblog.com/2023/12/13/industrial-machine-vision-market-sees-a-bright-future-anticipates-a-6-9-cagr-targeting-us-16-46-billion-by-2032/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 2
-    images:
-      - url: "https://www.fmiblog.com/wp-content/uploads/2023/12/Industrial-Machine-Vision-Market.jpeg"
-        width: 998
-        height: 623
-        isCached: true
-
 secured: "fukr+pdD72DjeoaxFMjPp82k/SB6k0N/yR7LxXjFz3GN/2Q//JcUewh476Em4TJj9416AFPUoxypBUFi6QmGNEPnG3r17tyft5BUV9yWeM+UqwxRgVql7iXFmAe+DRBN+/Pwp01twQsemqHo5UqtGY7/yTYLdc0Of7RhgIw/rOCkW3e8kD9v0ek0NsNaEbu1dQn3jZwi0RrHJFylG9SFB/5iHg1mRAApHM4JSe8Joq5z/EiTWf0QD/b1A/Z3RRpNO/IFXjp7dAkqhhAKTnp+fiCXV2cBE9ulYWGyJBS+21Xei8gxrDw2yxhyfYWsmQxrXKGHbtkx72Gsd2LCZ9Axa4TTdTdxOlqlnwfeK9XZD8mbQuzdkyUJRzbd1xYBS7qW7XOxsd5udJGdx0e5j3b7qvirEEWv3qVtd9uoSmCDyG4JXWkdg72WntDZSqhz3I1O3RLauUREQh7YRhQSYeDzM5bG4F859MUf+ldM9FYHEP7pSBHBHxRyEP67Zih9/6NXsRo/RfeBLuXSWycwjksZ7Q==;NGvE9e6Sw3tZCahjMfrvEQ=="
 ---
 

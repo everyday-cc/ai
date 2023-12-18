@@ -36,7 +36,7 @@ related:
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 25
+    quality: 27
     images:
       - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/11/27/edfd28bd-3947-4084-8a68-7050a6cbf9d8/thumbnail/1200x630g1/1fd75d7fcf55975c961225587c8d0aef/pope-francis-1814736114.jpg?v=5382e209c94ee904b3a96a69f8ca0ce0"
         width: 1200

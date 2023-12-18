@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/13/ai-in-2024
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/13/ai-in-2024-more-than-a-marketing-buzzword/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://images.tech.co/wp-content/uploads/2023/12/15131021/AdobeStock_690500744_Editorial_Use_Only-1.jpeg"
         width: 1920
         height: 1281
+        isCached: true
+  - title: "Investment Chief At $48B Global X Forecasts AI Stock Dominance In 2024: Unveils Top Investment Opportunities"
+    excerpt: "AI-related stocks including industry leaders like Nvidia (NASDAQ: NVDA), cloud computing, and cybersecurity stand out as \"naturals that fit together.\""
+    publishedDateTime: 2023-12-18T03:33:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/investment-chief-at-48b-global-x-forecasts-ai-stock-dominance-in-2024-unveils-top-investment-opportunities-1032907245"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/AI-shopping-Shutterstock_4.jpeg"
+        width: 1024
+        height: 768
         isCached: true
   - title: "How AI could change trucking in 2024"
     excerpt: "Samsara CIO Stephen Franchetti told FleetOwner: \"As the AI explosion continues, an organization's ability to stay competitive and innovate will come down to their enterprise data strategy. We'll start to see an increased need for a robust foundation of ..."

@@ -33,17 +33,6 @@ related:
         width: 1920
         height: 1081
         isCached: true
-  - title: "Samsung Galaxy Buds 3 Pro to get on-device AI for live translation: Report"
-    excerpt: "The Galaxy Buds 3 Pro would likely include real-time translations for in-person conversations among its core AI features"
-    publishedDateTime: 2023-12-13T05:24:00Z
-    webUrl: "https://www.business-standard.com/technology/tech-news/samsung-galaxy-buds-3-pro-to-get-on-device-ai-for-live-translation-report-123121300241_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/technology/tech-news/samsung-galaxy-buds-3-pro-to-get-on-device-ai-for-live-translation-report-123121300241_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/samsung-galaxy-buds-3-pro-to-get-on-device-ai-for-live-translation-report-123121300241_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 37
 
 secured: "fdqiSCX4kCfi0/qddzqsNVbRFhyi1Ro8cc2WI3Hrn4Ku1B/Y5oJFct/sZ56Qo2ynW4GMMltaJ5l/hXJwPHl/gOPPymDwQJVvNH4b7YEemv/gqMIT3R6Mx7j8bla1Wiuuho9ZhBMzLBlTP7oEBjoT4h0DZf/Lv5vwMkuafyVy5lgGf0l+WcjnuQRvvFgLycnCXTvHcuKubxAlIp32VC/idAYUZN/08TiR4VJNNiMSmucOHCS9G1aP1zISzSxxUw8Tnyo9NEiM6d/4BkQqIArrQnukfNGmGWsNGlkzIV+GQXMU5MSPwWfhSxaA3s5ffWyV8bhy2RS/n7Dr2GlTYns626rWpOhMlGMy5JPyGWPnsRL+z/56wUgw4h3XTHjI3pzLr0ar49v+jnp+cwXjmlKZWB2XhE/iGz6Lx9eSqjTZpitzu3wB7OTD0G5h59UtAVW59o+lQtT5TWsCAs++UVZ3sqXvLbvbS2kupnJ4Y+0mJbR564Jr7kzg7RO66VwExQGh28tNc+HNYC8aREOmpEjUwg==;d8NjluinJGCzH7Pkcrz7hw=="
 ---

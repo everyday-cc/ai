@@ -1,27 +1,29 @@
 ---
 category: news
 title: "2023: The year we played with artificial intelligence — and weren't sure what to do about it"
-excerpt: "Artificial intelligence went mainstream in 2023 — it was a long time coming yet has a long way to go for the technology to match people’s science fiction fantasies of human-like machines."
-publishedDateTime: 2023-12-14T12:45:00Z
-originalUrl: "https://www.washingtonpost.com/business/2023/12/14/ai-2023-artificial-intelligence-chatgpt-dangers/251bf914-9a72-11ee-82d9-be1b5ea041ab_story.html"
-webUrl: "https://www.washingtonpost.com/business/2023/12/14/ai-2023-artificial-intelligence-chatgpt-dangers/251bf914-9a72-11ee-82d9-be1b5ea041ab_story.html"
+excerpt: "Artificial intelligence went mainstream in 2023 — it was a long time coming yet has a long way to go for the technology to match people's science fiction fantasies of human-like machines ..."
+publishedDateTime: 2023-12-14T04:23:00Z
+originalUrl: "https://www.4029tv.com/article/2023-the-year-we-played-with-artificial-intelligence/46130638"
+webUrl: "https://www.4029tv.com/article/2023-the-year-we-played-with-artificial-intelligence/46130638"
+ampWebUrl: "https://www.4029tv.com/amp/article/2023-the-year-we-played-with-artificial-intelligence/46130638"
+cdnAmpWebUrl: "https://www-4029tv-com.cdn.ampproject.org/c/s/www.4029tv.com/amp/article/2023-the-year-we-played-with-artificial-intelligence/46130638"
 type: article
-quality: 28
-heat: 28
+quality: 48
+heat: 48
 published: false
 
 provider:
-  name: The Washington Post
-  domain: washingtonpost.com
+  name: 4029tv
+  domain: 4029tv.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EPNXVNU2OII65AWZXYNV5ICBVM.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap2657b47200a4de.jpg?crop=1.00xw:0.847xh;0,0&resize=1200:*"
+    width: 1024
+    height: 579
     isCached: true
 
 related:
@@ -40,6 +42,6 @@ related:
         height: 630
         isCached: true
 
-secured: "3C8RJg0rKb76tzqWhpfKE4XTYJvLZ9oBy1IfhmjOaBceiCDaYe6vEPRHBsA4x9vxpiMSR4FHoeBRrY/iZtTJqQ5pU6jZhP7CNIy9v0T1Zdhk0CBBDDiHNCVZpPbQQSi7GoIphsN+fmZS/qz5yLROO5XItqhQamouBBZ0KTTsBTwsAwuEtYE9Bi75LuPvJ/wNHP7ZhoSyeAWvUNJVlEmM98DhdCStUCShiQsf/Qqnxf9xVE9fJBSv80xD2oUoLQ+HRR6Jj/+wuoYfFMRLI29VY4NfiXju68EPnbG3SItx8ayitHohujuqAGjxEBZ3WWGQSYzCmnxr+WSMdXLdPlZVt9X1EvTuQHtmV5Rqf0oZGx0WPZe0L09p/Wr0h401By7yC/N7Rd65HQTYRGzjY01xbTgJ1Q95jIdMHJNm/2BaborWMNTAhAUJ7qWxWLa9rhjG3rlsz1pSu+mdgD/IPlm/tJPT1+mOelL77zPrB58k/TvN2MPEduQAuvo2oDVeDNsKXakE6jtMCbJ9n/17b59x3w==;TK34Uk6Ns+8PNcX6Y4U6qg=="
+secured: "lMQyOxwk4go8aIvGEc4ti+6okY5FKFjzAQ2RpP4l2rFrgNgk+yta7yDbNZp6LVQYI3oujwcNc1aD7rA8sHB7tLDIyM1a8+aI/XCjuAsIeXACOoLBwW0ZUXtxwHfNVsWkzHvg2bIjfjH7syHnxSX6qlBEy/v5W7BlklWTKSjvG6pOMN2/pQMW02lgVj6Srd4n3hzb7CRAi8Whn6jX1lp8eqKewHnn+AMagsb6FZTRKdIWLynLvMseQOcbKoaVxcQihXzfKMjdlAUriwJqty72LgJWWgLkXXqqUAzy532ncvXsy+rIUiYNOZuDIEYF+pbub2eaqk7rFIVMCeG/bMU+O1OLfpCoGOcGC1hfR0n2NS4=;YPfkbC252xWIseGOP3+osw=="
 ---
 

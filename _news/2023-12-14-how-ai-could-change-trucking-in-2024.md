@@ -78,6 +78,20 @@ related:
         width: 1920
         height: 1281
         isCached: true
+  - title: "Investment Chief At $48B Global X Forecasts AI Stock Dominance In 2024: Unveils Top Investment Opportunities"
+    excerpt: "AI-related stocks including industry leaders like Nvidia (NASDAQ: NVDA), cloud computing, and cybersecurity stand out as \"naturals that fit together.\""
+    publishedDateTime: 2023-12-18T03:33:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/investment-chief-at-48b-global-x-forecasts-ai-stock-dominance-in-2024-unveils-top-investment-opportunities-1032907245"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/AI-shopping-Shutterstock_4.jpeg"
+        width: 1024
+        height: 768
+        isCached: true
 
 secured: "6Ttwf/ZSF5OvuMm8nq3OY1Mod6E405Ua1P1nsUtNcBjbjDDFycrcyNhBBpppHflkjpW3qc9Eoh/41gucph1998txbX1WBbFjlRneKeKEg7SwXok/f6Tg+STHGIzEEIR0fnpcHSmkBVEHjCsan5JEc6njQ4eu7GadWbn+ZZeM4ryITgqOCGCYImSXSgh0Q56xWfmMidy/Ohr8brPaROfg6ZjYISEy7fVO9MOKBD/neQ18tDdytSO77ONmh7xBlIuVnpttDVm+o6EoOlMKuALiwhL2ho4AYIr5MKMWgF2ArLwd4psHFQZhGNrKOXEJwOhXNUNxnzg5Op0X7gliLJGiiXQCMBP46h/JMQE7/f1Bwxs=;HbewC+dyfuQqjj3QvMnuVg=="
 ---

@@ -41,15 +41,6 @@ related:
         width: 1353
         height: 900
         isCached: true
-  - title: "The Genesis of Fintech Giant Black Banx"
-    excerpt: "The Genesis of Fintech Giant Black BanxNew York, United States - December 13, 2023 — Despite being a relatively young industry, there are a"
-    publishedDateTime: 2023-12-13T03:31:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-genesis-of-fintech-giant-black-banx-1032895268"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
   - title: "The Legal Outlook For Fintech And Payments 2024."
     excerpt: "The Legal Outlook For Fintech And Payments 2024. Legal News and Analysis - Asia Pacific, EU, Europe, Hong Kong, Singapore, United Kingdom, USA -"
     publishedDateTime: 2023-12-14T08:31:00Z

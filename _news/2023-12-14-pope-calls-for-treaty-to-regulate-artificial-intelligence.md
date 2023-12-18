@@ -121,6 +121,15 @@ related:
         width: 800
         height: 557
         isCached: true
+  - title: "What senior living leaders need to know about artificial intelligence"
+    excerpt: "Senior living executives have two key decisions to make to move forward with AI-enabled solutions, according to NIC MAP Vision CEO Arick Morton."
+    publishedDateTime: 2023-12-18T05:05:00Z
+    webUrl: "https://www.mcknightsseniorliving.com/home/columns/guest-columns/what-senior-living-leaders-need-to-know-about-artificial-intelligence/"
+    type: article
+    provider:
+      name: McKnight's Senior Living
+      domain: mcknightsseniorliving.com
+    quality: 19
   - title: "Opensource AI can outperform private models like Chat-GPT - ARK Invest research"
     excerpt: "The need for performance in open-source AI models stems from the importance of democratizing access to generative AI."
     publishedDateTime: 2023-12-14T08:48:00Z

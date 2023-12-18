@@ -7,7 +7,7 @@ originalUrl: "https://www.androidauthority.com/samsung-keyboard-tone-translate-3
 webUrl: "https://www.androidauthority.com/samsung-keyboard-tone-translate-3394842/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung Galaxy Buds 3 Pro to get on-device AI for live translation: Report"
-    excerpt: "The Galaxy Buds 3 Pro would likely include real-time translations for in-person conversations among its core AI features"
-    publishedDateTime: 2023-12-13T05:24:00Z
-    webUrl: "https://www.business-standard.com/technology/tech-news/samsung-galaxy-buds-3-pro-to-get-on-device-ai-for-live-translation-report-123121300241_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/technology/tech-news/samsung-galaxy-buds-3-pro-to-get-on-device-ai-for-live-translation-report-123121300241_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/samsung-galaxy-buds-3-pro-to-get-on-device-ai-for-live-translation-report-123121300241_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 37
   - title: "AI is coming to Samsung Keyboard to help you find the perfect words"
     excerpt: "Samsung's upcoming One UI 6.1 update may integrate AI into its Keyboard, allowing users to change the tone of text and even translate it. Google is also expanding its AI efforts with features like \"Help me write\" in Chrome 122, making AI services more accessible and prominent in everyday life."
     publishedDateTime: 2023-12-15T19:59:00Z

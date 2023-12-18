@@ -25,18 +25,20 @@ images:
 
 related:
   - title: "2023: The year we played with artificial intelligence — and weren't sure what to do about it"
-    excerpt: "Artificial intelligence went mainstream in 2023 — it was a long time coming yet has a long way to go for the technology to match people’s science fiction fantasies of human-like machines."
-    publishedDateTime: 2023-12-14T12:45:00Z
-    webUrl: "https://www.washingtonpost.com/business/2023/12/14/ai-2023-artificial-intelligence-chatgpt-dangers/251bf914-9a72-11ee-82d9-be1b5ea041ab_story.html"
+    excerpt: "Artificial intelligence went mainstream in 2023 — it was a long time coming yet has a long way to go for the technology to match people's science fiction fantasies of human-like machines ..."
+    publishedDateTime: 2023-12-14T04:23:00Z
+    webUrl: "https://www.4029tv.com/article/2023-the-year-we-played-with-artificial-intelligence/46130638"
+    ampWebUrl: "https://www.4029tv.com/amp/article/2023-the-year-we-played-with-artificial-intelligence/46130638"
+    cdnAmpWebUrl: "https://www-4029tv-com.cdn.ampproject.org/c/s/www.4029tv.com/amp/article/2023-the-year-we-played-with-artificial-intelligence/46130638"
     type: article
     provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 28
+      name: 4029tv
+      domain: 4029tv.com
+    quality: 48
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EPNXVNU2OII65AWZXYNV5ICBVM.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap2657b47200a4de.jpg?crop=1.00xw:0.847xh;0,0&resize=1200:*"
+        width: 1024
+        height: 579
         isCached: true
 
 secured: "5hFVvpjwRUYPsfdX3ERnwokh70Oh9YwAunBBGoCPCp4HIPdHHG5au4fVyF5vKmfifjSGPm2H3YWpjBqus0ixwMJrRaWJWEk85rzi99K0SVgykDOq9dWBJC4WPahNb3WLv1vHMUY/FcvZqFHCJL/LuafISR6ibWWB2AwEF4V38V5cwWGj/RrksHPI6BKSKl1xB7YQYiHO85itbMsEQPbPvkACzHq08fdoMmL31tuIBcFkEjo8+sVVyMQC4deE6/nuPAe30XyrWvon4Tr9r+0nenYR907lbpY3/XmWVvvtSXVgqlHZigOpKIXWXRYJ8o1CSbWF9NEORlz5+RmQeMt1DHvlab4iG9LorqD0tJUdyKk=;eRKChyPu8tYqSgn2zfzz/w=="

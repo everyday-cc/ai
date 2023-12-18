@@ -49,22 +49,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "The Rise Of Generative AI In Design: Innovations And Challenges"
-    excerpt: "Discover how generative AI is revolutionizing design across industries, from creating unique Nutella packaging to transforming architectural planning."
-    publishedDateTime: 2023-12-13T06:23:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/12/13/the-rise-of-generative-ai-in-design-innovations-and-challenges/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/12/13/the-rise-of-generative-ai-in-design-innovations-and-challenges/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/12/13/the-rise-of-generative-ai-in-design-innovations-and-challenges/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65795bde5bf4bf367d596b39/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Managing costs to realize the potential of cloud and generative AI"
     excerpt: "Today the drive towards cloud adoption is more and more propelled by the desire to leverage the potential of AI -- especially generative AI."
     publishedDateTime: 2023-12-14T14:39:00Z
@@ -110,20 +94,6 @@ related:
       - url: "https://i2-prod.mirror.co.uk/incoming/article31661253.ece/ALTERNATES/s1200/0_AI-robot-controlling-future-hologram-UI.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "UBS Report: Generative AI for Financial Services"
-    excerpt: "In the financial services industry, generative artificial intelligence (AI) is being deployed to automate time-consuming, tedious jobs in areas including customer service, fraud prevention, coding and information analysis."
-    publishedDateTime: 2023-12-13T06:52:00Z
-    webUrl: "https://fintechnews.ch/aifintech/ubs-report-generative-ai-for-financial-services/65521/"
-    type: article
-    provider:
-      name: fintechnews
-      domain: fintechnews.ch
-    quality: 39
-    images:
-      - url: "https://fintechnews.ch/wp-content/uploads/2023/12/UBS-Report-Generative-AI-for-Financial-Services.jpg"
-        width: 1024
-        height: 567
         isCached: true
   - title: "Dell Technologies storage advancements accelerate AI and generative AI strategies"
     excerpt: "Dell PowerScale systems deliver up to a 200% performance improvement for streaming reads and writes to help customers more quickly access data for AI workloads."

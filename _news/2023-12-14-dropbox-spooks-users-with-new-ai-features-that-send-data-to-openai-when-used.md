@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/information-technology/2023/12/dropbox-spo
 webUrl: "https://arstechnica.com/information-technology/2023/12/dropbox-spooks-users-by-sending-data-to-openai-for-ai-search-features/"
 type: article
 quality: 64
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -41,6 +41,22 @@ related:
       - url: "https://cdn.vox-cdn.com/uploads/chorus_asset/file/23966628/the_verge_social_share.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "OpenAI introduces its second round of AI startup fund"
+    excerpt: "According to Cointelegraph, OpenAI opened Converge 2, an application for the second cohort of its six-week program for artificial intelligence (AI) startups. Through this application, it aims to invest $1 million into each of the 15 successful participants selected."
+    publishedDateTime: 2023-12-18T03:40:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-openai-introduces-its-second-round-of-ai-startup-fund-3340908/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-openai-introduces-its-second-round-of-ai-startup-fund-3340908/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-openai-introduces-its-second-round-of-ai-startup-fund-3340908/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 57
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/11/chatgpt-image-from-bloomberg-2.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Dropbox spooks users by sending data to OpenAI for AI search features"
     excerpt: "On Wednesday, news quickly spread on social media about a new enabled-by-default Dropbox setting that shares your Dropbox data with OpenAI for an experimental AI-powered search feature. Dropbox says that user data shared with third-party AI partners isn't used to train AI models and is deleted within 30 days."

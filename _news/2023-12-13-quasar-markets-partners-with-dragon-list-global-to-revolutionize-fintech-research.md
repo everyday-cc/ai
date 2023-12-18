@@ -41,19 +41,28 @@ related:
         width: 1024
         height: 854
         isCached: true
-  - title: "Finastra Leaders Predict 2024 Fintech Trends Amidst Global Challenges"
-    excerpt: "Finastra has shared its executive insights on the anticipated trends, challenges and opportunities for the fintech landscape in 2024."
-    publishedDateTime: 2023-12-13T04:53:00Z
-    webUrl: "https://fintechnews.sg/82080/fintech/finastra-leaders-predict-2024-fintech-trends-amidst-global-challenges/"
+  - title: "Quasar Markets Partners with Dragon List Global to Revolutionize FinTech Research"
+    excerpt: "This partnership aims to enhance financial research and market insights across emerging global markets.New York, NY, United States - December"
+    publishedDateTime: 2023-12-18T03:18:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/quasar-markets-partners-with-dragon-list-global-to-revolutionize-fintech-research-1032907242"
     type: article
     provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 31
+  - title: "Register now for the Citi Cup fintech competition"
+    excerpt: "Citigroup Services and Technology (China) (CSTC) has announced that the 19th Citi Financial Innovation Application Competition (also known as the Citi Cup) is open for online registration. CSTC leads Citigroup's financial technology and financial operations services industry in China."
+    publishedDateTime: 2023-12-18T04:16:00Z
+    webUrl: "https://www.aap.com.au/aapreleases/cision20231217ae95944/"
+    type: article
+    provider:
+      name: Australian Associated Press
+      domain: aap.com.au
     quality: 24
     images:
-      - url: "https://fintechnews.sg/wp-content/uploads/2023/12/Finastra-Leaders-Predict-2024-Fintech-Trends-Amidst-Global-Challenges.jpg"
-        width: 1024
-        height: 567
+      - url: "https://www.aap.com.au/wp-content/themes/aap-news_theme/dist/assets/images/sport300x250.108183d0.gif"
+        width: 300
+        height: 250
         isCached: true
   - title: "Bank audit executives seek stricter regulation for fintech, BDCs"
     excerpt: "ACAEBIN also called for stricter regulations of the fintech space as well as the operations of the Bureaux de Change."

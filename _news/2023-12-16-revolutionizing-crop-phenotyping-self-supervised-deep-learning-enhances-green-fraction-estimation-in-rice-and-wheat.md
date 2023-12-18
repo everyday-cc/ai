@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/news-releases/1011379"
 webUrl: "https://www.eurekalert.org/news-releases/1011379"
 type: article
 quality: 16
-heat: -1
+heat: 16
 published: false
 
 provider:
@@ -25,20 +25,24 @@ images:
     isCached: true
 
 related:
-  - title: "Revolutionizing the Cosmos: Deep Learning Supercharges Galactic Calculations"
-    excerpt: "A novel method of simulating supernovae could shed light on our cosmic origins. Supernovae, which are exploding stars, play a pivotal role in galaxy formation and evolution. However, simulating these phenomena accurately and efficiently has been a significant challenge."
-    publishedDateTime: 2023-12-13T03:26:00Z
-    webUrl: "https://scitechdaily.com/revolutionizing-the-cosmos-deep-learning-supercharges-galactic-calculations/"
+  - title: "Advancing plant phenotyping: insights from the global wheat challenge on deep learning and dataset diversity"
+    excerpt: "Crowdsourcing has become pivotal in scientific research, particularly in data-intensive fields like plant phenotyping, leveraging platforms like Kaggle for data analysis and machine learning challenges."
+    publishedDateTime: 2023-12-15T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/1011354"
     type: article
     provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 36
-    images:
-      - url: "https://scitechdaily.com/images/Supernova-Supercomputer-Space-Rainbow.jpg"
-        width: 2000
-        height: 1143
-        isCached: true
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 0
+  - title: "Advancing Plant Phenotyping: Insights from the Global Wheat Challenge on Deep Learning and Dataset Diversity"
+    excerpt: "Crowdsourcing has become pivotal in scientific research, particularly in data-intensive fields like plant phenotyping, leveraging platforms like"
+    publishedDateTime: 2023-12-16T19:28:00Z
+    webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/240699"
+    type: article
+    provider:
+      name: AlphaGalileo
+      domain: alphagalileo.org
+    quality: 0
 
 secured: "NYZuveoVmx4sJ5uw+HqhEKSeFWzpayih4zofxBMQzGWUiSLdBfD5aqBRJ65tcoduvVjQ6LzbVXDp6Dq3QDKp4upDqlU0Y2KE81Xc9O91qa5E8gQwGafFsi1C7YIBRVC3PiUFb/dYZ6mvHoeWSVDiI0L0y9rMd4JCaQ5JMCiNcaHaJhdxl1nrfWSHzPermQ6kwC4zDDQy6oDbyLFXGhfiiLxkCPdc+raoGeSOXbACvEmItpxiAS1ByiEvgci+wMA1jfflgok0So1rGY/L1eD/A1O+/N/oDWnRcWTFj7vZykpTSV+nwbAgmQyTSK/UZV6ksE2H8nWqMmjGIfQfCMVJzgMo9MJ7/tsenFP+LpR+tHsrBjgvRNHfvO9+8tuXns98J90cB4orMaEt4YWT4Krtl7zP/I+lmN9RGr2JEFZRqNYbAh9PKEEVkO703rsC3Xkfimsi/kM/s1zjNOrAU/+HpnrgWYY93NdLvhkXiM99lUtEBYuXPOu4YZADR7L2C/QnNLbRDXzSImPlAm7mzJWSpA==;LxNW8lCwrlUQUZnaSfY8fg=="
 ---

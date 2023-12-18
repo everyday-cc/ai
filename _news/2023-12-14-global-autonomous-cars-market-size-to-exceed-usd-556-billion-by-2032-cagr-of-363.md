@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Motion Control Software in Robotics Market Soars with a 19.6% CAGR, Projected to Exceed US$ 37.86 Billion by 2029"
+    excerpt: "The motion control software in robotics market has witnessed remarkable growth in recent years, with its estimated value reaching approximately US$ 10.81 Billion in 2022. This dynamic sector is poised for even more substantial expansion,"
+    publishedDateTime: 2023-12-18T04:58:00Z
+    webUrl: "https://www.fmiblog.com/2023/12/18/motion-control-software-in-robotics-market-soars-with-a-19-6-cagr-projected-to-exceed-us-37-86-billion-by-2029/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 33
+    images:
+      - url: "https://www.fmiblog.com/wp-content/uploads/2023/12/Motion-Control-Software-in-Robotics-Market.jpg"
+        width: 1000
+        height: 562
+        isCached: true
   - title: "Artificial Intelligence (AI) in Breast Imaging Market Size is expected to reach USD 3.21 Billion by 2031 | CAGR: 28.6%."
     excerpt: "Artificial Intelligence AI in Breast Imaging Market Size is expected to reach USD 321 Billion by 2031 CAGR 286"
     publishedDateTime: 2023-12-13T14:49:00Z

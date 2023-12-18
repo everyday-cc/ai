@@ -43,6 +43,22 @@ related:
         width: 866
         height: 1083
         isCached: true
+  - title: "Indian language AI tool ‘Bhashini’ used to translate Prime Minister Narendra Modi’s speech"
+    excerpt: "Prime Minister Narendra Modi used an AI-powered Indian language translation tool, Bhashini, during a speech in Uttar Pradesh."
+    publishedDateTime: 2023-12-18T06:01:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/indian-language-ai-tool-bhashini-used-to-translate-prime-minister-narendra-modis-speech/article67649545.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/indian-language-ai-tool-bhashini-used-to-translate-prime-minister-narendra-modis-speech/article67649545.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/indian-language-ai-tool-bhashini-used-to-translate-prime-minister-narendra-modis-speech/article67649545.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 64
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/n5p5s8/article67649547.ece/alternates/FREE_1200/2023-12-14T205548Z_201180190_RC28X4A6DI51_RTRMADP_3_TECH-AI.JPG"
+        width: 1200
+        height: 723
+        isCached: true
   - title: "\"Real Beginning\": Real-Time AI Translation Tool Used During PM Modi's Varanasi Speech"
     excerpt: "A real-time Artificial Intelligence-based translation tool was used during Prime Minister Narendra Modi's speech at Kashi Tamil Sangamam in Varanasi on Sunday."
     publishedDateTime: 2023-12-17T17:46:00Z

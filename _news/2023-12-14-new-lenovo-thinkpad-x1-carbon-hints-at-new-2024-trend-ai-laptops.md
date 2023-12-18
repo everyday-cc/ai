@@ -7,7 +7,7 @@ originalUrl: "https://mashable.com/article/lenovo-thinkpad-x1-carbon-gen-12"
 webUrl: "https://mashable.com/article/lenovo-thinkpad-x1-carbon-gen-12"
 type: article
 quality: 67
-heat: 89
+heat: 91
 published: true
 
 provider:

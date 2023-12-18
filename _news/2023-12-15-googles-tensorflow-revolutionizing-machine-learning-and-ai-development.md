@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/googles-tensorflow-revolutionizing-machine
 webUrl: "https://techbullion.com/googles-tensorflow-revolutionizing-machine-learning-and-ai-development/"
 type: article
 quality: 87
-heat: 139
+heat: 141
 published: true
 
 provider:

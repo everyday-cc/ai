@@ -8,7 +8,7 @@ webUrl: "https://thehill.com/homenews/4361566-how-to-spot-artificial-intelligenc
 ampWebUrl: "https://thehill.com/homenews/4361566-how-to-spot-artificial-intelligence-generated-content/amp/"
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/4361566-how-to-spot-artificial-intelligence-generated-content/amp/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 related:
   - title: "The Potential Of Embodied AI"

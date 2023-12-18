@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/15/the-potent
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/15/the-potential-of-embodied-ai/amp/"
 type: article
 quality: 91
-heat: 123
+heat: 125
 published: true
 
 provider:
@@ -58,7 +58,7 @@ related:
     provider:
       name: The Hill
       domain: thehill.com
-    quality: 39
+    quality: 41
   - title: "Exploring the Limitless Potential: Applications of Artificial Intelligence in Today’s World"
     excerpt: "Welcome to a world where machines can think, learn, and even surpass human intelligence. Artificial Intelligence (AI) has taken the global stage by storm, offering unparalleled opportunities for innovation and growth in various sectors."
     publishedDateTime: 2023-12-17T13:25:00Z

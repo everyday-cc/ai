@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "This AI Tax Assistant Actually Seems Pretty Useful"
-    excerpt: "it will not increase the prices of its subscription tiers that will have access to the conversational AI platform. Paid plans start at $35. The chatbot is designed to feel like a natural conversation, allowing you to phrase questions conversationally ..."
-    publishedDateTime: 2023-12-15T00:00:00Z
-    webUrl: "https://lifehacker.com/money/hr-blocks-new-ai-chatbot-tax-assistant"
+  - title: "Infobip unveils AI Hub for AI-driven conversational customer experiences"
+    excerpt: "Infobip integrated OpenAI's ChatGPT model through Microsoft Azure OpenAI Service into its Infobip AI Hub to help ensure that Infobip-used language models are secure, isolated from the outside world and no end customers' data is exposed to potential ..."
+    publishedDateTime: 2023-12-18T02:17:00Z
+    webUrl: "https://www.asiaone.com/business/infobip-unveils-ai-hub-ai-driven-conversational-customer-experiences"
     type: article
     provider:
-      name: Lifehacker
-      domain: lifehacker.com
-    quality: 37
+      name: Asia One
+      domain: asiaone.com
+    quality: 38
     images:
-      - url: "https://lifehacker.com/imagery/articles/01HHMYQWPFKVQDN40V4CK75N1Y/hero-image.fill.size_1200x675.png"
-        width: 1200
-        height: 675
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Dec2023/442052-Hub-Ai-visual-2-jpg-1200x.jpeg?h=bde28bee&itok=EERwNhfg"
+        width: 600
+        height: 316
         isCached: true
 
 secured: "XkCgx7xsyxlEPNu6B4gVczwI3RkKuk2XtLOSSxTCnCDPWGc4NmVondX+p0rwhoq62itykM+xBKTny/eZ4sqZ27HLNEyVOUK3rI80QqyKaG7cSW208o+Y4t9YCvzM69xrIsIhtZUkPGNkak+2MFKk55bi1K/TwHWG+CryhgOxGnl+O4q0mI5eCNfcA+am4Oup2LgM26vgCioCnsCUJZl43kBSLvRAS99Z31VgVU0P+6vZgSxWtolg5aAR0fK+rXLphYk0wFar1RoUb25Sz47+M5mx1nJLz4rUtmz3tx5BnytU9+KKmVhKilvtuiT81TBzqqn8PStgpDvi02LIXBSp9OWCaTm6SoFegbi0Y4iwRFaSBmcGqjs1NGd1sp1bZYexXAWIRsbdJooz2maya1Wv5YM66APpGPt0LsZYEUdQOd4Yq1g1s5cxGxIuL1RIFesTAgmG61Mwt6APQNpuWKYlAsLmVhlJqzy2Ga3eYTq3PC2zB1QusBJGnUIIhKq9PM63GuR1yUozXyl2BhhJug33Gg==;XRxOlJ0WS1lfI2ra8q5vMw=="

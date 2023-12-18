@@ -8,7 +8,7 @@ webUrl: "https://www.cbsnews.com/news/pope-francis-treaty-to-regulate-artificial
 ampWebUrl: "https://www.cbsnews.com/amp/news/pope-francis-treaty-to-regulate-artificial-intelligence/"
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/pope-francis-treaty-to-regulate-artificial-intelligence/"
 type: article
-quality: 25
+quality: 27
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/11/27/edfd28bd-3947-4084-8a68-7050a6cbf9d8/thumbnail/1200x630g1/1fd75d7fcf55975c961225587c8d0aef/pope-francis-1814736114.jpg?v=5382e209c94ee904b3a96a69f8ca0ce0"

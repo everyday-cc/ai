@@ -7,7 +7,7 @@ originalUrl: "https://www.azom.com/article.aspx?ArticleID=23217"
 webUrl: "https://www.azom.com/article.aspx?ArticleID=23217"
 type: article
 quality: 18
-heat: 18
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,19 @@ images:
     width: 1000
     height: 563
     isCached: true
+
+related:
+  - title: "Make your smart cameras even smarter with Tangent Solutions and Cogniac’s Revolutionary AI Computer Vision Platform"
+    excerpt: "In partnership with Cisco Meraki and Cogniac, Tangent Solutions is at the forefront of offering smart cameras that offer powerful assets for businesses seeking further efficiency and innovation. Thanks to these technologies, we now live in a world where AI transforms cameras into strategic business tools."
+    publishedDateTime: 2023-12-18T04:20:00Z
+    webUrl: "https://mybroadband.co.za/news/industrynews/519997-make-your-smart-cameras-even-smarter-with-tangent-solutions-and-cogniacs-revolutionary-ai-computer-vision-platform.html"
+    ampWebUrl: "https://mybroadband.co.za/news/industrynews/519997-make-your-smart-cameras-even-smarter-with-tangent-solutions-and-cogniacs-revolutionary-ai-computer-vision-platform.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/industrynews/519997-make-your-smart-cameras-even-smarter-with-tangent-solutions-and-cogniacs-revolutionary-ai-computer-vision-platform.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 32
 
 secured: "tKjF2wR66VArypq1jRDDxJGday85NBvkkjBSX54ubJ4mtpnEKuLmD77RAMjfuAwSeT2yZ4odHfCPfiRsCR3GJtbCmcGLR6K7+voqRZe+OT7B9YrN34s2erpmFVYUTDfpopFwJLwbHa6Lr+JSp8vHPWLz+yA4oubyb3LQ98+3Z0aoHtbfs2ZnMT/TsBaeP6JRqhTKFREFCoai6rmQOmCq9VKcyg1bhwntN/b/yiwYeZiNH+m+irac/JGfAWb3GHMIJb69nfWj5mx78bnDXTFikIR8HIR4UCSLjBOwCjS9cntUY8SBb+lE0lWh4GQ3qtqOb2nPcf6E6P+9bA8cJPEJf2+uZd88N1GrQMX1CuBJaOU=;hMzx2tQVBWBI2kYX4nAOJw=="
 ---

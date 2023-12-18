@@ -35,15 +35,6 @@ related:
         width: 1353
         height: 900
         isCached: true
-  - title: "The Genesis of Fintech Giant Black Banx"
-    excerpt: "The Genesis of Fintech Giant Black BanxNew York, United States - December 13, 2023 — Despite being a relatively young industry, there are a"
-    publishedDateTime: 2023-12-13T03:31:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-genesis-of-fintech-giant-black-banx-1032895268"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
   - title: "Finastra Leaders Predict Top Fintech Trends For 2024"
     excerpt: "Finastra has shared its executive insights on the anticipated trends, challenges and opportunities for the fintech landscape in 2024."
     publishedDateTime: 2023-12-13T07:35:00Z

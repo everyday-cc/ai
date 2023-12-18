@@ -36,17 +36,6 @@ related:
         width: 1201
         height: 900
         isCached: true
-  - title: "PM Modi Announces New AI Mission To Boost Agriculture, Healthcare & Education"
-    excerpt: "PM Narendra Modi has announced the launch of a new AI mission to promote apps in agriculture, healthcare and education sectors."
-    publishedDateTime: 2023-12-13T04:27:00Z
-    webUrl: "https://inc42.com/buzz/pm-modi-announces-new-ai-mission-to-boost-agriculture-healthcare-education/"
-    ampWebUrl: "https://inc42.com/buzz/pm-modi-announces-new-ai-mission-to-boost-agriculture-healthcare-education/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/pm-modi-announces-new-ai-mission-to-boost-agriculture-healthcare-education/amp/"
-    type: article
-    provider:
-      name: inc42
-      domain: inc42.com
-    quality: 68
   - title: "Revolutionizing Industries: How AI Apps are Transforming Healthcare, Finance, and More"
     excerpt: "Welcome to the era of AI revolution! We stand witness to incredible technological innovations that are reshaping industries like never before. Among these groundbreaking advancements, artificial intelligence applications have emerged as the game-changers across numerous sectors."
     publishedDateTime: 2023-12-17T16:56:00Z

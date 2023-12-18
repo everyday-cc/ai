@@ -8,8 +8,8 @@ webUrl: "https://www.cnn.com/2023/12/15/us/diversity-artificial-intelligence-bia
 ampWebUrl: "https://amp.cnn.com/cnn/2023/12/15/us/diversity-artificial-intelligence-bias-reaj/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/12/15/us/diversity-artificial-intelligence-bias-reaj/index.html"
 type: article
-quality: 90
-heat: 90
+quality: 92
+heat: 92
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - AI Ethics
   - AI
   - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://media.cnn.com/api/v1/images/stellar/prod/231214172420-person-working-at-computer-stock-image-restricted.jpg?c=16x9&q=w_800,c_fill"

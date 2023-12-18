@@ -42,6 +42,20 @@ related:
         width: 2420
         height: 1000
         isCached: true
+  - title: "Ray-Ban Meta Smart Glasses Are Getting Two AI Features That Could Change Everything"
+    excerpt: "Meta is upgrading the Ray-Ban smart glasses with multimodal AI-powered capabilities so they can see things and understand them in real-time."
+    publishedDateTime: 2023-12-13T18:05:00Z
+    webUrl: "https://www.inverse.com/tech/ray-ban-meta-smart-glasses-mulitmodal-ai"
+    type: article
+    provider:
+      name: Inverse
+      domain: inverse.com
+    quality: 35
+    images:
+      - url: "https://imgix.bustle.com/uploads/image/2023/12/13/6f1f7fd6-9d8f-47e1-b409-f5ad273a5769-92c1322b-1d72-498c-a842-d6c63886713a-dsc00606.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "6/ltr7O/XiIQoVN/AooLWybJFznO8p2orbAs/2ohskHcncV7pDSz+lVgLGFbdk3DAau79SLNXRdFiTStFRrFYdWoEYxc74jyWnfeUiId/5tz/SN5CLQRQM0Av8Mwd32xSoMp/PWYWzeJgB5J/6TsPi4FC4/c7Hiu8IhPfOvwGiiNqqh8hd8H7KuqaI5fg5giHLO3WSSK2/VvY7EbsYtoyDlpABaImd3ZzfkS7PshbvJWqkPtDSZkoAizTjvGRrYDHxylZqM/hCukxuXmtg9pZI3OeSuh4vO0D8H8KQdbBtJLcoYxU+k+7ZoEOBFnHjHG1/SsDn8lOxNKEysDqhqordcdO7Z44QZZUPO/iPJWZP3UZMn51v/G2L3T/UuiqoCkx6GbUSqKTZGTa7i0fe5KviVO1snckMIRotKP5fmQimzLSKY60ixy8+tLpXchRs3zzdj8radWOYsMDfoug6KxOYX8OgwwuAnsA4PD8mCWmGbQxwzO4lsJRYrxgalC+3top+13llK7DXVaNPsa2o0/HA==;KoA2tKyNgy64mGl829oWkw=="
 ---

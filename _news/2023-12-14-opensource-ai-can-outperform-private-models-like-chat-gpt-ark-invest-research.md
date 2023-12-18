@@ -130,6 +130,15 @@ related:
         width: 800
         height: 557
         isCached: true
+  - title: "What senior living leaders need to know about artificial intelligence"
+    excerpt: "Senior living executives have two key decisions to make to move forward with AI-enabled solutions, according to NIC MAP Vision CEO Arick Morton."
+    publishedDateTime: 2023-12-18T05:05:00Z
+    webUrl: "https://www.mcknightsseniorliving.com/home/columns/guest-columns/what-senior-living-leaders-need-to-know-about-artificial-intelligence/"
+    type: article
+    provider:
+      name: McKnight's Senior Living
+      domain: mcknightsseniorliving.com
+    quality: 19
 
 secured: "FP0pU/K5RwgFGHJa11fW5RsPC1+B4VGgrCP5I735Jn1TvcMK912ECI1euRJ30XmUEB7Bpzwb7K/Wo+W1A8wl89ltSDIvzDNBV8IUrkbRSI8js1mdBXoXKcX1c84MpxwsBIpqLEWcR/IJWwj9TCogWWw5wQxhwIZq1c3p5RjSkhgETt2n9tFsP+FQTWq3SZVWeqSx8ZFQ/LT+WgDioNcdFW7tPl3qh0cWhBmeSd6EmbGzN+S6zOwoTfTSvTkmmG3daEwQp4cQE7J5AXEOenuyWjHXm59AmdmPRn5wWYam2moTtEh7stM6CC9uuT93Qb7Qz2r2VL7aXAkW8Y5X9PaC36n6bD5nJ72KJEe0gdFVrOPKb+TYNQpOkXC34UgmMtr76WgFdA1RTaMP1xa821vS1gRkc3096mk4cmER/G1H63V4Xk24jKZL5RMnfiaXY3qRNtGBH6ZcTl5X2TTUMO2zfEdVFZNODFyPPf6PCEuiPkMSCiWt7QJn4WrpNCA0JM9o7jyg/wnS+r6qemt6C21XCQ==;DspUT3qdGzI0WajaPgvTbA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techlomedia.in/2023/12/intel-introduces-core-ultra-chips-wit
 cdnAmpWebUrl: "https://techlomedia-in.cdn.ampproject.org/c/s/techlomedia.in/2023/12/intel-introduces-core-ultra-chips-with-npus-for-ai-advancements-103680/"
 type: article
 quality: 74
-heat: 454
+heat: 464
 published: true
 
 provider:
@@ -401,6 +401,20 @@ related:
       - url: "https://www.absolutegeeks.com/wp-content/uploads/2023/12/lenovo.jpg"
         width: 940
         height: 773
+        isCached: true
+  - title: "New Intel Core Ultra Processor-Based COM Express Compact Modules For AI At The Edge"
+    excerpt: "With features like multiple P-cores, energy-efficient E-cores, and a powerful Intel Arc GPU, coupled with an integrated NPU for advanced AI processing, these modules are set to revolutionise industries like healthcare and industrial automation."
+    publishedDateTime: 2023-12-18T05:54:00Z
+    webUrl: "https://www.electronicsforu.com/news/new-intel-core-ultra-processor-based-com-express-compact-modules-for-ai-at-the-edge"
+    type: article
+    provider:
+      name: electronicsforu
+      domain: electronicsforu.com
+    quality: 33
+    images:
+      - url: "https://www.electronicsforu.com/wp-contents/uploads/2023/12/CONPR2315A-TC700-with-Meteor-Lake-Image-2.jpg"
+        width: 1800
+        height: 1200
         isCached: true
   - title: "Intel Launches Core Ultra ‘Meteor Lake’ Chips In AI PC Push Against Rivals"
     excerpt: "Intel said the new Core Ultra chips for ultrathin laptops provide superior multi-threading and AI performance to rivals."

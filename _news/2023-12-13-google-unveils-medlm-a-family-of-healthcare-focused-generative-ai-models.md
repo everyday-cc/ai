@@ -69,7 +69,7 @@ related:
     provider:
       name: AOL
       domain: aol.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://media.zenfs.com/en/aol_reuters_29/ae6e560fd2298f254e74c9c7588ae42c"
         width: 800

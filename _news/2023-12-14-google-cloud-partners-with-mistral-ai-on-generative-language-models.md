@@ -6,7 +6,7 @@ publishedDateTime: 2023-12-13T17:09:00Z
 originalUrl: "https://www.aol.com/news/google-cloud-partners-mistral-ai-150922762.html"
 webUrl: "https://www.aol.com/news/google-cloud-partners-mistral-ai-150922762.html"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://media.zenfs.com/en/aol_reuters_29/ae6e560fd2298f254e74c9c7588ae42c"
@@ -89,6 +90,6 @@ related:
       domain: theedgesingapore.com
     quality: 19
 
-secured: "AskHJr+fUjgxAGlAqvd6wPR4m9dACqDp2ZMxM8qRkuWvr89ejOlOmujdWfLxxE1MWtivhHa2zhvNV93F3wOOjru3DjP+GJMcQDV9C1iH5XKJ8xknePxJ+tdVcyCxMj1/7gIUWSczKMKyNP7OBKzt58Hvd1WS/LrooJfQTk6lBUXybLsNc20DTxyXjKeTCm6t2sKoQiSAcgfYPm+MtNLFb9zfeWVDNKIwSkLjCt+07tRMUe8k+R40WE1cUOxPMXmEVIP4HgzBNom4WAP/oMD+6Wws4uN3a4OVq6xs0VZOnZpcb/ZErEKNHciCD/RWX1vOgh3VYIXEZ3Kpt8bSbbXDmwl/xb413fpyQagqtL3mzXI=;QvPMJxryrABj0z/7Wnux2w=="
+secured: "d0gd8Qm6LShTdqlXUFxDB4rqlAVR5P6CUrNnFVXGOuXw3azQouXxAFqBU4R7PtpXh0gGVA83jBOiCsdl4w6dyYAg8F26/sqShwDSL9IOLRLFuHKf2xOeq69GAqoPGxNHptFhQZoNoibkV5n6aBjxvUx8hyeqtXqqkVlWvA+Bin+icgyAa9VWbZV26b43TB6Qix83olavyWIuikx03uS0dDCnxMcMV//hr23DsgsWgIeY+uDyGEfa7VOOLH0+zHYPYtnsdyIYWhbT8q6Z980ATM2GSVSPF8/BAhh2plUSFrpv8c97OcTYoWVhussZeksQDMNMYgkDxDHE7oPvfOUPZMoAV8c9t+Wxs7pGL+TYqisJomsdhFLNtzQWScYkqf0B3Bs2jawrevND462wYxHNnu8jXZZ8wvlYST3AgL1nRQP+ACCV5g7GEiN1GggXGmVC/ssW5VuhEw57QogbLsUmlT14wpp605YnGcYHJmubqBxQdngHd9vb43izPDx303zoweZRmCK+laqozwQs7ccSmQ==;mhnr5gEFeTO+wLFnFAimYw=="
 ---
 

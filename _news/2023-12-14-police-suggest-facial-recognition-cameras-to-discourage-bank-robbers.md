@@ -9,7 +9,7 @@ ampWebUrl: "https://ampe.vnexpress.net/news/news/crime/police-suggest-facial-rec
 cdnAmpWebUrl: "https://ampe-vnexpress-net.cdn.ampproject.org/c/s/ampe.vnexpress.net/news/news/crime/police-suggest-facial-recognition-cameras-to-discourage-bank-robbers-4688681.html"
 type: article
 quality: 76
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "'Success' for Southampton facial recognition cameras trial"
+    excerpt: "A three-month trial that has seen bouncers wear body-worn cameras with facial recognition technology has been a 'success', organisers have said."
+    publishedDateTime: 2023-12-18T03:30:00Z
+    webUrl: "https://www.dailyecho.co.uk/news/23995483.success-southampton-facial-recognition-cameras-trial/"
+    type: article
+    provider:
+      name: Southern Daily Echo
+      domain: dailyecho.co.uk
+    quality: 39
+    images:
+      - url: "https://www.dailyecho.co.uk/resources/images/17559966/?type=og-image"
+        width: 620
+        height: 413
+        isCached: true
   - title: "Police defend facial recognition target selection to Lords"
     excerpt: "Senior police officers confirm to Lords committee that facial recognition watchlist image selection is based on crime categories attached to people’s photos, rather than a context-specific assessment of the threat presented by a given individual."
     publishedDateTime: 2023-12-15T09:07:00Z

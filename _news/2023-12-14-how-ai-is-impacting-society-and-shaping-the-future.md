@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/kalinabryant/2023/12/13/how-ai-is-impac
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kalinabryant/2023/12/13/how-ai-is-impacting-society-and-shaping-the-future/amp/"
 type: article
 quality: 91
-heat: 211
+heat: 221
 published: true
 
 provider:
@@ -77,6 +77,20 @@ related:
       - url: "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/a198d33db5ba133829eb15eda8174b0e.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "How Generative AI is Reshaping Banking & Finance in India"
+    excerpt: "The finance sector's initial reluctance to adopt generative AI is because of regulatory scrutiny, data privacy, security, compliance, and industry risk aversion, but now it is slowly changing,” Ashish Vora,"
+    publishedDateTime: 2023-12-18T05:31:00Z
+    webUrl: "https://analyticsindiamag.com/how-generative-ai-is-reshaping-banking-finance-in-india/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 69
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/12/s-1.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Do AI improvements call for something better than the Turing test?"
     excerpt: "In addition to this, the Turing Test fails to analyze an AI program’s ability to think. In a recent Turing Test experiment, GPT-4 was able to convince evaluators that they were texting with humans over 40 percent of the time. However, this score fails to answer the basic question: Can the AI program think?"
