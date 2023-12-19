@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "New generation of chips will drive the AI wave"
+    excerpt: "The artificial intelligence chip industry has developed a newfound appreciation for high bandwidth memory, or HBM, the technology behind such lightning-fast data transfers. Analysts had once deemed it unlikely to ever become commercially viable when it was first launched in 2013."
+    publishedDateTime: 2023-12-19T00:01:00Z
+    webUrl: "https://www.ft.com/content/e5c97253-90f3-4158-846f-07aaf3945983"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 34
   - title: "Navigating a shifting customer-engagement landscape with generative AI"
     excerpt: "Enterprises need clear roadmaps as the rapid advent of generative AI reshapes the way they engage with customers."
     publishedDateTime: 2023-12-18T19:55:00Z

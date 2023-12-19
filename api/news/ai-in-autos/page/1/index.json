@@ -140,6 +140,41 @@
       ]
     },
     {
+      "path": "_news/2023-12-18-tesla-stock-how-ai-and-robotics-may-change-the-game.md",
+      "title": "Tesla Stock: How AI and Robotics May Change the Game",
+      "excerpt": "Tesla's transformation from a car manufacturer to a tech leader in AI, robotics, and software shapes the company's competitive edge and potential for groundbreaking efficiency gains.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/memestocks/others/tesla-stock-how-ai-and-robotics-may-change-the-game",
+      "originalUrl": "https://www.thestreet.com/memestocks/others/tesla-stock-how-ai-and-robotics-may-change-the-game",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-18T01:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-12-15-experts-call-for-more-diversity-to-combat-bias-in-artificial-intelligence.md",
       "title": "Experts call for more diversity to combat bias in artificial intelligence",
       "excerpt": "He encourages employing sociologists, lawyers, political scientists and other types of humanities-oriented academics to help contribute to the conversation around AI and ethics. Lombana-Bermudez said his hope is that future generations may alleviate ...",
@@ -1023,8 +1058,8 @@
       "title": "Driverless cars were the future but now the truth is out: they’re on the road to nowhere",
       "excerpt": "The dream of these vehicles ruling the roads remains just that. Focusing on public transport would be much smarter, says transport writer Christian Wolmar",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/commentisfree/2023/dec/06/driverless-cars-future-vehicles-public-transport",
-      "originalUrl": "https://www.theguardian.com/commentisfree/2023/dec/06/driverless-cars-future-vehicles-public-transport",
+      "webUrl": "https://www.theguardian.com/commentisfree/2023/dec/06/driverless-cars-future-vehicles-public-transport?ref=biztoc.com",
+      "originalUrl": "https://www.theguardian.com/commentisfree/2023/dec/06/driverless-cars-future-vehicles-public-transport?ref=biztoc.com",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1325,49 +1360,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-china-issues-safety-guidelines-for-autonomous-vehicles-in-public-transport.md",
-      "title": "China issues safety guidelines for autonomous vehicles in public transport",
-      "excerpt": "The exteriors of self-driving vehicles must be marked with eye-catching patterns ... a permit for fully driverless robotaxi service in Guangzhou. China's tech giant Baidu possesses the world's largest autonomous driving ride-hailing platform, Apollo ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.globaltimes.cn/page/202312/1303066.shtml",
-      "originalUrl": "https://www.globaltimes.cn/page/202312/1303066.shtml",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.globaltimes.cn/Portals/0/attachment/2023/2023-07-20/96c8d531-1f82-497a-8f7d-c34717b051f4.jpeg",
-          "width": 1200,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T19:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Global Times",
-        "domain": "globaltimes.cn",
-        "images": null,
         "publishers": null,
         "authors": null
       },

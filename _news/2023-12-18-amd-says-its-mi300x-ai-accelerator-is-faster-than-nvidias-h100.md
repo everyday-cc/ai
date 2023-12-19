@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/101238-amd-mi300x-ai-accelerator-fas
 webUrl: "https://www.techspot.com/news/101238-amd-mi300x-ai-accelerator-faster-than-nvidia-h100.html"
 type: article
 quality: 69
-heat: 109
+heat: 102
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel announces a new AI chip to compete with Nvidia and AMD"
-    excerpt: "Intel Corporation unveiled the Gaudi3 accelerator on Thursday. It also announced Core Ultra and 5th gen Xeon server chip today."
-    publishedDateTime: 2023-12-14T17:25:00Z
-    webUrl: "https://invezz.com/news/2023/12/14/intel-new-ai-chip-compete-nvidia-amd/"
-    type: article
-    provider:
-      name: Invezz
-      domain: invezz.com
-    quality: 54
-    images:
-      - url: "https://invezz.com/wp-content/uploads/2023/08/108349122-m-normal-none-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "NVIDIA fires back at AMD saying its new MI300X chip is faster than its H100 GPU - it isn't"
     excerpt: "NVIDIA responds to AMD's showcasing the MI300X being faster than the H100 GPU. Here are the real results where the H100 is up to 2X faster."
     publishedDateTime: 2023-12-15T04:34:00Z

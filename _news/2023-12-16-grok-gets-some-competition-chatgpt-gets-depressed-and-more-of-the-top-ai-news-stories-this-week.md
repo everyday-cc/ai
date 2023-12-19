@@ -7,7 +7,7 @@ originalUrl: "https://gizmodo.com/grok-gets-some-competition-chatgpt-gets-depres
 webUrl: "https://gizmodo.com/grok-gets-some-competition-chatgpt-gets-depressed-and-1851102969"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "5 of the top AI roles companies are seeking to hire"
-    excerpt: "In the latter half of the 20th century, TV watchers and moviegoers began to meet a long list of intelligent machines: \"The Jetsons'\" maid Rosie, B-9 from \"Lost in Space,\" HAL 9000 from \"2001: A Space Odyssey,\" the \"Star Wars\" saga's C-3PO and R2-D2, and dozens more."
-    publishedDateTime: 2023-12-14T18:59:00Z
-    webUrl: "https://www.chron.com/personal-finance/article/5-of-the-top-ai-roles-companies-are-seeking-to-18554889.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 17
 
 secured: "oFUj/2u37vXONoxu1UaPzgzSs4nxdjYMI6YQ+MpjLPc+m9N/jal4JZDvZNFUKxQqB8duVKqXIfFS+Z2ZqEIUvxAzaPy4Ob3+lve6f+tfBWPP4+72bEkCYdnUwyFxYI2XB1c3mww8Qr6PesOY2VSfGfFetkYlOysaZpCy03EGLd889UoXLCg9eJf4kHO9sYqM+whEAHhBkMZitmwPAm/VxiYxXecN9fmdb+1U2m/sSwBMy8UpvSrySec9t92cfsl+29/cqrulWPvQxBRUBBIlMmd7A1Ar8hT+5tjZEKguQ3YNo6pCU0ILBxRhb3w4iKwx1mgw7WX4UDBK74Lk4a/H/jTabpoBJjJMvQq8QgR3C9mDNsWVoe7n+HmLzkZlK+x1YM8U/a6KxHZxsbJIMzvCgVnzblO9rn1JaHeBBxztmPCnM4TO18jW0l2EJFckLAs2IiCN3IkUYDDmHi0Q7+o40M32Ji3OlkqBoDlsSS0els8RAqbYemVMFd99LSy0lvzc7KBNubrSR8VbDsPjyxSiVw==;7yP3qMgC4azsnSvUfmDM8A=="
 ---

@@ -78,6 +78,20 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "What Are The Most Interesting FinTech Startups?"
+    excerpt: "What Are The Most Interesting FinTech Startups? From the innovative approach of wallet passes to the democratization of fractional investing, eight founders and COOs weigh in on the most captivating FinTech startups today."
+    publishedDateTime: 2023-12-19T18:35:00Z
+    webUrl: "https://techbullion.com/what-are-the-most-interesting-fintech-startups/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 24
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/What-Are-The-Most-Interesting-FinTech-Startups-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Nigerian Audit Chiefs Urge Tighter Oversight of Fintech Sector"
     excerpt: "The Association of Chief Audit Executives of Banks in Nigeria (ACAEBIN) has urged for tougher regulations in the fintech sector and the operations of Bureaux"
     publishedDateTime: 2023-12-17T10:17:00Z

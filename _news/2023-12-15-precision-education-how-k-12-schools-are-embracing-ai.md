@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/neilsahota/2023/12/15/precision-educati
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/neilsahota/2023/12/15/precision-education-how-k-12-schools-are-embracing-ai/amp/"
 type: article
 quality: 104
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -112,6 +112,20 @@ related:
       name: Crain's Chicago Business
       domain: chicagobusiness.com
     quality: 36
+  - title: "Accelerating Innovation: Open-source Software, Artificial Intelligence, and the Auto Industry"
+    excerpt: "THE RISE – AND IP RISKS – OF GENERATIVE ARTIFICIAL INTELLIGENCE The past year has seen an explosion in the advancement of generative artificial intelligence (AI) programs such as ChatGPT, but the auto industry has been using traditional and generative ..."
+    publishedDateTime: 2023-12-19T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/accelerating-innovation-open-source-8626129/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 26
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.9266_0649.jpg"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "MdjqpYBLFFgA9goJtXML/AJ/FEDFLAXaVTCRChPTaeRGjKHdpyZ+9GJZPWBTbO+NgoZ34vfrJoKqWY094uUGdSFnge82ic2K0y29EPcGzHsjH5xkajlYmwIugnuUUcayRVQcY3CWjyQV/tovkSvlKduDDclVOhcyAaJsZoWi9VJPk+UFHU22oNX3AUXB+1wLW29mIKT5xd2mgsscwwuOylE/n2+fHspmXhnUOniFnHvxGNwbUPi08Fwld4Ouk4JZTMFBhLF1Ymymf4ZBngeDTJctBeXoHwGzGurNRTKDFfMKzMDesQKuZQo60JYiuR+kvmN/Dss/r4/f+qg4ThV97Y7aEvvRV0WOai59q/hn7SeBuo69qTLGb38bhohK3+swcB9UkVWgauH2oS++mk5969fAshj4pJk6ELbQBCC1Q0epTojfhyYsqcoMsnlHycCuisdcc6tmgktT+vKjkwXJ5at3wgWX81cxcEY9Ikp3uFqzQjTAAJFvL59DJAbNHsZlrMP+Y4HB4IZ8AoGEJ8l1TA==;UbKRM58ZRmnOexTCHV6rjw=="
 ---

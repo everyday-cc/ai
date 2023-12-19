@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/ai-stocks-to-buy-investing-consume
 webUrl: "https://www.businessinsider.com/ai-stocks-to-buy-investing-consumer-goods-artificial-intelligence-stifel-2023-12"
 type: article
 quality: 71
-heat: 75
+heat: 71
 published: true
 
 provider:

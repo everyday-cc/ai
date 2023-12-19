@@ -39,20 +39,6 @@ related:
         width: 2000
         height: 1125
         isCached: true
-  - title: "Intel announces a new AI chip to compete with Nvidia and AMD"
-    excerpt: "Intel Corporation unveiled the Gaudi3 accelerator on Thursday. It also announced Core Ultra and 5th gen Xeon server chip today."
-    publishedDateTime: 2023-12-14T17:25:00Z
-    webUrl: "https://invezz.com/news/2023/12/14/intel-new-ai-chip-compete-nvidia-amd/"
-    type: article
-    provider:
-      name: Invezz
-      domain: invezz.com
-    quality: 54
-    images:
-      - url: "https://invezz.com/wp-content/uploads/2023/08/108349122-m-normal-none-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "SuperNIC network accelerator for AI cloud data introduced by NVIDIA"
     excerpt: "Learn more about the new SuperNIC network accelerator for AI cloud data launched by NVIDIA. But what is SuperNIC and why does it matter?"
     publishedDateTime: 2023-12-18T14:34:00Z

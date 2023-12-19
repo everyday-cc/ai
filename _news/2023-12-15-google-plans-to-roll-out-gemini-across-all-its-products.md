@@ -131,15 +131,6 @@ related:
       name: Beebom
       domain: beebom.com
     quality: 19
-  - title: "Google Bard Meets the Latest Language Model, Gemini"
-    excerpt: "Gemini, the latest language model of Google and DeepMind is being used by Google Bard, an AI chatbot of Google."
-    publishedDateTime: 2023-12-14T17:06:00Z
-    webUrl: "https://techacute.com/google-bard-meets-the-latest-language-model-gemini/"
-    type: article
-    provider:
-      name: techacute.com
-      domain: techacute.com
-    quality: 4
 
 secured: "H35Ton6b47Z+Ms25vgGyyEgUHMB3MtIPL1K5rOtowkwcsEwLakFQZpAkyvg9bMjOyAm0h7/he9DujzBxtPeKr/VuNDhkRXm84CnWUsv7/K81PYp6eLGYuhP/qseq675Vg8QVecvIvRGoLLtndVzbqDcYHpuZ90sLlq6JjhIDmsd6PPBmfLfkqISpaYym2VM/bJafTWYbMBlXicgHAEgtSgzKOOuO5eQjdAj+HK0mJxW53uPP/h9A0xRu2Yc5kZdbSkrhTaapcEF6tI4Yu10FfHj4FMezoLNBqYHU3qZ+zubv3LSSL0HIxAcEvOv6CibOrE2Q62F/CjAk6lBf899YA+nAarnTD6ZtFKlT5kbTXFA=;kC1TSn/5fDYdyt+jghH7AA=="
 ---

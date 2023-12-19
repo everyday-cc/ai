@@ -28,20 +28,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
-  - title: "Machine learning predicts the long-term future of shortsighted eyes"
-    excerpt: "Machine learning has been found to predict well the outcomes of many health conditions. Now, researchers from Japan have found a way to predict whether people with severe shortsightedness will have good or bad vision in the future."
-    publishedDateTime: 2023-12-14T17:36:00Z
-    webUrl: "https://www.news-medical.net/news/20231213/Machine-learning-predicts-the-long-term-future-of-shortsighted-eyes.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 39
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Iris-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
 
 secured: "/2AtuPO2yt3MQ7p3NUvtOHSP47evDvCYk1/DeFWr1iG1WefNkoMprH7groiKBcvXVHxq8RiRYwu53GUie2vvt7kGMMtpzA6M3EzyOfANp2sld7KIN7LBswhI+JyXC804zOIVkjzUrieERNF7r8FJcfjWhr/ebpfArTR/JHI5WWIYOLg5zmDXr8kkMMa+K6OpzL3wCTHJxmFbehv+HLo7H7l6lxS/oJulUmXSnRNd4CbWnYD7SQQnacv1CeusfV5/QtYlnzT3bRqx0h884IOGsEeikzTAntxtP7LMr+0vS8jOwnBGxBQQFZrpoupJ0oCM1TbPs96agSAqmr23dYbgLu1B/O3CCU000/BREUWs4JQ=;28hQNwJnl6PUeRoP/+sLYA=="
 ---

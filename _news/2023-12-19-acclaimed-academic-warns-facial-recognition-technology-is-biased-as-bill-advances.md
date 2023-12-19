@@ -24,22 +24,6 @@ images:
     height: 1687
     isCached: true
 
-related:
-  - title: "Draft Law On Facial Recognition Technology To Be Published"
-    excerpt: "This new facial recognition technology or FRT would mean they can use biometric identification to search footage which would significantly speed up investigations. Following the D"
-    publishedDateTime: 2023-12-14T18:35:00Z
-    webUrl: "https://www.98fm.com/news/draft-law-on-facial-recognition-technology-to-be-published-1624002"
-    type: article
-    provider:
-      name: Dublin's 98FM
-      domain: 98fm.com
-    quality: 39
-    images:
-      - url: "https://media.radiocms.net/uploads/2020/10/supervision-1674614_1920.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
-
-secured: "ol9WNBYmDsYSPzovAAwcKUl8raeSpPyW6DCNRbY+kidRi+v5jXpLUgk7dF+haOqs7mSzaFcClS3P+LhPcCCHuho2EurTa3Yfjt+p22/4oX9IPmfytFbgx1/jPd/Ymu4zV3uMfLlmzAWlO4C1uzAZGPJNfi469be7flII3qC8CWyLHwFOxpEn5CLBgfxkE9uvqRUXEqCJj5CvpJvhFTjQH97M6fetyumw33X7wTsqO7c5S92vMt9319/RKIDirw99HY1IOcZxKM15bdy6Dn5BQVi2rmT/zOblTvFnOZBdv5bgpjCUQnU/X3XKI46xPhFkH7fl7aOY7o66FfJpg2llY54I2NfoCB6QS00vt9Kn0B4=;3ohO/YeSwih/40IutRoDig=="
+secured: "mVzqvvyIjUeQW+Q7HQvRnrkqqYpXvetK7w3t4mX/ZNS+p8Kk0/q3I7/aRkJ7yoxQe5o4VKz4kbteeOQbkBMIi2s94eCPvvjUZTMQJ9/ALkCOz3RepvG/7vWv7pYEO7cq1ylppeCm8m4Q0776jxT4RMCouSwWMIKXwCzWs85Ax264BEirwyOdldCxVxzekkhfc2z9f84PgbTpk5VOGIkB+5c4cNv1W1GAnsqSwooRDVouKWAbR/2XVd239gmvx9pMWWdUoSgk8JjRP0pYkffZCVq78HEXCGYPfFm9T7nuoTAU+FdkkMV9zSFpHLD/RqOmzpK5qaiecjADN5WHS70zfONqx8LeBC5V6svg8sqieuCO08vFX4GlQY+I6rlJpwcTb78br5p11SygwMNp58z2oNRDNSRR+N3+d0GqnTvVuwkTZtnrkKEebR0sY5agQI/T6zztiufZrAGQJ0x66oiIKJHVJFgMO1lGSQ5jlWZqdtJLxKtbgkTWZam/hInAUQUoMIaITu6nVvAenYkLwcd/mw==;ZlcMwCuuTKXKAse6r5ASdA=="
 ---
 

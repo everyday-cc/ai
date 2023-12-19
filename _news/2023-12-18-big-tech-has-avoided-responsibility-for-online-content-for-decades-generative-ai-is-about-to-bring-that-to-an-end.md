@@ -28,6 +28,17 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "HGS Next-Gen Accelerator for Contact Centers Harnessing the Power of Generative Artificial Intelligence, Now Available to All Brands"
+    excerpt: "Part of the multi-billion-dollar conglomerate Hinduja Group, HGS takes a \"globally local\" approach. HGS has over 19,947 employees across 35 delivery centers in nine countries, making a difference to some of the world's leading brands across verticals. For the year ended March 31, 2023, HGS had revenues of Rs. 5,006.7 crore (US$ 621.5 million)."
+    publishedDateTime: 2023-12-19T14:18:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/12/19/9936411.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 1
+
 secured: "2tyxzDuZjekDeZS0Mni/WTSQjY4cdhu0LM/zpL5YgH0EmusImBqPcdrQk2MSh0a+Ah3fOWUse3e5vXikWFfmk0fyV+RrW4uK47T8qHOrVQ9GxuXlg22rzsL4Vg+GF+xOuJSDAn+qJrItUhaJTfVrc6X149idk0NL7kBVrpSCUs7MOxxd3xyCVEZ8I43anxkK+256gzS6rZh+E56p0UfXur5PclSqvjdQaRl8LAgrX9orkY+qeDLuOYD1u6ysuqy9OVXJOIUhPV1DKs6UhlQu7F8qOTRhHkLG1qAch7GmxXsip83Gm80Fcv+/TE1jSMu90uOFoPrc5EMxqdK5CD9KJXQRMmZQg0pTVkFuz8J5dbI3i77E/MUCc4jnebxFtWeOPPvVSigh+ICHTFkQoBSt33jgaxChDHw1L8NzC4/jj0efcr6MT3Itk1LYvwIIGydDxIvP6EL13QDGxMjlaDEd3sLTxa0wNV9+9nlt7baBSWTNLqEU4kd5SVThWCdgjV2XaJ5Gv+uyAz1Z14mze78QQg==;XRqhARYZt0oak52+n20+gA=="
 ---
 

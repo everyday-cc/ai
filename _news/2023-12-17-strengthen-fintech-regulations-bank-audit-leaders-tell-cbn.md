@@ -9,7 +9,7 @@ ampWebUrl: "https://punchng.com/strengthen-fintech-regulations-bank-audit-leader
 cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/strengthen-fintech-regulations-bank-audit-leaders-tell-cbn/?amp"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -77,6 +77,20 @@ related:
       - url: "https://www.aap.com.au/wp-content/themes/aap-news_theme/dist/assets/images/sport300x250.108183d0.gif"
         width: 300
         height: 250
+        isCached: true
+  - title: "What Are The Most Interesting FinTech Startups?"
+    excerpt: "What Are The Most Interesting FinTech Startups? From the innovative approach of wallet passes to the democratization of fractional investing, eight founders and COOs weigh in on the most captivating FinTech startups today."
+    publishedDateTime: 2023-12-19T18:35:00Z
+    webUrl: "https://techbullion.com/what-are-the-most-interesting-fintech-startups/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 24
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/What-Are-The-Most-Interesting-FinTech-Startups-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
   - title: "Nigerian Audit Chiefs Urge Tighter Oversight of Fintech Sector"
     excerpt: "The Association of Chief Audit Executives of Banks in Nigeria (ACAEBIN) has urged for tougher regulations in the fintech sector and the operations of Bureaux"

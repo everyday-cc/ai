@@ -26,52 +26,45 @@ images:
     isCached: true
 
 related:
-  - title: "Tackling Ethical and Security Concerns of Generative AI Models"
-    excerpt: "Artificial Intelligence (AI) has been rapidly transforming different industries across the globe for the last decade, but 2023 has been a banner year for AI with generative AI tools like ChatGPT, Bard and now Gemini – Google’s newest and most capable AI model – making waves in the AI world."
-    publishedDateTime: 2023-12-19T12:14:00Z
-    webUrl: "https://techbullion.com/tackling-ethical-and-security-concerns-of-generative-ai-models/"
+  - title: "These AI-generated news anchors are freaking me out"
+    excerpt: "In other words, human-looking AI avatars now seem well on their way to climbing out of the uncanny valley, at least when it comes to news anchors who sit at a desk or stand still in front of a green screen. Channel 1 investor Adam Mosam told Deadline it \"has gotten to a place where it’s comfortable to watch,\" and I have to say I agree."
+    publishedDateTime: 2023-12-15T15:57:00Z
+    webUrl: "https://arstechnica.com/ai/2023/12/these-ai-generated-news-anchors-are-freaking-me-out/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 71
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 67
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/Ethical-03.jpg"
-        width: 1000
-        height: 500
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/12/channel1-vs-max-headroom-760x380.jpg"
+        width: 760
+        height: 380
         isCached: true
-  - title: "Inside Bayer’s embrace of generative AI"
-    excerpt: "In this wide-ranging interview, Bayer’s head of digital transformation Saskia Steinacker shares her top tips for implementing a genAI roadmap in commercial."
-    publishedDateTime: 2023-12-15T15:45:00Z
-    webUrl: "https://www.mmm-online.com/home/channel/7-day-supply/inside-bayers-embrace-of-generative-ai/"
+  - title: "People are using artificial intelligence to create avatars of dead loved ones"
+    excerpt: "Companies like HereAfter AI and StoryFile are offering people the chance to record voice recordings and videos before they die so their family can still interact with them when they are gone"
+    publishedDateTime: 2023-12-17T08:00:00Z
+    webUrl: "https://www.mirror.co.uk/news/us-news/people-using-artificial-intelligence-create-31657680"
+    ampWebUrl: "https://www.mirror.co.uk/news/us-news/people-using-artificial-intelligence-create-31657680.amp"
+    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/us-news/people-using-artificial-intelligence-create-31657680.amp"
     type: article
     provider:
-      name: MM&M
-      domain: mmm-online.com
-    quality: 39
+      name: The Mirror
+      domain: mirror.co.uk
+    quality: 54
     images:
-      - url: "https://www.mmm-online.com/wp-content/uploads/sites/2/2022/05/GettyImages-1252150184.jpg"
-        width: 1024
-        height: 683
+      - url: "https://i2-prod.mirror.co.uk/incoming/article31661253.ece/ALTERNATES/s1200/0_AI-robot-controlling-future-hologram-UI.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "New generation of chips will drive the AI wave"
-    excerpt: "The artificial intelligence chip industry has developed a newfound appreciation for high bandwidth memory, or HBM, the technology behind such lightning-fast data transfers. Analysts had once deemed it unlikely to ever become commercially viable when it was first launched in 2013."
-    publishedDateTime: 2023-12-19T00:01:00Z
-    webUrl: "https://www.ft.com/content/e5c97253-90f3-4158-846f-07aaf3945983"
+  - title: "None of these anchors are real: Channel 1 plans for AI to generate a news broadcast"
+    excerpt: "Channel 1 AI released a promotional video explaining how the service will provide personalized news coverage to users from finance to entertainment."
+    publishedDateTime: 2023-12-15T01:41:00Z
+    webUrl: "https://www.usatoday.com/story/tech/news/2023/12/14/channel-1-ai-news/71925360007/"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
-  - title: "HGS Next-Gen Accelerator for Contact Centers Harnessing the Power of Generative Artificial Intelligence, Now Available to All Brands"
-    excerpt: "Part of the multi-billion-dollar conglomerate Hinduja Group, HGS takes a \"globally local\" approach. HGS has over 19,947 employees across 35 delivery centers in nine countries, making a difference to some of the world's leading brands across verticals. For the year ended March 31, 2023, HGS had revenues of Rs. 5,006.7 crore (US$ 621.5 million)."
-    publishedDateTime: 2023-12-19T14:18:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/12/19/9936411.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 1
+      name: USA Today
+      domain: usatoday.com
+    quality: 13
 
 secured: "UVTrniIuWtedtrZ4WD5sgeddlQv8wcUPO1qVxCpOiPXAXiiK+1DBKXG3iGTggLP/e16dT4HgNyMJWJhMS13aOqVwz8CXlvWrrHB8v5uZPX+uq2S/zqi/3CsuQv3eCRDG/6QX7oJceC44AmwdwmpfhtdjcxHhC1m5OdXE0rxdVgeR8V+9UOyaPMjXVB1ONellpk3gJbUqzuXW47piEv4SllKAdIbzz3sph1qls3jN273fdtR8rAIWqE8HNEs4rTgyV3R5X9uFWWF4+OFgJ2ViCE+yP4ZqOItH+VAX4gt1JevSVXuBrU5McAiWd0EUwlmSi7NLquBERlD3wF3NHs0XDq2HubcBA2covfvzuK6IV77HM5Z/gk/F3z/6HRb459J6pJH25/Ggc97q1W54ok06Ix+DOphO0D80rMv+a4jNmPMOz2+TJ+nHF8xiGNQ4arkMGbmt8d0J5QZiNlQ54esdrr7R7X0qihInISxfNu+BQV6RdEnXO6kODlPd0iapZE55zhCfSyqzb4KOakP9HWd11w==;6P0qInlezhNFRcsbCenE3Q=="
 ---

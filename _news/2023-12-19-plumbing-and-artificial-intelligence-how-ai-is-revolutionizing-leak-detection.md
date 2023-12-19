@@ -107,6 +107,20 @@ related:
       name: Crain's Chicago Business
       domain: chicagobusiness.com
     quality: 36
+  - title: "Accelerating Innovation: Open-source Software, Artificial Intelligence, and the Auto Industry"
+    excerpt: "THE RISE – AND IP RISKS – OF GENERATIVE ARTIFICIAL INTELLIGENCE The past year has seen an explosion in the advancement of generative artificial intelligence (AI) programs such as ChatGPT, but the auto industry has been using traditional and generative ..."
+    publishedDateTime: 2023-12-19T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/accelerating-innovation-open-source-8626129/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 26
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.9266_0649.jpg"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "swPf0d4BBATinxrgdjc1+1AfcUpLa5U1FuyUsgja7j4+DN/MuyCHyfz9SEswEkeC0JjmZfUtypxFsX5Uk47IJo0tJmz/wXGef2G797RDzqgOfSkFofvzonnzJtv4+aoREkfvz1p+WqcDmCl2QoptsqEjBzyrGv492d3GwASlkIGQ74ZfACclpNEq4nfVvH2pIur6Zvm06ZWTeBLz+bYr7YQOrxov6hsOmTaKHEdam88HecSttZNxiCvGO/vnkpERDfMobT+sHxXgejOVkTFq4VHF9w2f0BVBrI6mijvLnwpDocrDJtESDfswHamScAoJeGsLUNRNMo1k0IlAHycWOoDw3GE7Pi0CsZ/Te2gnvUFk5e9OSukWnrcxJjVdATQp7lTEd8hcNdRfwjBkKWkzc64DK48sT+AGf/PZ6/8jsyfA5oUXBZIjCwFIonSekBYC3CRupqtm0C/fr1VUf4IDw1jUcRT8/iOzx7wZM1VndQAuzjy859YEWwNTZdYBrzLP/swvlsXmn4WwaXElydZUzg==;lglrEWAtCKo3iS9nCH0JAA=="
 ---

@@ -24,22 +24,6 @@ images:
     height: 372
     isCached: true
 
-related:
-  - title: "Breaking barriers: How AI will transform hiring & HR in 2024"
-    excerpt: "It’s a big problem to solve. In 2024, with the help of AI, this will start to change. We’ll see AI-powered applications introduced and adopted that allow recruiters to conduct large-scale, qualitative interviews in a short period of time, giving ..."
-    publishedDateTime: 2023-12-14T17:21:00Z
-    webUrl: "https://www.benefitspro.com/2023/12/14/breaking-barriers-how-ai-will-transform-hiring-hr-in-2024/"
-    type: article
-    provider:
-      name: Benefits Pro
-      domain: benefitspro.com
-    quality: 37
-    images:
-      - url: "https://images.benefitspro.com/contrib/content/uploads/sites/412/2023/12/Artificial-Intelligence-Article-202312111051.jpg"
-        width: 620
-        height: 372
-        isCached: true
-
-secured: "JB7Fpxg5d1qkF2GqVHa4+Z8vfw8I+/OL1Ki402eeY0WhWXF2qKFqN4t4T1k5IaluP20E0oRUNs9MiptVcpyGYvOSd4dxMP9FHSxaXQUbBQo2b74UtukkXDx0a+ZBwB26qhr+cDkZmJRiuVejvGi9bbv6rPygmm1H6RJTFCCh2AXG5DVA0Q8nUGmSC9NzkC/Lx9SE7X33QjL6S2RJmhRMs4CT4qVLEGmNRKB1cwA9ttwiVDM53E4I1LmrDxsV/II2X8Oc0r403ZINs9J7xUJohnIq42827UdIgwddU5h2SbBK5CarDWm0UkK9SM8TEApYbllG+26g+6eK0WFxFgf3NcRTLJ55wGwVpz5MaT+lDpc=;f9PNg7QcHeqmP8b3fyIraA=="
+secured: "m6gvmXBdMolHL8Uqd+V0a/C+Tc7FsQjCMXy/L2b3fGZEoQgLkMgIY4d5ysN24cs+HUYp/Z6Ek3SdK8puHHFMs3kJlWIJx/3/LUUmGNmdRYa9wIEOMBmx94H0chzrA+Z3ya9J5qetyXPR52SgpcSZmig+MJknnvOEipadFj9CA2PIB4F9nLHNWynnTOnyG7sJ75uDfVXpbhjuGP5ct2+pXTVIe14v7WCIVtS2sFes8VUoqMo2fqbX6cysVt5PICok+r+MBvqRyeBgBS2qvpyhFyFYj8dxRAH/Nvo+XkANcK2fRJzGaxjTOTlUeTstUJRYXA28xVOa/LKbcED1aqEJ/lTX+SNxay8/nQAMdtN4asqYQWzlNH7In4Sz9km1m8iMKibA6AqY7pN6O5OjncDUA/9qkQdj78y2Y1RHibopNfKQl+HdRgVhLFbpRnsFEDokXnMRstu6C3f58oyHvIRZSzojCHRF6xrPxU7ob/RjJZBTxllJrKwZYcNwdOwJkmu7tLuJPM1vPpv7djUD45uGdg==;GgFb6+7VQVf8f0J0S8ZhOQ=="
 ---
 

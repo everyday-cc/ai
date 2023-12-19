@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wfmynews2.com/amp/article/sports/nfl/panthers/bank-of-am
 cdnAmpWebUrl: "https://www-wfmynews2-com.cdn.ampproject.org/c/s/www.wfmynews2.com/amp/article/sports/nfl/panthers/bank-of-america-stadium-facial-recognition-panthers-fans-tickets-silver-club/275-5f0ca2cc-5c2a-4828-8fda-3321fd64cf7e"
 type: article
 quality: 76
-heat: 116
+heat: 96
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Internet Marketing Association Wraps One Of The Largest Artificial Intelligence Conferences In America"
-    excerpt: "IMA has established a position as one of the largest and fastest growing groups in the world focused on internet marketing. Members represent a wide range of fields associated with this dynamic and pivotal aspect of business and society. For information on the Internet Marketing Association, visit ."
-    publishedDateTime: 2023-12-14T18:27:00Z
-    webUrl: "https://menafn.com/1107598826/Internet-Marketing-Association-Wraps-One-Of-The-Largest-Artificial-Intelligence-Conferences-In-America"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 40
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?252423"
-        width: 378
-        height: 249
-        isCached: true
   - title: "Verizon, Panthers Implement “Express Entry” Option Using Facial Recognition To Enter Bank of America Stadium"
     excerpt: "A new partnership between the Carolina Panthers and Verizon allows fans to enter Bank of America Stadium without scanning a ticket or their phones."
     publishedDateTime: 2023-12-14T22:49:00Z
@@ -65,15 +51,6 @@ related:
       name: Sports Business Journal
       domain: sportsbusinessjournal.com
     quality: 19
-  - title: "Panthers and Verizon adding facial-recognition entry for NFL games at BofA Stadium"
-    excerpt: "In addition to the Panthers, Tepper Sports owns BofA Stadium and Major League Soccer team Charlotte FC. Wright said that Tepper Sports plans to make available facial recognition entry to all Panthers’ season ticket holders next season."
-    publishedDateTime: 2023-12-14T18:42:00Z
-    webUrl: "https://www.bizjournals.com/charlotte/news/2023/12/14/carolina-panthers-nfl-verizon-bank-of-america.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
 
 secured: "7al+Rsv3PKIFUarHLR9MKBwwQCIBa4AqcGC6r+irUKTY/yNU9Twuvx4k/BsSn1gawt6YJMNejLE7izCdU3HPqd2R99Isbent6atbUMWFEM6THkRwdLW1SYXibIKAVrFo0UnFISSEBbsacKd6ZtDYzoMjCyOi7n1v22qFVbX5fdpYQ9WEHU+CM8QPzE7XkK61MEAdxdmghkQ2IEoln0HwY98LpIjNzSrORQvsXfgLH8p2kXpTMb06hP5utecURkUUvmS+YwGsf83u+P+t1wW2rTxouz4ibR7Oxae3cEi/IUwKdsK0bnDu/zMWOSgYvyOawKlrC9IDvQN1n85+RWOmb1tmgccV7iWVW5M1i2bh5fLDh7LSCQ3pIevvcx4U/BSb8ewCD2XHgViz2RmYSVnVI/a3QZ9pLk0SRs9c+fYZEErV2FoKr3BMD82YNLlj0laIj+xjex8LgnOei8KgrUMP1+gCtaGDFfUS1gCLsZt594DgsAjLU3AdLZQ3UMY9vZ7EIAkOeZTjg7GUnKytJJihfQ==;P336tb6Wdsbp76VtLXVbew=="
 ---

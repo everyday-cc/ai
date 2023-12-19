@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Exclusive video: Financial Services Forum at FinTech LIVE"
+    excerpt: "Experts from MSU Federal Credit Union, Convera and Minka tackle all the big questions during the Financial Services Forum at FinTech LIVE London 2023"
+    publishedDateTime: 2023-12-19T16:53:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/finserv-forum-fintech-live-london-2023"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/b9e0c5f7d85f6923a52198d6087d2b56:c3c44a7bf9a3fc9004a075d1bed81c3c/maxresdefault.jpg.jpg"
+        width: 1200
+        height: 631
+        isCached: true
   - title: "This fintech startup wants to help you make climate-forward investments"
     excerpt: "Harlem-headquartered GreenPortfolio has launched a platform that seeks to arm individual investors with climate-conscious data to help inform their financial decisions."
     publishedDateTime: 2023-12-15T18:33:00Z

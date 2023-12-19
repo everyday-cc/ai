@@ -33,6 +33,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Exclusive video: Financial Services Forum at FinTech LIVE"
+    excerpt: "Experts from MSU Federal Credit Union, Convera and Minka tackle all the big questions during the Financial Services Forum at FinTech LIVE London 2023"
+    publishedDateTime: 2023-12-19T16:53:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/finserv-forum-fintech-live-london-2023"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/b9e0c5f7d85f6923a52198d6087d2b56:c3c44a7bf9a3fc9004a075d1bed81c3c/maxresdefault.jpg.jpg"
+        width: 1200
+        height: 631
+        isCached: true
   - title: "Fintech in Italy: there are 622 startups but investments are decreasing. Focus on Artificial IntelligenceA"
     excerpt: "Among the 622 Fintech startups, 109 are focused on insurtech. A stable number that shows the maturity of the market. However, investments have fallen by 81% even though a third of the startups are profitable."
     publishedDateTime: 2023-12-16T18:20:00Z

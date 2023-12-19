@@ -37,20 +37,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Dell, Microsoft, Lenovo Laptops to Soon Feature Intel’s New Chip with Built-in AI Capabilities"
-    excerpt: "Intel, a leading technology company, announced Thursday that numerous personal computer manufacturers are utilizing their latest chip. This strategic move aims to entice consumers to upgrade their machines for the dawn"
-    publishedDateTime: 2023-12-15T09:10:00Z
-    webUrl: "https://www.econotimes.com/Dell-Microsoft-Lenovo-Laptops-to-Soon-Feature-Intels-New-Chip-with-Built-in-AI-Capabilities-1668035"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 59
-    images:
-      - url: "https://f1.econotimes.com/2023/12/p6j30bp4cg_th_1024x0.jpeg"
-        width: 1024
-        height: 614
-        isCached: true
   - title: "Intel Drops New Core Ultra Processors and Gaudi3 AI Chip to Take on Nvidia and AMD"
     excerpt: "Intel launches Core Ultra processors and Gaudi3 AI chip to compete with Nvidia and AMD. Core Ultra line features chiplet design, neural processing unit, and specialized AI components for enhanced performance."
     publishedDateTime: 2023-12-16T10:47:00Z
@@ -106,20 +92,6 @@ related:
       - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/949315604/image_949315604.jpg?io=getty-c-w1536"
         width: 1536
         height: 1024
-        isCached: true
-  - title: "GIGABYTE Introduces New AORUS 17 and AORUS 15 AI-Powered Gaming Laptops with Intel Core Ultra 7 Processors"
-    excerpt: "GIGABYTE, the world's leading computer brand, proudly introduces the latest evolution in gaming laptops for 2024 - theAORUS 17 and AORUS 15 - delivering cutting-edge performance in their signature sleek and portable package."
-    publishedDateTime: 2023-12-14T17:13:00Z
-    webUrl: "https://www.malaysiasun.com/news/274065021/gigabyte-introduces-new-aorus-17-and-aorus-15-ai-powered-gaming-laptops-with-intel-core-ultra-7-processors"
-    type: article
-    provider:
-      name: Malaysia Sun
-      domain: malaysiasun.com
-    quality: 21
-    images:
-      - url: "https://mma.prnasia.com/media2/2299916/GIGABYTE_New_AORUS_17.jpg?p=medium600"
-        width: 599
-        height: 337
         isCached: true
 
 secured: "IhAGZ/xrhRKRnQIwDSXWrljVmxkbQtyXPDujvoMfWy4B416cFVwRpxNrFMaix3zRflNP97j4ZyZ0TrHsfS2lhP+W9xhzCL2Jes4lvXClyNHpaBNsuvzgIPS+0s0a2jaOIiGrMzMztB//5X1qa5Aq/JmnTT5hkcU1cSgQEuFYw2mUhg9u+8HtFe3/fsLbrtQzIi6LJ5zUxa5rh5riqRRY+G+FS7c4mJSd5wTUqBZycPE3j80xZRih10cDRQ96HsQLyrDWDQ/+mfXi5bGR74vsleu9MmTVkNejx43SOIvkHk/qoD+1jkAog7WNDPKUFhDnIgaev7dX2ntDcnQAlIORjX+6QtRid/lLzsoauxqHPqdcWi7F19RbjPAFHfj1BD4m4hgbLpiv1CbISwPUGRyrRqn3JuKMEuq7CHSVJfSSMdDJ2OiWKPYl8mti+WQDLDHoms68Ff9TpAK2Fd/UZm1kfcK9YnV0F6HX2cAOADPdWlFR1CARDZRihxmZrYwjKlto23nW0pnUNZjIoXPlxgV+SQ==;LJ/BAWK09LzDmUxe6nXKLg=="

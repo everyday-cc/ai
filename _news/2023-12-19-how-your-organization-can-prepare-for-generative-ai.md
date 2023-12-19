@@ -19,29 +19,34 @@ topics:
   - AI
 
 related:
-  - title: "Generative AI for CPGs: The Latest Use Cases to Boost Operations"
-    excerpt: "Generative AI is being used by people all over the world to complete any given task at a faster rate. For use at home, such uses include recipe ideas, travel help, and summarizing large amounts of research or data. For business use, it gets more specific."
-    publishedDateTime: 2023-12-19T15:27:00Z
-    webUrl: "https://www.packworld.com/news/business-intelligence/article/22882216/generative-ai-use-cases-for-cpgs"
+  - title: "Inside Bayer’s embrace of generative AI"
+    excerpt: "In this wide-ranging interview, Bayer’s head of digital transformation Saskia Steinacker shares her top tips for implementing a genAI roadmap in commercial."
+    publishedDateTime: 2023-12-15T15:45:00Z
+    webUrl: "https://www.mmm-online.com/home/channel/7-day-supply/inside-bayers-embrace-of-generative-ai/"
     type: article
     provider:
-      name: Packaging World
-      domain: packworld.com
+      name: MM&M
+      domain: mmm-online.com
     quality: 39
     images:
-      - url: "https://img.packworld.com/files/base/pmmi/all/image/2023/12/AI_for_CPGs.6581b1e143314.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://www.mmm-online.com/wp-content/uploads/sites/2/2022/05/GettyImages-1252150184.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "British Airways turns to AI to improve flight operations"
-    excerpt: "British Airways is turning to greater use of artificial intelligence to improve its flight operations that have suffered a series of meltdowns in recent years. The UK airline has deployed AI to automate parts of its business, including in the maintenance of its more than 250 aircraft, according to people familiar with the matter."
-    publishedDateTime: 2023-12-14T17:58:00Z
-    webUrl: "https://www.ft.com/content/7960095a-7903-401a-8616-48cbc0a38dd1"
+  - title: "Sai Buddhavarapu on the power of generative AI in supply chains"
+    excerpt: "For supply chain professionals, success is reliant on good planning. But volatile market conditions and a proliferation of data are making this increasingly difficult. “With supply chain solutions spanning vast networks with diverse data silos,"
+    publishedDateTime: 2023-12-19T09:54:00Z
+    webUrl: "https://www.technologyrecord.com/article/sai-buddhavarapu-on-the-power-of-generative-ai-in-supply-chains"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 39
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4760/Sai-Buddhavarapu_975x548.jpg"
+        width: 975
+        height: 548
+        isCached: true
 
 secured: "X4weOC/OkG88wefPm9q8afqZqIuv3JOQ67BftrVvUK7Z5eZuc5Yn8xWGyRMoiyegmG8QaTioEocKwL/IPRQbmZgwCxFshXfhePaBwudcDHy+3pdWkwte8/DNCZ5w/LY58T/+KHxcrxOGY8rdoAn+0Pkm/tYlbkVCSWD1i9RV3aJxxAXRYAGC/JNq5aMPS1/ZybrzqC0XU8tDxhMTBqiu6zRzO0DVU2n074W5ImrycgA9ultAPieACLWR482rkKtFss8JPjJJAL1CHm6cFDRWf/Dfa/wwmfIxus+M3+VEj5gPNd+p312xGLb6PMcsOJkqkEBn2gb6+SjdsbBjDERJyKu9u0Hr1Q7w88yn3WihNOiIXGbeUReqJ0b1RtvyiaUH9IVDUFQrnbn3vFob1LnXxRlwKg4szEoebTgz+4uDwuh5XItN4x4jIsqWzr+STnykNsSHRst/dFHsanqFXY2dDUcOEur2d2h+8dTn8CegyTtgNKNp4UP01thNfTHKIrQCcL06VyFUZGyDDVvTh3Ut6Q==;fzLQCYSFVmj1hSBaNdEQLQ=="
 ---

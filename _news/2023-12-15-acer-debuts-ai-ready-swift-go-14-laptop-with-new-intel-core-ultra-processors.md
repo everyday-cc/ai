@@ -33,22 +33,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Intel unveils Core Ultra, its first CPUs with integrated NPU for “AI PCs”"
-    excerpt: "Intel unveils Intel Core Ultra CPUs with a dedicated on-chip AI accelerator (NPU) and a tri-cluster CPU design. Built on Intel 4 (7nm node), the CPUs"
-    publishedDateTime: 2023-12-14T17:56:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/intel-unveils-core-ultra-its-first-cpus-with-integrated-npu-for-ai-pcs/articleshow/106000799.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/intel-unveils-core-ultra-its-first-cpus-with-integrated-npu-for-ai-pcs/amp_articleshow/106000799.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/intel-unveils-core-ultra-its-first-cpus-with-integrated-npu-for-ai-pcs/amp_articleshow/106000799.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 58
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-106000792,width-1280,height-720,resizemode-4/106000792.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Intel Core Ultra mobile processors announced with up to 16 cores, 5.1 GHz clock speed & AI acceleration"
     excerpt: "Intel has introduced the latest Core Ultra mobile processors at the “AI Everywhere” event, signaling a transformative phase in personal computing. These processors, built on Intel’s 4 process technology,"
     publishedDateTime: 2023-12-15T06:16:00Z

@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "If You See A Mercedes With Turquoise Lights, It’s Driving Autonomously"
+    excerpt: "Autonomous Mercedes vehicles in California and Nevada will soon shine turquoise lights to let others know they're in self-driving mode"
+    publishedDateTime: 2023-12-19T17:33:00Z
+    webUrl: "https://www.carscoops.com/2023/12/if-you-see-a-mercedes-with-turquoise-lights-its-driving-autonomously/"
+    ampWebUrl: "https://www.carscoops.com/2023/12/if-you-see-a-mercedes-with-turquoise-lights-its-driving-autonomously/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/12/if-you-see-a-mercedes-with-turquoise-lights-its-driving-autonomously/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 44
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2023/12/2023-Mercedes-EQS-Turquoise-AV-Light-3-copy.jpg"
+        width: 2200
+        height: 1238
+        isCached: true
   - title: "Mercedes Receives Approval To Use Turquoise-Colored Lights For Self-Driving Cars"
     excerpt: "Mercedes-Benz has received approval to use special exterior lighting for Drive Pilot-equipped Mercedes-Benz S-Class and EQS models in California and Nevada."
     publishedDateTime: 2023-12-19T14:29:00Z

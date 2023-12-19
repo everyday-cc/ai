@@ -18,59 +18,20 @@ topics:
   - AI
 
 related:
-  - title: "Tackling Ethical and Security Concerns of Generative AI Models"
-    excerpt: "Artificial Intelligence (AI) has been rapidly transforming different industries across the globe for the last decade, but 2023 has been a banner year for AI with generative AI tools like ChatGPT, Bard and now Gemini – Google’s newest and most capable AI model – making waves in the AI world."
-    publishedDateTime: 2023-12-19T12:14:00Z
-    webUrl: "https://techbullion.com/tackling-ethical-and-security-concerns-of-generative-ai-models/"
+  - title: "Big Tech has avoided responsibility for online content for decades. Generative AI is about to bring that to an end."
+    excerpt: "Big Tech companies are moving from being intermediaries to content creators with the use of generative AI. That brings new responsibilities."
+    publishedDateTime: 2023-12-18T10:00:00Z
+    webUrl: "https://www.businessinsider.com/generative-ai-big-tech-responsible-online-content-section-230-2023-12"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 71
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/Ethical-03.jpg"
-        width: 1000
-        height: 500
+      - url: "https://i.insider.com/657bc6ec50edbc52a864963d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "These six questions will dictate the future of generative AI"
-    excerpt: "Generative AI was trained on the internet and so has inherited many of its unsolved issues, including those related to bias, misinformation, copyright infringement, human rights abuses, and all-round economic upheaval. But we’re not going in blind."
-    publishedDateTime: 2023-12-19T10:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/12/19/1084505/generative-ai-artificial-intelligence-bias-jobs-copyright-misinformation/"
-    ampWebUrl: "https://www.technologyreview.com/2023/12/19/1084505/generative-ai-artificial-intelligence-bias-jobs-copyright-misinformation/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/19/1084505/generative-ai-artificial-intelligence-bias-jobs-copyright-misinformation/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/12/GenAI_Uncertain_Selman_RGB2.jpg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
-  - title: "Inside Bayer’s embrace of generative AI"
-    excerpt: "In this wide-ranging interview, Bayer’s head of digital transformation Saskia Steinacker shares her top tips for implementing a genAI roadmap in commercial."
-    publishedDateTime: 2023-12-15T15:45:00Z
-    webUrl: "https://www.mmm-online.com/home/channel/7-day-supply/inside-bayers-embrace-of-generative-ai/"
-    type: article
-    provider:
-      name: MM&M
-      domain: mmm-online.com
-    quality: 39
-    images:
-      - url: "https://www.mmm-online.com/wp-content/uploads/sites/2/2022/05/GettyImages-1252150184.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "New generation of chips will drive the AI wave"
-    excerpt: "The artificial intelligence chip industry has developed a newfound appreciation for high bandwidth memory, or HBM, the technology behind such lightning-fast data transfers. Analysts had once deemed it unlikely to ever become commercially viable when it was first launched in 2013."
-    publishedDateTime: 2023-12-19T00:01:00Z
-    webUrl: "https://www.ft.com/content/e5c97253-90f3-4158-846f-07aaf3945983"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
 
 secured: "X1YicSqgsANHVfvJmRCPgqJc7SydusHaONZEDwxAhOouWeovhU4gqLmpODF7l3s1AGYf3lV4C1ngsWNcS8WOvaOtcKRutgKsGOYfkqx5WTlxjijemZxHpmQJzw7fKGaWndXMORXA6Vm0lqSFwlzwIvdjSWNQl3/5b1Nnv/6ll7WlH0AZOiRg3bQaGP8h2Iz6DdRvolMZpidHfQICmx4Pb+DX/cuf1AQm2O8GOc6FEVOZRWfOzL0P7yYAggoWEq7q4w2ylQf9yIVLgrT5qZbFMtcA8AKcdjIYrYwHUQJaXfg2ZlUlqYpVtA54SWnMIbafJWYAoGM1BL0TjLCAW/t6AdifI5gRXKRKpioBrE2f+KE=;V0sTlUeQwEaDvS2LR6WQJw=="
 ---

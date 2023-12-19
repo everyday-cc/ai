@@ -39,20 +39,6 @@ related:
         width: 2048
         height: 1291
         isCached: true
-  - title: "Paravision Converge highlights partners, range of face biometrics applications"
-    excerpt: "This year’s annual Paravision event, Converge, takes the form of a magazine, and highlights integrations of facial recognition into trusted identity solutions."
-    publishedDateTime: 2023-12-14T17:40:00Z
-    webUrl: "https://www.biometricupdate.com/202312/paravision-converge-highlights-partners-range-of-face-biometrics-applications"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 20
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/08/16185607/face-recognition-cropped-scaled.jpg"
-        width: 2046
-        height: 2048
-        isCached: true
 
 secured: "oGIAeGGvu+yJD/okjkbbTxkxBMAnDP/EUfI5UY7h4SpblP0gO99SRWAA93ya/gnNIFMdEcjSZ9ykuoWgFLesgu9aEHGrWqvjrY8GcD1OIPX7zp1FxR7rSdxlXmuCUNHB9B6OEBNg0GPoQcKLWR79We8skqWkq8P4JIp08MPZZRXD6jZnYiPZkxuXF5yIAip7wpP4hjXzOXHBPTweerB8WDc5OnylULhb7m25F8eU8temitSqX5AjNT2xeti1oI2px8loknri0RcI0TmOox6X1L6NHwcKl7+HxpCb+t1V5CzaciIIhtF/ADjiBIsdb4jggn16+ffSPe/HocPNSlKOwCjdWnASRzYYBG9Xhfhm8hsIGaJdtIAf1rvkJnViJ6nlzlglpL0nwTZorkK+4y0/4gF/bit6zeowmaTmLZO/R1YMA6OmpLHKRJorhESywQwriE9BhJHumJ2rMnCz0VT+TsAVleTjfS6CtFwwmD3Tfaf0t0SGwMjvbvDbLAb07z5z9kYbTERkiScw8XfW0txzKg==;49GuIYBdHe0yJ0C7VgMSAA=="
 ---

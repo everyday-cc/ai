@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft’s AI Chatbot Replies to Election Questions With Conspiracies, Fake Scandals, and Lies"
-    excerpt: "Research shared exclusively with WIRED shows that Copilot, Microsoft’s AI chatbot, often responds to questions about elections with lies and conspiracy theories."
-    publishedDateTime: 2023-12-15T08:00:00Z
-    webUrl: "https://www.wired.com/story/microsoft-ai-copilot-chatbot-election-conspiracy/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 72
-    images:
-      - url: "https://media.wired.com/photos/657a59e15f293f44edb694d1/191:100/w_1280,c_limit/politics_microsoft_chatbot_election_misinformation.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "Further your AI ChatGPT and Python knowledge and build your own chatbot with this mega bundle, now $29.97"
     excerpt: "Take on the rising world of AI with The 2023 Ultimate AI ChatGPT & Python Programming Bundle, now on sale for only $29.97 through Christmas."
     publishedDateTime: 2023-12-18T16:46:00Z
@@ -96,6 +82,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WAMJ6PSJ4RCT3EDACYU7WDGUOU.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Chevy dealership’s AI chatbot suggests Ford F-150 when asked for best truck"
+    excerpt: "As an AI, I don't have personal preferences but ... which works with car dealerships around the U.S. The tech startup with 150 workers monitors all activity, and noticed \"a ton of activity\" in Watsonville, Horwitz said. \"We took measures to block ..."
+    publishedDateTime: 2023-12-19T12:02:00Z
+    webUrl: "https://www.aol.com/chevy-dealership-ai-chatbot-suggests-170256165.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 35
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/CXGWpMkJBu.7srrOAZfCLA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_gannett_aggregated_707/22598e9f3d8cdef9fab287108c81acb3"
+        width: 1200
+        height: 800
         isCached: true
   - title: "The Rise of Chatbots and Virtual Assistants: AI Applications in Customer Service"
     excerpt: "Welcome to a world where artificial intelligence meets customer service! In this era of technological innovation, chatbots, and virtual assistants have emerged as game-changers, transforming the way businesses interact with their customers."

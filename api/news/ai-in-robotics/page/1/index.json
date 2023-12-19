@@ -10,7 +10,7 @@
       "originalUrl": "https://www.massdevice.com/butterfly-network-surgical-robotics-deal-mendaera/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -139,6 +139,41 @@
         "AI in Robotics",
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-12-18-tesla-stock-how-ai-and-robotics-may-change-the-game.md",
+      "title": "Tesla Stock: How AI and Robotics May Change the Game",
+      "excerpt": "Tesla's transformation from a car manufacturer to a tech leader in AI, robotics, and software shapes the company's competitive edge and potential for groundbreaking efficiency gains.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/memestocks/others/tesla-stock-how-ai-and-robotics-may-change-the-game",
+      "originalUrl": "https://www.thestreet.com/memestocks/others/tesla-stock-how-ai-and-robotics-may-change-the-game",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-18T01:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
       ]
     },
     {
@@ -1272,49 +1307,6 @@
       "provider": {
         "name": "news.crunchbase",
         "domain": "crunchbase.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-best-robot-vacuum-deals-you-can-get-before-christmas.md",
-      "title": "Best robot vacuum deals you can get before Christmas",
-      "excerpt": "The iRobot Roomba j7+ is designed with the issue of dog poop in mind. This smart vacuum ... or device to better to control the appliance remotely. Pet owners, including this verified purchaser, love the Lefant robot vacuum. \"I got this for my upstairs ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/best-robot-vacuum-deals-before-christmas/",
-      "originalUrl": "https://www.cbsnews.com/essentials/best-robot-vacuum-deals-before-christmas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/12/05/724c21c8-fc5e-43c1-a55a-86258bc526cf/thumbnail/1200x630/848eabad8d7da534f7e1531333ae652e/robot-vacuum-head.png?v=5382e209c94ee904b3a96a69f8ca0ce0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T17:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
         "images": null,
         "publishers": null,
         "authors": null

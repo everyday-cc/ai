@@ -9,7 +9,7 @@ ampWebUrl: "https://www.coinspeaker.com/intel-ai-chips-intc-stock/amp/"
 cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/intel-ai-chips-intc-stock/amp/"
 type: article
 quality: 66
-heat: 136
+heat: 116
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Dell, Microsoft, Lenovo Laptops to Soon Feature Intel’s New Chip with Built-in AI Capabilities"
-    excerpt: "Intel, a leading technology company, announced Thursday that numerous personal computer manufacturers are utilizing their latest chip. This strategic move aims to entice consumers to upgrade their machines for the dawn"
-    publishedDateTime: 2023-12-15T09:10:00Z
-    webUrl: "https://www.econotimes.com/Dell-Microsoft-Lenovo-Laptops-to-Soon-Feature-Intels-New-Chip-with-Built-in-AI-Capabilities-1668035"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 59
-    images:
-      - url: "https://f1.econotimes.com/2023/12/p6j30bp4cg_th_1024x0.jpeg"
-        width: 1024
-        height: 614
-        isCached: true
   - title: "Intel unveils AI experience-focused Core Ultra mobile chips: Details here"
     excerpt: "Intel said the Core Ultra mobile processors will power more than 230 of the world's first AI PCs from partners including Acer, ASUS, Dell, Google Chromebook, LG, Microsoft Surface, MSI and Samsung"
     publishedDateTime: 2023-12-15T06:04:00Z
@@ -107,20 +93,6 @@ related:
       - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/949315604/image_949315604.jpg?io=getty-c-w1536"
         width: 1536
         height: 1024
-        isCached: true
-  - title: "GIGABYTE Introduces New AORUS 17 and AORUS 15 AI-Powered Gaming Laptops with Intel Core Ultra 7 Processors"
-    excerpt: "GIGABYTE, the world's leading computer brand, proudly introduces the latest evolution in gaming laptops for 2024 - theAORUS 17 and AORUS 15 - delivering cutting-edge performance in their signature sleek and portable package."
-    publishedDateTime: 2023-12-14T17:13:00Z
-    webUrl: "https://www.malaysiasun.com/news/274065021/gigabyte-introduces-new-aorus-17-and-aorus-15-ai-powered-gaming-laptops-with-intel-core-ultra-7-processors"
-    type: article
-    provider:
-      name: Malaysia Sun
-      domain: malaysiasun.com
-    quality: 21
-    images:
-      - url: "https://mma.prnasia.com/media2/2299916/GIGABYTE_New_AORUS_17.jpg?p=medium600"
-        width: 599
-        height: 337
         isCached: true
 
 secured: "KbkQkifKj3+x8lBQdZPdCKz++ZyelRuVzkdyPus7IvjM6QkHEvYHotDHqgYRLC1aYrDtm0Ey0SbWoBx1yzr4pQU3xCx/W71fncCtH5nJqtd6PbNdlBFOTzw+OUe3RaixCu/4W2HUkf9RxFyPGv+m3TdtJSGhLCZJjaMSgW9YYCD9eVEF33WYSxnmFZtIMQv7R2/NjCurKYNufcqm8xYpUXxjXz3vuAHdhzZh3/BXOZ4pCUbZOj8T6z7IcesUhJ3XlzF01my08tTDvydsBSOdiLJUZO7ik8OvcgpYLsNyspBKRnmlzFg8KQ0hyx/jbxEYvKqGp0qhJ1UkpnaUtieKUTZ5EJTlYRKVJQ6nklt/1n0MmqegCoXr2w4B62unebhH+UpqjF3irDloGP5rEW46rX/E2ElKrzoKTiJP/9h6S16LWZ3c5h7MeuFASWQScJ9yN0Ef+Oqj5YkQlLRK+qygu1o+HkEwAfow4Ths4i7TJdfHM9BRst41UoYBhTcHyRUoch2gt+bAwErZ1t/5G05sbw==;ayAiXvCtH9bl4kQNDv9hoQ=="

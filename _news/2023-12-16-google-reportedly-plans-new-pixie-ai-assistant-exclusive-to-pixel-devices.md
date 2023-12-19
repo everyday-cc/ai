@@ -42,20 +42,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "Report: Google working on ‘Pixie’ AI assistant for Pixel 9, discussed glasses with object recognition"
-    excerpt: "According to The Information, Google plans to have Gemini power “an AI assistant called Pixie that will be exclusive to its Pixel devices.” It will use Gmail, Maps, and other “data from Google products” on your phone. Today’s report says it could “evolve into a far more personalized version of the Google Assistant.”"
-    publishedDateTime: 2023-12-14T18:05:00Z
-    webUrl: "https://9to5google.com/2023/12/14/pixel-9-pixie-ai-assistant/"
-    type: article
-    provider:
-      name: 9to5google
-      domain: 9to5google.com
-    quality: 41
-    images:
-      - url: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2018/09/google_wallpapers_pixel_3_1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Google Reportedly Working on ‘Pixie’ AI Assistant, AR Glasses"
     excerpt: "Google is gearing up for its next breakthrough by integrating the Gemini foundational model into upcoming products, including a potential AI assistant."
     publishedDateTime: 2023-12-15T18:01:00Z

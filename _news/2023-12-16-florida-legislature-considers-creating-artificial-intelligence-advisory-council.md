@@ -9,8 +9,8 @@ ampWebUrl: "https://floridianpress.com/2023/12/florida-legislators-consider-crea
 cdnAmpWebUrl: "https://floridianpress-com.cdn.ampproject.org/c/s/floridianpress.com/2023/12/florida-legislators-consider-creating-artificial-intelligence-advisory-council/amp/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: The Floridian
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Bills on artificial intelligence filed in lead-up to Florida legislative session"
+    excerpt: "Legal and technology experts say AI is a complicated area to regulate. Florida lawmakers are going to try anyway."
+    publishedDateTime: 2023-12-19T17:19:00Z
+    webUrl: "https://www.aol.com/bills-artificial-intelligence-filed-lead-135527594.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 32
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/rwULf76MJfbNNa5Lzo9Jqw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xNjE1/https://media.zenfs.com/en/aol_gannett_aggregated_707/f6785b6adb30e1f368f3441223bfd153"
+        width: 1200
+        height: 1615
+        isCached: true
   - title: "Bills on artificial intelligence filed in lead-up to Florida legislative session"
     excerpt: "Legal and technology experts say AI is a complicated area to regulate. Florida lawmakers are going to try anyway."
     publishedDateTime: 2023-12-19T12:55:00Z

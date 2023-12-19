@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Digital Ethics Summit 2023: The year in AI"
+    excerpt: "At trade association TechUK’s seventh annual Digital Ethics Summit, public officials, industry figures and civil society groups met to discuss the state of AI regulation and the direction of travel set for 2024."
+    publishedDateTime: 2023-12-19T12:00:00Z
+    webUrl: "https://www.computerweekly.com/news/366563872/Digital-Ethics-Summit-2023-the-year-in-AI"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 54
+    images:
+      - url: "https://cdn.ttgtmedia.com/visuals/German/article/ethics-morals-adobe.jpg"
+        width: 1200
+        height: 400
+        isCached: true
   - title: "2023: The year we played with artificial intelligence — and weren't sure what to do about it"
     excerpt: "Artificial intelligence went mainstream in 2023 — it was a long time coming yet has a long way to go for the technology to match people’s science fiction fantasies of"
     publishedDateTime: 2023-12-16T07:45:00Z
@@ -53,15 +67,6 @@ related:
       name: Music Ally
       domain: musically.com
     quality: 19
-  - title: "2023: The year we played with artificial intelligence — and weren't sure what to do about it"
-    excerpt: "Artificial intelligence went mainstream in 2023 — it was ... through a huge database of photos to recognize objects and individual faces and help guide self-driving cars. Speech recognition advances made voice assistants like Siri and Alexa a fixture ..."
-    publishedDateTime: 2023-12-14T18:23:00Z
-    webUrl: "https://www.wtae.com/article/2023-the-year-we-played-with-artificial-intelligence/46130638"
-    type: article
-    provider:
-      name: WTAE-TV
-      domain: wtae.com
-    quality: 8
 
 secured: "HsnXaLlYrgx20V9r8hHc8C9aW2dfa7nbU6+W863WbX37+LFQZXsliJP7gX/fzFeDUlbkpdjIdLegLWJGkB/kM/mLWy5ddXMZiKM6aLCF+8KD+/+WWPG86LzGWws7uqNP4LMpOes7DXXRo+7RDDsUdRarKoGhhSwaYS7HtVjlfN8MrUlPIwt1zWuK9SsY6Cn0bNdc1rFF3bPX/ugMfmofcrJZJoXP5eidM0zU/NOcavpx/Tw21CKsYQqeZpwRbcSasXj/i69UOdKXTT9k53H6A2/z7QCAHVjRu2NXwfXbEOyL7JaRGmFIYrk+IuyrIT1oCQ4IwiKXndaebAfk/UmCs6vZkZeFdVgxPpeQ0Unrls4=;WpVf/Jhj0AfPvIMRWbCYyg=="
 ---

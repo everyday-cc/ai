@@ -40,6 +40,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Digital Ethics Summit 2023: The year in AI"
+    excerpt: "At trade association TechUK’s seventh annual Digital Ethics Summit, public officials, industry figures and civil society groups met to discuss the state of AI regulation and the direction of travel set for 2024."
+    publishedDateTime: 2023-12-19T12:00:00Z
+    webUrl: "https://www.computerweekly.com/news/366563872/Digital-Ethics-Summit-2023-the-year-in-AI"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 54
+    images:
+      - url: "https://cdn.ttgtmedia.com/visuals/German/article/ethics-morals-adobe.jpg"
+        width: 1200
+        height: 400
+        isCached: true
   - title: "Music AI in 2023: a database of tools"
     excerpt: "It almost feel superfluous to say it, but 2023 has unequivocally been The Year Of AI. Music Ally has reported on the various music AI developments as closely and quickly as we could, although the"
     publishedDateTime: 2023-12-19T13:55:00Z
@@ -49,15 +63,6 @@ related:
       name: Music Ally
       domain: musically.com
     quality: 19
-  - title: "2023: The year we played with artificial intelligence — and weren't sure what to do about it"
-    excerpt: "Artificial intelligence went mainstream in 2023 — it was ... through a huge database of photos to recognize objects and individual faces and help guide self-driving cars. Speech recognition advances made voice assistants like Siri and Alexa a fixture ..."
-    publishedDateTime: 2023-12-14T18:23:00Z
-    webUrl: "https://www.wtae.com/article/2023-the-year-we-played-with-artificial-intelligence/46130638"
-    type: article
-    provider:
-      name: WTAE-TV
-      domain: wtae.com
-    quality: 8
 
 secured: "5hFVvpjwRUYPsfdX3ERnwokh70Oh9YwAunBBGoCPCp4HIPdHHG5au4fVyF5vKmfifjSGPm2H3YWpjBqus0ixwMJrRaWJWEk85rzi99K0SVgykDOq9dWBJC4WPahNb3WLv1vHMUY/FcvZqFHCJL/LuafISR6ibWWB2AwEF4V38V5cwWGj/RrksHPI6BKSKl1xB7YQYiHO85itbMsEQPbPvkACzHq08fdoMmL31tuIBcFkEjo8+sVVyMQC4deE6/nuPAe30XyrWvon4Tr9r+0nenYR907lbpY3/XmWVvvtSXVgqlHZigOpKIXWXRYJ8o1CSbWF9NEORlz5+RmQeMt1DHvlab4iG9LorqD0tJUdyKk=;eRKChyPu8tYqSgn2zfzz/w=="
 ---
