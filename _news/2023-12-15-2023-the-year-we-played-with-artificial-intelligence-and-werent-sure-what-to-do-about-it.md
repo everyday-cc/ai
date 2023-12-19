@@ -36,6 +36,22 @@ related:
         height: 720
         isCached: true
   - title: "2023: The year we played with artificial intelligence — and weren't sure what to do about it"
+    excerpt: "Artificial intelligence went mainstream in 2023 — it was a long time coming yet has a long way to go for the technology to match people's science fiction fantasies of human-like machines ..."
+    publishedDateTime: 2023-12-14T11:23:00Z
+    webUrl: "https://www.koat.com/article/2023-the-year-we-played-with-artificial-intelligence/46130638"
+    ampWebUrl: "https://www.koat.com/amp/article/2023-the-year-we-played-with-artificial-intelligence/46130638"
+    cdnAmpWebUrl: "https://www-koat-com.cdn.ampproject.org/c/s/www.koat.com/amp/article/2023-the-year-we-played-with-artificial-intelligence/46130638"
+    type: article
+    provider:
+      name: KOAT Albuquerque
+      domain: koat.com
+    quality: 48
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap2657b47200a4de.jpg?crop=1.00xw:0.847xh;0,0&resize=1200:*"
+        width: 1024
+        height: 579
+        isCached: true
+  - title: "2023: The year we played with artificial intelligence — and weren't sure what to do about it"
     excerpt: "Artificial intelligence went mainstream in 2023 — it was a long time coming yet has a long way to go for the technology to match people’s science fiction fantasies of"
     publishedDateTime: 2023-12-16T07:45:00Z
     webUrl: "https://www.postregister.com/features/smart_living/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about/article_13cbcccc-9ade-11ee-b96a-ab82c4cbc1f2.html"
@@ -49,15 +65,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "2023: The year we played with artificial intelligence — and weren't sure what to do about it"
-    excerpt: "Artificial intelligence went mainstream in 2023 — it was a long time coming yet has a long way to go for the technology to match people's science fiction fantasies of human-like machines ..."
-    publishedDateTime: 2023-12-14T04:23:00Z
-    webUrl: "https://www.4029tv.com/article/2023-the-year-we-played-with-artificial-intelligence/46130638"
-    type: article
-    provider:
-      name: 4029tv
-      domain: 4029tv.com
-    quality: 8
 
 secured: "SW0Z7czJ5G8UUeKHXxJpmNShOHjja1PeAwdw/tsmtvnexMOqSDsfIEr59/Hfm6qNX9Jx3rTLX818nsQ+kf3JtYIDttVvzhNhpdiIJ1fP8BcHJI0X1s5v8l8X+m9toQ2Vys9jZ87Q2bFfIHwuKqtGd2KCUV3Wt3ChEfr5yOZCqzw32n0/NN1OPs9Cf6wPn5XwWV+4GXX7J27LqbELCI+zDQEnSF8HDToH1hJi8SweAZEhzSGnb3WLgTnJG26Mx6fW2UvMwTrhqbIy/NMobngs8M8/1jkaMP1YplmRuCLeU0PBFi0MJfuxXdLCm+qSs7pZu94Xy7Xgx3PhS8HbjKngpT0ezTNlC7lEnSmBnvTr0N8P+sbPxKwq92aHsukRnUwHCXC6UIZzGGs6vM9300QLKAKvqcuvRsEcNYd0BSNJZIdeE78yPSLevdd+P9gmSCbcilBU+99DBHGvwbPiTyYcl1VAs9OKIGiD8wjhrXhMGiKyyBdF0JmGkB1SXIS8wMtFJy/m4YTgLA/VvnyAHfDshg==;L/AE7//j4n9G7P8CelxDgA=="
 ---

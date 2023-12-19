@@ -6,7 +6,7 @@ publishedDateTime: 2023-12-18T13:00:00Z
 originalUrl: "https://www.seattletimes.com/business/using-artificial-intelligence-to-talk-to-the-dead/"
 webUrl: "https://www.seattletimes.com/business/using-artificial-intelligence-to-talk-to-the-dead/"
 type: article
-quality: 19
+quality: 21
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 related:
   - title: "Five open-source AI tools to know"

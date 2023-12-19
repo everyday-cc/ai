@@ -9,7 +9,7 @@ ampWebUrl: "https://www.csoonline.com/article/1259955/how-abm-industries-leverag
 cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/1259955/how-abm-industries-leveraged-facial-recognition-to-securely-connect-with-100000-workers.html/amp/"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1024
     height: 682
     isCached: true
+
+related:
+  - title: "Police defend facial recognition target selection to Lords"
+    excerpt: "Senior police officers confirm to Lords committee that facial recognition watchlist image selection is based on crime categories attached to people’s photos, rather than a context-specific assessment of the threat presented by a given individual."
+    publishedDateTime: 2023-12-15T09:07:00Z
+    webUrl: "https://www.computerweekly.com/news/366563318/Police-defend-facial-recognition-target-selection-to-Lords"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 19
 
 secured: "VkrwrcgZSlxqYmqrAaW8QBWr+RsGH5EOsNLqd5RVahcj0JNnPp0wYkL3aBXUc1IWGB9OW4Av0IBO8lydWV81LsSKFF/w2BXUaP5Co413z5qt38ljwrtvHatPWpHJivjBLaHV6tLtDWkAjjS9RHpVXdTD2WhkH5FXi1oxqjQ/MmCJUqSvqXzjxTlG6A47Z/EcTaRobYE+qbBJHu1X9KLBJSTXJcpnjcyoEGqTul+F+Rgnin6FbeG4+Ptf9w19CQLgcpra50ccfw3WByAPIrE+jHvQhMWpRKAp4H5lu7x4Up7/gs35ZLujdjAR1CVRGw4IbTqMs09YbPvJCsUz+Ea76DLsk5qyuIKfpi+cA0fmSYiZUSEPFOcvB6FeLxXab4Wtya6WSipagU4ipJGQlysi6tYJfZl2/B4jktw2gMKPKpQzVzr5Xmzo3EfbL4drwov3Sl4f8qX2R6kawZDWhKkVBVxrLiPf+w0SfeMMP0kfW+7GOq4COtrt1kjaL2Pjk6/ilIPBC1ckOx2fGcfMznFz/g==;Wv6Qv33Nd+wkpm4DtfE7QA=="
 ---

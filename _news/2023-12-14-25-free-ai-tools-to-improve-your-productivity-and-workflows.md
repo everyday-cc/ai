@@ -100,7 +100,7 @@ related:
     provider:
       name: Seattle Times
       domain: seattletimes.com
-    quality: 19
+    quality: 21
   - title: "What senior living leaders need to know about artificial intelligence"
     excerpt: "Senior living executives have two key decisions to make to move forward with AI-enabled solutions, according to NIC MAP Vision CEO Arick Morton."
     publishedDateTime: 2023-12-18T05:05:00Z

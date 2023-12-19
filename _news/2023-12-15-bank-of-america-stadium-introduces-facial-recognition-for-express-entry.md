@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wfmynews2.com/amp/article/sports/nfl/panthers/bank-of-am
 cdnAmpWebUrl: "https://www-wfmynews2-com.cdn.ampproject.org/c/s/www.wfmynews2.com/amp/article/sports/nfl/panthers/bank-of-america-stadium-facial-recognition-panthers-fans-tickets-silver-club/275-5f0ca2cc-5c2a-4828-8fda-3321fd64cf7e"
 type: article
 quality: 76
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -65,6 +65,15 @@ related:
         width: 426
         height: 240
         isCached: true
+  - title: "Panthers to add facial recognition at BofA Stadium"
+    excerpt: "The Panthers and Verizon are adding facial recognition technology at Bank of America Stadium that will allow football fans to get into games faster beginning this weekend."
+    publishedDateTime: 2023-12-15T20:02:00Z
+    webUrl: "https://www.sportsbusinessjournal.com/Articles/2023/12/15/carolina-panthers-facial-recognition-bank-of-america-stadium.aspx"
+    type: article
+    provider:
+      name: Sports Business Journal
+      domain: sportsbusinessjournal.com
+    quality: 19
   - title: "Panthers and Verizon adding facial-recognition entry for NFL games at BofA Stadium"
     excerpt: "In addition to the Panthers, Tepper Sports owns BofA Stadium and Major League Soccer team Charlotte FC. Wright said that Tepper Sports plans to make available facial recognition entry to all Panthers’ season ticket holders next season."
     publishedDateTime: 2023-12-14T18:42:00Z

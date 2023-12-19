@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/artificial-intelligence/aws-study-finds-incr
 webUrl: "https://www.eweek.com/artificial-intelligence/aws-study-finds-increasing-focus-on-responsible-ai/"
 type: article
 quality: 84
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1400
     height: 900
     isCached: true
-
-related:
-  - title: "AI: Amazon Web Services views generative artificial intelligence as marathon not sprint"
-    excerpt: "While rivals race to add AI capabilities to products, AWS focuses on making it easier and more secure for firms to integrate it into workflows"
-    publishedDateTime: 2023-12-14T05:00:00Z
-    webUrl: "https://www.irishtimes.com/technology/2023/12/14/ai-amazon-web-services-views-generative-artificial-intelligence-as-marathon-not-sprint/"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 61
-    images:
-      - url: "https://www.irishtimes.com/resizer/L_dPeTzG3CDDJtQXWEdP3WHGxm8=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/5R3ECHYQPK7Y7BHORWC7C7R63I.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "VAhbBA+99a+KZdlXKspReVHASAPOQtqmdB3QqOchn0/mEMAzhiSqoqyDDtbqjkiiTNk+/zBlkyUM9J88YUrXlWIkW0LYxtvjaM7C0bXl4U1swNZ8RBvJG1xfnhr1ybL3uH7fykyIkuPU8JaqGSwZTZeG8lOWfZdMfVFG435ipH4JXfhv0lDPapCXHyZXNWbDqalAuGpzQOSF6/t6F1yb+KkmmfMH/g1ReKNPYFKfAov5N8ENYlfuGtKeEEbDQn+ry2MtxUXHF4aYi1lWhsB9nKS3GyhE5aWlNOodc4vvl/TBizt1RC6QOremwvr5EoRP/+gHQ0BfVvXdIOMxcm1PgENEU0neKewfkLOQNeuGJUOWKXHSrkg3cXt2AXi7tA5zKKnFacf1MBi9kC7f8aTcQi6lPM8CN9OOyp/rVG1r0jzP6fP+/EJCalm1tA/g6U4qkc1FXuWK0sfCKp+Sq8jWNVHM1ZN4A2MzzvLQJKzz/ey75UzsPZlAyT9J/psE55hEfwGz7DO30lm8o88epP+UQg==;WTPYWkKKdiYTt2iovzLrhg=="
 ---

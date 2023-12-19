@@ -72,6 +72,15 @@ related:
         width: 426
         height: 240
         isCached: true
+  - title: "Panthers to add facial recognition at BofA Stadium"
+    excerpt: "The Panthers and Verizon are adding facial recognition technology at Bank of America Stadium that will allow football fans to get into games faster beginning this weekend."
+    publishedDateTime: 2023-12-15T20:02:00Z
+    webUrl: "https://www.sportsbusinessjournal.com/Articles/2023/12/15/carolina-panthers-facial-recognition-bank-of-america-stadium.aspx"
+    type: article
+    provider:
+      name: Sports Business Journal
+      domain: sportsbusinessjournal.com
+    quality: 19
 
 secured: "qpcBgGjNo7cx1w8K9WRJqtcm/Sn2JkcUPvKBdyEfZTAuLQJohHl9n6jigqtnuCJQT7ezyq/t7lvtlkVGF+Gb5lojUMq5NewijW+7B6F9huHspjYigCgKWFEDptO+MAKMf8oiWbSJcWyT+ltt/0Cf4rZKzsbR+Ep72xfw6OfpiFfFz4Awu7mABBFdQBhYqvHkTqwvfHUOFBeF8NTb0R/NPqAR6AiUkBpuIeCro2DgxuQNDX78JgESOwns3i8pRoyz8j/yquyiNMFhqOJZc1oZxlbdIO9JWPXndqdGREcnjXqEOUzgxBr07j8ScZo/UwqL0taH7bmswLmJkOmuAjgxMFlofbczE9d4/+MF3Id0dDO6oB4IE2nuEGbLjkf8QyFNpcO7InQhpNJNZAHWJxEZbpeIaUv+Rr2UAb9Xyi/ed5Zkj16Limzp/OP4EY+LInXXRxGSbhfb1oBnXp33bLLaMiiddRZ9lbqMgobKxXnWxC5219vBySXBNlJz5LS5NCsHqD0ffIEZ8j8THW0boLQmww==;lJPftgRP4Dj+JQM46gEtNA=="
 ---

@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Global Autonomous Cars Market Size To Exceed USD 55.6 Billion By 2032 | CAGR Of 36.3%"
-    excerpt: "(MENAFN- GlobeNewsWire - Nasdaq) The Global Autonomous Cars Market Size was valued at USD 2.5 Billion in 2022 and the Worldwide Autonomous Cars Market is expected to reach USD 55.6 Billion by 2032, according to a research report published by Spherical ..."
-    publishedDateTime: 2023-12-14T03:33:00Z
-    webUrl: "https://menafn.com/1107594111/Global-Autonomous-Cars-Market-Size-To-Exceed-USD-556-Billion-By-2032-CAGR-Of-363"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 17
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?184041"
-        width: 444
-        height: 250
-        isCached: true
   - title: "Facial Recognition Access Control Solutions Market Growth 2024: Global Research, Business Trends, And Statistics Analysis Forecast To 2031"
     excerpt: "Global“Facial Recognition Access Control Solutions Market” Research report offering an insightful analysis of pivotal market dynamics and the prevailing supply-demand dynamics across diverse regional segments. The report conducts a thorough exploration ..."
     publishedDateTime: 2023-12-15T02:21:00Z

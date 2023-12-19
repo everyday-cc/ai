@@ -108,7 +108,7 @@ related:
     provider:
       name: Seattle Times
       domain: seattletimes.com
-    quality: 19
+    quality: 21
   - title: "Opensource AI can outperform private models like Chat-GPT - ARK Invest research"
     excerpt: "The need for performance in open-source AI models stems from the importance of democratizing access to generative AI."
     publishedDateTime: 2023-12-14T08:48:00Z

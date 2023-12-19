@@ -2,21 +2,29 @@
 category: news
 title: "2023: The year we played with artificial intelligence — and weren't sure what to do about it"
 excerpt: "Artificial intelligence went mainstream in 2023 — it was a long time coming yet has a long way to go for the technology to match people's science fiction fantasies of human-like machines ..."
-publishedDateTime: 2023-12-14T04:23:00Z
-originalUrl: "https://www.4029tv.com/article/2023-the-year-we-played-with-artificial-intelligence/46130638"
-webUrl: "https://www.4029tv.com/article/2023-the-year-we-played-with-artificial-intelligence/46130638"
+publishedDateTime: 2023-12-14T11:23:00Z
+originalUrl: "https://www.koat.com/article/2023-the-year-we-played-with-artificial-intelligence/46130638"
+webUrl: "https://www.koat.com/article/2023-the-year-we-played-with-artificial-intelligence/46130638"
+ampWebUrl: "https://www.koat.com/amp/article/2023-the-year-we-played-with-artificial-intelligence/46130638"
+cdnAmpWebUrl: "https://www-koat-com.cdn.ampproject.org/c/s/www.koat.com/amp/article/2023-the-year-we-played-with-artificial-intelligence/46130638"
 type: article
-quality: 8
+quality: 48
 heat: -1
 published: false
 
 provider:
-  name: 4029tv
-  domain: 4029tv.com
+  name: KOAT Albuquerque
+  domain: koat.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap2657b47200a4de.jpg?crop=1.00xw:0.847xh;0,0&resize=1200:*"
+    width: 1024
+    height: 579
+    isCached: true
 
 related:
   - title: "CEO Initiative 2023: Where Do We Start, Pause, Or Stop With AI"
@@ -59,6 +67,6 @@ related:
       domain: wtae.com
     quality: 8
 
-secured: "e8g14oneFGKW3iQlbcgAZj1sdWygjfm/2vYdya+dogxsUIwJeiX8GFzznisv/OCS5K4idNkRlvYrJDGHNpEJhvGAkrHkQ1t2kPNooS8ry8UwYeL7/S6Fy9cPPNaJTBXPXau400CrR58Lr58+K4Z3MULNfuvVmd9vMw2cmtaG3o+h1GP/sFo4jq2g3LPv9Z5RpFYlpvSobPM9rPqS64pGGDagtoXCmLt2GgB2VDvd2oLxe7rHc7FnaI7u9p2oz9dHqQgX8g2XXdWHPzStFXWLS0OlOnsADMX9kMcmdHsQtc0ENlfEM+TKNjEKWPG0Xq3wUFa4pmX/2MOVK342bYqgjpBXMksxaQwSuQKbx5aFRpw=;5YtHnWWOlS7DJOcuw35Opw=="
+secured: "czpl7sjaLuazl2/jsEDYirjF3iwVq7f+KfmeTquOs25/tWgKLlvI/SsIOVDfwyl2Gyb49JN5jO6gTFsivoPueF40uJk6tqExD4EaRY8v0/x8EZ+HLXWQvSDcIjyTXyZ2q4rfvrZaqDH9iQTjg48hDdCF71xuVDJO6mJy7X8vDaAwyGALvx+/M03oHk0GiIfZwD6QAICoU0bpRyXkYOnDR5us7wqY6hazX1t4zyEBE9aiWWdN91AW0Ag/cjNuKCHIQpe94Aq1gpPIexqaFZPIymIomi5RipDmBg5t0SMTryQzu6/JbDhnemeuxAJoyV2AdfypxWG+M5imTOLycwB6qfH8+zrrWPFgDpXGeW/v4nw=;u2qX4CYTEmgumgXZeZ7IqQ=="
 ---
 

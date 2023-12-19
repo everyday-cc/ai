@@ -19,45 +19,68 @@ topics:
   - AI
 
 related:
-  - title: "Police suggest facial recognition cameras to discourage bank robbers"
-    excerpt: "The Ho Chi Minh City police want cameras installed at all banks to recognize the faces of visitors to dissuade robbers."
-    publishedDateTime: 2023-12-14T04:10:00Z
-    webUrl: "https://e.vnexpress.net/news/news/crime/police-suggest-facial-recognition-cameras-to-discourage-bank-robbers-4688681.html"
-    ampWebUrl: "https://ampe.vnexpress.net/news/news/crime/police-suggest-facial-recognition-cameras-to-discourage-bank-robbers-4688681.html"
-    cdnAmpWebUrl: "https://ampe-vnexpress-net.cdn.ampproject.org/c/s/ampe.vnexpress.net/news/news/crime/police-suggest-facial-recognition-cameras-to-discourage-bank-robbers-4688681.html"
+  - title: "Bank of America Stadium introduces facial recognition for express entry"
+    excerpt: "New technology at Bank of America Stadium will allow certain fans to enter the stadium without having to scan their tickets."
+    publishedDateTime: 2023-12-15T10:52:00Z
+    webUrl: "https://www.wfmynews2.com/article/sports/nfl/panthers/bank-of-america-stadium-facial-recognition-panthers-fans-tickets-silver-club/275-5f0ca2cc-5c2a-4828-8fda-3321fd64cf7e"
+    ampWebUrl: "https://www.wfmynews2.com/amp/article/sports/nfl/panthers/bank-of-america-stadium-facial-recognition-panthers-fans-tickets-silver-club/275-5f0ca2cc-5c2a-4828-8fda-3321fd64cf7e"
+    cdnAmpWebUrl: "https://www-wfmynews2-com.cdn.ampproject.org/c/s/www.wfmynews2.com/amp/article/sports/nfl/panthers/bank-of-america-stadium-facial-recognition-panthers-fans-tickets-silver-club/275-5f0ca2cc-5c2a-4828-8fda-3321fd64cf7e"
     type: article
     provider:
-      name: VN Express
-      domain: vnexpress.net
+      name: WFMY News2
+      domain: wfmynews2.com
     quality: 76
     images:
-      - url: "https://i1-english.vnecdn.net/2023/12/14/cuopnhabang87521702466662-1702-4245-4536-1702525268.jpg?w=680&h=0&q=100&dpr=2&fit=crop&s=knhmU4L2iVJgPR4VjsUEwg"
-        width: 1193
-        height: 716
+      - url: "https://media.wfmynews2.com/assets/WCNC/images/f916cab2-7809-4606-a90a-02908ceed316/f916cab2-7809-4606-a90a-02908ceed316_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
-  - title: "'Success' for Southampton facial recognition cameras trial"
-    excerpt: "A three-month trial that has seen bouncers wear body-worn cameras with facial recognition technology has been a 'success', organisers have said."
-    publishedDateTime: 2023-12-18T03:30:00Z
-    webUrl: "https://www.dailyecho.co.uk/news/23995483.success-southampton-facial-recognition-cameras-trial/"
+  - title: "Internet Marketing Association Wraps One of the Largest Artificial Intelligence Conferences in America"
+    excerpt: "A consensus was reached that Generative AI and unlocking \"intelligence as a service\" will be regarded as the largest technological impact to business and society in history, overshadowing the invention of the microchip and the internet. Virtually every ..."
+    publishedDateTime: 2023-12-14T12:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/internet-marketing-association-wraps-one-of-the-largest-artificial-intelligence-conferences-in-america-1032902126"
     type: article
     provider:
-      name: Southern Daily Echo
-      domain: dailyecho.co.uk
-    quality: 39
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
+  - title: "Internet Marketing Association Wraps One Of The Largest Artificial Intelligence Conferences In America"
+    excerpt: "IMA has established a position as one of the largest and fastest growing groups in the world focused on internet marketing. Members represent a wide range of fields associated with this dynamic and pivotal aspect of business and society. For information on the Internet Marketing Association, visit ."
+    publishedDateTime: 2023-12-14T18:27:00Z
+    webUrl: "https://menafn.com/1107598826/Internet-Marketing-Association-Wraps-One-Of-The-Largest-Artificial-Intelligence-Conferences-In-America"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 40
     images:
-      - url: "https://www.dailyecho.co.uk/resources/images/17559966/?type=og-image"
-        width: 620
-        height: 413
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?252423"
+        width: 378
+        height: 249
         isCached: true
-  - title: "Police defend facial recognition target selection to Lords"
-    excerpt: "Senior police officers confirm to Lords committee that facial recognition watchlist image selection is based on crime categories attached to people’s photos, rather than a context-specific assessment of the threat presented by a given individual."
-    publishedDateTime: 2023-12-15T09:07:00Z
-    webUrl: "https://www.computerweekly.com/news/366563318/Police-defend-facial-recognition-target-selection-to-Lords"
+  - title: "Verizon, Panthers Implement “Express Entry” Option Using Facial Recognition To Enter Bank of America Stadium"
+    excerpt: "A new partnership between the Carolina Panthers and Verizon allows fans to enter Bank of America Stadium without scanning a ticket or their phones."
+    publishedDateTime: 2023-12-14T22:49:00Z
+    webUrl: "https://www.wccbcharlotte.com/2023/12/14/verizon-panthers-implement-express-entry-option-using-facial-recognition-to-enter-bank-of-america-stadium/"
     type: article
     provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 19
+      name: WCCB
+      domain: wccbcharlotte.com
+    quality: 37
+    images:
+      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.wccbcharlotte.com/content/uploads/2015/12/Bank-of-America-Stadium.jpg"
+        width: 426
+        height: 240
+        isCached: true
+  - title: "Panthers and Verizon adding facial-recognition entry for NFL games at BofA Stadium"
+    excerpt: "In addition to the Panthers, Tepper Sports owns BofA Stadium and Major League Soccer team Charlotte FC. Wright said that Tepper Sports plans to make available facial recognition entry to all Panthers’ season ticket holders next season."
+    publishedDateTime: 2023-12-14T18:42:00Z
+    webUrl: "https://www.bizjournals.com/charlotte/news/2023/12/14/carolina-panthers-nfl-verizon-bank-of-america.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
 
 secured: "nUAvVaHsQHfwCtm0DwbIYKlWIAeaHPo43d8z07oTCwC3xZxtxz/eGwgd2SamzrtFJ+3XRlurxjBkCWpeqLaCQEP2eLKP5HS1ql9attBEkUPDKDBMubqev5NRT2bqbWxaxFpVc8/e/suGuDC16z9jIdDf033v4Hwnhp6+aZaFLJN9TsAOUOiUaZKZEhIAwpvQlaCLODMReqHqanSt246aEJHt7tpdXI/yx/9dIlbBY99XGVzkR0YUkT/lpFacrfQnxaM+/VelnTI3SW+wmTY92lAe8X5p35pCCa+nj3vpVqmc/Zd/xLtFQqXePNhsrB8cR8Lv9avAcl3P5hWJwu+nIkKuVCYUONro5NfhNX68mV4=;uSNDEduwdlNLrUDGkAgUJQ=="
 ---

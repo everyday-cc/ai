@@ -50,6 +50,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "3 essential considerations for generative AI on campus"
+    excerpt: "Generative AI on campus was everywhere at EDUCAUSE--and with it, concerns about its place in classrooms and university processes."
+    publishedDateTime: 2023-12-18T10:00:00Z
+    webUrl: "https://www.ecampusnews.com/teaching-learning/2023/12/18/3-essential-considerations-for-generative-ai-on-campus/"
+    type: article
+    provider:
+      name: ecampusnews.com
+      domain: ecampusnews.com
+    quality: 39
+    images:
+      - url: "https://www.ecampusnews.com/files/2023/12/generative-AI-educause.jpeg"
+        width: 500
+        height: 500
+        isCached: true
 
 secured: "sV81YQ/qxAH8+cstAI2TLQer/5RIRaJSphRlBswvTOVc2XmO87dfZE6rckssX9plRXDwd7PamaJSg6t8I804fz1127ZTo44ro3RdAJPKJ7905MJDnjBQtpOzQu1k7L8yhVA6v/ZHh7aG9XqjOdwUY8YyZVU/LUOvB0ySXauSlPjQPnIA0Mup1IF8cNUprV73ubV+xaNPsK85mNzguAIXrdEJKcf0iQ8h7MziCHsmtKg8bTry8WhzF3Q0HmkcxB5z6joJ1aLcQnJxI+B47Bxr5CpDmpzP7b9azGvm3UYL/9SgJUi4UwCEvEy2Y8bBvLSHCd6mgoFMePJzhQUykyP0KCLRCWHln9rsmJUDB3dYnBqJWp7pV080BxnJ9I6b7vZ72wQLuHKkcwmCO+H7BQbr7O03cVfkUqDIZrRxMF7kVeS3dph5Tz7ikgNfuMW4CFvxwYJjLBQD0KTbAar3RDMUkIH8OMZajwFszXva33VyLVu0osEu8ju/aZE6/u43OC5QDtnsuz0UjKXwZB3BUuidjg==;VuQKROwBf+utJVAAbnbF5Q=="
 ---

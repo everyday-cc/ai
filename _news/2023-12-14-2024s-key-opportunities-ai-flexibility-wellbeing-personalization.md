@@ -52,6 +52,20 @@ related:
         width: 767
         height: 633
         isCached: true
+  - title: "3 essential considerations for generative AI on campus"
+    excerpt: "Generative AI on campus was everywhere at EDUCAUSE--and with it, concerns about its place in classrooms and university processes."
+    publishedDateTime: 2023-12-18T10:00:00Z
+    webUrl: "https://www.ecampusnews.com/teaching-learning/2023/12/18/3-essential-considerations-for-generative-ai-on-campus/"
+    type: article
+    provider:
+      name: ecampusnews.com
+      domain: ecampusnews.com
+    quality: 39
+    images:
+      - url: "https://www.ecampusnews.com/files/2023/12/generative-AI-educause.jpeg"
+        width: 500
+        height: 500
+        isCached: true
 
 secured: "kW1ovBHKzOB6lCMHraKQJIKwUi7Yy1nHXR/PMtWB0HYi5HtkS2DNWJ7/5kBToso93S4plPD0I9Oq3j+rQ3axCQPDcjrK9J2Vxj40UN7WcAH9tlKtHkCM+uQ6BxLyQ0ZXSSiWZcNM3b59mzG894a7+Iyo1oYW/2kx8miCTBMWPtPd1jKiq3uCUdmXTr45kylPYRZ3OrJ2wAfW2a7WLt5vKpzPcxibpVkHRAcsnhZ0uQ7FyZ+tGpve+xE0Ur6LQlhvZsYvc63XgSo9NEok+hiw2t0l5Gy4Y+sDKz/580a9OI/y3ABcuYhci1r5aNU6QpDLm9i4DB+ghgt/KX78fjZ62QhYPkjUo060ijy4owbcI6aG9Mf0dlAOQ6TBamjSQqEEncroYB+uzM6Bhp2wOOdcxsZ00KmhHgmIOqexpM9SEjfs1Xf/XSsIla8b3SSUw5aFLrnf9VAL5thjWQTEkNoXFBottzPCbmOAR98fhNYEO3bjPkx8AlKsOBQP3Er0mWf2WrR4ixXMKR6MItZpHLLy2Q==;paCSgiJxIc8yLTwDcJ4urw=="
 ---
