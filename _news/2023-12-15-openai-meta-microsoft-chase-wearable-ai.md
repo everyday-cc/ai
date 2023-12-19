@@ -120,20 +120,6 @@ related:
       name: InfoWorld
       domain: infoworld.com
     quality: 64
-  - title: "Autopilot's new AI integrates into Microsoft Teams and Copilot"
-    excerpt: "AI-powered, format-agnostic document data extraction allows ... They were an early adopter into Microsoft Azure, building straight into the cloud as early as 2014, while competitors were still battling with on-prem solutions. They were also early adopters ..."
-    publishedDateTime: 2023-12-14T00:01:00Z
-    webUrl: "https://www.bizcommunity.com/Article/196/542/244643.html"
-    type: article
-    provider:
-      name: Bizcommunity
-      domain: bizcommunity.com
-    quality: 54
-    images:
-      - url: "https://biz-file.com/c/2312/722697-848x441.jpg?2"
-        width: 848
-        height: 441
-        isCached: true
 
 secured: "W2BWFZnqHgtlBtcBViEjcXpA13IFcwl9QkVYmgX4DJjncko7hw72kkMidkIfj6IlFf3J9T/tVXNZ4eR2Ghw8lQ5wrvZf+W1Bt//dGyeb1f0Yl7oOyRlTDmlLxFDo/tqB/VbmlF2dARq8coyZ+Ae7va6HwHlerDPqfiBatPUsqfh/Hya2lVSlw/rpUy5B5JDA2D+8EX3tS8kHz7rRlbZ6eUT//s9Zu2zDUdT1mXlwVBKzO8yruaI6bk9G+Scvspk/JDyY7YgHc0adYkAOfPp9a+zgHY8eaglbgnRgLnHoXKT9n08nqR2vOQIpJL2OaMbcZqk/mLMlf8IK9H9SS6amJyOFXx7sXi+RBWMsEG7fjm9Pr4/vsFtwiuqWzILzWGXZJWJ5CuLnvt0scC+m0ir/T5Kjgb2n5CfQKiGDMogQIdMbARMGzqvyv4shZ/PVepOSGyGEgJti1fvLwdz4kdQ+pCmc0DlQhzu7a17e1OZ2NohKAob1aIiCUVtG0ds/OHzWN7hUW+EFZcHbJ2W4c9lw1w==;VtFydtEbhDXadi28SaP85g=="
 ---

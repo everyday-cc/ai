@@ -24,22 +24,6 @@ images:
     height: 683
     isCached: true
 
-related:
-  - title: "Meta used copyrighted books for AI training despite its own lawyers' warnings, authors allege"
-    excerpt: "Meta Platforms' lawyers had warned it about the legal perils of using thousands of pirated books to train its AI models, but the company did it anyway, according to a new filing in a copyright infringement lawsuit initially brought this summer."
-    publishedDateTime: 2023-12-14T00:35:00Z
-    webUrl: "https://www.ksl.com/article/50817294/meta-used-copyrighted-books-for-ai-training-despite-its-own-lawyers-warnings-authors-allege"
-    type: article
-    provider:
-      name: KSL
-      domain: ksl.com
-    quality: 28
-    images:
-      - url: "https://img.ksl.com/slc/2961/296140/29614008.JPG?filter=kslv2/responsive_story_lg"
-        width: 1228
-        height: 690
-        isCached: true
-
 secured: "Js6QHU8uTRElJnXcPb7llvUdHrf/VC3gwg8Jf/8dpgd4yVequyDuFpaAodBd3XxZ4kARJgtFIf5kV6M0mvl3NxstDG09NHQtpvuXdCHmYVX2OvbKQjjDRYBtRDfOGALimb/pmpXaYMg02OmSCfsDxEqoi3Z4eDnDB5eIKWyBou26wArYu+0IhKQu6/N4sWE4qlX+/7+2SH3NfpCvJ/xkm4Z9mtg2haW5lMBgO6TqWbgC53vaHnhN/j5pYqJLvJbahP+YZFvlW/+XX1TDNZAFs8PiSBHDUk78XaybIkw/B7AwK/JjE3822HxorH2rht8vuC4WxybgzSa8ZlxDCDER47UhJzyYAZy8ApDbSBL88ruCataI/D8QpzQ4WrgpKlI4vK3f7x2qBsptChaBi+gF6R6OTR8TNuo9mt81HRN9DXImfN+09u1YQddwgGYL/zFYoPnIO+8Ewz8YIPfnNRQGSMCo29qIn50dCCzqr+qKOplE1dn3N8yGErMjGLh7ZUZlKqpZGUINpk0y6Oj5BK8b7g==;gjE0RRIu83gqxrPaWWoDPA=="
 ---
 

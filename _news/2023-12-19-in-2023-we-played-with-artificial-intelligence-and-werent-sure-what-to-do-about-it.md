@@ -7,7 +7,7 @@ originalUrl: "https://www.rockymounttelegram.com/news/national/in-2023-we-played
 webUrl: "https://www.rockymounttelegram.com/news/national/in-2023-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it/article_adc7b02c-9b86-11ee-a9a8-e7e1f025edaa.html"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "2023: The year AI went mainstream (and it was messy)"
-    excerpt: "Artificial intelligence went mainstream in 2023 — it was a long time coming yet has a long way to go for the technology to match people's science fiction fantasies of"
-    publishedDateTime: 2023-12-16T00:00:00Z
-    webUrl: "https://www.newscenter1.tv/lifestyle/2023-the-year-ai-went-mainstream-and-it-was-messy/article_0b47d62c-9ac0-11ee-b7f6-5f2d07f2454c.html"
-    type: article
-    provider:
-      name: Newcenter1
-      domain: newscenter1.tv
-    quality: 37
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/newscenter1.tv/content/tncms/assets/v3/editorial/3/77/37798e60-527d-11ee-8f7a-b30fa4fbc7c0/65022ac8efeb4.image.jpg?crop=1280%2C672%2C0%2C144&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "cR6ZpuYcAGp2hJPESABrPokoDQkOKd6pSMvJ/ZCGtkFHziIbYy75bd2iCiKGpufXXoINQbHeTPj5cUu4AaCp3bIFOBM1xa1lATObV+yGIPbOHU4E1CXFid8JGMvpLfHbrpQsMNWCczSFHWHMsrh95+o98+v5cU8YbsV3GGlsYjG3+24/4UnvsC/agEAhsLyDcGIf+plPV7LJ4jQw9IKBMJIOiftHbVXIVaRBgJCuCfeqGomnfDZTxJvkGKvHqOCkRyduLZjhjxVlOIl4jTuf+ILbuDLpnST0fnkt/c9wteqgd/z7iIQQvzahoL/TjyhAtpCfvelcc4KNSr/l7KAwSj/ZyqolbqXEIJf8RmtVgG141EDKFBbKVHGXBZz5iiweYdNRzCTnreu9zfKZorlG3mUIfIYwdLN7xkz2algsxBeB1rdQt3YaeUTG4DyyjtcOxWC3TIZi015+V2zocYCN1EtQvkNGs/SKSXKfplv7ZqDB/TrhgeNJADLY/TCpboWvlp6dZjHrZl4FYJ+O83bPRA==;LViplIFYzzjL78z/spLBOw=="
 ---

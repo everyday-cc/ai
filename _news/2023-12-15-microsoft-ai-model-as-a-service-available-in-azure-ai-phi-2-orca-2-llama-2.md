@@ -120,20 +120,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Autopilot's new AI integrates into Microsoft Teams and Copilot"
-    excerpt: "AI-powered, format-agnostic document data extraction allows ... They were an early adopter into Microsoft Azure, building straight into the cloud as early as 2014, while competitors were still battling with on-prem solutions. They were also early adopters ..."
-    publishedDateTime: 2023-12-14T00:01:00Z
-    webUrl: "https://www.bizcommunity.com/Article/196/542/244643.html"
-    type: article
-    provider:
-      name: Bizcommunity
-      domain: bizcommunity.com
-    quality: 54
-    images:
-      - url: "https://biz-file.com/c/2312/722697-848x441.jpg?2"
-        width: 848
-        height: 441
-        isCached: true
 
 secured: "tchvemZezMfAN3nqbFsUPtgFMeYC5FpLpl97HH2x+Z+VmGX1psg0XZp7cYJ+p3+uYGeECirzvb45PMqs1NQNslHy8GumYnPXU+J170KOnWgbMYzwbgxaBLQIvDE2/sEtrRHl27D4oc94JzvUickU1cEuJB5WGw5dVrnR1YG2oYF/C8MSwgBWWSQsL9mfwxUQ5QjBP79IKEdKTQHKWG2g3kPrKYDl0TCxKfR2oHVsZELW/SvanMgShqOXLnD3A/lyORoI6xVwDkpMMT6CKX67Yx/L/HgINy29fQPa2hnX8g6nWA1p9ziGoJr+ZU2sRA7q3yCrEiSUQFmGetVLqSKEofyvyCoCgOaIKl32ajhhKCroQ6mfVSO3n1wPPm6gYd1uT3RvIKeEa7GE/QLaY8bajQALPjiKa0MguyRs27EYe8/Kb6yN9AqvaijxesvNXYAe5ez99CMeqbGGEeAp2mZ3F8qlqgYygIFxPDM1UCQuCmShP6yM/jXEo2u2KgdvNNjW0H9hs5VNgzNAFJ5dRiQ1Lg==;IZFam8Bp45gP5qzQ1RuPGQ=="
 ---

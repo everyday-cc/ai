@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "NVIDIA Launches China-Exclusive RTX 4090 D GPU Earlier Than Anticipated"
+    excerpt: "NVIDIAs China-Exclusive GeForce RTX 4090 D GPU appears to be making its way to players earlier than planned this month. NVIDIAs China-Exclusive GeForce RTX 4090 D GPU seems to be making its way to players earlier"
+    publishedDateTime: 2023-12-18T21:29:00Z
+    webUrl: "https://www.econotimes.com/NVIDIA-Launches-China-Exclusive-RTX-4090-D-GPU-Earlier-Than-Anticipated-1668176"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 39
+    images:
+      - url: "https://f1.econotimes.com/2023/12/y5nzm169rm_th_1024x0.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "The Next AI Battle: Adding It to Existing Products"
     excerpt: "We are closing this chapter of the AI wars.Since January or so, tech leaders, their customers and reporters have been haggling over advancements in large language models. We’ve been consumed by models,"
     publishedDateTime: 2023-12-15T01:00:00Z

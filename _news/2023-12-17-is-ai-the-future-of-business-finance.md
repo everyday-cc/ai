@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/melissahouston/2023/12/16/is-ai-the-fut
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/melissahouston/2023/12/16/is-ai-the-future-of-business-finance/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 134
 published: true
 
 provider:

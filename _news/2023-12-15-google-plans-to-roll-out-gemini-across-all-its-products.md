@@ -41,20 +41,6 @@ related:
         width: 640
         height: 315
         isCached: true
-  - title: "Google Adds Gemini Pro API to AI Studio and Vertex AI"
-    excerpt: "Google also announced Duet AI for Developers and Duet AI in Security Operations, but neither uses Gemini yet."
-    publishedDateTime: 2023-12-13T23:08:00Z
-    webUrl: "https://www.techrepublic.com/article/google-adds-gemini-ai-studio-vertex-ai/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 69
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/12/google-ai-studio-api-key-fig-a-dec-23.png"
-        width: 1400
-        height: 889
-        isCached: true
   - title: "Google's Gemini: Is the new artificial intelligence model really better than ChatGPT?"
     excerpt: "Google Deepmind has recently announced Gemini, its new AI model to compete with OpenAI's ChatGPT. While both models are examples of “generative AI”, which learn to find patterns of input training information to generate new data (pictures, words or other media), ChatGPT is a large language model (LLM) which focuses on producing text."
     publishedDateTime: 2023-12-17T01:00:00Z

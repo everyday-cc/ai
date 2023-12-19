@@ -31,179 +31,90 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Is Impacting Society And Shaping The Future"
-    excerpt: "As the dawn of artificial intelligence (AI) transforms industries and societies, we've engaged with visionary founders who are leading the charge."
-    publishedDateTime: 2023-12-14T00:46:00Z
-    webUrl: "https://www.forbes.com/sites/kalinabryant/2023/12/13/how-ai-is-impacting-society-and-shaping-the-future/"
-    ampWebUrl: "https://www.forbes.com/sites/kalinabryant/2023/12/13/how-ai-is-impacting-society-and-shaping-the-future/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kalinabryant/2023/12/13/how-ai-is-impacting-society-and-shaping-the-future/amp/"
+  - title: "The Potential Of Embodied AI"
+    excerpt: "You don't have to necessarily be a technical expert to reap some of the benefits of AI-powered tools in your own business."
+    publishedDateTime: 2023-12-15T11:29:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/15/the-potential-of-embodied-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/15/the-potential-of-embodied-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/15/the-potential-of-embodied-ai/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 91
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/657a5006c207ad19dd8da4dc/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1439
+      - url: "https://imageio.forbes.com/specials-images/imageserve/657b4fcfd2b7da06875045b0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
         height: 900
         isCached: true
-  - title: "The future with Artificial Intelligence: AI-ming for enhanced travel experience"
-    excerpt: "In astonishingly little time, Artificial Intelligence has swept through the travel industry and significantly transformed it by improving processes up and down the chain. Indications are it is going to get all the more ubiquitous."
-    publishedDateTime: 2023-12-14T09:56:00Z
-    webUrl: "https://www.moneycontrol.com/news/trends/travel/the-future-with-artificial-intelligence-ai-ming-for-enhanced-travel-experience-11904561.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/trends/travel/the-future-with-artificial-intelligence-ai-ming-for-enhanced-travel-experience-11904561.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/travel/the-future-with-artificial-intelligence-ai-ming-for-enhanced-travel-experience-11904561.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 70
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/12/Artificial-Intelligence-and-Travel-1.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Do AI improvements call for something better than the Turing test?"
-    excerpt: "In addition to this, the Turing Test fails to analyze an AI program’s ability to think. In a recent Turing Test experiment, GPT-4 was able to convince evaluators that they were texting with humans over 40 percent of the time. However, this score fails to answer the basic question: Can the AI program think?"
-    publishedDateTime: 2023-12-15T00:16:00Z
-    webUrl: "https://arstechnica.com/ai/2023/12/do-ai-improvements-call-for-something-better-than-the-turing-test/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 67
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-147461191-800x600.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "How AI Is Influencing The Mortgage Industry"
-    excerpt: "In the not-so-distant future, you might join a video call and meet with a virtual representative to discuss your mortgage options. Afterward, an AI-written document will deliver personalized recommendations based on the conversation."
-    publishedDateTime: 2023-12-18T08:59:00Z
-    webUrl: "https://www.forbes.com/advisor/mortgages/how-ai-affects-mortgage-industry/"
+  - title: "The Pitfalls Of AI In B2B Tech Content"
+    excerpt: "While businesses should be looking to responsibly and carefully work generative AI tools into their workflow, there are a few areas where the tech comes up short."
+    publishedDateTime: 2023-12-18T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/12/18/the-pitfalls-of-ai-in-b2b-tech-content/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/12/18/the-pitfalls-of-ai-in-b2b-tech-content/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/12/18/the-pitfalls-of-ai-in-b2b-tech-content/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 67
+    quality: 87
     images:
-      - url: "https://www.forbes.com/advisor/wp-content/uploads/2023/12/How-AI-Is-Influencing-The-Mortgage-Industry-Ft-Image.jpg"
-        width: 766
-        height: 431
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5ee8c0a4bcc30e0006c1d9f4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
         isCached: true
-  - title: "The EU AI Act - dissecting the detail"
-    excerpt: "The European Union's ongoing debate about regulating “General-Purpose AI” (GPAI) under the Artificial Intelligence Act (AIA) enters a new phase."
-    publishedDateTime: 2023-12-18T11:43:00Z
-    webUrl: "https://diginomica.com/eu-ai-act-dissecting-detail"
-    ampWebUrl: "https://diginomica.com/eu-ai-act-dissecting-detail?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/eu-ai-act-dissecting-detail?amp"
+  - title: "Managing costs to realize the potential of cloud and generative AI"
+    excerpt: "Today the drive towards cloud adoption is more and more propelled by the desire to leverage the potential of AI -- especially generative AI."
+    publishedDateTime: 2023-12-14T14:39:00Z
+    webUrl: "https://venturebeat.com/ai/managing-costs-to-realize-the-potential-of-cloud-and-generative-ai/"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 59
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
     images:
-      - url: "https://diginomica.com/sites/default/files/images/2019-03/BAC4C93B-CED2-461B-99FB-60C96BB3FD17.jpeg"
-        width: 640
-        height: 426
-        isCached: true
-  - title: "AI or not to AI: How artificial intelligence is changing the industry"
-    excerpt: "One of the most profound statements that I’ve ever heard on artificial intelligence was presented in the form of a joke. It was delivered decades ago by an English Lit professor of mine who taught classes both on John Milton and on science fiction and fantasy literature."
-    publishedDateTime: 2023-12-18T18:25:00Z
-    webUrl: "https://www.plantservices.com/technology/artificial-intelligence/article/33016391/ai-or-not-to-ai-how-artificial-intelligence-is-changing-the-industry"
-    type: article
-    provider:
-      name: Plant Services
-      domain: plantservices.com
-    quality: 54
-    images:
-      - url: "https://img.plantservices.com/files/base/ebm/plantservices/image/2023/12/657b45e23fa0aa001efeca59-ai_or_not_to_ai_how_artificial_intelligence_is_cha.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/12/AdobeStock_529882524.jpeg?w=1200&strip=all"
         width: 1200
-        height: 630
+        height: 663
         isCached: true
-  - title: "2023: The year of AI gift-giving and other holiday shopping trends"
-    excerpt: "Flowcode analyzed holiday shopping forecasts from Salesforce and the National Retail Federation to identify a few major trends for 2023."
-    publishedDateTime: 2023-12-14T09:18:00Z
-    webUrl: "https://kvia.com/news/business-technology/2023/12/14/2023-the-year-of-ai-gift-giving-and-other-holiday-shopping-trends/"
+  - title: "How to spot artificial intelligence-generated content"
+    excerpt: "The catch: this was not Gordon Ramsay. It was an artificial intelligence (AI) version of Ramsay being used to steal people’s identities. With the 2024 Presidential election fast approaching ..."
+    publishedDateTime: 2023-12-15T12:09:00Z
+    webUrl: "https://thehill.com/homenews/4361566-how-to-spot-artificial-intelligence-generated-content/"
+    ampWebUrl: "https://thehill.com/homenews/4361566-how-to-spot-artificial-intelligence-generated-content/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/4361566-how-to-spot-artificial-intelligence-generated-content/amp/"
     type: article
     provider:
-      name: KVIA
-      domain: kvia.com
-    quality: 39
-    images:
-      - url: "https://kvia.b-cdn.net/2023/12/00x942CD8CDD9C031_0.jpeg"
-        width: 1010
-        height: 720
-        isCached: true
-  - title: "Future of AI – 6 ways AI is growing rapidly"
-    excerpt: "The rapid growth of AI across various sectors is a testament to its transformative potential and boundless possibilities."
-    publishedDateTime: 2023-12-15T18:07:00Z
-    webUrl: "https://knowtechie.com/future-of-ai-6-ways-ai-is-growing-rapidly/"
+      name: The Hill
+      domain: thehill.com
+    quality: 41
+  - title: "IBM: Fumbling Away AI Potential"
+    excerpt: "International Business Machines Corporation's failure to benefit from Watson's AI technology and poor earnings and growth raises concerns. Learn more on IBM stock here."
+    publishedDateTime: 2023-12-18T16:36:00Z
+    webUrl: "https://seekingalpha.com/article/4658478-ibm-fumbling-away-ai-potential"
     type: article
     provider:
-      name: KnowTechie
-      domain: knowtechie.com
+      name: Seeking Alpha
+      domain: seekingalpha.com
     quality: 39
     images:
-      - url: "https://knowtechie.com/wp-content/uploads/2023/12/Robot-hand-feature-1000x600.jpg"
-        width: 1000
-        height: 600
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1299625464/image_1299625464.jpg?io=getty-c-w1536"
+        width: 1536
+        height: 1024
         isCached: true
-  - title: "How the AI boom is transforming accounting"
-    excerpt: "The IRS rolling out chatbots to help individuals with basic tax matters and key presentations on AI innovation at accounting events are among the recent developments."
-    publishedDateTime: 2023-12-15T22:07:00Z
-    webUrl: "https://www.accountingtoday.com/list/how-the-ai-boom-is-transforming-accounting"
-    type: article
-    provider:
-      name: Accounting Today
-      domain: accountingtoday.com
-    quality: 39
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/213d245/2147483647/strip/true/crop/510x268+0+39/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F40%2F4c%2Ff764f70d44ec80eab750dbc8af35%2F1-1-1-artificial-intelligence-cover.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Three KC companies share how they're building AI into their business"
-    excerpt: "Many Kansas City area companies are racing to integrate #AI into their day-to-day operations, including the design and technology consultancy Crema, which is building AI \"personas\" to critique the company's pitches."
-    publishedDateTime: 2023-12-15T18:40:00Z
-    webUrl: "https://www.bizjournals.com/kansascity/news/2023/12/15/kansas-city-companies-add-ai.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 39
-    images:
-      - url: "https://media.bizj.us/view/img/12101330/20210916championsbusiness031av*1200xx3000-1686-0-573.jpg"
-        width: 1200
-        height: 674
-        isCached: true
-  - title: "How AI In Software Development Improves Data And Decision Making"
-    excerpt: "Keeping track of AI development is a real challenge. Just when you think the progress has reached its peak, a mindblowing innovation hits the news.  A number of major industries, including healthcare,"
-    publishedDateTime: 2023-12-17T23:57:00Z
-    webUrl: "https://techbullion.com/how-ai-in-software-development-improves-data-and-decision-making/"
+  - title: "Exploring the Limitless Potential: Applications of Artificial Intelligence in Today’s World"
+    excerpt: "Welcome to a world where machines can think, learn, and even surpass human intelligence. Artificial Intelligence (AI) has taken the global stage by storm, offering unparalleled opportunities for innovation and growth in various sectors."
+    publishedDateTime: 2023-12-17T13:25:00Z
+    webUrl: "https://techbullion.com/exploring-the-limitless-potential-applications-of-artificial-intelligence-in-todays-world/"
     type: article
     provider:
       name: Impacts
       domain: techbullion.com
-    quality: 39
+    quality: 31
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/thumbnailHEYBEIPE-1000x600.jpg"
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/AI.jpg"
         width: 1000
-        height: 600
-        isCached: true
-  - title: "The billionaire bucks shaping AI policy"
-    excerpt: "For months, Brendan has been following the money shaping the regulatory debate over AI. And much of that money is coming from wealthy backers of “effective altruism,” a prominent ideology in Silicon Valley circles that places great a deal of weight on the existential risks of AI."
-    publishedDateTime: 2023-12-18T20:27:00Z
-    webUrl: "https://www.politico.com/newsletters/digital-future-daily/2023/12/18/whos-really-driving-ai-policy-00132306"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 39
-    images:
-      - url: "https://static.politico.com/24/10/d1edb0a641fbb58de105917b9c8d/https-delivery-gettyimages.com/downloads/1258872971"
-        width: 5760
-        height: 3840
+        height: 500
         isCached: true
 
 secured: "jENQ0+22P9pWrObyvi6/yppVTymN9ejI4KKEXNjFOVikSLXQdsN+pOCsCopa1UzSFpPA2dSZPy+o3pzLLCGPasWQr006PmzwIIKdSZa67eKjqFHVncyIuQPBV2Q1Grz87LfL9UESI5yis7OR7b/J/cTEH7sKbeKJac9n4GJvjxxmfB1xuMZnhBZW2fD5Ha1EDIclaqDfOz5pInZsMAOfnFeD6rSk3P+AdlFp+kFTgg38GpxteI0SCdeVz26PDZO0u0fL2hNM82EEv1mxoaIyhIJhIymfsaaAD7c8bN4+ZYvtbdcE7r87Gf79ncf7NwVYSqkA38Hoywy0FmUk3c+sC3Nrz+jcaeVTxD3h/plFqm5jTunBc6fqHtIwNDn2crcwgs0vQmPGSnEHON3o5n65YOR4Mzuy99xsCSmb/GDPtt9C+8+N/cFRGumPrTTFVzwvQKs2EjVQHiUpbvSZieQIxvIp/ulTqGo4vq8Vo6Rj6HHBMhOYduk+zoZZ58JPzwz5mTdYnxMJqmaMsjTuGtT+5g==;lMopybFIngbOH+i+a+hu6A=="

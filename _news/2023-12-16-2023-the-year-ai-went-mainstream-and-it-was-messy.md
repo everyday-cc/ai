@@ -7,7 +7,7 @@ originalUrl: "https://www.newscenter1.tv/lifestyle/2023-the-year-ai-went-mainstr
 webUrl: "https://www.newscenter1.tv/lifestyle/2023-the-year-ai-went-mainstream-and-it-was-messy/article_0b47d62c-9ac0-11ee-b7f6-5f2d07f2454c.html"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "In 2023, we played with artificial intelligence — and weren't sure what to do about it"
-    excerpt: "ChatGPT was the catalyst for a year that took artificial intelligence mainstream. For AI, 2023 was a long time coming. Still, the technology has a long way to go before"
-    publishedDateTime: 2023-12-18T17:00:00Z
-    webUrl: "https://www.rockymounttelegram.com/news/national/in-2023-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it/article_adc7b02c-9b86-11ee-a9a8-e7e1f025edaa.html"
+  - title: "2023: The year of AI gift-giving and other holiday shopping trends"
+    excerpt: "Flowcode analyzed holiday shopping forecasts from Salesforce and the National Retail Federation to identify a few major trends for 2023."
+    publishedDateTime: 2023-12-14T09:18:00Z
+    webUrl: "https://kvia.com/news/business-technology/2023/12/14/2023-the-year-of-ai-gift-giving-and-other-holiday-shopping-trends/"
     type: article
     provider:
-      name: Rocky Mount Telegram
-      domain: rockymounttelegram.com
-    quality: 29
+      name: KVIA
+      domain: kvia.com
+    quality: 39
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/rockymounttelegram.com/content/tncms/assets/v3/editorial/1/32/132a5992-0015-555e-991a-d15c348432a5/657ad3d857af5.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://kvia.b-cdn.net/2023/12/00x942CD8CDD9C031_0.jpeg"
+        width: 1010
+        height: 720
         isCached: true
 
 secured: "diDaMzvurlYFth2KY+IMpWb2nv2UOfciWfTQY6ihOiyHNuA9gKUp7qLbjOvN3c4+OOo6sQbYwQ7WWKPYEq8/6ia21daczer/JIVqCMamjh51rK79E70Sf7Qr3LLDXhEWm9CYHaCJRw0zLHmDgy8sOhttcxvldD39i/PCvgG7LLnzL5ybcNNPH4/d0xttMOuCKcWubI8zJIz9O2t+Wcpc12M5x4534jGpHDjvTP+/9y/C4RKYh0twvzm57qDxSpF+n3fgZXgX4C9gEr5LIf5/HEmvCzXDvaXf4/h71+6UefhYOebF3YkFuh9IpPqLYbUFwiyA3fgQPDeUO883zXbCUw6QARDJ9Q4+lExxv+LZwMM=;AN0TfnKgpJcss1ydbJ99IA=="

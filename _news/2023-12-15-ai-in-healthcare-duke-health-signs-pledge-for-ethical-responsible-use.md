@@ -9,7 +9,7 @@ ampWebUrl: "https://wraltechwire.com/2023/12/15/ai-in-healthcare-duke-health-sig
 cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/12/15/ai-in-healthcare-duke-health-signs-pledge-for-ethical-responsible-use/?amp=1"
 type: article
 quality: 91
-heat: 171
+heat: 161
 published: true
 
 provider:
@@ -118,15 +118,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Google announces AI uses for health care market"
-    excerpt: "Google LLC announced its latest foray into artificial intelligence Wednesday with the debut of MedLM, a suite of new health care-focused large language models (LLMs) tools. Alphabet Inc. (Nasdaq: GOOGL)-owned Google has been testing the AI platform with ..."
-    publishedDateTime: 2023-12-14T00:01:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2023/12/14/google-announces-ai-uses-for-health-care-market.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "wUZ44YblywFkUgFjxRWHHpzno8aTUOfd3y3CUZcuMObR8ozImYaMmzTwtONnJn4t1Za3gNdU2ekM/TaTLgjlhzlGfrV7kSl09UdU1+XeEfW4OewuvjJirpi9fIfgcKeAOHQYnGq9tpf93m30vbIzACft33Ts9waZ0mN+u9Zf1Ve7xmHu1LWVmjJ3Ul1Kdm7fa1JBfc7KwtER6zLt8DDkqc5YvwTkLIsPIcQOt4cRUT0rO2fwJ7O9iUHkHspuXjWyTaJlgXPwGSex55cgcCibeT3kgAcfcp5f5/T5m6eXiNPuxUe7YhZrFGPw+SyCBY1IPS9B4aZC0GjEXTQL+Ejgsb8Pa4rg+/cCYYeah0qZgJ4=;8Yh/+Qrt+YwmpAV8r4Qljg=="
 ---

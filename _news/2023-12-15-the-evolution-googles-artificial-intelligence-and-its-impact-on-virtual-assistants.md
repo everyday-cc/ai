@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "Tesla's AI Revolution: Morgan Stanley Predicts Explosive Growth"
+    excerpt: "Executives at Tesla TSLA +4.9% Inc. (TSLA) revealed last week new upgrades to Optimus, the firm’s bipedal robot. Morgan Stanley MS +0.6% researchers believe a Cambrian Explosion is near, leading to explosive growth for Tesla."
+    publishedDateTime: 2023-12-19T00:50:00Z
+    webUrl: "https://www.forbes.com/sites/jonmarkman/2023/12/18/teslas-ai-revolution-morgan-stanley-predicts-explosive-growth/"
+    ampWebUrl: "https://www.forbes.com/sites/jonmarkman/2023/12/18/teslas-ai-revolution-morgan-stanley-predicts-explosive-growth/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonmarkman/2023/12/18/teslas-ai-revolution-morgan-stanley-predicts-explosive-growth/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6580e6a412357727a23cd47a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "Why Fear The Artificial Intelligence Revolution?"
     excerpt: "Artificial intelligence can be used to create interesting and useful tools, but it is not capable of spontaneously learning a new task or having any desire or emotion."
     publishedDateTime: 2023-12-18T10:00:00Z
@@ -34,54 +50,22 @@ related:
         width: 1351
         height: 900
         isCached: true
-  - title: "Amdocs Revolutionising Telecom with Generative AI"
-    excerpt: "Amdocs' partnerships with NVIDIA, and Microsoft Azure entails customisation of enterprise-grade AI framework for telcos."
-    publishedDateTime: 2023-12-18T06:44:00Z
-    webUrl: "https://analyticsindiamag.com/amdocs-revolutionising-telecom-with-generative-ai/"
+  - title: "The AI Revolution in Therapy"
+    excerpt: "Artificial intelligence (AI) has proven to be a powerful tool in the world of behavioral health, already aiding in assessments and enhancing therapy. This transformative technology helps healthcare providers deliver true value in their behavioral ..."
+    publishedDateTime: 2023-12-18T17:11:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/leadership-diversity-and-wellness/202312/the-ai-revolution-in-therapy"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/leadership-diversity-and-wellness/202312/the-ai-revolution-in-therapy?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/leadership-diversity-and-wellness/202312/the-ai-revolution-in-therapy?amp"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 74
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/12/unnamed-44.jpg"
-        width: 512
-        height: 288
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-12/pexels-pixabay-373543.jpg?itok=wBzUJjRQ"
+        width: 1528
+        height: 800
         isCached: true
-  - title: "Revolutionary mind-reading AI system can turn thoughts into text"
-    excerpt: "People's thoughts can be turned into text in a world-first using artificial intelligence. The mindreading portable technology could aid communication for people who are unable to speak due to illness or injury,"
-    publishedDateTime: 2023-12-18T14:42:00Z
-    webUrl: "https://www.tiogapublishing.com/news/nation/revolutionary-mind-reading-ai-system-can-turn-thoughts-into-text/article_cc3eaeeb-782f-56ee-b922-0b0b21d82f2a.html"
-    type: article
-    provider:
-      name: TiogaPublishing.com
-      domain: tiogapublishing.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/tiogapublishing.com/content/tncms/assets/v3/editorial/2/08/2084fc3d-36cb-54b9-94de-55e363d03457/65806d0067a66.image.jpg?crop=1500%2C788%2C0%2C168&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "3 Stocks Leading the Quantum Computing Revolution"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In recent times, the fascination with quantum computing has surged, driven by"
-    publishedDateTime: 2023-12-15T10:20:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-stocks-leading-the-quantum-computing-revolution-1032904252"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
-  - title: "Make your smart cameras even smarter with Tangent Solutions and Cogniac’s Revolutionary AI Computer Vision Platform"
-    excerpt: "In partnership with Cisco Meraki and Cogniac, Tangent Solutions is at the forefront of offering smart cameras that offer powerful assets for businesses seeking further efficiency and innovation. Thanks to these technologies, we now live in a world where AI transforms cameras into strategic business tools."
-    publishedDateTime: 2023-12-18T04:20:00Z
-    webUrl: "https://mybroadband.co.za/news/industrynews/519997-make-your-smart-cameras-even-smarter-with-tangent-solutions-and-cogniacs-revolutionary-ai-computer-vision-platform.html"
-    ampWebUrl: "https://mybroadband.co.za/news/industrynews/519997-make-your-smart-cameras-even-smarter-with-tangent-solutions-and-cogniacs-revolutionary-ai-computer-vision-platform.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/industrynews/519997-make-your-smart-cameras-even-smarter-with-tangent-solutions-and-cogniacs-revolutionary-ai-computer-vision-platform.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 32
   - title: "Artificial intelligence is revolutionizing medical research"
     excerpt: "Artificial Intelligence (AI ... Once AI can de-code how speech is generated within the neural network, Greger envisions that patients will be able to mentally “speak” and have those thoughts translated, again by AI, into actual language."
     publishedDateTime: 2023-12-15T00:00:00Z
@@ -91,15 +75,6 @@ related:
       name: Nanowerk
       domain: nanowerk.com
     quality: 21
-  - title: "How Publishers Can Navigate the AI Revolution"
-    excerpt: "Despite the hype, publishing is still looking at what impact large language models and similar technology may bring."
-    publishedDateTime: 2023-12-16T01:22:00Z
-    webUrl: "https://www.publishersweekly.com/pw/by-topic/digital/content-and-e-books/article/93963-how-publishers-can-navigate-the-ai-revolution.html"
-    type: article
-    provider:
-      name: Publishers Weekly
-      domain: publishersweekly.com
-    quality: 19
 
 secured: "Z2teS6MGjvEGdqMLQuj/5G7n5+KNUsG5AoC0pgjJvsL43BEevCSYKc/Oa5iFfWUQx8J1Z/PKRL3MBkJA95xdjDJQcdKZmeQJe32K/JSIbBVtvNEE9CMLfwG6Jjebpy8eLpogid0vO3pjJ5y2JhSQpyul7ITBAO4pSVRfBCoAYf9FmVooZDiTUzQcg5p9a9qDi7MFQ/0Ye9aFwhTw5Y+/MlDORaFpOPSjtrokAO/B7M5rz32VYc8yNiEeV6JjYMhRte8dGxQjdYZ0TXGCKZiJW5oIp2AT2eqhb69gr+cgg1cNIyFBtOEWEZm3HPt0VZW1QanMHncJtuubT7jauRWoHu9HRXrSlzI801XfJ33P/LwaHTs1qSyycMNzZ/wZGHCNvvPSWg5+0QwXzXcrshdSiVAvxcy2kdQvQlENNll2YjcUaoDokM0HB6eBa0SHa6qRCzoiNDP2sCXKYBG9JVULLyk+2cfgHzY1q0FVa9aWnzjoeV6nAyJFZ54TWwhABKTv/Re8SvpGNeuVtAn2/16lZw==;rl+XSOETEoGztIiZOU2bFg=="
 ---

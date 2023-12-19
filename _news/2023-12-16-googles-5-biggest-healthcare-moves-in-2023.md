@@ -117,15 +117,6 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 51
-  - title: "Google announces AI uses for health care market"
-    excerpt: "Google LLC announced its latest foray into artificial intelligence Wednesday with the debut of MedLM, a suite of new health care-focused large language models (LLMs) tools. Alphabet Inc. (Nasdaq: GOOGL)-owned Google has been testing the AI platform with ..."
-    publishedDateTime: 2023-12-14T00:01:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2023/12/14/google-announces-ai-uses-for-health-care-market.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "gSd6zWjC3ynyKaS/hYF9QRGJsi63HYKW7m35H0sSTZRfAh4RSeo7bPgOPf/LI2BjwuAKds9eF7LEvxTkrIs5iXTf9IB0gbutzy7QiVuvmHADignHpLGsj2OmjyRi4vg0WxVxYjCnH/9LGPjE9YGYc40GYAr0wVcKjPaDddb8ntK7MT6MxaUljdsOmwyVzdz5/DtvAsJrKlYGz606Xd5+Q1+E72mUw+3V9qeetAFGEM04tAFgg0ghM3s3EY9SS7idC8iOQJslAe6f/ga/cE7hhXi8tGcP9ArMe1KNQY1JF/WXAeOSYEpUQDpmmSXTGwJwCOcP0oH0HYbRjwqGcDMftcYFmjXRKnu6L05l18ZaxPQ=;1pJoyLo8RbfXZlTZAPFr2A=="
 ---

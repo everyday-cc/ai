@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Draft details of proposed Facial Recognition Technology Bill set to be published"
-    excerpt: "The outline of legislation which would allow gardaí to use Facial Recognition Technology (FRT) will be published today. Justice Minister Helen McEntee this week received Cabinet approval for the draft Facial Recognition Technology Bill. In the aftermath ..."
-    publishedDateTime: 2023-12-14T00:01:00Z
-    webUrl: "https://www.rte.ie/news/ireland/2023/1214/1421890-facial-recognition/"
-    type: article
-    provider:
-      name: RTE Online
-      domain: www.rte.ie
-    quality: 49
-    images:
-      - url: "https://img.rasset.ie/001be4a5-1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Draft law on facial recognition technology to be published"
     excerpt: "Bill will help gardaí trawl through thousands of hours of CCTV when investigating serious crimes, Helen McEntee says"
     publishedDateTime: 2023-12-14T10:15:00Z
@@ -94,20 +80,6 @@ related:
       - url: "https://imengine.public.prod.sbp.infomaker.io?uuid=249c1420-af22-597e-9e71-beff73204c2e&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.60322&width=1200&height=675&x=1.0E-5&y=0.19839"
         width: 1200
         height: 675
-        isCached: true
-  - title: "McEntee receives Cabinet approval for draft legislation for facial recognition technology"
-    excerpt: "The legislation will allow An Garda Síochána to use biometric identification to retrospectively search CCTV in some circumstances."
-    publishedDateTime: 2023-12-14T00:10:00Z
-    webUrl: "https://www.thejournal.ie/cabinet-approves-draft-legislation-facial-recognition-technology-6248686-Dec2023/"
-    type: article
-    provider:
-      name: TheJournal.ie
-      domain: thejournal.ie
-    quality: 30
-    images:
-      - url: "https://img2.thejournal.ie/article/6248686/river/?height=400&version=6248713"
-        width: 613
-        height: 400
         isCached: true
   - title: "Dublin riots: McEntee publishes draft law on facial recognition tech"
     excerpt: "Minister for Justice Helen McEntee has published a draft bill on the use of facial recognition technology by An Garda Síochána."

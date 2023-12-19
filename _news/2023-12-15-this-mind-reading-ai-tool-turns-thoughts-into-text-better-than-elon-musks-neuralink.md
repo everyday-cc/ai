@@ -9,8 +9,8 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/this-mind-reading-ai-t
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/this-mind-reading-ai-tool-turns-thoughts-into-text-better-than-elon-musks-neuralink-71702631072655.html"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: Hindustan Times Tech
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Revolutionary mind-reading AI system can turn thoughts into text"
+    excerpt: "People's thoughts can be turned into text in a world-first using artificial intelligence. The mindreading portable technology could aid communication for people who are unable to speak due to illness or injury,"
+    publishedDateTime: 2023-12-18T14:42:00Z
+    webUrl: "https://www.tiogapublishing.com/news/nation/revolutionary-mind-reading-ai-system-can-turn-thoughts-into-text/article_cc3eaeeb-782f-56ee-b922-0b0b21d82f2a.html"
+    type: article
+    provider:
+      name: TiogaPublishing.com
+      domain: tiogapublishing.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/tiogapublishing.com/content/tncms/assets/v3/editorial/2/08/2084fc3d-36cb-54b9-94de-55e363d03457/65806d0067a66.image.jpg?crop=1500%2C788%2C0%2C168&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "New Cap Uses AI to ‘Read Minds’ and Convert Thoughts to Text"
     excerpt: "Unlike most 'mind-reading' technologies, this one doesn't involve eye tracking or a surgically implanted brain chip."
     publishedDateTime: 2023-12-14T13:10:00Z

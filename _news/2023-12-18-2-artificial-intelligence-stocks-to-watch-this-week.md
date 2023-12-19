@@ -7,7 +7,7 @@ originalUrl: "https://www.nasdaq.com/articles/2-artificial-intelligence-stocks-t
 webUrl: "https://www.nasdaq.com/articles/2-artificial-intelligence-stocks-to-watch-this-week"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,44 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "3 AI Stocks Poised for Explosive Growth in 2024"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Businesses and consumers have used artificial intelligence (AI) before 2023,"
+    publishedDateTime: 2023-12-18T20:55:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-poised-for-explosive-growth-in-2024-1032910289"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
+  - title: "C3.ai Stock Alert: Should You Invest Before 2023 Ends?"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Founded in 2009, C3.ai (NYSE:AI) aims to empower businesses with artificial"
+    publishedDateTime: 2023-12-15T01:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/c3-ai-stock-alert-should-you-invest-before-2023-ends-1032903122"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "How AI’s Explosive Growth Opened Up The World For The Blind In 2023"
+    excerpt: "AI and people living with sight loss have experienced significant gains from this seismic technological shift."
+    publishedDateTime: 2023-12-15T13:07:00Z
+    webUrl: "https://www.forbes.com/sites/gusalexiou/2023/12/15/how-ais-explosive-growth-opened-up-the-world-for-the-blind-in-2023/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "AI Meets Biotech: 3 Top Stocks Transforming Medical Science"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips One of the biggest stories of the year has been the rise of AI in every"
+    publishedDateTime: 2023-12-16T18:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-meets-biotech-3-top-stocks-transforming-medical-science-1032906556"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "hcHdbsU6RuOXGlBKzEhFAVynoS1tMoQG+r7t6IyiIqK9uLeYE01AsPscu7nUXFsrhS3976NvZcr6CVRZ9IkNwS/AfLVjBHewDT6ak3q9Hs5JQZR2Qrh7aHt445f1h03TCSIJomeAX0bIN3EAPJZmFnuBGaNZSHFk4uFUHrRAqLNE8iQZMUrpTtQU0CXv0CKv/YB69BXnjiHbefudKolz1NBDkVZxa6nH2vvNIqNw/6wzD6LNGEML1I/EE1L/HpYn5OR1759Gsm4Djiz6RrXA0hPJYm4BcH3vC8Zsjwxwglsjbzwa1vpHe4YJvQgZAhneXw0XkjfmDa81AZ8nnvJ8UaGgoS37BRgg4RvlJhWtIF8=;1AT5vGONZF8+NcbxrZpxJA=="
 ---

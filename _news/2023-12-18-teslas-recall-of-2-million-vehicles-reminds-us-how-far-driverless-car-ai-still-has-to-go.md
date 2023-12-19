@@ -7,7 +7,7 @@ originalUrl: "https://www.econotimes.com/Teslas-recall-of-2-million-vehicles-rem
 webUrl: "https://www.econotimes.com/Teslas-recall-of-2-million-vehicles-reminds-us-how-far-driverless-car-AI-still-has-to-go-1667962"
 type: article
 quality: 60
-heat: 83
+heat: 106
 published: true
 
 provider:
@@ -48,6 +48,34 @@ related:
       name: The Conversation
       domain: theconversation.com
     quality: 40
+  - title: "Tesla ‘recalls’ 2m cars over self-driving feature"
+    excerpt: "Chronically bad drivers could be blocked from using Tesla’s Autosteer feature after US road safety authorities forced the electric vehicle maker to issue a ‘recall’ that will improve the feature on all of the more than 2 million cars it has sold in the US and Canada since 2012."
+    publishedDateTime: 2023-12-14T02:37:00Z
+    webUrl: "https://ia.acs.org.au/article/2023/tesla--recalls--2m-cars-over-self-driving-feature.html"
+    type: article
+    provider:
+      name: ia.acs
+      domain: acs.org.au
+    quality: 39
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/tesla%20self%20driving%20update.jpg"
+        width: 1000
+        height: 563
+        isCached: true
+  - title: "Tesla Recalls Two Million Self-Driving Cars Due to Autopilot-Related Accidents"
+    excerpt: "ALBAWABA - Tesla sent a letter to the National Highway Traffic Safety Administration, recalling two million of its self-driving cars due to the Autopilo"
+    publishedDateTime: 2023-12-18T08:15:00Z
+    webUrl: "https://www.albawaba.com/business/tesla-recalls-two-million-self-driving-cars-due-autopilot-related-accidents-1545503"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 35
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2023-12/Tesla%20Recalls%20Two%20Million%20Self-Driving%20Cars%20Due%20to%20Autopilot-Related%20Accidents.jpeg?itok=Ej2lxW7R"
+        width: 680
+        height: 425
+        isCached: true
 
 secured: "gChIlOq4VI8xES4w6iWBRQ04FeX18ig2/w2WqRIJK/o7/2cZx0LXmQYTMzPBAXGr7DBgGmMgg5tzHBNMsISTW/6LHGJ35EEjqiLggy1+tA2i71mkroLbvtVp1Ms5OjFc+Ewvdg80jyngqYsmHDeB07AjVTj1cIOIR6Xcv2Jo1z7us7cCPmbsMM2RmHC8rUZSzBTfueuvbRvqRg8/In6zumv05XPC35Xq1l7tTr15HmrGJ3LvYPR6IK0iN6kV4yQ38L2QO+Fgu2HNa7rF7Z2PWAgKzbbxEQwmQOevGKujJCwOweUpzs2SZE/xHdCZKuDI+MlpUt0APwi94QnFQjmAtCq2rT6WbVw3zK57b1/en3Ma9JjGA5G78Kfw9DRaxnsKG/s2jP5U7XlpeihgOtZ3uoY4OVpywM9jUKTdMrBe/Vh6iHJQdUTbSj4CsUhfmal1swHzBONef48O2zsanw5jwQ4gfcAEXr+O+WybOxLjLWVX/SUrZR3N/sLxDCTZxE7Da1yDZlnumz3vmWAejXWKcA==;MfwfAdyfMJdhE4CkjmvPWg=="
 ---

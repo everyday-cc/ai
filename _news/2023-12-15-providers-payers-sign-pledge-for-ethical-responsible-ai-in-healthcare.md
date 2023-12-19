@@ -117,15 +117,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Google announces AI uses for health care market"
-    excerpt: "Google LLC announced its latest foray into artificial intelligence Wednesday with the debut of MedLM, a suite of new health care-focused large language models (LLMs) tools. Alphabet Inc. (Nasdaq: GOOGL)-owned Google has been testing the AI platform with ..."
-    publishedDateTime: 2023-12-14T00:01:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2023/12/14/google-announces-ai-uses-for-health-care-market.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "ODer2ABET/cNnZpc08x7RqbNs6UD/Ggj1xeqlG9yLWRADIRitgT7IWaXFxufFKf1Sd18NjA3odb4GcGoWMt1MRjl6LPFL7kI/6e+mMqgqJvFuxN2PAPciMk+d8prwS0GYSFeg18O/woyj5hcq1pOVbYYiUDHTlqIDBgoGCQsfMuRGN4f5zvKS0+f9TsX9MJbkGziZyZyRVoYELztGQaW6LXTPrVeMgqF874FyKM4XpmNSzsDukAIvKtIuyDaO0jTDVt9N3dXJNsKNKqsY5VNw7v9oANCE35rTUsjXw/6e0Ss8FMrekMPrDieZ1RZ0XPF5J4IMIR9s82o/QRM7oQBz9RBOqR8UoMWk8yVE4L1J1svsmIXVt3ZH3Bc2fPxPnfWM1aQSo8fF6M9M1md0XNJhG+ZNEJiHlKQE3tLDQ8UW4wnTY84NUaZN5ojztb+wv9xzXuHtUughWpr/7R1pqN/FzZQuzYtGcLWlIS5M3OBO549ydAoGZvLxJfAVVS5Uvi/vlZaUMhXBIXbIq1+TTGoJQ==;n5iuh1FrxVvYr4x5pEdHhQ=="
 ---

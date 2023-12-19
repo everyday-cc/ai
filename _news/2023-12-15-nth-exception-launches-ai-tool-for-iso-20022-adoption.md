@@ -53,6 +53,15 @@ related:
       name: Ad Age
       domain: adage.com
     quality: 25
+  - title: "How Publishers Can Navigate the AI Revolution"
+    excerpt: "Despite the hype, publishing is still looking at what impact large language models and similar technology may bring."
+    publishedDateTime: 2023-12-16T01:22:00Z
+    webUrl: "https://www.publishersweekly.com/pw/by-topic/digital/content-and-e-books/article/93963-how-publishers-can-navigate-the-ai-revolution.html"
+    type: article
+    provider:
+      name: Publishers Weekly
+      domain: publishersweekly.com
+    quality: 19
 
 secured: "s91iS0CAIc52/e/8d2KjgGQyOzqoAADY1CyH6E7iKECvqsp2IVmuWoP1NaTyKN1RN4OX6SS4R+KW9WjBnBvZn/k/kPOlTwbSRhZkty5NjLsanIlpXGm5SfrhcjTHtQzIhO6Tkjz2zLk6KilP89MAgGCUWkTbG3IKFZNWFVp/i5hFgRwxGX2Y6m4tBxnSZYBZqYcEOFO9z6IEA3KD4BaIx/U4aJSPw8PFT368693mvUz3NkbpcsOqthVGMbcITWKSDH2rYa5vNBRc/5IcMMJLc8ZNaAqWToJEkud39H/W2MPsR5tKGomzHBJusDmXUIQAt7auDid4asHIpl5PRR/Urv8jL3GWVdpI3mRLsHX7nyPVQeKCJ3UGn3hr3HGnu6hffwJwDMZPZljlOFehn838LZXZTZ/JcfrX6J6VVSpjkrDfm/SOmKwIqUfYHqglpxW7F5NDTmikOf15+gfNNOEOX3U58874kRuTNS33qj+rID01+WcYIi9JlvU18omksr22X5fbXr1nXJGdFAwYtpROUQ==;kyWBA517Vjl+comeNsYMdQ=="
 ---

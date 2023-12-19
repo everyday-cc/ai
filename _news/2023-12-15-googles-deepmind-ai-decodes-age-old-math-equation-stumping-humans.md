@@ -78,34 +78,6 @@ related:
         width: 1500
         height: 1000
         isCached: true
-  - title: "DeepMind AI outdoes human mathematicians on unsolved problem"
-    excerpt: "“This is the first time anyone has shown that an LLM-based system can go beyond what was known by mathematicians and computer scientists,” says Pushmeet Kohli, a computer scientist who heads the AI for Science team at Google Deepmind in London. “It’s not just novel, it’s more effective than anything else that exists today.”"
-    publishedDateTime: 2023-12-14T00:01:00Z
-    webUrl: "https://www.nature.com/articles/d41586-023-04043-w"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 54
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-04043-w/d41586-023-04043-w_26526884.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "DeepMind AI with built-in fact-checker makes mathematical discoveries"
-    excerpt: "Google DeepMind claims to have made the first ever scientific discovery with an AI chatbot by building a fact-checker to filter out useless outputs, leaving only reliable solutions to mathematical ..."
-    publishedDateTime: 2023-12-14T00:01:00Z
-    webUrl: "https://www.newscientist.com/article/2407897-deepmind-ai-with-built-in-fact-checker-makes-mathematical-discoveries/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 54
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/12/14114531/SEI_184047213.jpg"
-        width: 1350
-        height: 900
-        isCached: true
 
 secured: "fi33dH6K/9pii5h4pf43t19unHUeDjG5p493LM8GU1po/gx40xAzM+m5AWWaeWL2TWyU8MAPKnwxZYDczAPLuE4/B4Sj8ZZdUc9QvjXrhZ7ntT2dkTi3FGlnjBzDSakLj/E068eRQHFlF1DAqe+f/6VJ59BMlhuPyNhJUteI4xomqQGKVWEoFyIDHK01TDozzEIoBQ18dlKlzfwb2zfHfUsx67in8C/DElNDBin46WZnOm0hNljMVz/lKK0LzSiiWBlRoovaetbrFGBPpaHeQW7nZN2TIFEHQOIeg92I07OLKjjSvI71J0CUWQ2hKhCgalP0At33/YtdCX165PRRsFFA8YCE6fS1EBDjbNuV1CU=;xU4in/5wazMdHZKvNR4WiA=="
 ---

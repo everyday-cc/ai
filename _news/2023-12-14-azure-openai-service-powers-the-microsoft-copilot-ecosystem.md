@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/blog/azure-openai-service-powers
 webUrl: "https://azure.microsoft.com/en-us/blog/azure-openai-service-powers-the-microsoft-copilot-ecosystem/"
 type: article
 quality: 119
-heat: 199
+heat: 189
 published: true
 
 provider:
@@ -122,20 +122,6 @@ related:
       - url: "https://tii.imgix.net/production/articles/11919/147875d6-e89c-42b3-83fe-4760752a7e13.png?fm=jpg&auto=compress&w=1200&frame=0"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Autopilot's new AI integrates into Microsoft Teams and Copilot"
-    excerpt: "AI-powered, format-agnostic document data extraction allows ... They were an early adopter into Microsoft Azure, building straight into the cloud as early as 2014, while competitors were still battling with on-prem solutions. They were also early adopters ..."
-    publishedDateTime: 2023-12-14T00:01:00Z
-    webUrl: "https://www.bizcommunity.com/Article/196/542/244643.html"
-    type: article
-    provider:
-      name: Bizcommunity
-      domain: bizcommunity.com
-    quality: 54
-    images:
-      - url: "https://biz-file.com/c/2312/722697-848x441.jpg?2"
-        width: 848
-        height: 441
         isCached: true
 
 secured: "+amEXoM2WfuYdrI5IQwJ+7BE20Bb1/ZiBUeBYodUJEWZ05yAgs/KdzVsDszwVmjM339YhbbLA5R1VnlPT7720YQu1jgbYSxRzQJvAiRjejtBDbEbqGo0pDLk9GgIRFds8ixIdpqX41rNJuN53DEFLbq3TBtYpwi1osp88wcbAEniqD8U/U9cXiKQcwJj5re5lHUGSjTbg5+xJ3wqU2u7rHnSIEiiimOh9dtN3YLP8O9cFF2B7O9XNyT2gtcaBOOzgAzRUCGT2Ei2pleOtr8y2MWNhzSaxlbUsHhTLiy9BYWA+NLzg46JeKilAbaXcf59zUQ6dKcyNPhDu5TuBLPJHmU1uqsuTaAdxD+hu9eF/iU=;tNoSVi0WKA5/DZirOh8FYQ=="

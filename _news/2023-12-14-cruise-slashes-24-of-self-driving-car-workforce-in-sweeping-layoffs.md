@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/12/14/cruise-slashes-24-of-self-driving-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/14/cruise-slashes-24-of-self-driving-car-workforce-in-sweeping-layoffs/amp/"
 type: article
 quality: 74
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -103,15 +103,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "GM's Cruise fires 9 leaders amid ongoing self-driving investigation"
-    excerpt: "General Motors subsidiary Cruise fired nine employees Wednesday as a result an ongoing investigation into an Oct. 2 self-driving crash involving a pedestrian and the company's subsequent actions."
-    publishedDateTime: 2023-12-13T23:11:00Z
-    webUrl: "https://www.autonews.com/mobility-report/gms-cruise-fires-9-leaders-amid-self-driving-crisis"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 4
   - title: "GM’s moonshot bet on self-driving cars sours as Cruise axes a quarter of its workforce"
     excerpt: "Mary Barra, CEO of GM, had hoped to haul in $50 billion in annual revenue in 2030 through the company, but has since had to revise her plans as a result of the crisis. Plans to expand beyond San Francisco into a dozen cities have now been scrapped to focus on just the one."
     publishedDateTime: 2023-12-15T14:33:00Z

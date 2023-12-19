@@ -48,6 +48,34 @@ related:
       name: The Conversation
       domain: theconversation.com
     quality: 40
+  - title: "Tesla ‘recalls’ 2m cars over self-driving feature"
+    excerpt: "Chronically bad drivers could be blocked from using Tesla’s Autosteer feature after US road safety authorities forced the electric vehicle maker to issue a ‘recall’ that will improve the feature on all of the more than 2 million cars it has sold in the US and Canada since 2012."
+    publishedDateTime: 2023-12-14T02:37:00Z
+    webUrl: "https://ia.acs.org.au/article/2023/tesla--recalls--2m-cars-over-self-driving-feature.html"
+    type: article
+    provider:
+      name: ia.acs
+      domain: acs.org.au
+    quality: 39
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/tesla%20self%20driving%20update.jpg"
+        width: 1000
+        height: 563
+        isCached: true
+  - title: "Tesla Recalls Two Million Self-Driving Cars Due to Autopilot-Related Accidents"
+    excerpt: "ALBAWABA - Tesla sent a letter to the National Highway Traffic Safety Administration, recalling two million of its self-driving cars due to the Autopilo"
+    publishedDateTime: 2023-12-18T08:15:00Z
+    webUrl: "https://www.albawaba.com/business/tesla-recalls-two-million-self-driving-cars-due-autopilot-related-accidents-1545503"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 35
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2023-12/Tesla%20Recalls%20Two%20Million%20Self-Driving%20Cars%20Due%20to%20Autopilot-Related%20Accidents.jpeg?itok=Ej2lxW7R"
+        width: 680
+        height: 425
+        isCached: true
 
 secured: "BOcK/5kaeGjAyPl0gCPmtkIcC18nSH/DcBAlyeogb/lfny7WvwqURFD2U+0ccsju7Cf+oSoFZ3GerssVs5uGY9hTXwhwl3FOjNGL/j0AS/UabSQL08CFdKiiI8XLZiCJBthpxDWPCtQ2iO9LFiHPZv2tkL2KYdrE5ovSc5wJcReOI7p6nfR+lkqJSJNjXASNo7AIQ30z5qXNm43cjTdzm9mEv8bzpi5ETOg7SrsSgUq/3UmWEPbi3/BmIY3BvvP3J3bqVMg+Kr/u4LnanKO7LJOpGeKQV2yMPPMolmiZK3QHuoVyGun7KHnb0R2Elu/swKsel58QreWDM0dt1/jLSAcWJUTijg3+oJIbJhmUX20MRiQ5wWQOIL7Ybsvf6qSPiL5/N5DTP0RMkA5cb0sI+7WIjQSAZJzPsDesa+tGRQl5ceqJLLo72kNk4nbHcaSP9aFKpTqe7ysw3voL7lufB6c5OnVTkrotEAu0HIRetCoRj8np/Z4c+g3ptkFZscemhQy2kz7WGGgrh0BimtZi/A==;vCiN0LgFA5Kx27QdNnkq4w=="
 ---

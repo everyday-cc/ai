@@ -19,88 +19,49 @@ topics:
   - AI
 
 related:
-  - title: "Why Fear The Artificial Intelligence Revolution?"
-    excerpt: "Artificial intelligence can be used to create interesting and useful tools, but it is not capable of spontaneously learning a new task or having any desire or emotion."
-    publishedDateTime: 2023-12-18T10:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/18/why-fear-the-artificial-intelligence-revolution/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/18/why-fear-the-artificial-intelligence-revolution/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/18/why-fear-the-artificial-intelligence-revolution/amp/"
+  - title: "The Time To Formalize An Approach To AI Adoption Is Now"
+    excerpt: "Ignoring the potential of AI and clinging to conventional methods can result in missed opportunities and a loss of competitiveness in today's market."
+    publishedDateTime: 2023-12-14T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/12/14/the-time-to-formalize-an-approach-to-ai-adoption-is-now/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/12/14/the-time-to-formalize-an-approach-to-ai-adoption-is-now/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/12/14/the-time-to-formalize-an-approach-to-ai-adoption-is-now/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65526feb3a6e3881ea5e73ab/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1351
+      - url: "https://imageio.forbes.com/specials-images/imageserve/60aebd253bb898555bf94d92/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
         height: 900
         isCached: true
-  - title: "Amdocs Revolutionising Telecom with Generative AI"
-    excerpt: "Amdocs' partnerships with NVIDIA, and Microsoft Azure entails customisation of enterprise-grade AI framework for telcos."
-    publishedDateTime: 2023-12-18T06:44:00Z
-    webUrl: "https://analyticsindiamag.com/amdocs-revolutionising-telecom-with-generative-ai/"
+  - title: "Unleashing The Power Of AI: How An AI Council Can Help Drive Business Transformation"
+    excerpt: "Having an internal body comprised of experts with a comprehensive understanding of AI and its potential can mitigate challenges and drive successful AI implementation."
+    publishedDateTime: 2023-12-14T12:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/14/unleashing-the-power-of-ai-how-an-ai-council-can-help-drive-business-transformation/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/12/unnamed-44.jpg"
-        width: 512
-        height: 288
-        isCached: true
-  - title: "Revolutionary mind-reading AI system can turn thoughts into text"
-    excerpt: "People's thoughts can be turned into text in a world-first using artificial intelligence. The mindreading portable technology could aid communication for people who are unable to speak due to illness or injury,"
-    publishedDateTime: 2023-12-18T14:42:00Z
-    webUrl: "https://www.tiogapublishing.com/news/nation/revolutionary-mind-reading-ai-system-can-turn-thoughts-into-text/article_cc3eaeeb-782f-56ee-b922-0b0b21d82f2a.html"
+      name: Forbes
+      domain: forbes.com
+    quality: 42
+  - title: "Love in the time of artificial intelligence: Desperately seeking the human-AI connection"
+    excerpt: "If AI dredges up apocalyptic fears that it will corrode human connections irreparably, maybe the best solution is to ask another informed human being."
+    publishedDateTime: 2023-12-18T14:01:00Z
+    webUrl: "https://adage.com/article/digital-marketing-ad-tech-news/love-time-artificial-intelligence-desperately-seeking-human-ai-connection/2533936"
     type: article
     provider:
-      name: TiogaPublishing.com
-      domain: tiogapublishing.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/tiogapublishing.com/content/tncms/assets/v3/editorial/2/08/2084fc3d-36cb-54b9-94de-55e363d03457/65806d0067a66.image.jpg?crop=1500%2C788%2C0%2C168&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "3 Stocks Leading the Quantum Computing Revolution"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In recent times, the fascination with quantum computing has surged, driven by"
-    publishedDateTime: 2023-12-15T10:20:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-stocks-leading-the-quantum-computing-revolution-1032904252"
+      name: Ad Age
+      domain: adage.com
+    quality: 25
+  - title: "Nth Exception launches AI tool for ISO 20022 adoption"
+    excerpt: "London-based fintech Nth Exception has launched Nucleus, a machine learning data fabric to ease financial institutions into ISO 20022 adoption."
+    publishedDateTime: 2023-12-15T11:06:00Z
+    webUrl: "https://www.finextra.com/newsarticle/43442/nth-exception-launches-ai-tool-for-iso-20022-adoption"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
-  - title: "Make your smart cameras even smarter with Tangent Solutions and Cogniac’s Revolutionary AI Computer Vision Platform"
-    excerpt: "In partnership with Cisco Meraki and Cogniac, Tangent Solutions is at the forefront of offering smart cameras that offer powerful assets for businesses seeking further efficiency and innovation. Thanks to these technologies, we now live in a world where AI transforms cameras into strategic business tools."
-    publishedDateTime: 2023-12-18T04:20:00Z
-    webUrl: "https://mybroadband.co.za/news/industrynews/519997-make-your-smart-cameras-even-smarter-with-tangent-solutions-and-cogniacs-revolutionary-ai-computer-vision-platform.html"
-    ampWebUrl: "https://mybroadband.co.za/news/industrynews/519997-make-your-smart-cameras-even-smarter-with-tangent-solutions-and-cogniacs-revolutionary-ai-computer-vision-platform.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/industrynews/519997-make-your-smart-cameras-even-smarter-with-tangent-solutions-and-cogniacs-revolutionary-ai-computer-vision-platform.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 32
-  - title: "Artificial intelligence is revolutionizing medical research"
-    excerpt: "Artificial Intelligence (AI ... Once AI can de-code how speech is generated within the neural network, Greger envisions that patients will be able to mentally “speak” and have those thoughts translated, again by AI, into actual language."
-    publishedDateTime: 2023-12-15T00:00:00Z
-    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=64265.php"
-    type: article
-    provider:
-      name: Nanowerk
-      domain: nanowerk.com
-    quality: 21
-  - title: "The Evolution: Google’s Artificial Intelligence and Its Impact on Virtual Assistants"
-    excerpt: "Introduction: In the dynamic landscape of technology, one phenomenon has emerged as a trailblazer, shaping the way we interact with information – Google’s Artificial Intelligence (AI). This transformative force has left an indelible mark,"
-    publishedDateTime: 2023-12-15T14:44:00Z
-    webUrl: "https://techbullion.com/the-evolution-googles-artificial-intelligence-and-its-impact-on-virtual-assistants/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 10
+      name: Finextra
+      domain: finextra.com
+    quality: 19
 
 secured: "oiLWJ9Sa+wPDbixRBb7jIzYzxf2FnFarFUyNPuLWVeF2T3Jn7yid2aw8e3kwtihaZ6XYjjQNsRJQDMjeIt/dku0uCOl+0pCN+1sl2OcHE5uhk8fbSioHD5FhQ/cJBgKuoQQSDAocRKKi/yrRHFiQ4vwuydH1XpV+9ziWoPX2EaozSUKaGzRL0An7qhdwOP0CtSHrpvc6ACpzjKVRPI+HRP2YwIExbQxbDwvAzvTX6v8nfvV2ss0jK8wmBnYhXO+pBSWThgQ7WQ9KrWZE729kO6asoj6eAZQkNQPuQ+4i4DAJbjJcRkbVK7pqC5BJuj7e+RaIZK3mxneaHzpSQBMjTOTkIqrMoC8k6zMa1vpu43YjUc/7j/IDrHlh/3HfUWroE/8gDVkIQZBqWoW4mClcu5+PfCm5gyxXEOTKKa5uwkHpp/qbc7i4k1IwrTFKZsBamG+vBr8X6n+hQum0xY5hdcblVLZg7WlZk25rxtwQCJGCJzFxuYJvh4ySPkyMooQlvRVvYVlCCB+0Hvb6wbuN0g==;IkDpkzjaxOWFX30qov7vTQ=="
 ---

@@ -165,6 +165,20 @@ related:
       name: CRN
       domain: crn.com
     quality: 32
+  - title: "HP's new Omen Transcend 14 gaming laptop: Intel Core Ultra 9 185H CPU + RTX 4070 GPU"
+    excerpt: "HP's new Omen Transcend 14 features a 14-inch 2.8K (2880 x 1800) OLED panel at 120Hz, which will look absolutely gorgeous in person, and buttery smooth with its 240Hz refresh rate. The panel supports Variable Refresh Rate (VRR) in the 48-120Hz range, with HDR brightness of 500 nits and full DCI-P3 color gamut coverage."
+    publishedDateTime: 2023-12-18T23:40:00Z
+    webUrl: "https://www.tweaktown.com/news/95031/hps-new-omen-transcend-14-gaming-laptop-intel-core-ultra-9-185h-cpu-rtx-4070-gpu/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 32
+    images:
+      - url: "https://static.tweaktown.com/news/9/5/95031_602_hps-new-omen-transcend-144-gaming-laptop-intel-core-ultra-9-185h-cpu-rtx-4070-gpu_full.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
   - title: "GIGABYTE Introduces New AORUS 17 and AORUS 15 AI-Powered Gaming Laptops with Intel Core Ultra 7 Processors"
     excerpt: "GIGABYTE, the world's leading computer brand, proudly introduces the latest evolution in gaming laptops for 2024 - theAORUS 17 and AORUS 15 - delivering cutting-edge performance in their signature sleek and portable package."
     publishedDateTime: 2023-12-14T17:13:00Z

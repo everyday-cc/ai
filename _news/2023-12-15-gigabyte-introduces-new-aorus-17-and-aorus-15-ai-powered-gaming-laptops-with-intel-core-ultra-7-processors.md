@@ -175,6 +175,20 @@ related:
       name: CRN
       domain: crn.com
     quality: 32
+  - title: "HP's new Omen Transcend 14 gaming laptop: Intel Core Ultra 9 185H CPU + RTX 4070 GPU"
+    excerpt: "HP's new Omen Transcend 14 features a 14-inch 2.8K (2880 x 1800) OLED panel at 120Hz, which will look absolutely gorgeous in person, and buttery smooth with its 240Hz refresh rate. The panel supports Variable Refresh Rate (VRR) in the 48-120Hz range, with HDR brightness of 500 nits and full DCI-P3 color gamut coverage."
+    publishedDateTime: 2023-12-18T23:40:00Z
+    webUrl: "https://www.tweaktown.com/news/95031/hps-new-omen-transcend-14-gaming-laptop-intel-core-ultra-9-185h-cpu-rtx-4070-gpu/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 32
+    images:
+      - url: "https://static.tweaktown.com/news/9/5/95031_602_hps-new-omen-transcend-144-gaming-laptop-intel-core-ultra-9-185h-cpu-rtx-4070-gpu_full.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
   - title: "Acer Swift Go 14 AI ready OLED laptops powered Intel Core Ultra CPUs"
     excerpt: "The laptop market is set to become even more competitive with Acer's introduction of the AI-ready Swift Go 14 laptop, powered by Intel Core Ultra"
     publishedDateTime: 2023-12-15T12:45:00Z

@@ -2,11 +2,13 @@
 category: news
 title: "The AI Revolution in Therapy"
 excerpt: "Artificial intelligence (AI) has proven to be a powerful tool in the world of behavioral health, already aiding in assessments and enhancing therapy. This transformative technology helps healthcare providers deliver true value in their behavioral ..."
-publishedDateTime: 2023-12-18T16:57:00Z
-originalUrl: "https://www.psychologytoday.com/intl/blog/leadership-diversity-and-wellness/202312/the-ai-revolution-in-therapy"
-webUrl: "https://www.psychologytoday.com/intl/blog/leadership-diversity-and-wellness/202312/the-ai-revolution-in-therapy"
+publishedDateTime: 2023-12-18T17:11:00Z
+originalUrl: "https://www.psychologytoday.com/us/blog/leadership-diversity-and-wellness/202312/the-ai-revolution-in-therapy"
+webUrl: "https://www.psychologytoday.com/us/blog/leadership-diversity-and-wellness/202312/the-ai-revolution-in-therapy"
+ampWebUrl: "https://www.psychologytoday.com/us/blog/leadership-diversity-and-wellness/202312/the-ai-revolution-in-therapy?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/leadership-diversity-and-wellness/202312/the-ai-revolution-in-therapy?amp"
 type: article
-quality: 34
+quality: 74
 heat: -1
 published: false
 
@@ -18,35 +20,64 @@ topics:
   - AI in Healthcare
   - AI
 
+images:
+  - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-12/pexels-pixabay-373543.jpg?itok=wBzUJjRQ"
+    width: 1528
+    height: 800
+    isCached: true
+
 related:
-  - title: "5 things to know: Driving innovation with AI and hybrid cloud in the year ahead"
-    excerpt: "The rise of generative AI, evolving regulations and data sovereignty laws, and ongoing security challenges should be top of mind.\nThe post 5 things to know: Driving innovation with AI and hybrid cloud in the year ahead appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-12-18T17:13:44Z
-    webUrl: "https://www.ibm.com/blog/5-things-to-know-driving-innovation-with-ai-and-hybrid-cloud-in-the-year-ahead/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 95
-  - title: "EU’s Sweeping New AI Act Could Be An Innovation Killer"
-    excerpt: "The European Union's draft AI law emerges amidst rising concerns among EU member states that regulations could choke off innovation."
-    publishedDateTime: 2023-12-15T19:54:00Z
-    webUrl: "https://www.forbes.com/sites/jamesbroughel/2023/12/15/eus-sweeping-new-ai-act-could-be-an-innovation-killer/"
+  - title: "Tesla's AI Revolution: Morgan Stanley Predicts Explosive Growth"
+    excerpt: "Executives at Tesla TSLA +4.9% Inc. (TSLA) revealed last week new upgrades to Optimus, the firm’s bipedal robot. Morgan Stanley MS +0.6% researchers believe a Cambrian Explosion is near, leading to explosive growth for Tesla."
+    publishedDateTime: 2023-12-19T00:50:00Z
+    webUrl: "https://www.forbes.com/sites/jonmarkman/2023/12/18/teslas-ai-revolution-morgan-stanley-predicts-explosive-growth/"
+    ampWebUrl: "https://www.forbes.com/sites/jonmarkman/2023/12/18/teslas-ai-revolution-morgan-stanley-predicts-explosive-growth/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonmarkman/2023/12/18/teslas-ai-revolution-morgan-stanley-predicts-explosive-growth/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 47
-  - title: "Breathing new life into fight to save the seas with artificial intelligence"
-    excerpt: "It’s hard to imagine our planet without its oceans – their vast scale and depth, teeming with life. They’re also critical to tackling the climate crisis by storing vast quantities of carbon dioxide. But securing and expanding their stores of carbon depends on us being able to locate those stores and assess how healthy they are."
-    publishedDateTime: 2023-12-18T14:57:00Z
-    webUrl: "https://www.reuters.com/sustainability/land-use-biodiversity/breathing-new-life-into-fight-save-seas-with-artificial-intelligence-2023-12-18/"
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6580e6a412357727a23cd47a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
+  - title: "Why Fear The Artificial Intelligence Revolution?"
+    excerpt: "Artificial intelligence can be used to create interesting and useful tools, but it is not capable of spontaneously learning a new task or having any desire or emotion."
+    publishedDateTime: 2023-12-18T10:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/18/why-fear-the-artificial-intelligence-revolution/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/18/why-fear-the-artificial-intelligence-revolution/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/18/why-fear-the-artificial-intelligence-revolution/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 45
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65526feb3a6e3881ea5e73ab/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1351
+        height: 900
+        isCached: true
+  - title: "Artificial intelligence is revolutionizing medical research"
+    excerpt: "Artificial Intelligence (AI ... Once AI can de-code how speech is generated within the neural network, Greger envisions that patients will be able to mentally “speak” and have those thoughts translated, again by AI, into actual language."
+    publishedDateTime: 2023-12-15T00:00:00Z
+    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=64265.php"
+    type: article
+    provider:
+      name: Nanowerk
+      domain: nanowerk.com
+    quality: 21
+  - title: "The Evolution: Google’s Artificial Intelligence and Its Impact on Virtual Assistants"
+    excerpt: "Introduction: In the dynamic landscape of technology, one phenomenon has emerged as a trailblazer, shaping the way we interact with information – Google’s Artificial Intelligence (AI). This transformative force has left an indelible mark,"
+    publishedDateTime: 2023-12-15T14:44:00Z
+    webUrl: "https://techbullion.com/the-evolution-googles-artificial-intelligence-and-its-impact-on-virtual-assistants/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 10
 
-secured: "x6m3LrxY62VyDb+dF3Svpn3KRIy2bXudHxdxmLroQbS2QSLjMxWaOu3DV3teyCVVgIxd6S7YxFZFUf6eylNzS1QsTKbnh/lwT2XCH3oT27WySlS8TRAKnEHGiDaLLcjrgcGbi1V2Rik5w3rMd1TPG9E0eJ+wNZqRkWyI6wcJ7RACp4vy4oeiDUbi0+rghdQDQ5MxkHYhdgmsTj5ErRYLhJv/6ndOBwr9FaKSN+xnM/GoLQPyyuPbl51NDN3J9wD1twN9uoWXkVkmMZnGcDY9qqNFO59AHdEaSu1Z0ZbfloKBGQG3ovkJfnHQ3gPPFTk4DY4qdHMQpEfI+e0VChRmi9hvAM6c1dviHa4hB3rGcCg=;F1rM7PmMBVZPgyKuayHWvg=="
+secured: "WD9JAIkGgB2hMnBR1DU63enh6jogzzZZcVD8UJA5L+ZE+Y1RJ765Iga9AZ1W1PQuDffJ4bpIk/vmXvcUwX9+VBnEwJXnrK7kL/JABOwkizTo3y+9oHgPjnlsrEsondf1lzFmiXtwQQZwF2gHsg3KhI66kUS0FMi0pppaWGs5V7yTBQ2aFka6co7Na/UxH+I5qwwQCoX4wvx8fkbUbgK/mtC/PKgOKNE9mNloTYdMkJ0w/4ZgAJmg1K9rLPw+yWzHX+zCIp3BaK+xxHaUR2NXwyWsTcqeWUf7DjSaL+RSYeyVDfmSHicY2VCgpestK+K3LEXXrdG8RQnInpAyZlimEe/hu+cgIiU1EkL/y4yqkfs=;eloplHuSlinsT/EqaXo0gQ=="
 ---
 

@@ -38,6 +38,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "NVIDIA Launches China-Exclusive RTX 4090 D GPU Earlier Than Anticipated"
+    excerpt: "NVIDIAs China-Exclusive GeForce RTX 4090 D GPU appears to be making its way to players earlier than planned this month. NVIDIAs China-Exclusive GeForce RTX 4090 D GPU seems to be making its way to players earlier"
+    publishedDateTime: 2023-12-18T21:29:00Z
+    webUrl: "https://www.econotimes.com/NVIDIA-Launches-China-Exclusive-RTX-4090-D-GPU-Earlier-Than-Anticipated-1668176"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 39
+    images:
+      - url: "https://f1.econotimes.com/2023/12/y5nzm169rm_th_1024x0.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "+sqlCDJwUkTTrBchCyPhikvTzYQltLtWyIqOYM6/e5dztvi6fjk5QTYHz7OUWzgmuDsEcaztKcGwsrggv/Y/l7yXLaxNGiHEjXegPf5OlCcglj7pewils44l/b+PUpB3/Wlm+PHuvpUmY0ShLNOm/E1/MdiSXsk070RxlT5YfqVtcIF+VQXqF++evSFx4wkSXkxlfs4E6VugQARMuNncfTGG5khHmtZzCvicEgQgvW+ZrX7n4s/uBm1dP2UMFnjgsLrIfyoKJ9Nz+XRsTi+uZQ2CsuAubOknZeufzs5/M632t5VmJfdzS8Vqk3N4BVURB19daXb12U8w4QKLIMnIMg+PLGjgHXMTeN9xLsPsgeI=;/j/iXZ5F2V2PD+zs9w/ITg=="
 ---

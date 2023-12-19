@@ -41,22 +41,6 @@ related:
         width: 450
         height: 300
         isCached: true
-  - title: "Artificial Intelligence and Academic Tasks: What teachers, students need to know"
-    excerpt: "Artificial intelligence does not come with the options of “to be” or “not to be” in academia. If nothing, the intelligence that is included in the term makes it “a child of necessity ..."
-    publishedDateTime: 2023-12-14T00:01:00Z
-    webUrl: "https://www.vanguardngr.com/2023/12/artificial-intelligence-and-academic-tasks-what-teachers-students-need-to-know/"
-    ampWebUrl: "https://www.vanguardngr.com/2023/12/artificial-intelligence-and-academic-tasks-what-teachers-students-need-to-know/amp/"
-    cdnAmpWebUrl: "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2023/12/artificial-intelligence-and-academic-tasks-what-teachers-students-need-to-know/amp/"
-    type: article
-    provider:
-      name: Vanguard
-      domain: vanguardngr.com
-    quality: 56
-    images:
-      - url: "https://cdn.vanguardngr.com/wp-content/uploads/2021/02/GAB.gif"
-        width: 720
-        height: 718
-        isCached: true
 
 secured: "96F8n9JKx2y/Yo8lhT2G6yB1JMAvQlmZA2TRj2oxax3ClyADLCgkxHuwS/7WnkXw2/gwf2Nuq2hTHcEhp1WcCtt5VG6yS1EYT8UuZ96A93JhIz5rFAW1VMO34t8CYp2JtmFJUYLJFmlx2wVjaOq0mQfq0R2q6wEu16RLCV1BEVLlWOHeorq1z60JBvcezK7AmCqVeX6cgiZ0gzLzCEgs6YK7zCMybAM+R3P0Hirky2MPnXkFRYUXfrmc+ditSMk2rVlLV5blTBIqQznQ4ZTN11AHxa/k/Yd6iaZro7RMzRDC+rLjdxN4tO5k6rM+aF45XDAB24JajHFvIYcNWo4w6vjxSjo2Jq76EQ+H1GU1OcGwUtMBSQ49jdSTm4Yx1zdgX4O4KqRBQnlQvn799ZBovQGGrd+GDh939YKsVcGksII4uZshbcUUP9s4jErG/etWOw4qoC9WekwPA68LqU8531v63NDhbkJ+bhBJn8+7pC9HKPjGp3h5NOgCLCJyLvf/ChlSqwmqbyCLQeuKOCu9ag==;2F4SoUqxtxzrg84OsSm0EA=="
 ---

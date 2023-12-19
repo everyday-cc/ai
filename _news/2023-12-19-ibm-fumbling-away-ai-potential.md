@@ -41,6 +41,22 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Unlearning Trust In The Era Of AI"
+    excerpt: "With easy access to such technology, it is looking increasingly like if we don’t educate ourselves, the scammers will do it by victimizing us."
+    publishedDateTime: 2023-12-14T14:46:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/14/unlearning-trust-in-the-era-of-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/14/unlearning-trust-in-the-era-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/14/unlearning-trust-in-the-era-of-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63e292ad91acc2abf24c9763/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1092
+        height: 728
+        isCached: true
   - title: "The Pitfalls Of AI In B2B Tech Content"
     excerpt: "While businesses should be looking to responsibly and carefully work generative AI tools into their workflow, there are a few areas where the tech comes up short."
     publishedDateTime: 2023-12-18T11:45:00Z
@@ -97,6 +113,6 @@ related:
         height: 500
         isCached: true
 
-secured: "UneJCHCBXPQd180oX6Ka1cFu/ofjvBI4BrtsHhXLl+IUDl66jcEgs0OFVV7IjjMv/t8BTPuN/Bc1WmkvCNHSnCUdr/bRAp5420oh2xi6lOgTjFzs2sf/UKB8gPgAv++jLqzUlEkmBp2rJTLeUt/jTdg8JfYlR9KwkAKIhmfwFSFamnAmf+g3FqAszKgKf/AsvGqBTJCZHJEEU9tGVtBzFZ0DKFgkYr0W98MI+b05mF9eSfk0g/7ejf1VJ1tQIqwQ10MLxGIq4dq1Zlg5QH1BZp8CM2wzDaG7pjXp1q0vcUo2mOIAb0i+uJxoSsjW7Hp5a7H6CwqFQghDBZIi50DyEmd/bxffA56z5v0D090C6gM=;5OU/Dq9/52ctCAnDAZ2BVA=="
+secured: "tWppUZ7BVzGU3PHWSU9LyAms4S0ndPMPN0rCUwg1alG07yIb6H6sKYVXkhDmti5QRI97sbnMSYamLaa0bI0BvowlqFaziQaHFM80HdpwXNgl96i4WFKKjcXb8S0gRnVPP7Ol05AxclfF9vn0ueU1k9jRlkdrElPLI2TuKKQReA85UoHqOn+QEXpFwoZWgQmrGf7XzXp4ng0SvlC/lwuuh0mCXleki+lGHRBeFN2dUHR+PXsvsrvyJnhRwBZyk5A9IsR3BQ6Q8WHCqMz7yP1qcAZMDpsUtqC70cNcxLUhxI0K1REEOiwuueV6b+w20BSUjfGT9SfDMKOZ0fdpSA+uHmccBZgZxfvyZKwi43h/mDorvCPO0fPcvM7lNdk662tmgmN9qM33K9urYG/AGpcnJsS7g3TuC2m1Pa5JXdJ7zvaGxcac3dZZfhgLQb7xy1K3vAf/K4Su8xc6VdECrWAWHYv0L7T4GVjmEvHxhPqnbfOfGtgFWoK7lW2W4m+C6y3BOX/j9c3+kMI/PdWvme6+FA==;VP9HBsDErTmNO1EMazkIzw=="
 ---
 

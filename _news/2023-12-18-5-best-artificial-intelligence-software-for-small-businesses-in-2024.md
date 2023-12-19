@@ -24,29 +24,51 @@ images:
     isCached: true
 
 related:
-  - title: "Flexible Business Loans Could Help SMEs Invest in AI Early"
-    excerpt: "Australian SMEs are investing in AI technology at a rapid pace to help boost productivity and fight inflation - and Liberty has innovative"
-    publishedDateTime: 2023-12-17T23:54:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/flexible-business-loans-could-help-smes-invest-in-ai-early-1032907188"
+  - title: "How Will AI Revolutionize Talent Assessments In 2024?"
+    excerpt: "For decades, companies have relied heavily on selection tools like psychometrics (e.g. ability tests, personality assessments, work preference inventories), competency-based assessments (e.g. situational judgment tests),"
+    publishedDateTime: 2023-12-18T22:48:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/happybytes/202312/how-will-ai-revolutionize-talent-assessments-in-2024"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/happybytes/202312/how-will-ai-revolutionize-talent-assessments-in-2024?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/happybytes/202312/how-will-ai-revolutionize-talent-assessments-in-2024?amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
-  - title: "Diversity In Artificial Intelligence Could Help Make It More Equitable"
-    excerpt: "Of all computer science doctorates, only 1.6% were awarded to Black doctoral candidates. In 2019, The Guardian cited a study conducted by NYU, which emphasized the critical need for diversity in the field of artificial intelligence. “The urgency behind ..."
-    publishedDateTime: 2023-12-16T00:00:00Z
-    webUrl: "https://www.blackenterprise.com/diversity-artificial-intelligence-equitable/"
-    type: article
-    provider:
-      name: Black Enterprise
-      domain: blackenterprise.com
-    quality: 39
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
     images:
-      - url: "https://www.blackenterprise.com/wp-content/blogs.dir/1/files/2023/12/GettyImages-1481181755.jpg"
-        width: 2309
-        height: 1299
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-12/pexels-google-deepmind-17483868.jpg?h=4f52e0ef&itok=0WmKPJMA"
+        width: 1528
+        height: 800
         isCached: true
+  - title: "Gen AI is a game-changer in bond investment risk assessment"
+    excerpt: "Generative AI is changing the equation, though. It has emerged as a transformative force in managing bond investment risks by automating and optimizing complex analytical tasks. Gen AI models can sift through vast quantities of unstructured data related to bonds, identify critical information, and compare it against risk parameters."
+    publishedDateTime: 2023-12-18T16:16:00Z
+    webUrl: "https://www.cio.com/article/1265414/gen-ai-is-a-game-changer-in-bond-investment-risk-assessment.html"
+    ampWebUrl: "https://www.cio.com/article/1265414/gen-ai-is-a-game-changer-in-bond-investment-risk-assessment.html/amp/"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/1265414/gen-ai-is-a-game-changer-in-bond-investment-risk-assessment.html/amp/"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 39
+  - title: "AI was the buzzword of 2023. What happens in 2024?"
+    excerpt: "You really need to understand the language of legal finance. You can fine-tune an AI model to interpret these derivative contracts and translate them into a machine-readable format for a generic AI model to use. You can create specific models of AI that ..."
+    publishedDateTime: 2023-12-18T08:11:00Z
+    webUrl: "https://www.aol.com/finance/ai-buzzword-2023-happens-2024-131116432.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 19
+  - title: "How AI could change trucking in 2024"
+    excerpt: "Samsara CIO Stephen Franchetti told FleetOwner: \"As the AI explosion continues, an organization's ability to stay competitive and innovate will come down to their enterprise data strategy. We'll start to see an increased need for a robust foundation of ..."
+    publishedDateTime: 2023-12-14T14:43:00Z
+    webUrl: "https://www.fleetowner.com/technology/article/21279287/how-ai-could-change-trucking-in-2024"
+    type: article
+    provider:
+      name: Fleet Owner
+      domain: fleetowner.com
+    quality: 17
 
 secured: "cSZPDEs1HVvh18HH4iv45rAOD65xuX1Oifng+95J7S/l7PwnX5AIScp4D0shtnTsPE+Wp5MawIeYJvBK566MemcSv+1ltZn2FZgo3rJ6oMr/M/8n/7dHWip9CExLVakXpXdtZnjQ5+6RKDJgl4rhiACD5JZ1XCfUriRQqWB2yZbDkybgQTAgtY+lbvqZNMgx7PlZs4Fe9A8G0LEIEX2SeuZEJmNK/TgP8ubCeJGrty7Kv7vswRsnQ6kgebqTKgIg49NxCfqXQSHFrNr20fXGTekpaRp9enBsUuDKa+O3tvBZ1JFEtYUpE2MsYLJ2bYlMLqDWJiEbFrRyNmcILI2T9IBoIKameHSQo0oOgHufa2I=;y8v+DAAr31s2Ftcd7GmPGA=="
 ---

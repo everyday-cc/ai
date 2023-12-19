@@ -25,34 +25,43 @@ images:
     isCached: true
 
 related:
-  - title: "Heard on the Street: Tesla’s Recall Highlights the Limits of ‘Full Self-Driving’ Tech"
-    excerpt: "Tesla’s big recall hasn’t moved its shares much. That isn’t a surprise given the limited cost of the fix— but it isn’t the end of the story, either. On Wednesday, the National"
-    publishedDateTime: 2023-12-13T23:13:00Z
-    webUrl: "https://www.wsj.com/livecoverage/fed-meeting-fomc-interest-rate-december-2023/card/heard-on-the-street-tesla-s-recall-highlights-the-limits-of-full-self-driving-tech-5t1wARKk5hZZYznApkee?mod=lctimeline_finance"
+  - title: "Tesla's recall of 2 million vehicles reminds us how far driverless car AI still has to go"
+    excerpt: "Tesla has recalled 2 million US vehicles over concerns about its autopilot function. Autopilot is meant to help with manoeuvres such as steering and acceleration, but still needs input from the driver."
+    publishedDateTime: 2023-12-18T02:25:00Z
+    webUrl: "https://www.econotimes.com/Teslas-recall-of-2-million-vehicles-reminds-us-how-far-driverless-car-AI-still-has-to-go-1667962"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 62
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 60
     images:
-      - url: "https://images.wsj.net/im-899985/social"
-        width: 1280
-        height: 640
+      - url: "https://f1.econotimes.com/2023/12/nc1m9ls3vd_th_1024x0.jpg"
+        width: 496
+        height: 279
         isCached: true
-  - title: "Tesla recalls 2 million vehicles over self-driving safety concerns"
-    excerpt: "The probes came in response to Teslas with Autopilot crashing into first-responder vehicles as well as random sudden braking – known as ‘phantom braking’ – from considerable speed on highways."
-    publishedDateTime: 2023-12-13T23:51:00Z
-    webUrl: "https://www.whichcar.com.au/news/tesla-recalls-2-million-vehicles-over-self-driving-safety-concerns"
+  - title: "Commentary: Tesla’s recall of 2 million vehicles reminds us how far driverless car AI still has to go"
+    excerpt: "There is a pressing need for new standards and mechanisms to assess the capabilities of these driverless cars, says University of Surrey's Saber Fallah."
+    publishedDateTime: 2023-12-15T22:01:00Z
+    webUrl: "https://www.channelnewsasia.com/commentary/tesla-driverless-cars-recall-2-million-autonomous-vehicles-safety-autopilot-3991256"
     type: article
     provider:
-      name: whichcar
-      domain: whichcar.com.au
-    quality: 39
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 54
     images:
-      - url: "https://cdn.whichcar.com.au/assets/p_social/c4870a66/tesla-autopilot.jpg"
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--L6zlzHd4--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-04-06t205807z_3_lynxmpej350kx_rtroptp_3_tesla-privacy-cameras.jpg?itok=KuXvCHkc"
         width: 1200
-        height: 630
+        height: 676
         isCached: true
+  - title: "Tesla’s recall of 2 million vehicles reminds us how far driverless car AI still has to go"
+    excerpt: "The driving force behind self-driving vehicles is artificial intelligence (AI), yet current algorithms ... for new standards and mechanisms to assess the capabilities of these driverless cars. These new protocols should provide more rigorous testing ..."
+    publishedDateTime: 2023-12-14T07:19:00Z
+    webUrl: "https://theconversation.com/teslas-recall-of-2-million-vehicles-reminds-us-how-far-driverless-car-ai-still-has-to-go-219832"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 40
   - title: "Tesla ‘recalls’ 2m cars over self-driving feature"
     excerpt: "Chronically bad drivers could be blocked from using Tesla’s Autosteer feature after US road safety authorities forced the electric vehicle maker to issue a ‘recall’ that will improve the feature on all of the more than 2 million cars it has sold in the US and Canada since 2012."
     publishedDateTime: 2023-12-14T02:37:00Z
@@ -67,24 +76,6 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "Tesla Autopilot Recall Deals Another Blow to Self-Driving Cars"
-    excerpt: "According to the NHTSA recall report, when Autosteer or any other Level 2 system is engaged, “as the vehicle operator, the driver is responsible for the vehicle’s movement with their hands on the steering wheel at all times, remaining attentive to surrounding road conditions, and intervening … as needed to maintain safe operation.”"
-    publishedDateTime: 2023-12-13T23:22:00Z
-    webUrl: "https://www.autoweek.com/news/a46121819/nhtsa-forces-tesla-autopilot-recall-self-driving-cars/"
-    type: article
-    provider:
-      name: autoweek
-      domain: autoweek.com
-    quality: 19
-  - title: "Tesla Recall Little More Than A Short Detour On The Path To Full Self-Driving"
-    excerpt: "Tesla is introducing FSD12 self-driving technology, which uses neural networks to mimic human decision-making. Read more about TSLA stock here."
-    publishedDateTime: 2023-12-15T17:50:00Z
-    webUrl: "https://seekingalpha.com/article/4658120-tesla-recall-little-more-than-a-short-detour-on-the-path-to-full-self-driving"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 16
 
 secured: "HOVSgqV8eOTfyF9n4T8kwzymy5YC+EIcYnZGCO9/GnHvZQTCL6bFr8qZWWK+pY5C7K015JkLkC7IOUzErAm4+yi+J51lBXe8VXihHWFvqDbTxZJTmO3YM33x1WoKIm7yxZpgHMYpQP7qGRaZfmGh3uGyKhwls+4hcyVcN5Mb+sQjFcCPnKxwvSkCT5u2+H/7ZNmtEcOKYBru/r+wd5tdWlX6svKo4Jr8rA+qEyxO4nClfva3QniQw+WgkstjzKxozTLiVD5Etr9HQU7AvdAsipFZkLIDia9nP7LW1aGPSGR2liT/Frdo2blERq7w8JIWSaQInoFiGF+m/CQNSiBNNJGPB6epqLWvs83z3Y1oF/z1ONi1T9g4Hh8BbUAE+xE3APsnqXc4UAajmZlWgbqxFl5JX9pVE5DPJm788ZRrjOWS0HGcCsBmKHEpKvAXrwaghvPlF7XkzX+xkfHSqpFTrQqPKmZuIUMeCgaFG/CHxQWdBesQ8lBZIBd4nutMVQV/UGqqGKbVFYR9e9nidbdzEg==;U4BHiLjd4kNjd9vVfVzkHA=="
 ---

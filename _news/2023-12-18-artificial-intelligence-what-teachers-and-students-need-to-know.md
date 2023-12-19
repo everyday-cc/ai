@@ -9,7 +9,7 @@ ampWebUrl: "https://thenationonlineng.net/artificial-intelligence-what-teachers-
 cdnAmpWebUrl: "https://thenationonlineng-net.cdn.ampproject.org/c/s/thenationonlineng.net/artificial-intelligence-what-teachers-and-students-need-to-know/amp/"
 type: article
 quality: 61
-heat: 81
+heat: 75
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence and Academic Tasks: What teachers, students need to know"
-    excerpt: "Artificial intelligence does not come with the options of “to be” or “not to be” in academia. If nothing, the intelligence that is included in the term makes it “a child of necessity ..."
-    publishedDateTime: 2023-12-14T00:01:00Z
-    webUrl: "https://www.vanguardngr.com/2023/12/artificial-intelligence-and-academic-tasks-what-teachers-students-need-to-know/"
-    ampWebUrl: "https://www.vanguardngr.com/2023/12/artificial-intelligence-and-academic-tasks-what-teachers-students-need-to-know/amp/"
-    cdnAmpWebUrl: "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2023/12/artificial-intelligence-and-academic-tasks-what-teachers-students-need-to-know/amp/"
-    type: article
-    provider:
-      name: Vanguard
-      domain: vanguardngr.com
-    quality: 56
-    images:
-      - url: "https://cdn.vanguardngr.com/wp-content/uploads/2021/02/GAB.gif"
-        width: 720
-        height: 718
-        isCached: true
   - title: "Artificial Intelligence And Academic Tasks: What Teachers And Students Need To Know"
     excerpt: "Artificial intelligence does not come with the options of to be or not to be in academia. If nothing, the intelligence that is included in the term makes it"
     publishedDateTime: 2023-12-14T06:04:00Z

@@ -64,22 +64,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "Pope calls for treaty to regulate artificial intelligence"
-    excerpt: "ROME >> Pope Francis on Thursday called for an international treaty to ensure artificial intelligence is developed and used ethically, arguing that the risks of technology lacking human values of compassion, mercy, morality and forgiveness are too great."
-    publishedDateTime: 2023-12-14T00:01:00Z
-    webUrl: "https://www.staradvertiser.com/2023/12/14/breaking-news/pope-calls-for-treaty-to-regulate-artificial-intelligence/"
-    ampWebUrl: "https://www.staradvertiser.com/2023/12/14/breaking-news/pope-calls-for-treaty-to-regulate-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2023/12/14/breaking-news/pope-calls-for-treaty-to-regulate-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: Honolulu Star-Advertiser
-      domain: staradvertiser.com
-    quality: 57
-    images:
-      - url: "https://www.staradvertiser.com/wp-content/uploads/2023/12/web1_14491980-7ba1574d62584f1f96678910781a0116.jpg"
-        width: 760
-        height: 507
-        isCached: true
   - title: "25+ Free AI tools to improve your productivity and workflows"
     excerpt: "Whether you’re a professional looking to streamline your workflow or an enthusiast eager to explore new creative avenues, there’s a wealth of free AI tools available to help you achieve your goals. These tools cover a variety of applications,"
     publishedDateTime: 2023-12-14T13:05:00Z

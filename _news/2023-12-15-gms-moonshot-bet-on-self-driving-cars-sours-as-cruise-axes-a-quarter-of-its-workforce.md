@@ -107,15 +107,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "GM's Cruise fires 9 leaders amid ongoing self-driving investigation"
-    excerpt: "General Motors subsidiary Cruise fired nine employees Wednesday as a result an ongoing investigation into an Oct. 2 self-driving crash involving a pedestrian and the company's subsequent actions."
-    publishedDateTime: 2023-12-13T23:11:00Z
-    webUrl: "https://www.autonews.com/mobility-report/gms-cruise-fires-9-leaders-amid-self-driving-crisis"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 4
   - title: "GM's self-driving car company Cruise lays off 900 workers - nearly 25 percent of its workforce - ahead of Christmas after a series of safety mishaps and having its permit ..."
     excerpt: "The new footage from the vehicle showed that the car continued driving after the initial stop and attempted a 'pullover maneuver,' traveling about 20 feet while the pedestrian was still trapped underneath. In September, two Cruise driverless taxis ..."
     publishedDateTime: 2023-12-14T21:48:00Z

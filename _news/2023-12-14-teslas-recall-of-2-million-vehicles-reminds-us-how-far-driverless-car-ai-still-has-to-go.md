@@ -47,6 +47,34 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Tesla ‘recalls’ 2m cars over self-driving feature"
+    excerpt: "Chronically bad drivers could be blocked from using Tesla’s Autosteer feature after US road safety authorities forced the electric vehicle maker to issue a ‘recall’ that will improve the feature on all of the more than 2 million cars it has sold in the US and Canada since 2012."
+    publishedDateTime: 2023-12-14T02:37:00Z
+    webUrl: "https://ia.acs.org.au/article/2023/tesla--recalls--2m-cars-over-self-driving-feature.html"
+    type: article
+    provider:
+      name: ia.acs
+      domain: acs.org.au
+    quality: 39
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/tesla%20self%20driving%20update.jpg"
+        width: 1000
+        height: 563
+        isCached: true
+  - title: "Tesla Recalls Two Million Self-Driving Cars Due to Autopilot-Related Accidents"
+    excerpt: "ALBAWABA - Tesla sent a letter to the National Highway Traffic Safety Administration, recalling two million of its self-driving cars due to the Autopilo"
+    publishedDateTime: 2023-12-18T08:15:00Z
+    webUrl: "https://www.albawaba.com/business/tesla-recalls-two-million-self-driving-cars-due-autopilot-related-accidents-1545503"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 35
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2023-12/Tesla%20Recalls%20Two%20Million%20Self-Driving%20Cars%20Due%20to%20Autopilot-Related%20Accidents.jpeg?itok=Ej2lxW7R"
+        width: 680
+        height: 425
+        isCached: true
 
 secured: "IM18CSQRrgkA7PW8WqhdVICboi7kz4WpkOBcWELj6IWljsx0V9ThwaPJYSaJxZ3cZYVN+uzZb26mcYJJ6ti7+qyAGVDHCKwSsJOxgE2NaE9hKGRhW5WGZYvbj7DtpJeq1Js8Gb5MviGSUp+OZEdhVY2GSdGFUFrvFq3VznCMAXyYCJhViAtN8P1xg6WSPGXeOSe6uVHKirilgoXCt+pcFDCylhSZwtYl6HIZiTuPapglrTFAawnoySEOCeCDoAdq56NUytQGeq03GgUEvBAaVsQfTopfpMdg/wjkEKJl/TG7k+IUHuVWK4mnGB4mpml8s3FW0tD+P2JP3XbEfAQn4nHrXBnilydV9QhZ6f3g5L5lmtI+LPsyZc+cGHKPWB+36g1ybnogAH94JBQEkF9keKV5TtPXWdIHJ0Qvxn0p8/wTfHcDraNqS+jXzTQT7fBYl1rLPmXfK8TDT7M1bwSeNDCRlrmnWkxkx+cZjZyBQxdYgBTjEMHg4c2tys+PF054ct8sY5cNpBdN7Tp2rNUJnA==;yklySDoGyMxds4bJzJx5jA=="
 ---

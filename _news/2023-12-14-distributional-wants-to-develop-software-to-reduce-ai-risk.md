@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "How AI In Software Development Improves Data And Decision Making"
+    excerpt: "Keeping track of AI development is a real challenge. Just when you think the progress has reached its peak, a mindblowing innovation hits the news.  A number of major industries, including healthcare,"
+    publishedDateTime: 2023-12-17T23:57:00Z
+    webUrl: "https://techbullion.com/how-ai-in-software-development-improves-data-and-decision-making/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/thumbnailHEYBEIPE-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Railtown AI Technologies Inc. Files Provisional Patent Application Covering AI-Driven Ticket Generation to Accelerate Software Development"
     excerpt: "Railtown's second North American provisional patent filingRailtown reaches task level functionality with ticket generationIntegrates with leading"
     publishedDateTime: 2023-12-14T13:01:00Z

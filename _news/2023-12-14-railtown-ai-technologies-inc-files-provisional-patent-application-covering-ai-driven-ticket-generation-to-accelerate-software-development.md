@@ -32,6 +32,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
+  - title: "How AI In Software Development Improves Data And Decision Making"
+    excerpt: "Keeping track of AI development is a real challenge. Just when you think the progress has reached its peak, a mindblowing innovation hits the news.  A number of major industries, including healthcare,"
+    publishedDateTime: 2023-12-17T23:57:00Z
+    webUrl: "https://techbullion.com/how-ai-in-software-development-improves-data-and-decision-making/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/thumbnailHEYBEIPE-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "9AieZ0PHihkIgPSUc2N0QFG6fP+IZGOE1qqksK7l05UzLNP6L6iMaqlyLIGVxY2Kcl168noFXLG63MFEnzTFotupgRFmNzxdQ0mQIUv53xic/ihteLQ+8UwTpDf5TyvDuoRkRou2g7h5KF35lvDNVTpKA4Lgv7UeIz8noexhy2garkx6tP6OTMDa0xyMJ0+Ly3fC+XZtJE+xQrhpodefV8WQOD+14M7VDmwW0Sm15DvoACOcvlM1DjYIv2JDzcdTlcUSu8A/xYquzINcRDYC2txDObdPMV178AR+ttj0H1p+7Dmc4is5MlBhqM5dcchIpyG1i+qPa4f8A4fNx0SNv+Wt1FuLN63CyyxoICmKcR0=;BMG7Rej+DyTcvCd4MWOLDw=="
 ---

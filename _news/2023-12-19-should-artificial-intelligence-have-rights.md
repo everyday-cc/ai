@@ -8,8 +8,8 @@ webUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202312/shoul
 ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202312/should-artificial-intelligence-have-rights?amp"
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-digital-self/202312/should-artificial-intelligence-have-rights?amp"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2023-12/TechRights.png.jpg?itok=3iHeitYH"
@@ -25,6 +26,6 @@ images:
     height: 800
     isCached: true
 
-secured: "bEyB1cyEc3XBB2niRYt70pCfUY1Kyomsz2WbUeA2iPYRNbU8DSpjuazqQWks0yZIRl1pBjUFej3Ov2RQgW+Q5+XLi9nDpBfXR3MLKngXpzqSbO8EM5J+RbL7QzDjVT1VXZXZ3mvxXNDRIbyyz/A/MVc5noqjM2UMzS7GvfdQMvQIgz0Hm7Od6ZQ+NkEYprJ9P33b3+7kA8oFC8Zt7nEKYpOTAomm4yRD0U1Eog9w9WGBnkxsCqelF9ZrcNnpVn2CFzEufivFQm+Sq9ewV2SeAGr/6CNjDbiB2GYJOdb00rMm0YgYyU0BgAJpIztMk9vO/I4kAHhhyEMQx7PlxO7yeDRYf5p07MihPZyqVmK+FFk=;9U/lgz7eolTrLj8fItjU4Q=="
+secured: "SeXmWXGuEVlGfNPO35AZNeEtLbWv9BcD5lPO2cW3SMSUGKk4TsMoHNKtGgR/d5m6ZQQViy2BGpLXqB/DUNGl/EWwCVE5kfxsJzj1fXUvn23HWsw6nsdFdDOZu10Xpbqorb+S6P1hnT2QcwJpT7NKhZW6i1EBB7zqCUY7ipgAuZctBjd8FIkx4BhztVRJWPTGseuMmvaoO50SZx5O1JF59vSvAZwLBx6J3wjpsb8GPskhvK0EuOVWkuPyQI1kS/fX2Ohqs/toNdMP8cShGNsBU4YkUib/rD6j5zM/dR9dmYG6f/c3OGaqOnRPCopfZ+U0V91eBjgAM9bjPxxoYrYpdji5geH3phOjaOyO5J6vn9tziMCPLvWehu/i8zCspWXI1DE8h8pANxC7ZQu/R2tSLjszwKR99jg85YTpyN0AM5S/AwVdhKLXNqUuLaL7e9GZCc1pztKiHHDOy5/O/RwhaNs0uVru6mshc+ZThYIECGmD8HaeST8fGu0GIhPNilaIEBZMbsAulQV/D0Bj+lE3ag==;8/+0+VaPBn8H1h2kSLd6tQ=="
 ---
 

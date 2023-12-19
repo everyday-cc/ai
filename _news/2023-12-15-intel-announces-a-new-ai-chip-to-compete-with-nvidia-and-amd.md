@@ -25,77 +25,61 @@ images:
     isCached: true
 
 related:
-  - title: "Apple Silicon M3 Pro competes with Nvidia RTX 4090 GPU in AI benchmark [u]"
-    excerpt: "In a recent test of Apple's MLX machine learning framework, a benchmark shows how the new Apple Silicon Macs compete with Nvidia's RTX 4090."
-    publishedDateTime: 2023-12-14T00:30:00Z
-    webUrl: "https://appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark"
-    ampWebUrl: "https://appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark/amp/"
+  - title: "AMD says its MI300X AI accelerator is faster than Nvidia's H100"
+    excerpt: "AMD has finally launched its Instinct MI300X accelerators, a new generation of server GPUs designed to provide compelling performance levels for generative AI workloads and other"
+    publishedDateTime: 2023-12-18T12:42:00Z
+    webUrl: "https://www.techspot.com/news/101238-amd-mi300x-ai-accelerator-faster-than-nvidia-h100.html"
     type: article
     provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 72
+      name: TechSpot
+      domain: techspot.com
+    quality: 69
     images:
-      - url: "https://photos5.appleinsider.com/gallery/57700-117522-graph-xl.jpg"
-        width: 1312
-        height: 800
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/12/2023-12-18-image-4.jpg"
+        width: 2000
+        height: 1125
         isCached: true
-  - title: "NVIDIA AI GPU shipments expected to surge 150% year-over-year in 2024"
-    excerpt: "Analyst expects NVIDIA AI GPU shipments to surge another 150% year-over-year in 2024, led by the new H200 GPU and next-gen Blackwell B100 GPUs."
-    publishedDateTime: 2023-12-14T01:02:00Z
-    webUrl: "https://www.tweaktown.com/news/94956/nvidia-ai-gpu-shipments-expected-to-surge-150-year-over-in-2024/index.html"
+  - title: "Intel stock hits a fresh 52-week high after saying its new AI chip tops Nvidia's H100"
+    excerpt: "At 11:00 EDT (16:00 GMT), Intel stock was up about 4% on the day, hitting a new 52-week high."
+    publishedDateTime: 2023-12-14T16:46:00Z
+    webUrl: "https://za.investing.com/news/intel-stock-hits-a-fresh-52week-high-after-saying-its-new-ai-chip-tops-nvidias-h100-432SI-2958248"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 47
+    images:
+      - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
+        width: 251
+        height: 282
+        isCached: true
+  - title: "NVIDIA fires back at AMD saying its new MI300X chip is faster than its H100 GPU - it isn't"
+    excerpt: "NVIDIA responds to AMD's showcasing the MI300X being faster than the H100 GPU. Here are the real results where the H100 is up to 2X faster."
+    publishedDateTime: 2023-12-15T04:34:00Z
+    webUrl: "https://www.tweaktown.com/news/94975/nvidia-fires-back-at-amd-saying-its-new-mi300x-chip-is-faster-than-h100-gpu-it-isnt/index.html"
     type: article
     provider:
       name: TweakTown
       domain: tweaktown.com
-    quality: 54
+    quality: 44
     images:
-      - url: "https://static.tweaktown.com/news/9/4/94956_115_nvidia-ai-gpu-shipments-expected-to-surge-150-year-over-in-2024_full.png"
+      - url: "https://static.tweaktown.com/news/9/4/94975_01_nvidia-fires-back-at-amd-saying-its-new-mi300x-chip-is-faster-than-h100-gpu-it-isnt_full.jpg"
         width: 1500
-        height: 857
+        height: 843
         isCached: true
-  - title: "Apple's M3 Max Outshines RTX 4090 in AI Speech Transcription Test"
-    excerpt: "The M3 Max is Apples most powerful 3nm SoC developed for the Mac, with multi-core performance that outperforms the M2 Ultra and a 40-core GPU that can compete with a laptop RTX 4080. Despite these advancements,"
-    publishedDateTime: 2023-12-15T01:53:00Z
-    webUrl: "https://www.econotimes.com/Apples-M3-Max-Outshines-RTX-4090-in-AI-Speech-Transcription-Test-1668034"
+  - title: "SuperNIC network accelerator for AI cloud data introduced by NVIDIA"
+    excerpt: "Learn more about the new SuperNIC network accelerator for AI cloud data launched by NVIDIA. But what is SuperNIC and why does it matter?"
+    publishedDateTime: 2023-12-18T14:34:00Z
+    webUrl: "https://www.geeky-gadgets.com/supernic-network-accelerator/"
     type: article
     provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 41
-    images:
-      - url: "https://f1.econotimes.com/2023/12/gbem9k4h88_th_1024x0.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "NVIDIA Launches China-Exclusive RTX 4090 D GPU Earlier Than Anticipated"
-    excerpt: "NVIDIAs China-Exclusive GeForce RTX 4090 D GPU appears to be making its way to players earlier than planned this month. NVIDIAs China-Exclusive GeForce RTX 4090 D GPU seems to be making its way to players earlier"
-    publishedDateTime: 2023-12-18T21:29:00Z
-    webUrl: "https://www.econotimes.com/NVIDIA-Launches-China-Exclusive-RTX-4090-D-GPU-Earlier-Than-Anticipated-1668176"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
     quality: 39
     images:
-      - url: "https://f1.econotimes.com/2023/12/y5nzm169rm_th_1024x0.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Samsung Galaxy Book 4 with Intel Power SoC & NVIDIA GeForce RTX 4070 GPU Launched"
-    excerpt: "Korean giant, Samsung has finally launched its new premium laptop, the Galaxy Book 4 series powered with Intel Power CPU & NVIDIA GeForce RTX 407 GPU."
-    publishedDateTime: 2023-12-15T12:09:00Z
-    webUrl: "https://techstory.in/samsung-galaxy-book-4-with-intel-power-soc-nvidia-geforce-rtx-4070-gpu-launched/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 34
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2023/12/Simranpal-Singh.jpeg"
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/what-is-SuperNIC.jpg"
         width: 1280
-        height: 960
+        height: 792
         isCached: true
 
 secured: "wnlnCv6kdaWk+VxIc8tcT6fuEzc7DT8NKPhpy3ehAnluUaE0zE7sC54D+j++FGZsp11L+pyChXMcwRHd0q3KKiY67d2l/VwgprFy6CmEQGLYW64AbkAp4m+HgQlL9EQv1X9O7eXW8x1MEfhN/NhaGsMxwLp/hkwHfAe1lDzl+qAdXUsAJILExzWJmV+HQEBZ9i/Ru9qSjVXX9punMdzPNSja2h3p5XPgwFlDV5sljKzjEWc+ZezPUGA953SwGEDg34jtbf7SKEqTr7q+3zbNN3364uwuhM7VxN65ROUywBfBC6pHUKkq5BabbNm8hfaiKzN2hgtWkJWAbBySmFygoLC3SXdvjhm2Z0pI6mcRwf+VdrtMq5wsY8/lmVRZECg4Qqx9D4m/AdWWcjKRWn9Ha3Jj8vaqk/YJdCVKzZ/XnFwZOj9hBOP7hsapUaxlsMP6nEvH/MMHpP02qIloCK10XSifVZCCS7bh7Y37ivRLGgR3Dog/oj/5lcjIWARJEP1ivdwFEUNaXy9zc7DFl5lSUg==;2x4e9md4NBxnXb4KPvFc+Q=="
