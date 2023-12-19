@@ -25,6 +25,17 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Navigating a shifting customer-engagement landscape with generative AI"
+    excerpt: "Enterprises need clear roadmaps as the rapid advent of generative AI reshapes the way they engage with customers."
+    publishedDateTime: 2023-12-18T19:55:00Z
+    webUrl: "https://www.technologyreview.com/2023/12/18/1085299/navigating-a-shifting-customer-engagement-landscape-with-generative-ai/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 17
+
 secured: "YXhfIQ+s5AbMuCE9H4SaAKVkagLA8u/EduW0/TxHQd5iPhdXXCuU023/W8w7e31EY72vqyqfroe1E9bXM/eSHaVDGB0rQY8b2jkyfdCqIJ0IDwaV0c/ISxgxZ8lXqvbRhmvcj2O1x4pd+HwQNn8HHopUReAdG2u4ALYEDXFr9GhX1wg9DzYQDyLrEixXHfwd3gZrPkjGZkjoPK6JsN74Lk2xKw4pXhEEL560oBjZ6ULL4oVW2m0Kb6FEp1FnaD0+X1tXbOBy24LlVXpl4D0LbpvOVZ8FEowhiAS1sdCoQWDXCfSBM2RExwNU9nATlrPnwn8oSD/TLZqPDjhOgToq4iUn9Tj930Si/kDMviXV25A=;xpvGQkItIIA4fNId2JLLPg=="
 ---
 

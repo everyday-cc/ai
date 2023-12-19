@@ -71,15 +71,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Microsoft Explores Using Liquids to Cool AI Chips"
-    excerpt: "Without cool air constantly blowing through the racks of computers, the advanced chips would cook themselves. The cost of running enough fans and air conditioners to keep this from happening is leading chipmakers and data center operators to find ..."
-    publishedDateTime: 2023-12-14T12:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-12-14/microsoft-explores-using-liquids-to-cool-ai-chips"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 81
   - title: "Microsoft AI model-as-a-service available in Azure AI – Phi-2, Orca 2, Llama 2"
     excerpt: "Microsoft's enhancement of Azure AI capabilities through its new AI model-as-a-service offering a significant step forward in the world of artificial"
     publishedDateTime: 2023-12-15T11:09:00Z

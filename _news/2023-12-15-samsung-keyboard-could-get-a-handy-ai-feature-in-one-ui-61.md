@@ -7,7 +7,7 @@ originalUrl: "https://www.androidauthority.com/samsung-keyboard-tone-translate-3
 webUrl: "https://www.androidauthority.com/samsung-keyboard-tone-translate-3394842/"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Big Samsung Galaxy S24 leak just revealed a ton of AI photo and video upgrades"
+    excerpt: "This is one of the non-AI features that many users will be looking forward to, especially with the improved Snapdragon 8 Gen 3 chip promising upgraded power-saving features over its predecessor. The post also confirms other rumors we have heard such as the ..."
+    publishedDateTime: 2023-12-19T00:00:00Z
+    webUrl: "https://www.tomsguide.com/news/big-samsung-galaxy-s24-leak-just-revealed-a-ton-of-ai-photo-and-video-upgrades"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 35
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/aBevHWNetepvytotSnLpu3-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Baby Llama Runs on Samsung Galaxy Watch 4"
     excerpt: "A user on X, who goes by the name Joey (e/λ), shared a video where he ran 'llama.c' on a Samsung Galaxy Watch 4."
     publishedDateTime: 2023-12-18T13:30:00Z

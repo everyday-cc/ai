@@ -42,15 +42,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Internet Marketing Association Wraps One of the Largest Artificial Intelligence Conferences in America"
-    excerpt: "A consensus was reached that Generative AI and unlocking \"intelligence as a service\" will be regarded as the largest technological impact to business and society in history, overshadowing the invention of the microchip and the internet. Virtually every ..."
-    publishedDateTime: 2023-12-14T12:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/internet-marketing-association-wraps-one-of-the-largest-artificial-intelligence-conferences-in-america-1032902126"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
   - title: "Verizon, Panthers Implement “Express Entry” Option Using Facial Recognition To Enter Bank of America Stadium"
     excerpt: "A new partnership between the Carolina Panthers and Verizon allows fans to enter Bank of America Stadium without scanning a ticket or their phones."
     publishedDateTime: 2023-12-14T22:49:00Z

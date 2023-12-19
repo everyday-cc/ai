@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/us/blog/happybytes/202312/how-will-a
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/happybytes/202312/how-will-ai-revolutionize-talent-assessments-in-2024?amp"
 type: article
 quality: 57
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -51,6 +51,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "How Publishers Can Navigate the AI Revolution"
+    excerpt: "Despite the hype, publishing is still looking at what impact large language models and similar technology may bring."
+    publishedDateTime: 2023-12-16T01:22:00Z
+    webUrl: "https://www.publishersweekly.com/pw/by-topic/digital/content-and-e-books/article/93963-how-publishers-can-navigate-the-ai-revolution.html"
+    type: article
+    provider:
+      name: Publishers Weekly
+      domain: publishersweekly.com
+    quality: 19
 
 secured: "LUCyrazFqezXCvkAGxcehR+7cc5MSINR3fZcc1fH5OUB/cCktUSpE9qMeaXYrJY1JFQrQKp+NRNRcVlWT2CD1zAkhvJxKJ0TFdImzIaOwWGYvhYgBYM/ZQUe4+OJSRG5HOU62uHrdWsHJN9kFj/ARJKpqor99fE4x4HW1mIFP7GfUD/yudrXEb+5z6Yrl9I/ZKi3WkSZ7Hks4Vt+KvMVuvbguuOjAnnDyszEzMHmUYTL1RZOFghe3Ny5m5HjeLPXuBo7aw8A6prDHxkIHEcnVA06JOcXQyo7GoCy3dPksaRPA7Hdzd4jAVfEh2Mzi3PLDqGrulEqWzhnQI+JyMenumP34P5YxNomAk03PDyVC+zpY+3oTKAEEcvQ/WA58WbRVzDZJ59n1HiYXbYv9ZN/vIxXg9+V6iw/LGcFQwY8jJqp/kestpcJj2puAXC+YZyT3NXv0r4dP1bfMnCsoA9Ac5L97AKx9WprdTWVPwErRYwVy5Wp2W8l5GR9DHaa7gj7VTYU+YVAuMc3oeC4QtqtSA==;772VWvmU2JpkAnw3aP1ixg=="
 ---

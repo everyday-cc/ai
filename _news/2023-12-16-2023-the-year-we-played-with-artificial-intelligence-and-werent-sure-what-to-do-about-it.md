@@ -41,22 +41,6 @@ related:
         height: 720
         isCached: true
   - title: "2023: The year we played with artificial intelligence — and weren't sure what to do about it"
-    excerpt: "Artificial intelligence went mainstream in 2023 — it was a long time coming yet has a long way to go for the technology to match people's science fiction fantasies of human-like machines ..."
-    publishedDateTime: 2023-12-14T11:23:00Z
-    webUrl: "https://www.koat.com/article/2023-the-year-we-played-with-artificial-intelligence/46130638"
-    ampWebUrl: "https://www.koat.com/amp/article/2023-the-year-we-played-with-artificial-intelligence/46130638"
-    cdnAmpWebUrl: "https://www-koat-com.cdn.ampproject.org/c/s/www.koat.com/amp/article/2023-the-year-we-played-with-artificial-intelligence/46130638"
-    type: article
-    provider:
-      name: KOAT Albuquerque
-      domain: koat.com
-    quality: 48
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap2657b47200a4de.jpg?crop=1.00xw:0.847xh;0,0&resize=1200:*"
-        width: 1024
-        height: 579
-        isCached: true
-  - title: "2023: The year we played with artificial intelligence — and weren't sure what to do about it"
     excerpt: "Artificial intelligence went mainstream in 2023 — it was ... through a huge database of photos to recognize objects and individual faces and help guide self-driving cars. Speech recognition advances made voice assistants like Siri and Alexa a fixture ..."
     publishedDateTime: 2023-12-14T18:23:00Z
     webUrl: "https://www.wtae.com/article/2023-the-year-we-played-with-artificial-intelligence/46130638"

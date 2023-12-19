@@ -7,7 +7,7 @@ originalUrl: "https://www.dexerto.com/tech/samsungs-galaxy-buds-3-pro-could-offe
 webUrl: "https://www.dexerto.com/tech/samsungs-galaxy-buds-3-pro-could-offer-real-time-language-translation-2431948/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung’s next Galaxy Buds might offer real-time translation using AI – wunderbar!"
-    excerpt: "Somewhat surprisingly, Samsung didn’t unveil an update to its flagship Galaxy Buds this year (or for that matter the hotly anticipated Samsung Galaxy Buds 3 ), with a November 16 leak claiming we'll get the Samsung Galaxy Buds 3 Pro in 2024 instead."
-    publishedDateTime: 2023-12-14T12:15:00Z
-    webUrl: "https://www.techradar.com/audio/earbuds-airpods/samsungs-next-galaxy-buds-might-offer-real-time-translation-using-ai-wunderbar"
+  - title: "Andrej Karpathy’s Baby Llama Runs on Samsung Galaxy Watch 4"
+    excerpt: "A user on X, who goes by the name Joey (e/λ), shared a video where he ran 'llama.c' on a Samsung Galaxy Watch 4."
+    publishedDateTime: 2023-12-19T04:52:00Z
+    webUrl: "https://analyticsindiamag.com/andrej-karpathys-baby-llama-runs-on-samsung-galaxy-watch-4/"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 63
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 24
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/EQZ5xegDyphTu6QZFVm9yP-1200-80.jpg"
-        width: 1200
-        height: 675
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/11/everyone-loves-andrej-karpathy.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Samsung Galaxy Buds 3 Pro leak reveals real-time translation feature — and you don't even need the cloud to speak to people in another language"
     excerpt: "According to a report by South Korea's Maeil Business Newspaper, Samsung's next-gen Galaxy Buds Pro 3 wireless earbuds could come with real-time language translations thanks to their powerful on-device AI capabilities."

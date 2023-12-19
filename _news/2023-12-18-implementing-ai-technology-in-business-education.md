@@ -117,15 +117,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "How 4 NYC high school students say AI-powered tools are changing their education"
-    excerpt: "New York City has grappled this year with how to respond to ChatGPT and other artificial intelligence-powered tools, banning them on school devices before later reversing course."
-    publishedDateTime: 2023-12-14T12:45:00Z
-    webUrl: "https://www.chalkbeat.org/newyork/2023/12/14/how-nyc-students-use-chatgpt-ai-tools-in-school/"
-    type: article
-    provider:
-      name: Chalkbeat
-      domain: chalkbeat.org
-    quality: 31
 
 secured: "EgLWMNWfG2p6PUnc/V5Mx5B8FxriaINWuqpXUhcvNUFVn/7aBPodxi+FvNjXKoz5z/knJbdXHXFVNzuI4lNMee5y9niNkpTuhD7bPzgTM9YGN420uegXs/MwtJL7YkkpvaBfUbT9Uc5McFXEPQ19/O18bf3fnCOrjQWUMN2HSlKVqsUqPVpscwlejMwov6o1RBlw2d8WTZtPH+q3NnbHq97mNQK5lcY9CUb0dP8RtbWwaLrMUM1D/1JOIIjiCc3TPMUeO38lnYFVi6bBbB+296KCjdYX8Fs+Xb6vgtRlwS4RpNpJ7MdZmG1KlzX1/RDYgY/KuzWWRJh0KmWjKD6dEhDqzkEVPQXHrJ1Zg5KLMdc=;vv5UwOKBsyRrzxbBgNdHuw=="
 ---

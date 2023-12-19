@@ -81,20 +81,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Madison Health Alert: Rising Disability in the Workplace due to Brain Fog. Doctor Explains"
-    excerpt: "Dr. Adriana Davis, Family Medicine, \"More and more working-age adults have brain fog--research shows that it's due to long COVID.\"Doctor's Expert Insights long COVID and Brain Fog"
-    publishedDateTime: 2023-12-14T12:28:00Z
-    webUrl: "https://www.news-shield.com/news/state_news/article_a3ff4bf8-0b49-53d2-b322-94ed3122ba73.html"
-    type: article
-    provider:
-      name: Barron News-Shield
-      domain: news-shield.com
-    quality: 29
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/news-shield.com/content/tncms/custom/image/8a265c9e-d5ea-11e7-b634-1f4aaebb7c30.jpg?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Mankato Health Alert: Rising Disability in the Workplace due to Brain Fog. Doctor Explains"
     excerpt: "Dr. Adriana Davis, Family Medicine, \"More and more working-age adults have brain fog--research shows that it's due to long COVID.\"Doctor's Expert Insights long COVID and Brain Fog"
     publishedDateTime: 2023-12-14T13:27:00Z
@@ -106,20 +92,6 @@ related:
     quality: 29
     images:
       - url: "https://bloximages.newyork1.vip.townnews.com/southernminn.com/content/tncms/assets/v3/editorial/4/1a/41a8b12b-645e-5f79-b8c6-2607253c971a/657b18dcdd409.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Oshkosh Health Alert: Rising Disability in the Workplace due to Brain Fog. Doctor Explains"
-    excerpt: "Dr. Adriana Davis, Family Medicine, \"More and more working-age adults have brain fog--research shows that it's due to long COVID.\"Doctor's Expert Insights long COVID and Brain Fog"
-    publishedDateTime: 2023-12-14T12:28:00Z
-    webUrl: "https://www.bloomeradvance.com/news/state_news/article_d5ce3171-6616-5fae-9c63-ce20370e8872.html"
-    type: article
-    provider:
-      name: Bloomer Advance Newspaper
-      domain: bloomeradvance.com
-    quality: 29
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/bloomeradvance.com/content/tncms/assets/v3/editorial/9/f4/9f45fe32-6504-5565-877c-13134e8a5122/657b18dd02f3f.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true
@@ -165,20 +137,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Evansville Health Alert: Rising Disability in the Workplace due to Brain Fog. Doctor Explains"
-    excerpt: "Dr. Adriana Davis, Family Medicine, \"More and more working-age adults have brain fog--research shows that it's due to long COVID.\"Doctor's Expert Insights long COVID and Brain Fog"
-    publishedDateTime: 2023-12-14T12:28:00Z
-    webUrl: "https://www.pdclarion.com/news/state/evansville-health-alert-rising-disability-in-the-workplace-due-to-brain-fog-doctor-explains/article_a2147081-af75-5ac6-b900-4e907630a8d3.html"
-    type: article
-    provider:
-      name: Princeton Daily Clarion
-      domain: pdclarion.com
-    quality: 28
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/pdclarion.com/content/tncms/assets/v3/editorial/a/f4/af434a4e-81f0-556d-b0ae-78034915e19e/657b18dcdaf2c.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Gulfport Health Alert: Rising Disability in the Workplace due to Brain Fog. Doctor Explains"
     excerpt: "Dr. Adriana Davis, Family Medicine, \"More and more working-age adults have brain fog--research shows that it's due to long COVID.\"Doctor's Expert Insights long COVID and Brain Fog"
     publishedDateTime: 2023-12-14T13:27:00Z
@@ -189,6 +147,6 @@ related:
       domain: djournal.com
     quality: 9
 
-secured: "3mWo0F/9bPzQgucYO9aRu1MSamf7AIRr73Pp5aBvYN0BRpChAcyih5u3eMSiV/fTwpWrxeNs+OXQz1A9F9HMRNeVIwLwSwSmvla+H5QfAUvuOHscftmTiuZZrXNfaf7DjRgg6DxpaUr47+nMpbobQNGR8hjjor4O9kqRJbGarHiQhsdBzWLSYYx0EQ3hu9DNLbE8VEFtB3jyw5l9HHmN+zVbP0NqFOsmAQMxFkxy6G1HsI+6SSWJUmjoIhCNIQRUtoZAdObwONtJop1gR1BoxYIcoKN46jdceSKtelmfIXA6k2Frux/hcGaMMqOtu8OtHgRruNVcx99PfQ4mU+LMdPtyHDQCmaz9mJS6D70I9MU=;wcRqGvt+tPvohRGUI/GaFA=="
+secured: "r7gjQtymHO3O1RbPCmFf0GckzeReXm8uCmXVzs01VW5gTC7kGqHvJBcELXWStTx0bBQHGL6DhdC3QBsiej6/DQP3PMMdPbDskMuT764PqDexXh4zw4Jf2TD6U1Y7hF3aTggzNItKu77sFBJR45NdngPpWxsEEBnIGXOC61ROjAVRT0GTIkyeW2RcbzhdfwEeDLXiQT/w0HKf3ylYHiG5XppUPFpjGOvqmdG+GTroiqko401LTGOQz9Fp5MVwrrcekxa0Leti0uJSXbGygtGYKozAvsdP6+0jNAFMXxAxvVD2noxnSxnZoxqeyKF0Mu1tvmMIfWkByDx+i7ajmNRstQbqOD5B44luF6BJHTe8e/YFHYrVbQ+Dd0i4YBsXeGOS+c7QZzFXdPGatDOWFuOyXDNeP/kFrFXYk2/38hCg8JYYMAAoKjAvbqzruocfIPJpdmwcz4yqXaH5jVEHL9oU1x4sBQD5RHfYeaMKm/AL2I+BXdyRRNXNBxSU7rB1KkNPRBKgiqFibSPsqhaWhLGWRA==;oKfxQ48rzDf5p/YpLUvn6w=="
 ---
 

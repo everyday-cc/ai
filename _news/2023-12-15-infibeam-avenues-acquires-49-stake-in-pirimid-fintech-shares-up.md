@@ -53,17 +53,6 @@ related:
         width: 700
         height: 394
         isCached: true
-  - title: "Infibeam Avenues picks up 49% stake in Ahmedabad-based Pirimid Fintech"
-    excerpt: "The partnership aims to combine Infibeam's digital payments and AI-based frameworks with Pirimid Fintech's capital market trading software for its clients nationwide and globally"
-    publishedDateTime: 2023-12-14T12:01:00Z
-    webUrl: "https://www.business-standard.com/companies/news/infibeam-avenues-picks-up-49-stake-in-ahmedabad-based-pirimid-fintech-123121400853_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/companies/news/infibeam-avenues-picks-up-49-stake-in-ahmedabad-based-pirimid-fintech-123121400853_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/companies/news/infibeam-avenues-picks-up-49-stake-in-ahmedabad-based-pirimid-fintech-123121400853_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 24
   - title: "Infibeam Avenues Invests Rs 25 Crore in Pirimid Fintech for 49% Stake"
     excerpt: "News reports, trends, analysis and Daily Updates on Business, New Emerging Technology, Startups, Funding, and Innovation in India and across the World"
     publishedDateTime: 2023-12-15T03:49:00Z

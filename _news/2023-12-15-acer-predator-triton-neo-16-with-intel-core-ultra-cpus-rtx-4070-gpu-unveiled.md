@@ -45,20 +45,6 @@ related:
         width: 708
         height: 398
         isCached: true
-  - title: "Intel launches Core Ultra mobile CPUs, complete with dedicated AI hardware"
-    excerpt: "According to Chipzilla, the new GPU affords up to double the graphics performance compared to the previous generation. Intel says all of its new Core Ultra processors further come equipped with Intel AI Boost, a neural processing unit designed specifically ..."
-    publishedDateTime: 2023-12-14T12:26:00Z
-    webUrl: "https://www.techspot.com/news/101210-intel-launches-core-ultra-mobile-cpus-complete-dedicated.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 67
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2023/12/2023-12-14-image-9.jpg"
-        width: 2000
-        height: 1385
-        isCached: true
   - title: "MSI Prestige 'Meteor Lake' Laptops, Hands On: Intel's Core Ultra Brings AI to Work"
     excerpt: "Intel's new Core Ultra laptop CPUs, packing built-in AI hardware, meet MSI's business-class Prestige machines. We checked out these early Meteor Lake laptops ahead of launch."
     publishedDateTime: 2023-12-14T15:00:00Z

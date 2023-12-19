@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/12/15/the-new-frontier
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/12/15/the-new-frontier-in-workplace-safety-data-analytics-and-ai/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -69,15 +69,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 24
-  - title: "Adastra Group: Adastra Launches New Analytics and Insights for Sustainability Framework in AWS Marketplace"
-    excerpt: "\"We are thrilled to unveil our latest sustainability solution in AWS Marketplace,\" said Dr. Johannes Mellenthin ... At the forefront of artificial intelligence, data, cloud, digital and governance services, Adastra delivers solutions to enterprises ..."
-    publishedDateTime: 2023-12-14T12:06:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-12/60926432-adastra-group-adastra-launches-new-analytics-and-insights-for-sustainability-framework-in-aws-marketplace-004.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 16
 
 secured: "K3yW9E68YM9zNDPTQOOY3bNc2sbGLLSMo8i0lvtkb2y1sC1+16NCOauT9Jj2YaKPAjISrZ2lssphwRrwkDCgVPWsKq0USN/oePzJTHWiJGP3F8mtPn7R4NO6ojFs71shVYqzsy8i0xjBguIZfrWTr4LeNJlimbdfgcWMutV3GUOy6sYqkKexD008QTxgipW4V/QbjYnPGi+W+DZa/xiROcdbSoMVS8u3HrhhcHqb3mkcCQwEI7OoFshW5pVZHfz5I60xZKVi/Q4aI1Xpn9UtEDnHV+CE/61FrJq4P7TYQ+SauyDS9RWidqPR//rXqufCCRtjSpV0smjYnugSeHz0+GT3WiracvG3QdTamFzLDDwRie6keNYmcA23+dooXvCHhEULLRGwFRY2f6XMTdRQw0atjVqenUMYn+ciNuvT6/emD/GxljK8FznYT5xhqtLifrlgzZa4TIVpQqQ3K22SXZugvgzG4u/1aBEAOdEuVoYUjXCbf1WVZATITnwCsu5RyU3ai//ll5YYOTIIjFlovw==;MrQRIjdzATU2wf7LyIDe1A=="
 ---

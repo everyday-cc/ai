@@ -51,6 +51,15 @@ related:
       name: CIO
       domain: cio.com
     quality: 39
+  - title: "How Publishers Can Navigate the AI Revolution"
+    excerpt: "Despite the hype, publishing is still looking at what impact large language models and similar technology may bring."
+    publishedDateTime: 2023-12-16T01:22:00Z
+    webUrl: "https://www.publishersweekly.com/pw/by-topic/digital/content-and-e-books/article/93963-how-publishers-can-navigate-the-ai-revolution.html"
+    type: article
+    provider:
+      name: Publishers Weekly
+      domain: publishersweekly.com
+    quality: 19
 
 secured: "cSZPDEs1HVvh18HH4iv45rAOD65xuX1Oifng+95J7S/l7PwnX5AIScp4D0shtnTsPE+Wp5MawIeYJvBK566MemcSv+1ltZn2FZgo3rJ6oMr/M/8n/7dHWip9CExLVakXpXdtZnjQ5+6RKDJgl4rhiACD5JZ1XCfUriRQqWB2yZbDkybgQTAgtY+lbvqZNMgx7PlZs4Fe9A8G0LEIEX2SeuZEJmNK/TgP8ubCeJGrty7Kv7vswRsnQ6kgebqTKgIg49NxCfqXQSHFrNr20fXGTekpaRp9enBsUuDKa+O3tvBZ1JFEtYUpE2MsYLJ2bYlMLqDWJiEbFrRyNmcILI2T9IBoIKameHSQo0oOgHufa2I=;y8v+DAAr31s2Ftcd7GmPGA=="
 ---

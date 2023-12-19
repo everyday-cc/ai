@@ -8,8 +8,8 @@ webUrl: "https://www.technologyreview.com/2023/12/19/1085696/four-trends-that-ch
 ampWebUrl: "https://www.technologyreview.com/2023/12/19/1085696/four-trends-that-changed-ai-in-2023/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/19/1085696/four-trends-that-changed-ai-in-2023/amp/"
 type: article
-quality: 57
-heat: 87
+quality: 59
+heat: 91
 published: true
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2023/03/image_dissolves_into_noise2.jpeg?w=2048"
@@ -59,6 +60,6 @@ related:
       domain: fleetowner.com
     quality: 17
 
-secured: "BxspIsFXT+68jbekBkUO43Ob7eKyNsribQ5pV+dOS7/yFXPFwC5YH6rZ+n+MYVb8RK0rp0wfdq4EcoEx9fDmFhN4E357ldeimxrsBH2G2qwrDA02DpHAfmBnk75gAdATvA1J81ydjUErhtqJPUtDd3Zztc0NN61A+wyp/hqEazCjkCDYMrHYpK5Nu1UV07qWNdE+LKeMiUaD6x9UsDIh82zs2sgRhgNb+jwyiqHaS+dK1W+aLbvcVMOkVtDvCmOYEc61rXhHJMnwS+5ckFSmcMRm5m9SRnaVY8teghRd3nCF5iMSNO1/+ZBUTwUqC97O8AHCUZSt2dP/F//glYXbGgKsXYJnqFAWd587G44nglU=;ccN393UB6mFSjA4GgwJXaQ=="
+secured: "nSYurT12lSwsZ3WCS4+1UC05+ZRUgPwIORHxqutMcsyJVvf8yO96qLSek71yI2j80IiEZEEyy4Gy9qiKZEkVU79bmR/MQj2KaHC2gt/sQutqtuKcSvNIvfETxAmkFhIaobL4IaDGF0mHr8S/3lcmxvnf9ZFfWO92NBDiF7G4fdXhVbzZhufKcnCoPrqvIMiJtjXgbfPRjswMZFnnFf/xsJVu4V7oCGrk2Ieb/Dw22WoKNfrZJLtPuWikoGGnDECsvdhNfWVFKbeH8kIg1CVIZ0/SNq1CNyemN3Tl5U+buGnl0cgP8geZbBeyCCcmoRsUCzVFz1MGcaBmNucmm+YJW0TZyI2BqYU6kPjF8+g8fV7OYVJZn2EXp8hz5Reh2hFs1rnQAJJNOju1kEZ4/3PEogF35sBJut4HTAWEcjB0WWAanK62mI0w0oSqzA8fvKooRelW9bNEZe5iYrQyqYGOhgj0aKU6bWwdUXMumCbR/Xy9vuUTLAhrzFmpzaElTQBM5WZALRAEtp7sJLh+FnsQDw==;1flpC2qNMAe4Y0KWExikaQ=="
 ---
 

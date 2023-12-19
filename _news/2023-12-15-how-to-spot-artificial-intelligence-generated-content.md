@@ -84,6 +84,20 @@ related:
         width: 1200
         height: 663
         isCached: true
+  - title: "The Impact of Artificial Intelligence On Real Estate Marketing"
+    excerpt: "Artificial Intelligence (AI) has become a driving force across various industries, reshaping traditional practices and enhancing efficiency. In the realm of real estate, AI is revolutionizing marketing strategies,"
+    publishedDateTime: 2023-12-15T12:21:00Z
+    webUrl: "https://realtybiznews.com/the-impact-of-artificial-intelligence-on-real-estate-marketing/98780587/"
+    type: article
+    provider:
+      name: realtybiznews
+      domain: realtybiznews.com
+    quality: 58
+    images:
+      - url: "https://realtybiznews.com/wp-content/uploads/2022/07/banner-2.png"
+        width: 300
+        height: 250
+        isCached: true
   - title: "IBM: Fumbling Away AI Potential"
     excerpt: "International Business Machines Corporation's failure to benefit from Watson's AI technology and poor earnings and growth raises concerns. Learn more on IBM stock here."
     publishedDateTime: 2023-12-18T16:36:00Z

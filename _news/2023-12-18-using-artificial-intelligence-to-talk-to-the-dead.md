@@ -73,34 +73,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "25+ Free AI tools to improve your productivity and workflows"
-    excerpt: "Whether you’re a professional looking to streamline your workflow or an enthusiast eager to explore new creative avenues, there’s a wealth of free AI tools available to help you achieve your goals. These tools cover a variety of applications,"
-    publishedDateTime: 2023-12-14T13:05:00Z
-    webUrl: "https://www.geeky-gadgets.com/free-ai-tool-apps/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/Over-25-Free-AI-tools-to-help-you-improve-your-workflows.jpg"
-        width: 1280
-        height: 717
-        isCached: true
-  - title: "How To Keep AI From Stealing the Sound of Your Voice"
-    excerpt: "A new technology called AntiFake prevents the theft of the sound of your voice by making it more difficult for AI tools to analyze vocal recordings"
-    publishedDateTime: 2023-12-14T12:04:00Z
-    webUrl: "https://www.scientificamerican.com/article/how-to-keep-ai-from-stealing-the-sound-of-your-voice/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 39
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/AA71A9F7-F6EB-4F6B-BDCBFE460FA0842C_source.jpg?w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "What senior living leaders need to know about artificial intelligence"
     excerpt: "Senior living executives have two key decisions to make to move forward with AI-enabled solutions, according to NIC MAP Vision CEO Arick Morton."
     publishedDateTime: 2023-12-18T05:05:00Z

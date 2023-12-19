@@ -7,8 +7,8 @@ originalUrl: "https://analyticsindiamag.com/how-generative-ai-is-reshaping-banki
 webUrl: "https://analyticsindiamag.com/how-generative-ai-is-reshaping-banking-finance-in-india/"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 139
+published: true
 
 provider:
   name: Analytics India Magazine
@@ -25,45 +25,100 @@ images:
     isCached: true
 
 related:
-  - title: "Unlocking Marketing Growth: Generative AI In Action, Starting With Design"
-    excerpt: "Although marketers have prioritized emotional connection and consumer experience with their brands, recent strides in GenAI are pushing these two aspects closer together."
-    publishedDateTime: 2023-12-14T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/14/unlocking-marketing-growth-generative-ai-in-action-starting-with-design/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/14/unlocking-marketing-growth-generative-ai-in-action-starting-with-design/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/12/14/unlocking-marketing-growth-generative-ai-in-action-starting-with-design/amp/"
+  - title: "16 Innovative Ways Agencies Can Leverage Generative AI In 2024"
+    excerpt: "Generative AI tools are being leveraged by agency professionals and in-house teams around the world as they seek ways to better understand and reach target audiences."
+    publishedDateTime: 2023-12-15T17:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/12/15/16-innovative-ways-agencies-can-leverage-generative-ai-in-2024/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 103
+    quality: 67
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6399d93eaccb6518c9a6c001/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/655e5665f16e596330a94c9e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1350
         height: 900
         isCached: true
-  - title: "The Impact of Artificial Intelligence On Real Estate Marketing"
-    excerpt: "Artificial Intelligence (AI) has become a driving force across various industries, reshaping traditional practices and enhancing efficiency. In the realm of real estate, AI is revolutionizing marketing strategies,"
-    publishedDateTime: 2023-12-15T12:21:00Z
-    webUrl: "https://realtybiznews.com/the-impact-of-artificial-intelligence-on-real-estate-marketing/98780587/"
+  - title: "AI integration in everyday life: How artificial intelligence is reshaping consumer electronics"
+    excerpt: "One of the most noticeable impacts of AI in consumer electronics is the integration of virtual assistants like Siri, Alexa, and Google Assistant. These AI-powered companions have made it incredibly convenient to control various devices through simple voice commands."
+    publishedDateTime: 2023-12-16T12:00:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-ai-integration-in-everyday-life-how-artificial-intelligence-is-reshaping-consumer-electronics-3339636/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ai-integration-in-everyday-life-how-artificial-intelligence-is-reshaping-consumer-electronics-3339636/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-integration-in-everyday-life-how-artificial-intelligence-is-reshaping-consumer-electronics-3339636/lite/"
     type: article
     provider:
-      name: realtybiznews
-      domain: realtybiznews.com
-    quality: 58
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 62
     images:
-      - url: "https://realtybiznews.com/wp-content/uploads/2022/07/banner-2.png"
-        width: 300
-        height: 250
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/12/Untitled-design-2023-12-15T150012.911.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Navigating a shifting customer-engagement landscape with generative AI"
-    excerpt: "Enterprises need clear roadmaps as the rapid advent of generative AI reshapes the way they engage with customers."
-    publishedDateTime: 2023-12-18T19:55:00Z
-    webUrl: "https://www.technologyreview.com/2023/12/18/1085299/navigating-a-shifting-customer-engagement-landscape-with-generative-ai/"
+  - title: "Facebook whistleblower docs: How AI is hurting India – and Indians"
+    excerpt: "Users need to understand that since many platforms are developed outside of India, their preparedness to understand and manage nuances of language, culture, and regions fall short. Engineers are playi"
+    publishedDateTime: 2023-12-18T08:52:00Z
+    webUrl: "https://indianexpress.com/article/opinion/columns/facebook-whistleblower-docs-artificial-intelligence-india-9072751/"
+    ampWebUrl: "https://indianexpress.com/article/opinion/columns/facebook-whistleblower-docs-artificial-intelligence-india-9072751/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/opinion/columns/facebook-whistleblower-docs-artificial-intelligence-india-9072751/lite/"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 17
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 61
+    images:
+      - url: "https://images.indianexpress.com/2023/12/artificial.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Huawei Cloud and Pangu AI model reshaping finance industry"
+    excerpt: "Huawei Cloud is helping to transform the finance industry with powerful AI model Pangu and Everything as a Service smart solutions"
+    publishedDateTime: 2023-12-19T07:15:00Z
+    webUrl: "https://fintechmagazine.com/tech-ai/huawei-cloud-and-pangu-ai-model-reshaping-finance-industry"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 54
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/7655ab029d6a7bb14a14eb6b5e035cd9:194b6a8ee3bcce0296c82be369f226dc/20231219-090709-welinkpc.JPG.jpg"
+        width: 1200
+        height: 629
+        isCached: true
+  - title: "Spacenet Enterprises India Ltd Accelerates Global Trade with Rs 99.55 Crore Investment in Fintech and AI Innovations"
+    excerpt: "This investment, led by VIKASA India EIF I Fund with a substantial Rs 50 crore at Rs 26 per share, demonstrates robust investor confidence and a shared vision for the future of digital trade., Technology & Science News,"
+    publishedDateTime: 2023-12-18T09:05:00Z
+    webUrl: "https://www.timesnownews.com/technology-science/spacenet-enterprises-india-ltd-accelerates-global-trade-with-rs-99-55-crore-investment-in-fintech-and-ai-innovations-article-106086365"
+    ampWebUrl: "https://www.timesnownews.com/technology-science/spacenet-enterprises-india-ltd-accelerates-global-trade-with-rs-99-55-crore-investment-in-fintech-and-ai-innovations-article-106086365/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/spacenet-enterprises-india-ltd-accelerates-global-trade-with-rs-99-55-crore-investment-in-fintech-and-ai-innovations-article-106086365/amp"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 36
+    images:
+      - url: "https://static.tnn.in/thumb/msid-106086427,thumbsize-47144,width-1280,height-720,resizemode-75/106086427.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Appvance unleashes AIQ 5.0, featuring Generative AI V3"
+    excerpt: "AIQ 5.0 includes the following new features: No-Code Fully Visual User Experience Users will experience an improved intuitive interface that empowers them to unleash hundreds of Autonomous Testing bots (trained to do exploratory testing with BDD-based validations) effortlessly."
+    publishedDateTime: 2023-12-19T10:16:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/12/19/9936067.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
+  - title: "Generative AI, Cloud And Startups: A Power Trio Redefining India’s Techscape!"
+    excerpt: "Explore how generative AI, cloud technology and startups are redefining India's tech landscape in this roundtable by Inc42 and Google Cloud."
+    publishedDateTime: 2023-12-16T11:45:00Z
+    webUrl: "https://inc42.com/videos/generative-ai-cloud-and-startups-a-power-trio-redefining-indias-techscape/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 14
 
 secured: "24ac8/a92f/T3oQLOAwsOcwgx+8/EOkkHd4dtXfgjaPCB6duTKjzKFsrglV9kqTPYTsa+dg0PKD+bABH5nA/DtvvbJssqf6JgKdWKJl9PoXVV9optKIYRlveiuZz615OpWup5Fzi4llZX+Yi5y0EhhuSRWCfVURpi5cnlUzxWUux4gR/hJnLjS1xaq4z435OSn4ytcSSZLmIELiBDuW1QdS1A1v49EO0aefVwne3FzGnbSQC+sSr0OBllJ8YsBCRhxTcjdDc1kum0kOlRsRFkTXEBSj2LDyra51Yqo7HKjoavVUbxUcC3d41mZq+EsI77JZ6L77W/fw/QMBzLeWDuotcpgvoFVUr7Q/KaS3I+JU=;abCUYbxUo6+M57Dxv7c+bw=="
 ---

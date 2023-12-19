@@ -7,7 +7,7 @@ originalUrl: "https://www.joplinglobe.com/cnhi_network/ai-machine-learning-chang
 webUrl: "https://www.joplinglobe.com/cnhi_network/ai-machine-learning-changing-how-first-responders-handle-911-emergencies/article_77449f24-9c25-5cd4-8b79-451f817784ff.html"
 type: article
 quality: 55
-heat: 65
+heat: 55
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "AI, machine learning changing how first responders handle 911 emergencies"
-    excerpt: "Nothing kills more people in the U.S. than heart disease, and researchers within the UPMC health enterprise are using machine learning to advance the breadth and efficiency of electrocardiogram readin"
-    publishedDateTime: 2023-12-14T13:01:00Z
-    webUrl: "https://www.palestineherald.com/news/ai-machine-learning-changing-how-first-responders-handle-911-emergencies/article_d8802e9c-9a38-11ee-bbe6-db45a02f4bd6.html"
-    type: article
-    provider:
-      name: Palestine Herald-Press
-      domain: palestineherald.com
-    quality: 33
 
 secured: "L/mmCfgXftMshSgOGd40/0UavvW6WSO5hCQ5kWgGsle2pnyEWYxE6onWErRVVPnGjFiAXISDPX7BjzQyqhiCBMxxQfR9i2D036MRxChFT5rDjBeyoOQBzhroBw/HAj8v37U3xTF0ydov5PJX/gMVjNBpZKL69fcieLe6vTFu00aOHPN604Y9aglNroh6kQ/sZLgx2ITuwEbjNekSilf0pptijFJSv+VW59NHnu5VeT46/D2eh0L5GIHboUsPev0Uqzvh+fEQV6BivZq4d4bGV1PAq/e8eY6jaUOc0emFCadIKD8k33YW/uSTmcIIBQgq8BzWgFc4qzWv5Fp+pu+nF3i8m+vyGtmgvYS5/28Ld+dv2z8yUVqRL/v806NfPN+PHScppgHpRji7t9xuDj6N5ustuzecUPPYWv4UMk3a3oLXyFinmCZCFQYejUK3BatvgjCD0XRzwRi6Xs3RbRq+f2x3QN+BocTqzTcA6zxfKjWi3sfwVCVYNnl6LEJM7R6rzhwiZNVfQjchhwKqbaTCpg==;dQ1D+opq2zC1wqL1uyM5wQ=="
 ---

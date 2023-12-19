@@ -65,15 +65,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 24
-  - title: "Adastra Group: Adastra Launches New Analytics and Insights for Sustainability Framework in AWS Marketplace"
-    excerpt: "\"We are thrilled to unveil our latest sustainability solution in AWS Marketplace,\" said Dr. Johannes Mellenthin ... At the forefront of artificial intelligence, data, cloud, digital and governance services, Adastra delivers solutions to enterprises ..."
-    publishedDateTime: 2023-12-14T12:06:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-12/60926432-adastra-group-adastra-launches-new-analytics-and-insights-for-sustainability-framework-in-aws-marketplace-004.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 16
 
 secured: "rrXpq/eiErRW9pkAbnmZAfCPuxuPS+UfnVRAtgul+gZRgGXuW8ZG0BHarRE3301QarD5ezfedikkls39N1HJARsLOtlJ+Z/4uGdpRQ70052z+HV8vZ6KHJjvUKwylF76xE8viASBQQDDgjj8MmFBKIc8gpw5nmnQGMkRJW5YqH+YOOEhDIXfCqvw1RCHYyoFdEiaY+lBdnDhwWCAYv9jdFuYVe+96bwa/BptJJlab9wknBXWe9HewnmAEDEGkw1AW6TkLvvl038CGm8c7Z9AEiNBjsePhetlFrFdcsZmZJNHdMfL0AJjd/BsLGaVHEI2aa3huCRMQIvSBbUqE6u2B8MQH9gU7DnrQjJNLh7mX7OWOPBFqQZ7BdHVUDQEsSah0uvPvdpSWXvqI8LyCHYr+Owi3igG+1T7AH9PkeOrn9wQBXiSHFdqyi812sptRprgCa6nvEivETG6dnroVfAO/70RDqfJDm6/GzwboTY70KhN6dd1FegPrrfoKc+FBMZhuXHwngWkqOQ29EoOBQHMsA==;3pMykUQ2B9WNFNZQ3nGYQA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.deccanherald.com/india/use-of-indian-languages-in-ai-p
 webUrl: "https://www.deccanherald.com/india/use-of-indian-languages-in-ai-programming-will-bring-down-bias-in-technology-meity-secretary-2815983"
 type: article
 quality: 28
-heat: 28
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Use of Indian languages in AI will bring down bias in technology: Meity secretary"
+    excerpt: "MeitY: \"They represent a huge opportunity for the global economy and for the Indian economy. As more content that's available in Indian languages and as more Indian languages go into large language models (LLMs) and other forms,"
+    publishedDateTime: 2023-12-19T02:11:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/policy/use-of-indian-languages-in-ai-will-bring-down-bias-in-technology-meity-secretary/106106807"
+    type: article
+    provider:
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 34
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-106106807,imgsize-161410,width-1200,height=765,overlay-ettelecom/policy/use-of-indian-languages-in-ai-will-bring-down-bias-in-technology-meity-secretary.jpg"
+        width: 1200
+        height: 765
+        isCached: true
   - title: "Use of Indian languages in AI will bring down bias in technology: Meity secretary"
     excerpt: "At present, the government is working on AI technology to enable citizens across the country to communicate with each other seamlessly using digital translation tools developed under the Bhashini program."
     publishedDateTime: 2023-12-18T14:11:00Z

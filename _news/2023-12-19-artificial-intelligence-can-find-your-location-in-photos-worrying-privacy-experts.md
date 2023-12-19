@@ -2,17 +2,17 @@
 category: news
 title: "Artificial intelligence can find your location in photos, worrying privacy experts"
 excerpt: "Three Stanford graduate students built an AI tool that can find a location by looking at pictures. Civil rights advocates warn more advanced versions will further erode online privacy."
-publishedDateTime: 2023-12-19T10:39:00Z
-originalUrl: "https://www.northcountrypublicradio.org/news/npr/1219984002/artificial-intelligence-can-find-your-location-in-photos-worrying-privacy-experts"
-webUrl: "https://www.northcountrypublicradio.org/news/npr/1219984002/artificial-intelligence-can-find-your-location-in-photos-worrying-privacy-experts"
+publishedDateTime: 2023-12-19T11:30:00Z
+originalUrl: "https://www.capradio.org/news/npr/story?storyid=1219984002"
+webUrl: "https://www.capradio.org/news/npr/story?storyid=1219984002"
 type: article
 quality: 31
 heat: 31
 published: false
 
 provider:
-  name: Northcountrypublicradio.org
-  domain: northcountrypublicradio.org
+  name: Capital Public Radio
+  domain: capradio.org
 
 topics:
   - AI
@@ -23,6 +23,6 @@ images:
     height: 710
     isCached: true
 
-secured: "g//SOUipHXR/xYGwGruzBZBjWyplPCpjJM+4TXRqe9Y36DdZOaatcmq5yP7VIWIcDEp0IMEMnPdtCivZFas2DLxieIBsiHlq6jGGN18vH591y9Lk+ecsOfS38xG2gEwJvRFnwBRWvCd0ldTzh9kxLzxi4RoOqI6E6wt3K8TUP1/w7PBSxJ++jj7ZxYvfcLhpeDroxw1z1jrDrTqwgZ/d2nKUtFwJX7qRSK0IyioRigicvuyH82rUT6Eijlftwkyxiug3S0xILH1Hhc1im/A0ddQSaSqSnfAEZzytZThqdutjtgVqOdWpNeLCXobrHZWjs3MwDFheMwJXKKWwl/MMEH0BoF3d6UfVSACJx7kGW6M=;ikb9s3YTEVMAn1a/xLWyDw=="
+secured: "VSe/QFYEBNjI5ldSklgUdTmknE/QQLHSGZtdvvXN2NZnwfAFJ5FOUuL9o39PgQ6FIAlpQLxHgnl5+FrSdjl31+iVjNQk2vKRQrc3lqAX9vfBNSmFWZyK4NGjgX0TPJk8qELdoTCM7TEEAffmsr9C5RQFp7t+TZGzrLArsOwL/Ni4Byxbw1iho6S3iFFPH5X/AnPWF9/IoRWMMX9dtMRy08+ykZtyOTVSOJ3r5SEVgHFn80lQmgwHyc/DzyXRIvUg1G3OPtWtisPQm15v+LolBeL+PoYFAe1SHpF8zQu7jCNSE9s7iSd4wDkoxJ5PHWPDMBwKK1UFFapDeqHErRWSBGDc+F87olo1KFAKtQ233ZA=;/8TNwcQi5NdxvEwRZ5ep1A=="
 ---
 

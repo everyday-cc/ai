@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidchou/2023/12/17/google-launches-a-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/12/17/google-launches-a-healthcare-focused-llm/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1350
     height: 900
     isCached: true
-
-related:
-  - title: "Google launches MedLM generative AI models for the healthcare industry"
-    excerpt: "Among those is MedLM, a group of AI models specifically geared ... conversations and automatically translate them into medical notes. According to Google, adding MedLM’s generative AI to Augmedix’s natural language processing will help to continuously ..."
-    publishedDateTime: 2023-12-14T11:14:00Z
-    webUrl: "https://www.fiercebiotech.com/medtech/google-launches-medlm-generative-ai-models-healthcare-industry"
-    type: article
-    provider:
-      name: FierceBiotech
-      domain: fiercebiotech.com
-    quality: 56
-    images:
-      - url: "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1642519310/shutterstock_552493561.jpg/shutterstock_552493561.jpg?VersionId=LeJ1TxPxtZUluu3M8xjR.93_nR28t8TP"
-        width: 1000
-        height: 667
-        isCached: true
 
 secured: "Uis7aJM04BZ2Kb/xPEhUdIUBsFu6OXhoYxUynLK3U66ysQ8EWqTpPH3o5Css1yQr6JKrBv1KzcMqmZroSP4++R1/Y7GHcnXv1HRxDF8Ne5GHUIYexMOpdI2FJ/0G/8ybQtq2aDVFjZs9I0xiSaZinHclRUXdjGMXMaDnUmPP32a4s+rHNj8lthIQNJp5n3wQ3o+SqP6nsP2r3AA9BNJF8I9/zhDAy9Yp2wGev/NtMQtEvSEjH98aGClEXsHvljAXL1D8DHoLG9gs9IEHug5cJKJCTNhxhOrXfVL3w0svHRAlSsYZ1kdkTQcqi2bLA+PW45AA59EizZn7zFwinPS8tnFX6yfLPeymuM7+/yFolIrzgTCUMTLhu4/Hu+wJqGR5m2KSCz83mI5wi1PucJO8VBmvis85NsdBq5xA7SfnINl8B9C0RwAy7p1127sby7YHbRr5zWnP9wX8n/SV3meagXIKTX3vz0E/xYbPlwcUtu2xxaxLzRo0RftmgIXeRGPCoOO3+Ye8GMAodIVpjlFDPw==;C5paFGQtZKZTTkm8A9pc8w=="
 ---

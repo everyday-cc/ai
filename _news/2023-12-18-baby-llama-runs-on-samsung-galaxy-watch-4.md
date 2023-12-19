@@ -39,6 +39,20 @@ related:
         width: 1920
         height: 1081
         isCached: true
+  - title: "Big Samsung Galaxy S24 leak just revealed a ton of AI photo and video upgrades"
+    excerpt: "This is one of the non-AI features that many users will be looking forward to, especially with the improved Snapdragon 8 Gen 3 chip promising upgraded power-saving features over its predecessor. The post also confirms other rumors we have heard such as the ..."
+    publishedDateTime: 2023-12-19T00:00:00Z
+    webUrl: "https://www.tomsguide.com/news/big-samsung-galaxy-s24-leak-just-revealed-a-ton-of-ai-photo-and-video-upgrades"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 35
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/aBevHWNetepvytotSnLpu3-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AI is coming to Samsung Keyboard to help you find the perfect words"
     excerpt: "Samsung's upcoming One UI 6.1 update may integrate AI into its Keyboard, allowing users to change the tone of text and even translate it. Google is also expanding its AI efforts with features like \"Help me write\" in Chrome 122, making AI services more accessible and prominent in everyday life."
     publishedDateTime: 2023-12-15T19:59:00Z

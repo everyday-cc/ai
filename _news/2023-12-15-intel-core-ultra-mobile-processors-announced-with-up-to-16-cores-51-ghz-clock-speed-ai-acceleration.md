@@ -45,20 +45,6 @@ related:
         width: 708
         height: 398
         isCached: true
-  - title: "Intel launches Core Ultra mobile CPUs, complete with dedicated AI hardware"
-    excerpt: "According to Chipzilla, the new GPU affords up to double the graphics performance compared to the previous generation. Intel says all of its new Core Ultra processors further come equipped with Intel AI Boost, a neural processing unit designed specifically ..."
-    publishedDateTime: 2023-12-14T12:26:00Z
-    webUrl: "https://www.techspot.com/news/101210-intel-launches-core-ultra-mobile-cpus-complete-dedicated.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 67
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2023/12/2023-12-14-image-9.jpg"
-        width: 2000
-        height: 1385
-        isCached: true
   - title: "Acer Predator Triton Neo 16 with Intel Core Ultra CPUs & RTX 4070 GPU unveiled"
     excerpt: "Acer has introduced the Predator Triton Neo 16 (PTN16-51), a gaming laptop equipped with Intel Core Ultra processors featuring dedicated AI acceleration and NVIDIA GeForce RTX 40 Series GPUs. This gaming powerhouse caters to both players and content creators,"
     publishedDateTime: 2023-12-15T05:21:00Z

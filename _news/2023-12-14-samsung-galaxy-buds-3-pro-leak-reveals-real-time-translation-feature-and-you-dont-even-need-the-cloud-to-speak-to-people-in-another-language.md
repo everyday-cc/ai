@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung’s next Galaxy Buds might offer real-time translation using AI – wunderbar!"
-    excerpt: "Somewhat surprisingly, Samsung didn’t unveil an update to its flagship Galaxy Buds this year (or for that matter the hotly anticipated Samsung Galaxy Buds 3 ), with a November 16 leak claiming we'll get the Samsung Galaxy Buds 3 Pro in 2024 instead."
-    publishedDateTime: 2023-12-14T12:15:00Z
-    webUrl: "https://www.techradar.com/audio/earbuds-airpods/samsungs-next-galaxy-buds-might-offer-real-time-translation-using-ai-wunderbar"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 63
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/EQZ5xegDyphTu6QZFVm9yP-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Samsung’s Galaxy Buds 3 Pro could offer real-time language translation"
     excerpt: "These AI-powered earbuds will reportedly be capable of translating communication on a real-time basis. While we’ve seen earbuds with language translation features in the past, the Galaxy Buds 3 Pro might be able to do this without internet connectivity."
     publishedDateTime: 2023-12-14T17:15:00Z
@@ -52,6 +38,20 @@ related:
       - url: "https://editors.dexerto.com/wp-content/uploads/2023/12/14/GalaxyBuds-2-Pro.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Andrej Karpathy’s Baby Llama Runs on Samsung Galaxy Watch 4"
+    excerpt: "A user on X, who goes by the name Joey (e/λ), shared a video where he ran 'llama.c' on a Samsung Galaxy Watch 4."
+    publishedDateTime: 2023-12-19T04:52:00Z
+    webUrl: "https://analyticsindiamag.com/andrej-karpathys-baby-llama-runs-on-samsung-galaxy-watch-4/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 24
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/11/everyone-loves-andrej-karpathy.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "WjW5Nl8KuPC2LC0DMrJonCQg/zQdA7c1MmikUaqmfwVJqY7NhIXJnZ0Pa1yRe6jOv0N+hUo9OOHLMrOXW8kcgGu/HMlq2TVe+gv348ZfgcJ3+t01FPriMQaRLLq06spbTcFtfBMAKbcQYcQTiXAHtfJnCBb9eA9YmpAjW00mJCQfVSJPchXRWM9gzmd/eXSBkFymAt6WyZHkLIeNdADcishkCrV2S+LzdTHfBQIHYQVEikI6PW3JazAyT3TfSSLsngiLrCFhySxC4JqMYclUgmjRQ0s209L7gSVISAxoMaRxSOHLgsMeGP0Bhb1b96CohBNNUifRcxrg1Z68ptBkM+LrW8Eu5OkttGr1NJjG8Qn3FfvO/6K9E3vua46Ph5o2Gq3g9EjpIVHpqQ6Z8yRbnJOPL4zhQCpOCIqK9xyzE+ZRpq9QGcXrXfXyK0eVRZmb4+j1rUELvEzMZNsC374XWyvzd8kJ5WmAZzB8G9WKg4U6mnWipmzdIW4gocmps+cZ9S5lOrxxu1w77YiuQv8YfQ==;bPvK5UBAVac8Jy9pYqwhEQ=="

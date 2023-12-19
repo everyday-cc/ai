@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/five-open-source-ai-tools-to-know/"
 webUrl: "https://www.ibm.com/blog/five-open-source-ai-tools-to-know/"
 type: article
 quality: 99
-heat: 169
+heat: 149
 published: true
 
 provider:
@@ -66,34 +66,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RZ3IBHE2NQI65AWZXYNV5ICBVM_size-normalized.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "25+ Free AI tools to improve your productivity and workflows"
-    excerpt: "Whether you’re a professional looking to streamline your workflow or an enthusiast eager to explore new creative avenues, there’s a wealth of free AI tools available to help you achieve your goals. These tools cover a variety of applications,"
-    publishedDateTime: 2023-12-14T13:05:00Z
-    webUrl: "https://www.geeky-gadgets.com/free-ai-tool-apps/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/Over-25-Free-AI-tools-to-help-you-improve-your-workflows.jpg"
-        width: 1280
-        height: 717
-        isCached: true
-  - title: "How To Keep AI From Stealing the Sound of Your Voice"
-    excerpt: "A new technology called AntiFake prevents the theft of the sound of your voice by making it more difficult for AI tools to analyze vocal recordings"
-    publishedDateTime: 2023-12-14T12:04:00Z
-    webUrl: "https://www.scientificamerican.com/article/how-to-keep-ai-from-stealing-the-sound-of-your-voice/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 39
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/AA71A9F7-F6EB-4F6B-BDCBFE460FA0842C_source.jpg?w=1200"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Using artificial intelligence to talk to the dead"
     excerpt: "Some people are turning to AI technology as a way to commune with the dead, but its use as part of the mourning process has raised ethical questions."

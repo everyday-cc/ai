@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/blog/key-customer-benefits-of-th
 webUrl: "https://azure.microsoft.com/en-us/blog/key-customer-benefits-of-the-microsoft-and-mongodb-expanded-partnership/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -71,6 +71,20 @@ related:
       - url: "https://www.absolutegeeks.com/wp-content/uploads/2023/12/e6a73560-9ab5-11ee-9dbf-ece57daa102b.png"
         width: 960
         height: 550
+        isCached: true
+  - title: "TomTom joins forces with Microsoft to bring Generative AI into the vehicle"
+    excerpt: "TomTom develops an advanced AI-powered voice assistant for drivers based on Microsoft Azure OpenAI Service. The solution is built into TomTom's Digital Cockpit and can be integrated into other automotive infotainment systems. TomTom and Microsoft are ..."
+    publishedDateTime: 2023-12-19T12:22:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-12/60963868-tomtom-joins-forces-with-microsoft-to-bring-generative-ai-into-the-vehicle-399.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 52
+    images:
+      - url: "https://ml.globenewswire.com/Resource/Download/a7b3dcf1-73f6-4b38-b892-5889a2330f26"
+        width: 3508
+        height: 2480
         isCached: true
   - title: "Microsoft releases Phi-2 small language model."
     excerpt: "Better than a Llama Microsoft Research has announced the release of its Phi-2 small language model (SML), a text-to-text AI programme that is \"small enough to run on a laptop or mobile device.\" Phi-2 has 2."

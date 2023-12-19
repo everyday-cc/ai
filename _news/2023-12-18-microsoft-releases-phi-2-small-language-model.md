@@ -84,6 +84,20 @@ related:
         width: 960
         height: 550
         isCached: true
+  - title: "TomTom joins forces with Microsoft to bring Generative AI into the vehicle"
+    excerpt: "TomTom develops an advanced AI-powered voice assistant for drivers based on Microsoft Azure OpenAI Service. The solution is built into TomTom's Digital Cockpit and can be integrated into other automotive infotainment systems. TomTom and Microsoft are ..."
+    publishedDateTime: 2023-12-19T12:22:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-12/60963868-tomtom-joins-forces-with-microsoft-to-bring-generative-ai-into-the-vehicle-399.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 52
+    images:
+      - url: "https://ml.globenewswire.com/Resource/Download/a7b3dcf1-73f6-4b38-b892-5889a2330f26"
+        width: 3508
+        height: 2480
+        isCached: true
 
 secured: "GG9a064AwD7IMViwNNnhRThFMkZ1NizLSGvB56exWaNnwGf2n0S8R13FJGeIA+c8/oGnReHh/XqdP2RmSwuyJPdwYHU0S3CupxHwlDS1qhbZgTTM2w0qYxCJGP8PADIETnFyZxsMMoizu+lB3RXRw7fBTXq54UPjEBTzdMzCYkmzSa+3buTNDwBncSg6N8gjux8lVdisozvSo+18aP1mFoGqAhAuOZJl/a9CRyZhuC6Hvp8BaOgyQZ5ZJ/YJK1C4Gp4SIgpr9WWRuaTg5VJpmYSaJvfzcGpUj1le8IlqNu5/TJZ14M3he1MQdHdvYRq/kuAnEJ9v3RRfTMMCKOrVcny9R9ci6FaHS2bBYmQLhaNS7lxhIcpdZZ5vSi3GGiRnwi2KPT0VsGBlpfyLUtgTRCruoCatZd8L4CkgFdq0mknYjMRv3W2Fw2OkFSSAvoIN+7wCT/q9D1Y6pEJk//OrSLxG9kMY59neSIdZ/mXIkC4U+ozWpaHjiBBOLF0prnaSM6C5Cp1Vf7eVd0dj7p2v1A==;hZAmUXzQK3Z1+zC03Ir81Q=="
 ---

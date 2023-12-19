@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/blog/microsoft-is-a-leader-in-th
 webUrl: "https://azure.microsoft.com/en-us/blog/microsoft-is-a-leader-in-the-2023-idc-marketscape-for-ai-governance-platforms/"
 type: article
 quality: 101
-heat: 161
+heat: 171
 published: true
 
 provider:
@@ -70,6 +70,20 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?537922"
         width: 419
         height: 250
+        isCached: true
+  - title: "Microsoft, Tom Tom are bringing a generative AI assistant to vehicles"
+    excerpt: "TomTom and Microsoft collaborate on a conversational automotive assistant powered by OpenAI's language models and Microsoft products like Azure Cosmos"
+    publishedDateTime: 2023-12-19T11:32:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-tom-tom-are-bringing-a-generative-ai-assistant-to-vehicles/articleshow/106125585.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 54
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-106125586,width-1070,height-580,imgsize-526522,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1068
+        height: 580
         isCached: true
   - title: "AFL-CIO and Microsoft Announce New Tech-Labor Partnership on AI and the Future of the Workforce"
     excerpt: "This collaboration will start this winter and take the form of Microsoft hosted labor summits. The partners will bring labor leaders and workers together with Microsoft's key AI product developers, researchers and business leaders for intensive discussions ..."

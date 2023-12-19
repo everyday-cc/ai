@@ -33,22 +33,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "These six questions will dictate the future of generative AI"
-    excerpt: "Generative AI was trained on the internet and so has inherited many of its unsolved issues, including those related to bias, misinformation, copyright infringement, human rights abuses, and all-round economic upheaval. But we’re not going in blind."
-    publishedDateTime: 2023-12-19T10:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/12/19/1084505/generative-ai-artificial-intelligence-bias-jobs-copyright-misinformation/"
-    ampWebUrl: "https://www.technologyreview.com/2023/12/19/1084505/generative-ai-artificial-intelligence-bias-jobs-copyright-misinformation/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/19/1084505/generative-ai-artificial-intelligence-bias-jobs-copyright-misinformation/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/12/GenAI_Uncertain_Selman_RGB2.jpg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
   - title: "People are using artificial intelligence to create avatars of dead loved ones"
     excerpt: "Companies like HereAfter AI and StoryFile are offering people the chance to record voice recordings and videos before they die so their family can still interact with them when they are gone"
     publishedDateTime: 2023-12-17T08:00:00Z

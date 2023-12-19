@@ -19,19 +19,35 @@ topics:
   - AI
 
 related:
-  - title: "16 Innovative Ways Agencies Can Leverage Generative AI In 2024"
-    excerpt: "Generative AI tools are being leveraged by agency professionals and in-house teams around the world as they seek ways to better understand and reach target audiences."
-    publishedDateTime: 2023-12-15T17:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/12/15/16-innovative-ways-agencies-can-leverage-generative-ai-in-2024/"
+  - title: "Tackling Ethical and Security Concerns of Generative AI Models"
+    excerpt: "Artificial Intelligence (AI) has been rapidly transforming different industries across the globe for the last decade, but 2023 has been a banner year for AI with generative AI tools like ChatGPT, Bard and now Gemini – Google’s newest and most capable AI model – making waves in the AI world."
+    publishedDateTime: 2023-12-19T12:14:00Z
+    webUrl: "https://techbullion.com/tackling-ethical-and-security-concerns-of-generative-ai-models/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
+      name: Impacts
+      domain: techbullion.com
+    quality: 71
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/655e5665f16e596330a94c9e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/Ethical-03.jpg"
+        width: 1000
+        height: 500
+        isCached: true
+  - title: "These six questions will dictate the future of generative AI"
+    excerpt: "Generative AI was trained on the internet and so has inherited many of its unsolved issues, including those related to bias, misinformation, copyright infringement, human rights abuses, and all-round economic upheaval. But we’re not going in blind."
+    publishedDateTime: 2023-12-19T10:00:00Z
+    webUrl: "https://www.technologyreview.com/2023/12/19/1084505/generative-ai-artificial-intelligence-bias-jobs-copyright-misinformation/"
+    ampWebUrl: "https://www.technologyreview.com/2023/12/19/1084505/generative-ai-artificial-intelligence-bias-jobs-copyright-misinformation/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/19/1084505/generative-ai-artificial-intelligence-bias-jobs-copyright-misinformation/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/12/GenAI_Uncertain_Selman_RGB2.jpg?w=3000"
+        width: 3000
+        height: 1688
         isCached: true
   - title: "Inside Bayer’s embrace of generative AI"
     excerpt: "In this wide-ranging interview, Bayer’s head of digital transformation Saskia Steinacker shares her top tips for implementing a genAI roadmap in commercial."
@@ -47,15 +63,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Dell Technologies storage advancements accelerate AI and generative AI strategies"
-    excerpt: "Dell PowerScale systems deliver up to a 200% performance improvement for streaming reads and writes to help customers more quickly access data for AI workloads."
-    publishedDateTime: 2023-12-14T12:36:00Z
-    webUrl: "https://www.cloudcomputing-news.net/news/2023/dec/14/dell-technologies-storage-advancements-accelerate-ai-and-generative-ai-strategies/"
-    type: article
-    provider:
-      name: Cloud Computing
-      domain: cloudcomputing-news.net
-    quality: 14
 
 secured: "qM243yDHIESw3e19HAur6uYUPGVJmzpOuQ+FtdpbR2ciTUzxXM8VER7K9xNVVk7IPJVjnKuiE2tbIOsO4bD1vQH8uAvCIABdzBeXFE3T5CPdLS9ypx1H3rcjRGIbd0hcxjSM9haUR5/FJo44myh2GMOqCV0jBcLolYjaZxQua9+iy6maeZ9KN0VoeMUa+/awFLt1ja1kDpPkoF2v6JueeSRoM3RVHu/FHHFXPD3LFz1URqMM+D22hJusT0JulM7dhA/GtKOAEkaTvH8E/2I7lMqL8p6eI9u12rxzER5D63QG2MMo0rTDTBJVfSqk6bkKj1hkxC862NrAXza6DSqdL2mzTxu4kAjj2Vz0T3qhVGE=;LWUj3bmgb9LBl8tj8vvuWw=="
 ---

@@ -77,6 +77,20 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "The Impact of Artificial Intelligence On Real Estate Marketing"
+    excerpt: "Artificial Intelligence (AI) has become a driving force across various industries, reshaping traditional practices and enhancing efficiency. In the realm of real estate, AI is revolutionizing marketing strategies,"
+    publishedDateTime: 2023-12-15T12:21:00Z
+    webUrl: "https://realtybiznews.com/the-impact-of-artificial-intelligence-on-real-estate-marketing/98780587/"
+    type: article
+    provider:
+      name: realtybiznews
+      domain: realtybiznews.com
+    quality: 58
+    images:
+      - url: "https://realtybiznews.com/wp-content/uploads/2022/07/banner-2.png"
+        width: 300
+        height: 250
+        isCached: true
   - title: "How to spot artificial intelligence-generated content"
     excerpt: "The catch: this was not Gordon Ramsay. It was an artificial intelligence (AI) version of Ramsay being used to steal people’s identities. With the 2024 Presidential election fast approaching ..."
     publishedDateTime: 2023-12-15T12:09:00Z

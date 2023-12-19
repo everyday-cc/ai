@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/deepminds-ai-finds-solution-to-decades
 webUrl: "https://thenextweb.com/news/deepminds-ai-finds-solution-to-decades-old-math-problem"
 type: article
 quality: 96
-heat: 156
+heat: 166
 published: true
 
 provider:
@@ -75,6 +75,20 @@ related:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2023/12/llm-math1r.jpg?w=3000"
         width: 3000
         height: 1688
+        isCached: true
+  - title: "DeepMind Says Its AI Solved a Math Problem That Humans Were Stumped By"
+    excerpt: "DeepMind claims that for the first time, an AI has solved a famously difficult math problem with a solution that eluded human mathematicians — which could be huge if it holds up to scrutiny."
+    publishedDateTime: 2023-12-16T13:41:00Z
+    webUrl: "https://futurism.com/the-byte/deepmind-ai-math-solution"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 71
+    images:
+      - url: "https://wp-assets.futurism.com/2023/12/deepmind-ai-math-solution.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Google’s DeepMind creates generative AI model with fact checker to crack unsolvable math problem"
     excerpt: "Google's DeepMind creates generative AI model with fact checker to crack unsolvable math problem - SiliconANGLE"

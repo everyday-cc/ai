@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/15/three-uses
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/15/three-uses-for-artificial-intelligence-in-financial-services-in-2024/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64b5515e45aeec9aede9bcfd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1600
         height: 899
+        isCached: true
+  - title: "The Top Five AI Use Cases And Trends For 2024 And Beyond"
+    excerpt: "As we witness groundbreaking advancements, here are my predictions of the five key AI tech trends for 2024 and beyond."
+    publishedDateTime: 2023-12-19T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/19/the-top-five-ai-use-cases-and-trends-for-2024-and-beyond/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/19/the-top-five-ai-use-cases-and-trends-for-2024-and-beyond/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/19/the-top-five-ai-use-cases-and-trends-for-2024-and-beyond/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c2d5d97f8b3786fc03e3c3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Improving the call centre experience in the financial services sector"
     excerpt: "British banking and insurance holding company NatWest Group serves 19 million customers across 12 banking and financial services brands via its network of call centres. To deliver the best possible service to customers while also protecting their data,"

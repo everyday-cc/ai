@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wfmynews2.com/amp/article/sports/nfl/panthers/bank-of-am
 cdnAmpWebUrl: "https://www-wfmynews2-com.cdn.ampproject.org/c/s/www.wfmynews2.com/amp/article/sports/nfl/panthers/bank-of-america-stadium-facial-recognition-panthers-fans-tickets-silver-club/275-5f0ca2cc-5c2a-4828-8fda-3321fd64cf7e"
 type: article
 quality: 76
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -28,15 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Internet Marketing Association Wraps One of the Largest Artificial Intelligence Conferences in America"
-    excerpt: "A consensus was reached that Generative AI and unlocking \"intelligence as a service\" will be regarded as the largest technological impact to business and society in history, overshadowing the invention of the microchip and the internet. Virtually every ..."
-    publishedDateTime: 2023-12-14T12:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/internet-marketing-association-wraps-one-of-the-largest-artificial-intelligence-conferences-in-america-1032902126"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
   - title: "Internet Marketing Association Wraps One Of The Largest Artificial Intelligence Conferences In America"
     excerpt: "IMA has established a position as one of the largest and fastest growing groups in the world focused on internet marketing. Members represent a wide range of fields associated with this dynamic and pivotal aspect of business and society. For information on the Internet Marketing Association, visit ."
     publishedDateTime: 2023-12-14T18:27:00Z

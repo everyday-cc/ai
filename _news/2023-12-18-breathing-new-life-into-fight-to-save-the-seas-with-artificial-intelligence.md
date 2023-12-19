@@ -31,6 +31,22 @@ related:
       name: IBM
       domain: ibm.com
     quality: 95
+  - title: "Navigating cloud concentration and AI lock-in"
+    excerpt: "All the worry over technical debt and the risks of cloud vendor lock-in has spread to AI, only the stakes are now much higher."
+    publishedDateTime: 2023-12-19T10:02:00Z
+    webUrl: "https://www.infoworld.com/article/3711745/navigating-cloud-concentration-and-ai-lock-in.html"
+    ampWebUrl: "https://www.infoworld.com/article/3711745/navigating-cloud-concentration-and-ai-lock-in.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711745/navigating-cloud-concentration-and-ai-lock-in.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/07/11/20/level_bolt_doorentry_handopening-100943200-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "EU’s Sweeping New AI Act Could Be An Innovation Killer"
     excerpt: "The European Union's draft AI law emerges amidst rising concerns among EU member states that regulations could choke off innovation."
     publishedDateTime: 2023-12-15T19:54:00Z

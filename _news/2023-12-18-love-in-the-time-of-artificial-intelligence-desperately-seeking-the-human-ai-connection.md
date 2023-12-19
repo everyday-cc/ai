@@ -19,63 +19,42 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "The Time To Formalize An Approach To AI Adoption Is Now"
-    excerpt: "Ignoring the potential of AI and clinging to conventional methods can result in missed opportunities and a loss of competitiveness in today's market."
-    publishedDateTime: 2023-12-14T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/12/14/the-time-to-formalize-an-approach-to-ai-adoption-is-now/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/12/14/the-time-to-formalize-an-approach-to-ai-adoption-is-now/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/12/14/the-time-to-formalize-an-approach-to-ai-adoption-is-now/amp/"
+  - title: "AI gives birth to AI: Scientists say machine intelligence now capable of replicating without humans"
+    excerpt: "A group of scientists from across the U.S. claim to have created the first artificial intelligence capable of generating AI without human supervision."
+    publishedDateTime: 2023-12-15T21:00:00Z
+    webUrl: "https://www.foxnews.com/science/ai-gives-birth-ai-scientists-say-machine-intelligence-capable-replicating-without-humans"
+    ampWebUrl: "https://www.foxnews.com/science/ai-gives-birth-ai-scientists-say-machine-intelligence-capable-replicating-without-humans.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/science/ai-gives-birth-ai-scientists-say-machine-intelligence-capable-replicating-without-humans.amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Fox News
+      domain: foxnews.com
+    quality: 75
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/60aebd253bb898555bf94d92/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e4336cb-1ed1-4bdb-8d7a-51b172f56e8f/f6e77140-9cf3-4af3-9e39-df8551415803/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Unleashing The Power Of AI: How An AI Council Can Help Drive Business Transformation"
-    excerpt: "Having an internal body comprised of experts with a comprehensive understanding of AI and its potential can mitigate challenges and drive successful AI implementation."
-    publishedDateTime: 2023-12-14T12:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/14/unleashing-the-power-of-ai-how-an-ai-council-can-help-drive-business-transformation/"
+  - title: "AI self-replication: Machine intelligence can now replicate independently"
+    excerpt: "One device Sun and Chen demonstrated — a human activity tracker that uses AI to gather and analyze motion data — was housed in a chip smaller than a dime. That sensor is an example of tiny machine learning, small AI systems that can be used in compact ..."
+    publishedDateTime: 2023-12-18T10:46:00Z
+    webUrl: "https://www.fox10phoenix.com/news/ai-self-replication-machine-intelligence-can-now-replicate-independently"
+    ampWebUrl: "https://www.fox10phoenix.com/news/ai-self-replication-machine-intelligence-can-now-replicate-independently.amp"
+    cdnAmpWebUrl: "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/news/ai-self-replication-machine-intelligence-can-now-replicate-independently.amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 42
-  - title: "Where the battle to dominate AI may be won"
-    excerpt: "When you fire up an artificial intelligence chatbot like Google’s Bard or OpenAI’s ChatGPT, you’re really interacting with the product of three or four key ingredients. One is the engineering talent it took to design the chatbot’s AI model."
-    publishedDateTime: 2023-12-19T10:00:00Z
-    webUrl: "https://ktvz.com/money/cnn-business-consumer/2023/12/19/where-the-battle-to-dominate-ai-may-be-won/"
+      name: FOX 10 Phoenix
+      domain: fox10phoenix.com
+    quality: 40
+  - title: "AI self-replication: Machine intelligence can now replicate independently"
+    excerpt: "Artificial intelligence models can now create smaller AI systems without the help of a human, according to research published."
+    publishedDateTime: 2023-12-18T19:09:00Z
+    webUrl: "https://www.fox4news.com/news/ai-self-replication-machine-intelligence-can-now-replicate-independently"
     type: article
     provider:
-      name: KTVZ
-      domain: ktvz.com
-    quality: 39
-    images:
-      - url: "https://ktvz.b-cdn.net/2023/08/T6W6K2eT-ktvz-860x484.jpg"
-        width: 860
-        height: 484
-        isCached: true
-  - title: "Nth Exception launches AI tool for ISO 20022 adoption"
-    excerpt: "London-based fintech Nth Exception has launched Nucleus, a machine learning data fabric to ease financial institutions into ISO 20022 adoption."
-    publishedDateTime: 2023-12-15T11:06:00Z
-    webUrl: "https://www.finextra.com/newsarticle/43442/nth-exception-launches-ai-tool-for-iso-20022-adoption"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
-  - title: "How Publishers Can Navigate the AI Revolution"
-    excerpt: "Despite the hype, publishing is still looking at what impact large language models and similar technology may bring."
-    publishedDateTime: 2023-12-16T01:22:00Z
-    webUrl: "https://www.publishersweekly.com/pw/by-topic/digital/content-and-e-books/article/93963-how-publishers-can-navigate-the-ai-revolution.html"
-    type: article
-    provider:
-      name: Publishers Weekly
-      domain: publishersweekly.com
-    quality: 19
+      name: KDFW
+      domain: fox4news.com
+    quality: 20
 
 secured: "wz8/JkSq3M70KEXF+3jRa4/jH4xNPB4k13n8R0Ea+6qA82bYwDk4iconewhXWrw1UMNh70c83vIz6Dew/nalTwsDA4T1WbnW9ZBKIE1wFQwPl3RBfHf4XC+lIe9FywRrgOh6YEBDBjr9CL4b8hMQmNUN6TIvsDdt/Kw4yuJ1MaYve+a0vZ0cwBGpQjCbsScb/t1Aixl3d2VkyvmBdJCm/E2gdNLyCe3nuw3e0g+LgW7IgPj50H5Bt3dcKGxefeVUTthRtaKbyJQln7je88quHOZsoitA1zvnRJaD6yJ1qoBxg9Z05vVwNNbL5R4J31UaGoTSORsTH6dCXIsen9HxqSewsPg7iL400rZSoKwwEXc1A6alrgEtxSxKu0jHR5uds3dmmUxIsJO873cpoqHlQi7+L9Qw7DioN94u3nxkPZnk1WL9thyIYadpxY/NvbfEkEhHpFsaD1QuBemkKM4Hpdsbt38XMoufE0AViF1mQspEJik4VasWUlUZbtD7YuAo39W1MOXWJ18MUusSn8z98Q==;zttO1qR1QAon8mXIY11vfg=="
 ---

@@ -57,19 +57,19 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Building custom Gemini Pro AI models with new API"
-    excerpt: "As announced earlier this month Google has now made available its new Gemini artificial intelligence API enabling developers ... It outperforms other similarly-sized models on multiple research benchmarks. Additionally, it comes with a 32K context window ..."
-    publishedDateTime: 2023-12-14T12:11:00Z
-    webUrl: "https://www.geeky-gadgets.com/gogole-gemini-api/"
+  - title: "The state of AI development According to Google"
+    excerpt: "Few advancements could cause both the excitement and fear AI elicits - according to some, it's the solution to humanity's problems. Others will tell you it's the beginning of the end of civilisation as we know it."
+    publishedDateTime: 2023-12-19T12:00:00Z
+    webUrl: "https://www.ibc.org/features/the-state-of-ai-development-according-to-google/10589.article"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
+      name: IBC
+      domain: ibc.org
     quality: 39
     images:
-      - url: "https://www.geeky-gadgets.com/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FoFYB9msll9I%2F0.jpg"
-        width: 480
-        height: 360
+      - url: "https://d3dh6of9cnaq4t.cloudfront.net/Pictures/1024x536/1/2/1/26121_googleai1_787615.jpg"
+        width: 1024
+        height: 536
         isCached: true
   - title: "Google’s Gemini: is the new AI model really better than ChatGPT?"
     excerpt: "Google Deepmind has recently announced Gemini, its new AI model to compete with OpenAI’s ChatGPT. While both models are examples of “generative AI”, which learn to find patterns of input training information to generate new data (pictures, words or other media), ChatGPT is a large language model (LLM) which focuses on producing text."

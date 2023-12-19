@@ -72,15 +72,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Microsoft Explores Using Liquids to Cool AI Chips"
-    excerpt: "Without cool air constantly blowing through the racks of computers, the advanced chips would cook themselves. The cost of running enough fans and air conditioners to keep this from happening is leading chipmakers and data center operators to find ..."
-    publishedDateTime: 2023-12-14T12:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-12-14/microsoft-explores-using-liquids-to-cool-ai-chips"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 81
   - title: "Microsoft Azure OpenAI Service is 2x More Expensive than Google Vertex AI"
     excerpt: "When compared with Microsoft Azure OpenAI Service advanced models, say GPT-4, especially for training, it's two times more expensive than Vertex AI. For instance, Vertex AI training costs range from $0."
     publishedDateTime: 2023-12-19T07:00:00Z

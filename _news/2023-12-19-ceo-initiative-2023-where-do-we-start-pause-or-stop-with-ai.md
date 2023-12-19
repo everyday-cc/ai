@@ -9,7 +9,7 @@ ampWebUrl: "https://fortune.com/videos/watch/ceo-initiative-2023%3A-where-do-we-
 cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/ceo-initiative-2023%3A-where-do-we-start%2C-pause%2C-or-stop-with-ai/331ba556-0b4a-41cb-9cb0-3569dae6595b/amp"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "2023: The year we played with artificial intelligence — and weren't sure what to do about it"
-    excerpt: "Artificial intelligence went mainstream in 2023 — it was a long time coming yet has a long way to go for the technology to match people's science fiction fantasies of human-like machines ..."
-    publishedDateTime: 2023-12-14T11:23:00Z
-    webUrl: "https://www.koat.com/article/2023-the-year-we-played-with-artificial-intelligence/46130638"
-    ampWebUrl: "https://www.koat.com/amp/article/2023-the-year-we-played-with-artificial-intelligence/46130638"
-    cdnAmpWebUrl: "https://www-koat-com.cdn.ampproject.org/c/s/www.koat.com/amp/article/2023-the-year-we-played-with-artificial-intelligence/46130638"
-    type: article
-    provider:
-      name: KOAT Albuquerque
-      domain: koat.com
-    quality: 48
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap2657b47200a4de.jpg?crop=1.00xw:0.847xh;0,0&resize=1200:*"
-        width: 1024
-        height: 579
-        isCached: true
   - title: "2023: The year we played with artificial intelligence — and weren't sure what to do about it"
     excerpt: "Artificial intelligence went mainstream in 2023 — it was a long time coming yet has a long way to go for the technology to match people’s science fiction fantasies of"
     publishedDateTime: 2023-12-16T07:45:00Z

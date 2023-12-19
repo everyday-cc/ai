@@ -117,15 +117,6 @@ related:
       name: Crain's Chicago Business
       domain: chicagobusiness.com
     quality: 36
-  - title: "How 4 NYC high school students say AI-powered tools are changing their education"
-    excerpt: "New York City has grappled this year with how to respond to ChatGPT and other artificial intelligence-powered tools, banning them on school devices before later reversing course."
-    publishedDateTime: 2023-12-14T12:45:00Z
-    webUrl: "https://www.chalkbeat.org/newyork/2023/12/14/how-nyc-students-use-chatgpt-ai-tools-in-school/"
-    type: article
-    provider:
-      name: Chalkbeat
-      domain: chalkbeat.org
-    quality: 31
 
 secured: "lqSCtrUseGeKYWkYqJOqD5iP+BIz0QbVBLYlXBE4d1MZGhUI0Skk9UvjqwYpMXgI556sktgJ57bO9aq6FKfY/5SMAWsD4hjx+ErV9ouzqgxUksCsYSdAFduIp2rNdQhIAh9kgiNzjtysLAwljc+0lhvxLYHNDFSx2vGBzbDG2iuhhdp61EenMLV2zTF2D2mu7ltl3KI7OopWAYy784y+UvA2B+ruOHHE7jtMAnVGJvcs8UoZLIgLUXNfkLQTWF9y0qctxJteQOGQEytp9CYGy5MELhnXZF6nrM75KwPOmzdQ9IIbXQpulCzrMG6GxmD0phcNx2ImPkgx7u7BQV7qtBsP5FltE7LH4dpUKHXVOsnB6Vt5fPX8nodJ3tnGGlXL11p81BlQ84ngdd+26DpKN3YupugpS/s+kMC5bsgS0vzPes/ZKtZXMvMhXZx3oO/naMsKCG+Op2imVkzBWhZyNhUe0I8WPvg7f35ByhaWMLhK5ExR4hvW1qCB5G7+na6Y8cDntttJswGhNkdSn8ALbg==;tX/whifVqNnzOFAc6UKkzA=="
 ---

@@ -19,63 +19,47 @@ topics:
   - AI
 
 related:
-  - title: "The Time To Formalize An Approach To AI Adoption Is Now"
-    excerpt: "Ignoring the potential of AI and clinging to conventional methods can result in missed opportunities and a loss of competitiveness in today's market."
-    publishedDateTime: 2023-12-14T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/12/14/the-time-to-formalize-an-approach-to-ai-adoption-is-now/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/12/14/the-time-to-formalize-an-approach-to-ai-adoption-is-now/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/12/14/the-time-to-formalize-an-approach-to-ai-adoption-is-now/amp/"
+  - title: "How Will AI Revolutionize Talent Assessments In 2024?"
+    excerpt: "For decades, companies have relied heavily on selection tools like psychometrics (e.g. ability tests, personality assessments, work preference inventories), competency-based assessments (e.g. situational judgment tests),"
+    publishedDateTime: 2023-12-18T22:48:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/happybytes/202312/how-will-ai-revolutionize-talent-assessments-in-2024"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/happybytes/202312/how-will-ai-revolutionize-talent-assessments-in-2024?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/happybytes/202312/how-will-ai-revolutionize-talent-assessments-in-2024?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/60aebd253bb898555bf94d92/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-12/pexels-google-deepmind-17483868.jpg?h=4f52e0ef&itok=0WmKPJMA"
+        width: 1528
+        height: 800
         isCached: true
-  - title: "Unleashing The Power Of AI: How An AI Council Can Help Drive Business Transformation"
-    excerpt: "Having an internal body comprised of experts with a comprehensive understanding of AI and its potential can mitigate challenges and drive successful AI implementation."
-    publishedDateTime: 2023-12-14T12:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/14/unleashing-the-power-of-ai-how-an-ai-council-can-help-drive-business-transformation/"
+  - title: "Gen AI is a game-changer in bond investment risk assessment"
+    excerpt: "Generative AI is changing the equation, though. It has emerged as a transformative force in managing bond investment risks by automating and optimizing complex analytical tasks. Gen AI models can sift through vast quantities of unstructured data related to bonds, identify critical information, and compare it against risk parameters."
+    publishedDateTime: 2023-12-18T16:16:00Z
+    webUrl: "https://www.cio.com/article/1265414/gen-ai-is-a-game-changer-in-bond-investment-risk-assessment.html"
+    ampWebUrl: "https://www.cio.com/article/1265414/gen-ai-is-a-game-changer-in-bond-investment-risk-assessment.html/amp/"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/1265414/gen-ai-is-a-game-changer-in-bond-investment-risk-assessment.html/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 42
-  - title: "Where the battle to dominate AI may be won"
-    excerpt: "When you fire up an artificial intelligence chatbot like Google’s Bard or OpenAI’s ChatGPT, you’re really interacting with the product of three or four key ingredients. One is the engineering talent it took to design the chatbot’s AI model."
-    publishedDateTime: 2023-12-19T10:00:00Z
-    webUrl: "https://ktvz.com/money/cnn-business-consumer/2023/12/19/where-the-battle-to-dominate-ai-may-be-won/"
-    type: article
-    provider:
-      name: KTVZ
-      domain: ktvz.com
+      name: CIO
+      domain: cio.com
     quality: 39
+  - title: "5 Best Artificial Intelligence Software for Small Businesses in 2024"
+    excerpt: "Artificial intelligence is helping upscale small businesses. You might also like Activision Blizzard Settles Lawsuit for Over $50 Million, Paving the Way for Microsoft’s Takeover BlackRock Engages in Extensive Consultations with SEC Regarding Spot Bitcoin ETF Application Tether’s Strategic Move: Collaborating with FBI and Secret Service to Enhance Platform Security For a long time,"
+    publishedDateTime: 2023-12-18T06:24:00Z
+    webUrl: "https://techstory.in/5-best-artificial-intelligence-software-for-small-businesses-in-2024/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 37
     images:
-      - url: "https://ktvz.b-cdn.net/2023/08/T6W6K2eT-ktvz-860x484.jpg"
-        width: 860
-        height: 484
+      - url: "https://techstory.in/wp-content/uploads/2023/12/thisisengineering-raeng-64YrPKiguAE-unsplash-1024x683.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Love in the time of artificial intelligence: Desperately seeking the human-AI connection"
-    excerpt: "If AI dredges up apocalyptic fears that it will corrode human connections irreparably, maybe the best solution is to ask another informed human being."
-    publishedDateTime: 2023-12-18T14:01:00Z
-    webUrl: "https://adage.com/article/digital-marketing-ad-tech-news/love-time-artificial-intelligence-desperately-seeking-human-ai-connection/2533936"
-    type: article
-    provider:
-      name: Ad Age
-      domain: adage.com
-    quality: 25
-  - title: "Nth Exception launches AI tool for ISO 20022 adoption"
-    excerpt: "London-based fintech Nth Exception has launched Nucleus, a machine learning data fabric to ease financial institutions into ISO 20022 adoption."
-    publishedDateTime: 2023-12-15T11:06:00Z
-    webUrl: "https://www.finextra.com/newsarticle/43442/nth-exception-launches-ai-tool-for-iso-20022-adoption"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
 
 secured: "oiLWJ9Sa+wPDbixRBb7jIzYzxf2FnFarFUyNPuLWVeF2T3Jn7yid2aw8e3kwtihaZ6XYjjQNsRJQDMjeIt/dku0uCOl+0pCN+1sl2OcHE5uhk8fbSioHD5FhQ/cJBgKuoQQSDAocRKKi/yrRHFiQ4vwuydH1XpV+9ziWoPX2EaozSUKaGzRL0An7qhdwOP0CtSHrpvc6ACpzjKVRPI+HRP2YwIExbQxbDwvAzvTX6v8nfvV2ss0jK8wmBnYhXO+pBSWThgQ7WQ9KrWZE729kO6asoj6eAZQkNQPuQ+4i4DAJbjJcRkbVK7pqC5BJuj7e+RaIZK3mxneaHzpSQBMjTOTkIqrMoC8k6zMa1vpu43YjUc/7j/IDrHlh/3HfUWroE/8gDVkIQZBqWoW4mClcu5+PfCm5gyxXEOTKKa5uwkHpp/qbc7i4k1IwrTFKZsBamG+vBr8X6n+hQum0xY5hdcblVLZg7WlZk25rxtwQCJGCJzFxuYJvh4ySPkyMooQlvRVvYVlCCB+0Hvb6wbuN0g==;IkDpkzjaxOWFX30qov7vTQ=="
 ---

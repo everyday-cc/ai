@@ -86,6 +86,20 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "DeepMind Says Its AI Solved a Math Problem That Humans Were Stumped By"
+    excerpt: "DeepMind claims that for the first time, an AI has solved a famously difficult math problem with a solution that eluded human mathematicians — which could be huge if it holds up to scrutiny."
+    publishedDateTime: 2023-12-16T13:41:00Z
+    webUrl: "https://futurism.com/the-byte/deepmind-ai-math-solution"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 71
+    images:
+      - url: "https://wp-assets.futurism.com/2023/12/deepmind-ai-math-solution.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Google Deepmind LLM Solves Major Open Question in Math. AI Advancing Science is Huge Progress to AGI"
     excerpt: "Google’s Gemini LLMs (Large Language Model) produced a new math discoveries and solves real-world problems. This is a significant step to AGI. The AI is speeding up progress in math and science. This is the first time a new discovery has been made for ..."
     publishedDateTime: 2023-12-14T20:26:00Z

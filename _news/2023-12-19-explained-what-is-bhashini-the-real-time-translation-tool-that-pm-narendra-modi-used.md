@@ -121,6 +121,20 @@ related:
         width: 1280
         height: 960
         isCached: true
+  - title: "Modi utilizes homegrown AI gadget to speak to people"
+    excerpt: "In a historic move, Indian Prime Minister Narendra Modi utilized an AI-based language translation tool during his public speech on Sunday in Varanasi"
+    publishedDateTime: 2023-12-19T12:43:00Z
+    webUrl: "https://menafn.com/1107625044/Modi-utilizes-homegrown-AI-gadget-to-speak-to-people"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_Media_247.jpg"
+        width: 4640
+        height: 3476
+        isCached: true
   - title: "Prime Minister Modi uses AI tool ‘Bhasini’ for the first time | What is 'Bhasini'?"
     excerpt: "At Kashi Tamil Sangamam event in Varanasi, PM Modi used an AI tool ‘Bhasini’ for the first-time. AI ‘Bhasini’ live-translated PM Modi’s Hindi speech in Tamil. It uses AI-driven language transition tool,"
     publishedDateTime: 2023-12-18T14:25:00Z

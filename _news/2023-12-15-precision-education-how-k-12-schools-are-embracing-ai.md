@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/neilsahota/2023/12/15/precision-educati
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/neilsahota/2023/12/15/precision-education-how-k-12-schools-are-embracing-ai/amp/"
 type: article
 quality: 104
-heat: 184
+heat: 174
 published: true
 
 provider:
@@ -121,15 +121,6 @@ related:
       name: Crain's Chicago Business
       domain: chicagobusiness.com
     quality: 36
-  - title: "How 4 NYC high school students say AI-powered tools are changing their education"
-    excerpt: "New York City has grappled this year with how to respond to ChatGPT and other artificial intelligence-powered tools, banning them on school devices before later reversing course."
-    publishedDateTime: 2023-12-14T12:45:00Z
-    webUrl: "https://www.chalkbeat.org/newyork/2023/12/14/how-nyc-students-use-chatgpt-ai-tools-in-school/"
-    type: article
-    provider:
-      name: Chalkbeat
-      domain: chalkbeat.org
-    quality: 31
 
 secured: "MdjqpYBLFFgA9goJtXML/AJ/FEDFLAXaVTCRChPTaeRGjKHdpyZ+9GJZPWBTbO+NgoZ34vfrJoKqWY094uUGdSFnge82ic2K0y29EPcGzHsjH5xkajlYmwIugnuUUcayRVQcY3CWjyQV/tovkSvlKduDDclVOhcyAaJsZoWi9VJPk+UFHU22oNX3AUXB+1wLW29mIKT5xd2mgsscwwuOylE/n2+fHspmXhnUOniFnHvxGNwbUPi08Fwld4Ouk4JZTMFBhLF1Ymymf4ZBngeDTJctBeXoHwGzGurNRTKDFfMKzMDesQKuZQo60JYiuR+kvmN/Dss/r4/f+qg4ThV97Y7aEvvRV0WOai59q/hn7SeBuo69qTLGb38bhohK3+swcB9UkVWgauH2oS++mk5969fAshj4pJk6ELbQBCC1Q0epTojfhyYsqcoMsnlHycCuisdcc6tmgktT+vKjkwXJ5at3wgWX81cxcEY9Ikp3uFqzQjTAAJFvL59DJAbNHsZlrMP+Y4HB4IZ8AoGEJ8l1TA==;UbKRM58ZRmnOexTCHV6rjw=="
 ---

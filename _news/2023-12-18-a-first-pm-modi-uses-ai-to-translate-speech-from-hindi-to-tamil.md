@@ -9,7 +9,7 @@ ampWebUrl: "https://m.tribuneindia.com/news/india/a-first-pm-modi-uses-ai-to-tra
 cdnAmpWebUrl: "https://m-tribuneindia-com.cdn.ampproject.org/c/s/m.tribuneindia.com/news/india/a-first-pm-modi-uses-ai-to-translate-speech-from-hindi-to-tamil-572891"
 type: article
 quality: 74
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -106,6 +106,20 @@ related:
       - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/17_12_2023_17_52_36_0239386.jpg?width=1280"
         width: 1280
         height: 960
+        isCached: true
+  - title: "Modi utilizes homegrown AI gadget to speak to people"
+    excerpt: "In a historic move, Indian Prime Minister Narendra Modi utilized an AI-based language translation tool during his public speech on Sunday in Varanasi"
+    publishedDateTime: 2023-12-19T12:43:00Z
+    webUrl: "https://menafn.com/1107625044/Modi-utilizes-homegrown-AI-gadget-to-speak-to-people"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_Media_247.jpg"
+        width: 4640
+        height: 3476
         isCached: true
   - title: "Explained: What is Bhashini, the real-time translation tool that PM Narendra Modi used"
     excerpt: "Prime Minister Narendra Modi utilized Bhashini, an AI-based translation tool, during a speech in Varanasi. Bhashini breaks language barriers using AI,"

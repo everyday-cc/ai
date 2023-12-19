@@ -34,6 +34,15 @@ related:
       name: Crain's New York
       domain: crainsnewyork.com
     quality: 4
+  - title: "Fintech in Italy: there are 622 startups but investments are decreasing. Focus on Artificial IntelligenceA"
+    excerpt: "Among the 622 Fintech startups, 109 are focused on insurtech. A stable number that shows the maturity of the market. However, investments have fallen by 81% even though a third of the startups are profitable."
+    publishedDateTime: 2023-12-16T18:20:00Z
+    webUrl: "https://www.firstonline.info/en/fintech-startups-in-Italy-are-622-but-investments-are-decreasing-with-a-focus-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: FIRSTonline
+      domain: firstonline.info
+    quality: 1
 
 secured: "wqixxlWF/+s1udzY3/y/EfKbAnLL9gfjg4P5O13ywHqCtbgYeVRnmKm4CfWIPpCR9ARO/2ynY1g24nQ0TrcP2STBrUME0CnTukQfxKybUrKvD9ZQ+3lpPFJZ0eWCJeS/300QbIaUTna5VpyWLm1951/9AQ5AdPxkU2B+ARL09/LOCjdxtKrcWo2KvguSnk9exHSYSNLWXb8XYcXEV58INZQkUVHWpSaOt9umqLvg17WyUChdMN51jQJErNEvCKgQ5pzcf6DZhpVN/bbO+/oJvPRVjE58Ou1xXUc4zaaTObuGw+RlBcgyQGUORJPgStjoO4y5IzSg4Y+RlTWZCrNHpXWpCyK3/P3otT/Pff+y4Ag=;KZvH6Reerr5pyOhWWofGog=="
 ---

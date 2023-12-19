@@ -81,6 +81,20 @@ related:
         width: 419
         height: 250
         isCached: true
+  - title: "Microsoft, Tom Tom are bringing a generative AI assistant to vehicles"
+    excerpt: "TomTom and Microsoft collaborate on a conversational automotive assistant powered by OpenAI's language models and Microsoft products like Azure Cosmos"
+    publishedDateTime: 2023-12-19T11:32:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-tom-tom-are-bringing-a-generative-ai-assistant-to-vehicles/articleshow/106125585.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 54
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-106125586,width-1070,height-580,imgsize-526522,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1068
+        height: 580
+        isCached: true
   - title: "Achieving cross-border data protection with Microsoft Cloud for Sovereignty"
     excerpt: "Organisations are paying for their data protection mistakes. Failure to comply with the European Union (EU)’s General Data Protection Regulation (GDPR), for example, can result in fines of up to €20.3 million ($22."
     publishedDateTime: 2023-12-15T16:08:00Z

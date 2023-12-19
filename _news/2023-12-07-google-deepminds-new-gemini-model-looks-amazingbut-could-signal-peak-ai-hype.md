@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Google DeepMind’s new Gemini model looks amazing—but could signal peak AI hype"
-excerpt: "Gemini is Google’s biggest AI launch yet—its push to take on competitors OpenAI and Microsoft in the race for AI supremacy. There is no doubt that the model is pitched as best-in-class across a wide range of capabilities—an “everything machine,” as one observer puts it."
+excerpt: "Hype about Gemini, Google DeepMind’s long-rumored response to OpenAI’s GPT-4, has been building for months. Today the company finally revealed what it has been working on in s"
 publishedDateTime: 2023-12-06T18:07:00Z
-originalUrl: "https://www.technologyreview.com/2023/12/06/1084471/google-deepminds-new-gemini-model-looks-amazing-but-could-signal-peak-ai-hype/"
-webUrl: "https://www.technologyreview.com/2023/12/06/1084471/google-deepminds-new-gemini-model-looks-amazing-but-could-signal-peak-ai-hype/"
-ampWebUrl: "https://www.technologyreview.com/2023/12/06/1084471/google-deepminds-new-gemini-model-looks-amazing-but-could-signal-peak-ai-hype/amp/"
-cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/06/1084471/google-deepminds-new-gemini-model-looks-amazing-but-could-signal-peak-ai-hype/amp/"
+originalUrl: "https://www.technologyreview.com/2023/12/06/1084471/google-deepminds-new-gemini-model-looks-amazing-but-could-signal-peak-ai-hype/amp?trk=public_post_comment-text"
+webUrl: "https://www.technologyreview.com/2023/12/06/1084471/google-deepminds-new-gemini-model-looks-amazing-but-could-signal-peak-ai-hype/amp?trk=public_post_comment-text"
+ampWebUrl: "https://www.technologyreview.com/2023/12/06/1084471/google-deepminds-new-gemini-model-looks-amazing-but-could-signal-peak-ai-hype/amp?trk=public_post_comment-text"
+cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/06/1084471/google-deepminds-new-gemini-model-looks-amazing-but-could-signal-peak-ai-hype/amp?trk=public_post_comment-text"
 type: article
 
 provider:
@@ -23,6 +23,6 @@ images:
     height: 1080
     isCached: true
 
-secured: "IRMiLDw8EZS3YpFTYChGc4JygbYt9p3+ttMExqMsSDewzVpOLLUM4a/qudovX4AkyTCYHPkKMRo3rSdtpZY3vOaZaGgmCw8uQmqNemGkz17WEKmABPNYiihFNip84pVNMIrYxUGa6uwyuqUS/9/R8wBTUw+BThD9UiSOzEOxmt3YnfoVT5I3hNSTJf/WiK9iuufzZj9QDoKULuhcOZL88KTvNE9b13fXPRcLIBKIV8IrxoAxb/CudWDJL3x5qHKxds0o7tVq6U9/4PdRRyns/UFuQK3byoUfbOsAL+tw7qAa+cx4v+RToc4AsZhU5X//l4oXkwf1pru5Gcco7rU7P29vGko3ka8C+1ki79eu+qwWMP9+EOgNtceEpuHT1/YAHrgP0JpklRAR4ouYsSXz+MWRlppAUAHNvzbM1oCqn5D+0m/vSAauaOwr9BflW/MC5NGhFwemZ8gI3P2LP1Iy1i43huphkMuqkOQIrKAMol5fBUg8YwQltiRMY6oiEkS2Lz3v3ZDpaShocjykocHB2g==;1P1VfRHTaQDykJhC7IHBmg=="
+secured: "sMtEy39hd12GhodAZKJEFkaVDwvx6tgUJoNqXR/HNBfdXXkJyUnWkN9ususxKEME6txVnSpasYGzwR8XsvqAryinr+m4Tw03XDB7rsG56b2TAQfDX0Qeo534xWtKYw9P0mg0GSUPYkbWe2XCYu/rT0dCfOcXVqAOSYEUW1pnnYuhyLUXp5EQjSCe+b3QIXqczwIU8Pz88IvepB5/GFAXVdA6kF1/2VsuLTS9uFbEVDAeRwKTO6+6K8uYBt2DnF80Qd1Kf5ald+Lw5E++s3Pl8XKZXoS6RJKQubdZCa/E+0PhVUhybGRJFp9dvj+c68r0pH92xWyE9X9aXAP4r6CZQZWoshyTKZtpGlndOkA9UFc=;HgWLGGbUZEzKUHAMZAE0lA=="
 ---
 

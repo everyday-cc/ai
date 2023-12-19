@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/15/the-potent
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/15/the-potential-of-embodied-ai/amp/"
 type: article
 quality: 91
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -77,6 +77,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/12/AdobeStock_529882524.jpeg?w=1200&strip=all"
         width: 1200
         height: 663
+        isCached: true
+  - title: "The Impact of Artificial Intelligence On Real Estate Marketing"
+    excerpt: "Artificial Intelligence (AI) has become a driving force across various industries, reshaping traditional practices and enhancing efficiency. In the realm of real estate, AI is revolutionizing marketing strategies,"
+    publishedDateTime: 2023-12-15T12:21:00Z
+    webUrl: "https://realtybiznews.com/the-impact-of-artificial-intelligence-on-real-estate-marketing/98780587/"
+    type: article
+    provider:
+      name: realtybiznews
+      domain: realtybiznews.com
+    quality: 58
+    images:
+      - url: "https://realtybiznews.com/wp-content/uploads/2022/07/banner-2.png"
+        width: 300
+        height: 250
         isCached: true
   - title: "How to spot artificial intelligence-generated content"
     excerpt: "The catch: this was not Gordon Ramsay. It was an artificial intelligence (AI) version of Ramsay being used to steal people’s identities. With the 2024 Presidential election fast approaching ..."

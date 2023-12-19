@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/science/ai-gives-birth-ai-scientists-say-mac
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/science/ai-gives-birth-ai-scientists-say-machine-intelligence-capable-replicating-without-humans.amp"
 type: article
 quality: 75
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
       name: FOX 10 Phoenix
       domain: fox10phoenix.com
     quality: 40
+  - title: "Love in the time of artificial intelligence: Desperately seeking the human-AI connection"
+    excerpt: "If AI dredges up apocalyptic fears that it will corrode human connections irreparably, maybe the best solution is to ask another informed human being."
+    publishedDateTime: 2023-12-18T14:01:00Z
+    webUrl: "https://adage.com/article/digital-marketing-ad-tech-news/love-time-artificial-intelligence-desperately-seeking-human-ai-connection/2533936"
+    type: article
+    provider:
+      name: Ad Age
+      domain: adage.com
+    quality: 25
   - title: "AI self-replication: Machine intelligence can now replicate independently"
     excerpt: "Artificial intelligence models can now create smaller AI systems without the help of a human, according to research published."
     publishedDateTime: 2023-12-18T19:09:00Z
