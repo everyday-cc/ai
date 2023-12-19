@@ -34,20 +34,6 @@ related:
         width: 1600
         height: 898
         isCached: true
-  - title: "The evolution of Wally, from expenses tracking to personal finance AI"
-    excerpt: "Resilience is often highlighted as an important skill for entrepreneurs to have and few have shown as much resilience as Saeid Hejazi"
-    publishedDateTime: 2023-12-14T02:01:00Z
-    webUrl: "https://www.wamda.com/2023/12/evolution-wally-expenses-tracking-personal-finance-ai"
-    type: article
-    provider:
-      name: wamda
-      domain: wamda.com
-    quality: 54
-    images:
-      - url: "https://cdn.wamda.com/feature-images/efd40ab2726398a.jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "AI Applications in Finance: Considering the Benefits and Risks"
     excerpt: "Considering the history of finance, today we are on the ... (full story)"
     publishedDateTime: 2023-12-15T05:40:00Z

@@ -39,15 +39,6 @@ related:
         width: 1024
         height: 681
         isCached: true
-  - title: "BMW gains test license for Level 3 autonomous driving in Shanghai"
-    excerpt: "BMW will launch products equipped with L3 self-driving functionality when they can do so in accordance with Chinese laws and regulations, the company said. The new license would expand areas for BMW to carry out tests of advanced autonomous driving ..."
-    publishedDateTime: 2023-12-14T02:48:00Z
-    webUrl: "https://europe.autonews.com/automakers/bmw-licensed-test-level-3-tech-speed-roads-shanghai"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 19
 
 secured: "M8CgtdVpIwZdTbz4DmChjEQ31zlhV6/UFPZKwTleYs2NSQkmNFUzw/jgVRYR5TgVH/hyzTuJ0trqJ78nvkn63Uf+M4U4nAbzv4F12Sbf+k/mn0EdAv2LrHTA3y24kdeaHePWsxaDOwxhdZkAEh8X5r7IQtADiBAIPiunrFDYOjVGfCBvEJOq1s0WOPrwhs67LgVJ29v+vLeIyJnqFvEPuf3gpFw4iknTYuJxX6bECZOxQkMHxxc8F/lWyjChErAH3iFtzwDh8FT7RtkWnpI0PrZSk2fenq2iYmZm5h5bs6XVvTR5yX4Z1/6SesPkqcLD5I/lJM55uMjbAI6D202User1SWItbhhYo8aswxU8mU4=;d9IKHLaTRHmyghV5pa1Mtg=="
 ---

@@ -80,6 +80,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "Plumbing and Artificial Intelligence: How AI is Revolutionizing Leak Detection"
+    excerpt: "Introduction: Artificial intelligence (AI) has become a game-changer in various industries, and plumbing is no exception. One of the critical challenges in plumbing is the timely detection of leaks, which can lead to significant water damage if left unchecked."
+    publishedDateTime: 2023-12-19T00:56:00Z
+    webUrl: "https://techbullion.com/plumbing-and-artificial-intelligence-how-ai-is-revolutionizing-leak-detection/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 48
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/Plumbing-and-Artificial-Intelligence-How-AI-is-Revolutionizing-Leak-Detection.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Implementing AI technology in business education"
     excerpt: "With that idea in mind, I want to share my experiences and those of my colleagues here at Gies College of Business at the University of Illinois Urbana–Champaign . Our approach to adopting artificial intelligence (AI) illustrates how we can embrace new technologies and prepare students for what they will encounter in their future careers."
     publishedDateTime: 2023-12-18T10:00:00Z

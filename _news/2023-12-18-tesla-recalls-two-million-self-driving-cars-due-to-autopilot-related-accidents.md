@@ -62,20 +62,6 @@ related:
       name: The Conversation
       domain: theconversation.com
     quality: 40
-  - title: "Tesla ‘recalls’ 2m cars over self-driving feature"
-    excerpt: "Chronically bad drivers could be blocked from using Tesla’s Autosteer feature after US road safety authorities forced the electric vehicle maker to issue a ‘recall’ that will improve the feature on all of the more than 2 million cars it has sold in the US and Canada since 2012."
-    publishedDateTime: 2023-12-14T02:37:00Z
-    webUrl: "https://ia.acs.org.au/article/2023/tesla--recalls--2m-cars-over-self-driving-feature.html"
-    type: article
-    provider:
-      name: ia.acs
-      domain: acs.org.au
-    quality: 39
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/tesla%20self%20driving%20update.jpg"
-        width: 1000
-        height: 563
-        isCached: true
 
 secured: "HOVSgqV8eOTfyF9n4T8kwzymy5YC+EIcYnZGCO9/GnHvZQTCL6bFr8qZWWK+pY5C7K015JkLkC7IOUzErAm4+yi+J51lBXe8VXihHWFvqDbTxZJTmO3YM33x1WoKIm7yxZpgHMYpQP7qGRaZfmGh3uGyKhwls+4hcyVcN5Mb+sQjFcCPnKxwvSkCT5u2+H/7ZNmtEcOKYBru/r+wd5tdWlX6svKo4Jr8rA+qEyxO4nClfva3QniQw+WgkstjzKxozTLiVD5Etr9HQU7AvdAsipFZkLIDia9nP7LW1aGPSGR2liT/Frdo2blERq7w8JIWSaQInoFiGF+m/CQNSiBNNJGPB6epqLWvs83z3Y1oF/z1ONi1T9g4Hh8BbUAE+xE3APsnqXc4UAajmZlWgbqxFl5JX9pVE5DPJm788ZRrjOWS0HGcCsBmKHEpKvAXrwaghvPlF7XkzX+xkfHSqpFTrQqPKmZuIUMeCgaFG/CHxQWdBesQ8lBZIBd4nutMVQV/UGqqGKbVFYR9e9nidbdzEg==;U4BHiLjd4kNjd9vVfVzkHA=="
 ---

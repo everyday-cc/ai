@@ -48,20 +48,6 @@ related:
       name: The Conversation
       domain: theconversation.com
     quality: 40
-  - title: "Tesla ‘recalls’ 2m cars over self-driving feature"
-    excerpt: "Chronically bad drivers could be blocked from using Tesla’s Autosteer feature after US road safety authorities forced the electric vehicle maker to issue a ‘recall’ that will improve the feature on all of the more than 2 million cars it has sold in the US and Canada since 2012."
-    publishedDateTime: 2023-12-14T02:37:00Z
-    webUrl: "https://ia.acs.org.au/article/2023/tesla--recalls--2m-cars-over-self-driving-feature.html"
-    type: article
-    provider:
-      name: ia.acs
-      domain: acs.org.au
-    quality: 39
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/tesla%20self%20driving%20update.jpg"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "Tesla Recalls Two Million Self-Driving Cars Due to Autopilot-Related Accidents"
     excerpt: "ALBAWABA - Tesla sent a letter to the National Highway Traffic Safety Administration, recalling two million of its self-driving cars due to the Autopilo"
     publishedDateTime: 2023-12-18T08:15:00Z

@@ -2,31 +2,27 @@
 category: news
 title: "IBM was early to AI, then lost its way. CEO Arvind Krishna explains what's next"
 excerpt: "IBM is angling hard for an AI comeback story, and CEO Arvind Krishna is counting on a recent pivot to get it there. Since May, the company has reintroduced the Watson brand as part of the ..."
-publishedDateTime: 2023-12-07T14:07:00Z
-originalUrl: "https://www.cnbc.com/2023/12/07/ibm-ceo-arvind-krishna-cnbc-interview.html"
-webUrl: "https://www.cnbc.com/2023/12/07/ibm-ceo-arvind-krishna-cnbc-interview.html"
-ampWebUrl: "https://www.cnbc.com/amp/2023/12/07/ibm-ceo-arvind-krishna-cnbc-interview.html"
-cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/12/07/ibm-ceo-arvind-krishna-cnbc-interview.html"
+publishedDateTime: 2023-12-07T00:00:00Z
+originalUrl: "https://www.nbcphiladelphia.com/news/national-international/ibm-was-early-to-ai-then-lost-its-way-ceo-arvind-krishna-explains-whats-next/3715664/"
+webUrl: "https://www.nbcphiladelphia.com/news/national-international/ibm-was-early-to-ai-then-lost-its-way-ceo-arvind-krishna-explains-whats-next/3715664/"
+ampWebUrl: "https://www.nbcphiladelphia.com/news/business/money-report/ibm-was-early-to-ai-then-lost-its-way-ceo-arvind-krishna-explains-whats-next/3715664/?amp=1"
+cdnAmpWebUrl: "https://www-nbcphiladelphia-com.cdn.ampproject.org/c/s/www.nbcphiladelphia.com/news/business/money-report/ibm-was-early-to-ai-then-lost-its-way-ceo-arvind-krishna-explains-whats-next/3715664/?amp=1"
 type: article
 
 provider:
-  name: CNBC
-  domain: cnbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: NBC 10 Philadelphia
+  domain: nbcphiladelphia.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://image.cnbcfm.com/api/v1/image/107184040-1674677984697-gettyimages-1246298067-DAVOS_WEF_2023.jpeg?v=1701896061"
-    width: 4000
-    height: 2692
+  - url: "https://media.nbcphiladelphia.com/2023/12/107184040-1674677984697-gettyimages-1246298067-DAVOS_WEF_2023.jpeg?quality=85&strip=all&resize=1200%2C675"
+    width: 1200
+    height: 675
     isCached: true
 
-secured: "/a31PCxagoTzc+AC1+Ph6Tl1Tvo2joByvztX6WJgFm/2KFPvoCqiP5xGElvLv4pYZJdcxz8f0QHQx+wO2nZ3z9BdtHUIi5cE04nI18lP+lEiG7p5uXaTKPbfp/ElrdsPND0YA4gSzsgKFd5qD/FxInPbhL05ETPhXnuigpOpjGrpYPbgmCVzPOrfwll0hyq7SSIAVP1gykkBMCSk3n9f65Y9o4Z3HkQEuYUFI2p70XY1nE88LAdU8uEicxM2INie+Fr95Ok1JPmriBA769Lqh/3rFfmYpzF9eb2AcJJgJpy6uK6aE29XwDrga05CdOI3tZ7+RJdbhXXBFjdGFo8heytcE+mhU5vSWn+l2sX9Tyg=;lxJKeWeNCN0VC1AG82VNIQ=="
+secured: "NJJn2PSDsBBiBjYD2bRUa8otj1aYCucyHQ15pm2SdlB7D232uvpcxMS0BvV7t+9xGqnZXULv43hqad2aYT2SomrcG2Nh24l41Y5R1TGgl8UyH3u4vlKs00X4yofW7KdcaQZw4NW5+qYKHHinOQmhIx5UnrL+eC7iply4B4Wkyzqo1Tq+OfT0pFfUsRnRp+JvQHkVurJjM4+i4OxVdDWaMntW+DJ8AxOdzf/zK2sninjcyTvRPi15r33v9XavNMRh4Oxdg3jHV0oVavSI1vdSbc+G8mTMKbe++Ogq9zlc+xWdCLKXO/bVCOIdDgyS0/FO6UicPoJ7rxkW+h6ZKA++byGirRXUc3rHF6z4RaY2ECw=;/8yyu00pdA660AqF2eBePw=="
 ---
 

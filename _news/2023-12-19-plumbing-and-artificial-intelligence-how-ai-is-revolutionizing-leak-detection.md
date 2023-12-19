@@ -1,23 +1,27 @@
 ---
 category: news
-title: "How 4 NYC high school students say AI-powered tools are changing their education"
-excerpt: "New York City has grappled this year with how to respond to ChatGPT and other artificial intelligence-powered tools, banning them on school devices before later reversing course."
-publishedDateTime: 2023-12-14T12:45:00Z
-originalUrl: "https://www.chalkbeat.org/newyork/2023/12/14/how-nyc-students-use-chatgpt-ai-tools-in-school/"
-webUrl: "https://www.chalkbeat.org/newyork/2023/12/14/how-nyc-students-use-chatgpt-ai-tools-in-school/"
+title: "Plumbing and Artificial Intelligence: How AI is Revolutionizing Leak Detection"
+excerpt: "Introduction: Artificial intelligence (AI) has become a game-changer in various industries, and plumbing is no exception. One of the critical challenges in plumbing is the timely detection of leaks, which can lead to significant water damage if left unchecked."
+publishedDateTime: 2023-12-19T00:56:00Z
+originalUrl: "https://techbullion.com/plumbing-and-artificial-intelligence-how-ai-is-revolutionizing-leak-detection/"
+webUrl: "https://techbullion.com/plumbing-and-artificial-intelligence-how-ai-is-revolutionizing-leak-detection/"
 type: article
-quality: 31
+quality: 48
 heat: -1
 published: false
 
 provider:
-  name: Chalkbeat
-  domain: chalkbeat.org
+  name: Impacts
+  domain: techbullion.com
 
 topics:
-  - AI Ethics
   - AI
-  - AI in Education
+
+images:
+  - url: "https://techbullion.com/wp-content/uploads/2023/12/Plumbing-and-Artificial-Intelligence-How-AI-is-Revolutionizing-Leak-Detection.jpg"
+    width: 600
+    height: 450
+    isCached: true
 
 related:
   - title: "Precision Education: How K-12 Schools Are Embracing AI"
@@ -87,20 +91,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "Plumbing and Artificial Intelligence: How AI is Revolutionizing Leak Detection"
-    excerpt: "Introduction: Artificial intelligence (AI) has become a game-changer in various industries, and plumbing is no exception. One of the critical challenges in plumbing is the timely detection of leaks, which can lead to significant water damage if left unchecked."
-    publishedDateTime: 2023-12-19T00:56:00Z
-    webUrl: "https://techbullion.com/plumbing-and-artificial-intelligence-how-ai-is-revolutionizing-leak-detection/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 48
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/Plumbing-and-Artificial-Intelligence-How-AI-is-Revolutionizing-Leak-Detection.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Implementing AI technology in business education"
     excerpt: "With that idea in mind, I want to share my experiences and those of my colleagues here at Gies College of Business at the University of Illinois Urbana–Champaign . Our approach to adopting artificial intelligence (AI) illustrates how we can embrace new technologies and prepare students for what they will encounter in their future careers."
     publishedDateTime: 2023-12-18T10:00:00Z
@@ -110,7 +100,16 @@ related:
       name: Crain's Chicago Business
       domain: chicagobusiness.com
     quality: 36
+  - title: "How 4 NYC high school students say AI-powered tools are changing their education"
+    excerpt: "New York City has grappled this year with how to respond to ChatGPT and other artificial intelligence-powered tools, banning them on school devices before later reversing course."
+    publishedDateTime: 2023-12-14T12:45:00Z
+    webUrl: "https://www.chalkbeat.org/newyork/2023/12/14/how-nyc-students-use-chatgpt-ai-tools-in-school/"
+    type: article
+    provider:
+      name: Chalkbeat
+      domain: chalkbeat.org
+    quality: 31
 
-secured: "koGuVMEGj8LRGQx4Os97doUEJDoWiZ+LL+nFpGlxNWEc37W0bQm7M7tl51qGMgYgr7ptw/4bbq6i261i/bAIfP0mlsJ2LrhPaGUHume9cuO8qSf/Pk6wQN0x1pcTW4k8tZ9eBVc0N+/MN0OHErBzfutrcuztLLJ5F7Cco8ZHxKkhzbUvMyiU85RSs/XsOL5nhSdNMdxtWp3gxYRtV06JM8WndOqW0VlxAU/MjiwGXoFsxHcqhiENvMQ7knn/eoAAeZEUXQKnWQx8rjv/rfZ+YWlHy2n59CthDfQkY5EDXsxhQq/eyTRj9qm9fX6LJ/zJhuTbcYIX1CKHgm16xQrYY8uE6DRjUHLNpccU8aRjGgg=;ogmzG2LBhRq8lFrcSeak5Q=="
+secured: "zNuva2Al7jNmv2eojlypUire84iWV+k3yvs3CsCcE3EScK3O+IwyORtxrtardv8YZctipa5GZxZg6PWhShzguQWJSfnKJXkVne35/nR+79uQuh8NJhpDcIkZkLG5A3b75K9llIpM2rdDfCqHbEEE/yImi1J1T/DvsWBeu64qwH1/YY3Fg600DyGITIeHQP/KSVLxezNko+Src+IFQa4mtevkwrSiVjKfYAP8SCK3W1PNjzKCxzKgAPnDCPMLwcu63aphJIrCKc4tbFoOVCFBEM/ZK6E8cxBV6Kv9gn1wC02LYsS8myrZr67w6obNP2uRPYqbAZsg0qxY1fjjZmt5gO8fsVOXcU7vYWER9qD3wgo=;gYifn0OfVW1cR5N6c6ZDbQ=="
 ---
 

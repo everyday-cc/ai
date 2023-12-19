@@ -6,8 +6,8 @@ publishedDateTime: 2023-12-18T18:51:00Z
 originalUrl: "https://venturebeat.com/ai/many-ai-governance-tools-include-faulty-ai-fixes-report-finds/"
 webUrl: "https://venturebeat.com/ai/many-ai-governance-tools-include-faulty-ai-fixes-report-finds/"
 type: article
-quality: 67
-heat: 67
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Meta AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/12/DALL·E-2023-12-18-13.13.50-Abstract-illustration-of-AI-governance-tools-in-a-16_9-format.-Visualize-various-AI-governance-concepts-in-a-creative-abstract-manner-without-any-tex.png?w=1200&strip=all"

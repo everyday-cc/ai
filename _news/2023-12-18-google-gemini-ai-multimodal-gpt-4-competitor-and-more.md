@@ -148,15 +148,6 @@ related:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
     quality: 19
-  - title: "Google offers enhanced generative AI features for cloud customers"
-    excerpt: "Alphabet Inc.’s Google announced a slate of upgraded artificial intelligence features for its cloud-computing clients as the technology giant tries to catch up with rivals, including the allied forces of Microsoft Corp. and startup OpenAI, who have taken advantage of the AI boom."
-    publishedDateTime: 2023-12-14T02:28:00Z
-    webUrl: "https://www.theedgesingapore.com/digitaledge/news/google-offers-enhanced-generative-ai-features-cloud-customers"
-    type: article
-    provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 19
   - title: "Google Bard Meets the Latest Language Model, Gemini"
     excerpt: "Gemini, the latest language model of Google and DeepMind is being used by Google Bard, an AI chatbot of Google."
     publishedDateTime: 2023-12-14T17:06:00Z
