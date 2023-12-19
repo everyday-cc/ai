@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Revolutionary mind-reading AI system can turn thoughts into text"
-excerpt: "People's thoughts can be turned into text in a world-first using artificial intelligence. The mindreading portable technology could aid communication for people who are unable to speak due to illness or injury,"
+excerpt: "People's thoughts can be turned into text in a world-first using artificial intelligence. The mindreading portable technology could aid communication for people who are unable to speak due to illness or injury, including stroke or paralysis."
 publishedDateTime: 2023-12-18T14:42:00Z
-originalUrl: "https://www.tiogapublishing.com/news/nation/revolutionary-mind-reading-ai-system-can-turn-thoughts-into-text/article_cc3eaeeb-782f-56ee-b922-0b0b21d82f2a.html"
-webUrl: "https://www.tiogapublishing.com/news/nation/revolutionary-mind-reading-ai-system-can-turn-thoughts-into-text/article_cc3eaeeb-782f-56ee-b922-0b0b21d82f2a.html"
+originalUrl: "https://www.purdueexponent.org/news/national/article_d7056113-b0e0-58b5-acbf-7b0d01242308.html"
+webUrl: "https://www.purdueexponent.org/news/national/article_d7056113-b0e0-58b5-acbf-7b0d01242308.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: TiogaPublishing.com
-  domain: tiogapublishing.com
+  name: Purdue Exponent
+  domain: purdueexponent.org
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/tiogapublishing.com/content/tncms/assets/v3/editorial/2/08/2084fc3d-36cb-54b9-94de-55e363d03457/65806d0067a66.image.jpg?crop=1500%2C788%2C0%2C168&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/purdueexponent.org/content/tncms/assets/v3/editorial/d/2b/d2b7e9ba-3330-5ede-a722-ec78a67a3928/65806cdb088f3.image.jpg?crop=1500%2C788%2C0%2C168&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
@@ -51,6 +51,6 @@ related:
       domain: extremetech.com
     quality: 19
 
-secured: "KKzCLrZOtlDBGwnj8Qu/Y7ThddZ1BRGz0ZuEVJIDKHOtU+jUCI3k6kCvxQftD09DDAukLD+d1qBiFN5vsFG+7DDFzbnbAWA3o0f+HPXBR7dtQSUU3Kck9q3Pw64aG4Cm6poTKdmuAnB366WwVxRuy1RUAWCznojOIKS0MxcF7ZaXAX0qOxfXi8qLB3IJM7vdONBnVISfzKEXJ+XuXAntUZPmafzKkqfleVobxZAVu1LDal5pOzwJEHP48/X9krSDC7bvb24yAm1hTAqH7a1lBfDZhzbJS6XjSu1aptiOp+ED5MXoVmfQqAEc+RiIL+d7ghVOjcBM/HhvdVpT3qIjVDr7OZ+pL2M+T5RSNHDRxhB4vWM6bdqouemkqmula1jGaxj6Jmzbo7+XFxQml3bagrKgglzPr5UEzaOrtp5NbszwG3YZsU9VETFfzSyt/Sz8yPfZQVCY33Co5xw02+nHAQ9NqPPhe7+9LyyGcGvhHuzqapUUrpt+rFHLDGhSVXUeE08Ng0NwlKqDRs6pwb/8kQ==;vJQEJPpenJdvrjGZLoxRVA=="
+secured: "R+HBAAMWi2qYPZc/mrRPAs6cS6DjtuF+uYo8vXt7kamZLn0aEU3o2P/DN9Kjx2nYHeaMoMWouw/4rk7pjQQQQm+ptL6tl7IHBpKphUAwFMdwggnC7eH91ZS7TBh6AIfAayM/8Hs1/hSuRs3lUOsjtp91ovGEfXExEiWvS0DRKYjbVXkK6yNJ749W1ynehIayWI1Yd2aBht0muna8oXN6QQs3KO51S3gqbyiddw/U8f1O4MQleV/tcF+8KdvsYu21z0sST1WpOhWJ2wdHwkkc7oKMR53x788Na5ZItlQae/3TbcXEsBchO/K2P2xubNYlmcqVG6jwGzhi9dPh3m0z6kJI0KMbWZdJwciOCLwW8rI=;MUKgSKVsJUOjZ0IIZ0U33Q=="
 ---
 

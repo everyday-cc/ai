@@ -6,8 +6,8 @@ publishedDateTime: 2023-12-14T11:50:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/3-machine-learning-stocks-to-turn-10000-into-1-million-december-2023-1032900548"
 webUrl: "https://markets.businessinsider.com/news/stocks/3-machine-learning-stocks-to-turn-10000-into-1-million-december-2023-1032900548"
 type: article
-quality: 48
-heat: -1
+quality: 50
+heat: 60
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 related:
   - title: "Have $10? AI Predicts These 3 Cryptos Can Turn It Into $10,000"

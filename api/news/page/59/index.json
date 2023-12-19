@@ -2,6 +2,40 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2023-10-31-alberta-throne-speech-focuses-on-fight-against-ottawa-new-tax-curbs-but-no-mention-of-provincial-pension-plan.md",
+      "title": "Alberta throne speech focuses on fight against Ottawa, new tax curbs, but no mention of provincial pension plan",
+      "excerpt": "The Alberta government will spend the coming weeks focusing on its new tax legislation as well as its fight against Ottawa’s energy policies, according to Monday’s speech from the throne, which made no mention of the government’s plans for a provincial pension plan.",
+      "sourceUrl": null,
+      "webUrl": "https://calgaryherald.com/news/politics/alberta-throne-speech-focuses-on-fight-against-ottawa-new-tax-bill-but-no-mention-of-provincial-pension-plan/wcm/24de3c34-8311-4f3b-a4db-323ff35b4485",
+      "originalUrl": "https://calgaryherald.com/news/politics/alberta-throne-speech-focuses-on-fight-against-ottawa-new-tax-bill-but-no-mention-of-provincial-pension-plan/wcm/24de3c34-8311-4f3b-a4db-323ff35b4485",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://calgaryherald.com/news/politics/alberta-throne-speech-focuses-on-fight-against-ottawa-new-tax-bill-but-no-mention-of-provincial-pension-plan/wcm/24de3c34-8311-4f3b-a4db-323ff35b4485/amp/",
+      "cdnAmpWebUrl": "https://calgaryherald-com.cdn.ampproject.org/c/s/calgaryherald.com/news/politics/alberta-throne-speech-focuses-on-fight-against-ottawa-new-tax-bill-but-no-mention-of-provincial-pension-plan/wcm/24de3c34-8311-4f3b-a4db-323ff35b4485/amp/",
+      "publishedDateTime": "2023-10-30T21:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Calgary Herald",
+        "domain": "calgaryherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-31-4-innovative-startup-opportunities-in-media.md",
       "title": "4 Innovative Startup Opportunities In Media",
       "excerpt": "The IT-driven fundamental changes in media are likely not over. Let's delve into four specific areas within media that present promising opportunities for new innovative startup projects.",
@@ -1098,58 +1132,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-30-g7-nations-unite-on-ai-to-design-a-guidebook-for-ethical-innovation.md",
-      "title": "G7 Nations Unite on AI to Design A Guidebook for Ethical Innovation",
-      "excerpt": "The 11-point code puts emphasis on \"safe, secure, and trustworthy AI,\" offering guidelines for companies to identify and mitigate risks",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2023/10/30/g7-ai-regulations-meeting/",
-      "originalUrl": "https://www.gizmochina.com/2023/10/30/g7-ai-regulations-meeting/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/07/hitesh-choudhary-t1PaIbMTJIM-unsplash-1024x575-1.jpg",
-          "width": 1024,
-          "height": 575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T13:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

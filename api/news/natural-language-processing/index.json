@@ -89,6 +89,50 @@
       ]
     },
     {
+      "path": "_news/2023-12-17-microsoft-unveils-powerful-ai-compact-language-model-tailored-for-research-applications.md",
+      "title": "Microsoft unveils powerful AI 'Compact Language Model' tailored for research applications",
+      "excerpt": "Our line of work with the Phi models aims to answer this question by training SLMs that achieve performance on par with models of much higher scale (yet still far from the frontier models).”",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiatvnews.com/technology/news/microsoft-unveils-powerful-ai-compact-language-model-tailored-for-research-applications-2023-12-17-907665",
+      "originalUrl": "https://www.indiatvnews.com/technology/news/microsoft-unveils-powerful-ai-compact-language-model-tailored-for-research-applications-2023-12-17-907665",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/12/microsoft-may-bring-its-own-ai-chips-to-compete-with-nvidia-1702804833.jpg",
+          "width": 360,
+          "height": 202,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news/microsoft-unveils-powerful-ai-compact-language-model-tailored-for-research-applications-2023-12-17-907665",
+      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/microsoft-unveils-powerful-ai-compact-language-model-tailored-for-research-applications-2023-12-17-907665",
+      "publishedDateTime": "2023-12-17T09:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India TV",
+        "domain": "indiatvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-12-15-multilingual-ai-bridging-the-language-gap-in-document-processing.md",
       "title": "Multilingual AI: Bridging The Language Gap In Document Processing",
       "excerpt": "Also, translation takes a lot of time. An AI system's ability to comprehend and decode information directly in the native language is paramount for accurate and meaningful processing. AI can ...",
@@ -97,7 +141,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/15/multilingual-ai-bridging-the-language-gap-in-document-processing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -234,6 +278,42 @@
         "AI in Robotics",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-12-15-a-ball-of-brain-cells-on-a-chip-can-learn-simple-speech-recognition-and-math.md",
+      "title": "A Ball of Brain Cells on a Chip Can Learn Simple Speech Recognition and Math",
+      "excerpt": "Just a first step, Brainoware paves the way for increasingly sophisticated hybrid biocomputers that could lower energy costs and speed up computation.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2023/12/14/a-ball-of-brain-cells-on-a-chip-can-learn-simple-speech-recognition-and-math/",
+      "originalUrl": "https://singularityhub.com/2023/12/14/a-ball-of-brain-cells-on-a-chip-can-learn-simple-speech-recognition-and-math/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-14T20:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware",
+        "Math for AI"
       ]
     },
     {
@@ -1311,93 +1391,6 @@
       "provider": {
         "name": "unite",
         "domain": "unite.ai",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-04-xiao-i-showcases-hua-zang-universal-large-language-model-and-its-cutting-edge-applications-at-abu-dhabi-finance-week.md",
-      "title": "Xiao-I Showcases Hua Zang Universal Large Language Model and Its Cutting-Edge Applications at Abu Dhabi Finance Week",
-      "excerpt": "Mr. Hui Yuan, Chairman of the Board and CEO of Xiao-I Corporation (NASDAQ: AIXI) (\"Xiao-I\" or the \"Company\"), a leading cognitive artificial intelligence (\"AI\") enterprise in China, recently took the stage at the Abu Dhabi Finance Week (\"ADFW\") alongside distinguished speakers to share a practical application of Hua Zang Universal Large Language Model (\"LLM\").",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/xiao-i-showcases-hua-zang-universal-large-language-model-and-its-cutting-edge-applications-at-abu-dhabi-finance-week-1032868782",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/xiao-i-showcases-hua-zang-universal-large-language-model-and-its-cutting-edge-applications-at-abu-dhabi-finance-week-1032868782",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T02:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-12-04-meta-launches-seamless-communication-ai-translation-kit.md",
-      "title": "Meta launches Seamless Communication AI translation kit",
-      "excerpt": "Meta has recently launched a suite of AI language translation models called Seamless Communication, which consists of 4 AI models. This feature aims to enable more natural and authentic communication across languages. The suite includes three main models ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizchina.com/2023/12/04/meta-launches-seamless-communication-ai-translation-kit/",
-      "originalUrl": "https://www.gizchina.com/2023/12/04/meta-launches-seamless-communication-ai-translation-kit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizchina.com/wp-content/uploads/images/2023/12/Meta-1200x675.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.gizchina.com/2023/12/04/meta-launches-seamless-communication-ai-translation-kit/amp/",
-      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2023/12/04/meta-launches-seamless-communication-ai-translation-kit/amp/",
-      "publishedDateTime": "2023-12-04T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GizChina",
-        "domain": "gizchina.com",
         "images": null,
         "publishers": null,
         "authors": null

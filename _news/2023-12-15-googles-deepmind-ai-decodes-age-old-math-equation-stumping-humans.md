@@ -78,6 +78,20 @@ related:
         width: 1500
         height: 1000
         isCached: true
+  - title: "Google Deepmind LLM Solves Major Open Question in Math. AI Advancing Science is Huge Progress to AGI"
+    excerpt: "Google’s Gemini LLMs (Large Language Model) produced a new math discoveries and solves real-world problems. This is a significant step to AGI. The AI is speeding up progress in math and science. This is the first time a new discovery has been made for ..."
+    publishedDateTime: 2023-12-14T20:26:00Z
+    webUrl: "https://www.nextbigfuture.com/2023/12/google-deepmind-llm-solves-major-open-question-in-math-ai-advancing-science-is-huge-progress-to-agi.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 56
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2023/12/Screen-Shot-2023-12-14-at-4.51.08-PM.jpg"
+        width: 1770
+        height: 994
+        isCached: true
 
 secured: "fi33dH6K/9pii5h4pf43t19unHUeDjG5p493LM8GU1po/gx40xAzM+m5AWWaeWL2TWyU8MAPKnwxZYDczAPLuE4/B4Sj8ZZdUc9QvjXrhZ7ntT2dkTi3FGlnjBzDSakLj/E068eRQHFlF1DAqe+f/6VJ59BMlhuPyNhJUteI4xomqQGKVWEoFyIDHK01TDozzEIoBQ18dlKlzfwb2zfHfUsx67in8C/DElNDBin46WZnOm0hNljMVz/lKK0LzSiiWBlRoovaetbrFGBPpaHeQW7nZN2TIFEHQOIeg92I07OLKjjSvI71J0CUWQ2hKhCgalP0At33/YtdCX165PRRsFFA8YCE6fS1EBDjbNuV1CU=;xU4in/5wazMdHZKvNR4WiA=="
 ---

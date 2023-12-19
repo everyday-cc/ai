@@ -41,6 +41,22 @@ related:
         width: 1242
         height: 900
         isCached: true
+  - title: "Ola CEO Bhavish Agarwal’s AI startup is building a multilingual Large Language Model"
+    excerpt: "Ola CEO Bhavish Agarwal’s AI startup is working on a multilingual AI model called Krutrim that will be released next year."
+    publishedDateTime: 2023-12-19T06:15:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/ola-ceo-bhavish-agarwals-ai-startup-is-building-a-multilingual-large-language-model/article67653161.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/ola-ceo-bhavish-agarwals-ai-startup-is-building-a-multilingual-large-language-model/article67653161.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/ola-ceo-bhavish-agarwals-ai-startup-is-building-a-multilingual-large-language-model/article67653161.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 50
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/y26742/article67653159.ece/alternates/FREE_1200/MAHINDRAOLA.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Uncovering bias in artificial intelligence"
     excerpt: "Throughout his Ph.D. program, Li has worked alongside his advisor, assistant professor Hongfu Liu, to examine bias within artificial intelligence datasets. They determined that when developing these artificial intelligence systems, cleaning datasets and looking for these biases in advance of processing information can reduce these incidents."
     publishedDateTime: 2023-12-15T14:52:00Z

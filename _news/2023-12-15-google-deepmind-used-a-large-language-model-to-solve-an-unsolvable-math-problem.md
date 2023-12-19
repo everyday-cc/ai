@@ -70,6 +70,20 @@ related:
         width: 1500
         height: 1000
         isCached: true
+  - title: "Google Deepmind LLM Solves Major Open Question in Math. AI Advancing Science is Huge Progress to AGI"
+    excerpt: "Google’s Gemini LLMs (Large Language Model) produced a new math discoveries and solves real-world problems. This is a significant step to AGI. The AI is speeding up progress in math and science. This is the first time a new discovery has been made for ..."
+    publishedDateTime: 2023-12-14T20:26:00Z
+    webUrl: "https://www.nextbigfuture.com/2023/12/google-deepmind-llm-solves-major-open-question-in-math-ai-advancing-science-is-huge-progress-to-agi.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 56
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2023/12/Screen-Shot-2023-12-14-at-4.51.08-PM.jpg"
+        width: 1770
+        height: 994
+        isCached: true
   - title: "Google's DeepMind AI decodes age-old math equation, stumping humans"
     excerpt: "Google DeepMind has triumphantly cracked an age-old mathematical mystery using a method they are calling FunSearch. The math problem that FunSearch has solved is the famous cap set problem in pure mathematics, which has stumped even the brightest human mathematicians."
     publishedDateTime: 2023-12-15T10:03:00Z

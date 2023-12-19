@@ -48,6 +48,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Ola CEO Bhavish Agarwal’s AI startup is building a multilingual Large Language Model"
+    excerpt: "Ola CEO Bhavish Agarwal’s AI startup is working on a multilingual AI model called Krutrim that will be released next year."
+    publishedDateTime: 2023-12-19T06:15:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/ola-ceo-bhavish-agarwals-ai-startup-is-building-a-multilingual-large-language-model/article67653161.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/ola-ceo-bhavish-agarwals-ai-startup-is-building-a-multilingual-large-language-model/article67653161.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/ola-ceo-bhavish-agarwals-ai-startup-is-building-a-multilingual-large-language-model/article67653161.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 50
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/y26742/article67653159.ece/alternates/FREE_1200/MAHINDRAOLA.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "fb4RutmOtQp+s89YwMpzZxl4buJoJBasQDsJzKX+cAXw9cBHpTLR2cxsbyqWMMNVrUi4+0/2GdGWp8XLp6eocjoDzE8aVo3z2kg1uL7CQKDb6VPdhBOlLKstP0DFWkSn77+45S7209HvKyXzedoNvVSwUn84cpe9Xy+e2qHgKxwzCNP0rz/uNlt6Gf5r/OCxv+f9C9dzksBNrQtYSupoLeveUNQIq7dMT4sqMXR/2Jec8QvK2HUEc+dvNN542k0SOtrthgkV1bXHtuMYVfaQ37Ae5buBWcWi77uRKXrKjMlEsXj6NK2OGdeEUFc9K27khKeOQ4DVNhi15j+plJTBFHMNSwbB2tNwaT/JpKSCzgi8/VHenWBzxJ+GHK8tT20rUwAFvVshuM9CmuDryRSi3dKTGflxFhJxz8RP/877dwmmIEp4VexQ2OLYcw9+RFsSDO2jQwtR2AZ+je+aIWludt/D3aB5a45vRcBSFOpW0YGW4SXjg3TH73irJKcvgFuS//y27bJrZqafbW37wqqHzg==;DBug7B1/zuYwdEV2GohBWQ=="
 ---

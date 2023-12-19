@@ -2,6 +2,49 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2023-10-28-search-engine-baidu-and-carmaker-geelys-venture-starts-delivery-of-self-driving-ev-to-compete-with-teslas-model-y.md",
+      "title": "Search engine Baidu and carmaker Geely’s venture starts delivery of self-driving EV, to compete with Tesla’s Model Y",
+      "excerpt": "Apollo, Baidu’s autonomous driving unit, has provided the self-driving software. Joe Xia, CEO of JIyue Automotive Technology, speaks during the launch ceremony of JiYue 01 SUV in Shanghai on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/business/china-business/article/3239497/search-engine-baidu-and-carmaker-geelys-venture-starts-delivery-self-driving-ev-compete-teslas-model",
+      "originalUrl": "https://www.scmp.com/business/china-business/article/3239497/search-engine-baidu-and-carmaker-geelys-venture-starts-delivery-self-driving-ev-compete-teslas-model",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-27T22:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-28-i-once-thought-she-was-a-vacuous-pop-bimbo-writes-sarah-vine-but-britneys-angry-new-memoir-is-full-of-self-knowledge-and-even-wisdom-that.md",
       "title": "I once thought she was a vacuous pop bimbo, writes SARAH VINE... But Britney's angry new memoir is full of self-knowledge and even wisdom that lets us see into her mind - and ...",
       "excerpt": "But here we see into her mind — and also, I think ... which ­culminated in Jamie eventually ­gaining full control over every aspect of his daughter's life, from the medications she took — including lithium, which made her feel drunk and befuddled ...",
@@ -1082,48 +1125,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-unified-endpoint-management-vs-device-lifecycle-management-what-do-they-have-in-common.md",
-      "title": "Unified Endpoint Management vs. device lifecycle management: what do they have in common?",
-      "excerpt": "Both protect corporate data, ensure a great user experience, enhance cybersecurity overall and create a great digital workspace.\nThe post Unified Endpoint Management vs. device lifecycle management: what do they have in common? appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/unified-endpoint-management-vs-device-lifecycle-management-what-do-they-have-in-common/",
-      "originalUrl": "https://www.ibm.com/blog/unified-endpoint-management-vs-device-lifecycle-management-what-do-they-have-in-common/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T09:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

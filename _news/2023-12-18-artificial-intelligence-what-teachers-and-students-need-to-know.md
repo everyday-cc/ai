@@ -9,8 +9,8 @@ ampWebUrl: "https://thenationonlineng.net/artificial-intelligence-what-teachers-
 cdnAmpWebUrl: "https://thenationonlineng-net.cdn.ampproject.org/c/s/thenationonlineng.net/artificial-intelligence-what-teachers-and-students-need-to-know/amp/"
 type: article
 quality: 61
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: The Nation Newspaper
@@ -26,22 +26,6 @@ images:
     width: 450
     height: 300
     isCached: true
-
-related:
-  - title: "Artificial Intelligence And Academic Tasks: What Teachers And Students Need To Know"
-    excerpt: "Artificial intelligence does not come with the options of to be or not to be in academia. If nothing, the intelligence that is included in the term makes it"
-    publishedDateTime: 2023-12-14T06:04:00Z
-    webUrl: "https://www.thenigerianvoice.com/news/328465/artificial-intelligence-and-academic-tasks-what-teachers-an.html"
-    type: article
-    provider:
-      name: The Nigerian Voice
-      domain: thenigerianvoice.com
-    quality: 33
-    images:
-      - url: "https://cdn.thenigerianvoice.com/images/content/118202345816_18e5a0573d084cbd83880515235596fa.jpeg"
-        width: 731
-        height: 970
-        isCached: true
 
 secured: "L+3adUSpc7YRw57cGBY7rcIOqj19X+ndQ9z8/oZHbruZRyGmHOTESDFOEX4CKFchC4Z+aFY2h3qBSy/jfHNmmKX4QjG65TwMNC2ntC854dOw8J7aBdAQ6mBkbN6ItVXviyg70AiF72ZJlkeC1J+Xfi2WNBMpCswC1eimlIqJLbBIS537tUOeB72euQ58XDRekP/j9z06pQXuhDC8VNboGvtW4bgAis445L+0ABR4iUfFoquRLMtPxqBItsA7yMFbu1E5amWMwy60olrCQMzFCcb7uTalQNb4D2rSzMVwgWT0nCdHeUrSjn6BmMJ4c+Z09gzKicx5RG29xCOB94x21/Nj4wAVTHmnOiyxfz1MBtE=;vuwvuJfLP8FIiDJ3BnZR3w=="
 ---

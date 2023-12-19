@@ -25,44 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Scientists Combine Lab-Grown Brain Tissues With Computer, Test Speech Recognition"
-    excerpt: "This research paves the way for potential advancements in bio-computing, hinting at the prospect of more efficient systems compared to traditional computers."
-    publishedDateTime: 2023-12-14T06:48:00Z
-    webUrl: "https://www.ndtv.com/science/scientists-combine-lab-grown-brain-tissues-with-computer-test-speech-recognition-4671577"
-    ampWebUrl: "https://www.ndtv.com/science/scientists-combine-lab-grown-brain-tissues-with-computer-test-speech-recognition-4671577/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/science/scientists-combine-lab-grown-brain-tissues-with-computer-test-speech-recognition-4671577/amp/1"
+  - title: "W&M Computer Scientist Recognized as Pioneer in Use of Deep Learning"
+    excerpt: "Denys Poshyvanyk, chancellor professor of computer science at William & Mary (W&M) has been elevated to Fellow of the Institute of Electrical and Electronic Engineers (IEEE)."
+    publishedDateTime: 2023-12-17T07:30:00Z
+    webUrl: "https://wydaily.com/latest-news/2023/12/17/wm-computer-scientist-recognized-as-pioneer-in-use-of-deep-learning/"
     type: article
     provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 69
+      name: Williamsburg Yorktown Daily
+      domain: wydaily.com
+    quality: 39
     images:
-      - url: "https://i.ndtvimg.com/i/2016-01/brain-generic_650x400_51453283827.jpg"
-        width: 650
-        height: 400
-        isCached: true
-  - title: "A Ball of Brain Cells on a Chip Can Learn Simple Speech Recognition and Math"
-    excerpt: "Just a first step, Brainoware paves the way for increasingly sophisticated hybrid biocomputers that could lower energy costs and speed up computation."
-    publishedDateTime: 2023-12-14T20:02:00Z
-    webUrl: "https://singularityhub.com/2023/12/14/a-ball-of-brain-cells-on-a-chip-can-learn-simple-speech-recognition-and-math/"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 65
-  - title: "Computers with Brains? Brain Tissue on a Chip Achieves Voice Recognition"
-    excerpt: "Reportedly, after a brief training period, Brainoware was able to distinguish between the voices of eight subjects with an accuracy rate of 78%. It was also able to successfully predict a Henon map (a mathematical construct) with greater accuracy than an artificial network."
-    publishedDateTime: 2023-12-15T08:00:00Z
-    webUrl: "https://i-hls.com/archives/122076"
-    type: article
-    provider:
-      name: AUS&R
-      domain: i-hls.com
-    quality: 55
-    images:
-      - url: "https://i-hls.com/wp-content/uploads/2017/09/brain-1845944_960_720.jpg"
-        width: 952
-        height: 720
+      - url: "https://images.wydaily.com/wp-content/uploads/2023/12/Denys-Photo-Updated-e1702415674301.jpeg"
+        width: 1260
+        height: 840
         isCached: true
 
 secured: "zhXymjJyHYkRTJgpDheWnAFhyJGoxIb9mO5bZKhFnBrBa71PgO0LCMpaZYo0TXRnCl8w3PgCSt6UNqwSp8YlqI7d5O9h+x6C6bwxSFALH/mWyOF3oTDIpi1KVEBHwK2pNq5dKXp7+OUgRcbHNhzVe57Xs+Jq0xzG/Tu72m/Yq6XRlioKwgYOSzN+u6GFiLj3mPZH7LlmBsqYqe84IlrJnt1fJbcnyikycv8tvItW7M24JqTx5qkCz8VAFvxycnXOuLnsyfk3pATqw2mMkpM9iXQKWVs2b8ZCnpkDPOzza6vnFoQmx4106MC4bA1x+lXxAUr5UwxZixV12DGjLMIwu+dwIQHuu6cBE49ILh9T7JY=;oAqqMYVgy/cmxj9YIQir1Q=="

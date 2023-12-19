@@ -2,6 +2,40 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2023-11-13-messagepoint-announces-generative-ai-capabilities-for-translation-and-plain-language-rewrites.md",
+      "title": "Messagepoint Announces Generative AI Capabilities for Translation and Plain Language Rewrites",
+      "excerpt": "As part of its Intelligent Content Hub for customer communications management, Messagepoint's AI-powered Assisted Authoring will now support translation into over 80 languages and suggest content ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/11/b35757362/messagepoint-announces-generative-ai-capabilities-for-translation-and-plain-language-rewrites",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/11/b35757362/messagepoint-announces-generative-ai-capabilities-for-translation-and-plain-language-rewrites",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-13T12:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-13-solarwinds-showcases-latest-observability-enhancements-at-aws-reinvent-2023.md",
       "title": "SolarWinds Showcases Latest Observability Enhancements At AWS re:Invent 2023",
       "excerpt": "SolarWinds Highlights How SaaS Observability Solution Helps Customers Accelerate Their Cloud Journeys SolarWinds (NYSE:SWI), a leading provider of simple, powerful, secure observability and IT management software,",
@@ -900,40 +934,6 @@
       ],
       "topics": [
         "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-12-artificial-intelligence-is-not-an-existential-threat-yet.md",
-      "title": "Artificial Intelligence is not an existential threat – yet",
-      "excerpt": "I’m sorry that I didn’t get my article on Artificial Intelligence last week during the ‘AI Safety Summit’ at Bletchley Park, the historic Second World War decoding centre in England. I got distracted by some other stuff that was happening in the Middle East.",
-      "sourceUrl": null,
-      "webUrl": "https://cyprus-mail.com/2023/11/12/artificial-intelligence-is-not-an-existential-threat-yet/",
-      "originalUrl": "https://cyprus-mail.com/2023/11/12/artificial-intelligence-is-not-an-existential-threat-yet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T13:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cyprus Mail",
-        "domain": "cyprus-mail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

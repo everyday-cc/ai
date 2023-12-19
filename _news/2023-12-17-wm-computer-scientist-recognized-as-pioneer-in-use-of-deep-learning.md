@@ -24,6 +24,22 @@ images:
     height: 840
     isCached: true
 
+related:
+  - title: "Scientists Develop Biocomputer Capable of Voice Recognition"
+    excerpt: "Futurism reports that researchers have developed a \"biocomputer\" made from lab-grown human brain tissue and electronic circuits."
+    publishedDateTime: 2023-12-14T21:30:00Z
+    webUrl: "https://www.stltoday.com/news/nation-world/science/scientists-develop-biocomputer-capable-of-voice-recognition/video_198f1e9e-8515-531c-ba14-67ef57126c96.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/1/98/198f1e9e-8515-531c-ba14-67ef57126c96/657b382e4f7da.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+
 secured: "aCB/j6WVzQfOD765QsTdbW3elhXjx2dUU3dhm0aSID2ccwaHFgxWNjVtZuwlb+juxt3lBhJ/VnuVJgbpUBZA+U5SDQ7c5zL02akt/LdkomktjIMbt9F+nQiZ+n98tKUcV9lE5bA0HESppVBFl+aSzNr3Brm1T7WowkMzjAd0En/a6nSuMr+ESO7ygshCJkowhkJjg+YcP/lP0m2+tOTWQEZwNT055sIp2gfI2vQzNkWOQwTb78H9etlQbOfUah8nLFXcqJRkAbm5kaFL4TfYs7PV++8fu7E/cLgXFZaf2cgY2zd6a6XLzxcWCDqCogdzn6VL7tdQbamroPTzUKJ4/MPbmmZOKAq3bbY1/Ndi91bNx6Z2Y/Bu6MFX0RTWRzoe4Dzo9yGXt0kSXv0Hnym5zOOxPWDmK1d+s/wENGKKMd3iCawKcLTzizh4jgGSZoKwd6zlLFLHEPohWfssPCN2TUCmuO6aVlvN6vNRqmG4US7g40bFNkFj+ilbQSbpwMLUL4hCP0POEaYOcDYLp3Nybw==;P7uufKVGGonVfooypWFD6Q=="
 ---
 

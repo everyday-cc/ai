@@ -36,16 +36,16 @@ related:
         height: 900
         isCached: true
   - title: "Revolutionary mind-reading AI system can turn thoughts into text"
-    excerpt: "People's thoughts can be turned into text in a world-first using artificial intelligence. The mindreading portable technology could aid communication for people who are unable to speak due to illness or injury,"
+    excerpt: "People's thoughts can be turned into text in a world-first using artificial intelligence. The mindreading portable technology could aid communication for people who are unable to speak due to illness or injury, including stroke or paralysis."
     publishedDateTime: 2023-12-18T14:42:00Z
-    webUrl: "https://www.tiogapublishing.com/news/nation/revolutionary-mind-reading-ai-system-can-turn-thoughts-into-text/article_cc3eaeeb-782f-56ee-b922-0b0b21d82f2a.html"
+    webUrl: "https://www.purdueexponent.org/news/national/article_d7056113-b0e0-58b5-acbf-7b0d01242308.html"
     type: article
     provider:
-      name: TiogaPublishing.com
-      domain: tiogapublishing.com
+      name: Purdue Exponent
+      domain: purdueexponent.org
     quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/tiogapublishing.com/content/tncms/assets/v3/editorial/2/08/2084fc3d-36cb-54b9-94de-55e363d03457/65806d0067a66.image.jpg?crop=1500%2C788%2C0%2C168&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.newyork1.vip.townnews.com/purdueexponent.org/content/tncms/assets/v3/editorial/d/2b/d2b7e9ba-3330-5ede-a722-ec78a67a3928/65806cdb088f3.image.jpg?crop=1500%2C788%2C0%2C168&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true

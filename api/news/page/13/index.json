@@ -2,6 +2,50 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2023-12-07-amd-forecasts-45-billion-ai-chip-market-this-year-2-billion-in-sales-in-2024.md",
+      "title": "AMD forecasts $45 billion AI chip market this year, $2 billion in sales in 2024",
+      "excerpt": "AMD estimated there was a $45 billion market for its data center artificial intelligence processors this year as it launched a new generation of AI chips on Wednesday. The total addressable market forecast is up from AMD's $30 billion estimate in June.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/amd-forecasts-45-billion-ai-200143104.html",
+      "originalUrl": "https://www.aol.com/amd-forecasts-45-billion-ai-200143104.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_reuters_29/2c1b86275edd349055c4264b7f9e6400",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.aol.com/amphtml/amd-forecasts-45-billion-ai-200143104.html",
+      "cdnAmpWebUrl": "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/amd-forecasts-45-billion-ai-200143104.html",
+      "publishedDateTime": "2023-12-07T01:12:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2023-12-07-artificial-intelligence-for-aging-research-in-cancer-drug-development.md",
       "title": "Artificial intelligence for aging research in cancer drug development",
       "excerpt": "A new editorial paper was published in <a href=\" entitled, “<a href=\" intelligence for aging research in cancer drug development.”",
@@ -1114,49 +1158,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-wimi-developed-deep-reinforcement-learning-based-task-scheduling-algorithm-in-cloud-computing.md",
-      "title": "WiMi Developed Deep Reinforcement Learning-Based Task Scheduling Algorithm in Cloud Computing",
-      "excerpt": "WiMi Hologram Cloud Inc. (NASDAQ: WIMI) (\"WiMi\" or the \"Company\"), a leading global Hologram Augmented Reality (\"AR\") Technology provider, today announced that it developed a deep reinforcement learning-based task scheduling algorithm in cloud computing to improve the performance and resource utilization of cloud computing systems.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/wimi-developed-deep-reinforcement-learning-based-task-scheduling-algorithm-in-cloud-computing-1032877874",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/wimi-developed-deep-reinforcement-learning-based-task-scheduling-algorithm-in-cloud-computing-1032877874",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-06T13:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

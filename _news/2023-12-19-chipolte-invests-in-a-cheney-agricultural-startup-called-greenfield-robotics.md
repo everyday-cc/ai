@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Chipotle invests in a Cheney agricultural startup called Greenfield Robotics"
+    excerpt: "This is an excellent partner for us, and there's a lot of alignment of how we think about things,' said the startup's founder, Clint Brauer."
+    publishedDateTime: 2023-12-18T18:36:00Z
+    webUrl: "https://www.bizjournals.com/wichita/inno/stories/news/2023/12/18/chipolte-invest-cheney-startup-greenfield-robotics.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 31
   - title: "Chipotle invests $50M in rural Kansas startup that makes robotic weeding machines"
     excerpt: "Chipotle said the $50 million investment will help the startup build out its fleet of agricultural robots and develop additional capabilities such as micro-spraying, cover crop planting and soil testing."
     publishedDateTime: 2023-12-18T20:10:00Z

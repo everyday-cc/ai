@@ -84,17 +84,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Elon Musk’s Grok AI Chatbot Enters India"
-    excerpt: "Elon Musk's AI startup is rolling out Grok to 46 other countries including Australia, Canada, Malaysia, New Zealand and Singapore among others"
-    publishedDateTime: 2023-12-14T06:17:00Z
-    webUrl: "https://inc42.com/buzz/elon-musks-grok-ai-chatbot-enters-india/"
-    ampWebUrl: "https://inc42.com/buzz/elon-musks-grok-ai-chatbot-enters-india/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/elon-musks-grok-ai-chatbot-enters-india/amp/"
-    type: article
-    provider:
-      name: inc42
-      domain: inc42.com
-    quality: 37
   - title: "The Rise of Chatbots and Virtual Assistants: AI Applications in Customer Service"
     excerpt: "Welcome to a world where artificial intelligence meets customer service! In this era of technological innovation, chatbots, and virtual assistants have emerged as game-changers, transforming the way businesses interact with their customers."
     publishedDateTime: 2023-12-17T12:11:00Z

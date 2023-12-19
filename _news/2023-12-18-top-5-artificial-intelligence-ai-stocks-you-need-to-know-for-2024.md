@@ -52,15 +52,6 @@ related:
         width: 650
         height: 450
         isCached: true
-  - title: "Here's How You Can Invest in Artificial Intelligence (AI) Stocks Just Like Cathie Wood"
-    excerpt: "Cathie Wood is the head of Ark Investment Management, which operates 13 exchange-traded funds (ETFs) designed to give investors exposure to innovative new industries like artificial intelligence (AI), electric vehicles, robotics, and even space exploration."
-    publishedDateTime: 2023-12-14T05:30:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/TSLA-Q/pressreleases/22720666/heres-how-you-can-invest-in-artificial-intelligence-ai-stocks-just-like-cathie-wood/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 26
 
 secured: "5B4zAljO234R8pz+1kspZkubj/5P27Nb+yTpcmt5BL3/THCebyMM9Aybm25n496ArymwyxxKiLOfHkidVKMg+BJshjOc2s1/lLD1IVWFc2dLA+m9nwnJZovP6i4fFDkiXKA3DHe9LMf5g1jcJoQsxu1aMgAgMDHHEFaJgG3mNMwJmSj9jQn0wv8/DZSupfo1Up2IyUTylmq9eKjJ5kikcw3CKW9zri+b3/o8rbsTyQbHF1szWbw/zh3audIAXwy07NenmcT7Tz9TMOjqLQP09X2ajnz3bUire66izUglbrCoGjwTG/KekI8wjCoKUSDhb0l1wiy8RVuGL4cdlga685Or0kBkGA0wQIgrHaDKhAv/84Mbgn3CEbKsvLgmuXZRVT/DFwdLFohsK/YmPo4xiDvpP4PJ3NMFD5C+EoMRSDjciBKC6ravmpdbBw4V6hVK8nAQ7KtVwTeY2K6sZLmuJfgw3p+KYfWilGstUZ6nMaeOHPxN4qqPW9fVI7R6nqAPfDEfc/VscyO4TAC71uzhCg==;yDqWUdjiIhCXdVxPhTR8pg=="
 ---

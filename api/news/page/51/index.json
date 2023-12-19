@@ -2,6 +2,49 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2023-11-07-korea-showcases-ai-chips-6g-tech-to-maintain-competitiveness.md",
+      "title": "Korea showcases AI chips, 6G tech to maintain competitiveness",
+      "excerpt": "Korea unveiled the latest information and communications technologies, including AI semiconductors, quantum computing and the 6G network, being worked on by domestic researchers, according to the Electronics and Telecommunications Research Institute (ETRI),",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreatimes.co.kr/www/tech/2023/11/133_362725.html",
+      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2023/11/133_362725.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.koreatimes.co.kr/upload/thumbnailV2/1ba56ba328df4a76a03a737e1fa3dbbe.jpg",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=362725",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=362725",
+      "publishedDateTime": "2023-11-07T07:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Korea Times",
+        "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-07-artificial-intelligence-and-us-nuclear-weapons-decisions-how-big-a-role.md",
       "title": "Artificial intelligence and US nuclear weapons decisions: How big a role?",
       "excerpt": "But the seeds of change are already present. \"Artificial intelligence is extremely powerful,\" Gen. Mark Milley, retired chairman of the Joint Chiefs of Staff, told \"60 Minutes\" on Oct. 8.",
@@ -1114,57 +1157,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-07-balancing-the-risks-and-rewards-of-ai-will-be-key.md",
-      "title": "Balancing the risks and rewards of AI will be key",
-      "excerpt": "Letters: Readers on the artificial intelligence summit in London and Elon Musk’s comments about the impact of AI on all our lives",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2023/nov/06/balancing-the-risks-and-rewards-of-ai-will-be-key",
-      "originalUrl": "https://www.theguardian.com/technology/2023/nov/06/balancing-the-risks-and-rewards-of-ai-will-be-key",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/dc758b4f15353dff8f0e24f228d75e679ac61968/0_172_7940_4764/master/7940.jpg?width=620&quality=85&auto=format&fit=max&s=8dd9f99fdc4bed0aec9203bb86e97647",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2023/nov/06/balancing-the-risks-and-rewards-of-ai-will-be-key",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/nov/06/balancing-the-risks-and-rewards-of-ai-will-be-key",
-      "publishedDateTime": "2023-11-06T16:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
