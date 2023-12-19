@@ -24,17 +24,6 @@ images:
     height: 250
     isCached: true
 
-related:
-  - title: "Monak E-Services Triumphs At Fintech World Cup Regional Finals In Riyadh"
-    excerpt: "(MENAFN- Asdaf News) Riyadh -\\u00a0 Asdaf News:\\r\\n\\r\\nThe second day of the DATE FinTech Show and DATE AI Show hosted 11 shortlisted fintech start-ups participated in the third regional finals of the Fintech World Cup organized by Dubai Fintech Summit in ..."
-    publishedDateTime: 2023-12-14T08:41:00Z
-    webUrl: "https://menafn.com/1107597919/Monak-E-Services-Triumphs-At-Fintech-World-Cup-Regional-Finals-In-Riyadh"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 3
-
 secured: "UEAPNjgbXOd+3gJ7oZFdX0s7aeIYd7oAWGZAAqt1bc/kGQhwDBYNHtxz+CgDwQpOaoiy+lIiJhRBgrRAAXwdQccYnEOV55k5uYvCfCj0e33qHPygWpA5VvZfZK2wVVCcJDKVTB23gN1RDZuvdVLUJPlUORiGuUZkc3hFj9dwJ4p1b61LadtIqctqMrkXclP0WfU0TDPv+5PcsCMg7J32fFfzC55vvzuFNplh2fN3536G/Qo8+c5L0er8Z8G/oigmMxWxKb9qOwi5CgBClthvtQ43fdRSlStolOLp9VmSqYRHv38VpdeZo3tB1a4nQv/jAD9P9F4Du3pXqJ1utJUelOG/Wb2qVvI1YRihtR4caYw=;9HMBkaznKsrXlFmR0CdUcQ=="
 ---
 

@@ -165,6 +165,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Manhattan Health Alert: Rising Disability in the Workplace due to Brain Fog. Doctor Explains"
+    excerpt: "Dr. Adriana Davis, Family Medicine, \"More and more working-age adults have brain fog--research shows that it's due to long COVID.\"Doctor's Expert Insights long COVID and Brain Fog"
+    publishedDateTime: 2023-12-14T13:27:00Z
+    webUrl: "https://www.hastingstribune.com/news/state/kansas/manhattan-health-alert-rising-disability-in-the-workplace-due-to-brain-fog-doctor-explains/article_67fcae6d-c8c2-5f67-8901-b3f138fc3ac4.html"
+    type: article
+    provider:
+      name: Hastings Tribune
+      domain: hastingstribune.com
+    quality: 28
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/hastingstribune.com/content/tncms/assets/v3/editorial/5/0a/50a3164c-64f3-53b5-9f6a-305a52edcec1/657b18afa06b4.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Gulfport Health Alert: Rising Disability in the Workplace due to Brain Fog. Doctor Explains"
     excerpt: "Dr. Adriana Davis, Family Medicine, \"More and more working-age adults have brain fog--research shows that it's due to long COVID.\"Doctor's Expert Insights long COVID and Brain Fog"
     publishedDateTime: 2023-12-14T13:27:00Z
@@ -175,6 +189,6 @@ related:
       domain: djournal.com
     quality: 9
 
-secured: "7JZ4gmTmJgv4Fwd+8HqlPNox0zNlfvBKyMBBwYoeBkCLXH3yqwRmOgmsWZR/3Cp3VeBqi/AGN0CNbegZnEkYh4uY3Or9draBBOhcW9ePYducj6vrSxoPFvyuKqOdg9KMsf7ImmEEdK/G7jcmijyL6kBUulPMkLi+yeilzR4u9Qs8fMJv3Ez3yWgp1BV6korXgTv/LQ10NedLg6yfHaWAx8fWCZ1p+cUXOQJ7epQu89WafLTrgkmH8S21tcSJEGQo3cJA8ve5z/ZER4TzlJc2BAbSvPKke32h+UST3fZLv1ioD3/M5U0f4gvKizj3JaOJ2jKS8cuv8p9GnuDsErLdyr49dyP5kqRkpqQsnI+zRJ8=;uU8/zTUVGXjAs0/FEB8UTA=="
+secured: "hdlQDzil19eXqnQE/Lo50Zo0hpURJ+u5BJLOUki+7AAFZQyHgky3A5BvV1wXL8rpZ+JPSGIXjgGhYOm/HJFtGW/7s/fc0lqU+qZ72mmvVVZgBl7B18+I0b/8DdMaG9PjEje09551LyN4J0HLt492CSL3HLYlolISOgaQ7aKZLrbq6IL93bbiIr8heltedFFiO0rNeN5a4HGJDloRVFYbFToUB2FyPL3zwd9Okr/E+3U6w1rfIUiXFQjZ4fE0IY1Jf9A+Nj3ZYep3Ya0PMKzweg7u4CiSOuwpKVW22PKuJTCteS+ax9jMsm0qjsLS7iYbdycwMhfuoA2lSCT7OgNBeUEMXu90Ss4sv7P7GBJzWyvLg8YiyctJd3I5I/uQTzGuMCLyL5h4bFZL3HQU6Kegyz6f2pNfc6E6GajRF+Kxesxo/wgAepcrx41K23OEWpSNwR08W4IvbFm8/I//M3zdJtIc325ZnXJmIhAbQwJe/AGQaEUcJ8zbZMGPUFcab5T5yccxEwvG78MLGl110/gy7A==;sVxue2DVhoMai6J/uTU0OQ=="
 ---
 

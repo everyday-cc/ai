@@ -53,15 +53,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Tesla’s recall of 2 million vehicles reminds us how far driverless car AI still has to go"
-    excerpt: "The driving force behind self-driving vehicles is artificial intelligence (AI), yet current algorithms ... for new standards and mechanisms to assess the capabilities of these driverless cars. These new protocols should provide more rigorous testing ..."
-    publishedDateTime: 2023-12-14T07:19:00Z
-    webUrl: "https://theconversation.com/teslas-recall-of-2-million-vehicles-reminds-us-how-far-driverless-car-ai-still-has-to-go-219832"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 40
 
 secured: "HOVSgqV8eOTfyF9n4T8kwzymy5YC+EIcYnZGCO9/GnHvZQTCL6bFr8qZWWK+pY5C7K015JkLkC7IOUzErAm4+yi+J51lBXe8VXihHWFvqDbTxZJTmO3YM33x1WoKIm7yxZpgHMYpQP7qGRaZfmGh3uGyKhwls+4hcyVcN5Mb+sQjFcCPnKxwvSkCT5u2+H/7ZNmtEcOKYBru/r+wd5tdWlX6svKo4Jr8rA+qEyxO4nClfva3QniQw+WgkstjzKxozTLiVD5Etr9HQU7AvdAsipFZkLIDia9nP7LW1aGPSGR2liT/Frdo2blERq7w8JIWSaQInoFiGF+m/CQNSiBNNJGPB6epqLWvs83z3Y1oF/z1ONi1T9g4Hh8BbUAE+xE3APsnqXc4UAajmZlWgbqxFl5JX9pVE5DPJm788ZRrjOWS0HGcCsBmKHEpKvAXrwaghvPlF7XkzX+xkfHSqpFTrQqPKmZuIUMeCgaFG/CHxQWdBesQ8lBZIBd4nutMVQV/UGqqGKbVFYR9e9nidbdzEg==;U4BHiLjd4kNjd9vVfVzkHA=="
 ---

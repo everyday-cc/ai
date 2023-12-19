@@ -6,7 +6,7 @@ publishedDateTime: 2023-12-16T11:45:00Z
 originalUrl: "https://www.businessinsider.com/ai-stocks-how-to-invest-2024-artificial-intelligence-global-x-2023-12"
 webUrl: "https://www.businessinsider.com/ai-stocks-how-to-invest-2024-artificial-intelligence-global-x-2023-12"
 type: article
-quality: 29
+quality: 31
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://i.insider.com/657b6edd50edbc52a8647203?width=1200&format=jpeg"

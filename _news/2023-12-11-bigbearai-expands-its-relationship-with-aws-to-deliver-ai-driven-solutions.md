@@ -2,23 +2,25 @@
 category: news
 title: "BigBear.ai Expands its Relationship with AWS to Deliver AI-Driven Solutions"
 excerpt: "BigBear.ai continues to expand its capabilities to serve the commercial enterprise sector and is proud to advance this new effort with AWS."
-publishedDateTime: 2023-12-11T14:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/bigbear-ai-expands-its-relationship-with-aws-to-deliver-ai-driven-solutions-1032889378"
-webUrl: "https://markets.businessinsider.com/news/stocks/bigbear-ai-expands-its-relationship-with-aws-to-deliver-ai-driven-solutions-1032889378"
+publishedDateTime: 2023-12-11T13:18:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2023/12/11/9931286.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2023/12/11/9931286.htm"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "O1jgrbPd5SEWVW0bAU9H82kRvLMJwFDiAYsUVL1t+hEv++3MZJnUJy/WVjBn5lQLdQ/JIVV/1tn8n5x1S7XdKHd7XS3qqUMfj0D3v7t5njfqk0PFMNIxU68iCGJqIi5xb396pSKYq8v3nkd2zUou8Szp22md3HmkDkd/uh9rUNi3FIfoTBrOokCTBl9aP0gfnI2KpqOarsSbX8KfwCQxodzzywVkdJGsG+tlrjqfJKmHEYJxjdFe4dipt9GISOgH5wjXzeq1gcphdZtEj9usKxijKutX24Ppv8cneDKnXnuy6jmf2cuBAW9hQzOZd8wm7x9x8wLQ9j8SI/IaiI68HiQypD/OZOZOf+sUGYr6Hfk=;uvaVyacBHeZYVRNOK6w1og=="
+images:
+  - url: "https://images.tmcnet.com/tmc/world.jpg"
+    width: 1200
+    height: 627
+    isCached: true
+
+secured: "yUXOxQI3Ki7IyIJX53ADqnu3Ry42U3OjbVFQEXTLquF9y9fYY0Gou2SNjmoQ6nsyFQ5ZIyqOsrpUdO1g/htYNe2zu8iX2KblxFc4X9Y+Alo+nWpwwtJiIas7Y4T2pl0keoXNTI5VUy5jB8BE9cyGN8ArLQcKwamj0EJCL8lRueZebDI56VMgwQttPswbBB0kG//X56vROS1zFUte9YavkrDozAIdbqXKvnxBvdwvIahYeFn65dpSAIbLUmvqN1zh0d6+X0YkZ5t97AbYWjzDqRkkqRJHPdWU+rZxLLXsiceW0vez4Grc/Y3wiI+8bJbX+x5aGbN4qzZJlNBFfJ2Kx/XEi+SKK8Xbwi3NVwpqxms=;c5oixw59OJdbZNzi3SpIXQ=="
 ---
 

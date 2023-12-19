@@ -1,26 +1,20 @@
 ---
 category: news
 title: "AWS Announces Five New Amazon SageMaker Capabilities for Scaling with Models"
-excerpt: "At AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced five new capabilities within Amazon SageMaker to help accelerate building ..."
+excerpt: "Amazon SageMaker HyperPod reduces time to train foundation models by up to 40% by providing purpose-built infrastructure for distributed training at scale Amazon SageMaker Inference reduces ..."
 publishedDateTime: 2023-11-29T12:27:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-five-new-amazon-sagemaker-capabilities-for-scaling-with-models/article_dc339075-e6c1-5c4c-b010-59fa0bd2e992.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-five-new-amazon-sagemaker-capabilities-for-scaling-with-models/article_dc339075-e6c1-5c4c-b010-59fa0bd2e992.html"
+originalUrl: "https://www.businesswire.com/news/home/20231129229217/en/AWS-Announces-Five-New-Amazon-SageMaker-Capabilities-for-Scaling-with-Models"
+webUrl: "https://www.businesswire.com/news/home/20231129229217/en/AWS-Announces-Five-New-Amazon-SageMaker-Capabilities-for-Scaling-with-Models"
 type: article
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "http://static.cnhionline.com/joplinglobe/jmag/DEC-2023-Jmag-350px.jpeg"
-    width: 350
-    height: 456
-    isCached: true
-
-secured: "DkuY2s3KApY4LqPZmQwH+mnwHkYck0qbJKIsRDojK0UwRjUmDeVStTEUJa+z+h/HWA9iwdNDqKGKXNbHKPeqXNIlvlMX02SbEMjfom7vvjpyllBq3WbkoEc8dv5GvlcLDjEbXJhGeUz7jipYrd9sPhfy5MdYBko9mj79FnpNBkbtH7AeVU8gTMf05vxiINL7rWa2zf7gFLnwn+2SgGuec6fqSpKt8wyR5QvBeysbxdCTLaAeWcymTW6nh3b5CX3aDYQoPztyRdqUP2T1junQg0jpsn+tXPAxILxInRwva4F9dcxCIEmWRXRLBQc7fuap7hIwqhxXSqO8ulIsFH9D8iokSl3/A0NovEWGupgdMv8=;xWdgsdP70UB4ag1l2BH0QA=="
+secured: "Hu2Vtm7Kx9QwdLQ8ytpbr9UiDNXDTOuHjQ7fAC1cujynAY+iaZxOgbAKq6AYtcNslmKIaiBqKR1UlmPtp6qf9pmT0PhrWryhY/losr/5HEmVC0l11FHTLtViVz6Zk++jWf9DmABoRcFzlbJTD3/Zyfgx0Ho6hV/ncztEVvtojfDEJTcm/zGtx2B3DsxlxPViSMREjYjpCS+efuqEm42OwFuFDd9l+/0OmiliP/xkmUWEZGWQxexEHakRQtLCTW5ul+4bDla3V3N5aqzLh2Eevlu5oyIlvnHoBh7/DWDRZ2s+iIfzXuifZDs47XbGCAejok9SseiF6B0aQW0PjEUWs9SsRhal9WAMXw+DcmMGXCs=;C3R+2FUOAs6gpPzgKtCoNQ=="
 ---
 

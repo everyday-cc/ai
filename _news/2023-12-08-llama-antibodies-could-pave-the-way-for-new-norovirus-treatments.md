@@ -3,8 +3,8 @@ category: news
 title: "Llama Antibodies Could Pave the Way for New Norovirus Treatments"
 excerpt: "Tiny llama antibodies, called nanobodies, have been shown to effectively neutralize human noroviruses in the lab, revealing that they could be developed into a therapeutic agent."
 publishedDateTime: 2023-12-08T10:33:00Z
-originalUrl: "https://www.technologynetworks.com/tn/news/llama-antibodies-could-pave-the-way-for-new-norovirus-treatments-381824"
-webUrl: "https://www.technologynetworks.com/tn/news/llama-antibodies-could-pave-the-way-for-new-norovirus-treatments-381824"
+originalUrl: "https://www.technologynetworks.com/immunology/news/llama-antibodies-could-pave-the-way-for-new-norovirus-treatments-381824"
+webUrl: "https://www.technologynetworks.com/immunology/news/llama-antibodies-could-pave-the-way-for-new-norovirus-treatments-381824"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 360
     isCached: true
 
-secured: "t2R6e1CZFO+dKoDdXPzdB+sA6tgKSaui2ibTEpGEJzZFVaMq2hbxUnI4Im9hWKiZAMkCmFcoGXCbWXInxZmHKw9es5LashJIKv2tnQXOFL+vE3JYgnuG4Tn1JvD8S97tpJ9XrkdeYpSznjWjRmsYBKToyIfayviqJUx5VWJPHtp5uwNetn7b65s87cFkGtHxjguVptgrWBb15T+7hklc8DI1CaJTztZMSO3gZjD/K3m1cHUazGPtk/f2bfYNjiynDbiBzbX9c+EEAXru5Tiqz7k61fitt3bAtGhO4k1UQoI61UC/etrGdC+5sIwdh97sxtpchhc9ZJkzJLbluZlPCfUMY2EEwO0pPoAMYPFMZkw=;8//+1whiwZfgdL08cuUzUQ=="
+secured: "+Yrb0PWaZgdRdLZv4nIWsqt6kavQcOwh8jvbL7piCorqSaf2Y4/W2dx/sNOSOYttyzzKgRrm29pZXMrA1zr/EHRZHi1Du/K+CvF7/GNT3OdnbBEfVkP2tn6vhIcsHYgXQKGoUwDkhtcloWwu9Zla0QElqo3njRRpHoNOy+ACJIgagEbYT/f6acBNye645rPavC7fxMiXLg5Wo972Gskvpj2gR8cqT5gejpfm4OE8PAhAcEq7a97gT6+FkCSBbvmmxFTeZwFSPAm9T1kM28NT+pg3BJh/5uF76G3kZuqJw/UhwUzwyiIkfipU24o4xHiiIinWuPho24nw29i9r1U+Uguf/LVkxv0w7YV5gBY4S78=;F7beYEYoRkPDAPmHz26sgw=="
 ---
 

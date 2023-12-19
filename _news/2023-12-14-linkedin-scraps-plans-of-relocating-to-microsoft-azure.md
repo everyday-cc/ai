@@ -39,6 +39,22 @@ related:
         width: 2560
         height: 1440
         isCached: true
+  - title: "TomTom and Microsoft are teaming up to bring (more) AI to your car"
+    excerpt: "Do you know what the world needs more of this morning? That's right -- AI. TomTom and Microsoft, apparently mistaking our sarcasm for"
+    publishedDateTime: 2023-12-19T08:43:00Z
+    webUrl: "https://stuff.co.za/2023/12/19/ai-powered-voice-assistant-thanks-to-tomtom/"
+    ampWebUrl: "https://stuff.co.za/2023/12/19/ai-powered-voice-assistant-thanks-to-tomtom/?amp=1"
+    cdnAmpWebUrl: "https://stuff-co-za.cdn.ampproject.org/c/s/stuff.co.za/2023/12/19/ai-powered-voice-assistant-thanks-to-tomtom/?amp=1"
+    type: article
+    provider:
+      name: stuff.co.za
+      domain: stuff.co.za
+    quality: 74
+    images:
+      - url: "https://stuff.co.za/wp-content/uploads/2023/12/TomTom-sat-nav-header-AI.png"
+        width: 1600
+        height: 1000
+        isCached: true
   - title: "Microsoft releases Phi-2 small language model."
     excerpt: "Better than a Llama Microsoft Research has announced the release of its Phi-2 small language model (SML), a text-to-text AI programme that is \"small enough to run on a laptop or mobile device.\" Phi-2 has 2."
     publishedDateTime: 2023-12-18T11:00:00Z

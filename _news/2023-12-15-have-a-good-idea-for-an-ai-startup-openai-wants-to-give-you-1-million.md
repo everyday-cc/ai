@@ -113,15 +113,6 @@ related:
       name: McKnight's Senior Living
       domain: mcknightsseniorliving.com
     quality: 19
-  - title: "Opensource AI can outperform private models like Chat-GPT - ARK Invest research"
-    excerpt: "The need for performance in open-source AI models stems from the importance of democratizing access to generative AI."
-    publishedDateTime: 2023-12-14T08:48:00Z
-    webUrl: "https://cointelegraph.com/news/opensource-ai-outperform-private-models-chat-gpt-ark-invest-research"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 15
 
 secured: "MX+NGVAlSlu9o3mWBQPdBWnoa81d8sjl/rtxlyHWKepP1ggAKbWBxM91Kue7I5rrTNHajS0JPdz03lXOQm822ImapbuiNZ1EmSJWivQKgpkRR4lzrLM842qbrhygjPChA8I0Qj5RJaQUGTT3ZahegXEe0VNYw+EGxwnRJMZtDkvrY3DIHUIeYTvhTKDRndQU0ZGjBcGal3PlGaKX4maeITX1iKL07KbDijZbUVer4Lq7bZQjjscROUc4b0TanrSfru8/9j7wwfLIfzDuZyG/lat0yU548Hfi+Pn4auJdgqzJgYGgT9aY31SqRJ1tGdx362NLdOdz+Yf9du0AoZC5cD5HQjy37YhMT2XGLo59/+3HqIsPbZZUomBJ+yvQBY1r2ajUazh/Gv0ZZfeF08gljiMAZwwYDcDOxu0jh46V6Rg2bd1fqAVU2Uqe8lpp4pJONRw7A94zBIsLsKJuVZMfrkD4MPXEuuMH26zJ1wq5iJhniKwXRwadJy8jk5ocDRT2R4FkMNRXeOK6ugazinunCA==;xx1phRsGG33JRuQk3DuHlA=="
 ---

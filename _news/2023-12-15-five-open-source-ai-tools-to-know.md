@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/five-open-source-ai-tools-to-know/"
 webUrl: "https://www.ibm.com/blog/five-open-source-ai-tools-to-know/"
 type: article
 quality: 99
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -113,15 +113,6 @@ related:
       name: McKnight's Senior Living
       domain: mcknightsseniorliving.com
     quality: 19
-  - title: "Opensource AI can outperform private models like Chat-GPT - ARK Invest research"
-    excerpt: "The need for performance in open-source AI models stems from the importance of democratizing access to generative AI."
-    publishedDateTime: 2023-12-14T08:48:00Z
-    webUrl: "https://cointelegraph.com/news/opensource-ai-outperform-private-models-chat-gpt-ark-invest-research"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 15
 
 secured: "RmjOcEsUXuHrUs6cZWg3QNtoQDEAhvnDbkU6605QMZECYrllhYsBcm2P4vQgWMAKYoisi6Z4iB3I7dJsU+Ai309439sv6Lqn5yaRbHlUMGRY6zus0ReaoNo9egVX7l65GbWEZeJb/3NzoZHLZbrApKp4xYvHs4d8+7ixHB0xKK6JPZS4ZKv5awA54pZKS4dVpJJk6eqHicY4/yvsMPWPC9t0JVXc8LLndAxVdRMuC4GpKZyFJJpv6T4EpGCq02/m3j6sVb5R897qhmNn49QaOxyfBtYm8K+0ikoir48fM7ZI/rF0m9LEnWYF2JlqCoMkLG/mx79Mgl1ZW7QEI2mztYGYrkX8R/I1PdSw2NNbTew=;LGr47BVgfso8/Abs/seIrw=="
 ---

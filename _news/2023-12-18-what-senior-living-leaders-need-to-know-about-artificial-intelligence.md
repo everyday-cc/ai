@@ -109,15 +109,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 21
-  - title: "Opensource AI can outperform private models like Chat-GPT - ARK Invest research"
-    excerpt: "The need for performance in open-source AI models stems from the importance of democratizing access to generative AI."
-    publishedDateTime: 2023-12-14T08:48:00Z
-    webUrl: "https://cointelegraph.com/news/opensource-ai-outperform-private-models-chat-gpt-ark-invest-research"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 15
 
 secured: "j5iRl1VDu3Z/WMNRtaCiCgm3xum3DHCs0rcP5en6Qt4375d1UIroOLIPmd2qcL9J7wHcQjuwzlDsKw09SjCbQyjFan3lABS8S0IBPWrt797LL+53t6Xj0ZpkbVJMicjb6xbgm0hcFd/cmVD3Z8cqsO8luseKwtCpuwz/s4fOz10lpKsnI9ryRd4YOspLK92KxZUAAiu4NYAhBy1zl7PNO53ognaDlAJygH5I7iuF7GXCuy30xw8T4bXobgnFw7CLovrwB1YZwFYuRoXA6pui8UbubImIrmGUVMYivq6RLg/nctTjsJtMWMCaxHiQWwm5BOyicFE3cAVRrzy2S7k+tYF7ONy5GFvu83SmfoTI8LI=;IiH+RVXJiVo0lWhBqLKLJw=="
 ---

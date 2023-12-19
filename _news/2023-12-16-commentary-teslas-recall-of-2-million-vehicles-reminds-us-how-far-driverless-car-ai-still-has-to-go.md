@@ -39,15 +39,6 @@ related:
         width: 496
         height: 279
         isCached: true
-  - title: "Tesla’s recall of 2 million vehicles reminds us how far driverless car AI still has to go"
-    excerpt: "The driving force behind self-driving vehicles is artificial intelligence (AI), yet current algorithms ... for new standards and mechanisms to assess the capabilities of these driverless cars. These new protocols should provide more rigorous testing ..."
-    publishedDateTime: 2023-12-14T07:19:00Z
-    webUrl: "https://theconversation.com/teslas-recall-of-2-million-vehicles-reminds-us-how-far-driverless-car-ai-still-has-to-go-219832"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 40
   - title: "Tesla Recalls Two Million Self-Driving Cars Due to Autopilot-Related Accidents"
     excerpt: "ALBAWABA - Tesla sent a letter to the National Highway Traffic Safety Administration, recalling two million of its self-driving cars due to the Autopilo"
     publishedDateTime: 2023-12-18T08:15:00Z

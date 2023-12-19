@@ -23,19 +23,19 @@ topics:
   - AI
 
 related:
-  - title: "Dubai FinTech Summit 2024: Catalysing the MEASA Financial Ecosystem"
-    excerpt: "The Dubai FinTech Summit is a strategic platform aligned with Dubai's vision to become one of the top four global financial hubs by 2033."
-    publishedDateTime: 2023-12-19T02:56:00Z
-    webUrl: "https://gulfbusiness.com/dubai-fintech-summit-2024-catalysing-the-measa-financial-ecosystem/"
+  - title: "SOFI, COIN, HOOD, UPST, or AFRM: Who’s Winning the Fintech Stocks Race?"
+    excerpt: "Stock Market News, Stock Advice & Trading Tips There’s no denying that the past few years have been difficult for"
+    publishedDateTime: 2023-12-18T21:24:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/sofi-coin-hood-upst-or-afrm-whos-winning-the-fintech-stocks-race-1032910353"
     type: article
     provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
-    quality: 39
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
     images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2023/07/DIFC-innovation-Hub-launches-FinTech-Accelerator-Programme-2023-Image-Dubai-Media-Office-DIFC.jpeg"
-        width: 930
-        height: 620
+      - url: "https://investorplace.com/wp-content/uploads/2023/11/koyfin_20231110_013904628.png"
+        width: 2400
+        height: 1240
         isCached: true
 
 secured: "c3OeQAmORfJaDJPunkuU6G3GGnWFYbKGVMlEZG+t/ffUw+P/jLKLTJIoPh4P1ZRl62Hlz1ILyF3kxwoUW/wVE/N/vtVWvirbgS2Wqwq2Xubi0jIAA+ynJ1+vQ255Zcd02UpiJ4E0UDSw2pBy+84yFdPbpkdoDjMQJWBZP6C72hgMBGXZ4XHYbBLqfCSk6f81LY995qYTQ9i0dr9x1xoMhG4M5LcrgJUIOOj+iDv+aUYtbvmOHk7ZbzQf2FOHJ2IUiNpQARDQrUz8RMlA6KGv1uITcdYKpKhy3L/8LYwZMghvqOabZaPjpB1lYnyiuQWdMrcy/22091yDIJz+iIqXHX2jF+XsfLdOHTKzhP5fpTg=;yW4YJsngXjWKwpoLEx8qyg=="

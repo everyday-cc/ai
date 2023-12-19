@@ -50,20 +50,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 31
-  - title: "The Legal Outlook For Fintech And Payments 2024."
-    excerpt: "The Legal Outlook For Fintech And Payments 2024. Legal News and Analysis - Asia Pacific, EU, Europe, Hong Kong, Singapore, United Kingdom, USA -"
-    publishedDateTime: 2023-12-14T08:31:00Z
-    webUrl: "https://conventuslaw.com/report/the-legal-outlook-for-fintech-and-payments-2024/"
-    type: article
-    provider:
-      name: Conventus Law
-      domain: conventuslaw.com
-    quality: 24
-    images:
-      - url: "https://conventuslaw.com/wp-content/uploads/2022/06/1_TKRMzr-NJwYdrYi3AnJPXA.jpeg"
-        width: 820
-        height: 610
-        isCached: true
   - title: "Register now for the Citi Cup fintech competition"
     excerpt: "SUZHOU, China, Dec. 18, 2023 /PRNewswire/ -- Citigroup Services and Technology ( China) (CSTC) has announced that the 19th Citi Financial Innovation Application Competition (also known as the Citi Cup) is open for online registration. CSTC leads Citigroup's financial technology and financial operations services industry in China."
     publishedDateTime: 2023-12-16T23:59:00Z

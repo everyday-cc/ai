@@ -173,6 +173,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Manhattan Health Alert: Rising Disability in the Workplace due to Brain Fog. Doctor Explains"
+    excerpt: "Dr. Adriana Davis, Family Medicine, \"More and more working-age adults have brain fog--research shows that it's due to long COVID.\"Doctor's Expert Insights long COVID and Brain Fog"
+    publishedDateTime: 2023-12-14T13:27:00Z
+    webUrl: "https://www.hastingstribune.com/news/state/kansas/manhattan-health-alert-rising-disability-in-the-workplace-due-to-brain-fog-doctor-explains/article_67fcae6d-c8c2-5f67-8901-b3f138fc3ac4.html"
+    type: article
+    provider:
+      name: Hastings Tribune
+      domain: hastingstribune.com
+    quality: 28
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/hastingstribune.com/content/tncms/assets/v3/editorial/5/0a/50a3164c-64f3-53b5-9f6a-305a52edcec1/657b18afa06b4.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "X19b7uAsV9PA9QdurmR6P4bDPsYwOUyN3dHC93yEJ16we+B5wpXbNiKEyw3lBd3X1RxwHG6CR/NUkx7Tl1vR1eFIPZfZkQLsXPhTufVDNeErPo8eUc0ca5e4a5Lql0Hi9VCcofH70kdIfZBct48U95pGG4qk9m8t2ddiJ1c4FB143BCiX5eVvO/asipVsajjzQUZVpHCtTOg/j7SlXayITMk35OKLqeyLNjc70QuHkGWU0VVNWON6mYnD9u14rbaRVTqsyTjqQ3r9+XBI9uDzUjWPUNMmcBruZqJCNRobS8yfCDVwu3t1vx6GXQo/avFWXSpsIKTMWEZ8A0BdkMDdtyh6BLtzkazR/NcMMuWmtFoKY6Fr6H27NUZwqEvYUQD2kdwgzaXHa7v6tIYngy+Qdnsz69BZt45TdLvtmJrkdMcAqq0ZhK7kH+/vWyUgAuJj6ObzXVre/O0KCLRR4jzvo3gRA6wl+HfNHbKO+xaNgfDcTP8dULNizpQjv9TsCaaIbNOTV5zeJdbfkwS40LwFA==;3v3DKHYHL4udjXpAzEkcPQ=="
 ---

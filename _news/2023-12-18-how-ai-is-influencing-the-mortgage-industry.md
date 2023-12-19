@@ -6,7 +6,7 @@ publishedDateTime: 2023-12-18T08:59:00Z
 originalUrl: "https://www.forbes.com/advisor/mortgages/how-ai-affects-mortgage-industry/"
 webUrl: "https://www.forbes.com/advisor/mortgages/how-ai-affects-mortgage-industry/"
 type: article
-quality: 67
+quality: 69
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.forbes.com/advisor/wp-content/uploads/2023/12/How-AI-Is-Influencing-The-Mortgage-Industry-Ft-Image.jpg"
@@ -68,6 +69,6 @@ related:
       domain: modernhealthcare.com
     quality: 19
 
-secured: "bBV9j31Bm7kfznofQqXmg3/0gcTT4jLAdrUqJ0doFgfZjbtFPyq7sjFo0JyPdXDFWz95/7FzYX2f1flEan6A3ygKd9i+KQ8cgYvvwTYtO6+UOY3fIkmVBh07sgzGtKRZ7eGcoRJC05xgpgg9IdU2LWD5iMxzmQ45muLa/z4ARU4o+qfWYcNspUykW6DKn2UmRqQi5MAto4RcH0nOCPtlxGut6EUrJR07NpzRPHeYkSlqxd//ysNOMTxeXFLnuDSYIqSVd842rjnqR7JxZMFx/sPSD/5z2WgWhoydg47ot2gYA5Aqk/IaLKUyOaAMFEtdvsDKcYVx+xNzbEHKA091bILa3oBC/rDpjAEivHUnP0E=;mUzlm4H4Z57q9+bkoG0dIA=="
+secured: "Neg5pS+AaANQyrMU7IZ5REQ/406QM4NwrALGk7rZFopphEwnPJRC8SdXXG2ua0s0uE5bacYlYC3CwlZZ/091JYQ+89UR3otPvJ9OOPyfrkbws6SIbeWxmCoT+U6tCOa69X6y1eGJG400ghiQqdF/ZgNbW/EayEkRWLKQaiKxKbbNFSSSWKLPpNMpfDv5ybCF7bG8tuSm5LtZP/s7xsuUsG0bgbGmKSVnkKlaewonb8tEavKzHBpjcVpHMVOz0HWm0MURrW4SYeHNI3ZwIowSz5UtyZltzUAdCbbcSl8xXTny+CPBPKYMKNiudyYdFiZGIgexuI8YEWP3S2Beya5+lCy6q76CabHi5WpfobQ9O4HQwQdvAoOltKbBzGgwcB0avU2zLYy4Q1un0k8Kg4VMUSeKJfBa3y2Y2VdDVfes2LLjxvQPBTkNjIketUX++mjrcZZsFFgEVrs/bnCiaHPyxt2I/J+PEHqHUYBo5zGgm7lB4KG+ZNXXW2Pmm0mRhhdfQexeXMqt3NNJmqTD0rMcAg==;NH2qY3Zc15UA3inNzGibUw=="
 ---
 
