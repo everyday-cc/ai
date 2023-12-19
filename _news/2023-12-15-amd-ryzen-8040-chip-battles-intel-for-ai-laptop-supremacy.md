@@ -41,22 +41,6 @@ related:
         width: 1600
         height: 803
         isCached: true
-  - title: "Intel Introduces Core Ultra Chips with NPUs for AI Advancements"
-    excerpt: "Intel has ushered in a new era for AI-powered PCs with the release of its cutting-edge Core Ultra notebook chips. These chips are Codenamed \"Meteor Lake\""
-    publishedDateTime: 2023-12-14T20:44:00Z
-    webUrl: "https://techlomedia.in/2023/12/intel-introduces-core-ultra-chips-with-npus-for-ai-advancements-103680/"
-    ampWebUrl: "https://techlomedia.in/2023/12/intel-introduces-core-ultra-chips-with-npus-for-ai-advancements-103680/"
-    cdnAmpWebUrl: "https://techlomedia-in.cdn.ampproject.org/c/s/techlomedia.in/2023/12/intel-introduces-core-ultra-chips-with-npus-for-ai-advancements-103680/"
-    type: article
-    provider:
-      name: techlomedia.in
-      domain: techlomedia.in
-    quality: 74
-    images:
-      - url: "https://techlomedia.in/wp-content/uploads/2023/12/Intel-core-ultra.jpg"
-        width: 900
-        height: 450
-        isCached: true
   - title: "Intel launches AI chips for servers and clients"
     excerpt: "New 5th Gen Intel Xeon processors and Core Ultra mobile processor family are aimed at bringing AI to all compute devices."
     publishedDateTime: 2023-12-15T15:54:00Z
@@ -86,20 +70,6 @@ related:
       - url: "https://sm.mashable.com/t/mashable_in/photo/default/slejven-djurakovic-0uxzoezyz4i-unsplash_6qrd.1200.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Intel Puts Artificial Intelligence First With Processor Announcements"
-    excerpt: "The Intel Core Ultra mobile processor family brings AI to PCs, while 5th Gen Intel Xeon processors offer AI acceleration for data centers."
-    publishedDateTime: 2023-12-14T21:35:00Z
-    webUrl: "https://www.techrepublic.com/article/intel-ai-everywhere-event-2023/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 67
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/12/core-ultra-fig-a-dec-23.jpeg"
-        width: 800
-        height: 533
         isCached: true
   - title: "How Intel's new AI-focused PC chips compare with Apple M3"
     excerpt: "The Intel Core Ultra supports up to 64GB of LPDDR5/LPDDR5X RAM or up to 96GB of DDR5 RAM. However, Apple M3 Max provides up to 128GB of unified memory. Thunderbolt 4 connectivity for speeds of 40Gbps applies to both. While Apple M3 Max supports Wi-Fi 6E standards, Intel chips can handle discrete Intel Wi-Fi 7 connectivity."

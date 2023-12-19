@@ -26,45 +26,50 @@ images:
     isCached: true
 
 related:
-  - title: "These AI-generated news anchors are freaking me out"
-    excerpt: "In other words, human-looking AI avatars now seem well on their way to climbing out of the uncanny valley, at least when it comes to news anchors who sit at a desk or stand still in front of a green screen. Channel 1 investor Adam Mosam told Deadline it \"has gotten to a place where it’s comfortable to watch,\" and I have to say I agree."
-    publishedDateTime: 2023-12-15T15:57:00Z
-    webUrl: "https://arstechnica.com/ai/2023/12/these-ai-generated-news-anchors-are-freaking-me-out/"
+  - title: "How Creators Can Use AI To Be More Efficient And Still Be Creative"
+    excerpt: "According to Guy Armitage, Founder and CEO of Zealous, the AI ecosystem is moving so quickly it's hard for creators to grasp."
+    publishedDateTime: 2023-12-19T22:41:00Z
+    webUrl: "https://www.forbes.com/sites/jenniferkitepowell/2023/12/19/how-creators-can-use-ai-to-be-more-efficient-and-still-be-creative/"
+    ampWebUrl: "https://www.forbes.com/sites/jenniferkitepowell/2023/12/19/how-creators-can-use-ai-to-be-more-efficient-and-still-be-creative/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferkitepowell/2023/12/19/how-creators-can-use-ai-to-be-more-efficient-and-still-be-creative/amp/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/12/channel1-vs-max-headroom-760x380.jpg"
-        width: 760
-        height: 380
+      - url: "https://imageio.forbes.com/specials-images/imageserve/658218c6303e9bd783e9bb3e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 628
+        height: 478
         isCached: true
-  - title: "These six questions will dictate the future of generative AI"
-    excerpt: "Generative AI was trained on the internet and so has inherited many of its unsolved issues, including those related to bias, misinformation, copyright infringement, human rights abuses, and all-round economic upheaval. But we’re not going in blind."
-    publishedDateTime: 2023-12-19T10:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/12/19/1084505/generative-ai-artificial-intelligence-bias-jobs-copyright-misinformation/"
-    ampWebUrl: "https://www.technologyreview.com/2023/12/19/1084505/generative-ai-artificial-intelligence-bias-jobs-copyright-misinformation/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/19/1084505/generative-ai-artificial-intelligence-bias-jobs-copyright-misinformation/amp/"
+  - title: "How Banks Can Stay Resilient As AI Becomes More Disruptive"
+    excerpt: "Historically, disruption is extremely rare. Only 23 of the 568 companies included in the Fortune 500 since 1997 were under 15 years old when they entered. But right now, there are three forces converging that might transform finance and other industries."
+    publishedDateTime: 2023-12-18T13:15:00Z
+    webUrl: "https://hbr.org/2023/12/how-banks-can-stay-resilient-as-ai-becomes-more-disruptive"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 37
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/12/GenAI_Uncertain_Selman_RGB2.jpg?w=3000"
-        width: 3000
-        height: 1688
+      - url: "https://hbr.org/resources/images/article_assets/2023/09/Dec23_18_BanksResilient.jpg"
+        width: 2400
+        height: 1350
         isCached: true
-  - title: "None of these anchors are real: Channel 1 plans for AI to generate a news broadcast"
-    excerpt: "Channel 1 AI released a promotional video explaining how the service will provide personalized news coverage to users from finance to entertainment."
-    publishedDateTime: 2023-12-15T01:41:00Z
-    webUrl: "https://www.usatoday.com/story/tech/news/2023/12/14/channel-1-ai-news/71925360007/"
+  - title: "Use Copilot AI to summarize long content to improve efficiency and productivity"
+    excerpt: "Using Copilot AI to summarize long content can provide measurable impact on efficiency and productivity. Enabling you to quickly gain insight"
+    publishedDateTime: 2023-12-18T14:45:00Z
+    webUrl: "https://www.geeky-gadgets.com/use-copilot-ai-to-summarize/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 13
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 35
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/summarise-long-content-using-Microsoft-Copilot-AI-assistant.jpg"
+        width: 1280
+        height: 733
+        isCached: true
 
 secured: "/Pmxa9sNF5LLzlbOoci2eyDotLFEYCLHUnQMv1dJo8sjS04jhTiJCRAvC91I2CSCNHOoJRvS2Xy0WDtFFQtcbWtKmJEHdUOU7WlNKllDq7dS+ml5mtgkcfP5Y0SCV1CbnEiK2ftYzCopdx6c6s20TO+dekERlRG2Yjyuy8PYvT6X5dtBVLsHo/6caocju3zXQ+AVv61Bcg0ofPUFjR1pRKsrKx/KmCncCivR/rbWsJppHkmvvf8rAbi26sTV1/hGrwXFpV3A/P1n/4AY220yEDBjUpH1T/ySOnWTJDTjhMe6GU5VfQevc8Psrs9V21iPYDpKDZlOeXPp632o2a9iitAUbwWirARrbjNvK36NK5o=;zdTzvVY03sFghLZCwRnpvA=="
 ---

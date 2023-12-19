@@ -33,6 +33,20 @@ related:
         width: 656
         height: 656
         isCached: true
+  - title: "Atomic AI Creates First Large Language Model Using Chemical Mapping Data to Optimize RNA Therapeutic Development"
+    excerpt: "Atomic AI, a biotechnology company fusing cutting-edge machine learning with state-of-the-art structural biology to unlock RNA drug discovery, announced that the Company has created the first large language model (LLM) leveraging chemical mapping data."
+    publishedDateTime: 2023-12-18T11:42:00Z
+    webUrl: "https://www.pharmiweb.com/pwtoday-story/atomic-ai-creates-first-large-language-model-using-chemical-mapping-data-to-optimize-rna-therapeutic-development"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 18
+    images:
+      - url: "https://cdn.pharmiweb.com/media/17391/atomic-ai-300x400.jpg"
+        width: 300
+        height: 400
+        isCached: true
 
 secured: "8GHugQT5nxAW5CaS8+8lhoZA0k3GYLwo3LJb+Lybqdd/VSSkGs5OKpwJnkhVeL0Gwq8YF5ltPX4gi+m7bjHHFx98IsmKpXiVljlx5oHj54nCVdqxcH88RLM+50utNZWQk07ecO/komeOytRixHfmaXmdKWkygnv4ACroMPcLttZ/JITlt3Wk0cNAhRnj3htX6tozs+BQSADrtxLIH7JDeHk9SQjfgAJgo0FI1vurk1m8qx14nJVUEbTDsekxsm+vdc5Bxi2TrWYuWjtbEwSToVMWgX9lu0xDpCsUTCmt2EEi7v3f1dcE4Svf7pLT1HXdLMECx5BfirxZS2D3Xm3CBW6EaYsNQuhDeM/ZFog9g5I=;/PdkcGBJn31RTtE+tLIFzA=="
 ---

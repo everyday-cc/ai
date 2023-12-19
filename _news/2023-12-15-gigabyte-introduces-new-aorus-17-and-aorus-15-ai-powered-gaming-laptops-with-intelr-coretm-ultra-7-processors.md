@@ -104,15 +104,6 @@ related:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
     quality: 19
-  - title: "Acer Debuts AI-Ready Swift Go 14 Laptop with New Intel Core Ultra Processors"
-    excerpt: "New Acer Swift Go 14 laptop enables AI-accelerated experiences and capabilities complemented by Intel AI Boost and Copilot in Windows 11"
-    publishedDateTime: 2023-12-14T19:03:00Z
-    webUrl: "https://www.valdostadailytimes.com/ap/business/acer-debuts-ai-ready-swift-go-14-laptop-with-new-intel-core-ultra-processors/article_76107b90-fdd8-518b-9d55-33e06522208e.html"
-    type: article
-    provider:
-      name: The Valdosta Daily Times
-      domain: valdostadailytimes.com
-    quality: 16
 
 secured: "eKcxoQzttNfuP9PUpgrTPXlkn+dNGVvGofID/ODv5EjBB+9EcEUCtPnzdIrfS24QaqrE/E14RkBRgdQkVQE1O/1S0R5OiKxjcm8U4WNH7uduEQt2X7qO0iEcVFGs2xgZNRKBH1hwNJPTep7R6ZeM2/TUlST0JnXNyEZA62ASgLi+lgNjP2dK5ruhiSO4JsHQ6j0fHiuM9cztFIxQyuWNcgD5Xh+dly1/3TQQVXPZSkS+MWhr/YHVcRdHyyrM5JKzgKPlbGtv9sT53W/HEe9l82ts4vgAilZGpntJLiWvwFwPjY2Va//xk8ddmYU+Mij/AF2+F2j84dz/1vEiY+ElUjGbc3dnBsU1B33kutmuyYU36Gg4+Qu94qJgeSo5oryMemTMAD2pOfobSRqj1/1BeN6NrrS+rxbdr0Z2nPqyCiK9Z8rZnTR2tD2xuHlVFzgVqyQksd/izbL1z6tcc88mFOkuEfZ7hTN/EU4GyRddLa1BzG9Pg5m6IbJaD6Pl/X8/SdpAXlhiJ3gxd6G47b0RtA==;fiPMtDA8LMMoOH34FjunMA=="
 ---

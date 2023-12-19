@@ -43,6 +43,24 @@ related:
         width: 2200
         height: 1238
         isCached: true
+  - title: "Mercedes adds a new car light color: Blue for self-driving"
+    excerpt: "The Society of Automotive Engineers recommends this specific blue shade to signify autonomous vehicle operation, but Mercedes is the first automaker to receive approval for its use. The lights will appear at the back and front of the vehicle around the taillights and headlights."
+    publishedDateTime: 2023-12-19T19:19:00Z
+    webUrl: "https://www.ocregister.com/2023/12/19/mercedes-adds-a-new-car-light-color-blue-for-self-driving/"
+    type: article
+    provider:
+      name: Orange County Register
+      domain: ocregister.com
+    quality: 4
+  - title: "Mercedes adds turquoise lights to indicate self-driving cars"
+    excerpt: "California and Nevada are the only states where Mercedes’ “conditionally autonomous” Drive Pilot technology is legal."
+    publishedDateTime: 2023-12-19T19:28:00Z
+    webUrl: "https://www.eastbaytimes.com/2023/12/19/mercedes-adds-turquoise-lights-for-self-driving/"
+    type: article
+    provider:
+      name: East Bay Times
+      domain: eastbaytimes.com
+    quality: 4
   - title: "Mercedes Receives Approval To Use Turquoise-Colored Lights For Self-Driving Cars"
     excerpt: "Mercedes-Benz has received approval to use special exterior lighting for Drive Pilot-equipped Mercedes-Benz S-Class and EQS models in California and Nevada."
     publishedDateTime: 2023-12-19T14:29:00Z

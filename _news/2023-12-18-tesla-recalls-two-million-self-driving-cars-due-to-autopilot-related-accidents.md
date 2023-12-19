@@ -25,34 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla's recall of 2 million vehicles reminds us how far driverless car AI still has to go"
-    excerpt: "Tesla has recalled 2 million US vehicles over concerns about its autopilot function. Autopilot is meant to help with manoeuvres such as steering and acceleration, but still needs input from the driver."
-    publishedDateTime: 2023-12-18T02:25:00Z
-    webUrl: "https://www.econotimes.com/Teslas-recall-of-2-million-vehicles-reminds-us-how-far-driverless-car-AI-still-has-to-go-1667962"
+  - title: "Tesla’s Self-Driving Tech Has Competition"
+    excerpt: "A mass recall of Tesla’s Autopilot feature and crisis at General Motors’ autonomous-taxi business might give the impression that self-driving cars have hit a roadblock. In fact, the technology ..."
+    publishedDateTime: 2023-12-16T15:00:00Z
+    webUrl: "https://www.wsj.com/business/autos/teslas-self-driving-tech-has-competition-249fb3e2"
     type: article
     provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 60
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 69
     images:
-      - url: "https://f1.econotimes.com/2023/12/nc1m9ls3vd_th_1024x0.jpg"
-        width: 496
-        height: 279
+      - url: "https://images.wsj.net/im-900927/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Commentary: Tesla’s recall of 2 million vehicles reminds us how far driverless car AI still has to go"
-    excerpt: "There is a pressing need for new standards and mechanisms to assess the capabilities of these driverless cars, says University of Surrey's Saber Fallah."
-    publishedDateTime: 2023-12-15T22:01:00Z
-    webUrl: "https://www.channelnewsasia.com/commentary/tesla-driverless-cars-recall-2-million-autonomous-vehicles-safety-autopilot-3991256"
+  - title: "Tesla's Self-Driving Safety Under Scrutiny After Insider Leak"
+    excerpt: "An ex-Tesla employee's leak shockingly reveals alarming safety issues in the company's advanced Autopilot system, raising serious public concerns."
+    publishedDateTime: 2023-12-19T14:18:00Z
+    webUrl: "https://www.electropages.com/blog/2023/12/ex-tesla-employee-leaks-safety-data-autonomous-driving-and-its-not-good"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 54
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--L6zlzHd4--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-04-06t205807z_3_lynxmpej350kx_rtroptp_3_tesla-privacy-cameras.jpg?itok=KuXvCHkc"
-        width: 1200
-        height: 676
-        isCached: true
+      name: Electropages
+      domain: electropages.com
+    quality: 19
+  - title: "Tesla Recall Little More Than A Short Detour On The Path To Full Self-Driving"
+    excerpt: "Tesla is introducing FSD12 self-driving technology, which uses neural networks to mimic human decision-making. Read more about TSLA stock here."
+    publishedDateTime: 2023-12-15T17:50:00Z
+    webUrl: "https://seekingalpha.com/article/4658120-tesla-recall-little-more-than-a-short-detour-on-the-path-to-full-self-driving"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 16
 
 secured: "HOVSgqV8eOTfyF9n4T8kwzymy5YC+EIcYnZGCO9/GnHvZQTCL6bFr8qZWWK+pY5C7K015JkLkC7IOUzErAm4+yi+J51lBXe8VXihHWFvqDbTxZJTmO3YM33x1WoKIm7yxZpgHMYpQP7qGRaZfmGh3uGyKhwls+4hcyVcN5Mb+sQjFcCPnKxwvSkCT5u2+H/7ZNmtEcOKYBru/r+wd5tdWlX6svKo4Jr8rA+qEyxO4nClfva3QniQw+WgkstjzKxozTLiVD5Etr9HQU7AvdAsipFZkLIDia9nP7LW1aGPSGR2liT/Frdo2blERq7w8JIWSaQInoFiGF+m/CQNSiBNNJGPB6epqLWvs83z3Y1oF/z1ONi1T9g4Hh8BbUAE+xE3APsnqXc4UAajmZlWgbqxFl5JX9pVE5DPJm788ZRrjOWS0HGcCsBmKHEpKvAXrwaghvPlF7XkzX+xkfHSqpFTrQqPKmZuIUMeCgaFG/CHxQWdBesQ8lBZIBd4nutMVQV/UGqqGKbVFYR9e9nidbdzEg==;U4BHiLjd4kNjd9vVfVzkHA=="
 ---

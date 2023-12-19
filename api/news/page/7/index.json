@@ -2,6 +2,240 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-12-14-2023-was-the-year-that-artificial-intelligence-went-mainstream.md",
+      "title": "2023 was the year that artificial intelligence went mainstream",
+      "excerpt": "From ChatGPT to Gemini, this year was dominated by large language models and other AIs becoming everyday tools used by millions of people",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/mg26034693-900-2023-was-the-year-that-artificial-intelligence-went-mainstream/",
+      "originalUrl": "https://www.newscientist.com/article/mg26034693-900-2023-was-the-year-that-artificial-intelligence-went-mainstream/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newscientist.com/wp-content/uploads/2023/12/12141558/SEI_182878822.jpg",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-13T18:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-14-breaking-amd-is-not-the-fastest-gpu-heres-the-real-data.md",
+      "title": "Breaking: AMD Is Not The Fastest GPU; Here’s The Real Data.",
+      "excerpt": "Nvidia has just released a blog that counters AMD's claim that its latest chip, the MI300X, is 40-60 % faster in latency and throughput than Nvidia in inference processing for generative AI. Here is one of AMD’s slides at the MI300 launch event, which we covered here.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/12/13/breaking-amd-is-not-the-fastest-gpu-heres-the-real-data/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/12/13/breaking-amd-is-not-the-fastest-gpu-heres-the-real-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6578921c5953b091cefa2b75/0x0.jpg?format=jpg&crop=638,359,x0,y401,safe&height=900&width=1600&fit=bounds",
+          "width": 1599,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/12/13/breaking-amd-is-not-the-fastest-gpu-heres-the-real-data/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/12/13/breaking-amd-is-not-the-fastest-gpu-heres-the-real-data/amp/",
+      "publishedDateTime": "2023-12-13T18:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-14-robot-dogs-and-ai-inspectors-prepare-to-transform-us-border-security.md",
+      "title": "Robot dogs and AI inspectors prepare to transform US border security",
+      "excerpt": "U.S. Customs and Border Protection partners with Pangiam for AI-driven border security, introducing robot dogs and AI inspectors.",
+      "sourceUrl": null,
+      "webUrl": "https://interestingengineering.com/culture/robot-dogs-ai-inspectors-us-border",
+      "originalUrl": "https://interestingengineering.com/culture/robot-dogs-ai-inspectors-us-border",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dnd2oi6izkvoi.cloudfront.net/2023/12/13/image/jpeg/VMe3dBEynwz7uMOO2dWFJVqEGPnppFH1ZQIFedCo.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-13T17:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-12-13-create-summaries-of-recordings-using-generative-ai-with-amazon-bedrock-and-amazon-transcribe.md",
+      "title": "Create summaries of recordings using generative AI with Amazon Bedrock and Amazon Transcribe",
+      "excerpt": "Meeting notes are a crucial part of collaboration, yet they often fall through the cracks. Between leading discussions, listening closely, and typing notes, it’s easy for key information to slip away unrecorded. Even when notes are captured, they can be disorganized or illegible, rendering them useless.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/create-summaries-of-recordings-using-generative-ai-with-amazon-bedrock-and-amazon-transcribe/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/create-summaries-of-recordings-using-generative-ai-with-amazon-bedrock-and-amazon-transcribe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/12/13/create-summaries-of-recordings.jpg",
+          "width": 1001,
+          "height": 499,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-13T16:41:20Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-12-14-ray-ban-meta-smart-glasses-the-ai-stuff-meta-promised-is-finally-here-apparently.md",
+      "title": "Ray-Ban Meta Smart Glasses: The AI stuff Meta promised is finally here, apparently",
+      "excerpt": "Up to this point, Meta's smart glasses venture has felt mostly like a dud because the glasses were primarily used for taking social media photos and videos. The newer ones did come packaged with a Meta AI voice assistance, but prior to this update, it was mostly just a Siri clone.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/meta-ray-ban-glasses-ai-features",
+      "originalUrl": "https://mashable.com/article/meta-ray-ban-glasses-ai-features",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mashable.com/images/group-black-logo-purple.png",
+          "width": 2420,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-13T16:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-13-elon-musk-shares-video-of-teslas-new-humanoid-robot-that-can-dance-and-boil-eggs.md",
       "title": "Elon Musk Shares Video Of Tesla's New Humanoid Robot That Can Dance And Boil Eggs",
       "excerpt": "A video shared by Elon Musk shows significant improvements made to the robot since its prototype was first unveiled at the Tesla AI Day earlier this year ... The company said that it plans to soon start using the robot in its manufacturing operations.",
@@ -962,239 +1196,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-lg-demonstrates-ai-leadership-at-top-machine-learning-conference.md",
-      "title": "LG demonstrates AI leadership at top machine learning conference",
-      "excerpt": "LG AI Research demonstrated its leadership in generative AI, releasing its research results on AI Agent and others at Neural Information Processing Systems (NeurIPS), the largest conference in the field of machine learning,",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/tech/2023/12/133_365045.html",
-      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2023/12/133_365045.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/thumbnailV2/1dad86633b8043a2836e87a79f7ad5a3.jpg",
-          "width": 750,
-          "height": 468,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=365045",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=365045",
-      "publishedDateTime": "2023-12-13T06:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Times",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-meta-begins-testing-a-gpt-4v-rival-multimodal-ai-in-ray-ban-smart-glasses.md",
-      "title": "Meta begins testing a GPT-4V rival multimodal AI in Ray Ban smart glasses",
-      "excerpt": "The new Meta multimodal AI is set to launch publicly in 2024, according to a video post on Instagram by CTO Andrew Bosworth.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/meta-begins-testing-a-gpt-4v-rival-multimodal-ai-in-ray-ban-smart-glasses/",
-      "originalUrl": "https://venturebeat.com/ai/meta-begins-testing-a-gpt-4v-rival-multimodal-ai-in-ray-ban-smart-glasses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/12/Screenshot-2023-12-12-at-5.51.14-PM.png?resize=648%2C1110&#038;strip=all",
-          "width": 648,
-          "height": 1110,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-13T06:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-artificial-intelligence-summit-pm-modi-calls-for-global-framework-on-ethical-use-warns-against-misuse.md",
-      "title": "Artificial Intelligence Summit: PM Modi Calls For Global Framework On Ethical Use, Warns Against Misuse",
-      "excerpt": "Speaking at the Global Partnership on Artificial Intelligence Summit, PM Narendra Modi said India is firmly committed to responsible and ethical use of AI. He also also emphasised on the need for a global framework for ethical use of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.outlookindia.com/national/artificial-intelligence-summit-pm-modi-calls-for-global-framework-on-ethical-use-warns-against-misuse-news-336130",
-      "originalUrl": "https://www.outlookindia.com/national/artificial-intelligence-summit-pm-modi-calls-for-global-framework-on-ethical-use-warns-against-misuse-news-336130",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_1/IMAGE_1646301380.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.outlookindia.com/national/artificial-intelligence-summit-pm-modi-calls-for-global-framework-on-ethical-use-warns-against-misuse-news-336130/amp",
-      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/national/artificial-intelligence-summit-pm-modi-calls-for-global-framework-on-ethical-use-warns-against-misuse-news-336130/amp",
-      "publishedDateTime": "2023-12-13T05:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outlookindia",
-        "domain": "outlookindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-patient-prism-unveils-revolutionary-ai-driven-healthcare-platform-with-new-website-launch.md",
-      "title": "Patient Prism Unveils Revolutionary AI-Driven Healthcare Platform with New Website Launch",
-      "excerpt": "A cutting-edge conversational intelligence tool that interprets patient communication with unprecedented depth, offering actionable insights for healthcare providers. Tailored KPIs: Our platform provides specific,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/patient-prism-unveils-revolutionary-ai-driven-healthcare-platform-with-new-website-launch-1032895318",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/patient-prism-unveils-revolutionary-ai-driven-healthcare-platform-with-new-website-launch-1032895318",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/mmstudio-images/gallery/featured/pr-patient-prism-unveil-1702401307.png",
-          "width": 600,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-13T04:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-gpai-should-help-frame-sustainable-ai-rules-pm.md",
-      "title": "GPAI should help frame sustainable AI rules: PM",
-      "excerpt": "The prime minister emphasized that a large part of the course of AI development will come through “human and democratic values”",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/ai/artificial-intelligence/gpai-should-help-frame-sustainable-ai-rules-pm-11702401229429.html",
-      "originalUrl": "https://www.livemint.com/ai/artificial-intelligence/gpai-should-help-frame-sustainable-ai-rules-pm-11702401229429.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.livemint.com/lm-img/img/2023/12/12/1600x900/PTI12-12-2023-000248B-0_1702401366273_1702401381608.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/ai/artificial-intelligence/gpai-should-help-frame-sustainable-ai-rules-pm/amp-11702401229429.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/artificial-intelligence/gpai-should-help-frame-sustainable-ai-rules-pm/amp-11702401229429.html",
-      "publishedDateTime": "2023-12-13T04:48:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

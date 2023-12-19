@@ -262,6 +262,20 @@ related:
         width: 253
         height: 300
         isCached: true
+  - title: "LTIMindtree and Microsoft collaborate to deliver an AI-powered employee experience"
+    excerpt: "LTIMindtree, a global technology consulting and digital solutions company, is announcing a strategic collaboration with Microsoft to drive the delivery of effective and personalized employee and customer experiences."
+    publishedDateTime: 2023-12-19T20:00:00Z
+    webUrl: "https://www.kmworld.com/Articles/News/News/LTIMindtree-and-Microsoft-collaborate-to-deliver-an-AI-powered-employee-experience-161923.aspx"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 48
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/OtherImages/151196-2023-Cover-Images-ORG.png"
+        width: 772
+        height: 594
+        isCached: true
   - title: "TomTom and Microsoft Collaborating To Bring Generative AI and Cloud Analytics To Vehicles"
     excerpt: "TomTom and Microsoft are collaborating to develop new automotive solutions that leverage AI capabilities, cloud analytics, and Microsoft’s automotive"
     publishedDateTime: 2023-12-19T14:57:00Z
@@ -340,6 +354,29 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 32
+  - title: "Microsoft, TomTom Launch Voice Assistant That Makes Google Assistant and Siri Feel Old"
+    excerpt: "While Apple is building an electric vehicle from scratch and Google is betting big on the software and services side of the automotive space, Microsoft"
+    publishedDateTime: 2023-12-19T18:45:00Z
+    webUrl: "https://www.autoevolution.com/news/microsoft-tomtom-launch-voice-assistant-that-makes-google-assistant-and-siri-feel-old-226350.html"
+    type: article
+    provider:
+      name: autoevolution
+      domain: autoevolution.com
+    quality: 31
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/microsoft-tomtom-launch-voice-assistant-that-makes-google-assistant-and-siri-feel-old-226350_1.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
+  - title: "Microsoft's Semantic Kernel SDK Ships with AI Agents, Plugins, Planners and Personas"
+    excerpt: "Microsoft's Semantic Kernel AI SDK has new documentation to explain its capability to create AI agents that can interact with users, answer questions, call existing code, automate processes and perform various other tasks."
+    publishedDateTime: 2023-12-19T20:31:00Z
+    webUrl: "https://visualstudiomagazine.com/Articles/2023/12/19/semantic-kernel-v1.aspx"
+    type: article
+    provider:
+      name: Visual Studio Magazine
+      domain: visualstudiomagazine.com
+    quality: 27
   - title: "LTIMindtree Collaborates with Microsoft to Deliver AI Powered Employee Engagement Applications"
     excerpt: "LTIM, BSE: 540005], a global technology consulting and digital solutions company, announced a strategic collaboration with Microsoft to introduce cutting-edge, AI Powered Employee Engagement Applications."
     publishedDateTime: 2023-12-19T13:21:00Z
@@ -349,6 +386,24 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 22
+  - title: "LTIMindtree Collaborates with Microsoft to Deliver AI Powered Employee Engagement Applications"
+    excerpt: "Under the umbrella of LTIMindtree's innovative Canvas.AI suite of AI offerings and solutions, these Generative AI Powered Employee Engagement Applications will redefine enterprise effectiveness and enable greater personalization."
+    publishedDateTime: 2023-12-19T22:21:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20231219/4150471.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 22
+  - title: "Microsoft changes songwriting forever (for better or worse) as Copilot AI now can write you tunes"
+    excerpt: "Copilot has steadily been receiving updates over the last few months and can even produce generative AI images from prompts thanks to being powered by DALL-E. Today, Microsoft announced it has partnered with Suno via a plugin to turn your ideas into songs."
+    publishedDateTime: 2023-12-19T18:27:00Z
+    webUrl: "https://www.windowscentral.com/microsoft/microsoft-changes-songwriting-forever-for-better-or-worse-as-copilot-ai-now-can-write-you-tunes"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 21
   - title: "Sonata To Enable Bayer's New AgPowered Services for Machine Data Connectivity with Leading OEMs, Powered by Harmoni.AI And Microsoft Fabric"
     excerpt: "Data connectors for OEMs to further improve farmer and industry connectivity. BENGALURU, India, Dec. 18, 2023 /PRNewswire/ -- Sonata Software [NSE: SONATSOFTW, BSE: 532221], a lea"
     publishedDateTime: 2023-12-18T11:39:00Z

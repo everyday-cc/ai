@@ -2,6 +2,248 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-12-15-hr-block-introduces-ai-chatbot-that-will-answer-your-complex-tax-questions.md",
+      "title": "H&R Block introduces AI chatbot that will answer your complex tax questions",
+      "excerpt": "H&R Block said its goal with this new AI-enabled feature is to to help customers understand how their taxes work, rather than just being told where to put a certain number. The company hopes the advice from AI Tax Assist helps keep customers on the H&R Block site, instead of turning to Google search.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/h-r-block-introduces-ai-chatbot-that-will-answer-your-complex-tax-questions/",
+      "originalUrl": "https://www.zdnet.com/article/h-r-block-introduces-ai-chatbot-that-will-answer-your-complex-tax-questions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/22572debc72d09be85c3ee9a64b6ba99f9125edc/2023/12/15/137a600d-209f-431c-b4e9-a5d90cf20a11/gettyimages-88160312.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/h-r-block-introduces-ai-chatbot-that-will-answer-your-complex-tax-questions/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/h-r-block-introduces-ai-chatbot-that-will-answer-your-complex-tax-questions/",
+      "publishedDateTime": "2023-12-15T03:11:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-15-alphabet-needs-to-show-path-to-ai-sales-in-race-with-microsoft.md",
+      "title": "Alphabet Needs to Show Path to AI Sales in Race With Microsoft",
+      "excerpt": "“The whole business model depends on getting this right,” said Gene Munster, co-founder and managing partner at Deepwater Asset Management, whose firm holds the stock. “If they can nail multi-modal generative AI, that will draw usage to Google, and that increased usage will protect and grow the search business.”",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/tech/news/alphabet-needs-to-show-path-to-ai-sales-in-race-with-microsoft-71702574596587.html",
+      "originalUrl": "https://tech.hindustantimes.com/tech/news/alphabet-needs-to-show-path-to-ai-sales-in-race-with-microsoft-71702574596587.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 421,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2023/12/15/1600x900/USA-CHIPS-ALPHABET-0_1663336524425_1663336524425_1702604579880.JPG",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/alphabet-needs-to-show-path-to-ai-sales-in-race-with-microsoft-71702574596587.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/alphabet-needs-to-show-path-to-ai-sales-in-race-with-microsoft-71702574596587.html",
+      "publishedDateTime": "2023-12-15T01:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times Tech",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-12-15-do-ai-improvements-call-for-something-better-than-the-turing-test.md",
+      "title": "Do AI improvements call for something better than the Turing test?",
+      "excerpt": "In addition to this, the Turing Test fails to analyze an AI program’s ability to think. In a recent Turing Test experiment, GPT-4 was able to convince evaluators that they were texting with humans over 40 percent of the time. However, this score fails to answer the basic question: Can the AI program think?",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/ai/2023/12/do-ai-improvements-call-for-something-better-than-the-turing-test/",
+      "originalUrl": "https://arstechnica.com/ai/2023/12/do-ai-improvements-call-for-something-better-than-the-turing-test/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-147461191-800x600.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-15T00:16:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-15-google-deepmind-announces-the-funsearch-training-method.md",
+      "title": "Google DeepMind announces the “FunSearch” training method",
+      "excerpt": "Google DeepMind has introduced a new method called FunSearch. This method uses Large Language Models (LLMs) to search for new solutions in mathematics and computer science. The method is described ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizchina.com/2023/12/15/google-deepmind-funsearch-method-mathematics-computer-science/",
+      "originalUrl": "https://www.gizchina.com/2023/12/15/google-deepmind-funsearch-method-mathematics-computer-science/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizchina.com/wp-content/uploads/images/2023/12/Google-DeepMind.jpg",
+          "width": 1200,
+          "height": 648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.gizchina.com/2023/12/15/google-deepmind-funsearch-method-mathematics-computer-science/amp/",
+      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2023/12/15/google-deepmind-funsearch-method-mathematics-computer-science/amp/",
+      "publishedDateTime": "2023-12-15T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GizChina",
+        "domain": "gizchina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-15-how-machine-learning-is-boosting-businesses.md",
+      "title": "How Machine Learning is Boosting Businesses",
+      "excerpt": "\"Think of (ML) as a financial advisor ... the user and they have been building this system since 2008. Machine learning has directly impacted customer experiences or personalized services/products for Legalpay, a litigation financier.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/en-in/technology/how-machine-learning-is-boosting-businesses/467034",
+      "originalUrl": "https://www.entrepreneur.com/en-in/technology/how-machine-learning-is-boosting-businesses/467034",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1702641228-Hithere.png?format=pjeg&auto=webp",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-15T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-12-14-boost-productivity-on-amazon-sagemaker-studio-introducing-jupyterlab-spaces-and-generative-ai-tools.md",
       "title": "Boost productivity on Amazon SageMaker Studio: Introducing JupyterLab Spaces and generative AI tools",
       "excerpt": "Amazon SageMaker Studio offers a broad set of fully managed integrated development environments (IDEs) for machine learning (ML) development, including JupyterLab, Code Editor based on Code-OSS (Visual Studio Code Open Source), and RStudio. It provides access to the most comprehensive set of tools for",
@@ -995,237 +1237,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-ai-scientists-make-exciting-discovery-using-chatbots-to-solve-maths-problems.md",
-      "title": "AI scientists make ‘exciting’ discovery using chatbots to solve maths problems",
-      "excerpt": "Breakthrough suggests technology behind ChatGPT and Bard can generate information that goes beyond human knowledge",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/science/2023/dec/14/ai-scientists-make-exciting-discovery-using-chatbots-to-solve-maths-problems",
-      "originalUrl": "https://www.theguardian.com/science/2023/dec/14/ai-scientists-make-exciting-discovery-using-chatbots-to-solve-maths-problems",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/5e67e2b4e8098dfaafa375a6fbe2425d738a4965/0_43_3000_1800/master/3000.jpg?width=620&quality=85&auto=format&fit=max&s=435ab186909670a8b9470a0626575d88",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/science/2023/dec/14/ai-scientists-make-exciting-discovery-using-chatbots-to-solve-maths-problems",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/science/2023/dec/14/ai-scientists-make-exciting-discovery-using-chatbots-to-solve-maths-problems",
-      "publishedDateTime": "2023-12-14T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-new-lenovo-thinkpad-x1-carbon-hints-at-new-2024-trend-ai-laptops.md",
-      "title": "New Lenovo ThinkPad X1 Carbon hints at new 2024 trend: AI laptops",
-      "excerpt": "The new ThinkPad X1 Carbon Gen 12 is refreshed with Intel's next-generation AI-capable chips called Intel Core Ultra processors, which feature an NPU (in addition the CPU and GPU), that's capable of \"inferencing,\" a fancy way of saying that it helps AI make predictions.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/lenovo-thinkpad-x1-carbon-gen-12",
-      "originalUrl": "https://mashable.com/article/lenovo-thinkpad-x1-carbon-gen-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/00ryv5CkHSP1TqO9KdCRhgd/hero-image.fill.size_1200x675.v1702525212.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-14T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-ibm-cloud-solution-tutorials-2023-in-review.md",
-      "title": "IBM Cloud solution tutorials: 2023 in review",
-      "excerpt": "Our team looks back and shares personal highlights from the year, including generative AI, LLMs, watsonx and more.\nThe post IBM Cloud solution tutorials: 2023 in review appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ibm-cloud-solution-tutorials-2023-in-review/",
-      "originalUrl": "https://www.ibm.com/blog/ibm-cloud-solution-tutorials-2023-in-review/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-14T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-intel-core-ultra-meteor-lake-mobile-cpus-launch-with-gaming-grade-igpu-and-ai-brawn.md",
-      "title": "Intel Core Ultra Meteor Lake Mobile CPUs Launch With Gaming Grade iGPU And AI Brawn",
-      "excerpt": "If you're reading this website right now, we probably don't have to explain to you that Intel's new Core Ultra processors launching today were codenamed Meteor Lake, and that they represent not only Intel's first \"disaggregated\" CPUs built from disparate tiles,",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/intel-core-ultra-mtl-launch",
-      "originalUrl": "https://hothardware.com/news/intel-core-ultra-mtl-launch",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 228,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/63353/content/hero-intel-core-ultra.jpg",
-          "width": 708,
-          "height": 398,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/intel-core-ultra-mtl-launch",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/intel-core-ultra-mtl-launch",
-      "publishedDateTime": "2023-12-14T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-openais-ilya-sutskever-has-a-plan-for-keeping-super-intelligent-ai-in-check.md",
-      "title": "OpenAI’s Ilya Sutskever Has a Plan for Keeping Super-Intelligent AI in Check",
-      "excerpt": "A research paper released by OpenAI today touts results from experiments designed to test a way to let an inferior AI model guide the behavior of a much smarter one without making it less smart.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/openai-ilya-sutskever-ai-safety/",
-      "originalUrl": "https://www.wired.com/story/openai-ilya-sutskever-ai-safety/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/657a4dc7d50c518000e43e90/191:100/w_1280,c_limit/OpenAI-Superalignment-Business-1554148483.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-14T13:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
         "AI"
       ]
     }

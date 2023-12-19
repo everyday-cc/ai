@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-20-ai-is-reshaping-chip-design-but-where-will-it-end.md",
+      "title": "AI Is Reshaping Chip Design. But Where Will It End?",
+      "excerpt": "Using AI reduces design costs, improves yields and performance, and shortens time-to-market for better chips. Synopsys, Cadence Design Systems, and many hyperscal chip designers are now adopting generative AI capabilities to facilitate chip design. Think of this as the second generation of AI for EDA. Where might this lead?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/12/19/ai-is-reshaping-chip-design-but-where-will-it-end/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/12/19/ai-is-reshaping-chip-design-but-where-will-it-end/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65820d6832a7a051bb07c495/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 874,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/12/19/ai-is-reshaping-chip-design-but-where-will-it-end/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/12/19/ai-is-reshaping-chip-design-but-where-will-it-end/amp/",
+      "publishedDateTime": "2023-12-19T22:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-19-butterfly-network-to-bring-ultrasound-on-chip-tech-to-surgical-robotics.md",
       "title": "Butterfly Network to bring Ultrasound-on-Chip tech to surgical robotics",
       "excerpt": "Butterfly Network (NYSE:BFLY) announced today that it partnered with Mendaera to commercialize a new surgical robotic system.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.massdevice.com/butterfly-network-surgical-robotics-deal-mendaera/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -203,7 +255,7 @@
       "originalUrl": "https://www.techspot.com/news/101238-amd-mi300x-ai-accelerator-faster-than-nvidia-h100.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -351,7 +403,7 @@
       "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/12/15/intel-focusses-on-ai-at-big-event-and-for-good-reasons/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 219,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -489,7 +541,7 @@
       "originalUrl": "https://www.gizmochina.com/2023/12/15/acer-predator-triton-neo-16-laptop-launched/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -1359,50 +1411,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-human-brain-cells-hooked-up-to-a-chip-can-do-speech-recognition.md",
-      "title": "Human brain cells hooked up to a chip can do speech recognition",
-      "excerpt": "Brain organoids, clumps of human brain cells grown in a dish, can be hooked up to an electronic chip and carry out simple computational tasks, a new study shows. Feng Guo and his",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/12/11/1084926/human-brain-cells-chip-organoid-speech-recognition/",
-      "originalUrl": "https://www.technologyreview.com/2023/12/11/1084926/human-brain-cells-chip-organoid-speech-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/12/organoid-compute2.jpg?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/12/11/1084926/human-brain-cells-chip-organoid-speech-recognition/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/11/1084926/human-brain-cells-chip-organoid-speech-recognition/amp/",
-      "publishedDateTime": "2023-12-11T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

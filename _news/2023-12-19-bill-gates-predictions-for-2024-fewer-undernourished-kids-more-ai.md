@@ -18,21 +18,35 @@ topics:
   - AI
 
 related:
-  - title: "2024: Healthcare Insiders Predict The Future"
-    excerpt: "I hope you find their predictions and insights as intriguing as I do. AI to Bridge the Gaps to Human-Centered Health Care Artificial intelligence (AI) and machine learning (ML) have the promise of bridging gaps in medical education and creating ..."
-    publishedDateTime: 2023-12-14T19:56:00Z
-    webUrl: "https://www.forbes.com/sites/sachinjain/2023/12/14/2024-healthcare-insiders-predict-the-future/"
-    ampWebUrl: "https://www.forbes.com/sites/sachinjain/2023/12/14/2024-healthcare-insiders-predict-the-future/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sachinjain/2023/12/14/2024-healthcare-insiders-predict-the-future/amp/"
+  - title: "My One Big Tech-Fueled Prediction for 2024: AI ‘Vanishes’"
+    excerpt: "So, here we go: In the year ahead, artificial intelligence will become ever more pervasive. So pervasive, in fact, that it will start to become invisible — to actually begin to vanish, from the hype cycles, even from our consciousness."
+    publishedDateTime: 2023-12-16T11:01:00Z
+    webUrl: "https://www.forbes.com/sites/joemckendrick/2023/12/16/my-one-big-tech-fueled-prediction-for-2024-ai-vanishes/"
+    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/12/16/my-one-big-tech-fueled-prediction-for-2024-ai-vanishes/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/12/16/my-one-big-tech-fueled-prediction-for-2024-ai-vanishes/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/657b8269d0998e5ffed4e4c7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1257
+      - url: "https://imageio.forbes.com/specials-images/imageserve/657d2ec97bc13a21c41dc9b9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
         height: 900
+        isCached: true
+  - title: "7 Best Free AI Transcribers For 2024: Ranked & Reviewed"
+    excerpt: "You don't need to pay a premium for a quality transcription service. Here's a roundup of our favorite free platforms."
+    publishedDateTime: 2023-12-15T18:43:00Z
+    webUrl: "https://tech.co/news/best-free-ai-transcribers"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 54
+    images:
+      - url: "https://images.tech.co/wp-content/uploads/2023/12/15131021/AdobeStock_690500744_Editorial_Use_Only-1.jpeg"
+        width: 1920
+        height: 1281
         isCached: true
   - title: "VC And Startup Predictions 2024: Bitcoin, AI, And Frugal Entrepreneurs"
     excerpt: "Many VCs and startups will be happy to see the back of 2023, but what does 2024 have in store for the ecosystem?"

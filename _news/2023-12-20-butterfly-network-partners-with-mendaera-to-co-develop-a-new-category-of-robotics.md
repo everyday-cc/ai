@@ -39,7 +39,16 @@ related:
         width: 770
         height: 500
         isCached: true
+  - title: "Butterfly Network teams with medical robot startup Mendaera in ultrasound commercialization deal"
+    excerpt: "Butterfly Network has selected the medical robotics startup Mendaera to serve as the first participant in its ultrasound hardware commercialization program.  | The pair aims to deliver an interventional robot that incorporates Butterfly’s semiconductor-based ultrasound technology to guide needle-based procedures."
+    publishedDateTime: 2023-12-19T17:34:00Z
+    webUrl: "https://www.fiercebiotech.com/medtech/butterfly-network-teams-medical-robot-startup-mendaera-ultrasound-commercialization-deal"
+    type: article
+    provider:
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 6
 
-secured: "WRuu+MfsGXFXCx20ZHCP0XOE7ZBDIltmiyvoYbUlQc3DaK0s0WGN0olh6eQVcceRWPg6L6dWsSfN2OULgVo0U0fHVLhfBqvhGzEG80o3HmVwcdu7+WuMWTiAxdutNF3qLVw7ZfiaN6g5aec6C8BjlijdwhBYI/zl/Fo6cu/wXXMG6wSiXYgeOfXGX+t4omEUamoyFlx1mf3ogn/v7+C6v0gUmGzJzH5NxUVw+uoLlUjReFdVubmxl3y18Hu/RUFESDSWZiiN1NplUwfoN+U71bHTTqIyKXZmE7OMDcWQMKPClQFvbn4+eAiNqDrdGhJMpgy4+Shb8V5YVjCEFWyTfswZUZE0sXeRC1Pom1p3Rcg=;VOFm5NgHzYa2qrZRulV0Ww=="
+secured: "cdDnHXepMVy8mPCmueaxGJsjKMtVvctFB8CvCt9gZdipiiHAoAwwmu3p9Xxl3XeWut2AVQLG/Lyjv+gcu4mQVtKvQ2sVcVTexSnWQpqep/CMMU4r7Pxtp90GHleh0NKXPIMMuE7gYbN22vi513+Rx9dBlJ2qVEC3mg8sooYCp/1x2gdnwHXLcDAwcvSrYJ/OuCzLE4OdI8LSuiwbXjJHIhKEFcD3CCew1kkjEM1AwQPBSaGOesBW/P7XpyyaewDgohbfWGG0ZrlV+9obWhhINun1xrcD2ZHAs6KYBFL13pqP/1D7RPZ7Q/UNjh6OS62pj2apQRR9AQKK0RR1cUCb74a5csNZTzTtLj67zDi/RkKZhY5pNFIIp6hstvRjE4gyBFh7XHo5YQbAhTJogAEV7eWZKEApj9pZynG3Uq+OjeKdheJ+AkogmvDHLyl9+SdgBvtKRSilvompOhAd2s7y415UAofKOj7dA3uzADzC/blyZ9bIiotpG9Pm6A3KhNn1XXSmhLGl6DhWELUVzvLj6g==;wAG5rQ1vkMZK0rH8IBrJbA=="
 ---
 

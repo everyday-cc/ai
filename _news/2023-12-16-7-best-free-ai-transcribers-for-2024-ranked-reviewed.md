@@ -41,6 +41,24 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "VC And Startup Predictions 2024: Bitcoin, AI, And Frugal Entrepreneurs"
+    excerpt: "Many VCs and startups will be happy to see the back of 2023, but what does 2024 have in store for the ecosystem?"
+    publishedDateTime: 2023-12-18T12:56:00Z
+    webUrl: "https://www.forbes.com/sites/kjartanrist/2023/12/18/vc-and-startup-predictions-2024-bitcoin-ai-and-frugal-entrepreneurs/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Bill Gates’ predictions for 2024: fewer undernourished kids, more AI"
+    excerpt: "In what's become a year-end tradition, Microsoft co-founder Bill Gates has offered his predictions for the year ahead. Spoiler: Gates says AI is a big deal in 2024."
+    publishedDateTime: 2023-12-19T04:01:00Z
+    webUrl: "https://www.seattletimes.com/business/bill-gates-predictions-for-2024-fewer-undernourished-kids-more-ai/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
 
 secured: "wx2lVQEBiOT75KzNbSqAaMQeHzti1boV4HcSsfaW7TJ9rYNARJXdV0o90FLgr60XINNlJYeLTVHF6GYDRe9aCAPUdV6hAgXBZZtd1sPxkFyqrEbm46VjnSstqRg0lzM21MSNCCq3OZFnoA2sC5sPeOAyFpKRFL0RW4ytqJCNGas3GNqfv6LSP2D2fXzekkUUF30p2YaJJl1qSVFwgVm4H6UNTJHckGsx4uFb45QYR5HYz+ni7f/yk/E+ZeL2L65loJ9VLs5vjCBnaClaWx6W4ihGF4w6kE9C4wurD8FfYB2YKfBg9BuMNaC6fH/n5tx0JoyGmxdqRG+ArCRAdm9YJcNTXXt07Mr3JlANYSU4fI+jAJZjE3S01OP4+gER7ytU2OtGr/fOnt37g7nvy0rKn+oR2S8kdi18djhDA0NNnUvcu60mvNSi2cJ7tiu1T6v1OZ4ei0qgO4IrNFnadmfz/OB/wfEAqJVPfZovSCUfwJ+3891wRCMiNbyRgL2hvTOLr9J3dQPrrqj5XGjgBaZzbw==;SqqV4akzIgc+Ynm5sQgCzA=="
 ---

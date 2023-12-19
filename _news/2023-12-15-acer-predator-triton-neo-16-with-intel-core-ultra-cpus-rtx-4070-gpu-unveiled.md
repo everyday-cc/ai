@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2023/12/15/acer-predator-triton-neo-16-
 webUrl: "https://www.gizmochina.com/2023/12/15/acer-predator-triton-neo-16-laptop-launched/"
 type: article
 quality: 65
-heat: 135
+heat: 125
 published: true
 
 provider:
@@ -108,15 +108,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Acer Debuts AI-Ready Swift Go 14 Laptop with New Intel Core Ultra Processors"
-    excerpt: "New Acer Swift Go 14 laptop enables AI-accelerated experiences and capabilities complemented by Intel AI Boost and Copilot in Windows 11"
-    publishedDateTime: 2023-12-14T19:03:00Z
-    webUrl: "https://www.valdostadailytimes.com/ap/business/acer-debuts-ai-ready-swift-go-14-laptop-with-new-intel-core-ultra-processors/article_76107b90-fdd8-518b-9d55-33e06522208e.html"
-    type: article
-    provider:
-      name: The Valdosta Daily Times
-      domain: valdostadailytimes.com
-    quality: 16
 
 secured: "/0aoaa2sviOLF+14xEQOPrNDJnafDgQMZoPsWgtScFofxyu67z4tyLdz+rcNslhbFedtsRD2LmjGgm0+DmRX1VBrecMg+IUmblnz6pdGiFaaW1xWz1VyI8+exUjNSiRkb0gjFgEliph0dO5dJL++Vs3k4i/++51UTe/jES03CjAJi4FYpnJ753Ac7Tn52vig+FLB/DrefKgvm3QxEqWZZU/WX0CdUNX3gkTITo3s4e8Eg2lFBIvPdqE0VkA3xU0RHUpf9VPjsQTrsZIeTk/xY9+JWv63mYoI1Qw+tFNi09WUU2TgeeL6svri/MyCx26FgIftIJygRkaFu4Vm8WMjTO2NmeMN0Z1CqSog7EwKZq4=;WOWmsknQ9vwjCWkPn46eNA=="
 ---

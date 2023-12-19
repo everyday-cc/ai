@@ -43,6 +43,24 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Mercedes adds a new car light color: Blue for self-driving"
+    excerpt: "The Society of Automotive Engineers recommends this specific blue shade to signify autonomous vehicle operation, but Mercedes is the first automaker to receive approval for its use. The lights will appear at the back and front of the vehicle around the taillights and headlights."
+    publishedDateTime: 2023-12-19T19:19:00Z
+    webUrl: "https://www.ocregister.com/2023/12/19/mercedes-adds-a-new-car-light-color-blue-for-self-driving/"
+    type: article
+    provider:
+      name: Orange County Register
+      domain: ocregister.com
+    quality: 4
+  - title: "Mercedes adds turquoise lights to indicate self-driving cars"
+    excerpt: "California and Nevada are the only states where Mercedes’ “conditionally autonomous” Drive Pilot technology is legal."
+    publishedDateTime: 2023-12-19T19:28:00Z
+    webUrl: "https://www.eastbaytimes.com/2023/12/19/mercedes-adds-turquoise-lights-for-self-driving/"
+    type: article
+    provider:
+      name: East Bay Times
+      domain: eastbaytimes.com
+    quality: 4
   - title: "Mercedes Receives Approval To Use Turquoise-Colored Lights For Self-Driving Cars"
     excerpt: "Mercedes-Benz has received approval to use special exterior lighting for Drive Pilot-equipped Mercedes-Benz S-Class and EQS models in California and Nevada."
     publishedDateTime: 2023-12-19T14:29:00Z
@@ -53,6 +71,6 @@ related:
       domain: carbuzz.com
     quality: 0
 
-secured: "x7RcpTn1Stf1VBdciQh3Rrs6LWu3k2bD9YXCbdXpGco3cAjL1dfcjlvVPNwXFTQfLdMcbBbLO0gJlzzUPEDbcTPq+da2SOO/Ab/wWWl8BHZkjbvukj4utrgQJ1eyu2Xb/GwLLuCTqcXeqqfdtiTT28tKxhwTdrFwnY0kFEeo8CmUriT4/BOLBXUsA0OvDwPF6Jf+XPdbCEmrVCL1RFThg5gGw1b3BdqwGaHKNVUlR2uEPPY1K/L4/ubn2TT0nA05r6eTq/yTfEQ8goi/FotuPUeO9XeAQvtE53/oomdNUXlrckjAzjhih6jhCjnCR3PQAfg6YCMl1vFuUPVS00Qizwlgi/mThfiHyiF/e8WxgGQ=;9DW45mZ1nf2s2icMxpcOGQ=="
+secured: "emw4eyVIFffYpa3rCyox+c83h1Qkcjx6gmvCktgUISaNcaaD/Tl0KZJwCBFLLmJEXe4IfEm2U1gsBtYbP0OPnzIwh2ZhnjEzQgdk5LE//nPzqkG39DPSC1x4FYrWVaplEFiCaMWrfkoVqpGN5/9x9elrDmSGi85rpqntJSW9PYMaMzFzYFAtPaBuYNtp+sFUGgALlynsWNZiyLjNJtVLQUbVZLAJXlD8G1fVDCq6QdT0ZVz8ibjuWN68ey9N7pbmg2t768Qcg+OI6RCs9viWSaLh/qWW2j2Zk59v1lLKUTzkiwQDo4bpP6VrQFbuV5PCeBAIhimt/WBhfgCBsk6rVj0uaNgSyIF4kkHQ/uYrovM0LxxzbAG0tMN98wUPrRTVC7IWagN6PKAPWoZ4dDrwDu8Q8odFHi79FAYH1PX1ZSvkbXNAW5nN5GSyKbb/buT5zlwspa5izbbnchPExLMPjl3hG5vYAO+9Plz3WHnB1uuhUMemwMQsPfw5BR2atvT0TYxaJI3Xv/PD5396ePttkw==;C9vdcAkTqiyJ9565zIiKLw=="
 ---
 

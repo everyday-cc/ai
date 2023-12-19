@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How to get a shareable link to a ChatGPT conversation"
+    excerpt: "Even though I used my paid subscription to ChatGPT Plus for this session, anyone can click the link and read the conversation."
+    publishedDateTime: 2023-12-19T12:40:00Z
+    webUrl: "https://www.zdnet.com/article/how-to-get-a-shareable-link-to-a-chatgpt-conversation/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 49
 
 secured: "qYj851V0mnOPf2UZXpKRcmwduoJqN+07IzkfGfFT8gxPMyME7wk5RE48cHTPSX07/3O+60c0W5WLsM0dNGvV4yR64w1zwOOAeA5h0YyISHByoaNz+YUi5FPxODuXSfJRywAag1cvC9NSEF+qtpKZ4KvBV86jHepozUz5wrH4DwdinVPbqmplTjo/DaI6zNhsiJ+zTfdOJ5X1V5rwqCJ+esoBkBGASqxJMskHnnVknIkjzsdAFhhMO8kNwKWEwfMaY+2dFRAVNJWLuENZO3Wm35wrUTGDzvjjXH/FV7a5HvGFxhgFzGHr9RswHjdXBv5Lcd6xh2ZqMXqTnrqMAc5AVYNAunJEbksUHPR/Ef5HQ9g=;InFROqHkL7T/RZtIX8D8nA=="
 ---

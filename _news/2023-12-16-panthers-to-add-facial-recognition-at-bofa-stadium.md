@@ -35,20 +35,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Verizon, Panthers Implement “Express Entry” Option Using Facial Recognition To Enter Bank of America Stadium"
-    excerpt: "A new partnership between the Carolina Panthers and Verizon allows fans to enter Bank of America Stadium without scanning a ticket or their phones."
-    publishedDateTime: 2023-12-14T22:49:00Z
-    webUrl: "https://www.wccbcharlotte.com/2023/12/14/verizon-panthers-implement-express-entry-option-using-facial-recognition-to-enter-bank-of-america-stadium/"
-    type: article
-    provider:
-      name: WCCB
-      domain: wccbcharlotte.com
-    quality: 37
-    images:
-      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.wccbcharlotte.com/content/uploads/2015/12/Bank-of-America-Stadium.jpg"
-        width: 426
-        height: 240
-        isCached: true
 
 secured: "nUAvVaHsQHfwCtm0DwbIYKlWIAeaHPo43d8z07oTCwC3xZxtxz/eGwgd2SamzrtFJ+3XRlurxjBkCWpeqLaCQEP2eLKP5HS1ql9attBEkUPDKDBMubqev5NRT2bqbWxaxFpVc8/e/suGuDC16z9jIdDf033v4Hwnhp6+aZaFLJN9TsAOUOiUaZKZEhIAwpvQlaCLODMReqHqanSt246aEJHt7tpdXI/yx/9dIlbBY99XGVzkR0YUkT/lpFacrfQnxaM+/VelnTI3SW+wmTY92lAe8X5p35pCCa+nj3vpVqmc/Zd/xLtFQqXePNhsrB8cR8Lv9avAcl3P5hWJwu+nIkKuVCYUONro5NfhNX68mV4=;uSNDEduwdlNLrUDGkAgUJQ=="
 ---

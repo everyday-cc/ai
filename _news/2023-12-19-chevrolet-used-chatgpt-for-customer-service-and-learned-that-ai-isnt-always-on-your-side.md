@@ -7,7 +7,7 @@ originalUrl: "https://www.inc.com/ben-sherry/chevrolet-used-chatgpt-for-customer
 webUrl: "https://www.inc.com/ben-sherry/chevrolet-used-chatgpt-for-customer-service-and-learned-that-ai-isnt-always-on-your-side.html"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,31 @@ images:
     width: 1024
     height: 576
     isCached: true
+
+related:
+  - title: "One Year In and ChatGPT Already Has Us Doing Its Bidding"
+    excerpt: "One of the first things I asked ChatGPT about, early this year, was myself: “What can you tell me about the writer Vauhini Vara?” It told me I’m a journalist (true, though I’m also a fiction writer),"
+    publishedDateTime: 2023-12-19T14:39:00Z
+    webUrl: "https://www.nytimes.com/2023/12/19/opinion/artificial-intelligence-chatgpt.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 49
+  - title: "What ChatGPT thinks about Kevin McCarthy endorsing Trump"
+    excerpt: "As former House Speaker Kevin McCarthy leaves Congress, he has some new aspirations involving artificial intelligence — but what does AI think? CBS News chief political analyst John Dickerson asked one platform to weigh in."
+    publishedDateTime: 2023-12-15T02:23:00Z
+    webUrl: "https://www.cbsnews.com/video/chatgpt-kevin-mccarthy-endorsing-trump/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 39
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/12/15/9bdd3e08-a2cb-46d4-ba12-90a07006bd76/thumbnail/1200x630/98195cd860c8900fe1ebc653cbc9a308/mccarthy.jpg?v=5382e209c94ee904b3a96a69f8ca0ce0"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "rlc9Jv99CkcJ/Fz1QRIaRg879xSATHMLC7WVLKDCFtxVVMihBUl8ECN1FWIX5xgUGqFQnX/Y9JPPVyy87WyPuV3nImRTTbxQksARKUSWqDkTQN5eRmiqilerzqRfsMRdIM/MUe5Reg4fa4aykdoFLRUf/douE9c4SQ1gc1hGpn2TSzFtxa+XrMtlN6864CZEfT9WHRTXOIBKVi+PjBQ4xNC2BMtuxF4qpKFlXdDgt1fzYqcB8/jSwbct/TFmnhKnPHaQ/v9QnPfLDW0228qgDJ/nUayePAh8n0a7Op3oqfHfNj24hHTfxAWcDOWjV6o5MBwrSfT/V1fwP7ckcGgRHuja5l5g98GdcjvupbxJJyt7EKH9cgXp6g1LHei0fsXCS6qaMJrrxp8+0nVu2N53/xq4bJq5xDUhBZu/M2RcXyXSCKrSIBjzmGpoqyArITnGwdKjt+xrzlF0bTdUpKjOsgwIycV/Xepj8q1fVW/2M2dCX12wgO96odvFAez1EYAnoifuN/uAnz7WTeDXxt85aA==;PWWx4eZ1NYV2BK6vBRsiiA=="
 ---

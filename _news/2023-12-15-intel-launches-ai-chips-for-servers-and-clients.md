@@ -43,22 +43,6 @@ related:
         width: 1600
         height: 803
         isCached: true
-  - title: "Intel Introduces Core Ultra Chips with NPUs for AI Advancements"
-    excerpt: "Intel has ushered in a new era for AI-powered PCs with the release of its cutting-edge Core Ultra notebook chips. These chips are Codenamed \"Meteor Lake\""
-    publishedDateTime: 2023-12-14T20:44:00Z
-    webUrl: "https://techlomedia.in/2023/12/intel-introduces-core-ultra-chips-with-npus-for-ai-advancements-103680/"
-    ampWebUrl: "https://techlomedia.in/2023/12/intel-introduces-core-ultra-chips-with-npus-for-ai-advancements-103680/"
-    cdnAmpWebUrl: "https://techlomedia-in.cdn.ampproject.org/c/s/techlomedia.in/2023/12/intel-introduces-core-ultra-chips-with-npus-for-ai-advancements-103680/"
-    type: article
-    provider:
-      name: techlomedia.in
-      domain: techlomedia.in
-    quality: 74
-    images:
-      - url: "https://techlomedia.in/wp-content/uploads/2023/12/Intel-core-ultra.jpg"
-        width: 900
-        height: 450
-        isCached: true
   - title: "Intel Launches New AI Chip For Big Enterprise Along With Core Ultra Chips For Windows Laptops And PCs"
     excerpt: "Will AI chips eventually become more commonplace in regular computers? Intel has just released a new computer chip called the Gaudi3. The Gaudi3 is specifically designed with AI in mind, aiming to provide better performance and efficiency for artificial intelligence applications… pic.twitter.com/pf1A1ovEA7"
     publishedDateTime: 2023-12-15T07:41:00Z
@@ -72,20 +56,6 @@ related:
       - url: "https://sm.mashable.com/t/mashable_in/photo/default/slejven-djurakovic-0uxzoezyz4i-unsplash_6qrd.1200.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Intel Puts Artificial Intelligence First With Processor Announcements"
-    excerpt: "The Intel Core Ultra mobile processor family brings AI to PCs, while 5th Gen Intel Xeon processors offer AI acceleration for data centers."
-    publishedDateTime: 2023-12-14T21:35:00Z
-    webUrl: "https://www.techrepublic.com/article/intel-ai-everywhere-event-2023/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 67
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/12/core-ultra-fig-a-dec-23.jpeg"
-        width: 800
-        height: 533
         isCached: true
   - title: "AMD Ryzen 8040 chip battles Intel for AI laptop supremacy"
     excerpt: "Between the AMD Ryzen 8040, Intel Core Ultra, and Apple M3 chips, there's a lot of competition among laptops built for machine learning."

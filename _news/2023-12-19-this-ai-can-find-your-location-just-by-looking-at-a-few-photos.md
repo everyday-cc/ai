@@ -34,11 +34,18 @@ related:
     excerpt: "Three Stanford graduate students built an AI tool that can find a location by looking at pictures. Civil rights advocates warn more advanced versions will further erode online privacy."
     publishedDateTime: 2023-12-19T14:01:00Z
     webUrl: "https://health.wusf.usf.edu/npr-health/2023-12-19/artificial-intelligence-can-find-your-location-in-photos-worrying-privacy-experts"
+    ampWebUrl: "https://health.wusf.usf.edu/npr-health/2023-12-19/artificial-intelligence-can-find-your-location-in-photos-worrying-privacy-experts?_amp=true"
+    cdnAmpWebUrl: "https://health-wusf-usf-edu.cdn.ampproject.org/c/s/health.wusf.usf.edu/npr-health/2023-12-19/artificial-intelligence-can-find-your-location-in-photos-worrying-privacy-experts?_amp=true"
     type: article
     provider:
       name: health.wusf.usf.edu
       domain: usf.edu
-    quality: 11
+    quality: 51
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/ea671eb/2147483647/strip/true/crop/711x400+0+18/resize/480x270!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa9%2F9b%2F9db8008f4a048608630139d75e05%2Fassociates-degree-in-nursing.jpg"
+        width: 480
+        height: 270
+        isCached: true
 
 secured: "kyO95Ep/GOgPGjQaCzMMSDknPL4nw71SI3c0LpG5PRe6dHpjB/sp2VYLem4JEnR6GIYhLfhS27T2kmApdacFm64dhu7cCJk8HUGCGkVGkBVi+uPET3CJD+DO2XgQmIjIegyaOtDGRZLBxojIU12YSHjBuUbwoenLrxgEqSXzCA7EtMdTusdWPiAL+BGC6hNsYOdh96vrikh0PxM6Dw8DjSUMz1SsbruYM1l0+9jKTI7gTJn7hP0X3Pg+Z/+ZO/E8MBOOQDeYLy8uq6MP4qDcBMNjwTZIoaB78MZdsXklhxbWbXXWZuK5R/tpIPLTYNCt7FwttSLnSukiIQXzKF+VSCdfgPQGgAhYElM0idKf3P0=;OjvZMiYDsYW+4EQsz0GvtQ=="
 ---

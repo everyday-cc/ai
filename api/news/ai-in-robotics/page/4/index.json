@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-11-15-new-robot-control-system-unveiled.md",
+      "title": "New robot control system unveiled",
+      "excerpt": "In order to make life more convenient and easier, an advanced robot control system has become an indispensable part of the AI age. The team with AIQI Technology is dedicated to applying cutting ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.chinadaily.com.cn/a/202311/14/WS655378c8a31090682a5ee1fc.html",
+      "originalUrl": "https://www.chinadaily.com.cn/a/202311/14/WS655378c8a31090682a5ee1fc.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T21:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "中国日报网",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-14-new-robot-control-system-unveiled.md",
       "title": "New robot control system unveiled",
       "excerpt": "With the rapid development of technology, intelligent robots have gradually permeated various aspects of people's lives. In order to make life more convenient and easier, an advanced robot control system has become an indispensable part of the AI age.",
@@ -1256,58 +1290,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-06-the-only-thing-scarier-than-a-robot-driver-is-a-human-one-a-guide-to-av-success.md",
-      "title": "The Only Thing Scarier Than A Robot Driver Is A Human One: A Guide To AV Success",
-      "excerpt": "There are no Consumer Reports or user reviews to guide you yet, so you have to do your own homework or work with an expert. Talk to folks who have been down this road before, learn from their mistakes and soak up their knowledge like a sponge.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/06/the-only-thing-scarier-than-a-robot-driver-is-a-human-one-a-guide-to-av-success/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/06/the-only-thing-scarier-than-a-robot-driver-is-a-human-one-a-guide-to-av-success/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65450506e012696dec4d97b2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1413,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/06/the-only-thing-scarier-than-a-robot-driver-is-a-human-one-a-guide-to-av-success/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/06/the-only-thing-scarier-than-a-robot-driver-is-a-human-one-a-guide-to-av-success/amp/",
-      "publishedDateTime": "2023-11-06T12:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

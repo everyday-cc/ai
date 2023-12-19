@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-11-09-gms-cruise-slashes-contractor-roles-after-driverless-car-suspension.md",
+      "title": "GM's Cruise slashes contractor roles after driverless car suspension",
+      "excerpt": "Cruise announced a round of layoffs Thursday affecting contract workers who worked on its driverless ridehailing service, CNBC has learned. The cuts included those who help with cleaning vehicles ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/11/09/gms-cruise-lays-off-contractors-after-suspending-self-driving-cars.html",
+      "originalUrl": "https://www.cnbc.com/2023/11/09/gms-cruise-lays-off-contractors-after-suspending-self-driving-cars.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107331501-1699541683835-gettyimages-1248230028-SXSW_2023.jpeg?v=1700449043",
+          "width": 594,
+          "height": 396,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/11/09/gms-cruise-lays-off-contractors-after-suspending-self-driving-cars.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/11/09/gms-cruise-lays-off-contractors-after-suspending-self-driving-cars.html",
+      "publishedDateTime": "2023-11-09T15:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-09-guest-opinion-artificial-intelligence-will-save-lives-if-skeptics-dont-derail-progress.md",
       "title": "Guest opinion: Artificial intelligence will save lives If skeptics don’t derail progress",
       "excerpt": "I hope Congress will consider our mission, our progress, and positive health care opportunities when they consider legislation and regulation about AI.",
@@ -1348,40 +1400,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-self-driving-car-service-suspends-rides-nationwide-but-will-resume-mapping-in-nc.md",
-      "title": "Self-driving car service suspends rides nationwide but will resume mapping in NC",
-      "excerpt": "The pause by General Motors’ Cruise division comes after several safety incidents. But mapping will resume in Charlotte, and Raleigh awaits next steps.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsobserver.com/news/business/article281194698.html",
-      "originalUrl": "https://www.newsobserver.com/news/business/article281194698.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T12:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Raleigh News & Observer",
-        "domain": "newsobserver.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

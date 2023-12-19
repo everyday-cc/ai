@@ -7,7 +7,7 @@ originalUrl: "https://www.massdevice.com/butterfly-network-surgical-robotics-dea
 webUrl: "https://www.massdevice.com/butterfly-network-surgical-robotics-deal-mendaera/"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -40,6 +40,15 @@ related:
         width: 737
         height: 474
         isCached: true
+  - title: "Butterfly Network teams with medical robot startup Mendaera in ultrasound commercialization deal"
+    excerpt: "Butterfly Network has selected the medical robotics startup Mendaera to serve as the first participant in its ultrasound hardware commercialization program.  | The pair aims to deliver an interventional robot that incorporates Butterfly’s semiconductor-based ultrasound technology to guide needle-based procedures."
+    publishedDateTime: 2023-12-19T17:34:00Z
+    webUrl: "https://www.fiercebiotech.com/medtech/butterfly-network-teams-medical-robot-startup-mendaera-ultrasound-commercialization-deal"
+    type: article
+    provider:
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 6
 
 secured: "CercSc0S56vTNDgW0Kaz6WliupeOqU9Qkl/J+LIS8rrncs42mVhjQHyb3F+kva4hUst3XuAjfBKo3m5oVQTgygoa7OgjGFiBPYdAXkwGpmVsgVHtrSUvxZxFo5qrQTMYshd+btJb4yYirh82oN3H8xT7YYh6n2Ajw1S2aTFBJLNj5GP0r015l96jx/PQ+OgvYjxciTt53yKGPhQlZi88c9qECHBJHEvprDQPAJwdUPM/F/GGRwc2zwTazKqGmb0bjr9cu162ZuZbUe5cSkkMgd4gXjR89eYaTcMS2HHVvS4V4JaIdsES4xl9IDsbh7vU0OAJBqN1LTgqoaSALFY17uBRwCSG2YY7GeUe0Z8V5wwG/4i8FyWHzGvhJIRwntfhcOp53ugSNAlCKQMTZkbZr8mHqAfhFbLmWBJSJXW6soRn3i8zKz+x6Hg+DhXhyzM4g+zpXDpHWgUwIQyKBOWLsGXN9crbi5vFkHPv4YmrzawR2Dg64Y9mO2RY8uVgJGM72w4Bv7R9ZSPJvKl6POnuEA==;/1SAkMa2nkIcj5X1VdE1vA=="
 ---

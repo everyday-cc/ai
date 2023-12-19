@@ -33,6 +33,20 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Machine learning applications in drug repurposing"
+    excerpt: "Science X is a network of high quality websites with most complete and comprehensive daily coverage of the full sweep of science, technology, and medicine news"
+    publishedDateTime: 2023-12-19T21:09:00Z
+    webUrl: "https://sciencex.com/wire-news/464461322/machine-learning-applications-in-drug-repurposing.html"
+    type: article
+    provider:
+      name: sciencex
+      domain: sciencex.com
+    quality: 39
+    images:
+      - url: "https://scx1.b-cdn.net/csz/news/800/2023/machine-learning-appli.jpg"
+        width: 800
+        height: 480
+        isCached: true
 
 secured: "Jxn3pNvU5Yt2wxbPWt/LxGJ7uRmitNebAxJ9l/7ADroa+424b1+4n/fth4q/IMqwgCqtZFwr9Lr80RSfds5Vjcq/r6PshylUzlITBygASvR8r8u1/fJUxWifZcUn6/PADWSLjg47qeGWVoJ/hiflcHtIPTPV1xAOoh8TPy3/sJ+uJO8Ecjbjb0gId5DzcPtbSQ2hK3egIP/OQgkLHBi9y5lsGGUUOw/hDDaFVZSowZgKAsWDRB4o2tYWidxObYdO+1K+Kor4JgNLBuS+mXaJJ/mEKcvK9UZKZfNg/pbjUxRGxXtBBo1xIDm6PQJFA3JSi/FvqIsF9raKpeGOm6Jp2wmw563k6mZrPavFwW6OM46kk9jKTtOT04AeDvPejHijkTgJ5tmiUGjBRo8+aNY7BMUGAb4F8T9gg9m8/lgPyyNZmAIwb/AREXFyA7jlvSx68aPNV7jMIB2lqVfkV8x17EiMf/4IV85+ZainGmN4LdPOU5EYWnFFDWW2yhpgOcMEcMe1e4vFR+X1bj41oVOxyA==;POMP1DuWwDaBlS+YKt+brg=="
 ---

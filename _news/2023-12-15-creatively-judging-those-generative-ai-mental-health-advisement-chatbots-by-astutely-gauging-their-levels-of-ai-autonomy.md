@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/12/15/creatively-judgin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/12/15/creatively-judging-those-generative-ai-mental-health-advisement-chatbots-by-astutely-gauging-their-levels-of-ai-autonomy/amp/"
 type: article
 quality: 62
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: Forbes
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 900
     isCached: true
+
+related:
+  - title: "How agencies will leverage virtual reality, generative AI over the next 2 years"
+    excerpt: "A new Deloitte report forecasts that “spatial computing and the industrial metaverse” will have growing applications for state and federal organizations and said that “investigating these technologies can help agencies get a leg up on the future."
+    publishedDateTime: 2023-12-19T21:35:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2023/12/how-agencies-will-leverage-virtual-reality-generative-ai-over-next-2-years/392888/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 35
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2023/12/19/121923VRAING/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "U77pkL+3clNOGa5WyH5ItrpzAx7oYh/CoGiQ3kBr3EhXqB2OQf2+ChvCSUkwqD2nlXyyMWLASpmUkVaRZMDfUmTf0ZDYbtMqbw3MSwtnJRtuXhQZ/Cizx/0FPGLFqpRnkAF9iPi2sSjzqKeli+mZJvufHrGC7tOSnyN6r76l/xJvxN7HcxYKigXHfDwB4650WS/mPjvJl+sxxL7SmLG+VzbENxmGq/uaa0eQKIShJ9qRAninj8eT9d0y6CQ6kYt5Tlv6SYY9L3N7Ldh8C95oEl7KGfzQAwWHHLdyTpPS0iyKWTcIC4zHibfAzCzV/4Iy/78TvAOgPe6oDc4L6Ff7m8xiF2iLbOziIoelWZQUTHIVncdMR8z8VDPbh2J5L2fykuMA0xepwB0O6Lz89alLjRdG6ckFVvwZ3R76pH9+DhSV/01h2VHDcx6jDZZ2tGylQ+E03vMXOlB7N7BQiYLY+ZyoTVLXLSgyoH6xSd8kltEWYhRlKGI+mJ6zAcDzK6SjESaeBh2cT5Z0Xusioqkf/A==;PKfBTRUwZhsIyfE02CP6CA=="
 ---

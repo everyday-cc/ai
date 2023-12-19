@@ -7,7 +7,7 @@ originalUrl: "https://gizmodo.com/grok-gets-some-competition-chatgpt-gets-depres
 webUrl: "https://gizmodo.com/grok-gets-some-competition-chatgpt-gets-depressed-and-1851102969"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "How to get a shareable link to a ChatGPT conversation"
+    excerpt: "Even though I used my paid subscription to ChatGPT Plus for this session, anyone can click the link and read the conversation."
+    publishedDateTime: 2023-12-19T12:40:00Z
+    webUrl: "https://www.zdnet.com/article/how-to-get-a-shareable-link-to-a-chatgpt-conversation/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 49
   - title: "ChatGPT-maker OpenAI hosts first big tech showcase as AI startup faces growing competition – CBS News"
     excerpt: "Eventually, you’ll just ask the computer for what you need and it’ll do all of these tasks for you,” said OpenAI CEO Sam Altman to a cheering crowd of more than 900 software developers and other attendees."
     publishedDateTime: 2023-12-15T18:23:00Z

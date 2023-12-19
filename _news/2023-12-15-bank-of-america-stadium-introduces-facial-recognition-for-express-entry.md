@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wfmynews2.com/amp/article/sports/nfl/panthers/bank-of-am
 cdnAmpWebUrl: "https://www-wfmynews2-com.cdn.ampproject.org/c/s/www.wfmynews2.com/amp/article/sports/nfl/panthers/bank-of-america-stadium-facial-recognition-panthers-fans-tickets-silver-club/275-5f0ca2cc-5c2a-4828-8fda-3321fd64cf7e"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Verizon, Panthers Implement “Express Entry” Option Using Facial Recognition To Enter Bank of America Stadium"
-    excerpt: "A new partnership between the Carolina Panthers and Verizon allows fans to enter Bank of America Stadium without scanning a ticket or their phones."
-    publishedDateTime: 2023-12-14T22:49:00Z
-    webUrl: "https://www.wccbcharlotte.com/2023/12/14/verizon-panthers-implement-express-entry-option-using-facial-recognition-to-enter-bank-of-america-stadium/"
-    type: article
-    provider:
-      name: WCCB
-      domain: wccbcharlotte.com
-    quality: 37
-    images:
-      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.wccbcharlotte.com/content/uploads/2015/12/Bank-of-America-Stadium.jpg"
-        width: 426
-        height: 240
-        isCached: true
   - title: "Panthers to add facial recognition at BofA Stadium"
     excerpt: "The Panthers and Verizon are adding facial recognition technology at Bank of America Stadium that will allow football fans to get into games faster beginning this weekend."
     publishedDateTime: 2023-12-15T20:02:00Z

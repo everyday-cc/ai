@@ -5,8 +5,10 @@ excerpt: "Three Stanford graduate students built an AI tool that can find a loca
 publishedDateTime: 2023-12-19T14:01:00Z
 originalUrl: "https://health.wusf.usf.edu/npr-health/2023-12-19/artificial-intelligence-can-find-your-location-in-photos-worrying-privacy-experts"
 webUrl: "https://health.wusf.usf.edu/npr-health/2023-12-19/artificial-intelligence-can-find-your-location-in-photos-worrying-privacy-experts"
+ampWebUrl: "https://health.wusf.usf.edu/npr-health/2023-12-19/artificial-intelligence-can-find-your-location-in-photos-worrying-privacy-experts?_amp=true"
+cdnAmpWebUrl: "https://health-wusf-usf-edu.cdn.ampproject.org/c/s/health.wusf.usf.edu/npr-health/2023-12-19/artificial-intelligence-can-find-your-location-in-photos-worrying-privacy-experts?_amp=true"
 type: article
-quality: 11
+quality: 51
 heat: -1
 published: false
 
@@ -16,6 +18,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://npr.brightspotcdn.com/dims4/default/ea671eb/2147483647/strip/true/crop/711x400+0+18/resize/480x270!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa9%2F9b%2F9db8008f4a048608630139d75e05%2Fassociates-degree-in-nursing.jpg"
+    width: 480
+    height: 270
+    isCached: true
 
 related:
   - title: "This AI can find your location just by looking at a few photos"
@@ -35,6 +43,6 @@ related:
         height: 675
         isCached: true
 
-secured: "jYNH0JvIyD1PORDaDmt0Atp8yvaL6Lv+9MyBa5SG1d5Rmh2Z3YJIZmiS3MmVZWm4BalKLv+rZL9GZhc2ixwxK8HZvNlI4H0msacYKRrm+x5HYATaYsK26+IdLux4S7Qxq8PCPxPdP2KoTarNjS8koDnQIoAy0ltX/Y54KvR2iGoMAzLj89Mv2xlA4F2VcCbHZWE+JY/rbm9lTRmohf3AiYM5M7ZOeBgaj9TeYaJ3ympMqAb8npmRB6IFkHZ/qTbn7WHAz3k0HmqBIKB8OgkxXa+cP3rAul18J1l6dv+DMHeTHW4sbLHbythXh9qrijDGqqR332QRKsWFycbg5QYj54qeF2/j9xi+c0CJ6D38POSrma7JQ/vHqfQg4scTv8mbJxrf2Equ4voSf3IPmdF6YWRu9eKxPDEskZxqe4WDs7Z6nXMqzV4w0SgKJJ8z9NmhnH/PWKfMNfUrBe4YDHJALOLDOrTc/TTF5ki2EJagPZHrbAPkNK4IiKkladZGaINIRFjgyXac9tqGIg5y12Of3A==;ii9gGguQ+bojM3h0sNGJag=="
+secured: "pbKsNKbeaP2tEp6j2in26YqBx7VnLjNZg9ByE5B6rrR7KxhBY31+7IMAuCd6q3W7mlfeZQsuYLRvE3dMzPFS7q4bldtn6lhxaatoFsT6V/BkahmihdDZ8ctvlZ2/wsUDKBG5fnZjmChsXc+vISLsiOjqhvvFAJ2gIbMmgnWQImEN1lxci7+RxgO0cIGyzCLXZmYWVge2O43bbwXDHxCtnkoQQPyl6zyuhveUqkHfljcPcm02AhM7GStzh9nmu6ptZkukUaZU9w+lt2cwA54kx3cQ1yPSz8c3TWOi2Wx3BfKiKUF2iN/J6PLMjYReVHK1RTihrIvdIF90b1n8QxM1bNYfz0lvOse9w425luMzyA4=;T1e5xkY82+MbresNy4WmkA=="
 ---
 

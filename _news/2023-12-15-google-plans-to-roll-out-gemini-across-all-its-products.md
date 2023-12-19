@@ -94,20 +94,6 @@ related:
       name: The Conversation
       domain: theconversation.com
     quality: 36
-  - title: "Google opens Gemini Pro LLM to enterprise developers"
-    excerpt: "Users can access Gemini Pro and Pro Vision through Vertex AI for free until the tool reaches general availability early next year, the company said."
-    publishedDateTime: 2023-12-14T21:56:00Z
-    webUrl: "https://www.ciodive.com/news/google-gemini-pro-llm-enterprise-developer/702590/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 24
-    images:
-      - url: "https://www.ciodive.com/imgproxy/WkKqtHaQSQztwn-NT-vJDEIFy4Y1wzJr3mm3xILTXHA/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTE0MDE5Mjk4ODIuanBn.jpg"
-        width: 770
-        height: 435
-        isCached: true
   - title: "How to Get the Most Out of Gemini in Google Bard"
     excerpt: "This guide is designed to show you how to get the most of out Gemini in Google Bard. Google, has recently implemented a significant enhancement to its"
     publishedDateTime: 2023-12-15T10:00:00Z

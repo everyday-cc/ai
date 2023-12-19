@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/36250917"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36250917"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Benzinga.com
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI presents growing risk to financial markets, US regulator warns"
-    excerpt: "Financial Stability Oversight Council flags emerging technology as a ‘vulnerability’ for the first time in latest report"
-    publishedDateTime: 2023-12-14T21:35:00Z
-    webUrl: "https://www.ft.com/content/1296448b-ade5-476b-b6ac-81eff32b0e22"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
   - title: "Artificial Intelligence Was Just Classified as a Threat to the Financial Sector for the First Time"
     excerpt: "The rapid development of artificial intelligence may pose a risk to the country's financial stability and exacerbate existing challenges with access to capital."
     publishedDateTime: 2023-12-15T20:29:00Z

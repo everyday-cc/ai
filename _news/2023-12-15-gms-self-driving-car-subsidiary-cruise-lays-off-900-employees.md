@@ -25,49 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "GM self-driving arm Cruise is laying off 24% of its workforce"
-    excerpt: "A Cruise self-driving car, which is owned by General Motors Corp, is seen outside the company's headquarters in San Francisco where it does most of its testing, in California, U.S., September 26 ..."
-    publishedDateTime: 2023-12-14T19:54:00Z
-    webUrl: "https://edition.cnn.com/2023/12/14/tech/gm-cruise-layoffs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2023/12/14/tech/gm-cruise-layoffs/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/12/14/tech/gm-cruise-layoffs/index.html"
+  - title: "GM is cutting jobs: 1,300 at Michigan plants, 900 at self-driving subsidiary"
+    excerpt: "General Motors will lay off about 1,300 workers from two of its Michigan plants, according to WARN notices the company has filed with state regulators. But that's not all."
+    publishedDateTime: 2023-12-15T11:25:00Z
+    webUrl: "https://wraltechwire.com/2023/12/15/gm-is-cutting-jobs-1300-at-michigan-plants-900-at-self-driving-subsidiary/"
+    ampWebUrl: "https://wraltechwire.com/2023/12/15/gm-is-cutting-jobs-1300-at-michigan-plants-900-at-self-driving-subsidiary/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/12/15/gm-is-cutting-jobs-1300-at-michigan-plants-900-at-self-driving-subsidiary/?amp=1"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 74
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 41
     images:
-      - url: "https://media.cnn.com/api/v1/images/stellar/prod/2023-11-20t222000z-618296731-rc29h4acjneq-rtrmadp-3-gm-cruise-cofounder.JPG?c=16x9&q=w_800,c_fill"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "GM to lay off 900 workers at self-driving unit"
-    excerpt: "General Motors announced it is laying off 900 workers at Cruise, the company’s self-driving unit. Those layoffs will impact around 24% of its workforce."
-    publishedDateTime: 2023-12-14T19:32:00Z
-    webUrl: "https://www.fox17online.com/news/national-news/gm-to-lay-off-900-workers-at-self-driving-unit"
-    type: article
-    provider:
-      name: fox17online
-      domain: fox17online.com
-    quality: 24
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/d97025f/2147483647/strip/true/crop/640x336+0+72/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsharing.wxyz.com%2Fsharescnn%2Fphoto%2F2016%2F01%2F04%2Fb791cfbfbc4b95008c0f6a70670072d9_1451914559153_29345818_ver1.0_640_480.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cruise, GM’s Self-Driving Arm, Announces Significant Job Cuts"
-    excerpt: "Cruise, the self-driving vehicle business majority-owned by GM, has revealed plans to cut 900 jobs, amounting to 24% of its workforce."
-    publishedDateTime: 2023-12-15T16:14:00Z
-    webUrl: "https://techstory.in/cruise-gms-self-driving-arm-announces-significant-job-cuts/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 24
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2023/12/411476733_853234426808670_3902398952353993278_n.jpg"
-        width: 976
-        height: 549
+      - url: "https://wraltechwire.com/wp-content/uploads/2023/02/mockup-ge466df3aa_1280-e1675419700416.jpg"
+        width: 1190
+        height: 668
         isCached: true
   - title: "GM Laying Off Workers at 2 Plants, Self-Driving Subsidiary"
     excerpt: "General Motors on Dec. 14 announced it will lay off about 2,200 employees across its Cruise self-driving vehicle subsidiary and two Michigan plants where vehicle production is ending."
@@ -82,31 +54,6 @@ related:
       - url: "https://www.autobodynews.com/images/Sept_2023/Orion_Assembly_full.jpg#joomlaImage://local-images/Sept_2023/Orion_Assembly_full.jpg?width=&height="
         width: 1200
         height: 800
-        isCached: true
-  - title: "GM’s moonshot bet on self-driving cars sours as Cruise axes a quarter of its workforce"
-    excerpt: "Mary Barra, CEO of GM, had hoped to haul in $50 billion in annual revenue in 2030 through the company, but has since had to revise her plans as a result of the crisis. Plans to expand beyond San Francisco into a dozen cities have now been scrapped to focus on just the one."
-    publishedDateTime: 2023-12-15T14:33:00Z
-    webUrl: "https://www.aol.com/gm-moonshot-bet-self-driving-123204770.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 0
-  - title: "GM's self-driving car company Cruise lays off 900 workers - nearly 25 percent of its workforce - ahead of Christmas after a series of safety mishaps and having its permit ..."
-    excerpt: "The new footage from the vehicle showed that the car continued driving after the initial stop and attempted a 'pullover maneuver,' traveling about 20 feet while the pedestrian was still trapped underneath. In September, two Cruise driverless taxis ..."
-    publishedDateTime: 2023-12-14T21:48:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-12865491/GM-self-driving-car-company-Cruise-lays-900-workers-nearly-25-percent-workers.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-12865491/amp/GM-self-driving-car-company-Cruise-lays-900-workers-nearly-25-percent-workers.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-12865491/amp/GM-self-driving-car-company-Cruise-lays-900-workers-nearly-25-percent-workers.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 0
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2023/12/14/21/78973895-0-image-a-26_1702589352839.jpg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "uQBMdKcFaupF/3fE9de7h3cCXgg9wxap6+1T0CevHKAfIt9hFmgu/lHAaJqNG5P2mQl+qeGXFgredAkH6+EPhmwl3a9ifW8N3faxVQ+cka3clIE3/KY4fJxaZyp8A89tgLT7+GflGR0Zdc4ly1H3BMooiwpP4uXTpE66Pk8IyWa+5ean7l+KNSsdBzUPIWwWsFMfYj+D1aSS+U2v4Y61fekFz8Q5bR7LKvDXE/0b3WzzTiLrkkzOJlZqEkh8PadiWYJAv2fQqg/e/3reSMYneVOqyAiwmdt73lhaEMAtxczpnifScKU971Fc17OE767KtT3qMj83ealpgbrgfW4fTcTNgQt0fHJ392RAbNdlSrSLreTZ1qd4rEP4oVD6cdWqUiAdbHQJQLGMZKwzDHXdv3FBnc7j+tMBtwuy/zXox5NETE9Ogpo79eAZHliIRNUWyjXdnUTxmsaRkeEUbaPGYkwTEEBqRJMBo6wucOb2mGVBm+pw5dlUAlsUTbv3Lfzx0bJ6/qvgJ7F4xG6zZj1ReQ==;QU1BHMbjB4vcFlMywHDzXA=="

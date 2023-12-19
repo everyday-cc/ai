@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-11-17-venture-capital-in-ai-where-and-how-much.md",
+      "title": "Venture Capital In AI – Where And How Much",
+      "excerpt": "If you want to see what 21st century leadership looks like and where it is, I suggest turning your gaze toward venture capital in artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/eliamdur/2023/11/16/venture-capital-in-ai--where-and-how-much/",
+      "originalUrl": "https://www.forbes.com/sites/eliamdur/2023/11/16/venture-capital-in-ai--where-and-how-much/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65565d8e7b9252f128382801/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/eliamdur/2023/11/16/venture-capital-in-ai--where-and-how-much/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eliamdur/2023/11/16/venture-capital-in-ai--where-and-how-much/amp/",
+      "publishedDateTime": "2023-11-16T18:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-16-what-will-artificial-intelligence-mean-for-your-pay.md",
       "title": "What will artificial intelligence mean for your pay?",
       "excerpt": "Such fears have intensified as artificial-intelligence (ai) capabilities have leapt ahead. On November 2nd, speaking after Britain’s ai summit, Elon Musk predicted: “There will come a point ...",
@@ -1122,58 +1174,6 @@
         "name": "TMCnet",
         "domain": "tmcnet.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-09-gms-cruise-slashes-contractor-roles-after-driverless-car-suspension.md",
-      "title": "GM's Cruise slashes contractor roles after driverless car suspension",
-      "excerpt": "Cruise announced a round of layoffs Thursday affecting contract workers who worked on its driverless ridehailing service, CNBC has learned. The cuts included those who help with cleaning vehicles ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/11/09/gms-cruise-lays-off-contractors-after-suspending-self-driving-cars.html",
-      "originalUrl": "https://www.cnbc.com/2023/11/09/gms-cruise-lays-off-contractors-after-suspending-self-driving-cars.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107331501-1699541683835-gettyimages-1248230028-SXSW_2023.jpeg?v=1700449043",
-          "width": 594,
-          "height": 396,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/11/09/gms-cruise-lays-off-contractors-after-suspending-self-driving-cars.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/11/09/gms-cruise-lays-off-contractors-after-suspending-self-driving-cars.html",
-      "publishedDateTime": "2023-11-09T15:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

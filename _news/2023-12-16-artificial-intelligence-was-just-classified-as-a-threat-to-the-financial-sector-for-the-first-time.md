@@ -34,15 +34,6 @@ related:
         width: 408
         height: 272
         isCached: true
-  - title: "AI presents growing risk to financial markets, US regulator warns"
-    excerpt: "Financial Stability Oversight Council flags emerging technology as a ‘vulnerability’ for the first time in latest report"
-    publishedDateTime: 2023-12-14T21:35:00Z
-    webUrl: "https://www.ft.com/content/1296448b-ade5-476b-b6ac-81eff32b0e22"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
 
 secured: "zYITnneJK999SHG87JVhX0KaIR7hr0l6iifvFdnNssWHPCEOzoQtasPeqXJMAm4g/FW6L4idspOwN/1qCxjY/lFt1yqbPUuDmpp2kNv2i/iag+GNQo89/UdUBno0UzKNQ0Q7RsYlxmz2sCDOKAtTdxDUfAmJQQMFqTs+G2JiMR3fPeXUPXo72eNdA/UypdeYqm6PNDiDR+3D75xsJkWNmpenvrlyrk+LKRUYj0MfFpNbKTanBY9bw4+cYG+ETxfMLtMrInfAsWayM0UIHsZlGeKpeaBM77jHtsCVO21qEsYC82urv+pjgrM1yQY1sGrfqVWiYfN5BTycbt3MPg/3+gXs0D43hE39bPNR2MzbYICamet0/N1E9vP+rgsTXztpa0mFFv73J74aFJyOpi2dMYhehD1N4lOAjHUWdi1DPLpa/aaaMbqmtSma+XQAWzNJn/J9h0O/rtUFmbdhdFZ4ka0KHn4HfaWuOWf9+m3+7M8ViSe6ba69dM+Rzj/PCE80miflsRbSyaBPkOPCHLYBcA==;xssZAktdlPq8q0Cd4M+HqA=="
 ---

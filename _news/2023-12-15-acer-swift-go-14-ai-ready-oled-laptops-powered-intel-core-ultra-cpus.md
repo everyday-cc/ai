@@ -103,15 +103,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Acer Debuts AI-Ready Swift Go 14 Laptop with New Intel Core Ultra Processors"
-    excerpt: "New Acer Swift Go 14 laptop enables AI-accelerated experiences and capabilities complemented by Intel AI Boost and Copilot in Windows 11"
-    publishedDateTime: 2023-12-14T19:03:00Z
-    webUrl: "https://www.valdostadailytimes.com/ap/business/acer-debuts-ai-ready-swift-go-14-laptop-with-new-intel-core-ultra-processors/article_76107b90-fdd8-518b-9d55-33e06522208e.html"
-    type: article
-    provider:
-      name: The Valdosta Daily Times
-      domain: valdostadailytimes.com
-    quality: 16
 
 secured: "ugPeq0YqLlonKIW6GLY9zBl2FikWi+TQLgm2OOPw+tT7SRJsfobzMd1V99/Wc0tiM6er9zxTXZ2cnT2RnlS7sfqmgB8N9HO26O4FTbDk2rUzlgkaAz1tOjJ/i9wF5g8B2lqnce+VZi+JOggT2LRIrdzlVHIHE05UE9ePhQSq/2SNo1KahC4l8qzkfGWduo26Q+9TWPyGFqq1MTF8uVr19raWpkGGbF11EkF8WPvVF6n6A2g+3FXTXpcP7BoA9unFknFjd+ERsUDlDX8lMAKFDARLifyP7ew67x5GsJCC1nDztuwHLsgUY882amoIKGkb6Lhx4+lTxZMOPOyAmp+QBohv0FwPsU1RLfsQifYQs46li7TCQJIohP37Px2DNB3iR0de/lTsXHoRcXM90OSI0QlTbiAhKG3iCCeOmtMvWb79D3c/c4tY1h2qNIdMn5p+qJGvMusUcDdDRDolaFaYXzgGw/QkuSpqgJsczyu0cymSbntOLgfvhlhBLvV3hUgI3Oo8oMRKy+GVnDBM80HSuw==;0YD+7+waizF8uL804HS/gQ=="
 ---

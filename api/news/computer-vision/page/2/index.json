@@ -2,6 +2,94 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-11-29-vision-transformers-market-worth-12-billion-by-2028-growing-at-a-cagr-of-342-report-by-marketsandmarkets.md",
+      "title": "Vision Transformers Market Worth $1.2 billion by 2028, Growing At a CAGR of 34.2% Report by MarketsandMarkets™",
+      "excerpt": "The global Vision Transformers Market size is projected to grow from USD 0.2 billion in 2023 to USD 1.2 billion by 2028 at a growth rate of 34.2% during the forecast period,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/11/g36000465/vision-transformers-market-worth-1-2-billion-by-2028-growing-at-a-cagr-of-34-2-report-by-marketsan",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/11/g36000465/vision-transformers-market-worth-1-2-billion-by-2028-growing-at-a-cagr-of-34-2-report-by-marketsan",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/36000465",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36000465",
+      "publishedDateTime": "2023-11-29T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-11-29-navigating-the-landscape-of-best-image-recognition-software-for-2023.md",
+      "title": "Navigating the Landscape of best Image Recognition Software for 2023",
+      "excerpt": "In today’s data-driven world, where images play an increasingly important role in communication and information sharing, the demand for image recognition software has skyrocketed. This technology, powered by artificial intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/navigating-the-landscape-of-best-image-recognition-software-for-2023/",
+      "originalUrl": "https://techbullion.com/navigating-the-landscape-of-best-image-recognition-software-for-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2023/12/Matt-Arkin-CEO-of-Wheelhouse-450x270.png",
+          "width": 450,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-29T12:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2023-11-29-microsoft-mlnet-30-expands-deep-learning-capabilities.md",
       "title": "Microsoft ML.NET 3.0 expands deep learning capabilities",
       "excerpt": "Update to the machine learning framework for .NET developers brings new capabilities in object detection, named entity recognition, and question answering.",
@@ -1233,102 +1321,6 @@
         "AI in Robotics",
         "Natural Language Processing",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-11-10-ai-ethics-board-in-us-doj-would-advise-on-facial-recognition-deployment.md",
-      "title": "AI ethics board in US DOJ would advise on facial recognition deployment",
-      "excerpt": "Members would review legal and ethics compliance when using facial recognition and related algorithms for law enforcement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202311/ai-ethics-board-in-us-doj-would-advise-on-facial-recognition-deployment",
-      "originalUrl": "https://www.biometricupdate.com/202311/ai-ethics-board-in-us-doj-would-advise-on-facial-recognition-deployment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/10/11164502/police-scaled.jpg",
-          "width": 2048,
-          "height": 792,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-09T17:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-11-09-police-use-of-face-recognition-is-sweeping-the-uk.md",
-      "title": "Police Use of Face Recognition Is Sweeping the UK",
-      "excerpt": "Face recognition technology has been controversial for years. Cops in the UK are drastically increasing the amount they use it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/uk-police-face-recognition-expansion/",
-      "originalUrl": "https://www.wired.com/story/uk-police-face-recognition-expansion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/654c2c7f0202a11bfdc62856/191:100/w_1280,c_limit/The-UK-Is-Turning-Into-a-Facial-Recognition-Police-State-Security-GettyImages-1224837570.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-09T07:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/technology-47117299.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-47117299.amp"
 type: article
 quality: 106
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -30,24 +30,6 @@ images:
     width: 1024
     height: 576
     isCached: true
-
-related:
-  - title: "George Floyd: Amazon bans police use of facial recognition tech"
-    excerpt: "Amazon said the suspension of law enforcement use of its Rekognition software was to give US lawmakers the opportunity to enact legislation to regulate how the technology is employed. \"We've ..."
-    publishedDateTime: 2023-12-14T20:42:00Z
-    webUrl: "https://www.bbc.com/news/business-52989128"
-    ampWebUrl: "https://www.bbc.com/news/business-52989128.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-52989128.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 91
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/10C9C/production/_110246786_facialrecognition3.gif"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "c1XJFR3w1B0gMcWBMm4+epIAAnYra3JqGsV+HI8q2OdPMJ0Y3ut5u9oi2Lzwy7wEFKp6BRYSx+p1EFEXhUdH4tRs3vX7tZ1jIJGDC0AVnA48kfYFlfHhvIWlpGsOYZwuM1M0WPwJmCJPV/IOeISGDvYKKWowTLurhqw5f3Wv1JCgVzXTAdNEPl7aAUlbD/SP/uKTY/eiB10u++9zioKbXX/A5AHguL+tf0GVfTVWzxJQAaraO6XNt9AmAcqI/VDKwsXzNKaeEjn5SwC0fmC64HRt/Usij4hyuJGJYuHXaVn53wOUjSk4gNtDJu2J9hjXCQ7R7g2z8I0xOwgk3pLC4++Xwfm1OTks72kHB+ZgYqg=;eLcg5oSap9ERQznRMdoXPg=="
 ---

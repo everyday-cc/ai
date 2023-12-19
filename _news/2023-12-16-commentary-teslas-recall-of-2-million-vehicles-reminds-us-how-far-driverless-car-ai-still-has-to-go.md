@@ -39,20 +39,15 @@ related:
         width: 496
         height: 279
         isCached: true
-  - title: "Tesla Recalls Two Million Self-Driving Cars Due to Autopilot-Related Accidents"
-    excerpt: "ALBAWABA - Tesla sent a letter to the National Highway Traffic Safety Administration, recalling two million of its self-driving cars due to the Autopilo"
-    publishedDateTime: 2023-12-18T08:15:00Z
-    webUrl: "https://www.albawaba.com/business/tesla-recalls-two-million-self-driving-cars-due-autopilot-related-accidents-1545503"
+  - title: "The Driverless Car Is Here, and It's a Remarkable Advance"
+    excerpt: "Thanks to artificial intelligence, the driverless car is finally here! For years, car companies promised that cars would drive themselves, but it never"
+    publishedDateTime: 2023-12-19T06:00:00Z
+    webUrl: "https://www.realclearmarkets.com/2023/12/19/the_driverless_car_is_here_and_its_a_remarkable_advance_999932.html"
     type: article
     provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 35
-    images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2023-12/Tesla%20Recalls%20Two%20Million%20Self-Driving%20Cars%20Due%20to%20Autopilot-Related%20Accidents.jpeg?itok=Ej2lxW7R"
-        width: 680
-        height: 425
-        isCached: true
+      name: RealClearMarkets
+      domain: realclearmarkets.com
+    quality: 19
 
 secured: "BOcK/5kaeGjAyPl0gCPmtkIcC18nSH/DcBAlyeogb/lfny7WvwqURFD2U+0ccsju7Cf+oSoFZ3GerssVs5uGY9hTXwhwl3FOjNGL/j0AS/UabSQL08CFdKiiI8XLZiCJBthpxDWPCtQ2iO9LFiHPZv2tkL2KYdrE5ovSc5wJcReOI7p6nfR+lkqJSJNjXASNo7AIQ30z5qXNm43cjTdzm9mEv8bzpi5ETOg7SrsSgUq/3UmWEPbi3/BmIY3BvvP3J3bqVMg+Kr/u4LnanKO7LJOpGeKQV2yMPPMolmiZK3QHuoVyGun7KHnb0R2Elu/swKsel58QreWDM0dt1/jLSAcWJUTijg3+oJIbJhmUX20MRiQ5wWQOIL7Ybsvf6qSPiL5/N5DTP0RMkA5cb0sI+7WIjQSAZJzPsDesa+tGRQl5ceqJLLo72kNk4nbHcaSP9aFKpTqe7ysw3voL7lufB6c5OnVTkrotEAu0HIRetCoRj8np/Z4c+g3ptkFZscemhQy2kz7WGGgrh0BimtZi/A==;vCiN0LgFA5Kx27QdNnkq4w=="
 ---

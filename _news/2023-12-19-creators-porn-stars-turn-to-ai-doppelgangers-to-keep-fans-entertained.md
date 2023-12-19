@@ -7,7 +7,7 @@ originalUrl: "https://www.washingtonpost.com/technology/2023/12/19/ai-porn-sophi
 webUrl: "https://www.washingtonpost.com/technology/2023/12/19/ai-porn-sophie-dee-jack-nicklaus/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 1440
     height: 960
     isCached: true
+
+related:
+  - title: "Porn star Sophie Dee creates AI doppelganger to generate income"
+    excerpt: "Sophie Dee has forged a partnership with STXT to create SophieAI, a digital persona that bears her likeness and copies her voice."
+    publishedDateTime: 2023-12-19T21:27:00Z
+    webUrl: "https://nypost.com/2023/12/19/business/porn-star-sophie-dee-creates-ai-doppelganger-for-extra-money/"
+    ampWebUrl: "https://nypost.com/2023/12/19/business/porn-star-sophie-dee-creates-ai-doppelganger-for-extra-money/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/12/19/business/porn-star-sophie-dee-creates-ai-doppelganger-for-extra-money/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 57
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/12/mychive-com-theallierae-allie-rae-73949552-1.jpg?w=576"
+        width: 576
+        height: 1024
+        isCached: true
 
 secured: "+k0uEGgDOO4MNAQicRrcq7Y33vPFyX7MP8AKjliNKGYXqMCi2Fo7rv9wHO6QWAwpQW0/8WBzn+U5HO8EU5P2wyrWDv6bYjm+3G1s5Ks4O4bgUQCsh5s13+JK/NLRPNlUOXUBNRUkgtBXm07QByimpcBMsVkHcwdx9AvL2X4l3iK7HvO2CQtEoX45MpiKPQ9TfRqoL5UiDp5vDwfZKKt/nzAjVQ6UfS238T6hKVjTXDizPdFZDqJQUUsbVrzSMBEQiw/izY9B6ZR6PhuBMU+KfX+9slDj2FKdfAUQcAqSXLw7/7GaUGM1fMjpuh3UJYRArgs56Wv/wsrHGymT2+mYT/vl6BvkKLjdudXgRFYZpW6LdUbE1sP/cvLNZGFaPYT+eHmHmyKZzriAgHKJirAOQvDxaz4fu+Uo/RvvBVU8aEngNTW2FLrOzJGgfXWmSnTRfpyxJ5ufNQqCL+eviN+RHpC+DKusMqvM/Csav9UebYF3bGyUsj/uMbKFovQocQ5YlYfeVR06egXLoJiEUCs5pg==;LH7YxznaKbvT+VUCz+dqrQ=="
 ---

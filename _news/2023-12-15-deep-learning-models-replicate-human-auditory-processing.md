@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Machine learning applications in drug repurposing"
+    excerpt: "Science X is a network of high quality websites with most complete and comprehensive daily coverage of the full sweep of science, technology, and medicine news"
+    publishedDateTime: 2023-12-19T21:09:00Z
+    webUrl: "https://sciencex.com/wire-news/464461322/machine-learning-applications-in-drug-repurposing.html"
+    type: article
+    provider:
+      name: sciencex
+      domain: sciencex.com
+    quality: 39
+    images:
+      - url: "https://scx1.b-cdn.net/csz/news/800/2023/machine-learning-appli.jpg"
+        width: 800
+        height: 480
+        isCached: true
   - title: "Innovative Machine Learning Model for Predicting Chlorine Levels in Drinking Water"
     excerpt: "Chlorine-based disinfection is a critical practice in conventional drinking water treatment (DWT). It is essential for inactivating pathogenic"
     publishedDateTime: 2023-12-15T13:24:00Z

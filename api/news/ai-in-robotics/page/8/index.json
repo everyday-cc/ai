@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-10-13-ai-design-for-a-walking-robot-is-a-squishy-purple-glob.md",
+      "title": "AI design for a ‘walking’ robot is a squishy purple glob",
+      "excerpt": "Previous AI-generated evolutionary bot designs could take weeks of trial and error using high-powered computing systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsci.com/technology/ai-robot-blob/",
+      "originalUrl": "https://www.popsci.com/technology/ai-robot-blob/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.popsci.com/uploads/2023/10/13/IMG_6064.jpg?auto=webp",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.popsci.com/technology/ai-robot-blob/?amp",
+      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/ai-robot-blob/?amp",
+      "publishedDateTime": "2023-10-13T15:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Science",
+        "domain": "popsci.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-13-ceva-logistics-to-use-robots-in-cutting-edge-los-angeles-facility.md",
       "title": "CEVA Logistics to use robots in cutting-edge Los Angeles facility",
       "excerpt": "CEVA Logistics, a world leader in third-party logistics, recently opened its 135,000-square-foot, state-of-the-art transload facility. Robots from Boston Dynami",
