@@ -20,7 +20,14 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
-secured: "NhuvTi9j2BbsZjQzvQEYnmuJNJ2qHHX0yEsBcN3FJl+YNDO4wxFyQ5eTsAmDEnpl+vijRMDWW2Yjt9GOkOcvG53tjVXygMi/2uKFVgf8cnlSX66melSEtdnKZYhQIjftpDIYHEK03LBKk3YmZaYB74krVNBp7AoxKc4qfKTm9c7fU2trTt5QjvPC6YsleGCjjgdwdDt+aFwCQ3HnHZcCDDRWd3xTCFnTDOO+YbQ8jKYU9ulPjA/KZ1qZsyNXl/gtmECvrfTZnAE0byN81pjWaQoE96UuNyyFug69mpUSUdxCNsgGPILo9t/rpubJzABIbNpuIyTH/iT+J7rXe1aMqjHUK9Gere+ssfGiCRsv+3bgkVkR5dphLpmB9kUkhyxoVsCIA8gOn2wmAjTltKIXaOxgk1ZUlHTeV36PmFO5YMN7SQ8SVBsLbrVk+YkF9Tqtz6epyRQuoDGG2byU5KouA9fcnLa6Skwqyu/9CXwAaE5WN7zjJ/S/SzlqwokplDzJEnPkwFXnrhT3zVbp57ur2Q==;UFE36Inkcqe8bRv5qoDoqQ=="
+images:
+  - url: "https://static01.nyt.com/images/2023/12/09/multimedia/09tp-bowers-gpcq/09tp-bowers-gpcq-facebookJumbo.jpg"
+    width: 1050
+    height: 550
+    isCached: true
+
+secured: "LA0+ePiKgg3dAVl10OisOG/4MCShlZ4V2xca9vBUeIDRNJiL0Lt7LaqE6DoAYvLELPH2HR7B2bGEptoB0HqVh9QfAm5PiGIW+et7nvOUkxXv7wk7m3lb3WM0qgFMox6f1aL0Shr5DlXPGNB+NygJed8NjmVDsC037PtX8+IYT6oiq3bnZodyjPoc7obSp8A0N4F1/nilr1xWj8ovgI8W82f7//kd4dCv4Qd82lhe9DM+FvkEud9PWMAEsyGg/eROgtzcMKDt+sBJS9r8IXls40s4A2AHqk6GDaBLlT2FvYyWzkh9iC051FwywOrikSFSSBumcaeMnUTZhjSgNhCx694cs6+pCZpU/lqnk/GfqT8=;cLe9X9u73n0fTUoIdFydgg=="
 ---
 

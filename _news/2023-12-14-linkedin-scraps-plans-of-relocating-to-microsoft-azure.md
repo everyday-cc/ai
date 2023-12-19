@@ -55,6 +55,20 @@ related:
         width: 1600
         height: 1000
         isCached: true
+  - title: "TomTom and Microsoft bringing generative AI to cars"
+    excerpt: "The engine powering this AI revolution is a potent combination of TomTom’s expertise in mapmaking, traffic data, and driver behavior analysis, and Microsoft’s Azure OpenAI service, a powerful platform for developing and deploying cutting-edge generative AI models."
+    publishedDateTime: 2023-12-19T07:08:00Z
+    webUrl: "https://www.absolutegeeks.com/article/geek-stream/tomtom-and-microsoft-bringing-generative-ai-to-cars/"
+    type: article
+    provider:
+      name: absolutegeeks.com
+      domain: absolutegeeks.com
+    quality: 54
+    images:
+      - url: "https://www.absolutegeeks.com/wp-content/uploads/2023/12/e6a73560-9ab5-11ee-9dbf-ece57daa102b.png"
+        width: 960
+        height: 550
+        isCached: true
   - title: "Microsoft releases Phi-2 small language model."
     excerpt: "Better than a Llama Microsoft Research has announced the release of its Phi-2 small language model (SML), a text-to-text AI programme that is \"small enough to run on a laptop or mobile device.\" Phi-2 has 2."
     publishedDateTime: 2023-12-18T11:00:00Z

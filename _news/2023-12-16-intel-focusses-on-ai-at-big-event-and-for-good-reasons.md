@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2023/12/15/intel-focusses-on
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/12/15/intel-focusses-on-ai-at-big-event-and-for-good-reasons/amp/"
 type: article
 quality: 89
-heat: 269
+heat: 259
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel unveils new data center chip with focus on AI growth"
-    excerpt: "Intel (INTC) is leaning into the AI craze with its latest generation of datacenter chips. On Thursday, the company debuted its 5th Gen Intel Xeon processors during its AI Everywhere event in New York. The chips, which the company unveiled alongside its new ..."
-    publishedDateTime: 2023-12-14T10:00:00Z
-    webUrl: "https://www.aol.com/intel-unveils-data-center-chip-150001129.html"
-    ampWebUrl: "https://www.aol.com/amphtml/intel-unveils-data-center-chip-150001129.html"
-    cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/intel-unveils-data-center-chip-150001129.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 74
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/Rhc1iexpU03u.K6xePUQhg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/aol_yahoo_finance_433/540ffdbe4d270ea7e844a2fde5e2b9de"
-        width: 1200
-        height: 799
-        isCached: true
   - title: "Intel Introduces Core Ultra Chips with NPUs for AI Advancements"
     excerpt: "Intel has ushered in a new era for AI-powered PCs with the release of its cutting-edge Core Ultra notebook chips. These chips are Codenamed \"Meteor Lake\""
     publishedDateTime: 2023-12-14T20:44:00Z

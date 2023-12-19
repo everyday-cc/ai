@@ -45,22 +45,6 @@ related:
         width: 2560
         height: 1706
         isCached: true
-  - title: "Fortifying confidential computing in Microsoft Azure"
-    excerpt: "Hardware-backed confidential computing in Microsoft Azure now includes protected environments for VMs, containers, and GPUs, without the need to write specialized code."
-    publishedDateTime: 2023-12-14T10:00:00Z
-    webUrl: "https://www.infoworld.com/article/3711680/fortifying-confidential-computing-in-microsoft-azure.html"
-    ampWebUrl: "https://www.infoworld.com/article/3711680/fortifying-confidential-computing-in-microsoft-azure.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711680/fortifying-confidential-computing-in-microsoft-azure.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 104
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/07/protected_padlock_with_checkmark_amid_encrypted_data_cybersecurity_data_security_encryption_by_matejmo_gettyimages-872829036_cso_nw_2400x1600-100853298-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Alphabet Needs to Show Path to AI Sales in Race With Microsoft"
     excerpt: "“The whole business model depends on getting this right,” said Gene Munster, co-founder and managing partner at Deepwater Asset Management, whose firm holds the stock. “If they can nail multi-modal generative AI, that will draw usage to Google, and that increased usage will protect and grow the search business.”"
     publishedDateTime: 2023-12-15T01:46:00Z
@@ -86,6 +70,20 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 81
+  - title: "Microsoft Azure OpenAI Service is 2x More Expensive than Google Vertex AI"
+    excerpt: "When compared with Microsoft Azure OpenAI Service advanced models, say GPT-4, especially for training, it's two times more expensive than Vertex AI. For instance, Vertex AI training costs range from $0."
+    publishedDateTime: 2023-12-19T07:00:00Z
+    webUrl: "https://analyticsindiamag.com/microsoft-azure-openai-service-is-2x-more-expensive-than-google-vertex-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 68
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/12/1-Microsoft-Azure-is-2x-higher-than-Google-Vertex-AI.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Microsoft AI model-as-a-service available in Azure AI – Phi-2, Orca 2, Llama 2"
     excerpt: "Microsoft's enhancement of Azure AI capabilities through its new AI model-as-a-service offering a significant step forward in the world of artificial"
     publishedDateTime: 2023-12-15T11:09:00Z
@@ -100,15 +98,6 @@ related:
         width: 1280
         height: 717
         isCached: true
-  - title: "Confidential computing in Microsoft Azure gets a boost"
-    excerpt: "Hardware-backed confidential computing in Microsoft Azure now includes protected environments for VMs, containers, and GPUs, without the need to write specialized code."
-    publishedDateTime: 2023-12-14T10:00:00Z
-    webUrl: "https://www.infoworld.com/article/3711680/confidential-computing-in-microsoft-azure-gets-a-boost.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 64
   - title: "OpenAI, Meta, Microsoft Chase Wearable AI"
     excerpt: "Next year’s artificial intelligence battle is coming into focus—and it’s all about glasses. As they release more powerful AI that can understand images and language, Meta Platforms, Google, Microsoft,"
     publishedDateTime: 2023-12-15T00:35:00Z

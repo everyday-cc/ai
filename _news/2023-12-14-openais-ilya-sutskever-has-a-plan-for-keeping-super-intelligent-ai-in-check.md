@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/openai-ilya-sutskever-ai-safety/"
 webUrl: "https://www.wired.com/story/openai-ilya-sutskever-ai-safety/"
 type: article
 quality: 66
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/superhuman-AI-systems.jpg"
         width: 1280
         height: 717
+        isCached: true
+  - title: "OpenAI is paying researchers to stop superintelligent AI from going rogue"
+    excerpt: "OpenAI is offering $10 million in grants to support technical research on how we can control artificial intelligence systems that are way smarter than the average human."
+    publishedDateTime: 2023-12-19T09:30:00Z
+    webUrl: "https://www.tomsguide.com/news/openai-is-paying-researchers-to-stop-superintelligent-ai-from-going-rogue"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 36
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/aKjGSXUYAc8rvRujFrBWXk-1200-80.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "OpenAI’s plan to prevent superintelligent AI from going rogue might actually work"
     excerpt: "Ilya Sutskever has been working on superalignment at OpenAI, and the first results are promising - what it means for ChatGPT’s AGI future."

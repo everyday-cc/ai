@@ -54,6 +54,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI-powered Drug Discovery start-up Peptris raises $1 million in pre seed funding"
+    excerpt: "Peptris is broadening its research scope to include rare diseases, in addition to its ongoing work in oncology and inflammation, the company stated."
+    publishedDateTime: 2023-12-19T10:48:00Z
+    webUrl: "https://www.financialexpress.com/healthcare/healthtech/ai-powered-drug-discovery-start-up-peptris-raises-1-million-in-pre-seed-funding/3342505/"
+    ampWebUrl: "https://www.financialexpress.com/healthcare/healthtech/ai-powered-drug-discovery-start-up-peptris-raises-1-million-in-pre-seed-funding/3342505/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/healthcare/healthtech/ai-powered-drug-discovery-start-up-peptris-raises-1-million-in-pre-seed-funding/3342505/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 52
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/12/artificial-intelligence-2-620x400-1.jpg"
+        width: 1200
+        height: 667
+        isCached: true
   - title: "Mistral, a French AI Start-Up, Was Valued at $2 Billion in Funding Round"
     excerpt: "Mistral AI, the 22-people French start-up founded seven months ago by researchers from Google and Meta, raised $415 million (or 385 million euros) at a valuation of $2 billion. Investors include the Silicon Valley venture capital firms Andreessen Horowitz and Lightspeed Venture Partners."
     publishedDateTime: 2023-12-15T06:43:00Z

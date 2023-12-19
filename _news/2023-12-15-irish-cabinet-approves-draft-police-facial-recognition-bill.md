@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Draft law on facial recognition technology to be published"
-    excerpt: "Bill will help gardaí trawl through thousands of hours of CCTV when investigating serious crimes, Helen McEntee says"
-    publishedDateTime: 2023-12-14T10:15:00Z
-    webUrl: "https://www.irishtimes.com/crime-law/2023/12/14/draft-law-on-facial-recognition-technology-to-be-published/"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 39
-    images:
-      - url: "https://www.irishtimes.com/resizer/gJ4MIXUU4-aNv2dWvdirPwJu8N4=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/WGSE7J3PY5HFLAAVS6Z5DH2BPQ.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Draft Law On Facial Recognition Technology To Be Published"
     excerpt: "This new facial recognition technology or FRT would mean they can use biometric identification to search footage which would significantly speed up investigations. Following the D"
     publishedDateTime: 2023-12-14T18:35:00Z

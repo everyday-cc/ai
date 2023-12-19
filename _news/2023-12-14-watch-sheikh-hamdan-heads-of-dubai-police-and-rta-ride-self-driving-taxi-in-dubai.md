@@ -7,7 +7,7 @@ originalUrl: "https://www.khaleejtimes.com/uae/transport/watch-sheikh-hamdan-hea
 webUrl: "https://www.khaleejtimes.com/uae/transport/watch-sheikh-hamdan-heads-of-dubai-police-and-rta-ride-self-driving-taxi-in-dubai"
 type: article
 quality: 13
-heat: -1
+heat: 13
 published: false
 
 provider:
@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Sheikh Hamdan tests self-driving taxi ahead of its launch in Dubai"
-    excerpt: "This step is part of the RTA's strategy to bolster Dubai's global leadership in self-driving transport and foster ‎ the emirate's aspirations of becoming the world's smartest city."
-    publishedDateTime: 2023-12-14T10:46:00Z
-    webUrl: "https://www.gulftoday.ae/news/2023/12/14/sheikh-hamdan-tests-self-driving-taxi-ahead-of-its-launch-in-dubai"
-    type: article
-    provider:
-      name: gulftoday
-      domain: gulftoday.ae
-    quality: 39
-    images:
-      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/news/2023/12/14/hamdan-self-driving.ashx?h=500&w=750&hash=A15F127F56E3781BEF26F413499E28A7"
-        width: 750
-        height: 500
-        isCached: true
   - title: "Watch: Sheikh Hamdan shares video of testing an automated self-driven taxi in Dubai"
     excerpt: "The Crown Prince of Dubai shared three short clips on his Instagram Stories Dubai: Get ready to see self-driving taxis in Dubai soon. On December 14, Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum, Crown Prince of Dubai and Chairman of the Dubai ..."
     publishedDateTime: 2023-12-14T14:50:00Z

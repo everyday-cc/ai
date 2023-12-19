@@ -7,7 +7,7 @@ originalUrl: "https://www.thedailybeast.com/how-ai-chatbots-are-replacing-santa-
 webUrl: "https://www.thedailybeast.com/how-ai-chatbots-are-replacing-santa-claus-this-christmas"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,37 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Surprise! AI chatbots don't increase student cheating afterall, new research finds"
-    excerpt: "The rise of generative AI tools has many worried about the future integrity of the educational system. After all, if you can get math, writing, and coding help from one free tool like ChatGPT, what's stopping students from using it to cheat on every assignment? Stanford researchers tackle the question in a Q+A published by the university."
-    publishedDateTime: 2023-12-14T09:45:00Z
-    webUrl: "https://www.zdnet.com/article/surprise-ai-chatbots-dont-increase-student-cheating-afterall-new-research-finds/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/surprise-ai-chatbots-dont-increase-student-cheating-afterall-new-research-finds/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/surprise-ai-chatbots-dont-increase-student-cheating-afterall-new-research-finds/"
+  - title: "We need to focus more on the social effects of AI, says Nicholas Christakis"
+    excerpt: "F EW PEOPLE would tolerate a virtual assistant if they had to plead obsequiously each time, “Excuse me, Alexa, if it’s not too much trouble, could you kindly tell me what the weather will be today.” Instead, these devices are designed to answer brusque commands: “Alexa: weather!” And we expect them to obediently respond."
+    publishedDateTime: 2023-12-15T12:07:00Z
+    webUrl: "https://www.economist.com/by-invitation/2023/12/15/we-need-to-focus-more-on-the-social-effects-of-ai-says-nicholas-christakis"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 83
+      name: The Economist
+      domain: economist.com
+    quality: 35
     images:
-      - url: "https://www.zdnet.com/a/img/resize/2b1341ca204a101f5087138fc26e5232f57a0cc0/2023/12/14/7a9eba33-8a87-476b-929e-6d135b343fed/handcheat-gettyimages-181866634.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Creatively Judging Those Generative AI Mental Health Advisement Chatbots By Astutely Gauging Their Levels Of AI Autonomy"
-    excerpt: "How can AI mental health advisement apps be assessed? Consider this innovative proposal that leverages the AI levels of autonomy. A new and exciting approach."
-    publishedDateTime: 2023-12-15T11:29:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/12/15/creatively-judging-those-generative-ai-mental-health-advisement-chatbots-by-astutely-gauging-their-levels-of-ai-autonomy/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/12/15/creatively-judging-those-generative-ai-mental-health-advisement-chatbots-by-astutely-gauging-their-levels-of-ai-autonomy/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/12/15/creatively-judging-those-generative-ai-mental-health-advisement-chatbots-by-astutely-gauging-their-levels-of-ai-autonomy/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 62
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/657c05994692840d3efcf0b9/0x0.jpg?format=jpg&crop=3259,2445,x276,y0,safe&height=900&width=1600&fit=bounds"
-        width: 1200
-        height: 900
+      - url: "https://www.economist.com/img/b/1920/1080/90/media-assets/image/20200808_OPD001.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "szA0NULyMFi5bJ8NNbSgi08cr4MC0K2BHtcd3pdf4MtrqeciMb3W5KAqqbG4GkZXoeekdz8a4lB5xdcfRvopxAkgwPqDfvtf7pko9/F1ag8hAl/2TKIQ0hBXpRv12l4zlV2r7+1K1kCk8n2UMsj2iWhkGXyCXtU7jwRyNQv7Sr4mcdd2wB5tJ7Jd8FsoY1jiBc/jBncRhFDbf6jGLJB2TACxi6XGgGnTd19AgSueBnNc85mmgJAa+Jr/Kbyh8+1AkRla2zISa6GLfpRPNPqasuvDO1/Mct9GKmDbS+dV8SluggCfLAFJMhYkl+/htzWNSVFsXdzTiR4V4/ZJhkezQkQCGT1p828skskytuMt3rW55vtbLD5MPtVcPWGhFtDXlbA6oZh+dJOTKOe+SljXBXP5KGn33uEXgwQZJjGvUDsz5TBmwSvtDFoNM8XgSqjZ6yHJfArkoVcmiVXyneYOGMuxqHxCsDucUF/iAZNtXZfZIpNU57sRrZJC7iYGqIFwfvDMS5vr48c/JE8+EE2l1w==;hX9ce5/68iFNPk4twB70Sw=="

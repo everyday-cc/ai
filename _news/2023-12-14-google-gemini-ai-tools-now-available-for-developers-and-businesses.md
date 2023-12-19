@@ -130,15 +130,6 @@ related:
         width: 1280
         height: 721
         isCached: true
-  - title: "Can Alphabet's Gemini AI Catapult Google Ahead in Tech Race?"
-    excerpt: "Also Read: Microsoft in High-Level Talks with China: A New Era for AI and Trade Cooperation on the Horizon? Microsoft has been actively integrating OpenAI's ChatGPT into its products, contributing to Azure's growth, while Google Cloud's results have been ..."
-    publishedDateTime: 2023-12-14T09:38:00Z
-    webUrl: "https://www.benzinga.com/news/23/12/36234024/can-alphabets-gemini-ai-catapult-google-ahead-in-tech-race"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 19
   - title: "Google Gemini AI: Multimodal, GPT-4 Competitor, and More"
     excerpt: "Google Gemini AI models have set a new benchmark in the AI industry and it is being touted to outrank OpenAI's GPT-4 model."
     publishedDateTime: 2023-12-18T02:06:00Z

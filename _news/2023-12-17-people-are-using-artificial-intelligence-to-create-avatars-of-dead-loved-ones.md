@@ -40,6 +40,22 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "These six questions will dictate the future of generative AI"
+    excerpt: "Generative AI was trained on the internet and so has inherited many of its unsolved issues, including those related to bias, misinformation, copyright infringement, human rights abuses, and all-round economic upheaval. But we’re not going in blind."
+    publishedDateTime: 2023-12-19T10:00:00Z
+    webUrl: "https://www.technologyreview.com/2023/12/19/1084505/generative-ai-artificial-intelligence-bias-jobs-copyright-misinformation/"
+    ampWebUrl: "https://www.technologyreview.com/2023/12/19/1084505/generative-ai-artificial-intelligence-bias-jobs-copyright-misinformation/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/19/1084505/generative-ai-artificial-intelligence-bias-jobs-copyright-misinformation/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/12/GenAI_Uncertain_Selman_RGB2.jpg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
   - title: "None of these anchors are real: Channel 1 plans for AI to generate a news broadcast"
     excerpt: "Channel 1 AI released a promotional video explaining how the service will provide personalized news coverage to users from finance to entertainment."
     publishedDateTime: 2023-12-15T01:41:00Z

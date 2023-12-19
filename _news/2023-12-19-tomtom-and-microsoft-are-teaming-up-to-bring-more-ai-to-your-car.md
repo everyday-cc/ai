@@ -55,6 +55,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "TomTom and Microsoft bringing generative AI to cars"
+    excerpt: "The engine powering this AI revolution is a potent combination of TomTom’s expertise in mapmaking, traffic data, and driver behavior analysis, and Microsoft’s Azure OpenAI service, a powerful platform for developing and deploying cutting-edge generative AI models."
+    publishedDateTime: 2023-12-19T07:08:00Z
+    webUrl: "https://www.absolutegeeks.com/article/geek-stream/tomtom-and-microsoft-bringing-generative-ai-to-cars/"
+    type: article
+    provider:
+      name: absolutegeeks.com
+      domain: absolutegeeks.com
+    quality: 54
+    images:
+      - url: "https://www.absolutegeeks.com/wp-content/uploads/2023/12/e6a73560-9ab5-11ee-9dbf-ece57daa102b.png"
+        width: 960
+        height: 550
+        isCached: true
   - title: "Microsoft releases Phi-2 small language model."
     excerpt: "Better than a Llama Microsoft Research has announced the release of its Phi-2 small language model (SML), a text-to-text AI programme that is \"small enough to run on a laptop or mobile device.\" Phi-2 has 2."
     publishedDateTime: 2023-12-18T11:00:00Z
@@ -70,6 +84,6 @@ related:
         height: 465
         isCached: true
 
-secured: "8k/4vhAj2eozJrzPxWB6osSktQx6GTNxr7POBH1SWA86FqUON15ArgtvzwjQkVysPI0CvNmub/FLLCago+4Ufza2vms4ja4Dz6/s/wzswJ/FWCk3JZYQc7IRNj1Ytc+HX3PBIiyAYCGIihYW98MUfjGC1gODXIrIQ7z4y8HqJlFmZ7ZNalwdpFjZLJfzLUFedeYJBpMxlYEYC+A23WshDsj4gtPh6zxQJ6eI1o8LKfm0FhHs7f+QseTFTrmDE/sQOT1X3kxIfsE9MdyfL/u6NfcPzByAZmoK3xdodvXJ8u9B8Oxx/kFtbH93xgWcb1L6Wi+kySZXZcEwaJ/M4ux1862kb0rgoG6thq9EJArQQpA=;cerxxuAfSNtkn/VuABCyzQ=="
+secured: "wqgxPfBpNx5OzD0aj2sj6JnUSG6bRV+IujPFhy88XGn7WDEioKaUHV163SGUFEsSYwv3+g/zAPSvqp+SgrCRsQFnVWzSIwtcGQC+XB4ZTkQk1bbZa/9+DURAxIaWKD7bAJTKC1Rojx+hRjaFmeeijkBpCpQBH2jEx8v3DAzm/ejD87ADzP/TsMPVpzEaHbJ6aksu4a9ZVhfyK+vzQ7mmaa57MzME6uNuTJgNow5gyLnOZf6nmsnZ/i36SrNWPG21Tm7i0pWbFLIjA18sgXrUuEhdfqQErfus4nPwfN4uUEAoErHGW6dBbT39CwqOQ4PIBTiaeM2Pu5B6wwy8BspsxnGpqC0nJhqmZlc4eb4HCNIs4dlMP7wzCJxHxYb/KQC4KqlxKV2428fMNZMgxuk52pP+yB++0VwPrGWNKcPQk9PJ0gAXEtpuqyObeDttkg/fv0yF/AqTZHAZL5WobGH7kX6cShw15fuinUuxflnIEeAaMkoYKGeOE+Rwoy7+FYvHbDmVCQfjFkWXKwaPBFjaxQ==;OOWY2PeQFxHKcdjKa5J5dw=="
 ---
 

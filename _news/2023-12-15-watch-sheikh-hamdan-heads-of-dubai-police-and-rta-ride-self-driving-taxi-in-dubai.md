@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Sheikh Hamdan tests self-driving taxi ahead of its launch in Dubai"
-    excerpt: "This step is part of the RTA's strategy to bolster Dubai's global leadership in self-driving transport and foster ‎ the emirate's aspirations of becoming the world's smartest city."
-    publishedDateTime: 2023-12-14T10:46:00Z
-    webUrl: "https://www.gulftoday.ae/news/2023/12/14/sheikh-hamdan-tests-self-driving-taxi-ahead-of-its-launch-in-dubai"
-    type: article
-    provider:
-      name: gulftoday
-      domain: gulftoday.ae
-    quality: 39
-    images:
-      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/news/2023/12/14/hamdan-self-driving.ashx?h=500&w=750&hash=A15F127F56E3781BEF26F413499E28A7"
-        width: 750
-        height: 500
-        isCached: true
   - title: "Watch: Sheikh Hamdan, heads of Dubai Police and RTA ride self-driving taxi in Dubai"
     excerpt: "Driverless taxis have been plying the streets of Dubai, in Jumeirah 1, since October, following the successful digital mapping of the area"
     publishedDateTime: 2023-12-14T13:58:00Z

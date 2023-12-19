@@ -38,22 +38,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The future with Artificial Intelligence: AI-ming for enhanced travel experience"
-    excerpt: "In astonishingly little time, Artificial Intelligence has swept through the travel industry and significantly transformed it by improving processes up and down the chain. Indications are it is going to get all the more ubiquitous."
-    publishedDateTime: 2023-12-14T09:56:00Z
-    webUrl: "https://www.moneycontrol.com/news/trends/travel/the-future-with-artificial-intelligence-ai-ming-for-enhanced-travel-experience-11904561.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/trends/travel/the-future-with-artificial-intelligence-ai-ming-for-enhanced-travel-experience-11904561.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/travel/the-future-with-artificial-intelligence-ai-ming-for-enhanced-travel-experience-11904561.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 70
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/12/Artificial-Intelligence-and-Travel-1.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "AI self-replication: Machine intelligence can now replicate independently"
     excerpt: "Artificial intelligence models can now create smaller AI systems without the help of a human, according to research published."
     publishedDateTime: 2023-12-18T19:09:00Z

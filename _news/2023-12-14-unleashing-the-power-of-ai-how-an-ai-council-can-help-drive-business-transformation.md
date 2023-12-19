@@ -39,6 +39,20 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Where the battle to dominate AI may be won"
+    excerpt: "When you fire up an artificial intelligence chatbot like Google’s Bard or OpenAI’s ChatGPT, you’re really interacting with the product of three or four key ingredients. One is the engineering talent it took to design the chatbot’s AI model."
+    publishedDateTime: 2023-12-19T10:00:00Z
+    webUrl: "https://ktvz.com/money/cnn-business-consumer/2023/12/19/where-the-battle-to-dominate-ai-may-be-won/"
+    type: article
+    provider:
+      name: KTVZ
+      domain: ktvz.com
+    quality: 39
+    images:
+      - url: "https://ktvz.b-cdn.net/2023/08/T6W6K2eT-ktvz-860x484.jpg"
+        width: 860
+        height: 484
+        isCached: true
   - title: "Love in the time of artificial intelligence: Desperately seeking the human-AI connection"
     excerpt: "If AI dredges up apocalyptic fears that it will corrode human connections irreparably, maybe the best solution is to ask another informed human being."
     publishedDateTime: 2023-12-18T14:01:00Z

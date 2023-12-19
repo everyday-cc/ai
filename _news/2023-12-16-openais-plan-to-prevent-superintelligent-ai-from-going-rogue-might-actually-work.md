@@ -52,6 +52,20 @@ related:
         width: 1280
         height: 717
         isCached: true
+  - title: "OpenAI is paying researchers to stop superintelligent AI from going rogue"
+    excerpt: "OpenAI is offering $10 million in grants to support technical research on how we can control artificial intelligence systems that are way smarter than the average human."
+    publishedDateTime: 2023-12-19T09:30:00Z
+    webUrl: "https://www.tomsguide.com/news/openai-is-paying-researchers-to-stop-superintelligent-ai-from-going-rogue"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 36
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/aKjGSXUYAc8rvRujFrBWXk-1200-80.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "KyvR1z2e0GaX9seS9cA9rs9k5C5sWWYPwyuuslZZzkqOK55yJeYIL6Ctru8kzevQr14yF1/QA5GjX0DipbiLWPvNlghlbE7/TjafEMFYN+Xj+RHLl+AAqOJgi6pmoF6KN+Nd0vjXbYCVYQqA93WSjoXWViTw8zWWkww+Z8dS1AISg61eY4Sx2AcU+LG9c4ZM5gW9Z+462o6GF9ipSthGTVuk6xdnh40om5eUmyS4pHjZ1K04NICWBrLgsKinD6dHq0QBENPQMz1KiTfR3UOeVw8VxOyHyUpF/q8B3lYHW22ybHflwTymzPb9rJVan9ow7y1/yWjXKuxQcLOHKDNROOXzayt9JyEGOyuHnWkr6JOwnDJ1INw1QNry53SA2rGcDUTTKV3MOr/38becU34/B96VIUPcE5o8r7sZJXvsBEtRxUdkQKI8gPV39pKIO3uOlkxx9NU8oD6bhdJvYLm6+ktQV77C365Q4GBKChdCRDR0T6jSSMoEPnBhgN8P1u5FE6Q3rb6gyHUQAEfdv7xZbQ==;apTF4x9rSoK1pvGni1x2dQ=="
 ---

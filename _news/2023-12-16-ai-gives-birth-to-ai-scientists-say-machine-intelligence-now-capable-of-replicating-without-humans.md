@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/science/ai-gives-birth-ai-scientists-say-mac
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/science/ai-gives-birth-ai-scientists-say-machine-intelligence-capable-replicating-without-humans.amp"
 type: article
 quality: 75
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "The future with Artificial Intelligence: AI-ming for enhanced travel experience"
-    excerpt: "In astonishingly little time, Artificial Intelligence has swept through the travel industry and significantly transformed it by improving processes up and down the chain. Indications are it is going to get all the more ubiquitous."
-    publishedDateTime: 2023-12-14T09:56:00Z
-    webUrl: "https://www.moneycontrol.com/news/trends/travel/the-future-with-artificial-intelligence-ai-ming-for-enhanced-travel-experience-11904561.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/trends/travel/the-future-with-artificial-intelligence-ai-ming-for-enhanced-travel-experience-11904561.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/travel/the-future-with-artificial-intelligence-ai-ming-for-enhanced-travel-experience-11904561.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 70
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/12/Artificial-Intelligence-and-Travel-1.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "AI self-replication: Machine intelligence can now replicate independently"
     excerpt: "One device Sun and Chen demonstrated — a human activity tracker that uses AI to gather and analyze motion data — was housed in a chip smaller than a dime. That sensor is an example of tiny machine learning, small AI systems that can be used in compact ..."
     publishedDateTime: 2023-12-18T10:46:00Z

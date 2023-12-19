@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/12/16/google-shap
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/12/16/google-shapes-gemini-ai-tools-for-developers/amp/"
 type: article
 quality: 89
-heat: 199
+heat: 189
 published: true
 
 provider:
@@ -126,15 +126,6 @@ related:
         width: 1280
         height: 721
         isCached: true
-  - title: "Can Alphabet's Gemini AI Catapult Google Ahead in Tech Race?"
-    excerpt: "Also Read: Microsoft in High-Level Talks with China: A New Era for AI and Trade Cooperation on the Horizon? Microsoft has been actively integrating OpenAI's ChatGPT into its products, contributing to Azure's growth, while Google Cloud's results have been ..."
-    publishedDateTime: 2023-12-14T09:38:00Z
-    webUrl: "https://www.benzinga.com/news/23/12/36234024/can-alphabets-gemini-ai-catapult-google-ahead-in-tech-race"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 19
   - title: "Google Gemini AI tools now available for developers and businesses"
     excerpt: "As well as making their new Gemini API available for developers and enterprise users to harness the power of artificial intelligence in custom AI models,"
     publishedDateTime: 2023-12-14T14:10:00Z

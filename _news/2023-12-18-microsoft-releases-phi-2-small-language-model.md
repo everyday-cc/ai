@@ -70,6 +70,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "TomTom and Microsoft bringing generative AI to cars"
+    excerpt: "The engine powering this AI revolution is a potent combination of TomTom’s expertise in mapmaking, traffic data, and driver behavior analysis, and Microsoft’s Azure OpenAI service, a powerful platform for developing and deploying cutting-edge generative AI models."
+    publishedDateTime: 2023-12-19T07:08:00Z
+    webUrl: "https://www.absolutegeeks.com/article/geek-stream/tomtom-and-microsoft-bringing-generative-ai-to-cars/"
+    type: article
+    provider:
+      name: absolutegeeks.com
+      domain: absolutegeeks.com
+    quality: 54
+    images:
+      - url: "https://www.absolutegeeks.com/wp-content/uploads/2023/12/e6a73560-9ab5-11ee-9dbf-ece57daa102b.png"
+        width: 960
+        height: 550
+        isCached: true
 
 secured: "GG9a064AwD7IMViwNNnhRThFMkZ1NizLSGvB56exWaNnwGf2n0S8R13FJGeIA+c8/oGnReHh/XqdP2RmSwuyJPdwYHU0S3CupxHwlDS1qhbZgTTM2w0qYxCJGP8PADIETnFyZxsMMoizu+lB3RXRw7fBTXq54UPjEBTzdMzCYkmzSa+3buTNDwBncSg6N8gjux8lVdisozvSo+18aP1mFoGqAhAuOZJl/a9CRyZhuC6Hvp8BaOgyQZ5ZJ/YJK1C4Gp4SIgpr9WWRuaTg5VJpmYSaJvfzcGpUj1le8IlqNu5/TJZ14M3he1MQdHdvYRq/kuAnEJ9v3RRfTMMCKOrVcny9R9ci6FaHS2bBYmQLhaNS7lxhIcpdZZ5vSi3GGiRnwi2KPT0VsGBlpfyLUtgTRCruoCatZd8L4CkgFdq0mknYjMRv3W2Fw2OkFSSAvoIN+7wCT/q9D1Y6pEJk//OrSLxG9kMY59neSIdZ/mXIkC4U+ozWpaHjiBBOLF0prnaSM6C5Cp1Vf7eVd0dj7p2v1A==;hZAmUXzQK3Z1+zC03Ir81Q=="
 ---

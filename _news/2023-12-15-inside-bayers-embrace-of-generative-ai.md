@@ -39,20 +39,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "FIS: Trust in generative AI fragile among consumers"
-    excerpt: "A significant majority of consumers admit they don't know whether their banks are currently using generative AI in their operations"
-    publishedDateTime: 2023-12-14T11:00:00Z
-    webUrl: "https://fintechmagazine.com/tech-ai/fis-generative-ai-research"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 39
-    images:
-      - url: "https://assets.bizclikmedia.net/1200/b6ed12eb7ec28ad5ae14a6ea7d05b679:cc2c9ffd810a582fef0d67f56f8aff04/nasser-khodri.jfif.jpg"
-        width: 1200
-        height: 631
-        isCached: true
   - title: "New generation of chips will drive the AI wave"
     excerpt: "The artificial intelligence chip industry has developed a newfound appreciation for high bandwidth memory, or HBM, the technology behind such lightning-fast data transfers. Analysts had once deemed it unlikely to ever become commercially viable when it was first launched in 2013."
     publishedDateTime: 2023-12-19T00:01:00Z

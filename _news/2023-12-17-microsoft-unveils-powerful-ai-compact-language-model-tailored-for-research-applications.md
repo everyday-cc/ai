@@ -9,7 +9,7 @@ ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/microsoft-unveils-po
 cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/microsoft-unveils-powerful-ai-compact-language-model-tailored-for-research-applications-2023-12-17-907665"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     isCached: true
 
 related:
+  - title: "LTIMindtree collaborates with Microsoft for AI-powered applications"
+    excerpt: "LTIMindtree and Microsoft collaborate to introduce AI-powered Employee Engagement Applications. It will use Microsoft Azure OpenAI Service and Azure Cognitive Search to enable AI-led capabilities, including content summarisation,"
+    publishedDateTime: 2023-12-19T09:51:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/ltimindtree-collaborates-with-microsoft-for-ai-powered-applications/article67653699.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/ltimindtree-collaborates-with-microsoft-for-ai-powered-applications/article67653699.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/ltimindtree-collaborates-with-microsoft-for-ai-powered-applications/article67653699.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 54
   - title: "‘Small language model’ for researchers launched"
     excerpt: "Microsoft has released its newest compact “small language model” titled Phi-2 that continues to perform at par or better than certain larger open-source Llama 2 models with less than 13"
     publishedDateTime: 2023-12-19T05:34:00Z
