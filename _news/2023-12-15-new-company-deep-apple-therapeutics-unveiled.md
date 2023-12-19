@@ -7,7 +7,7 @@ originalUrl: "https://www.thepharmaletter.com/article/new-company-deep-apple-the
 webUrl: "https://www.thepharmaletter.com/article/new-company-deep-apple-therapeutics-unveiled"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-related:
-  - title: "Deep Apple Therapeutics raises $52 million for small molecule therapeutics discovery"
-    excerpt: "A portfolio company created and incubated by Apple Tree Partners (ATP) has raised $52 million in series A funding to enable it to rapidly discover novel small molecule therapeutics."
-    publishedDateTime: 2023-12-14T14:30:00Z
-    webUrl: "https://www.outsourcing-pharma.com/Article/2023/12/14/deep-apple-s-52-million-funding-revolutionizing-drug-discovery"
-    type: article
-    provider:
-      name: Outsourcing-pharma
-      domain: outsourcing-pharma.com
-    quality: 12
 
 secured: "jrQlyh36fmX5BcgxaLWtBMr9/rkKyaSIp250uHwGw1XMh3l99lDuOOffg6j4pCgVf+td74OYCRIw44L9fFvG5nP+tRgucLmS9pmabjLI2QEE0Z3Go3LLSN0YlCTrH7RG9NYt9HSrrBav/eys+OkIOfWMhrDDU7cZIHzH4A0YH1irF/wDhknvTDULtExuINBjKfYM/C5sZLyOviqbkom0KQsanTtbi0ALxTgIwBCSdBIyMkQQS6dXV8c+yJPzQMvjEfEqZRHxjqinHN9BxsV6x7WY3+MglbXIXdPkbgQ1sCtln9AS3VKcOkz6KY5vipmk6qnHIt2zt9mOBywXZz/pzsdMlG+diGoFbyeBDYBiBJQ=;Y3c/GZ09N6fCiaeasp/HRA=="
 ---

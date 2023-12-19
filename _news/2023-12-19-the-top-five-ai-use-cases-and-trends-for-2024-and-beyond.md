@@ -47,22 +47,6 @@ related:
         width: 1354
         height: 900
         isCached: true
-  - title: "4 Best Dividends For A 2024 AI Bubble"
-    excerpt: "Is the AI mania substance or puff? Probably a bit of both. But there’s money to be made as the hype train rolls on. Let’s do it smartly—with dividends."
-    publishedDateTime: 2023-12-14T15:04:00Z
-    webUrl: "https://www.forbes.com/sites/brettowens/2023/12/14/4-best-dividends-for-a-2024-ai-bubble/"
-    ampWebUrl: "https://www.forbes.com/sites/brettowens/2023/12/14/4-best-dividends-for-a-2024-ai-bubble/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brettowens/2023/12/14/4-best-dividends-for-a-2024-ai-bubble/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64b5515e45aeec9aede9bcfd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 899
-        isCached: true
   - title: "Improving the call centre experience in the financial services sector"
     excerpt: "British banking and insurance holding company NatWest Group serves 19 million customers across 12 banking and financial services brands via its network of call centres. To deliver the best possible service to customers while also protecting their data,"
     publishedDateTime: 2023-12-18T10:46:00Z
@@ -78,6 +62,6 @@ related:
         height: 548
         isCached: true
 
-secured: "GRc+Q2BizFYFp5cAR5bkRhTBFjcSXqW7JvQUbMCk8PDe65jWNStHZ6xePSm33M5CcceA69yD5yfwiC2W8VEzVDFcUEyCENeiQw6P4xuSTDvSr0g9a9gXHqhXxzsP6V8W+xzc5IMNhRLTc59vJPG7lP7skN05MR0+urnCSk7ssA+Txch33vl98t6Nx4sNJTXFmHChSInfgMOeDwHgWAI2asAo8FuvKf6MydY+KhD2x1OtzopgrxE5cCFILrzUdB7GyPbzdQXqHd73uJWR6TvEKd4izhdwoglFTQCFJ9QlMrz1pkFPIVuYcHhf0yMnEwov7CUZebU08PkPfRMKdxgyuDGHxpLv2bylY6/xHnD9rRg=;XEJrtvs67J4utrQkq3fs9g=="
+secured: "0OpeomW4oqyUhINBuUNelmfy3npd+01z2TT1BpUSIQj1cXPnI4TDj0otRyqcMeUbnwcX+8INemwpUmUlXJlhmB7K+S+6vvrr5vypSeYptBlqoBDRA8qnqSf0jwFLOBIQAUeQw5RSla6CsLLj8uu1cEIVuyQwaOUVja2deHU2tDY0bwa8XqlJWsIVPocoRxS5vBsBmVHJMevXsKFDm8ycDp1PV0AUCHGIsz0tlaHtFtDpFGxRvx1xFFzqCzQYQ5YI8Fjy+uhVljGmSydJZUGK0uPyBKkyzOF2UEYeyO+6NK6RTKGmUSbo1YEDLNhIEvs2QtMUxrtOHi2L+KubyBDGroAOrFw9hIbgGbn7t8vfLBvP0s5kACevXhQZterfCKG2yY4RQX6V2af8mSer8a4FrO+eqU3njXR2zknGyICPvNQo5p7NAFkx/BxFoG4h/MElM7yNy6H9Ku8Z07ylpWa/5HMR6WWlFKIL7GOCyusC+OjsaA2PgpwgPHmOwxVIegs6vTLUewA1qIFSCuMF5iVLlw==;T7k9bdRtDDZngbo8fUZf6g=="
 ---
 

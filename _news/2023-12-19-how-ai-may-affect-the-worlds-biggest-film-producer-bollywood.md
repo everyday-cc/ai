@@ -29,7 +29,7 @@ related:
   - title: "Should Bollywood fear or embrace AI?"
     excerpt: "Among Bollywood stars, Khan was among the first to test AI in 2021 when he lent his face and voice for an advertisement that used deepfake technology. The ad campaign launched by Cadbury's allowed owners of small businesses to use his voice and image to promote their store and bump up sales during the pandemic slump."
     publishedDateTime: 2023-12-18T22:19:00Z
-    webUrl: "https://www.bbc.co.uk/news/world-asia-india-67657873?at_medium=RSS&at_campaign=KARANGA"
+    webUrl: "https://www.bbc.co.uk/news/world-asia-india-67657873?at_campaign=KARANGA&at_medium=RSS"
     ampWebUrl: "https://www.bbc.co.uk/news/world-asia-india-67657873.amp"
     cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-asia-india-67657873.amp"
     type: article
@@ -38,7 +38,7 @@ related:
       domain: bbc.co.uk
     quality: 57
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/010B/production/_131976200_srk_cadbury.jpg"
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/12ABE/production/_132087467_srk_cadbury.jpg"
         width: 1024
         height: 576
         isCached: true

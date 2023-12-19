@@ -23,6 +23,17 @@ images:
     height: 900
     isCached: true
 
+related:
+  - title: "Artificial Intelligence Can Predict People's Lives"
+    excerpt: "Artificial intelligence developed to model written language can be utilized to predict events in people's lives. A research project from DTU, University of Copenhagen, ITU, and Northeastern University"
+    publishedDateTime: 2023-12-19T06:00:00Z
+    webUrl: "https://www.realclearscience.com/2023/12/19/artificial_intelligence_can_predict_peoples_lives_999770.html"
+    type: article
+    provider:
+      name: RealClearScience
+      domain: realclearscience.com
+    quality: 17
+
 secured: "vPsT1i9Kf5Ur2MrF6i1cA7np1WRT0Ht7aNmZTebUIJCMojnaBZ7FgTyviM+i7Kv5lDghjCHrm9FfUesKDZ/406HFRbuSsArvmeOAUWz98YyLfE508oH7wf9jN/HN063gq9/RD9CU/i3Zd4AuaHU2wCb7XT1jAOAKTu58xNDEXNhb0gBrBHQ8BPBWj9vRyNuQvVFueEANhPt6VYMtsHGZ1+AYydXuz6kUrivAb9qp4KTKnaZA/8aM6PRU5eyA4pJnXRLHtHlIT7NCSup0v9D4g2E+sxYCNDUuZRUR0X2aGFCnOvk8DmsByqAfsrDLgYXPId8BLTs9Wea5PGNreRvMHqhYukxgNx4YKnkOh/yhkVc=;+NLrxKRYL1yKe+VCXa80XQ=="
 ---
 

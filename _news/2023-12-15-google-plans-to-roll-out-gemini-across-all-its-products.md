@@ -122,15 +122,6 @@ related:
         width: 1280
         height: 721
         isCached: true
-  - title: "Google Gemini AI tools now available for developers and businesses"
-    excerpt: "As well as making their new Gemini API available for developers and enterprise users to harness the power of artificial intelligence in custom AI models,"
-    publishedDateTime: 2023-12-14T14:10:00Z
-    webUrl: "https://www.geeky-gadgets.com/google-gemini-ai-tools/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 19
   - title: "Google Gemini AI: Multimodal, GPT-4 Competitor, and More"
     excerpt: "Google Gemini AI models have set a new benchmark in the AI industry and it is being touted to outrank OpenAI's GPT-4 model."
     publishedDateTime: 2023-12-18T02:06:00Z

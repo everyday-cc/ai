@@ -43,22 +43,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "Unlearning Trust In The Era Of AI"
-    excerpt: "With easy access to such technology, it is looking increasingly like if we don’t educate ourselves, the scammers will do it by victimizing us."
-    publishedDateTime: 2023-12-14T14:46:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/14/unlearning-trust-in-the-era-of-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/14/unlearning-trust-in-the-era-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/14/unlearning-trust-in-the-era-of-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63e292ad91acc2abf24c9763/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1092
-        height: 728
-        isCached: true
   - title: "The Pitfalls Of AI In B2B Tech Content"
     excerpt: "While businesses should be looking to responsibly and carefully work generative AI tools into their workflow, there are a few areas where the tech comes up short."
     publishedDateTime: 2023-12-18T11:45:00Z
@@ -74,20 +58,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/5ee8c0a4bcc30e0006c1d9f4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1350
         height: 900
-        isCached: true
-  - title: "Managing costs to realize the potential of cloud and generative AI"
-    excerpt: "Today the drive towards cloud adoption is more and more propelled by the desire to leverage the potential of AI -- especially generative AI."
-    publishedDateTime: 2023-12-14T14:39:00Z
-    webUrl: "https://venturebeat.com/ai/managing-costs-to-realize-the-potential-of-cloud-and-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/12/AdobeStock_529882524.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 663
         isCached: true
   - title: "How to spot artificial intelligence-generated content"
     excerpt: "The catch: this was not Gordon Ramsay. It was an artificial intelligence (AI) version of Ramsay being used to steal people’s identities. With the 2024 Presidential election fast approaching ..."

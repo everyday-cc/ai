@@ -57,22 +57,6 @@ related:
         width: 900
         height: 450
         isCached: true
-  - title: "Intel introduces new AI computer chips, processors"
-    excerpt: "Intel Corporation showcased its latest artificial intelligence products during the launch event in New York on Thursday, including Gaudi3, an AI-powered chip designed for AI software which is"
-    publishedDateTime: 2023-12-14T18:07:00Z
-    webUrl: "https://www.teletrader.com/shntel-introduces-new-ash-computer-chips-processors/news/details/61150474"
-    ampWebUrl: "https://www.teletrader.com/amp/news/details/61150474"
-    cdnAmpWebUrl: "https://www-teletrader-com.cdn.ampproject.org/c/s/www.teletrader.com/amp/news/details/61150474"
-    type: article
-    provider:
-      name: teletrader.com
-      domain: teletrader.com
-    quality: 74
-    images:
-      - url: "https://cdn.ttweb.net/News/images/308532.jpg?preset=w800_q70"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Intel launches AI chips for servers and clients"
     excerpt: "New 5th Gen Intel Xeon processors and Core Ultra mobile processor family are aimed at bringing AI to all compute devices."
     publishedDateTime: 2023-12-15T15:54:00Z
@@ -103,20 +87,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Intel Core Ultra processors debut for AI-powered PCs"
-    excerpt: "Intel launched its Intel Core Ultra processors for AI-powered PCs at its AI Everywhere event today. The big chip maker said these processors spearhead a new era in computing, offering unparalleled power efficiency, superior compute and graphics performance, and an unprecedented AI PC experience to mobile platforms and edge devices."
-    publishedDateTime: 2023-12-14T15:00:00Z
-    webUrl: "https://venturebeat.com/ai/intel-core-ultra-processors-debut-for-ai-powered-pcs/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/12/intel-core-ultra.jpg?w=1200&strip=all"
-        width: 1200
-        height: 798
-        isCached: true
   - title: "Intel Puts Artificial Intelligence First With Processor Announcements"
     excerpt: "The Intel Core Ultra mobile processor family brings AI to PCs, while 5th Gen Intel Xeon processors offer AI acceleration for data centers."
     publishedDateTime: 2023-12-14T21:35:00Z
@@ -130,20 +100,6 @@ related:
       - url: "https://www.techrepublic.com/wp-content/uploads/2023/12/core-ultra-fig-a-dec-23.jpeg"
         width: 800
         height: 533
-        isCached: true
-  - title: "Intel Releases Core Ultra, Arc GPUs for Bringing AI to Every PC"
-    excerpt: "Pat Gelsinger at the AI Everywhere event announced the company’s partnership with Dell, HP, Lenovo, Supermicro, and Microsoft."
-    publishedDateTime: 2023-12-14T15:48:00Z
-    webUrl: "https://analyticsindiamag.com/intel-aims-to-make-every-pc-an-ai-pcintel-releases-core-ultra-arc-gpus-for-bringing-ai-to-every-pc/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/12/Screenshot-2023-12-14-at-8.49.55-PM-1300x721.png"
-        width: 1300
-        height: 721
         isCached: true
   - title: "AMD Ryzen 8040 chip battles Intel for AI laptop supremacy"
     excerpt: "Between the AMD Ryzen 8040, Intel Core Ultra, and Apple M3 chips, there's a lot of competition among laptops built for machine learning."
@@ -187,20 +143,6 @@ related:
         width: 620
         height: 465
         isCached: true
-  - title: "Intel unveils new data center chip with focus on AI growth"
-    excerpt: "Intel on Thursday showed off its latest Xeon processor, as it works to grab greater market share in the AI space."
-    publishedDateTime: 2023-12-14T17:00:00Z
-    webUrl: "https://www.aol.com/finance/intel-unveils-data-center-chip-150001129.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 54
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/Rhc1iexpU03u.K6xePUQhg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/aol_yahoo_finance_433/540ffdbe4d270ea7e844a2fde5e2b9de"
-        width: 1200
-        height: 799
-        isCached: true
   - title: "Intel unveils new chips amid rush to AI"
     excerpt: "AMD is also playing catch-up with Nvidia in AI accelerators. Its version of that product, the MI300, is to debut next year. AMD unveiled the chip at an event last week and announced that the market for AI accelerators could climb to more than US$400 billion in the next four years."
     publishedDateTime: 2023-12-15T16:00:00Z
@@ -243,19 +185,19 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "Intel debuts AI-accelerated Core Ultra and 5th Gen Xeon chips to enable AI to run in any location"
-    excerpt: "Intel debuts AI-accelerated Core Ultra and 5th Gen Xeon chips to enable AI to run in any location - SiliconANGLE"
-    publishedDateTime: 2023-12-14T15:00:00Z
-    webUrl: "https://siliconangle.com/2023/12/14/intel-debuts-ai-accelerated-core-ultra-5th-gen-xeon-chips-will-enable-ai-run-location/"
+  - title: "Why Intel has joined the race for the AI-enabled laptop"
+    excerpt: "But Intel has been talking up AI-PC and the fact that it’s building AI-dedicated cores into its newest processors for quite some time. Its hardware partners have also dropped AI-PC mentions, and all this suggests that Intel thinks it can still take control of the narrative, or at least some of it."
+    publishedDateTime: 2023-12-19T10:33:00Z
+    webUrl: "https://www.computerweekly.com/blog/Write-side-up-by-Freeform-Dynamics/Why-Intel-has-joined-the-race-for-the-AI-enabled-PC"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 41
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 39
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/Intel-Core-Ultra-2.jpg"
-        width: 2560
-        height: 1440
+      - url: "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-191223-cover-500px.jpg"
+        width: 500
+        height: 354
         isCached: true
   - title: "New Intel Core Ultra Processor-Based COM Express Compact Modules For AI At The Edge"
     excerpt: "With features like multiple P-cores, energy-efficient E-cores, and a powerful Intel Arc GPU, coupled with an integrated NPU for advanced AI processing, these modules are set to revolutionise industries like healthcare and industrial automation."

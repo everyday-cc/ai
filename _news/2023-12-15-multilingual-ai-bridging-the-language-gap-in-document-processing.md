@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/15/multilingu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/15/multilingual-ai-bridging-the-language-gap-in-document-processing/amp/"
 type: article
 quality: 89
-heat: 119
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -31,45 +31,34 @@ images:
     isCached: true
 
 related:
-  - title: "AI or not to AI: How artificial intelligence is changing the industry"
-    excerpt: "One of the most profound statements that I’ve ever heard on artificial intelligence was presented in the form of a joke. It was delivered decades ago by an English Lit professor of mine who taught classes both on John Milton and on science fiction and fantasy literature."
-    publishedDateTime: 2023-12-18T18:25:00Z
-    webUrl: "https://www.plantservices.com/technology/artificial-intelligence/article/33016391/ai-or-not-to-ai-how-artificial-intelligence-is-changing-the-industry"
+  - title: "Use Amazon DocumentDB to build no-code machine learning solutions in Amazon SageMaker Canvas"
+    excerpt: "We are excited to announce the launch of Amazon DocumentDB (with MongoDB compatibility) integration with Amazon SageMaker Canvas, allowing Amazon DocumentDB customers to build and use generative AI and machine learning (ML) solutions without writing code. Amazon DocumentDB is a fully managed native JSON"
+    publishedDateTime: 2023-12-15T17:51:37Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/use-amazon-documentdb-to-build-no-code-machine-learning-solutions-in-amazon-sagemaker-canvas/"
     type: article
     provider:
-      name: Plant Services
-      domain: plantservices.com
-    quality: 54
+      name: AWS
+      domain: aws.amazon.com
+    quality: 95
     images:
-      - url: "https://img.plantservices.com/files/base/ebm/plantservices/image/2023/12/657b45e23fa0aa001efeca59-ai_or_not_to_ai_how_artificial_intelligence_is_cha.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/12/15/documentdb-sagemaker.jpg"
+        width: 1006
+        height: 501
         isCached: true
-  - title: "Ola CEO Bhavish Agarwal’s AI startup is building a multilingual Large Language Model"
-    excerpt: "Ola CEO Bhavish Agarwal’s AI startup is working on a multilingual AI model called Krutrim that will be released next year."
-    publishedDateTime: 2023-12-19T06:15:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/ola-ceo-bhavish-agarwals-ai-startup-is-building-a-multilingual-large-language-model/article67653161.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/ola-ceo-bhavish-agarwals-ai-startup-is-building-a-multilingual-large-language-model/article67653161.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/ola-ceo-bhavish-agarwals-ai-startup-is-building-a-multilingual-large-language-model/article67653161.ece/amp/"
+  - title: "Accelerating time-to-insight with MongoDB time series collections and Amazon SageMaker Canvas"
+    excerpt: "This is a guest post co-written with Babu Srinivasan from MongoDB. As industries evolve in today’s fast-paced business landscape, the inability to have real-time forecasts poses significant challenges for industries heavily reliant on accurate and timely insights. The absence of real-time forecasts in"
+    publishedDateTime: 2023-12-18T16:42:37Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/accelerating-time-to-insight-with-mongodb-time-series-collections-and-amazon-sagemaker-canvas/"
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 50
+      name: AWS
+      domain: aws.amazon.com
+    quality: 78
     images:
-      - url: "https://th-i.thgim.com/public/incoming/y26742/article67653159.ece/alternates/FREE_1200/MAHINDRAOLA.jpg"
-        width: 1200
-        height: 675
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/27/ML-14327_image001-1260x438.png"
+        width: 1260
+        height: 438
         isCached: true
-  - title: "Uncovering bias in artificial intelligence"
-    excerpt: "Throughout his Ph.D. program, Li has worked alongside his advisor, assistant professor Hongfu Liu, to examine bias within artificial intelligence datasets. They determined that when developing these artificial intelligence systems, cleaning datasets and looking for these biases in advance of processing information can reduce these incidents."
-    publishedDateTime: 2023-12-15T14:52:00Z
-    webUrl: "https://www.brandeis.edu/stories/2023/december/artificial-intelligence-grant.html"
-    type: article
-    provider:
-      name: Brandeis University
-      domain: brandeis.edu
-    quality: 17
 
 secured: "xNYe6YL82Ef0hGh2lOdCWgRKh3MDNzyJJpfDfHVlfOQ0vawKUo3OAZ5rER2z3XKhgh2CPG6oNJsbWDHn1N+HZW39sAH+v8tteTWDJ51RyNOjeCddvhs950pZMQFNQgU64AMDvSlT2ZQlHrJ2lx/uk8+uqkkAWTQUXtrsRfw6IiUDc3nT6JYFhNpcTWODHu8hxhyEUQp+7ioXDvyLXToiA4gmZ/FgQVwZn7yaqYnxtf7r3Xyp/4BWO5A3LOyBityCoHOLtvi5uD4bUQpLdzrkeTc9oi0nnEjEsICtOMhiNHwmt2vD8bUWC/JC5Q9ne1KP5TasbekuLk5vJ6uJ7jg/RZYHmV886m2pWPKUi58Ahkk=;07HPueAyu8+XQs8njtaoRw=="
 ---

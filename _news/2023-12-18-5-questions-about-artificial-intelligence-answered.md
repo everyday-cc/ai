@@ -84,6 +84,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Meet The AI That Will Beat You At Physical Challenges As Well As Mind Games"
+    excerpt: "CyberRunner, an AI-powered robot, can learn how to accomplish challenging physical tasks more quickly than humans, and then perform them to a higher standard"
+    publishedDateTime: 2023-12-19T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/davidprosser/2023/12/19/meet-the-ai-that-will-beat-you-at-physical-challenges-as-well-as-mind-games/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "The Rise of Chatbots and Virtual Assistants: AI Applications in Customer Service"
     excerpt: "Welcome to a world where artificial intelligence meets customer service! In this era of technological innovation, chatbots, and virtual assistants have emerged as game-changers, transforming the way businesses interact with their customers."
     publishedDateTime: 2023-12-17T12:11:00Z

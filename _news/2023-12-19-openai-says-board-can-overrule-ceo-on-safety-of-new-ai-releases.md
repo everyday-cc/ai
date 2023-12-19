@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "OpenAI $10M grants for superhuman AI systems research now available"
+    excerpt: "OpenAI has recently announced the launch of a substantial $10M grant program, known as the Superalignment Fast Grants. This ambitious initiative is"
+    publishedDateTime: 2023-12-15T10:02:00Z
+    webUrl: "https://www.geeky-gadgets.com/superhuman-ai-systems/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/superhuman-AI-systems.jpg"
+        width: 1280
+        height: 717
+        isCached: true
   - title: "OpenAI launches $10M grant program to keep AI from going rogue"
     excerpt: "AI will become significantly harder to manage in the next decade, making existing oversight techniques insufficient, the startup said Friday."
     publishedDateTime: 2023-12-15T20:53:00Z

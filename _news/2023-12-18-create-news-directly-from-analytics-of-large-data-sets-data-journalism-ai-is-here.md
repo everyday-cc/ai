@@ -42,29 +42,20 @@ related:
         width: 1599
         height: 900
         isCached: true
-  - title: "How will AI and analytics keep people healthy, safe and thriving in 2024?"
-    excerpt: "\"The rise of AI and analytics will continue to transform the government workforce, including in public safety. In 2024, law enforcement will see a turning point in hiring 'digital natives' who embrace and demand technology to protect, defend and serve citizens.\""
-    publishedDateTime: 2023-12-14T15:12:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/12/14/9934437.htm"
+  - title: "Seek AI and Prodigy integrate, combining natural language querying with marketing analytics"
+    excerpt: "Seek AI, a developer of generative AI for data solutions, is debuting the integration of its natural language to SQL (NL2SQL) solution into Prodigy, a cloud-based production data SaaMS (Software as Managed Service) platform."
+    publishedDateTime: 2023-12-19T15:30:00Z
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=161909"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 38
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 46
     images:
-      - url: "https://mma.prnewswire.com/media/2300205/SAS_newswire_Gov_HC.jpg"
-        width: 400
-        height: 267
+      - url: "https://dzceab466r34n.cloudfront.net/Images/OtherImages/151196-2023-Cover-Images-ORG.png"
+        width: 772
+        height: 594
         isCached: true
-  - title: "Adastra Launches New Analytics and Insights for Sustainability Framework in AWS Marketplace"
-    excerpt: "Adastra Group (also known as Adastra Corporation), a global leader in cloud, data and artificial intelligence (AI) solutions and services, today announced the launch of its innovative Cloud Analytics Solution,"
-    publishedDateTime: 2023-12-14T16:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231214298446/en/Adastra-Launches-New-Analytics-and-Insights-for-Sustainability-Framework-in-AWS-Marketplace"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 24
 
 secured: "rrXpq/eiErRW9pkAbnmZAfCPuxuPS+UfnVRAtgul+gZRgGXuW8ZG0BHarRE3301QarD5ezfedikkls39N1HJARsLOtlJ+Z/4uGdpRQ70052z+HV8vZ6KHJjvUKwylF76xE8viASBQQDDgjj8MmFBKIc8gpw5nmnQGMkRJW5YqH+YOOEhDIXfCqvw1RCHYyoFdEiaY+lBdnDhwWCAYv9jdFuYVe+96bwa/BptJJlab9wknBXWe9HewnmAEDEGkw1AW6TkLvvl038CGm8c7Z9AEiNBjsePhetlFrFdcsZmZJNHdMfL0AJjd/BsLGaVHEI2aa3huCRMQIvSBbUqE6u2B8MQH9gU7DnrQjJNLh7mX7OWOPBFqQZ7BdHVUDQEsSah0uvPvdpSWXvqI8LyCHYr+Owi3igG+1T7AH9PkeOrn9wQBXiSHFdqyi812sptRprgCa6nvEivETG6dnroVfAO/70RDqfJDm6/GzwboTY70KhN6dd1FegPrrfoKc+FBMZhuXHwngWkqOQ29EoOBQHMsA==;3pMykUQ2B9WNFNZQ3nGYQA=="
 ---

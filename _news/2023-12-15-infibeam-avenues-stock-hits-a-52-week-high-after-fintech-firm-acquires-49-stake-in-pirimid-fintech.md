@@ -68,26 +68,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Infibeam Avenues Acquires 49% Stake In Pirimid Fintech To Foray Into Capital Markets Space"
-    excerpt: "Fintech company Infibeam Avenues has bought a 49% stake in Ahmedabad-based Pirimid Fintech for INR 25 Cr ($3 Mn) to strengthen its foothold in the fintech ecosystem."
-    publishedDateTime: 2023-12-14T15:49:00Z
-    webUrl: "https://inc42.com/buzz/infibeam-avenues-acquires-49-stake-in-pirimid-fintech-to-foray-into-capital-markets-space/"
-    ampWebUrl: "https://inc42.com/buzz/infibeam-avenues-acquires-49-stake-in-pirimid-fintech-to-foray-into-capital-markets-space/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/infibeam-avenues-acquires-49-stake-in-pirimid-fintech-to-foray-into-capital-markets-space/amp/"
-    type: article
-    provider:
-      name: inc42
-      domain: inc42.com
-    quality: 14
-  - title: "Infibeam Avenues acquires 49% stake in capital markets software provider Pirimid Fintech"
-    excerpt: "With the stake acquisition, Infibeam is looking to integrate its digital payments framework with Pirimid Fintech's capital market trading software for clients in India and globally."
-    publishedDateTime: 2023-12-14T13:54:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/startups/infibeam-avenues-acquires-49-stake-in-capital-markets-software-provider-pirimid-fintech/articleshow/105997286.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 0
 
 secured: "fcV1UaFK8DbekzCjfCYf6zdVeiER22w/RSnOhBU/uMw1GZtP6ZNBEeQe/jIh2y/cGA7kT3kMc3M+ZecZ2e5USE3eQxD6UZ/4sjsOrSwHYuQTPCwDSezmTaM3uYeQzQ/ErBL/LV1NuCt9k6YtJ/rdOQBeaE0OXTu1MQ/Ps7qRljiU3equZMh4DcGMrDiQIoQtBe+BtdzHv65dcd7IHPbJLJeQ29AI/xV1vuWPriitblNA9u3nRcu9VnNYdlvO/N2E690HiIjNA6edfl6oD85PPlZcwnqOaho16xEiztK/u2IpS/XZlNPnorrKkkZ2T/0Lp4cLQ9/plQxJwbo5gdSSHHN9eed5OvAGM4ofvERywy3+JVEgTh+zsrgyiJtb3hyxGg8FzrUh/v5ujhLHJKlfHHIe0lCTScv2bm6exagUwSM2xl3zOdIkhA8tXjDVlLO4KUmEjYkUVo+NvczcurPaUDsBErUlEnicHye9WrzKcT3NMcG0dWcwDB1TR7eSCaAcCdLqme2FOZyCLKtlk11ZWA==;3AJWiaUgv1bcHBeEluzqpA=="
 ---

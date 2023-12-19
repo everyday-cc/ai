@@ -72,6 +72,15 @@ related:
         width: 1067
         height: 800
         isCached: true
+  - title: "Meet The AI That Will Beat You At Physical Challenges As Well As Mind Games"
+    excerpt: "CyberRunner, an AI-powered robot, can learn how to accomplish challenging physical tasks more quickly than humans, and then perform them to a higher standard"
+    publishedDateTime: 2023-12-19T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/davidprosser/2023/12/19/meet-the-ai-that-will-beat-you-at-physical-challenges-as-well-as-mind-games/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "5 questions about artificial intelligence, answered"
     excerpt: "Artificial intelligence is one of the most incredible tools mankind has ever created. It’s also one of the most controversial. Some of AI’s pioneering researchers and developers think that, without proper management,"
     publishedDateTime: 2023-12-18T05:00:00Z

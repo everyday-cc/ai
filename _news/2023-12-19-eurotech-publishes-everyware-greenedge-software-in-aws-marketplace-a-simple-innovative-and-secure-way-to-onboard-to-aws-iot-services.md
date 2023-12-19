@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Eurotech publishes Everyware GreenEdge software in AWS Marketplace: a simple, innovative, and secure way to onboard to AWS IoT services"
-excerpt: "Eurotech, a provider of Edge Artificial Intelligence of Things (AIoT) technologies, is proud to introduce Everyware GreenEdge - a"
-publishedDateTime: 2023-12-19T07:45:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/eurotech-publishes-everyware-greenedge-software-in-aws-marketplace-a-simple-innovative-and-secure-way-to-onboard-to-aws-iot-services-302018177.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/eurotech-publishes-everyware-greenedge-software-in-aws-marketplace-a-simple-innovative-and-secure-way-to-onboard-to-aws-iot-services-302018177.html"
+excerpt: "In addition to its technical advantages, Everyware GreenEdge comes with a unified billing system for all software and services related costs in Amazon Marketplace. This streamlines the procurement process, making it easier for customers to access and manage the solution while also benefiting from AWS's trusted billing infrastructure."
+publishedDateTime: 2023-12-19T07:54:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2023/12/19/9936028.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2023/12/19/9936028.htm"
 type: article
-quality: 7
-heat: 7
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1897403/Eurotech_Logo.jpg?p=facebook"
-    width: 1726
-    height: 904
-    isCached: true
-
-secured: "uSJtlWtEs3ZjVLNMxbL2qv4SOxHiAwAjQFbyzMaDNVNUmuWvIwJ/uVTZhDl69XAKVLlNUYd40ImbUVOTW+HB8azQJqSR6ST0Q841psG0izwT0n6M8DJyTnzc8vDhDE8/Y4mvWkKvsdRnPozSKfgjVYAs7C8t2I7jEtzDMecrkvIreYDgye5+Q44PvYiM/cLON2e6IcW6co3xJi9G5K2z6kEpLEo3xl4YUX6AMhfZwLiqiSsJQFYGQ7ZGKKECsu1yv6ESsflSrawEjGXlcx/iyaGe7JjNjVV8EdnWCol1MLdgw925xnwrGeE5o+vP6w2GcsrSNISGXLfgTAADFI0q5pfeZx97f2r0AOSUoDs8R1M=;Iqi8MUniCfygcjrKc3MQ0A=="
+secured: "0PNmL+F0zaZ7fjzGU/3K63MEnYB+XHTxsEHISmm8e4U09ATJIb53og4Kzc2XgTGEpmjZ3txP8g1kiut20RQZe6QsAvgkMpgJ/mEoDAeWq9PC+KTGbGBKyCRGYUW1EYmE2FkWw4BslTiNYYqwFMe3Ww7hNvsFvl1MUTwMWkbRJpncJveT5ci/BaKDPDB6FERgWA2uUJQ7RN/i5CcEl1E7YwT/41B+ncXUa52GvSsKECkjaW915EoLc6w7ubHG8FnCr1l5Z6XJARaxCxUm6yMu4/tHHXwGFRe/Ryb2DkzDPH8JPgDThXCH9n8taeFE9Fmc3R07BQMsL114Jm877/DHzy5MSNK+F+BZouqs1Ix+okQ=;sBSMcpz0Zpto4FURFx7cXg=="
 ---
 

@@ -49,15 +49,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "How AI could change trucking in 2024"
-    excerpt: "Samsara CIO Stephen Franchetti told FleetOwner: \"As the AI explosion continues, an organization's ability to stay competitive and innovate will come down to their enterprise data strategy. We'll start to see an increased need for a robust foundation of ..."
-    publishedDateTime: 2023-12-14T14:43:00Z
-    webUrl: "https://www.fleetowner.com/technology/article/21279287/how-ai-could-change-trucking-in-2024"
+  - title: "Top AI Trends That Will Impact Businesses in 2024"
+    excerpt: "In 2024, AI will expand beyond mere automation, entering areas such as explainable AI, responsible AI, and enhanced human-machine collaboration. Businesses should adapt quickly to use this trend for strategic decision-making, operational efficiency, and  customer-focused innovation."
+    publishedDateTime: 2023-12-19T13:03:00Z
+    webUrl: "https://www.finextra.com/blogposting/25421/top-ai-trends-that-will-impact-businesses-in-2024"
     type: article
     provider:
-      name: Fleet Owner
-      domain: fleetowner.com
-    quality: 17
+      name: Finextra
+      domain: finextra.com
+    quality: 19
 
 secured: "CLD2Lm79Eneyx2d0cAT8Ur3lPhvL3ZDJ7WhUJ062Tix8WiAuwapQqlxXkM1SNV9TU6YMCQojFHPMsfBYJTy/ePx7qdfY5Hza+IrTwp5OfLbO6qU0fouQDWKcXls2j5+QEYWQ7jKsBYws/fFjXVO6NHojzg5b5nZDZwWtiM3/PT8fd8rUX1rXO+pBxGX3KdMnaQ2p1lEdK8Mu6fB4XwdPFXSKY+LFSa68aiUUASZYUDy5RPYWpvNDqfy+UMg8aTM1Fssz3bjKWPoD8GgF4j0uHCqGhY4Sd2UAhAxC8qziUiWZfDH/wXXVY+DrXFTGElC57L1N9G3XYbFDnbS4emYu51ad6PS03LxT02UsRyyeD0hjRZbyXXzqKIEVlRGXN6SjrI3oClnge0NNh2qrFATfO6pOy9/7E8bglnxIX2/z0f4fQ4nlfI68bCdl/efCxnnCWk5TC/AujVfQTufKrf9LoV0/nFqGndH7JuQkFYE9Xfhlna1RgjWtTzkF7EdhiqH+L9NxXq9Uomm6QGibxTzV/A==;GaGJ5S0oAVWeh0BMvqrd5g=="
 ---

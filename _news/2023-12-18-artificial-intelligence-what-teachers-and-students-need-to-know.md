@@ -9,7 +9,7 @@ ampWebUrl: "https://thenationonlineng.net/artificial-intelligence-what-teachers-
 cdnAmpWebUrl: "https://thenationonlineng-net.cdn.ampproject.org/c/s/thenationonlineng.net/artificial-intelligence-what-teachers-and-students-need-to-know/amp/"
 type: article
 quality: 61
-heat: 65
+heat: 61
 published: false
 
 provider:

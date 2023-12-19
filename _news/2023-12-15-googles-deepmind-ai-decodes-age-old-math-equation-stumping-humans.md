@@ -48,38 +48,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Google DeepMind used a large language model to solve an unsolved math problem"
-    excerpt: "They had to throw away most of what it produced but there was gold among the garbage."
-    publishedDateTime: 2023-12-14T16:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/12/14/1085318/google-deepmind-large-language-model-solve-unsolvable-math-problem-cap-set/"
-    ampWebUrl: "https://www.technologyreview.com/2023/12/14/1085318/google-deepmind-large-language-model-solve-unsolvable-math-problem-cap-set/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/14/1085318/google-deepmind-large-language-model-solve-unsolvable-math-problem-cap-set/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 73
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/12/llm-math1r.jpg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
-  - title: "Google DeepMind used a large language model to solve an unsolvable math problem"
-    excerpt: "They had to throw away most of what it produced but there was gold among the garbage."
-    publishedDateTime: 2023-12-14T16:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/12/14/1085318/google-deepmind-large-language-model-solve-unsolvable-math-problem-cap-set/"
-    ampWebUrl: "https://www.technologyreview.com/2023/12/14/1085318/google-deepmind-large-language-model-solve-unsolvable-math-problem-cap-set/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/14/1085318/google-deepmind-large-language-model-solve-unsolvable-math-problem-cap-set/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 72
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/12/llm-math1r.jpg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
   - title: "DeepMind Says Its AI Solved a Math Problem That Humans Were Stumped By"
     excerpt: "DeepMind claims that for the first time, an AI has solved a famously difficult math problem with a solution that eluded human mathematicians — which could be huge if it holds up to scrutiny."
     publishedDateTime: 2023-12-16T13:41:00Z

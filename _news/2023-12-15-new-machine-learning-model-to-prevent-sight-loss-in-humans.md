@@ -42,15 +42,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "New machine learning model to prevent sight loss in humans"
-    excerpt: "Japanese researchers have developed models based on machine learning that predict the risk of visual impairment in patients with high myopia — one of the top three causes of irreversible blindness in many regions of the world."
-    publishedDateTime: 2023-12-14T14:22:00Z
-    webUrl: "https://www.canindia.com/new-machine-learning-model-to-prevent-sight-loss-in-humans-2/"
-    type: article
-    provider:
-      name: Canindia.com
-      domain: canindia.com
-    quality: 19
 
 secured: "/2AtuPO2yt3MQ7p3NUvtOHSP47evDvCYk1/DeFWr1iG1WefNkoMprH7groiKBcvXVHxq8RiRYwu53GUie2vvt7kGMMtpzA6M3EzyOfANp2sld7KIN7LBswhI+JyXC804zOIVkjzUrieERNF7r8FJcfjWhr/ebpfArTR/JHI5WWIYOLg5zmDXr8kkMMa+K6OpzL3wCTHJxmFbehv+HLo7H7l6lxS/oJulUmXSnRNd4CbWnYD7SQQnacv1CeusfV5/QtYlnzT3bRqx0h884IOGsEeikzTAntxtP7LMr+0vS8jOwnBGxBQQFZrpoupJ0oCM1TbPs96agSAqmr23dYbgLu1B/O3CCU000/BREUWs4JQ=;28hQNwJnl6PUeRoP/+sLYA=="
 ---

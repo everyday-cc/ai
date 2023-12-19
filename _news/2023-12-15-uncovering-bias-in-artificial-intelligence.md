@@ -18,52 +18,114 @@ topics:
   - AI
 
 related:
-  - title: "Multilingual AI: Bridging The Language Gap In Document Processing"
-    excerpt: "Also, translation takes a lot of time. An AI system's ability to comprehend and decode information directly in the native language is paramount for accurate and meaningful processing. AI can ..."
-    publishedDateTime: 2023-12-15T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/15/multilingual-ai-bridging-the-language-gap-in-document-processing/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/15/multilingual-ai-bridging-the-language-gap-in-document-processing/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/15/multilingual-ai-bridging-the-language-gap-in-document-processing/amp/"
+  - title: "How Generative AI is Reshaping Banking & Finance in India"
+    excerpt: "The finance sector's initial reluctance to adopt generative AI is because of regulatory scrutiny, data privacy, security, compliance, and industry risk aversion, but now it is slowly changing,” Ashish Vora,"
+    publishedDateTime: 2023-12-18T05:31:00Z
+    webUrl: "https://analyticsindiamag.com/how-generative-ai-is-reshaping-banking-finance-in-india/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 69
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/657b4e1d706a16d9830e3cba/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1242
-        height: 900
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/12/s-1.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "AI or not to AI: How artificial intelligence is changing the industry"
-    excerpt: "One of the most profound statements that I’ve ever heard on artificial intelligence was presented in the form of a joke. It was delivered decades ago by an English Lit professor of mine who taught classes both on John Milton and on science fiction and fantasy literature."
-    publishedDateTime: 2023-12-18T18:25:00Z
-    webUrl: "https://www.plantservices.com/technology/artificial-intelligence/article/33016391/ai-or-not-to-ai-how-artificial-intelligence-is-changing-the-industry"
+  - title: "AI integration in everyday life: How artificial intelligence is reshaping consumer electronics"
+    excerpt: "One of the most noticeable impacts of AI in consumer electronics is the integration of virtual assistants like Siri, Alexa, and Google Assistant. These AI-powered companions have made it incredibly convenient to control various devices through simple voice commands."
+    publishedDateTime: 2023-12-16T12:00:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-ai-integration-in-everyday-life-how-artificial-intelligence-is-reshaping-consumer-electronics-3339636/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ai-integration-in-everyday-life-how-artificial-intelligence-is-reshaping-consumer-electronics-3339636/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-integration-in-everyday-life-how-artificial-intelligence-is-reshaping-consumer-electronics-3339636/lite/"
     type: article
     provider:
-      name: Plant Services
-      domain: plantservices.com
-    quality: 54
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 62
     images:
-      - url: "https://img.plantservices.com/files/base/ebm/plantservices/image/2023/12/657b45e23fa0aa001efeca59-ai_or_not_to_ai_how_artificial_intelligence_is_cha.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Ola CEO Bhavish Agarwal’s AI startup is building a multilingual Large Language Model"
-    excerpt: "Ola CEO Bhavish Agarwal’s AI startup is working on a multilingual AI model called Krutrim that will be released next year."
-    publishedDateTime: 2023-12-19T06:15:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/ola-ceo-bhavish-agarwals-ai-startup-is-building-a-multilingual-large-language-model/article67653161.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/ola-ceo-bhavish-agarwals-ai-startup-is-building-a-multilingual-large-language-model/article67653161.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/ola-ceo-bhavish-agarwals-ai-startup-is-building-a-multilingual-large-language-model/article67653161.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 50
-    images:
-      - url: "https://th-i.thgim.com/public/incoming/y26742/article67653159.ece/alternates/FREE_1200/MAHINDRAOLA.jpg"
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/12/Untitled-design-2023-12-15T150012.911.jpg"
         width: 1200
         height: 675
         isCached: true
+  - title: "Facebook whistleblower docs: How AI is hurting India – and Indians"
+    excerpt: "Users need to understand that since many platforms are developed outside of India, their preparedness to understand and manage nuances of language, culture, and regions fall short. Engineers are playi"
+    publishedDateTime: 2023-12-18T08:52:00Z
+    webUrl: "https://indianexpress.com/article/opinion/columns/facebook-whistleblower-docs-artificial-intelligence-india-9072751/"
+    ampWebUrl: "https://indianexpress.com/article/opinion/columns/facebook-whistleblower-docs-artificial-intelligence-india-9072751/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/opinion/columns/facebook-whistleblower-docs-artificial-intelligence-india-9072751/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 61
+    images:
+      - url: "https://images.indianexpress.com/2023/12/artificial.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Huawei Cloud and Pangu AI model reshaping finance industry"
+    excerpt: "Huawei Cloud is helping to transform the finance industry with powerful AI model Pangu and Everything as a Service smart solutions"
+    publishedDateTime: 2023-12-19T07:15:00Z
+    webUrl: "https://fintechmagazine.com/tech-ai/huawei-cloud-and-pangu-ai-model-reshaping-finance-industry"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 54
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/7655ab029d6a7bb14a14eb6b5e035cd9:194b6a8ee3bcce0296c82be369f226dc/20231219-090709-welinkpc.JPG.jpg"
+        width: 1200
+        height: 629
+        isCached: true
+  - title: "Appvance unleashes AIQ 5.0, featuring Generative AI V3"
+    excerpt: "Appvance, the leader in generative AI for software quality, is excited to announce the launch of Appvance IQ (AIQ) 5.0, a groundbreaking"
+    publishedDateTime: 2023-12-19T09:06:00Z
+    webUrl: "https://www.valdostadailytimes.com/ap/business/appvance-unleashes-aiq-5-0-featuring-generative-ai-v3/article_5983c873-3d60-523f-bd8b-e632a27d4f32.html"
+    type: article
+    provider:
+      name: The Valdosta Daily Times
+      domain: valdostadailytimes.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Spacenet Enterprises India Ltd Accelerates Global Trade with Rs 99.55 Crore Investment in Fintech and AI Innovations"
+    excerpt: "This investment, led by VIKASA India EIF I Fund with a substantial Rs 50 crore at Rs 26 per share, demonstrates robust investor confidence and a shared vision for the future of digital trade., Technology & Science News,"
+    publishedDateTime: 2023-12-18T09:05:00Z
+    webUrl: "https://www.timesnownews.com/technology-science/spacenet-enterprises-india-ltd-accelerates-global-trade-with-rs-99-55-crore-investment-in-fintech-and-ai-innovations-article-106086365"
+    ampWebUrl: "https://www.timesnownews.com/technology-science/spacenet-enterprises-india-ltd-accelerates-global-trade-with-rs-99-55-crore-investment-in-fintech-and-ai-innovations-article-106086365/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/spacenet-enterprises-india-ltd-accelerates-global-trade-with-rs-99-55-crore-investment-in-fintech-and-ai-innovations-article-106086365/amp"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 36
+    images:
+      - url: "https://static.tnn.in/thumb/msid-106086427,thumbsize-47144,width-1280,height-720,resizemode-75/106086427.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Manufacturing CEOs Are Stepping Into 2024 Embracing AI, Accelerating Reshoring And Investing In High-Tech Talent"
+    excerpt: "Drawn From A Year’s Worth Of Proprietary Polling, Xometry’s 2024 Predictions Show An Industry Embracing High-Tech Tools And Talent To Navigate A"
+    publishedDateTime: 2023-12-19T14:07:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/manufacturing-ceos-are-stepping-into-2024-embracing-ai-accelerating-reshoring-and-investing-in-high-tech-talent-1032912359"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 28
+  - title: "Generative AI, Cloud And Startups: A Power Trio Redefining India’s Techscape!"
+    excerpt: "Explore how generative AI, cloud technology and startups are redefining India's tech landscape in this roundtable by Inc42 and Google Cloud."
+    publishedDateTime: 2023-12-16T11:45:00Z
+    webUrl: "https://inc42.com/videos/generative-ai-cloud-and-startups-a-power-trio-redefining-indias-techscape/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 14
 
 secured: "fb4RutmOtQp+s89YwMpzZxl4buJoJBasQDsJzKX+cAXw9cBHpTLR2cxsbyqWMMNVrUi4+0/2GdGWp8XLp6eocjoDzE8aVo3z2kg1uL7CQKDb6VPdhBOlLKstP0DFWkSn77+45S7209HvKyXzedoNvVSwUn84cpe9Xy+e2qHgKxwzCNP0rz/uNlt6Gf5r/OCxv+f9C9dzksBNrQtYSupoLeveUNQIq7dMT4sqMXR/2Jec8QvK2HUEc+dvNN542k0SOtrthgkV1bXHtuMYVfaQ37Ae5buBWcWi77uRKXrKjMlEsXj6NK2OGdeEUFc9K27khKeOQ4DVNhi15j+plJTBFHMNSwbB2tNwaT/JpKSCzgi8/VHenWBzxJ+GHK8tT20rUwAFvVshuM9CmuDryRSi3dKTGflxFhJxz8RP/877dwmmIEp4VexQ2OLYcw9+RFsSDO2jQwtR2AZ+je+aIWludt/D3aB5a45vRcBSFOpW0YGW4SXjg3TH73irJKcvgFuS//y27bJrZqafbW37wqqHzg==;DBug7B1/zuYwdEV2GohBWQ=="
 ---

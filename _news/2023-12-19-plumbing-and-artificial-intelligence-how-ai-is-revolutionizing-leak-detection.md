@@ -98,15 +98,6 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "The Dawn Of AI Disruption: How 2024 Marks A New Era In Innovation"
-    excerpt: "On the computing front, more advanced AI chips and dedicated hardware infrastructure will enable running sophisticated generative models at the edge - built for efficiency without compromising capability. This will exponentially expand smaller ..."
-    publishedDateTime: 2023-12-14T14:46:00Z
-    webUrl: "https://www.forbes.com/sites/markminevich/2023/12/14/the-dawn-of-ai-disruption-how-2024-marks-a-new-era-in-innovation/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "Implementing AI technology in business education"
     excerpt: "With that idea in mind, I want to share my experiences and those of my colleagues here at Gies College of Business at the University of Illinois Urbana–Champaign . Our approach to adopting artificial intelligence (AI) illustrates how we can embrace new technologies and prepare students for what they will encounter in their future careers."
     publishedDateTime: 2023-12-18T10:00:00Z

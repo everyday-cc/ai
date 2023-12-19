@@ -41,15 +41,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "2024’s Key Opportunities: AI, Flexibility, Wellbeing & Personalization"
-    excerpt: "AI, flexible work, wellbeing, personalization – these innovative trends are sweeping through organizations still recovering from the last set of disruptions. Those with a thriving, human-centric culture will embrace them to adapt and grow and thrive."
-    publishedDateTime: 2023-12-14T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/ericmosley/2023/12/14/2024s-key-opportunities-ai-flexibility-wellbeing--personalization/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "3 essential considerations for generative AI on campus"
     excerpt: "Generative AI on campus was everywhere at EDUCAUSE--and with it, concerns about its place in classrooms and university processes."
     publishedDateTime: 2023-12-18T10:00:00Z

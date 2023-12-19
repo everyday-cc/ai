@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft is a leader in the 2023 IDC MarketScape for AI Governance Platforms"
-    excerpt: "We are excited to announce that Microsoft Azure is recognized as a leader in the inaugural IDC MarketScape for AI Governance Platforms. IDC looked at AI governance platforms that ensure AI and machine learning lifecycle governance, collaborative risk management, and regulatory excellence for AI.\nThe"
-    publishedDateTime: 2023-12-14T17:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/microsoft-is-a-leader-in-the-2023-idc-marketscape-for-ai-governance-platforms/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 101
-    images:
-      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/12/MS_AI_Education-social.jpg"
-        width: 943
-        height: 628
-        isCached: true
   - title: "Microsoft Cloud for Sovereignty now available across all Azure regions"
     excerpt: "The Microsoft Cloud for Sovereignty service is now available across all Azure regions. The company said governments across the world will now be able to use Microsoft Cloud across more than 60 Azure cloud regions while meeting individual compliance, security, and policy requirements."
     publishedDateTime: 2023-12-15T17:39:00Z
@@ -53,62 +39,42 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Dell, Microsoft, Lenovo Laptops to Soon Feature Intel’s New Chip with Built-in AI Capabilities"
-    excerpt: "Intel, a leading technology company, announced Thursday that numerous personal computer manufacturers are utilizing their latest chip. This strategic move aims to entice consumers to upgrade their machines for the dawn"
-    publishedDateTime: 2023-12-15T09:10:00Z
-    webUrl: "https://www.econotimes.com/Dell-Microsoft-Lenovo-Laptops-to-Soon-Feature-Intels-New-Chip-with-Built-in-AI-Capabilities-1668035"
+  - title: "Microsoft unveils powerful AI 'Compact Language Model' tailored for research applications"
+    excerpt: "Our line of work with the Phi models aims to answer this question by training SLMs that achieve performance on par with models of much higher scale (yet still far from the frontier models).”"
+    publishedDateTime: 2023-12-17T09:21:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news/microsoft-unveils-powerful-ai-compact-language-model-tailored-for-research-applications-2023-12-17-907665"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/microsoft-unveils-powerful-ai-compact-language-model-tailored-for-research-applications-2023-12-17-907665"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/microsoft-unveils-powerful-ai-compact-language-model-tailored-for-research-applications-2023-12-17-907665"
     type: article
     provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 59
+      name: India TV
+      domain: indiatvnews.com
+    quality: 67
     images:
-      - url: "https://f1.econotimes.com/2023/12/p6j30bp4cg_th_1024x0.jpeg"
-        width: 1024
-        height: 614
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/12/microsoft-may-bring-its-own-ai-chips-to-compete-with-nvidia-1702804833.jpg"
+        width: 360
+        height: 202
         isCached: true
-  - title: "Microsoft Launches Robust AI 'Small Language Model' For Researchers"
-    excerpt: "Microsoft has released its newest compact“small language model” titled Phi-2 that continues to perform at par or better than"
-    publishedDateTime: 2023-12-17T08:09:00Z
-    webUrl: "https://menafn.com/1107609442/Microsoft-Launches-Robust-AI-Small-Language-Model-For-Researchers"
+  - title: "Microsoft's new Windows AI Studio developer tool... makes you install Linux to use it"
+    excerpt: "Windows AI Studio, a new developer tool designed to help programmers integrate generative AI into apps, only works on Linux, the company has revealed. Specifically, it requires Ubuntu 18.04 Bionic Beaver or later, an LTS Linux distro that was first made available in April 2018."
+    publishedDateTime: 2023-12-19T14:50:00Z
+    webUrl: "https://www.techradar.com/pro/microsofts-new-windows-ai-studio-developer-tool-makes-you-install-linux-to-use-it"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 56
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?537922"
-        width: 419
-        height: 250
-        isCached: true
-  - title: "AFL-CIO and Microsoft Announce New Tech-Labor Partnership on AI and the Future of the Workforce"
-    excerpt: "This collaboration will start this winter and take the form of Microsoft hosted labor summits. The partners will bring labor leaders and workers together with Microsoft's key AI product developers, researchers and business leaders for intensive discussions ..."
-    publishedDateTime: 2023-12-18T16:20:00Z
-    webUrl: "https://www.contractormag.com/technology/article/21279485/afl-cio-and-microsoft-announce-new-tech-labor-partnership-on-ai-and-the-future-of-the-workforce"
+      name: TechRadar
+      domain: techradar.com
+    quality: 57
+  - title: "LTIMindtree collaborates with Microsoft for AI-powered applications"
+    excerpt: "LTIMindtree and Microsoft collaborate to introduce AI-powered Employee Engagement Applications. It will use Microsoft Azure OpenAI Service and Azure Cognitive Search to enable AI-led capabilities, including content summarisation,"
+    publishedDateTime: 2023-12-19T09:51:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/ltimindtree-collaborates-with-microsoft-for-ai-powered-applications/article67653699.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/ltimindtree-collaborates-with-microsoft-for-ai-powered-applications/article67653699.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/ltimindtree-collaborates-with-microsoft-for-ai-powered-applications/article67653699.ece/amp/"
     type: article
     provider:
-      name: CONTRACTOR
-      domain: contractormag.com
-    quality: 42
-    images:
-      - url: "https://img.contractormag.com/files/base/ebm/contractormag/image/2023/12/65806d0a72ae3d001e84df07-aflciologowhitetag1200x630.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Achieving cross-border data protection with Microsoft Cloud for Sovereignty"
-    excerpt: "Organisations are paying for their data protection mistakes. Failure to comply with the European Union (EU)’s General Data Protection Regulation (GDPR), for example, can result in fines of up to €20.3 million ($22."
-    publishedDateTime: 2023-12-15T16:08:00Z
-    webUrl: "https://www.technologyrecord.com/article/achieving-cross-border-data-protection-with-microsoft-cloud-for-sovereignty"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 37
-    images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4758/Cross-border-protection-cover-story-975x548.jpg"
-        width: 975
-        height: 548
-        isCached: true
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 54
   - title: "Microsoft Only Cloud Giant 'Leader' in AI Governance Research Report"
     excerpt: "In fact, among the largest general cloud computing platforms, IBM is the only other player covered in the 'IDC MarketScape: Worldwide AI Governance Platforms 2023 Vendor Assessment,' with fellow hyperscalers AWS and Google Cloud Platform not included."
     publishedDateTime: 2023-12-18T19:52:00Z
@@ -118,7 +84,16 @@ related:
       name: Virtualization Review
       domain: virtualizationreview.com
     quality: 34
+  - title: "Ooredoo reshapes region’s digital landscape with successful RISE with SAP migration to Microsoft Azure in Qatar"
+    excerpt: "Doha, Qatar: In a groundbreaking move set to redefine the digital landscape in the region, Ooredoo Group today announced the successful migration of its cloud ERP landscape, RISE with SAP, from Amsterdam to Microsoft cloud datacenter region in Qatar."
+    publishedDateTime: 2023-12-19T13:16:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/ooredoo-reshapes-regions-digital-landscape-with-successful-rise-with-sap-migration-to-microsoft-azure-in-qatar-e8afk723"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 14
 
-secured: "jNi44i1KGNq3kvy7DBeJuShSTmkkbUBdYZQ+bkz5bUabxMePvpAs1beDmKowwiU/s24eZBnZ+BnCeNSDlUKcDNSvlvYbUVHzZEn+7oud7SZfc6B9IFSyo9c7UwZNssTQER+PAhbFpd7hehIn9/M8dtKpQG34ZsWHkKan9SxpeggxKN0tyuTs8wjrlwJX/wfCbwQSKmiPHxZgIXF8upIwyyFoHJRUuy4coEoPdNlgBDyIlPUK6BBvLPVop8rQHXVYXTIm/e/bXiozC0S8EkHEcjQ2t04JE9/yh42PVGz5CURj3oXCAMeFhTR1JxNF0ODEgKuk9Enr5in2Et3WteXByD4/QLwFKol67TJ6sY1IW5s=;e61lxH1FupvQ03vgcub4dA=="
+secured: "X1NMVM8iXNxuAuTxezs5ZfrFq/B+idJplAjoW+H6FUHxm/+hyeuUpUmGZXG6jkZ3EeG7gD7Jstw9A098W7SURg1cSas5eVCDkmh5wLkvuAxJ/bPcPq7LjPo45hXgcKpEevjwl3Yjr1HcLEM40tlxJfEYc2XrFmbnNurg79fcXTgrvyQiDvkGlfrSCeRP8OSFCQFMa2oE8aJlrP1sDQFG9Q8cGZWENrytZITMlXk5jd1bTMVtQPh7WHQKe836Gymvo6hLd8WoXxH9/arrugK2jiz1d8mZY8H0kNUHarcV7Ic3v+RvVtwmZmIGkoDBnN1v0AnhrrU3IFTZj7yQNsXRo5hJhbXkTZhPaYeW5jFt7oqQw173xOCbQeNiAq52IQo/D8twSZfoK1Ij7Abnb8lygMZHafQkwGhff7esq+9jmYM24+zZjjSFFwPp6x0p0pjPIVl4++gdmD++LSJ3i0JMhepVd3fRaiXVOW4HbcJfS2hg/+z37Zam7/5dxasTW4nX21YzE0PjfFzYs/zUrksVqg==;yuKx0AX4S0qBNmXN9LAb+w=="
 ---
 

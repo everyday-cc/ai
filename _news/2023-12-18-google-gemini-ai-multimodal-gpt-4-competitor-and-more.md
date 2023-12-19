@@ -130,15 +130,6 @@ related:
         width: 1280
         height: 721
         isCached: true
-  - title: "Google Gemini AI tools now available for developers and businesses"
-    excerpt: "As well as making their new Gemini API available for developers and enterprise users to harness the power of artificial intelligence in custom AI models,"
-    publishedDateTime: 2023-12-14T14:10:00Z
-    webUrl: "https://www.geeky-gadgets.com/google-gemini-ai-tools/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 19
   - title: "Google Bard Meets the Latest Language Model, Gemini"
     excerpt: "Gemini, the latest language model of Google and DeepMind is being used by Google Bard, an AI chatbot of Google."
     publishedDateTime: 2023-12-14T17:06:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2023-12-ai-generates-proteins-exceptional-stre
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-12-ai-generates-proteins-exceptional-strengths.amp"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Improve your Stable Diffusion prompts with Retrieval Augmented Generation"
-    excerpt: "Text-to-image generation is a rapidly growing field of artificial intelligence with applications in a variety of areas, such as media and entertainment, gaming, ecommerce product visualization, advertising and marketing, architectural design and visualization, artistic creations, and medical imaging."
-    publishedDateTime: 2023-12-14T16:45:13Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/improve-your-stable-diffusion-prompts-with-retrieval-augmented-generation/"
+  - title: "Deep learning designs high-affinity protein binders for bioactive helical peptides"
+    excerpt: "A new study Dec. 18 in Nature reports an AI-driven advance in biotechnology with implications for drug development, disease detection, and environmental monitoring."
+    publishedDateTime: 2023-12-19T06:35:00Z
+    webUrl: "https://www.news-medical.net/news/20231218/Deep-learning-designs-high-affinity-protein-binders-for-bioactive-helical-peptides.aspx"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 73
+      name: News Medical
+      domain: news-medical.net
+    quality: 33
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/26/ML-15732-image001-1260x455.png"
-        width: 1260
-        height: 455
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
 
 secured: "gsIu5XjS6sXymLpJv9pFPqrkTa+IYytr+UR1X0QJnLXYXaGrCwUjIZ+KNAf6pSIzjMM5JGNgX90JIO3jX2annL2EOqm+doHdRDnKh7npzL0+ZrOvZa02/X8c1I8cooouo/LB6mFSKH5ax2b2ktg1dyR2KZLGT2xlZAG6KegU1vd33Mzk4Azd2oobznc85JvUGj6pF4caBkWSR52/nDc4wcFONJnugRVDIkl/IIr8TIJeXTYQpDVfhV31CnpQd1ApVv5e+6XZbneC+Aq8sjqqmoOFxm514ODDpoWmoHfesZrUpVItACJmMvL6HmMwvBMjYr/PX3DJufhtKdLFBYxHtGhs/n8ZzKGwekH462Aw00c=;VZvVkteiaj48O/C2D2VMug=="

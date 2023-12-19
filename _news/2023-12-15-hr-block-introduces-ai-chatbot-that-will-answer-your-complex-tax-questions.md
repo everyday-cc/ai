@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/h-r-block-introduces-ai-cha
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/h-r-block-introduces-ai-chatbot-that-will-answer-your-complex-tax-questions/"
 type: article
 quality: 85
-heat: 155
+heat: 165
 published: true
 
 provider:
@@ -74,6 +74,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Meet The AI That Will Beat You At Physical Challenges As Well As Mind Games"
+    excerpt: "CyberRunner, an AI-powered robot, can learn how to accomplish challenging physical tasks more quickly than humans, and then perform them to a higher standard"
+    publishedDateTime: 2023-12-19T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/davidprosser/2023/12/19/meet-the-ai-that-will-beat-you-at-physical-challenges-as-well-as-mind-games/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "5 questions about artificial intelligence, answered"
     excerpt: "Artificial intelligence is one of the most incredible tools mankind has ever created. It’s also one of the most controversial. Some of AI’s pioneering researchers and developers think that, without proper management,"
     publishedDateTime: 2023-12-18T05:00:00Z

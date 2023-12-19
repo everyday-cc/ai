@@ -46,22 +46,6 @@ related:
         width: 1262
         height: 710
         isCached: true
-  - title: "Overhyped? Digital Health Executive Anti-Predictions For Healthcare In 2024"
-    excerpt: "Will General Catalyst’s plans for health system acquisition come to fruition in 2024? Will GenAI live up to its hype as healthcare’s ultimate complexity liberator?"
-    publishedDateTime: 2023-12-14T15:06:00Z
-    webUrl: "https://www.forbes.com/sites/sethjoseph/2023/12/14/overhyped-digital-health-executive-anti-predictions-for-healthcare-in-2024/"
-    ampWebUrl: "https://www.forbes.com/sites/sethjoseph/2023/12/14/overhyped-digital-health-executive-anti-predictions-for-healthcare-in-2024/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sethjoseph/2023/12/14/overhyped-digital-health-executive-anti-predictions-for-healthcare-in-2024/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/657afb952417cb668643d77c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 919
-        height: 900
-        isCached: true
   - title: "Navigating AI in Healthcare: Dr. Donald Macfarlane's Warning on AI-Driven Medical Note-Taking"
     excerpt: "Dr. Donald Macfarlane warns against the use of AI-driven tools in medical note-taking due to fabrications that will negatively impact patient"
     publishedDateTime: 2023-12-15T18:11:00Z

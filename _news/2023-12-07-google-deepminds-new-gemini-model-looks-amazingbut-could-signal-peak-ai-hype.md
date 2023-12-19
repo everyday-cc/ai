@@ -1,12 +1,10 @@
 ---
 category: news
 title: "Google DeepMind’s new Gemini model looks amazing—but could signal peak AI hype"
-excerpt: "Hype about Gemini, Google DeepMind’s long-rumored response to OpenAI’s GPT-4, has been building for months. Today the company finally revealed what it has been working on in s"
+excerpt: "Gemini is Google’s biggest AI launch yet—its push to take on competitors OpenAI and Microsoft in the race for AI supremacy. There is no doubt that the model is pitched as best-in-class across a wide range of capabilities—an “everything machine,” as one observer puts it."
 publishedDateTime: 2023-12-06T18:07:00Z
-originalUrl: "https://www.technologyreview.com/2023/12/06/1084471/google-deepminds-new-gemini-model-looks-amazing-but-could-signal-peak-ai-hype/amp?trk=public_post_comment-text"
-webUrl: "https://www.technologyreview.com/2023/12/06/1084471/google-deepminds-new-gemini-model-looks-amazing-but-could-signal-peak-ai-hype/amp?trk=public_post_comment-text"
-ampWebUrl: "https://www.technologyreview.com/2023/12/06/1084471/google-deepminds-new-gemini-model-looks-amazing-but-could-signal-peak-ai-hype/amp?trk=public_post_comment-text"
-cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/06/1084471/google-deepminds-new-gemini-model-looks-amazing-but-could-signal-peak-ai-hype/amp?trk=public_post_comment-text"
+originalUrl: "https://www.technologyreview.com/2023/12/06/1084471/google-deepminds-new-gemini-model-looks-amazing-but-could-signal-peak-ai-hype/"
+webUrl: "https://www.technologyreview.com/2023/12/06/1084471/google-deepminds-new-gemini-model-looks-amazing-but-could-signal-peak-ai-hype/"
 type: article
 
 provider:
@@ -17,12 +15,6 @@ topics:
   - Google AI
   - AI
 
-images:
-  - url: "https://wp.technologyreview.com/wp-content/uploads/2023/12/gemini_mm_03.png?w=1920"
-    width: 1920
-    height: 1080
-    isCached: true
-
-secured: "sMtEy39hd12GhodAZKJEFkaVDwvx6tgUJoNqXR/HNBfdXXkJyUnWkN9ususxKEME6txVnSpasYGzwR8XsvqAryinr+m4Tw03XDB7rsG56b2TAQfDX0Qeo534xWtKYw9P0mg0GSUPYkbWe2XCYu/rT0dCfOcXVqAOSYEUW1pnnYuhyLUXp5EQjSCe+b3QIXqczwIU8Pz88IvepB5/GFAXVdA6kF1/2VsuLTS9uFbEVDAeRwKTO6+6K8uYBt2DnF80Qd1Kf5ald+Lw5E++s3Pl8XKZXoS6RJKQubdZCa/E+0PhVUhybGRJFp9dvj+c68r0pH92xWyE9X9aXAP4r6CZQZWoshyTKZtpGlndOkA9UFc=;HgWLGGbUZEzKUHAMZAE0lA=="
+secured: "SvffgH7l+fhoOoIEzGcboFf1X/9sIuU40aH67hS/cZ0RJhclqNP8daUm45MCvm+Usf3hEy+W5fHMPUGznPBOziXUwbR7i6xKDL0uOAN2EW43nkpmgUyM/lKqdal6Az9vEZ0nLKSWTPPSL47pq+tADNefEFmsxmQARlHzRn1VWdZ76pIEMTNsNzBSNKgePH/USlb0Pvlec7XEcz2fe9nR8Bj2QZ/SLCnfG6yLv03RTYticvNdtYJvjI4jFuDtRDqs3p34rXa7Hj+uv/y1NFslXZ5pcYmBgWd7DNEEv9H5syxX0avzd0XWfRBfa8GffDzOMdf3XeplK0igVmtn315vd6V4Wa3GLulBVyghiml9DB+cSoWwF7cZIVSLjdmL+ner0cBxxpDa12doG/9UmK4Y6/JNuLbsOioHB6fCNzcYV03+84dLnCer/7vyx2ulpWS1c0dAmrvKvtOyIg7IHZxVFTjJFhQS1h1zXhGkxMztwnu2Gsgc5NDLhJoDR11lFfZ0CLct/n8p89BsgjV5uTlCQw==;VTCDRvnOBvBLxkLECaKDkQ=="
 ---
 

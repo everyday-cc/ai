@@ -53,20 +53,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Intel stock hits a fresh 52-week high after saying its new AI chip tops Nvidia's H100"
-    excerpt: "At 11:00 EDT (16:00 GMT), Intel stock was up about 4% on the day, hitting a new 52-week high."
-    publishedDateTime: 2023-12-14T16:46:00Z
-    webUrl: "https://za.investing.com/news/intel-stock-hits-a-fresh-52week-high-after-saying-its-new-ai-chip-tops-nvidias-h100-432SI-2958248"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
-    quality: 47
-    images:
-      - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
-        width: 251
-        height: 282
-        isCached: true
   - title: "NVIDIA fires back at AMD saying its new MI300X chip is faster than its H100 GPU - it isn't"
     excerpt: "NVIDIA responds to AMD's showcasing the MI300X being faster than the H100 GPU. Here are the real results where the H100 is up to 2X faster."
     publishedDateTime: 2023-12-15T04:34:00Z
@@ -81,6 +67,15 @@ related:
         width: 1500
         height: 843
         isCached: true
+  - title: "Intel: Upcoming Gaudi3 AI Accelerator Will Compete With Nvidia H100, AMD MI300"
+    excerpt: "Given its advanced manufacturing process and addition of the newest memory standards, Gaudi3 could be very competitive with Nvidia's and AMD's products while costing less. Intel says it's rapidly expanding its Gaudi pipeline thanks to \"growing and proven performance advantages combined with highly competitive TCO and pricing.\""
+    publishedDateTime: 2023-12-19T14:00:00Z
+    webUrl: "https://www.extremetech.com/computing/intel-upcoming-gaudi3-ai-accelerator-will-compete-with-nvidia-h100-amd"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 15
 
 secured: "+UZNqqpkzu3D1EKJApdo8HJFtx4Tfh+HGyfSeDE8A535IlpIQc8aDWY2xb3BKcpkosieFy5gmv4/63pd31OCbqmxnzEUn6sxj/StBB/Lb2sibtIFYsegXXrUmHboQnT8KWkApuAzOcW5uOc/1kZZuE7q5uZ1RhJdbDJ0Hn1g3Tj36E3DZm7gVarn98bWW8K/nLBTJrchXhoGPrLv1LxcYCVZE6e3h2MMCXfvjDg8EEY3aqivs+pGXB6KLA/K9dwcYqiXVdsBHH0nAhYb3mVSbR2SNy97NPwkbOk8+47nrYM3Xr0bs8UXNHnED81jP++1GuQ+KQok68CnacjQlbxMVmrEpVw8WzPaNx408l87P/CFfmRWsjOSwjwFTDLlRhofIYkZ+wTllcDabRwoQ8YjaT+u+jekOumSnw0UF5PtW1p1Jv4FUVisAsYcxjkWWt7ygHMGwtNonOlJzSJIaXToBZaL/ciMVL0hG6OnqXrxbbjRuVz2Nu8PFvmX/+1AQgRtj1hw+vn2nBes7+H7S9NsOQ==;zpA/5vBWIXqO+cWVz9kRRg=="
 ---

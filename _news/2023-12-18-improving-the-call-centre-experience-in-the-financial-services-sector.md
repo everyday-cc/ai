@@ -41,22 +41,6 @@ related:
         width: 1354
         height: 900
         isCached: true
-  - title: "4 Best Dividends For A 2024 AI Bubble"
-    excerpt: "Is the AI mania substance or puff? Probably a bit of both. But there’s money to be made as the hype train rolls on. Let’s do it smartly—with dividends."
-    publishedDateTime: 2023-12-14T15:04:00Z
-    webUrl: "https://www.forbes.com/sites/brettowens/2023/12/14/4-best-dividends-for-a-2024-ai-bubble/"
-    ampWebUrl: "https://www.forbes.com/sites/brettowens/2023/12/14/4-best-dividends-for-a-2024-ai-bubble/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brettowens/2023/12/14/4-best-dividends-for-a-2024-ai-bubble/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64b5515e45aeec9aede9bcfd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 899
-        isCached: true
   - title: "The Top Five AI Use Cases And Trends For 2024 And Beyond"
     excerpt: "As we witness groundbreaking advancements, here are my predictions of the five key AI tech trends for 2024 and beyond."
     publishedDateTime: 2023-12-19T11:30:00Z

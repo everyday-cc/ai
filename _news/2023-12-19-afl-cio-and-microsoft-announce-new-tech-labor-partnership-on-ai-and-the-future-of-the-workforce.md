@@ -25,47 +25,49 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft is a leader in the 2023 IDC MarketScape for AI Governance Platforms"
-    excerpt: "We are excited to announce that Microsoft Azure is recognized as a leader in the inaugural IDC MarketScape for AI Governance Platforms. IDC looked at AI governance platforms that ensure AI and machine learning lifecycle governance, collaborative risk management, and regulatory excellence for AI.\nThe"
-    publishedDateTime: 2023-12-14T17:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/microsoft-is-a-leader-in-the-2023-idc-marketscape-for-ai-governance-platforms/"
+  - title: "Key customer benefits of the Microsoft and MongoDB expanded partnership"
+    excerpt: "Microsoft’s mission is to empower everyone to achieve more, and we know that our customers like using MongoDB to build applications. In year one of our strategic partnership, we collaborated with MongoDB to make it even easier for our joint customers to do more with Microsoft services and MongoDB Atlas"
+    publishedDateTime: 2023-12-15T16:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/blog/key-customer-benefits-of-the-microsoft-and-mongodb-expanded-partnership/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 101
+    quality: 87
     images:
-      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/12/MS_AI_Education-social.jpg"
-        width: 943
-        height: 628
+      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/12/Blog-Logo-Lockup_Microsoft_MongoDB-scaled.jpg"
+        width: 2560
+        height: 1440
         isCached: true
-  - title: "Microsoft Cloud for Sovereignty now available across all Azure regions"
-    excerpt: "The Microsoft Cloud for Sovereignty service is now available across all Azure regions. The company said governments across the world will now be able to use Microsoft Cloud across more than 60 Azure cloud regions while meeting individual compliance, security, and policy requirements."
-    publishedDateTime: 2023-12-15T17:39:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-cloud-for-sovereignty-now-available-across-all-azure-regions/"
+  - title: "TomTom and Microsoft develop in-vehicle AI voice assistant"
+    excerpt: "TomTom has teamed up with Microsoft to launch an AI assistant for vehicles, enabling drivers to converse with their car."
+    publishedDateTime: 2023-12-19T15:41:00Z
+    webUrl: "https://thenextweb.com/news/tomtom-microsoft-develop-vehicle-ai-voice-assistant"
     type: article
     provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 69
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 84
     images:
-      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
+      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F12%2FAI-assistant-vehicle-.jpg&signature=abf53810844f2f4c7dd5b797cd3d1daf"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Dell, Microsoft, Lenovo Laptops to Soon Feature Intel’s New Chip with Built-in AI Capabilities"
-    excerpt: "Intel, a leading technology company, announced Thursday that numerous personal computer manufacturers are utilizing their latest chip. This strategic move aims to entice consumers to upgrade their machines for the dawn"
-    publishedDateTime: 2023-12-15T09:10:00Z
-    webUrl: "https://www.econotimes.com/Dell-Microsoft-Lenovo-Laptops-to-Soon-Feature-Intels-New-Chip-with-Built-in-AI-Capabilities-1668035"
+  - title: "TomTom and Microsoft are teaming up to bring (more) AI to your car"
+    excerpt: "Do you know what the world needs more of this morning? That's right -- AI. TomTom and Microsoft, apparently mistaking our sarcasm for"
+    publishedDateTime: 2023-12-19T08:43:00Z
+    webUrl: "https://stuff.co.za/2023/12/19/ai-powered-voice-assistant-thanks-to-tomtom/"
+    ampWebUrl: "https://stuff.co.za/2023/12/19/ai-powered-voice-assistant-thanks-to-tomtom/?amp=1"
+    cdnAmpWebUrl: "https://stuff-co-za.cdn.ampproject.org/c/s/stuff.co.za/2023/12/19/ai-powered-voice-assistant-thanks-to-tomtom/?amp=1"
     type: article
     provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 59
+      name: stuff.co.za
+      domain: stuff.co.za
+    quality: 74
     images:
-      - url: "https://f1.econotimes.com/2023/12/p6j30bp4cg_th_1024x0.jpeg"
-        width: 1024
-        height: 614
+      - url: "https://stuff.co.za/wp-content/uploads/2023/12/TomTom-sat-nav-header-AI.png"
+        width: 1600
+        height: 1000
         isCached: true
   - title: "Microsoft Launches Robust AI 'Small Language Model' For Researchers"
     excerpt: "Microsoft has released its newest compact“small language model” titled Phi-2 that continues to perform at par or better than"
@@ -81,43 +83,66 @@ related:
         width: 419
         height: 250
         isCached: true
-  - title: "Microsoft, Tom Tom are bringing a generative AI assistant to vehicles"
-    excerpt: "TomTom and Microsoft collaborate on a conversational automotive assistant powered by OpenAI's language models and Microsoft products like Azure Cosmos"
-    publishedDateTime: 2023-12-19T11:32:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-tom-tom-are-bringing-a-generative-ai-assistant-to-vehicles/articleshow/106125585.cms"
+  - title: "TomTom and Microsoft bringing generative AI to cars"
+    excerpt: "The engine powering this AI revolution is a potent combination of TomTom’s expertise in mapmaking, traffic data, and driver behavior analysis, and Microsoft’s Azure OpenAI service, a powerful platform for developing and deploying cutting-edge generative AI models."
+    publishedDateTime: 2023-12-19T07:08:00Z
+    webUrl: "https://www.absolutegeeks.com/article/geek-stream/tomtom-and-microsoft-bringing-generative-ai-to-cars/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
+      name: absolutegeeks.com
+      domain: absolutegeeks.com
     quality: 54
     images:
-      - url: "https://static.toiimg.com/thumb/msid-106125586,width-1070,height-580,imgsize-526522,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1068
-        height: 580
+      - url: "https://www.absolutegeeks.com/wp-content/uploads/2023/12/e6a73560-9ab5-11ee-9dbf-ece57daa102b.png"
+        width: 960
+        height: 550
         isCached: true
-  - title: "Achieving cross-border data protection with Microsoft Cloud for Sovereignty"
-    excerpt: "Organisations are paying for their data protection mistakes. Failure to comply with the European Union (EU)’s General Data Protection Regulation (GDPR), for example, can result in fines of up to €20.3 million ($22."
-    publishedDateTime: 2023-12-15T16:08:00Z
-    webUrl: "https://www.technologyrecord.com/article/achieving-cross-border-data-protection-with-microsoft-cloud-for-sovereignty"
+  - title: "TomTom and Microsoft Collaborating To Bring Generative AI and Cloud Analytics To Vehicles"
+    excerpt: "TomTom and Microsoft are collaborating to develop new automotive solutions that leverage AI capabilities, cloud analytics, and Microsoft’s automotive"
+    publishedDateTime: 2023-12-19T14:57:00Z
+    webUrl: "https://www.indianweb2.com/2023/12/tomtom-and-microsoft-collaborating-to.html"
     type: article
     provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 37
+      name: indianweb2.com
+      domain: indianweb2.com
+    quality: 45
     images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4758/Cross-border-protection-cover-story-975x548.jpg"
-        width: 975
-        height: 548
+      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSmoQQPlBWTaljYRECTj8gkRXl-vbziUmnhI5H9DHIVXLRJVpyNKBVQyOoEz35NQCYIt1W1P47qWQPRFGat2cPynAHNFLoc8NkKYub7Q0VvzRC1l7c1ebzS6zPWrFH8YUB5NJ4yOgmD3I9LOBzDrQmFcFXo2kkjmD_nuDscK1208mKogOE0VmaR3wwPUQ/s16000/tomtom_microsoft_genai.png"
+        width: 1000
+        height: 600
         isCached: true
-  - title: "Microsoft Only Cloud Giant 'Leader' in AI Governance Research Report"
-    excerpt: "In fact, among the largest general cloud computing platforms, IBM is the only other player covered in the 'IDC MarketScape: Worldwide AI Governance Platforms 2023 Vendor Assessment,' with fellow hyperscalers AWS and Google Cloud Platform not included."
-    publishedDateTime: 2023-12-18T19:52:00Z
-    webUrl: "https://virtualizationreview.com/articles/2023/12/18/ai-governance.aspx"
+  - title: "Microsoft releases Phi-2 small language model."
+    excerpt: "Better than a Llama Microsoft Research has announced the release of its Phi-2 small language model (SML), a text-to-text AI programme that is \"small enough to run on a laptop or mobile device.\" Phi-2 has 2."
+    publishedDateTime: 2023-12-18T11:00:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/58122-microsoft-releases-phi-2-small-language-model"
     type: article
     provider:
-      name: Virtualization Review
-      domain: virtualizationreview.com
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 41
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/4ef80b49eecc3f00ffdcd8a966211d06_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
+  - title: "TomTom and Microsoft unveil generative AI for connected vehicles"
+    excerpt: "TomTom has joined forces with Microsoft to bring generative AI to the automotive industry. This collaboration has resulted in the development of a fully-integrated AI-powered conversational assistant that enhances voice interaction with infotainment, location search, and vehicle command systems."
+    publishedDateTime: 2023-12-19T16:22:00Z
+    webUrl: "https://www.iottechnews.com/news/2023/dec/19/tomtom-microsoft-unveil-generative-ai-connected-vehicles/"
+    type: article
+    provider:
+      name: iottechnews.com
+      domain: iottechnews.com
     quality: 34
+  - title: "TomTom joins forces with Microsoft to bring Generative AI into the vehicle"
+    excerpt: "TomTom develops an advanced AI-powered voice assistant for drivers based on Microsoft Azure OpenAI Service. The solution is built into TomTom’s Digital Cockpit and can be integrated into other automotive infotainment systems."
+    publishedDateTime: 2023-12-19T06:44:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/12/19/9936012.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 32
 
 secured: "NYAC/KV7ADbepVeQ/MS5hbDEEbdayOFze9nUTeqld3L5PAwdHS4TF2u44/YlVKPV9qL8uDubrT7k2/Zf0BRTkESvlbYChqJlXa/KUrOFVpW0IMywvIdXXRYLWZL2A8OeuggFZBmzp0oRWHI0/LrpKxZrkcKa8Z2PQPUgMaBAMzBTTL1j+iXfONfLmk2KcnE2fYDoPizAfvbzC1blkB3GZ+QqGdFCgTbUXyT3mUOtzn1V2LfvwgqTe/KMyZpzjcux98jZFqS5b6Q9F1NaU5bUeNZZM/TcOoxAUtNlhLel76pyyhfy19aSj3s0BOSQyYciXxEbKG9DQM56vmmhDWxrmSN0W/6V7fQ8xXmkS3/UgNCdZ9WsuFh0iBI4u7hIsdU4Qjz4EiId5SFPj4szaOFdrd+zP9qBMJpSLUu+NAjffEuV3hPt7cinBelQT+glJHUYCxZ2aR/Dh5lu9JalzpNYl/tZPsPfaAiXEK5TclYkKP09cjBJP+Uv9rRs21g5Cg6ob7ZlIhMjS1pzOE7RVPc2Yg==;LkfDMIwKM/bT2roriSdB9Q=="
 ---

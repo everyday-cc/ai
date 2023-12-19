@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/12/15/the-new-frontier
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/12/15/the-new-frontier-in-workplace-safety-data-analytics-and-ai/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -46,29 +46,20 @@ related:
         width: 1280
         height: 719
         isCached: true
-  - title: "How will AI and analytics keep people healthy, safe and thriving in 2024?"
-    excerpt: "\"The rise of AI and analytics will continue to transform the government workforce, including in public safety. In 2024, law enforcement will see a turning point in hiring 'digital natives' who embrace and demand technology to protect, defend and serve citizens.\""
-    publishedDateTime: 2023-12-14T15:12:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/12/14/9934437.htm"
+  - title: "Seek AI and Prodigy integrate, combining natural language querying with marketing analytics"
+    excerpt: "Seek AI, a developer of generative AI for data solutions, is debuting the integration of its natural language to SQL (NL2SQL) solution into Prodigy, a cloud-based production data SaaMS (Software as Managed Service) platform."
+    publishedDateTime: 2023-12-19T15:30:00Z
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=161909"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 38
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 46
     images:
-      - url: "https://mma.prnewswire.com/media/2300205/SAS_newswire_Gov_HC.jpg"
-        width: 400
-        height: 267
+      - url: "https://dzceab466r34n.cloudfront.net/Images/OtherImages/151196-2023-Cover-Images-ORG.png"
+        width: 772
+        height: 594
         isCached: true
-  - title: "Adastra Launches New Analytics and Insights for Sustainability Framework in AWS Marketplace"
-    excerpt: "Adastra Group (also known as Adastra Corporation), a global leader in cloud, data and artificial intelligence (AI) solutions and services, today announced the launch of its innovative Cloud Analytics Solution,"
-    publishedDateTime: 2023-12-14T16:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231214298446/en/Adastra-Launches-New-Analytics-and-Insights-for-Sustainability-Framework-in-AWS-Marketplace"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 24
 
 secured: "K3yW9E68YM9zNDPTQOOY3bNc2sbGLLSMo8i0lvtkb2y1sC1+16NCOauT9Jj2YaKPAjISrZ2lssphwRrwkDCgVPWsKq0USN/oePzJTHWiJGP3F8mtPn7R4NO6ojFs71shVYqzsy8i0xjBguIZfrWTr4LeNJlimbdfgcWMutV3GUOy6sYqkKexD008QTxgipW4V/QbjYnPGi+W+DZa/xiROcdbSoMVS8u3HrhhcHqb3mkcCQwEI7OoFshW5pVZHfz5I60xZKVi/Q4aI1Xpn9UtEDnHV+CE/61FrJq4P7TYQ+SauyDS9RWidqPR//rXqufCCRtjSpV0smjYnugSeHz0+GT3WiracvG3QdTamFzLDDwRie6keNYmcA23+dooXvCHhEULLRGwFRY2f6XMTdRQw0atjVqenUMYn+ciNuvT6/emD/GxljK8FznYT5xhqtLifrlgzZa4TIVpQqQ3K22SXZugvgzG4u/1aBEAOdEuVoYUjXCbf1WVZATITnwCsu5RyU3ai//ll5YYOTIIjFlovw==;MrQRIjdzATU2wf7LyIDe1A=="
 ---

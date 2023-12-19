@@ -68,26 +68,6 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 24
-  - title: "Infibeam Avenues Acquires 49% Stake In Pirimid Fintech To Foray Into Capital Markets Space"
-    excerpt: "Fintech company Infibeam Avenues has bought a 49% stake in Ahmedabad-based Pirimid Fintech for INR 25 Cr ($3 Mn) to strengthen its foothold in the fintech ecosystem."
-    publishedDateTime: 2023-12-14T15:49:00Z
-    webUrl: "https://inc42.com/buzz/infibeam-avenues-acquires-49-stake-in-pirimid-fintech-to-foray-into-capital-markets-space/"
-    ampWebUrl: "https://inc42.com/buzz/infibeam-avenues-acquires-49-stake-in-pirimid-fintech-to-foray-into-capital-markets-space/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/infibeam-avenues-acquires-49-stake-in-pirimid-fintech-to-foray-into-capital-markets-space/amp/"
-    type: article
-    provider:
-      name: inc42
-      domain: inc42.com
-    quality: 14
-  - title: "Infibeam Avenues acquires 49% stake in capital markets software provider Pirimid Fintech"
-    excerpt: "With the stake acquisition, Infibeam is looking to integrate its digital payments framework with Pirimid Fintech's capital market trading software for clients in India and globally."
-    publishedDateTime: 2023-12-14T13:54:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/startups/infibeam-avenues-acquires-49-stake-in-capital-markets-software-provider-pirimid-fintech/articleshow/105997286.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 0
 
 secured: "lzOXbCe6UwT36lQ5Jos1gjvCfoh4ALnRr1zC+NKB4xvbalh7J+akKJA5tjh+Leq9zwivOx46sVcZIxMAyqRx8BDzv0bdhtyXIZ2sfIB3AdEW7UrPqo5FD61OKBcNA0OtQ9Yz0DriWobYG8ODAvQX/nft83cokf7yhPcArtY39aOi0BfWcPg46HrL9rtu72cv546LjFIozkJxR1h4nziE4r8DJGVkBbNMP9l10dV0VNP/dgQKk3cimYTM9Y03ovC02bpqzLIfbv6szKb4SFqHqgj0AOQpTOiLa9Hq2essPhrMvUsHMlIa2Pd2U20t95HDsu0j1g42iP43kDc7wwoqgKxEc/uovhw2mIWmofzux0JnBfkmd+P/a1T1alRx4U5+p5Q+oLvlzRq3hpJMnUe/U6Qywflyiue+TfgfAtqYJsKfEzryJYjHvwfzz5/xAKf0DuSbyqN6gmWqpN3tqqdCTquC6wFnj5FS5b7Xf9nlnZ6ZUfsU8BW/I+592ZmY1HPRXEYAuPiEkWJJei00DYKLHA==;G+85j3wiYpLRl75SxSyXwg=="
 ---

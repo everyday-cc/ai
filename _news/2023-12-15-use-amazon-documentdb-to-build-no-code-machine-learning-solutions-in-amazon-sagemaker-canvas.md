@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/use-amazon-documentd
 webUrl: "https://aws.amazon.com/blogs/machine-learning/use-amazon-documentdb-to-build-no-code-machine-learning-solutions-in-amazon-sagemaker-canvas/"
 type: article
 quality: 95
-heat: -1
-published: false
+heat: 115
+published: true
 
 provider:
   name: AWS
@@ -30,47 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "How AWS Prototyping enabled ICL-Group to build computer vision models on Amazon SageMaker"
-    excerpt: "This is a customer post jointly authored by ICL and AWS employees. ICL is a multi-national manufacturing and mining corporation based in Israel that manufactures products based on unique minerals and fulfills humanity’s essential needs, primarily in three markets: agriculture, food, and engineered materials."
-    publishedDateTime: 2023-12-14T16:56:10Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-aws-prototyping-enabled-icl-group-to-build-computer-vision-models-on-amazon-sagemaker/"
+  - title: "Multilingual AI: Bridging The Language Gap In Document Processing"
+    excerpt: "Also, translation takes a lot of time. An AI system's ability to comprehend and decode information directly in the native language is paramount for accurate and meaningful processing. AI can ..."
+    publishedDateTime: 2023-12-15T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/15/multilingual-ai-bridging-the-language-gap-in-document-processing/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/15/multilingual-ai-bridging-the-language-gap-in-document-processing/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/15/multilingual-ai-bridging-the-language-gap-in-document-processing/amp/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 112
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/12/14/icl-group-vision-models.jpg"
-        width: 1005
-        height: 504
-        isCached: true
-  - title: "Boost productivity on Amazon SageMaker Studio: Introducing JupyterLab Spaces and generative AI tools"
-    excerpt: "Amazon SageMaker Studio offers a broad set of fully managed integrated development environments (IDEs) for machine learning (ML) development, including JupyterLab, Code Editor based on Code-OSS (Visual Studio Code Open Source), and RStudio. It provides access to the most comprehensive set of tools for"
-    publishedDateTime: 2023-12-14T21:48:11Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/boost-productivity-on-amazon-sagemaker-studio-introducing-jupyterlab-spaces-and-generative-ai-tools/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
+      name: Forbes
+      domain: forbes.com
     quality: 89
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/12/14/ML-16046-image001-879x630.jpg"
-        width: 879
-        height: 630
-        isCached: true
-  - title: "Streamlining ETL data processing at Talent.com with Amazon SageMaker"
-    excerpt: "This post outlines the ETL pipeline we developed for feature processing for training and deploying a job recommender model at Talent.com. Our pipeline uses SageMaker Processing jobs for efficient data processing and feature extraction at a large scale. Feature extraction code is implemented in Python"
-    publishedDateTime: 2023-12-14T16:42:22Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/streamlining-etl-data-processing-at-talent-com-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/12/04/ML_14928_image001-1115x630.png"
-        width: 1115
-        height: 630
+      - url: "https://imageio.forbes.com/specials-images/imageserve/657b4e1d706a16d9830e3cba/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1242
+        height: 900
         isCached: true
   - title: "Accelerating time-to-insight with MongoDB time series collections and Amazon SageMaker Canvas"
     excerpt: "This is a guest post co-written with Babu Srinivasan from MongoDB. As industries evolve in today’s fast-paced business landscape, the inability to have real-time forecasts poses significant challenges for industries heavily reliant on accurate and timely insights. The absence of real-time forecasts in"

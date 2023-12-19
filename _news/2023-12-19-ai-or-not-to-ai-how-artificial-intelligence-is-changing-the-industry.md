@@ -25,47 +25,59 @@ images:
     isCached: true
 
 related:
-  - title: "Multilingual AI: Bridging The Language Gap In Document Processing"
-    excerpt: "Also, translation takes a lot of time. An AI system's ability to comprehend and decode information directly in the native language is paramount for accurate and meaningful processing. AI can ..."
-    publishedDateTime: 2023-12-15T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/15/multilingual-ai-bridging-the-language-gap-in-document-processing/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/15/multilingual-ai-bridging-the-language-gap-in-document-processing/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/15/multilingual-ai-bridging-the-language-gap-in-document-processing/amp/"
+  - title: "Will AI substitute doctors in healthcare industry?"
+    excerpt: "The value of healthcare workers' intuition in effective clinical care has been verified by reports around the world again and again. From doctors' ability to spot sepsis in critically ill children, to 'nurse worry' as a 'vital sign' predictive of patient deterioration,"
+    publishedDateTime: 2023-12-18T12:48:00Z
+    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/will-ai-substitute-doctors-in-healthcare-industry/106097951"
+    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/will-ai-substitute-doctors-in-healthcare-industry/106097951"
+    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/will-ai-substitute-doctors-in-healthcare-industry/106097951"
+    type: article
+    provider:
+      name: health.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 76
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-106097951,imgsize-14168,width-1200,height=765,overlay-ethealth/health-it/will-ai-substitute-doctors-in-healthcare-industry.jpg"
+        width: 1200
+        height: 765
+        isCached: true
+  - title: "How AI Is Influencing The Mortgage Industry"
+    excerpt: "In the not-so-distant future, you might join a video call and meet with a virtual representative to discuss your mortgage options. Afterward, an AI-written document will deliver personalized recommendations based on the conversation."
+    publishedDateTime: 2023-12-18T08:59:00Z
+    webUrl: "https://www.forbes.com/advisor/mortgages/how-ai-affects-mortgage-industry/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 69
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/657b4e1d706a16d9830e3cba/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1242
-        height: 900
+      - url: "https://www.forbes.com/advisor/wp-content/uploads/2023/12/How-AI-Is-Influencing-The-Mortgage-Industry-Ft-Image.jpg"
+        width: 766
+        height: 431
         isCached: true
-  - title: "Ola CEO Bhavish Agarwal’s AI startup is building a multilingual Large Language Model"
-    excerpt: "Ola CEO Bhavish Agarwal’s AI startup is working on a multilingual AI model called Krutrim that will be released next year."
-    publishedDateTime: 2023-12-19T06:15:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/ola-ceo-bhavish-agarwals-ai-startup-is-building-a-multilingual-large-language-model/article67653161.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/ola-ceo-bhavish-agarwals-ai-startup-is-building-a-multilingual-large-language-model/article67653161.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/ola-ceo-bhavish-agarwals-ai-startup-is-building-a-multilingual-large-language-model/article67653161.ece/amp/"
+  - title: "Generative AI Dictates Trillions of Dollars in Industry"
+    excerpt: "This year was the breakout year for Generative artificial intelligence (Gen AI). Tech companies, according to McKinsey, are positioned to see the most disruption from Gen Ai, “adding value equivalent to as much as 9 percent of global industry"
+    publishedDateTime: 2023-12-18T17:09:00Z
+    webUrl: "https://www.baystreet.ca/stockstowatch/16697/Generative-AI-Dictates-Trillions-of-Dollars-in-Industry"
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 50
+      name: BayStreet
+      domain: baystreet.ca
+    quality: 39
     images:
-      - url: "https://th-i.thgim.com/public/incoming/y26742/article67653159.ece/alternates/FREE_1200/MAHINDRAOLA.jpg"
-        width: 1200
-        height: 675
+      - url: "http://www.baystreet.ca/images/articlegroups/original/yahoonews/private/AI.jpg"
+        width: 845
+        height: 396
         isCached: true
-  - title: "Uncovering bias in artificial intelligence"
-    excerpt: "Throughout his Ph.D. program, Li has worked alongside his advisor, assistant professor Hongfu Liu, to examine bias within artificial intelligence datasets. They determined that when developing these artificial intelligence systems, cleaning datasets and looking for these biases in advance of processing information can reduce these incidents."
-    publishedDateTime: 2023-12-15T14:52:00Z
-    webUrl: "https://www.brandeis.edu/stories/2023/december/artificial-intelligence-grant.html"
+  - title: "Modern Healthcare is evolving along with the industry"
+    excerpt: "It’s an exciting time to be journalists covering the industry. And for that reason, Modern Healthcare is evolving in 2024 too."
+    publishedDateTime: 2023-12-18T08:59:00Z
+    webUrl: "https://www.modernhealthcare.com/opinion/modern-healthcare-evolving-along-industry"
     type: article
     provider:
-      name: Brandeis University
-      domain: brandeis.edu
-    quality: 17
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 19
 
 secured: "8Qmv65CMve6xz45f9U3UkgInEQ4SV0SpGCbXN3UeDkG/yFx/JkvxC3xfsy4uUhZ8Ck6mAMrPq4ZIZ19laTjKzPV6MaMN2nOzOrfbeqVPtMY6K0VMcsr232Kz+tYL4hMDdJNWRUV9A7jjwwUbGSt6zvvVZQh6R5jmbHVVkUU2fPJeScmksYWNI8LlY4EsiXOgJJLmLdaBaIU1htLVVXvhP0X4rIi6xkpOzoTqFm1RjMTD1aIIYgtf4Oqhve7UR1L92QKebYM1E53y5KBq7AXXeZ+6os1iz1+5/K/t/GrNlEG1dpUqgwGDdKP+b7v1Z9JFCF5ANmVDrNpCl0ru6A6iwQ0b2WQphzhC6JP9bd9Q5EccZoefxvHndtBS7Nj2VP0hPqksFAA+cT5UC4qxwhpQz43Mb2xkvkjnjHuaL+aBHVfNU40Ktb/9h1t2J0BFd0Uu6mQ78M1QsDSbQ+bR+ryrNL4mCWqAZOZMy72WYbIxqzPiwfzhZdxpfuo/KqD7FRzH2im8t8ME8+QDN5wpdsSMbg==;GMVGrdyv0zq7XLXxAr4jDQ=="
 ---

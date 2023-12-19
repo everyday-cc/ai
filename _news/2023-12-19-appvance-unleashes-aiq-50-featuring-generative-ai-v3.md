@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Appvance unleashes AIQ 5.0, featuring Generative AI V3"
-excerpt: "AIQ 5.0 includes the following new features: No-Code Fully Visual User Experience Users will experience an improved intuitive interface that empowers them to unleash hundreds of Autonomous Testing bots (trained to do exploratory testing with BDD-based validations) effortlessly."
-publishedDateTime: 2023-12-19T10:16:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/12/19/9936067.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/12/19/9936067.htm"
+excerpt: "Appvance, the leader in generative AI for software quality, is excited to announce the launch of Appvance IQ (AIQ) 5.0, a groundbreaking"
+publishedDateTime: 2023-12-19T09:06:00Z
+originalUrl: "https://www.valdostadailytimes.com/ap/business/appvance-unleashes-aiq-5-0-featuring-generative-ai-v3/article_5983c873-3d60-523f-bd8b-e632a27d4f32.html"
+webUrl: "https://www.valdostadailytimes.com/ap/business/appvance-unleashes-aiq-5-0-featuring-generative-ai-v3/article_5983c873-3d60-523f-bd8b-e632a27d4f32.html"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: The Valdosta Daily Times
+  domain: valdostadailytimes.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "How Generative AI is Reshaping Banking & Finance in India"
@@ -32,20 +38,6 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2023/12/s-1.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "16 Innovative Ways Agencies Can Leverage Generative AI In 2024"
-    excerpt: "Generative AI tools are being leveraged by agency professionals and in-house teams around the world as they seek ways to better understand and reach target audiences."
-    publishedDateTime: 2023-12-15T17:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/12/15/16-innovative-ways-agencies-can-leverage-generative-ai-in-2024/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/655e5665f16e596330a94c9e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
         isCached: true
   - title: "AI integration in everyday life: How artificial intelligence is reshaping consumer electronics"
     excerpt: "One of the most noticeable impacts of AI in consumer electronics is the integration of virtual assistants like Siri, Alexa, and Google Assistant. These AI-powered companions have made it incredibly convenient to control various devices through simple voice commands."
@@ -109,6 +101,24 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Manufacturing CEOs Are Stepping Into 2024 Embracing AI, Accelerating Reshoring And Investing In High-Tech Talent"
+    excerpt: "Drawn From A Year’s Worth Of Proprietary Polling, Xometry’s 2024 Predictions Show An Industry Embracing High-Tech Tools And Talent To Navigate A"
+    publishedDateTime: 2023-12-19T14:07:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/manufacturing-ceos-are-stepping-into-2024-embracing-ai-accelerating-reshoring-and-investing-in-high-tech-talent-1032912359"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 28
+  - title: "Uncovering bias in artificial intelligence"
+    excerpt: "Throughout his Ph.D. program, Li has worked alongside his advisor, assistant professor Hongfu Liu, to examine bias within artificial intelligence datasets. They determined that when developing these artificial intelligence systems, cleaning datasets and looking for these biases in advance of processing information can reduce these incidents."
+    publishedDateTime: 2023-12-15T14:52:00Z
+    webUrl: "https://www.brandeis.edu/stories/2023/december/artificial-intelligence-grant.html"
+    type: article
+    provider:
+      name: Brandeis University
+      domain: brandeis.edu
+    quality: 17
   - title: "Generative AI, Cloud And Startups: A Power Trio Redefining India’s Techscape!"
     excerpt: "Explore how generative AI, cloud technology and startups are redefining India's tech landscape in this roundtable by Inc42 and Google Cloud."
     publishedDateTime: 2023-12-16T11:45:00Z
@@ -119,6 +129,6 @@ related:
       domain: inc42.com
     quality: 14
 
-secured: "XSniUPTfP5iB4j7NhYdYwMQCLSEoHWi6nVws6k5lG8am9TUQNfSmf7Surj4ZnJwy9ltrqoAcRSxLOQolzfduUdYbEtey8Gj4028sDdhoq4xH7G5NQ52tgfcSYko7av6BnRwuECrPbRZBwGzvlHUqbJtJFsd+ruemYiDpdSwAMGf+cGM/apGIarKLC2ptIY0nYz1FQZucDv5hNbY01bStupBjQZK3d+qfOKoM5YcyMzkgMVeZGgguzbdt+88lkd5z4Gv7ogjRbY4vnofgkyQfnmWn6baR20lHF7/uEAbMw3sEuzN6EBoFz1Yrv/5OJlCtkCkOqNAriGeje1N2Or8sjdXCIyUz/AIS7vb8asSISas=;3SN1TRR2Vnq6gd+exw9dCw=="
+secured: "5UDcMvqMCBGsoZjvyExjoLFsQn1xnZUP7weGmdPbqOVMI0FUORzeIVsDthavYGoJLLjzQrZZbM+W7cQLr8ZEdFD8HADDlQGQRpMnNurMuJggLOmq25Z+LpbTwXpo9i1JLW0t/pQi/mb4yb20PbyRZW+8Ig76+g7yCb9OMb0sCA4H++kPj80a/AI2zj9pLDknZqQPt1CfuwBJPPbeyTPKirkIlIOdRJDM9t7xpT79rCgQ/PpNJdnBHw7wpjQLAt97VRKM8MXszEBKjcMFHsCeApX2OFpFkbgCCh6ch7nkCcGz+96bSrNPHuzgce55RujKZgjcKa6453ScUMSdJY14rQhFtBtbH5U0sm4SuYVaD/8=;Sqa6cYZUsZSs6F9a9cCvmg=="
 ---
 

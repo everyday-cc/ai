@@ -7,7 +7,7 @@ originalUrl: "https://www.cbssports.com/nfl/news/saturday-nfl-props-bets-ai-pred
 webUrl: "https://www.cbssports.com/nfl/news/saturday-nfl-props-bets-ai-predictions-bengals-vs-vikings-colts-vs-steelers-lions-vs-broncos-picks/"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -18,17 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Raiders vs. Chargers props, odds, best bets, AI predictions, TNF picks: Austin Ekeler goes over 49.5 yards"
-    excerpt: "SportsLine AI reveals the top NFL prop picks for Los Angeles vs. Las Vegas and Thursday Night Football best bets for sites like PrizePicks"
-    publishedDateTime: 2023-12-14T16:51:00Z
-    webUrl: "https://www.cbssports.com/nfl/news/raiders-vs-chargers-props-odds-best-bets-ai-predictions-tnf-picks-austin-ekeler-goes-over-49-5-yards/"
-    ampWebUrl: "https://www.cbssports.com/nfl/news/raiders-vs-chargers-props-odds-best-bets-ai-predictions-tnf-picks-austin-ekeler-goes-over-49-5-yards/amp/"
-    cdnAmpWebUrl: "https://www-cbssports-com.cdn.ampproject.org/c/s/www.cbssports.com/nfl/news/raiders-vs-chargers-props-odds-best-bets-ai-predictions-tnf-picks-austin-ekeler-goes-over-49-5-yards/amp/"
-    type: article
-    provider:
-      name: CBSSports.com
-      domain: cbssports.com
-    quality: 19
   - title: "Eagles vs. Seahawks props, odds, best bets, AI predictions, SNF picks: D'Andre Swift under 58.5 rushing yards"
     excerpt: "SportsLine AI reveals the top NFL prop picks for Seattle vs. Philadelphia and Monday Night Football best bets for sites like PrizePicks"
     publishedDateTime: 2023-12-18T14:58:00Z

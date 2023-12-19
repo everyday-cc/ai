@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Azure OpenAI Service powers the Microsoft Copilot ecosystem"
-    excerpt: "Copilot—powered by Microsoft Azure OpenAI Service—allows you to simplify how you design, operate, optimize, and troubleshoot apps and infrastructure from cloud to edge.\nThe post Azure OpenAI Service powers the Microsoft Copilot ecosystem appeared first on Microsoft Azure Blog.\n"
-    publishedDateTime: 2023-12-14T16:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/azure-openai-service-powers-the-microsoft-copilot-ecosystem/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 119
-    images:
-      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/12/CLO20b_Avery_Quinn_casual_office_002-scaled.jpg"
-        width: 2560
-        height: 1706
-        isCached: true
   - title: "Microsoft's Azure OpenAI service adds GPT-4 Turbo with Vision in a public preview0 0"
     excerpt: "The same thing can also be done with the AI analysingspecific frames of a video. Microsoft added: By combining GPT-4 Turbo with Vision, Azure AI Search, and Azure AI Vision, images can now be ..."
     publishedDateTime: 2023-12-14T17:24:00Z
@@ -98,6 +84,20 @@ related:
       - url: "https://tii.imgix.net/production/articles/11919/147875d6-e89c-42b3-83fe-4760752a7e13.png?fm=jpg&auto=compress&w=1200&frame=0"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Achieving cross-border data protection with Microsoft Cloud for Sovereignty"
+    excerpt: "Organisations are paying for their data protection mistakes. Failure to comply with the European Union (EU)’s General Data Protection Regulation (GDPR), for example, can result in fines of up to €20.3 million ($22."
+    publishedDateTime: 2023-12-15T16:08:00Z
+    webUrl: "https://www.technologyrecord.com/article/achieving-cross-border-data-protection-with-microsoft-cloud-for-sovereignty"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 37
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4758/Cross-border-protection-cover-story-975x548.jpg"
+        width: 975
+        height: 548
         isCached: true
 
 secured: "x52mYTxbtZuiF4joOzEEeOx6kpVhYLI26jkbJgMYHoujLI7b2bJ0tGd5Z5GDIjBqzOo5ZURYXdFWTNS6Ro+zQiMBVrS6BxUCbX1E0ibRvn+5H9gl9IS4SUT4AHTu+7P6G1AW06uYauRHufpZoOjVENO+InHmXV111Iy/7cFFBgVgscckLPbYjBAk23Tpw01R6gNvneXGwXi8+1Me7QQd95EK75WYjZ6gEfMvppS1zqkz3uMbxu+FWHetnzLIUWqlFboQU7Ui7LdVzzG2V+InVeaGZSAbCGp2YdIM4RGOyz+g2r5a3kUYL4lgwfaHqcOgnPKottmd2owXa56mIXQEJAnRrykBLvbysW5Oa5qFQwE=;lZrtqW3F1Vy0dyDsyaHYaA=="

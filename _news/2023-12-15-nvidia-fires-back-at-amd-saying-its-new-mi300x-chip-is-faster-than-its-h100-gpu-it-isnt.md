@@ -53,20 +53,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Intel stock hits a fresh 52-week high after saying its new AI chip tops Nvidia's H100"
-    excerpt: "At 11:00 EDT (16:00 GMT), Intel stock was up about 4% on the day, hitting a new 52-week high."
-    publishedDateTime: 2023-12-14T16:46:00Z
-    webUrl: "https://za.investing.com/news/intel-stock-hits-a-fresh-52week-high-after-saying-its-new-ai-chip-tops-nvidias-h100-432SI-2958248"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
-    quality: 47
-    images:
-      - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
-        width: 251
-        height: 282
-        isCached: true
   - title: "SuperNIC network accelerator for AI cloud data introduced by NVIDIA"
     excerpt: "Learn more about the new SuperNIC network accelerator for AI cloud data launched by NVIDIA. But what is SuperNIC and why does it matter?"
     publishedDateTime: 2023-12-18T14:34:00Z
@@ -81,6 +67,15 @@ related:
         width: 1280
         height: 792
         isCached: true
+  - title: "Intel: Upcoming Gaudi3 AI Accelerator Will Compete With Nvidia H100, AMD MI300"
+    excerpt: "Given its advanced manufacturing process and addition of the newest memory standards, Gaudi3 could be very competitive with Nvidia's and AMD's products while costing less. Intel says it's rapidly expanding its Gaudi pipeline thanks to \"growing and proven performance advantages combined with highly competitive TCO and pricing.\""
+    publishedDateTime: 2023-12-19T14:00:00Z
+    webUrl: "https://www.extremetech.com/computing/intel-upcoming-gaudi3-ai-accelerator-will-compete-with-nvidia-h100-amd"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 15
 
 secured: "n2KFb3WNHICuZ9ZJ/sCe/lCRXS/MXz4EsgBOovYxWDRYogGSvqxKyV6kHwwiHX9qLZKF9VSEytKvy7ryCYqxQp9ziRtCvKMTr6kBHS+7MRyAM25AdksWnseAdqdkhjWyb9ZdSLoNJPM7qitHIG6XI2AjR7qF4UnHEdMCzCi0v9A0eEMukypBSaKkM2pFaiYDXdf75VvSjSBhVl3e15PreDxGgoc44XnI6C6AfKpcRWw7kwQ8beeCwZ5cMstCmNlaXLbf7lJFoBbOHlirzswI5nDZE/RujRr1djOmNLjehWIZGCEXhrv2+NW0psDHn1jr4UQdW0t8zZ6L0o318EzoeWDJ6n1w95XMzQG3pQVNyExDIKI3A60q6wH5l+Cvttlv4ekFphOGywrUq8CevM/8x36IF2cXphdF0+K2hxk/Iraqrvvltfmg9AG3tiQKQlDG9nlavzDsymYcN3oKVGllxRAeX4ai7PkdZGIlYRGmPW5XPn+dZ1lsDWKOl60MmuMnb3Xc8aTZHZ+/9kR3Kv9fvA==;je/+wuI/ZciQjsOKrGSZTg=="
 ---

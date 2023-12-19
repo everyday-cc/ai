@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/xtalpi-and-abb-robotics-to-automate
 webUrl: "https://www.therobotreport.com/xtalpi-and-abb-robotics-to-automate-laboratory-workstations-with-gofa-cobots/"
 type: article
 quality: 81
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 770
     height: 491
     isCached: true
-
-related:
-  - title: "Microbot Medical, Corewell collab on telerobotics for endovascular surgical robot"
-    excerpt: "Microbot Medical (Nasdaq:MBOT) announced today that it entered into a collaboration with Corewell Health to enable telerobotic capabilities."
-    publishedDateTime: 2023-12-14T15:41:00Z
-    webUrl: "https://www.massdevice.com/microbot-medical-corewell-collab-surgical-robot/"
-    type: article
-    provider:
-      name: MassDevice
-      domain: massdevice.com
-    quality: 49
-    images:
-      - url: "https://www.massdevice.com/wp-content/uploads/2023/12/Microbot-Medical-logo.png"
-        width: 770
-        height: 500
-        isCached: true
 
 secured: "HcpAbNyqO4xAe5Q7ZYHSK5EZke/53lTFo8gptq2uWxf2fZ2/fiDAUbMWkpOQ6dWDuguRh7ecGU/Whvb67WXH0XcXbdTfnctKBDq/H+J8EaiIgf/zpuZj2IhZyzEHLN97FldnLb7Zm6NLSw/lyHr3EJdbqxv3rSC/c4llFrhA4HfJCZGyioB9xPNJX2Dja4sHFV8+DZBWC3qhausJrG/EqbTrZQZNYTG/tdJdSrHK68L2uDs+AUuii1LdfVS0zkzfcL26aD0F+tSR1XSrrfborWsXJkmhyZzM8XF0XT1FWJQdJZNOwXBfOVb9ksR1ovYwXZHfiO5T5pSj89VjGlFw5CGJxpTQazqeEOaJtC7XJYGiTX18xJIJC+D/M++nzPyoRjrTf7vbu3jYYb8RV4ds6dbalLNZJgWvrhNgLQS/35M1o4QZT8xGTj4VuLqNA/qsu/F68bN/VkcGq9TOl193YQtSt949Wx/OVjJIX/KIuCxtjSpyoBtDE0Mg8Tg/kBReZd6CLN3DtQBmOAn1fvZtGg==;wppBwE2VLK9SZ5bs7oTFBA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/us/blog/happybytes/202312/how-will-a
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/happybytes/202312/how-will-ai-revolutionize-talent-assessments-in-2024?amp"
 type: article
 quality: 57
-heat: 90
+heat: 92
 published: true
 
 provider:

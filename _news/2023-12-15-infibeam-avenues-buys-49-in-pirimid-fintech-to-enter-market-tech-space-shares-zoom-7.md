@@ -68,26 +68,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Infibeam Avenues Acquires 49% Stake In Pirimid Fintech To Foray Into Capital Markets Space"
-    excerpt: "Fintech company Infibeam Avenues has bought a 49% stake in Ahmedabad-based Pirimid Fintech for INR 25 Cr ($3 Mn) to strengthen its foothold in the fintech ecosystem."
-    publishedDateTime: 2023-12-14T15:49:00Z
-    webUrl: "https://inc42.com/buzz/infibeam-avenues-acquires-49-stake-in-pirimid-fintech-to-foray-into-capital-markets-space/"
-    ampWebUrl: "https://inc42.com/buzz/infibeam-avenues-acquires-49-stake-in-pirimid-fintech-to-foray-into-capital-markets-space/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/infibeam-avenues-acquires-49-stake-in-pirimid-fintech-to-foray-into-capital-markets-space/amp/"
-    type: article
-    provider:
-      name: inc42
-      domain: inc42.com
-    quality: 14
-  - title: "Infibeam Avenues acquires 49% stake in capital markets software provider Pirimid Fintech"
-    excerpt: "With the stake acquisition, Infibeam is looking to integrate its digital payments framework with Pirimid Fintech's capital market trading software for clients in India and globally."
-    publishedDateTime: 2023-12-14T13:54:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/startups/infibeam-avenues-acquires-49-stake-in-capital-markets-software-provider-pirimid-fintech/articleshow/105997286.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 0
 
 secured: "EAjO7IXnJWPOCaAFvCejfwhAIaasFlKJ7dIN7ygdadZKI3BrgglhFR1snEAn0Czb1jV4i4dzqbIB5KwWtikrQhCKn5OZe3JtR1u5PZRYnVUiCu1ai1OfbFXWB+oypd20rrFNsrkP4aNVYs4ely1Iy6dEHhJnQbbPkc86smN5zN2YjG6nY1d6e5MPQX5MUo3s+o5Jq1lvHdu22mBaN6Y2kOUSoKRpNKRDutod6zHSWkFNuaM7PF18tNr4CYui+vmpsWnMMNM22fFM1nbe/8bgS1L1TjCkDTKjrg1yIuCOHpSMO7OZkTvJSONKT6apmJLbiqm1vQ2rmmd6ZtgmVtBT5IR5ZH1xN7URR/OaIQ/nvkU=;o3vZcMGdvBoUHJUJkzZ8SQ=="
 ---

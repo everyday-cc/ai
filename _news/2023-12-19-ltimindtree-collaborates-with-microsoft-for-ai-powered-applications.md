@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "Microsoft Cloud for Sovereignty now available across all Azure regions"
+    excerpt: "The Microsoft Cloud for Sovereignty service is now available across all Azure regions. The company said governments across the world will now be able to use Microsoft Cloud across more than 60 Azure cloud regions while meeting individual compliance, security, and policy requirements."
+    publishedDateTime: 2023-12-15T17:39:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-cloud-for-sovereignty-now-available-across-all-azure-regions/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 69
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft unveils powerful AI 'Compact Language Model' tailored for research applications"
     excerpt: "Our line of work with the Phi models aims to answer this question by training SLMs that achieve performance on par with models of much higher scale (yet still far from the frontier models).”"
     publishedDateTime: 2023-12-17T09:21:00Z
@@ -37,22 +51,47 @@ related:
         width: 360
         height: 202
         isCached: true
-  - title: "‘Small language model’ for researchers launched"
-    excerpt: "Microsoft has released its newest compact “small language model” titled Phi-2 that continues to perform at par or better than certain larger open-source Llama 2 models with less than 13"
-    publishedDateTime: 2023-12-19T05:34:00Z
-    webUrl: "https://www.thehansindia.com/technology/tech-news/small-language-model-for-researchers-launched-845293"
-    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/small-language-model-for-researchers-launched-845293"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/small-language-model-for-researchers-launched-845293"
+  - title: "Microsoft's new Windows AI Studio developer tool... makes you install Linux to use it"
+    excerpt: "Windows AI Studio, a new developer tool designed to help programmers integrate generative AI into apps, only works on Linux, the company has revealed. Specifically, it requires Ubuntu 18.04 Bionic Beaver or later, an LTS Linux distro that was first made available in April 2018."
+    publishedDateTime: 2023-12-19T14:50:00Z
+    webUrl: "https://www.techradar.com/pro/microsofts-new-windows-ai-studio-developer-tool-makes-you-install-linux-to-use-it"
     type: article
     provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 44
+      name: TechRadar
+      domain: techradar.com
+    quality: 57
+  - title: "Microsoft, Tom Tom are bringing a generative AI assistant to vehicles"
+    excerpt: "TomTom and Microsoft collaborate on a conversational automotive assistant powered by OpenAI's language models and Microsoft products like Azure Cosmos"
+    publishedDateTime: 2023-12-19T11:32:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-tom-tom-are-bringing-a-generative-ai-assistant-to-vehicles/articleshow/106125585.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 54
     images:
-      - url: "https://assets.thehansindia.com/h-upload/2023/10/25/1392411-microsoft.jpg"
-        width: 1200
-        height: 720
+      - url: "https://static.toiimg.com/thumb/msid-106125586,width-1070,height-580,imgsize-526522,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1068
+        height: 580
         isCached: true
+  - title: "Microsoft Only Cloud Giant 'Leader' in AI Governance Research Report"
+    excerpt: "In fact, among the largest general cloud computing platforms, IBM is the only other player covered in the 'IDC MarketScape: Worldwide AI Governance Platforms 2023 Vendor Assessment,' with fellow hyperscalers AWS and Google Cloud Platform not included."
+    publishedDateTime: 2023-12-18T19:52:00Z
+    webUrl: "https://virtualizationreview.com/articles/2023/12/18/ai-governance.aspx"
+    type: article
+    provider:
+      name: Virtualization Review
+      domain: virtualizationreview.com
+    quality: 34
+  - title: "Ooredoo reshapes region’s digital landscape with successful RISE with SAP migration to Microsoft Azure in Qatar"
+    excerpt: "Doha, Qatar: In a groundbreaking move set to redefine the digital landscape in the region, Ooredoo Group today announced the successful migration of its cloud ERP landscape, RISE with SAP, from Amsterdam to Microsoft cloud datacenter region in Qatar."
+    publishedDateTime: 2023-12-19T13:16:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/ooredoo-reshapes-regions-digital-landscape-with-successful-rise-with-sap-migration-to-microsoft-azure-in-qatar-e8afk723"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 14
 
 secured: "n2qCENLt0/SoE2DE1qXbA1DbxifBYhRJCOIKGXSRLkAx/QvOQXrdeDTxa3H6thTMTBMcJGixvUCA2nuKSUpy5+ReYX2ukYZ0GtbFke48VBui5HCWdUtc6R1maAS/pWhNJ1vgH6db9ziyn+Gn9mOca5IyZk/JQznxe3k0cqBrMp3PrI71Zvrnd9XIN5FOVolA2QC4J65HflMxJABYH5HCDNgQu6jeO42IBLbMMEDP4WqSDt6bydbD+j+R/fXgQAofHrqEX9DlGR8mkMmfK7pgtHN3FIZMNnnLw/SmqGOzTdPmkdZ0PaarV92rwuV9Y8dOeQmPKsWFSEiVQEtP132ocf55FvT7i1csnINVVkaa+9E1c3145pHWpS/YrtYoOXasA+mCJ2YupSgMwv+vFtw4eWl0Rj+bTYHJV2o+ySy5B94pEroDGiNpoBwRkQipQk1Hv1cdAyyWpl9uMptAdElcPbBUEyn1hp7ATdkXLSqWhdQSBAgiBPfHqcluX/1I7H7pzzrjpqbjhD4WnQmHXguCnA==;JIucz8bGwmse0bbQuLHyOQ=="
 ---

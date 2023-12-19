@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/tackling-ethical-and-security-concerns-of-
 webUrl: "https://techbullion.com/tackling-ethical-and-security-concerns-of-generative-ai-models/"
 type: article
 quality: 71
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -65,7 +65,16 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
+  - title: "HGS Next-Gen Accelerator for Contact Centers Harnessing the Power of Generative Artificial Intelligence, Now Available to All Brands"
+    excerpt: "Part of the multi-billion-dollar conglomerate Hinduja Group, HGS takes a \"globally local\" approach. HGS has over 19,947 employees across 35 delivery centers in nine countries, making a difference to some of the world's leading brands across verticals. For the year ended March 31, 2023, HGS had revenues of Rs. 5,006.7 crore (US$ 621.5 million)."
+    publishedDateTime: 2023-12-19T14:18:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/12/19/9936411.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 1
 
-secured: "mdZAIuUeWqxlmgqDw8a8W8Y9+vCX+c85BL2vY45uxtoq2bXxHyHp47wHsr/4JpkrtA7XDGnsWi3MunZUg8oomKCWBXvh6ILFQ2ZRQQQT/kVqQ4OA0poLfw23QjDPJZy1aW1n76PEI93FpUji+viWL+PsQ7XGGeMDUGqvmzdUo4GTMUvDFjo8CwkzBsqscwutVp1JLlaog2wtweRc3kalLmz6l+Ui6In9R7MuQQrJjwTATTRELa2dd+Jh9f/GDyYTErIX8MSrcS1YUzSvDZY6ngxMT6SSKhyKc/maKLiHzLwnmYTgS74kxol95O37wnMUNmc4Hn05nWBLq7nQps0Mg9nU0KWCs/qVxvudClRTMVw=;3ZIbN19ljwLtXKXCo9SB1Q=="
+secured: "BlMppBn7ZjdRlPWV7HsyVAw4TVh/Jtj+hWEazjDJgtw6jcKKDb8riPmVFvNu76iNrXobvUeFth7eKq/ZS21h+aZOuw9VEc9hnky/omc6aY0JECns96MhBl1OehKN5PRH3xMjF0i4p0BA6PhIBloVWq1U+5sRBxSQEHGill+o7VTFzkzUoya91yq66KDjslkTaDkvtMP84r9S2O938MotcN89rUIdOtyRpaR7WjdbNX6wqEHnMeSxTUMWwiWlXmFk+WUJRLSM01RK0Sw0AYUtveAQ6KxLAGir4LhqpeCRIQ2nSVh4lr1QAt8CpnJV1UqahJMwO5mrspGslKXVPNbeXrN9VXYSmrzXiiv2dM/LHzTFyLdHP6N291moC9CiK5JdeNpxNjgi7OYrN1PNP3S3s8mCE/HsIvDd2jXkOtUdvG3ZngKB/63ljirivBXpV9GUu/FgOtEbpb3gMsD1/9bf/amwhnO/HM2srFcKNBeGIPB0jrbDUQuOaBv0tsg8vBotHLi0FI/96wuPW+IR/HFZJQ==;ofSwGlgHP1DSmkEV2zwshA=="
 ---
 

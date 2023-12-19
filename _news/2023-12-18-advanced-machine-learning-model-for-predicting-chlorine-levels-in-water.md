@@ -24,6 +24,17 @@ images:
     height: 327
     isCached: true
 
+related:
+  - title: "Deep Learning Model Predicts Mortality Following Medical Procedures"
+    excerpt: "Patients classified as high risk for postoperative mortality by a new deep learning tool were nearly nine times more likely to die than their low-risk counterparts."
+    publishedDateTime: 2023-12-19T13:00:00Z
+    webUrl: "https://healthitanalytics.com/news/deep-learning-model-predicts-mortality-following-medical-procedures"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 19
+
 secured: "kmEe8CUjLyocY8bAzbYZ7xrG14PY91la8nreh3N3duDM2WQbvR4hiouPJdFLyGuU5XQzXgbtLuU0bcQG0rD54I8A6Sp7i3DTSQgjMJrcESSk7s/X/qBiB5gRmjo5CNBoEduTVIYsltjRv1084HHa+RXM7mGbV9wUqT1/rTt1dzUTTTqc/MspcIG01w0d6jBec06coXCo4GsdZDJHwTzSPC4RzMSE0x4iGzlYFoz3+QihTogrUKZYGeRqolorgd43ofm+JoASJQRv8zmaeD21txvo45k88wpvJ5gfDeqV3A1fl5qZM9KSNLlcS8E6T/ohwX7NMhkN6P7KMH4JHyy/vHKGaYtEUlwmic4IJaIISIQ=;jF8RgtzSuxhIfbtRLg9ZYg=="
 ---
 

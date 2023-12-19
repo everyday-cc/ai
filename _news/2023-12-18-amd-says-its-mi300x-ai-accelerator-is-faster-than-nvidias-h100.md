@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/101238-amd-mi300x-ai-accelerator-fas
 webUrl: "https://www.techspot.com/news/101238-amd-mi300x-ai-accelerator-faster-than-nvidia-h100.html"
 type: article
 quality: 69
-heat: 112
+heat: 109
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Intel stock hits a fresh 52-week high after saying its new AI chip tops Nvidia's H100"
-    excerpt: "At 11:00 EDT (16:00 GMT), Intel stock was up about 4% on the day, hitting a new 52-week high."
-    publishedDateTime: 2023-12-14T16:46:00Z
-    webUrl: "https://za.investing.com/news/intel-stock-hits-a-fresh-52week-high-after-saying-its-new-ai-chip-tops-nvidias-h100-432SI-2958248"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
-    quality: 47
-    images:
-      - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
-        width: 251
-        height: 282
-        isCached: true
   - title: "NVIDIA fires back at AMD saying its new MI300X chip is faster than its H100 GPU - it isn't"
     excerpt: "NVIDIA responds to AMD's showcasing the MI300X being faster than the H100 GPU. Here are the real results where the H100 is up to 2X faster."
     publishedDateTime: 2023-12-15T04:34:00Z
@@ -85,6 +71,15 @@ related:
         width: 1280
         height: 792
         isCached: true
+  - title: "Intel: Upcoming Gaudi3 AI Accelerator Will Compete With Nvidia H100, AMD MI300"
+    excerpt: "Given its advanced manufacturing process and addition of the newest memory standards, Gaudi3 could be very competitive with Nvidia's and AMD's products while costing less. Intel says it's rapidly expanding its Gaudi pipeline thanks to \"growing and proven performance advantages combined with highly competitive TCO and pricing.\""
+    publishedDateTime: 2023-12-19T14:00:00Z
+    webUrl: "https://www.extremetech.com/computing/intel-upcoming-gaudi3-ai-accelerator-will-compete-with-nvidia-h100-amd"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 15
 
 secured: "TIt2taCdiiWI5ZFiTnbHJjXOiLkqPVcteUziHs1IXg225aLtXp6s5xX0YUyZfNqjyjt/gYKA8RuggrfgYtHW4+2tHngLpGbMPrjhnK19VbFnRDaqPw1MjZRVOlQz9+jtSU2vcMmGsAFITor+f7Z8zpt5dmmVTIe3zBR6gTZXvzltcTASDOYJ0nJY9BX3vw8j2tC4uSZfh8RNSkEE71pnrGW4TKUEkPb3eRHtWe1vgr/kUF6oa4wlbH6W+eXnjWTKZpv2ZRsMDsA9fnYd3z5xIC3ayGfTwp0rXuquaLexSr2Mo5G1L0R5NgDUHyaRh9wF6wfzmv1GHHMhPrzlRJAtqCDGf933ksUt3gLSxebXXnzFaeOv6CkbrVhBMbyxmZ/GopgWtoy2f2usApWNhxHHerCbQZ8q6o0dMOXQiZlKwqOI8KWs5g7qK/1llBf/4v/rmYECsA3UWI68xYotc2U0m+9PTpWNj2L1AJHpHP7rMSlkdwteXCGsFLBmucxnJP2EVFL/BTTXnGhhLxVpc0WAuA==;ludkebQ5OcJ6lAp24wwHqA=="
 ---

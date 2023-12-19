@@ -39,20 +39,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Samsung Galaxy Buds 3 Pro leak reveals real-time translation feature — and you don't even need the cloud to speak to people in another language"
-    excerpt: "According to a report by South Korea's Maeil Business Newspaper, Samsung's next-gen Galaxy Buds Pro 3 wireless earbuds could come with real-time language translations thanks to their powerful on-device AI capabilities."
-    publishedDateTime: 2023-12-14T15:17:00Z
-    webUrl: "https://www.tomsguide.com/news/samsung-galaxy-buds-3-pros-biggest-upgrade-just-tipped-and-it-sounds-like-a-game-changer"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 0
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/DhYub5u92hANcYqzE4Kr4Y-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "WJBIkp+3DgXfPvimbZseeQSa1zSaiPeN0gjQUjZdUMkxI4YAOQyL0164R52ZmJS+8H7GpTcqiSLIkAsuTN/oMjl2qmAvIyr4OMcYs/ZPJPOENqZQCEjq5/TyfsYxUr/zvPDav2yE+8lAV8b3FfeKl7+hqJ9C819T81ykDTngTuZ6kJSt+5TakOoVBF6lSgvOUBWLMuu3lmDMtADo5tzCntb1SXt1xNwDroG9SloGxap7uwxqX8pPh6opOWBJ+K7SADRV3PFKGg6c9BYIslLMcqRw0RvAUYkB53UEJbMkJNwGx9GyMXRKUaeTcjF5n1ArI+M+jRqxuXT8xN/7s9CnjeoQlLh3w1iNX2wmjlgHrbQNEaTcVGOvj3pBOkyRvAGmZ6Gq3SWhNd7MBnNx94hGLJKBUHn63/4ewjVTvRQ1mSVdx/lEIyVEuDS9FmzHuxLFG3L4aUXGkkpAlxvP/AtjeiViBUnDi8ddq+C2J4u+N+BbrNA7ItcXOwlMJdQi4RfC5BxQjNRwplqsb0b2uKBWww==;LowFnw0tpdWrQtTedjxHJg=="
 ---

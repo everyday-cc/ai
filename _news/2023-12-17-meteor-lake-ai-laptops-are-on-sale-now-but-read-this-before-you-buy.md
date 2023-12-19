@@ -7,7 +7,7 @@ originalUrl: "https://www.tomsguide.com/opinion/meteor-lake-ai-laptops-are-on-sa
 webUrl: "https://www.tomsguide.com/opinion/meteor-lake-ai-laptops-are-on-sale-now-but-read-this-before-you-buy"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Yes, ‘AI laptops’ are a thing now: 5 that will boost your AI workflow"
+    excerpt: "For the uninitiated, popular chipmaker Intel unveiled the next generation of chipsets, called Intel Core Ultra processors. What's the big deal about 'em? Well, they include an NPU, which means AI and machine-learning tasks should get a boost on these new \"AI laptops.\""
+    publishedDateTime: 2023-12-16T10:00:00Z
+    webUrl: "https://mashable.com/article/5-ai-laptops"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 67
+    images:
+      - url: "https://helios-i.mashable.com/imagery/articles/03YOxbRzJcfME0JA2OikoPy/hero-image.fill.size_1200x675.v1702673308.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Intel Meteor Lake has arrived: Here’s what these new ‘AI laptops’ can do"
     excerpt: "So when Intel promotes these new Meteor Lake-powered laptops as \"AI laptops,\" what they're trying to convey is that these laptops have a special processor dedicated to the kind of work that AI tasks often demand."
     publishedDateTime: 2023-12-15T06:00:00Z

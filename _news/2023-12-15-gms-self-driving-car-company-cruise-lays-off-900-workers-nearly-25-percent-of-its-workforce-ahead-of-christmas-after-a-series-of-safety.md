@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cruise slashes 24% of self-driving car workforce in sweeping layoffs"
-    excerpt: "Cruise, the embattled GM self-driving car subsidiary, is laying off 900 employees to slash costs and attempt to revamp the company."
-    publishedDateTime: 2023-12-14T15:50:00Z
-    webUrl: "https://techcrunch.com/2023/12/14/cruise-slashes-24-of-self-driving-car-workforce-in-sweeping-layoffs/"
-    ampWebUrl: "https://techcrunch.com/2023/12/14/cruise-slashes-24-of-self-driving-car-workforce-in-sweeping-layoffs/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/14/cruise-slashes-24-of-self-driving-car-workforce-in-sweeping-layoffs/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 74
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1497020096.jpg?resize=1200,741"
-        width: 1200
-        height: 741
-        isCached: true
   - title: "GM self-driving arm Cruise is laying off 24% of its workforce"
     excerpt: "A Cruise self-driving car, which is owned by General Motors Corp, is seen outside the company's headquarters in San Francisco where it does most of its testing, in California, U.S., September 26 ..."
     publishedDateTime: 2023-12-14T19:54:00Z

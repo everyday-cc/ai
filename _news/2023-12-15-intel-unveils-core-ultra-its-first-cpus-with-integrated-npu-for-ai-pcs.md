@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel Core Ultra Meteor Lake Mobile CPUs Launch With Gaming Grade iGPU And AI Brawn"
-    excerpt: "If you're reading this website right now, we probably don't have to explain to you that Intel's new Core Ultra processors launching today were codenamed Meteor Lake, and that they represent not only Intel's first \"disaggregated\" CPUs built from disparate tiles,"
-    publishedDateTime: 2023-12-14T14:00:00Z
-    webUrl: "https://hothardware.com/news/intel-core-ultra-mtl-launch"
-    ampWebUrl: "https://amp.hothardware.com/news/intel-core-ultra-mtl-launch"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/intel-core-ultra-mtl-launch"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 68
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/63353/content/hero-intel-core-ultra.jpg"
-        width: 708
-        height: 398
-        isCached: true
   - title: "Acer Predator Triton Neo 16 with Intel Core Ultra CPUs & RTX 4070 GPU unveiled"
     excerpt: "Acer has introduced the Predator Triton Neo 16 (PTN16-51), a gaming laptop equipped with Intel Core Ultra processors featuring dedicated AI acceleration and NVIDIA GeForce RTX 40 Series GPUs. This gaming powerhouse caters to both players and content creators,"
     publishedDateTime: 2023-12-15T05:21:00Z
@@ -56,34 +40,6 @@ related:
       - url: "https://www.gizmochina.com/wp-content/uploads/2023/12/Triton_Neo_16_SP02_transparent.png"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "MSI Prestige 'Meteor Lake' Laptops, Hands On: Intel's Core Ultra Brings AI to Work"
-    excerpt: "Intel's new Core Ultra laptop CPUs, packing built-in AI hardware, meet MSI's business-class Prestige machines. We checked out these early Meteor Lake laptops ahead of launch."
-    publishedDateTime: 2023-12-14T15:00:00Z
-    webUrl: "https://www.pcmag.com/news/msi-prestige-meteor-lake-laptops-hands-on-intels-core-ultra-brings-ai-to"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 61
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/06e9xgiHky7uvQ5rRqECnHg-1.fit_lim.size_1200x630.v1702491358.jpg"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "'Meteor Lake' First Tests: Intel Core Ultra 7 Benched for CPU, Graphics, and AI Performance"
-    excerpt: "We got a fresh-updated Acer Swift Go 14 laptop into PC Labs for our first independent benchmarking of Intel's AI-ready Core Ultra processors. Let's run the numbers!"
-    publishedDateTime: 2023-12-14T15:00:00Z
-    webUrl: "https://www.pcmag.com/news/meteor-lake-first-tests-intel-core-ultra-7-benched-for-cpu-graphics-and"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 57
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/00be0cfFHCGX7qO2JstGi4j-6.fit_lim.size_1200x630.v1702565935.jpg"
-        width: 1120
-        height: 630
         isCached: true
   - title: "Intel Core Ultra mobile processors announced with up to 16 cores, 5.1 GHz clock speed & AI acceleration"
     excerpt: "Intel has introduced the latest Core Ultra mobile processors at the “AI Everywhere” event, signaling a transformative phase in personal computing. These processors, built on Intel’s 4 process technology,"
@@ -99,31 +55,6 @@ related:
         width: 1072
         height: 603
         isCached: true
-  - title: "Intel unveils AI experience-focused Core Ultra mobile chips: Details here"
-    excerpt: "Intel said the Core Ultra mobile processors will power more than 230 of the world's first AI PCs from partners including Acer, ASUS, Dell, Google Chromebook, LG, Microsoft Surface, MSI and Samsung"
-    publishedDateTime: 2023-12-15T06:04:00Z
-    webUrl: "https://www.business-standard.com/technology/tech-news/intel-unveils-ai-experience-focused-core-ultra-mobile-chips-details-here-123121500289_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/technology/tech-news/intel-unveils-ai-experience-focused-core-ultra-mobile-chips-details-here-123121500289_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/intel-unveils-ai-experience-focused-core-ultra-mobile-chips-details-here-123121500289_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 53
-  - title: "Intel’s 14th-gen “Core Ultra” mobile chips bring a graphics upgrade, AI features, and a branding refresh"
-    excerpt: "Graphics features include support for up to four 4K displays, hardware-accelerated decoding and encoding of AV1, H.265, H.264, and VP9 and up to 8K, 10-bit HDR, DirectX 12 Ultimate, and Intel Xe Super Sampling for AI-based upscaling."
-    publishedDateTime: 2023-12-14T14:00:00Z
-    webUrl: "https://liliputing.com/intels-14th-gen-core-ultra-mobile-chips-bring-a-graphics-upgrade-ai-features-and-a-branding-refresh/"
-    type: article
-    provider:
-      name: Liliputing
-      domain: liliputing.com
-    quality: 37
-    images:
-      - url: "https://liliputing.com/wp-content/uploads/2023/12/core-ultra_02.jpg"
-        width: 992
-        height: 513
-        isCached: true
   - title: "Acer Debuts AI-Ready Swift Go 14 Laptop with New Intel Core Ultra Processors"
     excerpt: "Acer announced new models of the AI-ready Acer Swift Go 14 (SFG14-72)powered byIntel® Core™ Ultraprocessors that feature Intel Arc graphics processing unit (GPU) and Intel AI Boost,"
     publishedDateTime: 2023-12-18T17:08:00Z
@@ -138,15 +69,20 @@ related:
         width: 640
         height: 381
         isCached: true
-  - title: "Intel Launches Core Ultra ‘Meteor Lake’ Chips In AI PC Push Against Rivals"
-    excerpt: "Intel said the new Core Ultra chips for ultrathin laptops provide superior multi-threading and AI performance to rivals."
-    publishedDateTime: 2023-12-14T17:21:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/intel-launches-core-ultra-meteor-lake-chips-in-ai-pc-push-against-rivals"
+  - title: "Samsung Galaxy Book 4 with Intel Power SoC & NVIDIA GeForce RTX 4070 GPU Launched"
+    excerpt: "Korean giant, Samsung has finally launched its new premium laptop, the Galaxy Book 4 series powered with Intel Power CPU & NVIDIA GeForce RTX 407 GPU."
+    publishedDateTime: 2023-12-15T12:09:00Z
+    webUrl: "https://techstory.in/samsung-galaxy-book-4-with-intel-power-soc-nvidia-geforce-rtx-4070-gpu-launched/"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 32
+      name: tech
+      domain: techstory.in
+    quality: 34
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2023/12/Simranpal-Singh.jpeg"
+        width: 1280
+        height: 960
+        isCached: true
   - title: "HP's new Omen Transcend 14 gaming laptop: Intel Core Ultra 9 185H CPU + RTX 4070 GPU"
     excerpt: "HP's new Omen Transcend 14 features a 14-inch 2.8K (2880 x 1800) OLED panel at 120Hz, which will look absolutely gorgeous in person, and buttery smooth with its 240Hz refresh rate. The panel supports Variable Refresh Rate (VRR) in the 48-120Hz range, with HDR brightness of 500 nits and full DCI-P3 color gamut coverage."
     publishedDateTime: 2023-12-18T23:40:00Z
@@ -161,33 +97,10 @@ related:
         width: 1500
         height: 1000
         isCached: true
-  - title: "GIGABYTE Introduces New AORUS 17 and AORUS 15 AI-Powered Gaming Laptops with Intel Core Ultra 7 Processors"
-    excerpt: "GIGABYTE, the world's leading computer brand, proudly introduces the latest evolution in gaming laptops for 2024 - theAORUS 17 and AORUS 15 - delivering cutting-edge performance in their signature sleek and portable package."
-    publishedDateTime: 2023-12-14T17:13:00Z
-    webUrl: "https://www.malaysiasun.com/news/274065021/gigabyte-introduces-new-aorus-17-and-aorus-15-ai-powered-gaming-laptops-with-intel-core-ultra-7-processors"
-    type: article
-    provider:
-      name: Malaysia Sun
-      domain: malaysiasun.com
-    quality: 21
-    images:
-      - url: "https://mma.prnasia.com/media2/2299916/GIGABYTE_New_AORUS_17.jpg?p=medium600"
-        width: 599
-        height: 337
-        isCached: true
   - title: "Acer Swift Go 14 AI ready OLED laptops powered Intel Core Ultra CPUs"
     excerpt: "The laptop market is set to become even more competitive with Acer's introduction of the AI-ready Swift Go 14 laptop, powered by Intel Core Ultra"
     publishedDateTime: 2023-12-15T12:45:00Z
     webUrl: "https://www.geeky-gadgets.com/acer-swift-go-14-ai-ready-oled-laptops-powered-intel-core-ultra-cpus/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 19
-  - title: "AORUS 17 & 15 Intel Core Ultra 7 AI ready gaming laptops"
-    excerpt: "GIGABYTE's latest offerings for 2024 - the AORUS 17 and AORUS 15 offer gamers a combination of powerful hardware, state-of-the-art cooling technology, and"
-    publishedDateTime: 2023-12-15T13:19:00Z
-    webUrl: "https://www.geeky-gadgets.com/aorus-17-15-intel-core-ultra-7-ai-ready-gaming-laptops/"
     type: article
     provider:
       name: Geeky Gadgets
@@ -207,15 +120,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Intel Accelerates AI Everywhere with Launch of Powerful Next-Gen Products"
-    excerpt: "At its \"AI Everywhere\" launch in New York City today, Intel introduced an unmatched portfolio of AI products to enable customers' AI solutions everywhere - across the data center, cloud, network, edge and PC."
-    publishedDateTime: 2023-12-14T16:37:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-intel-accelerates-ai-everywhere-with-launch-powerful-next-/2023/12/14/9934473.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 18
   - title: "Acer Debuts AI-Ready Swift Go 14 Laptop with New Intel Core Ultra Processors"
     excerpt: "New Acer Swift Go 14 laptop enables AI-accelerated experiences and capabilities complemented by Intel AI Boost and Copilot in Windows 11"
     publishedDateTime: 2023-12-14T19:03:00Z

@@ -40,6 +40,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Music AI in 2023: a database of tools"
+    excerpt: "It almost feel superfluous to say it, but 2023 has unequivocally been The Year Of AI. Music Ally has reported on the various music AI developments as closely and quickly as we could, although the"
+    publishedDateTime: 2023-12-19T13:55:00Z
+    webUrl: "https://musically.com/2023/12/19/music-ai-in-2023-a-database-of-tools/"
+    type: article
+    provider:
+      name: Music Ally
+      domain: musically.com
+    quality: 19
   - title: "2023: The year we played with artificial intelligence — and weren't sure what to do about it"
     excerpt: "Artificial intelligence went mainstream in 2023 — it was ... through a huge database of photos to recognize objects and individual faces and help guide self-driving cars. Speech recognition advances made voice assistants like Siri and Alexa a fixture ..."
     publishedDateTime: 2023-12-14T18:23:00Z

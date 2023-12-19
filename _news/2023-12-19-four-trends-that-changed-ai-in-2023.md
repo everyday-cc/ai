@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2023/12/19/1085696/four-trends-that
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/19/1085696/four-trends-that-changed-ai-in-2023/amp/"
 type: article
 quality: 59
-heat: 91
+heat: 92
 published: true
 
 provider:
@@ -50,15 +50,15 @@ related:
       name: AOL
       domain: aol.com
     quality: 19
-  - title: "How AI could change trucking in 2024"
-    excerpt: "Samsara CIO Stephen Franchetti told FleetOwner: \"As the AI explosion continues, an organization's ability to stay competitive and innovate will come down to their enterprise data strategy. We'll start to see an increased need for a robust foundation of ..."
-    publishedDateTime: 2023-12-14T14:43:00Z
-    webUrl: "https://www.fleetowner.com/technology/article/21279287/how-ai-could-change-trucking-in-2024"
+  - title: "Top AI Trends That Will Impact Businesses in 2024"
+    excerpt: "In 2024, AI will expand beyond mere automation, entering areas such as explainable AI, responsible AI, and enhanced human-machine collaboration. Businesses should adapt quickly to use this trend for strategic decision-making, operational efficiency, and  customer-focused innovation."
+    publishedDateTime: 2023-12-19T13:03:00Z
+    webUrl: "https://www.finextra.com/blogposting/25421/top-ai-trends-that-will-impact-businesses-in-2024"
     type: article
     provider:
-      name: Fleet Owner
-      domain: fleetowner.com
-    quality: 17
+      name: Finextra
+      domain: finextra.com
+    quality: 19
 
 secured: "nSYurT12lSwsZ3WCS4+1UC05+ZRUgPwIORHxqutMcsyJVvf8yO96qLSek71yI2j80IiEZEEyy4Gy9qiKZEkVU79bmR/MQj2KaHC2gt/sQutqtuKcSvNIvfETxAmkFhIaobL4IaDGF0mHr8S/3lcmxvnf9ZFfWO92NBDiF7G4fdXhVbzZhufKcnCoPrqvIMiJtjXgbfPRjswMZFnnFf/xsJVu4V7oCGrk2Ieb/Dw22WoKNfrZJLtPuWikoGGnDECsvdhNfWVFKbeH8kIg1CVIZ0/SNq1CNyemN3Tl5U+buGnl0cgP8geZbBeyCCcmoRsUCzVFz1MGcaBmNucmm+YJW0TZyI2BqYU6kPjF8+g8fV7OYVJZn2EXp8hz5Reh2hFs1rnQAJJNOju1kEZ4/3PEogF35sBJut4HTAWEcjB0WWAanK62mI0w0oSqzA8fvKooRelW9bNEZe5iYrQyqYGOhgj0aKU6bWwdUXMumCbR/Xy9vuUTLAhrzFmpzaElTQBM5WZALRAEtp7sJLh+FnsQDw==;1flpC2qNMAe4Y0KWExikaQ=="
 ---

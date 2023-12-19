@@ -26,99 +26,103 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft is a leader in the 2023 IDC MarketScape for AI Governance Platforms"
-    excerpt: "We are excited to announce that Microsoft Azure is recognized as a leader in the inaugural IDC MarketScape for AI Governance Platforms. IDC looked at AI governance platforms that ensure AI and machine learning lifecycle governance, collaborative risk management, and regulatory excellence for AI.\nThe"
-    publishedDateTime: 2023-12-14T17:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/microsoft-is-a-leader-in-the-2023-idc-marketscape-for-ai-governance-platforms/"
+  - title: "Intel Unveils New AI Chips to Rival Nvidia’s Dominance in AI Industry, INTC Stock Up 1%"
+    excerpt: "Dubbed Gaudi3, Intel intends to attract generative AI companies like OpenAI away from Nvidia and bolster its stock market performance."
+    publishedDateTime: 2023-12-15T11:11:00Z
+    webUrl: "https://www.coinspeaker.com/intel-ai-chips-intc-stock/"
+    ampWebUrl: "https://www.coinspeaker.com/intel-ai-chips-intc-stock/amp/"
+    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/intel-ai-chips-intc-stock/amp/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 101
+      name: coinspeaker
+      domain: coinspeaker.com
+    quality: 66
     images:
-      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/12/MS_AI_Education-social.jpg"
-        width: 943
-        height: 628
+      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/12/intel-ai-chips-intc-stock.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Microsoft Cloud for Sovereignty now available across all Azure regions"
-    excerpt: "The Microsoft Cloud for Sovereignty service is now available across all Azure regions. The company said governments across the world will now be able to use Microsoft Cloud across more than 60 Azure cloud regions while meeting individual compliance, security, and policy requirements."
-    publishedDateTime: 2023-12-15T17:39:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-cloud-for-sovereignty-now-available-across-all-azure-regions/"
+  - title: "Intel unveils AI experience-focused Core Ultra mobile chips: Details here"
+    excerpt: "Intel said the Core Ultra mobile processors will power more than 230 of the world's first AI PCs from partners including Acer, ASUS, Dell, Google Chromebook, LG, Microsoft Surface, MSI and Samsung"
+    publishedDateTime: 2023-12-15T06:04:00Z
+    webUrl: "https://www.business-standard.com/technology/tech-news/intel-unveils-ai-experience-focused-core-ultra-mobile-chips-details-here-123121500289_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/technology/tech-news/intel-unveils-ai-experience-focused-core-ultra-mobile-chips-details-here-123121500289_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/intel-unveils-ai-experience-focused-core-ultra-mobile-chips-details-here-123121500289_1.html"
     type: article
     provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 69
+      name: Business Standard
+      domain: business-standard.com
+    quality: 53
+  - title: "Intel Drops New Core Ultra Processors and Gaudi3 AI Chip to Take on Nvidia and AMD"
+    excerpt: "Intel launches Core Ultra processors and Gaudi3 AI chip to compete with Nvidia and AMD. Core Ultra line features chiplet design, neural processing unit, and specialized AI components for enhanced performance."
+    publishedDateTime: 2023-12-16T10:47:00Z
+    webUrl: "https://www.technobezz.com/news/intel-drops-new-core-ultra-processors-and-gaudi3-ai-chip-to-take-on-nvidia-and-amd/"
+    type: article
+    provider:
+      name: Technobezz.com
+      domain: technobezz.com
+    quality: 48
     images:
-      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
+      - url: "https://cdn.technobezz.com/c/intel_core_ultra_holthaus_jpg_rendition_intel_web_1648_927_d97184be91/intel_core_ultra_holthaus_jpg_rendition_intel_web_1648_927_d97184be91.jpg"
+        width: 1102
+        height: 927
         isCached: true
-  - title: "Microsoft Launches Robust AI 'Small Language Model' For Researchers"
-    excerpt: "Microsoft has released its newest compact“small language model” titled Phi-2 that continues to perform at par or better than"
-    publishedDateTime: 2023-12-17T08:09:00Z
-    webUrl: "https://menafn.com/1107609442/Microsoft-Launches-Robust-AI-Small-Language-Model-For-Researchers"
+  - title: "Intel’s new chip Gaudi3 competes with Nvidia and AMD"
+    excerpt: "Intel launched a range of new products, including Gaudi3, a chip for generative AI software, Core Ultra, a chip for Windows laptops and PCs, and Xeon, a chip for servers."
+    publishedDateTime: 2023-12-15T02:52:00Z
+    webUrl: "https://interestingengineering.com/innovation/intels-new-chip-gaudi3-competes-with-nvidia-and-amd"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 56
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?537922"
-        width: 419
-        height: 250
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/12/15/image/jpeg/wYkj6XdZYwfk4JfVqMMfH13lZNZ5vQC6qujPEM9v.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Microsoft, Tom Tom are bringing a generative AI assistant to vehicles"
-    excerpt: "TomTom and Microsoft collaborate on a conversational automotive assistant powered by OpenAI's language models and Microsoft products like Azure Cosmos"
-    publishedDateTime: 2023-12-19T11:32:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-tom-tom-are-bringing-a-generative-ai-assistant-to-vehicles/articleshow/106125585.cms"
+  - title: "Lenovo unveils new AI PC experiences powered by Intel Core Ultra processors"
+    excerpt: "Geek Stream ▾ - Lenovo unveils new AI PC experiences powered by Intel Core Ultra processors - - Absolute Geeks"
+    publishedDateTime: 2023-12-15T08:24:00Z
+    webUrl: "https://www.absolutegeeks.com/article/geek-stream/lenovo-unveils-new-ai-pc-experiences-powered-by-intel-core-ultra-processors/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 54
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-106125586,width-1070,height-580,imgsize-526522,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1068
-        height: 580
-        isCached: true
-  - title: "AFL-CIO and Microsoft Announce New Tech-Labor Partnership on AI and the Future of the Workforce"
-    excerpt: "This collaboration will start this winter and take the form of Microsoft hosted labor summits. The partners will bring labor leaders and workers together with Microsoft's key AI product developers, researchers and business leaders for intensive discussions ..."
-    publishedDateTime: 2023-12-18T16:20:00Z
-    webUrl: "https://www.contractormag.com/technology/article/21279485/afl-cio-and-microsoft-announce-new-tech-labor-partnership-on-ai-and-the-future-of-the-workforce"
-    type: article
-    provider:
-      name: CONTRACTOR
-      domain: contractormag.com
-    quality: 42
-    images:
-      - url: "https://img.contractormag.com/files/base/ebm/contractormag/image/2023/12/65806d0a72ae3d001e84df07-aflciologowhitetag1200x630.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Achieving cross-border data protection with Microsoft Cloud for Sovereignty"
-    excerpt: "Organisations are paying for their data protection mistakes. Failure to comply with the European Union (EU)’s General Data Protection Regulation (GDPR), for example, can result in fines of up to €20.3 million ($22."
-    publishedDateTime: 2023-12-15T16:08:00Z
-    webUrl: "https://www.technologyrecord.com/article/achieving-cross-border-data-protection-with-microsoft-cloud-for-sovereignty"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
+      name: absolutegeeks.com
+      domain: absolutegeeks.com
     quality: 37
     images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4758/Cross-border-protection-cover-story-975x548.jpg"
-        width: 975
-        height: 548
+      - url: "https://www.absolutegeeks.com/wp-content/uploads/2023/12/lenovo.jpg"
+        width: 940
+        height: 773
         isCached: true
-  - title: "Microsoft Only Cloud Giant 'Leader' in AI Governance Research Report"
-    excerpt: "In fact, among the largest general cloud computing platforms, IBM is the only other player covered in the 'IDC MarketScape: Worldwide AI Governance Platforms 2023 Vendor Assessment,' with fellow hyperscalers AWS and Google Cloud Platform not included."
-    publishedDateTime: 2023-12-18T19:52:00Z
-    webUrl: "https://virtualizationreview.com/articles/2023/12/18/ai-governance.aspx"
+  - title: "Nvidia's AI Boom And The Ghost Of Cisco's Internet Bust"
+    excerpt: "Nvidia Corporation established dominance in AI advancements, where it already had a foothold in data center market. Find out why NVDA stock is a Sell."
+    publishedDateTime: 2023-12-18T13:45:00Z
+    webUrl: "https://seekingalpha.com/article/4658450-nvidia-nvda-ai-boom-and-ghost-of-cisco-internet-bust"
     type: article
     provider:
-      name: Virtualization Review
-      domain: virtualizationreview.com
-    quality: 34
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 37
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/949315604/image_949315604.jpg?io=getty-c-w1536"
+        width: 1536
+        height: 1024
+        isCached: true
+  - title: "GIGABYTE Introduces New AORUS 17 and AORUS 15 AI-Powered Gaming Laptops with Intel Core Ultra 7 Processors"
+    excerpt: "GIGABYTE, the world's leading computer brand, proudly introduces the latest evolution in gaming laptops for 2024 - theAORUS 17 and AORUS 15 - delivering cutting-edge performance in their signature sleek and portable package."
+    publishedDateTime: 2023-12-14T17:13:00Z
+    webUrl: "https://www.malaysiasun.com/news/274065021/gigabyte-introduces-new-aorus-17-and-aorus-15-ai-powered-gaming-laptops-with-intel-core-ultra-7-processors"
+    type: article
+    provider:
+      name: Malaysia Sun
+      domain: malaysiasun.com
+    quality: 21
+    images:
+      - url: "https://mma.prnasia.com/media2/2299916/GIGABYTE_New_AORUS_17.jpg?p=medium600"
+        width: 599
+        height: 337
+        isCached: true
 
 secured: "+9UTGvm7M4pddNuMbw0IRdvBMePzYVz/YbPNyshxIyVPGDRl1J3uGkXN40OPw1aGmvus3yf/kQfosRNKZ4gR1BsiJHAz3ZSosDuS2qcKTVZgReCs90PmV3biGmy3J0Wn1KLc5FgHFUo1GRMbP5xtiso8teHaxnrUmX3xKgVfG1PF9cDzC/DzG8XNv7kXV2B3PW3mkkw45VcCpUtVYR0OChU/SkTeN7UzV5uvI7L2WXsFCs12sztu8S1uZrGDJAU18cuLZs3Nd1xPqBUtQIY/Tqr+hc466UjiJj+zb88Q2vADXjAnvRR2BEBt8VzgPN9vcm+HOlhXdU1RmhfN4xtLGbw+G877Xc38rQd1lygSZhDYYEybFfMq2dX3VZf/lQv6yFNebePcnqNTHho605OybkCI7oSoEpHrtcyywBVuGpIOgIURStR+kFCCWerrA4r3qlPri+txWn9Mz+9jGxHGOJfc+d0OiiqDZCgn6c9kJVhhhOFJiItNizuPWnc5WUr+LS0TWJk1KmQxh6mZnS1WGw==;kyHQn9xh8B5B4HFjBbAYBQ=="
 ---

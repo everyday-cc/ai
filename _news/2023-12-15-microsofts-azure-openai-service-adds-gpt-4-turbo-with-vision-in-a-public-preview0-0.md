@@ -9,8 +9,8 @@ ampWebUrl: "https://www.neowin.net/amp/microsofts-azure-openai-service-adds-gpt-
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsofts-azure-openai-service-adds-gpt-4-turbo-with-vision-in-a-public-preview/"
 type: article
 quality: 112
-heat: -1
-published: false
+heat: 162
+published: true
 
 provider:
   name: Neowin
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Azure OpenAI Service powers the Microsoft Copilot ecosystem"
-    excerpt: "Copilot—powered by Microsoft Azure OpenAI Service—allows you to simplify how you design, operate, optimize, and troubleshoot apps and infrastructure from cloud to edge.\nThe post Azure OpenAI Service powers the Microsoft Copilot ecosystem appeared first on Microsoft Azure Blog.\n"
-    publishedDateTime: 2023-12-14T16:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/azure-openai-service-powers-the-microsoft-copilot-ecosystem/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 119
-    images:
-      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/12/CLO20b_Avery_Quinn_casual_office_002-scaled.jpg"
-        width: 2560
-        height: 1706
-        isCached: true
   - title: "Alphabet Needs to Show Path to AI Sales in Race With Microsoft"
     excerpt: "“The whole business model depends on getting this right,” said Gene Munster, co-founder and managing partner at Deepwater Asset Management, whose firm holds the stock. “If they can nail multi-modal generative AI, that will draw usage to Google, and that increased usage will protect and grow the search business.”"
     publishedDateTime: 2023-12-15T01:46:00Z
@@ -102,6 +88,20 @@ related:
       - url: "https://tii.imgix.net/production/articles/11919/147875d6-e89c-42b3-83fe-4760752a7e13.png?fm=jpg&auto=compress&w=1200&frame=0"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Achieving cross-border data protection with Microsoft Cloud for Sovereignty"
+    excerpt: "Organisations are paying for their data protection mistakes. Failure to comply with the European Union (EU)’s General Data Protection Regulation (GDPR), for example, can result in fines of up to €20.3 million ($22."
+    publishedDateTime: 2023-12-15T16:08:00Z
+    webUrl: "https://www.technologyrecord.com/article/achieving-cross-border-data-protection-with-microsoft-cloud-for-sovereignty"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 37
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4758/Cross-border-protection-cover-story-975x548.jpg"
+        width: 975
+        height: 548
         isCached: true
 
 secured: "PpFzB2CQRjRVwf5YuFp9Z0vL+u6BN/hkUYyb/DtVgxbALi5VH3ZExcp1p7x+efuu1MM75da/xJk9rd5xL+CVzvmYC7UHUvk9PhUMQmJU5NuTAScqqB3ZyzAUH0qzM+B6C420MBrrTQ+J48IdwKCEyTnq9poKMqtH+LLtLWTLTtUBAsVBVAfjJW1rhdu5hFtKxcKuSw0aLjUuQfajZWCV+qJR8YTxwQjMl4NwVS0evgRVLKR1VxCNZzdZaosUn9gDy6ird/hUV0LgoaFFhAcK5ngipTXFVcjJgpcggZipvwCc3PDls8ej+5MGUK/VK9Crxt4soUdudF7R69WhwBciAec8xUcTtFVq5D24JVUNHdU=;8SQuYB/S3yxj9+QkBCi+nQ=="

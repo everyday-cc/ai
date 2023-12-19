@@ -24,6 +24,17 @@ images:
     height: 628
     isCached: true
 
+related:
+  - title: "ThinkPad and IdeaPad Intel Core Ultra AI ready laptops for business"
+    excerpt: "Following on from the Intel AI Everywhere event this week Lenovo, has launched a range of new AI ready laptops for business and consumers, including the"
+    publishedDateTime: 2023-12-15T14:25:00Z
+    webUrl: "https://www.geeky-gadgets.com/ai-ready-laptops-for-business/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 19
+
 secured: "l+i81GcPcSeBzeHeEOEVJol7zI73ZyQUpEd66yPQU9/Wfs/bUwcDwchVUEc0P8q4aVYyRuwI5JgPtKJRlkddK67cMCxCOVWmSdh/mvu124oXkkvy4jk8YbAOhUemCLkrhC0hkza2+/dCyauCjDv4/ob+nZuacSkUDFDmDLKDdkY+6qAls3LR4lydmphZkrGSCbkEfdufyVDSHUzpDhNku/hviCxC3RStYb0qtWrQY6Ihx4eoKXIme28DEdlG57F/AjQKKCT2UdhK1EuflpMOGLrcUcnPse6O766qhxu+6N17X5wHfonPZhascJZFSfd5pVYQDzdqEmzpL4JJtthHg+Q7DhA9px8BTaFcz4mayK0=;jeF/zec+33J7n+o6K1HUbQ=="
 ---
 
