@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "Revolutionizing Industries: How AI Apps are Transforming Healthcare, Finance, and More"
+    excerpt: "Welcome to the era of AI revolution! We stand witness to incredible technological innovations that are reshaping industries like never before. Among these groundbreaking advancements, artificial intelligence applications have emerged as the game-changers across numerous sectors."
+    publishedDateTime: 2023-12-17T16:56:00Z
+    webUrl: "https://techbullion.com/revolutionizing-industries-how-ai-apps-are-transforming-healthcare-finance-and-more/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 67
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/AI-App.jpg"
+        width: 1000
+        height: 500
+        isCached: true
   - title: "Modern Healthcare is evolving along with the industry"
     excerpt: "It’s an exciting time to be journalists covering the industry. And for that reason, Modern Healthcare is evolving in 2024 too."
     publishedDateTime: 2023-12-18T08:59:00Z

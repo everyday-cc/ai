@@ -144,15 +144,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 28
-  - title: "Uncovering bias in artificial intelligence"
-    excerpt: "Throughout his Ph.D. program, Li has worked alongside his advisor, assistant professor Hongfu Liu, to examine bias within artificial intelligence datasets. They determined that when developing these artificial intelligence systems, cleaning datasets and looking for these biases in advance of processing information can reduce these incidents."
-    publishedDateTime: 2023-12-15T14:52:00Z
-    webUrl: "https://www.brandeis.edu/stories/2023/december/artificial-intelligence-grant.html"
-    type: article
-    provider:
-      name: Brandeis University
-      domain: brandeis.edu
-    quality: 17
 
 secured: "HMTohtLClBDk5JoPgPXNbCb+MxBrlqMPG6fSYWQqxfxCtB2wA1F4RuKPgsM9mDEfbgVnxymSU7aLYUgYRZ+yeZaUcYSf+fZF0NzpdOfD9AXjtjwo2pUnlZJoBlVRWXFanLqzAEg1JZCFOMP6G1SDYiv9bLVhp645poT952l+qsR5C3lUOiTPb1KJBk2Dq72A8h6IX4n7CZakSiYeus8ldvDyEM6m6bLJdeSyN+iU6052nOdUYChAyhfgEGEWPrV14xTc0pe+WuvVQhSczeraQqRwfeuu68K+/Z0VRj7IgLChEpqxlNdYz0/3edF2LboDjX3lsLFkmYpjQelSmQ3L8yrV6AlN4gt19IYlXWjIhwiePdFxzKM7B/BCJ80jdn+8cX6UluEVNToRBRvuJZ9pwoj6gyy7L0Ipc/VobtZE4C2kQQYvzLiAUI/NywAGAfI9UQtJ2Y9lgcVNT1kl3Ik5Zld2SqL5P2bC0VyZAxBAP9BQMNSTX9Tjb/4DTi/jIPlKVccnBAklQ75aRcri/bQPZQ==;ozjNy9PXJo5b4b78k3ADcg=="
 ---

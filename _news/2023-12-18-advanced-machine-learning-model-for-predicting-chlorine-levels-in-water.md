@@ -34,15 +34,6 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 19
-  - title: "Innovative Machine Learning Model for Predicting Chlorine Levels in Drinking Water"
-    excerpt: "Chlorine-based disinfection is a critical practice in conventional drinking water treatment (DWT). It is essential for inactivating pathogenic"
-    publishedDateTime: 2023-12-15T13:24:00Z
-    webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/240707"
-    type: article
-    provider:
-      name: AlphaGalileo
-      domain: alphagalileo.org
-    quality: 13
 
 secured: "kmEe8CUjLyocY8bAzbYZ7xrG14PY91la8nreh3N3duDM2WQbvR4hiouPJdFLyGuU5XQzXgbtLuU0bcQG0rD54I8A6Sp7i3DTSQgjMJrcESSk7s/X/qBiB5gRmjo5CNBoEduTVIYsltjRv1084HHa+RXM7mGbV9wUqT1/rTt1dzUTTTqc/MspcIG01w0d6jBec06coXCo4GsdZDJHwTzSPC4RzMSE0x4iGzlYFoz3+QihTogrUKZYGeRqolorgd43ofm+JoASJQRv8zmaeD21txvo45k88wpvJ5gfDeqV3A1fl5qZM9KSNLlcS8E6T/ohwX7NMhkN6P7KMH4JHyy/vHKGaYtEUlwmic4IJaIISIQ=;jF8RgtzSuxhIfbtRLg9ZYg=="
 ---

@@ -32,15 +32,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
-  - title: "How AI’s Explosive Growth Opened Up The World For The Blind In 2023"
-    excerpt: "AI and people living with sight loss have experienced significant gains from this seismic technological shift."
-    publishedDateTime: 2023-12-15T13:07:00Z
-    webUrl: "https://www.forbes.com/sites/gusalexiou/2023/12/15/how-ais-explosive-growth-opened-up-the-world-for-the-blind-in-2023/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "2 Artificial Intelligence Stocks To Watch This Week"
     excerpt: "The artificial intelligence (AI) sector is a rapidly growing area in the tech industry, focusing on creating intelligent machines that work and react like humans. AI technology includes machine learning, natural language processing, and robotics ..."
     publishedDateTime: 2023-12-18T01:16:00Z

@@ -2,6 +2,144 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-11-15-fujitsu-claims-new-tech-can-optimize-cpu-gpu-allocation-for-ai-and-hpc-workloads.md",
+      "title": "Fujitsu claims new tech can optimize CPU & GPU allocation for AI and HPC workloads",
+      "excerpt": "Fujitsu developed two new technologies designed to optimize CPU and GPU workloads on powerful HPC systems. The company is working to allocate resources in real-time to",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/100849-fujitsu-claims-new-tech-can-optimize-cpu-gpu.html",
+      "originalUrl": "https://www.techspot.com/news/100849-fujitsu-claims-new-tech-can-optimize-cpu-gpu.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2023/11/2023-11-15-image-5.jpg",
+          "width": 2000,
+          "height": 931,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-15T14:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-15-weka-partners-with-applied-digital-to-supercharge-its-gpu-cloud-for-generative-ai-customers.md",
+      "title": "WEKA Partners with Applied Digital to Supercharge Its GPU Cloud for Generative AI Customers",
+      "excerpt": "Applied Digital is developing a turnkey offering that allows enterprise customers to purchase and use GPU resources on-demand, at scale, across its data centers for AI model training and inference ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20231115sf65626/weka-partners-with-applied-digital-to-supercharge-its-gpu-cloud-for-generative-ai-customers",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20231115sf65626/weka-partners-with-applied-digital-to-supercharge-its-gpu-cloud-for-generative-ai-customers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2273775/WEKA_Applied_Digital_announcement.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-15T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-15-tencent-to-seek-domestic-ai-training-chip-supplies-after-latest-us-curbs.md",
+      "title": "Tencent to seek domestic AI training chip supplies after latest US curbs",
+      "excerpt": "By Josh Ye HONG KONG (Reuters) -Chinese tech group Tencent Holdings said on Wednesday it will look for domestic sources for AI training chips",
+      "sourceUrl": null,
+      "webUrl": "https://wsau.com/2023/11/15/tencent-to-seek-domestic-ai-training-chip-supplies-after-latest-us-curbs/",
+      "originalUrl": "https://wsau.com/2023/11/15/tencent-to-seek-domestic-ai-training-chip-supplies-after-latest-us-curbs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2023-11/15/2023-11-15T142500Z_1_LYNXMPEJAE0NA_RTROPTP_3_CHINA-TECH-AI.JPG",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-15T13:24:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WSAY",
+        "domain": "wsau.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-15-nvidia-unveils-new-gpu-based-platform-to-fuel-generative-ai-performance.md",
       "title": "Nvidia unveils new GPU-based platform to fuel generative AI performance",
       "excerpt": "The new Nvidia HGX H200 has been designed to support the high performance computing workloads required to train generative AI models.",
@@ -1174,119 +1312,6 @@
       "provider": {
         "name": "Tyler Morning Telegraph",
         "domain": "tylerpaper.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-aws-offers-more-flexible-access-to-nvidia-gpus-for-short-duration-ai-workloads.md",
-      "title": "AWS offers more flexible access to Nvidia GPUs for short-duration AI workloads",
-      "excerpt": "Amazon Elastic Compute Cloud (EC2) Capacity Blocks for ML is generally available now, and allows customers to reserve access to “hundreds” of Nvidia Corp.’s most advanced H100 Tensor Core GPUs colocated in Amazon EC2 UltraClusters that are geared towards high-performance machine learning workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/10/31/aws-offers-flexible-access-nvidia-gpus-short-duration-ai-workloads/",
-      "originalUrl": "https://siliconangle.com/2023/10/31/aws-offers-flexible-access-nvidia-gpus-short-duration-ai-workloads/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T02:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-amds-stock-claws-back-initial-losses-as-it-forecasts-2b-in-ai-chip-sales-in-2024.md",
-      "title": "AMD’s stock claws back initial losses as it forecasts $2B in AI chip sales in 2024",
-      "excerpt": "The company’s stock, which gained 2% during the regular session, fell by more than 5% after-hours in the wake of its third-quarter earnings report. But after AMD executives gave an upbeat assessment of the company’s progress and prospects in AI, those losses were quickly clawed back.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/10/31/amds-stock-claws-back-initial-losses-forecasts-2b-ai-chip-sales-2024/",
-      "originalUrl": "https://siliconangle.com/2023/10/31/amds-stock-claws-back-initial-losses-forecasts-2b-ai-chip-sales-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T01:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-intel-beats-nvidia-in-gpu-business-south-koreas-google-buys-intel-cpus-for-ai-workloads.md",
-      "title": "Intel beats NVIDIA in GPU business: South Korea's 'Google' buys Intel CPUs for AI workloads",
-      "excerpt": "South Korea's 'Google', Naver, is switching over to using CPUs for some of its AI workloads away from GPUs, because of supply chain + high prices.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/94125/intel-beats-nvidia-in-gpu-business-south-koreas-google-buys-cpus-for-ai-workloads/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/94125/intel-beats-nvidia-in-gpu-business-south-koreas-google-buys-cpus-for-ai-workloads/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tweaktown.com/news/9/4/94125_903_intel-beats-nvidia-in-gpu-business-south-koreas-google-buys-cpus-for-ai-workloads_full.jpg",
-          "width": 1500,
-          "height": 912,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T00:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
         "images": null,
         "publishers": null,
         "authors": null

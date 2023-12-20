@@ -59,15 +59,6 @@ related:
         width: 1351
         height: 900
         isCached: true
-  - title: "The Evolution: Google’s Artificial Intelligence and Its Impact on Virtual Assistants"
-    excerpt: "Introduction: In the dynamic landscape of technology, one phenomenon has emerged as a trailblazer, shaping the way we interact with information – Google’s Artificial Intelligence (AI). This transformative force has left an indelible mark,"
-    publishedDateTime: 2023-12-15T14:44:00Z
-    webUrl: "https://techbullion.com/the-evolution-googles-artificial-intelligence-and-its-impact-on-virtual-assistants/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 10
 
 secured: "WD9JAIkGgB2hMnBR1DU63enh6jogzzZZcVD8UJA5L+ZE+Y1RJ765Iga9AZ1W1PQuDffJ4bpIk/vmXvcUwX9+VBnEwJXnrK7kL/JABOwkizTo3y+9oHgPjnlsrEsondf1lzFmiXtwQQZwF2gHsg3KhI66kUS0FMi0pppaWGs5V7yTBQ2aFka6co7Na/UxH+I5qwwQCoX4wvx8fkbUbgK/mtC/PKgOKNE9mNloTYdMkJ0w/4ZgAJmg1K9rLPw+yWzHX+zCIp3BaK+xxHaUR2NXwyWsTcqeWUf7DjSaL+RSYeyVDfmSHicY2VCgpestK+K3LEXXrdG8RQnInpAyZlimEe/hu+cgIiU1EkL/y4yqkfs=;eloplHuSlinsT/EqaXo0gQ=="
 ---

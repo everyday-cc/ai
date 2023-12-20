@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/20/10-questio
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/20/10-questions-to-ask-before-implementing-generative-ai/amp/"
 type: article
 quality: 89
-heat: 239
+heat: 229
 published: true
 
 provider:
@@ -117,20 +117,6 @@ related:
         width: 845
         height: 396
         isCached: true
-  - title: "Generative AI for CPGs: The Latest Use Cases to Boost Operations"
-    excerpt: "Generative AI is being used by people all over the world to complete any given task at a faster rate. For use at home, such uses include recipe ideas, travel help, and summarizing large amounts of research or data. For business use, it gets more specific."
-    publishedDateTime: 2023-12-19T15:27:00Z
-    webUrl: "https://www.packworld.com/news/business-intelligence/article/22882216/generative-ai-use-cases-for-cpgs"
-    type: article
-    provider:
-      name: Packaging World
-      domain: packworld.com
-    quality: 39
-    images:
-      - url: "https://img.packworld.com/files/base/pmmi/all/image/2023/12/AI_for_CPGs.6581b1e143314.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "How Generative AI Could Revolutionize Manufacturing"
     excerpt: "Generative AI is everywhere and it is predicted that the technology will boost industry revenues by enabling faster, more precise innovation, as well as automating processes. ABI Research predicts that generative AI will unlock $10.5 billion in new revenues for the manufacturing industry by 2033."
     publishedDateTime: 2023-12-19T22:43:00Z
@@ -182,6 +168,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
+  - title: "Theory Of Mind As An Emergent Property Of Generative AI Could Be A Linchpin For AI-Powered Mental Health Advisement Apps"
+    excerpt: "Humans are said to possess Theory of Mind, and some say generative AI does so too. This is closely explored, along with how it pertains to AI-based mental health apps."
+    publishedDateTime: 2023-12-20T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/12/20/theory-of-mind-as-an-emergent-property-of-generative-ai-could-be-a-linchpin-for-ai-powered-mental-health-advisement-apps/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 24
   - title: "How Your Organization Can Prepare for Generative AI"
     excerpt: "Brun, Enterprise Strategist and Evangelist, Amazon Web Services (AWS) I’m fascinated by the technological tipping points in history that have ignited the public’s"
     publishedDateTime: 2023-12-19T14:05:00Z
@@ -191,15 +186,6 @@ related:
       name: computable
       domain: computable.be
     quality: 19
-  - title: "Navigating a shifting customer-engagement landscape with generative AI"
-    excerpt: "Enterprises need clear roadmaps as the rapid advent of generative AI reshapes the way they engage with customers."
-    publishedDateTime: 2023-12-18T19:55:00Z
-    webUrl: "https://www.technologyreview.com/2023/12/18/1085299/navigating-a-shifting-customer-engagement-landscape-with-generative-ai/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 17
   - title: "Doctors have a few simple AI asks"
     excerpt: "The AMA recently asked doctors how they felt about using AI in their practices, Ehrenfeld said. The survey revealed their excitement that AI could improve care and ease burdens — but also some trepidation. Cautionary tales: Prior experience with new tech tools has some doctors worried, he said."
     publishedDateTime: 2023-12-19T18:01:00Z
@@ -219,6 +205,6 @@ related:
       domain: cointelegraph.com
     quality: 14
 
-secured: "j9BU8GR6z5QCqcFo4UqkgxSRCt2diENoxhgSz6tBiTZSwnFViS/3XrKeY/m5dKds6YyJMuy2eU7ae1h2tQK0c7v8Su7hIDPfeiERYF8WbfMhuE11T+37ioubb1qLld6GQ2RKMznhk9HJ6vS+xxVIqnWC9FOVKTXksz76/ceZi0rozBRwPZd32tdMS9+vqwHcQn+Pmmhux5rMqm5guk8yPrulolVeDr5NZKBZxN06fy950SVHOGemAhFj7lVBb4WXooGN6mj9YTQTKnCSd6WuHY0FJagNghVWbhDsha6aFaAoWU380agZIPEnoTjO49G1Fb+gg4GyW8JKkIKmkCQ373vPoj0U36IxT1pFZBnQvQE=;NJe9iQH9gN3M2xrLooe1ww=="
+secured: "FU+In1bEsD+B6sccs/O+4OrHwI/4wd6vuJsYEzlZ97n5BkzT0YVBHbVVF39dy6OI/ZoinNWgIWkWB3h98yUUkbM1uZXyg0up9kDNLWYREu2ZfVSjaJ6gqztiqfSm9YL7lX8c1GRaUmlYK5vEYCtONfPRY744qFwPLO2Z1FVzQI5eGTz87fLhWJ41K0KMZQCpN1oJk63Pj90XV7OOhJBP2z/OAGyBtj4AUnJkSPrI4CNq+H5KD4V1WSeVBttt7zxHqXuSVQGymINQS9RTRsGVHao51h9525pWz1/sqhj5Bd+Tr3cJ2Ol15hBAAFtJq66zahFBGOqket0AKJnXQh2a1KEVRYoqr5mOdMzvlpGFNLm7mHp5myR+/3pYl5bYLO4mNf3CqJRaG4p8X8TFI2wQSjOjMFZkBsGRXqbXXYmDZC2XefwSrexxwpb12cxxZFvBT1vYJCHgeukzITCjY9qrgqyPgqD7MaZj3KA1amDIhpLEciPMtbHIewjA7ewwLwlC9Af5Nw+iltIjz4LFdwQutg==;s+owyIUmLKhuzYt30e31pQ=="
 ---
 

@@ -119,6 +119,36 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Rite Aid's 'reckless' use of facial recognition got it banned from using the technology in stores"
+    excerpt: "Rite Aid said in a statement that it's \"pleased to reach an agreement\" with the FTC but added that \"we fundamentally disagree with the facial recognition allegations in the agency's complaint.\" The tech was a pilot program and was only used in a \"limited ..."
+    publishedDateTime: 2023-12-20T08:37:00Z
+    webUrl: "https://abc7.com/rite-aid-facial-recognition-ban-surveillance/14206439/"
+    ampWebUrl: "https://abc7.com/amp/rite-aid-facial-recognition-ban-surveillance/14206439/"
+    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/rite-aid-facial-recognition-ban-surveillance/14206439/"
+    type: article
+    provider:
+      name: ABC7
+      domain: abc7.com
+    quality: 61
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/14206621_rite_aid_facial.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "FTC bans Rite Aid from using facial recognition technology"
+    excerpt: "The Rite Aid pharmacy chain can’t use facial recognition technology to identify customers for five years after a Federal Trade Commission investigation found the company inappropriately used it to criminally profile customers. The FTC described Rite Aid ..."
+    publishedDateTime: 2023-12-19T23:59:00Z
+    webUrl: "https://www.washingtontimes.com/news/2023/dec/20/ftc-bans-rite-aid-using-facial-recognition-technol/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 54
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2023/12/20/Rite_Aid-Facial_Recognition_Ban_49168_c0-102-6000-3602_s1200x700.jpg?f76d500cd13554a610de086d8bf4279800b35aac"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "FTC bans Rite Aid’s ‘reckless’ use of facial recognition tech"
     excerpt: "Bankrupt pharmacy chain Rite Aid used facial recognition tech in hundreds of its stores, which caused harm to numerous customers."
     publishedDateTime: 2023-12-20T09:20:00Z
@@ -147,6 +177,38 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Rite Aid banned from using facial recognition technology in stores for five years"
+    excerpt: "The company has been banned from using facial recognition technology for five years over allegations that its surveillance system was used to incorrectly identify potential shoplifters, especially Black,"
+    publishedDateTime: 2023-12-20T14:46:00Z
+    webUrl: "https://www.bostonglobe.com/2023/12/20/business/rite-aid-facial-recognition-ban/"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 49
+    images:
+      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/No642v4czI6KYb3hHecX6FeePLk=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/RBWLALSL25VK2LDLBRQKD5PHFM.jpg"
+        width: 506
+        height: 337
+        isCached: true
+  - title: "Implementing AI technology in business education"
+    excerpt: "With that idea in mind, I want to share my experiences and those of my colleagues here at Gies College of Business at the University of Illinois Urbana–Champaign . Our approach to adopting artificial intelligence (AI) illustrates how we can embrace new technologies and prepare students for what they will encounter in their future careers."
+    publishedDateTime: 2023-12-18T10:00:00Z
+    webUrl: "https://www.chicagobusiness.com/crains-content-studio/implementing-ai-technology-business-education"
+    type: article
+    provider:
+      name: Crain's Chicago Business
+      domain: chicagobusiness.com
+    quality: 36
+  - title: "Rite Aid banned from facial recognition tech use for 5 years after faulty theft targeting in stores"
+    excerpt: "FILE - A Rite Aid sign is displayed on the facade of a store in Pittsburgh, Jan. 23, 2023. Rite Aid has been banned from using facial recognition technology for five years over allegations that a surveillance system it used incorrectly identified potential ..."
+    publishedDateTime: 2023-12-20T09:52:00Z
+    webUrl: "https://www.wsls.com/business/2023/12/20/rite-aid-banned-from-using-facial-recognition-technology-in-stores-for-five-years/"
+    type: article
+    provider:
+      name: WSLS 10
+      domain: wsls.com
+    quality: 20
 
 secured: "wkNiB30hWLqg8fqIq+w5IScjxpkCI9Od3hosznj+rIEfyaDEOt9xQN4lw+Thibs7HNiKyLew4TcbLhQtUvnqF4Gp74BFoL2FGkFNod53m7GHYjfSJHuHAlWKN8A2zzsyXF7gO6iZemxsshsv8spxcYRF9jyvbX62t0IgmXlAzIotLtD+EYFO3FccKK5HB79I/uNQheEYxX5RjmuHZi/cFc4bMP3FLYLH/Ltwv2RvNvEeh9j9ZXGIRfbyiB9eRZZ7BT2KLZKuAVL5H9JB831OUs6MvYB6zNeKYUktnL6iijn6cLzHESgo1lvoXqTAd5rDUyWqpuwPeMy+RvajflIHM3NGv9R+7DvZBbP/fIOSvgd8Gj/O61ZfXK8SYIQfZmCoC60BDjVIsWQPRB67U9I20At+q4dT4/ssCaSS/CbQzgHb+NFQvAZbccXJnsEMfd55SblrlcvPB3X/wIXHuYJyS4wLrQ502OblHru2pOVKWFEsW5wvA5TWwTm9YeZkigzNijZwY2bnl/wum9VP1t5LTw==;tP3W2h+f5Fm8SZiuA00mzA=="
 ---

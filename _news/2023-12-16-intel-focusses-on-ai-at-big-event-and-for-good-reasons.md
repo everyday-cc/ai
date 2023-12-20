@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2023/12/15/intel-focusses-on
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/12/15/intel-focusses-on-ai-at-big-event-and-for-good-reasons/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 129
 published: true
 
 provider:
@@ -31,36 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel launches AI chips for servers and clients"
-    excerpt: "New 5th Gen Intel Xeon processors and Core Ultra mobile processor family are aimed at bringing AI to all compute devices."
-    publishedDateTime: 2023-12-15T15:54:00Z
-    webUrl: "https://www.networkworld.com/article/1261382/intel-launches-ai-chips-for-servers-and-clients.html"
-    ampWebUrl: "https://www.networkworld.com/article/1261382/intel-launches-ai-chips-for-servers-and-clients.html/amp/"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1261382/intel-launches-ai-chips-for-servers-and-clients.html/amp/"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 74
-    images:
-      - url: "https://www.networkworld.com/wp-content/uploads/2023/12/Intel-AIEverywhere-Event-1.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Intel unveils new chips amid rush to AI"
-    excerpt: "AMD is also playing catch-up with Nvidia in AI accelerators. Its version of that product, the MI300, is to debut next year. AMD unveiled the chip at an event last week and announced that the market for AI accelerators could climb to more than US$400 billion in the next four years."
-    publishedDateTime: 2023-12-15T16:00:00Z
-    webUrl: "https://www.taipeitimes.com/News/biz/archives/2023/12/16/2003810681"
-    type: article
-    provider:
-      name: The Taipei Times
-      domain: taipeitimes.com
-    quality: 54
-    images:
-      - url: "https://www.taipeitimes.com/images/2023/12/16/p12-231216-1325.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Intel infuses PCs with AI chips as enterprise refresh rush nears"
     excerpt: "The chipmaker’s Core Ultra mobile processors will power more than 230 PC models from Dell, Lenovo, Microsoft and others."
     publishedDateTime: 2023-12-18T22:21:00Z

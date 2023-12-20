@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/driving-advanced-ana
 webUrl: "https://aws.amazon.com/blogs/machine-learning/driving-advanced-analytics-outcomes-at-scale-using-amazon-sagemaker-powered-pwcs-machine-learning-ops-accelerator/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 772
         height: 594
         isCached: true
+  - title: "Generative AI (GenAI) 2023 and Beyond: Growth Opportunities in CX, Advanced Analytics, KM Performance, Language Translation at Scale"
+    excerpt: "Generative AI (GenAI) has sparked significant interest and shows great potential in enhancing business operations through the automation of routine tasks, streamlining workflows, and offering intelligent insights to boost efficiency, quality, and performance."
+    publishedDateTime: 2023-12-20T16:23:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/12/20/9937173.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "u3+2L98DKgrxWxvjsBnmHHcDm7l6dXWdPBvfkd8TKn/Hzd7dIDY6EGSi+Cv1qwPe8Ao/A20gx+OaOriQPCQT/pFTuqDO2TQrW6rkLTXRsTukVvcufUGghLNnbyjklGcxhNpLimxdWr4N3VwdovhNcYDcYI7C4u/18D75KR3GCtZ7eE0RpIYK7IeaPF92avPRiSXKD1xD25cD4N5ZKY2PBvCkcEaaz/88ZF64VkaTN5xCKDQPWQLn66I31Wh9bUfeotzZMVeiTEBKNN/NkNxnt+X7eIB+E3SqurYzXI05fC9hgZQ3+xZ3wZ64eOQgCwXVw/Hz8dl7fiTgKaqmdrsMv+IXCcE3uKfDEdl/On299Xk=;Mrx++wwc0EgFnrsu9ir+qw=="
 ---

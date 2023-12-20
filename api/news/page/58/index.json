@@ -2,6 +2,568 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2023-11-01-mark-zuckerberg-reveals-the-key-advantage-of-metas-artificial-intelligence-ai-strategy-that-many-investors-may-be-overlooking.md",
+      "title": "Mark Zuckerberg Reveals the Key Advantage of Meta's Artificial Intelligence (AI) Strategy That Many Investors May Be Overlooking",
+      "excerpt": "So far in 2023, the amount of time users spend on Facebook and Instagram ... we further invest in generative AI across our core products, internal tooling, and research efforts.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/11/01/mark-zuckerberg-reveals-advantage-meta-ai-strategy/",
+      "originalUrl": "https://www.fool.com/investing/2023/11/01/mark-zuckerberg-reveals-advantage-meta-ai-strategy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-01T10:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-01-shutterstocks-growth-dilemma-declining-ecommerce-business-amid-flourishing-computer-vision-partnerships.md",
+      "title": "Shutterstock’s Growth Dilemma: Declining eCommerce Business Amid Flourishing Computer Vision Partnerships",
+      "excerpt": "In a report released today, Lauren Schenk from Morgan Stanley assigned a Hold rating on Shutterstock (SSTK – Research Report), with a",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/shutterstock-s-growth-dilemma-declining-ecommerce-business-amid-flourishing-computer-vision-partnerships-1032767604",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/shutterstock-s-growth-dilemma-declining-ecommerce-business-amid-flourishing-computer-vision-partnerships-1032767604",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-01T10:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-01-amd-slides-as-muted-outlook-clouds-q3-earnings-beat-with-ai-chip-launch-in-focus.md",
+      "title": "AMD slides as muted outlook clouds Q3 earnings beat with AI chip launch in focus",
+      "excerpt": "AMD said its new data center chips, expected to challenge Nvidia's AI market dominance, could net more than $2 billion in sales next year.",
+      "sourceUrl": null,
+      "webUrl": "https://tylerpaper.com/arena/thestreet/amd-slides-as-muted-outlook-clouds-q3-earnings-beat-with-ai-chip-launch-in-focus/article_673c8021-8498-5e88-996d-b1bc14455829.html",
+      "originalUrl": "https://tylerpaper.com/arena/thestreet/amd-slides-as-muted-outlook-clouds-q3-earnings-beat-with-ai-chip-launch-in-focus/article_673c8021-8498-5e88-996d-b1bc14455829.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/tylerpaper.com/content/tncms/assets/v3/editorial/f/65/f65b182f-761c-5ba9-b6b1-0753f1aebe6e/6542315bc1c9a.image.jpg?resize=1024%2C576",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://tylerpaper.com/arena/thestreet/amd-slides-as-muted-outlook-clouds-q3-earnings-beat-with-ai-chip-launch-in-focus/article_673c8021-8498-5e88-996d-b1bc14455829.amp.html",
+      "cdnAmpWebUrl": "https://tylerpaper-com.cdn.ampproject.org/c/s/tylerpaper.com/arena/thestreet/amd-slides-as-muted-outlook-clouds-q3-earnings-beat-with-ai-chip-launch-in-focus/article_673c8021-8498-5e88-996d-b1bc14455829.amp.html",
+      "publishedDateTime": "2023-11-01T10:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tyler Morning Telegraph",
+        "domain": "tylerpaper.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-01-exploring-the-best-artificial-intelligence-books-a-comprehensive-guide.md",
+      "title": "Exploring the Best Artificial Intelligence Books: A Comprehensive Guide",
+      "excerpt": "Artificial intelligence, the buzzword of the 21st century, has permeated every aspect of our lives. From virtual assistants to self-driving cars, AI is revolutionizing industries and reshaping our future.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/exploring-the-best-artificial-intelligence-books-a-comprehensive-guide/",
+      "originalUrl": "https://techbullion.com/exploring-the-best-artificial-intelligence-books-a-comprehensive-guide/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2023/11/AI-Book-Shelf.jpg",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-01T10:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos",
+        "Machine Learning",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-01-deepmind-claims-its-ai-predicts-proteins-with-atomic-accuracy.md",
+      "title": "DeepMind claims its AI predicts proteins with ‘atomic accuracy’",
+      "excerpt": "DeepMind claims its latest version of AlphaFold can predict various molecules with extreme accuracy, which could advance drug discoveries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.siliconrepublic.com/machines/deepmind-alphafold-ai-protein-prediction-drug-discovery",
+      "originalUrl": "https://www.siliconrepublic.com/machines/deepmind-alphafold-ai-protein-prediction-drug-discovery",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-01T10:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconRepublic",
+        "domain": "siliconrepublic.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-01-artificial-intelligence-threatens-millions-of-jobs-but-its-a-technology-where-latinos-are-not-far-behind.md",
+      "title": "Artificial Intelligence Threatens Millions Of Jobs, But It's A Technology Where Latinos Are Not Far Behind",
+      "excerpt": "A recent AI study commissioned by Intuit QuickBooks found that 86% of 1,000 Hispanic and Latino respondents use artificial intelligence in their work, and 38% say they use it daily.",
+      "sourceUrl": null,
+      "webUrl": "https://www.latintimes.com/artificial-intelligence-threatens-millions-jobs-its-technology-where-latinos-are-not-far-behind-548253",
+      "originalUrl": "https://www.latintimes.com/artificial-intelligence-threatens-millions-jobs-its-technology-where-latinos-are-not-far-behind-548253",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-01T10:06:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Latin Times",
+        "domain": "latintimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-01-5-best-ai-stocks-to-invest-in-for-2023.md",
+      "title": "5 Best AI Stocks to Invest In for 2023",
+      "excerpt": "Artificial intelligence (AI), including its offshoots ... including its autonomous vehicle start-up Waymo. It also owns DeepMind, a deep learning platform that can diagnose eye diseases, predict ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/",
+      "originalUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.foolcdn.com/media/dubs/images/investing-in-ai-stocks.width-600.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-01T10:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-01-nanowire-brain-network-learns-and-remembers-on-the-fly.md",
+      "title": "Nanowire 'brain' network learns and remembers 'on the fly'",
+      "excerpt": "For the first time, a physical neural network has successfully been shown to learn and remember \"on the fly,\" in a way inspired by and similar to how the brain's neurons work.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-10-nanowire-brain-network-fly.html",
+      "originalUrl": "https://phys.org/news/2023-10-nanowire-brain-network-fly.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/nanowire-brain-network.jpg",
+          "width": 2560,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-10-nanowire-brain-network-fly.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-10-nanowire-brain-network-fly.amp",
+      "publishedDateTime": "2023-11-01T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-01-red-hat-launches-red-hat-ansible-lightspeed-with-ibm-watsonx-code-assistant-for-ai-driven-enterprise-it-automation.md",
+      "title": "Red Hat Launches Red Hat Ansible Lightspeed with IBM watsonx Code Assistant for AI-Driven Enterprise IT Automation",
+      "excerpt": "Now generally available, purpose-built AI service delivers a trusted Ansible advisor to help extend and scale automation content across teams with greater efficiency, accuracy and trust According ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/red-hat-launches-red-hat-ansible-lightspeed-with-ibm-watsonx-code-assistant-for-ai",
+      "originalUrl": "https://www.nasdaq.com/press-release/red-hat-launches-red-hat-ansible-lightspeed-with-ibm-watsonx-code-assistant-for-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-01T09:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-01-nvidia-collaborates-with-microsoft-to-accelerate-enterprise-ready-nvidia-blog.md",
+      "title": "NVIDIA Collaborates With Microsoft to Accelerate Enterprise-Ready … – NVIDIA Blog",
+      "excerpt": "NVIDIA today announced that it is integrating its NVIDIA AI Enterprise software into Microsoft’s Azure Machine Learning to help",
+      "sourceUrl": null,
+      "webUrl": "https://www.inferse.com/776943/nvidia-collaborates-with-microsoft-to-accelerate-enterprise-ready-nvidia-blog/",
+      "originalUrl": "https://www.inferse.com/776943/nvidia-collaborates-with-microsoft-to-accelerate-enterprise-ready-nvidia-blog/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-01T05:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inferse",
+        "domain": "inferse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-01-netnut-enters-the-fintech-market-with-multiple-new-customers.md",
+      "title": "NetNut Enters the Fintech Market with Multiple New Customers",
+      "excerpt": "The fintech market leveragestechnologies such as AI (artificial intelligence), RPA (robotic process automation), and big data to enhance financial services and activities TEL AVIV, Israel, Oct. 31, 2023 (GLOBE NEWSWIRE) -- Alarum Technologies Ltd. (Nasdaq ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/netnut-enters-the-fintech-market-with-multiple-new-customers-1032758906",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/netnut-enters-the-fintech-market-with-multiple-new-customers-1032758906",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-01T05:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-01-meeting-looks-at-music-intelligence.md",
+      "title": "Meeting looks at music intelligence",
+      "excerpt": "Li Xiaobing, executive director of the concert and head of the music AI and information technology department of the Central Conservatory of Music. [Photo provided to China Daily] The Second Summit on Music Intelligence was launched in Beijing on Saturday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chinadaily.com.cn/a/202311/01/WS6541c793a31090682a5ebdca_1.html",
+      "originalUrl": "https://www.chinadaily.com.cn/a/202311/01/WS6541c793a31090682a5ebdca_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://img2.chinadaily.com.cn/images/202311/01/6541c793a3109068caff34a4.jpeg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-01T03:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "中国日报网",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-01-aws-offers-more-flexible-access-to-nvidia-gpus-for-short-duration-ai-workloads.md",
+      "title": "AWS offers more flexible access to Nvidia GPUs for short-duration AI workloads",
+      "excerpt": "Amazon Elastic Compute Cloud (EC2) Capacity Blocks for ML is generally available now, and allows customers to reserve access to “hundreds” of Nvidia Corp.’s most advanced H100 Tensor Core GPUs colocated in Amazon EC2 UltraClusters that are geared towards high-performance machine learning workloads.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/10/31/aws-offers-flexible-access-nvidia-gpus-short-duration-ai-workloads/",
+      "originalUrl": "https://siliconangle.com/2023/10/31/aws-offers-flexible-access-nvidia-gpus-short-duration-ai-workloads/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-01T02:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-11-01-azure-our-ai-platform-stories-microsoft.md",
+      "title": "Azure: Our AI Platform – Stories – Microsoft",
+      "excerpt": "Microsoft News Center AI is helping organizations solve some of today’s toughest challenges, and businesses are seeking a partner to",
+      "sourceUrl": null,
+      "webUrl": "https://www.inferse.com/776594/azure-our-ai-platform-stories-microsoft/",
+      "originalUrl": "https://www.inferse.com/776594/azure-our-ai-platform-stories-microsoft/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-01T01:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inferse",
+        "domain": "inferse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-01-amds-stock-claws-back-initial-losses-as-it-forecasts-2b-in-ai-chip-sales-in-2024.md",
       "title": "AMD’s stock claws back initial losses as it forecasts $2B in AI chip sales in 2024",
       "excerpt": "The company’s stock, which gained 2% during the regular session, fell by more than 5% after-hours in the wake of its third-quarter earnings report. But after AMD executives gave an upbeat assessment of the company’s progress and prospects in AI, those losses were quickly clawed back.",
@@ -419,553 +981,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-google-deepmind-debuts-new-version-of-its-alphafold-model-for-researchers.md",
-      "title": "Google DeepMind debuts new version of its AlphaFold model for researchers",
-      "excerpt": "Google DeepMind today detailed a new version of AlphaFold, an artificial intelligence model it has built to help researchers study biological molecules such as proteins.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/10/31/google-deepmind-debuts-new-version-alphafold-model-researchers/",
-      "originalUrl": "https://siliconangle.com/2023/10/31/google-deepmind-debuts-new-version-alphafold-model-researchers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T20:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-quadruped-robots-may-one-day-give-seeing-eye-dogs-a-run-for-their-money.md",
-      "title": "Quadruped robots may one day give seeing-eye dogs a run for their money",
-      "excerpt": "While seeing-eye dogs can be very helpful to the blind, raising and training them is a long and expensive process. Scientists have therefore recently started investigating the possibility of outsourcing the job to dog-like quadruped robots.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/robotics/quadruped-robots-seeing-eye-dogs/",
-      "originalUrl": "https://newatlas.com/robotics/quadruped-robots-seeing-eye-dogs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/9cb492e/2147483647/strip/true/crop/1000x525+0+71/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fac%2F9d%2F0931865948549d80f73317997bfe%2Frobot-seeing-eye-dog-1.png&na.image_optimisation=0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T20:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-two-wisconsin-task-forces-look-at-the-potential-impact-of-artificial-intelligence-on-jobs.md",
-      "title": "Two Wisconsin task forces look at the potential impact of artificial intelligence on jobs",
-      "excerpt": "Two state task forces are now underway in Wisconsin looking at how the use of technology known as AI, or artificial intelligence, may affect the workforce. AI, as defined by the Oxford Dictionary, is the theory and development of computer systems able to perform tasks that normally require human intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wuwm.com/2023-10-31/two-wisconsin-task-forces-look-at-the-potential-impact-of-artificial-intelligence-on-jobs",
-      "originalUrl": "https://www.wuwm.com/2023-10-31/two-wisconsin-task-forces-look-at-the-potential-impact-of-artificial-intelligence-on-jobs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://npr.brightspotcdn.com/dims4/default/fcde6a7/2147483647/strip/true/crop/1576x827+0+12/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F59%2F94%2Fcc0542394dc9a8e3cb2f9210a5aa%2Fscreenshot-2023-10-31-at-9-46-34-am.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T20:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WUWM",
-        "domain": "wuwm.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-dell-and-meta-partner-to-bring-llama-2-open-source-ai-to-enterprise-users-on-premises.md",
-      "title": "Dell and Meta partner to bring Llama 2 open source AI to enterprise users on-premises",
-      "excerpt": "Dell is adding support for Meta Llama 2 models to its lineup of Dell Validated Design for Generative AI hardware.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/dell-and-meta-partner-to-bring-llama-2-open-source-ai-to-enterprise-users-on-premises/",
-      "originalUrl": "https://venturebeat.com/ai/dell-and-meta-partner-to-bring-llama-2-open-source-ai-to-enterprise-users-on-premises/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T20:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-the-best-robot-vacuum-for-me-is-the-one-i-hacked.md",
-      "title": "The best robot vacuum for me is the one I hacked",
-      "excerpt": "iRobot and Roomba are almost synonymous with robot vacuums at this point; they aren’t ideal for hacking because they lack the processor overhead to run Valetudo. The most commonly used models for installing Valetudo are from Roborock and Dreame.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/23934731/valetudo-robot-vacuum-hacking",
-      "originalUrl": "https://www.theverge.com/23934731/valetudo-robot-vacuum-hacking",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T19:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-this-story-was-not-written-by-a-robot.md",
-      "title": "This story was not written by a robot",
-      "excerpt": "The subfield of artificial intelligence underlying most newsroom robots is called “natural language generation ... 2017 as a joint venture of the U.K.'s Press Association and startup Urbs Media, with more than €700,000 of funding from Google ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/article/robot-reporters-newsroom-algorithms-artificial-intelligence/",
-      "originalUrl": "https://www.politico.eu/article/robot-reporters-newsroom-algorithms-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2019/02/AI-Journalists-Finalcrop.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T19:22:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico Europe",
-        "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-va-to-launch-artificial-intelligence-contest-to-help-health-care-staff.md",
-      "title": "VA to launch artificial intelligence contest to help health care staff",
-      "excerpt": "(Evan Vucci/AP) Veterans Affairs leaders will launch a $1 million competition focused on artificial intelligence solutions to preventing burnout among department health care workers as part of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.militarytimes.com/veterans/2023/10/31/va-to-launch-artificial-intelligence-contest-to-help-health-care-staff/",
-      "originalUrl": "https://www.militarytimes.com/veterans/2023/10/31/va-to-launch-artificial-intelligence-contest-to-help-health-care-staff/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.militarytimes.com/resizer/VL11BMGBWPWDGgJwJvsANRuHm5M=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/HOSECCKKVVFKHL5AERVOGO2L4Q.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T18:12:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Military Times",
-        "domain": "militarytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-helping-paralyzed-people-use-thought-to-control-computers-and-robotic-limbs.md",
-      "title": "Helping Paralyzed People Use Thought to Control Computers and Robotic Limbs",
-      "excerpt": "A number of medical conditions can cause paralysis including spinal cord injury, stroke, neurological diseases, and traumatic brain injury. By  What i",
-      "sourceUrl": null,
-      "webUrl": "https://www.coloradoboulevard.net/helping-paralyzed-people-use-thought-to-control-computers-and-robotic-limbs/",
-      "originalUrl": "https://www.coloradoboulevard.net/helping-paralyzed-people-use-thought-to-control-computers-and-robotic-limbs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T17:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ColoradoBoulevard",
-        "domain": "coloradoboulevard.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-president-bidens-new-ai-executive-order-sets-safety-market-standards.md",
-      "title": "President Biden's New AI Executive Order Sets Safety, Market Standards",
-      "excerpt": "The order is said to include 'the most sweeping actions ever taken to protect Americans from the potential risks of AI systems.'",
-      "sourceUrl": null,
-      "webUrl": "https://www.extremetech.com/internet/president-bidens-new-ai-executive-order-sets-safety-market-standards",
-      "originalUrl": "https://www.extremetech.com/internet/president-bidens-new-ai-executive-order-sets-safety-market-standards",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T17:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ExtremeTech",
-        "domain": "extremetech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-defense-tech-startup-shield-ai-raises-200m-at-27b-valuation.md",
-      "title": "Defense Tech Startup Shield AI Raises $200M At $2.7B Valuation",
-      "excerpt": "Shield AI, the defense and aerospace startup creating AI pilots, raised a $200 million Series F at a $2.7 billion valuation.",
-      "sourceUrl": null,
-      "webUrl": "https://news.crunchbase.com/ai/defense-tech-startup-venture-aircraft-shield/",
-      "originalUrl": "https://news.crunchbase.com/ai/defense-tech-startup-venture-aircraft-shield/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.crunchbase.com/wp-content/uploads/2018/09/govt_tech.png",
-          "width": 900,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T17:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "news.crunchbase",
-        "domain": "crunchbase.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-were-not-cruising-into-a-driverless-future-just-yet.md",
-      "title": "We’re Not Cruising Into a Driverless Future Just Yet",
-      "excerpt": "Autonomous vehicles roamed Austin this summer. Self-driving trucks shuttle freight across Texas. The autonomous future is here—but its arrival is fraught.",
-      "sourceUrl": null,
-      "webUrl": "https://www.texasmonthly.com/news-politics/driverless-cars-hit-brakes/",
-      "originalUrl": "https://www.texasmonthly.com/news-politics/driverless-cars-hit-brakes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T17:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Texas Monthly",
-        "domain": "texasmonthly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-google-deepmind-isomorphic-labs-unveil-next-generation-of-alphafold.md",
-      "title": "Google DeepMind, Isomorphic Labs Unveil Next Generation of AlphaFold",
-      "excerpt": "AlphaFold model shows significantly improved accuracy and expands coverage beyond proteins to other biological molecules, including ligands‍",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/google-deepmind-isomorphic-labs-unveil-next-generation-of-alphafold/",
-      "originalUrl": "https://analyticsindiamag.com/google-deepmind-isomorphic-labs-unveil-next-generation-of-alphafold/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T16:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-facial-recognition-tool-nets-over-6m-sim-card-fraudsters-in-india-in-6-months.md",
-      "title": "Facial recognition tool nets over 6M SIM card fraudsters in India in 6 months",
-      "excerpt": "The Facial recognition tool ASTR identifies a face by matching a photo or video against an image in the SIM card subscriber database.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202310/facial-recognition-tool-nets-over-6m-sim-card-fraudsters-in-india-in-6-months",
-      "originalUrl": "https://www.biometricupdate.com/202310/facial-recognition-tool-nets-over-6m-sim-card-fraudsters-in-india-in-6-months",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T16:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-scientists-identify-artificial-intelligence-tools-that-can-improve-mental-health.md",
-      "title": "Scientists identify Artificial Intelligence tools that can improve mental health",
-      "excerpt": "Scientists have identified an Artificial intelligence (AI) tool that could help improve mental health conditions of individuals.",
-      "sourceUrl": null,
-      "webUrl": "https://nairametrics.com/2023/10/31/scientists-identify-artificial-intelligence-tools-that-can-improve-mental-health/",
-      "originalUrl": "https://nairametrics.com/2023/10/31/scientists-identify-artificial-intelligence-tools-that-can-improve-mental-health/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T15:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nairametrics",
-        "domain": "nairametrics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

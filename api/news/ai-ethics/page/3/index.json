@@ -2,6 +2,146 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-11-07-ai-ethics-in-fintech-building-trust-in-tomorrows-financial-ecosystem.md",
+      "title": "AI Ethics In Fintech: Building Trust In Tomorrow's Financial Ecosystem",
+      "excerpt": "The nexus between AI and finance paints a horizon replete with opportunities. From crafting unparalleled user experiences to broadening financial access—the prospects are limitless. But, as we navigate this uncharted terrain, let our compass be ethics ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/07/ai-ethics-in-fintech-building-trust-in-tomorrows-financial-ecosystem/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/07/ai-ethics-in-fintech-building-trust-in-tomorrows-financial-ecosystem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 216,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/630f5e5918c93764f06047ca/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/07/ai-ethics-in-fintech-building-trust-in-tomorrows-financial-ecosystem/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/07/ai-ethics-in-fintech-building-trust-in-tomorrows-financial-ecosystem/amp/",
+      "publishedDateTime": "2023-11-07T13:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-11-07-ai-in-oncology-care-ethical-considerations-to-respect-patient-dignity.md",
+      "title": "AI in Oncology Care: Ethical Considerations to Respect Patient Dignity",
+      "excerpt": "If you have paid attention to medical news lately, you have almost certainly heard about some emerging uses of artificial intelligence (AI) in medicine, in | Cancer",
+      "sourceUrl": null,
+      "webUrl": "https://www.labroots.com/trending/cancer/26178/ai-oncology-care-ethical-considerations-respect-patient-dignity",
+      "originalUrl": "https://www.labroots.com/trending/cancer/26178/ai-oncology-care-ethical-considerations-respect-patient-dignity",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.labroots.com/_public/_files/system/ck/trending/ai-ethics-8296760_1280_3050d008c63b025e3152a03c1bab751d.jpg",
+          "width": 1280,
+          "height": 854,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.labroots.com/trending/cancer/26178/ai-oncology-care-ethical-considerations-respect-patient-dignity/amp",
+      "cdnAmpWebUrl": "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/cancer/26178/ai-oncology-care-ethical-considerations-respect-patient-dignity/amp",
+      "publishedDateTime": "2023-11-07T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Labroots",
+        "domain": "labroots.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-07-generative-ai-to-boost-productivity-in-financial-services.md",
+      "title": "Generative AI to boost productivity in financial services",
+      "excerpt": "Hype around generative AI and machine learning is continuing to buoy economic sentiment across Europe, with fewer than two-in-five financial services CEOs now expecting a severe downturn in the comin",
+      "sourceUrl": null,
+      "webUrl": "https://www.consultancy.uk/news/35790/generative-ai-to-boost-productivity-in-financial-services",
+      "originalUrl": "https://www.consultancy.uk/news/35790/generative-ai-to-boost-productivity-in-financial-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.consultancy.uk/illustrations/news/spotlight/2023-11-06-043615285-Generative_AI.jpg",
+          "width": 546,
+          "height": 312,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.consultancy.uk/news/amp/35790/generative-ai-to-boost-productivity-in-financial-services",
+      "cdnAmpWebUrl": "https://www-consultancy-uk.cdn.ampproject.org/c/s/www.consultancy.uk/news/amp/35790/generative-ai-to-boost-productivity-in-financial-services",
+      "publishedDateTime": "2023-11-07T04:16:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Consultancy",
+        "domain": "consultancy.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-11-07-finding-the-path-toward-success-as-organizations-bring-ai-into-the-workplace.md",
       "title": "Finding the path toward success as organizations bring AI into the workplace",
       "excerpt": "Bringing AI into the workplace involves a big change and companies that have an open feedback loop can better understand, and resolve, potential employee concerns. This loop helps to create transparency, which will lead to employee trust, Janzer said.",
@@ -1311,154 +1451,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-21-this-week-in-ai-can-we-trust-deepmind-to-be-ethical.md",
-      "title": "This week in AI: Can we trust DeepMind to be ethical?",
-      "excerpt": "This week in AI, DeepMind, the Google-owned AI R&D lab, released a paper proposing a framework for evaluating the societal and ethical risks of AI systems. The timing of the paper — which calls for varying levels of involvement from AI developers ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/10/21/this-week-in-ai-can-we-trust-deepmind-to-be-ethical/",
-      "originalUrl": "https://techcrunch.com/2023/10/21/this-week-in-ai-can-we-trust-deepmind-to-be-ethical/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/10/deepmind.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/10/21/this-week-in-ai-can-we-trust-deepmind-to-be-ethical/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/21/this-week-in-ai-can-we-trust-deepmind-to-be-ethical/amp/",
-      "publishedDateTime": "2023-10-21T15:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-10-20-keeping-a-human-in-the-loop-managing-the-ethics-of-ai-in-medicine.md",
-      "title": "Keeping a human in the loop: Managing the ethics of AI in medicine",
-      "excerpt": "Artificial intelligence (AI)—of ChatGPT fame—is increasingly used in medicine to improve diagnosis and treatment of diseases, and to avoid unnecessary screening for patients. But AI medical devices could also harm patients and worsen health inequities if they are not designed,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-10-human-loop-ethics-ai-medicine.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-10-human-loop-ethics-ai-medicine.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/chatgpt-5.jpg",
-          "width": 1920,
-          "height": 1358,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-10-human-loop-ethics-ai-medicine.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-10-human-loop-ethics-ai-medicine.amp",
-      "publishedDateTime": "2023-10-20T16:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-20-here-come-the-custobots-ai-pervades-gartners-top-10-strategic-technology-trends.md",
-      "title": "Here come the 'custobots': AI pervades Gartner's top 10 strategic technology trends",
-      "excerpt": "Gartner delivers its top IT predictions for the next decade, while exploring how generative AI has changed executive leaders' way of thinking on every subject.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-dominates-gartners-top-10-strategic-technology-trends/",
-      "originalUrl": "https://www.zdnet.com/article/ai-dominates-gartners-top-10-strategic-technology-trends/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/7914167cdad6ee607ca901e68fd8d97bcf912efa/2023/10/19/e2211636-9fcc-43d6-9fac-8fb086f179ab/colorlight-gettyimages-1020063054.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-dominates-gartners-top-10-strategic-technology-trends/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-dominates-gartners-top-10-strategic-technology-trends/",
-      "publishedDateTime": "2023-10-19T17:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

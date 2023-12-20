@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-11-10-this-new-breed-of-ai-assistant-wants-to-do-your-boring-office-chores.md",
+      "title": "This New Breed of AI Assistant Wants to Do Your Boring Office Chores",
+      "excerpt": "An experimental AI helper attempts to operate a web browser in the same way a human does to take on office admin like processing invoices or screening job applicants.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/this-new-breed-of-ai-assistant-wants-to-do-your-boring-office-chores/",
+      "originalUrl": "https://www.wired.com/story/this-new-breed-of-ai-assistant-wants-to-do-your-boring-office-chores/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/654c219798d337ba5af8c646/191:100/w_1280,c_limit/110823-business-ai-office-chores.png",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-09T16:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-08-generative-ai-in-search-expands-to-more-than-120-new-countries-and-territories.md",
       "title": "Generative AI in Search expands to more than 120 new countries and territories",
       "excerpt": "Generative AI in Search, or Search Generative Experience (SGE), is expanding around the world, and adding four new languages.",
@@ -1348,49 +1400,6 @@
         "name": "The Daily Telegraph",
         "domain": "telegraph.co.uk",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-14-ai-is-top-of-mind-for-leaders-the-pros-and-cons-according-to-execs-from-pwc-google-deepmind-slack-and-ibm.md",
-      "title": "AI is top of mind for leaders. The pros and cons, according to execs from PwC, Google DeepMind, Slack, and IBM",
-      "excerpt": "At the Fortune Most Powerful Women Summit in Laguna Niguel, Calif., executives from PwC, Google DeepMind, Slack, and IBM addressed the risks and potential rewards of AI for leaders and companies. Slack CEO Lidiane Jones said she is optimistic about how AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/2023/10/13/ai-executives-google-slack-imb-risks/",
-      "originalUrl": "https://fortune.com/2023/10/13/ai-executives-google-slack-imb-risks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-13T20:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

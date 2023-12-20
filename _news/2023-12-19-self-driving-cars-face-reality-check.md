@@ -22,6 +22,22 @@ topics:
   - AI in Autos
   - AI
 
+related:
+  - title: "Self-Driving Cars Have Arrived. They Will Make Us Safer."
+    excerpt: "The magic of the driverless vehicle is the artificial intelligence behind the sensors. That allows the cars to operate like a human nervous system. Sensors and radar are the eyes and ears. The brain is algorithms trained by billions of simulated trips. The more the robo-cars drive, the more they learn, and the smarter and safer they get."
+    publishedDateTime: 2023-12-20T16:40:00Z
+    webUrl: "https://reason.com/?p=8259274"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 24
+    images:
+      - url: "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2023/12/john-stossel-driverless-cars-1024x526.png"
+        width: 1024
+        height: 526
+        isCached: true
+
 secured: "JTNf3yq9HraCNWpirOHRgozuwgsp50ohjLYrzI7LhzIs9Ns6fPy5EjmS3w1LBBBHMY2RbyW9PXxE6VJB9sX6im1rJ2lRo/QimsnR7mvPjt+HArKURfUWGeWUGXtchKvjjZ4q4H2ws/9LATheI8JfJVHDmadeFYwF8ftUr01XvKyJYJ2Od/pqQtjBMnGQjULmoF2Tk44CuA7TVY2CjYT2gapSKK1v4BhSNQBylfOF8oCn3Hqrq7a93xYAtSnqohnrxdx6KXWBW18EbqBulwgC4lvrqAotlVSO8Yqg1x3/J5zyRNm7khQU1edAMY19oejc+PhVIbGaGoUMd2YX6fPMkUsXMv0oZckO+SKkOVVpp54=;EmdJhZ9l5nAy3H+fbKW0Tg=="
 ---
 

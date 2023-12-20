@@ -49,6 +49,20 @@ related:
         width: 766
         height: 431
         isCached: true
+  - title: "Revolutionizing Industries: How AI Apps are Transforming Healthcare, Finance, and More"
+    excerpt: "Welcome to the era of AI revolution! We stand witness to incredible technological innovations that are reshaping industries like never before. Among these groundbreaking advancements, artificial intelligence applications have emerged as the game-changers across numerous sectors."
+    publishedDateTime: 2023-12-17T16:56:00Z
+    webUrl: "https://techbullion.com/revolutionizing-industries-how-ai-apps-are-transforming-healthcare-finance-and-more/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 67
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/AI-App.jpg"
+        width: 1000
+        height: 500
+        isCached: true
 
 secured: "QYpbm6SZOLucpkAkRMjDPv6ZlwVRKsdO012cXcF2x+4RHxGoPZzPCocOUjswa0lqmO8oKKZj8iOrfUoEul14T7UIihxWy2ihg+zBSqE3T6cN6Pfa1OzqwNi0iVD0LMWW3sSNymjyOfxOQxzcfwdO6hEwpuDjdgHNCMN+Xw59fH+j67Tzy/clbUGMET++cmG11MLZzXcScDBJK8NI64AASuNeWVw5jslv/IKiPxCrYvN5Uo9V2CNA6Xa8W9aLzazz2Oc9mboXk/Ybkk+E/2fPexumZ5Q7fSiWrVGGVEByuvNSu+TjRWuzbap3VfVULHi5CPJEQPl3PB4abXUdlx28yeAGyKHNiKORFt0U5ke3uQ07y5n/85820Qbl+tYg3hYMuL0Yz0Bak9J2dk+Bl9cye6tDd9Ml36l0tC8uGjBRLfQICAIqBT1l6yHu+P93cr7UvtO8liD9yp5kiI3rvXPtycRCHilOCihMeJsaBM3BiCfsyacsI/hM0QsHFLmjjdknp/3QkD8lOEjxn2a9M5a3oQ==;aq4XWXIh1rUzStVHPSGsWg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/18/unlock
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/12/18/unlocking-a-world-of-possibilities-how-ai-is-revolutionizing-real-estate-and-empowering-your-life-choices/amp/"
 type: article
 quality: 71
-heat: 71
+heat: 91
 published: true
 
 provider:
@@ -29,6 +29,36 @@ images:
     width: 1350
     height: 900
     isCached: true
+
+related:
+  - title: "Plumbing and Artificial Intelligence: How AI is Revolutionizing Leak Detection"
+    excerpt: "Introduction: Artificial intelligence (AI) has become a game-changer in various industries, and plumbing is no exception. One of the critical challenges in plumbing is the timely detection of leaks, which can lead to significant water damage if left unchecked."
+    publishedDateTime: 2023-12-19T00:56:00Z
+    webUrl: "https://techbullion.com/plumbing-and-artificial-intelligence-how-ai-is-revolutionizing-leak-detection/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 48
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/Plumbing-and-Artificial-Intelligence-How-AI-is-Revolutionizing-Leak-Detection.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "Telling My Whole Life With AI’s Words: Ethical Considerations Regarding Attorney Use and Misuse of Artificial Intelligence"
+    excerpt: "Fugees rapper Pras Michel is set to make his case for a new trial after his attorney allegedly violated ethics rules when he used an AI tool the lawyer invested in to draft a closing statement in the artist's foreign influence case."
+    publishedDateTime: 2023-12-18T18:34:00Z
+    webUrl: "https://www.law.com/therecorder/2023/12/18/telling-my-whole-life-with-ais-words-ethical-considerations-regarding-attorney-use-and-misuse-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 43
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/403/2023/12/Lin-Graber-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
 
 secured: "UaM4iMDSLceM3d+CeJI7HyYCrDGkl6IIZweYKkWBcWQnBL/KCP9Qq3AGS+EL43xFV+0VWl3F/V63MO2bb2Csf491UKw27SGSZ6uHBoAZ/nQVDl8mr1cIWzFoZOGl45RnMZ0Ezbre1qN4qrjdcsqV0gxghPdBIIuQAnzEukcXoXcDrcmn7uRcIKaOMGCZlw+xRqsyHW7uC8JLIfdDnEMA8aKNNpqziAS6LCY7rIdMT6OGlCZu/dyc968D/w7dcv7YymxUmfu8eLW8apf+OPw6nBpimeCv8523BJAn5ey/yrOF+TWDmLFEiezDPZo4tbKAdpApmwIisdTuUAWseEdKu9LzdWooLzJE2V69Doupeafd6WSlBagl6xcXU4uGfRF2ibJpKxlpa82Bbzvu51DD7l8+n0LCx2SVOJ350LF/fFErBEExgXxp8EuBkf54teLxsY7MPlXHG9lpMDxYNHchK2ttVgDav22kjw07xQfwJ7iyIqZS2js542Zbh0E11cj2BjWAioDIo6qiez2mo4PWjw==;9EPBKWNWmNiypOTZxXHatg=="
 ---

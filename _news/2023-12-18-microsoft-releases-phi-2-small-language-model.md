@@ -116,6 +116,22 @@ related:
         width: 360
         height: 202
         isCached: true
+  - title: "For gen AI like Microsoft Copilot, it's looking like 2024 will be a big corporate spending year"
+    excerpt: "It’s more than just AI hype. A majority of top tech officers across the economy say their companies are accelerating spend on software like Microsoft Copilot."
+    publishedDateTime: 2023-12-20T15:06:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/for-gen-ai-like-microsoft-copilot-its-looking-like-2024-will-be-a-big-corporate-spending-year/4967695/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/for-gen-ai-like-microsoft-copilot-its-looking-like-2024-will-be-a-big-corporate-spending-year/4967695/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/for-gen-ai-like-microsoft-copilot-its-looking-like-2024-will-be-a-big-corporate-spending-year/4967695/?amp=1"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 62
+    images:
+      - url: "https://media.nbcnewyork.com/2023/12/107329682-1699299150834-gettyimages-1778708098-js2_4099_isifrhca.jpeg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google Maps rival TomTom creates AI-based conversational assistant for vehicles with Microsoft"
     excerpt: "Digital mapping specialist TomTom said on Tuesday it has partnered with tech giant Microsoft to create an artificial intelligence (AI)-powered conversational assistant for vehicles."
     publishedDateTime: 2023-12-20T01:55:00Z
@@ -179,20 +195,6 @@ related:
       - url: "https://static.toiimg.com/thumb/msid-106125586,width-1070,height-580,imgsize-526522,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         width: 1068
         height: 580
-        isCached: true
-  - title: "TomTom and Microsoft bringing generative AI to cars"
-    excerpt: "The engine powering this AI revolution is a potent combination of TomTom’s expertise in mapmaking, traffic data, and driver behavior analysis, and Microsoft’s Azure OpenAI service, a powerful platform for developing and deploying cutting-edge generative AI models."
-    publishedDateTime: 2023-12-19T07:08:00Z
-    webUrl: "https://www.absolutegeeks.com/article/geek-stream/tomtom-and-microsoft-bringing-generative-ai-to-cars/"
-    type: article
-    provider:
-      name: absolutegeeks.com
-      domain: absolutegeeks.com
-    quality: 54
-    images:
-      - url: "https://www.absolutegeeks.com/wp-content/uploads/2023/12/e6a73560-9ab5-11ee-9dbf-ece57daa102b.png"
-        width: 960
-        height: 550
         isCached: true
   - title: "A renowned GPS brand and Microsoft look to help drivers with AI"
     excerpt: "Using Microsoft's Azure OpenAI system, the assistant can perform functions and tasks around the car that would typically require drivers to take their hands off the steering wheel and eyes off the road."
@@ -292,20 +294,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Achieving cross-border data protection with Microsoft Cloud for Sovereignty"
-    excerpt: "Organisations are paying for their data protection mistakes. Failure to comply with the European Union (EU)’s General Data Protection Regulation (GDPR), for example, can result in fines of up to €20.3 million ($22."
-    publishedDateTime: 2023-12-15T16:08:00Z
-    webUrl: "https://www.technologyrecord.com/article/achieving-cross-border-data-protection-with-microsoft-cloud-for-sovereignty"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 37
-    images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4758/Cross-border-protection-cover-story-975x548.jpg"
-        width: 975
-        height: 548
-        isCached: true
   - title: "Microsoft Only Cloud Giant 'Leader' in AI Governance Research Report"
     excerpt: "In fact, among the largest general cloud computing platforms, IBM is the only other player covered in the 'IDC MarketScape: Worldwide AI Governance Platforms 2023 Vendor Assessment,' with fellow hyperscalers AWS and Google Cloud Platform not included."
     publishedDateTime: 2023-12-18T19:52:00Z
@@ -314,6 +302,15 @@ related:
     provider:
       name: Virtualization Review
       domain: virtualizationreview.com
+    quality: 34
+  - title: "Microsoft and TomTom partner on in-car Generative AI"
+    excerpt: "TomTom has announced a new partnership with Microsoft to bring Generative AI to vehicles, TomTom has developed an advanced AI-powered voice assistant"
+    publishedDateTime: 2023-12-20T14:01:00Z
+    webUrl: "https://www.geeky-gadgets.com/microsoft-and-tomtom-partner-on-in-car-generative-ai/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
     quality: 34
   - title: "TomTom and Microsoft Are Bringing Generative AI to Cars"
     excerpt: "Partnering with Microsoft gives TomTom access to the latest OpenAI language models, as well as Microsoft's Azure cloud infrastructure. Its goal is to integrate the AI with its Digital Cockpit platform, which it hopes to sell to automakers. TomTom hasn't ..."

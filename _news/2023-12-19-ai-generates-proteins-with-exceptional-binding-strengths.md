@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2023-12-ai-generates-proteins-exceptional-stre
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-12-ai-generates-proteins-exceptional-strengths.amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Phys.org
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "How artificial intelligence is transforming higher education"
+    excerpt: "WINSTON-SALEM, N.C. — Improving the educational experience of students is a top priority for Dr. Betsy Barre. As the Executive Director of the Center for Advancement of Teaching at Wake Forest University, she works to find innovative teaching practices for faculty. Her latest project is how to address the use of artificial intelligence."
+    publishedDateTime: 2023-12-18T14:38:00Z
+    webUrl: "https://www.wfmynews2.com/article/news/education/how-ai-is-transforming-higher-education-artificial-intelligence/83-65fbb04e-bf3a-4b0e-8dc8-11cd32addad2"
+    type: article
+    provider:
+      name: WFMY News2
+      domain: wfmynews2.com
+    quality: 54
+    images:
+      - url: "https://media.wfmynews2.com/assets/WFMY/images/d6c9631c-6688-4aa7-9ab7-b5a7149521d4/d6c9631c-6688-4aa7-9ab7-b5a7149521d4_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Deep learning designs high-affinity protein binders for bioactive helical peptides"
     excerpt: "A new study Dec. 18 in Nature reports an AI-driven advance in biotechnology with implications for drug development, disease detection, and environmental monitoring."
     publishedDateTime: 2023-12-19T06:35:00Z

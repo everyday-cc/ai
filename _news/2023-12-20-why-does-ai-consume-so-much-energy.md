@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/sap/2023/12/20/why-does-ai-consume-so-much
 ampWebUrl: "https://www.forbes.com/sites/sap/2023/12/20/why-does-ai-consume-so-much-energy/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2023/12/20/why-does-ai-consume-so-much-energy/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/6581d2306315f1c58af04d3b/0x0.jpg?format=jpg&crop=2618,1471,x0,y0,safe&height=900&width=1600&fit=bounds"
@@ -29,6 +30,6 @@ images:
     height: 899
     isCached: true
 
-secured: "bUARiRyPwzYNrIsRDgx1Vfn5E2mnyUodys4A7USc0scYXZ0yAKyH6TV6hr9yvbNn9XsLcmQMjVoX5TBoAZtXsP8Bp6H/Z44DScPMe4cQx0sfn9ivv5wjKoeFbNt6yxGF5RWSMLpY7cVYrGeWuhSEwvpXNiwpwKc9QEnuyLzPQ4hwsBk7RCLPvVszQkRKsDhz9GHIoMteKQH71HdBc6yUoydbBZegjxXT1jNZwYZ0kt6k8Mcwzq5Cq7cBv3n0yhl3XeF3qvvWtugT6uYocQHskXuJ4FCkxrRuc5O8SNlVkWy5tenUX6xMgBFN+sAaK+uJ3BUnb/3JeuYoSdZ/4Y8y6mqT3I6NJ2oTByx1iB3IVxA=;3ABBSsrlcJb/g9E/ztwqQg=="
+secured: "UH8TWlg5sa+vM7DdAjlCPQ5c2cqfjEVRelFujByNFbC46gq0GGtHGaNaw/inaYNwNMlEriRI7a7s5z+MWKsN6EFmUo6JhOIZvjpIGwgn4uaiYvg0nmXIWuBee2GI9iYJuZOMLfz573y2IV57sA+WiFRkWJdCud1RTkdgbWZvVV/6Yt/Jx6t1nYREUhXXbrW8HEJmokUKd4DkjVSRtCw4SrnaCEyck3Mu1qv5dAv/G6xvYlAWv916ZLok207Wyd3G/is/cPbW0YEljM1iY9DKfWrEFXxspVZcJJ8C+TK0w5XgzIIdT1Gfd7qRrB9hloKw3X3GkJyk8wa/nkcNAt6AB1gaHqOST4+g6Alp/8M8xEitkqHs8QGU7FPpAZhDynhIvwmAzWAhc4dQ+PRNngl4oIyenmhP8tknFQIAUXY31CEKanHVNlSuvUPoanm0ZiCYlH1D4tmJX3T3dBdFtDekrtl3IF1uSyLbHyQ+GlQNNhJQUhUttTB/FYDxNpL5gaUGS7p9z+zlJmlU4JA1HwIASQ==;MvGkvGMnYnFCBbuOCuCVOA=="
 ---
 

@@ -25,102 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Precision Education: How K-12 Schools Are Embracing AI"
-    excerpt: "As artificial intelligence (AI) continues to evolve, its applications in various sectors have been groundbreaking, and education is no exception."
-    publishedDateTime: 2023-12-15T14:59:00Z
-    webUrl: "https://www.forbes.com/sites/neilsahota/2023/12/15/precision-education-how-k-12-schools-are-embracing-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/neilsahota/2023/12/15/precision-education-how-k-12-schools-are-embracing-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/neilsahota/2023/12/15/precision-education-how-k-12-schools-are-embracing-ai/amp/"
+  - title: "AI generates proteins with exceptional binding strengths"
+    excerpt: "A new study in Nature reports an AI-driven advance in biotechnology with implications for drug development, disease detection, and environmental monitoring. Scientists at the Institute for Protein Design at the University of Washington School of Medicine used software to create protein molecules that bind with exceptionally high affinity and specificity to a variety of challenging biomarkers,"
+    publishedDateTime: 2023-12-18T16:54:00Z
+    webUrl: "https://phys.org/news/2023-12-ai-generates-proteins-exceptional-strengths.html"
+    ampWebUrl: "https://phys.org/news/2023-12-ai-generates-proteins-exceptional-strengths.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-12-ai-generates-proteins-exceptional-strengths.amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: Phys.org
+      domain: phys.org
+    quality: 57
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65795ccf8c811c18e06ab854/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1201
-        height: 900
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-generates-proteins-1.jpg"
+        width: 1280
+        height: 1706
         isCached: true
-  - title: "Tech-savvy PM Modi has a bold vision: AI, ethics and transformation"
-    excerpt: "In the GPAI Summit recently, Prime Minister Narendra Modi advocated for ethical AI, stressing its pivotal role in shaping a technologically advanced and culturally rooted India"
-    publishedDateTime: 2023-12-19T08:09:00Z
-    webUrl: "https://www.firstpost.com/opinion/tech-savvy-pm-modi-has-a-bold-vision-ai-ethics-and-transformation-13520412.html"
-    ampWebUrl: "https://www.firstpost.com/opinion/tech-savvy-pm-modi-has-a-bold-vision-ai-ethics-and-transformation-13520412.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/opinion/tech-savvy-pm-modi-has-a-bold-vision-ai-ethics-and-transformation-13520412.html/amp"
+  - title: "Deep learning designs high-affinity protein binders for bioactive helical peptides"
+    excerpt: "A new study Dec. 18 in Nature reports an AI-driven advance in biotechnology with implications for drug development, disease detection, and environmental monitoring."
+    publishedDateTime: 2023-12-19T06:35:00Z
+    webUrl: "https://www.news-medical.net/news/20231218/Deep-learning-designs-high-affinity-protein-binders-for-bioactive-helical-peptides.aspx"
     type: article
     provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 74
+      name: News Medical
+      domain: news-medical.net
+    quality: 33
     images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2023/12/Modi_Aircraft640PTI.jpg"
-        width: 640
-        height: 362
-        isCached: true
-  - title: "Revolutionizing Industries: How AI Apps are Transforming Healthcare, Finance, and More"
-    excerpt: "Welcome to the era of AI revolution! We stand witness to incredible technological innovations that are reshaping industries like never before. Among these groundbreaking advancements, artificial intelligence applications have emerged as the game-changers across numerous sectors."
-    publishedDateTime: 2023-12-17T16:56:00Z
-    webUrl: "https://techbullion.com/revolutionizing-industries-how-ai-apps-are-transforming-healthcare-finance-and-more/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 65
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/AI-App.jpg"
-        width: 1000
-        height: 500
-        isCached: true
-  - title: "Education and Artificial Intelligence: Navigating the Path to Transformation"
-    excerpt: "In a world where technology is evolving at an unprecedented pace, education stands on the cusp of transformation. Imagine classrooms where teachers are"
-    publishedDateTime: 2023-12-18T17:57:00Z
-    webUrl: "https://www.edsurge.com/news/2023-12-18-education-and-artificial-intelligence-navigating-the-path-to-transformation"
-    type: article
-    provider:
-      name: EdSurge
-      domain: edsurge.com
-    quality: 53
-    images:
-      - url: "https://edsurge.imgix.net/uploads/post/image/15641/Shutterstock_1958892118-1701817153.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "Plumbing and Artificial Intelligence: How AI is Revolutionizing Leak Detection"
-    excerpt: "Introduction: Artificial intelligence (AI) has become a game-changer in various industries, and plumbing is no exception. One of the critical challenges in plumbing is the timely detection of leaks, which can lead to significant water damage if left unchecked."
-    publishedDateTime: 2023-12-19T00:56:00Z
-    webUrl: "https://techbullion.com/plumbing-and-artificial-intelligence-how-ai-is-revolutionizing-leak-detection/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 48
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/Plumbing-and-Artificial-Intelligence-How-AI-is-Revolutionizing-Leak-Detection.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Implementing AI technology in business education"
-    excerpt: "With that idea in mind, I want to share my experiences and those of my colleagues here at Gies College of Business at the University of Illinois Urbana–Champaign . Our approach to adopting artificial intelligence (AI) illustrates how we can embrace new technologies and prepare students for what they will encounter in their future careers."
-    publishedDateTime: 2023-12-18T10:00:00Z
-    webUrl: "https://www.chicagobusiness.com/crains-content-studio/implementing-ai-technology-business-education"
-    type: article
-    provider:
-      name: Crain's Chicago Business
-      domain: chicagobusiness.com
-    quality: 36
-  - title: "Accelerating Innovation: Open-source Software, Artificial Intelligence, and the Auto Industry"
-    excerpt: "THE RISE – AND IP RISKS – OF GENERATIVE ARTIFICIAL INTELLIGENCE The past year has seen an explosion in the advancement of generative artificial intelligence (AI) programs such as ChatGPT, but the auto industry has been using traditional and generative ..."
-    publishedDateTime: 2023-12-19T00:00:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/accelerating-innovation-open-source-8626129/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 26
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.9266_0649.jpg"
-        width: 1200
-        height: 900
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
 
 secured: "lqSCtrUseGeKYWkYqJOqD5iP+BIz0QbVBLYlXBE4d1MZGhUI0Skk9UvjqwYpMXgI556sktgJ57bO9aq6FKfY/5SMAWsD4hjx+ErV9ouzqgxUksCsYSdAFduIp2rNdQhIAh9kgiNzjtysLAwljc+0lhvxLYHNDFSx2vGBzbDG2iuhhdp61EenMLV2zTF2D2mu7ltl3KI7OopWAYy784y+UvA2B+ruOHHE7jtMAnVGJvcs8UoZLIgLUXNfkLQTWF9y0qctxJteQOGQEytp9CYGy5MELhnXZF6nrM75KwPOmzdQ9IIbXQpulCzrMG6GxmD0phcNx2ImPkgx7u7BQV7qtBsP5FltE7LH4dpUKHXVOsnB6Vt5fPX8nodJ3tnGGlXL11p81BlQ84ngdd+26DpKN3YupugpS/s+kMC5bsgS0vzPes/ZKtZXMvMhXZx3oO/naMsKCG+Op2imVkzBWhZyNhUe0I8WPvg7f35ByhaWMLhK5ExR4hvW1qCB5G7+na6Y8cDntttJswGhNkdSn8ALbg==;tX/whifVqNnzOFAc6UKkzA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jonmarkman/2023/12/18/teslas-ai-revolut
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonmarkman/2023/12/18/teslas-ai-revolution-morgan-stanley-predicts-explosive-growth/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -63,15 +63,6 @@ related:
         width: 1528
         height: 800
         isCached: true
-  - title: "The Evolution: Google’s Artificial Intelligence and Its Impact on Virtual Assistants"
-    excerpt: "Introduction: In the dynamic landscape of technology, one phenomenon has emerged as a trailblazer, shaping the way we interact with information – Google’s Artificial Intelligence (AI). This transformative force has left an indelible mark,"
-    publishedDateTime: 2023-12-15T14:44:00Z
-    webUrl: "https://techbullion.com/the-evolution-googles-artificial-intelligence-and-its-impact-on-virtual-assistants/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 10
 
 secured: "ndNaJt+phFeygl8Iwe7QG/1QnP2nH2DFx+n7dUG6ZdmKS58NwyqJaI9Oedk/+iO9MVMZ3fbcFepGA+omU+tRAEmpsIIfJjK9URj8DvXVBYsfruJtXf/YXQ5gsuHfnfDJ75TbW59T+Uuov1+jW5dLkIwqf5nHdNJp63sYo2tmJCDzv4bDYiAsMnsIZwKBmyNhv/B5NKVMBU3BXD2Qk7dow1ttsjH79IdGAnlfF/F+TRAePMxfKETldolxfBTr25z0Gd6ZTvEN2QLHzOL+vBkLXGTkXu9ybKqdMtOCp2SlKENnXvH5IecChxXtAPjY/AtcsF0VgczF5ZNxSq6dnan/ZLyYJu8NWaGKj9t93uimQ4/u+8sO30EJjv+FFbDhEwJmibsrZ+ihFkXvOlU8aqWz7Na1B+UyMpKK3FElFveUDe7VBdkziytzfQiAxO0rTShcLUf9/mkACgItmyZrLqDdjCEFuiJqvIMhk/thZWyoWl+nQflTAHvz8nWSN5GVpM8ycs/O5wcGUDNmwLkrKz7tgw==;xPoJQlGWRcdMZH05fg7pgA=="
 ---

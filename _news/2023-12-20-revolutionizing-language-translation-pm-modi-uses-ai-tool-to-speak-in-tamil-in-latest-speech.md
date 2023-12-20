@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 738
         isCached: true
+  - title: "Tech-savvy PM Modi has a bold vision: AI, ethics and transformation"
+    excerpt: "In the GPAI Summit recently, Prime Minister Narendra Modi advocated for ethical AI, stressing its pivotal role in shaping a technologically advanced and culturally rooted India"
+    publishedDateTime: 2023-12-19T08:09:00Z
+    webUrl: "https://www.firstpost.com/opinion/tech-savvy-pm-modi-has-a-bold-vision-ai-ethics-and-transformation-13520412.html"
+    ampWebUrl: "https://www.firstpost.com/opinion/tech-savvy-pm-modi-has-a-bold-vision-ai-ethics-and-transformation-13520412.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/opinion/tech-savvy-pm-modi-has-a-bold-vision-ai-ethics-and-transformation-13520412.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 74
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2023/12/Modi_Aircraft640PTI.jpg"
+        width: 640
+        height: 362
+        isCached: true
   - title: "Indian language AI tool ‘Bhashini’ used to translate Prime Minister Narendra Modi’s speech"
     excerpt: "Prime Minister Narendra Modi used an AI-powered Indian language translation tool, Bhashini, during a speech in Uttar Pradesh."
     publishedDateTime: 2023-12-18T06:01:00Z
@@ -152,6 +168,6 @@ related:
       domain: indiatimes.com
     quality: 6
 
-secured: "vuQiW3G4TsKkeAN8aKLm1wInya27bNu9IBhdI9H7FD6OQG+ZTX1dqmds5pdeOI9Axv5CrmNvnQDSVrtXn2PgikwruMLaEUvMYb0a3olWz38Q9P0b+llSbhs6O9AegJHlxzRADlC5/e0RJTX72q/sHcEMZq4a179NH0dzuHJmkGIAwdFJizQn7E8neh4z7hdHf4EsfLCFnpMj3jVW1ESqpNCEQXsiSBRqq0v4T/USdXRqg4SmtXfIVPaywGYAmaMOlZHuPGgwdPYAx9fNbj109qaAoO658bCO71Czoj6h44WY7/ZAYExPENLlBg7xRlQq9Egd+w1KP8T7yNul8G4dLOjF+F2zODH7LJ4BJbU4I2E=;0Bl7vogGuwv2eUNIYif5MA=="
+secured: "vHZ/Pec8rbMZTHSVD2wEFq/DaR/bibA/k8yJCNzzorKRIsAWYPgFhksb8fDKIfoWwAPJgQXmxky79KN4MwelvSmRPb8k7vdlLabiKp2TBFnal4v8bX3uA6G/EORH2KqEvrfofPDUYU8XF1vx+LT+g1DQhCZEnEEoyyWhKsNNAOtCxqIjM6PNQbAf4gSrPR768y/qJwO9IknEUaJSZeMfuSF7hP5COJ82qh23GzoR9iSNNlLp1pyJHZNkaj/YTYA8EjOM7ryxepnTU4GJSC/b6+tcKWbETzVGZTMPx2uB2MoYdf7neGd/XSx6g+a/5R/FL884QxtXKAUXxhQskoaa98EMUEnva19U13WxQKfgT6f7P44tvCYPdV+R/CYffj7JGTJBhF9udGkgSo1J6K77/3v6ZydVHm/mAqPZc/M9gxikdY69Qk3f0S1b0nALuZg26Jd2xk3zGzGYfIxYgTN/xDMSnxS7XlCh+voWu/SSz0Ded3Q1F7uRGQ630FdTvVPTfW5ETNHAg8qLraVi8dbugw==;tKZwAlvZMO6Q52y7aMUbFA=="
 ---
 

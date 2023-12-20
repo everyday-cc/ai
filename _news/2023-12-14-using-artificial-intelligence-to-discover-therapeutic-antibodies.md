@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AWS AI
 
 images:
   - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/7a30f321-3074-4dfc-b596-98c2af06a4c6/Rendition/low-res/Content/Public"

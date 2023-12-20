@@ -49,6 +49,20 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "Education and Artificial Intelligence: Navigating the Path to Transformation"
+    excerpt: "In a world where technology is evolving at an unprecedented pace, education stands on the cusp of transformation. Imagine classrooms where teachers are"
+    publishedDateTime: 2023-12-18T17:57:00Z
+    webUrl: "https://www.edsurge.com/news/2023-12-18-education-and-artificial-intelligence-navigating-the-path-to-transformation"
+    type: article
+    provider:
+      name: EdSurge
+      domain: edsurge.com
+    quality: 53
+    images:
+      - url: "https://edsurge.imgix.net/uploads/post/image/15641/Shutterstock_1958892118-1701817153.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop"
+        width: 1024
+        height: 512
+        isCached: true
 
 secured: "Qoi3BnvZy2SzXJFOc2MG5tHgAlcHXhPf3GYxyCPqYTxdlth4uq+AoJidzUg7QLsC9/LNx7jFPuDiM1OxX+JjLOjGbdaJl4VK4ZLAnb4pfwATud6Tm+Dgt7EqxGeNIqJY5+xx3RLnowHTx+coqeZ+xsQYPnx+Odsl/xMbh387TBN2Dd8nl3D09kOuNOwOU/TSSktEIjkzHrxed6PIjvkmPLww5ito7xxP9WOF/nD5lceRma0+Ke10FkETMo4A+q1q/ZXWGfEUyasMEk77EaGo7PzvOXM7BxwUDeyKYIKYuuFtdwxOPx1hNLML6Mrn+xiaTfaCrXxYYFp2EXcf7JJ+JYwq9wAQn6sUtw9MMCL+KjjsR1tPoHgiCWj/ZhTH5B98k7dwg8JMr/uJEZgpDsQtPN6wH+OpZVTfyLTZXA3c0yYXoSzPjPkvqmPKEwX+OuwxW2zmXOgo+SmBAcgD58JhRjh+GYDzV85AIE0DRk8m4jka9hfMzv6qKahCG4BxZf7YDhZaLL3MqwSMXx67ybXIMw==;2HCg3iLMVa9MVeNZxU1Xfw=="
 ---

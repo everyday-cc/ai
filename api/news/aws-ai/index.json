@@ -2,6 +2,41 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-20-microsoft-azure-gaining-steam-but-amazons-aws-still-holds-top-spot-jefferies.md",
+      "title": "Microsoft Azure gaining steam but Amazon's AWS still holds top spot - Jefferies",
+      "excerpt": "Jefferies surveyed 40 U.S. CIOs and found that both platforms are best positioned to gain incremental spend over the next two years, with 80% of CIOs planning to boost cloud spending in 2024. According to the firm, Azure screened positively, with a higher share of CIOs planning to spend \"significantly more\" over the next 24 months.",
+      "sourceUrl": null,
+      "webUrl": "https://za.investing.com/news/microsoft-azure-gaining-steam-but-amazons-aws-still-holds-top-spot--jefferies-432SI-2962657",
+      "originalUrl": "https://za.investing.com/news/microsoft-azure-gaining-steam-but-amazons-aws-still-holds-top-spot--jefferies-432SI-2962657",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-20T13:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investing",
+        "domain": "investing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-19-driving-advanced-analytics-outcomes-at-scale-using-amazon-sagemaker-powered-pwcs-machine-learning-ops-accelerator.md",
       "title": "Driving advanced analytics outcomes at scale using Amazon SageMaker powered PwC’s Machine Learning Ops Accelerator",
       "excerpt": "This post was written in collaboration with Ankur Goyal and Karthikeyan Chokappa from PwC Australia’s Cloud &amp; Digital business. Artificial intelligence (AI) and machine learning (ML) are becoming an integral part of systems and processes, enabling decisions in real time, thereby driving top and bottom-line",
@@ -10,7 +45,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/driving-advanced-analytics-outcomes-at-scale-using-amazon-sagemaker-powered-pwcs-machine-learning-ops-accelerator/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -115,7 +150,7 @@
       "originalUrl": "https://www.bbc.com/news/technology-47117299",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -1176,6 +1211,49 @@
       ]
     },
     {
+      "path": "_news/2023-12-09-tuis-ai-chatbot-puts-experiences-first.md",
+      "title": "TUI’s AI Chatbot Puts Experiences First",
+      "excerpt": "CIO of Analytics and Artificial Intelligence, give a detailed presentation at the AWS re:Invent 2023 conference.",
+      "sourceUrl": null,
+      "webUrl": "https://skift.com/2023/12/08/tuis-ai-chatbot-puts-experiences-first/",
+      "originalUrl": "https://skift.com/2023/12/08/tuis-ai-chatbot-puts-experiences-first/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/T83aTmVpfzQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://skift.com/2023/12/08/tuis-ai-chatbot-puts-experiences-first/amp/",
+      "cdnAmpWebUrl": "https://skift-com.cdn.ampproject.org/c/s/skift.com/2023/12/08/tuis-ai-chatbot-puts-experiences-first/amp/",
+      "publishedDateTime": "2023-12-08T16:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Skift",
+        "domain": "skift.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-08-aws-reinvent-2023-7-takeaways-from-the-big-annual-event.md",
       "title": "AWS re:Invent 2023: 7 takeaways from the big annual event",
       "excerpt": "At the AWS re:Invent conference last week, the spotlight was focused on artificial intelligence, with the new generative AI assistant, Amazon Q, debuting as the star of the show. But there was ...",
@@ -1334,92 +1412,6 @@
       "provider": {
         "name": "Longmont Times-Call",
         "domain": "timescall.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-transforming-industries-with-generative-ai-aws-swami-sivasubramanian-on-intelligence-augmentation.md",
-      "title": "Transforming industries with generative AI: AWS’ Swami Sivasubramanian on intelligence augmentation",
-      "excerpt": "We are entrenched firmly in the generative artificial intelligence era — it is the differentiating factor for today’s enterprise and business landscapes.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/12/05/transforming-industries-generative-ai-next-era-intelligence-augmentation-supercloud5/",
-      "originalUrl": "https://siliconangle.com/2023/12/05/transforming-industries-generative-ai-next-era-intelligence-augmentation-supercloud5/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/IMG_4502.jpg",
-          "width": 4898,
-          "height": 3265,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-06T04:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-aws-announces-amazon-q-to-reimagine-the-future-of-work.md",
-      "title": "AWS announces Amazon Q to reimagine the future of work",
-      "excerpt": "Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced Amazon Q, a new type of generative artificial intelligence-(AI) powered assistant that is specifically for work and can be tailored to a customer’s business. Customers can get fast ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/companies-news/aws-announces-amazon-q-to-reimagine-the-future-of-work-p6vg94yf",
-      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/aws-announces-amazon-q-to-reimagine-the-future-of-work-p6vg94yf",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/view/acePublic/alias/contentid/N2IxMDA4ZjQtMTJiNi00/0/amazon-q-business-image-png.jpeg?f=3%3A2",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/aws-announces-amazon-q-to-reimagine-the-future-of-work-p6vg94yf?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/aws-announces-amazon-q-to-reimagine-the-future-of-work-p6vg94yf?amp=1",
-      "publishedDateTime": "2023-12-06T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
         "images": null,
         "publishers": null,
         "authors": null

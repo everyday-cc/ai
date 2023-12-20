@@ -41,6 +41,20 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Education and Artificial Intelligence: Navigating the Path to Transformation"
+    excerpt: "In a world where technology is evolving at an unprecedented pace, education stands on the cusp of transformation. Imagine classrooms where teachers are"
+    publishedDateTime: 2023-12-18T17:57:00Z
+    webUrl: "https://www.edsurge.com/news/2023-12-18-education-and-artificial-intelligence-navigating-the-path-to-transformation"
+    type: article
+    provider:
+      name: EdSurge
+      domain: edsurge.com
+    quality: 53
+    images:
+      - url: "https://edsurge.imgix.net/uploads/post/image/15641/Shutterstock_1958892118-1701817153.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "AI at your door. Is there anything to worry?"
     excerpt: "Authors worry about issues such as plagiarism, unauthorised use of AI-generated content, and the potential for AI to be used unethically in manipulating public opinion or spreading misinformation."
     publishedDateTime: 2023-12-16T14:24:00Z

@@ -138,15 +138,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 28
-  - title: "Uncovering bias in artificial intelligence"
-    excerpt: "Throughout his Ph.D. program, Li has worked alongside his advisor, assistant professor Hongfu Liu, to examine bias within artificial intelligence datasets. They determined that when developing these artificial intelligence systems, cleaning datasets and looking for these biases in advance of processing information can reduce these incidents."
-    publishedDateTime: 2023-12-15T14:52:00Z
-    webUrl: "https://www.brandeis.edu/stories/2023/december/artificial-intelligence-grant.html"
-    type: article
-    provider:
-      name: Brandeis University
-      domain: brandeis.edu
-    quality: 17
   - title: "Generative AI, Cloud And Startups: A Power Trio Redefining India’s Techscape!"
     excerpt: "Explore how generative AI, cloud technology and startups are redefining India's tech landscape in this roundtable by Inc42 and Google Cloud."
     publishedDateTime: 2023-12-16T11:45:00Z

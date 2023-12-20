@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/12/16/google-shap
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/12/16/google-shapes-gemini-ai-tools-for-developers/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -89,15 +89,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Google’s Gemini: is the new AI model really better than ChatGPT?"
-    excerpt: "Google Deepmind has recently announced Gemini, its new AI model to compete with OpenAI’s ChatGPT. While both models are examples of “generative AI”, which learn to find patterns of input training information to generate new data (pictures, words or other media), ChatGPT is a large language model (LLM) which focuses on producing text."
-    publishedDateTime: 2023-12-15T13:57:00Z
-    webUrl: "https://theconversation.com/googles-gemini-is-the-new-ai-model-really-better-than-chatgpt-219526"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 36
   - title: "Google Gemini AI: Multimodal, GPT-4 Competitor, and More"
     excerpt: "Google Gemini AI models have set a new benchmark in the AI industry and it is being touted to outrank OpenAI's GPT-4 model."
     publishedDateTime: 2023-12-18T02:06:00Z

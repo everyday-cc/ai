@@ -77,6 +77,15 @@ related:
       name: Music Ally
       domain: musically.com
     quality: 19
+  - title: "2023: The year we played with artificial intelligence — and weren’t sure what to do about it"
+    excerpt: "Artificial intelligence went mainstream in 2023 — it was a long time coming yet has a long way to go for the technology to match people’s science fiction fantasies of human-like machines. Catalyzing a year of AI fanfare was ChatGPT. The chatbot gave ..."
+    publishedDateTime: 2023-12-19T23:59:00Z
+    webUrl: "https://smdp.com/2023/12/20/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it/"
+    type: article
+    provider:
+      name: Santa Monica Daily Press
+      domain: smdp.com
+    quality: 6
 
 secured: "5hFVvpjwRUYPsfdX3ERnwokh70Oh9YwAunBBGoCPCp4HIPdHHG5au4fVyF5vKmfifjSGPm2H3YWpjBqus0ixwMJrRaWJWEk85rzi99K0SVgykDOq9dWBJC4WPahNb3WLv1vHMUY/FcvZqFHCJL/LuafISR6ibWWB2AwEF4V38V5cwWGj/RrksHPI6BKSKl1xB7YQYiHO85itbMsEQPbPvkACzHq08fdoMmL31tuIBcFkEjo8+sVVyMQC4deE6/nuPAe30XyrWvon4Tr9r+0nenYR907lbpY3/XmWVvvtSXVgqlHZigOpKIXWXRYJ8o1CSbWF9NEORlz5+RmQeMt1DHvlab4iG9LorqD0tJUdyKk=;eRKChyPu8tYqSgn2zfzz/w=="
 ---

@@ -2,6 +2,292 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-20-how-to-build-a-successful-ai-strategy.md",
+      "title": "How to build a successful AI strategy",
+      "excerpt": "Explore these steps to building an AI strategy that can help your organization address the complex challenges associated with AI.\nThe post How to build a successful AI strategy appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/artificial-intelligence-strategy/",
+      "originalUrl": "https://www.ibm.com/blog/artificial-intelligence-strategy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/12/hyperlapse_0015.blog-lead-space-40x21-1.jpg",
+          "width": 2400,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-20T16:01:25Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-20-a-free-ai-image-dataset-removed-for-child-sex-abuse-images-has-come-under-fire-before.md",
+      "title": "A free AI image dataset, removed for child sex abuse images, has come under fire before",
+      "excerpt": "This isn't the first time the massive open source AI dataset, LAION-5B, has had to defend itself against problematic images.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/a-free-ai-image-dataset-removed-for-child-sex-abuse-images-has-come-under-fire-before/",
+      "originalUrl": "https://venturebeat.com/ai/a-free-ai-image-dataset-removed-for-child-sex-abuse-images-has-come-under-fire-before/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/12/DALL·E-2023-12-20-09.41.42-An-abstract-conceptual-illustration-that-portrays-a-dataset-containing-hundreds-of-images.-The-image-should-give-a-sense-of-a-moderately-large-collec.png?w=1200&strip=all",
+          "width": 1199,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-20T15:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-20-how-crowdstrike-is-navigating-risks-and-ethics-for-its-generative-ai.md",
+      "title": "How CrowdStrike Is Navigating Risks And Ethics For Its Generative AI",
+      "excerpt": "CrowdStrike weighs in on how it is developing generative AI while managing the potential Pandora's box of challenges that come with it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tonybradley/2023/12/20/how-crowdstrike-is-navigating-risks-and-ethics-for-its-generative-ai/",
+      "originalUrl": "https://www.forbes.com/sites/tonybradley/2023/12/20/how-crowdstrike-is-navigating-risks-and-ethics-for-its-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/658305d10679a059770fa8e6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1500,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tonybradley/2023/12/20/how-crowdstrike-is-navigating-risks-and-ethics-for-its-generative-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2023/12/20/how-crowdstrike-is-navigating-risks-and-ethics-for-its-generative-ai/amp/",
+      "publishedDateTime": "2023-12-20T15:22:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-20-dont-bet-amd-stock-can-rise-on-150-billion-ai-chip-market.md",
+      "title": "Don’t Bet AMD Stock Can Rise On $150 Billion AI Chip Market",
+      "excerpt": "With AMD behind in GPU software and the company's data center revenues expected to grow at 30% a year through 2027, the stock already reflects very optimistic assumptions",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/petercohan/2023/12/20/dont-bet-amd-stock-can-rise-on-150-billion-ai-chip-market/",
+      "originalUrl": "https://www.forbes.com/sites/petercohan/2023/12/20/dont-bet-amd-stock-can-rise-on-150-billion-ai-chip-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6582efedd0a98bf71fdf87cd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1353,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/petercohan/2023/12/20/dont-bet-amd-stock-can-rise-on-150-billion-ai-chip-market/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/12/20/dont-bet-amd-stock-can-rise-on-150-billion-ai-chip-market/amp/",
+      "publishedDateTime": "2023-12-20T14:57:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-20-a-guide-to-navigating-the-next-generation-robotics-wave.md",
+      "title": "A guide to navigating the next-generation robotics wave",
+      "excerpt": "The fusion of AI and robotics promises a transformative wave for industries venturing into large-scale automation.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/guide-next-generation-robotics-wave",
+      "originalUrl": "https://thenextweb.com/news/guide-next-generation-robotics-wave",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-20T14:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-20-microsoft-azure-gaining-steam-but-amazons-aws-still-holds-top-spot-jefferies.md",
+      "title": "Microsoft Azure gaining steam but Amazon's AWS still holds top spot - Jefferies",
+      "excerpt": "Jefferies surveyed 40 U.S. CIOs and found that both platforms are best positioned to gain incremental spend over the next two years, with 80% of CIOs planning to boost cloud spending in 2024. According to the firm, Azure screened positively, with a higher share of CIOs planning to spend \"significantly more\" over the next 24 months.",
+      "sourceUrl": null,
+      "webUrl": "https://za.investing.com/news/microsoft-azure-gaining-steam-but-amazons-aws-still-holds-top-spot--jefferies-432SI-2962657",
+      "originalUrl": "https://za.investing.com/news/microsoft-azure-gaining-steam-but-amazons-aws-still-holds-top-spot--jefferies-432SI-2962657",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-20T13:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investing",
+        "domain": "investing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-20-generative-ai-increasing-the-value-recognized-from-todays-information-technology-systems.md",
       "title": "Generative AI: Increasing The Value Recognized From Today's Information Technology Systems",
       "excerpt": "By leveraging GenAI, there is a tremendous potential to unlock the latent value within these existing applications.",
@@ -10,7 +296,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/20/generative-ai-increasing-the-value-recognized-from-todays-information-technology-systems/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -61,7 +347,7 @@
       "originalUrl": "https://www.forbes.com/sites/sap/2023/12/20/why-does-ai-consume-so-much-energy/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -100,6 +386,58 @@
         "news"
       ],
       "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-12-20-ai-cannot-be-named-as-patent-inventor-uk-supreme-court-rules.md",
+      "title": "AI cannot be named as patent ‘inventor’, UK supreme court rules",
+      "excerpt": "US technologist loses dispute with Intellectual Property Office over ideas generated by program",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2023/dec/20/ai-cannot-be-named-as-patent-inventor-uk-supreme-court-rules?ref=biztoc.com",
+      "originalUrl": "https://www.theguardian.com/technology/2023/dec/20/ai-cannot-be-named-as-patent-inventor-uk-supreme-court-rules?ref=biztoc.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/8f65931a5069c55410c67f942abc9fda697811f3/14_224_2964_1779/master/2964.jpg?width=620&quality=85&auto=format&fit=max&s=e8a1607a5c5a60bd5433a85aabda9274",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2023/dec/20/ai-cannot-be-named-as-patent-inventor-uk-supreme-court-rules",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/dec/20/ai-cannot-be-named-as-patent-inventor-uk-supreme-court-rules",
+      "publishedDateTime": "2023-12-20T11:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -112,7 +450,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/20/10-questions-to-ask-before-implementing-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 239,
+      "heat": 229,
       "tags": null,
       "images": [
         {
@@ -290,6 +628,58 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-20-do-companies-have-ethical-guidelines-for-ai-use-56-of-professionals-are-unsure-survey-says.md",
+      "title": "Do companies have ethical guidelines for AI use? 56% of professionals are unsure, survey says",
+      "excerpt": "Cognitive technologies such as generative AI have the most potential for both social good and serious ethical risk, according to survey respondents in Deloitte's second edition Technology Trust Ethics report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/do-companies-have-ethical-guidelines-for-ai-use-56-of-professionals-are-unsure-survey-says/",
+      "originalUrl": "https://www.zdnet.com/article/do-companies-have-ethical-guidelines-for-ai-use-56-of-professionals-are-unsure-survey-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/6ed4d46746b8ce488cfa33273df969d675a87905/2023/10/09/404b742e-6806-469b-8fb0-4478670a8ccd/gettyimages-1469902598.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/do-companies-have-ethical-guidelines-for-ai-use-56-of-professionals-are-unsure-survey-says/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/do-companies-have-ethical-guidelines-for-ai-use-56-of-professionals-are-unsure-survey-says/",
+      "publishedDateTime": "2023-12-20T06:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     },
@@ -537,6 +927,49 @@
       ]
     },
     {
+      "path": "_news/2023-12-20-chinese-startup-moore-threads-defies-us-sanctions-with-new-gpu-based-ai-center.md",
+      "title": "Chinese Startup Moore Threads Defies US Sanctions with New GPU-Based AI Center",
+      "excerpt": "especially in sensitive areas like AI and chip manufacturing. Despite these hurdles, Moore Threads has shown remarkable agility. After a round of layoffs, the company has refocused its resources on advancing its GPU development, a move that mirrors the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2023/12/20/moore-threads-us-sanctions-gpu-based-ai/",
+      "originalUrl": "https://www.gizmochina.com/2023/12/20/moore-threads-us-sanctions-gpu-based-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-19T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-20-microsoft-365-copilot-set-to-provide-a-generative-ai-revenue-boost.md",
       "title": "Microsoft 365 Copilot Set To Provide A Generative AI Revenue Boost",
       "excerpt": "Microsoft's new 365 Copilot generative AI assistant will begin to provide incremental revenue growth, with demand expected to ramp up over the next few years.",
@@ -701,7 +1134,7 @@
       "originalUrl": "https://www.marketwatch.com/story/rite-aid-banned-from-using-ai-facial-recognition-in-ftc-settlement-73ac5f45",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 234,
       "tags": null,
       "images": [
         {
@@ -777,449 +1210,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-20-digital-bank-bunq-claims-to-be-first-ai-powered-bank-in-europe.md",
-      "title": "Digital Bank bunq Claims to be First AI Powered Bank in Europe",
-      "excerpt": "Amsterdam-based digital bank bunq has claimed the title as the first “AI powered bank in Europe.” bunq says it is the second-largest digital bank in Europe. Today, the Fintech announced “Finn” a new GenAI platform that is available to all its customers. The AI powered service is said to help users to manage finances.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2023/12/218616-digital-bank-bunq-claims-to-be-first-ai-powered-bank-in-europe/",
-      "originalUrl": "https://www.crowdfundinsider.com/2023/12/218616-digital-bank-bunq-claims-to-be-first-ai-powered-bank-in-europe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2021/12/Euros-iPhone-Payments-Digital-Money.jpg",
-          "width": 1600,
-          "height": 1285,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2023/12/218616-digital-bank-bunq-claims-to-be-first-ai-powered-bank-in-europe/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/12/218616-digital-bank-bunq-claims-to-be-first-ai-powered-bank-in-europe/amp/",
-      "publishedDateTime": "2023-12-19T20:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-20-deal-alert-score-500-off-the-samsung-jet-bot-ai-robot-vacuum.md",
-      "title": "Deal alert: Score $500 off the Samsung Jet Bot AI+ Robot Vacuum",
-      "excerpt": "This is a rare chance to score the Samsung Jet Bot AI Plus Robot Vacuum for $799.99 and upgrade your smart home.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/samsung-jet-bot-ai-plus-robot-vacuum-deal-3395866/",
-      "originalUrl": "https://www.androidauthority.com/samsung-jet-bot-ai-plus-robot-vacuum-deal-3395866/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2023/12/Samsung-Jet-Bot-AI-Plus-Robot-Vacuum-Promo-Image.jpg",
-          "width": 1276,
-          "height": 718,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-19T18:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-12-20-patronus-ai-finds-alarming-safety-gaps-in-leading-ai-systems.md",
-      "title": "Patronus AI finds ‘alarming’ safety gaps in leading AI systems",
-      "excerpt": "Patronus AI releases SimpleSafetyTests, a new diagnostic test suite for large language models that found critical safety gaps and vulnerabilities across popular AI systems like ChatGPT.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/patronus-ai-finds-alarming-safety-gaps-in-leading-ai-systems/",
-      "originalUrl": "https://venturebeat.com/ai/patronus-ai-finds-alarming-safety-gaps-in-leading-ai-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/12/nuneybits_abstract_painting_of_a_yellow_triangle_caution_sign_w_bc525096-1280-41a0-adf7-04d30fe92758-transformed.webp?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-19T17:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-12-20-ooredoo-migrates-rise-with-sap-to-microsoft-azure-in-qatar.md",
-      "title": "Ooredoo migrates RISE with SAP to Microsoft Azure in Qatar",
-      "excerpt": "Ooredoo Group has announced the successful migration of its cloud ERP landscape, RISE with SAP, from Amsterdam to the Microsoft cloud data centre region in Qatar.The migration is",
-      "sourceUrl": null,
-      "webUrl": "https://www.gulf-times.com/article/673887/business/ooredoo-migrates-rise-with-sap-to-microsoft-azure-in-qatar",
-      "originalUrl": "https://www.gulf-times.com/article/673887/business/ooredoo-migrates-rise-with-sap-to-microsoft-azure-in-qatar",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gulf-times.com/gulftimes/uploads/images/2023/12/19/thumbs/300x300/116762.jpg",
-          "width": 253,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-19T17:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf Times",
-        "domain": "gulf-times.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-20-the-widening-web-of-effective-altruism-in-ai-security-the-ai-beat.md",
-      "title": "The widening web of effective altruism in AI security | The AI Beat",
-      "excerpt": "A follow up on a VentureBeat story last week adds context about the web of effective altruism connections in AI security circles.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/the-widening-web-of-effective-altruism-in-ai-security-the-ai-beat/",
-      "originalUrl": "https://venturebeat.com/ai/the-widening-web-of-effective-altruism-in-ai-security-the-ai-beat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/12/DALL·E-2023-12-18-16.54.03-An-abstract-illustration-depicting-the-web-of-power-over-AI-security.-The-image-shows-a-complex-network-of-interconnected-metallic-threads-forming-a-.png?w=1200&strip=all",
-          "width": 1199,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-19T17:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security",
-        "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-19-accelerate-release-lifecycle-with-pathway-to-deploy-part-1.md",
-      "title": "Accelerate release lifecycle with pathway to deploy: Part 1",
-      "excerpt": "For many enterprises, the journey to cloud reduces technical debt costs and meets CapEx-to-OpEx objectives\nThe post Accelerate release lifecycle with pathway to deploy: Part 1 appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/accelerate-release-lifecycle-with-pathway-to-deploy-part-1/",
-      "originalUrl": "https://www.ibm.com/blog/accelerate-release-lifecycle-with-pathway-to-deploy-part-1/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-19T17:32:33Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-19-driving-advanced-analytics-outcomes-at-scale-using-amazon-sagemaker-powered-pwcs-machine-learning-ops-accelerator.md",
-      "title": "Driving advanced analytics outcomes at scale using Amazon SageMaker powered PwC’s Machine Learning Ops Accelerator",
-      "excerpt": "This post was written in collaboration with Ankur Goyal and Karthikeyan Chokappa from PwC Australia’s Cloud &amp; Digital business. Artificial intelligence (AI) and machine learning (ML) are becoming an integral part of systems and processes, enabling decisions in real time, thereby driving top and bottom-line",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/driving-advanced-analytics-outcomes-at-scale-using-amazon-sagemaker-powered-pwcs-machine-learning-ops-accelerator/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/driving-advanced-analytics-outcomes-at-scale-using-amazon-sagemaker-powered-pwcs-machine-learning-ops-accelerator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/12/19/ML-4740_Figure1-final-1260x554.jpg",
-          "width": 1260,
-          "height": 554,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-19T16:05:39Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-12-19-pioneering-students-from-swiss-boarding-school-issue-global-ai-charter-calling-for-ai-regulation.md",
-      "title": "Pioneering Students From Swiss Boarding School Issue Global AI Charter Calling For AI Regulation",
-      "excerpt": "Artificial intelligence is disrupting the way we live, work, and learn, and our students understand the profound impact this powerful technology will have on our society.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/garydrenik/2023/12/19/pioneering-students-from-swiss-boarding-school-issue-global-ai-charter-calling-for-ai-regulation/",
-      "originalUrl": "https://www.forbes.com/sites/garydrenik/2023/12/19/pioneering-students-from-swiss-boarding-school-issue-global-ai-charter-calling-for-ai-regulation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6580769d0586643c25a05e01/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 640,
-          "height": 365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2023/12/19/pioneering-students-from-swiss-boarding-school-issue-global-ai-charter-calling-for-ai-regulation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/12/19/pioneering-students-from-swiss-boarding-school-issue-global-ai-charter-calling-for-ai-regulation/amp/",
-      "publishedDateTime": "2023-12-19T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-19-startup-shutdowns-and-ai-showdowns-the-2023-chronicles.md",
-      "title": "Startup Shutdowns and AI Showdowns: the 2023 chronicles",
-      "excerpt": "The Equity crew is talking through key themes from 2023, looking at the year's venture capital numbers, fintech's hot start then cool down on the M&A front, the creator economy in 2023, and why OpenAI's upheaval got us thinking about the return of key-person syndrome.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/12/19/startup-shutdowns-and-ai-showdowns-the-2023-chronicles/",
-      "originalUrl": "https://techcrunch.com/2023/12/19/startup-shutdowns-and-ai-showdowns-the-2023-chronicles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/11/equity-podcast-2019-phone.webp?w=680",
-          "width": 680,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/12/19/startup-shutdowns-and-ai-showdowns-the-2023-chronicles/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/19/startup-shutdowns-and-ai-showdowns-the-2023-chronicles/amp/",
-      "publishedDateTime": "2023-12-19T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

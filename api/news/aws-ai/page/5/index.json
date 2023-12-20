@@ -2,6 +2,92 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-11-16-its-back-targeted-amex-card-holders-can-get-up-to-50-off-at-amazon.md",
+      "title": "It’s back: Targeted Amex card holders can get up to 50% off at Amazon",
+      "excerpt": "While that’s true, there’s another lesser-known use for them — redeeming them for purchases at Amazon. Right now, you may be eligible for an Amazon promotion where you can save big on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/cnn-underscored/deals/amazon-amex-discount-promotion",
+      "originalUrl": "https://www.cnn.com/cnn-underscored/deals/amazon-amex-discount-promotion",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/210619011335-underscored-amazon-boxes-with-prime-tape.jpg?q=x_0,y_0,h_1800,w_3198,c_fill/w_800",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/cnn-underscored/deals/amazon-amex-discount-promotion",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/cnn-underscored/deals/amazon-amex-discount-promotion",
+      "publishedDateTime": "2023-11-15T22:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-15-mufg-inks-multi-year-deal-with-aws.md",
+      "title": "MUFG inks multi-year deal with AWS",
+      "excerpt": "Amazon Web Services (AWS), an Amazon.com company (NASDAQ:AMZN), today announced that Mitsubishi UFJ Financial Group (MUFG), Japan’s largest financial services provider, is accelerating its cloud-first strategy with AWS as its preferred cloud provider.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/pressarticle/98782/mufg-inks-multi-year-deal-with-aws",
+      "originalUrl": "https://www.finextra.com/pressarticle/98782/mufg-inks-multi-year-deal-with-aws",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T20:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-15-caton-media-xstream-successfully-completes-the-aws-foundational-technical-review-and-becomes-aws-managed-service-provider-partner.md",
       "title": "Caton Media XStream successfully completes the AWS Foundational Technical Review and becomes AWS Managed Service Provider Partner",
       "excerpt": "Organization offers IP transmission globally with extreme reliability over the public internet, technology transformation and an elevated user experience",
@@ -1173,75 +1259,6 @@
       "provider": {
         "name": "Business Wire",
         "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-aws-offers-more-flexible-access-to-nvidia-gpus-for-short-duration-ai-workloads.md",
-      "title": "AWS offers more flexible access to Nvidia GPUs for short-duration AI workloads",
-      "excerpt": "Amazon Elastic Compute Cloud (EC2) Capacity Blocks for ML is generally available now, and allows customers to reserve access to “hundreds” of Nvidia Corp.’s most advanced H100 Tensor Core GPUs colocated in Amazon EC2 UltraClusters that are geared towards high-performance machine learning workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/10/31/aws-offers-flexible-access-nvidia-gpus-short-duration-ai-workloads/",
-      "originalUrl": "https://siliconangle.com/2023/10/31/aws-offers-flexible-access-nvidia-gpus-short-duration-ai-workloads/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T02:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-aws-adds-new-code-generation-models-to-amazon-sagemaker-jumpstart.md",
-      "title": "AWS Adds New Code Generation Models to Amazon SageMaker JumpStart",
-      "excerpt": "Subscribe for free. Today, we are excited to announce Code Llama foundation models, developed by Meta, are available for customers through Amazon SageMaker JumpStart to deploy with one click for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2023/10/sagemaker-jumpstart-code/",
-      "originalUrl": "https://www.infoq.com/news/2023/10/sagemaker-jumpstart-code/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T15:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
         "images": null,
         "publishers": null,
         "authors": null

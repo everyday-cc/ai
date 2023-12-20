@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "How UPS is using AI to combat package thefts"
+    excerpt: "With the holiday shipping season in high gear, the concern of lost or stolen packages is of top concern. CBS News' Janet Shamlian went inside UPS World Headquarters to see how the company is using artificial intelligence to combat package thefts."
+    publishedDateTime: 2023-12-20T14:14:00Z
+    webUrl: "https://www.cbsnews.com/video/how-ups-is-using-ai-to-combat-package-thefts/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 17
   - title: "How 2024 presidential candidates are using AI inside their election campaigns"
     excerpt: "AI is already an active participant in U.S. politics, largely in government agencies, and will play a big role in the 2024 presidential election."
     publishedDateTime: 2023-12-17T06:41:00Z

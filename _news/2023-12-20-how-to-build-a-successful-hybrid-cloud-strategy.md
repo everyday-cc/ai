@@ -1,0 +1,57 @@
+---
+category: news
+title: "How to build a successful hybrid cloud strategy"
+excerpt: "To capture the most value from hybrid cloud, business and IT leaders must develop a solid hybrid cloud strategy supporting their core business objectives. \nThe post How to build a successful hybrid cloud strategy appeared first on IBM Blog.\n"
+publishedDateTime: 2023-12-20T16:03:34Z
+originalUrl: "https://www.ibm.com/blog/hybrid-cloud-strategy/"
+webUrl: "https://www.ibm.com/blog/hybrid-cloud-strategy/"
+type: article
+quality: 102
+heat: -1
+published: false
+
+provider:
+  name: IBM
+  domain: ibm.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - IBM AI
+
+images:
+  - url: "https://www.ibm.com/blog/wp-content/uploads/2023/12/IBM_CLOUD_DEVELOPERS_006_FNL.blog-lead-space-2x1-1.png"
+    width: 1080
+    height: 540
+    isCached: true
+
+related:
+  - title: "How to build a successful AI strategy"
+    excerpt: "Explore these steps to building an AI strategy that can help your organization address the complex challenges associated with AI.\nThe post How to build a successful AI strategy appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-12-20T16:01:25Z
+    webUrl: "https://www.ibm.com/blog/artificial-intelligence-strategy/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 119
+    images:
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/12/hyperlapse_0015.blog-lead-space-40x21-1.jpg"
+        width: 2400
+        height: 1260
+        isCached: true
+  - title: "Types of business strategy"
+    excerpt: "Today’s business environment requires leaders to use one or more types of business strategy to remain competitive.\nThe post Types of business strategy appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-12-18T21:54:08Z
+    webUrl: "https://www.ibm.com/blog/business-strategy-types/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 82
+
+secured: "3R/MBNIG0QgnXoQVrMlK/AnMd17bEkPMl0kFgN3thjBN2hiU8W+8KG63KRffecMXC56BOy/9AyCAqhWN2B4uxQkKpQIWTqF//d/03/hUgtAEimm6cl4ACWlSuEpv/RLtoAl07ZxEc9bXE8heRAxQopaPhXkzltJ9+9ueN51dFhfZhX7YnPbtaXSWRJ7byA0syP5bmopsSIRwTW3Iz4fTKbmkDhpox15V1KP/BZNMsGnKixUum9xyDf7yrNV4e5jyMSU+gFDMvPvtpFD1xNh8XQaU16i/4TJbhD+Kj061GH7fsYo75Idvs+O2Zf6ucxmuj4nUyUzqnduYVNGvmfeiXqx5hvN4wc/vXlm8mvM0S14=;j3KlnzIO3ccRLbHPP1M+NQ=="
+---
+

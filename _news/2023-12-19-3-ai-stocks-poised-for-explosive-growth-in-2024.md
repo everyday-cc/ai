@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-poised
 webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-poised-for-explosive-growth-in-2024-1032910289"
 type: article
 quality: 51
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -24,15 +24,6 @@ topics:
   - Meta AI
 
 related:
-  - title: "How AI’s Explosive Growth Opened Up The World For The Blind In 2023"
-    excerpt: "AI and people living with sight loss have experienced significant gains from this seismic technological shift."
-    publishedDateTime: 2023-12-15T13:07:00Z
-    webUrl: "https://www.forbes.com/sites/gusalexiou/2023/12/15/how-ais-explosive-growth-opened-up-the-world-for-the-blind-in-2023/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "AI Meets Biotech: 3 Top Stocks Transforming Medical Science"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips One of the biggest stories of the year has been the rise of AI in every"
     publishedDateTime: 2023-12-16T18:01:00Z

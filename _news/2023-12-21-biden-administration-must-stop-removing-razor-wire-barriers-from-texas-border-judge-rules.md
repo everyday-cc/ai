@@ -1,0 +1,25 @@
+---
+category: news
+title: "Biden administration must stop removing razor wire barriers from Texas border, judge rules"
+excerpt: "The ruling is a temporary measure while the legal fight over the barriers proceeds — a recognition that the federal government ... The terrestrial and floating razor wire barriershave been the object of a court battle between Texas Governor Greg Abbott ..."
+publishedDateTime: 2023-12-20T16:08:00Z
+originalUrl: "https://thehill.com/homenews/state-watch/4369585-texas-border-razor-wire-barriers-biden-administration-must-stop-removing-judge/"
+webUrl: "https://thehill.com/homenews/state-watch/4369585-texas-border-razor-wire-barriers-biden-administration-must-stop-removing-judge/"
+ampWebUrl: "https://thehill.com/homenews/state-watch/4369585-texas-border-razor-wire-barriers-biden-administration-must-stop-removing-judge/amp/"
+cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/4369585-texas-border-razor-wire-barriers-biden-administration-must-stop-removing-judge/amp/"
+type: article
+quality: 14
+heat: 14
+published: false
+
+provider:
+  name: The Hill
+  domain: thehill.com
+
+topics:
+  - Computer Vision
+  - AI
+
+secured: "47wrqYgbONMd879t05CyY8Mh10Fy+evDRx8XrYmTG8YAS5G1qZURLKe/xmHGMR0Nr5ZkSZRfgGdCwPhdeHrVZFyKDXtkhfYY/0BSzx9EtV4cBPuAhgEOAWpjlW1UDULnO252Zp+bjNuv09824NSmQQ3pgYjqmVPOIAFA+NnuF2Jt8PzzRBdVmfExiL4hxZaAcbnCuuUOgQM8IY/EjfknNvmDXgJeDAn+SuB39/s7fERSrgpnvA/E4dpq+IRJxifJTvGN5ZQ9DSLA2AhnzTRZVMNUC0f6x9LRepTUL+LWe7TkB+G/HPkqHIHk/6CooXM/5fryMwQsAOKDwb4z2cpMSE8maDVVzd5TGOImghjS5sN9bx8ep9+c6PvtgvX2ZnFyQF0Qr7ZfB2ppLuU/jhkTXMDlDTq/KNo2IMauNfB+GjmHNfPAavc17AxuRMCv3dQ33XJ2d8qjwmputxXpTKeKJYJA9ls2ne3rR7K9hdQWwXYOK8QuA8C+CkcYMrdWeWRKf9EqBAhJ3IRYlE/kjSYOqg==;QrCfGGffRP2bZ5Co1/35kQ=="
+---
+

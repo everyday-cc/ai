@@ -1,28 +1,22 @@
 ---
 category: news
 title: "AWS Launches Second Infrastructure Region in Canada"
-excerpt: "(NASDAQ: AMZN), today announced the launch of its second AWS infrastructure Region in Canada—the AWS Canada West (Calgary) Region. Starting today, developers, startups, entrepreneurs, and enterprises,"
-publishedDateTime: 2023-12-20T10:01:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/aws-launches-second-infrastructure-region-in-canada/article_ab70454f-69e0-572b-a650-db7638c44e8a.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/aws-launches-second-infrastructure-region-in-canada/article_ab70454f-69e0-572b-a650-db7638c44e8a.html"
+excerpt: "Amazon Web Services (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the launch of its second AWS infrastructure Region in Canada—th"
+publishedDateTime: 2023-12-20T11:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20231219899872/en/AWS-Launches-Second-Infrastructure-Region-in-Canada"
+webUrl: "https://www.businesswire.com/news/home/20231219899872/en/AWS-Launches-Second-Infrastructure-Region-in-Canada"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: -1
 published: false
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "http://static.cnhionline.com/joplinglobe/jmag/DEC-2023-Jmag-350px.jpeg"
-    width: 350
-    height: 456
-    isCached: true
 
 related:
   - title: "AWS Launches Second AWS Infrastructure Region In Canada; To Invest $17.9 Bln In Canada Through 2037"
@@ -35,6 +29,6 @@ related:
       domain: businessinsider.com
     quality: 35
 
-secured: "G+nDvN5RnKw8R4oXgQCQKk1nYqjibiMaN2Ig5fxohlOsMP2WvwS+VfWPz2vU73I/EfHgd2T1OuI2svzvNHy9AV6ywB+qFQSfGwq10TQX1bZOvzhVFj2MslKgLdWmzB6xlkesEFsNAPbdRC1RgHcKqjj5d8YonLtxKdowNzcQv4fN1/iQCi+/K/6jFgwqLjs83B10X8xZBHKGnzuwyxxzG5abhRWawpXcFpBhXmbZH5O//kqlyOsRmDDdshtMTMsObx8Jjg7lobADnN964S5yKo9ggq6ampeDYQmkSmNrCIMgTmGSxkozcpxSqmSZmyjjFAhYKZwjMhPLb0LbWoz6YP37ndAgNhqMUMTjH2SbjMI=;Y4xu7EDwzoSC6BA/HfVMFQ=="
+secured: "lclSOuAwyUF4uvaMG1mKG5rBzvyIK4wKSFPvDeZ0ZCEbcBa1hu5c6QkQUDMe7sEdx/LtZTCw7FDw5fVRbL7q3A2xASOeyvTEvzkcby8Xw/c4Ipwyzr5ZRoQdZjX+idCPbpckW2MZVx05L6jkh3XSX0dvtvvOMbMrWiZjcaVGpriLI4LiVtYQOS8QfIR/Llk5iOXGsdUobm+LOAh2/KzjJ+SEAYk9sRPl47tUiC3GefFeWqzxXXklYwN2Gf3VlUOxxZnxKsFwvzP6bFNpjNPi5IUAVD359q1N+av/yC8bhM0BQp+PSpwLMGONJiKdKk6FUyO4gIxcPHsIhGJjpBeQZ4+eHgx7o6y7DffJ7KgjOwQ=;cqAoesD9dl3Dt9cw+tm/rA=="
 ---
 

@@ -67,15 +67,6 @@ related:
         width: 1536
         height: 1024
         isCached: true
-  - title: "AORUS 17 & 15 Intel Core Ultra 7 AI ready gaming laptops"
-    excerpt: "GIGABYTE's latest offerings for 2024 - the AORUS 17 and AORUS 15 offer gamers a combination of powerful hardware, state-of-the-art cooling technology, and"
-    publishedDateTime: 2023-12-15T13:19:00Z
-    webUrl: "https://www.geeky-gadgets.com/aorus-17-15-intel-core-ultra-7-ai-ready-gaming-laptops/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 19
 
 secured: "vdSawuM56kPWRjUpLs+pFOTmTbvhWdoEu6yDUDctqdAzczn4EynmhzVdBFqm+pk54Bc7MxbMc9uwa0Mm8NTQPuLWd1pCOs6oKQKRtaScI1S5zv+60jtTgJ3rI4oP1wiMbrkiapPG5/OXCdr3XvLm/L+aed3mWImxmWVFpc4KPNedp5b850whI2y1H5MhtCRib7eLpdlJn3ARpDHmq/zZJJf+texOjIK9bPt7ASg4Ipch8uvVscfVWXOb2b9TLKQxN2dURgcKHySOie5K2f2RPvY4P+fIWk8f7lzUVTDVm9xoOaQkJNyyzkAk4LkgAE7+P7oEImo7NWR/nF697pvyEZLgqPJADnNC1S6qOdAHOXA=;rTfvAkM/foz3eembqXUiCQ=="
 ---

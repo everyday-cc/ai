@@ -7,7 +7,7 @@ originalUrl: "https://www.econotimes.com/Moore-Threads-Collaborates-with-Lenovo-
 webUrl: "https://www.econotimes.com/Moore-Threads-Collaborates-with-Lenovo-to-Power-AI-Innovation-with-MTT-S4000-GPU-1668304"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Moore Threads MTT S4000 48GB AI GPU: with MTLink and zero-cost NVIDIA CUDA framework"
-    excerpt: "Moore Threads introduces the new MTT S4000 AI GPU with 48GB GDDR6 memory, 25 TFLOPs of compute performance, on the PCIe Gen5 x16 standard."
-    publishedDateTime: 2023-12-20T01:02:00Z
-    webUrl: "https://www.tweaktown.com/news/95058/moore-threads-mtt-s4000-48gb-ai-gpu-with-mtlink-and-zero-cost-nvidia-cuda-framework/index.html"
+  - title: "Chinese Startup Moore Threads Defies US Sanctions with New GPU-Based AI Center"
+    excerpt: "especially in sensitive areas like AI and chip manufacturing. Despite these hurdles, Moore Threads has shown remarkable agility. After a round of layoffs, the company has refocused its resources on advancing its GPU development, a move that mirrors the ..."
+    publishedDateTime: 2023-12-19T23:59:00Z
+    webUrl: "https://www.gizmochina.com/2023/12/20/moore-threads-us-sanctions-gpu-based-ai/"
     type: article
     provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 47
-    images:
-      - url: "https://static.tweaktown.com/news/9/5/95058_411_moore-threads-mtt-s4000-48gb-ai-gpu-with-mtlink-and-zero-cost-nvidia-cuda-framework_full.jpg"
-        width: 1200
-        height: 675
-        isCached: true
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 60
 
 secured: "q9QIpSRgE3CKxoJwiVugif0SVfrS0larY9lhhd7A8bpny1ecqYOePYD0xlrKHYcrCuthRSUVwmj4U+XOHTLPTODRjbQRw1KIS29TSSa9mL4wqG/bhI6v90YdrvBc7uLGNQIky++tgdRMXdWBjpKwhsgQjfMLSMRULcOSuH3wUgLsqWvNQNeQUoazfyagSCDZHFx88Mch6pxhn5O+G0reT/dF8IXazOta1Slbqb3TsuAoA7dX7C2o8L92JLthlP9dKxlOFthdWSxEexKpfndanBnh5b0HpOWyFdoPddFgCNMaJdmU38W8Wyk8bwJeH9bB2nYInbUEQ3Q34QZHWhvtMmUxkgmmHhfLTNmbbG7nijirxucQZ0uwyIF833PSmIlw0KbdnhL3ncvGcG5LAiyW65icFPEJcrSR6Rj2Bxf02W6TiUwM6b1HM+TEuPEUadQx4ONKwUJG2F0WWAw2LYTCxqkga+uYnqwYVmtQmkjXcET1toa7QL3mgq59d+d+f6ZYNPjINrlvAJ2ZiU0qya2AKw==;iZGSBIEOngOLxpkyD5Jchg=="
 ---

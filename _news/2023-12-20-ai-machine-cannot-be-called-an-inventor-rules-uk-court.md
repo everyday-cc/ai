@@ -34,6 +34,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "AI cannot patent inventions, UK Supreme Court confirms"
+    excerpt: "\"The response concluded that there should be no legal change to UK patent law now, and noted that many share the view that any future change would need to be at an international level. The decision of the Supreme Court does not alter that conclusion,\" the IPO wrote."
+    publishedDateTime: 2023-12-20T14:51:00Z
+    webUrl: "https://www.bbc.com/news/technology-67772177"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 47
 
 secured: "WMquSm+Qo1ma8paE0cH07eehelw9mY61QuxSilCvSFUwZ8ai0use3iPv4dHZTZakj5qtPcWhogMRn1JbLlY4hTaghDEVzZNdBSqVXb6UuhEY7BEnF1NrLZmGQf7zAo5o4d9j3ynnJLgTBN5z/P0vAmdvD3maf5tsKVFdrOutv2Z5vi/FavJomieRzBEhr/ErdXVK8Lj0AyQ/D41vcL836seTIGEiqTkmDepNTUvkDK3HohwB6wRcM5Y1KtYXukxFPP7pslAYmi1MgbLRc5gF0rK3g+XzdPe/EwVL/6TZoV7Zk4q0432pKsKB3gW4XlZklVlLaW7moz3P899wagSv3OQiQGEoKQLotOpoLHyRAeDbtdqsNfZDD1yAgLd4SfQJuYCsKbffJGy0TQt2375W8Yi5L7qOELtJ93+UoSP07dEdiWiv4IVXpb1vwYW0HQ3LOUyhRnqiPrU8dYR2OishlSorCJVEwTpOl1vzDWK2oy2JfLReeIoouRheQuRJfVjJfQjTT/io5L2z1vKR+RXyHQ==;1Uv5GHapoAH8tbQ57tgvbw=="
 ---

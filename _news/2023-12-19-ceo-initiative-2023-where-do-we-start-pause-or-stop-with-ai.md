@@ -9,7 +9,7 @@ ampWebUrl: "https://fortune.com/videos/watch/ceo-initiative-2023%3A-where-do-we-
 cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/ceo-initiative-2023%3A-where-do-we-start%2C-pause%2C-or-stop-with-ai/331ba556-0b4a-41cb-9cb0-3569dae6595b/amp"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -81,6 +81,15 @@ related:
       name: Music Ally
       domain: musically.com
     quality: 19
+  - title: "2023: The year we played with artificial intelligence — and weren’t sure what to do about it"
+    excerpt: "Artificial intelligence went mainstream in 2023 — it was a long time coming yet has a long way to go for the technology to match people’s science fiction fantasies of human-like machines. Catalyzing a year of AI fanfare was ChatGPT. The chatbot gave ..."
+    publishedDateTime: 2023-12-19T23:59:00Z
+    webUrl: "https://smdp.com/2023/12/20/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it/"
+    type: article
+    provider:
+      name: Santa Monica Daily Press
+      domain: smdp.com
+    quality: 6
 
 secured: "HsnXaLlYrgx20V9r8hHc8C9aW2dfa7nbU6+W863WbX37+LFQZXsliJP7gX/fzFeDUlbkpdjIdLegLWJGkB/kM/mLWy5ddXMZiKM6aLCF+8KD+/+WWPG86LzGWws7uqNP4LMpOes7DXXRo+7RDDsUdRarKoGhhSwaYS7HtVjlfN8MrUlPIwt1zWuK9SsY6Cn0bNdc1rFF3bPX/ugMfmofcrJZJoXP5eidM0zU/NOcavpx/Tw21CKsYQqeZpwRbcSasXj/i69UOdKXTT9k53H6A2/z7QCAHVjRu2NXwfXbEOyL7JaRGmFIYrk+IuyrIT1oCQ4IwiKXndaebAfk/UmCs6vZkZeFdVgxPpeQ0Unrls4=;WpVf/Jhj0AfPvIMRWbCYyg=="
 ---

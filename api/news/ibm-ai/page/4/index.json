@@ -2,6 +2,48 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-11-06-why-serverless-technology-is-the-next-big-movement.md",
+      "title": "Why serverless technology is the next big movement",
+      "excerpt": "IBM has built a single, unified serverless platform that allows developers to concentrate on coding and frees up their time.\nThe post Why serverless technology is the next big movement appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/why-serverless-technology-is-the-next-big-movement/",
+      "originalUrl": "https://www.ibm.com/blog/why-serverless-technology-is-the-next-big-movement/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-06T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-06-the-history-of-malware-a-primer-on-the-evolution-of-cyber-threats.md",
       "title": "The history of malware: A primer on the evolution of cyber threats",
       "excerpt": "Theoretically, malware has been around since the 1960s. Explore how malware has evolved throughout its history.\nThe post The history of malware: A primer on the evolution of cyber threats appeared first on IBM Blog.\n",
@@ -1272,49 +1314,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-watsonx-orders-helps-restaurant-operators-maximize-revenue-with-ai-powered-order-taker-for-drive-thrus.md",
-      "title": "Watsonx Orders helps restaurant operators maximize revenue with AI-powered order taker for drive-thrus",
-      "excerpt": "IBM designed watsonx Orders to be considered a valuable crew member: accurate, polite, speedy and reliable 24/7.\nThe post Watsonx Orders helps restaurant operators maximize revenue with AI-powered order taker for drive-thrus appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/watsonx-orders-helps-restaurant-operators-maximize-revenue-with-ai-powered-order-taker-for-drive-thrus/",
-      "originalUrl": "https://www.ibm.com/blog/watsonx-orders-helps-restaurant-operators-maximize-revenue-with-ai-powered-order-taker-for-drive-thrus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T09:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

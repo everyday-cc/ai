@@ -31,6 +31,22 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
+  - title: "3 AI Trends That Every Leader Needs To Know For 2024"
+    excerpt: "As a leader or manager, you need to understand the key trends that will shape 2024 so you can make informed decisions and realign strategies for your workforce."
+    publishedDateTime: 2023-12-20T15:55:00Z
+    webUrl: "https://www.forbes.com/sites/rachelwells/2023/12/20/3-ai-trends-that-every-leader-needs-to-know-for-2024/"
+    ampWebUrl: "https://www.forbes.com/sites/rachelwells/2023/12/20/3-ai-trends-that-every-leader-needs-to-know-for-2024/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/12/20/3-ai-trends-that-every-leader-needs-to-know-for-2024/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65830c5a747b2c0802aefa2c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "How to fine tuning Mixtral open source AI model"
     excerpt: "Check out the fine tuning tutorial kindly created by Trelis Research to learn more about how you can find tune Mixtral and more. Watch this video on YouTube. Here are some other articles you may find of interest on the subject of Mixtral and Mistral AI ..."
     publishedDateTime: 2023-12-20T12:08:00Z
@@ -58,6 +74,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/element5-digital-T9CXBZLUvic-unsplash-1.jpg"
         width: 640
         height: 427
+        isCached: true
+  - title: "Accelerating Innovation: Open-source Software, Artificial Intelligence, and the Auto Industry"
+    excerpt: "THE RISE – AND IP RISKS – OF GENERATIVE ARTIFICIAL INTELLIGENCE The past year has seen an explosion in the advancement of generative artificial intelligence (AI) programs such as ChatGPT, but the auto industry has been using traditional and generative ..."
+    publishedDateTime: 2023-12-19T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/accelerating-innovation-open-source-8626129/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 26
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.9266_0649.jpg"
+        width: 1200
+        height: 900
         isCached: true
   - title: "Using artificial intelligence to talk to the dead"
     excerpt: "Some people are turning to AI technology as a way to commune with the dead, but its use as part of the mourning process has raised ethical questions."

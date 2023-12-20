@@ -6,8 +6,8 @@ publishedDateTime: 2023-12-18T11:10:00Z
 originalUrl: "https://www.aol.com/embracing-artificial-intelligence-could-benefit-111030406.html"
 webUrl: "https://www.aol.com/embracing-artificial-intelligence-could-benefit-111030406.html"
 type: article
-quality: 28
-heat: 28
+quality: 30
+heat: 30
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AWS AI
 
 images:
   - url: "https://media.zenfs.com/en/aol_gannett_aggregated_707/33ed571ed6accbed080ae50cb4415a2d"

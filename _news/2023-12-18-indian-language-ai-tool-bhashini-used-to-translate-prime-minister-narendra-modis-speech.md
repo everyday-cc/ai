@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 738
         isCached: true
+  - title: "Tech-savvy PM Modi has a bold vision: AI, ethics and transformation"
+    excerpt: "In the GPAI Summit recently, Prime Minister Narendra Modi advocated for ethical AI, stressing its pivotal role in shaping a technologically advanced and culturally rooted India"
+    publishedDateTime: 2023-12-19T08:09:00Z
+    webUrl: "https://www.firstpost.com/opinion/tech-savvy-pm-modi-has-a-bold-vision-ai-ethics-and-transformation-13520412.html"
+    ampWebUrl: "https://www.firstpost.com/opinion/tech-savvy-pm-modi-has-a-bold-vision-ai-ethics-and-transformation-13520412.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/opinion/tech-savvy-pm-modi-has-a-bold-vision-ai-ethics-and-transformation-13520412.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 74
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2023/12/Modi_Aircraft640PTI.jpg"
+        width: 640
+        height: 362
+        isCached: true
   - title: "\"Real Beginning\": Real-Time AI Translation Tool Used During PM Modi's Varanasi Speech"
     excerpt: "A real-time Artificial Intelligence-based translation tool was used during Prime Minister Narendra Modi's speech at Kashi Tamil Sangamam in Varanasi on Sunday."
     publishedDateTime: 2023-12-17T17:46:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/19/the-top-fi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/19/the-top-five-ai-use-cases-and-trends-for-2024-and-beyond/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 129
+published: true
 
 provider:
   name: Forbes
@@ -31,44 +31,58 @@ images:
     isCached: true
 
 related:
-  - title: "Three Uses For Artificial Intelligence In Financial Services In 2024"
-    excerpt: "From boardrooms to classrooms to dining tables, 2023 made AI the hottest topic in virtually all corners of enterprise, education and private life. It's not even an exaggeration to say that A and I were the two most important letters of the year; in fact, Collins Dictionary recently made it Word of the Year 2023."
-    publishedDateTime: 2023-12-15T13:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/15/three-uses-for-artificial-intelligence-in-financial-services-in-2024/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/15/three-uses-for-artificial-intelligence-in-financial-services-in-2024/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/15/three-uses-for-artificial-intelligence-in-financial-services-in-2024/amp/"
+  - title: "VCs predict the AI trends that will transform e-commerce in 2024"
+    excerpt: "It was a tough year for startups, and for e-commerce. These VC firms are still funding startups in the space."
+    publishedDateTime: 2023-12-18T10:00:00Z
+    webUrl: "https://www.businessinsider.com/vc-firms-investing-in-e-commerce-share-criteria-2024-predictions-2023-12"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65562db3daaf3fc3487ed9b7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1354
-        height: 900
+      - url: "https://i.insider.com/656f38f258e7c0c29a29a572?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Improving the call centre experience in the financial services sector"
-    excerpt: "British banking and insurance holding company NatWest Group serves 19 million customers across 12 banking and financial services brands via its network of call centres. To deliver the best possible service to customers while also protecting their data,"
-    publishedDateTime: 2023-12-18T10:46:00Z
-    webUrl: "https://www.technologyrecord.com/article/improving-the-call-centre-experience-in-the-financial-services-sector"
+  - title: "Top AI Trends That We Can Expect in 2024"
+    excerpt: "As AI reaches new levels of maturity in 203, broad production deployment is expected across industries like healthcare, finance, animation, and education to increase security, reduce costs, and enhance workflows in the upcoming year."
+    publishedDateTime: 2023-12-20T05:14:00Z
+    webUrl: "https://www.timesnownews.com/technology-science/top-ai-trends-that-we-can-expect-in-2024-article-106141575"
+    ampWebUrl: "https://www.timesnownews.com/technology-science/top-ai-trends-that-we-can-expect-in-2024-article-106141575/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/top-ai-trends-that-we-can-expect-in-2024-article-106141575/amp"
     type: article
     provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 24
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 59
     images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4759/Your-call-is-important-to-us-940x443.jpg"
-        width: 975
-        height: 548
+      - url: "https://static.tnn.in/thumb/msid-106143143,thumbsize-81260,width-1280,height-720,resizemode-75/106143143.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Google announces AI uses for health care market"
-    excerpt: "Google introduced a suite of AI health models \"instead of trying to build a ‘one-size-fits-all’ solution,\" one company executive said."
-    publishedDateTime: 2023-12-20T11:45:00Z
-    webUrl: "https://www.bizjournals.com/nashville/news/2023/12/20/google-announces-ai-uses-for-health-care-market.html"
+  - title: "Generative AI for CPGs: The Latest Use Cases to Boost Operations"
+    excerpt: "Generative AI is being used by people all over the world to complete any given task at a faster rate. For use at home, such uses include recipe ideas, travel help, and summarizing large amounts of research or data. For business use, it gets more specific."
+    publishedDateTime: 2023-12-19T15:27:00Z
+    webUrl: "https://www.packworld.com/news/business-intelligence/article/22882216/generative-ai-use-cases-for-cpgs"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
+      name: Packaging World
+      domain: packworld.com
+    quality: 39
+    images:
+      - url: "https://img.packworld.com/files/base/pmmi/all/image/2023/12/AI_for_CPGs.6581b1e143314.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Top AI Trends That Will Impact Businesses in 2024"
+    excerpt: "In 2024, AI will expand beyond mere automation, entering areas such as explainable AI, responsible AI, and enhanced human-machine collaboration. Businesses should adapt quickly to use this trend for strategic decision-making, operational efficiency, and  customer-focused innovation."
+    publishedDateTime: 2023-12-19T13:03:00Z
+    webUrl: "https://www.finextra.com/blogposting/25421/top-ai-trends-that-will-impact-businesses-in-2024"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
     quality: 19
 
 secured: "0OpeomW4oqyUhINBuUNelmfy3npd+01z2TT1BpUSIQj1cXPnI4TDj0otRyqcMeUbnwcX+8INemwpUmUlXJlhmB7K+S+6vvrr5vypSeYptBlqoBDRA8qnqSf0jwFLOBIQAUeQw5RSla6CsLLj8uu1cEIVuyQwaOUVja2deHU2tDY0bwa8XqlJWsIVPocoRxS5vBsBmVHJMevXsKFDm8ycDp1PV0AUCHGIsz0tlaHtFtDpFGxRvx1xFFzqCzQYQ5YI8Fjy+uhVljGmSydJZUGK0uPyBKkyzOF2UEYeyO+6NK6RTKGmUSbo1YEDLNhIEvs2QtMUxrtOHi2L+KubyBDGroAOrFw9hIbgGbn7t8vfLBvP0s5kACevXhQZterfCKG2yY4RQX6V2af8mSer8a4FrO+eqU3njXR2zknGyICPvNQo5p7NAFkx/BxFoG4h/MElM7yNy6H9Ku8Z07ylpWa/5HMR6WWlFKIL7GOCyusC+OjsaA2PgpwgPHmOwxVIegs6vTLUewA1qIFSCuMF5iVLlw==;T7k9bdRtDDZngbo8fUZf6g=="

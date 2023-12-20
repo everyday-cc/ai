@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/18/navigating
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/18/navigating-the-future-of-work-10-ways-to-prepare-for-the-ai-workplace/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-106033248,imgsize-64286,width-1200,height=765,overlay-etcio/artificial-intelligence/trustworthy-ai-the-future-of-innovation-and-ethics.jpg"
         width: 1200
         height: 765
+        isCached: true
+  - title: "Education and Artificial Intelligence: Navigating the Path to Transformation"
+    excerpt: "In a world where technology is evolving at an unprecedented pace, education stands on the cusp of transformation. Imagine classrooms where teachers are"
+    publishedDateTime: 2023-12-18T17:57:00Z
+    webUrl: "https://www.edsurge.com/news/2023-12-18-education-and-artificial-intelligence-navigating-the-path-to-transformation"
+    type: article
+    provider:
+      name: EdSurge
+      domain: edsurge.com
+    quality: 53
+    images:
+      - url: "https://edsurge.imgix.net/uploads/post/image/15641/Shutterstock_1958892118-1701817153.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop"
+        width: 1024
+        height: 512
         isCached: true
   - title: "AI at your door. Is there anything to worry?"
     excerpt: "Authors worry about issues such as plagiarism, unauthorised use of AI-generated content, and the potential for AI to be used unethically in manipulating public opinion or spreading misinformation."

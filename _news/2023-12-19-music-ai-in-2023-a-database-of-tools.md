@@ -77,6 +77,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2023: The year we played with artificial intelligence — and weren’t sure what to do about it"
+    excerpt: "Artificial intelligence went mainstream in 2023 — it was a long time coming yet has a long way to go for the technology to match people’s science fiction fantasies of human-like machines. Catalyzing a year of AI fanfare was ChatGPT. The chatbot gave ..."
+    publishedDateTime: 2023-12-19T23:59:00Z
+    webUrl: "https://smdp.com/2023/12/20/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it/"
+    type: article
+    provider:
+      name: Santa Monica Daily Press
+      domain: smdp.com
+    quality: 6
 
 secured: "lE3LD5zTC0VrQ75POFYbQCBOkte+W33dfi0yOp1jaGnxXLVvesSjCeEqgo4y9smVXwjzx0K0m9ZShrjswESyxWC3tZ29VZJCb9aoU9Me7lN36O2AEvCRbwZtlTsISq0nzt+84FR+Cc88Ct1yhCe7R5soPNiAlKPkEw/Os7w/1MkYUgoiKcYjkaQ39ZCrA4gibbPOEkoUrMIKNyAhkGHoj1qbAg0xmjtUEDbqVOKA/yYPAu4rT+gpzyTlncJRiYWE/dDMGzkwkEku32VfbNnMR5Wnq5W5IgnbfWtcDL/k4erXhh/PSrnTzArMl7DR9pyMfsVz95FhQJclKIkbC5a4nLyPPL7jLS3tfr8kN12IyVg=;3tp0jbBci1e0L0O7nyJTtw=="
 ---

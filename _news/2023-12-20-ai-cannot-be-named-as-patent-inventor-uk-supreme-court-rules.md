@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/dec/20/ai-cannot-be-name
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/dec/20/ai-cannot-be-named-as-patent-inventor-uk-supreme-court-rules"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: The Guardian
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "AI cannot patent inventions, UK Supreme Court confirms"
+    excerpt: "\"The response concluded that there should be no legal change to UK patent law now, and noted that many share the view that any future change would need to be at an international level. The decision of the Supreme Court does not alter that conclusion,\" the IPO wrote."
+    publishedDateTime: 2023-12-20T14:51:00Z
+    webUrl: "https://www.bbc.com/news/technology-67772177"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 47
   - title: "AI machine cannot be called an inventor, rules UK court"
     excerpt: "The UK’s Supreme Court has ruled that a machine cannot be named on a patent as the inventor of new products or ideas, in a landmark decision that tackles the issue of who — or what — can claim credit for innovative creations."
     publishedDateTime: 2023-12-20T11:43:00Z
@@ -40,6 +49,6 @@ related:
       domain: ft.com
     quality: 17
 
-secured: "lJx57u/u2VR5yBN5lToZL1ctCm+SwmN7eh0pbNlFfocZPErgCxOCg8CZlANAmO/KbaU3LXRAWqG818YEmghFf1l6JQhYdysjYFaaWuNPA0bPvYG1SFCIly1rWsAhCo9/0PZwHfXbr47vpp1pFOy6iWoZHfSqSU1PFIJrWXGhSDxIlhn5SyEByTf5CJhjIgugiC7YZjitGvOyn2rlisJ36L90m/oAdTZS/38DjedZLr3AkPtTKE7KLOkfA7EzvJaVxukuoiSF1pIEq8qINthfeVIXRNWLmCCqEGs5V8fMJMN+IhpXPGgltv6T8iE3jTSPlYnBVwBDE9/TLYnG5IQqjqf+NKt9qvfR1dptAOwX6So=;peHD+DUKIjiEOYC9oJXcVw=="
+secured: "i7lJDHr6SvXQp7RBn5AMoJafI227fzp/RKJ4Dr6XHOiUAAP3f+DkJSyU0er8mEBtdXmGIUzKgMOEBa/gBCoyATnrzSds3F/FM3Ek5ZHD27aaLBZr5xvSN5E2Z/YqbaF7KvgdAXMfZzbvB9LIzvOitLFqVYuvUj7qMUcz4zMXHadMG/lBBjakFWWHk3voMAVvs7TPwRp+Owux1jWurCNGiVF6d6VRWXBo1PZDWD6+LMMlkT4DjzV+wi9UoNMhI6/JlIkdyrvQQ3N6bX4+x2U1zVmgQbBI5Rz6BrpxHB6lDffnlAjpvxSTWzszebcskc1rzuGHLhHCZufSo28wYm3RjcJGAVSLRtFNJXZVKLe9LrY=;BHF0sPwN30OeSyonhWMSRw=="
 ---
 

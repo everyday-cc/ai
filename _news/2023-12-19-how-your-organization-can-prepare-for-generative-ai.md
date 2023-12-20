@@ -121,20 +121,6 @@ related:
         width: 845
         height: 396
         isCached: true
-  - title: "Generative AI for CPGs: The Latest Use Cases to Boost Operations"
-    excerpt: "Generative AI is being used by people all over the world to complete any given task at a faster rate. For use at home, such uses include recipe ideas, travel help, and summarizing large amounts of research or data. For business use, it gets more specific."
-    publishedDateTime: 2023-12-19T15:27:00Z
-    webUrl: "https://www.packworld.com/news/business-intelligence/article/22882216/generative-ai-use-cases-for-cpgs"
-    type: article
-    provider:
-      name: Packaging World
-      domain: packworld.com
-    quality: 39
-    images:
-      - url: "https://img.packworld.com/files/base/pmmi/all/image/2023/12/AI_for_CPGs.6581b1e143314.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "How Generative AI Could Revolutionize Manufacturing"
     excerpt: "Generative AI is everywhere and it is predicted that the technology will boost industry revenues by enabling faster, more precise innovation, as well as automating processes. ABI Research predicts that generative AI will unlock $10.5 billion in new revenues for the manufacturing industry by 2033."
     publishedDateTime: 2023-12-19T22:43:00Z
@@ -186,15 +172,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
-  - title: "Navigating a shifting customer-engagement landscape with generative AI"
-    excerpt: "Enterprises need clear roadmaps as the rapid advent of generative AI reshapes the way they engage with customers."
-    publishedDateTime: 2023-12-18T19:55:00Z
-    webUrl: "https://www.technologyreview.com/2023/12/18/1085299/navigating-a-shifting-customer-engagement-landscape-with-generative-ai/"
+  - title: "Theory Of Mind As An Emergent Property Of Generative AI Could Be A Linchpin For AI-Powered Mental Health Advisement Apps"
+    excerpt: "Humans are said to possess Theory of Mind, and some say generative AI does so too. This is closely explored, along with how it pertains to AI-based mental health apps."
+    publishedDateTime: 2023-12-20T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/12/20/theory-of-mind-as-an-emergent-property-of-generative-ai-could-be-a-linchpin-for-ai-powered-mental-health-advisement-apps/"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 17
+      name: Forbes
+      domain: forbes.com
+    quality: 24
   - title: "Doctors have a few simple AI asks"
     excerpt: "The AMA recently asked doctors how they felt about using AI in their practices, Ehrenfeld said. The survey revealed their excitement that AI could improve care and ease burdens — but also some trepidation. Cautionary tales: Prior experience with new tech tools has some doctors worried, he said."
     publishedDateTime: 2023-12-19T18:01:00Z

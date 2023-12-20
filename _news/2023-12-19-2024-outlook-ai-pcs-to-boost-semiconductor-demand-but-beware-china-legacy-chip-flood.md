@@ -24,6 +24,17 @@ images:
     height: 854
     isCached: true
 
+related:
+  - title: "2024 Retailer outlook: Placer.ai shares what to expect from acquisitions, consumers"
+    excerpt: "Retailers are gearing up to fight for consumers' dollars through mergers and acquisitions, as shoppers head into stores less and look for opportunities to make the most out of their trips, RJ Hottovy, head of analytical Research at Placer.ai, shared during ..."
+    publishedDateTime: 2023-12-20T14:37:00Z
+    webUrl: "https://www.foodnavigator-usa.com/Article/2023/12/20/2024-retailer-outlook-placer.ai-shares-what-to-expect-from-acquisitions-consumers"
+    type: article
+    provider:
+      name: Food
+      domain: foodnavigator-usa.com
+    quality: 13
+
 secured: "excSnYSMzGV5FMWxD4/NyuP8zcwYZcWDmvq0IT/hajGkt/3bpnW5fg6tQymBGRHONQ3foZeVt5UnpUdTW53omdIif5COrvexwi5bbewGJK4hW2uP0ftOc87Jq05tNTsLK0yJqEBEICpfGPDDFguwHzn+wRR9ojQj9BPYQ6ddzQnw20FINLEtbEgeaPGRgDd9ro8Xwb8ICxHBFRvi5cn7sHbQ/BpdOYAs6H9UYCira0VPDFAuo6VbRM585kbYN1LSgHpQcSWLeb2i2UMtFU0NGUZgI/Mh5faXwP3KdMhTex97sORk9HJqemZr/4t5qvuryMIU1c/0a9/AJhaZdX8ZprW0hjuDOhQDHXdHNNBl88J3n1KqxPxPb/EIlIMX9mxGEjIF5XdSNXqUVKW2Sjm51Wz1LnNXnFsTi1Uz/aXShB7LLHKZai+H9jn8/mVZ2AUpVoDsZt1632QnjxAjZE+Wzd7OgX0kjrBsqmLq2SgAyhN64xus+irGMok74MY8W7OCHyY0IHD0ZGWwRiGWu14/9Q==;S48Zfepe7Mmr5B2JjfABiA=="
 ---
 

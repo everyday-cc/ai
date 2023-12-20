@@ -40,6 +40,15 @@ related:
         width: 1260
         height: 554
         isCached: true
+  - title: "Generative AI (GenAI) 2023 and Beyond: Growth Opportunities in CX, Advanced Analytics, KM Performance, Language Translation at Scale"
+    excerpt: "Generative AI (GenAI) has sparked significant interest and shows great potential in enhancing business operations through the automation of routine tasks, streamlining workflows, and offering intelligent insights to boost efficiency, quality, and performance."
+    publishedDateTime: 2023-12-20T16:23:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/12/20/9937173.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "ORdUeM4MTwQaHMwvZyzGCfQM9KOpjFuDkUYFVf8/jP4kFSr14j4cmdewW8HteboQgIDkN2hCovxca0cJrqjXHHcIZMgIbIKR8WwcpZjVil7tgFlVC5v1e+DbbA//HYykRGmT7gFlfdCS6KhcXLAHfM3ryTs4ntQ2hHpQJLHGQ3NacuQSXKn09wQiUxsQw93ddL/+fk1J6gHtowUy+GIfec1lD7dcXzBebghQyPd43gKEQ6TzyOMclqC2Nc2/dVOly+ahoH8bLxOCk2gm5IaFt5E2Ei+xP56fneQQTrM2OuoPeasozY+JyLilaCy7XLsiMd1dqfXpYdjunAs+LWvbtCg9ORqAOKeJi1s9zHjiOLw=;Re/hiDGL/Gzr9GzuF7ak8Q=="
 ---

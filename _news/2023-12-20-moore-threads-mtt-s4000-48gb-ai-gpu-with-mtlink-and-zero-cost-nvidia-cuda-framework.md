@@ -7,7 +7,7 @@ originalUrl: "https://www.tweaktown.com/news/95058/moore-threads-mtt-s4000-48gb-
 webUrl: "https://www.tweaktown.com/news/95058/moore-threads-mtt-s4000-48gb-ai-gpu-with-mtlink-and-zero-cost-nvidia-cuda-framework/index.html"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Moore Threads Collaborates with Lenovo to Power AI Innovation with MTT S4000 GPU"
-    excerpt: "In a strategic move, Moore Threads and Lenovo have come together to revolutionize the field of artificial intelligence. The MTT S4000 GPU, a cutting-edge product by Moore Threads, is set to empower AI and data"
-    publishedDateTime: 2023-12-20T10:05:00Z
-    webUrl: "https://www.econotimes.com/Moore-Threads-Collaborates-with-Lenovo-to-Power-AI-Innovation-with-MTT-S4000-GPU-1668304"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 49
-    images:
-      - url: "https://f1.econotimes.com/2023/12/lw6zcb321v_th_1024x0.png"
-        width: 1024
-        height: 535
-        isCached: true
 
 secured: "2Y4yOYtIAPVHC7PCu5uEjqqfXXgZqDFN7U99ZHkW0jNa2WoraaWxuMH4V3yH/BpLOPlgf4RIMGZBzloYIaqvF0sme60ByYx3jm8r73fpo7whk09qB0UleVqrwiwBTzHOGlgIEUQcyzpwokki4FzcCX57kPgRxxR4J7RAGZJYPqEqQFw5nYfSMkXXsn8/1L12pe1IzQNzlXqx4AqtzvvoWyRSfu24tKkGlumkwtG4D/ibGvaUr3kiaIimFwqF7FYGpV/ilCdzcCbxZYo0vBRiNSD/8Fl9WxovGDrHas1CYuRBmDpxKUD8/hDjTty8V3EXy23wML7WHd/TyEqd9Ek8U+jeWyCnhWDF/8Rmx6/W+LZdr6TkukNIlgicf4rlCs60oIsoJKlmnYQReIcV9d97He0xxs04SAw4x7UqSTJT64y0Qe+AGqZlatGcFWz9Bc0l7/KSZyJL+C3Rh9igdVGhuC7CbgHY0BPKiEw68UlLTBKnj6a8lLyMFdkSHJ5ZvBW7288zAwOM2ldBTbwuh8dY1g==;t9nsT66akZERkHSCJpK5vQ=="
 ---

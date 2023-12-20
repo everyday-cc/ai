@@ -24,103 +24,86 @@ images:
     isCached: true
 
 related:
-  - title: "Precision Education: How K-12 Schools Are Embracing AI"
-    excerpt: "As artificial intelligence (AI) continues to evolve, its applications in various sectors have been groundbreaking, and education is no exception."
-    publishedDateTime: 2023-12-15T14:59:00Z
-    webUrl: "https://www.forbes.com/sites/neilsahota/2023/12/15/precision-education-how-k-12-schools-are-embracing-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/neilsahota/2023/12/15/precision-education-how-k-12-schools-are-embracing-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/neilsahota/2023/12/15/precision-education-how-k-12-schools-are-embracing-ai/amp/"
+  - title: "Five open-source AI tools to know"
+    excerpt: "While open-source AI offers enticing possibilities, its free accessibility poses risks that organizations must navigate carefully.\nThe post Five open-source AI tools to know appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-12-15T17:24:27Z
+    webUrl: "https://www.ibm.com/blog/five-open-source-ai-tools-to-know/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 99
+  - title: "3 AI Trends That Every Leader Needs To Know For 2024"
+    excerpt: "As a leader or manager, you need to understand the key trends that will shape 2024 so you can make informed decisions and realign strategies for your workforce."
+    publishedDateTime: 2023-12-20T15:55:00Z
+    webUrl: "https://www.forbes.com/sites/rachelwells/2023/12/20/3-ai-trends-that-every-leader-needs-to-know-for-2024/"
+    ampWebUrl: "https://www.forbes.com/sites/rachelwells/2023/12/20/3-ai-trends-that-every-leader-needs-to-know-for-2024/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/12/20/3-ai-trends-that-every-leader-needs-to-know-for-2024/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 104
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65795ccf8c811c18e06ab854/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1201
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65830c5a747b2c0802aefa2c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
         height: 900
         isCached: true
-  - title: "Tech-savvy PM Modi has a bold vision: AI, ethics and transformation"
-    excerpt: "In the GPAI Summit recently, Prime Minister Narendra Modi advocated for ethical AI, stressing its pivotal role in shaping a technologically advanced and culturally rooted India"
-    publishedDateTime: 2023-12-19T08:09:00Z
-    webUrl: "https://www.firstpost.com/opinion/tech-savvy-pm-modi-has-a-bold-vision-ai-ethics-and-transformation-13520412.html"
-    ampWebUrl: "https://www.firstpost.com/opinion/tech-savvy-pm-modi-has-a-bold-vision-ai-ethics-and-transformation-13520412.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/opinion/tech-savvy-pm-modi-has-a-bold-vision-ai-ethics-and-transformation-13520412.html/amp"
+  - title: "9 AI Tools Every Creator Must Know About"
+    excerpt: "AI was once optional for creators, but now it’s essential. With clever use of AI tools, every creator can become known for their work on a whole new level."
+    publishedDateTime: 2023-12-19T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/jodiecook/2023/12/19/9-ai-tools-every-creator-must-know-about/"
     type: article
     provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "How to fine tuning Mixtral open source AI model"
+    excerpt: "Check out the fine tuning tutorial kindly created by Trelis Research to learn more about how you can find tune Mixtral and more. Watch this video on YouTube. Here are some other articles you may find of interest on the subject of Mixtral and Mistral AI ..."
+    publishedDateTime: 2023-12-20T12:08:00Z
+    webUrl: "https://www.geeky-gadgets.com/fine-tuning-mixtral/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
     images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2023/12/Modi_Aircraft640PTI.jpg"
+      - url: "https://www.geeky-gadgets.com/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FEXFbZfp8xCI%2F0.jpg"
+        width: 480
+        height: 360
+        isCached: true
+  - title: "Google takes steps to prevent abuse of its generative AI tools during U.S. elections"
+    excerpt: "Google LLC said today it is planning to restrict the ability of its artificial intelligence chatbot Bard and Search Generative Experience to respond to election-related queries, ahead of the U.S. Presidential election taking place next year. The restrictions will be introduced early next year, the company said."
+    publishedDateTime: 2023-12-19T23:45:00Z
+    webUrl: "https://siliconangle.com/2023/12/19/google-takes-steps-prevent-abuse-generative-ai-tools-u-s-elections/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 32
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/element5-digital-T9CXBZLUvic-unsplash-1.jpg"
         width: 640
-        height: 362
+        height: 427
         isCached: true
-  - title: "Revolutionizing Industries: How AI Apps are Transforming Healthcare, Finance, and More"
-    excerpt: "Welcome to the era of AI revolution! We stand witness to incredible technological innovations that are reshaping industries like never before. Among these groundbreaking advancements, artificial intelligence applications have emerged as the game-changers across numerous sectors."
-    publishedDateTime: 2023-12-17T16:56:00Z
-    webUrl: "https://techbullion.com/revolutionizing-industries-how-ai-apps-are-transforming-healthcare-finance-and-more/"
+  - title: "Using artificial intelligence to talk to the dead"
+    excerpt: "Some people are turning to AI technology as a way to commune with the dead, but its use as part of the mourning process has raised ethical questions."
+    publishedDateTime: 2023-12-18T13:00:00Z
+    webUrl: "https://www.seattletimes.com/business/using-artificial-intelligence-to-talk-to-the-dead/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 65
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/AI-App.jpg"
-        width: 1000
-        height: 500
-        isCached: true
-  - title: "How artificial intelligence is transforming higher education"
-    excerpt: "WINSTON-SALEM, N.C. — Improving the educational experience of students is a top priority for Dr. Betsy Barre. As the Executive Director of the Center for Advancement of Teaching at Wake Forest University, she works to find innovative teaching practices for faculty. Her latest project is how to address the use of artificial intelligence."
-    publishedDateTime: 2023-12-18T14:38:00Z
-    webUrl: "https://www.wfmynews2.com/article/news/education/how-ai-is-transforming-higher-education-artificial-intelligence/83-65fbb04e-bf3a-4b0e-8dc8-11cd32addad2"
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 21
+  - title: "What senior living leaders need to know about artificial intelligence"
+    excerpt: "Senior living executives have two key decisions to make to move forward with AI-enabled solutions, according to NIC MAP Vision CEO Arick Morton."
+    publishedDateTime: 2023-12-18T05:05:00Z
+    webUrl: "https://www.mcknightsseniorliving.com/home/columns/guest-columns/what-senior-living-leaders-need-to-know-about-artificial-intelligence/"
     type: article
     provider:
-      name: WFMY News2
-      domain: wfmynews2.com
-    quality: 54
-    images:
-      - url: "https://media.wfmynews2.com/assets/WFMY/images/d6c9631c-6688-4aa7-9ab7-b5a7149521d4/d6c9631c-6688-4aa7-9ab7-b5a7149521d4_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Education and Artificial Intelligence: Navigating the Path to Transformation"
-    excerpt: "In a world where technology is evolving at an unprecedented pace, education stands on the cusp of transformation. Imagine classrooms where teachers are"
-    publishedDateTime: 2023-12-18T17:57:00Z
-    webUrl: "https://www.edsurge.com/news/2023-12-18-education-and-artificial-intelligence-navigating-the-path-to-transformation"
-    type: article
-    provider:
-      name: EdSurge
-      domain: edsurge.com
-    quality: 53
-    images:
-      - url: "https://edsurge.imgix.net/uploads/post/image/15641/Shutterstock_1958892118-1701817153.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "Plumbing and Artificial Intelligence: How AI is Revolutionizing Leak Detection"
-    excerpt: "Introduction: Artificial intelligence (AI) has become a game-changer in various industries, and plumbing is no exception. One of the critical challenges in plumbing is the timely detection of leaks, which can lead to significant water damage if left unchecked."
-    publishedDateTime: 2023-12-19T00:56:00Z
-    webUrl: "https://techbullion.com/plumbing-and-artificial-intelligence-how-ai-is-revolutionizing-leak-detection/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 48
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/Plumbing-and-Artificial-Intelligence-How-AI-is-Revolutionizing-Leak-Detection.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Implementing AI technology in business education"
-    excerpt: "With that idea in mind, I want to share my experiences and those of my colleagues here at Gies College of Business at the University of Illinois Urbana–Champaign . Our approach to adopting artificial intelligence (AI) illustrates how we can embrace new technologies and prepare students for what they will encounter in their future careers."
-    publishedDateTime: 2023-12-18T10:00:00Z
-    webUrl: "https://www.chicagobusiness.com/crains-content-studio/implementing-ai-technology-business-education"
-    type: article
-    provider:
-      name: Crain's Chicago Business
-      domain: chicagobusiness.com
-    quality: 36
+      name: McKnight's Senior Living
+      domain: mcknightsseniorliving.com
+    quality: 19
 
 secured: "czpZHh1yxFcUA//oCQrPKz0m9fr1gN+M5Ndb+zA4q/CZr9ubfuEZmbjzPv2ppsN5DSg6WJqQ9fuJgBHFzhSDcE6OL793meNFxPZWNgN1acbTWPMV22kadJE93B06rlpaYUWnpNMyENzwebVzxk7c9NdSi2QhEsltWGxTzga7jIths3fKZnMnPF1ZdcZT5q4sZvA5k+DuYmEF9F+2PuQXri+xroAdPvnW6VNiwhIh84fFcd6hzl2wvB2fAoPqtTLOJzkfjtaIJHzxaSHQbuCmCRy4ZxpieA/TWMk5R4NBzx2Z8BcqZ99qZJJJRZxZ/fTthTVcHEQAcb7kqJOauBMPBAX7I9viL2vK1kOQj4KuaNU=;vVohr3G1Z4KfTqkFqy0eJg=="
 ---
