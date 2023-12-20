@@ -61,20 +61,6 @@ related:
         width: 1600
         height: 1000
         isCached: true
-  - title: "Microsoft’s AI Chatbot Replies to Election Questions With Conspiracies, Fake Scandals, and Lies"
-    excerpt: "Research shared exclusively with WIRED shows that Copilot, Microsoft’s AI chatbot, often responds to questions about elections with lies and conspiracy theories."
-    publishedDateTime: 2023-12-15T08:00:00Z
-    webUrl: "https://www.wired.com/story/microsoft-ai-copilot-chatbot-election-conspiracy/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 72
-    images:
-      - url: "https://media.wired.com/photos/657a59e15f293f44edb694d1/191:100/w_1280,c_limit/politics_microsoft_chatbot_election_misinformation.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "Microsoft Cloud for Sovereignty now available across all Azure regions"
     excerpt: "The Microsoft Cloud for Sovereignty service is now available across all Azure regions. The company said governments across the world will now be able to use Microsoft Cloud across more than 60 Azure cloud regions while meeting individual compliance, security, and policy requirements."
     publishedDateTime: 2023-12-15T17:39:00Z

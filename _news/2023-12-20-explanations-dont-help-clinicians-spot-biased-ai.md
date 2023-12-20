@@ -24,6 +24,22 @@ images:
     height: 900
     isCached: true
 
+related:
+  - title: "Artificial Intelligence Models Improve Clinicians’ Diagnostic Accuracy"
+    excerpt: "Standard artificial intelligence (AI) models improve diagnostic accuracy, but systematically biased AI models reduce this accuracy, according to a study published in the Dec. 19 issue of the Journal of the American Medical Association."
+    publishedDateTime: 2023-12-20T06:30:00Z
+    webUrl: "https://www.physiciansweekly.com/artificial-intelligence-models-improve-clinicians-diagnostic-accuracy/"
+    type: article
+    provider:
+      name: Too Old to Operate
+      domain: physiciansweekly.com
+    quality: 37
+    images:
+      - url: "https://www.physiciansweekly.com/wp-content/uploads/2023/12/image1703053832.jpg"
+        width: 800
+        height: 535
+        isCached: true
+
 secured: "8W2tQuNXyPBeGW4z8HQRirrkeRg3m8gqRf4Vu0X6atVmKvtgSvY0sJGxhCTS2BHByI54NwT2LlnDox3uw71hMRoKzJHbL66PwAjTroox5sOCw+LF9mIVI44wOSR0SbTaxAjyaJlQmgitVVtcj2yyeHNOxmBKOAY/GWccZZqhXHc9d8yMDgEkVMwqbYkxMdREan5Er/P2rRiXAnmTX7z+3sdQLYmHKR6Gmjc01mg/rGnRxsjznqx4uoG9bEHv3rtoTOw74Qrc6x7Eb5f3/YZcwVI9rorUD5ORUmccXZmMscKfJdLTYE4Jn90mNW+B/lSVRd6pJfg+Fz48piS5WA+uxj0Y7bgpFQi4j/TzOtDi71bkB2yEf9IblcsWR9y5kzFHNa8V3f2sroZxDlho5hKcEaIi1PJ0eytwA2/Q/aISQNAByvIQBR968aNQGRT4WKQvWu3i2gx7b/2D/4dUg0ApR2ipUAKctDO4vwSfxQqWB3mp91rh8d7+Y8eMZByocw/srgIfSNzSQMH88IFrD3zCKw==;s/7B3eiHJ9MBZTF3PyCgXQ=="
 ---
 

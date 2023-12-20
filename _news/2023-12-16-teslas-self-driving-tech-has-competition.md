@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/business/autos/teslas-self-driving-tech-has-co
 webUrl: "https://www.wsj.com/business/autos/teslas-self-driving-tech-has-competition-249fb3e2"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "‘It’s everyone’s nightmare — the robot doesn’t stop’: Tesla recall and robotaxi crash throw self-driving car dream into crisis"
+    excerpt: "Musk had been the biggest public booster of the idea of the car doing the driving, first promising immediate “full self-driving” in 2016. The Autopilot system allows Teslas to self-steer ..."
+    publishedDateTime: 2023-12-16T15:00:00Z
+    webUrl: "https://nypost.com/2023/12/16/lifestyle/tesla-recall-robotaxi-crash-cause-self-driving-car-crisis/"
+    ampWebUrl: "https://nypost.com/2023/12/16/lifestyle/tesla-recall-robotaxi-crash-cause-self-driving-car-crisis/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/12/16/lifestyle/tesla-recall-robotaxi-crash-cause-self-driving-car-crisis/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 48
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/12/rumba-auto-car.gif?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Tesla Recalls Two Million Self-Driving Cars Due to Autopilot-Related Accidents"
     excerpt: "ALBAWABA - Tesla sent a letter to the National Highway Traffic Safety Administration, recalling two million of its self-driving cars due to the Autopilo"
     publishedDateTime: 2023-12-18T08:15:00Z

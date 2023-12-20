@@ -25,22 +25,6 @@ images:
     height: 408
     isCached: true
 
-related:
-  - title: "Ligadata Becomes Official AWS Partner, Expanding Telecom AI App And Data Fabric Offerings To AWS Cloud"
-    excerpt: "By teaming up with AWS, LigaData can utilize the world's most comprehensive and broadly adopted cloud to deliver even more value to their custo"
-    publishedDateTime: 2023-12-15T08:21:00Z
-    webUrl: "https://menafn.com/1107601772/Ligadata-Becomes-Official-AWS-Partner-Expanding-Telecom-AI-App-And-Data-Fabric-Offerings-To-AWS-Cloud"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 40
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?445876"
-        width: 502
-        height: 250
-        isCached: true
-
 secured: "3fzuI9xFB5FhZEECSIEg8XA3Qhu7HQwwKYrYPZx2Dzk20klaIaAxjmP1jhidy7+NIaaaswPsTZqhx/jynF5ozVNALF+PD9YEgIrWy3Mea6XGkFBhrUKJFFo+QGL1TGxf0zvAl/K+BhCYn3guwvpWGwaTmfk1DqJlxpVUpWXsKRO6c+ZuxwlT1u4R1gxBRkaZ8LHoyk++qCh0fXN7lc2CkPf908wT4PylndaLIxKVQVKsRhgwJ0pjG7TSPNjlt+K1iL5P7I4jiKdpyK0ZDcNPk2gsBCjI3FP6TN27plN0a0Cu60r+vUtomKOPQKgAZqQA5xSXXs4dKPCOpuk40tm678XutWlE9s943sjNyP4+5CgLs9y+1Dis4auCEHfU+EDJBMpD0aMj4+1dQ9fGh8mSID4g7jINadS60T7Lk8JRaT5UmvT/8psETWucTgXxItTNxddVE9Y4nr0OBXgUEdRraAHJl9SCOBHMCHk7um2OclR4n6NKeSyg/JS3TVOXvWYNsJaHw8lu41BjQao6TzQ8zg==;GoOej+LIvd4MO78lLUMI+Q=="
 ---
 

@@ -86,6 +86,17 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Google Unveils AI-Powered Features For Maps In India"
+    excerpt: "Google Maps is introducing a fuel-efficient routing feature in India for both four-wheelers and two-wheelers by January next year, promoting sustainability. This feature, already estimated to have prevented 2.4 Mn metric tons of CO2e globally, considers real-time traffic data, road elevation, and vehicle type."
+    publishedDateTime: 2023-12-20T07:56:00Z
+    webUrl: "https://inc42.com/buzz/google-unveils-ai-powered-features-for-maps-in-india/"
+    ampWebUrl: "https://inc42.com/buzz/google-unveils-ai-powered-features-for-maps-in-india/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/google-unveils-ai-powered-features-for-maps-in-india/amp/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 37
   - title: "Spacenet Enterprises India Ltd Accelerates Global Trade with Rs 99.55 Crore Investment in Fintech and AI Innovations"
     excerpt: "This investment, led by VIKASA India EIF I Fund with a substantial Rs 50 crore at Rs 26 per share, demonstrates robust investor confidence and a shared vision for the future of digital trade., Technology & Science News,"
     publishedDateTime: 2023-12-18T09:05:00Z

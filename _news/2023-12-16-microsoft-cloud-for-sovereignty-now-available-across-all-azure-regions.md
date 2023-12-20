@@ -71,20 +71,6 @@ related:
         width: 1600
         height: 1000
         isCached: true
-  - title: "Microsoft’s AI Chatbot Replies to Election Questions With Conspiracies, Fake Scandals, and Lies"
-    excerpt: "Research shared exclusively with WIRED shows that Copilot, Microsoft’s AI chatbot, often responds to questions about elections with lies and conspiracy theories."
-    publishedDateTime: 2023-12-15T08:00:00Z
-    webUrl: "https://www.wired.com/story/microsoft-ai-copilot-chatbot-election-conspiracy/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 72
-    images:
-      - url: "https://media.wired.com/photos/657a59e15f293f44edb694d1/191:100/w_1280,c_limit/politics_microsoft_chatbot_election_misinformation.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "Microsoft Azure OpenAI Service is 2x More Expensive than Google Vertex AI"
     excerpt: "When compared with Microsoft Azure OpenAI Service advanced models, say GPT-4, especially for training, it's two times more expensive than Vertex AI. For instance, Vertex AI training costs range from $0."
     publishedDateTime: 2023-12-19T07:00:00Z

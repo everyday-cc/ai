@@ -41,20 +41,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Lenovo unveils new AI PC experiences powered by Intel Core Ultra processors"
-    excerpt: "Geek Stream ▾ - Lenovo unveils new AI PC experiences powered by Intel Core Ultra processors - - Absolute Geeks"
-    publishedDateTime: 2023-12-15T08:24:00Z
-    webUrl: "https://www.absolutegeeks.com/article/geek-stream/lenovo-unveils-new-ai-pc-experiences-powered-by-intel-core-ultra-processors/"
-    type: article
-    provider:
-      name: absolutegeeks.com
-      domain: absolutegeeks.com
-    quality: 37
-    images:
-      - url: "https://www.absolutegeeks.com/wp-content/uploads/2023/12/lenovo.jpg"
-        width: 940
-        height: 773
-        isCached: true
   - title: "Nvidia's AI Boom And The Ghost Of Cisco's Internet Bust"
     excerpt: "Nvidia Corporation established dominance in AI advancements, where it already had a foothold in data center market. Find out why NVDA stock is a Sell."
     publishedDateTime: 2023-12-18T13:45:00Z

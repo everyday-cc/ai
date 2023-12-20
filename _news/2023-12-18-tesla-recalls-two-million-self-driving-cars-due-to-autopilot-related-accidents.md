@@ -39,6 +39,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "‘It’s everyone’s nightmare — the robot doesn’t stop’: Tesla recall and robotaxi crash throw self-driving car dream into crisis"
+    excerpt: "Musk had been the biggest public booster of the idea of the car doing the driving, first promising immediate “full self-driving” in 2016. The Autopilot system allows Teslas to self-steer ..."
+    publishedDateTime: 2023-12-16T15:00:00Z
+    webUrl: "https://nypost.com/2023/12/16/lifestyle/tesla-recall-robotaxi-crash-cause-self-driving-car-crisis/"
+    ampWebUrl: "https://nypost.com/2023/12/16/lifestyle/tesla-recall-robotaxi-crash-cause-self-driving-car-crisis/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/12/16/lifestyle/tesla-recall-robotaxi-crash-cause-self-driving-car-crisis/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 48
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/12/rumba-auto-car.gif?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Tesla's Self-Driving Safety Under Scrutiny After Insider Leak"
     excerpt: "An ex-Tesla employee's leak shockingly reveals alarming safety issues in the company's advanced Autopilot system, raising serious public concerns."
     publishedDateTime: 2023-12-19T14:18:00Z

@@ -55,6 +55,22 @@ related:
         width: 2200
         height: 1238
         isCached: true
+  - title: "Texas should take a cautious approach to self-driving cars and trucks"
+    excerpt: "Despite a growing list of problems, Texas cities cannot regulate self-driving cars or trucks in their communities. One major company has just announced it will be sending autonomous trucks to terminals in Dallas and Houston next year. In addition ..."
+    publishedDateTime: 2023-12-19T17:30:00Z
+    webUrl: "https://www.dallasnews.com/opinion/commentary/2023/12/20/texas-should-take-a-cautious-approach-to-self-driving-cars-and-trucks/"
+    ampWebUrl: "https://www.dallasnews.com/opinion/commentary/2023/12/20/texas-should-take-a-cautious-approach-to-self-driving-cars-and-trucks/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/opinion/commentary/2023/12/20/texas-should-take-a-cautious-approach-to-self-driving-cars-and-trucks/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 44
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/6vhEL8brCTC9xwLmcYi9vfqzw4Y=/830x467/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/UGFFWHNFGR7CPFZA74JV5IB74I.jpg"
+        width: 830
+        height: 467
+        isCached: true
   - title: "Mercedes adds a new car light color: Blue for self-driving"
     excerpt: "The Society of Automotive Engineers recommends this specific blue shade to signify autonomous vehicle operation, but Mercedes is the first automaker to receive approval for its use. The lights will appear at the back and front of the vehicle around the taillights and headlights."
     publishedDateTime: 2023-12-19T19:19:00Z

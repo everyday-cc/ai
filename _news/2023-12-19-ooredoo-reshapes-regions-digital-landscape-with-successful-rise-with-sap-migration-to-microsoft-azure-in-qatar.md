@@ -33,6 +33,22 @@ related:
         width: 253
         height: 300
         isCached: true
+  - title: "Ooredoo Reshapes Region’s Digital Landscape with Successful RISE with SAP Migration to Microsoft Azure in Qatar"
+    excerpt: "In a groundbreaking move set to redefine the digital landscape in the region, Ooredoo Group today announced the successful migration of its cloud ERP la"
+    publishedDateTime: 2023-12-20T07:46:00Z
+    webUrl: "https://www.albawaba.com/business/pr/ooredoo-reshapes-region’s-digital-landscape-successful-rise-sap-migration-microsoft"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/ooredoo-reshapes-region%E2%80%99s-digital-landscape-successful-rise-sap-migration-microsoft"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/ooredoo-reshapes-region%E2%80%99s-digital-landscape-successful-rise-sap-migration-microsoft"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 54
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2023-12/d3fedfd6-3b0b-41e4-8b2a-e248099ccb0a.jpg?itok=ouSURFq_"
+        width: 960
+        height: 540
+        isCached: true
 
 secured: "XV0TVs8Ok5hySI14pt4LBXzjGxMIVUfPOanN2/mdAu/ObzMdj/gijCcbtt5Hib2sD8eyai7Hw0QZo+FdmcWWIMKHqPxjmrY7Bm+ONzrALOowEQg2m1j9DyHIEGMGIk3rmVnFKsTWOaXWM4cVfzyCtdzdrslSdgbjH3yscJjRaYpdZjxYy5ZPNajIPP8QYr5QNV+/Z95mlIDLCymbdTIz83vDbY1zEoTVYNtglJiVBwJu+YHAyce88QHbdg+ZJtSqINhtG5MDT69YSEjtkmW30YcN8XSEun/NicD2MZjLliCtp1W+K6Dcsu9dbWHuJOmuU3gkEJlYZa3QFbnCajimMgoO5clpaXgbo+YpDW/9zbCYD6ZV2t4Oi6TiQkt/tgLKldmQh5lnPwEXTpidvTz1i8M5Sn27t92dr6DjH40tqHsnAZex8MMlYxm6/Ip91FNkBTs7DSoNurZ6DAvRb4BKZIvm7DSU7hNMsf6dtI1DYDGCPU7l4l/QROWFNUp0bQC52Hst+suh9s1UCRSplNeulA==;EkT15vUcCkY4aCNDuQB5DA=="
 ---

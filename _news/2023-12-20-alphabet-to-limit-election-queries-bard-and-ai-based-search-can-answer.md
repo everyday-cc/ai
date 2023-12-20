@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/12/19/alphabet-to-limit-election-queri
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/12/19/alphabet-to-limit-election-queries-bard-and-ai-based-search-can-answer.html"
 type: article
 quality: 87
-heat: 137
+heat: 157
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
         width: 1200
         height: 757
         isCached: true
+  - title: "After Meta, Google Limits Bard And AI-Search Queries Related To Elections Ahead Of 2024 Presidential Race"
+    excerpt: "In anticipation of the 2024 U.S. Presidential election, Google, a subsidiary of Alphabet Inc. GOOG GOOGL, has decided to restrict the range of election-related queries that its AI chatbot Bard and search generative experience can answer. What ..."
+    publishedDateTime: 2023-12-20T03:15:00Z
+    webUrl: "https://www.benzinga.com/news/23/12/36319364/after-meta-google-limits-bard-and-ai-search-queries-related-to-elections-ahead-of-2024-presidential"
+    ampWebUrl: "https://www.benzinga.com/amp/content/36319364"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36319364"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 42
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/Google-Bard_2.jpeg?width=1200&height=800&fit=crop"
+        width: 618
+        height: 412
+        isCached: true
   - title: "Google to restrict election-related queries on Bard, AI-powered Search"
     excerpt: "Google will restrict certain types of election-related queries on AI chatbot Bard and AI-powered Search in preparation for the 2024 US Presidential el"
     publishedDateTime: 2023-12-20T03:20:00Z
@@ -104,7 +120,16 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Google to limit answers to election queries on Bard AI tool and generative search"
+    excerpt: "Google said that the restrictions will be enforced by early 2024 in the run-up to the upcoming U.S. presidential election in November 2024."
+    publishedDateTime: 2023-12-20T08:03:00Z
+    webUrl: "https://cointelegraph.com/news/google-limit-answers-election-queries-bard-ai-generative-search"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 14
 
-secured: "EmxAnILF0UihwnxDenWaV6mEMjiOmIcqmP7tHI5DLak4FSAi1jWXBiwWiXWboq4VtlnkmI9qf3OXGl6Fc7i+FS+6+oHkVN1QLoj0gmjAJ8U/iVR81blQtUWf16cSlW+RcqjuUYMEENZDeyLGuPvA/szm20loywiuQIi6bGYs2nvAIPfu76NKgGiCq+/etqXhwwLFzavxgwNcMR1okHgLc4LD04n0pKC4YM9oOgpT/y3pKF5Fp/YCD1LP68NnSwEsfrF72ZCSlimk04vamVqtMfhAD1GAqeDXUJKE1rj82m5mXU9W1C5HHb3UCYPmX8ziKYNmF0yZ0Ijz0QzDY6lAGhBzMM8vyqK2ELTJXTv37Qqkkrs86TsCWe3lEyzFXte2iOFyWu15QqIZBZGHEhtnZ3dQ0Aj1ZFDgcfL9ctP3VeYnOp7jTVWb4KPsJaOW/1BzpNZbUE8KdwOhGaff9C1XNSsj7hi5pL5vYxPxtUFQHOD2BqsaxLVZw29Y0wieO/TfFrK79Ar6BiUqkI4uK5Z41Q==;xd+4vYaB2At0kNVnWBrdUg=="
+secured: "nzjLMzPGC2ThKAgC5GbcUHW5I8bYcIE+WoLwUykjvsYja8U0sTgs0WxdgSwFY1iCbkxNhjSRv2WxXvKfrvzIo/5yKYGYkSRFgcElkA2UneujCRTj0o4g18S8NU5rXb/X+eoUf8IOcZIoh4O5vH1tn727i0EsyzV306+rrr1wq42adDUibhmJgqihAzX9JJi/9pauD+iES3nG7wAKFAGqEZOJYoWKRLQM3UKa7ESEdhGbHJaTERTWXo+N1zRMl15EXQquRzS87e0aNV/eAhmtwGP3l+K1R4Hs8qx3j4TkS01H0aEitDtJOLQy4j+f6QEa5JM4Xy3vTphdcq3w9Ky+ExjkDAsdCjXF8PvE3+PLtj0BMZbOPe2kYPdyWElu082Hhv6TlPIvkmrjs3LHJTkuGPBSzj/BywK3ap9YSlrqTjY/8zXSF9XBMn0TeUGDPKdpGO3A3gMuwQsH6SNY71AvsbOpNsZulvu77s4pijd46z+VVqiLj6EKqQt4LytNUAqXOh7SanbR8N1xJ8DwRJGTMw==;S5iWwnH0aUt5EQffTgZvow=="
 ---
 

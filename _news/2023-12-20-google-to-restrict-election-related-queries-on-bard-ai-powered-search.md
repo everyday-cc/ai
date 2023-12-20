@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 757
         isCached: true
+  - title: "After Meta, Google Limits Bard And AI-Search Queries Related To Elections Ahead Of 2024 Presidential Race"
+    excerpt: "In anticipation of the 2024 U.S. Presidential election, Google, a subsidiary of Alphabet Inc. GOOG GOOGL, has decided to restrict the range of election-related queries that its AI chatbot Bard and search generative experience can answer. What ..."
+    publishedDateTime: 2023-12-20T03:15:00Z
+    webUrl: "https://www.benzinga.com/news/23/12/36319364/after-meta-google-limits-bard-and-ai-search-queries-related-to-elections-ahead-of-2024-presidential"
+    ampWebUrl: "https://www.benzinga.com/amp/content/36319364"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36319364"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 42
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/Google-Bard_2.jpeg?width=1200&height=800&fit=crop"
+        width: 618
+        height: 412
+        isCached: true
   - title: "5 questions about artificial intelligence, answered"
     excerpt: "Artificial intelligence is one of the most incredible tools mankind has ever created. It’s also one of the most controversial. Some of AI’s pioneering researchers and developers think that, without proper management,"
     publishedDateTime: 2023-12-18T05:00:00Z
@@ -101,6 +117,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Google to limit answers to election queries on Bard AI tool and generative search"
+    excerpt: "Google said that the restrictions will be enforced by early 2024 in the run-up to the upcoming U.S. presidential election in November 2024."
+    publishedDateTime: 2023-12-20T08:03:00Z
+    webUrl: "https://cointelegraph.com/news/google-limit-answers-election-queries-bard-ai-generative-search"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 14
 
 secured: "Q8xYbrj1MKoVq5pEIHvqGcKB2JMOcKpJjGYP4zovU8Kg4Z6SuFOhEvtsAWmY4SGjnx9L9I8emQ8jslBA5P2YIJHj8tEWgm1b4alWKTgbwGi56ZDo4Yg3/iFlIrcqNml92zcvNJm32kXsoSMnUl3lqUaDB8zDsxhxmn9+apoU/YITmyC3CCLS12AdotN5Z3JSSPYX6kL7ahNK3rjWVg8OgP8HJw6aNcey3MOYW6VBhGWOayKREYthDhUnWQBoqauxcj7+6zlwfP+lfG46+rB2J9YA1sdV//NbKNJqaI+NRYtixWIZKoHTXdMqyHJGLmmNtZWF8ZfvbwoDBbvvuyT7+dP/E4FoSvm6X3LpFVQxOHgvsfdyGOdnVFe20Eio8fRiV1Ksyt6xcycroN/A9DzT/D69cPYraa11oLib9ygRUEJt+QlDoroK/AAGwwmkhHJL7tgpulRIGVab0slJtxFCuSZoLeziVELCtmaUqk7Xy01e/rgixLpBsutIo6qTAWV9b965DZNllfguHPRfjLANbg==;HTIYerxX+G9Q8rdROrrt2w=="
 ---

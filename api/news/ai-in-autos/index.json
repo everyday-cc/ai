@@ -183,7 +183,7 @@
       "originalUrl": "https://www.wsj.com/business/autos/teslas-self-driving-tech-has-competition-249fb3e2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -790,6 +790,49 @@
       ]
     },
     {
+      "path": "_news/2023-12-12-toss-yourself-in-front-of-a-moving-car-in-this-wild-indie-game.md",
+      "title": "Toss Yourself In Front Of A Moving Car In This Wild Indie Game",
+      "excerpt": "We may earn a commission from links on this page. How (Not) To Get Hit By A Self-Driving Car first appeared at Playable City Bristol in July 2023. Photo: Luke O’Donovan This time, I know I’m ...",
+      "sourceUrl": null,
+      "webUrl": "https://kotaku.com/how-not-get-hit-self-driving-car-ai-indie-game-day-devs-1851090918",
+      "originalUrl": "https://kotaku.com/how-not-get-hit-self-driving-car-ai-indie-game-day-devs-1851090918",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/3b1693d3a8f33fc24ea38a9da9abb432.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-12T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kotaku",
+        "domain": "kotaku.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-12-test-driving-artificial-intelligence-in-the-classroom.md",
       "title": "Test driving artificial intelligence in the classroom",
       "excerpt": "One business school professor is having his students use artificial intelligence for class assignments. Here & Now 's Scott Tong talks with Ethan Mollick, professor of entrepreneurship at the University of Pennsylvania's Wharton School.",
@@ -881,8 +924,8 @@
       "title": "The Psychological Effects of Self-Driving Cars",
       "excerpt": "Autonomous vehicles (AVs) including artificial intelligence AI-powered driverless or self-driving cars have received significant attention as a potentially safer and more sustainable mode of ...",
       "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/intl/blog/urban-survival/202311/the-psychological-effects-of-self-driving-cars",
-      "originalUrl": "https://www.psychologytoday.com/intl/blog/urban-survival/202311/the-psychological-effects-of-self-driving-cars",
+      "webUrl": "https://www.psychologytoday.com/us/blog/urban-survival/202311/the-psychological-effects-of-self-driving-cars",
+      "originalUrl": "https://www.psychologytoday.com/us/blog/urban-survival/202311/the-psychological-effects-of-self-driving-cars",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -899,8 +942,8 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/urban-survival/202311/the-psychological-effects-of-self-driving-cars?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/urban-survival/202311/the-psychological-effects-of-self-driving-cars?amp",
+      "ampWebUrl": "https://www.psychologytoday.com/us/blog/urban-survival/202311/the-psychological-effects-of-self-driving-cars",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/urban-survival/202311/the-psychological-effects-of-self-driving-cars",
       "publishedDateTime": "2023-12-10T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
@@ -1345,49 +1388,6 @@
       "provider": {
         "name": "Metro",
         "domain": "metro.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-is-there-a-basic-problem-with-autonomous-driving.md",
-      "title": "Is There A Basic Problem With Autonomous Driving?",
-      "excerpt": "The feasibility of autonomous vehicles for general use in public traffic has long been questioned (see“Artificial intelligence faces serious roadbl",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1107543870/Is-There-A-Basic-Problem-With-Autonomous-Driving",
-      "originalUrl": "https://menafn.com/1107543870/Is-There-A-Basic-Problem-With-Autonomous-Driving",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2023-12/06/AT_2565cimage_story.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-06T05:28:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null

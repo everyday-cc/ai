@@ -2,6 +2,100 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-12-19-nitin-gadkari-takes-a-firm-stand-against-autonomous-vehicles-tesla-imports.md",
+      "title": "Nitin Gadkari Takes A Firm Stand Against Autonomous Vehicles & Tesla Imports",
+      "excerpt": "Nitin Gadkari strongly opposes the introduction of autonomous cars in India, citing potential job losses for around 80 lakh drivers when questioned about the introduction of driverless vehicles to reduce road accidents in India.",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesnownews.com/auto/nitin-gadkari-takes-a-firm-stand-against-autonomous-vehicles-tesla-imports-article-106122556",
+      "originalUrl": "https://www.timesnownews.com/auto/nitin-gadkari-takes-a-firm-stand-against-autonomous-vehicles-tesla-imports-article-106122556",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tnn.in/thumb/msid-106122870,thumbsize-1187784,width-1280,height-720,resizemode-75/106122870.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.timesnownews.com/auto/nitin-gadkari-takes-a-firm-stand-against-autonomous-vehicles-tesla-imports-article-106122556/amp",
+      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/auto/nitin-gadkari-takes-a-firm-stand-against-autonomous-vehicles-tesla-imports-article-106122556/amp",
+      "publishedDateTime": "2023-12-19T10:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "timesnownews",
+        "domain": "timesnownews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-19-this-ai-can-find-your-location-just-by-looking-at-a-few-photos.md",
+      "title": "This AI can find your location just by looking at a few photos",
+      "excerpt": "Developed by Stanford graduate students, an AI model can determine -- with impressive accuracy -- a specific location simply by looking at Google Street View.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/this-ai-can-find-your-location-just-by-looking-at-a-few-photos/",
+      "originalUrl": "https://www.zdnet.com/article/this-ai-can-find-your-location-just-by-looking-at-a-few-photos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/58157e43f877c0437e9c99979c3b85c1b708481e/2023/12/19/99dbcc02-ed35-41ed-b328-12ad8204338c/stretviewgettyimages-1247162865.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-ai-can-find-your-location-just-by-looking-at-a-few-photos/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-ai-can-find-your-location-just-by-looking-at-a-few-photos/",
+      "publishedDateTime": "2023-12-19T09:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-19-hitch-integrates-generative-ai-into-immutable-miniverse-nfts.md",
       "title": "Hitch integrates generative AI into Immutable Miniverse NFTs",
       "excerpt": "Do you want to get the latest gaming industry news straight to your inbox? Sign up for our daily and weekly newsletters here. Hitch Interactive, a startup focused on AI, robotics, fintech, and the metaverse, announced it has integrated generative AI into ...",
@@ -1125,109 +1219,6 @@
         "Meta AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-12-18-vcs-predict-the-ai-trends-that-will-transform-e-commerce-in-2024.md",
-      "title": "VCs predict the AI trends that will transform e-commerce in 2024",
-      "excerpt": "It was a tough year for startups, and for e-commerce. These VC firms are still funding startups in the space.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/vc-firms-investing-in-e-commerce-share-criteria-2024-predictions-2023-12",
-      "originalUrl": "https://www.businessinsider.com/vc-firms-investing-in-e-commerce-share-criteria-2024-predictions-2023-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/656f38f258e7c0c29a29a572?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-18T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-18-top-republican-talks-ai-arms-race-youll-have-machines-competing-with-each-other.md",
-      "title": "Top Republican talks AI arms race: 'You'll have machines competing with each other'",
-      "excerpt": "Rep. Gary Palmer, the No. 5 House Republican, is sounding the alarm about the integration of artificial intelligence (AI) and quantum computing by U.S. adversaries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/top-republican-talks-ai-arms-race-youll-have-machines-competing-each-other",
-      "originalUrl": "https://www.foxnews.com/politics/top-republican-talks-ai-arms-race-youll-have-machines-competing-each-other",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7769425e-7ccc-4977-ba3c-cceda63a4ce6/d626012a-230f-486d-b9f2-1cbd0c95a111/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/top-republican-talks-ai-arms-race-youll-have-machines-competing-each-other.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/top-republican-talks-ai-arms-race-youll-have-machines-competing-each-other.amp",
-      "publishedDateTime": "2023-12-18T09:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

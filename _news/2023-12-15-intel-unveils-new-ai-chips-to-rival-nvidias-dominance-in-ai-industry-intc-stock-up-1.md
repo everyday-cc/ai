@@ -9,7 +9,7 @@ ampWebUrl: "https://www.coinspeaker.com/intel-ai-chips-intc-stock/amp/"
 cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/intel-ai-chips-intc-stock/amp/"
 type: article
 quality: 66
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://cdn.technobezz.com/c/intel_core_ultra_holthaus_jpg_rendition_intel_web_1648_927_d97184be91/intel_core_ultra_holthaus_jpg_rendition_intel_web_1648_927_d97184be91.jpg"
         width: 1102
         height: 927
-        isCached: true
-  - title: "Lenovo unveils new AI PC experiences powered by Intel Core Ultra processors"
-    excerpt: "Geek Stream ▾ - Lenovo unveils new AI PC experiences powered by Intel Core Ultra processors - - Absolute Geeks"
-    publishedDateTime: 2023-12-15T08:24:00Z
-    webUrl: "https://www.absolutegeeks.com/article/geek-stream/lenovo-unveils-new-ai-pc-experiences-powered-by-intel-core-ultra-processors/"
-    type: article
-    provider:
-      name: absolutegeeks.com
-      domain: absolutegeeks.com
-    quality: 37
-    images:
-      - url: "https://www.absolutegeeks.com/wp-content/uploads/2023/12/lenovo.jpg"
-        width: 940
-        height: 773
         isCached: true
   - title: "Nvidia's AI Boom And The Ghost Of Cisco's Internet Bust"
     excerpt: "Nvidia Corporation established dominance in AI advancements, where it already had a foothold in data center market. Find out why NVDA stock is a Sell."

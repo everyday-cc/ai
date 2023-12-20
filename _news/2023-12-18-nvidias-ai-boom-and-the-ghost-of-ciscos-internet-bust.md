@@ -54,20 +54,6 @@ related:
         width: 1102
         height: 927
         isCached: true
-  - title: "Lenovo unveils new AI PC experiences powered by Intel Core Ultra processors"
-    excerpt: "Geek Stream ▾ - Lenovo unveils new AI PC experiences powered by Intel Core Ultra processors - - Absolute Geeks"
-    publishedDateTime: 2023-12-15T08:24:00Z
-    webUrl: "https://www.absolutegeeks.com/article/geek-stream/lenovo-unveils-new-ai-pc-experiences-powered-by-intel-core-ultra-processors/"
-    type: article
-    provider:
-      name: absolutegeeks.com
-      domain: absolutegeeks.com
-    quality: 37
-    images:
-      - url: "https://www.absolutegeeks.com/wp-content/uploads/2023/12/lenovo.jpg"
-        width: 940
-        height: 773
-        isCached: true
 
 secured: "scncTmJ0zKLaJwrN/Qqs9blzEEZTP5+VzFiz/DQNUqllAcoQrXvXgfXKPVXAgmF4mAbGGZ9pfNDIlgdoZXaXZ1xjbWIhw4uWMBhshRVQItMulNnoLRsFrq8yQAq7Ak9nmXg3hA7n9VXJdiL/1EOGeWy6OH95ux7pKz/ylJoOEaHtbmtZ5km8ejcpKE5DacVGOnHplVGjb6ZWHakibpgG5MtieiYgrJqBtqVch1n4PIoDd5H+sVezmvz8T7IbCfAosOA8Kq/f0BBvaHfvMBO13jzWz5HomPMtYLE1Rffq2BUqq8ej337Od40raZjh9lbux8oiMSsuRriqYWKqH6ZDCk0HuKN2aafsRUfJPAN8Drs=;ZfmKQyJY+7zkl6DDwR8hFQ=="
 ---

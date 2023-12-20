@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 757
         isCached: true
+  - title: "After Meta, Google Limits Bard And AI-Search Queries Related To Elections Ahead Of 2024 Presidential Race"
+    excerpt: "In anticipation of the 2024 U.S. Presidential election, Google, a subsidiary of Alphabet Inc. GOOG GOOGL, has decided to restrict the range of election-related queries that its AI chatbot Bard and search generative experience can answer. What ..."
+    publishedDateTime: 2023-12-20T03:15:00Z
+    webUrl: "https://www.benzinga.com/news/23/12/36319364/after-meta-google-limits-bard-and-ai-search-queries-related-to-elections-ahead-of-2024-presidential"
+    ampWebUrl: "https://www.benzinga.com/amp/content/36319364"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36319364"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 42
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/Google-Bard_2.jpeg?width=1200&height=800&fit=crop"
+        width: 618
+        height: 412
+        isCached: true
   - title: "Google to restrict election-related queries on Bard, AI-powered Search"
     excerpt: "Google will restrict certain types of election-related queries on AI chatbot Bard and AI-powered Search in preparation for the 2024 US Presidential el"
     publishedDateTime: 2023-12-20T03:20:00Z
@@ -101,6 +117,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Google to limit answers to election queries on Bard AI tool and generative search"
+    excerpt: "Google said that the restrictions will be enforced by early 2024 in the run-up to the upcoming U.S. presidential election in November 2024."
+    publishedDateTime: 2023-12-20T08:03:00Z
+    webUrl: "https://cointelegraph.com/news/google-limit-answers-election-queries-bard-ai-generative-search"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 14
 
 secured: "EGvSsA2v8zwKwNjHYoXklvNnaL0rVRTODAhdrf1Z78kfFqfI5RqYQn/Cp3j/UZz5fmuj6C26wTt9eXnUhoKp6CDc6fsINx6RtH4t6aiu4lEkaE9E29W92M+s6HXVEOJD+f/c0dUUVvztuROgGi936jcRY4urhlK3kZdbRh5LxNAVc+b5KLGSeBaLH/TaolgfX+2HKCjtAJqlSAtTxIcvhvVrsbE4LR5Ei8Mmpap8LgM3B4DgHJPItgaFaQ/CKH91YFeOiQgy0T/qGzHB7rLaAYQnX2ubI4zWAPDkmIYLdPnjO3D9VOX4yuV1GYpetkIWutdmdaRXz0euZT/4+akpwl0fo/ReGGV6kmGtAVxhfzoUtqfho+npzBerb9XrvGGiEu9TSRVBIgJkJ7kBSJWp1EBweFH5RcTA+n4eUf0Hn0lhswneBKEQ1B4DJlNhkLWP1u7eUbW64yglJc3Q6ntWlHUnIFT85cxrqFuu7xihA2LF8qpE5XyxDp4eEkVne8xkIpcxwQ+NeVCsvSGGt4wXPQ==;6ShFv/AQONjkj5Obt0uMIA=="
 ---

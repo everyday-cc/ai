@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/15/the-potent
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/15/the-potential-of-embodied-ai/amp/"
 type: article
 quality: 91
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/5ee8c0a4bcc30e0006c1d9f4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1350
+        height: 900
+        isCached: true
+  - title: "The 8 Biggest AI Moments Of 2023"
+    excerpt: "Delve into the eight monumental AI milestones of 2023 that mark a significant pivot in AI's societal integration."
+    publishedDateTime: 2023-12-20T06:35:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/12/20/the-8-biggest-ai-moments-of-2023/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/12/20/the-8-biggest-ai-moments-of-2023/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/12/20/the-8-biggest-ai-moments-of-2023/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/658298fffb7f04f064f44dda/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1353
         height: 900
         isCached: true
   - title: "The Impact of Artificial Intelligence On Real Estate Marketing"

@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2023/12/231218125850.htm"
 webUrl: "https://www.sciencedaily.com/releases/2023/12/231218125850.htm"
 type: article
 quality: 51
-heat: 71
+heat: 73
 published: true
 
 provider:
