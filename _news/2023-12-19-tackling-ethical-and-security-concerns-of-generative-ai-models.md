@@ -42,20 +42,6 @@ related:
         width: 1347
         height: 900
         isCached: true
-  - title: "16 Innovative Ways Agencies Can Leverage Generative AI In 2024"
-    excerpt: "Generative AI tools are being leveraged by agency professionals and in-house teams around the world as they seek ways to better understand and reach target audiences."
-    publishedDateTime: 2023-12-15T17:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/12/15/16-innovative-ways-agencies-can-leverage-generative-ai-in-2024/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/655e5665f16e596330a94c9e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
   - title: "Examining Generative AI's Transformative Effects"
     excerpt: "Explore the evolution of generative AI—most exemplified by ChatGPT—from record-breaking user adoption to its pivotal role in shaping the future of business."
     publishedDateTime: 2023-12-19T14:59:00Z
@@ -165,6 +151,20 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
+  - title: "Google takes steps to prevent abuse of its generative AI tools during U.S. elections"
+    excerpt: "Google LLC said today it is planning to restrict the ability of its artificial intelligence chatbot Bard and Search Generative Experience to respond to election-related queries, ahead of the U.S. Presidential election taking place next year. The restrictions will be introduced early next year, the company said."
+    publishedDateTime: 2023-12-19T23:45:00Z
+    webUrl: "https://siliconangle.com/2023/12/19/google-takes-steps-prevent-abuse-generative-ai-tools-u-s-elections/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 32
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/element5-digital-T9CXBZLUvic-unsplash-1.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "Theory Of Mind As An Emergent Property Of Generative AI Could Be A Linchpin For AI-Powered Mental Health Advisement Apps"
     excerpt: "Humans are said to possess Theory of Mind, and some say generative AI does so too. This is closely explored, along with how it pertains to AI-based mental health apps."
     publishedDateTime: 2023-12-20T11:30:00Z

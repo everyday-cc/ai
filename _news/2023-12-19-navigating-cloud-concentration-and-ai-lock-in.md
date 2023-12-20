@@ -57,6 +57,29 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 45
+  - title: "Accelerating Innovation: Open-source Software, Artificial Intelligence, and the Auto Industry"
+    excerpt: "THE RISE – AND IP RISKS – OF GENERATIVE ARTIFICIAL INTELLIGENCE The past year has seen an explosion in the advancement of generative artificial intelligence (AI) programs such as ChatGPT, but the auto industry has been using traditional and generative ..."
+    publishedDateTime: 2023-12-19T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/accelerating-innovation-open-source-8626129/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 26
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.9266_0649.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Using artificial intelligence to talk to the dead"
+    excerpt: "Some people are turning to AI technology as a way to commune with the dead, but its use as part of the mourning process has raised ethical questions."
+    publishedDateTime: 2023-12-18T13:00:00Z
+    webUrl: "https://www.seattletimes.com/business/using-artificial-intelligence-to-talk-to-the-dead/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 21
 
 secured: "kp4TDkr4zZmvpzoFQoFBLavxW3vvOYVS8ow9KpAvbq2YeIqTO4v4PD7aWuyHYdfk3UwXoHYMJAu9n1rYIdexOsty8ZckzQz5agZGRLdWojyjGo//5MIWmJz7Kov/ZL4cJHKPXLIiibOpRU4iJGJXTKKKeVkyufU9pc4Y5chjUcTUsanOSSzouUg30VPrEkUE36i8Vy0/Y2KcaFnpgrVNIEkngSA21C4dSQ2yxb4NB151RAHXcHQUZ68USsiSqv8T+k1XMKltNJo+3UGShAYFUJh/ksZiOBrBNOD7a9GTUHXziuBZWQNGloyU99v1MbXmEoYeo0nwDOqEFb+DzMOkXqeJOBBb5f3mvK7SmVamkyQP2eHr1QgsTN96WalgUIemm9CMjzEeXzgrMJqThbF9ixCjBr58FnP1DWKA61j/S/HEZXogykjWplLOxzq2ICNG0pgoEbaV8pcBtc5RqYYcOEEiAPt8FGrmFUsW05KvTcF34iJdzWh2WCiVN/8Q7j5fvmz9yLdKiReoBeO9mDyiaQ==;osuS05EaPca338Nbn8/Ksg=="
 ---

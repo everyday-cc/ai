@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "AWS Canada West (Calgary) Region goes live"
+    excerpt: "AWS said that customers focused on high availability can ... storage, networking, analytics, artificial intelligence, mobile, hybrid, media, and security, which helps to secure well-paying jobs across many new industries.”"
+    publishedDateTime: 2023-12-19T23:59:00Z
+    webUrl: "https://www.itworldcanada.com/article/aws-canada-west-calgary-region-goes-live/555447"
+    ampWebUrl: "https://www.itworldcanada.com/article/aws-canada-west-calgary-region-goes-live/555447?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/aws-canada-west-calgary-region-goes-live/555447?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 59
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2022/06/GettyImages-1320376443.jpg"
+        width: 1061
+        height: 707
+        isCached: true
   - title: "AWS Launches Second AWS Infrastructure Region In Canada; To Invest $17.9 Bln In Canada Through 2037"
     excerpt: "Amazon Web Services (AWS), an Amazon.com, Inc. company (AMZN) announced Wednesday the launch of its second AWS infrastructure Region"
     publishedDateTime: 2023-12-20T12:20:00Z

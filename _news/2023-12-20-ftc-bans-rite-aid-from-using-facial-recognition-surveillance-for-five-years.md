@@ -109,6 +109,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Rite Aid Banned From Facial Recognition Tech Use for 5 years After Faulty Theft Targeting in Stores"
+    excerpt: "Rite Aid said that it disagrees with the allegations, but that it's glad it reached an agreement to resolve the issue."
+    publishedDateTime: 2023-12-20T18:51:00Z
+    webUrl: "https://time.com/6549652/rite-aid-banned-facial-recognition-tech/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 70
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2023/12/Rite-Aid.jpg?quality=85"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Rite Aid's 'reckless' use of facial recognition got it banned from using the technology in stores"
     excerpt: "Rite Aid said in a statement that it's \"pleased to reach an agreement\" with the FTC but added that \"we fundamentally disagree with the facial recognition allegations in the agency's complaint.\" The tech was a pilot program and was only used in a \"limited ..."
     publishedDateTime: 2023-12-20T08:37:00Z
@@ -214,6 +228,6 @@ related:
       domain: wsls.com
     quality: 20
 
-secured: "1fJxrNfqyviKaefvB3GFFqVcwkOeym5a0nhEyO395ErmIS4mR3Swk/Pc6aLrd9mViP2+PY8og9kObb7hhJnJC6dozYXrNEZGRUbzfnpfN52vtm//2N7pUZ4E6URqpWTRxCJ5entq8RXVfXG26msWsj4MuB7Q6L2SLsChf6kSHU9xqgXhR891PMF/pX+9R0l1Sudk/isjBOjy1bKlR3FxvPAOB0ZWCokH+X4wd5J14DhFepMyc0rLBpSYIMvpI5BfZVJ6BA9UuxxWZ2801JWLjk9CZg804XxCwdLeURwed0GW1My854HOfflKwG6B16Td+CWl8gX05np0s2cuokikrc2O0upxaIpAyekmq5UUOX0=;pmgvj6o1cnNy476oTbe8BA=="
+secured: "+Tq/dXyNTP54jV75XuYPrEB6K76/ROs4/F9NjudeFDsMgAQ4ah0dJNG74Bt/0ogwIGBlv2k1ciP+oURSMGarEwVpOzqKdY6g3rPuoljXy5kyDcMhycKdBBOlqUqyXQ42Hj6+zV+5Rd4hQabq8lB1uIDmoGRYKThxX1DBgBWecRyWuq/5LMqqY4aap/04IvT64P5jtgW+klWxQZUM1yESrzW1J2UBfCxHCMavFJRzskWbU2bwQq8Xs1vUifwDjeEa+BLKuykdJEIm4rkMlVjmlssXPPBJpRtMu/4fwgVeLS6gkEvTHXOpMuf7p8hE4uXkIl9XAAaJDGHcx0Tff4OjUXEG7E34ExQIAzaVneLU/i7M1+YfBxKrs7oS64Vnfv1hUVag96AZDgqNL7diyXRBWO/hiDlSlQLpSagcl1sT2Uht6X/eLBXwmEsCU7bntki0CQyEe0hO5J2Rv95tHnJBBI3z5c3mXbqadwXKXX1ncdIPNPz/UYZlao3HQnT4/6V5V1Xea2EuzW2euoN/hpHcGQ==;o8TRZL5Dsvmdop6e+6QQnA=="
 ---
 

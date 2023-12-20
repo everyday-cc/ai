@@ -56,6 +56,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "9 AI Tools Every Creator Must Know About"
+    excerpt: "AI was once optional for creators, but now it’s essential. With clever use of AI tools, every creator can become known for their work on a whole new level."
+    publishedDateTime: 2023-12-19T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/jodiecook/2023/12/19/9-ai-tools-every-creator-must-know-about/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Use Copilot AI to summarize long content to improve efficiency and productivity"
     excerpt: "Using Copilot AI to summarize long content can provide measurable impact on efficiency and productivity. Enabling you to quickly gain insight"
     publishedDateTime: 2023-12-18T14:45:00Z

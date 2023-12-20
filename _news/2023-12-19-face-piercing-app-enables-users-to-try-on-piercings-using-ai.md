@@ -18,6 +18,17 @@ topics:
   - Computer Vision
   - AI
 
+related:
+  - title: "How UPS is using AI to combat package thefts"
+    excerpt: "With the holiday shipping season in high gear, the concern of lost or stolen packages is of top concern. CBS News' Janet Shamlian went inside UPS World Headquarters to see how the company is using artificial intelligence to combat package thefts."
+    publishedDateTime: 2023-12-20T14:14:00Z
+    webUrl: "https://www.cbsnews.com/video/how-ups-is-using-ai-to-combat-package-thefts/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 17
+
 secured: "lSu9fi/dHR3eJfIEGkKQFjA+KPBoN9Br3nhOpMMVGQBvVJ8oKAPDg8h/sHOtij4ZRaFMey0c5BWJTsi44WnoAEvVjzoR21pHrA12AseCXwGvqRzoQ+MzltG2L/yu4ARgJ67QySqztObdUQnjwWvHnVJVndUoQNY62NpqXmiJawXVj2Baci8FZr08K04H+9Gr6qsYcbOKOeBObDS6X1Sa+wWox9QqE60m4hXH4XBpwzTVEMiXhoeIsHpTYRlx9FGoSw4QoT83LRKwDX2B2jQqWbO419z8ZhxhCt3DUT3/WmP+5GUTKkWvNvcEAQthZMKjI6yLijH49rFen3Jik0nyn04f7HxmFKtOIvYgQOwxjiI=;HEd+So6STP7IIGeQhySsUw=="
 ---
 

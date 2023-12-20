@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/artificial-intelligence-strategy/"
 webUrl: "https://www.ibm.com/blog/artificial-intelligence-strategy/"
 type: article
 quality: 119
-heat: 139
+heat: 159
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
         width: 1080
         height: 540
         isCached: true
+  - title: "Unlocking success: Key components of a winning customer experience strategy"
+    excerpt: "Customer experience is a key part of brand identity. Here are seven components to include in your customer experience strategy.\nThe post Unlocking success: Key components of a winning customer experience strategy appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-12-20T18:00:00Z
+    webUrl: "https://www.ibm.com/blog/customer-experience-strategy/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 100
+    images:
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/12/ecc19d5b-b2b7-475c-9b7aa3034f2522f7.blog-lead-space-40x21-1.jpg"
+        width: 2400
+        height: 1260
+        isCached: true
   - title: "Types of business strategy"
     excerpt: "Today’s business environment requires leaders to use one or more types of business strategy to remain competitive.\nThe post Types of business strategy appeared first on IBM Blog.\n"
     publishedDateTime: 2023-12-18T21:54:08Z
@@ -52,7 +66,16 @@ related:
       name: IBM
       domain: ibm.com
     quality: 82
+  - title: "Business strategy examples"
+    excerpt: "A successful business strategy dictates the allocation of resources and outlines how a company will achieve its strategic goals.\nThe post Business strategy examples appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-12-20T17:36:14Z
+    webUrl: "https://www.ibm.com/blog/business-strategy-examples/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 82
 
-secured: "tlEi95M6C3tc2LsQnw+rQi3Br5ulAi05i+Vzh6wPuF3Jxmx+DcBD1SDguqaI7fc1Qv6CZg1mE3LhkXr13GEV+j2aOu7x3h1tx/XPpWy+dQ6oXG1SKmNerkOY07BHf1I1y+/gJ2UVxAtZeEckESjO4pPWuJx1CTRKKCyeisthIBTphnVHHZL9aXMWMBnV/PYktNZ+SehRgtnUTG7WruGxVQnleJrLSB9dcqe2FZt7PsZ5C343iRbE0ZLLymVj1MhASRaQJ8Dw+FiakAT1dV/7DW2HakCFarcjaF9tIlhzeAJ72x7DaSFam9XwueDoDwz55iLAWzil64MG70dvs8VZxK3EfgJ7Qk+460nGNeTSLWw=;qDnwOp4gy/bkv8oSZ6J2yw=="
+secured: "O2cCTxFtgYtCRYQAdGNEcix2HxXRwvg761gkFrGfXFRJNIh2BWtyUW23opjnIaj+ZfUAf8yZ7YhkiL0T7138DNVpgmP/GBgveyfdrsy7nP/nB5R2xxFXDwFwI4tVMRapVZfogPuJ/icCZChTm8udUv6Hry0sAaU3xZkzVksjOTW1d/tvLyX0l1W4ngsEp8WQhJDYQrivsP9tqu8x8GhK6MVFKYCXKRQcFdCeD3gWJxXfSiHjBBajV7zwtV6Uy8RmuXvLX3r0RUAYWmk2VoCOUn8DJ06rn74+E2Z2Sa7EVP/JO4ont3BcbrWBYdgvmgZOzBDEsomTmh87U7HaY/+0llswuT3faEs1Xqa0YMHj+9A=;Tf8vV7iWUFHm8sKHtYQAww=="
 ---
 

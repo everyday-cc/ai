@@ -65,15 +65,6 @@ related:
       name: Electropages
       domain: electropages.com
     quality: 19
-  - title: "Tesla Recall Little More Than A Short Detour On The Path To Full Self-Driving"
-    excerpt: "Tesla is introducing FSD12 self-driving technology, which uses neural networks to mimic human decision-making. Read more about TSLA stock here."
-    publishedDateTime: 2023-12-15T17:50:00Z
-    webUrl: "https://seekingalpha.com/article/4658120-tesla-recall-little-more-than-a-short-detour-on-the-path-to-full-self-driving"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 16
 
 secured: "uDJ6J9N/tV5QmnzQuRJCvtakYJUbt5x+eZhG8l1VscjNkcppEoscxCnglbECnhYyK1RzicoHLUYYPS5fQxxrI/DBhTaBM4XbxhNee415YpeBGAIMxMxgYCtw9HIB+khJIfcFjtC2gnUuY6rEy7C05Qzf3sQjLaJHNvQmqAN443hxwLlhKkyPCntCAs/sKqpt/rCnIoBPX4uG9ewY4b5nAOj/z7TuhsREx9+poCcwWDun7ZvB88JUUocNwotngYRgzzUpuutro+NGsGro2gSaNaKOCbpbl92jNF6EBF/GI920TqWwhp218mxw1fhfygVjfdnCu91KrYVedSJxBaC1CsjsuxJ4fEE5keXyBT7C0Us=;guV75WgnpTaWuYJmsjzzGA=="
 ---

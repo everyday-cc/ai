@@ -22,17 +22,6 @@ topics:
   - Machine Learning
   - AI
 
-related:
-  - title: "Novel machine learning tool predicts gain- and loss-of-function variants across the genome"
-    excerpt: "In a novel study, researchers from the Icahn School of Medicine at Mount Sinai introduced LoGoFunc, an advanced computational tool that predicts pathogenic gain- and loss-of-function variants across the genome."
-    publishedDateTime: 2023-12-15T18:32:00Z
-    webUrl: "https://www.news-medical.net/news/20231214/Novel-machine-learning-tool-predicts-gain-and-loss-of-function-variants-across-the-genome.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 24
-
 secured: "dPJiYNRhpJm/+rwUrjSYC8PKC9ZWWGIYc6tSY/gbR6HLkB89gDngCbJmyuCjCl5tQIM100KGJTBo7rq8XTJn2rVa296+8z5mP0HPFVbz4zfaFJMbNBYOFqMvycHBElLX9Tw6RA52DBzNliLD+YnCjt8Xw7baAQj1x3RO4ufadT3AflDxhjF0bRwyvt3WQbFFt45neJT6VJdxjX8h6LSSTAUdVs9ZNypo+YpxlQyijmToZFWnjMFJh/FV3dYXfEdrZZ7qEvhVB4RU6PkYgJCjWvHi2PD1wNkrUaNoK087q3PSxWgq+cs2davgTTexV+MdQezxTFY600YXgvNWZGigBRbamnWSG5WgsncgRZ/xsZ8=;3DmIniVg4CE6HWVpYE39JA=="
 ---
 

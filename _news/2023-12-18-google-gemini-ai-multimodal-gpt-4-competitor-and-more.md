@@ -51,20 +51,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Google’s fake Gemini AI features might become a reality on the Pixel 9"
-    excerpt: "While we have no timeframe for when these advanced AI features might arrive, a pair of reports signals it might happen as soon as next year. The Pixel 9 might feature a brand new Pixie AI assistant that could be exclusive to Pixel phones. Additionally, Google is looking at using AI tech on smart glasses, just like Meta."
-    publishedDateTime: 2023-12-15T17:23:00Z
-    webUrl: "https://bgr.com/tech/googles-fake-gemini-ai-features-might-become-a-reality-on-the-pixel-9/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 39
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/06/Google-Gemini.jpg?quality=82&strip=all"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "The state of AI development According to Google"
     excerpt: "Few advancements could cause both the excitement and fear AI elicits - according to some, it's the solution to humanity's problems. Others will tell you it's the beginning of the end of civilisation as we know it."
     publishedDateTime: 2023-12-19T12:00:00Z

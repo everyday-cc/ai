@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/aws-launches-secon
 webUrl: "https://markets.businessinsider.com/news/stocks/aws-launches-second-aws-infrastructure-region-in-canada-to-invest-17-9-bln-in-canada-through-2037-1032915610"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "AWS Canada West (Calgary) Region goes live"
+    excerpt: "AWS said that customers focused on high availability can ... storage, networking, analytics, artificial intelligence, mobile, hybrid, media, and security, which helps to secure well-paying jobs across many new industries.”"
+    publishedDateTime: 2023-12-19T23:59:00Z
+    webUrl: "https://www.itworldcanada.com/article/aws-canada-west-calgary-region-goes-live/555447"
+    ampWebUrl: "https://www.itworldcanada.com/article/aws-canada-west-calgary-region-goes-live/555447?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/aws-canada-west-calgary-region-goes-live/555447?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 59
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2022/06/GettyImages-1320376443.jpg"
+        width: 1061
+        height: 707
+        isCached: true
   - title: "AWS Launches Second Infrastructure Region in Canada"
     excerpt: "Amazon Web Services (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the launch of its second AWS infrastructure Region in Canada—th"
     publishedDateTime: 2023-12-20T11:00:00Z

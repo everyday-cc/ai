@@ -22,91 +22,66 @@ topics:
   - AI
 
 related:
-  - title: "Five open-source AI tools to know"
-    excerpt: "While open-source AI offers enticing possibilities, its free accessibility poses risks that organizations must navigate carefully.\nThe post Five open-source AI tools to know appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-12-15T17:24:27Z
-    webUrl: "https://www.ibm.com/blog/five-open-source-ai-tools-to-know/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 99
-  - title: "3 AI Trends That Every Leader Needs To Know For 2024"
-    excerpt: "As a leader or manager, you need to understand the key trends that will shape 2024 so you can make informed decisions and realign strategies for your workforce."
-    publishedDateTime: 2023-12-20T15:55:00Z
-    webUrl: "https://www.forbes.com/sites/rachelwells/2023/12/20/3-ai-trends-that-every-leader-needs-to-know-for-2024/"
-    ampWebUrl: "https://www.forbes.com/sites/rachelwells/2023/12/20/3-ai-trends-that-every-leader-needs-to-know-for-2024/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/12/20/3-ai-trends-that-every-leader-needs-to-know-for-2024/amp/"
+  - title: "How Creators Can Use AI To Be More Efficient And Still Be Creative"
+    excerpt: "According to Guy Armitage, Founder and CEO of Zealous, the AI ecosystem is moving so quickly it's hard for creators to grasp."
+    publishedDateTime: 2023-12-19T22:41:00Z
+    webUrl: "https://www.forbes.com/sites/jenniferkitepowell/2023/12/19/how-creators-can-use-ai-to-be-more-efficient-and-still-be-creative/"
+    ampWebUrl: "https://www.forbes.com/sites/jenniferkitepowell/2023/12/19/how-creators-can-use-ai-to-be-more-efficient-and-still-be-creative/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferkitepowell/2023/12/19/how-creators-can-use-ai-to-be-more-efficient-and-still-be-creative/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65830c5a747b2c0802aefa2c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
+      - url: "https://imageio.forbes.com/specials-images/imageserve/658218c6303e9bd783e9bb3e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 628
+        height: 478
         isCached: true
-  - title: "How to fine tuning Mixtral open source AI model"
-    excerpt: "Check out the fine tuning tutorial kindly created by Trelis Research to learn more about how you can find tune Mixtral and more. Watch this video on YouTube. Here are some other articles you may find of interest on the subject of Mixtral and Mistral AI ..."
-    publishedDateTime: 2023-12-20T12:08:00Z
-    webUrl: "https://www.geeky-gadgets.com/fine-tuning-mixtral/"
+  - title: "People are using artificial intelligence to create avatars of dead loved ones"
+    excerpt: "Companies like HereAfter AI and StoryFile are offering people the chance to record voice recordings and videos before they die so their family can still interact with them when they are gone"
+    publishedDateTime: 2023-12-17T08:00:00Z
+    webUrl: "https://www.mirror.co.uk/news/us-news/people-using-artificial-intelligence-create-31657680"
+    ampWebUrl: "https://www.mirror.co.uk/news/us-news/people-using-artificial-intelligence-create-31657680.amp"
+    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/us-news/people-using-artificial-intelligence-create-31657680.amp"
+    type: article
+    provider:
+      name: The Mirror
+      domain: mirror.co.uk
+    quality: 54
+    images:
+      - url: "https://i2-prod.mirror.co.uk/incoming/article31661253.ece/ALTERNATES/s1200/0_AI-robot-controlling-future-hologram-UI.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "How Banks Can Stay Resilient As AI Becomes More Disruptive"
+    excerpt: "Historically, disruption is extremely rare. Only 23 of the 568 companies included in the Fortune 500 since 1997 were under 15 years old when they entered. But right now, there are three forces converging that might transform finance and other industries."
+    publishedDateTime: 2023-12-18T13:15:00Z
+    webUrl: "https://hbr.org/2023/12/how-banks-can-stay-resilient-as-ai-becomes-more-disruptive"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 37
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2023/09/Dec23_18_BanksResilient.jpg"
+        width: 2400
+        height: 1350
+        isCached: true
+  - title: "Use Copilot AI to summarize long content to improve efficiency and productivity"
+    excerpt: "Using Copilot AI to summarize long content can provide measurable impact on efficiency and productivity. Enabling you to quickly gain insight"
+    publishedDateTime: 2023-12-18T14:45:00Z
+    webUrl: "https://www.geeky-gadgets.com/use-copilot-ai-to-summarize/"
     type: article
     provider:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
-    quality: 39
+    quality: 35
     images:
-      - url: "https://www.geeky-gadgets.com/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FEXFbZfp8xCI%2F0.jpg"
-        width: 480
-        height: 360
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/summarise-long-content-using-Microsoft-Copilot-AI-assistant.jpg"
+        width: 1280
+        height: 733
         isCached: true
-  - title: "Google takes steps to prevent abuse of its generative AI tools during U.S. elections"
-    excerpt: "Google LLC said today it is planning to restrict the ability of its artificial intelligence chatbot Bard and Search Generative Experience to respond to election-related queries, ahead of the U.S. Presidential election taking place next year. The restrictions will be introduced early next year, the company said."
-    publishedDateTime: 2023-12-19T23:45:00Z
-    webUrl: "https://siliconangle.com/2023/12/19/google-takes-steps-prevent-abuse-generative-ai-tools-u-s-elections/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 32
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/element5-digital-T9CXBZLUvic-unsplash-1.jpg"
-        width: 640
-        height: 427
-        isCached: true
-  - title: "Accelerating Innovation: Open-source Software, Artificial Intelligence, and the Auto Industry"
-    excerpt: "THE RISE – AND IP RISKS – OF GENERATIVE ARTIFICIAL INTELLIGENCE The past year has seen an explosion in the advancement of generative artificial intelligence (AI) programs such as ChatGPT, but the auto industry has been using traditional and generative ..."
-    publishedDateTime: 2023-12-19T00:00:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/accelerating-innovation-open-source-8626129/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 26
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.9266_0649.jpg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Using artificial intelligence to talk to the dead"
-    excerpt: "Some people are turning to AI technology as a way to commune with the dead, but its use as part of the mourning process has raised ethical questions."
-    publishedDateTime: 2023-12-18T13:00:00Z
-    webUrl: "https://www.seattletimes.com/business/using-artificial-intelligence-to-talk-to-the-dead/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 21
-  - title: "What senior living leaders need to know about artificial intelligence"
-    excerpt: "Senior living executives have two key decisions to make to move forward with AI-enabled solutions, according to NIC MAP Vision CEO Arick Morton."
-    publishedDateTime: 2023-12-18T05:05:00Z
-    webUrl: "https://www.mcknightsseniorliving.com/home/columns/guest-columns/what-senior-living-leaders-need-to-know-about-artificial-intelligence/"
-    type: article
-    provider:
-      name: McKnight's Senior Living
-      domain: mcknightsseniorliving.com
-    quality: 19
 
 secured: "mbqpVtHE/lgFvx8OeE00730gP+yfRv6TKSs8zd4NzDZW4FUZtVJstwO5HWtA1DF8TVAs5VQoe4zb6OMG4adtPQJ2q0mNMhG9UHTLdzgBeeu/xvFPmHRK6nbXUC20k5+yE3palBO0/UMsfqb4GJ2ylH4GL2BkM3oiFcfT46yf5lj2I2e2APULGZ9o5eQYU5+QaopIr7W0kZk1qDWh2btIfA5MYKZ94DwQVVqMeECHw1evhpkK1LCKnFCdLGLbpXUX7svjFvkNGD1ENxrVP173XPfw1tuJoUN23V994SJNtkZ8Bm42izwhlCDCh9hoNCF5+jVGBDy8duFwlRKxD746gnZFtvhCQ/1ckfTg6aWvB97SuKq4kfvImzrhg8D5Et+mlJUA2V8bcBisEWJ6h4NbRY0p7FFrLlY6qEjJwL1aL/+ysq46TiUUQogBlpQ36TOKnCa0MtI5YI0FT/+MN+1dw4Jsc1q/skw5cZbRN4E8qKVLkES1zxrRpxcWFQ9x0YR7zoMt3WTU/6baj9N7kSp8ZA==;o7S7fjyOutdnoO7JWK+4OA=="
 ---

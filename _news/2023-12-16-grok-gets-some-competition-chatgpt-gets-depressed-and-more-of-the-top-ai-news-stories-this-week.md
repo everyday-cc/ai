@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "I asked Bard and ChatGPT to plan me a trip and one result really impressed me"
+    excerpt: "I recently asked Bard and ChatGPT to plan me a fake trip. While both were able to do the job well enough, one result stood above the other."
+    publishedDateTime: 2023-12-20T18:24:00Z
+    webUrl: "https://www.androidauthority.com/bard-vs-chatgpt-trip-3395897/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 68
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Google-Bard-website-on-phone-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Further your AI ChatGPT and Python knowledge and build your own chatbot with this mega bundle, now $29.97"
     excerpt: "Take on the rising world of AI with The 2023 Ultimate AI ChatGPT & Python Programming Bundle, now on sale for only $29.97 through Christmas."
     publishedDateTime: 2023-12-18T16:46:00Z
@@ -67,20 +81,6 @@ related:
       - url: "https://www.inferse.com/wp-content/uploads/2023/12/wp-header-logo-8704.png"
         width: 1200
         height: 675
-        isCached: true
-  - title: "ChatGPT-maker OpenAI hosts first big tech showcase as AI startup faces growing competition – CBS News"
-    excerpt: "Eventually, you’ll just ask the computer for what you need and it’ll do all of these tasks for you,” said OpenAI CEO Sam Altman to a cheering crowd of more than 900 software developers and other attendees."
-    publishedDateTime: 2023-12-15T18:23:00Z
-    webUrl: "https://www.inferse.com/840979/chatgpt-maker-openai-hosts-first-big-tech-showcase-as-ai-startup-faces-growing-competition-cbs-news/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 39
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/12/wp-header-logo-8281.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Google’s Bard vs OpenAI’s ChatGPT: Which of the rival AI chatbots is better? – Euronews"
     excerpt: "Google’s answer to ChatGPT is here - but is it as good as OpenAI’s global phenomenon? Euronews Next put them through their paces. Google has made its"

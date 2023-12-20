@@ -53,15 +53,6 @@ related:
         width: 476
         height: 250
         isCached: true
-  - title: "This fintech startup wants to help you make climate-forward investments"
-    excerpt: "Harlem-headquartered GreenPortfolio has launched a platform that seeks to arm individual investors with climate-conscious data to help inform their financial decisions."
-    publishedDateTime: 2023-12-15T18:33:00Z
-    webUrl: "https://www.crainsnewyork.com/climate/new-york-city-fintech-startup-wants-help-you-make-climate-forward-investments"
-    type: article
-    provider:
-      name: Crain's New York
-      domain: crainsnewyork.com
-    quality: 4
 
 secured: "JJs6FpdlrT/L2qQ4wXHUVA5RCGnLZ6FCB0zWLWJIjI7dkPdrg+ybzqwn/I/XoRNoOqz2egRxntt/pnKMiyc+qpwaUgOkW/JORcjabrLtzp+0vumrsJKRrH3GA5j07WnoVmqOUnM14Su32VwUuxybuocpBUgYT3DyutM1bFp9DcClCLX3o36rLfs7tkAe0x3QblAjCLIFzNqL69Glv76juF1ab9Mt6Mcu0LrIge8ojc/0kFMHZXcbq46MuuXyPvHFC4p0Xis3pX0fOru7rE8pzyHCQ6fNClOykpZWHUS4bxDSv2LJVxHEbcHwkhlb+DJTW6QKasQXMg97QmLXK8OaCFCqh2Aa24FA1d2wW9YiXtcSz9intupf+7nx8wx3bG0FD3HA6VQF4rWj21MUWqyrIbME6FKkxU3EZT/8g830r5JB8phfsxWLo1i1MnwttRCEyozKgDWfHp5ao1kx7+PdzjXHdCDPB02jDrJxRzj+WEh3OaZb2HvYHFXuQCNVy9ZqpNQses9iQuerELkWdiAKvw==;ccs5f3rCQlSmKUyGIHGidg=="
 ---

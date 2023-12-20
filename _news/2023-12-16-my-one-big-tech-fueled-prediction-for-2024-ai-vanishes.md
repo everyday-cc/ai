@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/12/16/my-one-big-tec
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/12/16/my-one-big-tech-fueled-prediction-for-2024-ai-vanishes/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "7 Best Free AI Transcribers For 2024: Ranked & Reviewed"
-    excerpt: "You don't need to pay a premium for a quality transcription service. Here's a roundup of our favorite free platforms."
-    publishedDateTime: 2023-12-15T18:43:00Z
-    webUrl: "https://tech.co/news/best-free-ai-transcribers"
-    type: article
-    provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 54
-    images:
-      - url: "https://images.tech.co/wp-content/uploads/2023/12/15131021/AdobeStock_690500744_Editorial_Use_Only-1.jpeg"
-        width: 1920
-        height: 1281
-        isCached: true
   - title: "VC And Startup Predictions 2024: Bitcoin, AI, And Frugal Entrepreneurs"
     excerpt: "Many VCs and startups will be happy to see the back of 2023, but what does 2024 have in store for the ecosystem?"
     publishedDateTime: 2023-12-18T12:56:00Z

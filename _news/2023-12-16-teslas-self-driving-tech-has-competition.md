@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/business/autos/teslas-self-driving-tech-has-co
 webUrl: "https://www.wsj.com/business/autos/teslas-self-driving-tech-has-competition-249fb3e2"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -68,15 +68,6 @@ related:
       name: Electropages
       domain: electropages.com
     quality: 19
-  - title: "Tesla Recall Little More Than A Short Detour On The Path To Full Self-Driving"
-    excerpt: "Tesla is introducing FSD12 self-driving technology, which uses neural networks to mimic human decision-making. Read more about TSLA stock here."
-    publishedDateTime: 2023-12-15T17:50:00Z
-    webUrl: "https://seekingalpha.com/article/4658120-tesla-recall-little-more-than-a-short-detour-on-the-path-to-full-self-driving"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 16
 
 secured: "vrY2AX9ShPJpxT25GHWrAtgcNGoB4j66Zjcd6MS26GOp5VQXlY+Ma9oOp37cb/1zwpCrQ3OLu9Ru0fWsUwIZxvxYhKbpZ/N0u18iQ8pgynnToZJI8NvWK+RAN2ay3TIdvjp/Z7Pe95jeqJTcVRWsM8xu+HkCw1pRAL00Tv+CHHQNyw/B+ovh8rJysh+TihtodIfTO8u/P8nJT5HZK2tgHx0zdgGXIuCic7wmG8znK88Zjcs59CWKQy+ZDYSxb6GEoEYBCp0yWsRE1BDO7I2amOg3KagG5ifbEfGcNW0/xtLQNBnfYBtvsQdc61fGJdNtiK9iq2PwSjzEmmpHfsJGALNlYopH9sreGtQBFnxfRUM=;ZbQpFmXANdqfXLD/IwFVOA=="
 ---

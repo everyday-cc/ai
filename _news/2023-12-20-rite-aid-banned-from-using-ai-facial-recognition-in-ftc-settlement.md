@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/rite-aid-banned-from-using-ai-
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/rite-aid-banned-from-using-ai-facial-recognition-in-ftc-settlement-73ac5f45"
 type: article
 quality: 104
-heat: 234
+heat: 244
 published: true
 
 provider:
@@ -108,6 +108,20 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-195584,msid-106140432/rite-aid-facial-recognition.jpg"
         width: 600
         height: 450
+        isCached: true
+  - title: "Rite Aid Banned From Facial Recognition Tech Use for 5 years After Faulty Theft Targeting in Stores"
+    excerpt: "Rite Aid said that it disagrees with the allegations, but that it's glad it reached an agreement to resolve the issue."
+    publishedDateTime: 2023-12-20T18:51:00Z
+    webUrl: "https://time.com/6549652/rite-aid-banned-facial-recognition-tech/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 70
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2023/12/Rite-Aid.jpg?quality=85"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Rite Aid's 'reckless' use of facial recognition got it banned from using the technology in stores"
     excerpt: "Rite Aid said in a statement that it's \"pleased to reach an agreement\" with the FTC but added that \"we fundamentally disagree with the facial recognition allegations in the agency's complaint.\" The tech was a pilot program and was only used in a \"limited ..."

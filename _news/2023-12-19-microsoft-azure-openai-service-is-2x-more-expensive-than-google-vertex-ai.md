@@ -71,20 +71,6 @@ related:
         width: 1600
         height: 1000
         isCached: true
-  - title: "Microsoft Cloud for Sovereignty now available across all Azure regions"
-    excerpt: "The Microsoft Cloud for Sovereignty service is now available across all Azure regions. The company said governments across the world will now be able to use Microsoft Cloud across more than 60 Azure cloud regions while meeting individual compliance, security, and policy requirements."
-    publishedDateTime: 2023-12-15T17:39:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-cloud-for-sovereignty-now-available-across-all-azure-regions/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 69
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft unveils powerful AI 'Compact Language Model' tailored for research applications"
     excerpt: "Our line of work with the Phi models aims to answer this question by training SLMs that achieve performance on par with models of much higher scale (yet still far from the frontier models).”"
     publishedDateTime: 2023-12-17T09:21:00Z

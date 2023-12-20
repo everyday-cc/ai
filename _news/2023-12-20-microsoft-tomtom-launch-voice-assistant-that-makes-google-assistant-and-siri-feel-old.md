@@ -71,20 +71,6 @@ related:
         width: 1600
         height: 1000
         isCached: true
-  - title: "Microsoft Cloud for Sovereignty now available across all Azure regions"
-    excerpt: "The Microsoft Cloud for Sovereignty service is now available across all Azure regions. The company said governments across the world will now be able to use Microsoft Cloud across more than 60 Azure cloud regions while meeting individual compliance, security, and policy requirements."
-    publishedDateTime: 2023-12-15T17:39:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-cloud-for-sovereignty-now-available-across-all-azure-regions/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 69
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft Azure OpenAI Service is 2x More Expensive than Google Vertex AI"
     excerpt: "When compared with Microsoft Azure OpenAI Service advanced models, say GPT-4, especially for training, it's two times more expensive than Vertex AI. For instance, Vertex AI training costs range from $0."
     publishedDateTime: 2023-12-19T07:00:00Z
@@ -398,6 +384,6 @@ related:
       domain: cnbctv18.com
     quality: 19
 
-secured: "wl6erD1ObHI+i4RBqSW+Y6TH8vZgVHgWwUAeDazvxAGou9KUEShimuNpDOVIVfOGjaxZgGDJCM3AZGS74Jo8VBi+Rj7pGPu9rOYD1isUkbk66jmMcn035tIkXGx5SrYFAQJ6i73lqIRF8wVUIpOS4tYvy2mxHIEfnAUx8GXcVZj83s0pRwOW4Jrnb4zSlQL/9Gak4phvXznJs49kdDTtl8a4AfVuHrMXLCO8RG4axv76GTx89d0hTWXPXFkp0ocaLsFq5TfnR6gEacr02wJgNsFHvvseiAo2XLcci0Cuax5A3ZDz7Y/kQVBQUlB8GFJsLHJIwah+Tpw/E6+t73wkN/gXbThEvXIWspheknskhF8=;TPPZMyQSLqzrQetOj6MzCQ=="
+secured: "7RneOrSnnpQpwUOpf0R9KesXZNX6jMB0yWrwtTyW5Ev7Qwx7D3KYun4ClGpJa26Z3VYv7vJrVQmkg9dIMDU8GD/qZtyOVfvSKA8AQz+8vZl7QaQtw08Z27GWwThOrp/Tll+jAU8HyUF4nbp0P/CCZkhmEyLw/V+7eqXoZlYPEB54O+tRQaUW2npgrMM7FwAunyA0H9cYgb5Z6mxuI7dGdbiFz3RKtutHBuXX7qsg3J/HmraBpKvIdnxNfv4fXSOKrJIGm1wIuTIuUqKRKx6gpXtlr6U8FZ+3Bke8LltpwElN0ySTWsqBWei7NMXYynNLSjMIx1xnX/3v9Nv1lRU9JRp/jHcStalT2PaWKb2ORFlmI52WKfoCM6CKM+Qz5aodirh/acTEN3bYb135+Y8YKipeIbXwOcZPt6He7Xrvb1hBNQXbHRxEBU7VHT5kb6LpsFr/FjA7+YpndF7me+JdzZk2BgmlQkkHkf2EkPlbPpvbDL5abUeXZClUzPOcqZv+nK47jkOgi4LPDK/yFWoZdA==;Aq8dYjn73gSTqRbytXRUmg=="
 ---
 

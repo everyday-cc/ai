@@ -121,6 +121,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Rite Aid Banned From Facial Recognition Tech Use for 5 years After Faulty Theft Targeting in Stores"
+    excerpt: "Rite Aid said that it disagrees with the allegations, but that it's glad it reached an agreement to resolve the issue."
+    publishedDateTime: 2023-12-20T18:51:00Z
+    webUrl: "https://time.com/6549652/rite-aid-banned-facial-recognition-tech/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 70
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2023/12/Rite-Aid.jpg?quality=85"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "FTC bans Rite Aid from using facial recognition technology"
     excerpt: "The Rite Aid pharmacy chain can’t use facial recognition technology to identify customers for five years after a Federal Trade Commission investigation found the company inappropriately used it to criminally profile customers. The FTC described Rite Aid ..."
     publishedDateTime: 2023-12-19T23:59:00Z

@@ -43,6 +43,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "3 AI Trends That Every Leader Needs To Know For 2024"
+    excerpt: "As a leader or manager, you need to understand the key trends that will shape 2024 so you can make informed decisions and realign strategies for your workforce."
+    publishedDateTime: 2023-12-20T15:55:00Z
+    webUrl: "https://www.forbes.com/sites/rachelwells/2023/12/20/3-ai-trends-that-every-leader-needs-to-know-for-2024/"
+    ampWebUrl: "https://www.forbes.com/sites/rachelwells/2023/12/20/3-ai-trends-that-every-leader-needs-to-know-for-2024/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/12/20/3-ai-trends-that-every-leader-needs-to-know-for-2024/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65830c5a747b2c0802aefa2c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "VCs predict the AI trends that will transform e-commerce in 2024"
     excerpt: "It was a tough year for startups, and for e-commerce. These VC firms are still funding startups in the space."
     publishedDateTime: 2023-12-18T10:00:00Z

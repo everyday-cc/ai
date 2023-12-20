@@ -29,19 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Use Amazon DocumentDB to build no-code machine learning solutions in Amazon SageMaker Canvas"
-    excerpt: "We are excited to announce the launch of Amazon DocumentDB (with MongoDB compatibility) integration with Amazon SageMaker Canvas, allowing Amazon DocumentDB customers to build and use generative AI and machine learning (ML) solutions without writing code. Amazon DocumentDB is a fully managed native JSON"
-    publishedDateTime: 2023-12-15T17:51:37Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/use-amazon-documentdb-to-build-no-code-machine-learning-solutions-in-amazon-sagemaker-canvas/"
+  - title: "Llama Guard is now available in Amazon SageMaker JumpStart"
+    excerpt: "Today we are excited to announce that the Llama Guard model is now available for customers using Amazon SageMaker JumpStart. Llama Guard provides input and output safeguards in large language model (LLM) deployment. It’s one of the components under Purple Llama, Meta’s initiative featuring open trust"
+    publishedDateTime: 2023-12-20T18:20:44Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/llama-guard-is-now-available-in-amazon-sagemaker-jumpstart/"
     type: article
     provider:
       name: AWS
       domain: aws.amazon.com
-    quality: 95
+    quality: 104
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/12/15/documentdb-sagemaker.jpg"
-        width: 1006
-        height: 501
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/12/20/llama-guard-sagemaker.jpg"
+        width: 1010
+        height: 504
         isCached: true
 
 secured: "Fd549NOmlbRbxVtAVIbJ2EjbEZtH7JPf/g0O9uJE/le8BamvTjFImZ5sf0P58C2Enapzs8hoCHkU8Llw56BeMBN/T08+9dyWZdL5B2jYKcS2BIJzQfuBf7t8E2WM+J+j7u+N3k8Yn/Uw7ensksHwKOW0lxOqK6vbEudyA+TBBuA2QB8X/eCHeDuOwPBs1Kpu2AXULy8XoQy5jjqmG0xsHQNemUnE5uDpJ1sfiNy72x6CrBGno7RGP0hy70oHkcvQydjdiB9THzJ5zQ2D5iUUWYq3OwaWWdaplSqs+c7t4d+0FvEu4bpJy9OQ1wxFQAgSos98HSjZJ7rJ7yGKImnS5990a8FWja/mCvKpMZAr7YY=;4D/TBK/U8ZZeIctgUsT4tw=="

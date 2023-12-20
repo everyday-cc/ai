@@ -50,6 +50,29 @@ related:
         width: 1080
         height: 540
         isCached: true
+  - title: "Unlocking success: Key components of a winning customer experience strategy"
+    excerpt: "Customer experience is a key part of brand identity. Here are seven components to include in your customer experience strategy.\nThe post Unlocking success: Key components of a winning customer experience strategy appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-12-20T18:00:00Z
+    webUrl: "https://www.ibm.com/blog/customer-experience-strategy/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 100
+    images:
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/12/ecc19d5b-b2b7-475c-9b7aa3034f2522f7.blog-lead-space-40x21-1.jpg"
+        width: 2400
+        height: 1260
+        isCached: true
+  - title: "Business strategy examples"
+    excerpt: "A successful business strategy dictates the allocation of resources and outlines how a company will achieve its strategic goals.\nThe post Business strategy examples appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-12-20T17:36:14Z
+    webUrl: "https://www.ibm.com/blog/business-strategy-examples/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 82
 
 secured: "85IkgBVUIA6piUGOkZqX5ZR9W7hewDusyjpO4xWKTyI7Xjnnv0LmdNyhWdSsI5PB/A4WxGoKGWyAZIhrSJlA1mOubyrUkFZdQ0OdWZ6zWov7mem+bHsfs6LSgMjvtsXWWXjXFwg8u1y+za+wOqx0iPg3XAVlLJXIC+UcfWBzYOFyFxu7vJC/8yzrTerbS0/zrTrCBZiFVMvKubSs2+YSPkVdQUGRPxtI3/zYmBLUNJffEaZFViZ86eEIY6vjjoAx7gXbEkOpA3WzhtNrBc5OCTopi79tFno7dMPK+FFbm6zy30NKFj9v5z7OWbQJ8LfhzmeHjYJQgMNGMM4vUOoSKsWcDtN/FxZiY72rdb4TRkg=;IoCg205wsXwqmMVRLzgbtg=="
 ---

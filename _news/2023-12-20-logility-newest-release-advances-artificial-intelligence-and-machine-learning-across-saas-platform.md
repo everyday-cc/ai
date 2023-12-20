@@ -18,6 +18,17 @@ topics:
   - Machine Learning
   - AI
 
+related:
+  - title: "Logility Newest Release Advances Artificial Intelligence and Machine Learning Across SaaS Platform"
+    excerpt: "Logility, Inc., a leader in prescriptive supply chain planning solutions, today announced new functionality to its cloud-based (SaaS) Logility® Digita"
+    publishedDateTime: 2023-12-20T17:28:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231220033753/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 20
+
 secured: "p8j1SYveK+vUBl6+GGbcLR8IzlSdO4d1MO5cuUjZM5m1BduHZC0TSgv7B44E0XZe4kEwGi2qmmC/efEPNbtHFeZVCXcuUmLwccz/HoWrF1me+1RT0XfzoWLPqdEgCJPWxAms1U/V/S6d+4yM2byO8WqmxSMxNELQ9l4WhZwu7x9eOztMD2RtO9RZFPYS+Ff8mfQZlHW+Q6y17u8QqixcJQJZb/FvSdxp0pterWRSDevP8W7AmfRYIbFuPRe/KGM1oCzGKe1O5B3MRXtFiqXSDyS7qkNAYwHW+Qoh3s6BHoRMQlU9sm13uzB82tz3Kw5Al0bsb3jBxlajCHVr/Gwa+ZraXA4tjXBJjtqJ2FFCwuM=;84bDj+wcjVgcDWEoVc8A1Q=="
 ---
 

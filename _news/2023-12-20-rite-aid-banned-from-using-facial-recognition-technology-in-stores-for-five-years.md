@@ -119,6 +119,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Rite Aid Banned From Facial Recognition Tech Use for 5 years After Faulty Theft Targeting in Stores"
+    excerpt: "Rite Aid said that it disagrees with the allegations, but that it's glad it reached an agreement to resolve the issue."
+    publishedDateTime: 2023-12-20T18:51:00Z
+    webUrl: "https://time.com/6549652/rite-aid-banned-facial-recognition-tech/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 70
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2023/12/Rite-Aid.jpg?quality=85"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Rite Aid's 'reckless' use of facial recognition got it banned from using the technology in stores"
     excerpt: "Rite Aid said in a statement that it's \"pleased to reach an agreement\" with the FTC but added that \"we fundamentally disagree with the facial recognition allegations in the agency's complaint.\" The tech was a pilot program and was only used in a \"limited ..."
     publishedDateTime: 2023-12-20T08:37:00Z
@@ -210,6 +224,6 @@ related:
       domain: wsls.com
     quality: 20
 
-secured: "fyn2UDQGdMhXJxmuJ6BiiAGItLJgqYi+hZIJ7VYh1sDa5C/Ub3bwy2xzWNysHSY/t/O87Ak6vvv3PNQfuwfrsv0vGZR3lW4/m7MFY5OHPx18UGJrJfSk4CO6WJu+zYQ+NbkEGYuFGGc80n/CqOvvMuaoBHsZm114UTaJLi9Sa7ItOFRo7882wxU+UGQh92vTPcnu86HBB+b097UPuu7OwZmLvbZM1S1VNJ3zp0BZbKn0WeAL4mfF3Lh3fcQMO+/QscJQ1Zt3JzwstVVo/MO3YjgtjloVSzyeyvrfi1XlbxnG7fv+WsZVxaEpVu8w2o94wH3GUU1SPwKZhMGz91PcC6rcctkHMGS3RnJUUFvSADE=;U5sq2JgExiFU/BUqpeBAkg=="
+secured: "9Jf2Yo0rgsr1XroE/IqC0gvSVnIEAFfP1AzdTiO5YxbZHDuQg3AXZpK7pNZhKjBNeGgQAqS0Z7x0kKSjnMypiGlpWZ1/3+KyvH3plk+miiig6y5GzIZYUQ82lHfh1x/MIEADFiLW5IxKr2oI9pry9OSYtOzdCEvohmoM7B/EtVgChI87vN4Sb3qvCJkZUjGwA3/wRqkKFnfcSK5eRuLtoowXrJPJmokf4PAZqiWqv2j8xKmUMdO66BXWzWElceoItGhjDhaPcihMxwEBaqmmt2uMnbYb9hGXngKbsebbnrUAR2qii4lUzckb2e8We15xxbwSP9jflMIBiv1JHlheA4mYoNDFv/klrovIBMWAQzCP6s7qIyvig7e0sTrpe4ZlC1vS4pjWO6ZuomKh05u4uH9xuIhlxop5K4PsoI1U2DB9LGaWxsFRMr44saMIK9WT+BdnVPQwzpT2jqWk8i/Wl1fGCYR9S8kYCJlYuzY82bwj88mr4H4UQBu3L8oDNqbDU+9c7dUeuSvIn8n57p0PdA==;tzFTlEnzZFKZnwjcRRdNQQ=="
 ---
 

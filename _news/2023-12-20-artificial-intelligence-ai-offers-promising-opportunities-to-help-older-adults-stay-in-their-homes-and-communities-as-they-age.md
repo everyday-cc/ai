@@ -6,8 +6,8 @@ publishedDateTime: 2023-12-20T15:14:00Z
 originalUrl: "https://press.aarp.org/2023-12-20-AI-Offers-Promising-Opportunities-Help-Older-Adults-Stay-Homes-Communities"
 webUrl: "https://press.aarp.org/2023-12-20-AI-Offers-Promising-Opportunities-Help-Older-Adults-Stay-Homes-Communities"
 type: article
-quality: 7
-heat: 7
+quality: 5
+heat: 5
 published: false
 
 provider:
@@ -15,10 +15,9 @@ provider:
   domain: aarp.org
 
 topics:
-  - AI in Healthcare
-  - AI
   - AI in Robotics
+  - AI
 
-secured: "DDfHYfkRaUQ7vw++i0H026YpNCcW8NxEz5a0I6wxXLHPgRSVBeRtiNiMaEKLPgegh0UVYyE48468UGdXTvbWXRrW2MsjtB2I758ayy5A1lSHa2OmE18bWJwFceYqLFaoQhenlpUDi8j+5n3a0YBV5e/xKdfiuWpE/GKF58QZRjVSEfY8HaMoIFJ2ibw84/+Ah1SEBLtfJxShW4UAYvo5FoZz5D+velYJN+8F5bngBeqozAutT95v7zsgFzLrw2/oGcHdEnnmm42BmQYotl76uU+7lErFeSdx7+3KM6Ja/gAULklfrFbGobZCFKPJVb/4xvQKL6+DL3/KF07dwOvQkJsP4IP/QvaAKVQcih6HaP4=;Rc+6n0WdiGkfnMwA/auo6Q=="
+secured: "oSs4oUdn1dKn2Map/celym/49kdH54WgfXy26hwR4h3ngAGWfMRNQId4X3fTwE4MtMOXvqsCBJOYajfrgQFkRob3lm/Lt+dW2ivTyMpRVi7SnpjOUWHauLUlz3O2RnjN+QLRpCbjP/5woqu2GPECWteqF5aoF+91/8SBfYfMbPDUraRHriA1exjUn82nY/fhwAA6cXrw1Uiv+Zvbe++R33zGqApzaENG0N8A9Q1s3IBlmikTXVP7dVUFIkVNcMJGFjB5Vtp/Cq67Q3k7qVFtr17SGfPjIvmXT/T5Sx4U9BtRll7uxcgCvpN3Hlv5rTqBd8HDp0sS/9vEiy0e3/dkfqmSpe5ZCxEQSVN+HgpOqUY=;ssoyKaDGKC0CN7IHbRwWPQ=="
 ---
 

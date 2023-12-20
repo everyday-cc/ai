@@ -24,68 +24,49 @@ images:
     isCached: true
 
 related:
-  - title: "Five open-source AI tools to know"
-    excerpt: "While open-source AI offers enticing possibilities, its free accessibility poses risks that organizations must navigate carefully.\nThe post Five open-source AI tools to know appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-12-15T17:24:27Z
-    webUrl: "https://www.ibm.com/blog/five-open-source-ai-tools-to-know/"
+  - title: "5 things to know: Driving innovation with AI and hybrid cloud in the year ahead"
+    excerpt: "The rise of generative AI, evolving regulations and data sovereignty laws, and ongoing security challenges should be top of mind.\nThe post 5 things to know: Driving innovation with AI and hybrid cloud in the year ahead appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-12-18T17:13:44Z
+    webUrl: "https://www.ibm.com/blog/5-things-to-know-driving-innovation-with-ai-and-hybrid-cloud-in-the-year-ahead/"
     type: article
     provider:
       name: IBM
       domain: ibm.com
-    quality: 99
-  - title: "3 AI Trends That Every Leader Needs To Know For 2024"
-    excerpt: "As a leader or manager, you need to understand the key trends that will shape 2024 so you can make informed decisions and realign strategies for your workforce."
-    publishedDateTime: 2023-12-20T15:55:00Z
-    webUrl: "https://www.forbes.com/sites/rachelwells/2023/12/20/3-ai-trends-that-every-leader-needs-to-know-for-2024/"
-    ampWebUrl: "https://www.forbes.com/sites/rachelwells/2023/12/20/3-ai-trends-that-every-leader-needs-to-know-for-2024/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/12/20/3-ai-trends-that-every-leader-needs-to-know-for-2024/amp/"
+    quality: 95
+  - title: "Navigating cloud concentration and AI lock-in"
+    excerpt: "All the worry over technical debt and the risks of cloud vendor lock-in has spread to AI, only the stakes are now much higher."
+    publishedDateTime: 2023-12-19T10:02:00Z
+    webUrl: "https://www.infoworld.com/article/3711745/navigating-cloud-concentration-and-ai-lock-in.html"
+    ampWebUrl: "https://www.infoworld.com/article/3711745/navigating-cloud-concentration-and-ai-lock-in.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711745/navigating-cloud-concentration-and-ai-lock-in.amp.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: InfoWorld
+      domain: infoworld.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65830c5a747b2c0802aefa2c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/07/11/20/level_bolt_doorentry_handopening-100943200-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "9 AI Tools Every Creator Must Know About"
-    excerpt: "AI was once optional for creators, but now it’s essential. With clever use of AI tools, every creator can become known for their work on a whole new level."
-    publishedDateTime: 2023-12-19T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/jodiecook/2023/12/19/9-ai-tools-every-creator-must-know-about/"
+  - title: "EU’s Sweeping New AI Act Could Be An Innovation Killer"
+    excerpt: "The European Union's draft AI law emerges amidst rising concerns among EU member states that regulations could choke off innovation."
+    publishedDateTime: 2023-12-15T19:54:00Z
+    webUrl: "https://www.forbes.com/sites/jamesbroughel/2023/12/15/eus-sweeping-new-ai-act-could-be-an-innovation-killer/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "How to fine tuning Mixtral open source AI model"
-    excerpt: "Check out the fine tuning tutorial kindly created by Trelis Research to learn more about how you can find tune Mixtral and more. Watch this video on YouTube. Here are some other articles you may find of interest on the subject of Mixtral and Mistral AI ..."
-    publishedDateTime: 2023-12-20T12:08:00Z
-    webUrl: "https://www.geeky-gadgets.com/fine-tuning-mixtral/"
+  - title: "Breathing new life into fight to save the seas with artificial intelligence"
+    excerpt: "It’s hard to imagine our planet without its oceans – their vast scale and depth, teeming with life. They’re also critical to tackling the climate crisis by storing vast quantities of carbon dioxide. But securing and expanding their stores of carbon depends on us being able to locate those stores and assess how healthy they are."
+    publishedDateTime: 2023-12-18T14:57:00Z
+    webUrl: "https://www.reuters.com/sustainability/land-use-biodiversity/breathing-new-life-into-fight-save-seas-with-artificial-intelligence-2023-12-18/"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FEXFbZfp8xCI%2F0.jpg"
-        width: 480
-        height: 360
-        isCached: true
-  - title: "Google takes steps to prevent abuse of its generative AI tools during U.S. elections"
-    excerpt: "Google LLC said today it is planning to restrict the ability of its artificial intelligence chatbot Bard and Search Generative Experience to respond to election-related queries, ahead of the U.S. Presidential election taking place next year. The restrictions will be introduced early next year, the company said."
-    publishedDateTime: 2023-12-19T23:45:00Z
-    webUrl: "https://siliconangle.com/2023/12/19/google-takes-steps-prevent-abuse-generative-ai-tools-u-s-elections/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 32
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/element5-digital-T9CXBZLUvic-unsplash-1.jpg"
-        width: 640
-        height: 427
-        isCached: true
+      name: Reuters
+      domain: reuters.com
+    quality: 45
   - title: "Using artificial intelligence to talk to the dead"
     excerpt: "Some people are turning to AI technology as a way to commune with the dead, but its use as part of the mourning process has raised ethical questions."
     publishedDateTime: 2023-12-18T13:00:00Z
@@ -95,15 +76,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 21
-  - title: "What senior living leaders need to know about artificial intelligence"
-    excerpt: "Senior living executives have two key decisions to make to move forward with AI-enabled solutions, according to NIC MAP Vision CEO Arick Morton."
-    publishedDateTime: 2023-12-18T05:05:00Z
-    webUrl: "https://www.mcknightsseniorliving.com/home/columns/guest-columns/what-senior-living-leaders-need-to-know-about-artificial-intelligence/"
-    type: article
-    provider:
-      name: McKnight's Senior Living
-      domain: mcknightsseniorliving.com
-    quality: 19
 
 secured: "czpZHh1yxFcUA//oCQrPKz0m9fr1gN+M5Ndb+zA4q/CZr9ubfuEZmbjzPv2ppsN5DSg6WJqQ9fuJgBHFzhSDcE6OL793meNFxPZWNgN1acbTWPMV22kadJE93B06rlpaYUWnpNMyENzwebVzxk7c9NdSi2QhEsltWGxTzga7jIths3fKZnMnPF1ZdcZT5q4sZvA5k+DuYmEF9F+2PuQXri+xroAdPvnW6VNiwhIh84fFcd6hzl2wvB2fAoPqtTLOJzkfjtaIJHzxaSHQbuCmCRy4ZxpieA/TWMk5R4NBzx2Z8BcqZ99qZJJJRZxZ/fTthTVcHEQAcb7kqJOauBMPBAX7I9viL2vK1kOQj4KuaNU=;vVohr3G1Z4KfTqkFqy0eJg=="
 ---

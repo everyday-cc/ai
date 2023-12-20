@@ -38,20 +38,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "7 Best Free AI Transcribers For 2024: Ranked & Reviewed"
-    excerpt: "You don't need to pay a premium for a quality transcription service. Here's a roundup of our favorite free platforms."
-    publishedDateTime: 2023-12-15T18:43:00Z
-    webUrl: "https://tech.co/news/best-free-ai-transcribers"
-    type: article
-    provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 54
-    images:
-      - url: "https://images.tech.co/wp-content/uploads/2023/12/15131021/AdobeStock_690500744_Editorial_Use_Only-1.jpeg"
-        width: 1920
-        height: 1281
-        isCached: true
   - title: "Bill Gates’ predictions for 2024: fewer undernourished kids, more AI"
     excerpt: "In what's become a year-end tradition, Microsoft co-founder Bill Gates has offered his predictions for the year ahead. Spoiler: Gates says AI is a big deal in 2024."
     publishedDateTime: 2023-12-19T04:01:00Z

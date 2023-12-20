@@ -19,47 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "The 8 Biggest AI Moments Of 2023"
-    excerpt: "Delve into the eight monumental AI milestones of 2023 that mark a significant pivot in AI's societal integration."
-    publishedDateTime: 2023-12-20T06:35:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/12/20/the-8-biggest-ai-moments-of-2023/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/12/20/the-8-biggest-ai-moments-of-2023/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/12/20/the-8-biggest-ai-moments-of-2023/amp/"
+  - title: "NVDA, AMD, MU: Which Chip Stock is the Best Buy for 2024?"
+    excerpt: "Today, the stage still seems set for some type of slowdown in 2024, but don’t expect investors to ignore the top AI-powered semiconductor/chip stocks — NVDA, AMD, and MU — as they continue to meet a demand that can only be described as hot."
+    publishedDateTime: 2023-12-20T00:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nvda-amd-mu-which-chip-stock-is-the-best-buy-for-2024-1032915674"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/658298fffb7f04f064f44dda/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1353
-        height: 900
+      - url: "https://blog.tipranks.com/wp-content/uploads/2023/12/image-494-1024x346.png?utm_source=markets.businessinsider.com&utm_medium=referral"
+        width: 1024
+        height: 346
         isCached: true
-  - title: "How Will AI Revolutionize Talent Assessments In 2024?"
-    excerpt: "For decades, companies have relied heavily on selection tools like psychometrics (e.g. ability tests, personality assessments, work preference inventories), competency-based assessments (e.g. situational judgment tests),"
-    publishedDateTime: 2023-12-18T22:48:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/happybytes/202312/how-will-ai-revolutionize-talent-assessments-in-2024"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/happybytes/202312/how-will-ai-revolutionize-talent-assessments-in-2024?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/happybytes/202312/how-will-ai-revolutionize-talent-assessments-in-2024?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 57
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-12/pexels-google-deepmind-17483868.jpg?h=4f52e0ef&itok=0WmKPJMA"
-        width: 1528
-        height: 800
-        isCached: true
-  - title: "A song of hype and fire: The 10 biggest AI stories of 2023"
-    excerpt: "\"Here, There, and Everywhere\" isn't just a Beatles song. It's also a phrase that recalls the spread of generative AI into the tech industry during 2023. Whether you think AI is just a fad or the dawn of a new tech revolution, it's been impossible to deny that AI news has dominated the tech space for the past year."
-    publishedDateTime: 2023-12-18T12:31:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/12/a-song-of-hype-and-fire-the-10-biggest-ai-stories-of-2023/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 47
 
 secured: "CLD2Lm79Eneyx2d0cAT8Ur3lPhvL3ZDJ7WhUJ062Tix8WiAuwapQqlxXkM1SNV9TU6YMCQojFHPMsfBYJTy/ePx7qdfY5Hza+IrTwp5OfLbO6qU0fouQDWKcXls2j5+QEYWQ7jKsBYws/fFjXVO6NHojzg5b5nZDZwWtiM3/PT8fd8rUX1rXO+pBxGX3KdMnaQ2p1lEdK8Mu6fB4XwdPFXSKY+LFSa68aiUUASZYUDy5RPYWpvNDqfy+UMg8aTM1Fssz3bjKWPoD8GgF4j0uHCqGhY4Sd2UAhAxC8qziUiWZfDH/wXXVY+DrXFTGElC57L1N9G3XYbFDnbS4emYu51ad6PS03LxT02UsRyyeD0hjRZbyXXzqKIEVlRGXN6SjrI3oClnge0NNh2qrFATfO6pOy9/7E8bglnxIX2/z0f4fQ4nlfI68bCdl/efCxnnCWk5TC/AujVfQTufKrf9LoV0/nFqGndH7JuQkFYE9Xfhlna1RgjWtTzkF7EdhiqH+L9NxXq9Uomm6QGibxTzV/A==;GaGJ5S0oAVWeh0BMvqrd5g=="
 ---
