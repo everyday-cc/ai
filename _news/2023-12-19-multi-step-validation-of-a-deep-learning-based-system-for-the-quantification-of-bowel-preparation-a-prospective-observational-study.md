@@ -64,6 +64,15 @@ related:
         width: 700
         height: 462
         isCached: true
+  - title: "Revolutionizing GM Rice Seed Detection: Novel Spectral Phenotyping and Deep Learning Approach Unveiled"
+    excerpt: "Cereals, crucial for food and biofuel, are increasingly using genetically modified (GM) technology in production to enhance resistance and nutrition."
+    publishedDateTime: 2023-12-20T18:14:00Z
+    webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/240808"
+    type: article
+    provider:
+      name: AlphaGalileo
+      domain: alphagalileo.org
+    quality: 3
 
 secured: "iL40+tsqxmJEp5ieBHRwlAqBa0PyoxXajLDp/GwdZeA/SdeGJuKZQ+3U8dPiojG4IqKblg0v7MGPL6fNAwM5y4wvdAnYRQkfHNuxNuc1rlFKXwOA1TSzlZTXLYhGSl+voX8GD/1wTYks86WQ0JFemycO9FHGAC4qD+nKG6yAjy7TijXqWsDSOkWz8481w+4MV9LyLYCfpkansbnFx2UH50imYXHHptRXUjuq1ActOyxqA390dVYOHkosjoW3Yj6xAoYOjy3V9bSoaUZRIErgHRhXxsomjSjQmhDjbXXsmHoHnltbNFPmi409Y46Y9v1OkjKvrdSjmoHcf1BGswOmhlSCfFvr7RSSmRbBd0POq5M=;cCsG+g6cX48dV2ybKaiIxQ=="
 ---

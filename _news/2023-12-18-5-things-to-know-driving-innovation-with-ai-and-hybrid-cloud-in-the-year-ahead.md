@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/5-things-to-know-driving-innovation-with-
 webUrl: "https://www.ibm.com/blog/5-things-to-know-driving-innovation-with-ai-and-hybrid-cloud-in-the-year-ahead/"
 type: article
 quality: 95
-heat: 145
+heat: 135
 published: true
 
 provider:
@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "EU’s Sweeping New AI Act Could Be An Innovation Killer"
-    excerpt: "The European Union's draft AI law emerges amidst rising concerns among EU member states that regulations could choke off innovation."
-    publishedDateTime: 2023-12-15T19:54:00Z
-    webUrl: "https://www.forbes.com/sites/jamesbroughel/2023/12/15/eus-sweeping-new-ai-act-could-be-an-innovation-killer/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Breathing new life into fight to save the seas with artificial intelligence"
     excerpt: "It’s hard to imagine our planet without its oceans – their vast scale and depth, teeming with life. They’re also critical to tackling the climate crisis by storing vast quantities of carbon dioxide. But securing and expanding their stores of carbon depends on us being able to locate those stores and assess how healthy they are."
     publishedDateTime: 2023-12-18T14:57:00Z

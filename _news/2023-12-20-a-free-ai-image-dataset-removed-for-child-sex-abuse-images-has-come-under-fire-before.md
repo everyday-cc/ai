@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/a-free-ai-image-dataset-removed-for-chi
 webUrl: "https://venturebeat.com/ai/a-free-ai-image-dataset-removed-for-child-sex-abuse-images-has-come-under-fire-before/"
 type: article
 quality: 61
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -54,6 +54,15 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 49
+  - title: "A report reveals AI image-generators are being trained on child sexual abuse images"
+    excerpt: "Welcome to What’s New in AI, our weekly update where we bring you all the latest AI news, tools, and tips to help you excel in this new brave AI-driven world. Let’s start by focusing on the biggest (and currently breaking) story of the week:"
+    publishedDateTime: 2023-12-20T19:36:00Z
+    webUrl: "https://www.androidauthority.com/new-in-ai-3396270/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 41
   - title: "Artificial Intelligence Harmful Images"
     excerpt: "- Students walk on the Stanford University campus on March 14, 2019, in Stanford, Calif. Hidden inside the foundation of popular artificial intelligence image-generators are thousands of images of"
     publishedDateTime: 2023-12-20T11:05:00Z
@@ -69,6 +78,6 @@ related:
         height: 630
         isCached: true
 
-secured: "2OSkVJrhONjKFwycuBDa1qfnRpG1vIxQQNkySZkPkzJkxBBeYDvVJVqL5Va9R0in5BM0h1auDMfDlQ3tIsTa55N54ebLWAJXfb0utdozfDSVsfYcxMnICSn05g3DsI7S1vkzlFU4Iqa6MGMS4+NFxD6vQq/AvBXuNNq1U6x5a/u/5TNS+LIMeUV9M+xlUxcaF6wzQqrsJaF/B/+Oh0TFMkGrTi/XzAneSB0wyv6CDYBIkad9hh/7WLn5bfAjPnL1WVuqpG2Flt/g6mX2GG1wUjYre2ihvBHLRrBUU9MWJx4xKlnWAcriZNMbNJI8jPhII20unewv9vhWu57OPCmLiDE5+LDcN6pqWreIp9mVbRA=;wfNAa0NAONRcBVaabJXc9g=="
+secured: "OaPjD/rILoa76bjPdY/QD2H1Iz1xGqXaI35apYCz0VQ8z1WwT/VcxlXGLf5iL59VMYJ66668rU4GtUpbwjASN/7GzgDX+0Nd1DpdSoeDN5MWZ2NBS/Gi9d3LkY+BCJxR5J1QqCUGtXCkEspQ9AYntvO6GAVyNVt8FFs7Ompu4rInXT5cfldWUnJCtg5OPdXWDJoO62MhS8tAP/7FqaRkZYRLeXMhW6bsrbAeW3uZVY9WDxyVRXhX24fqm8icv//poVZwKvT3nUjPohTzU/gi/Hpp5cOtoblyh734Raj+ltDKCykze1JX5Gi7PHeMvKKB3Jvfj8TCKWGnvx6nERWTUZD9XK4rxG/WGHhFw+eFHqQah+2NBs0zUUSshCYm5pid1OZphv8jSA7Xmz6DA2tkMw7tERPBbvIw8EQ3/d1c4a3ujgaLSyVkvppD7GHDCIotDj8FJoJta1CdVL/G3CwTBNCVYDK6obzHl0KqJKS3REVc2bYSePMlw91XStNgzuLf3IZuZlYWCNMYY/y1dcBxQg==;l0TCvRMbsXE6P1wZnRHyWQ=="
 ---
 

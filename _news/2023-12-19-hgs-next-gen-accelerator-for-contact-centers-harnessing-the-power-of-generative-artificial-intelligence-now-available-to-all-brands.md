@@ -32,6 +32,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Artificial intelligence is accelerating the recruitment process — but tech leaders warn of bias and other risks"
+    excerpt: "Artificial intelligence can be used for recruiting top talent. Experts say that hiring teams could use AI for tasks such as sourcing talent and reviewing job applications."
+    publishedDateTime: 2023-12-20T18:50:00Z
+    webUrl: "https://www.businessinsider.com/artificial-intelligence-hr-hiring-recruitment-benefits-2023-12"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 27
 
 secured: "X1YicSqgsANHVfvJmRCPgqJc7SydusHaONZEDwxAhOouWeovhU4gqLmpODF7l3s1AGYf3lV4C1ngsWNcS8WOvaOtcKRutgKsGOYfkqx5WTlxjijemZxHpmQJzw7fKGaWndXMORXA6Vm0lqSFwlzwIvdjSWNQl3/5b1Nnv/6ll7WlH0AZOiRg3bQaGP8h2Iz6DdRvolMZpidHfQICmx4Pb+DX/cuf1AQm2O8GOc6FEVOZRWfOzL0P7yYAggoWEq7q4w2ylQf9yIVLgrT5qZbFMtcA8AKcdjIYrYwHUQJaXfg2ZlUlqYpVtA54SWnMIbafJWYAoGM1BL0TjLCAW/t6AdifI5gRXKRKpioBrE2f+KE=;V0sTlUeQwEaDvS2LR6WQJw=="
 ---

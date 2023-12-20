@@ -24,6 +24,17 @@ images:
     height: 500
     isCached: true
 
+related:
+  - title: "Google’s Bard vs OpenAI’s ChatGPT: Which of the rival AI chatbots is better? – Euronews"
+    excerpt: "Google’s answer to ChatGPT is here - but is it as good as OpenAI’s global phenomenon? Euronews Next put them through their paces. Google has made its"
+    publishedDateTime: 2023-12-16T18:44:00Z
+    webUrl: "https://www.inferse.com/841934/googles-bard-vs-openais-chatgpt-which-of-the-rival-ai-chatbots-is-better-euronews-2/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 28
+
 secured: "mVdlg1Pemaj7tHJELz8o4BOI6/F35ztplRFXHg61l9mrtlioUHqCDcVvDYx9iub85NGR9FltFBzv0jxMrkjJUQ8BM/yiCmR8IamZcF/sV5pm4Hhwxxito5ZdVFbI5RXn9WajE7tGZQiRy0lkVfBcMICJkAixIyprGc3/dEwZC9QxFnhwJgF2CVarW60IQMTmg7djYYLZKjo7vUuEA7KM3saC3BW8EgzUM/XghEMndZzZK6IsJ8qVR9HhOLJUXITZ7dd5z0G7kWjJYg4GSivG4LtSqaVixi1tfDjuJOlZdVoClpdZWIC+BHMWesELGKypBwFXrE8zEHYICngPqDu71IIHMgAVDVnRoK/6Z0tFoBM=;fPGg3luVUUIbHCL7aGmRVA=="
 ---
 

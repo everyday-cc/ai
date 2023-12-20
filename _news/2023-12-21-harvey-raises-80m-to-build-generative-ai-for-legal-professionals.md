@@ -1,0 +1,22 @@
+---
+category: news
+title: "Harvey raises $80M to build generative AI for legal professionals"
+excerpt: "Harvey, a generative artificial intelligence startup focused on the legal profession, announced Tuesday that it has secured a $80 million Series B funding round that raised the company’s valuation to $715 million."
+publishedDateTime: 2023-12-20T17:35:00Z
+originalUrl: "https://siliconangle.com/2023/12/20/harvey-raises-80m-build-generative-ai-legal-professionals/"
+webUrl: "https://siliconangle.com/2023/12/20/harvey-raises-80m-build-generative-ai-legal-professionals/"
+type: article
+quality: 17
+heat: 17
+published: false
+
+provider:
+  name: SiliconANGLE
+  domain: siliconangle.com
+
+topics:
+  - AI
+
+secured: "lFDfy9ZC+2yxJUZFbK6grM2bomBaKbGon5H4+CKHR8H8OpRhZ9dNzc+ta9QXlz+cxk7ryo6dKGJAT61Nf9LKGT8tzuNJcy9aGUDoiE+3hkyntLQMKGJVxOPFx08i9NKu0Kd/Q9xCxlechuvFj4AkAFCiu9jpfVtfGV0dqBYfEhxq2auwppPVfn7Hq5fcTfKYT8nGDXn/oZpLecpCc7p0Xsq9SgTD9u1kpwnJ2c3ug5Jju5qmedfJb45+igJ61l5PCZysWeR1lHbvqReDR47msbaBP/6FawW4qKJH8u33tNE8gxICoQ6pfUlCtprO1DzwiLFL4cQ0Ip9xdoOmOF+UNJ9F7+P74WYjKmqFPDa+MqhTJtblXpAWjWMLeheI4f7G/93u/3MOcZR8BC37JofX+xsSNkrohpihBFhG2QwfiJx7KVkCxGYiKjyk/6auh+oC18IDT9lZ74D6jIGaErtvqts1CElPNYMx7z2Zi+6HK7uoCI1s8SsnR8BofRzfYH7aZANQvW+glcn3ZP4B1XYxPA==;Q/ezQLC80QZY0KERgGQF3Q=="
+---
+

@@ -25,34 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving cars could get these turquoise lights to warn you when they’re in autonomous mode"
-    excerpt: "This comes following the news of a number of accidents involving the alleged improper use of Tesla’s Auto-Pilot and Full Self-Driving systems, where the technology was deployed on roads where it is not legal or permitted to do so. Currently, the ..."
-    publishedDateTime: 2023-12-19T23:59:00Z
-    webUrl: "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/self-driving-cars-could-get-these-turquoise-lights-to-warn-you-when-theyre-in-autonomous-mode"
+  - title: "Waymo says its self-driving cars are safer than human drivers by up to 10x"
+    excerpt: "Waymo claims its self-driving cars are 57% less likely to be in a crash and 85% less likely to injure anyone – or 90% less likely in SF."
+    publishedDateTime: 2023-12-20T20:41:00Z
+    webUrl: "https://electrek.co/2023/12/20/waymo-says-its-self-driving-cars-are-safer-than-human-drivers-by-up-to-10x/"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 42
+      name: Electrek
+      domain: electrek.co
+    quality: 67
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/YGowrE5G936VdwUwJZoAPU-1200-80.jpg"
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/12/BlogAsset1_SafetyPaper_Hero_VR4-2.png?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
-        height: 675
+        height: 628
         isCached: true
-  - title: "The Future of Driving: How Automotive Technology is Shaping Tomorrow’s Roads"
-    excerpt: "Welcome to the road trip of the future! Strap yourself in as we embark on a thrilling journey through the realm of automotive technology and its astounding impact on tomorrow’s roads. From self-driving cars to electrified vehicles,"
-    publishedDateTime: 2023-12-19T16:34:00Z
-    webUrl: "https://techbullion.com/the-future-of-driving-how-automotive-technology-is-shaping-tomorrows-roads/"
+  - title: "Self-Driving Cars Have Arrived. They Will Make Us Safer."
+    excerpt: "The magic of the driverless vehicle is the artificial intelligence behind the sensors. That allows the cars to operate like a human nervous system. Sensors and radar are the eyes and ears. The brain is algorithms trained by billions of simulated trips. The more the robo-cars drive, the more they learn, and the smarter and safer they get."
+    publishedDateTime: 2023-12-20T20:40:00Z
+    webUrl: "https://reason.com/2023/12/20/self-driving-cars-have-arrived-they-will-make-us-safer/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 21
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/Automotive-Technology.jpg"
-        width: 1000
-        height: 500
-        isCached: true
+      name: Reason
+      domain: reason.com
+    quality: 4
 
 secured: "Lm1lcGcSn+IHaAnLNHDtsxv108lobRtuR5qJzqzPeqRpaj/HpqtYgMsrQwxQhBZ3EpENfhVJ5Vg1ssGWf3oCHb3yQUu3aGcY9H6jQaIC/pVWsP/r0plDL6PWggmUhOwI2H3BcRVTlsp96Jeo25osWs5kkm0GU3UZxOySNlJaimecV1ck2OzqaJF57i+aev4Byi9mrhy+mIambf4zfuifDmiW0psbxKIpHz+rqWaEfEWB1H1SbkWUooUX8CQUiYJVaOXUWtf3x04aseSqy0iM+OlU0WpWGsbo1Ci3Ac1njcu0cdicgppcj6A43n4dQTL+mQu+KgOykAHuwX1KL8l3N04GZp6TCuh5aMmyGSAVUn4=;Qcu8PLCi38GT2O+w0nQ0IA=="
 ---

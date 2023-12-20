@@ -7,7 +7,7 @@ originalUrl: "https://www.econotimes.com/Teslas-recall-of-2-million-vehicles-rem
 webUrl: "https://www.econotimes.com/Teslas-recall-of-2-million-vehicles-reminds-us-how-far-driverless-car-AI-still-has-to-go-1667962"
 type: article
 quality: 60
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Commentary: Tesla’s recall of 2 million vehicles reminds us how far driverless car AI still has to go"
-    excerpt: "There is a pressing need for new standards and mechanisms to assess the capabilities of these driverless cars, says University of Surrey's Saber Fallah."
-    publishedDateTime: 2023-12-15T22:01:00Z
-    webUrl: "https://www.channelnewsasia.com/commentary/tesla-driverless-cars-recall-2-million-autonomous-vehicles-safety-autopilot-3991256"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 54
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--L6zlzHd4--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-04-06t205807z_3_lynxmpej350kx_rtroptp_3_tesla-privacy-cameras.jpg?itok=KuXvCHkc"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "The Driverless Car Is Here, and It's a Remarkable Advance"
     excerpt: "Thanks to artificial intelligence, the driverless car is finally here! For years, car companies promised that cars would drive themselves, but it never"
     publishedDateTime: 2023-12-19T06:00:00Z

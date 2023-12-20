@@ -24,33 +24,37 @@ images:
     isCached: true
 
 related:
-  - title: "This Artificial Intelligence (AI) Stock Looks Dirt Cheap. Here's Why."
-    excerpt: "This is not entirely unreasonable, though, as artificial intelligence (AI) will have myriad applications in the metaverse. In a way, while owning Meta stock for the highly profitable advertising business warrants merit, a position in the company could represent a hedge to other AI plays you might own."
-    publishedDateTime: 2023-12-15T22:12:00Z
-    webUrl: "https://www.fool.com/investing/2023/12/15/why-this-ai-stock-looks-dirt-cheap/"
+  - title: "The Artificial Intelligence (AI) hit list: Six menacing threats you need to know"
+    excerpt: "By the end of this year already, the market for artificial intelligence (AI) in South Africa is projected to reach a size of $2.4 billion, showing an annual growth rate of 21% between now and 2030. Locally,"
+    publishedDateTime: 2023-12-19T14:27:00Z
+    webUrl: "https://pctechmag.com/2023/12/the-artificial-intelligence-ai-hit-list-six-menacing-threats-you-need-to-know/"
+    ampWebUrl: "https://pctechmag.com/2023/12/the-artificial-intelligence-ai-hit-list-six-menacing-threats-you-need-to-know/"
+    cdnAmpWebUrl: "https://pctechmag-com.cdn.ampproject.org/c/s/pctechmag.com/2023/12/the-artificial-intelligence-ai-hit-list-six-menacing-threats-you-need-to-know/"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 84
+      name: PC Tech Magazine
+      domain: pctechmag.com
+    quality: 69
     images:
-      - url: "https://g.foolcdn.com/editorial/images/757919/social-media-networking-likes-facebook-meta-instagram-1.jpg"
-        width: 5184
-        height: 3456
+      - url: "https://pctechmag.com/wp-content/uploads/2023/12/AI.jpg"
+        width: 990
+        height: 467
         isCached: true
-  - title: "Top 10 Artificial Intelligence (AI) Applications in 2024"
-    excerpt: "What will be the next game-changing applications of AI as we head into 2024? With unstoppable advances in machine learning and voice computing, artificial intelligence stands ready to transform more business use cases than ever."
-    publishedDateTime: 2023-12-18T17:26:00Z
-    webUrl: "https://techbullion.com/top-10-artificial-intelligence-ai-applications-in-2024/"
+  - title: "The AI Hit List: Six Menacing Threats You Need to Know"
+    excerpt: "While AI is valuable, it is crucial to use it with critical thinking, and only rely on it in situations where it provides the most value."
+    publishedDateTime: 2023-12-19T14:44:00Z
+    webUrl: "https://pctechmag.com/2023/12/the-ai-hit-list-six-menacing-threats-you-need-to-know/"
+    ampWebUrl: "https://pctechmag.com/2023/12/the-ai-hit-list-six-menacing-threats-you-need-to-know/"
+    cdnAmpWebUrl: "https://pctechmag-com.cdn.ampproject.org/c/s/pctechmag.com/2023/12/the-ai-hit-list-six-menacing-threats-you-need-to-know/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 60
+      name: PC Tech Magazine
+      domain: pctechmag.com
+    quality: 59
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/The-Future-of-Googles-AI-Advancements-and-Applications-We-Can-Expect.jpg"
-        width: 650
-        height: 450
+      - url: "https://pctechmag.com/wp-content/uploads/2023/12/AI.jpg"
+        width: 990
+        height: 467
         isCached: true
 
 secured: "5B4zAljO234R8pz+1kspZkubj/5P27Nb+yTpcmt5BL3/THCebyMM9Aybm25n496ArymwyxxKiLOfHkidVKMg+BJshjOc2s1/lLD1IVWFc2dLA+m9nwnJZovP6i4fFDkiXKA3DHe9LMf5g1jcJoQsxu1aMgAgMDHHEFaJgG3mNMwJmSj9jQn0wv8/DZSupfo1Up2IyUTylmq9eKjJ5kikcw3CKW9zri+b3/o8rbsTyQbHF1szWbw/zh3audIAXwy07NenmcT7Tz9TMOjqLQP09X2ajnz3bUire66izUglbrCoGjwTG/KekI8wjCoKUSDhb0l1wiy8RVuGL4cdlga685Or0kBkGA0wQIgrHaDKhAv/84Mbgn3CEbKsvLgmuXZRVT/DFwdLFohsK/YmPo4xiDvpP4PJ3NMFD5C+EoMRSDjciBKC6ravmpdbBw4V6hVK8nAQ7KtVwTeY2K6sZLmuJfgw3p+KYfWilGstUZ6nMaeOHPxN4qqPW9fVI7R6nqAPfDEfc/VscyO4TAC71uzhCg==;yDqWUdjiIhCXdVxPhTR8pg=="

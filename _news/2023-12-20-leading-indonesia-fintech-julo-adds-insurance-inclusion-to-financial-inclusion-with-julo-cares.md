@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 631
         isCached: true
-  - title: "Monak E-Services Triumphs At Regional Finals Of Fintech World Cup In Riyadh"
-    excerpt: "Dubai, UAE, 15th December 2023, ZEX PR WIRE , 11 shortlisted fintech start-ups participated in the third regional finals of the Fintech World Cup organized by Dubai Fintech Summit in collaboration with Trescon at the DATE Fintech Show,"
-    publishedDateTime: 2023-12-15T21:03:00Z
-    webUrl: "https://menafn.com/1107605317/Monak-E-Services-Triumphs-At-Regional-Finals-Of-Fintech-World-Cup-In-Riyadh"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 22
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?870772"
-        width: 476
-        height: 250
-        isCached: true
 
 secured: "JJs6FpdlrT/L2qQ4wXHUVA5RCGnLZ6FCB0zWLWJIjI7dkPdrg+ybzqwn/I/XoRNoOqz2egRxntt/pnKMiyc+qpwaUgOkW/JORcjabrLtzp+0vumrsJKRrH3GA5j07WnoVmqOUnM14Su32VwUuxybuocpBUgYT3DyutM1bFp9DcClCLX3o36rLfs7tkAe0x3QblAjCLIFzNqL69Glv76juF1ab9Mt6Mcu0LrIge8ojc/0kFMHZXcbq46MuuXyPvHFC4p0Xis3pX0fOru7rE8pzyHCQ6fNClOykpZWHUS4bxDSv2LJVxHEbcHwkhlb+DJTW6QKasQXMg97QmLXK8OaCFCqh2Aa24FA1d2wW9YiXtcSz9intupf+7nx8wx3bG0FD3HA6VQF4rWj21MUWqyrIbME6FKkxU3EZT/8g830r5JB8phfsxWLo1i1MnwttRCEyozKgDWfHp5ao1kx7+PdzjXHdCDPB02jDrJxRzj+WEh3OaZb2HvYHFXuQCNVy9ZqpNQses9iQuerELkWdiAKvw==;ccs5f3rCQlSmKUyGIHGidg=="
 ---

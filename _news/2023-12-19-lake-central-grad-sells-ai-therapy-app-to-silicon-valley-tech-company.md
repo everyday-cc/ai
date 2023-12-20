@@ -7,8 +7,8 @@ originalUrl: "https://www.nwitimes.com/news/local/lake-central-grad-sells-ai-the
 webUrl: "https://www.nwitimes.com/news/local/lake-central-grad-sells-ai-therapy-app-to-silicon-valley-tech-company/article_82cbde02-9de8-11ee-a1b3-17290673cc9a.html"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: The Times of Northwest Indiana
@@ -38,6 +38,20 @@ related:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/e61413a/2147483647/strip/true/crop/2666x1296+0+149/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F76%2Fa7%2F32ec11fc4486bd2696f03db8fd46%2Fsocial-media-mental-health.jpg"
         width: 1440
         height: 700
+        isCached: true
+  - title: "How one company is using AI to combat package theft"
+    excerpt: "As the holiday season ramps up, one shipping company is using AI to help prevent packages from being stolen after they're delivered. Janet Shamlian has the story."
+    publishedDateTime: 2023-12-20T21:03:00Z
+    webUrl: "https://www.cbsnews.com/video/how-one-company-is-using-ai-to-combat-package-theft/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/12/20/ec5cabfa-650f-45b0-8a55-5c2c624478aa/thumbnail/1200x630/2af675e06789dc217140e8941bb1a1c1/1219-en-shamlian.jpg?v=5382e209c94ee904b3a96a69f8ca0ce0"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "NodXLpieDxF/0SrdWLxpMN8sk9G7crz3hwwZJ1a/T6yDibVSkIMgEItd5NbAjwq9itP6HdRW4O2Xv+vaglwKsvCIqMbGQrudSHRgYlWG6U2bf9wSweh7IcH1D3+8acpjzSzHdmn/aO0oTSB9ntohr+yPBpCFd0pSduTHh8gfTZMNZ23ktVQwGBfKOlw0FFPPVofCOFby1YAXeEiKIArWNixuJn8/AHJjZYx5zLODjKNeSZHUHAA6fwlPqENktYxVsUGz5x0VlJl7hvEuFKN+X7AjCi7H/bChFt8Gfc/nzdYEMo8nkL4tUABLCez/Ntake30BlacXUqjFsiZ/2fpBaRXDGlG31RhWJ+UcpbZXnMk=;MOMipTvlc2GQbblTAl+tLg=="

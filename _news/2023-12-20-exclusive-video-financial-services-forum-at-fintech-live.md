@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Monak E-Services Triumphs At Regional Finals Of Fintech World Cup In Riyadh"
-    excerpt: "Dubai, UAE, 15th December 2023, ZEX PR WIRE , 11 shortlisted fintech start-ups participated in the third regional finals of the Fintech World Cup organized by Dubai Fintech Summit in collaboration with Trescon at the DATE Fintech Show,"
-    publishedDateTime: 2023-12-15T21:03:00Z
-    webUrl: "https://menafn.com/1107605317/Monak-E-Services-Triumphs-At-Regional-Finals-Of-Fintech-World-Cup-In-Riyadh"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 22
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?870772"
-        width: 476
-        height: 250
-        isCached: true
   - title: "Leading Indonesia Fintech JULO Adds Insurance Inclusion to Financial Inclusion with JULO Cares"
     excerpt: "JULO, a leading Indonesian peer-to-peer financial technology company, launched JULO Cares on December 15th 2023, a first-in-market unique insurance cover embedded within the core JULO digital credit solution."
     publishedDateTime: 2023-12-20T06:51:00Z

@@ -63,6 +63,15 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 49
+  - title: "A report reveals AI image-generators are being trained on child sexual abuse images"
+    excerpt: "Welcome to What’s New in AI, our weekly update where we bring you all the latest AI news, tools, and tips to help you excel in this new brave AI-driven world. Let’s start by focusing on the biggest (and currently breaking) story of the week:"
+    publishedDateTime: 2023-12-20T19:36:00Z
+    webUrl: "https://www.androidauthority.com/new-in-ai-3396270/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 41
 
 secured: "ANXYCTsC/j/U51EpMmidED3tYq/ePH+Snqqdn/3iQMRhWmBW0c4cDLcl61mlIO6emq7MsScUGuHowoD9Jsbd+EmxpXWHxHVqSyBlltnBbLutqfdgJ+yy6MrbF5YPE/qqCz5t11i9jptdhsCvO2sfBNv/b84zQ+SZ3r2wx8DeBpDIgcOQrCeWfIOwgV6JJGeervkh6teaEdINZVlZYfMRKjHGMO/jdxlkCtVpjhPLSPbJO8Z3VyecyLPrjzej4cP34kB6JiLP1j2ggPZGbvWV3oWaB/puj6j5kLBccf5XtXqhVZi2vb29whYCkizKE+vPFZOeVbxT+FsqblHe/LnovoMndadg8XhJRnZi5IjJTeiccGip5o7A6FSZvDzrXDiGOaKiFSyyGcbbJ1x4EGpfu7NtCzEZjQXCEHIXVL06e71Ln534G1NtIXJD6Q83RGMcG98halfzrtIc5addi8fIAomb7FcJKraI6p/ymBan7uAqPMSN0TBOqQQ07XIGwu6Im4V5dhnKL11kTnycGs7xjQ==;y8dS19GP3FgMaL604UwWHg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/geographic-information-system-use-cases/"
 webUrl: "https://www.ibm.com/blog/geographic-information-system-use-cases/"
 type: article
 quality: 102
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -26,17 +26,6 @@ images:
     width: 1080
     height: 540
     isCached: true
-
-related:
-  - title: "Examples of sustainability in business"
-    excerpt: "Here are some examples of sustainability in business that can make organizations more efficient and have a positive impact on the planet.\nThe post Examples of sustainability in business appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-12-15T19:20:21Z
-    webUrl: "https://www.ibm.com/blog/sustainability-in-business-examples/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 82
 
 secured: "937k1b8yoP2gkRze5L50Y4xdhX1lQwMpQDgMaTfbAEuM9soFA6l+CUBhZoJ6kuLw4GkP6u3Q5CXabmJKuAPQ5c0PFTr0SCiihqp00Rhj4I33iz4PxQxHBIArcUHlaLm5wD6jzvE/pnE8F7O10MvQQtHhVxdI0ZdaW8F7rqd/VVdiH1vPxFL9FJlkGDpPUbH2ti3cSqOwuioA8kOWAhYdmFd3lxLGXcmrFbko/Utt3gPonCAs96ozxFivkMWzWbCIXUZK6Ks+9MeOig4xAGZ8lprwDPg/+VjqOW3mzBUnWZa7yokAdK7Dc1KUtHnSaJj8X1geVrF6/d22tBIiW4vZGvMumJHvGiRMBCcToGr0jRU=;mp+CLzPNe3oGA3jBJLmv7g=="
 ---

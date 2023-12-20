@@ -41,20 +41,6 @@ related:
         width: 300
         height: 201
         isCached: true
-  - title: "How the AI boom is transforming accounting"
-    excerpt: "The IRS rolling out chatbots to help individuals with basic tax matters and key presentations on AI innovation at accounting events are among the recent developments."
-    publishedDateTime: 2023-12-15T22:07:00Z
-    webUrl: "https://www.accountingtoday.com/list/how-the-ai-boom-is-transforming-accounting"
-    type: article
-    provider:
-      name: Accounting Today
-      domain: accountingtoday.com
-    quality: 39
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/213d245/2147483647/strip/true/crop/510x268+0+39/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F40%2F4c%2Ff764f70d44ec80eab750dbc8af35%2F1-1-1-artificial-intelligence-cover.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "szA0NULyMFi5bJ8NNbSgi08cr4MC0K2BHtcd3pdf4MtrqeciMb3W5KAqqbG4GkZXoeekdz8a4lB5xdcfRvopxAkgwPqDfvtf7pko9/F1ag8hAl/2TKIQ0hBXpRv12l4zlV2r7+1K1kCk8n2UMsj2iWhkGXyCXtU7jwRyNQv7Sr4mcdd2wB5tJ7Jd8FsoY1jiBc/jBncRhFDbf6jGLJB2TACxi6XGgGnTd19AgSueBnNc85mmgJAa+Jr/Kbyh8+1AkRla2zISa6GLfpRPNPqasuvDO1/Mct9GKmDbS+dV8SluggCfLAFJMhYkl+/htzWNSVFsXdzTiR4V4/ZJhkezQkQCGT1p828skskytuMt3rW55vtbLD5MPtVcPWGhFtDXlbA6oZh+dJOTKOe+SljXBXP5KGn33uEXgwQZJjGvUDsz5TBmwSvtDFoNM8XgSqjZ6yHJfArkoVcmiVXyneYOGMuxqHxCsDucUF/iAZNtXZfZIpNU57sRrZJC7iYGqIFwfvDMS5vr48c/JE8+EE2l1w==;hX9ce5/68iFNPk4twB70Sw=="
 ---

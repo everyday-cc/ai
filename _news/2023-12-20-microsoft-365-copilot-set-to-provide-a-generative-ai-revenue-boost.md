@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robertdefrancesco/2023/12/19/microsoft-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertdefrancesco/2023/12/19/microsoft-365-copilot-set-to-provide-a-generative-ai-revenue-boost/amp/"
 type: article
 quality: 104
-heat: 394
+heat: 404
 published: true
 
 provider:
@@ -327,6 +327,15 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 32
+  - title: "I’ve never made music, but Microsoft Copilot AI can write me a masterpiece"
+    excerpt: "Microsoft Copilot now supports music creation via a new plugin from Suno - here's everything you need to know."
+    publishedDateTime: 2023-12-20T19:44:00Z
+    webUrl: "https://bgr.com/tech/i-never-wanted-to-make-music-but-microsoft-copilot-ai-could-help-with-that/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
     quality: 32
   - title: "Microsoft, TomTom Launch Voice Assistant That Makes Google Assistant and Siri Feel Old"
     excerpt: "While Apple is building an electric vehicle from scratch and Google is betting big on the software and services side of the automotive space, Microsoft"

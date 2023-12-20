@@ -101,6 +101,15 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 4
+  - title: "Top 7 Fintech Trends Predicted for 2024"
+    excerpt: "Welcome to Finextra. We use cookies to help us to deliver our services. We'll assume you're ok with this, but you may change your preferences at our Cookie Centre. Please read our Privacy Policy."
+    publishedDateTime: 2023-12-20T19:20:00Z
+    webUrl: "https://www.finextra.com/blogposting/25427/top-7-fintech-trends-predicted-for-2024"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "YfBXEeW1kHQ/+E+LLb7OsCWu5ah6iD2r3o6F//k66dmFE1JFWwNQkXc2Q91vT9rFu5ewU/77KxEnmiBxiGISYK0Mw0A++6igIiNebiRUz3jthx/eoa/fPJ8+jvjAhn8GH1kYOocLTWBaq9CAnXuWN4tZ9+fYY01de5iNERwHm11mY2gMYQw6QMQLrp6aeEkGqKBi5g+ZBgs2Zpz2Ct8QYoLbpZZSEEnR7KqzqNso3JKdOQyeovIdFaiHHDzFfHOyCLnNX1RFFL4p1RCabHeRLV0ZvfD6VzPor7+gRM1iB5V5L+9Atrg4haM+qrHkm1FPIuy/g62L02Ut+qfDJ0OCP3YtYuUGhwKH9RP9lcIbVkE=;MjExIivj6vSFYKbeN/q7hw=="
 ---

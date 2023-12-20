@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Grok Gets Some Competition, ChatGPT Gets Depressed, and More of the Top AI News Stories This Week"
-    excerpt: "What happened with AI this week? Well, the passage of the European Union’s AI Act—a landmark piece of regulation that seeks tackle the potential harms of the AI industry—is a pretty big deal. It could totally reshape how European nations’ relationship to the technology."
-    publishedDateTime: 2023-12-15T19:50:00Z
-    webUrl: "https://gizmodo.com/grok-gets-some-competition-chatgpt-gets-depressed-and-1851102969"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 71
-    images:
-      - url: "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/6e9ec759dc24bf07ae714235d2e5f58b.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "I asked Bard and ChatGPT to plan me a trip and one result really impressed me"
     excerpt: "I recently asked Bard and ChatGPT to plan me a fake trip. While both were able to do the job well enough, one result stood above the other."
     publishedDateTime: 2023-12-20T18:24:00Z
@@ -67,6 +53,15 @@ related:
         width: 1067
         height: 800
         isCached: true
+  - title: "One Year In and ChatGPT Already Has Us Doing Its Bidding"
+    excerpt: "One of the first things I asked ChatGPT about, early this year, was myself: “What can you tell me about the writer Vauhini Vara?” It told me I’m a journalist (true, though I’m also a fiction writer),"
+    publishedDateTime: 2023-12-19T14:39:00Z
+    webUrl: "https://www.nytimes.com/2023/12/19/opinion/artificial-intelligence-chatgpt.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 49
   - title: "OpenAI ChatGPT VS Google Bard: Which AI chatbot is the real disruptor? – Business Today"
     excerpt: "FeedbackEver since OpenAI introduced its AI chatbot, ChatGPT, in November last year, we witnessed a sudden rise in generative AI chatbots in the industry. One"
     publishedDateTime: 2023-12-17T00:45:00Z
@@ -81,15 +76,43 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google’s Bard vs OpenAI’s ChatGPT: Which of the rival AI chatbots is better? – Euronews"
-    excerpt: "Google’s answer to ChatGPT is here - but is it as good as OpenAI’s global phenomenon? Euronews Next put them through their paces. Google has made its"
-    publishedDateTime: 2023-12-16T18:44:00Z
-    webUrl: "https://www.inferse.com/841934/googles-bard-vs-openais-chatgpt-which-of-the-rival-ai-chatbots-is-better-euronews-2/"
+  - title: "ChatGPT Invented An Upstart Netflix Rival For Me"
+    excerpt: "On December 13, in response to a series of prompts, ChatGPT came up with the name of the business - StreamSphere - and suggested the features the service should provide to win over enough customers to dominate the online streaming industry by 2034."
+    publishedDateTime: 2023-12-17T11:50:00Z
+    webUrl: "https://www.inc.com/peter-cohan/chatgpt-invented-an-upstart-netflix-rival-for-me.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 39
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/chat-gpt-netflix-chatbot-inc_535803_y2feub.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Chevrolet Used ChatGPT for Customer Service and Learned That A.I. Isn't Always on Your Side"
+    excerpt: "Can artificial intelligence be too smart for its own good? While a promising use case for generative A.I. is handling simple customer service tasks, Chevrolet recently learned that integrating the tech into your website can lead to problems if you don't narrow the scope of its abilities."
+    publishedDateTime: 2023-12-18T21:45:00Z
+    webUrl: "https://www.inc.com/ben-sherry/chevrolet-used-chatgpt-for-customer-service-and-learned-that-ai-isnt-always-on-your-side.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 29
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-668760581_535925_g5ykl7.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "ChatGPT vs Google Bard: What's the difference and which one to use? – Android Authority"
+    excerpt: "Affiliate links on Android Authority may earn us a commission. Learn more.We finally have our hands on Google’s long-awaited Bard chatbot. It takes aim at the"
+    publishedDateTime: 2023-12-16T04:28:00Z
+    webUrl: "https://www.inferse.com/841446/chatgpt-vs-google-bard-whats-the-difference-and-which-one-to-use-android-authority/"
     type: article
     provider:
       name: Inferse
       domain: inferse.com
-    quality: 28
+    quality: 13
 
 secured: "spMLayJEm7Ko+6vlusSmaP5CyCc0MzJ4zxa5H1eQDrxXYXH+cf5rgA5pI5tigyaTPPxbl79pOl8WXAp8EBCMct656+HOwVreJ6GaJUdnxzw83LOEEpzRvYMg3Pr0P/ov23GYWuetiRBLezVE8u7x8i8KdpKU1ZKjGKdsAQDPq+Jz5l84ssHRTb/+kCqzeS3q0rY2GRHEIsGWM3GNbr3nHRx4SLY60MUZ1p75/H++NhHgP95mSNXhybKXi3SN9TEwPhoGIhvztCNx1mHRFaiVCwmEIqWGFrXP1e28h8OJTp1rbQJyBQpOC//tFHZXRpInW03dxabivL1RN3Cs7ERdUq1xq24N2H41ju5tFEWzWNIQHG/x2f5KnTNwbsSNk6oOOVgfPBAwqK/v7DhpJ+7v15PaJjSFfVWSEnE+R8yMh/Ty7VX+TmfXlbEXTCHR0zR0Uw0rhcFf70vpK5phcg+eOFomv0J6DgLg3gNR3NikKgDfHsLlaWWfcUIBXfelLpiXqM9KSyda3ECly88xjpGoqA==;WikNMs1ou9y3aVhs56he7A=="
 ---

@@ -19,21 +19,35 @@ topics:
   - AI
 
 related:
-  - title: "Florida Legislature Considers Creating 'Artificial Intelligence Advisory Council'"
-    excerpt: "Florida Senator Joe Gruters (R) has filed a bill that would create an ‘Artificial Intelligence Advisory Council’ within Florida’s state government.  T"
-    publishedDateTime: 2023-12-15T22:02:00Z
-    webUrl: "https://floridianpress.com/2023/12/florida-legislators-consider-creating-artificial-intelligence-advisory-council/"
-    ampWebUrl: "https://floridianpress.com/2023/12/florida-legislators-consider-creating-artificial-intelligence-advisory-council/amp/"
-    cdnAmpWebUrl: "https://floridianpress-com.cdn.ampproject.org/c/s/floridianpress.com/2023/12/florida-legislators-consider-creating-artificial-intelligence-advisory-council/amp/"
+  - title: "Florida lawmakers could look at regulations for artificial intelligence use"
+    excerpt: "Among the bills filed ahead of session: requiring a disclaimer on political ads that use AI-generated content."
+    publishedDateTime: 2023-12-20T22:14:00Z
+    webUrl: "https://www.tampabay.com/news/florida-politics/2023/12/20/artificial-intelligence-ai-political-ads-regulation-technology/"
+    ampWebUrl: "https://www.tampabay.com/news/florida-politics/2023/12/20/artificial-intelligence-ai-political-ads-regulation-technology/?outputType=amp"
+    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/florida-politics/2023/12/20/artificial-intelligence-ai-political-ads-regulation-technology/?outputType=amp"
     type: article
     provider:
-      name: The Floridian
-      domain: floridianpress.com
-    quality: 54
+      name: Tampa Bay Times
+      domain: tampabay.com
+    quality: 57
     images:
-      - url: "https://floridianpress.com/wp-content/uploads/2021/07/Screen-Shot-2021-07-20-at-10.55.01-AM-e1626792947894.png"
+      - url: "https://www.tampabay.com/resizer/_gX9Wb5jIYkcOcbEosJkK2XdOOs=/1200x675/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/7R4G3W4FFX2GUDXETZO6XJPTEI.jpg"
         width: 1200
-        height: 868
+        height: 675
+        isCached: true
+  - title: "Florida taking steps to regulate Artificial Intelligence in 2024"
+    excerpt: "Florida lawmakers have filed several different proposals to keep artificial-intelligence-generated content under control."
+    publishedDateTime: 2023-12-20T20:28:00Z
+    webUrl: "https://winknews.com/2023/12/20/artificial-intelligence-florida-senate-2024/"
+    type: article
+    provider:
+      name: WINK NEWS
+      domain: winknews.com
+    quality: 39
+    images:
+      - url: "https://winknews.com/wp-content/uploads/2023/11/Artificial-Intelligence.png"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Bills on artificial intelligence filed in lead-up to Florida legislative session"
     excerpt: "Legal and technology experts say AI is a complicated area to regulate. Florida lawmakers are going to try anyway."

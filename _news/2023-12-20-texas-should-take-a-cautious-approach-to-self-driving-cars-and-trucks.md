@@ -104,6 +104,15 @@ related:
       name: https//carbuzz
       domain: carbuzz.com
     quality: 0
+  - title: "Mercedes Invented a Way To Easily Identify When Cars Are Self-Driving on the Road"
+    excerpt: "With regulatory approval, Mercedes-Benz is able to add a turquoise light to its cars using its Drive Pilot self-driving feature."
+    publishedDateTime: 2023-12-20T19:15:00Z
+    webUrl: "https://www.inverse.com/tech/mercedes-benz-self-driving-car-drive-pilot-light-indicator"
+    type: article
+    provider:
+      name: Inverse
+      domain: inverse.com
+    quality: 0
 
 secured: "HEEyOdRZJ2xGenQUTmTb7ET+HD6yt8yy+rjKEM8+g1MSJfDQ9tWcS/FQuCUoLUYO/bRkK5FbG5tm2Lq0RurN1xTwPUF8DjFyOG5sWpHnezqrd3DD+tMjHTSeKvZBtipnC+3+wEw8QcJ6daoLJr3KTzmpit5LBKM+w3WsOhaJlQpr9GaRkSqodTwVc+P1onA8orD1GB/T40nd2N/QwqnorpJxP4gaOmTrln0e5bKtWMWVLFrhnkTE3ZQg/VIITNfiUj8U1u83AoVgjOZwpj+JS3C0EJ362VWVB1aL2adIncQfdztsQDc3ZTjebO8JhYKUk05fcSjGOnSlpNDDhMP5nHYjfrD6dbP6iGWmzWpbAisP3ecbZRHj522k4BQqHCFYUpGVqB39/+eoWeWEwE5VRsXJT/ZhNHyJyGe9IzMS2VH5gp11OEz9ryrQTo9v4OFzTlwtTqzUqkUKEbTJDMMt4KMez0K5t2pCM/3jZzgHeTCQpG4mmRYnH4NnwBNXD8addFMwTv+kIk69T+MoEgwuBA==;4raPvY81YzWNnPrMOksZqg=="
 ---

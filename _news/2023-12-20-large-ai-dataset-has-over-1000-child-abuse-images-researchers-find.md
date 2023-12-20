@@ -53,6 +53,15 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "A report reveals AI image-generators are being trained on child sexual abuse images"
+    excerpt: "Welcome to What’s New in AI, our weekly update where we bring you all the latest AI news, tools, and tips to help you excel in this new brave AI-driven world. Let’s start by focusing on the biggest (and currently breaking) story of the week:"
+    publishedDateTime: 2023-12-20T19:36:00Z
+    webUrl: "https://www.androidauthority.com/new-in-ai-3396270/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 41
   - title: "Artificial Intelligence Harmful Images"
     excerpt: "- Students walk on the Stanford University campus on March 14, 2019, in Stanford, Calif. Hidden inside the foundation of popular artificial intelligence image-generators are thousands of images of"
     publishedDateTime: 2023-12-20T11:05:00Z

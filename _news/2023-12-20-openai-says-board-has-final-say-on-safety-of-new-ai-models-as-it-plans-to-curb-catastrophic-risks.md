@@ -35,15 +35,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
-  - title: "OpenAI launches $10M grant program to keep AI from going rogue"
-    excerpt: "AI will become significantly harder to manage in the next decade, making existing oversight techniques insufficient, the startup said Friday."
-    publishedDateTime: 2023-12-15T20:53:00Z
-    webUrl: "https://www.ciodive.com/news/OpenAI-superalignment-superintelligent-steerability-AI-systems-grant-program/702713/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 17
 
 secured: "k4VykPCJnkxy7HVYr0fmX8Gmdb7C+7NZNjZ6C08R4tsK8OD8tVmmRThaBWno+52PuW/TFTIo/Rv8Uz0RbI47zfjIaqEhZIzM1QxS66XL1bvpKSoTkEbu8qN+3BsCZRs36aMtOMwasZUwLWkyJihaKFHmLbIVGeOQzfDKAPDhKdDghW8kLjmnxMr0bLDvJDAyWHr00eiL6ahiwBTEGWmhiVUTQ3Bb4cFkg4a2izV9/pIIZSe/0MZ7aUJFvGexdB7gwZRccCqYWCOXzX5KF+SzRURiBqAPVzgqIEpTjXUXDfnStHBWQJUckYzHyOZeUhZigJEiP+vgsoyWp/lEsxAXinv3mVeVUC7fmUm+OOL+QBM=;TEx7gwh4kDBG+O6UC/ugFQ=="
 ---

@@ -338,6 +338,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 32
+  - title: "I’ve never made music, but Microsoft Copilot AI can write me a masterpiece"
+    excerpt: "Microsoft Copilot now supports music creation via a new plugin from Suno - here's everything you need to know."
+    publishedDateTime: 2023-12-20T19:44:00Z
+    webUrl: "https://bgr.com/tech/i-never-wanted-to-make-music-but-microsoft-copilot-ai-could-help-with-that/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 32
   - title: "Microsoft's Semantic Kernel SDK Ships with AI Agents, Plugins, Planners and Personas"
     excerpt: "Microsoft's Semantic Kernel AI SDK has new documentation to explain its capability to create AI agents that can interact with users, answer questions, call existing code, automate processes and perform various other tasks."
     publishedDateTime: 2023-12-19T20:31:00Z

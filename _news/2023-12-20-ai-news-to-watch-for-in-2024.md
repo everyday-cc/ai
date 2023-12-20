@@ -24,50 +24,42 @@ images:
     isCached: true
 
 related:
-  - title: "Four trends that changed AI in 2023"
-    excerpt: "This has been one of the craziest years in AI in a long time."
-    publishedDateTime: 2023-12-19T10:16:00Z
-    webUrl: "https://www.technologyreview.com/2023/12/19/1085696/four-trends-that-changed-ai-in-2023/"
-    ampWebUrl: "https://www.technologyreview.com/2023/12/19/1085696/four-trends-that-changed-ai-in-2023/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/19/1085696/four-trends-that-changed-ai-in-2023/amp/"
+  - title: "3 AI Stocks Poised for Explosive Growth in 2024"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Businesses and consumers have used artificial intelligence (AI) before 2023,"
+    publishedDateTime: 2023-12-18T20:55:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-poised-for-explosive-growth-in-2024-1032910289"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/03/image_dissolves_into_noise2.jpeg?w=2048"
-        width: 2048
-        height: 1152
-        isCached: true
-  - title: "Legal Tech's Milestones for Artificial Intelligence in 2023"
-    excerpt: "Legal industry experts make their picks for the biggest developments in AI for the legal industry in the past year."
-    publishedDateTime: 2023-12-20T18:49:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/12/20/legal-techs-milestones-for-artificial-intelligence-in-2023/"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
+  - title: "AI Meets Biotech: 3 Top Stocks Transforming Medical Science"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips One of the biggest stories of the year has been the rise of AI in every"
+    publishedDateTime: 2023-12-16T18:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-meets-biotech-3-top-stocks-transforming-medical-science-1032906556"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 37
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/12/Display-Arts-01-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
-  - title: "In 2023, we played with artificial intelligence — and weren't sure what to do about it"
-    excerpt: "ChatGPT was the catalyst for a year that took artificial intelligence mainstream. For AI, 2023 was a long time coming. Still, the technology has a long way to go before"
-    publishedDateTime: 2023-12-18T17:00:00Z
-    webUrl: "https://www.rockymounttelegram.com/news/national/in-2023-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it/article_adc7b02c-9b86-11ee-a9a8-e7e1f025edaa.html"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "2 Artificial Intelligence Stocks To Watch This Week"
+    excerpt: "The artificial intelligence (AI) sector is a rapidly growing area in the tech industry, focusing on creating intelligent machines that work and react like humans. AI technology includes machine learning, natural language processing, and robotics ..."
+    publishedDateTime: 2023-12-18T01:16:00Z
+    webUrl: "https://www.nasdaq.com/articles/2-artificial-intelligence-stocks-to-watch-this-week"
     type: article
     provider:
-      name: Rocky Mount Telegram
-      domain: rockymounttelegram.com
-    quality: 29
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/rockymounttelegram.com/content/tncms/assets/v3/editorial/1/32/132a5992-0015-555e-991a-d15c348432a5/657ad3d857af5.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
+  - title: "3 AI-Backed Stocks That Could Deliver Massive Gains by 2028"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Many sectors will grow in 2023, but few industries can keep up with artificial"
+    publishedDateTime: 2023-12-20T22:08:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-backed-stocks-that-could-deliver-massive-gains-by-2028-1032917545"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "acFXjIVG254uUNiBNr6A4844lYsS4QRB6fJT/4OCy1tge08+b61HrXpzu1geIvoufRpuIbz5Vq5eqYJYg+ckjpCuErIFBgSKhYtKLZz0mGiENo5NmWZcXShvfF7cm/D+LHGYYtq0k+TtZCQWXJ2LIJGvTn+ZX/px62PsnD7Cl4uOCTQYaAa/b6XR1ywbWVRHG5Ky94v5sbowbKif9EeFTPbtF8GulAzrybJc0V9V59kiMJv3D8Nz83kVskWyTvPwrymty6Ol79GfY4Zx9lPzFyozx8MF0mUcXMBInMpJt/AzJdv6aH4IeOwlLd1HrTUzXo+0qsdCIqv/oPS8YApB8+/ng4Xr6RsBpKZtmoD/Gqg=;yqWgZT2/nKHq8Cls5YDS8w=="
 ---

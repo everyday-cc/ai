@@ -50,6 +50,15 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 17
+  - title: "Is the Apple Vision Pro the future of vision science?"
+    excerpt: "AR/VR technologies have been shown to help with diagnosing various diseases and helping doctors train. Can the Apple Vision Pro do the same?"
+    publishedDateTime: 2023-12-20T20:52:00Z
+    webUrl: "https://interestingengineering.com/innovation/opthalmology-vision-science-apple-vision-pro"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 4
 
 secured: "GAbTmnW/8jxw1KnyV5tLo8LhGZXyrf4yC+jzdc3oj5xXFoRV0kaQs5KJeGnTKQ23qfojlsSk9TwDhY4RK8TtIEFHRdLZ+ycF1ztm45JEbbJRZARE9QVy0XaB1+uQgFdqfH4iBDVAnlH0NMTuVirx/nsimEz0ixG/YLQpe5cCeu7Zb/n8GnJXONX/4eOjg0hjQ2CiyUrMY521NLf7+dP7xuGBdRAeaEIIc5q5/UGSJ1RjDhb+fwFEHCjPTXVii931iManIi3+qNkqkD3cJNhPIlJggTJIe6KESVGwKfUA8PzhF6Zbhd7GVskFe+j82Xr4aTfvhysoFMLqTGJOgaJFCivMHKnNhPOEmL5blZa5rH01tZZYyOtbQ7K4pn8humx9tKmr+xP6Vv3dT6fpACJc2NnhurnsRFlS4ChNfS6SqFyERljXMVZsTceVLRb20Ab5JzGjMlBX2mOfM1aztOI0rXd5IgsDSwowBi0H36qSGyWaA0fgN8YDo3C5IeO86okOB0ItEj4Dqo/3cGvYhgza8Q==;K/J5XJ1cIMRypqe2qJUV1A=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/12/218616-digital-bank-bunq-cl
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/12/218616-digital-bank-bunq-claims-to-be-first-ai-powered-bank-in-europe/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1600
     height: 1285
     isCached: true
+
+related:
+  - title: "Neobank Bunq rolls out customer-facing gen AI tool"
+    excerpt: "The new tool, called Finn, replaces the search function on Bunq’s app, allowing consumers to plan their finances, budget, navigate the platform and find transactions."
+    publishedDateTime: 2023-12-20T19:44:00Z
+    webUrl: "https://www.bankingdive.com/news/dutch-neobank-bunq-gen-ai-tool-fintech-ali-niknam/703114/"
+    type: article
+    provider:
+      name: bankingdive
+      domain: bankingdive.com
+    quality: 34
 
 secured: "pjlOU00KqNHVV4eXQXLGr6dNiqD/6h+2BYy61ueJ9y236hTTtWPU9ZI6Hrw4RvNhERA3uyfjVF8hEYt1yv1MV6w9nREIaSdvxcima6nOlXGkDiwYUgDD2J6BfQ9HweHtXDoakq3K7vbFHcBiuRsgyCAMAxaloBrq6UpNh9JJy49cLK4dnZ5qgTaYtE+4HRn4a3diiV5DXnxxwoXVYmxerTtFpCuU5cbsMIfR6dAo33JZ14376X9b1TZQ9OTjIclGu6QjxWJY8iiYZpTm5Wf8epi3NDFgrxvSmV+qCysvwVfWDdz2CLcN7ntuNzvbLbZ/3j29iePLCaIiqdihRi4fRSH9kj5uMjqr1RN/ojqBTas=;jwj6Iz85cygh0X7NGsVRlQ=="
 ---

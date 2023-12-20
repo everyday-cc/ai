@@ -52,19 +52,19 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Acer Debuts AI-Ready Swift Go 14 Laptop with New Intel Core Ultra Processors"
-    excerpt: "Acer announced new models of the AI-ready Acer Swift Go 14 (SFG14-72)powered byIntel® Core™ Ultraprocessors that feature Intel Arc graphics processing unit (GPU) and Intel AI Boost,"
-    publishedDateTime: 2023-12-18T17:08:00Z
-    webUrl: "https://pragativadi.com/acer-debuts-ai-ready-swift-go-14-laptop-with-new-intel-core-ultra-processors/"
+  - title: "New Intel Core Ultra Processor-Based COM Express Compact Modules For AI At The Edge"
+    excerpt: "With features like multiple P-cores, energy-efficient E-cores, and a powerful Intel Arc GPU, coupled with an integrated NPU for advanced AI processing, these modules are set to revolutionise industries like healthcare and industrial automation."
+    publishedDateTime: 2023-12-18T05:54:00Z
+    webUrl: "https://www.electronicsforu.com/news/new-intel-core-ultra-processor-based-com-express-compact-modules-for-ai-at-the-edge"
     type: article
     provider:
-      name: Pragativadi
-      domain: pragativadi.com
-    quality: 36
+      name: electronicsforu
+      domain: electronicsforu.com
+    quality: 33
     images:
-      - url: "https://pragativadi.com/wp-content/uploads/2023/12/Untitled-design-22.png"
-        width: 640
-        height: 381
+      - url: "https://www.electronicsforu.com/wp-contents/uploads/2023/12/CONPR2315A-TC700-with-Meteor-Lake-Image-2.jpg"
+        width: 1800
+        height: 1200
         isCached: true
 
 secured: "scncTmJ0zKLaJwrN/Qqs9blzEEZTP5+VzFiz/DQNUqllAcoQrXvXgfXKPVXAgmF4mAbGGZ9pfNDIlgdoZXaXZ1xjbWIhw4uWMBhshRVQItMulNnoLRsFrq8yQAq7Ak9nmXg3hA7n9VXJdiL/1EOGeWy6OH95ux7pKz/ylJoOEaHtbmtZ5km8ejcpKE5DacVGOnHplVGjb6ZWHakibpgG5MtieiYgrJqBtqVch1n4PIoDd5H+sVezmvz8T7IbCfAosOA8Kq/f0BBvaHfvMBO13jzWz5HomPMtYLE1Rffq2BUqq8ej337Od40raZjh9lbux8oiMSsuRriqYWKqH6ZDCk0HuKN2aafsRUfJPAN8Drs=;ZfmKQyJY+7zkl6DDwR8hFQ=="

@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Self-driving cars are rolling out in LA. Are they safe?"
-    excerpt: "A series of high-profile accidents involving autonomous vehicles has some Angelenos nervous about their future in the city."
-    publishedDateTime: 2023-12-19T02:08:00Z
-    webUrl: "https://www.kcrw.com/news/shows/greater-la/waymo/driverless-cars-risks"
-    type: article
-    provider:
-      name: KCRW
-      domain: kcrw.com
-    quality: 24
-    images:
-      - url: "https://www.kcrw.com/++theme++kcrw.theme/images/KCRW_Logo_White.png"
-        width: 542
-        height: 384
-        isCached: true
 
 secured: "NT94aJo/CgRhg2Rd/oim8zW0HLRzPLRGEbU33FaPlHogVsbNB94aDbWM7rdfwsgeec7qF2SCu8GAri6Q66ma1xbC1SEn3mH0JAmmzlnyGKxb6gEqC3AtQ+9zvTcd9XcBMaqgHLVzMsXweHO0FSxvVkmR1Xv8cn8yaSRlIKk/S+hfvAaJVlO4r7GzW8Ej/bwzDNHabBamWadKeq+qxfs2E2LC811vrbud72F0lO6u2gEMidmxGMVaa73Op4/fundlHoFE6NhzECQ+Bb7DROflAm+XC7AhcySszLPtA8PiXrbj3OeBvvO8kxPRKk2bYtz49j3GbSfEGhGozsm65fGCwyQEqoc2npXmQe7+yQfREIk=;0Zaya6fUIBDYkB3oJLKgMQ=="
 ---

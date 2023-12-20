@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Rite Aid to face five-year facial recognition technology ban"
+    excerpt: "Rite Aid is banned from using artificial intelligence facial recognition technology in all of its stores for five years after secretly using it on customers, and wrongly accusing many of shoplifting."
+    publishedDateTime: 2023-12-20T21:00:00Z
+    webUrl: "https://www.nbcnews.com/now/video/rite-aid-to-face-five-year-facial-recognition-technology-ban-200656453996"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo200656453996"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo200656453996"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 104
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_12/1703105965146_now_daily_b_tech_riteaid_231220_1920x1080-b54ugy.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "FTC Bans Rite Aid From Using AI Facial Recognition Technology In Settlement"
     excerpt: "FTC says Rite Aid technology falsely tagged consumers, particularly women and people of color, as shoplifters."
     publishedDateTime: 2023-12-19T22:05:00Z
@@ -184,6 +200,20 @@ related:
       - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/12/6582202c00d54b001e5f3615-federal_trade_commission.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Rite Aid can’t use facial recognition technology for the next five years"
+    excerpt: "Rite Aid is banned from utilizing facial recognition programs within any of its stores for the next five years. The pharmacy retail chain agreed to the ban as part of a Federal Trade Commission settlement regarding “reckless use” of the surveillance technology which “left its customers facing humiliation and other harms,"
+    publishedDateTime: 2023-12-20T21:00:00Z
+    webUrl: "https://www.popsci.com/technology/rite-aid-facial-recognition-ban/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 53
+    images:
+      - url: "https://www.popsci.com/uploads/2023/12/20/Depositphotos_616971216_L.jpg?auto=webp"
+        width: 2000
+        height: 1125
         isCached: true
   - title: "FTC calls pharmacy Rite Aid “reckless” after facial recognition use in stores"
     excerpt: "The FTC said Rite Aid had acted recklessly when it used the technology in its stores from 2012 to 2020 to capture images of its customers in an effort to decrease the number of shoplifting incidents. Customers who had acted suspiciously had their faces saved in a database, sometimes at the side of personal information."

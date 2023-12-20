@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving cars are rolling out in LA. Are they safe?"
-    excerpt: "A series of high-profile accidents involving autonomous vehicles has some Angelenos nervous about their future in the city."
-    publishedDateTime: 2023-12-19T02:08:00Z
-    webUrl: "https://www.kcrw.com/news/shows/greater-la/waymo/driverless-cars-risks"
-    type: article
-    provider:
-      name: KCRW
-      domain: kcrw.com
-    quality: 24
-    images:
-      - url: "https://www.kcrw.com/++theme++kcrw.theme/images/KCRW_Logo_White.png"
-        width: 542
-        height: 384
-        isCached: true
   - title: "The Future of Driving: How Automotive Technology is Shaping Tomorrow’s Roads"
     excerpt: "Welcome to the road trip of the future! Strap yourself in as we embark on a thrilling journey through the realm of automotive technology and its astounding impact on tomorrow’s roads. From self-driving cars to electrified vehicles,"
     publishedDateTime: 2023-12-19T16:34:00Z

@@ -57,15 +57,6 @@ related:
       name: London Evening Standard
       domain: standard.co.uk
     quality: 22
-  - title: "Artificial Intelligence Was Just Classified as a Threat to the Financial Sector for the First Time"
-    excerpt: "The rapid development of artificial intelligence may pose a risk to the country's financial stability and exacerbate existing challenges with access to capital."
-    publishedDateTime: 2023-12-15T20:29:00Z
-    webUrl: "https://www.inc.com/melissa-angell/artificial-intelligence-was-just-classified-as-a-threat-to-financial-sector-for-first-time.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 3
 
 secured: "K00HT5oTbjFLSelumB7vVsBSHfP44qYoZuVtC2WsZFRj77v1h7MUEnpXU5FlDHIBc5EAK9XZfX4A8oVhfb/tftNgf+wE1DzJqXKzw3RcPHnXswdwtD5WiXW5KJVlJqVG5s4jb7d5YaX4jgxbfOJx69wUQsB3RLTaPXL+E9UpItC+6RTi8WU53DsZQUV4rkBDLPgduEusgBcPDuCa2AR9ka8sif27qlt59nR5+u9x5g6KSIDXagUCmqoBOZDqzy9qVdqxQxZkszPe0HQj0eKdQK1gH/xiHLQuwR58KOV3jd1QpDDJc0Rcbnxt011lBmF5RGdcZuXtd4tBRijRW9EagPNcb8WGJfp11oWSbYfoAjNUj2cvSGIy2diOfT/Utu6q08EZLTS7UXgGaWVvdKUhEIrEtpY/um7rVDyvP6LwUhXmXG4mMHEbHYqpe7+tNuBGHMNrGjGwjwA/B2Lca9vDONPDP6j7MulRQvhDygJ/ov4qIHsPaJQyV9N0C2vNzDzvvsMFmBPuTsFh8Bend4o8aQ==;WIOFRc+ltkdR76GpfywiNA=="
 ---

@@ -38,15 +38,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "OpenAI launches $10M grant program to keep AI from going rogue"
-    excerpt: "AI will become significantly harder to manage in the next decade, making existing oversight techniques insufficient, the startup said Friday."
-    publishedDateTime: 2023-12-15T20:53:00Z
-    webUrl: "https://www.ciodive.com/news/OpenAI-superalignment-superintelligent-steerability-AI-systems-grant-program/702713/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 17
 
 secured: "S1RHlgBfLHo0E0eGiOIpr914KKktKPK8EJgJPoqqh8YUjoA5/KBq9my02OAlkVM5RP7sF1vSZtVsNh4fS0jsHoEJ6uczkUM5vQLjVKQC2YXExXEapfmMqP5vHjCB/2wDG7Wh8CVaBd8kQjq+uzAnw/hjOBPuocoyRZA6orbUaban3blTRND/2rW30kXOjMY5fWzbRZDCDwnu55aRlhvib68SJ3xnwg/by/iXF2uzq4nGYFoJP3uJMFmBA0KBphdcwijndCnBaCTYdSu/lHmuEOzOVdjgI8ebNqg2/ZZfye2F41tNxvLdocHRu1h0XFq7z/lSt0Bm6mdw/pDYo5AnWrazyxDBZfnzBHV/LLCUOBFIO7i65GVHsboq9cySjfYG8WkwWG4SzkPSOruCN/THo2FQpIO3Ud3zYmVPazonFF+XCOCIxBiWgQvHlg8Ap3FV1hwaYYWrgt5+ggdMD7L/lXEJUT/wJIkbkv1YFUvQlQHDCity5OZCaiI1xLtO49T+q0StSe3YSYfyLZrFSYtfEg==;3zRL85JCy6DioUkEl1wLYw=="
 ---

@@ -49,6 +49,15 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 49
+  - title: "A report reveals AI image-generators are being trained on child sexual abuse images"
+    excerpt: "Welcome to What’s New in AI, our weekly update where we bring you all the latest AI news, tools, and tips to help you excel in this new brave AI-driven world. Let’s start by focusing on the biggest (and currently breaking) story of the week:"
+    publishedDateTime: 2023-12-20T19:36:00Z
+    webUrl: "https://www.androidauthority.com/new-in-ai-3396270/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 41
   - title: "Artificial Intelligence Harmful Images"
     excerpt: "- Students walk on the Stanford University campus on March 14, 2019, in Stanford, Calif. Hidden inside the foundation of popular artificial intelligence image-generators are thousands of images of"
     publishedDateTime: 2023-12-20T11:05:00Z
@@ -64,6 +73,6 @@ related:
         height: 630
         isCached: true
 
-secured: "eA1khli6iJSb7xspAh9ProoyQTiJW64s7xmEASyuzuB61gQnB4qa3h7isQOacUV5/kisUqoYmOGwZwZjeE/86POFYeAFf6dOQOk34Sf8X5qm3TBwZhhCsk1CDdzjIaxftB/EgxJ6y04gWrtxZKaelGWKbDGbcSV80uTQlxU4ofbB/OWa5o5cTaPKEbsO6X8k8hOeWJSBO72q94dpgkv1EqFVyQ1omfwAn4xqlhlEVOCJYe2hWi5quxdn+wObaWH4YMSHBfRjxOzjMpVqK5hgq603LY7lHRqiY+2Nllxr5lMeEuNY4FCzNnXBqqD/pavBDQ8mxyqtTyc9MuoRM5rtjGN7lDvqONu3KUHJGW6iN18=;9GHWOdD8O1qo5bpQjNlQig=="
+secured: "YDAtZ7/FhlaSPIbIOQJRJv2QU70QO6mgblTEqK9ID1UUbayBZv1ifWBjaHJobB2G3Q5SlbpdJd86tMZlGfipr3MqnHjJ0TGMgtat2G3Z8kTGMwyqIzUdGMrxJDJ2EQn6/8SZN7vEqiyoR8fgS144YKWO1qCxjO3+RGcx+N+7gAJ29e2HGrVRrnwffOI56AcyBJcCCfJQc4TrtnGfNkaW5uIrUGKi0IXss29tHpjwqUaGyBc9O1jZwdYx3yuN/8fSqnMVvOGj360Z7etlGYrAjO2f3RMUQ83+a7YjXBZz6OBDfNA18xbJEYQascH2ab9D6i49jMmZ0tjCpLP3qV4IWpD1Nh466H8RSNxQwTQjj46sdujIHqOXem2NHWmg8KwCxXN2YwS8IGN3e6rpHJ51P1dJncq2nSrKNNF1lYGjE4hafOA5/we9GJj3n6b5FSMFpQWKHc9AD4eRzPLS0o/tjCokqfR4Q08uFV1eI8NQ3BANSla3IRBJsjmVXSAoRz9MFkGtM5nzmDGNT8F3JewsLQ==;4K9hGZHb8TxRhjrDZxcGPg=="
 ---
 

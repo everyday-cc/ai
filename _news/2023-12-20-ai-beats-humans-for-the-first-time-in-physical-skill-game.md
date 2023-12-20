@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/ai-beats-humans-first-time-physical-sk
 webUrl: "https://thenextweb.com/news/ai-beats-humans-first-time-physical-skill-game"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -61,15 +61,6 @@ related:
       name: London Evening Standard
       domain: standard.co.uk
     quality: 22
-  - title: "Artificial Intelligence Was Just Classified as a Threat to the Financial Sector for the First Time"
-    excerpt: "The rapid development of artificial intelligence may pose a risk to the country's financial stability and exacerbate existing challenges with access to capital."
-    publishedDateTime: 2023-12-15T20:29:00Z
-    webUrl: "https://www.inc.com/melissa-angell/artificial-intelligence-was-just-classified-as-a-threat-to-financial-sector-for-first-time.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 3
 
 secured: "XCuNXOPXFYYU29Ao9djDKa2KRpHJrQBwIRXkA7fV/T1iIzKf1+rFOhPKfAd9FbpYml2lLnFpyv0mABqZg9yBRtghhvvX0y3pQalnnG77sNrz96CI+71PU0v4mxEB7a1I0E4q4RtgigPNX24wouxrWF+iiFO36xXYc8LCDU35I5YNJ7VdaojfPSiTX5etLHp9JUBdy4ztIgxOiL7qGgWZUkaaOlDn3CpGSc/adyBBvcGeuOFMk5ijbeFfG10QTDX45QDPG3M26Wp4Us2WAqdUCBIvcKrkSqG2RZOcPXf/VclkQWZH6yCBiqrQ01CTUf3iQT2wGbGkAJthI+j7OY/h/7BJueTky+wuU627VFwygUSUiIecsshlQa+EVC3Z0fAapOOwuuc/ukoYnrmHVWwGP5PASxeK983hAeYORVkVec+uyc1lubOBVPj0cjblwj1wbT/ZZoJEYxTZ0cnoCF+a7Tr2ek76SkfAh6dAaIxEHT7L+1gpElA4kjGYoJFd8hCOZ8Bt3cUfovgsJgex7qhkZw==;pS2U/B3LLmC3RrIMmpxo0Q=="
 ---

@@ -23,6 +23,17 @@ images:
     height: 506
     isCached: true
 
+related:
+  - title: "Local View / Artificial intelligence: useful tool or threat to humanity?"
+    excerpt: "From the column: \"War is already too destructive when it is being directed by humans, who at least follow some moral compass. ... What will war be like when unemotional machines make all the decisions?"
+    publishedDateTime: 2023-12-20T20:15:00Z
+    webUrl: "https://www.duluthnewstribune.com/opinion/columns/local-view-artificial-intelligence-useful-tool-or-threat-to-humanity"
+    type: article
+    provider:
+      name: Duluth News Tribune
+      domain: duluthnewstribune.com
+    quality: 18
+
 secured: "rGxMV7k8/JdVR9RPondSWHOHICc6GMdQfAESiV3DKsHAmzC1V87MQGt0BZOjpoGhBmO6pFWZ03AyPI4gvBjuW1rZUXZp+X/zSKOOhSBafO0ktCiaPw7l36JhdOf48J66vK8StV8nSOB9FvXzP8NO8eqBuO9POHf1FjAqfpAoepSf2Ow68PuMGJJ476ZgdnLw1J8Q945rUU+n06ukgWrYHJMYYrkKqCsrrd/n5c+dGagOswtc9hIBbHNm5ZeJUe9Iy9ibvrEJQZ4MZtrt+piwe8l1FywF5Q88SDrwW3K6vRBbkkRx/SbfGTxNicwuHe8gR3bywCpC5M8p39Jy9sHYRMqIle7Rx0zL8yyyNK9Z/DwBVCLJnsAf718TIZ0Of4MqtVAvcYMH/UpXTdSdZ8+pOp41gsknguPrkj5zW+bsyD1zi2to4cV17VJmVNrXTkBwKM7CMn9YdW/WOXuAmYjl8fqL/FX8nCY1F+Bb9etUXF2ELG+HehXsYby5hkcTMfHg0HcFOivT9yy1Mlch87QV6A==;QWGONnyafpGKnc/9KuGLCQ=="
 ---
 

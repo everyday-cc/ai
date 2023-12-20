@@ -35,6 +35,20 @@ related:
         width: 640
         height: 365
         isCached: true
+  - title: "The challenges of regulating artificial intelligence"
+    excerpt: "The European Union reached an agreement to regulate artificial intelligence. CBS News Bay Area anchor Elizabeth Cook asks Olaf Groth, PhD, from UC Berkeley's Haas School of business, about the future"
+    publishedDateTime: 2023-12-20T20:38:00Z
+    webUrl: "https://www.cbsnews.com/sanfrancisco/video/the-challenges-of-regulating-artificial-intelligence/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/12/20/e3edb272-d110-4c11-ac40-2703324dcf67/thumbnail/1200x630/34abc44066c4a0f3ad660829971c657d/b76b006c669e7d1697ac4f0a016e0ee4.jpg?v=5382e209c94ee904b3a96a69f8ca0ce0"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "OPINION: Why artificial intelligence holds great promise for improving student outcomes"
     excerpt: "The prevalent narrative around AI and cheating is overshadowing the technology’s true potential: Artificial intelligence holds great promise for dramatically enhancing the reach and impact of postsecondary institutions and improving outcomes for all students."
     publishedDateTime: 2023-12-19T18:15:00Z

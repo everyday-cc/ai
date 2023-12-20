@@ -48,6 +48,15 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "Is the Apple Vision Pro the future of vision science?"
+    excerpt: "AR/VR technologies have been shown to help with diagnosing various diseases and helping doctors train. Can the Apple Vision Pro do the same?"
+    publishedDateTime: 2023-12-20T20:52:00Z
+    webUrl: "https://interestingengineering.com/innovation/opthalmology-vision-science-apple-vision-pro"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 4
 
 secured: "qA4aDC2UnWF52WmGfMts6745UtpF1uutDaINBxEUtDVr26WuJZjSFLnH77Wg5Y7m7YHxCkp7LuQzdqNgYCjxFwNgToix6k7oAcbWP7rOtMEGV1QuOWx13RhQ11aH3HAIaLst4BhkLLBRkZAWwAzmerIW8b73UPaBbf0ss4ebfiWvjwaqdidQV6BYtlp1EA8eRYTHF+dRzEofVuo5MGg7we34mpoKbLcwlsvz501APr/IqFwjzz6KdE/0yRBlW01rn4+qZGLc1CjKNZqproooYlEPzwXiXl4s/akFLeHoI84kqIUvzroXI/u1O5pAmanJSCU6S2DEBqCvl6j/hOqFBFxgNaRglWfQsXlJw02y7ChvD4sIx1hquR8lt9ZGO4hnEnifIoEl03aZ0KC7ndhosqYlj1iYXN48mhBY+8hsiBJXTo7AHF0t5lbvy9HgFXFT0zl0Cfjx/I0Gnw2vAxecWDDNM39fGyAuf+lVULE1HUUMuhtpip0EkvCa8pMRIpUUzIjknO1rDrsCGFL0wSY59g==;o0AVe/v1F2k0saXrTdhNaQ=="
 ---

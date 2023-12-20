@@ -47,15 +47,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "EU’s Sweeping New AI Act Could Be An Innovation Killer"
-    excerpt: "The European Union's draft AI law emerges amidst rising concerns among EU member states that regulations could choke off innovation."
-    publishedDateTime: 2023-12-15T19:54:00Z
-    webUrl: "https://www.forbes.com/sites/jamesbroughel/2023/12/15/eus-sweeping-new-ai-act-could-be-an-innovation-killer/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Accelerating Innovation: Open-source Software, Artificial Intelligence, and the Auto Industry"
     excerpt: "THE RISE – AND IP RISKS – OF GENERATIVE ARTIFICIAL INTELLIGENCE The past year has seen an explosion in the advancement of generative artificial intelligence (AI) programs such as ChatGPT, but the auto industry has been using traditional and generative ..."
     publishedDateTime: 2023-12-19T00:00:00Z

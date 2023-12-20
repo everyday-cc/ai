@@ -25,51 +25,59 @@ images:
     isCached: true
 
 related:
-  - title: "AI gives birth to AI: Scientists say machine intelligence now capable of replicating without humans"
-    excerpt: "A group of scientists from across the U.S. claim to have created the first artificial intelligence capable of generating AI without human supervision."
-    publishedDateTime: 2023-12-15T21:00:00Z
-    webUrl: "https://www.foxnews.com/science/ai-gives-birth-ai-scientists-say-machine-intelligence-capable-replicating-without-humans"
-    ampWebUrl: "https://www.foxnews.com/science/ai-gives-birth-ai-scientists-say-machine-intelligence-capable-replicating-without-humans.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/science/ai-gives-birth-ai-scientists-say-machine-intelligence-capable-replicating-without-humans.amp"
+  - title: "Will AI substitute doctors in healthcare industry?"
+    excerpt: "The value of healthcare workers' intuition in effective clinical care has been verified by reports around the world again and again. From doctors' ability to spot sepsis in critically ill children, to 'nurse worry' as a 'vital sign' predictive of patient deterioration,"
+    publishedDateTime: 2023-12-18T12:48:00Z
+    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/will-ai-substitute-doctors-in-healthcare-industry/106097951"
+    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/will-ai-substitute-doctors-in-healthcare-industry/106097951"
+    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/will-ai-substitute-doctors-in-healthcare-industry/106097951"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 77
+      name: health.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 76
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e4336cb-1ed1-4bdb-8d7a-51b172f56e8f/f6e77140-9cf3-4af3-9e39-df8551415803/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+      - url: "https://etimg.etb2bimg.com/thumb/msid-106097951,imgsize-14168,width-1200,height=765,overlay-ethealth/health-it/will-ai-substitute-doctors-in-healthcare-industry.jpg"
         width: 1200
-        height: 675
+        height: 765
         isCached: true
-  - title: "AI self-replication: Machine intelligence can now replicate independently"
-    excerpt: "One device Sun and Chen demonstrated — a human activity tracker that uses AI to gather and analyze motion data — was housed in a chip smaller than a dime. That sensor is an example of tiny machine learning, small AI systems that can be used in compact ..."
-    publishedDateTime: 2023-12-18T10:46:00Z
-    webUrl: "https://www.fox10phoenix.com/news/ai-self-replication-machine-intelligence-can-now-replicate-independently"
-    ampWebUrl: "https://www.fox10phoenix.com/news/ai-self-replication-machine-intelligence-can-now-replicate-independently.amp"
-    cdnAmpWebUrl: "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/news/ai-self-replication-machine-intelligence-can-now-replicate-independently.amp"
+  - title: "How AI Is Influencing The Mortgage Industry"
+    excerpt: "In the not-so-distant future, you might join a video call and meet with a virtual representative to discuss your mortgage options. Afterward, an AI-written document will deliver personalized recommendations based on the conversation."
+    publishedDateTime: 2023-12-18T08:59:00Z
+    webUrl: "https://www.forbes.com/advisor/mortgages/how-ai-affects-mortgage-industry/"
     type: article
     provider:
-      name: FOX 10 Phoenix
-      domain: fox10phoenix.com
-    quality: 40
-  - title: "Love in the time of artificial intelligence: Desperately seeking the human-AI connection"
-    excerpt: "If AI dredges up apocalyptic fears that it will corrode human connections irreparably, maybe the best solution is to ask another informed human being."
-    publishedDateTime: 2023-12-18T14:01:00Z
-    webUrl: "https://adage.com/article/digital-marketing-ad-tech-news/love-time-artificial-intelligence-desperately-seeking-human-ai-connection/2533936"
+      name: Forbes
+      domain: forbes.com
+    quality: 69
+    images:
+      - url: "https://www.forbes.com/advisor/wp-content/uploads/2023/12/How-AI-Is-Influencing-The-Mortgage-Industry-Ft-Image.jpg"
+        width: 766
+        height: 431
+        isCached: true
+  - title: "Revolutionizing Industries: How AI Apps are Transforming Healthcare, Finance, and More"
+    excerpt: "Welcome to the era of AI revolution! We stand witness to incredible technological innovations that are reshaping industries like never before. Among these groundbreaking advancements, artificial intelligence applications have emerged as the game-changers across numerous sectors."
+    publishedDateTime: 2023-12-17T16:56:00Z
+    webUrl: "https://techbullion.com/revolutionizing-industries-how-ai-apps-are-transforming-healthcare-finance-and-more/"
     type: article
     provider:
-      name: Ad Age
-      domain: adage.com
-    quality: 25
-  - title: "AI self-replication: Machine intelligence can now replicate independently"
-    excerpt: "Artificial intelligence models can now create smaller AI systems without the help of a human, according to research published."
-    publishedDateTime: 2023-12-18T19:09:00Z
-    webUrl: "https://www.fox4news.com/news/ai-self-replication-machine-intelligence-can-now-replicate-independently"
+      name: Impacts
+      domain: techbullion.com
+    quality: 67
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/AI-App.jpg"
+        width: 1000
+        height: 500
+        isCached: true
+  - title: "Modern Healthcare is evolving along with the industry"
+    excerpt: "It’s an exciting time to be journalists covering the industry. And for that reason, Modern Healthcare is evolving in 2024 too."
+    publishedDateTime: 2023-12-18T08:59:00Z
+    webUrl: "https://www.modernhealthcare.com/opinion/modern-healthcare-evolving-along-industry"
     type: article
     provider:
-      name: KDFW
-      domain: fox4news.com
-    quality: 20
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 19
 
 secured: "8Qmv65CMve6xz45f9U3UkgInEQ4SV0SpGCbXN3UeDkG/yFx/JkvxC3xfsy4uUhZ8Ck6mAMrPq4ZIZ19laTjKzPV6MaMN2nOzOrfbeqVPtMY6K0VMcsr232Kz+tYL4hMDdJNWRUV9A7jjwwUbGSt6zvvVZQh6R5jmbHVVkUU2fPJeScmksYWNI8LlY4EsiXOgJJLmLdaBaIU1htLVVXvhP0X4rIi6xkpOzoTqFm1RjMTD1aIIYgtf4Oqhve7UR1L92QKebYM1E53y5KBq7AXXeZ+6os1iz1+5/K/t/GrNlEG1dpUqgwGDdKP+b7v1Z9JFCF5ANmVDrNpCl0ru6A6iwQ0b2WQphzhC6JP9bd9Q5EccZoefxvHndtBS7Nj2VP0hPqksFAA+cT5UC4qxwhpQz43Mb2xkvkjnjHuaL+aBHVfNU40Ktb/9h1t2J0BFd0Uu6mQ78M1QsDSbQ+bR+ryrNL4mCWqAZOZMy72WYbIxqzPiwfzhZdxpfuo/KqD7FRzH2im8t8ME8+QDN5wpdsSMbg==;GMVGrdyv0zq7XLXxAr4jDQ=="
 ---

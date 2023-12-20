@@ -23,7 +23,7 @@ topics:
 related:
   - title: "Saving Big: Paytm's smart move with AI to spur profit surge"
     excerpt: "Fintech giant Paytm is leveraging artificial intelligence (AI) to revolutionise payments and financial services like wealth management, Paytm Founder and CEO Vijay Shekhar Sharma said in"
-    publishedDateTime: 2023-12-20T16:21:00Z
+    publishedDateTime: 2023-12-20T21:51:00Z
     webUrl: "https://www.thehansindia.com/business/saving-big-paytms-smart-move-with-ai-to-spur-profit-surge-845700"
     type: article
     provider:

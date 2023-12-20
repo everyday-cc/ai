@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/garydrenik/2023/12/19/pioneering-studen
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/12/19/pioneering-students-from-swiss-boarding-school-issue-global-ai-charter-calling-for-ai-regulation/amp/"
 type: article
 quality: 76
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "The challenges of regulating artificial intelligence"
+    excerpt: "The European Union reached an agreement to regulate artificial intelligence. CBS News Bay Area anchor Elizabeth Cook asks Olaf Groth, PhD, from UC Berkeley's Haas School of business, about the future"
+    publishedDateTime: 2023-12-20T20:38:00Z
+    webUrl: "https://www.cbsnews.com/sanfrancisco/video/the-challenges-of-regulating-artificial-intelligence/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/12/20/e3edb272-d110-4c11-ac40-2703324dcf67/thumbnail/1200x630/34abc44066c4a0f3ad660829971c657d/b76b006c669e7d1697ac4f0a016e0ee4.jpg?v=5382e209c94ee904b3a96a69f8ca0ce0"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "How Artificial Intelligence is Rapidly Changing Human Society"
     excerpt: "Artificial Intelligence (AI) is revolutionizing human society at an unprecedented pace. With advancements in technology, AI has found its way into various aspects of our lives, transforming the way we work,"
     publishedDateTime: 2023-12-19T19:42:00Z

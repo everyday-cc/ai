@@ -41,6 +41,29 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
+  - title: "3 AI-Backed Stocks That Could Deliver Massive Gains by 2028"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Many sectors will grow in 2023, but few industries can keep up with artificial"
+    publishedDateTime: 2023-12-20T22:08:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-backed-stocks-that-could-deliver-massive-gains-by-2028-1032917545"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+  - title: "AI news to watch for in 2024"
+    excerpt: "If 2023 was the year that AI broke out, 2024 may be the year it’s reeled in. One of the things that has been scary about generative AI since the launch of ChatGPT in November 2022 is the complete lack of regulation. Large Language models are trained on ..."
+    publishedDateTime: 2023-12-20T11:00:00Z
+    webUrl: "https://technical.ly/software-development/ai-news-to-watch-for-in-2024/"
+    type: article
+    provider:
+      name: Technical
+      domain: technical.ly
+    quality: 37
+    images:
+      - url: "https://technical.ly/wp-content/uploads/2023/12/KKXq7wXKPQjoKIe8dxxq-1-i40fl_2x-e1703019523645.jpg"
+        width: 1157
+        height: 900
+        isCached: true
 
 secured: "E4A7I/3IpP815A+Xj3nttS+I1JipNMkm9xsIUgu9rM7Fg1o42EU2n/JxbHhrF+bIU6y5aF5dwF/CDZIaWOC4S3+o7cOKmdsw4sUKWGU5gpiGbaUkeTPSvlt9ZNNene+4ohHGQXkQl0QL9WRzldFhsw6DPQeFIm21oxyviDrGAVXslkWOYp4Ae7UNNyy9d4FVV/8vTVU/mM2+3MoC1GaVU2tuRKOhJMS0V7JIPxyFj1+eSkfcryjE9ZuJ3rPC9RtudQ3EZ1UhLzFsTUXCoCpWRVqcji6z5jISovMlFn3l/HiwLwDx11xDxgp/uOdX6dcZ9r0wJ/3/mkEuI94/cfCASSnbuFhNvgy8OP6MqU5y4c4=;WXA00+68kfhH5BCZes4e4w=="
 ---

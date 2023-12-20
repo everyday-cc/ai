@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/melissahouston/2023/12/16/is-ai-the-fut
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/melissahouston/2023/12/16/is-ai-the-future-of-business-finance/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -54,6 +54,15 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 17
+  - title: "Is the Apple Vision Pro the future of vision science?"
+    excerpt: "AR/VR technologies have been shown to help with diagnosing various diseases and helping doctors train. Can the Apple Vision Pro do the same?"
+    publishedDateTime: 2023-12-20T20:52:00Z
+    webUrl: "https://interestingengineering.com/innovation/opthalmology-vision-science-apple-vision-pro"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 4
 
 secured: "6NPAFebh31Bcvgc51xjq79NQZM81dbTH1SfVgeYm3co2mfXD6R/HY9bayVBRXE5d1477OWhzNbQykijeRSIK41QTxR7AxSQvE31CXEdMH3kL3x01EYtqyn7De7i+yRW7gJ6GZismjiSfGncGE0cCDFJhn2YkIHMnSrhnHMfFmU5Pssj+vzkKs8FTanOx5iBkddsb3fokgIORtKZzBEGYr0VIVsMYCwgX8up1UFHbYAxN7bZ82BTyIKD8QFPn7Kn60icOy9i0gdK+WHLHpXcu3dGHDt/pridfZ816bmvnKUEtiB+xEBZ5FpUfOe1x7J0e3mdKSa48uTwSkYLL8uxSOd7sC8Zzhvi29MEyos/HjKiVa0VH/g3sl4R6q2swNt+tuqg4zmyd2PW3WBqiX+WfJGTFMwOzenzmoUxR6go5mwUYaEemRAuXKmlPwrDzxKkvTX7C/tQ5PGZzhcLjXLFwc/uqN5AFlIuziRCgKUpwHxybdyvs/XC1bcUVD6hRcezAyMoR/1lIBzzG0m4zyRi4kA==;gN3B0cUCnjqV4rCcwkZlyQ=="
 ---

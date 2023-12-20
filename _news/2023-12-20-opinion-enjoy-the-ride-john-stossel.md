@@ -24,6 +24,17 @@ images:
     height: 523
     isCached: true
 
+related:
+  - title: "STOSSEL: Enjoy the ride"
+    excerpt: "Still, many Americans object to robo-cars. Unions complain that they will take away taxi driver jobs, delivery jobs and especially truck-driving jobs. They are right, but in the long run, that will actually be (SET ITAL)good (END ITAL) for most workers. I'll make that argument in a future column."
+    publishedDateTime: 2023-12-20T18:58:00Z
+    webUrl: "https://www.sharonherald.com/stossel-enjoy-the-ride/article_3657d874-9f72-11ee-94c4-679146c41a7a.html"
+    type: article
+    provider:
+      name: The Herald
+      domain: sharonherald.com
+    quality: 4
+
 secured: "KRm77QQ015q3LNENwzyPh8uBYyqZ4zQtqaL4TyZkeLUljYVmiOn/O8DG+1ZPKQAS6lExkR0OL6gGwVQVTgBXIA/G4jKwt0Hmdt//dajy+SmDUy2evHHIfw8boEgUi6LbLk/OyiCpT98YTGug71s/LQcPBiiYI1gTnebptakD/mlnwSRzenOlKw0cuVhHbYaawSAEfIpcLGeMqqN4EuFo5KL5e0d7jF+Ss42GZOQaj1Pm4olr7oznxouf9HWXZ5xcUHfmmGCDu+6osMngS+X1eY25tTn5CAHGPplso4EPRM4DlmYnUlXt1p/ePE1f+kVr2T+ouZk0Ha97ze7VhXPPQZyphyo9hScZ+XbQlRYpO7FZZAFpx++cG0Rs1XjZYtaa1o/guKtCXFJHiV4K5Csp/8BGWsd7fjYvlVXQ3J1Nnqjc3qxY29WzSkbUenvVWA95RNw4G1WK4kImRDbBpf8eIqhj43BtQW3vSaDQb4Khh3CBKAi3YGR8acC/mmzZZgB3QiU6XG8uQ27nLVmxtf51Yg==;NgXALhgDdbaDLo+lS7BZ3w=="
 ---
 

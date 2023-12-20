@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence is accelerating the recruitment process — but tech leaders warn of bias and other risks"
+    excerpt: "Artificial intelligence can be used for recruiting top talent. Experts say that hiring teams could use AI for tasks such as sourcing talent and reviewing job applications."
+    publishedDateTime: 2023-12-20T18:50:00Z
+    webUrl: "https://www.businessinsider.com/artificial-intelligence-hr-hiring-recruitment-benefits-2023-12"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 27
   - title: "HGS Next-Gen Accelerator for Contact Centers Harnessing the Power of Generative Artificial Intelligence, Now Available to All Brands"
     excerpt: "Part of the multi-billion-dollar conglomerate Hinduja Group, HGS takes a \"globally local\" approach. HGS has over 19,947 employees across 35 delivery centers in nine countries, making a difference to some of the world's leading brands across verticals. For the year ended March 31, 2023, HGS had revenues of Rs. 5,006.7 crore (US$ 621.5 million)."
     publishedDateTime: 2023-12-19T14:18:00Z

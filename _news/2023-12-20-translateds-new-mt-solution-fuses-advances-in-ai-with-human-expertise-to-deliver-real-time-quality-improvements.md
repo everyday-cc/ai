@@ -1,23 +1,56 @@
 ---
 category: news
 title: "Translated’s New MT Solution Fuses Advances in AI with Human Expertise to Deliver Real-Time Quality Improvements"
-excerpt: "Translated today unveiled the first dynamic, adaptive MT solution that improves daily through targeted reviews to meet users' evolving needs."
-publishedDateTime: 2023-12-20T14:30:00Z
-originalUrl: "https://www.businesswire.com/news/home/20231215811537/en/Translated’s-New-MT-Solution-Fuses-Advances-in-AI-with-Human-Expertise-to-Deliver-Real-Time-Quality-Improvements"
-webUrl: "https://www.businesswire.com/news/home/20231215811537/en/Translated’s-New-MT-Solution-Fuses-Advances-in-AI-with-Human-Expertise-to-Deliver-Real-Time-Quality-Improvements"
+excerpt: "Press Release Translated, a leading provider of AI-powered language solutions, today unveiled the first dynamic, adaptive machine translation (MT) system that enables enterprises to continually improve MT quality in real-time through a unique symbiosis between"
+publishedDateTime: 2023-12-20T15:25:00Z
+originalUrl: "https://venturebeat.com/business/translateds-new-mt-solution-fuses-advances-in-ai-with-human-expertise-to-deliver-real-time-quality-improvements/"
+webUrl: "https://venturebeat.com/business/translateds-new-mt-solution-fuses-advances-in-ai-with-human-expertise-to-deliver-real-time-quality-improvements/"
 type: article
-quality: 13
-heat: 13
+quality: 43
+heat: 43
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "wNN84Dhk435xpdgjqMnH+0RTtG5cfvGqU9c3dhPaLppdp9yupRqFKMr/dNZcynlnnQw15YVP9gIQLiXAtkaw4VgnlBMNCVYO4tvzVHZ7TUrqcEjjXpUibqFNbKqNFeRTax62UJAHDj9YA+mgOo0VN5nYcEbB2HkuLsTHO2IDtJ3jrMUEzone/J+jxtJ6sUvaP6JTLRFb/S3tfKUOqN4By/bEp7B2KqfL6i1q8hgJcM8KN++TN9BFTy9pjuD8sjF9xGyud5PuLEFEpdDHqXoC33LPVW7KXSHWeKUt1M+Uog5K19NsFZHuhfLMiwjuQakIWI20yYllQaz6L6dralDdkQwkJtxevr4q7kclFVkAhBrXyA20ixZ4LUTd7cxqCO0ck6liIDoBAJjo8Nlrxa23uzdPSkUokrhv2rIuJbpZ3zgzY3LrJoZVJaNPNhR360Q61YXygIWy51e8ByJT26Xx2BLpItXP+iC0FG9bLn3IUrNMKcJogf4FgweHLZZ32UBA0YioJ6OxUlpXcsg1WHQnRg==;OTlXjxZJ8CEp7Y9ErJx9Hg=="
+related:
+  - title: "Sidewalk Entertainment to Showcase Real-time Motion Tracking AI Tech at CES 2024"
+    excerpt: "After MWC 2023, at CES 2024, Sidewalk Entertainment will demonstrate avatar's real-time synchronization with user movements and their intention"
+    publishedDateTime: 2023-12-19T09:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/sidewalk-entertainment-to-showcase-real-time-motion-tracking-ai-tech-at-ces-2024-1032912471"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
+  - title: "TooliP unveils real-time AI-powered patent translation service"
+    excerpt: "TooliP has garnered attention as a specialized service that utilizes AI language models trained exclusively on patent documents. When compared to conventional methods, TooliP enables real-time translation of patent documents with a remarkable reduction of over 80% in the time required for translating and editing patent specifications."
+    publishedDateTime: 2023-12-19T00:20:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/12/18/9935961.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
+  - title: "iPhone 15 Pro's iOS 17.2 Update Unleashes Advanced Speech Translation with Context Recognition"
+    excerpt: "The device's Action Button now includes new technology that allows users to translate speech into other languages, representing a substantial increase in language capabilities., Technology & Science News,"
+    publishedDateTime: 2023-12-20T12:58:00Z
+    webUrl: "https://www.timesnownews.com/technology-science/iphone-15-pros-ios-17-2-update-unleashes-advanced-speech-translation-with-context-recognition-article-106158687"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 0
+
+secured: "lN/3JMtnABAkqPjtmWYHuSM+GzJbS1cW71/tjfHqq3dPJrukwxSESKq/Ws61MtfeXTSW2GbxJG/422BM0s6jz3Dc4Ifki3e38euiKAZ03yBm3j2VP+xKUNocxFlU/Mwq4nj9auVgKwCIyGvdndxXwRAYOI7JdcH/CmkipJTKDOd5R8exzANpSK2grwPHWAFc3SJdlh34YndAh1ryFfIbmX1HCqDmPWpGZczST4lB8b4AITqpobGWoBPlwp8mGplqzQWZnivDZS1TJPJx3Ayetfd4wXONg08zj7O7Kei4yKtxRqGe5ZXtih1AF3fPSR+TkI4F1BESGsH+mfVjbXXld2CV9W06qczowmYsq4SO8gI=;447DSqeAsBnlT+ZmYYpoVA=="
 ---
 
