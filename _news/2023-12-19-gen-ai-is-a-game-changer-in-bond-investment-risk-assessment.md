@@ -60,6 +60,15 @@ related:
       name: Publishers Weekly
       domain: publishersweekly.com
     quality: 19
+  - title: "AI was the buzzword of 2023. What happens in 2024?"
+    excerpt: "You really need to understand the language of legal finance. You can fine-tune an AI model to interpret these derivative contracts and translate them into a machine-readable format for a generic AI model to use. You can create specific models of AI that ..."
+    publishedDateTime: 2023-12-18T08:11:00Z
+    webUrl: "https://www.aol.com/finance/ai-buzzword-2023-happens-2024-131116432.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 19
 
 secured: "T3oEiPbXydGMJpT/cKYQLmIdAYK8a+d4fhyQurvX8JFt/5RX9RifFiTqBn2wSqyD+0Os2DvVTp2JvOQrxVdJa+4DJGk7UYikatrHqTGLho8Lrx59plrZL2pvefYxBdHx5s2oX9WZTFZkh17KQM9OXjVoedfEVzB20suCfW1avhI/kz3rAFX9iV00RNwdW5Pw4uKeMQ1bJ8ejf+W/9jXvVnHAouhTZtqrglRrGpesMQ7mi/Eoj0Nd38XoeD65/lLCzss3ZwyPlfpMfzrZjjhmWmCyR+dLsKnuhPuRfQHRZ1XdGzZfyEDRgcVm7P5dhK5HxY9ekqeAU5ZZM0X7Hm8oUw3lK1UdVpitxbSKepzXjhncgzfMUkWxzkXwnnylyeCbqzUmBGF9aHP4+PLLiYMBKiRZ4tRLHxDS3f+pVJNdFQw6bMexof+QnoTKiNK1AZLOdqc6vg6AnuOnAdo9ATkbsZWUulgHMW2YpAkJn3068fQH42IlW0TTw/SZmdiIPMWIu4QaGvs1D1n2EZrgF92bew==;JzL/OnEO1f73Q9P7toYQ1w=="
 ---

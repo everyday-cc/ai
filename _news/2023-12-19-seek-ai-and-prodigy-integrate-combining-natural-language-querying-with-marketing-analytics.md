@@ -26,37 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "The New Frontier In Workplace Safety: Data Analytics And AI"
-    excerpt: "Explore how data and AI are driving innovations in safety protocols, preventing accidents, and enhancing workplace productivity."
-    publishedDateTime: 2023-12-15T05:35:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/12/15/the-new-frontier-in-workplace-safety-data-analytics-and-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/12/15/the-new-frontier-in-workplace-safety-data-analytics-and-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/12/15/the-new-frontier-in-workplace-safety-data-analytics-and-ai/amp/"
+  - title: "Driving advanced analytics outcomes at scale using Amazon SageMaker powered PwC’s Machine Learning Ops Accelerator"
+    excerpt: "This post was written in collaboration with Ankur Goyal and Karthikeyan Chokappa from PwC Australia’s Cloud &amp; Digital business. Artificial intelligence (AI) and machine learning (ML) are becoming an integral part of systems and processes, enabling decisions in real time, thereby driving top and bottom-line"
+    publishedDateTime: 2023-12-19T16:05:39Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/driving-advanced-analytics-outcomes-at-scale-using-amazon-sagemaker-powered-pwcs-machine-learning-ops-accelerator/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: AWS
+      domain: aws.amazon.com
+    quality: 84
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/657bf3cfe410bdbccbb7d190/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1599
-        height: 900
-        isCached: true
-  - title: "Create news directly from analytics of large data sets – ‘data journalism’ & AI is here"
-    excerpt: "I’d like to focus on the increasing trend of “data journalism”. This is the practice of analyzing large data sets for the purpose of generating new news stories. Data analysis has long been a part of supporting journalism."
-    publishedDateTime: 2023-12-18T12:45:00Z
-    webUrl: "https://wraltechwire.com/2023/12/18/create-news-directly-from-analytics-of-large-data-sets-data-journalism-ai-is-here/"
-    ampWebUrl: "https://wraltechwire.com/2023/12/18/create-news-directly-from-analytics-of-large-data-sets-data-journalism-ai-is-here/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/12/18/create-news-directly-from-analytics-of-large-data-sets-data-journalism-ai-is-here/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 49
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2023/10/artificial-intelligence-hand.jpg"
-        width: 1280
-        height: 719
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/12/19/ML-4740_Figure1-final-1260x554.jpg"
+        width: 1260
+        height: 554
         isCached: true
 
 secured: "ORdUeM4MTwQaHMwvZyzGCfQM9KOpjFuDkUYFVf8/jP4kFSr14j4cmdewW8HteboQgIDkN2hCovxca0cJrqjXHHcIZMgIbIKR8WwcpZjVil7tgFlVC5v1e+DbbA//HYykRGmT7gFlfdCS6KhcXLAHfM3ryTs4ntQ2hHpQJLHGQ3NacuQSXKn09wQiUxsQw93ddL/+fk1J6gHtowUy+GIfec1lD7dcXzBebghQyPd43gKEQ6TzyOMclqC2Nc2/dVOly+ahoH8bLxOCk2gm5IaFt5E2Ei+xP56fneQQTrM2OuoPeasozY+JyLilaCy7XLsiMd1dqfXpYdjunAs+LWvbtCg9ORqAOKeJi1s9zHjiOLw=;Re/hiDGL/Gzr9GzuF7ak8Q=="

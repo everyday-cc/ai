@@ -7,7 +7,7 @@ originalUrl: "https://www.tweaktown.com/news/95031/hps-new-omen-transcend-14-gam
 webUrl: "https://www.tweaktown.com/news/95031/hps-new-omen-transcend-14-gaming-laptop-intel-core-ultra-9-185h-cpu-rtx-4070-gpu/index.html"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -23,73 +23,6 @@ images:
     width: 1500
     height: 1000
     isCached: true
-
-related:
-  - title: "Acer Predator Triton Neo 16 with Intel Core Ultra CPUs & RTX 4070 GPU unveiled"
-    excerpt: "Acer has introduced the Predator Triton Neo 16 (PTN16-51), a gaming laptop equipped with Intel Core Ultra processors featuring dedicated AI acceleration and NVIDIA GeForce RTX 40 Series GPUs. This gaming powerhouse caters to both players and content creators,"
-    publishedDateTime: 2023-12-15T05:21:00Z
-    webUrl: "https://www.gizmochina.com/2023/12/15/acer-predator-triton-neo-16-laptop-launched/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 65
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/12/Triton_Neo_16_SP02_transparent.png"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Intel Core Ultra mobile processors announced with up to 16 cores, 5.1 GHz clock speed & AI acceleration"
-    excerpt: "Intel has introduced the latest Core Ultra mobile processors at the “AI Everywhere” event, signaling a transformative phase in personal computing. These processors, built on Intel’s 4 process technology,"
-    publishedDateTime: 2023-12-15T06:16:00Z
-    webUrl: "https://www.gizmochina.com/2023/12/15/intel-core-ultra-mobile-processors-launched/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 53
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/12/newsrsoom-intel-core-ultra-3.jpg.rendition.intel_.web_.1072.603.jpg"
-        width: 1072
-        height: 603
-        isCached: true
-  - title: "Acer Debuts AI-Ready Swift Go 14 Laptop with New Intel Core Ultra Processors"
-    excerpt: "Acer announced new models of the AI-ready Acer Swift Go 14 (SFG14-72)powered byIntel® Core™ Ultraprocessors that feature Intel Arc graphics processing unit (GPU) and Intel AI Boost,"
-    publishedDateTime: 2023-12-18T17:08:00Z
-    webUrl: "https://pragativadi.com/acer-debuts-ai-ready-swift-go-14-laptop-with-new-intel-core-ultra-processors/"
-    type: article
-    provider:
-      name: Pragativadi
-      domain: pragativadi.com
-    quality: 36
-    images:
-      - url: "https://pragativadi.com/wp-content/uploads/2023/12/Untitled-design-22.png"
-        width: 640
-        height: 381
-        isCached: true
-  - title: "Samsung Galaxy Book 4 with Intel Power SoC & NVIDIA GeForce RTX 4070 GPU Launched"
-    excerpt: "Korean giant, Samsung has finally launched its new premium laptop, the Galaxy Book 4 series powered with Intel Power CPU & NVIDIA GeForce RTX 407 GPU."
-    publishedDateTime: 2023-12-15T12:09:00Z
-    webUrl: "https://techstory.in/samsung-galaxy-book-4-with-intel-power-soc-nvidia-geforce-rtx-4070-gpu-launched/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 34
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2023/12/Simranpal-Singh.jpeg"
-        width: 1280
-        height: 960
-        isCached: true
-  - title: "Acer Swift Go 14 AI ready OLED laptops powered Intel Core Ultra CPUs"
-    excerpt: "The laptop market is set to become even more competitive with Acer's introduction of the AI-ready Swift Go 14 laptop, powered by Intel Core Ultra"
-    publishedDateTime: 2023-12-15T12:45:00Z
-    webUrl: "https://www.geeky-gadgets.com/acer-swift-go-14-ai-ready-oled-laptops-powered-intel-core-ultra-cpus/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 19
 
 secured: "WuTcITlkIFgLVKvKUs+RkLSHboAsxqXONq9Pe+JvEj181xz9HkGF/OJeFJ0WMXdEup6/4LWzH9oiwrwa+YB/skTRZfjG7vD5Sn00PB0DQ3JpmPFLcGI1weQ7c6NWcapHJLxqGfQkQ7QnP3fVB0PlRvmd0xolWlX9HTn7x5khhJAzf3Eo0yAqrC2IdNqxKidd25xxL4yNRfCqZwZmsp5i7eYGKNnE3+7p/HrPrPnu+0HAJoQjA8SknwD1RAjZ1nRIC0ehi1zZTSh9A9FWYa+aMunUFq9IrP48+QAk0F5tWWZGR/fN71c936RL82wmkCNAEO60FoJHIAvy3TdvlvfJhYHx+1zj41jc4hVclt/TrimeMY+eVJdTncYnERmP8hJR26i9946SyM4YeguP2ZFfcJjuomxebIRR/SouU5lCtutI6U/9j2bOwwIcM1Op/dTw6AMI/O3Ldto3EUZBFrkRmG6543E/JsVXJiBB5KEPZLeQGKmujARm8JeWV6Ws2bDEelF6gKtHRowWLBlELm5KAg==;Ur1de52DT8XB/pGkv4lv3g=="
 ---

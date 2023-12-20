@@ -39,6 +39,22 @@ related:
         width: 1920
         height: 1081
         isCached: true
+  - title: "Samsung Galaxy S24 Ultra Leaks Reveal AI-Powered Camera Features, Night Mode Enhancements"
+    excerpt: "Explore the latest leaks on Samsung's Galaxy S24 series, highlighting advanced AI-centric camera features and enhanced night mode capabilities. Get insights into the One UI 6.1 update, rumored features,"
+    publishedDateTime: 2023-12-20T06:06:00Z
+    webUrl: "https://www.timesnownews.com/technology-science/samsung-galaxy-s24-ultra-leaks-reveal-ai-powered-camera-features-article-106144792"
+    ampWebUrl: "https://www.timesnownews.com/technology-science/samsung-galaxy-s24-ultra-leaks-reveal-ai-powered-camera-features-article-106144792/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/samsung-galaxy-s24-ultra-leaks-reveal-ai-powered-camera-features-article-106144792/amp"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 50
+    images:
+      - url: "https://static.tnn.in/thumb/msid-106144744,thumbsize-295180,width-1280,height-720,resizemode-75/106144744.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Baby Llama Runs on Samsung Galaxy Watch 4"
     excerpt: "A user on X, who goes by the name Joey (e/λ), shared a video where he ran 'llama.c' on a Samsung Galaxy Watch 4."
     publishedDateTime: 2023-12-18T13:30:00Z

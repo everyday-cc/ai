@@ -30,11 +30,25 @@ related:
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 75
+    quality: 77
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e4336cb-1ed1-4bdb-8d7a-51b172f56e8f/f6e77140-9cf3-4af3-9e39-df8551415803/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
         width: 1200
         height: 675
+        isCached: true
+  - title: "AI or not to AI: How artificial intelligence is changing the industry"
+    excerpt: "One of the most profound statements that I’ve ever heard on artificial intelligence was presented in the form of a joke. It was delivered decades ago by an English Lit professor of mine who taught classes both on John Milton and on science fiction and fantasy literature."
+    publishedDateTime: 2023-12-18T18:25:00Z
+    webUrl: "https://www.plantservices.com/technology/artificial-intelligence/article/33016391/ai-or-not-to-ai-how-artificial-intelligence-is-changing-the-industry"
+    type: article
+    provider:
+      name: Plant Services
+      domain: plantservices.com
+    quality: 54
+    images:
+      - url: "https://img.plantservices.com/files/base/ebm/plantservices/image/2023/12/657b45e23fa0aa001efeca59-ai_or_not_to_ai_how_artificial_intelligence_is_cha.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
         isCached: true
   - title: "AI self-replication: Machine intelligence can now replicate independently"
     excerpt: "One device Sun and Chen demonstrated — a human activity tracker that uses AI to gather and analyze motion data — was housed in a chip smaller than a dime. That sensor is an example of tiny machine learning, small AI systems that can be used in compact ..."

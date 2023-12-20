@@ -62,7 +62,7 @@
       "originalUrl": "https://venturebeat.com/security/new-generative-ai-powered-saas-security-expert-from-appomni/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -102,7 +102,8 @@
       ],
       "topics": [
         "AI",
-        "AI in Security"
+        "AI in Security",
+        "Microsoft AI"
       ]
     },
     {
@@ -456,8 +457,8 @@
       "title": "Deal alert: Score $500 off the Samsung Jet Bot AI+ Robot Vacuum",
       "excerpt": "This is a rare chance to score the Samsung Jet Bot AI Plus Robot Vacuum for $799.99 and upgrade your smart home.",
       "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/p-3395866/",
-      "originalUrl": "https://www.androidauthority.com/p-3395866/",
+      "webUrl": "https://www.androidauthority.com/samsung-jet-bot-ai-plus-robot-vacuum-deal-3395866/",
+      "originalUrl": "https://www.androidauthority.com/samsung-jet-bot-ai-plus-robot-vacuum-deal-3395866/",
       "featuredContent": null,
       "highlight": null,
       "heat": 86,
@@ -566,7 +567,7 @@
       "originalUrl": "https://venturebeat.com/ai/the-widening-web-of-effective-altruism-in-ai-security-the-ai-beat/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -661,7 +662,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/driving-advanced-analytics-outcomes-at-scale-using-amazon-sagemaker-powered-pwcs-machine-learning-ops-accelerator/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1190,21 +1191,21 @@
       ]
     },
     {
-      "path": "_news/2023-12-19-four-trends-that-changed-ai-in-2023.md",
-      "title": "Four trends that changed AI in 2023",
-      "excerpt": "This has been one of the craziest years in AI in a long time.",
+      "path": "_news/2023-12-19-this-ai-can-find-your-location-just-by-looking-at-a-few-photos.md",
+      "title": "This AI can find your location just by looking at a few photos",
+      "excerpt": "Developed by Stanford graduate students, an AI model can determine -- with impressive accuracy -- a specific location simply by looking at Google Street View.",
       "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/12/19/1085696/four-trends-that-changed-ai-in-2023/",
-      "originalUrl": "https://www.technologyreview.com/2023/12/19/1085696/four-trends-that-changed-ai-in-2023/",
+      "webUrl": "https://www.zdnet.com/article/this-ai-can-find-your-location-just-by-looking-at-a-few-photos/",
+      "originalUrl": "https://www.zdnet.com/article/this-ai-can-find-your-location-just-by-looking-at-a-few-photos/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 107,
       "tags": null,
       "images": [
         {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/03/image_dissolves_into_noise2.jpeg?w=2048",
-          "width": 2048,
-          "height": 1152,
+          "url": "https://www.zdnet.com/a/img/resize/58157e43f877c0437e9c99979c3b85c1b708481e/2023/12/19/99dbcc02-ed35-41ed-b328-12ad8204338c/stretviewgettyimages-1247162865.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1212,14 +1213,23 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/12/19/1085696/four-trends-that-changed-ai-in-2023/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/19/1085696/four-trends-that-changed-ai-in-2023/amp/",
-      "publishedDateTime": "2023-12-19T10:16:00Z",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-ai-can-find-your-location-just-by-looking-at-a-few-photos/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-ai-can-find-your-location-just-by-looking-at-a-few-photos/",
+      "publishedDateTime": "2023-12-19T09:30:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1228,8 +1238,7 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Robotics"
+        "AI"
       ]
     }
   ],

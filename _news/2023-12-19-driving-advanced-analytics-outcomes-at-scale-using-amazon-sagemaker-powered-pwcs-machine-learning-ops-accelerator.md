@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/driving-advanced-ana
 webUrl: "https://aws.amazon.com/blogs/machine-learning/driving-advanced-analytics-outcomes-at-scale-using-amazon-sagemaker-powered-pwcs-machine-learning-ops-accelerator/"
 type: article
 quality: 84
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1260
     height: 554
     isCached: true
+
+related:
+  - title: "Seek AI and Prodigy integrate, combining natural language querying with marketing analytics"
+    excerpt: "Seek AI, a developer of generative AI for data solutions, is debuting the integration of its natural language to SQL (NL2SQL) solution into Prodigy, a cloud-based production data SaaMS (Software as Managed Service) platform."
+    publishedDateTime: 2023-12-19T15:30:00Z
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=161909"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 46
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/OtherImages/151196-2023-Cover-Images-ORG.png"
+        width: 772
+        height: 594
+        isCached: true
 
 secured: "u3+2L98DKgrxWxvjsBnmHHcDm7l6dXWdPBvfkd8TKn/Hzd7dIDY6EGSi+Cv1qwPe8Ao/A20gx+OaOriQPCQT/pFTuqDO2TQrW6rkLTXRsTukVvcufUGghLNnbyjklGcxhNpLimxdWr4N3VwdovhNcYDcYI7C4u/18D75KR3GCtZ7eE0RpIYK7IeaPF92avPRiSXKD1xD25cD4N5ZKY2PBvCkcEaaz/88ZF64VkaTN5xCKDQPWQLn66I31Wh9bUfeotzZMVeiTEBKNN/NkNxnt+X7eIB+E3SqurYzXI05fC9hgZQ3+xZ3wZ64eOQgCwXVw/Hz8dl7fiTgKaqmdrsMv+IXCcE3uKfDEdl/On299Xk=;Mrx++wwc0EgFnrsu9ir+qw=="
 ---

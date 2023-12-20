@@ -2,6 +2,40 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2023-11-15-ibm-extends-its-goals-for-ai-and-quantum-computing.md",
+      "title": "IBM Extends Its Goals For AI And Quantum Computing",
+      "excerpt": "Watson Research Center, IBM made a convincing argument that they are up to the task, especially in the fields of AI - generative AI, in particular - as well as quantum computing. What was ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4651508-ibm-extends-goals-ai-quantum-computing",
+      "originalUrl": "https://seekingalpha.com/article/4651508-ibm-extends-goals-ai-quantum-computing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-15T04:22:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-15-ibm-enables-responsible-enterprise-ai-with-watsonxgovernance.md",
       "title": "IBM Enables Responsible Enterprise AI with watsonx.governance",
       "excerpt": "Delivering AI to the enterprise requires overcoming many governance, compliance, and safety concerns. This involves navigating a complex landscape of challenges that span technical, ethical, social, and regulatory dimensions. IBM’s new watsonx.governance ...",
@@ -935,57 +969,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-15-airbnb-acquires-ai-startup-gameplannerai.md",
-      "title": "Airbnb acquires AI startup GamePlanner.AI",
-      "excerpt": "Nov 14 (Reuters) - Airbnb (ABNB.O) said on Tuesday it has acquired GamePlanner.AI, a 12-person startup, for an undisclosed sum, amid rapid adoption of artificial intelligence that has taken the tech world by storm and pushed many companies to explore its uses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/markets/deals/airbnb-acquires-ai-startup-gameplannerai-2023-11-14/",
-      "originalUrl": "https://www.reuters.com/markets/deals/airbnb-acquires-ai-startup-gameplannerai-2023-11-14/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/ubYqesjaLMR0YeB9rNEHNNHIn0M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KEACCE5OYRM6HIL5VMVIYCVBDA.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T18:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

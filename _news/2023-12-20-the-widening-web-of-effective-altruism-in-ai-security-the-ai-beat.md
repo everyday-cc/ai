@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/the-widening-web-of-effective-altruism-
 webUrl: "https://venturebeat.com/ai/the-widening-web-of-effective-altruism-in-ai-security-the-ai-beat/"
 type: article
 quality: 86
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1199
     height: 685
     isCached: true
-
-related:
-  - title: "Tackling Ethical and Security Concerns of Generative AI Models"
-    excerpt: "Artificial Intelligence (AI) has been rapidly transforming different industries across the globe for the last decade, but 2023 has been a banner year for AI with generative AI tools like ChatGPT, Bard and now Gemini – Google’s newest and most capable AI model – making waves in the AI world."
-    publishedDateTime: 2023-12-19T12:14:00Z
-    webUrl: "https://techbullion.com/tackling-ethical-and-security-concerns-of-generative-ai-models/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 71
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/Ethical-03.jpg"
-        width: 1000
-        height: 500
-        isCached: true
 
 secured: "nNYLqKHG7tnsbzPVqnoHkJmYVmxeSa1aOJ1V9bB7TwgnYHIV0CJlZD6Amzh6A3ssruss0SSL3yUJqFoEJKm78AzMGOfWgOfOr9cKSWK5i/DKpwsXJMi6NGLFPoCB4BiydQeGHOE8QAF0xz3j0t5v81yISb6XhmP/6/cny/UvVUuI1S6MffgVAtiWX+36OGP0grd30JUEfP3UdI/CE39pm6IntHbIfTsUo12phPMcqrOgO8NwZXvGSFwDBy7c8EAjBc04JvLO4CwOKGwZRqQnauK8aiBFxV2R0rIOukPn26OtWZi4A2Dx4P9j8wMHUNCYIMg6n/ivT+/NoGlkJoc92BrTTImAtCN7beWYGZgi3mp+mpRKs+K5YH2AbCP4X1DW7ooCug4oWSl6K5MIEp+d4M9eu8ezLYkN916D+FB6BSW+BocO1W8tuzvGSi1nXLeuZBdPL470HIxXXh+pAdHjflaF8DwSnIX82HYeNlVhrOJMy4ovgVKtrhVQM5W8nnIZZokQT5dKArYUVTrjx+54sA==;XxdTW2ihtceHn2b3tSKjRg=="
 ---

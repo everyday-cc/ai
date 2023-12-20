@@ -19,34 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Acer Predator Triton Neo 16 with Intel Core Ultra CPUs & RTX 4070 GPU unveiled"
-    excerpt: "Acer has introduced the Predator Triton Neo 16 (PTN16-51), a gaming laptop equipped with Intel Core Ultra processors featuring dedicated AI acceleration and NVIDIA GeForce RTX 40 Series GPUs. This gaming powerhouse caters to both players and content creators,"
-    publishedDateTime: 2023-12-15T05:21:00Z
-    webUrl: "https://www.gizmochina.com/2023/12/15/acer-predator-triton-neo-16-laptop-launched/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 65
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/12/Triton_Neo_16_SP02_transparent.png"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Intel Core Ultra mobile processors announced with up to 16 cores, 5.1 GHz clock speed & AI acceleration"
-    excerpt: "Intel has introduced the latest Core Ultra mobile processors at the “AI Everywhere” event, signaling a transformative phase in personal computing. These processors, built on Intel’s 4 process technology,"
-    publishedDateTime: 2023-12-15T06:16:00Z
-    webUrl: "https://www.gizmochina.com/2023/12/15/intel-core-ultra-mobile-processors-launched/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 53
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/12/newsrsoom-intel-core-ultra-3.jpg.rendition.intel_.web_.1072.603.jpg"
-        width: 1072
-        height: 603
-        isCached: true
   - title: "Acer Debuts AI-Ready Swift Go 14 Laptop with New Intel Core Ultra Processors"
     excerpt: "Acer announced new models of the AI-ready Acer Swift Go 14 (SFG14-72)powered byIntel® Core™ Ultraprocessors that feature Intel Arc graphics processing unit (GPU) and Intel AI Boost,"
     publishedDateTime: 2023-12-18T17:08:00Z
@@ -61,34 +33,24 @@ related:
         width: 640
         height: 381
         isCached: true
-  - title: "Samsung Galaxy Book 4 with Intel Power SoC & NVIDIA GeForce RTX 4070 GPU Launched"
-    excerpt: "Korean giant, Samsung has finally launched its new premium laptop, the Galaxy Book 4 series powered with Intel Power CPU & NVIDIA GeForce RTX 407 GPU."
-    publishedDateTime: 2023-12-15T12:09:00Z
-    webUrl: "https://techstory.in/samsung-galaxy-book-4-with-intel-power-soc-nvidia-geforce-rtx-4070-gpu-launched/"
+  - title: "AORUS 17 & 15 Intel Core Ultra 7 AI ready gaming laptops"
+    excerpt: "GIGABYTE's latest offerings for 2024 - the AORUS 17 and AORUS 15 offer gamers a combination of powerful hardware, state-of-the-art cooling technology, and"
+    publishedDateTime: 2023-12-15T13:19:00Z
+    webUrl: "https://www.geeky-gadgets.com/aorus-17-15-intel-core-ultra-7-ai-ready-gaming-laptops/"
     type: article
     provider:
-      name: tech
-      domain: techstory.in
-    quality: 34
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2023/12/Simranpal-Singh.jpeg"
-        width: 1280
-        height: 960
-        isCached: true
-  - title: "HP's new Omen Transcend 14 gaming laptop: Intel Core Ultra 9 185H CPU + RTX 4070 GPU"
-    excerpt: "HP's new Omen Transcend 14 features a 14-inch 2.8K (2880 x 1800) OLED panel at 120Hz, which will look absolutely gorgeous in person, and buttery smooth with its 240Hz refresh rate. The panel supports Variable Refresh Rate (VRR) in the 48-120Hz range, with HDR brightness of 500 nits and full DCI-P3 color gamut coverage."
-    publishedDateTime: 2023-12-18T23:40:00Z
-    webUrl: "https://www.tweaktown.com/news/95031/hps-new-omen-transcend-14-gaming-laptop-intel-core-ultra-9-185h-cpu-rtx-4070-gpu/index.html"
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 19
+  - title: "ThinkPad and IdeaPad Intel Core Ultra AI ready laptops for business"
+    excerpt: "Following on from the Intel AI Everywhere event this week Lenovo, has launched a range of new AI ready laptops for business and consumers, including the"
+    publishedDateTime: 2023-12-15T14:25:00Z
+    webUrl: "https://www.geeky-gadgets.com/ai-ready-laptops-for-business/"
     type: article
     provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 32
-    images:
-      - url: "https://static.tweaktown.com/news/9/5/95031_602_hps-new-omen-transcend-144-gaming-laptop-intel-core-ultra-9-185h-cpu-rtx-4070-gpu_full.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 19
 
 secured: "ugPeq0YqLlonKIW6GLY9zBl2FikWi+TQLgm2OOPw+tT7SRJsfobzMd1V99/Wc0tiM6er9zxTXZ2cnT2RnlS7sfqmgB8N9HO26O4FTbDk2rUzlgkaAz1tOjJ/i9wF5g8B2lqnce+VZi+JOggT2LRIrdzlVHIHE05UE9ePhQSq/2SNo1KahC4l8qzkfGWduo26Q+9TWPyGFqq1MTF8uVr19raWpkGGbF11EkF8WPvVF6n6A2g+3FXTXpcP7BoA9unFknFjd+ERsUDlDX8lMAKFDARLifyP7ew67x5GsJCC1nDztuwHLsgUY882amoIKGkb6Lhx4+lTxZMOPOyAmp+QBohv0FwPsU1RLfsQifYQs46li7TCQJIohP37Px2DNB3iR0de/lTsXHoRcXM90OSI0QlTbiAhKG3iCCeOmtMvWb79D3c/c4tY1h2qNIdMn5p+qJGvMusUcDdDRDolaFaYXzgGw/QkuSpqgJsczyu0cymSbntOLgfvhlhBLvV3hUgI3Oo8oMRKy+GVnDBM80HSuw==;0YD+7+waizF8uL804HS/gQ=="
 ---

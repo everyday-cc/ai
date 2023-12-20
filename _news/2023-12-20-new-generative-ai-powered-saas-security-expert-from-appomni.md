@@ -6,8 +6,8 @@ publishedDateTime: 2023-12-20T01:07:00Z
 originalUrl: "https://venturebeat.com/security/new-generative-ai-powered-saas-security-expert-from-appomni/"
 webUrl: "https://venturebeat.com/security/new-generative-ai-powered-saas-security-expert-from-appomni/"
 type: article
-quality: 84
-heat: 84
+quality: 86
+heat: 96
 published: true
 
 provider:
@@ -21,12 +21,29 @@ provider:
 topics:
   - AI
   - AI in Security
+  - Microsoft AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/12/nuneybits_vector_art_of_colorful_data_pipelines_7e9c4b03-374e-4ad3-beb1-2dc622ac9ff0-transformed.png?w=1200&strip=all"
     width: 1200
     height: 672
     isCached: true
+
+related:
+  - title: "Tackling Ethical and Security Concerns of Generative AI Models"
+    excerpt: "Artificial Intelligence (AI) has been rapidly transforming different industries across the globe for the last decade, but 2023 has been a banner year for AI with generative AI tools like ChatGPT, Bard and now Gemini – Google’s newest and most capable AI model – making waves in the AI world."
+    publishedDateTime: 2023-12-19T12:14:00Z
+    webUrl: "https://techbullion.com/tackling-ethical-and-security-concerns-of-generative-ai-models/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 71
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/Ethical-03.jpg"
+        width: 1000
+        height: 500
+        isCached: true
 
 secured: "Fokz22qUPtWT5jEnv8RNgqydbFD9Ql2X+yCAW4oXpjvOt3sP8AfCP6AOuv/z02yhPtBHxgsSLVcZgEbpd3LFJZuacUFFCCHzaOzmTCSBsthCW04xzzZx0vUojmPmv3hY8DtNbhI7VFyVdkFP6EkK3uNsBbTnXMR6Kjgj0ZlfxjuJLHAPZSW2ERbZB8VUSXBut4J4QsnvAgtnS0oEcqMHYJ5ZhbeMynapeKgNXCe7/yC/f7r0+hNmr7QeuwX2M/m+bvkdgnvIRyEYWsBbTO+eBBh8cLlR0q6sw9KwwaROsUktPf4kftYfrUxCHNHpidyfGdCDeq0GTmq3s4tdSs1Uqhh5/QWgy19uNpodpticp4mIlHQUY3TIsULQ3AGvuX2XWIp0R4F0V160S22XCTEpDHsfDRy0t5MkVB7mZywSblajUourMYO7QLfJiom91dJ/aSOcLzFO/CvmwaUVig1nJ4Ejha8nKbBPDMC8wkyj9WM260HMRiwupNJUOx/2wwy8E/AiHOYIKTSz11HtSwkoTQ==;gBFfDuHS7iiIdrcCoEcWkg=="
 ---

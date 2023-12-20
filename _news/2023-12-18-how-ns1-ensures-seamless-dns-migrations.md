@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-ns1-ensures-seamless-dns-migrations/"
 webUrl: "https://www.ibm.com/blog/how-ns1-ensures-seamless-dns-migrations/"
 type: article
 quality: 102
-heat: 123
+heat: 122
 published: true
 
 provider:

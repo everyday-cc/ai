@@ -41,17 +41,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Intel unveils AI experience-focused Core Ultra mobile chips: Details here"
-    excerpt: "Intel said the Core Ultra mobile processors will power more than 230 of the world's first AI PCs from partners including Acer, ASUS, Dell, Google Chromebook, LG, Microsoft Surface, MSI and Samsung"
-    publishedDateTime: 2023-12-15T06:04:00Z
-    webUrl: "https://www.business-standard.com/technology/tech-news/intel-unveils-ai-experience-focused-core-ultra-mobile-chips-details-here-123121500289_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/technology/tech-news/intel-unveils-ai-experience-focused-core-ultra-mobile-chips-details-here-123121500289_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/intel-unveils-ai-experience-focused-core-ultra-mobile-chips-details-here-123121500289_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 53
   - title: "Intel Drops New Core Ultra Processors and Gaudi3 AI Chip to Take on Nvidia and AMD"
     excerpt: "Intel launches Core Ultra processors and Gaudi3 AI chip to compete with Nvidia and AMD. Core Ultra line features chiplet design, neural processing unit, and specialized AI components for enhanced performance."
     publishedDateTime: 2023-12-16T10:47:00Z

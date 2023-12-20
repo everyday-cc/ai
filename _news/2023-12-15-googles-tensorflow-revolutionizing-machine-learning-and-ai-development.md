@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/googles-tensorflow-revolutionizing-machine
 webUrl: "https://techbullion.com/googles-tensorflow-revolutionizing-machine-learning-and-ai-development/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "ISRO Leveraging Artificial Intelligence & Machine Learning in Space and Agriculture Sector"
-    excerpt: "ISRO continues to push the boundaries of space exploration, the integration of AI and ML stands as a testament to India's commitment to innovation and technological excellence in every sector."
-    publishedDateTime: 2023-12-15T06:21:00Z
-    webUrl: "https://krishijagran.com/news/isro-leveraging-artificial-intelligence-machine-learning-in-space-and-agriculture-sector/"
-    ampWebUrl: "https://krishijagran.com/news/isro-leveraging-artificial-intelligence-machine-learning-in-space-and-agriculture-sector/?amp=1"
-    cdnAmpWebUrl: "https://krishijagran-com.cdn.ampproject.org/c/s/krishijagran.com/news/isro-leveraging-artificial-intelligence-machine-learning-in-space-and-agriculture-sector/?amp=1"
-    type: article
-    provider:
-      name: krishijagran
-      domain: krishijagran.com
-    quality: 66
-    images:
-      - url: "https://kjcdn.gumlet.io/media/94852/nasa-earth-observatory.jpg"
-        width: 825
-        height: 550
-        isCached: true
   - title: "Ethical Considerations in Google’s AI Development: A Closer Look"
     excerpt: "Introduction: In the realm of artificial intelligence (AI) development, Google stands as a juggernaut, pushing the boundaries of innovation. However, the journey toward AI excellence is not without its ethical challenges."
     publishedDateTime: 2023-12-16T10:11:00Z

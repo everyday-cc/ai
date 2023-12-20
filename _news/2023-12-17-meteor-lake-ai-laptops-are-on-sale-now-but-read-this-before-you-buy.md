@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Intel Meteor Lake has arrived: Here’s what these new ‘AI laptops’ can do"
-    excerpt: "So when Intel promotes these new Meteor Lake-powered laptops as \"AI laptops,\" what they're trying to convey is that these laptops have a special processor dedicated to the kind of work that AI tasks often demand."
-    publishedDateTime: 2023-12-15T06:00:00Z
-    webUrl: "https://www.tomsguide.com/news/intel-meteor-lake-has-arrived-heres-what-these-new-ai-laptops-can-do"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 38
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/huhf9bmqx4vKVRm5HbD2hZ-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "lV4hZl1AyAikhd9Jgz58cTzibu8FYYRCSTgvI4wkzs9Qi8d+EQ4Dby3BRd60FQ60ZfKVEpKPmJhG7ShHxwCRRnjK73M1fpgj+cxLdT8A0evcEWKx6qEcBDUhAvut8n6IGdWe9BIc5uw0s0Nvh40dkUBHl8KEbF6lh83ELBgs1kD1i7Ba1OZL/pG91i71HVekv5lTxEMECfELsM0Vv50Ig6eDouCEgp3wH0M1Qt0rfkTDsXogb63qlgOnwF7meD89y+M31vwpuDMGcHHz4DknKaTHBFYeerWKB1944GpAAZZUAPv5g6M/s3Tsblcr0hbLmcJ8Siu9CKkgrqC/klM8LbOEhexHJa1WqI4GMQDlm34=;OZM9WIrnM+ZQUs63mOjxFQ=="
 ---

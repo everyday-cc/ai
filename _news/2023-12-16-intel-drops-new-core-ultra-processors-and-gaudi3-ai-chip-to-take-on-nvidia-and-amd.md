@@ -41,17 +41,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Intel unveils AI experience-focused Core Ultra mobile chips: Details here"
-    excerpt: "Intel said the Core Ultra mobile processors will power more than 230 of the world's first AI PCs from partners including Acer, ASUS, Dell, Google Chromebook, LG, Microsoft Surface, MSI and Samsung"
-    publishedDateTime: 2023-12-15T06:04:00Z
-    webUrl: "https://www.business-standard.com/technology/tech-news/intel-unveils-ai-experience-focused-core-ultra-mobile-chips-details-here-123121500289_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/technology/tech-news/intel-unveils-ai-experience-focused-core-ultra-mobile-chips-details-here-123121500289_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/intel-unveils-ai-experience-focused-core-ultra-mobile-chips-details-here-123121500289_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 53
   - title: "Lenovo unveils new AI PC experiences powered by Intel Core Ultra processors"
     excerpt: "Geek Stream ▾ - Lenovo unveils new AI PC experiences powered by Intel Core Ultra processors - - Absolute Geeks"
     publishedDateTime: 2023-12-15T08:24:00Z
