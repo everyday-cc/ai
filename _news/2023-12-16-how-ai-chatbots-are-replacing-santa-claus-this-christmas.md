@@ -7,7 +7,7 @@ originalUrl: "https://www.thedailybeast.com/how-ai-chatbots-are-replacing-santa-
 webUrl: "https://www.thedailybeast.com/how-ai-chatbots-are-replacing-santa-claus-this-christmas"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,47 +25,51 @@ images:
     isCached: true
 
 related:
-  - title: "Delivery robots will transform Christmas"
-    excerpt: "Delivery robots like this have become part of the scenery since they started work in this town, some 80km northwest of London, in 2018. “That’s when you know a new technology is successful,” says Ed Lovelock."
-    publishedDateTime: 2023-12-18T18:37:00Z
-    webUrl: "https://www.aol.com/finance/delivery-robots-transform-christmas-163718462.html"
+  - title: "Unleashing AI’s Power: Chatbots Transforming Healthcare Experiences"
+    excerpt: "Artificial Intelligence (AI)-powered chatbots are becoming significant tools in the transformation of healthcare in the 21st century, facilitating the convergence of technology and delivery of medical services."
+    publishedDateTime: 2023-12-20T10:16:00Z
+    webUrl: "https://disrupt-africa.com/2023/12/20/unleashing-ais-power-chatbots-transforming-healthcare-experiences/"
+    ampWebUrl: "https://disrupt-africa.com/2023/12/20/unleashing-ais-power-chatbots-transforming-healthcare-experiences/"
+    cdnAmpWebUrl: "https://disrupt--africa-com.cdn.ampproject.org/c/s/disrupt-africa.com/2023/12/20/unleashing-ais-power-chatbots-transforming-healthcare-experiences/"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
+      name: disrupt-africa
+      domain: disrupt-africa.com
+    quality: 74
+    images:
+      - url: "https://disrupt-africa.com/wp-content/uploads/2023/07/DA-logo-on-transparent-with-tag-small-e1414593297539-1.png"
+        width: 300
+        height: 201
+        isCached: true
+  - title: "Creatively Judging Those Generative AI Mental Health Advisement Chatbots By Astutely Gauging Their Levels Of AI Autonomy"
+    excerpt: "How can AI mental health advisement apps be assessed? Consider this innovative proposal that leverages the AI levels of autonomy. A new and exciting approach."
+    publishedDateTime: 2023-12-15T11:29:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/12/15/creatively-judging-those-generative-ai-mental-health-advisement-chatbots-by-astutely-gauging-their-levels-of-ai-autonomy/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/12/15/creatively-judging-those-generative-ai-mental-health-advisement-chatbots-by-astutely-gauging-their-levels-of-ai-autonomy/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/12/15/creatively-judging-those-generative-ai-mental-health-advisement-chatbots-by-astutely-gauging-their-levels-of-ai-autonomy/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 62
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/657c05994692840d3efcf0b9/0x0.jpg?format=jpg&crop=3259,2445,x276,y0,safe&height=900&width=1600&fit=bounds"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "How the AI boom is transforming accounting"
+    excerpt: "The IRS rolling out chatbots to help individuals with basic tax matters and key presentations on AI innovation at accounting events are among the recent developments."
+    publishedDateTime: 2023-12-15T22:07:00Z
+    webUrl: "https://www.accountingtoday.com/list/how-the-ai-boom-is-transforming-accounting"
+    type: article
+    provider:
+      name: Accounting Today
+      domain: accountingtoday.com
     quality: 39
     images:
-      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
+      - url: "https://arizent.brightspotcdn.com/dims4/default/213d245/2147483647/strip/true/crop/510x268+0+39/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F40%2F4c%2Ff764f70d44ec80eab750dbc8af35%2F1-1-1-artificial-intelligence-cover.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "We need to focus more on the social effects of AI, says Nicholas Christakis"
-    excerpt: "F EW PEOPLE would tolerate a virtual assistant if they had to plead obsequiously each time, “Excuse me, Alexa, if it’s not too much trouble, could you kindly tell me what the weather will be today.” Instead, these devices are designed to answer brusque commands: “Alexa: weather!” And we expect them to obediently respond."
-    publishedDateTime: 2023-12-15T12:07:00Z
-    webUrl: "https://www.economist.com/by-invitation/2023/12/15/we-need-to-focus-more-on-the-social-effects-of-ai-says-nicholas-christakis"
-    type: article
-    provider:
-      name: The Economist
-      domain: economist.com
-    quality: 35
-    images:
-      - url: "https://www.economist.com/img/b/1920/1080/90/media-assets/image/20200808_OPD001.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "The Rise of Chatbots and Virtual Assistants: AI Applications in Customer Service"
-    excerpt: "Welcome to a world where artificial intelligence meets customer service! In this era of technological innovation, chatbots, and virtual assistants have emerged as game-changers, transforming the way businesses interact with their customers."
-    publishedDateTime: 2023-12-17T12:11:00Z
-    webUrl: "https://techbullion.com/the-rise-of-chatbots-and-virtual-assistants-ai-applications-in-customer-service/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 34
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/Customer-Service.jpg"
-        width: 1000
-        height: 500
         isCached: true
 
 secured: "szA0NULyMFi5bJ8NNbSgi08cr4MC0K2BHtcd3pdf4MtrqeciMb3W5KAqqbG4GkZXoeekdz8a4lB5xdcfRvopxAkgwPqDfvtf7pko9/F1ag8hAl/2TKIQ0hBXpRv12l4zlV2r7+1K1kCk8n2UMsj2iWhkGXyCXtU7jwRyNQv7Sr4mcdd2wB5tJ7Jd8FsoY1jiBc/jBncRhFDbf6jGLJB2TACxi6XGgGnTd19AgSueBnNc85mmgJAa+Jr/Kbyh8+1AkRla2zISa6GLfpRPNPqasuvDO1/Mct9GKmDbS+dV8SluggCfLAFJMhYkl+/htzWNSVFsXdzTiR4V4/ZJhkezQkQCGT1p828skskytuMt3rW55vtbLD5MPtVcPWGhFtDXlbA6oZh+dJOTKOe+SljXBXP5KGn33uEXgwQZJjGvUDsz5TBmwSvtDFoNM8XgSqjZ6yHJfArkoVcmiVXyneYOGMuxqHxCsDucUF/iAZNtXZfZIpNU57sRrZJC7iYGqIFwfvDMS5vr48c/JE8+EE2l1w==;hX9ce5/68iFNPk4twB70Sw=="

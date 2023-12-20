@@ -10,7 +10,7 @@
       "originalUrl": "https://www.crowdfundinsider.com/2023/12/218616-digital-bank-bunq-claims-to-be-first-ai-powered-bank-in-europe/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -158,7 +158,7 @@
       "originalUrl": "https://www.businessinsider.com/vc-firms-investing-in-e-commerce-share-criteria-2024-predictions-2023-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -210,7 +210,7 @@
       "originalUrl": "https://analyticsindiamag.com/how-generative-ai-is-reshaping-banking-finance-in-india/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -305,7 +305,7 @@
       "originalUrl": "https://punchng.com/strengthen-fintech-regulations-bank-audit-leaders-tell-cbn/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -476,6 +476,41 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-12-14-3-machine-learning-stocks-to-turn-10000-into-1-million-december-2023.md",
+      "title": "3 Machine Learning Stocks to Turn $10,000 Into $1 Million: December 2023",
+      "excerpt": "The post 3 Machine Learning Stocks to Turn $10,000 Into $1 Million: December 2023 appeared first on InvestorPlace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-machine-learning-stocks-to-turn-%2410000-into-%241-million%3A-december-2023",
+      "originalUrl": "https://www.nasdaq.com/articles/3-machine-learning-stocks-to-turn-%2410000-into-%241-million%3A-december-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-14T10:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1330,59 +1365,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-the-biggest-banks-are-fighting-over-ai-talent-here-are-the-roles-finance-firms-are-looking-to-hire-for-and-what-skills-you-need-to-get-them.md",
-      "title": "The biggest banks are fighting over AI talent. Here are the roles finance firms are looking to hire for, and what skills you need to get them.",
-      "excerpt": "Techies who know data, cloud, AI regulations and ethics, and are business savvy are in high demand. Recruiters, hiring managers, and execs outline how Wall Street's tech skills and roles are changing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-shaping-future-tech-jobs-wall-street-2023-10",
-      "originalUrl": "https://www.businessinsider.com/ai-shaping-future-tech-jobs-wall-street-2023-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6541a3583cc84b4dfaf91945?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-01T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

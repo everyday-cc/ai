@@ -59,6 +59,22 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Rite Aid banned from using facial recognition software after falsely identifying shoplifters"
+    excerpt: "Rite Aid has been banned from using facial recognition software for five years, after the Federal Trade Commission (FTC) found that the U.S. drugstore giant’s “reckless use of facial surveillance systems” left customers humiliated and put their ..."
+    publishedDateTime: 2023-12-20T10:48:00Z
+    webUrl: "https://techcrunch.com/2023/12/20/rite-aid-facial-recognition/"
+    ampWebUrl: "https://techcrunch.com/2023/12/20/rite-aid-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/20/rite-aid-facial-recognition/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 93
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/12/GettyImages-1644666359-e1703063162803.jpg?resize=1200,673"
+        width: 1200
+        height: 673
+        isCached: true
   - title: "FTC bans Rite Aid from using facial recognition surveillance for five years"
     excerpt: "The FTC alleges that from 2012 until 2020, Rite Aid scanned the faces of shoppers across hundreds of locations to identify suspected thieves."
     publishedDateTime: 2023-12-19T23:13:00Z
@@ -88,6 +104,20 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-195584,msid-106140432/rite-aid-facial-recognition.jpg"
         width: 600
         height: 450
+        isCached: true
+  - title: "FTC bans Rite Aid’s ‘reckless’ use of facial recognition tech"
+    excerpt: "Bankrupt pharmacy chain Rite Aid used facial recognition tech in hundreds of its stores, which caused harm to numerous customers."
+    publishedDateTime: 2023-12-20T09:20:00Z
+    webUrl: "https://www.siliconrepublic.com/enterprise/rite-aid-facial-recognition-tech-banned"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 54
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/12/AdobeStock_506747144_Editorial_Use_Only.jpeg"
+        width: 800
+        height: 600
         isCached: true
   - title: "FTC blames Rite Aid for ‘reckless’ AI facial recognition, bans use"
     excerpt: "The FTC said Tuesday the retailer “failed to implement reasonable procedures and prevent harm to consumers” in its use of the technology in hundreds of stores.\""

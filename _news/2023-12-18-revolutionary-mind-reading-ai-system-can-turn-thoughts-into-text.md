@@ -7,7 +7,7 @@ originalUrl: "https://www.purdueexponent.org/news/national/article_d7056113-b0e0
 webUrl: "https://www.purdueexponent.org/news/national/article_d7056113-b0e0-58b5-acbf-7b0d01242308.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "This mind-reading AI tool turns thoughts into text! Better than Elon Musk's Neuralink?"
-    excerpt: "Researchers at the University of Technology Sydney have unveiled the world's first mind-reading helmet, translating thoughts into text. A breakthrough for communication and human-machine interaction."
-    publishedDateTime: 2023-12-15T09:12:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/this-mind-reading-ai-tool-turns-thoughts-into-text-better-than-elon-musks-neuralink-71702631072655.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/this-mind-reading-ai-tool-turns-thoughts-into-text-better-than-elon-musks-neuralink-71702631072655.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/this-mind-reading-ai-tool-turns-thoughts-into-text-better-than-elon-musks-neuralink-71702631072655.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 53
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2023/12/15/1600x900/pexels-mikhail-nilov-7671957_1702631370709_1702631384463.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "XegRdY1Tjj+qSAnd3bTZxm5SakmDJI+jjQjkrp9JllWucCOcK4IuIFvNJegNvvfpUag8NqMkdlNn+d5X1elsCTUuTzNlNGtGA61bRhZpa3gsFV+8ZsL3iay+9gczjmEuBf1qeEFu1p/MDSIvdZcbYdFa8JviRlhWZKFeVvTsqn/d63JMq9D8ZULWAxs6qQtZcWNqv4aHlZB0kRXg6lJfS21QBd7UkCWdGkkpsFAYzku2f7AiPHBE82/oIoQnsZLragfNsBHjNDCov3XyKY6j+ecBlCLmaIHV8DcugPom7SD2vYPfhKsWzujP2VWTNxqhM2l8RyXHd77OXURVGhgxetn5KFLSLOoixfs//vr9jObRSRrI6vTx1u8/wOnki1f8oJnfIXwzgrkUj+1sa0agLMyv8iRmkyP7ed99ori/M6vkYhRIvA0EI9F/S7euDF+nRsZb2ge9uPgcHxK9lIMz/3oOqWH0srn7X/YCpqpPExJqZAJSZPq1XG5913s4YhKV4Fc2lrAjGu3opxcETCb/8w==;wf+Kxbyg2yTReq84zIA5fw=="
 ---

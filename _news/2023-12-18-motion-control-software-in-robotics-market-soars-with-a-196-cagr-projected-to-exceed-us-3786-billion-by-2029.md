@@ -39,6 +39,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Autonomous Mobile Robots for Logistics and Warehousing Market Set to Dominate with a Projected 22.7% CAGR, Eyeing a US$ 17 Billion Market by 2032"
+    excerpt: "The market for autonomous mobile robots for logistics and warehousing market is predicted to grow at a CAGR of 22.7% throughout the projection period and will account for US$ 17 billion in market share in 2032,"
+    publishedDateTime: 2023-12-20T09:17:00Z
+    webUrl: "https://www.fmiblog.com/2023/12/20/autonomous-mobile-robots-for-logistics-and-warehousing-market-set-to-dominate-with-a-projected-22-7-cagr-eyeing-a-us-17-billion-market-by-2032/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 2
+    images:
+      - url: "https://www.fmiblog.com/wp-content/uploads/2023/12/Autonomous-Mobile-Robots-for-Logistics-and-Warehousing-Market.jpg"
+        width: 1000
+        height: 562
+        isCached: true
 
 secured: "zQVcEdLDMhCUxflGGGi1B1+hsLyvl1Ep7w1auJYmbIiBDKXPqyh8fdhRAWrL1ufzlzN+LPXQpkl47x5KxIPXjhkqQTo1EDkyi5DcBpDHbWmdqzsg3XgrcUZPfbNK8te4JLqim1LKYm8AY0haVeB3ZWDxRQHGA/P1jrwpnD+HUSnvu6jQQnjZloMs97K5thReDObCf9vvCZwy3h5T+gkTAB4fGHRaIjLGBXsC1zFdEGgFyP1JT8unjZAtHx3wLa0xd+cn+urPBeH9EUc+JDGGwrKrw7Y96vPVIcrP50dBaEv8au+sYkr4dJayMWrpWz22WcoHq0JI/2dZNFNi1xjUx/LOdGxHLjU0bD2nps4nUzPbNzTxhlkHv/pumphrqLATBmvqrP2PmUYsJCII0epte2AA4Th+Aza0hyjDeq4XT4Hb+DO8cKYBe6lClVMtpCNKQdzwfoY+cv28ntOlRujqTzzbUVqQ0spH/5YzAGZQrHng1wY4n5KE6xQl3CvVtlyLh5ZxD+DewyY+EZPSAXPBnQ==;bBXk3+7XIrHbzDQuQHLnxQ=="
 ---

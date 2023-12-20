@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/how-generative-ai-is-reshaping-banki
 webUrl: "https://analyticsindiamag.com/how-generative-ai-is-reshaping-banking-finance-in-india/"
 type: article
 quality: 69
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -70,6 +70,22 @@ related:
       - url: "https://assets.bizclikmedia.net/1200/7655ab029d6a7bb14a14eb6b5e035cd9:194b6a8ee3bcce0296c82be369f226dc/20231219-090709-welinkpc.JPG.jpg"
         width: 1200
         height: 629
+        isCached: true
+  - title: "How India's tryst with Artificial Intelligence will ensure its developed status by 2024"
+    excerpt: "Under Prime Minister Modi's tech-focused policies, India has shifted from being a follower to a leader. Hosting the Global Partnership on Artificial Intelligence (GPAI) summit and leading GPAI in 2024"
+    publishedDateTime: 2023-12-20T10:04:00Z
+    webUrl: "https://www.firstpost.com/opinion/how-indias-tryst-with-artificial-intelligence-will-ensure-its-developed-status-by-2024-13525902.html"
+    ampWebUrl: "https://www.firstpost.com/opinion/how-indias-tryst-with-artificial-intelligence-will-ensure-its-developed-status-by-2024-13525902.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/opinion/how-indias-tryst-with-artificial-intelligence-will-ensure-its-developed-status-by-2024-13525902.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 51
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2023/12/Screenshot-752.jpg"
+        width: 640
+        height: 363
         isCached: true
   - title: "Appvance unleashes AIQ 5.0, featuring Generative AI V3"
     excerpt: "Appvance, the leader in generative AI for software quality, is excited to announce the launch of Appvance IQ (AIQ) 5.0, a groundbreaking"

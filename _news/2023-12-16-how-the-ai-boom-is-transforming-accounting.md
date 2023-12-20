@@ -25,75 +25,52 @@ images:
     isCached: true
 
 related:
-  - title: "VCs predict the AI trends that will transform e-commerce in 2024"
-    excerpt: "It was a tough year for startups, and for e-commerce. These VC firms are still funding startups in the space."
-    publishedDateTime: 2023-12-18T10:00:00Z
-    webUrl: "https://www.businessinsider.com/vc-firms-investing-in-e-commerce-share-criteria-2024-predictions-2023-12"
+  - title: "Unleashing AI’s Power: Chatbots Transforming Healthcare Experiences"
+    excerpt: "Artificial Intelligence (AI)-powered chatbots are becoming significant tools in the transformation of healthcare in the 21st century, facilitating the convergence of technology and delivery of medical services."
+    publishedDateTime: 2023-12-20T10:16:00Z
+    webUrl: "https://disrupt-africa.com/2023/12/20/unleashing-ais-power-chatbots-transforming-healthcare-experiences/"
+    ampWebUrl: "https://disrupt-africa.com/2023/12/20/unleashing-ais-power-chatbots-transforming-healthcare-experiences/"
+    cdnAmpWebUrl: "https://disrupt--africa-com.cdn.ampproject.org/c/s/disrupt-africa.com/2023/12/20/unleashing-ais-power-chatbots-transforming-healthcare-experiences/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
+      name: disrupt-africa
+      domain: disrupt-africa.com
+    quality: 74
     images:
-      - url: "https://i.insider.com/656f38f258e7c0c29a29a572?width=1200&format=jpeg"
+      - url: "https://disrupt-africa.com/wp-content/uploads/2023/07/DA-logo-on-transparent-with-tag-small-e1414593297539-1.png"
+        width: 300
+        height: 201
+        isCached: true
+  - title: "Creatively Judging Those Generative AI Mental Health Advisement Chatbots By Astutely Gauging Their Levels Of AI Autonomy"
+    excerpt: "How can AI mental health advisement apps be assessed? Consider this innovative proposal that leverages the AI levels of autonomy. A new and exciting approach."
+    publishedDateTime: 2023-12-15T11:29:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/12/15/creatively-judging-those-generative-ai-mental-health-advisement-chatbots-by-astutely-gauging-their-levels-of-ai-autonomy/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/12/15/creatively-judging-those-generative-ai-mental-health-advisement-chatbots-by-astutely-gauging-their-levels-of-ai-autonomy/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/12/15/creatively-judging-those-generative-ai-mental-health-advisement-chatbots-by-astutely-gauging-their-levels-of-ai-autonomy/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 62
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/657c05994692840d3efcf0b9/0x0.jpg?format=jpg&crop=3259,2445,x276,y0,safe&height=900&width=1600&fit=bounds"
         width: 1200
-        height: 600
+        height: 900
         isCached: true
-  - title: "Four trends that changed AI in 2023"
-    excerpt: "This has been one of the craziest years in AI in a long time."
-    publishedDateTime: 2023-12-19T10:16:00Z
-    webUrl: "https://www.technologyreview.com/2023/12/19/1085696/four-trends-that-changed-ai-in-2023/"
-    ampWebUrl: "https://www.technologyreview.com/2023/12/19/1085696/four-trends-that-changed-ai-in-2023/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/19/1085696/four-trends-that-changed-ai-in-2023/amp/"
+  - title: "How AI Chatbots Are Replacing Santa Claus This Christmas"
+    excerpt: "While bots can make your holidays a little more jolly, they also open the doors to depersonalizing gift giving—and the inherent dangers of the emerging technology."
+    publishedDateTime: 2023-12-16T03:40:00Z
+    webUrl: "https://www.thedailybeast.com/how-ai-chatbots-are-replacing-santa-claus-this-christmas"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/03/image_dissolves_into_noise2.jpeg?w=2048"
-        width: 2048
-        height: 1152
-        isCached: true
-  - title: "Top AI Trends That We Can Expect in 2024"
-    excerpt: "As AI reaches new levels of maturity in 203, broad production deployment is expected across industries like healthcare, finance, animation, and education to increase security, reduce costs, and enhance workflows in the upcoming year."
-    publishedDateTime: 2023-12-20T05:14:00Z
-    webUrl: "https://www.timesnownews.com/technology-science/top-ai-trends-that-we-can-expect-in-2024-article-106141575"
-    ampWebUrl: "https://www.timesnownews.com/technology-science/top-ai-trends-that-we-can-expect-in-2024-article-106141575/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/top-ai-trends-that-we-can-expect-in-2024-article-106141575/amp"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 59
-    images:
-      - url: "https://static.tnn.in/thumb/msid-106143143,thumbsize-81260,width-1280,height-720,resizemode-75/106143143.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "3 ways generative AI will transform your people strategy in 2024"
-    excerpt: "As we navigate this pivotal time, we explore three transformations on the horizon that we believe HR and talent leaders should be mindful of in the coming year."
-    publishedDateTime: 2023-12-19T16:19:00Z
-    webUrl: "https://www.benefitspro.com/2023/12/19/3-ways-generative-ai-will-transform-your-people-strategy-in-2024/"
-    type: article
-    provider:
-      name: Benefits Pro
-      domain: benefitspro.com
+      name: The Daily Beast
+      domain: thedailybeast.com
     quality: 39
     images:
-      - url: "https://images.benefitspro.com/contrib/content/uploads/sites/412/2023/10/Business-Global-Network-Article-202310031603.jpg"
-        width: 620
-        height: 372
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1702655170/231214-santa-AI-hero-1_miotgg"
+        width: 1480
+        height: 832
         isCached: true
-  - title: "Top AI Trends That Will Impact Businesses in 2024"
-    excerpt: "In 2024, AI will expand beyond mere automation, entering areas such as explainable AI, responsible AI, and enhanced human-machine collaboration. Businesses should adapt quickly to use this trend for strategic decision-making, operational efficiency, and  customer-focused innovation."
-    publishedDateTime: 2023-12-19T13:03:00Z
-    webUrl: "https://www.finextra.com/blogposting/25421/top-ai-trends-that-will-impact-businesses-in-2024"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
 
 secured: "I0pPWsiPRRJgEWOSdfkOgcKQOtkn0sfsK6TvAT3zxxD0rf7PNhfSxMWevFeGenPDjAPmLrxYfXys3cdHGYVIV009LGtB4y3+Hvv1Bv4R8MqfkEe1HkFCohgKNmF36/KTbQEDnCO8N17UAJSEi9FpYSz7qvDHr8tULFeAX13e4lqrhLIwMBaiM6jKqr8TIBP6KiwTyz68qaO5o+7caOcKm1CK2INQN49DhJFZY/ltUeJSIo++3a/Es8oLuFbG1PcEh/OZ/PC02sQPPhIkpg91qknxT/5n/+WbzRLT6DzR8e5UDvkO6rTytyf11wiY8WO01ISAh7kvAiYVx8bENT5zNdwF+bXJJCQCth+uDm1fCleunALQCEtRLNFOIv4zmvbkZxBd3DPLwy4xc+rz+INwPR5bd7YM+ZHrZ6BfkOKqJSRWAw9CHtytjiXlMNPLw/3StdOPf/wag/5GHD+VXDPpEOCU9e98AMx5IpQrbQPclB+cU3dMcR5IF44H2NqI4VQzIuncS+XE+abzqeqy0+XXFA==;IIs8ZAY7pfMWw3FX5rKezg=="
 ---

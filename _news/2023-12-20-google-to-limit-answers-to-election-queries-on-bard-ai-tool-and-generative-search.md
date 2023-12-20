@@ -67,6 +67,22 @@ related:
         width: 1200
         height: 757
         isCached: true
+  - title: "Google will restrict election-related queries that Bard and AI-search can answer"
+    excerpt: "Google restricts Bard and SGE for election queries to curb misinformation ahead of 2024 U.S. Presidential elections."
+    publishedDateTime: 2023-12-20T10:07:00Z
+    webUrl: "https://thetechportal.com/2023/12/20/google-will-restrict-election-related-queries-that-bard-and-ai-search-can-answer/"
+    ampWebUrl: "https://thetechportal.com/2023/12/20/google-will-restrict-election-related-queries-that-bard-and-ai-search-can-answer/?amp"
+    cdnAmpWebUrl: "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/2023/12/20/google-will-restrict-election-related-queries-that-bard-and-ai-search-can-answer/?amp"
+    type: article
+    provider:
+      name: thetechportal.com
+      domain: thetechportal.com
+    quality: 54
+    images:
+      - url: "https://thetechportal.com/wp-content/uploads/2023/12/12-23_Elections_1_1.width-1200.format-webp-1.png"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "After Meta, Google Limits Bard And AI-Search Queries Related To Elections Ahead Of 2024 Presidential Race"
     excerpt: "In anticipation of the 2024 U.S. Presidential election, Google, a subsidiary of Alphabet Inc. GOOG GOOGL, has decided to restrict the range of election-related queries that its AI chatbot Bard and search generative experience can answer. What ..."
     publishedDateTime: 2023-12-20T03:15:00Z
@@ -124,6 +140,20 @@ related:
       - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/12/20/image/jpeg/MlyTWOS2jPk0xyLcfQMdQaSsHyX9BVEgft53EPdd.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Google to Restrict Election-Related Queries for Chatbot Bard, Search Experience"
+    excerpt: "Alphabets Google announced on Tuesday that it will implement restrictions on election-related queries for its chatbot, Bard, and search generative experience leading up to the 2024 U.S. Presidential election."
+    publishedDateTime: 2023-12-20T10:03:00Z
+    webUrl: "https://www.econotimes.com/Google-to-Restrict-Election-Related-Queries-for-Chatbot-Bard-and-Search-Experience-1668306"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 20
+    images:
+      - url: "https://f1.econotimes.com/2023/12/5w35ell8j1_th_1024x0.jpeg"
+        width: 1024
+        height: 614
         isCached: true
 
 secured: "yRv3wE5mgz9AsBdVsruBUoCfXwD0VYdDAS16vfubSnytmhP44r10BmFJ7tNQ/evzhQbXD3oqpzvTa9O9Gobfer3XbsjFijzu8YD6guxW8XREsufvJzozff68ffBdA4/uwxIO6TYrJNVxFtoLAZO5aUWt9BfWjuUpqmfhSHLz5QuguoNs9OYAR269R1qe2iLnPzWuAInEixikIhlyGlDhyRSzYZcnGKms8XhYS4dtKUXws7Vnq9G07qsYhQ2HwbK0HufTPDLXnotuJQVldtw/bxuzUHt98nuFpUEhQcH6NlrMXKbsMswmHAtCqXHPTnzUoCmw2dwUYdIKfmo06adA0RpnckR7txPRiAWfW/Vl4aEaN5sQ8MnODY99oI8fGxGh2vikNcHhCfc1CCiJlQwQBrdpl81m8u1SmlXHb9DJlMEjlVotLFK5BIuzXJOdN+GxKoJaGobeVQVUuPE4F+Jw+Ec7XQxjO4SxsO4aL9wcs/rYY0uTY9VfaA/8HdZ1q5n7GCEFEnf938tT5UPI0FUfng==;tRtJHhb06N3mgvTW8ybZWg=="

@@ -54,6 +54,20 @@ related:
         width: 1200
         height: 400
         isCached: true
+  - title: "2023: the year of the AI boom"
+    excerpt: "Here's a look at how generative AI took over the tech industry in 2023: The start of the AI 'gold rush' OpenAI wasn't expecting ChatGPT to be \"much more than a passing curiosity among AI obsessives on Twitter,\" Charlie Warzel wrote for The Atlantic ..."
+    publishedDateTime: 2023-12-19T23:59:00Z
+    webUrl: "https://theweek.com/tech/2023-ai-boom"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 37
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/QZtf9HYwZCMGyAGCmbCz73-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Music AI in 2023: a database of tools"
     excerpt: "It almost feel superfluous to say it, but 2023 has unequivocally been The Year Of AI. Music Ally has reported on the various music AI developments as closely and quickly as we could, although the"
     publishedDateTime: 2023-12-19T13:55:00Z

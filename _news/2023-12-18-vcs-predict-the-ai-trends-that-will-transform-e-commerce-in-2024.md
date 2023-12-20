@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/vc-firms-investing-in-e-commerce-s
 webUrl: "https://www.businessinsider.com/vc-firms-investing-in-e-commerce-share-criteria-2024-predictions-2023-12"
 type: article
 quality: 69
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://static.tnn.in/thumb/msid-106143143,thumbsize-81260,width-1280,height-720,resizemode-75/106143143.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "How the AI boom is transforming accounting"
-    excerpt: "The IRS rolling out chatbots to help individuals with basic tax matters and key presentations on AI innovation at accounting events are among the recent developments."
-    publishedDateTime: 2023-12-15T22:07:00Z
-    webUrl: "https://www.accountingtoday.com/list/how-the-ai-boom-is-transforming-accounting"
-    type: article
-    provider:
-      name: Accounting Today
-      domain: accountingtoday.com
-    quality: 39
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/213d245/2147483647/strip/true/crop/510x268+0+39/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F40%2F4c%2Ff764f70d44ec80eab750dbc8af35%2F1-1-1-artificial-intelligence-cover.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "3 ways generative AI will transform your people strategy in 2024"
     excerpt: "As we navigate this pivotal time, we explore three transformations on the horizon that we believe HR and talent leaders should be mindful of in the coming year."

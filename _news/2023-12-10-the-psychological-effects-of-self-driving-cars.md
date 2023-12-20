@@ -3,10 +3,10 @@ category: news
 title: "The Psychological Effects of Self-Driving Cars"
 excerpt: "Autonomous vehicles (AVs) including artificial intelligence AI-powered driverless or self-driving cars have received significant attention as a potentially safer and more sustainable mode of ..."
 publishedDateTime: 2023-12-10T00:00:00Z
-originalUrl: "https://www.psychologytoday.com/us/blog/urban-survival/202311/the-psychological-effects-of-self-driving-cars"
-webUrl: "https://www.psychologytoday.com/us/blog/urban-survival/202311/the-psychological-effects-of-self-driving-cars"
-ampWebUrl: "https://www.psychologytoday.com/us/blog/urban-survival/202311/the-psychological-effects-of-self-driving-cars"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/urban-survival/202311/the-psychological-effects-of-self-driving-cars"
+originalUrl: "https://www.psychologytoday.com/intl/blog/urban-survival/202311/the-psychological-effects-of-self-driving-cars"
+webUrl: "https://www.psychologytoday.com/intl/blog/urban-survival/202311/the-psychological-effects-of-self-driving-cars"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/urban-survival/202311/the-psychological-effects-of-self-driving-cars?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/urban-survival/202311/the-psychological-effects-of-self-driving-cars?amp"
 type: article
 
 provider:
@@ -23,6 +23,6 @@ images:
     height: 800
     isCached: true
 
-secured: "5i1xB1/Q4K6qtA8qtPuHmT7lu7YchWezfF1I2oFREfP+IRohzCOvtQCIIx1fv0YA1C0IT5nWaqwCEQ3wL9A7PRcp0/NGnBDrx6jgWALU7vlfPZKo1llCQ50Q85AoofS9/8XZjtTzfneQPGmckxiYpiqTCONXaMSTJ1bd+4F+RAv4eYOU2fagbL+6rGrgNihKIV5zf3dfkDiycECj0mtu6/g4QZUHXjFYilkylDVOjmPNL6cQBsGZ7PLzLO78eTwwcr/h+Ulobm5dKNe9v1o4CI1lq2h/ljFGiYKqurU97ZIALu7WfDauLCvnt84ThZBu9Sg+vIGtwadevcGlA1F9mf9huzXymB5ABOjZaAfJRi4=;r4wLSJ51yCM7Svh9NIzF7Q=="
+secured: "IYLCoaFQENgHNRqdosazXL/wAmSXI2jDkeEx9oCi206mq2YtXvp4jpA2otP0WktZ8WoF7v1sV7G9KmQ3QTcgD6Px5PUmbolb5tQICW1UvRqsRUjlzCOcmKsxmm4IvBejby/XneqQv7hDNszPNnENWJBTdu1dAecpkZhiHdBoRtrpK8XyhKZxzGLQESys5TOgZvUfaZcUEIc/5oht2EaExcN8twTqUDawRewfriWH9uWGxILF2g13gEMr3U+uBvvO1gJCvmfj9TFMJ7AqHlVNomZMcc9VF2LmSshlqmYY1P6AXWHznVWL8UZ76vBGQWZPORCuzGtsSJekgehT0v+3ElB7xRO17LU933fNzMWzgZI=;5NPbZMNxmbH2BN3nAESUKw=="
 ---
 

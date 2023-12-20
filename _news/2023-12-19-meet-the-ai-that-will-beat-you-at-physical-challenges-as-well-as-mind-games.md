@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/davidprosser/2023/12/19/meet-the-ai-t
 webUrl: "https://www.forbes.com/sites/davidprosser/2023/12/19/meet-the-ai-that-will-beat-you-at-physical-challenges-as-well-as-mind-games/"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,34 @@ topics:
   - AI
 
 related:
+  - title: "AI beats humans for the first time in physical skill game"
+    excerpt: "AI’s ability to beat human players in games like chess and GO is no longer surprising. After all, artificial intelligence has proved it can outperform its animate creators in certain tasks, especially when it comes to processing and analysing information. But physical skill has remained a human prerogative — until now."
+    publishedDateTime: 2023-12-20T10:29:00Z
+    webUrl: "https://thenextweb.com/news/ai-beats-humans-first-time-physical-skill-game"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 69
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2023/12/labyrinth-game-image-1-796x553.jpg"
+        width: 796
+        height: 553
+        isCached: true
+  - title: "Revolutionizing Physical Skills: AI Robot Surpasses Human Ability in Labyrinth Marble Game"
+    excerpt: "In a groundbreaking development, researchers at ETH Zurich have made a significant leap in artificial intelligence, demonstrating that AI can now outperform humans in tasks requiring physical skills."
+    publishedDateTime: 2023-12-19T22:23:00Z
+    webUrl: "https://www.unite.ai/revolutionizing-physical-skills-ai-robot-surpasses-human-ability-in-labyrinth-marble-game/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 44
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/12/labyrinth-game-image-2-942x600.jpg"
+        width: 942
+        height: 600
+        isCached: true
   - title: "Artificial intelligence robot 'physically beats' humans and out-thinks them in new breakthrough"
     excerpt: "Researchers in Switzerland created an AI robot that learned in just six hours to master a popular game of physical skill"
     publishedDateTime: 2023-12-19T13:08:00Z
@@ -32,6 +60,15 @@ related:
       name: London Evening Standard
       domain: standard.co.uk
     quality: 22
+  - title: "Artificial Intelligence Was Just Classified as a Threat to the Financial Sector for the First Time"
+    excerpt: "The rapid development of artificial intelligence may pose a risk to the country's financial stability and exacerbate existing challenges with access to capital."
+    publishedDateTime: 2023-12-15T20:29:00Z
+    webUrl: "https://www.inc.com/melissa-angell/artificial-intelligence-was-just-classified-as-a-threat-to-financial-sector-for-first-time.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 3
 
 secured: "OFRkD93XRz6E/4WZFt0qyv02IoLJs9n/fNsMNIaA2alVrHmIPZ1BrASfKKXvjzG1V5RTJGyxnOoOfiw1b15fzRw20myq/GWpmDjAU3Sp+6AkZ4T9ipKFKHz/9BmnIPIF0TTDdawzRZAZxl2diwonapcak9l8rC/K+0PWyJdPB8WsxRQr0M7efl8XrfZJjjgjmoKqwHVFVqPACQz9DJxL6oyl6mulQdJ4pGG/RRoyP6Qz/cv10XcK/JaHTtWQ13yVh82X4uELEA3APNejZaTNgIig5PZlJey8WT2rawbs8UjH7HFNTHyrfj39yXdKkdGLydbSc37R9odKqK5sauGpfNk/0qri0TepKB6n1SQklw7/bDExl8kAiYlTKdc7zq7fNUPvKZ3nQfB9/gBsk4THH9nSdER/ad/Tzgncp8B98J4SzsK+GA5Z/Ua/SauYV9Y+E14gcaTPqnfmJ7+ZnpS7ZP2oLaLzJS828o3umFw684dwhOaAIwyStbNay5aTRsoqalbk2W/K3gyraBjCu+KK7w==;3wFzIKOr0gs4cgXMAqpyKw=="
 ---

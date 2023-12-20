@@ -40,29 +40,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "DeepMind claims its AI can tackle unsolved mathematics"
-    excerpt: "DeepMind claims its FunSearch model found new answers to an unsolved maths problem, using a method that creates a 'self-improving loop'."
-    publishedDateTime: 2023-12-15T10:17:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/deepmind-ai-unsolved-mathematics-hallucinations"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 86
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/12/AdobeStock_258774750.jpeg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Google's DeepMind AI decodes age-old math equation, stumping humans"
-    excerpt: "Google DeepMind has triumphantly cracked an age-old mathematical mystery using a method they are calling FunSearch. The math problem that FunSearch has solved is the famous cap set problem in pure mathematics, which has stumped even the brightest human mathematicians."
-    publishedDateTime: 2023-12-15T10:03:00Z
-    webUrl: "https://interestingengineering.com/innovation/googles-deepmind-decodes-old-math-equation"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 51
 
 secured: "cwEusbVWXVeTcjb4RVJUBybDFGDDFUA5xW3H5sHqG/jAPHO7v6XL4QePNOiL7WnhN/GpBz4fAwPI0xti/hQcCTBuiPU4gwYNj/MLkQTop0u1DovcsePl/BljM9EwufS3ihMQkWeq83RXxkoRPik9nOWoDg6ArmQN27dzQvVw1oSP86QJKWaMyd8UMOHKXXHUC6ivjHn5wU0Io6KHrFzI4GFOQKaK3jJtxtvhQuaO4PY2K+n5hRhyEXdVXiFj4vMsEmVd4YvZtPIGRQ3iZyPhYRP58Jb62NVn4g6XYU6A1O2sz0YPc1Lz1WHX/rBJQ/a5OpxjPVlAlawcxpS8DzMx3Z/07LhaItbqHbJEyI3RkkA=;4Tdj+xIjBEBT69EpTgiTjQ=="
 ---

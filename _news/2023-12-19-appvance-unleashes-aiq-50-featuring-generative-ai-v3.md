@@ -85,6 +85,22 @@ related:
         width: 1200
         height: 629
         isCached: true
+  - title: "How India's tryst with Artificial Intelligence will ensure its developed status by 2024"
+    excerpt: "Under Prime Minister Modi's tech-focused policies, India has shifted from being a follower to a leader. Hosting the Global Partnership on Artificial Intelligence (GPAI) summit and leading GPAI in 2024"
+    publishedDateTime: 2023-12-20T10:04:00Z
+    webUrl: "https://www.firstpost.com/opinion/how-indias-tryst-with-artificial-intelligence-will-ensure-its-developed-status-by-2024-13525902.html"
+    ampWebUrl: "https://www.firstpost.com/opinion/how-indias-tryst-with-artificial-intelligence-will-ensure-its-developed-status-by-2024-13525902.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/opinion/how-indias-tryst-with-artificial-intelligence-will-ensure-its-developed-status-by-2024-13525902.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 51
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2023/12/Screenshot-752.jpg"
+        width: 640
+        height: 363
+        isCached: true
   - title: "Google Unveils AI-Powered Features For Maps In India"
     excerpt: "Google Maps is introducing a fuel-efficient routing feature in India for both four-wheelers and two-wheelers by January next year, promoting sustainability. This feature, already estimated to have prevented 2.4 Mn metric tons of CO2e globally, considers real-time traffic data, road elevation, and vehicle type."
     publishedDateTime: 2023-12-20T07:56:00Z

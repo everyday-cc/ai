@@ -9,7 +9,7 @@ ampWebUrl: "https://fortune.com/videos/watch/ceo-initiative-2023%3A-where-do-we-
 cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/ceo-initiative-2023%3A-where-do-we-start%2C-pause%2C-or-stop-with-ai/331ba556-0b4a-41cb-9cb0-3569dae6595b/amp"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://cdn.ttgtmedia.com/visuals/German/article/ethics-morals-adobe.jpg"
         width: 1200
         height: 400
+        isCached: true
+  - title: "2023: the year of the AI boom"
+    excerpt: "Here's a look at how generative AI took over the tech industry in 2023: The start of the AI 'gold rush' OpenAI wasn't expecting ChatGPT to be \"much more than a passing curiosity among AI obsessives on Twitter,\" Charlie Warzel wrote for The Atlantic ..."
+    publishedDateTime: 2023-12-19T23:59:00Z
+    webUrl: "https://theweek.com/tech/2023-ai-boom"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 37
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/QZtf9HYwZCMGyAGCmbCz73-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "2023: The year we played with artificial intelligence — and weren't sure what to do about it"
     excerpt: "Artificial intelligence went mainstream in 2023 — it was a long time coming yet has a long way to go for the technology to match people’s science fiction fantasies of"

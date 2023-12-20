@@ -57,34 +57,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "How Intel's new AI-focused PC chips compare with Apple M3"
-    excerpt: "The Intel Core Ultra supports up to 64GB of LPDDR5/LPDDR5X RAM or up to 96GB of DDR5 RAM. However, Apple M3 Max provides up to 128GB of unified memory. Thunderbolt 4 connectivity for speeds of 40Gbps applies to both. While Apple M3 Max supports Wi-Fi 6E standards, Intel chips can handle discrete Intel Wi-Fi 7 connectivity."
-    publishedDateTime: 2023-12-15T10:06:00Z
-    webUrl: "https://www.newsbytesapp.com/news/science/intel-core-ultra-meteor-lake-vs-apple-m3-chip/story"
-    type: article
-    provider:
-      name: newsbytesapp.com
-      domain: newsbytesapp.com
-    quality: 54
-    images:
-      - url: "https://i.cdn.newsbytesapp.com/images/l99420231215153414.jpeg"
-        width: 1920
-        height: 1081
-        isCached: true
-  - title: "Intel releases its own AI chip"
-    excerpt: "Hopefully, Gaudi3 will not end up under a tram Intel unveiled a new AI computer chip called Gaudi3, hoping to give Nvidia and AMD a run for their money. The most prominent AI models run on Nvidia, like OpenAI's ChatGPT."
-    publishedDateTime: 2023-12-15T10:24:00Z
-    webUrl: "https://www.fudzilla.com/news/pc-hardware/58117-intel-releases-its-own-ai-chip"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 54
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/204d096d7a431042de94c608f4a34e24_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
   - title: "Intel infuses PCs with AI chips as enterprise refresh rush nears"
     excerpt: "The chipmaker’s Core Ultra mobile processors will power more than 230 PC models from Dell, Lenovo, Microsoft and others."
     publishedDateTime: 2023-12-18T22:21:00Z

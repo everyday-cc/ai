@@ -146,20 +146,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Dell, Microsoft, Lenovo Laptops to Soon Feature Intel’s New Chip with Built-in AI Capabilities"
-    excerpt: "Intel, a leading technology company, announced Thursday that numerous personal computer manufacturers are utilizing their latest chip. This strategic move aims to entice consumers to upgrade their machines for the dawn"
-    publishedDateTime: 2023-12-15T09:10:00Z
-    webUrl: "https://www.econotimes.com/Dell-Microsoft-Lenovo-Laptops-to-Soon-Feature-Intels-New-Chip-with-Built-in-AI-Capabilities-1668035"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 59
-    images:
-      - url: "https://f1.econotimes.com/2023/12/p6j30bp4cg_th_1024x0.jpeg"
-        width: 1024
-        height: 614
-        isCached: true
   - title: "Microsoft's new Windows AI Studio developer tool... makes you install Linux to use it"
     excerpt: "Windows AI Studio, a new developer tool designed to help programmers integrate generative AI into apps, only works on Linux, the company has revealed. Specifically, it requires Ubuntu 18.04 Bionic Beaver or later, an LTS Linux distro that was first made available in April 2018."
     publishedDateTime: 2023-12-19T14:50:00Z
@@ -236,6 +222,20 @@ related:
         width: 1024
         height: 538
         isCached: true
+  - title: "TomTom and Microsoft Team Up to Launch Cutting-Edge In-Car Voice AI Solution"
+    excerpt: "TomTom, a leading mapping/navigation company, has partnered with Microsoft to develop an advanced in-car voice AI assistant. The solution will revolutionize the driving experience by enabling natural voice"
+    publishedDateTime: 2023-12-20T10:01:00Z
+    webUrl: "https://www.econotimes.com/TomTom-and-Microsoft-Team-Up-to-Launch-Cutting-Edge-In-Car-Voice-AI-Solution-1668303"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 51
+    images:
+      - url: "https://f1.econotimes.com/2023/12/o82nod3f80_th_1024x0.jpg"
+        width: 1024
+        height: 678
+        isCached: true
   - title: "LTIMindtree and Microsoft collaborate to deliver an AI-powered employee experience"
     excerpt: "LTIMindtree, a global technology consulting and digital solutions company, is announcing a strategic collaboration with Microsoft to drive the delivery of effective and personalized employee and customer experiences."
     publishedDateTime: 2023-12-19T20:00:00Z
@@ -249,6 +249,20 @@ related:
       - url: "https://dzceab466r34n.cloudfront.net/Images/OtherImages/151196-2023-Cover-Images-ORG.png"
         width: 772
         height: 594
+        isCached: true
+  - title: "TomTom develops AI-powered voice assistant for vehicles in partnership with Microsoft"
+    excerpt: "TomTom, a location technology provider, is partnering with Microsoft to introduce an artificial intelligence-powered voice assistant for drivers. The solution is based on the Microsoft Azure OpenAI Service and is built into TomTom’s Digital Cockpit platform for vehicles."
+    publishedDateTime: 2023-12-20T09:42:00Z
+    webUrl: "https://www.technologyrecord.com/article/tomtom-develops-ai-powered-voice-assistant-for-vehicles-in-partnership-with-microsoft"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 47
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4763/Microsft_TomTom_web.jpg"
+        width: 975
+        height: 548
         isCached: true
   - title: "TomTom and Microsoft Collaborating To Bring Generative AI and Cloud Analytics To Vehicles"
     excerpt: "TomTom and Microsoft are collaborating to develop new automotive solutions that leverage AI capabilities, cloud analytics, and Microsoft’s automotive"

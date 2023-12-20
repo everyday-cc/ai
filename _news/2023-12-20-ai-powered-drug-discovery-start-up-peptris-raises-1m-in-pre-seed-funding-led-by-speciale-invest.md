@@ -25,6 +25,19 @@ images:
     height: 800
     isCached: true
 
+related:
+  - title: "AI makes mark in drug discovery in India; start-up Peptris raises $1 mn"
+    excerpt: "Peptris is revolutionizing drug discovery through the implementation of its state-of-the-art AI platform. It is transforming the traditionally lengthy and costly drug discovery process"
+    publishedDateTime: 2023-12-20T10:32:00Z
+    webUrl: "https://www.business-standard.com/industry/news/ai-makes-mark-in-drug-discovery-in-india-start-up-peptris-raises-1-mn-123122000671_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/industry/news/ai-makes-mark-in-drug-discovery-in-india-start-up-peptris-raises-1-mn-123122000671_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/industry/news/ai-makes-mark-in-drug-discovery-in-india-start-up-peptris-raises-1-mn-123122000671_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 37
+
 secured: "AI6ECbUZy4Mu4XZIKzs60vbQ76qgKaG1znfDy+cLspaOIeEjD1FU+7aYL2oma4znV86Mm6L2TgBHsYzp3/ARoYwL6/dDjpEyTSNQP5LzJQBTcRLS3zY6A7g9jTyjDifOAFZhv6HPp9WBZZugRR95Ms5KG3HjP8W5ctb3VCD6611FrAR+7lZfXoB20ArrvcgyUwl8LM8PBGoWLtvL5r9/G3brPb85uYY18bSSTrxH3+ITZk4j61UB1ipoET6VZvtaIHIZC76LLO88Cx5Q8Mm0rSrc9a3MjxsLsCc2/xY7iW656Rc8yAZhUvBtrxg3D14BZtcnI2XaH9bpbv75DEt/hYodCwRhWNYUgTPVKQX+OfjGFc9gg3G3KQEoi0nhRK3p/OEUV15I3MJhUbFjv4KT2k6nY4mQKwuZY1TXrP5v0Rd3ST/6S0mMNh9FnlBr8aOP65QH4VFlsV/nbtpA5ySyDOMGtjlZsG7GWFJ5GBlwtCOQZLCM3bduqN3gHMXCcAu/RSWIbK5NrVXtvuHftO803Q==;qfcNmeYb7MHCS74TIDuZpw=="
 ---
 

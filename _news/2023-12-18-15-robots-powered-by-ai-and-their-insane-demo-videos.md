@@ -9,8 +9,8 @@ ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/best-ai-robots-of-2023-robot-demo-videos-9069858/lite/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: The Indian Express
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Driven by AI, Micron sees robust chip demand"
-    excerpt: "US-based chipmaker Micron Technology is expecting demand for semiconductors to rise significantly in the next few years, globally and in India, as memory consumption is going up, largely driven by the widespread adoption of technologies like artificial intelligence (AI)."
-    publishedDateTime: 2023-12-15T10:41:00Z
-    webUrl: "https://www.rediff.com/business/report/driven-by-ai-micron-sees-robust-chip-demand/20231215.htm"
-    ampWebUrl: "https://m.rediff.com/amp/business/report/driven-by-ai-micron-sees-robust-chip-demand/20231215.htm"
-    cdnAmpWebUrl: "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/business/report/driven-by-ai-micron-sees-robust-chip-demand/20231215.htm"
-    type: article
-    provider:
-      name: rediff.com
-      domain: rediff.com
-    quality: 74
-    images:
-      - url: "https://im.rediff.com/345-230/money/2023/dec/14nirmala-sitharaman.jpg"
-        width: 345
-        height: 230
-        isCached: true
   - title: "10 robots powered by AI and their insane demo videos"
     excerpt: "Elon Musk, recently showcased his latest creation, the Optimus Gen-1. Following advancements in large language models, it seems the race to create the most powerful AI-backed robot is intensifying. The Tesla Optimus account shared a demo video of Optimus Gen-1, which triggered a conversation around AI robots."
     publishedDateTime: 2023-12-15T13:05:00Z

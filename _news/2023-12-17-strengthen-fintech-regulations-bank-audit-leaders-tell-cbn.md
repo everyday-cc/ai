@@ -9,7 +9,7 @@ ampWebUrl: "https://punchng.com/strengthen-fintech-regulations-bank-audit-leader
 cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/strengthen-fintech-regulations-bank-audit-leaders-tell-cbn/?amp"
 type: article
 quality: 59
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -77,6 +77,20 @@ related:
       - url: "https://www.aap.com.au/wp-content/themes/aap-news_theme/dist/assets/images/sport300x250.108183d0.gif"
         width: 300
         height: 250
+        isCached: true
+  - title: "FinTech Magazine’s Top 10 regtech companies"
+    excerpt: "Discover the Top 10 RegTech Companies reshaping compliance for financial institutions in the rapidly evolving fintech landscape"
+    publishedDateTime: 2023-12-20T09:00:00Z
+    webUrl: "https://fintechmagazine.com/articles/fintech-magazines-top-10-regtech-companies"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/4fc27e3500f6aee9de4466e554791938:26d8ecc7055dc30bd0a9b6ade722341d/fintech-top10-website-dec2023-regtech.jpg.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "What Are The Most Interesting FinTech Startups?"
     excerpt: "What Are The Most Interesting FinTech Startups? From the innovative approach of wallet passes to the democratization of fractional investing, eight founders and COOs weigh in on the most captivating FinTech startups today."

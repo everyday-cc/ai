@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/12/15/creatively-judgin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/12/15/creatively-judging-those-generative-ai-mental-health-advisement-chatbots-by-astutely-gauging-their-levels-of-ai-autonomy/amp/"
 type: article
 quality: 62
-heat: 72
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,19 +30,49 @@ images:
     isCached: true
 
 related:
-  - title: "How agencies will leverage virtual reality, generative AI over the next 2 years"
-    excerpt: "A new Deloitte report forecasts that “spatial computing and the industrial metaverse” will have growing applications for state and federal organizations and said that “investigating these technologies can help agencies get a leg up on the future."
-    publishedDateTime: 2023-12-19T21:35:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2023/12/how-agencies-will-leverage-virtual-reality-generative-ai-over-next-2-years/392888/"
+  - title: "Unleashing AI’s Power: Chatbots Transforming Healthcare Experiences"
+    excerpt: "Artificial Intelligence (AI)-powered chatbots are becoming significant tools in the transformation of healthcare in the 21st century, facilitating the convergence of technology and delivery of medical services."
+    publishedDateTime: 2023-12-20T10:16:00Z
+    webUrl: "https://disrupt-africa.com/2023/12/20/unleashing-ais-power-chatbots-transforming-healthcare-experiences/"
+    ampWebUrl: "https://disrupt-africa.com/2023/12/20/unleashing-ais-power-chatbots-transforming-healthcare-experiences/"
+    cdnAmpWebUrl: "https://disrupt--africa-com.cdn.ampproject.org/c/s/disrupt-africa.com/2023/12/20/unleashing-ais-power-chatbots-transforming-healthcare-experiences/"
     type: article
     provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 35
+      name: disrupt-africa
+      domain: disrupt-africa.com
+    quality: 74
     images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2023/12/19/121923VRAING/open-graph.jpg"
-        width: 400
-        height: 400
+      - url: "https://disrupt-africa.com/wp-content/uploads/2023/07/DA-logo-on-transparent-with-tag-small-e1414593297539-1.png"
+        width: 300
+        height: 201
+        isCached: true
+  - title: "How AI Chatbots Are Replacing Santa Claus This Christmas"
+    excerpt: "While bots can make your holidays a little more jolly, they also open the doors to depersonalizing gift giving—and the inherent dangers of the emerging technology."
+    publishedDateTime: 2023-12-16T03:40:00Z
+    webUrl: "https://www.thedailybeast.com/how-ai-chatbots-are-replacing-santa-claus-this-christmas"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 39
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1702655170/231214-santa-AI-hero-1_miotgg"
+        width: 1480
+        height: 832
+        isCached: true
+  - title: "How the AI boom is transforming accounting"
+    excerpt: "The IRS rolling out chatbots to help individuals with basic tax matters and key presentations on AI innovation at accounting events are among the recent developments."
+    publishedDateTime: 2023-12-15T22:07:00Z
+    webUrl: "https://www.accountingtoday.com/list/how-the-ai-boom-is-transforming-accounting"
+    type: article
+    provider:
+      name: Accounting Today
+      domain: accountingtoday.com
+    quality: 39
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/213d245/2147483647/strip/true/crop/510x268+0+39/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F40%2F4c%2Ff764f70d44ec80eab750dbc8af35%2F1-1-1-artificial-intelligence-cover.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "U77pkL+3clNOGa5WyH5ItrpzAx7oYh/CoGiQ3kBr3EhXqB2OQf2+ChvCSUkwqD2nlXyyMWLASpmUkVaRZMDfUmTf0ZDYbtMqbw3MSwtnJRtuXhQZ/Cizx/0FPGLFqpRnkAF9iPi2sSjzqKeli+mZJvufHrGC7tOSnyN6r76l/xJvxN7HcxYKigXHfDwB4650WS/mPjvJl+sxxL7SmLG+VzbENxmGq/uaa0eQKIShJ9qRAninj8eT9d0y6CQ6kYt5Tlv6SYY9L3N7Ldh8C95oEl7KGfzQAwWHHLdyTpPS0iyKWTcIC4zHibfAzCzV/4Iy/78TvAOgPe6oDc4L6Ff7m8xiF2iLbOziIoelWZQUTHIVncdMR8z8VDPbh2J5L2fykuMA0xepwB0O6Lz89alLjRdG6ckFVvwZ3R76pH9+DhSV/01h2VHDcx6jDZZ2tGylQ+E03vMXOlB7N7BQiYLY+ZyoTVLXLSgyoH6xSd8kltEWYhRlKGI+mJ6zAcDzK6SjESaeBh2cT5Z0Xusioqkf/A==;PKfBTRUwZhsIyfE02CP6CA=="

@@ -80,33 +80,19 @@ related:
         width: 1024
         height: 536
         isCached: true
-  - title: "Google plans to roll out Gemini across all its products"
-    excerpt: "Even Bing is outclassing it, so it has to do something. With the arrival of AI, the search engine Google has found itself in the embarrassing situation of being beaten by Microsoft’s Bing, and now the company says it will roll out its own AI Gemini across nearly its entire line of products."
-    publishedDateTime: 2023-12-15T10:35:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/58119-google-plans-to-roll-out-gemini-across-all-its-products"
+  - title: "New Google Labs Design Includes AI Tools For Search & Creativity"
+    excerpt: "Discover the new Google Labs design with 12 AI experiments demonstrating the future of generative AI in search, productivity, and business."
+    publishedDateTime: 2023-12-20T09:14:00Z
+    webUrl: "https://www.searchenginejournal.com/new-google-labs-design-includes-ai-tools-for-search-creativity/504431/"
     type: article
     provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 24
+      name: Searchenginejournal.com
+      domain: searchenginejournal.com
+    quality: 39
     images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/646ff92d19e9e08ab09b37970c879a6b_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
-  - title: "How to Get the Most Out of Gemini in Google Bard"
-    excerpt: "This guide is designed to show you how to get the most of out Gemini in Google Bard. Google, has recently implemented a significant enhancement to its"
-    publishedDateTime: 2023-12-15T10:00:00Z
-    webUrl: "https://www.geeky-gadgets.com/how-to-get-the-most-out-of-gemini-in-google-bard/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 24
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/Google-Gemini.jpeg"
-        width: 1280
-        height: 721
+      - url: "https://www.searchenginejournal.com/wp-content/uploads/2023/12/google-labs-redesigned-ai-experiements-business-creativity-productivity-search-6582a44042438-sej.jpg"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "Google Gemini AI: Multimodal, GPT-4 Competitor, and More"
     excerpt: "Google Gemini AI models have set a new benchmark in the AI industry and it is being touted to outrank OpenAI's GPT-4 model."

@@ -7,7 +7,7 @@ originalUrl: "https://www.thedrum.com/news/2023/12/18/green-greetings-and-merry-
 webUrl: "https://www.thedrum.com/news/2023/12/18/green-greetings-and-merry-machine-learning-the-best-agency-christmas-cards-2023"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1280
     height: 798
     isCached: true
+
+related:
+  - title: "Delivery robots will transform Christmas"
+    excerpt: "Delivery robots like this have become part of the scenery since they started work in this town, some 80km northwest of London, in 2018. “That’s when you know a new technology is successful,” says Ed Lovelock."
+    publishedDateTime: 2023-12-18T18:37:00Z
+    webUrl: "https://www.aol.com/finance/delivery-robots-transform-christmas-163718462.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "QclX/rFw3sGZcfiOudVQqfem8LKE7YTAHzjmvGD4ZP1KSiYrM7+Brq90tgPa6min5UDvMZCnlZzUIFYNLyFB+bsFzMsENRVcfIDKAkqOSit/23MEC9hDSPAo4jTOIMiCGhY+xfLcXy2Hc/6Axzh5rpfmTrHz8/3L6dPtm2kE2y0O9CIJgTneLr2eqpVMTjRTW2D9BrmJo5H+PFeOQh0HLtNJxsjCBlIx+LqGOcHhxd625lnwu2fbV+krmIlpmr95HkDso8eF2hkPQhXelL8fMrudaR2/lLSHRK887VotDOM81ltviHsZ47DAWISiub6mN3k/kkZvcpbxu4EQM5j6fc3OSIgUmpABwuZodM/qb54=;u881EsUr/3YeBs2wpbUJkQ=="
 ---
