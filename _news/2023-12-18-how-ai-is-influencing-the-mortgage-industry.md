@@ -45,20 +45,6 @@ related:
         width: 1200
         height: 765
         isCached: true
-  - title: "Generative AI Dictates Trillions of Dollars in Industry"
-    excerpt: "This year was the breakout year for Generative artificial intelligence (Gen AI). Tech companies, according to McKinsey, are positioned to see the most disruption from Gen Ai, “adding value equivalent to as much as 9 percent of global industry"
-    publishedDateTime: 2023-12-18T17:09:00Z
-    webUrl: "https://www.baystreet.ca/stockstowatch/16697/Generative-AI-Dictates-Trillions-of-Dollars-in-Industry"
-    type: article
-    provider:
-      name: BayStreet
-      domain: baystreet.ca
-    quality: 39
-    images:
-      - url: "http://www.baystreet.ca/images/articlegroups/original/yahoonews/private/AI.jpg"
-        width: 845
-        height: 396
-        isCached: true
   - title: "Modern Healthcare is evolving along with the industry"
     excerpt: "It’s an exciting time to be journalists covering the industry. And for that reason, Modern Healthcare is evolving in 2024 too."
     publishedDateTime: 2023-12-18T08:59:00Z

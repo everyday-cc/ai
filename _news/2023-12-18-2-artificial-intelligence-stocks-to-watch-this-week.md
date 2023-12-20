@@ -46,6 +46,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "5 Best Artificial Intelligence Software for Small Businesses in 2024"
+    excerpt: "Artificial intelligence is helping upscale small businesses. You might also like Activision Blizzard Settles Lawsuit for Over $50 Million, Paving the Way for Microsoft’s Takeover BlackRock Engages in Extensive Consultations with SEC Regarding Spot Bitcoin ETF Application Tether’s Strategic Move: Collaborating with FBI and Secret Service to Enhance Platform Security For a long time,"
+    publishedDateTime: 2023-12-18T06:24:00Z
+    webUrl: "https://techstory.in/5-best-artificial-intelligence-software-for-small-businesses-in-2024/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 37
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2023/12/thisisengineering-raeng-64YrPKiguAE-unsplash-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "hcHdbsU6RuOXGlBKzEhFAVynoS1tMoQG+r7t6IyiIqK9uLeYE01AsPscu7nUXFsrhS3976NvZcr6CVRZ9IkNwS/AfLVjBHewDT6ak3q9Hs5JQZR2Qrh7aHt445f1h03TCSIJomeAX0bIN3EAPJZmFnuBGaNZSHFk4uFUHrRAqLNE8iQZMUrpTtQU0CXv0CKv/YB69BXnjiHbefudKolz1NBDkVZxa6nH2vvNIqNw/6wzD6LNGEML1I/EE1L/HpYn5OR1759Gsm4Djiz6RrXA0hPJYm4BcH3vC8Zsjwxwglsjbzwa1vpHe4YJvQgZAhneXw0XkjfmDa81AZ8nnvJ8UaGgoS37BRgg4RvlJhWtIF8=;1AT5vGONZF8+NcbxrZpxJA=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2023-12-18T17:26:00Z
 originalUrl: "https://techbullion.com/top-10-artificial-intelligence-ai-applications-in-2024/"
 webUrl: "https://techbullion.com/top-10-artificial-intelligence-ai-applications-in-2024/"
 type: article
-quality: 58
+quality: 60
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ topics:
   - AI
   - AI in Robotics
   - Machine Learning
+  - AI in Healthcare
 
 images:
   - url: "https://techbullion.com/wp-content/uploads/2023/12/The-Future-of-Googles-AI-Advancements-and-Applications-We-Can-Expect.jpg"

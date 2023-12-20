@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/games/hitch-integrates-generative-ai-into-
 webUrl: "https://venturebeat.com/games/hitch-integrates-generative-ai-into-immutable-miniverse-nfts/"
 type: article
 quality: 71
-heat: 101
+heat: 81
 published: true
 
 provider:
@@ -30,34 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "16 Innovative Ways Agencies Can Leverage Generative AI In 2024"
-    excerpt: "Generative AI tools are being leveraged by agency professionals and in-house teams around the world as they seek ways to better understand and reach target audiences."
-    publishedDateTime: 2023-12-15T17:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/12/15/16-innovative-ways-agencies-can-leverage-generative-ai-in-2024/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/655e5665f16e596330a94c9e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "Examining Generative AI's Transformative Effects"
-    excerpt: "Explore the evolution of generative AI—most exemplified by ChatGPT—from record-breaking user adoption to its pivotal role in shaping the future of business."
-    publishedDateTime: 2023-12-19T14:59:00Z
-    webUrl: "https://www.forbes.com/sites/committeeof200/2023/12/19/examining-generative-ais-transformative-effects/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6581ae2799cf43a352b7bfcb/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Hitch Interactive Unveils Generative AI Within Programmable NFTs, Forging a New Era for Web3"
     excerpt: "Hitch Interactive, the company connecting innovators and providing immersive experiences in AI, robotics, fintech, and the Metaverse, today announced the integration of large language models (LLMs) with its Immutable Miniverse NFTs."
     publishedDateTime: 2023-12-19T13:05:00Z

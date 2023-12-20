@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/steveandriole/2023/12/19/highmoons-holi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveandriole/2023/12/19/highmoons-holistic-approach-to-investing-where-genai-meets-behavior/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 91
 published: true
 
 provider:

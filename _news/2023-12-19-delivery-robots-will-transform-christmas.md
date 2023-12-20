@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Music Ally’s 12 Days of Christmas 2023: Artificial Intelligence"
+    excerpt: "On the ninth day of Christmas, my true love sent to me: nine ladies dancing! But were they real, human ladies, or AI-generated avatar-ladies?"
+    publishedDateTime: 2023-12-20T11:41:00Z
+    webUrl: "https://musically.com/2023/12/19/music-allys-12-days-of-christmas-2023-artificial-intelligence/"
+    type: article
+    provider:
+      name: Music Ally
+      domain: musically.com
+    quality: 39
+    images:
+      - url: "https://musically.com/wp-content/uploads/2023/04/AI-music·E-2023-04-28-10.24.00-a-photograph-of-an-algorithm-creating-and-performing-music-for-an-audience-of-robots.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
   - title: "Green greetings and merry machine learning: The best agency Christmas cards of 2023"
     excerpt: "Agencies’ festive greetings this year focus on themes such as ASMR, supporting local causes and flexing sustainability credentials. And we’re sorry, but there’s still no escape from"
     publishedDateTime: 2023-12-18T11:06:00Z

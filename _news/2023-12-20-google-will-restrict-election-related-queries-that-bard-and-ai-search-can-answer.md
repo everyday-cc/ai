@@ -105,20 +105,6 @@ related:
         width: 1069
         height: 580
         isCached: true
-  - title: "5 questions about artificial intelligence, answered"
-    excerpt: "Artificial intelligence is one of the most incredible tools mankind has ever created. It’s also one of the most controversial. Some of AI’s pioneering researchers and developers think that, without proper management,"
-    publishedDateTime: 2023-12-18T05:00:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2023/12/18/artificial-intelligence-frequently-asked-questions/"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 37
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WAMJ6PSJ4RCT3EDACYU7WDGUOU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Google plans to restrict election-related queries in 2024 on Bard"
     excerpt: "Google, the internet giant now a subsidiary of Alphabet, announced on Tuesday that it will limit the kinds of queries related to elections that its chatbot Bard and search generative experience can answer ahead of the 2024 U.S. Presidential election."
     publishedDateTime: 2023-12-20T00:53:00Z
@@ -147,16 +133,7 @@ related:
         width: 1024
         height: 614
         isCached: true
-  - title: "Google to limit answers to election queries on Bard AI tool and generative search"
-    excerpt: "Google said that the restrictions will be enforced by early 2024 in the run-up to the upcoming U.S. presidential election in November 2024."
-    publishedDateTime: 2023-12-20T08:03:00Z
-    webUrl: "https://cointelegraph.com/news/google-limit-answers-election-queries-bard-ai-generative-search"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 14
 
-secured: "6aYZ70MHEw5HcKTJLPt6h56IL66zo3n3WzahZDtzTqyrVypetq39IRR+/2X9xlKYMBW+FT8kiRCK8CbeqrL0BSBSiJiMAv7vNAcS0y6lQd199LacTxgBwICKMKXWqRTf6F+86GpkscTUjscYN9CUtyJkDDTxbqdiSh87lZDkyIgOuuMrqxJFjbo9kg8hGUHnvQbIHSgzJTqaZaFe8XxRHcePgnqqMTC1HY+9cpwSHyiDFvVY74rA0St0/n2ISXBvGIsQH4n3irrNWcg8+WN5seH1TsJEDDN7APyyKe20wq2Ynd5OmUlfpbDfpHh3T0P2wQQmn1C6sLT1hNnQMFbWXDwz51ympRc+gj5+ylav+bQ=;PZsjHsdEu5oWrJZbV8UeUw=="
+secured: "F8SoPKW3O5/X9ntWAnu2de+Cbe3DOX6j7xHwCrrhpR9KK3GIe8pa909AyUvsT39Wi3di6b+NILNkVz44Lr7rof2o+/k+g0Ei7Ckrflg5bRgUJiEqfv3JaYpTmbImFGjNBW7354NXHpsGGrd0l0IaGVP2CrDD6tvPr87CdILhF2JTJLm0Oiwt49zIuqoKtkimuXfdcwLz/XQWndK8PlTUJW63WsGogvC62UdQF0j7NpUHY+3cSMcC3DkaHabxTrr6S1WgYXmEhpcLzPzYlvWhGHGKt0ZEPYfsTjnAc4v8ws75KPwN9VTh9/vm2xB/KbYv2vzJLOsj6s4/gYzlQQpH202/F95oKsh5f9qyJTiJN4NMAn2pqOMCM+EGz+0dT+YRjatrxT0URmMyISWNiS55uywoKC/QVIkI/Fg3wERi4bSyM7ANWWqqQiQaJ3J/yOG+QodfhVf3YwsrPDwOAhB6jELDpNW+P6Cw+pnYAPjLxJGNch+zjof5FUIX0bmta4Z+NxDj/5w1t/b4BfJkUnafYg==;nusG+z0fTo3rGT17f1W/2g=="
 ---
 

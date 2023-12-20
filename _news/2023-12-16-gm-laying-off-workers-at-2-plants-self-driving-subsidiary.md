@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "GM is cutting jobs: 1,300 at Michigan plants, 900 at self-driving subsidiary"
-    excerpt: "General Motors will lay off about 1,300 workers from two of its Michigan plants, according to WARN notices the company has filed with state regulators. But that's not all."
-    publishedDateTime: 2023-12-15T11:25:00Z
-    webUrl: "https://wraltechwire.com/2023/12/15/gm-is-cutting-jobs-1300-at-michigan-plants-900-at-self-driving-subsidiary/"
-    ampWebUrl: "https://wraltechwire.com/2023/12/15/gm-is-cutting-jobs-1300-at-michigan-plants-900-at-self-driving-subsidiary/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/12/15/gm-is-cutting-jobs-1300-at-michigan-plants-900-at-self-driving-subsidiary/?amp=1"
+  - title: "Cruise, GM’s Self-Driving Arm, Announces Significant Job Cuts"
+    excerpt: "Cruise, the self-driving vehicle business majority-owned by GM, has revealed plans to cut 900 jobs, amounting to 24% of its workforce."
+    publishedDateTime: 2023-12-15T16:14:00Z
+    webUrl: "https://techstory.in/cruise-gms-self-driving-arm-announces-significant-job-cuts/"
     type: article
     provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 41
+      name: tech
+      domain: techstory.in
+    quality: 24
     images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2023/02/mockup-ge466df3aa_1280-e1675419700416.jpg"
-        width: 1190
-        height: 668
+      - url: "https://techstory.in/wp-content/uploads/2023/12/411476733_853234426808670_3902398952353993278_n.jpg"
+        width: 976
+        height: 549
         isCached: true
 
 secured: "pOoesO2bjqNxvXkmphKjLLOhqHTA/ltfQO7wRZOd0gj3oinRw6ZBPbBOSliRR5lk0XqVW4w3Rlncigj/sJMv0hHHGaYJLaaacTncoMvy2jJpQTC9VtLsfGKrqUNFihJGfH89UWIvSEKMsi/KLP1QmhUESi/tHtlY2ThddmU+1IoO4P2Z4snFILucHFjjHHqFbzmcC8oIaSOjFkHO0FpYKguyNVgpDeg0oAapeX38SEEO96126WBaHSj8fiMXWnCVZ09QvkMFgQXVX1xJO8eEz+j3n3oUPO1B5R1G1cyAfpksDETLZYYK766cPVOEh+eY0HsObmzdEl1TE3wXKSLxo7lU7woBUnAwXUFpszjyeJU=;LdgroboSIvbvmee+791+Qw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/melissahouston/2023/12/16/is-ai-the-fut
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/melissahouston/2023/12/16/is-ai-the-future-of-business-finance/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "The Future of Finance: Exploring the Best Fintech Companies"
+    excerpt: "Are you ready to step into the future of finance? The financial industry has undergone a major transformation in recent years, thanks to the rise of financial technology or “fintech” companies. These innovative startups are revolutionizing the way we save,"
+    publishedDateTime: 2023-12-20T10:24:00Z
+    webUrl: "https://techbullion.com/the-future-of-finance-exploring-the-best-fintech-companies/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/FinTech-Companies.jpg"
+        width: 1000
+        height: 500
+        isCached: true
   - title: "Without Balance, AI's Role in Financial Analysis Will Go Too Far"
     excerpt: "AI's impact on finance is palpable, but we must balance technology with human insight for effective decision making."
     publishedDateTime: 2023-12-18T13:00:00Z

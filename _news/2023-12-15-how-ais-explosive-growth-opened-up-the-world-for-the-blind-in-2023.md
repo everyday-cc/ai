@@ -50,6 +50,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
+  - title: "5 Best Artificial Intelligence Software for Small Businesses in 2024"
+    excerpt: "Artificial intelligence is helping upscale small businesses. You might also like Activision Blizzard Settles Lawsuit for Over $50 Million, Paving the Way for Microsoft’s Takeover BlackRock Engages in Extensive Consultations with SEC Regarding Spot Bitcoin ETF Application Tether’s Strategic Move: Collaborating with FBI and Secret Service to Enhance Platform Security For a long time,"
+    publishedDateTime: 2023-12-18T06:24:00Z
+    webUrl: "https://techstory.in/5-best-artificial-intelligence-software-for-small-businesses-in-2024/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 37
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2023/12/thisisengineering-raeng-64YrPKiguAE-unsplash-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "uvN3TTNrkD2oQBmdkLpchEDjwyrKCCi2yMPWwgfjGMyda2Gpze3YPAOoO0+X6fFDEW7uEfR9lIKXITri4WLMvWmGgrCXAevp6ZcANh9CYk1iZyL18Smu80Oq06gfDdo6gzRQofHGxy87yP8ws4NxcDcsh1Zy3YNDXJ5ZlPq3zJIToKwvnCJflLAwhaVmUx8pFJ7Xz48/D/Tnm7dIJ821XY3DrfonnvksUzTrbQNUaHkBsgEmfSjlYxXJw1sQDZYwwtces6DVjSBF8vKi5a1v8gEunYjmG3fFwiZvDhHhom9/nsfMgtGaqy7B0aM1iQlC5117RaCwyZZbaV2oCxHKWsctCUUxAy2SvvGBFlA2BjuYOuVNCPOTASwLi5k1QFGHM1zZDlu25ASXaGel4rWIYT9qRAeYjeCjpdk/oTT312LaE8aXzyTNDWUwn3N2q9bakD+/bSjvOdbZHhHsK5c9bg8pWd9CEfldibVSQXrzCVWl1vWYEBcZgXIBruQIgOesjgsDIa3/8+jufNR7uWDuZA==;Ygeq62SsiUYNudFwVwOlyQ=="
 ---

@@ -24,51 +24,42 @@ images:
     isCached: true
 
 related:
-  - title: "How Will AI Revolutionize Talent Assessments In 2024?"
-    excerpt: "For decades, companies have relied heavily on selection tools like psychometrics (e.g. ability tests, personality assessments, work preference inventories), competency-based assessments (e.g. situational judgment tests),"
-    publishedDateTime: 2023-12-18T22:48:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/happybytes/202312/how-will-ai-revolutionize-talent-assessments-in-2024"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/happybytes/202312/how-will-ai-revolutionize-talent-assessments-in-2024?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/happybytes/202312/how-will-ai-revolutionize-talent-assessments-in-2024?amp"
+  - title: "3 AI Stocks Poised for Explosive Growth in 2024"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Businesses and consumers have used artificial intelligence (AI) before 2023,"
+    publishedDateTime: 2023-12-18T20:55:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-poised-for-explosive-growth-in-2024-1032910289"
     type: article
     provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 57
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-12/pexels-google-deepmind-17483868.jpg?h=4f52e0ef&itok=0WmKPJMA"
-        width: 1528
-        height: 800
-        isCached: true
-  - title: "Gen AI is a game-changer in bond investment risk assessment"
-    excerpt: "Generative AI is changing the equation, though. It has emerged as a transformative force in managing bond investment risks by automating and optimizing complex analytical tasks. Gen AI models can sift through vast quantities of unstructured data related to bonds, identify critical information, and compare it against risk parameters."
-    publishedDateTime: 2023-12-18T16:16:00Z
-    webUrl: "https://www.cio.com/article/1265414/gen-ai-is-a-game-changer-in-bond-investment-risk-assessment.html"
-    ampWebUrl: "https://www.cio.com/article/1265414/gen-ai-is-a-game-changer-in-bond-investment-risk-assessment.html/amp/"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/1265414/gen-ai-is-a-game-changer-in-bond-investment-risk-assessment.html/amp/"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
+  - title: "How AI’s Explosive Growth Opened Up The World For The Blind In 2023"
+    excerpt: "AI and people living with sight loss have experienced significant gains from this seismic technological shift."
+    publishedDateTime: 2023-12-15T13:07:00Z
+    webUrl: "https://www.forbes.com/sites/gusalexiou/2023/12/15/how-ais-explosive-growth-opened-up-the-world-for-the-blind-in-2023/"
     type: article
     provider:
-      name: CIO
-      domain: cio.com
-    quality: 39
-  - title: "How Publishers Can Navigate the AI Revolution"
-    excerpt: "Despite the hype, publishing is still looking at what impact large language models and similar technology may bring."
-    publishedDateTime: 2023-12-16T01:22:00Z
-    webUrl: "https://www.publishersweekly.com/pw/by-topic/digital/content-and-e-books/article/93963-how-publishers-can-navigate-the-ai-revolution.html"
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "AI Meets Biotech: 3 Top Stocks Transforming Medical Science"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips One of the biggest stories of the year has been the rise of AI in every"
+    publishedDateTime: 2023-12-16T18:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-meets-biotech-3-top-stocks-transforming-medical-science-1032906556"
     type: article
     provider:
-      name: Publishers Weekly
-      domain: publishersweekly.com
-    quality: 19
-  - title: "AI was the buzzword of 2023. What happens in 2024?"
-    excerpt: "You really need to understand the language of legal finance. You can fine-tune an AI model to interpret these derivative contracts and translate them into a machine-readable format for a generic AI model to use. You can create specific models of AI that ..."
-    publishedDateTime: 2023-12-18T08:11:00Z
-    webUrl: "https://www.aol.com/finance/ai-buzzword-2023-happens-2024-131116432.html"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "2 Artificial Intelligence Stocks To Watch This Week"
+    excerpt: "The artificial intelligence (AI) sector is a rapidly growing area in the tech industry, focusing on creating intelligent machines that work and react like humans. AI technology includes machine learning, natural language processing, and robotics ..."
+    publishedDateTime: 2023-12-18T01:16:00Z
+    webUrl: "https://www.nasdaq.com/articles/2-artificial-intelligence-stocks-to-watch-this-week"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 19
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
 
 secured: "cSZPDEs1HVvh18HH4iv45rAOD65xuX1Oifng+95J7S/l7PwnX5AIScp4D0shtnTsPE+Wp5MawIeYJvBK566MemcSv+1ltZn2FZgo3rJ6oMr/M/8n/7dHWip9CExLVakXpXdtZnjQ5+6RKDJgl4rhiACD5JZ1XCfUriRQqWB2yZbDkybgQTAgtY+lbvqZNMgx7PlZs4Fe9A8G0LEIEX2SeuZEJmNK/TgP8ubCeJGrty7Kv7vswRsnQ6kgebqTKgIg49NxCfqXQSHFrNr20fXGTekpaRp9enBsUuDKa+O3tvBZ1JFEtYUpE2MsYLJ2bYlMLqDWJiEbFrRyNmcILI2T9IBoIKameHSQo0oOgHufa2I=;y8v+DAAr31s2Ftcd7GmPGA=="
 ---

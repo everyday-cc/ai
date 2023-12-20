@@ -9,8 +9,8 @@ ampWebUrl: "https://www.psychologytoday.com/us/blog/happybytes/202312/how-will-a
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/happybytes/202312/how-will-ai-revolutionize-talent-assessments-in-2024?amp"
 type: article
 quality: 57
-heat: 102
-published: true
+heat: -1
+published: false
 
 provider:
   name: Psychology Today
@@ -26,40 +26,31 @@ images:
     isCached: true
 
 related:
-  - title: "Gen AI is a game-changer in bond investment risk assessment"
-    excerpt: "Generative AI is changing the equation, though. It has emerged as a transformative force in managing bond investment risks by automating and optimizing complex analytical tasks. Gen AI models can sift through vast quantities of unstructured data related to bonds, identify critical information, and compare it against risk parameters."
-    publishedDateTime: 2023-12-18T16:16:00Z
-    webUrl: "https://www.cio.com/article/1265414/gen-ai-is-a-game-changer-in-bond-investment-risk-assessment.html"
-    ampWebUrl: "https://www.cio.com/article/1265414/gen-ai-is-a-game-changer-in-bond-investment-risk-assessment.html/amp/"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/1265414/gen-ai-is-a-game-changer-in-bond-investment-risk-assessment.html/amp/"
+  - title: "The 8 Biggest AI Moments Of 2023"
+    excerpt: "Delve into the eight monumental AI milestones of 2023 that mark a significant pivot in AI's societal integration."
+    publishedDateTime: 2023-12-20T06:35:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/12/20/the-8-biggest-ai-moments-of-2023/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/12/20/the-8-biggest-ai-moments-of-2023/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/12/20/the-8-biggest-ai-moments-of-2023/amp/"
     type: article
     provider:
-      name: CIO
-      domain: cio.com
-    quality: 39
-  - title: "5 Best Artificial Intelligence Software for Small Businesses in 2024"
-    excerpt: "Artificial intelligence is helping upscale small businesses. You might also like Activision Blizzard Settles Lawsuit for Over $50 Million, Paving the Way for Microsoft’s Takeover BlackRock Engages in Extensive Consultations with SEC Regarding Spot Bitcoin ETF Application Tether’s Strategic Move: Collaborating with FBI and Secret Service to Enhance Platform Security For a long time,"
-    publishedDateTime: 2023-12-18T06:24:00Z
-    webUrl: "https://techstory.in/5-best-artificial-intelligence-software-for-small-businesses-in-2024/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 37
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://techstory.in/wp-content/uploads/2023/12/thisisengineering-raeng-64YrPKiguAE-unsplash-1024x683.jpg"
-        width: 1024
-        height: 683
+      - url: "https://imageio.forbes.com/specials-images/imageserve/658298fffb7f04f064f44dda/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1353
+        height: 900
         isCached: true
-  - title: "How Publishers Can Navigate the AI Revolution"
-    excerpt: "Despite the hype, publishing is still looking at what impact large language models and similar technology may bring."
-    publishedDateTime: 2023-12-16T01:22:00Z
-    webUrl: "https://www.publishersweekly.com/pw/by-topic/digital/content-and-e-books/article/93963-how-publishers-can-navigate-the-ai-revolution.html"
+  - title: "A song of hype and fire: The 10 biggest AI stories of 2023"
+    excerpt: "\"Here, There, and Everywhere\" isn't just a Beatles song. It's also a phrase that recalls the spread of generative AI into the tech industry during 2023. Whether you think AI is just a fad or the dawn of a new tech revolution, it's been impossible to deny that AI news has dominated the tech space for the past year."
+    publishedDateTime: 2023-12-18T12:31:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/12/a-song-of-hype-and-fire-the-10-biggest-ai-stories-of-2023/"
     type: article
     provider:
-      name: Publishers Weekly
-      domain: publishersweekly.com
-    quality: 19
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 47
   - title: "AI was the buzzword of 2023. What happens in 2024?"
     excerpt: "You really need to understand the language of legal finance. You can fine-tune an AI model to interpret these derivative contracts and translate them into a machine-readable format for a generic AI model to use. You can create specific models of AI that ..."
     publishedDateTime: 2023-12-18T08:11:00Z

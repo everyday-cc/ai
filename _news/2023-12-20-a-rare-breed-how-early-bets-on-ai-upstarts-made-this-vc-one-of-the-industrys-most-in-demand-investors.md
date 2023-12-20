@@ -6,8 +6,8 @@ publishedDateTime: 2023-12-20T10:00:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/inside-nathan-benaichs-ai-investing-strategy-2023-11"
 webUrl: "https://markets.businessinsider.com/news/stocks/inside-nathan-benaichs-ai-investing-strategy-2023-11"
 type: article
-quality: 50
-heat: 50
+quality: 52
+heat: 52
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Meta AI
 
 images:
   - url: "https://i.insider.com/65661d65fd6200867dd03300?width=1200&format=jpeg"
@@ -27,6 +28,6 @@ images:
     height: 600
     isCached: true
 
-secured: "UOtmvoWoZ7oOwf4TGB/y4omk6/DFA3pozpAqQF0ccNdSH27NZLKcLtZrVJ9wsdno1C/xGMkKrriNI1k1x0dElpEWRmx1TRu5ndTFU4EdW2I52g7pahUaOrWDl/nckDtjCUrxDve8X+Cyzsi0ivGmXXW1Ta79PjW1BK/IQNHmnzhMC9CInvZAM+gWgRtMQTsYftlyWn4S5m8jB211PjdjExGjnt4q1ZzhdgXAw9ev7ucO4OGegpsre+MQzmZfbTalC81b0GZ+ePXxJVsuFs4/4/WJ28NCe3KIWm6LC5guUWH38uWF6T1A98tOlv6j5xtbh7pyd4Y5cgt6/x5gcSE3tfeSFpEu2J/Ab5fN0tblfIw=;t7QpgfozvDNAcVLJ4m+QWw=="
+secured: "8w/Jyect5jOqgqCyssxGKiPwsgxyYW6jvaFb0ekP8i4fUw40hxsUOlm/oljxlMvgbStJFVcgP1EKGisoglahTtigrN6SelwxCL3QB7eRPinmSJH2SGf+k3I3O4+b4I0h+YaF1dL5Cr45KbFtl2mR4sgB2qs8ZCMoshItLiuONMOe5vb9CmNVN3u7wYPNv1NSPbIWP9KA5Z0+dEh2wuSXJ1DBob8MNxL4b5NSEglNsHp+3YF4Z4rM7g6ht4zIyGj7gF8QpwFyaJdV36N7vnu4ZFWBgEz1raTtoWTpB9RWF1wDfq+712uJv++AKRXS1nzE6SSDBhrqwfvC/M7rZjRLuDCkdVxq/h3FOkGU3S3tmoRvDfFqoBXhE8UH525Y22fTcQe6dv/javadKh2OjQSsGI7pEgyeIKL4tx8WX6WdCcq0ira1T5i6R35pHGDMaGus4AM0Z6Dcszkclssnqs4yQU94GijZejckIKmUVkOTllIrBWgvhSDPZpSelU6yY+i7myfgCyNFljFNMhNgpR+NRw==;B7iPPKN8eHOVezK7vvGGmg=="
 ---
 

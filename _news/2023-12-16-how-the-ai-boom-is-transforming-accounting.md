@@ -41,22 +41,6 @@ related:
         width: 300
         height: 201
         isCached: true
-  - title: "Creatively Judging Those Generative AI Mental Health Advisement Chatbots By Astutely Gauging Their Levels Of AI Autonomy"
-    excerpt: "How can AI mental health advisement apps be assessed? Consider this innovative proposal that leverages the AI levels of autonomy. A new and exciting approach."
-    publishedDateTime: 2023-12-15T11:29:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/12/15/creatively-judging-those-generative-ai-mental-health-advisement-chatbots-by-astutely-gauging-their-levels-of-ai-autonomy/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/12/15/creatively-judging-those-generative-ai-mental-health-advisement-chatbots-by-astutely-gauging-their-levels-of-ai-autonomy/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/12/15/creatively-judging-those-generative-ai-mental-health-advisement-chatbots-by-astutely-gauging-their-levels-of-ai-autonomy/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 62
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/657c05994692840d3efcf0b9/0x0.jpg?format=jpg&crop=3259,2445,x276,y0,safe&height=900&width=1600&fit=bounds"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "How AI Chatbots Are Replacing Santa Claus This Christmas"
     excerpt: "While bots can make your holidays a little more jolly, they also open the doors to depersonalizing gift giving—and the inherent dangers of the emerging technology."
     publishedDateTime: 2023-12-16T03:40:00Z

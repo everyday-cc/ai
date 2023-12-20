@@ -37,6 +37,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "How to fine tuning Mixtral open source AI model"
+    excerpt: "Check out the fine tuning tutorial kindly created by Trelis Research to learn more about how you can find tune Mixtral and more. Watch this video on YouTube. Here are some other articles you may find of interest on the subject of Mixtral and Mistral AI ..."
+    publishedDateTime: 2023-12-20T12:08:00Z
+    webUrl: "https://www.geeky-gadgets.com/fine-tuning-mixtral/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FEXFbZfp8xCI%2F0.jpg"
+        width: 480
+        height: 360
+        isCached: true
   - title: "Google takes steps to prevent abuse of its generative AI tools during U.S. elections"
     excerpt: "Google LLC said today it is planning to restrict the ability of its artificial intelligence chatbot Bard and Search Generative Experience to respond to election-related queries, ahead of the U.S. Presidential election taking place next year. The restrictions will be introduced early next year, the company said."
     publishedDateTime: 2023-12-19T23:45:00Z

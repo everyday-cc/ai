@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/mattnovak/2023/12/17/no-donald-trump-ne
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattnovak/2023/12/17/no-donald-trump-never-met-martin-luther-king-jr-despite-ai-photos/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Navigating AI in Healthcare: Dr. Donald Macfarlane's Warning on AI-Driven Medical Note-Taking"
+    excerpt: "Dr. Donald Macfarlane warns against the use of AI-driven tools in medical note-taking due to fabrications that will negatively impact patient"
+    publishedDateTime: 2023-12-15T18:11:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/navigating-ai-in-healthcare-dr.-donald-macfarlanes-warning-on-aidriven-medical-notetaking-1032905719"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 55
 
 secured: "0zBCNIsFZd21vWt3vI/5RooeacVGdqaXvjLkMeckUhAuHpUlFmL+dYNXNZbqZ/j92cvujLVY4Gzl8/zejJHpm8tCwJrt5IZEY5W9/krKrpNk6MWrhZeHpmNVoXJ+vczCyLkXp8uCoQtTjVhJqrvMQb4M832PXPKeiJNHiOVfp0L236akJ7HGprjnr5PGq4fh8mQGJA+bthkJfvie62gZfdTPZxm2m6ww3ClxHDCbdsLTiKB4mPNDaGljQGjDs2rkfUv6LQSZIMQN6W2aFw+mmUzqfXMHIRZdJ6XPoQTpmyzvnM5/kV6uA8Bbm74MbfRz6Rmq92CQY7i5VSDnEAMxzHofAz1OXbBB+Atr3LfIyshUbj2UmqaIyj/nEqDIqPHg2FkrMmOYynYLGDaW2angOwVCafuLn1dYJ2HdChthTBrNLvPdpcmVLdRd9obI5bpLrME6xJsa3BpROB0S9romP11gAedy6uKBHHV00k8Tduf1tIReLdG+zTfuWi8qViparE/MCqRLvEVozbgNKvgJYQ==;mZqm87BsXeCSMAVcJK3E1g=="
 ---

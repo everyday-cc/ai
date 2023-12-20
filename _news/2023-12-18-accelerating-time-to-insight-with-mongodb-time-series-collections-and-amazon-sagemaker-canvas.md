@@ -43,22 +43,6 @@ related:
         width: 1006
         height: 501
         isCached: true
-  - title: "Multilingual AI: Bridging The Language Gap In Document Processing"
-    excerpt: "Also, translation takes a lot of time. An AI system's ability to comprehend and decode information directly in the native language is paramount for accurate and meaningful processing. AI can ..."
-    publishedDateTime: 2023-12-15T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/15/multilingual-ai-bridging-the-language-gap-in-document-processing/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/15/multilingual-ai-bridging-the-language-gap-in-document-processing/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/15/multilingual-ai-bridging-the-language-gap-in-document-processing/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/657b4e1d706a16d9830e3cba/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1242
-        height: 900
-        isCached: true
 
 secured: "Fd549NOmlbRbxVtAVIbJ2EjbEZtH7JPf/g0O9uJE/le8BamvTjFImZ5sf0P58C2Enapzs8hoCHkU8Llw56BeMBN/T08+9dyWZdL5B2jYKcS2BIJzQfuBf7t8E2WM+J+j7u+N3k8Yn/Uw7ensksHwKOW0lxOqK6vbEudyA+TBBuA2QB8X/eCHeDuOwPBs1Kpu2AXULy8XoQy5jjqmG0xsHQNemUnE5uDpJ1sfiNy72x6CrBGno7RGP0hy70oHkcvQydjdiB9THzJ5zQ2D5iUUWYq3OwaWWdaplSqs+c7t4d+0FvEu4bpJy9OQ1wxFQAgSos98HSjZJ7rJ7yGKImnS5990a8FWja/mCvKpMZAr7YY=;4D/TBK/U8ZZeIctgUsT4tw=="
 ---

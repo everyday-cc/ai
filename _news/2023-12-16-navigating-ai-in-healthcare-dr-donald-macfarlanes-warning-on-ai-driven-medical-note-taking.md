@@ -24,72 +24,21 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "AI in healthcare: Duke Health signs pledge for ethical, responsible use"
-    excerpt: "Duke Health is among a leading group of health systems and payers from across the U.S. to sign a pledge advancing ethical and responsible use of Artificial Intelligence technology in health care."
-    publishedDateTime: 2023-12-15T11:37:00Z
-    webUrl: "https://wraltechwire.com/2023/12/15/ai-in-healthcare-duke-health-signs-pledge-for-ethical-responsible-use/"
-    ampWebUrl: "https://wraltechwire.com/2023/12/15/ai-in-healthcare-duke-health-signs-pledge-for-ethical-responsible-use/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/12/15/ai-in-healthcare-duke-health-signs-pledge-for-ethical-responsible-use/?amp=1"
+  - title: "No, Donald Trump Never Met Martin Luther King Jr. Despite AI Photos"
+    excerpt: "Have you seen photos of Donald Trump with Dr. Martin Luther King Jr.? They’ve been going viral on social media recently, including on X. But they’re completely fake."
+    publishedDateTime: 2023-12-17T23:10:00Z
+    webUrl: "https://www.forbes.com/sites/mattnovak/2023/12/17/no-donald-trump-never-met-martin-luther-king-jr-despite-ai-photos/"
+    ampWebUrl: "https://www.forbes.com/sites/mattnovak/2023/12/17/no-donald-trump-never-met-martin-luther-king-jr-despite-ai-photos/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattnovak/2023/12/17/no-donald-trump-never-met-martin-luther-king-jr-despite-ai-photos/amp/"
     type: article
     provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 91
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2023/12/robot-AI-doctor-e1702640075182.jpg"
-        width: 1262
-        height: 710
-        isCached: true
-  - title: "Safe AI for healthcare: Providers pursue ‘once-in-a-generation’ benefits of large-scale models"
-    excerpt: "Leading healthcare entities sign the Biden-⁠Harris Admin's voluntary commitments for the safe, secure use of AI for healthcare."
-    publishedDateTime: 2023-12-15T19:19:00Z
-    webUrl: "https://venturebeat.com/ai/safe-ai-for-healthcare-providers-pursue-once-in-a-generation-benefits-of-large-scale-models/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 74
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1251551899-e1702664137230.jpg?fit=750%2C422&#038;strip=all"
-        width: 750
-        height: 375
-        isCached: true
-  - title: "Healthcare leaders applaud White House's AI principles"
-    excerpt: "Healthcare executives endorse White House's new AI principles to ensure safe, equitable & responsible deployment of AI in healthcare."
-    publishedDateTime: 2023-12-15T21:11:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/healthcare-leaders-applaud-white-houses-ai-principles.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Providers, Payers Sign Pledge for Ethical, Responsible AI in Healthcare"
-    excerpt: "Over 25 health systems and payers have made voluntary commitments to ensure that health AI leads to fair, appropriate, valid, effective, and safe outcomes."
-    publishedDateTime: 2023-12-15T13:00:00Z
-    webUrl: "https://healthitanalytics.com/news/providers-payers-sign-pledge-for-ethical-responsible-ai-in-healthcare"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 51
-  - title: "Google's 5 biggest healthcare moves in 2023"
-    excerpt: "Google leveraged its AI tools in 2023 to expand its healthcare presence with large health systems. Read more about Google's 5 biggest healthcare moves reported"
-    publishedDateTime: 2023-12-15T16:08:00Z
-    webUrl: "https://www.beckershospitalreview.com/disruptors/googles-5-biggest-healthcare-moves-in-2023.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 39
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
+      - url: "https://imageio.forbes.com/specials-images/imageserve/657f7eb09cd7ffe25a09a13f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "Z3f5KGNV3dLyovuOS5UyAact/C50h+HjptuRasV7tGH2ZDJCSvVjErB+goWlONBuco8aMHttE3hRvXnHR7g2eIAsSCu40I1CyfOE3EWVlVD/qdHAwqFB1KMazhUuk6HCwWfG1M2LEVspjT46Cz6H5z3JeFqxCYpCf4+PkA+pOV7i6LroCpjuWLOyeryW1qsCT6+iuBBHyuJFTuBjBc6eJ8YfA/vvM5gqmB27a+n2HXfEFDHzN0Rf9ePOk6tte30zthR8M8F0KjlJIu02haUzLFCr7PEQxOhDgAEN7rqWpxsv76+fZTTPl/MJ1ZK3odEXsRA6uyJounbXJ0CcG7YYj8Re2yNtLEtQCzI1qyU+rcw=;90z9vrwdQmMqfT5d+/d9Xg=="

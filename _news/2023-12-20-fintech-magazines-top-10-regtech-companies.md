@@ -50,20 +50,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 31
-  - title: "HostBooks Revolutionizes Corporate Fintech with Tech-Driven Solutions"
-    excerpt: "HostBooks improves production and efficiency by eliminating the drudgery oftime-consuming financial management tasks, including accounting, taxcompliance, and payroll processing."
-    publishedDateTime: 2023-12-15T12:34:00Z
-    webUrl: "https://www.thehansindia.com/tech/hostbooks-revolutionizes-corporate-fintech-with-tech-driven-solutions-844456"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 24
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2023/12/15/1406918-host-books.jpg"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "Register now for the Citi Cup fintech competition"
     excerpt: "SUZHOU, China, Dec. 18, 2023 /PRNewswire/ -- Citigroup Services and Technology ( China) (CSTC) has announced that the 19th Citi Financial Innovation Application Competition (also known as the Citi Cup) is open for online registration. CSTC leads Citigroup's financial technology and financial operations services industry in China."
     publishedDateTime: 2023-12-16T23:59:00Z
@@ -116,6 +102,6 @@ related:
       domain: crowdfundinsider.com
     quality: 4
 
-secured: "k4aZtuztu3MGu1UCfk47jLzIjj1m6D1Mx2g4Vn1/1HKBtK1f2saTgxL4zFC1qYBboksxkJLMEaf3Kt0E6Qxn7hGqbdvE2L53b3yqbpt2l/X2ra0gAGBuQdpKvidnXS/jleS/KYLpUvl4as3lFnkmPWq6v0MGcSELBd848TsTkgR4DQl4rXmsy2oWlacl+zX5ufNDy7guksQY0lHfdQ9l11p1GzOXYfulsGiMSz2t6dZJeY+ynPGqa+UsDtrKBQVVXewhYCNZWz67VAQ2F63lTaJwQ++UJbvmAPxMo7aF2Pih3yB6KrPXf5LGctOuZMT3wP+e29LNt20gECYaYg8j475J1tT7vUNsrgnJ4rUkLP8=;I050WSxHIakpNHbtRQcATQ=="
+secured: "3Hq4qK5sBoJToPcc2mcQE3b7mlGPJFNvExiXCoUjzAbRMYHv/XhBduX5EVYiy3xJc+LBmAdnbvf9zJVA8kVmnte4tQiR2Y8+KNAtaLI+zooUBaGpE9pJsonjBtaF1nGaUcOJRc9uIPQN/pQvuFibRgfbMXt7rlGyH+c3cL77jO9mctz0cfNsm1IkJNC4kRk6eODdhvkH3K2b1n+x6D8+eyI7cPqRi8zJlks1bd4gz1GsR0ee4gjlCIjPKGJhG/SN6ssta0WspC2PUEZUKArV9xIL3HB9s2u+sveKM+ZIS9vmuIvp5BXMGeIzqa5qz+IRYIBog6hVPkvLp3mDFR8xLjfKT7D6QX1GZAHkdLIhuO7j0zg0TvyBVr5j6C5zJ8MVcUTcdUMPL0t/tBGR+RbmgIUUlF6+lEQ5gq19+QjgfqI1Ofltiz+MR9FsGEDOOI5CJ+gcBu04mrN1u0CgEa50UJ1S13ibOtHthr96Yip2pVOBFjRq5k2/zGD4oXtHU4wdK9GM4WAWYlg3ISpOvzQbkQ==;Xgr+Ry5V8SbzBQayzUUKqw=="
 ---
 

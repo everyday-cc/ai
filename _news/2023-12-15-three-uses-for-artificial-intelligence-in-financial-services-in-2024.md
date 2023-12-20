@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/15/three-uses
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/15/three-uses-for-artificial-intelligence-in-financial-services-in-2024/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -62,6 +62,15 @@ related:
         width: 975
         height: 548
         isCached: true
+  - title: "Google announces AI uses for health care market"
+    excerpt: "Google introduced a suite of AI health models \"instead of trying to build a ‘one-size-fits-all’ solution,\" one company executive said."
+    publishedDateTime: 2023-12-20T11:45:00Z
+    webUrl: "https://www.bizjournals.com/nashville/news/2023/12/20/google-announces-ai-uses-for-health-care-market.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "/yH5oCMnrXPix66AAWhUjcZRaiXAw2I2AvB3RIx9m4lLb66MeIe1i+5O5+pbJ6KigMq7bMWhEdvnrFq5Opzp8RSkGZ/nnktI4q7anU+WGy69LNP4NX65KAASHVMsaGAKDIP7mYl4xLh8HfF2rWF2VQZQvGWgDXtfAW4pYtfIH6gDQIvGRNUKJ5kKO/iCcyoJ/lFKjQ777LO/vg4W55FQxB+E8Ew7EE5NUa6yVvnnLu8FStB2lyIGFrrh/Y+ryvhjTDrLHlKeo6iPTRhE/IRYMoAxSHvi+lxOq1QkCYkgmPw0s+kI1QXpYMpRxwvv0QSO1TWTd1iG/rfgS6D4Vh1iNZ9CTkToh1f8qTh/V5X1ELIIHiF2g5sjhU5pl0X8NJaT7lneZtcTaAeqDuLeiLgBDWHihzElD4QWXdhoIhfvlPlY959k9buwR1MvX+A8Y6ETUmeYINYxgjzs20vMyRVsJhwefRSflmRTCCjWtZrv4u3nsbJZSMdfOyzKwlBFy3lzVlyAFucei/9BNmqf+zbD3Q==;MQWLFZj4fIdg2NxTz1u5JQ=="
 ---

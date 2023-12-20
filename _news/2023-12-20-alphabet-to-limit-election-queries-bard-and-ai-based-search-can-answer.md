@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/12/19/alphabet-to-limit-election-queri
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/12/19/alphabet-to-limit-election-queries-bard-and-ai-based-search-can-answer.html"
 type: article
 quality: 87
-heat: 177
+heat: 157
 published: true
 
 provider:
@@ -108,20 +108,6 @@ related:
         width: 1069
         height: 580
         isCached: true
-  - title: "5 questions about artificial intelligence, answered"
-    excerpt: "Artificial intelligence is one of the most incredible tools mankind has ever created. It’s also one of the most controversial. Some of AI’s pioneering researchers and developers think that, without proper management,"
-    publishedDateTime: 2023-12-18T05:00:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2023/12/18/artificial-intelligence-frequently-asked-questions/"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 37
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WAMJ6PSJ4RCT3EDACYU7WDGUOU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Google plans to restrict election-related queries in 2024 on Bard"
     excerpt: "Google, the internet giant now a subsidiary of Alphabet, announced on Tuesday that it will limit the kinds of queries related to elections that its chatbot Bard and search generative experience can answer ahead of the 2024 U.S. Presidential election."
     publishedDateTime: 2023-12-20T00:53:00Z
@@ -150,15 +136,6 @@ related:
         width: 1024
         height: 614
         isCached: true
-  - title: "Google to limit answers to election queries on Bard AI tool and generative search"
-    excerpt: "Google said that the restrictions will be enforced by early 2024 in the run-up to the upcoming U.S. presidential election in November 2024."
-    publishedDateTime: 2023-12-20T08:03:00Z
-    webUrl: "https://cointelegraph.com/news/google-limit-answers-election-queries-bard-ai-generative-search"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 14
 
 secured: "nzjLMzPGC2ThKAgC5GbcUHW5I8bYcIE+WoLwUykjvsYja8U0sTgs0WxdgSwFY1iCbkxNhjSRv2WxXvKfrvzIo/5yKYGYkSRFgcElkA2UneujCRTj0o4g18S8NU5rXb/X+eoUf8IOcZIoh4O5vH1tn727i0EsyzV306+rrr1wq42adDUibhmJgqihAzX9JJi/9pauD+iES3nG7wAKFAGqEZOJYoWKRLQM3UKa7ESEdhGbHJaTERTWXo+N1zRMl15EXQquRzS87e0aNV/eAhmtwGP3l+K1R4Hs8qx3j4TkS01H0aEitDtJOLQy4j+f6QEa5JM4Xy3vTphdcq3w9Ky+ExjkDAsdCjXF8PvE3+PLtj0BMZbOPe2kYPdyWElu082Hhv6TlPIvkmrjs3LHJTkuGPBSzj/BywK3ap9YSlrqTjY/8zXSF9XBMn0TeUGDPKdpGO3A3gMuwQsH6SNY71AvsbOpNsZulvu77s4pijd46z+VVqiLj6EKqQt4LytNUAqXOh7SanbR8N1xJ8DwRJGTMw==;S5iWwnH0aUt5EQffTgZvow=="
 ---

@@ -50,20 +50,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 31
-  - title: "HostBooks Revolutionizes Corporate Fintech with Tech-Driven Solutions"
-    excerpt: "HostBooks improves production and efficiency by eliminating the drudgery oftime-consuming financial management tasks, including accounting, taxcompliance, and payroll processing."
-    publishedDateTime: 2023-12-15T12:34:00Z
-    webUrl: "https://www.thehansindia.com/tech/hostbooks-revolutionizes-corporate-fintech-with-tech-driven-solutions-844456"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 24
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2023/12/15/1406918-host-books.jpg"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "Register now for the Citi Cup fintech competition"
     excerpt: "Citigroup Services and Technology (China) (CSTC) has announced that the 19th Citi Financial Innovation Application Competition (also known as the Citi Cup) is open for online registration. CSTC leads Citigroup's financial technology and financial operations services industry in China."
     publishedDateTime: 2023-12-18T04:16:00Z

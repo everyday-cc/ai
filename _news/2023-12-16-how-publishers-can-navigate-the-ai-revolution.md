@@ -19,56 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "How Will AI Revolutionize Talent Assessments In 2024?"
-    excerpt: "For decades, companies have relied heavily on selection tools like psychometrics (e.g. ability tests, personality assessments, work preference inventories), competency-based assessments (e.g. situational judgment tests),"
-    publishedDateTime: 2023-12-18T22:48:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/happybytes/202312/how-will-ai-revolutionize-talent-assessments-in-2024"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/happybytes/202312/how-will-ai-revolutionize-talent-assessments-in-2024?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/happybytes/202312/how-will-ai-revolutionize-talent-assessments-in-2024?amp"
+  - title: "Revolutionary mind-reading AI system can turn thoughts into text"
+    excerpt: "People's thoughts can be turned into text in a world-first using artificial intelligence. The mindreading portable technology could aid communication for people who are unable to speak due to illness or injury, including stroke or paralysis."
+    publishedDateTime: 2023-12-18T14:42:00Z
+    webUrl: "https://www.purdueexponent.org/news/national/article_d7056113-b0e0-58b5-acbf-7b0d01242308.html"
     type: article
     provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 57
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-12/pexels-google-deepmind-17483868.jpg?h=4f52e0ef&itok=0WmKPJMA"
-        width: 1528
-        height: 800
-        isCached: true
-  - title: "Gen AI is a game-changer in bond investment risk assessment"
-    excerpt: "Generative AI is changing the equation, though. It has emerged as a transformative force in managing bond investment risks by automating and optimizing complex analytical tasks. Gen AI models can sift through vast quantities of unstructured data related to bonds, identify critical information, and compare it against risk parameters."
-    publishedDateTime: 2023-12-18T16:16:00Z
-    webUrl: "https://www.cio.com/article/1265414/gen-ai-is-a-game-changer-in-bond-investment-risk-assessment.html"
-    ampWebUrl: "https://www.cio.com/article/1265414/gen-ai-is-a-game-changer-in-bond-investment-risk-assessment.html/amp/"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/1265414/gen-ai-is-a-game-changer-in-bond-investment-risk-assessment.html/amp/"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
+      name: Purdue Exponent
+      domain: purdueexponent.org
     quality: 39
-  - title: "5 Best Artificial Intelligence Software for Small Businesses in 2024"
-    excerpt: "Artificial intelligence is helping upscale small businesses. You might also like Activision Blizzard Settles Lawsuit for Over $50 Million, Paving the Way for Microsoft’s Takeover BlackRock Engages in Extensive Consultations with SEC Regarding Spot Bitcoin ETF Application Tether’s Strategic Move: Collaborating with FBI and Secret Service to Enhance Platform Security For a long time,"
-    publishedDateTime: 2023-12-18T06:24:00Z
-    webUrl: "https://techstory.in/5-best-artificial-intelligence-software-for-small-businesses-in-2024/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 37
     images:
-      - url: "https://techstory.in/wp-content/uploads/2023/12/thisisengineering-raeng-64YrPKiguAE-unsplash-1024x683.jpg"
-        width: 1024
-        height: 683
+      - url: "https://bloximages.newyork1.vip.townnews.com/purdueexponent.org/content/tncms/assets/v3/editorial/d/2b/d2b7e9ba-3330-5ede-a722-ec78a67a3928/65806cdb088f3.image.jpg?crop=1500%2C788%2C0%2C168&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "AI was the buzzword of 2023. What happens in 2024?"
-    excerpt: "You really need to understand the language of legal finance. You can fine-tune an AI model to interpret these derivative contracts and translate them into a machine-readable format for a generic AI model to use. You can create specific models of AI that ..."
-    publishedDateTime: 2023-12-18T08:11:00Z
-    webUrl: "https://www.aol.com/finance/ai-buzzword-2023-happens-2024-131116432.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 19
 
 secured: "oiLWJ9Sa+wPDbixRBb7jIzYzxf2FnFarFUyNPuLWVeF2T3Jn7yid2aw8e3kwtihaZ6XYjjQNsRJQDMjeIt/dku0uCOl+0pCN+1sl2OcHE5uhk8fbSioHD5FhQ/cJBgKuoQQSDAocRKKi/yrRHFiQ4vwuydH1XpV+9ziWoPX2EaozSUKaGzRL0An7qhdwOP0CtSHrpvc6ACpzjKVRPI+HRP2YwIExbQxbDwvAzvTX6v8nfvV2ss0jK8wmBnYhXO+pBSWThgQ7WQ9KrWZE729kO6asoj6eAZQkNQPuQ+4i4DAJbjJcRkbVK7pqC5BJuj7e+RaIZK3mxneaHzpSQBMjTOTkIqrMoC8k6zMa1vpu43YjUc/7j/IDrHlh/3HfUWroE/8gDVkIQZBqWoW4mClcu5+PfCm5gyxXEOTKKa5uwkHpp/qbc7i4k1IwrTFKZsBamG+vBr8X6n+hQum0xY5hdcblVLZg7WlZk25rxtwQCJGCJzFxuYJvh4ySPkyMooQlvRVvYVlCCB+0Hvb6wbuN0g==;IkDpkzjaxOWFX30qov7vTQ=="
 ---

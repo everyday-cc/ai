@@ -19,6 +19,48 @@ topics:
   - AI
 
 related:
+  - title: "Intel Drops New Core Ultra Processors and Gaudi3 AI Chip to Take on Nvidia and AMD"
+    excerpt: "Intel launches Core Ultra processors and Gaudi3 AI chip to compete with Nvidia and AMD. Core Ultra line features chiplet design, neural processing unit, and specialized AI components for enhanced performance."
+    publishedDateTime: 2023-12-16T10:47:00Z
+    webUrl: "https://www.technobezz.com/news/intel-drops-new-core-ultra-processors-and-gaudi3-ai-chip-to-take-on-nvidia-and-amd/"
+    type: article
+    provider:
+      name: Technobezz.com
+      domain: technobezz.com
+    quality: 48
+    images:
+      - url: "https://cdn.technobezz.com/c/intel_core_ultra_holthaus_jpg_rendition_intel_web_1648_927_d97184be91/intel_core_ultra_holthaus_jpg_rendition_intel_web_1648_927_d97184be91.jpg"
+        width: 1102
+        height: 927
+        isCached: true
+  - title: "GPU Battle: NVIDIA vs AMD"
+    excerpt: "NVIDIA claims that AMD's benchmarks are wrong. AMD tests them and proves NVIDIA wrong. Now, the ball is in NVIDIA's court."
+    publishedDateTime: 2023-12-18T07:51:00Z
+    webUrl: "https://analyticsindiamag.com/gpu-battle-nvidia-vs-amd/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/12/AMD-and-NVIDIA-Battle-for-Best-GPUs.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Nvidia's AI Boom And The Ghost Of Cisco's Internet Bust"
+    excerpt: "Nvidia Corporation established dominance in AI advancements, where it already had a foothold in data center market. Find out why NVDA stock is a Sell."
+    publishedDateTime: 2023-12-18T13:45:00Z
+    webUrl: "https://seekingalpha.com/article/4658450-nvidia-nvda-ai-boom-and-ghost-of-cisco-internet-bust"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 37
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/949315604/image_949315604.jpg?io=getty-c-w1536"
+        width: 1536
+        height: 1024
+        isCached: true
   - title: "Acer Debuts AI-Ready Swift Go 14 Laptop with New Intel Core Ultra Processors"
     excerpt: "Acer announced new models of the AI-ready Acer Swift Go 14 (SFG14-72)powered byIntel® Core™ Ultraprocessors that feature Intel Arc graphics processing unit (GPU) and Intel AI Boost,"
     publishedDateTime: 2023-12-18T17:08:00Z
@@ -33,24 +75,6 @@ related:
         width: 640
         height: 381
         isCached: true
-  - title: "Acer Swift Go 14 AI ready OLED laptops powered Intel Core Ultra CPUs"
-    excerpt: "The laptop market is set to become even more competitive with Acer's introduction of the AI-ready Swift Go 14 laptop, powered by Intel Core Ultra"
-    publishedDateTime: 2023-12-15T12:45:00Z
-    webUrl: "https://www.geeky-gadgets.com/acer-swift-go-14-ai-ready-oled-laptops-powered-intel-core-ultra-cpus/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 19
-  - title: "ThinkPad and IdeaPad Intel Core Ultra AI ready laptops for business"
-    excerpt: "Following on from the Intel AI Everywhere event this week Lenovo, has launched a range of new AI ready laptops for business and consumers, including the"
-    publishedDateTime: 2023-12-15T14:25:00Z
-    webUrl: "https://www.geeky-gadgets.com/ai-ready-laptops-for-business/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 19
 
 secured: "9ciXGngqvyemssSqrkwxigN3FSd8br00RRMGSSDck5UBmFBLuoNffSay3T1r9lJ/EkYXzA8zIXalUXx0OC0Nxcj1EkqhviIPpCitWjVdD4uXHQ2XLcgOrjU6IumKVqwa5iyB+KFsTEcWlEM/LWmOGk8qDydyCCUo/5sgcKyMeFssZnyMBpg0Y65P3DcG4lyYpRqcsdUEvZU0zIDvB5ITV7KrYWsoNHsq/IARvwKQEn6TsIkHXAxT7IW0gqu5Zv8hKjHAnWXH4uE05oip0BEjxii/aZxcGxjIOHs77prMfyIRlO4YPd4qgtCoiC0Xe5Y9Km1qVucKAWiiry+bVTDVnd6nAVul0t6tWHQrpt/Osn2RKNO+5z7nYD/fCZO8/E4r6v12McOeSdxeBLIBqHLQrfmc4x151laT8d+BINU9Df3oc25TAuN2V3Dr++x0itXg6sv/67LlfhSWd/vUFejihD+GFBzbUNEG8JWoyWEayZy61nXAScjvwp5KlLcl4UNvjewdufT0I+kOcvb/X5MTKA==;3tXDXyQsSsLJQXkLJ1PgwA=="
 ---

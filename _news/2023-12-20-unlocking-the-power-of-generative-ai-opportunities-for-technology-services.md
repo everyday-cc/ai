@@ -7,7 +7,7 @@ originalUrl: "https://www.ibef.org/blogs/unlocking-the-power-of-generative-ai-op
 webUrl: "https://www.ibef.org/blogs/unlocking-the-power-of-generative-ai-opportunities-for-technology-services"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "How agencies will leverage virtual reality, generative AI over the next 2 years"
-    excerpt: "A new Deloitte report forecasts that “spatial computing and the industrial metaverse” will have growing applications for state and federal organizations and said that “investigating these technologies can help agencies get a leg up on the future."
-    publishedDateTime: 2023-12-19T21:35:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2023/12/how-agencies-will-leverage-virtual-reality-generative-ai-over-next-2-years/392888/"
+  - title: "Generative AI: Increasing The Value Recognized From Today's Information Technology Systems"
+    excerpt: "By leveraging GenAI, there is a tremendous potential to unlock the latent value within these existing applications."
+    publishedDateTime: 2023-12-20T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/20/generative-ai-increasing-the-value-recognized-from-todays-information-technology-systems/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/20/generative-ai-increasing-the-value-recognized-from-todays-information-technology-systems/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/20/generative-ai-increasing-the-value-recognized-from-todays-information-technology-systems/amp/"
     type: article
     provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 35
+      name: Forbes
+      domain: forbes.com
+    quality: 77
     images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2023/12/19/121923VRAING/open-graph.jpg"
-        width: 400
-        height: 400
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6581d482be031a176db9c2b3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
         isCached: true
   - title: "Unveiling the Power of Artificial Intelligence: Google’s Innovative Approach to Enhancing Search Algorithms"
     excerpt: "Introduction: In the vast realm of the internet, where information reigns supreme, Google stands as the undisputed king of search engines. Behind the scenes, Google employs a sophisticated blend of cutting-edge technology and artificial intelligence to continually refine its search algorithms."

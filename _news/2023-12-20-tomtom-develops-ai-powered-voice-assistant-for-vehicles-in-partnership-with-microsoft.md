@@ -99,20 +99,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Microsoft AI model-as-a-service available in Azure AI – Phi-2, Orca 2, Llama 2"
-    excerpt: "Microsoft's enhancement of Azure AI capabilities through its new AI model-as-a-service offering a significant step forward in the world of artificial"
-    publishedDateTime: 2023-12-15T11:09:00Z
-    webUrl: "https://www.geeky-gadgets.com/ai-model-as-a-service/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 67
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/Microsoft-AI-model-as-a-service.jpg"
-        width: 1280
-        height: 717
-        isCached: true
   - title: "Microsoft unveils powerful AI 'Compact Language Model' tailored for research applications"
     excerpt: "Our line of work with the Phi models aims to answer this question by training SLMs that achieve performance on par with models of much higher scale (yet still far from the frontier models).”"
     publishedDateTime: 2023-12-17T09:21:00Z
@@ -415,6 +401,6 @@ related:
       domain: cnbctv18.com
     quality: 19
 
-secured: "6mVHWSe8JseuaIG8N8ebswJgQF0RZNK8L9B5gART7WSqKxnZpEAFBS9G3PUTlwvn7XolZgF1Ige21fe2qgCcR8W0tqNfnfa2QxxbFrtK7Gl5Ti5qDrRaPl41uhl7svuQnSZOFEBO5vseOFCFchcAefuXXGDMrTPB0A6ZJIWJl+INSjEtB45Ne4+6Wey+sNoCf7sjvPf11QG94vzZxdvqVEra871vybr6aGmzWv1MxGMnwZSnwc3sZzMpfp/Pwr+X2ylH+EHBE3pz7gDspWQL+caJ9+ve+sfNwNBGgNUQ/zqwV8Dd4KNt0RHoQND8zboVV2H3SpwsAdBJmgY1MGAymmthraxp1kgHmZgsewqz7s0=;dTUSI8kbGrqR6HUA4Y+T1Q=="
+secured: "Vjv9naukT+FWVqydCQYRgOzMRMP85vO9M2OFgQh/WVQW22FAi363u0iLVRYyXUU4LZeXibkCVqVCpK+bZipLw2OQQ+4ji0AUVzHcIT/R0hHT0uOhK+odPSXb0dwFXIHbcSI1hHwZMIMiazjRB+gekqE6J/EZBFS/aVfn+l1cLmBAuFWkwtTwD0/KNyQ511rl5OH3vuxiS/1vNtDtxvWzRDOpn8n0F068nhweaQGJeO0J1/xXOa5UHZncsmpB0dH23vm1AxE5lCwQ0VWA9if+S0V/dDfmRJmmJvOcJyohbPZzxnOMI/eDzeA1mbWtSeXRZUcWDKpheK4sZstCnt4tfEzQ7wUcWjaOgKhG5kImAv0XRuQMIzLDk65uBHfecxP7lxNcZfQaQdCHDyDF7N2COP4JYuaYjLzpm8TMA5WWKZiNevvhUbmhU2maxf/F8ALA6qj7gmFAdaZaDWNqeQraKc+WwobdyoemBRHhUNQL/m2MfBS/tO7IO8bmU6XOv5ot7/ztAGvDqlruESvrH/N/Uw==;M1bSyzxhS/7/zADqLIEjxQ=="
 ---
 

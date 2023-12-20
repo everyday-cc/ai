@@ -43,6 +43,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "How to fine tuning Mixtral open source AI model"
+    excerpt: "Check out the fine tuning tutorial kindly created by Trelis Research to learn more about how you can find tune Mixtral and more. Watch this video on YouTube. Here are some other articles you may find of interest on the subject of Mixtral and Mistral AI ..."
+    publishedDateTime: 2023-12-20T12:08:00Z
+    webUrl: "https://www.geeky-gadgets.com/fine-tuning-mixtral/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FEXFbZfp8xCI%2F0.jpg"
+        width: 480
+        height: 360
+        isCached: true
   - title: "Using artificial intelligence to talk to the dead"
     excerpt: "Some people are turning to AI technology as a way to commune with the dead, but its use as part of the mourning process has raised ethical questions."
     publishedDateTime: 2023-12-18T13:00:00Z

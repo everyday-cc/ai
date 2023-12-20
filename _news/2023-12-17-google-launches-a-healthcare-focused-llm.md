@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidchou/2023/12/17/google-launches-a-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/12/17/google-launches-a-healthcare-focused-llm/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1350
     height: 900
     isCached: true
+
+related:
+  - title: "Google's 5 biggest healthcare moves in 2023"
+    excerpt: "Google leveraged its AI tools in 2023 to expand its healthcare presence with large health systems. Read more about Google's 5 biggest healthcare moves reported"
+    publishedDateTime: 2023-12-15T16:08:00Z
+    webUrl: "https://www.beckershospitalreview.com/disruptors/googles-5-biggest-healthcare-moves-in-2023.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "Uis7aJM04BZ2Kb/xPEhUdIUBsFu6OXhoYxUynLK3U66ysQ8EWqTpPH3o5Css1yQr6JKrBv1KzcMqmZroSP4++R1/Y7GHcnXv1HRxDF8Ne5GHUIYexMOpdI2FJ/0G/8ybQtq2aDVFjZs9I0xiSaZinHclRUXdjGMXMaDnUmPP32a4s+rHNj8lthIQNJp5n3wQ3o+SqP6nsP2r3AA9BNJF8I9/zhDAy9Yp2wGev/NtMQtEvSEjH98aGClEXsHvljAXL1D8DHoLG9gs9IEHug5cJKJCTNhxhOrXfVL3w0svHRAlSsYZ1kdkTQcqi2bLA+PW45AA59EizZn7zFwinPS8tnFX6yfLPeymuM7+/yFolIrzgTCUMTLhu4/Hu+wJqGR5m2KSCz83mI5wi1PucJO8VBmvis85NsdBq5xA7SfnINl8B9C0RwAy7p1127sby7YHbRr5zWnP9wX8n/SV3meagXIKTX3vz0E/xYbPlwcUtu2xxaxLzRo0RftmgIXeRGPCoOO3+Ye8GMAodIVpjlFDPw==;C5paFGQtZKZTTkm8A9pc8w=="
 ---

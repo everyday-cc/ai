@@ -102,20 +102,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Microsoft AI model-as-a-service available in Azure AI – Phi-2, Orca 2, Llama 2"
-    excerpt: "Microsoft's enhancement of Azure AI capabilities through its new AI model-as-a-service offering a significant step forward in the world of artificial"
-    publishedDateTime: 2023-12-15T11:09:00Z
-    webUrl: "https://www.geeky-gadgets.com/ai-model-as-a-service/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 67
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/Microsoft-AI-model-as-a-service.jpg"
-        width: 1280
-        height: 717
-        isCached: true
   - title: "Google Maps rival TomTom creates AI-based conversational assistant for vehicles with Microsoft"
     excerpt: "Digital mapping specialist TomTom said on Tuesday it has partnered with tech giant Microsoft to create an artificial intelligence (AI)-powered conversational assistant for vehicles."
     publishedDateTime: 2023-12-20T01:55:00Z

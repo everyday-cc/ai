@@ -7,8 +7,8 @@ originalUrl: "https://arstechnica.com/ai/2023/12/these-ai-generated-news-anchors
 webUrl: "https://arstechnica.com/ai/2023/12/these-ai-generated-news-anchors-are-freaking-me-out/"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Ars Technica
@@ -26,24 +26,6 @@ images:
     width: 760
     height: 380
     isCached: true
-
-related:
-  - title: "These six questions will dictate the future of generative AI"
-    excerpt: "Generative AI was trained on the internet and so has inherited many of its unsolved issues, including those related to bias, misinformation, copyright infringement, human rights abuses, and all-round economic upheaval. But we’re not going in blind."
-    publishedDateTime: 2023-12-19T10:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/12/19/1084505/generative-ai-artificial-intelligence-bias-jobs-copyright-misinformation/"
-    ampWebUrl: "https://www.technologyreview.com/2023/12/19/1084505/generative-ai-artificial-intelligence-bias-jobs-copyright-misinformation/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/19/1084505/generative-ai-artificial-intelligence-bias-jobs-copyright-misinformation/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/12/GenAI_Uncertain_Selman_RGB2.jpg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
 
 secured: "fOmyGv+Bdhn5Rnh9YlnBiRZzIQfQOf7xx8dZPP4e8sT5O1a9i+pfruX075RHD+LVCSCvf8EcAMrtEemdwRNTRZ7Jh6LKgI+6aahdrqmcNdw/Zan1668OSTMXg9R/+fpmtkHA2V0qCegUpFmC+O8TQmyJRtCPrwL0C3TVbYewQNZRO5NOpfVX8hMITdm+y5znZHkLDlS+viOe6QVryqWOaG0OU5Bshr6iwAFWOGy7FY9jggC6CoFWodxKkkOOHFX3BHu57IOPROGLoEbbAlR9FmXRwFe3AmrWNjvd6fCkecdWesjnXPCtNH8k8blHjoE7yL4O30iVDR5qe4hQWk3uliA2JbLOsXk0AoXP5wknLdcYPws+K8+RXioewF6hvt1wOwZcq84m3jdj8Aw+haWRMMeZqjaTxd3HOsfZ+Xe9Fj+znRBAAER+W11cKUeQtXESpt5+g93gATIzRdhRDn2WK1cXVUxvJHuvci9DBdawGt0Yb7Klgl9jTxG/IJtGKH/gOqMR2X/83dPM6NBVxu2NuQ==;kjkhQcTXpW2q7XkTOsZG1g=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/healthcare-information-techn
 webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/healthcare-leaders-applaud-white-houses-ai-principles.html"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,70 +23,6 @@ images:
     width: 800
     height: 600
     isCached: true
-
-related:
-  - title: "AI in healthcare: Duke Health signs pledge for ethical, responsible use"
-    excerpt: "Duke Health is among a leading group of health systems and payers from across the U.S. to sign a pledge advancing ethical and responsible use of Artificial Intelligence technology in health care."
-    publishedDateTime: 2023-12-15T11:37:00Z
-    webUrl: "https://wraltechwire.com/2023/12/15/ai-in-healthcare-duke-health-signs-pledge-for-ethical-responsible-use/"
-    ampWebUrl: "https://wraltechwire.com/2023/12/15/ai-in-healthcare-duke-health-signs-pledge-for-ethical-responsible-use/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/12/15/ai-in-healthcare-duke-health-signs-pledge-for-ethical-responsible-use/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 91
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2023/12/robot-AI-doctor-e1702640075182.jpg"
-        width: 1262
-        height: 710
-        isCached: true
-  - title: "Safe AI for healthcare: Providers pursue ‘once-in-a-generation’ benefits of large-scale models"
-    excerpt: "Leading healthcare entities sign the Biden-⁠Harris Admin's voluntary commitments for the safe, secure use of AI for healthcare."
-    publishedDateTime: 2023-12-15T19:19:00Z
-    webUrl: "https://venturebeat.com/ai/safe-ai-for-healthcare-providers-pursue-once-in-a-generation-benefits-of-large-scale-models/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 74
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1251551899-e1702664137230.jpg?fit=750%2C422&#038;strip=all"
-        width: 750
-        height: 375
-        isCached: true
-  - title: "Navigating AI in Healthcare: Dr. Donald Macfarlane's Warning on AI-Driven Medical Note-Taking"
-    excerpt: "Dr. Donald Macfarlane warns against the use of AI-driven tools in medical note-taking due to fabrications that will negatively impact patient"
-    publishedDateTime: 2023-12-15T18:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/navigating-ai-in-healthcare-dr.-donald-macfarlanes-warning-on-aidriven-medical-notetaking-1032905719"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 55
-  - title: "Providers, Payers Sign Pledge for Ethical, Responsible AI in Healthcare"
-    excerpt: "Over 25 health systems and payers have made voluntary commitments to ensure that health AI leads to fair, appropriate, valid, effective, and safe outcomes."
-    publishedDateTime: 2023-12-15T13:00:00Z
-    webUrl: "https://healthitanalytics.com/news/providers-payers-sign-pledge-for-ethical-responsible-ai-in-healthcare"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 51
-  - title: "Google's 5 biggest healthcare moves in 2023"
-    excerpt: "Google leveraged its AI tools in 2023 to expand its healthcare presence with large health systems. Read more about Google's 5 biggest healthcare moves reported"
-    publishedDateTime: 2023-12-15T16:08:00Z
-    webUrl: "https://www.beckershospitalreview.com/disruptors/googles-5-biggest-healthcare-moves-in-2023.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 39
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "ziEdP+PAkkn+s/1svzP7evjUvk4XkvLH0FTjnrF2jGHDs5IbqTQe319tyYXM5ygecuwGnprb5PJzYI6Jx++plqycNLBctuuoq3TQCbVzq7ccgB0cws+jtPFSUuLGZJBbzR3leu/JnFBypIQibisc3Fg/iEqgYNqtrwlJwfUx9Ph7BAgtSgDEQ0Y8p6HsWaEbVKDfnC7exV9dypU5iihO78BHlq2eKw28fvIGRl7BuVlvQvXeVRFD5YXNYVk5sT9QAKFQgAOioGHNgWUL/rOGJWI1b29T8+gisEHHtPZHxupgrHh3ocWrG4NtuYJUn27S6zZO2GJD0Dm/FYZ0NhbCgD2KKmv4DiUviNLZZfesoTQ=;tUhbW6mKDeznXI0jG09Ykw=="
 ---

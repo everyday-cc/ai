@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel Unveils New AI Chips to Rival Nvidia’s Dominance in AI Industry, INTC Stock Up 1%"
-    excerpt: "Dubbed Gaudi3, Intel intends to attract generative AI companies like OpenAI away from Nvidia and bolster its stock market performance."
-    publishedDateTime: 2023-12-15T11:11:00Z
-    webUrl: "https://www.coinspeaker.com/intel-ai-chips-intc-stock/"
-    ampWebUrl: "https://www.coinspeaker.com/intel-ai-chips-intc-stock/amp/"
-    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/intel-ai-chips-intc-stock/amp/"
-    type: article
-    provider:
-      name: coinspeaker
-      domain: coinspeaker.com
-    quality: 66
-    images:
-      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/12/intel-ai-chips-intc-stock.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Intel Drops New Core Ultra Processors and Gaudi3 AI Chip to Take on Nvidia and AMD"
     excerpt: "Intel launches Core Ultra processors and Gaudi3 AI chip to compete with Nvidia and AMD. Core Ultra line features chiplet design, neural processing unit, and specialized AI components for enhanced performance."
     publishedDateTime: 2023-12-16T10:47:00Z
@@ -54,6 +38,43 @@ related:
         width: 1102
         height: 927
         isCached: true
+  - title: "GPU Battle: NVIDIA vs AMD"
+    excerpt: "NVIDIA claims that AMD's benchmarks are wrong. AMD tests them and proves NVIDIA wrong. Now, the ball is in NVIDIA's court."
+    publishedDateTime: 2023-12-18T07:51:00Z
+    webUrl: "https://analyticsindiamag.com/gpu-battle-nvidia-vs-amd/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/12/AMD-and-NVIDIA-Battle-for-Best-GPUs.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Acer Debuts AI-Ready Swift Go 14 Laptop with New Intel Core Ultra Processors"
+    excerpt: "Acer announced new models of the AI-ready Acer Swift Go 14 (SFG14-72)powered byIntel® Core™ Ultraprocessors that feature Intel Arc graphics processing unit (GPU) and Intel AI Boost,"
+    publishedDateTime: 2023-12-18T17:08:00Z
+    webUrl: "https://pragativadi.com/acer-debuts-ai-ready-swift-go-14-laptop-with-new-intel-core-ultra-processors/"
+    type: article
+    provider:
+      name: Pragativadi
+      domain: pragativadi.com
+    quality: 36
+    images:
+      - url: "https://pragativadi.com/wp-content/uploads/2023/12/Untitled-design-22.png"
+        width: 640
+        height: 381
+        isCached: true
+  - title: "AORUS 17 & 15 Intel Core Ultra 7 AI ready gaming laptops"
+    excerpt: "GIGABYTE's latest offerings for 2024 - the AORUS 17 and AORUS 15 offer gamers a combination of powerful hardware, state-of-the-art cooling technology, and"
+    publishedDateTime: 2023-12-15T13:19:00Z
+    webUrl: "https://www.geeky-gadgets.com/aorus-17-15-intel-core-ultra-7-ai-ready-gaming-laptops/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 19
 
 secured: "scncTmJ0zKLaJwrN/Qqs9blzEEZTP5+VzFiz/DQNUqllAcoQrXvXgfXKPVXAgmF4mAbGGZ9pfNDIlgdoZXaXZ1xjbWIhw4uWMBhshRVQItMulNnoLRsFrq8yQAq7Ak9nmXg3hA7n9VXJdiL/1EOGeWy6OH95ux7pKz/ylJoOEaHtbmtZ5km8ejcpKE5DacVGOnHplVGjb6ZWHakibpgG5MtieiYgrJqBtqVch1n4PIoDd5H+sVezmvz8T7IbCfAosOA8Kq/f0BBvaHfvMBO13jzWz5HomPMtYLE1Rffq2BUqq8ej337Od40raZjh9lbux8oiMSsuRriqYWKqH6ZDCk0HuKN2aafsRUfJPAN8Drs=;ZfmKQyJY+7zkl6DDwR8hFQ=="
 ---

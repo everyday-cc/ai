@@ -9,7 +9,7 @@ ampWebUrl: "https://m.tribuneindia.com/news/india/a-first-pm-modi-uses-ai-to-tra
 cdnAmpWebUrl: "https://m-tribuneindia-com.cdn.ampproject.org/c/s/m.tribuneindia.com/news/india/a-first-pm-modi-uses-ai-to-translate-speech-from-hindi-to-tamil-572891"
 type: article
 quality: 74
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -118,6 +118,20 @@ related:
       - url: "https://static.toiimg.com/thumb/msid-106122854,width-1070,height-580,imgsize-26491,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         width: 1070
         height: 578
+        isCached: true
+  - title: "Revolutionizing Language Translation: PM Modi uses AI Tool to Speak in Tamil in Latest Speech"
+    excerpt: "Discover how the AI-based translation tool, Bhashini, is bridging the language gap in Indias linguistically diverse society, in PM Modis latest speech."
+    publishedDateTime: 2023-12-20T11:57:00Z
+    webUrl: "https://www.gizbot.com/news/revolutionizing-language-translation-pm-modi-ai-tool-speak-tamil-latest-speech-gen-089243.html"
+    type: article
+    provider:
+      name: GIZBOT
+      domain: gizbot.com
+    quality: 28
+    images:
+      - url: "https://www.gizbot.com/img/2023/12/pm-modi-latest-speech-ai-tool-1703073426.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Prime Minister Modi uses AI tool ‘Bhasini’ for the first time | What is 'Bhasini'?"
     excerpt: "At Kashi Tamil Sangamam event in Varanasi, PM Modi used an AI tool ‘Bhasini’ for the first-time. AI ‘Bhasini’ live-translated PM Modi’s Hindi speech in Tamil. It uses AI-driven language transition tool,"
