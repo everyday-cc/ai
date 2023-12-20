@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Self-Driving Cars Face Reality Check"
-excerpt: "The development of self-driving cars is facing significant setbacks and disillusionment due to technical challenges, accidents, and a lack of practical understanding."
-publishedDateTime: 2023-12-18T21:00:00Z
-originalUrl: "https://oilprice.com/Energy/Energy-General/Self-Driving-Cars-Face-Reality-Check.html"
-webUrl: "https://oilprice.com/Energy/Energy-General/Self-Driving-Cars-Face-Reality-Check.html"
+excerpt: "One of the favorite shibboleths of the world's tech overlords is 'Move fast and break things.' It seems that one of the things that is now"
+publishedDateTime: 2023-12-18T16:01:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/self-driving-cars-face-reality-check-1032910495"
+webUrl: "https://markets.businessinsider.com/news/stocks/self-driving-cars-face-reality-check-1032910495"
 type: article
-quality: 24
-heat: -1
+quality: 34
+heat: 34
 published: false
 
 provider:
-  name: Crude Oil Prices
-  domain: oilprice.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://d32r1sh890xpii.cloudfront.net/article/718x300/2023-12-18_xs2dwzt3dh.jpg"
-    width: 718
-    height: 300
-    isCached: true
 
 related:
   - title: "Self-driving cars are rolling out in LA. Are they safe?"
@@ -40,6 +38,6 @@ related:
         height: 384
         isCached: true
 
-secured: "gu3ZibovqUKbLTeRK3o+XCzyo3G2BvETaRyn2u1W9xoeXncJE+bRZLBSEtPeZ8sJ7giJ4o+zr5DkZzR6kmceX3YXluI9WmDSND4pp+Y7Me4AYo9YsOmlpPUjJux/P5meWOQoVeDxZDQRDKTJ9aEzjnQpU5xWzR1gL0D4uKa9xEDL1YNsUsx50pgA+Vz1+448A2oK0RMlELSUc/johgMs/WEKvnJ8QHMfMw3h5trucYlTD2/l6hR7BOQR48a5Xm7s6B4G9Mn6XBdqdbyk2ZTocF9D1xvI4Nc0ZF+/Tg/Z/zCrks9IDgELKgAZHDs0VK1AD+decvhvkgRC1wpkFoi9nIraULj1HifRwWWxP7i0pyY=;uEPKSNXMcNcqRlov3CsmFA=="
+secured: "xZ3p05kZVxdUE1nvK2k4uUyUalgMII73nsTZgVPU3Wq3ma4TTAhZClVsUePh1ls+EYnHVC5hVrF6sJdHaQPPuDjnulkToDftrz3SUuDMZNf4BH50tlWS1RDBAvy6JcEH6MO3Cotcor2qFS0xDuWkvN0fzfv7xjOh730FgDCecpVsruR5Bc+mumwyllibforPnBVxjnHiGIeE/okEnfMofda0fZRxK1CdFvtdFRTM6ywLvLg+bWSiA/yB8OSk1MB4gzDUDh9nQ60neO7bDGCf9PD6l/mOwIp4rxJw0//w4YNv0HPZUpH5fz6Qrx33YQWuumv4wjvWVV2DOXoR8z3Ezpinh4+usKSZbX/1ySUfdtM=;zWLqAciNaiHmqZ6myEGf2Q=="
 ---
 

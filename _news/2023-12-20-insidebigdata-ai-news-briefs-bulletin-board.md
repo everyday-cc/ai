@@ -6,8 +6,8 @@ publishedDateTime: 2023-12-19T18:53:00Z
 originalUrl: "https://insidebigdata.com/2023/12/19/insidebigdata-ai-news-briefs-bulletin-board/"
 webUrl: "https://insidebigdata.com/2023/12/19/insidebigdata-ai-news-briefs-bulletin-board/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://insidebigdata.com/wp-content/uploads/2023/07/AI-News-Briefs-column-banner.png"
@@ -24,6 +25,6 @@ images:
     height: 550
     isCached: true
 
-secured: "DCi0gRCverTI8JoIqqvGCCnji8p4A0yRuaXZ+185DHN7q4zW+x/sU6f4ma3VlikCe5/CFwPAChFlm+Ue33/zqx5G7UuvCIyZkcbvitghQUI2m/HbJalTwJCDPSdO2CxQZzDBsK/wgEbPeYT2u/tRDVz/K1ajOljajUQRc/zZKsmRyQ18UDquSsdfLwbL8CHmLqqQuePn3nXrnsNsb9kRQyPyUmvLBFAL2JcD9PaQDL1yVVQBAvqEYZguHGRf3eAs7OV2cof142JpQyi0s6luCBFpJ3XGpzgNhVvrWRCM6tAU6crut9mhapMNF65OCu9rJSPxL8Lk2PLNI/Sz1ccsWzx9IvNPozkO83YOvNBggYk=;jxLJxKuFx7WsR8zYYo2dNg=="
+secured: "fyhFv+OuGU6Awb32+cNCe4z/dMGji+t00cN8TYXsHvD+Rh0RZy2oYWkUTsL/SbCa6UbsIFumc53wRaPBiAN/d+NE5J1AZNR4thpoVW6caZaDiayUNs3WbEiMFJmiNQGYugmO6kZ6WmG9FhBWGtK5m973J2GjE8RlhEFRmjqeG/YnIdANeD44Ex14fYiV70sPSG7mvUe8/VNr8xZBtUtfXEvliDSZD2drWSHb94C7U39kYYVj2k1FPZlTf1iPzxNgP3luToNfqeCPeGAHXwOm3xNk1uYFHRnkiAjZ7M0lyWOsszJjlSgo4rAeNBqLt2xxvppDOgawafH0i7nXicoKZdBMBndlXg8Q/AW79UJrlpaGE4DrwzvNaLDTfPwRoGcaxMXFSgJxiufsWK3WjtdtqraV32Bg425BTKBHW2v10eRQiRNUgnYlFGMtcBiuy50nqQeXQM6JJECqc9pJLzzZRSs5uxd56hpkztsex0Sw76H6IjOT4PZmkQ+9fqpHjt9vnwSmECUUjNIpuV2ojft0pQ==;aOdzUnFwfKXPLDcjozBBKQ=="
 ---
 

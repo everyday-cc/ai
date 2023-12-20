@@ -2,14 +2,14 @@
 category: news
 title: "How AI therapy is filling gaps in mental health care"
 excerpt: "And for some users, they’ve been beneficial. 80 percent of people who used ChatGPT for mental health advice reported it was a good alternative for therapy, according to Business Wire. The majority of Americans don’t believe AI therapy will help more than it hurts, but that’s not stopping innovations in artificial intelligence and therapy."
-publishedDateTime: 2023-12-11T02:36:00Z
-originalUrl: "https://www.wlrn.org/2023-12-10/how-ai-therapy-is-filling-gaps-in-mental-health-care"
-webUrl: "https://www.wlrn.org/2023-12-10/how-ai-therapy-is-filling-gaps-in-mental-health-care"
+publishedDateTime: 2023-12-11T03:35:00Z
+originalUrl: "https://www.boisestatepublicradio.org/2023-12-10/how-ai-therapy-is-filling-gaps-in-mental-health-care"
+webUrl: "https://www.boisestatepublicradio.org/2023-12-10/how-ai-therapy-is-filling-gaps-in-mental-health-care"
 type: article
 
 provider:
-  name: WLRN
-  domain: wlrn.org
+  name: Boise State Public Radio
+  domain: boisestatepublicradio.org
 
 topics:
   - AI in Healthcare
@@ -21,6 +21,6 @@ images:
     height: 630
     isCached: true
 
-secured: "bumGN0JstYOVQYpDps/BlGFsbUY3BpHIfj/6P3kI/VcWzoIf4LTmYEayy8qdVbLrWc8tPc6/Pr9gTc7O/Ipvbc/PugrREaRUV70pvlUkBvTa+hPef54MH2R81oZqQrnQKzs8BBVmIYTiFhQOqqaro/EEPVTwhBmAcSQ9hB5nY+MTfD50IdR1PFtfcKdWObW8+2z+0HdgziJ7bwLWGnNKxyLyCn1UNDREvdrUih8dUkHfc11h9idnz8mDmvyDDgZzmls2KEx71DEibjY4abBCW2X18W+9YgAdLi9t7va4EZS91MRln3eaGNv1iKPPyw04rR4tzg/M8yUxlZJEBaoIMFvbjsMPH/dGq4eUXheg1cELNk0KLQHkJ8sOkfFXGeVQ//YBhy77a0x6bd6O93gZf2mCPXth8LZYXHqGpM3DCmM818MknjysXfXTDp1srlT85lDRIedR+g1U9f1WPvfBSeTnMFKikGbqUFvmlrNJtMDdAYG7C6pBS+btFj0lVTwmq+KVe2dAGiU7JEEtv5dI/A==;oO1/Tgz0NQGxS5yz61f3xQ=="
+secured: "GtHb1JUsb+tyjrFfcAg0mg2a397HvowtFRoqk7uf3OL/e2BW5Ujs35/p6zGGx+oWB8bm9Nw8h13RbmaD5t93c0QdmYy2S6v99uRhDpdtFN483tvDWo8QmZdo1vPllWoah6zQYLxNlD3buRMH7BHMkUgnLFi2NgYbhZKfTOeRIiWmFAYRgh5/yDUBH9XT4Z9i4ZZgxYGgXLXwpABj7B/3Yuo3oC82En3KcsAKoG+Klw5Jr41SAwjOAtTaEOJ+2IpfhduaM9jOyjTfdsRAhnJSBpVhz7usgXGZcv1fBf7BdYZgjO8SQK5lQ+1XjKPhR1TzJGVSPtiFqCngIxIR9t+4iwxa66G81RG+fOJcucQte44=;t5OcFOWzMNnB0QxPrH3i3A=="
 ---
 

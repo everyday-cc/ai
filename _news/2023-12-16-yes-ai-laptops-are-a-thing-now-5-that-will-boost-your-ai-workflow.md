@@ -7,7 +7,7 @@ originalUrl: "https://mashable.com/article/5-ai-laptops"
 webUrl: "https://mashable.com/article/5-ai-laptops"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -49,20 +49,6 @@ related:
     quality: 38
     images:
       - url: "https://cdn.mos.cms.futurecdn.net/huhf9bmqx4vKVRm5HbD2hZ-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Intel Meteor Lake ‘AI laptops’ have landed — here’s 5 you can buy right now"
-    excerpt: "Acer Swift Go 14: $999 @ Acer The Acer Swift Go 14 is one of the first \"AI laptops\" now available. This model features a 14-inch (1,920 x 1,200) 60Hz display, 16GB of RAM, 1TB of SSD storage, and the new Intel Core Ultra 7 CPU."
-    publishedDateTime: 2023-12-15T00:18:00Z
-    webUrl: "https://www.tomsguide.com/opinion/intel-meteor-lake-ai-laptops-have-landed-heres-5-you-can-buy-right-now"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 37
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/MaMEPgFwFzAxYcgminbRwL-1200-80.jpeg"
         width: 1200
         height: 675
         isCached: true

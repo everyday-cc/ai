@@ -47,7 +47,35 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "FTC bans Rite Aid from using facial recognition surveillance for five years"
+    excerpt: "The FTC alleges that from 2012 until 2020, Rite Aid scanned the faces of shoppers across hundreds of locations to identify suspected thieves."
+    publishedDateTime: 2023-12-19T23:13:00Z
+    webUrl: "https://venturebeat.com/automation/ftc-bans-rite-aid-from-using-facial-recognition-surveillance-for-five-years/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 82
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/12/DALL·E-2023-12-19-18.04.54-A-person-standing-in-line-at-a-pharmacy-counter-with-their-face-being-scanned-by-a-wireframe-beam-of-light.-The-scene-shows-a-busy-pharmacy-environme.png?w=1200&strip=all"
+        width: 1199
+        height: 685
+        isCached: true
+  - title: "FTC blames Rite Aid for ‘reckless’ AI facial recognition, bans use"
+    excerpt: "The FTC said Tuesday the retailer “failed to implement reasonable procedures and prevent harm to consumers” in its use of the technology in hundreds of stores.\""
+    publishedDateTime: 2023-12-19T23:09:00Z
+    webUrl: "https://www.securityinfowatch.com/retail/article/53081012/ftc-blames-rite-aid-for-reckless-ai-facial-recognition-bans-use"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 54
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/12/6582202c00d54b001e5f3615-federal_trade_commission.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "uFCN0h6gQqSCLoLDXW+CX7Q5XmP9jVlQkfoxsqonuaSW+xJvZdfs65CLm8E3C/VyG4yf98UlN85WT3LFpi0iAWIVtqHD2L8OMioSATiyAlDGzY06gTWEgRjZPSszq7H2y/PHDpSp+CXblZWT2zxyiI1PHmocB3tj/FQ5TPPO6LuhBIuNEonH1mR5q/t0AZFp97U1qThN12tChMzMoqqFhhS8Fx/G3dCHztd3vNroiEFmEMH67GukjrfVozjUziMDhxrsgrLn2X7m4Dr5MX1etjE+kES7ZG3mIUHS1tT0uw3LP4cJBo4tBUzpcM5+Dx4D+dPLpf3Mjl94vawrZ+UO/IOU4TplSTqQVsOIUd7nZnc=;rMoXt+0z5V49dMf5M5oSMg=="
+secured: "EGXcJ81+tPY0Z6OGL7CrEff1d5CL2sfvZF+jYBv1kbhsyPaVi3BXnREI5zvWFb2XpBWcBacQByTewI50zkwz3o36iJGv2LFSyn0FnyIi15DOMIh8xWERa3n5Pj5PiqbIcL7M66uv334cFo7JyGO3YdRJ39dRDVRmi+I168nzbpS3RIDPxG7hbGt2Rx1qYdMMXmY2sm2lK9PVeIskGBkawwA+vajy+zWVQJuUNDcxSR/zt9QD1Iprs383gDu8wj5GttCraVoZSc8O3MW60i/HKM2JgSUJa84BEbwGVka21zoFQO2zsARXdeygZ9Qfmg4VHprIJTvze1cyiWa+/G+EHiBzcSjfeF69tpTqP9DCnTgFwgYq+FP8W9LbTzonqJ201ncDCIxuTB2nY5D0SHFvECUpAZLYkycjNnol9drhg7k8QUHOwO+Kn/n5BbUhbhHiuWSZ4AMCMGcqozNbHT9n8cizYr0lboMj3VhpvfvyTUwEKziaFPMNxaym9GEDF2qMHtsCpjvueLKK5qemLec5AA==;JNHdCCuhNvWhxg9nIJb3jA=="
 ---
 

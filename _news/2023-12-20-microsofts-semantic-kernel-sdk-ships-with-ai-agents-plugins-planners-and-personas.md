@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Microsoft 365 Copilot Set To Provide A Generative AI Revenue Boost"
+    excerpt: "Microsoft's new 365 Copilot generative AI assistant will begin to provide incremental revenue growth, with demand expected to ramp up over the next few years."
+    publishedDateTime: 2023-12-19T23:44:00Z
+    webUrl: "https://www.forbes.com/sites/robertdefrancesco/2023/12/19/microsoft-365-copilot-set-to-provide-a-generative-ai-revenue-boost/"
+    ampWebUrl: "https://www.forbes.com/sites/robertdefrancesco/2023/12/19/microsoft-365-copilot-set-to-provide-a-generative-ai-revenue-boost/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertdefrancesco/2023/12/19/microsoft-365-copilot-set-to-provide-a-generative-ai-revenue-boost/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65821a161d7392cf357b1997/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1353
+        height: 900
+        isCached: true
   - title: "Alphabet Needs to Show Path to AI Sales in Race With Microsoft"
     excerpt: "“The whole business model depends on getting this right,” said Gene Munster, co-founder and managing partner at Deepwater Asset Management, whose firm holds the stock. “If they can nail multi-modal generative AI, that will draw usage to Google, and that increased usage will protect and grow the search business.”"
     publishedDateTime: 2023-12-15T01:46:00Z
@@ -34,20 +50,6 @@ related:
       - url: "https://images.hindustantimes.com/tech/img/2023/12/15/1600x900/USA-CHIPS-ALPHABET-0_1663336524425_1663336524425_1702604579880.JPG"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Key customer benefits of the Microsoft and MongoDB expanded partnership"
-    excerpt: "Microsoft’s mission is to empower everyone to achieve more, and we know that our customers like using MongoDB to build applications. In year one of our strategic partnership, we collaborated with MongoDB to make it even easier for our joint customers to do more with Microsoft services and MongoDB Atlas"
-    publishedDateTime: 2023-12-15T16:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/key-customer-benefits-of-the-microsoft-and-mongodb-expanded-partnership/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 87
-    images:
-      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/12/Blog-Logo-Lockup_Microsoft_MongoDB-scaled.jpg"
-        width: 2560
-        height: 1440
         isCached: true
   - title: "TomTom and Microsoft develop in-vehicle AI voice assistant"
     excerpt: "TomTom has teamed up with Microsoft to launch an AI assistant for vehicles, enabling drivers to converse with their car."
@@ -174,20 +176,6 @@ related:
       name: TechRadar
       domain: techradar.com
     quality: 57
-  - title: "OpenAI, Meta, Microsoft Chase Wearable AI"
-    excerpt: "Next year’s artificial intelligence battle is coming into focus—and it’s all about glasses. As they release more powerful AI that can understand images and language, Meta Platforms, Google, Microsoft,"
-    publishedDateTime: 2023-12-15T00:35:00Z
-    webUrl: "https://www.theinformation.com/articles/tech-giants-chase-wearable-ai"
-    type: article
-    provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 56
-    images:
-      - url: "https://tii.imgix.net/production/articles/11919/147875d6-e89c-42b3-83fe-4760752a7e13.png?fm=jpg&auto=compress&w=1200&frame=0"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft Launches Robust AI 'Small Language Model' For Researchers"
     excerpt: "Microsoft has released its newest compact“small language model” titled Phi-2 that continues to perform at par or better than"
     publishedDateTime: 2023-12-17T08:09:00Z
@@ -241,19 +229,19 @@ related:
         width: 960
         height: 550
         isCached: true
-  - title: "Ooredoo migrates RISE with SAP to Microsoft Azure in Qatar"
-    excerpt: "Ooredoo Group has announced the successful migration of its cloud ERP landscape, RISE with SAP, from Amsterdam to the Microsoft cloud data centre region in Qatar.The migration is"
-    publishedDateTime: 2023-12-19T17:35:00Z
-    webUrl: "https://www.gulf-times.com/article/673887/business/ooredoo-migrates-rise-with-sap-to-microsoft-azure-in-qatar"
+  - title: "A renowned GPS brand and Microsoft look to help drivers with AI"
+    excerpt: "Using Microsoft's Azure OpenAI system, the assistant can perform functions and tasks around the car that would typically require drivers to take their hands off the steering wheel and eyes off the road."
+    publishedDateTime: 2023-12-19T17:07:00Z
+    webUrl: "https://www.news-journal.com/arena/thestreet/a-renowned-gps-brand-and-microsoft-look-to-help-drivers-with-ai/article_88f291de-f521-5f1e-a5ac-334554fb73f8.html"
     type: article
     provider:
-      name: Gulf Times
-      domain: gulf-times.com
+      name: Longview News-Journal
+      domain: news-journal.com
     quality: 54
     images:
-      - url: "https://www.gulf-times.com/gulftimes/uploads/images/2023/12/19/thumbs/300x300/116762.jpg"
-        width: 253
-        height: 300
+      - url: "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/a/0e/a0eb24ef-aa5f-56b6-b111-5c1ea906fe16/6581ecd0f13ad.image.jpg?crop=1132%2C594%2C0%2C102&resize=1132%2C594&order=crop%2Cresize"
+        width: 1132
+        height: 594
         isCached: true
   - title: "LTIMindtree and Microsoft collaborate to deliver an AI-powered employee experience"
     excerpt: "LTIMindtree, a global technology consulting and digital solutions company, is announcing a strategic collaboration with Microsoft to drive the delivery of effective and personalized employee and customer experiences."
@@ -402,20 +390,6 @@ related:
       name: Windows Central
       domain: windowscentral.com
     quality: 21
-  - title: "Sonata To Enable Bayer's New AgPowered Services for Machine Data Connectivity with Leading OEMs, Powered by Harmoni.AI And Microsoft Fabric"
-    excerpt: "Data connectors for OEMs to further improve farmer and industry connectivity. BENGALURU, India, Dec. 18, 2023 /PRNewswire/ -- Sonata Software [NSE: SONATSOFTW, BSE: 532221], a lea"
-    publishedDateTime: 2023-12-18T11:39:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/12/18/9935453.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 20
-    images:
-      - url: "https://mma.prnewswire.com/media/689012/4257625/Sonata_Software_Logo.jpg"
-        width: 400
-        height: 279
-        isCached: true
   - title: "Global AI Conclave | Yotta CEO promises to launch cloud service that will compete with Amazon, Microsoft"
     excerpt: "Sunil Gupta, Co-Founder and CEO of Yotta Infrastructure, announced Shakti Cloud, which he said is India's largest AI supercomputing cloud, to rival global giants like Amazon, Google, and Microsoft. Gupta said the service will be operational by Feb 2024,"
     publishedDateTime: 2023-12-16T13:30:00Z
@@ -425,15 +399,6 @@ related:
       name: cnbctv18
       domain: cnbctv18.com
     quality: 19
-  - title: "Ooredoo reshapes region’s digital landscape with successful RISE with SAP migration to Microsoft Azure in Qatar"
-    excerpt: "Doha, Qatar: In a groundbreaking move set to redefine the digital landscape in the region, Ooredoo Group today announced the successful migration of its cloud ERP landscape, RISE with SAP, from Amsterdam to Microsoft cloud datacenter region in Qatar."
-    publishedDateTime: 2023-12-19T13:16:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/ooredoo-reshapes-regions-digital-landscape-with-successful-rise-with-sap-migration-to-microsoft-azure-in-qatar-e8afk723"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 14
 
 secured: "t/Aa+VNsplfteCy+IPu5HAPY+iEUd/GPaR8JJ7tCV+bgZJTyHV9GMcWloXDDErZXInFO89vO1k0MJ45dGO+RAqbiBTUO6BXwDKBKbGuhH7CINbeW7byeggUEl0g9sedDIXA/Dl5RxQojJ8WnqLMJVgSbOgVSV3X+kPWob8LKhqmSXmPsN22gB80rZ4tMhs5lYbfzV6h8kiXOJmLIfiZZqSckR0Z3scjs3A0AG3Flip3gARa+QD+BHaa+kiOBGDuPe+7yadWTmKPDQ1vPMxBHsqsDythltEplxsrg51BSacsPeAUYcudO6M/SRZqB2d6ZafSfNFIdFe+xxUSenJmbqP8E2CHhHk2LfQUn9sGA8IU3TTG9R5r+xK8M7vS3HjW+sAk1knUOHyqrHzHOvWcEG6w3++vJgsMp+53n0MR2zRw1yepsl83Xb00NssyQHdtVzCU8uUOULjj8RBqIIU3LTiMExAznj4AVZbiMRvrHPf+SSZ4f9g7QarV2Vl1WXiH+g/UgwoJz10p4mHy8qPWZ2g==;gflxAmDPvl28vBnEDisX9A=="
 ---

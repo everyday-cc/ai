@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Intel Meteor Lake ‘AI laptops’ have landed — here’s 5 you can buy right now"
-    excerpt: "Acer Swift Go 14: $999 @ Acer The Acer Swift Go 14 is one of the first \"AI laptops\" now available. This model features a 14-inch (1,920 x 1,200) 60Hz display, 16GB of RAM, 1TB of SSD storage, and the new Intel Core Ultra 7 CPU."
-    publishedDateTime: 2023-12-15T00:18:00Z
-    webUrl: "https://www.tomsguide.com/opinion/intel-meteor-lake-ai-laptops-have-landed-heres-5-you-can-buy-right-now"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 37
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/MaMEPgFwFzAxYcgminbRwL-1200-80.jpeg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "lV4hZl1AyAikhd9Jgz58cTzibu8FYYRCSTgvI4wkzs9Qi8d+EQ4Dby3BRd60FQ60ZfKVEpKPmJhG7ShHxwCRRnjK73M1fpgj+cxLdT8A0evcEWKx6qEcBDUhAvut8n6IGdWe9BIc5uw0s0Nvh40dkUBHl8KEbF6lh83ELBgs1kD1i7Ba1OZL/pG91i71HVekv5lTxEMECfELsM0Vv50Ig6eDouCEgp3wH0M1Qt0rfkTDsXogb63qlgOnwF7meD89y+M31vwpuDMGcHHz4DknKaTHBFYeerWKB1944GpAAZZUAPv5g6M/s3Tsblcr0hbLmcJ8Siu9CKkgrqC/klM8LbOEhexHJa1WqI4GMQDlm34=;OZM9WIrnM+ZQUs63mOjxFQ=="
 ---

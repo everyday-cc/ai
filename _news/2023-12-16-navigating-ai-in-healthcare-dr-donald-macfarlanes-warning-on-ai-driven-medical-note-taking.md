@@ -54,20 +54,6 @@ related:
         width: 750
         height: 375
         isCached: true
-  - title: "CVS, Geisinger, others sign responsible AI in healthcare pledge"
-    excerpt: "A survey conducted earlier this year by the American Medical Association found 65% of physicians saw an advantage to AI in healthcare, with the greatest enthusiasm for tools that could reduce administrative burdens in medical documentation or prior ..."
-    publishedDateTime: 2023-12-15T00:00:00Z
-    webUrl: "https://www.healthcaredive.com/news/artificial-intelligence-healthcare-white-house-pledge/702670/"
-    type: article
-    provider:
-      name: Healthcare Dive
-      domain: healthcaredive.com
-    quality: 54
-    images:
-      - url: "https://www.healthcaredive.com/imgproxy/oWi6hxL6UCucLVJk4YmYQ4l1w1snnbyyWznNfvaGyC8/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEzNzE2OTYwNi5qcGc.jpg"
-        width: 770
-        height: 435
-        isCached: true
   - title: "Healthcare leaders applaud White House's AI principles"
     excerpt: "Healthcare executives endorse White House's new AI principles to ensure safe, equitable & responsible deployment of AI in healthcare."
     publishedDateTime: 2023-12-15T21:11:00Z

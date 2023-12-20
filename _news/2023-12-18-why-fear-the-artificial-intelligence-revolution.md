@@ -63,15 +63,6 @@ related:
         width: 1528
         height: 800
         isCached: true
-  - title: "Artificial intelligence is revolutionizing medical research"
-    excerpt: "Artificial Intelligence (AI ... Once AI can de-code how speech is generated within the neural network, Greger envisions that patients will be able to mentally “speak” and have those thoughts translated, again by AI, into actual language."
-    publishedDateTime: 2023-12-15T00:00:00Z
-    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=64265.php"
-    type: article
-    provider:
-      name: Nanowerk
-      domain: nanowerk.com
-    quality: 21
   - title: "The Evolution: Google’s Artificial Intelligence and Its Impact on Virtual Assistants"
     excerpt: "Introduction: In the dynamic landscape of technology, one phenomenon has emerged as a trailblazer, shaping the way we interact with information – Google’s Artificial Intelligence (AI). This transformative force has left an indelible mark,"
     publishedDateTime: 2023-12-15T14:44:00Z

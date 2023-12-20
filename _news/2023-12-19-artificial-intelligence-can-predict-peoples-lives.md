@@ -18,6 +18,15 @@ topics:
   - AI
 
 related:
+  - title: "Artificial intelligence can predict events in people's lives"
+    excerpt: "Artificial intelligence can analyze registry data on people's residence, education, income, health and working conditions and, with high accuracy, predict life events."
+    publishedDateTime: 2023-12-20T00:40:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/12/231218125850.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 51
   - title: "AI trained on millions of life stories can predict risk of early death"
     excerpt: "A model trained on 6 million people’s health, employment and financial records can predict death more accurately than tools used by the insurance industry"
     publishedDateTime: 2023-12-18T16:01:00Z

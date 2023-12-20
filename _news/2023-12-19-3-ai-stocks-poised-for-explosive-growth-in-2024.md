@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-poised
 webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-poised-for-explosive-growth-in-2024-1032910289"
 type: article
 quality: 51
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -24,15 +24,6 @@ topics:
   - Meta AI
 
 related:
-  - title: "C3.ai Stock Alert: Should You Invest Before 2023 Ends?"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Founded in 2009, C3.ai (NYSE:AI) aims to empower businesses with artificial"
-    publishedDateTime: 2023-12-15T01:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/c3-ai-stock-alert-should-you-invest-before-2023-ends-1032903122"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "How AI’s Explosive Growth Opened Up The World For The Blind In 2023"
     excerpt: "AI and people living with sight loss have experienced significant gains from this seismic technological shift."
     publishedDateTime: 2023-12-15T13:07:00Z

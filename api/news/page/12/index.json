@@ -2,6 +2,93 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-12-09-i-pitted-google-bard-with-gemini-pro-vs-chatgpt-heres-the-winner.md",
+      "title": "I pitted Google Bard with Gemini Pro vs ChatGPT — here’s the winner",
+      "excerpt": "Google has incorporated its new AI large language model, Gemini Pro, into its popular chatbot, Bard. With this comes the promise that it will perform at least as well, if not better, than OpenAI's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tomsguide.com/features/i-pitted-google-bard-with-gemini-pro-vs-chatgpt-heres-the-winner",
+      "originalUrl": "https://www.tomsguide.com/features/i-pitted-google-bard-with-gemini-pro-vs-chatgpt-heres-the-winner",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/5izKezBiWMfNnrFVFC7uYM-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-09T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tom's Guide",
+        "domain": "tomsguide.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-09-amazon-says-scammers-stole-millions-through-phony-product-returns.md",
+      "title": "Amazon says scammers stole millions through phony product returns",
+      "excerpt": "Amazon is taking what it calls an international fraud ring to court for allegedly stealing millions of dollars in a scheme that had participants getting refunds for pricey products without sending ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/amazon-scam-fake-returns-lawsuit/",
+      "originalUrl": "https://www.cbsnews.com/news/amazon-scam-fake-returns-lawsuit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/11/14/5bf30c28-7d1a-4b70-9e9d-fd31bac86888/thumbnail/1200x630/549677390e5aa7f1d600d3fc65563c39/gettyimages-1237538354.jpg?v=5382e209c94ee904b3a96a69f8ca0ce0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/amazon-scam-fake-returns-lawsuit/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/amazon-scam-fake-returns-lawsuit/",
+      "publishedDateTime": "2023-12-08T22:37:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-09-ethics-in-ai-a-conversation-with-diya-wynn-aws-responsible-ai-lead.md",
       "title": "Ethics In AI: A Conversation With Diya Wynn, AWS Responsible AI Lead",
       "excerpt": "Invent conference, I had the distinct opportunity to delve into these pressing issues with Diya Wynn, AWS’s Responsible AI Lead.",
@@ -1086,102 +1173,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-08-how-google-deepminds-ai-breakthrough-could-revolutionise-chip-battery-development.md",
-      "title": "How Google DeepMind’s AI breakthrough could revolutionise chip, battery development",
-      "excerpt": "AI researchers have predicted the structures of more than 2 million new materials, and published a list of the 381,000 most stable ones. They say their work is currently equivalent to nearly 800 years of knowledge.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/explained/explained-sci-tech/google-deepminds-ai-breakthrough-chip-battery-development-9057935/",
-      "originalUrl": "https://indianexpress.com/article/explained/explained-sci-tech/google-deepminds-ai-breakthrough-chip-battery-development-9057935/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2023/12/google-AI-deepmind.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/explained/explained-sci-tech/google-deepminds-ai-breakthrough-chip-battery-development-9057935/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/explained-sci-tech/google-deepminds-ai-breakthrough-chip-battery-development-9057935/lite/",
-      "publishedDateTime": "2023-12-08T06:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-12-08-microsoft-exec-hints-at-new-llms-beyond-openais.md",
-      "title": "Microsoft exec hints at new LLMs beyond OpenAI’s",
-      "excerpt": "In a wide ranging interview about enterprise readiness for generative AI, Eric Boyd asserts that Microsoft plans to stay competitive on the choice front. He said the company's generative AI applications and the LLMs that power them,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/microsoft-exec-hints-at-new-llms-beyond-openais/",
-      "originalUrl": "https://venturebeat.com/ai/microsoft-exec-hints-at-new-llms-beyond-openais/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/12/otAR_BG_master02a.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-08T04:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

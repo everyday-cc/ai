@@ -66,15 +66,6 @@ related:
         width: 1528
         height: 800
         isCached: true
-  - title: "Artificial intelligence is revolutionizing medical research"
-    excerpt: "Artificial Intelligence (AI ... Once AI can de-code how speech is generated within the neural network, Greger envisions that patients will be able to mentally “speak” and have those thoughts translated, again by AI, into actual language."
-    publishedDateTime: 2023-12-15T00:00:00Z
-    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=64265.php"
-    type: article
-    provider:
-      name: Nanowerk
-      domain: nanowerk.com
-    quality: 21
 
 secured: "Z2teS6MGjvEGdqMLQuj/5G7n5+KNUsG5AoC0pgjJvsL43BEevCSYKc/Oa5iFfWUQx8J1Z/PKRL3MBkJA95xdjDJQcdKZmeQJe32K/JSIbBVtvNEE9CMLfwG6Jjebpy8eLpogid0vO3pjJ5y2JhSQpyul7ITBAO4pSVRfBCoAYf9FmVooZDiTUzQcg5p9a9qDi7MFQ/0Ye9aFwhTw5Y+/MlDORaFpOPSjtrokAO/B7M5rz32VYc8yNiEeV6JjYMhRte8dGxQjdYZ0TXGCKZiJW5oIp2AT2eqhb69gr+cgg1cNIyFBtOEWEZm3HPt0VZW1QanMHncJtuubT7jauRWoHu9HRXrSlzI801XfJ33P/LwaHTs1qSyycMNzZ/wZGHCNvvPSWg5+0QwXzXcrshdSiVAvxcy2kdQvQlENNll2YjcUaoDokM0HB6eBa0SHa6qRCzoiNDP2sCXKYBG9JVULLyk+2cfgHzY1q0FVa9aWnzjoeV6nAyJFZ54TWwhABKTv/Re8SvpGNeuVtAn2/16lZw==;rl+XSOETEoGztIiZOU2bFg=="
 ---

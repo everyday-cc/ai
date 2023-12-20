@@ -3,8 +3,8 @@ category: news
 title: "Deal alert: Score $500 off the Samsung Jet Bot AI+ Robot Vacuum"
 excerpt: "This is a rare chance to score the Samsung Jet Bot AI Plus Robot Vacuum for $799.99 and upgrade your smart home."
 publishedDateTime: 2023-12-19T18:14:00Z
-originalUrl: "https://www.androidauthority.com/p-3395866/"
-webUrl: "https://www.androidauthority.com/p-3395866/"
+originalUrl: "https://www.androidauthority.com/samsung-jet-bot-ai-plus-robot-vacuum-deal-3395866/"
+webUrl: "https://www.androidauthority.com/samsung-jet-bot-ai-plus-robot-vacuum-deal-3395866/"
 type: article
 quality: 86
 heat: 86
@@ -29,6 +29,6 @@ images:
     height: 718
     isCached: true
 
-secured: "UlUrrQOQ5LqQxvqUwrtuG/FwHezXxFdKunS/j4ApUNa5wqehbO7lMMZM+JcbNeLC84cSi8R2TAT1IY55WcUiT+pkfOboa/1Rr1YD4WzQh7nn5Tf6ISGQ+tMvhT4I4u55a6mhNtZqqV4ezXaw6g7+UWCuY51KoMwiwGhGx8ffr+8EkV2a8+rceOE2fzb1cKYG6Kvsk4fgDUu7a7SaB/RrFfXTkulgIrK2NRnHwRbyPGW3CGBn8TabOq33+SqsaYoGH+UI+ykCwrSuqTFX9H+ZYudh/tVmCcdVtsRjbkMnr6DWW7SMoAv6tTii4xnQcvkocIirclikUO678xTezlliP+4HEkdWWQBNjgijDa+6ftY=;rseHjsdMsVJbUPcCEvKxBA=="
+secured: "9kkP2pmMRKnMADl8l5eBW3VvvB/HfSet5Q4muocZzgbhXPnIi08Vit1os1CH/QX4gH1lpm0gBA2oDOmNrmoNO0G0vrW0ASc4RVe2mQrffzEenjmpAwG6BND81OY7w7XHwR/Yim0DqGe26ZIphVIV8h+n8HOJXSFS1QpE+KtrVAE/QB1+A/7Nl/hG9GXy7Ttn6EIqwcZXhZrXbxdxWlQQvp9qZehWevWxCMaLg4GU/7MUHAloCREn1WtMXQxUv5f05fHZXt802M3jk4x9QYjqf6K/bUhK2BtRuwPx6FK7S9RECL1LmyPsiWvfMpPFmdO55kldMx32qyrtmhJGS32AP2JtRoMqzQhm9WGU2RCw2KE=;QzebMbZVs6vSUbR5kazoqA=="
 ---
 

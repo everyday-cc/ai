@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/12/19/startup-shutdowns-and-ai-showdowns
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/19/startup-shutdowns-and-ai-showdowns-the-2023-chronicles/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

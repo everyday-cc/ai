@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-11-20-integrating-healthcare-apps-and-data-with-fhir-hl7.md",
+      "title": "Integrating healthcare apps and data with FHIR + HL7",
+      "excerpt": "HL7 has provided a standard set of patient attributes and clinical events to improve interoperability in healthcare.\nThe post Integrating healthcare apps and data with FHIR + HL7 appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/integrating-healthcare-apps-and-data-with-fhir-hl7/",
+      "originalUrl": "https://www.ibm.com/blog/integrating-healthcare-apps-and-data-with-fhir-hl7/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-20T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-11-20-ai-enabled-prostate-cancer-therapy-wins-breakthrough-designation.md",
       "title": "AI-Enabled Prostate Cancer Therapy Wins Breakthrough Designation",
       "excerpt": "The Santa Monica, CA-based company said the Avenda Health Focal Therapy System, is an artificial intelligence (AI)-enabled focal therapy system being developed to treat localized prostate cancer in a urologist’s office under local anesthesia. In ...",
@@ -1151,49 +1194,6 @@
         "AI in Autos",
         "Machine Learning",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-meeting-looks-at-music-intelligence.md",
-      "title": "Meeting looks at music intelligence",
-      "excerpt": "Li Xiaobing, executive director of the concert and head of the music AI and information technology department of the Central Conservatory of Music. [Photo provided to China Daily] The Second Summit on Music Intelligence was launched in Beijing on Saturday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202311/01/WS6541c793a31090682a5ebdca_1.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202311/01/WS6541c793a31090682a5ebdca_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img2.chinadaily.com.cn/images/202311/01/6541c793a3109068caff34a4.jpeg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T03:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "中国日报网",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

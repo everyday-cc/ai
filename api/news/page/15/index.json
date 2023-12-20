@@ -2,6 +2,111 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2023-12-07-qubit-by-qubit-the-quantum-computers-of-tomorrow-are-coming-into-being.md",
+      "title": "Qubit by qubit, the quantum computers of tomorrow are coming into being",
+      "excerpt": "A couple of weeks ago, I navigated the holiday traffic from New York to the town of Yorktown Heights in suburban Westchester County, the location of IBM’s Thomas J. Watson Research Center ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.vox.com/future-perfect/2023/12/6/23990752/quantum-computers-ibm-google-honeywell-china-supercomputer-artificial-intelligence?ref=mc.news",
+      "originalUrl": "https://www.vox.com/future-perfect/2023/12/6/23990752/quantum-computers-ibm-google-honeywell-china-supercomputer-artificial-intelligence?ref=mc.news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/6JbN24KRfG63q58FcwUNvn9WR9Y=/0x232:2048x1304/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25137951/53364318126_7899724546_k.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T18:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vox",
+        "domain": "vox.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/vox.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-07-google-says-bard-is-now-smarter-than-chatgpt-thanks-to-gemini-update.md",
+      "title": "Google says Bard is now smarter than ChatGPT, thanks to Gemini update",
+      "excerpt": "Google unveiled its take on the AI chatbot -- Google Bard -- last February. Since its release, Bard has been powered by two different large language models (LLMs) with the promise of making it a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/google-says-bard-is-now-smarter-than-chatgpt-thanks-to-gemini-update/",
+      "originalUrl": "https://www.zdnet.com/article/google-says-bard-is-now-smarter-than-chatgpt-thanks-to-gemini-update/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/5811d37721dd8b0e6cba911d67e1c33613ab5d07/2023/12/06/5f66f7a6-63ef-487a-9765-3856d4156497/2bardgettyimages-1676988402.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-says-bard-is-now-smarter-than-chatgpt-thanks-to-gemini-update/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-says-bard-is-now-smarter-than-chatgpt-thanks-to-gemini-update/",
+      "publishedDateTime": "2023-12-06T17:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-06-problem-solving-shines-at-svvsds-inaugural-day-of-ai-event-in-longmont.md",
       "title": "Problem-solving shines at SVVSD’s inaugural ‘Day of AI’ event in Longmont",
       "excerpt": "On Saturday, Hubbell led a demonstration of an AWS DeepRacer, a mini self-driving car, which he said SVVSD uses to expose students to AI. “In this district, we use it as a tool to teach kids ...",
@@ -1051,83 +1156,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-transforming-industries-with-generative-ai-aws-swami-sivasubramanian-on-intelligence-augmentation.md",
-      "title": "Transforming industries with generative AI: AWS’ Swami Sivasubramanian on intelligence augmentation",
-      "excerpt": "We are entrenched firmly in the generative artificial intelligence era — it is the differentiating factor for today’s enterprise and business landscapes.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/12/05/transforming-industries-generative-ai-next-era-intelligence-augmentation-supercloud5/",
-      "originalUrl": "https://siliconangle.com/2023/12/05/transforming-industries-generative-ai-next-era-intelligence-augmentation-supercloud5/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/IMG_4502.jpg",
-          "width": 4898,
-          "height": 3265,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-06T04:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-deepminds-ai-tool-unveils-2-million-crystal-structures-capable-of-powering-supercomputers-and-evs.md",
-      "title": "DeepMind's AI Tool unveils 2 million crystal structures capable of powering supercomputers and EVs",
-      "excerpt": "Google scientists, utilizing the AI tool , have revealed an astounding 2.2 million crystal structures. This discovery presents significant possibilities for progress in areas such as microchips, batteries,",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitimes.com/news/a20231206VL201/ai-google-deepmind-supercomputers-electric-vehicle-it+ce-server-ipc-cloud-computing-iot.html",
-      "originalUrl": "https://www.digitimes.com/news/a20231206VL201/ai-google-deepmind-supercomputers-electric-vehicle-it+ce-server-ipc-cloud-computing-iot.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-06T04:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

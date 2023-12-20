@@ -7,7 +7,7 @@ originalUrl: "https://sciencex.com/wire-news/464461322/machine-learning-applicat
 webUrl: "https://sciencex.com/wire-news/464461322/machine-learning-applications-in-drug-repurposing.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -24,31 +24,6 @@ images:
     height: 480
     isCached: true
 
-related:
-  - title: "Deep learning models replicate human auditory processing"
-    excerpt: "Computational models that mimic the structure and function of the human auditory system could help researchers design better hearing aids, cochlear implants, and brain-machine interfaces."
-    publishedDateTime: 2023-12-15T00:52:00Z
-    webUrl: "https://www.news-medical.net/news/20231213/Deep-learning-models-replicate-human-auditory-processing.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 39
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Artificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
-  - title: "Innovative Machine Learning Model for Predicting Chlorine Levels in Drinking Water"
-    excerpt: "Chlorine-based disinfection is a critical practice in conventional drinking water treatment (DWT). It is essential for inactivating pathogenic"
-    publishedDateTime: 2023-12-15T13:24:00Z
-    webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/240707"
-    type: article
-    provider:
-      name: AlphaGalileo
-      domain: alphagalileo.org
-    quality: 13
-
-secured: "ODzdKxQcSu6/nCWzCAjR4Nxu8JCnznT0yVK2DSeVjyWGaD6Gv9gF5QOn16ifJ1zQ0fdLBraLuKe6lU0TIJBxbkQfQihnAwyj1QHLMim1d9g3Jc03iY/AVMZToBHneOMV5rObPQtwB7ODrZ3s9v+rTqkeMA3A7LfmI97jbLmF/8+t1fXj7/snIlPpBvQAlXQbVt/esezMnl4B9U8rs1QzGVE/CgZOXbGU6r5dn/m1hbd67Rd1i2gHtY3jPNR6ADTcXzAF0ACyqYPdsz17ryIkkHeQnTROsvIN3h+eVq2Q+yg1lzHgFv77krmnswvDQp25NgsnlAliuHKEFE1vXte5xif6y/AvaXtj58Mu5oF2uKw=;+1BCdPx9uXcEbot0QCoI/g=="
+secured: "VgEobL/q+hJWR81eakzCq9rIE8QvXdJrtG66mU5HThP32Ydp0vmueQgPpZvOnpVbF87Op0oGqVjApC0+SxuulV29OhOfNsIams+TgNrfWo/T8dVMLo9DTLu4MNCi4ZHXrQAr9ZODehETQqlqhKdRNUbh4CKZmB9rFGCpMEX3dO9bAW+s4UpnR9mbXhcMeEiK3Ow6W7OnJlGvVWnx644pSvTZwcDtfGcTjvbMXleveo3HwTbBrA5chlQWA/rTMrBjVKUL0mncqxR3zValpjsYQLQZTwDeHZcFT+QWIjnUrwkM2r7FY+urV7jIDCE6nHnd/z8jmVsiHm7zWcGs5pttQUS30XxFGC3GqKgedp0KviEgzf8CRm5xNc8cLaI5lkkcZgJA5hgjNhwoMC80U04Y8b56DfdpcVwuFdxyt7AT0rDrawit5IvsEMfYUZ5UPwVYuUVCLxcoHag+Bh57huogKRHmP7sP+fNr0ZRCEluk1Ju62zgm27HvIOxkbIZLXB4hy1megMd13Ud06CfeItA5gQ==;Z0xcfzMsmXfOGMtSme6Qkw=="
 ---
 

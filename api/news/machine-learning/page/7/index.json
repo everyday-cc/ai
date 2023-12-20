@@ -2,6 +2,40 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-10-16-new-tutorial-explores-artificial-neural-networks-in-photonics.md",
+      "title": "New Tutorial Explores Artificial Neural Networks in Photonics",
+      "excerpt": "The integration of artificial neural networks (NNs) with photonics has sparked profound implications across scientific domains and industries. A new tutorial review published in the journal Advances in Optics and Photonics provides a comprehensive exploration of this convergence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.azooptics.com/News.aspx?newsID=28459",
+      "originalUrl": "https://www.azooptics.com/News.aspx?newsID=28459",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-16T13:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AZoOptics",
+        "domain": "azooptics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-16-master-machine-learning-in-your-workplace-without-draining-your-human-batteries.md",
       "title": "Master Machine Learning In Your Workplace (without Draining Your Human Batteries)",
       "excerpt": "Despite the fear-driven media headlines, business leaders and workers can indeed win from a harmonious collaboration between humans and machines.",

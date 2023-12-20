@@ -2,6 +2,100 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-12-18-no-donald-trump-never-met-martin-luther-king-jr-despite-ai-photos.md",
+      "title": "No, Donald Trump Never Met Martin Luther King Jr. Despite AI Photos",
+      "excerpt": "Have you seen photos of Donald Trump with Dr. Martin Luther King Jr.? They’ve been going viral on social media recently, including on X. But they’re completely fake.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mattnovak/2023/12/17/no-donald-trump-never-met-martin-luther-king-jr-despite-ai-photos/",
+      "originalUrl": "https://www.forbes.com/sites/mattnovak/2023/12/17/no-donald-trump-never-met-martin-luther-king-jr-despite-ai-photos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/657f7eb09cd7ffe25a09a13f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/mattnovak/2023/12/17/no-donald-trump-never-met-martin-luther-king-jr-despite-ai-photos/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattnovak/2023/12/17/no-donald-trump-never-met-martin-luther-king-jr-despite-ai-photos/amp/",
+      "publishedDateTime": "2023-12-17T23:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-18-a-first-pm-modi-uses-ai-to-translate-speech-from-hindi-to-tamil.md",
+      "title": "A first, PM Modi uses AI to translate speech from Hindi to Tamil",
+      "excerpt": "Inaugurates Kashi Tamil Samagam 2. In a first, Prime Minister Narendra Modi on Sunday used artificial intelligence (AI) for real-time translation of his Hindi spe",
+      "sourceUrl": null,
+      "webUrl": "https://www.tribuneindia.com/news/india/a-first-pm-modi-uses-ai-to-translate-speech-from-hindi-to-tamil-572891",
+      "originalUrl": "https://www.tribuneindia.com/news/india/a-first-pm-modi-uses-ai-to-translate-speech-from-hindi-to-tamil-572891",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://englishtribuneimages.blob.core.windows.net/gallary-content/2023/12/2023_12$largeimg_354404949.jpg",
+          "width": 866,
+          "height": 1083,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://m.tribuneindia.com/news/india/a-first-pm-modi-uses-ai-to-translate-speech-from-hindi-to-tamil-572891",
+      "cdnAmpWebUrl": "https://m-tribuneindia-com.cdn.ampproject.org/c/s/m.tribuneindia.com/news/india/a-first-pm-modi-uses-ai-to-translate-speech-from-hindi-to-tamil-572891",
+      "publishedDateTime": "2023-12-17T18:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Tribune",
+        "domain": "tribuneindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-17-google-launches-a-healthcare-focused-llm.md",
       "title": "Google Launches A Healthcare-Focused LLM",
       "excerpt": "Google has unveiled MedLM, a collection of foundation models tailored for the healthcare industry, making it available to selected Google Cloud customers in the USA.",
@@ -365,7 +459,7 @@
       "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/12/16/my-one-big-tech-fueled-prediction-for-2024-ai-vanishes/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -416,7 +510,7 @@
       "originalUrl": "https://mashable.com/article/5-ai-laptops",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1138,100 +1232,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-five-open-source-ai-tools-to-know.md",
-      "title": "Five open-source AI tools to know",
-      "excerpt": "While open-source AI offers enticing possibilities, its free accessibility poses risks that organizations must navigate carefully.\nThe post Five open-source AI tools to know appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/five-open-source-ai-tools-to-know/",
-      "originalUrl": "https://www.ibm.com/blog/five-open-source-ai-tools-to-know/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-15T17:24:27Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-these-ai-generated-news-anchors-are-freaking-me-out.md",
-      "title": "These AI-generated news anchors are freaking me out",
-      "excerpt": "In other words, human-looking AI avatars now seem well on their way to climbing out of the uncanny valley, at least when it comes to news anchors who sit at a desk or stand still in front of a green screen. Channel 1 investor Adam Mosam told Deadline it \"has gotten to a place where it’s comfortable to watch,\" and I have to say I agree.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/ai/2023/12/these-ai-generated-news-anchors-are-freaking-me-out/",
-      "originalUrl": "https://arstechnica.com/ai/2023/12/these-ai-generated-news-anchors-are-freaking-me-out/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/channel1-vs-max-headroom-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-15T15:57:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -8,8 +8,8 @@ webUrl: "https://dronelife.com/2023/12/19/augmentive-artificial-intelligence-rom
 ampWebUrl: "https://dronelife.com/2023/12/19/augmentive-artificial-intelligence-rommell-martinez-on-valmiz-multi-agent-human-centric-ai/amp/"
 cdnAmpWebUrl: "https://dronelife-com.cdn.ampproject.org/c/s/dronelife.com/2023/12/19/augmentive-artificial-intelligence-rommell-martinez-on-valmiz-multi-agent-human-centric-ai/amp/"
 type: article
-quality: 62
-heat: 62
+quality: 66
+heat: 66
 published: false
 
 provider:
@@ -19,6 +19,8 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Autos
+  - AI Ethics
 
 images:
   - url: "https://dronelife.com/wp-content/uploads/2023/12/Artificial-Intelligence-e1703017244404.jpg"
@@ -26,6 +28,6 @@ images:
     height: 408
     isCached: true
 
-secured: "68yFyZps240xrxf2ogPX3+uAQb/z2J37VNZtffd2R9Vi785Io7L0+YDebBSl8Z5IfPZkimMTfPhcMvaH0dMoK9InbsYti5lAlsTE9H2XzN4bLq7otygkh6F3kwmK24MSgsEnft3xEVVXMROmgHGsZuYelA9T1fN2OAHnCi/30twNzZr6SNsOq4TaL7j7zMCBPCtkZjmTo9F9n3s1LT5vurCcJ+dFEuNKQwXROVsP0FWhNzwdSfpVElQYAu3W6IPgaqJ5InQWxGc3JsEhjfnoheivuDhMz7MChpAEyp2LglHkiBuOBnYfEs/pWpJ1oXxdP2qEG8GAY4h+sW74IDlwmUqBdSwL0ZeZeYqr/zEbXBs=;rP7sFxysF4h/NBlyLN/nGw=="
+secured: "oM5YET84FivlqbjxroA/dRgsnSZj4Qjr9hiiosGl6oO3906hJqnuQ4mk8OEsfnUk0gb/WhbnXwBUds9gXC/7lBa0tKUQxG8WiFetxZdJaRwYnD67EiVhxppmtouhexEdjTi5tqbxb1fUqdWNVt2f3XFKglr7gjhoB9T/BL0g+YopmSyzOpc1MwChl3WO1QXuS2f0kL1QIVdf2odW+02PPjKGS1/A666EKNH/36p4yzdqhmT9e96LlO860Aeb4yzww1CzHnUeT3yH9HmEmYnsjmibfi+K4apJDhcZArNrxXQkRlIga7L3gd3WrfLkZ5X5EBxFPluQK+48E8lQKRPhTGOp101rYksfPjy8KTlOjGrmqvqcbt3PfutRo44hOfoiaOUdVrq53lk3pGOpga7U+QaHAWNVdOkjo2PRX4zSblq5xSzI0nzAywJqAWOr0ttw3poX/I66QaL1cpcJHDXBFBI6HqQZLtFO33Q1HUW0U9JXvDtE+XEXUza00PFBWuSqfCRZn+j+Y6TLPeo+NGUoPg==;6KvxfFgCiSN5rn+yjWQawg=="
 ---
 

@@ -62,20 +62,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Google’s DeepMind creates generative AI model with fact checker to crack unsolvable math problem"
-    excerpt: "Google's DeepMind creates generative AI model with fact checker to crack unsolvable math problem - SiliconANGLE"
-    publishedDateTime: 2023-12-15T00:06:00Z
-    webUrl: "https://siliconangle.com/2023/12/14/googles-deepmind-creates-generative-ai-model-fact-checker-crack-unsolvable-math-problem/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 58
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/whiteboard-with-formulas.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
 
 secured: "fi33dH6K/9pii5h4pf43t19unHUeDjG5p493LM8GU1po/gx40xAzM+m5AWWaeWL2TWyU8MAPKnwxZYDczAPLuE4/B4Sj8ZZdUc9QvjXrhZ7ntT2dkTi3FGlnjBzDSakLj/E068eRQHFlF1DAqe+f/6VJ59BMlhuPyNhJUteI4xomqQGKVWEoFyIDHK01TDozzEIoBQ18dlKlzfwb2zfHfUsx67in8C/DElNDBin46WZnOm0hNljMVz/lKK0LzSiiWBlRoovaetbrFGBPpaHeQW7nZN2TIFEHQOIeg92I07OLKjjSvI71J0CUWQ2hKhCgalP0At33/YtdCX165PRRsFFA8YCE6fS1EBDjbNuV1CU=;xU4in/5wazMdHZKvNR4WiA=="
 ---

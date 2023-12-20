@@ -38,6 +38,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Google takes steps to prevent abuse of its generative AI tools during U.S. elections"
+    excerpt: "Google LLC said today it is planning to restrict the ability of its artificial intelligence chatbot Bard and Search Generative Experience to respond to election-related queries, ahead of the U.S. Presidential election taking place next year. The restrictions will be introduced early next year, the company said."
+    publishedDateTime: 2023-12-19T23:45:00Z
+    webUrl: "https://siliconangle.com/2023/12/19/google-takes-steps-prevent-abuse-generative-ai-tools-u-s-elections/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 32
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/element5-digital-T9CXBZLUvic-unsplash-1.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "What senior living leaders need to know about artificial intelligence"
     excerpt: "Senior living executives have two key decisions to make to move forward with AI-enabled solutions, according to NIC MAP Vision CEO Arick Morton."
     publishedDateTime: 2023-12-18T05:05:00Z

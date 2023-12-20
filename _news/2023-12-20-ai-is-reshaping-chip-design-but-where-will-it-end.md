@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/karlfreund/2023/12/19/ai-is-reshaping-chip
 ampWebUrl: "https://www.forbes.com/sites/karlfreund/2023/12/19/ai-is-reshaping-chip-design-but-where-will-it-end/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/12/19/ai-is-reshaping-chip-design-but-where-will-it-end/amp/"
 type: article
-quality: 104
-heat: 104
+quality: 106
+heat: 106
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/65820d6832a7a051bb07c495/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
@@ -30,6 +31,6 @@ images:
     height: 874
     isCached: true
 
-secured: "DMUnu+CZ80I/aoRXMvoVKI0SZc6VnqfMf1/SYSvm/MZdUoH7kjLCsTfa0fn5H2ZPKRP9RgfNuy3VSw0IQ42jqeexj/pIpQcW6zq12ag1dHTXTNW6F4/p/Xo7YgO6pCYb5PwbzMtVrm0C9BrWwgMlCuT80hlLDaGf+olA8HOGyOj3Qb48X/uUNYdmtSspqJYCqUv1xTLNrfGK0ck46NCyZJhXjAVlR1vosgiTt4+eOgk11VcWComkA/rW/BiK8ZVH5E5O09ufoBoLGhSiasEV262CxFTbhwiz9p6Fy5ifTBshONFNgmb5GRql0IjtubBvssprwAx1pNeuc5ub4BqrfwZvEK1wwbsKpNFqo53Gb/o=;JkvazQdgyGQy7RlrbYs68A=="
+secured: "PvsfwAZ2NU81hz+oLdvdhXFSW8FlDkCLO8fOCy169ZfFHLMB0ea84fB1/WcsUYfLPLoOsjubACQfUTnT05F1zWqIscA5ByCHHo/5Zwjf0G2GdnjhRc7IK2jq8DeH8k7Ys/ryz6oAsgaG+gQlgMX9QEoSrsxC/pqv9/Kj3C9FD19sR8OFMFwRsH7BkZlZFgw8MWqiHG/0VGKsZbIMrrbu432BkjItUtd1rKA2L6Sa20/v46TNrZi3RBdRuSaRctPG/g8nysEHW94fB5Lq7dh02RsueZJj7KImgktpBeR4klopq4s2b8LFccE6KLlqBXxyN6NMld2To+4UEErYaXos8/c1aSeG+MJqYtzJ1klayy9UMJFrIb+p6o8JK14AojlJVbaK2DEpSFyBBxf7s/1EeWGo1SI8ufT+ghgYSSWzcN1soR7kVe/bf0X3BiFFyXVhGcjw76/3n1fD817d6ySasHFYNEZzCtcnesFRHyEHWFgHoPk9xoZ/xRsW/XwJnn8hgQqpsQ/sDNg16LJF2gYSzg==;JahGpnnHZKQzoh6LUCFMxw=="
 ---
 

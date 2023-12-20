@@ -33,6 +33,15 @@ related:
         width: 554
         height: 327
         isCached: true
+  - title: "Innovative Machine Learning Model for Predicting Chlorine Levels in Drinking Water"
+    excerpt: "Chlorine-based disinfection is a critical practice in conventional drinking water treatment (DWT). It is essential for inactivating pathogenic"
+    publishedDateTime: 2023-12-15T13:24:00Z
+    webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/240707"
+    type: article
+    provider:
+      name: AlphaGalileo
+      domain: alphagalileo.org
+    quality: 13
 
 secured: "Uwhnz/Pgl+NP6GBYEXKL8Pwb3UMlHa7pRH71l+UoAKedp083o88gc3Tdkdk53NODc4zT047ruUye5Nz0w+ptJzaFEFiZUJRBocItOukxnC8rnsqBDSvRXBB+3MgZeVF1BlRfi7HlZycQ6h5+tTL1RSWWH1fsBAyZldbcPmq1nfcWhtDmZtgnh/SNK9Z0Kp/RMinfN6v8KtThJLQGvju5G2AnTSL+b7w3X5RLiBTKIYdKRCwjt1I+7JMoS/y6lC2aaTbG0+FuCPiq85yMT0FJUppK78eVsAlCMaLtMk3HQGIKOTPztJxuSWxwG2yFj9xyt6xwfihNcSMmSJoAzn4uYE/BiMtbxqlxCDUsSXeqF2M=;YbXZ4+PUqQJ4PNKaHDw56w=="
 ---

@@ -2,6 +2,160 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-12-15-here-come-the-custobots-ai-pervades-gartners-top-10-strategic-technology-trends-for-2024.md",
+      "title": "Here come the 'custobots': AI pervades Gartner's top 10 strategic technology trends for 2024",
+      "excerpt": "Gartner delivers its top IT predictions for the next decade, while exploring how generative AI has changed executive leaders' way of thinking on every subject.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-dominates-gartners-top-10-strategic-technology-trends-for-2024/",
+      "originalUrl": "https://www.zdnet.com/article/ai-dominates-gartners-top-10-strategic-technology-trends-for-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/f107d5c167eb5c882184cb0f4bac1526e4727afa/2023/12/12/17199441-348c-4d1e-9ccd-a670a33fc866/gettyimages-1470995430-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-dominates-gartners-top-10-strategic-technology-trends-for-2024/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-dominates-gartners-top-10-strategic-technology-trends-for-2024/",
+      "publishedDateTime": "2023-12-15T07:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-15-the-new-frontier-in-workplace-safety-data-analytics-and-ai.md",
+      "title": "The New Frontier In Workplace Safety: Data Analytics And AI",
+      "excerpt": "Explore how data and AI are driving innovations in safety protocols, preventing accidents, and enhancing workplace productivity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/12/15/the-new-frontier-in-workplace-safety-data-analytics-and-ai/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/12/15/the-new-frontier-in-workplace-safety-data-analytics-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/657bf3cfe410bdbccbb7d190/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1599,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/12/15/the-new-frontier-in-workplace-safety-data-analytics-and-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/12/15/the-new-frontier-in-workplace-safety-data-analytics-and-ai/amp/",
+      "publishedDateTime": "2023-12-15T05:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-15-acer-predator-triton-neo-16-with-intel-core-ultra-cpus-rtx-4070-gpu-unveiled.md",
+      "title": "Acer Predator Triton Neo 16 with Intel Core Ultra CPUs & RTX 4070 GPU unveiled",
+      "excerpt": "Acer has introduced the Predator Triton Neo 16 (PTN16-51), a gaming laptop equipped with Intel Core Ultra processors featuring dedicated AI acceleration and NVIDIA GeForce RTX 40 Series GPUs. This gaming powerhouse caters to both players and content creators,",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2023/12/15/acer-predator-triton-neo-16-laptop-launched/",
+      "originalUrl": "https://www.gizmochina.com/2023/12/15/acer-predator-triton-neo-16-laptop-launched/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/12/Triton_Neo_16_SP02_transparent.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-15T05:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-15-hr-block-introduces-ai-chatbot-that-will-answer-your-complex-tax-questions.md",
       "title": "H&R Block introduces AI chatbot that will answer your complex tax questions",
       "excerpt": "H&R Block said its goal with this new AI-enabled feature is to to help customers understand how their taxes work, rather than just being told where to put a certain number. The company hopes the advice from AI Tax Assist helps keep customers on the H&R Block site, instead of turning to Google search.",
@@ -50,50 +204,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-alphabet-needs-to-show-path-to-ai-sales-in-race-with-microsoft.md",
-      "title": "Alphabet Needs to Show Path to AI Sales in Race With Microsoft",
-      "excerpt": "“The whole business model depends on getting this right,” said Gene Munster, co-founder and managing partner at Deepwater Asset Management, whose firm holds the stock. “If they can nail multi-modal generative AI, that will draw usage to Google, and that increased usage will protect and grow the search business.”",
-      "sourceUrl": null,
-      "webUrl": "https://tech.hindustantimes.com/tech/news/alphabet-needs-to-show-path-to-ai-sales-in-race-with-microsoft-71702574596587.html",
-      "originalUrl": "https://tech.hindustantimes.com/tech/news/alphabet-needs-to-show-path-to-ai-sales-in-race-with-microsoft-71702574596587.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 421,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/tech/img/2023/12/15/1600x900/USA-CHIPS-ALPHABET-0_1663336524425_1663336524425_1702604579880.JPG",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/alphabet-needs-to-show-path-to-ai-sales-in-race-with-microsoft-71702574596587.html",
-      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/alphabet-needs-to-show-path-to-ai-sales-in-race-with-microsoft-71702574596587.html",
-      "publishedDateTime": "2023-12-15T01:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times Tech",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Sales"
       ]
     },
     {
@@ -1134,110 +1244,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-cruise-slashes-24-of-self-driving-car-workforce-in-sweeping-layoffs.md",
-      "title": "Cruise slashes 24% of self-driving car workforce in sweeping layoffs",
-      "excerpt": "Cruise, the embattled GM self-driving car subsidiary, is laying off 900 employees to slash costs and attempt to revamp the company.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/12/14/cruise-slashes-24-of-self-driving-car-workforce-in-sweeping-layoffs/",
-      "originalUrl": "https://techcrunch.com/2023/12/14/cruise-slashes-24-of-self-driving-car-workforce-in-sweeping-layoffs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1497020096.jpg?resize=1200,741",
-          "width": 1200,
-          "height": 741,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/12/14/cruise-slashes-24-of-self-driving-car-workforce-in-sweeping-layoffs/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/14/cruise-slashes-24-of-self-driving-car-workforce-in-sweeping-layoffs/amp/",
-      "publishedDateTime": "2023-12-14T15:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-michael-cohen-lawyers-citing-of-fictional-case-raises-chatgpt-suspicions.md",
-      "title": "Michael Cohen Lawyer's Citing of Fictional Case Raises ChatGPT Suspicions",
-      "excerpt": "David M. Schwartz, who is representing Donald Trump's former fixer, is accused of using AI for research in legal filings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/michael-cohen-lawyer-chatgpt-court-cases-ai-1852530",
-      "originalUrl": "https://www.newsweek.com/michael-cohen-lawyer-chatgpt-court-cases-ai-1852530",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2323587/michael-cohen-new-york.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-14T15:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

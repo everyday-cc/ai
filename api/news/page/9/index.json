@@ -2,6 +2,108 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-12-12-snapchat-subscribers-can-now-create-and-send-ai-generated-images.md",
+      "title": "Snapchat+ subscribers can now create and send AI-generated images",
+      "excerpt": "Snapchat is releasing a few new AI powered features for Snapchat+ subscribers, the company announced on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/12/12/snapchat-subscribers-can-now-create-and-send-ai-generated-images/",
+      "originalUrl": "https://techcrunch.com/2023/12/12/snapchat-subscribers-can-now-create-and-send-ai-generated-images/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/12/snapchat-ai-image-generator.jpeg?resize=1200,718",
+          "width": 1200,
+          "height": 718,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/12/12/snapchat-subscribers-can-now-create-and-send-ai-generated-images/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/12/snapchat-subscribers-can-now-create-and-send-ai-generated-images/amp/",
+      "publishedDateTime": "2023-12-12T15:47:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-12-strategies-for-building-ai-tools-people-will-actually-use-at-work.md",
+      "title": "Strategies for building AI tools people will actually use at work",
+      "excerpt": "The application of generative AI in the workplace is a long game, and we’re in the very early stages. Most businesses looking for ways to leverage AI are",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/12/12/strategies-for-building-ai-tools-people-will-actually-use-at-work/",
+      "originalUrl": "https://techcrunch.com/2023/12/12/strategies-for-building-ai-tools-people-will-actually-use-at-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2018/10/tools.jpg?w=960",
+          "width": 960,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-12T15:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-12-laredo-wants-to-use-gen-ai-to-automate-dev-work.md",
       "title": "Laredo wants to use gen AI to automate dev work",
       "excerpt": "Laredo Labs has launched out of stealth with a platform that taps gen AI to automate certain software dev work.",
@@ -1073,108 +1175,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-sports-illustrated-publisher-fires-ceo-after-ai-debacle.md",
-      "title": "Sports Illustrated publisher fires CEO after AI debacle",
-      "excerpt": "Digital publisher The Arena Group, which operates household brands such as Sports Illustrated and The Street, fired its chief executive on Monday amid a larger C-suite bloodbath, a spokesperson for the company told CNN.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/12/11/media/sports-illustrated-ai-articles-ceo/index.html",
-      "originalUrl": "https://www.cnn.com/2023/12/11/media/sports-illustrated-ai-articles-ceo/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/231211172440-ross-levinsohn-ceo-12062023.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/12/11/media/sports-illustrated-ai-articles-ceo/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/12/11/media/sports-illustrated-ai-articles-ceo/index.html",
-      "publishedDateTime": "2023-12-11T22:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-mistral-shocks-ai-community-as-latest-open-source-model-eclipses-gpt-35-performance.md",
-      "title": "Mistral shocks AI community as latest open source model eclipses GPT-3.5 performance",
-      "excerpt": "Mistral, the most well-seeded startup in European history and a French company dedicated to pursuing open source AI models and large language models (LLMs), has struck gold with its latest release — at least among the early adopter/AI influencer crowd on X and LinkedIn.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/mistral-shocks-ai-community-as-latest-open-source-model-eclipses-gpt-3-5-performance/",
-      "originalUrl": "https://venturebeat.com/ai/mistral-shocks-ai-community-as-latest-open-source-model-eclipses-gpt-3-5-performance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/12/cfr0z3n_crowds_of_tourists_react_in_shock_and_amazement_as_the__cd64e435-492c-4397-94c0-1d5119160375.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-11T21:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

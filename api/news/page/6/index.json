@@ -2,6 +2,110 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-12-14-cruise-slashes-24-of-self-driving-car-workforce-in-sweeping-layoffs.md",
+      "title": "Cruise slashes 24% of self-driving car workforce in sweeping layoffs",
+      "excerpt": "Cruise, the embattled GM self-driving car subsidiary, is laying off 900 employees to slash costs and attempt to revamp the company.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/12/14/cruise-slashes-24-of-self-driving-car-workforce-in-sweeping-layoffs/",
+      "originalUrl": "https://techcrunch.com/2023/12/14/cruise-slashes-24-of-self-driving-car-workforce-in-sweeping-layoffs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1497020096.jpg?resize=1200,741",
+          "width": 1200,
+          "height": 741,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/12/14/cruise-slashes-24-of-self-driving-car-workforce-in-sweeping-layoffs/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/14/cruise-slashes-24-of-self-driving-car-workforce-in-sweeping-layoffs/amp/",
+      "publishedDateTime": "2023-12-14T15:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-14-michael-cohen-lawyers-citing-of-fictional-case-raises-chatgpt-suspicions.md",
+      "title": "Michael Cohen Lawyer's Citing of Fictional Case Raises ChatGPT Suspicions",
+      "excerpt": "David M. Schwartz, who is representing Donald Trump's former fixer, is accused of using AI for research in legal filings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/michael-cohen-lawyer-chatgpt-court-cases-ai-1852530",
+      "originalUrl": "https://www.newsweek.com/michael-cohen-lawyer-chatgpt-court-cases-ai-1852530",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2323587/michael-cohen-new-york.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-14T15:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-14-ai-scientists-make-exciting-discovery-using-chatbots-to-solve-maths-problems.md",
       "title": "AI scientists make ‘exciting’ discovery using chatbots to solve maths problems",
       "excerpt": "Breakthrough suggests technology behind ChatGPT and Bard can generate information that goes beyond human knowledge",
@@ -1077,103 +1181,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-what-to-expect-at-intel-ai-event-a-discussion-with-ceo-pat-gelsinger.md",
-      "title": "What To Expect At Intel AI Event: A Discussion With CEO Pat Gelsinger",
-      "excerpt": "language translation, etc.—that's going to happen. [And] I expect that every PC that is embedded in my manufacturing lines is going to be capable of real-time AI model generation and telemetry.” The coming changes will likely also change the shape of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/12/13/what-to-expect-at-intel-ai-event-a-discussion-with-ceo-pat-gelsinger/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/12/13/what-to-expect-at-intel-ai-event-a-discussion-with-ceo-pat-gelsinger/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6579ef752a71e24eeb55d316/0x0.jpg?format=jpg&crop=5461,3074,x0,y104,safe&height=900&width=1600&fit=bounds",
-          "width": 1599,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/12/13/what-to-expect-at-intel-ai-event-a-discussion-with-ceo-pat-gelsinger/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/12/13/what-to-expect-at-intel-ai-event-a-discussion-with-ceo-pat-gelsinger/amp/",
-      "publishedDateTime": "2023-12-13T19:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-parliament-security-system-to-be-reviewed-image-will-be-captured-by-facial-recognition-device.md",
-      "title": "Parliament security system to be reviewed; image will be captured by facial recognition device",
-      "excerpt": "Following a major security breach in Parliament, the security protocols were overhauled with strict measures to reduce any contact between MPs and visitors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/politics/2745136-parliament-security-system-to-be-reviewed-image-will-be-captured-by-facial-recognition-device",
-      "originalUrl": "https://www.devdiscourse.com/article/politics/2745136-parliament-security-system-to-be-reviewed-image-will-be-captured-by-facial-recognition-device",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/13_12_2023_18_13_26_9504778.jpg?width=1280",
-          "width": 1280,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.devdiscourse.com/article/politics/2745136-parliament-security-system-to-be-reviewed-image-will-be-captured-by-facial-recognition-device?amp",
-      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/politics/2745136-parliament-security-system-to-be-reviewed-image-will-be-captured-by-facial-recognition-device?amp",
-      "publishedDateTime": "2023-12-13T18:13:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

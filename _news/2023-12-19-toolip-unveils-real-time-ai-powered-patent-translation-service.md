@@ -1,34 +1,29 @@
 ---
 category: news
 title: "TooliP unveils real-time AI-powered patent translation service"
-excerpt: "TooliP has garnered attention as a specialized service that utilizes AI language models trained exclusively on patent documents. When compared to conventional methods, TooliP enables real-time translation of patent documents with a remarkable reduction of over 80% in the time required for translating and editing patent specifications."
-publishedDateTime: 2023-12-19T00:20:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/12/18/9935961.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/12/18/9935961.htm"
+excerpt: "TooliP is a service that facilitates the instantaneous translation of patent documents through the utilization of AI language models specifically trained on patent-related content. Launched on November 13,"
+publishedDateTime: 2023-12-19T00:00:00Z
+originalUrl: "https://www.asiaone.com/business/toolip-unveils-real-time-ai-powered-patent-translation-service"
+webUrl: "https://www.asiaone.com/business/toolip-unveils-real-time-ai-powered-patent-translation-service"
 type: article
-quality: 19
-heat: -1
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "Sidewalk Entertainment to Showcase Real-time Motion Tracking AI Tech at CES 2024"
-    excerpt: "After MWC 2023, at CES 2024, Sidewalk Entertainment will demonstrate avatar's real-time synchronization with user movements and their intention"
-    publishedDateTime: 2023-12-19T09:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/sidewalk-entertainment-to-showcase-real-time-motion-tracking-ai-tech-at-ces-2024-1032912471"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
+images:
+  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Dec2023/TooliP_unveils_real_time_AI_powered_patent_translation_service.jpg?h=48d87075&itok=Bx4umPt3"
+    width: 600
+    height: 316
+    isCached: true
 
-secured: "H9Z5TaMq+uRNNcVrLQR6JoeMi5helyFDWZiC93vGz07zZmdwuQNeGufY4AYLT3t7wvJDt0Qlf8l171Sq/lOG5yaIhJgUI7NvTkNF2W+AfWHh2zTdUkpsQOPG9/TDHEK0aihNwC7Qr8d/3KgK/oYU/RtHsLdI4Jp5SBkn7uIqXTsnnyKtlEkrrXR/vVPhFjeL+bS3RdgxWJFeqO6Sjv32xG9t2mCnvZVGgGfywaG0Vh9BuHN0HLEeCX5RRAYA2HzvKQeqV4PH902tPWbj9mZe0+fuAz8ryWyuLujZq34rRSCTi+HXOMDi4V/U0RAcWUbQEcw9pSlh17+BfR9FTZM5Gq/0C7LPk+XghVvCZvdc2xc=;7HbNuVjQedNr5S2d5xSkyA=="
+secured: "m/NgGTTcnymUn+0ES5x8N4aEUEKYYmURfyoXr/ulVVGMoKm6vAzvrPK6P2xBMpFaNxdXFEno7mmenvEbAdFq1fjeFKvrdspFz8GYgWz7se8uENux4dFv+1LwziVznyD1XzbFVdd96pzgn39X7k15mYfBShj/yUrX5h4hg941l52OtZWp34tuB8qkrnLy5G6RKrmbRrI36jXZBHT4cOdt4l+g7dvKgsdiSt2G8Bk8cuMA8fcDCrEqrqylEccOjs39j3TL8+hUQJGodSgsLPDlxdyTMQHAl6/LV37th4MUjG23L0/DGOKqndoJEwa3dI0WcuqpfditQ4t+MLagbVZufIOdpdslTGukcdeTKt5MkwI=;WkyOXeamDWceVyPR/i/2EQ=="
 ---
 

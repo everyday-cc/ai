@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/deepminds-ai-finds-solution-to-decades
 webUrl: "https://thenextweb.com/news/deepminds-ai-finds-solution-to-decades-old-math-problem"
 type: article
 quality: 96
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://wp-assets.futurism.com/2023/12/deepmind-ai-math-solution.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Google’s DeepMind creates generative AI model with fact checker to crack unsolvable math problem"
-    excerpt: "Google's DeepMind creates generative AI model with fact checker to crack unsolvable math problem - SiliconANGLE"
-    publishedDateTime: 2023-12-15T00:06:00Z
-    webUrl: "https://siliconangle.com/2023/12/14/googles-deepmind-creates-generative-ai-model-fact-checker-crack-unsolvable-math-problem/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 58
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/whiteboard-with-formulas.jpg"
-        width: 1500
-        height: 1000
         isCached: true
   - title: "Google's DeepMind AI decodes age-old math equation, stumping humans"
     excerpt: "Google DeepMind has triumphantly cracked an age-old mathematical mystery using a method they are calling FunSearch. The math problem that FunSearch has solved is the famous cap set problem in pure mathematics, which has stumped even the brightest human mathematicians."

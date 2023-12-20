@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/101238-amd-mi300x-ai-accelerator-fas
 webUrl: "https://www.techspot.com/news/101238-amd-mi300x-ai-accelerator-faster-than-nvidia-h100.html"
 type: article
 quality: 69
-heat: 101
+heat: 99
 published: true
 
 provider:

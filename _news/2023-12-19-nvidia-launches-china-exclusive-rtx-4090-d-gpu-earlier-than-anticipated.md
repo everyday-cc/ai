@@ -39,20 +39,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "The Next AI Battle: Adding It to Existing Products"
-    excerpt: "We are closing this chapter of the AI wars.Since January or so, tech leaders, their customers and reporters have been haggling over advancements in large language models. We’ve been consumed by models,"
-    publishedDateTime: 2023-12-15T01:00:00Z
-    webUrl: "https://www.theinformation.com/articles/the-next-ai-battle-adding-it-to-existing-products"
-    type: article
-    provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 37
-    images:
-      - url: "https://tii.imgix.net/production/articles/11891/61569811-0dd1-42b7-8722-8d2aecf865b0-S343j7.png?fm=jpg&auto=compress&w=1200&frame=0"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "c7G5RUh/MuZtBC8L9fpMKGEsIlQqUUbr9m7q4vESRLhkzG2ovIeFSdJfP5P+TAfHJm98vUhxHzNfFpq9NUEs7BJ8ihDC/ZM3FCZho054TxAtu3JshIx1LAto11knSvppRBRxUnkkdGiTglYzVglXdZwJrFYZqxxEXnpLoUiAo4mWft8PoIXstiEbHSLEMU8TH/tlUfjdficUXcsblltBpAzuL5unxioG10v4K+f6XOJdIhc2Ph7fXdpLzkgB1qF4Kn3TJzktr2u41co85JJKXBZMGN74tO0P5RkvkM5z6puIzT07YwPmF6v2WEURIsCdaz3v8DwZj9Oaaona0xvHlGAyGRnQ8LabF5H5tDr3lxnleqmuo3C+b+yTINY/YLyZ9EJf3TLBp9gDwlWrmvyTfC7FiNmF5qoW4dxAClq2BaX4hF4jPgNTCq7MRz3hPdqgmmc9VjNZD/XDMxpSJfXNutPmAqdxQLeFciXW6Yp2/fYTr1Gq7Bm1HZ2dEsCODDYZOour/5Xb/QKzfpJf/ZTkbw==;McYHiIG7vqKrRAWQsEIvOg=="
 ---

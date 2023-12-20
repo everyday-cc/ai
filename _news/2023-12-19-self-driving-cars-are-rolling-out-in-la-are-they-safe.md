@@ -7,7 +7,7 @@ originalUrl: "https://www.kcrw.com/news/shows/greater-la/waymo/driverless-cars-r
 webUrl: "https://www.kcrw.com/news/shows/greater-la/waymo/driverless-cars-risks"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,14 @@ images:
 
 related:
   - title: "Self-Driving Cars Face Reality Check"
-    excerpt: "The development of self-driving cars is facing significant setbacks and disillusionment due to technical challenges, accidents, and a lack of practical understanding."
-    publishedDateTime: 2023-12-18T21:00:00Z
-    webUrl: "https://oilprice.com/Energy/Energy-General/Self-Driving-Cars-Face-Reality-Check.html"
+    excerpt: "One of the favorite shibboleths of the world's tech overlords is 'Move fast and break things.' It seems that one of the things that is now"
+    publishedDateTime: 2023-12-18T16:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/self-driving-cars-face-reality-check-1032910495"
     type: article
     provider:
-      name: Crude Oil Prices
-      domain: oilprice.com
-    quality: 24
-    images:
-      - url: "https://d32r1sh890xpii.cloudfront.net/article/718x300/2023-12-18_xs2dwzt3dh.jpg"
-        width: 718
-        height: 300
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
 
 secured: "Lm1lcGcSn+IHaAnLNHDtsxv108lobRtuR5qJzqzPeqRpaj/HpqtYgMsrQwxQhBZ3EpENfhVJ5Vg1ssGWf3oCHb3yQUu3aGcY9H6jQaIC/pVWsP/r0plDL6PWggmUhOwI2H3BcRVTlsp96Jeo25osWs5kkm0GU3UZxOySNlJaimecV1ck2OzqaJF57i+aev4Byi9mrhy+mIambf4zfuifDmiW0psbxKIpHz+rqWaEfEWB1H1SbkWUooUX8CQUiYJVaOXUWtf3x04aseSqy0iM+OlU0WpWGsbo1Ci3Ac1njcu0cdicgppcj6A43n4dQTL+mQu+KgOykAHuwX1KL8l3N04GZp6TCuh5aMmyGSAVUn4=;Qcu8PLCi38GT2O+w0nQ0IA=="
 ---

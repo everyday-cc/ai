@@ -2,6 +2,102 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-20-artificial-intelligence-can-predict-events-in-peoples-lives.md",
+      "title": "Artificial intelligence can predict events in people's lives",
+      "excerpt": "Artificial intelligence can analyze registry data on people's residence, education, income, health and working conditions and, with high accuracy, predict life events.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/12/231218125850.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/12/231218125850.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-20T00:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-12-20-microsoft-365-copilot-set-to-provide-a-generative-ai-revenue-boost.md",
+      "title": "Microsoft 365 Copilot Set To Provide A Generative AI Revenue Boost",
+      "excerpt": "Microsoft's new 365 Copilot generative AI assistant will begin to provide incremental revenue growth, with demand expected to ramp up over the next few years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robertdefrancesco/2023/12/19/microsoft-365-copilot-set-to-provide-a-generative-ai-revenue-boost/",
+      "originalUrl": "https://www.forbes.com/sites/robertdefrancesco/2023/12/19/microsoft-365-copilot-set-to-provide-a-generative-ai-revenue-boost/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 404,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65821a161d7392cf357b1997/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1353,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robertdefrancesco/2023/12/19/microsoft-365-copilot-set-to-provide-a-generative-ai-revenue-boost/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertdefrancesco/2023/12/19/microsoft-365-copilot-set-to-provide-a-generative-ai-revenue-boost/amp/",
+      "publishedDateTime": "2023-12-19T23:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-20-how-creators-can-use-ai-to-be-more-efficient-and-still-be-creative.md",
       "title": "How Creators Can Use AI To Be More Efficient And Still Be Creative",
       "excerpt": "According to Guy Armitage, Founder and CEO of Zealous, the AI ecosystem is moving so quickly it's hard for creators to grasp.",
@@ -61,7 +157,7 @@
       "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/12/19/ai-is-reshaping-chip-design-but-where-will-it-end/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -101,7 +197,8 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -113,7 +210,7 @@
       "originalUrl": "https://www.marketwatch.com/story/rite-aid-banned-from-using-ai-facial-recognition-in-ftc-settlement-73ac5f45",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -204,8 +301,8 @@
       "title": "Deal alert: Score $500 off the Samsung Jet Bot AI+ Robot Vacuum",
       "excerpt": "This is a rare chance to score the Samsung Jet Bot AI Plus Robot Vacuum for $799.99 and upgrade your smart home.",
       "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/p-3395866/",
-      "originalUrl": "https://www.androidauthority.com/p-3395866/",
+      "webUrl": "https://www.androidauthority.com/samsung-jet-bot-ai-plus-robot-vacuum-deal-3395866/",
+      "originalUrl": "https://www.androidauthority.com/samsung-jet-bot-ai-plus-robot-vacuum-deal-3395866/",
       "featuredContent": null,
       "highlight": null,
       "heat": 86,
@@ -514,7 +611,7 @@
       "originalUrl": "https://techcrunch.com/2023/12/19/startup-shutdowns-and-ai-showdowns-the-2023-chronicles/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -851,7 +948,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/19/how-banks-can-leverage-data-and-ai-to-strengthen-consumer-trust/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -1093,7 +1190,7 @@
       "originalUrl": "https://www.forbes.com/sites/jonmarkman/2023/12/18/teslas-ai-revolution-morgan-stanley-predicts-explosive-growth/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -1134,99 +1231,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-12-19-ceo-initiative-2023-where-do-we-start-pause-or-stop-with-ai.md",
-      "title": "CEO Initiative 2023: Where Do We Start, Pause, Or Stop With AI",
-      "excerpt": "December 18, 2023 00:00 AM UTC - Updated 1 hour ago Erik Brynjolfsson, Jerry Yang and Akiko Yamazaki Professor and Senior Fellow, Stanford Institute for Human-Centered AI (HAI), Julie Sweet, Chair and CEO, Accenture Hemant Taneja, Managing Director and CEO ...",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/videos/watch/ceo-initiative-2023%3A-where-do-we-start%2C-pause%2C-or-stop-with-ai/331ba556-0b4a-41cb-9cb0-3569dae6595b",
-      "originalUrl": "https://fortune.com/videos/watch/ceo-initiative-2023%3A-where-do-we-start%2C-pause%2C-or-stop-with-ai/331ba556-0b4a-41cb-9cb0-3569dae6595b",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2byebo1j9i40c.cloudfront.net/331ba556-0b4a-41cb-9cb0-3569dae6595b/Images/posterImage-ver2-1280x720.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/videos/watch/ceo-initiative-2023%3A-where-do-we-start%2C-pause%2C-or-stop-with-ai/331ba556-0b4a-41cb-9cb0-3569dae6595b/amp",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/ceo-initiative-2023%3A-where-do-we-start%2C-pause%2C-or-stop-with-ai/331ba556-0b4a-41cb-9cb0-3569dae6595b/amp",
-      "publishedDateTime": "2023-12-18T22:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-19-how-will-ai-revolutionize-talent-assessments-in-2024.md",
-      "title": "How Will AI Revolutionize Talent Assessments In 2024?",
-      "excerpt": "For decades, companies have relied heavily on selection tools like psychometrics (e.g. ability tests, personality assessments, work preference inventories), competency-based assessments (e.g. situational judgment tests),",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/happybytes/202312/how-will-ai-revolutionize-talent-assessments-in-2024",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/happybytes/202312/how-will-ai-revolutionize-talent-assessments-in-2024",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-12/pexels-google-deepmind-17483868.jpg?h=4f52e0ef&itok=0WmKPJMA",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/us/blog/happybytes/202312/how-will-ai-revolutionize-talent-assessments-in-2024?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/happybytes/202312/how-will-ai-revolutionize-talent-assessments-in-2024?amp",
-      "publishedDateTime": "2023-12-18T22:48:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

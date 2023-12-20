@@ -1,0 +1,77 @@
+---
+category: news
+title: "FTC blames Rite Aid for ‘reckless’ AI facial recognition, bans use"
+excerpt: "The FTC said Tuesday the retailer “failed to implement reasonable procedures and prevent harm to consumers” in its use of the technology in hundreds of stores.\""
+publishedDateTime: 2023-12-19T23:09:00Z
+originalUrl: "https://www.securityinfowatch.com/retail/article/53081012/ftc-blames-rite-aid-for-reckless-ai-facial-recognition-bans-use"
+webUrl: "https://www.securityinfowatch.com/retail/article/53081012/ftc-blames-rite-aid-for-reckless-ai-facial-recognition-bans-use"
+type: article
+quality: 54
+heat: -1
+published: false
+
+provider:
+  name: Security
+  domain: securityinfowatch.com
+
+topics:
+  - Computer Vision
+  - AI
+
+images:
+  - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/12/6582202c00d54b001e5f3615-federal_trade_commission.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+    width: 1200
+    height: 630
+    isCached: true
+
+related:
+  - title: "Rite Aid Banned From Using AI Facial Recognition in FTC Settlement"
+    excerpt: "Rite Aid has been banned from using facial-recognition technology for surveillance purposes for five years as part of a settlement with the Federal Trade Commission. The bankrupt retailer on Tuesday settled charges by the FTC that it had failed to put in ..."
+    publishedDateTime: 2023-12-19T22:27:00Z
+    webUrl: "https://www.marketwatch.com/story/rite-aid-banned-from-using-ai-facial-recognition-in-ftc-settlement-73ac5f45"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/rite-aid-banned-from-using-ai-facial-recognition-in-ftc-settlement-73ac5f45"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/rite-aid-banned-from-using-ai-facial-recognition-in-ftc-settlement-73ac5f45"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 104
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "FTC Bans Rite Aid From Using AI Facial Recognition Technology In Settlement"
+    excerpt: "FTC says Rite Aid technology falsely tagged consumers, particularly women and people of color, as shoplifters."
+    publishedDateTime: 2023-12-19T22:05:00Z
+    webUrl: "https://www.forbes.com/sites/brucejapsen/2023/12/19/ftc-bans-rite-aid-from-using-ai-facial-recognition-technology-in-settlement/"
+    ampWebUrl: "https://www.forbes.com/sites/brucejapsen/2023/12/19/ftc-bans-rite-aid-from-using-ai-facial-recognition-technology-in-settlement/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucejapsen/2023/12/19/ftc-bans-rite-aid-from-using-ai-facial-recognition-technology-in-settlement/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 102
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5f6c9f73a2608cd44cbe42fb/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
+  - title: "FTC bans Rite Aid from using facial recognition surveillance for five years"
+    excerpt: "The FTC alleges that from 2012 until 2020, Rite Aid scanned the faces of shoppers across hundreds of locations to identify suspected thieves."
+    publishedDateTime: 2023-12-19T23:13:00Z
+    webUrl: "https://venturebeat.com/automation/ftc-bans-rite-aid-from-using-facial-recognition-surveillance-for-five-years/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 82
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/12/DALL·E-2023-12-19-18.04.54-A-person-standing-in-line-at-a-pharmacy-counter-with-their-face-being-scanned-by-a-wireframe-beam-of-light.-The-scene-shows-a-busy-pharmacy-environme.png?w=1200&strip=all"
+        width: 1199
+        height: 685
+        isCached: true
+
+secured: "HWi3ah+VXoKLEcxx51gBG8fmEjtdVs348WOXZh4rSTix7T46sBSlV0hKFymnNS/re9wbLZDm0uClXQZjt2wtvpvkFmPkNCDhY7QPNiQh45igOTzzM2qy5Jng91zL4Ett9/cvMR8wAcM0JIJM9VkPV4U/SXasZedWMVChTiUWC89/3WKzbbqlg37c8ePPy15w6PFxHq0ziIa/aGcR2FSpMnuPfWaxUnD4Pj0ZxC7UvFRZJU4GH6iv1DGyixiMTqT7eeGR7xRpk7rovHxM+cIDNRTyWscTypFOhNxlCCdzpAyQLLoLpr6QHCGAFPuAym08zDHC6QpGySLY1TMxEFN9eE5Gv8Am3mQFbGSCMQ3udJY=;vISjndieWDAbnHgksYk8uw=="
+---
+

@@ -2,6 +2,110 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2023-10-16-humanes-ai-pin-could-authenticate-with-your-heartbeat.md",
+      "title": "Humane's AI Pin Could Authenticate With Your Heartbeat",
+      "excerpt": "Humane wants to make sure your sweater won't get in the way of innovation.  The start-up filed a patent application for a system",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/10/16/humanes-ai-pin-could-authenticate-with-your-heartb/",
+      "originalUrl": "https://www.fool.com/investing/2023/10/16/humanes-ai-pin-could-authenticate-with-your-heartb/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thedailyupside.com/wp-content/uploads/2023/10/humane-1200x1247.jpg",
+          "width": 1200,
+          "height": 1247,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-16T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-16-metas-unique-approach-to-developing-ai-puzzles-wall-street-but-techies-love-it.md",
+      "title": "Meta's unique approach to developing AI puzzles Wall Street, but techies love it",
+      "excerpt": "To help with the computationally intensive process of training gigantic AI models like Llama, Meta has been using its own Research SuperCluster supercomputer, built to incorporate a whopping 16,000 Nvidia A100 GPUs, the AI industry’s “workhorse” computer chips.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/10/16/metas-open-source-approach-to-ai-puzzles-wall-street-techies-love-it.html",
+      "originalUrl": "https://www.cnbc.com/2023/10/16/metas-open-source-approach-to-ai-puzzles-wall-street-techies-love-it.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107307714-1695846630469-gettyimages-1693640169-AFP_33WW2FR.jpeg?v=1697461201",
+          "width": 2237,
+          "height": 1376,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/10/16/metas-open-source-approach-to-ai-puzzles-wall-street-techies-love-it.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/10/16/metas-open-source-approach-to-ai-puzzles-wall-street-techies-love-it.html",
+      "publishedDateTime": "2023-10-16T15:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-10-16-ibm-named-a-leader-in-the-2023-gartner-magic-quadrant-for-api-management.md",
       "title": "IBM Named a Leader in the 2023 Gartner Magic Quadrant for API Management",
       "excerpt": "IBM is helping Businesses create APIs to get the data they need to power their applications and experiences, and scale their operations.\nThe post IBM Named a Leader in the 2023 Gartner Magic Quadrant for API Management appeared first on IBM Blog.\n",
@@ -1079,109 +1183,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-16-singapore-and-us-sync-up-on-ai-governance-and-set-up-joint-group.md",
-      "title": "Singapore and US sync up on AI governance and set up joint group",
-      "excerpt": "Both nations have mapped their respective AI governance frameworks to ease compliance and they will also establish a group to exchange insights on responsible innovation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/singapore-and-us-sync-up-on-ai-governance-and-set-up-joint-group/",
-      "originalUrl": "https://www.zdnet.com/article/singapore-and-us-sync-up-on-ai-governance-and-set-up-joint-group/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/ebd9803869329e487c3c2d34f267e836ca4f73ba/2023/10/13/356ca46e-a25e-4006-b1be-a6047c10dd86/gettyimages-1436010616.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-and-us-sync-up-on-ai-governance-and-set-up-joint-group/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-and-us-sync-up-on-ai-governance-and-set-up-joint-group/",
-      "publishedDateTime": "2023-10-16T07:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-16-zib-digital-talks-about-ai-driven-digital-marketing.md",
-      "title": "Zib Digital Talks About AI-Driven Digital Marketing",
-      "excerpt": "AI driven technology is having a profound impact on various aspects of digital marketing, from content creation to personalisation,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/zib-digital-talks-about-ai-driven-digital-marketing-1032706168",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/zib-digital-talks-about-ai-driven-digital-marketing-1032706168",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/mmstudio-images/gallery/JrhKakX8mhdHWEedVM3ddoCfgoG3/89110425-1697426395-1.jpg",
-          "width": 800,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-16T07:48:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],
