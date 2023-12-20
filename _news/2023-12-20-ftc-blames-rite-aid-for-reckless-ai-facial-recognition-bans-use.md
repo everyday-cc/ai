@@ -71,7 +71,37 @@ related:
         width: 1199
         height: 685
         isCached: true
+  - title: "Rite Aid banned from using AI facial recognition technology, US FTC says"
+    excerpt: "Pharmacy chain Rite Aid will be prohibited from using facial recognition technology for surveillance purposes for five years to settle U.S. Federal Trade Commission charges it harmed consumers, the FTC said on Tuesday."
+    publishedDateTime: 2023-12-19T21:51:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2752044-rite-aid-banned-from-using-ai-facial-recognition-technology-us-ftc-says"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2752044-rite-aid-banned-from-using-ai-facial-recognition-technology-us-ftc-says?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2752044-rite-aid-banned-from-using-ai-facial-recognition-technology-us-ftc-says?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 73
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_01_41_8935244.jpg?width=1280"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "FTC calls pharmacy Rite Aid “reckless” after facial recognition use in stores"
+    excerpt: "The FTC said Rite Aid had acted recklessly when it used the technology in its stores from 2012 to 2020 to capture images of its customers in an effort to decrease the number of shoplifting incidents. Customers who had acted suspiciously had their faces saved in a database, sometimes at the side of personal information."
+    publishedDateTime: 2023-12-20T02:17:00Z
+    webUrl: "https://siliconangle.com/2023/12/19/ftc-calls-pharmacy-rite-aid-reckless-facial-recognition-use-stores/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 51
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/nick-loggie-fRVPzBYcd5A-unsplash.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
-secured: "HWi3ah+VXoKLEcxx51gBG8fmEjtdVs348WOXZh4rSTix7T46sBSlV0hKFymnNS/re9wbLZDm0uClXQZjt2wtvpvkFmPkNCDhY7QPNiQh45igOTzzM2qy5Jng91zL4Ett9/cvMR8wAcM0JIJM9VkPV4U/SXasZedWMVChTiUWC89/3WKzbbqlg37c8ePPy15w6PFxHq0ziIa/aGcR2FSpMnuPfWaxUnD4Pj0ZxC7UvFRZJU4GH6iv1DGyixiMTqT7eeGR7xRpk7rovHxM+cIDNRTyWscTypFOhNxlCCdzpAyQLLoLpr6QHCGAFPuAym08zDHC6QpGySLY1TMxEFN9eE5Gv8Am3mQFbGSCMQ3udJY=;vISjndieWDAbnHgksYk8uw=="
+secured: "wkNiB30hWLqg8fqIq+w5IScjxpkCI9Od3hosznj+rIEfyaDEOt9xQN4lw+Thibs7HNiKyLew4TcbLhQtUvnqF4Gp74BFoL2FGkFNod53m7GHYjfSJHuHAlWKN8A2zzsyXF7gO6iZemxsshsv8spxcYRF9jyvbX62t0IgmXlAzIotLtD+EYFO3FccKK5HB79I/uNQheEYxX5RjmuHZi/cFc4bMP3FLYLH/Ltwv2RvNvEeh9j9ZXGIRfbyiB9eRZZ7BT2KLZKuAVL5H9JB831OUs6MvYB6zNeKYUktnL6iijn6cLzHESgo1lvoXqTAd5rDUyWqpuwPeMy+RvajflIHM3NGv9R+7DvZBbP/fIOSvgd8Gj/O61ZfXK8SYIQfZmCoC60BDjVIsWQPRB67U9I20At+q4dT4/ssCaSS/CbQzgHb+NFQvAZbccXJnsEMfd55SblrlcvPB3X/wIXHuYJyS4wLrQ502OblHru2pOVKWFEsW5wvA5TWwTm9YeZkigzNijZwY2bnl/wum9VP1t5LTw==;tP3W2h+f5Fm8SZiuA00mzA=="
 ---
 

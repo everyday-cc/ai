@@ -9,7 +9,7 @@ ampWebUrl: "https://www.coinspeaker.com/intel-ai-chips-intc-stock/amp/"
 cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/intel-ai-chips-intc-stock/amp/"
 type: article
 quality: 66
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -51,20 +51,6 @@ related:
       - url: "https://cdn.technobezz.com/c/intel_core_ultra_holthaus_jpg_rendition_intel_web_1648_927_d97184be91/intel_core_ultra_holthaus_jpg_rendition_intel_web_1648_927_d97184be91.jpg"
         width: 1102
         height: 927
-        isCached: true
-  - title: "Intel’s new chip Gaudi3 competes with Nvidia and AMD"
-    excerpt: "Intel launched a range of new products, including Gaudi3, a chip for generative AI software, Core Ultra, a chip for Windows laptops and PCs, and Xeon, a chip for servers."
-    publishedDateTime: 2023-12-15T02:52:00Z
-    webUrl: "https://interestingengineering.com/innovation/intels-new-chip-gaudi3-competes-with-nvidia-and-amd"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/12/15/image/jpeg/wYkj6XdZYwfk4JfVqMMfH13lZNZ5vQC6qujPEM9v.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Lenovo unveils new AI PC experiences powered by Intel Core Ultra processors"
     excerpt: "Geek Stream ▾ - Lenovo unveils new AI PC experiences powered by Intel Core Ultra processors - - Absolute Geeks"

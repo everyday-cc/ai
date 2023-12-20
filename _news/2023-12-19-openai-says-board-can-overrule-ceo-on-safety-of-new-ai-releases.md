@@ -36,6 +36,20 @@ related:
         width: 1280
         height: 717
         isCached: true
+  - title: "OpenAI says board has final say on safety of new AI models as it plans to curb ‘catastrophic risks’"
+    excerpt: "OpenAI has laid out plans for how it says it will prevent the potential worst-case scenarios that could arise as unintended consequences of the powerful technology it is developing."
+    publishedDateTime: 2023-12-20T01:43:00Z
+    webUrl: "https://www.aol.com/openai-says-board-final-safety-234352839.html?ref=biztoc.com"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 23
+    images:
+      - url: "https://media.zenfs.com/en/aol_cnn_business_articles_764/cec6fb454d15d827323299ec5120afe9"
+        width: 960
+        height: 540
+        isCached: true
   - title: "OpenAI launches $10M grant program to keep AI from going rogue"
     excerpt: "AI will become significantly harder to manage in the next decade, making existing oversight techniques insufficient, the startup said Friday."
     publishedDateTime: 2023-12-15T20:53:00Z

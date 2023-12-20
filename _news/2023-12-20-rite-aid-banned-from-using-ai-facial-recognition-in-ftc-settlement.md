@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/rite-aid-banned-from-using-ai-
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/rite-aid-banned-from-using-ai-facial-recognition-in-ftc-settlement-73ac5f45"
 type: article
 quality: 104
-heat: 134
+heat: 154
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
         width: 1199
         height: 685
         isCached: true
+  - title: "Rite Aid banned from using AI facial recognition technology, US FTC says"
+    excerpt: "Pharmacy chain Rite Aid will be prohibited from using facial recognition technology for surveillance purposes for five years to settle U.S. Federal Trade Commission charges it harmed consumers, the FTC said on Tuesday."
+    publishedDateTime: 2023-12-19T21:51:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2752044-rite-aid-banned-from-using-ai-facial-recognition-technology-us-ftc-says"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2752044-rite-aid-banned-from-using-ai-facial-recognition-technology-us-ftc-says?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2752044-rite-aid-banned-from-using-ai-facial-recognition-technology-us-ftc-says?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 73
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_01_41_8935244.jpg?width=1280"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "FTC blames Rite Aid for ‘reckless’ AI facial recognition, bans use"
     excerpt: "The FTC said Tuesday the retailer “failed to implement reasonable procedures and prevent harm to consumers” in its use of the technology in hundreds of stores.\""
     publishedDateTime: 2023-12-19T23:09:00Z
@@ -74,6 +90,20 @@ related:
       - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/12/6582202c00d54b001e5f3615-federal_trade_commission.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
         width: 1200
         height: 630
+        isCached: true
+  - title: "FTC calls pharmacy Rite Aid “reckless” after facial recognition use in stores"
+    excerpt: "The FTC said Rite Aid had acted recklessly when it used the technology in its stores from 2012 to 2020 to capture images of its customers in an effort to decrease the number of shoplifting incidents. Customers who had acted suspiciously had their faces saved in a database, sometimes at the side of personal information."
+    publishedDateTime: 2023-12-20T02:17:00Z
+    webUrl: "https://siliconangle.com/2023/12/19/ftc-calls-pharmacy-rite-aid-reckless-facial-recognition-use-stores/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 51
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/nick-loggie-fRVPzBYcd5A-unsplash.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "mNRBy0fBVMMH78paVWpT0THM3A5Hezeg3qlQgU9Jw/EXsmt9bdRK3XbBqk/hZKIRrD20i3/YzbSgUOtbL1NLe5Wla1gw5YmSEAxeyTus6tE7qNaRKdjy1HI61HDXvP1sAG+dLGbW51TEC0tgiX736R1h/tvQLtDKIvuf/2R490E4UdBBwqqS1fKgSkdcRwQI3AktcGhBJ/z5HfJWfzv4+/Fni22NH745E6SKYDJZ8Ip/X12wGDU8kNy3DJgMbCKt8shNpr1sLvCp4Lz/l+JzVmIYCzXjyTTlKJp+HnSsurabwQpWFR8s67MLT19S2dALbuBlLNTrvomRI99nWm10YkxncfCeZ/81SM431D/Md1Q=;ecwCmkxA/bVf/H7p3mm1Ag=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2023/12/15/acer-predator-triton-neo-16-
 webUrl: "https://www.gizmochina.com/2023/12/15/acer-predator-triton-neo-16-laptop-launched/"
 type: article
 quality: 65
-heat: 125
+heat: 115
 published: true
 
 provider:
@@ -94,20 +94,6 @@ related:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
     quality: 19
-  - title: "GIGABYTE Introduces New AORUS 17 and AORUS 15 AI-Powered Gaming Laptops with Intel(R) Core(TM) Ultra 7 Processors"
-    excerpt: "GIGABYTE, the world's leading computer brand, proudly introduces the latest evolution in gaming laptops for 2024 - the AORUS 17 and AORUS 15 - delivering cutting-edge performance in their signature sleek and portable package."
-    publishedDateTime: 2023-12-15T01:08:00Z
-    webUrl: "https://www.newswit.com/en/ifkr9tfte2rr0px8ssecufotv8zjeswh"
-    type: article
-    provider:
-      name: academy
-      domain: newswit.com
-    quality: 18
-    images:
-      - url: "https://www.newswit.com/storage/images/iqne/0pr/6vd5b751d3su3ifffv7tjieyc/0-GIGABYTE.jpg.webp"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "/0aoaa2sviOLF+14xEQOPrNDJnafDgQMZoPsWgtScFofxyu67z4tyLdz+rcNslhbFedtsRD2LmjGgm0+DmRX1VBrecMg+IUmblnz6pdGiFaaW1xWz1VyI8+exUjNSiRkb0gjFgEliph0dO5dJL++Vs3k4i/++51UTe/jES03CjAJi4FYpnJ753Ac7Tn52vig+FLB/DrefKgvm3QxEqWZZU/WX0CdUNX3gkTITo3s4e8Eg2lFBIvPdqE0VkA3xU0RHUpf9VPjsQTrsZIeTk/xY9+JWv63mYoI1Qw+tFNi09WUU2TgeeL6svri/MyCx26FgIftIJygRkaFu4Vm8WMjTO2NmeMN0Z1CqSog7EwKZq4=;WOWmsknQ9vwjCWkPn46eNA=="
 ---

@@ -40,15 +40,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "None of these anchors are real: Channel 1 plans for AI to generate a news broadcast"
-    excerpt: "Channel 1 AI released a promotional video explaining how the service will provide personalized news coverage to users from finance to entertainment."
-    publishedDateTime: 2023-12-15T01:41:00Z
-    webUrl: "https://www.usatoday.com/story/tech/news/2023/12/14/channel-1-ai-news/71925360007/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 13
 
 secured: "UVTrniIuWtedtrZ4WD5sgeddlQv8wcUPO1qVxCpOiPXAXiiK+1DBKXG3iGTggLP/e16dT4HgNyMJWJhMS13aOqVwz8CXlvWrrHB8v5uZPX+uq2S/zqi/3CsuQv3eCRDG/6QX7oJceC44AmwdwmpfhtdjcxHhC1m5OdXE0rxdVgeR8V+9UOyaPMjXVB1ONellpk3gJbUqzuXW47piEv4SllKAdIbzz3sph1qls3jN273fdtR8rAIWqE8HNEs4rTgyV3R5X9uFWWF4+OFgJ2ViCE+yP4ZqOItH+VAX4gt1JevSVXuBrU5McAiWd0EUwlmSi7NLquBERlD3wF3NHs0XDq2HubcBA2covfvzuK6IV77HM5Z/gk/F3z/6HRb459J6pJH25/Ggc97q1W54ok06Ix+DOphO0D80rMv+a4jNmPMOz2+TJ+nHF8xiGNQ4arkMGbmt8d0J5QZiNlQ54esdrr7R7X0qihInISxfNu+BQV6RdEnXO6kODlPd0iapZE55zhCfSyqzb4KOakP9HWd11w==;6P0qInlezhNFRcsbCenE3Q=="
 ---

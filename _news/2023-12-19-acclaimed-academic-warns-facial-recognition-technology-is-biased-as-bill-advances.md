@@ -24,6 +24,22 @@ images:
     height: 1687
     isCached: true
 
+related:
+  - title: "Academics work on voice-recognition advances"
+    excerpt: "Researchers from the University of Glasgow have conducted a study using wireless sensors to analyse muscle movements, with the resultant data being made freely available to support new tech developmen"
+    publishedDateTime: 2023-12-20T01:01:00Z
+    webUrl: "https://www.publictechnology.net/2023/12/20/society-and-welfare/academics-work-on-voice-recognition-advances/"
+    type: article
+    provider:
+      name: Public Technology
+      domain: publictechnology.net
+    quality: 24
+    images:
+      - url: "https://www.publictechnology.net/wp-content/uploads/2023/12/woman-1696756-scaled.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
+
 secured: "mVzqvvyIjUeQW+Q7HQvRnrkqqYpXvetK7w3t4mX/ZNS+p8Kk0/q3I7/aRkJ7yoxQe5o4VKz4kbteeOQbkBMIi2s94eCPvvjUZTMQJ9/ALkCOz3RepvG/7vWv7pYEO7cq1ylppeCm8m4Q0776jxT4RMCouSwWMIKXwCzWs85Ax264BEirwyOdldCxVxzekkhfc2z9f84PgbTpk5VOGIkB+5c4cNv1W1GAnsqSwooRDVouKWAbR/2XVd239gmvx9pMWWdUoSgk8JjRP0pYkffZCVq78HEXCGYPfFm9T7nuoTAU+FdkkMV9zSFpHLD/RqOmzpK5qaiecjADN5WHS70zfONqx8LeBC5V6svg8sqieuCO08vFX4GlQY+I6rlJpwcTb78br5p11SygwMNp58z2oNRDNSRR+N3+d0GqnTvVuwkTZtnrkKEebR0sY5agQI/T6zztiufZrAGQJ0x66oiIKJHVJFgMO1lGSQ5jlWZqdtJLxKtbgkTWZam/hInAUQUoMIaITu6nVvAenYkLwcd/mw==;ZlcMwCuuTKXKAse6r5ASdA=="
 ---
 

@@ -41,22 +41,6 @@ related:
         width: 1353
         height: 900
         isCached: true
-  - title: "Alphabet Needs to Show Path to AI Sales in Race With Microsoft"
-    excerpt: "“The whole business model depends on getting this right,” said Gene Munster, co-founder and managing partner at Deepwater Asset Management, whose firm holds the stock. “If they can nail multi-modal generative AI, that will draw usage to Google, and that increased usage will protect and grow the search business.”"
-    publishedDateTime: 2023-12-15T01:46:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/alphabet-needs-to-show-path-to-ai-sales-in-race-with-microsoft-71702574596587.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/alphabet-needs-to-show-path-to-ai-sales-in-race-with-microsoft-71702574596587.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/alphabet-needs-to-show-path-to-ai-sales-in-race-with-microsoft-71702574596587.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 91
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2023/12/15/1600x900/USA-CHIPS-ALPHABET-0_1663336524425_1663336524425_1702604579880.JPG"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "TomTom and Microsoft develop in-vehicle AI voice assistant"
     excerpt: "TomTom has teamed up with Microsoft to launch an AI assistant for vehicles, enabling drivers to converse with their car."
     publishedDateTime: 2023-12-19T15:41:00Z
@@ -159,6 +143,22 @@ related:
         width: 360
         height: 202
         isCached: true
+  - title: "Google Maps rival TomTom creates AI-based conversational assistant for vehicles with Microsoft"
+    excerpt: "Digital mapping specialist TomTom said on Tuesday it has partnered with tech giant Microsoft to create an artificial intelligence (AI)-powered conversational assistant for vehicles."
+    publishedDateTime: 2023-12-20T01:55:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/google-maps-rival-tomtom-creates-ai-based-conversational-assistant-for-vehicles-with-microsoft-71703007416998.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/google-maps-rival-tomtom-creates-ai-based-conversational-assistant-for-vehicles-with-microsoft-71703007416998.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/google-maps-rival-tomtom-creates-ai-based-conversational-assistant-for-vehicles-with-microsoft-71703007416998.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 62
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2023/12/20/1600x900/TOMTOM-RESULTS--0_1703037060640_1703037087769.JPG"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Dell, Microsoft, Lenovo Laptops to Soon Feature Intel’s New Chip with Built-in AI Capabilities"
     excerpt: "Intel, a leading technology company, announced Thursday that numerous personal computer manufacturers are utilizing their latest chip. This strategic move aims to entice consumers to upgrade their machines for the dawn"
     publishedDateTime: 2023-12-15T09:10:00Z
@@ -234,6 +234,20 @@ related:
       - url: "https://www.absolutegeeks.com/wp-content/uploads/2023/12/e6a73560-9ab5-11ee-9dbf-ece57daa102b.png"
         width: 960
         height: 550
+        isCached: true
+  - title: "TomTom & Microsoft Generative AI for Automotive"
+    excerpt: "TomTom the location technology specialist, announced that, together with Microsoft, it is bringing the benefits of generative artificial intelligence (AI) to the global automotive industry."
+    publishedDateTime: 2023-12-20T01:05:00Z
+    webUrl: "https://www.autoconnectedcar.com/2023/12/tomtom-microsoft-generative-ai-for-automotive/"
+    type: article
+    provider:
+      name: autoconnectedcar.com
+      domain: autoconnectedcar.com
+    quality: 54
+    images:
+      - url: "https://cdn.autoconnectedcar.com/wp-content/uploads/2023/12/microsoft-css_og_1200x630px_nbb-1024x538.jpg"
+        width: 1024
+        height: 538
         isCached: true
   - title: "LTIMindtree and Microsoft collaborate to deliver an AI-powered employee experience"
     excerpt: "LTIMindtree, a global technology consulting and digital solutions company, is announcing a strategic collaboration with Microsoft to drive the delivery of effective and personalized employee and customer experiences."
@@ -401,6 +415,6 @@ related:
       domain: cnbctv18.com
     quality: 19
 
-secured: "+0yrrBwNVeJXhfYXyIbBy8Wp2yLxCAy7GqSP5hgKECRxpPbIZlw4Kef7PIAHucOYRKuRebebX4cTbtkeCanulwM3fEidAztTUzVHLdxjL1h1LMjr2B5EpvCCOGx5hB0GiTUUVG6W0Yn/+k2X2feZYigf6gQU3bestVN6EtZmRJgHAmgONYwJJjaSmf/eEozeSZVX4A8cLM/7HoX9dUCmOqp7uETd8ejTQpjiGmZMc55pr1nRJd5pTcW2qWVVLMsbWi0cfwEZeWDxcrpmG3WSKJWipegrJqvusXcRedkzR6+SQJyyTDZMkis0yMFmpoXiEI533UO0EDeGT13LmVBHidqSpFS8wCLDKDAY6lFpMmI=;t+3RfUBc+Jt1k+EFTizDUA=="
+secured: "+5w/eGf5rVg7AMYxXKUf5FZDGHQxdg8wJ0XMYBWfe9XduIIFZ3Eg+EPLBlBShnbC7cPNslG/AlXpIDX61+8vpi7tlU+V2eeQ4Y0xlMqH01TR/nlP3xG2iUZ70FAbHT+dOlZWT28Z3RBxc+PK/RtS5yH+HbLDi2i2Qs+jK6yfg/VFprJzuENybhWd/ZA5VqTEOnCOZiAKYJisEgB1nxuzxyEukzYNLnwVRhCgUcTkRQAPz3i0KCY9PImvtYy+DVVrBsPrMUAVRQq14TMUkR+vY2kvCIBKQ33Qg/u5ugTUiYiU3KG+2EhGpjPR/tBv6iEQcPaOp09J36fVFH/GKUYGylqfpHFR6gYwKNiEo4w8/srb3lrIn1s6rhtiFgTsb2W7Ui+USIGIDxFn3JosFfwOIWftGhjshMZCef3Uyv4+rgQeiYQPnLBaokr+rSv4UnmaEU+Z0zvc/puZBmGL8n5i/JBezzG/1dd9OPFX7VHlJYt35tPKI8P98p12ztoUPQBz5vv4oVh5WfVTMFNif4suQQ==;vlfEiHPgasJweMEU7RGc/Q=="
 ---
 

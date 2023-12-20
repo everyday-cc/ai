@@ -127,20 +127,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Intel AI-centric chips pave the way for AI everywhere era across devices"
-    excerpt: "At the \"AI Everywhere\" event, Intel launched the 5th-gen Xeon processor, code-named Emerald Rapids, and Intel Core Ultra mobile processors to compete in an AI era. Intel also showcased the Gaudi3 AI accelerator. The premium content you are trying to open ..."
-    publishedDateTime: 2023-12-15T01:18:00Z
-    webUrl: "https://www.digitimes.com/news/a20231215VL200/ai-chips-intel.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 53
-    images:
-      - url: "https://img.digitimes.com/newsshow/20231215vl200_files/1_2b.jpg"
-        width: 1280
-        height: 854
-        isCached: true
   - title: "Intel unleashes AI chips for PCs and data centers, challenging AMD and Nvidia"
     excerpt: "Intel ushered in the AI PC era with Core Ultra chips tailored for Windows laptops and PCs and introduced new 5th gen Xeon server processors."
     publishedDateTime: 2023-12-18T01:30:00Z

@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Codenotary Introduces Trustcenter 4.0 with New Machine Learning Guided Search Engine"
-excerpt: "Codenotary, leaders in software supply chain protection, today announced Trustcenter 4.0 with sophisticated capabilities to manage data in the VEX (Vulnerability Exploitability eXchange) format with a newly-designed search engine guided by machine learning (ML)."
-publishedDateTime: 2023-12-19T17:07:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/12/19/9936561.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/12/19/9936561.htm"
+excerpt: "Company signs Swiss bank customer to improve its software security; Partners with Essentx to help enterprise customers prioritize and address software"
+publishedDateTime: 2023-12-20T00:28:00Z
+originalUrl: "https://www.01net.it/codenotary-introduces-trustcenter-4-0-with-new-machine-learning-guided-search-engine/"
+webUrl: "https://www.01net.it/codenotary-introduces-trustcenter-4-0-with-new-machine-learning-guided-search-engine/"
 type: article
-quality: 32
-heat: 32
+quality: 12
+heat: 12
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: 01Net
+  domain: 01net.it
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://images.tmcnet.com/tmc/world.jpg"
-    width: 1200
-    height: 627
-    isCached: true
-
-secured: "ypyeet/G9Qyt2tFeQQAplSWRFAnKKyNltRGuiAwNx0rvKgXNvfWfiUoH/42bsn6ZIhCqnMmImuYFcfBq4krQVsxT42XQB0qraaGWgmOXpy03jmFB6jDpMRVSZUUJXqnckkdcxd/ALo3L7JG79alF+fsgrdSoHNY80layZ8BJ2xNHa4zNZE9GWII0aP9kD55MKA6jlQA/jR1UGZB0vPxu/9uA4kE/ccPwYMY6UlcHxdc0eU5W//Gu3XdqoNrclSQdvCCkNWKdiPBQZ8nXyIudzYZZuezKdYYtBjyWaVIdydQXfcATwE8K7eC+qkP3qEjkxFDdS9PxvzC8h71r0lYU19nh086d+C6arOCpglZf330=;xALnt1dCZRZ7b77pJXYtlw=="
+secured: "GndkncnpdeoS13bb+aCReoVk2aXy/YM+0kh2EWDlJBG9g8HLQ8mi5waL+MbluhKwiRLE/cFQwMpbhWkjhYe0QMBCJN6LwQADJ6uBiVfkmbi43fO8NvZwr3mue5zZwfLdMlSrjeBJnRcGXebBGe3Y9jlxfuc31lGj/QGLB0ozAbW3NUJc6yCoeY2eh3k+tAs1vR4Q4TyetzBQXqYgV7iBz0KLByl6v8CjCFFMG/VfXL8iHb72WYPFzmFHZ78s6PdSNSVEYn0c9XXb2xvzLKxR3YExzZ2vJuOcs1EZ6CAjflo++ARaWcwd6CNedFiZ3b9N0JqI1QFJConDEfDMuvjn7afmV0xB8cU3EW5qU+wm/rwJifxmm2n2z12EicLTL1JSoNYkUx9JM80JHW++VDe+xkI6deVXZecArYNeMB+xAvq3E+EsJDO1MW9zXm/jrWqXZrONs3I7yw845/ffmeKCvab1iT1Bf+EmWTGMW8EHYZ1HMzxwhS21Y8LXjSDKYGtH655HaitwS5Ym/bdoKhj74w==;Cx9Q9hBiGqmseD1mPZ6L0w=="
 ---
 

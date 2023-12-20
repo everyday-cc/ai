@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailyitem.com/cnhi_network/ai-has-its-uses-but-isnt-clos
 cdnAmpWebUrl: "https://www-dailyitem-com.cdn.ampproject.org/c/s/www.dailyitem.com/cnhi_network/ai-has-its-uses-but-isnt-close-to-having-major-role-in-journalism/article_d6585372-facc-513b-a652-89428aed0f4b.amp.html"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 509
     height: 497
     isCached: true
+
+related:
+  - title: "AI and ethics in journalism"
+    excerpt: "Media organisations must develop policies for AI use and ensure transparency and ethical implementation. Technology has been a timeless force shaping the landscape of journalism from the telegraph in the 1840s to the recent surge of various generative Artificial Intelligence (AI) tools,"
+    publishedDateTime: 2023-12-19T16:58:00Z
+    webUrl: "https://kathmandupost.com/columns/2023/12/19/ai-and-ethics-in-journalism"
+    type: article
+    provider:
+      name: kathmandupost
+      domain: kathmandupost.com
+    quality: 54
+    images:
+      - url: "https://assets-cdn.kathmandupost.com/uploads/source/news/2023/opinion/DownShutterstock-1703005940.jpg"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "HOxjc5xFu4weAn0+TBoIzjsbnxEtWVZEZdN2lv1UHZmwxVJq4ux0lo38zRhXUxbitHljCZCzJqfFNExSbf3Rz5xuFH2YXfE1kmo7gi03zICrhFZ6E6iTCKGQ26YtXUD8ZqjtMa9NEi5ZhGtuwdx5Bdw26JQkf1N/IpL8N++Ov+spdR2Rrvhzfur2XvmpkjvJF9xtY83JIBrTMbQzd9zxE8GbID1Xfei196tiJKOmTkBs9rEY1d+BGZUcVi1MnReAEF6ku+Zg8Nq4pviFnTN7XLcisAaFnQxjVvqLUlmrL/Ob9VP/UK3SliUnBwzyG7TqkYh5bMJdzyhZVfozp86jwTVauyFci5Xvc7xeuy18unpV3+TvRG4GlpQ9ycaMUSY401PfRrxc2Jp4pFF7KbAhnFEAuAj5vAIr9cXuR5dSqQqxbuRQXvVBrWmDGEr5Av+SCWjwecBtCACWv+3fL0w55sg4DnXY2Zvu5AT53bodSAQda+0CgML9tgcEGONlal9PHVHNMPl5GVlx7p6YT5vzeg==;WjJJiPveDJBu2ecXmn2q3w=="
 ---

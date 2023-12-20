@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Facial Recognition Access Control Solutions Market Growth 2024: Global Research, Business Trends, And Statistics Analysis Forecast To 2031"
-    excerpt: "Global“Facial Recognition Access Control Solutions Market” Research report offering an insightful analysis of pivotal market dynamics and the prevailing supply-demand dynamics across diverse regional segments. The report conducts a thorough exploration ..."
-    publishedDateTime: 2023-12-15T02:21:00Z
-    webUrl: "https://menafn.com/1107601436/Facial-Recognition-Access-Control-Solutions-Market-Growth-2024-Global-Research-Business-Trends-And-Statistics-Analysis-Forecast-To-2031"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 5
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?445876"
-        width: 502
-        height: 250
-        isCached: true
 
 secured: "zQVcEdLDMhCUxflGGGi1B1+hsLyvl1Ep7w1auJYmbIiBDKXPqyh8fdhRAWrL1ufzlzN+LPXQpkl47x5KxIPXjhkqQTo1EDkyi5DcBpDHbWmdqzsg3XgrcUZPfbNK8te4JLqim1LKYm8AY0haVeB3ZWDxRQHGA/P1jrwpnD+HUSnvu6jQQnjZloMs97K5thReDObCf9vvCZwy3h5T+gkTAB4fGHRaIjLGBXsC1zFdEGgFyP1JT8unjZAtHx3wLa0xd+cn+urPBeH9EUc+JDGGwrKrw7Y96vPVIcrP50dBaEv8au+sYkr4dJayMWrpWz22WcoHq0JI/2dZNFNi1xjUx/LOdGxHLjU0bD2nps4nUzPbNzTxhlkHv/pumphrqLATBmvqrP2PmUYsJCII0epte2AA4Th+Aza0hyjDeq4XT4Hb+DO8cKYBe6lClVMtpCNKQdzwfoY+cv28ntOlRujqTzzbUVqQ0spH/5YzAGZQrHng1wY4n5KE6xQl3CvVtlyLh5ZxD+DewyY+EZPSAXPBnQ==;bBXk3+7XIrHbzDQuQHLnxQ=="
 ---

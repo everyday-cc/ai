@@ -89,20 +89,6 @@ related:
         width: 1500
         height: 1000
         isCached: true
-  - title: "GIGABYTE Introduces New AORUS 17 and AORUS 15 AI-Powered Gaming Laptops with Intel(R) Core(TM) Ultra 7 Processors"
-    excerpt: "GIGABYTE, the world's leading computer brand, proudly introduces the latest evolution in gaming laptops for 2024 - the AORUS 17 and AORUS 15 - delivering cutting-edge performance in their signature sleek and portable package."
-    publishedDateTime: 2023-12-15T01:08:00Z
-    webUrl: "https://www.newswit.com/en/ifkr9tfte2rr0px8ssecufotv8zjeswh"
-    type: article
-    provider:
-      name: academy
-      domain: newswit.com
-    quality: 18
-    images:
-      - url: "https://www.newswit.com/storage/images/iqne/0pr/6vd5b751d3su3ifffv7tjieyc/0-GIGABYTE.jpg.webp"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "ugPeq0YqLlonKIW6GLY9zBl2FikWi+TQLgm2OOPw+tT7SRJsfobzMd1V99/Wc0tiM6er9zxTXZ2cnT2RnlS7sfqmgB8N9HO26O4FTbDk2rUzlgkaAz1tOjJ/i9wF5g8B2lqnce+VZi+JOggT2LRIrdzlVHIHE05UE9ePhQSq/2SNo1KahC4l8qzkfGWduo26Q+9TWPyGFqq1MTF8uVr19raWpkGGbF11EkF8WPvVF6n6A2g+3FXTXpcP7BoA9unFknFjd+ERsUDlDX8lMAKFDARLifyP7ew67x5GsJCC1nDztuwHLsgUY882amoIKGkb6Lhx4+lTxZMOPOyAmp+QBohv0FwPsU1RLfsQifYQs46li7TCQJIohP37Px2DNB3iR0de/lTsXHoRcXM90OSI0QlTbiAhKG3iCCeOmtMvWb79D3c/c4tY1h2qNIdMn5p+qJGvMusUcDdDRDolaFaYXzgGw/QkuSpqgJsczyu0cymSbntOLgfvhlhBLvV3hUgI3Oo8oMRKy+GVnDBM80HSuw==;0YD+7+waizF8uL804HS/gQ=="
 ---

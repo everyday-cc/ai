@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "What ChatGPT thinks about Kevin McCarthy endorsing Trump"
-    excerpt: "As former House Speaker Kevin McCarthy leaves Congress, he has some new aspirations involving artificial intelligence — but what does AI think? CBS News chief political analyst John Dickerson asked one platform to weigh in."
-    publishedDateTime: 2023-12-15T02:23:00Z
-    webUrl: "https://www.cbsnews.com/video/chatgpt-kevin-mccarthy-endorsing-trump/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 39
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/12/15/9bdd3e08-a2cb-46d4-ba12-90a07006bd76/thumbnail/1200x630/98195cd860c8900fe1ebc653cbc9a308/mccarthy.jpg?v=5382e209c94ee904b3a96a69f8ca0ce0"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Chevrolet Used ChatGPT for Customer Service and Learned That A.I. Isn't Always on Your Side"
     excerpt: "Can artificial intelligence be too smart for its own good? While a promising use case for generative A.I. is handling simple customer service tasks, Chevrolet recently learned that integrating the tech into your website can lead to problems if you don't narrow the scope of its abilities."
     publishedDateTime: 2023-12-18T21:45:00Z

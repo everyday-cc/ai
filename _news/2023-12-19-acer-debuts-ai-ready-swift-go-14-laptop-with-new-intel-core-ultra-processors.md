@@ -90,20 +90,6 @@ related:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
     quality: 19
-  - title: "GIGABYTE Introduces New AORUS 17 and AORUS 15 AI-Powered Gaming Laptops with Intel(R) Core(TM) Ultra 7 Processors"
-    excerpt: "GIGABYTE, the world's leading computer brand, proudly introduces the latest evolution in gaming laptops for 2024 - the AORUS 17 and AORUS 15 - delivering cutting-edge performance in their signature sleek and portable package."
-    publishedDateTime: 2023-12-15T01:08:00Z
-    webUrl: "https://www.newswit.com/en/ifkr9tfte2rr0px8ssecufotv8zjeswh"
-    type: article
-    provider:
-      name: academy
-      domain: newswit.com
-    quality: 18
-    images:
-      - url: "https://www.newswit.com/storage/images/iqne/0pr/6vd5b751d3su3ifffv7tjieyc/0-GIGABYTE.jpg.webp"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "vdSawuM56kPWRjUpLs+pFOTmTbvhWdoEu6yDUDctqdAzczn4EynmhzVdBFqm+pk54Bc7MxbMc9uwa0Mm8NTQPuLWd1pCOs6oKQKRtaScI1S5zv+60jtTgJ3rI4oP1wiMbrkiapPG5/OXCdr3XvLm/L+aed3mWImxmWVFpc4KPNedp5b850whI2y1H5MhtCRib7eLpdlJn3ARpDHmq/zZJJf+texOjIK9bPt7ASg4Ipch8uvVscfVWXOb2b9TLKQxN2dURgcKHySOie5K2f2RPvY4P+fIWk8f7lzUVTDVm9xoOaQkJNyyzkAk4LkgAE7+P7oEImo7NWR/nF697pvyEZLgqPJADnNC1S6qOdAHOXA=;rTfvAkM/foz3eembqXUiCQ=="
 ---

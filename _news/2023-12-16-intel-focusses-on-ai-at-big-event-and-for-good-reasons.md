@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2023/12/15/intel-focusses-on
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/12/15/intel-focusses-on-ai-at-big-event-and-for-good-reasons/amp/"
 type: article
 quality: 89
-heat: 199
+heat: 189
 published: true
 
 provider:
@@ -130,20 +130,6 @@ related:
       - url: "https://www.ciodive.com/imgproxy/SoGgnBmj16nT7kMjoUhOvp7J4bM6oU-ny6WwesMiP5g/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTk1MTU2MjI3OF96dzNTU0RNLmpwZw.jpg"
         width: 770
         height: 435
-        isCached: true
-  - title: "Intel AI-centric chips pave the way for AI everywhere era across devices"
-    excerpt: "At the \"AI Everywhere\" event, Intel launched the 5th-gen Xeon processor, code-named Emerald Rapids, and Intel Core Ultra mobile processors to compete in an AI era. Intel also showcased the Gaudi3 AI accelerator. The premium content you are trying to open ..."
-    publishedDateTime: 2023-12-15T01:18:00Z
-    webUrl: "https://www.digitimes.com/news/a20231215VL200/ai-chips-intel.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 53
-    images:
-      - url: "https://img.digitimes.com/newsshow/20231215vl200_files/1_2b.jpg"
-        width: 1280
-        height: 854
         isCached: true
   - title: "Intel unleashes AI chips for PCs and data centers, challenging AMD and Nvidia"
     excerpt: "Intel ushered in the AI PC era with Core Ultra chips tailored for Windows laptops and PCs and introduced new 5th gen Xeon server processors."

@@ -46,6 +46,22 @@ related:
         width: 1067
         height: 800
         isCached: true
+  - title: "Can AI Chatbot GPT-4 Outperform Human Physicians?"
+    excerpt: "Is an artificial intelligence (AI) chatbot better at making diagnostic decisions under conditions of uncertainty than human medical doctors? A recent study examines the capabilities of OpenAI’s Large Language Model (LLM) Chat GPT-4 compared to human clinicians and reveals surprising results."
+    publishedDateTime: 2023-12-20T00:52:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202312/can-ai-chatbot-gpt-4-outperform-human-physicians"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202312/can-ai-chatbot-gpt-4-outperform-human-physicians?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202312/can-ai-chatbot-gpt-4-outperform-human-physicians?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-12/pic09152.jpg?itok=yvNlDSbC"
+        width: 1528
+        height: 800
+        isCached: true
   - title: "OpenAI ChatGPT VS Google Bard: Which AI chatbot is the real disruptor? – Business Today"
     excerpt: "FeedbackEver since OpenAI introduced its AI chatbot, ChatGPT, in November last year, we witnessed a sudden rise in generative AI chatbots in the industry. One"
     publishedDateTime: 2023-12-17T00:45:00Z
@@ -69,20 +85,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "5 questions about artificial intelligence, answered"
-    excerpt: "Artificial intelligence is one of the most incredible tools mankind has ever created. It’s also one of the most controversial. Some of AI’s pioneering researchers and developers think that, without proper management,"
-    publishedDateTime: 2023-12-18T05:00:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2023/12/18/artificial-intelligence-frequently-asked-questions/"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 37
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WAMJ6PSJ4RCT3EDACYU7WDGUOU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Chevy dealership’s AI chatbot suggests Ford F-150 when asked for best truck"
     excerpt: "As an AI, I don't have personal preferences but ... which works with car dealerships around the U.S. The tech startup with 150 workers monitors all activity, and noticed \"a ton of activity\" in Watsonville, Horwitz said. \"We took measures to block ..."
     publishedDateTime: 2023-12-19T12:02:00Z
