@@ -41,20 +41,6 @@ related:
         width: 1190
         height: 668
         isCached: true
-  - title: "GM’S Self-Driving Car Subsidiary Cruise Lays Off 900 Employees"
-    excerpt: "GM's self-driving car subsidiary Cruise has laid off 900 employees, or about 24 per cent of its workforce.According t"
-    publishedDateTime: 2023-12-15T04:52:00Z
-    webUrl: "https://menafn.com/1107600991/GMS-Self-Driving-Car-Subsidiary-Cruise-Lays-Off-900-Employees"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?214962"
-        width: 357
-        height: 250
-        isCached: true
 
 secured: "pOoesO2bjqNxvXkmphKjLLOhqHTA/ltfQO7wRZOd0gj3oinRw6ZBPbBOSliRR5lk0XqVW4w3Rlncigj/sJMv0hHHGaYJLaaacTncoMvy2jJpQTC9VtLsfGKrqUNFihJGfH89UWIvSEKMsi/KLP1QmhUESi/tHtlY2ThddmU+1IoO4P2Z4snFILucHFjjHHqFbzmcC8oIaSOjFkHO0FpYKguyNVgpDeg0oAapeX38SEEO96126WBaHSj8fiMXWnCVZ09QvkMFgQXVX1xJO8eEz+j3n3oUPO1B5R1G1cyAfpksDETLZYYK766cPVOEh+eY0HsObmzdEl1TE3wXKSLxo7lU7woBUnAwXUFpszjyeJU=;LdgroboSIvbvmee+791+Qw=="
 ---

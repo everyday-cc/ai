@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/12/19/alphabet-to-limit-election-queri
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/12/19/alphabet-to-limit-election-queries-bard-and-ai-based-search-can-answer.html"
 type: article
 quality: 87
-heat: 117
+heat: 137
 published: true
 
 provider:
@@ -46,6 +46,36 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Alphabet to limit election queries Google Bard and AI-based search can answer"
+    excerpt: "Google said it will restrict the types of election-related queries its chatbot Bard and search generative experience can return responses for."
+    publishedDateTime: 2023-12-20T04:02:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/alphabet-limit-election-queries-google-bard-ai-based-search-can-answer/article67656883.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/alphabet-limit-election-queries-google-bard-ai-based-search-can-answer/article67656883.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/alphabet-limit-election-queries-google-bard-ai-based-search-can-answer/article67656883.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 56
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/k55tuv/article67656884.ece/alternates/FREE_1200/Google_Top_Searches_99272.jpg"
+        width: 1200
+        height: 757
+        isCached: true
+  - title: "Google to restrict election-related queries on Bard, AI-powered Search"
+    excerpt: "Google will restrict certain types of election-related queries on AI chatbot Bard and AI-powered Search in preparation for the 2024 US Presidential el"
+    publishedDateTime: 2023-12-20T03:20:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-to-restrict-election-related-queries-on-bard-ai-powered-search/articleshow/106138152.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 39
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-106138143,width-1070,height-580,imgsize-1566910,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1069
+        height: 580
+        isCached: true
   - title: "5 questions about artificial intelligence, answered"
     excerpt: "Artificial intelligence is one of the most incredible tools mankind has ever created. It’s also one of the most controversial. Some of AI’s pioneering researchers and developers think that, without proper management,"
     publishedDateTime: 2023-12-18T05:00:00Z
@@ -75,6 +105,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "L2/7KrgAYP4Hf4+F18SY1dsIxqZd2gzxb9tvUzvXqiwQ2uBVrvzxZC+tMpQK3B5SYiOYCPsWbe0oz2U2+FfjnuJAYFFBjdzf+/SI2Nd8Vff+RrQYfrRisBeFgScEBWulENtl0n5M3V3ugzNyeYDQZZDiSRophbOzVyNCNZamnUEq5XT0abKoH5fgOsjDT3I4ytwT7Ma0znooOpulvtjL8Ch9MpiTNy+xnq+TjHL6NpRkpmMK6R7Pipbl2ftoLLCG9nqkLu+am5EI/O6USFJIe6wwolY12PS3RKdBKobH7a1FMTbL6ZliAUdJYuL7lYW75CIL/PONfEt10Rekg7apjDK5NjK2R/NqRD9tn1NIeGQ=;Mwno/f8Iuo1FXMjmUWFkPw=="
+secured: "EmxAnILF0UihwnxDenWaV6mEMjiOmIcqmP7tHI5DLak4FSAi1jWXBiwWiXWboq4VtlnkmI9qf3OXGl6Fc7i+FS+6+oHkVN1QLoj0gmjAJ8U/iVR81blQtUWf16cSlW+RcqjuUYMEENZDeyLGuPvA/szm20loywiuQIi6bGYs2nvAIPfu76NKgGiCq+/etqXhwwLFzavxgwNcMR1okHgLc4LD04n0pKC4YM9oOgpT/y3pKF5Fp/YCD1LP68NnSwEsfrF72ZCSlimk04vamVqtMfhAD1GAqeDXUJKE1rj82m5mXU9W1C5HHb3UCYPmX8ziKYNmF0yZ0Ijz0QzDY6lAGhBzMM8vyqK2ELTJXTv37Qqkkrs86TsCWe3lEyzFXte2iOFyWu15QqIZBZGHEhtnZ3dQ0Aj1ZFDgcfL9ctP3VeYnOp7jTVWb4KPsJaOW/1BzpNZbUE8KdwOhGaff9C1XNSsj7hi5pL5vYxPxtUFQHOD2BqsaxLVZw29Y0wieO/TfFrK79Ar6BiUqkI4uK5Z41Q==;xd+4vYaB2At0kNVnWBrdUg=="
 ---
 

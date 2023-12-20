@@ -73,6 +73,22 @@ related:
         width: 1199
         height: 685
         isCached: true
+  - title: "Bankrupt US pharmacy chain Rite Aid banned from using AI facial recognition"
+    excerpt: "Rite Aid deployed artificial intelligence-based facial recognition technology from 2012 to 2020 to identify shoplifters but the company falsely flagged some consumers as matching someone who had previously been identified as a shoplifter,"
+    publishedDateTime: 2023-12-20T03:29:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/rite-aid-banned-from-using-ai-facial-recognition/articleshow/106140361.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/rite-aid-banned-from-using-ai-facial-recognition/amp_articleshow/106140361.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/rite-aid-banned-from-using-ai-facial-recognition/amp_articleshow/106140361.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 72
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-195584,msid-106140432/rite-aid-facial-recognition.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "FTC blames Rite Aid for ‘reckless’ AI facial recognition, bans use"
     excerpt: "The FTC said Tuesday the retailer “failed to implement reasonable procedures and prevent harm to consumers” in its use of the technology in hundreds of stores.\""
     publishedDateTime: 2023-12-19T23:09:00Z

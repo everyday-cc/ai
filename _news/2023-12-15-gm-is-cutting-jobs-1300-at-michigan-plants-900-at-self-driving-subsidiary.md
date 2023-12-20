@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "GM’S Self-Driving Car Subsidiary Cruise Lays Off 900 Employees"
-    excerpt: "GM's self-driving car subsidiary Cruise has laid off 900 employees, or about 24 per cent of its workforce.According t"
-    publishedDateTime: 2023-12-15T04:52:00Z
-    webUrl: "https://menafn.com/1107600991/GMS-Self-Driving-Car-Subsidiary-Cruise-Lays-Off-900-Employees"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?214962"
-        width: 357
-        height: 250
-        isCached: true
   - title: "GM Laying Off Workers at 2 Plants, Self-Driving Subsidiary"
     excerpt: "General Motors on Dec. 14 announced it will lay off about 2,200 employees across its Cruise self-driving vehicle subsidiary and two Michigan plants where vehicle production is ending."
     publishedDateTime: 2023-12-15T17:26:00Z

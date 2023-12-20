@@ -43,6 +43,15 @@ related:
         width: 2200
         height: 1238
         isCached: true
+  - title: "Mercedes-Benz debuts turquoise exterior lights to indicate the car is self-driving"
+    excerpt: "Most street legal vehicles utilize a combination of three colored lights: white for headlights and reverse lights, red for tail and brake lights, and orange for"
+    publishedDateTime: 2023-12-19T18:02:00Z
+    webUrl: "https://www.techspot.com/news/101268-mercedes-benz-adds-turquoise-exterior-lights-denote-autonomous.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 28
   - title: "Mercedes adds a new car light color: Blue for self-driving"
     excerpt: "The Society of Automotive Engineers recommends this specific blue shade to signify autonomous vehicle operation, but Mercedes is the first automaker to receive approval for its use. The lights will appear at the back and front of the vehicle around the taillights and headlights."
     publishedDateTime: 2023-12-19T19:19:00Z

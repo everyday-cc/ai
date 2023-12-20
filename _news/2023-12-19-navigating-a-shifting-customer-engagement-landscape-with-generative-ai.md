@@ -7,7 +7,7 @@ originalUrl: "https://www.technologyreview.com/2023/12/18/1085299/navigating-a-s
 webUrl: "https://www.technologyreview.com/2023/12/18/1085299/navigating-a-shifting-customer-engagement-landscape-with-generative-ai/"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -16,31 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "The rise of generative AI: Navigating the impact of artificial intelligence on higher education – Illinois State University News"
-    excerpt: "This story was written by a human with help from artificial intelligence.A human researched the story, interviewed sources, and typed these words. Artificial"
-    publishedDateTime: 2023-12-15T04:05:00Z
-    webUrl: "https://www.inferse.com/840384/the-rise-of-generative-ai-navigating-the-impact-of-artificial-intelligence-on-higher-education-illinois-state-university-news/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 42
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/12/wp-header-logo-8065.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "New generation of chips will drive the AI wave"
-    excerpt: "The artificial intelligence chip industry has developed a newfound appreciation for high bandwidth memory, or HBM, the technology behind such lightning-fast data transfers. Analysts had once deemed it unlikely to ever become commercially viable when it was first launched in 2013."
-    publishedDateTime: 2023-12-19T00:01:00Z
-    webUrl: "https://www.ft.com/content/e5c97253-90f3-4158-846f-07aaf3945983"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
 
 secured: "xtkTi88N7ktUf4zdlJ7bQolsHRjtp1Dhl89jh5asX5bNcJimxDqBM9nRW30Nc10sh6iLjAbuNcjN3+cDILybk4B1daknfdAGAPClLz5PN+3JFy4U6Wjv4MxBBHv8gIGXyhB9sYK8FQrep6bzcDPy7FlypvK/QCMpZFoAu0948vPl0CSWfwPT3YVn11jUTYjdR81aaoR2XnnkLHHEX2B8T/C8/Xnz5IJ4rEbSHU4Dwd5PJSVpeja3nCr+S02JnJs7sUJh1qMIIO1TDFJNc48qogLmX6rWg2ZLDQDfi7G4dUM+795BBnOUZ0+rRl0wFSLuSwvPEpM/t1ccxBZsS+8ElXIYHEZpKqv6ChhUpoKXbkP+74o4ZrVwRr8nrerXukkOVku6fIGx6uSRwZgMw/Xdb40OHk3UaPslyUpNJUTL39HHPnGHzVDJBXExkWAGmOeYXQVEVIJB/7z6Nzt67+67NQo3aeTPiFOeQ++dIw+E/CMYsSnLsoVoEuJ9CjdbMCDNbE/cgQ0hkR1CQQ3MUjWocg==;3IFBbhlZ/05dyfNZK0HZEw=="
 ---

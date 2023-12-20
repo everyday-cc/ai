@@ -19,29 +19,43 @@ topics:
   - AI
 
 related:
-  - title: "The rise of generative AI: Navigating the impact of artificial intelligence on higher education – Illinois State University News"
-    excerpt: "This story was written by a human with help from artificial intelligence.A human researched the story, interviewed sources, and typed these words. Artificial"
-    publishedDateTime: 2023-12-15T04:05:00Z
-    webUrl: "https://www.inferse.com/840384/the-rise-of-generative-ai-navigating-the-impact-of-artificial-intelligence-on-higher-education-illinois-state-university-news/"
+  - title: "Inside Bayer’s embrace of generative AI"
+    excerpt: "In this wide-ranging interview, Bayer’s head of digital transformation Saskia Steinacker shares her top tips for implementing a genAI roadmap in commercial."
+    publishedDateTime: 2023-12-15T15:45:00Z
+    webUrl: "https://www.mmm-online.com/home/channel/7-day-supply/inside-bayers-embrace-of-generative-ai/"
     type: article
     provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 42
+      name: MM&M
+      domain: mmm-online.com
+    quality: 39
     images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/12/wp-header-logo-8065.png"
-        width: 1200
-        height: 630
+      - url: "https://www.mmm-online.com/wp-content/uploads/sites/2/2022/05/GettyImages-1252150184.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Navigating a shifting customer-engagement landscape with generative AI"
-    excerpt: "Enterprises need clear roadmaps as the rapid advent of generative AI reshapes the way they engage with customers."
-    publishedDateTime: 2023-12-18T19:55:00Z
-    webUrl: "https://www.technologyreview.com/2023/12/18/1085299/navigating-a-shifting-customer-engagement-landscape-with-generative-ai/"
+  - title: "Sai Buddhavarapu on the power of generative AI in supply chains"
+    excerpt: "For supply chain professionals, success is reliant on good planning. But volatile market conditions and a proliferation of data are making this increasingly difficult. “With supply chain solutions spanning vast networks with diverse data silos,"
+    publishedDateTime: 2023-12-19T09:54:00Z
+    webUrl: "https://www.technologyrecord.com/article/sai-buddhavarapu-on-the-power-of-generative-ai-in-supply-chains"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 17
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 39
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4760/Sai-Buddhavarapu_975x548.jpg"
+        width: 975
+        height: 548
+        isCached: true
+  - title: "How Your Organization Can Prepare for Generative AI"
+    excerpt: "Brun, Enterprise Strategist and Evangelist, Amazon Web Services (AWS) I’m fascinated by the technological tipping points in history that have ignited the public’s"
+    publishedDateTime: 2023-12-19T14:05:00Z
+    webUrl: "https://www.computable.be/artikel/sponsored/cloud-computing/7586123/5950220/how-your-organization-can-prepare-for-generative-ai.html"
+    type: article
+    provider:
+      name: computable
+      domain: computable.be
+    quality: 19
 
 secured: "qM243yDHIESw3e19HAur6uYUPGVJmzpOuQ+FtdpbR2ciTUzxXM8VER7K9xNVVk7IPJVjnKuiE2tbIOsO4bD1vQH8uAvCIABdzBeXFE3T5CPdLS9ypx1H3rcjRGIbd0hcxjSM9haUR5/FJo44myh2GMOqCV0jBcLolYjaZxQua9+iy6maeZ9KN0VoeMUa+/awFLt1ja1kDpPkoF2v6JueeSRoM3RVHu/FHHFXPD3LFz1URqMM+D22hJusT0JulM7dhA/GtKOAEkaTvH8E/2I7lMqL8p6eI9u12rxzER5D63QG2MMo0rTDTBJVfSqk6bkKj1hkxC862NrAXza6DSqdL2mzTxu4kAjj2Vz0T3qhVGE=;LWUj3bmgb9LBl8tj8vvuWw=="
 ---

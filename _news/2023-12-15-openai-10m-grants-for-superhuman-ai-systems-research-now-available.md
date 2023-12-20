@@ -37,12 +37,14 @@ related:
   - title: "OpenAI says board has final say on safety of new AI models as it plans to curb ‘catastrophic risks’"
     excerpt: "OpenAI has laid out plans for how it says it will prevent the potential worst-case scenarios that could arise as unintended consequences of the powerful technology it is developing."
     publishedDateTime: 2023-12-20T01:43:00Z
-    webUrl: "https://www.aol.com/openai-says-board-final-safety-234352839.html?ref=biztoc.com"
+    webUrl: "https://www.aol.com/openai-says-board-final-safety-234352839.html"
+    ampWebUrl: "https://www.aol.com/amphtml/openai-says-board-final-safety-234352839.html"
+    cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/openai-says-board-final-safety-234352839.html"
     type: article
     provider:
       name: AOL
       domain: aol.com
-    quality: 23
+    quality: 43
     images:
       - url: "https://media.zenfs.com/en/aol_cnn_business_articles_764/cec6fb454d15d827323299ec5120afe9"
         width: 960

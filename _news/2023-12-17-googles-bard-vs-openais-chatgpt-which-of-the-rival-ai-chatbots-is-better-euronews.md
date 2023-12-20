@@ -20,19 +20,17 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "H&R Block introduces AI chatbot that will answer your complex tax questions"
-    excerpt: "H&R Block said its goal with this new AI-enabled feature is to to help customers understand how their taxes work, rather than just being told where to put a certain number. The company hopes the advice from AI Tax Assist helps keep customers on the H&R Block site, instead of turning to Google search."
-    publishedDateTime: 2023-12-15T03:11:00Z
-    webUrl: "https://www.zdnet.com/article/h-r-block-introduces-ai-chatbot-that-will-answer-your-complex-tax-questions/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/h-r-block-introduces-ai-chatbot-that-will-answer-your-complex-tax-questions/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/h-r-block-introduces-ai-chatbot-that-will-answer-your-complex-tax-questions/"
+  - title: "Grok Gets Some Competition, ChatGPT Gets Depressed, and More of the Top AI News Stories This Week"
+    excerpt: "What happened with AI this week? Well, the passage of the European Union’s AI Act—a landmark piece of regulation that seeks tackle the potential harms of the AI industry—is a pretty big deal. It could totally reshape how European nations’ relationship to the technology."
+    publishedDateTime: 2023-12-15T19:50:00Z
+    webUrl: "https://gizmodo.com/grok-gets-some-competition-chatgpt-gets-depressed-and-1851102969"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 85
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 71
     images:
-      - url: "https://www.zdnet.com/a/img/resize/22572debc72d09be85c3ee9a64b6ba99f9125edc/2023/12/15/137a600d-209f-431c-b4e9-a5d90cf20a11/gettyimages-88160312.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/6e9ec759dc24bf07ae714235d2e5f58b.jpg"
         width: 1200
         height: 675
         isCached: true
@@ -52,22 +50,15 @@ related:
         width: 1067
         height: 800
         isCached: true
-  - title: "Can AI Chatbot GPT-4 Outperform Human Physicians?"
-    excerpt: "Is an artificial intelligence (AI) chatbot better at making diagnostic decisions under conditions of uncertainty than human medical doctors? A recent study examines the capabilities of OpenAI’s Large Language Model (LLM) Chat GPT-4 compared to human clinicians and reveals surprising results."
-    publishedDateTime: 2023-12-20T00:52:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202312/can-ai-chatbot-gpt-4-outperform-human-physicians"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202312/can-ai-chatbot-gpt-4-outperform-human-physicians?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202312/can-ai-chatbot-gpt-4-outperform-human-physicians?amp"
+  - title: "How to get a shareable link to a ChatGPT conversation"
+    excerpt: "Even though I used my paid subscription to ChatGPT Plus for this session, anyone can click the link and read the conversation."
+    publishedDateTime: 2023-12-19T12:40:00Z
+    webUrl: "https://www.zdnet.com/article/how-to-get-a-shareable-link-to-a-chatgpt-conversation/"
     type: article
     provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 57
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-12/pic09152.jpg?itok=yvNlDSbC"
-        width: 1528
-        height: 800
-        isCached: true
+      name: ZDNet
+      domain: zdnet.com
+    quality: 49
   - title: "OpenAI ChatGPT VS Google Bard: Which AI chatbot is the real disruptor? – Business Today"
     excerpt: "FeedbackEver since OpenAI introduced its AI chatbot, ChatGPT, in November last year, we witnessed a sudden rise in generative AI chatbots in the industry. One"
     publishedDateTime: 2023-12-17T00:45:00Z
@@ -82,52 +73,20 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Meet The AI That Will Beat You At Physical Challenges As Well As Mind Games"
-    excerpt: "CyberRunner, an AI-powered robot, can learn how to accomplish challenging physical tasks more quickly than humans, and then perform them to a higher standard"
-    publishedDateTime: 2023-12-19T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/davidprosser/2023/12/19/meet-the-ai-that-will-beat-you-at-physical-challenges-as-well-as-mind-games/"
+  - title: "ChatGPT-maker OpenAI hosts first big tech showcase as AI startup faces growing competition – CBS News"
+    excerpt: "Eventually, you’ll just ask the computer for what you need and it’ll do all of these tasks for you,” said OpenAI CEO Sam Altman to a cheering crowd of more than 900 software developers and other attendees."
+    publishedDateTime: 2023-12-15T18:23:00Z
+    webUrl: "https://www.inferse.com/840979/chatgpt-maker-openai-hosts-first-big-tech-showcase-as-ai-startup-faces-growing-competition-cbs-news/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Chevy dealership’s AI chatbot suggests Ford F-150 when asked for best truck"
-    excerpt: "As an AI, I don't have personal preferences but ... which works with car dealerships around the U.S. The tech startup with 150 workers monitors all activity, and noticed \"a ton of activity\" in Watsonville, Horwitz said. \"We took measures to block ..."
-    publishedDateTime: 2023-12-19T12:02:00Z
-    webUrl: "https://www.aol.com/chevy-dealership-ai-chatbot-suggests-170256165.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 35
+      name: Inferse
+      domain: inferse.com
+    quality: 39
     images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/CXGWpMkJBu.7srrOAZfCLA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_gannett_aggregated_707/22598e9f3d8cdef9fab287108c81acb3"
+      - url: "https://www.inferse.com/wp-content/uploads/2023/12/wp-header-logo-8281.png"
         width: 1200
-        height: 800
+        height: 630
         isCached: true
-  - title: "The Rise of Chatbots and Virtual Assistants: AI Applications in Customer Service"
-    excerpt: "Welcome to a world where artificial intelligence meets customer service! In this era of technological innovation, chatbots, and virtual assistants have emerged as game-changers, transforming the way businesses interact with their customers."
-    publishedDateTime: 2023-12-17T12:11:00Z
-    webUrl: "https://techbullion.com/the-rise-of-chatbots-and-virtual-assistants-ai-applications-in-customer-service/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 34
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/Customer-Service.jpg"
-        width: 1000
-        height: 500
-        isCached: true
-  - title: "Can an AI Chatbot Revolutionize Insulin Dosing?"
-    excerpt: "Study shows AI chatbot enhances insulin dosing for type 2 diabetes, improving glycemic control and reducing distress, marking a new era in diabetes management."
-    publishedDateTime: 2023-12-18T18:49:00Z
-    webUrl: "https://diatribe.org/can-ai-chatbot-revolutionize-insulin-dosing"
-    type: article
-    provider:
-      name: diaTribe
-      domain: diatribe.org
-    quality: 17
 
 secured: "AIIGPH435oiVsw5NuN8KHHZa2GgYXBLkAZfdoyfR+sI7BenRae0xDgNqIVzA+6opBfUGrM349sZkSJskX+Ye0aI/Y3C6RB/ecN5nx/n20aqFaKabRcaJsrWY5dGnwO3w9PJDw/CgI0DAu4o8QHT88SQijz6Q+XUVYeH6ik/QMC9J2N5r232ABT8Xnyhq5e0ZvibRCJxqUoSettap4KFxZ1Ts1fluUj5Ha2rgrhoHJUfQNA9ZMBay2hEv0RLElUkCDdtifqWsTXH3ktKOFbiK0e8NMW+Ap6rEYzt4sgXrrqBCCfLtC226+yhkUI5EUwY6ouL5+0jr7nlKe9Hx4qDHoyriG9uK6NKhD/rUZ+oK5a8=;yv5cYLi7yhRxcOpA4AtKig=="
 ---

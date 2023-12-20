@@ -87,6 +87,22 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Bankrupt US pharmacy chain Rite Aid banned from using AI facial recognition"
+    excerpt: "Rite Aid deployed artificial intelligence-based facial recognition technology from 2012 to 2020 to identify shoplifters but the company falsely flagged some consumers as matching someone who had previously been identified as a shoplifter,"
+    publishedDateTime: 2023-12-20T03:29:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/rite-aid-banned-from-using-ai-facial-recognition/articleshow/106140361.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/rite-aid-banned-from-using-ai-facial-recognition/amp_articleshow/106140361.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/rite-aid-banned-from-using-ai-facial-recognition/amp_articleshow/106140361.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 72
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-195584,msid-106140432/rite-aid-facial-recognition.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "FTC blames Rite Aid for ‘reckless’ AI facial recognition, bans use"
     excerpt: "The FTC said Tuesday the retailer “failed to implement reasonable procedures and prevent harm to consumers” in its use of the technology in hundreds of stores.\""
     publishedDateTime: 2023-12-19T23:09:00Z
@@ -102,6 +118,6 @@ related:
         height: 630
         isCached: true
 
-secured: "U+kNC0D+wIW4qD6BaBdXctMcJ1bUSXfbb8Mx10FAgQb22pS7Br5PQ9A40835KredSp32JUuyT1Jd+QUsKChxmsHDLuWsU8OA4zMLlOygMQRDSiQvFAMqfadleWGjFM+JWyRmYblwLGiezqj1Yj2lyEWF5pWkIdud6lvZCor4S/D/CDtEbGpLYPjZnMCcNDb51tthegTrhzpETF5nRR8O+UHv9ZCFpzUQzt6+M0UTT3R+y3auam2RdSsVbciLB7Zj58lmaspZaJBzu2JMzAGtOVaIyslGRbzt8uXfi7c7Py+ztc4VIlQU2cBMEUbFzHa3vLs3Gs7UehbAVLIP3fBahX68Y9Q4ZBtQiKG9XEDhOW0=;FwrkHPLu6cGdshzuskXf6g=="
+secured: "2dCHEfbTp+EtQH/r6xvUG9m5uXEJYJxCZohpMaP5kQF3TdtM3Qx6DH93/Rw/On+oRORKZNx2lQ2bnkL6pULmk9QVTwmxTxSpGOezWUSZ2FupJbBPLgv5p3HpsI6xQvBMpBDLzsyNAB8Z4xOh2bCKL+k078TkedJah/H9yVZ7J2Y2Y3w/pcPfytnCb2CDapLBI26gTI8MGfD3lSV5bcq5wAFxGr+8GRtvaBkggd+K7NGmWCrXmETExE/akpn5rrfrzjqhvD1S00q8LA0xufkRly1I1Y2YyC7E0zinQgkR1AdnfCVVPh9BWSfLeL4sErTkbdolJCUmL7YnEDfJnMd955YIQ7Nrmy3aZk8ZcM4lQlZ+e1q6nYm7wcKjuximXUpD/qrzIYJwuwiAHjr+GhTbsphdFy0L2Hw711YL1/o8GC7HV4zz7SXNIf9PnwmDqacAtMDcUoBQjPGlM7+CNI1/hm9DZdOzj3z4GH1ihHySUGqkiWp/iC4REWURSyGkzXROik97cq3/WpDrnnx+M0ebkg==;/TX1dW5vD1HkWWtOBf2kbg=="
 ---
 

@@ -39,19 +39,19 @@ related:
         width: 2000
         height: 1125
         isCached: true
-  - title: "NVIDIA fires back at AMD saying its new MI300X chip is faster than its H100 GPU - it isn't"
-    excerpt: "NVIDIA responds to AMD's showcasing the MI300X being faster than the H100 GPU. Here are the real results where the H100 is up to 2X faster."
-    publishedDateTime: 2023-12-15T04:34:00Z
-    webUrl: "https://www.tweaktown.com/news/94975/nvidia-fires-back-at-amd-saying-its-new-mi300x-chip-is-faster-than-h100-gpu-it-isnt/index.html"
+  - title: "Intel Gaudi 3 AI accelerator is faster than NVIDIA's current-gen H100 AI GPU"
+    excerpt: "Intel says its next-gen Gaudi 3 AI accelerator will compete against NVIDIA's current-gen H100 AI GPU, and AMD's new Instinct MI300X in AI performance."
+    publishedDateTime: 2023-12-20T03:09:00Z
+    webUrl: "https://www.tweaktown.com/news/95026/intel-gaudi-3-ai-accelerator-is-faster-than-nvidias-current-gen-h100-gpu/index.html"
     type: article
     provider:
       name: TweakTown
       domain: tweaktown.com
-    quality: 44
+    quality: 51
     images:
-      - url: "https://static.tweaktown.com/news/9/4/94975_01_nvidia-fires-back-at-amd-saying-its-new-mi300x-chip-is-faster-than-h100-gpu-it-isnt_full.jpg"
-        width: 1500
-        height: 843
+      - url: "https://static.tweaktown.com/news/9/5/95026_904_intel-gaudi-3-ai-accelerator-is-faster-than-nvidias-current-gen-h100-gpu_full.jpg"
+        width: 1200
+        height: 750
         isCached: true
   - title: "Intel: Upcoming Gaudi3 AI Accelerator Will Compete With Nvidia H100, AMD MI300"
     excerpt: "Given its advanced manufacturing process and addition of the newest memory standards, Gaudi3 could be very competitive with Nvidia's and AMD's products while costing less. Intel says it's rapidly expanding its Gaudi pipeline thanks to \"growing and proven performance advantages combined with highly competitive TCO and pricing.\""

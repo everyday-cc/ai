@@ -56,6 +56,36 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Alphabet to limit election queries Google Bard and AI-based search can answer"
+    excerpt: "Google said it will restrict the types of election-related queries its chatbot Bard and search generative experience can return responses for."
+    publishedDateTime: 2023-12-20T04:02:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/alphabet-limit-election-queries-google-bard-ai-based-search-can-answer/article67656883.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/alphabet-limit-election-queries-google-bard-ai-based-search-can-answer/article67656883.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/alphabet-limit-election-queries-google-bard-ai-based-search-can-answer/article67656883.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 56
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/k55tuv/article67656884.ece/alternates/FREE_1200/Google_Top_Searches_99272.jpg"
+        width: 1200
+        height: 757
+        isCached: true
+  - title: "Google to restrict election-related queries on Bard, AI-powered Search"
+    excerpt: "Google will restrict certain types of election-related queries on AI chatbot Bard and AI-powered Search in preparation for the 2024 US Presidential el"
+    publishedDateTime: 2023-12-20T03:20:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-to-restrict-election-related-queries-on-bard-ai-powered-search/articleshow/106138152.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 39
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-106138143,width-1070,height-580,imgsize-1566910,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1069
+        height: 580
+        isCached: true
   - title: "Google plans to restrict election-related queries in 2024 on Bard"
     excerpt: "Google, the internet giant now a subsidiary of Alphabet, announced on Tuesday that it will limit the kinds of queries related to elections that its chatbot Bard and search generative experience can answer ahead of the 2024 U.S. Presidential election."
     publishedDateTime: 2023-12-20T00:53:00Z

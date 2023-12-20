@@ -38,6 +38,34 @@ related:
         width: 1480
         height: 832
         isCached: true
+  - title: "Delivery robots will transform Christmas"
+    excerpt: "Delivery robots like this have become part of the scenery since they started work in this town, some 80km northwest of London, in 2018. “That’s when you know a new technology is successful,” says Ed Lovelock."
+    publishedDateTime: 2023-12-18T18:37:00Z
+    webUrl: "https://www.aol.com/finance/delivery-robots-transform-christmas-163718462.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The Rise of Chatbots and Virtual Assistants: AI Applications in Customer Service"
+    excerpt: "Welcome to a world where artificial intelligence meets customer service! In this era of technological innovation, chatbots, and virtual assistants have emerged as game-changers, transforming the way businesses interact with their customers."
+    publishedDateTime: 2023-12-17T12:11:00Z
+    webUrl: "https://techbullion.com/the-rise-of-chatbots-and-virtual-assistants-ai-applications-in-customer-service/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 34
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/Customer-Service.jpg"
+        width: 1000
+        height: 500
+        isCached: true
 
 secured: "yQjhOzvpDRzkjKQ+H1NdC6SSuipGEFlVMdk2Y6H8ptJtphlgPl0WnCvpLPDToNRM+pHdgZ5YtfBz7W2vyJ5ocoeb0LJsY7UHV57Y5qn+BiFp1vlebxDpaDH9A15GO5B5VvGyR/6XNejzb7b9x4I+lXhr//dx+adqO2FjwfAhNTq9HJ75q3xk34bDyxV4g96p+V7Sch2D2azJcST5O0wplOpNZcSnNfUhbqLn9ZMBABP7tpjDmhY0eAp1ooyy3sNaXpoJzaBzqAzOx3ofCdmnlMp1uo3xZ0a6mjP733REwIbC6LjJUir6pLwdIek9jIl3hU60HnD/66nATAWYq3yzVZvyXskyyU5FAm3Eb+UadtY8p23IceKv91QLtMBh5PwOu3sVveAHUFXTF+tda25pFMNu9XLR1DCsjqIkOaXoFsHhIVfnzhCKYWxEiGn3Uj9EAIuTKrOxwSWWof/IF9bI2adqQjYy1ftuGBxJyHFyXzWEk+g1q6qaSJ+uAftYhcKSt1CiZVWctG9VAhYInJPaqg==;ZwszQXttvVEwDR4dBdOoGQ=="
 ---

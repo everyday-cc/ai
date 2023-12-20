@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AMD Ryzen 8040 chip battles Intel for AI laptop supremacy"
-    excerpt: "Between the AMD Ryzen 8040, Intel Core Ultra, and Apple M3 chips, there's a lot of competition among laptops built for machine learning."
-    publishedDateTime: 2023-12-15T03:29:00Z
-    webUrl: "https://www.gadgetguy.com.au/amd-ryzen-8040-processor-announcement/"
-    type: article
-    provider:
-      name: GadgetGuy.com.au
-      domain: gadgetguy.com.au
-    quality: 54
-    images:
-      - url: "https://gadgetguy-assets.s3.ap-southeast-2.amazonaws.com/wordpress/wp-content/uploads/2023/12/15142546/AMD-Ryzen-8040-AI-laptop-processor.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "How Intel's new AI-focused PC chips compare with Apple M3"
     excerpt: "The Intel Core Ultra supports up to 64GB of LPDDR5/LPDDR5X RAM or up to 96GB of DDR5 RAM. However, Apple M3 Max provides up to 128GB of unified memory. Thunderbolt 4 connectivity for speeds of 40Gbps applies to both. While Apple M3 Max supports Wi-Fi 6E standards, Intel chips can handle discrete Intel Wi-Fi 7 connectivity."
     publishedDateTime: 2023-12-15T10:06:00Z

@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AMD Ryzen 8040 chip battles Intel for AI laptop supremacy"
-    excerpt: "Between the AMD Ryzen 8040, Intel Core Ultra, and Apple M3 chips, there's a lot of competition among laptops built for machine learning."
-    publishedDateTime: 2023-12-15T03:29:00Z
-    webUrl: "https://www.gadgetguy.com.au/amd-ryzen-8040-processor-announcement/"
-    type: article
-    provider:
-      name: GadgetGuy.com.au
-      domain: gadgetguy.com.au
-    quality: 54
-    images:
-      - url: "https://gadgetguy-assets.s3.ap-southeast-2.amazonaws.com/wordpress/wp-content/uploads/2023/12/15142546/AMD-Ryzen-8040-AI-laptop-processor.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "Intel releases its own AI chip"
     excerpt: "Hopefully, Gaudi3 will not end up under a tram Intel unveiled a new AI computer chip called Gaudi3, hoping to give Nvidia and AMD a run for their money. The most prominent AI models run on Nvidia, like OpenAI's ChatGPT."
     publishedDateTime: 2023-12-15T10:24:00Z

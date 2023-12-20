@@ -43,6 +43,36 @@ related:
         width: 5000
         height: 3327
         isCached: true
+  - title: "Alphabet to limit election queries Google Bard and AI-based search can answer"
+    excerpt: "Google said it will restrict the types of election-related queries its chatbot Bard and search generative experience can return responses for."
+    publishedDateTime: 2023-12-20T04:02:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/alphabet-limit-election-queries-google-bard-ai-based-search-can-answer/article67656883.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/alphabet-limit-election-queries-google-bard-ai-based-search-can-answer/article67656883.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/alphabet-limit-election-queries-google-bard-ai-based-search-can-answer/article67656883.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 56
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/k55tuv/article67656884.ece/alternates/FREE_1200/Google_Top_Searches_99272.jpg"
+        width: 1200
+        height: 757
+        isCached: true
+  - title: "Google to restrict election-related queries on Bard, AI-powered Search"
+    excerpt: "Google will restrict certain types of election-related queries on AI chatbot Bard and AI-powered Search in preparation for the 2024 US Presidential el"
+    publishedDateTime: 2023-12-20T03:20:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-to-restrict-election-related-queries-on-bard-ai-powered-search/articleshow/106138152.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 39
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-106138143,width-1070,height-580,imgsize-1566910,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1069
+        height: 580
+        isCached: true
   - title: "5 questions about artificial intelligence, answered"
     excerpt: "Artificial intelligence is one of the most incredible tools mankind has ever created. It’s also one of the most controversial. Some of AI’s pioneering researchers and developers think that, without proper management,"
     publishedDateTime: 2023-12-18T05:00:00Z
@@ -72,6 +102,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "eV3S7fYnLnljYUbst4iBwfzZMMrYTKXUCOjv/LMMEFh3wJiX8l54fBLBcRUtDFAkBC3M0gOxeB/e1fK6UpQ5MuupWwLiDOZHvc2E5DA64ikuBY8QBu0lBcuaHJ6YsiBAUy/Mj11BQeQ/x4ki5SyOJsZAPb7aAlUVUWTV/bZleHgIdDnm+yuZkZrGcsTGSpepTYATmXHqISujdDldoIdbSJsBlQFFTj3iVfuw5gPV/Zxr/z50scKrymi8BjpcsSwqxlOBEeq15e4i8y7FPHnvGWFVflImpNiac6QaBRpnpmyjs3byWetVy33w0dPMVf2zEVpMnq4Klk/TKBMIjwuzbr+67yArOvAAWAbJRcMdd00=;RCHAeDMKxIbwDD+chKb4Lw=="
+secured: "EGvSsA2v8zwKwNjHYoXklvNnaL0rVRTODAhdrf1Z78kfFqfI5RqYQn/Cp3j/UZz5fmuj6C26wTt9eXnUhoKp6CDc6fsINx6RtH4t6aiu4lEkaE9E29W92M+s6HXVEOJD+f/c0dUUVvztuROgGi936jcRY4urhlK3kZdbRh5LxNAVc+b5KLGSeBaLH/TaolgfX+2HKCjtAJqlSAtTxIcvhvVrsbE4LR5Ei8Mmpap8LgM3B4DgHJPItgaFaQ/CKH91YFeOiQgy0T/qGzHB7rLaAYQnX2ubI4zWAPDkmIYLdPnjO3D9VOX4yuV1GYpetkIWutdmdaRXz0euZT/4+akpwl0fo/ReGGV6kmGtAVxhfzoUtqfho+npzBerb9XrvGGiEu9TSRVBIgJkJ7kBSJWp1EBweFH5RcTA+n4eUf0Hn0lhswneBKEQ1B4DJlNhkLWP1u7eUbW64yglJc3Q6ntWlHUnIFT85cxrqFuu7xihA2LF8qpE5XyxDp4eEkVne8xkIpcxwQ+NeVCsvSGGt4wXPQ==;6ShFv/AQONjkj5Obt0uMIA=="
 ---
 

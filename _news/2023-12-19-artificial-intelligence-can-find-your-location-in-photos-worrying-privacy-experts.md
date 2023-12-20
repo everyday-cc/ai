@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Artificial intelligence can find your location in photos, worrying privacy experts"
+    excerpt: "Three Stanford graduate students built an AI tool that can find a location by looking at pictures. Civil rights advocates warn more advanced versions will further erode online privacy."
+    publishedDateTime: 2023-12-19T22:27:00Z
+    webUrl: "https://www.ktoo.org/2023/12/19/artificial-intelligence-can-find-your-location-in-photos-worrying-privacy-experts/"
+    type: article
+    provider:
+      name: KTOO
+      domain: ktoo.org
+    quality: 33
+    images:
+      - url: "https://media.ktoo.org/wp-content/uploads/2023/12/geoff-7-fixed_custom-4a5abccf15d5be3b5eee94eb14b67eca859e3e95-aspect-ratio-16-9.jpg"
+        width: 948
+        height: 534
+        isCached: true
 
 secured: "pbKsNKbeaP2tEp6j2in26YqBx7VnLjNZg9ByE5B6rrR7KxhBY31+7IMAuCd6q3W7mlfeZQsuYLRvE3dMzPFS7q4bldtn6lhxaatoFsT6V/BkahmihdDZ8ctvlZ2/wsUDKBG5fnZjmChsXc+vISLsiOjqhvvFAJ2gIbMmgnWQImEN1lxci7+RxgO0cIGyzCLXZmYWVge2O43bbwXDHxCtnkoQQPyl6zyuhveUqkHfljcPcm02AhM7GStzh9nmu6ptZkukUaZU9w+lt2cwA54kx3cQ1yPSz8c3TWOi2Wx3BfKiKUF2iN/J6PLMjYReVHK1RTihrIvdIF90b1n8QxM1bNYfz0lvOse9w425luMzyA4=;T1e5xkY82+MbresNy4WmkA=="
 ---
