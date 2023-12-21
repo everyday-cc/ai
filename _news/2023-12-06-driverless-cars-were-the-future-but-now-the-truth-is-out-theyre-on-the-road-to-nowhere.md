@@ -3,8 +3,8 @@ category: news
 title: "Driverless cars were the future but now the truth is out: they’re on the road to nowhere"
 excerpt: "The dream of these vehicles ruling the roads remains just that. Focusing on public transport would be much smarter, says transport writer Christian Wolmar"
 publishedDateTime: 2023-12-06T12:35:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2023/dec/06/driverless-cars-future-vehicles-public-transport?ref=biztoc.com"
-webUrl: "https://www.theguardian.com/commentisfree/2023/dec/06/driverless-cars-future-vehicles-public-transport?ref=biztoc.com"
+originalUrl: "https://www.theguardian.com/commentisfree/2023/dec/06/driverless-cars-future-vehicles-public-transport"
+webUrl: "https://www.theguardian.com/commentisfree/2023/dec/06/driverless-cars-future-vehicles-public-transport"
 ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/dec/06/driverless-cars-future-vehicles-public-transport"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/dec/06/driverless-cars-future-vehicles-public-transport"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 372
     isCached: true
 
-secured: "cB2dE0uM8QmjgqLBFzh8dKouNSMBnM0khJdM8NqcunPa767pi/Q2auJVUkAPI6mev6TstHq7pYOklL2MHFRvx8NL1CbfGa1XWCL1nskJ8HUgw7/nMxKPK+3ZX7w4VygkzViWWcbU04itpMVrqXcCVufDhzSyr7G79PySvxIqKBfn5ytFPyI4ZZgHqNKkfhhhScLjT0AuAGbmubQr+h6LJfiHpWWjtWU520kWbG8pAGybcZOhaslq7QxORmukb/z05ggHACAq9IEzxIYHCXMxXI46zpup+XXTnEqycu0j069xT89LvuptFG1bLZS6BWKzT2lTRA5eEZh0Qt46Z7EKeNAT6YPHnK1vBsEba8n/aJNC8ZAvFT2hI8SnqSrACxOTsyMVIQ1Rmlukxlhosa0JrhQ0mhitlE7THMq8ds9WAHveZ9Y5E77vNbVrcTXNuP/oNEZSlT/UKtKlrQdzwUI+IwcKZ1NRwZU3FuYOeguWN0v4F9MKp6GQ/EvXMgJwc5Tsswa0VJFPjItWuxfXX0oezw==;t9fk9wkPv1RpK61Bl4mJ4Q=="
+secured: "MxKaKqiGvGMKR5T3ePFnS1ZZw1tddWyKApA6e/owcwx6M3V85Gz9QOxNfDryoimFys2Gv4T23RL+9ftaYHQ9YEPqSAe8u1EAF7QLws2jHATazERR9JbCP5zQqzIDBYUTB82HHS6uauQvZmH/2O4Wx0X8DmFqEJNFruvv6XE6ncij3j2vTcZwZRCAAEk0hMgsmng1EXDWRMoDoZqFQIYuuGqeDjrOMzHtXuAaEpMLYxYW3KErFJW64X/Ksie3FcoCjoxJYboqr2oqpQQJLBcM853WpaGkzq+h3aFZvmwhTVbNssivD6iAOHHe91Mu/Od5aj++k7Q274HmIhROXfEMSdGk7KqIe174D1qByNaEoQc=;BuRCQSUUWrfIEgmujfNXbw=="
 ---
 

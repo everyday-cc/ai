@@ -24,22 +24,6 @@ images:
     height: 720
     isCached: true
 
-related:
-  - title: "How to Get Google Bard to Help With Your Holiday Playlist"
-    excerpt: "This guide is designed to show you how you can use Google Bard and other AI tools to help with your Holiday Playlist. The holidays are a time for joy, celebration, and music. With a plethora of festive tunes to choose from, compiling the perfect holiday ..."
-    publishedDateTime: 2023-12-18T00:00:00Z
-    webUrl: "https://www.geeky-gadgets.com/how-to-get-google-bard-to-help-with-your-holiday-playlist/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 24
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/Holiday-playlist.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
-
 secured: "gvSvndR1N6Hcknt4I8nojmixAvEdgWjsf6n+Sj05qIr7LyYCQewIavrqX7e82f8749k9DGyqFwpZax+GcOQ2DKi13k0/s96HP4LNZCGLmpc14eKG/+FqOc2qO4pFL1nqJWjw6J4lwowbsLR9Lf7I3NkGjIkVBJv7YGkrAeK7sAYatjTuhPdy3KXtLPqcaz3ld0s9HC8m723/cdr1nSB1UIh6MRz8mJZ24LM81CrJjpkl4vwqfwZNNIv7UIHPIeiiVrIen5SdpNb1eLxAOq03PAajUyFaS7fL4Hm9JB38llhF3XJC+1ldMlUShPB+t9Qc62XiXE8Gv4zlZH+Uun4T3l9oAKGAWjF4eYM5bFB6UqQ=;xqRg9M3i0TKNc1z5Lh8spQ=="
 ---
 

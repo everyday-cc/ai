@@ -3,25 +3,25 @@ category: news
 title: "For gen AI like Microsoft Copilot, it's looking like 2024 will be a big corporate spending year"
 excerpt: "It’s more than just AI hype. A majority of top tech officers across the economy say their companies are accelerating spend on software like Microsoft Copilot."
 publishedDateTime: 2023-12-20T15:06:00Z
-originalUrl: "https://www.nbcnewyork.com/news/national-international/for-gen-ai-like-microsoft-copilot-its-looking-like-2024-will-be-a-big-corporate-spending-year/4967695/"
-webUrl: "https://www.nbcnewyork.com/news/national-international/for-gen-ai-like-microsoft-copilot-its-looking-like-2024-will-be-a-big-corporate-spending-year/4967695/"
-ampWebUrl: "https://www.nbcnewyork.com/news/national-international/for-gen-ai-like-microsoft-copilot-its-looking-like-2024-will-be-a-big-corporate-spending-year/4967695/?amp=1"
-cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/for-gen-ai-like-microsoft-copilot-its-looking-like-2024-will-be-a-big-corporate-spending-year/4967695/?amp=1"
+originalUrl: "https://www.nbcsandiego.com/news/national-international/for-gen-ai-like-microsoft-copilot-its-looking-like-2024-will-be-a-big-corporate-spending-year/3384933/"
+webUrl: "https://www.nbcsandiego.com/news/national-international/for-gen-ai-like-microsoft-copilot-its-looking-like-2024-will-be-a-big-corporate-spending-year/3384933/"
+ampWebUrl: "https://www.nbcsandiego.com/news/business/money-report/for-gen-ai-like-microsoft-copilot-its-looking-like-2024-will-be-a-big-corporate-spending-year/3384933/?amp=1"
+cdnAmpWebUrl: "https://www-nbcsandiego-com.cdn.ampproject.org/c/s/www.nbcsandiego.com/news/business/money-report/for-gen-ai-like-microsoft-copilot-its-looking-like-2024-will-be-a-big-corporate-spending-year/3384933/?amp=1"
 type: article
 quality: 62
 heat: -1
 published: false
 
 provider:
-  name: NBC New York
-  domain: nbcnewyork.com
+  name: NBC 7 San Diego
+  domain: nbcsandiego.com
 
 topics:
-  - AI
   - Microsoft AI
+  - AI
 
 images:
-  - url: "https://media.nbcnewyork.com/2023/12/107329682-1699299150834-gettyimages-1778708098-js2_4099_isifrhca.jpeg?quality=85&strip=all&resize=1200%2C675"
+  - url: "https://media.nbcsandiego.com/2023/12/107329682-1699299150834-gettyimages-1778708098-js2_4099_isifrhca.jpeg?quality=85&strip=all&resize=1200%2C675"
     width: 1200
     height: 675
     isCached: true
@@ -393,6 +393,6 @@ related:
       domain: cnbctv18.com
     quality: 19
 
-secured: "JRFc+IUOOQJ2XbwN8jX+UIIJAbkF6AVBLRjoKZPANgGWZkXgf2Y3Vz00T0JZfbr31WICJnGsNshXgm9N7ZkyKROqQzqCMq6x3sdtBPnNnhHX9r3GbWzhIpbtOzVI1KAC27RLuiJGTtp1hb+Bu7ZJ6J8KsTLvK/yaQaevWgn+tkHvc9EgiJKr4r5xs6lVNYbP05MvO2AYXJ1toi/180AaXxi21S2hc7Pkb8c0+KxwhglUSEvDsjY7cJ7x5y+e6mcL2hmiQZxI14CU2dEBFU2nkoWYOaRZ4rHW0VhOvEiWfoey8RZlhgnGagIB1QBAS9pBifnWOUk5PtUEzzkUmn/t8IR9l6cgmlhL3j/3WtYrd0UD6PZrogbAr2ypm+Rd3ocJ7xPGE7pgmKv8VYiJDzKtXI8WMCK0ie34kljVtsQEx+L6fEMUK07v4egMUjShM0vwLS+4LnuECs6T5D1si+Xn8mrdE8n7RwzxWa9TDybNxBuy2upSjXfBJPzMYTG7fIDc8qaSbIIXceO/q9tXmccUJw==;LA7OySLSAzcYJpF+GO4k5w=="
+secured: "RK5b85gXPRPj0veqEqO+UnWzEGNcZQhn2mPe6vpWWno1JpcaaYWcRkkK0MlvKwZtKUHvZZYNUprh3sQq3VCAJ2Cf40s7Y+HQ+4QOIFSy6fudHi8PVTNncmnra8PEvTeUMyQqqK1qH74c0JGK9gdUzmSSimoZXXCruQrJ+J1DJpFK74MgcGYAyLBRab9NLVb5kdIZJG7slyPzCYHlqdLXLGk4WIwUnD6XjxL13tq89HUig9aWwBXG6YWJJ2VRZbnRM4MVflpngQjhAAQHGYyoXDTuFREwyRCrX5BlwDQUtWqrwniomMBXdzYMpREzUWEG21APsSYg6C+5l2UgiAtSHJhyWi6Yto40/Zlji047Ut0=;o6XSq5shRlhDRY9htZF+3w=="
 ---
 

@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "12 Tips to Get the Most Out of Google Bard"
-    excerpt: "This guide is designed to show you a range of tips that you can use to get the most out of Google Bard. Bard, a large language model from Google AI, is a powerful tool that can be used for a variety of purposes. It can generate text, translate languages ..."
-    publishedDateTime: 2023-12-18T00:00:00Z
-    webUrl: "https://www.geeky-gadgets.com/12-tips-to-get-the-most-out-of-google-bard/"
+  - title: "Why I Chose Google Bard to Help Write Security Policies"
+    excerpt: "While there's been a lot of focus on ChatGPT, I have been testing Google Bard for rewriting and simplifying old security documentation that needed a touch-up. Most notable is the dreaded security policy. You'll be hard-pressed to find anyone who loves ..."
+    publishedDateTime: 2023-12-19T00:00:00Z
+    webUrl: "https://www.darkreading.com/cybersecurity-operations/why-chose-google-bard-help-write-security-policies"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 24
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 41
     images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/tips-google-bard.jpeg"
-        width: 1280
-        height: 720
+      - url: "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5cd90d9607bc687c/658076ee0134a9040a60718c/LLM_James_Brown_Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "e6lFyDFic/gLK9jFaoTnXCKN/hNQ5wAtcgSngmVCf3w7xvepAX/XULM8SAoiHmO6e3x9LSVVdZw8QrBZmMOKGzgxZgRDUETX2gmx+ZsFFNXKaSkcrZjEDurfI/TKIPSRIMCvPEWaFLGsZ29u+p+MhwJC/WxNJCxTqNHI8KdCPAG1Pg2VBIKKwPdWi46LhglfD7bWoDIfZ9QsMx2XxKDbPQcxwFR8NLk1FAzdt+PnsDDLtRouucJQwvLMaLgwLTzxhkNVBAm8vSz6g//giVA2xi45INgsTBunFyxdmoVMrwniq2JJ+Akr0geIVOPoIMeyxEW4im7T/UU/Q4CQRWkBbSQ0ctFNwZheqsnWe700FK4=;j5sI+Ya5+wTBk/6sJeg/TQ=="

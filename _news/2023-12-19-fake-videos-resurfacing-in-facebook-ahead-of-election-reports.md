@@ -33,6 +33,22 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "No, Dr. Oz isn’t promoting a diabetes cure in ads on Facebook"
+    excerpt: "No, Dr. Oz is not promoting a diabetes cure in ads on Facebook. There’s no cure for diabetes. The Facebook ads claiming to show Dr. Oz promoting a cure are actually deepfake videos that have been manipulated to spread false information, according to our sources."
+    publishedDateTime: 2023-12-20T23:50:00Z
+    webUrl: "https://www.kvue.com/article/news/verify/scams-verify/dr-oz-diabetes-cure-deepfake-videos-doctored-altered-facebook-ads-fact-check/536-3eea2484-1b8a-4f2f-ba7b-234aab11e2bb"
+    ampWebUrl: "https://www.kvue.com/amp/article/news/verify/scams-verify/dr-oz-diabetes-cure-deepfake-videos-doctored-altered-facebook-ads-fact-check/536-3eea2484-1b8a-4f2f-ba7b-234aab11e2bb"
+    cdnAmpWebUrl: "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/news/verify/scams-verify/dr-oz-diabetes-cure-deepfake-videos-doctored-altered-facebook-ads-fact-check/536-3eea2484-1b8a-4f2f-ba7b-234aab11e2bb"
+    type: article
+    provider:
+      name: KVUE
+      domain: kvue.com
+    quality: 44
+    images:
+      - url: "https://media.kvue.com/assets/VERIFY/images/e9c5abaa-1cc5-441e-96da-88d883e1276e/e9c5abaa-1cc5-441e-96da-88d883e1276e_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
 
 secured: "R625TvDlmfhw0AdDLfWjaUBVjiI6MEF/W5VM4OMdaxzXcfDPM7Nrk5w1ukliXwWWwI8KxVI5irzGiRqMIKM179WJiC8maLP5MMeNzDmtnCDdy403AVMjKf4R7I86Cqgp/naI5AQB9kHO390G4Zoj3yghpsZ1qw4rDYjwYLB1Pdwh47ixq4TuH4cHW1Utc0RmDYdkHL5We4aqWF1ozrobqmlEDQq1TRLS101ljzHQXt/HmlXeVPIXUwTRkpvmOUln5vwcnBeS9RhZu21NYewec5KC87P2N3Otl/ErGBwCw5vTVPTO0iUJezpaY54ROxESlrZoQJXGOTjhIJcmdekC+/IwqhcPpf/seN3tgbsZgLk9frHQR0ucWl7nxBscdc+LQXxeAhMJFpa2YHnvHo3a2OL/b/qNPqr92QXjRDf8RPCpvBMbidEdhAIV+3SCsIOHRVPO7pUZ1Zg/ItaADtaj/hUrA5ve81rOos/Y2qqarzOhn5VJpt67mkKn4n0kXyWh34PkDYEtv0Jau313WsiFkA==;nvEbXzXyhrZ0laCOh0XFuw=="
 ---

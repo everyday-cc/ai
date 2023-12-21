@@ -2,21 +2,27 @@
 category: news
 title: "Self-Driving Cars Have Arrived. They Will Make Us Safer."
 excerpt: "The magic of the driverless vehicle is the artificial intelligence behind the sensors. That allows the cars to operate like a human nervous system. Sensors and radar are the eyes and ears. The brain is algorithms trained by billions of simulated trips. The more the robo-cars drive, the more they learn, and the smarter and safer they get."
-publishedDateTime: 2023-12-20T20:40:00Z
-originalUrl: "https://reason.com/2023/12/20/self-driving-cars-have-arrived-they-will-make-us-safer/"
-webUrl: "https://reason.com/2023/12/20/self-driving-cars-have-arrived-they-will-make-us-safer/"
+publishedDateTime: 2023-12-20T18:40:00Z
+originalUrl: "https://www.aol.com/news/self-driving-cars-arrived-us-164005666.html"
+webUrl: "https://www.aol.com/news/self-driving-cars-arrived-us-164005666.html"
 type: article
-quality: 4
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Reason
-  domain: reason.com
+  name: AOL
+  domain: aol.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://s.yimg.com/ny/api/res/1.2/2rT0OeMEdtLd4r0Hd2zl5Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_reason_com_448/662d9d02f5e6c49a8421f3bc410461f3"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "Waymo says its self-driving cars are safer than human drivers by up to 10x"
@@ -48,6 +54,6 @@ related:
         height: 384
         isCached: true
 
-secured: "W4b8FG362tPxoQyRVRNVtrJiG25ssTMZEgWdHTd2OOy24S/JbWT3sX97YxSIcchIYTMKzYb+do4ZLv8rWq7+XdqAUugDoVscnxc+LJI5HTFvcUIuHra9Ovdhorti4qX4Qb6q7pTfsvefEYOyw+sEbhSj0LagvPRgBip/4rNwPGN1cQGWf4x/b7YpvvLbYiLdggHydzFAKiG86krAOnEWxg0NKconDELqxoqrGBccdXVc3VYRYqgMmEYhd+ZFJ8teErHkSon45PbRQFFIu6PE6H0zROQ3qwwEKd6V0IM5jV9faacvvaySAS8H+qO4Z1iNRyqE9S4j7Lc4nLTDgOQ+NsMIFDq2k94OTNoMamiLaTPaMahCkB+4oY4q8COEyMq8/x83gNbRaL0meTwTP4N0bg/o63ORT0rsxIU+LuKbpzqMPCzJU6n/kUL7CxKxC5jZPbVbGs3+FOBaJ9bNfJMyIoQO4i6a19Xk7CZCBOX6BwLYg+iE4w99w8oPiDNCbtn4KJKflbwG6CWj6kE8D8vAiQ==;Hv73KVM4khv586i+vUnUwg=="
+secured: "nMugItPSow6pcxKTEQwA5AQnN2pLsUV3mBjJOr4gSKwE3ajhqXls/WFfpK2rI3bG8Gpzcfs+suKEHYKDnYJ0wcYFriSQAFHX7hY8uwSpJqoZBM0ZTuY35rQFkFB8UHbl71AL2jvOQc1cqqJKRWyhWPiJIoY4Lyprhseem71dVdV+KrYDxvhx5WnrsXU+/Zq8XakK3yTplWGJKYaS+1iBiNrbtksfwMWV+jyskI8VvNRTRfrM8P7c+zeogUyv+o4kasHSxXd5vPNYCe/MfM4ua2uAcpmBucNG40qA/ReEgEcNzE8yB7UWZrg5YQX+GnbUMWEoPqQ6S25uFiLkzAkZdxsmYssmSSKR7/hOD0ZqYR0=;IO0HPzb2gvNLy8Vcers3DA=="
 ---
 

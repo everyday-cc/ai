@@ -43,7 +43,7 @@ related:
     provider:
       name: WINK NEWS
       domain: winknews.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://winknews.com/wp-content/uploads/2023/11/Artificial-Intelligence.png"
         width: 1920

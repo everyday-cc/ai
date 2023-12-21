@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/openai-announces-preparedness-framework
 webUrl: "https://venturebeat.com/ai/openai-announces-preparedness-framework-to-track-and-mitigate-ai-risks/"
 type: article
 quality: 68
-heat: 80
+heat: 78
 published: true
 
 provider:

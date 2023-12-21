@@ -21,22 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "Diversity In Artificial Intelligence Could Help Make It More Equitable"
-    excerpt: "Of all computer science doctorates, only 1.6% were awarded to Black doctoral candidates. In 2019, The Guardian cited a study conducted by NYU, which emphasized the critical need for diversity in the field of artificial intelligence. “The urgency behind ..."
-    publishedDateTime: 2023-12-16T00:00:00Z
-    webUrl: "https://www.blackenterprise.com/diversity-artificial-intelligence-equitable/"
-    type: article
-    provider:
-      name: Black Enterprise
-      domain: blackenterprise.com
-    quality: 39
-    images:
-      - url: "https://www.blackenterprise.com/wp-content/blogs.dir/1/files/2023/12/GettyImages-1481181755.jpg"
-        width: 2309
-        height: 1299
-        isCached: true
-
 secured: "w3L53SftSLZ0aVChbJR9MdKus2ShpYGQHrn4MEcJoA/fRWx9+09FEHFiHq6wfqmT3j8Q96HGaltFpad0DcSSNp761ZB6vmPUosjHIfiSUbHeuFJw37oq3yf+96PyYzeLJTjwysFgOSUxusoXqOCvIvRNN82zPMy4c8U/HGZgj9Kv3GuUqqt53pRN0YrNmlpFWg1ikic84nHbswIOhPXm44NiT7tBwctSGG7poeubulVl9iGTgpGaYe8YUBkybraMysXVc/xBDSpvT8lZsEkptYhaynAGj2upzs1BMyy6+fDBtpBg5FJeacr5/17b2g79eLsRbcGLxbbxqKgwzg4CyLv3dqv/4RcumptiZunlYV0Ke7MVT6EYCApubDRo19X/9NEx7ecHEogwbD//az/qVUow6mjqKJEt/Y+4xmRKIa12iK2fNR8myTtU4W7WurA/DJUjm9bleSOj+StWT6m8EFBFz7ClXZH8vXY5TKZQrtdZ6wzd77hTZFC1cU5aHy3OAlIZLgdc0H4xWf0ppLGSwQ==;rq8RVm4XpFP/ynktCAvDmw=="
 ---
 

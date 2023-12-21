@@ -3,11 +3,13 @@ category: news
 title: "Can Artificial Intelligence Detect Autism?"
 excerpt: "Researchers at Duke University have been exploring whether artificial intelligence (AI) can be used for autism screening in real-world settings, such as primary care. Their goal is to develop an objective,"
 publishedDateTime: 2023-12-19T22:45:00Z
-originalUrl: "https://www.psychologytoday.com/intl/blog/the-science-of-autism/202312/can-artificial-intelligence-detect-autism"
-webUrl: "https://www.psychologytoday.com/intl/blog/the-science-of-autism/202312/can-artificial-intelligence-detect-autism"
+originalUrl: "https://www.psychologytoday.com/za/blog/the-science-of-autism/202312/can-artificial-intelligence-detect-autism"
+webUrl: "https://www.psychologytoday.com/za/blog/the-science-of-autism/202312/can-artificial-intelligence-detect-autism"
+ampWebUrl: "https://www.psychologytoday.com/za/blog/the-science-of-autism/202312/can-artificial-intelligence-detect-autism?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-science-of-autism/202312/can-artificial-intelligence-detect-autism?amp"
 type: article
-quality: 19
-heat: 19
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +20,12 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "HvAJbfMorc0uEO8kwPB5Jm8NroBFIWZ2f1fg/Ip/WblIyAX0ILMld9pIMeTQAqOVeaP15eDhe3HOoX2k7UHd0F32Nq6+bMdX/wWchycN0ehe4YnyuSf8WpZE8KdsFa4BFZP5qEHDAL1Cy2z/kHptQSoBvdkXiwV7xZjRzQd28CzSC6mlKRKDaaRjsqDeoYwNhhd5mlubW3Ztu//kx+XdOubUOkPI34eaXZbSHBl6mZ++JYy4aAxtWZOC+NQMIxtVxg9ys+qDWCbJ5Vl6pLyNDXzXr441BZwCdVDS58rzyK2+uCGRwMUAsJrKBCDYh7TFml+H7Y1zR665Fx1MAT7VyUbkfWqsTb0QVn4DAE4iBABt2a31su73e+Ojy3OF19JkcXQw8AKLnCQnsVEkumndHruCOy6x4tx1BAlKICrQC3j1LuwGSlMWq2QnrYnjjAk2e8CjzumSeUXDWbMJWK1KWoKldBEv+VVL74Iq5Fgo1XG83YFTghipXs9/Z51FmjgGL/LIslSjfj1328gMeaA1uQ==;0dQ9LcWXY+Lse43wH/WWmA=="
+images:
+  - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-12/MDM_0008.JPG.jpg?itok=Gh2nMte_"
+    width: 1528
+    height: 800
+    isCached: true
+
+secured: "JDT0GUOftlSWJd+n/w925RRx7WPtz+jEvXpLtkd/8gaEVcWrGsEAZn4Cjo08U+z8LkElYwCFFjnuWJ4pNUtLXRYEEqFu7awNp8Tz/emJkDlNmDQ5sTzgLjugpxqubpJ9qbITlVqYCaa0sL9JAGDbsmjTsB5cq2cMZdCWWjuq1o4RGK0f6an5GaV87DHPgaks+GEQfMwyG/huGqCagi/E7whwdvNrxsHzHJbvPZlq0+gBYpnLzdmg/nuF8VZ2YGOfuvPkdlu1x3FDF+A7XpM1FUzDb7fsy7DhxhqKBSJjF0pm8ziqygVtM+g6ZVnW73bLPwFqY5sQMMM5L2tz3RjG6lSUXnvbR4FkJ0l/a2q2ryo=;mqwPCgJuSPKTmJlkD8VinA=="
 ---
 

@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Acclaimed academic warns facial recognition technology is biased as bill advances"
-    excerpt: "AI researcher Abeba Birhane has voiced concerns about the use of facial recognition technology as research shows systems perform differently depending on ethnicity and gender"
-    publishedDateTime: 2023-12-19T15:18:00Z
-    webUrl: "https://www.businesspost.ie/news/acclaimed-academic-warns-facial-recognition-technology-is-biased-as-bill-advances/"
+  - title: "Police to be able to run face recognition searches on 50m driving licence holders"
+    excerpt: "Exclusive: Privacy campaigners say clause in new criminal justice bill will put all UK drivers on ‘permanent police lineup’"
+    publishedDateTime: 2023-12-20T21:24:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/dec/20/police-to-be-able-to-run-face-recognition-searches-on-50m-driving-licence-holders"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/dec/20/police-to-be-able-to-run-face-recognition-searches-on-50m-driving-licence-holders"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/dec/20/police-to-be-able-to-run-face-recognition-searches-on-50m-driving-licence-holders"
     type: article
     provider:
-      name: The Sunday Business Post
-      domain: businesspost.ie
-    quality: 49
+      name: The Guardian
+      domain: theguardian.com
+    quality: 54
     images:
-      - url: "https://imengine.public.prod.sbp.infomaker.io?uuid=e6bb9d6b-acb9-519e-a5bc-6f7479a3e42a&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.84428&width=6000&height=3375&x=1.0E-5&y=0.04128"
-        width: 3000
-        height: 1687
+      - url: "https://i.guim.co.uk/img/media/911c47e92f20471b307595b933fe4be7e671675e/0_25_4928_2957/master/4928.jpg?width=620&quality=85&auto=format&fit=max&s=df04491dbc8a743f01a8d04c53b53511"
+        width: 620
+        height: 372
         isCached: true
 
 secured: "1NdmoM49GDssaO1QR3DNclOMHSSHPSjxHXH9k73nYLvxV2v5CC7/XnY6NGYIcXdchionv2CO5XWKR1AIgszuiHiFvh0CFKgfCXeFsdsZH/Z2FJ4Rl7F5IegibsMi/xsuDfZOHCyOboyBYxZ4PmlxRBgzGoZYYrgVX1NMAOsVhEMNnkEk8KRqU4zLd6Rg4Wt7AYv2TlDqIsELv83uZL+b9u8ejEymzrCMHft5Wny0GeyqsOR3lwma4N69+k4y4jwhWvQlj8yX+Utdl9AEx9C/WHDIKK45aF8QHEysvvTtOS8CrYWCtnMs2qi2yOCHypydJnJoD4cWr1WwkBcmDSXpfVE7DO4ymdVqfWO76prWyHPjTuhqtvPUhC2dFEDZqxX9I7eBnieomxr5hpFbgyABDPsS+ik+k+Lw1Fx0dEeFJMtf4Du6ALXVB+aIPqPkWWsQPxFdysQtUUbz4jJZGCGkeQn5JfwQCdwOk6QhgH5GerL52XD3U3iJMrYYBg+eb6h8mrLLrDY+lYEvF5ChyOUxvA==;PwRSENDYuNqpBuuiSXKJqg=="

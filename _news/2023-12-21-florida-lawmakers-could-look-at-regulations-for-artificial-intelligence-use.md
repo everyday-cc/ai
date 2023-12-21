@@ -35,7 +35,7 @@ related:
     provider:
       name: WINK NEWS
       domain: winknews.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://winknews.com/wp-content/uploads/2023/11/Artificial-Intelligence.png"
         width: 1920
@@ -65,6 +65,6 @@ related:
       domain: tcpalm.com
     quality: 14
 
-secured: "QTY+mzrqvz+NzJJjlSOQvmRNPZVtnhE+wXROMvu+L9+ET06WTdeKmPICQ5JliReDvChRqvmJuizTStXCLmRBFozJoDoyyg6kAEPd1UPp4JPWG8FGSnpsO8oRAPHlnBKMyNRfLjYwwF6N5nMFhxNZZ7rdH+yo/E/bHqLjS/ph3+CVcn9XbMAUx3GMrt3bLRQGEjsqZXSL6TrolKSvr6xHVThmG275ajgZGgPtM1inV7f2TKcM5B2+lP5jPIHcp/LFAdvvSusvtHHDUfLpHSkX5RG97HIozh0LbINWA4zx6Gmq9UAfpvUJ0sEf8WEXlwCkaMMM0D4MF8goNoixa0dYd9NReagForCtTwcdlCe915A=;/wEDX30s0Re1Mg8AXBD1eg=="
+secured: "dkjOKPSL5Z7edRdm9xsBin6belblOaimND1PNwbItLChWLrd2m8/SQoyXS+gNmZFEPix3+uE2iAoqFMxkReF7Fxi4S0tpLn5hI+xdK4k15NSgzeCy/DTc/mnLqjoxFpxo3XNAgRmaC6gV8WUEO2L18K9Z/cQnFxVbDauAyEy49FYDd/ivfPbiBU2JZEFnMlbh1mi25rSBR2ZwxdJZPpPg3DP2ttePsFWZnM2xqnM0Ba2BjpI6g6zq2yc9QzQorJuDckPwZd/HSyf+AxXKNqwRQ53eYzjbvePj5C4WI1/U4nX+9eUFrbuAjMasjyP4/xSNphsdRxX/ehZqQoCXG2V2d6U278TMptU60n9RKX/PEyICmLB3qnieBgvq2bH/IdlERSc2stMkwLx5YcBMG93IOmefrBqJtX5yA235hSq46HZ6F3mgdnyvSwv7fGkpeSaBVVUGhxFn7GqORMgD50DWzSkDgKpi8zufu2Ny3gsVxPGIb0DylVQOXBj/lLk+gI2J0pKdocUaaOy+uE+AFaagg==;etKquAHPCh2WbFXq920eiQ=="
 ---
 

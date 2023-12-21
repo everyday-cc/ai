@@ -7,8 +7,8 @@ originalUrl: "https://www.wired.com/story/facebook-energy-heating-homes/"
 webUrl: "https://www.wired.com/story/facebook-energy-heating-homes/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Wired
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "No, Dr. Oz isn’t promoting a diabetes cure in ads on Facebook"
+    excerpt: "No, Dr. Oz is not promoting a diabetes cure in ads on Facebook. There’s no cure for diabetes. The Facebook ads claiming to show Dr. Oz promoting a cure are actually deepfake videos that have been manipulated to spread false information, according to our sources."
+    publishedDateTime: 2023-12-20T23:50:00Z
+    webUrl: "https://www.kvue.com/article/news/verify/scams-verify/dr-oz-diabetes-cure-deepfake-videos-doctored-altered-facebook-ads-fact-check/536-3eea2484-1b8a-4f2f-ba7b-234aab11e2bb"
+    ampWebUrl: "https://www.kvue.com/amp/article/news/verify/scams-verify/dr-oz-diabetes-cure-deepfake-videos-doctored-altered-facebook-ads-fact-check/536-3eea2484-1b8a-4f2f-ba7b-234aab11e2bb"
+    cdnAmpWebUrl: "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/news/verify/scams-verify/dr-oz-diabetes-cure-deepfake-videos-doctored-altered-facebook-ads-fact-check/536-3eea2484-1b8a-4f2f-ba7b-234aab11e2bb"
+    type: article
+    provider:
+      name: KVUE
+      domain: kvue.com
+    quality: 44
+    images:
+      - url: "https://media.kvue.com/assets/VERIFY/images/e9c5abaa-1cc5-441e-96da-88d883e1276e/e9c5abaa-1cc5-441e-96da-88d883e1276e_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Fake videos resurfacing in Facebook ahead of election: reports"
     excerpt: "A distorted video featuring a speech by Begum Khaleda Zia, Chairperson of Bangladesh Nationalist Party (BNP), has once again surfaced on Facebook, raising concerns about the spread of misinformation during the upcoming election."
     publishedDateTime: 2023-12-19T12:27:00Z

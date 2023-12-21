@@ -6,7 +6,7 @@ publishedDateTime: 2023-12-20T20:28:00Z
 originalUrl: "https://winknews.com/2023/12/20/artificial-intelligence-florida-senate-2024/"
 webUrl: "https://winknews.com/2023/12/20/artificial-intelligence-florida-senate-2024/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://winknews.com/wp-content/uploads/2023/11/Artificial-Intelligence.png"
@@ -65,6 +66,6 @@ related:
       domain: tcpalm.com
     quality: 14
 
-secured: "XQgJ8rLAiihfP6bcim2AFNFFwHBSayRkbnphjQbV1xgvF9p1XnIPjjA7+Ln5PUUgqVj5Pt07bM9GR2o4toGlS6HC8gc9vYbazTAssrlSNFQspVmsk7g2yOK0TZI03mD/vHN+c4YkNC9jF9lI0NlYNI3N7u3+CWjkLyqGJm8Ta6rc3PPrsGaMHe8h/drD/Obh1u7t3kT7CQtlzZEIzvX5shMAvX46maWCG5DhnJAPYnn5XrhH3WgnbiU63hEbyMpJNCK6JlzYYRL92VleHNXZDHF2pfIM3fXGBHzSFTpN+Zbbs0Exl9XR8+B7YlIxkCu4f5Jv2tUj/dPmrO0HMWZSzKdKn1Sr0gCn8m4oQRPhXpQ=;I7V+f+4FHq1hRSod0rX0Hg=="
+secured: "cM/JqT9xFoo9Xru1mG/LQeX4DA4LYbKwzPXQWC5AyZBd9Lb8hcaz5E2N8uTsDDrMxH1q8JlTUD2hZRNu9NXeHnCA1ATvZs1HokTJ/1fu9wuKfJ/WniVS9q0Npx/u8Cv7VOSYCt+PTCh/neGuzhyqjMPAgmQ+xC6Ci0zWo4iS5XScu4OeNjqdtCF+RxwBbob+Wja1jzUJctCzIMZpMY6f/sfVbRI2/zj9qUedyP5JV+zANi88xAEil0peYKK4czqH/nJmeELRcOeMeRKAoAeFo9qPWY181qYmHZRhTdB7qNObkq3dQzDDV5l1tp7A7IV5g8cONgmtJVPrNsH3p21ozDnkKSXIXtPBU1y7EXYObUMOQVnPk5xeSLhbHLCzLB5zhEPeB01nGOn9mDMPqF6T8nxxQdPQx5O+ps3qnUinku6p0djh6GZqzuIxTCQmkn7RWyODShtWKplRBLPodnANP/AzyOCLraV/gSUV6vK7erH8YzGwGQlTVNuC8zq9EeWxJJoM0+xd5ziEcVpk/XSjjQ==;/Pxb2M2rlTeChnXxR1RXcw=="
 ---
 

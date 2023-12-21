@@ -149,6 +149,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Why Generative AI Startups Are So Dependent on Big Tech"
+    excerpt: "Generative AI has developed at a breakneck pace, and Silicon Valley's corporate giants do not want the technology to run away without them. In January, Microsoft's $10 billion investment in OpenAI catalyzed the funding stampede of 2023,"
+    publishedDateTime: 2023-12-20T23:20:00Z
+    webUrl: "https://www.inc.com/sam-blum/why-generative-ai-startups-are-dependent-on-big-tech.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-81981235_535958_nj3ycu.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Google takes steps to prevent abuse of its generative AI tools during U.S. elections"
     excerpt: "Google LLC said today it is planning to restrict the ability of its artificial intelligence chatbot Bard and Search Generative Experience to respond to election-related queries, ahead of the U.S. Presidential election taking place next year. The restrictions will be introduced early next year, the company said."
     publishedDateTime: 2023-12-19T23:45:00Z

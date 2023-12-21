@@ -1,22 +1,20 @@
 ---
 category: news
 title: "Helping vets. Finding tax cheats and illegal rhino horns. How AI could transform government"
-excerpt: "“AI can’t build trust. But bad AI can certainly break trust ... technology to track who is entering and exiting the country. “The initiative to start cataloging those use cases was an important one and it’s very much work in progress,” Arati ..."
+excerpt: "WASHINGTON − What if artificial intelligence could prepare the nation for disastrous weather events, root out fraud and tax cheats, speed up benefit determinations, enforce workplace safety ..."
 publishedDateTime: 2023-12-13T10:10:00Z
-originalUrl: "https://www.indystar.com/story/news/politics/2023/12/13/government-ai-use-growing/71670980007/"
-webUrl: "https://www.indystar.com/story/news/politics/2023/12/13/government-ai-use-growing/71670980007/"
+originalUrl: "https://www.usatoday.com/story/news/politics/2023/12/13/government-ai-use-growing/71670980007/"
+webUrl: "https://www.usatoday.com/story/news/politics/2023/12/13/government-ai-use-growing/71670980007/"
 type: article
-quality: 7
-heat: 7
-published: false
 
 provider:
-  name: The Indianapolis Star
-  domain: indystar.com
+  name: USA Today
+  domain: usatoday.com
 
 topics:
+  - AI in Autos
   - AI
 
-secured: "MVP2wSs6Rd+piswWXmEDIltvbvOi6cHlFA1UPL54Gb0lvPb5ylkIIPxs6Ng96gfLlZuGs/ow3w/SA5JCJVQWygzvVm3qWzTSLqzTUOv+rODM6pEZjeiAboGrFrXPbcStvaoFQZ7tfVia4mv0b1Jei/mv/8al0uNlJKLZgoB9O3C2n/H/2/7vHw3a8EfDHSFk9fsIXeZMyybVWRGegEAiHk/nxiqi2dnN6JZqgH6njMjTnFn4lMGPxSh9KpC42BUCGj4pAmgJ+NXB73sW9Xsmv3HOD9Cx6ZrRtqtrlzIZ9Rks8CgMiaFSRQfI8fQxl1LvyQN00KyQJnyis2fp0IqBY1UcGiu36vPM2Sbz2QFy6/xakCJH4hdR/hw4/CHrsJai81JyDUZ9rlevpgmSCVt9zXZw07r40h3mVsGhC2FE6NyVoQyftGouvnVipiGIRn6V6pjOFd8ealO740Gu+h6Z2Eja9QJrB2KGdE20egFE5J2dsi7NQkGEivCACiPpAYyMrelWFzD5tXhfp+yTFAIF8Q==;H3alqcyotek1FHVOePDD2A=="
+secured: "rRCSv4yHh65VQhBfWWkcbaBL5UqLYCCfhyjc5ceSStv9uhP9EX+xNHeeDYgTuCtZ3JOwphr2vyKV1Ds7jsy1HEX+M9CnKb3aK+/3WCDMrnKWcoXYMplZNd0XCbz/pI9K28oZVetN+SdpkZbiENiN9Ry+M1PD4LvZoZJmuk39fonJnpuR2MJmz2fmNYYR07lDxWiu2QcU/mFB9rx4WmuMAnJoLLArVfm211PmO28S3PmaE7+Bt/cBRhmkweL6DD2LY5ASyvb8/kw0bJwGYv8fqg6bfsuupSFWGWsB+O8PkZ/P1gm9TzFtY3IRecirwvqnAK+YbZy/1iO7dlMHAWHT+k8GG7HqqeWGopmUX4xARh4=;HWgsMi+im3sHzQxblEt9Mw=="
 ---
 

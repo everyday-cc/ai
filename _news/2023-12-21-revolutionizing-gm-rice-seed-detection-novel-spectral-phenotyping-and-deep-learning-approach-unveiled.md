@@ -58,20 +58,6 @@ related:
         width: 783
         height: 762
         isCached: true
-  - title: "Revolutionizing crop phenotyping: self-supervised deep learning enhances green fraction estimation in rice and wheat"
-    excerpt: "The accurate measurement of the green fraction (GF), a critical photosynthetic trait in crops, typically relies on RGB image analysis employing segmentation algorithms to identify green pixels within the crop."
-    publishedDateTime: 2023-12-16T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/1011379"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 16
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/994e23b8-208d-4650-9727-04cbc39e9c50/Rendition/low-res/Content/Public"
-        width: 700
-        height: 462
-        isCached: true
 
 secured: "itPbBWeozTRE+DJG8o7R/MCj8DZuj2fJmnwfBXyxe8kz3CimVgL0OsyuzFVXKdVQGi6TvEjNn/KWznK1KZNNgyBNaFJ11QvHIkkHreANv+xEa8TOlL2mdrZrtUFJE96u0MjZW1dhEh7GWBdT7w8TZH6Z4sLMn1VDA8qvE0zUqT0hZHZlVOvrloNmyszueHU4oC5WcUTVn+NbyzrVV6dI8bru1w5DVcQqJFcv3nclTocrxv+ixAPPbqSQvz1yRKirBkONvDADXzw7L0DL6A0y8ZmnBE0UzPLNaFKR2Cw8v3V6fc+nqwj2YAxi9pjWZ3D0pvX+zaZjMhLbwgz1ffdwu9uUl0iG/05flG0u4JO/2cs=;TX3PF3uj0bZzh4yvDb5Ydw=="
 ---

@@ -48,6 +48,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "CyberRunner AI beats humans in physical skill game for the first time"
+    excerpt: "In an exciting bit of progression, the CyberRunner AI has managed to complete a physical labyrinth maze faster than a human can."
+    publishedDateTime: 2023-12-21T00:08:00Z
+    webUrl: "https://bgr.com/science/cyberrunner-ai-beats-humans-in-physical-skill-game-for-the-first-time/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 37
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/12/cyberrunner-ai-robot-with-maze.png"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Artificial intelligence robot 'physically beats' humans and out-thinks them in new breakthrough"
     excerpt: "Researchers in Switzerland created an AI robot that learned in just six hours to master a popular game of physical skill"
     publishedDateTime: 2023-12-19T13:08:00Z

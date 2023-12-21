@@ -56,6 +56,20 @@ related:
         width: 942
         height: 600
         isCached: true
+  - title: "CyberRunner AI beats humans in physical skill game for the first time"
+    excerpt: "In an exciting bit of progression, the CyberRunner AI has managed to complete a physical labyrinth maze faster than a human can."
+    publishedDateTime: 2023-12-21T00:08:00Z
+    webUrl: "https://bgr.com/science/cyberrunner-ai-beats-humans-in-physical-skill-game-for-the-first-time/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 37
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/12/cyberrunner-ai-robot-with-maze.png"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "JfWNLr3XPBmsgrMezPp89niCkGQ91Eh/KJKahH4RM+TzCfsx8ptaFhJICii0klb35fut3CwPL5LJOsYJ4NKKomYgTYlE99IIlUVqBdUIq/ImNIx2tcUIeJlmNtOfKTP1Rk3+1yprfMGVyuc3yf1vwyEyXEJuy06+emUf9bMox2vPDRijJkHvXh6CYbv8vjlEtjRgdehrjGLZjg+KQcZLM1Ov5Y6rtM8PiBoPy4MXN+n90QmROkw3e+CnIhv02AsvhY1n2oGyJbBVRro0z1vnhJajK70tTJnHoopzD+6stVZOJfDcDovSDx69jFKK2lywNlRbcRF9OSOa7jiAlDgul/CvUyyDiKd/6scq2gDWEBhwl8RbeCOONhu7Ph4NvIYCZ5GpeZtZHj8KowtoQxwmKecTPY7KBsh8GQ/AHfglWIVqNkYzQiWuB7BtW2BH9uNNPZ+MUkSQSVZBrONDZ05O0r205eSRipS7koGGQ2fVH18qEaN/+xrUReXrlsPYC8V7SUurWR+UblpkA72m35TiYg==;SVdKrUoj+iW/8YbOuY73Ow=="
 ---

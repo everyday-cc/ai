@@ -94,16 +94,16 @@ related:
   - title: "For gen AI like Microsoft Copilot, it's looking like 2024 will be a big corporate spending year"
     excerpt: "It’s more than just AI hype. A majority of top tech officers across the economy say their companies are accelerating spend on software like Microsoft Copilot."
     publishedDateTime: 2023-12-20T15:06:00Z
-    webUrl: "https://www.nbcnewyork.com/news/national-international/for-gen-ai-like-microsoft-copilot-its-looking-like-2024-will-be-a-big-corporate-spending-year/4967695/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/for-gen-ai-like-microsoft-copilot-its-looking-like-2024-will-be-a-big-corporate-spending-year/4967695/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/for-gen-ai-like-microsoft-copilot-its-looking-like-2024-will-be-a-big-corporate-spending-year/4967695/?amp=1"
+    webUrl: "https://www.nbcsandiego.com/news/national-international/for-gen-ai-like-microsoft-copilot-its-looking-like-2024-will-be-a-big-corporate-spending-year/3384933/"
+    ampWebUrl: "https://www.nbcsandiego.com/news/business/money-report/for-gen-ai-like-microsoft-copilot-its-looking-like-2024-will-be-a-big-corporate-spending-year/3384933/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcsandiego-com.cdn.ampproject.org/c/s/www.nbcsandiego.com/news/business/money-report/for-gen-ai-like-microsoft-copilot-its-looking-like-2024-will-be-a-big-corporate-spending-year/3384933/?amp=1"
     type: article
     provider:
-      name: NBC New York
-      domain: nbcnewyork.com
+      name: NBC 7 San Diego
+      domain: nbcsandiego.com
     quality: 62
     images:
-      - url: "https://media.nbcnewyork.com/2023/12/107329682-1699299150834-gettyimages-1778708098-js2_4099_isifrhca.jpeg?quality=85&strip=all&resize=1200%2C675"
+      - url: "https://media.nbcsandiego.com/2023/12/107329682-1699299150834-gettyimages-1778708098-js2_4099_isifrhca.jpeg?quality=85&strip=all&resize=1200%2C675"
         width: 1200
         height: 675
         isCached: true

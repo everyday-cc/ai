@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/20/10-questio
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/20/10-questions-to-ask-before-implementing-generative-ai/amp/"
 type: article
 quality: 89
-heat: 229
+heat: 239
 published: true
 
 provider:
@@ -144,6 +144,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WAMJ6PSJ4RCT3EDACYU7WDGUOU.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Why Generative AI Startups Are So Dependent on Big Tech"
+    excerpt: "Generative AI has developed at a breakneck pace, and Silicon Valley's corporate giants do not want the technology to run away without them. In January, Microsoft's $10 billion investment in OpenAI catalyzed the funding stampede of 2023,"
+    publishedDateTime: 2023-12-20T23:20:00Z
+    webUrl: "https://www.inc.com/sam-blum/why-generative-ai-startups-are-dependent-on-big-tech.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-81981235_535958_nj3ycu.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "New generation of chips will drive the AI wave"
     excerpt: "The artificial intelligence chip industry has developed a newfound appreciation for high bandwidth memory, or HBM, the technology behind such lightning-fast data transfers. Analysts had once deemed it unlikely to ever become commercially viable when it was first launched in 2013."

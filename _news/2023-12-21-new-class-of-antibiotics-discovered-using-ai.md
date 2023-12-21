@@ -38,6 +38,15 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Drug Discovery Using Deep Learning"
+    excerpt: "While AI continues to make an impact, it is also limited by the many black box models that obfuscate the underlying decision-making process."
+    publishedDateTime: 2023-12-20T22:41:00Z
+    webUrl: "https://www.genengnews.com/topics/artificial-intelligence/drug-discovery-using-deep-learning/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 19
 
 secured: "6+UkMVguVbEhPYB8YUmNfQr9apqOwEVT9YhdQLw+0yBIh0h17piyEzjuSUcJjngciYSRA67pS0Ut/DB6fLl3u4JzJlWWK2u67sG7WXyuE9nVv0xUvZ8//0s4z8iRhKHaZtCbmNQub/hodglh4m6BkcQsQ306LxZ3HM+tBzW50ushbe18TbX4mMSlBBiRG7zxslwoecAMzThYIoOy3fxsjzs4WhuSHVPfycK6FUKzYJ05vfp22tAcTT+sVKhgjemnRvfcuA+9+FNWuY7ks7CkAmaQoiqiEw+d0VGpDtOqpCXRPXa0kxLiCCoMNrH7wj3K3Gf7nMX5ZAaEhaYa02hbKzMG/ceXFmf3G66hYxs3qa0z1q+sou0pagc5dcCniZEPFacmYnlbWTG7Kyf9SVtuGt7JJszBOgXS3/wH/BsL88Pd36FFOSRBtttYGjJQk2NOmmP+SaEiGPWmLRjz54nNCklfMLUtR7TT6x+ErEraeOsZo+22wolJIKPjjS5rlYErMxzxCTZlY4I6Ctc+29Qegg==;vTgKBK/HuX4hYxeRcJiwCw=="
 ---

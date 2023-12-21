@@ -7,8 +7,8 @@ originalUrl: "https://scitechdaily.com/revolutionizing-antibiotic-discovery-the-
 webUrl: "https://scitechdaily.com/revolutionizing-antibiotic-discovery-the-power-of-explainable-deep-learning/"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: SciTech Daily
@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Drug Discovery Using Deep Learning"
+    excerpt: "While AI continues to make an impact, it is also limited by the many black box models that obfuscate the underlying decision-making process."
+    publishedDateTime: 2023-12-20T22:41:00Z
+    webUrl: "https://www.genengnews.com/topics/artificial-intelligence/drug-discovery-using-deep-learning/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 19
 
 secured: "RrD1Q9fiQQIUDiV0OFlcpBMoumKU1K9KN0m30X2/DSJqLiUZtHgZ7P+hjwWLObX5ojpuBgfFjeyRMeC0lUx0odYjf9ukgfabgYIUFUg0tb2P9fs4RCl5UDTYSCXUUaoYtdg3yhsmh65GYOXJLcwOCOOi9HfkNa16+Q+TSMDITTlOE/U0z8JkdBqysmeih70Ujp4UFoTOB6C1H9u/AiusxugEsUvBrxHKUe3j6A4KS+Z+8QoZl6IbbOn4KeMF6KHtnbLNZarBjNlK1F0gB76IXBth35l3mhmxJvm41+N7EZ45XgxPe96qPIgZEfaEOkNQjcPhRh9CWtWDHW0HSRRPS6mNQ08o+F4Rp+CR3gynlftcg+4qSHp4FPorE98nR640WbK9t7pXWGnzC5fGGHOYeoDPl9UKVkb7RLzV9YHk5U6a+1SPNQ08yV9xov4cZbL/XtGMB4/W9deRFcuODplHYuev76zb38V4SIEJgz71d/08JNBTuh36aNYbMKB8HfA1sPL5R9844hAWyBVoUEJSKw==;6RAa8vDqakk2kNm4dHSbXg=="
 ---
