@@ -57,6 +57,17 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Coforge, Microsoft Azure join hands for new generative AI solution"
+    excerpt: "The development comes after Coforge's recent launch of Coforge Quasar, a Gen AI Platform designed to build Enterprise AI capabilities"
+    publishedDateTime: 2023-12-21T09:21:00Z
+    webUrl: "https://www.business-standard.com/industry/news/coforge-microsoft-azure-join-hands-for-new-generative-ai-solution-123122100528_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/industry/news/coforge-microsoft-azure-join-hands-for-new-generative-ai-solution-123122100528_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/industry/news/coforge-microsoft-azure-join-hands-for-new-generative-ai-solution-123122100528_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 69
   - title: "Microsoft Azure OpenAI Service is 2x More Expensive than Google Vertex AI"
     excerpt: "When compared with Microsoft Azure OpenAI Service advanced models, say GPT-4, especially for training, it's two times more expensive than Vertex AI. For instance, Vertex AI training costs range from $0."
     publishedDateTime: 2023-12-19T07:00:00Z

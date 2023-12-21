@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - Math for AI
+  - Google AI
 
 images:
   - url: "https://i.guim.co.uk/img/media/5e67e2b4e8098dfaafa375a6fbe2425d738a4965/0_43_3000_1800/master/3000.jpg?width=620&quality=85&auto=format&fit=max&s=435ab186909670a8b9470a0626575d88"

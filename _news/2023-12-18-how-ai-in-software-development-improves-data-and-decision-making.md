@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/how-ai-in-software-development-improves-da
 webUrl: "https://techbullion.com/how-ai-in-software-development-improves-data-and-decision-making/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ethical Considerations in Google’s AI Development: A Closer Look"
-    excerpt: "Introduction: In the realm of artificial intelligence (AI) development, Google stands as a juggernaut, pushing the boundaries of innovation. However, the journey toward AI excellence is not without its ethical challenges."
-    publishedDateTime: 2023-12-16T10:11:00Z
-    webUrl: "https://techbullion.com/ethical-considerations-in-googles-ai-development-a-closer-look/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 54
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/Ethical-Considerations-in-Googles-AI-Development-A-Closer-Look.jpg"
-        width: 650
-        height: 450
-        isCached: true
   - title: "The state of AI development According to Google"
     excerpt: "Few advancements could cause both the excitement and fear AI elicits - according to some, it's the solution to humanity's problems. Others will tell you it's the beginning of the end of civilisation as we know it."
     publishedDateTime: 2023-12-19T12:00:00Z

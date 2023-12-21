@@ -22,14 +22,14 @@ related:
   - title: "Should Artificial Intelligence Have Rights?"
     excerpt: "The utility and role of artificial intelligence (AI) in society are growing by leaps and bounds. And the very nature of these \"thinking machines\" has sparked a hypothetical discussion that is both fascinating and troubling: Should artificial intelligence entities be granted rights?"
     publishedDateTime: 2023-12-18T18:25:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202312/should-artificial-intelligence-have-rights"
-    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202312/should-artificial-intelligence-have-rights?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-digital-self/202312/should-artificial-intelligence-have-rights?amp"
+    webUrl: "https://www.psychologytoday.com/za/blog/the-digital-self/202312/should-artificial-intelligence-have-rights"
+    ampWebUrl: "https://www.psychologytoday.com/za/blog/the-digital-self/202312/should-artificial-intelligence-have-rights?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-digital-self/202312/should-artificial-intelligence-have-rights?amp"
     type: article
     provider:
       name: Psychology Today
       domain: psychologytoday.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2023-12/TechRights.png.jpg?itok=3iHeitYH"
         width: 1528

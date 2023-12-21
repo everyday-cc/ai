@@ -7,7 +7,7 @@ originalUrl: "https://seekingalpha.com/article/4658450-nvidia-nvda-ai-boom-and-g
 webUrl: "https://seekingalpha.com/article/4658450-nvidia-nvda-ai-boom-and-ghost-of-cisco-internet-bust"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,50 +22,6 @@ images:
     width: 1536
     height: 1024
     isCached: true
-
-related:
-  - title: "Intel Drops New Core Ultra Processors and Gaudi3 AI Chip to Take on Nvidia and AMD"
-    excerpt: "Intel launches Core Ultra processors and Gaudi3 AI chip to compete with Nvidia and AMD. Core Ultra line features chiplet design, neural processing unit, and specialized AI components for enhanced performance."
-    publishedDateTime: 2023-12-16T10:47:00Z
-    webUrl: "https://www.technobezz.com/news/intel-drops-new-core-ultra-processors-and-gaudi3-ai-chip-to-take-on-nvidia-and-amd/"
-    type: article
-    provider:
-      name: Technobezz.com
-      domain: technobezz.com
-    quality: 48
-    images:
-      - url: "https://cdn.technobezz.com/c/intel_core_ultra_holthaus_jpg_rendition_intel_web_1648_927_d97184be91/intel_core_ultra_holthaus_jpg_rendition_intel_web_1648_927_d97184be91.jpg"
-        width: 1102
-        height: 927
-        isCached: true
-  - title: "GPU Battle: NVIDIA vs AMD"
-    excerpt: "NVIDIA claims that AMD's benchmarks are wrong. AMD tests them and proves NVIDIA wrong. Now, the ball is in NVIDIA's court."
-    publishedDateTime: 2023-12-18T07:51:00Z
-    webUrl: "https://analyticsindiamag.com/gpu-battle-nvidia-vs-amd/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/12/AMD-and-NVIDIA-Battle-for-Best-GPUs.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "New Intel Core Ultra Processor-Based COM Express Compact Modules For AI At The Edge"
-    excerpt: "With features like multiple P-cores, energy-efficient E-cores, and a powerful Intel Arc GPU, coupled with an integrated NPU for advanced AI processing, these modules are set to revolutionise industries like healthcare and industrial automation."
-    publishedDateTime: 2023-12-18T05:54:00Z
-    webUrl: "https://www.electronicsforu.com/news/new-intel-core-ultra-processor-based-com-express-compact-modules-for-ai-at-the-edge"
-    type: article
-    provider:
-      name: electronicsforu
-      domain: electronicsforu.com
-    quality: 33
-    images:
-      - url: "https://www.electronicsforu.com/wp-contents/uploads/2023/12/CONPR2315A-TC700-with-Meteor-Lake-Image-2.jpg"
-        width: 1800
-        height: 1200
-        isCached: true
 
 secured: "scncTmJ0zKLaJwrN/Qqs9blzEEZTP5+VzFiz/DQNUqllAcoQrXvXgfXKPVXAgmF4mAbGGZ9pfNDIlgdoZXaXZ1xjbWIhw4uWMBhshRVQItMulNnoLRsFrq8yQAq7Ak9nmXg3hA7n9VXJdiL/1EOGeWy6OH95ux7pKz/ylJoOEaHtbmtZ5km8ejcpKE5DacVGOnHplVGjb6ZWHakibpgG5MtieiYgrJqBtqVch1n4PIoDd5H+sVezmvz8T7IbCfAosOA8Kq/f0BBvaHfvMBO13jzWz5HomPMtYLE1Rffq2BUqq8ej337Od40raZjh9lbux8oiMSsuRriqYWKqH6ZDCk0HuKN2aafsRUfJPAN8Drs=;ZfmKQyJY+7zkl6DDwR8hFQ=="
 ---

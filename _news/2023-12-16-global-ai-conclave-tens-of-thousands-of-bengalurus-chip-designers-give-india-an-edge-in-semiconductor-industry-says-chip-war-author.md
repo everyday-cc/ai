@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/technology/global-ai-conclave-tens
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/global-ai-conclave-tens-of-thousands-of-bengalurus-chip-designers-give-india-an-edge-in-semiconductor-industry-says-chip-war-author-11914511.html/amp"
 type: article
 quality: 42
-heat: -1
+heat: 42
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global AI Conclave: Talent, not chips, key to India's AI future, says Rajeev Chandrasekhar"
-    excerpt: "The government is working 24/7 to propel India's digital economy to trillion dollars in size by 2026, Rajeev Chandrasekhar said."
-    publishedDateTime: 2023-12-16T09:53:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/talent-not-chips-key-to-indias-ai-future-says-rajeev-chandrasekhar-11913321.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/talent-not-chips-key-to-indias-ai-future-says-rajeev-chandrasekhar-11913321.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/talent-not-chips-key-to-indias-ai-future-says-rajeev-chandrasekhar-11913321.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 64
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/12/Rajeev-770x371.jpg"
-        width: 770
-        height: 371
-        isCached: true
   - title: "Global AI Conclave | Chip Wars author Chris Miller lauds India’s deep talent pool in chip design"
     excerpt: "There are more people in chip design in India than anywhere else in the world, which is an extraordinary base of human capital…If we look at Bangalore, we see 10,000 people working in the chip Industry,"
     publishedDateTime: 2023-12-16T14:46:00Z

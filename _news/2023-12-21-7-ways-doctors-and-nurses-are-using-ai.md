@@ -1,21 +1,28 @@
 ---
 category: news
 title: "7 ways doctors and nurses are using AI"
-excerpt: "Artificial intelligence has the potential to make work more efficient through automation. In the health care industry, AI-backed tools can help doctors, nurses, and researchers quickly sift through data and analyze results to improve research and patient care."
-publishedDateTime: 2023-12-20T17:00:00Z
-originalUrl: "https://www.chron.com/news/article/7-ways-doctors-and-nurses-are-using-ai-18566263.php"
-webUrl: "https://www.chron.com/news/article/7-ways-doctors-and-nurses-are-using-ai-18566263.php"
+excerpt: "AI is changing health care—mainly by cutting down paperwork. Soundry Health analyzed news and reports to understand the state of AI in the industry."
+publishedDateTime: 2023-12-21T09:19:00Z
+originalUrl: "https://kvia.com/news/business-technology/stacker-science/2023/12/21/7-ways-doctors-and-nurses-are-using-ai/"
+webUrl: "https://kvia.com/news/business-technology/stacker-science/2023/12/21/7-ways-doctors-and-nurses-are-using-ai/"
 type: article
-quality: 17
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: KVIA
+  domain: kvia.com
 
 topics:
+  - Meta AI
   - AI
+
+images:
+  - url: "https://kvia.b-cdn.net/2023/12/Shutterstock1155104248I1CL_0.jpg"
+    width: 1010
+    height: 720
+    isCached: true
 
 related:
   - title: "4 Ways AI Transformed Music, Movies and Art in 2023"
@@ -76,19 +83,19 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "A look into artificial intelligence in 2023"
-    excerpt: "We are taking a look at artificial intelligence, specifically its advancement over the past year. Bill Hart-Davidson, associate dean of Graduate Studies at Michigan State University, joined CBS News Detroit to break down how AI evolved across the country,"
-    publishedDateTime: 2023-12-21T02:18:00Z
-    webUrl: "https://www.cbsnews.com/detroit/video/a-look-into-artificial-intelligence-in-2023/"
+  - title: "What’s Ahead for AI In 2024: The Transformative Journey Continues"
+    excerpt: "Organizations increasingly recognize AI’s role in driving decision-making and fostering growth. Here’s what we can expect from AI in 2024."
+    publishedDateTime: 2023-12-21T10:40:00Z
+    webUrl: "https://tdwi.org/Articles/2023/12/21/ADV-ALL-Whats-Ahead-for-AI-In-2024-Transformative-Journey-Continues.aspx"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
+      name: TDWI
+      domain: tdwi.org
+    quality: 39
     images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/12/21/3ced0376-16a6-4d87-8b7c-72e9e7e03333/thumbnail/1200x630/925a3e295dc6b359128ef525b9cf384f/4acbd1ec00b765efff1eac115d1e4b39.jpg?v=5382e209c94ee904b3a96a69f8ca0ce0"
-        width: 1200
-        height: 630
+      - url: "https://tdwi.org/-/media/TDWI/TDWI/BITW/trends1.jpg"
+        width: 976
+        height: 400
         isCached: true
   - title: "Legal Tech's Milestones for Artificial Intelligence in 2023"
     excerpt: "Legal industry experts make their picks for the biggest developments in AI for the legal industry in the past year."
@@ -105,6 +112,6 @@ related:
         height: 633
         isCached: true
 
-secured: "tPOASw066IfV0jQ3wvWy8IMqtGMj2+btQ1bdQfEw9qjPQ+joQkMIlOWh74NZVankZtORZma3OM6aGQhG3si2YLbAllZO/QNd56rjn0Ii2JNOqXzLLXuGWQEtK+arDu1XZJjHEPXOjXvnoNlGT0KenpIaXyKjbwuHPX0W4NgbDp80ZjPG0uSVYYgsMATlzFdvD9LnXVNAEdLgpGX3WC38nnOyDFZ3vsQqgrHArZdkNqb029yD1lU1AChnoL1aSgR5Lzlru2/3GQOtc3jQUM8+pVhfNP2KaaoPPLTnc7J68Vwi1SbCJwKQjdZraRl2CVUmZvzMI4TWIr25f/xDqaZf2kcNpQYkz99Xa9MQ/9h6AwOpF6foEwBO6CrVKM2GPf1emW2zU69eu0/rKUh2vjdcZKB97uUkPpuluoYcUN9lJouqWM0XNwybLADeaai6rSP0NfUCTIUe3Hxx5vBOAVbXKOOvN7kdAdGg/5+YO74DGY8HziOT4E6VUdMjm0cFzJID0nDHWN4iBs8N+pHI8qt0pA==;0n4BjoQELS6upS0nSUxuzA=="
+secured: "43VahPvQEH8wuZN7q+OdOns3CpQNfhn9Ar8we270p/nxwD1CaJRPNl6oA2Yb6jh6br+/d0xdG2CsG4REqxeO9U5F7zXVCIY2/rdlO9jpOFnQSl2v+0Bz7Nw+0DpVzy1FiJtyZKI3/xaqFsp0rn0JKQFnWtlT/N40lb5MtrTN6bthBqaGmuDu6x/sv5jbioQ4V7nsCr6gd0/VUbE4fx+dPCrU7G/iK6TUESxc/Tcly5rFUt+/3KZlFZT9gG3ky0Da36YTEJ/PL/jv+j92gxr5wjBmhcO1j1mR4MAGDiLpGsuQJa/QemW/pr82UVIi6iKiwSK3P8AG8FsxUxq70FGk72z8qaDwXU0i2DJWaIukzmo=;ucjcxtkaAhM36dtS2BBdOw=="
 ---
 

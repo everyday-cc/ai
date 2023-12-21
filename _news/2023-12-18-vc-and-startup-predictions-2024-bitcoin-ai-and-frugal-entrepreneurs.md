@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/kjartanrist/2023/12/18/vc-and-startup
 webUrl: "https://www.forbes.com/sites/kjartanrist/2023/12/18/vc-and-startup-predictions-2024-bitcoin-ai-and-frugal-entrepreneurs/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -22,22 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "My One Big Tech-Fueled Prediction for 2024: AI ‘Vanishes’"
-    excerpt: "So, here we go: In the year ahead, artificial intelligence will become ever more pervasive. So pervasive, in fact, that it will start to become invisible — to actually begin to vanish, from the hype cycles, even from our consciousness."
-    publishedDateTime: 2023-12-16T11:01:00Z
-    webUrl: "https://www.forbes.com/sites/joemckendrick/2023/12/16/my-one-big-tech-fueled-prediction-for-2024-ai-vanishes/"
-    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/12/16/my-one-big-tech-fueled-prediction-for-2024-ai-vanishes/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/12/16/my-one-big-tech-fueled-prediction-for-2024-ai-vanishes/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/657d2ec97bc13a21c41dc9b9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
   - title: "Bill Gates’ predictions for 2024: fewer undernourished kids, more AI"
     excerpt: "In what's become a year-end tradition, Microsoft co-founder Bill Gates has offered his predictions for the year ahead. Spoiler: Gates says AI is a big deal in 2024."
     publishedDateTime: 2023-12-19T04:01:00Z

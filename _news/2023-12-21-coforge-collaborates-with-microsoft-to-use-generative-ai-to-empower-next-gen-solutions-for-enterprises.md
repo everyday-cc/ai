@@ -71,6 +71,17 @@ related:
         width: 1600
         height: 1000
         isCached: true
+  - title: "Coforge, Microsoft Azure join hands for new generative AI solution"
+    excerpt: "The development comes after Coforge's recent launch of Coforge Quasar, a Gen AI Platform designed to build Enterprise AI capabilities"
+    publishedDateTime: 2023-12-21T09:21:00Z
+    webUrl: "https://www.business-standard.com/industry/news/coforge-microsoft-azure-join-hands-for-new-generative-ai-solution-123122100528_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/industry/news/coforge-microsoft-azure-join-hands-for-new-generative-ai-solution-123122100528_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/industry/news/coforge-microsoft-azure-join-hands-for-new-generative-ai-solution-123122100528_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 69
   - title: "Microsoft Azure OpenAI Service is 2x More Expensive than Google Vertex AI"
     excerpt: "When compared with Microsoft Azure OpenAI Service advanced models, say GPT-4, especially for training, it's two times more expensive than Vertex AI. For instance, Vertex AI training costs range from $0."
     publishedDateTime: 2023-12-19T07:00:00Z
@@ -418,6 +429,6 @@ related:
       domain: cnbctv18.com
     quality: 19
 
-secured: "y31SoGGJwQgaemtotB7bKSiS0r7U5zOiL6QzFMqrtKyilpj6Cz1xgMAaW8pveQk41yKF9S4daQ1IFBsNkf2JU5/feJh3F2zq93vdpWQ5Q1ycjIlCKAiXqfceDQdMS8EAE/2JRlKIB59ZMvNxJH7CBaXFo/dhnOqWtbXYX++a3f/mia+xMTE15vDue/oVtdv5XWA0yeVmJudYTik5ZWgtZMX3sRfNawC34hD4nxtI1PhE0ETRA1wrccok7VenXHN/hbmzoS5QTsRhqnR9ExjbbXgeHCI2LTQgXWNd4vF0pwLetoRugtvlwTYWZZnwvrujQ4Rh6D6VU50OL/3d2zfKwHHYLtJo9xJJpiDJph+dbuo=;ykWOr8IelrpM3FhEhNinzw=="
+secured: "qKgy2mXe+L+vB7Xd/XJG894Hv7zrxzFAbEad8mWUmPtepzFgB1yR6IGCw8hdS+N1ACf842sS9/th7MKXqR1xJdcxwLGorEkvEiCPPLpnOC9tbgsOXsnUyy0QwAhHQ0L5hf6TlXMplYSdyNV9X70pIEUBHG+dsZXpECB3oRBprljQGOHPhiqQgp20s8SzW7J9qyc3hfcFz4IaHndNgUZZeYmXIXlWMraV+YkpzjhVAVKRV4ltWhMUfoRZrHV/oTmyz/UASHPrPAyk9iujZTr07xstJXvWWRVxoKCJW7CJSVW4dCw0W7j8ufULNnb0JFtHW1TKsd7LRISqhVvalUsWz+dwdKpJUwnDkWtsotP0QbN5eO+bLCplg1Pas3jKtjaA31Ap99JpSp25B3yYmxuAb1W79vJny9wWBw6ZBtTLJAfvSNgbc2tilQ29p8ARbOv/Zi0A83LL9+YTPpkZLwCrs8o4daaDi9PpNo3X0yE6FU2OMlVSLl7MXoPtkHDUsVH0ruaD173TkUDZKeNzn4Bz5w==;pRqCwsX2HXg+r4/oTVXN0A=="
 ---
 

@@ -82,29 +82,34 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "A look into artificial intelligence in 2023"
-    excerpt: "We are taking a look at artificial intelligence, specifically its advancement over the past year. Bill Hart-Davidson, associate dean of Graduate Studies at Michigan State University, joined CBS News Detroit to break down how AI evolved across the country,"
-    publishedDateTime: 2023-12-21T02:18:00Z
-    webUrl: "https://www.cbsnews.com/detroit/video/a-look-into-artificial-intelligence-in-2023/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/12/21/3ced0376-16a6-4d87-8b7c-72e9e7e03333/thumbnail/1200x630/925a3e295dc6b359128ef525b9cf384f/4acbd1ec00b765efff1eac115d1e4b39.jpg?v=5382e209c94ee904b3a96a69f8ca0ce0"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "7 ways doctors and nurses are using AI"
-    excerpt: "Artificial intelligence has the potential to make work more efficient through automation. In the health care industry, AI-backed tools can help doctors, nurses, and researchers quickly sift through data and analyze results to improve research and patient care."
-    publishedDateTime: 2023-12-20T17:00:00Z
-    webUrl: "https://www.chron.com/news/article/7-ways-doctors-and-nurses-are-using-ai-18566263.php"
+    excerpt: "AI is changing health care—mainly by cutting down paperwork. Soundry Health analyzed news and reports to understand the state of AI in the industry."
+    publishedDateTime: 2023-12-21T09:19:00Z
+    webUrl: "https://kvia.com/news/business-technology/stacker-science/2023/12/21/7-ways-doctors-and-nurses-are-using-ai/"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 17
+      name: KVIA
+      domain: kvia.com
+    quality: 39
+    images:
+      - url: "https://kvia.b-cdn.net/2023/12/Shutterstock1155104248I1CL_0.jpg"
+        width: 1010
+        height: 720
+        isCached: true
+  - title: "What’s Ahead for AI In 2024: The Transformative Journey Continues"
+    excerpt: "Organizations increasingly recognize AI’s role in driving decision-making and fostering growth. Here’s what we can expect from AI in 2024."
+    publishedDateTime: 2023-12-21T10:40:00Z
+    webUrl: "https://tdwi.org/Articles/2023/12/21/ADV-ALL-Whats-Ahead-for-AI-In-2024-Transformative-Journey-Continues.aspx"
+    type: article
+    provider:
+      name: TDWI
+      domain: tdwi.org
+    quality: 39
+    images:
+      - url: "https://tdwi.org/-/media/TDWI/TDWI/BITW/trends1.jpg"
+        width: 976
+        height: 400
+        isCached: true
 
 secured: "r+cDAaRmVNuR0w9ch9QYdcdH0XQnhjS2w1dtX6YEtmKkjwz2VP6ZtEUEsZevdHrD6N0rBhHxoklZaBVJbYzARseSfWmFEveYlQWbxgxm5Cf32RYheRDjjn6CEd6z3dCAEhaNU0TK1gMNEuH/I00lwwlIw4RQKn5m+quh0znytUE7BEe27A37MqSu1ii8vHNhFD5qsu/CI3z0Uc2yNwkZlApFh3STz9FNNu3XhIP13155UWfW6kk049rkz1cGK/qxXOdE036UcicChqDQqz6aFO1p56sLNrHb7aALp4JqeawJ2B3n32VpMcLlv3nSVcg/wlseainwdhWVR1leSbTBkx//EM6QeAOWq3AjSiYSmLx1cksMWZFyRZEcu+zC8rzpEr/GJvtKBAUC1kIr5fq+NuBeSlAEyasqh68gI9e4N1dgEh6aXSvvI9sqkUMqgZK/OLyuXjHxFcRqNmYWAt1DNF/5r+8UG3SbrqL1Md3k4/40kVJj7P83uPgu7DfumXgWWHzDbRCSfF+AR39Rq0lVgQ==;S8mruqENLls1+z/RECkX3w=="
 ---

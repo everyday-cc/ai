@@ -39,29 +39,6 @@ related:
         width: 1322
         height: 900
         isCached: true
-  - title: "Tang Xiao’ou, the CUHK professor and founder of the artificial intelligence giant SenseTime, dies at age 55"
-    excerpt: "Tang’s academic career at CUHK began in 1998, and he mentored many accomplished engineers and computer scientists, who would go on to spur China’s lead in artificial intelligence."
-    publishedDateTime: 2023-12-16T10:25:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3245325/tang-xiaoou-cuhk-professor-and-founder-ai-giant-sensetime-dies-age-55"
-    type: article
-    provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 49
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/12/16/35d4b53d-774c-4a56-89e1-727cde438510_1e5e806f.jpg?itok=d7pusfss&v=1702722297"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "China AI Firm SenseTime Says Co-Founder Tang Died After Illness"
-    excerpt: "Tang Xiao’ou, co-founder of Chinese artificial intelligence firm SenseTime Group Inc., died on Friday after an illness, the company said in a statement."
-    publishedDateTime: 2023-12-16T10:18:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-12-16/china-ai-firm-sensetime-says-co-founder-tang-died-after-illness"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
 
 secured: "1r5KV00AZZaX2O0mMe3CUg43PHVAHK4M8fvhWubbodAXSD/onYzyFN5Mw66+z7wMKMl+lfEUWzUINKz15Rd0ybvy0sYQAmZiXtM6Ux+PQEWrtPvtw4G0luNmtvVVupZc37J2zXRmOFp7G+CYILcEAcbeCmrx32hUV/Um30Z0PqPAtzs9Bh07ja8eFS5vfTIjRoGqnG1WpNloQlw0orPitub9uhhfNP8tjGVzkjOAq+rcpt50m+f8G79wly78rqHEQulK0U3QDkrcHd84+mw/Ei2uCOzcWsbp/1KTmu8pTZmi9ChX3y9PsKG4QYvPzyEflguH2r735P/gfCb8qxxrinta4TkacKi/hHpfO0uJ74P4tKN8mDZOe8nn++7cgC7Pz6GGcmeRo6tJhUGZjT0MZI0eWbuhywKgpAupM1LfJ6fYJsatganYzYgYdcau95lg5b4F+gzY9pywDIkTxtbax6Uz6vEKE2Y563KUl6/TfZLuyxu7fOrghKNWC0hulxA9nK29Pq9CBx7/MIxWpqAndQ==;BAWhECXqnh2PtVRn2qWvpg=="
 ---

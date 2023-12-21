@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "This AI can find your location just by looking at a few photos"
-    excerpt: "Developed by Stanford graduate students, an AI model can determine -- with impressive accuracy -- a specific location simply by looking at Google Street View."
-    publishedDateTime: 2023-12-19T09:30:00Z
-    webUrl: "https://www.zdnet.com/article/this-ai-can-find-your-location-just-by-looking-at-a-few-photos/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/this-ai-can-find-your-location-just-by-looking-at-a-few-photos/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-ai-can-find-your-location-just-by-looking-at-a-few-photos/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/58157e43f877c0437e9c99979c3b85c1b708481e/2023/12/19/99dbcc02-ed35-41ed-b328-12ad8204338c/stretviewgettyimages-1247162865.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Artificial intelligence can find your location in photos, worrying privacy experts"
     excerpt: "Three Stanford graduate students built an AI tool that can find a location by looking at pictures. Civil rights advocates warn more advanced versions will further erode online privacy."
     publishedDateTime: 2023-12-19T14:01:00Z

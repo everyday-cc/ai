@@ -66,6 +66,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 31
+  - title: "Key Trends Set to Shape Fintech Throughout 2024."
+    excerpt: "Innovations in fintech continued to evolve over the course of 2023. Leading into 2024, Gen Z continues to lead the way with fintech service adoption as digital wallet use surges, and the adoption of AI advances the industry."
+    publishedDateTime: 2023-12-18T11:03:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/key-trends-set-shape-fintech-throughout-2024"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/lanistar_21.png"
+        width: 1150
+        height: 648
+        isCached: true
   - title: "Register now for the Citi Cup fintech competition"
     excerpt: "Citigroup Services and Technology (China) (CSTC) has announced that the 19th Citi Financial Innovation Application Competition (also known as the Citi Cup) is open for online registration. CSTC leads Citigroup's financial technology and financial operations services industry in China."
     publishedDateTime: 2023-12-18T04:16:00Z

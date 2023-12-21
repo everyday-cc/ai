@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/ywang/2023/12/16/hong-kong-billionair
 webUrl: "https://www.forbes.com/sites/ywang/2023/12/16/hong-kong-billionaire-professor-tang-xiaoou-cofounder-of-ai-giant-sensetime-dies-at-55/"
 type: article
 quality: 58
-heat: 88
-published: true
+heat: 68
+published: false
 
 provider:
   name: Forbes
@@ -28,29 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tang Xiao’ou, the CUHK professor and founder of the artificial intelligence giant SenseTime, dies at age 55"
-    excerpt: "Tang’s academic career at CUHK began in 1998, and he mentored many accomplished engineers and computer scientists, who would go on to spur China’s lead in artificial intelligence."
-    publishedDateTime: 2023-12-16T10:25:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3245325/tang-xiaoou-cuhk-professor-and-founder-ai-giant-sensetime-dies-age-55"
-    type: article
-    provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 49
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/12/16/35d4b53d-774c-4a56-89e1-727cde438510_1e5e806f.jpg?itok=d7pusfss&v=1702722297"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "China AI Firm SenseTime Says Co-Founder Tang Died After Illness"
-    excerpt: "Tang Xiao’ou, co-founder of Chinese artificial intelligence firm SenseTime Group Inc., died on Friday after an illness, the company said in a statement."
-    publishedDateTime: 2023-12-16T10:18:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-12-16/china-ai-firm-sensetime-says-co-founder-tang-died-after-illness"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
   - title: "SenseTime co-founder dies, casting shadow over Chinese facial recognition giant"
     excerpt: "SenseTime is known as one of China’s “four little dragons” of AI, along with fellow facial recognition-providers Cloudwalk Technology, Megvii and Yitu."
     publishedDateTime: 2023-12-18T17:41:00Z

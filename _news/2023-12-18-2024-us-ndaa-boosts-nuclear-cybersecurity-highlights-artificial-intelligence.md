@@ -41,6 +41,34 @@ related:
         width: 906
         height: 630
         isCached: true
+  - title: "NVIDIA: Advancing cybersecurity efforts with Gen AI"
+    excerpt: "NVIDIA's David Reber Jr. discusses Gen AI's role in cybersecurity, fraud detection, and threat analysis for banks. Stay ahead of evolving risks"
+    publishedDateTime: 2023-12-21T09:01:00Z
+    webUrl: "https://fintechmagazine.com/articles/nvidia-advancing-cybersecurity-efforts-with-gen-ai"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 39
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/8f788e41b38c630338e6aeb130f4658a:40991132fb311307bde85bdc4fd92ca0/gettyimages-493247947.jpg.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence In Cybersecurity Market Predicted to Reach US$ 91.7 Billion Valuation by 2032, Fueled by 16.2% CAGR"
+    excerpt: "The artificial intelligence in cybersecurity market is valued at over US$ 16.5 billion. The market is anticipated to have risen at a CAGR of 16.2% during the ensuing ten years by the end of 2032 and be valued at around US$ 91."
+    publishedDateTime: 2023-12-21T09:59:00Z
+    webUrl: "https://www.fmiblog.com/2023/12/21/artificial-intelligence-in-cybersecurity-market-predicted-to-reach-us-91-7-billion-valuation-by-2032-fueled-by-16-2-cagr/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 13
+    images:
+      - url: "https://www.fmiblog.com/wp-content/uploads/2023/12/Artificial-Intelligence-In-Cybersecurity-Market.jpg"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "sjMjxMAuTHuI6b+JjesWwJ+icZQMr1/Ex/7oDq+XHtt1Bdl4IvvcvM8XQSLA2JM2ZNjqo3/e5pTItXmT6pxTYH/iC8a3oFCOBuyfdWhZSpPNpTxLVZrSEutfboLYUriZW9IjtCZ3p7hZObkihp1m3Dotfb4WbRxzzAxW0tA2aiPZTOgfrIAADjGwUZGcLoKOy1A65wATp1YhBCXAGOoFHqN72nonjauSE9ByaOJsBRsQ1UqLZIRFul1vylI9pGQXujZDyXzY9SeBcQkKhc+t/LanB/LUm5VK/GOWoM8lavskZKeQyCfWA1lzSoZNvMmiZPzmzwAbitwugTIuplEGhd0TO41opG1Z4vys5081WKdBP2tWSmne1HPMQqY42FRkiJrAzYzeiEwfc9DoDxHccNnTaweTJ4Hq4C6L2xefptRluKDBsppxsdg0eEQVM5nlx/WONm834UTYAW81YrirH9PiWqAgqj6wN9Gp6CyDHljA24M62Mm3lYsTe4B3oJfVhInTdJddqhMkXd/pW+Byqg==;TuyWWBtLi5/Bcvaj9wsKBg=="
 ---

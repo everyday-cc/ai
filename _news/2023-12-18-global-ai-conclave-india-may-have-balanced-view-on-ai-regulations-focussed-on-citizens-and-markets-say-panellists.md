@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Global AI Conclave: Talent, not chips, key to India's AI future, says Rajeev Chandrasekhar"
-    excerpt: "The government is working 24/7 to propel India's digital economy to trillion dollars in size by 2026, Rajeev Chandrasekhar said."
-    publishedDateTime: 2023-12-16T09:53:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/talent-not-chips-key-to-indias-ai-future-says-rajeev-chandrasekhar-11913321.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/talent-not-chips-key-to-indias-ai-future-says-rajeev-chandrasekhar-11913321.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/talent-not-chips-key-to-indias-ai-future-says-rajeev-chandrasekhar-11913321.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 64
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/12/Rajeev-770x371.jpg"
-        width: 770
-        height: 371
-        isCached: true
   - title: "Global AI Conclave: Tens of thousands of Bengaluru's chip designers give India an edge in semiconductor industry, says Chip War author"
     excerpt: "\"If you look at the chip industry today, most of the value still lies in chip design. If you speak to TSMC, they might say we would rather be like Nvidia,\" Chip War author Chris Miller said."
     publishedDateTime: 2023-12-16T14:56:00Z

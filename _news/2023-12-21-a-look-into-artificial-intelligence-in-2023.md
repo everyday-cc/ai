@@ -24,87 +24,52 @@ images:
     isCached: true
 
 related:
-  - title: "4 Ways AI Transformed Music, Movies and Art in 2023"
-    excerpt: "From Drake impersonators to the Hollywood strike, AI provoked both enthusiasm and panic across the entertainment world."
-    publishedDateTime: 2023-12-20T22:09:00Z
-    webUrl: "https://time.com/6343945/ai-music-movies-art-2023/"
+  - title: "A first look at Windows AI Studio"
+    excerpt: "Windows AI Studio offers an interesting hybrid of Windows and Linux tools, working across both your CPU and GPU, using the Windows Subsystem for Linux (WSL) to host and run models. It’s an approach that does demand capable hardware, with plenty of memory ..."
+    publishedDateTime: 2023-12-21T10:00:00Z
+    webUrl: "https://www.infoworld.com/article/3711804/a-first-look-at-windows-ai-studio.html"
+    ampWebUrl: "https://www.infoworld.com/article/3711804/a-first-look-at-windows-ai-studio.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711804/a-first-look-at-windows-ai-studio.amp.html"
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 67
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 89
     images:
-      - url: "https://api.time.com/wp-content/uploads/2023/12/GettyImages-1252545292.jpg?quality=85"
-        width: 1024
-        height: 683
+      - url: "https://images.idgesg.net/images/article/2020/09/user_in_thought_thinking_consideration_intelligence_strategy_by_rowan_jordan_gettyimages-1090113184_2400x1600-100858483-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Four trends that changed AI in 2023"
-    excerpt: "This has been one of the craziest years in AI in a long time."
-    publishedDateTime: 2023-12-19T10:16:00Z
-    webUrl: "https://www.technologyreview.com/2023/12/19/1085696/four-trends-that-changed-ai-in-2023/"
-    ampWebUrl: "https://www.technologyreview.com/2023/12/19/1085696/four-trends-that-changed-ai-in-2023/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/19/1085696/four-trends-that-changed-ai-in-2023/amp/"
+  - title: "This AI can find your location just by looking at a few photos"
+    excerpt: "Developed by Stanford graduate students, an AI model can determine -- with impressive accuracy -- a specific location simply by looking at Google Street View."
+    publishedDateTime: 2023-12-19T09:30:00Z
+    webUrl: "https://www.zdnet.com/article/this-ai-can-find-your-location-just-by-looking-at-a-few-photos/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/this-ai-can-find-your-location-just-by-looking-at-a-few-photos/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-ai-can-find-your-location-just-by-looking-at-a-few-photos/"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 61
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/03/image_dissolves_into_noise2.jpeg?w=2048"
-        width: 2048
-        height: 1152
+      - url: "https://www.zdnet.com/a/img/resize/58157e43f877c0437e9c99979c3b85c1b708481e/2023/12/19/99dbcc02-ed35-41ed-b328-12ad8204338c/stretviewgettyimages-1247162865.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "This AI transformer tech-powered robot taught itself to walk"
-    excerpt: "The researchers allowed the bot to learn how to walk inside a simulator and then transferred the knowledge to the robot without the need for any fine-tuning."
-    publishedDateTime: 2023-12-20T11:54:00Z
-    webUrl: "https://interestingengineering.com/innovation/humanoid-taught-itself-to-walk"
+  - title: "AWS Study Finds Increasing Focus on Responsible AI"
+    excerpt: "An AWS study finds that attitudes are changing toward responsible AI usage. Find out what the study reveals and what it means for the future."
+    publishedDateTime: 2023-12-16T16:05:00Z
+    webUrl: "https://www.eweek.com/artificial-intelligence/aws-study-finds-increasing-focus-on-responsible-ai/"
     type: article
     provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 54
+      name: eWeek
+      domain: eweek.com
+    quality: 84
     images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/12/20/image/jpeg/DPsWRbtuTA2gmzC7Yov3mD07KgfEQeqFEWjbzHRf.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://www.eweek.com/wp-content/uploads/2023/12/ew_20231214-aws-study-find-a-shift-in-the-attitude-toward-responsible-ai.png"
+        width: 1400
+        height: 900
         isCached: true
-  - title: "3 ways generative AI will transform your people strategy in 2024"
-    excerpt: "As we navigate this pivotal time, we explore three transformations on the horizon that we believe HR and talent leaders should be mindful of in the coming year."
-    publishedDateTime: 2023-12-19T16:19:00Z
-    webUrl: "https://www.benefitspro.com/2023/12/19/3-ways-generative-ai-will-transform-your-people-strategy-in-2024/"
-    type: article
-    provider:
-      name: Benefits Pro
-      domain: benefitspro.com
-    quality: 39
-    images:
-      - url: "https://images.benefitspro.com/contrib/content/uploads/sites/412/2023/10/Business-Global-Network-Article-202310031603.jpg"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "Legal Tech's Milestones for Artificial Intelligence in 2023"
-    excerpt: "Legal industry experts make their picks for the biggest developments in AI for the legal industry in the past year."
-    publishedDateTime: 2023-12-20T18:49:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/12/20/legal-techs-milestones-for-artificial-intelligence-in-2023/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 37
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/12/Display-Arts-01-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
-  - title: "7 ways doctors and nurses are using AI"
-    excerpt: "Artificial intelligence has the potential to make work more efficient through automation. In the health care industry, AI-backed tools can help doctors, nurses, and researchers quickly sift through data and analyze results to improve research and patient care."
-    publishedDateTime: 2023-12-20T17:00:00Z
-    webUrl: "https://www.chron.com/news/article/7-ways-doctors-and-nurses-are-using-ai-18566263.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 17
 
 secured: "+Akv1zbbaaELkW77uOlfYEkPDiDq6tjZrXgMTFBXANco0WHshZpbMpFUjQFoINcqlMwtl8U/9FuQ67oRIdzXPXxIKETmFN6J7tJ0QGzjHJzwq8Q2B5sbfKt2obOLG6cvys8OmqxIk4eordcMTrq2JBkWndzhGJIDnpX2IX7d4JCd4RkArBoQFUTNIr8A8MRPtnLpvfKtzdRKgMV0e9oeNtAViPp/9GmrG0YFURgm2y6QYCC5nEG7IEnPfo2YNV3IzzNRw/tWvp0IrwxNaJYRwp6qE3eRuZ2WDuKaQKXTkDbRvBGkXLIEWcUmrk00ONUe+Ci2odHG+Vv2Ecx4+QCI+8p4S4V+qI0GpKuyhfyu++v677Cioym2xLzEMDrvAebAphPDeZ6wLyyfOILOaOUWwq52KKEE9kJXO0jBPapFN6YvrKQREIM7PZOYCf1VuiUm4/V2vE5i501ilbbbibdsOsukDd1h+qfrjEeNtc9EebyuLfqc/swnNkIs0YGCVsGIri6ltdGx1KgLi/loWRuxvw==;qv2YJinQVv1SZtqetRBuaw=="
 ---

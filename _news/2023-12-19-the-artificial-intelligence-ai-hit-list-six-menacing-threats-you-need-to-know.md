@@ -9,7 +9,7 @@ ampWebUrl: "https://pctechmag.com/2023/12/the-artificial-intelligence-ai-hit-lis
 cdnAmpWebUrl: "https://pctechmag-com.cdn.ampproject.org/c/s/pctechmag.com/2023/12/the-artificial-intelligence-ai-hit-list-six-menacing-threats-you-need-to-know/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://pctechmag.com/wp-content/uploads/2023/12/AI.jpg"
         width: 990
         height: 467
-        isCached: true
-  - title: "Top 5 Artificial Intelligence (AI) Stocks You Need To Know For 2024"
-    excerpt: "Artificial intelligence was salvation for Wall Street this year and it could heat up in 2024. Click here for top 5 AI stocks for 2024."
-    publishedDateTime: 2023-12-17T21:00:00Z
-    webUrl: "https://seekingalpha.com/article/4658125-top-5-artificial-intelligence-ai-stocks-you-need-to-know-for-2024"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 52
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1050855182/image_1050855182.jpg?io=getty-c-w1536"
-        width: 1536
-        height: 1024
         isCached: true
 
 secured: "U7NLPIyyUOXMZ8Ri5/DjTOlir3DUiLJW+j/MinSmEr69fSov00i+Qvxw9uhgm0gHrTrxybVaCSpRqtXz0mZMnEQIK8ClQgnZPetsWhmYpaBs8YVYcOaEIAyRXMUNVwa3FozWMvshZj8NNzY23hsV/zv0G81MOV0kiqfqjIVRuIu05yzZ1HCRvTOM45hoLmhR3b7rapwRZ19v5l3aD0loi+GkUTImD7Y2FTdtLUDH8dZVuxAXOK631ZvmIZopdjXXRXMiI5LJeGZgw33lIi6+Effk9rz23SBNPkIQevlj9pq5knZb4g6fX1wxF2wMwd36/QN2zPCHLhi7Y26meIo+/W0EOZcMmheykDN+eXcQj8Oxr+Ywl8PxZ70zfSu6sYriGe1uaOUJ7nOmo8An+5MmLIFfBT4eFMQ1+dN+svU2C8srLYZTQRDDnzOc3kjXe93xsA9Q/tER3R0Xwp0xwDvXGg8+igDLjAsq8qkYrntobWfBHzs/DThXF9H7TmC9/zg1j9BDPcMYXdWPW9xfoBTaAQ==;p4aRKeFRD4ZN3fat6H6/sg=="

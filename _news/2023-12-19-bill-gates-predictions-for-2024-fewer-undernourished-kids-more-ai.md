@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "My One Big Tech-Fueled Prediction for 2024: AI ‘Vanishes’"
-    excerpt: "So, here we go: In the year ahead, artificial intelligence will become ever more pervasive. So pervasive, in fact, that it will start to become invisible — to actually begin to vanish, from the hype cycles, even from our consciousness."
-    publishedDateTime: 2023-12-16T11:01:00Z
-    webUrl: "https://www.forbes.com/sites/joemckendrick/2023/12/16/my-one-big-tech-fueled-prediction-for-2024-ai-vanishes/"
-    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/12/16/my-one-big-tech-fueled-prediction-for-2024-ai-vanishes/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/12/16/my-one-big-tech-fueled-prediction-for-2024-ai-vanishes/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/657d2ec97bc13a21c41dc9b9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
   - title: "VC And Startup Predictions 2024: Bitcoin, AI, And Frugal Entrepreneurs"
     excerpt: "Many VCs and startups will be happy to see the back of 2023, but what does 2024 have in store for the ecosystem?"
     publishedDateTime: 2023-12-18T12:56:00Z
