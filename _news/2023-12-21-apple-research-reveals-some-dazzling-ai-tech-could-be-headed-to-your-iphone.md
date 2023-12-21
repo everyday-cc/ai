@@ -1,0 +1,50 @@
+---
+category: news
+title: "Apple research reveals some dazzling AI tech could be headed to your iPhone"
+excerpt: "LLM in a flash. Animated avatars. Smarter Siri. Apple GPT. New research suggests an upcoming iPhone that's utterly transformed."
+publishedDateTime: 2023-12-21T10:40:00Z
+originalUrl: "https://www.zdnet.com/article/apple-research-reveals-some-dazzling-ai-tech-headed-to-your-iphone/"
+webUrl: "https://www.zdnet.com/article/apple-research-reveals-some-dazzling-ai-tech-headed-to-your-iphone/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/apple-research-reveals-some-dazzling-ai-tech-headed-to-your-iphone/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/apple-research-reveals-some-dazzling-ai-tech-headed-to-your-iphone/"
+type: article
+quality: 85
+heat: 95
+published: true
+
+provider:
+  name: ZDNet
+  domain: zdnet.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://www.zdnet.com/a/img/resize/bce2fe06deb5f07342fe444aa57b457ba6ce1a11/2023/11/03/4ac6a074-2ca2-4c64-a760-3695c25d5833/dsc09813.jpg?auto=webp&fit=crop&height=675&width=1200"
+    width: 1200
+    height: 675
+    isCached: true
+
+related:
+  - title: "Apple’s latest AI research could completely transform your iPhone"
+    excerpt: "Apple researchers have introduced new techniques to create photorealistic 3D avatars from video and enable advanced AI systems to run efficiently on devices with limited memory, such as an iPhone or iPad."
+    publishedDateTime: 2023-12-21T04:00:00Z
+    webUrl: "https://venturebeat.com/ai/apples-latest-ai-research-could-completely-transform-your-iphone/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/12/Abstract_painting_of_the_Apple_Inc._logo_eb812d27-de0a-41d4-9c76-c7ec62ea3954-transformed-1.jpg?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
+
+secured: "ZE1Zvu0aOF3L5A9rBaBDZ4Ub4kwm4EZuUAdLGe7bZ6z9id/PpwRu+gxCNIXGz9Uo+liQS1bZ0Ewr2nuk2YGLY4e53X+oykuP0rDZRYtoyrGoJYII4tD+DeVYAlNhZwSqc6M24IojeXNj2+YMP496xv9ivsLUnAumlrIalx1Hp/b1YfcMdBEAfmtDS/kDSxe9wfkDwPIZJ8IcISKEmLgsfdKmqhEEsQNS3Y4kA+qK+0Px8/SgAOh9SFYMgrmwFnm7sNbc3mz9ik9j6z5S53IGnPIUch9I71yYbtNw7qvmld5t8gcpmgZIIPcdvSi/KGH4d1/5bMW09oDncMsZ7glDhxS4K8HgHZaYeXe3nr6ysy0=;1opbMr2j0ErDG9O09ZoMfA=="
+---
+

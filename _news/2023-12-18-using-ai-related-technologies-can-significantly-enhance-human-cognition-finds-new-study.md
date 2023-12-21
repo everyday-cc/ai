@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI talent wanted: The federal government is searching far and wide to fill new cutting-edge positions"
+    excerpt: "D.C. (Photo by Chip Somodevilla/Getty Images) As the White House moves forward with the implementation of its executive order on artificial intelligence, a shortage of domestic workers skilled in AI is creating opportunities for experts around the world to ..."
+    publishedDateTime: 2023-12-21T00:00:00Z
+    webUrl: "https://fedscoop.com/ai-talent-wanted/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 24
+    images:
+      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2019/07/36565395680_51dc9a84f9_o.jpg?w=600"
+        width: 600
+        height: 320
+        isCached: true
 
 secured: "WQF4hyzQVwLXUcQ9fQ4mBMAJlm04rAizNatd/lwO4JijEeRPMTVOcvct/yHrqYOc/S10m+VxMNqsEFU/7Cfe+U+QrXZ1FwAAC3/5fybxW1FCjulXvptUwZlDUml6Azzj5+sRt3Bq9sDMYzp8uZzxgIbvjRfCWoeNHaw/5U5H10iaY3ZTEHH7NjFiFsr+0YgPtDFVN5V+hj0qN3FjL267OWH2HmhnsTi00f907Jr14vs8X2IR9yVlL0Nrey4LkT9UbHT3kChw1PbEmKpgKNcMPL2TwUDx8EN4vXnJUlhCwN2qa1RgCH4VVkMf4xwUOGkOA8Fety0PHSW5Xs+0NtROa03z+Mj21wSICVr9P63Lz2w=;ZpC1DmsshfVB8sgLt3sF8A=="
 ---

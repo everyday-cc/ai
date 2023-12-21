@@ -32,15 +32,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
-  - title: "AI Meets Biotech: 3 Top Stocks Transforming Medical Science"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips One of the biggest stories of the year has been the rise of AI in every"
-    publishedDateTime: 2023-12-16T18:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-meets-biotech-3-top-stocks-transforming-medical-science-1032906556"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "2 Artificial Intelligence Stocks To Watch This Week"
     excerpt: "The artificial intelligence (AI) sector is a rapidly growing area in the tech industry, focusing on creating intelligent machines that work and react like humans. AI technology includes machine learning, natural language processing, and robotics ..."
     publishedDateTime: 2023-12-18T01:16:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/rite-aid-banned-from-using-ai-
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/rite-aid-banned-from-using-ai-facial-recognition-in-ftc-settlement-73ac5f45"
 type: article
 quality: 104
-heat: 284
+heat: 294
 published: true
 
 provider:
@@ -196,6 +196,20 @@ related:
     quality: 54
     images:
       - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/12/6582202c00d54b001e5f3615-federal_trade_commission.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Rite Aid banned from using facial recognition in stores for 5 years"
+    excerpt: "Rite Aid is now banned from using facial recognition technology in its drug stores for the next five years. Facial recognition was used in some New York City locations. Read more:"
+    publishedDateTime: 2023-12-21T00:26:00Z
+    webUrl: "https://www.cbsnews.com/newyork/video/rite-aid-banned-from-using-facial-recognition-in-stores-for-5-years/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 54
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/12/21/b6ab5dd8-ada1-4804-a64e-3268aeed5652/thumbnail/1200x630/07c1afc69c44edec8643fb00f7f3f106/c610e5cb38dee82b0cf3cee72781324c.jpg?v=5382e209c94ee904b3a96a69f8ca0ce0"
         width: 1200
         height: 630
         isCached: true

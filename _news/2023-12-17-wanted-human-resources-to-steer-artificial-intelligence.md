@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI talent wanted: The federal government is searching far and wide to fill new cutting-edge positions"
+    excerpt: "D.C. (Photo by Chip Somodevilla/Getty Images) As the White House moves forward with the implementation of its executive order on artificial intelligence, a shortage of domestic workers skilled in AI is creating opportunities for experts around the world to ..."
+    publishedDateTime: 2023-12-21T00:00:00Z
+    webUrl: "https://fedscoop.com/ai-talent-wanted/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 24
+    images:
+      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2019/07/36565395680_51dc9a84f9_o.jpg?w=600"
+        width: 600
+        height: 320
+        isCached: true
   - title: "Using AI-related technologies can significantly enhance human cognition, finds new study"
     excerpt: "Language professionals such as interpreters, translators and subtitlers should not fear artificial intelligence (AI), as training in new forms of real-time human-AI interaction (HAII) can increase their working memory and task-switching abilities, according to new research from the University of Surrey’s Centre for Translation Studies (CTS) and the"
     publishedDateTime: 2023-12-17T17:19:00Z

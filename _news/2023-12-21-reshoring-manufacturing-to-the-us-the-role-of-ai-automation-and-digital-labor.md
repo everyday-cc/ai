@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/reshoring-manufacturing-to-the-us-the-rol
 webUrl: "https://www.ibm.com/blog/reshoring-manufacturing-to-the-us-the-role-of-ai-automation-and-digital-labor/"
 type: article
 quality: 95
-heat: 145
+heat: 135
 published: true
 
 provider:
@@ -53,17 +53,6 @@ related:
         width: 767
         height: 633
         isCached: true
-  - title: "Taking stock of AI-powered digital lending"
-    excerpt: "AI promotes operational efficiency and can drive faster financial inclusion. But there are challenges that can lead to systemic risks"
-    publishedDateTime: 2023-12-18T15:58:00Z
-    webUrl: "https://www.thehindubusinessline.com/opinion/taking-stock-of-ai-powered-digital-lending/article67651486.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/opinion/taking-stock-of-ai-powered-digital-lending/article67651486.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/opinion/taking-stock-of-ai-powered-digital-lending/article67651486.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 39
   - title: "How Generative AI Could Revolutionize Manufacturing"
     excerpt: "Generative AI is everywhere and it is predicted that the technology will boost industry revenues by enabling faster, more precise innovation, as well as automating processes. ABI Research predicts that generative AI will unlock $10.5 billion in new revenues for the manufacturing industry by 2033."
     publishedDateTime: 2023-12-19T22:43:00Z
@@ -88,6 +77,6 @@ related:
       domain: businessinsider.com
     quality: 28
 
-secured: "+IB81iDWN/yMouU+mfXSp6YxkLA07bquGM2CxU8dodKv4XO8AvWQtbFz8AYQaKcst/19iaPLqqURSPszmiRCcZ8VDY8PQDgTQntZvjaEYYeNlCFainxVDeXPRlABttRdgpTEoit0lv5CIqEoolRBRG8R6mGFRoiaJBy226UrhWy8CKiStc6xo09x4p28dWWhghjXdSA572JWboTbqcdDJxzgCK85OcKH21a24WedeQ3hLRGQVwYSij//w0DLMR6t06OvNpoLC/BHkc49hxqIjWa7asO8sH90cs/LcjkLGpgI8OUsWHsUElg0QNEq90M8gpfmMVtPd601bAI9JTMwg31nMM3K1jVa2seymQnoGAo=;Eoe2hk8d/oevMHMpmC+S9Q=="
+secured: "nyFaRerYUVUyA/WejF1TbG09fTj41WxrxEC9Gx4n9tTcpN028RA2/bFu67PcrWRJliZTdmUE7g5fi3PaFWMhaEKbztcYSmuylIMmXKjw9kpbKqTOG4pD20NR9/6Pfzvq/ExpFyqNEYL9eokTaJFpIgjIcB3+2tfokDVDqrw3tE7Ko5/WAlM8KGG21pqfJWbOywrMdp/JFpS/hF7KxsnF1D/if4hpCX4OecqcW32vysM3V38EcNIhTckKOXApZMcFZlLprZ8S0gi0NGjYeaquks3fSNt22NriKFnfj+XgkszXJqfQt6IVxX17TXnTfZZgGsiuSfchQLZcjFyzXHxNGMMjaHdh419lGdiFvQbheDM=;rdE6aWar3dQjdiIKGJhEaw=="
 ---
 

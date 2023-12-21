@@ -7,8 +7,8 @@ originalUrl: "https://www.gizmochina.com/2023/12/20/moore-threads-us-sanctions-g
 webUrl: "https://www.gizmochina.com/2023/12/20/moore-threads-us-sanctions-gpu-based-ai/"
 type: article
 quality: 60
-heat: 70
-published: true
+heat: -1
+published: false
 
 provider:
   name: Gizmochina
@@ -23,19 +23,21 @@ topics:
   - AI
 
 related:
-  - title: "Moore Threads Collaborates with Lenovo to Power AI Innovation with MTT S4000 GPU"
-    excerpt: "In a strategic move, Moore Threads and Lenovo have come together to revolutionize the field of artificial intelligence. The MTT S4000 GPU, a cutting-edge product by Moore Threads, is set to empower AI and data"
-    publishedDateTime: 2023-12-20T10:05:00Z
-    webUrl: "https://www.econotimes.com/Moore-Threads-Collaborates-with-Lenovo-to-Power-AI-Innovation-with-MTT-S4000-GPU-1668304"
+  - title: "Propelled by ‘science for humanity,’ this Chinese AI startup sets sight on US"
+    excerpt: "One bold startup called DP Technology stands out from the crowd ... While the world is currently fixated on using AI to generate text, images and videos, DP finds itself in a less-tapped field: combining machine learning, which allows computers to ..."
+    publishedDateTime: 2023-12-21T18:43:00Z
+    webUrl: "https://techcrunch.com/2023/12/21/ai-for-science-dp-technology/"
+    ampWebUrl: "https://techcrunch.com/2023/12/21/ai-for-science-dp-technology/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/21/ai-for-science-dp-technology/amp/"
     type: article
     provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 49
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 84
     images:
-      - url: "https://f1.econotimes.com/2023/12/lw6zcb321v_th_1024x0.png"
-        width: 1024
-        height: 535
+      - url: "https://techcrunch.com/wp-content/uploads/2023/12/dp.png?w=1080"
+        width: 1080
+        height: 524
         isCached: true
 
 secured: "fE96a4pF4mjVPZT5dUR7A/iu9Qv0HbhhRaZ5MkWzg7GEBD54H5/bM0YAUzdidAd0aVkttyUYumB7fFRlOgDr7KbPrdhvNifpEEOtEdUvd+pXmLhMoEjfydGQMol5rdsIlagDD93NUMVQGmSTZpdkQrL3ySiLuN4VXbCq3WXh1bytU4SCIt/Hl+eZo74oU9Q7VovWDiFJOoxzWE0NnXPWmj76KxOYJaAAGbImtoonm7+fio9wXdvZOfp7n/ryFXSA7HjcLNK9cA2aD5SY7QkGBwi1ZztS7/rQISumKPOYJ1gUMauEd3mzUhKspwpG+kukqMEpwatTF1KbrcNaAb56IDNjH4T/NXK/AS3/b1ENSSk=;9cqcnum6vrtAWyNFFI1LrA=="

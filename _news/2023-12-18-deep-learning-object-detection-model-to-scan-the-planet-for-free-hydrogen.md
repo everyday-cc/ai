@@ -34,6 +34,20 @@ related:
       name: IBM
       domain: ibm.com
     quality: 87
+  - title: "Revolutionizing Deep Learning: Advanced Algorithm for Energy-Efficient Neural Networks"
+    excerpt: "EPFL researchers have developed an algorithm to train an analog neural network just as accurately as a digital one, enabling the development of more efficient alternatives to power-hungry deep learning hardware."
+    publishedDateTime: 2023-12-21T17:27:00Z
+    webUrl: "https://scitechdaily.com/revolutionizing-deep-learning-advanced-algorithm-for-energy-efficient-neural-networks/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 46
+    images:
+      - url: "https://scitechdaily.com/images/Light-Waves-Passing-Through-Physical-System.jpg"
+        width: 1440
+        height: 812
+        isCached: true
   - title: "Multi-step validation of a deep learning-based system for the quantification of bowel preparation: a prospective, observational study"
     excerpt: "Read full research: Multi-step validation of a deep learning-based system for the quantification of bowel preparation: a prospective, observational study"
     publishedDateTime: 2023-12-19T10:51:00Z

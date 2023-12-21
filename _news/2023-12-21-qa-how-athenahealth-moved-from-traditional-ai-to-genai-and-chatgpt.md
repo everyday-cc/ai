@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerworld.com/article/3711802/qa-how-athenahealth-mo
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3711802/qa-how-athenahealth-moved-from-traditional-ai-to-genai-and-chatgpt.amp.html"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google’s Bard vs OpenAI’s ChatGPT: Which of the rival AI chatbots is better? – Euronews"
-    excerpt: "Google’s answer to ChatGPT is here - but is it as good as OpenAI’s global phenomenon? Euronews Next put them through their paces. Google has made its"
-    publishedDateTime: 2023-12-16T18:44:00Z
-    webUrl: "https://www.inferse.com/841934/googles-bard-vs-openais-chatgpt-which-of-the-rival-ai-chatbots-is-better-euronews-2/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 28
 
 secured: "EFUj89AiukQdpju3uNv3YQR8UsxZoDEB8w4PC21tUeQzxgG6l+dKEFIzRlgY7/LVvPuFTIroOfXY7ipexGqa+8PXek8TgrnbJzmrWmQeHVmPaEv8ktaxU1+p+CyDLaA8PaqIPggBho3XoRPz29YCQ3G+cBV5usib7qBRarQ3LOi7R0sIMEVUaFMgkc3/tG3qlCohfMWKy8O9C8rNEodHbohlnlKH6pAHL5ht3CAvte3m1vPDiHceQfR3Agi3NwTLFh4XN1SXvq4lEqouHtes5SZMS5loKehdmogDvu6N99OIirK7TszmK3xX/FtlCaO6jMwODutRcZPRy+Me2qcWoSs4eObjDAiv0g4kQnruOAKAvxS5nrvBzP1eULtcZFUekkR0SX6oPzYCAA+5i7t2VKOD+09AicgYTHkea0jOqjRJR5MjCA9FLGay8ZtYj4WLm/FN/QiOlnw7CnEXnN0mDfMZJ1CG/nZqXlEuvXtMoCTbiBluD2Fg4nQy7bAMuaMAh1tq67Y0WHX+XNY8oQIOjQ==;GTZ5y+EUK5FW3q9tOhhwYA=="
 ---

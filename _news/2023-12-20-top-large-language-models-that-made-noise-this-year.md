@@ -52,6 +52,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 4
+  - title: "Study: Large Language Models Validate Misinformation"
+    excerpt: "The study, \"Reliability Check: An Analysis of GPT-3's Response to Sensitive Topics and Prompt Wording,\" was published in Proceedings of the 3rd Workshop on Trustworthy Natural Language Processing."
+    publishedDateTime: 2023-12-21T18:08:00Z
+    webUrl: "https://www.novinite.com/articles/223149/Study%3A+Large+Language+Models+Validate+Misinformation"
+    type: article
+    provider:
+      name: Novinite
+      domain: novinite.com
+    quality: 4
 
 secured: "pACXtMQhd5N6ThxKAECHnAmdwV1sRumD2jWHdN2ilmWe7ShrN6Wr0lvT60z5CRI0jPPyLIQJuMoAUWy51zqiZo5jHTZsW+pW3+IouUsx0pPfmSr3ToXl01sfXSEebiQ70NOgAUWQhFqSqHpbOIqnMMVEL7t6Wd4s3ghtJXulHxgsSXCxk9qe4BQzhdDc2KofRToyS4x2w13eIPxhNq8d9RFONKRuFQ47Y0uW34vMGsE/eUAcfH4C0lzj4mFyc0sfnY82LLS+/8tV3yQoUzgi3mUhGoV6WNq0/F1gfKJ58ErkIsD92YbnIaHFYB6glUZynbYRomFpjRnz8oLKPb2ls2McQi3KbPHQBtdVLXk+HIv9bSWJOvM0R69QBp0wtDqPMiQ8S9Z7TxkJtqekcanrIPxXuSOX9XljEfKx4em6NZv+mqmE1urLAIecnHxPahZ7v8RGlm82crBqNPVMk5jVjmhLwM81qmyqJ+u0c8IdH+5SzFDXTWljxa8Ms54Fvnsy3HRBLfJ4axT7hKxkgXZd5A==;U+q58RNwt+pDu0Bg08zWNA=="
 ---

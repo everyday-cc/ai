@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Driverless cars are here"
+    excerpt: "The driverless car is here! Finally. Google has harnessed artificial intelligence to create a self-driving car they call Waymo, standing for “Way Forward in Mobility.” Regulators in San Francisco and Phoenix legalized Waymo cars because the robo-cars drive better than people do."
+    publishedDateTime: 2023-12-21T18:30:00Z
+    webUrl: "https://www.theintermountain.com/uncategorized/2023/12/driverless-cars-are-here/"
+    type: article
+    provider:
+      name: The Inter-Mountain
+      domain: theintermountain.com
+    quality: 39
+    images:
+      - url: "http://d14e0irai0gcaa.cloudfront.net/www.theintermountain.com/images/2016/09/26134117/fblike.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Self-driving cars are rolling out in LA. Are they safe?"
     excerpt: "A series of high-profile accidents involving autonomous vehicles has some Angelenos nervous about their future in the city."
     publishedDateTime: 2023-12-19T02:08:00Z

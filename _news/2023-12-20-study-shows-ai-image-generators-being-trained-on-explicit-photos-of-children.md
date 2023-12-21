@@ -50,6 +50,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Study shows AI image-generators being trained on explicit photos of children"
+    excerpt: "Hidden inside the foundation of popular artificial intelligence image-generators are thousands of images of child sexual abuse, according to a new report that urges companies to take action to address a harmful flaw in the technology they built."
+    publishedDateTime: 2023-12-21T18:06:00Z
+    webUrl: "https://www.stripes.com/theaters/us/2023-12-21/ai-image-generators-explicit-photos-children-12430194.html"
+    type: article
+    provider:
+      name: Stars and Stripes
+      domain: stripes.com
+    quality: 34
+    images:
+      - url: "https://www.stripes.com/incoming/hcaaw3-343417237_556100956651617_4895395656519303604_n.jpg/alternates/LANDSCAPE_480/343417237_556100956651617_4895395656519303604_n.jpg"
+        width: 480
+        height: 299
+        isCached: true
 
 secured: "r0nf1kt50aHgyvvWJPjbsWsMb4Ujt2/V6Go7NoH6BBrBqrw1d9MX18wTSpnLYaKaSV3lIj4SV1YaUFZPimZyGTi4+y61Mk1IPoZGV9cL1YSkkPjjmos9nTSryVOwDjYWjqi4gjdutCLV1OgOkOSSsJvInkC/H+vMw/L51FQCC+Zqo9QAIi4GJdcm+CaU12HdQgS0qrV9A9tC59tyGcHaf9YjdtOBVW66HKoE6rnZMStqnZ4YmtnFub0QHesfAkonkvlj6CzUEuauBqqic+qG4mNr0biiTfGEftxaCT6kIsVGVB5UI7M3VYjpbgA5jk8qAUcwsHxD8SBsBqCLz7t/lGgLMPrzHl6LESEykZaUQmhMFLT7wSfsskSJMXpTV4pS6nJqE7UxHvLMC5yVJc6lOvUQwgd/GGRdVnlnCLcDsJrkVDx5JAGC7o5/NzlcbnOAEgj+Ik2R5TZkhvbSc6hjVPTSCiyemgStZHuDRt097kFi2If9//O6Voiv4c3otctDwJMCMW2+uBtenmbJzbrjUA==;l7kRF5rBJbCstZPpDRNbjw=="
 ---

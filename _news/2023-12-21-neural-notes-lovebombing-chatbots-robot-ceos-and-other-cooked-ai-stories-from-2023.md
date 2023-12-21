@@ -41,6 +41,22 @@ related:
         width: 300
         height: 201
         isCached: true
+  - title: "Public health agencies are using AI chatbots to ease workloads. Is it a good idea?"
+    excerpt: "Public health departments are using AI to do work that people used to do, including generating reports and communications. As agencies increasingly look to chatbots to ease their staffing challenges,"
+    publishedDateTime: 2023-12-21T18:08:00Z
+    webUrl: "https://thebulletin.org/2023/12/public-health-agencies-are-using-ai-chatbots-to-ease-workloads-is-it-a-good-idea/"
+    ampWebUrl: "https://thebulletin.org/2023/12/public-health-agencies-are-using-ai-chatbots-to-ease-workloads-is-it-a-good-idea/amp/"
+    cdnAmpWebUrl: "https://thebulletin-org.cdn.ampproject.org/c/s/thebulletin.org/2023/12/public-health-agencies-are-using-ai-chatbots-to-ease-workloads-is-it-a-good-idea/amp/"
+    type: article
+    provider:
+      name: Bulletin of the Atomic Scientists
+      domain: thebulletin.org
+    quality: 53
+    images:
+      - url: "https://thebulletin.org/wp-content/uploads/2023/12/who-1024x684.png"
+        width: 1024
+        height: 684
+        isCached: true
   - title: "Artificial Intelligence Chatbot Outperforms Clinicians in Diagnosis Probability"
     excerpt: "AI chatbots outperformed human clinicians in probabilistic reasoning when estimating the probability of a diagnosis following a negative test result"
     publishedDateTime: 2023-12-21T08:59:00Z

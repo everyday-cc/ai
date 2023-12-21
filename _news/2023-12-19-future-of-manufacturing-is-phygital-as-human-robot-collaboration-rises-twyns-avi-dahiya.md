@@ -50,17 +50,6 @@ related:
         width: 767
         height: 633
         isCached: true
-  - title: "Taking stock of AI-powered digital lending"
-    excerpt: "AI promotes operational efficiency and can drive faster financial inclusion. But there are challenges that can lead to systemic risks"
-    publishedDateTime: 2023-12-18T15:58:00Z
-    webUrl: "https://www.thehindubusinessline.com/opinion/taking-stock-of-ai-powered-digital-lending/article67651486.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/opinion/taking-stock-of-ai-powered-digital-lending/article67651486.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/opinion/taking-stock-of-ai-powered-digital-lending/article67651486.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 39
   - title: "How Generative AI Could Revolutionize Manufacturing"
     excerpt: "Generative AI is everywhere and it is predicted that the technology will boost industry revenues by enabling faster, more precise innovation, as well as automating processes. ABI Research predicts that generative AI will unlock $10.5 billion in new revenues for the manufacturing industry by 2033."
     publishedDateTime: 2023-12-19T22:43:00Z

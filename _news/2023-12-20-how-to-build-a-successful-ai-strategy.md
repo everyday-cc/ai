@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/artificial-intelligence-strategy/"
 webUrl: "https://www.ibm.com/blog/artificial-intelligence-strategy/"
 type: article
 quality: 119
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -75,6 +75,20 @@ related:
       name: IBM
       domain: ibm.com
     quality: 82
+  - title: "How to Build Trust in Artificial Intelligence"
+    excerpt: "OpenAI fired and then rehired CEO Sam Altman. When the dust settled, Open AI emerged looking even more like a for-profit corporation than a nonprofit, with a board that is indistinguishable from those of other tech startups—right down to the lack of diversity."
+    publishedDateTime: 2023-12-21T17:00:00Z
+    webUrl: "https://www.theinformation.com/articles/how-to-build-trust-in-artificial-intelligence"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 37
+    images:
+      - url: "https://tii.imgix.net/production/articles/11952/c44ee217-1411-4d68-9827-5481671deb2d.png?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 677
+        isCached: true
 
 secured: "O2cCTxFtgYtCRYQAdGNEcix2HxXRwvg761gkFrGfXFRJNIh2BWtyUW23opjnIaj+ZfUAf8yZ7YhkiL0T7138DNVpgmP/GBgveyfdrsy7nP/nB5R2xxFXDwFwI4tVMRapVZfogPuJ/icCZChTm8udUv6Hry0sAaU3xZkzVksjOTW1d/tvLyX0l1W4ngsEp8WQhJDYQrivsP9tqu8x8GhK6MVFKYCXKRQcFdCeD3gWJxXfSiHjBBajV7zwtV6Uy8RmuXvLX3r0RUAYWmk2VoCOUn8DJ06rn74+E2Z2Sa7EVP/JO4ont3BcbrWBYdgvmgZOzBDEsomTmh87U7HaY/+0llswuT3faEs1Xqa0YMHj+9A=;Tf8vV7iWUFHm8sKHtYQAww=="
 ---

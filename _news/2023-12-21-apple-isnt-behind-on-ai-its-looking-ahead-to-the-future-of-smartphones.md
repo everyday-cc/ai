@@ -19,9 +19,9 @@ topics:
 
 related:
   - title: "Apple wants AI to run directly on its hardware instead of in the cloud"
-    excerpt: "While Microsoft and Google have largely focused on delivering chatbots and other generative AI services over the internet from their vast cloud computing platforms, Apple’s research suggests that it will instead focus on AI that can run directly on an iPhone."
-    publishedDateTime: 2023-12-21T14:42:00Z
-    webUrl: "https://arstechnica.com/apple/2023/12/apple-wants-ai-to-run-directly-on-its-hardware-instead-of-in-the-cloud/"
+    excerpt: "It is the second Apple paper on generative AI this month and follows earlier moves to enable image-generating models such as Stable Diffusion to run on its custom chips. Device manufacturers and chipmakers are hoping that new AI features will help revive ..."
+    publishedDateTime: 2023-12-21T06:43:00Z
+    webUrl: "https://arstechnica.com/apple/2023/12/apple-wants-ai-to-run-directly-on-its-hardware-instead-of-in-the-cloud/?ref=upstract.com"
     type: article
     provider:
       name: Ars Technica

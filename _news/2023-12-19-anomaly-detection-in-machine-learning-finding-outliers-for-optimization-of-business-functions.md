@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/anomaly-detection-machine-learning/"
 webUrl: "https://www.ibm.com/blog/anomaly-detection-machine-learning/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -23,6 +23,20 @@ topics:
   - Machine Learning
 
 related:
+  - title: "Revolutionizing Deep Learning: Advanced Algorithm for Energy-Efficient Neural Networks"
+    excerpt: "EPFL researchers have developed an algorithm to train an analog neural network just as accurately as a digital one, enabling the development of more efficient alternatives to power-hungry deep learning hardware."
+    publishedDateTime: 2023-12-21T17:27:00Z
+    webUrl: "https://scitechdaily.com/revolutionizing-deep-learning-advanced-algorithm-for-energy-efficient-neural-networks/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 46
+    images:
+      - url: "https://scitechdaily.com/images/Light-Waves-Passing-Through-Physical-System.jpg"
+        width: 1440
+        height: 812
+        isCached: true
   - title: "Deep Learning Object Detection Model to Scan the Planet for Free Hydrogen"
     excerpt: "As the push to move beyond fossil fuels intensifies in the search for low-carbon energy alternatives, scientists have devised a deep learning model designed to survey the Earth's surface for indications of subsurface reservoirs containing naturally occurring free hydrogen."
     publishedDateTime: 2023-12-18T12:32:00Z

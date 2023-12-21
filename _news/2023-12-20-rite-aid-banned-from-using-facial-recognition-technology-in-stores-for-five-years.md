@@ -209,6 +209,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Rite Aid banned from using facial recognition in stores for 5 years"
+    excerpt: "Rite Aid is now banned from using facial recognition technology in its drug stores for the next five years. Facial recognition was used in some New York City locations. Read more:"
+    publishedDateTime: 2023-12-21T00:26:00Z
+    webUrl: "https://www.cbsnews.com/newyork/video/rite-aid-banned-from-using-facial-recognition-in-stores-for-5-years/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 54
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/12/21/b6ab5dd8-ada1-4804-a64e-3268aeed5652/thumbnail/1200x630/07c1afc69c44edec8643fb00f7f3f106/c610e5cb38dee82b0cf3cee72781324c.jpg?v=5382e209c94ee904b3a96a69f8ca0ce0"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Rite Aid can’t use facial recognition technology for the next five years"
     excerpt: "Rite Aid is banned from utilizing facial recognition programs within any of its stores for the next five years. The pharmacy retail chain agreed to the ban as part of a Federal Trade Commission settlement regarding “reckless use” of the surveillance technology which “left its customers facing humiliation and other harms,"
     publishedDateTime: 2023-12-20T21:00:00Z

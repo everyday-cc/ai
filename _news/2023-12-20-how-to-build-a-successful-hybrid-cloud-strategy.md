@@ -74,6 +74,20 @@ related:
       name: IBM
       domain: ibm.com
     quality: 82
+  - title: "How to Build Trust in Artificial Intelligence"
+    excerpt: "OpenAI fired and then rehired CEO Sam Altman. When the dust settled, Open AI emerged looking even more like a for-profit corporation than a nonprofit, with a board that is indistinguishable from those of other tech startups—right down to the lack of diversity."
+    publishedDateTime: 2023-12-21T17:00:00Z
+    webUrl: "https://www.theinformation.com/articles/how-to-build-trust-in-artificial-intelligence"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 37
+    images:
+      - url: "https://tii.imgix.net/production/articles/11952/c44ee217-1411-4d68-9827-5481671deb2d.png?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 677
+        isCached: true
 
 secured: "3R/MBNIG0QgnXoQVrMlK/AnMd17bEkPMl0kFgN3thjBN2hiU8W+8KG63KRffecMXC56BOy/9AyCAqhWN2B4uxQkKpQIWTqF//d/03/hUgtAEimm6cl4ACWlSuEpv/RLtoAl07ZxEc9bXE8heRAxQopaPhXkzltJ9+9ueN51dFhfZhX7YnPbtaXSWRJ7byA0syP5bmopsSIRwTW3Iz4fTKbmkDhpox15V1KP/BZNMsGnKixUum9xyDf7yrNV4e5jyMSU+gFDMvPvtpFD1xNh8XQaU16i/4TJbhD+Kj061GH7fsYo75Idvs+O2Zf6ucxmuj4nUyUzqnduYVNGvmfeiXqx5hvN4wc/vXlm8mvM0S14=;j3KlnzIO3ccRLbHPP1M+NQ=="
 ---

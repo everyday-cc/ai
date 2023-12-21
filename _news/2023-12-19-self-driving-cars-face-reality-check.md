@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Self-Driving Cars Face Reality Check"
-excerpt: "One of the favorite shibboleths of the world's tech overlords is 'Move fast and break things.' It seems that one of the things that is now"
-publishedDateTime: 2023-12-18T16:01:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/self-driving-cars-face-reality-check-1032910495"
-webUrl: "https://markets.businessinsider.com/news/stocks/self-driving-cars-face-reality-check-1032910495"
+excerpt: "The development of self-driving cars is facing significant setbacks and disillusionment due to technical challenges, accidents, and a lack of practical understanding."
+publishedDateTime: 2023-12-18T21:00:00Z
+originalUrl: "https://oilprice.com/Energy/Energy-General/Self-Driving-Cars-Face-Reality-Check.html"
+webUrl: "https://oilprice.com/Energy/Energy-General/Self-Driving-Cars-Face-Reality-Check.html"
 type: article
-quality: 34
-heat: 34
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Crude Oil Prices
+  domain: oilprice.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "JTNf3yq9HraCNWpirOHRgozuwgsp50ohjLYrzI7LhzIs9Ns6fPy5EjmS3w1LBBBHMY2RbyW9PXxE6VJB9sX6im1rJ2lRo/QimsnR7mvPjt+HArKURfUWGeWUGXtchKvjjZ4q4H2ws/9LATheI8JfJVHDmadeFYwF8ftUr01XvKyJYJ2Od/pqQtjBMnGQjULmoF2Tk44CuA7TVY2CjYT2gapSKK1v4BhSNQBylfOF8oCn3Hqrq7a93xYAtSnqohnrxdx6KXWBW18EbqBulwgC4lvrqAotlVSO8Yqg1x3/J5zyRNm7khQU1edAMY19oejc+PhVIbGaGoUMd2YX6fPMkUsXMv0oZckO+SKkOVVpp54=;EmdJhZ9l5nAy3H+fbKW0Tg=="
+images:
+  - url: "https://d32r1sh890xpii.cloudfront.net/article/718x300/2023-12-18_xs2dwzt3dh.jpg"
+    width: 718
+    height: 300
+    isCached: true
+
+secured: "NYgAoTnLouz3eCJaB0FXry1kVBgTL/tWyZARd2gsfV5J0/Vqv49Aqk5s38cb61GlKgF7BkghbPWHdv+8+BRjvGv6tqyFUuWPgCLZ4DR17YkqZH4esuBU5i0nuoHfjhN3OUOmFkJ1/6DCn8WgA6st+0p5jCLdPS0OdX1L5/1JCIX9oHSTUxaC6aOxlCNocELpgBaxIxg0OYMluvYXReIIS+VYBAzg1/2qIq8PjMuqVUyZ20FE9pfHPEz8coioy4cnMMN4J4EVYCeXtfV39F5wWSg4SL2gVg7hvbuEHregRVPXv9JbWxo9f+UGHbnLaqbZhCNn8ImX5AkqXScr/qrM7/dE1vHiMIjlP6fM98pgAE4=;fdcmptPBQiWLzHRQv78rVQ=="
 ---
 

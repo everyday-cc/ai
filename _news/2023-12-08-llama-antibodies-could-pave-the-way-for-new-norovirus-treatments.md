@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Llama Antibodies Could Pave the Way for New Norovirus Treatments"
-excerpt: "Tiny llama antibodies, called nanobodies, have been shown to effectively neutralize human noroviruses in the lab, revealing that they could be developed into a therapeutic agent."
-publishedDateTime: 2023-12-08T10:33:00Z
-originalUrl: "https://www.technologynetworks.com/immunology/news/llama-antibodies-could-pave-the-way-for-new-norovirus-treatments-381824"
-webUrl: "https://www.technologynetworks.com/immunology/news/llama-antibodies-could-pave-the-way-for-new-norovirus-treatments-381824"
+excerpt: "The unexpected findings reveal that nanobodies could be developed as a therapeutic agent against human norovirus. Llama nanobodies may give an upper hand Llamas and related animals such as camels and alpacas, produce antibodies for protection against ..."
+publishedDateTime: 2023-12-08T00:00:00Z
+originalUrl: "https://www.technologynetworks.com/tn/news/llama-antibodies-could-pave-the-way-for-new-norovirus-treatments-381824"
+webUrl: "https://www.technologynetworks.com/tn/news/llama-antibodies-could-pave-the-way-for-new-norovirus-treatments-381824"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 360
     isCached: true
 
-secured: "hUEl5NzUQ6M/4qaCtjzt1gAhg+SkDYi6TR/kdqp4n9d6lNI4jh+VIHVTviStG5MAVkbrpvfB5cdSTzLsb2w6605GDhc+hpO2nLiu6OfK9oJo+Ht31gi+seAxHP+z27N0nyGcslUOqPXL5jHfTkEs+c+QbyKOq0W7fD5jh1ZCe5csvB+tnUcMvQ3siLmbrGcl7+I8AM3tJZQW/vyzEtfhZZNwMw/kqsEpegFHTR6EJqqGYq57ovSpg+/O0cVhNuEIHAHeNwINNDqZcVIm/tUqZYfHTA0iRKmgr90oa3H/aDuFb7nmoNKW2ZRu4/k96gIK7+m9xAhTxBLa1Rz2+z1MeeDQF9DSnBa4Q/6tTkfHlFiz+Mfjnv+bY47ZOLsF/fibTvx9jDodSmNtK9Tlkm+CVyHWCDjGF5jCHH921sc+N6k0fb922UcNlsbvt1EgiiiwVu/kfUNWnSunA94sHl3SmFplvZTb3HFoTxRHLV50oYhGgr6M2Dp0s1pMJXpRVNRp5DKPklLxlpGKnH4dltNGYg==;+R3EUukx4E3XpIfFLQ3yWg=="
+secured: "YCZTSeK/PIuHarzXQIRoElGGIFXloqImKPMyZb7gEOl1fMswygv7CNurKuRliB7vSk2awUM06WvIyBsZnlZaPcAi6LHYvoR6XlZMfdf9kzbWmLhAXxkCLSUBqCzDZ2LXBQFnd2zV4UYTzce5fwaYqCLKl7dndxQYCMLgvwPd7N3b/74xRfAko37w34YPrETdVfX6TlOloBBWGJQcbkEaLgZj2AcVVy/bHs1PJrXJXYHMKVTTciSVbY8j7+lssQFt7uUc+OLAJaVD4lahUePjKsFRdnuhXZVXW7hyPFasa8kZmQCgEjh62zhBW8yFl/B+aFBe6oc50oyOy4auWdWEf1+CC70u3rb7LuUoQlPQFxc=;Evpu+FOVzjNhYUmEZagMcA=="
 ---
 

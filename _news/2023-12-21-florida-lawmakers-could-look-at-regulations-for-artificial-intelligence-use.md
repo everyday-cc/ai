@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tampabay.com/news/florida-politics/2023/12/20/artificial
 cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/florida-politics/2023/12/20/artificial-intelligence-ai-political-ads-regulation-technology/?outputType=amp"
 type: article
 quality: 57
-heat: 97
+heat: 117
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Campaigns are using AI. These Florida Republicans want to do something about it"
+    excerpt: "Generative AI has become widely accessible through programs such ... speech recognition, decisionmaking, and translation between languages.” Gruters’ bill would define artificial intelligence systems, in part, as “perceiving an environment through ..."
+    publishedDateTime: 2023-12-21T11:17:00Z
+    webUrl: "https://www.aol.com/campaigns-using-ai-florida-republicans-161733434.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://media.zenfs.com/en/aol_miami_herald_mcclatchy_670/39370932384a8eceac803ae709537aa3"
+        width: 1140
+        height: 760
+        isCached: true
   - title: "Bills on artificial intelligence filed in lead-up to Florida legislative session"
     excerpt: "Legal and technology experts say AI is a complicated area to regulate. Florida lawmakers are going to try anyway."
     publishedDateTime: 2023-12-19T17:19:00Z
@@ -68,6 +82,20 @@ related:
       - url: "https://wmnf.s3.amazonaws.com/wp-content/uploads/2023/06/Artificial-intelligence-ai-by-Black-Kira-via-iStock-for-wmnf-news-1345658982-1024x576.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Florida legislature looks at defamation, election integrity dangers of artificial intelligence"
+    excerpt: "TALLAHASSEE — As access to artificial intelligence, or AI, continues to spread, state lawmakers are poised to consider ways to set up guardrails around a technology that one senator said has “outpaced government regulation.” Measures filed by Senate ..."
+    publishedDateTime: 2023-12-21T16:31:00Z
+    webUrl: "https://www.wlrn.org/science-technology/2023-12-21/florida-legislature-looks-at-defamation-election-integrity-dangers-of-artificial-intelligence"
+    type: article
+    provider:
+      name: WLRN
+      domain: wlrn.org
+    quality: 25
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/e707a8c/2147483647/strip/true/crop/3852x2022+0+433/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F03%2F29%2Fap23088563451293-ab528afe1c6739bc068b4f235b9d2279bd996a8f.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Bills on artificial intelligence filed in lead-up to Florida legislative session"
     excerpt: "Legal and technology experts say AI is a complicated area to regulate. Florida lawmakers are going to try anyway."

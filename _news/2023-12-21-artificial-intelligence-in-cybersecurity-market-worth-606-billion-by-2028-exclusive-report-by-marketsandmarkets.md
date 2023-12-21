@@ -3,8 +3,8 @@ category: news
 title: "Artificial Intelligence in Cybersecurity Market worth $60.6 billion by 2028 - Exclusive Report by MarketsandMarkets™"
 excerpt: "CHICAGO, Dec. 21, 2023 /PRNewswire/ -- In the cybersecurity space, AI's future lies in behavioural analytics, sophisticated threat detection, and further automation of processes like incident response. AI is anticipated to be crucial in improving cloud and endpoint security, resolving the skills gap, and adjusting to changing hostile strategies."
 publishedDateTime: 2023-12-21T15:28:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-cybersecurity-market-worth-606-billion-2028-/2023/12/21/9937676.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-cybersecurity-market-worth-606-billion-2028-/2023/12/21/9937676.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2023/12/21/9937676.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2023/12/21/9937676.htm"
 type: article
 quality: 0
 heat: 0
@@ -15,6 +15,7 @@ provider:
   domain: tmcnet.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 related:
@@ -28,6 +29,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "YG3rduEjDmKRsexJySbqLnMKRDcNnDnfC3XHNBjeSpnaRGQ1+vmf5evgRhkxwtBrBhL6Me9262UcktEY+ulOo3gKhf8UiUB5ygdKftXHhhHqIqYDrMat0SK8EiAdipYxpLtRzlVt5+FXT8eGjIn05qgZCQUffg/koh2HObOwcOzWsujnQh5cvpWUDW7Gmo7/0VPhJzlEuY6zHV3hlGcAnQuIiu+mJJ3lvJcKpDX/UF/EpA5rTEG6KOAqF3p4a0Ge51oy9Nd7e4RSx5Esh0BRm0mbzEWK9ZU8OHBu0uKJdZ9IV4VsYKqbkJctMriLLsHue5+dEvqLZkmb88y6sDworfsb45gPNNAblEdz25uEE+RTabmsiyTasEFiE9eBPcGD51lfOsqLILknItW0BOZyAiz1yXWD5ADJ7fPjkFlaelLuuWAYRgMuJ8zPCCz20OX3DxK6/PQo+RMjIPS+jQA+aqBG50bPbLYI+BDUfE3HfihTmFIiNY/rpvx7oDT7o/zzC2O8lxiYforXUQtAmg/T7w==;3lsSYN7mGs0XibqozKZJRQ=="
+secured: "V/lrHZz5fBmEIoou59YA09IL9I67TTXMjsdlbbWGuVDiva4NciChqh61bSIQQrh/i2SGZAhwMnQupdmTEqOXM/KQkziT7tYLf6EmcFUMWoMPYRdSs7HK4pgUelQYaRB3AUB43y7d3/6j/Abjict6lGK9B706jwldS1qe1XZqLNkqwz2jZKIB2IcuNep75ubwe4HGSB3AIPXEVeS8r6uK2uibhZyluqzsmav4yidQqzBftboSjvPj1L5vbl73mzH59krBl0BCjouGqEJ1U4hADnlURmqC0b5XN8UW/vtIPguIl+0fwoe+Oj578cVqEQ6AAw9xI7fPoIu94m+qFhbtyM8woodGRxEu0s5qwv9bzTEbSgcKU3HvC0asfS1hVJm6rUOfrD9i3JKiqIGh8bXZTBOHJ68Mb6YH3Nzs8X0Ke+gnZJzPNhH6c6YckyVLsbT+qfLBVWkexzxtvFj3AYD3A678VPVv+usavHYp0xEM8MQ7MDAcx6Goqxoj7lgSq7fFabnro2AOKtdC4nMeVkLHnw==;NAaoSoMoqdHThJhfJtaCwA=="
 ---
 

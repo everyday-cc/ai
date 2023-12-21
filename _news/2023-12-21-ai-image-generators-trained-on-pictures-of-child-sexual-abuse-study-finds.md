@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/dec/20/ai-image-generato
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/dec/20/ai-image-generators-child-sexual-abuse"
 type: article
 quality: 55
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://gray-kota-prod.cdn.arcpublishing.com/resizer/v2/PMZ65TUILBH7HIM2H4QTBCGWZY.jpg?auth=da174f320edeb60b2beb1f6027af58c0e29c3ea189176e5182e35f9fe97e032f&width=800&height=450&smart=true"
         width: 800
         height: 450
+        isCached: true
+  - title: "Study shows AI image-generators being trained on explicit photos of children"
+    excerpt: "Hidden inside the foundation of popular artificial intelligence image-generators are thousands of images of child sexual abuse, according to a new report that urges companies to take action to address a harmful flaw in the technology they built."
+    publishedDateTime: 2023-12-21T18:06:00Z
+    webUrl: "https://www.stripes.com/theaters/us/2023-12-21/ai-image-generators-explicit-photos-children-12430194.html"
+    type: article
+    provider:
+      name: Stars and Stripes
+      domain: stripes.com
+    quality: 34
+    images:
+      - url: "https://www.stripes.com/incoming/hcaaw3-343417237_556100956651617_4895395656519303604_n.jpg/alternates/LANDSCAPE_480/343417237_556100956651617_4895395656519303604_n.jpg"
+        width: 480
+        height: 299
         isCached: true
   - title: "Study shows AI image-generators being trained on explicit photos of children"
     excerpt: "A prominent LAION user that helped shape the dataset's development is London-based startup Stability AI, maker of the Stable Diffusion text-to-image models. New versions of Stable Diffusion have made it much harder to create harmful content, but an older ..."

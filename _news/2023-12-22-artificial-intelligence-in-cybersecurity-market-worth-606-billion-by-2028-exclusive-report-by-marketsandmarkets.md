@@ -22,7 +22,7 @@ related:
   - title: "Artificial Intelligence in Cybersecurity Market worth $60.6 billion by 2028 - Exclusive Report by MarketsandMarkets™"
     excerpt: "CHICAGO, Dec. 21, 2023 /PRNewswire/ -- In the cybersecurity space, AI's future lies in behavioural analytics, sophisticated threat detection, and further automation of processes like incident response. AI is anticipated to be crucial in improving cloud and endpoint security, resolving the skills gap, and adjusting to changing hostile strategies."
     publishedDateTime: 2023-12-21T15:28:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-cybersecurity-market-worth-606-billion-2028-/2023/12/21/9937676.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/2023/12/21/9937676.htm"
     type: article
     provider:
       name: TMCnet

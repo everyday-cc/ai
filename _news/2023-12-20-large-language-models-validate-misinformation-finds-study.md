@@ -51,6 +51,15 @@ related:
         width: 2880
         height: 1920
         isCached: true
+  - title: "Study: Large Language Models Validate Misinformation"
+    excerpt: "The study, \"Reliability Check: An Analysis of GPT-3's Response to Sensitive Topics and Prompt Wording,\" was published in Proceedings of the 3rd Workshop on Trustworthy Natural Language Processing."
+    publishedDateTime: 2023-12-21T18:08:00Z
+    webUrl: "https://www.novinite.com/articles/223149/Study%3A+Large+Language+Models+Validate+Misinformation"
+    type: article
+    provider:
+      name: Novinite
+      domain: novinite.com
+    quality: 4
 
 secured: "Y5Z3GRw+EJ096qMDbb1xEkMhZvjjyKg0uantIEY5EzKJz6zEVkXtNPH5fNNjCG3ppmkaBPFbBXMvnJ6Nmyq8DJ8aiEehiVoXxXvninIdr09rcv0Kyf+NCXpn74ZWxIFCdcJNBPe+UNmnEbYZVTjVUkEt4dESP3o2mLJTRXhQtFooB94tfJevgdlfNqUQjrzzX2YwQ6sMDZtunoU7901hyDJXDLOTs/ShidPdPQg+9+Ks33SP4c1Q6fE7ycJlXxI5GmNxKnyJfRcZNAiMSuvuo8AAkLx3neVAmv9qS9HxFphoNv0mnUwjyHsi4Yb+YsAyZ92icvy5SEA4TRXoKNtHRb1V/7cQq7SQ0ga1FebNy9I=;z+ZLLZaez2OMt2sKNSoqFg=="
 ---
