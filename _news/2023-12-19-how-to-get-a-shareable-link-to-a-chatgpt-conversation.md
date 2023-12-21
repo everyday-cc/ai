@@ -37,22 +37,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Further your AI ChatGPT and Python knowledge and build your own chatbot with this mega bundle, now $29.97"
-    excerpt: "Take on the rising world of AI with The 2023 Ultimate AI ChatGPT & Python Programming Bundle, now on sale for only $29.97 through Christmas."
-    publishedDateTime: 2023-12-18T16:46:00Z
-    webUrl: "https://www.popsci.com/sponsored-content/ai-chatgpt-python-bundle-deal/"
-    ampWebUrl: "https://www.popsci.com/sponsored-content/ai-chatgpt-python-bundle-deal/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/sponsored-content/ai-chatgpt-python-bundle-deal/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 57
-    images:
-      - url: "https://www.popsci.com/uploads/2023/12/18/image.png?auto=webp"
-        width: 1067
-        height: 800
-        isCached: true
   - title: "One Year In and ChatGPT Already Has Us Doing Its Bidding"
     excerpt: "One of the first things I asked ChatGPT about, early this year, was myself: “What can you tell me about the writer Vauhini Vara?” It told me I’m a journalist (true, though I’m also a fiction writer),"
     publishedDateTime: 2023-12-19T14:39:00Z
@@ -62,20 +46,6 @@ related:
       name: The New York Times
       domain: nytimes.com
     quality: 49
-  - title: "OpenAI ChatGPT VS Google Bard: Which AI chatbot is the real disruptor? – Business Today"
-    excerpt: "FeedbackEver since OpenAI introduced its AI chatbot, ChatGPT, in November last year, we witnessed a sudden rise in generative AI chatbots in the industry. One"
-    publishedDateTime: 2023-12-17T00:45:00Z
-    webUrl: "https://www.inferse.com/842172/openai-chatgpt-vs-google-bard-which-ai-chatbot-is-the-real-disruptor-business-today/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 48
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/12/wp-header-logo-8704.png"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "ChatGPT Invented An Upstart Netflix Rival For Me"
     excerpt: "On December 13, in response to a series of prompts, ChatGPT came up with the name of the business - StreamSphere - and suggested the features the service should provide to win over enough customers to dominate the online streaming industry by 2034."
     publishedDateTime: 2023-12-17T11:50:00Z

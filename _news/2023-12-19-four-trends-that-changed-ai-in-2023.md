@@ -70,6 +70,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "A look into artificial intelligence in 2023"
+    excerpt: "We are taking a look at artificial intelligence, specifically its advancement over the past year. Bill Hart-Davidson, associate dean of Graduate Studies at Michigan State University, joined CBS News Detroit to break down how AI evolved across the country,"
+    publishedDateTime: 2023-12-21T02:18:00Z
+    webUrl: "https://www.cbsnews.com/detroit/video/a-look-into-artificial-intelligence-in-2023/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/12/21/3ced0376-16a6-4d87-8b7c-72e9e7e03333/thumbnail/1200x630/925a3e295dc6b359128ef525b9cf384f/4acbd1ec00b765efff1eac115d1e4b39.jpg?v=5382e209c94ee904b3a96a69f8ca0ce0"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Legal Tech's Milestones for Artificial Intelligence in 2023"
     excerpt: "Legal industry experts make their picks for the biggest developments in AI for the legal industry in the past year."
     publishedDateTime: 2023-12-20T18:49:00Z
@@ -84,6 +98,15 @@ related:
         width: 767
         height: 633
         isCached: true
+  - title: "7 ways doctors and nurses are using AI"
+    excerpt: "Artificial intelligence has the potential to make work more efficient through automation. In the health care industry, AI-backed tools can help doctors, nurses, and researchers quickly sift through data and analyze results to improve research and patient care."
+    publishedDateTime: 2023-12-20T17:00:00Z
+    webUrl: "https://www.chron.com/news/article/7-ways-doctors-and-nurses-are-using-ai-18566263.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 17
 
 secured: "nSYurT12lSwsZ3WCS4+1UC05+ZRUgPwIORHxqutMcsyJVvf8yO96qLSek71yI2j80IiEZEEyy4Gy9qiKZEkVU79bmR/MQj2KaHC2gt/sQutqtuKcSvNIvfETxAmkFhIaobL4IaDGF0mHr8S/3lcmxvnf9ZFfWO92NBDiF7G4fdXhVbzZhufKcnCoPrqvIMiJtjXgbfPRjswMZFnnFf/xsJVu4V7oCGrk2Ieb/Dw22WoKNfrZJLtPuWikoGGnDECsvdhNfWVFKbeH8kIg1CVIZ0/SNq1CNyemN3Tl5U+buGnl0cgP8geZbBeyCCcmoRsUCzVFz1MGcaBmNucmm+YJW0TZyI2BqYU6kPjF8+g8fV7OYVJZn2EXp8hz5Reh2hFs1rnQAJJNOju1kEZ4/3PEogF35sBJut4HTAWEcjB0WWAanK62mI0w0oSqzA8fvKooRelW9bNEZe5iYrQyqYGOhgj0aKU6bWwdUXMumCbR/Xy9vuUTLAhrzFmpzaElTQBM5WZALRAEtp7sJLh+FnsQDw==;1flpC2qNMAe4Y0KWExikaQ=="
 ---

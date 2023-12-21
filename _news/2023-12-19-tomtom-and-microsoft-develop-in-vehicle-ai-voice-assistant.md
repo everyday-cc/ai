@@ -199,6 +199,17 @@ related:
         width: 1024
         height: 538
         isCached: true
+  - title: "Coforge ties with Microsoft for generative AI; shares up"
+    excerpt: "Coforge Ltd. collaborates with Microsoft to use Azure OpenAI service to help enterprises adopt generative AI with Coforge Quasar platform."
+    publishedDateTime: 2023-12-21T06:49:00Z
+    webUrl: "https://www.thehindubusinessline.com/companies/coforge-ties-with-microsoft-for-generative-ai-shares-up/article67661073.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/companies/coforge-ties-with-microsoft-for-generative-ai-shares-up/article67661073.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/coforge-ties-with-microsoft-for-generative-ai-shares-up/article67661073.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 54
   - title: "TomTom and Microsoft Team Up to Launch Cutting-Edge In-Car Voice AI Solution"
     excerpt: "TomTom, a leading mapping/navigation company, has partnered with Microsoft to develop an advanced in-car voice AI assistant. The solution will revolutionize the driving experience by enabling natural voice"
     publishedDateTime: 2023-12-20T10:01:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/20/10-questio
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/20/10-questions-to-ask-before-implementing-generative-ai/amp/"
 type: article
 quality: 89
-heat: 249
+heat: 269
 published: true
 
 provider:
@@ -131,6 +131,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "How Generative AI Promises to Transform Procurement"
+    excerpt: "Therefore, implementing strong data privacy and security measures, such as anonymizing datasets before training the AI, is imperative. The decision-making process in procurement is often complex and multifaceted, involving considerations of ethics ..."
+    publishedDateTime: 2023-12-21T00:00:00Z
+    webUrl: "https://www.supplychainbrain.com/blogs/1-think-tank/post/38643-how-generative-ai-promises-to-transform-procurement"
+    type: article
+    provider:
+      name: Supply Chain
+      domain: supplychainbrain.com
+    quality: 39
+    images:
+      - url: "https://www.supplychainbrain.com/ext/resources/2023/08/03/Artificial-Intelligence-iStock--Udomdech-Jaroenthanaporn--1473127506.jpg?height=635&t=1691122544&width=1200"
+        width: 953
+        height: 635
+        isCached: true
   - title: "5 questions about artificial intelligence, answered"
     excerpt: "Artificial intelligence is one of the most incredible tools mankind has ever created. It’s also one of the most controversial. Some of AI’s pioneering researchers and developers think that, without proper management,"
     publishedDateTime: 2023-12-18T05:00:00Z
@@ -158,6 +172,20 @@ related:
       - url: "https://cdn.washingtontechnology.com/media/img/cd/2023/12/20/GettyImages_1781530895/open-graph.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "The Premature Quest for International AI Cooperation"
+    excerpt: "From city halls to international organizations, oversight of AI is top of mind, and the pace of new initiatives has accelerated in the last months of 2023. The G-7, for example, released a nonbinding code of conduct for AI developers in late October."
+    publishedDateTime: 2023-12-21T05:48:00Z
+    webUrl: "https://www.foreignaffairs.com/premature-quest-international-ai-cooperation"
+    type: article
+    provider:
+      name: Foreign Affairs
+      domain: foreignaffairs.com
+    quality: 37
+    images:
+      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2023/12/18/RTSPUK66.JPG?itok=9QxIgqOj"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Why Generative AI Startups Are So Dependent on Big Tech"
     excerpt: "Generative AI has developed at a breakneck pace, and Silicon Valley's corporate giants do not want the technology to run away without them. In January, Microsoft's $10 billion investment in OpenAI catalyzed the funding stampede of 2023,"

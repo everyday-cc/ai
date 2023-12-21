@@ -7,7 +7,7 @@ originalUrl: "https://time.com/6343945/ai-music-movies-art-2023/"
 webUrl: "https://time.com/6343945/ai-music-movies-art-2023/"
 type: article
 quality: 67
-heat: 107
+heat: 127
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "A look into artificial intelligence in 2023"
+    excerpt: "We are taking a look at artificial intelligence, specifically its advancement over the past year. Bill Hart-Davidson, associate dean of Graduate Studies at Michigan State University, joined CBS News Detroit to break down how AI evolved across the country,"
+    publishedDateTime: 2023-12-21T02:18:00Z
+    webUrl: "https://www.cbsnews.com/detroit/video/a-look-into-artificial-intelligence-in-2023/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/12/21/3ced0376-16a6-4d87-8b7c-72e9e7e03333/thumbnail/1200x630/925a3e295dc6b359128ef525b9cf384f/4acbd1ec00b765efff1eac115d1e4b39.jpg?v=5382e209c94ee904b3a96a69f8ca0ce0"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Legal Tech's Milestones for Artificial Intelligence in 2023"
     excerpt: "Legal industry experts make their picks for the biggest developments in AI for the legal industry in the past year."
     publishedDateTime: 2023-12-20T18:49:00Z
@@ -86,6 +100,15 @@ related:
         width: 767
         height: 633
         isCached: true
+  - title: "7 ways doctors and nurses are using AI"
+    excerpt: "Artificial intelligence has the potential to make work more efficient through automation. In the health care industry, AI-backed tools can help doctors, nurses, and researchers quickly sift through data and analyze results to improve research and patient care."
+    publishedDateTime: 2023-12-20T17:00:00Z
+    webUrl: "https://www.chron.com/news/article/7-ways-doctors-and-nurses-are-using-ai-18566263.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 17
 
 secured: "M2xc5GM+uA6c+eoaTn5st3a0Qbf8lVs752wP+r8GHi39WAya4Uk9YY/FM173FIr479UG+sjFGLitfmx93yJc21QvWwyvfCsO2eetpQVZID3/ZnI6JiOmoxxyAVHDgSnBVMRL521EAPxxodkw3C/XTn5euqiqCfQTjgeQvGacH/iQQVGIGejrz4AyJH/NdeGjeCZU57TZK67EtPybMzqQLe9Zs3/+OOyRGkOIeRF519nRuuhN1bRwXOJC+FR5/qEvbXCEgpJbz8bp7WoXmo5s7Z+xIYGTMixvVs7Tvhkmc7zW9udmP2kKk6rzCst0qCtHT0dyvNrCcidIzEVo9Es8MMk3Rjj/R2Y+sZEV/Veqx3k=;SYeOz1XnnZuO4GJbIMhGeQ=="
 ---

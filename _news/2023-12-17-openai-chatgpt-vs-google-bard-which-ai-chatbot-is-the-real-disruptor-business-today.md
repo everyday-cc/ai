@@ -26,19 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "I asked Bard and ChatGPT to plan me a trip and one result really impressed me"
-    excerpt: "I recently asked Bard and ChatGPT to plan me a fake trip. While both were able to do the job well enough, one result stood above the other."
-    publishedDateTime: 2023-12-20T18:24:00Z
-    webUrl: "https://www.androidauthority.com/bard-vs-chatgpt-trip-3395897/"
+  - title: "Q&A: How Athenahealth moved from traditional AI to genAI and ChatGPT"
+    excerpt: "Athenahealth has used AI for years, but generative AI opened up new efficiencies in processing healthcare requests and records. There were challenges, too, as Heather Lane, Athenahealth’s senior architect of data science and platform engineering,"
+    publishedDateTime: 2023-12-21T05:11:00Z
+    webUrl: "https://www.computerworld.com/article/3711802/qa-how-athenahealth-moved-from-traditional-ai-to-genai-and-chatgpt.html"
+    ampWebUrl: "https://www.computerworld.com/article/3711802/qa-how-athenahealth-moved-from-traditional-ai-to-genai-and-chatgpt.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3711802/qa-how-athenahealth-moved-from-traditional-ai-to-genai-and-chatgpt.amp.html"
     type: article
     provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 68
+      name: Computerworld
+      domain: computerworld.com
+    quality: 74
     images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Google-Bard-website-on-phone-1.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://images.idgesg.net/images/article/2023/12/shutterstock_608550530-100950428-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 801
         isCached: true
   - title: "Further your AI ChatGPT and Python knowledge and build your own chatbot with this mega bundle, now $29.97"
     excerpt: "Take on the rising world of AI with The 2023 Ultimate AI ChatGPT & Python Programming Bundle, now on sale for only $29.97 through Christmas."
@@ -56,52 +58,15 @@ related:
         width: 1067
         height: 800
         isCached: true
-  - title: "How to get a shareable link to a ChatGPT conversation"
-    excerpt: "Even though I used my paid subscription to ChatGPT Plus for this session, anyone can click the link and read the conversation."
-    publishedDateTime: 2023-12-19T12:40:00Z
-    webUrl: "https://www.zdnet.com/article/how-to-get-a-shareable-link-to-a-chatgpt-conversation/"
+  - title: "Google’s Bard vs OpenAI’s ChatGPT: Which of the rival AI chatbots is better? – Euronews"
+    excerpt: "Google’s answer to ChatGPT is here - but is it as good as OpenAI’s global phenomenon? Euronews Next put them through their paces. Google has made its"
+    publishedDateTime: 2023-12-16T18:44:00Z
+    webUrl: "https://www.inferse.com/841934/googles-bard-vs-openais-chatgpt-which-of-the-rival-ai-chatbots-is-better-euronews-2/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 49
-  - title: "One Year In and ChatGPT Already Has Us Doing Its Bidding"
-    excerpt: "One of the first things I asked ChatGPT about, early this year, was myself: “What can you tell me about the writer Vauhini Vara?” It told me I’m a journalist (true, though I’m also a fiction writer),"
-    publishedDateTime: 2023-12-19T14:39:00Z
-    webUrl: "https://www.nytimes.com/2023/12/19/opinion/artificial-intelligence-chatgpt.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 49
-  - title: "ChatGPT Invented An Upstart Netflix Rival For Me"
-    excerpt: "On December 13, in response to a series of prompts, ChatGPT came up with the name of the business - StreamSphere - and suggested the features the service should provide to win over enough customers to dominate the online streaming industry by 2034."
-    publishedDateTime: 2023-12-17T11:50:00Z
-    webUrl: "https://www.inc.com/peter-cohan/chatgpt-invented-an-upstart-netflix-rival-for-me.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 39
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/chat-gpt-netflix-chatbot-inc_535803_y2feub.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Chevrolet Used ChatGPT for Customer Service and Learned That A.I. Isn't Always on Your Side"
-    excerpt: "Can artificial intelligence be too smart for its own good? While a promising use case for generative A.I. is handling simple customer service tasks, Chevrolet recently learned that integrating the tech into your website can lead to problems if you don't narrow the scope of its abilities."
-    publishedDateTime: 2023-12-18T21:45:00Z
-    webUrl: "https://www.inc.com/ben-sherry/chevrolet-used-chatgpt-for-customer-service-and-learned-that-ai-isnt-always-on-your-side.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 29
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-668760581_535925_g5ykl7.jpg"
-        width: 1024
-        height: 576
-        isCached: true
+      name: Inferse
+      domain: inferse.com
+    quality: 28
 
 secured: "AdIf5pmLXt7lV2dM464CIyumJlctMeVNDIrZiFXgLFbATjmvIQULhq36SXtOJwXOB4SUewoyr4ekFyLp2ETNtFAJ+zRlnQpiqH0PdprQ0Tm/BC7H9UbAh3hTV2voFoh/4A2cvt57PCadpwR0fBbHG5JK4aL/3S9XBlE/4n/YRl0nxCc0vLnAIzSZualqtiaOQjRYOCkzsMrdISYydyNIGAhQok934Crn6L6/T/Bhz8c3d6kXRtrQP1vpaf2aCgngioaQqwU2ztUp0rLPr7SVD4KgfcURdguBWFG0PBEqmNfP4TPMa/sPrAO+igWiLbEIh9033YiXvD+yRglxeTinbmMXAtXRuEMae0yCFKF9+9w=;bV9OnWX26xG1yhK3dD/74g=="
 ---
