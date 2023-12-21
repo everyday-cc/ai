@@ -35,6 +35,20 @@ related:
         width: 1061
         height: 707
         isCached: true
+  - title: "AWS Canada West Region Launched in Calgary; Future Planned Regions Include Malaysia, Thailand, NZ"
+    excerpt: "Amazon Web Services (AWS) has announced the launch of its second AWS infrastructure Region in Canada - the AWS Canada West (Calgary) Region"
+    publishedDateTime: 2023-12-21T02:04:00Z
+    webUrl: "https://www.thefastmode.com/leadership-and-management/34359-aws-canada-west-region-launched-in-calgary-future-planned-regions-include-malaysia-thailand-nz"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 41
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/fae75687ce3744f5b18e5363d2bd762d.jpg?t=20231221_020017"
+        width: 753
+        height: 408
+        isCached: true
   - title: "AWS Launches Second AWS Infrastructure Region In Canada; To Invest $17.9 Bln In Canada Through 2037"
     excerpt: "Amazon Web Services (AWS), an Amazon.com, Inc. company (AMZN) announced Wednesday the launch of its second AWS infrastructure Region"
     publishedDateTime: 2023-12-20T12:20:00Z

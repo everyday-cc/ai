@@ -1,27 +1,27 @@
 ---
 category: news
 title: "No, Dr. Oz isn’t promoting a diabetes cure in ads on Facebook"
-excerpt: "No, Dr. Oz is not promoting a diabetes cure in ads on Facebook. There’s no cure for diabetes. The Facebook ads claiming to show Dr. Oz promoting a cure are actually deepfake videos that have been manipulated to spread false information, according to our sources."
-publishedDateTime: 2023-12-20T23:50:00Z
-originalUrl: "https://www.kvue.com/article/news/verify/scams-verify/dr-oz-diabetes-cure-deepfake-videos-doctored-altered-facebook-ads-fact-check/536-3eea2484-1b8a-4f2f-ba7b-234aab11e2bb"
-webUrl: "https://www.kvue.com/article/news/verify/scams-verify/dr-oz-diabetes-cure-deepfake-videos-doctored-altered-facebook-ads-fact-check/536-3eea2484-1b8a-4f2f-ba7b-234aab11e2bb"
-ampWebUrl: "https://www.kvue.com/amp/article/news/verify/scams-verify/dr-oz-diabetes-cure-deepfake-videos-doctored-altered-facebook-ads-fact-check/536-3eea2484-1b8a-4f2f-ba7b-234aab11e2bb"
-cdnAmpWebUrl: "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/news/verify/scams-verify/dr-oz-diabetes-cure-deepfake-videos-doctored-altered-facebook-ads-fact-check/536-3eea2484-1b8a-4f2f-ba7b-234aab11e2bb"
+excerpt: "Manipulated ads on Facebook falsely claim former TV host Dr. Oz developed a diabetes cure. But these ads are deepfakes; there is no cure for diabetes."
+publishedDateTime: 2023-12-20T23:12:00Z
+originalUrl: "https://www.khou.com/article/news/verify/scams-verify/dr-oz-diabetes-cure-deepfake-videos-doctored-altered-facebook-ads-fact-check/536-3eea2484-1b8a-4f2f-ba7b-234aab11e2bb"
+webUrl: "https://www.khou.com/article/news/verify/scams-verify/dr-oz-diabetes-cure-deepfake-videos-doctored-altered-facebook-ads-fact-check/536-3eea2484-1b8a-4f2f-ba7b-234aab11e2bb"
+ampWebUrl: "https://www.khou.com/amp/article/news/verify/scams-verify/dr-oz-diabetes-cure-deepfake-videos-doctored-altered-facebook-ads-fact-check/536-3eea2484-1b8a-4f2f-ba7b-234aab11e2bb"
+cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/verify/scams-verify/dr-oz-diabetes-cure-deepfake-videos-doctored-altered-facebook-ads-fact-check/536-3eea2484-1b8a-4f2f-ba7b-234aab11e2bb"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: KVUE
-  domain: kvue.com
+  name: KHOU 11
+  domain: khou.com
 
 topics:
   - Meta AI
   - AI
 
 images:
-  - url: "https://media.kvue.com/assets/VERIFY/images/e9c5abaa-1cc5-441e-96da-88d883e1276e/e9c5abaa-1cc5-441e-96da-88d883e1276e_1140x641.jpg"
+  - url: "https://media.khou.com/assets/VERIFY/images/e9c5abaa-1cc5-441e-96da-88d883e1276e/e9c5abaa-1cc5-441e-96da-88d883e1276e_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
@@ -51,6 +51,6 @@ related:
       domain: thedailystar.net
     quality: 4
 
-secured: "KxsH1fAM0NArsTCFDc3U4UDyqYdnpTGbv7SZUB5j3edgYfwvJJ0HSwXu8RrXK1rYdaopTZy2zhu86tZHpqq+PCtftdGiMzCt5rEeLp3DJ0EAGAQXDj5HeRgm4rPAW3IR4zjids0lkCcjynprcduzbI0jmd6IHEIDracGB1lavid0bM75M78hneXo+qM+lK5OF8ej7PHpIZdEEML6DoeIx4o99L3l8jQ0vvNUJWxXE/IPkOztiG0M0OOo8LFd+H99FmcBFD6m3UoVwtYJD321aJEIu+kQyfyVmJf9zo2pLXgRyGdwiXBq6pz8G2yKiCy4GqDfmbwvEeMHp7uuUdvRFqzh3Nj0qqdtq2gNf9nyx38=;aOdfv3dJFX1eplN5wrvM4Q=="
+secured: "mQF/Rvy6rhZLjFawTN1VH6q4MWFE8Zr8/3fc94cWpS6iVwF//JMpYdbKjjvYxr8dBGP1zUrG42SnhZOovkWN/1uvS3/2e1U5jr0d/ES5oZ+kFA2MLUtT2CQcObYFTbVOerdoBPuPQ1X2FwPXU+hdcKQsOzb3eK2Zso92FAR/PQF8/LEXGSVlNC/1D3XIYmCS1YPfr/uzyxt70RxjRUD72F7DZgLjC6gunbvvEXgI8/aFmefV7cAZ+EJ8xORn8Ff+tbsmxf5MFuPei0R/g/qw/o08n0Mus9HdpRIh6yonbNwd6i79Ap4eQQ2S0j8uZzCRo/0qht/LbtErWzG+CJUcVacGfbSP4r+GeqRaMOXGsDk=;kRCIKBLAKBfjV2wmNpeq+g=="
 ---
 

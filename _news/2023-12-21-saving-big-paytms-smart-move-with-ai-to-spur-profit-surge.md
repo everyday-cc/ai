@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Saving Big: Paytm's smart move with AI to spur profit surge"
-excerpt: "Fintech giant Paytm is leveraging artificial intelligence (AI) to revolutionise payments and financial services like wealth management, Paytm Founder and CEO Vijay Shekhar Sharma said in"
-publishedDateTime: 2023-12-20T21:51:00Z
-originalUrl: "https://www.thehansindia.com/business/saving-big-paytms-smart-move-with-ai-to-spur-profit-surge-845700"
-webUrl: "https://www.thehansindia.com/business/saving-big-paytms-smart-move-with-ai-to-spur-profit-surge-845700"
+title: "Saving Big: Paytm’s smart move with AI to spur profit surge"
+excerpt: "Fintech giant Paytm is leveraging artificial intelligence (AI) to revolutionise payments and financial services like wealth management, Paytm Founder and CEO Vijay Shekhar Sharma said in an interview with Bloomberg."
+publishedDateTime: 2023-12-21T02:18:00Z
+originalUrl: "https://www.canindia.com/saving-big-paytms-smart-move-with-ai-to-spur-profit-surge/"
+webUrl: "https://www.canindia.com/saving-big-paytms-smart-move-with-ai-to-spur-profit-surge/"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: -1
 published: false
 
 provider:
-  name: The Hans India
-  domain: thehansindia.com
+  name: Canindia.com
+  domain: canindia.com
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://assets.thehansindia.com/h-upload/2023/12/20/1408174-paytm.jpg"
-    width: 1200
-    height: 720
-    isCached: true
 
 related:
   - title: "Paytm Betting On Paytm Money, Merchants & AI To Turn Operationally Profitable In A Year"
@@ -37,6 +31,6 @@ related:
       domain: inc42.com
     quality: 31
 
-secured: "sxDpTH7oRGut4sPRkuF1OL/Z+cIKdSfPpNvhTVY8h6rQQvKA49Eisj26EENcUMUB0fM2eXtFoxjQLa0CwEYMPAYDx9XfDiUoBJKgAxaycNVO/oPfqfAIeo9soHuwVVkuxezAm8r7uGAZMPiJ5W7mTpRf3ypnWw+diAwaqP24iUfunOsybYYNBLdyNfG32biXL/ynriKNybrTlCeLpdU5sUJhU1q+HEcO+o3ErTlRUXIzAMllz0sR2dEkt9x0jeObXWRJbPZlRULZFZm2T35ungfEV24Gjuh+YPJRNOlO7hK21FFuT20bvgubXUBDQMtS7y6p2DIvq5E0EQvOhRBD+5toioWgekzRnYEwyZsRxXA=;qykv6uNX0oMMSjGnh3hf6g=="
+secured: "TaeLD3XzA7tofEhYFZJLrVSTuW2DbFZCDYfAp/GqJhfq8wo5+kJDTUdSGxvmhqwaGoK8c575a2S0nJvN/i/ciisKQsxIfBPgVxnf2KQ+D8T7972U0zlrNqZc29xms2lpnz5qDaFOWaO1+bMY/IOXrf6hV6EVVwoNxL69vpXME4YP0FnEdiAXjQ00evZfvOfuq34/suDRSmTGvbfl50xmVqXiOT5aqUz1eY6PzxKnI1poC26z3pygYrg7s4MlBOV/lAof9wEam5fQL49/7ZLrLR+wIX+kYDRK+8rUStH8s7JLWGm9ZSdJ+FvKVsUQk9mzqaz7Dg/hRRk1crYEH5vRRqSwu1xVJh5SGP+8v4JdoOw=;XEYaBi1U3nivaWodmkQtEw=="
 ---
 

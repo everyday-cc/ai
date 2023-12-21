@@ -79,7 +79,7 @@ related:
     provider:
       name: MIT Technology Review
       domain: technologyreview.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2023/12/GenAI_Uncertain_Selman_RGB2.jpg?w=3000"
         width: 3000
@@ -154,6 +154,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WAMJ6PSJ4RCT3EDACYU7WDGUOU.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Generative AI poised to revolutionize capture management"
+    excerpt: "GenAI tools have immense potential for federal contractors when it comes to both proposal and capture management and writing compelling proposals."
+    publishedDateTime: 2023-12-21T02:40:00Z
+    webUrl: "https://washingtontechnology.com/opinion/2023/12/generative-ai-poised-revolutionize-capture-management/392920/"
+    type: article
+    provider:
+      name: Washington Technology
+      domain: washingtontechnology.com
+    quality: 37
+    images:
+      - url: "https://cdn.washingtontechnology.com/media/img/cd/2023/12/20/GettyImages_1781530895/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "Why Generative AI Startups Are So Dependent on Big Tech"
     excerpt: "Generative AI has developed at a breakneck pace, and Silicon Valley's corporate giants do not want the technology to run away without them. In January, Microsoft's $10 billion investment in OpenAI catalyzed the funding stampede of 2023,"

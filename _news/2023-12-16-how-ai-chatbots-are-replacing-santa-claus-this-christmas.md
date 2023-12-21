@@ -41,6 +41,20 @@ related:
         width: 300
         height: 201
         isCached: true
+  - title: "Neural Notes: Lovebombing chatbots, robot CEOs and other cooked AI stories from 2023"
+    excerpt: "This week we tackle some of the weirdest AI stories of 2023, including duelling Groks, Bing AI lovebombing and Sam Altman's firing drama."
+    publishedDateTime: 2023-12-21T01:34:00Z
+    webUrl: "https://www.smartcompany.com.au/technology/artificial-intelligence/weirdest-ai-stories-2023-grok-openai-robot-ceo-bing/"
+    type: article
+    provider:
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 47
+    images:
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2023/12/neural-notes-cooked-stories-AI-image.png?resize=1200,630"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "szA0NULyMFi5bJ8NNbSgi08cr4MC0K2BHtcd3pdf4MtrqeciMb3W5KAqqbG4GkZXoeekdz8a4lB5xdcfRvopxAkgwPqDfvtf7pko9/F1ag8hAl/2TKIQ0hBXpRv12l4zlV2r7+1K1kCk8n2UMsj2iWhkGXyCXtU7jwRyNQv7Sr4mcdd2wB5tJ7Jd8FsoY1jiBc/jBncRhFDbf6jGLJB2TACxi6XGgGnTd19AgSueBnNc85mmgJAa+Jr/Kbyh8+1AkRla2zISa6GLfpRPNPqasuvDO1/Mct9GKmDbS+dV8SluggCfLAFJMhYkl+/htzWNSVFsXdzTiR4V4/ZJhkezQkQCGT1p828skskytuMt3rW55vtbLD5MPtVcPWGhFtDXlbA6oZh+dJOTKOe+SljXBXP5KGn33uEXgwQZJjGvUDsz5TBmwSvtDFoNM8XgSqjZ6yHJfArkoVcmiVXyneYOGMuxqHxCsDucUF/iAZNtXZfZIpNU57sRrZJC7iYGqIFwfvDMS5vr48c/JE8+EE2l1w==;hX9ce5/68iFNPk4twB70Sw=="
 ---

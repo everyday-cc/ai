@@ -60,6 +60,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "3 AI Stocks You’ll Regret Not Buying Soon: December Edition"
+    excerpt: "Stock Market News, Stock Advice & Trading Tips The year 2023 defined by artificial intelligence. advances in the technology"
+    publishedDateTime: 2023-12-21T01:49:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-youll-regret-not-buying-soon-december-edition-1032917747"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "acFXjIVG254uUNiBNr6A4844lYsS4QRB6fJT/4OCy1tge08+b61HrXpzu1geIvoufRpuIbz5Vq5eqYJYg+ckjpCuErIFBgSKhYtKLZz0mGiENo5NmWZcXShvfF7cm/D+LHGYYtq0k+TtZCQWXJ2LIJGvTn+ZX/px62PsnD7Cl4uOCTQYaAa/b6XR1ywbWVRHG5Ky94v5sbowbKif9EeFTPbtF8GulAzrybJc0V9V59kiMJv3D8Nz83kVskWyTvPwrymty6Ol79GfY4Zx9lPzFyozx8MF0mUcXMBInMpJt/AzJdv6aH4IeOwlLd1HrTUzXo+0qsdCIqv/oPS8YApB8+/ng4Xr6RsBpKZtmoD/Gqg=;yqWgZT2/nKHq8Cls5YDS8w=="
 ---

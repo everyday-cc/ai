@@ -26,6 +26,17 @@ images:
     height: 1620
     isCached: true
 
+related:
+  - title: "Artificial Intelligence-Based Lab Partner Designs, Runs Experiments in the Lab"
+    excerpt: "Coscientist uses large language models such as ChatGPT to design and execute scientific experiments from simple prompts."
+    publishedDateTime: 2023-12-21T01:17:00Z
+    webUrl: "https://www.genengnews.com/topics/artificial-intelligence/artificial-intelligence-based-lab-partner-designs-runs-experiments-in-the-lab/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 13
+
 secured: "BrnC/efLipMvfHT1Wh3TzSgS+C/lu4JrQEOvWBe6u9u8FX83p8z8m7WssJYc4oVoV36gdv/M5W1bfhhCL+CTs4s5vC38L7V0XhLctGUVW9ZRg6c++YLTbS0j3/x6B10teF37S1PcaHXfEYg9vZRnLGq4nfVTNksY6BDzjVin/1MVFoc11WimKANwK8DBi7YnTOFXtWsy8Ibcd+WXWgwBzTrkuVcGmK0l0sPEt2kGWXAEp/s+N5HigC1DtqdtQUGzcy8iyyLIr8/0dwOkiFI/mcwxAFVbWtNiVrW4dBWMRsHiFX5wm7/6+da/ROkhAzWHFctEaZ18u940oEdn+6+nGbbW66AWKHET7C6TaL0kHZAP/mn++JkDbDf6KlivUOoYO6+PNusptOx+f/MAPFWcdQzM2SFtiIlGqwmYASK8WWx0FmUY2HirZEfoiDKabk3h4805/IBYgEvO6dbp9xxxlXgd0ZkLrsh6PSH3sMDloSWhX2R5rF6hbvcO4Ib0Vq1nu8z7qtKYxDY6JsflACQlpg==;OXaB9XwT56Oeh4jzRHVCmg=="
 ---
 

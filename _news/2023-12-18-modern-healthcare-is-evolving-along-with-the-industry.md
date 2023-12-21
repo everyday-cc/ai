@@ -77,6 +77,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The nascent AI industry is being overrun by men"
+    excerpt: "This work continued into the second world war, when they were actively encouraged to take on wartime jobs as computers in the absence of men. Women continued to work as computers into the early days of the American space program in the 1960s, playing a pivotal role in advancing NASA’s space projects."
+    publishedDateTime: 2023-12-21T01:12:00Z
+    webUrl: "https://ia.acs.org.au/article/2023/the-ai-industry-is-overrun-with-men.html"
+    type: article
+    provider:
+      name: ia.acs
+      domain: acs.org.au
+    quality: 39
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/altman-mira-murtai.jpg"
+        width: 1214
+        height: 683
+        isCached: true
 
 secured: "QYpbm6SZOLucpkAkRMjDPv6ZlwVRKsdO012cXcF2x+4RHxGoPZzPCocOUjswa0lqmO8oKKZj8iOrfUoEul14T7UIihxWy2ihg+zBSqE3T6cN6Pfa1OzqwNi0iVD0LMWW3sSNymjyOfxOQxzcfwdO6hEwpuDjdgHNCMN+Xw59fH+j67Tzy/clbUGMET++cmG11MLZzXcScDBJK8NI64AASuNeWVw5jslv/IKiPxCrYvN5Uo9V2CNA6Xa8W9aLzazz2Oc9mboXk/Ybkk+E/2fPexumZ5Q7fSiWrVGGVEByuvNSu+TjRWuzbap3VfVULHi5CPJEQPl3PB4abXUdlx28yeAGyKHNiKORFt0U5ke3uQ07y5n/85820Qbl+tYg3hYMuL0Yz0Bak9J2dk+Bl9cye6tDd9Ml36l0tC8uGjBRLfQICAIqBT1l6yHu+P93cr7UvtO8liD9yp5kiI3rvXPtycRCHilOCihMeJsaBM3BiCfsyacsI/hM0QsHFLmjjdknp/3QkD8lOEjxn2a9M5a3oQ==;aq4XWXIh1rUzStVHPSGsWg=="
 ---

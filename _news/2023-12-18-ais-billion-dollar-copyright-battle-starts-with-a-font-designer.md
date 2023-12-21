@@ -23,6 +23,17 @@ images:
     height: 370
     isCached: true
 
+related:
+  - title: "Big tech’s year of partnering up with AI startups"
+    excerpt: "In the wake of Microsoft Corp.’s US$10 billion ($13.31 billion) investment in OpenAI in January, other tech giants raced to partner with leading AI startups through funding and cloud computing deals."
+    publishedDateTime: 2023-12-19T13:31:00Z
+    webUrl: "https://www.theedgesingapore.com/digitaledge/artificial-intelligence/big-techs-year-partnering-ai-startups"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 19
+
 secured: "qAc3FERbOIeYSxJ/ULRcJnBGRn1xfeJF2LUg6NpgtP9Tc4g5DHyfyLd9Syz4UsIV0bwuPCvJ47dEO3cbH08AEdRL63kABwMq2BULJlodzQtI74tguNb7XuOzei+y/wVPSkmQOhDltW5kkq7lr2lW5LDWLft+Epbn0iSZLYrA0zJl3W6uK/ec5BhUf+NX61GU7S4SIyyHQom0m3R0rK4N7xEMOBiyfG1mI1k15ifItwxdncirB29/dvesRq+TuH9sXZ36JQUQfTdlKO0Dfhv0qa5PfuRIiyqbaCHkS+cZnHM/hmrLZNLXUbzQIsbQNcoTyJ4tHb6TfEOtA/Bdt7S8FtGnoH/q+qqaQKQqXALVcec=;l5t7/GZhCt3BNJobW4kPFg=="
 ---
 

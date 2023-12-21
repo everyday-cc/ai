@@ -69,6 +69,20 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "The nascent AI industry is being overrun by men"
+    excerpt: "This work continued into the second world war, when they were actively encouraged to take on wartime jobs as computers in the absence of men. Women continued to work as computers into the early days of the American space program in the 1960s, playing a pivotal role in advancing NASA’s space projects."
+    publishedDateTime: 2023-12-21T01:12:00Z
+    webUrl: "https://ia.acs.org.au/article/2023/the-ai-industry-is-overrun-with-men.html"
+    type: article
+    provider:
+      name: ia.acs
+      domain: acs.org.au
+    quality: 39
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/altman-mira-murtai.jpg"
+        width: 1214
+        height: 683
+        isCached: true
   - title: "Modern Healthcare is evolving along with the industry"
     excerpt: "It’s an exciting time to be journalists covering the industry. And for that reason, Modern Healthcare is evolving in 2024 too."
     publishedDateTime: 2023-12-18T08:59:00Z

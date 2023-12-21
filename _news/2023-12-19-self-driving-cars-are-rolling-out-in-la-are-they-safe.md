@@ -41,17 +41,17 @@ related:
         isCached: true
   - title: "Self-Driving Cars Have Arrived. They Will Make Us Safer."
     excerpt: "The magic of the driverless vehicle is the artificial intelligence behind the sensors. That allows the cars to operate like a human nervous system. Sensors and radar are the eyes and ears. The brain is algorithms trained by billions of simulated trips. The more the robo-cars drive, the more they learn, and the smarter and safer they get."
-    publishedDateTime: 2023-12-20T18:40:00Z
-    webUrl: "https://www.aol.com/news/self-driving-cars-arrived-us-164005666.html"
+    publishedDateTime: 2023-12-20T20:40:00Z
+    webUrl: "https://reason.com/2023/12/20/self-driving-cars-have-arrived-they-will-make-us-safer/"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
+      name: Reason
+      domain: reason.com
     quality: 24
     images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/2rT0OeMEdtLd4r0Hd2zl5Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_reason_com_448/662d9d02f5e6c49a8421f3bc410461f3"
-        width: 1200
-        height: 675
+      - url: "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2023/12/john-stossel-driverless-cars-1024x526.png"
+        width: 1024
+        height: 526
         isCached: true
 
 secured: "Lm1lcGcSn+IHaAnLNHDtsxv108lobRtuR5qJzqzPeqRpaj/HpqtYgMsrQwxQhBZ3EpENfhVJ5Vg1ssGWf3oCHb3yQUu3aGcY9H6jQaIC/pVWsP/r0plDL6PWggmUhOwI2H3BcRVTlsp96Jeo25osWs5kkm0GU3UZxOySNlJaimecV1ck2OzqaJF57i+aev4Byi9mrhy+mIambf4zfuifDmiW0psbxKIpHz+rqWaEfEWB1H1SbkWUooUX8CQUiYJVaOXUWtf3x04aseSqy0iM+OlU0WpWGsbo1Ci3Ac1njcu0cdicgppcj6A43n4dQTL+mQu+KgOykAHuwX1KL8l3N04GZp6TCuh5aMmyGSAVUn4=;Qcu8PLCi38GT2O+w0nQ0IA=="

@@ -38,7 +38,7 @@ related:
     provider:
       name: MIT Technology Review
       domain: technologyreview.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2023/03/image_dissolves_into_noise2.jpeg?w=2048"
         width: 2048

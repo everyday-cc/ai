@@ -9,7 +9,7 @@ ampWebUrl: "https://disrupt-africa.com/2023/12/20/unleashing-ais-power-chatbots-
 cdnAmpWebUrl: "https://disrupt--africa-com.cdn.ampproject.org/c/s/disrupt-africa.com/2023/12/20/unleashing-ais-power-chatbots-transforming-healthcare-experiences/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Neural Notes: Lovebombing chatbots, robot CEOs and other cooked AI stories from 2023"
+    excerpt: "This week we tackle some of the weirdest AI stories of 2023, including duelling Groks, Bing AI lovebombing and Sam Altman's firing drama."
+    publishedDateTime: 2023-12-21T01:34:00Z
+    webUrl: "https://www.smartcompany.com.au/technology/artificial-intelligence/weirdest-ai-stories-2023-grok-openai-robot-ceo-bing/"
+    type: article
+    provider:
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 47
+    images:
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2023/12/neural-notes-cooked-stories-AI-image.png?resize=1200,630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "How AI Chatbots Are Replacing Santa Claus This Christmas"
     excerpt: "While bots can make your holidays a little more jolly, they also open the doors to depersonalizing gift giving—and the inherent dangers of the emerging technology."
     publishedDateTime: 2023-12-16T03:40:00Z

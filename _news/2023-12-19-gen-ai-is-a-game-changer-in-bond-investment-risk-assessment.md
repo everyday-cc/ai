@@ -51,15 +51,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "How Publishers Can Navigate the AI Revolution"
-    excerpt: "Despite the hype, publishing is still looking at what impact large language models and similar technology may bring."
-    publishedDateTime: 2023-12-16T01:22:00Z
-    webUrl: "https://www.publishersweekly.com/pw/by-topic/digital/content-and-e-books/article/93963-how-publishers-can-navigate-the-ai-revolution.html"
-    type: article
-    provider:
-      name: Publishers Weekly
-      domain: publishersweekly.com
-    quality: 19
 
 secured: "T3oEiPbXydGMJpT/cKYQLmIdAYK8a+d4fhyQurvX8JFt/5RX9RifFiTqBn2wSqyD+0Os2DvVTp2JvOQrxVdJa+4DJGk7UYikatrHqTGLho8Lrx59plrZL2pvefYxBdHx5s2oX9WZTFZkh17KQM9OXjVoedfEVzB20suCfW1avhI/kz3rAFX9iV00RNwdW5Pw4uKeMQ1bJ8ejf+W/9jXvVnHAouhTZtqrglRrGpesMQ7mi/Eoj0Nd38XoeD65/lLCzss3ZwyPlfpMfzrZjjhmWmCyR+dLsKnuhPuRfQHRZ1XdGzZfyEDRgcVm7P5dhK5HxY9ekqeAU5ZZM0X7Hm8oUw3lK1UdVpitxbSKepzXjhncgzfMUkWxzkXwnnylyeCbqzUmBGF9aHP4+PLLiYMBKiRZ4tRLHxDS3f+pVJNdFQw6bMexof+QnoTKiNK1AZLOdqc6vg6AnuOnAdo9ATkbsZWUulgHMW2YpAkJn3068fQH42IlW0TTw/SZmdiIPMWIu4QaGvs1D1n2EZrgF92bew==;JzL/OnEO1f73Q9P7toYQ1w=="
 ---

@@ -79,6 +79,22 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 49
+  - title: "Researchers find more than 1,000 child sexual abuse images inside AI image generation training data"
+    excerpt: "The massive public dataset used to build artificial intelligence image generators contains at least 1,008 instances of child sexual abuse material, the Stanford Internet Observatory found."
+    publishedDateTime: 2023-12-21T02:02:00Z
+    webUrl: "https://www.dailynews.com/2023/12/20/large-ai-dataset-has-over-1000-child-abuse-images-researchers-find/"
+    ampWebUrl: "https://www.dailynews.com/2023/12/20/large-ai-dataset-has-over-1000-child-abuse-images-researchers-find/amp/"
+    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2023/12/20/large-ai-dataset-has-over-1000-child-abuse-images-researchers-find/amp/"
+    type: article
+    provider:
+      name: Los Angeles Daily News
+      domain: dailynews.com
+    quality: 45
+    images:
+      - url: "https://www.dailynews.com/wp-content/uploads/2023/12/GettyImages-1241898168-5.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "A report reveals AI image-generators are being trained on child sexual abuse images"
     excerpt: "Welcome to What’s New in AI, our weekly update where we bring you all the latest AI news, tools, and tips to help you excel in this new brave AI-driven world. Let’s start by focusing on the biggest (and currently breaking) story of the week:"
     publishedDateTime: 2023-12-20T19:36:00Z

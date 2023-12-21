@@ -2,26 +2,26 @@
 category: news
 title: "Self-Driving Cars Have Arrived. They Will Make Us Safer."
 excerpt: "The magic of the driverless vehicle is the artificial intelligence behind the sensors. That allows the cars to operate like a human nervous system. Sensors and radar are the eyes and ears. The brain is algorithms trained by billions of simulated trips. The more the robo-cars drive, the more they learn, and the smarter and safer they get."
-publishedDateTime: 2023-12-20T18:40:00Z
-originalUrl: "https://www.aol.com/news/self-driving-cars-arrived-us-164005666.html"
-webUrl: "https://www.aol.com/news/self-driving-cars-arrived-us-164005666.html"
+publishedDateTime: 2023-12-20T20:40:00Z
+originalUrl: "https://reason.com/2023/12/20/self-driving-cars-have-arrived-they-will-make-us-safer/"
+webUrl: "https://reason.com/2023/12/20/self-driving-cars-have-arrived-they-will-make-us-safer/"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: Reason
+  domain: reason.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s.yimg.com/ny/api/res/1.2/2rT0OeMEdtLd4r0Hd2zl5Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_reason_com_448/662d9d02f5e6c49a8421f3bc410461f3"
-    width: 1200
-    height: 675
+  - url: "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2023/12/john-stossel-driverless-cars-1024x526.png"
+    width: 1024
+    height: 526
     isCached: true
 
 related:
@@ -54,6 +54,6 @@ related:
         height: 384
         isCached: true
 
-secured: "nMugItPSow6pcxKTEQwA5AQnN2pLsUV3mBjJOr4gSKwE3ajhqXls/WFfpK2rI3bG8Gpzcfs+suKEHYKDnYJ0wcYFriSQAFHX7hY8uwSpJqoZBM0ZTuY35rQFkFB8UHbl71AL2jvOQc1cqqJKRWyhWPiJIoY4Lyprhseem71dVdV+KrYDxvhx5WnrsXU+/Zq8XakK3yTplWGJKYaS+1iBiNrbtksfwMWV+jyskI8VvNRTRfrM8P7c+zeogUyv+o4kasHSxXd5vPNYCe/MfM4ua2uAcpmBucNG40qA/ReEgEcNzE8yB7UWZrg5YQX+GnbUMWEoPqQ6S25uFiLkzAkZdxsmYssmSSKR7/hOD0ZqYR0=;IO0HPzb2gvNLy8Vcers3DA=="
+secured: "5f8IR+ausFpLI8vvBuSQ8laEt5GUNHUcLhcOAsvmmcNsHU0n0PBmpxR7oQCqkXy5Z4wVMqJVD6t+jK0f/7bPk1lGhhOgVHTaShusLVXUDgbqxVjWL0e4DWe05TZSWxskQSlgbSmRw1WZ+i5h41Zg92o35ALy5UPwHOqLsK9EU+eAmLLNdXuW0/fMq2iIyH26roj8BTmMK4XsMFB01Um9KTLuLXp68cyai3+XRZ8InrHmx9ICJuLiOvFGdA0hRDk2dDubiA4KEf1fxk1dZb7rXfG0hSotuRWVVmaiP0J9GR9YiMEfe1JskvqsCtjl6WSWawhgOpbGF6743W6k/pQ9YiIycji5OeR9lsBbJSt9gwc=;2GqE2w6MXVKspb8D/PSVZA=="
 ---
 
