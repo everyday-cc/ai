@@ -101,15 +101,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "ChatGPT vs Google Bard: What's the difference and which one to use? – Android Authority"
-    excerpt: "Affiliate links on Android Authority may earn us a commission. Learn more.We finally have our hands on Google’s long-awaited Bard chatbot. It takes aim at the"
-    publishedDateTime: 2023-12-16T04:28:00Z
-    webUrl: "https://www.inferse.com/841446/chatgpt-vs-google-bard-whats-the-difference-and-which-one-to-use-android-authority/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 13
 
 secured: "NbPdK5RinxMTTjLDn0gk0nebTnZ8tSQ2u93miuk5wZHYa8voNjEyqNye62/GXurDfwWM4V19qJw+qay+9jKY89jZDLgKDlo4oN9o5ojK0CMIneBMggH6avomOqiXFlW+gOUrM7/0OkliozMLuaxVOh+L6LhluOPTBw9ugDOAU0UG4eSVeuC7Acn5wGjrm8bErjSX8JMfuK303a2FH+QBRIwItcP+jeuRa/7NRtM0i0+clBM/1PZOaibIYpPkfJPgKooXRvCzUeU23brpYrd+W5NMgDxpDKXusP/peGpurFuH48tqOuBdADj4OoBO0BBLbt5RVlNW1FXHv1ciO66h/qiE4ec+VE9FPwzitS3L/PDs+Z9mAKLDXlFuJXa+Z0f7NjHgvkC3EajGggCfdhE4S5EejpSr30GSu42BYaXGFhmohcB2TOuLYlOHZQETxSMwlOgtmn7L0lGn31Yihat9C+v1xCf5f590cS/Py5uEY5kazOLLNLaNkau7aFWO3ixXAYbTOKEKwAECFy0NRK8PVg==;Gi84Y8g2xwdIO8ScpUdXEQ=="
 ---

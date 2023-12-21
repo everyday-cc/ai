@@ -6,7 +6,7 @@ publishedDateTime: 2023-12-21T01:49:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-youll-regret-not-buying-soon-december-edition-1032917747"
 webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-youll-regret-not-buying-soon-december-edition-1032917747"
 type: article
-quality: 47
+quality: 49
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 related:
   - title: "3 AI Stocks Poised for Explosive Growth in 2024"

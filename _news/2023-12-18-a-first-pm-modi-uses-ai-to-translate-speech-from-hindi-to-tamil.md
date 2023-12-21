@@ -9,7 +9,7 @@ ampWebUrl: "https://m.tribuneindia.com/news/india/a-first-pm-modi-uses-ai-to-tra
 cdnAmpWebUrl: "https://m-tribuneindia-com.cdn.ampproject.org/c/s/m.tribuneindia.com/news/india/a-first-pm-modi-uses-ai-to-translate-speech-from-hindi-to-tamil-572891"
 type: article
 quality: 74
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -74,6 +74,22 @@ related:
       - url: "https://th-i.thgim.com/public/incoming/n5p5s8/article67649547.ece/alternates/FREE_1200/2023-12-14T205548Z_201180190_RC28X4A6DI51_RTRMADP_3_TECH-AI.JPG"
         width: 1200
         height: 723
+        isCached: true
+  - title: "PM Modi taps Bhashini AI platform to bridge language divide"
+    excerpt: "Bhashini counts among its various products and technologies, real time speech to speech machine translation, and automatic speech recognition, which Prime Minister Narendra Modi used on December 19 to interact with students in various parts of India via video conferencing."
+    publishedDateTime: 2023-12-21T00:30:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/pm-modi-uses-bhashini-at-kashi-tamil-sangamam-and-smart-india-hackathon/articleshow/106161438.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/pm-modi-uses-bhashini-at-kashi-tamil-sangamam-and-smart-india-hackathon/amp_articleshow/106161438.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/pm-modi-uses-bhashini-at-kashi-tamil-sangamam-and-smart-india-hackathon/amp_articleshow/106161438.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1577423,msid-106161480/narendra-modi.jpg"
+        width: 600
+        height: 450
         isCached: true
   - title: "\"Real Beginning\": Real-Time AI Translation Tool Used During PM Modi's Varanasi Speech"
     excerpt: "A real-time Artificial Intelligence-based translation tool was used during Prime Minister Narendra Modi's speech at Kashi Tamil Sangamam in Varanasi on Sunday."

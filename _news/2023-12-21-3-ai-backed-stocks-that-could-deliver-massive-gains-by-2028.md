@@ -57,7 +57,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 47
+    quality: 49
   - title: "AI news to watch for in 2024"
     excerpt: "If 2023 was the year that AI broke out, 2024 may be the year it’s reeled in. One of the things that has been scary about generative AI since the launch of ChatGPT in November 2022 is the complete lack of regulation. Large Language models are trained on ..."
     publishedDateTime: 2023-12-20T11:00:00Z

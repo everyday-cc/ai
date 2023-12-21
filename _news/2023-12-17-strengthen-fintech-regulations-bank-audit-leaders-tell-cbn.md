@@ -9,7 +9,7 @@ ampWebUrl: "https://punchng.com/strengthen-fintech-regulations-bank-audit-leader
 cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/strengthen-fintech-regulations-bank-audit-leaders-tell-cbn/?amp"
 type: article
 quality: 59
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "From RegTech to cross-border, fintech trends to watch out for in 2024"
+    excerpt: "UPI transactions hit a new record of Rs 17.4 lakh crore in November 2023, a 54% YoY increase in terms of the number of transactions and a 46% YoY increase in terms of value."
+    publishedDateTime: 2023-12-21T04:42:00Z
+    webUrl: "https://economictimes.indiatimes.com/small-biz/sme-sector/from-regtech-to-cross-border-fintech-trends-to-watch-out-for-in-2024/articleshow/106171316.cms"
+    ampWebUrl: "https://m.economictimes.com/small-biz/sme-sector/from-regtech-to-cross-border-fintech-trends-to-watch-out-for-in-2024/amp_articleshow/106171316.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/small-biz/sme-sector/from-regtech-to-cross-border-fintech-trends-to-watch-out-for-in-2024/amp_articleshow/106171316.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-163506,msid-106171422/istock-866905356.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Quasar Markets Partners with Dragon List Global to Revolutionize FinTech Research"
     excerpt: "This partnership aims to enhance financial research and market insights across emerging global markets.New York, NY, United States - December"
     publishedDateTime: 2023-12-18T03:18:00Z

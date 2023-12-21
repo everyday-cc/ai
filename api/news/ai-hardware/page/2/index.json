@@ -827,6 +827,49 @@
       ]
     },
     {
+      "path": "_news/2023-12-08-advanced-micro-devices-projects-45b-ai-chip-market-in-2023-analysts-say-chipmaker-maturing-fast-after-gpu-launch.md",
+      "title": "Advanced Micro Devices Projects $45B AI Chip Market In 2023: Analysts Say Chipmaker 'Maturing Fast' After GPU Launch",
+      "excerpt": "Advanced Micro Devices launches Instinct MI300X Data Center GPU targeting AI and ML workloads. AMD increases its 2027 data center accelerator TAM from around $150bn to around $400bn.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/23/12/36142456/advanced-micro-devices-projects-45b-ai-chip-market-in-2023-analysts-take-a-look-at-",
+      "originalUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/23/12/36142456/advanced-micro-devices-projects-45b-ai-chip-market-in-2023-analysts-take-a-look-at-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/12/07/amd-headquarters-santa-clara.site_.jpg?width=1200&height=800&fit=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/36142456",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36142456",
+      "publishedDateTime": "2023-12-07T16:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-07-amd-forecasts-45-billion-ai-chip-market-this-year-2-billion-in-sales-in-2024.md",
       "title": "AMD forecasts $45 billion AI chip market this year, $2 billion in sales in 2024",
       "excerpt": "AMD estimated there was a $45 billion market for its data center artificial intelligence processors this year as it launched a new generation of AI chips on Wednesday. The total addressable market forecast is up from AMD's $30 billion estimate in June.",
@@ -1320,58 +1363,6 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-is-amd-stock-a-buy-at-120-as-it-doubles-down-on-ai-focused-gpus.md",
-      "title": "Is AMD Stock A Buy At $120 As It Doubles Down On AI-Focused GPUs?",
-      "excerpt": "That being said, much of the surge in the stock appears to be coming from mounting interest in the company’s graphics processing business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greatspeculations/2023/11/29/is-amd-stock-a-buy-at-120-as-it-doubles-down-on-ai-focused-gpus/",
-      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2023/11/29/is-amd-stock-a-buy-at-120-as-it-doubles-down-on-ai-focused-gpus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6566ca7f3aaa52c9b9fb2b39/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1353,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2023/11/29/is-amd-stock-a-buy-at-120-as-it-doubles-down-on-ai-focused-gpus/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2023/11/29/is-amd-stock-a-buy-at-120-as-it-doubles-down-on-ai-focused-gpus/amp/",
-      "publishedDateTime": "2023-11-29T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

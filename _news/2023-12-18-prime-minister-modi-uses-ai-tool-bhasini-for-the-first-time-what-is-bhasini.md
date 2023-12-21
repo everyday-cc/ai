@@ -83,6 +83,22 @@ related:
         width: 1200
         height: 723
         isCached: true
+  - title: "PM Modi taps Bhashini AI platform to bridge language divide"
+    excerpt: "Bhashini counts among its various products and technologies, real time speech to speech machine translation, and automatic speech recognition, which Prime Minister Narendra Modi used on December 19 to interact with students in various parts of India via video conferencing."
+    publishedDateTime: 2023-12-21T00:30:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/pm-modi-uses-bhashini-at-kashi-tamil-sangamam-and-smart-india-hackathon/articleshow/106161438.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/pm-modi-uses-bhashini-at-kashi-tamil-sangamam-and-smart-india-hackathon/amp_articleshow/106161438.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/pm-modi-uses-bhashini-at-kashi-tamil-sangamam-and-smart-india-hackathon/amp_articleshow/106161438.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1577423,msid-106161480/narendra-modi.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "\"Real Beginning\": Real-Time AI Translation Tool Used During PM Modi's Varanasi Speech"
     excerpt: "A real-time Artificial Intelligence-based translation tool was used during Prime Minister Narendra Modi's speech at Kashi Tamil Sangamam in Varanasi on Sunday."
     publishedDateTime: 2023-12-17T17:46:00Z

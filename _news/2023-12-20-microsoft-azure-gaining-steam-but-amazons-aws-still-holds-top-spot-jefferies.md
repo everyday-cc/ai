@@ -7,8 +7,8 @@ originalUrl: "https://za.investing.com/news/microsoft-azure-gaining-steam-but-am
 webUrl: "https://za.investing.com/news/microsoft-azure-gaining-steam-but-amazons-aws-still-holds-top-spot--jefferies-432SI-2962657"
 type: article
 quality: 62
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: Investing
@@ -18,22 +18,6 @@ topics:
   - Microsoft AI
   - AI
   - AWS AI
-
-related:
-  - title: "Oracle Database Services Running on OCI Can Now be Deployed Directly in Microsoft Azure"
-    excerpt: "Oracle announced that its first Oracle Database@Azure service is now generally available in the Microsoft Azure East U.S. region. Oracle will operate and manage Oracle Exadata Database Service, the first of several planned Oracle database services to run on Oracle Cloud Infrastructure (OCI) in Azure data centers."
-    publishedDateTime: 2023-12-20T15:06:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Oracle-Database-Services-Running-on-OCI-Can-Now-be-Deployed-Directly-in-Microsoft-Azure-161906.aspx"
-    type: article
-    provider:
-      name: dbta
-      domain: dbta.com
-    quality: 46
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "2CcQzX5co04DyxC7yEmiUSHpuxDuJZ2c2R0QpVQR3rJjjaDdtQ9Ts+OT/ZusATIx3sBMVIgsG2x1g38Is//VnFH+AC3QO6Gu4CgPRzG+r9uhGEjZuU8PgwvfV1AkBORsUfuRbmOEvKqn/SjvwFXLMBla/E0kn8ODXmrezcZ3CqrSHLjduFEyT7ny9LgTXdWa1Uqhf5l4udLG3yNOWupluDVd0M5Ba418Aqy7Na/cdOlnCpIcrCEihAVjtqKl5iX1/oydR01VK+Qbuk34pbTWgAkjZuEv+dVHr4Zd0aULTqhSr6HKTKQvfjWe5coGlkw2dFOJqa7SUwGOHFNcUOFONloC5pg4uAwqr6KXsg9nZ/c=;9YE2FbB/RwE2A3rN8LgPAQ=="
 ---

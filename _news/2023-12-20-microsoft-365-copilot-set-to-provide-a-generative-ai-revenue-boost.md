@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robertdefrancesco/2023/12/19/microsoft-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertdefrancesco/2023/12/19/microsoft-365-copilot-set-to-provide-a-generative-ai-revenue-boost/amp/"
 type: article
 quality: 104
-heat: 405
+heat: 404
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/12/19/alphabet-to-limit-election-queri
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/12/19/alphabet-to-limit-election-queries-bard-and-ai-based-search-can-answer.html"
 type: article
 quality: 87
-heat: 177
+heat: 178
 published: true
 
 provider:

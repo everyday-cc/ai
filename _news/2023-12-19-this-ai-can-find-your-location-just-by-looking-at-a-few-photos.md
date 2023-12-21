@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/this-ai-can-find-your-locat
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-ai-can-find-your-location-just-by-looking-at-a-few-photos/"
 type: article
 quality: 87
-heat: 108
+heat: 107
 published: true
 
 provider:

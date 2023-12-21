@@ -25,15 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Azure gaining steam but Amazon's AWS still holds top spot - Jefferies"
-    excerpt: "Jefferies surveyed 40 U.S. CIOs and found that both platforms are best positioned to gain incremental spend over the next two years, with 80% of CIOs planning to boost cloud spending in 2024. According to the firm, Azure screened positively, with a higher share of CIOs planning to spend \"significantly more\" over the next 24 months."
-    publishedDateTime: 2023-12-20T13:17:00Z
-    webUrl: "https://za.investing.com/news/microsoft-azure-gaining-steam-but-amazons-aws-still-holds-top-spot--jefferies-432SI-2962657"
+  - title: "Myntra’s MyFashionGPT predicts the clothes you need, runs on Microsoft Azure"
+    excerpt: "Since launch, MyFashionGPT has already changed how people search and shop on Myntra, according to the platform. Queries have broadened as the AI assistant interprets the intent behind vague search strings instead of relying on matching keywords. This opens up new product discovery opportunities."
+    publishedDateTime: 2023-12-21T04:19:00Z
+    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/myntra-microsoft-collaboration-myfashiongpt-azure-9074891/"
+    ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/myntra-microsoft-collaboration-myfashiongpt-azure-9074891/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/myntra-microsoft-collaboration-myfashiongpt-azure-9074891/lite/"
     type: article
     provider:
-      name: Investing
-      domain: investing.com
-    quality: 62
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 71
+    images:
+      - url: "https://images.indianexpress.com/2023/12/myntra-fashion-gpt-featured.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "x9Yh/RiOTGhJPyhk8tc7Z9auiJk0y4KzIl5mXiOf2RkxfLZa2I2lJmIIx56yGL6YixV6WGnDwriGsPl24K2hyQAdxRRhO66dOUVAzl1cqNOEb79jYYK05J47rCrQfdLiOy/SX/hZFZcaoxrwDq5QCODk1a+6Th1pacDyqr7u6bzuURj05gIrzcMw+KbnHGeoEPQdDZSa1eQ8D0u4NSzAOtnlJWwXJaAdlm8daTR4EVinLW748j4uUj1QQ5lXg9KRe3zIUt5QOVQtF9rOAEb2fu9v89THyYc/uzDpejCbRfYKJKPRqZ87W6TpWjPeiM8c9/WmJ/WI8iTZvpZG+aSs6meweq5+ICcUTzjJRcmwHcM=;N7tE5FJpQLqsYxxtq5hTLQ=="
 ---

@@ -41,21 +41,7 @@ related:
         width: 300
         height: 201
         isCached: true
-  - title: "How AI Chatbots Are Replacing Santa Claus This Christmas"
-    excerpt: "While bots can make your holidays a little more jolly, they also open the doors to depersonalizing gift giving—and the inherent dangers of the emerging technology."
-    publishedDateTime: 2023-12-16T03:40:00Z
-    webUrl: "https://www.thedailybeast.com/how-ai-chatbots-are-replacing-santa-claus-this-christmas"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 39
-    images:
-      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1702655170/231214-santa-AI-hero-1_miotgg"
-        width: 1480
-        height: 832
-        isCached: true
 
-secured: "ocSII0fVTl7sKBdk4/hnnCG+wZRhwS1sFccl08GNVYg+kDs5h637qtqs4N9SqFmnmIniynYR1JMIQtp2scOWjzif2UuavNoIwq5jj6FejUJqBGzLecz5GGvwnxqclxCr6qvYVlQ1V5iSNz+5Y9aOY/4oeLf8D7U5Sp4Zc0RWAQS9qF8TMfb+m2tTM/PvQJ73ntw13arkoOy+xMUaXFpLyLXZ5BGSKNW/XbIZczooSKpD/jS14ddTEUcJq79rkEhYYFMSSEw3zghYDFIqrsatZvzQuTzoQZy4mBlVb+aHYVozag9zPaEeGDHTg4YDW/YlmRUzKvyfyH1A3p6MVRycCQwLeJRv1NKo4ppAbsJpXtU=;pFKRk7FH/2P5r1lSh5Pxpg=="
+secured: "0rksJgC0cKVwLhJVpP2FckLTV3lQ9HKS2WauxI5M3qJwcppHYKoPx97yt7Qk3v36N5CdGndKSKhAZm05af5hAOyOp9PAs883PmCSScPSA17TeSLiUIa6pBu59TPqMC2FN1c03E1HMssS5RFtaUB8OlrCk6PcUkc8eqZvXC+dhvOrrXMcCbhrDSyF72ugwyhB8GyE38chG9P7wuvVS4lOn8ul63sd28Di/9aVGc5Ey4UL1tS/SklC3o0z2y/PczfzhjtTMRAylmIdbtR+xx4BUd4zqXaHPDu9Dt6ItsJutdyiJ5EtNVqqsk12+cXnZ78HyBG+f1ko4Utd/6OafcdsRbc9HhZbQ4NyultX5yg/em6D1k+5v9ZveRSYKCg/H7XZGlfHpHldb3G8jHCNpX1tKqaorOFcxbr1Bm0ZiVbHIjO72/5AIuczEwN8iAEkM6oGKdusGqczsgGiRES7UJ9/fkeAQypnMjEECP6H0Zu1Fhtnb7C3GBpanh1Oa48zoD/Zy+EKM6PAh9QMaFoTzDBSwg==;k0f+g+Haq39gEnJu0KBNhw=="
 ---
 
