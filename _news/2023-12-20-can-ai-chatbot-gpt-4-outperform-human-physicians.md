@@ -9,8 +9,8 @@ ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202312/can-
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202312/can-ai-chatbot-gpt-4-outperform-human-physicians?amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Psychology Today
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google rolls out upgrade to AI chatbot Bard across UK"
+    excerpt: "Google boss Sundar Pichai has hailed Gemini as its ‘most capable’ model yet and the biggest upgrade to Bard since it launched earlier this year."
+    publishedDateTime: 2023-12-21T14:23:00Z
+    webUrl: "https://www.theoldhamtimes.co.uk/news/national/23998714.google-rolls-upgrade-ai-chatbot-bard-across-uk/"
+    type: article
+    provider:
+      name: theoldhamtimes
+      domain: theoldhamtimes.co.uk
+    quality: 39
+    images:
+      - url: "https://www.theoldhamtimes.co.uk/resources/images/17565378/?type=og-image"
+        width: 945
+        height: 630
+        isCached: true
   - title: "Can an AI Chatbot Revolutionize Insulin Dosing?"
     excerpt: "Study shows AI chatbot enhances insulin dosing for type 2 diabetes, improving glycemic control and reducing distress, marking a new era in diabetes management."
     publishedDateTime: 2023-12-18T18:49:00Z

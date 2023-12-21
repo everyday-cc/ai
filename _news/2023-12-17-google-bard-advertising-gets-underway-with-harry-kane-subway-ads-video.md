@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Google Bard advertising gets underway with Harry Kane, subway ads [Video]"
-excerpt: "With the addition of Gemini Pro, Google has been advertising Bard a great deal more. The latest involves Harry Kane"
+excerpt: "With the addition of Gemini Pro, Google has been advertising Bard a great deal more. The latest involves Harry Kane and subway ads. Google has partnered with Bayern Munich striker and English ..."
 publishedDateTime: 2023-12-17T13:06:00Z
-originalUrl: "https://9to5google.com/2023/12/17/google-bard-advertising/"
-webUrl: "https://9to5google.com/2023/12/17/google-bard-advertising/"
+originalUrl: "https://9to5google.com/2023/12/17/google-bard-advertising/?n=@"
+webUrl: "https://9to5google.com/2023/12/17/google-bard-advertising/?n=@"
 type: article
 quality: 23
 heat: 23
@@ -24,6 +24,6 @@ images:
     height: 628
     isCached: true
 
-secured: "aG0F792JCGOGbl2aoVJbzP5MU0qcai9owsOZsYEtbxokNaa60lpBI2AS+/ZHoa8dqD9BaV/KgaOJEKTCDDtcPEsaMOAeFuyMOO6JTA5XS4TOPFTdtiz0+j4/HRPoYe+6AUgDmwpgOH2bk85zcOrZDJhHn4hBJ6PPKWTyURh25ZfliXRIyzAp5XR3STkYaeJn2sZ/d/DcZujaQMDulUOOND2r/UCiDg0zUtW//EAW2+G5n8I0WeCW9S/i7jxTPWbUa+J82QRtr5vQjF/0n/pIafHmhzTVW2glZQ2UywyWBa05UAR6J+ylHLv+ENY4JVrPIXB0/7RN2hhGbRCmmkzatZ65zOaoRiIBon5XAB/tLnoD3onip7tfrjF1SOj6AVHxxXW4E2UUDc1aG9F59SRDJBMdvIVqeErIK03LjaZdMUY7OzQSJMOzTNRiBEBSJkDqX4bk/0pZr/XZBUetSRtpo3jEq6BGH40N3ke/UuPU+y2q9AGRy39vxCZhT1JwhbzWgliBELFiETW7bh5RSrCW/Q==;spZgJSz0vsybCGGvoovWIQ=="
+secured: "HUbsYN+ALtUzy51Fl5d30XUeNZMsuXxokUomoXvInSd46Kpv/+nPlZGd7vOlyyT5QCTPS/NrXLu9e8D54agEbw0Q1BariAevj5iUyXzSLRqP8fPJZbIKDD8kbKzwYA0OX0DX5HpWaLnw58VoX8TDcUqtOyNCLb6c4g9uOuNH62lsORCZCcqYh8jwFsl8Fhj8KtWC3VVtt+wl4qnO0IgXZj1ncl/k3fFr2LUnioDsoK6BkDQnOdZrYfswGIdEnnzASwlvYBxhctU/qaN1RoyjtsiYBF4gqEQIhEPUZLWMmZ11LtaZ0oVwKzRHKS9LlWk7y8P+FSPABwUByHotvep5dfG6JTsDV2DqiKfz8UHF25Q=;bvwuku9FPbIX2ZnKPTRTdQ=="
 ---
 

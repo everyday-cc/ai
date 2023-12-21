@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/world/uk-supreme-court-rules-artificial-inte
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/uk-supreme-court-rules-artificial-intelligence-systems-cannot-registered-patent-inventors.amp"
 type: article
 quality: 71
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -94,7 +94,16 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 17
+  - title: "Artificial intelligence system can’t be registered as inventor of a patent, UK court says"
+    excerpt: "An artificial intelligence system can't be registered as the inventor of a patent, Britain's Supreme Court ruled Wednesday in a decision that denies machines the same status as humans."
+    publishedDateTime: 2023-12-21T11:04:00Z
+    webUrl: "https://wraltechwire.com/2023/12/21/artificial-intelligence-system-cant-be-registered-as-inventor-of-a-patent-uk-court-says/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 8
 
-secured: "4Yl6OCHBuXSnFprEd9dmzO5Pga2ZasJUu5CwVQTYKotmuVnrcu9c6SFhCSxzrLFb7ldYPjGFAhswxXypd9utEmwtGeKHLC1m1NpqMMRvU1UuZfO2zvPaWhEG2F4HtqEoPszeV7xCc9iI/nSvPIeW5VmyOyjifGUF3To4enSnB0lS0ary0K9bYKuD+zmx+dWU+2+QFiHXQX8aCZWunEMRowzwg9TrYw0YcyRJG06UQ7gPNYn0zbGx/avb96oxoFEWjzESGQ2glmM9yXGbA5ss/JCmYIYA/+5ELzIaS0t14edD5sdtjxTjTj29sVyn16gsoBTtZqwsCqrhol5eyQq/TDnERCFS0CVG/Xe4bWA87X8=;RVNmUV0ytF/c1Cjngw7XLw=="
+secured: "oBgiI8gynGOv9udhdB0l2o029M0FqaZC8XPhGOyPRie56flDJrvrRNcqKvTjROcGGd7e03dO5AD73SgAYiEE0eFlRb35OfMJZ3xW/BS+gaoy27t0FlLC7BWr+BFrHbrqrNTlUVghUrUARLvK0/+PQMChGvXv5pDqIaV5uUjDjyWCGAqTYC6KVw4IQVPyHKrj/JYSBvaUyQxRPTYcnAsJU1NI2IhadY1usjGmp4TZ1vO0aSQNaXNhg9yfx0DQOKQi2FtG37UMo3Iqkm1CregZAmE0kWVO1OaYTen04NfKsXa2V8HSXjK4rYHphPmNJDsQkqQU44SHIEWDqV+IRpL2KTZBI9Unod9sXRN6nYG2NGM=;EjmJXJAMLykLBGC1F7XzVw=="
 ---
 

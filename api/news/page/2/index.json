@@ -2,6 +2,152 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-12-20-identify-cybersecurity-anomalies-in-your-amazon-security-lake-data-using-amazon-sagemaker.md",
+      "title": "Identify cybersecurity anomalies in your Amazon Security Lake data using Amazon SageMaker",
+      "excerpt": "In this post, you learn how to prepare data sourced from Amazon Security Lake, and then train and deploy an ML model using an IP Insights algorithm in SageMaker. This model identifies anomalous network traffic or behavior which can then be composed as part of a larger end-to-end security solution.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/identify-cybersecurity-anomalies-in-your-amazon-security-lake-data-using-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/identify-cybersecurity-anomalies-in-your-amazon-security-lake-data-using-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/04/ml-14050-amazon-securitylake-sagemaker-ipinsights-architecture-906x630.png",
+          "width": 906,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-20T18:10:24Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-12-21-uk-supreme-court-rules-that-artificial-intelligence-systems-cannot-be-registered-as-patent-inventors.md",
+      "title": "UK Supreme Court rules that artificial intelligence systems cannot be registered as patent 'inventors'",
+      "excerpt": "The Supreme Court of Britain has ruled that an artificial intelligence system cannot be registered as the inventor of a patent, asserting that \"an inventor must be a person.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/world/uk-supreme-court-rules-artificial-intelligence-systems-cannot-registered-patent-inventors",
+      "originalUrl": "https://www.foxnews.com/world/uk-supreme-court-rules-artificial-intelligence-systems-cannot-registered-patent-inventors",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9968e609-43a3-47a6-93db-4c3223da9b66/074b4cdd-86de-4969-9373-ae511a249962/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/world/uk-supreme-court-rules-artificial-intelligence-systems-cannot-registered-patent-inventors.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/uk-supreme-court-rules-artificial-intelligence-systems-cannot-registered-patent-inventors.amp",
+      "publishedDateTime": "2023-12-20T17:48:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-20-getting-the-most-out-of-ibm-cloud-vpc-images.md",
+      "title": "Getting the most out of IBM Cloud VPC images",
+      "excerpt": "Images are used to create instances on IBM Cloud VPC. Depending on your needs, you can select a stock image, custom image or catalog image.\nThe post Getting the most out of IBM Cloud VPC images appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/getting-the-most-out-of-ibm-cloud-vpc-images/",
+      "originalUrl": "https://www.ibm.com/blog/getting-the-most-out-of-ibm-cloud-vpc-images/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-20T17:10:31Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-20-2023-at-google.md",
       "title": "2023 at Google",
       "excerpt": "Explore our collection looking back on some of our biggest moments and milestones from 2023.",
@@ -709,7 +855,7 @@
       "originalUrl": "https://thenextweb.com/news/ai-beats-humans-first-time-physical-skill-game",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1039,65 +1185,21 @@
       ]
     },
     {
-      "path": "_news/2023-12-20-artificial-intelligence-can-predict-events-in-peoples-lives.md",
-      "title": "Artificial intelligence can predict events in people's lives",
-      "excerpt": "Artificial intelligence can analyze registry data on people's residence, education, income, health and working conditions and, with high accuracy, predict life events.",
+      "path": "_news/2023-12-20-can-ai-chatbot-gpt-4-outperform-human-physicians.md",
+      "title": "Can AI Chatbot GPT-4 Outperform Human Physicians?",
+      "excerpt": "Is an artificial intelligence (AI) chatbot better at making diagnostic decisions under conditions of uncertainty than human medical doctors? A recent study examines the capabilities of OpenAI’s Large Language Model (LLM) Chat GPT-4 compared to human clinicians and reveals surprising results.",
       "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/12/231218125850.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/12/231218125850.htm",
+      "webUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202312/can-ai-chatbot-gpt-4-outperform-human-physicians",
+      "originalUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202312/can-ai-chatbot-gpt-4-outperform-human-physicians",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-20T00:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-12-20-nvda-amd-mu-which-chip-stock-is-the-best-buy-for-2024.md",
-      "title": "NVDA, AMD, MU: Which Chip Stock is the Best Buy for 2024?",
-      "excerpt": "Today, the stage still seems set for some type of slowdown in 2024, but don’t expect investors to ignore the top AI-powered semiconductor/chip stocks — NVDA, AMD, and MU — as they continue to meet a demand that can only be described as hot.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/nvda-amd-mu-which-chip-stock-is-the-best-buy-for-2024-1032915674",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/nvda-amd-mu-which-chip-stock-is-the-best-buy-for-2024-1032915674",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
+      "heat": 77,
       "tags": null,
       "images": [
         {
-          "url": "https://blog.tipranks.com/wp-content/uploads/2023/12/image-494-1024x346.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-          "width": 1024,
-          "height": 346,
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-12/pic09152.jpg?itok=yvNlDSbC",
+          "width": 1528,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1105,65 +1207,13 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-20T00:12:00Z",
+      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202312/can-ai-chatbot-gpt-4-outperform-human-physicians?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202312/can-ai-chatbot-gpt-4-outperform-human-physicians?amp",
+      "publishedDateTime": "2023-12-20T00:52:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-20-aws-canada-west-calgary-region-goes-live.md",
-      "title": "AWS Canada West (Calgary) Region goes live",
-      "excerpt": "AWS said that customers focused on high availability can ... storage, networking, analytics, artificial intelligence, mobile, hybrid, media, and security, which helps to secure well-paying jobs across many new industries.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/article/aws-canada-west-calgary-region-goes-live/555447",
-      "originalUrl": "https://www.itworldcanada.com/article/aws-canada-west-calgary-region-goes-live/555447",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2022/06/GettyImages-1320376443.jpg",
-          "width": 1061,
-          "height": 707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/article/aws-canada-west-calgary-region-goes-live/555447?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/aws-canada-west-calgary-region-goes-live/555447?amp=1",
-      "publishedDateTime": "2023-12-19T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1173,50 +1223,6 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-20-chinese-startup-moore-threads-defies-us-sanctions-with-new-gpu-based-ai-center.md",
-      "title": "Chinese Startup Moore Threads Defies US Sanctions with New GPU-Based AI Center",
-      "excerpt": "especially in sensitive areas like AI and chip manufacturing. Despite these hurdles, Moore Threads has shown remarkable agility. After a round of layoffs, the company has refocused its resources on advancing its GPU development, a move that mirrors the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2023/12/20/moore-threads-us-sanctions-gpu-based-ai/",
-      "originalUrl": "https://www.gizmochina.com/2023/12/20/moore-threads-us-sanctions-gpu-based-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-19T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

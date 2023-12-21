@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "2024 Predictions & Trends: Inflation and Student Loans Problematic, AI Adoption Rises — Expert Q&A"
+    excerpt: "Student loans will be problematic in 2024, and more people may see credit score damage due to borrower default. Neobanks and digital banks will continue to introduce new borrower-friendly products, while major issuers may pull back on expensive rewards and perks."
+    publishedDateTime: 2023-12-21T15:58:00Z
+    webUrl: "https://www.cardrates.com/news/2024-predictions-and-trends/"
+    type: article
+    provider:
+      name: CardRates
+      domain: cardrates.com
+    quality: 25
+    images:
+      - url: "https://www.cardrates.com/wp-content/uploads/2023/12/predictions-and-trends.jpg"
+        width: 1250
+        height: 650
+        isCached: true
   - title: "Bill Gates’ predictions for 2024: fewer undernourished kids, more AI"
     excerpt: "In what's become a year-end tradition, Microsoft co-founder Bill Gates has offered his predictions for the year ahead. Spoiler: Gates says AI is a big deal in 2024."
     publishedDateTime: 2023-12-19T04:01:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.ibc.org/features/the-state-of-ai-development-according
 webUrl: "https://www.ibc.org/features/the-state-of-ai-development-according-to-google/10589.article"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "How AI In Software Development Improves Data And Decision Making"
-    excerpt: "Keeping track of AI development is a real challenge. Just when you think the progress has reached its peak, a mindblowing innovation hits the news.  A number of major industries, including healthcare,"
-    publishedDateTime: 2023-12-17T23:57:00Z
-    webUrl: "https://techbullion.com/how-ai-in-software-development-improves-data-and-decision-making/"
+  - title: "The Age of AI Demands Faster Chip Development: Only Arm and Cadence Deliver"
+    excerpt: "Strategic collaboration accelerates Custom Silicon for evolving AI workloads As AI continues its rapid evolution, optimized silicon is crucial to unlock"
+    publishedDateTime: 2023-12-21T15:50:00Z
+    webUrl: "https://www.design-reuse.com/industryexpertblogs/55445/the-age-of-ai-demands-faster-chip-development-only-arm-and-cadence-deliver.html"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 39
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/thumbnailHEYBEIPE-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 32
 
 secured: "q/ZCAm+cP3CS4fZg+gHYHGcv55cTl8/mziykKoyhPh7bZKskxB5Thlq2+P3c2OW9WCgQ/mvgYzBny0i/l/1p7tqCxX6TkN+WC7SeU0dH0eGPng9DeRT/sXf9NLLwcNlpgihCP7RJufuqbCSZ+iyufx/pSm+UTHEbUkmu/kHTzQqoa3EAviParkKS7B2GMdLOMgsptssSMs/0jz1WwQ1/d1NBr67CJz3VaBvRYLpuchuxls698PNVCausb+opW/6RZodd5HSQZ4VUh57zWSxLf0sLO+wS3cEZses8rBGrfruSJS947oIwYiYfMRwZsD8VAo0q4ckuqkbbBSkLwDA4fSk2VzJKiZymQkOERIdAj+w=;Shej1265QIdLZ1fdWLI0xA=="
 ---

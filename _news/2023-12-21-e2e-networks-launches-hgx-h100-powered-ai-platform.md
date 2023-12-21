@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-e2e
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-e2e-networks-launches-hgx-h100-powered-ai-platformnbspnbsp-3344372/lite/"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "io.net successfully launches BC8.AI platform"
+    excerpt: "On December 21, io.net, an AI innovation company, announced the successful launch of the BC8.AI platform, with over 10,000 inferences."
+    publishedDateTime: 2023-12-21T14:36:00Z
+    webUrl: "https://finbold.com/io-net-successfully-launches-bc8-ai-platform/"
+    type: article
+    provider:
+      name: Finbold | Finance in Bold
+      domain: finbold.com
+    quality: 19
 
 secured: "qHd4OT5enmqSGVcjEwXfI4kJpZs0neXcsWSdCma07PNcD7lg7sna1eNmElgTtmXn27lhsMQXihM5G9aKFL0CPh1IBtLTDqzh8LddjDSM6eovg8IpHzJKcJCfPtW+GqUuiG8JI4joIX6bm+MqV16vWpWLRq+KpgcTrFzZoVY3giRvEJne1Y5zMygL7Pu11K5TpWKW2boDYVPIljC99gAACWQqjyBoszMX6kFGpMcOtIqNxcxOuhdy8wxKxmsp24m5jtlCodoirlBBeNv6b8aDx9BU9xVwqtPJHAppAx0EfLTCJFDa0Gc3A3XhE3ffFdbKOmSpDCCO6OFvM2eP+zFIbPWwfXjaaVdR5Vbio0CZ/Yw=;Vgu1TgHwQr+Wl5TdFRZcSg=="
 ---

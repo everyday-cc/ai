@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3711804/a-first-look-at-windows-ai
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711804/a-first-look-at-windows-ai-studio.amp.html"
 type: article
 quality: 91
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/58157e43f877c0437e9c99979c3b85c1b708481e/2023/12/19/99dbcc02-ed35-41ed-b328-12ad8204338c/stretviewgettyimages-1247162865.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "AWS Study Finds Increasing Focus on Responsible AI"
-    excerpt: "An AWS study finds that attitudes are changing toward responsible AI usage. Find out what the study reveals and what it means for the future."
-    publishedDateTime: 2023-12-16T16:05:00Z
-    webUrl: "https://www.eweek.com/artificial-intelligence/aws-study-finds-increasing-focus-on-responsible-ai/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 84
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2023/12/ew_20231214-aws-study-find-a-shift-in-the-attitude-toward-responsible-ai.png"
-        width: 1400
-        height: 900
         isCached: true
   - title: "A look into artificial intelligence in 2023"
     excerpt: "We are taking a look at artificial intelligence, specifically its advancement over the past year. Bill Hart-Davidson, associate dean of Graduate Studies at Michigan State University, joined CBS News Detroit to break down how AI evolved across the country,"

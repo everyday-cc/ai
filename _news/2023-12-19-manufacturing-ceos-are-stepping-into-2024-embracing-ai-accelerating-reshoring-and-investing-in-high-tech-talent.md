@@ -23,106 +23,69 @@ topics:
   - AI
 
 related:
-  - title: "How Generative AI is Reshaping Banking & Finance in India"
-    excerpt: "The finance sector's initial reluctance to adopt generative AI is because of regulatory scrutiny, data privacy, security, compliance, and industry risk aversion, but now it is slowly changing,” Ashish Vora,"
-    publishedDateTime: 2023-12-18T05:31:00Z
-    webUrl: "https://analyticsindiamag.com/how-generative-ai-is-reshaping-banking-finance-in-india/"
+  - title: "Reshoring manufacturing to the US: The role of AI, automation and digital labor"
+    excerpt: "Here are some concrete recommendations and examples from IBM for companies considering reshoring manufacturing\nThe post Reshoring manufacturing to the US: The role of AI, automation and digital labor appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-12-21T15:00:00Z
+    webUrl: "https://www.ibm.com/blog/reshoring-manufacturing-to-the-us-the-role-of-ai-automation-and-digital-labor/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 69
+      name: IBM
+      domain: ibm.com
+    quality: 95
+  - title: "Future of manufacturing is phygital as human-robot collaboration rises: Twyn’s Avi Dahiya"
+    excerpt: "As manufacturing in India is quickly adapting new-age technologies, a Noida-based company is working to accelerate the adoption of Industry 4.0 in India."
+    publishedDateTime: 2023-12-19T05:21:00Z
+    webUrl: "https://economictimes.indiatimes.com/small-biz/sme-sector/future-of-manufacturing-is-phygital-as-human-robot-collaboration-rises-twyns-avi-dahiya/articleshow/106112078.cms"
+    ampWebUrl: "https://m.economictimes.com/small-biz/sme-sector/future-of-manufacturing-is-phygital-as-human-robot-collaboration-rises-twyns-avi-dahiya/amp_articleshow/106112078.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/small-biz/sme-sector/future-of-manufacturing-is-phygital-as-human-robot-collaboration-rises-twyns-avi-dahiya/amp_articleshow/106112078.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 50
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/12/s-1.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-2406586,msid-106112055/avi-profile-hz-1.jpg"
+        width: 600
+        height: 450
         isCached: true
-  - title: "Facebook whistleblower docs: How AI is hurting India – and Indians"
-    excerpt: "Users need to understand that since many platforms are developed outside of India, their preparedness to understand and manage nuances of language, culture, and regions fall short. Engineers are playi"
-    publishedDateTime: 2023-12-18T08:52:00Z
-    webUrl: "https://indianexpress.com/article/opinion/columns/facebook-whistleblower-docs-artificial-intelligence-india-9072751/"
-    ampWebUrl: "https://indianexpress.com/article/opinion/columns/facebook-whistleblower-docs-artificial-intelligence-india-9072751/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/opinion/columns/facebook-whistleblower-docs-artificial-intelligence-india-9072751/lite/"
+  - title: "Telling My Whole Life With AI’s Words: Ethical Considerations Regarding Attorney Use and Misuse of Artificial Intelligence"
+    excerpt: "Fugees rapper Pras Michel is set to make his case for a new trial after his attorney allegedly violated ethics rules when he used an AI tool the lawyer invested in to draft a closing statement in the artist's foreign influence case."
+    publishedDateTime: 2023-12-18T18:34:00Z
+    webUrl: "https://www.law.com/therecorder/2023/12/18/telling-my-whole-life-with-ais-words-ethical-considerations-regarding-attorney-use-and-misuse-of-artificial-intelligence/"
     type: article
     provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 61
+      name: Law
+      domain: law.com
+    quality: 43
     images:
-      - url: "https://images.indianexpress.com/2023/12/artificial.jpg"
-        width: 1600
-        height: 900
+      - url: "https://images.law.com/contrib/content/uploads/sites/403/2023/12/Lin-Graber-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
-  - title: "Huawei Cloud and Pangu AI model reshaping finance industry"
-    excerpt: "Huawei Cloud is helping to transform the finance industry with powerful AI model Pangu and Everything as a Service smart solutions"
-    publishedDateTime: 2023-12-19T07:15:00Z
-    webUrl: "https://fintechmagazine.com/tech-ai/huawei-cloud-and-pangu-ai-model-reshaping-finance-industry"
+  - title: "Taking stock of AI-powered digital lending"
+    excerpt: "AI promotes operational efficiency and can drive faster financial inclusion. But there are challenges that can lead to systemic risks"
+    publishedDateTime: 2023-12-18T15:58:00Z
+    webUrl: "https://www.thehindubusinessline.com/opinion/taking-stock-of-ai-powered-digital-lending/article67651486.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/opinion/taking-stock-of-ai-powered-digital-lending/article67651486.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/opinion/taking-stock-of-ai-powered-digital-lending/article67651486.ece/amp/"
     type: article
     provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 54
-    images:
-      - url: "https://assets.bizclikmedia.net/1200/7655ab029d6a7bb14a14eb6b5e035cd9:194b6a8ee3bcce0296c82be369f226dc/20231219-090709-welinkpc.JPG.jpg"
-        width: 1200
-        height: 629
-        isCached: true
-  - title: "How India's tryst with Artificial Intelligence will ensure its developed status by 2024"
-    excerpt: "Under Prime Minister Modi's tech-focused policies, India has shifted from being a follower to a leader. Hosting the Global Partnership on Artificial Intelligence (GPAI) summit and leading GPAI in 2024"
-    publishedDateTime: 2023-12-20T10:04:00Z
-    webUrl: "https://www.firstpost.com/opinion/how-indias-tryst-with-artificial-intelligence-will-ensure-its-developed-status-by-2024-13525902.html"
-    ampWebUrl: "https://www.firstpost.com/opinion/how-indias-tryst-with-artificial-intelligence-will-ensure-its-developed-status-by-2024-13525902.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/opinion/how-indias-tryst-with-artificial-intelligence-will-ensure-its-developed-status-by-2024-13525902.html/amp"
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 39
+  - title: "How Generative AI Could Revolutionize Manufacturing"
+    excerpt: "Generative AI is everywhere and it is predicted that the technology will boost industry revenues by enabling faster, more precise innovation, as well as automating processes. ABI Research predicts that generative AI will unlock $10.5 billion in new revenues for the manufacturing industry by 2033."
+    publishedDateTime: 2023-12-19T22:43:00Z
+    webUrl: "https://www.manufacturing.net/artificial-intelligence/blog/22882290/how-generative-ai-could-revolutionize-manufacturing"
     type: article
     provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 51
-    images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2023/12/Screenshot-752.jpg"
-        width: 640
-        height: 363
-        isCached: true
-  - title: "Appvance unleashes AIQ 5.0, featuring Generative AI V3"
-    excerpt: "Appvance, the leader in generative AI for software quality, is excited to announce the launch of Appvance IQ (AIQ) 5.0, a groundbreaking"
-    publishedDateTime: 2023-12-19T09:06:00Z
-    webUrl: "https://www.valdostadailytimes.com/ap/business/appvance-unleashes-aiq-5-0-featuring-generative-ai-v3/article_5983c873-3d60-523f-bd8b-e632a27d4f32.html"
-    type: article
-    provider:
-      name: The Valdosta Daily Times
-      domain: valdostadailytimes.com
+      name: Manufacturing
+      domain: manufacturing.net
     quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Google Unveils AI-Powered Features For Maps In India"
-    excerpt: "Google Maps is introducing a fuel-efficient routing feature in India for both four-wheelers and two-wheelers by January next year, promoting sustainability. This feature, already estimated to have prevented 2.4 Mn metric tons of CO2e globally, considers real-time traffic data, road elevation, and vehicle type."
-    publishedDateTime: 2023-12-20T07:56:00Z
-    webUrl: "https://inc42.com/buzz/google-unveils-ai-powered-features-for-maps-in-india/"
-    ampWebUrl: "https://inc42.com/buzz/google-unveils-ai-powered-features-for-maps-in-india/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/google-unveils-ai-powered-features-for-maps-in-india/amp/"
-    type: article
-    provider:
-      name: inc42
-      domain: inc42.com
-    quality: 37
-  - title: "Spacenet Enterprises India Ltd Accelerates Global Trade with Rs 99.55 Crore Investment in Fintech and AI Innovations"
-    excerpt: "This investment, led by VIKASA India EIF I Fund with a substantial Rs 50 crore at Rs 26 per share, demonstrates robust investor confidence and a shared vision for the future of digital trade., Technology & Science News,"
-    publishedDateTime: 2023-12-18T09:05:00Z
-    webUrl: "https://www.timesnownews.com/technology-science/spacenet-enterprises-india-ltd-accelerates-global-trade-with-rs-99-55-crore-investment-in-fintech-and-ai-innovations-article-106086365"
-    ampWebUrl: "https://www.timesnownews.com/technology-science/spacenet-enterprises-india-ltd-accelerates-global-trade-with-rs-99-55-crore-investment-in-fintech-and-ai-innovations-article-106086365/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/spacenet-enterprises-india-ltd-accelerates-global-trade-with-rs-99-55-crore-investment-in-fintech-and-ai-innovations-article-106086365/amp"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 36
-    images:
-      - url: "https://static.tnn.in/thumb/msid-106086427,thumbsize-47144,width-1280,height-720,resizemode-75/106086427.jpg"
-        width: 1280
-        height: 720
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2023/12/Generative_AI.6582177d58359.png?auto=format%2Ccompress&fit=max&q=70&rect=91%2C171%2C3158%2C1775&w=1200"
+        width: 1200
+        height: 674
         isCached: true
 
 secured: "PcaGq0zTRWAbrUbm/VGeOzcSeUmha6xWejxrlfS0y56fyIzkLqGi/l61bYvrF6IfI5f5a3P/RxVSqfmkIKh+hZFgYFrwFSNbdfZaLMCJiQsfJTGZl4K4d4tIGNt+FjNtPfaKpI/aKgKW4i92vceMqhIAq23aA6jzNX/dcZIde4LcrOUasUBCLiGNM9pQHCPtXls57VdEs1SznKg/Oo5E7C4WIZEOzPRmA8G2FNxgGZR8w4tthRj4IYhveFMu3uxAx92lUyWNDrk1SWMMx92IP55ki+16gCJD8KfqyTajnW+feD715NZ57KssbMSOMxiJja+vbRfmprsmz5VoycBl1+uE0abGFabOCKfQk+7S20Q=;n5WMv3VJIJIuUm3MU/xbyA=="

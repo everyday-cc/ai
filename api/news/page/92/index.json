@@ -2,6 +2,392 @@
   "page": 92,
   "value": [
     {
+      "path": "_news/2023-10-11-energy-dept-funded-jetcool-nets-17m-to-disrupt-chip-cooling-as-ai-workloads-surge.md",
+      "title": "Energy Dept. funded JetCool nets $17M to disrupt chip cooling as AI workloads surge",
+      "excerpt": "JetCool's technology is enabling 30% faster processing while reducing energy consumption by 50% and water usage by 90% over air cooling.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/data-infrastructure/energy-dept-funded-jetcool-nets-17m-to-disrupt-chip-cooling-as-ai-workloads-surge/",
+      "originalUrl": "https://venturebeat.com/data-infrastructure/energy-dept-funded-jetcool-nets-17m-to-disrupt-chip-cooling-as-ai-workloads-surge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/10/ideogram-6-e1697035989840.jpeg?w=1200&strip=all",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-11T15:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-11-firefox-is-getting-an-ai-powered-fake-review-detector-for-your-shopping-needs.md",
+      "title": "Firefox is getting an AI-powered fake review detector for your shopping needs",
+      "excerpt": "Thanks to a new Firefox feature, you'll soon be able to trust online reviews a little more. Here's how it works.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/firefox-is-getting-an-ai-powered-fake-review-detector-for-your-shopping-needs/",
+      "originalUrl": "https://www.zdnet.com/article/firefox-is-getting-an-ai-powered-fake-review-detector-for-your-shopping-needs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/661f562dd7f07080251374b4af57046b82a826d6/2023/10/11/3e2f7020-48b9-46ae-9987-4c3617f0eea6/gettyimages-1187447351.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/firefox-is-getting-an-ai-powered-fake-review-detector-for-your-shopping-needs/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/firefox-is-getting-an-ai-powered-fake-review-detector-for-your-shopping-needs/",
+      "publishedDateTime": "2023-10-11T15:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-11-ai-revolutionizing-mri-scans-a-munich-startup-banked-32m-to-scan-eggs-and-says-humans-are-next.md",
+      "title": "AI revolutionizing MRI scans — a Munich startup banked $32M to scan eggs, and says humans are next",
+      "excerpt": "Germany, France and Italy are among the countries which last year enacted laws to stop the practice of culling male day-old chicks, because, as they do",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/10/11/ai-revolutionizing-mri-scans-a-munich-startup-banked-32m-to-scan-eggs-and-says-humans-are-next/",
+      "originalUrl": "https://techcrunch.com/2023/10/11/ai-revolutionizing-mri-scans-a-munich-startup-banked-32m-to-scan-eggs-and-says-humans-are-next/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/10/Orbem.jpg?resize=1200,668",
+          "width": 1200,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/10/11/ai-revolutionizing-mri-scans-a-munich-startup-banked-32m-to-scan-eggs-and-says-humans-are-next/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/11/ai-revolutionizing-mri-scans-a-munich-startup-banked-32m-to-scan-eggs-and-says-humans-are-next/amp/",
+      "publishedDateTime": "2023-10-11T15:47:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-11-opportunities-for-ai-to-assist-cell-gene-therapy-companies.md",
+      "title": "Opportunities for AI to assist Cell & Gene therapy companies",
+      "excerpt": "PA Consulting life sciences expert Yoshio Hagiwara, PA cell & gene expert Paolo Siciliano, and Willem van Asperen, PA's chief data scientist, explain how AI can transform the cell & gene sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.paconsulting.com/newsroom/cell-and-gene-opportunities-for-ai-to-assist-cell-and-gene-therapy-companies-10-october-2023",
+      "originalUrl": "https://www.paconsulting.com/newsroom/cell-and-gene-opportunities-for-ai-to-assist-cell-and-gene-therapy-companies-10-october-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-11T15:26:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PA Consulting Group",
+        "domain": "paconsulting.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-11-deep-instinct-threat-report-finds-ransomware-state-sponsored-attacks-and-ai-powered-cyber-threats-surged-in-h1-2023.md",
+      "title": "Deep Instinct Threat Report Finds Ransomware, State-Sponsored Attacks, and AI-Powered Cyber Threats Surged in H1 2023",
+      "excerpt": "Deep Instinct, the prevention-first cybersecurity company that stops unknown malware pre-execution with a purpose-built, AI-based deep learning (DL) framework, today released its 2023 Bi-Annual Cyber Threat Report,",
+      "sourceUrl": null,
+      "webUrl": "https://www.valdostadailytimes.com/ap/business/deep-instinct-threat-report-finds-ransomware-state-sponsored-attacks-and-ai-powered-cyber-threats-surged/article_a0aa29fa-9202-596d-a7d6-4870adaffb67.html",
+      "originalUrl": "https://www.valdostadailytimes.com/ap/business/deep-instinct-threat-report-finds-ransomware-state-sponsored-attacks-and-ai-powered-cyber-threats-surged/article_a0aa29fa-9202-596d-a7d6-4870adaffb67.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-11T15:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Valdosta Daily Times",
+        "domain": "valdostadailytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-11-the-voice-why-australia-trails-new-zealand-on-indigenous-journey.md",
+      "title": "The Voice: Why Australia trails New Zealand on Indigenous journey",
+      "excerpt": "Standing there reading the panels, Debby May, 65, turned to her friend Wan, a 25-year-old Chinese immigrant to New Zealand, and explained that neighbouring Australia had a referendum on Indigenous people coming up, called the Voice.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/world-australia-67076216",
+      "originalUrl": "https://www.bbc.com/news/world-australia-67076216",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 339,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/6EB3/production/_131393382_waitangigirl-gettyimages-1300569525.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/world-australia-67076216.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-australia-67076216.amp",
+      "publishedDateTime": "2023-10-11T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-11-ai-set-for-a-cold-shower-in-2024-warns-analyst.md",
+      "title": "AI Set For A “Cold Shower” In 2024, Warns Analyst",
+      "excerpt": "Steep costs and the threat of government regulation will dampen enthusiasm for generative AI services next year, an analyst warns",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/barrycollins/2023/10/11/ai-set-for-a-cold-shower-in-2024-warns-analyst/",
+      "originalUrl": "https://www.forbes.com/sites/barrycollins/2023/10/11/ai-set-for-a-cold-shower-in-2024-warns-analyst/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6526b589fe16de2bb75de703/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/barrycollins/2023/10/11/ai-set-for-a-cold-shower-in-2024-warns-analyst/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2023/10/11/ai-set-for-a-cold-shower-in-2024-warns-analyst/amp/",
+      "publishedDateTime": "2023-10-11T14:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-11-klarnas-ai-helps-you-buy-things-in-photographs.md",
+      "title": "Klarna's AI Helps You Buy Things in Photographs",
+      "excerpt": "Popular online payments service Klarna is tapping AI to let us \"snap, search, and shop\" for items identified in a photograph.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/klarnas-ai-helps-you-buy-things-in-photographs",
+      "originalUrl": "https://www.pcmag.com/news/klarnas-ai-helps-you-buy-things-in-photographs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/01crS0YwNMPA8bcZZY0BsZF-1.fit_lim.size_1200x630.v1697033944.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-11T14:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-11-people-and-ai-adp-is-hot-in-automations-for-payroll-and-workforce.md",
       "title": "People And AI: ADP Is Hot In Automations For Payroll And Workforce",
       "excerpt": "We've talked a lot about this and related topics, and looked at AI's effect on the business world from any number of angles.",
@@ -823,393 +1209,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-bank-of-america-identifies-6-global-ai-stocks-as-hidden-gems-with-great-potential.md",
-      "title": "Bank Of America Identifies 6 Global AI Stocks As 'Hidden Gems' With Great Potential",
-      "excerpt": "Bank of America has highlighted five global stocks poised to profit as the application of artificial intelligence (AI) continues to burgeon. The bank projects significant growth potential for “end-device AI,” a deviation from the current server-based systems.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/bank-of-america-identifies-6-global-ai-stocks-as-hidden-gems-with-great-potential-1032695221",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/bank-of-america-identifies-6-global-ai-stocks-as-hidden-gems-with-great-potential-1032695221",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/ai_shutter_0.jpeg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T07:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-amd-acquires-ai-software-startup-nodai-to-enhance-its-open-source-ai-capabilities.md",
-      "title": "AMD acquires AI software startup Nod.AI to enhance its Open-Source AI Capabilities",
-      "excerpt": "Advanced Micro Devices (AMD) locked its second AI software acquisition deal to compete against Nvidia’s AI prowess. The company quired Nod.AI which develop AI solution to optimize compiler-based automation software for startups,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2023/10/11/amd-acquires-ai-software-startup-nod-ai-to-enhance-its-open-source-ai-capabilities/",
-      "originalUrl": "https://www.gizmochina.com/2023/10/11/amd-acquires-ai-software-startup-nod-ai-to-enhance-its-open-source-ai-capabilities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/10/amd-logo-Large.jpeg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T07:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-most-people-the-support-need-for-trustworthy-and-regulated-ai.md",
-      "title": "Most people the support need for trustworthy and regulated AI",
-      "excerpt": "New research outlines the benefits and risks of AI - and shows how people in different coutries have varied perceptions on the impact of regulations and governance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/most-people-the-support-need-for-trustworthy-and-regulated-ai/",
-      "originalUrl": "https://www.zdnet.com/article/most-people-the-support-need-for-trustworthy-and-regulated-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/0f6aba431df65b6a6eb161895e2195e0716909db/2023/10/10/159ce4b4-2b9d-4504-b3cf-eb36e51de45f/gettyimages-1167815724.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/most-people-the-support-need-for-trustworthy-and-regulated-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/most-people-the-support-need-for-trustworthy-and-regulated-ai/",
-      "publishedDateTime": "2023-10-11T07:13:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-china-may-have-access-to-powerful-ai-chips-because-of-partnership-with-saudi-arabia-claims-report.md",
-      "title": "China may have access to powerful AI chips because of partnership with Saudi Arabia, claims report",
-      "excerpt": "China may be skirting US-imposed tech sanctions through its partnership with Saudi Arabia. China has partnered up with Saudi Arabia to help them create a localised Artificial Intelligence and Machine",
-      "sourceUrl": null,
-      "webUrl": "https://www.firstpost.com/tech/news-analysis/china-may-have-access-to-powerful-ai-chips-because-of-partnership-with-saudi-arabia-claims-report-13232602.html",
-      "originalUrl": "https://www.firstpost.com/tech/news-analysis/china-may-have-access-to-powerful-ai-chips-because-of-partnership-with-saudi-arabia-claims-report-13232602.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.firstpost.com/wp-content/uploads/2023/10/China-may-have-access-to-powerful-AI-chips-because-of-partnership-with-Saudi-Arabia-claims-report-1.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.firstpost.com/tech/news-analysis/china-may-have-access-to-powerful-ai-chips-because-of-partnership-with-saudi-arabia-claims-report-13232602.html/amp",
-      "cdnAmpWebUrl": "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/china-may-have-access-to-powerful-ai-chips-because-of-partnership-with-saudi-arabia-claims-report-13232602.html/amp",
-      "publishedDateTime": "2023-10-11T06:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Firstpost",
-        "domain": "firstpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-logic-design-launches-new-ai-assisted-article-writing-service-for-uk-businesses.md",
-      "title": "Logic Design Launches New AI-Assisted Article Writing Service For UK Businesses",
-      "excerpt": "Award-winning website design and digital marketing agency Logic Design has launched ArticleStack, a new AI writing service.Ipswich, England,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/logic-design-launches-new-ai-assisted-article-writing-service-for-uk-businesses-1032694182",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/logic-design-launches-new-ai-assisted-article-writing-service-for-uk-businesses-1032694182",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/mmstudio-images/gallery/KzBywcHSlXNdwbffq9CuqiWMA6E3/1696937870123-0.jpeg",
-          "width": 650,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T06:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-shop-owner-installs-ai-cameras-to-beat-shoplifters.md",
-      "title": "Shop owner installs AI cameras to beat shoplifters",
-      "excerpt": "A Surrey business owner has installed facial recognition cameras in his shop following an increase in assaults from regular shoplifters. Danyal Shoaib said he lost £7,000 to theft in a year, while staff at his business in Leatherhead, Surrey, faced an increasing amount of abuse, including racial slurs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/av/uk-england-surrey-67070829",
-      "originalUrl": "https://www.bbc.com/news/av/uk-england-surrey-67070829",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/286C/production/_131384301_p0gkmsz0.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T05:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-exclusive-self-driving-startup-plus-splits-us-and-china-operations-amid-tensions.md",
-      "title": "Exclusive-Self-Driving Startup Plus Splits US and China Operations Amid Tensions",
-      "excerpt": "Exclusive-Self-Driving Startup Plus Splits US and China Operations Amid Tensions SHANGHAI (Reuters) - Self-driving truck startup Plus has split its Chinese and U.S. operations and struck a deal in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2023-10-11/exclusive-self-driving-startup-plus-splits-us-and-china-operations-amid-tensions",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2023-10-11/exclusive-self-driving-startup-plus-splits-us-and-china-operations-amid-tensions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T04:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-razorpay-launches-ai-powered-payments-routing-system-optimizer.md",
-      "title": "Razorpay launches AI-powered payments routing system 'Optimizer'",
-      "excerpt": "Full-stack fintech platform Razorpay on Tuesday launched a payment infrastructure -- ‘Optimizer’, an AI-powered payments routing",
-      "sourceUrl": null,
-      "webUrl": "https://glamsham.com/world/technology/razorpay-launches-ai-powered-payments-routing-system-optimizer",
-      "originalUrl": "https://glamsham.com/world/technology/razorpay-launches-ai-powered-payments-routing-system-optimizer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://glamsham.com/wp-content/uploads/2023/10/202310103067125-1020x675.png",
-          "width": 1020,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://glamsham.com/world/technology/razorpay-launches-ai-powered-payments-routing-system-optimizer?amp=1",
-      "cdnAmpWebUrl": "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/razorpay-launches-ai-powered-payments-routing-system-optimizer?amp=1",
-      "publishedDateTime": "2023-10-11T04:13:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "glamsham.com",
-        "domain": "glamsham.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

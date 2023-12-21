@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AWS Study Finds Increasing Focus on Responsible AI"
-    excerpt: "An AWS study finds that attitudes are changing toward responsible AI usage. Find out what the study reveals and what it means for the future."
-    publishedDateTime: 2023-12-16T16:05:00Z
-    webUrl: "https://www.eweek.com/artificial-intelligence/aws-study-finds-increasing-focus-on-responsible-ai/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 84
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2023/12/ew_20231214-aws-study-find-a-shift-in-the-attitude-toward-responsible-ai.png"
-        width: 1400
-        height: 900
-        isCached: true
 
 secured: "+Akv1zbbaaELkW77uOlfYEkPDiDq6tjZrXgMTFBXANco0WHshZpbMpFUjQFoINcqlMwtl8U/9FuQ67oRIdzXPXxIKETmFN6J7tJ0QGzjHJzwq8Q2B5sbfKt2obOLG6cvys8OmqxIk4eordcMTrq2JBkWndzhGJIDnpX2IX7d4JCd4RkArBoQFUTNIr8A8MRPtnLpvfKtzdRKgMV0e9oeNtAViPp/9GmrG0YFURgm2y6QYCC5nEG7IEnPfo2YNV3IzzNRw/tWvp0IrwxNaJYRwp6qE3eRuZ2WDuKaQKXTkDbRvBGkXLIEWcUmrk00ONUe+Ci2odHG+Vv2Ecx4+QCI+8p4S4V+qI0GpKuyhfyu++v677Cioym2xLzEMDrvAebAphPDeZ6wLyyfOILOaOUWwq52KKEE9kJXO0jBPapFN6YvrKQREIM7PZOYCf1VuiUm4/V2vE5i501ilbbbibdsOsukDd1h+qfrjEeNtc9EebyuLfqc/swnNkIs0YGCVsGIri6ltdGx1KgLi/loWRuxvw==;qv2YJinQVv1SZtqetRBuaw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.econotimes.com/Teslas-recall-of-2-million-vehicles-rem
 webUrl: "https://www.econotimes.com/Teslas-recall-of-2-million-vehicles-reminds-us-how-far-driverless-car-AI-still-has-to-go-1667962"
 type: article
 quality: 60
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla Recalls Two Million Self-Driving Cars Due to Autopilot-Related Accidents"
+    excerpt: "ALBAWABA - Tesla sent a letter to the National Highway Traffic Safety Administration, recalling two million of its self-driving cars due to the Autopilo"
+    publishedDateTime: 2023-12-18T08:15:00Z
+    webUrl: "https://www.albawaba.com/business/tesla-recalls-two-million-self-driving-cars-due-autopilot-related-accidents-1545503"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 35
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2023-12/Tesla%20Recalls%20Two%20Million%20Self-Driving%20Cars%20Due%20to%20Autopilot-Related%20Accidents.jpeg?itok=Ej2lxW7R"
+        width: 680
+        height: 425
+        isCached: true
   - title: "The Driverless Car Is Here, and It's a Remarkable Advance"
     excerpt: "Thanks to artificial intelligence, the driverless car is finally here! For years, car companies promised that cars would drive themselves, but it never"
     publishedDateTime: 2023-12-19T06:00:00Z

@@ -35,6 +35,22 @@ related:
         width: 1061
         height: 707
         isCached: true
+  - title: "AWS launches second infrastructure region in Canada"
+    excerpt: "Customers in the new Canada region will also have access to advanced AWS technologies, including data analytics, security, ML and AI"
+    publishedDateTime: 2023-12-21T15:42:00Z
+    webUrl: "https://www.rcrwireless.com/20231221/enterprise/aws-launches-second-infrastructure-region-canada"
+    ampWebUrl: "https://www.rcrwireless.com/20231221/enterprise/aws-launches-second-infrastructure-region-canada/amp"
+    cdnAmpWebUrl: "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20231221/enterprise/aws-launches-second-infrastructure-region-canada/amp"
+    type: article
+    provider:
+      name: RCR Wireless News
+      domain: rcrwireless.com
+    quality: 59
+    images:
+      - url: "https://www.rcrwireless.com/wp-content/uploads/2023/12/AWS.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "AWS Canada West Region Launched in Calgary; Future Planned Regions Include Malaysia, Thailand, NZ"
     excerpt: "Amazon Web Services (AWS) has announced the launch of its second AWS infrastructure Region in Canada - the AWS Canada West (Calgary) Region"
     publishedDateTime: 2023-12-21T02:04:00Z

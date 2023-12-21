@@ -112,15 +112,6 @@ related:
       name: inc42
       domain: inc42.com
     quality: 37
-  - title: "Manufacturing CEOs Are Stepping Into 2024 Embracing AI, Accelerating Reshoring And Investing In High-Tech Talent"
-    excerpt: "Drawn From A Year’s Worth Of Proprietary Polling, Xometry’s 2024 Predictions Show An Industry Embracing High-Tech Tools And Talent To Navigate A"
-    publishedDateTime: 2023-12-19T14:07:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/manufacturing-ceos-are-stepping-into-2024-embracing-ai-accelerating-reshoring-and-investing-in-high-tech-talent-1032912359"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 28
 
 secured: "Pf5hxqyP6980JER+rWoRFWG9/rdypH/pKYfP+SPkmmg/cQA2bkld6UMHfnPrCaERyNLExLFbbKwS1uI7y6I39g0M1Yafgd+MoZbyOJHdg7Src3jqcbVOVANmO0VEoWiqgw5aMX2afQvqYN5/vJdzVd8q2vUFP4QOfbEQMp8ZgG9vgcSfiv8yL2KcEPJufn9qdLN5Lr7Rsi8w8o6wTLgpu2Pu5G+WoicQBLn+uQ958E+P5kmhjUh5woukLXuRAm+F+0J58pEzGt77T4sFUVXP3m47SBzuzPDreYjrmOAc8CrFvl1LaReo4qXtVrebnFWcLm8skfnmgpa14vfJp3D20ZbXWMpVY3WZtpf1QQfrqS6zhbsJo0tjKTIRXsNWOpW7y/xTACD8Zrk/3t1zW8vjq5FXOkjrVkcUR/DgYG8it8l+Ra2DNwH31IfivjHdyWTsXqJ/7ghfUmhJzq4w3wEFMNlBdNRK0JVa/tvarIBwTQRNFMovBeRpyh7HBx4IVjz9kL12PKdkSJszHzKPh32uQw==;DrrsnRVsatuebhK+ApN0+w=="
 ---

@@ -42,15 +42,15 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "AI at your door. Is there anything to worry?"
-    excerpt: "Authors worry about issues such as plagiarism, unauthorised use of AI-generated content, and the potential for AI to be used unethically in manipulating public opinion or spreading misinformation."
-    publishedDateTime: 2023-12-16T14:24:00Z
-    webUrl: "https://dunyanews.tv/en/Technology/778138-AI-at-your-door.-Is-there-anything-to-worry"
+  - title: "Fortifying the Future: The Crucial Role of Red Teaming as AI Assumes Centre Stage"
+    excerpt: "While Red Teaming has been a longstanding practice in traditional cybersecurity, its application in the AI landscape is relatively novel, and it constitutes a crucial component of the solution for the secure implementation and utilisation of AI technologies."
+    publishedDateTime: 2023-12-21T14:11:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/12/21/fortifying-the-future-the-crucial-role-of-red-teaming-as-ai-assumes-centre-stage/"
     type: article
     provider:
-      name: Dunya News
-      domain: dunyanews.tv
-    quality: 19
+      name: Law
+      domain: law.com
+    quality: 14
 
 secured: "DRtQbZAVhNuvgN+J0kaV0aZvoyJZc4mKGNvuOQsK5lATBZ/6hZnjyVIWDyDqaQFqlqKJyWRlaGj41ib1xbmn7zYw8z9szUXp74eIsW9ohNpbOOSGNU3RqwR2Pq5Tm3PtPcRiph30wfNIM4b2H2ze7idZUFfTgKTemjZyhUKYfV3/YIt2t/L7+VYErXBI7wrOkRpGTTg8sIBntwmbHDm0OK9Zd87Is21NDtIdOQuzdSMn38qje0IRsf9LCEwsYnOWDRpL+WCjpbQyefRhGQ1+HXiOU/rdUMORS0wOHlyuCMoTV/HjxXKgWR6LRLmTG+eMqtryHWgAidRIkEUIApQu4c/UxYWRP2csajLPfoeApcYWTQ14CxT5dgS4WSTTZQQa6ELnVmZi3fgMTrKkRJ9rjG+qDxNOkqhDcvj+4gaqO0sgjxxfIi1L/S/0qOdEA0uFVSTmIlYPEImnQ5SlGjcD9kw++yoB5QufyoBtJXq2/zVZaGvAgI8GN6KZ/l8kHhBhigSlzin4Dghd2ab5Yk8WMw==;EozO9H6zcHxF2F7Ig0ZZEQ=="
 ---

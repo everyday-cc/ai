@@ -139,6 +139,15 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Mitek Named Winner at FinTech Finance 2023 FF Awards Ceremony"
+    excerpt: "Mitek Systems, Inc. (NASDAQ: MITK) was named winner in the Identity Verification and Know Your Customer category at FinTech Finance's 2023 FF Awards ceremony Nov. 28 in London. FinTech Finance covers the global financial services sector."
+    publishedDateTime: 2023-12-21T14:55:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/12/21/9937523.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
   - title: "Top 7 Fintech Trends Predicted for 2024"
     excerpt: "Welcome to Finextra. We use cookies to help us to deliver our services. We'll assume you're ok with this, but you may change your preferences at our Cookie Centre. Please read our Privacy Policy."
     publishedDateTime: 2023-12-20T19:20:00Z

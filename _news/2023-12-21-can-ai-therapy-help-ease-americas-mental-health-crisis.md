@@ -9,7 +9,7 @@ ampWebUrl: "https://www.aol.com/amphtml/ai-therapy-help-ease-america-202612175.h
 cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/ai-therapy-help-ease-america-202612175.html"
 type: article
 quality: 74
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "America’s Big AI Safety Plan Faces a Budget Crunch"
+    excerpt: "NIST, the US agency Joe Biden tasked with curbing the risks of AI, lacks the necessary resources. Lawmakers are concerned it could be forced to rely on private companies developing the technology."
+    publishedDateTime: 2023-12-21T13:00:00Z
+    webUrl: "https://www.wired.com/story/americas-ai-safety-plan-budget-crunch/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 51
 
 secured: "gzdiq8l7FnAv1EehGpeqWelQA00c46GovRVxcID/xn3nuNqHp83PqhzflAZGwQQKhKH7fRB5I+1eE+GoHSnSV7e3fKoHyhoLWZW0RQXr2A2uezGArLN/oFUTSTJbDjE80+tniFeGLXgnIJeMn+zETGaFBIdphpK864YEB1z7IDS6TQrTM3x3jI9k9dkbPJRjwlvy5rCcspuO5ftOoh4m95Ei3tUiJd4I7Xo7rTVvK+Mv7cRvH0LlDe1Tu8XE1rQNtlb0R/X80FqcA4hJg7PA0pp8lyTH3b3rt7UE3tf0S8XD+NFzxVCdT4nLUWq0re0KNpyrKdrpTKUKpitgNG5x+PwkPZ702F7Duzyjm84Fg58=;581JvDynaC7Z6u86fE/SCw=="
 ---

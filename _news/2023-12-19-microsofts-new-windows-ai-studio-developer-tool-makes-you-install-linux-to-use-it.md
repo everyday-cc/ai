@@ -172,6 +172,20 @@ related:
         width: 419
         height: 250
         isCached: true
+  - title: "How to Use Microsoft Copilot’s New Suno AI Music Creation Tool"
+    excerpt: "Microsoft has unveiled a new feature for its Copilot chatbot, an integration with a tool called Suno that lets anyone make music with AI."
+    publishedDateTime: 2023-12-21T15:17:00Z
+    webUrl: "https://tech.co/news/how-to-use-microsoft-copilot-suno-ai-music"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 56
+    images:
+      - url: "https://images.tech.co/wp-content/uploads/2023/12/21101457/AdobeStock_665889467_Editorial_Use_Only-1-e1703171746881.jpeg"
+        width: 1920
+        height: 960
+        isCached: true
   - title: "LTIMindtree collaborates with Microsoft for AI-powered applications"
     excerpt: "LTIMindtree and Microsoft collaborate to introduce AI-powered Employee Engagement Applications. It will use Microsoft Azure OpenAI Service and Azure Cognitive Search to enable AI-led capabilities, including content summarisation,"
     publishedDateTime: 2023-12-19T09:51:00Z
@@ -447,15 +461,6 @@ related:
       name: Windows Central
       domain: windowscentral.com
     quality: 21
-  - title: "Global AI Conclave | Yotta CEO promises to launch cloud service that will compete with Amazon, Microsoft"
-    excerpt: "Sunil Gupta, Co-Founder and CEO of Yotta Infrastructure, announced Shakti Cloud, which he said is India's largest AI supercomputing cloud, to rival global giants like Amazon, Google, and Microsoft. Gupta said the service will be operational by Feb 2024,"
-    publishedDateTime: 2023-12-16T13:30:00Z
-    webUrl: "https://www.cnbctv18.com/technology/global-ai-conclave--yotta-ceo-promises-to-launch-cloud-service-that-will-compete-with-amazon-microsoft-18585151.htm"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 19
 
 secured: "aOkiI0JRME/7LwtcBi5xI1xt9uhW7cUYxzuVv7zRDX3nwB5174sOb/SQ+VWttkDM9REfQJ4fPvgXJuN2rfdsMc8y7QivqB0jTmC33XLwp+g6UPVXKyYHFXH2GLRhKpNKt7hHzu3auZHtuwmyQO33yUIYLzmKTfMJVhF6Nzi/UvXBNriyWwfyAtNHrv2rtUGsV74MClhhB/yPkSPqZA4dCfdOpIfExqXEmmEoujhYON6v11le6bGUyM6cHGmsokjoc7dVShiardab+kDTBiuGcaUlI8ZxCwxJrgCeMQW6rpPwBV7ha8qZEfBSIIiczuRnrasYsAxNbQt6mAEr4j+QHcvQtFvqBpzub2vIfKM7fr8+Wtyzu5p0Fi6iff9KdeA4xQJkgpd17cUZlWAKm6v2xQTHkOvJeJcFM8rVc82P6Pn7CGPSowmLr7mCRWq7BXJjxu6y0mU0gBuOchoGb9A2YPszNrfe9pjUJ5IWx2GuKF32Tb5FVxfmvojQK65oCA6Mx7tYk9y69i9K5brTgkv6Gg==;CmZuxqAE1CI2cJEYbhS+fw=="
 ---

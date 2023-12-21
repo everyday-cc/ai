@@ -2,25 +2,19 @@
 category: news
 title: "How AI therapy is filling gaps in mental health care"
 excerpt: "And for some users, they’ve been beneficial. 80 percent of people who used ChatGPT for mental health advice reported it was a good alternative for therapy, according to Business Wire. The majority of Americans don’t believe AI therapy will help more than it hurts, but that’s not stopping innovations in artificial intelligence and therapy."
-publishedDateTime: 2023-12-11T02:36:00Z
-originalUrl: "https://www.wlrn.org/2023-12-10/how-ai-therapy-is-filling-gaps-in-mental-health-care"
-webUrl: "https://www.wlrn.org/2023-12-10/how-ai-therapy-is-filling-gaps-in-mental-health-care"
+publishedDateTime: 2023-12-11T03:35:00Z
+originalUrl: "https://www.boisestatepublicradio.org/2023-12-10/how-ai-therapy-is-filling-gaps-in-mental-health-care"
+webUrl: "https://www.boisestatepublicradio.org/2023-12-10/how-ai-therapy-is-filling-gaps-in-mental-health-care"
 type: article
 
 provider:
-  name: WLRN
-  domain: wlrn.org
+  name: Boise State Public Radio
+  domain: boisestatepublicradio.org
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://npr.brightspotcdn.com/dims4/default/8a5e564/2147483647/strip/true/crop/1600x840+0+114/resize/1200x630!/quality/90/?url=https%3A%2F%2Fthe1a.org%2Fwp-content%2Fuploads%2Fsites%2F4%2F2023%2F12%2FGettyImages-1233936108-1600x1067.jpg"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "pYrND5NgHZgQcwswtq2V/a6k7Ac868oQHDKv08FLtnNkHmvDkKJT6DdwrDinJq98FBx0ptiiIGCV4AkM3rNJT07jBto1w0gBbsF5ra1/ADZ3eR4dbg0stYgk4whXW7OKivhgOLbcEYjTY1ok4lM0HN4OeJluQbNO8WQGzMu7xGPiqYa/k+H4URYxhisd3ARcoP8KrDAbjyxjMtsEIv3PJJsYkzInSS8WhOnCkU1hbQRPVewijjy2OmDpnHbkofL8DIJN5k5zRDo/hLwkp80NsPkAbhJA52P+5ZPcNBCEuk8iy9E65bJyaMfuet04xz9rYt3WaaXsmjpiejO/4hsaerRPLmFRSt8foVlyMRVghf2sVOscbmemaol2OD8b/VZK14XY9i648z4hrn1s2NpyKyZ9oGe7P8eO4+j5ecCecPx1Ea+rxiDIs7lso5U+jxEB6NFHSUQtDuVSv/pYTkxXQJpsyhIA2Gd0gHoZadLlz7myV4lFbWow5zMSr6sf0cIMrhY2LGoIjtzue4BYa4MVNg==;1I2mKRuHnThq6mXnxL4hvQ=="
+secured: "E+6Q2Q2HyvhSisCsn5ppyyzdCf2GnhXoAoyDjI58vPoqc8w1ocXyM57gu67ZAl26yGsp54VbVqMIWRTdId7+EL/z4uO0b+mJMGxfzbO3TmhJpTfVtA318trsIInH1XmcWIoE0IeDwWG/fxG6MCR2Je9ONwcIBD/OHqxPAr7fMaWRPg90UGRRXpBOve/5rY2a3QWZFE2ndvqFEdXMdQKQ7zzCdDVDl1s76PgfhozfYFbX5ErA3N+whxdXhilTw0wHwsF99Rk9HheqyYvR2tcRqF60rcjV3CB2hVW0FgVccVeJvizjZY7awisfUX/tGdPleAKkQQTAdr4RdHk6TVZmYHLqpRb6NB3ZIR8VFXgxlotScawhkVGHhNUix6b2lHi2daAS58rFpXrBX6AgF5t5sFkJK5HWkC6ojTx+kv0R2VP+SZU/zkMGPwRVdHsaO+DBsyogXEw8/d3dCeC0UlLykVVELeYnHiELn9cO+haUJw4BmokzZrrOgCqGJF7N2viHJqDiMzbgmKyWjiWf+L5ENw==;cGp0XTejDyMk6L0pjzmvXg=="
 ---
 

@@ -34,6 +34,20 @@ related:
         width: 1528
         height: 800
         isCached: true
+  - title: "Google rolls out upgrade to AI chatbot Bard across UK"
+    excerpt: "Google boss Sundar Pichai has hailed Gemini as its ‘most capable’ model yet and the biggest upgrade to Bard since it launched earlier this year."
+    publishedDateTime: 2023-12-21T14:23:00Z
+    webUrl: "https://www.theoldhamtimes.co.uk/news/national/23998714.google-rolls-upgrade-ai-chatbot-bard-across-uk/"
+    type: article
+    provider:
+      name: theoldhamtimes
+      domain: theoldhamtimes.co.uk
+    quality: 39
+    images:
+      - url: "https://www.theoldhamtimes.co.uk/resources/images/17565378/?type=og-image"
+        width: 945
+        height: 630
+        isCached: true
 
 secured: "+FJyGq3f0UkQYkGmSJ831TLoEn/DUhm/9DCFA+mGO4Z664TW+IxedxLbisz7ZaZ09Xeb5a2WOVYRrv9P9d0wgDbiIEb4F4TcngYV4quUNjdFXtP3GqRd/teHVjwX91Hlmf2Gd3vM6j6VPs4h7U9PdWCVZNgSl7S7n6vJqDRO2GtpaO6QhUnoJVCXj+amNEYNj0Tdv/9YsEnmZgetT5DBOAf7sDEOzeLhrZLLjJUYCp7AHS7c9mF9ln2eMoAlrIFrowanZySDJ6qvQvDr+zP9BL5HT7sbkrIL2y2XGbVAEd8u+G9r252JR6POrUM5B87zZOO6zZVtjrDq6ZrppZzu+pVTXu7qJRWceH2VWKeo6iHzFkk4pM5OAtEKybzjQ3bsisy4OfHGWuKaPHGhAANlK0bXZQnDBxXPHJEmLEMtTGfMNr3TYhou/GRsayRt7mFGi58XF23WfQVw+xriwygZ9ALJ5jrfIu089aWR/lwvbMGI1qAVQ9s9J+qn6HbWXJtYhcZjnnTWZMbZNTx41TG9kA==;hctbvveqdK4J+G13rMU+wg=="
 ---

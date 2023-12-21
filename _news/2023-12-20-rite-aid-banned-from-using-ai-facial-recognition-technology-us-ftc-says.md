@@ -91,6 +91,22 @@ related:
         width: 1200
         height: 673
         isCached: true
+  - title: "Amazon heads off facial recognition rebellion"
+    excerpt: "But Amazon has not disclosed how many other public authorities have done so. Part of Rekognition's appeal is that it is cheaper to use than several rival facial recognition technologies."
+    publishedDateTime: 2023-12-20T05:29:00Z
+    webUrl: "https://www.bbc.com/news/technology-48339142"
+    ampWebUrl: "https://www.bbc.com/news/technology-48339142.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-48339142.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 91
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/DDE7/production/_107070865_43fd08e7-86a5-459b-8727-b89a4828d276.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "FTC bans Rite Aid from using facial recognition surveillance for five years"
     excerpt: "The FTC alleges that from 2012 until 2020, Rite Aid scanned the faces of shoppers across hundreds of locations to identify suspected thieves."
     publishedDateTime: 2023-12-19T23:13:00Z
@@ -120,20 +136,6 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-195584,msid-106140432/rite-aid-facial-recognition.jpg"
         width: 600
         height: 450
-        isCached: true
-  - title: "Rite Aid Banned From Facial Recognition Tech Use for 5 years After Faulty Theft Targeting in Stores"
-    excerpt: "Rite Aid said that it disagrees with the allegations, but that it's glad it reached an agreement to resolve the issue."
-    publishedDateTime: 2023-12-20T18:51:00Z
-    webUrl: "https://time.com/6549652/rite-aid-banned-facial-recognition-tech/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 70
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2023/12/Rite-Aid.jpg?quality=85"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Rite Aid's 'reckless' use of facial recognition got it banned from using the technology in stores"
     excerpt: "Rite Aid said in a statement that it's \"pleased to reach an agreement\" with the FTC but added that \"we fundamentally disagree with the facial recognition allegations in the agency's complaint.\" The tech was a pilot program and was only used in a \"limited ..."
@@ -244,6 +246,15 @@ related:
       name: Crain's Chicago Business
       domain: chicagobusiness.com
     quality: 36
+  - title: "Rite Aid banned for 5 years from using facial recognition technology"
+    excerpt: "The pharmacy reached a settlement with the Federal Trade Commission after the agency found Rite Aid used the software to unfairly target people of color."
+    publishedDateTime: 2023-12-21T12:48:00Z
+    webUrl: "https://www.cbsnews.com/philadelphia/video/rite-aid-banned-for-5-years-from-using-facial-recognition-technology/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 34
   - title: "Rite Aid banned from facial recognition tech use for 5 years after faulty theft targeting in stores"
     excerpt: "FILE - A Rite Aid sign is displayed on the facade of a store in Pittsburgh, Jan. 23, 2023. Rite Aid has been banned from using facial recognition technology for five years over allegations that a surveillance system it used incorrectly identified potential ..."
     publishedDateTime: 2023-12-20T09:52:00Z
@@ -252,6 +263,15 @@ related:
     provider:
       name: WSLS 10
       domain: wsls.com
+    quality: 20
+  - title: "Rite Aid banned from facial recognition tech use for 5 years after faulty theft targeting in stores"
+    excerpt: "The technology sent alerts to Rite Aid employees either by email or phone when it identified people entering the store on its watchlist."
+    publishedDateTime: 2023-12-21T13:07:00Z
+    webUrl: "https://www.boston.com/news/technology/2023/12/21/rite-aid-facial-recognition-tech-use-5-year-ban-faulty-theft-targeting/"
+    type: article
+    provider:
+      name: Boston.com
+      domain: boston.com
     quality: 20
 
 secured: "HDi3rqRbJ9i4PtvEedjWxFl8ZsvuRWrC+wf2U238oJJUiBOz/W3hNtle5tokhgDbuIj7YXHhENfJ/+Np/5wUwBB+YFFtCbbQ7X25FJWE4pEdjCdrDq9pL5Cgqc8nKxzWt7lw+BI9Y65Kdvbhv158Ji/FOiAI0tdMKA6b4AtKDpkDDVKcMDmES/UixfDJRNoX5j9lTmdAsIDevrXdpLPFE0Grc7SZqcZ2Yr/IuybfmICWvbsrUehbp6hRQIHvEz+24ag6V4tooTPPDW1VaZwtxzn0XUuaiwMUZZw7cEa58EWhrir54suo7McmTVzy0ggl+SlwoB5QeqwAqlEGH7hT2LYlUq15O/s5sNHri78qVSM=;nwf5ZUHFxuPzlW4+tZ2u6w=="

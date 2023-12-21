@@ -25,45 +25,65 @@ images:
     isCached: true
 
 related:
-  - title: "Unlocking A World Of Possibilities: How AI Is Revolutionizing Real Estate And Empowering Your Life Choices"
-    excerpt: "When I first launched my company, I wanted AI to be at the center of our innovation. The idea was to leverage this super-intelligent technology to better ourselves. As a result, we witnessed an 80% spike in output and productivity. Automation has reduced our manual labor, minimized errors and improved user experiences."
-    publishedDateTime: 2023-12-18T15:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/18/unlocking-a-world-of-possibilities-how-ai-is-revolutionizing-real-estate-and-empowering-your-life-choices/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/18/unlocking-a-world-of-possibilities-how-ai-is-revolutionizing-real-estate-and-empowering-your-life-choices/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/12/18/unlocking-a-world-of-possibilities-how-ai-is-revolutionizing-real-estate-and-empowering-your-life-choices/amp/"
+  - title: "Reshoring manufacturing to the US: The role of AI, automation and digital labor"
+    excerpt: "Here are some concrete recommendations and examples from IBM for companies considering reshoring manufacturing\nThe post Reshoring manufacturing to the US: The role of AI, automation and digital labor appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-12-21T15:00:00Z
+    webUrl: "https://www.ibm.com/blog/reshoring-manufacturing-to-the-us-the-role-of-ai-automation-and-digital-labor/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 71
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/657c70c643821b7e2e231162/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "Plumbing and Artificial Intelligence: How AI is Revolutionizing Leak Detection"
-    excerpt: "Introduction: Artificial intelligence (AI) has become a game-changer in various industries, and plumbing is no exception. One of the critical challenges in plumbing is the timely detection of leaks, which can lead to significant water damage if left unchecked."
-    publishedDateTime: 2023-12-19T00:56:00Z
-    webUrl: "https://techbullion.com/plumbing-and-artificial-intelligence-how-ai-is-revolutionizing-leak-detection/"
+      name: IBM
+      domain: ibm.com
+    quality: 95
+  - title: "Future of manufacturing is phygital as human-robot collaboration rises: Twyn’s Avi Dahiya"
+    excerpt: "As manufacturing in India is quickly adapting new-age technologies, a Noida-based company is working to accelerate the adoption of Industry 4.0 in India."
+    publishedDateTime: 2023-12-19T05:21:00Z
+    webUrl: "https://economictimes.indiatimes.com/small-biz/sme-sector/future-of-manufacturing-is-phygital-as-human-robot-collaboration-rises-twyns-avi-dahiya/articleshow/106112078.cms"
+    ampWebUrl: "https://m.economictimes.com/small-biz/sme-sector/future-of-manufacturing-is-phygital-as-human-robot-collaboration-rises-twyns-avi-dahiya/amp_articleshow/106112078.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/small-biz/sme-sector/future-of-manufacturing-is-phygital-as-human-robot-collaboration-rises-twyns-avi-dahiya/amp_articleshow/106112078.cms"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 48
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 50
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/Plumbing-and-Artificial-Intelligence-How-AI-is-Revolutionizing-Leak-Detection.jpg"
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-2406586,msid-106112055/avi-profile-hz-1.jpg"
         width: 600
         height: 450
         isCached: true
-  - title: "REPLY: Storm Reply Launches RAG-based AI Chatbot for Audi, Revolutionising Internal Documentation"
-    excerpt: "The new internal AI chatbot, developed by Storm Reply, gives employees at Audi uncomplicated, fast, and secure access to information. This allows the company to break down knowledge silos and realize better decisions, more efficient processes, and ultimately cost reductions. (Photo: Reply)"
-    publishedDateTime: 2023-12-21T08:44:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/12/21/9937411.htm"
+  - title: "Taking stock of AI-powered digital lending"
+    excerpt: "AI promotes operational efficiency and can drive faster financial inclusion. But there are challenges that can lead to systemic risks"
+    publishedDateTime: 2023-12-18T15:58:00Z
+    webUrl: "https://www.thehindubusinessline.com/opinion/taking-stock-of-ai-powered-digital-lending/article67651486.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/opinion/taking-stock-of-ai-powered-digital-lending/article67651486.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/opinion/taking-stock-of-ai-powered-digital-lending/article67651486.ece/amp/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 6
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 39
+  - title: "How Generative AI Could Revolutionize Manufacturing"
+    excerpt: "Generative AI is everywhere and it is predicted that the technology will boost industry revenues by enabling faster, more precise innovation, as well as automating processes. ABI Research predicts that generative AI will unlock $10.5 billion in new revenues for the manufacturing industry by 2033."
+    publishedDateTime: 2023-12-19T22:43:00Z
+    webUrl: "https://www.manufacturing.net/artificial-intelligence/blog/22882290/how-generative-ai-could-revolutionize-manufacturing"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 39
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2023/12/Generative_AI.6582177d58359.png?auto=format%2Ccompress&fit=max&q=70&rect=91%2C171%2C3158%2C1775&w=1200"
+        width: 1200
+        height: 674
+        isCached: true
+  - title: "Manufacturing CEOs Are Stepping Into 2024 Embracing AI, Accelerating Reshoring And Investing In High-Tech Talent"
+    excerpt: "Drawn From A Year’s Worth Of Proprietary Polling, Xometry’s 2024 Predictions Show An Industry Embracing High-Tech Tools And Talent To Navigate A"
+    publishedDateTime: 2023-12-19T14:07:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/manufacturing-ceos-are-stepping-into-2024-embracing-ai-accelerating-reshoring-and-investing-in-high-tech-talent-1032912359"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 28
 
 secured: "sV81YQ/qxAH8+cstAI2TLQer/5RIRaJSphRlBswvTOVc2XmO87dfZE6rckssX9plRXDwd7PamaJSg6t8I804fz1127ZTo44ro3RdAJPKJ7905MJDnjBQtpOzQu1k7L8yhVA6v/ZHh7aG9XqjOdwUY8YyZVU/LUOvB0ySXauSlPjQPnIA0Mup1IF8cNUprV73ubV+xaNPsK85mNzguAIXrdEJKcf0iQ8h7MziCHsmtKg8bTry8WhzF3Q0HmkcxB5z6joJ1aLcQnJxI+B47Bxr5CpDmpzP7b9azGvm3UYL/9SgJUi4UwCEvEy2Y8bBvLSHCd6mgoFMePJzhQUykyP0KCLRCWHln9rsmJUDB3dYnBqJWp7pV080BxnJ9I6b7vZ72wQLuHKkcwmCO+H7BQbr7O03cVfkUqDIZrRxMF7kVeS3dph5Tz7ikgNfuMW4CFvxwYJjLBQD0KTbAar3RDMUkIH8OMZajwFszXva33VyLVu0osEu8ju/aZE6/u43OC5QDtnsuz0UjKXwZB3BUuidjg==;VuQKROwBf+utJVAAbnbF5Q=="
 ---

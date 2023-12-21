@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/how-generative-ai-is-reshaping-banki
 webUrl: "https://analyticsindiamag.com/how-generative-ai-is-reshaping-banking-finance-in-india/"
 type: article
 quality: 69
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -112,15 +112,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Manufacturing CEOs Are Stepping Into 2024 Embracing AI, Accelerating Reshoring And Investing In High-Tech Talent"
-    excerpt: "Drawn From A Year’s Worth Of Proprietary Polling, Xometry’s 2024 Predictions Show An Industry Embracing High-Tech Tools And Talent To Navigate A"
-    publishedDateTime: 2023-12-19T14:07:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/manufacturing-ceos-are-stepping-into-2024-embracing-ai-accelerating-reshoring-and-investing-in-high-tech-talent-1032912359"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 28
 
 secured: "24ac8/a92f/T3oQLOAwsOcwgx+8/EOkkHd4dtXfgjaPCB6duTKjzKFsrglV9kqTPYTsa+dg0PKD+bABH5nA/DtvvbJssqf6JgKdWKJl9PoXVV9optKIYRlveiuZz615OpWup5Fzi4llZX+Yi5y0EhhuSRWCfVURpi5cnlUzxWUux4gR/hJnLjS1xaq4z435OSn4ytcSSZLmIELiBDuW1QdS1A1v49EO0aefVwne3FzGnbSQC+sSr0OBllJ8YsBCRhxTcjdDc1kum0kOlRsRFkTXEBSj2LDyra51Yqo7HKjoavVUbxUcC3d41mZq+EsI77JZ6L77W/fw/QMBzLeWDuotcpgvoFVUr7Q/KaS3I+JU=;abCUYbxUo6+M57Dxv7c+bw=="
 ---

@@ -40,28 +40,14 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "Telling My Whole Life With AI’s Words: Ethical Considerations Regarding Attorney Use and Misuse of Artificial Intelligence"
-    excerpt: "Fugees rapper Pras Michel is set to make his case for a new trial after his attorney allegedly violated ethics rules when he used an AI tool the lawyer invested in to draft a closing statement in the artist's foreign influence case."
-    publishedDateTime: 2023-12-18T18:34:00Z
-    webUrl: "https://www.law.com/therecorder/2023/12/18/telling-my-whole-life-with-ais-words-ethical-considerations-regarding-attorney-use-and-misuse-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 43
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/403/2023/12/Lin-Graber-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
   - title: "REPLY: Storm Reply Launches RAG-based AI Chatbot for Audi, Revolutionising Internal Documentation"
-    excerpt: "The new internal AI chatbot, developed by Storm Reply, gives employees at Audi uncomplicated, fast, and secure access to information. This allows the company to break down knowledge silos and realize better decisions, more efficient processes, and ultimately cost reductions. (Photo: Reply)"
-    publishedDateTime: 2023-12-21T08:44:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/12/21/9937411.htm"
+    excerpt: "Storm Reply, the Reply Group company specialising in innovative cloud-based solutions and services, is supporting car manufacturer Audi to improve its"
+    publishedDateTime: 2023-12-21T07:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231221707249/en/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 6
 
 secured: "swPf0d4BBATinxrgdjc1+1AfcUpLa5U1FuyUsgja7j4+DN/MuyCHyfz9SEswEkeC0JjmZfUtypxFsX5Uk47IJo0tJmz/wXGef2G797RDzqgOfSkFofvzonnzJtv4+aoREkfvz1p+WqcDmCl2QoptsqEjBzyrGv492d3GwASlkIGQ74ZfACclpNEq4nfVvH2pIur6Zvm06ZWTeBLz+bYr7YQOrxov6hsOmTaKHEdam88HecSttZNxiCvGO/vnkpERDfMobT+sHxXgejOVkTFq4VHF9w2f0BVBrI6mijvLnwpDocrDJtESDfswHamScAoJeGsLUNRNMo1k0IlAHycWOoDw3GE7Pi0CsZ/Te2gnvUFk5e9OSukWnrcxJjVdATQp7lTEd8hcNdRfwjBkKWkzc64DK48sT+AGf/PZ6/8jsyfA5oUXBZIjCwFIonSekBYC3CRupqtm0C/fr1VUf4IDw1jUcRT8/iOzx7wZM1VndQAuzjy859YEWwNTZdYBrzLP/swvlsXmn4WwaXElydZUzg==;lglrEWAtCKo3iS9nCH0JAA=="

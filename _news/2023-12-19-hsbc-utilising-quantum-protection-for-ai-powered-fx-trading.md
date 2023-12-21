@@ -7,7 +7,7 @@ originalUrl: "https://fintechmagazine.com/banking/hsbc-quantum-protection-for-fx
 webUrl: "https://fintechmagazine.com/banking/hsbc-quantum-protection-for-fx-trading"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,19 +23,6 @@ images:
     width: 1200
     height: 629
     isCached: true
-
-related:
-  - title: "Taking stock of AI-powered digital lending"
-    excerpt: "AI promotes operational efficiency and can drive faster financial inclusion. But there are challenges that can lead to systemic risks"
-    publishedDateTime: 2023-12-18T15:58:00Z
-    webUrl: "https://www.thehindubusinessline.com/opinion/taking-stock-of-ai-powered-digital-lending/article67651486.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/opinion/taking-stock-of-ai-powered-digital-lending/article67651486.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/opinion/taking-stock-of-ai-powered-digital-lending/article67651486.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 39
 
 secured: "ega436vZscMWBDTmZ0hcOl1W40qFQ9Sf/jeNrkAlHcms6uvEF2bjRZaD9/TMJe0Dq0Df6lCbkTwHNrgcxCe+hr4+8tZEZDewdz5lCrKHQdPrylhu4rz0dIi4Be+VrupBUIHAia7Fn7WQ9SFh2NXpGRzJOcgHMQV1WoQfATKiA0hZK02Nu4zqlZ/DctHxBvglRD8v16XJW699L8hNVHPHtQJSZTILs53agkTVTKlOVzqfKFVeb+Ir/67wOqGWRnHYUKx8HrL5Nhvo5PpLeTOgAhR3M3oZ9akY/MfDZVJM3OZw7AnBDxvTh0pzTXqOwtJZRl+1ncUuRGtPfwsd6QbB1oh4wrE2MgKbia7BofhD2GlgvRQdZ4x9U0wL2q5EKWSxbC4xvY/67yJlfLu07xcnoobVci1mzeO+B+AplH2Z72jOi0klBE8VqtyOYV9ShsX77Js7rbYgRxA1PKYBvMwXi87WkjdHCOFrZKNq+UgAhqX/Ht3OOhAP08ggjVJfEXzpsZdxF92jSuvSWa5OAJ6ukw==;xxSKNh0tLRD6q2zm9/JJiQ=="
 ---

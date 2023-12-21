@@ -211,7 +211,7 @@
       "originalUrl": "https://venturebeat.com/ai/the-widening-web-of-effective-altruism-in-ai-security-the-ai-beat/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -702,6 +702,49 @@
       ]
     },
     {
+      "path": "_news/2023-12-13-meta-used-copyrighted-books-for-ai-training-despite-its-own-lawyers-warnings-authors-allege.md",
+      "title": "Meta used copyrighted books for AI training despite its own lawyers' warnings, authors allege",
+      "excerpt": "Meta released a first version of its Llama large language model in February and published a list of datasets used for training, including \"the Books3 section of ThePile.\" The person who assembled ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/meta-used-copyrighted-books-ai-training-despite-its-own-lawyers-warnings-authors-2023-12-12/",
+      "originalUrl": "https://www.reuters.com/technology/meta-used-copyrighted-books-ai-training-despite-its-own-lawyers-warnings-authors-2023-12-12/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-12T23:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-12-meta-unveils-audiobox-an-ai-that-clones-voices-and-generates-ambient-sounds.md",
       "title": "Meta unveils Audiobox, an AI that clones voices and generates ambient sounds",
       "excerpt": "Type in a sentence that you want a cloned voice to say, or a description of a sound you want to generate, and Audiobox will do the rest",
@@ -804,6 +847,40 @@
         "Meta AI",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-12-11-local-llama-rancher-overcomes-obstacles-skin-cancer.md",
+      "title": "Local llama rancher overcomes obstacles, skin cancer",
+      "excerpt": "As far as transitions go, Sally Rucker traded the upscale lifestyle in Texas to toiling in the dirt to become a nationally recognized llama rancher. Rucker opened the 76-acre Stage Stop Llamas in ...",
+      "sourceUrl": null,
+      "webUrl": "https://gazette.com/pikespeakcourier/local-llama-rancher-overcomes-obstacles-skin-cancer/article_c5b5912a-961a-11ee-a598-330973c20793.html",
+      "originalUrl": "https://gazette.com/pikespeakcourier/local-llama-rancher-overcomes-obstacles-skin-cancer/article_c5b5912a-961a-11ee-a598-330973c20793.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-11T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Gazette",
+        "domain": "gazette.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
       ]
     },
     {
@@ -1310,92 +1387,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-ai-poised-to-enhance-student-and-faculty-experiences-info-tech-research-group-publishes-new-industry-guide.md",
-      "title": "AI Poised to Enhance Student and Faculty Experiences: Info-Tech Research Group Publishes New Industry Guide",
-      "excerpt": "The newly published resource includes use cases on the topic of AI in the classroom and covers the technology involved, the benefits to the",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-poised-to-enhance-student-and-faculty-experiences-info-tech-research-group-publishes-new-industry-guide-1032872109",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-poised-to-enhance-student-and-faculty-experiences-info-tech-research-group-publishes-new-industry-guide-1032872109",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2292604/Info_Tech_Research_Group_AI_Poised_to_Enhance_Student_and_Facult.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T23:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-04-maracuya-by-llama-opens-in-st-augustine.md",
-      "title": "Maracuya by Llama opens in St. Augustine",
-      "excerpt": "Maracuya by Llama, West Augustine’s newest relax and unwind coffee house destination, is filling the streets with tantalizing aromas of coffees, teas, tropical beverages, deserts and grab and go ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.staugustine.com/story/lifestyle/food/2023/12/04/maracuya-by-llama-opens-in-st-augustine/71799652007/",
-      "originalUrl": "https://www.staugustine.com/story/lifestyle/food/2023/12/04/maracuya-by-llama-opens-in-st-augustine/71799652007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T15:57:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The St. Augustine Record",
-        "domain": "staugustine.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

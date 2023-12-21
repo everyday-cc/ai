@@ -112,15 +112,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Manufacturing CEOs Are Stepping Into 2024 Embracing AI, Accelerating Reshoring And Investing In High-Tech Talent"
-    excerpt: "Drawn From A Year’s Worth Of Proprietary Polling, Xometry’s 2024 Predictions Show An Industry Embracing High-Tech Tools And Talent To Navigate A"
-    publishedDateTime: 2023-12-19T14:07:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/manufacturing-ceos-are-stepping-into-2024-embracing-ai-accelerating-reshoring-and-investing-in-high-tech-talent-1032912359"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 28
 
 secured: "GDkMd0zvDEqw6CrJB/S7MnmbdGcuQM+GNCAmKiK6euVX4bOL3jzsNq5V8hux8ereIp5fi3ZjJqEAOW80LQRi2GV8vxdD6qgWvLpSRG5A5glZYMH0XYnXZXsfI83LGZFbfqx/ws36swsJOK7erWJawpWPmbE3r5yfswWRoZKUFleTdTf8m3mD+9pNUA6gjTrRSVq8aNweEWR2OOuCxXGSgeFj7sbwjFknhjlxbJEdj1I/qIwr8osGZJ+qnuLdF6OEZ7F53JPLc/zyLbJ25JgXkTxV62LzihlYhC/w51VzYW081OFsSXKtTVmRfosKlb8Q+33E2kZkDRFash26pQmlH7AIKaUL/ns0JHgFmPJ61lM=;EFej1+2Pd6TyNsvRzqNr0A=="
 ---

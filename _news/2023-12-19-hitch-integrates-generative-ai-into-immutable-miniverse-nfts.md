@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/games/hitch-integrates-generative-ai-into-
 webUrl: "https://venturebeat.com/games/hitch-integrates-generative-ai-into-immutable-miniverse-nfts/"
 type: article
 quality: 71
-heat: 82
+heat: 83
 published: true
 
 provider:

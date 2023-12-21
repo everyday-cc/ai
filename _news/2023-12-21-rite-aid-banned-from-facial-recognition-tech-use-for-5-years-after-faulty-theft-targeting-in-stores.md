@@ -1,32 +1,22 @@
 ---
 category: news
-title: "Rite Aid Banned From Facial Recognition Tech Use for 5 years After Faulty Theft Targeting in Stores"
-excerpt: "Rite Aid said that it disagrees with the allegations, but that it's glad it reached an agreement to resolve the issue."
-publishedDateTime: 2023-12-20T18:51:00Z
-originalUrl: "https://time.com/6549652/rite-aid-banned-facial-recognition-tech/"
-webUrl: "https://time.com/6549652/rite-aid-banned-facial-recognition-tech/"
+title: "Rite Aid banned from facial recognition tech use for 5 years after faulty theft targeting in stores"
+excerpt: "The technology sent alerts to Rite Aid employees either by email or phone when it identified people entering the store on its watchlist."
+publishedDateTime: 2023-12-21T13:07:00Z
+originalUrl: "https://www.boston.com/news/technology/2023/12/21/rite-aid-facial-recognition-tech-use-5-year-ban-faulty-theft-targeting/"
+webUrl: "https://www.boston.com/news/technology/2023/12/21/rite-aid-facial-recognition-tech-use-5-year-ban-faulty-theft-targeting/"
 type: article
-quality: 70
+quality: 20
 heat: -1
 published: false
 
 provider:
-  name: Time
-  domain: time.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Boston.com
+  domain: boston.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://api.time.com/wp-content/uploads/2023/12/Rite-Aid.jpg?quality=85"
-    width: 1024
-    height: 683
-    isCached: true
 
 related:
   - title: "Rite Aid Banned From Using AI Facial Recognition in FTC Settlement"
@@ -92,6 +82,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2023/12/GettyImages-1644666359-e1703063162803.jpg?resize=1200,673"
         width: 1200
         height: 673
+        isCached: true
+  - title: "Amazon heads off facial recognition rebellion"
+    excerpt: "But Amazon has not disclosed how many other public authorities have done so. Part of Rekognition's appeal is that it is cheaper to use than several rival facial recognition technologies."
+    publishedDateTime: 2023-12-20T05:29:00Z
+    webUrl: "https://www.bbc.com/news/technology-48339142"
+    ampWebUrl: "https://www.bbc.com/news/technology-48339142.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-48339142.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 91
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/DDE7/production/_107070865_43fd08e7-86a5-459b-8727-b89a4828d276.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "FTC bans Rite Aid from using facial recognition surveillance for five years"
     excerpt: "The FTC alleges that from 2012 until 2020, Rite Aid scanned the faces of shoppers across hundreds of locations to identify suspected thieves."
@@ -248,6 +254,15 @@ related:
       name: Crain's Chicago Business
       domain: chicagobusiness.com
     quality: 36
+  - title: "Rite Aid banned for 5 years from using facial recognition technology"
+    excerpt: "The pharmacy reached a settlement with the Federal Trade Commission after the agency found Rite Aid used the software to unfairly target people of color."
+    publishedDateTime: 2023-12-21T12:48:00Z
+    webUrl: "https://www.cbsnews.com/philadelphia/video/rite-aid-banned-for-5-years-from-using-facial-recognition-technology/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 34
   - title: "Rite Aid banned from facial recognition tech use for 5 years after faulty theft targeting in stores"
     excerpt: "FILE - A Rite Aid sign is displayed on the facade of a store in Pittsburgh, Jan. 23, 2023. Rite Aid has been banned from using facial recognition technology for five years over allegations that a surveillance system it used incorrectly identified potential ..."
     publishedDateTime: 2023-12-20T09:52:00Z
@@ -258,6 +273,6 @@ related:
       domain: wsls.com
     quality: 20
 
-secured: "Krfj+0H/FooO9L+TIB6xZeQVQjltMdh3Kv2j0clbfz9xyZMRP1H5wPHb2x3A2iKPDzVWfNqOyNjhNX0f1oHLv9IPESGWVYnBEKUgvmDbiDqmmRwmb3Hdi6CdSGQ6FF7LtR48TeCfZ25msMOfqgdQ4KWpSSJNsZ0dBpvrH2CtfiEeR75ELKEHVK8xb1Ax2nH6nKmE8H1mc+4esCxS12wTsoWPrsXGb/37zi8tInkJQZVoL3+Dr0lKBmghGFaOZ3lM0r+sUoKcQyXkxgYKRFWzEhw2dLTub8PbZl5zhDpjIcxL/qb04wD7liOH4NAAlGrTxt3ZZACWH9hH+YXl6YUbE2ddL7EMNyq/TwyI3Ea3l4g=;ReGYAfFBeBlCTIkA1wPTJQ=="
+secured: "ZcgcAV697Evn5q5dlRFqskpwQ2AXnDvUMrBeWesJJ38x4Si8efd0CD6IICpre7r1g+ZyK3EqZooYldBQ2sn/CslhqKmFvYagnEayLAvb23CRXvhs/DzmiFloGQBldTAAoBIgFrblDQ+Xv23Mtsw60ZN6IksGByanVypvrT49WpvrDFAmHNpx1mXnr4y+ziNgCd7Z/1E+CFXhasl8J3G16jQ2HU2Hk5gkJ0lAD3TZVbeJWKjyp5T10KfHdZpcnXhI2qhkpMnks06kr1G1+t7vf4WynhCKokRLxXC/f/33W1dClSTJpGSSz1U+WFuW2nXESeBk0WOUY9HfbIJSGVy8YouvTF4JXic13I7NoL9uugjk0mmpcbqpR4MH3rh2yJ76GBZXTF1uO0hCmP9V5KUgLrfq295tbUE0tkoL1iaW4OQgFz16HCiujWb8kHmswpa8WKvopIslGy1Z/nMC3AfwdiheVTdWuikLj56rJ7dnNw+aDyLwRB44T7D+GvmmxN37DNQ61agBaXIxpS6/A2yILQ==;0kX8sItxtXMEcEnpU2+5qQ=="
 ---
 

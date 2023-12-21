@@ -177,6 +177,20 @@ related:
         width: 419
         height: 250
         isCached: true
+  - title: "How to Use Microsoft Copilot’s New Suno AI Music Creation Tool"
+    excerpt: "Microsoft has unveiled a new feature for its Copilot chatbot, an integration with a tool called Suno that lets anyone make music with AI."
+    publishedDateTime: 2023-12-21T15:17:00Z
+    webUrl: "https://tech.co/news/how-to-use-microsoft-copilot-suno-ai-music"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 56
+    images:
+      - url: "https://images.tech.co/wp-content/uploads/2023/12/21101457/AdobeStock_665889467_Editorial_Use_Only-1-e1703171746881.jpeg"
+        width: 1920
+        height: 960
+        isCached: true
   - title: "LTIMindtree collaborates with Microsoft for AI-powered applications"
     excerpt: "LTIMindtree and Microsoft collaborate to introduce AI-powered Employee Engagement Applications. It will use Microsoft Azure OpenAI Service and Azure Cognitive Search to enable AI-led capabilities, including content summarisation,"
     publishedDateTime: 2023-12-19T09:51:00Z
@@ -443,15 +457,6 @@ related:
       name: Windows Central
       domain: windowscentral.com
     quality: 21
-  - title: "Global AI Conclave | Yotta CEO promises to launch cloud service that will compete with Amazon, Microsoft"
-    excerpt: "Sunil Gupta, Co-Founder and CEO of Yotta Infrastructure, announced Shakti Cloud, which he said is India's largest AI supercomputing cloud, to rival global giants like Amazon, Google, and Microsoft. Gupta said the service will be operational by Feb 2024,"
-    publishedDateTime: 2023-12-16T13:30:00Z
-    webUrl: "https://www.cnbctv18.com/technology/global-ai-conclave--yotta-ceo-promises-to-launch-cloud-service-that-will-compete-with-amazon-microsoft-18585151.htm"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 19
 
 secured: "F2yTvXgUHRmIRSl/cnndJvH0mHMxrRHV691QvYgT2FLRCaJRS/+Zj4m8iVl5jcEGyK08K3o3GzwumSNY9tdqTjjGoD56e/QEL9ZA7onDNjOvZG8U2C7ayklneVZOGHkX1ViSdRtc4RsXzAbvCgll0nEf/uvJLug7RgD7Xa52nOkjlFYIDA+tH2cj38FYP+rdBrMcjn95A3qDMXKCLWHUbcvV4y3bFQlsSWIwCpxl/7saFS2VL4MfxlnHPQbrIRNfMdEae75PwRFwwlE8waojFjITy1LzBJJaCuBgwVXjWMuDD9280y4tzSJW3cM4cqZOzlZSYpo77q6RQmAC001BgA9zb6MwYFVLQzg6WojJ9jE=;htAzwdRLYCYfLrjVe2vDRQ=="
 ---

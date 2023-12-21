@@ -61,6 +61,36 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "10 AI Predictions For 2024"
+    excerpt: "It is one of the AI world’s worst-kept secrets: once-high-flying startup Stability AI has been a slow-motion trainwreck for much of 2023. Stability is hemorrhaging talent. Departures in recent months include the company’s Chief Operating Officer ..."
+    publishedDateTime: 2023-12-21T16:01:00Z
+    webUrl: "https://www.forbes.com/sites/robtoews/2023/12/21/10-ai-predictions-for-2024/"
+    ampWebUrl: "https://www.forbes.com/sites/robtoews/2023/12/21/10-ai-predictions-for-2024/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2023/12/21/10-ai-predictions-for-2024/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6583d7fabdca920d504063e2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1374
+        height: 900
+        isCached: true
+  - title: "10 Best Artificial Intelligence Stocks For 2024"
+    excerpt: "AI's sweeping applicability has the potential to transform business processes across many industries. Here are 10 stocks that have embraced the benefits of this technology."
+    publishedDateTime: 2023-12-21T16:34:00Z
+    webUrl: "https://www.forbes.com/sites/investor-hub/article/best-artificial-intelligence-stocks-2024/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 69
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6584574a44e8d0346aa460b3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 899
+        isCached: true
   - title: "Top AI Trends That We Can Expect in 2024"
     excerpt: "As AI reaches new levels of maturity in 203, broad production deployment is expected across industries like healthcare, finance, animation, and education to increase security, reduce costs, and enhance workflows in the upcoming year."
     publishedDateTime: 2023-12-20T05:14:00Z

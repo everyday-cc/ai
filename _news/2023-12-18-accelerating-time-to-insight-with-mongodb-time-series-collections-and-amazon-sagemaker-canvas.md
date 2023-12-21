@@ -43,6 +43,20 @@ related:
         width: 1010
         height: 504
         isCached: true
+  - title: "Overcoming common contact center challenges with generative AI and Amazon SageMaker Canvas"
+    excerpt: "Great customer experience provides a competitive edge and helps create brand differentiation. As per the Forrester report, The State Of Customer Obsession, 2022, being customer-first can make a sizable impact on an organization’s balance sheet, as organizations embracing this methodology are surpassing"
+    publishedDateTime: 2023-12-21T16:29:44Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/overcoming-common-contact-center-challenges-with-generative-ai-and-amazon-sagemaker-canvas/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 94
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/16/wisdom-s3-sync-diagram-1260x431.png"
+        width: 1260
+        height: 431
+        isCached: true
 
 secured: "Fd549NOmlbRbxVtAVIbJ2EjbEZtH7JPf/g0O9uJE/le8BamvTjFImZ5sf0P58C2Enapzs8hoCHkU8Llw56BeMBN/T08+9dyWZdL5B2jYKcS2BIJzQfuBf7t8E2WM+J+j7u+N3k8Yn/Uw7ensksHwKOW0lxOqK6vbEudyA+TBBuA2QB8X/eCHeDuOwPBs1Kpu2AXULy8XoQy5jjqmG0xsHQNemUnE5uDpJ1sfiNy72x6CrBGno7RGP0hy70oHkcvQydjdiB9THzJ5zQ2D5iUUWYq3OwaWWdaplSqs+c7t4d+0FvEu4bpJy9OQ1wxFQAgSos98HSjZJ7rJ7yGKImnS5990a8FWja/mCvKpMZAr7YY=;4D/TBK/U8ZZeIctgUsT4tw=="
 ---

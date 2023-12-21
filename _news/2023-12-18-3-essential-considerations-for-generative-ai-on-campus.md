@@ -99,20 +99,6 @@ related:
         width: 845
         height: 396
         isCached: true
-  - title: "How Generative AI Could Revolutionize Manufacturing"
-    excerpt: "Generative AI is everywhere and it is predicted that the technology will boost industry revenues by enabling faster, more precise innovation, as well as automating processes. ABI Research predicts that generative AI will unlock $10.5 billion in new revenues for the manufacturing industry by 2033."
-    publishedDateTime: 2023-12-19T22:43:00Z
-    webUrl: "https://www.manufacturing.net/artificial-intelligence/blog/22882290/how-generative-ai-could-revolutionize-manufacturing"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 39
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2023/12/Generative_AI.6582177d58359.png?auto=format%2Ccompress&fit=max&q=70&rect=91%2C171%2C3158%2C1775&w=1200"
-        width: 1200
-        height: 674
-        isCached: true
   - title: "How Your Organization Can Prepare for Generative AI"
     excerpt: "Brun, Enterprise Strategist and Evangelist, Amazon Web Services (AWS) I’m fascinated by the technological tipping points in"
     publishedDateTime: 2023-12-20T09:09:00Z
@@ -237,6 +223,15 @@ related:
     provider:
       name: Politico
       domain: politico.com
+    quality: 17
+  - title: "AI-generated weapons of mass misinformation have arrived"
+    excerpt: "That frightening prediction is already coming true."
+    publishedDateTime: 2023-12-21T11:00:00Z
+    webUrl: "https://www.msnbc.com/opinion/msnbc-opinion/ai-misinformation-fake-news-rcna130523"
+    type: article
+    provider:
+      name: MSNBC
+      domain: msnbc.com
     quality: 17
   - title: "Google to limit answers to election queries on Bard AI tool and generative search"
     excerpt: "Google said that the restrictions will be enforced by early 2024 in the run-up to the upcoming U.S. presidential election in November 2024."

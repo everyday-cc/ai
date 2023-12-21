@@ -94,6 +94,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 17
+  - title: "Artificial intelligence system can’t be registered as inventor of a patent, UK court says"
+    excerpt: "An artificial intelligence system can't be registered as the inventor of a patent, Britain's Supreme Court ruled Wednesday in a decision that denies machines the same status as humans."
+    publishedDateTime: 2023-12-21T11:04:00Z
+    webUrl: "https://wraltechwire.com/2023/12/21/artificial-intelligence-system-cant-be-registered-as-inventor-of-a-patent-uk-court-says/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 8
 
 secured: "i7lJDHr6SvXQp7RBn5AMoJafI227fzp/RKJ4Dr6XHOiUAAP3f+DkJSyU0er8mEBtdXmGIUzKgMOEBa/gBCoyATnrzSds3F/FM3Ek5ZHD27aaLBZr5xvSN5E2Z/YqbaF7KvgdAXMfZzbvB9LIzvOitLFqVYuvUj7qMUcz4zMXHadMG/lBBjakFWWHk3voMAVvs7TPwRp+Owux1jWurCNGiVF6d6VRWXBo1PZDWD6+LMMlkT4DjzV+wi9UoNMhI6/JlIkdyrvQQ3N6bX4+x2U1zVmgQbBI5Rz6BrpxHB6lDffnlAjpvxSTWzszebcskc1rzuGHLhHCZufSo28wYm3RjcJGAVSLRtFNJXZVKLe9LrY=;BHF0sPwN30OeSyonhWMSRw=="
 ---
