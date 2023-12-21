@@ -2,6 +2,151 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2023-10-31-marketbeat-stock-of-the-week-uber-goes-driverless.md",
+      "title": "MarketBeat ‘Stock of the Week’: Uber goes driverless",
+      "excerpt": "The article \" MarketBeat ‘Stock of the Week’: Uber goes driverless \" first appeared on MarketBeat.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/WEN/pressreleases/21610102/",
+      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/WEN/pressreleases/21610102/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T06:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-lt-technology-services-transitions-to-smart-vehicles-with-gen-ai-on-aws-cloud.md",
+      "title": "L&T Technology Services transitions to smart vehicles with Gen AI on AWS cloud",
+      "excerpt": "Read more about L&T Technology Services transitions to smart vehicles with Gen AI on AWS cloud on Devdiscourse",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/technology/2687731-lt-technology-services-transitions-to-smart-vehicles-with-gen-ai-on-aws-cloud",
+      "originalUrl": "https://www.devdiscourse.com/article/technology/2687731-lt-technology-services-transitions-to-smart-vehicles-with-gen-ai-on-aws-cloud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T05:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-real-time-ai-is-a-game-changer-for-fintech-startups-heres-how.md",
+      "title": "Real-time AI is a game changer for fintech startups: Here’s how",
+      "excerpt": "The artificial intelligence (AI) sector in India has seen incredible growth over the last few years and is projected to",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/real-time-ai-is-a-game-changer-for-fintech-startups-heres-how/",
+      "originalUrl": "https://www.dqindia.com/real-time-ai-is-a-game-changer-for-fintech-startups-heres-how/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T04:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-31-lenskart-acquires-ai-computer-vision-startup-tangoeye.md",
+      "title": "Lenskart acquires AI computer vision startup TangoEye",
+      "excerpt": "Eyewear retailer Lenskart has acquired Chennai-based TangoEye, an AI-based computer vision startup, which analyses CCTV recordings of stores to provide analytics, optimise customer flow and ensure proper adherence to all processes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/digital-transformation-lenskart-acquires-ai-computer-vision-startup-tangoeye-3291975/",
+      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-lenskart-acquires-ai-computer-vision-startup-tangoeye-3291975/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/10/Untitled-design-2023-10-06T160116.656.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-lenskart-acquires-ai-computer-vision-startup-tangoeye-3291975/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-lenskart-acquires-ai-computer-vision-startup-tangoeye-3291975/lite/",
+      "publishedDateTime": "2023-10-31T02:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-31-redefining-robotics-control-the-g2nav-controller.md",
       "title": "Redefining robotics control: The G2Nav Controller",
       "excerpt": "At the heart of these successful endeavours lies the G2Nav – an innovative, universally compatible ground control station with radio-agnostic capabilities. The G2Nav stands as a true testament to versatility and adaptability in the field of robotics ...",
@@ -771,142 +916,6 @@
       "provider": {
         "name": "Government Technology",
         "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-president-biden-signs-executive-order-addressing-concerns-for-artificial-intelligence.md",
-      "title": "President Biden Signs Executive Order Addressing Concerns For Artificial Intelligence",
-      "excerpt": "President Joe Biden Monday signed what the administration sees as a 'landmark' Executive Order to 'seize on the promise', but also 'manage the risks' of artificial intelligence (AI).",
-      "sourceUrl": null,
-      "webUrl": "https://www.newson6.com/story/654030504da9fc06481854bc/president-biden-signs-executive-order-addressing-concerns-for-artificial-intelligence",
-      "originalUrl": "https://www.newson6.com/story/654030504da9fc06481854bc/president-biden-signs-executive-order-addressing-concerns-for-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T22:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News on 6",
-        "domain": "newson6.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-the-future-of-artificial-intelligence.md",
-      "title": "The Future of Artificial Intelligence",
-      "excerpt": "In this AI-driven age, staying informed is crucial as the future unfolds as a rich mosaic, interwoven with both challenges and opportunities Artificial Intelligence (AI) is no longer a buzzword confined to the realms of science fiction;",
-      "sourceUrl": null,
-      "webUrl": "https://kashmirreader.com/2023/10/31/the-future-of-artificial-intelligence/",
-      "originalUrl": "https://kashmirreader.com/2023/10/31/the-future-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T22:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kashmir Reader",
-        "domain": "kashmirreader.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-iust-hosts-intl-conference-on-ai-machine-learning-and-intelligent-systems.md",
-      "title": "IUST hosts int’l conference on AI, Machine Learning and Intelligent Systems",
-      "excerpt": "A two-day International Conference on Artificial Intelligence, Machine Learning, and Intelligent Systems (ICAIMLIS) was today inaugurated at Islamic University of Science and Technology (IUST). Shri Rajeev Rai Bhatnagar,",
-      "sourceUrl": null,
-      "webUrl": "https://kashmirreader.com/2023/10/31/iust-hosts-intl-conference-on-ai-machine-learning-and-intelligent-systems/",
-      "originalUrl": "https://kashmirreader.com/2023/10/31/iust-hosts-intl-conference-on-ai-machine-learning-and-intelligent-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T22:37:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kashmir Reader",
-        "domain": "kashmirreader.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-what-black-americans-should-know-about-bidens-executive-order-on-ai.md",
-      "title": "What Black Americans should know about Biden’s executive order on AI",
-      "excerpt": "In his historic order, President Biden seeks to advance equity and civil rights by directing federal agencies to establish clear […] The post What Black Americans should know about Biden’s executive order on AI appeared first on TheGrio.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/news/black-americans-know-biden-executive-223650969.html",
-      "originalUrl": "https://www.aol.com/news/black-americans-know-biden-executive-223650969.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T22:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
         "images": null,
         "publishers": null,
         "authors": null

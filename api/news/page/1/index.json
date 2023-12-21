@@ -2,6 +2,99 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-21-ai-makes-mark-in-drug-discovery-in-india-start-up-peptris-raises-1-mn.md",
+      "title": "AI makes mark in drug discovery in India; start-up Peptris raises $1 mn",
+      "excerpt": "The process of discovering and developing a new drug can take decades and costs hundreds of millions or even billions of dollars. However, technological advances like artificial intelligence can help speed up and transform the time-consuming and labor-intensive exercise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.rediff.com/business/report/ai-makes-mark-in-drug-discovery-in-india-start-up-peptris-raises-1-mn/20231221.htm",
+      "originalUrl": "https://www.rediff.com/business/report/ai-makes-mark-in-drug-discovery-in-india-start-up-peptris-raises-1-mn/20231221.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://im.rediff.com/money/2023/dec/21dec-peptris.jpg",
+          "width": 1200,
+          "height": 597,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://m.rediff.com/amp/business/report/ai-makes-mark-in-drug-discovery-in-india-start-up-peptris-raises-1-mn/20231221.htm",
+      "cdnAmpWebUrl": "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/business/report/ai-makes-mark-in-drug-discovery-in-india-start-up-peptris-raises-1-mn/20231221.htm",
+      "publishedDateTime": "2023-12-21T06:57:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "rediff.com",
+        "domain": "rediff.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-21-the-new-hr-playbook-catalyze-innovation-with-analytics-and-ai.md",
+      "title": "The New HR Playbook: Catalyze Innovation With Analytics And AI",
+      "excerpt": "Explore the exciting advancements in HR analytics powered by data and AI. Gain insights into how no-code solutions, along with metaverse and blockchain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/12/21/the-new-hr-playbook-catalyze-innovation-with-analytics-and-ai/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/12/21/the-new-hr-playbook-catalyze-innovation-with-analytics-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6583ea74bb752dfa5d2947e3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/12/21/the-new-hr-playbook-catalyze-innovation-with-analytics-and-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/12/21/the-new-hr-playbook-catalyze-innovation-with-analytics-and-ai/amp/",
+      "publishedDateTime": "2023-12-21T06:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-21-qa-how-athenahealth-moved-from-traditional-ai-to-genai-and-chatgpt.md",
       "title": "Q&A: How Athenahealth moved from traditional AI to genAI and ChatGPT",
       "excerpt": "Athenahealth has used AI for years, but generative AI opened up new efficiencies in processing healthcare requests and records. There were challenges, too, as Heather Lane, Athenahealth’s senior architect of data science and platform engineering,",
@@ -147,7 +240,7 @@
       "originalUrl": "https://www.aol.com/ai-therapy-help-ease-america-202612175.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -734,7 +827,7 @@
       "originalUrl": "https://www.foxnews.com/world/uk-supreme-court-rules-artificial-intelligence-systems-cannot-registered-patent-inventors",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -868,6 +961,57 @@
       "topics": [
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-21-ai-image-generators-trained-on-pictures-of-child-sexual-abuse-study-finds.md",
+      "title": "AI image generators trained on pictures of child sexual abuse, study finds",
+      "excerpt": "Images might have helped AI systems produce realistic sexual imagery of fake children; the database was taken down in response",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2023/dec/20/ai-image-generators-child-sexual-abuse?ref=upstract.com",
+      "originalUrl": "https://www.theguardian.com/technology/2023/dec/20/ai-image-generators-child-sexual-abuse?ref=upstract.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/657f7fcb7f847447432b65d346dbde25e8726919/0_46_4000_2400/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=0a31fc1cd00192baf8060e17d4d2a771",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2023/dec/20/ai-image-generators-child-sexual-abuse",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/dec/20/ai-image-generators-child-sexual-abuse",
+      "publishedDateTime": "2023-12-20T16:36:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -1066,153 +1210,6 @@
       ],
       "topics": [
         "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-20-how-crowdstrike-is-navigating-risks-and-ethics-for-its-generative-ai.md",
-      "title": "How CrowdStrike Is Navigating Risks And Ethics For Its Generative AI",
-      "excerpt": "CrowdStrike weighs in on how it is developing generative AI while managing the potential Pandora's box of challenges that come with it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tonybradley/2023/12/20/how-crowdstrike-is-navigating-risks-and-ethics-for-its-generative-ai/",
-      "originalUrl": "https://www.forbes.com/sites/tonybradley/2023/12/20/how-crowdstrike-is-navigating-risks-and-ethics-for-its-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/658305d10679a059770fa8e6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1500,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tonybradley/2023/12/20/how-crowdstrike-is-navigating-risks-and-ethics-for-its-generative-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2023/12/20/how-crowdstrike-is-navigating-risks-and-ethics-for-its-generative-ai/amp/",
-      "publishedDateTime": "2023-12-20T15:22:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-20-dont-bet-amd-stock-can-rise-on-150-billion-ai-chip-market.md",
-      "title": "Don’t Bet AMD Stock Can Rise On $150 Billion AI Chip Market",
-      "excerpt": "With AMD behind in GPU software and the company's data center revenues expected to grow at 30% a year through 2027, the stock already reflects very optimistic assumptions",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/petercohan/2023/12/20/dont-bet-amd-stock-can-rise-on-150-billion-ai-chip-market/",
-      "originalUrl": "https://www.forbes.com/sites/petercohan/2023/12/20/dont-bet-amd-stock-can-rise-on-150-billion-ai-chip-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6582efedd0a98bf71fdf87cd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1353,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/petercohan/2023/12/20/dont-bet-amd-stock-can-rise-on-150-billion-ai-chip-market/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/12/20/dont-bet-amd-stock-can-rise-on-150-billion-ai-chip-market/amp/",
-      "publishedDateTime": "2023-12-20T14:57:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-20-skyline-robotics-closes-98m-round-to-bring-automated-window-washing-worldwide.md",
-      "title": "Skyline Robotics closes $9.8M round to bring automated window washing worldwide",
-      "excerpt": "Skyline Robotics, which won a 2023 RBR50 Robotics Innovation Award, has raised more funding for its Ozmo window-cleaning robot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/skyline-robotics-closes-9-8m-round-to-bring-automated-window-washing-worldwide/",
-      "originalUrl": "https://www.therobotreport.com/skyline-robotics-closes-9-8m-round-to-bring-automated-window-washing-worldwide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/12/large-skyline-robotics-close-up.jpg",
-          "width": 770,
-          "height": 505,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-20T14:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

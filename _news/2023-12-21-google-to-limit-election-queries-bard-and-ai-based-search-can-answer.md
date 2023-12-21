@@ -119,6 +119,20 @@ related:
         width: 1069
         height: 580
         isCached: true
+  - title: "Alphabet to Reduce Election Queries Bard and AI-based Search Answer"
+    excerpt: "United States Presidential election, various tech companies have found themselves in tight positions. One such is Alphabet"
+    publishedDateTime: 2023-12-21T07:58:00Z
+    webUrl: "https://techreport.com/news/alphabet-to-reduce-election-queries-bard-and-ai-based-search-answer/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 39
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2023/12/Apple-Watch.jpg"
+        width: 752
+        height: 379
+        isCached: true
   - title: "Google plans to restrict election-related queries in 2024 on Bard"
     excerpt: "Google, the internet giant now a subsidiary of Alphabet, announced on Tuesday that it will limit the kinds of queries related to elections that its chatbot Bard and search generative experience can answer ahead of the 2024 U.S. Presidential election."
     publishedDateTime: 2023-12-20T00:53:00Z
@@ -156,6 +170,20 @@ related:
       name: AOL
       domain: aol.com
     quality: 17
+  - title: "Google Approaches US Elections With Caution, Restricts Election-Related Queries For Bard, SGE"
+    excerpt: "Facebook owner Meta announced it would restrict political campaigns and advertisers from using its new generative AI advertising products."
+    publishedDateTime: 2023-12-21T07:08:00Z
+    webUrl: "https://www.ibtimes.co.uk/google-approaches-us-elections-caution-restricts-election-related-queries-bard-sge-1722314"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 13
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1722031/us-elections.jpg"
+        width: 1920
+        height: 1282
+        isCached: true
 
 secured: "TSHik4Zzccyug6t49Y3Gob+wFWXd8APhxdFjry42HUYsSDVLHXBu3j/PR/C6eKpYuNMyCHwB82BNW4RcPZ2DZBCWOPROqlsy7SGQdPTqgG+WDnSoYjDNtqjzB4qNPKYVfjiQGq75kvQ2yE9b96O4RUs/y/tJqDikpD6ZXe436KBiv90gM2k74eyXLrQRx0M6AiEIHijJh5TZ1b2LdlLpOqySpTwG6kUh3JJjzw2oav9kkgbhDlm4c1cms29c5CPvC8T/zyYZ2k4QQpTmMnRDj42T/OO0BEI4JTBbSwWPCYAmLaX2vMt1R/HQmkxh1uUjrpiQ5nOHM4xA07WMTi91aNY0ZdZFCDA1PVUFQz0nriqWrVHO5KHgvE49Tb9Anx8a49OuI9vNyIyvoguADqYxLJ+E4i6ZBSuXFYVYPM4mz+51jh+cjZVQBVKaLOvxb7Ijd6wD5ZqiN4MpPHRBp2gT2uXd5ti7wui8IABxJjGJStP6jvtRp9LFvZgP5NY4ar5NdejgkwYn3d1F/ofbzG4TeQ==;QiQ7ieSwKJzRboU3h/uHJw=="
 ---

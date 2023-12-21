@@ -73,6 +73,22 @@ related:
       name: BBC
       domain: bbc.com
     quality: 47
+  - title: "Instagram Reels Outperform TikTok for Brand-Owned Video Content; UK Supreme Court Confirms AI Can’t be Named as Patent Inventor"
+    excerpt: "On today’s ExchangeWire digest: Instagram Reels Outperform TikTok for Brand-Owned Video Content; UK Supreme Court Confirms AI Can’t be Named as Patent Inventor; AUS Proposed Ban on Gambling Ads Met with Resistance"
+    publishedDateTime: 2023-12-21T08:00:00Z
+    webUrl: "https://www.exchangewire.com/blog/2023/12/21/instagram-reels-outperform-tiktok-for-brand-owned-video-content-uk-supreme-court-confirms-ai-cant-be-named-as-patent-inventor/"
+    ampWebUrl: "https://www.exchangewire.com/blog/2023/12/21/instagram-reels-outperform-tiktok-for-brand-owned-video-content-uk-supreme-court-confirms-ai-cant-be-named-as-patent-inventor/?amp"
+    cdnAmpWebUrl: "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2023/12/21/instagram-reels-outperform-tiktok-for-brand-owned-video-content-uk-supreme-court-confirms-ai-cant-be-named-as-patent-inventor/?amp"
+    type: article
+    provider:
+      name: exchangewire.com
+      domain: exchangewire.com
+    quality: 31
+    images:
+      - url: "https://www.exchangewire.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
 
 secured: "WMquSm+Qo1ma8paE0cH07eehelw9mY61QuxSilCvSFUwZ8ai0use3iPv4dHZTZakj5qtPcWhogMRn1JbLlY4hTaghDEVzZNdBSqVXb6UuhEY7BEnF1NrLZmGQf7zAo5o4d9j3ynnJLgTBN5z/P0vAmdvD3maf5tsKVFdrOutv2Z5vi/FavJomieRzBEhr/ErdXVK8Lj0AyQ/D41vcL836seTIGEiqTkmDepNTUvkDK3HohwB6wRcM5Y1KtYXukxFPP7pslAYmi1MgbLRc5gF0rK3g+XzdPe/EwVL/6TZoV7Zk4q0432pKsKB3gW4XlZklVlLaW7moz3P899wagSv3OQiQGEoKQLotOpoLHyRAeDbtdqsNfZDD1yAgLd4SfQJuYCsKbffJGy0TQt2375W8Yi5L7qOELtJ93+UoSP07dEdiWiv4IVXpb1vwYW0HQ3LOUyhRnqiPrU8dYR2OishlSorCJVEwTpOl1vzDWK2oy2JfLReeIoouRheQuRJfVjJfQjTT/io5L2z1vKR+RXyHQ==;1Uv5GHapoAH8tbQ57tgvbw=="
 ---

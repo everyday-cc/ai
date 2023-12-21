@@ -34,6 +34,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Study shows AI image-generators being trained on explicit photos of children"
+    excerpt: "Hidden inside the foundation of popular artificial intelligence image-generators are thousands of images of child sexual abuse, according to a new report."
+    publishedDateTime: 2023-12-21T07:34:00Z
+    webUrl: "https://www.kotatv.com/2023/12/21/study-shows-ai-image-generators-being-trained-explicit-photos-children/"
+    ampWebUrl: "https://www.kotatv.com/2023/12/21/study-shows-ai-image-generators-being-trained-explicit-photos-children/?outputType=amp"
+    cdnAmpWebUrl: "https://www-kotatv-com.cdn.ampproject.org/c/s/www.kotatv.com/2023/12/21/study-shows-ai-image-generators-being-trained-explicit-photos-children/?outputType=amp"
+    type: article
+    provider:
+      name: KOTA TV
+      domain: kotatv.com
+    quality: 54
+    images:
+      - url: "https://gray-kota-prod.cdn.arcpublishing.com/resizer/v2/PMZ65TUILBH7HIM2H4QTBCGWZY.jpg?auth=da174f320edeb60b2beb1f6027af58c0e29c3ea189176e5182e35f9fe97e032f&width=800&height=450&smart=true"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "r0nf1kt50aHgyvvWJPjbsWsMb4Ujt2/V6Go7NoH6BBrBqrw1d9MX18wTSpnLYaKaSV3lIj4SV1YaUFZPimZyGTi4+y61Mk1IPoZGV9cL1YSkkPjjmos9nTSryVOwDjYWjqi4gjdutCLV1OgOkOSSsJvInkC/H+vMw/L51FQCC+Zqo9QAIi4GJdcm+CaU12HdQgS0qrV9A9tC59tyGcHaf9YjdtOBVW66HKoE6rnZMStqnZ4YmtnFub0QHesfAkonkvlj6CzUEuauBqqic+qG4mNr0biiTfGEftxaCT6kIsVGVB5UI7M3VYjpbgA5jk8qAUcwsHxD8SBsBqCLz7t/lGgLMPrzHl6LESEykZaUQmhMFLT7wSfsskSJMXpTV4pS6nJqE7UxHvLMC5yVJc6lOvUQwgd/GGRdVnlnCLcDsJrkVDx5JAGC7o5/NzlcbnOAEgj+Ik2R5TZkhvbSc6hjVPTSCiyemgStZHuDRt097kFi2If9//O6Voiv4c3otctDwJMCMW2+uBtenmbJzbrjUA==;l7kRF5rBJbCstZPpDRNbjw=="
 ---

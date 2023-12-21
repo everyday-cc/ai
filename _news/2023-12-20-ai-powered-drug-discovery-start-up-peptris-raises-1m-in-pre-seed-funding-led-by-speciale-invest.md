@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI makes mark in drug discovery in India; start-up Peptris raises $1 mn"
+    excerpt: "The process of discovering and developing a new drug can take decades and costs hundreds of millions or even billions of dollars. However, technological advances like artificial intelligence can help speed up and transform the time-consuming and labor-intensive exercise."
+    publishedDateTime: 2023-12-21T06:57:00Z
+    webUrl: "https://www.rediff.com/business/report/ai-makes-mark-in-drug-discovery-in-india-start-up-peptris-raises-1-mn/20231221.htm"
+    ampWebUrl: "https://m.rediff.com/amp/business/report/ai-makes-mark-in-drug-discovery-in-india-start-up-peptris-raises-1-mn/20231221.htm"
+    cdnAmpWebUrl: "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/business/report/ai-makes-mark-in-drug-discovery-in-india-start-up-peptris-raises-1-mn/20231221.htm"
+    type: article
+    provider:
+      name: rediff.com
+      domain: rediff.com
+    quality: 57
+    images:
+      - url: "https://im.rediff.com/money/2023/dec/21dec-peptris.jpg"
+        width: 1200
+        height: 597
+        isCached: true
   - title: "AI-powered Drug Discovery start-up Peptris raises $1 million in pre seed funding"
     excerpt: "Peptris is broadening its research scope to include rare diseases, in addition to its ongoing work in oncology and inflammation, the company stated."
     publishedDateTime: 2023-12-19T10:48:00Z

@@ -3,10 +3,10 @@ category: news
 title: "Should Artificial Intelligence Have Rights?"
 excerpt: "The utility and role of artificial intelligence (AI) in society are growing by leaps and bounds. And the very nature of these \"thinking machines\" has sparked a hypothetical discussion that is both fascinating and troubling: Should artificial intelligence entities be granted rights?"
 publishedDateTime: 2023-12-18T18:25:00Z
-originalUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202312/should-artificial-intelligence-have-rights"
-webUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202312/should-artificial-intelligence-have-rights"
-ampWebUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202312/should-artificial-intelligence-have-rights?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-digital-self/202312/should-artificial-intelligence-have-rights?amp"
+originalUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202312/should-artificial-intelligence-have-rights"
+webUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202312/should-artificial-intelligence-have-rights"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202312/should-artificial-intelligence-have-rights?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-digital-self/202312/should-artificial-intelligence-have-rights?amp"
 type: article
 quality: 57
 heat: 67
@@ -36,6 +36,6 @@ related:
       domain: dailytimes.com.pk
     quality: 19
 
-secured: "iJtv/ivgN7oChtgF8xASBy1KNm9e2UoqUHeHSP9mQlniLjHlF9MnTLDgxJ3AQUKe3SAw9LKWWP7UgqWl/m5WBBEmVinOaWQib2XeT1bAqrlvJPGoG949DNtFMJvCxkITOoCPQ7AfgEGRT4D7f4s4cRT+YtvYVthWq8hgVkEiuhcEP1xCCq3N47OVh4ih65slyskXVVWTe51xWbefBuMXQgkF2+IH2Nh8xiTNb5QMaBgvge5ApMIEPycvgwZ98nrz4dXdZ8iVVhch0L9twnn86IgK6TK0e4b3+srqOnW5yFSqHeE+KLSrnaO3/79uL0fHmmVLyUfQPtCohCdMT6VlFw88Yx4DnAtOAQnPgMKaFWz9K1ZtSVLQ5WmlN0YaMl9VBvBAdluXJNxiyIgBt4BE2yakLHfCk/NTJP8ZbIOvOQCQDrAVt7t84ZloGpDG2tsCTd69EKUyT9BTvnnYbju0RDR88nUUT4eRgkRYWXG3MKkp79y8sifhgLdO3tPg/XPAF6/57Sg4H5oALq+i6QDatw==;IXfh3d3PZri6jsqVzzVubQ=="
+secured: "swmq8PA97UCPTT/rJrCDLjC1ZZsZebpxs1Gvi7Q+ecGzcT06HxZ068/W2Iors8tjNN3Q3qaZHxgOJHBHupdpn3KPIrKX+deZ70YyP1SvcIwOza053f6+s+1rFsEBE460B48N8iokUGRcT16NLxHCLXU+DcYC8hdcUbznDpubAI8dXvNkvL2n1IX7NXQavj95nxXmCGsVvXtBmeFMkyaa8+fzYkvDVKiB1o4Eb55aMzce1g1SeTk9KJRWyTXLEVbeGdqgh1pGJmMAbd2iAzUx/2TXIRVUGJEfF9FGdkz8/F+Gz6Is7VVrYt+GQE3jMP4cFxpDGYk3E/pn4sQHHu1PgYmgI8C0ZkJa8S58CxMejbU=;y+CUI0TNkYAokSgeZ3scDA=="
 ---
 

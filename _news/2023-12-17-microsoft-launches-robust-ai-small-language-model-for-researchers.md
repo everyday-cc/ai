@@ -291,6 +291,20 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "Coforge collaborates with Microsoft to use Generative AI to empower next-gen solutions for enterprises"
+    excerpt: "Coforge has announced an initiative with Microsoft Azure OpenAI Service to aid the adoption of Generative Artificial Intelligence (AI) across enterprises. Coforge’s Generative AI solutions offer enterprises a comprehensive toolkit to address complex challenges and unlock new growth opportunities using AI."
+    publishedDateTime: 2023-12-21T07:57:00Z
+    webUrl: "https://technuter.com/artificial-intelligence/coforge-collaborates-with-microsoft-to-use-generative-ai-to-empower-next-gen-solutions-for-enterprises.html"
+    type: article
+    provider:
+      name: technuter.com
+      domain: technuter.com
+    quality: 38
+    images:
+      - url: "https://technuter.com/wp-content/uploads/2022/03/Coforge.jpg"
+        width: 450
+        height: 397
+        isCached: true
   - title: "Microsoft Only Cloud Giant 'Leader' in AI Governance Research Report"
     excerpt: "In fact, among the largest general cloud computing platforms, IBM is the only other player covered in the 'IDC MarketScape: Worldwide AI Governance Platforms 2023 Vendor Assessment,' with fellow hyperscalers AWS and Google Cloud Platform not included."
     publishedDateTime: 2023-12-18T19:52:00Z

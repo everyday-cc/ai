@@ -69,6 +69,22 @@ related:
       name: BBC
       domain: bbc.com
     quality: 47
+  - title: "Instagram Reels Outperform TikTok for Brand-Owned Video Content; UK Supreme Court Confirms AI Can’t be Named as Patent Inventor"
+    excerpt: "On today’s ExchangeWire digest: Instagram Reels Outperform TikTok for Brand-Owned Video Content; UK Supreme Court Confirms AI Can’t be Named as Patent Inventor; AUS Proposed Ban on Gambling Ads Met with Resistance"
+    publishedDateTime: 2023-12-21T08:00:00Z
+    webUrl: "https://www.exchangewire.com/blog/2023/12/21/instagram-reels-outperform-tiktok-for-brand-owned-video-content-uk-supreme-court-confirms-ai-cant-be-named-as-patent-inventor/"
+    ampWebUrl: "https://www.exchangewire.com/blog/2023/12/21/instagram-reels-outperform-tiktok-for-brand-owned-video-content-uk-supreme-court-confirms-ai-cant-be-named-as-patent-inventor/?amp"
+    cdnAmpWebUrl: "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2023/12/21/instagram-reels-outperform-tiktok-for-brand-owned-video-content-uk-supreme-court-confirms-ai-cant-be-named-as-patent-inventor/?amp"
+    type: article
+    provider:
+      name: exchangewire.com
+      domain: exchangewire.com
+    quality: 31
+    images:
+      - url: "https://www.exchangewire.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
   - title: "AI machine cannot be called an inventor, rules UK court"
     excerpt: "The UK’s Supreme Court has ruled that a machine cannot be named on a patent as the inventor of new products or ideas, in a landmark decision that tackles the issue of who — or what — can claim credit for innovative creations."
     publishedDateTime: 2023-12-20T11:43:00Z

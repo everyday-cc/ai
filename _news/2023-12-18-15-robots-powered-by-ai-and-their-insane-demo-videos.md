@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/best-ai-robots-of-2023-robot-demo-videos-9069858/lite/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1600
     height: 900
     isCached: true
+
+related:
+  - title: "Otermans Institute launches the world's first AI-powered course taught completely by AI teachers"
+    excerpt: "LONDON, Dec. 21, 2023 /PRNewswire/ -- After the successful public launch of the world's first digital human teacher in August 2023, Otermans Institute (OI) has taken a bold step in transforming the educational landscape as its AI-powered teachers are now teaching an entire 9-lesson course in universities and institutions across 4 continents."
+    publishedDateTime: 2023-12-21T07:54:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/otermans-institute-launches-the-world-s-first-ai-powered-course-taught-completely-by-ai-teachers-1032918141"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
+    images:
+      - url: "https://mma.prnewswire.com/media/2305794/Otermans_Institute.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "gCOnTIUkCA5A0m47xAreU5uUyL6VA5SY1pUUt7Bz+HsOm5qsU392vxkjzWYKE2ycQKSWSYV3tiRJurQ5qrowQVQT0Su1h3lkF778aAqK8hfh6tPXwr2VCpEP8YUSqsCAyFyp6/qDccM6dsRupXZdYLNU5bYolhv01+A/1sQXPluAOKb73U4V6q2EOcYe2XaZ4K//AYJWQRLBPZ2xdB6MWoV7Aso0Lm29dKm2hy0E93GPZpbJMO7YoS/ygV+tfH4aQjl6Y0ahvMEL3oZv/pUY7/SdYKA3dkB+hsT0t37xOShIdMxUoRPDTwm/qeciP61nYjjRqheQb2VzSlyMS0dePye2lMD3JYg5dlK4fRPXcsbg1X+KWk6AdKzwwv6BOilhWqq+VaFDzO5ux7akrBnQ113jfeMhU9QIATWsN7KqIiM9UxZmZS6YFBINU2ALPR/mtrhy7yQx4Y5AK5Q4WkcFOOoAnV/3cj5MFtGx27XkhdCxtv/4BjpIOiF3Srr8myLEaeWACGU6/+y1k3B245bndQ==;B8N06Lymx+hqu+gBW8KPPQ=="
 ---

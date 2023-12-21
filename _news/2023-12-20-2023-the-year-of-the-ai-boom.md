@@ -54,20 +54,6 @@ related:
         width: 1200
         height: 400
         isCached: true
-  - title: "2023: The year we played with artificial intelligence — and weren't sure what to do about it"
-    excerpt: "Artificial intelligence went mainstream in 2023 — it was a long time coming yet has a long way to go for the technology to match people’s science fiction fantasies of"
-    publishedDateTime: 2023-12-16T07:45:00Z
-    webUrl: "https://www.postregister.com/features/smart_living/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about/article_13cbcccc-9ade-11ee-b96a-ab82c4cbc1f2.html"
-    type: article
-    provider:
-      name: Post Register
-      domain: postregister.com
-    quality: 26
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/assets/v3/editorial/7/53/753df2e6-9ade-11ee-bc9d-5b9585ff2d7f/657b99ce29e24.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Music AI in 2023: a database of tools"
     excerpt: "It almost feel superfluous to say it, but 2023 has unequivocally been The Year Of AI. Music Ally has reported on the various music AI developments as closely and quickly as we could, although the"
     publishedDateTime: 2023-12-19T13:55:00Z

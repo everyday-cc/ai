@@ -25,61 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "Google Shapes Gemini AI Tools For Developers"
-    excerpt: "AI is changing and it will continue to do so - although this year of generative AI stands out as a seminal moment in time - now we need the right developer tools."
-    publishedDateTime: 2023-12-16T09:10:00Z
-    webUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/12/16/google-shapes-gemini-ai-tools-for-developers/"
-    ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/12/16/google-shapes-gemini-ai-tools-for-developers/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/12/16/google-shapes-gemini-ai-tools-for-developers/amp/"
+  - title: "Ethical Considerations in Google’s AI Development: A Closer Look"
+    excerpt: "Introduction: In the realm of artificial intelligence (AI) development, Google stands as a juggernaut, pushing the boundaries of innovation. However, the journey toward AI excellence is not without its ethical challenges."
+    publishedDateTime: 2023-12-16T10:11:00Z
+    webUrl: "https://techbullion.com/ethical-considerations-in-googles-ai-development-a-closer-look/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Impacts
+      domain: techbullion.com
+    quality: 54
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/657d683b20807ddde92b89ef/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 640
-        height: 315
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/Ethical-Considerations-in-Googles-AI-Development-A-Closer-Look.jpg"
+        width: 650
+        height: 450
         isCached: true
-  - title: "Google's Gemini: Is the new artificial intelligence model really better than ChatGPT?"
-    excerpt: "Google Deepmind has recently announced Gemini, its new AI model to compete with OpenAI's ChatGPT. While both models are examples of “generative AI”, which learn to find patterns of input training information to generate new data (pictures, words or other media), ChatGPT is a large language model (LLM) which focuses on producing text."
-    publishedDateTime: 2023-12-17T01:00:00Z
-    webUrl: "https://tech.hindustantimes.com/opinion/googles-gemini-is-the-new-artificial-intelligence-model-really-better-than-chatgpt-71702736181690.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/opinion/googles-gemini-is-the-new-artificial-intelligence-model-really-better-than-chatgpt-71702736181690.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/opinion/googles-gemini-is-the-new-artificial-intelligence-model-really-better-than-chatgpt-71702736181690.html"
+  - title: "How AI In Software Development Improves Data And Decision Making"
+    excerpt: "Keeping track of AI development is a real challenge. Just when you think the progress has reached its peak, a mindblowing innovation hits the news.  A number of major industries, including healthcare,"
+    publishedDateTime: 2023-12-17T23:57:00Z
+    webUrl: "https://techbullion.com/how-ai-in-software-development-improves-data-and-decision-making/"
     type: article
     provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 69
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2023/12/17/1600x900/Google_Gemini_1701885704849_1702774698630.png"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "New Google Labs Design Includes AI Tools For Search & Creativity"
-    excerpt: "Discover the new Google Labs design with 12 AI experiments demonstrating the future of generative AI in search, productivity, and business."
-    publishedDateTime: 2023-12-20T09:14:00Z
-    webUrl: "https://www.searchenginejournal.com/new-google-labs-design-includes-ai-tools-for-search-creativity/504431/"
-    type: article
-    provider:
-      name: Searchenginejournal.com
-      domain: searchenginejournal.com
+      name: Impacts
+      domain: techbullion.com
     quality: 39
     images:
-      - url: "https://www.searchenginejournal.com/wp-content/uploads/2023/12/google-labs-redesigned-ai-experiements-business-creativity-productivity-search-6582a44042438-sej.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/thumbnailHEYBEIPE-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
-  - title: "Google Gemini AI: Multimodal, GPT-4 Competitor, and More"
-    excerpt: "Google Gemini AI models have set a new benchmark in the AI industry and it is being touted to outrank OpenAI's GPT-4 model."
-    publishedDateTime: 2023-12-18T02:06:00Z
-    webUrl: "https://beebom.com/google-gemini-ai/"
-    type: article
-    provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 19
 
 secured: "q/ZCAm+cP3CS4fZg+gHYHGcv55cTl8/mziykKoyhPh7bZKskxB5Thlq2+P3c2OW9WCgQ/mvgYzBny0i/l/1p7tqCxX6TkN+WC7SeU0dH0eGPng9DeRT/sXf9NLLwcNlpgihCP7RJufuqbCSZ+iyufx/pSm+UTHEbUkmu/kHTzQqoa3EAviParkKS7B2GMdLOMgsptssSMs/0jz1WwQ1/d1NBr67CJz3VaBvRYLpuchuxls698PNVCausb+opW/6RZodd5HSQZ4VUh57zWSxLf0sLO+wS3cEZses8rBGrfruSJS947oIwYiYfMRwZsD8VAo0q4ckuqkbbBSkLwDA4fSk2VzJKiZymQkOERIdAj+w=;Shej1265QIdLZ1fdWLI0xA=="
 ---

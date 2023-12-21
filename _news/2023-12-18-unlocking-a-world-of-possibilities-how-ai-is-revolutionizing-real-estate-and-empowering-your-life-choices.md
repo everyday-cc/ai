@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/18/unlock
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/12/18/unlocking-a-world-of-possibilities-how-ai-is-revolutionizing-real-estate-and-empowering-your-life-choices/amp/"
 type: article
 quality: 71
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 767
         height: 633
         isCached: true
+  - title: "REPLY: Storm Reply Launches RAG-based AI Chatbot for Audi, Revolutionising Internal Documentation"
+    excerpt: "The new internal AI chatbot, developed by Storm Reply, gives employees at Audi uncomplicated, fast, and secure access to information. This allows the company to break down knowledge silos and realize better decisions, more efficient processes, and ultimately cost reductions. (Photo: Reply)"
+    publishedDateTime: 2023-12-21T08:44:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/12/21/9937411.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 6
 
 secured: "UaM4iMDSLceM3d+CeJI7HyYCrDGkl6IIZweYKkWBcWQnBL/KCP9Qq3AGS+EL43xFV+0VWl3F/V63MO2bb2Csf491UKw27SGSZ6uHBoAZ/nQVDl8mr1cIWzFoZOGl45RnMZ0Ezbre1qN4qrjdcsqV0gxghPdBIIuQAnzEukcXoXcDrcmn7uRcIKaOMGCZlw+xRqsyHW7uC8JLIfdDnEMA8aKNNpqziAS6LCY7rIdMT6OGlCZu/dyc968D/w7dcv7YymxUmfu8eLW8apf+OPw6nBpimeCv8523BJAn5ey/yrOF+TWDmLFEiezDPZo4tbKAdpApmwIisdTuUAWseEdKu9LzdWooLzJE2V69Doupeafd6WSlBagl6xcXU4uGfRF2ibJpKxlpa82Bbzvu51DD7l8+n0LCx2SVOJ350LF/fFErBEExgXxp8EuBkf54teLxsY7MPlXHG9lpMDxYNHchK2ttVgDav22kjw07xQfwJ7iyIqZS2js542Zbh0E11cj2BjWAioDIo6qiez2mo4PWjw==;9EPBKWNWmNiypOTZxXHatg=="
 ---

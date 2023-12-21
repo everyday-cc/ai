@@ -7,8 +7,8 @@ originalUrl: "https://techbullion.com/ethical-considerations-in-googles-ai-devel
 webUrl: "https://techbullion.com/ethical-considerations-in-googles-ai-development-a-closer-look/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Impacts
@@ -38,6 +38,20 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2023/12/thumbnailHEYBEIPE-1000x600.jpg"
         width: 1000
         height: 600
+        isCached: true
+  - title: "The state of AI development According to Google"
+    excerpt: "Few advancements could cause both the excitement and fear AI elicits - according to some, it's the solution to humanity's problems. Others will tell you it's the beginning of the end of civilisation as we know it."
+    publishedDateTime: 2023-12-19T12:00:00Z
+    webUrl: "https://www.ibc.org/features/the-state-of-ai-development-according-to-google/10589.article"
+    type: article
+    provider:
+      name: IBC
+      domain: ibc.org
+    quality: 39
+    images:
+      - url: "https://d3dh6of9cnaq4t.cloudfront.net/Pictures/1024x536/1/2/1/26121_googleai1_787615.jpg"
+        width: 1024
+        height: 536
         isCached: true
 
 secured: "owSzmZhCWe/hFBxSdjDkaMH76ijMowNAVZpSdL31Am9rtm1vgB138cbeCMk8B0ZHIVLVf6FMFMp7r0PnOb58I1ayXTm0CEXe80wTj5t9sdpeZFqCMjrtKLeOw0c2fvY6D0eTPmZmX2qRIsZxnzCOxHAKqe1fAoA9QLUtLQ71tbvgQDTlDT+rpTT713WPPOYX1r3PYN6Y5ibeTuAGZ6LYCoB0EcCvuMhFZfspYHWjUMzK/J6pecYnSXeg1F8BV7Y3qM60qQAGgUY5tq3sJ4/FSqjMV3TnVVMDsLhMPlWXVtXGzv09+jqHfHmacMASJLw2fX0qkJ4cXzOB6UfZ4FG84egNOkloV/mMBfuUorWzu32S0+kb0BtjZoo4nJBjyCE7u4EVcLN3GaSilbX3K6Nvu+5sfOsAfsUbQ29Tbot0+nFKiAI9ZUIjynCQtlqZDk2QD3YJe8bjgIPYGwnEezLNa8d/XQabjILlkYJ699fncn1/orrZzGHsMvibLUjq7HsUUEK0xvYLW0fpaPiya9G6HQ==;Il4bNl6ai6g+zchJyZqKyg=="

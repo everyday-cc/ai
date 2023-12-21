@@ -54,6 +54,15 @@ related:
         width: 767
         height: 633
         isCached: true
+  - title: "REPLY: Storm Reply Launches RAG-based AI Chatbot for Audi, Revolutionising Internal Documentation"
+    excerpt: "The new internal AI chatbot, developed by Storm Reply, gives employees at Audi uncomplicated, fast, and secure access to information. This allows the company to break down knowledge silos and realize better decisions, more efficient processes, and ultimately cost reductions. (Photo: Reply)"
+    publishedDateTime: 2023-12-21T08:44:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/12/21/9937411.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 6
 
 secured: "swPf0d4BBATinxrgdjc1+1AfcUpLa5U1FuyUsgja7j4+DN/MuyCHyfz9SEswEkeC0JjmZfUtypxFsX5Uk47IJo0tJmz/wXGef2G797RDzqgOfSkFofvzonnzJtv4+aoREkfvz1p+WqcDmCl2QoptsqEjBzyrGv492d3GwASlkIGQ74ZfACclpNEq4nfVvH2pIur6Zvm06ZWTeBLz+bYr7YQOrxov6hsOmTaKHEdam88HecSttZNxiCvGO/vnkpERDfMobT+sHxXgejOVkTFq4VHF9w2f0BVBrI6mijvLnwpDocrDJtESDfswHamScAoJeGsLUNRNMo1k0IlAHycWOoDw3GE7Pi0CsZ/Te2gnvUFk5e9OSukWnrcxJjVdATQp7lTEd8hcNdRfwjBkKWkzc64DK48sT+AGf/PZ6/8jsyfA5oUXBZIjCwFIonSekBYC3CRupqtm0C/fr1VUf4IDw1jUcRT8/iOzx7wZM1VndQAuzjy859YEWwNTZdYBrzLP/swvlsXmn4WwaXElydZUzg==;lglrEWAtCKo3iS9nCH0JAA=="
 ---

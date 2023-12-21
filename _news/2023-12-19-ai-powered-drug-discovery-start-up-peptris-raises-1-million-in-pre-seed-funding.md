@@ -9,8 +9,8 @@ ampWebUrl: "https://www.financialexpress.com/healthcare/healthtech/ai-powered-dr
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/healthcare/healthtech/ai-powered-drug-discovery-start-up-peptris-raises-1-million-in-pre-seed-funding/3342505/lite/"
 type: article
 quality: 52
-heat: 82
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Financial Express
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI makes mark in drug discovery in India; start-up Peptris raises $1 mn"
+    excerpt: "The process of discovering and developing a new drug can take decades and costs hundreds of millions or even billions of dollars. However, technological advances like artificial intelligence can help speed up and transform the time-consuming and labor-intensive exercise."
+    publishedDateTime: 2023-12-21T06:57:00Z
+    webUrl: "https://www.rediff.com/business/report/ai-makes-mark-in-drug-discovery-in-india-start-up-peptris-raises-1-mn/20231221.htm"
+    ampWebUrl: "https://m.rediff.com/amp/business/report/ai-makes-mark-in-drug-discovery-in-india-start-up-peptris-raises-1-mn/20231221.htm"
+    cdnAmpWebUrl: "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/business/report/ai-makes-mark-in-drug-discovery-in-india-start-up-peptris-raises-1-mn/20231221.htm"
+    type: article
+    provider:
+      name: rediff.com
+      domain: rediff.com
+    quality: 57
+    images:
+      - url: "https://im.rediff.com/money/2023/dec/21dec-peptris.jpg"
+        width: 1200
+        height: 597
+        isCached: true
   - title: "AI-powered Drug Discovery start-up Peptris raises $1M in pre-seed funding led by Speciale Invest"
     excerpt: "Peptris, through its AI platform, aims to transform the traditionally lengthy ... This investment aligns with Speciale Invest’s mission to support deep tech start-ups set to revolutionize their industries through scientific research and innovative ..."
     publishedDateTime: 2023-12-20T04:19:00Z

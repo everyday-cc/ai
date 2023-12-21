@@ -39,6 +39,20 @@ related:
         width: 650
         height: 450
         isCached: true
+  - title: "The state of AI development According to Google"
+    excerpt: "Few advancements could cause both the excitement and fear AI elicits - according to some, it's the solution to humanity's problems. Others will tell you it's the beginning of the end of civilisation as we know it."
+    publishedDateTime: 2023-12-19T12:00:00Z
+    webUrl: "https://www.ibc.org/features/the-state-of-ai-development-according-to-google/10589.article"
+    type: article
+    provider:
+      name: IBC
+      domain: ibc.org
+    quality: 39
+    images:
+      - url: "https://d3dh6of9cnaq4t.cloudfront.net/Pictures/1024x536/1/2/1/26121_googleai1_787615.jpg"
+        width: 1024
+        height: 536
+        isCached: true
 
 secured: "FgySw/XmzRxvJXGnr4wrafLb3XUQSguOC0xuq1Ye1OVlWtdjBg2ikBrVm45sPFMjffIQu+gFLULnHt8/gQpWOF00Njss52ZOYge9IClBU9iNyiMIC+2aOmezVg8DgJ4/6tFYsF4WCYp8B2Gbiu7faJR2LlU91bVOZuorvqiPkz2ehC+1mElXGEXs7mb1zrMBl2k0voQ+uWFDXAr8bCn+dVEOxOPROLYMHT7UdyesbKhDYm9cP3E6MqK1xI5uUPXp5Da55zHWoiIC0AJ50ASKjUf6tUxZqP4JctQnW5WgSJAg6kYTd0p0sLq+ixsdGIwXibIuw49PGR/+LdgTIz1xrrf8EycfMyTyy6xaZS4s5po=;fvp6ZVXGVtFR7ht75K1xLg=="
 ---
