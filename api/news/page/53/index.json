@@ -2,6 +2,161 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2023-11-09-ai-speculation-dominates-cloud-native-conference.md",
+      "title": "AI Speculation Dominates Cloud Native Conference",
+      "excerpt": "While talk of AI overshadowed other topics during the first day of KubeCon NA, customers and vendors alike are focused on more practical matters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/justinwarren/2023/11/08/ai-speculation-dominates-cloud-native-conference/",
+      "originalUrl": "https://www.forbes.com/sites/justinwarren/2023/11/08/ai-speculation-dominates-cloud-native-conference/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/654baf04eb3ddcc2d1029c73/0x0.jpg?format=jpg&crop=1454,818,x0,y75,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/justinwarren/2023/11/08/ai-speculation-dominates-cloud-native-conference/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/justinwarren/2023/11/08/ai-speculation-dominates-cloud-native-conference/amp/",
+      "publishedDateTime": "2023-11-08T16:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-08-gm-to-update-cruise-software-so-self-driving-cars-stop-if-a-pedestrian-is-pinned-underneath.md",
+      "title": "GM to update Cruise software so self-driving cars stop if a pedestrian is pinned underneath",
+      "excerpt": "A Cruise self-driving car dragged a pedestrian in October. Cruise says an update should keep the cars stationary if a similar incident occurs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/gm-update-cruise-self-driving-software-after-pedestrian-accident-2023-11",
+      "originalUrl": "https://www.businessinsider.com/gm-update-cruise-self-driving-software-after-pedestrian-accident-2023-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/654bacad3cc84b4dfafe88e3?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/gm-update-cruise-self-driving-software-after-pedestrian-accident-2023-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gm-update-cruise-self-driving-software-after-pedestrian-accident-2023-11?amp",
+      "publishedDateTime": "2023-11-08T15:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-08-point-predictive-wins-lendtech-of-the-year-at-the-2023-us-fintech-awards.md",
+      "title": "Point Predictive Wins LendTech of the Year at the 2023 US Fintech Awards",
+      "excerpt": "Point Predictive's first- and third-party fraud solution API, which secured the coveted LendTech of the Year award, is exclusively designed for fintech and lenders. This groundbreaking API seamlessly combines the robust capabilities of Point Predictive's proprietary derived data repository,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/point-predictive-wins-lendtech-of-the-year-at-the-2023-us-fintech-awards-1032795400",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/point-predictive-wins-lendtech-of-the-year-at-the-2023-us-fintech-awards-1032795400",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 203,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ml.globenewswire.com/Resource/Download/12358bcd-643b-47ab-8591-aa7e971cfadc",
+          "width": 1748,
+          "height": 1240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-08T15:26:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-08-the-strong-case-for-board-oversight-of-artificial-intelligence.md",
       "title": "The Strong Case For Board Oversight Of Artificial Intelligence",
       "excerpt": "The massive scope of the Biden Administration’s new Executive Order on AI makes clear the vital role to be played by the board of directors in the application of this extraordinary new technology.",
@@ -1033,151 +1188,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-ftc-takes-shots-at-ai-in-rare-filing-to-us-copyright-office.md",
-      "title": "FTC takes shots at AI in rare filing to US Copyright Office",
-      "excerpt": "Critics are accusing the FTC of overstepping its bounds and ultimately undermining the long-held legal doctrine of Fair Use.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ftc-takes-shots-at-ai-in-rare-filing-to-us-copyright-office/",
-      "originalUrl": "https://venturebeat.com/ai/ftc-takes-shots-at-ai-in-rare-filing-to-us-copyright-office/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/11/cfr0z3n_vector_art_line_art_flat_illustration_dramatic_angle_si_6500c01e-6e48-4b29-b8fa-df9f7d44a111.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T02:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-adobe-responds-to-controversy-over-ai-generated-images-of-gaza-explosion.md",
-      "title": "Adobe responds to controversy over AI-generated images of Gaza explosion",
-      "excerpt": "Adobe responded today to a controversy over AI-generated images of a Gaza explosion that were published on several small blogs and websites.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/adobe-responds-to-controversy-over-ai-generated-images-of-gaza-explosion/",
-      "originalUrl": "https://venturebeat.com/ai/adobe-responds-to-controversy-over-ai-generated-images-of-gaza-explosion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/11/Untitled-design-2023-11-07T200109.912.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T02:13:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-tijani-artificial-intelligence-can-enhance-good-governance-security-others.md",
-      "title": "Tijani: Artificial Intelligence Can Enhance Good Governance, Security, Others",
-      "excerpt": "The Minister of Communications, Innovation and Digital Economy, Dr. Bosun Tijani, has said that Nigeria stands to benefit immensely from the deployment of Artificial Intelligence (AI) to solve certain societal challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thisdaylive.com/index.php/2023/11/08/tijani-artificial-intelligence-can-enhance-good-governance-security-others",
-      "originalUrl": "https://www.thisdaylive.com/index.php/2023/11/08/tijani-artificial-intelligence-can-enhance-good-governance-security-others",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/ARTIFICIAL-INTELLIGENCE.jpg",
-          "width": 1440,
-          "height": 742,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.thisdaylive.com/index.php/2023/11/08/tijani-artificial-intelligence-can-enhance-good-governance-security-others?amp=1",
-      "cdnAmpWebUrl": "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2023/11/08/tijani-artificial-intelligence-can-enhance-good-governance-security-others?amp=1",
-      "publishedDateTime": "2023-11-08T00:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "This Day",
-        "domain": "thisdaylive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

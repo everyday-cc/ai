@@ -39,7 +39,7 @@ related:
     provider:
       name: InfoWorld
       domain: infoworld.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://images.idgesg.net/images/article/2020/09/user_in_thought_thinking_consideration_intelligence_strategy_by_rowan_jordan_gettyimages-1090113184_2400x1600-100858483-large.jpg?auto=webp&quality=85,70"
         width: 1200

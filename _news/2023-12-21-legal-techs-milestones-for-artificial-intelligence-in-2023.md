@@ -110,6 +110,15 @@ related:
         width: 976
         height: 400
         isCached: true
+  - title: "Legislature eyes AI issues in 2024"
+    excerpt: "House leaders are gearing up to make sure AI can continue to be developed and used in ways that are beneficial to Floridians."
+    publishedDateTime: 2023-12-21T10:32:00Z
+    webUrl: "https://www.bizjournals.com/tampabay/news/2023/12/21/legislature-eyes-ai-issues-in-2024.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 21
 
 secured: "r+cDAaRmVNuR0w9ch9QYdcdH0XQnhjS2w1dtX6YEtmKkjwz2VP6ZtEUEsZevdHrD6N0rBhHxoklZaBVJbYzARseSfWmFEveYlQWbxgxm5Cf32RYheRDjjn6CEd6z3dCAEhaNU0TK1gMNEuH/I00lwwlIw4RQKn5m+quh0znytUE7BEe27A37MqSu1ii8vHNhFD5qsu/CI3z0Uc2yNwkZlApFh3STz9FNNu3XhIP13155UWfW6kk049rkz1cGK/qxXOdE036UcicChqDQqz6aFO1p56sLNrHb7aALp4JqeawJ2B3n32VpMcLlv3nSVcg/wlseainwdhWVR1leSbTBkx//EM6QeAOWq3AjSiYSmLx1cksMWZFyRZEcu+zC8rzpEr/GJvtKBAUC1kIr5fq+NuBeSlAEyasqh68gI9e4N1dgEh6aXSvvI9sqkUMqgZK/OLyuXjHxFcRqNmYWAt1DNF/5r+8UG3SbrqL1Md3k4/40kVJj7P83uPgu7DfumXgWWHzDbRCSfF+AR39Rq0lVgQ==;S8mruqENLls1+z/RECkX3w=="
 ---

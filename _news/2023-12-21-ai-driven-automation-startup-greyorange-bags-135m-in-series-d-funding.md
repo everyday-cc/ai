@@ -8,8 +8,8 @@ webUrl: "https://www.cnbctv18.com/startup/greyorange-ai-driven-automation-startu
 ampWebUrl: "https://www.cnbctv18.com/startup/greyorange-ai-driven-automation-startup-bags-usd-135m-in-series-d-funding-18622491.htm/amp"
 cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/startup/greyorange-ai-driven-automation-startup-bags-usd-135m-in-series-d-funding-18622491.htm/amp"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://images.cnbctv18.com/wp-content/uploads/2023/12/whatsapp-image-2023-12-21-at-40627-pm.jpeg"
@@ -25,6 +26,6 @@ images:
     height: 460
     isCached: true
 
-secured: "hWnifr7lTTIywMBS/bfdj7bagsCu5zkJLNTkxMspwYDM04wubmwthFfhMcHtCutmOkJG4DgRq5vfkOX/cz6HFqUulq3cfmGJNNe4EhIy8QNyaLG77o9Qf23h36kuJmtK0JUW9ctAvvmiycSG/IJgQD/GoL3uOJy7sMFHyNyd7bgrNlJPeXmpj4OrxNfFjPnvG1UKwQxVyQI+ESToZH4eSR69UHyXH76dWjXrYuup7tz9eIRv5kNw/AWHKUvk9PtCuj/7cp1boxuFe2ZPVuIG4g1SnV3yjTzW9Od7hjwqtQ1NfuLri4vLOip4naXRwlwKuPEborora76Ku9uIvzDktCIOB2wrCQVJLzKJSooztRg=;PMT0COtsK7zU6OsZAe1org=="
+secured: "b7963CubozEmMzzbQRiB3YeKSMBEwxqUIZrUa7i1ndxOT/fjYoNCBrcgUVhcaXqyqd1QSQH+IlmUfXqVUBinYyaX7EqXSM/g78vsEGYu46nFJ0jEVwpY5BpMsIIRGY4UPvzE+ze8vYawJ6DILhE9AuMH0O83PhAjiGyx42JOjfRMFJ+rQBC6VReqilCfL3VzG4tLxmClKJLVFLItRVU76yiGRbSw1keUAa0BPyQ3X5cqb19I0iJEJfNYGseE2sySsH2s6SQf6XM+IClGFsfCqIQ/twMPsny+hXHD+dVoQtp66u3ZF5DaYbOBlijPGeHiimaG/UnC/+svA0CzFjR2qVhHH1cPA30osDEfxsujtKHAmZWWN5aCG7o0jTfMBuVFpSKYgPedw80Hoy1NDGPTo5zGyZ/jWK1dbR/NnGRYHNL0ZwUIOu8b5sN0P5sqtOr8PFZoylFKWBJszpoa/jG6iz4HArb3+Yx4pJmcnCKba9nCNObkHb/OMmqfgi9xpqCa0HIMOJbLE7dQ9zt8yY9fMg==;b/M7IimJ1fmpMcwE/3axlQ=="
 ---
 

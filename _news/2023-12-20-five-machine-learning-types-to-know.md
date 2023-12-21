@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/machine-learning-types/"
 webUrl: "https://www.ibm.com/blog/machine-learning-types/"
 type: article
 quality: 99
-heat: 100
+heat: 99
 published: true
 
 provider:

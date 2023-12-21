@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/20/10-questio
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/20/10-questions-to-ask-before-implementing-generative-ai/amp/"
 type: article
 quality: 89
-heat: 269
+heat: 259
 published: true
 
 provider:
@@ -201,15 +201,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "New generation of chips will drive the AI wave"
-    excerpt: "The artificial intelligence chip industry has developed a newfound appreciation for high bandwidth memory, or HBM, the technology behind such lightning-fast data transfers. Analysts had once deemed it unlikely to ever become commercially viable when it was first launched in 2013."
-    publishedDateTime: 2023-12-19T00:01:00Z
-    webUrl: "https://www.ft.com/content/e5c97253-90f3-4158-846f-07aaf3945983"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
   - title: "Google takes steps to prevent abuse of its generative AI tools during U.S. elections"
     excerpt: "Google LLC said today it is planning to restrict the ability of its artificial intelligence chatbot Bard and Search Generative Experience to respond to election-related queries, ahead of the U.S. Presidential election taking place next year. The restrictions will be introduced early next year, the company said."
     publishedDateTime: 2023-12-19T23:45:00Z

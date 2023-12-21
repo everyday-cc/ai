@@ -2,11 +2,11 @@
 category: news
 title: "The AI Revolution in Therapy"
 excerpt: "Artificial intelligence (AI) has proven to be a powerful tool in the world of behavioral health, already aiding in assessments and enhancing therapy. This transformative technology helps healthcare providers deliver true value in their behavioral ..."
-publishedDateTime: 2023-12-18T17:11:00Z
-originalUrl: "https://www.psychologytoday.com/us/blog/leadership-diversity-and-wellness/202312/the-ai-revolution-in-therapy"
-webUrl: "https://www.psychologytoday.com/us/blog/leadership-diversity-and-wellness/202312/the-ai-revolution-in-therapy"
-ampWebUrl: "https://www.psychologytoday.com/us/blog/leadership-diversity-and-wellness/202312/the-ai-revolution-in-therapy?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/leadership-diversity-and-wellness/202312/the-ai-revolution-in-therapy?amp"
+publishedDateTime: 2023-12-18T16:57:00Z
+originalUrl: "https://www.psychologytoday.com/intl/blog/leadership-diversity-and-wellness/202312/the-ai-revolution-in-therapy"
+webUrl: "https://www.psychologytoday.com/intl/blog/leadership-diversity-and-wellness/202312/the-ai-revolution-in-therapy"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/leadership-diversity-and-wellness/202312/the-ai-revolution-in-therapy?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/leadership-diversity-and-wellness/202312/the-ai-revolution-in-therapy?amp"
 type: article
 quality: 74
 heat: -1
@@ -60,6 +60,6 @@ related:
         height: 900
         isCached: true
 
-secured: "ojXajr1MvvfocYBvbTxkasggk+/LMg6p/1RhLItpgBa/PsVmAnEyFM3jglWYf1TuTjGpsgVBoBQVsM2OpBUJtnqFsbRiLMVfG7/zv+71WPB09dnDlms5OEcxt/5uFGkfvolYP3POQ3Qfqqh3JTKRlDyVcEF3y9Piz4D0hH6m9p7m2Wm0uYglIJWpXXeXPxaJTV/JpOd/SQwGJ60Mo5lWoF1fwlCn8HJn8uLG+lknRZc4dBJimYl4nXP/pMgJSyoDeLKZxkJbvKqU7dWX7ePHD9UcFu8ElPgYLSEAc0bAFQ2NZMWuCOR8VkriBrO/9P9lpmxo828QcupmwSMLlxbXesUZkWxGWf8kQ6Lab/3C0Cs=;bjLNp5b5EdWV6MPIn3uPpw=="
+secured: "dGHP1fH87TTEvfVflFXyi6OzzHMzi1koVfSdVCAfJ14OW/dgce3bTLDw/L3jDibse0kfJbrNMEITRFEWhkSNVEa0IyO6ETtQLVlh8GHMU2s9Q8k1SSWC1WqRrQWtiMvWW+DfvgIUwzSTCL7KJrGscp0ssCottDu6QN0Yn1FhsE6wIhVVj1EvhpWMjh3hKP6HP/Dz1SV+5qa00D9Sa1dL6dc+vBvoiV/ucLMIdbOhQjTVznPvyk5TadzyjeASE0X2274Ieu/5slfWB1zfADPOz4AHM7SwOSLfkVIeSZWCs71Q57RdfG6cH1R1GfCa6Mp4vdpxZdozOjdDrcTA1kFqjVpH5x4Uvru/umgmWt9eQbY=;KQUCRyjuNTpmwubYsjMkaA=="
 ---
 

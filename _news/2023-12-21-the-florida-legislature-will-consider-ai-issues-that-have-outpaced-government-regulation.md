@@ -1,0 +1,85 @@
+---
+category: news
+title: "The Florida Legislature will consider AI issues that have “outpaced government regulation”"
+excerpt: "Under the bill, the proposed council’s tasks would include assessing “the need for legislative reform and the creation of a state code of ethics for the use of artificial intelligence systems in state government.” The council also would be required ..."
+publishedDateTime: 2023-12-21T11:13:00Z
+originalUrl: "https://www.wmnf.org/florida-legislature-consider-ai-issues-outpaced-government-regulation/"
+webUrl: "https://www.wmnf.org/florida-legislature-consider-ai-issues-outpaced-government-regulation/"
+type: article
+quality: 31
+heat: -1
+published: false
+
+provider:
+  name: WMNF
+  domain: wmnf.org
+
+topics:
+  - AI Ethics
+  - AI
+  - Natural Language Processing
+
+images:
+  - url: "https://wmnf.s3.amazonaws.com/wp-content/uploads/2023/06/Artificial-intelligence-ai-by-Black-Kira-via-iStock-for-wmnf-news-1345658982-1024x576.jpg"
+    width: 1024
+    height: 576
+    isCached: true
+
+related:
+  - title: "Florida lawmakers could look at regulations for artificial intelligence use"
+    excerpt: "Among the bills filed ahead of session: requiring a disclaimer on political ads that use AI-generated content."
+    publishedDateTime: 2023-12-20T22:14:00Z
+    webUrl: "https://www.tampabay.com/news/florida-politics/2023/12/20/artificial-intelligence-ai-political-ads-regulation-technology/"
+    ampWebUrl: "https://www.tampabay.com/news/florida-politics/2023/12/20/artificial-intelligence-ai-political-ads-regulation-technology/?outputType=amp"
+    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/florida-politics/2023/12/20/artificial-intelligence-ai-political-ads-regulation-technology/?outputType=amp"
+    type: article
+    provider:
+      name: Tampa Bay Times
+      domain: tampabay.com
+    quality: 57
+    images:
+      - url: "https://www.tampabay.com/resizer/_gX9Wb5jIYkcOcbEosJkK2XdOOs=/1200x675/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/7R4G3W4FFX2GUDXETZO6XJPTEI.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Florida taking steps to regulate Artificial Intelligence in 2024"
+    excerpt: "Florida lawmakers have filed several different proposals to keep artificial-intelligence-generated content under control."
+    publishedDateTime: 2023-12-20T20:28:00Z
+    webUrl: "https://winknews.com/2023/12/20/artificial-intelligence-florida-senate-2024/"
+    type: article
+    provider:
+      name: WINK NEWS
+      domain: winknews.com
+    quality: 41
+    images:
+      - url: "https://winknews.com/wp-content/uploads/2023/11/Artificial-Intelligence.png"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Bills on artificial intelligence filed in lead-up to Florida legislative session"
+    excerpt: "Legal and technology experts say AI is a complicated area to regulate. Florida lawmakers are going to try anyway."
+    publishedDateTime: 2023-12-19T17:19:00Z
+    webUrl: "https://www.aol.com/bills-artificial-intelligence-filed-lead-135527594.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 32
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/rwULf76MJfbNNa5Lzo9Jqw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xNjE1/https://media.zenfs.com/en/aol_gannett_aggregated_707/f6785b6adb30e1f368f3441223bfd153"
+        width: 1200
+        height: 1615
+        isCached: true
+  - title: "Bills on artificial intelligence filed in lead-up to Florida legislative session"
+    excerpt: "Legal and technology experts say AI is a complicated area to regulate. Florida lawmakers are going to try anyway."
+    publishedDateTime: 2023-12-19T12:55:00Z
+    webUrl: "https://www.tcpalm.com/story/news/politics/2023/12/19/florida-lawmakers-may-take-up-artificial-intelligence-legislation/71906062007/"
+    type: article
+    provider:
+      name: Treasure Coast Newspapers
+      domain: tcpalm.com
+    quality: 14
+
+secured: "NyAtIJ2ynZtmh+KN/ybY2m5wX7bN1mD/FPGuU/9GuAP/yKV4VEw6H8w6/Q2ygw3oJNroEQZqp2iLOOHrz4pu8Dg8cFkLwzDJWxEgHB4yuZ5IKoBSX+/6jadYii/cx304mq3ZVLUxvzp3fx47shYs7UdEJYIVCkGRAeZF6JwwV1rEi6XgfDNpEmc0aTJen//J7ZO0l8DHsxczJPOnMxBNOoYzhF6s9lh4lj7Zj/7ht+/JnZDLMqvip8oFLr5GkVvKUagmykybaQG1piWwbh7IY3U+epxA3neHr4oJzrt/HutcIGmyOcbLxAhGR0zSgiSm5a/3gmzpsSpcja374j4n2xfJuVC+TwRDUHIRAkj1gZE=;PUOKKQ0913lor9/0DhzgjA=="
+---
+

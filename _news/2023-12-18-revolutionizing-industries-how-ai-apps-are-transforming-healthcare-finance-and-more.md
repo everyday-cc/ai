@@ -58,6 +58,20 @@ related:
         width: 766
         height: 431
         isCached: true
+  - title: "AI Revolutionizing the Automotive Industry"
+    excerpt: "Integration of Artificial Intelligence (AI) in the automotive sector is transforming ... Applications of AI technology are vast in automotive, from industrial robots to driverless vehicles, today, AI has brought about remarkable developments in vehicles."
+    publishedDateTime: 2023-12-19T00:00:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/ai-revolutionizing-the-automotive-industry/467197"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1702981433-Hithere3.png?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "AI or not to AI: How artificial intelligence is changing the industry"
     excerpt: "One of the most profound statements that I’ve ever heard on artificial intelligence was presented in the form of a joke. It was delivered decades ago by an English Lit professor of mine who taught classes both on John Milton and on science fiction and fantasy literature."
     publishedDateTime: 2023-12-18T18:25:00Z

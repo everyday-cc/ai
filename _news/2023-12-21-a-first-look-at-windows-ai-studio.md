@@ -8,8 +8,8 @@ webUrl: "https://www.infoworld.com/article/3711804/a-first-look-at-windows-ai-st
 ampWebUrl: "https://www.infoworld.com/article/3711804/a-first-look-at-windows-ai-studio.amp.html"
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711804/a-first-look-at-windows-ai-studio.amp.html"
 type: article
-quality: 89
-heat: 119
+quality: 91
+heat: 121
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://images.idgesg.net/images/article/2020/09/user_in_thought_thinking_consideration_intelligence_strategy_by_rowan_jordan_gettyimages-1090113184_2400x1600-100858483-large.jpg?auto=webp&quality=85,70"
@@ -76,6 +77,6 @@ related:
         height: 630
         isCached: true
 
-secured: "x/ZzqejyN43ELQhnM/caCaFWwjyI5h5Dd6mv8jlt2+cWrJ0qWI6rxYyZh/v15UUTmrS8hJ81lcIYWu6Ph+EWRJHTsBRQImTDxO8iI+Qw10/HI/Tuduvce0csBOvg1AZ/SRLyu2Pdu5ScQDZJfe13POYE/ZTU1YfWnZ9Kb0zhGh79ybcOFn23Z8KnoDr54Tw9DWjZQoJ15zmd4fKP4MaQT4CvUG3Tm4fcXFw+8u9Y16w6oxxjkw1wPOplx6WhsJNmSQu9uMy5o9n+w0FadByr9UPnijhRqay8MNyLWZkLwhdCkN+axuN1RQcG3TZHkfrTGB4hHKRpukuCFw6eS7geppRHU0O7GBOqf1sHrBrjtZs=;oaVzsZvmkWqc9pMHhNViMQ=="
+secured: "bbYyKilXfjNRPk+3MiicYRghqW8IDJqiBmvsLzP2O0rIJeyNuZiEV/5fHItL2e6nXqBw7UFPn+8Sh97ApM2KfS6oOATxnbKGnC6w4jy1hXcjY6nYUGQr253zY9XK6wPnEFUja/iAK+O8xFD2YQ7warSJ+nyK9VjWkV+pArFKUmDeMScTBdNwwFGkr4ewIyrHjJynBvYd7L/wh0v26i6MVglBXI9hOS2vHrm1GXtD5QP3Gm67EcJXPNjytLa8Jav3o+rgvSisGJwDxQwlwSt0DbGoslfAJq+NBz/RPVukmT9CIN5fuxOCYgz5KthaF22i1afAYYbcPJlVTzW7v4SAUgtYoRscmqtQ3UW40FgpHjdtbVUybssDpzMS9txE7YbuogwJ0/0UHaMg+qJU8uDkm/o7G/k/SSNPQGXG4jLIfaJP367YMotJq7TKc5uwpd8D/jCuJ6OQ58wIzjhFVQDN+nTAesymdkzvVwG0XQ+ymBuJunDDDz3Gg074eGsTvj7/6egnuFVvL3xGd7uB4juV/g==;t02gSSTe+VtiyfQQpMTXNw=="
 ---
 

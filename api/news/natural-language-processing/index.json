@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-21-santa-gets-a-behind-the-scenes-boost-from-ai-this-holiday-season.md",
+      "title": "Santa gets a behind-the-scenes boost from AI this holiday season",
+      "excerpt": "From using chatbots to predicting demand for items, retailers are experimenting with and expanding use of generative AI this holiday season.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/12/21/santa-gets-a-behind-the-scenes-boost-from-ai-this-holiday-season-.html",
+      "originalUrl": "https://www.cnbc.com/2023/12/21/santa-gets-a-behind-the-scenes-boost-from-ai-this-holiday-season-.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107348867-1702909922507-gettyimages-1273719565-conveyorgiftboxcopy.jpeg?v=1702909976",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/12/21/santa-gets-a-behind-the-scenes-boost-from-ai-this-holiday-season-.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/12/21/santa-gets-a-behind-the-scenes-boost-from-ai-this-holiday-season-.html",
+      "publishedDateTime": "2023-12-21T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-19-the-top-five-ai-use-cases-and-trends-for-2024-and-beyond.md",
       "title": "The Top Five AI Use Cases And Trends For 2024 And Beyond",
       "excerpt": "As we witness groundbreaking advancements, here are my predictions of the five key AI tech trends for 2024 and beyond.",
@@ -62,7 +114,7 @@
       "originalUrl": "https://health.economictimes.indiatimes.com/news/health-it/will-ai-substitute-doctors-in-healthcare-industry/106097951",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -1358,49 +1410,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-12-04-meta-launches-seamless-communication-ai-translation-kit.md",
-      "title": "Meta launches Seamless Communication AI translation kit",
-      "excerpt": "Meta has recently launched a suite of AI language translation models called Seamless Communication, which consists of 4 AI models. This feature aims to enable more natural and authentic communication across languages. The suite includes three main models ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizchina.com/2023/12/04/meta-launches-seamless-communication-ai-translation-kit/",
-      "originalUrl": "https://www.gizchina.com/2023/12/04/meta-launches-seamless-communication-ai-translation-kit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizchina.com/wp-content/uploads/images/2023/12/Meta-1200x675.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.gizchina.com/2023/12/04/meta-launches-seamless-communication-ai-translation-kit/amp/",
-      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2023/12/04/meta-launches-seamless-communication-ai-translation-kit/amp/",
-      "publishedDateTime": "2023-12-04T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GizChina",
-        "domain": "gizchina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

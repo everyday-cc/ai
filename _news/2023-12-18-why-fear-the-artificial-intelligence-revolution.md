@@ -49,10 +49,10 @@ related:
         isCached: true
   - title: "The AI Revolution in Therapy"
     excerpt: "Artificial intelligence (AI) has proven to be a powerful tool in the world of behavioral health, already aiding in assessments and enhancing therapy. This transformative technology helps healthcare providers deliver true value in their behavioral ..."
-    publishedDateTime: 2023-12-18T17:11:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/leadership-diversity-and-wellness/202312/the-ai-revolution-in-therapy"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/leadership-diversity-and-wellness/202312/the-ai-revolution-in-therapy?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/leadership-diversity-and-wellness/202312/the-ai-revolution-in-therapy?amp"
+    publishedDateTime: 2023-12-18T16:57:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/leadership-diversity-and-wellness/202312/the-ai-revolution-in-therapy"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/leadership-diversity-and-wellness/202312/the-ai-revolution-in-therapy?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/leadership-diversity-and-wellness/202312/the-ai-revolution-in-therapy?amp"
     type: article
     provider:
       name: Psychology Today

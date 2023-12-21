@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/rachelwells/2023/12/20/3-ai-trends-that-ev
 ampWebUrl: "https://www.forbes.com/sites/rachelwells/2023/12/20/3-ai-trends-that-every-leader-needs-to-know-for-2024/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/12/20/3-ai-trends-that-every-leader-needs-to-know-for-2024/amp/"
 type: article
-quality: 87
+quality: 89
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/65830c5a747b2c0802aefa2c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"

@@ -7,7 +7,7 @@ originalUrl: "https://time.com/6343945/ai-music-movies-art-2023/"
 webUrl: "https://time.com/6343945/ai-music-movies-art-2023/"
 type: article
 quality: 67
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -114,6 +114,15 @@ related:
         width: 767
         height: 633
         isCached: true
+  - title: "Legislature eyes AI issues in 2024"
+    excerpt: "House leaders are gearing up to make sure AI can continue to be developed and used in ways that are beneficial to Floridians."
+    publishedDateTime: 2023-12-21T10:32:00Z
+    webUrl: "https://www.bizjournals.com/tampabay/news/2023/12/21/legislature-eyes-ai-issues-in-2024.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 21
 
 secured: "M2xc5GM+uA6c+eoaTn5st3a0Qbf8lVs752wP+r8GHi39WAya4Uk9YY/FM173FIr479UG+sjFGLitfmx93yJc21QvWwyvfCsO2eetpQVZID3/ZnI6JiOmoxxyAVHDgSnBVMRL521EAPxxodkw3C/XTn5euqiqCfQTjgeQvGacH/iQQVGIGejrz4AyJH/NdeGjeCZU57TZK67EtPybMzqQLe9Zs3/+OOyRGkOIeRF519nRuuhN1bRwXOJC+FR5/qEvbXCEgpJbz8bp7WoXmo5s7Z+xIYGTMixvVs7Tvhkmc7zW9udmP2kKk6rzCst0qCtHT0dyvNrCcidIzEVo9Es8MMk3Rjj/R2Y+sZEV/Veqx3k=;SYeOz1XnnZuO4GJbIMhGeQ=="
 ---

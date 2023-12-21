@@ -142,6 +142,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Coforge enters into a partnership with Microsoft over enterprise-oriented Generative AI adoption"
+    excerpt: "Coforge Limited (NSE: COFORGE), a digital services and solutions provider, has announced an initiative with Microsoft Azure OpenAI Service to aid the adoption of Generative artificial intelligence (AI) across enterprises. According to an official release ..."
+    publishedDateTime: 2023-12-21T10:00:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-coforge-enters-into-a-partnership-with-microsoft-over-enterprise-oriented-generative-ai-adoption-3344461/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-coforge-enters-into-a-partnership-with-microsoft-over-enterprise-oriented-generative-ai-adoption-3344461/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-coforge-enters-into-a-partnership-with-microsoft-over-enterprise-oriented-generative-ai-adoption-3344461/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 61
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/12/Untitled-design-2023-12-21T173344.327.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft Launches Robust AI 'Small Language Model' For Researchers"
     excerpt: "Microsoft has released its newest compact“small language model” titled Phi-2 that continues to perform at par or better than"
     publishedDateTime: 2023-12-17T08:09:00Z
@@ -371,6 +387,15 @@ related:
     provider:
       name: BGR
       domain: bgr.com
+    quality: 32
+  - title: "TomTom joins forces with Microsoft to bring Generative AI into the vehicle"
+    excerpt: "TomTom joins forces with Microsoft to bring Generative AI into the vehicle. Rating 1 2 3 4 5; TomTom develops an advanced AI-powered voice assistant for driver"
+    publishedDateTime: 2023-12-21T12:37:00Z
+    webUrl: "https://sensorsandsystems.com/tomtom-joins-forces-with-microsoft-to-bring-generative-ai-into-the-vehicle/"
+    type: article
+    provider:
+      name: sensorsandsystems.com
+      domain: sensorsandsystems.com
     quality: 32
   - title: "Microsoft, TomTom Launch Voice Assistant That Makes Google Assistant and Siri Feel Old"
     excerpt: "While Apple is building an electric vehicle from scratch and Google is betting big on the software and services side of the automotive space, Microsoft"

@@ -211,15 +211,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "New generation of chips will drive the AI wave"
-    excerpt: "The artificial intelligence chip industry has developed a newfound appreciation for high bandwidth memory, or HBM, the technology behind such lightning-fast data transfers. Analysts had once deemed it unlikely to ever become commercially viable when it was first launched in 2013."
-    publishedDateTime: 2023-12-19T00:01:00Z
-    webUrl: "https://www.ft.com/content/e5c97253-90f3-4158-846f-07aaf3945983"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
   - title: "Theory Of Mind As An Emergent Property Of Generative AI Could Be A Linchpin For AI-Powered Mental Health Advisement Apps"
     excerpt: "Humans are said to possess Theory of Mind, and some say generative AI does so too. This is closely explored, along with how it pertains to AI-based mental health apps."
     publishedDateTime: 2023-12-20T11:30:00Z

@@ -56,6 +56,15 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Why These 7 Fintech Stocks Should Be on Your Radar in 2024"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips As the macro picture appears increasingly brighter, fintech stocks are coming"
+    publishedDateTime: 2023-12-21T11:50:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/why-these-7-fintech-stocks-should-be-on-your-radar-in-2024-1032918833"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
   - title: "Register now for the Citi Cup fintech competition"
     excerpt: "SUZHOU, China, Dec. 18, 2023 /PRNewswire/ -- Citigroup Services and Technology ( China) (CSTC) has announced that the 19th Citi Financial Innovation Application Competition (also known as the Citi Cup) is open for online registration. CSTC leads Citigroup's financial technology and financial operations services industry in China."
     publishedDateTime: 2023-12-16T23:59:00Z

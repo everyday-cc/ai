@@ -2,6 +2,160 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-21-its-time-for-every-company-to-establish-its-own-ai-manifesto.md",
+      "title": "It’s Time For Every Company To Establish Its Own AI Manifesto",
+      "excerpt": "The AI hype train has no signs of slowing down, and neither will the pressure to act from your clients, your board, your executives and your employees.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/21/its-time-for-every-company-to-establish-its-own-ai-manifesto/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/21/its-time-for-every-company-to-establish-its-own-ai-manifesto/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65833d11b72065e67e1b908a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/21/its-time-for-every-company-to-establish-its-own-ai-manifesto/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/21/its-time-for-every-company-to-establish-its-own-ai-manifesto/amp/",
+      "publishedDateTime": "2023-12-21T12:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-21-santa-gets-a-behind-the-scenes-boost-from-ai-this-holiday-season.md",
+      "title": "Santa gets a behind-the-scenes boost from AI this holiday season",
+      "excerpt": "From using chatbots to predicting demand for items, retailers are experimenting with and expanding use of generative AI this holiday season.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/12/21/santa-gets-a-behind-the-scenes-boost-from-ai-this-holiday-season-.html",
+      "originalUrl": "https://www.cnbc.com/2023/12/21/santa-gets-a-behind-the-scenes-boost-from-ai-this-holiday-season-.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107348867-1702909922507-gettyimages-1273719565-conveyorgiftboxcopy.jpeg?v=1702909976",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/12/21/santa-gets-a-behind-the-scenes-boost-from-ai-this-holiday-season-.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/12/21/santa-gets-a-behind-the-scenes-boost-from-ai-this-holiday-season-.html",
+      "publishedDateTime": "2023-12-21T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-21-the-ai-takeover-top-four-trends-shaping-the-future-of-pc-insurance.md",
+      "title": "The AI Takeover: Top Four Trends Shaping The Future Of P&C Insurance",
+      "excerpt": "AI is reshaping the very fabric of P&C insurance, bringing about a paradigm shift that promises not just to tweak but to fundamentally transform the industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/21/the-ai-takeover-top-four-trends-shaping-the-future-of-pc-insurance/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/21/the-ai-takeover-top-four-trends-shaping-the-future-of-pc-insurance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/648332de72aba3d31e2c5c61/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/21/the-ai-takeover-top-four-trends-shaping-the-future-of-pc-insurance/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/21/the-ai-takeover-top-four-trends-shaping-the-future-of-pc-insurance/amp/",
+      "publishedDateTime": "2023-12-21T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-21-a-first-look-at-windows-ai-studio.md",
       "title": "A first look at Windows AI Studio",
       "excerpt": "Windows AI Studio offers an interesting hybrid of Windows and Linux tools, working across both your CPU and GPU, using the Windows Subsystem for Linux (WSL) to host and run models. It’s an approach that does demand capable hardware, with plenty of memory ...",
@@ -10,7 +164,7 @@
       "originalUrl": "https://www.infoworld.com/article/3711804/a-first-look-at-windows-ai-studio.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -50,7 +204,8 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -431,7 +586,7 @@
       "originalUrl": "https://www.tampabay.com/news/florida-politics/2023/12/20/artificial-intelligence-ai-political-ads-regulation-technology/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -474,7 +629,7 @@
       "originalUrl": "https://time.com/6343945/ai-music-movies-art-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -680,7 +835,7 @@
       "originalUrl": "https://www.ibm.com/blog/machine-learning-types/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 99,
       "tags": null,
       "images": null,
       "content": "",
@@ -1057,161 +1212,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-20-2023-at-google.md",
-      "title": "2023 at Google",
-      "excerpt": "Explore our collection looking back on some of our biggest moments and milestones from 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/inside-google/google-2023-recaps-highlights/",
-      "originalUrl": "https://blog.google/inside-google/google-2023-recaps-highlights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Hero-GIF.gif",
-          "width": 2096,
-          "height": 874,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-20T17:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-21-ai-image-generators-trained-on-pictures-of-child-sexual-abuse-study-finds.md",
-      "title": "AI image generators trained on pictures of child sexual abuse, study finds",
-      "excerpt": "Images might have helped AI systems produce realistic sexual imagery of fake children; the database was taken down in response",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2023/dec/20/ai-image-generators-child-sexual-abuse?ref=upstract.com",
-      "originalUrl": "https://www.theguardian.com/technology/2023/dec/20/ai-image-generators-child-sexual-abuse?ref=upstract.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/657f7fcb7f847447432b65d346dbde25e8726919/0_46_4000_2400/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=0a31fc1cd00192baf8060e17d4d2a771",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2023/dec/20/ai-image-generators-child-sexual-abuse",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/dec/20/ai-image-generators-child-sexual-abuse",
-      "publishedDateTime": "2023-12-20T16:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-20-23-of-our-biggest-moments-in-2023.md",
-      "title": "23 of our biggest moments in 2023",
-      "excerpt": "A look back at 2023 at Google, from AI announcements to hardware launches and more.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/google-product-launches-2023/",
-      "originalUrl": "https://blog.google/technology/ai/google-product-launches-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Still_for_social_1.width-1300.png",
-          "width": 1046,
-          "height": 435,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/google-product-launches-2023/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-product-launches-2023/amp/",
-      "publishedDateTime": "2023-12-20T16:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

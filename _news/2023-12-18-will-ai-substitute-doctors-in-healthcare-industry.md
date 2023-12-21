@@ -9,7 +9,7 @@ ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/will-
 cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/will-ai-substitute-doctors-in-healthcare-industry/106097951"
 type: article
 quality: 76
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://www.forbes.com/advisor/wp-content/uploads/2023/12/How-AI-Is-Influencing-The-Mortgage-Industry-Ft-Image.jpg"
         width: 766
         height: 431
+        isCached: true
+  - title: "AI Revolutionizing the Automotive Industry"
+    excerpt: "Integration of Artificial Intelligence (AI) in the automotive sector is transforming ... Applications of AI technology are vast in automotive, from industrial robots to driverless vehicles, today, AI has brought about remarkable developments in vehicles."
+    publishedDateTime: 2023-12-19T00:00:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/ai-revolutionizing-the-automotive-industry/467197"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1702981433-Hithere3.png?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "Revolutionizing Industries: How AI Apps are Transforming Healthcare, Finance, and More"
     excerpt: "Welcome to the era of AI revolution! We stand witness to incredible technological innovations that are reshaping industries like never before. Among these groundbreaking advancements, artificial intelligence applications have emerged as the game-changers across numerous sectors."

@@ -34,22 +34,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "AI integration in everyday life: How artificial intelligence is reshaping consumer electronics"
-    excerpt: "One of the most noticeable impacts of AI in consumer electronics is the integration of virtual assistants like Siri, Alexa, and Google Assistant. These AI-powered companions have made it incredibly convenient to control various devices through simple voice commands."
-    publishedDateTime: 2023-12-16T12:00:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-ai-integration-in-everyday-life-how-artificial-intelligence-is-reshaping-consumer-electronics-3339636/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ai-integration-in-everyday-life-how-artificial-intelligence-is-reshaping-consumer-electronics-3339636/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-integration-in-everyday-life-how-artificial-intelligence-is-reshaping-consumer-electronics-3339636/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 62
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/12/Untitled-design-2023-12-15T150012.911.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Facebook whistleblower docs: How AI is hurting India – and Indians"
     excerpt: "Users need to understand that since many platforms are developed outside of India, their preparedness to understand and manage nuances of language, culture, and regions fall short. Engineers are playi"
     publishedDateTime: 2023-12-18T08:52:00Z
@@ -135,15 +119,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 28
-  - title: "Generative AI, Cloud And Startups: A Power Trio Redefining India’s Techscape!"
-    excerpt: "Explore how generative AI, cloud technology and startups are redefining India's tech landscape in this roundtable by Inc42 and Google Cloud."
-    publishedDateTime: 2023-12-16T11:45:00Z
-    webUrl: "https://inc42.com/videos/generative-ai-cloud-and-startups-a-power-trio-redefining-indias-techscape/"
-    type: article
-    provider:
-      name: inc42
-      domain: inc42.com
-    quality: 14
 
 secured: "HVtW30SNscgKCthFwG7/Z1sITEvkBgkXmIcxozyaIb2KnfP5KLDUfZVR2/3cfkhKWUMP4mFVoLxaXIBnF/VR/ewBZntXbA8wA6LA4EpfRtRbwd3dpl299TR8/uIdRagu0Cp2ton7X44IGdGbhvUodYTrxER9HscCplxyEbN+EkHdPbR5ZWpBfzQ2b9FkCJc/6VeaTE/MyZ5bY2LueDbrjQn++4dg7Bi4TWTUVN++R9ZtRbA/y39EtXyZfsK7mPsJvGM0AL1cCybtU6XNz7n0yGZ6BxFRcTsvhZWMLQOVgqdZSGzXuFTHs2C0WG8JEvCHupgFLRfetATYYPb+pqGWs1BlYXbw5hB3ughivs7Ru8fU74fYrl/urnvI9Z9Lf9C3+2Pq8ejDYiR3M/z6omqNCGctfIW1Ovb1EchtjBFMKtp6jZ3+ph4bC+HYglPjiSI3pImXjeBZD2Jah8k80oe1CMZ0xREglDLtp4EffqLNQye7jxv/rskqQmJ3gW+4vDPSaNNXFfVayLYsX/O3OOwaIw==;Ww7KjkiecYtAh+1HuBriFg=="
 ---

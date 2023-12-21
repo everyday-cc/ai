@@ -54,6 +54,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "The Florida Legislature will consider AI issues that have “outpaced government regulation”"
+    excerpt: "Under the bill, the proposed council’s tasks would include assessing “the need for legislative reform and the creation of a state code of ethics for the use of artificial intelligence systems in state government.” The council also would be required ..."
+    publishedDateTime: 2023-12-21T11:13:00Z
+    webUrl: "https://www.wmnf.org/florida-legislature-consider-ai-issues-outpaced-government-regulation/"
+    type: article
+    provider:
+      name: WMNF
+      domain: wmnf.org
+    quality: 31
+    images:
+      - url: "https://wmnf.s3.amazonaws.com/wp-content/uploads/2023/06/Artificial-intelligence-ai-by-Black-Kira-via-iStock-for-wmnf-news-1345658982-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Bills on artificial intelligence filed in lead-up to Florida legislative session"
     excerpt: "Legal and technology experts say AI is a complicated area to regulate. Florida lawmakers are going to try anyway."
     publishedDateTime: 2023-12-19T12:55:00Z
