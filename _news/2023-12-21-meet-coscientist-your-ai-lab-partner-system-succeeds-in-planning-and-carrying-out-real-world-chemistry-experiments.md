@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2023-12-coscientist-ai-lab-partner-succeeds.am
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-12-coscientist-ai-lab-partner-succeeds.amp"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -28,30 +28,23 @@ images:
 
 related:
   - title: "Science Without the Scientist: AI Can Help"
-    excerpt: "AI systems autonomously conduct scientific experiments, augmenting human researchers' roles. The collaboration between human creativity and AI efficiency can transform scientific research. This synergy paves the way for a future of accelerated scientific discovery and innovation."
+    excerpt: "Perhaps, there is no more iconic image in science than the tireless investigator holding court in the laboratory. However, scientific research is undergoing a transformative shift. A recent study is introducing us to the capabilities of Coscientist,"
     publishedDateTime: 2023-12-21T16:01:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202312/science-without-the-scientist"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202312/science-without-the-scientist?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-digital-self/202312/science-without-the-scientist?amp"
+    webUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202312/science-without-the-scientist"
     type: article
     provider:
       name: Psychology Today
       domain: psychologytoday.com
-    quality: 57
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2023-12/LabRobot.png.jpg?itok=GaXnBByp"
-        width: 1528
-        height: 800
-        isCached: true
-  - title: "This District Hopes Seeing What AI Can Do Will Spur More Students to Take Computer Science"
-    excerpt: "For educators who haven’t had much experience with AI, Hour of Code has “given them an opportunity now to start that conversation about AI,” Milenkovic. “We think teachers are more interested in it for their own use.”"
-    publishedDateTime: 2023-12-19T00:00:00Z
-    webUrl: "https://www.edweek.org/technology/this-district-hopes-seeing-what-ai-can-do-will-spur-more-students-to-take-computer-science/2023/12"
+    quality: 17
+  - title: "Artificial Intelligence-Based Lab Partner Designs, Runs Experiments in the Lab"
+    excerpt: "Coscientist uses large language models such as ChatGPT to design and execute scientific experiments from simple prompts."
+    publishedDateTime: 2023-12-21T01:17:00Z
+    webUrl: "https://www.genengnews.com/topics/artificial-intelligence/artificial-intelligence-based-lab-partner-designs-runs-experiments-in-the-lab/"
     type: article
     provider:
-      name: Education Week
-      domain: edweek.org
-    quality: 7
+      name: GEN
+      domain: genengnews.com
+    quality: 13
 
 secured: "BrnC/efLipMvfHT1Wh3TzSgS+C/lu4JrQEOvWBe6u9u8FX83p8z8m7WssJYc4oVoV36gdv/M5W1bfhhCL+CTs4s5vC38L7V0XhLctGUVW9ZRg6c++YLTbS0j3/x6B10teF37S1PcaHXfEYg9vZRnLGq4nfVTNksY6BDzjVin/1MVFoc11WimKANwK8DBi7YnTOFXtWsy8Ibcd+WXWgwBzTrkuVcGmK0l0sPEt2kGWXAEp/s+N5HigC1DtqdtQUGzcy8iyyLIr8/0dwOkiFI/mcwxAFVbWtNiVrW4dBWMRsHiFX5wm7/6+da/ROkhAzWHFctEaZ18u940oEdn+6+nGbbW66AWKHET7C6TaL0kHZAP/mn++JkDbDf6KlivUOoYO6+PNusptOx+f/MAPFWcdQzM2SFtiIlGqwmYASK8WWx0FmUY2HirZEfoiDKabk3h4805/IBYgEvO6dbp9xxxlXgd0ZkLrsh6PSH3sMDloSWhX2R5rF6hbvcO4Ib0Vq1nu8z7qtKYxDY6JsflACQlpg==;OXaB9XwT56Oeh4jzRHVCmg=="
 ---

@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Self-Driving Cars Face Reality Check"
-excerpt: "The development of self-driving cars is facing significant setbacks and disillusionment due to technical challenges, accidents, and a lack of practical understanding."
-publishedDateTime: 2023-12-18T21:00:00Z
-originalUrl: "https://oilprice.com/Energy/Energy-General/Self-Driving-Cars-Face-Reality-Check.html"
-webUrl: "https://oilprice.com/Energy/Energy-General/Self-Driving-Cars-Face-Reality-Check.html"
+excerpt: "One of the favorite shibboleths of the world's tech overlords is 'Move fast and break things.' It seems that one of the things that is now"
+publishedDateTime: 2023-12-18T16:01:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/self-driving-cars-face-reality-check-1032910495"
+webUrl: "https://markets.businessinsider.com/news/stocks/self-driving-cars-face-reality-check-1032910495"
 type: article
-quality: 24
-heat: 24
+quality: 34
+heat: 34
 published: false
 
 provider:
-  name: Crude Oil Prices
-  domain: oilprice.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://d32r1sh890xpii.cloudfront.net/article/718x300/2023-12-18_xs2dwzt3dh.jpg"
-    width: 718
-    height: 300
-    isCached: true
-
-secured: "NYgAoTnLouz3eCJaB0FXry1kVBgTL/tWyZARd2gsfV5J0/Vqv49Aqk5s38cb61GlKgF7BkghbPWHdv+8+BRjvGv6tqyFUuWPgCLZ4DR17YkqZH4esuBU5i0nuoHfjhN3OUOmFkJ1/6DCn8WgA6st+0p5jCLdPS0OdX1L5/1JCIX9oHSTUxaC6aOxlCNocELpgBaxIxg0OYMluvYXReIIS+VYBAzg1/2qIq8PjMuqVUyZ20FE9pfHPEz8coioy4cnMMN4J4EVYCeXtfV39F5wWSg4SL2gVg7hvbuEHregRVPXv9JbWxo9f+UGHbnLaqbZhCNn8ImX5AkqXScr/qrM7/dE1vHiMIjlP6fM98pgAE4=;fdcmptPBQiWLzHRQv78rVQ=="
+secured: "lTscWjlgp+Rki8NrEB+43N3XMEjnhvVtXEJbSizBvcWr3XkIsbCEErfQuVaDCgMuWOD86M3oEDXsD6TeoT57F8vY1GqWwYqUtYTh78dYzWxQ+nH3KwVS/ZFigSu2iR5lYyuRIGVdfGcmxRfrbCXu8noFmjVamf0hHGP4NJGBfTzhyD17G4gPYMkFNstUm1BcphkYqbzu6EGNZdsRxa+GjZpm/npERlNlxYukFZdJcj1K7ncqnzzYjR+Xi6ir5fZvZkBPeSXlIto03S4/3Vf8mGgQ0VRN2wq5xjPlPNXZSr65R4XKu4NG7ifprvoElQc4+7KtF9NOcjp2YztsbXRyWvYsyAT+uCkj2SuBBlOctTc=;e+3HRs7tCvgdZX1g5bF4tQ=="
 ---
 

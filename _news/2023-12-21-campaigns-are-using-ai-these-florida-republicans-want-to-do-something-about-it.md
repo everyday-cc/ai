@@ -6,7 +6,7 @@ publishedDateTime: 2023-12-21T11:17:00Z
 originalUrl: "https://www.aol.com/campaigns-using-ai-florida-republicans-161733434.html"
 webUrl: "https://www.aol.com/campaigns-using-ai-florida-republicans-161733434.html"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - Natural Language Processing
   - AI
   - AI Hardware
+  - AI Ethics
 
 images:
   - url: "https://media.zenfs.com/en/aol_miami_herald_mcclatchy_670/39370932384a8eceac803ae709537aa3"
@@ -108,6 +109,6 @@ related:
       domain: tcpalm.com
     quality: 14
 
-secured: "d4d/Y1nxgAA3UyGjXmSpjEjOglMvKuA9RvigRmUxiyV2Zear+QW+nP6Cf2SGoIt3lVipiL2J1j/CsXQzEzkTFdN+MW+7wd5F5xYLmZkNRpwgzoqN9XuM9gIm0oaovoeHPJ9de5Lyqb1qTYj8i0xefG/lOLTkh9BElVf6PP/JHZU+NFzcRbCQApH26MhMw4dmF6pZq3DD8NRoAu+oYvCf+t6VmjIAtU/wWJCsCIzLRUyl0UMaYiWhGjO/kxWLhRCd01nWFAa3D2NvIihxLvUehw3Sz97CDerMRDX75MblpyBW90dwAnsTx72PKPWVdiMr4jMsaVK0i84DCVo3fiSmLXWUbcKDz6ealwQoXBj8pco=;GR7DBglXLj/T/dJv07tKGg=="
+secured: "vsGk+Wa+zFwNII35d8TacGiHQHxpaUSM57IyQ8UZBlbSZxv0N34bb/yixHw5YTjNSZIusJiKGEY2+8ENAP0dJDQL3cZGca8UJX68fjzj8wP2U1pEBQv14JmtBfYysmxmxN67Q2RX3XEMWeOHbdWlIW2/iZt08QZiRsbu3/zRg2e2BGBmGfR7dmVSYvLzQF1qNPqqWKHkdUtjUwJtBDdhD+g4a0sNlbbP6tJsig4NQyDddwxuOrhuelTx2VuLngrTvhyYtgM+sLWVvGL3qxJAD/A9V3ZliJ7Wh9wP1kRMS9u9wesVLp3trJBPKIUEMNa3bNYvaKWtwTUHJlb7E75RXEUWfLyzmwpJpwTTe4AvmD7mSWU0/pzglB1YVmJlpQTS+Zi9W1iFVC63Ygif5RTj0PEUohia9eMARK+YIl3BmR5lowRe+G8DhTk0wtRhVSmFs9xLm3MHAjKmg3ilo+G/Y/aX+CUeMO/mWqMYvo2y8G3WrEqRBJIBKvQjs3iqD5T08aat5K2+B8wnPS2WRxqpUw==;wwqqFOuUFBgrBfDj3whJvg=="
 ---
 

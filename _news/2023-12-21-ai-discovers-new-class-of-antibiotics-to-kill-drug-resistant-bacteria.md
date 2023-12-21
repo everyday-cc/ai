@@ -23,6 +23,17 @@ images:
     height: 899
     isCached: true
 
+related:
+  - title: "MIT Researchers Leverage AI To Identify Antibiotic That Can Kill Drug-Resistant Bacteria"
+    excerpt: "As bacteria continue to evolve to withstand the effects of antibiotics, it has rendered bacterial infections more challenging to treat. The issue of"
+    publishedDateTime: 2023-12-21T20:49:00Z
+    webUrl: "https://www.datanami.com/2023/12/21/mit-researchers-leverage-ai-to-identify-antibiotic-that-can-kill-drug-resistant-bacteria/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 8
+
 secured: "oRDpGBBSaUcLijJF7YD83ecdNVuRaf31Rn9D0FjDxbhzpjKvyxcRv6eCP+PdfwMQerPc7MbssPMwaTz5CGasG0et28uWHqJq+l5eI8O6IpgoHbSi4iv5PwIIuKiH0o1SmHCwygl6jPdlY/evUG9EBuVfahoNSiw+EZShnzw5LVeLGaeHTauPDyp6gdbBkBtAUQULOxCSxwLlOSsSJ1GxeTtGeO8jmILupwtbkcdcGWp9xR6Xrg1Igb8l8K+EiegCMjKtYHBie4wMNSVxetUS8ldpvY+xM2439jL5sF3bRHaXWkGdna5ENfiYwCnSrLNaTP+raBQck0nJswKDnvFLGCxmAgyvh9fQPE3zFiiY8v4=;AmCfm0BZtsUtF56wRJkiMw=="
 ---
 

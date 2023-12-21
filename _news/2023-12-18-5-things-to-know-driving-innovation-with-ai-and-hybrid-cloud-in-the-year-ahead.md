@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/5-things-to-know-driving-innovation-with-
 webUrl: "https://www.ibm.com/blog/5-things-to-know-driving-innovation-with-ai-and-hybrid-cloud-in-the-year-ahead/"
 type: article
 quality: 95
-heat: 135
+heat: 145
 published: true
 
 provider:
@@ -48,6 +48,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 45
+  - title: "Crypto Analysts are Building a Position in This AI Token – What Do They Know?"
+    excerpt: "As crypto analysts spot potential in an emerging crypto startup's AI token, what insights are driving their interest?"
+    publishedDateTime: 2023-12-21T21:55:00Z
+    webUrl: "https://cryptonews.com/news/crypto-analysts-are-building-a-position-in-this-ai-token-what-do-they-know.htm"
+    type: article
+    provider:
+      name: cryptonews
+      domain: cryptonews.com
+    quality: 34
+    images:
+      - url: "https://cryptonews.com/wp-content/uploads/2023/12/1703190377-adobestock_631398404-min-scaled.jpeg"
+        width: 2560
+        height: 1435
+        isCached: true
   - title: "Accelerating Innovation: Open-source Software, Artificial Intelligence, and the Auto Industry"
     excerpt: "THE RISE – AND IP RISKS – OF GENERATIVE ARTIFICIAL INTELLIGENCE The past year has seen an explosion in the advancement of generative artificial intelligence (AI) programs such as ChatGPT, but the auto industry has been using traditional and generative ..."
     publishedDateTime: 2023-12-19T00:00:00Z

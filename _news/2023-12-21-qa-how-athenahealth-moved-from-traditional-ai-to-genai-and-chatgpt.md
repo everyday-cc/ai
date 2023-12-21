@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerworld.com/article/3711802/qa-how-athenahealth-mo
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3711802/qa-how-athenahealth-moved-from-traditional-ai-to-genai-and-chatgpt.amp.html"
 type: article
 quality: 74
-heat: 94
+heat: 74
 published: true
 
 provider:
@@ -25,38 +25,6 @@ images:
     width: 1200
     height: 801
     isCached: true
-
-related:
-  - title: "Further your AI ChatGPT and Python knowledge and build your own chatbot with this mega bundle, now $29.97"
-    excerpt: "Take on the rising world of AI with The 2023 Ultimate AI ChatGPT & Python Programming Bundle, now on sale for only $29.97 through Christmas."
-    publishedDateTime: 2023-12-18T16:46:00Z
-    webUrl: "https://www.popsci.com/sponsored-content/ai-chatgpt-python-bundle-deal/"
-    ampWebUrl: "https://www.popsci.com/sponsored-content/ai-chatgpt-python-bundle-deal/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/sponsored-content/ai-chatgpt-python-bundle-deal/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 57
-    images:
-      - url: "https://www.popsci.com/uploads/2023/12/18/image.png?auto=webp"
-        width: 1067
-        height: 800
-        isCached: true
-  - title: "OpenAI ChatGPT VS Google Bard: Which AI chatbot is the real disruptor? – Business Today"
-    excerpt: "FeedbackEver since OpenAI introduced its AI chatbot, ChatGPT, in November last year, we witnessed a sudden rise in generative AI chatbots in the industry. One"
-    publishedDateTime: 2023-12-17T00:45:00Z
-    webUrl: "https://www.inferse.com/842172/openai-chatgpt-vs-google-bard-which-ai-chatbot-is-the-real-disruptor-business-today/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 48
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/12/wp-header-logo-8704.png"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "EFUj89AiukQdpju3uNv3YQR8UsxZoDEB8w4PC21tUeQzxgG6l+dKEFIzRlgY7/LVvPuFTIroOfXY7ipexGqa+8PXek8TgrnbJzmrWmQeHVmPaEv8ktaxU1+p+CyDLaA8PaqIPggBho3XoRPz29YCQ3G+cBV5usib7qBRarQ3LOi7R0sIMEVUaFMgkc3/tG3qlCohfMWKy8O9C8rNEodHbohlnlKH6pAHL5ht3CAvte3m1vPDiHceQfR3Agi3NwTLFh4XN1SXvq4lEqouHtes5SZMS5loKehdmogDvu6N99OIirK7TszmK3xX/FtlCaO6jMwODutRcZPRy+Me2qcWoSs4eObjDAiv0g4kQnruOAKAvxS5nrvBzP1eULtcZFUekkR0SX6oPzYCAA+5i7t2VKOD+09AicgYTHkea0jOqjRJR5MjCA9FLGay8ZtYj4WLm/FN/QiOlnw7CnEXnN0mDfMZJ1CG/nZqXlEuvXtMoCTbiBluD2Fg4nQy7bAMuaMAh1tq67Y0WHX+XNY8oQIOjQ==;GTZ5y+EUK5FW3q9tOhhwYA=="
 ---

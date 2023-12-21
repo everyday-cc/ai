@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/apple-research-reveals-some
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/apple-research-reveals-some-dazzling-ai-tech-headed-to-your-iphone/"
 type: article
 quality: 85
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "Apple’s AI research signals ambition to catch up with Big Tech rivals"
+    excerpt: "Apple’s rivals, such as Samsung, are gearing up to launch a new kind of “AI smartphone” next year. Counterpoint estimated more than 100mn AI-focused smartphones would be shipped in 2024, with 40 per cent of new devices offering such capabilities by 2027."
+    publishedDateTime: 2023-12-21T12:38:00Z
+    webUrl: "https://www.ft.com/content/10685ed7-4b8f-4411-ae2e-5de1e3454027?sharetype=gift"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 19
 
 secured: "ZE1Zvu0aOF3L5A9rBaBDZ4Ub4kwm4EZuUAdLGe7bZ6z9id/PpwRu+gxCNIXGz9Uo+liQS1bZ0Ewr2nuk2YGLY4e53X+oykuP0rDZRYtoyrGoJYII4tD+DeVYAlNhZwSqc6M24IojeXNj2+YMP496xv9ivsLUnAumlrIalx1Hp/b1YfcMdBEAfmtDS/kDSxe9wfkDwPIZJ8IcISKEmLgsfdKmqhEEsQNS3Y4kA+qK+0Px8/SgAOh9SFYMgrmwFnm7sNbc3mz9ik9j6z5S53IGnPIUch9I71yYbtNw7qvmld5t8gcpmgZIIPcdvSi/KGH4d1/5bMW09oDncMsZ7glDhxS4K8HgHZaYeXe3nr6ysy0=;1opbMr2j0ErDG9O09ZoMfA=="
 ---

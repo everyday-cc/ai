@@ -57,21 +57,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Chatbot Outperforms Clinicians in Diagnosis Probability"
-    excerpt: "AI chatbots outperformed human clinicians in probabilistic reasoning when estimating the probability of a diagnosis following a negative test result"
-    publishedDateTime: 2023-12-21T08:59:00Z
-    webUrl: "https://www.emjreviews.com/innovations/news/artificial-intelligence-chatbot-outperforms-clinicians-in-diagnosis-probability/"
-    type: article
-    provider:
-      name: emjreviews.com
-      domain: emjreviews.com
-    quality: 35
-    images:
-      - url: "https://www.emjreviews.com/wp-content/uploads/2023/12/Pic-1.jpg"
-        width: 821
-        height: 497
-        isCached: true
 
-secured: "EpFTuxFI3uzXP0gWv6MUA9gCUPXDdXIFKbrcp5uHaxEW7kSQ4bnXc7DoxMXA4/jIPBUqZV5NNJ7cRhkVic01RoT8pm+W4nwCRQ5aku7nErHkM1Flp3K4t45DN95nEPlyPtDkzX5igCOeLvHRY1taZXaUfrKnvS5ZXxgTY/rsFNatbbdM+QES3WGMjZI+yfCMC69qo3ezk03XxEl4SshjvwX7fN6fofW4sV04qde23NmA3q5BM+ypnqVm/O8H+2pwir8MlpQlrDDiMCqZEcJE6OJZBBrY1hXiIpmkRcrjRf4TbIA8RD4EjlHtQDn819KC459oB6K/SQ6IVxrmQIcTS0mJMXEBW7imrYNYZQ2DGSc=;Fr2kcPqvBFpoEzQtDhhrGw=="
+secured: "1cPUtWqDk2GBUI3t+pXZEYgCzS1U3YHYEc/d3cxPgo3Uv/ZD1bu8ykcFAJ1uF39RXfLxn8ap5b+Bsh5SVYnnWeXEd6qn9v234CrIdjzQDjUNWZEmW64ctWI4JXg911PDTxQezMg4aRe7Pr38zOt/9XwC/njOzlQGY1Tz2/sj1944QMzGvyhdb+0ikuwR28hbwjUA7jzd9lXqUe6K4bMpU3q8D/o4+090hrM2AAjR4tCoi6saFH5AlGqZHB/p+LSKEwxEZLDYuiMOR8UzPQGHMEb3Vv1KFHTnbERLQvND/w88IjNBX0U/4/weDFf/5K9k5NjxrbcrDhsM9t8VvMTHHCwvijM2WKKNx/u85B64KW7MFByvC9hcF3USOwXn3ptZKz19xi7DU+7hHN+pzoGZcxvrbp3wPvNhhcA8r2hx28F3QMCl9IUs3wo3DfB7paNUaj6H1FtCYZ0Fhb9TrECspQSlwMd0m6lROFa6Ni8WIaooaBLT8hcAVkZKbF5GRQLxjhYALkO+JlkWj6CXhxU8eA==;6OefsNFuS1gZpakV/0vDvQ=="
 ---
 

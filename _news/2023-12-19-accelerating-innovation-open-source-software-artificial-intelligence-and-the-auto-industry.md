@@ -58,6 +58,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 45
+  - title: "Crypto Analysts are Building a Position in This AI Token – What Do They Know?"
+    excerpt: "As crypto analysts spot potential in an emerging crypto startup's AI token, what insights are driving their interest?"
+    publishedDateTime: 2023-12-21T21:55:00Z
+    webUrl: "https://cryptonews.com/news/crypto-analysts-are-building-a-position-in-this-ai-token-what-do-they-know.htm"
+    type: article
+    provider:
+      name: cryptonews
+      domain: cryptonews.com
+    quality: 34
+    images:
+      - url: "https://cryptonews.com/wp-content/uploads/2023/12/1703190377-adobestock_631398404-min-scaled.jpeg"
+        width: 2560
+        height: 1435
+        isCached: true
   - title: "Using artificial intelligence to talk to the dead"
     excerpt: "Some people are turning to AI technology as a way to commune with the dead, but its use as part of the mourning process has raised ethical questions."
     publishedDateTime: 2023-12-18T13:00:00Z

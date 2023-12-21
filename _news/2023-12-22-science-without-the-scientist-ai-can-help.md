@@ -1,16 +1,14 @@
 ---
 category: news
 title: "Science Without the Scientist: AI Can Help"
-excerpt: "AI systems autonomously conduct scientific experiments, augmenting human researchers' roles. The collaboration between human creativity and AI efficiency can transform scientific research. This synergy paves the way for a future of accelerated scientific discovery and innovation."
+excerpt: "Perhaps, there is no more iconic image in science than the tireless investigator holding court in the laboratory. However, scientific research is undergoing a transformative shift. A recent study is introducing us to the capabilities of Coscientist,"
 publishedDateTime: 2023-12-21T16:01:00Z
-originalUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202312/science-without-the-scientist"
-webUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202312/science-without-the-scientist"
-ampWebUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202312/science-without-the-scientist?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-digital-self/202312/science-without-the-scientist?amp"
+originalUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202312/science-without-the-scientist"
+webUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202312/science-without-the-scientist"
 type: article
-quality: 57
-heat: 77
-published: true
+quality: 17
+heat: -1
+published: false
 
 provider:
   name: Psychology Today
@@ -18,12 +16,6 @@ provider:
 
 topics:
   - AI
-
-images:
-  - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2023-12/LabRobot.png.jpg?itok=GaXnBByp"
-    width: 1528
-    height: 800
-    isCached: true
 
 related:
   - title: "Meet 'Coscientist,' your AI lab partner: System succeeds in planning and carrying out real-world chemistry experiments"
@@ -42,16 +34,16 @@ related:
         width: 2880
         height: 1620
         isCached: true
-  - title: "This District Hopes Seeing What AI Can Do Will Spur More Students to Take Computer Science"
-    excerpt: "For educators who haven’t had much experience with AI, Hour of Code has “given them an opportunity now to start that conversation about AI,” Milenkovic. “We think teachers are more interested in it for their own use.”"
-    publishedDateTime: 2023-12-19T00:00:00Z
-    webUrl: "https://www.edweek.org/technology/this-district-hopes-seeing-what-ai-can-do-will-spur-more-students-to-take-computer-science/2023/12"
+  - title: "Artificial Intelligence-Based Lab Partner Designs, Runs Experiments in the Lab"
+    excerpt: "Coscientist uses large language models such as ChatGPT to design and execute scientific experiments from simple prompts."
+    publishedDateTime: 2023-12-21T01:17:00Z
+    webUrl: "https://www.genengnews.com/topics/artificial-intelligence/artificial-intelligence-based-lab-partner-designs-runs-experiments-in-the-lab/"
     type: article
     provider:
-      name: Education Week
-      domain: edweek.org
-    quality: 7
+      name: GEN
+      domain: genengnews.com
+    quality: 13
 
-secured: "j+HiyCmwedcOLDgHpd91umvy8uKHktEh1ANLtyAv/7POmFYQ7IjhMVc+oifdsRj7QZXpMWguZ13e/Lrdk3gUhYFOqBhbGqNrPLED9UgsyZwXCfzF2KBq6vJfnukyyZ2CVny93Z9o8SnvObTA1Mk7jDGdYFZdTBYVEYOSQlSbjc6HDPoIKIIx4aDgDOtEyjuAJJCT2rknMP1yIvDNPYuGkHQWpPKm8UUR42GQNsRFAjJpHyGMIO4GL2P9ZB1TSuy+z/0l5UsB5IxuKhK/CnoZdrMg+zC7bRsjCU/E+zi50ngyx9ZFnBSr/ovUwVXQXGJXvDGiOHJoMyT6QOJetcQGxfTm+DEe/2SUDflwgy9NxqU=;3pTYOcKdDLyHs8RqVu/Cag=="
+secured: "Eow5X01g0/zMVx1g5UTJGlxG1PG9oQb7O65TSteVbo5skQZvW432qwvNoqBKBYGIJIerh0j6WHRheYs5VzutpYWLREjtLQgr2jJuaKGSv6Ho2tcUzSiPpGt4AIJkIBCpHoL0zFGdsbYTsMFEF28z+/8It3xO19c+8mVBpNC4H3QA9PqDl7cF1/PT9Hq5U7t6DyHSMttmADzfG/2KcbGXF+xFmlt7WQuzy8elvEZBEWSEkY5HCVfr9rdoy3DfApf+KxJ/8h5fzJy0Qv+DdC53TV0EcVU3zBFsuEZd7fNq3vxo4c7BChTlpgvC1lJv2vajl7zGZASl9sCJhws30h1Q07DqxDIsq+2wmiBOncX1Y9AASNhv3tJL4aeUvoOzlsDJZ/irqW7dZ/yR0Wu1+KJ0FmoFjG9di6JrdM9LfJcljorE6Cf43hHCjAxPgcP+h3bdLcji9DjxQ22bcmMHUsPH8/HLTJqH9QLoJxTatOJWLTJ4vwGYLcHLNOFsAxZMidCQgdNmdaRxq8OZ/qFWpX/6Fw==;MazOX0McQ3Q8n8U4apl5Eg=="
 ---
 

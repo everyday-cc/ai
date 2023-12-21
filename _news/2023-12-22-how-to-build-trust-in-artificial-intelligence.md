@@ -6,7 +6,7 @@ publishedDateTime: 2023-12-21T17:00:00Z
 originalUrl: "https://www.theinformation.com/articles/how-to-build-trust-in-artificial-intelligence"
 webUrl: "https://www.theinformation.com/articles/how-to-build-trust-in-artificial-intelligence"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://tii.imgix.net/production/articles/11952/c44ee217-1411-4d68-9827-5481671deb2d.png?fm=jpg&auto=compress&w=1200&frame=0"
@@ -85,6 +86,6 @@ related:
       domain: ibm.com
     quality: 82
 
-secured: "Z2+7a1VxnBA7d1s+5RDEwofjzpjqU3EkrjAOmFWqYVzDphrLQ0+g3+yEVdY74xaW7QtxvzgkfdBJE0G+DsaE92hRWnrJOOufzc/pcnwm8ukXrWBeEMJR7Cgdw050F4n+tMzEklePXVh+b7RsL4i32qZJ4R+EXhD1PeWnxicIdkzHUjYnX1KyAF/QWC8KCSjI4ObemoRc4k6tGAzCN40snHjOlxI1hI+OXzPmJvNTvJ56tn0BYM/k61TTaoJR8kMXGrO0fm7GatD7g3WBwt/NiOZK1AkSEiEZA91r6wACcBii/LceUvToDjUoZi8fNFocmhB54ZawJFG6RXWVJKZ+TjSLyTAE6aahXWNdXRlXecQ=;kfAt+JZO0nsOshjx21UvgQ=="
+secured: "4lxNiZA8HX8rhqX0PwiKJVtBEcOceEeZo5+7/j9LOLjoHDsAqTnOu2wXTU5zOVhSB0TeckUBt0XhiGYjed8fPlNNxqz8sMcTudw0hmb1WNROB0vIi5D3REdU33aLG1NzNkjEHVTLbOtK9ojoLUsbvfO9FTE+1ezi8tocY41uzOqqjCAI4+gtTNVz8Oo2NCoLYcSq9pamHRuMqcbGZx+1lp9qv/uq6WP4Y770iurzghAxLmJnZCJ3WUY60XIviCVRXHZtx78iGeQFmNJWkfkaIEptRZdRey7NLGh4aOCas16jHt63r0mH+GTdNf/r5Bka24+b74JwtgGjZkuaOlnqd4/vyOiUAV1h2RhvCvYS08k5bgvZGeXxrco6ZcMF2xnaPzeZZ/kWJNd6caC32ByDdzSiMdJuEfymaOaLp8nRHTd0+AXbhLHljmBwpTAQ6JbuNGOXimajZyhSnovStiIzwmPQuzunrcYnO+pYZRE0NQIxxu0qrC1ODbVNJ/F5BQleDvqobOszh1hYc7V8Dwmolg==;rz0XyGZlOcppW1lW0X4Rfw=="
 ---
 

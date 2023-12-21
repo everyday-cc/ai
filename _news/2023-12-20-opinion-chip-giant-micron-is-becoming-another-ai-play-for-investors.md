@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/story/chip-giant-micron-is-becoming-an
 webUrl: "https://www.marketwatch.com/story/chip-giant-micron-is-becoming-another-ai-play-for-investors-fd5aae8f"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "Opinion: These 5 guiding principles can help keep AI from going rogue"
+    excerpt: "Read: AI needs a strong code of ethics to keep its dark side from overtaking us Good governance is anchored in solid evidence. We foresee the need for objective assessments of the state of AI and its trajectory, to give citizens and governments a sound ..."
+    publishedDateTime: 2023-12-21T20:04:00Z
+    webUrl: "https://www.marketwatch.com/story/these-5-guiding-principles-can-help-keep-ai-from-going-rogue-6b76553e"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
   - title: "Opinion: Enjoy the Ride – John Stossel"
     excerpt: "The magic of the driverless vehicle is the artificial intelligence behind the sensors. That allows the cars to operate like a human nervous system. Sensors and radar are the eyes and ears. The brain is algorithms trained by billions of simulated trips. The more the robo-cars drive, the more they learn, and the smarter and safer they get."
     publishedDateTime: 2023-12-20T07:07:00Z

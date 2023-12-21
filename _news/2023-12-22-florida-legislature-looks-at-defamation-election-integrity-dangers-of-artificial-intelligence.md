@@ -62,7 +62,7 @@ related:
     provider:
       name: AOL
       domain: aol.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://media.zenfs.com/en/aol_miami_herald_mcclatchy_670/39370932384a8eceac803ae709537aa3"
         width: 1140
@@ -106,6 +106,6 @@ related:
       domain: tcpalm.com
     quality: 14
 
-secured: "eLNWeCbWJnBbkijqa3HDfAQMLQcEr4y5j0grvEjeRmGI9Ufak9oe7Yq5BojOl/jw8t7VSLgA56wE1ED9CW4neRIsBsOSM8pN7SC2WigXQlRxYZYCRzNhpIMSRZ3cW5yXIv5xiYzoWWFOappy9poVpeTqHX64KylUmzAMBSzCSgCYJBWEmXrDNpTqcmpw/zkOuhkbNve6FBaLZ9XDnTcyR3W1s9Zz199bq9vl7FWtp/xNzBQQyLf3Fmndb8EBP/h6kc0gIHFLihIk5tQ7IVEuvcXBEW/T8oRBlX3sCAcVF5Ws2K14ijO2D77/ySamULSZ9PvmkT9l0a9lj8hkgu0g+P6kHjuZ4lwby7Csb4iaJ3k=;0nQle8iqp/NUMBbualtKWw=="
+secured: "x8cZ5uoPUFqWbmRa9QOCmjDo1jkwAmgyoRlkiYj4C1tpMRssieuGbygUv0WowKmjQYYB1jDRrK4sGggUcOU+OTqElYB60pvTQdrt4aHyGmestNkYkGwlN8Xm+RGxpBW0mHfdyZle5JNlwAD/0I6L68k/L+Suxoa84houZrckIZNTHgPUCwvQ6CasW8aWY3/yL8HooGxLrB1ZUMX0dEDPJRVcJXiOeYsexrC1t0R0Xj8Exc4bY+yUY29xgTbdkvRSqbqM2mZ3UePL3ivLUoHY+G5nTqfLh/bGYgX1BitntjTqGfG41LcC4slkCJrpx2NV68uKDxawF/Rz81NUk1vbJgVOcoqNhAPXmsBqWQS/4L0YPBILUrs26X2wv4sQFgchWOD3A471XK5Gdp37cTQkR6yrcLd2Mh+l7rEAIA0O4JK6TAPwRN6qx5j5zrb+B2cXHIw7qgVG6T+Rtag2LRVxTrmCN8KrZTACuc5CR+J2X5ii4Jw0l87ZsOScF1X8PsRnWV9weUnfmJavofou0vE0bQ==;LqQXP5WZnYr4N6FZnYzpiQ=="
 ---
 

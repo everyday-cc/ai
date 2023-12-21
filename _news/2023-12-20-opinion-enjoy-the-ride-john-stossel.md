@@ -34,6 +34,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 64
+  - title: "Opinion: These 5 guiding principles can help keep AI from going rogue"
+    excerpt: "Read: AI needs a strong code of ethics to keep its dark side from overtaking us Good governance is anchored in solid evidence. We foresee the need for objective assessments of the state of AI and its trajectory, to give citizens and governments a sound ..."
+    publishedDateTime: 2023-12-21T20:04:00Z
+    webUrl: "https://www.marketwatch.com/story/these-5-guiding-principles-can-help-keep-ai-from-going-rogue-6b76553e"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
 
 secured: "KRm77QQ015q3LNENwzyPh8uBYyqZ4zQtqaL4TyZkeLUljYVmiOn/O8DG+1ZPKQAS6lExkR0OL6gGwVQVTgBXIA/G4jKwt0Hmdt//dajy+SmDUy2evHHIfw8boEgUi6LbLk/OyiCpT98YTGug71s/LQcPBiiYI1gTnebptakD/mlnwSRzenOlKw0cuVhHbYaawSAEfIpcLGeMqqN4EuFo5KL5e0d7jF+Ss42GZOQaj1Pm4olr7oznxouf9HWXZ5xcUHfmmGCDu+6osMngS+X1eY25tTn5CAHGPplso4EPRM4DlmYnUlXt1p/ePE1f+kVr2T+ouZk0Ha97ze7VhXPPQZyphyo9hScZ+XbQlRYpO7FZZAFpx++cG0Rs1XjZYtaa1o/guKtCXFJHiV4K5Csp/8BGWsd7fjYvlVXQ3J1Nnqjc3qxY29WzSkbUenvVWA95RNw4G1WK4kImRDbBpf8eIqhj43BtQW3vSaDQb4Khh3CBKAi3YGR8acC/mmzZZgB3QiU6XG8uQ27nLVmxtf51Yg==;NgXALhgDdbaDLo+lS7BZ3w=="
 ---

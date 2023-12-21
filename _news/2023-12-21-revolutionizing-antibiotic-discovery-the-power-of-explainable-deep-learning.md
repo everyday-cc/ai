@@ -7,7 +7,7 @@ originalUrl: "https://scitechdaily.com/revolutionizing-antibiotic-discovery-the-
 webUrl: "https://scitechdaily.com/revolutionizing-antibiotic-discovery-the-power-of-explainable-deep-learning/"
 type: article
 quality: 51
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Catalyzing Drug Discovery with Explainable Deep Learning"
+    excerpt: "Published in Nature, the peer-reviewed paper, entitled “Discovery of a structural class of antibiotics with explainable deep learning,” was co-authored by a team of 21 researchers, led by Felix Wong,"
+    publishedDateTime: 2023-12-21T20:18:00Z
+    webUrl: "https://www.labmanager.com/catalyzing-drug-discovery-with-explainable-deep-learning-31554"
+    type: article
+    provider:
+      name: Lab Manager
+      domain: labmanager.com
+    quality: 34
   - title: "Drug Discovery Using Deep Learning"
     excerpt: "While AI continues to make an impact, it is also limited by the many black box models that obfuscate the underlying decision-making process."
     publishedDateTime: 2023-12-20T22:41:00Z

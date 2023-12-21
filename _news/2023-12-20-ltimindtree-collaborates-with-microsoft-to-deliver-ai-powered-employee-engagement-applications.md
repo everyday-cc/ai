@@ -448,6 +448,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 22
+  - title: "Scrutiny of OpenAI and Microsoft relationship could affect how AI industry grows and innovates"
+    excerpt: "The boardroom of OpenAI, the business that developed ChatGPT, has seen some turbulent times recently. But while the drama around the sacking and reinstatement of CEO Sam Altman has subsided, the company now faces investigation by the UK competitor authority—a regulator that's been increasingly training its spotlight on big tech in recent years."
+    publishedDateTime: 2023-12-21T20:50:00Z
+    webUrl: "https://techxplore.com/news/2023-12-scrutiny-openai-microsoft-relationship-affect.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 22
   - title: "Microsoft changes songwriting forever (for better or worse) as Copilot AI now can write you tunes"
     excerpt: "Copilot has steadily been receiving updates over the last few months and can even produce generative AI images from prompts thanks to being powered by DALL-E. Today, Microsoft announced it has partnered with Suno via a plugin to turn your ideas into songs."
     publishedDateTime: 2023-12-19T18:27:00Z

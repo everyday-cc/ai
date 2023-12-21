@@ -85,11 +85,25 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6584574a44e8d0346aa460b3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1600
         height: 899
+        isCached: true
+  - title: "Artificial Intelligence and the Law of the Horse"
+    excerpt: "If 2023 was the year artificial intelligence got loose in the wild, 2024 will be the year policy makers try to contain it. For anyone who witnessed the technology debates of the past several decades, the signs are clear. The white papers from executive ..."
+    publishedDateTime: 2023-12-21T21:16:00Z
+    webUrl: "https://www.wsj.com/articles/artificial-intelligence-and-the-law-of-the-horse-regulation-ai-policy-25e70fc8"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-903923/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Top AI Trends That We Can Expect in 2024"
     excerpt: "As AI reaches new levels of maturity in 203, broad production deployment is expected across industries like healthcare, finance, animation, and education to increase security, reduce costs, and enhance workflows in the upcoming year."

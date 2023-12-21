@@ -41,6 +41,48 @@ related:
         width: 1200
         height: 1188
         isCached: true
+  - title: "Register now for the Citi Cup fintech competition"
+    excerpt: "SUZHOU, China, Dec. 18, 2023 /PRNewswire/ -- Citigroup Services and Technology ( China) (CSTC) has announced that the 19th Citi Financial Innovation Application Competition (also known as the Citi Cup) is open for online registration. CSTC leads Citigroup's financial technology and financial operations services industry in China."
+    publishedDateTime: 2023-12-16T23:59:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/12/17/9935362.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 24
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "Register now for the Citi Cup fintech competition"
+    excerpt: "Citigroup Services and Technology (China) (CSTC) has announced that the 19th Citi Financial Innovation Application Competition (also known as the Citi Cup) is open for online registration. CSTC leads Citigroup's financial technology and financial operations services industry in China."
+    publishedDateTime: 2023-12-18T04:16:00Z
+    webUrl: "https://www.aap.com.au/aapreleases/cision20231217ae95944/"
+    type: article
+    provider:
+      name: Australian Associated Press
+      domain: aap.com.au
+    quality: 24
+    images:
+      - url: "https://www.aap.com.au/wp-content/themes/aap-news_theme/dist/assets/images/sport300x250.108183d0.gif"
+        width: 300
+        height: 250
+        isCached: true
+  - title: "FinTech Magazine’s Top 10 regtech companies"
+    excerpt: "Discover the Top 10 RegTech Companies reshaping compliance for financial institutions in the rapidly evolving fintech landscape"
+    publishedDateTime: 2023-12-20T09:00:00Z
+    webUrl: "https://fintechmagazine.com/articles/fintech-magazines-top-10-regtech-companies"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/4fc27e3500f6aee9de4466e554791938:26d8ecc7055dc30bd0a9b6ade722341d/fintech-top10-website-dec2023-regtech.jpg.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "ZwHp8wSBolP2FoQBp6STPGh9NR7t3llgQGVMDSUHhFRngJxmXm1gyomFfnASB2THC7IIe3uB+2lZzYqBAHLccKq+Zb5wfTUe862/J7k+1SeV7I2L3dN5tqJHLlmXSJDV7wpzZV8vAqruDrdlV4eltTXCoAKYxW+gdFXHa8P3QnMZ41S/3ePWxtEbn7ysrX3iXQpLiBozWKJlK9qYx4gAHHwjbL7ZVRoFhA+c2/frjJzyGcjllCAijsf55R9k6QihzUIvNJTjfIpG1ZO9BuaqUwd1XBpzQvXvfSyMHTCvFeKMZKIeAPVot0TmWGdYkCl55yZ3WXTLnVwe8TTMNgNRKnA0tK6RkYHDB6yW8bIszYPHGh5IMYXdfjHqXmQQYXhKCmZZWHNsyeNVnb7X8VQ/CgMzPCUJj3kXCqfMaBQvfco00+STKI59JsAC5IAE5HXgtOT4gE5Z6Q/bGlk+L1iG73fG++itWXVxYZq0aaStypI11XkoeB4hb5S1HcaWmGWEzPKx7p1uZIzclF7GCIEvig==;gcYM+KEDw243UJ2cgUvmcw=="
 ---

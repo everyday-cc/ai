@@ -64,7 +64,7 @@ related:
     provider:
       name: AOL
       domain: aol.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://media.zenfs.com/en/aol_miami_herald_mcclatchy_670/39370932384a8eceac803ae709537aa3"
         width: 1140

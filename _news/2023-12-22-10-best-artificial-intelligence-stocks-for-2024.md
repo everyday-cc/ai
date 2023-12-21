@@ -6,7 +6,7 @@ publishedDateTime: 2023-12-21T16:34:00Z
 originalUrl: "https://www.forbes.com/sites/investor-hub/article/best-artificial-intelligence-stocks-2024/"
 webUrl: "https://www.forbes.com/sites/investor-hub/article/best-artificial-intelligence-stocks-2024/"
 type: article
-quality: 69
+quality: 71
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AWS AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/6584574a44e8d0346aa460b3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
@@ -90,6 +91,20 @@ related:
       - url: "https://i.insider.com/656f38f258e7c0c29a29a572?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Artificial Intelligence and the Law of the Horse"
+    excerpt: "If 2023 was the year artificial intelligence got loose in the wild, 2024 will be the year policy makers try to contain it. For anyone who witnessed the technology debates of the past several decades, the signs are clear. The white papers from executive ..."
+    publishedDateTime: 2023-12-21T21:16:00Z
+    webUrl: "https://www.wsj.com/articles/artificial-intelligence-and-the-law-of-the-horse-regulation-ai-policy-25e70fc8"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-903923/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Top AI Trends That We Can Expect in 2024"
     excerpt: "As AI reaches new levels of maturity in 203, broad production deployment is expected across industries like healthcare, finance, animation, and education to increase security, reduce costs, and enhance workflows in the upcoming year."

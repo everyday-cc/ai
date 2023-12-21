@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Apple wants AI to run directly on its hardware instead of in the cloud"
-excerpt: "It is the second Apple paper on generative AI this month and follows earlier moves to enable image-generating models such as Stable Diffusion to run on its custom chips. Device manufacturers and chipmakers are hoping that new AI features will help revive ..."
-publishedDateTime: 2023-12-21T06:43:00Z
-originalUrl: "https://arstechnica.com/apple/2023/12/apple-wants-ai-to-run-directly-on-its-hardware-instead-of-in-the-cloud/?ref=upstract.com"
-webUrl: "https://arstechnica.com/apple/2023/12/apple-wants-ai-to-run-directly-on-its-hardware-instead-of-in-the-cloud/?ref=upstract.com"
+excerpt: "While Microsoft and Google have largely focused on delivering chatbots and other generative AI services over the Internet from their vast cloud computing platforms, Apple’s research suggests that it will instead focus on AI that can run directly on an iPhone."
+publishedDateTime: 2023-12-21T14:42:00Z
+originalUrl: "https://arstechnica.com/apple/2023/12/apple-wants-ai-to-run-directly-on-its-hardware-instead-of-in-the-cloud/"
+webUrl: "https://arstechnica.com/apple/2023/12/apple-wants-ai-to-run-directly-on-its-hardware-instead-of-in-the-cloud/"
 type: article
-quality: 69
-heat: 79
-published: true
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Ars Technica
@@ -19,14 +19,7 @@ provider:
       height: 50
 
 topics:
-  - AI Hardware
   - AI
-
-images:
-  - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/09/Screenshot-2023-09-12-at-1.59.20-PM-760x380.jpeg"
-    width: 760
-    height: 380
-    isCached: true
 
 related:
   - title: "Apple isn't behind on AI, it's looking ahead to the future of smartphones"
@@ -39,6 +32,6 @@ related:
       domain: appleinsider.com
     quality: 16
 
-secured: "nPsO4SICtjspxzuHdbbnTwksKndxkmfRlskRt8UtZ+qy04/20Jgfxlz6vp+rjKrLv/y/qLDD//wdhStuXDfCJ+ZLSTmQpckFr9p66x0wAUEykhkaHEnKAu7h8p3dB6xhpgR0NfN4MLpF0X+UeLkpZ6W226s7lzS9G5iVkKQ3PVut415bAWavL+29OWnpbKrZV+lORTj9ptSQoyWuP0swbHHmkyaUINPRyMUkZgP3rS9MR9zxstRJ+xmaGp+Dv3Aug9+iw4T0agTsm+7MdoyghPIWoVpQQhHRBauWcS6yVVYmjDfivqKlauyMs0iOkIHpWSmYF/Bu/uJiZYzlLCVo3YeqI83q8aUHwrLYA64vQj0=;h1q0ThibpFzNDy9wGj4SXg=="
+secured: "7xr2ogUtbplnenmcjAd1zfSxz2lqKXvVijI/Kr3ZSh7blQ8jsI4r9+026OA3PH/DvRB+GfRozwhfM2eofkf4WnnQEcBvphtiJQjJQ79tZIs3PF4z5vyZEaT60op0AFgBUf7FLdE+ybTdayxV+pOzgjhQsdMB2ghsRz8aoaoibavauibqcMHbrepN00D6OmwXI1zJWjbeiwBFobc1z3GoFMHDFcRi9DrYzWPrW879jcq59I31K9SiezyPkFA31cRoFN/qDcASm2o0JbpI3CCNHkFcTpJ0qIm1jPDXHnjYJmLlF4D1Wx7U7kSJwTOgV6LR1HIll7hC2qIyqu8kxQxd8xaRN0KaBQFBSMR38fAf0BhYaWdgqHu1O3O231m/Apg8TPi0WSErtnoCRPGWD5LFvVNLiwYHUyEk31wNn2LjpZcQqoO507wjtFZ/9Oq2dpXJUdGVsP6KAp1ejgVdfsQ31kFl/QwVG5dIGUopTY9Kb4BUi0Mnk6StwPrbVflpqZuD8sKILjT94iOK8SKf8i2TUA==;MzhbrKnYvIjgMFblDarUKA=="
 ---
 

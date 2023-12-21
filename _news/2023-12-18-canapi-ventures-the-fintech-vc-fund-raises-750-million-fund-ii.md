@@ -9,8 +9,8 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/12/218486-canapi-ventures-the-
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/12/218486-canapi-ventures-the-fintech-vc-fund-raises-750-million-fund-ii/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 99
+published: true
 
 provider:
   name: Crowdfund Insider
@@ -40,6 +40,48 @@ related:
       - url: "https://cdn.betakit.com/wp-content/uploads/2023/12/Synctera.jpg"
         width: 1050
         height: 700
+        isCached: true
+  - title: "Register now for the Citi Cup fintech competition"
+    excerpt: "SUZHOU, China, Dec. 18, 2023 /PRNewswire/ -- Citigroup Services and Technology ( China) (CSTC) has announced that the 19th Citi Financial Innovation Application Competition (also known as the Citi Cup) is open for online registration. CSTC leads Citigroup's financial technology and financial operations services industry in China."
+    publishedDateTime: 2023-12-16T23:59:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/12/17/9935362.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 24
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "Register now for the Citi Cup fintech competition"
+    excerpt: "Citigroup Services and Technology (China) (CSTC) has announced that the 19th Citi Financial Innovation Application Competition (also known as the Citi Cup) is open for online registration. CSTC leads Citigroup's financial technology and financial operations services industry in China."
+    publishedDateTime: 2023-12-18T04:16:00Z
+    webUrl: "https://www.aap.com.au/aapreleases/cision20231217ae95944/"
+    type: article
+    provider:
+      name: Australian Associated Press
+      domain: aap.com.au
+    quality: 24
+    images:
+      - url: "https://www.aap.com.au/wp-content/themes/aap-news_theme/dist/assets/images/sport300x250.108183d0.gif"
+        width: 300
+        height: 250
+        isCached: true
+  - title: "FinTech Magazine’s Top 10 regtech companies"
+    excerpt: "Discover the Top 10 RegTech Companies reshaping compliance for financial institutions in the rapidly evolving fintech landscape"
+    publishedDateTime: 2023-12-20T09:00:00Z
+    webUrl: "https://fintechmagazine.com/articles/fintech-magazines-top-10-regtech-companies"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/4fc27e3500f6aee9de4466e554791938:26d8ecc7055dc30bd0a9b6ade722341d/fintech-top10-website-dec2023-regtech.jpg.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "JzFU5hZplY0OWAoxk4weB+90tZp7RUiFNSxYArE+uIvksoSHoFfQpbxdxEnYJQAbeeinhrhVi2SWmbkz/ifHNTmvxZUqpjWsNONz/RF0sS5ts8IT5VS/jYs8W8bt8kk9W+CLHGpw1NPLTNoEFzBP+xpsHhTC49Q6ilnXeQ59fhw9lqJvgN5RduSlCTp5MmO+pdldAHT29CYXr44V312cLC9ffrdhRUnfG6yzCvY/pTgrLuPPdxpeqo8YUlYcnzfh+CuXNZZiMKqZGxc5aBy5xU30w4be9J7UNia5+jPJmtJ6pRm698HcYGOodVmu43XO1pGkjyENUhKNms/Wd4AEwppFoVKUZxOydoxB2pyAVV6X47jrh0iEVUIRmKofj4ZGfkw6vAj215P04Gud5pEO5g4MXbly1twornq2A6koxpzIbHi+z9zmroU/JIlncnbogvcJL0FLoodmoApf+Dfhm31Hky37Sy90YHwVIKK03rp3BAMIfXTjf0s6wRGTMD7BozuXMpJTgNRzwFlEIGSQnQ==;s+Me4IgYgERpIVmV71xgFg=="

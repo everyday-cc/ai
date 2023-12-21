@@ -45,6 +45,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Apple’s AI research signals ambition to catch up with Big Tech rivals"
+    excerpt: "Apple’s rivals, such as Samsung, are gearing up to launch a new kind of “AI smartphone” next year. Counterpoint estimated more than 100mn AI-focused smartphones would be shipped in 2024, with 40 per cent of new devices offering such capabilities by 2027."
+    publishedDateTime: 2023-12-21T12:38:00Z
+    webUrl: "https://www.ft.com/content/10685ed7-4b8f-4411-ae2e-5de1e3454027?sharetype=gift"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 19
 
 secured: "/fsv5HW4ie9732u3hwDrm7pAJQgQq/ghjTJPEMlehXNk5BjmRKNqZof9+V8OJPRrMRgyzeJooYsWZIQ7cDX5mdGuiY4PcVBt3pjhMHayb9YH6w5+0a2YTCMdfRpBy9BBpZL5nKcff8sCRL80xT8P4m50ygNd0VXDOYwYxalPXbV9t1tWnOM2pelD1jhKgQI0GqiQOEjBZak0xQHKmzt90HOwZ6frnvQOZzCawRJyK1Y4d/Ky/B8rAShXhR+ZFSgvWpFZvElXEzxHMZvhCcYqW7G63I0mk9q1HR7qzFFAc24KR0HMDowr3zO/uS2Y0zjaNqdsxbyzY27tYnKrY2BgKhoJZCeXE4ZPm1CoENKBgWS2tNwmdngpkKS//pb59OmA03f9vxrLqrQ0gUI9FaeyHA4SpkP5zL8uARHaqgNFAEMGG6ykpKJ/pgovuLUTb3oCRJeId8/3RPnaon0u+tYIv78mT2dWLALCyQND5OEItwj5CJIAoPjOMRSO5ns0vo+FK4XakwfYVGld6y3iilL6kw==;LfAM0mbRLrxvRfP0vCHuow=="
 ---

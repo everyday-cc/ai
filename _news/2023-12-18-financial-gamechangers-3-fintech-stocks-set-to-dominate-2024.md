@@ -37,6 +37,29 @@ related:
         width: 2400
         height: 1240
         isCached: true
+  - title: "Why These 7 Fintech Stocks Should Be on Your Radar in 2024"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips As the macro picture appears increasingly brighter, fintech stocks are coming"
+    publishedDateTime: 2023-12-21T11:50:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/why-these-7-fintech-stocks-should-be-on-your-radar-in-2024-1032918833"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
+  - title: "What Are The Most Interesting FinTech Startups?"
+    excerpt: "What Are The Most Interesting FinTech Startups? From the innovative approach of wallet passes to the democratization of fractional investing, eight founders and COOs weigh in on the most captivating FinTech startups today."
+    publishedDateTime: 2023-12-19T18:35:00Z
+    webUrl: "https://techbullion.com/what-are-the-most-interesting-fintech-startups/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 24
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/What-Are-The-Most-Interesting-FinTech-Startups-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "c3OeQAmORfJaDJPunkuU6G3GGnWFYbKGVMlEZG+t/ffUw+P/jLKLTJIoPh4P1ZRl62Hlz1ILyF3kxwoUW/wVE/N/vtVWvirbgS2Wqwq2Xubi0jIAA+ynJ1+vQ255Zcd02UpiJ4E0UDSw2pBy+84yFdPbpkdoDjMQJWBZP6C72hgMBGXZ4XHYbBLqfCSk6f81LY995qYTQ9i0dr9x1xoMhG4M5LcrgJUIOOj+iDv+aUYtbvmOHk7ZbzQf2FOHJ2IUiNpQARDQrUz8RMlA6KGv1uITcdYKpKhy3L/8LYwZMghvqOabZaPjpB1lYnyiuQWdMrcy/22091yDIJz+iIqXHX2jF+XsfLdOHTKzhP5fpTg=;yW4YJsngXjWKwpoLEx8qyg=="
 ---

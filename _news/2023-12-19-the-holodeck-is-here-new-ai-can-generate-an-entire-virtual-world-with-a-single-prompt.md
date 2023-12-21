@@ -6,8 +6,8 @@ publishedDateTime: 2023-12-19T12:33:00Z
 originalUrl: "https://www.tomsguide.com/news/the-holodeck-is-here-new-ai-can-generate-an-entire-virtual-world-with-a-single-prompt"
 webUrl: "https://www.tomsguide.com/news/the-holodeck-is-here-new-ai-can-generate-an-entire-virtual-world-with-a-single-prompt"
 type: article
-quality: 31
-heat: 31
+quality: 33
+heat: 33
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://cdn.mos.cms.futurecdn.net/NwWAchiF2WXqcUDzTExQsK-1200-80.png"

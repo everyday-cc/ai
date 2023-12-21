@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Catalyzing Drug Discovery with Explainable Deep Learning"
+    excerpt: "Published in Nature, the peer-reviewed paper, entitled “Discovery of a structural class of antibiotics with explainable deep learning,” was co-authored by a team of 21 researchers, led by Felix Wong,"
+    publishedDateTime: 2023-12-21T20:18:00Z
+    webUrl: "https://www.labmanager.com/catalyzing-drug-discovery-with-explainable-deep-learning-31554"
+    type: article
+    provider:
+      name: Lab Manager
+      domain: labmanager.com
+    quality: 34
 
 secured: "YMuwnaWVnYZAolQ6Ov4x3nSUTKZHk+Za0t6J+iXzNRDlnMwwrgdJGqCx/hD8jN67SQNtOST5Dhlc9VTiWjY7wU/B8eEXEqe0rEA5BFwA9nceEEOHAUBorJe8hBKCicfN6E07LaevtKA1Y5098Nizy6eclrwiUaCU+nBnnXluaf9Vy33g93a8ZzUCVAhimWRyaRZllOt72nQRW132wxfPV0sBSM4ha9QWeSgGCal/wl/cISEC0xizHRn7OCgGrnKL+bmsHAyIhbV31qUykM7lK4qsHUUey8MDwYBD7PZVeLESodjI98+BVKG6grQAMVuyY198ltP3a+awymcBZudF8/vZwKlo3ISrRIKIaZV1itI=;qCkvkFcm/YdgSJBor48nUg=="
 ---

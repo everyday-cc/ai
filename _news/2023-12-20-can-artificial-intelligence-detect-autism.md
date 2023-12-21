@@ -8,8 +8,8 @@ webUrl: "https://www.psychologytoday.com/intl/blog/the-science-of-autism/202312/
 ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-science-of-autism/202312/can-artificial-intelligence-detect-autism?amp"
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-science-of-autism/202312/can-artificial-intelligence-detect-autism?amp"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-12/MDM_0008.JPG.jpg?itok=Gh2nMte_"
