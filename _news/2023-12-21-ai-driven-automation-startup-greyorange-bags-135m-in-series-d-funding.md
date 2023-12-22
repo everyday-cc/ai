@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbctv18.com/startup/greyorange-ai-driven-automation-sta
 cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/startup/greyorange-ai-driven-automation-startup-bags-usd-135m-in-series-d-funding-18622491.htm/amp"
 type: article
 quality: 59
-heat: 59
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 666
     height: 460
     isCached: true
+
+related:
+  - title: "Warehouse Robotics Startup GreyOrange Raises $135M in Series D funding"
+    excerpt: "\"This Series D funding amplifies our commitment to leadership within the AI and robotics orchestration space and affirms our thought leadership within this market.\" GreyOrange's latest funding round also reflects a strong vote of confidence from ..."
+    publishedDateTime: 2023-12-21T00:00:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/warehouse-robotics-startup-greyorange-raises-135m-in/467346"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 99
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1703149207-akashguptanew.png?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "b7963CubozEmMzzbQRiB3YeKSMBEwxqUIZrUa7i1ndxOT/fjYoNCBrcgUVhcaXqyqd1QSQH+IlmUfXqVUBinYyaX7EqXSM/g78vsEGYu46nFJ0jEVwpY5BpMsIIRGY4UPvzE+ze8vYawJ6DILhE9AuMH0O83PhAjiGyx42JOjfRMFJ+rQBC6VReqilCfL3VzG4tLxmClKJLVFLItRVU76yiGRbSw1keUAa0BPyQ3X5cqb19I0iJEJfNYGseE2sySsH2s6SQf6XM+IClGFsfCqIQ/twMPsny+hXHD+dVoQtp66u3ZF5DaYbOBlijPGeHiimaG/UnC/+svA0CzFjR2qVhHH1cPA30osDEfxsujtKHAmZWWN5aCG7o0jTfMBuVFpSKYgPedw80Hoy1NDGPTo5zGyZ/jWK1dbR/NnGRYHNL0ZwUIOu8b5sN0P5sqtOr8PFZoylFKWBJszpoa/jG6iz4HArb3+Yx4pJmcnCKba9nCNObkHb/OMmqfgi9xpqCa0HIMOJbLE7dQ9zt8yY9fMg==;b/M7IimJ1fmpMcwE/3axlQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.bbntimes.com/technology/the-future-of-ai-ai-everywhere
 webUrl: "https://www.bbntimes.com/technology/the-future-of-ai-ai-everywhere"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "AI-Washers Are Selling You Vaporware: Here’s What To Ask When Shopping"
-    excerpt: "Ever since AI exploded into the mainstream, it’s become rare to come across a SaaS product that isn’t advertising their take on the evolving technology. But many of these companies are selling false promises and vaporware—a trend I like to call AI-washing."
-    publishedDateTime: 2023-12-21T13:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/21/ai-washers-are-selling-you-vaporware-heres-what-to-ask-when-shopping/"
+  - title: "From AI to responsible AI – the future?"
+    excerpt: "As artificial intelligence(AI) takes a wrong turn with the misuse of deepfakes and generative AI, among others, experts believe that responsible AI can aid in this. It is believed it not only fosters trust,"
+    publishedDateTime: 2023-12-22T02:30:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-from-ai-to-responsible-ai-the-futurenbsp-3344646/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-from-ai-to-responsible-ai-the-futurenbsp-3344646/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-from-ai-to-responsible-ai-the-futurenbsp-3344646/lite/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 59
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/10/Untitled-design-2023-10-18T094848.977.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Apple isn't behind on AI, it's looking ahead to the future of smartphones"
+    excerpt: "A new research paper shows that Apple has practical solutions to technical AI issues that other firms appear to be ignoring, specifically how to use massive large language modules on lower-memory devices like iPhone."
+    publishedDateTime: 2023-12-21T13:11:00Z
+    webUrl: "https://appleinsider.com/articles/23/12/21/apple-isnt-behind-on-ai-its-looking-ahead-to-the-future-of-smartphones"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 16
 
 secured: "cBhcy1jaX8yGe6qMfUaRQ4j+obZkAHN3b698SCnMzYlLrMMV0n13dUIGU5sUzw0EU1pQdiLv5lDiihYVKWC0fbStKzs0Z22dhzieHPBAfqrZv1rF4YdO9WOCtZukdiyDXMkgLk80P5BDnk0qJ3QZaSqWxWAkB0wYD16F82PHfuocPT85lbfh+Ohvg4f4zpZ9DxuLC6/iY+VIZjqBjnxLZoKIzDKX/EpkPP2RThs73xsN2KkXaPuBnYMRKyJOylOm4CuXvpfNeff+/kBrGbm2xq1uK4PFEua4V06+/64S7ABiWGOOiC3zvPn8xaVacBYvWyVlit31q/ISoW7jnrGzxs1rVFgnVTOxhIcA1VkyEEI=;3QG0/URdXUBvH+r6PA36Nw=="
 ---

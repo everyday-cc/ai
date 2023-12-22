@@ -7,7 +7,7 @@ originalUrl: "https://www.smartcompany.com.au/technology/artificial-intelligence
 webUrl: "https://www.smartcompany.com.au/technology/artificial-intelligence/aussie-ai-startups-excited-to-watch-2024/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,31 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "2 Artificial Intelligence Stocks To Watch This Week"
+    excerpt: "The artificial intelligence (AI) sector is a rapidly growing area in the tech industry, focusing on creating intelligent machines that work and react like humans. AI technology includes machine learning, natural language processing, and robotics ..."
+    publishedDateTime: 2023-12-18T01:16:00Z
+    webUrl: "https://www.nasdaq.com/articles/2-artificial-intelligence-stocks-to-watch-this-week"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
+  - title: "AI news to watch for in 2024"
+    excerpt: "If 2023 was the year that AI broke out, 2024 may be the year it’s reeled in. One of the things that has been scary about generative AI since the launch of ChatGPT in November 2022 is the complete lack of regulation. Large Language models are trained on ..."
+    publishedDateTime: 2023-12-20T11:00:00Z
+    webUrl: "https://technical.ly/software-development/ai-news-to-watch-for-in-2024/"
+    type: article
+    provider:
+      name: Technical
+      domain: technical.ly
+    quality: 37
+    images:
+      - url: "https://technical.ly/wp-content/uploads/2023/12/KKXq7wXKPQjoKIe8dxxq-1-i40fl_2x-e1703019523645.jpg"
+        width: 1157
+        height: 900
+        isCached: true
 
 secured: "oTb/sVZY9YRNZxQ+uJJflXWWSkZhPz9gm8RaR+0gWI2HgHy4AIKK8On104YbE5pDERby6rUuFaGVchpuuUQHyfWTBqrVgYRbg3d8seMpHsALsjkekDggIZbqCe4Ys2mmTAABfqukDooYUmk25nAP2DcfsXnfoyT0xN+cjE7TUkQR6xON8KA9AKjsBekoArmq44E74GgbEs8Y+Vm7DaaENl8gKpxZfIjey/tnfkINRi/zushGz22EADP9TRrw1gDDnG+HlkgDUrhq2+ZsBG24zW6w91VBVbCwW021bP4mKKJ+DO3Zrw1vczEPvf0mYxst53TMYCOyoVuIR0970yaH84F5K0kfiPYRrGErbhd6xlI=;LgjNz65XnjLwI9qhXBc/Aw=="
 ---

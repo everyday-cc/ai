@@ -7,7 +7,7 @@ originalUrl: "https://ktvz.com/money/cnn-business-consumer/2023/12/19/where-the-
 webUrl: "https://ktvz.com/money/cnn-business-consumer/2023/12/19/where-the-battle-to-dominate-ai-may-be-won/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 860
     height: 484
     isCached: true
-
-related:
-  - title: "Where Agriculture Meets Artificial Intelligence"
-    excerpt: "At the same time, we associate AI with high-tech inventions like generative chat bots, facial recognition and self-driving cars. But when you put agriculture and AI together, something amazing happens. Unless you’re an industry insider, you may not ..."
-    publishedDateTime: 2023-12-18T16:04:00Z
-    webUrl: "https://www.forbes.com/sites/delltechnologies/2023/12/18/where-agriculture-meets-artificial-intelligence/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
 
 secured: "xIE1FmlalP9TfFV2/g94WnyZJXBfIw3qWxgPkeGoGl7mNmB11PA2wRrnWNq5lLzTq6gkBNSFIpNQGg4eKVBD/jZ3nvEv1qN7hjJwF1sIr9iwWIKYc7qedz/fNoT6YC8hCct3iihzc15CGRCSZjFvX1tydXi2tiCUOWbL7BW0/Dq0Ufz/tIHLsH64SxKSgDznSEJo3JsTANlJk/zBw68ATRIWN/zk3efOiBU5AfSuGNSfULwdyzu8i8cgYTjk1xa24CZw4Z1IM8bz/8JDLV0VCZ0JafUXu2j9pqeCPe7AKHV9l4Q2WK5kFeZMzdeGHIhL0TomYzdMd3mrMMLcNLmV8i1YaI5A7LN+RFdPFP6+Imw=;RKEKoCIsquu7EfbzeReJkA=="
 ---

@@ -83,6 +83,20 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "AI Phone Revolutionizes Communication with Generative AI-Powered Efficiency and Intelligence"
+    excerpt: "The AI-powered app revolutionizes the phone call experience with live call transcription, live translation, and AI call summaries to"
+    publishedDateTime: 2023-12-22T02:52:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-phone-revolutionizes-communication-with-generative-ai-powered-efficiency-and-intelligence-1032920896"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 58
+    images:
+      - url: "https://storage.googleapis.com/mmstudio-images/gallery/r6ZmsB0rZ2N74pbNR5Ge0wK5nL53/1703164744410-0.png"
+        width: 800
+        height: 475
+        isCached: true
   - title: "3 essential considerations for generative AI on campus"
     excerpt: "Generative AI on campus was everywhere at EDUCAUSE--and with it, concerns about its place in classrooms and university processes."
     publishedDateTime: 2023-12-18T10:00:00Z

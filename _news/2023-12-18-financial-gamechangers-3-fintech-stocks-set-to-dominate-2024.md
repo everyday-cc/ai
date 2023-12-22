@@ -37,15 +37,6 @@ related:
         width: 2400
         height: 1240
         isCached: true
-  - title: "Why These 7 Fintech Stocks Should Be on Your Radar in 2024"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips As the macro picture appears increasingly brighter, fintech stocks are coming"
-    publishedDateTime: 2023-12-21T11:50:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/why-these-7-fintech-stocks-should-be-on-your-radar-in-2024-1032918833"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
   - title: "What Are The Most Interesting FinTech Startups?"
     excerpt: "What Are The Most Interesting FinTech Startups? From the innovative approach of wallet passes to the democratization of fractional investing, eight founders and COOs weigh in on the most captivating FinTech startups today."
     publishedDateTime: 2023-12-19T18:35:00Z

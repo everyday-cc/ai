@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/12/21/2-spectacular-ai-stocks-
 webUrl: "https://www.fool.com/investing/2023/12/21/2-spectacular-ai-stocks-primed-beat-sp-500-2024/"
 type: article
 quality: 77
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -57,6 +57,15 @@ related:
         width: 1536
         height: 1024
         isCached: true
+  - title: "Why These 7 AI Stocks Should Be on Your Radar in 2024"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips 2024 is shaping up to be very similar to 2023 for artificial intelligence."
+    publishedDateTime: 2023-12-22T02:23:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/why-these-7-ai-stocks-should-be-on-your-radar-in-2024-1032920876"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "3fYOIqqv7VcPPeO+5lC+WIjTG3ZeNsEgKnSA7UbkBc81h6OtVtDc0AhHWYIGdaZ4LUHicJQypjbVBFdCDoina8TB/ZazUKwo94um+hS0mfgYfMY0noXBIG11Ag5obMyO8HK5vQ+Y4UNCZ2LPqQBAZFl+T5a5/+QSGoJqb7cvz7NHiWBTTd2RSUK4sEk/wQdBqeepSTtfItIpGllH8dpsRUjxEcHiyIxEyfkLUzLRWGXgkyZy1RPjksLlDxm9IRS75z1m4OCdLqZiUMcE1k+xmHZ/wXrfv3lqQgN5YcrxfLAn1GqVvTW4uYWx8/1m0SOZqhq+x31xz4kResY/rOOLmP3IyUPCGLpu6lxQUuCIhoE=;ccouNz3QtG4ZhEwX4973tA=="
 ---

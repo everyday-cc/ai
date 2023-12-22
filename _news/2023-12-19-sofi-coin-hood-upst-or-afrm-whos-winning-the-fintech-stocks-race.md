@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/sofi-coin-hood-ups
 webUrl: "https://markets.businessinsider.com/news/stocks/sofi-coin-hood-upst-or-afrm-whos-winning-the-fintech-stocks-race-1032910353"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -33,15 +33,6 @@ related:
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips A seismic shift is underway for fintech stocks as three financial juggernauts"
     publishedDateTime: 2023-12-18T10:00:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/financial-gamechangers-3-fintech-stocks-set-to-dominate-2024-1032908303"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
-  - title: "Why These 7 Fintech Stocks Should Be on Your Radar in 2024"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips As the macro picture appears increasingly brighter, fintech stocks are coming"
-    publishedDateTime: 2023-12-21T11:50:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/why-these-7-fintech-stocks-should-be-on-your-radar-in-2024-1032918833"
     type: article
     provider:
       name: Business Insider

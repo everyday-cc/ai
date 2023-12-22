@@ -7,7 +7,7 @@ originalUrl: "https://www.govtech.com/education/higher-ed/bay-area-universities-
 webUrl: "https://www.govtech.com/education/higher-ed/bay-area-universities-turn"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,45 @@ images:
     width: 1440
     height: 700
     isCached: true
+
+related:
+  - title: "Where Meta is going next with AI and AR"
+    excerpt: "Generative AI has changed a lot of product roadmaps this year. At Meta, it has big implications for AR glasses, according to CTO Andrew Bosworth. I recently caught up with Bosworth, who goes by Boz, to chat about all things AI and AR."
+    publishedDateTime: 2023-12-21T23:09:00Z
+    webUrl: "https://www.theverge.com/2023/12/21/24011574/meta-cto-andrew-bosworth-interview-ai-ar-glasses"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 67
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/-52FlQjDAxR5JKt5OPW0kTtXNFo=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24719857/Meta.png"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Where Agriculture Meets Artificial Intelligence"
+    excerpt: "At the same time, we associate AI with high-tech inventions like generative chat bots, facial recognition and self-driving cars. But when you put agriculture and AI together, something amazing happens. Unless you’re an industry insider, you may not ..."
+    publishedDateTime: 2023-12-18T16:04:00Z
+    webUrl: "https://www.forbes.com/sites/delltechnologies/2023/12/18/where-agriculture-meets-artificial-intelligence/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "Qatar is leading the world in AI; here’s how"
+    excerpt: "An advanced society capable of sustaining its development and providing a high standard of living for its people.” - That is the essence of Vision"
+    publishedDateTime: 2023-12-19T06:22:00Z
+    webUrl: "https://thepeninsulaqatar.com/opinion/19/12/2023/qatar-is-leading-the-world-in-ai-heres-how"
+    type: article
+    provider:
+      name: The Peninsula
+      domain: thepeninsulaqatar.com
+    quality: 39
+    images:
+      - url: "https://thepeninsulaqatar.com/get/maximage/20211218_1639822154-180.jpg?1639822154"
+        width: 500
+        height: 500
+        isCached: true
 
 secured: "213MvIpKlbs7rmcJMY9cfyA+O1BEgWsTgus5gg/61qFvmIZ9jP3aJ566Bbk3/+oJMUJOS9huXGyxc2/XCQixsnPuHGmSRZ7fSwGJWAj2LQr4DMxdchVjEBweS7AEpbkT0Zj/3xDq+0SZWnjEv9QQX67cOT5E+DXXDvSjqCWiVXs0k921bydmZ4E2LtecveX6FFUuwDbxXhOE50xmer5Zzx59vuFcWFHxipN9aFnBAfsmPGayLOudnWcRzbIhFhEpZ8gEVsxWFT3FrIcFydQUjmQXEA1wBNb/ksRH+5O4L7Kb/19i5UOzuG1GOi1e1q4cn5+MfgwiuQsMrMvY9i8CMBeaJBmdX5fUtdhsgq0X/v6d3of9bhznSJY/z9XQO/7s0NiPQkK3OI69sI9/r/hhlsfowNF9wZZzczJ6oARTXbwiA9HsJ9M4dfYyc4Oyi1OSnZKGrIR1P9qkdOPShDQrLRXFUz3Wqw17JTsUKBoscle5jc438HuFDZu+XZfToQIvk/7Fo8WQVVf065RtdEZtKw==;oy+Vv0nMErlXIV46ilOJKg=="
 ---

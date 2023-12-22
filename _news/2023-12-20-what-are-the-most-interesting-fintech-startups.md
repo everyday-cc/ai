@@ -48,15 +48,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
-  - title: "Why These 7 Fintech Stocks Should Be on Your Radar in 2024"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips As the macro picture appears increasingly brighter, fintech stocks are coming"
-    publishedDateTime: 2023-12-21T11:50:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/why-these-7-fintech-stocks-should-be-on-your-radar-in-2024-1032918833"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
 
 secured: "cVyRU6te151WkkUhYCCqjjOiwnDF0tEwYktj79HKyIB3p8PlpHWbpRMg0MhN9eHVN1VyJHQ5AY2qGsw9dKf8J2t43516GZWsauYHn/xXg9tGGvI5VveFeYUbfePO1VQa+f7Vo+zte7RuZEKDc0FlY0ljcpSiKYPwj7d53BzMPzkJGClBTLyz0QkHeqvDhqgFtQB75rlS7q6MK9i+0gkztWd/ACoAQCb2TAw75YXEvlY4M7ZHlLHUSKOolmiR82MgkapZww0jmo0M/JD9FFvEv2tSTrR+jsfneLHtQXHvcjIP8EUkKKFLEmOtItjltpjo4HUn4i8KnLgdg7zpZTZIWpMhhfz/TcBKcolaGgU2R8SpN+4nnyvM/5nnJb6FKmRbUtr3rCsq3MJFDDKmEypF0H5mX6TC//9+5Nly8W2OoOuaCvdSiQu6jaF9phk3RwNVcuQx3S4ekVgeuiUpXavddfHhMPqMbCKWqDl/WEFyNHSAtStM1W0Z9xtFrkgew0dJmd7Ri2lZbGeqFwwSZHWg4w==;so+UmjuLksbAj72I3APKAw=="
 ---

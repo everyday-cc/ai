@@ -109,6 +109,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Shopping While Black In The Era Of Artificial Intelligence — Lessons From A Federal Case Against Rite Aid"
+    excerpt: "As a condition of a legal settlement with the Federal Trade Commission, Rite Aid has agreed to discontinue its reliance on AI-powered facial recognition technology in its shoplifting prevention efforts."
+    publishedDateTime: 2023-12-22T02:33:00Z
+    webUrl: "https://www.forbes.com/sites/shaunharper/2023/12/21/shopping-while-black-in-the-era-of-artificial-intelligence---lessons-from-a-federal-case-against-rite-aid/"
+    ampWebUrl: "https://www.forbes.com/sites/shaunharper/2023/12/21/shopping-while-black-in-the-era-of-artificial-intelligence---lessons-from-a-federal-case-against-rite-aid/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shaunharper/2023/12/21/shopping-while-black-in-the-era-of-artificial-intelligence---lessons-from-a-federal-case-against-rite-aid/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 85
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6584f1494a460c4e21ffd1ef/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "FTC bans Rite Aid from using facial recognition surveillance for five years"
     excerpt: "The FTC alleges that from 2012 until 2020, Rite Aid scanned the faces of shoppers across hundreds of locations to identify suspected thieves."
     publishedDateTime: 2023-12-19T23:13:00Z
@@ -306,6 +322,6 @@ related:
       domain: boston.com
     quality: 20
 
-secured: "bC3OxNI2yBi1ZX66tei1jhTf9eWr5vlD8kXI1c+BE5KUXDR8AfM+GluD9c+tm3cLh9LciqPMXUzhMnhOVtCsz9+2RUuAtx6K0bUWzuym5puQLIH9LSERODHDMxL8qF67IoOYcssrUr+TTrk1+8l1KhUlNF60u7vUS94a1ARFmqmM6iMAI8XYBRbiaFbIIQiWEM0rfPYWjuLRHLn0wp9CFsMLmH5xzaQvpORomgPUVIqfPcTvNfFirpt+YI9502bd+8KpGlTSDooQ+hLoTOodi/ODdNkBbMkeOY5bYbU21Awslml64m4yO3C4RvIoJL+oeRB/a+RQA8t0nHW9uFuBIgrjPJi0aGSpE6POpwaAO3E=;bO7HwHEGXag5BUZ7q0ymJw=="
+secured: "70dGQTCO2M7Lo4mGOsfREICVaAlaqJg/0iyEFcFc9B/Fcn3fgC2cSTmQf2K4CjwSsMD9ghVXVWhZzjYsDFmTdX2ftnk2eXfwMU413tlvVCs6ak2qpLPLRI09UOKUFUuMMxRn82DvnklF+jl8iLsVN/UXeth36dOs9yDTAhCnx9JBj1oYKKsr97SGASs+3mYtHl4FnhmAf5u44/MDsgohJFuTO144dq4X8b4ASMUJgKlh+78nd+IGvGtNkN7JaqVmrhuckZWgK68PDq31nuxyBH75qa5NvNNZAbnQmqsxuApMUOdgBBCQIM+J5qASDS0wm8Aj2AGfY4g1/YnEBuIo1x2QsUAVle5EkOY3cZbPYvMBTW9RwkXBJP4z7wVtao1/JXTWHzSKB2TubrgRi0Bs1KBgdeRrKNk4fm7cXTlwjoze4GPURyC7evAp/mI5QO3rZuTjnzH88rqVYCQFqGUO74Z4A/3axX2MVene0ReYKFmhMyHJFcJOFr46WZ7VwbxFYg3LaefetcUstBXeLX/cEg==;KB0uc8VW2JJU0rsLMNNL9w=="
 ---
 

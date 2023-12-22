@@ -9,7 +9,7 @@ ampWebUrl: "https://www.provideocoalition.com/ai-news-roundup-december-2023/amp/
 cdnAmpWebUrl: "https://www-provideocoalition-com.cdn.ampproject.org/c/s/www.provideocoalition.com/ai-news-roundup-december-2023/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 83
 published: true
 
 provider:
@@ -46,6 +46,6 @@ related:
       domain: businessinsider.com
     quality: 48
 
-secured: "dSBGvn7BlD1qOG9tmGnKjvnC7tE/ap7pyZID+jb2BaGEslKaPIOBHdbWe6j+wrc5iQLuz82w7BBkvJwa5y4jFmbwCAS39DSKThDKbRUiMYNn1ATl3+3ZVwDt+HOwHsxDdeyagboy/+sIwfMNcZ+hd4eHM9LA6hG9+mgTvZqlpZQNkr/7r5emtSBU9KXs2ZzlzB1BCZiCCPcQT1nPVoA2U7PiX+yp4H3uHU4Uz/NqNYRWRK6FADtI7rgGxtoyxe0j+VOpkylw8t7W+VvXoR+0tSgjqddPjp7awUspRObtepxMleXjxVa38BkotRrijjONXooHosUv65SxPgv1xjFz/FHpvnqf5a4/2rHRELE/0Rc=;aKe1kNC1DcSbSsmKKQIoUQ=="
+secured: "EgzWrv6FrF2aCvYHIUzfZTUm2MCttqlVvO4KL+4iPsp1JLUcNBNiF5Nf5mavxqMc3XXFvsXqY0eSPN94eBqIEvgPxtLdZ+7BLUCPydhrWnC3CzThHHSxtrWpA9GQ1InvHhaH2H8kejyerHKIBqUiFTs8t4+p/oZcViIDl63s7XpeNUTU3oOdNgDDCfQL7EzvDfb7sNDiWL8/O1yYw0/TDtGrfp7/dB2UD3ZCBofkUXTtZiRh66asNYt826z17MuWZu2QR9gwy1o2+8VKUtSqQubiQYM5BdmAuZ+HRdTNXENkM66StNEe/j2nNzdkBsyqKIvUEQa8oopWn3dFHMaR4XrCK4PFHFnSLl7nPqmLjipPfSEXJDFwZc2aa2ZunEsFkQoWJgA5GToWWtk3Dzm3EbD1MJ++MBZ/7u2/00sp4+/a9Lp5sC6q6ZH0uFQthmMgc6vvtRrOzJYDyKUVTlh7OQCB8q6psipwUiPQCevsPxRKSQSmCyRnRLAyB/uH12oocMaDgkMqMpQYPI+4t+f7VQ==;VHRJKrGZh/EjQOCTWJNrvg=="
 ---
 

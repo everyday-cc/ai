@@ -7,7 +7,7 @@ originalUrl: "https://www.nasdaq.com/articles/2-artificial-intelligence-stocks-t
 webUrl: "https://www.nasdaq.com/articles/2-artificial-intelligence-stocks-to-watch-this-week"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -19,33 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "3 AI Stocks Poised for Explosive Growth in 2024"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Businesses and consumers have used artificial intelligence (AI) before 2023,"
-    publishedDateTime: 2023-12-18T20:55:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-poised-for-explosive-growth-in-2024-1032910289"
+  - title: "Eleven Aussie AI startups we’re excited to watch in 2024"
+    excerpt: "While social feeds were dominated by AI Bros dispensing ChatGPT hacks, out in the real world Australian AI startups have been hard at work."
+    publishedDateTime: 2023-12-19T01:25:00Z
+    webUrl: "https://www.smartcompany.com.au/technology/artificial-intelligence/aussie-ai-startups-excited-to-watch-2024/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
-  - title: "Why These 3 Machine Learning Stocks Should Be On Your Radar in 2024"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Machine learning stocks sit at a powerful intersection of artificial"
-    publishedDateTime: 2023-12-21T19:33:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/why-these-3-machine-learning-stocks-should-be-on-your-radar-in-2024-1032920473"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "3 AI-Backed Stocks That Could Deliver Massive Gains by 2028"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Many sectors will grow in 2023, but few industries can keep up with artificial"
-    publishedDateTime: 2023-12-20T22:08:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-backed-stocks-that-could-deliver-massive-gains-by-2028-1032917545"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 39
+    images:
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2023/12/Startup_Watch_Editorial_v3-1.png?resize=1200,630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI news to watch for in 2024"
     excerpt: "If 2023 was the year that AI broke out, 2024 may be the year it’s reeled in. One of the things that has been scary about generative AI since the launch of ChatGPT in November 2022 is the complete lack of regulation. Large Language models are trained on ..."
     publishedDateTime: 2023-12-20T11:00:00Z
