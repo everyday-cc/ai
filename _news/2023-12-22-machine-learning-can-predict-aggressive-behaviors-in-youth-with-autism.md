@@ -8,6 +8,9 @@ webUrl: "https://medicalxpress.com/news/2023-12-machine-aggressive-behaviors-you
 ampWebUrl: "https://medicalxpress.com/news/2023-12-machine-aggressive-behaviors-youth-autism.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-12-machine-aggressive-behaviors-youth-autism.amp"
 type: article
+quality: 59
+heat: 59
+published: false
 
 provider:
   name: Medical Xpress

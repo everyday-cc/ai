@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itworldcanada.com/article/aws-canada-west-calgary-region
 cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/aws-canada-west-calgary-region-goes-live/555447?amp=1"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -74,6 +74,15 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
+    quality: 19
+  - title: "AWS launches second cloud region in Canada"
+    excerpt: "The cloud region will give customers access to AWS technologies including data analytics, security, machine learning (ML), and artificial intelligence (AI), and consists of three Availability Zones. AWS is planning to invest $17.9bn in Canada through 2037 ..."
+    publishedDateTime: 2023-12-22T00:00:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/aws-launches-second-cloud-region-in-canada/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
     quality: 19
 
 secured: "gwdeIU2flOfiIvEAlpytwzqvrgvaPxnFo2sRQu5auQpxE+wyQ8nfHP48zrRjKxyvxpt2W9ocmJ+tKV0WJt3c5bpREVY1Yec2+A8XlpgtDXO1fWawNt5BGZeMRYF8NMZL6WsWadVmQwG8FvzDY5v2mHnBI4IC1YKtvVIbmifEsqPIVm+vndwRB+/profkQUSI0cLH7YhHYkS2uq7svYumETt7ixeVh2SqZ7yofVgIj2ZCE/09zvdQekJWdH/MGIcxEe2jPqCiAFjTxB9pzKxn3dp3QDa5k3cjQyB/8os0arHerKfkxM2WlgMEOdPzfo0SaewQfjtbuBC5fZTI2kApU4gHnt/h5p47r5wZH3fQLhA=;UXTP0euQ9aTYTJ8zSV5G5A=="

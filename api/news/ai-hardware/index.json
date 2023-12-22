@@ -10,7 +10,7 @@
       "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/msi-introduces-new-prestige-16-ai-series-laptops-all-the-details/articleshow/106191232.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -499,49 +499,6 @@
       ]
     },
     {
-      "path": "_news/2023-12-19-intel-infuses-pcs-with-ai-chips-as-enterprise-refresh-rush-nears.md",
-      "title": "Intel infuses PCs with AI chips as enterprise refresh rush nears",
-      "excerpt": "The chipmaker’s Core Ultra mobile processors will power more than 230 PC models from Dell, Lenovo, Microsoft and others.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ciodive.com/news/Intel-AI-PC-processor-Core-Ultra-GPU-chips/702873/",
-      "originalUrl": "https://www.ciodive.com/news/Intel-AI-PC-processor-Core-Ultra-GPU-chips/702873/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ciodive.com/imgproxy/SoGgnBmj16nT7kMjoUhOvp7J4bM6oU-ny6WwesMiP5g/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTk1MTU2MjI3OF96dzNTU0RNLmpwZw.jpg",
-          "width": 770,
-          "height": 435,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-18T22:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO Dive",
-        "domain": "ciodive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-12-19-ai-in-your-shoes-this-company-aims-to-accessorize-everything-you-own-with-artificial-intelligence.md",
       "title": "AI in your shoes? This company aims to accessorize everything you own with artificial intelligence",
       "excerpt": "Tiny systems powered with artificial intelligence could transform everyday products like dishwashers and construction helmets into smarter, safer devices, two scientists told Fox News.",
@@ -602,7 +559,7 @@
       "originalUrl": "https://www.techspot.com/news/101238-amd-mi300x-ai-accelerator-faster-than-nvidia-h100.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1436,6 +1393,59 @@
         "AI",
         "AI in Sales",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-12-12-china-chip-firms-vie-to-take-sales-from-nvidia.md",
+      "title": "China chip firms vie to take sales from Nvidia",
+      "excerpt": "Chinese chip designers including Tencent Holdings are aggressively pitching their AI chips as alternatives to Nvidia's, hoping U.S. export restrictions will prompt clients to switch, said four people familiar with such discussions. Julian Satterthwaite reports.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/video/watch/idRW515412122023RP1?ref=upstract.com",
+      "originalUrl": "https://www.reuters.com/video/watch/idRW515412122023RP1?ref=upstract.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?d=20231212&i=RW515412122023RP1&r=RW515412122023RP1&t=2",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-12T10:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
       ]
     }
   ],

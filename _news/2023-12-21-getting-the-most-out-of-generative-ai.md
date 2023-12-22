@@ -108,22 +108,15 @@ related:
         width: 1347
         height: 900
         isCached: true
-  - title: "The AI Revolution in Therapy"
-    excerpt: "Artificial intelligence (AI) has proven to be a powerful tool in the world of behavioral health, already aiding in assessments and enhancing therapy. This transformative technology helps healthcare providers deliver true value in their behavioral ..."
-    publishedDateTime: 2023-12-18T16:57:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/leadership-diversity-and-wellness/202312/the-ai-revolution-in-therapy"
-    ampWebUrl: "https://www.psychologytoday.com/intl/blog/leadership-diversity-and-wellness/202312/the-ai-revolution-in-therapy?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/leadership-diversity-and-wellness/202312/the-ai-revolution-in-therapy?amp"
+  - title: "Top robotics names discuss humanoids, generative AI and more"
+    excerpt: "I asked people from CMU, UC Berkeley, Meta, NVIDIA, Boston Dynamics and the Toyota Research Institute the same six questions, covering topics like generative AI, the humanoid form ... I co-founded a new startup, Jacobi Robotics, that implements efficient ..."
+    publishedDateTime: 2023-12-22T17:14:00Z
+    webUrl: "https://techcrunch.com/2023/12/22/top-robotics-names-discuss-humanoids-generative-ai-and-more/"
     type: article
     provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 74
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-12/pexels-pixabay-373543.jpg?itok=wBzUJjRQ"
-        width: 1528
-        height: 800
-        isCached: true
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 79
   - title: "Tackling Ethical and Security Concerns of Generative AI Models"
     excerpt: "Artificial Intelligence (AI) has been rapidly transforming different industries across the globe for the last decade, but 2023 has been a banner year for AI with generative AI tools like ChatGPT, Bard and now Gemini – Google’s newest and most capable AI model – making waves in the AI world."
     publishedDateTime: 2023-12-19T12:14:00Z
@@ -210,6 +203,24 @@ related:
         width: 650
         height: 450
         isCached: true
+  - title: "Why Generative AI Is A CIO Nightmare—And How To Fix That"
+    excerpt: "In addition to security, CIOs are also considering trustworthiness and ethics. Research shows that 73% of IT leaders are concerned about biased outcomes within AI solutions. The number of stories of tools offering incorrect or biased information ..."
+    publishedDateTime: 2023-12-22T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/22/why-generative-ai-is-a-cio-nightmare-and-how-to-fix-that/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "Risks of unleashing generative AI on company data"
+    excerpt: "Ken D. Kumayama and Pramode Chiruvolu of Skadden, Arps, Slate, Meagher & Flom LLP discuss risks that can arise when companies train or prompt GenAI models with data, including infringement of intellectual property rights and disclosure of confidential information."
+    publishedDateTime: 2023-12-22T13:13:00Z
+    webUrl: "https://www.reuters.com/legal/legalindustry/risks-unleashing-generative-ai-company-data-2023-12-22/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 47
   - title: "Generative AI Dictates Trillions of Dollars in Industry"
     excerpt: "This year was the breakout year for Generative artificial intelligence (Gen AI). Tech companies, according to McKinsey, are positioned to see the most disruption from Gen Ai, “adding value equivalent to as much as 9 percent of global industry"
     publishedDateTime: 2023-12-18T17:09:00Z
@@ -344,6 +355,15 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
+    quality: 34
+  - title: "The AI Revolution in Therapy"
+    excerpt: "Artificial intelligence (AI) has proven to be a powerful tool in the world of behavioral health, already aiding in assessments and enhancing therapy. This transformative technology helps healthcare providers deliver true value in their behavioral ..."
+    publishedDateTime: 2023-12-18T17:11:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/leadership-diversity-and-wellness/202312/the-ai-revolution-in-therapy"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
     quality: 34
   - title: "Google takes steps to prevent abuse of its generative AI tools during U.S. elections"
     excerpt: "Google LLC said today it is planning to restrict the ability of its artificial intelligence chatbot Bard and Search Generative Experience to respond to election-related queries, ahead of the U.S. Presidential election taking place next year. The restrictions will be introduced early next year, the company said."

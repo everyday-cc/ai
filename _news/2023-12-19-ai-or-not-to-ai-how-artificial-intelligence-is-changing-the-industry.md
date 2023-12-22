@@ -7,8 +7,8 @@ originalUrl: "https://www.plantservices.com/technology/artificial-intelligence/a
 webUrl: "https://www.plantservices.com/technology/artificial-intelligence/article/33016391/ai-or-not-to-ai-how-artificial-intelligence-is-changing-the-industry"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: Plant Services
@@ -25,35 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Will AI substitute doctors in healthcare industry?"
-    excerpt: "The value of healthcare workers' intuition in effective clinical care has been verified by reports around the world again and again. From doctors' ability to spot sepsis in critically ill children, to 'nurse worry' as a 'vital sign' predictive of patient deterioration,"
-    publishedDateTime: 2023-12-18T12:48:00Z
-    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/will-ai-substitute-doctors-in-healthcare-industry/106097951"
-    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/will-ai-substitute-doctors-in-healthcare-industry/106097951"
-    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/will-ai-substitute-doctors-in-healthcare-industry/106097951"
+  - title: "The Silent Bias in AI: Exploring the Troubling Reality"
+    excerpt: "Welcome to our eye-opening blog post, where we delve into the world of Artificial Intelligence (AI) to uncover a disturbing truth that has long remained silent. While AI continues to revolutionize various aspects of our lives,"
+    publishedDateTime: 2023-12-20T12:06:00Z
+    webUrl: "https://techbullion.com/the-silent-bias-in-ai-exploring-the-troubling-reality/"
     type: article
     provider:
-      name: health.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 76
+      name: Impacts
+      domain: techbullion.com
+    quality: 41
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-106097951,imgsize-14168,width-1200,height=765,overlay-ethealth/health-it/will-ai-substitute-doctors-in-healthcare-industry.jpg"
-        width: 1200
-        height: 765
-        isCached: true
-  - title: "How AI Is Influencing The Mortgage Industry"
-    excerpt: "In the not-so-distant future, you might join a video call and meet with a virtual representative to discuss your mortgage options. Afterward, an AI-written document will deliver personalized recommendations based on the conversation."
-    publishedDateTime: 2023-12-18T08:59:00Z
-    webUrl: "https://www.forbes.com/advisor/mortgages/how-ai-affects-mortgage-industry/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
-    images:
-      - url: "https://www.forbes.com/advisor/wp-content/uploads/2023/12/How-AI-Is-Influencing-The-Mortgage-Industry-Ft-Image.jpg"
-        width: 766
-        height: 431
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/AI-1.jpg"
+        width: 1000
+        height: 500
         isCached: true
   - title: "The nascent AI industry is being overrun by men"
     excerpt: "This work continued into the second world war, when they were actively encouraged to take on wartime jobs as computers in the absence of men. Women continued to work as computers into the early days of the American space program in the 1960s, playing a pivotal role in advancing NASA’s space projects."
@@ -69,29 +53,29 @@ related:
         width: 1214
         height: 683
         isCached: true
-  - title: "Chip Industry Week In Review"
-    excerpt: "GenAI smartphones; BEV sales up; proprietary vs. commercial chiplets; RISC-V verification; atomic RF; smarter tire sensors; L2/L3 simulation; SMIC breakthrough; design-house revenue way up."
-    publishedDateTime: 2023-12-22T08:01:00Z
-    webUrl: "https://semiengineering.com/chip-industry-week-in-review-16/"
+  - title: "How to get started with AI for industry and business leaders"
+    excerpt: "Learn from Microsoft leaders how to transform your organization with AI and align AI technology with your business goals with a video series."
+    publishedDateTime: 2023-12-19T16:00:00Z
+    webUrl: "https://www.microsoft.com/en-us/microsoft-cloud/blog/2023/12/19/how-to-get-started-with-ai-for-industry-and-business-leaders/"
     type: article
     provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 39
+      name: Microsoft
+      domain: microsoft.com
+    quality: 37
     images:
-      - url: "https://semiengineering.com/wp-content/uploads/AdobeStock_486012090-02-13-23-scaled.jpeg?fit=2560%2C1440&ssl=1"
-        width: 2560
-        height: 1440
+      - url: "https://www.microsoft.com/en-us/microsoft-cloud/blog/wp-content/uploads/2023/12/MSC22_PICHA.jpg"
+        width: 1260
+        height: 841
         isCached: true
-  - title: "Modern Healthcare is evolving along with the industry"
-    excerpt: "It’s an exciting time to be journalists covering the industry. And for that reason, Modern Healthcare is evolving in 2024 too."
-    publishedDateTime: 2023-12-18T08:59:00Z
-    webUrl: "https://www.modernhealthcare.com/opinion/modern-healthcare-evolving-along-industry"
+  - title: "How UPS is using AI to combat package thefts"
+    excerpt: "With the holiday shipping season in high gear, the concern of lost or stolen packages is of top concern. CBS News' Janet Shamlian went inside UPS World Headquarters to see how the company is using artificial intelligence to combat package thefts."
+    publishedDateTime: 2023-12-20T14:14:00Z
+    webUrl: "https://www.cbsnews.com/video/how-ups-is-using-ai-to-combat-package-thefts/"
     type: article
     provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 19
+      name: CBS News
+      domain: cbsnews.com
+    quality: 17
 
 secured: "8Qmv65CMve6xz45f9U3UkgInEQ4SV0SpGCbXN3UeDkG/yFx/JkvxC3xfsy4uUhZ8Ck6mAMrPq4ZIZ19laTjKzPV6MaMN2nOzOrfbeqVPtMY6K0VMcsr232Kz+tYL4hMDdJNWRUV9A7jjwwUbGSt6zvvVZQh6R5jmbHVVkUU2fPJeScmksYWNI8LlY4EsiXOgJJLmLdaBaIU1htLVVXvhP0X4rIi6xkpOzoTqFm1RjMTD1aIIYgtf4Oqhve7UR1L92QKebYM1E53y5KBq7AXXeZ+6os1iz1+5/K/t/GrNlEG1dpUqgwGDdKP+b7v1Z9JFCF5ANmVDrNpCl0ru6A6iwQ0b2WQphzhC6JP9bd9Q5EccZoefxvHndtBS7Nj2VP0hPqksFAA+cT5UC4qxwhpQz43Mb2xkvkjnjHuaL+aBHVfNU40Ktb/9h1t2J0BFd0Uu6mQ78M1QsDSbQ+bR+ryrNL4mCWqAZOZMy72WYbIxqzPiwfzhZdxpfuo/KqD7FRzH2im8t8ME8+QDN5wpdsSMbg==;GMVGrdyv0zq7XLXxAr4jDQ=="
 ---

@@ -39,20 +39,6 @@ related:
         width: 770
         height: 435
         isCached: true
-  - title: "Why Intel has joined the race for the AI-enabled laptop"
-    excerpt: "But Intel has been talking up AI-PC and the fact that it’s building AI-dedicated cores into its newest processors for quite some time. Its hardware partners have also dropped AI-PC mentions, and all this suggests that Intel thinks it can still take control of the narrative, or at least some of it."
-    publishedDateTime: 2023-12-19T10:33:00Z
-    webUrl: "https://www.computerweekly.com/blog/Write-side-up-by-Freeform-Dynamics/Why-Intel-has-joined-the-race-for-the-AI-enabled-PC"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 39
-    images:
-      - url: "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-191223-cover-500px.jpg"
-        width: 500
-        height: 354
-        isCached: true
 
 secured: "vdSawuM56kPWRjUpLs+pFOTmTbvhWdoEu6yDUDctqdAzczn4EynmhzVdBFqm+pk54Bc7MxbMc9uwa0Mm8NTQPuLWd1pCOs6oKQKRtaScI1S5zv+60jtTgJ3rI4oP1wiMbrkiapPG5/OXCdr3XvLm/L+aed3mWImxmWVFpc4KPNedp5b850whI2y1H5MhtCRib7eLpdlJn3ARpDHmq/zZJJf+texOjIK9bPt7ASg4Ipch8uvVscfVWXOb2b9TLKQxN2dURgcKHySOie5K2f2RPvY4P+fIWk8f7lzUVTDVm9xoOaQkJNyyzkAk4LkgAE7+P7oEImo7NWR/nF697pvyEZLgqPJADnNC1S6qOdAHOXA=;rTfvAkM/foz3eembqXUiCQ=="
 ---

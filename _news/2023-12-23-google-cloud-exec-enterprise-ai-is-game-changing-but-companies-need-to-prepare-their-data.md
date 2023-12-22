@@ -6,6 +6,9 @@ publishedDateTime: 2023-12-22T18:48:00Z
 originalUrl: "https://www.aol.com/google-cloud-exec-enterprise-ai-164817396.html"
 webUrl: "https://www.aol.com/google-cloud-exec-enterprise-ai-164817396.html"
 type: article
+quality: 29
+heat: 29
+published: false
 
 provider:
   name: AOL

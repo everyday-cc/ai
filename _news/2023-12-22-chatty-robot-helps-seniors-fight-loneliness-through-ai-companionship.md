@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/chatty-robot-helps-s
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/chatty-robot-helps-seniors-fight-loneliness-ai-companionship-105863433"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Chatty robot ElliQ helps seniors fight loneliness through AI companionship"
+    excerpt: "Intuition Robotics, and senior assistance officials say is the only device using artificial intelligence specifically designed to alleviate the loneliness and isolation experienced by many older Americans. “It’s entertaining. You can actually talk to ..."
+    publishedDateTime: 2023-12-22T00:00:00Z
+    webUrl: "https://www.washingtontimes.com/news/2023/dec/22/chatty-robot-elliq-helps-seniors-fight-loneliness-/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 52
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2023/12/22/Artificial_Intelligence_Seniors_64232_c0-360-8640-5400_s1200x700.jpg?e5529ed7d93258f12cf7b2259d397368871d9cb1"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Robot helps seniors fight loneliness; it converses, plays music and gives virtual tours"
     excerpt: "Some American senior citizens have a new companion to help them combat loneliness — a robot. ElliQ is a tabletop device that uses artificial intelligence to conduct"
     publishedDateTime: 2023-12-22T04:08:00Z

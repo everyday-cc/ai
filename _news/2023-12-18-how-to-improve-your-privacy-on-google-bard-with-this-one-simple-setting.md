@@ -8,6 +8,9 @@ webUrl: "https://www.zdnet.com/article/how-to-improve-your-privacy-on-google-bar
 ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-improve-your-privacy-on-google-bard-with-this-one-simple-setting/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-improve-your-privacy-on-google-bard-with-this-one-simple-setting/"
 type: article
+quality: 74
+heat: 84
+published: true
 
 provider:
   name: ZDNet
@@ -26,6 +29,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "How to Get Google Bard to Help With Your Holiday Playlist"
+    excerpt: "This guide is designed to show you how you can use Google Bard and other AI tools to help with your Holiday Playlist. The holidays are a time for joy, celebration, and music. With a plethora of festive tunes to choose from, compiling the perfect holiday ..."
+    publishedDateTime: 2023-12-18T00:00:00Z
+    webUrl: "https://www.geeky-gadgets.com/how-to-get-google-bard-to-help-with-your-holiday-playlist/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 24
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/Holiday-playlist.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "0Ngk6D9wzL/uhkNZ3N+aSWTzS1+FTvs+dTdI2UIvuyNhtr6d59HoLllQctp04BDBTrPT3TvD7rJL+CAVy2PgUKicJpxgS6mT2IK91Y59sXi4DAe2MdVvquzt2LrgeI0XaJCgGE4thKP0UKUUWXLz1g9dIT9qAVyj4GA7x/U4uDRNwBrFejzpaUirCnUFDgMn6j3dfhWsPWN8ouePOwsUi4tMz9ODtU2p/T/lPUyFWK1l7A9sLmPMUVkNt3oGJsjXaQtyPzWufyXeGw3lq4KvQlkAePwKgyNBE2xkcieJ+Q16OucmQ5jXc6nYHziTmtoDZeuxz5icOIFrhfDYphKk/iEJTa0WStKIjKVRkq6HgLM=;HMkadl4MB4A8RIqGWWKeVA=="
 ---

@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The Medical Futurist Examines How AI Will Impact the Future of Healthcare"
+    excerpt: "We talked to Dr. Bertalan Mesko, AKA The Medical Futurist, about the latest MedTech trends he’s keeping an eye on. Here’s what he had to say:"
+    publishedDateTime: 2023-12-22T14:01:00Z
+    webUrl: "https://www.usatoday.com/story/sponsor-story/bertalan-mesko/2023/12/22/the-medical-futurist-examines-how-ai-will-impact-the-future-of-healthcare/71963510007/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 33
 
 secured: "cBhcy1jaX8yGe6qMfUaRQ4j+obZkAHN3b698SCnMzYlLrMMV0n13dUIGU5sUzw0EU1pQdiLv5lDiihYVKWC0fbStKzs0Z22dhzieHPBAfqrZv1rF4YdO9WOCtZukdiyDXMkgLk80P5BDnk0qJ3QZaSqWxWAkB0wYD16F82PHfuocPT85lbfh+Ohvg4f4zpZ9DxuLC6/iY+VIZjqBjnxLZoKIzDKX/EpkPP2RThs73xsN2KkXaPuBnYMRKyJOylOm4CuXvpfNeff+/kBrGbm2xq1uK4PFEua4V06+/64S7ABiWGOOiC3zvPn8xaVacBYvWyVlit31q/ISoW7jnrGzxs1rVFgnVTOxhIcA1VkyEEI=;3QG0/URdXUBvH+r6PA36Nw=="
 ---

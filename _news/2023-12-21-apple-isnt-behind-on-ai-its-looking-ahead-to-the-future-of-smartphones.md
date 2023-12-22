@@ -32,6 +32,15 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "Apple Figures Out How to Run Larger AI Models on a Phone"
+    excerpt: "With Qualcomm, Intel, and others adding machine learning hardware to the latest chips, your next gadget might have what it needs to run a local AI. The problem is that large language models are, well, large. There can be trillions of parameters that need ..."
+    publishedDateTime: 2023-12-22T12:01:00Z
+    webUrl: "https://www.extremetech.com/mobile/apple-figures-out-how-to-run-larger-ai-models-on-a-phone"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 19
 
 secured: "oNVX47Jc+foAWtECTbtOHnf43DLsVHMgh0QRtwYNVAxZxidcSs6CArnYOLg5f9QBydI9JaQ8LjEnAtuJ6sYRqqqGLzN7/TksY9q3cIWyM1uZb9VX2YWCUp2VlG+l8wgbFmOO96dWCIDxBQAuSiILlOh/Rz9+Oc+w+xder8N5O6azNUNJS3XeB8coyKTYQ1wrNJX2rfsy3t+SlMV4nnB1at2uCZ4DMxbOTTaIYBwcyzG7/gpInTel478RFaAwxOkCgqXk9/Th1qOpMDpVMg8TM0bd7w672ufOVJIKnRgstRg2lm7u0X56y6gQCOv6IceKxmFXqOA9sHI8Ei08avLsmFuqz9usV/3FgutUaW1ohDToxDylUfDtn6tIBLUp4HFuc5Qtv6swZEBB1ZQInIbqmWbwY14lHreadHytgCWusRdfUDTKMrJm1Z0auUqcaBGNIuiy+O7miv1eWKkEyDrcp1MbIIYdNnp64PaiNqCXrf/dX368z+A8r8bCm2rnci8j45vHS+jOYPRwg4T4kHXSLw==;RU4/436Cntf48sVuBtNJQQ=="
 ---

@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Further your AI ChatGPT and Python knowledge and build your own chatbot with this mega bundle, now $29.97"
-    excerpt: "Take on the rising world of AI with The 2023 Ultimate AI ChatGPT & Python Programming Bundle, now on sale for only $29.97 through Christmas."
-    publishedDateTime: 2023-12-18T16:46:00Z
-    webUrl: "https://www.popsci.com/sponsored-content/ai-chatgpt-python-bundle-deal/"
-    ampWebUrl: "https://www.popsci.com/sponsored-content/ai-chatgpt-python-bundle-deal/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/sponsored-content/ai-chatgpt-python-bundle-deal/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 57
-    images:
-      - url: "https://www.popsci.com/uploads/2023/12/18/image.png?auto=webp"
-        width: 1067
-        height: 800
-        isCached: true
   - title: "Chevy dealership’s AI chatbot suggests Ford F-150 when asked for best truck"
     excerpt: "As an AI, I don't have personal preferences but ... which works with car dealerships around the U.S. The tech startup with 150 workers monitors all activity, and noticed \"a ton of activity\" in Watsonville, Horwitz said. \"We took measures to block ..."
     publishedDateTime: 2023-12-19T12:02:00Z

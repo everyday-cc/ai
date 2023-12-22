@@ -24,46 +24,35 @@ images:
     isCached: true
 
 related:
-  - title: "How Will AI Revolutionize Talent Assessments In 2024?"
-    excerpt: "For decades, companies have relied heavily on selection tools like psychometrics (e.g. ability tests, personality assessments, work preference inventories), competency-based assessments (e.g. situational judgment tests),"
-    publishedDateTime: 2023-12-18T22:48:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/happybytes/202312/how-will-ai-revolutionize-talent-assessments-in-2024"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/happybytes/202312/how-will-ai-revolutionize-talent-assessments-in-2024?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/happybytes/202312/how-will-ai-revolutionize-talent-assessments-in-2024?amp"
+  - title: "The Adoption Of AI And Its Effects On Businesses"
+    excerpt: "How do you see the adoption of ChatGPT-like tools unfolding in businesses over the next few years? Answer by Zachary Kroff, Economist at U.S. Census Bureau"
+    publishedDateTime: 2023-12-22T18:34:00Z
+    webUrl: "https://www.forbes.com/sites/quora/2023/12/22/the-adoption-of-ai-and-its-effects-on-businesses/"
+    ampWebUrl: "https://www.forbes.com/sites/quora/2023/12/22/the-adoption-of-ai-and-its-effects-on-businesses/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quora/2023/12/22/the-adoption-of-ai-and-its-effects-on-businesses/amp/"
     type: article
     provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 57
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-12/pexels-google-deepmind-17483868.jpg?h=4f52e0ef&itok=0WmKPJMA"
-        width: 1528
-        height: 800
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6583f8f8805f0638ff1b76fa/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1349
+        height: 900
         isCached: true
-  - title: "Gen AI is a game-changer in bond investment risk assessment"
-    excerpt: "Generative AI is changing the equation, though. It has emerged as a transformative force in managing bond investment risks by automating and optimizing complex analytical tasks. Gen AI models can sift through vast quantities of unstructured data related to bonds, identify critical information, and compare it against risk parameters."
-    publishedDateTime: 2023-12-18T16:16:00Z
-    webUrl: "https://www.cio.com/article/1265414/gen-ai-is-a-game-changer-in-bond-investment-risk-assessment.html"
-    ampWebUrl: "https://www.cio.com/article/1265414/gen-ai-is-a-game-changer-in-bond-investment-risk-assessment.html/amp/"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/1265414/gen-ai-is-a-game-changer-in-bond-investment-risk-assessment.html/amp/"
+  - title: "Responsible AI adoption: 5 steps every startup must take"
+    excerpt: "Explore the 5 essential steps for responsible AI use in startups. Learn how to gain approval, assess risks, and make continuous improvements."
+    publishedDateTime: 2023-12-21T01:51:00Z
+    webUrl: "https://yourstory.com/2023/11/startup-guide-ethical-ai-practices"
     type: article
     provider:
-      name: CIO
-      domain: cio.com
-    quality: 39
-  - title: "How Artificial Intelligence Is Set to Change Work in 2024"
-    excerpt: "(TNS) — If AI was a hit new toy this year, 2024 will cement it as a tool. AI, or artificial intelligence, grabbed the attention of every industry in 2023, creating hope for easier, more streamlined work processes and stoking fear that the technology ..."
-    publishedDateTime: 2023-12-21T00:00:00Z
-    webUrl: "https://www.govtech.com/artificial-intelligence/how-artificial-intelligence-is-set-to-change-work-in-2024"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 39
+      name: Your Story
+      domain: yourstory.com
+    quality: 37
     images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/260c365/2147483647/strip/true/crop/7777x3780+0+30/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F74%2F05%2Fa76fd2a14493bc501dd0aa5c1ffd%2Fhttps-download.shutterstock.com%2Fgatekeeper%2FW3siZCI6ICJzaHV0dGVyc3RvY2stbWVkaWEiLCAiayI6ICJwaG90by8xMTE0MDUwNDQ5L2h1Z2UuanBnIiwgImRjIjogImlkbF8xMjMiLCAiZSI6IDE2NTIyNDMzOTMsICJtIjogMX0sICJvOEI1R1NDY05FMFdVV1dYS2Q0NUx0NjErT2siXQ%3D%3D%2Fshutterstock_1114050449.jpg"
-        width: 1440
-        height: 700
+      - url: "https://images.yourstory.com/cs/2/07f6d7f0ed8e11ed819979969b4b51e2/artificial-intelligence-g5dedba2611920-1684131802198.jpg?fm=png&auto=format"
+        width: 1920
+        height: 1280
         isCached: true
 
 secured: "cSZPDEs1HVvh18HH4iv45rAOD65xuX1Oifng+95J7S/l7PwnX5AIScp4D0shtnTsPE+Wp5MawIeYJvBK566MemcSv+1ltZn2FZgo3rJ6oMr/M/8n/7dHWip9CExLVakXpXdtZnjQ5+6RKDJgl4rhiACD5JZ1XCfUriRQqWB2yZbDkybgQTAgtY+lbvqZNMgx7PlZs4Fe9A8G0LEIEX2SeuZEJmNK/TgP8ubCeJGrty7Kv7vswRsnQ6kgebqTKgIg49NxCfqXQSHFrNr20fXGTekpaRp9enBsUuDKa+O3tvBZ1JFEtYUpE2MsYLJ2bYlMLqDWJiEbFrRyNmcILI2T9IBoIKameHSQo0oOgHufa2I=;y8v+DAAr31s2Ftcd7GmPGA=="

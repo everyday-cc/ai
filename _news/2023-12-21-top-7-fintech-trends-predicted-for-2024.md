@@ -81,22 +81,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Fintech Platform FactSet Announces Initial Release of AI Advancement Solution to Enhance Decision-Making"
-    excerpt: "FactSet, a global financial digital platform and enterprise solutions provider, announced the beta release of its latest AI advancement."
-    publishedDateTime: 2023-12-17T20:37:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/12/218357-fintech-platform-factset-announces-initial-release-of-ai-advancement-solution-to-enhance-decision-making/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/12/218357-fintech-platform-factset-announces-initial-release-of-ai-advancement-solution-to-enhance-decision-making/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/12/218357-fintech-platform-factset-announces-initial-release-of-ai-advancement-solution-to-enhance-decision-making/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 42
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/08/Judge-Crossword-Confusion-Puzzle-Decide.jpg"
-        width: 1280
-        height: 1108
-        isCached: true
   - title: "Dubai FinTech Summit 2024: Catalysing the MEASA Financial Ecosystem"
     excerpt: "The Dubai FinTech Summit is a strategic platform aligned with Dubai's vision to become one of the top four global financial hubs by 2033."
     publishedDateTime: 2023-12-19T02:56:00Z
@@ -273,6 +257,15 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Top six predictions for fintech in 2024"
+    excerpt: "Financial technology, or fintech, is undergoing rapid and transformative changes. As we look ahead to 2024, several key trends are poised."
+    publishedDateTime: 2023-12-22T02:30:00Z
+    webUrl: "https://www.traveldailymedia.com/top-six-predictions-for-fintech-in-2024/"
+    type: article
+    provider:
+      name: Travel Daily Media
+      domain: traveldailymedia.com
+    quality: 4
 
 secured: "8MQioIuGyDG92XeKcy52UpVF+08FRjOS1FK4KOY/huxf53XvHpQuPFqeiOr6+Va9wLCWkN/8gDPmfohzeHGJST2Dh0KqioduJlpyVuMMcDt3bFuq8E277/eKE8NylHUcasP8kTSqpnYX9UBqi+jjSCWKsoTsqsnhEb9fI0xojZU/WgxudFKAAQNCJSyjehe7JLJtUDGNeQxtAiceIQ/RwzbXCjWx7wJn980euN4ssfUrec85JN+sfwt0WxHFmjcrNq8mnzs7gzP6lfgoI4pqfuurpq/sZ+sFbdDt5CJ17M6JJCs0BHTOgzZdG0egmyTNwHJtV6/jK1e+3VHroI9lHBz9nG5R6qzQsyOfSKbM284=;yAlm3gltUKWjTy2Gb2ue2w=="
 ---

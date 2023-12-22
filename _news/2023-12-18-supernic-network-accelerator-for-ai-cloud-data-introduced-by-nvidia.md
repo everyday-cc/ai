@@ -67,6 +67,20 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "Samsung Develops AI Chip With Naver, Claims It's 8x Faster Than NVIDIA's Best Silicon"
+    excerpt: "It appears as if the Samsung and Naver partnership to develop chips for hyperscale AI models is already producing results, with the companies claiming their field-programmable gate array (FPGA) solution is a whopping eight times more power efficient than ..."
+    publishedDateTime: 2023-12-22T15:29:00Z
+    webUrl: "https://hothardware.com/news/samsung-develops-ai-chip-with-naver"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 47
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/63421/content/samsung-naver-hero.jpg"
+        width: 708
+        height: 425
+        isCached: true
   - title: "Intel: Upcoming Gaudi3 AI Accelerator Will Compete With Nvidia H100, AMD MI300"
     excerpt: "Given its advanced manufacturing process and addition of the newest memory standards, Gaudi3 could be very competitive with Nvidia's and AMD's products while costing less. Intel says it's rapidly expanding its Gaudi pipeline thanks to \"growing and proven performance advantages combined with highly competitive TCO and pricing.\""
     publishedDateTime: 2023-12-19T14:00:00Z

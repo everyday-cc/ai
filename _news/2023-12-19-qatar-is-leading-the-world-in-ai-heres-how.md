@@ -48,20 +48,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "Bay Area Professors and Students Reorient Around AI"
-    excerpt: "Artificial intelligence is having an impact across disciplines and campuses in Bay Area, where both students and professors are applying the technology and learning about its implications for their fields."
-    publishedDateTime: 2023-12-18T03:31:00Z
-    webUrl: "https://www.govtech.com/education/higher-ed/bay-area-universities-turn"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 39
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/cf1aaf7/2147483647/strip/true/crop/1170x569+0+119/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F33%2F3b%2Fb869edf602aab64879ce1e8f2f3f%2Fbay-area-tilt-shift.jpg"
-        width: 1440
-        height: 700
-        isCached: true
 
 secured: "xqpA90uTXLom7keF7ca3HwTFSr4/gMXxABdyxqlR48Ielwq9JK9ur2t1qmrhADCcxT1ukST5pvg1SUJnAz8v6UGQH6LuAjFMVZXo8Dsf7ObvqlSeVnSjJZaT47xcOZQGfSZrgoFWMWpDIVwJzfdJN+pr5bVH3vncS+UPt+sQbq1fBKvzkMqS40Dxqh7gtk5lSMsFgf5JWLwLpml6IIrz2Vx4p8yTIaGupRlS4z06+G8dxJ8rz128eiw6855iudJP2KncXSQlgBcJwx9IhoFYFRUqUiIWuOA09PnbHzeYUWhcSipYQ8FX2O7DmujvqIt1H9pCzsjvMtiNeEGEkYtpaUKz4ByEf66um2/Svd5B7Wk=;JZG04YDk+8IQlCziAoicvQ=="
 ---

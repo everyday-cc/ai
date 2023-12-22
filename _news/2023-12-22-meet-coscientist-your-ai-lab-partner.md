@@ -6,6 +6,9 @@ publishedDateTime: 2023-12-22T13:08:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2023/12/231221012729.htm"
 webUrl: "https://www.sciencedaily.com/releases/2023/12/231221012729.htm"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Science Daily
@@ -18,6 +21,47 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "Coscientist uses artificial intelligence to enhance chemistry research"
+    excerpt: "Artificial intelligence can now run science experiments with a few simple prompts from researchers, saving them time and speeding the pace of discovery."
+    publishedDateTime: 2023-12-22T11:30:00Z
+    webUrl: "https://www.bradfordera.com/news/coscientist-uses-artificial-intelligence-to-enhance-chemistry-research/article_50242b5a-a043-11ee-93c6-db0f404f2651.html"
+    type: article
+    provider:
+      name: Bradford Era
+      domain: bradfordera.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bradfordera.com/content/tncms/custom/image/b5c99bf4-6fa2-11e6-aeaa-e319e980b767.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Meet 'Coscientist,' your AI lab partner: System succeeds in planning and carrying out real-world chemistry experiments"
+    excerpt: "In less time than it will take you to read this article, an artificial intelligence-driven system was able to autonomously learn about certain Nobel Prize-winning chemical reactions and design a successful laboratory procedure to make them."
+    publishedDateTime: 2023-12-20T16:00:00Z
+    webUrl: "https://phys.org/news/2023-12-coscientist-ai-lab-partner-succeeds.html"
+    ampWebUrl: "https://phys.org/news/2023-12-coscientist-ai-lab-partner-succeeds.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-12-coscientist-ai-lab-partner-succeeds.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 35
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/meet-coscientist-your.jpg"
+        width: 2880
+        height: 1620
+        isCached: true
+  - title: "Science Without the Scientist: AI Can Help"
+    excerpt: "Perhaps, there is no more iconic image in science than the tireless investigator holding court in the laboratory. However, scientific research is undergoing a transformative shift. A recent study is introducing us to the capabilities of Coscientist,"
+    publishedDateTime: 2023-12-21T16:01:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202312/science-without-the-scientist"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 17
 
 secured: "afy+u33GEqUmJhuuoTL2GAZBP7pDRtpEYMYn8Odezy5+PK8K0FSNuCRKmO0/vo939grFmtoKvPIaGXLgvY2uu1QU6ybPFbMeuzui0T3MWZU3miwked5CecGOJIqpj34ZzQW++LdYiC1SKUfoihU9o90Mdkn+/NvwwKCt9xTKGRaP2xCCXQYXb6gfiBP2HV/J9Ja+7IKJTFoTYQt8Lp2EqmmW4Krid0ZC6DJlQMMzbXSKCCAOr5bMXlUv8AUtX1Y9kvwcp8fw70tHV32dO6c+eXKA5Y/Nva+T9ObrRBV+HWkLp2OatQdFeWXU7E3TeOF7P651zY8yv8pw176/RC5DC58LJrZxpYWsf21qkfVwmGQ=;7xQisW4kYRZSUnwYZnNiog=="
 ---

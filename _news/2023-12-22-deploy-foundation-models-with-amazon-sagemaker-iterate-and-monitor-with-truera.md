@@ -6,6 +6,9 @@ publishedDateTime: 2023-12-22T16:42:51Z
 originalUrl: "https://aws.amazon.com/blogs/machine-learning/deploy-foundation-models-with-amazon-sagemaker-iterate-and-monitor-with-truera/"
 webUrl: "https://aws.amazon.com/blogs/machine-learning/deploy-foundation-models-with-amazon-sagemaker-iterate-and-monitor-with-truera/"
 type: article
+quality: 85
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -24,6 +27,78 @@ images:
     width: 469
     height: 248
     isCached: true
+
+related:
+  - title: "Llama Guard is now available in Amazon SageMaker JumpStart"
+    excerpt: "Today we are excited to announce that the Llama Guard model is now available for customers using Amazon SageMaker JumpStart. Llama Guard provides input and output safeguards in large language model (LLM) deployment. It’s one of the components under Purple Llama, Meta’s initiative featuring open trust"
+    publishedDateTime: 2023-12-20T18:20:44Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/llama-guard-is-now-available-in-amazon-sagemaker-jumpstart/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 104
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/12/20/llama-guard-sagemaker.jpg"
+        width: 1010
+        height: 504
+        isCached: true
+  - title: "Mixtral-8x7B is now available in Amazon SageMaker JumpStart"
+    excerpt: "Today, we are excited to announce that the Mixtral-8x7B large language model (LLM), developed by Mistral AI, is available for customers through Amazon SageMaker JumpStart to deploy with one click for running inference. The Mixtral-8x7B LLM is a pre-trained sparse mixture of expert model, based on a 7-billion"
+    publishedDateTime: 2023-12-22T17:15:59Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/mixtral-8x7b-is-now-available-in-amazon-sagemaker-jumpstart/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 104
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/12/22/mistral-sagemaker-jumpstart.jpg"
+        width: 1005
+        height: 504
+        isCached: true
+  - title: "Amazon SageMaker model parallel library now accelerates PyTorch FSDP workloads by up to 20%"
+    excerpt: "Large language model (LLM) training has surged in popularity over the last year with the release of several popular models such as Llama 2, Falcon, and Mistral. Customers are now pre-training and fine-tuning LLMs ranging from 1 billion to over 175 billion parameters to optimize model performance for"
+    publishedDateTime: 2023-12-22T22:04:14Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-model-parallel-library-now-accelerates-pytorch-fsdp-workloads-by-up-to-20/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 96
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/12/22/sagemaker-model-parallel-library-pytorch.jpg"
+        width: 1010
+        height: 505
+        isCached: true
+  - title: "Overcoming common contact center challenges with generative AI and Amazon SageMaker Canvas"
+    excerpt: "Great customer experience provides a competitive edge and helps create brand differentiation. As per the Forrester report, The State Of Customer Obsession, 2022, being customer-first can make a sizable impact on an organization’s balance sheet, as organizations embracing this methodology are surpassing"
+    publishedDateTime: 2023-12-21T16:29:44Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/overcoming-common-contact-center-challenges-with-generative-ai-and-amazon-sagemaker-canvas/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 94
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/16/wisdom-s3-sync-diagram-1260x431.png"
+        width: 1260
+        height: 431
+        isCached: true
+  - title: "Accelerating time-to-insight with MongoDB time series collections and Amazon SageMaker Canvas"
+    excerpt: "This is a guest post co-written with Babu Srinivasan from MongoDB. As industries evolve in today’s fast-paced business landscape, the inability to have real-time forecasts poses significant challenges for industries heavily reliant on accurate and timely insights. The absence of real-time forecasts in"
+    publishedDateTime: 2023-12-18T16:42:37Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/accelerating-time-to-insight-with-mongodb-time-series-collections-and-amazon-sagemaker-canvas/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 78
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/27/ML-14327_image001-1260x438.png"
+        width: 1260
+        height: 438
+        isCached: true
 
 secured: "EclZZm86s48F/A1CEePYlStn0t5q7psBCGrwuIKbga+bWErBGoeFmU8PkrWdANmHldGhp9O+58BTazVZpnvoxJkGjNsrAhbquxnKiJp7VXnDq3WxKDl0VqNRxtDSFXH41WYVwctLSzwMmFFhAD1HvBTLb02J6Sv917g0FQvS+RY2rvNqufvdjxFCcrhzZIPtyzcONO+cEnq+pKTiDp0WJHD/P/C1XcYQWv7h7jP135o6Aj2ioUlS4d9vFMnD8BC48fstkYa42dSh+mrfc5jqFaHVCUTef6+TltdyUGOVA51y6MXTvB5morpMhzctNCKyCZbM5dh0BavKEgUBML437w35XOVibWOwG/QnlwfwQoM=;usFYle97JS7yzbUo/DKrpg=="
 ---

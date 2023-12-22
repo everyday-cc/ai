@@ -6,6 +6,9 @@ publishedDateTime: 2023-12-22T15:00:00Z
 originalUrl: "https://www.americanbanker.com/opinion/federated-learning-can-supercharge-banks-aml-detection"
 webUrl: "https://www.americanbanker.com/opinion/federated-learning-can-supercharge-banks-aml-detection"
 type: article
+quality: 39
+heat: 39
+published: false
 
 provider:
   name: American Banker

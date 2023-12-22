@@ -35,6 +35,20 @@ related:
         width: 790
         height: 320
         isCached: true
+  - title: "Exploring Google DeepMind’s New Gemini: What’s the Buzz All About?"
+    excerpt: "Discover the groundbreaking developments in the world of Artificial Intelligence with Google DeepMind's latest creation, Gemini. This article explores Gemini's innovative approach to replicating human perception,"
+    publishedDateTime: 2023-12-21T18:30:00Z
+    webUrl: "https://www.unite.ai/exploring-google-deepminds-new-gemini-whats-the-buzz-all-about/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/12/android-1000x600.png"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "oQADGlHhXByaQ0D52llSJGcGCLYJG2SLukt+O/KuDCWjmRypcYGpO9AmFfGiFd68G2UHspTeieTcGJCWtY0rHBIqRgsQIAl0qNMty4gm2ruzaqMVHWX5IU4uvaGSZPNZuFcVJlPe8W92h0kvp/LXRoeKfLMIqY1Upssf+EfxpQDL9fcp3a3Km25u0wre+9d04JbLBJdDJVXM30oSzXqQsgNLq0TEVD/7SMkoGO6RtlejhomkAqMXQl/0TtTrYNx7PyNHAwYq0V0q/AQn38qHRHcnN3iabMjTJX2F99Q8KnqES6jI3fBM11W4GMnwu/pWITNIse14/ZUqV5T/OegHj3ZJ9InGgF+X62h94ZnZIeSatkhAbhAG05CTlHV2aDoGxakZWJ2ZOWalNq1uPnRS9NOvCCiy7PvyayJ8Je2nVP2oAmtrCUq7C4AFDALvhLQKsdoOU3v2avXPycbjIP6l7e2sQsLgf2Pm6bqhdwDrafTIZANgvXqhN2I+qnaMCwyg4nGAkMgbrOEpRAUfCF8jsQ==;uJ+VY3lUS2wyoVAxPETqxQ=="
 ---

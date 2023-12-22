@@ -6,6 +6,9 @@ publishedDateTime: 2023-12-22T13:13:00Z
 originalUrl: "https://securityboulevard.com/2023/12/codenotary-adds-machine-learning-algorithms-to-sbom-search-tool/"
 webUrl: "https://securityboulevard.com/2023/12/codenotary-adds-machine-learning-algorithms-to-sbom-search-tool/"
 type: article
+quality: 19
+heat: -1
+published: false
 
 provider:
   name: Security Boulevard
@@ -14,6 +17,22 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "Codenotary Introduces Trustcenter 4.0 with New Machine Learning Guided Search Engine"
+    excerpt: "Codenotary, leaders in software supply chain protection, today announced Trustcenter 4.0 with sophisticated capabilities to manage data in the VEX (Vulnerability Exploitability eXchange) format with a newly-designed search engine guided by machine learning (ML)."
+    publishedDateTime: 2023-12-19T17:07:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/12/19/9936561.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 32
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "pEa6yYkkfrsFD5zS0FPxPpyyr/LGNATEAUZCc1lrbJugayRVW27tw5dM+ObcYyeCTshhYUxWzC/tnfKuu5dMVhNIjjPXIItjyyw3CYPGPixjeYgByKe7y7mEYxkb0+fSBo1kCMoPGk3FGkOiFGHDI4KxFNivdDZBYWGayvIFDPlElGMV0lZEgPeuhv4S8L47BXnvm5ZjkHdxk6VkjD3TEAkApxSdJT09VZlw55jsEyU2mmCLgn9beT+OghI3WoeHQk7WEgT95ZbAczZN86MleUsQHhWqpy/0qL5DEDk343dVlgjeAmNrcHG0YAstPvmIHUpVqhO9/H9qkZhHgeNHDKH16NfvYR4w6/B6lt1QHBlCDTkTYMRnzoF0KcxZM+jBQhmgUDi8lCVXlsMGLG9uTABK3Q+SCCezL/4vL34C3wcsQvDNyZRuG2aDtYMUzQgKEkuZAY7eKf1+DYCtZo2ZwORURG3O+EnmGGJ+VeFUfHXHaGMs50xaCDoEAmyX5Sf+YdaaL7sgjHP3IcF4Z8ViLw==;oFOT7VJcVMdpE9jGql9Qsg=="
 ---

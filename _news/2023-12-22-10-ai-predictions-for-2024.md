@@ -130,6 +130,15 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 19
+  - title: "Google announces AI uses for health care market"
+    excerpt: "Google introduced a suite of AI health models \"instead of trying to build a ‘one-size-fits-all’ solution,\" one company executive said."
+    publishedDateTime: 2023-12-20T11:45:00Z
+    webUrl: "https://www.bizjournals.com/nashville/news/2023/12/20/google-announces-ai-uses-for-health-care-market.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "jozWGaCy73DLO2NvD6ihomDSXKKYHG9Qx1IYQ0dmYuSAwMXRs9SORRfBAcNawordXDY5NgaziqQ8WCklY9yIGEXCE3ASrOV/1+0bcOFpmSUnEpB++2N/Z+R/eS6DVSBvWJsKeluETNAqpc2CEjBKmbOkRqs05gyQhFaWnJCmV7hm3B0yqZVVDpVMmcUtoH0xDgZoowNc3jvCFBMmiaQTCzFlqy6n8+9xBwjkqga1snoO/V/enwydoK1aadEN48tWyC8eZzVk4+a2e4epvHxzAQe+vKwdjgeOUxDZT/iDs/lXLrHKZ0fr9hn2dNVYD2upxNNd0qf0qeTawqI6Uw85EdjqmVfC1+UtFPlxQmOJGps=;Olj3XPZtiEfOZynvNKg/Sg=="
 ---

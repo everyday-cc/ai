@@ -6,6 +6,9 @@ publishedDateTime: 2023-12-22T17:34:00Z
 originalUrl: "https://ccm.net/apps-sites/11575-the-latest-google-update-gives-it-access-to-your-private-files-here-s-how-to-disable-it/"
 webUrl: "https://ccm.net/apps-sites/11575-the-latest-google-update-gives-it-access-to-your-private-files-here-s-how-to-disable-it/"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: CCM

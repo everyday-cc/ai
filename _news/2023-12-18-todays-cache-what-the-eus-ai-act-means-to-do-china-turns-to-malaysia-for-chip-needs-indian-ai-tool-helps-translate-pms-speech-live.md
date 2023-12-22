@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/sci-tech/technology/todays-cache-what-the-e
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/todays-cache-what-the-eus-ai-act-means-to-do-china-turns-to-malaysia-for-chip-needs-indian-ai-tool-helps-translate-pms-speech-live/article67649893.ece/amp/"
 type: article
 quality: 58
-heat: 58
+heat: 68
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 1200
     height: 813
     isCached: true
+
+related:
+  - title: "Chinese firms woo Malaysia to make high-end chips, avoid US sanctions"
+    excerpt: "Many Chinese semiconductor design companies are tapping Malaysian firms to assemble high-end chips to hedge risks as the U.S. expands sanctions on China's chip industry"
+    publishedDateTime: 2023-12-22T17:37:00Z
+    webUrl: "https://www.malaysiasun.com/news/274073582/chinese-firms-woo-malaysia-to-make-high-end-chips-avoid-us-sanctions"
+    type: article
+    provider:
+      name: Malaysia Sun
+      domain: malaysiasun.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1703043066251.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "8XmjTYmoCI7qC91iJcg3qfqmRRfRsFx/Nc5Yurpb4KIK1nN++AmxPHFq+nYGzCMotgMhvqdCBO71kWXbkcMGHR/ymqBm/dfYeZS0sEiozwE7Lkp96x4mZEUrIapdU4S1NTvdkG6XNWO544UmigpIUTmIvfuxwi3a6eQky27Cyix63rCJLCCUkOuWrMjYa8xa8xLgePSBg9L+HeirfavyfhvX8y/704DUHauc+IQ4rWD6tU/shoOF7k9elR+bk+OnliriPyGJZuHRjcImyq0JbRtLi2I/5/FX1T8V4S2jH33lH3cUqNC2wTSpoCLgf3mR5ZfSiN3a/qQx2yexDgDOTe2F9LvzCZpFADeKSU1/4SBZ2q9LThWiFTRWccBKH4+6vCDg+lbXCSt9FatpwNaqT2TZSiD7kl6BJoa41W1R74hv6guM0C7o7VdDs/x3GkXhkQ2NkMbQHHd8UIdb5fstBrCgYfWc1CAduydlcINulpD0kjqV61CzJu99kY7qss0T+bkOpyNT3lUbj3Q6dBc0GA==;wwAUsZtWF1nLoNAFQTKhGQ=="
 ---

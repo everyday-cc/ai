@@ -44,14 +44,16 @@ related:
         height: 4000
         isCached: true
   - title: "IBM aims to boost AI offerings with $2.3B acquisition"
-    excerpt: "Tech giant IBM bolstering its investments in artificial intelligence, announcing Monday it plans to buy two units of Software AG for $2.33 billion cash."
-    publishedDateTime: 2023-12-19T14:00:00Z
-    webUrl: "https://www.aol.com/ibm-aims-boost-ai-offerings-120029357.html?ref=biztoc.com"
+    excerpt: "IBM announced on Monday its plans to buy Software AG's StreamSets and webMethods platforms for $2.3 billion cash in a move aimed at bolstering the tech giant's artificial intelligence and hybrid cloud offerings. The two platforms together make up Software ..."
+    publishedDateTime: 2023-12-19T07:00:00Z
+    webUrl: "https://www.aol.com/ibm-aims-boost-ai-offerings-120029357.html"
+    ampWebUrl: "https://www.aol.com/amphtml/ibm-aims-boost-ai-offerings-120029357.html"
+    cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/ibm-aims-boost-ai-offerings-120029357.html"
     type: article
     provider:
       name: AOL
       domain: aol.com
-    quality: 39
+    quality: 59
     images:
       - url: "https://s.yimg.com/ny/api/res/1.2/1lhUwd9L5b6zsah.p0e7rg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_fox_business_239/631ef33a676d3e6831d0200d2fdf01c5"
         width: 1200

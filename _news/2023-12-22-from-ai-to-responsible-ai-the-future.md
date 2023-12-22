@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-fro
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-from-ai-to-responsible-ai-the-futurenbsp-3344646/lite/"
 type: article
 quality: 59
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The Medical Futurist Examines How AI Will Impact the Future of Healthcare"
+    excerpt: "We talked to Dr. Bertalan Mesko, AKA The Medical Futurist, about the latest MedTech trends he’s keeping an eye on. Here’s what he had to say:"
+    publishedDateTime: 2023-12-22T14:01:00Z
+    webUrl: "https://www.usatoday.com/story/sponsor-story/bertalan-mesko/2023/12/22/the-medical-futurist-examines-how-ai-will-impact-the-future-of-healthcare/71963510007/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 33
 
 secured: "0QQYh96YC+RJC58xgHydYM78qpuKwDdn4FLoMGo15ITCjuUu7Ch7KTutBv09n1t7iOOmTgEetW5i7YrzlAux1MK7TQmOSyQr3kLTyWJIVa4yxtu4+zQ9MqX9Lu74CZ+a8gilKNx6vRvWhA5lBFpTYDZAk3N4Hg9l4xyr650dX/aMYEsOht2OHB979MKJqcGezQq1ekVdPY41TWJZCG1gmKh2rNEBWdGtlt+5RoUks3Y9XXTFsjiCTuL66SutYWHHPFV29pFCi/AcGHMKg7YrHyhaxB9i2ZdyxnugUGpdUVNA9P1erqHf4PYQov/QpdCv05h1MKbqoDrJ029rvQaBAzj6IOsleQ8YiGJjamuzOho=;9sQHcX+Jw3z0mo06uO5Tpw=="
 ---

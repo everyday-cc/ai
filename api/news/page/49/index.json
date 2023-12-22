@@ -2,6 +2,519 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2023-11-13-10-companies-using-artificial-intelligence-ai-in-a-compelling-way.md",
+      "title": "10 Companies Using Artificial Intelligence (AI) in a Compelling Way",
+      "excerpt": "Artificial intelligence (AI) is everywhere in the business ... Beyond that, the company is using AI in its autonomous vehicle unit Waymo and in new products like Bard AI. JPMorgan Chase uses ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/companies-that-use-ai/",
+      "originalUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/companies-that-use-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-13T14:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-13-artificial-intelligence-for-dummies.md",
+      "title": "Artificial intelligence for dummies",
+      "excerpt": "Musk, never at a loss for words, opined that AI is an “existential threat” because human beings for the first time are faced with something “that is going to be far more intelligent than us.” It was a jamboree of the trite and the portentous.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bangordailynews.com/2023/11/13/opinion/opinion-contributor/artificial-intelligence-dummies/",
+      "originalUrl": "https://www.bangordailynews.com/2023/11/13/opinion/opinion-contributor/artificial-intelligence-dummies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bdn-data.s3.amazonaws.com/uploads/2023/11/Britain-AI-Summit.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-13T14:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bangor Daily News",
+        "domain": "bangordailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-13-biostrand-unveils-a-revolutionary-approach-to-biological-sequence-retrieval-a-fusion-of-natural-language-processing-and-database-research.md",
+      "title": "BioStrand® Unveils a Revolutionary Approach to Biological Sequence Retrieval: A Fusion of Natural Language Processing and Database Research",
+      "excerpt": "\"New Paradigm for Biological Sequence Retrieval Inspired by Natural Language Processing and Database Research\" on bioRχiv. The publication delves into the intricacies of one of BioStrand's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/11/b35748405/biostrand-unveils-a-revolutionary-approach-to-biological-sequence-retrieval-a-fusion-of-natural-la",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/11/b35748405/biostrand-unveils-a-revolutionary-approach-to-biological-sequence-retrieval-a-fusion-of-natural-la",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-13T13:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-13-self-driving-cars-are-slowly-moving-forward.md",
+      "title": "Self-driving cars are slowly moving forward",
+      "excerpt": "Taking a nap behind the wheel on a tediously long drive remains a distant dream. But broad adoption of autonomous vehicles will inch closer in 2024",
+      "sourceUrl": null,
+      "webUrl": "https://www.economist.com/the-world-ahead/2023/11/13/self-driving-cars-are-slowly-moving-forward",
+      "originalUrl": "https://www.economist.com/the-world-ahead/2023/11/13/self-driving-cars-are-slowly-moving-forward",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-13T13:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Economist",
+        "domain": "economist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-13-messagepoint-announces-generative-ai-capabilities-for-translation-and-plain-language-rewrites.md",
+      "title": "Messagepoint Announces Generative AI Capabilities for Translation and Plain Language Rewrites",
+      "excerpt": "As part of its Intelligent Content Hub for customer communications management, Messagepoint's AI-powered Assisted Authoring will now support translation into over 80 languages and suggest content ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/11/b35757362/messagepoint-announces-generative-ai-capabilities-for-translation-and-plain-language-rewrites",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/11/b35757362/messagepoint-announces-generative-ai-capabilities-for-translation-and-plain-language-rewrites",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-13T12:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-13-solarwinds-showcases-latest-observability-enhancements-at-aws-reinvent-2023.md",
+      "title": "SolarWinds Showcases Latest Observability Enhancements At AWS re:Invent 2023",
+      "excerpt": "SolarWinds Highlights How SaaS Observability Solution Helps Customers Accelerate Their Cloud Journeys SolarWinds (NYSE:SWI), a leading provider of simple, powerful, secure observability and IT management software,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/11/b35745693/solarwinds-showcases-latest-observability-enhancements-at-aws-re-invent-2023",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/11/b35745693/solarwinds-showcases-latest-observability-enhancements-at-aws-re-invent-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/35745693",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35745693",
+      "publishedDateTime": "2023-11-13T11:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-13-self-driving-car-makers-could-face-prison-for-misleading-adverts-in-uk.md",
+      "title": "Self-driving car-makers could face prison for misleading adverts in UK",
+      "excerpt": "The UK's Automated Vehicles Bill would make it a criminal offence for car-makers to use certain marketing terms unless their vehicles are fully self-driving, with a punishment of up to two years in pr",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/2402075-self-driving-car-makers-could-face-prison-for-misleading-adverts-in-uk/",
+      "originalUrl": "https://www.newscientist.com/article/2402075-self-driving-car-makers-could-face-prison-for-misleading-adverts-in-uk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-13T10:16:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-13-humanoid-robots-are-here-but-theyre-a-little-awkward-do-we-really-need-them.md",
+      "title": "Humanoid robots are here, but they're a little awkward. Do we really need them?",
+      "excerpt": "(AP Photo/Matt Freed) Building a robot that’s both human-like and useful is a decades-old engineering dream inspired by popular science fiction. While the latest artificial intelligence craze ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/ap/ap-business/humanoid-robots-are-here-but-theyre-a-little-awkward-do-we-really-need-them/article_2eb7c7f8-1938-5aa7-bf59-8c969534bc20.html",
+      "originalUrl": "https://www.wfmz.com/news/ap/ap-business/humanoid-robots-are-here-but-theyre-a-little-awkward-do-we-really-need-them/article_2eb7c7f8-1938-5aa7-bf59-8c969534bc20.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-13T09:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-13-exploring-the-power-of-ai-in-gaming-unveiling-the-tools-that-drive-the-experience.md",
+      "title": "Exploring the Power of AI in Gaming: Unveiling the Tools That Drive the Experience",
+      "excerpt": "Introduction In the dynamic realm of gaming, the integration of artificial intelligence (AI) has become a game-changer, revolutionizing the way players interact with virtual worlds. AI tools play a pivotal role in enhancing gameplay,",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/exploring-the-power-of-ai-in-gaming-unveiling-the-tools-that-drive-the-experience/",
+      "originalUrl": "https://techbullion.com/exploring-the-power-of-ai-in-gaming-unveiling-the-tools-that-drive-the-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-13T09:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-13-how-school-districts-are-looking-to-incorporate-ai-instead-of-banning-technology.md",
+      "title": "How school districts are looking to incorporate AI instead of banning technology",
+      "excerpt": "DEPTFORD TOWNSHIP, New Jersey (WPVI) -- As ChatGPT and similar artificial intelligence tools gain in popularity, many local school districts are looking for ways to incorporate them into their ...",
+      "sourceUrl": null,
+      "webUrl": "https://6abc.com/chatgpt-artificial-intelligence-in-education-schools/14051423/",
+      "originalUrl": "https://6abc.com/chatgpt-artificial-intelligence-in-education-schools/14051423/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-13T07:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "6abc News",
+        "domain": "6abc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-13-worlds-first-ai-robot-ceo-becomes-an-honorary-professor.md",
+      "title": "World's first AI robot CEO becomes an honorary professor",
+      "excerpt": "The world's first AI robot CEO has become an honorary professor. Mika, who heads up Polish rum firm Dictador, was presented the award during the recent 2023/24 Collegium Humanum University",
+      "sourceUrl": null,
+      "webUrl": "https://www.victoriaadvocate.com/worlds-first-ai-robot-ceo-becomes-an-honorary-professor/video_782cb487-0b5f-59aa-9ff6-697608d9a854.html",
+      "originalUrl": "https://www.victoriaadvocate.com/worlds-first-ai-robot-ceo-becomes-an-honorary-professor/video_782cb487-0b5f-59aa-9ff6-697608d9a854.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-13T07:37:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Victoria Advocate",
+        "domain": "victoriaadvocate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-13-leaked-details-reveal-apples-second-gen-vision-pro-headset-codenamed-project-alaska.md",
+      "title": "Leaked details reveal Apple’s second-gen Vision Pro headset, codenamed Project Alaska",
+      "excerpt": "Apple is reportedly working on a successor to its Vision Pro AR/VR headset, codenamed Project Alaska. Learn more about it here.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2023/11/13/leaked-details-reveal-apples-second-gen-vision-pro-headset-codenamed-project-alaska/",
+      "originalUrl": "https://www.gizmochina.com/2023/11/13/leaked-details-reveal-apples-second-gen-vision-pro-headset-codenamed-project-alaska/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-13T07:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-13-top-10-best-machine-learning-software-in-2023.md",
+      "title": "Top 10 Best Machine Learning Software in 2023",
+      "excerpt": "It offers a wide range of tools and services to help users build and deploy machine learning models quickly and easily. Azure Machine Learning is a cloud-based machine learning software that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.straight.com/guides/software/best-machine-learning-software/",
+      "originalUrl": "https://www.straight.com/guides/software/best-machine-learning-software/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-13T06:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Georgia Straight",
+        "domain": "straight.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-11-13-how-ai-startups-are-shaping-the-future-of-work-2023-24.md",
+      "title": "How AI Startups Are Shaping the Future of Work (2023-24)",
+      "excerpt": "AI startups use AI technologies to create innovative solutions to improve user experience, automate processes, and enable data-driven decision-making.",
+      "sourceUrl": null,
+      "webUrl": "https://thesiliconreview.com/2023/11/how-ai-startups-are-shaping-the-future-of-work",
+      "originalUrl": "https://thesiliconreview.com/2023/11/how-ai-startups-are-shaping-the-future-of-work",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-13T04:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "thesiliconreview",
+        "domain": "thesiliconreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-13-generative-ai-updates-from-aws-summit-2023-nyc-about-amazon.md",
       "title": "Generative AI updates from AWS Summit 2023 NYC – About Amazon",
       "excerpt": "In his keynote speech, Swami Sivasubramanian, vice president of Database, Analytics, and Machine Learning at Amazon Web Services (AWS), said he expects that",
@@ -403,555 +916,6 @@
         "Computer Vision",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-11-13-is-artificial-intelligence-all-that-intelligent-ai-influencers-worry-about-wishful-thinking.md",
-      "title": "Is artificial intelligence all that intelligent? AI influencers worry about wishful thinking",
-      "excerpt": "Two of Time's top 100 influencers on artificial intelligence, Ted Chiang and Emily Bender, explore the potential dark side of generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/ai-chiang-bender-wishful-thinking/?n=@",
-      "originalUrl": "https://www.geekwire.com/2023/ai-chiang-bender-wishful-thinking/?n=@",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T17:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-13-ai-is-here-ypsilanti-schools-weigh-integrity-ethics-of-new-technology.md",
-      "title": "‘AI is here.’ Ypsilanti schools weigh integrity, ethics of new technology",
-      "excerpt": "Ypsilanti Community Schools has been carefully rolling AI-powered tools into its lesson plans since last summer, officials said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mlive.com/news/ann-arbor/2023/11/ai-is-here-ypsilanti-schools-weigh-integrity-ethics-of-new-technology.html",
-      "originalUrl": "https://www.mlive.com/news/ann-arbor/2023/11/ai-is-here-ypsilanti-schools-weigh-integrity-ethics-of-new-technology.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/L5CF7OQNPRH3XDLAFN2CVVGBME.JPG",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.mlive.com/news/ann-arbor/2023/11/ai-is-here-ypsilanti-schools-weigh-integrity-ethics-of-new-technology.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/ann-arbor/2023/11/ai-is-here-ypsilanti-schools-weigh-integrity-ethics-of-new-technology.html?outputType=amp",
-      "publishedDateTime": "2023-11-12T17:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MLive",
-        "domain": "mlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-13-chatgpt-ai-robots-writing-church-sermons-causing-hell-for-pastors-new-york-post.md",
-      "title": "ChatGPT AI robots writing church sermons causing hell for pastors – New York Post",
-      "excerpt": "Thanks for contacting us. We've received your submission. Among sermon writers, there is fascination – and unease – over the fast-expanding abilities",
-      "sourceUrl": null,
-      "webUrl": "https://www.inferse.com/793806/chatgpt-ai-robots-writing-church-sermons-causing-hell-for-pastors-new-york-post/",
-      "originalUrl": "https://www.inferse.com/793806/chatgpt-ai-robots-writing-church-sermons-causing-hell-for-pastors-new-york-post/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-8059.png",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T16:12:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inferse",
-        "domain": "inferse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-12-how-to-invest-in-artificial-intelligence-3-stocks-to-buy.md",
-      "title": "How to Invest in Artificial Intelligence: 3 Stocks to Buy",
-      "excerpt": "Welcome to the world of AI (artificial intelligence) investing! As technology rapidly evolves, learning how to invest in artificial intelligence becomes crucial. Savvy investors repeatedly focus ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/how-to-invest-in-artificial-intelligence-3-stocks-to-buy-1032809724",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/how-to-invest-in-artificial-intelligence-3-stocks-to-buy-1032809724",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T14:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-12-artificial-intelligence-is-not-an-existential-threat-yet.md",
-      "title": "Artificial Intelligence is not an existential threat – yet",
-      "excerpt": "I’m sorry that I didn’t get my article on Artificial Intelligence last week during the ‘AI Safety Summit’ at Bletchley Park, the historic Second World War decoding centre in England. I got distracted by some other stuff that was happening in the Middle East.",
-      "sourceUrl": null,
-      "webUrl": "https://cyprus-mail.com/2023/11/12/artificial-intelligence-is-not-an-existential-threat-yet/",
-      "originalUrl": "https://cyprus-mail.com/2023/11/12/artificial-intelligence-is-not-an-existential-threat-yet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T13:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cyprus Mail",
-        "domain": "cyprus-mail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-12-2024-tech-trends-prepare-for-the-next-wave-of-innovation.md",
-      "title": "2024 Tech Trends: Prepare for the Next Wave of Innovation",
-      "excerpt": "Are you ready to ride the wave of innovation and embrace the future? The year 2024 is just around the corner, and with it comes a tidal wave of exciting new technologies that will reshape our lives as we know them.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/2024-tech-trends-prepare-for-the-next-wave-of-innovation/",
-      "originalUrl": "https://techbullion.com/2024-tech-trends-prepare-for-the-next-wave-of-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2023/11/Tech-Trend.jpg",
-          "width": 1000,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T11:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-12-is-artificial-intelligence-all-that-intelligent-ai-influencers-worry-about-wishful-thinking.md",
-      "title": "Is artificial intelligence all that intelligent? AI influencers worry about wishful thinking",
-      "excerpt": "BOT or NOT? This special series explores the evolving relationship between humans and machines, examining the ways that robots, artificial intelligence and automation are impacting our work and lives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/ai-chiang-bender-wishful-thinking/",
-      "originalUrl": "https://www.geekwire.com/2023/ai-chiang-bender-wishful-thinking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/11/231111-ai.jpg",
-          "width": 3427,
-          "height": 2770,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T09:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-12-figure-ai-ceo-talks-billions-of-humanoid-robots.md",
-      "title": "Figure AI CEO Talks Billions of Humanoid Robots",
-      "excerpt": "It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge technologies, he is currently a Co-Founder of a startup and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextbigfuture.com/2023/11/figure-ai-ceo-talks-billions-of-humanoid-robots.html",
-      "originalUrl": "https://www.nextbigfuture.com/2023/11/figure-ai-ceo-talks-billions-of-humanoid-robots.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T06:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NextBigFuture",
-        "domain": "nextbigfuture.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-12-structural-health-monitoring-optimised-using-ar-ai-and-computer-vision.md",
-      "title": "Structural health monitoring optimised using AR, AI and computer vision",
-      "excerpt": "Researchers from the University of Central Florida have introduced new technologies that aim to enhance the monitoring of structural health, bolstering public safety and safeguarding against disasters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.imveurope.com/article/new-structural-health-monitoring-technologies-introduced",
-      "originalUrl": "https://www.imveurope.com/article/new-structural-health-monitoring-technologies-introduced",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T01:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "imveurope.com",
-        "domain": "imveurope.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-12-top-10-best-python-libraries-for-natural-language-processing-in-2023.md",
-      "title": "Top 10 Best Python Libraries for Natural Language Processing in 2023",
-      "excerpt": "Python is a widely used programming language in the field of data science, and natural language processing (NLP) is no exception. NLP involves analyzing and understanding human language ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.straight.com/guides/software/best-python-libraries-for-natural-language-processing/",
-      "originalUrl": "https://www.straight.com/guides/software/best-python-libraries-for-natural-language-processing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Georgia Straight",
-        "domain": "straight.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-12-ibm-turns-the-corner-with-watson-why-20-is-a-breakthrough-opportunity.md",
-      "title": "IBM turns the corner with Watson: Why 2.0 is a breakthrough opportunity",
-      "excerpt": "With Watson 1.0, IBM Corp. deviated from the Silicon Valley mantra — fail fast — as it took nearly a decade for the company to pivot off of its original vision. In our view, a different dynamic is in play today with Watson 2.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/11/11/ibm-turns-corner-watson-2-0-breakthrough-opportunity/",
-      "originalUrl": "https://siliconangle.com/2023/11/11/ibm-turns-corner-watson-2-0-breakthrough-opportunity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-11T16:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-11-brickner-ai-seeing-can-be-deceiving.md",
-      "title": "Brickner: AI: Seeing can be deceiving",
-      "excerpt": "In response to Biden's executive order regulating AI, Brickner writes, \"Without limits, we have a wild west landscape of cheating, discrimination, and inaccuracy endangering individuals, and institutions of education,",
-      "sourceUrl": null,
-      "webUrl": "https://www.inforum.com/opinion/columns/brickner-ai-seeing-can-be-deceiving",
-      "originalUrl": "https://www.inforum.com/opinion/columns/brickner-ai-seeing-can-be-deceiving",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-11T15:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inforum",
-        "domain": "inforum.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-11-study-explores-the-scaling-of-deep-learning-models-for-chemistry-research.md",
-      "title": "Study explores the scaling of deep learning models for chemistry research",
-      "excerpt": "Deep neural networks (DNNs) have proved to be highly promising tools for analyzing large amounts of data, which could speed up research in various scientific fields. For instance, over the past few years,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-11-explores-scaling-deep-chemistry.html",
-      "originalUrl": "https://techxplore.com/news/2023-11-explores-scaling-deep-chemistry.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-11T13:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-11-facial-recognition-could-transform-policing-in-same-way-as-dna-says-met-chief.md",
-      "title": "Facial recognition could transform policing in same way as DNA, says Met chief",
-      "excerpt": "Sir Mark Rowley says technology could help catch wanted criminals, but rights campaigners warn of privacy violations Britain’s most senior police officer has predicted that facial recognition ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/uk-news/2023/sep/11/facial-recognition-could-transform-policing-in-way-dna-testing-did-says-met-chief",
-      "originalUrl": "https://www.theguardian.com/uk-news/2023/sep/11/facial-recognition-could-transform-policing-in-way-dna-testing-did-says-met-chief",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-11T10:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

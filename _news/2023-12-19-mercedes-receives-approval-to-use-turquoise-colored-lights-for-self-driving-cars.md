@@ -103,6 +103,15 @@ related:
       name: East Bay Times
       domain: eastbaytimes.com
     quality: 4
+  - title: "Mercedes Adds Blue Car Light for Self-Driving"
+    excerpt: "Mercedes-Benz has received approval to add external turquoise blue lights to its vehicles that indicate when they are in self-driving mode."
+    publishedDateTime: 2023-12-22T17:26:00Z
+    webUrl: "https://cacm.acm.org/news/278914-mercedes-adds-blue-car-light-for-self-driving"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 4
   - title: "Mercedes Invented a Way To Easily Identify When Cars Are Self-Driving on the Road"
     excerpt: "With regulatory approval, Mercedes-Benz is able to add a turquoise light to its cars using its Drive Pilot self-driving feature."
     publishedDateTime: 2023-12-20T19:15:00Z

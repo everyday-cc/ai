@@ -6,6 +6,9 @@ publishedDateTime: 2023-12-22T16:00:00Z
 originalUrl: "https://gizmodo.com/ai-midjourney-chevy-anthropic-copilot-magic-sam-altman-1851115897"
 webUrl: "https://gizmodo.com/ai-midjourney-chevy-anthropic-copilot-magic-sam-altman-1851115897"
 type: article
+quality: 67
+heat: 67
+published: false
 
 provider:
   name: Gizmodo

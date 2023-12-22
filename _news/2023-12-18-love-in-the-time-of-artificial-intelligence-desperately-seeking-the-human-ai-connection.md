@@ -7,7 +7,7 @@ originalUrl: "https://adage.com/article/digital-marketing-ad-tech-news/love-time
 webUrl: "https://adage.com/article/digital-marketing-ad-tech-news/love-time-artificial-intelligence-desperately-seeking-human-ai-connection/2533936"
 type: article
 quality: 25
-heat: -1
+heat: 25
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - AI
   - AI in Healthcare
-
-related:
-  - title: "The Silent Bias in AI: Exploring the Troubling Reality"
-    excerpt: "Welcome to our eye-opening blog post, where we delve into the world of Artificial Intelligence (AI) to uncover a disturbing truth that has long remained silent. While AI continues to revolutionize various aspects of our lives,"
-    publishedDateTime: 2023-12-20T12:06:00Z
-    webUrl: "https://techbullion.com/the-silent-bias-in-ai-exploring-the-troubling-reality/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 41
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/AI-1.jpg"
-        width: 1000
-        height: 500
-        isCached: true
 
 secured: "wz8/JkSq3M70KEXF+3jRa4/jH4xNPB4k13n8R0Ea+6qA82bYwDk4iconewhXWrw1UMNh70c83vIz6Dew/nalTwsDA4T1WbnW9ZBKIE1wFQwPl3RBfHf4XC+lIe9FywRrgOh6YEBDBjr9CL4b8hMQmNUN6TIvsDdt/Kw4yuJ1MaYve+a0vZ0cwBGpQjCbsScb/t1Aixl3d2VkyvmBdJCm/E2gdNLyCe3nuw3e0g+LgW7IgPj50H5Bt3dcKGxefeVUTthRtaKbyJQln7je88quHOZsoitA1zvnRJaD6yJ1qoBxg9Z05vVwNNbL5R4J31UaGoTSORsTH6dCXIsen9HxqSewsPg7iL400rZSoKwwEXc1A6alrgEtxSxKu0jHR5uds3dmmUxIsJO873cpoqHlQi7+L9Qw7DioN94u3nxkPZnk1WL9thyIYadpxY/NvbfEkEhHpFsaD1QuBemkKM4Hpdsbt38XMoufE0AViF1mQspEJik4VasWUlUZbtD7YuAo39W1MOXWJ18MUusSn8z98Q==;zttO1qR1QAon8mXIY11vfg=="
 ---

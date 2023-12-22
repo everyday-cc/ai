@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/us/biden-administration-launches-ai-safety-i
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/biden-administration-launches-ai-safety-initiative-calling-public-input-standards.amp"
 type: article
 quality: 78
-heat: 99
+heat: 98
 published: true
 
 provider:

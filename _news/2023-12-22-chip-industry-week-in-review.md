@@ -7,7 +7,7 @@ originalUrl: "https://semiengineering.com/chip-industry-week-in-review-16/"
 webUrl: "https://semiengineering.com/chip-industry-week-in-review-16/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,75 +23,6 @@ images:
     width: 2560
     height: 1440
     isCached: true
-
-related:
-  - title: "Will AI substitute doctors in healthcare industry?"
-    excerpt: "The value of healthcare workers' intuition in effective clinical care has been verified by reports around the world again and again. From doctors' ability to spot sepsis in critically ill children, to 'nurse worry' as a 'vital sign' predictive of patient deterioration,"
-    publishedDateTime: 2023-12-18T12:48:00Z
-    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/will-ai-substitute-doctors-in-healthcare-industry/106097951"
-    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/will-ai-substitute-doctors-in-healthcare-industry/106097951"
-    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/will-ai-substitute-doctors-in-healthcare-industry/106097951"
-    type: article
-    provider:
-      name: health.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 76
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-106097951,imgsize-14168,width-1200,height=765,overlay-ethealth/health-it/will-ai-substitute-doctors-in-healthcare-industry.jpg"
-        width: 1200
-        height: 765
-        isCached: true
-  - title: "How AI Is Influencing The Mortgage Industry"
-    excerpt: "In the not-so-distant future, you might join a video call and meet with a virtual representative to discuss your mortgage options. Afterward, an AI-written document will deliver personalized recommendations based on the conversation."
-    publishedDateTime: 2023-12-18T08:59:00Z
-    webUrl: "https://www.forbes.com/advisor/mortgages/how-ai-affects-mortgage-industry/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
-    images:
-      - url: "https://www.forbes.com/advisor/wp-content/uploads/2023/12/How-AI-Is-Influencing-The-Mortgage-Industry-Ft-Image.jpg"
-        width: 766
-        height: 431
-        isCached: true
-  - title: "AI or not to AI: How artificial intelligence is changing the industry"
-    excerpt: "One of the most profound statements that I’ve ever heard on artificial intelligence was presented in the form of a joke. It was delivered decades ago by an English Lit professor of mine who taught classes both on John Milton and on science fiction and fantasy literature."
-    publishedDateTime: 2023-12-18T18:25:00Z
-    webUrl: "https://www.plantservices.com/technology/artificial-intelligence/article/33016391/ai-or-not-to-ai-how-artificial-intelligence-is-changing-the-industry"
-    type: article
-    provider:
-      name: Plant Services
-      domain: plantservices.com
-    quality: 54
-    images:
-      - url: "https://img.plantservices.com/files/base/ebm/plantservices/image/2023/12/657b45e23fa0aa001efeca59-ai_or_not_to_ai_how_artificial_intelligence_is_cha.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "The nascent AI industry is being overrun by men"
-    excerpt: "This work continued into the second world war, when they were actively encouraged to take on wartime jobs as computers in the absence of men. Women continued to work as computers into the early days of the American space program in the 1960s, playing a pivotal role in advancing NASA’s space projects."
-    publishedDateTime: 2023-12-21T01:12:00Z
-    webUrl: "https://ia.acs.org.au/article/2023/the-ai-industry-is-overrun-with-men.html"
-    type: article
-    provider:
-      name: ia.acs
-      domain: acs.org.au
-    quality: 39
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/altman-mira-murtai.jpg"
-        width: 1214
-        height: 683
-        isCached: true
-  - title: "Modern Healthcare is evolving along with the industry"
-    excerpt: "It’s an exciting time to be journalists covering the industry. And for that reason, Modern Healthcare is evolving in 2024 too."
-    publishedDateTime: 2023-12-18T08:59:00Z
-    webUrl: "https://www.modernhealthcare.com/opinion/modern-healthcare-evolving-along-industry"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 19
 
 secured: "BLDTwAson2kYS+6TVf8AXZU47qFd/EJxoUCyoGJYhJY9s7EZkPswb0HXdruDN0JgvbNpIEPcwRN7llBHzGIjGapDkCORGob8yWPHQTiVjig4hvxgWzdL+MfsEFBj6ZBtEFr9QtKcsGsFIZOTwWfHiEQcHLRhJC98iHJQXuAm/QzqCd0D3jCQOOMydZArfZTf/5S//7FK3sYiTaCtRakNP+8bBGLy8TytceedtYKk4T08l3U5XnRpdCJG6srRSaUdi4TTbYY0U7hG0TrGMAJlqshRm2ZKNaytWOoYia4BBcJCMULjvqLG4DKp4x16VH4G2EaTAu4L/egwjjCnD0J8wASlPbXKfYczQ5CgPR3bQOtIVOX+q/ik1R5wrm2/mLCb27fekVZOpW3ciHPtZlHKLBGCBSAfIxbxo8t4qbSRoiimbHOSsCAhN87FU5lazVC7PByQ/3Xpt15JicHgPfb027pu/qGT5cPQJqicYFu88k5dqHY1t0d6xWXoiiXcQJjr1vUQu7zFdPKazrW/doz18A==;9TaZupCkVkZow6eVNSF8zQ=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2023-12-22T19:55:00Z
 originalUrl: "https://www.androidauthority.com/ai-pin-shipment-date-3396904/"
 webUrl: "https://www.androidauthority.com/ai-pin-shipment-date-3396904/"
 type: article
+quality: 69
+heat: 69
+published: false
 
 provider:
   name: Android Authority
@@ -17,7 +20,14 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
-secured: "bNfCyEYYhpmW7916vynMUnHDQoeifM9O+2YMElqGkN5TSGWaNnBgPLEN1siOyQsNGM5QXGOKVqpmGY4l1uPBZZf7YeLsXZB9FDLQzKlWk1boehtTbJ0rdLr+1wLDJR1SRsDlx+Oh3t6/RCRBApfQXsGC7ZhpYsZQf9LdpnzKmvYy9vsIedjN3Fu4ZY5wOEw36cAllC3Dm2aAqfeOpMxZsuIyIEgw4Y6+Cqw7eqoDuTshUHfa6qITPSo5OAQXjP3pj9mc6BWMl5Nbczf+H22h/zpyeGjznCWqg2V6kp5iFHj8wItPn8jawmG3QSDn5qKmE8wwx0g12jy5w640Opg9mhD+hDRgg/NCbqPAm+biaNepDlbc4bz6AyW5bMDoOcMNZxw3LSmXBLaqr1knEI6QjZsDnUiGkNUfwvjjtIEzmxzll3FyiEwK72yrBjk46ZfFdzXacRXN0RWpNvQmkM2k86dDFOv58GwEiXZDkUqCiAS9yW2e0TzgGf0g/ZHQ4JlTvlS/i4H/4paj4D1RfY28Hg==;a0z0f6zQf/pCxkIlICPuOg=="
+images:
+  - url: "https://www.androidauthority.com/wp-content/uploads/2023/11/Humane-Ai-Pin-Business.jpg"
+    width: 1920
+    height: 1080
+    isCached: true
+
+secured: "HzsC6xVzSHGZmMu9SXTU6e1AOSN/LbBuCRash8unZ4zxtgyypIHjXBt/rjkqldEZPOGdcvpSuj8rzxotsJwiaJej/1dzTqIBTWA+9B7rEFOQsogRgfvgXTLDUnd79h4RnI9/9VRl0cIrzrWm1QTDgC6n3GqP0LoflEu/dpvikX3Je87Dvsv9MlJffWmbAi8E7RbT45I/ptEKlE4iJ5m1V2FCZReMVrmpd7jz1qr7LWiAR9/3bCMg3otcp+GthHxI++Azoo5XT7HO33ckLtI/JeWJdGCb4celQlQUzncmP7xzSQjFhe+EPUI8E7UQGNC8DFaWKwuzmwNnWCe0CBsmIEJBsbfIrKdHHPdwa+NJXl4=;Nh115UwnojmXiZqECG1Xjw=="
 ---
 

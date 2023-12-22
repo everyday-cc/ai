@@ -51,20 +51,15 @@ related:
         width: 1440
         height: 700
         isCached: true
-  - title: "5 Best Artificial Intelligence Software for Small Businesses in 2024"
-    excerpt: "Artificial intelligence is helping upscale small businesses. You might also like Activision Blizzard Settles Lawsuit for Over $50 Million, Paving the Way for Microsoft’s Takeover BlackRock Engages in Extensive Consultations with SEC Regarding Spot Bitcoin ETF Application Tether’s Strategic Move: Collaborating with FBI and Secret Service to Enhance Platform Security For a long time,"
-    publishedDateTime: 2023-12-18T06:24:00Z
-    webUrl: "https://techstory.in/5-best-artificial-intelligence-software-for-small-businesses-in-2024/"
+  - title: "Shrinking Revenue, Exacting Clients, and AI: This Will Be Asset Management in 2024"
+    excerpt: "The future is never certain but investment firms are bracing for these challenges next year, according to management consultants."
+    publishedDateTime: 2023-12-22T14:33:00Z
+    webUrl: "https://www.institutionalinvestor.com/article/2cm2hc524og7lf42z2ebk/corner-office/shrinking-revenue-exacting-clients-and-ai-this-will-be-asset-management-in-2024"
     type: article
     provider:
-      name: tech
-      domain: techstory.in
-    quality: 37
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2023/12/thisisengineering-raeng-64YrPKiguAE-unsplash-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
+      name: Institutional Investor
+      domain: institutionalinvestor.com
+    quality: 13
 
 secured: "T3oEiPbXydGMJpT/cKYQLmIdAYK8a+d4fhyQurvX8JFt/5RX9RifFiTqBn2wSqyD+0Os2DvVTp2JvOQrxVdJa+4DJGk7UYikatrHqTGLho8Lrx59plrZL2pvefYxBdHx5s2oX9WZTFZkh17KQM9OXjVoedfEVzB20suCfW1avhI/kz3rAFX9iV00RNwdW5Pw4uKeMQ1bJ8ejf+W/9jXvVnHAouhTZtqrglRrGpesMQ7mi/Eoj0Nd38XoeD65/lLCzss3ZwyPlfpMfzrZjjhmWmCyR+dLsKnuhPuRfQHRZ1XdGzZfyEDRgcVm7P5dhK5HxY9ekqeAU5ZZM0X7Hm8oUw3lK1UdVpitxbSKepzXjhncgzfMUkWxzkXwnnylyeCbqzUmBGF9aHP4+PLLiYMBKiRZ4tRLHxDS3f+pVJNdFQw6bMexof+QnoTKiNK1AZLOdqc6vg6AnuOnAdo9ATkbsZWUulgHMW2YpAkJn3068fQH42IlW0TTw/SZmdiIPMWIu4QaGvs1D1n2EZrgF92bew==;JzL/OnEO1f73Q9P7toYQ1w=="
 ---

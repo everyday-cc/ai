@@ -25,34 +25,82 @@ images:
     isCached: true
 
 related:
-  - title: "Intel infuses PCs with AI chips as enterprise refresh rush nears"
-    excerpt: "The chipmaker’s Core Ultra mobile processors will power more than 230 PC models from Dell, Lenovo, Microsoft and others."
-    publishedDateTime: 2023-12-18T22:21:00Z
-    webUrl: "https://www.ciodive.com/news/Intel-AI-PC-processor-Core-Ultra-GPU-chips/702873/"
+  - title: "How Intel Plans To Catch Up to NVIDIA in the AI Arms Race…"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence has taken the world by storm this year. In fact,"
+    publishedDateTime: 2023-12-22T21:29:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/how-intel-plans-to-catch-up-to-nvidia-in-the-ai-arms-race-1032923322"
     type: article
     provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 54
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
     images:
-      - url: "https://www.ciodive.com/imgproxy/SoGgnBmj16nT7kMjoUhOvp7J4bM6oU-ny6WwesMiP5g/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTk1MTU2MjI3OF96dzNTU0RNLmpwZw.jpg"
-        width: 770
-        height: 435
+      - url: "https://investorplace.com/wp-content/uploads/2023/12/intc-2023-12-21.png"
+        width: 904
+        height: 564
         isCached: true
-  - title: "Acer Debuts AI-Ready Swift Go 14 Laptop with New Intel Core Ultra Processors"
-    excerpt: "Acer announced new models of the AI-ready Acer Swift Go 14 (SFG14-72)powered byIntel® Core™ Ultraprocessors that feature Intel Arc graphics processing unit (GPU) and Intel AI Boost,"
-    publishedDateTime: 2023-12-18T17:08:00Z
-    webUrl: "https://pragativadi.com/acer-debuts-ai-ready-swift-go-14-laptop-with-new-intel-core-ultra-processors/"
+  - title: "Intel CEO says Nvidia was \"extremely lucky\" to become the dominant force in AI"
+    excerpt: "Gelsinger began by lamenting Intel's past mistakes, noting that Nvidia CEO Jensen Huang \"got extraordinarily lucky\" with his bet on AI and Intel could have been just as lucky had the company not given up on the Larrabee discrete GPU project. Gelsinger went ..."
+    publishedDateTime: 2023-12-22T10:27:00Z
+    webUrl: "https://www.techspot.com/news/101309-intel-ceo-nvidia-extremely-lucky-become-dominant-force.html"
     type: article
     provider:
-      name: Pragativadi
-      domain: pragativadi.com
-    quality: 36
+      name: TechSpot
+      domain: techspot.com
+    quality: 65
     images:
-      - url: "https://pragativadi.com/wp-content/uploads/2023/12/Untitled-design-22.png"
-        width: 640
-        height: 381
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/12/2023-12-22-image-11.jpg"
+        width: 2560
+        height: 1706
         isCached: true
+  - title: "MSI Prestige 16 AI Series laptops with up to Intel Core Ultra 9 processor, RTX 4070 Laptop GPU announced in India"
+    excerpt: "MSI has announced the new Prestige 16 AI series of laptops featuring the latest Intel Core Ultra 9 processor for India. The series will rely on Intel’s integrated NPU (Neural Processing Unit) technology,"
+    publishedDateTime: 2023-12-21T08:48:00Z
+    webUrl: "https://www.fonearena.com/blog/412811/msi-prestige-16-ai-series-features.html"
+    ampWebUrl: "https://www.fonearena.com/blog/412811/msi-prestige-16-ai-series-features.html/amp"
+    cdnAmpWebUrl: "https://www-fonearena-com.cdn.ampproject.org/c/s/www.fonearena.com/blog/412811/msi-prestige-16-ai-series-features.html/amp"
+    type: article
+    provider:
+      name: FoneArena
+      domain: fonearena.com
+    quality: 53
+    images:
+      - url: "https://www.fonearena.com/blog/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
+  - title: "Nvidia's AI Boom And The Ghost Of Cisco's Internet Bust"
+    excerpt: "Nvidia Corporation established dominance in AI advancements, where it already had a foothold in data center market. Find out why NVDA stock is a Sell."
+    publishedDateTime: 2023-12-18T13:45:00Z
+    webUrl: "https://seekingalpha.com/article/4658450-nvidia-nvda-ai-boom-and-ghost-of-cisco-internet-bust"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 37
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/949315604/image_949315604.jpg?io=getty-c-w1536"
+        width: 1536
+        height: 1024
+        isCached: true
+  - title: "Intel CEO: Nvidia Got 'Extraordinarily Lucky' in Dominating the AI Market"
+    excerpt: "Gelsinger's comments came in response to a professor who asked what Intel was doing along the lines of AI hardware. This query prompted Gelsinger to recap Intel's ill-fated history with GPUs and \"throughput computing\" (as opposed to scalar),"
+    publishedDateTime: 2023-12-20T20:23:00Z
+    webUrl: "https://www.extremetech.com/computing/intel-ceo-nvidia-got-extraordinarily-lucky-in-dominating-the-ai-market"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 18
+  - title: "Nvidia Engineer Responds to Intel CEO Saying It Got Lucky With AI Dominance"
+    excerpt: "The employee, who worked at both Intel and Nvidia, says vision and execution are the reasons for its supremacy, not luck."
+    publishedDateTime: 2023-12-22T20:30:00Z
+    webUrl: "https://www.extremetech.com/computing/nvidia-engineer-responds-to-intel-ceo-saying-it-got-lucky-with-ai-dominance"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 17
 
 secured: "jvd22TX2SOcH4QWuReJIOlPS64KEAPtIFEd0eHidhxzJXH5dUUMVcK8em4CLc8zZG4CpuMjYJDyXClyes2BhF1OfFtJ+Pqlz5o/dQ8PbfhycK6G099RVxavRrf5NkjWD1uSKQ3wK8li5HSf1lDu4E2GGxIg7N1gXTEuWKnDi/NYO0GKOY7hX/800eSxqop7Rg5BIT1fae0HmfrwQBj0I7bD4XLsFS10YW+8fnvavNPkJn+SeOn3++mPMgaCQn++QxfwgXcAUboxB5OkjZrq6nx3aO0MsWMwrNP6P+gRdov173BSXmhG/qKbNn312CCluxSO9I25j1M8yYqMVwmATa+Hmr6iCIDilqsA3ioA/sAI=;cYKKjmNnDOleBG7ZRD/iAg=="
 ---

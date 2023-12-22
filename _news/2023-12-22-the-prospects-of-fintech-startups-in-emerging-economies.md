@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/12/22/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/12/22/the-prospects-of-fintech-startups-in-emerging-economies/amp/"
 type: article
 quality: 74
-heat: 264
+heat: 266
 published: true
 
 provider:
@@ -76,22 +76,6 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-163506,msid-106171422/istock-866905356.jpg"
         width: 600
         height: 450
-        isCached: true
-  - title: "Fintech Platform FactSet Announces Initial Release of AI Advancement Solution to Enhance Decision-Making"
-    excerpt: "FactSet, a global financial digital platform and enterprise solutions provider, announced the beta release of its latest AI advancement."
-    publishedDateTime: 2023-12-17T20:37:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/12/218357-fintech-platform-factset-announces-initial-release-of-ai-advancement-solution-to-enhance-decision-making/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/12/218357-fintech-platform-factset-announces-initial-release-of-ai-advancement-solution-to-enhance-decision-making/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/12/218357-fintech-platform-factset-announces-initial-release-of-ai-advancement-solution-to-enhance-decision-making/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 42
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/08/Judge-Crossword-Confusion-Puzzle-Decide.jpg"
-        width: 1280
-        height: 1108
         isCached: true
   - title: "Dubai FinTech Summit 2024: Catalysing the MEASA Financial Ecosystem"
     excerpt: "The Dubai FinTech Summit is a strategic platform aligned with Dubai's vision to become one of the top four global financial hubs by 2033."
@@ -277,6 +261,15 @@ related:
     provider:
       name: Finextra
       domain: finextra.com
+    quality: 4
+  - title: "Top six predictions for fintech in 2024"
+    excerpt: "Financial technology, or fintech, is undergoing rapid and transformative changes. As we look ahead to 2024, several key trends are poised."
+    publishedDateTime: 2023-12-22T02:30:00Z
+    webUrl: "https://www.traveldailymedia.com/top-six-predictions-for-fintech-in-2024/"
+    type: article
+    provider:
+      name: Travel Daily Media
+      domain: traveldailymedia.com
     quality: 4
 
 secured: "hQNqnlOWT69ayNW0+bkCBVhQ8QmnunPOWjjICeygCAIbdHYWqfvVhjdnRGJ1qfDZCoJ8seMzbBPU0TOyx6Dd/UB7Eg9Bo08oA3Nm76eHnkwVV6Onc0vth+HKP8CqLHYeYQzAF1W8mDX9/ScMQoU9uXDdHjFCYuFVdzVd/H5CabE0QbsQRXXt3RkZTeFgODMwgOI2UHkQSUjYpmL5D8mW+JoSY8dWRovhKFz0cx9bO4+oRwJq2UKwEr6pZN/US/5SKN4+ufJbVhiHHCASOz2OFSV6BILHu+p7E+iI2dN6pdmujeWJ7ck3vQc3j804hTdjXvamEESNb5OOtjfMxzI5UdDBXWHgo0rRnkzR95ZZGuQeehmjGWAHe2i91+Q+BxZRg/lzmXLwy1P80qa20XklImPGIAuA2adLstoNjIkBkJLJx5E3Ae+lDc6i7CbbQlCmDG/WyGHG/x4kivevtM6j6LbfUpQwQH7H9oEZp8jRr5u3yU5HarIH4WIc2EBcGXgoMMkfScLr6/7QwHR7vjTMBQ==;w9r4S06LzEvcUdOXpgOt0w=="

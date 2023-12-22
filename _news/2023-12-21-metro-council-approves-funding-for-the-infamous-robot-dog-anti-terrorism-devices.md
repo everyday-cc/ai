@@ -7,7 +7,7 @@ originalUrl: "https://www.wkrn.com/news/local-news/nashville/metro-council-appro
 webUrl: "https://www.wkrn.com/news/local-news/nashville/metro-council-approves-funding-for-the-infamous-robot-dog-anti-terrorism-devices/"
 type: article
 quality: 13
-heat: -1
+heat: 13
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - AI in Robotics
   - AI
-
-related:
-  - title: "Meet the founder: Verdant Robotics’ Gabe Sibley on NASA rovers, self-driving cars, and ag robots: ‘They have to be insanely robust’"
-    excerpt: "When it comes to farming, says Gabe Sibley, the biggest pain points are labor & input costs. \"At Verdant Robotics, we squarely address both\""
-    publishedDateTime: 2023-12-22T12:01:00Z
-    webUrl: "https://agfundernews.com/meet-the-founder-verdant-robotics-gabe-sibley-on-nasa-rovers-self-driving-cars-and-ag-robots-they-have-to-be-insanely-robust"
-    type: article
-    provider:
-      name: Ag Funder News
-      domain: agfundernews.com
-    quality: 26
-    images:
-      - url: "https://agfundernews.com/wp-content/uploads/2023/12/Gabe-Sibley-cofounder-and-CEO-Verdant-Robotics-Image-credit-Verdant-Robotics.jpg"
-        width: 999
-        height: 724
-        isCached: true
 
 secured: "W9ae8IFUfKQ8CoGTTTYT9aaCUpJEuy3AN7O8zN9NnyrImcaM8T6riC1JZ0nXIkxTYR1HbKavuog8ZIpx2SpsBWueE7FOruCPaBfkbZ9QBRFsWpOqwmSBoVFN2dro5vtJg6c+MysqCBDucHajy+s5bOXjhCcDOH1+smdAFP7VIKRbbvmp8ZadWI65yyVzqONAR+JB03XjV/HDJw65pP7RUMo5fVT+BtTXAQIVmrJpTki9zb8QgQvLskep9mwhYMYY2ib9Dgi6EaNLZ4Na5l33HiqFaOzyJzeUpaWDQQv09aNB5gzt69ncmIKAmkH1NebaGQIR0NKVRMsDmeVn97OsHnDfjH8PBm4alSUczb3+Dwjywxfok9LtC3OLT028zAx+cyFRvqj2RX4Cu1gWYpCg4t5MKv5mp2zu8BnPwRfMEAvaBkw5Y3CqrzX7GMfrZRCwThD2ZqVptFERRPWJ3EUf8wVDPMDGyMbyQfbLbKSxaPrvYs2WzFj0eQ7knUbKumqBoavPn5hxPAFfBeyhRhuRVw==;p48s7VmDcBfpsX8baQPOqQ=="
 ---

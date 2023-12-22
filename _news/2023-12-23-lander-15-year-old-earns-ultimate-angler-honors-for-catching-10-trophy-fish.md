@@ -6,6 +6,9 @@ publishedDateTime: 2023-12-22T19:30:00Z
 originalUrl: "https://billingsgazette.com/outdoors/lander-15-year-old-earns-ultimate-angler-honors-for-catching-10-trophy-fish-wyoming-game-and-fish-department/article_9e4cb150-a0f5-11ee-80de-9be93f2dabda.html"
 webUrl: "https://billingsgazette.com/outdoors/lander-15-year-old-earns-ultimate-angler-honors-for-catching-10-trophy-fish-wyoming-game-and-fish-department/article_9e4cb150-a0f5-11ee-80de-9be93f2dabda.html"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: Billings Gazette

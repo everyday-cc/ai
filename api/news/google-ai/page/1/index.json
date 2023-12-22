@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-12-21-i-asked-bard-and-chatgpt-to-plan-me-a-trip-and-one-result-really-impressed-me.md",
-      "title": "I asked Bard and ChatGPT to plan me a trip and one result really impressed me",
-      "excerpt": "I recently asked Bard and ChatGPT to plan me a fake trip. While both were able to do the job well enough, one result stood above the other.",
+      "path": "_news/2023-12-22-2023-a-year-of-groundbreaking-advances-in-ai-and-computing.md",
+      "title": "2023: A Year of Groundbreaking Advances in AI and Computing",
+      "excerpt": "This has been a year of incredible progress in the field of Artificial Intelligence (AI) research and its practical applications.",
       "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/bard-vs-chatgpt-trip-3395897/",
-      "originalUrl": "https://www.androidauthority.com/bard-vs-chatgpt-trip-3395897/",
+      "webUrl": "https://deepmind.google/discover/blog/2023-a-year-of-groundbreaking-advances-in-ai-and-computing/",
+      "originalUrl": "https://deepmind.google/discover/blog/2023-a-year-of-groundbreaking-advances-in-ai-and-computing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 159,
       "tags": null,
       "images": [
         {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Google-Bard-website-on-phone-1.jpg",
-          "width": 1920,
-          "height": 1080,
+          "url": "https://lh3.googleusercontent.com/fkZqqqpfLKvV2E6ebVmYJjR9q9XnczvWtiui5uU-yPkHCQb5mLAB4kBmh3opGqOJLhtaC58td96UtvULI8uGpbB9TmejR82GZ2vWOqTyWZ6HSItIpHg=w1200-h630-n-nu",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,14 +26,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-20T18:24:00Z",
+      "publishedDateTime": "2023-12-22T13:30:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
+        "name": "DeepMind",
+        "domain": "deepmind.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,9 +49,51 @@
         "news"
       ],
       "topics": [
-        "Google AI",
         "AI",
-        "Microsoft AI"
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-21-deepminds-highly-capable-multimodal-model-gemin-reaches-human-expert-level.md",
+      "title": "DeepMind’s Highly Capable Multimodal Model Gemin Reaches Human-Expert Level",
+      "excerpt": "The Multimodal Large Language Model (MLLM) has recently emerged as a prominent research focus, harnessing the capabilities of powerful Large Language Models (LLMs) to undertake diverse multimodal tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://syncedreview.com/2023/12/20/deepminds-highly-capable-multimodal-model-gemin-reaches-human-expert-level/",
+      "originalUrl": "https://syncedreview.com/2023/12/20/deepminds-highly-capable-multimodal-model-gemin-reaches-human-expert-level/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1",
+          "width": 790,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://syncedreview.com/2023/12/20/deepminds-highly-capable-multimodal-model-gemin-reaches-human-expert-level/amp/",
+      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2023/12/20/deepminds-highly-capable-multimodal-model-gemin-reaches-human-expert-level/amp/",
+      "publishedDateTime": "2023-12-21T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "syncedreview",
+        "domain": "syncedreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
       ]
     },
     {
@@ -156,6 +198,92 @@
       "topics": [
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-18-how-to-improve-your-privacy-on-google-bard-with-this-one-simple-setting.md",
+      "title": "How to improve your privacy on Google Bard with this one simple setting",
+      "excerpt": "Also: Why my two-person company bought a Google Workspace Enterprise plan And then there's Bard. We've been exploring how well the AI works, and, well, it has its issues. That said, it has a lot ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/how-to-improve-your-privacy-on-google-bard-with-this-one-simple-setting/",
+      "originalUrl": "https://www.zdnet.com/article/how-to-improve-your-privacy-on-google-bard-with-this-one-simple-setting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/c03f10b9b5dc49bd74fbe664c6c6046859ac3b05/2023/05/22/9f7b3ae7-2a94-42d9-901b-9f59be5cd873/bard-on-google.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-to-improve-your-privacy-on-google-bard-with-this-one-simple-setting/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-improve-your-privacy-on-google-bard-with-this-one-simple-setting/",
+      "publishedDateTime": "2023-12-18T15:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-17-google-bard-advertising-gets-underway-with-harry-kane-subway-ads-video.md",
+      "title": "Google Bard advertising gets underway with Harry Kane, subway ads [Video]",
+      "excerpt": "With the addition of Gemini Pro, Google has been advertising Bard a great deal more. The latest involves Harry Kane",
+      "sourceUrl": null,
+      "webUrl": "https://9to5google.com/2023/12/17/google-bard-advertising/",
+      "originalUrl": "https://9to5google.com/2023/12/17/google-bard-advertising/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-17T13:06:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "9to5google",
+        "domain": "9to5google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
       ]
     },
     {
@@ -1299,156 +1427,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-google-bards-biggest-ai-upgrade-so-far-sees-it-close-the-gap-on-chatgpt.md",
-      "title": "Google Bard's biggest AI upgrade so far sees it close the gap on ChatGPT",
-      "excerpt": "Google Bard is receiving a huge boost in performance as it will now be powered by the company’s “most capable AI model”, Gemini. Gemini comes in three different “sizes”; however ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/computing/artificial-intelligence/google-bards-biggest-ai-upgrade-so-far-sees-it-close-the-gap-on-chatgpt",
-      "originalUrl": "https://www.techradar.com/computing/artificial-intelligence/google-bards-biggest-ai-upgrade-so-far-sees-it-close-the-gap-on-chatgpt",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/8bpnx7UFeMUWJq9FoUXCa7-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-06T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-google-gemini-upgrade-means-bard-ai-outperforms-free-version-of-chatgpt.md",
-      "title": "Google: Gemini Upgrade Means Bard AI Outperforms Free Version of ChatGPT",
-      "excerpt": "Google is going after OpenAI's chatbot with a new 'Gemini Pro' model. A more powerful 'Gemini Ultra' model will arrive early next year through a new 'Bard Advanced' tier. I've been with PCMag ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/google-gemini-upgrade-means-bard-ai-outperforms-free-version-of-chatgpt",
-      "originalUrl": "https://www.pcmag.com/news/google-gemini-upgrade-means-bard-ai-outperforms-free-version-of-chatgpt",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/06fo5DvLm9s0QYEo0248s9c-1.fit_lim.size_1200x630.v1701876868.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-06T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-04-google-bard-director-talks-usage-ethics-and-competitive-advantage.md",
-      "title": "Google Bard Director Talks Usage, Ethics, And Competitive Advantage",
-      "excerpt": "In an exclusive interview, the Director of Product Management for Google Bard discusses usage, ethical challenges, and synergy with Search. Google created Bard primarily to assist with creative ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.searchenginejournal.com/google-bard-director-talks-usage-ethics-and-competitive-advantage/502965/",
-      "originalUrl": "https://www.searchenginejournal.com/google-bard-director-talks-usage-ethics-and-competitive-advantage/502965/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.searchenginejournal.com/wp-content/uploads/2023/12/google-bard-director-interview-656e427053e80-sej.jpg",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Searchenginejournal.com",
-        "domain": "searchenginejournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

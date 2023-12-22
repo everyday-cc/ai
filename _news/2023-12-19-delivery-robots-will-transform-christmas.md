@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/finance/delivery-robots-transform-christmas-16
 webUrl: "https://www.aol.com/finance/delivery-robots-transform-christmas-163718462.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,34 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Music Ally’s 12 Days of Christmas 2023: Artificial Intelligence"
-    excerpt: "On the ninth day of Christmas, my true love sent to me: nine ladies dancing! But were they real, human ladies, or AI-generated avatar-ladies?"
-    publishedDateTime: 2023-12-20T11:41:00Z
-    webUrl: "https://musically.com/2023/12/19/music-allys-12-days-of-christmas-2023-artificial-intelligence/"
+  - title: "Son uses AI to recreate late father's voice for special Christmas present"
+    excerpt: "Phillip Willett shared a TikTok video about surprising his mom with a Christmas present that features an AI-generated recreation of his late father’s voice."
+    publishedDateTime: 2023-12-22T20:56:00Z
+    webUrl: "https://abcnews.go.com/GMA/Family/son-ai-recreate-late-fathers-voice-special-christmas/story?id=105873954"
+    ampWebUrl: "https://abcnews.go.com/amp/GMA/Family/son-ai-recreate-late-fathers-voice-special-christmas/story?id=105873954"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/GMA/Family/son-ai-recreate-late-fathers-voice-special-christmas/story?id=105873954"
     type: article
     provider:
-      name: Music Ally
-      domain: musically.com
-    quality: 39
+      name: ABC
+      domain: abcnews.go.com
+    quality: 56
     images:
-      - url: "https://musically.com/wp-content/uploads/2023/04/AI-music·E-2023-04-28-10.24.00-a-photograph-of-an-algorithm-creating-and-performing-music-for-an-audience-of-robots.jpg"
-        width: 1024
-        height: 1024
+      - url: "https://s.abcnews.com/images/GMA/willett-ai-video-ht-bb-231222_1703270395394_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Green greetings and merry machine learning: The best agency Christmas cards of 2023"
-    excerpt: "Agencies’ festive greetings this year focus on themes such as ASMR, supporting local causes and flexing sustainability credentials. And we’re sorry, but there’s still no escape from"
-    publishedDateTime: 2023-12-18T11:06:00Z
-    webUrl: "https://www.thedrum.com/news/2023/12/18/green-greetings-and-merry-machine-learning-the-best-agency-christmas-cards-2023"
+  - title: "‘Twas the Night Before Christmas, and ChatGPT Was Rhyming"
+    excerpt: "Hello and welcome to the weekly Odd Lots newsletter, where Joe Weisenthal and Tracy Alloway bring you their thoughts on the most interesting developments in markets, finance and economy."
+    publishedDateTime: 2023-12-22T17:39:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2023-12-22/-twas-the-night-before-christmas-and-chatgpt-was-rhyming"
     type: article
     provider:
-      name: The Drum
-      domain: thedrum.com
-    quality: 33
-    images:
-      - url: "https://thedrum-media.imgix.net/thedrum-prod/s3/isobel_united_2023_lowres.jpg?w=1280&ar=default&fit=crop&crop=faces,edges&auto=format"
-        width: 1280
-        height: 798
-        isCached: true
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 49
 
 secured: "yy9x89Y/Z/o47saUzOKw2XYjkQe3zEjx2cf7DT5/GM0RXG7ctWEtKDs0kc+h30+RpweM1JgULOBQ6tYlL649Csrxg5VYBbBH7KFNJ9f17WdzifgP/prY48ALruZmM0HU7emppZRmOPvvSI7Iv67VSdSveeWafD6IQUoRH5XRo18Y6aZJr18527xAVLglPiy/UfUl29Jq2MeCXPYbBpektVPRjw+GanibOi9EOGhVFOg8Sq0C5eKXLLJ6AwvyBSdnxOvSCwfSBTdjYt8NAG/9vah+YeGFoeIsnxhR38tUheC/UpxBVHN6yzCvUIe74sN7MSqC5jKy9b3MeA5rAqacsylBKcMmqJqPrn12LUvunKs=;sTmuzd1y7IXgDxCp5mT1Xw=="
 ---

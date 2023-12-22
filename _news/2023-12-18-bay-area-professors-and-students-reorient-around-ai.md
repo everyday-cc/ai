@@ -25,43 +25,91 @@ images:
     isCached: true
 
 related:
-  - title: "Where Meta is going next with AI and AR"
-    excerpt: "Generative AI has changed a lot of product roadmaps this year. At Meta, it has big implications for AR glasses, according to CTO Andrew Bosworth. I recently caught up with Bosworth, who goes by Boz, to chat about all things AI and AR."
-    publishedDateTime: 2023-12-21T23:09:00Z
-    webUrl: "https://www.theverge.com/2023/12/21/24011574/meta-cto-andrew-bosworth-interview-ai-ar-glasses"
+  - title: "AI is helping the healthcare industry and could transform the way patients get drugs and treatments"
+    excerpt: "But advancements in artificial-intelligence technology are starting to show promise in medicine, potentially transforming how doctors, nurses, and other healthcare professionals conduct their day-to-day jobs and ultimately saving lives. In the ..."
+    publishedDateTime: 2023-12-22T20:27:00Z
+    webUrl: "https://www.businessinsider.com/ai-healthcare-doctors-drugs-treatments-patients-2023-12"
+    ampWebUrl: "https://www.businessinsider.com/ai-healthcare-doctors-drugs-treatments-patients-2023-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-healthcare-doctors-drugs-treatments-patients-2023-12?amp"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 67
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 92
     images:
-      - url: "https://cdn.vox-cdn.com/thumbor/-52FlQjDAxR5JKt5OPW0kTtXNFo=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24719857/Meta.png"
+      - url: "https://i.insider.com/65849e48a79e5746976c78dc?width=1200&format=jpeg"
         width: 1200
-        height: 628
+        height: 600
         isCached: true
-  - title: "Where Agriculture Meets Artificial Intelligence"
-    excerpt: "At the same time, we associate AI with high-tech inventions like generative chat bots, facial recognition and self-driving cars. But when you put agriculture and AI together, something amazing happens. Unless you’re an industry insider, you may not ..."
-    publishedDateTime: 2023-12-18T16:04:00Z
-    webUrl: "https://www.forbes.com/sites/delltechnologies/2023/12/18/where-agriculture-meets-artificial-intelligence/"
+  - title: "Will AI substitute doctors in healthcare industry?"
+    excerpt: "The value of healthcare workers' intuition in effective clinical care has been verified by reports around the world again and again. From doctors' ability to spot sepsis in critically ill children, to 'nurse worry' as a 'vital sign' predictive of patient deterioration,"
+    publishedDateTime: 2023-12-18T12:48:00Z
+    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/will-ai-substitute-doctors-in-healthcare-industry/106097951"
+    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/will-ai-substitute-doctors-in-healthcare-industry/106097951"
+    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/will-ai-substitute-doctors-in-healthcare-industry/106097951"
+    type: article
+    provider:
+      name: health.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 76
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-106097951,imgsize-14168,width-1200,height=765,overlay-ethealth/health-it/will-ai-substitute-doctors-in-healthcare-industry.jpg"
+        width: 1200
+        height: 765
+        isCached: true
+  - title: "Unleashing AI’s Power: Chatbots Transforming Healthcare Experiences"
+    excerpt: "Artificial Intelligence (AI)-powered chatbots are becoming significant tools in the transformation of healthcare in the 21st century, facilitating the convergence of technology and delivery of medical services."
+    publishedDateTime: 2023-12-20T10:16:00Z
+    webUrl: "https://disrupt-africa.com/2023/12/20/unleashing-ais-power-chatbots-transforming-healthcare-experiences/"
+    ampWebUrl: "https://disrupt-africa.com/2023/12/20/unleashing-ais-power-chatbots-transforming-healthcare-experiences/"
+    cdnAmpWebUrl: "https://disrupt--africa-com.cdn.ampproject.org/c/s/disrupt-africa.com/2023/12/20/unleashing-ais-power-chatbots-transforming-healthcare-experiences/"
+    type: article
+    provider:
+      name: disrupt-africa
+      domain: disrupt-africa.com
+    quality: 74
+    images:
+      - url: "https://disrupt-africa.com/wp-content/uploads/2023/07/DA-logo-on-transparent-with-tag-small-e1414593297539-1.png"
+        width: 300
+        height: 201
+        isCached: true
+  - title: "How AI Is Influencing The Mortgage Industry"
+    excerpt: "In the not-so-distant future, you might join a video call and meet with a virtual representative to discuss your mortgage options. Afterward, an AI-written document will deliver personalized recommendations based on the conversation."
+    publishedDateTime: 2023-12-18T08:59:00Z
+    webUrl: "https://www.forbes.com/advisor/mortgages/how-ai-affects-mortgage-industry/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 49
-  - title: "Qatar is leading the world in AI; here’s how"
-    excerpt: "An advanced society capable of sustaining its development and providing a high standard of living for its people.” - That is the essence of Vision"
-    publishedDateTime: 2023-12-19T06:22:00Z
-    webUrl: "https://thepeninsulaqatar.com/opinion/19/12/2023/qatar-is-leading-the-world-in-ai-heres-how"
+    quality: 69
+    images:
+      - url: "https://www.forbes.com/advisor/wp-content/uploads/2023/12/How-AI-Is-Influencing-The-Mortgage-Industry-Ft-Image.jpg"
+        width: 766
+        height: 431
+        isCached: true
+  - title: "How artificial intelligence is transforming higher education"
+    excerpt: "WINSTON-SALEM, N.C. — Improving the educational experience of students is a top priority for Dr. Betsy Barre. As the Executive Director of the Center for Advancement of Teaching at Wake Forest University, she works to find innovative teaching practices for faculty. Her latest project is how to address the use of artificial intelligence."
+    publishedDateTime: 2023-12-18T14:38:00Z
+    webUrl: "https://www.wfmynews2.com/article/news/education/how-ai-is-transforming-higher-education-artificial-intelligence/83-65fbb04e-bf3a-4b0e-8dc8-11cd32addad2"
     type: article
     provider:
-      name: The Peninsula
-      domain: thepeninsulaqatar.com
-    quality: 39
+      name: WFMY News2
+      domain: wfmynews2.com
+    quality: 54
     images:
-      - url: "https://thepeninsulaqatar.com/get/maximage/20211218_1639822154-180.jpg?1639822154"
-        width: 500
-        height: 500
+      - url: "https://media.wfmynews2.com/assets/WFMY/images/d6c9631c-6688-4aa7-9ab7-b5a7149521d4/d6c9631c-6688-4aa7-9ab7-b5a7149521d4_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
+  - title: "Modern Healthcare is evolving along with the industry"
+    excerpt: "It’s an exciting time to be journalists covering the industry. And for that reason, Modern Healthcare is evolving in 2024 too."
+    publishedDateTime: 2023-12-18T08:59:00Z
+    webUrl: "https://www.modernhealthcare.com/opinion/modern-healthcare-evolving-along-industry"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 19
 
 secured: "213MvIpKlbs7rmcJMY9cfyA+O1BEgWsTgus5gg/61qFvmIZ9jP3aJ566Bbk3/+oJMUJOS9huXGyxc2/XCQixsnPuHGmSRZ7fSwGJWAj2LQr4DMxdchVjEBweS7AEpbkT0Zj/3xDq+0SZWnjEv9QQX67cOT5E+DXXDvSjqCWiVXs0k921bydmZ4E2LtecveX6FFUuwDbxXhOE50xmer5Zzx59vuFcWFHxipN9aFnBAfsmPGayLOudnWcRzbIhFhEpZ8gEVsxWFT3FrIcFydQUjmQXEA1wBNb/ksRH+5O4L7Kb/19i5UOzuG1GOi1e1q4cn5+MfgwiuQsMrMvY9i8CMBeaJBmdX5fUtdhsgq0X/v6d3of9bhznSJY/z9XQO/7s0NiPQkK3OI69sI9/r/hhlsfowNF9wZZzczJ6oARTXbwiA9HsJ9M4dfYyc4Oyi1OSnZKGrIR1P9qkdOPShDQrLRXFUz3Wqw17JTsUKBoscle5jc438HuFDZu+XZfToQIvk/7Fo8WQVVf065RtdEZtKw==;oy+Vv0nMErlXIV46ilOJKg=="
 ---

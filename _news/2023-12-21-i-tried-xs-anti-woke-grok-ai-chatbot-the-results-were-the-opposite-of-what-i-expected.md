@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/i-tried-xs-anti-woke-grok-a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-tried-xs-anti-woke-grok-ai-chatbot-the-results-were-the-opposite-of-what-i-expected/"
 type: article
 quality: 78
-heat: 128
+heat: 118
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Further your AI ChatGPT and Python knowledge and build your own chatbot with this mega bundle, now $29.97"
-    excerpt: "Take on the rising world of AI with The 2023 Ultimate AI ChatGPT & Python Programming Bundle, now on sale for only $29.97 through Christmas."
-    publishedDateTime: 2023-12-18T16:46:00Z
-    webUrl: "https://www.popsci.com/sponsored-content/ai-chatgpt-python-bundle-deal/"
-    ampWebUrl: "https://www.popsci.com/sponsored-content/ai-chatgpt-python-bundle-deal/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/sponsored-content/ai-chatgpt-python-bundle-deal/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 57
-    images:
-      - url: "https://www.popsci.com/uploads/2023/12/18/image.png?auto=webp"
-        width: 1067
-        height: 800
-        isCached: true
   - title: "Google rolls out upgrade to AI chatbot Bard across UK"
     excerpt: "Google boss Sundar Pichai has hailed Gemini as its ‘most capable’ model yet and the biggest upgrade to Bard since it launched earlier this year."
     publishedDateTime: 2023-12-21T14:23:00Z

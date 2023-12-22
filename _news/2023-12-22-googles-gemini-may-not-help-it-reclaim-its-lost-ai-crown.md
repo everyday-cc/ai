@@ -6,6 +6,9 @@ publishedDateTime: 2023-12-22T14:00:00Z
 originalUrl: "https://www.livemint.com/opinion/online-views/googles-gemini-may-not-help-it-reclaim-its-lost-ai-crown-11703170740743.html"
 webUrl: "https://www.livemint.com/opinion/online-views/googles-gemini-may-not-help-it-reclaim-its-lost-ai-crown-11703170740743.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Mint

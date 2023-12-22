@@ -7,7 +7,7 @@ originalUrl: "https://www.bradfordera.com/news/coscientist-uses-artificial-intel
 webUrl: "https://www.bradfordera.com/news/coscientist-uses-artificial-intelligence-to-enhance-chemistry-research/article_50242b5a-a043-11ee-93c6-db0f404f2651.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Meet 'Coscientist,' your AI lab partner"
+    excerpt: "An artificial intelligence-driven system has autonomously learned about certain Nobel Prize-winning chemical reactions and designed a successful laboratory procedure to make them. The AI did so in just a few minutes and correctly on its first attempt."
+    publishedDateTime: 2023-12-22T13:08:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/12/231221012729.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "Meet 'Coscientist,' your AI lab partner: System succeeds in planning and carrying out real-world chemistry experiments"
     excerpt: "In less time than it will take you to read this article, an artificial intelligence-driven system was able to autonomously learn about certain Nobel Prize-winning chemical reactions and design a successful laboratory procedure to make them."
     publishedDateTime: 2023-12-20T16:00:00Z

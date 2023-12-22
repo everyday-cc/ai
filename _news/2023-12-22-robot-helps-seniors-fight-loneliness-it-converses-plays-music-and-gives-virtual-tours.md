@@ -41,6 +41,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Chatty robot ElliQ helps seniors fight loneliness through AI companionship"
+    excerpt: "Intuition Robotics, and senior assistance officials say is the only device using artificial intelligence specifically designed to alleviate the loneliness and isolation experienced by many older Americans. “It’s entertaining. You can actually talk to ..."
+    publishedDateTime: 2023-12-22T00:00:00Z
+    webUrl: "https://www.washingtontimes.com/news/2023/dec/22/chatty-robot-elliq-helps-seniors-fight-loneliness-/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 52
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2023/12/22/Artificial_Intelligence_Seniors_64232_c0-360-8640-5400_s1200x700.jpg?e5529ed7d93258f12cf7b2259d397368871d9cb1"
+        width: 1200
+        height: 700
+        isCached: true
 
 secured: "JZ021bMLTXYecEA3+P73A5Hi0QjeeTHhLxMbUuw7NdQ+BWyvqDUKy0/3QO65DCuYtqKU+kZTBaG5P/ywmLOF/y8KaeAwo7wTbc69XZf2hbXEQT/Dm0/IIh7243ZWy2sCcHN970EQ0jz2i2Bslwks+2JGHl39KmNXnTh057wZELuR8gHoIfLQPPJFejg9oCD86NAmR9sBdcGgc8XkTMWiPdyf/xXaw58uU4PSQO+yL6bD3qtm8rD6x11475MpcVv+lEJGb8UYGkU495NLMxDII3bP/b34kN7I8oC8yxsnhYkbdE9Rm6pSojwORpnvL8TAAvmDuDNphIF8iPch7yhwqwWFBFoM4i51QH8oVygYLEyTfKkvpSyjxJIvu9kNutmGTBREmgZbXj/QOkLqp5UFBOXAha/6lZ8F938l1V7JkGTISRLaBOU0vcan1Udr2NNYZKR/h8Tl7I43BziaI8SeScbj4SdqoQErvmZsweYBcU89i6axr67dAshUStLS+7yaZKenYc5itfcKmH4SyJSObw==;67mexme1mupAsbiCYTAbrQ=="
 ---

@@ -58,20 +58,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Revolutionizing Industries: How AI Apps are Transforming Healthcare, Finance, and More"
-    excerpt: "Welcome to the era of AI revolution! We stand witness to incredible technological innovations that are reshaping industries like never before. Among these groundbreaking advancements, artificial intelligence applications have emerged as the game-changers across numerous sectors."
-    publishedDateTime: 2023-12-17T16:56:00Z
-    webUrl: "https://techbullion.com/revolutionizing-industries-how-ai-apps-are-transforming-healthcare-finance-and-more/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 67
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/AI-App.jpg"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "AI generates proteins with exceptional binding strengths"
     excerpt: "A new study in Nature reports an AI-driven advance in biotechnology with implications for drug development, disease detection, and environmental monitoring. Scientists at the Institute for Protein Design at the University of Washington School of Medicine used software to create protein molecules that bind with exceptionally high affinity and specificity to a variety of challenging biomarkers,"
     publishedDateTime: 2023-12-18T16:54:00Z
@@ -101,20 +87,6 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2023/12/Plumbing-and-Artificial-Intelligence-How-AI-is-Revolutionizing-Leak-Detection.jpg"
         width: 600
         height: 450
-        isCached: true
-  - title: "3 essential considerations for generative AI on campus"
-    excerpt: "Generative AI on campus was everywhere at EDUCAUSE--and with it, concerns about its place in classrooms and university processes."
-    publishedDateTime: 2023-12-18T10:00:00Z
-    webUrl: "https://www.ecampusnews.com/teaching-learning/2023/12/18/3-essential-considerations-for-generative-ai-on-campus/"
-    type: article
-    provider:
-      name: ecampusnews.com
-      domain: ecampusnews.com
-    quality: 39
-    images:
-      - url: "https://www.ecampusnews.com/files/2023/12/generative-AI-educause.jpeg"
-        width: 500
-        height: 500
         isCached: true
   - title: "Amdocs Revolutionising Telecom with Generative AI"
     excerpt: "Amdocs' partnerships with NVIDIA, and Microsoft Azure entails customisation of enterprise-grade AI framework for telcos."

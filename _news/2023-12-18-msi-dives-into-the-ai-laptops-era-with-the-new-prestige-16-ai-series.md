@@ -41,22 +41,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "MSI Prestige 16 AI Series laptops with up to Intel Core Ultra 9 processor, RTX 4070 Laptop GPU announced in India"
-    excerpt: "MSI has announced the new Prestige 16 AI series of laptops featuring the latest Intel Core Ultra 9 processor for India. The series will rely on Intel’s integrated NPU (Neural Processing Unit) technology,"
-    publishedDateTime: 2023-12-21T08:48:00Z
-    webUrl: "https://www.fonearena.com/blog/412811/msi-prestige-16-ai-series-features.html"
-    ampWebUrl: "https://www.fonearena.com/blog/412811/msi-prestige-16-ai-series-features.html/amp"
-    cdnAmpWebUrl: "https://www-fonearena-com.cdn.ampproject.org/c/s/www.fonearena.com/blog/412811/msi-prestige-16-ai-series-features.html/amp"
-    type: article
-    provider:
-      name: FoneArena
-      domain: fonearena.com
-    quality: 53
-    images:
-      - url: "https://www.fonearena.com/blog/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
-        isCached: true
   - title: "MSI’s 2024 Prestige Notebooks Now Has AI Smarts"
     excerpt: "MSI updates its 13-inch and 16-inch Prestige laptops for 2024 with AI smart and Intel's Core Ultra processors."
     publishedDateTime: 2023-12-21T00:41:00Z

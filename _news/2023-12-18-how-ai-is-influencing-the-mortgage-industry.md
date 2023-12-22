@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI is helping the healthcare industry and could transform the way patients get drugs and treatments"
+    excerpt: "But advancements in artificial-intelligence technology are starting to show promise in medicine, potentially transforming how doctors, nurses, and other healthcare professionals conduct their day-to-day jobs and ultimately saving lives. In the ..."
+    publishedDateTime: 2023-12-22T20:27:00Z
+    webUrl: "https://www.businessinsider.com/ai-healthcare-doctors-drugs-treatments-patients-2023-12"
+    ampWebUrl: "https://www.businessinsider.com/ai-healthcare-doctors-drugs-treatments-patients-2023-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-healthcare-doctors-drugs-treatments-patients-2023-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 92
+    images:
+      - url: "https://i.insider.com/65849e48a79e5746976c78dc?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Will AI substitute doctors in healthcare industry?"
     excerpt: "The value of healthcare workers' intuition in effective clinical care has been verified by reports around the world again and again. From doctors' ability to spot sepsis in critically ill children, to 'nurse worry' as a 'vital sign' predictive of patient deterioration,"
     publishedDateTime: 2023-12-18T12:48:00Z
@@ -45,47 +61,49 @@ related:
         width: 1200
         height: 765
         isCached: true
-  - title: "AI or not to AI: How artificial intelligence is changing the industry"
-    excerpt: "One of the most profound statements that I’ve ever heard on artificial intelligence was presented in the form of a joke. It was delivered decades ago by an English Lit professor of mine who taught classes both on John Milton and on science fiction and fantasy literature."
-    publishedDateTime: 2023-12-18T18:25:00Z
-    webUrl: "https://www.plantservices.com/technology/artificial-intelligence/article/33016391/ai-or-not-to-ai-how-artificial-intelligence-is-changing-the-industry"
+  - title: "Unleashing AI’s Power: Chatbots Transforming Healthcare Experiences"
+    excerpt: "Artificial Intelligence (AI)-powered chatbots are becoming significant tools in the transformation of healthcare in the 21st century, facilitating the convergence of technology and delivery of medical services."
+    publishedDateTime: 2023-12-20T10:16:00Z
+    webUrl: "https://disrupt-africa.com/2023/12/20/unleashing-ais-power-chatbots-transforming-healthcare-experiences/"
+    ampWebUrl: "https://disrupt-africa.com/2023/12/20/unleashing-ais-power-chatbots-transforming-healthcare-experiences/"
+    cdnAmpWebUrl: "https://disrupt--africa-com.cdn.ampproject.org/c/s/disrupt-africa.com/2023/12/20/unleashing-ais-power-chatbots-transforming-healthcare-experiences/"
     type: article
     provider:
-      name: Plant Services
-      domain: plantservices.com
+      name: disrupt-africa
+      domain: disrupt-africa.com
+    quality: 74
+    images:
+      - url: "https://disrupt-africa.com/wp-content/uploads/2023/07/DA-logo-on-transparent-with-tag-small-e1414593297539-1.png"
+        width: 300
+        height: 201
+        isCached: true
+  - title: "How artificial intelligence is transforming higher education"
+    excerpt: "WINSTON-SALEM, N.C. — Improving the educational experience of students is a top priority for Dr. Betsy Barre. As the Executive Director of the Center for Advancement of Teaching at Wake Forest University, she works to find innovative teaching practices for faculty. Her latest project is how to address the use of artificial intelligence."
+    publishedDateTime: 2023-12-18T14:38:00Z
+    webUrl: "https://www.wfmynews2.com/article/news/education/how-ai-is-transforming-higher-education-artificial-intelligence/83-65fbb04e-bf3a-4b0e-8dc8-11cd32addad2"
+    type: article
+    provider:
+      name: WFMY News2
+      domain: wfmynews2.com
     quality: 54
     images:
-      - url: "https://img.plantservices.com/files/base/ebm/plantservices/image/2023/12/657b45e23fa0aa001efeca59-ai_or_not_to_ai_how_artificial_intelligence_is_cha.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
+      - url: "https://media.wfmynews2.com/assets/WFMY/images/d6c9631c-6688-4aa7-9ab7-b5a7149521d4/d6c9631c-6688-4aa7-9ab7-b5a7149521d4_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
-  - title: "The nascent AI industry is being overrun by men"
-    excerpt: "This work continued into the second world war, when they were actively encouraged to take on wartime jobs as computers in the absence of men. Women continued to work as computers into the early days of the American space program in the 1960s, playing a pivotal role in advancing NASA’s space projects."
-    publishedDateTime: 2023-12-21T01:12:00Z
-    webUrl: "https://ia.acs.org.au/article/2023/the-ai-industry-is-overrun-with-men.html"
+  - title: "Bay Area Professors and Students Reorient Around AI"
+    excerpt: "Artificial intelligence is having an impact across disciplines and campuses in Bay Area, where both students and professors are applying the technology and learning about its implications for their fields."
+    publishedDateTime: 2023-12-18T03:31:00Z
+    webUrl: "https://www.govtech.com/education/higher-ed/bay-area-universities-turn"
     type: article
     provider:
-      name: ia.acs
-      domain: acs.org.au
+      name: Government Technology
+      domain: govtech.com
     quality: 39
     images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/altman-mira-murtai.jpg"
-        width: 1214
-        height: 683
-        isCached: true
-  - title: "Chip Industry Week In Review"
-    excerpt: "GenAI smartphones; BEV sales up; proprietary vs. commercial chiplets; RISC-V verification; atomic RF; smarter tire sensors; L2/L3 simulation; SMIC breakthrough; design-house revenue way up."
-    publishedDateTime: 2023-12-22T08:01:00Z
-    webUrl: "https://semiengineering.com/chip-industry-week-in-review-16/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 39
-    images:
-      - url: "https://semiengineering.com/wp-content/uploads/AdobeStock_486012090-02-13-23-scaled.jpeg?fit=2560%2C1440&ssl=1"
-        width: 2560
-        height: 1440
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/cf1aaf7/2147483647/strip/true/crop/1170x569+0+119/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F33%2F3b%2Fb869edf602aab64879ce1e8f2f3f%2Fbay-area-tilt-shift.jpg"
+        width: 1440
+        height: 700
         isCached: true
   - title: "Modern Healthcare is evolving along with the industry"
     excerpt: "It’s an exciting time to be journalists covering the industry. And for that reason, Modern Healthcare is evolving in 2024 too."

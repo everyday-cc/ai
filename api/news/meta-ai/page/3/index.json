@@ -1,0 +1,49 @@
+{
+  "page": 3,
+  "value": [
+    {
+      "path": "_news/2023-11-09-facebook-and-instagram-will-require-political-advertisers-to-disclose-ai-deepfakes.md",
+      "title": "Facebook and Instagram will require political advertisers to disclose AI deepfakes",
+      "excerpt": "Meta, parent company of Instagram and Facebook, will require political advertisers around the world to disclose any use of artificial intelligence in their ads, starting next year, the company said Wednesday, as part of a broader move to limit so-called ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wapt.com/article/meta-require-political-advertisers-to-disclose-ai-deepfakes/45777807",
+      "originalUrl": "https://www.wapt.com/article/meta-require-political-advertisers-to-disclose-ai-deepfakes/45777807",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbg9wc2f3cm8wmdbomzu2adhncdhyyxni-l19wywdlcy9jbg9wczdwog0wmdawnjdxzmhzyjc3cjq3-jpg-654c4fe626469.jpg?crop=1.00xw:0.844xh;0,0&resize=1200:*",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.wapt.com/amp/article/meta-require-political-advertisers-to-disclose-ai-deepfakes/45777807",
+      "cdnAmpWebUrl": "https://www-wapt-com.cdn.ampproject.org/c/s/www.wapt.com/amp/article/meta-require-political-advertisers-to-disclose-ai-deepfakes/45777807",
+      "publishedDateTime": "2023-11-09T03:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WAPT",
+        "domain": "wapt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    }
+  ],
+  "nextPage": null
+}

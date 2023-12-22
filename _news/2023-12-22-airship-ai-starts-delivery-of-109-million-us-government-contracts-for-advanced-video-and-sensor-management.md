@@ -6,6 +6,9 @@ publishedDateTime: 2023-12-22T13:54:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/airship-ai-starts-delivery-of-10-9-million-us-government-contracts-for-advanced-video-and-sensor-management-1032922178"
 webUrl: "https://markets.businessinsider.com/news/stocks/airship-ai-starts-delivery-of-10-9-million-us-government-contracts-for-advanced-video-and-sensor-management-1032922178"
 type: article
+quality: 30
+heat: 30
+published: false
 
 provider:
   name: Business Insider

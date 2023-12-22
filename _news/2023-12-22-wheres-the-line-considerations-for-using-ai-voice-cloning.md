@@ -8,6 +8,9 @@ webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/22/wheres-th
 ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/22/wheres-the-line-considerations-for-using-ai-voice-cloning/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/12/22/wheres-the-line-considerations-for-using-ai-voice-cloning/amp/"
 type: article
+quality: 89
+heat: 99
+published: true
 
 provider:
   name: Forbes
@@ -26,6 +29,22 @@ images:
     width: 819
     height: 545
     isCached: true
+
+related:
+  - title: "3 essential considerations for generative AI on campus"
+    excerpt: "Generative AI on campus was everywhere at EDUCAUSE--and with it, concerns about its place in classrooms and university processes."
+    publishedDateTime: 2023-12-18T10:00:00Z
+    webUrl: "https://www.ecampusnews.com/teaching-learning/2023/12/18/3-essential-considerations-for-generative-ai-on-campus/"
+    type: article
+    provider:
+      name: ecampusnews.com
+      domain: ecampusnews.com
+    quality: 39
+    images:
+      - url: "https://www.ecampusnews.com/files/2023/12/generative-AI-educause.jpeg"
+        width: 500
+        height: 500
+        isCached: true
 
 secured: "YU1+1i7MW/UctJDeifTX1af0Bi5RlrB3rAvgmFj83xiWIY6nYEHDsMd0ek7LhLKbvmDW0m2t1W7fCwbTi+3F/LZa/20t7HR0K8laWpKvVlgjVtf5BjfmVUhc9XWVoLYpof0OcIyLstx2xVcycKImM7mBnOnL2yeSabOtuHSxN0g56q8O4A5hyvt0CrrnqSIasI8d+WDPJpZeafUkIamTYnHEaBPoO8rxuftNHc/UYoDsOpsR4jWd27xqHXbbm8Cfyak6/ybf825UfN8Av/sP8tcagjf+DbNp8LM5ppy/t1oiduO7FLc0d92KzCCOW4i/jh5ficSsZZP8mj4ax819x4wXJ4bJTLiv8Kp/FGFCss1q+qdw32ivDVKrSSAgSqg+g2qQL/PmSqphoHzgSFJ4WVDhg61zDxXZqAyHJuCeRm9U5lu1dCFTfGPfQjryXKh+rwL1FvaC95NzZ2f0c4b9sVxr8PG4bv6X5lRqQYp9+Hzq2ln06mOB+TszXYSb8FW5eKZnBIWmCO71tJ16zkVQ8w==;XVfxwwbUN0NsgdhdhJac/w=="
 ---

@@ -125,6 +125,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Google announces AI uses for health care market"
+    excerpt: "Google introduced a suite of AI health models \"instead of trying to build a ‘one-size-fits-all’ solution,\" one company executive said."
+    publishedDateTime: 2023-12-20T11:45:00Z
+    webUrl: "https://www.bizjournals.com/nashville/news/2023/12/20/google-announces-ai-uses-for-health-care-market.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "iVip6j+z0ljxCgCz+WWdcI2J1ZAcDmySNyjWOh697fvuEBsxr22UqpxUfjTNWwX42pEmbgbmsfZON+rXEsHi40vG65euInNayAXvbat6el0D6vW3vbZjEkUAVlVTYuxD+Hh8GocDHx3xJtsDxAPEEFJogaVbVIw84Lwc3DHE8iN3z+4EHOnmwebrEvs7tJ6XcNF8RxrrvvCJva81Cp3OzRUU/MvzV25gUJJdS0zebzFntQWaS3LnbKOIIQLbCruf8kgHg6JJ2Axlfmj9LaUWjxjrFafud4cNDabdjyKVY3qCeilptd7fMdsD4XCuQ7NznkXhUDCl0bs/Pri2ruxfv5CIfGVZoxC3RckJYn1c5kFrsycdD+vrszmysJWe51tQzO2YLpX7giLVsx+4w025pL+FiCc0JPLvzhLZj2wOGQPK3VU13NOF/oWLLyvcceLDIWIIhpY6K0itseLqeGz7eJfPffKGwi+q96vfemO1bi4O+AwjCxOqNhsTurTxKOFy763STAE5FacApMpD2WTBUg==;aSaqP9PSE0+clWhwVtsTIg=="
 ---

@@ -6,8 +6,8 @@ publishedDateTime: 2023-12-22T00:03:00Z
 originalUrl: "https://www.usatoday.com/story/tech/2023/12/21/artificial-intelligence-ai-death-calculator/72003778007/"
 webUrl: "https://www.usatoday.com/story/tech/2023/12/21/artificial-intelligence-ai-death-calculator/72003778007/"
 type: article
-quality: 11
-heat: 11
+quality: 13
+heat: 13
 published: false
 
 provider:

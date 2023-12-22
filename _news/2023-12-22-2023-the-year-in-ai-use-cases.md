@@ -52,6 +52,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Crucial Skills Gaps in the UK Include AI and Strategic Thinking, According to Red Hat"
+    excerpt: "The survey also detailed the biggest barriers to innovation. Read what experts say about how generative AI has impacted the job market."
+    publishedDateTime: 2023-12-22T18:54:00Z
+    webUrl: "https://www.techrepublic.com/article/red-hat-uk-tech-skills-gap-survey/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 64
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2022/10/tr-hr-interview-panel-image.jpeg"
+        width: 1200
+        height: 733
+        isCached: true
   - title: "Breathing new life into fight to save the seas with artificial intelligence"
     excerpt: "It’s hard to imagine our planet without its oceans – their vast scale and depth, teeming with life. They’re also critical to tackling the climate crisis by storing vast quantities of carbon dioxide. But securing and expanding their stores of carbon depends on us being able to locate those stores and assess how healthy they are."
     publishedDateTime: 2023-12-18T14:57:00Z

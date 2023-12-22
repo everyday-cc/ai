@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/5-things-to-know-driving-innovation-with-
 webUrl: "https://www.ibm.com/blog/5-things-to-know-driving-innovation-with-ai-and-hybrid-cloud-in-the-year-ahead/"
 type: article
 quality: 95
-heat: 155
+heat: 165
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/07/11/20/level_bolt_doorentry_handopening-100943200-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Crucial Skills Gaps in the UK Include AI and Strategic Thinking, According to Red Hat"
+    excerpt: "The survey also detailed the biggest barriers to innovation. Read what experts say about how generative AI has impacted the job market."
+    publishedDateTime: 2023-12-22T18:54:00Z
+    webUrl: "https://www.techrepublic.com/article/red-hat-uk-tech-skills-gap-survey/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 64
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2022/10/tr-hr-interview-panel-image.jpeg"
+        width: 1200
+        height: 733
         isCached: true
   - title: "2023 - the year in AI use cases"
     excerpt: "The urgency to make sense of AI took the diginomica team across ethics, data governance, and into the perils of disinformation on democracy itself. Even the OpenAI drama required dissection. But in an enterprise context, this ultimately comes down to results."

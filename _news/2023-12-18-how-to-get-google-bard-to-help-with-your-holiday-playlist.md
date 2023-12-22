@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Why I Chose Google Bard to Help Write Security Policies"
-    excerpt: "While there's been a lot of focus on ChatGPT, I have been testing Google Bard for rewriting and simplifying old security documentation that needed a touch-up. Most notable is the dreaded security policy. You'll be hard-pressed to find anyone who loves ..."
-    publishedDateTime: 2023-12-19T00:00:00Z
-    webUrl: "https://www.darkreading.com/cybersecurity-operations/why-chose-google-bard-help-write-security-policies"
+  - title: "How to improve your privacy on Google Bard with this one simple setting"
+    excerpt: "Also: Why my two-person company bought a Google Workspace Enterprise plan And then there's Bard. We've been exploring how well the AI works, and, well, it has its issues. That said, it has a lot ..."
+    publishedDateTime: 2023-12-18T15:03:00Z
+    webUrl: "https://www.zdnet.com/article/how-to-improve-your-privacy-on-google-bard-with-this-one-simple-setting/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-improve-your-privacy-on-google-bard-with-this-one-simple-setting/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-improve-your-privacy-on-google-bard-with-this-one-simple-setting/"
     type: article
     provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 41
+      name: ZDNet
+      domain: zdnet.com
+    quality: 74
     images:
-      - url: "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5cd90d9607bc687c/658076ee0134a9040a60718c/LLM_James_Brown_Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop"
+      - url: "https://www.zdnet.com/a/img/resize/c03f10b9b5dc49bd74fbe664c6c6046859ac3b05/2023/05/22/9f7b3ae7-2a94-42d9-901b-9f59be5cd873/bard-on-google.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
 
 secured: "e6lFyDFic/gLK9jFaoTnXCKN/hNQ5wAtcgSngmVCf3w7xvepAX/XULM8SAoiHmO6e3x9LSVVdZw8QrBZmMOKGzgxZgRDUETX2gmx+ZsFFNXKaSkcrZjEDurfI/TKIPSRIMCvPEWaFLGsZ29u+p+MhwJC/WxNJCxTqNHI8KdCPAG1Pg2VBIKKwPdWi46LhglfD7bWoDIfZ9QsMx2XxKDbPQcxwFR8NLk1FAzdt+PnsDDLtRouucJQwvLMaLgwLTzxhkNVBAm8vSz6g//giVA2xi45INgsTBunFyxdmoVMrwniq2JJ+Akr0geIVOPoIMeyxEW4im7T/UU/Q4CQRWkBbSQ0ctFNwZheqsnWe700FK4=;j5sI+Ya5+wTBk/6sJeg/TQ=="

@@ -6,6 +6,9 @@ publishedDateTime: 2023-12-22T14:00:00Z
 originalUrl: "https://www.fiercehealthcare.com/health-tech/startup-guidehealth-buys-arcadias-value-based-care-division-plans-build-out-predictive"
 webUrl: "https://www.fiercehealthcare.com/health-tech/startup-guidehealth-buys-arcadias-value-based-care-division-plans-build-out-predictive"
 type: article
+quality: 20
+heat: 20
+published: false
 
 provider:
   name: Fierce Healthcare

@@ -6,6 +6,9 @@ publishedDateTime: 2023-12-21T21:35:00Z
 originalUrl: "https://whyy.org/articles/new-jersey-schools-grief-education-requirement-legislature/"
 webUrl: "https://whyy.org/articles/new-jersey-schools-grief-education-requirement-legislature/"
 type: article
+quality: 6
+heat: 6
+published: false
 
 provider:
   name: WHYY

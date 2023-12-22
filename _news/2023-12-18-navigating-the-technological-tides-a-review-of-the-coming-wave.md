@@ -48,6 +48,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "How the next generation is changing the future of payments"
+    excerpt: "Due largely to their advanced technical preferences in commerce, Generation Z (Gen Z) and Millennials have summoned a new era of payments."
+    publishedDateTime: 2023-12-22T16:52:00Z
+    webUrl: "https://www.biometricupdate.com/202312/how-the-next-generation-is-changing-the-future-of-payments"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/06/29151020/retail-shopping-cafe-scaled.jpg"
+        width: 2048
+        height: 1367
+        isCached: true
   - title: "Here's Google's strategy for navigating the 2024 US election chaos"
     excerpt: "Google is taking precautionary measures ahead of the 2024 US elections to combat the spread of AI-related misinformation, including requiring disclosure of AI-altered ads and notifying viewers of AI-generated content in YouTube videos."
     publishedDateTime: 2023-12-19T19:09:00Z

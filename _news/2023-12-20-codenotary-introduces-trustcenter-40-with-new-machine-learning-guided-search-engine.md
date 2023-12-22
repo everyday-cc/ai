@@ -24,6 +24,17 @@ images:
     height: 627
     isCached: true
 
+related:
+  - title: "Codenotary Adds Machine Learning Algorithms to SBOM Search Tool"
+    excerpt: "Codenotary added machine learning algorithms to the search engine it provides for its Trustcenter platform for generating and managing SBOMs."
+    publishedDateTime: 2023-12-22T13:13:00Z
+    webUrl: "https://securityboulevard.com/2023/12/codenotary-adds-machine-learning-algorithms-to-sbom-search-tool/"
+    type: article
+    provider:
+      name: Security Boulevard
+      domain: securityboulevard.com
+    quality: 19
+
 secured: "Q55gMKWBBHbaXL+2rNdHPohoonqmno7wZSto9WaTElxhAVypRDZom7lvN2/isBHn/Gxvi35yRmMCMGzQgpJ0r9miPJ5RI1VCmFKNGRuGN5Rku/Br/lyFiaG1eusqE9PGvGOH3EswDbboLKG/NenZ7xVbIX1fO5VpJB8il7JPeIjRlUNDIItqmyEGboPpgy7zfnYiTD0TyyJ4D8t8ScAHAeSxpabZ9RGG5cWNkwFgixWqMwWKJXXtlyZtEejYeOXOklhuy4nM0+6K2A9SmwPegr9mn4kuipUYY1YreW/m8BJPAi33qSvTb4kUQBsklcMF28y8dcqnyhIO7VA+XkwwBZouCVuriD5AXaR3IZOg1Qs=;ZJ8ktaCscMoEpQ6LMpaYYQ=="
 ---
 

@@ -8,6 +8,9 @@ webUrl: "https://www.businessinsider.com/llama-poop-save-soil-andes-glacial-melt
 ampWebUrl: "https://www.businessinsider.com/llama-poop-save-soil-andes-glacial-melt-peru-2023-12?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/llama-poop-save-soil-andes-glacial-melt-peru-2023-12?amp"
 type: article
+quality: 55
+heat: 55
+published: false
 
 provider:
   name: Business Insider

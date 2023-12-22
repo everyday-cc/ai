@@ -194,6 +194,49 @@
       ]
     },
     {
+      "path": "_news/2023-12-19-ai-or-not-to-ai-how-artificial-intelligence-is-changing-the-industry.md",
+      "title": "AI or not to AI: How artificial intelligence is changing the industry",
+      "excerpt": "One of the most profound statements that I’ve ever heard on artificial intelligence was presented in the form of a joke. It was delivered decades ago by an English Lit professor of mine who taught classes both on John Milton and on science fiction and fantasy literature.",
+      "sourceUrl": null,
+      "webUrl": "https://www.plantservices.com/technology/artificial-intelligence/article/33016391/ai-or-not-to-ai-how-artificial-intelligence-is-changing-the-industry",
+      "originalUrl": "https://www.plantservices.com/technology/artificial-intelligence/article/33016391/ai-or-not-to-ai-how-artificial-intelligence-is-changing-the-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.plantservices.com/files/base/ebm/plantservices/image/2023/12/657b45e23fa0aa001efeca59-ai_or_not_to_ai_how_artificial_intelligence_is_cha.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-18T18:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Plant Services",
+        "domain": "plantservices.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-12-18-teslas-recall-of-2-million-vehicles-reminds-us-how-far-driverless-car-ai-still-has-to-go.md",
       "title": "Tesla's recall of 2 million vehicles reminds us how far driverless car AI still has to go",
       "excerpt": "Tesla has recalled 2 million US vehicles over concerns about its autopilot function. Autopilot is meant to help with manoeuvres such as steering and acceleration, but still needs input from the driver.",
@@ -202,7 +245,7 @@
       "originalUrl": "https://www.econotimes.com/Teslas-recall-of-2-million-vehicles-reminds-us-how-far-driverless-car-AI-still-has-to-go-1667962",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -504,22 +547,31 @@
       "title": "2023: The year we played with artificial intelligence — and weren’t sure what to do about it",
       "excerpt": "Artificial intelligence went mainstream in ... of photos to recognize objects and individual faces and help guide self-driving cars. Speech recognition advances made voice assistants like Siri ...",
       "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/business/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it/",
-      "originalUrl": "https://www.seattletimes.com/business/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it/",
+      "webUrl": "https://wtop.com/national/2023/12/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it/",
+      "originalUrl": "https://wtop.com/national/2023/12/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://wtop.com/wp-content/uploads/2023/12/YE_Artificial_Intelligence_19894-scaled.jpg",
+          "width": 2560,
+          "height": 1706,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-14T03:16:00Z",
+      "publishedDateTime": "2023-12-14T13:45:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
+        "name": "WTOP News",
+        "domain": "wtop.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1337,40 +1389,6 @@
       "provider": {
         "name": "Reading Eagle",
         "domain": "readingeagle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-07-which-hands-free-driving-system-is-best-this-test-aimed-to-find-out.md",
-      "title": "Which hands-free driving system is best? This test aimed to find out",
-      "excerpt": "Tesla Autopilot with Full Self-Driving Beta Tesla Motors’ AutoPilot has come in for criticism that its name implies more than what it delivers. But the latest Full Self-Driving Beta feature gets ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.detroitnews.com/story/business/autos/2023/12/06/which-hands-free-driving-system-is-best-this-test-aimed-to-find-out/71813681007/",
-      "originalUrl": "https://www.detroitnews.com/story/business/autos/2023/12/06/which-hands-free-driving-system-is-best-this-test-aimed-to-find-out/71813681007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-07T01:56:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit News",
-        "domain": "detroitnews.com",
         "images": null,
         "publishers": null,
         "authors": null

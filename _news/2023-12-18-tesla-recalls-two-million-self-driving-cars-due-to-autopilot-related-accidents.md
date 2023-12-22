@@ -48,6 +48,15 @@ related:
       name: RealClearMarkets
       domain: realclearmarkets.com
     quality: 19
+  - title: "Much-hyped reality of the driverless car finally edges into view"
+    excerpt: "With the push of a button, Zoe2 is transporting us into the future. The steering wheel turns on its own accord, indicators snap on and off, the accelerator pumps as the most advanced driverless car in Australia hits 50km/hr."
+    publishedDateTime: 2023-12-19T16:03:00Z
+    webUrl: "https://www.theaustralian.com.au/inquirer/muchhyped-reality-of-the-driverless-car-finally-edges-into-view/news-story/c1c3e0dbabb2d18e5e39dea0a6033728"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 19
 
 secured: "HOVSgqV8eOTfyF9n4T8kwzymy5YC+EIcYnZGCO9/GnHvZQTCL6bFr8qZWWK+pY5C7K015JkLkC7IOUzErAm4+yi+J51lBXe8VXihHWFvqDbTxZJTmO3YM33x1WoKIm7yxZpgHMYpQP7qGRaZfmGh3uGyKhwls+4hcyVcN5Mb+sQjFcCPnKxwvSkCT5u2+H/7ZNmtEcOKYBru/r+wd5tdWlX6svKo4Jr8rA+qEyxO4nClfva3QniQw+WgkstjzKxozTLiVD5Etr9HQU7AvdAsipFZkLIDia9nP7LW1aGPSGR2liT/Frdo2blERq7w8JIWSaQInoFiGF+m/CQNSiBNNJGPB6epqLWvs83z3Y1oF/z1ONi1T9g4Hh8BbUAE+xE3APsnqXc4UAajmZlWgbqxFl5JX9pVE5DPJm788ZRrjOWS0HGcCsBmKHEpKvAXrwaghvPlF7XkzX+xkfHSqpFTrQqPKmZuIUMeCgaFG/CHxQWdBesQ8lBZIBd4nutMVQV/UGqqGKbVFYR9e9nidbdzEg==;U4BHiLjd4kNjd9vVfVzkHA=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://www.androidauthority.com/bard-vs-chatgpt-trip-3395897/"
 webUrl: "https://www.androidauthority.com/bard-vs-chatgpt-trip-3395897/"
 type: article
 quality: 68
-heat: 98
-published: true
+heat: -1
+published: false
 
 provider:
   name: Android Authority
@@ -30,6 +30,36 @@ images:
     isCached: true
 
 related:
+  - title: "How Strangers Got My Email Address From ChatGPT"
+    excerpt: "Researchers at Indiana University used ChatGPT to extract contact information for more than 30 New York Times employees."
+    publishedDateTime: 2023-12-22T21:07:00Z
+    webUrl: "https://www.nytimes.com/interactive/2023/12/22/technology/openai-chatgpt-privacy-exploit.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 84
+    images:
+      - url: "https://static01.nyt.com/images/2023/12/20/multimedia/openai-chatgpt-exploit-promo-image/openai-chatgpt-exploit-promo-image-facebookJumbo.png"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Further your AI ChatGPT and Python knowledge and build your own chatbot with this mega bundle, now $29.97"
+    excerpt: "Take on the rising world of AI with The 2023 Ultimate AI ChatGPT & Python Programming Bundle, now on sale for only $29.97 through Christmas."
+    publishedDateTime: 2023-12-18T16:46:00Z
+    webUrl: "https://www.popsci.com/sponsored-content/ai-chatgpt-python-bundle-deal/"
+    ampWebUrl: "https://www.popsci.com/sponsored-content/ai-chatgpt-python-bundle-deal/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/sponsored-content/ai-chatgpt-python-bundle-deal/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 57
+    images:
+      - url: "https://www.popsci.com/uploads/2023/12/18/image.png?auto=webp"
+        width: 1067
+        height: 800
+        isCached: true
   - title: "How to get a shareable link to a ChatGPT conversation"
     excerpt: "Even though I used my paid subscription to ChatGPT Plus for this session, anyone can click the link and read the conversation."
     publishedDateTime: 2023-12-19T12:40:00Z
@@ -48,20 +78,6 @@ related:
       name: The New York Times
       domain: nytimes.com
     quality: 49
-  - title: "Chevrolet Used ChatGPT for Customer Service and Learned That A.I. Isn't Always on Your Side"
-    excerpt: "Can artificial intelligence be too smart for its own good? While a promising use case for generative A.I. is handling simple customer service tasks, Chevrolet recently learned that integrating the tech into your website can lead to problems if you don't narrow the scope of its abilities."
-    publishedDateTime: 2023-12-18T21:45:00Z
-    webUrl: "https://www.inc.com/ben-sherry/chevrolet-used-chatgpt-for-customer-service-and-learned-that-ai-isnt-always-on-your-side.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 29
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-668760581_535925_g5ykl7.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "BvcPU8yp8Ubwis36kczWRCCt/2DVGaciXVwDqnlSaJ0suwSRDpOsZgH+iTuiXEIn5xo1yZKk2dGnPXEPMPu7JSpzpTlkf1ms1z63E5WJsvrbP1dJXAqY7GFWXDEAWQXZj8eeYTnASZS3fBGJZLIfz3kw5KKQxQzrtQdTDMelLTOZ3e4oCc4sRn+Mmij4JCI2fqW404TFvu0mBPbTlHWnWXv/SFfwmHI8s5sCgxHeNoxgLOA6+j9dGSW34IspL6RxQolnnajtkeC28SoeQXxl2MbiP2F8OnGM3dgVTJ4hmjSOnbw3LUAeRdmMWRFxvcc4PnqezTEZtURDyNEWbQ1i0/QVRrIqw+9zDNXp7mmObahOYVUMSp8BtnO7GPy+dzLRTAVblGPdUW27d4OUl1pyNn/gMYi67mWN5bnIZT1PzO/wwRTMaOH/SUzoLgaHBBUrHFiM9dke/4mofx/F/Yij7ymyz7yoiQPv2isKJH9CZe/sjE0GNqwXn2tccBTKP4Fcj76TXOj7rFd9EqzcIec40w==;W8xY7PKmquGRHqBUHx+f+w=="
 ---

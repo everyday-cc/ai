@@ -6,6 +6,9 @@ publishedDateTime: 2023-12-22T15:02:00Z
 originalUrl: "https://www.digitalcameraworld.com/news/skynet-just-got-scarier-midjourney-6-sets-new-standards-for-ai-text-to-image-generation"
 webUrl: "https://www.digitalcameraworld.com/news/skynet-just-got-scarier-midjourney-6-sets-new-standards-for-ai-text-to-image-generation"
 type: article
+quality: 30
+heat: 30
+published: false
 
 provider:
   name: digitalcameraworld

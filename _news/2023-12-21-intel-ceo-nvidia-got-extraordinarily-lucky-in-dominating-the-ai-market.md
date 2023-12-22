@@ -19,20 +19,87 @@ topics:
   - AI
 
 related:
-  - title: "Intel CEO on NVIDIA AI GPU dominance: they were 'extraordinarily lucky'"
-    excerpt: "NVIDIA was 'extraordinarily lucky' with AI GPU dominance, adds that 'they didn't even want to support their first AI project'."
-    publishedDateTime: 2023-12-22T06:24:00Z
-    webUrl: "https://www.tweaktown.com/news/95108/intel-ceo-on-nvidia-ai-gpu-dominance-they-were-extraordinarily-lucky/index.html"
+  - title: "How Intel Plans To Catch Up to NVIDIA in the AI Arms Race…"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence has taken the world by storm this year. In fact,"
+    publishedDateTime: 2023-12-22T21:29:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/how-intel-plans-to-catch-up-to-nvidia-in-the-ai-arms-race-1032923322"
     type: article
     provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 56
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
     images:
-      - url: "https://static.tweaktown.com/news/9/5/95108_501_intel-ceo-on-nvidia-ai-gpu-dominance-they-were-extraordinarily-lucky_full.png"
-        width: 1500
-        height: 857
+      - url: "https://investorplace.com/wp-content/uploads/2023/12/intc-2023-12-21.png"
+        width: 904
+        height: 564
         isCached: true
+  - title: "Intel CEO says Nvidia was \"extremely lucky\" to become the dominant force in AI"
+    excerpt: "Gelsinger began by lamenting Intel's past mistakes, noting that Nvidia CEO Jensen Huang \"got extraordinarily lucky\" with his bet on AI and Intel could have been just as lucky had the company not given up on the Larrabee discrete GPU project. Gelsinger went ..."
+    publishedDateTime: 2023-12-22T10:27:00Z
+    webUrl: "https://www.techspot.com/news/101309-intel-ceo-nvidia-extremely-lucky-become-dominant-force.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 65
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/12/2023-12-22-image-11.jpg"
+        width: 2560
+        height: 1706
+        isCached: true
+  - title: "MSI Prestige 16 AI Series laptops with up to Intel Core Ultra 9 processor, RTX 4070 Laptop GPU announced in India"
+    excerpt: "MSI has announced the new Prestige 16 AI series of laptops featuring the latest Intel Core Ultra 9 processor for India. The series will rely on Intel’s integrated NPU (Neural Processing Unit) technology,"
+    publishedDateTime: 2023-12-21T08:48:00Z
+    webUrl: "https://www.fonearena.com/blog/412811/msi-prestige-16-ai-series-features.html"
+    ampWebUrl: "https://www.fonearena.com/blog/412811/msi-prestige-16-ai-series-features.html/amp"
+    cdnAmpWebUrl: "https://www-fonearena-com.cdn.ampproject.org/c/s/www.fonearena.com/blog/412811/msi-prestige-16-ai-series-features.html/amp"
+    type: article
+    provider:
+      name: FoneArena
+      domain: fonearena.com
+    quality: 53
+    images:
+      - url: "https://www.fonearena.com/blog/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
+  - title: "Why Intel has joined the race for the AI-enabled laptop"
+    excerpt: "But Intel has been talking up AI-PC and the fact that it’s building AI-dedicated cores into its newest processors for quite some time. Its hardware partners have also dropped AI-PC mentions, and all this suggests that Intel thinks it can still take control of the narrative, or at least some of it."
+    publishedDateTime: 2023-12-19T10:33:00Z
+    webUrl: "https://www.computerweekly.com/blog/Write-side-up-by-Freeform-Dynamics/Why-Intel-has-joined-the-race-for-the-AI-enabled-PC"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 39
+    images:
+      - url: "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-191223-cover-500px.jpg"
+        width: 500
+        height: 354
+        isCached: true
+  - title: "Nvidia's AI Boom And The Ghost Of Cisco's Internet Bust"
+    excerpt: "Nvidia Corporation established dominance in AI advancements, where it already had a foothold in data center market. Find out why NVDA stock is a Sell."
+    publishedDateTime: 2023-12-18T13:45:00Z
+    webUrl: "https://seekingalpha.com/article/4658450-nvidia-nvda-ai-boom-and-ghost-of-cisco-internet-bust"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 37
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/949315604/image_949315604.jpg?io=getty-c-w1536"
+        width: 1536
+        height: 1024
+        isCached: true
+  - title: "Nvidia Engineer Responds to Intel CEO Saying It Got Lucky With AI Dominance"
+    excerpt: "The employee, who worked at both Intel and Nvidia, says vision and execution are the reasons for its supremacy, not luck."
+    publishedDateTime: 2023-12-22T20:30:00Z
+    webUrl: "https://www.extremetech.com/computing/nvidia-engineer-responds-to-intel-ceo-saying-it-got-lucky-with-ai-dominance"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 17
 
 secured: "eE8DJ+ftHOT71wED/q2mahmRpzwnynWrxPeRvRNcnztD8TMXPP3rpHpFAy0wmws03IgG3O95aZ+qYeXClCFEntNvMZTp2vu2ihgjLa7prAQfaRB1TrJRF4inWFEAe+3dUExiO+hKxxjGIH5VPYttJ+fcKe0N+eAcIHI9vOZrjMbDUMOqyg8pqtAVHpEjbwynM8d+RBGCP83cDj7+Gw78UmfmFgWkEPngu5Ke7osZs4LfrH6+c5Gxvsk02t1aVL0EeQu/Rr7f77KMJgYP3UoSWti1x9/D+0aZPuGZ49PFngkz/ezLLKVdqVLkrc5IPMJy+p7zEltaS/ic0zMfaxYUIiahs7MEuG7SPBkmsyyjwkQRodqeRad4lLPGHjyHMwkGcQ7wLmckVnmqYW9VhXwlheD7RjRmdanexb48eruXt59GKFhJSW8hgjXIvFHsaUQjKIJOsR00YleieFOgMiK8aXpUtVNPYAIdMOoi/GUdY5kGtSukypxTc2n7ExRPTYcaZaToMptsblVtvAQi59HPNA==;WZkgMCaLvSQHWsAnX0l4Yg=="
 ---

@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "Apple is Working on Running AI on iPhones and iPads"
+    excerpt: "Both papers show that, while Apple may not have generative AI products today that are as high-profile as Microsoft’s Copilot or OpenAI’s ChatGPT, Apple still has a hand in the generative AI space. These findings could eventually be incorporated into Siri, Apple’s voice-based assistant that resides on laptops, tablets and phones."
+    publishedDateTime: 2023-12-22T17:02:00Z
+    webUrl: "https://www.techrepublic.com/article/apple-llm-iphone/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 69
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/12/apple-store-dec-23.jpeg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "New Research Paper Shows How Apple Could Bring On-Device AI To Older iPhones"
     excerpt: "Apple's new research hints at a breakthrough for running AI models on iPhones with limited RAM, while boosting processing speeds, too."
     publishedDateTime: 2023-12-22T11:19:00Z
@@ -88,6 +102,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Apple research makes headway on using artificial intelligence on iPhones"
+    excerpt: "Apple Inc. (Nasdaq: AAPL) has made huge strides with its artificial intelligence research, according to two recently released papers that would take the AI out of the cloud and put it right into your mobile devices. In November, Apple scientists released a ..."
+    publishedDateTime: 2023-12-22T16:03:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2023/12/22/apple-makes-headway-on-using-ai-on-iphones.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 36
+    images:
+      - url: "https://media.bizj.us/view/img/12597191/apple-iphone-15-lineup-color-lineup-230912*1200xx1960-1103-0-102.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Apple’s AI research signals ambition to catch up with Big Tech rivals"
     excerpt: "Apple’s rivals, such as Samsung, are gearing up to launch a new kind of “AI smartphone” next year. Counterpoint estimated more than 100mn AI-focused smartphones would be shipped in 2024, with 40 per cent of new devices offering such capabilities by 2027."
     publishedDateTime: 2023-12-21T12:38:00Z
@@ -97,6 +125,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 19
+  - title: "Apple research makes headway on using artificial intelligence on iPhones"
+    excerpt: "Apple Inc. has made huge strides with its artificial intelligence research, according to two recently released papers."
+    publishedDateTime: 2023-12-22T14:26:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/12/22/apple-makes-headway-on-using-ai-on-iphones.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 18
 
 secured: "qF0b//ri+6bvml0fT/edHqetM0eFpRz6pIWj5GqBGsDURgpsmyXRKNq4coElbnrP9F5Ps5VUAElpnZuQDd6b9iH1rrFnUqvY6fwu6A2U6e4GZd8jWpNDvtBfUmpcVmAszXGLxcRQz7YfEVM6ncV6RGEZ+FgTJjE7fuPlzB1zIF7UCxGNpWrmKn78QVay/3bzrgZGOnqMC0am5uFGh5qUxo7bZmx6Cmo2+Ds4tjhBEJ1UWx6Ap/kPTs/tHUeRzWgjw12re4ooGI3gSXJzlih1CJNMnnQMcuyznY1mIDGOzrdcqZ43n7Kxy0HgDur8l0ZTTb1IJayIJRgp3YGQlnoRboPxgfOFrz7WlOuK5LT4XM01ZACNhOS7oFVdaVWaT/MiL0h7al2JWpBvYHd029duuj/oCTJHCHwkIjypuF+TjQCOnhmFfPs+CiQ7lQgFEXDl5Rfb1TBQEjW1bdZ4zrCwc0lBDgt56V/Ozlp4hCSaEkisWA9qqTQWvKq99Px04ftc4KL6k/QLMuU5nPlLmtryxw==;F3SrQsozD1EavCHT0JoyWg=="
 ---

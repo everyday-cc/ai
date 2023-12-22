@@ -6,6 +6,9 @@ publishedDateTime: 2023-12-22T05:27:00Z
 originalUrl: "https://www.forbes.com/sites/saibala/2023/12/22/digital-twin-technology-has-the-potential-to-radically-disrupt-healthcare/"
 webUrl: "https://www.forbes.com/sites/saibala/2023/12/22/digital-twin-technology-has-the-potential-to-radically-disrupt-healthcare/"
 type: article
+quality: 48
+heat: 48
+published: false
 
 provider:
   name: Forbes

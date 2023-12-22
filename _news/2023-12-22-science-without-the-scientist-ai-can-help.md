@@ -18,6 +18,15 @@ topics:
   - AI
 
 related:
+  - title: "Meet 'Coscientist,' your AI lab partner"
+    excerpt: "An artificial intelligence-driven system has autonomously learned about certain Nobel Prize-winning chemical reactions and designed a successful laboratory procedure to make them. The AI did so in just a few minutes and correctly on its first attempt."
+    publishedDateTime: 2023-12-22T13:08:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/12/231221012729.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "Coscientist uses artificial intelligence to enhance chemistry research"
     excerpt: "Artificial intelligence can now run science experiments with a few simple prompts from researchers, saving them time and speeding the pace of discovery."
     publishedDateTime: 2023-12-22T11:30:00Z

@@ -87,22 +87,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Fintech Platform FactSet Announces Initial Release of AI Advancement Solution to Enhance Decision-Making"
-    excerpt: "FactSet, a global financial digital platform and enterprise solutions provider, announced the beta release of its latest AI advancement."
-    publishedDateTime: 2023-12-17T20:37:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/12/218357-fintech-platform-factset-announces-initial-release-of-ai-advancement-solution-to-enhance-decision-making/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/12/218357-fintech-platform-factset-announces-initial-release-of-ai-advancement-solution-to-enhance-decision-making/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/12/218357-fintech-platform-factset-announces-initial-release-of-ai-advancement-solution-to-enhance-decision-making/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 42
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/08/Judge-Crossword-Confusion-Puzzle-Decide.jpg"
-        width: 1280
-        height: 1108
-        isCached: true
   - title: "The Future of Finance: Exploring the Best Fintech Companies"
     excerpt: "Are you ready to step into the future of finance? The financial industry has undergone a major transformation in recent years, thanks to the rise of financial technology or “fintech” companies. These innovative startups are revolutionizing the way we save,"
     publishedDateTime: 2023-12-20T10:24:00Z
@@ -273,6 +257,15 @@ related:
     provider:
       name: Finextra
       domain: finextra.com
+    quality: 4
+  - title: "Top six predictions for fintech in 2024"
+    excerpt: "Financial technology, or fintech, is undergoing rapid and transformative changes. As we look ahead to 2024, several key trends are poised."
+    publishedDateTime: 2023-12-22T02:30:00Z
+    webUrl: "https://www.traveldailymedia.com/top-six-predictions-for-fintech-in-2024/"
+    type: article
+    provider:
+      name: Travel Daily Media
+      domain: traveldailymedia.com
     quality: 4
 
 secured: "Cy3nuWq2enEFVVvcoHk3nNu7HBA1yFEpe3HNQzW2aSAW4TIWJjENvSF5Itz517neXo/16E+vlOYt8+OkgGrYqqqHoLbo/qK2tqmBLU7WhYJgjhkOM0MQz0MrgzlrFWCU9YcKUSz9nGRm594QQOBbdw5UToZ8e4OvSHmdNz+j0jEUkv52KP9s+A29uBIoqHqe2MjN1t9rPGnqp8qJjVDhjougfOuyhSrGdCprSG7ZFv8yRTX8x6bzfinG3wGO9sG+5ddQwoNZiU6M1W+Q/4O7p3b6ZwgT4nzm6mBUkLvzkmiy9EXibH/TRJ+VTagMTBbeBbsyVy4HBbT/oiRDgAYxtAkoyfvlImoUQ5kGHjMt34NhksooLUOC41A+ybKZ5ILbEZ+jaWaVN+PnrzsA7EbjzRkc4+CQet05sYsIEV7MpVgSEzIwNf8SWMWLSv+rtKg6ovw9L4VrcDwPc7jvndZzrEuYrU+/pcDdAKRNNTR/p6n1u1HJJo8MunF0serraB1QekOIkoZLRnk/Crd4D40Pqw==;sQ6vEvvKu+80F2wg5bj21A=="

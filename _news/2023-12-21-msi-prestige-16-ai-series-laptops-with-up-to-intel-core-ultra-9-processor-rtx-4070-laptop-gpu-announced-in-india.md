@@ -27,47 +27,80 @@ images:
     isCached: true
 
 related:
-  - title: "MSI introduces new Prestige 16 AI series laptops: All the details"
-    excerpt: "MSI has launched the new Prestige 16 AI series laptops, featuring the Intel Core Ultra 9 processor and weighing only 1.5kg. These laptops have a magne"
-    publishedDateTime: 2023-12-21T18:00:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/msi-introduces-new-prestige-16-ai-series-laptops-all-the-details/articleshow/106191232.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/msi-introduces-new-prestige-16-ai-series-laptops-all-the-details/amp_articleshow/106191232.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/msi-introduces-new-prestige-16-ai-series-laptops-all-the-details/amp_articleshow/106191232.cms"
+  - title: "How Intel Plans To Catch Up to NVIDIA in the AI Arms Race…"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence has taken the world by storm this year. In fact,"
+    publishedDateTime: 2023-12-22T21:29:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/how-intel-plans-to-catch-up-to-nvidia-in-the-ai-arms-race-1032923322"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
     images:
-      - url: "https://static.toiimg.com/thumb/msid-106191255,width-1280,height-720,resizemode-4/106191255.jpg"
-        width: 1280
-        height: 720
+      - url: "https://investorplace.com/wp-content/uploads/2023/12/intc-2023-12-21.png"
+        width: 904
+        height: 564
         isCached: true
-  - title: "MSI dives into the AI laptops era with the new Prestige 16 AI Series"
-    excerpt: "On the other hand, MSI springs into action by coming up with the new MSI AI Engine, which delves into different AI-determined user scenarios to automatically adjust the hardware settings without any manual involvement, including “Intelligent Gaming”, “Intelligent Work”, “Intelligent Meeting” and “Intelligent Entertainment”."
-    publishedDateTime: 2023-12-18T08:17:00Z
-    webUrl: "https://www.absolutegeeks.com/article/geek-stream/msi-dives-into-the-ai-laptops-era-with-the-new-prestige-16-ai-series/"
+  - title: "Intel CEO says Nvidia was \"extremely lucky\" to become the dominant force in AI"
+    excerpt: "Gelsinger began by lamenting Intel's past mistakes, noting that Nvidia CEO Jensen Huang \"got extraordinarily lucky\" with his bet on AI and Intel could have been just as lucky had the company not given up on the Larrabee discrete GPU project. Gelsinger went ..."
+    publishedDateTime: 2023-12-22T10:27:00Z
+    webUrl: "https://www.techspot.com/news/101309-intel-ceo-nvidia-extremely-lucky-become-dominant-force.html"
     type: article
     provider:
-      name: absolutegeeks.com
-      domain: absolutegeeks.com
+      name: TechSpot
+      domain: techspot.com
+    quality: 65
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/12/2023-12-22-image-11.jpg"
+        width: 2560
+        height: 1706
+        isCached: true
+  - title: "Why Intel has joined the race for the AI-enabled laptop"
+    excerpt: "But Intel has been talking up AI-PC and the fact that it’s building AI-dedicated cores into its newest processors for quite some time. Its hardware partners have also dropped AI-PC mentions, and all this suggests that Intel thinks it can still take control of the narrative, or at least some of it."
+    publishedDateTime: 2023-12-19T10:33:00Z
+    webUrl: "https://www.computerweekly.com/blog/Write-side-up-by-Freeform-Dynamics/Why-Intel-has-joined-the-race-for-the-AI-enabled-PC"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
     quality: 39
     images:
-      - url: "https://www.absolutegeeks.com/wp-content/uploads/2023/12/20231107msi1898-res.jpg"
-        width: 1500
-        height: 1000
+      - url: "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-191223-cover-500px.jpg"
+        width: 500
+        height: 354
         isCached: true
-  - title: "MSI’s 2024 Prestige Notebooks Now Has AI Smarts"
-    excerpt: "MSI updates its 13-inch and 16-inch Prestige laptops for 2024 with AI smart and Intel's Core Ultra processors."
-    publishedDateTime: 2023-12-21T00:41:00Z
-    webUrl: "https://unbox.ph/gadget/msi-2024-prestige-ai/"
-    ampWebUrl: "https://unbox.ph/gadget/msi-2024-prestige-ai/amp/"
-    cdnAmpWebUrl: "https://unbox-ph.cdn.ampproject.org/c/s/unbox.ph/gadget/msi-2024-prestige-ai/amp/"
+  - title: "Nvidia's AI Boom And The Ghost Of Cisco's Internet Bust"
+    excerpt: "Nvidia Corporation established dominance in AI advancements, where it already had a foothold in data center market. Find out why NVDA stock is a Sell."
+    publishedDateTime: 2023-12-18T13:45:00Z
+    webUrl: "https://seekingalpha.com/article/4658450-nvidia-nvda-ai-boom-and-ghost-of-cisco-internet-bust"
     type: article
     provider:
-      name: Unbox
-      domain: unbox.ph
-    quality: 39
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 37
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/949315604/image_949315604.jpg?io=getty-c-w1536"
+        width: 1536
+        height: 1024
+        isCached: true
+  - title: "Intel CEO: Nvidia Got 'Extraordinarily Lucky' in Dominating the AI Market"
+    excerpt: "Gelsinger's comments came in response to a professor who asked what Intel was doing along the lines of AI hardware. This query prompted Gelsinger to recap Intel's ill-fated history with GPUs and \"throughput computing\" (as opposed to scalar),"
+    publishedDateTime: 2023-12-20T20:23:00Z
+    webUrl: "https://www.extremetech.com/computing/intel-ceo-nvidia-got-extraordinarily-lucky-in-dominating-the-ai-market"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 18
+  - title: "Nvidia Engineer Responds to Intel CEO Saying It Got Lucky With AI Dominance"
+    excerpt: "The employee, who worked at both Intel and Nvidia, says vision and execution are the reasons for its supremacy, not luck."
+    publishedDateTime: 2023-12-22T20:30:00Z
+    webUrl: "https://www.extremetech.com/computing/nvidia-engineer-responds-to-intel-ceo-saying-it-got-lucky-with-ai-dominance"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 17
 
 secured: "BeMtjKNY96hdblIkqf8N2EV/D445TNK6hrZLaPdRPdCvIDUq9/uwxTav/7gVpUHPHfp2AhHtzL5fiBufanUJyrWgjEvsXWakDSjXD+f5Side1S+rMpMBidChz7ikXuaYHjLVQnP8aX5l89apNKbRAbAygxE9/i7T4z2KOmwK8f1hJkaPhG2Nbbv3uZ6G4pEeUo+pR+Zg+JE+XXVd2CgID85Ispe0p/lhPm9O2eGIPxA8FcOnNdxmMNLKTej6wa2TRM365pC8kJToXSHdvhvcvwxZcQRNgHlNshRtl0tx6XcNfwHfKI118Rs0D7KgFe2qAC/Wy+UqjF2siI5sjQJVk8XF8iAxhA/I9MzR7xuedPs=;XYgepp7OBSpSnvnmRPV38w=="
 ---

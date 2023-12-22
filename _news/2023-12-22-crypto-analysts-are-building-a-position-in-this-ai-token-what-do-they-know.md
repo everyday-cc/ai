@@ -49,6 +49,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Crucial Skills Gaps in the UK Include AI and Strategic Thinking, According to Red Hat"
+    excerpt: "The survey also detailed the biggest barriers to innovation. Read what experts say about how generative AI has impacted the job market."
+    publishedDateTime: 2023-12-22T18:54:00Z
+    webUrl: "https://www.techrepublic.com/article/red-hat-uk-tech-skills-gap-survey/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 64
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2022/10/tr-hr-interview-panel-image.jpeg"
+        width: 1200
+        height: 733
+        isCached: true
   - title: "2023 - the year in AI use cases"
     excerpt: "The urgency to make sense of AI took the diginomica team across ethics, data governance, and into the perils of disinformation on democracy itself. Even the OpenAI drama required dissection. But in an enterprise context, this ultimately comes down to results."
     publishedDateTime: 2023-12-22T00:00:00Z

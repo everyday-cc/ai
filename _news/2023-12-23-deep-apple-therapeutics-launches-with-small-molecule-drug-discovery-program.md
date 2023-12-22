@@ -6,6 +6,9 @@ publishedDateTime: 2023-12-22T17:33:00Z
 originalUrl: "https://cen.acs.org/business/start-ups/Deep-Apple-Therapeutics-launches-small/101/web/2023/12"
 webUrl: "https://cen.acs.org/business/start-ups/Deep-Apple-Therapeutics-launches-small/101/web/2023/12"
 type: article
+quality: 22
+heat: 22
+published: false
 
 provider:
   name: C&EN

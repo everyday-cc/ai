@@ -6,6 +6,9 @@ publishedDateTime: 2023-12-22T16:13:00Z
 originalUrl: "https://www.jewishexponent.com/congregation-beth-el-ner-tamid-examines-what-ai-means-for-judaism/"
 webUrl: "https://www.jewishexponent.com/congregation-beth-el-ner-tamid-examines-what-ai-means-for-judaism/"
 type: article
+quality: 39
+heat: 39
+published: false
 
 provider:
   name: The Jewish Exponent

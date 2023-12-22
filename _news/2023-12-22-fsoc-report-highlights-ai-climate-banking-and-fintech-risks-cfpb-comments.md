@@ -6,6 +6,9 @@ publishedDateTime: 2023-12-22T00:00:00Z
 originalUrl: "https://www.jdsupra.com/legalnews/fsoc-report-highlights-ai-climate-1812314/"
 webUrl: "https://www.jdsupra.com/legalnews/fsoc-report-highlights-ai-climate-1812314/"
 type: article
+quality: 31
+heat: 31
+published: false
 
 provider:
   name: JD Supra

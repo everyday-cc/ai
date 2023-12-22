@@ -6,6 +6,9 @@ publishedDateTime: 2023-12-22T13:13:00Z
 originalUrl: "https://www.businessinsider.com/elon-musk-wants-grok-to-be-the-funniest-ai-chatbot-2023-12"
 webUrl: "https://www.businessinsider.com/elon-musk-wants-grok-to-be-the-funniest-ai-chatbot-2023-12"
 type: article
+quality: 39
+heat: 39
+published: false
 
 provider:
   name: Business Insider

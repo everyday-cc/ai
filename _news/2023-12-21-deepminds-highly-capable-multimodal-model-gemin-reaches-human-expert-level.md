@@ -9,8 +9,8 @@ ampWebUrl: "https://syncedreview.com/2023/12/20/deepminds-highly-capable-multimo
 cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2023/12/20/deepminds-highly-capable-multimodal-model-gemin-reaches-human-expert-level/amp/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: syncedreview
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Exploring Google DeepMind’s New Gemini: What’s the Buzz All About?"
+    excerpt: "Discover the groundbreaking developments in the world of Artificial Intelligence with Google DeepMind's latest creation, Gemini. This article explores Gemini's innovative approach to replicating human perception,"
+    publishedDateTime: 2023-12-21T18:30:00Z
+    webUrl: "https://www.unite.ai/exploring-google-deepminds-new-gemini-whats-the-buzz-all-about/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/12/android-1000x600.png"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Google Gemini AI: Multimodal, GPT-4 Competitor, and More"
     excerpt: "Google Gemini AI models have set a new benchmark in the AI industry and it is being touted to outrank OpenAI's GPT-4 model."
     publishedDateTime: 2023-12-18T02:06:00Z

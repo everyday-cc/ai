@@ -47,6 +47,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 27
+  - title: "2024 forecast: Will generative AI find what it needs to deliver for patients?"
+    excerpt: "leaving their audience calling for new debates on their ethics and safety. But as the medtech industry watches from the wings—hearing that artificial intelligence has finally, finally arrived and will now begin to reshape our lives, for good or ill ..."
+    publishedDateTime: 2023-12-22T09:00:00Z
+    webUrl: "https://www.fiercebiotech.com/medtech/2024-forecast-will-generative-ai-find-what-it-needs-deliver-patients"
+    type: article
+    provider:
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 16
 
 secured: "6qLSmIyJ64QDEPQtJC/yAf2+PY0EnRpNZJwj2y3w2L46D7d4nHArBYlAvOJVJzkupRVCek8yHpfqNDNvkJQ3N+lQfufpk85UpPMNBj6SkTP2iV6Av716mtm216rrhba2xUVbUZHjRRIloa9ay2mJnqzwQ5WdbG57oQ583NniVxfhcqps0i5QjgVEJA0aHUk5vKA3MGdvpbkNbsfHNh8KnpOTHMa+J5HUWVIzbuDymH/+h1bbhODk/FaShCQpk9XqDSRgIoOy69cmiEqH5UoOdqyzcZD16nXHcFQiv2rAai0V6hZec/EOXejZKGqkj2VL0jQzHICvyZyWbONtM13/2QWN23CcHS5lfM1RGwXYUg8=;BFI4NRoY/a3wiT8MS+KGdg=="
 ---

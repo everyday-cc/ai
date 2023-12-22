@@ -52,20 +52,15 @@ related:
       name: CIO
       domain: cio.com
     quality: 39
-  - title: "5 Best Artificial Intelligence Software for Small Businesses in 2024"
-    excerpt: "Artificial intelligence is helping upscale small businesses. You might also like Activision Blizzard Settles Lawsuit for Over $50 Million, Paving the Way for Microsoft’s Takeover BlackRock Engages in Extensive Consultations with SEC Regarding Spot Bitcoin ETF Application Tether’s Strategic Move: Collaborating with FBI and Secret Service to Enhance Platform Security For a long time,"
-    publishedDateTime: 2023-12-18T06:24:00Z
-    webUrl: "https://techstory.in/5-best-artificial-intelligence-software-for-small-businesses-in-2024/"
+  - title: "Shrinking Revenue, Exacting Clients, and AI: This Will Be Asset Management in 2024"
+    excerpt: "The future is never certain but investment firms are bracing for these challenges next year, according to management consultants."
+    publishedDateTime: 2023-12-22T14:33:00Z
+    webUrl: "https://www.institutionalinvestor.com/article/2cm2hc524og7lf42z2ebk/corner-office/shrinking-revenue-exacting-clients-and-ai-this-will-be-asset-management-in-2024"
     type: article
     provider:
-      name: tech
-      domain: techstory.in
-    quality: 37
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2023/12/thisisengineering-raeng-64YrPKiguAE-unsplash-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
+      name: Institutional Investor
+      domain: institutionalinvestor.com
+    quality: 13
 
 secured: "wAQ2eFIRImnR3fJqla9sdXUmWmc0VdPDy4k8KjNuivPiM44rWSqWcJnQIVynLgUPSzwAoK8CnxW8LJ0pY/W3W/Wm89PytvYDTx6h5hxRT5vyJy0EsKqEx6ZOzl9oKroHR9YQnDigRfHzdemgZWVk4AYyncA2BzUvrF5M4aJbv0YsBtBRh5BIIGPL+oryniPDfCW2vJ+yAwfd9I9wrB9V8genEBYXCs67yUk8sYG0twzGxly6SrzaiWPUXboBWKq+82WNyZ/CG3guy4vh07wl3e20IxZEW8SraKQ96E09vhbt2Hq8s4G7AWELW1KdBr5OvXAANNvfXgEsPY3t6qUqvjW9nNcqwFXi3bpxHXL8bCQ=;ZAtESnlDYnzKy4B9n9zLBg=="
 ---

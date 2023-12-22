@@ -74,6 +74,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 35
+  - title: "AWS launches second cloud region in Canada"
+    excerpt: "The cloud region will give customers access to AWS technologies including data analytics, security, machine learning (ML), and artificial intelligence (AI), and consists of three Availability Zones. AWS is planning to invest $17.9bn in Canada through 2037 ..."
+    publishedDateTime: 2023-12-22T00:00:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/aws-launches-second-cloud-region-in-canada/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 19
 
 secured: "lclSOuAwyUF4uvaMG1mKG5rBzvyIK4wKSFPvDeZ0ZCEbcBa1hu5c6QkQUDMe7sEdx/LtZTCw7FDw5fVRbL7q3A2xASOeyvTEvzkcby8Xw/c4Ipwyzr5ZRoQdZjX+idCPbpckW2MZVx05L6jkh3XSX0dvtvvOMbMrWiZjcaVGpriLI4LiVtYQOS8QfIR/Llk5iOXGsdUobm+LOAh2/KzjJ+SEAYk9sRPl47tUiC3GefFeWqzxXXklYwN2Gf3VlUOxxZnxKsFwvzP6bFNpjNPi5IUAVD359q1N+av/yC8bhM0BQp+PSpwLMGONJiKdKk6FUyO4gIxcPHsIhGJjpBeQZ4+eHgx7o6y7DffJ7KgjOwQ=;cqAoesD9dl3Dt9cw+tm/rA=="
 ---

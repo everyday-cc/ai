@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/101238-amd-mi300x-ai-accelerator-fas
 webUrl: "https://www.techspot.com/news/101238-amd-mi300x-ai-accelerator-faster-than-nvidia-h100.html"
 type: article
 quality: 69
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://static.tweaktown.com/news/9/5/95026_904_intel-gaudi-3-ai-accelerator-is-faster-than-nvidias-current-gen-h100-gpu_full.jpg"
         width: 1200
         height: 750
+        isCached: true
+  - title: "Samsung Develops AI Chip With Naver, Claims It's 8x Faster Than NVIDIA's Best Silicon"
+    excerpt: "It appears as if the Samsung and Naver partnership to develop chips for hyperscale AI models is already producing results, with the companies claiming their field-programmable gate array (FPGA) solution is a whopping eight times more power efficient than ..."
+    publishedDateTime: 2023-12-22T15:29:00Z
+    webUrl: "https://hothardware.com/news/samsung-develops-ai-chip-with-naver"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 47
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/63421/content/samsung-naver-hero.jpg"
+        width: 708
+        height: 425
         isCached: true
   - title: "SuperNIC network accelerator for AI cloud data introduced by NVIDIA"
     excerpt: "Learn more about the new SuperNIC network accelerator for AI cloud data launched by NVIDIA. But what is SuperNIC and why does it matter?"

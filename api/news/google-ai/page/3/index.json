@@ -2,6 +2,144 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-11-17-here-is-how-far-we-are-to-achieving-agi-according-to-deepmind.md",
+      "title": "Here is how far we are to achieving AGI, according to DeepMind",
+      "excerpt": "Google DeepMind's latest insight on the journey to artificial general intelligence (AGI), outlining a framework for classifying AGI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/here-is-how-far-we-are-to-achieving-agi-according-to-deepmind/?ref=insightflow",
+      "originalUrl": "https://venturebeat.com/ai/here-is-how-far-we-are-to-achieving-agi-according-to-deepmind/?ref=insightflow",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/11/nuneybits_Vector_art_of_an_artificially_intelligent_brain_with__9d05c3ae-5049-4111-a48e-c2750288d93f-transformed.png?fit=750%2C600&#038;strip=all",
+          "width": 750,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-17T06:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-16-deepminds-new-ai-could-help-forecast-extreme-weather-faster.md",
+      "title": "Deepmind's new AI could help forecast extreme weather faster",
+      "excerpt": "An curved arrow pointing right. New research has shown that an AI model developed by Google-owned Deepmind has outperformed traditional weather forecasters for the first time. The peer-reviewed ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/google-deepmind-ai-weather-forecast-accuracy-2023-11",
+      "originalUrl": "https://www.businessinsider.com/google-deepmind-ai-weather-forecast-accuracy-2023-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6554b3f522cf74a573978da2?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/google-deepmind-ai-weather-forecast-accuracy-2023-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-deepmind-ai-weather-forecast-accuracy-2023-11?amp",
+      "publishedDateTime": "2023-11-15T17:24:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-15-google-deepminds-ai-forecasting-is-outperforming-the-gold-standard-model.md",
+      "title": "Google DeepMind’s AI forecasting is outperforming the ‘gold standard’ model",
+      "excerpt": "Designed by Google DeepMind, GraphCast's 10-day forecast is outperforming the leading industry model at a fraction of the energy cost.",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsci.com/environment/ai-weather-forecast-graphcast/",
+      "originalUrl": "https://www.popsci.com/environment/ai-weather-forecast-graphcast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T22:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Science",
+        "domain": "popsci.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-15-deepmind-says-its-new-ai-system-is-the-worlds-most-accurate-10-day-weather-forecaster.md",
       "title": "DeepMind says its new AI system is the world’s most accurate 10-day weather forecaster",
       "excerpt": "A new AI model called GraphCast provides weather forecasts with \"unprecedented accuracy,\" Google DeepMind claims.",
@@ -1236,145 +1374,6 @@
         "Google AI",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-10-19-evaluating-social-and-ethical-risks-from-generative-ai.md",
-      "title": "Evaluating social and ethical risks from generative AI",
-      "excerpt": "Generative AI systems are already being used to write books, create graphic designs, assist medical practitioners, and are becoming increasingly capable. To ensure these systems are developed and deployed responsibly requires carefully evaluating the potential ethical and social risks they may pose.In",
-      "sourceUrl": null,
-      "webUrl": "https://www.deepmind.com/blog/evaluating-social-and-ethical-risks-from-generative-ai",
-      "originalUrl": "https://www.deepmind.com/blog/evaluating-social-and-ethical-risks-from-generative-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-19T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-10-19-after-50000-hours-this-ai-can-play-pokemon-red.md",
-      "title": "After 50,000 hours, this AI can play Pokémon Red",
-      "excerpt": "Other researchers have used reinforcement learning to study the use of AI in gaming, like with DeepMind’s AlphaGo, which was the first computer program to defeat a professional Go player. But Whidden’s video has garnered so much attention because he ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/10/18/after-50000-hours-this-ai-can-play-pokemon-red/",
-      "originalUrl": "https://techcrunch.com/2023/10/18/after-50000-hours-this-ai-can-play-pokemon-red/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/10/ai-pokemon.jpg?resize=1200,776",
-          "width": 1200,
-          "height": 776,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/10/18/after-50000-hours-this-ai-can-play-pokemon-red/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/18/after-50000-hours-this-ai-can-play-pokemon-red/amp/",
-      "publishedDateTime": "2023-10-18T22:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-how-to-build-a-secure-foundation-for-american-leadership-in-ai.md",
-      "title": "How to build a secure foundation for American leadership in AI",
-      "excerpt": "Google shares the report: Building a Secure Foundation for American Leadership in AI.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/how-to-build-a-secure-foundation-for-american-leadership-in-ai/",
-      "originalUrl": "https://blog.google/technology/ai/how-to-build-a-secure-foundation-for-american-leadership-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

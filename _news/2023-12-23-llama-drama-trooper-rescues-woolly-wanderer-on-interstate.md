@@ -8,6 +8,9 @@ webUrl: "https://komonews.com/news/offbeat/llama-drama-trooper-rescues-woolly-wa
 ampWebUrl: "https://komonews.com/amp/news/offbeat/llama-drama-trooper-rescues-woolly-wanderer-on-interstate-donner-summit-california-interstate-i-80-highway-patrol"
 cdnAmpWebUrl: "https://komonews-com.cdn.ampproject.org/c/s/komonews.com/amp/news/offbeat/llama-drama-trooper-rescues-woolly-wanderer-on-interstate-donner-summit-california-interstate-i-80-highway-patrol"
 type: article
+quality: 44
+heat: 44
+published: false
 
 provider:
   name: komonews

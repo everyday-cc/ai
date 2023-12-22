@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/12/21/2-spectacular-ai-stocks-
 webUrl: "https://www.fool.com/investing/2023/12/21/2-spectacular-ai-stocks-primed-beat-sp-500-2024/"
 type: article
 quality: 77
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2023/12/The-Future-of-Googles-AI-Advancements-and-Applications-We-Can-Expect.jpg"
         width: 650
         height: 450
-        isCached: true
-  - title: "Top 5 Artificial Intelligence (AI) Stocks You Need To Know For 2024"
-    excerpt: "Artificial intelligence was salvation for Wall Street this year and it could heat up in 2024. Click here for top 5 AI stocks for 2024."
-    publishedDateTime: 2023-12-17T21:00:00Z
-    webUrl: "https://seekingalpha.com/article/4658125-top-5-artificial-intelligence-ai-stocks-you-need-to-know-for-2024"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 52
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1050855182/image_1050855182.jpg?io=getty-c-w1536"
-        width: 1536
-        height: 1024
         isCached: true
   - title: "Why These 7 AI Stocks Should Be on Your Radar in 2024"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips 2024 is shaping up to be very similar to 2023 for artificial intelligence."

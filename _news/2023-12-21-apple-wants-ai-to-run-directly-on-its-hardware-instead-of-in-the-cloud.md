@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/apple/2023/12/apple-wants-ai-to-run-direct
 webUrl: "https://arstechnica.com/apple/2023/12/apple-wants-ai-to-run-directly-on-its-hardware-instead-of-in-the-cloud/?ref=birchtree.me"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "Apple Figures Out How to Run Larger AI Models on a Phone"
+    excerpt: "With Qualcomm, Intel, and others adding machine learning hardware to the latest chips, your next gadget might have what it needs to run a local AI. The problem is that large language models are, well, large. There can be trillions of parameters that need ..."
+    publishedDateTime: 2023-12-22T12:01:00Z
+    webUrl: "https://www.extremetech.com/mobile/apple-figures-out-how-to-run-larger-ai-models-on-a-phone"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 19
   - title: "Apple isn't behind on AI, it's looking ahead to the future of smartphones"
     excerpt: "A new research paper shows that Apple has practical solutions to technical AI issues that other firms appear to be ignoring, specifically how to use massive large language modules on lower-memory devices like iPhone."
     publishedDateTime: 2023-12-21T13:11:00Z

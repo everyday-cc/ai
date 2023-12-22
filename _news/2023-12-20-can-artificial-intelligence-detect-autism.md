@@ -5,7 +5,12 @@ excerpt: "Researchers at Duke University have been exploring whether artificial 
 publishedDateTime: 2023-12-19T22:45:00Z
 originalUrl: "https://www.psychologytoday.com/intl/blog/the-science-of-autism/202312/can-artificial-intelligence-detect-autism"
 webUrl: "https://www.psychologytoday.com/intl/blog/the-science-of-autism/202312/can-artificial-intelligence-detect-autism"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-science-of-autism/202312/can-artificial-intelligence-detect-autism?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-science-of-autism/202312/can-artificial-intelligence-detect-autism?amp"
 type: article
+quality: 59
+heat: 59
+published: false
 
 provider:
   name: Psychology Today
@@ -13,7 +18,14 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
-secured: "qGhUvL9pnxIU2KP2GpU5iveNKn/Gj3b/EsS62tXVXFNrgRhXkpayV5Cvh/u6KXyLvzeHzqvmaUOIMBEOpQFauauI50YB9XPxow8rLRhzrKp6AKS6eiYgrIpjAvTKWKDMbX9CUDsj5uUq38H8ymuEitGWUN37r2zAroF5dCeEubyGAYmbXn33DEfXeaJ9Wb2BWes4KqUkHqn92Hggr8eDtAS+8V5w5/f0PopPp6/bzFKyT/LBiSFHbA32xOMNY3o1Sk4/rctCxoIY4PHn+a/fbSiHB+XyvTRqwQ/o3SJvGRDWjK5Da1hl90A7qDxD17ZYMcz7YJ1SEKeXxI7RqcHq+l/lJexM/F7ytwyb9W+JZKiBBtVl5hYXhx/92VOJc73nzpagBwlpjqXGC+pFR1tLTjLUhUx3HDbL0g9sJucDjyDJpfdadYN9qTT9GgPW6eTtBbiVUVT3sIOq7fAF2LxiNn+mWwFAF/eDyQoeVEdh4axZDirE2giAtcY1K2MHWMX4AeH8hZVtxB0cfJDsfPNuVg==;haBQ4tDzyv3UhNJZJLE4jQ=="
+images:
+  - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-12/MDM_0008.JPG.jpg?itok=Gh2nMte_"
+    width: 1528
+    height: 800
+    isCached: true
+
+secured: "+x/7kLvsCXIAwZ0ud6AnNX7KKU9YUIj1UtiUQb9aOQ2io/9XvupJsZbJviWPK4eJGiXd2NJ8JqoDkWLoFUNI1ZR592/CO3wQRQIO3mEQZt9h79G/KLjnnI0o4N4y3GptfAf4HyWs4iQ0kfqZSO5J/IeAAXnMlV6jMG+0P0f7vrwwRsYyeleYAZDtcNLkT89mQIas7HUvn176rmmkdJSzqO7UZG1/Q9RJMPTeXui3Sxj6/hUO0UPyx+cVbBoIDvoSqxZqXE+kqb8UcPG61zcu07H7XS5ANIImuFarjyguz4n3S7L5EyHXLWgKwzKVvMsOaYFLl60Rzwi2yzK8btWllFMIwOTICU9ALOPeLHj71TQ=;1tJda3DSnp4JXL7WDYb33Q=="
 ---
 

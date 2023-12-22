@@ -34,7 +34,7 @@ related:
     provider:
       name: Psychology Today
       domain: psychologytoday.com
-    quality: 59
+    quality: 57
     images:
       - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-12/markus-winkler-tGBXiHcPKrM-unsplash.jpg?itok=4Oj_y_4C"
         width: 1528

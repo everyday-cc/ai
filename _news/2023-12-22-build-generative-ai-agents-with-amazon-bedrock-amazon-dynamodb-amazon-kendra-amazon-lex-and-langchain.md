@@ -6,6 +6,9 @@ publishedDateTime: 2023-12-22T16:38:29Z
 originalUrl: "https://aws.amazon.com/blogs/machine-learning/build-generative-ai-agents-with-amazon-bedrock-amazon-dynamodb-amazon-kendra-amazon-lex-and-langchain/"
 webUrl: "https://aws.amazon.com/blogs/machine-learning/build-generative-ai-agents-with-amazon-bedrock-amazon-dynamodb-amazon-kendra-amazon-lex-and-langchain/"
 type: article
+quality: 87
+heat: 87
+published: true
 
 provider:
   name: AWS

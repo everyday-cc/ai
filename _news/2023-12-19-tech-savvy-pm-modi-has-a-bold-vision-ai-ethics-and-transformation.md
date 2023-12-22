@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "A first, PM Modi uses AI to translate speech from Hindi to Tamil"
-    excerpt: "Inaugurates Kashi Tamil Samagam 2. In a first, Prime Minister Narendra Modi on Sunday used artificial intelligence (AI) for real-time translation of his Hindi spe"
-    publishedDateTime: 2023-12-17T18:49:00Z
-    webUrl: "https://www.tribuneindia.com/news/india/a-first-pm-modi-uses-ai-to-translate-speech-from-hindi-to-tamil-572891"
-    ampWebUrl: "https://m.tribuneindia.com/news/india/a-first-pm-modi-uses-ai-to-translate-speech-from-hindi-to-tamil-572891"
-    cdnAmpWebUrl: "https://m-tribuneindia-com.cdn.ampproject.org/c/s/m.tribuneindia.com/news/india/a-first-pm-modi-uses-ai-to-translate-speech-from-hindi-to-tamil-572891"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 74
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2023/12/2023_12$largeimg_354404949.jpg"
-        width: 866
-        height: 1083
-        isCached: true
   - title: "In A First, AI-Based Tool Used To Translate PM Modi's Speech"
     excerpt: "Prime Minister Narendra Modi's speech at an event in Uttar Pradesh's Varanasi yesterday was translated in real-time using artificial intelligence (AI) technology."
     publishedDateTime: 2023-12-18T07:12:00Z
@@ -90,38 +74,6 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1577423,msid-106161480/narendra-modi.jpg"
         width: 600
         height: 450
-        isCached: true
-  - title: "\"Real Beginning\": Real-Time AI Translation Tool Used During PM Modi's Varanasi Speech"
-    excerpt: "A real-time Artificial Intelligence-based translation tool was used during Prime Minister Narendra Modi's speech at Kashi Tamil Sangamam in Varanasi on Sunday."
-    publishedDateTime: 2023-12-17T17:46:00Z
-    webUrl: "https://www.ndtv.com/india-news/pm-modi-kashi-tamil-sangamam-varanasi-real-time-ai-translation-tool-bhashini-speech-4692786"
-    ampWebUrl: "https://www.ndtv.com/india-news/pm-modi-kashi-tamil-sangamam-varanasi-real-time-ai-translation-tool-bhashini-speech-4692786/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/pm-modi-kashi-tamil-sangamam-varanasi-real-time-ai-translation-tool-bhashini-speech-4692786/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 52
-    images:
-      - url: "https://c.ndtvimg.com/2023-12/t74bqm3g_pm-modi-varanasi-1200-_625x300_17_December_23.jpeg"
-        width: 1200
-        height: 738
-        isCached: true
-  - title: "\"This is a new beginning\": AI translation tool Bhashini used during PM Modi's speech in Varanasi"
-    excerpt: "A real-time Artificial Intelligence-based translation tool was used during Prime Minister Narendra Modi's speech at Kashi Tamil Sangamam in Varanasi on Sunday."
-    publishedDateTime: 2023-12-17T17:52:00Z
-    webUrl: "https://www.devdiscourse.com/article/politics/2749199-this-is-a-new-beginning-ai-translation-tool-bhashini-used-during-pm-modis-speech-in-varanasi"
-    ampWebUrl: "https://www.devdiscourse.com/article/politics/2749199-this-is-a-new-beginning-ai-translation-tool-bhashini-used-during-pm-modis-speech-in-varanasi?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/politics/2749199-this-is-a-new-beginning-ai-translation-tool-bhashini-used-during-pm-modis-speech-in-varanasi?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 46
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/17_12_2023_17_52_36_0239386.jpg?width=1280"
-        width: 1280
-        height: 960
         isCached: true
   - title: "Modi utilizes homegrown AI gadget to speak to people"
     excerpt: "In a historic move, Indian Prime Minister Narendra Modi utilized an AI-based language translation tool during his public speech on Sunday in Varanasi"
@@ -174,15 +126,6 @@ related:
       name: moneycontrol.com
       domain: moneycontrol.com
     quality: 13
-  - title: "'This is a new beginning': AI translation tool Bhashini used during PM Modi's speech in Varanasi"
-    excerpt: "Prime Minister Narendra Modi on Sunday used real-time Artificial Intelligence-based Tamil translation during his speech at Kashi Tamil Sang."
-    publishedDateTime: 2023-12-17T14:38:00Z
-    webUrl: "https://timesofindia.indiatimes.com/india/this-is-a-new-beginning-ai-translation-tool-bhashini-used-during-pm-modis-speech-in-varanasi/articleshow/106066973.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 6
 
 secured: "uGUCQ+OI/cK8LCSoutMCcBJAe5q+cNK2onLvX97jGSh8HUXVZQBOtGEWSUr4Tc4TVqkPqvO/u0NsC63k/dWlDU6KeQHAdRZb9Zv2X5LYWhquLqy5s9jmOmNY0x+ykSkMUcwQyrR9+KTyhzg136wnblaM+jlKHgeI9uzgifA2IKBfSKVYVR4mATD8FAhvmYI0+Lle9/GUI091WCWD4K80m1euEnsPlfgC0nKfOrgcU5vCvtl66iSZBaiMXBvz+RhKJhKDV8isGRi2b3GEiQnXMiV9ry4jpQocovPwSPKqj34cjV5oTyP3PzgebaV8CCZLl8CRysPwESmTmAuhaBPqbwiM62TgG1wF13HYPAn8UOdsVXAMV+VjtSezMpiH1P8J4rcvD+y47Yt/C4itaPKgg8UwPoPJrN6dVqoC9NM9xTXts7I2XdEP7NZmv4GJXh/cyUASGGPBZ8RKEeuylTSIRn89EEEzFXZ6QUf1rOiW4uADJEL7YxPR6J6ZxJOcyr6mDX/WjWGvqrjFvKX8EpNDcA==;rvYlinho1Xkrr9Vk69jcFw=="
 ---

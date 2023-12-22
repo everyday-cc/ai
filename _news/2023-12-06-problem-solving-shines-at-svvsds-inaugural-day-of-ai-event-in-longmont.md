@@ -5,6 +5,8 @@ excerpt: "On Saturday, Hubbell led a demonstration of an AWS DeepRacer, a mini s
 publishedDateTime: 2023-12-06T15:46:00Z
 originalUrl: "https://www.timescall.com/2023/12/05/problem-solving-shines-at-svvsds-inaugural-day-of-ai-event-in-longmont/"
 webUrl: "https://www.timescall.com/2023/12/05/problem-solving-shines-at-svvsds-inaugural-day-of-ai-event-in-longmont/"
+ampWebUrl: "https://www.timescall.com/2023/12/05/problem-solving-shines-at-svvsds-inaugural-day-of-ai-event-in-longmont/amp/"
+cdnAmpWebUrl: "https://www-timescall-com.cdn.ampproject.org/c/s/www.timescall.com/2023/12/05/problem-solving-shines-at-svvsds-inaugural-day-of-ai-event-in-longmont/amp/"
 type: article
 
 provider:
@@ -15,6 +17,12 @@ topics:
   - AWS AI
   - AI
 
-secured: "jt7MQpcw6VkAAs/1lh7KWRaRk8PvTCXTuiOQqSsqfo6KUl1KTW5oO4XSijSye0sAXF0o9g5I89wkjV6EiYcklEBoxdt0qz3D1X7m1663YA6v4flZYnrhloBFpelUMJLQmyDehpNDWYdpSUooADkE35fy+lYFWtZGQGwcBuIjbz6Kc3rLObOxbDQ91W11Yjkd08r1VKxeglTNqxMxQN4CVZSFH6vzkp7hz3eYJSDop3l0X3IAfJjiYY1/Q5fvo0BfN31UHWDPLDL39jisV0kT9/agbYZ1dKUv6uhhwaQ3cB7pSpwIXURmGIBVPjFyvHoeBojjSh+dhLHdF4/smmgEzQzYqAAfe2JktIUlW0Ddg00=;xyWIuYUHnmSpubZwOhW3yA=="
+images:
+  - url: "https://www.timescall.com/wp-content/uploads/2023/12/DCC-L-AIDAY-01.jpg?w=1024&h=768"
+    width: 1024
+    height: 768
+    isCached: true
+
+secured: "wgp43Tv1Em4AK+ijnMNksZoKTXWw8gF8KAIWNHrAeJXL5zkAIfNYXLnZYng+J9zZxKCxkfae76pVyNILEGKsEwDJtKPBzvgOJ4xmK452dPPt8nE9T0sEzU5nSEtblrCLuZSouAAiyIp+zw08BmGMnKnHCR3urJXr+qSSvu5TlumQuHqIxZ3FIhaQdEGLAu7lhEU7Ze0Z5YoXJwJjcEusxyJOndePvtW3RdHLTkMJdZ2G+KoowZZoH15cwQf8Yfo/g41mJjuDBAChc/5P98HR0ChFtXz3LvgSC6tLfjxuZVkqCDJ47ubEZg98Q+5fnJ3ivKI4ZCW2XqZ20tWm6IeHVi17DGQEOaBYbIudvgvS7r8=;/+0K3togelCarj+apdI9dQ=="
 ---
 

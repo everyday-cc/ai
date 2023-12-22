@@ -49,6 +49,20 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "Apple is Working on Running AI on iPhones and iPads"
+    excerpt: "Both papers show that, while Apple may not have generative AI products today that are as high-profile as Microsoft’s Copilot or OpenAI’s ChatGPT, Apple still has a hand in the generative AI space. These findings could eventually be incorporated into Siri, Apple’s voice-based assistant that resides on laptops, tablets and phones."
+    publishedDateTime: 2023-12-22T17:02:00Z
+    webUrl: "https://www.techrepublic.com/article/apple-llm-iphone/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 69
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/12/apple-store-dec-23.jpeg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "Here's how your old iPhone might get on-device generative AI"
     excerpt: "A new Apple research paper has seemingly opened the door for old and new iPhones alike to access on-device generative AI."
     publishedDateTime: 2023-12-22T06:54:00Z
@@ -93,6 +107,29 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Apple research makes headway on using artificial intelligence on iPhones"
+    excerpt: "Apple Inc. (Nasdaq: AAPL) has made huge strides with its artificial intelligence research, according to two recently released papers that would take the AI out of the cloud and put it right into your mobile devices. In November, Apple scientists released a ..."
+    publishedDateTime: 2023-12-22T16:03:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2023/12/22/apple-makes-headway-on-using-ai-on-iphones.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 36
+    images:
+      - url: "https://media.bizj.us/view/img/12597191/apple-iphone-15-lineup-color-lineup-230912*1200xx1960-1103-0-102.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Apple research makes headway on using artificial intelligence on iPhones"
+    excerpt: "Apple Inc. has made huge strides with its artificial intelligence research, according to two recently released papers."
+    publishedDateTime: 2023-12-22T14:26:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/12/22/apple-makes-headway-on-using-ai-on-iphones.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 18
 
 secured: "aRLpis369xxxYd7lz4R1YWYPTWAEzkuT+6XkOK8iwflDPvy3GPMT5mCrlyCONWR23mrobW4j7jSPV0g+dVr3iFOUkg7Z2L1A1tWIMPlImvnH9tTeqsxyQFIyEAHwi61lInwcFIMLJEVttcJVG+EO3WJgcxdj+Knn5+MMzRkA3deyGNXKVLBpsoctcye1K1sqTrTBXRkJYDOGbJ8UoGvFFqwibJpvkQhllj67t+C3WLtQOcsjjRwhb1LzPEOqNKMVdifYaCfZnCq3IZ2NNVMfoHOQo1UvY5jHuWssvxhAhQD8b/iY+++i6oj6A+fnZB8MhrgfRqiir3vBbEjEc/oEysIb6KDi2tMQx5VJ0x664UU=;T4cIpQvNKWKidGwDohYwgA=="
 ---

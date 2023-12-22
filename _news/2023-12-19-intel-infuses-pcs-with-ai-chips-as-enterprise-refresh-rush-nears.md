@@ -7,8 +7,8 @@ originalUrl: "https://www.ciodive.com/news/Intel-AI-PC-processor-Core-Ultra-GPU-
 webUrl: "https://www.ciodive.com/news/Intel-AI-PC-processor-Core-Ultra-GPU-chips/702873/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: CIO Dive
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why Intel has joined the race for the AI-enabled laptop"
-    excerpt: "But Intel has been talking up AI-PC and the fact that it’s building AI-dedicated cores into its newest processors for quite some time. Its hardware partners have also dropped AI-PC mentions, and all this suggests that Intel thinks it can still take control of the narrative, or at least some of it."
-    publishedDateTime: 2023-12-19T10:33:00Z
-    webUrl: "https://www.computerweekly.com/blog/Write-side-up-by-Freeform-Dynamics/Why-Intel-has-joined-the-race-for-the-AI-enabled-PC"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 39
-    images:
-      - url: "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-191223-cover-500px.jpg"
-        width: 500
-        height: 354
-        isCached: true
   - title: "Acer Debuts AI-Ready Swift Go 14 Laptop with New Intel Core Ultra Processors"
     excerpt: "Acer announced new models of the AI-ready Acer Swift Go 14 (SFG14-72)powered byIntel® Core™ Ultraprocessors that feature Intel Arc graphics processing unit (GPU) and Intel AI Boost,"
     publishedDateTime: 2023-12-18T17:08:00Z
