@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Michael Gastauer: The Fintech CEO Pioneering Inclusive Financial Services"
+    excerpt: "Existing and evolving for centuries, banking is considerably among the oldest and most successful industries in the world. Unfortunately, while the global financial services market grew from $25848.74 billion in 2022 to $28115."
+    publishedDateTime: 2023-12-22T08:03:00Z
+    webUrl: "https://techbullion.com/michael-gastauer-the-fintech-ceo-pioneering-inclusive-financial-services/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 23
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/Sports-Events-450x270.png"
+        width: 450
+        height: 270
+        isCached: true
   - title: "Leading Indonesia Fintech JULO Adds Insurance Inclusion to Financial Inclusion with JULO Cares"
     excerpt: "JULO, a leading Indonesian peer-to-peer financial technology company, launched JULO Cares on December 15th 2023, a first-in-market unique insurance cover embedded within the core JULO digital credit solution."
     publishedDateTime: 2023-12-20T06:51:00Z

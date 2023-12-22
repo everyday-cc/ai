@@ -2,6 +2,41 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-12-01-aftas-2023-most-innovative-third-party-technology-vendor-ai-machine-learninggeoquant.md",
+      "title": "AFTAs 2023: Most innovative third-party technology vendor (AI & machine learning)—GeoQuant",
+      "excerpt": "Innovation at GeoQuant At GeoQuant, part of BMI Research, a Fitch Solutions company, innovation is woven into every aspect of the business. The firm uses",
+      "sourceUrl": null,
+      "webUrl": "https://www.waterstechnology.com/awards-rankings/7951513/aftas-2023-most-innovative-third-party-technology-vendor-ai-machine-learning-geoquant",
+      "originalUrl": "https://www.waterstechnology.com/awards-rankings/7951513/aftas-2023-most-innovative-third-party-technology-vendor-ai-machine-learning-geoquant",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T14:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WatersTechnology",
+        "domain": "waterstechnology.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-12-01-momentum-sponsors-machine-learning-in-finance-research-chair-with-stellenbosch-university.md",
       "title": "Momentum sponsors machine learning in finance research chair with Stellenbosch University",
       "excerpt": "Investment management company Momentum Investments has established the Momentum Investments Research Chair for research into machine learning (ML) in finance in conjunction with Stellenbosch University.",
@@ -1321,50 +1356,6 @@
         "AI Ethics",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-11-07-generative-ai-to-boost-productivity-in-financial-services.md",
-      "title": "Generative AI to boost productivity in financial services",
-      "excerpt": "Hype around generative AI and machine learning is continuing to buoy economic sentiment across Europe, with fewer than two-in-five financial services CEOs now expecting a severe downturn in the comin",
-      "sourceUrl": null,
-      "webUrl": "https://www.consultancy.uk/news/35790/generative-ai-to-boost-productivity-in-financial-services",
-      "originalUrl": "https://www.consultancy.uk/news/35790/generative-ai-to-boost-productivity-in-financial-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.consultancy.uk/illustrations/news/spotlight/2023-11-06-043615285-Generative_AI.jpg",
-          "width": 546,
-          "height": 312,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.consultancy.uk/news/amp/35790/generative-ai-to-boost-productivity-in-financial-services",
-      "cdnAmpWebUrl": "https://www-consultancy-uk.cdn.ampproject.org/c/s/www.consultancy.uk/news/amp/35790/generative-ai-to-boost-productivity-in-financial-services",
-      "publishedDateTime": "2023-11-07T04:16:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Consultancy",
-        "domain": "consultancy.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

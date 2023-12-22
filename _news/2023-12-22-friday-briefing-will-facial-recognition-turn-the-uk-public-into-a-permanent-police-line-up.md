@@ -8,8 +8,8 @@ webUrl: "https://www.theguardian.com/world/2023/dec/22/first-edition-facial-reco
 ampWebUrl: "https://amp.theguardian.com/world/2023/dec/22/first-edition-facial-recognition"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2023/dec/22/first-edition-facial-recognition"
 type: article
-quality: 47
-heat: 47
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://i.guim.co.uk/img/media/c429e437a45f2cb6798d21a0ced0f819b9f11f4f/0_324_5859_3515/master/5859.jpg?width=620&quality=85&auto=format&fit=max&s=55176736e2830253dc12d389f86d9f74"
@@ -30,6 +31,6 @@ images:
     height: 372
     isCached: true
 
-secured: "LIO6BT79+GikTpFzy/Ct3Gqulp2KZJ2P2U2RSHMTK3xy/tNqfzEE+DpemshLtlc2vWuMRojonfojG7a9+Gyx9eOxroTp1nQ7XiL+CBlfarAysPJf0t8sY3A7BhVMfrukxQSe3R6pNHbrbR1lpdoenuI56fJrwh9Ws8CfE151DI5MvGIGhPydMaOIl0qfPQa8FuY+McS1rRUW02UtYq7MA3n35dwZL91uqI+8e69O3MUEbkum2oy/IgeTosMSyzaeDv5ML2gmzGpOAvU3wgCYn3BaikbpzR0I1qm3Fc2L32B6nYlH8Zi/5tRQYZks1BqU9cF92EYaT+j8PkieJAuQSJ4CWJrjycjFrO7xs796WQQ=;vh3mh1skz645yfwtLl2tWw=="
+secured: "hJBdCz0MTjaSZ4s/pB5xHGUCKhEpZvI8yNu/Y3EynV6c2zSzNLUB+o1fxt/72BLIr0QnAZzEKTbowqj9f+ZDOhcj8uCnyaPqKxmXml+TUvuwhSgTAjfH47CxBbNuD5G9hcsJj6mlp1pQPxOMoSmXmfjphQGmQaUpEx0HmGBf5nYU7bnz5ylQHWE1sG6stqpKf4vPkCuG2RMc9UmkJCvHKmKV3oxK89aVYXI0bf39OJlAbTr7/8BIzU4T7P3EwsNfulpd8jNoLI8UIZDIi9TVXkjS3MOoYOEII9+I2xc0pXkgZNJV652clO+ZUgNp7HRBAVcUbe0h0LlxVSRKf6ZnpLOHMo4/61jb8pTotX2byoLqN/fizuAGh08NnHez233jsd266MIC5Cj9XIaEu9OGSjBi6wFMT/UxHOar9Pn4PF7C5sGGq23y2USkd9H8aAaXaLk7slAf6dGl6CIFyQRqi0kEmc6fbRJbgcVmhUbJBLkuo9V72dCDEkHzszzWVoGUQQFXwMvonUVlOSD5Mrl7Tg==;LIabpj0Ig6lfDytlOF1jFA=="
 ---
 

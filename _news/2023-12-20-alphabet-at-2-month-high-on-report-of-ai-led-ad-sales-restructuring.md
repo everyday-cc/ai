@@ -19,19 +19,19 @@ topics:
   - AI in Sales
 
 related:
-  - title: "Report: AWS to reorganize sales teams amid slowing cloud revenue growth"
-    excerpt: "Amazon Web Services Inc. is planning a major overhaul of its 60,000-strong sales team, in order to address problems that have loosened its grip on the global cloud computing market at a time when rivals such as Google Cloud and Microsoft Corp. continue to go from strength to strength."
-    publishedDateTime: 2023-12-20T00:30:00Z
-    webUrl: "https://siliconangle.com/2023/12/19/report-aws-reorganize-sales-teams-amid-slowing-cloud-revenue-growth/"
+  - title: "Google might already be replacing some Ad sales jobs with AI"
+    excerpt: "Google is wrapping its head around the idea of being a generative AI company. The \"code red\" called in response to ChatGPT has had Googlers scrambling to come up with AI features and ideas. Once all the dust settles on that work,"
+    publishedDateTime: 2023-12-21T17:54:00Z
+    webUrl: "https://arstechnica.com/gadgets/2023/12/report-google-ads-restructure-could-replace-some-sales-jobs-with-ai/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 56
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 84
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/aws_logo_smile_1200x630.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2017/05/google-760x380.jpg"
+        width: 760
+        height: 380
         isCached: true
 
 secured: "/0+jSoYSOR2a4jvq6GsVAS8rjHFWLNV3j93bdKy4ah54xnML39vnAzGiS2oDGoCTGi3J4SLnyz8aYrLGSNb92mwr5OeBLJw/tVl+m6HNvqxgIeLBfYwWELpRIjUEqQIdwjz6Rl4dnrJ8cFj8z9U94W1NkgORV29tblG/N5pr9EnwgEXud62xRSagAkzhbE3nqsHs5PdAUebo2DnBWLiJ/x8rNRVBqvRZYB/Ba/qaFFuW6Yg9KRtdEkeSjlESdw7ZIRQ5gcYDW6iyEm8WHJTc57EHDM0R1QontvCNOTt4NAorvwoB+X+Z59qIVkPnFjHBgYpSzpBULgOwRy+J133hwfZQ71EhQ2kahotXGxL4sHPQBvyi8ENj0l9opfKkBg/2AKbYO1lY4Px+jdU7YkiyDPrZTlmBb/zR5TEqGYRB44Wix1y8mUigxsLEiZqsxhTJtG9Gf3FR6nCTDZtP2V2YlXqaQBzBrcjZStdbSHDIFMu9BHL3b+GkQ1ql07bFWJBB77EAbdL4SWyMASf8WOkIgg==;ScxTjWbtwMQBMrij0xLKRg=="

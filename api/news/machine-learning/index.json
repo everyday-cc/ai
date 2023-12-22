@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-22-revolutionising-risk-management-the-impact-of-ai-and-ml-in-the-financial-services-industry.md",
+      "title": "Revolutionising Risk Management: The Impact of AI and ML in the Financial Services Industry",
+      "excerpt": "AI and ML have the potential to transform risk management strategies in the financial services industry. Through Federated Machine Learning, transaction monitoring and risk discovery are enhanced. While challenges and barriers persist, proactive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.khaleejtimes.com/business-technology-review/revolutionising-risk-management-the-impact-of-ai-and-ml-in-the-financial-services-industry-2",
+      "originalUrl": "https://www.khaleejtimes.com/business-technology-review/revolutionising-risk-management-the-impact-of-ai-and-ml-in-the-financial-services-industry-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.khaleejtimes.com?uuid=78b8ae0b-47c0-59d7-88ed-9f31f7ef332a&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.91463&width=1200&height=675&x=1.0E-5&y=1.0E-5.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.khaleejtimes.com/business-technology-review/revolutionising-risk-management-the-impact-of-ai-and-ml-in-the-financial-services-industry-2?amp=1",
+      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/business-technology-review/revolutionising-risk-management-the-impact-of-ai-and-ml-in-the-financial-services-industry-2?amp=1",
+      "publishedDateTime": "2023-12-22T07:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Khaleej Times",
+        "domain": "khaleejtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-12-20-five-machine-learning-types-to-know.md",
       "title": "Five machine learning types to know",
       "excerpt": "Explore the five major machine learning types, including their unique benefits and capabilities, that teams can leverage for different tasks.\nThe post Five machine learning types to know appeared first on IBM Blog.\n",
@@ -626,10 +670,10 @@
     {
       "path": "_news/2023-12-14-3-machine-learning-stocks-to-turn-10000-into-1-million-december-2023.md",
       "title": "3 Machine Learning Stocks to Turn $10,000 Into $1 Million: December 2023",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Machine learning stocks are rising in popularity. The interest in AI and",
+      "excerpt": "The post 3 Machine Learning Stocks to Turn $10,000 Into $1 Million: December 2023 appeared first on InvestorPlace.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/3-machine-learning-stocks-to-turn-10000-into-1-million-december-2023-1032900548",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-machine-learning-stocks-to-turn-10000-into-1-million-december-2023-1032900548",
+      "webUrl": "https://www.nasdaq.com/articles/3-machine-learning-stocks-to-turn-%2410000-into-%241-million%3A-december-2023",
+      "originalUrl": "https://www.nasdaq.com/articles/3-machine-learning-stocks-to-turn-%2410000-into-%241-million%3A-december-2023",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -639,21 +683,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-14T11:50:00Z",
+      "publishedDateTime": "2023-12-14T10:50:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -662,9 +697,9 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "AI in Finance",
         "AI",
-        "AI in Finance"
+        "Machine Learning"
       ]
     },
     {
@@ -1298,58 +1333,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-07-is-machine-learning-random-and-why-should-you-care.md",
-      "title": "Is Machine Learning Random? And Why Should You Care?",
-      "excerpt": "Let's start with a common problem that people have, especially when they are just starting out with machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/12/06/is-machine-learning-random-and-why-should-you-care/",
-      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/12/06/is-machine-learning-random-and-why-should-you-care/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6570cd8f70a0ecad420089d5/0x0.jpg?format=jpg&crop=1601,900,x0,y183,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/12/06/is-machine-learning-random-and-why-should-you-care/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/12/06/is-machine-learning-random-and-why-should-you-care/amp/",
-      "publishedDateTime": "2023-12-06T19:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

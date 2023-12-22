@@ -2,6 +2,200 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-12-20-augmentive-artificial-intelligence-rommell-martinez-on-valmiz-multi-agent-human-centric-ai.md",
+      "title": "Augmentive Artificial Intelligence: Rommell Martínez on Valmiz™, Multi-Agent, Human-Centric AI",
+      "excerpt": "A Novel Multi-Agent Human-Centric Approach By: Dawn Zoldi (Colonel USAF Ret.) ASTN Group™, creators of the Valmiz™ Augmentive Artificial Intelligence (AAI) recently cap",
+      "sourceUrl": null,
+      "webUrl": "https://dronelife.com/2023/12/19/augmentive-artificial-intelligence-rommell-martinez-on-valmiz-multi-agent-human-centric-ai/",
+      "originalUrl": "https://dronelife.com/2023/12/19/augmentive-artificial-intelligence-rommell-martinez-on-valmiz-multi-agent-human-centric-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dronelife.com/wp-content/uploads/2023/12/Artificial-Intelligence-e1703017244404.jpg",
+          "width": 612,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://dronelife.com/2023/12/19/augmentive-artificial-intelligence-rommell-martinez-on-valmiz-multi-agent-human-centric-ai/amp/",
+      "cdnAmpWebUrl": "https://dronelife-com.cdn.ampproject.org/c/s/dronelife.com/2023/12/19/augmentive-artificial-intelligence-rommell-martinez-on-valmiz-multi-agent-human-centric-ai/amp/",
+      "publishedDateTime": "2023-12-19T19:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dronelife",
+        "domain": "dronelife.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Autos",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-12-20-deal-alert-score-500-off-the-samsung-jet-bot-ai-robot-vacuum.md",
+      "title": "Deal alert: Score $500 off the Samsung Jet Bot AI+ Robot Vacuum",
+      "excerpt": "This is a rare chance to score the Samsung Jet Bot AI Plus Robot Vacuum for $799.99 and upgrade your smart home.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/samsung-jet-bot-ai-plus-robot-vacuum-deal-3395866/",
+      "originalUrl": "https://www.androidauthority.com/samsung-jet-bot-ai-plus-robot-vacuum-deal-3395866/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2023/12/Samsung-Jet-Bot-AI-Plus-Robot-Vacuum-Promo-Image.jpg",
+          "width": 1276,
+          "height": 718,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-19T18:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-12-20-patronus-ai-finds-alarming-safety-gaps-in-leading-ai-systems.md",
+      "title": "Patronus AI finds ‘alarming’ safety gaps in leading AI systems",
+      "excerpt": "Patronus AI releases SimpleSafetyTests, a new diagnostic test suite for large language models that found critical safety gaps and vulnerabilities across popular AI systems like ChatGPT.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/patronus-ai-finds-alarming-safety-gaps-in-leading-ai-systems/",
+      "originalUrl": "https://venturebeat.com/ai/patronus-ai-finds-alarming-safety-gaps-in-leading-ai-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/12/nuneybits_abstract_painting_of_a_yellow_triangle_caution_sign_w_bc525096-1280-41a0-adf7-04d30fe92758-transformed.webp?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-19T17:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-12-20-ooredoo-migrates-rise-with-sap-to-microsoft-azure-in-qatar.md",
+      "title": "Ooredoo migrates RISE with SAP to Microsoft Azure in Qatar",
+      "excerpt": "Ooredoo Group has announced the successful migration of its cloud ERP landscape, RISE with SAP, from Amsterdam to the Microsoft cloud data centre region in Qatar.The migration is",
+      "sourceUrl": null,
+      "webUrl": "https://www.gulf-times.com/article/673887/business/ooredoo-migrates-rise-with-sap-to-microsoft-azure-in-qatar",
+      "originalUrl": "https://www.gulf-times.com/article/673887/business/ooredoo-migrates-rise-with-sap-to-microsoft-azure-in-qatar",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gulf-times.com/gulftimes/uploads/images/2023/12/19/thumbs/300x300/116762.jpg",
+          "width": 253,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-19T17:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf Times",
+        "domain": "gulf-times.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-20-the-widening-web-of-effective-altruism-in-ai-security-the-ai-beat.md",
       "title": "The widening web of effective altruism in AI security | The AI Beat",
       "excerpt": "A follow up on a VentureBeat story last week adds context about the web of effective altruism connections in AI security circles.",
@@ -10,7 +204,7 @@
       "originalUrl": "https://venturebeat.com/ai/the-widening-web-of-effective-altruism-in-ai-security-the-ai-beat/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -986,204 +1180,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-12-18T22:07:22Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-19-openai-announces-preparedness-framework-to-track-and-mitigate-ai-risks.md",
-      "title": "OpenAI announces ‘Preparedness Framework’ to track and mitigate AI risks",
-      "excerpt": "OpenAI seeks to reassure the public with new protocols to address AI's emerging risks after recent turmoil. But experts say the company still lags rival Anthropic in building safety into development.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/openai-announces-preparedness-framework-to-track-and-mitigate-ai-risks/",
-      "originalUrl": "https://venturebeat.com/ai/openai-announces-preparedness-framework-to-track-and-mitigate-ai-risks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/12/nuneybits_Artificial_Intelligence_doomsday_edfe17ba-4015-4977-8da5-65f4220bddca-transformed.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-18T21:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-19-sofi-coin-hood-upst-or-afrm-whos-winning-the-fintech-stocks-race.md",
-      "title": "SOFI, COIN, HOOD, UPST, or AFRM: Who’s Winning the Fintech Stocks Race?",
-      "excerpt": "Stock Market News, Stock Advice & Trading Tips There’s no denying that the past few years have been difficult for",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/sofi-coin-hood-upst-or-afrm-whos-winning-the-fintech-stocks-race-1032910353",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/sofi-coin-hood-upst-or-afrm-whos-winning-the-fintech-stocks-race-1032910353",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2023/11/koyfin_20231110_013904628.png",
-          "width": 2400,
-          "height": 1240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-18T21:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-18-iso-42001-a-new-foundational-global-standard-to-advance-responsible-ai.md",
-      "title": "ISO 42001: A new foundational global standard to advance responsible AI",
-      "excerpt": "Artificial intelligence (AI) is one of the most transformational technologies of our generation and provides opportunities to be a force for good and drive economic growth. The growth of large language models (LLMs), with hundreds of billions of parameters, has unlocked new generative AI use cases to",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/iso-42001-a-new-foundational-global-standard-to-advance-responsible-ai/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/iso-42001-a-new-foundational-global-standard-to-advance-responsible-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/12/18/iso-42001-foundations.jpg",
-          "width": 1000,
-          "height": 378,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-18T21:07:51Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-18-how-dns-traffic-steering-extends-the-business-value-of-hybrid-and-multicloud-networking.md",
-      "title": "How DNS traffic steering extends the business value of hybrid and multicloud networking",
-      "excerpt": "IBM NS1 Connect and IBM Hybrid Cloud Mesh deliver optimized connectivity that make applications faster, highly available and less expensive. \nThe post How DNS traffic steering extends the business value of hybrid and multicloud networking appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-dns-traffic-steering-extends-the-business-value-of-hybrid-and-multicloud-networking/",
-      "originalUrl": "https://www.ibm.com/blog/how-dns-traffic-steering-extends-the-business-value-of-hybrid-and-multicloud-networking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-18T19:14:02Z",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",

@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "Here's how your old iPhone might get on-device generative AI"
+    excerpt: "A new Apple research paper has seemingly opened the door for old and new iPhones alike to access on-device generative AI."
+    publishedDateTime: 2023-12-22T06:54:00Z
+    webUrl: "https://www.androidauthority.com/apple-on-device-generative-ai-iphones-research-3396717/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 67
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2022/09/Apple-iPhone-14-logo.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Apple’s AI research signals ambition to catch up with Big Tech rivals"
     excerpt: "Apple’s rivals, such as Samsung, are gearing up to launch a new kind of “AI smartphone” next year. Counterpoint estimated more than 100mn AI-focused smartphones would be shipped in 2024, with 40 per cent of new devices offering such capabilities by 2027."
     publishedDateTime: 2023-12-21T12:38:00Z
@@ -65,6 +79,6 @@ related:
       domain: ft.com
     quality: 19
 
-secured: "+4hOdtzJYPcjXKccjqHJoHAANnIm2MGH4FfKLNjSobj3SzcbMQyufIp7XerUUFfdYQHHtTks60uGlX5q2fxNkP4NDB+ZvVIY4UvghnAKCC0bly0gbxaT4uOnS3hSD1mQO4wbirZ8PsVmoZx2cXEseMszurOlZIKZSEDo3Pk41MwePmgEWp7GqNpHfN6hm1hO5FZhAR5xojQZRhZY7KYY6GH8TKtUAnQDejqR10CWMIIeJUGm1XsJloaN5Kdf8TQNf++9I5axU5LxOJpyQolYbvuVDhN+nCMH6LRgbLqG+ZxNBULyCrfbGl7JupuLD9ityKBz+GCpp3ShvxvdZDUCUaUTg/YNE1VTybsOTzPlmok=;qQtg+lri5X7qaRiQtYfLMA=="
+secured: "J4lTD4WANv2d11Z06mD460F7TdcNtqTz7qZTUxAttDtoYxOemrPPi4ouIksvsltAZqFWyMuykvkl7aT6QvuCQOHG0hrDzaVP1YJkwuJ3PIi9++g+mlFM6GQB1vG8pcdEqnn/im46vvJpQeeEltIxxRg305sTs/lukzyuVfFXqBi2XhTtlJGsbGDT2lt2d2VoEJx3/yu7VBCr/YAOeAVrmutd1rh53K15Z1vV5DNXTiILj0Y9UTj5tdt0megBdh7ewbZaqrhh7aqfaPCxjS89jjFLQ+WvXLmVASk9LdSIFAFiPSAN8Le1dHEm00DPdI+uSI5qMHgWccSCf+WjLYBkkA9+fPKJkD/PXCislvWvLRZVXXfDngrBn7czFvoOGhVkA+vWUIx5CRCnADzr7O9PtTR1QPA4veVEj4i6ijpv8THx4ZH8kLXGRYefAVDyUREvycRk8NVCRQOzyANUUPdcR7BMmGyVLQJYsKYE0P9PJnuulsUxsdLtDT1Bs3ppkOR4Ste1mN9CUCCJK2gKpQN4OA==;NmrtgirdiS39vb6MqLo9ng=="
 ---
 

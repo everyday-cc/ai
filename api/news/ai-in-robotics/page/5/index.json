@@ -2,6 +2,103 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-11-10-ai-robotics-gpt-moment-is-near.md",
+      "title": "AI robotics’ ‘GPT moment’ is near",
+      "excerpt": "Building AI-powered robots that can learn how to interact with the physical world will enhance all forms of repetitive work.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/11/10/ai-robotics-gpt-moment-is-near/",
+      "originalUrl": "https://techcrunch.com/2023/11/10/ai-robotics-gpt-moment-is-near/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/07/robustai.jpg?resize=1200,957",
+          "width": 1200,
+          "height": 957,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/11/10/ai-robotics-gpt-moment-is-near/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/10/ai-robotics-gpt-moment-is-near/amp/",
+      "publishedDateTime": "2023-11-10T14:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "Natural Language Processing",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-11-10-3-millionaire-maker-robotics-stocks-to-buy-in-november-2023.md",
+      "title": "3 Millionaire-Maker Robotics Stocks to Buy in November 2023",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Robotics and automation are a necessity for the future. Be it for operational",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3-millionaire-maker-robotics-stocks-to-buy-in-november-2023-1032806448",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-millionaire-maker-robotics-stocks-to-buy-in-november-2023-1032806448",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-10T11:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-09-an-industrial-robot-crushes-worker-to-death-at-a-plant-in-south-korea.md",
       "title": "An industrial robot crushes worker to death at a plant in South Korea",
       "excerpt": "SEOUL, South Korea -- An industrial robot crushed a worker to death at a vegetable packaging plant in South Korea, police said Thursday, as they investigate whether the machine was unsafe or had potential defects.",
@@ -1259,101 +1356,6 @@
         "name": "Benzinga.com",
         "domain": "benzinga.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-bidens-executive-order-on-ai-is-a-good-start-experts-say-but-not-enough.md",
-      "title": "Biden’s Executive Order on AI Is a Good Start, Experts Say, but Not Enough",
-      "excerpt": "A new executive order signed this week sets the stage for federal AI standards and requirements and moves beyond previous voluntary agreements with AI companies",
-      "sourceUrl": null,
-      "webUrl": "https://www.scientificamerican.com/article/bidens-executive-order-on-ai-is-a-good-start-experts-say-but-not-enough/",
-      "originalUrl": "https://www.scientificamerican.com/article/bidens-executive-order-on-ai-is-a-good-start-experts-say-but-not-enough/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.scientificamerican.com/sciam/cache/file/06C51E75-1BE8-4025-B090C693B2B26F8F.jpg",
-          "width": 790,
-          "height": 496,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.scientificamerican.com/article/bidens-executive-order-on-ai-is-a-good-start-experts-say-but-not-enough/?amp=true",
-      "cdnAmpWebUrl": "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/bidens-executive-order-on-ai-is-a-good-start-experts-say-but-not-enough/?amp=true",
-      "publishedDateTime": "2023-10-31T21:22:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Scientific American",
-        "domain": "scientificamerican.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-quadruped-robots-may-one-day-give-seeing-eye-dogs-a-run-for-their-money.md",
-      "title": "Quadruped robots may one day give seeing-eye dogs a run for their money",
-      "excerpt": "While seeing-eye dogs can be very helpful to the blind, raising and training them is a long and expensive process. Scientists have therefore recently started investigating the possibility of outsourcing the job to dog-like quadruped robots.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/robotics/quadruped-robots-seeing-eye-dogs/",
-      "originalUrl": "https://newatlas.com/robotics/quadruped-robots-seeing-eye-dogs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/9cb492e/2147483647/strip/true/crop/1000x525+0+71/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fac%2F9d%2F0931865948549d80f73317997bfe%2Frobot-seeing-eye-dog-1.png&na.image_optimisation=0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T20:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

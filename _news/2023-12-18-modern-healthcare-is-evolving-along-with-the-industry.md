@@ -105,6 +105,20 @@ related:
         width: 1214
         height: 683
         isCached: true
+  - title: "Chip Industry Week In Review"
+    excerpt: "GenAI smartphones; BEV sales up; proprietary vs. commercial chiplets; RISC-V verification; atomic RF; smarter tire sensors; L2/L3 simulation; SMIC breakthrough; design-house revenue way up."
+    publishedDateTime: 2023-12-22T08:01:00Z
+    webUrl: "https://semiengineering.com/chip-industry-week-in-review-16/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 39
+    images:
+      - url: "https://semiengineering.com/wp-content/uploads/AdobeStock_486012090-02-13-23-scaled.jpeg?fit=2560%2C1440&ssl=1"
+        width: 2560
+        height: 1440
+        isCached: true
 
 secured: "QYpbm6SZOLucpkAkRMjDPv6ZlwVRKsdO012cXcF2x+4RHxGoPZzPCocOUjswa0lqmO8oKKZj8iOrfUoEul14T7UIihxWy2ihg+zBSqE3T6cN6Pfa1OzqwNi0iVD0LMWW3sSNymjyOfxOQxzcfwdO6hEwpuDjdgHNCMN+Xw59fH+j67Tzy/clbUGMET++cmG11MLZzXcScDBJK8NI64AASuNeWVw5jslv/IKiPxCrYvN5Uo9V2CNA6Xa8W9aLzazz2Oc9mboXk/Ybkk+E/2fPexumZ5Q7fSiWrVGGVEByuvNSu+TjRWuzbap3VfVULHi5CPJEQPl3PB4abXUdlx28yeAGyKHNiKORFt0U5ke3uQ07y5n/85820Qbl+tYg3hYMuL0Yz0Bak9J2dk+Bl9cye6tDd9Ml36l0tC8uGjBRLfQICAIqBT1l6yHu+P93cr7UvtO8liD9yp5kiI3rvXPtycRCHilOCihMeJsaBM3BiCfsyacsI/hM0QsHFLmjjdknp/3QkD8lOEjxn2a9M5a3oQ==;aq4XWXIh1rUzStVHPSGsWg=="
 ---

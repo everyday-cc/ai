@@ -3,13 +3,13 @@ category: news
 title: "Can Artificial Intelligence Detect Autism?"
 excerpt: "Researchers at Duke University have been exploring whether artificial intelligence (AI) can be used for autism screening in real-world settings, such as primary care. Their goal is to develop an objective,"
 publishedDateTime: 2023-12-19T22:45:00Z
-originalUrl: "https://www.psychologytoday.com/za/blog/the-science-of-autism/202312/can-artificial-intelligence-detect-autism"
-webUrl: "https://www.psychologytoday.com/za/blog/the-science-of-autism/202312/can-artificial-intelligence-detect-autism"
-ampWebUrl: "https://www.psychologytoday.com/za/blog/the-science-of-autism/202312/can-artificial-intelligence-detect-autism?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-science-of-autism/202312/can-artificial-intelligence-detect-autism?amp"
+originalUrl: "https://www.psychologytoday.com/intl/blog/the-science-of-autism/202312/can-artificial-intelligence-detect-autism"
+webUrl: "https://www.psychologytoday.com/intl/blog/the-science-of-autism/202312/can-artificial-intelligence-detect-autism"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-science-of-autism/202312/can-artificial-intelligence-detect-autism?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-science-of-autism/202312/can-artificial-intelligence-detect-autism?amp"
 type: article
-quality: 59
-heat: 59
+quality: 57
+heat: 57
 published: false
 
 provider:
@@ -17,7 +17,6 @@ provider:
   domain: psychologytoday.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
@@ -26,6 +25,6 @@ images:
     height: 800
     isCached: true
 
-secured: "pVqc0A2QffsBGMwF38ObW0vno3riVSyBaP3Gm2XSUSLXCkqN6FJHv004mi3HicDja5ayIC4kR9x+01Jm2sC1FsyuSviTHa8Ge4G+bgpOM7iqkNqcxwCI1h2eBQjaTfCedLIebclCzZaF+xYJ1/8H8ZEiyciVln0fgg/uTh6BcNvgtyi6QXXf4gd1icy7ZI+n4gv/6BbtJFKAAkc6ulGPto5KXIMw9wGSt3A4gharvOCH6ZaQq/7wgQcXra5HF3CvbW7j2wmM5LkNPggq+mPTXzR3rkgH+AiBxOFWUdOtWJ8ndZC/aQDsWQLDNW81dLrzWXh03oUYB5O29iqrmNJLX6Tjq1oryP3K6a/Wp0s3y5Q=;hxnQLJ+CXGN702cF1U8tzQ=="
+secured: "glpLPMLH9HfwVSj0ykIi4Z7pNtjvCpRMohGjqsDJGtnDp/6Y8BexLcvrpx5yfudQm58+qZ3NIiJwKsoKqzIvlun1nL4tDwbMVKPGltdGb85E6cSgJkc0MYQ7jMY/4zvVugkmUX2k/agjvx+KD9oLq6nLjANBI7t/UbShagmQ96GKnfJsCcN5fHFg2dsAWfLsU5bg+l+R25arEMxN9+SuONUmwm5UVVhRU9QtecH7sRr6zDZkyjXp1Ft1p6OrR9VQAsrMpZIp75v26Jgt9yI/o/fKhmOkby9GIX3QXFVOr1I3K3iQe+1SiH41A04BqTA2SxsP0ljOcc0bj8mKAsjcLvMPA3vwtHEsc17QA4EJcw0=;l57ySz0qtYMWIuTnPbn6CQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-12-18/new-jersey-doct
 webUrl: "https://www.bloomberg.com/news/articles/2023-12-18/new-jersey-doctors-test-using-ai-for-hospice-care-decisions"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -22,15 +22,22 @@ topics:
   - AI
 
 related:
-  - title: "When will you die? Meet the 'doom calculator,' an artificial intelligence algorithm"
-    excerpt: "Danish researchers created the life2vec machine-learning computer model, which was able to correctly predict the deaths of millions."
-    publishedDateTime: 2023-12-22T00:03:00Z
-    webUrl: "https://www.usatoday.com/story/tech/2023/12/21/artificial-intelligence-ai-death-calculator/72003778007/"
+  - title: "New artificial intelligence tool can help in nerve disorder screening"
+    excerpt: "If the car is moving on the road, you want to track the car, said study corresponding author Phaneendra K Yalavarthy, Professor at CDS.In the same way, we are able to track the nerve throughout the video,"
+    publishedDateTime: 2023-12-22T08:07:00Z
+    webUrl: "https://www.devdiscourse.com/article/science-environment/2754800-new-artificial-intelligence-tool-can-help-in-nerve-disorder-screening"
+    ampWebUrl: "https://www.devdiscourse.com/article/science-environment/2754800-new-artificial-intelligence-tool-can-help-in-nerve-disorder-screening?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2754800-new-artificial-intelligence-tool-can-help-in-nerve-disorder-screening?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 11
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 57
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/12_04_2023_13_46_43_075506.jpg?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "lmYii3lu9V3zMlu8sSAZ8aJANVfq51QMIRfk6mHThmB2Mqhsg6wlyIaYjfhcqjOK8JdEag0kVv1V8Saz5zUYVAruQqiFOnzn4LUggph7SOp8DklyjW2Vql4tW7ecsqtPsBzv4c+hecWMr57H+QrTYYUhYsUqjhef7Uc9NgVHw1W1S96GoYY989Uejr9o8lqXEVLB+CRHI84ityLzvJ0oWem1IASHpQgt+8zxTvg9apC8z60mcR/v8H/UtMa3auZqoC9p7s8LyULYqOlehLWjJIvJ8cp/lPFaLVQq+UfPTJBt6sBFIlRY29VQO+wF+TJwDZVPadVxNuL9bhIB0y+5lk4cr+B/DyqW1D2f+8NBaOI=;WC/6EGRpVt48hcczx8JY2w=="
 ---

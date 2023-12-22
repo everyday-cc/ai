@@ -169,20 +169,6 @@ related:
       name: TechRadar
       domain: techradar.com
     quality: 57
-  - title: "Microsoft Launches Robust AI 'Small Language Model' For Researchers"
-    excerpt: "Microsoft has released its newest compact“small language model” titled Phi-2 that continues to perform at par or better than"
-    publishedDateTime: 2023-12-17T08:09:00Z
-    webUrl: "https://menafn.com/1107609442/Microsoft-Launches-Robust-AI-Small-Language-Model-For-Researchers"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 56
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?537922"
-        width: 419
-        height: 250
-        isCached: true
   - title: "How to Use Microsoft Copilot’s New Suno AI Music Creation Tool"
     excerpt: "Microsoft has unveiled a new feature for its Copilot chatbot, an integration with a tool called Suno that lets anyone make music with AI."
     publishedDateTime: 2023-12-21T15:17:00Z

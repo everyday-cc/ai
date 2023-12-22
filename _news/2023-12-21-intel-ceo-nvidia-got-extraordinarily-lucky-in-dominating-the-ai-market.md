@@ -27,7 +27,7 @@ related:
     provider:
       name: TweakTown
       domain: tweaktown.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://static.tweaktown.com/news/9/5/95108_501_intel-ceo-on-nvidia-ai-gpu-dominance-they-were-extraordinarily-lucky_full.png"
         width: 1500

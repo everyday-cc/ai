@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jenniferkitepowell/2023/12/19/how-creat
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferkitepowell/2023/12/19/how-creators-can-use-ai-to-be-more-efficient-and-still-be-creative/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "People are using artificial intelligence to create avatars of dead loved ones"
-    excerpt: "Companies like HereAfter AI and StoryFile are offering people the chance to record voice recordings and videos before they die so their family can still interact with them when they are gone"
-    publishedDateTime: 2023-12-17T08:00:00Z
-    webUrl: "https://www.mirror.co.uk/news/us-news/people-using-artificial-intelligence-create-31657680"
-    ampWebUrl: "https://www.mirror.co.uk/news/us-news/people-using-artificial-intelligence-create-31657680.amp"
-    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/us-news/people-using-artificial-intelligence-create-31657680.amp"
-    type: article
-    provider:
-      name: The Mirror
-      domain: mirror.co.uk
-    quality: 54
-    images:
-      - url: "https://i2-prod.mirror.co.uk/incoming/article31661253.ece/ALTERNATES/s1200/0_AI-robot-controlling-future-hologram-UI.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "9 AI Tools Every Creator Must Know About"
     excerpt: "AI was once optional for creators, but now it’s essential. With clever use of AI tools, every creator can become known for their work on a whole new level."
     publishedDateTime: 2023-12-19T13:00:00Z

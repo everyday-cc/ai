@@ -38,22 +38,6 @@ related:
         width: 628
         height: 478
         isCached: true
-  - title: "People are using artificial intelligence to create avatars of dead loved ones"
-    excerpt: "Companies like HereAfter AI and StoryFile are offering people the chance to record voice recordings and videos before they die so their family can still interact with them when they are gone"
-    publishedDateTime: 2023-12-17T08:00:00Z
-    webUrl: "https://www.mirror.co.uk/news/us-news/people-using-artificial-intelligence-create-31657680"
-    ampWebUrl: "https://www.mirror.co.uk/news/us-news/people-using-artificial-intelligence-create-31657680.amp"
-    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/us-news/people-using-artificial-intelligence-create-31657680.amp"
-    type: article
-    provider:
-      name: The Mirror
-      domain: mirror.co.uk
-    quality: 54
-    images:
-      - url: "https://i2-prod.mirror.co.uk/incoming/article31661253.ece/ALTERNATES/s1200/0_AI-robot-controlling-future-hologram-UI.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "How Banks Can Stay Resilient As AI Becomes More Disruptive"
     excerpt: "Historically, disruption is extremely rare. Only 23 of the 568 companies included in the Fortune 500 since 1997 were under 15 years old when they entered. But right now, there are three forces converging that might transform finance and other industries."
     publishedDateTime: 2023-12-18T13:15:00Z

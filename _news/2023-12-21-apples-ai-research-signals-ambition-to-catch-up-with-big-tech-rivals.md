@@ -49,6 +49,20 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "Here's how your old iPhone might get on-device generative AI"
+    excerpt: "A new Apple research paper has seemingly opened the door for old and new iPhones alike to access on-device generative AI."
+    publishedDateTime: 2023-12-22T06:54:00Z
+    webUrl: "https://www.androidauthority.com/apple-on-device-generative-ai-iphones-research-3396717/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 67
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2022/09/Apple-iPhone-14-logo.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Apple’s new AI research could totally transform your iPhone"
     excerpt: "LLMs are the backbone of AI chatbots and assistants, such as Apple's Siri, that can converse with humans and provide useful information and services. However, LLMs are also memory-hungry, requiring gigabytes of RAM to function properly."
     publishedDateTime: 2023-12-22T05:06:00Z

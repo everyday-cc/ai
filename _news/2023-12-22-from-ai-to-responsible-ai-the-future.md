@@ -9,8 +9,8 @@ ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-fro
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-from-ai-to-responsible-ai-the-futurenbsp-3344646/lite/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 71
+published: true
 
 provider:
   name: The Financial Express

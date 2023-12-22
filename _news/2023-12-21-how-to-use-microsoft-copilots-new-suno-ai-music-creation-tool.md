@@ -170,20 +170,6 @@ related:
       name: TechRadar
       domain: techradar.com
     quality: 57
-  - title: "Microsoft Launches Robust AI 'Small Language Model' For Researchers"
-    excerpt: "Microsoft has released its newest compact“small language model” titled Phi-2 that continues to perform at par or better than"
-    publishedDateTime: 2023-12-17T08:09:00Z
-    webUrl: "https://menafn.com/1107609442/Microsoft-Launches-Robust-AI-Small-Language-Model-For-Researchers"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 56
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?537922"
-        width: 419
-        height: 250
-        isCached: true
   - title: "LTIMindtree collaborates with Microsoft for AI-powered applications"
     excerpt: "LTIMindtree and Microsoft collaborate to introduce AI-powered Employee Engagement Applications. It will use Microsoft Azure OpenAI Service and Azure Cognitive Search to enable AI-led capabilities, including content summarisation,"
     publishedDateTime: 2023-12-19T09:51:00Z
